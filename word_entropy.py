@@ -1,0 +1,24 @@
+from scipy.stats import entropy
+
+def word_entropy(title : str, text : str):
+    signs = [",",".",":",";","/","@","!","?","*","&","%","$","#","(",")",";","-","_","+","="]
+    occurences = {}
+    total = 0
+    pk = []
+    
+    for w in text.split(' '):
+        if w in signs: continue
+        if w in occurences.keys(): occurences[w] += 1
+        else: occurences[w] = 1
+        total += 1
+    
+    for i in occurences.values(): pk.append(i/total)
+    print(title[:-1]+","+str(entropy(pk)))
+
+with open("vystup.txt", "r") as f:
+    print("PRIEZVISKO,TYP,VALUE")
+    for i in range(60):
+        title = f.readline()
+        text = f.readline()
+        f.readline()
+        word_entropy(title[:-4], text)
