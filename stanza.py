@@ -1,4 +1,5 @@
 import sys
+import stanza
 
 path = sys.argv[1]
 
@@ -17,4 +18,8 @@ def lemmatize(text: str) -> str:
             lemmas.append(lemma)
     return " ".join(lemmas)
 
-print(lemmatize(text))
+
+with open(path[:4]+",lemma.txt", "r") as w:
+    f.write(lemmatize(text))
+
+# for f in prace/*.txt; do python3 stanza.py "$f"; done
