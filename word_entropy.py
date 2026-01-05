@@ -1,13 +1,13 @@
 from scipy.stats import entropy
 
 def word_entropy(title : str, text : str):
-    signs = [",",".",":",";","/","@","!","?","*","&","%","$","#","(",")",";","-","_","+","=","“","„"]
+    signs = [",",".",":",";","/","@","!","?","*","&","%","$","#","(",")",";","-","_","+","=","“","„",'"',"'","€","{","}","\\","•"]
     occurences = {}
     total = 0
     pk = []
     
     for w in text.split(' '):
-        if w in signs or '0' in w or '1' in w or '2' in w or '3' in w or '4' in w or '5' in w or '6' in w or '7' in w or '8' in w or '9' in w: continue
+        if w in signs or '0' in w or '1' in w or '2' in w or '3' in w or '4' in w or '5' in w or '6' in w or '7' in w or '8' in w or '9' in w or '[' in w or ']' in w or '§' in w or '/' in w: continue
         if w in occurences.keys(): occurences[w] += 1
         else: occurences[w] = 1
         total += 1
