@@ -1,0 +1,3227 @@
+SLOVENSKÁ TECHNICKÁ UNIVERZITA V BRATISLAVE
+Materiálovotechnologická fakulta v Trnave
+
+Evidenčné číslo: MTF-11053-96638
+
+Zásady bezpečnosti práce pri opravách a údržbe strojov vo
+vybranom poľnohospodárskom podniku
+
+Diplomová práca
+
+.
+
+Trnava 2024
+
+Bc. Miklós Hervay
+
+SLOVENSKÁ TECHNICKÁ UNIVERZITA V BRATISLAVE
+Materiálovotechnologická fakulta v Trnave
+
+Zásady bezpečnosti práce pri opravách a údržbe strojov vo
+vybranom poľnohospodárskom podniku
+
+Diplomová práca
+
+Študijný program: Integrovaná bezpečnosť
+Študijný odbor: bezpečnostné vedy
+Školiace pracovisko: Ústav integrovanej bezpečnosti
+Vedúci záverečnej práce: Ing. Zuzana Szabová, PhD.
+
+Trnava 2024
+
+Slovenská technická univerzita
+v Bratislave
+Ústav integrovanej bezpečnosti
+
+Materiálovotechnologická fakulta so sídlom v Trnave
+Akademický rok: 2023/2024
+Evidenčné číslo: MTF-11053-96638
+
+ZADANIE DIPLOMOVEJ PRÁCE
+Študent:
+Bc. Miklós Hervay
+ID študenta:
+96638
+Študijný program: integrovaná bezpečnosť
+Študijný odbor:
+bezpečnostné vedy
+Vedúca práce:
+Ing. Zuzana Szabová, PhD.
+Vedúci pracoviska: prof. Ing. Maroš Soldán, PhD.
+Miesto
+UIBE MTF STU so sídlom v Trnave
+vypracovania:
+Názov práce: Zásady bezpečnosti práce pri opravách a údržbe strojov vo vybranom
+poľnohospodárskom podniku.
+Jazyk, v ktorom sa práca vypracuje: slovenský jazyk
+Špecifikácia zadania:
+Úvod
+1. Teoretické a legislatívne východiská riadenia rizík v poľnohospodárskych
+podnikoch
+2. Bezpečnosť práce pri opravách a údržbe strojov v poľnohospodárstve
+3. Výber vhodných metód analýzy rizík a ich aplikácia pri posúdení rizík pri
+opravách a údržbe poľnohospodárskych strojov a zariadení
+4. Zhodnotenie výsledkov a návrh opatrení
+Záver
+Zoznam bibliografických odkazov
+Prílohy
+
+Termín odovzdania diplomovej práce:
+Dátum schválenia zadania diplomovej práce:
+Zadanie diplomovej práce schválil:
+
+21. 04. 2024
+14. 03. 2024
+prof. Ing. Maroš Soldán, PhD. –
+garant študijného programu
+
+POĎAKOVANIE
+Ďakujem vedúcej diplomovej práce Ing. Zuzane Szabovej, PhD. za usmernenie,
+konštruktívne pripomienky a za odbornú pomoc pri vypracovaní diplomovej práce.
+
+SÚHRN
+HERVAY, Miklós: Zásady bezpečnosti práce pri opravách a údržbe strojov vo vybranom
+poľnohospodárskom podniku. [Diplomová práca]- Slovenská technická univerzita
+v Bratislave. Materiálovotechnologická fakulta so sídlom v Trnave; Ústav priemyselného
+inžinierstva, manažmentu a kvality.- Školiteľ: Ing. Zuzana Szabová, PhD. - Trnava: MTF
+STU, 2024. 64 s..
+
+Diplomová práca sa venuje zásadám bezpečnosti a ochrany zdravia pri opravách a údržbe
+strojov vo vybranom poľnohospodárskom podniku. Práca sa delí na štyri kapitoly.
+Teoretická časť práce je zameraná na prehľad dostupnej domácej a zahraničnej odbornej
+literatúry z oblasti BOZP a oblasti manažmentu rizík. Praktická časť práce sa venuje analýze
+a identifikácii nebezpečenstiev pri vybranej pracovnej činnosti a hodnotí mieru rizika
+nebezpečenstiev pri údržbe hĺbkového kypriča jednoduchou bodovou metódou a metódou
+analýzy zlyhania a ich dôsledkov FMEA. Na základe výsledkov hodnotenia rizík zvolenými
+metódami boli navrhnuté odporúčania pre zamestnávateľa za účelom zvýšenia bezpečnosti
+a ochrany poľnohospodárskych zamestnancov.
+
+Kľúčové slová : riziko, ohrozenie, hodnotenie rizík, BOZP, FMEA
+
+ABSTRACT
+HERVAY, Miklós: Principles of occupational safety in the repair and maintenance of
+machines in a selected agricultural enterprise. [Diplomová práca]- Slovenská technická
+univerzita v Bratislave. Faculty of Material Science and Technology in Trnava; Institute of
+Industrial Engineering Management an Quality.- Tutor: Ing. Zuzana Szabová, PhD. Trnava:
+MTF STU, 2024. 64 p.
+
+The diploma thesis is devoted to the principles of safety and health protection in the
+repair and maintenance of machines in a selected agricultural enterprise. The work is divided
+into four chapters. The theoretical part of the work is focused on an overview of the available
+domestic and foreign literature in the field of health and safety and risk management. The
+practical part of the work is devoted to the analysis and identification of hazards in the
+selected work activity and evaluates the degree of risk of hazards in the maintenance of a
+deep roller using a simple point method and the FMEA method of failure analysis and their
+consequences. Based on the results of the risk assessment using the chosen methods,
+recommendations were proposed for the employer in order to increase the safety and
+protection of agricultural employees.
+
+Key words: risk, hazard, risk management, OSH, FMEA
+
+OBSAH
+ÚVOD ........................................................................................................... 8
+1 TEORETICKÉ A LEGISLATÍVNE VÝCHODISKÁ RIADENIA
+RIZÍK BOZP .......................................................................................... 10
+1.1
+
+Charakteristika vybraných pojmov a terminológie ............................................. 10
+
+1.1.1
+
+Pracovné podmienky .................................................................................... 10
+
+1.1.2
+
+Bezpečnosť a ochrana zdravia pri práci (BOZP) ......................................... 11
+
+1.1.3
+
+Riziko ........................................................................................................... 11
+
+1.1.4
+
+Nebezpečenstvo a nebezpečná udalosť ........................................................ 13
+
+1.1.5
+
+Protiopatrenie ............................................................................................... 14
+
+1.2
+
+Vymedzenie pojmu BOZP .................................................................................. 14
+
+1.3
+
+Legislatívna úprava BOZP .................................................................................. 16
+
+1.4
+
+Riadenie BOZP .................................................................................................... 19
+
+1.5
+
+Metódy analýzy rizík ........................................................................................... 23
+
+1.5.1
+
+Metóda bodového hodnotenia ...................................................................... 23
+
+1.5.2
+
+Metóda FMEA – Failure Mode and Effect Analysis ................................... 26
+
+2 BEZPEČNOSŤ PRÁCE V POĽNOHOSPODÁRSTVE....................... 31
+2.1
+
+Prevalencia úrazovosti pri práci v poľnohospodárstve ........................................ 33
+
+2.2
+
+Oprava a údržba strojov v poľnohospodárstve .................................................... 34
+
+2.3
+
+Nebezpečenstvá spojené s údržbou v poľnohospodárstve................................... 35
+
+3 CIEĽ DIPLOMOVEJ PRÁCE ............................................................... 40
+4 POSÚDENIE RIZÍK V POĽNOHOSPODÁRSKOM PODNIKU ....... 42
+4.1
+
+Charakteristika vybraného podniku ..................................................................... 42
+
+4.2
+
+Analýza a identifikácia ohrozenia a rizík pri vybranej pracovnej činnosti ........ 43
+
+4.2.1
+
+Prípravné kroky analýzy rizík ...................................................................... 45
+
+4.2.2
+
+Analýza ohrozenia bodovou metódou ......................................................... 47
+
+4.2.3
+
+Hodnotenie rizík metódou FMEA ............................................................... 51
+
+5 VYHODNOTENIE VÝSLEDKOV A NÁVRH OPATRENÍ .............. 56
+ZÁVER........................................................................................................ 58
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ...................................... 60
+PRÍLOHY.................................................................................................... 64
+
+ÚVOD
+„Každý zamestnanec má právo na pracovné podmienky, ktoré zohľadňujú jeho zdravie,
+bezpečnosť a dôstojnosť“.
+(HLAVA IV, článok 31, bod. 1 Charta základných práv Európskej Únie)
+
+Pri každej ľudskej činnosti je prítomné určité riziko, ktoré môže mať negatívny vplyv
+na zdravie. Preto v rámci odboru bezpečnosti a ochrany zdravia pri práci (BOZP) má oblasť
+posudzovania rizík výnimočné postavenie. Dôvodom pre výber tejto témy bolo
+predovšetkým zistenie, že v praxi sme sa stretli s určitým rešpektom voči tejto povinnosti zo
+strany zamestnávateľov. Rozhodli sme sa danú problematiku preskúmať a zistiť aké sú
+úskalia v oblasti posudzovania rizík BOZP v poľnohospodárstve a čo by sa dalo v tejto
+oblasti zlepšiť a skvalitniť.
+Na základe výsledkov analýzy posudzovania rizík BOZP vo vybranej
+poľnohospodárskej jednotke sme sumarizovali prínosy a nedostatky pri hodnotení rizík
+ohrozujúcich zamestnancov pri oprave a údržbe poľnohospodárskych strojov. Zistenia
+poslúžili ako východisko pri formulácií odporúčaní na zníženie a odstránenie zistených rizík.
+Z pohľadu zamestnávateľov, predovšetkým malých a stredných podnikateľov, je
+hodnotenie rizík v rámci podnikovej politiky BOZP tabuizovaná oblasť.
+
+Systémy
+
+posudzovania a metódy hodnotenia rizík sú považované za zložité, aj napriek tomu, že
+faktory - riziká, ktoré by mohli zamestnancom ublížiť sa dajú pomerne jednoducho
+identifikovať.
+Poľnohospodársky sektor v Európe čelí čoraz väčšiemu počtu výziev. Vývoj
+svetového hospodárstva, extrémne výkyvy počasia, prírodné katastrofy, vojnové konflikty
+sú faktory, ktoré nedokážeme ovplyvniť. Ale ovplyvniť môžeme prístup k otázkam BOZP –
+správne nastaveným systémom riadenia BOZP sa dá ovplyvniť miera početnosti úrazov,
+chorôb a pravdepodobnosť straty majetku. Tieto aspekty nás viedli k výberu témy
+diplomovej práce, ktorá je zameraná na skúmanie zásad bezpečnosti a ochrany zdravia pri
+opravách a údržbe strojov vo vybranom poľnohospodárskom podniku.
+Práca je členená na štyri kapitoly. Teoretická časť práce je zameraná teoretické
+a legislatívne východiská riadenia a hodnotenia rizík v oblasti BOZP. V úvodnej časti práce
+sme charakterizovali vybrané pojmy a priblížili sme terminológiu súvisiacu s témou práce.
+Na základe dostupnej domácej a zahraničnej odbornej literatúry zameranej na BOZP sm
+
+definovali BOZP, predstavili sme súvisiacu legislatívu, metódy riadenia rizík BOZP. Druhá
+kapitola je zameraná na bezpečnosť a ochranu zdravia pri práci v poľnohospodárstve.
+Venovali sme sa prevalencii úrazovosti v sektore, nebezpečenstvám pri obsluhe, oprave
+a údržbe poľnohospodárskych mechanizmov. Cieľom diplomovej práce je analýza
+hodnotenia rizík pri pracovnej činnosti „oprava a údržba poľnohospodárskych strojov
+a zariadení“ formou metódy bodového hodnotenia a využitím metódy analýzy možných
+chýb a ich následkov – FMEA (Failure Mode and Effects Analysis). Metódou bodového
+hodnotenia sme
+
+hodnotili
+
+pravdepodobnosť a početnosť, dôsledky a ohrozenie pri
+
+identifikovaných rizikách. FMEA analýzou sme sledovali závažnosť, výskyt a zistiteľnosť
+možných nebezpečenstiev a rizík.
+Objektom analýzy bola malá rodinná farma situovaná na západnom Slovensku
+v okrese Dunajská Streda. Všetky informácie a údaje sme získali od majiteľa firmy, ktorý
+však nesúhlasil so zverejnením identifikačných údajov organizácie, preto sme v práci použili
+skratku RF – rodinná firma. Hlavným zameraním praktickej časti práce je analýza rizík
+vybranej pracovnej činnosti pomocou jednoduchej bodovej metódy (údržba stroja na plytké
+celoplošné obrábanie pôdy – kyprič pôdy – najprv sme analyzovali skutkový stav a porovnali
+ho s aktuálne platnou dokumentáciou BOZP; pozorovali sme jednotlivé kroky pri údržbe
+a identifikovali sme nebezpečenstvá, ktoré sú potencionálnym rizikom pre zamestnancov.
+Na základe výsledkov hodnotenia rizík zvolenými metódami boli navrhnuté
+odporúčania
+
+pre
+
+zamestnávateľa
+
+za
+
+účelom
+
+zvýšenia
+
+bezpečnosti
+
+a ochrany
+
+poľnohospodárskych zamestnancov.
+Poľnohospodárske odvetvie sektor, kde je pracovná úrazovosť najvyššia v porovnaní
+s ostatnými odvetviami národného hospodárstva krajiny. Je nevyhnutné, aby sa zníženiu
+miery pracovnej úrazovosti venovala väčšia pozornosť. Dosiahnuť sa to dá pravidelnými
+analýzami BOZP a hodnotením rizík na jednotlivých pracovných pozíciách v súčinnosti so
+zamestnancami.
+
+9
+
+1 TEORETICKÉ A LEGISLATÍVNE VÝCHODISKÁ
+RIADENIA RIZÍK BOZP
+Problematika posudzovania a hodnotenia rizík BOZP je obsiahlou oblasťou, ktorá
+je legislatívne upravená a preto sme sa v prvej kapitole zamerali na legislatívu vzťahujúcu
+sa na BOZP a na pojmy, ktoré súvisia s problematikou hodnotenia rizík BOZP
+v poľnohospodárstve. Predstavili sme legislatívnu úpravu oblasti BOZP v Slovenskej
+republike (SR) v súlade s všeobecne záväznými opatreniami EÚ. Európske nariadenia
+a dokumenty sú smerodajné aj pre tvorbu legislatívneho prostredia na zabezpečenie BOZP
+v podmienkach SR.
+1.1 Charakteristika vybraných pojmov a terminológie
+V tejto podkapitole je uvedený prehľad základných pojmov z oblasti BOZP, ktoré sú
+nevyhnutné
+
+z pohľadu
+
+chápania
+
+spracovanej
+
+problematiky.
+
+Pri
+
+charakterizovaní
+
+a definovaní pojmov sme vychádzali z všeobecne platných medzinárodných a národných
+predpisov, legislatívy a čerpali sme z domácej a zahraničnej odbornej literatúry.
+1.1.1 Pracovné podmienky
+Komplex podmienok, pôsobiacich na človeka v pracovnom
+
+procese a
+
+ovplyvňujúcich efektívny priebeh pracovného procesu sú pracovné podmienky. V zmysle
+§2, ods. 1 písm. e) zákona č. 355/2007 Z. z o ochrane, podpore a rozvoji verejného zdravia
+a o zmene a doplnení niektorých zákonov sú pracovné podmienky definované ako:
+„fyzikálne, chemické, biologické, fyziologické, psychologické faktory a spôsob výkonu
+práce pôsobiace na zdravie a pracovnú výkonnosť človeka v pracovnom procese; sú
+ovplyvňované režimom práce, odpočinkom a technickým stavom pracovného prostredia“1.
+Povinnosťou zamestnávateľa je zlepšovanie pracovných podmienok a ich
+prispôsobenie potrebám zamestnancov tak, aby riziká súvisiace s vykonávaním konkrétnej
+pracovnej činnosti boli minimálne. Možné nebezpečenstvá pri vykonávaní pracovnej
+činnosti je možné minimalizovať, ak zamestnávateľ zohľadní meniace sa okolnosti,
+priebežne sleduje, hodnotí a identifikuje riziká v závislosti od konkrétnych pracovných
+podmienok. Zamestnávateľ je povinný zabezpečiť aj zdravotný dohľad pre svojich
+
+1
+
+Zákon č. 355/2007 o ochrane a podpore verejného zdravia v aktuálnom znení
+
+10
+
+zamestnancov, zabezpečiť lekárske preventívne prehliadky a zabezpečiť dodržiavanie zásad
+BOZP.
+1.1.2 Bezpečnosť a ochrana zdravia pri práci (BOZP)
+Pojem „bezpečnosť a ochrana zdravia pri práci“ – BOZP, je oblasť ktorá zahŕňa
+všetky faktory ovplyvňujúce aktuálny stav pracovných podmienok.2
+Podľa § 146 ods. 2 Zákonníka práce a o zmene a doplnení niektorých zákonov v
+znení neskorších predpisov je BOZP stav pracovných podmienok, ktoré eliminujú a znižujú
+pôsobenie nebezpečných a škodlivých činiteľov vznikajúcich v rámci pracovného procesu
+a pracovného prostredia na zdravie zamestnancov.3
+Pojem bezpečnosť je v oblasti BOZP najčastejšie používaným pojmom, ktorým sa
+označuje stav bez akéhokoľvek ohrozenia alebo nebezpečenstva. V pracovnom procese je
+riziko veličinou, ktorá je prítomná neustále a neustále sa mení. Niektoré riziká sa vylúčia,
+nové vznikajú počas vývoja pracovného procesu. Bezpečnosť je stav, pri ktorom sa
+existujúce alebo potenciálne riziká znižujú na prijateľnú úroveň.4
+Bezpečnosť práce sa vzťahuje na pracovisko, ktorým označujeme stav pracoviska
+s vysokou mierou istoty proti riziku ohrozenia zdravia a života zamestnancov. Pri dodržaní
+bezpečnostných požiadaviek, technologických a pracovných postupov, zabezpečení
+ochranných pracovných pomôcok sa dá takmer úplne vylúčiť alebo znížiť ohrozenie života
+a zdravia osôb, poškodenia alebo zničenia hospodárskych hodnôt, ak nenastanú v prípade
+nepredvídateľné okolnosti.5
+1.1.3 Riziko
+Zákon č. 124/2006 Z. z. (o bezpečnosti a ochrane zdravia pri práci a o zmene a
+doplnení niektorých zákonov) v aktuálnom znení definuje v § 3, písm. g) riziko ako
+pravdepodobnosť vzniku poškodenia zdravia zamestnanca pri práci a stupeň možných
+následkov na zdraví.6
+
+Bezpečnosť a ochrana zdravia pri práci - Slovenská terminologická databáza [online]. data.juls.savba.sk,
+2006, [cit. 2024-11-02].
+3
+Národný Inšpektorát práce. Bezpečnosť a ochrana zdravia pri práci – BOZP. Dostupné online. Citované [
+10.01.2024] https://www.ip.gov.sk/bozp/
+4
+Safety Management. What is Safety in the workplace. 2022. Dostupné online. Citované [ 10.01.2024]
+https://www.nistglobal.com/blog/2022/10/what-is-safety-in-the-workplace/
+5
+Národný Inšpektorát práce. Bezpečnosť a ochrana zdravia pri práci – BOZP. Dostupné online. Citované [
+10.01.2024] https://www.ip.gov.sk/bozp/
+6
+Zákon o BOZP č. 124/2006 Z.z.
+2
+
+11
+
+Za riziko sa považuje čokoľvek, čo potencionálne môže spôsobiť poškodenie alebo
+ujmu. V oblasti BOZP je riziko pri práci vyjadrením pravdepodobnosti vzniku ohrozenia
+života a zdravia, ďalej vyjadruje mieru a závažnosť úrazov a ochorení.
+Každá pracovná činnosť vystavuje zamestnancov inému riziku. Riziko je faktor,
+ktorý má priamy vplyv na pravdepodobnosť, že pracovník bude vystavený nebezpečenstvu
+v dôsledku čoho možno predpokladať , že utrpí ujmu na zdraví.7
+
+Obrázok 1 Hierarchia riadenia rizika
+
+Zdroj:
+https://www.engineering.sk/clanky2/manazerske-inspiracie/11088-dizajnnajucinnejsi-sposob-riadenia-rizika-systemov
+Riziko má nežiadúci vplyv na celý proces vykonávania pracovnej činnosti a využíva
+slabú stránku, nedostatok alebo negatívny stav pracovného prostredia a tak robí objekt
+zraniteľným. Zraniteľnosť je veličina, vyjadruje citlivosť objektu na ohrozenie.8
+
+Bezpečnosť a ochrana zdravia pri práci sa týka všetkých. Praktické usmernenie pre zamestnávateľov.
+Luxemburg: Úrad pre vydávanie publikácií Európskej únie, 2016. ISBN 978-92-79-65204-2
+doi:10.2767/72531 KE-05-16-096-SK-N © Európska únia, 2016
+8
+SMEJKAL, Vladimír a Karel RAIS. Řízení rizík ve firmách a jiných organizacích. 4. aktualiz. a rozš. vyd.
+Praha: Grada, 2013. ISBN 978-80-247-4644-9.
+7
+
+12
+
+Zraniteľnosť, ktorá je vlastnosťou analyzovaného objektu, ktoré určuje mieru
+citlivosti objektu na pôsobenie rizika. Zraniteľnosť objektu je výsledkom interakcie medzi
+objektom
+
+pracovného
+
+procesu
+
+a rizikom.
+
+Úroveň
+
+zraniteľnosti
+
+je
+
+základnou
+
+charakteristikou ohrozeného objektu.
+1.1.4 Nebezpečenstvo a nebezpečná udalosť
+Nebezpečenstvo a nebezpečná udalosť sú takisto pojmami súvisiacimi s BOZP.
+Význam pojmov nebezpečenstvo a riziko je vo všeobecnom ponímaní rovnaký – oba sa
+používajú na vyjadrenie ohrozenia. V oblasti BOZP prikladáme týmto pojmom odlišný
+význam.9 V rámci BOZP nebezpečenstvo je vyjadrenie pre zdroj ohrozenia a označuje
+vlastnosti faktorov pracovného prostredia a pracovného procesu, negatívne ovplyvňujúce
+zdravie zamestnancov.
+Obrázok 2 Výstražné značky – označenia upozorňujúce na nebezpečenstvo alebo
+ohrozenie
+
+Zdroj: 444/2001 Z.z. o používaní označenia, symbolov a signálov na zaistenie BOZP
+
+Dostupné online. Citované [ 10.01.2024] https://keneducation.in/risk-vs-hazard-v-danger-should-the-termsrisk-hazard-and-danger-be-used-interchangeably/
+9
+
+13
+
+Nebezpečenstvo je „vlastnosť alebo schopnosť objektu spôsobiť úraz, chorobu
+z povolania, priemyslovú otravu, iné poškodenie zdravia pri práci, poškodenie životného
+prostredia
+
+alebo
+
+spôsobenie
+
+materiálnej
+
+škody.“10
+
+Pomerne
+
+často
+
+hovoríme
+
+o neodstrániteľnom nebezpečenstve alebo ohrození. Sú to stavy, kedy sa nebezpečenstvo
+alebo riziko nedajú obmedziť alebo vylúčiť, ani využitím najnovších vedeckotechnologických poznatkov. Nebezpečenstvo pôsobí na ľudí, majetok, procesy a môže
+zapríčiniť úraz, chorobu, škodu na strojoch a zariadeniach, straty výrobných kapacít ap.
+1.1.5 Protiopatrenie
+Špeciálny postup (proces, inovácia, technologický vývoj, racionalizácia ap.) na
+zníženie miery a negatívnych dôsledkov pôsobenia hrozby alebo na zníženie miery
+zraniteľnosti označujeme názvom protiopatrenie alebo opatrenie. Cieľom protiopatrení
+alebo opatrení na zníženie a elimináciu rizika je zmiernenie následkov, vzniknutej škody,
+prevencia vzniku škody a ohrozenia zdravia. Jedným z aspektov protiopatrenia je
+efektívnosť, pomocou ktorej môžeme vyjadriť do akej miery dokážu prijaté opatrenia znížiť
+vplyv ohrozenia. Efektivita je hlavným parametrom hodnotenia navrhovaných protiopatrení.
+Druhým parametrom hodnotenie sú náklady – zvažuje sa pomer vynaložených nákladov v
+porovnaní s ekonomickým prínosom prijatých opatrení.
+1.2 Vymedzenie pojmu BOZP
+Vymedzenie pojmu BOZP je determinované skutočnosťou, že BOZP je
+multidisciplinárny odbor, ktorý je upravený viacerými legislatívnymi predpismi. Pri výkone
+práce prichádzajú zamestnanci do styku s rozmanitými pracovnými prostriedkami, nástrojmi
+a zariadeniami a vykonávajú prácu v určitom pracovnom prostredí a podmienkach. BOZP
+smeruje k tomu, aby podmienky boli pre zamestnancov čo najpriaznivejšie a boli
+prispôsobené ich potrebám, aby sa minimalizovalo ohrozenie ich zdravia alebo života.
+Hlavným cieľom BOZP je vytvorenie systému pravidiel, na ochranu zamestnancov
+pred negatívnymi vplyvmi a následkami v pracovnom procese. BOZP je zamerané na
+predchádzanie vzniku rizík v pracovnom prostredí, na prispôsobenie podmienok pre
+vykonávanie pracovných činností potrebám zamestnancov a na ochranu pracovného
+prostredia a na zabezpečenie ochrany materiálnych hodnôt zamestnancov.11
+SINAY, Juraj; a kol.: Rizika technických zariadení, manažérstvo rizika. Košice: OTA, a.s. 1997. s. 212.
+ISBN 80-967783-0-7
+11
+NEUGEBAUER, T. Bezpečnost a ochrana zdraví při práci v kostce, neboli, O čem je současná BOZP. 2.,
+aktualizované a rozšířené vydání. Praha: Wolters Kluwer, 2016, s. 16. ISBN 978-80-7552-106-4.
+10
+
+14
+
+Pravidlá BOZP na pracovisku nevzťahujú len na zamestnávateľa a na zamestnancov,
+ale musia byť upravené tak, aby platili aj pre osoby, ktoré sa z akéhokoľvek dôvodu
+s vedomím zamestnávateľa zdržiavajú na zamestnávateľom riadených pracoviskách.12
+BOZP je z ekonomického hľadiska ochranou aj pre zamestnávateľa pretože pracovné
+úrazy alebo choroby z povolania negatívne ovplyvňujú fond zamestnancov, znižujú sa stavy
+zamestnancov a navyšujú náklady zamestnávateľa vo forme úhrady náhrady mzdy v čase
+trvania pracovnej neschopnosti alebo vo forme výplaty odškodného.
+BOZP je zložitý mechanizmus, ktorý tvoria právne predpisy zasahujúce rôzne
+oblasti. BOZP je komplexný systém, ktorý zahŕňa všetky faktory súvisiace s ochranou
+zdravia a života zamestnancov:
+-
+
+fyzická a psychická pohoda,
+
+-
+
+sociálna ochrana,
+
+-
+
+pracovné prostredie,
+
+-
+
+pracovné podmienky,
+
+-
+
+pracovné vzťahy,
+
+-
+
+sociálne a hygienické vybavenie pracovísk.13
+
+Zosúladenie vyššie uvedených faktorov je náročné a preto je potrebné oblasti BOZP
+venovať v každom odvetví mimoriadnu pozornosť. BOZP tvorí neoddeliteľnú súčasť
+riadiacej, výrobnej a kontrolnej činnosti na všetkých stupňoch riadenia.
+BOZP je dôležitým nástrojom riadenia – ak chce firma udržať postavenie
+v konkurenčnom prostredí je v záujme manažmentu, aby jeho zamestnanci boli zdraví aby
+mohli garantovať vysokú úroveň produktivity práce. Komplexnú starostlivosť o
+zamestnancov môžu firmy zabezpečiť prostredníctvom implementácie
+
+systému
+
+manažérstva bezpečnosti a ochrany zdravia - ISO 45001 ako aj zavedením ergonomických
+programov.
+Uplatňovanie prvkov v oblasti manažérstva BOZ a ergonómie posúva firmy
+k rozvíjaniu nových aspektov BOZP. Tieto atribúty vedú k zvýšeniu efektivity ľudskej
+práce. Ergonómia a BOZP sú úzko prepojené a spoločným zámerom týchto oblastí je
+riešenie každodenných výziev v oblasti bezpečnosti a ochrany zdravia pri práci.
+
+Tamtiež
+Národný Inšpektorát práce. Bezpečnosť a ochrana zdravia pri práci – BOZP. Dostupné online. Citované [
+10.01.2024] https://www.ip.gov.sk/bozp/
+12
+13
+
+15
+
+1.3 Legislatívna úprava BOZP
+Oblasť BOZP je upravená viacerými legislatívnymi normami, zákonmi. Niektorými
+aspektmi BOZP sa zaoberá aj Ústava Slovenskej republiky. V zmysle článku 36 majú
+zamestnanci právo na spravodlivé a uspokojujúce pracovné podmienky, pričom im zákon
+zabezpečuje ochranu bezpečnosti a zdravia pri práci. Toto ustanovenie nadväzuje na
+medzinárodné platné dokumenty a rešpektuje právnu úpravu EÚ.
+Po podpísaní Lisabonskej zmluvy sa Listina základných práv EÚ stala záväznou.
+Právny základ pre politiku EÚ v oblasti BOZP udávajú články 91, 114, 115, 151, 153 a 352
+Zmluvy o fungovaní EÚ. Napríklad článok 153 tejto zmluvy umožňuje orgánom EÚ
+prijímať právne normy o BOZP tak, aby tieto podporili a doplnili aktivity členských štátov.
+EÚ stanovila minimálne požiadavky, ale členským krajinám ponechali možnosť zavedenia
+vyššej úrovne ochrany života a zdravia zamestnancov na vnútroštátnej úrovni.14
+V BOZP sa minimálne požiadavky vzťahujú predovšetkým na nasledovné oblasti:
+− minimálne normy pre pracoviská;
+− vibrácie;
+− hluk;
+− značenie;
+− elektromagnetické polia;
+− ručnú manipuláciu;
+− biologické, chemické a fyzikálne prostriedky;
+− tehotné pracovníčky a mladých ľudí;
+− pracovné prostriedky;
+− zobrazovacie jednotky;
+− osobné ochranné prostriedky;
+− azbest;
+− mobilné pracoviská (staveniská).15
+Ďalšie medzinárodne platné legislatívne normy a dokumenty:
+− Charta Organizácie spojených národov,
+
+Bezpečnost a ochrana zdraví při práci | Fakta a čísla o Evropské unii | Evropský parlament [online]. [cit.
+12. 02. 2024] Dostupné online: https://www.europarl.europa.eu/factsheets/cs/sheet/56/bezpecnost-aochrana-zdravi-pri-praci
+15
+Dodatok 2.2: Európske smernice o bezpečnosti a ochrane zdravia)
+14
+
+16
+
+− Európska sociálna charta,
+− Smernica Rady 89/391/EHS
+− Dohovor MOP č. 155 o bezpečnosti a zdraví zamestnancov a pracovnom
+prostredí,
+− Systém manažérstva bezpečnosti a ochrany zdravia - ISO 45001
+− Charta základných práv Európskej únie, podľa ktorej má „Každý
+zamestnanec právo na pracovné podmienky, ktoré zohľadňujú jeho zdravie,
+bezpečnosť a dôstojnosť“.16
+V Slovenskej republike oblasť BOZP upravená súborom zákonov, nariadení vlády,
+vyhlášok príslušných ministerstiev a ostatných ústredných orgánov štátnej správy, ďalej
+vyhlášky a technické normy (kompletný zoznam súvisiacich zákonov je uvedený
+v bibliografických zdrojoch). Súbor dokumentov na úpravu oblasti BOZP tvoria všeobecne
+záväzné predpisy, ktoré vymedzujú rozsah opatrení a špecifikujú nástroje na zaistenie
+BOZP.17
+V Slovenskej republike patria medzi najvýznamnejšie legislatívne predpisy:
+− Zákon NR SR č. 124/2006 Z.z. o BOZP a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov - vymedzuje všeobecné zásady ochrany života
+a zdravia zamestnancov, základné podmienky BOZP, podmienky na vylúčenie rizík
+a faktorov, podmieňujúcich vznik pracovných úrazov, chorôb z povolania ap.;
+vytvára podmienky pre stanovenie základných princípov a opatrení BOZP, určuje
+nástroje na zabezpečenie BOZP, ovplyvňuje systémy riadenia BOZP a tvorbu
+bezpečnostnej stratégie firiem.
+− Zákon č. 311/2001 Z. z. Zákonník práce a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov, § 39 vymedzuje právnu úpravu BOZP a stanovuje,
+že za „predpis sa považuje aj dokument obsahujúci pravidlá BOZP vypracovaný
+zamestnávateľom v spolupráci so zástupcami zamestnancov.“18 Tento zákon
+stanovuje, že interné predpisy BOZP v podnikoch musia detailne uvádzať
+a špecifikovať práva a povinnosti zamestnávateľov aj zamestnancov. Interné
+predpisy prispôsobujú všeobecne platné predpisy a normy špecifickým
+
+HLAVA IV., článok 31, bod. 1 Charta základných práv Európskej únie. Citované [ 10.01.2024] Dostupné
+online: https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:12016P/TXT
+17
+Citované [ 14.01.2024] Dostupné online:https://www.employment.gov.sk/sk/pracazamestnanost/bezpecnost-ochrana-zdravia-pri-praci/
+18
+Zákonník práce 311/2001
+16
+
+17
+
+podmienkam a potrebám v konkrétnom podnikateľskom subjekte a zohľadňujú
+aktuálne bezpečnostné požiadavky v danom hospodárskom odvetví. Pri
+prispôsobení vnútropodnikových predpisov sa ukladá zamestnávateľom, aby
+prihliadali na nasledovné faktory: druh výroby, typ pracovnej činnosti,
+usporiadanie pracovísk, použitá technológia, stupeň nebezpečnosti spracúvaných
+materiálov, výrobné a prevádzkové priestory, komunikácie určené pre vozidlá,
+vybavenie skladov, manipulačné zariadenia, nakladacie a vykladacie rampy ap.19
+Prvoradým cieľom legislatívy je zlepšenie pracovných podmienok zamestnancov vo
+všetkých odvetviach národného hospodárstva, zníženie počtu úrazov, chorôb či smrti
+súvisiacich s prácou. Medzi ďalšie ciele patrí vytvorenie bezpečného a zdraviu neškodného
+pracoviska. Základná koncepcia legislatívy upravujúcej oblasť BOZP je v jednotlivých
+členských krajinách EÚ rovnaká, ale vnútroštátne právo a nariadenia sa líšia v závislosti od
+potrieb, charakteristík a skúseností jednotlivých členských krajín.20
+Poľnohospodárske odvetvie má rôzne aspekty (okrem pestovania plodín, chov
+hospodárskych zvierat, záhradníctvo), ktoré determinujú faktory vplývajúce na oblasť BOZP
+a zatiaľ nie je k dispozícii jednotná smernica, ktorá by sa zvlášť zamerala na BOZP v tomto
+odvetví.
+V poľnohospodárskom odvetví sa v súčasnosti uplatňuje rámcová smernica č.
+89/391/EHS. Do legislatívy SR boli usmernenia smernice implementované zákonom č.
+124/2006 Z.z. o BOZP a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov, zákonom č. 355/2007 Z.z. o ochrane, podpore a rozvoji verejného zdravia a o
+zmene a doplnení niektorých zákonov v znení neskorších predpisov a v zákone č. 311/2001
+Z.z. Zákonník práce v znení neskorších predpisov.
+Špecifické aspekty poľnohospodárskeho sektora (nízka úroveň odborného vzdelania,
+práca s chemickými prípravkami na ochranu pestovaných rastlín, práca s ťažkými
+mechanizmami, práca v skleníkoch, práca vonku, práca s hospodárskymi zvieratami,
+izolácia na pracovisku) podmieňujú zvýšené riziko, ktorému musia poľnohospodársky
+zamestnanci čeliť a táto skutočnosť sa odzrkadľuje vo vyššej miere nehodovosti v porovnaní
+s inými odvetviami národného hospodárstva. Špecifiká poľnohospodárskeho sektora si
+vyžadujú špecifický systém riadenia BOZP a hodnotenia rizík.
+Ministerstvo práce, sociálnych vecí a rodiny. Bezpečnosť a ochrana zdravia pri práci. Citované [
+10.01.2024] Dostupné online:Vyhláška č. 59/1982 Zb.Vyhláška Slovenského úradu bezpečnosti práce,
+ktorou sa určujú základné požiadavky na zaistenie bezpečnosti práce a technických zariadení
+20
+HLAVA IV., článok 31, bod. 1 Charta základných práv Európskej únie. Citované [10.01.2024] Dostupné
+online: https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=CELEX:12016P/TXT
+19
+
+18
+
+Poľnohospodárstvo z vyššie uvedených dôvodov je zaradené medzi najrizikovejšie
+sektory. Spoločným znakom odvetvia je jeden z najhorších výsledkov úrovne starostlivosti
+o BOZP, na čo poukazuje vysoký počet pracovných úrazov, množstvo poranení pri práci a
+chorôb súvisiacich s prácou v poľnohospodárstve.21
+1.4 Riadenie BOZP
+Bezpečnostný manažment, alebo riadenie BOZP je efektívny samoregulujúci sa
+systém, ktorý je zameraný na integrované riadenie bezpečnosti a ochrany zdravia
+v podniku.22
+Povinnosťou zamestnávateľa v zmysle legislatívy je predovšetkým ochrana zdravia
+a životov zamestnancov a ostatných osôb zdržiavajúcich sa na pracovisku. Ďalšou
+povinnosťou je zaistenie komunikácie a konzultácie so zamestnancami, ktorého cieľom je
+zabezpečenie spolupráce zamestnancov v riešení otázok súvisiacich s BOZP. Systém
+riadenia rizík je nástrojom pre zamestnávateľa, ktorý slúži na ochranu a životy
+zamestnancov. Podľa amerického teoretika Deminga23 bola zavedená metóda postupného
+zlepšovania postupov PDCA (z angl. Plan-Do-Controll-Act – plánuj, konaj, kontroluj
+a jednaj).
+Metóda kontinuálneho zlepšovania procesov PDCA sa aplikuje aj v oblasti BOZP.
+Prvým krokom je plánovanie „PLAN“ v rámci ktorého sa vyhodnocujú riziká a identifikujú
+sa zákonné požiadavky na dané pracovisko a pracovnú činnosť. Následne sa stanovia ciele
+a definujú kroky na dosiahnutie zlepšenia. Základom plánovania v systéme BOZP je
+hodnotenie rizík.
+Ďalším krok je „DO“ – konaj. V tomto kroku sa identifikujú oblasti zodpovednosti,
+nastavujú sa pravidlá komunikácie, určia sa stupne školení, definujú sa kroky implementácie
+procesov, zavedenia procesov alebo prvkov a spôsob ich realizácie v praxi.
+Predposledný krok je „CHECK“ –
+
+kontrola. Zahŕňa monitorovanie a analýzu
+
+procesov, právnych predpisov, podávanie správ o zisteniach a hodnotenie výsledkov.
+
+BOZP pracovníkov pri práci v poľnohospodárstve. 2021. Časopis Bezpečnosť práce v praxi. Ročník 2021.
+Vydanie 3/2021. Citované [10.01.2024] Dostupné online:
+https://www.pracovnepravo.sk/sk/casopis/bezpecnost-prace-v-praxi/bezpecnost-a-ochrana-zdraviapracovnikov-pri-praci-v-polnohospodarstve.m-1033.html
+22
+Řízení BOZP - Znalostní systém prevence rizik v BOZP. Úvod - Znalostní systém prevence rizik v BOZP
+[online]. [cit. 13. 02. 2024]. Dostupné online: https://zsbozp.v3bp.cz/rizeni-bozp/89- rizeni-rizik
+23
+KRAJČÍOVÁ, M. Zlepšovanie procesov. [online]. [cit. 13. 02. 2024]. Dostupné online:
+http://www.krajciova.sk/SLIDY/02%20SlidyPDF/01%20ProcesnaOrganizacia/06%20Procesy/MK_08_ZlepsovanieProcesov_V1.pdf
+21
+
+19
+
+„ACT TO IMPROVE“ – jednaj v záujme zlepšenia. V poslednom kroku metódy
+kontinuálneho zlepšovania PDCA sa prijímajú opatrenia na zlepšovanie výkonnosti v oblasti
+BOZP.24
+Obrázok č 3 PDCA cyklus
+
+ACT
+
+PLAN
+
+CHECK
+
+DO
+
+Zdroj: vlastné spracovanie na základe:
+https://www.workpath.com/en/magazine/pdca-cycle
+Predpokladom pre správne fungovanie systému riadenia BOZP je jeho
+implementácia, dodržiavanie a priebežná aktualizácia. Postupy, štandardy, zodpovednosti a
+povinnosti zamestnávateľa, zamestnancov tvoria dokumentáciu BOZP. Systém riadenia
+BOZP je súčasťou celkového systému riadenia v spoločnosti. Riedenie BOZP zahŕňa
+plánovanie, procesy, postupy a zdroje pre uplatnenie a udržiavanie politiky BOZP, ktoré
+zjednodušujú hodnotenie rizík BOZP, spojených s procesmi a aktivitami daného podniku.25
+V roku 2018 vyšla nová medzinárodne platná norma ISO 45001 Systémy manažmentu
+bezpečnosti a ochrany zdraví pri práci – požiadavky, ktorá nahrádza normu OHSAS 18001.
+Novými prvkami normy ISO 45001, ako napríklad:
+-
+
+zameranie sa na zamestnanca, na komunikáciu so zamestnancom a na jeho účasti
+v procese manažmentu BOZP;
+
+-
+
+vymedzenie postavenia organizácie (postavenie podniku je východiskom pre
+nastavenie systému riadenia BOZP); musí byť jasne definované v akom odvetví
+
+VALA, Jiří. Systémové řízení bezpečnosti a ochrany zdraví v organizacích. Praha: Wolters Kluwer, 2016.
+ISBN 978-80-7552-109-5.
+25 Řízení BOZP - Znalostní systém prevence rizik v BOZP. Úvod - Znalostní systém prevence rizik v BOZP
+[online]. [cit. 13. 02. 2024]. Dostupné online: https://zsbozp.vubp.cz/rizeni-bozp/89- rizeni-rizik
+24
+
+20
+
+podnik pôsobí, aké vonkajšie a vnútorné faktory ovplyvňujú jeho činnosť, akým
+výzvam čelí, za akých podmienok funguje, definujú sa dodávatelia a odberatelia,
+externí poskytovatelia služieb ap.
+BOZP je integrálnou súčasťou podnikového manažmentu. Východiskom riadenia
+rizík je analýza prostredníctvom ktorej je možné vytvoriť bezpečné pracovné prostredie
+a neustále ho zlepšovať.
+Analýzu rizík v oblasti BOZP ponímame ako komplexný proces, ktorý je
+kľúčom znižovania nehôd a úrazovosti na pracoviskách a predpokladá elimináciu vzniku
+chorôb z povolania. Analýza je proces, ktorý sa uskutočňuje podľa stanoveného plánu tak,
+aby sa dodržala logická postupnosť jednotlivých s cieľom dosiahnuť kontrolovateľný
+a hodnotiteľný výsledok.
+Analýza rizík je zameraná na znižovanie negatívnych následkov nebezpečenstva a
+prostredníctvom identifikácie zdroja nebezpečenstva a miery rizika navrhuje opatrenia, ktoré
+menia úroveň bezpečnosti a ochrany zdravia pro vykonávaní pracovnej činnosti. Úlohou
+analýzy je identifikácia, hodnotenie a monitorovanie úrovne rizika na kvalitatívnej aj
+kvantitatívnej úrovni. Príprava systému riadenia bezpečnosti a bezpečnostných politík
+vychádza z výsledkov a zistení analýzy rizík.26
+Obrázok 4 Schéma riadenia rizík
+
+Vyhľadávanie
+rizík
+
+Sledovanie,
+hodnotenie a
+spätná
+kontrola
+
+Prijímanie
+opatrení
+
+Informovanie
+o rizikách
+
+Vedenie
+dokumentácie
+
+Zdroj: Vlastné spracovanie na základe
+https://www.bezpecnostprace.info/rizika/rizeni-rizik-bozp/
+SMEJKAL, Vladimír a Karel RAIS. Řízení rizík ve firmách a jiných organizacích. 4. aktualiz. a rozš. vyd.
+Praha: Grada, 2013. ISBN 978-80-247-4644-9.
+26
+
+21
+
+Analýzu rizík v oblasti BOZP ponímame ako komplexný proces, ktorý je
+kľúčom znižovania nehôd a úrazovosti na pracoviskách a predpokladá elimináciu vzniku
+chorôb z povolania. Analýza je proces, ktorý sa uskutočňuje podľa stanoveného plánu tak,
+aby sa dodržala logická postupnosť jednotlivých s cieľom dosiahnuť kontrolovateľný
+a hodnotiteľný výsledok.
+Analýza rizík je zameraná na znižovanie negatívnych následkov nebezpečenstva a
+prostredníctvom identifikácie zdroja nebezpečenstva a miery rizika navrhuje opatrenia, ktoré
+menia úroveň bezpečnosti a ochrany zdravia pro vykonávaní pracovnej činnosti. Úlohou
+analýzy je identifikácia, hodnotenie a monitorovanie úrovne rizika na kvalitatívnej aj
+kvantitatívnej úrovni. Príprava systému riadenia bezpečnosti a bezpečnostných politík
+vychádza z výsledkov a zistení analýzy rizík.27
+Manažment rizík BOZP je súčasťou riadenia podnikových procesov. Úlohou
+manažmentu rizík je znižovanie miery nebezpečenstva.28 Manažment riadenia BOZP
+vychádza z ustanovení ISO 45001. Norma je medzinárodne platným štandardom, ktorý tvorí
+rámec pre spravovanie a priebežné zlepšovanie BOZP v organizácii bez ohľadu na jej
+veľkosť, odvetvovú štruktúru, či geografickú polohu.29 Norma prispieva k vytváraniu
+systematického prístupu riadenia BOZP, ktorý organizácia integruje do ostatných
+podnikových procesov, čím sa vytvárajú podmienky na prevenciu nebezpečenstiev
+a ohrození, prevenciu pracovných úrazov a prevenciu dlhodobých alebo krátkodobých
+zdravotných problémov pri vykonávaní pracovnej činnosti.
+ISO 45001sa považuje aj za platformu pre rozvoj pozitívnej kultúry BOZP, ktorá
+zapája do riadenia BOZP aj zamestnancov. Zamestnanci sa tak môžu zapájať do tvorby
+systému riadenia BOZP a prispieť tak k zlepšovaniu systému. Norma usmerňuje
+zamestnávateľov aby systém riadenia BOZP auditovali, kontrolovali a priebežne zlepšovali,
+posudzovali plnenie úloh vyplývajúcich z normy. Zavedenie manažmentu BOZP podľa
+uvedenej normy poskytuje organizácii podporu vytvoriť bezpečné a zdravotne nezávadné
+pracovné prostredie a zabezpečiť kontinuitu podnikania.
+Štandardné
+
+požiadavky
+
+môžu
+
+výrazne
+
+pomôcť
+
+organizácii
+
+zlepšovať
+
+vnútropodnikové procesy, budovať a posilňovať firemnú kultúru a sústavne zvyšovať
+SMEJKAL, Vladimír a Karel RAIS. Řízení rizík ve firmách a jiných organizacích. 4. aktualiz. a rozš. vyd.
+Praha: Grada, 2013. ISBN 978-80-247-4644-9.
+28
+KRULIŠ, Jiří. Jak vítězit nad riziky: aktivní management rizik - nástroj řízení úspěšných firem. Praha:
+Linde, 2011. ISBN 978-80-7201-835-2
+29 Occupational Health & Safety Implementation Guide. Introduction to the Standard. 2018.
+https://www.nqa.com/medialibraries/NQA/NQA-Media-Library/PDFs/NQA-ISO-45001-ImplementationGuide.pdf
+27
+
+22
+
+úroveň podnikateľskej činnosti a súčasne tvoriť bezpečné prostredie pre vykonávanie
+poľnohospodárskych a iných pracovných činností.
+1.5 Metódy analýzy rizík
+Predpokladom pre tvorbu bezpečného pracovného prostredia je analýza
+nebezpečenstiev a ohrození, posúdenie rizík a ich znižovanie alebo eliminácia. Analýza rizík
+sa vykonáva viacerými metódami.
+Stratégia tvorby analýzy a logická postupnosť sa skladá z viacerých krokov, ktoré
+nie je možné vynechať ani preskočiť. V súčasnosti je k dispozícii mnoho metód na
+analyzovanie rizík v BOZP. Povaha pracovnej činnosti, pracovného prostredia,
+technologického vybavenia, charakter výroby, hospodárske odvetvie – tieto faktory sú
+určujúce pre výber vhodnej metódy.
+Dnes majú zamestnávatelia k dispozícii viacero metód. Medzi najznámejšie metódy
+analýzy a hodnotenia rizík pri vykonávaní pracovnej činnosti patria:
+− HAZOP - Analýza nebezpečenstva a prevádzková spôsobilosť.
+− FTA - analýza stromu porúch.
+− ETA - Analýza stromu udalostí.
+− PHA - predbežná analýza rizík.
+− FMEA - analýza typov a dôsledkov možných chýb.
+− LOPA - analýza bezpečnostnej vrstvy.
+− QRA - kvantitatívne hodnotenie rizík.
+− Bodové hodnotenie.
+V praktickej časti diplomovej práce sme zvolili dve metódy. Za účelom analýzy a
+hodnotenia rizík pri vybranej pracovnej činnosti v poľnohospodárstve – údržba
+poľnohospodársky strojov sme použili metódu jednoduchého bodového hodnotenia metódu
+FMEA.
+1.5.1 Metóda bodového hodnotenia
+Metóda bodového hodnotenia je najjednoduchšou metódou a v oblasti BOZP sa
+používa na vyhodnotenie miery ohrozenia zdravia zamestnanca. Pomocou tejto metódy sa
+preverujú možnosti objavenia sa rizika.30 Pri tejto semi-kvantitatívnej metóde sa:
+Faško, M. Hodnotenie rizík z pohľadu BOZP. 2022. . Citované [11.04.2024] Dostupné
+online:https://www.bezpecnostvpraxi.sk/clanok-z-titulky/hodnotenie-rizik-z-pohladu-bozp-aktbvp.htm
+
+30
+
+23
+
+−
+
+na stupnici od 1 do 5 hodnotí pravdepodobnosť,
+
+− na stupnici od 1 do 4 sa vyhodnocuje dôsledok
+− a závažnosť rizika sa vyjadruje slovne.
+Maticu číselného posúdenia rizika tvoria dva parametre: hodnota početnosti – P
+a hodnota dôsledku – D.
+R= P x D
+Pravdepodobnosť existencie a vzniku rizika P (tento parameter je určený
+z predpokladaného počtu vzniku nebezpečenstva v posudzovanom procese:
+−
+
+odhad možností, že nebezpečenstvo vznikne
+
+− pravdepodobnosť, že nežiaduca udalosť vznikne – určuje sa odhad alternatív, že
+k nepriaznivej udalosti dôjde, pravdepodobnosť ako dôjde k nežiaducej udalosti.
+(Tabuľka 1)
+Tabuľka 1 Bodové hodnotenie pravdepodobnosti “P”
+
+1
+2
+
+PRAVDEPODO
+BNOSŤ
+Veľmi nízka
+Nízka
+
+3
+
+Stredná
+
+4
+
+Vysoká
+
+HODNOTA
+
+Veľmi vysoká
+
+FREKVENCIA VZNIKU
+Vznik ohrozenia je takmer vylúčený
+Vznik ohrozenia je málo
+pravdepodobný, alebo možný
+Je pravdepodobné, že sa jav objaví
+niekedy počas životnosti zariadenia
+alebo trvania výkonu pracovnej
+činnosti
+Jav sa objaví pravdepodobne
+niekoľkokrát počas životnosti
+zariadenia alebo trvania výkonu
+pracovnej činnosti
+Jav sa objaví veľmi často
+
+Zdroj:
+vlastné
+spracovanie
+na
+základe
+content/uploads/2018/01/NIP-BOZP-stroje-nahl.pdf
+
+ČASOVÉ PÔSOBENIE
+OHROZENIA
+Takmer nemožné ohrozenie
+Veľmi zriedkavé ohrozenie
+Zriedkavé ohrozenie
+
+Občasné ohrozenie
+
+Sústavné nebezpečenstvo a
+ohrozenie
+
+https://www.ip.gov.sk/wp-
+
+Pravdepodobnosť existencie a vzniku rizika „P“ (tento parameter je určený
+z predpokladaného počtu vzniku nebezpečenstva v posudzovanom procese:
+−
+
+odhad možností, že nebezpečenstvo vznikne
+
+− pravdepodobnosť, že nežiaduca udalosť vznikne – určuje sa odhad alternatív, že
+k nepriaznivej udalosti dôjde, pravdepodobnosť ako dôjde k nežiaducej udalosti.
+(Tabuľka 1)
+
+24
+
+Parameter „D“ slúži na určenie stupňa negatívneho dôsledku nebezpečenstva,
+posudzuje sa miera poškodenia zdravia, ktoré by mohlo byť zapríčinené vplyvom rizika pri
+vykonávaní pracovnej činnosti. (tabuľka 2)
+Tabuľka 2 Bodové hodnotenie dôsledku “D”
+HODNOTA
+1
+
+DÔSLEDOK
+zanedbateľný
+
+2
+
+Málo významný
+
+3
+
+kritický
+
+4
+
+Katastrofický
+
+CHARAKTERISTIKA DÔSLEDKU
+Drobné poranenie, zanedbateľné narušenie zdravotného stavu
+zamestnanca
+Mierne narušenie zdravotného stavu, ľahký úraz, známky vzniku
+choroby z povolania
+Rozsiahle poškodenie zdravotného stavu, ťažký úraz, choroba z
+povolania, značné finančné straty
+Pracovný úraz so smrteľnými následkami, nenahraditeľné straty
+
+Zdroj:
+vlastné
+spracovanie
+na
+základe
+content/uploads/2018/01/NIP-BOZP-stroje-nahl.pdf
+
+https://www.ip.gov.sk/wp-
+
+V tabuľke 3 sme uviedli výpočet hodnoty rizika podľa metódy bodového hodnotenia.
+Hodnota rizika „R“ je súčin parametrov „P“ a „D“. Najvyššia výsledná hodnota rizika môže
+byť 20 a najnižšia 1.
+R- riziko– kombinácia parametrov pravdepodobnosti (P) a dôsledku (D) určuje
+výslednú hodnotu rizika. Najvyššia hodnota môže byť 20 a najnižšia 1.
+Tabuľka 3 Bodové hodnotenie - číselná matrica
+2
+
+4
+
+DÔSLEDOK/POČETNOSŤ
+
+1
+
+1
+
+1
+
+4
+
+6
+
+12
+
+2
+
+2
+
+7
+
+11
+
+13
+
+3
+
+3
+
+10
+
+15
+
+17
+
+4
+
+5
+
+12
+
+16
+
+19
+
+5
+
+8
+
+14
+
+18
+
+20
+
+Zdroj:
+vlastné
+spracovanie
+na
+základe
+content/uploads/2018/01/NIP-BOZP-stroje-nahl.pdf
+25
+
+3
+
+https://www.ip.gov.sk/wp-
+
+Pri jednoduchej bodovej metóde hodnotenia rizík je nebezpečenstvo zaradené do
+štyroch skupín. Výsledná hodnota určuje, či je možné nebezpečenstvo akceptovať, alebo je
+potrebné prijať protiopatrenia, aby sa nebezpečenstvo podľa možnosti odstránilo, alebo sa
+aspoň minimalizovalo.31
+V matici rizika sú znázornené štyri úrovne rizika na základe jednoduchej bodovej
+metódy v rozsahu 20 bodov.
+− Prvú úroveň tvoria hodnoty od 1-3 – pracovisko je bezpečné, nie sú potrebné
+protiopatrenia
+− Hodnoty 4 - 11 tvoria druhú úroveň – BOZP je zabezpečené dodržiavaním presne
+vymedzených zásad – školenie, pravidelná údržba a kontrola ap.
+− Tretia úroveň, rozpätie od 12 – 15, označujú nežiadúci stave, je prítomné
+nebezpečenstvo alebo ohrozenie a je potrebné prijať opatrenia na ich
+minimalizáciu,
+− Posledná úroveň s bodovým rozpätím16 - 20 označuje neprijateľné riziko, v tomto
+prípade je potrebné okamžite zasiahnuť a uplatniť bezpečnostné opatrenia –
+odstavenie stroja, vypnutie prívodu prúdu, plynu,
+V praxi majú body konkretizovaný rozmer – body predstavujú normohodiny,
+financie, množstvo produkcie, etapy. Jednoduchá metóda bodového hodnotenia rizík sa
+uplatňuje v prevádzkach, kde sa vyskytujú pracovné úrazy častejšie a preto sme ju využili aj
+v pri hodnotení rizík pri údržbe poľnohospodárskeho stroja. Je to pomerne rýchla metóda
+a dá sa využiť pre posúdenie rizík strojov a zariadení. Aplikácia bodovej metódy hodnotenia
+rizík je nenáročná. Pri zostavovaní zoznamu potencionálnych rizík je vhodné do procesu
+hodnotenia zapojiť zamestnancov, ktorí poznajú pracovné procesy, pracoviská a sú
+oboznámený s legislatívnym rámcom vzťahujúcim sa na riadenie BOZP:
+1.5.2 Metóda FMEA – Failure Mode and Effect Analysis
+Metóda FMEA patrí do skupiny základných analytických metód, ktoré sa používajú
+v procese riadenia kvality, v riadení spoľahlivosti, bezpečnosti. Patrí k základným metódam
+používaným v semikvantitatívnej analýze rizík, pričom sa aplikuje nielen na výrobné
+procesy a výrobky, ale aj služby, finančné, sociálne a iné procesy.
+
+31
+
+Health and safety management systems. Ocupational Health and Safety Management Systems ISO 45001
+management standard. Citované [01.04.2024] Dostupné online: https://www.iso.org/standard/88428.html
+
+26
+
+Tichý32 (2006) tvrdí, že aplikácia metódy FMEA pozostáva z dvoch základných fáz:
+1. Fáza identifikácie, kedy sa experti sústreďujú na identifikáciu: - všetkých potenciálnych
+chýb, ktoré môžu vzniknúť v bežných i extrémnych prevádzkových podmienkach bez
+ohľadu na ich závažnosť alebo pravdepodobnosť vzniku, - všetkých možných následkov
+chýb, - všetkých možných príčin vzniku danej chyby, pričom jedna chyba môže mať viacero
+následkov a podobne jeden následok môže mať viacero príčin. Táto fáza sa môže
+uskutočňovať vo forme Brainstormingu, resp. korešpondenciou.
+2. Numerická fáza, ktorá sa sústreďuje na výpočet miery rizika vo forme rizikového
+čísla (RPN), ktorá môže vzniknúť v prípade každej možnej príčiny chyby. Obvykle sa miera
+rizika počíta podľa vzťahu:33
+− RPN = PV x VV x PO
+− PV - pravdepodobnosť výskytu potenciálnej chyby,
+− VV - význam chyby,
+− PO - pravdepodobnosť odhalenia chyby.
+Hodnoty parametrov PV, VV a PO volia experti na základe stupníc, ktoré sú
+zostavené ľubovoľne a pre každú konkrétnu situáciu môžu byť vhodne modifikované.
+Dôležité je však používať jednotnú stupnicu pre hodnotenie celého hodnoteného subjektu.
+Obvykle sa používa rozsah stupnice 1 až 10, pričom najlepšiemu hodnoteniu zodpovedá
+hodnota 1. Vypočítané hodnoty RPN umožňujú porovnanie jednotlivých chýb z hľadiska ich
+príčin a následkov podľa jednotného meradla.
+Podľa veľkosti hodnoty RPN možno stanoviť priority pre nápravné a preventívne
+opatrenia cielene zamerané na zamedzenie výskytu potenciálnych chýb. Po uskutočnení
+nápravných a preventívnych opatrení experti opäť posúdia hodnoty parametrov PV, VV a
+PO a vypočítajú sa nové hodnoty RPN. Týmto spôsobom sa môže postupovať v niekoľkých
+kolách, kým sa nedosiahne optimálna hodnota rizikového čísla.
+V súvislosti s hodnotou RPN je dôležitá hodnota významu chyby. Môže nastať
+situácia, že hodnota RPN bude nízka, nakoľko hodnoty PV a PO sú rovné jednej, len hodnota
+VV je vysoká. Týka sa to najmä veľmi závažných krízových udalostí, ktoré sú obvykle veľmi
+málo pravdepodobné.34
+
+TICHÝ, M.: Ovládaní rizika. Analýza a management. Praha: C . H . Beck, 2006. ISBN 80-7179-415-5
+MATEIDES, A. et al.: Manaţérstvo kvality. Bratislava: Ing. Miroslav Mračko, 2006. ISBN 80-8057-656-4
+34 TICHÝ, M.: Ovládaní rizika. Analýza a management. Praha: C . H . Beck, 2006. ISBN 80-7179-415-5
+32
+33
+
+27
+
+Obrázok 5 Analýza možných spôsobov chýb a ich dôsledkov
+výpočet
+hodnoty
+rizika
+
+Identifiká
+cia chýb
+
+pravdepo
+dobnosť
+výskytu
+
+Miera rizika
+
+pravdepodobnosť
+rizika
+
+Zdroj: vlastné spracovanie na základe: https://www.researchgate.net/figure/Schemeof-application-of-the-FMEA-method_fig2_349932406
+Aplikácia metódy FMEA je veľmi široká v rôznych typoch systémov a oblastí,
+existuje množstvo variantov metódy FMEA.
+Za základné typy FMEA považujeme:35
+5. FMEA konštrukčná, pomocou ktorej sa analyzuje konštrukcia (návrh) výrobku.
+6. FMEA procesná (výrobná), kedy sa vychádza z jednotlivých krokov procesu
+výroby a montáže,
+7. FMEA výrobková, pomocou ktorej sa analyzuje konštrukčný a výrobný proces
+výrobku alebo systému komplexne z pohľadu zákazníka.
+Metóda sa člení aj podľa charakteru analyzovaného objektu, produktu alebo
+pracovnej činnosti:
+1. FMEA nového produktu – používa sa v návrhovej fáze nového produktu,
+procesu, zariadenia ap.
+2.
+
+FMEA optimalizačná - používa sa na optimalizáciu a vylepšenie existujúceho
+produktu, procesu, zariadenia ap.
+
+FMEA je živý dokument a neustále by mal odrážať aktuálny stav procesu, teda aj
+opatrenia prijímané v etape sériovej výroby napr. reakcie na reklamácie, výskyt dovtedy
+neuvažovaných chýb a pod.
+35 KMEŤ, S., HEKELOVÁ, E., ŠTEFÁNIK, J., GAŠPARÍK, J., BERAN, J., CHOLUJ,F.: Komplexný
+manaţment kvality. Ţilina, 1998. ISBN 80-7100-562-2
+
+28
+
+Zodpovedný pracovník by mal predovšetkým:
+− overovať, či sa dosahujú zámery návrhu a požiadavky na pracovný postup,
+− preverovať znova špecifikácie, manuály strojov a zariadení,
+− kontrolovať implementáciu výsledkov FMEA do procesu vykonávania pracovnej
+činnosti,
+− preverovať pravidelne FMEA a Kontrolný plán kvality hodnotenej pracovnej
+činnosti.
+Nakoľko ide o systémový prístup, metódu je možné aplikovať v rôznych
+oblastiach, záleží predovšetkým od analyzovaného systému a stanovených cieľov. Pri
+rozhodovaní o rozsahu a spôsobe aplikácie FMEA v konkrétnom systéme a v konkrétnom
+prvku je nutné uvažovať, pre ktoré špecifické účely sa metóda má použiť a v ktorej časovej
+fáze vzhľadom k celkovej životnosti systému ako aj ostatným činnostiam. Je potrebné zvážiť
+aj požadovaný stupeň poznania nežiaducich javov, porúch a ich dôsledkov. Na základe
+týchto úvah je možné rozhodnúť sa o hĺbke analýzy v konkrétnej úrovni systému (systém,
+podsystém, diel, prvok) vo väzbe na proces navrhovania a vývoja analýzy36
+Základnou úlohou metódy FMEA je identifikovať funkcie procesu resp. požiadavky
+na proces; identifikovať všetky možné chyby súvisiace s procesom; odhadnúť následky
+týchto chýb pre zákazníka; identifikovať možné príčiny týchto chýb v procese a
+identifikovať parametre procesu, na ktoré sa má zamerať riadenie procesu za účelom
+obmedzenia výskytu chýb, alebo zvýšenia pravdepodobnosti ich odhalenia; zostaviť poradie
+chýb podľa ich rizikovosti a na základe toho navrhnúť akcie na jej zníženie; dokumentovať
+výsledky dosiahnuté vo výrobných alebo montážnych procesoch.
+Základným cieľom metódy FMEA je vyhodnotiť dôsledky a postupnosť javov pre
+každý zistený spôsob poruchy prvku spôsobenú akoukoľvek príčinou v rôznych funkčných
+úrovniach; určiť významnosť alebo kritickosť každého spôsobu poruchy s ohľadom na
+správne vykonávanie funkcie s uvážením dôsledku pri vopred zvolených kritériách, napr.
+kritérium bezpečnosti; klasifikovať zistené spôsoby porúch podľa toho, ako ľahko sa dá
+zistiť, diagnostikovať, testovať; určiť ukazovatele významnosti a pravdepodobnosti
+poruchy, v prípade ak sú k dispozícii potrebné údaje.
+Medzi hlavné prínosy metódy FMEA by sme mohli spomenúť najmä zvyšovanie
+bezpečnosti funkcií a spoľahlivosti výrobkov (odhalenie kritických miest); znižovanie
+SINAY, J. Rizika technických zariadení – manažérstvo rizika. TU v Košiciach – VSŽ a.s. Košice, 212 s.
+ISBN 80-9677 83-0-7.
+
+36
+
+29
+
+záručných a servisných nákladov; skracovanie procesu vývoja; nábehy sérií s menším
+počtom chýb; zlepšenie dodržiavania plánovaných termínov; zvýšenie hospodárnosti
+výroby; kvalitnejšie služby; lepšia vnútropodniková komunikácia.37
+FMEA je účinná predovšetkým vtedy, ak je aplikovaná na prvky systému, ktoré
+spôsobujú poruchu celého systému. FMEA môže byť zložitá a zdĺhavá v prípade rozsiahlych
+systémov, ktoré majú viacero funkcií a pozostávajú z mnohých prvkov. Je to spôsobené tým,
+že je nutné uvažovať veľké množstvo informácií o systéme. Množstvo informácií sa zväčšuje
+aj s množstvom stratégií údržby, prevádzky.
+V každom procese, v ktorom je ľudský činiteľ nevyhnutným komponentom je nutné
+očakávať aj v najlepšie riadených organizáciách, že môže dôjsť k nehodám v dôsledku
+zlyhania človeka. Chyby sú chápané ako následok niečoho, a nie ako príčina majúca pôvod
+v ľudskej nedokonalosti alebo chybovosti.
+Znížením miery rizika sa zníži výskyt možných chýb, čiže aj výskyt možných
+následkov.
+
+SINAY, J., PAČAIOVÁ, H., GRENČÍK, J., GOLIANOVÁ, A., MARKULÍK, Š., MOKRIŠOVÁ, A.,
+NAGYOVÁ, A., TREŠTÍKOVÁ, B. Nástroje zlepšovania kvality. SjF TU v Košiciach, 2007, 192 s. ISBN 97880-89040-32-2.
+
+37
+
+30
+
+2 BEZPEČNOSŤ PRÁCE V POĽNOHOSPODÁRSTVE
+Pracovné činnosti v poľnohospodárstve sú veľmi rozmanité. Zahŕňajú nielen rôzne
+činnosti, ale vykonávajú sa v rôznom prostredí a za rôznych poveternostných podmienok.
+Niektoré poľnohospodárske činnosti sú pravidelné, iné sú sezónneho charakteru. Medzi
+špecifickými znaky činností vykonávaných mi poľnohospodárskej činnosti
+Medzi špecifické znaky poľnohospodárskych prác patria:
+− Práce sa vykonávajú pod holým nebom a pracovníci sú vystavení vplyvom
+klimatických podmienok – napr. extrémne teploty;
+− sezónny charakter práce a naliehavosť určitých úloh v konkrétnych obdobiach;
+− rôznorodosť úloh, ktoré má vykonávať tá istá osoba;
+− ergonomické riziká: používanie nevhodného vybavenia a nástrojov, neprirodzená
+poloha tela - typ pracovných polôh, nosenie ťažkých bremien, opakovaná práca,
+nadmerná dĺžka trvania pracovnej činnosti;
+− kontakt so zvieratami a rastlinami, čím sú pracovníci vystavení uhryznutiu,
+otravám, infekciám, hrozia im infekčné a parazitárne ochorenia, alergie (rastliny,
+kvety, prach, živočíšny odpad), prenosné choroby zvierat a iné zdravotné
+problémy;
+− obmedzené priestory, ako sú silá, jamy, pivnice a nádrže;
+− kontakt s voľne žijúcimi a jedovatými zvieratami: hmyz, pavúky, škorpióny, hady,
+niektoré voľne žijúce zvieratá;
+− značné vzdialenosti medzi obytnými priestormi pracovníkov a pracoviskami.38
+Poľnohospodárske práce sú považované najnebezpečnejšie povolanie na svete, čo
+potvrdzujú aj štatistiky medzinárodnej organizácie práce ILO. Štatistiky ILO poukazujú na
+to, že miera smrteľných nehôd v poľnohospodárstve je dvojnásobná v porovnaní s
+priemerom všetkých ostatných odvetví vo viacerých krajinách. Z celkového počtu 335 tisíc
+smrteľných úrazov na celom svete približne 170 tisíc sa stalo pri vykonávaní
+poľnohospodárskych prác. Z pracovných úrazov po celom svete sa takmer 15% stalo
+v poľnohospodárstve.39
+38
+
+Safety and Health in Agriculture. International Labour office. Switzerland, Geneva: Programme on Safety,
+Health and the Enviroment, Labour Protection Department. Citované [01.04.2024] Dostupné
+online:https://www.ilo.org/wcmsp5/groups/public/@ed_protect/@protrav/@safework/documents/publicatio
+n/wcms_110193.pdf
+39
+Accidents du travail, le monde agricole particulièrement touché. 2023. Citované [01.04.2024] Dostupné
+online: https://agriculture.gouv.fr/accidents-du-travail-le-monde-agricole-particulierement-
+
+31
+
+Riziká práce v poľnohospodárskom odvetví zvyšujú faktory ako časté používanie
+strojov, používanie pesticídov a iných agrochemikálií. Traktory a kombajny majú medzi
+pracovnými strojmi najvyššiu frekvenciu zranení a smrteľných zranení.40
+Vystavenie pesticídom a iným agrochemikáliám predstavuje takisto veľké riziko,
+ktoré môže mať za následok otravu a smrť a v niektorých prípadoch má na svedomí aj
+rakovinu. Na základe vyššie uvedených faktov by sa riziká práce v poľnohospodárstve
+nemali podceňovať.41
+Podľa správy EU OSHA je v poľnohospodárskom odvetví badateľný sociálnoekonomický deficit, ktorý je do istej miery spojený okrem iného aj s nízkou úrovňou ochrany
+v oblasti BOZP.42
+Rezort poľnohospodárstva musí čeliť výzvam nielen v oblasti modernizácie
+technológií, či digitalizácie, ale inovácie sa týkajú aj BOZP, kde je potrebné riešiť najmä
+nasledovné otázky:
+− „nedostatok investícií do nových inteligentných a bezpečnejších technológií a
+strojového zariadenia a ich zavádzanie,
+− zvyšujúci sa výskyt rizík súvisiacich so zmenou klímy a výzvy v oblasti ochrany
+zdravia pri práci,
+− chýbajúce transparentné a celkovo nepresné nahlasovanie pracovných úrazov a
+zlého zdravotného stavu, najmä v prípade samostatne zárobkov činných osôb,
+− nejasný regulačný rámec v oblasti BOZP na účely ochrany poľnohospodárov a
+lesníkov a riadenia BOZP, najmä v prípade samostatne zárobkov činných osôb,
+− chýbajúca kultúra prevencie (poľnohospodári a lesníci zvyknú považovať BOZP za
+nízku prioritu v porovnaní s inými kolidujúcimi otázkami) a výrazné medzery v
+zručnostiach a odbornej príprave, najmä v oblasti BOZP,
+− rozšírené atypické a niekedy nelegálne postupy zamestnávania,
+
+40
+
+Safety and Health in Agriculture. International Labour office. Switzerland, Geneva: Programme on Safety,
+Health and the Enviroment, Labour Protection Department. Citované [01.04.2024] Dostupné
+online:https://www.ilo.org/wcmsp5/groups/public/@ed_protect/@protrav/@safework/documents/publicatio
+n/wcms_110193.pdf
+41
+Safety and Health in Agriculture. International Labour office. Switzerland, Geneva: Programme on Safety,
+Health and the Enviroment, Labour Protection Department. Citované [01.04.2024] Dostupné
+online:https://www.ilo.org/wcmsp5/groups/public/@ed_protect/@protrav/@safework/documents/publicatio
+n/wcms_110193.pdf
+42
+European Agency for Safety and Health at Work. 2022. Poľnohospodárstvo a lesné hospodárstvo: odvetvie
+s vážnymi problémami v oblasti bezpečnosti a ochrany zdravia pri práci. Citované [01.04.2024] Dostupné
+online: https://osha.europa.eu/sites/default/files/2022-02/Policy_brief_agriculture_forestry_SK.pdf
+
+32
+
+− nedostatočné zdroje na vykonávanie riadnych inšpekcií práce na účely boja proti
+nedeklarovanej práci a zaistenia primeranej ochrany sezónnych a migrujúcich
+pracovníkov v odvetví,
+− nedostatočný príjem poľnohospodárskych podnikov a čas na riadenie kvality na
+stanovenie otázok BOZP ako priority, najmä v prípade drobných a rodinných
+poľnohospodárov.“43
+2.1 Prevalencia úrazovosti pri práci v poľnohospodárstve
+Podľa údajov Eurostatu sa v roku 2021 stalo celkom 2,88 milióna pracovných úrazov
+bez smrteľných následkov. Pracovné úrazy bez smrteľných následkov síce neboli fatálne,
+ale si vyžadovali najmenej štyri dni pracovného pokoja . Z celkového počtu pracovných
+úrazov bolo zaznamenaných 3 347 úmrtí na pracovisku, pričom najvyššiu mieru smrteľných
+nehôd zaznamenali Cyprus (674), Litva (601), Írsko (435), Taliansko (376). Slovensko
+zaznamenalo 93 smrteľných úrazov z celkového počtu 8 050 pracovných úrazov. Najmenej
+smrteľných úrazov bolo v Luxembursku (5), na Malte (7) a Poľsku (9). Detailný prehľad
+údajov o pracovných úrazov v krajinách EÚ za roky 2020 a 2021 je uvedený v tabuľke 1,
+ktorá tvorí prílohu 1 diplomovej práce.
+Vysoká miera výskytu pracovných úrazov v poľnohospodárstve je ukazovateľom,
+ktorý potvrdzuje rizikovosť poľnohospodárskych prác. Miera úrazovosti však má aj širšie
+súvislosti a to je dopad pracovných úrazov v poľnohospodárstve na bezprostredné okolie
+obete – kolegov, svedkov tragédie a rodinných príslušníkov. Pri závažnejších pracovných
+úrazoch nevypadne z práce len osoba, ktorá utrpela úraz, ale stáva sa, že nebude sebestačný
+a z pracovného prostredia vypadne aj ďalší člen rodiny. Riziká pri vykonávaní
+poľnohospodárskych prác majú negatívny dopad nielen na jedinca, ale aj na mikroprostredie
+pracovníka. Aktualizáciou systému riadenia BOZP sa rozsah negatívnych dopadov dá
+značne znížiť alebo úplne eliminovať.
+Poľnohospodárske
+
+práce
+
+patria
+
+medzi
+
+najnebezpečnejšie
+
+povolania.
+
+Poľnohospodárstvo a lesné hospodárstvo ako povolanie je trvalo na treťom alebo štvrtom
+mieste najnebezpečnejších povolaní v Európskej únii.44
+
+European Agency for Safety and Health at Work. 2022. Poľnohospodárstvo a lesné hospodárstvo: odvetvie
+s vážnymi problémami v oblasti bezpečnosti a ochrany zdravia pri práci. Citované [01.04.2024] Dostupné
+online: https://osha.europa.eu/sites/default/files/2022-02/Policy_brief_agriculture_forestry_SK.pdf
+44
+KOLEKTÍV AUTOROV: Encyklopedický súbor bezpečnosti a ochrany zdravia pri práci. Bratislava:
+Inštitút pre výskum práce a rodiny, 2007. 572 s. ISBN 978-80-7138-124- 2
+43
+
+33
+
+Keďže poľnohospodárske podniky sú často kombináciou pracoviska a domova, deti
+a starší ľudia sú vystavení zbytočným rizikám a čelia dodatočným nebezpečným situáciám.
+Podľa dostupných štatistických údajov sa najčastejšie objavujú úrazy pri:
+− Úrazy v súvislosti s prepravou (prejdenie vozidlom alebo prevrátenie vozidiel); •
+pády z výšky (zo stromov, zo striech);
+− zasiahnutie padajúcimi alebo hýbajúcimi sa predmetmi (stroje, budovy, baly,
+kmene stromov);
+− utopenie sa (vo vodných nádržiach, nádržiach na kal, obilných silách);
+− manipulácia s hospodárskymi zvieratami (útoky alebo rozmliaždenie zvieratami,
+zoonotické ochorenia);
+− kontakt so strojmi (nechránené pohyblivé časti);
+− uviaznutia (pod zrútenými konštrukciami);
+− elektrina (zásahy elektrickým prúdom).45
+2.2 Oprava a údržba strojov v poľnohospodárstve
+Poľnohospodárstvo v Európe čelí čoraz väčšiemu počtu výziev a problémov. BOZP
+je aj v poľnohospodárskom odvetví základnou podmienkou na fungovanie životaschopnej
+prevádzky. Dosiahnutie dobrej úrovne BOZP si vyžaduje systematické úsilie.46
+BOZP v poľnohospodárstve je pestrou, zložitou a náročnou oblasťou činnosti, ktorú
+je zamestnávateľ zo zákona povinný vykonávať. Ide často o činnosť, ktorá je na prvý pohľad
+len zbytočnou nákladovou položkou, a zamestnávatelia sa snažia túto oblasť preniesť na
+externého dodávateľa. Poľnohospodárstvo spadá do skupiny najrizikovejších sektorov.
+Práca v poľnohospodárstve je fyzicky veľmi náročná a riziko rôznych nehôd sa zvyšuje s
+únavou a prácou s ťažkými strojmi v náročnom teréne.
+Poľnohospodársky výrobný proces je charakteristický veľkým objemom dopravy
+rôznorodých materiálov s rôznou objemovou hmotnosťou. Materiály je potrebné dopravovať
+na rôzne miesta a rôzne vzdialenosti, často v nepriaznivých terénnych podmienkach.
+
+BOZP pracovníkov v poľnohospodárstve 45 Dostupné online. Citované [ 10.03.2024]
+https://osha.europa.eu/sites/default/files/KE3111450SKN_002.pdf
+46
+Bezpečnosť a ochrana zdravia pri práci sa týka všetkých. Praktické usmernenie pre zamestnávateľov.
+Luxemburg: Úrad pre vydávanie publikácií Európskej únie, 2016. ISBN 978-92-79-65204-2
+doi:10.2767/72531 KE-05-16-096-SK-N © Európska únia, 2016
+46
+Dostupné online. Citované [ 10.01.2024] https://keneducation.in/risk-vs-hazard-v-danger-should-theterms-risk-hazard-and-danger-be-used-interchangeably/
+45
+
+34
+
+Na základe nepriaznivého stavu vo vývoji pracovnej úrazovosti bola NIP vykonaná
+kontrola dodržiavania BOZP v poľnohospodárstve so zameraním na rastlinnú a živočíšnu
+výrobu. Bolo skontrolovaných 80 subjektov, pri ktorých bolo zistených 716 nedostatkov. V
+oblasti BOZP sa zistilo 728 nedostatkov a v oblasti trhového dohľadu 12 nedostatkov.
+Z uvedeného počtu nedostatkov bolo 65 závažných. Najviac nedostatkov v oblasti BOZP
+v počte 251 bolo zistených na prevádzkových budovách a objektoch. Nasledovali vyhradené
+technické zariadenia s počtom 186 nedostatkov. Tretí najvyšší počet nedostatkov bol
+zistený v riadení BOZP v počte 182 nedostatkov. Za zistené závažné nedostatky v oblasti
+BOZP bola zo strany inšpektorátov práce v 27 prípadoch navrhnutá sankcia vo výške 27 800
+eur.47
+V diplomovej práci sme rozoberali problematiku úrazovosti pri kontakte so strojmi
+pri údržbe a oprave, ktorú si často vykonávajú poľnohospodári sami. Nakoľko nevyužívajú
+odborné servisy, je nevyhnutné aby boli riziká spojené s touto pracovnou činnosťou
+vyhodnotené a detailne spracované v záujme predídenia úrazovosti.
+2.3 Nebezpečenstvá spojené s údržbou v poľnohospodárstve
+Údržbárske činnosti v poľnohospodárstve sú veľmi rôznorodé. Patrí sem údržba a
+oprava strojov, zariadení a dopravných prostriedkov; údržba hospodárskych dvorov a budov;
+údržba síl, zásobníkov, nádrží na hnoj a zásobníkov na obilie; údržba elektrických inštalácií;
+údržba odvodňovacích a zavlažovacích systémov; údržba spevnených a nespevnených ciest.
+Vzhľadom na široký rozsah údržbárskych činností na farmách hrozí množstvo
+rôznych nebezpečenstiev spojených konkrétne s údržbou poľnohospodárskych strojov
+vrátane nižšie uvedených nebezpečenstiev:
+− Nebezpečenstvá spojené s údržbou strojných zariadení, napr. drvenie, viazanie a
+vysokotlakové vstrekovanie kvapalín;
+− Nebezpečenstvá spojené s elektrickým prúdom pri práci s poškodeným zariadením
+alebo počas údržby elektrických inštalácií a zariadení alebo pri oprave
+poškodených elektrických plotov;
+− tepelných nebezpečenstiev súvisiacich s používaním zváracích alebo vykurovacích
+zariadení pri údržbe alebo s údržbou zariadení s horúcimi povrchmi alebo
+prevádzkových kvapalín;
+
+Národný Inšpektorát práce. Bezpečnosť a ochrana zdravia pri práci – BOZP. Dostupné online. Citované [
+10.01.2024] https://www.ip.gov.sk/bozp/
+47
+
+35
+
+− chemických nebezpečenstiev súvisiacich s používaním nebezpečných látok pri
+údržbe alebo s údržbou zariadení obsahujúcich nebezpečné látky;
+− nebezpečenstva požiaru alebo výbuchu počas údržby príslušenstva alebo zariadení
+obsahujúcich nebezpečné a výbušné látky, napr. nádrží, zásobníkov a síl alebo
+palivových nádrží;
+− biologických nebezpečenstiev pri údržbe zariadení kontaminovaných biologickými
+činidlami, nádrží na hnoj, kanálov a kanalizačnej infraštruktúry;
+− ergonomických nebezpečenstiev, napr. nevhodných polôh, zle skonštruovaných
+nástrojov;
+− práce v stiesnených priestoroch.48
+Najčastejšie faktory ovplyvňujúce úrazovosť pri údržbe v poľnohospodárstve:
+− práca osamote;
+− nedostatok ochranných prostriedkov;
+− finančné obmedzenia, časový nátlak a únava;
+− nedostatočná informovanosť/zaškolenie/informácie;
+− zastaralý strojový park.
+Údržba poľnohospodárskych strojov je veľmi dôležitá a takisto veľmi nebezpečná
+práca. Stroje sa používajú takmer v každom druhu poľnohospodárskej činnosti. Bez ohľadu
+na typ podniku alebo stupeň automatizácie prevádzky sú stroje nevyhnutné pre prácu
+poľnohospodára.
+Poľnohospodárske sú buď vozidlá s kabínou, kde obsluha sedí a obsluhuje ovládanie
+pri jazde (napr. traktor, žací stroj, vysokozdvižný vozík), alebo sú to stacionárne stroje
+ovládané pomocou vývodového hriadeľa traktora alebo poháňané elektrinou, vodou či ručne.
+S obsluhou a údržbou poľnohospodárskych strojov je spojených množstvo nebezpečenstiev.
+Stroje uľahčujú prácu ale spôsobujú aj mnohé zdravotné a bezpečnostné problémy.
+Ovládanie strojov môže používateľa vystaviť rôznym nebezpečenstvám spojeným s
+pohybom alebo mechanickými činnosťami, ako je rezanie alebo ohýbanie:
+− otáčajúce sa hriadele, kolesá alebo kotúče;
+
+Eurostat, Agricultural statistics: Main results 2007–08 (Poľnohospodárska štatistika: Hlavné výsledky
+2007 – 2008), zápisník Eurostatu, vydanie z roku 2019
+(http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-ED-09-001/ EN/KS-ED-09-001-EN.PDF). ( 2 )
+Eurostat, Farm structure, statistics explained (Štruktúra fariem, vysvetlenie štatistík) (marec 2020).
+http://epp.eurostat.ec.europa.eu/statistics_explained/ index.php/Farm_structure
+48
+
+36
+
+− otáčajúce sa vrtáky, závity alebo špirály v krytoch;
+− otáčajúce sa bubienky, ozubené valce alebo honce;
+− hýbajúce sa tlačné miesta;
+− opakujúce sa kmitavé alebo kĺzavé pohyby.49
+Možné riziká pri údržbe poľnohospodárskych strojov:
+1. Zachytenie: možnosť zranenia v dôsledku zachytenia končatiny, pomliaždeniny
+pri zatváracom alebo prechodnom pohybe (napr. silážne nožnice, pomliaždenie
+pomaly sa valiacim vozidlom)
+2. Náraz: pravdepodobnosť zranenia v dôsledku rýchleho a náhleho pohybu (napr.
+náraz pohybujúcich sa vozidiel, narážače kolov)
+3. Kontakt: pravdepodobnosť zranenia pri kontakte s ostrým, elektricky živým,
+horúcim alebo studeným materiálom (napr. ostrie reťazovej píly, kotúčová píla)
+4. Zamotanie: pravdepodobnosť zranenia pri vtiahnutí do stroja alebo zamotaní do
+jeho pohybujúcich sa častí (napr. vývodový hriadeľ, cepový orezávač drevín,
+kombajn)
+5. Odhodenie: možnosť vzniku úrazu, pretože stroj vyhodí, silno odhodí spracúvané
+materiály (napr. stroj na mulčovanie dreva, kotúčové píly)
+Každý jeden poľnohospodársky stroj môže predstavovať viaceré z týchto rizík (napr.
+kotúčová píla môže spôsobiť zranenie pri kontakte s ostrým listom a aj odhodením dreva a
+kombajn môže spôsobiť zranenie nárazom alebo zamotaním.
+Pri kontrole rizík vyplývajúcich z obsluhy a údržby strojov je dôležité, že
+mechanické kryty sú užitočné a veľmi dôležité, ale aj keď sú správne umiestnené nedá sa
+spoliehať len na tento bezpečnostný prvok je treba byť obozretný, správať sa adekvátne
+podmienkam práce s poľnohospodárskymi strojmi.
+Treba dodržiavať jednoduché pravidlá a zásady BOZP - riadenie a dohľad, kontrola
+rýchlosti vozidla, používanie klátu pri kotúčovej píle, vypnutie stroja pred odstránením
+zábran. Mnohé úrazy so strojmi sa vyskytujú pri príprave stroja, pri riešení porúch a počas
+údržby stroja. Na takýchto prácach by sa mali zúčastňovať len spôsobilé osoby.
+
+Eurostat, Agricultural statistics: Main results 2007–08 (Poľnohospodárska štatistika: Hlavné výsledky
+2007 – 2008), zápisník Eurostatu, vydanie z roku 2019
+(http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-ED-09-001/ EN/KS-ED-09-001-EN.PDF). ( 2 )
+Eurostat, Farm structure, statistics explained (Štruktúra fariem, vysvetlenie štatistík) (marec 2020).
+http://epp.eurostat.ec.europa.eu/statistics_explained/ index.php/Farm_structure
+49
+
+37
+
+Okrem čisto mechanických rizík sú aj iné - elektrika, hydraulika, teplota, vibrácie,
+hluk atď. Pri týchto rizikách takisto vzniká nebezpečenstvo alebo ohrozenie:
+1. Nebezpečenstvá súvisiace s elektrinou: elektrický úder z priameho kontaktu so
+živými časťami (náhodný kontakt s časťami, ktoré sú normálne živé) alebo
+nepriameho kontaktu (kontakt s časťami, ktoré sa stali živé z dôvodu poruchy);
+popáleniny; požiar alebo výbuch spôsobený elektrickými iskrami alebo
+prehriatím elektrického zariadenia. Príklad: kontakt s opotrebovanými káblami
+zváracieho stroja.
+2. Extrémne teploty: kontakt s horúcimi časťami stroja alebo blízkosť takýchto častí
+môže spôsobiť bolesť a popáleniny; kontakt s veľmi studenými časťami môže
+spôsobiť znecitlivenie a omrzliny. Príklad: kontakt s pohybujúcimi sa časťami
+stroja, ktorý bol v prevádzke.
+3. Emisie hluku: dlhé vystavenie hluku zo strojov je hlavnou príčinou zhoršenia
+sluchu spôsobeného hlukom. Treba poznamenať, že poškodenie sluchu takejto
+povahy nemožno napraviť používaním načúvacích prístrojov. Poškodenie sluchu
+je kumulatívne a nezvratné, ale osoba vystavená hluku si väčšinou nie je vedomá
+spôsobovaného poškodenia. Vystavenie prenikavému hluku (s vysokou
+energiou) môže spôsobiť náhlu stratu sluchu. Vystavenie hluku je spojené aj s
+inými poruchami sluchu, ako je napríklad tinnitus (vnímanie zvuku pri absencii
+vonkajšieho zdroja). Príklad: používanie reťazovej píly.
+4. Vibrácie: vystavenie vibráciám prenášaným cez nohy alebo sedadlo do celého
+tela môže spôsobiť alebo zhoršiť muskuloskeletálne poruchy, ako je bolesť
+chrbta a poškodenie chrbtice. Vystavenie rúk a paží vibráciám môže spôsobiť
+poškodenie krvných ciev v prstoch a rukách (syndróm bielych prstov) a
+poškodenie periférneho nervového systému, šliach, svalov, kostí, kĺbov rúk a
+paží. Zhoršuje to fajčenie, z ktorého sa zužujú krvné cievy. Príklad: traktor.
+5. Pošmyknutia, zakopnutia a pády – nebezpečné sú niektoré časti strojo: stúpadlá,
+pracovné plošiny, lávky, priechody, rampy, schody, rozkladacie rebríky, rebríky,
+podlahy atď.
+6. Porezanie a pichnutie – najmä hrdzavými kovovými časťami (napr. pri používaní
+nožníc na živý plot).
+Údržbu a opravy by mali vždy vykonávať spôsobilé/kvalifikované osoby.
+Nekvalifikované osoby, ktoré samy vykonávajú údržbu a opravy, sú vystavené riziku
+38
+
+zranenia. Údržbu treba vykonávať v časových intervaloch navrhnutých výrobcom,
+a zabezpečiť treba aj to, aby pravidelný servis vykonal kvalifikovaný technik alebo
+mechanik.
+V záujme zaručenia bezpečného a zdravého pracovného prostredia pri údržbe
+poľnohospodárskych strojov je prvým krokom identifikácia rizík, ich analýza, posúdenie
+a hodnotenie. Posúdenie a hodnotenie rizík je aj v oblasti údržby základom riadenia BOZP.
+
+39
+
+3 CIEĽ DIPLOMOVEJ PRÁCE
+Zákonnou a morálnou povinnosťou podnikateľských subjektov je, aby v súlade
+s aktuálne platnou legislatívou zabezpečil podmienky BOZP. Pre zabezpečenie správneho
+fungovania systému BOZP v organizácii je zisťovanie nebezpečenstiev, ohrození,
+posudzovanie ich závažnosti.
+Údržba strojov je veľmi závažným faktorom, ovplyvňujúcim úroveň rizika ohrozenie
+bezpečnosti a zdravia zamestnanca vykonávajúceho údržbu poľnohospodárskeho stroja.
+Údržba poľnohospodárskych strojov je základným krokom v procese eliminácie
+nebezpečenstva vzniku úrazov. Zle udržiavané stroje sú vážnym zdrojom nebezpečenstva
+(možnosť vzniku požiaru, elektrických porúch, samovoľného pohybu, uvoľnenia súčiastok
+alebo pracovných prvkov) - nezistené nedostatky spôsobujú časté poruchy strojov
+v dôsledku čoho je ohrozené zdravie a bezpečnosť obsluhy stroja.
+Cieľom predkladanej diplomovej práce je identifikácia nebezpečenstva a ohrozenie
+pri vybranej pracovnej činnosti a pomocou porovnania výsledkov analýzy vyhodnotiť riziká
+a navrhnutie opatrení na odstránenie identifikovaných rizík.
+Objektom analýzy bola malá rodinná farma pôsobiaca situovaná na západnom
+Slovensku v okrese Dunajská Streda. Všetky informácie a údaje sme získali od majiteľa
+firmy, ktorý však nesúhlasil so zverejnením identifikačných údajov organizácie.
+V praktickej časti je spracovaná oblasť výberu metód na analýzu rizík a ich praktické
+využitie na posúdenie stavu BOZP vo vybranom poľnohospodárskom podniku. Hlavným
+zameraním praktickej časti práce je analýza rizík vybranej pracovnej činnosti pomocou
+jednoduchej bodovej metódy (údržba stroja na plytké celoplošné obrábanie pôdy – kyprič
+pôdy – najprv sme analyzovali skutkový stav a porovnali ho s aktuálne platnou
+dokumentáciou BOZP; pozorovanie priebehu údržby so zameraním sa na konkrétne
+nebezpečenstvá a riziká ako je narábanie s ručným náradím, riziká pri výmene oleja, údržba
+ťažko dostupných miest stroja ap.; identifikácia zdrojov nebezpečenstva, ich popis,
+navrhované opatrenia.
+Zo strojového parku sme zvolili hodnotenie rizík pri údržbe kypriča pôdy pred
+zahájením jarných prác. Hodnotili sme riziko pri vykonávaní údržbe poľnohospodárskeho
+stroja. Hodnotenie rizika sme vykonali jednak pomocou rozšírenej bodovej metódy a takisto
+sme aplikovali aj metódu FMEA. Zámerom bolo zistiť prípadné rozdiely vo výsledkoch
+analýz a na základe toho navrhnúť nápravné opatrenia na zníženie miery rizika, ktoré by
+mohlo viesť ku zraneniu zamestnanca, alebo stratách na majetku.
+40
+
+Prvým krokom pri hodnotení rizika bude identifikácia nebezpečenstva a analýza
+ohrozenia pomocou vyššie uvedených metód. Výpočtom miery rizika určíme do ktorej
+kategórie spadá konkrétne riziko – je zanedbateľné, mierne, povážlivé, nežiadúce alebo
+neprijateľné.
+
+41
+
+4 POSÚDENIE RIZÍK V POĽNOHOSPODÁRSKOM
+PODNIKU
+4.1 Charakteristika vybraného podniku
+Analýzu a hodnotenie rizík sme vykonali v spoločnosti, ktorá sídli na Západnom
+Slovensku a bola založená ešte v roku 199650 a okrem kúpy tovaru za účelom jeho predaja
+konečnému spotrebiteľovi a iným prevádzkovateľom živnosti v rozsahu voľnej živnosti
+a sprostredkovania obchodu sa venuje aj poľnohospodárskej prvovýrobe, pričom hlavným
+zameraním je rastlinná výroba. V práci sme sa zamerali na stav BOZP pre pracovné činnosti
+súvisiace s rastlinnou výrobou.
+Firma sa venuje poľnohospodárskej výrobe od roku 1996. V súčasnosti sa
+špecializujú predovšetkým na rastlinnú výrobu o celkovej výmere približne 1000 ha ornej
+pôdy. Hlavnou činnosťou je pestovanie obilnín – pšenica, sladovnícky jačmeň, kukurica a
+olejnín – repka, slnečnica. Okrem poľnohospodárskej výroby sa venujú aj preprave nákladov
+poľnohospodárskeho charakteru. Na dopravu komodít využívajú vlastnú kamiónovú
+dopravu. Nákladné auto a 2 traktory slúžia aj na prepravu úrody z poľa.
+Základným výrobným prostriedkom je orná pôda. Štruktúru rastlinnej tvorby
+pestovanie ozimnej pšenice (420 ha), kukurice na zrno (360 ha) a jačmeňa jarného (120 ha).
+Firma je rodinnou firmou, kde chod organizácie zabezpečuje majiteľ firmy. Počet
+zamestnancov je 6.
+Organizačná štruktúra rodinného podniku je znázornená na obrázku č. 6. Podľa
+organizačnej schémy je zrejmé, že okrem asistenta majiteľa, ktorý má na starosti
+administratívnu podporu chodu firmy, sú všetci zamestnanci (vrátane majiteľa) považovaný
+za poľnohospodárskych pracovníkov v rastlinnej a živočíšnej výrobe – z toho sú dvaja
+traktoristi, jeden je šoférom na nákladom aute, jeden zamestnanec má na starosti údržbu
+strojov.
+Všetci zamestnanci a aj majiteľ majú na starosti určitý typ poľnohospodárskeho
+stroja. Čiže to znamená, že ten stroj neobsluhuje nikto iný. Tento prístup zaviedol majiteľ,
+ktorý je presvedčený, že takto sa dá lepšie hodnotiť zodpovedný prístup zamestnanca
+
+spoločnost s ručením obmedzeným bola založená zakladateľskou listinou vyhotovenou vo forme notárskej
+zápisnice
+36
+
+42
+
+k starostlivosti o pracovný prostriedok. Zamestnancom tak záleží na tom, aby ich stroje boli
+v poriadku a mohli si svoju prácu vykonávať bezpečne.
+Obrázok 6 Organizačná schéma rodinného podniku
+Majiteľ firmy
+- poľnohospodársky robotník
+v rastlinnej a živočíšnej
+výrobe - obsluha
+poľnohospodárskych strojov
+
+asistent majiteľa
+
+poľnohospodársky robotník v
+rastlinnej a živočíšnej výrobe
+-1
+
+poľnohospodársky robotník v
+rastlinnej a živočíšnej výrobe
+-2
+
+(sofér nákladného auta)
+
+(traktoristi)
+
+poľnohospodársky robotník v
+rastlinnej výrobe - opravár
+poľnohospodárskych strojov
+-1
+
+Zdroj: Vlastné spracovanie
+Spoločnosť je považovaná za dobre fungujúci rodinný podnik, ktorý neustále
+napreduje a rastie. Strategickým cieľom je zmena strojového parku formou výmeny
+agrotechniky na modernejšie stroje. Majiteľ pri osobnej návšteve predstavil súčasný strojový
+park, pričom vyzdvihol tie poľnohospodárskej stroje, ktoré sú podľa jeho názoru z pohľadu
+BOZP najrizikovejšie a ich obsluha vyžaduje mimoriadnu pozornosť, obozretnosť
+a zodpovedný prístup za dodržania všetkých bezpečnostných opatrení a predpisov. Ich
+údržba alebo prípadná oprava si takisto vyžaduje veľkú pozornosť a obozretnosť.
+Práce na poliach vykonávajú konvenčnou agrotechnikou: súčasťou strojového parku
+sú pluhy, tanierové náradie, radličkový kyprič, kompaktor a sejačka. Firma vlastní aj
+samochodný postrekovač a rozmetadlo.
+4.2 Analýza a identifikácia ohrozenia a rizík pri vybranej pracovnej činnosti
+V čase keď sme firmu navštívili sa zamestnanec, ktorý má na starosti údržbu
+a opravy poľnohospodárskych strojov venoval údržbe kypriča pôdy. Údržba hĺbkového
+kypriča prebiehala v montovanej hale, kde parkujú poľnohospodárskej stroje, pričom jedna
+43
+
+časť haly je vyčlenená práve na vykonanie servisu a potrebných opráv. Tzv, „dieľňa“ nie je
+fyzicky oddelená od ostatnej časti haly. Hala je priamo napojená na kanceláriu, ktorá bola
+vytvorená ako prístavba k rodinnému domu. Časť haly, kde sa vykonáva údržba je
+vyznačená bezpečnostnými prvkami.
+Identifikovali sme nebezpečenstvo ohrozenia pri údržbe poľnohospodárskeho stroja
+– konkrétne kypriča pôdy, ktorý slúži na prevzdušnenie pôdy, narušenie podorničnej vrstvy
+a na zvýšenie objemu vsakovania vody.
+
+Obrázok 7 Hĺbkový kyprič pôdy
+
+Zdroj: technická dokumentácia hĺbkového kypriča vo vlastníctve majiteľa rodinného
+podniku.
+Hĺbkové kypriče sú určené na
+
+viacvrstvové kyprenie pôdy, čiže umožňujú
+
+kombinované spracovanie celého pôdneho profilu. Jedná sa o stroj, ktorý má na spoločnom
+ráme usporiadané viaceré prvky na vykonanie kyprenia. Na prednej časti rámu sú uchytené
+rezacie kotúče, ktorých úlohou je porezať rastlinné zvyšky na povrchu pôdy. Po nich sú
+umiestnené kypriace radlice, ktoré vykonávajú konkrétne prekyprenie pôdy. Po kypriacich
+radliciach sú uchytené tzv. taniere, ktoré premiešavajú porezané rastlinné zvyšky s pôdou
+pôdy. Následne celý proces kyprenia pôdy uzatvára utužovací valec.
+Výhodou tohto poľnohospodárskeho stroja je, dokáže prepracovať pôdu pri jednom
+nájazde na pole. Hĺbkový kyprič je variabilné náradie, ktorého hlavnou funkciou je
+nadvihnutie, rozrušenie a prevzdušnenie utuženej pôdy. Miera
+
+agresivity (hĺbkového
+
+zárezu) radlíc sa dá upraviť nastavením polohy radlíc v úchytoch alebo jemným doladením
+v závese traktora. Už pri tomto úkone vzniká nebezpečenstvo mechanického úrazu pri
+
+44
+
+manipulácii s radlicami. Jedná sa predovšetkým o možnosť mechanických zranení končatín
+pri nastavovaní, čistení a oprave kypriča pôdy alebo ohrozenie pri výmene oleja.
+Nevýhodou je široký komplex rizík, s ktorými sa stretáva poľnohospodársky
+zamestnanec pri obsluhe ale aj pri údržbe, na ktorú sme sa zamerali. Jednotlivé pracovné
+prvky: kypriace radlice, rezacie kotúče, otočné taniere a utužovací valec je potrebné pred
+uvedením stroja do pracovného procesu nastaviť a skontrolovať uchytenie jednotlivých
+prvkov na ráme. Regulovanie týchto prvkov je nevyhnutné, aby sa poľnohospodársky stroj
+prispôsobil lokálnym podmienkam pôdy a zabezpečil tak možnosť variabilne obrábať pôdu.
+Hlavná úloha pri zahájení procesu hodnotenia rizika bola komplexná charakteristika
+posudzovaného objektu: hospodárska stavba – montovaná hala, údržbárska dielňa,
+poľnohospodárske stroje a zariadenia, mechanizačný prostriedok na obrábanie pôdy –
+hĺbkový kyprič a získanie dostatočného množstva informácií o ohrozeniach súvisiacich
+s údržbou hĺbkového kypriča.
+4.2.1
+
+Prípravné kroky analýzy rizík
+
+Prípravné kroky k vykonaniu analýzy boli prispôsobené postupu pri údržbe stroja.
+V spolupráci s majiteľom RF sme zostavili postup údržby, ktorý sa v RF aplikuje pri
+všetkých strojoch.
+Údržba hĺbkového kypriča má stanovené postupy, ktorých základom pre správne
+a bezpečné fungovanie poľnohospodárskych strojov je v RF ich ochrana. Poľnohospodárske
+stroje vo vlastníctve RF sú v zime skladované v hale, kde nie sú nepriaznivým
+poveternostným podmienkam, predovšetkým pôsobeniu vlhkosti. Preto je jarná údržba aj pri
+hĺbkovom kypriči menej časovo náročná.
+Pred zahájením jarných prác sa kontrolujú aj nátery. Stopy korózií sa odstránia
+drôtenou kefou, prípadne brúsnym papierom, povrchy sa odmastia a natrú. Po odstránení
+a oprave korodovaných častí nasleduje mazanie všetkých prvkov – pracovných častí stroja.
+V RF využívajú lítiové mazivo, ktorým sa natierajú kĺby hĺbkového kypriča, ložiská,
+spojovacie prvky ap. Používa sa aj medené mazivo, ktorým sa natierajú odpojiteľné spoje –
+skrutkové spoje pri uchytení komponentov kypriča.
+Komponenty hĺbkového kypriča sú uchytené na dvojitom ráme šípového tvaru, ktorý
+zaručuje usporiadanie stĺpic za účelom vyššej priechodnosti pôdy a pracovná hĺbka sa
+udržiava pomocou operných kolies. Tu sa kontroluje opotrebenie gumy a nastavenie
+požadovanej výšky. V zime je hĺbkový kyprič umiestnený na dielenské kozlíky aby sa
+
+45
+
+operné kolesá nedotýkali zeme, čím gumy na kolesách nie sú vystavené tlaku danému
+hmotnosťou kypriča.
+Ďalej sa kontroluje správne nasadenie kypriča za traktor, nastaví sa rovnomerná
+rozteč stĺpic, kontrolujú sa strižné kolíky, ktoré sú istené proti preťaženiu
+hydropneumaticky. Pracovná hĺbka sa nastavuje spravidla na 40 – 45 cm.
+Mechanickú kontrolu si vyžadujú aj radlice, kotúče, ložiská. Kontrola sa zameriava
+na praskliny a nadmerné opotrebovanie. Tieto sú takisto zdrojom nebezpečenstva
+a ohrozenia – časť prasknutého kotúča môže „uletieť“ a zapríčiniť vážny pracovný úraz.
+Platí to aj pre ozubené kolesá a remene prenášajúce pohon. Po oboznámení sa s postupom
+údržby sme zostavili tabuľku o potenciálnych rizikách
+
+pri vykonávaní jednotlivých
+
+pracovných činností.
+Tabuľka 4
+POTENCIONÁLNE RIZIKÁ
+PRACOVNÁ ČINNOSŤ
+ÚDRŽBA HĹBKOVÉHO KYPRIČA
+
+KOMPLEX OHROZENÍ
+
+Kontrola náterov – odstránenie korózií
+drôtenou kefou, prípadne brúsnym
+papierom, povrchy sa odmastia a natrú.
+Mazanie pracovných častí hĺbkového
+kypriča
+
+Chemické látky sa môžu dostať do očí
+Oceľové štetiny drôtenej kefy môžu spôsobiť male
+poranenie rúk, dostať sa pod nechty
+Úrazy vyplývajúce z kontaktu náradia s rukou,
+nesprávna manipulácia s náradim,
+Pošmyknutie sa na mazacom materiály, ktorý sa dostal
+na podlahu
+
+Nastavenie požadovanej výšky
+oporných kolies
+
+Poranenie dolných končatín v dôsledku mimovoľného
+uvoľnenia oporného kolesa
+
+Kontrola mechanického stavu
+komponentov
+
+Rezné rany, podliatiny, otlaky, zasiahnutie súčiastkou,
+namáhanie chrbtice, úder hlavy kvôli manipulácii na zle
+dostupných miestach
+
+Skúška otáčok radlíc
+
+Zachytenie odevu, zachytenie horných končatín –
+prstov, svojvoľné uvoľnenie niektorého komponentu
+alebo úchytnej súčiastky
+
+Zdroj: vlastné spracovanie
+
+46
+
+Pred samotnou analýzou bodovou metódou a metódou FMEA v konkrétnej
+prevádzke sme analyzovali riziká hroziace poľnohospodárskemu pracovníkovi pri údržbe
+poľnohospodárskeho stroja – hĺbkového kypriča a sústredili sme sa na ohrozenia plynúce
+z tejto pracovnej činnosti. Zámerom bolo identifikovať možné riziká a na základe
+hodnotenia rizík navrhnúť opatrenia, ktorých zavedením sa budú tieto riziká minimalizovať.
+Najväčším rizikom pri údržbe hĺbkového kypriča je kontakt s kypriacimi radlicami,
+rezacími kotúčmi a otočnými taniermi. Tieto komponenty stroja sú ostré a môžu spôsobiť
+veľmi širokú škálu úrazov, od najmenších až po pracovné úrazy so smrtiacimi následkami.
+Údržba stroja sa však nezaobíde bez nastavenia týchto prvkov, nakoľko stroj sa používa na
+rôznych typoch ornej pôdy a nastavenie treba prispôsobiť parametrom aktuálne obrábanej
+pôdy.
+4.2.2
+
+Analýza ohrozenia bodovou metódou
+
+Hodnotenie miery nebezpečenstva pri jednotlivých pracovných činnostiach v rámci
+údržby stroja sme uskutočnili jednoduchou bodovou metódou, ktorá je nenáročná na čas,
+číselné hodnoty miery rizík sa ľahko sumarizujú a kategorizujú. Mieru rizika sme hodnotili
+na základe závažnosti a pravdepodobnosti výskytu rizika. Nebezpečenstvá, ktoré môžu pri
+údržbe poľnohospodárskej mechanizácie ohroziť bezpečnosť a zdravie poľnohospodárskeho
+zamestnanca sú veľmi rozsiahle, preto sme sa zamerali iba na vybrané nebezpečenstvá pri
+údržbe konkrétneho stroja.
+Pre analýzu ohrozenia sme použili tabuľku, do ktorej sme zaznamenali ohrozenia
+v súvislosti s vykonaním údržby hĺbkového kypriča – nebezpečenstvo, jeho zdroj
+a podrobnejší popis, označenie miery rizika, opatrenia. Formulár pre bodové hodnotenie
+sme zostavili na základe formulára, ktorý je súčasťou dokumentácie BOZP vo firme.
+Dokumentácia BOZP bola vypracovaná externou firmou a obsahuje komplexné hodnotenie
+pre všetky pracovné činnosti vyskytujúce sa v poľnohospodárskej výrobe.
+Hodnotenie rizík bolo zamerané konkrétnu pracovnú činnosť na údržbu hĺbkového
+kypriča. Pri jednotlivých možných rizikách sme uviedli zdroj a podrobný popis a bodovali
+sme pravdepodobnosť a početnosť (P), ďalej dôsledky (D) a ohrozenie (O) v dôsledku
+identifikovaného nebezpečenstva.
+
+47
+
+Tabuľka 5
+Nebezpečenstvo / Zdroj / Popis P D O
+
+Riziko
+
+Opatrenia
+
+5
+
+45/45
+(45)
+Nežiadúce
+
+Používať iba vhodné náradie,
+Nepoužívajte poškodené náradie.
+Používajte pri práci vhodné
+rukavice.
+Pred používaním náradia je
+potrebné zaškoliť zamestnanca.
+
+3 4
+
+5
+
+60/60
+(60)
+Nežiadúce
+
+Bremená dvíhajte na pevnej
+podlahe.
+Používajte pracovnú obuv, ktorá
+zabezpečuje dobrú stabilitu nohe a
+zabraňuje pošmyknutiu.
+Pravidelne odpočívajte a v
+prípade, že už viac nevládzete,
+prerušte prácu.
+Pri dvíhaní dbajte na dostatočnú
+oporu nôh.
+Zamestnanci musia byť preškolení
+zo správnych spôsobov
+manipulácie s bremenami.
+
+Pád bremena na nohu
+3 3
+Ručná manipulácia
+Ťažké bremeno môže pri páde na
+nohu poraniť prsty.
+Pri nastavovaní radlíc môžu
+padnúť a vážne poraniť dolné
+končatiny.
+
+5
+
+45/45
+(45)
+Nežiadúce
+
+Pokiaľ manipulujete ručne s
+ťažkým bremenom, dávajte pozor,
+aby sa náhodne nevyšmyklo a
+nepadlo na zem.
+Pri manipulácii s bremenom
+používajte topánku s pevnou
+špičkou.
+Využívajte úchytné otvory,
+držadlá a prostriedky, ktoré
+udržujú končatiny v dostatočnej
+vzdialenosti od bremena.
+
+Priškripnutie prstov na ruke
+Ručná manipulácia
+Materiály, ktoré na seba tesne
+priliehajú a majú väčšiu
+hmotnosť môžu pri prenášaní
+priškripnúť prsty.
+
+4 2
+
+5
+
+40/40
+(20)
+Mierne
+
+Používajte ochranné rukavice.
+Používajte podložky medzi
+jednotlivými vrstvami materiálu.
+
+Tlak, úder, rez, seknutie,
+5 5
+pichnutie, bodnutie, odretie.
+Pri vykonávaní údržby sú
+prítomné všetky tieto ohrozenia
+a preto je jeho bezpečnosť
+v ohrození.
+
+5
+
+125/125
+(125)
+Neprijateľné
+
+Prideliť zamestnancovi vhodné
+OOPP v zmysle zákona NR SR
+č.124/2006 Z. z. v znení
+neskorších predpisov, V rámci
+školenia o BOZP oboznámiť
+zamestnanca s rizikami
+vykonávanej práce - zákon NR SR
+č. 124/2006 Z. z. v znení
+neskorších predpisov,
+
+Úraz hlavy nahýňaním sa na 3 4
+zle dosptupné miesta
+pri údržbe treba prekontrolovať
+aj ťažko dostupné miesta
+v dôsledku čoho je vysoké riziko
+vážneho poranenia.
+
+5
+
+60/60
+(60)
+Nežiadúce
+
+Pri týchto prácach prikázať
+zamestnancovi potrebu používania
+OOPP - prilba
+
+Kontakt náradia s rukou
+3 3
+Ručné náradie
+Môžu vzniknúť bodné rany, tržné
+rany, sečné rany, rezné rany,
+pohmoždeniny, podliatiny,
+pritlačenia a otlaky, pokiaľ nie sú
+dodržané bezpečnostné predpisy
+pre zaobchádzanie s náradím.
+Namáhanie chrbtice
+Ručná manipulácia
+Pri dlhodobej manipulácii s
+ťažkým bremenom, ak sa
+vykonáva nesprávnym
+spôsobom, hrozí veľké
+nebezpečenstvo poškodenia.
+
+48
+
+Kontakt ďalších osôb
+2 5
+s pohybujúcim sa strojom
+pri vjazde a výjazde traktora so
+zaveseným kypričom môže dôjsť
+k ohrozeniu osôb - zrazenie,
+pritlačenie.
+
+5
+
+50/50
+(38)
+Nežiadúce
+
+Osoby, ktoré nemajú nič
+spoločného s údržbou alebo
+opravou sa nesmú zdržiavať v
+okolí pohybujúceho sa vozidla.
+Používajte vopred dohodnuté
+signály, ktorým musia vodič aj
+pomocník rozumieť rovnako.
+Používať signály
+
+Možnosť poranenia pri
+4 2
+nesprávnom používaní ručného
+náradia
+Opravy a údržba - Používanie
+ručného náradia
+Pri činnostiach súvisiacich s
+opravou a údržbou pri používaní
+ručného náradia (kladivá, kliešte,
+sekáče, pilníky, krutkovače,
+kľúče) k údržbárskym prácam
+môže dôjsť k rôznym
+poraneniam.
+
+5
+
+40/40
+(15)
+Mierne
+
+doťahovanie alebo uvoľňovanie
+kľúčom vykonávaj vždy k sebe.
+Pilníky používajte len s násadou
+Pokiaľ sa dá používaj trubicové
+kľúče namiesto otvorených.
+Pre danú prácu používaj kľuče
+správnych rozmerov.
+Pre danú prácu používaj
+skrutkovač správneho rozmeru.
+Nikdy nepoužívaj skrutkovač na
+iné účely než je určený
+Pri používaní kladív dodržuj tieto
+zásady:
+a) zvoliť správny druh a veľkosť
+kladiva pre daný druh práce
+b) kladivá nesmú mať poškodené
+násady alebo bicie plochy
+c) kladivá nesmú mať
+praskléhlavy alebo nesprávne
+kliny
+d) násady kladív musia byť suché
+a hladké
+e) na tvrdý materiál sa nemá
+používať oceľové kladivo
+Pri používaní klieští dodržuj tieto
+zásady:
+a) nepoužívaj klietí tam kde môžeš
+použiť kľúč
+b) nepoužívaj kliešte na kalené
+oceľové plochy
+c) kliešte drž na koncirukoväte
+
+Pritlačenie prstov
+Nakladanie a vykladanie
+automobilov
+Ťažké bremená môžu pritlačiť
+prsty o podlahu alebo steny
+úložného priestoru.
+
+5
+
+40/40
+(40)
+Mierne
+
+Ak prenášate bremeno viacerí,
+dopredu sa dohodnite, ako ho
+prenesiete a v akom poradí ho
+budete púšťať na podlahu.
+Nestrkajte ruky pod ťažké
+bremená.
+Pokiaľ má vozidlo zabudované
+hydraulické zdviháky, používajte
+ich na prenášanie ťažkých
+materiálov.
+Používajte rukavice.
+
+4 2
+
+49
+
+samovoľný pohyb stroja
+3 4
+údržba a oprava
+poľnohospodárskych strojov
+Pri vykonávaní opráv, údržby
+a kontroly je pracovník povinný
+najmä
+a) stroj zabezpečiť proti
+samovoľnému pohybu,
+b) vykonávať kontrolu spodku
+stroja len pri vypnutom motore,
+ak výrobca nestanovil inak,
+c) zabezpečiť zdvihnuté stroj
+alebo jeho časti proti pádu,
+d) použiť pri hustení pneumatík
+kolies nenamontovaných na
+vozidle, ktoré sú vybavené
+obručou so záverným a poistným
+kruhom alebo delenou obručou,
+bezpečnostný kryt alebo
+zariadenie, ktoré plní podobnú
+funkciu,
+e) uzavrieť všetky ventily
+tlakových zásobníkov plynu na
+strojoch a všetky plniace ventily
+pri opravách vozidiel s plynovým
+zariadením s výnimkou opráv,
+ktoré to vylučujú (napr.
+nastavovanie motora, kontrola
+funkcie plynového zariadenia),
+f) vypustiť plyn zo zásobníkov a
+vykonať odplynovanie
+plynového zariadenia vozidla
+pred vykonávaním zváračských
+prác alebo prác, pri ktorých môže
+dôjsť ku vzniku výbušnej zmesi
+alebo k jej iniciácii,
+g) pri opravách alebo údržbe
+vozidiel s plynovým zariadením
+oboznámiť sa s havarijným
+plánom pracoviska.
+
+5
+
+60/60
+(36)
+Nežiadúce
+
+Je ZAKÁZANÉ manipulovať s
+ovládacím zariadením vozidla bez
+predchádzajúcich opatrení, ktoré
+vylúčia nežiadúci pohyb vozidla
+alebo jeho časti,
+Je ZAKÁZANÉ opravovať,
+kontrolovať a vykonávať údržbu
+vozidla, ak zdvihnutá sklápacia
+časť nie je zabezpečená proti pádu,
+Je ZAKÁZANÉ uvoľňovať
+pneumatiku prihusťovaním.
+Pred opravou a údržbou vozidlo
+zabezpečiť proti samovoľnému
+pohybu.
+Pri hustení pneumatík kolies
+nenamontovaných na vozidle ,
+ktoré sú vybavené obručou so
+záverným a poistným kruhom
+alebo delenou obručou použiť
+bezpečnostný kryt alebo
+zariadenie, ktoré plní podobnú
+funkciu,
+Vykonávať kontrolu spodku
+vozidla možno len pri vypnutom
+motore, ak výrobca nestanovil
+inak.
+Zabezpečiť zdvihnuté vozidlo
+alebo jeho časti proti pádu,
+
+Je zakázané
+a) opravovať naložené vozidlo,
+ak nie je zabezpečená jeho
+stabilita a náklad môže
+pracovníka ohroziť,
+b) opravovať, kontrolovať a
+vykonávať údržbu vozidla, ak
+zdvihnutá sklápacia časť nie je
+zabezpečená proti pádu,
+c) manipulovať s ovládacím
+zariadením vozidla bez
+predchádzajúcich opatrení, ktoré
+vylúčia nežiadúci pohyb vozidla
+alebo jeho časti,
+d) uvoľňovať pneumatiku
+prihusťovaním.
+
+50
+
+Maximálne zostatkové riziko
+Minimálne zostatkové riziko
+Priemerné zostatkové riziko
+Hodnotenie
+
+125
+30
+71
+Výsledné riziko je neprijateľné
+
+Zdroj: vlastné spracovanie
+
+4.2.3
+
+Hodnotenie rizík metódou FMEA
+
+Analýza FMEA vyhodnocuje aktuálny stav, ktorý identifikuje nebezpečenstvá
+a ohrozenia pri údržbe poľnohospodárskeho stroja. Metóda FMEA ja založená na podrobnej
+analýze zlyhanie a dôsledkov identifikovaných rizík a umožňuje určiť priority pre
+zostavenie návrhov na opatrenia pre odstránenie rizík. Metóda rieši zásadné otázky pri
+vykonaní údržby hĺbkového kypriča:
+1. Aké nebezpečenstvá sa môžu vyskytnúť pri jednotlivých krokoch údržby?
+2. Aké sú možné dôsledky identifikovaných nebezpečenstiev?
+Prostredníctvom FMEA analýzy sme sa zamerali na potencionálne nebezpečenstvá
+pri údržbe. Definovali sme hodnotu závažnosti nebezpečenstvá, pravdepodobnosť jeho
+výskytu a možnosť určiť zdroj nebezpečenstva. Použili sme rozpätie číselného ohodnotenia
+od 1 – 10, pričom jednotka označuje najmenšiu závažnosť, najnižšiu možnosť výskytu či
+najnižšiu možnosť identifikácie nebezpečenstva. Hodnota 10 je najvyššia hodnota – čiže
+nebezpečenstvo je najzávažnejšie, vyskytuje sa najčastejšie a jeho identifikácia je najťažšia.
+Vynásobením hodnôt sme vypočítali mieru rizika.
+Keďže metóda FMEA je vykonávaná v tíme, ako prvý krok sme zostavili tím, ktorý
+tvorili autor práce, majiteľ RF a poľnohospodársky pracovník zodpovedný za obsluhu
+a údržbu hĺbkového kypriča. Cieľom trojčlenného tímu bola optimalizácia údržby
+a znižovanie miery rizika pri jednotlivých údržbárskych úkonoch.
+Úlohou majiteľa RF bol poskytnutie dostupných informácií a dokumentácie
+o poľnohospodárskom stroji. Poľnohospodársky pracovník zodpovedal za prezentovanie
+postupu údržby a spoločne sme sa zamerali na detailnú identifikáciu nebezpečenstiev
+a ohrozenia zdravia či ľudského života pri vykonaní pracovnej činnosti. Zámerom bolo
+odhaliť príčinu týchto nebezpečenstiev, posúdiť ich závažnosť a predpokladané dôsledky.
+Pred zostavením samotného FMEA formulára sme klasifikovali kritériá nebezpečenstiev
+
+51
+
+a ohrození a klasifikovali sme ich závažnosť. Tieto kritériá sme zostavili do tabuľky
+závažnosti nebezpečenstiev, ktorá je súčasťou vyhodnocovania pomocou metódy FMEA.
+Tabuľka 6 Klasifikácia kritérií pre hodnotenie rizík metódou FMEA
+Stupeň závažnosti
+
+Kritérium stupňa závažnosti
+
+Klasifikácia
+
+Žiadna
+
+Nebezpečenstvo pri danom pracovnom úkone nehrozí,
+alebo má len bezvýznamný vplyv na zdravie zamestnanca
+
+1
+
+Veľmi málo významná
+
+Hrozí nebezpečenstvo úrazu, ale úraz je možné klasifikovať
+ako drobný úraz – odretie, pomliaždeniny ap.
+
+2
+
+Málo významná
+
+Dá sa identifikovať nebezpečenstvo vzniku malých
+poranení, ktoré sa dajú ošetriť priamo na pracovisku
+a nemajú následky
+
+3
+
+Veľmi nízke
+
+V dôsledku identifikovaného nebezpečenstva môže
+vzniknúť úraz, ktorý nemá vplyv na ďalší výkon pracovnej
+činnosti
+
+4
+
+Nízka
+
+V dôsledku nebezpečenstva môže vzniknúť úraz, ktorý
+ovplyvňuje výkon pracovnej činnosť
+
+5
+
+Stredná
+
+V dôsledku nebezpečenstva môže vzniknúť úraz, ktorý má
+vplyv na výkon pracovnej činnosti v podobe krátkodobej
+PN
+
+6
+
+Vysoká
+
+V dôsledku nebezpečenstva môže vzniknúť úraz, ktorý má
+vplyv na výkon pracovnej činnosti v podobe dlhodobej PN
+
+7
+
+Veľmi vysoká
+
+Hrozí nebezpečenstvo veľmi vážneho úrazu, ktoré môže
+ovplyvniť celkový zdravotný stav v podobe obmedzenia
+vykonávať pracovnú činnosť – čiastočná invalidita
+
+8
+
+Nebezpečná s
+varovaním
+
+Hrozí nebezpečenstvo úrazu s trvalými následkami
+ohrozenia života v podobe obmedzenia vykonávať pracovnú
+činnosť – úplná invalidita
+
+9
+
+Nebezpečná bez
+varovania
+
+Hrozí nebezpečenstvo usmrtenia
+
+10
+
+Zdroj: Vlastné spracovanie
+Všetky identifikované nebezpečenstvá sme priebežne zaznamenali do formulára, tak
+ako sa postupne vykonávala údržba hĺbkového kypriča. Pri jednotlivých pracovných
+úkonoch sme sledovali možné chyby a definovali sme ich závažnosť, pravdepodobnosť
+výskytu ako aj pravdepodobnosť odhalenia. V zjednodušenom formulári FMEA, ktorý bol
+prispôsobený objektu hodnotenia rizika, sme identifikovali objekt analýzy, členov tímu,
+dátum a číslo strany, popis pracovnej činnosti, potencionálne nebezpečenstvo, jeho príčinu,
+závažnosť, pravdepodobnosť výskytu a pravdepodobnosť odhalenia nebezpečenstva.
+Formulár sme rozdelili na dve časti – I. časť formulára sumarizuje zistenia na základe
+52
+
+hodnotenia aktuálneho a mieru rizika identifikovaných nebezpečenstiev. V časti II.
+formulára sme uviedli návrh odporúčaných opatrení, zodpovednú osobu a možné spôsoby
+eliminácie nebezpečenstva.
+Tabuľka 7 – Formulár FMEA I. časť
+Formulár FMEA I. časť
+Objekt analýzy
+
+Členovia tímu FMEA: zodpovední zamestnanci
+
+Rodinná Farma
+
+Dátum
+
+Číslo strany
+
+Majiteľ firmy
+31.3.202
+Poľnohospodársky pracovník
+4
+Autor
+Popis pracovnej
+Potencionálne
+Príčiny nebezp.
+Z V O
+činnosti
+nebezpečenstvo
+1 Kontrola náterov
+Chemické látky sa môžu
+Nepoužívanie
+5
+5
+5
+– odstránenie
+dostať do očí
+ochranných
+korózií drôtenou
+Oceľové štetiny drôtenej
+pracovných
+kefou, prípadne
+kefy môžu spôsobiť
+prostriedkov –
+brúsnym
+poranenie rúk, dostať sa pod pracovné rukavice a
+papierom,
+nechty
+okuliare
+povrchy sa
+Úrazy vyplývajúce z
+odmastia a natrú.
+kontaktu náradia s rukou,
+nesprávna manipulácia s
+náradím,
+2
+Mazanie
+Pošmyknutie sa na mazacom
+Nepoužívanie
+5
+5
+5
+pracovných častí materiály, ktorý sa dostal na
+ochranných
+hĺbkového
+podlahu
+pracovných
+kypriča
+prostriedkov –
+pracovné rukavice,
+vhodná pracovná
+obuv
+3
+Nastavenie
+Poranenie dolných končatín
+Zloženie stroja z
+10 5
+5
+požadovanej
+v dôsledku mimovoľného
+kozlíkov ešte pred
+výšky oporných uvoľnenia oporného kolesa
+nastavovaním
+kolies
+4
+Kontrola
+Rezné rany, podliatiny,
+Komponenty stroja 10 6 10
+mechanického
+otlaky, zasiahnutie
+sú ostré a niektoré sú
+stavu
+súčiastkou, namáhanie
+ťažko dostupné
+komponentov
+chrbtice, úder hlavy kvôli
+manipulácii na zle
+dostupných miestach
+5
+Skúška otáčok
+Zachytenie odevu,
+Nedodržanie
+10 3 10
+radlíc
+zachytenie horných končatín
+bezpečnej
+– prstov, svojvoľné
+vzdialenosti a
+uvoľnenie niektorého
+nepoužívanie OPP
+komponentu alebo úchytnej
+súčiastky
+
+Zdroj: Vlastné spracovanie
+
+53
+
+1
+
+RPN
+125
+
+125
+
+250
+
+600
+
+300
+
+Tabuľka 8– Formulár FMEA II. časť
+
+Formulár FMEA II. časť
+Objekt analýzy
+
+Členovia tímu FMEA:
+zodpovední zamestnanci
+
+Dátum
+
+Číslo strany
+
+Rodinná Farma
+
+Majiteľ firmy
+Poľnohospodársky
+pracovník
+Autor
+Z
+V
+O
+
+31.3.20
+24
+
+2
+
+Odporúčanie na zníženie miery
+rizika
+1
+
+2
+
+3
+
+4
+
+5
+
+Používanie ochranných
+pracovných pomôcok –
+ochranné pracovné rukavice,
+okuliare, ochranný pracovný
+odev a vhodná pracovná
+obuv, helma so štítom ochrana zraku, pri práci
+používať ochranu - dýchacích
+orgánov, filtračný respirátor
+RV 205 s chemickou vložkou
+A
+Používanie ochranných
+pracovných pomôcok –
+ochranné pracovné rukavice,
+okuliare, ochranný pracovný
+odev a vhodná pracovná obuv
+Dodržiavanie bezpečnostných
+predpisov, koleso nastavovať
+len ak je stroj umiestnený na
+kozlíkoch a je zabezpečený
+proti samovoľnému pádu
+alebo pohybu
+Veľmi prísne dodržiavať
+bezpečnostné predpisy,
+používať vhodné nástroje,
+osobné ochranné pracovné
+prostriedky – odev, obuv,
+rukavice, ochrana hlavy
+a tváre – helma so štítom
+Skúška otáčok radlíc
+a ostatných komponentov
+môže prebehnúť len za
+prísnych bezpečnostných
+opatrení, osoby ktoré
+neobsluhujú a nekontrolujú
+stroj sa nesmú priblížiť
+k traktoru, ku ktorému je
+kyprič pripevnený
+
+RPN
+Po navrhovaných odporúčaniach
+
+5
+
+1
+
+10
+
+50
+(po zavedení navrhovaných
+opatrení sa miera rizika zníži
+o 75 bodov – čo je zníženie
+rizika 60%)
+
+5
+
+1
+
+6
+
+7
+
+5
+
+5
+
+30
+(po zavedení navrhovaných
+opatrení sa miera rizika zníži
+o 95 bodov – čo je zníženie
+rizika o 76%)
+175
+(po zavedení navrhovaných
+opatrení sa miera rizika zníži
+o 95 bodov – čo je zníženie
+rizika o 30%)
+
+5
+
+3
+
+6
+
+90
+(po zavedení navrhovaných
+opatrení sa miera rizika zníži
+o 95 bodov – čo je zníženie
+rizika o 15%)
+
+10
+
+3
+
+4
+
+120
+(po zavedení navrhovaných
+opatrení sa miera rizika zníži
+o 95 bodov – čo je zníženie
+rizika o 40%)
+
+Zdroj: Vlastné spracovanie
+
+54
+
+Podľa výsledkov FMEA analýzy sú najnebezpečnejšie nasledovné pracovné úkony
+pri údržbe hĺbkového kypriča:
+− Nastavovanie výšky oporných kolies,
+− Mechanická kontrola stavu komponentov,
+− Skúška plynulosti otáčok.
+Po zavedení navrhovaných opatrení sa predpokladá pri všetkých troch údržbárskych
+úkonoch zmiernenie rizika.
+
+Pri nastavovaní výšky oporného kolesa predpokladáme
+
+zníženie miery rizika o 30%, pri kontrolovaní stavu súčastí kypriča odhadujeme zlepšenie
+o 15% a pri skúške plynulosti otáčok o 40%.
+Návrhy na zmiernenie rizika nie sú vysoko nákladové, všetky predpokladajú iba
+zvýšenie
+
+pozornosti
+
+zamestnancov,
+
+dôkladnejšiu
+
+kontrolu
+
+a dohľad
+
+zo
+
+strany
+
+zamestnávateľa a zodpovednejší prístup k zásadám BOZP a to najmä čo sa týka osobných
+ochranných pracovných pomôcok.
+
+55
+
+5 VYHODNOTENIE VÝSLEDKOV A NÁVRH OPATRENÍ
+Na základe identifikácie nebezpečenstiev a ohrození pri vykonávaní údržby
+hĺbkového kypriča pracovných podmienkach na rodinnej farme sme po vykonaní hodnotenia
+rizík metódou jednoduchého bodového hodnotenia a metódou FMEA sme dospeli k záveru,
+že obe metódy sú v prípade rodinnej farmy vhodné na identifikáciu a hodnotenie rizík pri
+vykonávaní údržby.
+Pri oboch metódach sme identifikovali najvyššiu mieru rizika pri manipulácii
+s ostrými časťami hĺbkového kypriča a pri manipulácii na ťažko dostupných miestach. Na
+základe zistení sme navrhli niektoré opatrenia, ktoré vyplývajú zo zásad BOZP a poukázali
+sme na to, aby zásady BOZP boli dôslednejšie dodržiavané. Ďalšie návrhy na zmiernenie
+a odstránenie rizík:
+− Zabezpečiť pravidelné preškoľovanie poľnohospodárskeho pracovníka z oblasti
+BOZP;
+− Zaistiť používanie vhodného pracovného náradia;
+− Zabezpečiť používanie bezpečnostných prvkov pri práci okolo kypriča a pri jeho
+pripojení na traktor – používanie zabezpečovacích systémov, schodíkov, úchytiek;
+− Aktualizovať bezpečnostné označenia v hale, kde sa vykonáva údržba;
+− Označiť výstražnou farbou všetky nebezpečné miesta;
+− Zabezpečiť, aby poľnohospodársky pracovníci neodstraňovali ochranné kryty
+stroja;
+− Venovať pozornosť neprítomnosti nepovolaných osôb v blízkosti strojov;
+− Pravidelne poučiť pracovníkov o nevyhnutnosti používania ochranných pracovných
+prostriedkov – aj pri malých opravách alebo prácach, ktoré nie sú na prvý pohľad
+nebezpečné;
+− Dbať na pravidelné kontroly technického stavu;
+− Prekontrolovať stav poľnohospodárskeho stroja pred každým použitím alebo
+manipuláciou s ním – údržba;
+− Zamedziť samovoľnému uvedeniu do pohybu hĺbkového kypriča.
+Údržba poľnohospodárskych strojov je považovaná za veľmi nebezpečnú pracovnú
+činnosť a preto je nevyhnutné, aby pracovníci, ktorí stroje obsluhujú alebo ktorí majú na
+starosti ich údržbu, prípadne opravu, venovali zvýšenú pozornosť bezpečnosti a ochrane
+svojho zdravia a zdravia svojich spolupracovníkov.
+56
+
+Prijatím navrhovaných opatrení predpokladáme zníženie miery nebezpečenstva na
+minimálnu úroveň. V procese identifikácie nebezpečenstiev pri údržbe hĺbkového kypriča
+sme zistili, že niektorým pracovným úkonom nie je venovaná patričná pozornosť, pretože sa
+nepredpokladá ohrozenie bezpečnosti alebo zdravia. Pri pracovnej činnosti, akou je údržba
+poľnohospodárskych strojov, je nevyhnutné dôrazne dbať na dodržiavanie predpisov a zásad
+BOZP.
+
+57
+
+ZÁVER
+Diplomová práca „Zásady bezpečnosti práce pri opravách a údržbe strojov vo
+vybranom poľnohospodárskom podniku“ sa venuje téme riadenia rizík v oblasti bezpečnosti
+a ochrany
+
+zdravia
+
+pri
+
+práci
+
+v poľnohospodárskom
+
+sektore.
+
+Úrazovosť
+
+v poľnohospodárskom sektore je veľmi vysoká a preto je téma bezpečnosti v tomto odvetví
+viac než aktuálna.
+Cieľom diplomovej práce bolo identifikovať nebezpečenstvá a ohrozenia pri údržbe
+poľnohospodárskeho stroja – hĺbkového kypriča pôdy využitím bodovej metódy hodnotenia
+rizík a metódy FMEA. V spolupráci s majiteľom firmy a pracovníkom, ktorý má na starosti
+údržbu predmetného stroja sme popísali postup údržby a identifikovali sme ohrozenia, ktoré
+sa môžu vyskytnúť pri jednotlivých pracovných úkonoch.
+
+Skúmali sme efektivitu
+
+vybraných metód hodnotenia rizík na základe porovnania zistených výsledkov.
+V teoretickej časti diplomovej práce sme sa pokúsili o vytvorenie prehľadu v danej
+oblasti na základe domácej a zahraničnej odbornej literatúry. V úvode diplomovej práce sme
+sa podrobne venovali teoretickým východiskám problematiky hodnotenia rizík v BOZP
+a metódam
+
+analýz
+
+využívaných
+
+na
+
+hodnotenie
+
+rizík.
+
+Analýza
+
+a identifikácia
+
+nebezpečenstiev a hodnotenie miery rizika je z pohľadu bezpečnosti a ochrany zdravia
+zamestnancov prvoradá z pohľadu prevencie výskytu pracovných úrazov. V krátkosti sme
+sa venovali aj legislatívnemu rámcu spravujúceho oblasť BOZP a priblížili sme aspekty
+BOZP v poľnohospodárskom odvetví. Teoretické východiská sme využili v praktickej časti
+práce. Praktickú časť tvorí predstavenie objektu skúmania, identifikácia nebezpečenstiev
+a ich analýza, na základe ktorých sme hodnotili mieru rizika podľa vopred stanovených
+kritérií. Obe metódy hodnotenia rizík pri údržbe poľnohospodárskych strojov sú efektívne.
+Výsledky hodnotenia miery rizík identifikovaných nebezpečenstiev vyšli takmer rovnako.
+Stav BOZP v súkromnej firme je vyhovujúci, ale je tu priestor na zlepšenie
+a zvyšovanie bezpečnosti zamestnancov. Výsledky vypovedajú o tom, že niektoré „menej
+komplikované“ údržbárske práce sú podceňované a pri ich vykonávaní nie sú používané
+vhodné ochranné pracovné pomôcky. Je to napríklad oprava skorodovaných častí stroja –
+používajú sa tu drôtené kefy, chemikálie vo forme farieb, riedidiel či laku. Všetky tieto môžu
+spôsobiť zranenia alebo úrazy, ktoré aj keď nemajú vážny dopad na celkový zdravotný stav
+zamestnanca – môžu zapríčiniť prerušenie pracovnej činnosti na niekoľko hodín alebo
+niekoľko dní (pichnutie oceľovou štetinou kefy spôsobí ranu, ktorá sa môže zapáliť
+a zamestnanec nebude môcť ruku používať niekoľko dní ap.)
+58
+
+Podstatou metód hodnotenia rizík je proces, ktorého výsledkom je identifikácia
+nebezpečenstva pri vykonávaní pracovnej činnosti a minimalizovanie miery výskytu
+a závažnosti tohto nebezpečenstva, či jeho úplné odstránenie. Pri procese hodnotenia rizika
+sme vychádzali z posúdenia jeho závažnosti. Cieľom posúdenia bolo identifikovať všetky
+potenciálne pozitívne a negatívne faktory ovplyvňujúce bezpečné vykonanie pracovnej
+činnosti – údržby poľnohospodárskeho stroja. Metóda jednoduchého bodového hodnotenia
+a metóda analýzy vplyvu nebezpečenstiev a ich následkov hodnotia početnosť výskytu
+nebezpečenstva, mieru závažnosti a predpoklad odhalenia nebezpečenstiev.
+V procese vypracovania práce sme vychádzali zo všeobecných odporúčaní
+európskych orgánov, podľa ktorých je z pohľadu BOZP nevyhnutné začleniť zásady BOZP
+do
+
+technologických
+
+poľnohospodárskych
+
+inovácií,
+
+prispôsobiť
+
+podnikov,
+
+rozvíjať
+
+požiadavkám
+vzdelávanie
+
+BOZP
+
+štruktúry
+
+a odborné
+
+školenie
+
+poľnohospodárskych pracovníkov, pri posudzovaní a hodnotení rizík brať do úvahy aj
+klimatické zmeny.
+Prínosom predkladanej diplomovej práce je poukázanie na skutočnosť, že oblasť
+BOZP nemá žiaden aspekt, ktorý by nebol z pohľadu bezpečnosti a ochrany zdravia
+zamestnancov dôležitý. Je potrebné si uvedomiť, že BOZP je oblasť, ktorá sa mení
+a prispôsobuje meniacim sa podmienkam a okolnostiam. V poľnohospodárstve to platí
+dvojnásobne. Poľnohospodárske práce sa nedajú v plnej miere vopred plánovať a preto sa
+nedajú vopred plánovať ani niektoré činnosti súvisiace s BOZP. Návrhy na zníženie miery
+rizika a dôsledné dodržiavanie predpisov BOZP je základným pilierom pre zvýšenie
+bezpečnosti
+
+zamestnancov
+
+pri
+
+údržbe
+
+poľnohospodárskych
+
+strojov
+
+a zníženie
+
+nebezpečenstva úrazu. Bezpečnosť a ochrana zamestnancov v nami hodnotenom
+poľnohospodárskom podniku musí byť neustále na prvom mieste a je nevyhnutné, aby sa aj
+táto oblasť neustále inovovala v závislosti od technologického vývoja a zmien v legislatíve.
+Na záver jeden návrh navyše: problematika BOZP v poľnohospodárskom odvetví by
+mohla byť predmetom osobitného výskumu, ktorý by bol zameraný na otázky BOZP
+v súvislosti s bezpečnostnými opatreniami a technológiami (inteligentné senzory a osobné
+ochranné prostriedky.
+
+59
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+3.
+
+Bezpečnosť a ochrana zdravia pri práci sa týka všetkých. Praktické usmernenie
+pre zamestnávateľov. Luxemburg: Úrad pre vydávanie publikácií Európskej
+únie, 2016. ISBN 978-92-79-65204-2 doi:10.2767/72531 KE-05-16-096-SK-N
+© Európska únia, 2016
+
+4. HATINA, T. Encyklopedický súbor bezpečnosti a ochrany zdravia pri práci.
+Bratislava: Inštitút pre výskum práce a rodiny, 2007. 572 s. ISBN 978-80-7138124- 2
+5. KMEŤ, S., HEKELOVÁ, E., ŠTEFÁNIK, J., GAŠPARÍK, J., BERAN, J.,
+CHOLUJ,F.: Komplexný manažment kvality. Žilina, 1998. ISBN 80-7100-5622
+6. KRULIŠ, Jiří. Jak vítězit nad riziky: aktivní management rizik - nástroj řízení
+úspěšných firem. Praha: Linde, 2011. ISBN 978-80-7201-835-2
+7. MATEIDES, A. et al.: Manažérstvo kvality. Bratislava: Ing. Miroslav Mračko,
+2006. ISBN 80-8057-656-4
+8. Ministerstvo práce, sociálnych vecí a rodiny. Bezpečnosť a ochrana zdravia pri
+práci. Citované [ 10.01.2024]
+
+Dostupné online: Vyhláška č. 59/1982 Zb.
+
+Vyhláška Slovenského úradu bezpečnosti práce, ktorou sa určujú základné
+požiadavky na zaistenie bezpečnosti práce a technických zariadení
+9. NEUGEBAUER, T. Bezpečnost a ochrana zdraví při práci v kostce, neboli, O
+čem je současná BOZP. 2., aktualizované a rozšířené vydání. Praha: Wolters
+Kluwer, 2016, s. 16. ISBN 978-80-7552-106-4.
+10. SINAY, Juraj; a kol.: Rizika technických zariadení, manažérstvo rizika. Košice:
+OTA, a.s. 1997. s. 212. ISBN 80-967783-0-7.
+11. SINAY, J., PAČAIOVÁ, H., GRENČÍK, J., GOLIANOVÁ, A., MARKULÍK,
+Š., MOKRIŠOVÁ, A., NAGYOVÁ, A., TREŠTÍKOVÁ, B. Nástroje
+zlepšovania kvality. SjF TU v Košiciach, 2007, 192 s. ISBN 978-80-89040-322.
+12. SMEJKAL, Vladimír a Karel RAIS. Řízení rizík ve firmách a jiných
+organizacích. 4. aktualiz. a rozš. vyd. Praha: Grada, 2013. ISBN 978-80-2474644-9.
+13. TICHÝ, M.: Ovládaní rizika. Analýza a management. Praha: C . H . Beck, 2006.
+ISBN 80-7179-415-5
+60
+
+14. VALA, Jiří. Systémové řízení bezpečnosti a ochrany zdraví v organizacích.
+Praha: Wolters Kluwer, 2016. ISBN 978-80-7552-109-5.
+
+Internetové zdroje:
+15. Accidents du travail, le monde agricole particulièrement touché. 2023. Citované
+[01.04.2024] Dostupné online: https://agriculture.gouv.fr/accidents-du-travaille-monde-agricole-particulierement16. Bezpečnosť a ochrana zdravia pri práci - Slovenská terminologická databáza
+[online]. data.juls.savba.sk, 2006, [cit. 2024-11-02].
+17. BOZP pracovníkov pri práci v poľnohospodárstve. 2021. Časopis Bezpečnosť
+práce v praxi. Ročník 2021. Vydanie 3/2021. Citované [10.01.2024] Dostupné
+online:
+
+https://www.pracovnepravo.sk/sk/casopis/bezpecnost-prace-v-
+
+praxi/bezpecnost-a-ochrana-zdravia-pracovnikov-pri-praci-vpolnohospodarstve.m-1033.html
+18. Bezpečnosť a ochrana zdravia pri práci sa týka všetkých. Praktické usmernenie
+pre zamestnávateľov. Luxemburg: Úrad pre vydávanie publikácií Európskej
+únie, 2016. ISBN 978-92-79-65204-2 doi:10.2767/72531 KE-05-16-096-SK-N
+©
+
+Európska
+
+únia,
+
+2016.
+
+Dostupné
+
+online.
+
+Citované
+
+[
+
+10.01.2024]
+
+https://keneducation.in/risk-vs-hazard-v-danger-should-the-terms-risk-hazardand-danger-be-used-interchangeably/
+19. European Agency for Safety and Health at Work. 2022. Poľnohospodárstvo
+a lesné hospodárstvo: odvetvie s vážnymi problémami v oblasti bezpečnosti
+a ochrany zdravia pri práci. Citované [01.04.2024]
+
+Dostupné online:
+
+https://osha.europa.eu/sites/default/files/202202/Policy_brief_agriculture_forestry_SK.pdf
+20. Eurostat, Agricultural statistics: Main results 2007–08 (Poľnohospodárska
+štatistika: Hlavné výsledky 2007 – 2008), zápisník Eurostatu, vydanie z roku
+2019
+
+(http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-ED-09-001/
+
+EN/KS-ED-09-001-EN.PDF).
+21. Eurostat, Farm structure, statistics explained (Štruktúra fariem, vysvetlenie
+štatistík) (marec 2020). http://epp.eurostat.ec.europa.eu/statistics_explained/
+index.php/Farm_structure
+
+61
+
+22. Faško, M. Hodnotenie rizík z pohľadu BOZP. 2022. . Citované [11.04.2024]
+Dostupné online:https://www.bezpecnostvpraxi.sk/clanok-z-titulky/hodnotenierizik-z-pohladu-bozp-aktbvp.htm
+23. HLAVA IV., článok 31, bod. 1 Charta základných práv Európskej únie. Citované
+[
+
+10.01.2024]
+
+Dostupné
+
+online:
+
+https://eur-lex.europa.eu/legal-
+
+content/SK/TXT/PDF/?uri=CELEX:12016P/TXT
+
+Citované
+
+[14.01.2024].
+
+Dostupné online:
+24. https://www.employment.gov.sk/sk/praca-zamestnanost/bezpecnost-ochranazdravia-pri-praci/
+25. Národný Inšpektorát práce. Bezpečnosť a ochrana zdravia pri práci – BOZP.
+Dostupné online. Citované [ 10.03.2024] https://www.ip.gov.sk/bozp/
+26. Národný Inšpektorát práce. Bezpečné používanie strojov. Dostupné online.
+Citované [ 10.03.2024] https://www.ip.gov.sk/wp-content/uploads/2018/01/NIPBOZP-stroje-nahl.pdf
+27. Occupational Health & Safety Implementation Guide.
+Standard.
+
+2018.
+
+Introduction to the
+
+https://www.nqa.com/medialibraries/NQA/NQA-Media-
+
+Library/PDFs/NQA-ISO-45001-Implementation-Guide.pdf
+28. Použitie systémov riadenia v oblasti bezpečnosti a ochrany zdravia pri práci v
+členských štátoch Európskej únie Súhrnná správa agentúry. Citované
+[01.04.2024] Dostupné online:
+29. https://www.bozpo.sk/public/poradna/nip/jednoduchy_system_riadenia_bozp.p
+df
+30. Řízení BOZP - Znalostní systém prevence rizik v BOZP. Citované [10.04.2024]
+Dostupné online: https://zsbozp.vubp.cz/rizeni-bozp/89- rizeni-rizik
+31. Safety Management. What is Safety in the workplace. 2022. Dostupné online.
+Citované [ 10.01.2024]
+
+https://www.nistglobal.com/blog/2022/10/what-is-
+
+safety-in-the-workplace/
+32. Safety and Health in Agriculture. International Labour office. Switzerland,
+Geneva: Programme on Safety, Health and the Enviroment, Labour Protection
+Department.
+
+Citované
+
+[01.04.2024]
+
+Dostupné
+
+online:https://www.ilo.org/wcmsp5/groups/public/@ed_protect/@protrav/@saf
+ework/documents/publication/wcms_110193.pdf
+
+62
+
+Zákony:
+33. Nariadenie Vlády SR č. 281/2006 Z. z. o minimálnych bezpečnostných a
+zdravotných požiadavkách pri ručnej manipulácii bremenami a o zmene a
+doplnení niektorých zákonov v znení neskorších predpisov
+34. Nariadenie Vlády SR č. 391/2006 Z. z. o minimálnych bezpečnostných a
+zdravotných požiadavkách na pracovisko a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov,
+35. Nariadenie vlády SR č. 392/2006 Z. z. o minimálnych bezpečnostných a
+zdravotných požiadavkách pri použití pracovných prostriedkov a o zmene a
+doplnení niektorých zákonov v znení neskorších predpisov
+36. Vyhláška Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky č.
+508/2009 Z. z. a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov, ktorou sa ustanovujú podrobnosti na zaistenie bezpečnosti a ochrany
+zdravia pri práci s technickými zariadeniami tlakovými, zdvíhacími, elektrickými
+a plynovými a ktorou sa ustanovujú technické zariadenia.
+37. Vyhláška Ministerstva práce, sociálnych vecí a rodiny SR č. 500/2006 Z. z.,
+ktorou sa ustanovuje vzor záznamu o registrovanom pracovnom úraze a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov,
+38. Vyhláška Ministerstva zdravotníctva Slovenskej republiky č. 99/2016 Z. z. o
+podrobnostiach o ochrane zdravia pred záťažou teplom a chladom pri
+práci, ktorou sa ustanovujú optimálne a prípustné hodnoty faktorov tepelnovlhkostnej mikroklímy vnútorného pracovného prostredia, únosná záťaž teplom
+a chladom pri práci a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov,
+39. Zákon č. 125/2006 Z. z. o inšpekcii práce a o zmene a doplnení zákona č. 82/2005
+Z. z. o nelegálnej práci a nelegálnom zamestnávaní,
+40. Zákon č. 355/2007 o ochrane a podpore verejného zdravia v aktuálnom znení
+41. Zákon o BOZP č. 124/2006 Z.z.
+
+63
+
+PRÍLOHY
+Tabuľka 9
+PREVALENCIA PRACOVNÝCH ÚRAZOV V KRAJINÁCH EU V
+POĽNOHOSPODÁRSKOM ODVETVÍ - 2020 - 2021
+
+European Union - 27 countries (from 2020)
+Belgium
+Bulgaria
+Czechia
+Denmark
+Germany
+Estonia
+Ireland
+Greece
+Spain
+France
+Croatia
+Italy
+Cyprus
+Latvia
+Lithuania
+Luxembourg
+Hungary
+Malta
+Netherlands
+Austria
+Poland
+Portugal
+Romania
+Slovenia
+Slovakia
+Finland
+Sweden
+Iceland
+Norway
+Switzerland
+
+Pracovné úrazy bez
+smrteľných následkov
+
+Pracovné úrazy so
+smrteľnými
+následkami
+
+2020
+2021
+2 735 566 2 886 507
+56 477
+62 038
+1 820
+1 953
+34 963
+36 704
+74 471
+85 309
+766 192
+810 127
+5 222
+5 478
+12 073
+16 505
+3 964
+4 476
+388 474
+457 435
+623 654
+655 024
+8 566
+9 697
+323 683
+272 787
+1 511
+1 428
+1 994
+2 272
+3 812
+4 483
+5 995
+6 474
+24 210
+23 518
+1 549
+1 587
+76 857
+82 420
+51 031
+55 490
+62 148
+67 929
+108 772
+113 976
+3 956
+2 779
+16 872
+14 197
+7 857
+8 050
+29 584
+36 994
+39 858
+47 378
+1 076
+1 151
+9 653
+10 938
+87 539
+93 978
+
+2020
+3 358
+:
+:
+:
+54
+88
+108
+39
+371
+10
+41
+33
+392
+541
+45
+776
+16
+22
+38
+7
+64
+8
+23
+85
+190
+131
+179
+17
+32
+24
+24
+
+Zdroj: Vlastné spracovanie na základe
+https://osha.europa.eu/sites/default/files/2022icy_brief_agriculture_forestry_SK.pdf
+
+64
+
+2021
+3 347
+:
+:
+:
+47
+70
+88
+43
+435
+13
+34
+22
+376
+674
+35
+601
+5
+38
+49
+7
+82
+9
+25
+105
+220
+93
+172
+14
+32
+19
+39
+
+

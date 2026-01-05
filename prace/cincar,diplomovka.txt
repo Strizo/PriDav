@@ -1,0 +1,3684 @@
+PREŠOVSKÁ UNIVERZITA V PREŠOVE
+FAKULTA ŠPORTU
+
+VZŤAH POHYBOVEJ AKTIVITY A KOGNITÍVNYCH
+SCHOPNOSTÍ ADOLESCENTOV
+Diplomová práca
+
+2024
+Bc. Martin Činčár
+
+PREŠOVSKÁ UNIVERZITA V PREŠOVE
+FAKULTA ŠPORTU
+
+VZŤAH POHYBOVEJ AKTIVITY A KOGNITÍVNYCH
+SCHOPNOSTÍ ADOLESCENTOV
+Diplomová práca
+
+Študijný program:
+
+šport pre zdravie
+
+Študijný odbor:
+
+vedy o športe
+
+Školiace pracovisko:
+
+Katedra edukológie športov
+
+Školiteľ:
+
+Mgr. Pavol Čech, PhD.
+
+Prešov 2024
+Bc. Martin Činčár
+
+3
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som záverečnú prácu vypracoval samostatne na základe svojich
+vedomostí s využitím informačných zdrojov uvedených v zozname bibliografických
+odkazov. Vyhlasujem, že nástroje umelej inteligencie som nepoužil.
+
+Prešov 14.06.2024
+
+....................................
+
+2
+
+Poďakovanie:
+Týmto by som sa chcel poďakovať Mgr. Pavol Čech, PhD. za jej spoluprácu pri
+tvorbe tejto práce. Ďakujem za jej ústretovosť, snahu poradiť a pomôcť. Ukázala mi smer,
+ktorým by som sa v práci mohol uberať.
+
+3
+
+ABSTRAKT
+Činčár, Martin. Vzťah pohybovej aktivity a kognitívnych schopnosti adolescentov
+[magisterská práca]. Prešovská univerzita v Prešove (Prešov, Slovensko). Fakulta športu.
+Katedra edukológie športov. Školiteľ: Mgr. Pavol Čech, PhD. Stupeň odbornej
+kvalifikácie: magister. Prešov: FŠ PU, 2024. 70 s.
+Pohybovú aktivitu a športovú aktivitu môžeme považovať za určitý druh životného štýlu
+a aj za potrebu človeka, ktorá dokáže ovplyvniť kvalitu života. V adolescentom veku sa
+väčšinou pohybová aktivita vytráca zo života a nahrádza ju sedaví spôsob života. Zníženou
+pohybovou aktivitou môže dochádzať aj k zníženiu kognitívnych schopností. Cieľom práce
+bolo, na základe preštudovania literárnych prameňov a vlastnej výskumnej činnosti,
+posúdiť pohybovú aktivitu adolescentov a ich úroveň kognitívnych schopností. Výskum
+bol realizovaný u participantov v Prešovskom okrese vo veku 10 až 15rokov. Ako prvé
+sme vykonávali psychologické testy kognitívnych schopností, ktoré boli vyhodnocované
+psychológom, následne sa základe dotazníka PAQ - A sa vyhodnocoval objem pohybovej
+aktivity a motoricko-kognitívne schopnosti boli posudzované z testov Divided Attention,
+Peripheral Vision, Random Multicolour and Multisymbol test vykonaných systémom
+Microgate Witty SEM. Štúdia bola podporená grantovým projektom VEGA 1/0481/22 s
+názvom "Vzťah motorickej docility a kognitívnych schopností žiakov". Formulovanú
+hypotézu, ktorá hovorí o tom, že pohybovo aktívni adolescenti budú dosahovať lepšie
+výsledky kognitívnych schopností naše výsledky nepotvrdili, rovnako tak aj v hypotéze,
+ktorá tvrdí, že pohybovo aktívny jedinci budú disponovať vyššou úrovňou kognitívno –
+motorických schopností. Nemôžeme to brať ako konečné štádium tejto výskumnej otázke,
+Tieto výsledky sú platné pre kohortu zapojenú do výskumu a nie je možné ich
+zovšeobecňovať.
+
+Kľúčové slová: Witty Sem Agility. Vizuálna pamäť. Psychologické testy. Kognitívnomotorické testy. Športová činnosť.
+
+4
+
+ABSTRACT
+Činčár, Martin. The relationship of physical activity and cognitive abilities in
+adolescents [Master's thesis]. University of Prešov in Prešov (Prešov, Slovakia). Faculty of
+Sports. Department of Sports Education. Supervisor: Mgr. Pavol Čech, PhD. Degree:
+Master. Prešov: FŠ PU, 2024. 70 pages.
+Physical activity and sports can be considered as a certain type of lifestyle and a
+human need that can influence the quality of life. In adolescence, physical activity often
+disappears from life and is replaced by a sedentary lifestyle. Reduced physical activity can
+also lead to a decline in cognitive abilities. The aim of this thesis was to assess the physical
+activity of adolescents and their level of cognitive abilities based on a review of literature
+and own research. The research was conducted on participants in the Prešov district aged
+10 to 15 years. First, the participants performed psychological tests of cognitive abilities
+which were evaluated by a psychologist. Then, the volume of physical activity was
+assessed using the PAQ - A questionnaire, and motor-cognitive abilities were assessed
+using the Divided Attention, Peripheral Vision, Random Multicolour, and Multisymbol
+tests conducted with the Microgate Witty SEM system. The study was supported by the
+VEGA grant project 1/0481/22 titled "The Relationship between Motor Docility and
+Cognitive Abilities of Pupils". The formulated hypothesis which stated that physically
+active adolescents would achieve better cognitive abilities was not confirmed by our
+results, nor was the hypothesis which stated that physically active individuals would
+possess a higher level of cognitive-motor abilities. These results are only valid for the
+cohort involved in the research and cannot be generalized.
+
+Key words: Witty Sem Agility. Visual memory. Psychological tests. Cognitive-motor
+tests. Sports activity.
+
+5
+
+OBSAH
+ABSTRAKT .................................................................................................................... 4
+ABSTRACT ................................................................ Chyba! Záložka nie je definovaná.
+ZOZNAM OBRÁZKOV A ILUSTRÁCIÍ ................................................................... 7
+ZOZNAM TABULIEK .................................................................................................. 8
+ÚVOD ............................................................................................................................. 10
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY DOMA A V
+ZAHRANIČÍ ........................................................................................................... 11
+1.1
+
+Pohybová aktivita adolescentov .......................................................................... 11
+
+1.1.1
+
+Význam pohybovej aktivity na kvalitu života adolescentov ....................... 14
+
+1.1.2
+
+Vplyv pohybovej inaktivita na zdravie adolescentov .................................. 18
+
+1.2
+
+Kognitívne schopností a ich význam ................................................................... 21
+
+1.2.1
+
+Kognitívne schopností adolescentov............................................................ 24
+
+1.2.2
+
+Vplyv pohybovej aktivity na kognitívne schopnosti ................................... 26
+
+2 CIEĽ, HYPOTÉZY A ÚLOHY VÝSKUMU ....................................................... 28
+2.1
+
+Cieľ práce ............................................................................................................ 28
+
+2.2 Hypotézy práce ....................................................................................................... 28
+2.3
+
+Úlohy práce ......................................................................................................... 28
+
+3 METODIKA PRÁCE ............................................................................................. 29
+3.1 Charakteristika výskumného problému .................................................................. 29
+3.2
+
+Organizácia výskumu .......................................................................................... 30
+
+3.3
+
+Charakteristika výskumnej situácie ..................................................................... 31
+
+3.4 Metódy zberu výskumných údajov ......................................................................... 32
+3.5
+
+Metódy spracovania výskumných údajov ........................................................... 36
+
+4 VÝSLEDKY PRIESKUMU A DISKUSIA ........................................................... 38
+4.1 Porovnanie úrovne kognitívnych schopností adolescentov .................................... 39
+4.2
+
+Porovnanie úrovne kognitívno - motorických schopností adolescentov ............. 50
+
+ZÁVER PRÁCE ............................................................................................................ 62
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ...................................................... 64
+
+6
+
+ZOZNAM OBRÁZKOV A ILUSTRÁCIÍ
+Obrázok 1 Vykonávanie Divided Attention test.................................................................36
+Obrázok 2 Grafické porovnanie stredných hodnôt parametrov TIP test intelektového potenciálu
+medzi pohybovo aktívnymi a neaktívnymi dievčatami.............................................................41
+Obrázok 3 Grafické porovnanie stredných hodnôt parametrov Test koncentrácie pozornosti medzi
+pohybovo aktívnymi a neaktívnymi dievčatami........................................................................43
+Obrázok 4 Grafické porovnanie stredných hodnôt parametrov test vizuálnej pamäti medzi
+pohybovo aktívnymi a neaktívnymi dievčatami........................................................................44
+Obrázok 5 Grafické porovnanie stredných hodnôt parametrov TIP test intelektového potenciálu
+medzi pohybovo aktívnymi a neaktívnymi chlapcami...............................................................46
+Obrázok 6 Grafické porovnanie stredných hodnôt parametrov test koncentrácie pozornosti medzi
+pohybovo aktívnymi a neaktívnymi chlapcami..........................................................................47
+Obrázok 7 Grafické porovnanie stredných hodnôt parametrov test vizuálnej pamäti medzi
+pohybovo aktívnymi a neaktívnymi chlapcami..........................................................................49
+Obrázok 8 Grafické porovnanie stredných hodnôt parametrov divided attention medzi pohybovo
+aktívnymi a neaktívnymi dievčatami..........................................................................................50
+Obrázok 9 Grafické porovnanie stredných hodnôt parametrov hawk eye medzi pohybovo aktívnymi
+a neaktívnymi dievčatami..........................................................................................................52
+Obrázok 10 Grafické porovnanie stredných hodnôt parametrov test random multi symbol and
+multicolor celkový čas na vykonanie 15 stimulov medzi pohybovo aktívnymi a neaktívnymi
+dievčatmi....................................................................................................................................53
+Obrázok 11 Grafické porovnanie stredných hodnôt parametrov divided attention medzi pohybovo
+aktívnymi a neaktívnymi chlapcami...........................................................................................54
+Obrázok 12 Grafické porovnanie stredných hodnôt parametrov hawk eye medzi pohybovo
+aktívnymi a neaktívnymi chlapcami...........................................................................................55
+Obrázok 13 Grafické porovnanie stredných hodnôt parametrov test random multi symbol and
+multicolor celkový čas na vykonanie 15 stimulov medzi pohybovo aktívnymi a neaktívnymi
+chlapcami...................................................................................................................................56
+
+7
+
+ZOZNAM TABULIEK
+Tabuľka 1 Základné opisne charakteristiky výskumného súboru (priemer ±
+smerodajná odchýlka) ........................................................................ 29
+Tabuľka 2 Analýza normality rozloženia dát .......................................................... 38
+Tabuľka 3 Popisné výsledky testov kognitívnych schopností štatistiky dievčatá ... 40
+Tabuľka 4 Výsledky štatistickej porovnávacej analýzy parametrov testu TIP Test
+intelektového potenciálu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi dievčatami ..................................................................... 41
+Tabuľka 5 Výsledky štatistickej porovnávacej analýzy parametrov testu Test
+koncentrácie pozornosti medzi pohybovo aktívnymi a pohybovo
+neaktívnymi dievčatami ..................................................................... 43
+Tabuľka 6 Výsledky štatistickej porovnávacej analýzy parametrov testu Test
+vizuálnej pamäti medzi pohybovo aktívnymi a pohybovo neaktívnymi
+dievčatami .......................................................................................... 44
+Tabuľka 7 Popisné výsledky hodnotenia kognitívnych schopností chlapcov ......... 45
+Tabuľka 8 Výsledky štatistickej porovnávacej analýzy parametrov testu TIP Test
+intelektového potenciálu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami ...................................................................... 46
+Tabuľka 9 Výsledky štatistickej porovnávacej analýzy parametrov testu Test
+koncentrácie pozornosti medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami ...................................................................... 48
+Tabuľka 10 Výsledky štatistickej porovnávacej analýzy parametrov testu Test
+vizuálnej pamäti medzi pohybovo aktívnymi a pohybovo neaktívnymi
+chlapcami ........................................................................................... 49
+Tabuľka 11 Výsledky korelácie úrovne pohybovej aktivity a kognitívnych schopností
+testovaných skupín adolescentov (Spearmanova korelačná analýzy
+poradia) .............................................................................................. 50
+Tabuľka 12 Popisné výsledky hodnotenia kognitívno-motorických schopnosti
+dievčatá .............................................................................................. 51
+
+8
+
+Tabuľka 13 Výsledky štatistickej porovnávacej analýzy parametrov testu divided
+attention medzi pohybovo aktívnymi a pohybovo neaktívnymi
+dievčatami .......................................................................................... 52
+Tabuľka 14 Výsledky štatistickej porovnávacej analýzy parametrov testu Hawk eye
+medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami .... 53
+Tabuľka 15 Výsledky štatistickej porovnávacej analýzy parametrov test random
+mutisymbol and multicolor medzi pohybovo aktívnymi a pohybovo
+neaktívnymi dievčatami ..................................................................... 54
+Tabuľka 16 Popisné výsledky štatistiky kognitívno-motorických schopnosti
+chlapcov ............................................................................................. 55
+Tabuľka 17 Výsledky štatistickej porovnávacej analýzy parametrov testu divided
+attention medzi pohybovo aktívnymi a pohybovo neaktívnymi
+chlapcami ........................................................................................... 56
+Tabuľka 18 Výsledky štatistickej porovnávacej analýzy parametrov testu Hawk eye
+medzi pohybovo aktívnymi a pohybovo neaktívnymi chlapcami...... 57
+Tabuľka 19 Výsledky štatistickej porovnávacej analýzy parametrov test random
+mutisymbol and multicolor medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami ...................................................................... 58
+Tabuľka 20 Výsledky korelácie úrovne pohybovej aktivity a kognitívno motorických
+
+schopností
+
+testovaných
+
+skupín
+
+adolescentov
+
+(Spearmanova korelačná analýzy poradia) ........................................ 59
+
+9
+
+ÚVOD
+Rozmanitý termín pohybovej aktivity môže zahrňovať rôzne aspekty, ako je športový
+výkon, voľnočasové aktivity a rekreácia. Je dôležitý pre zdravý životný štýl, čo potvrdzujú
+rôzne štúdie. Okrem toho má pozitívny vplyv na fyzickú kondíciu, subjektívny pocit
+zdravia a psychický stav. Viaceré výskumy taktiež ukazujú, že pohybová aktivita výrazne
+zlepšuje kognitívne funkcie v celej populácii, podporuje pružnosť myslenia, zrýchľuje
+rozhodovanie a zlepšuje pozornosť. Navyše ovplyvňuje aj osobnosť človeka, posilňuje
+sebakritickosť, podporuje sebavedomie a prispieva k obohateniu duševného sveta
+jednotlivca.
+Hlavným zámerom tejto práce je preskúmať spojenie medzi pohybovou aktivitou a
+kognitívnymi schopnosťami, pričom berieme do úvahy vek jednotlivcov. Na dosiahnutie
+tohto cieľa sme použili test na hodnotenie úrovne kognitívnych funkcií u študentov v
+adolescencii.
+Diplomová práca pozostáva zo štyroch častí. V úvodnej kapitole sme definovali
+základné pojmy, ako je pohybová aktivita, kognitívne schopnosti a ich súčasti. Kapitola
+taktiež zohľadnila viaceré štúdie z pohľadu vzťahu medzi pohybovou aktivitou a
+kognitívnymi schopnosťami. Druhá kapitola stanovuje ciele práce, ktoré zahŕňajú
+posúdenie vplyvu pohybovej aktivity na rozvoj kognitívnych funkcií. Taktiež uvádza
+hypotézy a úlohy, ktoré práca sleduje. V tretej kapitole sme opísali charakteristiku
+sledovaného súboru - žiakov v adolescencii. Popisuje aj organizáciu výskumu, jeho priebeh
+a metódu získavania údajov, ktorá zahŕňa použitie Witty Sem Agility, a metódu analýzy
+výsledkov. Výsledky práce sú uvedené v štvrtej kapitole, kde sme participantov rozdelili
+na skupinu dievčat a chlapcov a interpretovali výsledky našej práce. V závere práce
+nájdeme dôvody prečo hypotézy zamietame a odporúčania pre ďalší výskum.
+
+10
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY DOMA A V
+ZAHRANIČÍ
+1.1 Pohybová aktivita adolescentov
+Jedným z kľúčových pilierov ľudských prejavov je aktivita. Je to nedeliteľná prirodzená
+súčasť ľudského tela, ktorej existencia vzniká a zaniká v jednotlivcoch. Aktivita je zároveň
+hlavným indikátorom života; v tomto kontexte nie len chôdze alebo pohybu končatín.
+Dokonca aj v prípade, že človek leží nepohyblivo, v jeho tele dochádza k viacerým
+automatickým pohybom, ako je dýchanie alebo srdcový rytmus, ktoré primárne slúžia na
+zabezpečenie tela potrebnými živinami. Vývoj našich pohybových schopností sa formoval
+u ľudí počas miliónov rokov. Pohyb sám osebe závisí na aktivácii svalových častí, čo
+následne spôsobuje samotný pohyb. Ľudské telo je efektívne prispôsobené k pohybu, a jeho
+nedostatok alebo nadmernosť môže mať významné dôsledky (Marcusová a kol. 2010).
+Pohybovú aktivitu treba vnímať ako komplexnú štruktúru rozmanitých činností, vrátane
+športových aktivít, vlastného pohybu na prechod z miesta na miesto, tanca, detských hier,
+telesnej výchovy na školách, a dokonca aj prvkov, ktoré by nás možno v prvom okamihu
+ani nenapadli, ako napríklad pohybová aktivita pri domácich prácach (Kalman a kol. 2009).
+Měkota - Novosad (2005) zachádzajú v definícií pohybových aktivít ešte ďalej a vnímajú
+samotný pohyb ako určitý aspekt vlastnej existencie. Týmto spôsobom sa rozumie, že telo,
+tvorené kostrou a svalovinou, má schopnosť meniť svoje polohy, či už ide o samotné
+končatiny alebo celé telo, s úmyslom dosiahnuť pohybový cieľ. Samotný cieľ chápu ako
+vnútornú potrebu organizmu, ktorá môže mať rôzne príčiny, ako napríklad kompenzáciu
+sedavého zamestnania alebo prevenciu pred chorobami. Z toho vyplýva, že integrovanie
+pohybovej aktivity do nášho životného štýlu je dôležité, bez ohľadu na to, odkiaľ človek
+pochádza alebo akú má sociálnu skupinu a vekovú kategóriu, dokonca aj v prípade, že je
+obmedzený inými spôsobmi. Tento prístup má za následok nielen fyzické výhody, ale tiež
+pozitívne účinky na mentálnu a sociálnu oblasť. Ide predovšetkým o spojenie fyzickej a
+duševnej stránky, ktoré nám práve športová aktivita a pohyb umožňujú (Marcusová a kol.
+2010). Šimonek (2000) zadefinoval pohybovú aktivitu ako každú formu pohybovej
+aktivity, ktorá adekvátne zvýši požiadavky na fungovanie organizmu a vyžaduje
+energetický výdaj nad úrovňou pokojového stavu, zahrňuje pracovné aktivity vrátane
+domácich prác a záujmových aktivít ako záhradkárstvo, rybárstvo, poľovníctvo, včelárstvo,
+rezbárstvo, zbieranie lesných plodov a liečivých rastlín. Sem patria aj riadené telesno11
+
+športové aktivity vykonávané individuálne alebo skupinovo, buď bez alebo pod vedením
+pedagóga. Je dôležité, aby pohybová aktivita bola sprevádzaná vyváženou stravou,
+otužovaním a dodržiavaním vhodného denného režimu. Už Avicena zdôrazňoval, že pre
+udržanie zdravia sú kľúčové telesné cvičenia, strava a spánok.
+Pohybová aktivita môže byť vykonávaná buď organizovane alebo neorganizovane.
+Rozlišuje sa podľa miesta, spôsobu a intenzity vykonávania. Neorganizovaná pohybová
+aktivita zahŕňa činnosti, ktoré jednotlivec vykonáva na základe vlastného spontánneho
+rozhodnutia a podľa vlastných záujmov (napríklad jazda na bicykli, beh, plávanie). Sem
+patria aj bežné aktivity spojené s dennými povinnosťami v škole (cesta do a zo školy,
+presuny počas vyučovania, príprava na vyučovanie) a v domácnosti (domáce práce,
+záhradnícke práce, údržba bytu alebo domu a starostlivosť o rodinu). Organizovaná
+pohybová aktivita je vždy riadená odborným vedením, či už pedagógom, cvičiteľom,
+trénerom alebo inštruktorom. Typickým príkladom organizovanej aktivity je vyučovacia
+hodina telesnej a športovej výchovy, pričom deti sa môžu zapojiť aj prostredníctvom
+krúžkov, návštev športových klubov, centier voľného času, letných alebo zimných táborov
+a podobne (Tlučáková – Kačur 2019).
+Tlučáková – Kačur (2019) delia pohybovú aktivitu nasledovne:
+1. Pohybová aktivita vykonávaná v rámci školy, respektíve práce (chôdza v rámci
+školy – presuny, intenzívna pohybová aktivita, stredne zaťažujúca pohybová
+aktivita)
+2. Pohybová aktivita ako spôsob dopravy (jazda na bicykli, jazda na kolobežke,
+chôdza)
+3. Pohybová aktivita ako súčasť domácich prác (intenzívna pohybová aktivita, stredne
+zaťažujúca pohybová aktivita)
+4. Pohybová aktivita vykonávaná vo voľnom čase ( chôdza – prechádzky, intenzívna
+pohybová aktivita, stredne zaťažujúca pohybová aktivita)
+Prevenciu zdravia prostredníctvom pohybovej aktivity môžeme rozdeliť do troch
+kategórií - primárnej, sekundárnej a terciárnej. Primárna prevencia zahŕňa informovanie
+jednotlivca a celej spoločnosti o výhodách pohybovej aktivity pre telo a jeho vývoj.
+Literatúra odporúča najmä aeróbne aktivity (napríklad vytrvalostné cvičenia), posilňovacie
+cvičenia a cvičenia na koordináciu. V rámci primárnej prevencie je dôležité zdôrazniť
+neodmysliteľnú úlohu rozcvičenia pred pohybovými aktivitami a tiež relaxácie po ich
+vykonaní. Významné je aj správne oblečenie a obuv, vyhýbanie sa aktivitám počas
+
+12
+
+najteplejších a najvlhkejších dní alebo častí dní, cvičenie najskôr 1,5 hodiny po jedle,
+prijímanie zvýšeného množstva glukózy najmenej 1,5 hodiny pred cvičením na
+zabezpečenie potrebného energetického príjmu, a pred cvičením dostatočné pitie tekutín
+na predchádzanie dehydratácii. Sekundárna prevencia sa sústreďuje na ľudí, ktorí majú
+zdravotné problémy. Jej cieľom je minimalizovať alebo spomaliť priebeh mnohých chorôb
+a porúch, pričom v niektorých prípadoch môže prispieť k zlepšeniu celkového zdravotného
+stavu. Je nevyhnutné, aby takáto osoba pred začatím cvičenia konzultovala so svojím
+lekárom alebo fyzioterapeutom o vhodnosti vybranej pohybovej aktivity. Terciárna
+prevencia zahŕňa opatrenia, ktoré sa týkajú rehabilitácie a ľudí v pokročilom štádiu
+ochorenia s komplikáciami. Jej cieľom je maximalizovať somatický, psychický a sociálny
+stav pacienta, aby mohol zaujať vhodné postavenie v spoločnosti (Maskálová 2009).
+Z výskumu Kováčovej a kol. (2018) vyplýva, že u adolescentov športujú na základe
+genderového rozdielu viac chlapci ako dievčatá a to konkrétne z 200 respondentov športuje
+77,2% chlapcov a 73,7% dievčat. Žiadny športu v rámci chlapčenskej populácia
+nevykonáva iba 22,8% chlapcov a u dievčat sa organizovanej pohybovej aktivite nevenuje
+iba 26,3% dievčat. Veľmi pozitívne môžeme hodnotiť to, že tí, ktorí nejaký šport alebo
+pohybovú aktivitu vykonávajú sa jej venujú najčastejšie tri krát do týždňa. Druhou
+najčastejšou odpoveďou bolo, že sa mladí ľudia venujú pohybovým aktivitám jedenkrát do
+týždňa. Veľmi pozitívne môžeme hodnotiť, že jeden krát za štrnásť dní sa venuje športu
+iba malé percento mladých ľudí a iba raz do mesiaca dokonca nikto.
+V rámci obľúbenosti pohybových aktivít u adolescentov zisťovali Bebčákova a kol.
+(2012) a prišli na to, že najviac obľúbene pohybové aktivity sú v tomto poradí:
+1. Kolektívne športy
+2. Individuálne športy
+3. Rytmické a tanečné aktivity
+4. Pohybové aktivity v prírode
+5. Kondičné aktivity
+6. Pohybové aktivity vo vode
+7. Bojové umenie
+V rámci kolektívnych športov najviac preferované boli: volejbal, basketbal, futbal
+a hádzaná. Individuálne športy boli preferované nasledovne a to korčuľovanie, plávanie,
+cyklistika, tenis a bedminton. Pre rytmické a tanečné aktivity uprednostňovali moderné
+tance, štandardné tance a latinsko-americké tance. O pohybové aktivity v prírode bol
+
+13
+
+najväčší záujem o korčuľovanie, jazdectvo, cykloturistika, snowbording, lietanie
+(plachtenie a rogalo). Pri kondičných aktivitách prevládali posilňovacie cvičenia, beh
+a športový aerobik.
+
+1.1.1 Význam pohybovej aktivity na kvalitu života adolescentov
+Pohybové aktivity sú dobre známym prostriedkom pre obnovu, udržiavanie a podporu
+zdravia a kvality života ľudstva. Je jednoznačne preukázané, že sedavý životný štýl
+predstavuje rizikový faktor pre vývoj mnohých chronických a civilizačných ochorení.
+Okrem fyzických výhod má vedúci zdravý životný štýl výrazné pozitívne účinky aj na
+psychický stav jednotlivca. V zásade platí, že každý pohyb je lepší než žiadny. Účinky
+pohybovej aktivity na náš organizmus sú zreteľné nielen v udržiavaní dobrej telesnej
+kondície, ale aj v pozitívnom vplyve na psychický stav. Tieto vplyvy sa prejavujú v
+celkovom zdraví, ktoré nie je definované len ako stav plného telesného, duševného a
+sociálneho blahobytu, ale aj ako schopnosť viesť sociálne a ekonomicky produktívny život.
+Zdravie je tak vnímané ako prostriedok na dosiahnutie harmonického života, nie ako
+konečný cieľ (Slepičková 2005). Všeobecne sa uznáva, že pohybová aktivita má
+preventívny vplyv na zdravotné ťažkosti. Už pred niekoľkými storočiami sa však
+zdôrazňoval nielen fyzický vplyv na zdravie, ale aj vzťah medzi pohybovou aktivitou a
+psychickým zdravím. Aj keď je presvedčenie, že v zdravom tele je zdravý duch, staré,
+systematické výskumy fyzických vplyvov pohybu na ľudské zdravie začali až neskôr.
+Posledné štúdie významne rozvíjajú pochopenie väzby medzi pohybovou aktivitou a
+psychickým zdravím. Anglický úrad pre zdravie tvrdí, že preventívne a liečebné účinky sú
+spoľahlivé a nevyvrátiteľné. Dôvody, prečo pohyb ovplyvňuje psychiku človeka, však ešte
+nie sú úplne preskúmané. Napriek tomu existuje mnoho teórií, predovšetkým
+psychologického a fyziologického charakteru, ktoré sa opierajú o skutočné dôkazy jeho
+pozitívnych vplyvov na ľudské zdravie (Tod et al. 2010). V poslednej dobe sa obnovila
+diskusia o aktívnom životnom štýle a jeho vplyve na psychické zdravie. Niekoľko
+nedávnych štúdií potvrdilo pozitívne účinky pravidelných pohybových aktivít na mentálnu
+pohodu jednotlivca (De Moor 2006). Jeden z negatívnych psychických stavov, ktoré sa
+pohybovo aktívnym jedincom darí úspešnejšie vyhýbať než menej aktívnym, je depresia.
+Bolo potvrdené, že u ľudí, ktorí vykonávali menší objem pohybových aktivít, sa vyskytoval
+vyšší stupeň symptómov depresie. Podobná súvislosť existuje aj pri jednom z najčastejších
+
+14
+
+psychických ochorení, a to úzkostnej poruche, ktorá postihuje až 30-40% populácie v
+určitom období života. Rovnako ako pri depresii, štúdie ukázali, že vyššia úroveň
+pohybovej aktivity súvisí s nižším výskytom symptómov úzkosti a bola odporúčaná ako
+jeden z preventívnych faktorov tejto psychickej poruchy. Vedci prikladajú najväčšiu
+dôležitosť, podobne ako pri zdravotných účinkoch, aeróbnej aktivite strednej intenzity
+(Motl 2004). Okrem uvedených účinkov má pohybová aktivita významný dopad na
+emocionálny stav jednotlivca. Osoba, ktorá sa pravidelne pohybuje, prejavuje zvýšený
+pocit sebavedomia, ľahšie zvláda stres z bežných problémov, ľahšie sa rozptýli a je menej
+agresívna. Pravidelná fyzická aktivita prispieva k zvýšeniu pracovnej kapacity a
+koordinácie, čo umožňuje efektívnejšie zvládanie úloh. Tieto pozitívne zmeny v správaní
+trénujúcej osoby sú spojené so zmenami v mozgu. Fyzicky aktívni jedinci majú vyššiu
+produkciu špecifických nervových prenášačov a modulátorov, ktoré redukujú bolesť,
+zlepšujú náladu a prinášajú pocity radosti. Tento efekt vysvetľuje prečo pohybovo aktívna
+osoba po dlhšej prestávke začína pociťovať nedostatok pohybu, keďže sa jej telo
+adaptovalo na pravidelné uvoľňovanie týchto látok a ich absencia pôsobí negatívne
+(Stejskal 2004).
+Pravidelné cvičenie a prirodzená pohybová aktivita, spolu s adekvátnym energetickým
+príjmom, predstavujú najúčinnejšiu, najbezpečnejšiu a ekonomicky najefektívnejšiu formu
+prevencie civilizačných ochorení. Vedecky bolo potvrdené, že dlhodobý pravidelný pohyb
+predlžuje ľudský život a znižuje riziko úmrtia na ochorenia spojené so sedavým spôsobom
+života. Okrem pozitívnych vplyvov na pohybový aparát človeka, tiež prispieva k zlepšeniu
+spánku a pamäti (Stejskal 2004). Pravidelná pohybová aktivita zohráva významnú úlohu v
+prevencii hromadne rozšírených neinfekčných ochorení, najmä srdcových a cievnych
+ochorení. Táto aktivita zvyšuje energetickú spotrebu a má kľúčový význam pre udržanie
+fyzickej kondície a prevenciu kardiovaskulárnych ochorení a diabetu 2. typu. Rovnako je
+významná v prevencii onkologických a ďalších kardiometabolických ochorení. Zdravotné
+výhody pohybových aktivít sú pozorovateľné v rôznych vekových skupinách bez ohľadu
+na pohlavie, rasu alebo etnickú príslušnosť. Pohybová inaktivita a nízka fyzická zdatnosť
+sú samostatnými rizikovými faktormi pre vznik kardiovaskulárnych ochorení. Dôkazy
+ukazujú, že pravidelná pohybová aktivita znižuje krvný tlak, telesnú hmotnosť, percento
+telesného tuku a obvod pása. Zároveň zvyšuje citlivosť tkanív na inzulín a hladiny HDL
+cholesterolu. Pohybová aktivita tiež prispieva k zníženiu hladiny glykémie a inzulínu, čo
+má pozitívny vplyv nalačno aj po jedle. Pravidelné cvičenie prispieva k zníženiu hladín
+
+15
+
+triglyceridov. Redukciou rizika kardiovaskulárnych a metabolických ochorení sa zároveň
+znižuje potreba užívania liekov. Na dosiahnutie redukcie telesnej hmotnosti sa odporúča
+dynamická aeróbna záťaž strednej intenzity trvajúca 30 až 45 minút denne. Iní odborníci
+zdôrazňujú dôležitosť celkového času stráveného týždenne v pohybovej aktivite, pričom
+nie je nevyhnutné byť aktívny každý deň aspoň 30 minút. Aeróbne aktivity s väčšími
+svalovými skupinami, ako je beh, rýchla chôdza, turistika, cyklistika, plávanie, skákanie
+na švihadle, chôdza a beh na lyžiach, veslovanie, chôdza po schodoch a korčuľovanie, sa
+odporúčajú, najmä ak neexistujú zdravotné kontraindikácie. Moderným trendom je
+severská chôdza. Tieto pohybové aktivity sú dostupné a vhodné pre väčšinu populácie.
+Samotná pohybová aktivita prispieva k redukcii telesnej hmotnosti, a zvýšenie
+energetického výdaju podporovaného fyzickou aktivitou prispieva k úbytku hmotnosti
+alebo udržaniu dosiahnutej hmotnosti u jedincov s nadváhou alebo obezitou. Všeobecne
+platí, že každé zvýšenie pohybovej aktivity prispieva k zlepšeniu zdravia, pričom aj mierne
+aktivity majú aditívny účinok, ak sú vykonávané pravidelne. Pravidelné cvičenie s
+primeranou intenzitou počas väčšiny dní v týždni môže znižovať riziko kardiovaskulárnych
+ochorení a zlepšovať fyzickú zdatnosť (Pavlík et al. 2017).
+Existuje mnoho odporúčaní pre realizáciu pohybovej aktivity adolescentov Tudor –
+Locke et al. (2011) niektoré z nich sú založené na frekvencií, intenzite, dobe trvania
+realizácie a typu pohybovej aktivity (FITT charakteristiky) Sigmund – Sigmundová (2011)
+a zasa iné sú založené na počte realizovaných krokov Brusseau et al. (2013), s novými
+znalosťami v oblasti kinantropologických vied dochádza tiež k úprave odporúčaní pre
+pohybovú aktivitu (Sigmundová – Sigmund 2015).
+Aktívne záujmy, ktoré sa rozvíjajú v adolescencii, majú významný dopad aj na budúci
+život. V adolescencii patrí šport medzi najhlavnejšie záujmy. Šport predstavuje jedinečný
+prostriedok na vyjadrenie súťaživosti, kanalizáciu agresivity, príležitosť na porovnávanie
+sa s inými a zároveň možnosť byť súčasťou pozitívneho kolektívu. Športový tréning
+zároveň učí jednotlivca disciplíne, hodnoteniu vlastných schopností, rozvíjaniu
+systematického prístupu a formovaniu zvykov zdravého životného štýlu, ktoré môžu trvať
+po celý život. V tomto kontexte môžeme považovať súťažný šport v adolescencii za školu
+vôle a charakteru (Říčan 2004). Pravidelná pohybová aktivita ma pozitívne účinky na naše
+zdravie. Konkrétne ide o Zvyšovanie vitálnej kapacity pľúc, zvyšovanie celkového objemu
+krvi pre lepší transport kyslíka, posilnenie srdca a jeho funkcie, zvýšenie hladiny HDL
+(„dobrého“) cholesterolu, normalizácia krvného tlaku, redukcia rizika rakoviny, zvýšenie
+
+16
+
+tolerancie glukózy, spomalenie odvápňovania kostí, pozitívny vplyv na nervové procesy,
+vyrovnanie energetického bilancovania, psychické uvoľnenie a ďalšie benefity súvisiace
+s týmto (Bendíková 2012). Ak pojednávame o adolescentoch, pohybová aktivita im
+napomáha k správnemu krvnému tlaku. Pri dospelých jedincoch je známe, že vyššie BMI
+zodpovedá vyššiemu krvnému tlaku pri chôdzi a ďalších pohyboch. Pravidelná pohybová
+aktivita funguje preventívne pred vznikom trombózy, vďaka svojím pozitívnym vplyvom
+na krvný tlak (Eissa et al. 2007). Telama et al. (2006) tvrdí, že vykonávanie pohybovej
+aktivity v mladosti významne predurčuje úroveň pohybovej aktivity aj v dospelosti.
+Svetová zdravotnícka organizácia (WHO, 2022) ustanovuje nasledujúce odporúčania
+týkajúce sa pohybovej aktivity, ktorá prispieva k lepšiemu zdraviu pre adolescentov:
+✓ Vykonávať aspoň 150-300 minút aeróbnych pohybových aktivít strednej intenzity alebo
+aspoň 75-150 minút aeróbnych pohybových aktivít vysokého zaťaženia týždenne alebo
+kombinovať obe odporúčania;
+✓ Vykonávať posilňujúce cvičenia miernej alebo vyššej intenzity zamerané na všetky
+hlavné svalové skupiny minimálne 2 dni v týždni;
+✓ Obmedzovať čas venovaný sedavým aktivitám, ako je sledovanie televízie alebo hranie
+počítačových hier.
+Podobné smernice platia aj v Kanade podľa Tremblay et al. (2016). Tieto odporúčania
+však sú veľmi všeobecné a neberú do úvahy rôzne faktory, ako napríklad vek detí, pohlavie,
+špeciálne skupiny a regionálne či socioekonomické rozdiely. V Nemecku sa navrhuje vyšší
+objem fyzickej aktivity než stanovujú smernice World Health Organization. Na
+kompenzáciu sedavého životného štýlu a prevenciu chronických neinfekčných ochorení,
+ako sú metabolický syndróm, cukrovka a obezita, sa odporúča vykonávať denne 90 minút
+pohybovej aktivity. Podobné smernice platia aj pre deti v Českej republike, pričom
+pohybová aktivita by mala byť rozdelená do krátkych, aspoň 10-minútových úsekov, s
+cieľom dosiahnuť celkovo minimálne 90 minút denne so strednou intenzitou. Úroveň
+telesnej zdatnosti ovplyvňuje nielen trvanie, ale aj intenzita cvičenia. Zvýšenie maximálnej
+aeróbnej kapacity u detí v predpubertálnom období je možné dosiahnuť aj s cvičením
+kratším trvania, ale vyššou intenzitou. Zlepšenie kondície môže nastať aj pri prerušovanej
+pohybovej aktivite trvajúcej aspoň 20–35 minút s frekvenciou 3-krát týždenne, pričom
+intenzita by mala byť vyššia ako 80 % z maximálnej srdcovej frekvencie (Mandigout et al.
+2007). Toho možno dosiahnuť nielen intervalovým tréningom, ale aj prostredníctvom
+športových hier alebo spontánnych detských aktivít, ako sú napríklad naháňačky. I keď
+17
+
+nízka intenzita telesnej záťaže (menej ako 65 % z maximálnej srdcovej frekvencie) nie je
+optimálny stimul pre rozvoj aeróbnej trénovanosti, neznamená to, že takéto aktivity sú
+bezvýznamné (Vinet et al.2002). Aj pri ľahkom zaťažení, ako je prechádzka, sa spotreba
+kyslíka významne zvyšuje v porovnaní so sedením, čo môže prispievať k vytváraniu
+energetického deficitu a udržiavaniu alebo dokonca redukcii telesnej hmotnosti. Dôležité
+je, aby trvanie takejto aktivity bolo dlhšie ako 20–30 minút. Podľa odporúčaní je vhodné,
+aby deti denne vykonávali aspoň 12 000 krokov minimálne (Graf et al. 2014). Dlhodobá
+aktivita s nízkou intenzitou, ako je chôdza, môže mať priaznivý vplyv na zdravie detí. Je
+dôležité, že pohybové aktivity môžu byť kumulované počas dňa v kratších intervaloch, ako
+napríklad cestovanie do a zo školy, účasť na telesnej výchove, športové aktivity a
+spontánne pohybové aktivity vo voľnom čase. Aktívna účasť detí na hodinách telesnej a
+športovej výchovy, ako aj pohybová aktivita počas celého vyučovania a v školských
+kluboch, sú kľúčovými prvkami dosiahnutia dostatočného množstva pohybu pre deti. Preto
+je dôležité, aby deti boli ospravedlnené z účasti na hodinách telesnej výchovy len v
+oprávnených prípadoch. Aj pri žiakoch so zdravotným postihnutím alebo oslabením by sa
+mali vyskúšať rôzne možnosti integrácie a podpora aktívneho pohybu, pretože primeraný
+pohyb ovplyvňuje nielen telesnú zdatnosť, ale aj celkový duševný stav dieťaťa (Bielik et
+al. 2017).
+Jednou z možností, ako zvýšiť úroveň pohybovú aktivity nielen u adolescentov, ale aj v
+dospelom veku, je monitorovanie tejto aktivity. Čoraz častejšie sa objavujú odporúčania
+týkajúce sa denného počtu krokov, odporúčanej spotreby vody a odporúčaného času
+venovaného cvičeniu. Monitorovanie pohybovej aktivity pomocou smartfónov, fitness
+náramkov či hodiniek je dnes veľmi jednoduché a mnohokrát nevyžaduje žiadny aktívny
+zásah počas celého dňa. Tieto zariadenia môžu prostredníctvom notifikácií poskytnúť
+podnety a povzbudenia na dosiahnutie stanoveného denného alebo týždenného cieľa
+pohybovej aktivity (Bujdoš – Adamčák 2022).
+
+1.1.2 Vplyv pohybovej inaktivita na zdravie adolescentov
+Definícia pohybovej inaktivity predstavuje opak pohybovej aktivity. Ide teda o minimálny
+pohyb s nízkou energetickou spotrebou (úroveň bazálneho metabolizmu). Preklad z
+anglického jazyka charakterizuje pohybovú inaktivitu ako sedavý spôsob života alebo
+pohybovú nečinnosť. Tento výraz zahŕňa ležanie pri televízii alebo sedenie, či už v škole
+
+18
+
+alebo doma pri hraní počítačových hier. Sedenie však môže zahŕňať aj drobné pohyby.
+Pohybová inaktivita sa uvádza ako nedosiahnuté odporúčané množstvo pohybu
+(Sigmundová – Sigmund 2015). Opakom pohybovej aktivity sa používa termín pohybová
+inaktivita alebo hypokinéza. Oba tieto výrazy majú podobné rysy, ale nie sú identické.
+Pohybová inaktivita nie je len nedostatkom pohybu, ale tiež sa vyznačuje slabou
+regulačnou funkciou organizmu a metabolizmu. Tieto zmeny sú slabé a takmer
+zanedbateľné, aby dostatočne podnietili orgány k udržaniu ich normálnej funkcie. Ďalej je
+pre pohybovú inaktivitu charakteristický nedostatok svalových kontrakcií, ktorých úloha
+je dôležitá pri prestavbe svalu. Taktiež dochádza k nedostatku zvýšeného metabolizmu,
+ktorý prospieva stimulácii metabolických reakcií a zložitejším motorickým pohybom,
+ktoré udržiavajú správnu kontrolu pohybu. Na rozdiel od pokojového stavu pri pohybe
+dochádza k zvýšenému výdaju energie a väčšej spotrebe kJ než v bežnom stave. U jedincov
+so nedostatočným pohybom sa často prejavuje nadváha alebo obezita. Títo jedinci majú
+často vysoký energetický príjem z vysoko kalorických a nezdravých jedál. Následné
+nemanipulovanie s vysokým energetickým príjmom, ktorý výrazne prevyšuje ich výdaj,
+vedie k ukladaniu nahromadenej energie vo forme tukových zásob (Vuori 2004). V
+súčasnej civilizovanej spoločnosti dochádza k poklesu potreby pohybovej aktivity nielen v
+pracovnom prostredí, škole, ale aj v domácnosti, čím sa zvyšuje miera pohybovej
+inaktivity. Používanie informačných komunikačných technológií v tomto spôsobe života
+viedlo k nárastu pasívnej komunikácie cez sociálne siete. Súčasná éra so sebou prináša
+zníženie pohybovej aktivity v bežných životoch ľudí. Hypokinéza, často spojená s
+nadmerným stravovaním, sa stáva charakteristickým znakom súčasného životného štýlu s
+negatívnym vplyvom na naše zdravie. U žiakov základných a stredných škôl sa v
+poslednom desaťročí zvyšuje nechuť k pohybovým aktivitám, čo má nepriaznivý dopad na
+ich fyzickú kondíciu. Medzi príčiny patrí povinná školská dochádzka, kde žiaci celé
+dopoludnie sedí za lavicami bez pohybu, ako aj nadmerné využívanie dopravných
+prostriedkov, výťahov, eskalátorov a celkový rozvoj služieb. Rast moderných technológií
+spôsobuje trvalé sedenie detí pri týchto zariadeniach, čím fyzická nečinnosť nahradzuje
+pohybovú aktivitu (Sigmund - Sigmundová 2011). Nedostatok pohybovej aktivity má
+významný vplyv na zdravie jednotlivca. Štýl života s minimálnym pohybom a spolu s
+nezdravými stravovacími návykmi a ďalšími rizikovými faktormi, ako sú napríklad stres a
+fajčenie, môže byť tak zásadný, že môže viesť k rozvoju určitých chronických ochorení
+(Bouchard et al. 2007). Blair (2007) zistil, že nedostatok pohybovej aktivity a nízka úroveň
+
+19
+
+aeróbnej zdatnosti vedú k vzniku chronických ochorení, zníženiu kvality života
+jednotlivca, strate funkcie a prispievajú k predčasnému úmrtiu. Sedavý životný štýl má
+zdravotné následky porovnateľné s ochoreniami, ako sú vysoký krvný tlak, fajčenie,
+diabetes a zvýšená hladina lipidov. Podľa informácií od WHO (2022) je pohybová
+inaktivita jedným z hlavných príčin úmrtí v Európe. Ročne sa odhaduje približne 1 milión
+úmrtí, čo tvorí asi 10 % z celkového európskeho počtu. Globálne ide o odhadovaných 8,3
+milióna úmrtí v dôsledku pohybovej nečinnosti. Viac ako polovica obyvateľov nesplňuje
+odporúčané normy pohybovej aktivity. Údaje naznačujú, že v európskej populácii 6 z 10
+ľudí starších 15 rokov nikdy alebo len zriedka nevykonáva cvičenie, šport, alebo sa
+nezapája do iných aktivít, ako sú tanec, cyklistika a záhradkárčenie. Súčasný trend v
+pohybovej aktívnej životnej štýlu s narastajúcim vekom stále klesá, pričom medzi
+pohybovejšiu skupinu patria viac muži ako ženy.
+S pohybovou inaktivitou a sedavým spôsobom života klesá schopnosť tela prispôsobiť
+sa fyzickej námahe, čo vedie k dezadaptácii. Túto neprispôsobilosť pozorujeme na rôznych
+subsystémoch ľudského organizmu, predovšetkým v oblasti transportného systému,
+metabolizmu a neuroendokrinnej regulácie (Zvonař 2010).
+Ako už bolo viackrát zdôraznené, množstvo pohybovej aktivity, ktorú mladí ľudia
+aktívne vykonávajú, výrazne klesá, čo vedie k častému výskytu pojmov ako sedavý životný
+štýl alebo sedentarizmus. Hypokinéza je považovaná za negatívny aspekt súčasného života
+detí, mládeže a dospelých, prejavujúci sa nadmerným sedením alebo celkovým sedavým
+spôsobom života. Tento životný štýl charakterizuje minimálna úroveň fyzickej aktivity
+alebo aktivita vykonávaná len v nízkej intenzite, čo vedie k zanedbateľnému
+energetickému výdaju (energetický výdaj ≤ 1,5 metabolického ekvivalentu). Typickým
+prejavom je dlhé sedenie v škole počas vyučovania alebo vo voľnom čase. Sedavé
+správanie nie je obmedzené len na sedenie pri počítačoch alebo pred televíziou, zahŕňa aj
+akékoľvek činnosti vykonávané v sede, v polohe ležmo, alebo dokonca aj v stoji.
+Najčastejšie sa vyskytuje pri elektronických médiách (televízne sledovanie, internetové
+surfovanie a pod.), pri cestovaní, pri plnení domácich úloh a iných činnostiach (Bláha et
+al. 2013).
+
+20
+
+1.2 Kognitívne schopností a ich význam
+Termín kognitívne funkcie zahrňuje komplex poznávacích schopností, ktoré zahŕňajú
+abstraktné myslenie, úsudok a najmä pamäť. Medzi tieto funkcie patria aj fatické
+schopnosti (schopnosť komunikovať, nadväzovať komunikačný kontakt), rozhodovanie,
+riešenie problémov, plánovanie a organizačné schopnosti, ako aj orientácia v čase a
+priestore, spolu s schopnosťou chápať súvislosti (Ambler 2011). Svetová zdravotnícka
+organizácia (2001) definuje kognitívne schopnosti nasledovne, poznávanie, teda kognícia,
+zahŕňa vzájomne prepojené procesy. Tieto procesy, ako sú vnímanie, organizácia a
+asimilácia, umožňujú človeku učiť sa, spracovávať informácie a potom využiť naučené v
+praxi. Kognitívne schopnosti tvoria hierarchiu primárnych kognitívnych funkcií, ako sú
+pamäť, pozornosť, vnímanie a orientácia, ktoré sú tesne prepojené s vyššími kognitívnymi
+funkciami, ako sú reč, myslenie a exekutívne funkcie, a taktiež s metakognitívnymi
+schopnosťami, ako je premýšľanie a reflektovanie vlastných myšlienkových procesov.
+Kognitívne funkcie, tiež nazývané poznávacie funkcie, predstavujú základné schopnosti
+ľudského mozgu. Tieto mentálne procesy a operácie umožňujú jednotlivcom spoznávať
+svet a samých seba. Sú schopní rozhodovať o svojom správaní, komunikovať s inými
+ľuďmi a vstupovať do interakcií. Medzi tieto poznávacie procesy patria pamäť, myslenie,
+reč, pozornosť, vnímanie a predstavivosť. Ľudský mozog je zodpovedný za
+uskutočňovanie týchto procesov, a moderná neurologická veda poskytuje informácie o
+tom, ktorá časť mozgu sa podieľa na konkrétnych kognitívnych funkciách. Vďaka týmto
+vzájomne integrovaným schopnostiam je jedinec schopný plnohodnotne sa zapojiť do
+spoločnosti a stať sa jej súčasťou (Syka 2006).
+Zacharová (2012) potvrdzuje predošlé tvrdenia autorov a popisuje nasledujúce
+transformácie v kognitívnom vývoji:
+•
+
+Pozornosť – prejavuje vysokú úroveň rozvinutia, mladistvý je schopný cielene a
+úplne sa sústrediť. Iba v prípade vyššej emocionálnej angažovanosti môže úroveň
+klesnúť alebo byť sústredená na objekt emocionálneho záujmu.
+
+•
+
+Pamäť – logická aj mechanická pamäť sú plne funkčné.
+
+•
+
+Myslenie, inteligencia – dosahuje vrchol, myšlienkové operácie zvládnuté v období
+puberty podporujú výraznú intelektuálnu aktivitu
+
+21
+
+Vývoj pozornosti je ovplyvnený stupňom zrelosti centrálnej nervovej sústavy. Počas
+školského veku dochádza k zmenám v kapacite a kvalite pozornosti. Schopnosť sústrediť
+sa na určitý čas je v mladšom školskom veku ešte obmedzená. V 7 rokoch je priemerná
+dĺžka sústredenia približne 7-10 minút a v 10 rokoch sa zvyšuje na asi 10-15 minút.
+Selektivita a schopnosť presúvať pozornosť sa tiež zdokonaľujú v strednom školskom
+veku. Deti v tomto veku sú odolnejšie voči rušivým vplyvom z okolia v porovnaní s
+mladšími školákmi (Vágnerová 2008). Sternberg (2016) uvádza, že pozornosť je vnímaná
+ako prostriedok, ktorý umožňuje spracovávať obmedzené množstvo informácií buď v
+dlhodobej pamäti alebo v zmyslových systémoch jednotlivca. Pozornosť zahŕňa vedome aj
+nevedome procesy a je tesne spojená s pamäťou. Autor tvrdí, že zlepšená pozornosť "otvára
+cestu" k lepšiemu uchovávaniu informácií v pamäti. Jednotlivec je pravdepodobnejšie
+schopný si zapamätať informácie, ktorým venoval svoju pozornosť, v porovnaní s
+informáciami, ktoré ignoroval alebo im nevenoval žiadnu pozornosť.
+Pri Plháková (2004) identifikujeme dva druhy pozornosti: zámernej (úmyselnej) a
+nevedomej (neúmyselnej). Pre pochopenie rozdielu medzi týmito dvoma typmi je
+relevantné spomenúť ruského lekára I. P. Pavlova (1849-1936), ktorého meno je spojené s
+experimentami so zvieratami v rámci výskumu orientačno-pátracieho reflexu. Ruskí
+psychológovia a fyziológovia považovali tento reflex za prirodzený základ neúmyselnej
+pozornosti. Definovali ho ako inštinktívny, vrodený automatizmus (schematické
+správanie) reagujúci na potenciálnu hrozbu. Ak napríklad počas vykonávanej aktivity
+zaznie neznámy zvuk, jedinec preruší svoje činnosti, zastaví sa a otočí sa k zvuku, aby zistil
+jeho pôvod.
+Pamäť sa dá vnímať ako najvýznamnejšiu z kognitívnych funkcií. Bez schopnosti
+pristupovať k informáciám o faktoch a minulých skúsenostiach by sme nemohli mať
+zmysluplný kontakt so svetom okolo nás, a pocit kontinuity nášho bytia by bol nemožný.
+Existuje viacero foriem pamäti, ktoré tvoria komplexný systém vzájomne prepojených a
+spolupracujúcich pamätí, pričom ich definície sa líšia a niektoré sa prekrývajú. Pamäť
+môžeme rozdeliť do rôznych kategórií podľa zmyslového orgánu, ako napríklad pamäť
+zrakovú, sluchovú, hmatovú a chuťovú. Podľa predpokladanej doby trvania pamäťovej
+stopy ju môžeme klasifikovať na senzorickú, krátkodobú a dlhodobú. Ďalej ju môžeme
+rozčleniť podľa prístupnosti k vedomiu na explicitnú a implicitnú alebo označovanú aj ako
+deklaratívnu a nedeklaratívnu (Kulišťák 2011). Klucká - Volfová (2016) definujú pamäť
+ako psychickú funkciu, ktorá tesne súvisí s pozornosťou. Pamäť umožňuje jednotlivcovi
+
+22
+
+prijímať, uchovávať a následne si pripomínať nové informácie, zážitky alebo vnemy, čím
+nám pomáha definovať našu identitu a skúsenosti. Správne fungovanie pamäti tiež
+ovplyvňuje rôzne ďalšie kognitívne funkcie, vrátane myslenia. Proces pamäti má tri hlavné
+fázy: vštepovanie, retencia (uchovávanie) a vybavovanie sa z pamäti. Dnes prevláda názor,
+že existujú rôzne kategórie pamäti, ale delenie podľa typu je veľmi pestré. Rozdelenie môže
+byť založené na spôsobe ukladania informácií, spracovávania informácií alebo aj na dobe,
+počas ktorej sú informácie uchované. Pokiaľ ide o dobu uchovávania pamäťových stop v
+nervovej sústave, môžeme pamäť rozdeliť na krátkodobú, strednodobú a dlhodobú. Zatiaľ
+čo dlhodobá pamäť slúži na uchovávanie informácií na dlhšiu dobu, dokonca aj po celý
+život, krátkodobá pamäť udržiava informácie len niekoľko sekúnd.
+Podľa Vágnerovej (2012) teóriou kognitívneho vývoja, vstupom dieťaťa do školy sa
+začína fáza konkrétnych logických operácií, ktorá trvá približne do veku 11 až 12 rokov.
+Po tejto fáze nasleduje ďalšia, fáza formálnych logických operácií. V štádiu konkrétnych
+logických operácií je dieťa schopné vykonávať „reálne logické operácie a správne úsudky
+v súlade s logickými zákonmi, bez potreby vizuálnej podpory. Mladší školáci dokážu
+logicky uvažovať o veciach, ktoré si dokážu živo predstaviť, avšak majú problémy s
+riešením abstraktných úloh. Pre deti mladšieho školského veku je charakteristické, že ich
+myslenie je tesne prepojené s realitou a snažia sa pochopiť skutočný svet. Táto fáza
+konkrétnych logických operácií rozvíja tri dôležité charakteristiky:
+1. Decentrácia - dieťa už nerieši situácie len z jedného hľadiska, ale zohľadňuje
+viaceré súvislosti. Zároveň sa snaží pochopiť realitu bez výraznej fixácie na jediný
+aspekt.
+2. Konzervácia - znamená zachovanie určitých vlastností objektov alebo situácií.
+3. Reverzibilita - schopnosť chápať, že zmenenú situáciu je možné vrátiť späť.
+Gregor (2013) definuje myslenie ako psychický proces poznávania objektívnej reality,
+ktorý sa stáva všeobecným v dôsledku odhalenia relevantných súvislostí medzi javmi alebo
+predmetmi. Myslenie predstavuje presnejšie, obsažnejšie a objektívnejšie poznanie v
+porovnaní s poznaním zmyslov. Jeho základ u jedinca spočíva v predsudkoch, poznatkoch,
+vnemoch a úzko súvisí s inteligenciou. Myslenie je procesom riešenia určitej úlohy alebo
+situácie, ktorá je vnímaná ako problém. Prebieha v niekoľkých fázach: prvé je stanovenie
+a uvedomovanie si úlohy po presnom a jasnom zadefinovaní problému. Druhá fáza zahŕňa
+prípravu a vlastné riešenie danej problémovej úlohy. Tretia a posledná fáza spočíva v
+objavení správneho riešenia, čím sa eliminuje psychické napätie vzniknuté v priebehu
+
+23
+
+myslenia a následne nastáva upokojenie. Autor taktiež rozlišuje rôzne formy myslenia v
+závislosti od miery abstraktnosti, a to konkrétne abstraktné myslenie, názorno-obrazové
+myslenie a názorno-aktívne myslenie.
+Podľa toho, kam smeruje riešenie problému alebo myslenie, môžeme identifikovať:
+a) konvergentné myslenie, ktoré sa uplatňuje pri problémoch, kde existuje len jedno
+správne riešenie,
+b) divergentné myslenie, ktoré sa prejavuje pri problémoch s viacerými postupmi alebo
+riešeniami, pričom sa vyberajú tie najvhodnejšie.
+
+1.2.1 Kognitívne schopností adolescentov
+V období adolescencie dochádza k zmenám aj v oblasti myslenia a kognitívnych
+schopností. Myšlienkový proces sa zrýchľuje a stáva sa výrazne spoľahlivejším. S
+pribúdajúcim vekom narastá aj schopnosť v oblasti skúseností. U adolescentov je možné
+pozorovať rozvoj abstraktného myslenia, zlepšuje sa reč a rozširuje sa slovná zásoba. V
+diskusiách sa stávajú rovnocennými partnermi dospelých a približujú sa k vrcholu svojej
+inteligencie.
+Podľa Gáborovej – Porubčanovej (2016) u adolescentov dochádza k výraznému rozvoju
+intelektu jednotlivca. Mladý človek prejavuje zvýšený záujem o poznatky, ktoré aktívne
+absorbuje prostredníctvom všetkých zmyslov. Získané informácie dokáže systematizovať,
+hodnotiť a overovať, namiesto toho, aby slepo dôveroval dospelým. Okrem teoretickej
+komunikácie prechádza aj do praktickej, čím demonštruje svoju pripravenosť a bystré
+vnímanie. Získal schopnosť argumentovať a aktívne sa vzdeláva v rôznych oblastiach.
+Myslenie adolescentov dosahuje úroveň formálnych operácií, kde sú schopní organizovať
+poznatky na abstraktnej úrovni. Ich pracovný postup sa stáva čoraz samostatnejším,
+objavujú nové súvislosti a identifikujú nové vzťahy medzi poznatkami. Mladiství dokážu
+využívať nové prístupy k mysleniu a riešeniu problémov, a to prostredníctvom
+divergentného myslenia. Divergentné myslenie znamená schopnosť generovať rôzne
+možnosti riešenia problému, čím je proces kreatívnejší. Napriek tejto schopnosti sa v
+školskom prostredí častejšie zdôrazňuje konvergentné myslenie, ktoré sa sústreďuje na
+jediný postup riešenia problému. Takéto obmedzenie môže viesť k pasívnemu prístupu
+k učeniu (Kopčáková a kol. 2016).
+
+24
+
+Naznačuje sa, že niektoré predchádzajúce výskumy považovali adolescenciu za
+obdobie, kedy inteligencia dosahuje svoj vrchol a následne začína pomalý pokles, ktorý
+potom pretrváva po zvyšok života. Neskôr však bolo zistené, že ide o nesprávny
+predpoklad. Prostredníctvom dlhodobých výskumov a opakovaného testovania
+jednotlivcov počas ich života sa zistilo, že najmä v odboroch, kde je nevyhnutné neustále
+vzdelávanie počas profesionálneho života, ako je to napríklad u vedcov a učiteľov,
+inteligencia stúpa ešte desaťročia po dosiahnutí dospelosti. Preto nie je možné hovoriť o
+dosiahnutom vrchole inteligencie v období adolescencie. Aj keď sa adolescent priblíži k
+uvedenému vrcholu v intelektuálnych výkonoch, nedosiahne ho (Říčan 2004). V
+adolescencii je ďalej charakteristická schopnosť flexibilného myslenia a schopnosť hľadať
+nové spôsoby riešenia. Adolescenti preferujú jednoznačné, zásadné a rýchle riešenia, ktoré
+poskytujú istotu. V tomto období môže byť úsudok veľmi ľahko ovplyvnený
+emocionálnymi faktormi. Riešenia v adolescencii sú často radikálne, náhle a v niektorých
+prípadoch aj neohrabané a netradičné (Vágnerová 2012). Podľa Čačka (2000) dochádza v
+období adolescencie aj k rozvoju vyšších myšlienkových operácií, čo umožňuje stále
+sofistikovanejšie usporadúvanie vedomostí. Adolescencia je rovnako obdobím, kedy sa
+stále viac stretávame s riešením komplexných a rozsiahlejších problémov. Zvyšuje sa
+schopnosť samostatnejšie a flexibilnejšie reagovať na vonkajšie podnety a efektívnejšie
+riešiť problémy. V tomto období sa adolescenti uprednostňujú logickú pamäť, hlbšie
+porozumenie a systematické priraďovanie nových informácií k predchádzajúcim
+vedomostiam. Schopnosť abstrakcie sa v tomto období rozširuje v súvislosti s rozvojom
+možnosti chápania. Ďalšou novou kognitívnou tendenciou v rozvoji adolescentov je aj
+systematizácia poznatkov, kde už nejde len o pasívne prijímanie informácií, ale stále viac
+o aktívne odhaľovanie nových a hlbších súvislostí a vzťahov. Fáza formálnych operácií
+formuje stabilnú identitu a umožňuje lepšie porozumenie psychologických perspektív
+iných ľudí a dôvodov ich správania. Adolescent s týmto spôsobom myslenia je schopný
+robiť dôležité osobné rozhodnutia, pri ktorých zvažuje rôzne alternatívy a predvída možné
+dôsledky vlastného alebo cudzieho správania. Formálne operačné myslenie je racionálne,
+abstraktné a veľmi podobné vedeckému hypoteticko-deduktívnemu mysleniu (Shaffer –
+Kipp 2010). Schopnosť formálnych logických operácií u adolescentov umožňuje
+premýšľať o nereálnych situáciách, ako napríklad o tom, čo by sa stalo, keby prestala
+pôsobiť zemská gravitácia, alebo ak by všetci ľudia konali dôsledne podľa toho, čo hovoria.
+Táto schopnosť povzbudzuje aj morálne hodnotenie a dôsledné posudzovanie správania
+
+25
+
+dospelých. Pubertálni jedinci uvažujú o vzdialenej budúcnosti a vzdialených miestach,
+kladú si otázky o vesmíre, ľudskom živote a smrti. Ich intelekt sa prvýkrát prehlbuje v
+pojmy ako hmota, čas, príčina, ako aj do konceptov pravdy, spravodlivosti a práva. Kriticky
+zvažujú zmysel hodnôt, ktoré im spoločnosť vnucuje, a ak sú vychovávaní v náboženstve,
+začínajú pochybovať o existencii Boha a dokonca o akomkoľvek svetovom názore (Říčan
+2004). Môžeme uznať, že takýto spôsob myslenia predstavuje základ pre organizáciu
+modernej spoločnosti. Tento prístup umožňuje kritický pohľad na vlastné myslenie,
+vyžaduje poskytnutie dôkazov a neprijíma len to, čo je zjavné z pozorovania alebo
+počúvania. Tento spôsob myslenia rozlišuje medzi domnienkou a preukázaným faktom a
+je ochotný odmietnuť neopodstatnené predpoklady (Langmeier 1991). Všetky tieto zmeny
+v kognitívnych schopnostiach sú spojené s rastúcim množstvom spojení medzi frontálnym
+a prefrontálnym kortexom. Tieto spojenia zohrávajú kľúčovú úlohu pri stimulovaní
+kognitívnych procesov, ktoré súvisia s reflexiou, abstraktným myslením, tvorbou
+rozhodnutí a rýchlosťou spracovania informácií (Pargament et al. 2013).
+V neskoršom období adolescencie sa štýl myslenia nemení. Kognitívne schopnosti sa
+zdokonaľujú a zvyšuje sa flexibilita a schopnosť využívať nové prístupy k riešeniu
+problémov. V tomto období môže byť úsudok ovplyvnený emóciami, či už pozitívnymi
+alebo negatívnymi. Zároveň sa rozvíja aj metakognícia a schopnosť odhadovať vlastné
+schopnosti a stanovovať si primerané ciele (Vágnerová 2008). Ak zhodnotíme všetky
+zmeny v myslení mladistvého jednotlivca, môžeme tvrdiť, že na konci adolescencie
+dochádza k tomu, že jeho vnímanie sa približuje úrovni dospelého. Jeho dojmy sú
+usporiadané a presné, pričom spontánna detská fantázia a živosť vo vnímaní postupne
+upadajú. Súčasne rastie schopnosť sústrediť sa, a prevláda úmyselná pozornosť nad tým,
+čo je vnímané spontánne. Mladistvý jedinec tiež prejavuje lepšiu schopnosť zapamätať si
+logicky získané poznatky v porovnaní s tými, ktoré získal mechanicky (Končeková 2007).
+
+1.2.2 Vplyv pohybovej aktivity na kognitívne schopnosti
+Na základe poskytnutých štatistík Ploughman (2008) tvrdí, že jednotlivci aktívne
+venujúci sa športom dosahujú výrazne vyššie úrovne kognitívnych funkcií v porovnaní s
+tými, ktorí nie sú športovo aktívni. Tento fakt naznačuje pozitívny vplyv športových a
+pohybových aktivít na kognitívne funkcie. Tento pozitívny vplyv je spojený so zvýšenou
+saturáciou kyslíkom v krvi, čo je kľúčové pre výkonnosť kognitívnych funkcií a je
+
+26
+
+dosiahnuté prostredníctvom aktívneho pohybu. Rovnako pohybová aktivita zvyšuje
+hladinu neurotransmiterov, ako sú noradrenalín a sérotonín, ktoré podporujú efektívne
+spracovanie informácií. Taktiež pozorujeme nárast hladiny neurotrofínov, čo sú endogénne
+proteíny v mozgu (rastové faktory), ktoré pozitívne ovplyvňujú pružnosť mozgu. U
+jedincov, ktorí sa nezapájajú do pohybovej aktivity, tieto procesy absentujú. Neurotrofíny
+podporujú rast a zachovanie mozgového tkaniva. Z toho vyplýva, že kognitívne funkcie
+tých, ktorí sa nezaoberajú športovými aktivitami, sa nedokážu adekvátne rozvíjať a
+nedosahujú takú úroveň, ktorá by pozitívne ovplyvňovala ich kvalitu života. Kognitívne
+funkcie sú považované za základ ľudskej osobnosti a ich úroveň rozvoja má podstatný
+vplyv na kvalitu života. Podľa výskumov je zistené, že pravidelná pohybová aktivita
+strednej intenzity pozitívne ovplyvňuje a stabilizuje kognitívne funkcie. Naopak, dlhodobá
+intenzívna telesná záťaž môže tieto funkcie znižovať. Vzhľadom na to by odporúčania mali
+smerovať k pohybovej aktivite strednej intenzity (40-60% z maximálnej spotreby kyslíka).
+Pohybovú aktivitu možno vnímať ako pozitívny a relatívne bezpečný prostriedok, ktorý
+výrazne zlepšuje kognitívne funkcie v celej populácii. Toto je obzvlášť významné pre
+určité cieľové skupiny, ako sú seniori, deti a osoby so zdravotným postihnutím (Vařeková
+- Dad'ová 2014). Pravidelná účasť v športovej činnosti a pohybová aktivita vyvolávajú
+určité psychické zmeny, keď sú vykonávané s pravidelnosťou po dobu najmenej troch
+mesiacov alebo viac. Tieto zmeny prinášajú trvalé subjektívne a osobnostné výhody.
+Výskumy potvrdzujú, že pohybová aktivita má pozitívny vplyv na psychiku jednotlivca,
+zatiaľ čo nedostatok pohybu negatívne ovplyvňuje kvalitu života. U detí môže absencia
+pohybu dokonca spôsobovať určitý deficit vo vývinu. Pravidelná a dlhodobá pohybová
+aktivita s ďalšími cvičencami tiež ovplyvňuje správanie človeka, podporuje rozvoj a
+optimalizáciu jeho sociálnych zručností a prispeje k formovaniu nových interpersonálnych
+vzťahov. Športová aktivita má tiež vplyv na osobnosť, konkrétne na rozvoj vôľových
+vlastností, zlepšuje sebakritickosť, pomáha budovať sebavedomie, posilňuje integritu
+osobnosti a obohacuje duševný svet. Z hľadiska kognitívnych funkcií zvyšuje športová
+činnosť pružnosť a uvoľnenosť myslenia, urýchľuje rozhodovanie a zdokonaľuje
+organizáciu pozornosti, orientáciu a pozorovanie. Celkovo vzaté, turistika a športová
+činnosť sa považujú za strategické zdroje psychologických a neurofyziologických
+podnetov, ktoré pomáhajú uvoľňovaním vnútorného napätia udržiavať alebo obnovovať
+duševnú rovnováhu jednotlivca (Gregor 2013).
+
+27
+
+2 CIEĽ, HYPOTÉZY A ÚLOHY VÝSKUMU
+2.1 Cieľ práce
+Cieľom diplomovej práce je na základe vlastnej výskumnej činnosti zistiť objem
+vykonávanej pohybovej aktivity a jej vplyv na kognitívne funkcie v adolescentnom veku.
+
+2.2 Hypotézy práce
+H1: Signifikantne vyššiu úroveň kognitívnych schopnosti identifikujeme u pohybovo
+aktívnej mládeže ako u pohybovo neaktívnej mládeže.
+H2: Signifikantne vyššiu úroveň kognitívno-motorických schopností identifikujeme
+u pohybovo aktívnej mládeže v porovnaní s pohybovo neaktívnou mládežou.
+
+2.3 Úlohy práce
+U1: Na základe dotazníka PAQ – A zistiť pohybovú aktivitu u adolescentov vo veku 10
+– 15 rokov.
+U2: Vykonať testy zameraná na určenie úrovne vybraných kognitívnych schopností.
+U3: Realizácia testov pre zistenie kognitívno-motorických funkcií.
+U4: Spracovanie, analyzovanie a vyhodnocovanie všetkých testov.
+U5: Vyvodiť závery a odporúčania do praxe.
+
+28
+
+3 METODIKA PRÁCE
+3.1 Charakteristika výskumného problému
+Výskumný súbor tvorilo 108 respondentov, ktorí boli vybraný na základe zámerného
+výberu. V rámci respondentov sme nevyberali či ide o pohybovo aktívnych
+
+alebo
+
+pohybovo neaktívnych, dôležité charakteristiky pre nás boli, aby respondenti boli:
+•
+
+Adolescenti vo veku 10 – 15 rokov
+
+•
+
+zdraví adolescenti bez identifikovaných porúch mentálneho alebo pohybového
+charakteru
+
+Pre potreby diplomovej práce sme otestovali 111 participantov, na ktorých sme
+realizovali výskum diplomovej práce. V procese tabelizácie a čistenia dát boli
+z výskumného súboru neúplne výsledky u troch participantov. Celkovo sa tak do nášho
+výskumu zapojili 108 participantov. Testovaný boli participanti (dievčatá n = 61; chlapci
+n = 47) s priemerným vekom v čase testovania (priemer ± smerodajná odchýlka) 13,1 ±
+1,3 roka, priemerná telesná výška v rámci meraní bola 161,4 cm ± 13,2 cm a priemerná
+telesná hmotnosť participantov na meraní bola 55,5 kg ± 16,7 kg. Bližšia charakteristika je
+vyobrazená v tabuľke 1. V rámci merania sme participantov vypočítali aj BMI, pričom sme
+použili tento vzorec: hmotnosť v kg/(výška v m)2 . Priemerné BMI bolo 19,8 kg/m2 ± 4,2
+kg/m2.
+Tabuľka 1 Základné opisne charakteristiky výskumného súboru (priemer ± smerodajná
+odchýlka)
+
+Dievčatá
+
+Chlapci
+
+n
+Pohybovo
+aktívny
+
+16
+
+Pohybovo
+neaktívny
+
+31
+
+Pohybovo
+aktívny
+
+25
+
+Pohybovo
+neaktívny
+
+36
+
+Vek
+(rok)
+
+Tel. výška
+(cm)
+
+Tel. hmotnosť
+(kg)
+
+BMI
+(kg/m2)
+
+13±1,4
+
+159,9±12,3
+
+50±13,9
+
+19,2±3,3
+
+13,6±1,3
+
+167,6±13,1
+
+57,5±17,7
+
+20,1±4,6
+
+12,7±1,1
+
+158,6±5,0
+
+50,9±10,6
+
+20,2±3,8
+
+12,8±1,2
+
+158,8±6,5
+
+50,5±13,1
+
+19,8±4,4
+
+Legenda: BMI – index telesnej hmotnosti, n – početnosť (Zdroj: vlastné spracovanie)
+
+29
+
+3.2 Organizácia výskumu
+Výskum bol zameraný na pohybovú aktivitu a jej vplyv na kognitívne schopnosti
+adolescentov. Výskum prebiehal v roku 2023 v rámci vybranej základnej školy
+Prešovského kraja, ktorú výskumný súbor navštevoval. Testovania boli realizované
+v terénnych podmienkach. Testovania prebiehali rovnako, rozdiel bol iba v mieste
+vykonávania.
+Všetky uskutočnené merania boli jednorazové, a dohromady sa jednalo o 2 testovania.
+Pred samotným zberom dát sme najskôr museli osloviť vedenie školy, ktoré prebiehalo
+telefonickou formou. Následne sme vo vopred dohodnutých termínoch s učiteľmi telesnej
+a športovej výchovy realizovali zber dát. Pohybová aktivita sa zisťovala na základe
+dotazníka PAQ-A vyhodnocovali sme ju na základe celkového skóre pohybovej aktivity
+(Kowalski et al. 2004). Vykonávali sme aj psychologické testy, a to test koncentrácie
+pozornosti T-52, TIP Test intelektového potenciálu T-84 a test vizuálnej pamäte. V rámci
+kognitívno-motorických schopnosti bolo testované Agility (Random Multicolour and
+Multisymbol test). Pri kognitívno-motorických testoch sme tiež testovali rozdelenú
+pozornosť testom (Divided Attention) a rovnako sme využili aj test periférneho videnia
+(Peripheral Vision test).
+Prvé testovanie sa vykonávalo na pôde vybranej základnej školy v Prešovskom kraji.
+Jednalo sa o testovanie v terénnych podmienkach. Pred samotným testovaním, boli
+probandi oboznámený s cieľom experimentu a priebehom testovania. Probandi vykonávali
+spolu 3 skupiny testov, v ktorých bolo zisťovaných 7 výstupov (psychologické testy, PAQA dotazník pohybovej aktivity a kognitívno-motorické testovanie). Ako prvé sme v rámci
+testovania zaradili psychologické testy kognitívnych schopností. Psychologické testy sa
+vykonávali v miestnostiach, v ktorých sa dbalo na nerušivé prostredie. Do danej miestnosti
+nemohol nikto vstupovať a taktiež nemohlo byť v miestnosti nič rušivé. Testovanie sa
+vykonávalo v triedach žiakov. Psychologické testy boli vyhodnocované a administrované
+psychológom. Po vykonaní psychologických testov sme probandom rozdali PAQ – A
+dotazník pohybovej aktivity, ktorý obsahoval 9 otázok. Dotazník bol v písomnej forme
+a bol vedený zaškoleným pracovníkom z výskumného tímu. Následne sme v telocvični
+vykonávali testy kognitívno-motorické. Počas vykonávania testov, bol v miestnosti stále
+iba jeden žiak, a postupne vykonával všetky tri testy. Postupnosť testov bola od
+najjednoduchšej kognitívno-motorickej úlohy až po najťažšiu. Počas testovania sa museli
+dodržiavať podmienky testovania, a to tiché prostredie umožňujúce plnú koncentráciu,
+30
+
+vhodné svetelné a teplotné podmienky pre vykonanie takéhoto typu testovania (teplota
+medzi 20 – 24 °C).
+Druhé testovanie sa vykonávalo na pôde vysokej školy v Prešovskom kraji. Koncept
+merania bol totožný s prvým meraním. Zmena bola iba v mieste merania.
+Dotazník pohybovej aktivity bol vykonávaný s pomocou jedného examinátora,
+psychologické testy mal na starosti jeden examinátor a testy na kognitívne schopnosti boli
+vykonávane pomocou dvoch examinátorov. Spolu sa na meranie kognitívnych schopností
+zúčastnilo štyria examinátori.
+Zber dát do záverečnej práce bol súčasťou realizovaného grantového projektu VEGA
+1/0481/22 s názvom "Vzťah motorickej docility a kognitívnych schopností žiakov". Zber
+dát do záverečnej práce bol vykonaný v súlade s usmerneniami Helsinskej Deklarácie a
+schválená Etickou komisiou pre oblasť výskumu Prešovskej univerzity v Prešove (číslo
+schválenia ECUP032023PO).
+
+3.3 Charakteristika výskumnej situácie
+Na základe stanovených cieľov, hypotéz a úloh môžeme identifikovať charakteristiky a
+typ výskumu. V tejto súvislosti sa javí vhodné využitie trojdimenzionálneho situačného
+výskumu priestorov (Havlíček 2004).
+Trojdimenzionálny situačný výskum priestoru podľa Havlíčka (2004) je vysvetlený
+nasledovne:
+1. Rozmer "V" reprezentuje výber osôb, v prípade našej diplomovej práce
+predstavoval výber osôb adolescentky a adolescentov vo vekovom rozmedzí 11,2
+a 15,4 rokov, s plnením odporúčaní pre pohybovú aktivitu (VA) a adolescenti
+s nízkou úrovňou ohybovej aktivity (VN). V kontexte porovnávaných vekových
+skupín tvoria súbory jednotlivých skupinách rozdelený podľa veku (V1) vo
+vekovom rozmedzí 11,3 – 13,8 rokov a (V2) vo vekovom rozmedzí 14 – 15,4 rokov.
+2. Rozmer "S" značí stavy, ktoré predstavujú, úroveň pohybovej aktivity S1,
+kognitívne schopnosti S2 a kognitívno – motorické schopnosti S3.
+3. Rozmer "t" označuje čas. Časové úseky predstavujú obdobie, počas ktorého sú
+pozorované stavy výberu osôb (V, S). V prípade tejto práce išlo o jednorazové
+meranie vykonané v roku 2023.
+
+31
+
+Popis pre výskumnú situáciu môžeme označiť nasledovne:
+Sledovanie vzťahu medzi pohybovou aktivitou a charakteristikami kognitívnych
+a kognitívno-motorických schopností
+(VA, S1; S2; S3)t0 ; (VN, S1; S2; S3)t0
+Táto výskumná situácia umožňuje hodnotenie pohybovej aktivity, psychologických
+kognitívnych
+
+schopností
+
+a kognitívno-motorických
+
+schopností
+
+vybranej
+
+skupiny
+
+adolescentov a porovnanie ich úrovne medzi pohybovo aktívnymi a pohybovo
+neaktívnymi participantmi. Rovnako umožňuje vyhodnotiť vzťahy medzi sledovanou
+premennou pohybovej aktivity a úrovňou kognitívnych a kognitívno-motorických
+schopností.
+
+3.4 Metódy zberu výskumných údajov
+Dotazník úrovne vykonávanej pohybovej aktivity
+Pre účel kategorizácie meraných adolescentov z pohľadu vykonávanej pohybovej
+aktivity sme použili dotazníkovú metódu s vykonaním zisťovania prostredníctvom
+Physical Activity Questionaire for adolescent (PAQ – A) Dotazník slúži na hodnotenie
+úrovne pohybovej aktivity u adolescentov. Je navrhnutý na zhodnotenie množstva a
+intenzity pohybových aktivít vykonávaných počas určitého časového obdobia, konkrétne
+posledných 7 dní, zahrňujúcich dní pracovného týždňa a víkendu ako aj hodnotenie
+sedavého správania. PAQ má rôzne verzie a formáty, ktoré sa používajú v rôznych
+výskumných štúdiách a zdravotných prieskumoch. Dotazník sa skladá z rôznych otázok,
+ktoré sa týkajú rôznych fyzických premenných, ako je chôdza, beh, cvičenie, športovanie,
+práca a každodenné domáce aktivity. Dotazník, ktorý sme v rámci testovania použili sa
+nachádza v prílohách (Kowalski et al. 2004).
+Podľa Kowalského et al. (2004) sa dotazník môže vykonávať v prostredí triedy.
+Dotazník poskytuje súhrnné skóre pohybovej aktivity. Dotazník sa skladá z deviatich
+otázok, pričom osem z nich je ohodnotených na 5 – bodovej stupnici. Pri každej z otázok
+sa zaškrtáva len jedna odpoveď. Všetkým označeným odpovediam sa priradzujú body od
+1 do 5, pričom najnižšia z odpovedí na otázku dosahuje 1 bod a naopak najvyššia
+z odpovedí dosahuje 5 bodov. Dotazník sa vyhodnocuje na základe priemeru bodov, ktoré
+
+32
+
+testovaný získal, v rámci svojich odpovedí. Na základe odpovedí vieme zistiť všeobecnú
+úroveň pohybovej aktivity adolescentov. Pre potreby našej práce sme rozdelili
+participantov na pohybovo aktívnych a pohybovo neaktívnych nasledovne. Najprv sa
+vykonal súčet získaných bodov za odpovede a potom sa hodnotilo sumárne skóre. Sumárne
+skóre bolo vyhodnocovane na základe priemeru počtu bodov za dané odpovede. Tí čo pri
+svojich odpovediach získali sumárne skóre menej ako 2,6 boli zaradení do skupiny ako
+pohybovo neaktívny. Tí čo získali priemer bodov 2,7 a vyššie boli zaradení do skupiny ako
+pohybovo aktívny (Benítez-Porres 2016).
+Psychologické testy kognitívnych schopností
+Test koncentrácie pozornosti T-52
+Test koncentrácie pozornosti T-52 je psychologický nástroj, ktorý slúži na meranie a
+hodnotenie schopnosti jednotlivca sústrediť sa a udržiavať pozornosť. Tento test zaviedol
+a následne prepracoval Miroslav Kučera v roku 1980.
+Kučera (1980) uvádza, že sa jedná o „časovo nenáročný test, ktorý je určený na meranie
+pracovného tempa, presnosti výkonu, kvality pozornosti a sklonov k chybovosti.“
+T-52 test je zložený z rôznych úloh a podúloh, ktoré sú zamerané na meranie špecifickej
+sústredenej pozornosti. Úlohy môžu zahŕňať identifikáciu a roztriedenie rôznych stimulov,
+ako sú čísla, písmená alebo geometrické tvary. Test sa vykonáva v špecifickom časovom
+limite, aby sa posúdila rýchlosť a presnosť reakcií jednotlivca. Tento test sa dá využívať
+od 11-teho roku života dieťaťa až po dospelosť.
+V našom prípade bol zameraný na meranie výkonov pozornosti a percepčnomotorického tempa, založený na princípe korektúry textu. K dispozícií sú tri formy testu
+a to A, B, C. My sme realizovali formu B. Forma B obsahuje pred vykonaním testu
+realizovaný zácvik na jednej ukážke radu znakov. Úlohou participanta sú dve rady po 15
+znakov, symboloch. Participant porovnáva znaky a vyznačuje rozdiel škrtnutím. Praváci
+porovnávajú pravý blok voči ľavému bloku a čo v ňom nesedí to škrtnú a ľaváci zasa
+naopak. Hodnotí sa viacero výstupov, konkrétne počet vyriešených symbolov, počet
+vynechaných symbolov, počet chýb mimo zadania, počet správne vyriešených, počet
+chybne označených.
+
+33
+
+T-84 TIP Test intelektového potenciálu
+Obrázky, ktoré smerujú v rade po štyri polia na ľavej strane testu v troch z nich sú
+obrázky. Z ďalších šesť obrázkov, ktoré sú na pravej strane testu ma pomocou logického
+uváženia vybrať obrázok, ktorí by bol vhodný v rámci zobrazenia na ľavej strane vo
+voľnom polí. Do poľa, ktoré je prázdne, píše testovaná osoba číslo zodpovedajúceho
+obrázku z pravej strany. Pred začatím testu, je test vysvetlený a nasleduje zácvik na
+príklade troch ukážkových obrázkov. Testovaná osoba po zácviku vypracuje 29
+obrázkových radov a hodnotí sa hrubé skóre. Hrubé skóre je počet správne vypracovaných
+radov, následne sa vykonáva prepočet na IQ. Celkový čas na vykonanie testu je maximálne
+15 minút (Šebeňa 2021).
+Test vizuálnej pamäte
+Test vizuálnej pamäte je nenáročný test, ktorý pozostáva z jednoduchej úlohy. Po dobu
+jednej minúty ma participant sledovať tridsať obrázkov a čo najviac si ich zapamätať. Po
+uplynulej minúte má päť minút na to aby čo najviac obrázkov vymenoval na papier.
+Hodnotí sa početnosť zapamätaných obrázkov (Svoboda a kol. 2021).
+Testy kognitívno-motorických schopností
+Witty Sem Agility
+Witty Sem Agility (WSA) je test kognitívnych schopností, ktorý sa zameriava na
+hodnotenie a merenie rôznych aspektov kognitívneho výkonu jednotlivca. Test sa používa
+na posúdenie rýchlosti, pružnosti a presnosti kognitívnych procesov, ktoré zahŕňajú
+vnímanie, rozhodovanie, spracovanie informácií a reakcie na zmeny (Witty user manual,
+2019).
+WSA test obsahuje rôzne úlohy, ktoré môžu zahŕňať riešenie logických problémov,
+rozoznávanie vzorov, pamäťové úlohy a reakcie na vizuálne a zvukové stimuly. Test sa
+zvyčajne vykonáva v obmedzenom časovom rámci, aby sa mohla posúdiť rýchlosť a
+presnosť odpovedí. Podstatou tohto testu je „vypnúť“ semafor priblížením ruky (alebo inej
+časti tela, alebo pomôcky, napr. rakety). Semafor je možné umiestniť rôzne podľa potreby
+a v závislosti od jednotlivých cvikov. Pre potreby práce sme realizovali zo spektra
+ponúkaných úloh testy s názvom Rozdelená pozornosť (Divided attention), Periferné
+videnie (.názov v AJ) a Random multisymbol and multicolor test.
+
+34
+
+Divided Attention
+Divided Attention test sa týka kognitívnej schopnosti efektívne prerozdeľovať a
+koordinovať pozornosť medzi viacerými úlohami alebo podnetmi súčasne. Znamená to
+schopnosť sústrediť sa na rôzne zdroje informácií alebo úlohy a byť schopný ich spracovať
+a reagovať na ne súčasne. Hodnotenie rozdelenia pozornosti u adolescentov zvyčajne
+zahŕňa testy alebo úlohy, ktoré vyžadujú súčasné spracovanie viacerých podnetov alebo
+plnenie viacerých úloh.
+V našom prípade sme mali k dispozícií štyri svetelné fotobunky. Stredné fotobunky boli
+určené na stimuly a krajné fotobunky na potvrdenie zhody ( vľavo označený písmenom
+A ak je zobrazený stimul na oboch fotobunkách podľa požiadavky = zhodná farba. Vpravo
+písmeno B ak zobrazený stimul aspoň na jedenej fotobunke odlišný). Početnosť stimulov
+bolo v počte 15 a test sa vykonávala s najnižšou obťažnosťou reakcie. Za zhodné farby
+zobrazovaných znakov, na tvare znaku nezáleží. Čím rýchlejšia reakcia participanta na
+podnet bola, tým sa skracoval čas nový podnet. Keď participant reagoval nesprávne, čas
+zobrazenia ďalšieho podnetu sa predĺžil. Meria sa priemerný čas reakcie a správnosť
+výberu zhody.
+
+Obrázok 1 Vykonávanie Divided Attention test
+(Zdroj: Witty user manual 2019)
+
+Peripheral Vision test
+Test periférneho videnia, nazývaný aj „Hawk eye“ (Jastrabie oko) slúži na posúdenie
+schopnosti jednotlivcov vnímať vizuálne stimuly vo svojom periférnom zornom poli. Test
+zvyčajne zahŕňa prezentáciu stimulov, ako sú objekty, tvary alebo písmená, na rôznych
+
+35
+
+miestach v zornom poli, vrátane centrálneho videnia a periférie. Jednotlivec je požiadaný,
+aby tieto stimuly identifikoval alebo reagoval na ne čo najpresnejšie a najrýchlejšie.
+My sme rozmiestnili osem svetelných fotobuniek na špeciálnu konštrukciu. Participanti
+reagovali na pätnásť stimulov a obťažnosť bol najnižšia. Úlohou bolo, v krátkom čase sa
+zobrazí na fotobunkách sedem rovnakých obrázkov rovnakej farby, ôsmy obrázok je
+rozdielny inou farbou. Keď všetky fotobunky zhasnú, tak participant ma označiť fotobunku
+kde sa odlišný obrázok nachádzal. Čím je rýchlejšia reakcia participanta na správne
+označenie fotobunky, tým kratší je čas zobrazenia obrázkov pri ďalšom stimule. Pri
+nesprávnom označení obrázka, čas ďalšieho stimulu sa predĺži. Vyhodnocuje sa čas reakcie
+na počet správnych a nesprávnych obrázkov.
+
+Test Random multisymbol and multicolor
+Pri teste Random multisymbol and multicolor sme použili osem svetelných fotobuniek.
+Participanti čelili pätnástim stimulom pri najnižšej obťažnosti testu. Úlohou po rozsvietení
+fotobuniek, na ktorých boli rôzne farby a tvary stimulov označiť predpísané písmeno,
+v našom prípade to bolo veľké písmeno „A“ zelenej farby. Pri správnej reakcií participanta
+na podnet sa čas na ďalší podnet skracuje. Ak reakcia na podnet bola nesprávna čas na
+ďalší podnet sa predlží. Hodnotí sa celkový čas pri reakcií na všetkých pätnásť stimulov.
+
+3.5 Metódy spracovania výskumných údajov
+Určujeme základne matematické a štatistické charakteristiky, ktoré sú spracúvané
+v tabuľkách, grafoch a obrázkov, na základe kvantitatívnej metódy hodnotenia výsledkov
+prieskumu. Pomocou štatistických výpočtov sa skúmajú homogénne javy z kvantitatívnej
+stránky. Na základe zámeru sledovania výskumných úloh prieskumu volíme vhodné
+štatistické postupy na vyhodnotenie skúmaných javov. Výber určitej metódy je ovplyvnený
+od sledovania súboru (Kompán 2010).
+V našej práci sme zistené charakteristiky analyzovali nasledovne. Pre posúdenie
+normality sme použili Kolomogorov-Smirnov test. V popisných charakteristikách sme
+sumárne výsledky vyčlenených skupín participantov hodnotili pomocou mediánu
+a kvartilovej odchýlky. Doplnkové charakteristiky sme použili minimálne a maximálne
+hodnoty. Porovnanie medzi pohybovo aktívnymi a pohybovo neaktívnymi sme
+vyhodnocovali na základe Mann.Whitney U testu pre nezávisle súbory dát. Vzťah medzi
+
+36
+
+sumárnym skóre pohybovej aktivity zisťovaným dotazníkovou metódou a úrovňou
+kognitívnych prejavov bolo vyhodnocované prostredníctvom Spearmanovej korelácie
+poradia. Štatistická významnosť rozdielov bola hodnotená na hladine p = 0,05, miera
+vzťahu, korelácie bola interpretovaná podľa kategorizácie autora Cohena (1988). Na
+spracovanie sme použili softvér Microsoft office Excel a štatistický softvér IBM SPSS,
+verzia 20.
+
+37
+
+4 VÝSLEDKY PRIESKUMU A DISKUSIA
+Analýzu normality rozloženia výskumných dát sme vykonali prostredníctvom
+Kolmogorov - Smirnovho testu, bolo zistené, že v niektorých parametroch u dievčat ako aj
+u chlapcov, bola porušená normalita, tak sme do ďalšej analýzy zvolili štatistické postupy
+neparametrického charakteru.
+Tabuľka 2 Analýza normality rozloženia dát
+
+PAQ_súčet
+
+Dievčatá
+Pohybovo málo
+Pohybovo
+aktívny
+aktívny
+
+Chlapci
+Pohybovo málo
+Pohybovo
+aktívny
+aktívny
+
+Statistic
+0,106
+
+Sig.
+Statistic
+0,200
+0,125
+
+Sig.
+0,200
+
+Statistic
+0,127
+
+Sig.
+Statistic
+0,200
+0,157
+
+Sig.
+0,200
+
+PAQ_sum_score
+
+0,110
+
+0,200
+
+0,098
+
+0,200
+
+0,119
+
+0,200
+
+0,196
+
+0,103
+
+DA_čas
+
+0,290
+
+0,000
+
+0,316
+
+0,000
+
+0,255
+
+0,000
+
+0,277
+
+0,002
+
+DA_chyby
+
+0,281
+
+0,000
+
+0,320
+
+0,000
+
+0,242
+
+0,000
+
+0,268
+
+0,003
+
+HY_chyby
+
+0,312
+
+0,000
+
+0,311
+
+0,000
+
+0,248
+
+0,000
+
+0,323
+
+0,000
+
+HY_čas_celkom
+
+0,102
+
+0,200
+
+0,115
+
+0,200
+
+0,068
+
+0,200
+
+0,171
+
+0,200
+
+RMM_čas
+
+0,074
+
+0,200
+
+0,088
+
+0,200
+
+0,140
+
+0,128
+
+0,111
+
+0,200
+
+T84_HS
+
+0,098
+
+0,200
+
+0,102
+
+0,200
+
+0,158
+
+0,046
+
+0,178
+
+0,191
+
+T84_IQ
+
+0,115
+
+0,200
+
+0,112
+
+0,200
+
+0,137
+
+0,145
+
+0,156
+
+0,200
+
+T52_pozornosť_S
+
+0,082
+
+0,200
+
+0,111
+
+0,200
+
+0,076
+
+0,200
+
+0,140
+
+0,200
+
+T52_pozornosť_CH
+
+0,306
+
+0,000
+
+0,205
+
+0,008
+
+0,374
+
+0,000
+
+0,237
+
+0,017
+
+T52_pozornosť_po
+mer
+VP_HS
+
+0,281
+
+0,000
+
+0,089
+
+0,200
+
+0,315
+
+0,000
+
+0,273
+
+0,002
+
+0,162
+
+0,021
+
+0,120
+
+0,200
+
+0,129
+
+0,200
+
+0,125
+
+0,200
+
+Legenda: statistic – hodnota testovacieho kritéria, sig. – štatistická významnosť rozdielov, PAQ_súčet –
+sčítanie bodov v dotazníku pohybovej aktivity, PAQ_sum_score – vyhodnotenie sumárneho skóre, DA_čas
+- divided attention priemerný čas reakcie, DA_chyby – divided attention hodnotená chybovosť, HY_chyby
+- Hawk eye (brain speed) priemerný čas reakcie, HY_čas_celkom - Hawk eye (brain speed) Celkový čas na
+vykonanie 15 impulzov, RMM_čas - Test random mutisymbol and multicolor celkový čas na vykonanie 15
+stimulov, T84_HS - TIP Test intelektového potenciálu hrubé scóre, T84_IQ - TIP Test intelektového
+potenciálu prepočet na IQ, T52_pozornosť_S - Test koncentrácie pozornosti T-52 počet správne
+vyriešených, T52_pozornosť_CH - Test koncentrácie pozornosti T-52 počet chybne označených,
+T52_pozornosť_pomer - Test koncentrácie pozornosti T-52 pomer, VP_HS - vizuálna pamäť hrubé skóre
+(Zdroj: vlastné spracovanie)
+
+38
+
+4.1 Porovnanie úrovne kognitívnych schopností adolescentov
+
+Burns et al. (2008) konštatujú, že pravidelná pohybová aktivita znižuje pokles
+kognitívnych funkcií a zabraňuje mozgovej atrofii. Preto vo formulácií hypotézy
+uvažujeme, že pohybovo aktívny jedinci budú dosahovať vyššiu úroveň kognitívnych
+schopností.
+Porovnanie kognitívnych schopností dievčat
+TIP Test intelektového potenciálu v parametri hrubé skóre a tak isto prepočtu na
+inteligenčný kvocient podľa grafického zobrazenia (obrázok 2) nám ukazuje, že pohybovo
+neaktívne dievčatá v týchto testoch dosahujú nižšiu kognitívnu funkciu oproti dievčatám
+pohybovo aktívnym (tabuľke 3). Paradoxne najnižšiu hodnotu výsledku testov TIP Test
+intelektového potenciálu pri hrubom skóre sme zaznamenali v skupine pohybovo
+aktívnych dievčat, naopak najvyššiu hodnotu tohto parametru sme zachytili v skupine
+pohybovo neaktívnych dievčat. V porovnaní stredných hodnôt mediánu medzi pohybovo
+aktívnymi a pohybovo neaktívnymi dievčatami sme zistili len mierny rozdiel na úrovni 0,5
+bodu hrubého skóre v prospech pohybovo aktívnych dievčat, čo v prepočte predstavuje
+rozdiel 2,6 %.
+Najnižšiu hodnotu pri TIP Test intelektového potenciálu v indikátore prepočet na
+inteligenčný kvocient sme podobne ako pri hrubom skóre zaznamenali pri skupine
+pohybovo aktívnych dievčat a najvyššia nameraná hodnota bola v skupine pohybovo
+neaktívnych dievčat. Pri porovnávaní stredných hodnôt mediánu pri skupinách pohybovo
+aktívne a pohybovo neaktívne dievčatá sme zistili rozdiel na úrovni hodnoty 1,5 pri
+prepočte na IQ v prospech pohybovo aktívnych dievčat. To v prepočte na percentá
+predstavuje rozdiel 1,3 %.
+
+39
+
+Tabuľka 3 Popisné výsledky testov kognitívnych schopností štatistiky dievčatá
+Dievčatá
+Pohybovo neaktívne
+
+Pohybovo aktívne
+
+median min.
+max.
+QD median min.
+max.
+QD
+18,50 10,00 28,00 2,88
+19,00
+9,00 27,00 3,00
+108,50 85,00 141,00 10,00 110,00 84,00 139,00 10,75
+78,50 43,00 115,00 9,50
+80,00 57,00 109,00 10,50
+
+T84_HS
+T84_IQ
+T52_pozornosť_S
+T52_pozornosť_CH
+T52_pozornosť_pomer
+VP_HS
+
+2,00
+0,97
+15,00
+
+0,00
+0,61
+1,00
+
+47,00
+1,00
+20,00
+
+1,50
+0,02
+1,38
+
+2,00
+0,97
+13,00
+
+0,00
+0,94
+9,00
+
+4,00
+1,00
+19,00
+
+1,00
+0,01
+2,00
+
+Legenda: min. – minimálny výsledok v testovaní, max. – maximálny výsledok v testovní, QD – kvartilová
+odchýlka, T84_HS - TIP Test intelektového potenciálu hrubé skóre, T84_IQ - TIP Test intelektového
+potenciálu prepočet na IQ, T52_pozornosť_S - Test koncentrácie pozornosti T-52 počet správne
+vyriešených, T52_pozornosť_CH - Test koncentrácie pozornosti T-52 počet chybne označených,
+T52_pozornosť_pomer - Test koncentrácie pozornosti T-52 pomer, VP_HS - vizuálna pamäť hrubé skóre
+(Zdroj: vlastné spracovanie)
+
+T-84 hrubé skóre
+
+T-84 prepočet na IQ
+
+19,2
+19
+18,8
+18,6
+18,4
+18,2
+
+111
+110
+109
+108
+107
+pohybovo
+neaktívn
+
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+aktívne
+median
+
+median
+
+Obrázok 2: Grafické porovnanie stredných hodnôt parametrov TIP test intelektového
+potenciálu medzi pohybovo aktívnymi a neaktívnymi dievčatami
+(Zdroj: vlastné spracovanie)
+
+Použitou štatistickou metódou porovnania sa minimálne hodnotené rozdiely v hrubom
+skóre TIP Testu intelektového potenciálu medzi skupinami dievčat vzhľadom k objemu
+vykonávanej pohybovej aktivity nepotvrdili ako štatisticky významné. Rovnaký výsledok
+z pohľadu interpretácie sme zistili aj v prípade štatistického porovnania rozdielov
+v parametri prepočtu hrubého skóre na inteligenčný kvocient. Presné výsledky štatistickej
+analýzy zobrazuje tabuľka 4.
+
+40
+
+Tabuľka 4 Výsledky štatistickej porovnávacej analýzy parametrov testu TIP Test
+intelektového potenciálu medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami
+Mann-Whitney U
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+T84_pozornosť_CH
+
+443,5
+
+768,5
+
+-0,097
+
+0,923
+
+T84_pozornosť_pomer
+
+389
+
+1055
+
+-0,895
+
+0,371
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; T84_HS - TIP Test intelektového potenciálu hrubé skóre,
+T84_IQ - TIP Test intelektového potenciálu prepočet na IQ (Zdroj: vlastné spracovanie)
+
+Pri teste koncentrácie pozornosti (T52) v sledovaných parametroch správne vyriešených
+úloh, chybne označených položiek a pomere medzi riešenými a správne vyriešenými
+úlohami podľa grafického zobrazenia (obrázok 3) môžeme vidieť, že pohybovo neaktívne
+dievčatá v týchto testoch dosahujú nižšiu úroveň ako pohybovo aktívne dievčatá len pri
+správne vyriešených úlohách. Pri chybne označených položkách a pomere medzi riešenými
+a správne vyriešenými úlohami sa z pohľadu zistených hodnôt mediánu nepreukázal
+rozdiel. Potvrdzuje nám to aj tabuľka 3. Najnižšie namerané hodnoty v teste koncentrácie
+pozornosti pri správne vyriešených úlohách mala skupina pohybovo neaktívnych dievčat.
+Maximálne namerané hodnoty v teste koncentrácie pozornosti pri správne vyriešených
+úlohách mala skupina pohybovo neaktívnych dievčat. Minimálne hodnoty v teste
+koncentrácie pozornosti pri parametri chybne označených položkách boli rovnaké a to
+nulové. Maximálnu zachytenú hodnotu dosiahla členka skupina pohybovo neaktívnych
+dievčat. Minimálne hodnoty v teste koncentrácie pozornosti z hľadiska pomeru medzi
+riešenými a správne vyriešenými úlohami sme zistili v skupine pohybovo neaktívnych
+dievčat. Maximálne hodnoty pre test koncentrácie pozornosti medzi riešenými úlohami
+a správne vyriešenými úlohami boli v oboch skupinách rovnaké. Stredné hodnoty mediánu
+pri skupinách pohybovo aktívnych a pohybovo neaktívnych dievčat sme zistili rozdielnosť
+výsledkov o 1,5 pokusu pri správne vyriešených úlohách v prospech skupiny pohybovo
+aktívnych dievčatá. Pri prepočte rozdielu na percentá bol rozdiel nasledovný a to o 1,8 %
+
+41
+
+T-52 pomer medzi riešenými a
+správne vyriešenými úlohami
+
+T-52 chybne označených
+3
+1,5
+1
+0,5
+0
+
+2
+1
+0
+
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+neaktívn
+
+median
+
+pohybovo
+aktívne
+median
+
+T-52 správne riešené úlohy
+81
+80
+79
+78
+77
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+Obrázok 3: Grafické porovnanie stredných hodnôt parametrov Test koncentrácie
+
+pozornosti medzi pohybovo aktívnymi a neaktívnymi dievčatami
+(Zdroj: vlastné spracovanie)
+
+Použitou štatistickou metódou porovnania pri teste koncentrácie pozornosti v indikátore
+počtu správne vyriešených úloh sa ukázali minimálne hodnotené rozdiely medzi skupinami
+dievčat vzhľadom k objemu vykonávanej pohybovej aktivity a nepotvrdili sa ako
+štatisticky významné.
+Pri chybne označených položkách a pomere medzi riešenými a správne vyriešenými
+úlohami sa vzhľadom k stredným hodnotám ukázali rovnaké výsledky medzi skupinami
+pohybovo neaktívnych a pohybovo aktívnych dievčat pri zohľadnení objemu pohybovej
+aktivity. V prípade porovnania individuálnych výkonov Mann-Whitney U testom sme v
+teste pozornosti v indikátoroch chybne označených položiek a pomeru medzi riešenými
+a správne vyriešenými úlohami nezachytili štatisticky významne rozdiely (tabuľka 5).
+
+42
+
+Tabuľka 5 Výsledky štatistickej porovnávacej analýzy parametrov testu Test koncentrácie
+pozornosti medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami
+Mann-Whitney U
+T52_pozornosť_S
+T52_pozornosť_CH
+T52_pozornosť_pomer
+
+Wilcoxon W
+
+426
+443,5
+389
+
+1092
+768,5
+1055
+
+Z
+
+Sig.
+
+-0,352
+-0,097
+-0,895
+
+0,725
+0,923
+0,371
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; T52_pozornosť_S – Test koncentrácie pozornosti počet
+správne; T52_pozornosť_CH - Test koncentrácie pozornosti T-52 počet chybne označených,
+T52_pozornosť_pomer - Test koncentrácie pozornosti T-52 medzi riešenými a správne vyriešenými
+úlohami (Zdroj: vlastné spracovanie)
+
+Pri teste vizuálnej pamäte v parametri hrubé skóre nám výsledky indikujú, že skupina
+pohybovo neaktívnych dievčat dosiahla vyššiu úroveň ako skupina pohybovo aktívnych
+dievčat (obrázok 4). Minimálne hodnoty v teste vizuálnej pamäte boli pri skupine
+pohybovo neaktívnych dievčat, pri tejto skupine sme zaznamenali aj maximálne hodnoty.
+V porovnaní stredných hodnôt mediánu sme zaznamenali rozdiel medzi skupinami
+pohybovo neaktívnych a aktívnych dievčat o 2 body hrubého skóre v prospech pohybovo
+neaktívnych dievčat. Pri prepočte percentuálneho rozdielu to činilo rozdiel o 13,3%.
+
+test vizuálnej pamäti hrubé
+skóre
+16
+14
+12
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+Obrázok 4: Grafické porovnanie stredných hodnôt parametrov test vizuálnej pamäti medzi
+pohybovo aktívnymi a neaktívnymi dievčatami
+(Zdroj: vlastné spracovanie)
+
+Pri použití štatistickej metódy porovnania sa rozdielnosti medzi skupinami dievčat pri
+zohľadnení k objemu pohybovej aktivity. Ukázali ako signifikantné pri posúdení na
+zvolenej hladine významnosti (tabuľka 6).
+
+43
+
+Tabuľka 6 Výsledky štatistickej porovnávacej analýzy parametrov testu Test vizuálnej
+pamäti medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami
+Mann-Whitney U
+VP_HS
+
+Wilcoxon W
+314,5
+
+Z
+639,5
+
+-2,012
+
+Sig.
+0,044
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; VP_HS - vizuálna pamäť hrubé skóre (Zdroj: vlastné
+spracovanie)
+
+Porovnanie kognitívnych schopností chlapci
+TIP Test intelektového potenciálu v parametri hrubé skóre a tak isto prepočtu na
+inteligenčný kvocient podľa grafického zobrazenia (obrázok 5) nám ukazuje, že pohybovo
+neaktívny chlapci v týchto testoch dosahujú rovnakú úroveň kognitívnych funkcii oproti
+chlapcom pohybovo aktívnym (tabuľke 7). Najnižšiu hodnotu výsledku testov TIP Test
+intelektového potenciálu pri hrubom skóre sme zaznamenali v skupine pohybovo
+neaktívnych chlapcov rovnako aj najvyššiu hodnotu tohto parametru sme zachytili
+v skupine pohybovo neaktívnych chlapcov. V porovnaní stredných hodnôt mediánu medzi
+pohybovo aktívnymi a pohybovo neaktívnymi chlapcami sme nezistili žiaden rozdiel,
+výsledky boli rovnaké.
+Najnižšiu hodnotu pri TIP Test intelektového potenciálu v indikátore na inteligenčný
+kvocient sme zaznamenali pri skupine pohybovo neaktívnych chlapcov a najvyššia
+nameraná hodnota bola v skupine pohybovo aktívnych chlapcov. Pri porovnávaní
+stredných hodnôt mediánu pri skupinách pohybovo aktívnych a pohybovo neaktívnych
+chlapcov sme nezistili žiaden rozdiel, výsledky boli rovnaké.
+
+44
+
+Tabuľka 7 Popisné výsledky hodnotenia kognitívnych schopností chlapcov
+Chlapci
+Pohybovo neaktívny
+
+Pohybovo aktívny
+
+T84_HS
+
+median
+20,00
+
+min.
+3,00
+
+max.
+27,00
+
+QD
+3,00
+
+median
+20,00
+
+min.
+11,00
+
+max.
+25,00
+
+QD
+3,88
+
+T84_IQ
+
+114,00
+
+67,00
+
+136,00
+
+10,50
+
+114,00
+
+87,00
+
+133,00
+
+13,75
+
+T52_pozornosť_S
+
+67,00
+
+10,00
+
+106,00
+
+14,00
+
+70,00
+
+37,00
+
+95,00
+
+12,38
+
+T52_pozornosť_CH
+
+2,00
+
+0,00
+
+63,00
+
+1,50
+
+1,00
+
+0,00
+
+7,00
+
+0,88
+
+T52_pozornosť_pomer
+
+0,96
+
+,48
+
+1,00
+
+0,03
+
+0,98
+
+0,90
+
+1,00
+
+0,01
+
+VP_HS
+
+13,00
+
+3,00
+
+20,00
+
+1,50
+
+14,00
+
+7,00
+
+20,00
+
+2,88
+
+Legenda: min. – minimálny výsledok v testovaní, max. – maximálny výsledok v testovní, QD – kvartilová
+odchýlka, T84_HS - TIP Test intelektového potenciálu hrubé scóre, T84_IQ - TIP Test intelektového
+potenciálu prepočet na IQ, T52_pozornosť_S - Test koncentrácie pozornosti T-52 počet správne
+vyriešených, T52_pozornosť_CH - Test koncentrácie pozornosti T-52 počet chybne označených,
+T52_pozornosť_pomer - Test koncentrácie pozornosti T-52 pomer, VP_HS - vizuálna pamäť hrubé skóre
+(Zdroj: vlastné spracovanie)
+
+T-84 hrubé skóre
+
+T-84 prepočet na IQ
+
+30
+
+150
+
+20
+
+100
+
+10
+
+50
+0
+
+0
+pohybovo
+neaktívn
+
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+aktívne
+median
+
+median
+
+Obrázok 5: Grafické porovnanie stredných hodnôt parametrov TIP test intelektového
+potenciálu medzi pohybovo aktívnymi a neaktívnymi chlapcami
+(Zdroj: vlastné spracovanie)
+
+Použitou štatistickou metódou porovnania sa minimálne hodnotené rozdiely medzi
+skupinami chlapcov vzhľadom k objemu vykonávanej pohybovej aktivity nepotvrdili ako
+štatisticky významné. Rovnaký výsledok z pohľadu interpretácie sme zistili aj v prípade
+štatistického porovnania rozdielov v parametri prepočtu hrubého skóre na inteligenčný
+kvocient. Presné výsledky štatistickej analýzy zobrazuje tabuľka 8.
+
+45
+
+Tabuľka 8 Výsledky štatistickej porovnávacej analýzy parametrov testu TIP Test
+intelektového potenciálu medzi pohybovo aktívnymi a pohybovo neaktívnymi chlapcami
+Mann-Whitney U
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+T84_HS
+
+219,0
+
+355,0
+
+-0,655
+
+0,513
+
+T84_IQ
+
+225,5
+
+361,5
+
+-0,507
+
+0,612
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; T84_HS - TIP Test intelektového potenciálu hrubé skóre,
+T84_IQ - TIP Test intelektového potenciálu prepočet na IQ (Zdroj: vlastné spracovanie)
+
+Pri teste koncentrácie pozornosti (T52) v sledovaných parametroch správne vyriešených
+úloh, chybne označených položiek a pomere medzi riešenými a správne vyriešenými
+úlohami podľa grafického zobrazenia (obrázok 6) môžeme vidieť, že pohybovo neaktívny
+chlapci v týchto testoch dosahujú nižšiu úroveň ako pohybovo aktívny chlapci. Pri chybne
+označených vyššiu úroveň kognitívnych schopnosti preukázala skupiny pohybovo
+neaktívnych chlapcov a v pomere medzi riešenými a správne vyriešenými úlohami
+z pohľadu zistených hodnôt mediánu dosiahla nižšiu úroveň kognitívnych schopností
+skupina pohybovo neaktívnych chlapov. Potvrdzuje nám to aj tabuľka 7. Najnižšie
+namerané hodnoty pri teste koncentrácie pozornosti pri správne vyriešených úlohach mala
+skupina pohybovo neaktívnych chlapcov. Skupina pohybovo neaktívnych chlapcov tak isto
+dosiahli v teste koncentrácie pozornosti pri správne vyriešenými úlohami maximálne
+hodnoty. Minimálne hodnoty v teste koncentrácie pozornosti pri parametri chybné
+označených položkách boli rovnaké a to nulové. Maximálne zachytenú hodnotu dosiahol
+člen skupiny pohybovo neaktívnych chlapcov. Minimálne hodnoty v teste koncentrácie
+pozornosti z hľadiska medzi riešenými a správne vyriešenými úlohami sme zistili
+v skupine pohybovo aktívnych chlapcov. Maximálne hodnoty v teste pozornosti z hľadiska
+pomeru medzi riešenými a správne vyriešenými úlohami bola rovnaká. Stredné hodnoty
+mediánu pri skupinách pohybovo aktívnych a pohybovo neaktívnych chlapcov sme zistili
+rozdielnosť výsledkov o 3 úlohy pri správne vyriešených úlohách v prospech skupiny
+pohybovo aktívny chlapci. Pri prepočte rozdielu na percentá bol rozdiel nasledovný a to
+o 4,3%. Stredné hodnoty mediánu v teste koncentrácie pozornosti chybne označených
+mala vyššiu o 1 bod skupina pohybovo neaktívnych chlapcov a to je rozdiel v percentách
+
+46
+
+nasledovný 50%. Teste pozornosti pomeru medzi riešenými a správne vyriešenými 0,02
+bodu horší pohybovo neaktívny chlapci a to o 2%.
+
+T-52 počet správne
+vyriešených
+75
+70
+65
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+T-52 pomer medzi riešenými a
+správne vyriešenými
+
+T-52 chybne označených
+3
+1
+0,98
+0,96
+0,94
+
+2
+
+1
+0
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+neaktívn
+
+median
+
+pohybovo
+aktívne
+median
+
+Obrázok 6: Grafické porovnanie stredných hodnôt parametrov test koncentrácie pozornosti
+medzi pohybovo aktívnymi a neaktívnymi chlapcami
+(Zdroj: vlastné spracovanie)
+
+Použitou štatistickou metódou porovnania pri teste koncentrácie pozornosti
+v indikátoroch počtu správne vyriešených úloh, chybne označených položkách a správne
+vyriešenými úlohami sa ukázali minimálne hodnotené rozdiely medzi skupinami chlapcov
+vzhľadom k objemu vykonávanej pohybovej aktivity a nepotvrdili sa ako štatisticky
+významné (tabuľka 9).
+
+47
+
+Tabuľka 9 Výsledky štatistickej porovnávacej analýzy parametrov testu Test koncentrácie
+pozornosti medzi pohybovo aktívnymi a pohybovo neaktívnymi chlapcami
+Mann-Whitney
+U
+T52_pozornosť_S
+T52_pozornosť_CH
+T52_pozornosť_pomer
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+243,5
+
+739,5
+
+-0,101
+
+0,919
+
+183,0
+
+319,0
+
+-1,487
+
+0,137
+
+173,5
+
+669,5
+
+-1,674
+
+0,094
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; T52_pozornosť_S – Test koncentrácie pozornosti počet
+správne; T52_pozornosť_CH - Test koncentrácie pozornosti T-52 počet chybne označených,
+T52_pozornosť_pomer - Test koncentrácie pozornosti T-52 medzi riešenými a správne vyriešenými
+úlohami (Zdroj: vlastné spracovanie)
+
+Pri teste vizuálnej pamäte v parametri hrubé skóre nám výsledky indikujú, že skupina
+pohybovo neaktívnych chlapcov dosiahla nižšie úroveň ako skupina pohybovo aktívnych
+chlapcov (obrázok 7). Minimálne hodnoty v teste vizuálnej pamäte boli pri skupine
+pohybovo neaktívnych chlapcov, maximálne hodnoty boli rovnaké. V porovnaní stredných
+hodnôt mediánu sme zaznamenali len mierny rozdiel medzi skupinami pohybovo
+neaktívnych a aktívnych chlapcov a to o 1 body hrubého skóre v prospech pohybovo
+neaktívnych chlapcov. Pri prepočte percentuálneho rozdielu to činilo rozdiel o 7,1%.
+
+test vizuálnej pamäti hrubé
+skóre
+15
+14
+13
+12
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+Obrázok 7: Grafické porovnanie stredných hodnôt parametrov test vizuálnej pamäti medzi
+pohybovo aktívnymi a neaktívnymi chlapcami
+(Zdroj: vlastné spracovanie)
+
+48
+
+Pri použití štatistickej metódy porovnania sa ukázali minimálne výsledky medzi
+skupinami chlapcov pohybovo neaktívnymi a pohybovo aktívnymi pri zohľadnení
+k objemu pohybovej aktivity. Minimálne hodnotené rozdiely sme zistili v prípade
+štatistického porovnania rozdielov pri teste vizuálne pamäti hrubého skóre (tabuľka 10).
+Tabuľka 10 Výsledky štatistickej porovnávacej analýzy parametrov testu Test vizuálnej
+pamäti medzi pohybovo aktívnymi a pohybovo neaktívnymi chlapcami
+Mann-Whitney U
+VP_HS
+
+Wilcoxon W
+220,50
+
+716,50
+
+Z
+-0,621
+
+Sig.
+0,535
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; VP_HS - vizuálna pamäť hrubé skóre (Zdroj: vlastné
+spracovanie)
+
+Hodnotili sme výsledky aj z pohľadu určenia miery vzťahu medzi charakteristikou úrovne
+vykonávanej pohybovej aktivity určenej cez sumárne skóre PAQ a charakteristiky
+vybraných testov kognitívnych schopností. V tomto porovnaní neboli aplikované
+rozdelenia na skupiny pohybovo aktívnych a neaktívnych, ale boli vyhodnocované
+korelácie medzi absolútnymi zaznamenanými hodnotami. Miera vzťahu medzi
+hodnotenými parametrami kognitívnych schopností a pohybovou aktivitou bola vo
+všetkých prípadoch interpretovaná ako nízka. Štatistickú významnosť určenej miery
+vzťahu sme zaznamenali iba v skupine dievčat pre parameter hrubého skóre v teste
+vizuálnej pamäte. Podrobné výsledky sú zobrazené v tabuľke 11.
+
+49
+
+Tabuľka 11 Výsledky korelácie úrovne pohybovej aktivity a kognitívnych schopností
+testovaných skupín adolescentov (Spearmanova korelačná analýzy poradia)
+T84_IQ
+
+-0,111
+
+-0,103
+
+0,16
+
+0,02
+
+0,113 -0,266*
+
+dievčatá
+
+rs
+PAQ_A
+sumárne Sig.
+skóre
+N
+
+0,393
+
+0,428
+
+0,217
+
+0,881
+
+0,387
+
+0,038
+
+61
+
+61
+
+61
+
+61
+
+61
+
+61
+
+chlapci
+
+T52_pozorn T52_pozorn T52_pozorn
+VP_HS
+_S
+_CH
+_pomer
+
+T84_HS
+
+rs
+PAQ_A
+sumárne Sig.
+skóre
+N
+
+-0,183
+
+-0,165
+
+-0,063
+
+-0,092
+
+0,126
+
+-0,019
+
+0,219
+
+0,267
+
+0,675
+
+0,541
+
+0,399
+
+0,901
+
+47
+
+47
+
+47
+
+47
+
+47
+
+47
+
+Legenda: r – hodnota korelačného koeficientu; Sig - hodnota štatistickej významnosti rozdielov medzi
+s
+
+porovnávanými skupinami dát; N – početnosť;T84_HS - TIP Test intelektového potenciálu hrubé skóre,
+T84_IQ - TIP Test intelektového potenciálu prepočet na IQ, T52_pozorn_S - Test koncentrácie pozornosti
+T-52 počet správne vyriešených, T52_pozorn_CH - Test koncentrácie pozornosti T-52 počet chybne
+označených, T52_pozorn_pomer - Test koncentrácie pozornosti T-52 pomer, VP_HS - vizuálna pamäť
+hrubé skóre (Zdroj: vlastné spracovanie)
+
+4.2 Porovnanie úrovne kognitívno - motorických schopností adolescentov
+Porovnanie kognitívno – motorických schopností dievčat
+Divided Attention test v rámci priemerného času reakcie podľa grafického zobrazenia
+(obrázok 8) nám ukazuje, že pohybovo neaktívne dievčatá v týchto testoch dosahujú nižšiu
+kognitívno – motorickú funkciu oproti dievčatám pohybovo aktívnym (tabuľka 12).
+V minimálnych hodnotách horší čas dosiahla skupina pohybovo aktívnych dievčat,
+najvyššiu hodnotu tohto parametru sme zachytili v oboch skupinách. V porovnaní
+stredných hodnôt mediánu medzi pohybovo aktívnymi a pohybovo neaktívnymi
+dievčatami sme zistili rozdiel na úrovni 0,21 sek z pohľadu priemerného času reakcie
+v prospech pohybovo aktívnych dievčat, čo v prepočte predstavuje rozdiel 17,35 %.
+Najnižšiu hodnotu pri test Divided Attention z hľadiska chybovosti sme zaznamenali
+pri skupine pohybovo neaktívnych dievčat a najvyššia nameraná hodnota bola v skupine
+pohybovo neaktívnych dievčat. Pri porovnávaní stredných hodnôt mediánu pri skupinách
+pohybovo aktívne a pohybovo neaktívne dievčatá sme rovnaké výsledky.
+
+50
+
+Tabuľka 12 Popisné výsledky hodnotenia kognitívno-motorických schopnosti dievčatá
+Dievčatá
+Pohybovo neaktívne
+
+Pohybovo aktívne
+
+median
+1,21
+
+min.
+0,36
+
+max.
+5,62
+
+QD
+0,21
+
+median
+1,0
+
+min.
+0,71
+
+max.
+5,62
+
+QD
+0,35
+
+DA_chyby
+
+5
+
+3
+
+10
+
+0,5
+
+5
+
+4
+
+9
+
+0,5
+
+HY_chyby
+
+4
+
+2
+
+5
+
+0,5
+
+3
+
+2
+
+5
+
+0,5
+
+HY_čas_celkom
+
+27,66
+
+10,95
+
+49,99
+
+4,81
+
+26,42
+
+13,59
+
+40,88
+
+5,93
+
+RMM_čas
+
+26,83
+
+16,99
+
+41,30
+
+3,49
+
+27,66
+
+15,21
+
+37,98
+
+3,38
+
+DA_čas
+
+Legenda: min. – minimálny výsledok v testovaní, max. – maximálny výsledok v testovní, QD – kvartilová
+odchýlka, DA_čas - divided attention priemerný čas reakcie, DA_chyby – divided attention hodnotená
+chybovosť, HY_chyby - Hawk eye (brain speed) hodnotená chybovosť, HY_čas_celkom - Hawk eye (brain
+speed) Celkový čas na vykonanie 15 impulzov, RMM_čas - Test random multisymbol and multicolor
+celkový čas na vykonanie 15 stimulov (Zdroj: vlastné spracovanie)
+
+Divided Attention test
+chybovosť
+
+Divided Attention test
+priemerného času reakcie
+2
+
+10
+
+1
+
+5
+
+0
+
+0
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+median
+
+median
+
+Obrázok 8: Grafické porovnanie stredných hodnôt parametrov divided attention medzi
+pohybovo aktívnymi a neaktívnymi dievčatami
+(Zdroj: vlastné spracovanie)
+
+Pri použití štatistickej metódy porovnania sa ukázali minimálne výsledky medzi
+skupinami dievčat pohybovo neaktívnymi a pohybovo aktívnymi pri zohľadnení k objemu
+pohybovej aktivity. Z pohľadu interpretácie hodnotíme rozdiely medzi skupinami ako
+štatisticky nevýznamné (p ˃ 0,05) v oboch sledovaných parametroch priemerného času
+reakcie ako aj počtu chýb pri vykonaní testovej úlohy (tabuľka 13).
+
+51
+
+Tabuľka 13 Výsledky štatistickej porovnávacej analýzy parametrov testu divided
+attention medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami
+Mann-Whitney U
+DA_čas
+DA_chyby
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+426
+
+751
+
+-0,363
+
+0,716
+
+445
+
+1111
+
+-0,079
+
+0,937
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; DA_čas - divided attention priemerný čas reakcie,
+DA_chyby – divided attention hodnotená chybovosť
+
+Hawk eye (brain speed) hodnotená chybovosť podľa grafického zobrazenia (obrázok 9)
+nám ukazuje, že pohybovo neaktívne dievčatá v týchto testoch dosahujú nižšiu kognitívno
+– motorickú funkciu oproti dievčatám pohybovo aktívnym (tabuľke 12). Najnižšiu hodnotu
+výsledku testov Hawk eye (brain speed) hodnotenia chybovosti bola pri oboch skupinách
+rovnaká, najvyššia hodnota bola rovnaká v oboch skupinách. V porovnaní stredných
+hodnôt mediánu medzi pohybovo aktívnymi a pohybovo neaktívnymi dievčatami sme
+zistili len mierny rozdiel na úrovni 1 bodu z pohľadu hodnotenia chybovosti reakcie
+v prospech pohybovo aktívnych dievčat, čo v prepočte predstavuje rozdiel 25 %.
+Minimálnu hodnotu pri teste Hawk eye (brain speed) v parametri celkový čas na
+vykonanie 15 impulzov sme zaznamenali v skupine neaktívnych dievčat, Najvyššiu
+zaznamenanú hodnotu v tomto parametri evidujeme v skupine pohybovo aktívnych
+dievčat. Pri porovnávaní stredných hodnôt mediánu pri skupinách pohybovo aktívne
+a pohybovo neaktívne dievčatá sme zaznamenali rozdiel o 1,24 sek z hľadiska celkového
+času na vykonanie 15 impulzov z hľadiska chybovosti, čo v prepočte predstavuje rozdiel
+4,48%.
+Hawk eye (brain speed) celkový čas
+na vykonanie 15 impulzov z hľadiska
+chybovosti
+
+Hawk eye (brain speed) priemerný
+čas reakcie
+2
+2
+
+1
+0
+pohybovo
+neaktívn
+
+0
+
+pohybovo
+aktívne
+
+pohybovo neaktívn
+pohybovo aktívne
+
+median
+
+median
+
+Obrázok 9: Grafické porovnanie stredných hodnôt parametrov hawk eye medzi pohybovo
+aktívnymi a neaktívnymi dievčatami
+(Zdroj: vlastné spracovanie)
+
+52
+
+Pri použití štatistickej metódy porovnania sa ukázali len mierne rozdiely medzi
+skupinami dievčat pohybovo neaktívnymi a pohybovo aktívnymi pri zohľadnení k objemu
+pohybovej aktivity. Popísané rozdiely napriek relatívne vysokým percentuálnym
+odlišnostiam medzi pohybovo aktívnymi a neaktívnymi dievčatami neboli určené ako
+štatisticky významné na zvolenej hladine významnosti (tabuľka 14).
+Tabuľka 14 Výsledky štatistickej porovnávacej analýzy parametrov testu Hawk eye medzi
+pohybovo aktívnymi a pohybovo neaktívnymi dievčatami
+Mann-Whitney U
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+420
+
+745
+
+-0,490
+
+0,624
+
+392
+
+717
+
+-0,682
+
+0,495
+
+HY_chyby
+HY_čas_celkom
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; HY_chyby - Hawk eye (brain speed) hodnotená chybovosť,
+HY_čas_celkom - Hawk eye (brain speed) Celkový čas na vykonanie 15 impulzov
+
+Test random mutisymbol and multicolor celkový čas na vykonanie 15 stimulov (obrázok
+10) nám ukazuje, že pohybovo neaktívne dievčatá v týchto testoch dosahujú vyššiu
+ognitívno – motorickú funkciu oproti dievčatám pohybovo aktívnym (tabuľke 12).
+Najnižšiu hodnotu výsledku testov random mutisymbol and multicolor celkový čas na
+vykonanie 15 stimulov sme zaznamenali v skupine pohybovo aktívnych dievčat, najvyššia
+hodnota bola zaznamenaná v skupine pohybovo neaktívne dievčatá. (Najnižšiu a rovnako
+najvyššiu dosiahnutú hodnotu pri parametri celkový čas na vykonanie 15 stimulov testu
+random multisymbol and multicolor sme zaznamenali v skupine pohybovo aktívnych
+dievčat. V porovnaní stredných hodnôt mediánu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi dievčatami sme zistili rozdiel na úrovni 0,83 sek z pohľadu celkového času
+vykonania 15 stimulov v prospech pohybovo neaktívnych dievčat, čo v prepočte
+predstavuje rozdiel 3 %.
+
+53
+
+test random multisymbol
+and multicolor
+28
+27
+26
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+Obrázok 10: Grafické porovnanie stredných hodnôt parametrov test random multi symbol and
+multicolor celkový čas na vykonanie 15 stimulov medzi pohybovo aktívnymi a neaktívnymi
+dievčatami
+
+(Zdroj: vlastné spracovanie)
+
+Len minimálne hodnotené rozdiely sme zistili v prípade štatistického porovnania
+rozdielov pri teste random mutisymbol and multicolor celkový čas na vykonanie 15
+stimulov, pričom neboli hodnotené ako štatisticky významné (tabuľka 15).
+
+Tabuľka 15 Výsledky štatistickej porovnávacej analýzy parametrov test random
+mutisymbol and multicolor medzi pohybovo aktívnymi a pohybovo neaktívnymi
+dievčatami
+
+RMM_čas
+
+Mann-Whitney U
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+445
+
+770
+
+-0,074
+
+0,941
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; RMM_čas - Test random multisymbol and multicolor
+celkový čas na vykonanie 15 stimulov
+
+Porovnanie kognitívno – motorických schopností chlapcov
+Divided Attention test v rámci priemerného času reakcie podľa grafického
+zobrazenia (obrázok 11) nám ukazuje, že pohybovo neaktívny chlapci v týchto testoch
+dosahujú rovnakú kognitívno – motorickú funkciu ako skupina chlapcom pohybovo
+aktívnych (tabuľke 16). Najnižšiu hodnotu výsledku testov Divided Attention v rámci
+priemerného času reakcie sme zaznamenali v skupine pohybovo neaktívnych chlapcov,
+najvyššiu hodnotu tohto parametru sme zachytili taktiež v skupine pohybovo neaktívnych
+
+54
+
+chlapcov. V porovnaní stredných hodnôt mediánu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami sme nezistili žiaden rozdiel, výsledky boli rovnaké.
+Minimálnu nameranú hodnotu pri teste Divided Attention z hľadiska chybovosti sme
+zaznamenali v skupine pohybovo neaktívnych chlapcov, rovnako tak sme pre túto skupinu
+zachytili aj najvyššiu početnosť chýb vo vykonaní tohto testu. Pri porovnávaní stredných
+hodnôt mediánu pri skupinách pohybovo aktívnych a pohybovo neaktívnych chlapcov sme
+rovnaké výsledky.
+Tabuľka 16 Popisné výsledky štatistiky kognitívno-motorických schopnosti chlapcov
+Chlapci
+Pohybovo neaktívny
+
+Pohybovo aktívny
+
+median
+1,41
+
+min.
+0,25
+
+max.
+3,98
+
+QD
+0,64
+
+median
+1,41
+
+min.
+0,71
+
+max.
+2,82
+
+QD
+0,21
+
+DA_chyby
+
+5
+
+2
+
+11
+
+1
+
+5
+
+4
+
+6
+
+0,5
+
+HY_chyby
+
+3
+
+2
+
+5
+
+0
+
+3
+
+2
+
+4
+
+0,5
+
+HY_čas_celkom
+
+24,29
+
+13,3
+
+40,17
+
+5,4
+
+26,31
+
+13,23
+
+38,59
+
+3,45
+
+RMM_čas
+
+27,51
+
+17,7
+
+55,47
+
+6,41
+
+26,18
+
+16,74
+
+35,58
+
+3,33
+
+DA_čas
+
+Legenda: min. – minimálny výsledok v testovaní, max. – maximálny výsledok v testovní, QD – kvartilová
+odchýlka, DA_čas - divided attention priemerný čas reakcie, DA_chyby – divided attention hodnotená
+chybovosť, HY_chyby - Hawk eye (brain speed) hodnotenie chybovosti, HY_čas_celkom - Hawk eye (brain
+speed) Celkový čas na vykonanie 15 impulzov, RMM_čas - Test random multisymbol and multicolor
+celkový čas na vykonanie 15 stimulov (Zdroj: vlastné spracovanie)
+
+Divided Attention test
+chybovosť
+
+Divided Attention test
+priemerného času reakcie
+2
+
+10
+
+1
+
+5
+
+0
+
+0
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+
+pohybovo
+neaktívn
+
+median
+
+pohybovo
+aktívne
+median
+
+Obrázok 11: Grafické porovnanie stredných hodnôt parametrov divided attention medzi
+pohybovo aktívnymi a neaktívnymi chlapcami
+
+(Zdroj: vlastné spracovanie)
+
+Pri použití štatistickej metódy porovnania sa ukázali minimálne výsledky medzi
+skupinami dievčat pohybovo neaktívnymi a pohybovo aktívnymi pri zohľadnení k objemu
+pohybovej aktivity. Z pohľadu interpretácie hodnotíme rozdiely medzi skupinami ako
+55
+
+štatisticky nevýznamné (p ˃ 0,05) v oboch sledovaných parametroch priemerného času
+reakcie ako aj počtu chýb pri vykonaní testovej úlohy (tabuľka 17).
+Tabuľka 17 Výsledky štatistickej porovnávacej analýzy parametrov testu divided
+attention medzi pohybovo aktívnymi a pohybovo neaktívnymi chlapcami
+Mann-Whitney U
+DA_čas
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+243,5
+
+379,5
+
+-0,103
+
+0,918
+
+233
+
+369
+
+-0,357
+
+0,721
+
+DA_chyby
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; DA_čas - divided attention priemerný čas reakcie,
+DA_chyby – divided attention hodnotená chybovosť
+
+Hawk eye (brain speed) priemerný čas reakcie podľa grafického zobrazenia (obrázok
+12) nám ukazuje, že pohybovo neaktívny chlapci v týchto testoch dosahujú rovnakú úroveň
+kognitívno – motorických funkcií ako chlapci pohybovo aktívny (tabuľke 16). Najnižšia
+hodnota parametru priemerný čas reakcie testu Hawk eye (brain speed) bola v oboch
+skupinách rovnaká, najvyššia hodnota bola nameraná v skupine pohybovo neaktívny
+chlapcov. V porovnaní stredných hodnôt mediánu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami sme nezaznamenali žiaden rozdiel.
+Najnižšiu hodnotu pri test Hawk eye (brain speed) celkový čas na vykonanie 15
+impulzov sme zaznamenali pri skupine pohybovo aktívnych chlapcov a najvyššia
+nameraná hodnota bola v skupine pohybovo neaktívnych chlapcov. Pri porovnávaní
+stredných hodnôt mediánu pri skupinách pohybovo aktívny a pohybovo neaktívny chlapci
+sme zaznamenali rozdiel o 2,02 sek z hľadiska celkového času na vykonanie 15 impulzov
+z hľadiska chybovosti, čo v prepočte predstavuje rozdiel 7,67%.
+Hawk eye (brain speed) celkový čas
+na vykonanie 15 impulzov z hľadiska
+chybovosti
+
+Hawk eye (brain speed) priemerný
+čas reakcie
+4
+30
+
+2
+
+25
+
+0
+pohybovo
+neaktívn
+
+20
+
+pohybovo
+aktívne
+
+pohybovo neaktívn
+pohybovo aktívne
+
+median
+
+median
+
+Obrázok 12: Grafické porovnanie stredných hodnôt parametrov Hawk eye medzi pohybovo
+aktívnymi a neaktívnymi chlapcami
+
+56
+
+(Zdroj: vlastné spracovanie)
+
+Pri použití štatistickej metódy porovnania sa ukázali len mierne rozdiely medzi
+skupinami chlapcov pohybovo neaktívnymi a pohybovo aktívnymi pri zohľadnení
+k objemu pohybovej aktivity aj to v teste Hawk eye (brain speed) celkový čas na vykonanie
+15 impulzov. Popísané rozdiely medzi pohybovo aktívnymi a neaktívnymi chlapcami
+neboli určené ako štatisticky významné na zvolenej hladine významnosti (tabuľka 14).
+Tabuľka 18 Výsledky štatistickej porovnávacej analýzy parametrov testu Hawk eye medzi
+pohybovo aktívnymi a pohybovo neaktívnymi chlapcami
+Mann-Whitney U
+HY_chyby
+HY_čas_celkom
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+245
+
+381
+
+-0,074
+
+0,941
+
+211
+
+707
+
+-0,831
+
+0,406
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát;
+
+HY_chyby - Hawk eye (brain speed) hodnotenie
+
+chybovosti, HY_čas_celkom - Hawk eye (brain speed) Celkový čas na vykonanie 15 impulzov
+
+Test random mutisymbol and multicolor celkový čas na vykonanie 15 stimulov (obrázok
+10) nám ukazuje, že pohybovo neaktívny chlapci v týchto testoch dosahujú nižšiu
+kognitívno – motorickú funkciu oproti chlapcom pohybovo aktívnym (tabuľke 16).
+Najnižšiu hodnotu výsledku testu random mutisymbol and multicolor pre celkový čas na
+vykonanie 15 stimulov sme zaznamenali v skupine pohybovo aktívnych chlapcov,
+najvyššia hodnota bola naopak zaznamenaná v skupine pohybovo neaktívny chlapci.
+V porovnaní stredných hodnôt mediánu medzi pohybovo aktívnymi a pohybovo
+neaktívnymi chlapcami sme zistili len mierny rozdiel na úrovni 1,33 sek z pohľadu
+celkového času vykonania 15 stimulov v prospech pohybovo neaktívnych chlapcov, čo
+v prepočte predstavuje rozdiel 4,83 %.
+
+57
+
+test random multisymbol
+and multicolor
+28
+27
+26
+pohybovo
+neaktívn
+
+pohybovo
+aktívne
+median
+
+Obrázok 13: Grafické porovnanie stredných hodnôt parametrov test random multi symbol and
+multicolor celkový čas na vykonanie 15 stimulov medzi pohybovo aktívnymi a neaktívnymi
+chlapcami
+(Zdroj: vlastné spracovanie)
+
+Len minimálne hodnotené rozdiely sme zistili v prípade štatistického porovnania
+rozdielov pri teste random mutisymbol and multicolor celkový čas na vykonanie 15
+stimulov, pričom neboli hodnotené ako štatisticky významné (tabuľka 19).
+Tabuľka 19 Výsledky štatistickej porovnávacej analýzy parametrov test random
+mutisymbol and multicolor medzi pohybovo aktívnymi a pohybovo neaktívnymi
+chlapcami
+
+RMM_čas
+
+Mann-Whitney U
+
+Wilcoxon W
+
+Z
+
+Sig.
+
+209,5
+
+345,5
+
+-0,864
+
+0,387
+
+Legenda: Mann-Whitney U – úroveň testovacieho kritéria; Wilcoxon W – hodnota prepočtu Wilcoxnovho
+testu; Z – prepočítaná hodnota Wilcoxnovho testu na Z skóre; Sig – hodnota štatistickej významnosti
+rozdielov medzi porovnávanými skupinami dát; RMM_čas - Test random multisymbol and multicolor
+celkový čas na vykonanie 15 stimulov
+
+Hodnotili sme výsledky aj z pohľadu určenia miery vzťahu medzi charakteristikou úrovne
+vykonávanej pohybovej aktivity určenej cez sumárne skóre PAQ a charakteristiky
+vybraných testov kognitívno - motorických testov. V tomto porovnaní neboli aplikované
+rozdelenia na skupiny pohybovo aktívnych a neaktívnych ale boli vyhodnocované
+korelácie medzi absolútnymi zaznamenanými hodnotami. Miera vzťahu medzi
+hodnotenými parametrami kognitívnych schopností a pohybovou aktivitou bola vo
+všetkých prípadoch interpretovaná ako nízka, teda bez štatistického významu. Podrobné
+výsledky sú zobrazené v tabuľke 20.
+
+58
+
+Tabuľka 20 Výsledky korelácie úrovne pohybovej aktivity a kognitívno - motorických
+schopností testovaných skupín adolescentov (Spearmanova korelačná analýzy poradia)
+Spearmanová korelácia poradia
+
+r
+
+s
+
+dievčatá PAQ_sum_score Sig.
+
+HY_čas_celkom RMM_čas
+-0,027
+0,020
+
+0,920
+
+0,654
+
+0,783
+
+0,835
+
+0,881
+
+N
+
+61
+
+61
+
+61
+
+60
+
+61
+
+s
+
+-0,187
+0,208
+
+-0,220
+0,137
+
+0,018
+0,903
+
+0,138
+0,355
+
+-0,090
+0,549
+
+47
+
+47
+
+47
+
+47
+
+47
+
+r
+
+PAQ_sum_score Sig.
+
+chlapci
+
+DA_čas DA_chyby HY_chyby
+0,013
+0,059
+-0,036
+
+N
+
+Legenda: r – hodnota korelačného koeficientu Sig - hodnota štatistickej významnosti rozdielov medzi
+s
+
+porovnávanými skupinami dát; N – početnosť; DA_čas - divided attention priemerný čas reakcie, DA_chyby
+– divided attention hodnotená chybovosť, HY_chyby - Hawk eye (brain speed) hodnotenie chybovosti,
+HY_čas_celkom - Hawk eye (brain speed) celkový čas na vykonanie 15 impulzov, RMM_čas - Test random
+multisymbol and multicolor celkový čas na vykonanie 15 stimulov (Zdroj: vlastné spracovanie)
+
+Diskusia
+V našej práci sme sa zamerali na spojitosť troch parametrov, ktoré človek využíva
+každodenne vo svojom živote – kognitívne schopnosti, kognitívno – motorické schopnosti
+a pohybová aktivita. Zistili sme, že pohybová aktivita vplýva pozitívne na kognitívne
+a kognitívno - motorické schopnosti. Jedným z dôležitých období v dospievaní človeka je
+práve adolescencia, v tomto období sme realizovali aj výskum. Dovolíme si tvrdiť, že
+v období adolescencie sú na vysokej úrovni kognitívne schopnosti (pamäť, vnímanie,
+pozornosť alebo reč ) a kognitívno – motorické tiež.
+Zacharová (2012) uvádza, že vývoj kognitívnych schopností u adolescentov sa
+prejavuje aj v oblasti pozornosti. Adolescenti sú schopní zámerne a plne sa sústrediť na
+určitý objekt. Táto schopnosť sa mení iba v prípade, keď sú emocionálne zapojení, čo môže
+ovplyvniť úroveň pozornosti. Bielik (2017) tvrdí, že pohybová aktivita pozitívne vplýva na
+kognitívne schopnosti. V rámci našich zistení pri testoch pozornosti adolescentov
+v skupine dievčat aj chlapcov boli minimálne rozdiely mediánu v skupine dievčat a to
+v prospech pohybovo aktívnych a v tom istom testovaní v skupine chlapcov hodnoty
+mediánu boli v oboch hodnoteniach testu rovnaké. Z hľadiska štatistiky sa tieto výsledky
+nepotvrdili ako štatisticky významne pri oboch skupinách. Hagovská (2016) vo svojej práci
+tvrdí, že pri zámernom rozvoji kognitívnych schopnosti pozornosti v rámci tréningu, jedna
+časť tréningu sa skladá z pohybovej aktivity. Vďaka zvýšenej pohybovej aktivite vieme
+rozvíjať kognitívne schopnosti. Keď sme zisťovali ako sú na tom adolescenti
+
+59
+
+s pozornosťou, hodnotili sme pri (T52) tri indikátory a počet správne vyriešených úloh,
+počet chybne označených a pomer medzi správne a chybne označenými. V týchto testoch
+skupina pohybovo aktívnych dievčat zaznamenala lepšie výsledky mediánu len pri
+indikátore počet správne vyriešených úloh, ostatné dva indikátory v rámci výsledkov
+mediánu boli rovnaké. V skupine chlapcov pohybovo aktívny dosiahli z hľadiska mediánu
+lepšie výsledky v indikátoroch počet správne vyriešených a v pomere medzi správne
+vyriešenými a chybne označenými. Dokonca v rovnakom teste v indikátore počet chybne
+označených boli na tom lepšie pohybovo neaktívny chlapci. V rámci štatistickej
+významnosti sa ani v skupine dievčat a ani v skupine chlapcov nebola významnosť. Gapin
+et al. (2011) sú názoru tohto, že v súčasnosti je dobre zdokumentovaný pozitívny vplyv
+pohybovej aktivity na kognitívne funkcie zdravej populácie detí. Pri testovaní vizuálnej
+pamäti v indikátore prepočtu na hrubé skóre, z pohľadu mediánu sme pri dievčatách zistili
+lepšie výsledky pri pohybovo neaktívnych. Skupina chlapcov z hľadiska mediánu mala
+lepšie výsledky skupina pohybovo aktívnych. Štatistická významnosť sa v malej miere
+potvrdila pri skupine dievčat. Pri skupine chlapcov nebola potvrdená štatistická
+významnosť. V rámci kognitívno – motoríckych schopnosti Valová a kol. (2013) uvádzajú,
+že obmedzenie pohybovej aktivity v detskom veku alebo vo veku adolescencie napomáha
+k zhoršeniu motorických schopností už v dospelom veku u bežnej populácie. Pri testovaní
+priemernej reakcie na podnet v teste Divided attention kde sme hodnotili čas reakcie sme
+zistili lepšie výsledky z hľadiska mediánu pri skupine pohyhobo aktívnych dievčatách
+a keď sme testovali chlapcov výsledky boli rovnaké. Štatistická významnosť sa v tomto
+teste nepotvrdila. V tom istom teste sme sledovali aj parameter chybovosť, tá bola v oboch
+skupinách aj u chlapcov aj u dievčat z hľadiska mediánu rovnaká a výsledky sa rovnali.
+Štatistická významnosť nebola rovnako potvrdená v oboch skupinách v rámci chlapcov
+a dievčat. Měkota - Novosad (2005) hovoria o dôležitosti pohybovej aktivity, hlavne
+realizácia pohybového výkonu, ktorý zabezpečuje lepší výkon aj u motorických
+schopností. Test Hawk eye na poukazuje na vnímanie vizuálnych stimulov vo svojom
+periférnom zornom poli pri hodnotení chybovosti a porovnaní mediánu v tomto teste
+u dievčat skupina pohybovo aktívne dievčatá mala menšiu chybovosť ako pohybovo
+neaktívne, čo sa aj očakávalo. V tom istom parametri pri testovaní chlapcov v oboch
+skupinách výsledky boli rovnaké. Štatistická významnosť sa nepotvrdila ani v jednej
+skupine testovaných dievčat a chlapcov. Pri testovaní hawk eye sme sledovali aj parameter
+celkový čas na vykonanie 15 impulzov, sledovali sme rozdielnosť v rámci mediánu aj
+
+60
+
+u dievčat aj u chlapcov. Pohybovo aktívne dievčatá dokázali vykonať 15 impulzov za kratší
+čas ako pohybovo neaktívne, čo sme aj predpokladali. Presný opak sa stal u chlapcov, keď
+skupina pohybovo neaktívnych chlapcov mala lepší čas na vykonanie 15 impulzov ako
+skupina pohybovo aktívnych chlapcov. Musíme konštatovať, že tiež pri tomto testovaní sa
+nepotvrdila štatistická významnosť. Dvořáková (2011) tvrdí, že pohybové schopnosti sú
+dôležité pri rozvoji tých motorických. Pre zvládnutie pohybových schopnosti je potrebná
+pohybová aktivita, ktorá vďaka tomu napomáha rozvoji motorických schopností. V teste
+random multisymbol and multicolor kde sme sledovali parameter celkový čas na vykonanie
+15 stimulov v testovaných skupinách u dievčat, paradoxne lepší čas mali pohybovo
+neaktívne dievčatá, oproti pohybovo aktívnym pri hodnotení mediánu. U chlapcov na tom
+lepší čas mali pohybovo aktívny oproti pohybovo neaktívnym, čo sme aj predpokladali.
+Musíme konštatovať, že ani u chlapcov a ani u dievčat sa nepotvrdila štatistická
+významnosť.
+
+61
+
+ZÁVER PRÁCE
+Témou našej diplomovej práce bol vzťah pohybovej aktivity a kognitívnych schopností
+adolescentov. Cieľom našej diplomovej práce bolo zistiť na základe výskumnej činnosti
+objem vykonávanej pohybovej aktivity a jej vplyv na kognitívne funkcie v adolescentnom
+veku. Dôležitosť tejto problematiky spočíva v potvrdení či pohybová aktivita pozitívne
+súvisy s úrovňou kognitívnych a kognitívno-motorických schopností. Participanti, ktorý
+boli testovaný sú v adolescentnom veku od 10 – 15 rokov. Výskumu sa zúčastnili aj chlapci
+aj dievčatá. Pomocou PAQ - A dotazníka na zistenie pohybovej aktivity, sme zistili, že viac
+participantov bolo pohybovo neaktívnych ako pohybovo aktívnych.
+Na základe nášho výskumu sme vyhodnotili tieto závery a odporúčania pre športovú
+a trénerskú prax:
+V našom výskume sa hypotéza 1 predpokladajúca vyššiu úroveň kognitívnych
+schopnosti u pohybovo aktívnej mládeže sa nepotvrdila. Výsledky mediánov v niektorých
+prípadoch neboli v prospech pohybovo aktívnej mládeže, preto túto hypotézu musíme
+zamietnuť. Treba tak isto podotknúť, že sa nejednalo ani o štatistickú významnosť, tá sa
+potvrdila len v malej miere a to pri teste vizuálnej pamäti v skupine dievčat.
+Hypotéza 2 predpokladajúca vyššiu úroveň kognitívno-motorických schopností
+u pohybovo aktívnej mládeže sa rovnako ako hypotéza 1 nepotvrdila. Z hľadiska
+výsledkov mediánov sa mediány pri testovaných skupinách pohybovo aktívnych
+a pohybovo neaktívnych adolescentov rovnali alebo pohybovo neaktívny dosiahli lepšie
+výsledky. Tiež sa nemôžeme na základe týchto výsledkov prikloniť k tomu, že pohybová
+aktivita nepomáha k lepším výkon pri kognitívno-motorických schopnostiach lebo
+štatistická významnosť nebola potvrdená ani v jednom prípade.
+Dôvodov prečo sa hypotézy aj na známe fakty nepotvrdili môže byť viacero, jedno
+z nich môže byť malý počet testovaných osôb v skupine pohybovo aktívnych aj pohybovo
+neaktívnych. Jeden z faktov môže byť aj zle rozdelenia do skupín pohybovo aktívnych
+a pohybovo neaktívnych pomocou dotazníka PAQ - A, ktorý skúma a hodnotí pohybovú
+aktivitu len na základe posledných 7 dní. Tiež pri testovaní kognitívno-motorických
+62
+
+schopností bol hodnotení vystavený najnižšej obťažnosti v teste, preto na dostatočný
+úspech v testoch mohla stačiť aj nízka úroveň pohybových aktivít a posledný dôvod môže
+byť nedostatočná motivácia pri vykonávaní testov.
+Výskum pri sledovaní tejto výskumnej problematiky sa môže uberať rôznymi smermi:
+-
+
+Odporúčam realizovať testovanie kognitívno-motorických schopností pri vyššej
+obťažnosti testovania. Pri vyššej obťažnosti nemusí stačiť nízka úroveň pohybovej
+aktivity.
+
+-
+
+Otestovanie väčšej skupiny participantov.
+
+-
+
+Na zistenie pohybovej aktivity využiť priame metódy ako napríklad krokomery,
+actigraph.
+
+63
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+AMBLER, Z., 2011. Základy neurologie. Praha: Lekérska Fakulta. ISBN 9788072627073.
+anon., 2006. Mozek a kognitivní funkce. Josef Syka, Ústav experimentální medicíny
+BEBČÁKOVÁ,V. a kol., 2012. Pohybová aktivita v životnom štýle 14-ročných žiakov
+Prešovského regiónu. Prešov: Prešovská univerzita v Prešove. ISBN: 978-80-555-06519
+BENÍTEZ-PORRES, Javier, 2016. Cut-off values for classifying active children and
+adolescentes using the Physical Activity Questionnaire: PAQ-C and PAQ-A. Nutrición
+Hospitalaria [online]. 2016, roč. 33, č. 5 [cit. 8.4.2024]. Dostupné na:
+doi:10.20960/nh.564
+BIELIK,V., 2017. Zhoršovanie telesnej zdatnosti detí a mládeže nemá vplyv len na
+športový výkon. In: Pediatria pre prax [online]. 2017, roč. 18, č. 3, s. 96-98 [cit.
+10.06.2024].
+
+Dostupné
+
+na:
+
+doi:
+
+https://www.solen.sk/storage/file/article/22523f1887128e4ca1c497d3c95d001d.pdf
+BLÁHA, L. et al., 2013. Selected indicators of physical activities and inactivities of
+persons with visual impairments. In: Tělesná kultura [online]. 2013, roč. 36, č. 2, s. 21–
+45 [cit. 14.11.2023]. ISSN 18038360. Dostupné na: doi:10.5507/tk.2013.008
+BLAIR, S. N., 2007. Physical inactivity: a major public health problem. In Nutrition
+Bulletin [online]. 2007, roč. 32, č. 2, s. 113–117 [cit. 13.11.2023]. ISSN 1467-3010.
+Dostupné na: doi:10.1111/j.1467-3010.2007.00632.x
+BOUCHARD,C. et al., 2012. Physical activity and health. 2nd ed. Champaign, IL: Human
+Kinetics. ISBN 9780736095419.
+BRUSSEAU,T. et al., 2013. Are children meeting any of the suggested daily step
+recommendations? In: Biomedical Human Kinetics [online]. 2013, roč. 5, č. 1, s. 11–
+16 [cit. 13.11.2023]. ISSN 2080-2234. Dostupné na: doi:10.2478/bhk-2013-0003
+BUNTOVÁ, Dana a MOCSÁRI, Kristína. 2019. Phonological disorders and diagnostics in
+slovak conditions. In: Listy klinické logopedie [online]. 2019, roč. 3,č. 1, s. 3–7 [cit.
+14.11.2023]. Dostupné na: doi:10.36833/lkl.2019.002
+BURNS, J. M. et al., 2008. Cardiorespiratory fitness and brain atrophy in early Alzheimer
+disease. Neurology. In: Neurology Journals [online]. 2008, vol. 71, no. 3, pp. 210–216
+[cit. 22.4.2024]. Dostupné na: doi:10.1212/01.wnl.0000317094.86209.cb
+
+64
+
+COHEN, J., 1988. Set Correlation and Contingency Tables. In Applied Psychological
+Measurement [online]. 1988, vol. 12, no. 4, pp.. 425–434 [cit. 29.4.2024]. Dostupné
+na: doi:10.1177/014662168801200410
+ČAČKA, Otto, 2000. Psychologie duševního vývoje dětí a dospívajících s faktory
+optimalizace. Brno: Doplněk. ISBN 9788072390601.
+DE MOOR, M. et al., 2006. Regular exercise, anxiety, depression and personality: A
+population-based study. In: Preventive Medicine [online]. 2006, vol. 42, no. 4, pp.
+273–279
+
+[cit.
+
+13.11.2023].
+
+ISSN
+
+00917435.
+
+Dostupné
+
+na:
+
+doi:10.1016/j.ypmed.2005.12.002
+DVOŘÁKOVÁ, Hana, 2011. Pohybem a hrou rozvíjíme osobnost dítěte. Praha: Portál.
+ISBN 978-80-7367-819-7.
+EISSA,M. et al., 2007. The Relationship of Ambulatory Blood Pressure to Physical
+Activity in a Tri-Ethnic Population of Obese and Nonobese Adolescents. In: American
+Journal of Hypertension [online]. 2007, vol. 20, no. 2, pp. 140–147 [cit. 13.11.2023].
+ISSN 08957061. Dostupné na: doi:10.1016/j.amjhyper.2006.07.008
+GAPIN,I. et al., 2011. The effects of physical activity on attention deficit hyperactivity
+disorder symptoms: In: The evidence. Preventive Medicine [online]. 2011, vol. 52, pp.
+70–74 [cit. 10.6.2024]. Dostupné na: doi:10.1016/j.ypmed.2011.01.022
+GRAF,Ch. et al., 2014. Recommendations for Promoting Physical Activity for Children
+and Adolescents in Germany. A Consensus Statement. In: Obesity Facts [online].
+2014, vol. 7, no. 3, pp. 178–190 [cit. 14.11.2023]. ISSN 1662-4033. Dostupné na:
+doi:10.1159/000362485
+HAGOVSKÁ, M, 2016. Hodnotenie efektu tréningu kognitívnych funkcií v kombinácii s
+pohybovým programom u seniorov s miernym kognitívnym deficitom: habilitačná
+práca. Brno: Masarykova Univerzita v Brne.
+KALMAN,M. a kol., 2009. Podpora pohybové aktivity: pro odbornou veřejnost. Olomouc:
+ORE-institut. ISBN 9788025459652.
+KLUCKÁ, Jana a VOLFOVÁ, Pavla 2016. Kognitivní trénink v praxi. 2., rozšířené vydání.
+Praha: Grada. Psyché. ISBN 9788024755809.
+KOMPÁN,J. a kol., 2010. Vedy o športe. Ústi nad Labem: PF Univerzita J. E. Purkyně.
+ISBN 978-80-7414274-1
+KOVÁČOVÁ,N. a kol., 2018. Pohybové aktivity a životospráva ako indikátory životného
+štýlu adolescentov. In: Zborník vedeckých prác 2018 v Nitre. Nitra: Univerzita
+
+65
+
+Konštantína Filozofa v Nitre Pedagogická fakulta, 2018. ISBN: 978-80-558-1301-1,
+s. 59-68.
+KOWALSKI,K. et al., 2004. The Physical Activity Questionnaire for Older Children
+(PAQ-C) and Adolescents (PAQ-A) Manual. Saskatoon: University of Saskatchewan.
+S7N 5B2
+KLUCKÁ, Jana a VOLFOVÁ, Pavla 2016. Kognitivní trénink v praxi. 2., rozšířené vydání.
+Praha: Grada. Psyché. ISBN 9788024755809.
+KULIŠŤÁK, Petr, 2011. Neuropsychologie. 2., aktualiz. a přeprac. Praha: Portál. ISBN
+9788073678913.
+MANDIGOUT,S. et al., 2007. Effect of two aerobic training regimens on the
+cardiorespiratory response of prepubertal boys and girls. In: Acta Paediatrica [online].
+2007, vol. 91, no. 4, pp. 403–408 [cit. 14.11.2023].ISSN 08035253.plo Dostupné na:
+doi:10.1111/j.1651-2227.2002.tb01662.x
+MARCUS,B. et al., 2010. Psychologie aktivního způsobu života: motivace lidí k
+pohybovým aktivitám. Praha: Portál. ISBN 9788073676544.
+MĚKOTA, Karel a NOVOSAD, Jiří. 2005. Motorické schopnosti. Olomouc: Univerzita
+Palackého. ISBN 80-244-0981-X.
+MOTL, R. W., 2004. Naturally Occurring Changes in Physical Activity Are Inversely
+Related to Depressive Symptoms During Early Adolescence. In: Psychosomatic
+Medicine [online]. 2004, vol. 66, no. 3, pp. 336–342 [cit. 13.11.2023]. ISSN 15347796. Dostupné na: doi:10.1097/01.psy.0000126205.35683.0a
+PARGAMENT,K. et al., 2013. APA handbook of psychology, religion, and spirituality.
+In: Context, theory, and research, vol. I, Washington. ISBN 9781433810794.
+PAVLÍK,V. et al., 2017. Significance and Physical Activity Options in the Armed Forces
+of the Czech RepublicZdravotní efekt zákazu kouření cigaret na veřejnosti ve
+Švýcarsku. In: Hygiena [online]. 2017, roč. 62, č. 3, s. 94–98 [cit. 13.11.2023]. ISSN
+18031056. Dostupné na: doi:10.21101/hygiena.a1542
+PLHÁKOVÁ, Alena, 2004. Učebnice obecné psychologie. Praha: Academia. ISBN
+9788020010865.
+PLOUGHMAN, Michelle, 2008. Exercise is brain food: The effects of physical activity on
+cognitive function. In: Developmental Neurorehabilitation [online]. 2008, vol. 11, no.
+3,
+
+pp.
+
+236–240
+
+[cit.
+
+20.11.2023].
+
+doi:10.1080/17518420801997007
+
+66
+
+ISSN
+
+1751-8431
+
+Dostupné
+
+na:
+
+ŘÍČAN, Pavel, 1990. Cesta životem. Praha: Panorama. Pyramida. Encyklopedie. ISBN
+9788070380789.
+RODRÍGUEZ-ROMO, G. et al., 2015. Relaciones entre Actividad Física y Salud Mental
+en la Población Adulta de Madrid. In: Revista de Psicología del Deporte. ISSN: 1132239X, 2015, vol. 24, no. 2, pp. 233-239.
+SHAFFER, David R. a Katherine KIPP, 2010. Developmental psychology: childhood and
+adolescence.
+
+CA:
+
+Wadsworth
+
+Cengage
+
+Learning.
+
+ISBN
+
+9780495601715
+
+9780495596882.
+SIGMUND, Erik a SIGMUNDOVÁ, Dagmar. 2011. Pohybová aktivita pro podporu
+zdraví dětí a mládeže. Olomouc: Univerzita Palackého v Olomouci. ISBN:
+9788024428116
+SIGMUNDOVÁ, Dagmar a SIGMUND, Erik. 2015. Trendy v pohybovém chování českých
+dětí
+
+a adolescentů.
+
+Olomouc:
+
+Univerzita
+
+Palackého
+
+v
+
+Olomouci.
+
+ISBN
+
+9788024448398 9788024448404.
+SLEPIČKOVÁ, Irena, 2005. Sport a volný čas: vybrané kapitoly. Praha: Karolinum. ISBN
+9788024610399.
+STEJSKAL, Pavel, 2004. Proč a jak se zdravě hýbat. Břeclav: Presstempus. ISBN
+9788090335028.
+STERNBERG, Robert, 2016. Cognitive psychology. Boston, MA: Cengage Learning.
+ISBN 9781305644656.
+SVOBODA, M. a kol., 2021. Psychodiagnostika dětí a dospívajícich. Praha: PORTÁL,
+s.r.o.. ISBN 978-80-262-1851-7.
+ŠEBEŇA, R. 2021. METÓDY EXPERIMENTÁLNEJ PSYCHOLÓGIE Návody na cvičenia
+z kognitívnej psychológie. Košice: Univerzita Pavla Jozefa Šafárika, 2021. 132 s. ISBN
+978-80-574-0071-4.
+ŠIMONEK, J. st., 2000. Pohybová aktivita v živote súčasného človeka. Pohybová aktivita
+žien, 23-65.
+TELAMA,R. et al., 2006. Participation in Organized Youth Sport as a Predictor of Adult
+Physical Activity: A 21-Year Longitudinal Study. In: Pediatric Exercise Science
+[online]. 2006, vol. 18, no. 1, pp. 76–88 [cit. 14.11.2023]. ISSN 1543-2920. Dostupné
+na: doi:10.1123/pes.18.1.76
+
+67
+
+TOD,D et al, 2010. Sport psychology. New York: Palgrave Macmillan. Palgrave insights
+in psychology. ISBN 9780230249875.
+TLUČÁKOVÁ, Lenka a KAČÚR, Peter. 2019. Pohybová aktivita a telesná zdatnosť
+adolescentov prešovského regiónu. Prešov: Fakulta športu PU v Prešove. ISBN: 97880-555-2394-1.
+TREMBLAY,M. et al., 2016. Canadian 24-Hour Movement Guidelines for Children and
+Youth: An Integration of Physical Activity, Sedentary Behaviour, and Sleep. In:
+Applied Physiology, Nutrition, and Metabolism [online]. 2016, vol. 41, no. 6, pp.
+S311–S327 [cit. 14.11.2023]. ISSN 1715-5320. Dostupné na: doi:10.1139/apnm2016-0151
+TUDOR-LOCKE,C. et al., 2011. How many steps/day are enough? for children and
+adolescents. In International Journal of Behavioral Nutrition and Physical Activity
+[online]. 2011, vol. 8, no. 1, pp. 78 [cit. 13.11.2023]. ISSN 1479-5868. Dostupné na:
+doi:10.1186/1479-5868-8-78
+VÁGNEROVÁ, Marie, 2012. Vývojová psychologie: detství a dospívání. Praha:
+Karolinum. ISBN 9788024628462.
+VALACH,P. et al., 2017. Physical activity and sport preferences of West Bohemian
+adolescents. In: Tělesná kultura [online]. 2017, roč. 40, č. 1, s. 45–53 [cit. 12.11.2023].
+ISSN 18038360. Dostupné na: doi:10.5507/tk.2017.003
+VALOVÁ,M. a kol., 2017. Srovnání koordinačních schopností a množství pohybové
+aktivity dívek městskcýh a vesnických základních škol. In: The Scientific Journal for
+Kinanthropology [online]. 2017, roč. 14, č. 3, s. 231 – 236 [cit. 10.06.2024]. Dostupné
+na: https://sk.pf.jcu.cz/pdfs/stk/2013/03/11.pdf
+VINET,A. et al., 2002. Cardiovascular Responses to Progressive Cycle Exercise in Healthy
+Children and Adults. In: International Journal of Sports Medicine [online]. 2002, vol.
+23, no. 4, pp. 242–246 [cit. 14.11.2023]. ISSN 14393964. Dostupné na: doi:10.1055/s2002-29076
+VUORI,I., 2004. Psysical inactivity is a cause and physical activity is a remedy for major
+public health problems. In: UKK Institute for Health Promotion Research. vol. 36. no.
+2. pp. 123-153.
+WORLD HEALTH ORGANIZATION. 2023 10 Keyfacts on Physical Activity in the
+WHO
+
+European
+
+Region.
+
+Retrieved
+
+24.11.2023.
+
+[https://www.who.int/news-room/fact-sheets/detail/physical-activity]
+
+68
+
+Dostupné
+
+z
+
+WORLD HEALTH ORGANIZATION, ed., 2001. International classification of
+functioning, disability and health: ICF. Geneva: World Health Organization. ISBN
+9789241545426.
+ZACHAROVÁ,E., 2012. Základy vývojové psychologie. Ostrava: Ostravská univerzita
+v Ostravě. ISBN 978-80-7464-220-3.
+
+69
+
+Analytický list
+Autor:
+
+Bc. Martin Činčár
+
+Názov práce:
+
+Vzťah
+
+pohybovej
+
+aktivity
+
+a kognitívnych
+
+schopností
+
+adolescentov
+Jazyk práce:
+
+Slovenský
+
+Typ práce:
+
+Diplomová práca
+
+Nadobúdaný
+akademický titul:
+
+Magister
+
+Počet strán:
+
+70 s.
+
+Univerzita:
+
+Prešovská univerzita v Prešove
+
+Fakulta:
+
+Fakulta športu
+
+Katedra:
+
+Katedra edukológie športov
+
+Študijný odbor:
+
+Vedy o športe
+
+Študijný program:
+
+Šport pre zdravie
+
+Mesto:
+
+Prešov
+
+Vedúci práce:
+
+Mgr. Pavol Čech, PhD., univer. doc.
+
+Dátum odovzdania:
+
+14. 06. 2024
+
+Dátum obhajoby:
+
+August 2024
+
+Kľúčové slová v SJ:
+
+Witty Sem Agility. Vizuálna pamäť. Psychologické testy.
+Kognitívno-motorické testy. Športová činnosť.
+
+Názov práce v AJ:
+
+The relationship of physical activity and cognitive abilities in
+adolescents
+
+Kľúčové slová v AJ:
+
+Witty Sem Agility. Visual memory. Psychological tests.
+Cognitive-motor tests. Sports activity.
+
+

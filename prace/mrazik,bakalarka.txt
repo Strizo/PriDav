@@ -1,0 +1,1308 @@
+VYSOKÁ ŠKOLA DTI
+
+KYBERŠIKANA ADOLESCENTOV A MOŽNOSTI
+JEJ RIEŠENIA
+
+BAKALÁRSKA PRÁCA
+
+2022
+Miloš Mražik
+
+VYSOKÁ ŠKOLA DTI
+
+KYBERŠIKANA ADOLESCENTOV A MOŽNOSTI
+JEJ RIEŠENIA
+
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+Učiteľstvo praktickej prípravy
+
+Študijný odbor:
+
+Učiteľstvo a pedagogické vedy
+
+Vedúci práce:
+
+PhDr. Mária Kuklicová, MBA
+
+Dubnica nad Váhom 2022
+Miloš Mražik
+
+Vysoká škola DTI
+DTI University
+Sládkovičova 533/20, 018 41 Dubnica nad Váhom, Slovakia
+
+ZADANIE BAKALÁRSKEJ PRÁCE
+
+Meno a priezvisko študenta: Miloš Mražik
+Názov bakalárskej práce:
+
+Kyberšikana adolescentov a možnosti jej riešenia
+
+Akademický rok: 2021/2022
+
+Anotácia:
+Bakalárska práca sa venuje patologickému javu kyberšikany ako novej špecifickej
+formy šikany adolescentov. Cieľom práce je kyberšikanu definovať, poukázať na jej
+znaky, možnosti prevencie a riešenia. Popisuje výskyt kyberšikany u žiakov vybraných
+stredných škôl.
+
+Vedúca bakalárskej práce: PhDr. Mária Kuklicová, MBA
+
+prof. PaedDr. Tomáš Lengyelfalusy, PhD.
+rektor
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že túto bakalársku prácu som vypracoval samostatne na základe
+vlastných teoretických a praktických poznatkov, štúdia a použitia publikačných a iných
+zdrojov uvedených v zozname na konci práce.
+
+V Dubnici nad Váhom, dňa 22.4.2022
+
+...................................
+podpis študenta
+
+Poďakovanie
+Moje poďakovanie patrí mojej školiteľke, PhDr. Márii Kuklicovej, MBA za odborné
+vedenie, trpezlivosť a ochotu, ktorú mi venovala v priebehu spracovania bakalárskej práce.
+Taktiež by som sa rád poďakoval všetkým žiakom, ktorí sa ochotne podieľali na vypĺňaní
+dotazníka a ich triednym učiteľom, ktorí pomohli s distribúciou dotazníkov.
+
+Abstrakt
+MRAŽIK, Miloš: Kyberšikana adolescentov a možnosti jej riešenia. [Bakalárska práca].
+Vysoká škola DTI. Vedúca práce: PhDr. Mária Kuklicová, MBA . Stupeň odbornej
+kvalifikácie: Bakalár. - Dubnica nad Váhom: VŠ DTI, 2022. 47 s. a 1 príloha.
+Bakalárska práca sa zaoberá problematikou kyberšikany u adolescentov. Práca je rozdelená
+na teoretickú a praktickú časť. V teoretickej časti je popísaná kyberšikana ako špecifická
+forma šikany, možnosti jej prevencie a riešenia. Praktická časť obsahuje dotazníkový
+prieskum medzi žiakmi stredných škôl.
+Kľúčové slová: kyberšikana, šikana, obeť, agresor, informačné technológie
+
+Abstract
+MRAŽIK, Miloš: Cyberbullying Among Adolescents and Possible Solutions. [Bachelor´s
+Thesis]. DTI University. Supervisor: PhDr. Mária Kuklicová, MBA. Degree of Qualification:
+Bachelor of pedagogy. Dubnica nad Vahom: VS DTI, 2022. 47 p. 1 page appendix.
+
+This bachelor thesis targets the problematics of cyberbullying among adolescents. This thesis
+consists of theoretical and practical part. The theoretical part introduces cyberbullying as
+a specific form of traditional bullying and its possible forms of prevention and solutions. The
+practical part consists of survey among high school students using questionnaires.
+
+Key words: cyberbullying, bullying, victim, aggressor, information technology
+
+OBSAH
+ZOZNAM GRAFOV..............................................................................................................................8
+ZOZNAMA SKRATIEK.......................................................................................................................9
+ÚVOD.....................................................................................................................................................10
+Teoretická časť
+1 ŠIKANA..........................................................................................................................................11
+1.1 Definícia šikany......................................................................................................11
+1.2 Formy šikany..........................................................................................................12
+1.3 Príčiny šikany.........................................................................................................12
+1.4 Účastníci šikany......................................................................................................13
+1.5 Čo nie je šikana ...................................................................................................13
+2
+
+KYBERŠIKANA U ADOLESCENTOV...................................................................................15
+2.1 Definícia kyberšikany.............................................................................................15
+2.2 Definícia adolescencie............................................................................................16
+2.3 Rozdiel medzi šikanou a kyberšikanou..................................................................17
+2.4 Prostriedky a formy kyberšikany............................................................................18
+2.5 Dôsledky kyberšikany............................................................................................20
+
+3
+
+PREVENCIA KYBERŠIKANY A MOŽNOSTI JEJ RIEŠENIA..........................................22
+3.1 Prevencia šikany a kyberšikany..............................................................................22
+3.2 Riešenie šikany a kyberšikany................................................................................24
+3.3 Legislatívne poňatie šikany a kyberšikany.............................................................25
+
+Praktická časť
+4
+
+METODOLÓGIA........................................................................................................................27
+4.1 Ciele prieskumu......................................................................................................27
+4.2 Metódy prieskumu..................................................................................................27
+4.3 Charakteristika vzorky............................................................................................28
+4.4 Organizácia prieskumu, zber a spracovanie údajov...............................................28
+
+5
+
+VÝSLEDKY.................................................................................................................................29
+5.1 Vyhodnotenie dotazníkov.......................................................................................29
+5.2 Celkové vyhodnotenie............................................................................................41
+5.3 Odporúčania pre prax.............................................................................................41
+
+ZÁVER..................................................................................................................................................42
+ZOZNAM POUŽITÝCH PUBLIKAČNÝCH ZDROJOV...............................................................43
+PRÍLOHY..............................................................................................................................................46
+
+ZOZNAM GRAFOV
+Graf 1: Pohlavie respondentov – gymnázium..........................................................................29
+Graf 2: Pohlavie respondentov – SOŠ.....................................................................................30
+Graf 3: Vek respondentov – gymnázium.................................................................................30
+Graf 4: Vek respondentov – SOŠ.............................................................................................31
+Graf 5: Znalosť kyberšikany – gymnázium.............................................................................31
+Graf 6: Znalosť kyberšikany – SOŠ.........................................................................................31
+Graf 7: Miesto stretnutia s kyberšikanou – gymnázium..........................................................32
+Graf 8: Miesto stretnutia s kyberšikanou – SOŠ......................................................................32
+Graf 9: Používanie informačných technológií – gymnázium..................................................33
+Graf 10: Používanie informačných technológií – SOŠ............................................................33
+Graf 11: Obete kyberšikany – gymnázium..............................................................................34
+Graf 12: Obete kyberšikany – SOŠ..........................................................................................34
+Graf 13: Formy kyberšikany – gymnázium.............................................................................35
+Graf 14: Formy kyberšikany – SOŠ.........................................................................................35
+Graf 15: Reakcia na kyberšikanu – gymnázium.....................................................................36
+Graf 16: Reakcia na kyberšikanu – SOŠ.................................................................................36
+Graf 17: Zdôverenie sa s kyberšikanou – gymnázium.............................................................37
+Graf 18: Zdôverenie sa s kyberšikanou – SOŠ........................................................................37
+Graf 19: Oznámenie kyberšikany – gymnázium......................................................................38
+Graf 20: Oznámenie kyberšikany – SOŠ.................................................................................38
+Graf 21: Vysmievanie sa – gymnázium...................................................................................39
+Graf 22: Vysmievanie sa – SOŠ...............................................................................................39
+Graf 23: Kyberšikana ako trestný čin – gymnázium...............................................................40
+Graf 24: Kyberšikana ako trestný čin – SOŠ...........................................................................40
+
+8
+
+ZOZNAM SKRATIEK A ZNAČIEK
+a kol.
+
+a kolektív
+
+atď.
+
+a tak ďalej
+
+et al.
+
+et alii
+
+a pod.
+
+a podobne
+
+CAWI
+
+Computer Assisted Web Interviewing
+
+č.
+
+číslo
+
+MŠMT
+
+Ministerstvo školství, mládeže a tělovýchovy
+
+napr.
+
+napríklad
+
+SMS
+
+Short Message Service
+
+SOŠ
+
+stredná odborná škola
+
+USA
+
+United States of America
+
+Z. z.
+
+Zbierka zákonov
+
+&
+
+ampersand
+
+§
+
+paragraf
+
+%
+
+percento
+
+9
+
+ÚVOD
+Svet aj naša spoločnosť sa vyvíja exponenciálnou rýchlosťou v každej svojej oblasti.
+Niektoré pokroky vnímajú len určité skupiny ľudí, iné sa týkajú v rôznej miere každého z nás.
+Informačné technológie zažili posledné dve desaťročia obrovský pokrok nie len vo vyspelých
+krajinách, priniesli nové možnosti, výhody ale aj úskalia. Fenomén kyberšikany je
+patologický sociálny jav, špeciálny druh šikany, ktorý spolu s informačnými technológiami
+ako prostriedkami elektronickej komunikácie
+
+dostáva stále viac priestoru. Výskum
+
+kyberšikany je v porovnaní so skúmaním tradičnej šikany vo svojich začiatkoch a v našej
+práci sa snažíme tomuto javu hlbšie porozumieť.
+Kyberšikana v porovnaní s tradičnou šikanou nie je viazaná na priestor ani čas, môže
+prebiehať kedykoľvek a kdekoľvek a život bez počítača alebo mobilného telefónu si v dnešnej
+dobe dokáže predstaviť len málokto. Generačný rozdiel pri používaní informačných
+technológií je znateľný a sťažuje prevenciu kyberšikany rodičom aj pedagógom, ktorí
+s dnešnými technológiami nevyrastali. Veľká časť virtuálneho sveta, ktorá je mladšej
+generácii tak prirodzená zostane bez záujmu a vzdelávania pre mnohých rodičov a pedagógov
+neznámym miestom.
+V našej teoreticko-empirickej práci sa venujeme kyberšikane u adolescentov avšak
+tento druh šikany sa vyskytuje všade tam kde ľudia využívajú informačné technológie ako
+formu interakcie a komunikácie. V teoretickej časti našej práce sa venujeme charakteristike
+tradičnej šikany a kyberšikany ako jej novej špecifickej formy, ktorá je od nej neodlučiteľná
+a v mnohých prípadoch z nej priamo vychádza. Popisujeme rozdiely medzi nimi, možné
+príčiny jej vzniku, dopady a formy prevencie, ktoré by mal ovládať každý rodič a pedagóg.
+Praktická časť je venovaná kvantitatívnemu prieskumu dotazníkovou metódou. Náš
+prieskum bol zameraný na zistenie výskytu kyberšikany u žiakov 3. ročníka gymnázia
+a strednej odbornej školy s maturitou.
+Hlavným cieľom našej práce je zhodnotiť výskyt kyberšikany u žiakov vyššie
+uvedených škôl. Zároveň sa snažíme zistiť najčastejšie formy a prostriedky kyberšikany, s
+ktorými sa opýtaní žiaci stretli. Zaujímala nás aj reakcia na kyberšikanu z pozície obete
+a svedka.
+V závere našej práce prezentujeme zhrnutie a výsledky, ktoré sme vyhodnotili zo
+získaných dát.
+10
+
+1 ŠIKANA
+1.1 Definícia šikany
+Slovo šikana má svoj pôvod vo francúzskom slove chizane. Prekladá sa ako
+zlomyseľné obťažovanie, týranie, prenasledovanie, či byrokratické trvanie na litere predpisov
+napr. voči podriadeným alebo občanom, ktoré sa prejavuje tým, že šikanujúci úradníci
+zbytočne vyžadujú stále nové potvrdenia, nechávajú ľudí bezúčelne čakať a pod. (Říčan,
+1995).
+Pojem šikana označuje dej ubližovania osobe, ktorá sa nevie alebo nedokáže účinne
+brániť. O šikane hovoríme vtedy keď sa jedná o opakované jednanie, vo veľmi závažných
+prípadoch sa za šikanovanie označuje aj jednorazové jednanie s hrozbou opakovania. Vzťah
+moci medzi obeťou a agresorom je asymetrický (Říčan, 2010). Táto asymetria sa môže
+prejavovať na úrovni fyzickej, psychickej a pod., pričom môže mať veľké množstvo podôb
+a foriem (Due a kol., 2005; Harel-Fisch a kol., 2011 In: Sarková, 2013). Medzi ďalšie znaky
+šikany patrí zámernosť.
+Šikanu môžeme charakterizovať aj ako patologické chovanie, ktorého súčasťou je
+agresivita a to ako jednotlivca tak skupiny. Podoba šikany sa mení spolu s vývojom
+spoločnosti a stretnúť sa s ňou môžeme vo všetkých fázach života. Nachádza sa medzi
+súrodencami, v škôlkach a školách (bullying), v zamestnaní (mobbing), v partnerských
+vzťahoch (domestic violence), týka sa aj týrania seniorov v rodine alebo domove dôchodcov
+(Kolář, 2001). V dnešnej dobe sa stále viac stretávame so špecifickým druhom šikany a to
+kyberšikanou.
+Vo vedeckom zmysle pojem šikany vytvoril nórsky bádateľ Dan Olweus (1978), ktorý
+sa zaoberal agresivitou medzi školákmi. Patrí mu tiež autorstvo metódy určenej ku zisťovaniu
+výskytu šikany u školských detí
+
+a dospievajúcich. Empirický výskum
+
+šikany sa
+
+v osemdesiatych rokoch zameriaval najmä na fyzickú agresiu. V dnešnej dobe sa do popredia
+dostáva aj nepriama šikana a sociálne vylúčenie, ktoré nie sú o nič menej nebezpečné a
+škodlivé (Janošová, 2016).
+
+11
+
+1.2 Formy šikany
+Doba informačných technológii ako komunikačných prostriedkov priniesla novú
+formu šikanovania, kyberšikanu. Tento novodobý fenomén sa dostáva do popredia stále vo
+väčšej miere avšak výskumov kyberšikany v porovnaní s výskumom tradičného šikanovania
+je podstatne menej. Kyberšikana často vychádza zo situácii, ktoré jej účastníci prežívajú
+v reálnom živote a prenášajú ich do virtuálneho priestoru. Môže sa jednať o pokračujúcu
+šikanu na internete ale dáva priestor aj obeti reagovať na útočníka spôsobom, ktorý by si
+v reálnom živote nemohol dovoliť. Tradičná šikana môže mať niekoľko foriem ako napr.
+fyzické ubližovanie, verbálne útoky, či sociálne vylučovanie.
+,,Šikanovanie má nespočetné formy a podoby priameho i nepriameho násilia. Na našich
+školách je najčastejšie psychické a sociálne šikanovanie, ako zámerné vyčleňovanie
+z kolektívu triedy, ponižovanie, zastrašovanie a vyhrážanie. Na druhom mieste je fyzické
+šikanovanie, ako telesné napadnutie, bitky a ubližovanie a nepriama brachiálna agresia vo
+forme krádeží, poškodzovania, ničenia a násilného vymáhania rôznych vecí. Časť žiakov sa
+stretla so sexuálnym obťažovaním, požadovaním plnenia rôznych nezmyselných príkazov
+a psychickou manipuláciou – vydieraním a vynucovaním potravín a peňazí. Dievčatá, ktoré sa
+so šikanou stretávajú častejšie než chlapci, bývajú viac terčom ponižovania, urážok, prejavov
+nepriamej agresie ako ohováranie, psychické ubližovanie, výsmech a pod. a prejavov agresie
+vo forme ignorovania, vylučovania z kolektívu. Chlapci sa viac stávajú obeťami fyzického
+šikanovania – priamej brachiálnej agresie vo forme bitky, využívania fyzickej prevahy,
+navádzanie iných spolužiakov, aby obeti ubližovali, ničenia školských pomôcok a zabránenia
+v dosahovaní cieľa.“ (Paľovčíková, 2018, s.74)
+
+1.3 Príčiny šikany
+Hlavným dôvodom, kvôli ktorému sa jedinec môže stať obeťou šikanovania je
+akákoľvek odlišnosť od skupiny a kolektívu, v ktorom sa nachádza. Podľa Sarkovej (2013)
+môžeme zdroje šikany zaradiť do niekoľkých kategórií:
+•
+
+Socio-ekonomický status rodiny - nedostatočné finančné zabezpečenie rodičov môže
+znemožniť zapájanie sa dieťaťa do skupinových aktivít akými sú školské výlety alebo
+sociálny život po škole.
+12
+
+•
+
+Farba pleti - rozdielnosť rasy, príslušnosť k inej etnickej skupine alebo minorite môže
+vytvárať kontrast s majoritnou populáciou v skupine alebo spoločnosti.
+
+•
+
+Náboženstvo - verejné a otvorené hlásenie sa ku konkrétnemu vierovyznaniu,
+náboženstvu alebo životnej filozofii môže výrazne odlíšiť jedinca zo skupiny.
+
+•
+
+Rodinná situácia - verejne známy rodinný problém akým je alkoholizmus, domáce
+násilie alebo aj neúplnosť rodiny.
+
+•
+
+Školský výkon - vymykanie sa priemeru veľmi zlým ale aj nadpriemerným prospechom,
+dobré vzťahy s pedagógmi alebo aj nadštandardný záujem o školský predmet.
+
+•
+
+Vzhľad - odlišovanie sa od priemeru výškou, váhou ale aj menej moderným oblečením,
+okuliarmi, odstávajúcimi ušami a pod.
+
+•
+
+Zdravotné znevýhodnenie - telesné, mentálne, zrakové alebo aj sluchové postihnutie.
+
+1.4 Účastníci šikany
+Hlavnými aktérmi šikanovania sú obeť, agresor a svedkovia šikany. Do akej miery
+bude šikana prebiehať, či k nej dôjde a ako skončí ovplyvňujú aj ďalší aktéri, ktorých Říčan
+(2010) rozdeľuje do ôsmych kategórií:
+1. Agresor a pomocníci
+2. Obeť
+3. Triedne publikum
+4. Zástancovia (spolužiaci, ktorí sa aktívne zastávajú obete)
+5. Pedagógovia
+6. Rodičia zúčastnených detí (agresora a obete)
+7. Miestna komunita
+8. Verejnosť (celá spoločnosť)
+
+1.5 Čo nie je šikana
+Je veľmi dôležité odlišovať šikanu od iného škodlivého chovania. Nazvať niekoho
+prezývkou, sotiť ho alebo mať argument nie je šikana ak nedochádza k opakovaniu. Aj takéto
+13
+
+chovanie má byť adresované a riešené ale dopady a intervencie, ktorými sa k takémuto
+chovaniu treba postaviť sú odlišné. Aby sme konanie mohli nazvať šikanou musia byť
+splnené základné znaky šikany a to opakovanie, asymetria sily a úmysel uškodiť. V určitých
+prípadoch za šikanu považujeme aj konanie jednorazové, pri ktorom hrozí, že sa bude
+opakovať. U kyberšikany nie je nutná podmienka asymetrie sily nakoľko anonymita internetu
+rozdiel moci medzi obeťou a agresorom zakrýva.
+Podľa Říčana (2010) bývame v pokušení zahŕňať pod pojem šikana druhy jednania,
+ktoré sú násilné alebo škodlivé ale neodpovedajú definícii šikanovania. Najčastejšie sa jedná
+o bitky medzi rovnako silnými žiakmi, krádež, ohováranie alebo vydieranie celej triedy
+skupinkou agresorov. Ohováranie môžeme považovať za formu šikany ak sa stane nástrojom
+sociálnej izolácie obete. Doberanie nepatrí medzi prejavy šikany aj keď citlivej osobe môže
+byť nepríjemné. Agresori, rodičia agresorov alebo aj pedagógovia v niektorých prípadoch
+znevažujú závažnosť šikany tým, že ju označujú za doberanie. Skúsený pedagóg ale rozozná
+rozdiel.
+
+14
+
+2 KYBERŠIKANA U ADOLESCENTOV
+Rozmach vyspelých komunikačných technológií, ktoré sa posledné dve desaťročia
+rozširujú medzi deťmi a mládežou umožňujú prejav násilia aj v elektronickej komunikácií,
+ktorý nazývame kyberšikana alebo aj kyberagresia. Kyberpriestor predstavuje množstvo
+výhod kde prostredníctvom technológií akými je internet, mobilný telefón, tablet, sociálne
+siete a maily majú mladí ľudia možnosť neustálej komunikácie a interakcie (Panáček, 2014).
+,,Vďaka dostupnosti internetu sa rapídne rozrástli sociálne siete, blogy, chat, IM (instant
+messaging, spôsob komunikácie prostredníctvom internetu, ktorá na rozdiel od e-mailov
+prebieha v danom momente, podobne ako chat, teda akýsi „písomný rozhovor“) a iné
+prostriedky komunikácie. Ako všetko pozitívne aj komunikačné technológie je možné
+zneužívať, čoho sme v posledných rokoch svedkami a čo opisuje spomínaný pojem
+kyberšikanovanie. Na rozdiel od klasického šikanovania tvárou v tvár poskytuje kyberšikana
+agresorom iné prostriedky ubližovania, ale aj špecifiká virtuálnej reality modifikujú charakter
+celého procesu šikanovania, vrátane rolí agresora a obete.“ (Gajdošová, 2015, s. 6)
+
+2.1 Definícia kyberšikany
+Kyberšikanu môžeme definovať ako šikanu, pri ktorej nie je potrebný fyzický kontakt
+obete a agresora. Útočník používa technológie ako mobilný telefón, počítač a internet kde
+útoky prebiehajú formou elektronickej komunikácie.
+Definícia kyberšikany vychádza z existujúcich definícií tzv. tradičnej šikany, ktorú
+vnímame ako agresívne, úmyselné a opakované jednanie alebo chovanie uskutočnené proti
+jednotlivcovi alebo skupine, ktorý/á sa nemôže brániť (Olweus, 1993 In: Sarková, 2013).
+Olweus ale upozorňuje, že je nutné rozlíšiť medzi šikanou a agresiou. Agresiu vníma ako
+jednorazovú záležitosť zatiaľ čo šikana je jav opakovaný a charakteristický práve
+nevyváženosťou síl medzi agresorom a obeťou.
+,,Kyberšikana zahŕňa využitie informačných a komunikačných technológií na podporu
+zámerného a opakovaného nepriateľského správania jednotlivcov alebo skupiny, ktoré ma za
+ciel ublížiť iným.“ (Gejdošová, 2015, s. 6)
+15
+
+Kolář (2011, s. 83) definuje kyberšikanovanie (cyberbullying) ako „zámerné násilné
+správanie prostredníctvom moderných komunikačných prostriedkov, predovšetkým internetu
+a mobilu... Jeden alebo viacerí žiaci úmyselne, väčšinou opakovane psychicky týrajú a
+zraňujú spolužiaka či spolužiakov a používajú k tomu novú informačnú a komunikačnú
+technológiu – najmä internet a mobil.“
+Aj keď je kyberšikana spravidla definovaná ako činnosť zámerná, môže vzniknúť aj
+nezámerne – napr. ako nevhodný vtip, ktorý sa v on-line prostredí vymkne kontrole.
+Kyberšikana je často zamieňaná s tzv. on-line obťažovaním. Termínom online obťažovanie
+označujeme jednorazové útoky, ktorých dopad je dočasný. Skutočná kyberšikana musí
+splňovať najmä kritéria opakovanosti, musí byť dlhodobá a vnímaná ako ubližujúca. Obeť sa
+útokom nedokáže účinne brániť a je prítomná nerovnováha sily (Kyberšikana, 2018).
+
+2.2 Definícia adolescencie
+Termín adolescencia charakterizuje vývojové obdobie človeka.
+Adolescencia je prechodná fáza rastu a vývoja medzi detstvom a dospelosťou. Svetová
+zdravotnícka organizácia (WHO) definuje adolescenta ako osobu vo veku 10 až 19 rokov.
+Toto vekové rozhranie spadá do definície mladých ľudí (young people) podľa WHO, kam
+patria osoby vo veku od 10 do 24 rokov. V mnohých spoločnostiach je adolescencia vnímaná
+ako pojem charakterizujúci obdobie puberty a fyzických zmien vedúcich k pohlavnej zrelosti
+(Csikszentmihalyi, 2021).
+Podľa Vágnerovej (2008) môžeme adolescentov zaradiť do obdobia dospievania.
+Obdobie dospievania je charakteristické prechodom z detstva do dospelosti. Dochádza
+k zmene osobnosti na základe biologických, psychických a sociálnych faktorov. Túto zmenu
+podmieňuje spoločnosť aj kultúra, v ktorej jedinec žije. Môžeme povedať, že dospievanie je
+súčasťou životného cyklu, v ktorom sa má jedinec vysporiadať s vlastnou psychickou,
+somatickou aj sociálnou premenou.
+
+16
+
+2.3 Rozdiel medzi šikanou a kyberšikanou
+Hlavným rozdielom medzi šikanou a kyberšikanou je priestor, v ktorom sa odohráva
+a nástroje, ktoré využíva. Kyberšikana používa informačné technológie ako prostriedky
+komunikácie a útoku. Útočník a obeť môžu byť počas útoku na rozdielnych miestach a ich
+kontakt nie je obmedzený ani na čas. Kyberšikana môže prebiehať kedykoľvek a kdekoľvek.
+Rogers (2011, s.32-33) hovorí o kyberšikane nasledovné: ,,Kybernetický svet taktiež
+predstavuje pre deti možnosti, ku ktorým by sa v reálnom svete zrejme neodvážili. Anonymita
+internetu im umožňuje šikanovať nie len svojich rovesníkov. Problém dostáva medzigeneračné
+rozmery, obeťou kyberšikany sa môžu ľahko stať aj dospelí, teda i vlastní rodičia detí
+a učitelia.“
+Kyberšikana je s tradičnou šikanou úzko prepojená avšak podľa Kopeckého (2016) má
+svoje špecifiká, ktorými sa od tradičnej psychickej či fyzickej šikany odlišuje.
+• Dosah kyberšikany a veľkosť publika
+Zo svojej podstaty má kyberšikana oproti tradičnej šikane omnoho väčší dosah,
+čo významne zhoršuje prežívanie obete. Tradičné šikanovanie sa odohráva v menšej
+skupine, napr. v triede kde je svedkom fyzických útokov, ohovárania alebo
+posmievania zväčša niekoľko desiatok ľudí. V prostredí internetu môže byť svedkov
+ale aj útočníkov až niekoľko desiatok tisíc ľudí. Tí všetci sa do kyberšikany môžu
+zapojiť a stať sa agresormi, prípadne sa zapojiť do rozširovania kyberšikany medzi
+ďalších internetových užívateľov.
+• Miesto útoku
+Pri tradičnej šikane je možné predpokladať kde a kedy k útoku dôjde, pri
+kyberšikane k útoku dochádza kedykoľvek a kdekoľvek bez nutnosti prítomnosti
+agresora a obete na rovnakom mieste.
+• Anonymita
+Agresor kyberšikany môže byť anonymný alebo skrytý za falošným menom
+a obeť veľmi často nie je schopná agresora identifikovať.
+• Čas
+Nakoľko útok prebieha najmä v prostredí internetu, dehonestujúci materiál
+môže byť rozšírený medzi stovky až tisíce užívateľov v priebehu niekoľkých minút.
+Pokiaľ sa urážlivý materiál stane virálnym (šíri sa internetom ako vírus) už ho nejde
+
+17
+
+odstrániť. Samotná kyberšikana môže prebiehať bez prestávky 24 hodín denne,
+kedykoľvek a kdekoľvek.
+• Premena agresora a obete
+Virtuálne prostredie umožňuje agresorovu anonymitu, pri ktorej sú skryté
+rozdiely medzi ľuďmi ako napr. vek, pohlavie alebo sociálne postavenie. Asymetria
+moci tu nie je zjavná a útočiť si môže dovoliť aj útočník, ktorý by mimo virtuálny
+priestor nemal dostatočné možnosti k útoku. Výsledky výskumov posledných rokov
+ukazujú, že agresormi sa stávajú aj samotné obete, ktoré sa chcú pomstiť za prežité
+utrpenie. (Kopecký, Szotkowski, & Krejčí, 2015)
+
+2.4 Prostriedky a formy kyberšikany
+Najčastejšie prostriedky, cez ktoré prebieha kyberšikana vymedzuje Rogers (2011)
+nasledovne:
+• Textové správy
+• Fotografie alebo videoklipy urobené kamerou mobilných telefónov
+• Mobilné telefóny
+• E-maily
+• Chatovacie miestnosti
+• Instant messaging
+• Sociálne siete
+• Internetové stránky
+Spomenuté prostriedky poskytujú nekonečné množstvo spôsobov, akým môže agresor
+obeť šikanovať. Mobilné telefóny poslúžia na posielanie obťažujúcich správ, opakovaných
+telefonátov alebo prezváňanie. Sociálne siete, ktoré posledné roky nadobudli ohromnú
+popularitu najmä medzi mladými ľuďmi poskytujú priestor na vyjadrovanie svojich názorov,
+zdieľanie fotografií a videí, pridávanie komentárov, vytváranie anonymných a falošných
+identít vrátane vytvorenia falošnej identity obete.
+
+18
+
+Podľa Kopeckého (2016) kyberšikana často začína ako tradičná šikana, poprípade je
+jej doprovodným javom ale môže existovať aj celkom nezávisle od tradičnej šikany.
+Spôsobov rozdelenia foriem kyberšikany je viac. Kopecký (2016) ich rozdeľuje nasledovne:
+1. Kyberšikana priama – agresor útočí na obeť priamo
+2. Kyberšikana nepriama – nazývame ju aj kyberšikana v zastúpení alebo cyberbullyingby-proxy. Obeť často nevie, že sa stala prostriedkom útoku, napr. pomsty. Agresor
+prenikne do účtu obete a šikanuje ním ostatných užívateľov, ktorí reagujú na skutočného
+majiteľa účtu.
+Ďalším spôsobom delenia kyberšikany je podľa prítomnosti publika:
+1. Kyberšikana s prítomnosťou publika – dochádza tu k rozšíreniu informácie medzi
+veľký počet užívateľov. Jedná sa napr. o publikovanie ponižujúcich záznamov obete,
+krádež identity, verbálnu formu kyberšikany. Prítomnosť publika je základnou
+súčasťou a komunikácia medzi agresorom a obeťou prebieha na verejných
+komunikačných kanáloch.
+2. Kyberšikana bez prítomnosti publika – komunikácia medzi agresorom a obeťou
+prebieha prostredníctvom súkromných komunikačných kanálov. Často dochádza
+k výmene intímnych materiálov či už dobrovoľne alebo pod nátlakom, vydieranie, či
+vyhrážanie sa.
+Jednotlivé formy kyberšikany podľa Kopeckého (2016):
+1. Publikovanie ponižujúcich videozáznamov, audiozáznamov alebo fotografií
+2. Ponižovanie a ohováranie (denigration)
+3. Krádež identity (impersonation)
+4. Strápňovanie pomocou falošných profilov
+5. Provokovanie a napádanie užívateľov v online komunikácii
+6. Zverejňovanie cudzích tajomstiev s cieľom poškodiť obeť (trickery/outing)
+7. Vylúčenie z virtuálnej komunity (exlusion)
+8. Obťažovanie (harassment)
+9. Špecifické formy kyberšikany spojené s hraním online hier – medzi tieto formy
+patrí krádež hráčskeho účtu, postavy alebo predmetu, vylúčenie hráča z hry atď.
+
+19
+
+10. Happy slapping (fackovanie pre zábavu) – je to forma fyzickej a psychickej agresie,
+ktorej podstatou je nečakane fyzicky napadnúť človeka, pričom komplic agresora čin
+nahráva na kameru alebo mobilný telefón a získané video zverejní na internete.
+11. Kyberstalking – páchateľ sa v tomto prípade nazýva stalker a snaží sa dlhodobo
+a opakovane kontaktovať obeť, ktorej sa vyhráža a demonštruje svoju silu.
+
+2.5 Dôsledky kyberšikany
+
+Dôsledky kyberšikany dosahujú rôzne štádia závažnosti kde významnú rolu zohráva
+fakt, že počet svedkov aj útočníkov nie je obmedzený. Na internete môže útok prebiehať len
+medzi útočníkom a obeťou ale jednoducho sa do útoku môžu zapojiť ďalší útočníci
+a svedkovia, ktorých množstvo nie je na internete obmedzené. Počty účastníkov v určitých
+prípadoch dosiahnu niekoľko desiatok tisíc.
+Kyberšikana nezahŕňa osobný kontakt agresora a obete, avšak pre obeť je psychicky
+škodlivá. Výskumníci (Gradinger, Strohmeier, & Spiel 2010) upozorňujú na výskyt
+sociálnych problémov, problémov s chovaním, nízke sebahodnotenie, osamelosť apod. u obetí
+kyberšikany. (Hinduja & Patchin, 2010 In: Kopecký, 2016) upozorňujú, že až 8% obetí
+uvažovalo o samovražde, obete odmietali chodenie do školy alebo boli pravidelne choré.
+Výskumy realizované v zahraničí (Európa, Austrália, USA) ďalej upozorňujú na nasledujúce
+dopady kyberšikany na psychický stav obetí (Šmahaj, 2014):
+
+1) Tenzia, strach, stres
+2) Zmena v sebavedomí, sebahodnotení, sebadôvere
+3) Výskyt depresívnych a neurotický ťažkostí
+4) Časté poruchy spánku
+5) Nižšia tolerancia frustrácie
+6) Pocit neriešiteľnosti situácie, strata životnej pohody
+7) Výskyt skratového jednania, samovražedné myšlienky
+8) Zvyšujúca sa bezdôvodná agresia a impulzívnosť
+9) Celková psychická nestabilita
+10) Trauma a post-traumatická stresová porucha
+
+20
+
+Podľa Kopeckého (2016) môžeme dopady rozdeliť na krátkodobé a dlhodobé. Medzi
+krátkodobé môžeme uviesť emócie ako hnev, smútok, pocit bezmocnosti, plač atď. Dlhodobé
+dopady môžu byť fyzické, emočné a spojené so zmenami chovania.
+
+21
+
+3 PREVENCIA KYBERŠIKANY A MOŽNOSTI JEJ RIEŠENIA
+Pri všetkých negatívnych sociálnych javoch je dôležitá prevencia a inak to nie je ani
+u kyberšikany. Informačné technológie zastaviť nedokážeme a preto ani nie je možné
+kyberšikane úplne zabrániť. Prevencia však má svoje miesto a zabrániť škodám je vždy
+jednoduchšie a menej nákladné ako riešiť následky.
+,,Na zrýchľujúcom sa tempe šírenia kyberšikany má rozhodne podiel akcelerácia vývoja
+technológii a ich služieb, čo vytvára ideálne prostredie pre potencionálne šírenie
+nebezpečných komunikačných praktík. To však neznamená, že na vývoji technológii je niečo
+zlé. Záleží len na nás, ako sa k možnostiam, ktoré nám ponúkajú, postavíme, či ich využijeme,
+či zneužijeme. Informačné a komunikačné technológie nie sú zbrane, sú to nástroje. Nie sú
+dobré ani zlé. Záleží len na ľuďoch, k akým činnostiam ich používajú.“ (Krejčí, 2010, s.10)
+
+3.1 Prevencia šikany a kyberšikany
+Za prevenciu rizikového chovania považujeme akékoľvek typy výchovných,
+vzdelávacích, zdravotných, sociálnych alebo iných intervencií smerujúcich k predchádzaniu
+výskytu rizikového chovania, obmedzujúcich jeho ďalší progres, zmierňujúcich už existujúce
+formy a prejavy rizikového chovania alebo pomáhajúcich riešiť ich dôsledky (Pavlas
+Martanová et al., 2012).
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky vydalo Smernicu
+36/2018 k prevencii a riešeniu šikanovania detí a žiakov v školách a školských zariadeniach.
+Smernica nadobudla účinnosť 1. septembra 2018 a jej vydaním sa zrušilo Metodické
+usmernenie 7/2006-R z 28. marca 2006 k prevencii a riešeniu šikanovania žiakov v školách
+a školských zariadeniach. V spomenutej smernici nájdeme základné znaky, formy a prejavy
+šikany detí a žiakov, spôsoby a možnosti prevencie a metódy riešenia šikany žiakov najmä
+v rámci kompetencie a zodpovednosti školy a školského zariadenia. Prevencia šikany
+a kyberšikany by mala byť zakomponovaná vo výchovno-vzdelávacom procese v rámci
+jednotlivých vyučovacích predmetov. Je dôležité, aby boli žiaci informovaní o šikane, o jej
+formách a dôsledkoch. Spôsoby prevencie a riešenia šikany by mal podrobne rozoberať
+vnútorný predpis školy. Okrem viacerých metodických materiálov, príručiek a manuálov
+22
+
+majú školy k dispozícií aj webové stránky, ktoré sa venujú šikane a kyberšikane akými sú
+napr. https://www.odpisemeti.sk/, https://www.kybersikanovanie.sk/, https://nehejtuj.sk a iné.
+Kyberšikana sa na rozdiel od šikany odohráva v priestore kde nie je jednoducho
+spozorovateľná. Svoj súkromný svet na internete si deti a mladiství pred dospelými chránia
+a často sa s nepríjemnými zážitkami nezveria nikomu alebo len svojím rovesníkom.
+K takémuto konaniu môže viesť aj obava, že by im rodičia internet používať zakázali úplne
+alebo by im aj tak nevedeli pomôcť. Pedagógovia môžu nadobudnúť pocit, že sa ich
+kyberšikana netýka pretože sa nedeje v škole. Treba myslieť na to, že kyberšikana je jav často
+spájaný práve so zážitkami, ktoré sa odohrali v realite. Zastaviť kyberšikanu a riešiť jej
+následky je jednoduchšie, keď sa odhalí na začiatku. Odhaliť kyberšikanu nám môže pomôcť
+všímavosť a pozorovanie správania dieťaťa, ktoré môže byť agresorom alebo obeťou alebo
+z rozprávania svedkov. Gregussová & Drobný (2015) uvádzajú niekoľko zmien v chovaní, pri
+ktorých máme myslieť na možnú kyberšikanu.
+Zmeny chovania u obete môžu byť nasledovné:
+•
+
+Dieťa zisťuje ako si zablokovať osoby na sociálnych sieťach alebo ako zablokovať
+telefonické hovory a SMS
+
+•
+
+Zruší si svoj profil na sociálnych sieťach a prestane ich používať
+
+•
+
+Prestane používať telefón alebo počítač
+
+•
+
+Prichádzajúce hovory a SMS ignoruje, nezdvíha telefón, neodpisuje na správy
+
+•
+
+Po odchode od počítača, po prečítaní správy, emailov sa zdá byť nervózne alebo neisté
+
+•
+
+Vyhýba sa škole a spoločnosti ľudí
+
+•
+
+Rozhovoru o tom, čo robí na počítači alebo mobile sa vyhýba
+
+•
+
+Uniká do sveta fantázie, počítačových hier, uzatvára sa pred rodinou a možný problém
+popiera
+Zmeny chovania u agresora môžu byť nasledovné:
+
+•
+
+Rýchle zatváranie programov alebo vypínanie obrazovky, keď sa niekto priblíži
+
+•
+
+Pri používaná počítača sa prehnane smeje
+
+•
+
+Používa počítač s kamarátmi, prehnane sa smejú, nechcú povedať, čo na počítači robia
+
+•
+
+Históriu prehliadania maže
+
+•
+
+V realite sa taktiež správa voči deťom agresívne
+
+23
+
+•
+
+Nevyriešený konflikt s kamarátom alebo učiteľom, pri ktorom sa cíti nahnevaný
+a ukrivdený (Kyberšikana, 2015).
+
+3.2 Riešenie šikany a kyberšikany
+Podľa Říčana (2010) je každé opodstatnené podozrenie na šikanu potrebné správne riešiť
+a nepodceniť žiadne detaily. Aj pri diagnosticky najjednoduchších formách šikany je nutné
+zamedziť chybám v riešení prípadu inak hrozí vážne poškodenie obete. Všetky kroky pri
+riešení prípadu šikany musia byť dôsledne premyslené. Schéma riešenia šikany je rôzna pre
+počiatočné a pokročilé štádia. V počiatočnom štádiu agresor ešte nenanútil násilie aj ostatným
+a väčšina detí nie je na jeho strane. Pri šikane v pokročilých štádiách je potrebné, aby boli do
+jej riešenia v spolupráci so školou zapojení odborníci a špecialisti na problematiku školského
+násilia. Možná schéma riešenia počiatočných štádií šikany:
+1. Odhad závažnosti šikany a o akú formu sa jedná.
+2. Rozhovor s obeťou a informátormi – rozhovor pomôže zmapovať vonkajší obraz
+prípadu. Mal by mať určitú postupnosť, po rozhovore s informátorom nasleduje
+rozhovor s obeťou a nie agresorom.
+3. Nájdenie vhodných svedkov.
+4. Individuálny, prípadne konfrontačný rozhovor so svedkami.
+5. Ochrana obete.
+6. Rozhovor s agresormi, prípadne konfrontácia medzi nimi.
+Medzi ďalšie kroky patrí informovanie rodičov, práca s celou triedou, ktorá pomôže
+prevencii, upozorní na nesprávne chovanie a na to, ako sa zachovať v podobnej situácii. Ďalej
+je potrebné do riešenia prípadu zapojiť vedenie školy alebo školského zariadenia, rodinu
+obete, rodinu agresora, výchovného poradcu a ďalších pedagogických pracovníkov.
+Je dôležité zamedziť priamej konfrontácii agresora a obete. Takáto konfrontácia je pre
+šikanovaného nepríjemná a zároveň hrozí, že zo strachu pravdivú výpoveď vezme späť.
+Medzi ďalšie závažné chyby patrí aj zmenšovanie problému, snaha rýchleho riešenia, riešenie
+prípadu pred celou triedou, prezradenie informačného zdroja, neinformovanie rodičov,
+riešenie prípadu bez pomoci ďalších pedagógov.
+
+24
+
+Na Slovensku sú k dispozícii projekty, ktoré poskytujú pomoc deťom aj dospelým ako:
+,,eSlovensko od roku 2007 poskytuje prostredníctvom projektu Pomoc.sk špecializované
+poradenstvo pre oblasť problémov, ktoré prinášajú nové technológie – internet, mobil a pod.
+Na projekte Pomoc.sk spolupracuje Linka detskej istoty v Bratislave, ktorá pomáha deťom už
+od roku 1996 a Linka Li(e)nka v Košiciach. Deti a mládež sa na linky môžu obrátiť
+s akýmkoľvek problémom, témou alebo len s potrebou podeliť sa s niekým o svoje
+prežívanie.“ (Gregussová & Dorbný 2015, str. 61)
+Podľa Gajdošovej (2015) môže byť stratégia riešenia kyberšikany v škole nasledovná:
+1) S použitím anonymných dotazníkov a ankiet robiť každoročné prieskumy šikany
+a kyberšikany na škole.
+2) Výsledky výskumu a možnosti boja proti kyberšikane riešiť s pedagógmi aj so žiakmi
+prostredníctvom prednášok a debát.
+3) Motivovanie učiteľov zlepšovať sociálne vzťahy v triede.
+4) Vzdelávanie a výcviky učiteľov v danej oblasti.
+5) Vytvorenie postupu proti kyberšikane a iné.
+
+3.3 Legislatívne poňatie šikany a kyberšikany
+V Slovenskej republike termín ,,šikana,, nie je vymedzený samostatným paragrafom
+trestného zákona avšak šikanovanie môže napĺňať skutkovú podstatu niektorého z trestných
+činov a to napr.:
+• Nebezpečné prenasledovanie, tzv. kyberstalking ( § 360a Trestného zákona),
+• Vydieranie ( § 189 Trestného zákona),
+• Nátlak ( § 192 Trestného zákona),
+• Sexuálne zneužívanie (§ 201, § 201a, § 201b Trestného zákona),
+• Ohováranie ( § 373 Trestného zákona),
+• Poškodzovanie cudzích práv ( § 376 Trestného zákona),
+• Detská pornografia – výroba ( § 368 Trestného zákona),
+• Detská pornografia – rozširovanie ( § 369 Trestného zákona),
+• Ohrozovanie mravnosti ( § 371, § 372 Trestného zákona),
+• Ohrozovanie mravnej výchovy mládeže ( § 211 Trestného zákona),
+25
+
+• Výroba, rozširovanie a prechovávanie extrémistických materiálov ( § 422a, § 422b,
+§ 422c Trestného zákona),
+• Popieranie a schvaľovanie holokaustu a zločinov politických režimov ( § 422d
+Trestného zákona),
+• Hanobenie národa, rasy a presvedčenia ( § 423 Trestného zákona),
+• Podnecovanie k národnostnej, rasovej a etnickej nenávisti ( § 424 Trestného zákona).
+Do trestného zákona prostredníctvom zákona 236/2021 Z.z., ktorým sa dopĺňa zákon
+300/2005 Z.z. pribudol nový trestný čin nebezpečného elektronického obťažovania
+( § 360a Trestného zákona) s účinnosťou od 1. júla 2021. Konkrétne znenie paragrafu
+uvádzame nižšie:
+Nebezpečné elektronické obťažovanie ( § 360a Trestného zákona)
+(1) Kto úmyselne prostredníctvom elektronickej komunikačnej služby, počítačového
+systému alebo počítačovej siete podstatným spôsobom zhorší kvalitu života iného tým,
+že:
+a) ho dlhodobo ponižuje, zastrašuje, neoprávnene koná v jeho mene alebo ho dlhodobo
+inak obťažuje, alebo
+b) neoprávnene zverejní alebo sprístupní tretej osobe obrazový, zvukový alebo
+obrazovo-zvukový záznam jeho prejavu osobnej povahy získaný s jeho súhlasom,
+spôsobilý značnou mierou ohroziť jeho vážnosť alebo privodiť mu inú vážnu ujmu
+na právach,
+potrestá sa odňatím slobody až na tri roky.
+(2) Odňatím slobody na jeden rok až štyri roky sa páchateľ potrestá, ak spácha čin uvedený
+v odseku 1
+a) na chránenej osobe, alebo
+b) z osobitného motívu.
+(3) Odňatím slobody na dva roky až šesť rokov sa páchateľ potrestá, ak spácha čin uvedený
+v odseku 1
+a) A spôsobí ním značnú škodu,
+b) S úmyslom získať pre seba alebo iného značný prospech, alebo
+c) Hoci bol za taký čin v predchádzajúcich dvadsiatich štyroch mesiacoch odsúdený.
+
+26
+
+4 METODOLÓGIA
+Predmetom tejto práce je kyberšikana. Tradičná šikana bola medzi ľuďmi prítomna
+vždy, avšak kyberšikana je fenomén poslednej doby, ktorý stále nie je dostatočne
+preskúmaný.
+
+4.1 Ciele prieskumu
+V prieskume sme sa zamerali na zisťovanie výskytu kyberšikany u žiakov dvoch
+stredných škôl a to gymnázia a strednej odbornej školy s maturitou (ďalej len SOŠ).
+Hlavným cieľom nášho prieskumu bolo zistiť v akej miere je kyberšikana rozšírená
+medzi žiakmi vybraných stredných škôl, rozsah informovanosti žiakov o kyberšikane, použité
+prostriedky kyberšikany a spôsob reakcie na šikanu z pozície obete aj svedka. V neposlednom
+rade získať informácie na porovnanie vyššie spomenutých údajov u žiakov rôznych typoch
+škôl.
+
+4.2 Metódy prieskumu
+Vzhľadom k tomu, že našim zámerom bolo získavanie terénnych dát, na zistenie
+kyberšikany sme použili metódu kvantitatívneho prieskumu. Na zber informácii sme použili
+anonymný dotazník, ktorý bol vytvorený za účelom nášho prieskumu. Výhodou dotazníka je
+jeho anonymita, časová efektivita a jednoduchosť jeho vyhodnotenia. Nevýhodou tejto
+anonymity môže byť skreslenie informácii zámerne ale aj nezámerne, čo súvisí napríklad
+s nesprávne sformulovanou otázkou. Pri zostavení dotazníka (pozri prílohu A) sme sa opierali
+o odbornú literatúru a čerpali sme aj z existujúcich empirických výskumov a štúdii.
+
+27
+
+4.3 Charakteristika vzorky
+Dotazník bol určený respondentom, ktorých tvorili žiaci tretieho ročníka dvoch
+stredných škôl v Košickom kraji a to gymnázia a SOŠ. Žiakov týchto ročníkov sme si vybrali
+pre ich vek, nakoľko sa táto práca zameriava na kyberšikanu u adolescentov. Oslovili sme
+triednych učiteľov dvoch tried gymnázia a dvoch tried SOŠ, z ktorých sme získali 72
+respondentov.
+
+4.4 Organizácia prieskumu, zber a spracovanie údajov
+
+Dotazník sme zostavili v januári 2022, ktorý sme následne rozposlali triednym
+učiteľom štyroch tried tretích ročníkov nami vybraného gymnázia a SOŠ v Košickom kraji.
+Zber dát sa dial počas obdobia prebiehajúcej pandémie, ktoré malo vplyv na možnosti
+prezenčného vyučovania žiakov. Za najvhodnejší spôsob distribúcie dotazníka sme zvolili
+elektronickú formu, tzv. CAWI (Computer Assisted Web Interviewing). Výhodou bola
+jednoduchosť distribúcie, ktorá nebola obmedzená na fyzickú prítomnosť žiaka na vyučovaní.
+Nevýhodou elektronického dotazníka je nemožnosť dohliadnuť na jeho samotné vyplnenie
+a na jeho návratnosť. Zároveň nie je možné priamo ozrejmiť prípadné nejasnosti. Získané dáta
+boli následne spracované do prehľadných grafov a stručne popísané.
+
+28
+
+5 VÝSLEDKY
+Príchod informačných technológii priniesol mnoho pozitív a výhod, ktoré denne
+využívajú ľudia všetkých vekových kategórii, profesií a škôl. Napriek tomu priniesli mnoho
+skrytých hrozieb, ktoré predstavujú nebezpečenstvo najmä pre tú najzraniteľnejšiu skupinu,
+deťom a mladistvým. Toto tvrdenie podporujú aj výsledky nášho prieskumu, ktoré
+uvádzame v nasledujúcej časti práce.
+
+5.1 Vyhodnotenie dotazníkov
+Náš prieskum sa uskutočnil u žiakov tretieho ročníka gymnázia a SOŠ. Na zber dát
+sme zvolili elektronickú formu, ktorá je často používaným prostriedkom pedagogického
+prieskumu. Žiaci tretích ročníkov gymnázia a SOŠ mali na vyplnenie dotazníka neobmedzené
+množstvo času. Vo výsledkoch stručne popisujeme zistené informácie a v niektorých
+prípadoch porovnávame získané údaje medzi vyššie spomenutými strednými školami.
+Otázka č.1 Aké je tvoje pohlavie?
+Na nasledujúcich dvoch grafoch znázorňujeme podiel dievčat a chlapcov, ktorí na
+dotazník odpovedali.
+Na gymnázium absolvovalo dotazník celkom 38 žiakov. Z tohto počtu odpovedalo 19
+dievčat, čo tvorí 50 % z celkového počtu respondentov a 19 chlapcov, ktorí tvoria taktiež 50%
+respondentov. Viď Graf 1.
+
+Graf 1 Pohlavie respondentov – gymnázium
+Zdroj: vlastné spracovanie
+
+29
+
+Na strednej odbornej škole s maturitou absolvovalo dotazník celkom 34 žiakov.
+Z tohto počtu odpovedalo 7 dievčat, čo tvorí 21 % z celkového počtu respondentov a 27
+chlapcov, ktorí tak tvoria tak 79 % respondentov. Viď Graf 2.
+
+Graf 2 Pohlavie respondentov - SOŠ
+Zdroj: vlastné spracovanie
+
+Otázka č.2 Koľko máš rokov?
+Nasledujúce grafy nám znázorňujú vekové rozloženie žiakov na jednotlivých školách.
+Vo veku 17 rokov sa nachádzalo 23 žiakov (60 %), vo veku 18 rokov sa nachádzalo 14 žiakov
+(37 %) a vo veku 19 rokov sa nachádzal 1 žiak (3 %). Viď Graf 3.
+
+Graf 3 Vek respondentov – gymnázium
+Zdroj: vlastné spracovanie
+
+30
+
+Na SOŠ vo veku 17 rokov odpovedali 10 žiaci (31 %), 20 žiakov je vo veku 18 rokov
+(63 %) a dvaja žiaci sú vo veku 19 rokov (6%). Viď Graf 4.
+
+Graf 4 Vek respondentov - SOŠ
+Zdroj: vlastné spracovanie
+
+Otázka č.3 Vieš, čo znamená pojem kyberšikana?
+Pomocou nasledujúcich grafov môžeme porovnať znalosť pojmu kyberšikany u žiakov
+vybraných škôl. Pojem kyberšikana poznalo 80 % opýtaných žiakov gymnázia, čo
+predstavuje 33 žiakov z 38. Na SOŠ poznalo termín kyberšikana 82 %, čo je 28 žiakov z 34
+opýtaných. Pri porovnaní oboch grafov vidíme, že znalosť termínu kyberšikany je u žiakov
+oboch škôl rovnaká. Viď Graf 5 a Graf 6.
+
+Graf 5 Znalosť kyberšikany – gymnázium
+
+Graf 6 Znalosť kyberšikany - SOŠ
+
+Zdroj: vlastné spracovanie
+
+Zdroj: vlastné spracovanie
+
+31
+
+Otázka č.4 Kde si sa stretol/stretla s pojmom kyberšikana?
+Cieľom otázky bolo zistiť kde sa žiaci s pojmom kyberšikany stretli. Až 16 (42 %)
+žiakov gymnázia sa stretlo s pojmom kyberšikana na internete, 11 (29 %) žiakov poznalo
+kyberšikanu z rozhovor s kamarátmi a 11 (29 %) žiakov o ňom počulo v škole. Žiaci SOŠ
+uviedli internet až v 65 %, čo predstavuje 22 žiakov. V škole o kyberšikane počuli 4
+
+( 23 %)
+
+žiaci zatiaľ čo z rozhovoru s kamarátmi len 8 (12 %) žiakov. Veľký rozdiel vidíme v internete
+ako zdroji poznania kyberšikany kde u žiakov SOŠ výrazne prevyšuje. Viď Graf 7 a Graf 8.
+
+Graf 7 Miesto stretnutia s kyberšikanou – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 8 Miesto stretnutia s kyberšikanou – SOŠ
+Zdroj: vlastné spracovanie
+
+32
+
+Otázka č.5 Koľko času tráviš na počítači alebo mobilnom telefóne?
+Cieľom nasledujúcej otázky je zistiť koľko času nami opýtaní žiaci trávia
+denne na počítači a porovnať množstvo stráveného času medzi oboma školami.
+Z nasledujúcich grafov vidíme, že väčšina žiakov gymnázia trávi používaním počítaču a
+telefónu viac ako pol hodinu denne. V priemere 1-3 hodiny denne trávi 16 (42 %) žiakov a
+viac ako 3 hodiny denne až 20 (53 %) žiakov. Na SOŠ 17 (50 %) žiakov uvádza, že na
+internete a mobilnom telefóne trávi medzi 1 – 3 hodinami. Z našich grafov vyplýva, že žiaci
+gymnázia používajú informačné telefóny vo väčšej miere. Viď Graf 9 a Graf 10.
+
+Graf 9 Použitie informačných technológií – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 10 Použitie informačných technológii – SOŠ
+
+Zdroj: vlastné spracovanie
+
+33
+
+Otázka č.6 Považuješ sa za človeka, ktorý sa stal obeťou kyberšikany?
+Nasledujúce grafy znázorňujú, koľkí žiaci sa osobne stretli s kyberšikanou. Na oboch
+školách sa za obeť kyberšikany považuje podobné množstvo žiakov a to 11 (29 %) žiakov
+gymnázia a 11 žiakov (32 %) strednej odbornej školy. Viď Graf 11 a Graf 12.
+
+Graf 11 Obete kyberšikany – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 12 Obete kyberšikany – SOŠ
+Zdroj: vlastné spracovanie
+
+34
+
+Otázka č.7 Ak si bol/a obeťou kyberšikany, akou formou sa uskutočnila?
+Nasledujúca otázka mapuje najčastejšie prostriedky využívané ako nástroj kyberšikany
+medzi žiakmi. Opýtaní mohli označiť len jednu z ponúknutých možností, predpokladáme
+preto, že žiaci označovali najvýraznejší prostriedok, s ktorým sa stretli.
+Respondenti z gymnázia najčastejšie uvádzali SMS (32 %), najmenej zvolený
+prostriedok kyberšikany bol telefón (18 %). Na SOŠ naopak telefón označili respondenti až
+v 29 %. Viď Graf 13 a Graf 14.
+
+Graf 13 Formy kyberšikany – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 14 Formy kyberšikany – SOŠ
+Zdroj: vlastné spracovanie
+
+35
+
+Otázka č.8 Čo by si robil/a keby si sa stal/a obeťou kyberšikany?
+Nasledujúce grafy zobrazujú potenciálne reakcie žiakov na kyberšikanu z pozície
+obete. 53 % žiakov gymnázia by sa rozhodlo zablokovať útočníka a len 26 % žiakov by na
+útočníka reagovala odpoveďou prostredníctvom elektronickej komunikácie. Kontaktovať
+políciu by uvažovalo 13 % žiakov, len 8 % by neurobilo nič.
+Žiaci SOŠ by v porovnaní s gymnáziom až v 50 % na útočníka reagovalo formou
+odpovede cez elektronickú komunikáciu. 38 % žiakov by útočníka zablokovalo. Len 9 %
+žiakov by neurobilo nič a políciu by kontaktovalo len 3 % opýtaných. Viď Graf 15 a Graf 16.
+
+Graf 15 Reakcia na kyberšikanu – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 16 Reakcia na kyberšikanu – SOŠ
+Zdroj: vlastné spracovanie
+
+36
+
+Otázka č.9 Ak by si bol/a obeťou kyberšikany, komu by si sa s tým zdôveril/a?
+Nasledujúce grafy znázorňujú, komu by sa opýtaní žiaci zdôverili. Na gymnázium by
+sa 34 % žiakov zdôverilo spolužiakovi alebo kamarátovi. Na rovnakej úrovni dopadli
+súrodenci (21 %) a rodičia (21 %). 13 % žiakov by sa nezdôverilo nikomu a len 11 % žiakov
+by sa obrátilo na učiteľa. U žiakov SOŠ vidíme, že až 53 % žiakov by sa zdôverilo
+kamarátovi alebo spolužiakovi. Na ďalšom mieste sú rodičia (23 %), podobne ako u žiakov
+gymnázia. Ďalšie možnosti boli označené len v malej miere. Viď Graf 17 a Graf 18.
+
+Graf 17 Zdôverenie sa s kyberšikanou – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 18 Zdôverenie sa s kyberšikanou – SOŠ
+Zdroj: vlastné spracovanie
+
+37
+
+Otázka č.10 Ak by si vedel/a o niekom, kto je obeťou kyberšikany, oznámil/a by si to
+niekomu?
+Nasledujúce grafy ukazujú, že žiaci SOŠ by sa ako svedkovia kyberšikany zachovali
+aktívnejšie a až 25 žiakov (74 %) by pozorovanú kyberšikanu niekomu ohlásili. Žiaci
+gymnázia by sa rovnako zachovali len v 58 %, čo predstavuje 22 opýtaných žiakov. Viď Graf
+19 a Graf 20.
+
+Graf 19 Oznámenie kyberšikany – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 20 Oznámenie kyberšikany – SOŠ
+Zdroj: vlastné spracovanie
+
+38
+
+Otázka č.11 Vysmieval/a si sa niekomu prostredníctvom sociálnych sietí?
+V tejto otázke sme sa žiakov pýtali, či sami niekedy boli tými, ktorí sa vysmievali.
+Z našej vzorky 32 % žiakov gymnázia, čo predstavuje 12 žiakov opýtaných priznalo, že sa
+niekomu cez sociálne siete vysmievali. U žiakov SOŠ to bolo až 50 % žiakov, čo tvorilo 17
+žiakov z opýtaných. Viď Graf 21 a Graf 22.
+
+Graf 21 Vysmievanie sa – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 22 Vysmievanie sa – SOŠ
+Zdroj: vlastné spracovanie
+
+39
+
+Otázka č.12 Myslíš si, že je kyberšikana na Slovensku trestným činom?
+Poslednou otázkou sme zisťovali aké je povedomie žiakov o trestnej zodpovednosti pri
+kyberšikane. V oboch prípadoch zhruba polovica opýtaných žiakov predpokladala, že
+kyberšikana je trestným činom. Viď Graf 23 a Graf 24.
+
+Graf 23 Kyberšikana ako trestný čin – gymnázium
+Zdroj: vlastné spracovanie
+
+Graf 24 Kyberšikana ako trestný čin – SOŠ
+Zdroj: vlastné spracovanie
+
+40
+
+5.2 Celkové vyhodnotenie
+Cieľom prieskumu je stále nevyriešený a plne nepoznaný jav kyberšikany. Podiel
+našich respondentov na gymnáziu tvoril rovnaký pomer chlapcov a dievčat. Na SOŠ tvorili
+väčšinu respondentov chlapci. Na oboch školách kyberšikanu poznalo 80 % žiakov. Väčšina
+opýtaných sa o kyberšikane dozvedela z internetu a až 70%
+
+žiakov oboch škôl zažilo
+
+situáciu, v ktorej sa sami cítili byť obeťou. Rozdiel medzi žiakmi bol zjavný v reakcii na
+skúsenosť s kyberšikanou. Až 53 % žiakov gymnázia by agresora ignorovalo zatiaľ čo 50 %
+žiakov SOŠ by na útočníka reagovalo odpísaním alebo inou formou odpovede. Rozdiel bol aj
+v reakcii na kyberšikanu niekoho iného kde až 70 % žiakov SOŠ by nejakou formou na
+situáciu reagovalo zatiaľ čo na gymnáziu by takto učinilo len 53 %. Na oboch školách by sa
+s kyberšikanou zdôverila väčšina opýtaných kamarátovi alebo spolužiakovi. Na rodičov by sa
+respondenti oboch škôl obrátili len v 20 % prípadov. Učitelia boli v oboch školách poslednou
+zvolenou možnosťou a to v 11 % u gymnazistov a v 6 % u SOŠ. Z nášho prieskumu vyplýva,
+že kyberšikane a budovaní dôvery detí a študentov by učitelia a rodičia mali venovať zvýšenú
+pozornosť.
+
+5.3 Odporúčania pre prax
+Pri písaní tejto práce a vyhodnocovaní prieskumu vidíme niekoľko možných spôsobov
+zlepšenia situácie kyberšikany. Najdôležitejšia je prevencia zo strany všetkých zúčastnených
+a to škôl, rodičov, detí a aj výrobcov nástrojov elektronickej komunikácie. Z dotazníkového
+šetrenia vyplýva, že škola a rodičia hrajú len vedľajšiu rolu v spoznávaní kyberšikany
+u žiakov. Táto práca by mohla poslúžiť školám pri vzdelávaní žiakov v oblasti bezpečnosti na
+internete na vyučovacích predmetoch ako informatika, etika alebo občianska náuka. Je
+vhodné viesť o problematike kyberšikany otvorené debaty, robiť prednášky a iné poznávacie
+aktivity, ktoré by im dali nástroje na riešenie a chránenie sa. Z nášho dotazníka vyplýva
+minimálna tendencia zdôverovať sa so spomínaným problém svojim rodičom a pedagógom.
+Preto je namieste venovať zvýšenú pozornosť komunikácii a budovaní si dôvery so svojimi
+deťmi a žiakmi. Za dôležitý považujeme aj zvýšený dozor nad aktivitami, ktorým sa deti
+a mladiství vo virtuálnom priestore venujú.
+
+41
+
+ZÁVER
+Dynamický vývoj spoločnosti, ktorý je príznačný presunom mnohých sociálnych,
+pracovných a školských aktivít do virtuálneho priestoru si vyžaduje adekvátnu reakciu najmä
+staršej generácie. Dnešné deti vnímajú informačné technológie a elektronickú komunikáciu za
+prirodzené súčasť života, ktorú mnohí rodičia a pedagógovia nevedia adekvátne kontrolovať.
+Aj tento faktor prispieva k rozmachu nového negatívneho sociálneho javu, ktorý nazývame
+kyberšikana.
+V tejto bakalárskej práci, ktorú sme rozdelili na teoretickú a praktickú časť sa
+zameriavame na stručnú charakteristiku tradičnej šikany, od ktorej sa kyberšikana z veľkej
+časti odvíja. Popisujeme základnú charakteristiku kyberšikany, jej dopady a možnosti
+prevencie a riešenia. Zamerali sme sa najmä na obdobie adolescencie, no kyberšikana je jav,
+ktorý nemá časové ani priestorové hranice. Nachádza sa všade tam kde sú prítomné
+informačné technológie a formy elektronickej komunikácie.
+Cieľom praktickej časti práce je zistiť výskyt kyberšikany u žiakov tretieho ročníka
+gymnázia a strednej odbornej školy s maturitou v Košickom kraji. Pomocou kvantitatívneho
+prieskumu za použitia elektronického dotazníka sme sa žiakov pýtali aj na formy
+kyberšikany, s ktorou sa stretli, najčastejšie prostriedky kyberšikany a ich reakcie. Výsledky
+nášho prieskumu poskytujú aj možnosť porovnania skúseností a reakcií žiakov dvoch rôznych
+typov stredných škôl.
+Po vytvorení tejto práce si uvedomujeme množstvo otáznikov, ktoré táto téma prináša.
+Je veľkou zodpovednosťou rodičov a pedagógov neustále sa vzdelávať a komunikovať so
+svojimi deťmi o tom, čo robia na sociálnych sieťach, všímať si zmeny ich správania a mať
+snahu ich riešiť. Prevencia kyberšikany je kvôli mnohým faktorom, akými je napríklad
+anonymita a neobmedzené množstvo agresorov a svedkov v kybernetickom priestore veľmi
+náročná. Aj tu platí, že zabrániť problému je vždy jednoduchšie ako riešiť jeho následky.
+V práci sme sa snažili definovať kyberšikanu ako formu šikany a zistiť mieru výskytu
+a povedomia o kyberšikane medzi adolescentami. Cieľ bakalárskej práce sa nám podarilo
+splniť.
+
+42
+
+ZOZNAM POUŽITÝCH ZDROJOV
+Literatúra
+GAJDOŠOVÁ, E. 2015. Kyberšikanovanie – nový fenomén nového storočia. In:
+Prechádzame
+
+kyberšikane:
+
+príručka
+
+príspevkov
+
+lektorov
+
+z workshopu
+
+Kyberšikana
+
+a neúmyselné úrazy detí. Bratislava: Úrad verejného zdravia Slovenskej republiky. s. 6-9.
+ISBN 978-80-7159-222-8.
+JANOŠOVÁ, P. a kol., 2016. Psychologie školní šikany. Praha: Grada. 17 s. ISBN 978-80247-2992-3.
+KOLÁŘ, M. 2001. Bolest šikanování: Cesta k zastavení epidemie šikanování ve školách.
+Praha: Portál. ISBN 80-7178-513-X.
+KOLÁŘ, M. 2011. Nová cesta k léčbě šikany. Praha: Portál. ISBN 978-80-7367-871-5.
+KOPECKÝ, K. a kol. 2015. Rizikové formy chování českých a slovenských dětí v prostředí
+internetu. Olomouc: Univerzita Palackého v Olomouci. ISBN 978-80-244-4868-8.
+KREJČÍ, V. 2010. Kyberšikana, Kybernetická šikana: Studie. Olomouc. ISBN 978–80–254–
+7791–5.
+PAĽOVČÍKOVÁ, G. 2018. Šikana a kyberšikana na školách. Bratislava. Slovenské národné
+stredisko pre ľudské práva. 74 s. ISBN 978-80-89016-99-0.
+PANÁČEK, M. 2014. Kyberšikana – rizikové chováni stredoškoláku v Moravskoslezkém
+a Košickém kraji. In: Rizikové správanie v teórii a praxi sociálnej práce: 3. Ročník košických
+dní sociálnej práce. Košice: Katedra sociálnej práce, Filozofická fakulta UPJŠ. 331-336 s.
+ISBN 978-80-8152-212-3.
+PAVLAS MARTANOVÁ, V. a kol. 2012. Standardy odborné způsobilosti poskytovatelů
+programů školské primární prevence rizikového chování. Praha: TOGGA. ISBN: 978-8087258-75-0.
+ROGERS, V. 2011. Kyberšikana: pracovní materiály pro učitele a žáky i studenty. Praha:
+Portál. ISBN 978-80-7367-984-2.
+43
+
+ŘÍČAN, P. 1995. Agresivita a šikana mezi dětmi. Praha: Portál. 25 s. ISBN 80-7178-049-9
+ŘÍČAN, P. – JANOŠOVÁ, P. 2010. Jak na šikanu. Praha: Grada. 21 - 160 s. ISBN 978-80247-2991-6.
+SARKOVÁ, M. 2013. Šikanovanie a jeho formy – správa o stave medzi školákmi
+slovenských základných škôl. Bratislava: Kancelária Svetovej zdravotníckej organizácie na
+Slovensku. 6-7 s. ISBN 978-80-971475-3-2.
+ŠMAHAJ, J. 2014. Kyberšikana jako společenský problém. Olomouc: Univerzita Palackého
+v Olomouci. ISBN: 978-80-244-4227-3.
+VÁGNEROVÁ, M. 2008. Vývojová psychologie I.: Dětství a dospívání. Praha: Karolinum.
+ISBN 978-90-246-0956-0.
+
+Internetové zdroje
+CSIKSZENTMIHALYI, M. 2021. Adolescence. In: Encyclopedia Britanica. online.[cit.
+2022-04-15] Dostupné na: https://www.britannica.com/science/adolescence
+
+GRADINGER, P. et al. 2010. Traditional Bullying and Cyberbullying. In: Zeitschrift für
+Psychologie – Journal of Psychology. online. [cit. 2022-04-18]. 217(4)
+
+Dostupné na:
+
+https://doi.org/10.1027/0044-3409.217.4.205
+GREGUSSOVÁ, M. – DROBNÝ, M. 2015. Kyberšikanovanie.sk : Metodická príručka.
+[online].
+
+[cit.
+
+2022-04-20].
+
+Dostupné
+
+na:
+
+https://www.zodpovedne.sk/index.php/sk/
+
+component/jdownloads/finish/1-knihy-a-prirucky/101-prirucka-kybersikanovaniesk?Itemid=0
+HINDUJA, S. - PATCHIN, W.J. 2012. Cyberbullying Prevention and Response.
+ExpertPerspectives. online. New York: Routledge. cit. 2022-04-15 Dostupné na:
+https://www.researchgate.net/publication/345269061_Patchin_J_W_Hinduja_S_Cyberbullyin
+g_Prevention_and_Response_Expert_Perspectives_New_York_Routledge_2012_204_pages
+
+44
+
+KOPECKÝ, K. 2016. Kyberšikana a její specifika v prostředí systému primárni prevence
+rizikového chování [online]. [cit. 202-04-19]. Olomouc: Univerzita Palackého v Olomouci.
+Dostupné
+
+na:
+
+https://www.e-bezpeci.cz/index.php/ke-stazeni/odborne-studie/105-
+
+kybersikana-a-jeji-specifika-v-prostredi-systemu-primarni-prevence-rizikoveho-chovani/file
+MŠMT.
+
+2018.
+
+Kyberšikana.
+
+[online].
+
+[cit.
+
+2022-04-10].
+
+Dostupné
+
+na:
+
+https://www.msmt.cz/uploads/Priloha_7_Kybersikana.doc
+Právne dokumenty
+Smernica Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 36/2018 k
+prevencii a riešeniu šikanovania detí a žiakov v školách a školských zariadeniach [online].
+Dostupná na: https://www.minedu.sk/data/att/16073.pdf
+Zákon č. 236/2021 Z.z, ktorým sa dopĺňa zákon č. 300/2005 Z.z. Trestný zákon v znení
+neskorších
+
+predpisov.
+
+[online].
+
+Dostupné
+
+predpisy/SK/ZZ/2021/236/vyhlasene_znenie.html
+
+45
+
+na:
+
+https://www.slov-lex.sk/pravne-
+
+PRÍLOHY
+Príloha A:
+
+Dotazník
+
+Vážení žiaci,
+som študentom bakalárskeho programu a pre spracovanie vlastnej bakalárskej práce
+som si zvolil problematiku kyberšikany u adolescentov a možnosti jej riešenia. Tento
+dotazník poslúži na zistenie aktuálneho stavu kyberšikany u žiakov tretieho ročníka
+Gymnázia a Strednej odbornej školy s maturitou a tiež k riešeniu zisteného stavu. Prosím vás
+o pozorné prečítanie jednotlivých otázok a o vyplnenie dotazníka. Ďakujem.
+Miloš Mražik
+
+1. Aké je tvoje pohlavie?
+a) Žena
+b) Muž
+2. Koľko máš rokov?
+a) 17
+b) 18
+c) 19
+3. Vieš, čo znamená pojem kyberšikana?
+a) Áno
+b) Nie
+4. Kde si sa stretol/stretla s pojmom kyberšikana?
+a) Na internete
+b) Počul/a som o kyberšikane od kamarátov
+c) V škole
+5. Koľko času tráviš na počítači alebo mobilnom telefóne?
+a) V priemere pol hodinu denne
+b) V priemere 1-3 hodiny denne
+c) Viac ako 3 hodiny denne
+6. Považuješ sa za človeka, ktorý sa stal obeťou kyberšikany?
+a) Áno
+b) Nie
+46
+
+7. Ak si bol/a obeťou kyberšikany, akou formou sa uskutočnila?
+a) E-mailom
+b) Nahrávky alebo videá ktoré boli umiestnené na internete
+c) Prostredníctvom sociálnych sieti
+d) Prostredníctvom SMS
+e) Telefonicky
+8. Čo by si robil/a keby si sa stal/a obeťou kyberšikany?
+a) Zablokoval/a by som útočníka
+b) Neurobil/a by som nič, nechal/a by som to tak
+c) Odpísal/a by som útočníkovi
+d) Oznámil/a by som to polícii
+9. Ak by si bol/a obeťou kyberšikany, komu by si sa zdôveril/a?
+a) Nikomu by som to nepovedal/a
+b) Rodičom
+c) Spolužiakovi alebo kamarátovi
+d) Súrodencovi
+e) Učiteľovi v škole
+10. Ak by si vedel/a o niekom kto je obeťou kyberšikany, oznámil/a by si to
+niekomu?
+a) Áno
+b) Nie
+11. Vysmieval/a si sa niekomu prostredníctvom sociálnych sietí?
+a) Áno
+b) Nie
+12. Myslíš si že je kyberšikana na Slovensku trestným činom?
+a) Áno
+b) Nie
+
+47
+
+

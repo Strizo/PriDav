@@ -1,0 +1,904 @@
+UNIVERZITA KONŠTANTÍNA FILOZOFA V NITRE
+PEDAGOGICKÁ FAKULTA
+
+VYUŽITIE AUDIOVIZUÁLNEJ DIDAKTICKEJ TECHNIKY
+V HUDOBNOM VZDELÁVANÍ
+BAKALÁRSKA PRÁCA
+
+2018
+
+Dominika Kiššová
+
+UNIVERZITA KONŠTANTÍNA FILOZOFA V NITRE
+PEDAGOGICKÁ FAKULTA
+
+VYUŽITIE AUDIOVIZUÁLNEJ DIDAKTICKEJ TECHNIKY
+V HUDOBNOM VZDELÁVANÍ
+BAKALÁRSKA PRÁCA
+
+Študijný program: Predškolská a elementárna pedagogika (jednoodborové štúdium,
+bakalársky I. st., denná forma)
+Študijný odbor: 1. 1. 5. Predškolská a elementárna pedagogika
+Školiace pracovisko: katedra pedagogiky
+Školiteľ: Mgr. Pavol Brezina, PhD.
+Oponent: Mgr. Iveta Štrbák Pandiová, PhD.
+
+Nitra 2018
+
+Dominika Kiššová
+
+POĎAKOVANIE
+Dovolím si poďakovať môjmu školiteľovi, Mgr. Pavol Brezina, PhD., za cenné rady a
+pripomienky, ktoré mi poskytol a pomohli mi pri vypracovávaní bakalárskej práce.
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že bakalársku prácu som vypracovala samostetne a všetku použitú
+literatúru som uviedla v zozname použitej literatúry.
+
+V Nitre, 18.04.2018
+
+.........................
+
+KIŠŠOVÁ, Dominika: Využitie audiovizuálnej didaktickej techniky v hudobnom
+vzdelávaní. [Bakalárska práca] Dominika Kiššová. – Univerzita Konštantína Filozofa
+v Nitre. Pedagogická fakulta, Katedra pedagogiky. – Školiteľ: Mgr. Pavol Brezina, PhD.
+Nitra: PF UKF, 2018.
+
+ABSTRAKT
+Bakalárska práca „Využitie audiovizuálnej didaktickej techniky v hudobnom
+vzdelávaní“ sa zaoberá najznámejšími audiovizuálnymi didaktickými pomôckami
+používanými na základných školách. Práca ďalej prináša kategorizáciu a využitie
+audiovizuálnych didaktických pomôcok v hudobnom vzdelávaní. Pozornosť venujeme
+histórii vývoja informačných a komunikačných technológií a ich integrácii do
+vzdelávania.V práci sa venujeme využitiu audiovizuálnych pomôcok za pomoci rôznych
+programov na internete alebo CD. Definujeme pojem hudobná informatika. Cieľom
+bakalárskej práce je informovať o audiovizuálnych didaktických pomôckach na
+základných školách. V závere bakalárskej práce zosumarizujeme, aké informácie sme
+získali a vyhodnotíme ich prínos pre hudobné vzdelávanie na základných školách.
+Kľúčové slová: IKT, didaktické pomôcky, hudobné vzdelávanie, hudobná informatika
+ABSTRACT
+The bachelor thesis " Audiovisual Technology in Music Education" is focused on
+introduction of the most famous audiovisual technology in music education used in
+elementary schol. The work also brings categorization and use of audiovisual didactic aids
+in musical education.. Attention is paid to the history of the development of information
+and communication technologies and their integration into education.We work on the use
+of audiovisual aids using various programs on the Internet or CDs. We define the therm
+Music Informatics.The aim of the bachelor thesis is to inform about audiovisual didactic
+aids in elementary schools. At the end of the bachelor thesis, we summarize what
+information we have gained and evaluate their contribution to music education at
+elementary schools.
+Key words: ICT, didactic aids, music education, music informatics
+
+Obsah
+SLOVNÍK POJMOV ........................................................................................................................ 8
+ZOZNAM OBRÁZKOV .................................................................................................................. 9
+ÚVOD ............................................................................................................................................. 10
+1.
+
+HISTÓRIA VÝVOJA IKT A INTEGRÁCIA DO VZDELÁVANIA ..................................... 12
+1.1.
+
+Hudobná informatika ....................................................................................................... 14
+
+1.1.1. Hudobný aspekt ............................................................................................................. 15
+1.1.2. Informatický aspekt ....................................................................................................... 16
+2.
+
+3.
+
+AUDIOVIZUÁLNE DIDAKTICKÉ POMȎCKY .................................................................. 19
+2.1.
+
+Materiálne didaktické pomôcky ...................................................................................... 19
+
+2.2.
+
+Definícia audiovizuálnych pomôcok ............................................................................... 22
+
+HUDOBNÁ VÝCHOVA A SÚČASNÉ HUDOBNÉ VZDELÁVANIE ................................ 25
+3.1.
+
+Využitie audio-vizuálnych didaktických pomôcok v súčasnom primárnom vzdelávaní .. 28
+
+3.1.1.
+
+Vzdelávacie webové portál ...................................................................................... 29
+
+3.1.2.
+
+Audionahrávky ........................................................................................................ 30
+
+3.1.3.
+
+Aplikácie ................................................................................................................. 31
+
+3.1.4.
+
+Edukačné softvéry ................................................................................................... 31
+
+ZÁVER ........................................................................................................................................... 33
+ZOZNAM POUŽITEJ LITERATÚRY ........................................................................................... 34
+
+SLOVNÍK POJMOV
+Audio - záznam zvukových vĺn vo vlnovej podobe
+CD - compact disc – kompaktný disk
+DVD - digital video disc – digitálny video disk
+Hardware/Hardvér - materiálne vybavenie počítača
+HDD - hard disc drive – pevný disk
+IKT – informačné a komunikačné technológie
+Internet - verejne dostupný celosvetový systém vzájomne prepojených
+počítačových sietí
+MIDI - musical instrument digital interface – digitálne rozhranie pre hudobné
+nástroje
+Notátor - počítačový program umožňujúci prácu s notovým materiálom
+PC - personal computer – osobný počítač
+Prehrávač - počítačový program umožňujúci prehrávanie (audio,video)
+RAM - Random Access Memory – pamäť s priamym prístupom
+ROM - Read Only Memory – pamäť len na čítanie (CD-ROM, DVD-ROM)
+Sekvencer - počítačový program umožňujúci nahrávanie, editáciu a prehrávanie
+hudobného alebo nehudobného materiálu
+Software/Softvér - programové vybavenie počítača
+USB - Universal Serial Bus – univerzálne sériové rozhranie , pôvodne
+rozhranie, dnes synonymum na USB kľúč
+(Sivý, 2006)
+
+8
+
+ZOZNAM OBRÁZKOV
+
+Obrázok č .1 Obsah lekcie kozmix (s.27)
+Obrázok č. 2 Hudba hrou – jar (s.28)
+Obrázok č. 3Hudobné CD (s.29)
+
+9
+
+ÚVOD
+Záverečná bakalárska práca sa zaoberá veľmi aktuálnou témou a to využitím
+audiovizuálnych didaktických pomôcok v hudobnom vzdelávaní. V 21. storočí je
+integrácie informačných a komunikačných technológií do vzdelávania stále viac
+príťažlivejšia. V súčasnosti sú už všetky školy, od materských až po vysoké, vybavené
+internetom a technológiami. Rozkvet technológií je veľmi viditeľný v každom smere
+a edukácia nie je výnimkou. Komunikačné technológie sa stali poprednou súčasťou
+vzdelávania v posledných rokoch.
+Hlavným cieľom bakalárskej práce je kategorizácia audiovizuálnych didaktických
+pomôcok. Ďalším veľmi dôležitým cieľom je uviesť spôsoby využitia a prínos
+materiálnych didaktických pomôcok v hudobnom vzdelávaní. Ako metódu spracovania
+sme si zvolili rešeršovanie, čo je neodmysliteľnou súčasťou každej bakalárskej práce
+a metódu analýzy a porovnania. Analyzovať budeme skutočnosť o dostupných
+audiovizuálnych pomôcok v školských zariadeniach a porovnávať sme sa rozhodli rôzne
+tvrdenia autorov o týchto pomôckach a ich definície.
+V práci sa budeme venovať informačným a komunikačným technológiám a ich
+postupnému prínosu a vývoju. Definujeme a kategorizujeme si materiálne didaktické
+pomôcky, ktorých neodmysliteľnou súčasťou sú audiovizuálne didaktické pomôcky.
+Pozornosť upriamime na hudobnú informatiku a ako je možné využívať v hudobnej
+výchove audiovizuálne didaktické pomôcky. Uvedieme si aj príklady programov
+a softvérov a priblížime si ich využitie.
+Uvedieme si aj aký typ vyučovanie a aké princípy sa používajú pri vyučovaní
+pomocou audiovizuálnych didaktických pomôcok. Nepísaným pravidlom totižto je, že
+učitelia si práve pomocou týchto pomôcok chcú natoľko uľahčiť prácu učiteľa, až to pre
+deti stráca význam a didaktické pomôcky sa stávajú nezaujímavými. Zároveň zvykne
+nastať aj opozitná situácia a to, keď učiteľ má strach pracovať s informačnými
+a komunikačnými technológiami, napríklad z dôvodu nedostatočných metodických
+príručiek.
+V bakalárskej práci sa budeme venovať najmä využitiu audiovizuálnych
+didaktických pomôcok v hudobnom vzdelávaní na základných školách. Na primárnom
+stupni sa často stáva, že hudobná výchova je pre deti súčasnej generácie nezaujímavá
+10
+
+a nudná. Piesne už zväčša poznajú a teoretické informácie ich nezaujímajú. A preto
+chceme poukázať na niekoľko možností, ako je možné hudobnú výchovu zlepšiť a spraviť
+ju zaujímavejšou a pestrou pre deti.
+V závere práce si zosumarizujeme, čo sme vďaka rôznym zdrojom zistili a k čomu
+sme dospeli pri študovaní a zisťovaní začlenenia audiovizuálnych didaktických pomôcok
+do hudobného vzdelávania.
+
+11
+
+1. HISTÓRIA VÝVOJA IKT A INTEGRÁCIA DO VZDELÁVANIA
+
+V prvej kapitole sa zameriame aj na vývoj informačných a komunikačných
+technológií a ich prepojenie s hudobným vzdelávaním. Z historického hľadiska toto
+prepojenie siaha mnoho rokov spätne až do čias spred 5000 rokov. Taktiež si bližšie
+charakterizujeme informačné a komunikačné technológie ako celok, definujeme
+technológie, ktoré pod tento celok spadajú a charakterizujeme aj určité audiovizuálne
+didaktické pomôcky ako je interaktívna tabuľa, či počítač.
+Na začiatku prepojenia hudby a počítačov boli Féničania, ktorí asi pred 5000
+vyvinuli pomôcku na vykonávanie základných výpočtov a to prvý tabuľkový systém.
+Bola to drevená krabička s kamienkami rôznej farby nazývaná abakus. Neskôr asi 500
+rokov pred našim letopočtom sa venoval číselnými pomermi tónov a intervalov
+Pytagoras. O 200 rokov neskôr vyzdvihoval Aristoteles estetiku a proporčnosť. V 15.
+storočí skúmal súvislosti umenia a vedy Leonardo da Vinci. Prvé mechanické sčítacie
+stroje vznikli v 17. Storočí. O niekoľko rokov neskôr v 18. storočí W. A. Mozart
+a neskôr aj J. N. Hummel skomponovali skladby za pomoci hracích kociek. V 19.
+storočí Dietrich Nicholas Winkel skonštruoval kompozium, čo bol prvý stroj na
+komponovanie hudby. V roku 1920 vynašli prvú gramofónovú platňu a prvý gramofón.
+Firma IBM v roku 1944 skonštruovala prvý samočinný počítač MARK I. V roku 1945
+nastal obrat vo filozofii stavby a tak John von Neumann navrhol aby samočinný
+počítač bol riadený vnútorným programom. O 11 rokov neskôr vynašli magnetofón
+a prvú magnetickú pásku. V 80. rokoch 20. storočia začali vydávať časopis pre
+digitálne spracovanie a počítačovú kompozíciu hudby. 90. roky 20. storočia boli
+významné pre hudobnú informatiku na Slovensku. V tomto období vznikla prvá verzia
+programu na počítačovú analýzu klasickej harmónie s názvom CACH, začali
+vychádzať prvé publikácie a zborníky so zameraním na prepojenie hudby
+a informatiky. Taktiež sa na VŠMU začal vyučovať predmet Základy práce
+s počítačom pre hudobníkov. Neskôr v roku 2005, keď sa vybudovala učebňa pre
+informalizáciu hudby, sa začal vyučovať na škole predmet Hudobné softvéry. V tomto
+období sa aj na iných vysokých školách začali vyučovať predmety
+s hudobnoinformatickým charakterom a to napríklad na Konzervatóriu v Bratislave, na
+
+12
+
+Univerzite Komenského v Bratislave a taktiež aj na Univerzite Konštantína Filozofa
+v Nitre na Filozofickej fakulte. (Ferková, 2008, s. 10-13)
+V skratke sme uviedli ako sa z historického hľadiska vyvíjalo prepojenie medzi
+hudbou a informatikou v rámci vynálezov a rozvoja v oboch smeroch. Už sme si
+uviedli v akom období, ktoré vynálezy vznikli a aj ako a kedy sa dostalo prepojenie
+týchto dvoch predmetov do povedomia ľudí. Tento vývoj však mal vplyv aj na rozvoj
+v pedagogike. Opäť si len stručne uvedieme ako informačné a komunikačné
+technológie ovplyvnili rozvoj pedagogiky.
+Vďaka informačným a komunikačným technológiám (ďalej IKT) a rozvoju
+techniky bolo možné uplatňovať princíp názornosti, ktorý propagovali viacerí
+pedagógovia ako napríklad J. A. Komenský alebo aj švajčiarsky pedagóg J. H.
+Pestalozzi. Zásada názornosti spočíva z priamej zmyslovej skúsenosti, na základe
+ktorej sa u žiakov vytvárajú predstavy a následne pojmy. Po roku 1940 sa začali vo
+vzdelávaní uplatňovať auditívne prostriedky a došlo aj k vyvinutiu záznamových
+a reprodukčných zariadení. Súčasne začalo aj cieľavedomé skúmanie vplyvu
+audiovizuálnych prostriedkov na vzdelávací proces. Vznikli spoločnou aplikáciou
+zvukových a obrazových informácií. V oblasti audiovizuálnej komunikácie sa
+výpočtová technika začala objavovať až po roku 1960, ale v tej dobe ešte nebolo
+možné ju využívať v edukačnom procese. Významný zlom nastal v roku 1983, keď
+firma IBM uviedla na trh prvý osobný počítač. V roku 1984 sa na trhu začali
+vyskytovať prvé didaktické hry a výučbové programy. S ďalším rozvojom počítačovej
+technológie výrazne klesali aj ceny IKT nástrojov, čo umožňovalo v rozmedzí rokov
+1991 – 1996 postupne vybavovať týmito nástrojmi vzdelávacie inštitúcie a to spočiatku
+najmä stredné a vysoké školy. Od roku 2000 nastalo masívne vybavovanie základných
+škôl IKT nástrojmi. (Klement, Dostál, Kubrický, Bártek, 2017, s. 48-50)
+V súčasnej dobe sa informačné a komunikačné technológie považujú za
+neodmysliteľnú súčasť edukačného procesu. Informačné a komunikačné technológie
+(IKT) sa stali v rámci veľmi krátkeho času, jedným zo základných stavebných
+kameňov modernej spoločnosti. Veľa krajín teraz považuje porozumenie IKT a
+ovládanie základných zručností a koncepcie IKT ako súčasť jadra vzdelávania spolu s
+čítaním, písaním a počítaním (UNESCO, 2002, p. 8).
+13
+
+IKT sa stali neoddeliteľnou súčasťou edukácie na všetkých školách postupom času.
+Ich vývoj bol náročný a prekvital až v 20. a 21.storočí, keď sa masovo začali využívať
+IKT nielen pri kancelárskych profesiách, ale aj vo vzdelávaní. Vznikali na školách prvé
+plne vybavené počítačové učebne, prvé laboratóriá, kde sa IKT využívali napríklad pri
+výučbe cudzích jazykov a taktiež aj hudobné laboratóriá na školách s hudobným
+zameraním.
+Zatiaľ sme sa IKT venovali len z historického hľadiska a aký vplyv mal ich rozvoj
+na spoločnosť a vo viacerých vedných disciplínach. Ďalej sa budeme venovať IKT ako
+pojmu a čo pod tento pojem spadá.
+Podľa Š. Smiteka (1998) sú informačné technológie metódami, postupmi a
+spôsobom zberu, uchovania, spracovania, overovania, vyhodnocovania, selekcie,
+distribúcie a včasného doručenia potrebných informácií vo vyžadovanej forme a
+kvalite. V širšom slova zmysle by sme pod tento názov mohli zahrnúť aj technické a
+programové prostriedky, ktoré zabezpečujú, prípadne podporujú realizáciu vyššie
+uvedených činností (Jandová R., 2005, s.84).
+Kolektív českých autorov uvádza, že pod pojmom IKT nástrojmi sú myslené
+technické zariadenia ako: interaktívna tabuľa, tablety, počítače a pod., ale tiež
+programové vybavenie ako: výučbové programy, vzdelávacie webové stránky, elearningové portály, elektronické výučbové materiály, elektronické knihy a pod.
+(Klement, Dostál, Kubrický, Bártek, 2017, s. 11)
+
+1.1.
+
+Hudobná informatika
+Definícia pojmu informačné a komunikačné technológie je v každej publikácii
+
+odlišná, ako môžeme vidieť vo vyššie uvedených príkladoch definícií od rôznych
+autorov, v závislosti od jej využitia. Vo vzdelávaní by sme tento pojem mohli
+definovať ako technické zariadenia a programové vybavenie vzdelávacích inštitúcií,
+ktoré sú prostriedkom pre uplatňovanie teórie programového vyučovania. V súčasnosti
+sa termín informačné a komunikačné technológie nahrádzajú novým pojmom digitálne
+technológie. Využitie digitálnych technológií v oblasti hudobného vzdelávania
+nazývame hudobná informatika.
+14
+
+Ferková vo svojej publikácii definovala tento pojem ako „pomocnú hudobno-vednú
+disciplínu, ktorá zasahuje mnohé oblasti hudobnej vedy“ (Ferková 2008, s. 20).
+Definícia od Ferkovej poníma hudobnú informatiku z hľadiska muzikológie, zatiaľ
+čo Brezina definuje tento pojem z pedagogického hľadiska, a to nasledovne: „Hudobná
+informatika sa zaoberá možnosťami zvýšenia kvality a efektivity vyučovacieho procesu
+prostredníctvom príslušných materiálnych didaktických prostriedkov (IKT), učebných
+pomôcok (softvér) a vyučovacích metód.“ (Betko, Brezina, 2013, s.9)
+Hudobná informatika spája poznatky z informatiky a vkladá ich do hudby
+a muzikológie. Systematiku hudobnej informatiky je možné vnímať z dvoch hľadísk
+ako uvádza Ferková (2008) a to ako hudobný aspekt a informatický aspekt.
+
+1.1.1. Hudobný aspekt
+Podľa druhu činností sa rozdelila aplikácia počítačov v hudbe na 3 základné oblasti:
+1. Kompozícia
+2. Interpretácia
+3. Percepcia
+Kompozícia
+Vo všeobecnosti definujeme tento pojem podľa slovníka cudzích slov ako „Celkové
+rozloženie, zostavenie i skladanie, usporiadanie zložiek prvkov.“ (Šaling, 2002, s. 327)
+Ferková charakterizuje kompozíciu ako: „Počítačové napodobňovanie známych
+skladateľských štýlov.“ (Ferková, 2008, s.22)
+Najstručnejšiu charakteristiku tohto pojmu uviedol Laborecký, ktorý pojem
+definoval ako tvorbu hudby, prípadne skladby. (Laborecký, 1997, s. 119)
+Interpretácia
+V slovníku cudzích slov pod pojmom interpretácia je uvedené, že je to:
+„vysvetlenie, výklad“ . (Šaling, 2002, s. 282)
+
+15
+
+Avšak v hudobnom terminologickom slovníku je tento pojem charakterizovaný
+ako: „predvedenie, reprodukcia nového zápisu dirigentom, spevákom, inštrumentalistom,
+orchestrom“ .(Laborecký, 1997, s. 108)
+Ferková definuje pojem interpretácia z hľadiska informatického a to ako počítačové
+generovanie nových netradičných zvukov, čo malo pozitívny vplyv aj na zlepšenie
+kompozičných postupov, ďalej pod tento pojem zaradila počítačové napodobňovanie
+zvukov tradičných nástrojov a ako poslednú časť tohto termínu sem zaradila roboty, ktoré
+napodobňujú hráčov na hudobných nástrojoch. (Ferková, 2008, s. 26)
+Výskum
+V tejto oblasti, oblasti výskumu, má počítač najširšie uplatnenie z doteraz
+spomenutých oblastí a taktiež úzko spolupracuje s matematikou. Členenie tejto oblasti
+podrobne rozpracovala Ferková, vo svojej publikácii hudobná informatika na viacero
+podoblastí a to na expertné systémy, tradičnú analýzu ( matematické modelovanie
+tradičných postupov), netradičné analýzy, akustická analýza ( definovanie jednotlivých
+hlasov pri viachlasom vstupe) a posledná podoblasť je tvorba syntéz, korelácií
+a kombinácií predchádzajúcich typov analýz. (Ferková, 2008, s. 27-36)
+
+1.1.2. Informatický aspekt
+Z informatického aspektu z hľadiska fáz počítačového spracovania rozčlenila
+Ferková (2008) túto problematiku nasledovne:
+1. Vstup
+2. Spracovanie
+3. Výstup
+Každý bod z tohto členenia obsahuje ešte niekoľko podoblastí, ktoré si stručne
+charakterizujeme. Vo všeobecnosti si pod pojmom informatický aspekt môžeme predstaviť
+ako súbor programov, ktorý slúžia na nahratie skladby do počítača, programy na
+spracovanie a riešenie muzikologických problémov a výstup, ktorý vznikol za pomoci
+týchto dvoch oblastí, čo môže byť napríklad vytlačený notový záznam, partitúra alebo
+skladba v podobe audio záznamu.
+16
+
+Vstup
+Typ vstupu poznáme automatizovaný alebo manuálny. Automatizovaný sa realizuje
+prostredníctvom vstupných zariadení ako MIDI klávesnica, scanner, cez ktorý opticky
+nasnímame notopis, alebo za pomoci hudobných softvérov ako napríklad PhotoScore
+profesional alebo MidiScan. Ďalej vstup môže prebiehať cez akustické snímače
+znejúcej hudby , taktiež za pomoci programov ako napríklad AudioScore Profesional.
+Alebo sa skladba stiahne z internetu alebo iným spôsobom ako napríklad kombináciou
+predošlých spomenutých. (Ferková, 2008, s. 39)
+Spracovanie
+Podľa získaných údajov do tejto oblasti zaraďujeme všetky programy, softvéry
+a aplikácie, prostredníctvom ktorých spracúvame hudobné informácie a tvoríme
+viacero možných výstupov. Patria sem programy ako napríklad notové editory,
+kompozičné programy a aj programy slúžiace na spracovanie databáz hudobných
+informácií. (Ferková, 2008, s. 39-41)
+Výstup
+Výstup je výsledok činnosti v hudobných programoch, ktorý môže mať vizuálnu
+(notový záznam, graf a pod.) a akustickú ( nahrávky, ktoré vznikli rôznymi spôsobmi
+spracovania zvuku) podobu. (Ferková, 2008, s. 41-42)
+Používanie počítačov v umení, teda aj v hudbe je interdisciplinárnou záležitosťou.
+Počítač v oblasti hudby je možné použiť na celý rad činností, mnoho z nich postihuje
+len jednu časť hudby alebo proces jej vzniku. Rola počítača v hudbe môže byť rôzna –
+je schopný nahradiť skladateľa, interpreta aj hudobný nástroj. Okrem uspokojivého
+napodobenia tradičných hudobných nástrojov, hustoty hudby a spôsobu hry nám
+ponúka úplne nové zvuky, tempo a priestory. (Forró, 1994, s.37)
+V prvej kapitole sme sa venovali spojeniu informatiky a hudby, jej vývoju od čias
+pred našim letopočtom až po súčasnosť. Postupom času, sa informatika a hudobné
+vzdelávanie prepojilo a vznikol pojem hudobná informatika a tým sa začali vytvárať aj
+viaceré podoblasti spracovania hudby za pomoci hardvérov a softvérov. Spočiatku toto
+prepojenie bolo aplikované na vysokých školách a umeleckých školách, ale
+v súčasnosti už sa využíva hudobná informatika aj na základných školách a to aj za
+17
+
+pomoci audio – vizuálnych didaktických pomôcok, ktorým sa budeme venovať
+v nasledujúcej kapitole.
+
+18
+
+2. AUDIOVIZUÁLNE DIDAKTICKÉ POMȎCKY
+
+V kapitole dva sa budeme bližšie venovať významu didaktických pomôcok vo
+vzdelávaní a upriamime pozornosť najmä na audiovizuálne didaktické pomôcky a ich
+kategorizácii. Audiovizuálne pomôcky majú veľmi dôležitú úlohu v edukácii, ktorá sa
+stáva vďaka nim interaktívnejšou. Mnoho základných škôl disponuje pokročilou
+technológiou, ktorú je možné využívať pri každodennom vyučovacom procese a taktiež
+v rámci hudobnej edukácie
+.
+2.1.Materiálne didaktické pomôcky
+Materiálne didaktické pomôcky delí každý autor podľa kritérií, ktoré uznal za
+vhodné a správne. Niektoré sú stručné a iné zasa obšírne, ale my sme si vybrali
+klasifikáciu od Petláka, ktorý vo svojej publikácii Všeobecná didaktika uvádza
+delenie do piatich hlavných skupín, ktoré sa potom delia na ďalšie podskupiny.
+I.
+
+Učebné pomôcky
+1. Originálne predmety reálnej skutočnosti
+a) Prírodniny: upravené, neupravené
+b) Výtvory a výrobky: vzorky výrobkov, prístroje, umelecké diela
+c) Javy a deje: fyzikálne, chemické, biologické a pod.
+2. Zobrazenia znázornenia predmetov a skutočnosti
+a) Modely: statické, funkčné, stavebnicové
+b) Zobrazenia priame: školské obrazy, fotografie, mapy
+c) Prezentované pomocou didaktickej techniky: statické a dynamické
+d) Zvukové záznamy: magnetické, optické
+3. Textové pomôcky
+a) Učebnice: klasické, programové
+b) Pracovné materiály: pracovné zošity, študijné návody, tabuľky,
+atlasy a pod.
+c) Doplnková pomocná literatúra časopisy, encyklopédia
+4. Programy a porady prezentované didaktickou technikou
+a) Porady: diafonové, televízne, rozhlasové
+19
+
+b) Programy: pre vyučovacie stroje, vyučovacie sústavy alebo počítače
+a pod.
+5. Špeciálne pomôcky
+a) Žiacke experimentálne sústavy
+b) Pomôcky pre telesnú výchovu
+II.
+
+Technické vyučovacie prostriedky:
+1. auditívna technika: magnetofóny, gramofóny, rozhlas
+2. vizuálna technika: diaprojektor, spätný projektor, dynamická projekcia
+3. audiovizuálna technika: diafilm, film, videorekordér, multimediálne
+systémy
+4. riadiaca a hodnotiaca technika : spätnoväzobné systémy, výučbové
+počítačové systémy, trenažéry, simulátory
+
+III.
+
+Organizačná a reprografická technika: fotolaboratórium, kopírovacie
+a rozmnožovacie stroje, počítače a počítačové siete, a pod.
+
+IV.
+
+Výučbové priestory a ich vybavenie: štandardná učebňa, učebňa so
+zariadením pre reprodukciu audiovizuálnych pomôcok, odborné učebne,
+a pod.
+
+V.
+
+Vybavenie učiteľa a žiaka: sú to napríklad písacie potreby, kalkulátory,
+notebooky, a pod.
+(Petlák, 2016, s. 194-195)
+
+V tomto delení sme uviedli okrem klasifikácie materiálnych didaktických pomôcok
+už aj ich konkrétne príklady. Mnohokrát sa stretávame s úvahami nad tým k čomu
+slúži také množstvo didaktických pomôcok vo vzdelávaní a odpoveďou je často, že
+slúžia na zlepšenie pochopenia učiva, ale nie je tomu celkom tak. Viacerí autori sa
+venovali funkciál didaktických pomôcok vo výchovno-vzdelávacom procese. Podľa
+Petláka (2016) sú to tieto:
+a) Motivačná - podnecuje záujem o učivo u žiakov, za predpokladu, že vyučujúci
+pracuje s didaktickými pomôckami správne a vhodne ich zaradí do
+vzdelávacieho procesu
+b) Informatívna- táto funkcia je pre žiaka veľmi významná, nielenže ho
+informuje o učive ale je aj spätnou väzbou, kedy informuje žiaka o tom, či sú
+jeho vedomosti o učive správne
+20
+
+c) Formatívna – napomáha rozvoju tvorivej činnosti žiakov a aj myšlienkových
+operácií pri práci s pomôckami
+d) Inštrumentálna- pomocou materiálno didaktických prostriedkov žiak získava
+nové vedomosti, zručnosti a návyky, ktoré následne používa pri ďalšom
+vzdelávaní
+e) Precvičovacia – táto funkcia predstavuje fixáciu učiva pomocou materiálnych
+didaktických pomôcok
+f) Systematizujúca - didaktické pomôcky a technika pomáhajú vytvárať
+a zaraďovať vedomosti do istého systému
+g) Názorná – pomôcky pôsobia na zmysly, a tak žiak získa ucelenejšia informácie
+o predmete
+h) Sú zdrojom nositeľom informácií- výklad učiteľa sa dopĺňa pozorovaním
+predmetov a javov
+i) Racionálna a ekonomická – uľahčí a urýchli proces učenia
+j) Uľahčuje prechod od teórie k praxi – žiak manipuluje s predmetmi, počuje
+ich a experimentuje
+k) Podporuje samoštúdium – pracuje a pozoruje predmety a javy
+v mimoškolskom čase.
+(Petlák, 2016, s. 195-196)
+Funkcie materiálnych didaktických pomôcok podľa Petláka predstavujú členenie
+v rámci predagogiky ako celku, ale Brezina (in: Betko, 2013, s. 9-10) uviedol len
+štyri funkcie materiálnych didaktických pomôcok a učebných pomôcok
+v programovom vyučovaní a to nasledovne:
+a) Motivačná- vysokú motivačnú funkciu pre deti má už v tejto dobe počítačové
+vybavenie automaticky a pokiaľ sa využije kvalitne spracovaný softvér, tak je
+funkcia ešte silnejšia.
+b) Názorná – softvérové vybavenia môže pozitívne pôsobiť na žiaka za pomoci
+ostatných technických zariadení ako napr. slúchadlá alebo reproduktory a aj na
+jeho kľúčové zmysly – zrak a sluch.
+c) Racionálna a ekonomická- k efektívnemu učeniu pomáha využitie správneho
+softvéru
+
+21
+
+d) Podpora samoštúdia- práca s počítačovou technikou počas vzdelávacieho
+procesu v škole je predpokladom, že žiak sa bude tejto činnosti venovať naďalej
+aj doma počas voľného času.
+(Brezina, Betko, 2013, s.9-10)
+
+2.2.Definícia audiovizuálnych pomôcok
+Zvukovo vizuálne pomôcky sú tiež nazývané ako inštruktážne materiály. Audio
+doslovne znamená počuť a vizuálne znamená to, čo je možné vidieť. Takže všetky
+takéto pomôcky, ktoré sa usilujú o to, aby sa naše vedomosti objasnili prostredníctvom
+našich zmyslov, sa nazývajú "Audio vizuálne pomôcky" alebo inštruktážny materiál.
+Všetok tento učebný materiál urobí učiace situácie čo najpravdepodobnejším a dáva
+nám vedomosti z prvej ruky prostredníctvom orgánov počutia a videnia. Z tohto
+dôvodu môže byť akýkoľvek nástroj, ktorý môže byť použitý na to, aby sa vzdelávacia
+skúsenosť stala konkrétnejšou a účinnejšou, realistickejšou a dynamickejšou. Učíme sa
+prostredníctvom zmyslových orgánov. Zmysly sú cestou k vedomostiam. Väčšinu
+z vedomostí, ktoré sme získali v škole, nám boli sprostredkované pomocou zraku
+a sluchu.
+Materiálnym didaktickým pomôckam sa venoval aj Brečka, ktorý didaktickú
+techniku rozdelil do nasledovných skupín:
+a) Zobrazovacie plochy – plochy pre nepremietaný záznam, plochy pre
+premietaný záznam, interaktívne tabule
+b) Projekčná (premietacia) technika- zariadenia pre statickú projekciu(
+diaprojektor, spätný projektor), zariadenia pre dynamickú projekciu (filmové
+projektory, videoprojektory)
+c) Zvuková technika – gramofón, magnetofón, slúchadlá, mikrofón
+d) Televízna technika – televízne prijímače a monitory, videogramofóny a pod.
+e) Vyučovacie technické systémy na báze informačných technológií- –
+mediálny systém ( auditívna alebo vizuálna prezentácia), multimediálny systém
+(audiovizuálna prezentácia), hypermediálny systém ( internetová sieť)
+
+22
+
+f) Špeciálna technika – zariadenia na záznam a spracovanie obrazu a zvuku
+(analógové a digitálne fotoaparáty a pod.)
+(Brečka, 2014, s.15-16)
+Môže sa klasifikovať jednoducho na základe senzorickej skúsenosti. Pretože ľudské
+bytosti odvodzujú svoje skúsenosti najmä prostredníctvom priamych zmyslových
+kontaktov. S ohľadom na to môžeme audiovizuálne pomôcky zaradiť do troch
+hlavných skupín:
+1. Príklady zvukových prístrojov - rádio, záznamník, gramofón, audio kazetový
+prehrávač, jazykové laboratórium
+2. Príkladmi vizuálnych pomôcok - Graf, Mapy, Obrázky, Modely, Textové knihy,
+Slide Projector, Flash karty, Tlačové materiály atď.
+3. Audiovizuálne pomôcky - projektor LCD, filmový projektor, televízia, počítač,
+VCD prehrávač, virtuálna učebňa, multimédia atď.
+(http://www.studylecturenotes.com/curriculum-instructions/audio-visual-aids-ineducation-definition-types-objectives)
+Okrem zahraničných zdrojov sa aj na Slovensku mnohí autori venujú
+audiovizuálnym didaktickým pomôckam v rôznych oblastiach. Petlák v rámci didaktických
+aspektoch materiálnych prostriedkoch hovorí: „Audiovizuálna a aj ostatná didaktická
+technika má médiá prezentovať, vhodne dopĺňajú pozorovanie reálnej skutočnosti,
+nahradzujú ju, ba v mnohom majú aj niektoré prednosti.“ (Petlák, 2016, s. 197)
+Pre efektívne vyučovanie pomocou audiovizuálnych pomôcok v hudobnej výchove
+na základných školách je potrebné aby školy disponovali technickými pomôckami
+v učebniach alebo triedach. Niektoré z týchto pomôcok si teraz stručne definujeme:
+Osobný počítač – poznáme dva typy a to PC (personal computer) od firmy IBM a MAC
+od firmy Apple. Pod pojmom osobný počítač môžeme v súčasnosti chápať stolový počítač,
+ktorého hardvér je tvorený z počítačovej skrine, monitora, klávesnice a myši, ale aj
+prenosný počítač ako je laptop, či notebook.
+Reproduktory - pre elementárnu prácu stačia aj zabudované reproduktory v počítači, či
+notebooku, ale pre kvalitnejšie vzdelávanie je vhodná kvalitnejšia externá zostava.
+
+23
+
+Slúchadlá – umožňujú vypočutie si skladby viacerých poslucháčov naraz tak, že sa
+navzájom nerušia a taktiež umožňujú citlivejšie vnímanie chýb v zvukovej stope. Sú
+plnohodnotnou alternatívou k reproduktorom.
+Tablet - predstavuje jedno z kľúčových zariadení, ktoré zásadným spôsobom obohacuje
+didaktické technológie, ktoré môžu premeniť to, akým spôsobom učiteľ pracuje priamo na
+hodine, ale tiež komunikuje so žiakmi, vzdeláva sám seba alebo si tvorí prípravy. (Černý
+2015, s. 9)
+Černý charakterizoval tablet ako didaktickú pomôcku, uvedieme aj definíciu od
+Neumajera, ktorý pojem definoval ako zariadenie z informatického hľadiska: „Tablet je
+mobilný počítač s integrovaným dotykovým displejom, ktorým je primárne ovládaný“
+(Neumajer a kol. 2015, s. 34).
+Interaktívna tabuľa – Dostál (in Brečka 2014) definuje interaktívnu tabuľu nasledovne:
+„Interaktívna tabuľa je dotykovo senzitívna plocha, prostredníctvom ktorej prebieha
+vzájomná komunikácia medzi užívateľom a počítačom s ciešom zabezpečiťmaximálnu
+možnú mieru názornostizobrazovaného obsahu.“ (Brečka, 2014, s.28)
+Šašala interaktívnu tabuľu definoval ako:„ elektronické zariadenie, ktoré je
+periférnym zariadením osobného počítača alebo notebooku a umožňuje ovládať ho
+interaktívnym spôsobom interaktívnym perom, alebo prstami.“ (Šašala 2017, s.37)
+Brečka pojem interaktívna tabuľa charakterizoval zo širšieho a užšie hľadiska.
+V širšom slova zmysle chápe interaktívnu tabuľu ako „elektronickú dotykovo senzitívnu
+projekčnú plochu, ktorá je prepojená s počítačom a datavideoprojektorom premietajúcim
+obraz z počítača na jej povrch.“ (Brečka, 2014, s.28)
+V užšom zmysle chápe zariadenie ako: „elektronické zariadenie, ktoré je
+v edukačnom prostredí využívané formou materiálneho didaktického prostriedku určeného
+na vzdelávacie účely.“ (Brečka, 2014,29)
+Po získaných vedomostiach o interaktívnej tabuli ju môžeme charakterizovať ako
+elektronické zariadenie, ktoré za pomoci počítača, datavideoprojektora a dotyku prstom
+alebo iným dotykovým nástrojom slúži vo vzdelávaní ako audiovizuálna didaktická
+pomôcka.
+24
+
+Datavideoprojektor – je zariadenie slúžiace na premietanie obrazu na akúkoľvek
+premietaciu plochu, napr. tabuľa, plátno, interaktívna tabuľa, stena, atď.
+
+3. HUDOBNÁ VÝCHOVA A SÚČASNÉ HUDOBNÉ VZDELÁVANIE
+
+V kapitole dva sme sa rozhodli venovať hudobnému vzdelávaniu v súčasnosti. Na
+Slovensku za ostatné roky vzniklo viacero projektov ako napríklad projekt Infovek,
+Milénium, Moja prvá škola, ale aj Digipedia a Škola na dotyk. Cieľmi týchto projektov
+bolo vo všeobecnosti modernizovať vzdelávanie a vybavenia školy a integrácia IKT do
+vzdelávania. Bližie sa budeme venovať len projektom, ktoré v určitej miere ovplyvnili
+hudobné vzdelávanie.
+Vzdelávanie sa modernizovalo už od dávnych čias a ako hovorí Petlák (2016):
+„Modernizácia ako didaktický problém nie je v pedagogike v podstate ničím
+novým.“(Petlák, 2016, s. 221)
+Dvadsiate storočie sa stalo obdobím masového rozvoja techniky a predpoklady
+naznačujú , že tomu bude tak aj 21. storočí, preto väčšina krajín celého sveta zaraďujú do
+svojho vzdelávania technické vzdelávanie. Nový program, ktorý prijala svetová
+organizácia UNESCO, akceptovala aj Slovenská republika. Zameral sa na humanitné
+využitie techniky a technickú gramotnosť. Pri vyučovaní pomocou techniky žiak vystupuje
+ako aktívny subjekt a nie ako pasívny pozorovateľ. (Kolláriková, Pupala 2010, s. 421)
+Pri modernizácii nie je možné vnímať len jednu oblasť, pretože nemôžeme
+modernizovať len pomôcky, pokiaľ budeme pracovať so starými osnovami alebo
+učebnicami. Preto pri modernizácii je nutné sa odvíjať od komplexu viacerých činností vo
+výchovno-vzdelávacom procese, aby mohla modernizácia prebehnúť úspešne. Petlák
+načrtol tri aspekty modernizácie, ktoré spočívajú „v komplexnom riešení načrtnutých
+a ďalších otázkach:1. V modernizácii obsahu vzdelávania, 2. V modernizácii metód
+a foriem výchovno-vzdelávacej práce učiteľa a školy, 3. V modernizácii materiálnotechnickej stránke vyučovania.“ (Petlák, 2016, s. 222)
+Všeobecný trend modernizácie vzdelávania postihol aj hudobnú edukáciu. V rámci
+modernizácie vzdelávania prebehli projekty ako Infovek alebo projekt Milénium. Vďaka
+25
+
+projektu Infovek bolo na Slovensku vyriešené rozširovanie internetu na školách.
+V súčasnosti je na všetkých štátnych školách zavedený internet a zároveň sú tieto školy
+vybavené informačnými technológiami, ktoré sú rôzne v závislosti od typu školy.
+V štátnom vzdelávacom programe sú vymedzené v kompetenčnom profile absolventa
+požiadavky na spôsobilosť využívať informačné technológie.
+(https://www.minedu.sk/data/att/4759.pdf)
+Na Slovensku vymedzil Štátny pedagogický ústav v rámci Štátneho vzdelávacieho
+programu pre 1. stupeň základnej školy v Slovenskej republike (ISCED 1) kompetencie
+v oblasti informačných a komunikačných technológií nasledovne:
+„kompetencie (spôsobilosti) v oblasti informačných a komunikačných technológií
+- vie používať vybrané informačné a komunikačné technológie pri vyučovaní a učení sa,
+- ovláda základy potrebných počítačových aplikácií,
+- dokáže primerane veku komunikovať pomocou elektronických médií,
+- dokáže adekvátne veku aktívne vyhľadávať informácie na internete,
+- vie používať rôzne vyučovacie programy,
+- získal základy algoritmického myslenia,
+- chápe, že je rozdiel medzi reálnym a virtuálnym svetom,
+- vie, že existujú riziká, ktoré sú spojené s využívaním internetu a IKT“
+(http://www.statpedu.sk/files/articles/dokumenty/statny-vzdelavaciprogram/isced1_spu_uprava.pdf)
+V rámci projektu Milénium, ktorý sa rozhodla vláda vypracovať ako dlhodobú
+koncepciu na rozvoj výchovy a vzdelávania na najbližších 15 až 20 rokov, bolo
+vypracovaných na základe analýz a koncepčných zmien obsahu dvanásť pilierov, o ktoré
+sa tento projekt bude opierať. Bod číslo deväť zahŕňa informačné technológie a to najmä so
+zameraním na internet. Tento bod pojednáva o tom, že na základe projektu Infovek sa
+Slovenskej republike podarí do roku 2003 zapojiť na všetkých školách internet, preškolia
+
+26
+
+sa učitelia a všetci žiaci končiaci maturitou v roku 2004 budú vedieť pracovať
+s internetom.
+(http://www.cpk.sk/web/dokumenty/npvv.pdf)
+Milénium vytýčilo ciele aj hudobnej výchove a v prípade dodržiavanie požiadaviek
+tohto projektu môžu informačné a komunikačné technológie obohatiť hudobnú edukáciu
+a tým sa podarí aj motivovať žiakov a vzbudiť v nich záujem o predmet a hudbu ako takú.
+Cieľom je, aby sa hudba stala zdrojom emócií, vedomostí v interpretačnej a aj
+v receptívnej rovine. Práve táto idea Milénia sa stala východiskom pre modernizáciu
+hudobnej výchovy. (Brozmanová, 2015)
+Na nových výchovných cieľoch v projekte Milénium sa podieľalo viacero
+ambicióznych pedagógov, ktorých cieľom bolo skvalitnenie a zefektívnenie hudobnovýchovného procesu. Z vymedzenia cieľov je zjavné že ide o atraktívnejšiu realizáciu
+a inovatívny prístup k hudobnej edukácii.(Kupková, 2014, s.61-63)
+Ciele štátneho vzdelávacieho programu plní učiteľ na vyučovaní prostredníctvom
+pomôcok a vopred vypracovaných učebných materiálov. Kostru predmetu mu udáva štátny
+vzdelávací program a učebnica hudobnej výchovy, ale priame vzdelávanie záleží od toho
+ako učiteľ dokáže flexibilne a atraktívne pripraviť vzdelávacie aktivity.
+Zo štátneho vzdelávacie programu pre 1. stupeň základných škôl uvedieme ciele
+hudobnej výchovy na základných školách, ktoré sú stanovené prostredníctvom poznávania
+určitých vytýčených oblastí hudobného vzdelávania.
+„Cieľom je prostredníctvom:
+- poznania a precítenej interpretácie slovenských ľudových piesní, pochopením úlohy
+ľudovej piesne v živote človeka a spoločnosti si osvojiť hudobný materinský jazyk a takto
+prispieť rozvíjaniu kultúrnych kompetencií žiakov,
+- poznania slovenského zvykoslovia, vlasteneckých piesní, umeleckého spracovania
+ľudových piesní hudobnými skladateľmi, minulej a súčasnej podoby ľudových piesní získať
+základy národnej identity a vlastenectva,
+
+27
+
+- postupného poznávania umeleckých artefaktov ich chápať ako prirodzenú súčasť svojho
+života.“ (http://www.statpedu.sk/files/articles/dokumenty/statny-vzdelavaciprogram/hudobna_vychova_isced1.pdf)
+Z informácií, ktoré sa nám podarilo získať môžeme usúdiť že projekt Infovek mal
+veľký význam pre školy v trámci technického rozvoja a Projekt milénium inovoval na
+základe tohto projektu ciele a kompetencie vo vzdelávaní pre všetky vyučovacie predmety
+vo vzdelávacích inštitúciách.
+Veľkým prínosom pre vzdelávanie na školách je aj nezisková organizácia Edulab,
+ktorá sídli v Bratislave. Je to organizácia moderného vzdelávania na Slovensku, ktorá sa
+zamerala na učiteľa a zefektívnenie vyučovania a rýchle spracovanie nových informácií
+a požiadaviek, ktoré vznikajú. Edulab je tvorca niekoľkých známych projektov, do ktorých
+sa školy masovo zapájajú ako napríklad: Škola na dotyk, Škola hrou alebo Moja prvá
+škola.
+Rozhodli sme sa bližšie venovať projektu Moja prvá škola, ktorý je určený pre
+pedagógov na 1. stupni základných škôl. V rámci tohto projektu vypracoval kolektív
+autorov a gestorov Metodickú príručku pre učiteľov a bezplatne sprístupnili aj vzdelávací
+portál kozmix na webovej stránke www.kozmix.sk . Na tejto stránke sme sa stretli so
+vzdelávacím materiálom pre učiteľov ale aj žiakov.
+
+3.1.Využitie audio-vizuálnych didaktických pomôcok v súčasnom primárnom
+vzdelávaní
+Využitie audio-vizuálnych didaktických pomôcok, ako je počítač, interaktívna tabuľa,
+či tablet je možné realizovať v súčasnom primárnom vzdelávaní pomocou hudobných
+edukačných softvérov alebo vzdelávacích portálov na internete. Audiovizuálne didaktické
+pomôcky využíva vyučujúci za pomoci učebných materiálov a technického vybavenia,
+ktoré ma k dispozícii. Najprístupnejší je internet a webové portály, ktoré obsahujú
+vzdelávací materiál pre žiakov na primárnom stupni.
+
+28
+
+3.1.1. Vzdelávacie webové portál
+Didaktické pomôcky v rámci hudobného vzdelávania sa vyvíjali postupne s dobou od
+gramofónov, magnetofónov, cez počítače až k využitiu tabletov a interaktívnych tabúľ.
+Súčasné vzdelávanie je interaktívne a modernizácia pomocou IKT mala vplyv aj na
+hudobnú výchovu na základných školách. Už aj v učebniciach pre základné školy pre 4.
+ročník sa stretneme pri piesňach s odkazmi na webový zdroj www.youtube.com ,kde si
+pieseň môžu žiaci vypočuť. Tento fenomén súčasnej doby popísala aj Osvaldová :„Pri
+počúvaní skladieb využívame reprodukovanú hudbu, ktorú žiaci počúvajú a prípadne
+sledujú prostredníctvom CD a DVD prehrávača, a počítačovej techniky na
+frekventovaných hudobných vyhľadávačoch.“ (Osvaldová 2015, s.200)
+Internet v súčasnosti využíva každá škola aj vo vzdelávaní. Okrem hudobných
+vyhľadávačov ako napríklad youtube, sú dostupné na internete aj edukačné portály ako
+napríklad KOZMIX, ktorý sme už spomínali. Na edukačnej stránke KOZMIX je
+sprístupnený kurz pre žiakov pre hodinu hudobnej výchovy, kde obsahom kurzu je získať
+vedomosti o dirigentovi. Prebieha formou výkladu a názornej ukážky (viď. Obrázok 1). Na
+konci kurzu je krátky kvíz. Toto cvičenie je vhodné pre žiakov prvého stupňa základných
+škôl a je možné ho realizovať pomocou tabletov, počítača alebo aj interaktívnej tabule.
+Žiaci si tento kurz môžu spraviť v škole za pomoci učiteľa a môžu si ho doma opäť
+zopakovať. Na tomto portály sú prístupné aj iné kurzy ako napríklad hra na telo. Portál
+využíva platné učebnice hudobnej výchovy a k nim pripravuje a sprístupňuje materiál pre
+učiteľa, vďaka ktorému deti motivuje k činnosti na hudobnej výchove.
+Obrárok č. 1 Obsah lekcie kozmix
+
+29
+
+Ako druhý portál na internete sme sa rozhodli predstaviť multimediálny didaktický
+program s názvom Hudba hrou – piesne pre deti a celú rodinu. Hlavnou funkciou
+programu je vytváranie tónovo-výškových hudobných predstáv a ich interpretáciu. Na
+Vzdelávacom portály sú k dispozícii štyri ročné obdobia, ktorých obsahom sú tematické
+piesne (viď obrázok 2). Po výbere piesne sa zobrazí jednoduchá detská ilustrácia a učiteľ si
+môže zvoliť ako chce aby pieseň odznela. Taktiež súčasťou portálu je aj metodický postup
+a aj notový záznam piesne s textom. V každom ročnom období sú piesne rozdelené na
+ľudové a umelé. Tento portál vytvorili na Katedre hudobnej a výtvarnej výchovy
+Pedagogickej fakulty Prešovskej univerzity v Prešove a sprístupnený je na webovej stránke
+http://hudbahrou.pf.unipo.sk.
+Obrázok č. 2 Hudba hrou - jar
+
+3.1.2. Audionahrávky
+Viacerí pedagógovia sa v súčasnej dobe venujú audionahrávkam pre primárne
+vzdelávanie. CD s audionahrávkami vzniklo na Univerzite Konštantína Filozofa v Nitre na
+Katedre hudobnej výchovy, kde sa na tvorbe CD podieľali pedagógovia ako napríklad
+Mgr. Pavol Brezina, Phd. a PhDr. Miroslava Blažeková, PhD..
+Známi svojimi nahrávkami je aj PaedDr. Ján Pavelčák, ktorý vytvoril 9 CD
+s nahrávkami pre primárne vzdelávanie. Nachádza sa na nich napríklad inštrumentálny
+sprievod k piesňam, ale aj skladby na počúvanie.
+
+30
+
+3.1.3.
+
+Aplikácie
+
+Pri práci s tabletom na hodinách hudobnej výchovy je možné s deťmi využívať
+aplikácie určené na tvorbu hudobného podkladu alebo notačný zápis. Aplikácie sú voľne
+prístupné na internete pre operačné systémy Android. Ako príklad na aplikácie si môžeme
+uviesť NotateMe Now, ktorý sa dá využiť na sluchová analýza notového zápisu, zápis
+rytmu a melódie. Ako druhý program si uvedieme Music Maker Jam, ktorý vieme využiť
+pri práci s deťmi na tvorbu hudobného podkladu v štýle hip-hop a pod., hra so zvukom,
+identifikácia hudobných nástrojov.
+
+3.1.4. Edukačné softvéry
+Edukačný softvér je programové vybavenie počítača. Program získame a vložíme do
+počítača na CD alebo DVD, prípadne USB alebo ho stiahneme cez internet.
+Brestenská uvádza, že edukačný softvér je jednou z foriem učebných materiálov, ktoré
+sú inštalované priamo v počítači, CD, DVD nosiče alebo webové aplikácie. Edukačné
+softvéry sú také softvéry, ktoré sa cieľavedome používajú na podporu učenia a stáva sa
+edukačným nielen pre zámer, pre ktorý bol vyvinutý, ale aj pre spôsob jeho použitia vo
+vyučovacom procese. (Brestenská, 2010)
+Iní autori uvádzajú, že edukačný program by mal prispievať k plneniu vzdelávacích
+cieľov, mal by byť interaktívny a ponúkať užívateľovi podnety s rozumnou spätnou
+väzbou. (Černochová, Komrská, Novák, 1998, s. 30-31).
+K dispozícii je napríklad hudobné CD, ktoré obsahuje 40 ukážok hudobných nástrojov
+a 4 hudobné cvičenia (viď. Obrázok 3)
+Obrázok č. 3 Hudobné CD
+
+31
+
+V tejto kapitole sme poukázali na niektoré možnosti hudobného vzdelávania
+pomocou audiovizuálnych didaktických pomocou v hudobnom vzdelávaní na základných
+školách. Možností pre prácu s týmito pomôckami je veľa, ale je na iniciatíve pedagóga,
+v akej miere sa rozhodne ich využívať.
+
+32
+
+ZÁVER
+
+Hlavným cieľom bakalárskej práce bola kategorizácia audiovizuálnych
+didaktických pomôcok. Ďalším veľmi dôležitým cieľom bolo uviesť spôsoby využitia
+týchto materiálnych didaktických pomôcok v hudobnom vzdelávaní.
+Počas tvorby bakalárskej práce sme zistili, že veľký nárast audiovizuálnych
+didaktických pomôcok na školách nastal najmä na prelome 20. a 21. storočia. Stretli sme
+sa počas tvorby s rôznymi názormi na tieto technológie, ale väčšina z nich ich brala ako
+prínos pre vzdelávanie a modernizáciu vzdelávania vnímali pozitívne.
+Prínosom tejto bakalárskej práce pre hudobné vzdelávanie je spôsob využitia
+modernej audiovizuálnej didaktickej techniky v hudobnom vzdelávaní. Poskytli sme
+námety na využitie interaktívnej tabule, počítačov, či tabletov na hodinách hudobnej
+výchovy na základných školách.
+Prekvapivým zistením pre nás bolo, že existuje množstvo možností na využitie
+audiovizuálnej didaktickej techniky v hudobnom vzdelávaní najmä na internete. Existuje
+už množstvo programov, ktoré sú pre deti veľmi atraktívne a elementárne spracované, až
+tak, že ich ovládanie zvládnu bez akýchkoľvek problémov žiaci prvého ročníka na
+základných školách. Prínosom týchto portálov je najmä to, že dieťa sa hudobnej výchove
+venuje v škole, ale bez prekážok sa jej môže pomocou týchto bezplatných programov
+venovať aj v pohodlí domova.
+V súčasnosti je mnoho metodických príručiek, ktoré sa venujú práve práci na
+vyučovaní pomocou informačných a komunikačných technológií a taktiež sa metodické
+príručky nachádzajú pri každom takomto vzdelávacom portály na internete. Práca učiteľa
+sa preto stáva ešte jednoduchšou a zábavnejšou na týchto hodinách. Ako bolo už v práci
+spomínané informačné a komunikačné technológie sú momentálne pre deti stredobodom
+záujmu, a preto má učiteľ, ktorý používa tieto technológiu istý úspech pri svojich žiakoch.
+Taktiež sme v úvode práce už uviedli, že audiovizuálne didaktické pomôcky môžu
+vo vzdelávaní pomôcť, ale aj uškodiť. Pokiaľ ich však učiteľ využíva správne j miere
+a správnym spôsobom ich integruje do vyučovacej hodiny, má dobrý predpoklad, že
+hodina hudobnej výchovy bude efektívna a pre žiakov prínosná a zaujímavá.
+33
+
+ZOZNAM POUŽITEJ LITERATÚRY
+Monografia:
+BETKO, M. - BREZINA, P., 2013. Základy hudobnej informatiky . Nitra: Univerzita
+Konštantína Filozofa v Nitre, Pedagogická fakulta, Katedra hudby. ISBN 978-80-5580472-9.
+BREČKA, P., 2014.interaktívne tabule v technickom vzdelávaní. IRIS. ISBN978-80-8153024-1.
+BRESTENSKÁ, B. a kol. 2010. Premena školy s využitím informačných technológií. 1.
+vyd. Košice : elfa, s.r.o., 2010. ISBN 978-80-8086-143-8.
+BROZMANOVÁ, O., 2015. Informačno-komunikačné technológie a ich využitie
+v hudobnej edukácii. Banská Bystrica: Univerzita Mateja Bela v Banskej Bystrici,
+Pedagogická fakulta. ISBN 978-80-557-0906-2.
+ČERNOCHOVÁ, M. - KOMRSKA, T., NOVÁK,J.,1998.Využití počítače při vyučování:
+námněty pro práci dětí s počítačem. Praha: Portál. ISBN 80-7178-272-6.
+ČERNÝ, M. - MAZÁČOVÁ, P., 2015. Tablet ve školní praxi. Brno: Flow. ISBN 978-8088123-02-6.
+FERKOVÁ, E., 2008. Hudobná informatika. Nitra: Univerzita Konštantína filozofa v
+Nitre, Filozofická fakulta. ISBN 978-80-8294-252-6.
+FORRÓ, D., 1994. Počítače a hudba. Praha: Grada. ISBN 80-85623-57-9.
+KLEMENT., M. - DOSTÁL,J. - KUBRICKÝ. J., BÁRTEK. K.. 2017. ICT nástroje
+a učitelé: adorace, či rezistence?. Olomouc: Univerzita Palackého v Olomouci,
+Pedagogická fakulta. ISBN 978-80-244-5092-6.
+KOLLÁRIKOVÁ, Z. - PUPALA, B., 2010. Predškolská a elementárna pedagogika. Praha:
+Portál. ISBN 978-80-7367-828-9.
+KUPKOVÁ, J., 2014. Hudobná výchova na Slovensku po roku 1989. Nitra: Univerzita
+Konštantína Filozofa v Nitre. ISBN 978-80-558-0700-3.
+34
+
+LABORECKÝ, J., 1997. Hudobný terminologický slovník. Bratislava: Slovenské
+pedagogické nakladateľstvo. ISBN 80-08-01037-1.
+LANGSTEINOVÁ, E. - FELIX, B. 2013. Hudobná výchova pre 4. ročník základných škôl.
+Bratislava: SPN – Mladé letá. ISBN 978-80-10-02293-9.
+NEUMAJER, O. –ROHLÍKOVÁ, L. - ZOUNEK., J. 2015. Učíme se s tabletem. Praha:
+Wolters Kluwer. ISBN 978-7478-768-3.
+PETLÁK, E., 2016. Všeobecná didaktika. IRIS. ISBN 978-80-8153-064-7.
+SIVÝ, V. 2006. Základy informačných technológií, Prešov: Prešovská univerzita v Prešov.
+2006. ISBN 80-8068-530-4.
+ŠALING, S. - IVANOVÁ-ŠALINGOVÁ, M. - MANÍKOVÁ.,Z. 2002. Slovník cudzích
+slov. Bratislava - Prešov: SAMO. ISBN 80-967524-7-2
+ŠAŠALA, R., 2017. ZÁKLADY HUDOBNÝCH DIGITÁLNYCH TECHNOLÓGIÍ.
+Prešov: Prešovská univerzita v Prešove, Pedagogická fakulta. 2017. ISBN 978-80-5551817-6.
+Štátny vzdelávací program pre 1. stupeň základnej školy v Slovenskej republike ISCED 1
+– primárne vzdelávanie. Vzdelávacia oblasť Umenie a kultúra. Predmet Hudobná výchova.
+2008. Bratislava: Štátny pedagogický ústav.
+Zborník:
+HORVÁTHOVÁ, Z. 2005. Využitie informačných a komunikačných technológií vo
+vzdelávaní. In Příprava učitelů a aktuální proměny v základním vzdělávání. České
+Budějovice: Jihočeská univerzita v Českých Budějovicích, 2005. ISBN 80-7040-789-1,
+s.84.
+Elektronický dokument:
+FAROOQ, U.2014. Audio Visual Aids in Education, Definition, Types & Objectives. In
+Study Lectury Notes [online]. 2014, [cit. 2017-11-20]. Dostupné na:
+http://www.studylecturenotes.com/curriculum-instructions/audio-visual-aids-in-educationdefinition-types-objectives
+35
+
+Správa o stave školstva na Slovensku na verejnú diskusiu. Bratislava [online]. 2013. [cit.
+2018-03-21]. Dostupné na: https://www.minedu.sk/data/att/4759.pdf
+Štátny vzdelávací program pre 1. stupeň základnej školy v Slovenskej republike – ISCED
+1, [online]. Bratislava: 2008. [cit. 2018-03-21]. Dostupné na:
+http://www.statpedu.sk/files/articles/dokumenty/statny-vzdelavaciprogram/isced1_spu_uprava.pdf
+
+Článok z časopisu:
+NALLIVEETTIL, G. M. 2013. A Study on the Usefulness of Audio-Visual Aids in EFL
+Classroom: Implications for Effective Instruction. In International Journal of Higher
+Education, 2013, vol. 2, no. 2, ISSN 1927-6044, p.86–88.
+OSVALDOVÁ, M. 2015. Inovácie v hudobnej edukácii na špeciálnych základných
+skolách. In: Edukácia, 2015, Ročník 1, Číslo 1, ISSN 1339-8725, s. 195 – 209.
+
+36
+
+

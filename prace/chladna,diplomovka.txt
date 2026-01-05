@@ -1,0 +1,3431 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+
+170407
+
+POSTTRAUMATICKÁ STRESOVÁ PORUCHA U
+ZDRAVOTNÍCKYCH PRACOVNÍKOV V ZARIADENIACH
+PRE SENIOROV V PANDÉMII COVID-19
+
+DIPLOMOVÁ PRÁCA
+
+2023
+
+Bc. DOMINIKA CHLADNÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+DETAŠOVANÉ PRACOVISKO BL. SÁRY SALKAHÁZIOVEJ
+ROŽŇAVA
+
+POSTTRAUMATICKÁ STRESOVÁ PORUCHA U
+ZDRAVOTNÍCKYCH PRACOVNÍKOV V ZARIADENIACH
+PRE SENIOROV V PANDÉMII COVID-19
+DIPLOMOVÁ PRÁCA
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+5602 800 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety
+Bratislava
+
+Vedúci diplomovej práce:
+
+ROŽŇAVA 2023
+
+PhDr. Adriana Nemčoková PhD.
+
+Bc. DOMINIKA CHLADNÁ
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som diplomovú prácu vypracovala samostatne, a použila len literatúru,
+ktorú uvádzam v zozname.
+V Rožňave, dňa ..................................
+
+...................................................
+Bc. Dominika Chladná
+
+Poďakovanie
+Ďakujem vedúcej diplomovej práce PhDr. Adriane Nemčokovej PhD. za jej cenné rady,
+pripomienky, a odborné vedenie pri tvorbe tejto práce.
+
+ABSTRAKT
+CHLADNÁ, Dominika : Posttraumatická stresová porucha u zdravotníckych pracovníkov v
+zariadeniach pre seniorov v pandémii Covid-19. [Diplomová práca]/ Bc. Dominika Chladná.
+– Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety Bratislava: Detašované
+pracovisko bl. Sáry Salkaháziovej Rožňava. – Školiteľ diplomovej práce: PhDr. Adriana
+Nemčoková, PhD. Stupeň odbornej kvalifikácie: Magister ošetrovateľstva – Rožňava:
+Detašované pracovisko bl. Sáry Salkaháziovej, 2023, 78 s.
+Predmetom diplomovej práce je posttraumatická stresová porucha u zdravotníckych
+pracovníkov v zariadeniach pre seniorov. Práca sa zameriava na ochorenie COVID-19 ako
+traume u zdravotníckych pracovníkov pracujúcich v zariadeniach dlhodobej starostlivosti
+pre seniorov. Prvá kapitola prezentuje teoretické poznatky o posttraumatickej stresovej
+poruche, jej príčinách, symptómoch, diagnostike a liečbe. Posttraumatická stresová porucha
+sa rozvíja u človeka po traumatickej udalosti. V osobitnej podkapitole sa venujeme pandémii
+COVID-19 ako traume. Druhá kapitola charakterizuje potreby seniorov a starostlivosť v
+zariadeniach pre seniorov. V samostatnej podkapitole sa venujeme špecifikám
+ošetrovateľskej starostlivosti o seniorov. Tretia a štvrtá kapitola tvoria empirickú časť práce.
+Obsahom tretej kapitoly je metodológia prieskumu a charakteristika výberového súboru,
+ktorú tvorilo 88 respondentov. Štvrtá kapitola prezentuje výsledky práce. Piata kapitola
+obsahuje diskusiu a odporúčania pre prax.
+Kľúčové slová: Posttraumatická stresová porucha. Zariadenia pre seniorov. Ošetrovateľská
+starostlivosť o seniorov. COVID-19. Trauma.
+
+ABSTRACT
+CHLADNÁ, Dominika: Post-traumatic stress disorder in healthcare workers in facilities for
+the elderly in the Covid-19 pandemic. [Graduation Work]/ Bc. Dominika Chladná. –
+University of Health and Social Works st. Elizabeth in Bratislava: Detached workplace of
+blessed Sára Salkaházi Rožňava. – Supervisor: PhDr. Adriana Nemčoková, PhD. Level of
+professional qualification: Master of Nursing care. – Rožňava: Detached workplace of
+blessed Sára Salkaházi, 2023. 78 p.
+
+The subject of the diploma thesis is post-traumatic stress disorder in healthcare
+workers in facilities for the elderly. The work focuses on the disease COVID-19 as a trauma
+in health workers working in long-term care facilities for seniors. The first chapter presents
+theoretical knowledge about post-traumatic stress disorder, its causes, symptoms, diagnosis
+and treatment. Post-traumatic stress disorder develops in a person after a traumatic event. In
+a special subchapter, we address the COVID-19 pandemic as a trauma. The second chapter
+characterizes the needs of seniors and care in facilities for seniors. In a separate subsection,
+we deal with the specifics of nursing care for seniors. The third and fourth chapters form the
+empirical part of the work. The content of the third chapter is the research methodology and
+the characteristics of the sample set, which consisted of 88 respondents. The fourth chapter
+presents the results of the work. The fifth chapter contains a discussion and
+recommendations for practice.
+
+Key words: Post-traumatic stress disorder. Facilities for seniors. Nursing care for seniors.
+COVID-19. Trauma.
+
+OBSAH
+ÚVOD ................................................................................................................................ 11
+1 POSTTRAUMATICKÁ STRESOVÁ PORUCHA ........................................................ 13
+1.1 Symptómy PTSD .......................................................................................................... 14
+1.2 Diagnostika a liečba PTSD ........................................................................................... 17
+1.3 Pandémia ako trauma ................................................................................................... 18
+2 STAROSTLIVOSŤ V ZARIADENIACH PRE SENIOROV ........................................ 21
+2.1 Potreby seniorov ........................................................................................................... 22
+2.2 Špecifiká ošetrovateľskej starostlivosti o seniorov ...................................................... 23
+3 METODOLÓGIA PRIESKUMU ................................................................................... 27
+3.1 Prieskumný problém a cieľ prieskumu ......................................................................... 27
+3.2 Metódy prieskumu ........................................................................................................ 28
+3.3 Charakteristika výberového súboru .............................................................................. 29
+4 VÝSLEDKY PRÁCE ...................................................................................................... 32
+5 DISKUSIA ...................................................................................................................... 51
+5.1 Odporúčania pre prax ................................................................................................... 55
+ZÁVER ............................................................................................................................... 57
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV .............................................................. 59
+PRÍLOHY ........................................................................................................................... 66
+
+ZOZNAM ILUSTRÁCIÍ
+Obrázok 1 Odozva na vystavenie traumy ......................................................................... 16
+
+ZOZNAM TABULIEK
+Tabuľka 1 Rozdelenie respondentov podľa veku ............................................................. 30
+Tabuľka 2 Rozdelenie respondentov podľa pohlavia ....................................................... 30
+Tabuľka 3 Pracovné zaradenie respondentov ................................................................... 31
+Tabuľka 4 Prekonanie COVID-19 respondentmi ............................................................. 32
+Tabuľka 5 Znalosť pojmu PTSD u respondentov ............................................................. 32
+Tabuľka 6 Vracajúce sa myšlienky a spomienky na tie najbolestivejšie či najdesivejšie
+zážitky ................................................................................................................................ 33
+Tabuľka 7 Pocity, akoby sa daná udalosť znovu odohrávala ........................................... 34
+Tabuľka 8 Opakujúce sa nočné mory ............................................................................... 34
+Tabuľka 9 Pocit odpojenosti a oddelenia od druhých ľudí ............................................... 35
+Tabuľka 10 Neschopnosť prežívať akékoľvek pocity ...................................................... 35
+Tabuľka 11 Pocit nervozity, rýchle nástupy emócií ......................................................... 35
+Tabuľka 12 Problémy so sústredením .............................................................................. 36
+Tabuľka 13 Problémy so spánkom ................................................................................... 36
+Tabuľka 14 Pocit nastraženosti, neustálej pohotovosti ..................................................... 37
+Tabuľka 15 Pocit podráždenosti či výbuchy hnevu .......................................................... 37
+Tabuľka 16 Vyhýbanie sa aktivitám, ktoré traumatizujúcu skúsenosť pripomínajú ........ 37
+Tabuľka 17 Neschopnosť rozpomenúť sa na niektoré časti traumatizujúcich udalostí .... 38
+Tabuľka 18 Znížený záujem o každodenné aktivity ......................................................... 38
+Tabuľka 19 Pocit, že nemáte žiadnu budúcnosť ............................................................... 39
+Tabuľka 20 Vyhýbanie sa myšlienkam alebo pocitom spojeným s traumatizujúcimi
+udalosťami .......................................................................................................................... 39
+Tabuľka 21 Prudká a nečakaná emočná alebo fyzická reakcia na pripomenutie
+traumatizujúcej udalosti ..................................................................................................... 40
+Tabuľka 22 Pocit, že ste menej schopný, než pred udalosťou .......................................... 40
+Tabuľka 23 Náročnejšie vyrovnávanie sa s novými situáciami ....................................... 41
+Tabuľka 24 Pocit vyčerpania ............................................................................................ 41
+Tabuľka 25 Telesná bolesť ............................................................................................... 41
+Tabuľka 26 Problémy telesného (zdravotného) rázu ........................................................ 42
+Tabuľka 27 Zhoršená pamäť ............................................................................................ 42
+Tabuľka 28 Zistenie, či upozornenie od iných, že ste vykonávali niečo, na čo si
+nespomínate ........................................................................................................................ 43
+
+Tabuľka 29 Problém sústrediť sa, dávať pozor ................................................................ 43
+Tabuľka 30 Pocit rozdelenia na dve osoby, pričom jedna z nich len pozoruje to, čo robí tá
+druhá ................................................................................................................................... 43
+Tabuľka 31 Pocit neschopnosti plánovať deň .................................................................. 44
+Tabuľka 32 Obviňovanie seba za to, čo sa stalo ............................................................... 44
+Tabuľka 33 Pocit viny, že ste prežili ................................................................................ 45
+Tabuľka 34 Strata nádeje .................................................................................................. 45
+Tabuľka 35 Pocit hanby nad bolestivým či traumatizujúcim zážitkom, ktorý sa vám
+stal ...................................................................................................................................... 45
+Tabuľka 36 Pocit, že ľudia nechápu, čo sa vám stalo ....................................................... 46
+Tabuľka 37 Pocit, že ostatní sú voči vám nepriateľský .................................................... 46
+Tabuľka 38 Pocit, že sa nemáte na koho spoľahnúť ......................................................... 47
+Tabuľka 39 Pocit, že vás zradil niekto, komu ste dôverovali ........................................... 47
+Tabuľka 40 Pocit poníženia z vlastných zážitkov ............................................................ 47
+Tabuľka 41 Absencia dôvery voči ostatným .................................................................... 48
+Tabuľka 42 Pocit bezmocnosti pomôcť iným .................................................................. 48
+Tabuľka 43 Čas strávený premýšľaním prečo sa tieto udalosti stali mne ........................ 49
+Tabuľka 44 Pociťovaná potreba pomsty ........................................................................... 49
+Tabuľka 45 Skóre príznakov traumy ................................................................................ 50
+
+ZOZNAM SKRATIEK A ZNAČIEK
+
+ADOS
+
+Agentúra domácej ošetrovateľskej starostlivosti
+
+COVID
+
+Corona virus desease
+
+DOS
+
+Dom ošetrovateľskej starostlivosti
+
+DSS
+
+Domov sociálnych služieb
+
+DSZS
+
+Dlhodobá sociálno-zdravotná starostlivosť
+
+IAL
+
+inštrumentálne denné aktivity
+
+KOS
+
+komplexná ošetrovateľská starostlivosť
+
+MERS
+
+koronavírus súvisiaci s blízkovýchodným respiračným syndrómom
+
+MZSR
+
+Ministerstvo zdravotníctva Slovenskej republiky
+
+napr.
+
+napríklad
+
+PTSD
+
+Posttraumatická stresová porucha
+
+SARS
+
+ťažký akútny respiračný syndróm
+
+SR
+
+Slovenská republika
+
+ŠDTP
+
+štandardný diagnostický a terapeutický postup
+
+USA
+
+Spojené štáty americké
+
+VÚC
+
+vyšší územný celok
+
+WHO
+
+Svetová zdravotnícka organizácia
+
+ZP
+
+zdravotnícky pracovník
+
+PO
+
+prieskumná otázka
+
+ZSS
+
+zariadenie sociálnych služieb
+
+ÚVOD
+Pandémia COVID-19 zasiahla celý svet. Priniesla so sebou nielen obete tých, ktorí
+na následky tohto ochorenia podľahli, ale aj množstvo ďalších problémov, ktorých dopad
+mnohokrát ani nemožno predikovať. Dlhodobé dopady, či už psychické, sociálne, alebo
+ekonomické, budú ovplyvňovať náš život nielen v nasledujúcich mesiacoch, ale aj rokoch.
+Úroveň utrpenia, ktorú vzniknutá situácia spôsobila v dôsledku drastických zmien v životoch
+všetkých jedincov, možno pripodobniť traumatickej udalosti. V jednom článku bolo
+dokonca uvedené zaujímavé označenie „Post-COVID Stress Disorder (PTSD)”, čo sa dá do
+slovenského jazyka voľne preložiť ako „Postkovidová stresová porucha”. Jedná sa
+samozrejme zatiaľ len o vymyslený výraz, ale v blízkej budúcnosti sa dá očakávať, že
+dopady pandémie budú mať charakteristiky dosť možno novej diagnózy podobajúcej sa
+PTSD. Je to samozrejme len zaujímavá úvaha, nie fakt (Tucker, Czapla, 2021).
+Diplomová práca sa zameriava na posttraumatickú stresovú poruchu u
+zdravotníckych pracovníkov v zariadeniach pre seniorov. Keďže je ochorenie COVID-19 po
+celom svete aktuálnou témou, vo svojej práci chceme poukázať na jej súvislosť s
+posttraumatickou stresovou poruchou. K výberu tejto témy nás viedlo hneď niekoľko
+dôvodov. Sme toho názoru, že je všeobecná potreba upozorniť na zanedbávanú skupinu
+zdravotníckych pracovníkov v pobytových zariadeniach pre seniorov, nie to ešte v čase
+pandémiev, ktorá však svojou veľkosťou je nezanedbateľnou súčasťou sociálnych služieb.
+Vo všetkých médiách sa počas pandémie najčastejšie hovorilo o zdravotníckom personáli v
+nemocniciach, ktorým samozrejme patrí veľká vďaka, avšak rovnaká podpora a pozornosť
+by sa mala venovať aj zdravotníckym pracovníkom pracujúcim v zariadeniach pre seniorov.
+Dovolíme si tvrdiť, že tí si v mnohých prípadoch prechádzali peklom na osobnej i pracovnej
+úrovni. Práca v zariadeniach pre seniorov, konkrétne v priamej starostlivosti, je náročná, a
+to aj bez prítomnosti pandémie, ktorá teraz ovplyvňuje každodenné fungovanie nás všetkých.
+Klientov zdravotnícky personál v mnohých prípadoch vníma ako členov rodiny, o to horšie
+potom znášajú ich prípadnú stratu.
+Táto diplomová práca si kladie za hlavný cieľ preskúmať, aký dopad má pandémia
+COVID-19 na zdravotníckych pracovníkov v zariadeniach pre seniorov, a na základe
+zistených faktov odporučiť možné návrhy pre prax.
+
+Diplomová práca je rozdelená na teoretickú, metodologickú a analytickú časť.
+Teoretická časť obsahuje dve kapitoly. Prvá kapitola sa zameriava na posttraumatickú
+stresovú poruchu. Popisujeme v nej príčiny, symptómy, diagnostiku a liečbu
+posttraumatickej stresovej poruchy. Druhá kapitola sa venuje potrebám seniorov a
+starostlivosti v zariadeniach pre seniorov. Samostatnú podkapitolu venujeme špecifikám
+ošetrovateľskej starostlivosti o seniorov. Tretia kapitola, metodologická časť je zameraná na
+popis prieskumného problému práce a cieľov prieskumu, postup pri organizácii prieskumu
+a zberu dát, popis meracích nástrojov a charakteristiku prieskumného súboru. V analytickej
+časti, čiže štvrtej kapitole prezentujeme výsledky prieskumu. Piata kapitola obsahuje
+diskusiu a odporúčania pre prax.
+Pri písaní diplomovej práce sme informácie čerpali z publikácií domácich a
+predovšetkým zahraničných autorov.
+
+12
+
+1 POSTTRAUMATICKÁ STRESOVÁ PORUCHA
+V tejto kapitole uvádzame definíciu, etiológiu, prevalenciu a dôsledky
+posttraumatického stresového syndrómu, a tiež pandémiu COVID-19 ako traumu. Pre
+odbornú psychiatrickú komunitu, klinickú prax a výskum bolo významným poznatkom
+zistenie, že po psychickej traume sa v prvom mesiaci môže objaviť akútna stresová porucha,
+neskôr aj posttraumatická stresová porucha, ale aj iné poruchy (Hašto a kol., 2015). Termín
+posttraumatická stresová porucha (PTSD) označuje úzkostnú poruchu, ktorá býva
+odštartovaná u človeka po prežití traumatickej udalosti. Pod traumatickou udalosťou sa
+rozumie ťažká emočná a stresujúca udalosť, ktorá je svojim charakterom natoľko závažná a
+desivá, že nezodpovedá bežnému očakávaniu, človek tak nemá proti nej vytvorené potrebné
+ochranné mechanizmy, a býva traumatickou pre väčšinu ľudí. PTSD je veľmi často spájaná
+s vojnou a vojakmi v nej zasahujúcich, so živelnými pohromami a ich obeťami. Ani zďaleka
+sa táto porucha nemusí týkať len vojakov a ľudí zažívajúcich vojnu, alebo živelnú pohromu.
+PTSD môže nastať u každého, kto zažil nebezpečnú a život ohrozujúcu traumatizujúcu
+udalosť ako je napr. prírodná katastrofa, autohavária, trauma spôsobená ľuďmi (napr.
+prepadnutie, sexuálne zneužívanie, znásilnenie), požiar, alebo bol svedkom ohrozenia života
+druhého. Doteraz však nie je známe, prečo u niektorých ľudí vznikne a u iných nie
+(Vágnerová, 2008; Raudenská et al., 2020; Šlepecký a kol., 2021).
+Trauma je podmienkou vzniku PTSD, nie je však jediným faktorom. Na rozvoji
+PTSD sa podieľajú aj ďalšie faktory, medzi ktoré patrí prostredie, predisponujúce faktory a
+premorbídna osobnosť (Šlepecký a kol., 2021). Podľa Vágnerovej (2008) je možné príčiny
+vzniku PTSD rozdeliť na biologické (nadmerná aktivácia organizmu, genetika, miera
+psychickej a vegetatívnej stability) a psychosociálne (osobnostné vlastnosti, skúsenosti a
+úroveň zrelosti). Autorka často spomína aj teóriu Hardiness. Ide o špecifickú koncepciu
+psychickej odolnosti. PTSD sa objavuje vtedy, keď jedinec nie je schopný udržať kontrolu
+nad situáciou, má dojem, že ju nezvládne. Všeobecne možno povedať, že ohrozenejší sú
+ľudia, ktorí nemajú kognitívne kompetencie na dostatočnej úrovni, ďalej tí, ktorí sú z
+rôznych dôvodov v zraniteľnejšej a citlivejšej skupine (deti a starí ľudia). Úlohu v rozvoji
+PTSD podľa Kohoutka a Čermáka (2009) zohrávajú aj tieto faktory: povaha udalosti
+samotnej,
+
+psychické
+
+spracovanie udalosti,
+
+sociálna opora a
+
+rodinné zázemie,
+
+sociodemografické charakteristiky, informovanosť a osobnostné charakteristiky. Vplyv má
+aj to, akým spôsobom u človeka dôjde ku kognitívnemu spracovaniu, interpretácii a
+
+13
+
+integrácii
+
+traumatickej
+
+udalosti,
+
+ktorú
+
+prežil.
+
+Medzi
+
+veľmi
+
+často
+
+spomínanú
+
+sociodemografickú charakteristiku hrajúcu úlohu vo vzniku neskorších vplyvov traumy je
+pohlavie a vek. Uvádza sa, že u mužov je väčšia pravdepodobnosť výskytu psychickej
+traumy, u žien naopak väčšia pravdepodobnosť rozvoja PTSD a inej chronicity po traume.
+1.1 Symptómy PTSD
+Symptómy PTSD sú najčastejšie rozdeľované do troch hlavných skupín:
+1. Znovuprežívanie traumatickej udalosti. Ľudia s PTSD často trpia opakujúcimi sa
+nepríjemnými snami a spomienkami o traumaickej udalosti. Objavuje sa u nich náhly pocit
+akoby udalosť znova nastala (tzv. flashback), intenzívna úzkosť tvárou v tvár pozostalým
+nešťastia alebo veciam, ktoré udalosť pripomínajú, pocit viny, že dotyčný prežil a
+nepomohol viac ostatným.
+2. Vyhýbanie sa podnetom spojeným s udalosťou či otupenosť. Prejavujú sa snahou
+vyhýbať sa myšlienkam či pocitom spojeným s udalosťou, vyhýbaním sa činnostiam alebo
+situáciám, ktoré pripomínajú udalosť, amnéziou na udalosť, stratou záujmu o dôležité
+činnosti (napr. o prácu, školu), derealizáciou (pocit odcudzenia okolitého sveta) a
+depersonalizáciou (pocit odcudzenia seba samého), a neschopnosťou normálne vnímať ľudí.
+3. Pretrvávanie prejavov zváženého podráždenia. Patria sem symptómy ako ťažké
+zaspávanie, hnev, podráždenosť, zlá koncentrácia, zvýšená bdelosť, premrštené reakcie na
+prekvapenie, fyziologická reaktivita (napr. reakcia obehového a dychového systému) na
+podnety, ktoré symbolizujú alebo pripomínajú stresovú udalosť (Vágnerová, 2008; Tichý,
+Praško, 2000).
+PTSD sa všeobecne vyznačuje:
+- dlhodobou reakciou na traumatickú udalosť,
+- imagináciami, flashbackmi a nočnými morami o traumatizujúcej udalosti,
+- dotieravými myšlienkami,
+- stratou pozitívnych emócií a pocitmi emočného utopenia (pretrvávajúcu strach, hnev, pocit
+viny),
+- vyhýbaním sa spomienkam alebo myšlienkam súvisiacim s danou udalosťou,
+- vyhýbaním sa podnetom, situáciám a činnostiam pripomínajúcim traumu,
+- zvýšením vzrušivosti vo fyziologických reakciách i psychike (problémy so sústredením a
+spánkom, nahnevané výbuchy).
+
+14
+
+Tieto príznaky spôsobujú značné ťažkosti a problémy s fungovaním. Vznikajú
+najčastejšie do jedného mesiaca od spúšťajúcej udalosti, ale niekedy to môžu byť dokonca
+roky (Raudenská et al., 2020; Rodriguez, 2020; Šlepecký a kol., 2021). Kohoutik a Čermák
+(2009) uvádzajú, že symptómy sa môžu dostaviť ihneď po traume, najčastejšie však od
+niekoľkých týždňov do 3 mesiacov po nej. Existujú však aj výnimky, kedy sa príznaky
+dostavili až po mnohých mesiacoch, či dokonca rokoch po traumatizujúcej udalosti.
+Vágnerová (2008) príznaky bližšie špecifikuje a rozdeľuje na emočné príznaky, na
+zmeny kognitívnych funkcií, na zmeny správania, na telesné príznaky a na zmeny osobnosti.
+Emočné príznaky. Na základe stále nespracovaného traumatického zážitku u
+jedinca pretrvávajú emočné príznaky. Typickými sú chronická úzkosť, vnútorné napätie,
+zvýšená precitlivenosť a podráždenosť so sklonom k neprimeraným reakciám, depresia aj so
+suicidálnymi sklonmi. Emočné príznaky môžu mať charakter citovej strnulosti, dostavuje sa
+anhedónia i obraz vyčerpania (Vágnerová, 2008).
+Zmeny kognitívnych funkcií. Trauma u človeka spôsobí generalizáciu pocitu
+ohrozenia. Tým sa posilňuje selektívna pozornosť, čo vedie k neadekvátnym reakciám v
+bežnom živote. Človek potláča, respektíve vytesňuje nepríjemné zážitky, môže pretrvávať
+aj selektívna amnézia, kedy si pacient nemôže vybaviť niektoré dôležité momenty spojené s
+udalosťou. Ale môžu nastať problémy úplne opačného rázu, kedy sa jedinci opakovane
+vracajú spomienkami na prežitú traumu. Majú vtieravý charakter, sú to predstavy,
+opakované úvahy “čo keby”, myšlienky, flashbacky, či desivé sny a nočné mory. Ich
+spoločnou charakteristikou je, že nie sú vôľou ovplyvniteľné. Do tejto kategórie príznakov
+spadajú aj zmeny v hodnotení seba samého a okolitého sveta. Vplyvom nesprávne
+interpretovanej traumy sa u chorých objavujú typické chyby v uvažovaní, kognitívne omyly:
+sklon k skratkovitým záverom, neprimeraná generalizácia, tendencia interpretovať svoj
+zážitok vzťahovačne a egocentricky, sklony k absolutizujúcemu čiernobielemu hodnoteniu.
+Pretrvávajú pocity bezmocnosti a menejcennosti, depersonalizácia a odcudzenosť od ľudí,
+ktorí túto skúsenosť nemajú, niekedy aj previnenie, že im nikto nerozumie. Okrem
+negatívneho hodnotenia tu môže byť aj negatívne očakávanie, kedy pretrváva predstava, že
+od tohto sveta nemožno očakávať nič pozitívne (Vágnerová, 2008).
+Zmeny správania. Správanie ľudí s PTSD je špecifické predovšetkým tým, že je
+extrémne, a to sa prejavuje buď inhibíciou alebo naopak prehnanou aktivizáciou. V rámci
+inhibície vyhasínajú záujmy o akúkoľvek činnosť a tendencia vyhýbať sa bežnému dianiu,
+strate motivácie. Títo ľudia sa môžu až izolovať od ľudí aj od spoločenského diania. Na
+druhej strane k prehnanej aktivizácii patrí predovšetkým to, že napätie a podráždenosť týchto
+15
+
+ľudí vedie k výbušnosti, afektívnym reakciám, môžu mať sklony až k agresívnemu
+správaniu (Vágnerová, 2008).
+Telesné príznaky. Telesné príznaky ľuďom s PTSD vo veľkej miere znepríjemňujú
+život. Ide napríklad o poruchy spánku, môžu trpieť rôznymi bolesťami, pocitmi únavy,
+vyčerpaním, rôznymi vegetatívnymi reakciami (tras, potenie, hyperventilácia, tachykardia,
+nauzea) (Vágnerová, 2008).
+Zmeny osobnosti. Ak zmeny v správaní a prežívaní u človeka pretrvávajú, môže
+dôjsť až k trvalejším zmenám osobnosti, ide najmä o rozvoj vlastností, ktoré signalizujú
+zmenený vzťah k sebe samému a k svetu (Vágnerová, 2008).
+Obrázok 1 Odozva na vystavenie traumy
+
+Zdroj: Lipsky, 2020, str. 9
+Na vyššie zobrazenom Obrázku číslo 1 sú uvedené možné odozvy na vystavenie
+traumy podľa Lipského (2020).
+
+16
+
+1.2 Diagnostika a liečba PTSD
+Diagnostika PTSD sa vykonáva komplexným psychologickým vyšetrením,
+prostredníctvom rozhovoru so psychológom, psychiatrom alebo terapeutom. Využíva sa aj
+špeciálny dotazník, v ktorom sa nachádzajú otázky viazané na prejavy ochorenia, na ktoré
+chorý odpovedá. Podľa zhodnotenia dotazníka je zjavné, či ide o symptómy PTSD, alebo sa
+jedná o iný typ ochorenia. Využitie vhodných diagnostických nástrojov dokáže včas zachytiť
+ochorenie a zvoliť najvhodnejšie možnosti liečby (Látalová a kol., 2015). K dotazníkom
+určeným na posúdenie symptómov PTSD patrí:
+- posudzovacia škála PCL-5 na zistenie či pacient spĺňa diagnostické kritériá PTSP,
+- dotazník 9 symptómov PHQ-9 (Patient Health Questionnaire) na prítomnosť depresie,
+- 7-položkový dotazník GAD-7 (General Anxiety Disorder) na prítomnosť úzkosti,
+- dotazník CORE-OM na začiatku a konci liečby (Šlepecký a kol., 2021).
+Sú situácie, kedy sa symptómy PTSD zamieňajú s inými ochoreniami, keďže mávajú
+podobný obraz. Pozornosť preto treba
+
+venovať úrazom hlavy, možným organickým
+
+príčinám, epilepsii, závislosti od alkoholu či iných návykových látok (Šlepecký a kol., 2021).
+Väčšina ľudí trpiaca úzkostnými poruchami sa podľa Bražinovej (2017) nelieči.
+Napriek tomu, že poznáme liečbu PTSD, tá sa v dostatočnej miere nevyužíva, a PTSP sa
+lieči menej efektívnymi psychoterapeutickými a farmakoterapeutickými postupmi. Liečba
+PTSD je najefektívnejšia vtedy, pokiaľ je choroba včas diagnostikovaná (Látalová a kol.,
+2015). Hašto a kol. (2015) upozorňujú, že správne diagnostikovaný pacient potrebuje aj
+edukáciu ohľadom možností liečby. Autori tiež podrobne popisujú diagnostické kritériá
+DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) pre
+posttraumatickú stresovú poruchu.
+Liečba je zameraná na zmiernenie základných a druhotných symptómov PTSD a
+mala by sa uskutočňovať v bezpečnom prostredí. Dôležitým výsledkom liečby je
+znovunadobudnutie kontroly nad životom a zaradenie sa do bežného života. Využívajú sa
+psychologické, psychoterapeutické a farmakologické postupy. Lieky predovšetkým
+pomáhajú zvládať depresiu, úzkosť a poruchy spánku. Efektívnejšia ako farmakoterapia je
+špeciálne zameraná psychoterapia. Tá pomáha stanoviť príčinu choroby a zmierniť jej
+prejavy. Súčasťou liečby má byť aj psychoedukácia (Šlepecký a kol., 2021; Hašto a kol.,
+2015).
+
+17
+
+1.3 Pandémia ako trauma
+V tejto podkapitole uvádzame krátke zhrnutie týkajúce sa pandémie ochorenia
+COVID-19 ktorá je už pomaly na ústupe, v časovej postupnosti, ako informácie vydávala
+Svetová zdravotnícka organizácia (WHO). Podrobnejšie sa však venujeme pandémii ako
+traume. Otázkou zostáva, či je možné pandémiu COVID-19 považovať za traumatickú
+udalosť, a teda ju brať aj ako možný spúšťač PTSP. Podľa Prideauxe (2021) ju možno
+prirovnať k „masovej (davovej) traume”, alebo inými slovami kolektívnej traume, pretože
+rovnaká udalosť, alebo rad udalostí, traumatizovala veľké množstvo ľudí v určitom
+zdieľanom časovom období. COVID-19 je preto v mnohých ohľadoch učebnicovým
+príkladom kolektívnej traumy. Táto pandémia má jedinečné vlastnosti, ktoré si vyžadujú
+nový pohľad na to „čo je trauma“ a aké sú jej dôsledky (Chen et al., 2021). Autori Kliment
+a Nádvorníková (2020) sa v dokumente Prvotné reflexie vplyvu epidémie koronaviru na
+pandémiu tiež pozerajú ako na traumatickú krízu.
+Sme bezprostredne všetci účastníci nižšie popísaných udalostí, aj napriek tomu sme
+sa pre ucelenie snažili v krátkosti zhrnúť, hlavne z toho dôvodu, aby bolo jasné ako celá
+pandémia ochorenia COVID-19 začala a kam až to celý svet posunula. COVID-19 je
+infekčné ochorenie vyvolané vírusom, ktorý patrí do skupiny RNA vírusov z rodiny
+coronaviridae-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Tento
+názov dostal podľa korunovitého tvaru pod elektrónovým mikroskopom. Postihuje najmä
+dýchací systém, vyvoláva ťažký zápal pľúc a môže viesť až k úmrtiu chorého. Vírus sa
+prenáša najmä vzdušnou cestou kvapôčkami sekrétu pri kašli, kýchaní a rozprávaní, ale aj
+cez kontaminované predmety, ako aj fekálno-orálnou cestou. Za najviac infekčnú sa
+považuje osoba s prítomnými klinickými príznakmi, preto ochorenie ohrozuje osoby, ktoré
+sú v blízkom alebo dlhšie trvajúcom kontakte s nakazeným. Jedinec bez klinickej
+symptomatológie v období inkubačnej doby je infekčný tiež. Inkubačná doba môže trvať aj
+mesiac, v priemere je to 4-5 dní, s vrcholom medzi 7.-10. dňom. K príznakom ochorenia
+patrí horúčka, kašeľ, produkcia spúta, nádcha, sťažené dýchanie, bolesť hrdla, hlavy a svalov,
+slabosť, únava, malátnosť, zmena alebo strata čuchu a chuti, hnačka (korona.gov.sk, 2022;
+Péč, 2020; Polách, 2020). U detí vo veku nad 5 rokov nepredstavuje ochorenie vznik ťažkých
+foriem infekcie. Najrizikovejšou skupinou sú osoby staršie ako 80 rokov. Závažnosť
+ochorenia je teda u jednotlivých osôb veľmi rozdielna. Niektoré osoby postihnuté ochorením
+COVID-19 sú asymptomatické. Ich stav sa však môže rýchlo zhoršiť a v závažných
+prípadoch sa môže objaviť aj sťažené dýchanie, dýchavičnosť, zmätenosť, bolesť v hrudníku.
+18
+
+Vo všeobecnosti je riziko úmrtia na COVID-19 vyššie u starších ľudí so sprievodnými
+ochoreniami ako je obezita, vysoký krvný tlak, cukrovka, srdcové choroby, chronické
+ochorenia pľúc a dýchacích ciest, neurologické ochorenia, oslabený imunitný systém (Péč,
+2020; Polách, 2020).
+Na konci roka 2019 bola WHO informovaná o prípade zápalu pľúc neznámej príčiny,
+ktorý bol detekovaný v meste Wu-chan v čínskej provincii Chu-pej. Jednalo sa o pacienta
+nula, teda prvého dohľadateľného pacienta, od ktorého sa ďalej začalo šíriť ochorenie
+COVID-19. Vtedy ešte nikto netušil, že sa toto ochorenie rozšíri po celom svete a spôsobí
+pandémiu. Na začiatku roku 2020 WHO informovala verejnosť, že sa nový druh
+koronavírusu okrem Číny objavil aj v inej krajine. Až vo februári v roku 2020 získala táto
+rýchlo šíriaca sa choroba svoj názov COVID-19, a to podľa skratky Corona virus desease a
+roku, kedy sa prvýkrát vyskytla. Vírus sa šíril ďalej a v marci 2020 bolo organizáciou WHO
+šírenie nákazy vyhlásené ako pandémia (WHO, 2020-2021).
+Slovenská republika (SR) sa zo začiatku skôr iba prizerala, ako sa situácia zhoršuje
+v ostatných krajinách ako je USA (Spojené štáty americké), Taliansko, Španielsko. Sami
+sme ale mali v tom čase len pár desiatok potvrdených prípadov. Na Slovensku sa prvý prípad
+nákazy koronavírusom objavil 6. marca 2020 (korona.gov.sk, 2022). To sa ale rýchlo
+zmenilo po auguste 2020, kedy aj naša malá krajina začala čeliť pandémii. Tá predstavovala
+veľký zásah do bežného spôsobu života nás všetkých. Pre mnohých ľudí to bola prvá
+skúsenosť s pandémiou takýchto rozmerov.
+Zdravotnícky pracovníci (ZP) sa zaradili medzi najzraniteľnejšie skupiny. Počas
+pandémie COVID-19 boli vystavení nadmernej psychickej záťaži v dôsledku neustále
+rastúceho počtu potvrdených prípadov, vysokému riziku infekcie, vysokej úmrtnosti
+pacientov, morálnych dilem, nadmernému pracovnému zaťaženiu a pretrvávajúcej neistote
+ohľadom pandemickej vlny. ZP v prvej línii trávili každý deň hodiny nasadením a
+vyzliekaním vzduchotesných ochranných prostriedkov. Celá situácia bola pre zdravotníkov
+traumatizujúca a dokonca aj niekoľko svetových štúdií na to poukázalo (Cabarkapa et al.,
+2020; Lai et al., 2020). COVID-19 ako traumatická udalosť sa nedotýkala iba
+zdravotníckych pracovníkov v „prvej línii”. V skutočnosti väčšina zdravotníckych
+pracovníkov, bez ohľadu na ich špecializáciu, pravdepodobne zažila ťažké výzvy od
+začiatku pandémie, vrátane mnohých zmien spôsobu ich práce a občas aj neschopnosti
+poskytovať kvalitnú starostlivosť, na ktorú boli za normálnych okolností zvyknutí
+(Greenberg, 2021).
+
+19
+
+Lai et al. (2020) sa domnievajú, že sestry boli najzraniteľnejšou skupinou
+zdravotníckych pracovníkov, pretože trávili oveľa viac času s kovidovými pacientmi ako
+ostatní zdravotnícki pracovníci.
+
+20
+
+2 STAROSTLIVOSŤ V ZARIADENIACH PRE SENIOROV
+Starnutie je súčasťou prirodzeného priebehu života. Je to nezvratný biologický
+proces, ktorý je výsledkom pôsobenia faktorov vonkajšieho prostredia a genetických
+podmienok, a ktorý sa spája s výraznými somatickými zmenami, úbytkom fyzických a
+psychických síl. Termín senior je označením staršieho človeka nad 60 rokov veku života. Z
+pracovného hľadiska sa človek stáva seniorom keď odchádza do starobného dôchodku. V
+dôsledku starobných zmien a zhoršenia zdravotného stavu sa senior môže stať plne
+odkázaným na pomoc iných až do takej miery, že je potrebná starostlivosť v zariadení, lebo
+domáca starostlivosť je nepostačujúca (Šrobárová, Ďalaková, 2013; Čeganová, 2010).
+Zariadenie pre seniorov (ZpS) je určené na celoročný pobyt. Pobytovú sociálnu
+službu v zariadeniach pre seniorov poskytujú verejní a neverejní poskytovatelia sociálnych
+služieb. Ich zoznam sa nachádza v Centrálnom registri poskytovateľov sociálnych služieb.
+ZpS poskytuje starostlivosť občanom, ktorí dovršili dôchodkový vek a sú odkázaní na
+pomoc inej fyzickej osoby a ich stupeň odkázanosti je najmenej IV. podľa prílohy č. 3
+zákona č. 448/2008 z. z. o sociálnych službách, a občanom, ktorí dovršili dôchodkový vek a
+poskytovanie sociálnej služby v tomto zariadení potrebujú z iných vážnych dôvodov, ktoré
+v zákone nie sú taxatívne uvedené a ich závažnosť individuálne posudzuje sociálny
+pracovník. Ide napríklad o prípady, kedy je osoba v dôchodkovom veku a je zároveň
+ohrozená stratou bývania, alebo ohrozená správaním iných fyzických osôb. Žiadosť o
+posúdenie odkázanosti je nevyhnutné podať na miestne príslušnú obec/mesto. V ZpS sa
+poskytuje pomoc pri odkázanosti na pomoc inej fyzickej osoby, sociálne poradenstvo,
+sociálna rehabilitácia, ubytovanie, stravovavnie, upratovanie, údržba bielizne a šatstva,
+utvárajú sa podmienky na úschovu cenných vecí a zabezpečuje sa záujmová činnosť. V ZpS
+možno poskytovať sociálnu službu najviac pre 40 prijímateľov sociálnej služby v jednej
+budove zariadenia. Podľa zákona č. 448/2008 Z. z. o sociálnych službách sa v zariadeniach
+pre seniorov môže okrem poskytovania sociálnych služieb poskytovať zdravotná
+starostlivosť v rozsahu ošetrovateľskej starostlivosti podľa osobitného predpisu.
+Poskytovanie lekárskej starostlivosti v ZpS zabezpečuje praktický lekár pre
+dospelých na základe dohody o poskytovaní zdravotnej starostlivosti. Praktický lekár v
+zariadení pre seniorov zabezpečuje poskytovanie lekárskej starostlivosti, t.j. vyšetrenie,
+ošetrenie a zostavenie plánu liečby, ako aj telefonickú, elektronickú a osobnú konzultáciu so
+sestrou (Fabianová, Kličková, 2019). Lekár v zariadení pre seniorov spravidla nie je fyzicky
+
+21
+
+a trvalo prítomný, ale dochádza do zariadenia na pravidelné dohodnuté návštevy 1x týždenne,
+a taktiež podľa potreby klientov (Malíková, 2011). Odborné lekárske vyšetrenie priamo v
+zariadení uskutočňuje aj psychiater (Fabianová, Kličková, 2019).
+Ošetrovateľskú starostlivosť v ZpS poskytuje registrovaná sestra s odbornou
+spôsobilosťou podľa osobitného predpisu metódou ošetrovateľského procesu v rámci
+ošetrovateľskej praxe. Ošetrovateľská starostlivosť je poskytovaná v súlade so štandardnými
+preventívnymi, diagnostickými a terapeutickými postupmi pri dostatočnom materiálnom a
+technickom vybavení a vedení zdravotnej dokumentácie v súlade s platnou legislatívou.
+Ošetrovateľská starostlivosť je poskytovaná seniorovi, ktorý spĺňa kritériá na poskytovanie
+ošetrovateľskej starostlivosti, podľa individuálnych ošetrovateľských plánov a vždy na
+základe ordinácie ošetrujúceho lekára. Splnenie kritérií posudzuje a indikuje lekár.
+Ošetrovateľská starostlivosť je zameraná na zlepšenie alebo udržanie maximálne možnej
+sebestačnosti klienta, na základe jeho slobodnej voľby, pri rešpektovaní jeho želaní, potrieb
+a súkromia.
+Opatrovateľská starostlivosť je forma sociálnej služby. Opatrovateľské činnosti sú
+úkony ktoré vykonávajú odborní pracovníci ktorí spĺňajú kvalifikačné požiadavky podľa
+zákona č. 448/2008 Z. z. o sociálnych službách. Ide predovšetkým o pomoc pri
+sebaobslužných výkonoch, o činnosti zamerané na osobnú hygienu klienta, stravovanie,
+zabezpečenie pitného režimu, vyprázdňovania, starostlivosť o bielizeň, úpravu a dezinfekciu
+prostredia, asistenciu pri základných sociálnych aktivitách, sprevádzanie na vyšetrenie a
+pomoc ostatným členom tímu pri diagnostických a terapeutických výkonoch.
+Opatrovateľská starostlivosť je poskytovaná nepretržite 24 hodín denne.
+Rehabilitačná starostlivosť je poskytovaná individuálne alebo formou spoločného
+skupinového cvičenia, ako aj rehabilitáciou priamo na lôžku klienta. Rehabilitačnú
+starostlivosť vykonáva fyzioterapeut podľa úrovne sebestačnosti seniora a doporučenia
+lekára. Fyzioterapeut stimuluje klientov k pohybovej aktivite a pomáha pri zlepšovaní ich
+mobilizácie (Čeganová, 2010).
+
+2.1 Potreby seniorov
+Prechodom do ZpS sa dramaticky zmení životný štýl a priestor seniora, môže dôjsť
+k obmedzeniu životných možností a ohrozeniu súkromia. Ľudský záujem o ich osobu,
+dôvera a porozumenie sú dôležitými aspektmi uspokojovania potrieb seniora. Potrebu
+môžeme definovať ako nedostatok niečoho, alebo prejavom toho, čo organizmu chýba, s
+22
+
+rôznou mierou naliehavosti. Prežívanie jej nedostatku alebo nadbytku ovplyvňuje psychickú
+činnosť jedinca. Súčasná holistická ošetrovateľská starostlivosť sa orientuje na identifikáciu
+a primerané uspokojovanie bio-psycho-sociálno-kultúrnych potrieb pacienta (Hangoni a kol.,
+2014, Hudáková, 2019).
+Tak, ako každý jedinec v určitej fáze svojho individuálneho vývoja, aj senior má
+svoje potreby, ktoré sú adekvátne k obdobiu, ktoré prežíva. Keďže sa potreby diferencujú
+podľa veku, senior získava inú hierarchiu potrieb, ktorých uspokojovanie sa odvíja aj od
+aktivity seniora. Oproti mladšej generácii sú u seniorov v popredí potreby zdravia, pokoja,
+bezpečia a spokojnosti (Hangoni a kol., 2014, Hudáková, 2019). V súvislosti s typickými
+telesnými zmenami a ich priebehom v organizme sa menia aj potreby seniorov. Zvýraznené
+sú fyziologické potreby, a to potreba byť bez bolesti, vyprázdňovania, spánku, tepla a
+pohodlia. Mlýnková (2011) zdôrazňuje, že pre seniorov v inštitucionálnej starostlivosti je
+dôležité chutné jedlo. Menej významné sú fyziologické potreby ako potreba prijímania
+tekutín, sexuálne potreby, potreba osobnej hygieny, úprava zovňajšku či potreba čistého a
+upraveného lôžka. Z psychosociálnych potrieb dominujú potreby bezpečia, istoty, lásky,
+spolunažívania a ekonomickej istoty (Hangoni a kol., 2014). Bez sociálneho kontaktu sa
+výrazne urýchľuje proces starnutia, organizmus rýchlejšie regreduje a ubúdajú psychické
+funkcie, preto najväčšou potrebou seniora je sociálny kontakt (Hangoni a kol., 2014). Aj
+Žúrková (2010) píše, že senior potrebuje hlavne telesnú, citovú, finančnú a spoločenskú
+podporu.
+2.2 Špecifiká ošetrovateľskej starostlivosti o seniorov
+Geriatrické ošetrovateľstvo môžeme definovať ako KOS o chorých seniorov, ktorá
+zohľadňuje ich potreby v súvislosti so špecifickými geriatrickými syndrómami a
+komplikáciami chorôb vo vyššom a vysokom veku. Súhlasíme s tvrdením, že ošetrovateľská
+starostlivosť o seniora v zariadení pre seniorov je náročná. Sestry, ktoré pracujú so seniormi,
+by mali veľmi dobre poznať všetky podrobnosti a špecifiká, poznatky o rozličných potrebách
+populácie seniorov, ktoré sa týkajú starostlivosti o seniorov.
+Cieľom tejto podkapitoly je popísať osobitosti KOS o krehkého seniora. V
+ošetrovateľskej terminológii sa pojem krehkosť vníma ako stupeň nesebestačnosti seniora,
+u ktorého je prítomné chronické riziko pádu, zhoršené kognitívne funkcie, psychická labilita,
+depresivita, dekompenzované chronické ochorenie, problém pri inštrumentálnych denných
+aktivitách (IAL), a ktorý potrebuje pomoc rodiny a opatrovateľa. Starostlivosť o krehkého
+23
+
+seniora si vyžaduje spoluprácu lekára, sestry, opatrovateľa, sociálneho pracovníka a iných
+profesionálov s rodinou (Zrubáková a kol., 2017).
+Keďže, ako sme už spomínali vyššie, v zariadení pre seniorov sa vo väčšine prípadov
+trvalo nenachádza lekár, stáva sa zo sestry kľúčový pracovník a z poskytovanej
+ošetrovateľskej
+
+starostlivosti
+
+kľúčový
+
+nástroj
+
+zabezpečenia
+
+primeranej
+
+kvality
+
+poskytovaných služieb. Dovolíme si tvrdiť, že týmto je pozícia sestry v zariadení o to viac
+náročná a nenahraditeľná (Abbasi, 2020).
+Sestra je dôležitým členom tímu na všetkých úrovniach starostlivosti o krehkého
+seniora. Ošetrovateľstvo plní funkciu ochrany zdravia, prevencie vzniku ochorenia, ale v
+prvom rade sa zameriava na udržiavanie zdravia. Na všetkých troch úrovniach prevencie
+(primárnej, sekundárnej a terciárnej), diagnostike a liečbe krehkého seniora sa podieľajú aj
+sestry. K preventívnym opatreniam ktoré patria medzi kompetencie sestry patrí edukácia
+seniora a identifikácia rizikových faktorov ktoré podmieňujú vznik geriatrickej krehkosti,
+podpora nutrície, podpora pohybovej aktivity a udržania svalovej sily, prevencia sociálnej
+izolácie a udržanie seniora v jeho prirodzenom prostredí. Terciárna prevencia je však v
+zariadeniach pre seniorov kľúčová. Tento druh prevencie sa uplatňuje v prípade že sa
+choroba prejavila, a jej cieľom je zmierniť následky ochorenia a prinavrátiť zdravie
+(Lévyová a kol., 2015; Zrubáková a kol., 2017).
+Špecifiká ošetrovateľskej starostlivosti o seniorov sa premietajú aj do 5 fáz ošetrovateľského
+procesu. Sestra pravidelne posudzuje aktuálny zdravotný a psychický stav seniora. Využíva
+pri tom pozorovanie, rozhovor a funkčné testy. K špecifickým ošetrovateľským diagnózam
+súvisiacim s geriatrickou krehkosťou patria: intolerancia aktivity, zhoršená schopnosť
+premiestňovať sa, zhoršená chôdza, zhoršená telesná pohyblivosť, nedostatok záujmových
+aktivít, chronická bolesť, nevyvážená výživa/menej než je skutočná potreba, znížený objem
+tekutín v organizme, únava, deficit sebaopatery, úzkosť (Humeníková, 2008; Zrubáková a
+kol., 2017). Ciele k ošetrovateľským diagnózam bývajú zvyčajne dlhodobé. Práca sestry v
+ZpS má charakter ošetrovania, keďže veľká časť seniorov je ležiacich alebo ťažko
+pohyblivých. Realizácia naplánovaných ošetrovateľských intervencií si často vyžaduje
+prítomnosť viacerých zdravotníckych pracovníkov a zapojenie rodinných príslušníkov.
+Splnenie vytýčených cieľov v rámci vyhodnotenia si vyžaduje čas a trpezlivosť
+(Humeníková, 2008; Zrubáková a kol., 2017).
+Sestra je zodpovedná za kvalitu poskytovanej komplexnej ošetrovateľskej
+starostlivosti (KOS) o seniorov, ktorá je v súlade s ich potrebami. Sestra ďalej zabezpečuje
+komplexné vstupné ošetrovateľské posúdenie seniora a jeho potrieb, plánovanie a realizáciu
+24
+
+ošetrovateľských intervencií, uspokojovanie bio-psycho-sociálno-kultúrnych potrieb
+seniora, plnenie ordinácií lekára (odbery biologického materiálu, podávanie injekcií,
+podávanie liekov), preklad alebo prepustenie seniora, vedenie ošetrovateľskej dokumentácie
+a edukáciu, má holistický, profesionálny, etický a ľudský prístup. Sestra sa musí venovať
+skutočným potrebám a záujmom seniora (Fabianová, Kličková, 2019; Čeganová, 2010).
+Sestra na základe ordinácie lekára vykonáva základné a odborné ošetrovateľské
+výkony, predovšetkým:
+- odber biologického materiálu, eventuálne orientačné vyšetrenie biologického materiálu,
+- aplikácia liečebnej terapie, podávanie liekov per os alebo dohľad nad jeho podávaním,
+- aplikácia liekov intramuskulárne, subkutánne, kožou alebo sondou,
+- aplikácia inhalačnej liečebnej terapie,
+- starostlivosť o rôzne druhy rán,
+- starostlivosť o permanentný katéter a zavádzanie permanentného katétra u žien,
+- starostlivosť o PEG,
+- monitoring fyziologických funkcií,
+- starostlivosť o stómie,
+- aplikácia inzulínu a monitoring glykémií prostredníctvom glykemických profilov.
+K špecifickým úlohám sestry v starostlivosti o krehkého seniora patrí:
+- pravidelne kontrolovať aktuálny zdravotný a psychický stav seniora,
+- optimalizovať liečebný režim,
+- predchádzať maladaptačnému syndrómu,
+- pravidelne posudzovať stav výživy seniora, podporovať nutríciu, redukovať malnutríciu,
+nabádať seniora k príjmu vyváženej stravy a tekutín, venovať pozornosť poruchám
+prehĺtania a pravidelne kontrolovať hmotnosť seniora,
+- aktiviziovať seniora pomocou ošetrovateľskej rehabilitácie (polohovanie, aktívne a pasívne
+cvičenia, vertikalizácia, dychové a kondičné cvičenia, používanie kompenzačných pomôcok,
+kognitívna rehabilitácia),
+- identifikovať aktuálne psychosociálne a spirituálne potreby seniora,
+- motivovať, edukovať, podporovať sociálny kontakt, pocit istoty, bezpečia, sebarealizácie
+a nádeje.
+Čeganová (2010) zdôrazňuje, že veľmi dôležitá je komunikácia vrátane tej
+neverbálnej, kontakt s klientom, a taktiež vzájomná spolupráca sestry a seniora. Píše, že
+práve vzťah sestry so seniorom je základným predpokladom uspokojovania jeho potrieb,
+zachovania autonómie seniora a jeho úspešnej aktivizácie.
+25
+
+V zariadeniach pre seniorov sa môžeme stretnúť aj s praktickými sestrami, sanitármi
+a ošetrovateľmi, ktorých činnosti pri poskytovaní starostlivosti sú koordinované a
+kontrolované sestrou. Sestra si musí uvedomovať svoju pozíciu ako vodcu ošetrovateľského
+tímu, musí mať veľké nároky a byť voči nim kritická, zároveň si musí zachovať nadhľad a
+k svojej práci pristupovať zodpovedne. Sestra okrem lekára a vyššie spomínaných
+zdravotníckych pracovníkov úzko spolupracuje s rodinnými príslušníkmi pacienta,
+pracovníkmi ktorí zabezpečujú sociálnu starostlivosť, s fyzioterapeutom, masérmi,
+asistentom
+
+výživy,
+
+nutričným
+
+terapeutom,
+
+ergoterapeutom,
+
+psychoterapeutom,
+
+dobrovoľníkmi, účastníkmi kurzu opatrovania a študentmi v rámci ich praxe, a ďalšími
+pracovníkmi (Fabianová, Kličková, 2019; Zrubáková a kol., 2017).
+Sestry pracujúce v zariadeniach pre seniorov sú dennodenne konfrontované smrťou,
+preto jednou z významných oblastí práce sestry s krehkými seniormi je starostlivosť o
+zomierajúceho a poskytnutie podpory a pomoci pozostalým. Základným predpokladom
+komplexného ošetrovateľského manažmentu umierajúceho seniora je uspokojovanie
+špecifických potrieb klienta so zameraním sa na na zmierňovanie utrpenia, ako aj spokojnosť
+blízkych (Lévyová a kol., 2015). Súčasťou práce sestry so seniormi je aj obhajovanie práv
+starých ľudí (Hudáková, Hronkinová, 2009).
+Z vyššie uvedených dôvodov podľa Abbasi (2020) by mal byť potenciál sestier
+neustále zvyšovaný, rozvíjaný, s cieľom maximalizovať benefity pre ošetrovaných seniorov
+v súlade s poslaním ošetrovateľstva ako vedy. Sestry sú nosné piliere kvalitnej dlhodobej
+ošetrovateľskej starostlivosti, preto by mali byť systematicky trénované a koučované pre
+optimálny manažment zdravia, prevenciu zhoršovania a očakávaných komplikácií.
+
+26
+
+3 METODOLÓGIA PRIESKUMU
+Pred zahájením prieskumu bolo potrebné zoznámiť sa s literatúrou zaoberajúcou sa
+posttraumatickou stresovou poruchou. Teoretické východiská práce uvádzajú doterajšie
+poznatky o riešenej problematike.
+V tejto kapitole sa zameriavame na popis prieskumného poroblému práce a
+vymedzenie cieľov prieskumu, popis postupu pri organizácii prieskumu, zberu dát a
+samotného priebehu prieskumu, popis meracích nástrojov a oboznámime sa s
+charakteristikou prieskumného súboru a objasníme metodiku prieskumu.
+
+3.1 Prieskumný problém a cieľ prieskumu
+Posttraumatická stresová porucha je fenomén, ktorému sa odborníci venujú už od
+začiatku 19. storočia. Aj keď je v posledných rokoch tejto poruche venované stále viac
+pozornosti, domnievame sa, že pre širšiu spoločnosť je tento pojem neznámy alebo
+dostatočne nepochopený. Odolnosť voči stresu je u každého človeka iná a mení sa v priebehu
+života. Súvisí s vekom, aktuálnou fyzickou kondíciou, rôznymi chronickými ochoreniami, s
+celkovou psychickou záťažou (problémy v rodine, v zamestnaní, finančné starosti atď.).
+Zdravotnícki pracovníci v období pandémie COVID-19 zažívali stresujúce a neočakávané
+situácie, vysoké pracovné vyťaženie, morálny distres (napr. nemohli umožniť rodine, aby sa
+so svojim blízkym dôstojne rozlúčila). To všetko svedčí o značné pôsobenie psychickej
+záťaže na ich osobu.
+Prieskum je zameraný na problematiku miery ohrozenia posttraumatickým
+syndrómom u zdravotníckych pracovníkov konkrétne v zariadeniach pre seniorov v
+pandémii COVID-19.
+Prieskumným problémom práce je vplyv PTSD na zdravotníckych pracovníkov v
+zariadeniach pre seniorov počas pandémie Covid-19.
+Hlavným cieľom prieskumu je zmonitorovať výskyt PTSD u zdravotníckych
+pracovníkov v zariadeniach pre seniorov počas pandémie COVID-19.
+
+27
+
+Vychádzajúc z hlavného cieľu práce sme stanovili nasledovné čiastkové ciele:
+Cieľ 1: Zistiť, či boli prítomné symptómy PTSD u zdravotníckych pracovníkov počas
+pandémie COVID-19.
+Cieľ 2: Zistiť, v akej miere boli prítomné symptómy PTSD u zdravotníckych pracovníkov
+počas pandémie COVID-19.
+Cieľ 3: Identifikovať najčastejšie symptómy PTSD u zdravotníckych pracovníkov počas
+pandémie COVID-19.
+PO 1: Pociťovali zdravotnícki pracovníci symptómy PTSD počas pandémie COVID-19?
+PO 2: Mali symptómy PTSD dopad na život zdravotníckych pracovníkov počas pandémie
+COVID-19 ?
+PO 3: Aké najčastejšie symptómy PTSD identifikovali zdravotnícki pracovníci počas
+pandémie COVID-19?
+3.2 Metódy prieskumu
+Pre účely prieskumu sme zvolili kvantitatívnu metódu zberu dát. Ten prebiehal
+formou štandardizovaného dotazníka, ktorý je súčasťou príloh tejto práce. V úvode
+dotazníka boli účastníci oboznámení s cieľom prieskumu a že sa prieskumu zúčastňujú
+dobrovoľne. Súčasťou dotazníka bolo vyplnenie informácií týkajúcich sa údajov, ako sú vek,
+pohlavie, pracovné zaradenie, či respondent prekonal ochorenie COVID-19, a či sa
+respondent stretol s pojmom posttraumatická stresová porucha. Išlo o 5 uzavretých otázok,
+na ktoré respondenti odpovedali vyznačením jednej správnej odpovede.
+Druhú časť dotazníka tvoril Harvardský dotazník traumy. Harvardský dotazník bol
+vytvorený tak, aby sa dal používať aj v prekladoch do rôznych jazykov. Dá sa použiť ako
+hodnotiaci test alebo ako nástroj sebahodnotenia. Jedná sa o časť harvardského dotazníka o
+traume, nazývanej Príznaky traumy. Pýta sa na rôzne traumatické udalosti, ako aj na
+emocionálne symptómy, ktoré sa považujú za jedinečne spojené s traumou. Tieto príznaky
+ľudia často zažívajú po bolestivých či desivých zážitkoch. Harvardský dotazník traumy
+obsahuje 40 možných symptómov posttraumatických reakcií, ktoré treba ohodnotiť na škále
+od vôbec (skóre 1), mierne (skóre 2), výrazne (skóre 3), extrémne (skóre 4). Respondent
+musí prisúdiť každému zo symptómov nejaké skóre. Výsledná suma sa vydelí počtom
+odpovedí. Výsledné skóre 2,5 a viac sa považuje za symptomatické pre PTSD. Počet
+
+28
+
+účastníkov dotazníka nie je limitovaný. Dotazník by sa mal vypĺňať individuálne v trvaní
+20-30 minút.
+Dáta boli zbierané počas mesiaca február roku 2023. Účastníci prieskumu boli
+oslovení v týchto zariadeniach: Subsídium – Špecializované zariadenie a zariadenie pre
+seniorov, Zariadenie pre seniorov Juraja Schoppera, Domov dôchodcov a domov sociálnych
+služieb Tornaľa, Domov dôchodcov – For region, Dom seniorov Zálesák, do ktorých sme
+distribuovali spolu 120 dotazníkov. Bol stanovený termín zberu dotazníkov, do ktorého
+respondenti mohli vyplnené dotazníky odovzdať. Vrátilo sa nám 102 vyplnených dotazníkov.
+Návratnosť bola 85%. Kritériom bolo úplné vyplnenie dotazníka, neúplné dotazníky (14)
+boli pre výskum bezcenné a museli sa zo zberu dát vyradiť. Pre spracovanie výsledkov prie
+bolo prieskumu žitých 88 dotazníkov. Doklad o povolení realizovať prieskum sa nachádza
+medzi prílohami tejto práce.
+Pre výber prieskumu súboru v rámci dotazníkového šetrenia sme sa rozhodli využiť
+metódu zámerného výberu. Kritériá výberu účastníkov dotazníkového šetrenia boli
+nasledovné:
+
+respondent mal byť zdravotnícky pracovník zamestnaný v zariadení pre
+
+seniorov. Iní účastníci z prieskumnej vzorky boli vylúčení.
+Túto skupinu respondentov sme oslovili cielene, osobnou návštevou vedúceho
+pracovníka daného zariadenia, ktorého sme aj písomnou formou požiadali o ďalšie zdieľanie
+dotazníkov k zdravotníckym pracovníkom.
+Všetci, ktorí sa podieľali na dotazníkovej štúdii boli informovaní o účele našej práce.
+Respondenti sa prieskumu zúčastnili dobrovoľne a všetci oslovení boli informovaní taktiež
+o tom, že bude dodržaná ich anonymita. Preto sme nevyžadovali žiadne osobné údaje, ktoré
+by umožňovali identifikáciu respondentov. Dodržané tak boli základné etické zásady.
+3.3 Charakteristika výberového súboru
+Predmetom nášho skúmania je PTSD u zdravotníckych pracovníkov v zariadeniach
+pre seniorov v pandémii COVID-19. Zdravotnícki pracovnící patria medzi skupinu silno
+ohrozenú posttraumatickým stresovým syndrómom. Ukazuje sa, že s postupným narastaním
+počtu výskumov v tejto oblasti si ľudia stále viac uvedomujú psychologické problémy, ktoré
+počas pandémie utrpeli zdravotnícki pracovníci v prvej línii. Posledný rok pandémie bol
+veľmi náročný pre zdravotníckych pracovníkov aj v zariadeniach pre seniorov, kde sa
+pracovníci museli vyrovnať s trápením a smrťou starého človeka na každodennej báze. To
+je jeden z dôvodov prečo je prieskum zameraný iba na zariadenia pre seniorov. Ďalším z
+29
+
+dôvodov je ten, že na týchto pracovníkov by sa akokeby pozabudlo a všade sa riešili len
+zdravotnícki pracovníci v prvej línii. Čo sa týka charakteristiky prieskumného súboru,
+vzhľadom na cieľ skúmanej problematiky kritériom prieskumu bolo, aby sa prieskumu
+zúčastnili zdravotnícki pracovníci pracujúci v zariadeniach pre seniorov. Výber
+prieskumného súboru bol tak uskutočnený podľa metódy zámerného výberu. Finálny
+prieskumný súbor tvorilo 88 respondentov.
+Tabuľka 1 Rozdelenie respondentov podľa veku
+Vek respondentov
+
+(n)
+
+(%)
+
+18-30 rokov
+
+21
+
+23,87
+
+31-50 rokov
+
+41
+
+46,59
+
+51 a viac rokov
+
+26
+
+29,54
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Prvá uzavretá otázka v dotazníku zisťovala vek respondentov. Z hľadiska vekových
+kategórií bola najviac zastúpená veková kategória 31-50 rokov (46,59%), ďalej kategória 51
+a viac rokov (29,54%). Najmenšie zastúpenie mali respondenti vo veku 18-30 rokov
+(23,87%). V Tabuľke 1 uvádzame celkové zhrnutie počtu a percentuálne zastúpenie
+jednotlivých vekových kategórií. Rozdelenie respondentov podľa veku považujeme za
+podstatné pre tento výskum. Jednak preto, lebo z viacerých prieskumov vyplýva, že v
+zariadeniach pre seniorov pracujú poväčšinou staršie sestry. Práca sestry v nich mnn nie
+je pre mladé ženy vôbec zaujímavá.
+Tabuľka 2 Rozdelenie respondentov podľa pohlavia
+Pohlavie respondentov
+
+(n)
+
+(%)
+
+žena
+
+80
+
+90,90
+
+muž
+
+8
+
+9,10
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Druhá kategorizačná otázka v dotazníku zisťovala rod respondentov. Pohlavie sme
+do výskumu zaradili z toho hľadiska, že profesia sestier je značne feminizovaná, avšak v
+
+30
+
+súčasnosti dosť pribúda aj tzv. mužský element. Výberový súbor tvorilo 80 (90,90%) žien a
+8 (9,10%) mužov. Domnievame sa, že to bude hlavne z toho dôvodu, že sesterské povolanie
+je vo väčšej miere zastúpené ženami. Zvažovali sme porovnávanie týchto dvoch kategórií,
+avšak sa nezišli v podobnom počte, aby sme ich mohli zrovnať. Výsledky uvádzame v
+Tabuľke 2.
+Tabuľka 3 Pracovné zaradenie respondentov
+Pracovné zaradenie
+
+(n)
+
+(%)
+
+lekár
+
+0
+
+0,00
+
+sestra
+
+30
+
+34,10
+
+praktická sestra
+
+27
+
+30,68
+
+sanitár
+
+29
+
+32,96
+
+fyzioterapeut
+
+1
+
+1,13
+
+masér
+
+1
+
+1,13
+
+iné
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Zvoleným
+
+faktorom
+
+predstavujúcim
+
+podstatu
+
+výskumu
+
+bolo
+
+povolanie
+
+zdravotníckeho pracovníka v zariadení pre seniorov. Tretia polouzavretá otázka v dotazníku
+preto zisťovala pracovné zaradenie respondentov. V rámci výskumu bolo pre nás dôležité,
+aby výskumný súbor tvorili iba zdravotnícki pracovníci pracujúci v zariadeniach pre
+seniorov. Najväčšie zastúpenie mali sestry 30 (34,10%), potom sanitári 29 (32,96%), a ďalej
+praktické sestry 27 (30,68%). Výskumu sa zúčastnili aj 1 masér (1,13%) a 1 fyzioterapeut
+(1,13%).
+
+31
+
+4 VÝSLEDKY PRÁCE
+V tejto kapitole uvádzame výsledky prieskumu a spôsob spracovania získaných dát.
+Po spracovaní získaných dát nasledovala analýza získaných výsledkov. Na testovanie
+výskumných otázok sme použili jednoduchú štatistickú metódu, a to percentuálny výpočet.
+V počítačovom programe Microsoft Excel sme vytvorili tabuľky k vyjadreniu absolútnych
+(n) a relatívnych (%) hodnôt. V tabuľkách uvádzame číselné a percentuálne výsledky
+dotazníkového šetrenia. Výsledky komentujeme.
+Tabuľka 4 Prekonanie COVID-19 respondentmi
+Prekonanie COVID-19
+
+(n)
+
+(%)
+
+áno
+
+63
+
+71,59
+
+nie
+
+18
+
+20,46
+
+neviem
+
+7
+
+7,95
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Ďalšou dôležitou informáciou, ktorú sme v dotazníkovom šetrení v rámci uzavretej
+otázky č. 4 zisťovali bola, či respondenti prekonali počas pandémie ochorenie COVID-19.
+Viac ako polovica respondentov, číže 63 (71,59%) uviedla, že toto ochorenie prekonali. Pre
+prehľad uvádzame Tabuľku 4, kde možno vidieť popisované údaje. Keďže 18 (20,46%)
+respondentov COVID-19 neprekonalo, predpokladáme, že v daných zariadeniach mali
+nastavené správne protiepidemické opatrenia. 7 (7,95%) respondentov nevedelo uviesť, či
+ochorenie COVID-19 prekonali.
+Tabuľka 5 Znalosť pojmu PTSD u respondentov
+Znalosť pojmu PTSD
+
+(n)
+
+(%)
+
+áno
+
+58
+
+65,91
+
+nie
+
+17
+
+19,32%
+
+neviem
+
+13
+
+14,77
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+32
+
+Odpovede respondentov na uzavretú otázku, či sa už stretli s pojmom
+posttraumatická stresová porucha, prezentujeme v Tabuľke 5. Z výsledkov vyplýva, že 58
+(65,91%) respondentov sa už s týmto pojmom stretlo. 17 (19,32%) respondentov sa s
+pojmom PTSD nestretlo. A 13 (14,77%) respondentov nevedelo, či sa s týmto pojmom už
+stretli. V tejto oblasti predpokladáme, že čím viac informácií majú zdravotnícki pracovníci
+o PTSD, tým menej sa u nich bude tento syndróm prejavovať.
+Harvardský dotazník traumy - výskumný nástroj
+Po vyplnení úvodných otázok v dotazníku, nasledovalo vyplnenie časti
+Harvardského dotazníka traumy, nazývaný ako Príznaky traumy. Príznaky traumy ľudia
+často zažívajú po bolestivých či desivých zážitkoch. Harvardský dotazník traumy, obsahuje
+symptómy posttraumatických reakcií, ktoré mali respondenti hodnotiť nasledovne:
+a) vôbec (skóre 1),
+b) mierne (skóre 2),
+c) výrazne (skóre 3),
+d) extrémne (skóre 4).
+Respondenti museli prisúdiť každému zo symptómov nejaké skóre vo forme
+odpovede. Výsledky jednotlivých odpovedí spolu s komentárom uvádzame v tabuľkách
+nižšie.
+Tabuľka 6 Vracajúce sa myšlienky a spomienky na tie najbolestivejšie či najdesivejšie
+zážitky
+(n)
+
+(%)
+
+Vôbec
+
+60
+
+68,18
+
+Mierne
+
+26
+
+29,55
+
+Výrazne
+
+2
+
+2,27
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+33
+
+Vracajúce sa myšlienky a spomienky na tie najbolestivejšie či najdesivejšie zážitky
+výrazne obťažovali 2 (2,27%) respondentov, mierne 26 (29,55%) respondentov a vôbec
+neobťažovali 60 (68,18%) respondentov.
+Tabuľka 7 Pocity, akoby sa daná udalosť znovu odohrávala
+(n)
+
+(%)
+
+Vôbec
+
+63
+
+71,59
+
+Mierne
+
+23
+
+26,14
+
+Výrazne
+
+2
+
+2,27
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocity, akoby sa daná udalosť znovu odohrávala výrazne obťažovali 2 (2,27%)
+respondenti, mierne 23 (26,14%) respondentov a vôbec neobťažovali 63 (71,59%)
+respondentov.
+Tabuľka 8 Opakujúce sa nočné mory
+(n)
+
+(%)
+
+Vôbec
+
+61
+
+69,32
+
+Mierne
+
+26
+
+29,55
+
+Výrazne
+
+1
+
+1,14
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Opakujúce sa nočné mory výrazne obťažovali 1 (1,14%) respondenta, mierne 26
+(29,55%) respondentov a vôbec neobťažovali 61 (69,32%) respondentov.
+
+34
+
+Tabuľka 9 Pocit odpojenosti a oddelenia od druhých ľudí
+(n)
+
+(%)
+
+Vôbec
+
+86
+
+97,73
+
+Mierne
+
+2
+
+2,27
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit odpojenosti a oddelenia od druhých ľudí mierne obťažoval 2 (2,27%)
+respondentov a vôbec neobťažoval 86 (97,73%) respondentov.
+Tabuľka 10 Neschopnosť prežívať akékoľvek pocity
+(n)
+
+(%)
+
+Vôbec
+
+85
+
+96,59
+
+Mierne
+
+3
+
+3,41
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Neschopnosť prežívať akékoľvek pocity mierne obťažoval 3 (3,41%) respondentov
+a vôbec neobťažoval 85 (96,59%) respondentov.
+Tabuľka 11 Pocit nervozity, rýchle nástupy emócií
+(n)
+
+(%)
+
+Vôbec
+
+27
+
+30,68
+
+Mierne
+
+43
+
+48,86
+
+Výrazne
+
+17
+
+19,32
+
+Extrémne
+
+1
+
+1,14
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+35
+
+Pocit nervozity, rýchle nástupy emócií extrémne obťažovali 1 (1,14%) respondenta,
+výrazne 17 (19,32%) respondentov, mierne 43 (48,86%) respondentov a vôbec neobťažovali
+27 (30,68%) respondentov.
+Tabuľka 12 Problémy so sústredením
+(n)
+
+(%)
+
+Vôbec
+
+66
+
+75
+
+Mierne
+
+21
+
+23,86
+
+Výrazne
+
+1
+
+1,14
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Problémy so sústredením výrazne obťažovali 1 (1,14%) respondenta, mierne 21
+(23,86%) respondentov a vôbec neobťažovali 66 (75%) respondentov.
+Tabuľka 13 Problémy so spánkom
+(n)
+
+(%)
+
+Vôbec
+
+28
+
+31,82
+
+Mierne
+
+42
+
+47,73
+
+Výrazne
+
+13
+
+14,77
+
+Extrémne
+
+5
+
+5,68
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Problémy so spánkom extrémne obťažovali 5 (5,68%) respondentov, výrazne 13
+(14,77%) respondentov, mierne 42 (47,73%) respondentov a vôbec neobťažoval 28 (31,82%)
+respondentov.
+
+36
+
+Tabuľka 14 Pocit nastraženosti, neustálej pohotovosti
+(n)
+
+(%)
+
+Vôbec
+
+31
+
+35,23
+
+Mierne
+
+46
+
+52,27
+
+Výrazne
+
+11
+
+12,5
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit nastraženosti, neustálej pohotovosti výrazne obťažoval 11 (12,5%)
+respondentov, mierne 46 (52,27%) respondentov a vôbec neobťažoval 31 (35,23%)
+respondentov.
+Tabuľka 15 Pocit podráždenosti či výbuchy hnevu
+(n)
+
+(%)
+
+Vôbec
+
+45
+
+51,14
+
+Mierne
+
+26
+
+29,55
+
+Výrazne
+
+17
+
+19,32
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit podráždenosti či výbuchy hnevu výrazne obťažovali 17 (19,32%) respondentov,
+mierne 26 (29,55%) respondentov a vôbec neobťažoval 45 (51,14%) respondentov.
+Tabuľka 16 Vyhýbanie sa aktivitám, ktoré traumatizujúcu skúsenosť pripomínajú
+(n)
+
+(%)
+
+Vôbec
+
+58
+
+65,91
+
+Mierne
+
+28
+
+31,82
+
+Výrazne
+
+2
+
+2,27
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+37
+
+Vyhýbanie sa aktivitám, ktoré traumatizujúcu skúsenosť pripomínajú sa výrazne
+objavilo u 2 (2,27%) respondentov, mierne u 28 (31,82%) respondentov a vôbec sa
+neobjavilo u 58 (65,91%) respondentov.
+Tabuľka 17 Neschopnosť rozpomenúť sa na niektoré časti traumatizujúcich udalostí
+(n)
+
+(%)
+
+Vôbec
+
+82
+
+93,18
+
+Mierne
+
+6
+
+6,82
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Neschopnosť rozpomenúť sa na niektoré časti traumatizujúcich udalostí sa mierne
+objavilo u 6 (6,82%) respondentov a vôbec sa neobjavilo u 82 (93,18%) respondentov.
+Tabuľka 18 Znížený záujem o každodenné aktivity
+(n)
+
+(%)
+
+Vôbec
+
+57
+
+64,77
+
+Mierne
+
+23
+
+26,14
+
+Výrazne
+
+8
+
+9,09
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Znížený záujem o každodenné aktivity výrazne pociťovalo 8 (9,09%) respondentov,
+mierne 23 (26,14%) respondentov a vôbec nepociťovalo 57 (64,77%) respondentov.
+
+38
+
+Tabuľka 19 Pocit, že nemáte žiadnu budúcnosť
+(n)
+
+(%)
+
+Vôbec
+
+78
+
+88,64
+
+Mierne
+
+7
+
+7,95
+
+Výrazne
+
+3
+
+3,41
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že nemáte žiadnu budúcnosť výrazne obťažovalo 3 (3,41%) respondentov,
+mierne 7 (7,95%) respondentov a vôbec neobťažovalo 78 (88,64%) respondentov.
+Tabuľka 20 Vyhýbanie sa myšlienkam alebo pocitom spojeným s traumatizujúcimi
+udalosťami
+(n)
+
+(%)
+
+Vôbec
+
+63
+
+71,59
+
+Mierne
+
+23
+
+26,14
+
+Výrazne
+
+2
+
+2,27
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Vyhýbanie sa myšlienkam alebo pocitom spojeným s traumatizujúcimi udalosťami
+sa výrazne objavilo u 2 (2,27%) respondentov, mierne u 23 (26,14%) respondentov a vôbec
+sa neobjavilo u 63 (71,59%) respondentov.
+
+39
+
+Tabuľka 21 Prudká a nečakaná emočná alebo fyzická reakcia na pripomenutie
+traumatizujúcej udalosti
+(n)
+
+(%)
+
+Vôbec
+
+85
+
+96,59
+
+Mierne
+
+3
+
+3,41
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Prudká a nečakaná emočná alebo fyzická reakcia na pripomenutie traumatizujúcej
+udalosti mierne obťažovala 3 (3,41%) respondentov a vôbec neobťažovala 85 (96,59%)
+respondentov.
+Tabuľka 22 Pocit, že ste menej schopný, než pred udalosťou
+(n)
+
+(%)
+
+Vôbec
+
+52
+
+59,09
+
+Mierne
+
+26
+
+29,55
+
+Výrazne
+
+10
+
+11,36
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že ste menej schopný, než pred udalosťou výrazne obťažoval 10 (11,36%)
+respondentov, mierne 26 (29,55%) respondentov a vôbec neobťažoval 52 (59,09%)
+respondentov.
+
+40
+
+Tabuľka 23 Náročnejšie vyrovnávanie sa s novými situáciami
+(n)
+
+(%)
+
+Vôbec
+
+70
+
+79,55
+
+Mierne
+
+18
+
+20,45
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Náročnejšie vyrovnávanie sa s novými situáciami mierne pociťovalo 18 (20,45%)
+respondentov a vôbec nepociťovalo 70 (79,55%) respondentov.
+Tabuľka 24 Pocit vyčerpania
+(n)
+
+(%)
+
+Vôbec
+
+5
+
+5,68
+
+Mierne
+
+37
+
+42,05
+
+Výrazne
+
+45
+
+51,14
+
+Extrémne
+
+1
+
+1,14
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit vyčerpania extrémne obťažoval 1 (1,14%) respondenta, výrazne 45 (51,14%)
+respondentov, mierne 37 (42,05%) respondentov a vôbec neobťažoval 5 (5,68%)
+respondentov.
+Tabuľka 25 Telesná bolesť
+(n)
+
+(%)
+
+Vôbec
+
+56
+
+63,64
+
+Mierne
+
+29
+
+32,95
+
+Výrazne
+
+3
+
+3,41
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+41
+
+Telesná bolesť výrazne obťažovala 3 (3,41%) respondentov, mierne 29 (32,95%)
+respondentov a vôbec neobťažovala 56 (63,64%) respondentov.
+Tabuľka 26 Problémy telesného (zdravotného) rázu
+(n)
+
+(%)
+
+Vôbec
+
+80
+
+90,91
+
+Mierne
+
+8
+
+9,09
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Problémy telesného (zdravotného) rázu mierne obťažovali 8 (9,09%) respondentov
+a vôbec neobťažovali 80 (90,91%) respondentov.
+Tabuľka 27 Zhoršená pamäť
+(n)
+
+(%)
+
+Vôbec
+
+44
+
+50,0
+
+Mierne
+
+27
+
+30,68
+
+Výrazne
+
+15
+
+17,05
+
+Extrémne
+
+2
+
+2,27
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Zhoršená pamäť sa extrémne objavila u 2 (2,27%) respondentov, výrazne u 15
+(17,05%) respondentov, mierne u 27 (30,68%) respondentov a vôbec sa neobjavila u 44
+(50%) respondentov.
+
+42
+
+Tabuľka 28 Zistenie, či upozornenie od iných, že ste vykonávali niečo, na čo si
+nespomínate
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Zistenie, či upozornenie od iných, že ste vykonávali niečo, na čo si nespomínate sa
+vôbec neobjavilo u 88 (100%) respondentov.
+Tabuľka 29 Problém sústrediť sa, dávať pozor
+(n)
+
+(%)
+
+Vôbec
+
+38
+
+43,18
+
+Mierne
+
+41
+
+46,59
+
+Výrazne
+
+9
+
+10,23
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Problém sústrediť sa, dávať pozor výrazne obťažoval 9 (10,23%) respondentov,
+mierne 41 (46,59%) respondentov a vôbec neobťažoval 38 (43,18%) respondentov.
+Tabuľka 30 Pocit rozdelenia na dve osoby, pričom jedna z nich len pozoruje to, čo robí tá
+druhá
+(n)
+
+(%)
+
+Vôbec
+
+81
+
+92,05
+
+Mierne
+
+6
+
+6,82
+
+Výrazne
+
+1
+
+1,14
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+43
+
+Pocit rozdelenia na dve osoby, pričom jedna z nich len pozoruje to, čo robí tá druhá
+výrazne obťažoval 1 (1,14%) respondenta, mierne 6 (6,82%) respondentov a vôbec
+neobťažoval 81 (92,05%) respondentov.
+Tabuľka 31 Pocit neschopnosti plánovať deň
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit neschopnosti plánovať deň vôbec neobťažoval respondentov.
+Tabuľka 32 Obviňovanie seba za to, čo sa stalo
+(n)
+
+(%)
+
+Vôbec
+
+44
+
+50,0
+
+Mierne
+
+28
+
+31,82
+
+Výrazne
+
+16
+
+18,18
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Obviňovanie seba za to, čo sa stalo sa výrazne prejavilo u 16 (18,18%) respondentov,
+mierne u 28 (31,82%) respondentov a vôbec sa neprejavilo u 44 (50%) respondentov.
+
+44
+
+Tabuľka 33 Pocit viny, že ste prežili
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit viny, že ste prežili vôbec neobťažoval žiadneho respondenta.
+Tabuľka 34 Strata nádeje
+(n)
+
+(%)
+
+Vôbec
+
+29
+
+32,95
+
+Mierne
+
+31
+
+35,23
+
+Výrazne
+
+28
+
+31,82
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Strata nádeje výrazne obťažovala 28 (31,82%) respondentov, mierne 31 (35,23%)
+respondentov a vôbec neobťažovala 29 (32,95%) respondentov.
+Tabuľka 35 Pocit hanby nad bolestivým či traumatizujúcim zážitkom, ktorý sa vám stal
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+45
+
+Pocit hanby nad bolestivým či traumatizujúcim zážitkom, ktorý sa vám stal vôbec
+neobťažoval žiadneho respondenta.
+Tabuľka 36 Pocit, že ľudia nechápu, čo sa vám stalo
+(n)
+
+(%)
+
+Vôbec
+
+74
+
+84,09
+
+Mierne
+
+8
+
+9,09
+
+Výrazne
+
+6
+
+6,82
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že ľudia nechápu, čo sa vám stalo výrazne obťažoval 6 (6,82%) respondentov,
+mierne 8 (9,09%) respondentov a vôbec neobťažoval 74 (84,09%) respondentov.
+Tabuľka 37 Pocit, že ostatní sú voči vám nepriateľský
+(n)
+
+(%)
+
+Vôbec
+
+59
+
+67,05
+
+Mierne
+
+16
+
+18,18
+
+Výrazne
+
+13
+
+14,77
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že ostatní sú voči vám nepriateľský výrazne obťažoval 13 (14,77%)
+respondentov, mierne 16 (18,18%) respondentov a vôbec neobťažoval 59 (67,05%)
+respondentov.
+
+46
+
+Tabuľka 38 Pocit, že sa nemáte na koho spoľahnúť
+(n)
+
+(%)
+
+Vôbec
+
+48
+
+54,55
+
+Mierne
+
+29
+
+32,95
+
+Výrazne
+
+11
+
+12,5
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že sa nemáte na koho spoľahnúť výrazne obťažoval 11 (12,5%) respondentov,
+mierne 29 (32,95%) respondentov a vôbec neobťažoval 48 (54,55%) respondentov.
+Tabuľka 39 Pocit, že vás zradil niekto, komu ste dôverovali
+(n)
+
+(%)
+
+Vôbec
+
+87
+
+98,86
+
+Mierne
+
+1
+
+1,14
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit, že vás zradil niekto, komu ste dôverovali mierne obťažoval 1 (1,14%)
+respondenta vôbec neobťažoval 87 (98,86%) respondentov.
+Tabuľka 40 Pocit poníženia z vlastných zážitkov
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+
+47
+
+Pocit poníženia z vlastných zážitkov vôbec neobťažoval žiadneho respondenta.
+Tabuľka 41 Absencia dôvery voči ostatným
+(n)
+
+(%)
+
+Vôbec
+
+75
+
+85,23
+
+Mierne
+
+8
+
+9,09
+
+Výrazne
+
+5
+
+5,68
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Absencia dôvery voči ostatným sa výrazne objavila u 5 (5,68%) respondentov,
+mierne u 8 (9,09%) respondentov a vôbec sa neobjavila u 75 (85,23%) respondentov.
+Tabuľka 42 Pocit bezmocnosti pomôcť iným
+(n)
+
+(%)
+
+Vôbec
+
+3
+
+3,41
+
+Mierne
+
+38
+
+43,18
+
+Výrazne
+
+46
+
+52,27
+
+Extrémne
+
+1
+
+1,14
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pocit bezmocnosti pomôcť iným extrémne obťažoval 1 (1,14%) respondenta,
+výrazne 46 (52,27%) respondentov, mierne 38 (43,18%) respondentov a vôbec neobťažoval
+3 (3,41%) respondentov.
+
+48
+
+Tabuľka 43 Čas strávený premýšľaním prečo sa tieto udalosti stali mne
+(n)
+
+(%)
+
+Vôbec
+
+22
+
+25
+
+Mierne
+
+43
+
+48,86
+
+Výrazne
+
+23
+
+26,14
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Čas strávený premýšľaním prečo sa tieto udalosti stali mne výrazne obťažoval 23
+(26,16%) respondentov, mierne 43 (48,86%) respondentov a vôbec neobťažoval 22 (25%)
+respondentov.
+Tabuľka 44 Pociťovaná potreba pomsty
+(n)
+
+(%)
+
+Vôbec
+
+88
+
+100
+
+Mierne
+
+0
+
+0,00
+
+Výrazne
+
+0
+
+0,00
+
+Extrémne
+
+0
+
+0,00
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Pociťovaná potreba pomsty vôbec neobťažovala žiadneho respondenta.
+
+Dotazník Príznaky traumy - časť Hardvardského dotazníka sa vyhodnocuje tak, že
+číselné skóre z jednotlivých odpovedí sa sčíta a výsledná suma sa vydelí počtom odpovedí,
+ktorých je 40. Takto nám vyjde súčet číselných hodnôt jednotlivých výrokov. Podľa tejto
+hodnoty sa dozvieme, v akej úrovni (žiadna, nízka, mierna) sa respondent v oblasti PTSD
+nachádza. Výsledné skóre 2,5 a viac sa považuje za vysoké a symptomatické pre PTSD. V
+zásade platí, že čím je skóre vyššie, tým je väčšia závažnosť symptómov PTSD.
+Každý jeden dotazník sme preto museli vyhodnocovať samostatne. Keďže výsledné
+skóre bolo rôzne, rozdelili sme ho do 4 kategórií: skóre 0-1, skóre 1-2, skóre 2-2,5 a skóre
+2,5 a viac. Výsledky uvádzame v Tabuľke 45.
+
+49
+
+Tabuľka 45 Skóre príznakov traumy
+Skóre Príznakov traumy
+
+(n)
+
+(%)
+
+0-1
+
+34
+
+38,63%
+
+1-2
+
+43
+
+48,87%
+
+2-2,5
+
+9
+
+10,23%
+
+2,5 a viac
+
+2
+
+2,27%
+
+Celkom
+
+88
+
+100
+
+Zdroj: Autor
+Skóre 0-1 sa nepovažuje za symptomatické pre PTSD a vypočítali sme ho u 34
+(36,63%) respondentov. Skóre 1-2 označuje nízku úroveň prítomnosti symptómov PTSD a
+vypočítali sme ho u 43 (48,87%) respondentov. Výsledné skóre 2-2,5 označuje miernu
+úroveň prítomnosti symptómov PTSD a vyšlo nám u 9 (10,23%) respondentov. Výsledné
+skóre 2,5 a viac sa považuje za vysoké a symptomatické pre PTSD, zistili sme ho u 2 (2,27%)
+respondentov.
+
+50
+
+5 DISKUSIA
+Predkladaná diplomová práca približuje problematiku posttraumatického stresového
+syndrómu u zdravotníckych pracovníkov v zariadeniach pre seniorov v pandémii COVID19. Ako píše Hašto a kol. (2011), PTSD je po depresii druhou najčastejšou skupinou
+úzkostných duševných porúch.
+Hlavným cieľom prieskumu bolo zmonitorovať výskyt PTSD u zdravotníckych
+pracovníkov v zariadeniach pre seniorov. V rámci prieskumu bolo pre nás dôležité, aby
+výskumný súbor tvorili iba zdravotnícki pracovníci pracujúci v zariadeniach pre seniorov.
+Najväčšie zastúpenie mali sestry 30 (34,10%), potom sanitári 29 (32,96%), a ďalej praktické
+sestry 27 (30,68%). Výskumu sa zúčastnili aj 1 masér (1,13%) a 1 fyzioterapeut (1,13%).
+Vychádzajúc z hlavného cieľu práce sme stanovili 3 čiastkové ciele práce. Na
+základe vyhodnotenia údajov zo štandardizovaného Harvardského dotazníka traumy sme
+vyhodnocovali splnenie čiastkových cieľov.
+Prvým čiastkovým cieľom práce bolo zistiť, či boli prítomné symptómy PTSD u
+zdravotníckych pracovníkov v pandémii COVID-19. Na základe vyhodnotenia
+Harvardského dotazníka sme zistili, že viacero symptómov zo 40 charakteristických pre
+PTSD u zdravotníckych pracovníkov pracujúcich v zariadeniach pre seniorov prítomné boli,
+avšak každý symptóm v inej miere. Výsledky štúdie Yin et al. (2020) ukázali, že jeden
+mesiac po vypuknutí pandémie bola prevalencia symptómov PTSD u zdravotníckych
+pracovníkov prvej línie 3,8 % (Yin, et al., 2020). Zaujímavý výsledok mala štúdia Lai et al.
+(2020), ktorá sa venovala zdravotníckym pracovníkom, ktorí odišli liečiť pacientov s
+COVID-19 priamo do Wu-chanu. Po ich návrate domov bola u nich celková prevalencia
+symptómov PTSD až 31,6%.
+Na základe týchto zistení považujeme prvý čiastkový cieľ za splnený.
+Druhým čiastkovým cieľom práce bolo zistiť, v akej miere boli prítomné
+symptómy PTSD u zdravotníckych pracovníkov v pandémii COVID-19. Miera prítomnosti
+symptómov bola skúmaná vyhodnotením výsledného skóre Harvardského dotazníka Príznaky traumy. Podľa tejto hodnoty sa dozvieme, v akej úrovni sa respondent v oblasti
+PTSD nachádza. Skóre 0-1 sa nepovažuje za symptomatické pre PTSD a vypočítali sme ho
+u 34 (38,63%) respondentov. Skóre 1-2 označuje nízku úroveň prítomnosti symptómov
+PTSD a vypočítali sme ho u 43 (48,87%) respondentov. Výsledné skóre 2-2,5 označuje
+miernu úroveň prítomnosti symptómov PTSD a vyšlo nám u 9 (10,23%) respondentov.
+Výsledné skóre 2,5 a viac sa považuje za vysoké a symptomatické pre PTSD a tento výsledok
+
+51
+
+sme zistili u 2 (2,27%) respondentov. Na základe iba sebaposudzovacieho dotazníka pre
+PTSD samozrejme nemožno stanoviť diagnózu PTSD, z toho dôvodu by bola potreba
+komplexnejšej diagnostiky.
+Motlová (2021) vo svojom prieskume od sestier z kovidových jednotiek rozhovorom
+zisťovala ich spokojnosť so životom pred a po vypuknutí pandémie COVID-19. Takmer
+všetky sestry svoj život pred kovidom vnímali ako spokojný, kvalitný a plnohodnotný bez
+obmedzení. Po vypuknutí koronavírusu sestry uvádzali problémy v oblasti zdravia, dobrú
+fyzickú ale zlú psychickú kondíciu, prítomnosť psychosomatických ochorení, únavy, porúch
+spánku, obavy o vývoj pandémie a či situáciu zvládnu. Počas lockdownu im chýbali rodičia,
+príbuzní a priatelia.
+Podľa Hašto a kol. (2011) výskytu PTSD v rôznych rizikových skupinách sa
+venovalo viacero epidemiologických štúdií, v ktorých sa prevalencia uvádza medzi 3-58%,
+v skoro rovnakej miere u mužov (22,5%) ako u žien (21,2%). U nás zatiaľ neprebehol
+kvantitatívny výskum u zdravotných pracovníkov „prvej línie“, ktorý by skúmal dopady
+pandémie. Na jednom však už pracuje Ministerstvo zdravotníctva SR, ktoré sa rozhodlo
+preskúmať dopady pandémie na zdravotníkov nemocníc s názvom „The COVID-19
+HEROES“. Jedná sa o medzinárodnú štúdiu.
+Zdravotnícki pracovníci z 5 hlavných nemocníc zapojených do starostlivosti o
+pacientov s COVID-19 v Singapure a Indii boli zaradení k účasti výskumu vyplnením
+dotazníka v období od 19. februára do 17. apríla 2020. Medzi zdravotníckych pracovníkov
+patrili lekári, sestry, pomocní zdravotnícki pracovníci, administratívni pracovníci a
+pracovníci údržby. Tento dotazník zbieral informácie o demografických údajoch, anamnéze,
+prevalencii symptómov za posledný mesiac. Hodnotila sa prevalencia fyzických symptómov
+a psychologických následkov depresie, úzkosti, stresu a posttraumatickej stresovej poruchy.
+Z 906 pracovníkov v zdravotníctve, ktorí sa zúčastnili prieskumu, bolo u 48 (5,3%) zistená
+stredne ťažká až veľmi ťažká depresia, 79 (8,7%) stredne ťažká až extrémne ťažká úzkosť,
+20 (2,2%) mierne až extrémne ťažká depresia a stres a u 34 (3,8%) stredná až silná úroveň
+psychickej tiesne. Najčastejšie uvádzaným príznakom bola bolesť hlavy (32,3%), pričom
+veľký počet účastníkov (33,4%) hlásil viac ako štyri príznaky (Lai et al., 2020).
+Sesterské povolanie je vo väčšej miere zastúpené ženami. Potvrdzujú to aj údaje
+štatistického ústavu SR, podľa ktorého ženy tvoria 98% zdravotníckych pracovníkov
+v zariadeniach pre seniorov. Náš výberový súbor tvorilo taktiež viac žien (90,90%) ako
+mužov (9,10%). Avšak podľa Longauerovej a kol. (2022) ženy trpia PTSD 2x častejšie ako
+muži. Je preto možné predpokladať, že aj z tohto dôvodu môže byť výskyt symptómov PTSD
+52
+
+a ďalších psychických problémov u sestier vyšší. V našom výskume sme však symptómy
+PTSD u mužov a žien bohužiaľ neporovnávali. Zvažovali sme porovnávanie týchto dvoch
+kategórií, preto sme aj kategorizačnú otázku týkajúcu sa pohlavia do dotazníka zaradili,
+avšak sa nezišli v podobnom počte, aby sme ich mohli zrovnať. Aj podľa štúdie Lai et al.
+(2020), ktorá skúmala stav duševného zdravia 1257 lekárov a ďalších zdravotníckych
+pracovníkov v Číne v 34 nemocniciach, na oddeleniach, ktoré zabezpečovali zdravotnú
+starostlivosť pre pacientov s ochorením COVID-19, zdravotné sestry ženy vo veku 26 až 40
+rokov hlásili pri všetkých meraniach závažnejšie príznaky a mali horšie výsledky duševného
+zdravia vo všetkých dimenziách záujmu.
+Na základe zistených údajov a zistení rôznych autorov možno skonštatovať, že
+sestrám sa život aj zdravie počas práce v období pandémie COVID-19 zmenili, značne k
+horšiemu. Na základe zistení Motlovej (2021) to možno pripísať veľkej pracovnej záťaži,
+množstvom služieb, sťaženým podmienkam na oddeleniach v ochranných oblekoch a
+pomôckach. Podľa výsledkov jej prieskumu ako najviac traumatizujúce sestry pociťovali
+vyrovnanie sa s vysokým počtom umierajúcich pacientov
+
+a náročnú komunikáciu s
+
+pozostalými. Následky pandémie sa prejavili na ich psychickom aj fyzickom zdraví, a to
+úzkosťou, nočnými morami, bolesťami hlavy. Ich prácu v období pandémie COVID-19
+preto hodnotíme ako fyzicky aj psychicky veľmi vyčerpávajúcu a náročnú.
+Druhý čiastkový cieľ považujeme za splnený.
+Tretím čiastkovým cieľom práce bolo identifikovať najčastejšie symptómy PTSD
+u zdravotníckych pracovníkov počas pandémie COVID-19. Po vyhodnotení Harvardského
+dotazníka sme zistili, že k najviac pociťovaným symptómom počas pandémie COVID-19 u
+zdravotníckych pracovníkov v zariadeniach pre seniorov boli:
+- pocit bezmocnosti pomôcť iným (extrémne 1,14%, výrazne 52,27%, mierne 43,18%),
+- pocit vyčerpania (extrémne 1,14%, výrazne 51,14%, mierne 42,05%),
+- problémy so spánkom (extrémne 5,68%, výrazne 14,77%, mierne 47, 73%),
+- zhoršená pamäť (extrémne 2,27%, výrazne 17,05%, mierne 30,68%),
+- pocit nervozity, rýchle nástupy emócií (extrémne 1,14%, výrazne 19,32%, mierne 48,86%),
+- strata nádeje (výrazne 31,82%, mierne 35,23%),
+- čas strávený premýšľaním prečo sa tieto udalosti stali mne (výrazne 26,14%, mierne
+48,86%),
+- pocit podráždenosti či výbuchy hnevu (výrazne 19,32%, mierne 29,55%),
+- obviňovanie seba za to, čo sa stalo (výrazne 18,18%, mierne 31,82%),
+- pocit, že ostatní sú voči vám nepriateľský (výrazne 14,77%, mierne 18,18%),
+53
+
+- pocit nastraženosti, neustálej pohotovosti (výrazne 12,5%, mierne 52,27%),
+- pocit, že sa nemáte na koho spoľahnúť (výrazne 12,5%, mierne 32,95%),
+- pocit, že ste menej schopný, než pred udalosťou (výrazne 11,36%, mierne 29,55%),
+- problém sústrediť sa, dávať pozor (výrazne 10,23%, mierne 46,59%),
+- znížený záujem o každodenné aktivity (výrazne 9,09%, mierne 26,14%),
+- telesná bolesť (výrazne 3,41%, mierne 32,95%),
+- vyhýbanie sa aktivitám, ktoré traumatizujúcu skúsenosť pripomínajú (výrazne 2,27%,
+mierne 31,82%),
+- vyhýbanie sa myšlienkam alebo pocitom spojeným s traumatizujúcimi udalosťami
+(výrazne 2,27%, mierne 26,14%),
+- problémy so sústredením (výrazne 1,14%, mierne 23,86%),
+- opakujúce sa nočné mory (výrazne 1,14%, mierne 29,55%),
+- pocity, akoby sa daná udalosť znovu odohrávala (výrazne 2,27%, mierne 26,14%),
+- vracajúce sa myšlienky a spomienky na tie najbolestivejšie či najdesivejšie zážitky
+(Výrazne 2,27%, mierne 29,55%).
+Cabarkapa et al. (2020) píšu o viacerých štúdiách realizovaných za účelom
+preskúmania dopadov pandémie na psychické zdravie zdravotníkov. Podľa jednej z nich viac
+ako 70% zo skupiny 1 200 zdravotníckych pracovníkov hlásilo psychické ťažkosti s vysokou
+mierou depresie, úzkosti a nespavosti. Príznaky nespavosti hlásilo približne 36%
+zdravotníkov. Ukázalo sa, že úzkosť je významným faktorom ovplyvňujúcim sestry a
+personál v priamom kontakte s infikovanými pacientmi COVID-19. Zistilo sa tiež, že dlhá
+pracovná doba zvyšuje hladinu stresu u sestier, a približne dve tretiny zdravotníkov
+pracujúcich v prvej línii hlásili strednú až vysokú hladinu stresu. Rovnakého názoru je aj
+Kučerová (2021), ktorá píše, že sesterské povolanie je samo o sebe veľmi náročné na
+psychickú odolnosť voči stresu, a pracovné podmienky počas pandémie koronavírusu stres
+u zdravotníckych pracovníkov značne zvyšovali. Sestry ošetrovali pacientov v ochranných
+oblekoch, štítoch, rukaviciach a respirátoroch, čo sťažovalo kontakt s pacientom a
+spôsobovalo značné osobné nepohodlie. Mnohí z nich ochoreli, bohužiaľ aj zomreli.
+Cabarkapa et al. (2020) ďalej píše, že v jednej skupine 4 000 zdravotníkov bola približná
+miera problémov duševného zdravia 15% pre depresiu, 25% pre úzkosť a 30% pre príznaky
+akútneho stresu. Bolo zdôraznené aj bremeno dodržiavania prísnych ochranných opatrení,
+ktoré prispievalo k úrovniam núdze. Pracovníci, ktorí považovali ochranu za nedostatočnú,
+hodnotili vyššiu úroveň depresie, úzkosti a akútneho stresu ako tí, ktorí ju považovali za
+primeranú. K podobným výsledkom dospeli aj Lai et al. (2020). Zdravotnícki pracovníci z
+54
+
+COVID oddelení z 34 nemocníc, ktorí boli účastníkmi ich štúdie, ktorá skúmala duševný
+stav zdravotníckych pracovníkov, najčastejšie hlásili príznaky depresie (50,4%), úzkosti
+(44,6%), nespavosti (34,0%) a tiesne (71,5%). Aj Tengilimoglu et al. (2021) píšu, že u ZP
+poskytujúcich zdravotnú starostlivosť pacientom s diagnózou COVID-19, je vyššia hladina
+depresie, úzkosti a stresu ako u tých ZP, ktorí sa s pacientmi s COVID19 nestretli. V
+súvislosti s nárastom počtu kontaktov s pacientmi s diagnostikovaným COVID-19 bola u ZP
+vyššia úroveň depresie, úzkosti a stresu.
+Zaujímavé sú aj poznatky z kvalitatívneho výskumu Klimenta a Nádvorníkovej
+(2020, s. 24) v zariadeniach pre seniorov. Citujeme tie, ktoré sú pre diplomovú prácu
+podstatné: „Strach zamestnancov pramenil z faktu, že nešlo zaistiť dostatočné množstvo
+ochranných pomôcok, existovalo riziko vzájomnej nákazy zamestnancov a prenosu nákazy z
+pracovníka na klienta a naopak. Strach prirodzene zosilnel v situáciách, keď niekto
+z personálu ochorel. Všetko sa ďalej zvýrazňovalo strachom z neznáma a nepredvídateľného
+vývoja neobvyklej situácie”.
+Tretí stanovený čiastkový cieľ bol splnený.
+Na základe splnenia čiastkových cieľov bol hlavný cieľ diplomovej práce naplnený
+a výskumné otázky zodpovedané. Hoci nemožno v tejto chvíli presne a predbežne určiť
+celkové dlhodobé psychologické a ekonomické účinky pandémie COVID-19, je ale možné
+predpokladať, že núdzový stav, pandémia a samotná choroba, vedú k drastickým zmenám v
+každodennom živote jedincov, a spôsobujú symptómy podobné reakcii na rôzne traumatické
+udalosti.
+5.1 Odporúčania pre prax
+Na základe teoretických a empirických poznatkov pre zamestnávateľa a manažment
+odporúčame:
+- dostatočným personálnym a technickým vybavením zariadení pre seniorov predísť záťaži
+zdravotníckych pracovníkov,
+- zvážiť možnosť rehabilitácie a rekondičných pobytov mimo pracovnej doby pre
+zdravotníckych pracovníkov v zariadeniach pre seniorov,
+- intenzívne rozširovať informácie o PTSD a jej prevencii v súvislosti s pandémiou COVID19 so zameraním na zdravotníckych pracovníkov,
+- monitoring zdravotného stavu ZP zameraný na včasnú identifikáciu symptómy PTSD,
+
+55
+
+- intenzívne rozširovať informácie formou vzdelávacích programov o PTSD v súvislosti s
+pandémiou COVID-19,
+- monitorovať a minimalizovať riziká spojené s PTSD,
+- podporovať výskum a šírenie zistení o danej problematike,
+- preskúmanie dopadov pandémie COVID-19 na zdravotníckych pracovníkov,
+- vytvoriť vzdelávacie aktivity na zvyšovanie povedomia zdravotníckych pracovníkov o
+PTSD,
+- pripraviť a preškoliť zdravotnícky personál pre prípadné ďalšie pandémie.
+Na základe teoretických a empirických poznatkov pre sestry odporúčame:
+- starať sa o vlastné duševné zdravie,
+- naučiť sa efektívne relaxovať a odpočívať,
+- v prípade potreby nebáť sa vyhľadať psychologickú pomoc,
+- zvýšiť odborné znalosti o problematike PTSD.
+
+56
+
+ZÁVER
+Práca zdravotníckych pracovníkov počas pandémie COVID-19 bola veľmi potrebná
+a náročná, o to viac v zariadeniach pre seniorov. V rámci svojich možností a schopností aj
+počas pandémie poskytovali starostlivosť ako najlepšie len mohli, nehľadiac na nadmernú
+záťaž a jeho následky. Diplomová práca prináša iba prvotný pohľad do skúmanej
+problematiky. Je potrebné sa so zdravotníctvom viac zaoberať, pretože hoci sa o tom často
+nepíše ani nehovorí, jedná sa o obrovskú skupinu pracovníkov.
+Diplomová práca sa venovala skúmaniu PTSD u zdravotníckych pracovníkov v
+zariadeniach pre seniorov. Dôvodom výberu tejto témy bola predovšetkým potreba
+upozorniť na fakt, že sa v skupine zdravotníckych pracovníkov v dôsledku pandémie
+COVID-19 môžu objavovať symptómy podobné PTSD. V teoretickej časti sme najprv
+priblížili posttraumatický syndróm, jeho príčiny vzniku, symptómy, diagnostiku a liečbu. V
+ďalšej časti sme sa viac zameriavali na starostlivosť v zariadeniach pre seniorov. Vzhľadom
+k tomu, že sestry počas starostlivosti trávia najviac času so seniormi, samostatnú podkapitolu
+sme venovali špecifikám ošetrovateľskej starostlivosti o krehkých seniorov. V empirickej
+časti práce sme popísali cieľ práce a prieskumné otázky. Hlavným cieľom empirickej časti
+práce bolo zmonitorovať výskyt PTSD u zdravotníckych pracovníkov v zariadeniach pre
+seniorov. Dotazníkovým šetrením sme získavali potrebné údaje na analýzu. Prieskumný
+súbor tvorilo 88 zdravotníckych pracovníkov, ktorí pracujú v zariadení pre seniorov.
+Najväčšie zastúpenie mali sestry. Zdravotnícki pracovníci pri svojej práci v pandémii
+COVID-19 najčastejšie pociťovali pocit vyčerpania, telesná bolesť, pocit nervozity a rýchle
+nástupy emócií, problémy so spánkom, problémy so sústredením, pocit nastraženosti a
+neustálej pohotovosti, pocit podráždenosti či výbuchy hnevu, vyhýbanie sa aktivitám, ktoré
+traumatizujúcu skúsenosť pripomínajú, absencia dôvery voči ostatným, znížený záujem o
+každodenné aktivity, zhoršená pamäť, strata nádeje, nočné mory. Ide pritom o príznaky
+PTSD.
+Považujeme za dôležité tejto problematike sa komplexnejšie venovať a potrebné
+zmeny aj uviesť do zdravotníckej praxe. Zistenie najčastejších symptómov traumy, ktorú
+zdravotnícki pracovníci v zariadeniach pre seniorov počas pandémie pociťovali, môže byť
+prvým krokom k prevencii a zlepšeniu. Ak sa odstránia príčiny symptómov PTSD,
+jednoznačne sa zvýši aj úroveň poskytovanej zdravotnej a ošetrovateľskej starostlivosti o
+
+57
+
+seniorov, na druhej strane zase zdravotnícki praocvníci budú môcť poskytovať adekvátnu
+starostlivosť bez ohrozenia ich vlastného zdravia.
+Týmto by sme sa chceli zdravotníckym pracovníkom v zariadeniach pre seniorov
+poďakovať, ktorí aj cez prekážky, ktorým boli v pandémii COVID-19 vystavovaní,
+vykonávali svoju prácu najlepšie ako mohli, z čoho vidieť, že im na svojej práci aj kvalite
+života krehkých seniorov skutočne záleží.
+
+58
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+ABBASI, J. 2020. Social isolation—the other COVID-19 threat in nursing homes. In
+Journal of the American Medical Association, 2020, vol. 324, no. 7, p. 619-620. ISSN 00029955.
+ALDEN, K. - FRANČIŠKOVIČ, T. - LAVELLE, J. - MATHIAS, M. - McINNES, K. MOLLICA, RF. - MORO, LJ. Harvard trauma manual. Harvard program in refugee trauma,
+Cambridge, USA [online]. Dostupný na internete: https://onlinematerial.posttraumaticintegration.eu/courses/PTIP145/
+BRAŽINOVÁ, A. 2017. Epidemiológia najčastejších duševných porúch v Slovenskej
+republike - medzera v liečbe. In Česká a Slovenská psychiatrie, 2017, roč. 113, č. 6, s. 253.
+ISSN 1212-0383.
+BUŠOVÁ, B. 2019. Starostlivosť o seniorov. In Humanita Plus, 2019, č. 2, s. 5-6. ISSN
+1336-2208.
+BUŠOVÁ, B. a kol. 2011. Starostlivosť o dlhodobo chorých starších ľudí - prehľad foriem
+pomoci [online]. 2011. [cit. 2022-09-30]. Bratislava. Dostupné na internete:
+https://employment.gov.sk/files/rodina-socialna-pomoc/socialne-sluzby/ponukasocialnych-sluzieb/
+CABARKAPA, S. et al. 2020. The psychiatric impact of COVID-19 on healthcare workers.
+In Australian journal of general practice, 2020, vol. 49, no. 12. ISSN 2208-794X.
+CANGÁR, M. - MACHAJDÍKOVÁ, M. 2016. Dlhodobá starostlivosť v Slovenskej
+republike. Potreba systémovej zmeny [online]. Bratislava : MZ SR a Regionálny úrad WHO,
+2016. 27 s. Dostupné na internete: rpsp.eu
+ČEGANOVÁ, M. 2010. Využívání aktivizace seniorů pracovníky v sociálních službách pro
+seniory. Masarykova univerzita, Fakulta sociálních studií, Katedra sociální politiky a
+sociální práce : diplomová práca. Brno, 2010. 80 s.
+
+59
+
+CROSTA, A. et al. 2020. Individual differences, economic stability, and fear of contagion
+as risk factors for PTSD symptoms in the COVID-19 emergency. In Frontiers in psychology,
+2020, no. 11. ISSN 1664-1078.
+FABIANOVÁ, Z. - KLIČKOVÁ, M. 2019. Komplexný ošetrovateľský manažment pacienta
+v zariadení sociálnej pomoci [online]. MZSR : ŠDTP, 2019. 24 s.
+FILIPIOVÁ, L. 2017. Ergoterapeut v práci se seniory. Masarykova univerzita, Filozofická
+fakulta, Ústav pedagogických věd : diplomová práca. 2017. 67 s.
+
+GREENBERG, N. 2021. Mental health of health-care workers in the COVID-19 era. In
+Nature Reviews Nephrology, 2021, no. 1-2. ISSN 1759-5061.
+HAŠTO, J. a kol. 2011. Posttraumatická stresová porucha - prevalencia u psychiatrických
+hospitalizovaných pacientov. In Psychiatria pre prax, 2011, roč. 12, č. 4, s. 161-164. ISSN
+1335-9584.
+HAŠTO, J. a kol. 2015. Nové vymedzenie posttraumatickej stresovej poruchy u dospelých
+a detí v DSM-5 a niektoré aktuálne klinické poznatky. In Psychiatria pre prax, 2015, roč.
+16, č. 3, s. 95-99. ISSN 1335-9584.
+HUDÁKOVÁ, Z. - HRONKINOVÁ, H. 2009. Ošetrovateľská starostlivosť o seniorov na
+Slovensku a v Rakúsku. In Florence, 2009, č. 7-8. ISSN 2570-4915.
+HUMENÍKOVÁ, I. 2008. Preťaženosť sestier a jej dopad na kvalitu poskytovanej
+ošetrovateľskej starostlivosti v liečebniach dlhodobo chorých. Trnavská univerzita v Trnave,
+Fakulta zdravotníctva a sociálnej práce : diplomová práca, 2008. 77 s.
+CHEN, R. et al. 2021. A Large"Scale Survey on Trauma, Burnout, and Posttraumatic
+Growth among Nurses during the COVID"19 Pandemic. In International journal of mental
+health nursing, 2021, vol. 30, no. 1, p. 102-116. ISSN 1445-8330.
+
+60
+
+KÁČEROVÁ, M. a kol. 2013. Sociálne služby pre seniorov, typy, veľkosť a priestorová
+diferencovanosť - komparácia Českej republiky a Slovenskej republiky. In Regionální studia,
+2013, č. 1. s. 51-66. ISSN 1803-1471.
+KÁČEROVÁ, M. - ONDAČKOVÁ, J. 2012. Sociálne služby pre seniorov - príkladová
+štúdia v obciach Nitrianskeho kraja. In Geografické informácie GI 16, 2012, č. 1, s. 171-182.
+ISSN 1337-9453.
+KLIMENT, P. - NÁDVORNÍKOVÁ, L. 2020. Prvotní reflexe dopadu epidemie koronaviru
+na sociální služby v ČR. In Fórum sociální práce, 2020, roč. 1, č. 2. ISSN 2336-6664.
+KOHOUTEK, T. - Čermák, I. 2009. Psychologie katastrofické události. Praha : Academia,
+2009. 372 s. ISBN 978-80-200-1816-8.
+KOPCOVÁ, E. a kol. s.a. Sociálne služby a pomoc [online]. s.a. [cit. 2022-09-11]. Dostupné
+na internete: www.minv.sk
+Koronavírus na Slovensku v číslach. 2022 [online]. 2022. [cit. 2022-11-30]. Dostupné na
+internete: korona.gov.sk
+KRÁLOVÁ, J. - RÁŽOVÁ, E. 2012. Sociální služby a příspěvek na péči. 2. vyd. 464 s.
+ISBN 978-80-7263-748-5.
+KUBEKOVÁ, V. a kol. 2021. Financovaní opatrovateľských služieb pre osoby so
+zdravotným postihnutím. EASPD: EaSi, 2021. 25 s.
+KURUCOVÁ, R. 2021. Vybrané kapitoly z primárnej ošetrovateľskej starostlivosti. Martin :
+Univerzita Komenského v Bratislave, Jesseniova lekárska fakulta v Martine, Ústav
+ošetrovateľstva, 2021. 70 s. ISBN 978-80-8187-101-6.
+LAI, J. et al., 2020. Factors Associated With Mental Health Outcomes Among Health Care
+Workers Exposed to Coronavirus Disease 2019. In Journal of American Medical Association,
+2020, vol. 2; no. 3, p. 3. ISSN 1538-3598.
+
+61
+
+LÁTALOVÁ, K. et al. 2015. Poruchy přizpůsobení. In Medicína pro praxi, 2015, roč. 12, č.
+4, s. 184-88. ISSN 1214-8687.
+LEVYOVÁ, M. a kol. 2015. Stratégia dlhodobej sociálno-zdravotnej starostlivosti v
+Slovenskej republike. Inštitút zdravotnej politiky MZ SR, Sekcia zdravia MZ SR a MPSVR
+SR, 2015. 152 s.
+LI, X., et al. 2020. The prevalence and risk factors of PTSD symptoms among medical
+assistance workers during the COVID-19 pandemic. In Journal of Psychosomatic Research,
+2020, vol. 139. ISSN 0022-3999.
+LIPSKY, L. - BURKOVÁ, C. 2020. Provázení traumatem: každodenní průvodce péči o sebe
+při péči o druhé. Vydavateľstvo Maitrea, 2020. 348 s. ISBN 978-80-7500-505-2.
+LONGAUEROVÁ, A. a kol. s.a. Posttraumatická stresová porucha [online]. s.a. [cit. 202208-30]. Katedra ošetrovateľstva, Fakulta zdravotníctva. Prešov : Prešovská univerzita v
+Prešove. 119-125 s. Dostupné na internete: docplayer.net
+MALÍKOVÁ, E. 2011. Péče o seniory v pobytových sociálních zařízeních. Praha : Grada,
+2011. 328 s. ISBN 978-80-2473-148-3.
+MATOUŠEK, O. a kol. 2005. Sociální práce v praxi : specifika různých cílových skupin a
+práce s nimi. Praha : Portál, 2005. 352 s. ISBN 8087-367-002-X.
+MIKAS, J. 2020. Zabezpečenie ochrany klientov a personálu zariadení sociálnych služieb
+počas pandémie COVID-19. Bratislava : Úrad verejného zdravotníctva SR, 2020.
+MOTLOVÁ, J. 2021. Kvalita života a zdraví všeobecných sester v období pandemie Covidu19. Univerzita Pardubice, Fakulta zdravotnických studií : diplomová práce, 2021. 86 s.
+PÉČ, J. 2020. Dermatologická symptomatológia COVID-19 a imunomodulačná a biologická
+liečba v dermatológii. In inVitro, 2020, roč. 8, č. 2, s. 6-9. ISSN 1339-5912.
+
+62
+
+POLÁCH, A. 2020. Koronavírus očami internistu v Rakúsku. In inVitro, 2020, roč. 8, č. 2.
+ISSN 1339-5912.
+PRIDEAUX, E. 2021. How to heal the “mass trauma” of Covid-19 [online]. 2021. [cit.
+2022-07-03]. Dostupné na internete: https://www.bbc.com/future/article/20210203-afterthe-covid-19-pandemic-how-will-we-heal
+RAUDENSKÁ, J. et al. 2020. Occupational burnout syndrome and post-traumatic stress
+among healthcare professionals during the novel coronavirus disease 2019 (COVID-19)
+pandemic. In Best Practice & Research Clinical Anaesthesiology, 2020, vol. 34, no. 4, p.
+553 - 560. ISSN 1521-6896.
+
+RODRIGUEZ, B. O. 2020. The Psychosocial Impact of COVID-19 on health care workers.
+In Int. Braz. J Urol., 2020, vol. 46, suppl. 1, p. 195-200. Print version ISSN 1677-5538. Online version ISSN 1677-6119.
+RUŽIČKA, V. 2010. Sociálny pracovník v zariadení pre seniorov. In Aplikovaná etika v
+sociálnej práci a ďalších pomáhajúcich profesiách : zborník z medzinárodnej vedeckej
+konferencie : 20.-21. október 2010, Piešťany. - Bratislava : VŠZaSP sv. Alžbety. 413 s.
+ISBN 978-80-89271-89-4.
+SLANÁ, M. 2019. Dlhodobá starostlivosť. Rezortná pasca v starostlivosti. In Humanita plus,
+2019, č. 2, s. 1. ISSN 1336-2208.
+Sociálne služby, 2022 [online]. 2022. [cit. 2022-11-02]. Dostupné na internete:
+employment.gov.sk
+STEM. 2020. Dodržování a hodnocení protipandemických opatření a důvěra ve schopnost
+vlády zvládat pandemii covid-19 [online]. 2020. [cit. 2022-08-12] Dostupné na internete:
+https://www.stem.cz/dodrzovani-a-hodnoceniprotipandemickych-opatreni-a-duvera-veschopnost-vlady-zvladat-pandemii-covid- 19/
+ŠLEPECKÝ, M. a kol. 2021. Posttraumatická stresová porucha [online]. [cit. 2022-09-30]
+MZSR : ŠDTP, 2021.
+
+63
+
+ŠROBÁROVÁ, S. 2013. Prístupy sociálneho pracovníka v intervencií podľa vybraných
+teórií. In Sociálna práca, manažment a ekonómia - prínosy a limity vedy pre teóriu a prax :
+zborník referátov z 5. ročníka vedeckej konferencie s medzinárodnou účasťou : 5. jún 2013,
+Dolný Kubín. - Ružomberok : Verbum - vydavateľstvo Katolíckej univerzity v Ružomberku,
+2013. s. 301-310. ISBN 978-80-561-0092-9.
+ŠROBÁROVÁ, S. - ĎALAKOVÁ, S. 2013. Starostlivosť o seniorov prostredníctvom
+pobytovej a terénnej sociálnej práce. Ružomberok : VERBUM - vydavateľstvo KU, 2013.
+88 s. ISBN 978-80-8084.
+
+TENGILIMONGU, D. et al. 2021. Impacts of COVID-19 pandemic period on depression,
+anxiety and stress levels of the healthcare employees in Turkey. In Legal Medicine, 2021,
+no. 48. ISSN 1344-6223.
+TICHÝ, V. - Praško, J. 2000. Akutní reakce na stres posttraumatická stresová porucha. In
+Vojenské zdravotnické listy, 2000. ISSN 0372-7025.
+TUCKER, P. - CZAPLA, C. S. 2021. Post-COVID Stress Disorder: Another Emerging
+Consequence of the Global Pandemic. In Psychiatric Times, 2021, vol. 38, no. 1. ISSN
+8932905.
+VÁGNEROVÁ, M. 2008. Psychologie pro pomáhající profese. Praha: Portál, 2008. 872 s.
+ISBN 80-736-7414-9.
+
+WHO. 2020-2021. For a safer, healthier and fairer world. Results report. Programme
+budget 2020-2021 [online]. 2020-2021. [cit. 2022-10-12]. Dostupné na internete:
+https://who.int.
+
+YIN, Q. et al. 2020. Posttraumatic stress symptoms of health care workers during the corona
+virus disease 2019. In Clinical psychology & psychotherapy, 2020, vol. 27, no. 3, 384-395
+p. ISSN 1099-0879.
+
+64
+
+ZEZULKOVÁ, E. 2014. Speciální pedagogika v sociální sfére. Ostrava : Ostravská
+univerzita v Ostravě, 2014. ISBN 978-80-7464-638-6.
+ZRUBÁKOVÁ, K. a kol. 2017. Krehký senior v domácej a ústavnej ošetrovateľskej
+starostlivosti [online]. 2017. [cit. 2022-05-30]. Ružomberok : Fakulta zdravotníctva KU. In
+Prohuman, 2017. ISSN 1338-1415.
+
+65
+
+PRÍLOHY
+
+66
+
+PRÍLOHY
+PRÍLOHA A: Dotazník
+PRÍLOHA B: Súhlas s vykonaním prieskumnej štúdie č. 1.
+PRÍLOHA C: Súhlas s vykonaním prieskumnej štúdie č. 2.
+PRÍLOHA D: Súhlas s vykonaním prieskumnej štúdie č. 3.
+PRÍLOHA E: Súhlas s vykonaním prieskumnej štúdie č. 4.
+PRÍLOHA F: Súhlas s vykonaním prieskumnej štúdie č. 5.
+
+67
+
+PRÍLOHA A: Dotazník
+DOTAZNÍK
+Vážená respondentka, vážený respondent,
+rada by som Vás požiadala o vyplnenie dotazníka, ktorý je zameraný na otázky
+týkajúce sa posttraumatického stresového syndrómu u zdravotníckych pracovníkov v
+zariadeniach pre seniorov v pandémii COVID-19. Výsledky dotazníka budú slúžiť ako
+podklad pre moju diplomovú prácu. Dotazník je anonymný a dobrovoľný. Pokiaľ
+neuvádzam inak, označte prosím iba jednu odpoveď. Ďakujem za spoluprácu.
+Bc. Dominika Chladná, študentka VŠZaSP v Rožňave.
+1. Koľko máte rokov?
+a) 18 - 30 rokov
+b) 31 - 50 rokov
+c) 51 a viac rokov
+2. Aký je Váš rod ?
+a) žena
+b) muž
+3. Aké je Vaše pracovné zaradenie?
+a) lekár
+b) sestra
+c) praktická sestra
+d) sanitár
+e) fyzioterapeut
+f) masér
+g) iné, napíšte …………………………..
+4. Prekonali ste počas pandémie ochorenie COVID-19?
+a) áno
+b) nie
+c) neviem
+5. Stretli ste sa už s pojmom posttraumatická stresová porucha ?
+a) áno
+b) nie
+c) neviem
+
+68
+
+Tieto príznaky ľudia často zažívajú po bolestivých či desivých
+zážitkoch.
+Prečítajte si každý z uvedených výrokov a rozhodnite krížikom,
+nakoľko vás tento príznak obťažoval
+v období pandémie COVID-19.
+(1)
+Vôbec
+1
+
+2
+3
+4
+
+Vracajúce sa myšlienky a
+spomienky na tie
+najbolestivejšie či
+najdesivejšie zážitky
+Pocity, akoby sa daná udalosť
+znovu odohrávala
+Opakujúce sa nočné mory
+
+7
+
+Pocit odpojenosti a oddelenia
+od druhých ľudí
+Neschopnosť prežívať
+akékoľvek pocity
+Pocit nervozity, rýchle
+nástupy emócií
+Problémy so sústredením
+
+8
+
+Problémy so spánkom
+
+9
+
+Pocit nastraženosti, neustálej
+pohotovosti
+Pocit podráždenosti či
+výbuchy hnevu
+Vyhýbanie sa aktivitám, ktoré
+traumatizujúcu skúsenosť
+pripomínajú
+
+5
+6
+
+10
+11
+
+69
+
+(2)
+Mierne
+
+(3)
+Výrazne
+
+(4)
+Extrémne
+
+(1)
+Vôbec
+
+19
+
+Neschopnosť rozpomenúť sa
+na niektoré časti
+traumatizujúcich udalostí
+Znížený záujem o
+každodenné aktivity
+Pocit, že nemáte žiadnu
+budúcnosť
+Vyhýbanie sa myšlienkam
+alebo pocitom spojeným s
+traumatizujúcimi udalosťami
+Prudká a neč akaná emoč n á
+alebo fyzická reakcia na
+pripomenutie traumatizujúcej
+udalosti
+Pocit, že ste menej schopný,
+než pred udalosťou
+Náročnejšie vyrovnávanie sa
+s novými situáciami
+Pocit vyčerpania
+
+20
+
+Telesná bolesť
+
+21
+
+Problémy telesného
+(zdravotného) rázu
+Zhoršená pamäť
+
+12
+
+13
+14
+15
+
+16
+
+17
+18
+
+22
+23
+
+24
+25
+
+26
+27
+28
+
+Zistenie, či upozornenie od
+iných, že ste vykonávali
+niečo, na čo si nespomínate
+Problém sústrediť sa, „dávať
+pozor“
+Pocit rozdelenia na dve
+osoby, pričom jedna z nich
+len pozoruje to, čo robí tá
+druhá
+Pocit neschopnosti plánovať
+deň
+Obviňovanie samého seba za
+to, čo sa stalo
+Pocit viny, že ste prežili
+
+70
+
+(2)
+Mierne
+
+(3)
+(4)
+Výrazne Extrémne
+
+(1)
+Vôbec
+29
+
+Strata nádeje
+
+30
+
+Pocit hanby nad bolestivým či
+traumatizujúcim zážitkom,
+ktorý sa vám stal
+Pocit, že ľudia nechápu, čo sa
+vám stalo
+Pocit, ž e ostatní s ú voč i vá m
+nepriateľský
+Pocit, že sa nemáte na koho
+spoľahnúť
+Pocit, že vás zradil niekto,
+komu ste dôverovali
+Pocit poníženia z vlastných
+z á ž itkov
+Absencia dôvery voči
+os tat ný m
+Pocit bezmocnosti pomôcť
+iný m
+Č as strá vený premý š ľ aní m
+prečo sa tieto udalosti stali
+mne
+Pocit, že ste jediný človek,
+ktorý zažil niečo takéto
+Pociťovaná potreba pomsty
+
+31
+32
+33
+34
+35
+36
+37
+38
+
+39
+40
+
+71
+
+(2)
+Mierne
+
+(3)
+(4)
+Výrazne Extrémne
+
+PRÍLOHA B: Súhlas s vykonaním prieskumnej štúdie č. 1.
+
+72
+
+PRÍLOHA C: Súhlas s vykonaním prieskumnej štúdie č. 2.
+
+73
+
+PRÍLOHA D: Súhlas s vykonaním prieskumnej štúdie č. 3.
+
+74
+
+PRÍLOHA E: Súhlas s vykonaním prieskumnej štúdie č. 4.
+
+75
+
+PRÍLOHA F: Súhlas s vykonaním prieskumnej štúdie č. 5.
+
+76
+
+

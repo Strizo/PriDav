@@ -1,0 +1,3133 @@
+EKONOMICKÁ UNIVERZITA V BRATISLAVE
+NÁRODOHOSPODÁRSKA FAKULTA
+Evidenčné č: 101004/I/2024/36124048426273028
+
+Podpora univerzít zo zdrojov Politiky súdržnosti
+Diplomová práca
+
+2024
+
+Bc. Patrik Tomáš Galanda
+
+EKONOMICKÁ UNIVERZITA V BRATISLAVE
+NÁRODOHOSPODÁRSKA FAKULTA
+
+Podpora univerzít zo zdrojov Politiky súdržnosti
+Diplomová práca
+
+Študijný odbor: Ekonómia a manažment
+Študijný program: Manažment verejných politík
+Školiace pracovisko: Katedra verejnej správy a regionálneho rozvoja
+Vedúci záverečnej práce: doc. Mgr. Miroslav Šipikal, PhD.
+
+Bratislava 2024
+
+Bc. Patrik Tomáš Galanda
+
+Obsah
+Úvod ........................................................................................................................... 7
+1.
+
+Súčasný stav riešenej problematiky doma a v zahraničí.................................... 9
+1.1
+1.1.1
+
+Úloha univerzít v regionálnom rozvoji ...................................................... 9
+Triple helix model ................................................................................ 13
+
+1.2
+
+Podpora univerzít zo strany štátu ............................................................. 14
+
+1.3
+
+Financovanie vysokých škôl z pohľadu platnej legislatívy ..................... 15
+
+1.4 Politika súdržnosti .......................................................................................... 17
+1.4.1 Vznik Politiky súdržnosti ........................................................................ 19
+1.4.2 Priority Slovenskej republiky pre Politiku súdržnosti na programové
+obdobie 2014-2020 súvisiace so vzdelávaním, výskumom a inováciami ................... 20
+1.4.3 Priority Českej republiky pre Politiku súdržnosti na programové obdobie
+2014-2020 súvisiace so vzdelávaním, výskumom a inováciami ................................. 23
+1.5 Oblasti, v ktorých je potrebné podporovať univerzity s ohľadom na Politiku
+súdržnosti ......................................................................................................................... 24
+1.6 Vyrovnávanie regionálnych rozdielov............................................................ 27
+2.
+
+Cieľ práce......................................................................................................... 28
+
+3.
+
+Metodika práce a metódy skúmania ................................................................ 28
+
+4.
+
+Výsledky práce ................................................................................................ 30
+4.1
+
+Komparatívna analýza – SR .................................................................... 30
+
+4.1.1
+
+Prehľad prijímateľov zo zdrojov Politiky súdržnosti........................... 30
+
+4.1.2
+
+Príspevok EÚ podľa krajov – priestorová distribúcia .......................... 30
+
+4.1.3. Príspevok EÚ na Výskum a inovácie – priestorová distribúcia ............. 32
+4.1.4. Príspevok EÚ na Vzdelávanie a odbornú prípravu – priestorová
+distribúcia..................................................................................................................... 34
+4.1.5 Korelácia medzi výškou príspevku a zmenou počtu študentov pred a po
+období .......................................................................................................................... 35
+4.2
+
+Komparatívna analýza – ČR .................................................................... 37
+
+4.2.1 Prehľad prijímateľov zo zdrojov Politiky súdržnosti .............................. 37
+4.2.2 Príspevok EÚ podľa krajov – priestorová distribúcia ............................. 37
+4.2.3 Príspevok EÚ na Výskum a inovácie – priestorová distribúcia .............. 39
+4.2.4 Príspevok EÚ na Vzdelávanie a odborná príprava – priestorová distribúcia
+...................................................................................................................................... 41
+4.2.5 Korelácia medzi výškou príspevku a zmenou počtu študentov pred a po
+období........................................................................................................................... 44
+4.3 Komparatívna analýza SR a ČR ..................................................................... 45
+5 Diskusia ................................................................................................................. 47
+Záver......................................................................................................................... 49
+Použitá literatúra ...................................................................................................... 50
+Prílohy ...................................................................................................................... 55
+Príloha č. 1: Výzvy v OP Ľudské zdroje s prijímateľom VŠ ............................... 55
+Príloha č. 2: Výzvy v OP Výskum a inovácie/OP Integrovaná infraštruktúra
+s prijímateľom VŠ ............................................................................................................ 56
+Príloha č. 3 Výzvy v OP Výzkum, vývoj, vzdělávaní s prijímateľom VŠ ........... 57
+Príloha č. 4: Prehľad prijímateľov zo zdrojov Politiky súdržnosti - SR .............. 59
+Príloha č. 5: Prehľad prijímateľov zo zdrojov Politiky súdržnosti - ČR .............. 60
+
+Poďakovanie
+
+Ďakujem môjmu vedúcemu práce doc. Mgr. Miroslavovi Šipikalovi, PhD. za cenné
+rady, poznatky a pripomienky a venovanie času, ktoré boli mimoriadne cenené
+a nápomocné.
+
+Abstrakt
+GALANDA, Patrik Tomáš: Podpora univerzít zo zdrojov Politiky súdržnosti –
+Ekonomická univerzita v Bratislave. Národohospodárska fakulta; Katedra verejnej správy
+a regionálneho rozvoja – Vedúci práce: doc. Mgr. Miroslav Šipikal, PhD. – Bratislava: NHF
+EU, 2024, 63 s. Záverečná práca je vypracovaná na tému Podpora univerzít zo zdrojov
+Politiky súdržnosti. Cieľom diplomovej práce je prostredníctvom kvantitatívnej
+a kvalitatívnej analýzy zhodnotiť priestorovú distribúciu podpory z príspevkov EÚ pre
+univerzity v Slovenskej a Českej republike zo zdrojov Politiky súdržnosti v skúmanom
+období 2014-2020 s dôrazom na počet študentov v jednotlivých krajoch SR a ČR.
+Jednotlivé časti záverečnej práce boli zamerané na: úloha univerzít v regionálnom rozvoji,
+podpora univerzít zo strany štátu, financovanie vysokých škôl z pohľadu platnej legislatívy,
+Politika súdržnosti, oblasti v ktorých je potrebné podporovať univerzity s ohľadom na
+Politiku súdržnosti a vyrovnávanie regionálnych rozdielov. Na záver je zhodnotenie čerpania
+univerzít v SR a ČR, resp. porovnanie celkového čerpania príspevkov zo zdrojov Politiky
+súdržnosti a čerpania na jedného študenta za skúmané obdobie a ich priestorová distribúcia.
+Kľúčové slová: regionálny rozvoj, univerzity, politika súdržnosti, operačný program,
+projekty, výskum, inovácie, vývoj, vzdelanie
+
+Abstract
+GALANDA, Patrik Tomáš: Support of universities from Cohesion policy –
+University of Economics Bratislava. Faculty of National economy; Department of Public
+Administration and Regional development – Thesis supervisor: doc. Mgr. Miroslav Šipikal,
+PhD. – Bratislava: NHF EU, 2024, 63 pages. The thesis is elaborated on Support of
+universities from Cohesion Policy. The aim of the thesis is to evaluate the spatial distribution
+of support from EU subsidies to universities in the Slovak Republic and the Czech Republic
+from the Cohesion Policy resources in the period 2014-2020 with the emphasis on the
+number of students in individual regions of the Slovak and the Czech republic, via qualitative
+and quantitative analysis. The individual parts of the final thesis are focused on: the role of
+universities in regional development, support of universities by the state, funding of
+universities in terms of the current legislation, cohesion policy, areas in which universities
+need to be supported with regard to cohesion policy and balancing regional disparities.
+Finally, there is an evaluation of the absorption of universities in the Slovak Republic and
+the Czech Republic with comparison of the total absorption of Cohesion policy contributions
+and absorption per student for the period and their spatial distribution.
+Key words: regional development, universities, cohesion policy, operational
+programme, projects, research, innovations, development, education
+
+Úvod
+Podpora vysokých škôl zo zdrojov Politiky súdržnosti 2014-2020 je vnímaná ako
+komplexný systém. Cieľom Politiky súdržnosti je znižovať rozdiely medzi bohatými
+a chudobnými regiónmi EÚ, preto finančné prostriedky sú poskytované predovšetkým do
+tých oblastí, ktoré zaostávajú najviac v rámci EÚ.
+Hlavným cieľom EÚ je vytvoriť spoločenstvo s výrazným hospodárskym rastom,
+konkurencieschopnou ekonomikou a zlepšujúcou sa kvalitou životného prostredia. Jedným
+z kľúčových cieľov je ďalšie využívanie potenciálu integrácie, ktorá prinesie výhody
+všetkým obyvateľom Európy. Medzi viac ako 250 regiónmi EÚ existujú výrazné rozdiely v
+životnej úrovni obyvateľov i napriek tomu, že je EÚ jednou z najlepšie prosperujúcich
+svetových oblastí a ekonomík. Jedným zo základných pilierov EÚ je princíp konvergencie,
+ktorý má za cieľ postupné vyrovnanie úrovne jednotlivých regiónov v rámci EÚ.
+Európska regionálna politika je založená na solidarite a súdržnosti regiónov aj oblasti
+rozvoja výskumu a vedy, z európskych fondov sú financované projekty vysokých škôl
+s akcentom na zvýšenie konkurencieschopnosti jednotlivých univerzít v rámci EÚ.
+Politika súdržnosti je stratégia EÚ na pomoc a podporu celkového harmonického
+rozvoja členských štátov a regiónov. Politika súdržnosti je zároveň hlavným zdrojom
+investícií v Európe.
+V tejto diplomovej práci s názvom Podpora vysokých škôl zo zdrojov Politiky
+súdržnosti sa zameriame na zhodnotenie stavu riešenej problematiky na Slovensku
+a v Českej republike Hlavným cieľom diplomovej práce je zhodnotiť priestorovú distribúciu
+príspevkov zo zdrojov Politiky súdržnosti s akcentom na príspevok na jedného študenta za
+programové obdobie 2014-2020. V diplomovej práci sa zameriame sa na hlavné argumenty,
+ktoré sú v prospech financovania vysokých škôl zo strany štátu a z hľadiska princípu
+vyrovnávania regionálnych rozdielov v SR a v ČR.
+V teoretickej časti diplomovej práci vysvetľujeme stručnú históriu, hlavné aspekty
+Politiky súdržnosti 2014 -2020, jej ciele, prioritné oblasti programového obdobia 2014-2020
+pre podmienky SR a ČR, zdroje financovania a fondy, o ktoré sa táto diplomová práca opiera.
+Ide o Európsky fond pre regionálny rozvoj a Európsky sociálny fond. Zatiaľ čo Európsky
+fond pre regionálny rozvoj sa zameriava na modernizáciu a posilňovanie hospodárstva
+a podporuje infraštruktúrne projekty, ako napr. výstavbu, Európsky sociálny fond podporuje
+7
+
+aktivity v oblasti zamestnanosti a rozvoja ľudských zdrojov, teda neinfraštruktúrne projekty,
+napr. rekvalifikácia nezamestnaných, programy pre osoby so zdravotným znevýhodnením,
+či tvorba inovatívnych vzdelávacích programov. V podmienkach SR v programovom období
+2014 – 2020 boli vypracované 2 operačné programy, v rámci ktorých boli oprávnenými
+žiadateľmi vysoké školy, a to Operačný program Výskum a inovácie (od roku 2019
+zlúčený s OP Integrovaná infraštruktúra) a Operačný program Ľudské zdroje, v Českej
+republike sú to aktivity súvisiace so vzdelávaním výskumom a inováciami prostredníctvom
+Operačního programu Výzkum, vývoj a vzdelávaní.
+V praktickej časti diplomovej práce je práca zameraná na zhodnotenie priestorovej
+distribúcie podpory z príspevkov EÚ univerzitám v Slovenskej a Českej republike zo
+zdrojov Politiky súdržnosti v skúmanom období 2014-2020 s dôrazom na príspevok na
+študenta za skúmané obdobie a poukázaním na vyrovnávanie regionálnych rozdielov
+a koreláciou medzi výškou príspevku a zmenou počtu študentov pred a po skúmanom
+období.
+V diskusii sme sa zamerali na záverečné zhodnotenie prínosu čerpania príspevkov zo
+zdrojov Politiky súdržnosti pre skúmané obdobie 2014-2020 a konfrontujeme ich s názormi
+iných autorov v rámci tejto problematiky a limitáciám diplomovej práce.
+V závere zosumarizujeme praktickú časť diplomovej práce s odporúčaniami do
+praxe.
+Tému Podpora univerzít zo zdrojov Politiky súdržnosti som si vybral, nakoľko je
+veľmi aktuálna a súvisí s problematikou Európskej únie, je súčasťou regionálnej politiky,
+ktorá je založená na solidarite a súdržnosti regiónov aj oblasti rozvoja výskumu a vedy, má
+široký potenciál a možnosti ďalšieho pokračovania.
+
+8
+
+1. Súčasný stav riešenej problematiky doma a v zahraničí
+V prvej kapitole tejto diplomovej práce „Podpora univerzít zo zdrojov Politiky
+súdržnosti“ si rozoberieme súčasný stav riešenej problematiky doma a v zahraničí.
+Uvedieme si princíp Politiky súdržnosti, ako funguje financovanie vysokých škôl na území
+Slovenskej republiky z pohľadu platnej legislatívy, úlohu univerzít v regionálnom rozvoji
+a zameriame sa na niektoré argumenty, ktoré sú v prospech financovania vysokých škôl zo
+strany štátu v Slovenskej a v Českej republike a princíp vyrovnávania regionálnych
+rozdielov. Tieto skutočnosti nám pomôžu pochopiť problematiku podpory univerzít zo
+zdrojov politiky súdržnosti.
+
+1.1 Úloha univerzít v regionálnom rozvoji
+Univerzity majú významné postavenie v rozvoji akejkoľvek súčasti spoločnosti. Či
+už má vplyv na jednotlivca, pracovnú skupinu, kraje, či dokonca samotný štát. Táto inštitúcia
+poskytuje terciárne vzdelanie skrz prednášanie poznatkov a rozširovanie obzorov v danej
+problematike. Podnecuje u ľudí, teda žiakov, dnes mimoriadne cenené kritické myslenie
+vďaka či už samostatnej práci jednotlivca, alebo aj práci v skupinách. Pripravuje žiakov na
+následnú prax, ktorá ich čaká, kde sa môžu stretnúť s podobnými situáciami, avšak vďaka
+prostrediu, v ktorom sa na univerzite nachádzali, na ne budú pripravení.
+Keď sa na úlohu univerzít pozrieme zo strany výskumných pracovníkov, tak prídeme
+k zisteniu, že okrem prenášania znalostí tu funguje aj výskumná činnosť, ktorá prináša
+verejnosti ďalšie nové poznatky, ktoré sú využiteľné v bežnej praxi napríklad aj pre firmy
+na pracovnom trhu.
+V ideálnom scenári, tým, že na vysokých školách sa pripravuje množstvo žiakov na
+následný vstup na trh práce, obohatených o mnohé znalosti, ktoré neskôr môžu využiť či už
+v existujúcich firmách, no dokonca ich môžu aj pretaviť do nejakej svojej činnosti
+a podnikať, plní univerzita dôležitú úlohu v rozvoji či už regiónu, no študenti môžu aj
+vykročiť do sveta a predať tieto nápady do zahraničia.1
+Hlavné úlohy univerzít v regionálnom rozvoji teda môžeme chápať ako:2
+-
+
+produkujú vzdelaný ľudský kapitál a intelektuálne bohatstvo,
+
+MIŠÚNOVÁ,E. KOREC,P., 2019. Univerzity ako aktér regionálneho rozvoja: Teoretické poznámky.
+In
+actageographica.sk
+[online].
+[Cit.
+2024-01-10].
+Dostupné
+online:
+http://www.actageographica.sk/stiahnutie/63_2_04_Misunova_Korec.pdf
+2
+Tamtiež
+1
+
+9
+
+-
+
+zdroj inovácií a vedecko-výskumných aktivít,
+
+-
+
+garant transferu poznatkov do regiónu v súkromnej aj verejnej sfére.
+
+V zahraničných krajinách ako sú Dánsko, Portugalsko, Holandsko a Španielsko sa
+univerzity v regionálnom rozvoji podieľajú na implementácii znalostí do fungujúcich firiem,
+a tie môžu práve investovať do výskumnej činnosti vysokých škôl. Vďaka tejto aktivite
+môžu vznikať napríklad výskumné centrá, alebo aj spolupráca rektorov s top manažérmi
+v daných podnikateľských oblastiach, či dokonca aj s tvorcami politík, ktorá môže posunúť
+región dopredu.3
+Univerzity sú teda základným zdrojom vzdelávania a odbornej prípravy, ktorá je
+kľúčovým faktorom pre ekonomický rozvoj regiónov. Absolventi univerzít tvoria
+kvalifikovanú pracovnú silu, ktorá je schopná reagovať na meniace sa potreby trhu práce.
+Univerzity môžu spolupracovať s miestnymi podnikmi a priemyselnými odvetviami, aby
+zaistili, že vzdelanie, ktoré poskytujú, zodpovedá aktuálnym potrebám regionálnej
+ekonomiky.
+Vedecký výskum vykonávaný univerzitami má potenciál vytvárať nové technológie,
+metódy a znalosti, ktoré môžu podporovať inovácie a konkurencieschopnosť regiónu.
+Vysoké školy môžu byť kľúčovými hráčmi v transfere technológii a znalostí do praxe
+a podporovať rozvoj startupových projektov a malých a stredných podnikov v regióne.
+Týmto spôsobom prispievajú k tvorbe nových pracovných miest a posilňujú ekonomický
+potenciál regiónu.
+Taktiež by univerzity mali aktívne spolupracovať s miestnymi priemyselnými
+a obchodným subjektami, aby identifikovali spoločné záujmy a potreby. Táto spolupráca
+môže zahrňovať zdieľanie zdrojov, spoločné projekty výskumu a vývoja, a tiež zapojenie
+študentov do reálneho pracovného prostredia. Tieto iniciatívy môžu prispieť k rozvoju
+inovačného ekosystému a zlepšenie konkurencieschopnosti regiónu.
+Málo spomínaný fakt je, že univerzity nie sú len centrom vzdelania a výskumu, ale
+aj kultúrnym a sociálnym motorom, kde sa stretávajú študenti a zamestnanci z rôzneho
+sociálneho pozadia. Vysoké školy majú vo svojom repertoári kultúrne akcie, umelecké
+
+FONSECA,L. NIETH,L., 2021. The role of universities in regional development strategies: A
+comparison across actors and policy stages. In journals.sagepub.com [online]. [Cit. 2024-01-10]. Dostupné
+online: https://journals.sagepub.com/doi/full/10.1177/0969776421999743
+3
+
+10
+
+projekty, komunitné aktivity, ktoré obohacujú život v regióne. Tieto kultúrne aspekty môžu
+prilákať talenty, podporovať turizmus a posilniť obraz o regióne.4
+Keď teda zúžime ponímanie úlohy vysokých škôl v regionálnom rozvoji, vyjdú nám
+tri hlavné činnosti:5
+-
+
+vzdelanie,
+
+-
+
+výskum,
+
+-
+
+angažovanie sa v regionálnom rozvoji.
+
+Zatiaľ čo vzdelávanie a výskum sa orientujú prevažne na zvýšenie ekonomického
+rozvoja, angažovanie sa v regionálnom rozvoji zahŕňa aj ďalšie pôsobenie univerzity v
+regióne, ktoré môže mať za následok rozvoj kvality života obyvateľov regiónu alebo
+zvýšenie efektivity verejných služieb.
+Dôležitým prvkom v prípade úlohy univerzít v regionálnom rozvoji je priestor, v
+ktorom pôsobia a dopad univerzity naň a zároveň či aktivity, ktoré prevádzkuje, sú v súlade
+s jeho potrebami. V prípade nesúladu môže nastať situácia, kedy sa na univerzite vzdelávajú
+študenti, ktorí nemajú v pláne ďalej rozvíjať región alebo vykonávaný výskum nereflektuje
+potreby regionálnych firiem čo má za následok, že ekonomický efekt z investícií do
+výskumu a vývoja sa realizuje mimo regiónu alebo sa neuskutoční vôbec.
+
+MARGINSON, S., 2014. Higher education and public good. In springer.com [online]. [Cit. 202401-10]. Dostupné online: https://link.springer.com/chapter/10.1007/978-94-6209-746-9_5
+5
+HANOVÁ, M, a kol., 2016. Posilnenie úlohy vysokých škôl v regiónoch. In minedu.sk [online]. [Cit.
+2024-04-20]. Dostupné online: https://www.minedu.sk/data/att/dc8/10143.b07fec.pdf
+4
+
+11
+
+Kľúčový prvok
+Úloha tvorby
+regionálneho rozvoja
+Regionálna aglomerácia,
+Kapitalizácia znalostí
+alebo zoskupenie priemyslu a projekty tvoriace kapitál
+zamerané na zakladanie
+firiem a umiestňovanie
+nových a existujúcich
+firiem v blízkosti univerzity
+
+Úloha v rozvoji
+
+Tvorba ľudského kapitálu
+
+Silnejšie regionálne
+zameranie na nábor
+študentov a udržanie
+absolventov
+
+Integrácia vzdelávania
+a aktivít na kapitalizáciu
+vedomostí, konkrétne
+zakladanie firiem
+prostredníctvom
+výučbových inkubátorov
+Rozvoj bežných, či
+pokročilých tréningových
+programov pre podporu
+zakladania firiem a medziinštitucionálnu mobilitu
+organizácii a ľudí
+
+Podnikateľské aktivity, ako
+aj regionálne zameraná
+výučba a výskum, ktoré
+nemusia byť nevyhnutne
+spojené s projektmi
+tvoriacimi kapitál
+
+Vzdelávacie programy
+prispôsobené potrebám
+zručností v regióne
+Učebné procesy
+s regionálnymi
+informáciami
+
+Pridružené riadenie
+
+Hnacia sila regionálnej
+inovačnej stratégie,
+zameraná na projekty
+kapitalizácie znalostí
+a tvorby kapitálu analýzou
+silných a slabých stránok
+a spoluprácou priemyslu
+a vlády vytvoriť inovačnú
+stratégiu
+
+Vytváranie regionálnych
+sietí a inštitucionálnych
+kapacít prostredníctvom
+účasti zamestnancov
+v externých orgánoch, ktoré
+poskytujú informácie
+a analýzy na podporu
+rozhodovania
+a sprostredkovanie
+vytvárania sietí medzi
+národnými
+a medzinárodnými
+kontaktmi a kľúčovými
+regionálnymi aktérmi
+
+Angažovanie sa
+v regionálnom rozvoji
+
+Tradícia prepojení medzi
+univerzitami a priemyslom,
+zahŕňajúca kapitalizáciu
+znalostí
+
+Tradícia prepojení medzi
+univerzitami a priemyslom,
+vrátane kapitalizácie
+znalostí a inej spolupráce
+v oblasti výskumu
+
+Tabuľka 1 Analýza úlohy univerzít vo vzťahu k inováciam Zdroj: Preložené GUNASEKARA, C. 2006. Reframing
+the role of Universities in the Development of Regional Innovation Systems. In The Journal of Technology Transfer 31,
+101-113 [Cit. 2024-04-20]. Dostupné online: https://www.proquest.com/scholarly-journals/reframing-role-universitiesdevelopment-regional/docview/203627750/se-2?accountid=59680
+
+12
+
+1.1.1 Triple helix model
+V prípade vzťahu medzi vládou, firmami a univerzitami nemožno opomenúť Triple
+helix model. Tento model popisuje organizačné a inštitucionálne usporiadanie kľúčových
+aktérov, ktorí majú na starosti konkurencieschopnosť regiónov. Univerzity ako tvorcovia
+nových poznatkov a inovácii by mali úzko spolupracovať s firmami, ktoré fungujú na trhu
+za podpory od vlády. Slúži na analytické zhodnotenie vnútornej ekológie a vývoja troch
+aktérov a ich vzájomných vzťahov.
+Na fungovanie takéhoto modelu je dôležité, aby jednotliví aktéri naň boli pripravení,
+to znamená, že zo strany vlády by mala byť pripravená legislatíva tak, aby k tejto spolupráci
+mohlo dôjsť. V prípade firiem, tie musia byť ochotné prijať poznatky z výskumu a inovácií
+a implementovať ich do svojho výrobného procesu. Univerzity by sa taktiež nemali
+orientovať len na svoju vedecko-výskumnú činnosť ale aj na fungovanie podnikateľských
+činností.
+Jedným z veľmi dôležitých aspektov, ktoré treba brať do úvahy v prípade triple helix
+modelu je vzájomný rešpekt medzi aktérmi v ňom. Nie je možné maximalizovať jeho
+účinnosť v prípade, že by jedna zo zúčastnených strán neprispela adekvátnou mierou.
+Tu sa dostávame k problémom s triple helix modelom. Jedným z problémov býva
+nesúlad medzi sférami univerzít a firiem. Príčinou môžu byť odlišné systémy hodnôt,
+kritéria pre výber pracovníkov, hodnotenie úspechu, či časové ohraničenie získania
+výsledkov. Tieto dôvody môžu viesť k vzájomnej nedôvere a majú za následok neochotu
+spolupracovať.
+Cieľom triple helix modelu je najmä podpora vzniku znalostnej ekonomiky
+a inovácií. Na to však treba investovať finančné prostriedky do univerzitného vzdelávania,
+vedy a výskumu.6
+Vo vzťahu s vyrovnávaním regionálnych rozdielov prispieva Triple helix model
+vďaka mechanizmom ako lokalizované inovačné systémy, ktoré vznikajú vďaka vzájomným
+vzťahom v rámci neho. V rámci regiónov môžu vznikať takéto systémy, ktoré sa orientujú
+na silné stránky, či potreby daného regiónu a vďaka nemu môžu vyrovnávať regionálne
+rozdiely využívaním lokálnych zdrojov. Ďalším dôležitým mechanizmom je rozvoj
+MIŠÚNOVÁ,E. KOREC,P., 2019. Univerzity ako aktér regionálneho rozvoja: Teoretické poznámky.
+In
+actageographica.sk
+[online].
+[Cit.
+2024-01-10].
+Dostupné
+online:
+http://www.actageographica.sk/stiahnutie/63_2_04_Misunova_Korec.pdf
+6
+
+13
+
+infraštruktúry, prevažne univerzitnej ako sú napríklad vedecké parky, výskumné inkubátory,
+ktoré môžu fungovať ako podporné útočisko pre startupy, či už existujúce firmy, a tým
+podporovať vyrovnávanie regionálnych rozdielov. Vyrovnaný regionálny rast je jedným zo
+zásadných prínosov v rámci vyrovnávania regionálnych rozdielov, ak hovoríme o prínosoch
+fungovania triple helix modelu. Benefitujú z toho všetci aktéri v rámci neho a to najmä
+v krajinách, ktoré majú vysoké regionálne rozdiely a pomáha im získavať rovnaké
+príležitosti pre inovácie a rozvoj.7
+
+Obrázok 1 Zobrazenie fungovania Triple helix modelu Zdroj: vlastné spracovanie autora
+
+1.2 Podpora univerzít zo strany štátu
+Financovanie univerzít môže fungovať aj na inom princípe ako na financovaní zo
+strany štátu, a tak fungujú napríklad súkromné univerzity, ktoré sú financované práve zo
+školného, ktoré platia študenti, alebo iných aktivít, ktoré univerzita prevádzkuje. My sa však
+v tejto časti kapitoly pozrieme na argumenty, ktoré sú v prospech financovania univerzity
+štátom.
+Prístup k vzdelaniu je jednoduchší v prípade financovania univerzity štátom, keďže
+je pre žiakov terciárne vzdelanie finančne prístupnejšie ako v prípade, kedy by si štúdium
+
+LEYDERSDORF, L., 2021. The Evolutionary Dynamics of Discursive Knowledge:
+Communication-Theoretical Perspectives on an Empirical Philosophy of Science. In springer.com [online].
+[Cit.
+2024-06-27].
+Dostupné
+online:
+http://ersearch.cvtisr.sk/permalink/f/15b0jje/TN_cdi_askewsholts_vlebooks_9783030599515
+7
+
+14
+
+museli hradiť sami, resp. školné hradí za študenta štát, ak študent spĺňa podmienku
+štandardnej dĺžky štúdia.8
+Ako sme si v predošlej časti kapitoly rozobrali, univerzity veľkou mierou prispievajú
+v oblasti ekonomického rozvoja. V rôznych oblastiach ako napríklad produkcia ľudského
+kapitálu pre trh práce, rozvoj znalostí, prínos inovácií, či vykonávaním výskumu. Kvalitné
+vzdelanie pre študentov pomáha pri rozvoji kvalifikovanej pracovnej sily, ktorá je
+nevyhnutná pre konkurencieschopnosť krajiny v globálnom hospodárstve. 9
+Štát by nemal opomenúť fakt, že sa na univerzitách vykonáva výskum a tvoria
+inovácie, z ktorých plynú výhody pre celú spoločnosť. Štátna podpora, ktorá ide univerzitám
+pomáha vykonávať výskum na globálnej úrovni, čo prispieva k technologickým inováciam
+a vývoju nových riešení v dôležitých priemyselných odvetviach.10
+Jedným z najdôležitejších aspektov, ktorý môžeme vnímať vo vzdelaní, že pôsobí
+pre verejný prospech, teda výhody zo vzdelaného obyvateľstva poskytuje blahobyt pre celý
+štát.11
+
+1.3 Financovanie vysokých škôl z pohľadu platnej legislatívy
+Financovanie vysokých škôl na území Slovenskej republiky upravuje Zákon
+o vysokých školách číslo 131/2002 Z.z.. Taktiež bližšie určuje druhy vysokých škôl, ktoré sa
+môžu v Slovenskej republike prevádzkovať. Sú to:12
+-
+
+verejné vysoké školy,
+
+-
+
+štátne vysoké školy,
+
+-
+
+súkromné vysoké školy.
+
+Súkromné vysoké školy si podľa zákona finančné prostriedky na svoju vzdelávaciu,
+výskumnú, vývojovú alebo umeleckú a ďalšiu tvorivú činnosť zabezpečujú vlastným
+
+MARSHALL, S. J., 2018. Shaping the university of the future. In thuvienso.hoasen.edu.vn [online].
+[Cit.
+2024-01-10].
+Dostupné
+online:
+https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/8308/Contents.pdf?sequence=4
+9
+VALERO, A. VAN REENEN, J., 2018. The economic impact of universities: Evidence from across
+the
+globe.
+In
+sciencedirect.com
+[online].
+[Cit.
+2024-01-10].
+Dostupné
+online:
+https://www.sciencedirect.com/science/article/pii/S0272775718300414
+10
+CHIRIKOV, I., 2013. Research universities as knowledge networks: the role of institutional
+reasearch.
+In
+tandfonline.com
+[online].
+[Cit.
+2024-01-10].
+Dostupné
+online:
+https://www.tandfonline.com/doi/abs/10.1080/03075079.2013.773778
+11
+MARGINSON, S., 2014. Higher education and public good. In springer.com [online]. [Cit. 202401-10]. Dostupné online: https://link.springer.com/chapter/10.1007/978-94-6209-746-9_5
+12
+Zákon 131/2002 Z.z. o vysokých školách a o zmene doplnení niektorých zákonov
+8
+
+15
+
+spôsobom. Financovanie verejných a štátnych vysokých škôl je v spomínanom zákone
+určené nasledovne:13
+-
+
+verejným vysokým školám prostredníctvom kapitoly ministerstva školstva,
+výskumu, vývoja a mládeže alebo iných ministerstiev,
+
+-
+
+vojenským vysokým školám prostredníctvom kapitoly ministerstva obrany,
+
+-
+
+policajným vysokým školám prostredníctvom kapitoly ministerstva vnútra,
+
+-
+
+zdravotníckym vysokým školám prostredníctvom kapitoly ministerstva
+zdravotníctva.
+
+Okrem toho je v uvedenom zákone taktiež vysvetlené, že verejné vysoké školy môžu
+ako zdroj financovania využiť aj úvery od bánk na výskumnú a vývojovú činnosť, a taktiež
+na financovanie výdavkov, avšak na splátku úverov nie je možné použiť finančné
+prostriedky z dotácií zo štátneho rozpočtu. Financovanie vedy a techniky sa realizuje
+prostredníctvom Agentúry na podporu výskumu a vývoja, čo je organizácia Ministerstva
+školstva, vedy, výskumu a športu Slovenskej republiky určená práve na podporu výskumu
+a vývoja.14
+Agentúra na podporu výskumu a vývoja (APVV) je jedinou národnou grantovou
+agentúrou na území Slovenskej republiky, ktorá poskytuje finančné prostriedky zo štátneho
+rozpočtu. Jej poslaním je podporovať prvotriedny základný výskum, aplikovaný výskum
+a vývoj v jednotlivých oboroch vedy a techniky, uskutočňovaných na vysokých školách,
+napĺňať ciele v súlade s dlhodobým zámerom štátnej vednej a technickej politiky
+a stimulovať účasť subjektov výskumu a vývoja v Slovenskej republike v európskych
+programoch a iniciatívach a taktiež spoluprácu viacerých strán v oblasti vedy a techniky.15
+Ako ďalšiu agentúru, ktorá má vplyv na financovanie vysokých škôl môžeme uviesť
+Vedeckú grantovú agentúru Ministerstva školstva, vedy, výskumu a športu Slovenskej
+republiky a Slovenskej akadémie vied (VEGA), ktorá môže rozhodovať o rozdelení grantov,
+
+Tamtiež
+FINANCOVANIE VYSOKOŠKOLSKÉHO VZDELÁVANIA, 2023. Financovanie
+vysokoškolského vzdelávania. In eurydice.eacea.ec.europa.eu [online]. [Cit. 2024-01-10]. Dostupné online:
+https://eurydice.eacea.ec.europa.eu/sk/national-education-systems/slovakia/financovanie-vysokoskolskehovzdelavania
+15
+AGENTÚRA NA PODPORU VÝSKUMU A VÝVOJA, 2024. O nás. In apvv.sk [online]. [Cit.
+2024-01-10]. Dostupné online: https://www.apvv.sk/agentura/o-nas.html
+13
+14
+
+16
+
+respektíve o výške dotácie pre vedecké projekty na vysokých školách ale aj Slovenskej
+akadémii vied. 16
+Pre túto diplomovú prácu budú relevantné univerzity na území Slovenskej republiky
+a Českej republiky. Financovanie vysokých škôl v Českej republike sa od financovania
+vysokých škôl v Slovenskej republike v dôležitých bodoch nelíšia. Zákon, ktorý popisuje
+financovanie vysokých škôl v Českej republike je Zákon číslo 111/1998 Sb..17
+
+1.4 Politika súdržnosti
+Stratégia Európskej únie na pomoc a podporu rozvoja členských štátov a regiónov sa
+nazýva Politika súdržnosti. Politika súdržnosti má za cieľ posilňovať hospodársku, sociálnu
+a územnú súdržnosť zmenšovaním rozdielov v stupni rozvoja medzi regiónmi s osobitným
+dôrazom na regióny vidieka, regióny, ktoré vplyvom zmeny v priemysle zaostávajú
+a regióny závažne a trvalo znevýhodnené prírodnými a demografickými podmienkami.18
+Pre obdobie 2014-2020 je zadefinovaných 11 tematických cieľov Politiky
+súdržnosti:19
+-
+
+posilnenie výskumu, technologického vývoja a inovácií,
+
+-
+
+zlepšenie prístupu k informačným a komunikačným technológiám a zvýšenie ich
+používania a kvality,
+
+-
+
+zvýšenie konkurencieschopnosti malých a stredných podnikov,
+
+-
+
+podpora prechodu na nízkouhlíkové hospodárstvo,
+
+-
+
+podpora prispôsobenia sa zmene klímy, prevencie a riadenia rizík,
+
+-
+
+zachovanie a ochrana životného prostredia a podpora efektívneho využívania
+zdrojov,
+
+-
+
+podpora trvalo udržateľnej dopravy a zlepšovanie sieťových infraštruktúr,
+
+-
+
+podpora trvalo udržateľnej a kvalitnej zamestnanosti a podpora pracovnej
+mobility,
+
+MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ REPUBLIKY,
+2024. Vedecká grantová agentúra MŠVVaŠ SR a SAV (VEGA). In minedu.sk [online]. [Cit. 2024-01-10].
+Dostupné online: https://www.minedu.sk/vedecka-grantova-agentura-msvvas-sr-a-sav-vega/
+17
+Zákon č. 111/1998 Sb. o vysokých školách a o změně a doplnění dalších zákonů
+18
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY, 2024. Politika súdržnosti EÚ. In mirri.gov.sk [online]. [Cit. 2024-04-25].
+Dostupné online: https://mirri.gov.sk/sekcie/cko/politika-sudrznosti-eu/
+19
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY, 2014. Úvod do politiky súdržnosti. In mirri.gov.sk [online]. [Cit. 2024-04-25]
+Dostupné online: https://mirri.gov.sk/wp-content/uploads/2018/11/basic_2014_sk.pdf
+16
+
+17
+
+-
+
+podpora sociálneho začlenenia, boj proti chudobe a ľubovoľnej diskriminácii,
+
+-
+
+investície do vzdelávania, školení a celoživotného vzdelávania,
+
+-
+
+zlepšenie efektívnosti verejnej správy.
+
+Prioritné oblasti programového obdobia 2014-2020 pre podmienky SR sú:20
+-
+
+podnikateľské prostredie priaznivé pre inovácie,
+
+-
+
+infraštruktúra pre hospodársky rast a zamestnanosť
+
+-
+
+rozvoj ľudského kapitálu a zlepšenie účasti na trhu práce,
+
+-
+
+trvalo udržateľné a efektívne využívanie prírodných zdrojov,
+
+-
+
+moderná a profesionálna verejná správa.
+
+Vykonávanie týchto priorít je skrz operačné programy Investovanie do rastu
+a zamestnanosti a Európska územná spolupráca.
+Pod operačný program Investovanie do rastu a zamestnanosti spadajú:21
+-
+
+OP Výskum a inovácie,
+
+-
+
+OP Integrovaná infraštruktúra,
+
+-
+
+OP Ľudské zdroje,
+
+-
+
+OP Kvalita životného prostredia,
+
+-
+
+Integrovaný regionálny operačný program,
+
+-
+
+OP Efektívna verejná správa,
+
+-
+
+OP Technická pomoc.
+
+Pod operačný program Európska územná spolupráca spadajú:
+-
+
+Programy cezhraničnej spolupráce,
+
+-
+
+Programy nadnárodnej spolupráce,
+
+-
+
+Programy medziregionálnej spolupráce.
+
+Fondy, o ktoré sa táto diplomová práca opiera sú najmä Európsky fond pre
+regionálny rozvoj a Európsky sociálny fond. Zatiaľ čo Európsky fond pre regionálny
+rozvoj sa zameriava na modernizáciu a posilňovanie hospodárstva a podporuje
+infraštruktúrne projekty, ako napr. výstavbu, Európsky sociálny fond podporuje aktivity
+
+EU PROJEKTY, 2024. Programovacie obdobie 2014-2020. In euprojekty.sk[online]. [Cit. 2024-0425] Dostupné online: https://www.euprojekty.sk/operacne-programy-2014-2020/
+21
+PARTNERSKÁ DOHODA, 2015. Operačné programy. In partnerskadohoda.gov.sk [online]. [Cit.
+2024-04-25] Dostupné online: https://www.partnerskadohoda.gov.sk/operacne-programy/
+20
+
+18
+
+v oblasti zamestnanosti a rozvoja ľudských zdrojov, teda neinfraštruktúrne projekty, napr.
+rekvalifikácia nezamestnaných, programy pre osoby so zdravotným znevýhodnením, či
+tvorba inovatívnych vzdelávacích programov.22
+
+1.4.1 Vznik Politiky súdržnosti
+Počiatky Politiky súdržnosti siahajú do roku 1975, kedy vznikol Európsky fond
+regionálneho rozvoja, ktorý mal spočiatku malý rozpočet na financovanie projektov v rámci
+domácich regionálnych politík členských štátov. Od roku 1984 sa finančné prostriedky začali
+čoraz viac využívať na programy realizované buď z iniciatívy Európskeho hospodárskeho
+spoločenstva, alebo z iniciatívy členských štátov. V tomto období sa začali pilotne realizovať
+aj integrované rozvojové operácie, ktoré predznamenali model štrukturálnych fondov
+zavedený v roku 1988. Reforma z roku 1988 značila príchod Politiky súdržnosti ako
+samostatnej hlavnej politiky Európskej únie, ktorá sa opierala o záväzok Zmluvy o
+súdržnosti, značný rozpočet a začlenenie všetkých štrukturálnych fondov do spoločného
+rámca riadenia. Veľkým prínosom boli zásady, ktoré sa presadzujú dodnes ako zameranie na
+menej rozvinuté regióny, programovanie prostredníctvom viacročných stratégií, partnerstvo
+s nižšími územnými celkami, hospodárskymi a sociálnymi subjektmi a občianskou
+spoločnosťou a doplnkovosť, aby sa zabezpečilo, že financovanie Európskej únie nenahradí
+financovanie na vnútroštátnej úrovni.
+Realizácia
+
+financovania
+
+prebieha
+
+prostredníctvom
+
+takzvaného
+
+zdieľaného
+
+hospodárenia: viacročné programy vypracúvajú vnútroštátne a regionálne orgány, ale pod
+dohľadom Európskej komisie, a realizujú sa prostredníctvom projektov, ktoré spĺňajú
+stanovené strategické ciele a úlohy. Dosah politiky na regionálnej a miestnej úrovni je
+rozsiahly, v období 2014-2020 sa z Politiky súdržnosti financovalo viac ako 392 operačných
+programov a približne 1,5 milióna projektov, ktoré spravovalo približne 500000 príjemcov.23
+
+DOTACE EU, 2024. Informace o Fondech. In dotaceeu.com [online]. [Cit. 2024-05-01] Dostupné
+online: https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/informace-o-fondech
+23
+EUROPEAN COURT OF AUDITORS, 2022. Cohesion policy – Where has it come from? Where
+is
+it
+going?
+In
+medium.com
+[online].
+[Cit.
+2024-04-25]
+Dostupné
+online:
+https://euauditors.medium.com/cohesion-policy-where-has-it-come-from-where-is-it-going-79aa681dd583
+22
+
+19
+
+1.4.2 Priority Slovenskej republiky pre Politiku súdržnosti na
+programové obdobie 2014-2020 súvisiace so vzdelávaním, výskumom a
+inováciami
+Pre oblasť vzdelávania, sociálnej inklúzie a zamestnanosti bol v rámci OP Ľudské
+zdroje je definovaný globálny cieľ podporiť rozvoj ľudských zdrojov, celoživotného učenia
+a ich plnohodnotného začlenenia sa na trh práce na zlepšenie ich sociálnej situácie. V rámci
+neho boli zverejnené tri výzvy, v ktorom boli oprávnení žiadatelia vysoké školy, čo popisuje
+Príloha č. 1.
+Celková alokácia operačného programu Ľudské zdroje bola vo výške 2 929 999 089
+EUR, no na oblasť vzdelávania bolo vyčlenených 369 511 004 EUR. Uvedená alokácia
+finančných prostriedkov bola stanovená na zvýšenie kvality vysokoškolského vzdelávania
+a rozvoj ľudských zdrojov v oblasti výskumu a vývoja s cieľom dosiahnuť prepojenie
+vysokoškolského vzdelávania s potrebami trhu práce.24
+Prioritné osi operačného programu Ľudské zdroje 2014-2020 sú:
+-
+
+Vzdelávanie,
+
+-
+
+iniciatíva na podporu zamestnanosti mladých ľudí,
+
+-
+
+zamestnanosť,
+
+-
+
+sociálne začlenenie,
+
+-
+
+integrácia marginalizovaných rómskych komunít,
+
+-
+
+technická vybavenosť v obciach s prítomnosťou marginalizovaných
+rómskych komunít,
+
+-
+
+technická pomoc.
+
+Pre prioritnú os 1 Vzdelávanie je jedným z tematických cieľov investovanie do
+vzdelania, školení a do odbornej prípravy, ako aj do zručností a celoživotného vzdelávania
+s investičnými prioritami ako zlepšenie kvality, efektívnosti a prístupu k terciárnemu
+a ekvivalentnému vzdelávaniu s cieľom zvýšiť počet študujúcich a úroveň vzdelania najmä
+v prípade znevýhodnených skupín. Špecifický cieľ pod touto prioritou je zvýšiť kvalitu
+vysokoškolského vzdelávania a rozvoj ľudských zdrojov v oblasti výskumu a vývoja
+s cieľom dosiahnuť prepojenie vysokoškolského vzdelávania s potrebami trhu práce.
+
+MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ REPUBLIKY,
+2024. Operačný program ľudské zdroje. In minedu.sk [online]. [Cit. 2024-06-14] Dostupné online:
+https://www.minedu.sk/operacny-program-ludske-zdroje/
+24
+
+20
+
+Ukazovatele výsledku pre tento špecifický cieľ sú:25
+-
+
+počet zavedených profesijne orientovaných bakalárskych programov vo
+viac a menej rozvinutých regiónoch,
+
+-
+
+počet vytvorených partnerstiev prepájajúcich vysoké školy a podnikovú
+sféru, fungujúcich 18 mesiacov po ukončení projektu vo viac a menej
+rozvinutých regiónoch,
+
+-
+
+podiel absolventov zavedených profesijne orientovaných bakalárskych
+programov, ktorí zamestnali 6 mesiacov po absolvovaní projektu vo viac
+a menej rozvinutých regiónoch,
+
+-
+
+počet absolventov podporených profesijne orientovaných bakalárskych
+programov vo viac a menej rozvinutých regiónoch,
+
+-
+
+počet študentov vysokej školy študujúcich v pedagogických učiteľských
+študijných programoch, ktorí si prostredníctvom aktivít zvýšili
+kompetencie potrebné na výkon učiteľského povolania vo viac a menej
+rozvinutých regiónoch,
+
+-
+
+počet podporených škôl, ktoré prostredníctvom aktivít zvýšili kvalitu
+pedagogických učiteľských študijných programov vo viac a menej
+rozvinutých regiónoch.
+
+Zámerom tohto cieľa je zosúladenie vzdelávania s potrebami trhu práce.
+Pripravenosť absolventov reflektovať požiadavky trhu práce je veľmi dôležitý aspekt aj
+z pohľadu voľného pohybu osôb, ktorý je jedným z hlavných pilierov Európskej únie.
+Aktivity, ktoré môžeme zahrnúť pre tento cieľ sú:26
+-
+
+podpora manažérskych/podnikateľských, inovačných a riešiteľských
+schopností v rámci vyššieho vzdelávania,
+
+-
+
+aktivity na zmenu popisov študijných odborov podľa požiadaviek
+zamestnávateľov,
+
+-
+
+aktivity odbornej praxe resp. stáže študentov, a výskumných pracovníkov
+v zamestnávateľskom sektore,
+
+PARTNERSKÁ DOHODA, 2015. Operačný program Ľudské zdroje na programové obdobie 20142020.
+In
+partnerskadohoda.gov.sk
+[online].
+[Cit.
+2024-04-25]
+Dostupné
+online:
+https://www.partnerskadohoda.gov.sk/operacny-program-ludske-zdoje/?csrt=5912338602438703240
+26
+Tamtiež
+25
+
+21
+
+-
+
+aktivity na prípravu expertov pre vysokoškolské centrá prepájajúce
+vysoké školy a podniky v regiónoch vo forme špecializovaných
+výučbových zariadení a verejných vysokých škôl a špecializovaných
+výskumných
+
+a vývojových
+
+pracovísk,
+
+ako
+
+aj
+
+špecializovaných
+
+umeleckých pracovísk,
+-
+
+tvorba a inovácia študijných programov s dôrazom na potreby trhu práce
+vrátane prakticky zameraných bakalárskych študijných programov
+a ďalšieho
+
+vzdelávania
+
+v spolupráci
+
+so
+
+súkromným
+
+sektorom
+
+a s organizáciami zastupujúcimi podnikateľský sektor, malé a stredné
+podnikanie,
+-
+
+podpora zlepšovania vnútorných systémov zabezpečovania kvality
+vysokoškolského vzdelávania zohľadňujúcich prepájanie s praxou,
+
+-
+
+podpora projektov vysokých škôl na identifikáciu a odstraňovanie bariér
+v prístupe k štúdiu osôb so špecifickými potrebami – dostupnosť
+materiálov,
+
+-
+
+sieťovanie a vzdelávanie zamestnancov vysokých škôl pre študentov so
+špecifickými potrebami,
+
+-
+
+poradenstvo pre študentov so špecifickými potrebami vrátane študentov
+pochádzajúcich zo sociálne znevýhodneného prostredia,
+
+-
+
+monitoring, evaluácia, tvorba a zavádzanie štandardov zabezpečenia
+kvality,
+
+-
+
+podpora inovatívnych a alternatívnych foriem vzdelávania a vyučovacích
+metód.
+
+V oblasti výskumu a vývoja bol zriadený Operačný program Výskum a inovácie,
+ktorého prostriedky sú určené na technologický rozvoj a zvyšovanie konkurencieschopnosti
+malých a strených podnikov, najmä v menej rozvinutých regiónoch. Z európskych
+finančných
+
+prostriedkov
+
+sú
+
+financované
+
+aj
+
+výskumno-vzdelávacie,
+
+inovačné
+
+a podnikateľské kapacity v Bratislavskom kraji. Tento operačný program bol v gescii
+Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky. V roku 2019 prebehlo
+zlúčenie s operačným programom Integrovaná infraštruktúra.27 Výzvy, v ktorých
+figurovali vysoké školy ako oprávnení žiadatelia sú vypísaní v Prílohe č. 2. Finančné
+MINISTERSTVO DOPRAVY SLOVENSKEJ REPUBLIKY, 2019. Európska komisia schválila
+zlúčenie operačných programov. In opii.gov.sk [online]. [Cit. 2024-06-14] Dostupné online:
+https://www.opii.gov.sk/tlacove-spravy/europska-komisia-schvalila-zlucenie-operacnych-programov
+27
+
+22
+
+prostriedky alokované pre operačný program Výskum a inovácie zo zdrojov Európskej únie
+predstavovali 2 266 776 537 EUR, z čoho tri štvrtiny boli určené práve na posilnenie
+výskumu, technologického rozvoja a inovácii.28
+Operačný program Výskum a inovácie má prioritné osi:29
+-
+
+Podpora výskumu, vývoja a inovácií
+
+-
+
+Podpora výskumu, vývoja a inovácií v Bratislavskom kraji
+
+-
+
+Posilnenie konkurencieschopnosti a rastu malých a stredných podnikov
+
+-
+
+Posilnenie konkurencieschopnosti a rastu malých a stredných podnikov
+v Bratislavskom kraji
+
+1.4.3 Priority Českej republiky pre Politiku súdržnosti na programové
+obdobie 2014-2020 súvisiace so vzdelávaním, výskumom a inováciami
+V prípade aktivít súvisiacimi so vzdelávaním výskumom a inováciami Česká
+republika zriadila Operační program Výzkum, vývoj a vzdelávaní, ktorý je viacročným
+tematickým programom v gescii Ministerstva školství, mládeže a tělovýchovy, v rámci
+ktorého je možné v programovom období 2014-2020 čerpať finančné prostriedky
+z Európskych štrukturálnych a investičných fondov. Výzvy z tohto OP sú vypísané v Prílohe
+č. 3. Kľúčovým princípom je rozvoj ľudských zdrojov pre znalostnú ekonomiku v sociálne
+súdržnej spoločnosti, na ktorý nadväzujú témy podpory kvalitného výskumu, pre ktorý
+kvalifikovaná pracovná sila predstavuje kľúčový vstupný faktor. Intervencie v oblasti
+vzdelávania budú zároveň podporené systémovými zmenami, ktoré smerujú ku skvalitneniu
+vzdelávacieho systému. 30
+Oblasti, ktoré program zahrňuje sú:
+-
+
+podpora rovnosti a kvality vo vzdelávaní,
+
+VÝSKUMNÁ AGENTÚRA, 2019. Operačný program Výskum a inovácie / Operačný program
+integrovaná infraštruktúra. In vyskumnaagentura.sk [online]. [Cit. 2024-06-14] Dostupné online:
+https://www.vyskumnaagentura.sk/index.php?option=com_content&view=article&id=41&Itemid=299&lang
+=sk
+29
+MINISTERSTVO VNÚTRA SR, 2024. Operačný program výskum a inovácie 2014-2020. In
+minv.sk [online]. [Cit. 2024-05-01] Dostupné online: https://www.minv.sk/?operacny-program-vyskum-ainovacie
+30
+MATEMATICKO-FYZIKÁLNÍ FAKULTA UNIVERZITA KARLOVA, 2024. Operační program
+Výzkum, vývoj a vzdělávání. In mff.cuni.cz [online]. [Cit. 2024-05-01] Dostupné online:
+https://www.mff.cuni.cz/cs/ogap/projekty-op-vvv
+28
+
+23
+
+-
+
+rozvoj lepších kompetencií pre trh práce,
+
+-
+
+posilnenie kapacít pre kvalitný výskum a jeho prínos pre spoločnosť.
+
+Prioritné osi operačného programu sú:
+-
+
+Posilňovanie kapacít pre kvalitný výskum
+
+-
+
+Rozvoj vysokých škôl a ľudských zdrojov pre výskum a vývoj
+
+-
+
+Rovný prístup ku kvalitnému predškolskému, primárnemu a sekundárnemu
+vzdelávaniu.
+
+Prioritná os 1 je zamierená na dosiahnutie špičkovej úrovne českého výskumu
+v medzinárodnom
+
+meradle,
+
+zlepšenie
+
+spolupráce
+
+vo
+
+výskume
+
+a skvalitnenie
+
+infraštruktúrnych podmienok pre prípravu budúcich výskumných zamestnancov.
+Prioritná os 2 sa venuje skvalitneniu a inklúzii vzdelávania na vysokých školách
+spoločne so skvalitnením strategického riadenia vysokých škôl, rozvoj ľudských zdrojov pre
+výskum a vývoj, vrátane podpory vyučovania spojeného s výskumom.
+Prioritná os 3 je zamierená na vzdelávanie a sociálnu integráciu detí a žiakov so
+zdravotným, či sociálnym znevýhodnením v rôznych vekových skupinách.
+
+1.5 Oblasti, v ktorých je potrebné podporovať univerzity s ohľadom
+na Politiku súdržnosti
+V súčasnej dobe, keď sa svet neustále mení a technologický pokrok sa stáva
+pohonnou silou hospodárskeho a spoločenského vývoja, zohrávajú univerzity kľúčovú
+úlohu vo formovaní budúcnosti. Ich význam nemožno obmedziť len na vzdelávacie
+inštitúcie, no na centrá intelektuálnej tvorby, výskumu a inovácií, ktoré formujú a posilňujú
+spoločnosť.
+Podpora univerzít nie je len investíciou do vzdelanosti jednotlivcov, ale predstavuje
+strategický
+
+krok
+
+smerom
+
+k vytváraniu
+
+odolnejšieho
+
+a konkurencieschopnejšieho
+
+spoločenského a ekonomického prostredia. Táto podpora by mala byť cielená a zameraná na
+oblasti, ktoré môžu mať najväčší pozitívny dopad na rozvoj spoločnosti, inovácií
+a udržateľného rastu.
+V tejto časti diplomovej práce sa teda pozrieme na oblasti, v ktorých je potrebné
+podporovať univerzity, za účelom naplnenia týchto cieľov.
+24
+
+Finančná podpora je nevyhnutná pre poskytovanie kvalitného vzdelania
+a odbornej prípravy pre študentov. Investície do vzdelávacích programov a moderných
+foriem výučby umožňujú univerzitám udržiavať sa v súlade s najnovšími trendmi
+a potrebami trhu práce.31
+Univerzity majú byť centrom výskumu a vývoja. Poskytovanie finančnej podpory
+pre výskumné projekty a laboratória umožňuje generovať nové poznatky, inovácie a riešenia
+pre aktuálne výzvy v rôznych odvetviach.32
+Investície do technologických inkubátorov a transferu vedomostí, či technológií
+umožňujú
+
+prepojiť
+
+akademickú
+
+sféru
+
+s priemyslom
+
+a podporujú
+
+vznik
+
+nových
+
+technologických riešení a spoluprácu medzi univerzitami a podnikmi. Tieto procesy vedú
+k efektívnemu vytváraniu pracovných príležitostí a inovačným projektom.33
+Podpora pre odborný rozvoj profesorského a výskumného personálu je dôležitá
+pre udržanie kvalitnej akademickej sféry a zabezpečuje, aby univerzity boli schopné
+poskytovať relevantné a aktuálne vzdelanie, pre dnes kladené požiadavky.34
+Univerzity by mali byť podporované v oblastiach, ktoré sú kľúčové pre ekonomiku
+danej krajiny. To zahŕňa podporu odborných programov a výskumu v oblastiach ako
+informačné technológie, energetika, či pre Slovenské podmienky automobilový priemysel.35
+Vysoké školy môžu byť centrami sociálneho rozvoja, ktoré ponúkajú služby
+komunite a prispievajú k riešeniu sociálnych problémov. Finančná podpora umožňuje
+realizovať programy, ktoré zlepšujú životné podmienky v okolitých komunitách, čo
+reflektuje požiadavky na rozvoj komunity a prvky spoločenskej zodpovednosti.36
+Podpora pre medzinárodnú výmenu študentov, profesorov a výskumníkov posilňuje
+medzinárodnú spoluprácu, čím univerzitám umožňuje byť súčasťou globálneho
+OECD, 2024. Higher education policy. In oecd.org [online]. [Cit. 2024-01-10]. Dostupné online:
+https://www.oecd.org/education/higher-education-policy/
+32
+European commission, 2024. Higher education initiatives. In education.ec.europa.eu [online]. [Cit.
+2024-01-10].
+Dostupné online: https://education.ec.europa.eu/education-levels/higher-education/abouthigher-education
+33
+INQB, 2024. Kto sme. In inqb.sk [online]. [Cit. 2024-01-10].
+Dostupné online:
+https://www.inqb.sk/sk/o-nas/kto-sme
+34
+European University Association, 2024. Who we are. In eua.eu [online]. [Cit. 2024-01-10].
+Dostupné online: https://eua.eu/about/who-we-are.html
+35
+National academies, 2024. About U.S. Science and Innovation Policy. In nationalacademies.org
+[online]. [Cit. 2024-01-10]. Dostupné online: https://www.nationalacademies.org/us-science-and-innovationpolicy/about
+36
+Carnegie Foundation for the Advancement of Teaching, 2024. About. In carnegiefoundation.org
+[online]. [Cit. 2024-01-10]. Dostupné online: https://www.carnegiefoundation.org/about/
+31
+
+25
+
+akademického prostredia. Týmto sa prehlbujú vedomosti, no i posilňuje meno samotnej
+univerzity vo svete.37
+Univerzity
+
+môžu
+
+prispievať
+
+k environmentálnej
+
+udržateľnosti
+
+a riešeniu
+
+environmentálnych problémov. Vďaka finančnej podpore je možné vytváranie projektov
+a výskumov zameraného na ochranu životného prostredia na globálnej úrovni.38
+Spomínané oblasti sú v súlade s Politikou súdržnosti. Zo štúdie39 avšak vyplýva, že
+hoci aktivity pod vedením univerzít zvyšujú spoluprácu s miestnymi zainteresovanými
+stranami, implementácia projektov spojených s Politikou súdržnosti zostáva náročná
+vzhľadom na riziká pri realizácii a prísne usmernenia a politiky v oblasti vysokoškolského
+vzdelávania, ktoré vedú k prínosnému výskumu.
+Kondiciačný faktor
+Spolupráca
+
+Administratívne procesy
+
+Organizačná kultúra univerzity
+
+Výstupy projektu
+
+Odhadované riziká pri realizácii
+projektov v rámci univerzít
+Nežiadúca konkurencia
+Nedostatok regionálnej koordinácie
+Nedostatok obchodných partnerov
+Ťažkosti pri medziregionálnej spolupráci
+Nerealistické politické ciele
+Veľká byrokracia
+Riziková forma financovania
+Miera spolufinancovania
+Zakomponovanie angažovanosti do
+akademického jadra
+Nesúlad akademických a regionálnych
+potrieb
+Nedostatok akademických/vedeckých
+výstupov
+Nadhodnotené výstupy
+Nedostatok akademických/vedeckých
+výstupov
+Nedostatok komerčných výsledkov
+
+Tabuľka 2 Posudzovanie rizík pri projektoch univerzít Zdroj: Preložené SALOMAA, M., CHARLES, D., 2021.
+The University third mission and the European Structural Funds in peripheral regions: Insights from Finland. In Science
+and
+Public
+Policy,
+Volume
+48,
+352-363.
+[Cit.
+2024-04-20].
+Dostupné
+online:
+https://academic.oup.com/spp/article/48/3/352/6126876
+
+37
+EUROPEAN COMMISSION, 2024. Erasmus +. In. erasmus-plus.ec.europa.eu [online]. [Cit. 202401-10].
+Dostupné
+online:
+https://erasmus-plus.ec.europa.eu/sk/opportunities/opportunities-forindividuals/staff-teaching/school-education-staff-teaching
+38
+UN ENVIRONMENT PROGRAMME, 2024. What we do. In unep.org [online]. [Cit. 2024-01-10].
+Dostupné online: https://www.unep.org/explore-topics/education-environment/what-we-do/our-offer
+39
+SALOMAA, M., CHARLES, D., 2021. The University third mission and the European Structural
+Funds in peripheral regions: Insights from Finland. In Science and Public Policy, Volume 48, 352-363. [Cit.
+2024-04-20]. Dostupné online: https://academic.oup.com/spp/article/48/3/352/6126876
+
+26
+
+1.6 Vyrovnávanie regionálnych rozdielov
+Regionálne rozdiely predstavujú pretrvávajúcu výzvu pre dosiahnutie trvalej
+prosperity a sociálnej súdržnosti v rámci členských štátov Európskej únie. Politika
+súdržnosti rieši otázky tejto problematiky a Európska únia preto zavádza rôzne stratégie
+a politiky zamerané na zmiernenie týchto rozdielov a podporu rozvoja menej rozvinutých
+regiónov.
+Podľa štúdie40 sú predmetom pozornosti kohéznej politiky Európskej únie regionálne
+rozdiely v oblasti ľudského kapitálu a inovácií. Pri hodnotení účinnosti európskej kohéznej
+politiky v poľských regiónoch v období 2004-2018, sa došlo k výsledkom, že regionálne
+konvergenčné procesy v oblasti ľudského kapitálu a inovácií vykazovali krátkodobý
+charakter a v strednodobom horizonte neklesali.
+Ak sa však pozrieme na účinnosť regionálnych príspevkov v Európskej únii, môžeme
+prísť k zisteniu, že niektoré chudobnejšie krajiny, resp. chudobnejšie regióny neťažia
+z týchto príspevkov tak, ako by sa na prvý pohľad očakávalo. Ako dôvody sa udávajú horšia
+technologická a inštitucionálna absorpčná kapacita. Autori tejto štúdie navrhujú, aby krajiny,
+resp. regióny najprv zreformovali absorpčnú kapacitu, čo by malo za následok vyššiu
+efektivitu v prípade strednodobého, či dlhodobého horizontu.41
+V hodnotení dopadu Politiky súdržnosti pre obdobie 2014-2020
+
+boli zistené
+
+výsledky, že menej rozvinuté regióny z tejto politiky najviac profitujú. Aj keď nastane
+situácia, kedy príspevky idú do viac rozvinutých regiónov môže potiahnuť susediace
+regióny, ktoré nie sú tak rozvinuté, v dôsledku efektu rozlievania, kedy región, ktorý dostane
+príspevok môže pozdvihnúť aktivity v okolí.42
+Je teda evidentné, že vyrovnávanie regionálnych rozdielov je efektívne, avšak
+riešenie regionálnych rozdielov je komplexná a dlhodobá úloha, ktorá si vyžaduje úsilie na
+rôznych úrovniach.
+
+JAGÓDKA, M., SNARSKA, M. ,2022. Should we continue EU Cohesion Policy? The Dilemma of
+Uneven Development of Polish Regions. In springer.com [online]. [Cit. 2024-05-01] Dostupné online:
+https://link.springer.com/article/10.1007/s11205-022-03048-8
+41
+EGGER,P. a kol., 2013. Regional transfers in Europe: Do we need fewer of them or different ones?
+In cepr.org [online]. [Cit. 2024-05-01] Dostupné online:https://cepr.org/voxeu/columns/regional-transferseurope-do-we-need-fewer-them-or-different-ones
+42
+EUROPEAN COMMISSION, 2022. The RHOMOLO impact assessment of the 2014-2020
+cohesion policy in the EU regions. In ec.europa.eu [online]. [Cit. 2024-05-01] Dostupné online:
+https://ec.europa.eu/regional_policy/information-sources/publications/working-papers/2022/the-rhomoloimpact-assessment-of-the-2014-2020-cohesion-policy-in-the-eu-regions_en
+40
+
+27
+
+2. Cieľ práce
+Z prvej kapitoly tejto diplomovej práce, ktorá bola zameraná na teoretické
+východisko sme sa dozvedeli základné východiskové informácie, ktoré potrebujeme pre
+správne pochopenie zamerania tejto diplomovej práce.
+Hlavným cieľom diplomovej práce je prostredníctvom kvantitatívnej a kvalitatívnej
+analýzy zhodnotiť priestorovú distribúciu podpory z príspevkov EÚ pre univerzity
+v Slovenskej a Českej republike zo zdrojov Politiky súdržnosti v skúmanom období 20142020 s dôrazom na počet študentov v jednotlivých krajoch SR a ČR.
+
+3. Metodika práce a metódy skúmania
+V nasledujúcej kapitole budeme analyzovať priestorovú distribúciu príspevkov pre
+univerzity zo zdrojov Politiky súdržnosti pre časové obdobie 2014-2020. Výstupné údaje
+sme získali z verejne prístupných zdrojov Európskej komisie.43
+Následne sme si vyfiltrovali pre kategóriu prijímateľov podľa kľúčového slova
+„univerzita“ jednotlivo pre Slovenskú republiku a Českú republiku.
+V prípade Slovenskej republiky sme po úprave získali konečný výber, ktorý
+predstavoval 16 prijímateľov - univerzít.
+Pre Českú republiku bol postup rovnaký a po úprave konečný výber predstavoval 25
+prijímateľov.
+Slovenskú a Českú republiku sme rozdelili na jednotlivé kraje, ktoré sme sa rozhodli
+pre potreby našej diplomovej práce uviesť vo forme NUTS-3, lebo toto rozdelenie je o niečo
+konkrétnejšie ako NUTS-2, hoci ako je známe, príspevky z Politiky súdržnosti smerujú
+práve do nich.44 Univerzity sme priradili ku korešpondujúcim krajom.
+V komparatívnej analýze sa venujeme výške celkového príspevku, výške príspevku
+na študenta, výške celkového príspevku pre projekty na tému Výskum a inovácie
+a Vzdelávanie a odborná príprava a taktiež aj výške príspevku na študenta pre tieto projekty,
+pre skúmané obdobie 2014-2020 podľa jednotlivých krajov. Na základe vypracovanej
+
+EURÓPSKA KOMISIA, 2024. Kohesio: Prijímatelia. In kohesio.ec.europa.eu. [online]. . [Cit.
+2024-04-25]. Dostupné online: https://kohesio.ec.europa.eu/sk/prijimatelia
+44
+EUROPEAN COMMISSION, 2016. HDP na regionálnej úrovni. In ec.europa.eu eu [online]. [Cit.
+2024-04-25].
+Dostupné
+online:
+https://ec.europa.eu/eurostat/statisticsexplained/index.php?title=Archive:HDP_na_regionálnej_úrovni
+43
+
+28
+
+analýzy vyhodnocujeme, či pre menej rozvinuté regióny po prepočte na študenta platí, že
+získavajú vyšší, či nižší príspevok na študenta, a teda, či výsledky smerujú k princípu
+vyrovnávania regionálnych rozdielov v SR a ČR.
+Pri komparácii skúmaných krajín budeme porovnávať aj vplyv príspevkov na zmenu
+počtu študentov pred a po skúmanom období korelačnou analýzou, ktoré nám bližšie
+priblížia vzťah medzi výškou príspevku a zmenou počtu študentov.
+Následne vykonáme porovnanie medzi zistenými skutočnými stavmi medzi
+Slovenskou a Českou republikou.
+
+29
+
+4. Výsledky práce
+4.1 Komparatívna analýza – SR
+V tejto časti diplomovej práce sa budeme venovať skúmaniu Slovenskej republiky
+z pohľadu získavania financovania pre univerzity zo zdrojov Politiky súdržnosti pre
+skúmané obdobie 2014-2020.
+
+4.1.1 Prehľad prijímateľov zo zdrojov Politiky súdržnosti
+Zo zdrojov Politiky súdržnosti za obdobie 2014-2020 podľa internetového portálu
+Európskej komisie čerpalo 16 oprávnených prijímateľov – univerzít.
+Podľa Prílohy č. 4 môžeme vidieť, že najviac projektov má Žilinská univerzita
+v Žiline (34), Univerzita Komenského v Bratislave (19) a Slovenská technická univerzita
+v Bratislave (18). Najmenej Univerzita Konštantína Filozofa v Nitre (4), Univerzita J.
+Selyeho (3) a Katolícka univerzita v Ružomberku (2). Z hľadiska výšky príspevku má
+prvenstvo Slovenská technická univerzita s 57 480 648 EUR, na druhom mieste Žilinská
+Univerzita
+
+s 52 856 276
+
+EUR
+
+a na
+
+treťom
+
+mieste
+
+Univerzita
+
+Komenského
+
+s
+
+čerpaním 27 167 940 EUR. Najnižší príspevok čerpala Katolícka univerzita v Ružomberku
+so 401 385 EUR a Univerzita J. Selyeho s 1 368 602 EUR a na treťom mieste od konca je
+Univerzita sv. Cyrila a Metoda v Trnave vysoká škola, ktorá získala 2 505 495 EUR.
+
+4.1.2 Príspevok EÚ podľa krajov – priestorová distribúcia
+Podľa Tabuľky 3 môžeme vidieť, že Bratislavský kraj, Žilinský kraj a Košický kraj
+má celkové čerpanie nad úrovňou 50 miliónov EUR. Trenčiansky kraj, Nitriansky kraj
+a Banskobystrický kraj sú medzi 10 až 20 miliónmi EUR. Prešovský kraj a Trnavský kraj
+nedosahujú čerpanie ani 10 miliónov EUR.
+
+30
+
+Poradie Kraj
+1.
+Bratislavský kraj
+2.
+Žilinský kraj
+3.
+Košický kraj
+4.
+Trenčiansky kraj
+5.
+Nitriansky kraj
+6.
+Banskobystrický kraj
+7.
+Prešovský kraj
+8.
+Trnavský kraj
+SPOLU
+
+Príspevok za kraj v EUR
+
+Priemerný príspevok na
+študenta v EUR
+2 343
+84 648 588
+5 264
+67 176 621
+2 767
+51 587 666
+7 593
+18 004 128
+770
+12 782 797
+1 025
+10 913 294
+678
+5 963 842
+434
+2 505 495
+253 582 431
+
+Tabuľka 3 Príspevok EÚ podľa krajov – priestorová distribúcia Zdroj: Vlastné spracovanie podľa údajov
+z portálu Európskej komisie
+
+Na Obrázku 2 je grafické vyjadrenie priestorovej distribúcie celkového príspevku
+pre jednotlivé kraje.
+
+Obrázok 2 Priestorová distribúcia celkového čerpania podľa krajov Zdroj: vlastné spracovanie autora
+
+Avšak, ak sa pozrieme na priestorovú distribúciu príspevku z fondov Politiky
+súdržnosti a zoberieme do úvahy priemerný počet študentov za skúmané obdobie (Obrázok
+3), môžeme vidieť, že hoci Bratislavský kraj naďalej ostáva s pomerne vysokým čerpaním
+na študenta (2 343 EUR), tak menej rozvinuté regióny ako Trenčiansky (7 593 EUR),
+Košický (2 767 EUR) a Žilinský kraj (5 264 EUR) si prilepšili, respektíve predbehli
+rozvinutý Bratislavský kraj. Prešovský kraj (678 EUR) a Trnavský kraj (434 EUR) ostali
+naďalej na konci rebríčka.
+
+31
+
+Obrázok 3 Priestorová distribúcia čerpania podľa krajov na počet študentov v kraji Zdroj: vlastné spracovanie
+autora
+
+Na základe nášho výskumu môžeme povedať, že hoci kraj môže mať vysoké čerpanie
+(viď. Obrázok 2), tak reálnu efektívnosť, resp. prínos pri vyrovnávaní regionálnych
+rozdielov pre daný kraj môže určiť aj aspekt počtu študentov vysokých škôl v danom kraji.
+(viď. Obrázok 3).
+
+4.1.3. Príspevok EÚ na Výskum a inovácie – priestorová distribúcia
+Podľa Tabuľky 4 môžeme vidieť, že najvyššie čerpanie pre projekty s témou Výskum
+a inovácie má prvenstvo opäť Bratislavský kraj. Košický a Žilinský kraj mali čerpanie do 50
+miliónov EUR, Trenčiansky do 15 miliónov EUR a do 10 miliónov EUR mali čerpanie
+Banskobystrický, Nitriansky a Trnavský kraj. Prešovský kraj nedosahoval čerpanie ani 1
+milión EUR.
+Poradie Kraj
+1.
+Bratislavský kraj
+2.
+Košický kraj
+3.
+Žilinský kraj
+4.
+Trenčiansky kraj
+5.
+Banskobystrický kraj
+6.
+Nitriansky kraj
+7.
+Trnavský kraj
+8.
+Prešovský kraj
+SPOLU
+
+Príspevok na Výskum
+Priemerný príspevok na
+a inovácie v EUR
+študenta na VaI v EUR
+2 170
+78 382 129
+2 257
+42 068 212
+2 926
+37 347 275
+5 862
+13 898 962
+525
+5 588 899
+297
+4 926 892
+222
+1 283 770
+29
+255 207
+183 751 350
+
+Tabuľka 4 Príspevok EÚ na Výskum a inovácie – priestorová distribúcia Zdroj: Vlastné spracovanie podľa
+údajov z portálu Európskej komisie
+
+32
+
+Na Obrázku 4 je grafické vyobrazenie priestorovej distribúcie celkového príspevku
+pre projekty s témou Výskum a inovácie.
+
+Obrázok 4 Priestorová distribúcia čerpania na projekty - Výskum a inovácie podľa krajov Zdroj: vlastné
+spracovanie autora
+
+Keď sa však pozrieme na priestorovú distribúciu príspevkov na projekty s témou
+Výskum a inovácie, s akcentom na priemerný počet študentov za obdobie 2014-2020
+(Obrázok 5), môžeme vidieť zmeny čerpania príspevku v prospech menej rozvinutých
+regiónov oproti Bratislavskému kraju (2 170 EUR). Opäť môžeme vyzdvihnúť tie isté kraje
+ako Trenčiansky (5 862 EUR), Žilinský (2 926 EUR) a Košický kraj (2 257 EUR). Trnavský
+kraj (222 EUR) kopíruje svoju pozíciu z celkového čerpania na tému Výskum a inovácie
+a Prešovský kraj má najnižšie čerpanie s výškou iba 29 EUR na študenta za celé obdobie.
+
+Obrázok 5 Priestorová distribúcia čerpania na projekty - Výskum a inovácie podľa krajov na počet študentov v
+kraji Zdroj: vlastné spracovanie autora
+
+Na základe analýzy je zrejmé, že hoci kraj môže mať vysoké čerpanie, tak reálnu
+efektívnosť, resp. prínos pre vyrovnávanie regionálnych rozdielov pre daný kraj môže určiť
+aj aspekt počtu študentov vysokých škôl v kraji.
+33
+
+4.1.4. Príspevok EÚ na Vzdelávanie a odbornú prípravu – priestorová
+distribúcia
+Z Tabuľky 5 môžeme pozorovať, že najvyššie čerpanie pre projekty s témou
+Vzdelávanie a odborná príprava má prvenstvo Prešovský kraj s čerpaním viac ako 1 milión
+EUR. Žilinský a Nitriansky kraj mali čerpanie do 1 milión EUR. Košický kraj mal čerpanie
+do 500 tisíc EUR. Do výšky 400 tisíc EUR mali čerpanie Bratislavský, Trenčiansky
+a Banskobystrický kraj. Trnavský kraj nemal žiaden projekt, takže nečerpal nič.
+Poradie Kraj
+1.
+Prešovský kraj
+2.
+Žilinský kraj
+3.
+Nitriansky kraj
+4.
+Košický kraj
+5.
+Bratislavský kraj
+6.
+Trenčiansky kraj
+7.
+Banskobystrický kraj
+8.
+Trnavský kraj
+SPOLU
+
+Príspevok na
+Priemerný príspevok na
+Vzdelávanie a odbornú
+študenta na VaOP v
+prípravu v EUR
+EUR
+119
+1 042 747
+75
+952 028
+45
+747 169
+26
+491 952
+9
+334 139
+141
+333 504
+24
+251 796
+0
+0
+4 153 335
+
+Tabuľka 5 Príspevok EÚ na Vzdelávanie a odbornú prípravu
+spracovanie podľa údajov z portálu Európskej komisie
+
+– priestorová distribúcia Zdroj: Vlastné
+
+Na Obrázku 6 uvádzame grafické prevedenie distribúcie celkového príspevku pre
+projekty s témou Vzdelávanie a odborná príprava.
+
+Obrázok 6 Priestorová distribúcia čerpania na projekty - Vzdelávanie a odborná príprava podľa krajov Zdroj:
+vlastné spracovanie autora
+
+Keď sa však pozrieme na priestorovú distribúciu príspevkov na projekty s témou
+Vzdelávanie a odborná príprava, s akcentom na priemerný počet študentov za obdobie 20142020 (Obrázok 7), znova môžeme badať zmeny v prospech menej rozvinutých regiónov
+34
+
+oproti Bratislavskému kraju(9 EUR). V tomto prípade môžeme vyzdvihnúť Trenčiansky
+(141 EUR) a Prešovský kraj (119 EUR), pretože mali najvyššie priemerné čerpanie
+príspevku na študenta. Trnavský kraj nemal žiaden projekt v tejto téme.
+
+Obrázok 7 Priestorová distribúcia čerpania na projekty - Vzdelávanie a odborná príprava podľa krajov na počet
+študentov v kraji Zdroj: vlastné spracovanie autora
+
+V tomto prípade najrozvinutejší kraj (Bratislavský) nemal najvyššie čerpanie, avšak
+opäť môžeme sledovať zmenu vo výške čerpania príspevku, keď berieme do úvahy
+priemerný počet študentov, resp. aj v tomto prípade menej rozvinuté regióny dopadli
+efektívnejšie, čo sa týka výšky príspevku na jedného študenta, čo môže mať pozitívny vplyv
+na vyrovnávanie regionálnych rozdielov.
+
+4.1.5 Korelácia medzi výškou príspevku a zmenou počtu študentov pred
+a po období
+V prípade korelácie medzi výškou príspevku a zmenou počtu študentov pred
+obdobím a po období, kde pracujeme s údajmi z nami zvolenej databázy sa dostaneme ku
+korelačnému koeficientu pre celkový príspevok za kraj – 0,59 a pre priemerný príspevok na
+študenta 0,16. Pri korelačnom koeficiente – 0,59 môžeme ho vyhodnotiť ako stredne silný
+negatívny vzťah medzi výškou príspevku a zmenou študentov pred a po období, resp. ak sa
+zvýši príspevok, počet študentov sa zníži. Korelačný koeficient 0,16 môžeme interpretovať
+ako veľmi slabý pozitívny vzťah, teda ak sa zvýši príspevok na jedného študenta, mal by sa
+zvýšiť aj počet študentov. Tieto tvrdenia však nemôžeme paušalizovať, alebo interpretovať
+ako jedinú pravdu, práve kvôli rôznym ďalším ukazovateľom, ktoré by mohli vstupovať do
+tohto vzťahu ako napríklad právny mechanizmus v krajine, či politická vôľa pri
+presadzovaní vzdelávania alebo rozvoja vysokých škôl zo zdrojov Politiky súdržnosti.
+Slúžia skôr na informatívny účel z nami zvolenej databanky. Nami vykonaná analýza je
+bližšie popísaná v Tabuľke 6.
+35
+
+Poradie Kraj
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Bratislavský
+kraj
+Žilinský kraj
+Košický kraj
+Trenčiansky
+kraj
+Nitriansky kraj
+Banskobystrický
+kraj
+Prešovský kraj
+Trnavský kraj
+
+Príspevok za kraj Príspevok v
+kraji na
+študenta za
+obdobie 14-20
+
+Zmena
+Korelačný Korelačný
+Študentov koeficient koeficient pre
+pred a po pre
+príspevok na
+období
+príspevok študenta
+za kraj
+
+84 648 588
+
+2 343 - 10 443
+
+67 176 621
+51 587 666
+18 004 128
+
+5 264 - 5 646
+2 767 - 2 792
+7 593 - 1 096
+
+12 782 797
+10 913 294
+
+770 - 7 832
+1 025 - 5 792
+
+5 963 842
+2 505 495
+
+678 - 1 492
+434 - 820
+
+- 0,59
+
+0,16
+
+Tabuľka 6 Korelačné koeficienty medzi príspevkom a zmenou počtu študentov Zdroj: Vlastné spracovanie autora
+
+36
+
+4.2 Komparatívna analýza – ČR
+V tejto časti diplomovej práce sa budeme venovať skúmaniu Českej republiky
+z pohľadu získavania financovania pre univerzity zo zdrojov Politiky súdržnosti pre
+skúmané obdobie 2014-2020.
+
+4.2.1 Prehľad prijímateľov zo zdrojov Politiky súdržnosti
+Zo zdrojov Politiky súdržnosti za obdobie 2014-2020 podľa internetového portálu
+Európskej komisie čerpalo 25 oprávnených prijímateľov – univerzít.
+Podľa Prílohy č. 5 môžeme vidieť, že najviac projektov implementovali Univerzita
+Karlova (107), České vysoké učení technické v Praze (91) a Univerzita Palackého (83).
+Najmenej Metropolitní univerzita Praha (3), Panevropská univerzita, a.s. a Veterinární
+univerzita Brno (zhodne po 2) a Univerzita Jana Amose Komenského Praha (1). Z hľadiska
+výšky príspevku z EÚ má prvenstvo Univerzita Karlova s 248 255 429 EUR, na druhom
+mieste České vysoké učení technické v Praze s výškou čerpania 196 078 675 EUR a na
+treťom mieste Masarykova univerzita s príspevkom 183 088 008 EUR. Na treťom mieste od
+konca je Univerzita Jana Amose Komenského Praha, ktorá čerpala príspevok vo výške 304
+081 EUR a na druhom mieste od konca je Panevropská univerzita, a.s. 139 628 EUR.
+Najmenej čerpala Veterinární univerzita Brno s príspevkom vo výške iba 31 680 EUR.
+
+4.2.2 Príspevok EÚ podľa krajov – priestorová distribúcia
+Podľa Tabuľky 7 môžeme vidieť, že Hlavní město Praha má najvyššie celkové
+čerpanie nad 500 miliónov EUR. Jihomoravský a Moravskoslezský kraj majú čerpanie nad
+200 miliónov EUR. Olomoucký kraj má čerpanie nad 100 miliónov EUR. Ústecký
+a Plzeňský kraj majú čerpanie do 100 miliónov EUR. Jihočeský, Liberecký a Pardubický
+kraj dosahujú čerpania do výšky 50 miliónov EUR. Zlínský a Královéhradecký kraj
+nedosahujú čerpanie viac ako 30 miliónov EUR. Středočeský, Karlovarský kraj a Kraj
+Vysočina neimplementovali žiadne projekty, z čoho vyplýva, že nečerpali žiadne finančné
+prostriedky.
+
+37
+
+Poradie Kraj
+
+Príspevok za kraj
+Priemerný príspevok na študenta
+v EUR
+v EUR
+1.
+Hlavní město Praha
+568 927 812
+5 708
+2.
+Jihomoravský kraj
+236 616 985
+5 186
+3.
+Moravskoslezský kraj
+216 564 152
+7 999
+4.
+Olomoucký kraj
+132 398 708
+6 448
+5.
+Ústecký kraj
+77 193 403
+9 639
+6.
+Plzeňský kraj
+60 273 804
+5 437
+7.
+Jihočeský kraj
+44 915 993
+4 641
+8.
+Liberecký kraj
+42 050 071
+6 822
+9.
+Pardubický kraj
+34 439 747
+4 511
+10.
+Zlínský kraj
+27 935 249
+3 084
+11.
+Královéhradecký kraj
+24 646 725
+3 703
+12.
+Středočeský kraj
+13.
+Karlovarský kraj
+14.
+Kraj Vysočina
+SPOLU
+1 465 962 649
+Tabuľka 7 Príspevok EÚ podľa krajov – priestorová distribúcia Zdroj: Vlastné spracovanie podľa údajov z
+portálu Európskej komisie
+
+Na Obrázku 8 je graficky znázornená celková priestorová distribúcia príspevku
+podľa jednotlivých krajov v ČR.
+
+Obrázok 8 Priestorová distribúcia celkového čerpania podľa krajov Zdroj: vlastné spracovanie
+
+38
+
+Keď sa však pozrieme na priestorovú distribúciu (Obrázok 9) príspevku z fondov
+Politiky súdržnosti so zohľadnením priemerného počtu študentov za skúmané obdobie,
+môžeme vidieť, že hoci Hlavní město Praha má najvyšší celkový príspevok, pri prepočte na
+jedného študenta je na 5. mieste (5 708 EUR) a prvenstvo po novom pripadá Ústeckému
+kraju (9 639 EUR). Ďalšie kraje, ktoré si prilepšili sú Moravskoslezský (7 999 EUR),
+Liberecký (6 822 EUR) a Olomoucký (6 448 EUR) kraj.
+
+Obrázok 9 Priestorová distribúcia čerpania podľa krajov na počet študentov v kraji Zdroj: vlastné spracovanie
+autora
+
+Na základe nášho výskumu môžeme povedať, že aj v ČR sa nám javí, že vysoké
+celkové čerpanie zo zdrojov politiky súdržnosti v jednotlivých krajoch neznamená
+automaticky najvyššie čerpanie príspevku na jedného študenta v danom kraji, čo môže mať
+za následok efektívny prínos pre menej rozvinuté regióny a vyrovnávanie regionálnych
+rozdielov v ČR.
+
+4.2.3 Príspevok EÚ na Výskum a inovácie – priestorová distribúcia
+
+Podľa Tabuľky 8 môžeme vidieť, že najvyššie čerpanie pre projekty s témou Výskum
+a inovácie má prvenstvo opäť Hlavní město Praha so skoro 300 miliónov EUR. Na druhom
+mieste je Jihomoravský kraj s čerpaním do 110 miliónov EUR. Moravskoslezský
+a Olomoucký kraj mali čerpanie do 90 miliónov EUR. Plzeňský kraj dosahoval čerpanie do
+výšky 30 miliónov EUR. Liberecký, Ústecký, Pardubický a Jihočeský kraj čerpali príspevok
+39
+
+do 20 miliónov EUR. Královéhradecký dostal najnižší príspevok do výšky 3 miliónov EUR.
+Štyri kraje neimplementovali žiadne projekty, a to konkrétne Zlínský, Středočeský,
+Karlovarský kraj a Kraj Vysočina.
+Poradie
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+SPOLU
+
+Kraj
+
+Príspevok na Výskum
+Priemerný príspevok na
+a inovácie v EUR
+študenta na VaI v EUR
+Hlavní město Praha
+292 170 395
+2 931
+Jihomoravský kraj
+106 166 323
+2 327
+Moravskoslezský kraj
+80 591 661
+2 976
+Olomoucký kraj
+66 076 149
+3 218
+Plzeňský kraj
+26 558 795
+2 395
+Liberecký kraj
+16 058 684
+2 605
+Ústecký kraj
+15 907 446
+1 986
+Pardubický kraj
+15 145 598
+1 983
+Jihočeský kraj
+13 211 143
+1 365
+Královéhradecký kraj
+2 694 496
+404
+Zlínský kraj
+Středočeský kraj
+Karlovarský kraj
+Kraj Vysočina
+634 580 690
+
+Tabuľka 8 Príspevok EÚ na Výskum a inovácie – priestorová distribúcia Zdroj: Vlastné spracovanie podľa
+údajov z portálu Európskej komisie
+
+Na Obrázku 10 je grafické vyobrazenie priestorovej distribúcie celkového príspevku
+z fondov EÚ na tému projektov Výskum a inovácie.
+
+Obrázok 10 Priestorová distribúcia celkového čerpania na projekty - Výskum a inovácie podľa krajov Zdroj:
+vlastné spracovanie autora
+
+40
+
+Na Obrázku 11 uvádzame priestorovú distribúciu príspevku z fondov Politiky
+súdržnosti s aspektom v prepočte na jedného študenta za skúmané obdobie pre projekty
+s témou Výskum a inovácie, kde môžeme vidieť, že hoci Hlavní město Praha má najvyšší
+celkový príspevok, pri prepočte na jedného študenta je na 3. mieste (2 931 EUR) a prvenstvo
+po novom pripadá Olomouckému kraju (3 218 EUR). Ďalší kraj, ktorý si prilepšil, resp.
+predbehol najrozvinutejší kraj je Moravskoslezský kraj (2 976 EUR).
+
+Obrázok 11 Priestorová distribúcia čerpania na projekty - Výskum a inovácie podľa krajov na počet študentov v
+kraji Zdroj: vlastné spracovanie autora
+
+Z našej analýzy sa domnievame, že pri prepočte príspevku na jedného študenta je
+rovnomernejšie distribuované čerpanie príspevku zo zdrojov Politiky súdržnosti pre projekty
+s témou Výskum a inovácie medzi jednotlivé kraje v ČR, čo vplýva pozitívne na
+vyrovnávanie regionálnych rozdielov.
+
+4.2.4 Príspevok EÚ na Vzdelávanie a odborná príprava – priestorová
+distribúcia
+Podľa Tabuľky 9 môžeme vidieť, že najvyššie čerpanie pre projekty s témou
+Vzdelávanie a odbornú prípravu má prvenstvo opäť kraj Hlavní město Praha s celkovou
+výškou príspevku skoro 300 miliónov EUR. Na druhom a treťom mieste je Moravskoslezský
+a Jihomoravský kraj s čerpaním do 140 miliónov EUR. Ústecký a Olomoucký kraj majú
+čerpanie okolo 60 miliónov EUR. Do 30 miliónov EUR čerpali Zlínský, Plzeňský,
+Jihočeský, Liberecký a Královehradecký kraj. Do výšky 20 miliónov EUR čerpal
+Pardubický kraj. Kraje Vysočina, Karlovarský a Středočeský neimplementovali žiadne
+projekty.
+
+41
+
+Poradie
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+SPOLU
+
+Kraj
+
+Príspevok na Vzdelávanie Priemerný príspevok na
+a odbornú prípravu v
+študenta na VaOP v EUR
+EUR
+Hlavní město Praha
+269 078 127
+2 699
+Moravskoslezský kraj
+131 777 410
+4 867
+Jihomoravský kraj
+125 000 220
+2 739
+Ústecký kraj
+60 489 676
+7 553
+Olomoucký kraj
+55 919 984
+2 723
+Zlínský kraj
+27 935 249
+3 084
+Plzeňský kraj
+27 859 714
+2 513
+Jihočeský kraj
+27 495 950
+2 841
+Liberecký kraj
+25 193 367
+4 087
+Královéhradecký kraj
+21 952 228
+3 298
+Pardubický kraj
+19 294 148
+2 527
+Středočeský kraj
+Karlovarský kraj
+Kraj Vysočina
+791 996 073
+
+Tabuľka 9 Príspevok EÚ na Vzdelávanie a odbornú prípravu
+spracovanie podľa údajov z portálu Európskej komisie
+
+– priestorová distribúcia Zdroj: Vlastné
+
+Priestorovú distribúciu celkového príspevku z fondov Politiky súdržnosti na tému
+projektu Vzdelávanie a odborná príprava v ČR v grafickom prevedení uvádzame na Obrázku
+12.
+
+Obrázok 12 Priestorová distribúcia čerpania na projekty - Vzdelávanie a odborná príprava podľa krajov Zdroj:
+vlastné spracovanie autora
+
+Na Obrázku 13 uvádzame priestorovú distribúciu príspevku z fondov Politiky
+súdržnosti s aspektom v prepočte na jedného študenta za skúmané obdobie pre projekty
+s témou Vzdelávanie a odborná príprava, kde môžeme vidieť, že hoci Hlavní město Praha
+42
+
+má najvyšší celkový príspevok, pri prepočte na jedného študenta je až na 10. mieste (2 699
+EUR). Prvé miesto v prepočte na jedného študenta patrí Ústeckému kraju (7 553 EUR),
+dokonca až skoro trojnásobne vyššia suma príspevku na jedného študenta ako v Hlavním
+měste Praha. Na druhej strane Jihomoravský kraj, ktorý mal vysoké celkové čerpanie
+z politiky súdržnosti a bol na treťom mieste je po prepočte na jedného študenta predstavuje
+výška príspevku iba sumu 2 739 EUR, čo ho dáva na 8. priečku. Čo sa týka
+Moravskoslezského kraja, ten si udržal druhú priečku v oboch sledovaných ukazovateľoch,
+tzn. z pohľadu výšky celkového príspevku a aj po prepočte na jedného študenta.
+
+Obrázok 13 Priestorová distribúcia čerpania na projekty - Vzdelávanie a odborná príprava podľa krajov na počet
+študentov v kraji Zdroj: vlastné spracovanie autora
+
+Na záver nášho skúmania môžeme usudzovať, že ČR pre projekty s témou Vzdelávanie
+a odborná príprava má nerovnomernú distribúciu čerpania príspevkov v prepočte na jedného
+študenta z fondov Politiky súdržnosti v jednotlivých krajoch. Avšak, po prepočte na jedného
+študenta, naďalej môžeme sledovať, že kraje, ktoré mali nižšie celkové čerpanie ako viac
+rozvinutý kraj Hlavní město Praha majú vyššie čerpanie na jedného študenta, a teda zrejme
+aj vyššiu efektívnosť, čo môže pôsobiť pozitívne na vyrovnávanie regionálnych rozdielov
+v ČR.
+
+43
+
+4.2.5 Korelácia medzi výškou príspevku a zmenou počtu študentov pred
+a po období
+Pri korelácii medzi výškou príspevku a zmenou počtu študentov pred obdobím a po
+období, kde pracujeme s údajmi z nami zvolenej databázy sa dostaneme ku korelačnému
+koeficientu pre celkový príspevok za kraj – 0,77 a pre priemerný príspevok na študenta
+- 0,42. Pri korelačnom koeficiente – 0,77 môžeme ho interpretovať ako silný negatívny
+vzťah medzi výškou príspevku a zmenou študentov pred a po období, teda ak sa zvýši
+príspevok, počet študentov sa zníži. Korelačný koeficient - 0,42 môžeme vyhodnotiť ako
+stredne silný negatívny vzťah, teda ak sa zvýši príspevok na jedného študenta, mal by sa
+znížiť počet študentov. Tieto tvrdenia však opäť ako v prípade SR nemôžeme paušalizovať,
+alebo interpretovať ako jedinú pravdu, práve kvôli rôznym ďalším ukazovateľom, ktoré by
+mohli vstupovať do tohto vzťahu ako napríklad právny mechanizmus v krajine, či politická
+vôľa pri presadzovaní vzdelávania alebo rozvoja vysokých škôl zo zdrojov Politiky
+súdržnosti. Slúžia skôr na informatívny účel z nami zvolenej databanky. Nami vykonaná
+analýza je bližšie popísaná v Tabuľke 10.
+Poradie Kraj
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+Hlavní město
+Praha
+Jihomoravský
+kraj
+Moravskoslezský
+kraj
+Olomoucký kraj
+Ústecký kraj
+Plzeňský kraj
+Jihočeský kraj
+Liberecký kraj
+Pardubický kraj
+Zlínský kraj
+Královéhradecký
+kraj
+Středočeský kraj
+Karlovarský kraj
+Kraj Vysočina
+
+Príspevok za Príspevok v
+kraj v EUR kraji na
+študenta za
+obdobie 14-20
+
+568 927 812
+
+Zmena
+Korelačný Korelačný
+Študentov koeficient koeficient
+pred a po pre
+pre
+období
+príspevok príspevok
+pre kraj
+na
+študenta
+5 708
+- 12 539
+
+236 616 985
+
+5 186
+
+- 8 402
+
+216 564 152
+
+7 999
+
+- 12 088
+
+132 398 708
+77 193 403
+60 273 804
+44 915 993
+42 050 071
+34 439 747
+27 935 249
+24 646 725
+
+6 448
+9 639
+5 437
+4 641
+6 822
+4 511
+3 084
+3 703
+
+1 366
+- 1 833
+- 2 477
+- 3 516
+- 1 851
+- 3 552
+- 1 799
+- 2 558
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+0
+
+-0,77
+
+-0,42
+
+Tabuľka 10 Korelačné koeficienty medzi príspevkom a zmenou počtu študentov Zdroj: Vlastné spracovanie autora
+
+44
+
+4.3 Komparatívna analýza SR a ČR
+Na základe vykonaných analýz jednotlivých krajov pri čerpaní príspevkov z Politiky
+súdržnosti za obdobie 2014 - 2020 v SR a ČR pri zohľadnení rovnakých ukazovateľov nám
+vyplynuli nasledovné závery.
+V Slovenskej republike bol nižší počet oprávnených žiadateľov oproti Českej
+republike, kde Slovenská republika mala 16 a Česká republika ich mala 25. Slovenská
+republika mala nižšie celkové čerpanie vo výške 253 582 431 EUR oproti Českej republike
+s celkovým čerpaním 1 465 962 649 EUR. Česká republika teda mala skoro 6krát vyššie
+čerpanie ako Slovenská republika.
+V skúmanom období 2014-2020 bola výška celkového príspevku na jedného
+študenta v rozpätí od 434 až 7 593 EUR pre Slovenskú republiku a pre Českú republiku bolo
+toto rozpätie 3 084 až 9 639 EUR, pričom priemerne na jedného študenta za obdobie 20142020 čerpala Česká republika 4 512 EUR a 2 609 EUR na študenta za skúmané obdobie
+čerpala Slovenská republika. V Českej republike sa teda čerpalo na študenta za obdobie
+2014-2020 v priemere o 1 903 EUR viac ako v Slovenskej republike. Je to jeden
+z ukazovateľov, ktorý by mohol ovplyvniť aj produkciu ľudského kapitálu, a stimulovať
+výskum a inovácie a motivuje k zvýšeniu čerpania v Slovenskej republike aspoň na úroveň
+Českej republiky.
+Pre projekty s témou Výskum a inovácie sa čerpalo na území Slovenskej republiky
+1 786 EUR priemerne na jedného študenta a pre Českú republiku to je 2 219 EUR. Opäť
+môžeme badať, že Česká republika priemerne čerpá na študenta pri projektoch s témou
+Výskum a inovácie o 433 EUR viac ako Slovenská republika.
+Pre projekty s témou Vzdelávanie a odborná príprava čerpala priemerne na študenta
+Slovenská republika 54 EUR a Česká republika 3 539 EUR. Na základe tejto analýzy
+môžeme vidieť markantný rozdiel v čerpaní na jedného študenta pre tému projektov
+Vzdelávanie a odborná príprava, kedy Slovenská republika čerpá priemerne na študenta
+o 3 485 EUR menej ako Česká republika. Aj toto môže byť jeden z ukazovateľov, ktorý
+môže ovplyvňovať produkciu ľudského kapitálu a stimulovať výskum a tvorbu inovácií.
+Z uvedených zistení vyplýva, že Česká republika má vyššie hodnoty v nami
+skúmaných ukazovateľoch, ako Slovenská republika počas skúmaného obdobia 2014-2020,
+ktoré z časti vplývajú na vyrovnávanie regionálnych rozdielov, resp. stimuluje sa tvorba
+
+45
+
+ľudského kapitálu, výskumu a inovácii najmä vďaka tomu, že menej rozvinuté regióny
+v prepočte na študenta čerpajú väčší príspevok než viac rozvinuté regióny.
+Na druhú stranu treba podotknúť, že zatiaľ čo Slovenská republika pri celkovom
+čerpaní príspevku mala každý kraj zastúpený, v Českej republike tomu tak nebolo.
+Středočeský kraj, Karlovarský kraj a Kraj Vysočina v nami skúmaných ukazovateľoch
+nefigurovali, pretože z databázy, z ktorej sme výskum vykonávali neuvádzal žiadnu
+univerzitu, ktorá by žiadala o príspevok. Javí sa nám, že teda aj Česká republika má priestor
+na motiváciu univerzít žiadať o poskytované príspevky zo zdrojov Politiky súdržnosti.
+Pri korelačnej analýze sme došli ku korelačným koeficientom za kraj pre SR – 0,59
+a na študenta 0,16 a pre ČR - 0,77 a – 0,42. z výsledných hodnôt môžeme vidieť, že tieto
+koeficienty sú horšie pre ČR, avšak to môže byť spôsobené vyšším počtom študentov
+a vyššími príspevkami v prípade ČR. Tak ako sme spomínali, tieto korelačné koeficienty
+neurčujú plnú pravdu, pretože pri určovaní skutočného dôvodu, prečo sú tieto korelačné
+koeficienty také nízke, resp. prečo prevažne dochádza k výsledku, že čím vyšší je príspevok,
+tým je menej študentov, by sme museli zohľadniť napr. právny mechanizmus, politickú vôľu,
+či dokonca aj preferencie študentov pre výber škôl, pretože problém so znižujúcim počtom
+študentov sa prejavoval v oboch skúmaných krajinách, resp. krajoch okrem Olomouckého
+kraja v prípade ČR. Táto korelácia nám teda slúži na informačné účely, avšak vďaka nej sme
+mohli identifikovať veľký problém pre tvorbu vzdelaného kapitálu, a to je počet študentov
+študujúcich na vysokých školách, ktorý sa neustále znižuje, a ak skúmame len vplyv výšky
+príspevku, či už na študenta alebo pre celkovú výšku príspevku, tak môžeme vidieť, že ten
+nám tento problém osamote nevyrieši.
+
+46
+
+5 Diskusia
+Príspevok pre kraj a príspevok na študenta nám naznačuje, že v prípade Slovenskej
+republiky je nižšie čerpanie ako v prípade Českej republiky, tak to je aj v prerozdelení na
+regióny. Avšak priestorová distribúcia v prepočte na študenta nám ukazuje, že niektoré
+menej rozvinuté regióny (iné ako Bratislavský kraj pre SR a iný ako Hlavní město Praha pre
+ČR) majú tendenciu byť efektívnejšie, resp. majú vyššie príspevky na študenta ako viac
+rozvinuté regióny. K podobnému záveru sa prikláňa štúdia45, ktorá hovorí o účinkoch
+Politiky súdržnosti, ktoré sú oveľa silnejšie v rozvinutejších regiónoch, no majú pozitívny
+vplyv hlavne na menej rozvinuté regióny. Na zmiernenie dopadov prílišnej podpory
+rozvinutejších regiónov je potrebná koordinácia vystupujúcich inštitúcií v rozhodujúcich
+procesoch, teda hlavné slovo, pri multilaterálnych rokovaniach o programovom pláne, by
+mali mať samotné univerzity.
+Čerpanie príspevkov, ohľadom projektov s témou Výskum a inovácie v prípade
+Slovenskej republiky ukazuje preferenciu vysokých škôl implementovať projekty práve
+k tejto téme, keďže v porovnaní s projektami orientujúcimi sa na Vzdelávanie a odbornú
+prípravu čerpali skoro o 180 miliónov EUR viac. Avšak v porovnaní s Českou republikou
+stále zaostáva o viac ako 400 miliónov EUR, a teda naďalej tu je priestor pre získavanie
+finančných zdrojov pre túto tému projektov, najmä z dôvodu zvyšovania úrovne výskumu
+a zvyšovania konkurencieschopnosti univerzít, ktoré by mohli podporiť vyrovnávanie
+regionálnych rozdielov. K tomuto tvrdeniu sa prikláňa aj samotná Asociácia Európskych
+Univerzít46, že projekty s témou Výskum a inovácie sú pre univerzity významným nástrojom
+pre zvýšenie úrovne vzdelávania, výskumu a tvorby inovácií, práve preto, že sú hlavným
+účastníkom pri ich vzniku. Sú teda ideálnym aktérom pre vznik potrebných synergií medzi
+vládou, univerzitami a podnikmi, ktoré pomôžu vysokým školám a regiónom v ktorých
+pôsobia, a tým zvýšiť svoju konkurencieschopnosť a možno aj motivovať ostatné univerzity
+pre zvýšený dopyt po ponúkaných zdrojoch Politiky súdržnosti.
+Projekty s témou Vzdelávanie a odborná príprava prinášajú rôzne pozitíva od vyšších
+miezd, zvýšenej produktivity, ekonomický rast, až po neekonomické prínosy v podobe nižšej
+45
+CAPPELEN, A. a kol., 2003. The impact of EU Regional Support on Growth and Convergence in
+the European Union. In researchgate.net [online]. [Cit. 2024-05-02] Dostupné online:
+https://www.researchgate.net/publication/4991633_The_Impact_of_EU_Regional_Support_on_Growth_and_
+Convergence_in_the_European_Union
+46
+EUROPEAN UNIVERSITIES ASSOCIATON, 2020. Building synergies between education,
+research and innovation by aligning the EU funding programmes. In eua.eu [online]. [Cit. 2024-06-28]
+Dostupné online: https://eua.eu/downloads/publications/policy%20input_synergies%20paper%20.pdf
+
+47
+
+miery absencií v školách, či práce alebo nižšej miery kriminality.47 V prípade Slovenskej
+republiky môžeme badať veľmi nízku úroveň čerpania finančných príspevkov na projekty
+s touto témou, okolo 4 miliónov EUR, v porovnaní s Českou republikou, ktorá ju mala na
+úrovni skoro 800 miliónov EUR. Spomenuté prínosy by mali byť dostatočnou motiváciou
+pre univerzity, ak ide o implementáciu daných projektov a taktiež aj miera čerpania susednej
+Českej republiky. Avšak pozitívne pôsobí záujem menej rozvinutých krajov o tieto projekty
+ako v Slovenskej republike, tak aj v Českej republike.
+V prípade korelačnej analýzy sme dospeli k problému znižujúceho sa počtu
+študentov v Slovenskej a Českej republike. Tento trend môžeme badať aj v iných
+krajinách.48 Spomínaný problém môžu ovplyvňovať rôzne faktory a nie len výška príspevku
+smerujúca do kraja. Podľa štúdie49 by navrhované riešenia mohli byť vo forme
+mentoringových programov, podpory diverzity a inklúzie, či komunitných a akademických
+partnerstiev, ktoré prispievajú konkurencieschopnosti univerzít a v očiach študentov sa
+môžu stať lákadlom. Pri navrhovaných riešeniach netreba opomenúť následný monitoring
+a vyhodnocovanie údajov pre implementovanie tých správnych riešení. Autor diplomovej
+práce sa prikláňa k názoru štúdie, nakoľko problém so znižovaním študentov v Slovenskej
+republike je badateľný v záujme mladých študentov končiacich stredoškolské vzdelanie pre
+vysoké školy v zahraničí, či dokonca voľby ísť pracovať po dosiahnutí stredoškolského
+vzdelania a takéto programy sa môžu stať lákadlom pre nastupujúce generácie.
+Ako limitácie diplomovej práce môžeme uviesť, napríklad databázu Európskej
+komisie, v ktorej niektoré projekty nemali uvedenú čiastku, no najmä nepreskúmané ďalšie
+ukazovatele, ktoré by mohli vplývať na čerpanie príspevkov zo zdrojov Politiky súdržnosti
+a taktiež ďalšie vplyvy, ktoré určujú či už preferenciu škôl podávať projekty na tému
+Výskum a inovácie, či Vzdelávanie a odborná príprava. Netreba taktiež zabudnúť na fakt, že
+v prípade korelácií, kde sme sa venovali počtu študentov, sme prišli k zisteniu, že obidve
+skúmané krajiny sa stretávajú s tým istým problémom, a to je znižovanie počtu študentov,
+na ktorý vplýva mnoho faktorov, ktoré táto diplomová práca neskúma.
+
+47
+CEDEFOP, 2013. Benefits of vocational education and training in Europe for people, organisations
+and
+countries.
+In
+cedefop.europa.eu
+[online].
+[Cit.
+2024-06-28]
+Dostupné
+online:
+https://www.cedefop.europa.eu/en/publications/4121
+48
+OLIVE, V, 2017. How much is too much? Cross-subsidies from teaching to research in British
+universities. In hepi.ac.uk [online]. [Cit. 2024-06-28] Dostupné online:
+https://www.hepi.ac.uk/wpcontent/uploads/2017/11/HEPI-How-much-is-too-much-Report-100-FINAL.pdf
+49
+TALBERT, P. Y., 2012. Strategies to Increase Enrollment, Retention, and Graduation rates. In
+eric.ed.gov [online]. [Cit. 2024-06-28] Dostupné online: https://files.eric.ed.gov/fulltext/EJ1035683.pdf
+
+48
+
+Záver
+Diplomová práca sa zaoberala podporou univerzít zo zdrojov politiky súdržnosti v
+období 2014-2020, so zameraním na Slovenskú a Českú republiku. Cieľom diplomovej
+práce bolo prostredníctvom kvantitatívnej a kvalitatívnej analýzy zhodnotiť priestorovú
+distribúciu podpory z príspevkov EÚ pre univerzity v Slovenskej a Českej republike zo
+zdrojov Politiky súdržnosti v skúmanom období 2014-2020 s dôrazom na počet študentov
+v jednotlivých krajoch SR a ČR.
+Analýza ukázala, že existujú významné rozdiely v distribúcii finančných
+prostriedkov medzi jednotlivými krajmi oboch skúmaných krajín. Výsledky poukázali na to,
+že efektívnosť využívania príspevkov môže byť vyššia v menej rozvinutých regiónoch, kde
+menšie absolútne hodnoty príspevkov na jedného študenta viedli k relatívne vyššej
+efektivite. V Českej republike, napríklad, kraje s nižším čerpaním celkových prostriedkov
+na projekty vzdelávania a odbornej prípravy vykazovali vyššiu efektívnosť v prepočte na
+jedného študenta, čo môže pozitívne prispievať k vyrovnávaniu regionálnych rozdielov.
+Korelácia medzi výškou príspevku a zmenou počtu študentov v nami skúmaných
+krajinách vykazovala slabý pozitívny až silný negatívny vzťah, čo naznačuje, že zvýšené
+finančné príspevky nezaručujú vyšší počet študentov. Tieto zistenia však treba interpretovať
+s opatrnosťou, pretože výsledky môžu byť ovplyvnené rôznymi faktormi, ako je právny
+rámec, politická vôľa či preferencie študentov pri výbere vysokej školy, a mnohé ďalšie.
+Taktiež nám poukázala na problém znižovania počtu študentov v SR a ČR.
+Na záver môžeme konštatovať, že hoci príspevky z fondov Politiky súdržnosti
+zohrávajú dôležitú úlohu v podpore univerzít a regionálneho rozvoja, samotná výška
+príspevku nie je postačujúcim ukazovateľom úspešnosti. Pre efektívne využívanie týchto
+prostriedkov je nevyhnutné zohľadňovať komplexné socioekonomické faktory a vypracovať
+stratégie, ktoré budú reflektovať špecifické potreby jednotlivých regiónov s kooperáciou
+jednotlivých vystupujúcich aktérov.
+Práca poskytuje cenné poznatky pre tvorbu budúcich politík zameraných na podporu
+vzdelávania a výskumu, a zdôrazňuje dôležitosť pokračovania v analýze efektívnosti
+príspevkov z EÚ fondov s cieľom dosiahnuť vyrovnanejší a udržateľnejší rozvoj univerzít
+v nami skúmaných krajinách.
+
+49
+
+Použitá literatúra
+AGENTÚRA NA PODPORU VÝSKUMU A VÝVOJA, 2024. O nás. In apvv.sk [online].
+[Cit. 2024-01-10]. Dostupné online: https://www.apvv.sk/agentura/o-nas.html
+CAPPELEN, A. a kol., 2003. The impact of EU Regional Support on Growth and
+Convergence in the European Union. In researchgate.net [online]. [Cit. 2024-05-02]
+Dostupné
+
+online:
+
+https://www.researchgate.net/publication/4991633_The_Impact_of_EU_Regional_Support
+_on_Growth_and_Convergence_in_the_European_Union
+Carnegie
+
+Foundation
+
+carnegiefoundation.org
+
+for
+
+the
+
+Advancement
+
+[online].
+
+[Cit.
+
+of
+
+Teaching,
+
+2024-01-10].
+
+2024.
+
+About.
+
+Dostupné
+
+In
+
+online:
+
+https://www.carnegiefoundation.org/about/
+CEDEFOP, 2013. Benefits of vocational education and training in Europe for people,
+organisations and countries. In cedefop.europa.eu [online]. [Cit. 2024-06-28] Dostupné
+online: https://www.cedefop.europa.eu/en/publications/4121
+DOTACE EU, 2024. Informace o Fondech. In dotaceeu.com [online]. [Cit. 2024-05-01]
+Dostupné online: https://www.dotaceeu.cz/cs/evropske-fondy-v-cr/informace-o-fondech
+EGGER,P. a kol., 2013. Regional transfers in Europe: Do we need fewer of them or different
+ones?
+
+In
+
+cepr.org
+
+[online].
+
+[Cit.
+
+2024-05-01]
+
+Dostupné
+
+online:https://cepr.org/voxeu/columns/regional-transfers-europe-do-we-need-fewer-themor-different-ones
+EU PROJEKTY, 2024. Programovacie obdobie 2014-2020. In euprojekty.sk[online]. [Cit.
+2024-04-25] Dostupné online: https://www.euprojekty.sk/operacne-programy-2014-2020/
+EUROPEAN COMMISSION, 2016. HDP na regionálnej úrovni. In ec.europa.eu eu
+[online]. [Cit. 2024-04-25].
+
+Dostupné online: https://ec.europa.eu/eurostat/statistics-
+
+explained/index.php?title=Archive:HDP_na_regionálnej_úrovni
+EUROPEAN COMMISSION, 2022. The RHOMOLO impact assessment of the 2014-2020
+cohesion policy in the EU regions. In ec.europa.eu [online]. [Cit. 2024-05-01] Dostupné
+online:
+
+https://ec.europa.eu/regional_policy/information-sources/publications/working-
+
+papers/2022/the-rhomolo-impact-assessment-of-the-2014-2020-cohesion-policy-in-the-euregions_en
+EUROPEAN COMMISSION, 2024. Erasmus +. In. erasmus-plus.ec.europa.eu [online].
+[Cit.
+
+2024-01-10].
+
+Dostupné
+
+50
+
+online:
+
+https://erasmus-
+
+plus.ec.europa.eu/sk/opportunities/opportunities-for-individuals/staff-teaching/schooleducation-staff-teaching
+European commission, 2024. Higher education initiatives. In education.ec.europa.eu
+[online]. [Cit. 2024-01-10].
+
+Dostupné online: https://education.ec.europa.eu/education-
+
+levels/higher-education/about-higher-education
+EUROPEAN COURT OF AUDITORS, 2022. Cohesion policy – Where has it come from?
+Where is it going? In medium.com [online]. [Cit. 2024-04-25] Dostupné online:
+https://euauditors.medium.com/cohesion-policy-where-has-it-come-from-where-is-itgoing-79aa681dd583
+EUROPEAN UNIVERSITIES ASSOCIATON, 2020. Building synergies between
+education, research and innovation by aligning the EU funding programmes. In eua.eu
+[online].
+
+[Cit.
+
+2024-06-28]
+
+Dostupné
+
+online:
+
+https://eua.eu/downloads/publications/policy%20input_synergies%20paper%20.pdf
+European University Association, 2024. Who we are. In eua.eu [online]. [Cit. 2024-01-10].
+Dostupné online: https://eua.eu/about/who-we-are.html
+EURÓPSKA KOMISIA, 2024. Kohesio: Prijímatelia. In kohesio.ec.europa.eu. [online]. .
+[Cit. 2024-04-25]. Dostupné online: https://kohesio.ec.europa.eu/sk/prijimatelia
+FINANCOVANIE VYSOKOŠKOLSKÉHO VZDELÁVANIA, 2023. Financovanie
+vysokoškolského vzdelávania. In eurydice.eacea.ec.europa.eu [online]. [Cit. 2024-01-10].
+Dostupné online: https://eurydice.eacea.ec.europa.eu/sk/national-educationsystems/slovakia/financovanie-vysokoskolskeho-vzdelavania
+FONSECA,L. NIETH,L., 2021. The role of universities in regional development strategies:
+A comparison across actors and policy stages. In journals.sagepub.com [online]. [Cit.
+2024-01-10]. Dostupné online:
+https://journals.sagepub.com/doi/full/10.1177/0969776421999743
+GUNASEKARA, C. 2006. Reframing the role of Universities in the Development of
+Regional Innovation Systems. In The Journal of Technology Transfer 31, 101-113 [Cit.
+2024-04-20]. Dostupné online: https://www.proquest.com/scholarly-journals/reframingrole-universities-development-regional/docview/203627750/se-2?accountid=59680
+HANOVÁ, M, a kol., 2016. Posilnenie úlohy vysokých škôl v regiónoch. In minedu.sk
+[online]. [Cit. 2024-04-20]. Dostupné online:
+https://www.minedu.sk/data/att/dc8/10143.b07fec.pdf
+51
+
+CHIRIKOV, I., 2013. Research universities as knowledge networks: the role of
+institutional reasearch. In tandfonline.com [online]. [Cit. 2024-01-10]. Dostupné online:
+https://www.tandfonline.com/doi/abs/10.1080/03075079.2013.773778
+INQB, 2024. Kto sme. In inqb.sk [online]. [Cit. 2024-01-10].
+
+Dostupné online:
+
+https://www.inqb.sk/sk/o-nas/kto-sme
+JAGÓDKA, M., SNARSKA, M. ,2022. Should we continue EU Cohesion Policy? The
+Dilemma of Uneven Development of Polish Regions. In springer.com [online]. [Cit. 202405-01] Dostupné online: https://link.springer.com/article/10.1007/s11205-022-03048-8
+LEYDERSDORF, L., 2021. The Evolutionary Dynamics of Discursive Knowledge:
+Communication-Theoretical Perspectives on an Empirical Philosophy of Science. In
+springer.com [online]. [Cit. 2024-06-27]. Dostupné online:
+http://ersearch.cvtisr.sk/permalink/f/15b0jje/TN_cdi_askewsholts_vlebooks_97830305995
+15
+MARGINSON, S., 2014. Higher education and public good. In springer.com [online]. [Cit.
+2024-01-10]. Dostupné online: https://link.springer.com/chapter/10.1007/978-94-6209746-9_5
+MARGINSON, S., 2014. Higher education and public good. In springer.com [online].
+[Cit. 2024-01-10]. Dostupné online: https://link.springer.com/chapter/10.1007/978-946209-746-9_5
+MARSHALL, S. J., 2018. Shaping the university of the future. In thuvienso.hoasen.edu.vn
+[online]. [Cit. 2024-01-10]. Dostupné online:
+https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/8308/Contents.pdf?sequence
+=4
+MATEMATICKO-FYZIKÁLNÍ FAKULTA UNIVERZITA KARLOVA, 2024. Operační
+program Výzkum, vývoj a vzdělávání. In mff.cuni.cz [online]. [Cit. 2024-05-01] Dostupné
+online: https://www.mff.cuni.cz/cs/ogap/projekty-op-vvv
+MINISTERSTVO DOPRAVY SLOVENSKEJ REPUBLIKY, 2019. Európska komisia
+schválila zlúčenie operačných programov. In opii.gov.sk [online]. [Cit. 2024-06-14]
+Dostupné
+
+online:
+
+https://www.opii.gov.sk/tlacove-spravy/europska-komisia-schvalila-
+
+zlucenie-operacnych-programov
+
+52
+
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY, 2024. Politika súdržnosti EÚ. In mirri.gov.sk [online]. [Cit.
+2024-04-25]. Dostupné online: https://mirri.gov.sk/sekcie/cko/politika-sudrznosti-eu/
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY, 2014. Úvod do politiky súdržnosti. In mirri.gov.sk [online].
+[Cit. 2024-04-25] Dostupné online: https://mirri.gov.sk/wpcontent/uploads/2018/11/basic_2014_sk.pdf
+MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ
+REPUBLIKY, 2024. Vedecká grantová agentúra MŠVVaŠ SR a SAV (VEGA). In minedu.sk
+[online]. [Cit. 2024-01-10]. Dostupné online: https://www.minedu.sk/vedecka-grantovaagentura-msvvas-sr-a-sav-vega/
+MINISTERSTVO
+
+ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU
+
+SLOVENSKEJ
+
+REPUBLIKY, 2024. Operačný program ľudské zdroje. In minedu.sk [online]. [Cit. 202406-14] Dostupné online: https://www.minedu.sk/operacny-program-ludske-zdroje/
+MINISTERSTVO VNÚTRA SR, 2024. Operačný program výskum a inovácie 2014-2020.
+In minv.sk [online]. [Cit. 2024-05-01] Dostupné online: https://www.minv.sk/?operacnyprogram-vyskum-a-inovacie
+MIŠÚNOVÁ,E. KOREC,P., 2019. Univerzity ako aktér regionálneho rozvoja: Teoretické
+poznámky. In actageographica.sk [online]. [Cit. 2024-01-10]. Dostupné online:
+http://www.actageographica.sk/stiahnutie/63_2_04_Misunova_Korec.pdf
+National
+
+academies,
+
+2024.
+
+nationalacademies.org
+
+About
+
+[online].
+
+U.S.
+[Cit.
+
+Science
+
+and
+
+2024-01-10].
+
+Innovation
+
+Policy.
+
+Dostupné
+
+In
+
+online:
+
+https://www.nationalacademies.org/us-science-and-innovation-policy/about
+OECD, 2024. Higher education policy. In oecd.org [online]. [Cit. 2024-01-10]. Dostupné
+online: https://www.oecd.org/education/higher-education-policy/
+OLIVE, V, 2017. How much is too much? Cross-subsidies from teaching to research in
+British universities. In hepi.ac.uk [online]. [Cit. 2024-06-28] Dostupné online:
+https://www.hepi.ac.uk/wp-content/uploads/2017/11/HEPI-How-much-is-too-muchReport-100-FINAL.pdf
+PARTNERSKÁ DOHODA, 2015. Operačné programy. In partnerskadohoda.gov.sk
+[online].
+
+[Cit.
+
+2024-04-25]
+
+https://www.partnerskadohoda.gov.sk/operacne-programy/
+53
+
+Dostupné
+
+online:
+
+PARTNERSKÁ DOHODA, 2015. Operačný program Ľudské zdroje na programové
+obdobie 2014-2020. In partnerskadohoda.gov.sk [online]. [Cit. 2024-04-25] Dostupné
+online:
+
+https://www.partnerskadohoda.gov.sk/operacny-program-ludske-
+
+zdoje/?csrt=5912338602438703240
+SALOMAA, M., CHARLES, D., 2021. The University third mission and the European
+Structural Funds in peripheral regions: Insights from Finland. In Science and Public Policy,
+Volume
+
+48,
+
+352-363.
+
+[Cit.
+
+2024-04-20].
+
+Dostupné
+
+online:
+
+https://academic.oup.com/spp/article/48/3/352/6126876
+TALBERT, P. Y., 2012. Strategies to Increase Enrollment, Retention, and Graduation rates.
+In
+
+eric.ed.gov
+
+[online].
+
+[Cit.
+
+2024-06-28]
+
+Dostupné
+
+online:
+
+https://files.eric.ed.gov/fulltext/EJ1035683.pdf
+UN ENVIRONMENT PROGRAMME, 2024. What we do. In unep.org [online]. [Cit. 202401-10].
+
+Dostupné
+
+online:
+
+https://www.unep.org/explore-topics/education-
+
+environment/what-we-do/our-offer
+VALERO, A. VAN REENEN, J., 2018. The economic impact of universities: Evidence
+from across the globe. In sciencedirect.com [online]. [Cit. 2024-01-10]. Dostupné online:
+https://www.sciencedirect.com/science/article/pii/S0272775718300414
+VÝSKUMNÁ AGENTÚRA, 2019. Operačný program Výskum a inovácie / Operačný
+program integrovaná infraštruktúra. In vyskumnaagentura.sk [online]. [Cit. 2024-06-14]
+Dostupné
+
+online:
+
+https://www.vyskumnaagentura.sk/index.php?option=com_content&view=article&id=41&
+Itemid=299&lang=sk
+Zákon 131/2002 Z.z. o vysokých školách a o zmene doplnení niektorých zákonov
+Zákon č. 111/1998 Sb. o vysokých školách a o změně a doplnění dalších zákonů
+
+54
+
+Prílohy
+Príloha č. 1: Výzvy v OP Ľudské zdroje s prijímateľom VŠ
+Výzvy z OP Ľudské zdroje s oprávneným žiadateľom - VŠ
+Podpora vnútorných systémov zabezpečovania kvality vysokoškolského vzdelávania
+OPLZ-PO1/2021/DOP/1.3.1-01
+Skvalitnenie prípravy budúcich pedagogických a odborných zamestnancov - OPLZPO1/2019/DOP/1.3.1-01
+NedisKVALIFIKUJ SA! OPLZ-PO1/2016/DOP/1.4.1-01
+Príloha 1 Výzvy v OP Ľudské zdroje s prijímateľom VŠ Zdroj: Vlastné spracovanie na základe vyžiadaných údajov
+
+55
+
+Príloha č. 2: Výzvy v OP Výskum a inovácie/OP Integrovaná
+infraštruktúra s prijímateľom VŠ
+Výzvy z OP Výskum a Inovácie/OP Integrovaná infraštruktúra s oprávneným
+žiadateľom - VŠ
+OPII-VA/DP/2020/9.2-01
+OPII-VA/DP/2020/9.4-01
+OPII-VA/DP/2021/10.1-01
+OPII-VA/DP/2021/9.3-01
+OPVaI-RO/VP/2018/2.1.1-06
+OPVaI-VA/DP/2016/1.1.3-02
+OPVaI-VA/DP/2016/2.1.1-02
+OPVaI-VA/DP/2018/1.1.2-01
+OPVaI-VA/DP/2018/1.1.3-04
+OPVaI-VA/DP/2018/1.1.3-05
+OPVaI-VA/DP/2018/1.1.3-06
+OPVaI-VA/DP/2018/1.1.3-07
+OPVaI-VA/DP/2018/1.1.3-08
+OPVaI-VA/DP/2018/1.1.3-09
+OPVaI-VA/DP/2018/1.1.3-10
+OPVaI-VA/DP/2018/1.2.1-04
+OPVaI-VA/DP/2018/1.2.1-06
+OPVaI-VA/DP/2018/1.2.1-08
+OPVaI-VA/DP/2018/2.1.1-05
+OPVaI-VA/DP/2018/2.2.1-01
+Príloha 2 Výzvy v OP Výskum a inovácie/OP Integrovaná infraštruktúra s prijímateľom VŠ Zdroj: Vlastné
+spracovanie na základe vyžiadaných údajov
+
+56
+
+Príloha č. 3 Výzvy v OP Výzkum, vývoj, vzdělávaní s prijímateľom
+VŠ
+Výzvy z OP Výzkum, vývoj, vzdělávaní s oprávneným žiadateľom - VŠ
+Výzva č. 02_19_076 Inovace v pedagogice
+Výzva č. 02_19_073: Zvyšování kvality interních grantových schémat na VŠ
+Výzva 02_20_079: Mezinárodní mobilita výzkumných pracovníků - MSCA-IF IV
+Výzva
+
+č.
+
+02_18_053
+
+:
+
+Mezinárodní
+
+mobilita
+
+výzkumných,
+
+technických
+
+a
+
+administrativních pracovníků výzkumných organizací
+Výzva č. 2_16_024: Strategické řízení výzkumu, vývoje a inovací na národní úrovni
+II(EFRR)
+Výzva č. 02_19_074 Mezinárodní mobikita výzkumných pracovníkú
+Výzva č. 02_19_068 Pregraduální vzdelávaní II
+Výzva č. 02_18_054 Rozvoj kapacit pro výzkum a vývoj II
+Výzva č. č. 02_18_046 Výzkumné infrastruktury II (EFRR)
+Výzva č. 02_18_072 Výzkumné e-infrastruktury (EFRR)
+Výzva č. 02_18_056 Výzva pro vysoké školy II
+Výzva č. 02_18_057 EFRR výzva pro vysoké školy II
+Výzva č. 02_16_031 Celoživotní vzdělávání na vysokých školách
+Výzva č. . 02_18_070 - Mezinárodní mobilita výzkumných pracovníků MSCA IF II
+Výzva č. 02_18_069 - Předaplikační výzkum pro ITI II (EFRR)
+Výzva č. 02_18_058 - ESF výzva pro vysoké školy - Strukturálně postižené regiony
+Výzva č. 02_18_059 - ERDF výzva pro vysoké školy – Strukturálně postižené regiony
+Výzva č. 02_17_043- Teaming II (EFRR)
+Výzva č. 02_17_044 Podpora rozvoje studijního prostředí na VŠ
+Výzva č. č. 02_17_049: Dlouhodobá mezisektorová spolupráce pro ITI(EFRR)
+Výzva č. 02_16_026 - Dlouhodobá mezisektorová spolupráce (EFRR)
+Výzva č.02_17_050 Mezinárodní mobilita výzkumných pracovníků – MSCA-IF
+Výzva č. 02_16_027 - Mezinárodní mobilita výzkumných pracovníků
+Výzva č. 02_16_032 Budování kapacit pro rozvoj škol II
+Výzva č. 02_17_048 Předaplikační výzkum pro ITI ( EFRR)
+Výzva č. 02_16_025 - Předaplikační výzkum (EFRR)
+Výzva č. 02_16_038 - Pregraduální vzdělávání
+
+57
+
+Výzva č. Výzva č. 02_16_028 - Rozvoj kapacit pro výzkum a vývoj
+Výzva č. 02_16_036 - Implementace strategie digitálního vzdělávání I
+Výzva č. 02_16_040 - Strategické řízení VaVaI na národní úrovni I
+Výzva č. 02_16_021 - Inkluzivní vzdělávání pro KPSVL
+Výzva č. 02_16_019 - Excelentní výzkum (EFRR)
+Výzva č. 02_16_017 - Výzkumné infrastruktury pro vzdělávací účely – budování či
+modernizace (EFRR)
+Výzva č. 02_16_016 Výzva pre vysoké školy (EFRR)
+Výzva pre vysoké školy č. 02_16_015
+Výzva č. 02_16_018 - Rozvoj výzkumně zaměřených studijních programů
+Výzva č. 02_16_014 - Budování expertních kapacit – transfer technologií
+Výzva č. 02_16_013 - Výzkumné infrastruktury (EFRR)
+Výzva č. 02_16_011 - Rozvoj klíčových kompetencí v rámci oborových didaktik,
+průřezových témat a mezipředmětových vztahů
+Výzva č. 02_15_006 – Teaming (EFRR)
+Výzva č. 02_15_008 Fázované projekty ( EFRR)
+Výzva č. 02_15_003 - Podpora excelentných výskumných tímov (EFRR)
+Príloha 3 Výzvy v OP Výzkum, vývoj, vzdělávaní s prijímateľom VŠ Zdroj: Vlastné spracovanie na základe
+vyžiadaných údajov
+
+58
+
+Príloha č. 4: Prehľad prijímateľov zo zdrojov Politiky súdržnosti SR
+Poradie Názov prijímateľa
+
+Príspevok z EÚ v
+Počet
+EUR
+projektov
+57 480 648
+
+1.
+
+Slovenská technická univerzita
+
+2.
+
+Žilinská univerzita v Žiline
+
+52 856 276
+
+3.
+
+Univerzita Komenského v Bratislave
+
+27 167 940
+
+4.
+
+Univerzita Pavla Jozefa Šafárika v
+Košiciach
+Technická univerzita v Košiciach
+
+26 657 372
+
+18 004 128
+
+9.
+
+Trenčianska univerzita Alexandra
+Dubčeka v Trenčíne
+Akadémia ozbrojených síl generála
+Milana Rastislava Štefánika
+Slovenská poľnohospodárska
+univerzita v Nitre
+Technická univerzita vo Zvolene
+
+10.
+
+Prešovská univerzita v Prešove
+
+5 963 842
+
+11.
+
+Univerzita veterinárneho lekárstva a
+farmácie v Košiciach
+Univerzita Mateja Bela v Banskej
+Bystrici
+Univerzita Konštatína Filozofa v Nitre
+
+5 025 115
+
+18
+34
+19
+
+5.
+
+12
+19 905 180
+16
+
+6.
+7.
+8.
+
+6
+13 918 959
+10
+8 508 578
+11
+6 903 834
+5
+11
+
+12.
+13.
+
+6
+4 009 461
+6
+2 905 617
+4
+
+14.
+15.
+
+Univerzita sv. Cyrila a Metoda v
+Trnave
+Univerzita J. Selyeho
+
+2 505 495
+5
+1 368 602
+3
+
+16.
+
+Katolícka univerzita v Ružomberku
+
+401 385
+2
+
+SPOLU
+
+253 582 432
+168
+
+Príloha 4 Prehľad prijímateľov zo zdrojov Politiky súdržnosti - SR Zdroj: Vlastné spracovanie z databázy
+Európskej komisie
+
+59
+
+Príloha č. 5: Prehľad prijímateľov zo zdrojov Politiky súdržnosti ČR
+Poradie Názov prijímateľa
+
+Príspevok z Počet
+EÚ
+projektov
+248 255 429
+
+1.
+
+Univerzita Karlova
+
+2.
+
+České vysoké učení technické v Praze
+
+196 078 675
+
+3.
+
+Masarykova univerzita
+
+183 088 008
+
+4.
+
+Univerzita Palackého
+
+132 398 708
+
+5.
+
+108 344 264
+
+6.
+
+Vysoká škola báňská - Technická univerzita
+Ostrava
+Česká poľnohospodárska univerzita v Prahe
+
+7.
+
+Ostravská univerzita
+
+81 875 078
+
+8.
+
+77 193 403
+
+9.
+
+Univerzita Jana Evangelisty Purkyně v Ústí
+nad Labem
+Západočeská univerzita v Plzni
+
+10.
+
+Jihočeská univerzita v Českých Budějovicích
+
+44 915 993
+
+11.
+
+Technická univerzita v Liberci
+
+42 050 071
+
+107
+91
+51
+83
+53
+84 582 781
+35
+29
+26
+60 273 804
+41
+40
+26
+12.
+
+Mendelova Univerzita v Brne
+
+40 662 989
+15
+
+13.
+
+Vyoká škola chemicko-technologická v Praze
+
+34 561 766
+26
+
+14.
+
+Univerzita Pardubice
+
+34 439 747
+19
+
+15.
+
+Univerzita Tomáše Bati ve Zlíně
+
+27 935 249
+17
+
+16.
+
+Slezská univerzita v Opavě
+
+26 344 810
+17
+
+17.
+
+Univerzita Hradec Králové
+
+24 646 725
+15
+
+18.
+
+Janáčkova akademie múzických umění
+
+9 259 085
+5
+
+19.
+
+Akademie výtvarných umění v Praze
+
+3 583 598
+5
+
+20.
+
+Univerzita obrany
+
+3 575 223
+24
+
+21.
+
+Vysoká škola uměleckoprúmyslová v Praze
+
+1 062 294
+4
+
+22.
+
+Metropolitní univerzita Praha
+
+359 559
+3
+60
+
+23.
+
+Univerzita Jana Amose Komenského Praha
+
+304 081
+
+24.
+
+Panevropská univerzita, a.s.
+
+139 628
+
+25.
+
+Veterinární univerzita Brno
+
+31 680
+
+1
+2
+2
+SPOLU
+
+1 465 962 649
+737
+
+Príloha 5 Prehľad prijímateľov zo zdrojov Politiky súdržnosti - ČR Zdroj: Vlastné spracovanie z databázy
+Európskej komisie
+
+61
+
+

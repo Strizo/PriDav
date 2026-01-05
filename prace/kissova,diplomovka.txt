@@ -1,0 +1,2129 @@
+TRNAVSKÁ UNIVERZITA V TRNAVE
+PEDAGOGICKÁ FAKULTA
+
+VPLYV PAMÄTE A POZORNOSTI NA ČÍTANIE S POROZUMENÍM U DETÍ
+V PRVOM ROČNÍKU ZŠ
+
+Diplomová práca
+
+2024
+Dominika Kiššová, Bc.
+
+TRNAVSKÁ UNIVERZITA V TRNAVE
+PEDAGOGICKÁ FAKULTA
+
+VPLYV PAMÄTE A POZORNOSTI NA ČÍTANIE S POROZUMENÍM U DETÍ
+V PRVOM ROČNÍKU ZŠ
+
+Diplomová práca
+
+Študijný program:
+
+Učiteľstvo pre primárne vzdelávanie
+
+Školiace pracovisko:
+
+Katedra školskej pedagogiky
+
+Študijný odbor:
+
+Učiteľstvo a pedagogické vedy
+
+Vedúci práce / školiteľ:
+
+Mgr. Kamila Urban, PhD.
+
+Konzultant:
+
+Trnava 2024
+Bc. Dominika Kiššová
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že diplomovú prácu som vypracovala samostatne a že som
+uviedla všetku použitú literatúru.
+
+Dátum:
+
+...............................................
+Bc. Dominika Kiššová
+
+ABSTRAKT
+KIŠŠOVÁ, Dominika: Vplyv pamäte a pozornosti na čítanie s porozumením u detí
+v prvom ročníku ZŠ. [Diplomová práca]. Trnavská univerzita v Trnave. Pedagogická
+fakulta. Katedra školskej pedagogiky. Vedúca práce: Mgr. Kamila Urban, PhD. Stupeň
+odbornej kvalifikácie: Magister (Mgr.) – Trnava: Pedagogická fakulta TU, 2024.
+
+Diplomová práca je zameraná na sledovanie vplyvu pamäte a pozornosti na čítanie
+s porozumením u žiakov prvého ročníka základnej školy. V teoretickej časti práce sme sa
+zamerali na poznatky ohľadom pozornosti, pamäte a ich vzťahom medzi sebou. Pamäť a
+pozornosť spolu úzko súvisia a majú vplyv na explicitné porozumenie pri čítaní. V praktickej
+časti práce sme testovali 30 žiakov prvého ročníka z troch rôznych tried jednej základnej
+školy. Testovali sme samostatne počúvanie s porozumením a krátkodobú pamäť a
+pozornosť. Z výsledkov vyplynulo, že korelačný vzťah medzi pamäťou a pozornosťou
+a počúvaním s porozumením nie je významný (p=0.19) v danom kontexte, a že medzi nimi
+existuje slabý korelačný vzťah (r=0,25). Na základe t-testu sme preukázali, že žiaci boli
+úspešnejší v explicitnom porozumení ako v implicitnom. Taktiež sme zistili silný korelačný
+vzťah (r=0,77) medzi metakognitívnou presnosťou a správnosťou označenia žiakmi v
+dynamickej aplikácii. Do budúcna by sme odporučili testovať väčšiu vzorku žiakov, ktorá
+by zabezpečila presnejšie výsledky a opätovné testovanie tej istej vzorky na začiatku
+školského roka a na konci.
+Kľúčové slová: čítanie s porozumením, počúvanie s porozumením, pamäť, pozornosť,
+porozumenie, prvý ročník základnej školy
+
+ABSTRACT
+KIŠŠOVÁ, Dominika: The impact of memory and attention on reading comprehension in
+first grade primary school Children. [Diploma Thesis]. University of Trnava. Faculty of
+Pedagogy. Department of school pedagogy. Supervisor: Mgr. Kamila Urban, PhD. Degree
+of Professional Qualification: Masters (Mgr.) – Trnava: Faculty of Pedagogy, 2024.
+
+The diploma thesis is focused on monitoring the influence of memory and attention on
+reading comprehension in pupils of the first year of primary school. In the theoretical part of
+the thesis, we focused on knowledge about attention, memory and their relationship with
+each other. Memory and attention are closely related and have an impact on explicit reading
+comprehension. In the practical part of the thesis, we tested 30 first-year pupils from three
+different classes of one primary school. We tested listening comprehension and short-term
+memory and attention separately. The results showed that the correlation relationship
+between memory and attention is not significant (p=0.19) in the given context, and that there
+is a weak correlation relationship (r=0.25). Based on the t-test, we demonstrated that students
+were more successful in explicit comprehension than in implicit comprehension. We also
+found a strong correlational relationship (r = 0.77) between metacognitive accuracy and the
+correctness of students' labeling in the dynamic application. In the future, we would
+recommend testing a larger sample of pupils to ensure more accurate results and re-testing
+of the same sample at the beginning of the school year and at the end.
+Key words: reading comprehension, listening comprehension, memory, attention,
+understanding, first grade of primary school
+
+POĎAKOVANIE
+Touto cestou by som sa chcela poďakovať vedúcej diplomovej práce Mgr. Kamile Urban,
+PhD za cenné rady, odborné vedenie a za jej podporu, ochotu, spätnú väzbu a pomoc pri
+písaní a spracovaní záverečnej práce.
+Zároveň si dovolím poďakovať aj vedeniu základnej školy, pani učiteľkám, rodičom, ktorí
+umožnili priestor žiakom, aby sa podieľali na výskume.
+
+Obsah
+ÚVOD .................................................................................................................................... 9
+1.
+
+PAMÄŤ A POZORNOSŤ ......................................................................................... 11
+1.1.
+
+SENZORICKÝ REGISTER ......................................................................................... 11
+
+1.2.
+
+KRÁTKODOBÁ PAMÄŤ ........................................................................................... 12
+
+1.2.1. Pozornosť a vzťah s krátkodobou pamäťou ....................................................... 12
+
+2.
+
+1.3.
+
+PROSTREDNÁ FÁZA ............................................................................................... 14
+
+1.4.
+
+DLHODOBÁ PAMÄŤ ............................................................................................... 14
+
+JAZYKOVÉ KOMPETENCIE ................................................................................ 17
+2.1.
+
+POČÚVANIE S POROZUMENÍM ................................................................................ 19
+
+2.2.
+
+ČÍTANIE S POROZUMENÍM...................................................................................... 21
+
+2.2.1. Metódy využívané pri čítaní s porozumením .................................................... 23
+2.3.
+
+POROZUMENIE TEXTU ........................................................................................... 25
+
+2.3.1. Viacúrovňové porozumenie podľa PILRS ........................................................ 26
+2.3.2. Chyby pri porozumení textu ............................................................................. 28
+2.4.
+
+METAKOGNÍCIA .................................................................................................... 31
+
+3.
+
+VÝSKUMY SÚVISIACE S TÉMOU DIPLOMOVEJ PRÁCE ............................ 34
+
+4.
+
+CIELE A METÓDY VÝSKUMU ............................................................................. 36
+
+5.
+
+METODIKA VÝSKUMU ......................................................................................... 37
+
+6.
+
+5.1.
+
+PARTICIPANTI ........................................................................................................ 37
+
+5.2.
+
+METÓDY VÝSKUMU............................................................................................... 37
+
+5.3.
+
+POSTUP ................................................................................................................. 38
+
+VÝSLEDKY ............................................................................................................... 41
+6.1.
+
+VZŤAH MEDZI PAMÄŤOU A POZORNOSŤOU A POČÚVANÍM S POROZUMENÍM .......... 41
+
+6.2.
+
+VZŤAH MEDZI PAMÄŤOU A POZORNOSŤOU S EXPLICITNÝM POČÚVANÍM
+
+S POROZUMENÍM ............................................................................................................... 42
+
+7.
+
+DISKUSIA .................................................................................................................. 49
+
+ZÁVER ............................................................................................................................... 53
+ZOZNAM POUŽITEJ LITERATÚRY ........................................................................... 55
+
+ZOZNAM TABULIEK
+Tabuľka 1: Korelačný vzťah medzi pamäťou a pozornosťou a počúvaním s porozumením
+............................................................................................................................................. 41
+Tabuľka 2: Korelačný vzťah medzi pamäťou a pozornosťou a explicitným počúvaním s
+porozumením ....................................................................................................................... 43
+Tabuľka 3: Korelačný vzťah medzi pamäťou a pozornosťou a Implicitným počúvaním s
+porozumením ....................................................................................................................... 44
+Tabuľka 4: Korelačný vzťah medzi metakognitívnou presnosťou a správnosťou označenia
+............................................................................................................................................. 45
+Tabuľka 5: Párová t-test priemeru explicitného a implicitného porozumenia ..................... 50
+ZOZNAM GRAFOV
+Graf 1: Zobrazenie pamäti a pozornosti v porovnaní s percentuálnym porozumením ........ 42
+Graf 2: Znázornenie korelačných vzťahov medzi pamäťou a pozornosťou a explicitným
+zobrazením ........................................................................................................................... 43
+Graf 3: Vyjadrenie korelačného vzťahu medzi pamäťou a pozornosťou a implicitným
+porozumením ....................................................................................................................... 44
+Graf 4: Grafické zobrazenie korelačného vzťahu medzi metakognitívnou presnosťou a
+správnosťou označenia ........................................................................................................ 46
+Graf 5: Porovnanie metakognitívnej presnosti a správnosti jednotlivých žiakov ............... 46
+Graf 6: Známky, ktoré by žiaci získali za správnosť v porovnaní s metakognitívnou
+presnosťou ........................................................................................................................... 47
+Graf 7: Grafické znázornenie párového t-testu priemeru explicitného a implicitného
+porozumenia......................................................................................................................... 51
+
+ÚVOD
+Témou diplomovej práce je vplyv krátkodobej pamäte a pozornosti na čítanie
+s porozumením u žiakov prvého ročníka základnej školy. Pri každodennom kontakte s deťmi
+sa stretávame s touto problematikou. U žiakov pozorujeme problémy s porozumením textu
+počas počúvania s porozumením, ale aj pri čítaní s porozumením. Často sme sa ocitli
+v situácii, že sme žiakom prečítali text, počas ktorého sme im kládli explicitné a aj implicitné
+otázky a prekvapujúce bolo pre nás, že neboli schopní spätnej väzby. Taktiež pozorujeme
+problém pri zapamätaní si základných pokynov po zadaní učiteľom, učiteľkou alebo
+vychovávateľkou, kedy po pokyne prichádza vzápätí otázka či majú danú inštrukciu urobiť.
+Napr. „Deti nastúpte si, ideme von.“ Po tomto pokyne sa niektorí žiaci spýtajú vyučujúceho
+„A pôjdeme von?“. Na základe týchto skúseností nás zaujíma, že či ide o nepozornosť
+žiakov a slabé pamäťové schopnosti, a či práve tieto aspekty vplývajú aj na neschopnosť
+adekvátne reagovať na otázky pred, počas a po počúvaní alebo čítaní textu.
+V prvej kapitole sa zameriame na pamäť a pozornosť. Pamäti, pozornosti a jej
+fungovaniu sa venovalo viacero autorov. Medzi jedných z najznámejších sú Atkinson
+a Schiffrin (1968), ktorí stoja za unikátnym modelom pamäti alebo neskôr Baddeley
+a Hitch.(1974), pôsobili v oblasti kognitívnej psychológie a podieľali sa na skúmaní
+a zavedení pojmu pracovná pamäť (Hodáková, 2021).
+V našej práci si zadefinujeme pojmy, ako sú senzomotorický register, krátkodobá pamäť,
+dlhodobá pamäť a prenosu informácií medzi nimi a ich uchovávaniu. Okrem toho sa budeme
+venovať aj pozornosti a jednotlivým charakteristikám, ktoré sú pre ňu príznačné.
+Druhá kapitola sa bude venovať jazykovým kompetenciám. V krátkosti popíšeme
+gramotnosť, porozumenie, počúvanie a čítanie s porozumením. Taktiež ozrejmíme
+testovanie čitateľskej gramotnosti žiakov viacúrovňovým testom PIRLS, ktorý sa realizuje
+u deväť až desať ročných žiakov. V neposlednom rade priblížime problematiku porozumenia
+textu a definujeme metakogníciu. Poukážeme aj na chyby, ktoré môžu ovplyvňovať výkony
+žiakov počas vyučovacích hodín. Získané teoretické informácie nám poskytnú podklady pre
+výskumnú časť diplomovej práce.
+V praktickej časti sa začneme venovať výskumu, kde popíšeme metodiku výskumu.
+Upriamime našu pozornosť na skúmanie vplyvu pamäte a pozornosti na čítanie
+s porozumením u žiakov prvého ročníka základnej školy. Pamäť a pozornosť budeme merať
+dynamickou úlohou na počítači a čítanie, resp. počúvanie s porozumením budeme skúmať
+otázkami explicitného a implicitného charakteru k počúvanému textu.
+9
+
+Výsledky budeme interpretovať v štvrtej kapitole našej práce. Budeme sa snažiť zistiť,
+či pamäť a pozornosť ovplyvňujú explicitné porozumenie počutého či čítaného textu, avšak
+že implicitné porozumenie nesúvisí s kapacitou pamäte a pozornosti.
+
+10
+
+1. PAMÄŤ A POZORNOSŤ
+Pamäť a pozornosť spolu úzko súvisia a jedno bez druhého nemôže existovať.
+Z mnohých definícií pamäti môžeme pamäť charakterizovať ako „psychický proces odrazu
+predtým vnímanej skutočnosti vo vedomí človeka. Spočíva v zapamätaní si vnímaného, t. j.
+vštepení do pamäti, v podržaní v pamäti istý časový úsek a potom vo vybavení, teda
+v opätovnom premietnutí vnímaného do vedomia.“ (Kačáni a kol., 2004, s. 51).
+Pri štúdii pamäťových javov sa zistilo, že je nevyhnutné skúmať dĺžku uloženia informácie,
+t. j. merať čas, ktorý uplynie od vštepenia až po jej vybavenie. Väčšina odborníkov uvádza,
+existenciu troch typov pamäti: senzorického registra, krátkodobej a dlhodobej pamäti.
+(Ruisel, 1994).
+
+1.1.
+
+Senzorický register
+
+Rozvoj poznávacích procesov prebieha na základe interakcie zrenia a učenia, vo
+vzájomnom vzťahu s ostatnými psychickými a telesnými faktormi. Psychomotorický vývoj
+je tesne spätý so zrením centrálnej nervovej sústavy, ktorý sa prejaví postupným nahradením
+subkortikálneho riadenia detského správania jeho kortikálnou kontrolou. S tým súvisí aj
+rozvoj mnohých potrebných, predovšetkým senzomotorických schopností a zručností.
+(Vágnerová, 2012).
+Počas počiatočného obdobia vývoja poznávacích procesov ide predovšetkým
+o rozvoj vnímania a manipulácie s vnímanými objektami. Na základe toho Piaget (in
+Vágnerová, 2012) pomenoval túto fázu rozvoja ako fázu senzomotorickej inteligencie.
+Blahutková a kol. (2017, str. 67) rozumejú pod pojmom ,,senzomotorika“ spojenie
+senzorického (zmyslového) vnímania orgánov – zraku , sluchu, hmatu, čuchu a chuti – a
+spoluprácu s oblasťou motoriky, teda koordináciou pohybu.
+Pre našu prácu je podstatné najmä senzorické vnímanie človeka, so zameraním na
+sluch a zrak, ktoré sú prepojené s čítaním a písaním s porozumením. S tým sa spája pojem
+senzorický register, ktorý predchádza krátkodobej pamäti. Ruisel (1994) hovorí
+o senzomotorickom registri ako o značne labilnom type pamäti. Ukladajú sa do nej
+informácie prijímané z vonkajšieho prostredia, pričom najčastejšie spomínaný je vizuálny
+podnet. Krátkodobé zotrvanie vizuálneho podnetu v zrakovom registri, inak nazývanom aj
+ikonická pamäť podlieha rýchlemu rozpadu. Vedci na základe meraní predpokladajú
+zotrvanie informácie v ikonickej pamäti na dobu niekoľko milisekúnd, avšak ovplyvňuje ho
+vplyv vonkajšieho prostredia (napr. osvetlenie). Informácie, ktoré subjekt nezabudol, to
+znamená, že sa udržali v senzorickom registri sa ďalej presúvajú do krátkodobej pamäti.
+11
+
+1.2. Krátkodobá pamäť
+Viacerí autori vo svojich publikáciách definujú krátkodobú pamäť aj ako „pracovnú
+pamäť“, pretože, ako uvádza Vágnerová (2014, s. 287), krátkodobá pamäť slúži k
+spracovaniu a udržaniu informácií, „ktoré sú potrebné k porozumeniu aktuálnej situácie, či
+k vyriešeniu nejakého problému v takej podobe, aby bolo dostupné a využiteľné k ďalším
+mentálnym úlohám.“ Udržanie informácie chápeme ako dobu, po ktorú si je jedinec schopný
+zapamätať podnet v krátkodobej pamäti. Ruisel (1987, s. 97) uvádza, že „Bez opakovania sa
+informácia rozpadá, často už do 15 sekúnd.“
+Pri štúdiu krátkodobej pamäti nerozlišujeme iba dĺžku, počas ktorej si človek dokáže
+zapamätať informáciu, ale aj kapacitu, čiže množstvo informácií, ktoré dokáže súčasne
+uchovať. Tento ukazovateľ sa mení aj na základe veku. Vágnerová (2014, s. 288) uvádza, že
+v mladšom školskom veku a strednom školskom veku plynule narastá i kapacita krátkodobej
+pamäti. Kapacitu krátkodobej pamäti je možné merať napríklad počtom zapamätaných
+náhodných čísiel. Avšak vedci zistili, že zmysluplnejším a presnejším ukazovateľom je
+použitie napríklad viet. Šesť až sedem ročné deti boli schopné si zapamätať 6 člennú vetu.
+Ako príklad skúmania rozsahu krátkodobej pamäti uviedol Ruisel (1994) výskum Jacobsa
+z roku 1887. Tento výskum sa stal časom aj súčasťou prvých inteligenčných testov. Na
+základe tohto výskumu Jacobs prišiel nielen na rozsah krátkodobej pamäti, ale aj na
+prepojenie rozsahu s inteligenciou osobnosti a pozornosťou, ktoré sa obe vekom a
+inteligenciou zvyšovali. V prípade, ak dochádza k príliš nízkemu rozsahu, je tam náznak
+zníženej inteligencie až mentálnej retardácie. Poruchy pozornosti môžu vplývať na nízky
+rozsah. Na druhej strane, pokiaľ badáme veľký rozsah spravidla to nepoukazuje na vysokú
+inteligenciu (Ruisel, 1994).
+
+1.2.1. Pozornosť a vzťah s krátkodobou pamäťou
+Pozornosť a krátkodobá pamäť sa u človeka rozvíjajú podobným spôsobom a vo vzájomnej
+interakcii, pričom kvalita pozornosti ovplyvňuje úroveň krátkodobej pamäti (Vágnerová,
+2014).
+Pozornosť, ako uvádza Chalupa (1981, in Štefanovič a kol., 1992, s. 77) „je psychický
+stav človeka, ktorý sa prejavuje v zameranosti a sústredenosti vedomia.“
+Pod pojmom zameranosť vedomia môžeme rozumieť predmet, na ktorý človek
+upriami svoju pozornosť a eliminuje ostatné predmety z jeho okolia. Tento predmet
+nazývame aj predmetom pozornosti. Sústredenosť vedomia alebo inak nazývaná aj intenzita
+pozornosti je označovaná miera aktivity našej psychickej činnosti. Pozornosť delíme do
+12
+
+dvoch skupín a to na neúmyselnú a úmyselnú. Neúmyselná pozornosť je taká, ktorá vzniká
+pôsobením vonkajších podnetov na človeka napríklad z dôvodu sily, veľkosti, kontrastnosti
+alebo zaujímavosti atď. Pri úmyselnej pozornosti jednotlivec upriamuje svoju pozornosť
+vlastným vedomím a úsilím na daný predmet (Štefanovič a kol., 1992).
+Lehenová (2012) uvádza taktiež vo svojej publikácii delenie pozornosti ako vedomej
+činnosti na úmyslenú a neúmyslenú a to nasledovne. Neúmyselná pozornosť sa vytvára a
+udržiava bez zámeru človeka. Aby sa podnet stal predmetom pozornosti, musí spĺňať určité
+podmienky: jeho intenzita, kontrast medzi podnetmi, prerušované pôsobenie podnetov, ich
+zmena alebo novosť, ako aj potreby a záujmy človeka. Úmyselná pozornosť je vedome
+zameraná a riadená, a vždy zahŕňa sprostredkovanie.
+Okrem druhov pozornosti vnímame pri jej štúdiu aj vlastnosti pozornosti a to sú:
+rozsah, stálosť, intenzita, prenášanie a rozdeľovanie. Rozsah pozornosti je závislý na
+stave nervového systému a od vonkajších podnetov. Chápeme ho ako množstvo podnetov,
+na ktoré je schopný sa jedinec v danom momente sústrediť. Stálosť pozornosti predstavuje
+dĺžku sústredenosti na jeden predmet a končí sa prerušením sústredenosti. O vysokom
+a nízkom stupni sústredenosti pojednáva intenzita pozornosti. Vedomé prenášanie
+sústredenosti žiaka z predmetu, či činnosti na druhú nazývame prenášanie pozornosti.
+Poslednou vlastnosťou je rozdeľovanie pozornosti. Táto vlastnosť spočíva v rozdelení
+pozornosti žiaka na dva alebo viaceré podnety súčasne. Kdežto ani jednému z podnetov
+nemôže byť venovaná intenzívna pozornosť (Kačáni a kol., 2004).
+Charakteristike vlastností pozornosti sa venovala aj Lehutová (2012), ktorá uviedla
+pri jednotlivých bodoch aj konkrétne časové či rozsahové údaje na základe meraní. Rozsah
+kapacity pozornosti, ktorý sa mení v súvislosti s vekom, hovorí, že žiak mladšieho školského
+veku je schopný upriamiť svoju pozornosť na 2 – 3 objekty, zatiaľ čo adolescent už na 3 – 4
+objekty a dospelý človek na 4 – 6 objektov súčasne. Intenzita alebo inak povedané napätie
+pozornosti sa člení na silnú intenzitu, ktorej predpokladom je silný záujem o daný objekt a
+dostatočná intenzita pôsobiaceho podnetu. Stálosť chápeme ako časovú dĺžku pozornosti.
+Predstavuje čas, počas ktorého sa pozornosť udrží na danom objekte. Najkratšie namerané
+časové hodnoty sú 0,3 sekundy a najdlhšie nameranou hodnotou je 8 sekúnd. Protikladom
+stálosti pozornosti je jej rozptýlenosť. Rozdelenie pozornosti je možné, pretože okrem
+hlavného ohniska vzruchu dochádza v iných častiach k iba čiastočnému útlmu, čo umožňuje
+súčasné zameranie sa na dva objekty. Prepojovanie je schopnosť rýchlo prejsť z jedného
+zamerania na iné, čo odráža flexibilitu pozornosti. Periodické oslabovanie alebo kolísanie
+pozornosti, ktoré sa strieda s opätovným zameraním na ten istý objekt, sa nazýva fluktuácia.
+13
+
+Počas vyučovacieho procesu môže dôjsť k narušeniu koncentrácie, alebo inak
+nazývanej sústredenosti, a tak sa žiak stáva roztržitým. To však môže mať dvojakú podobu:
+1. Nestálosť úmyselnej pozornosti, ktorá sa prejavuje vtedy, keď žiak nedokáže dlhší
+čas sústrediť svoju pozornosť na jeden objekt, pričom jeho pozornosť prechádza z
+jedného predmetu na druhý a v mozgovej kôre nie je prítomné silné ohnisko vzruchu.
+2. Hlboké sústredenie znamená vysokú intenzitu pozornosti a dlhodobé zameranie sa
+na konkrétny objekt.
+V oboch situáciách žiak do istej miery stráca kontrolu nad riadením svojej pozornosti,
+čo vedie k zníženej schopnosti orientovať sa v okolí. (Lehenová, 2012)
+
+1.3. Prostredná fáza
+Pred vstupom informácií z krátkodobej pamäte do dlhodobej prechádzajú informácie
+ešte takzvanou prostrednou fázou. Ide o biochemický proces a to ju odlišuje od prvej fázy.
+Zároveň tu môže dôjsť k výraznému ovplyvneniu tejto, ale aj nasledujúcej etapy rôznymi
+stratégiami a impulzmi. Medzi ne patrí:
+•
+
+Uzatváranie mentálnych prepojení – hovoríme o zoraďovaní slov podľa
+určitých charakteristických znakov.
+
+•
+
+Využitie zvukov a predstáv – sem zaraďujeme kľúčové slová a sémantické
+mapy.
+
+•
+
+Štruktúrované opakovanie – je založené na opakovaní vopred stanovených
+kritérií (Chovanová, 2007).
+
+V priebehu tejto fázy, ako hovorí Sovák (1990), pokiaľ nie je v tejto prostrednej fáze
+informácia posilňovaná, biochemické procesy nebudú ďalej pokračovať a dôjde k úplnému
+vymiznutiu informácie.
+
+1.4. Dlhodobá pamäť
+Ruisel (1994, s. 69) dlhodobú pamäť definuje, ako relatívne stabilnú a odolnú voči
+zabúdaniu. Avšak ani to nezaručuje, že informácia, ktorá bola zapamätaná je v pamäti voľne
+dostupná. Dlhodobá pamäť sa delí na sémantickú a epizodickú. V sémantickej pamäti sa
+uchovávajú informácie, ktoré sú potrebné na využívanie jazyka. Informácie sa do nej
+ukladajú na základe vlastností a vzťahov a navzájom sa prepájajú novozískané s už
+uloženými v prípade zhodných vlastností. Sémantická pamäť sa ďalej delí podľa dvoch
+kategórií na sieťový model a množinový model.
+14
+
+Sieťový model pamäti – je ako sieť vzájomne prepojených uzlov alebo bodov, ktoré
+reprezentujú rôzne informácie. Napríklad pri tvrdení ,,vrabec je vták“ sa nám zobrazia
+v pamäti automaticky dva pojmy a to vták a vrabec súčasne. Najčastejšie ide v tomto modely
+o trojstupňové hierarchické zobrazenie. Napríklad kanárik je žltý – kanárik je vták – kanárik
+vie lietať (Ruisel, 1994).
+Množinový model pamäti – sú pojmy klasifikované množinami prvkov. Jeho
+základom je porovnávanie pojmov a to tak, že atribúty jedného pojmu sú súčasne atribútom
+aj pojmu druhého. Pokiaľ berieme do úvahy pojmy vták a vrabec, tak k sémantickej
+klasifikácii dochádza len keď atribúty, ktoré sú asociované s pojmom vták, sú nevyhnutné
+pre zaradenie do určitej kategórie (Ruisel, 1988).
+V prípade epizodickej pamäti ju možno vnímať, jednoducho povedané, ako vlastné
+spomienky, napríklad: ,,čo som včera večer robila“. Pokiaľ hovoríme o epizodickej
+a sémantickej pamäti, môžeme hovoriť o nich aj ako o procedurálnej pamäti, keďže ich
+úloha sa v niekedy vykonáva súčasne (Ruisel, 1994,).
+Procedurálnu pamäť môžeme špecifikovať aj ako pamäť, ktorá umožňuje organizmu
+uchovávať naučené spojenia medzi podnetmi a reakciami, vrátane zložitých vzorcov
+podnetov a odpovedí, čím zabezpečuje prispôsobivé reakcie na podnety z prostredia.
+V podstate sa týka orientácie v čase a priestore vo vzťahu k aktuálnym podnetom (Ruisel,
+1988).
+Počas školského veku dieťaťa narastajú nároky na udržanie a upriamenie pozornosti
+na dané podnety a aj na udržanie množstva informácií v pamäti. Jedným z dôležitých
+predpokladov na ceste k úspešnému žiakovi je úroveň pamäte a pozornosti. V prvom rade,
+pamäť a pozornosť žiaka, počas výchovno-vzdelávacej činnosti rozvíja a ovplyvňuje
+vyučujúci, zvolením vhodných metód, prostriedkov a činností, ktorými je schopný
+stimulovať žiakov k lepšiemu výkonu počas vyučovania a uchovávaniu potrebných
+informácií do pamäti.
+Pamäť a porozumenie v súvislosti s čítaním textu zohrávajú dôležité úlohy pri učení
+nových informácií. Je nemožné uchovať textové informácie bez zapojenia pamäťových
+procesov. Prenos informácií zo senzorickej pamäte a ich spracovanie v krátkodobej pamäti
+pred tým, než sa dostanú do dlhodobej pamäti, sa dosahuje lepšie prostredníctvom
+efektívnych čitateľských zručností ( Mohammed a Obida, 2024).
+Základnou úlohou učiteľa je vzbudiť a udržať pozornosť žiakov na danom predmete,
+pričom musí dbať na vek dieťaťa, čiže primeranosť a individuálny prístup (Kačáni, 2004).
+
+15
+
+Pokiaľ chce vyučujúci, aby pozornosť žiakov dosiahla optimálnu úroveň, mal by
+zabezpečiť, aby boli splnené niektoré zo základných podmienok, vnútorných a vonkajších,
+na ktoré dokáže svojou činnosťou pôsobiť a ovplyvniť ich.
+K vnútorným podmienkam patrí:
+-
+
+celkový telesný stav žiaka
+
+-
+
+psychický stav a nálada
+
+-
+
+vôľa
+
+-
+
+emócie a záujmy
+
+-
+
+temperament
+
+Vonkajšie podmienky, ktoré ovplyvňujú pozornosť žiakov sú:
+-
+
+pracovné prostredie
+
+-
+
+sociálne prostredie
+
+-
+
+sila, intenzita, dĺžka podnetu
+
+-
+
+novosť podnetu
+
+-
+
+stupeň náročnosti podnetu (Lehenová, 2012)
+Vďaka skúmaniu výchovných javov z hľadiska vzťahu osvojovania si poznatkov
+
+a utvárania postojov, vzniká predpoklad na správnu voľbu foriem a metód vo vzdelávaní
+žiakov, ktoré rešpektujú ich vývin a individualitu (Kačáni, 2000).
+K produktívnemu učeniu sa dochádza vtedy, ak je žiak plne sústredený, a to dokáže
+učiteľ docieliť už pri vstupe do triedy. Mal by byť schopný na začiatku hodiny vytvoriť
+primeranú psychickú klímu na to, aby mohli žiaci sústredene pracovať. Na žiakov výrazne
+vplýva aj učiteľova práca s hlasom, tempo, prestávka, sila, akcent, výraznosť. Lepšiu
+sústredenosť žiakov vyučujúci získava aj vhodne využívaním názorných pomôcok pri
+vysvetľovaní učiva. Počas celej vyučovacej hodiny by mal učiteľ uplatňovať predovšetkým
+zásadu individuálneho prístupu, pretože v každej triede sú žiaci s rôznymi typmi pozornosti.
+Sú to žiaci, ktorí majú najintenzívnejšiu pozornosť na začiatku hodiny, žiaci spočiatku
+s nižšou pozornosťou, ktorá v priebehu hodiny začne stúpať, žiaci s najlepšou pozornosťou
+v strede vyučovacej hodiny a žiaci, ktorí sa sústreďujú na začiatku a na konci vyučovacej
+hodiny. Poslednú skupinu tvoria žiaci, ktorí striedajú intervaly pozornosti a nižšieho
+sústredenia. Aj z tohto dôvodu je hlavnou úlohou učiteľa nielen si získať pozornosť žiakov,
+ale aj ich naučiť upriamiť svoju pozornosť, ovládať ju a nebyť nepozorným (Drlíková a kol.,
+1992).
+
+16
+
+2. JAZYKOVÉ KOMPETENCIE
+Jazykové kompetencie dieťaťa sa vyvíjajú už od narodenia, od kedy vníma okolitý svet.
+Pri nástupe do školy, by malo byť dieťa schopné hovoriť o bežných skutočnostiach
+a objektoch, taktiež by malo zvládnuť porozumieť výpovedi druhých (Vágnerová, 2012).
+Pojem gramotnosť v kognitívnej dimenzii zahŕňa mentálne procesy, stratégie alebo
+kognitívne mechanizmy, ktoré jednotlivec používa pri práci s textom. Skúmané sú
+kognitívne funkcie, ako sú vnímanie, pozornosť, pamäťové mechanizmy a procesy myslenia,
+ktoré sa podieľajú na chápaní a uchovávaní významov písaného slova (Zápotočná, 2010).
+Súbor jazykových kompetencií možno nazvať aj jedným pojmom, a to gramotnosť.
+Pokiaľ chápeme gramotnosť ako komplex jazykových kompetencií, predstavíme si pod tým
+vzájomný vzťah nielen čítania, písania, počúvania a hovorenia, ale aj pôsobenie procesov
+myslenia, hovorenia a porozumenia ako súčasť komunikácie (Máčajová, 2011).
+Gavora a Zápotočná (2003) vytvorili vo svojej publikácii model štyroch typov
+gramotností, ktoré zoradili od historicky najstaršej podoby gramotnosti až po historicky
+najmladšiu:
+-
+
+Bazálna gramotnosť – základná gramotnosť a v rámci jazykových kompetencií ju
+chápeme ako schopnosť čítať a písať.
+
+-
+
+Gramotnosť spracovanie textových informácií – aktívne spracovávanie textu
+čitateľom. Základom je porozumenie textu a úzko súvisí s pojmom funkčná
+gramotnosť.
+
+-
+
+Gramotnosť ako sociálno-kultúrny jav - neznamená len schopnosť čítať a písať, ale
+aj širšie porozumenie a schopnosť vykonávať rôzne aktivity v rámci sociálnych a
+kultúrnych kontextov.
+
+-
+
+E-gramotnosť – vnímame ako schopnosť jednotlivca efektívne a kriticky používať
+digitálne technológie.
+
+Aj keď sa na prvý pohľad môže zdať nevýznamná, somatická dimenzia nemôže byť
+ignorovaná, najmä ak si uvedomíme, že v tradičných prístupoch ku gramotnosti sa jej
+význam často preceňoval, keď sa zdôrazňovali biologické predpoklady vývinu
+gramotnosti, spojené s chronologickým vekom dieťaťa. Táto dimenzia zahŕňa procesy
+vizuálnej percepcie, sluchovej diskriminácie, výslovnosti a artikulácie, koordinácie
+vnímania a pohybu, rozvoj jemnej motoriky (grafomotoriky) a podobne. Ich význam sa
+stáva kľúčovým pri zvládaní formálnych požiadaviek na správne čítanie a písanie najmä
+pri prijatí na základnú školu, kde sa trvá na pomerne náročných kritériách (Zápotočná,
+2010).
+17
+
+Pod vplyvom vyučovacieho procesu sa jazykové kompetencie rozvíjajú medzi 6. až
+11. rokom života dieťaťa. Žiaci získavajú vedomosti o štruktúre jazyka a o spôsobe jeho
+využitia, taktiež sa obohacuje ich slovník, ktorý sa dopĺňa o špecifické výrazy a pojmy.
+Vďaka tomu sú žiaci schopní lepšie rozumieť aj náročnejším výpovediam a dokážu sa lepšie
+vyjadrovať, majú tak lepšiu kontrolu nad využívaním jazyka. Pod sémantickým vývinom
+jazyka rozumieme obohacovanie slovnej zásoby detí, pri ktorom sa rozvíja detský slovník
+pod vplyvom sociálneho prostredia, napríklad školy, rodiny či kamarátov. Počas školského
+veku dieťaťa sa obohacuje jeho slovník nielen o slová, ale žiak sa učí pochopiť aj rozdielnosť
+slov, totožnosť aj podobnosť významu. Dokáže rozlíšiť synonymá, homonymá a antonymá.
+Zložitejším javom je pre žiakov porozumenie a určovanie základu slova. Žiaci majú problém
+rozlíšiť predpony a prípony, a preto často dochádza k nesprávnemu rozdeleniu alebo
+zapísaniu slov, pri ktorom žiak spojí v jeden celok predložku so slovom alebo naopak, oddelí
+predponu od základu slova medzerou. Pri deťoch mladšieho školského veku možno
+pozorovať tendenciu nesprávnej interpretácie zdieľaného vyjadrenia. Dochádza často
+k zlému porozumeniu informácie alebo k neporozumeniu prenesených výrazov, ktoré chápe
+mladší žiak doslovne. V tomto veku dochádza aj k rozvoju metalingvistického
+uvedomovania, a teda rozvoj schopností chápať zloženie slova zo slabík, obmieňanie slabík
+v slove a tým aj zmenu jeho významu. K tomuto rozvoju dochádza spravidla až po nástupe
+do prvého ročníka základnej školy (Vágnerová, 2012).
+Z modelu Petrovej a Valáškovej (2007, in Zápotočná, 2010) je práca s textom
+procesom, ktorý si vyžaduje súčasné spracovanie rôznych typov informácií, pričom sa
+zapájajú štyri samostatné oblasti skúseností, poznania a kompetencií jednotlivca, tzv.
+"procesory". Prvé dve oblasti, kontextový a významový procesor, sú zodpovedné za
+identifikáciu významových charakteristík textu. To zahŕňa rozpoznanie významov
+jednotlivých slov v texte, ktoré súvisia so všeobecnou slovnou zásobou dieťaťa, ako aj so
+špecifickou metalingvistickou slovnou zásobou týkajúcou sa písania a písanej kultúry.
+Zároveň ide o hľadanie súvislostí medzi významom slov a textu v kontexte predchádzajúcich
+skúseností a poznania dieťaťa, ako je jeho všeobecné poznanie sveta, jazykové schopnosti a
+schopnosť pochopiť príbeh ako autonómnu, fiktívnu realitu. Druhé dve oblasti, fonologický
+a ortografický procesor, sa podieľajú na rozpoznávaní a spracúvaní formálnych
+charakteristík textu a reči. To znamená, že jedinec dokáže identifikovať grafické znaky textu
+a zvukové jednotky reči, ktoré súvisia s písanou rečou (vnímanie formy slova a schopnosť
+jeho analýzy). Analýza cieľových oblastí predčitateľskej gramotnosti pokračuje
+
+18
+
+definovaním konkrétnych znalostí, schopností a skúseností, ktoré dieťa potrebuje na to, aby
+sa stalo čitateľsky gramotným.
+
+2.1. Počúvanie s porozumením
+Sluch je prvý zmysel, ktorý sa u dieťaťa vyvíja po narodení, a preto je rozhodujúci pre
+fonetický vývin v prvom roku života (Eckhart, 2020).
+Rost (2016) vníma porozumenie ako primárny cieľ počúvania, najvyššiu prioritu
+poslucháča. Vo svojom diele načrtol, že počúvanie sa skladá zo štyroch prekrývajúcich sa
+typov spracovania:
+1. neurologické spracovanie - reč prechádza z vonkajšieho ucha do vnútorného ucha a do
+sluchovej kôry. Reč je vnímaná, keď je prijatá a spracovaná.
+2. jazykové spracovanie – zameriava sa na spájanie vnímanej reči s jazykovým systémom,
+čo zahŕňa segmentovanie prúdu reči na lexikálne a syntaktické jednotky.
+3. sémantické spracovanie - podieľa sa na porozumení, vytváraní záverov, učení a formovaní
+pamäti. Cieľom spracovania je pochopenie významu komunikovanej výpovede.
+4. pragmatické spracovanie – vzťahuje sa na implicitné vyjadrenie počutého, zámery autora,
+informácie, ktoré neboli explicitne vyjadrené.
+Počúvanie s porozumením predstavuje jeden z prvkov správnej výslovnosti a predpoklad
+efektívnej komunikácie. Deficit počúvania s porozumením môže viesť k chybám vo
+výslovnosti a nesprávnemu akcentu, zatiaľ čo pravidelné počúvanie pomáha eliminovať
+gramatické a ortografické chyby. Cieľom počúvania s porozumením je pripraviť jednotlivca
+tak, aby dokázal rozumieť vypočutému, spracovať informácie a vytvoriť základ pre ďalšiu
+komunikáciu, čo je predpokladom pre jeho vlastnú textovú produkciu (Fašanok –
+Gašparovičová, 2013).
+Autorky Kapalková a Slováčková (2013) uviedli, že
+
+v súvislosti s vývinom
+
+porozumenia na úrovni textu, môžeme podrobnejšie sledovať explicitné a implicitné
+porozumenie. Pri definovaní explicitných a implicitných informácií z textu, vymedzili autori
+Parisová a Paris (2001) vo svojom výskume tieto termíny nasledovne:
+K informáciám explicitného charakteru v texte zaraďujeme:
+-
+
+určenie postáv v príbehu,
+
+-
+
+rozpoznanie miesta, kde sa príbeh odohráva, a určenie času,
+
+-
+
+identifikovanie úvodnej udalosti,
+
+-
+
+určenie problému,
+
+-
+
+zhrnutie záveru a riešenia problému.
+19
+
+Informácie implicitného typu vyjadrujú:
+-
+
+určenie pocitov a prežívania postáv,
+
+-
+
+vytváranie kauzálnych súvislostí na základe textu,
+
+-
+
+prepojenie dialógov postáv s celkovým obsahom príbehu,
+
+-
+
+predpovedanie na základe predchádzajúcich udalostí v príbehu,
+
+-
+
+stanovenie témy prostredníctvom jedného alebo viacerých prvkov príbehu
+
+Gavora (1992, in Kašiarová 2012).
+Vzhľadom na preštudované a vyššie uvedené informácie môžeme konštatovať, že pokiaľ
+ide o explicitné porozumenie, sledujeme informácie vecne uvedené a vyplývajúce
+z počutého, prípadne čítaného textu. Pokiaľ kladieme alebo odpovedáme na otázky
+sledujúce implicitný význam, sledujeme informácie, ktoré v texte nie sú priamo uvedené,
+ale poslucháč prípadne čitateľ musí textu rozumieť alebo disponovať vopred získanými
+informáciami, ktoré s textom súvisia.
+Výsledkom spracovania informácií z textu by malo byť odhalenie hlavného jadra
+informácií, čo je prejav celkového porozumenia textu. Základné metódy, ktoré vedú k
+odhaleniu tohto jadra, sú:
+•
+
+Zovšeobecňovanie – podrobnosti sa nahrádzajú širšími, všeobecnejšími
+informáciami.
+
+•
+
+Vypúšťanie informácií – odstraňujú sa z textu nadbytočné alebo bežne známe
+informácie.
+
+•
+
+Integrácia – spájanie informácií, ktoré sú vzájomne prepojené alebo vyplývajú
+z jednej druhej.
+
+•
+
+Konštrukcia – vytváranie širších informácií, ktoré presahujú obsah samotného
+textu.
+
+Počúvanie s porozumením môže byť ovplyvnená aj vonkajšími faktormi v triede,
+v domácom prostredí, ale aj počas realizácií výskumov. Štúdia Nicholsa (1948, in Watson
+a Barker,1984) identifikuje štrnásť faktorov, ktoré ovplyvňujú počúvanie s porozumením v
+triede. Tieto faktory pokrývajú širokú škálu kognitívnych, emocionálnych, fyzických a
+jazykových aspektov, ktoré ovplyvňujú schopnosť poslucháča porozumieť obsahu, ktorý je
+prezentovaný. Jedná sa o:
+1. inteligenciu,
+2. čítanie s porozumením,
+3. znalosť jazyka,
+20
+
+4. slovnú zásobu,
+5. schopnosť vyvodzovať závery,
+6. schopnosť štrukturalizovať reč,
+7. počúvanie hlavných myšlienok,
+8. používanie špeciálnych techník na zvýšenie koncentrácie,
+9. skutočný záujem o tému,
+10. emocionálne prispôsobenie k rečníkovej téme,
+11. schopnosť rozoznať význam diskutovaného predmetu,
+12. zvedavosť,
+13. fyzická únava poslucháča,
+14. počuteľnosť rečníka
+
+2.2.Čítanie s porozumením
+Mohammed a Obida (2024) hovoria o čítaní ako o dôležitej jazykovej zručnosti. Ako
+zručnosť prijímania informácií je čítanie stredobodom každého ľudského učenia. Je takmer
+nemožné zapojiť sa do učebnej aktivity bez schopnosti rozpoznať slová a schopnosti
+odhadnúť významy slov.
+Hirsch et. al (2002, in Zápotočná, 2010) hovorí, že pokiaľ ide o charakter a priebeh
+čítania, na ktorý sa v posledných desaťročiach zameriava pozornosť kognitívnej
+psychológie, je čoraz jasnejšie, že ide o aktívny, konštruktívny a selektívny proces.
+Zjednodušene povedané, pri porozumení textu sa aktívne podieľa samotný čitateľ alebo
+dieťa, ktorému niekto číta, ktorý si z textu vyberá informácie a aktívne formuje vlastné
+chápanie. Kľúčovú úlohu v tomto procese zohrávajú predchádzajúce vedomosti čitateľa
+(napríklad „poznanie sveta“), či už ide o hlboké významové štruktúry alebo dlhodobú pamäť,
+ktoré významne ovplyvňujú konečné porozumenie. Tieto zistenia podporujú aj výskumy
+týkajúce sa náročnosti textov a ich vzťahu k úspešnosti čítania („readability“). Analýzy
+rôznych charakteristík textu ukazujú, že náročnosť textu je prevažne subjektívna záležitosť,
+pričom najspoľahlivejším ukazovateľom náročnosti je prediktabilita textu – teda schopnosť
+čitateľa predvídať obsah na základe jeho predchádzajúcich vedomostí.
+Alabánová (2015) hovorí, že čítanie s porozumením je výsledkom spojenia všetkých
+aspektov čítania a závisí od toho, či si žiaci už osvoja správnu techniku čítania. Technická
+stránka čítania slúži ako nástroj, zatiaľ čo obsahová stránka je cieľom vyučovania. Obe tieto
+stránky sa navzájom podmieňujú a rozvíjajú v úzkej súvislosti.
+
+21
+
+Osvojenie si správnej techniky čítania je zložitý proces, ktorý prebieha od prvého
+ročníka základnej školy. Predispozície na rozvoj čitateľskej gramotnosti sú kombináciou
+vrodených predispozícií, prostredia, v ktorom dieťa vyrastá, kvalitou predprimárneho
+vzdelávania a po nástupe do prvého ročníka, vhodne zvolenými metódami, pomôckami
+a prostriedkami. Učiteľ/ka zvolí šlabikár a čítanku z ponuky dostupnej na trhu a následne
+s nimi žiaci na vyučovaní pracujú.
+Požiadavky na žiaka prvého ročníka vyučujúcim určuje Štátny vzdelávací program pre
+základné vzdelávanie v časti jazyk a komunikácia, v štandardoch pre slovenský jazyk
+a literatúru. Prvý ročník základnej školy spadá pod prvý cyklus, v ktorom sú vytýčené ciele,
+zamerané na počúvanie a čítanie s porozumením. Stanovujú, že žiak by mal čítať texty jemu
+primerané a mal by byť schopný interpretovať ich obsah a obraznosť v súvislosti s vlastnou
+skúsenosťou. Žiak by mal vedieť nájsť v texte explicitné informácie a vyhodnotiť základné
+implicitné informácie. Tieto ciele sú bližšie špecifikované v časti vecnej recepcie textu, kde
+pri porozumení textu je zahrnutá tvorba o obsahu textu na základe obrázkov, nadpisu a
+predchádzajúcich znalostí žiaka, rozpoznanie a zaznamenanie kľúčových slov, porozumenie
+doslovného – explicitného významu textu a schopnosť následne ho reprodukovať,
+vyvodenie implicitných významov z textu na základe otázok učiteľa/ky, ktoré sa týkajú
+významu slov, vzťahov medzi slovami a vetami, či prepojenia informácií z textu s
+predchádzajúcimi vedomosťami a skúsenosťami žiaka a ako posledný bod uvádza stručné
+zhrnutie získaných informácií. V rámci zážitkovej recepcie je okrem iného vytýčený
+obsahový štandard pri čítaní z porozumením, ktorý uvádza, že žiak by mal vedieť predvídať
+následnosť deja z prečítaného alebo počutého textu, za pomoci nápovied a otázok od
+učiteľa/ky, by mal vedieť prerozprávať obsah čítaného a počutého textu. Pokiaľ sa
+zameriame u žiakov na vyjadrenie pocitov, názorov či postojov v súvislosti s čítaným
+textom, postavami z textu alebo so spracovanou tematikou, tak hovoríme o čítaní ako zážitku
+(Štátny vzdelávací program pre základné vzdelávanie, 2023).
+Na hodnotenie úspešnosti žiakov v čítaní s porozumením sa odporúča použiť tieto
+kritériá, ktoré by mali byť ďalej prispôsobené konkrétnemu obsahu úloh:
+-
+
+Presnosť a úplnosť informácií – správne vyhľadanie požadovaných informácií,
+úplnosť potrebných údajov a správnosť pri získavaní explicitných informácií z textu.
+Štruktúra informácií – usporiadanie informácií podľa ich dôležitosti, prehľadnosť
+a logická organizácia textu, schopnosť správne redukovať text bez straty podstatných
+informácií.
+
+22
+
+Správnosť záverov – logická súvislosť medzi závermi a porovnávanými
+informáciami, jasnosť a výstižnosť záverov, ako aj argumentácia, ktorá spočíva na
+odkaze na text a súvislosti medzi argumentmi a závermi.
+Použitie vedomostí a argumentácia – správne aplikovanie vedomostí o texte,
+schopnosť prepájať informácie z iných zdrojov, vyjadrenie vlastného názoru a
+podloženie záverov dôkazmi z rôznych zdrojov (Kašiarová, 2008).
+Počas čítania môžu nastať rôzne ťažkosti. Kovárová – Kurtulíková (2010) popisujú
+nasledujúce faktory, ktoré nepriaznivo ovplyvňujú čítanie:
+-
+
+Nedostatočné predpoklady pre čítanie,
+
+-
+
+Genetické predispozície,
+
+-
+
+Nezrelosť vo vývine,
+
+-
+
+Poškodenie centrálnej nervovej sústavy (organického pôvodu, následky úrazu),
+
+-
+
+Slabšie percepčné schopnosti (problémy so zrakom a sluchom),
+
+-
+
+Rečové ťažkosti (dysgrafia),
+
+-
+
+Oneskorený vývoj reči,
+
+-
+
+Rečové poruchy a chudobné sociálne prostredie,
+
+-
+
+Rodinné prostredie (predovšetkým prísna, ľahostajná alebo ambivalentná výchova),
+
+-
+
+Kvalita výučby zo strany učiteľa,
+
+-
+
+Vývinové poruchy učenia (dyslexia) a poruchy pozornosti (ADHD, ADD),
+
+-
+
+Znížené intelektuálne schopnosti,
+
+-
+
+Nedostatočne rozvinutá schopnosť orientácie v priestore.
+
+2.2.1. Metódy využívané pri čítaní s porozumením
+V nasledujúcom texte uvedieme niektoré metódy, ktoré sú zamerané na to, aby žiaci
+mohli sledovať svoje učenie a porozumenie textu, a zároveň si túto schopnosť osvojovali.
+A) V – ChV – D
+Jej podstata je založená na troch krokoch, vychádza z nasledujúcich otázok: Čo
+vieš o téme? Čo by si chcel vedieť? Čo si sa dozvedel? Žiaci si pred čítaním
+neznámeho textu zapisujú svoje odpovede na prvé dve otázky, po preštudovaní
+textu odpovedajú na tretiu otázku a následne porovnávajú všetky tri záznamy a
+komentujú ich (Gavora, 2003).
+B) Postup 3-2-1
+Tento postup zahŕňa hodnotenie získaných informácií žiakom v týchto krokoch:
+23
+
+-
+
+3 dôležité veci, ktoré boli v texte – žiak vyberie tri informácie, ktoré považuje
+za kľúčové.
+
+-
+
+2 veci, ktoré ťa zaujali – žiak vypíše dve informácie, ktoré ho zaujali buď
+preto, že ide o nové poznatky, alebo preto, že neboli v súlade s jeho
+predchádzajúcimi vedomosťami.
+
+-
+
+1 vec, na ktorú si v texte nenašiel odpoveď – žiak identifikuje informáciu, na
+ktorú nenašiel odpoveď, čo môže byť spôsobené nejasnosťou textu,
+nedostatkom skúseností alebo vedomostí.
+
+C) Postup 5-4-3-2-1
+Tento postup je podobný, ale obsahuje ďalšie kroky v tejto štruktúre:
+-
+
+5 nových informácií – žiak vyberie päť informácií, ktoré sa dozvedel z textu.
+
+-
+
+4 informácie týkajúce sa hlavnej myšlienky – žiak určí štyri informácie, ktoré
+súvisia s hlavnou myšlienkou textu.
+
+-
+
+3 nové slová, ktoré si našiel v texte – žiak si vyberie tri nové slová, ktoré sa
+v texte objavili.
+
+-
+
+2 informácie, ktoré si už poznal – žiak vypíše dve informácie, ktoré už mal
+vo svojich vedomostiach.
+
+-
+
+1 vec, na ktorú si nenašiel v texte odpoveď – žiak identifikuje jednu
+informáciu, na ktorú v texte nenašiel odpoveď.
+
+D) Prezeraj – pýtaj sa – prečítaj – odpovedz – zopakuj
+Podstata sa skladá z niekoľkých krokov, kde žiak aktívne pracuje s textom a
+informáciami, ktoré sa z neho dozvedel:
+-
+
+Prezeraj – žiak sa zoznámi s nadpismi, podnadpismi, úvodom a záverom
+textu.
+
+-
+
+Pýtaj sa – žiak vytvára otázky na základe nadpisov textu.
+
+-
+
+Prečítaj – žiak číta text so zameraním na otázky, ktoré si predtým vytvoril.
+
+-
+
+Odpovedz – žiak odpovedá na svoje otázky na základe informácií z textu.
+
+-
+
+Zopakuj si – žiak opakuje odpovede na otázky bez použitia učebnice, aby si
+lepšie zapamätal nové informácie (Gavora, 2008).
+
+E) Riadené (štruktúrované) čítanie
+Meredith, Steel (1997, in Kašiarová, 2011) hovoria, že učiteľ rozdelí text na
+menšie časti a pripraví k nim otázky, ktoré pomáhajú viesť diskusiu so žiakmi počas
+prestávok v čítaní. Pred prečítaním každej nasledujúcej časti žiaci formulujú
+24
+
+predpoklady o jej obsahu a potom ich overujú na základe informácií z
+predchádzajúcich častí. Tento proces predvídania stimuluje zvedavosť, podporuje
+aktívne čítanie a udržiava pozornosť žiakov. Odpovede žiaka spočívajú na
+zodpovedaní otázok, ktoré múžu byť uvedené aj vo forme tabuľky. Jedná sa o otázky
+ako napríklad: Čo si myslíte, že sa stane? Aký máte dôkaz? Čo sa skutočne stalo?
+Niektoré metódy sa sústredia výlučne na obsah textu, ale aj tieto môžu byť využité
+učiteľom na podporu metakognície v rôznych fázach práce s textom. Podstatné je, aby tieto
+fázy boli správne realizované. Kľúčová je fáza, v ktorej žiak hodnotí svoje učenie
+porovnaním s tým, čo vedel na začiatku hodiny alebo pred čítaním textu.
+
+2.3.Porozumenie textu
+Porozumenie textu, najmä učebného materiálu, je kľúčovým predpokladom pre úspešný
+vstup žiaka do nového učiva. Učenie je neúčinné a neefektívne, ak je bez porozumenia.
+Čítanie s porozumením nie je len spôsobom, ako sa učiť, ale aj základom pre pochopenie
+sveta okolo nás. Bez porozumenia je človek odsúdený na nevedomosť, je závislý na iných a
+môže byť ľahko manipulovaný. Schopnosť porozumieť akýmkoľvek textom zohráva veľmi
+dôležitú úlohu vo vývoji dieťaťa. Texty prinášajú nové informácie, vyzývajú k premýšľaniu,
+formujú hodnoty a ovplyvňujú postoje k svetu (Gavora, 2008).
+McNamara a Magliano (2009) vnímajú porozumenie ako komplexný kognitívny proces,
+ktorý je potrebný prakticky pre všetky kognitívne činnosti vyššej úrovne, vrátane učenia,
+uvažovania, riešenia problémov a rozhodovania sa.
+Porozumenie textu, sme v minulosti chápali ako reprodukciu textu a vnímali len ako
+pamäťový proces, čiže to, čo si z textu žiak pamätá. Tieto informácie zisťoval učiteľ, ako
+sme už vyššie v texte uviedli zisťovacími otázkami. Avšak porozumenie textu je možné
+chápať na viacerých úrovniach. Čižmarovič a Kalná (1991) in Zápotočná (2012) hovoria
+o troch možnostiach chápania porozumenia u žiakov. Prvým typom porozumenia textu je
+samostatne, a to chápeme ako samostatnú reprodukciu textu žiakom. Pričom dokáže text
+zreprodukovať a spájať informácie aj s už získanými informáciami z predošlých skúseností.
+Táto úroveň porozumenia je chápaná ako najvyššia a zároveň v nej figuruje najvyššia miera
+subjektivity. Druhý typ porozumenia je pomocou zisťovacích otázok a posledný je
+nerozumie textu. Pri poslednej úrovni môžeme hovoriť o porozumení textu len ako chápanie
+doslovného významu slov a textu, jedná sa len o „výsledok dekódovania v zmysle pasívnej
+recepcie“ (Zápotočná 2012, s. 93).
+25
+
+Proces čítania neznamená len dešifrovanie napísaných symbolov, ale aj premýšľanie
+čitateľa o tom, čo prečítal, o význame, zmysle a spojení s tým, čo už prečítal a o čom má
+znalosti (Alderson, 2000).
+Čitateľ využíva rôzne zručnosti na pochopenie textu. Porozumenie, v rámci čítania,
+je cieľom každého čitateľského cvičenia. Je to proces, ktorý zahŕňa čítanie slov a
+porozumenie jazyku. Kombinácia týchto dvoch aspektov je to, čo ovplyvňuje úspech alebo
+neúspech pri hľadaní významu. Význam nie je často priamo vyjadrený v texte. Preto, ak má
+čitateľ dospieť k významu, musí vykonať množstvo psychologických činností, ktoré
+zvyčajne začínajú rozpoznávaním slov, pochopením rozpoznaných slov a ich zapamätaním
+(Mohammed a Obida, 2024).
+Zápotočná (2012) uvádza päť modelov porozumenia, ktoré publikovali Britton
+a Graesser (1996), ktorí poukázali práve týmito modelmi a ich syntézou na náročnosť
+a komplexnosť štruktúry porozumenia. Prvý model je o konštrukcii viacúrovňovej
+reprezentácii textu. Žiak v tomto modely pracuje pri čítaní s viacerými rovinami
+porozumenia samostatne aj súčasne v závislosti od zadanej úlohy. Niektoré roviny sú
+zamerané explicitne – verbálna reprezentácia doslovného významu textu. Pokiaľ berieme do
+úvahy porozumenie z roviny kontextovej, tak sa opierame o implicitné porozumenie textu,
+ktoré je dôležité pri neskoršom testovaní žiakov vo veku 9 rokov až 10 rokov testom PILRS.
+Druhú skupinu tvorí koherentná reprezentácia textu. Pri nepochopení jedného celku alebo
+viacerých po sebe nasledujúcich sa narúša spojitosť, čiže pochopenie textu, hovoríme
+o narušenej koherencii. Tento model sa využíva napríklad pri tvorbe študijných materiálov.
+V ďalšej skupine modelov má dôležitú úlohu pracovná pamäť. Pokiaľ čitateľ nie je schopný
+adekvátne selektovať dôležité a menej dôležité, dokonca až zbytočné, informácie z textu,
+dochádza k zahlteniu pracovnej pamäte a neporozumeniu významu textu. Operačná pamäť
+pracuje aj s údajmi, ktoré sú uchované v dlhodobej pamäti. Modely, ktoré sa zameriavajú na
+viaceré inferencie rôzneho typu, ako je určenie pointy textu, definovanie postojov autora,
+kladenie otázok otvoreného typu a inferencie spojené s pocitmi žiaka po prečítaní textu
+nazývame „modely porozumenia a generovania inferencií“. Poslednou skupinou sú modely
+dynamické. Patria k najzložitejšej skupine a pojednávajú o tom, že všetky vyššie spomenuté
+modely samostatne nešpecifikujú porozumenie dostatočne (Zápotočná, 2012).
+2.3.1. Viacúrovňové porozumenie podľa PILRS
+Úlohou učiteľa v prvom ročníku je naučiť žiakov nie len čítať, ale zároveň aj čítať
+s porozumením. Postupne krok po kroku pripravuje žiakov až na medzinárodné testovanie
+PIRLS a PISA, ktoré sú zamerané na čítanie s porozumením.
+26
+
+Prv ako upriamime našu pozornosť na činnosť učiteľa pôsobiaceho na
+metaporozumenie a porozumenie, zameriame sa na charakteristiku porozumenia na
+viacerých úrovniach podľa PIRLS. Skratka PILRS vznikla spojením začiatočných písmen
+z anglických slov Progres In Reading Literaci Study. V rámci hodnotenie v projekte PILRS
+sa sleduje čitateľská gramotnosť žiakov vo veku deväť až desať rokov. Sledujú proces
+porozumenia textu na štyroch úrovniach, pomocou rôznych druhov testových otázok.
+1. „identifikovanie a zachytenie informácií explicitne v texte“ – je prvou rovinou
+porozumenia a jedná sa o schopnosť rozpoznať a sústrediť sa na dôležité
+informácie a fakty, ktoré sú priamo a jednoznačne vyjadrené v texte. Táto úroveň
+„doslovného porozumenia“ je v našom prístupe k výučbe čítania v základnom
+vzdelávaní považovaná za kľúčovú a rozhodne sa jej venuje veľká pozornosť.
+2. „Vyvodzovanie z textu priame dôsledky a dedukcie“ v angličtine nazývané aj
+„strightforward inferences“ predstavuje čítanie s porozumením na úrovni, kde sa
+vyžaduje schopnosť vyvodzovať závery – to znamená získavať informácie, ktoré
+nie sú priamo vyjadrené v texte, ale dajú sa z neho logicky odvodiť. Väčšina
+čitateľov by teda z textu pravdepodobne dospela k totožným záverom, ako sú
+príčinné súvislosti, vzťahy alebo zovšeobecnenia. Zrelý čitateľ si neuvedomuje
+proces dedukovania, ale má pocit, že informácie sa nachádzali v texte a na
+základe toho ich interpretuje. V prvých dvoch úrovniach nie je možné hovoriť
+o jednoznačne správnej odpovedi na otázky.
+3. „interpretácia
+
+a integrácia
+
+myšlienky
+
+a informácie“
+
+Podobne
+
+ako
+
+v
+
+predchádzajúcom prípade, ide o schopnosť vytvárať význam, ktorý presahuje
+text. Pri interpretácii sa okrem prepojenia a kombinovania myšlienok a
+informácií v texte, dochádza aj k ich spájaniu s predchádzajúcimi znalosťami
+čitateľa, ako sú vedomosti, skúsenosti, názory, postoje, presvedčenia a podobne.
+Interpretácie teda odrážajú osobnú perspektívu čitateľa, sú rôznorodejšie a viac
+subjektívne. Otázka správnosti odpovede sa tu stáva problematickou, avšak
+vzhľadom na to, že čitatelia zdieľajú určitý kultúrny kontext (daný výchovou,
+vzdelaním, hodnotami a podobne), môžu ich odpovede – interpretácie – byť
+považované za viac alebo menej konvenčné, alebo naopak, originálne. Na tejto
+úrovni môže dôjsť k výrazným medzikultúrnym rozdielom, a to najmä v
+závislosti od vzdelávacieho prostredia. To zahŕňa aj mieru, do akej sa v tomto
+prostredí kladú takéto otázky a ako sú žiaci na tento typ otázok a spôsob
+odpovedania pripravení.
+27
+
+4. „schopnosť skúmať a hodnotiť obsah textu z hľadiska použitých jazykových
+prostriedkov“ Na tejto úrovni ide o kritickú analýzu a hodnotenie textu, a to
+nielen z hľadiska jeho obsahu, ale najmä z pohľadu jeho formy. Porozumenie
+zahŕňa reflexiu štruktúry textu, jazykových a výrazových prostriedkov, vrátane
+autorovho pohľadu a štýlu. Konštrukcia významu môže presahovať samotný text,
+no hlavný dôraz je kladený na hodnotenie spôsobu, akým je určitý obsah –
+význam – vyjadrený. Čitateľ (v porovnaní s predchádzajúcou úrovňou) okrem
+svojich znalostí o svete využíva aj svoje poznatky o jazyku, jazykových a
+textových konvenciách a žánroch. Svoje hodnotenie zakladá na predchádzajúcich
+skúsenostiach s čítaním, posudzuje, ako sú idey, pocity a informácie
+formulované, ako presvedčivo, jasne a pôsobivo sú vyjadrené, alebo naopak, ako
+menej úspešne.
+Úrovne čitateľskej gramotnosti (porozumenia v čítaní) sú podobne definované aj v
+štúdii PISA, z anglického názvu Project for International Student Assessment, ktorá
+pravidelne hodnotí žiakov vo veku 14 až 15 rokov od roku 2003. V tejto štúdii sa hodnotí
+schopnosť žiakov porozumieť rôznym druhom textov, analyzovať ich obsah, kriticky ich
+hodnotiť a využívať získané informácie v praktických kontextoch. Žiaci na Slovensku
+dosahujú dobré výsledky porovnateľné s väčšinou krajín najmä v úlohách, ktoré si vyžadujú
+vyhľadávanie alebo identifikáciu explicitných informácií, teda v úlohách zameraných na
+pochopenie doslovného významu textu. Horšie výsledky dosahujú v úlohách, ktoré sa týkajú
+vyšších úrovní porozumenia, ako sú integrácia, interpretácia, hodnotenie a kritické myslenie.
+Je veľmi pravdepodobné, že tieto výsledky súvisia s typmi otázok, na ktoré sú žiaci zvyknutí,
+ako aj s frekvenciou ich výskytu v škole. Vzhľadom na používané metódy čítania a tradičný
+spôsob výučby čítania v našich školách, tieto zistenia nie sú prekvapujúce (Zápotočná,
+2012).
+2.3.2. Chyby pri porozumení textu
+Na základe zlúčenia doterajších vedomostí o porozumení a čítaní s porozumením
+možno konštatovať, že porozumenie je zložitý a dynamický proces, pri ktorom zohrávajú
+dôležitú úlohu vonkajšie okolnosti, ale aj schopnosti čitateľa. Učiteľ je schopný do istej
+miery tieto aspekty ovplyvniť a zvolením správnych metód ich rozvíjať u žiakov. Pri recepcii
+textu môže dôjsť k viacerým prekážkam alebo inak nazývaným chybám. Chyby nastávajú
+napríklad pri neporozumení z hľadiska textu a jeho skladby alebo z hľadiska významu textu,
+pokiaľ má čitateľ deficit vedomostí z danej oblasti, nerozumie obsahu textu alebo pointe.
+
+28
+
+Najprv zameriame našu pozornosť na chyby pri porozumení jednotlivých zložiek
+textu podľa Collinsa a Smitha (1982, in Gavora 1992) a tými sú:
+1. Neporozumenie slova
+-
+
+Nepoznané slovo
+
+-
+
+Slovom ktoré je žiakovi známe, ale nedáva zmysel v danom kontexte
+2. Neporozumenie vety
+
+-
+
+Neuskutočniteľná interpretácia
+
+-
+
+Len nejasná, abstraktná interpretácia
+
+-
+
+Viacero možných výkladov
+
+-
+
+Interpretácia je v rozpore s poznatkami príjemcu
+3. Neporozumenie súvisu vzťahu jednej vety k druhej
+
+-
+
+Výklad jednej vety je v rozpore s výkladom druhej vety
+
+-
+
+Nie je možné dohľadať súvis jednej vety k druhej
+
+-
+
+Existencia viacerých možných vzťahov medzi vetami
+4. Nepochopenie štruktúry textu
+
+-
+
+Deficit hlavnej myšlienky textu alebo jeho časti
+
+-
+
+Neporozumenie výskytu určitých častí v texte
+
+-
+
+Neporozumenie dôvodom konania určitých postáv v texte
+
+Pokiaľ vnímame chyby z pohľadu významu textu tak môže dochádzať k nasledujúcim
+a to:
+-
+
+čitateľ nie je schopný reprodukovať text z dôvodu chýbajúcich informácií o danej
+téme,
+
+-
+
+recipient má vedomosti o danej téme, ale neporozumie textu, pretože je zložito
+napísaný,
+
+-
+
+čitateľ je schopný interpretovať text, ale nezhoduje sa s autorom textu,
+
+-
+
+recipient text interpretuje podľa autora, nevkladá vlastnú myšlienku, súhlasí
+s autorom (Gavora, 1992).
+
+Učitelia na základných školách na primárnom stupni vzdelávania u žiakov prvého
+ročníka sa v praxi najčastejšie stretávajú s poruchami z prvej kategórie a len čiastočne
+s chybami z druhej kategórie . Žiaci prvého ročníka spočiatku čítajú len krátke texty a až
+neskôr po osvojení si všetkých písmen prejdú na samostatné čítanie krásnej literatúry pre
+deti a interpretáciu textu pri prezentovaní čitateľského denníka.
+
+29
+
+Vyučujúci sa podieľa na rozvoji čítania s porozumením, ale aj počúvanie s porozumením
+rôznymi spôsobmi. Jedným z nich je napríklad kladením otázok. Metóda, akým kladie
+otázky, aké typy otázok používa vedie žiakov k rôznym úrovniam porozumenia, preto sú nie
+len nástrojom zisťovania ale aj rozvíjania. Vo vzťahu k čítaniu možno uplatňovať Bloomovu
+alebo aj Sandersovu taxonómiu otázok, podľa cieľu vzdelávania a je možné ich aplikovať aj
+pri čítaní. Pozornosť pri kladení otázok musíme upriamiť na rozdiel medzi otázkami, ktoré
+sú v rámci textu a potom tými, ktoré sú nad rámec textu. Keď hovoríme o otázkach v rámci
+textu, tak odpovede žiaci dokážu priamo nájsť v prečítanom texte alebo si ich z textu
+pamätať. Pri otázkach nad rámec textu, žiak nenájde odpovede priamo v texte, pretože tam
+nie sú implicitne uvedené, ale musí odpovede hľadať v iných zdrojoch. Ďalším dôležitým
+typom sú otázky nazývané vo vlastnej hlave. Ide o odpovede, ktoré musí čitateľ zodpovedať
+sám, na základe vlastného uváženia. Sem patria otázky zamerané napríklad na východiskové
+vedomosti. Učiteľ tým získava informácie o tom, aké vedomosti už majú žiaci o danej téme,
+ktorej sa idú venovať. Zároveň tým uľahčuje žiakom porozumenie novým poznatkom
+k danej téme a dokážu si prečítané informácie lepšie zapamätať a priradiť k už známym.
+Druhú skupinu otázok tvoria otázky zamerané na hypotézy. Vyučujúci kladie otázky
+k nadpisu alebo ilustrácii, či k už prečítanému mottu alebo odseku textu. Následne po
+zodpovedaní otázok hypotézami a domnienkami žiakov dochádza k aktivizujúcejšiemu
+čítaniu textu, pretože zvedavosť a overovanie vlastných hypotéz podnecuje žiakov
+k sústredenejšiemu čítaniu. Najčastejším typom otázok sú otázky zamerané na
+vysvetľovanie pojmov. Učiteľ týmito otázkami obohacuje alebo doplňuje slovnú zásobu
+žiakov a jednoznačne to pozitívne vplýva na porozumenie textu. Veľmi náročnou
+kategóriou, najmä na ich tvorbu pre učiteľa, sú otázky zamerané na spájanie informácií
+z textu s vedomosťami vo vlastnej hlave. Jedná sa o otázky deduktívneho charakteru, čiže
+informácie, ktoré z textu vyplývajú na základe logických súvislostí. Otázkam, ktoré vedú
+čitateľa k tomu, aby parafrázoval nejakú časť textu hovoríme otázky na prevod. Pri prepájaní
+nových poznatkov so starými hovoríme o otázkach na syntézu obsahov a informácií z textu
+s vlastnými vedomosťami a skúsenosťami. Vzájomné prepájanie informácií z textu sa
+vykonáva pri otázkach na syntézu explicitných obsahov a informácií Pri posledných dvoch
+druhoch otázok je veľmi dôležité, akým spôsobom sa otázky budú klásť. Keďže tieto otázky
+majú rôzny charakter ich podstatou je zistiť hlavnú myšlienku, ponaučenie, pointu príbehu.
+Z otázok by nemalo byť citeľné, že existuje nejaká správna odpoveď. Vhodnejší spôsob je
+klásť otázky tak, aby mal žiak pocit, že nás zaujíma jeho názor a pocit z textu (Zápotočná,
+2012).
+30
+
+Vyššie uvedené typy otázok sú pre žiakov mladšieho školského veku, inak povedané
+pri začínajúcich čitateľov náročné. Pri týchto žiakoch je dôležité sa spočiatku zamerať najmä
+na rozvoj slovnej zásoby, porozumenie textu spočiatku na explicitnej úrovni a pochopeniu
+pointy vyplývajúcej z textu. Pri porozumení textu však nehovoríme len o získavaní
+informácií z textu, ale aj o interpretácii daného textu, pričom každý čitateľ bude text
+interpretovať podľa vlastného uváženia a skúseností. V tejto súvislosti by sme si nemali
+najmä zmýliť dva pojmy a to porozumenie textu a naučenie sa textu, aj keď spolu úzko
+súvisia. Memorovanie textu je zvyčajne rýchlejšie a trvácnejšie pokiaľ žiak rozumie
+informáciám v texte, ale v opačnom smere tento proces nemusí byť pravdiví a teda, ak si
+žiak určitý text zapamätal, nemusí to hneď znamenať, že danému textu a informáciám v ňom
+uvedeným rozumie (Gavora, 2003).
+
+2.4. Metakognícia
+V tejto časti práce sa budeme ďalej venovať metakognitívnym procesom pri recepcii
+textu. Vzťah metakognitívnych a recepčných procesov, ako aj jeho teoretický, výskumný a
+edukačný kontext, bol v slovenskej pedagogike najdôkladnejšie rozpracovaný autormi
+Gavora a Zápotočná.
+V oblasti metakognitívnych procesov skúmame recepcie na začiatku, v priebehu a po
+dokončení recepcie textu. Počas procesov na začiatku recepcie textu sa čitateľ zameriava na
+cieľ vnímania textu. Kdežto u žiakov tento cieľ väčšinou stanovuje učiteľ/ka (Gavora, 1992).
+Pred čítaním by si mal čitateľ byť schopný klásť otázky, ktoré určujú cieľ čítania. Počas
+čítania sa očakáva, že čitateľ bude neustále využívať zručnosť metakognície.
+Metakognitívne zručnosti sú v tejto fáze kľúčové, pretože metakognitívny proces poskytuje
+študentovi vedomosti o tom, ako sa učí, tým, že ho upozorní, keď dochádza k poruchám
+alebo zlepšeniu porozumenia. Úspech alebo neúspech tohto procesu sa testuje na konci
+čítania prostredníctvom hodnotiacich otázok (Mohammed a Obida, 2024)
+Na základnej škole sa opakovane stáva, že žiak sa pri opakovaných zadaniach prispôsobí,
+je schopný si postupne vybudovať vlastné otázky k textu. Metakognitívne procesy možno
+rozdeliť do troch skupín. Prvou skupinou sú procesy pred recepciou textu, čo predstavuje
+stanovenie si už spomínaného cieľa recepcie. Druhou skupinou sú metakognitívne procesy
+v priebehu recepcie textu, ktoré sa delia na prognózovanie a monitorovanie. Prognózovanie
+obsahu je predpovedanie alebo predvídanie obsahu textu obsiahnutom v nasledujúcej časti.
+Počas monitorovania čitateľ sleduje či dosahuje svojou činnosťou cieľ, ktorý si stanovil.
+Procesy po dokončení recepcie textu sú zamerané na hodnotení najmä toho, či dosiahol cieľ
+31
+
+pri čítaní daného textu, ktorý si stanovil v prvom bode. Každý z metakognitívnych procesov
+sa líši nielen poradím a trvaním, ale aj vlastnou funkciou pri recepcii textu (Gavora, 1992).
+Pojem metakognícia sa spája s autormi ako je Flavella, Zápotočná, Helus, Gavora
+a Brownová. Všetci títo autori sa venovali metakognícii, metakognitívnym procesom
+a metakognitívnym spôsobilostiam. Gavora špecifikuje metokogníciu ako „aktívne
+sledovanie a riadenie vlastných kognitívnych činností“ (Gavora, 1992, s. 90).
+Zápotočná charakterizovala metaporozumenie alebo teda metakognitívne činnosti pri
+čítaní ako „vedomé myšlienkové procesy a operácie, v rámci ktorých sa porozumenie tvorí,
+konštruuje, monitoruje, či vyhodnocuje...“ (Zápotočná, 2012, s. 91).
+Pohľad na metakognitívne procesy sú z hľadiska psychológov a pedagógov odlišné.
+Učiteľ/ka hľadá spôsoby a možnosti ako u žiakov zlepšiť vlastnú činnosť a tak sa môžu stať
+užitočným spôsobom učenia sa. Časom sa postupne prechádza od vedenia učiteľom alebo
+rodičom prechádza k vlastnej činnosti žiakov tzv. sebaregulácii. Pri recepcii textov sa
+stretávame s názormi, že existujú texty, ktoré si pozornosť vyžadujú sústavne od začiatku až
+po koniec. Na druhej strane sú texty, pri ktorých nemusí byť také vysoké zastúpenie
+metakognitívnych procesov (Gavora, 1992).
+Na rozvoj metakognície u žiakov uviedol Huitt (in Turek, 2003) nasledujúce
+spôsoby:
+-
+
+Poskytnúť žiakom príležitosť monitorovať a reflektovať svoje vlastné učenie a
+myslenie.
+
+-
+
+Učiť žiakov rôznym učebným stratégiám a umožniť im ich samostatne aplikovať.
+
+-
+
+Požiadať žiakov, aby si predvídali, čo sa môžu dozvedieť z nového učiva, a po
+preštudovaní textu porovnať svoje predpovede.
+
+-
+
+Dať žiakom možnosť identifikovať, aké existujúce vedomosti a zručnosti súvisia s
+novým učivom.
+
+-
+
+Povzbudiť žiakov, aby kládli otázky týkajúce sa učiva, spôsobu a metodiky učenia.
+
+-
+
+Pomôcť žiakom rozpoznať momenty, kedy by mali požiadať o pomoc pri učení, čo
+si vyžaduje sebamonitorovanie a snahu riešiť úlohy samostatne.
+
+-
+
+Podporovať žiakov pri prenose vedomostí a aplikácii naučeného v nových
+kontextoch.
+Metakognitívne procesy počas čítania textu zahŕňajú štyri kľúčové techniky v
+
+rôznych formách:
+
+32
+
+•
+
+Objasňovanie nejasných častí textu – čitateľ preformuluje obsah vlastnými
+slovami, pričom sa zameriava na nejasné alebo sporné pasáže (najprv s pomocou
+učiteľa, neskôr samostatne).
+
+•
+
+Kladenie otázok – žiaci kladú otázky na overenie porozumenia, či už ide o otázky
+na doslovné vyhľadávanie informácií alebo vyvodzovacie otázky na zistenie
+implicitných informácií.
+
+•
+
+Tvorba súhrnov – formulovanie hlavných myšlienok textu výberom dôležitých
+informácií alebo vytváraním skrátenej verzie textu cez integráciu a zovšeobecnenie
+informácií.
+
+•
+
+Predpovedanie obsahu nasledujúcej časti textu – čitateľ robí predpoklady o tom,
+čo bude nasledovať, a tieto predpoklady overuje v ďalšom čítaní, čím sa jeho
+porozumenie stáva flexibilnejším a presnejším. To tiež ovplyvňuje jeho čitateľské
+stratégie, ako napríklad spomalenie tempa čítania alebo preskočenie niektorých častí
+textu (Kašiarová, 2011).
+
+Vyššie spomenuté procesy budeme využívať pri praktickej časti našej diplomovej práci
+s textom pred, počas a po vypočutí. Na základe uvedených teoretických informácií
+a poznatkov si dovolíme tvrdiť, že metakognitívne procesy v súvislosti s vypočutým alebo
+prečítaným textom sú výborným nástrojom pre porozumenie textu.
+Vnímanie a porozumenie textu výrazne ovplyvňujú vlastnosti textu, ale aj vek
+a podmienky, počas ktorých žiak recipuje text (Gavora, 1992).
+
+33
+
+3. VÝSKUMY SÚVISIACE S TÉMOU DIPLOMOVEJ PRÁCE
+Viacerí autori sa v zahraničí i na Slovensku v minulosti aj v súčasnosti venovali
+výskumu pamäti a pozornosti, jej vplyvu na čítanie s porozumením alebo počúvanie
+s porozumením.
+Dziak a Lukáč (2023) svoj výskum zamerali na žiakov tretieho ročníka základnej školy
+a to konkrétne na detské porozumenie textu prostredníctvom recepcie počúvaného
+a čítaného naratívneho textu. V závere dospeli k výsledku, že žiaci tretieho ročníka dokážu
+bez nápovedí vytvárať online inferencie počas počúvania a čítania naratívneho textu, ale s
+chybami, a to pri až pri jednej tretine participantov.
+V štúdiách, ktoré skúmajú vzťah medzi pracovnou pamäťou a plynulosťou čítania, sa
+zdôrazňuje, že najmä verbálna zložka pracovnej pamäti má vplyv na plynulosť čítania a
+schopnosť čítať s porozumením. Výskumy naznačujú, že študenti s lepšou verbálnou
+pracovnou pamäťou majú schopnosť presnejšie prevádzať písmená na zvuky, tieto zvuky si
+lepšie ukladajú do pamäte a počas dekódovania ich efektívnejšie kombinujú a rozdeľujú.
+Týmto štúdiám sa venovali Joubert et al. ( 2004) a Purpura et al. (2017).
+Slováčková a Kapálková (2013) sa venovali porozumeniu textu a porovnávali ho z
+hľadiska pohlavia, veku, ako aj porozumenia explicitným a implicitným informáciám
+v texte.
+V Českej republike zamerali Koželuhová a Laufková (2024) svoju štúdiu na rozvoj
+porozumenia predčítanému textu počas primárneho vzdelávania v Českej republike. Jednalo
+sa o prehľadovú štúdiu, kde analyzovali dostupné výskumy a štúdie iných autorov na danú
+tému. Dospeli k záveru, že v mnohých oblastiach sa teoretické vedomosti rozchádzajú
+s praxou v školských zariadeniach.
+Autorky Smolkin a Donovan (2001, in Zápotočná 2013, s. 101) zobrazuje „implicitný
+prístup k učeniu sa stratégiám práce s textom u žiakov prvého ročníka základnej školy“.
+V tomto prístupe zohráva dôležitú úlohu učiteľ a jeho spôsob, akým pracuje s textom.
+Sledovali prácu jednej konkrétnej pani učiteľky, ktorej žiaci dosahovali nadpriemerné
+výsledky v čítaní s porozumením. Neustálymi rozhovormi a diskusiami o texte rozvíja škálu
+spôsobov myslenia pri čítaní. Neodporúčajú explicitné vyučovanie stratégii hlavne
+v dekontextualizovanej podobe začiatočného čítania.
+Peterson et al. (1987, in Zápotočná 2013) vykonali v smere explicitného vyučovania
+stratégii čítania veľa tréningových štúdií. Uvedieme niektoré etapy, ktoré charakterizujú
+explicitný prístup v čom najlepšej miere. Prvá etapa sa nazýva modelovacia a učiteľ v nej
+nahlas predvedie na základe nejakého textu spôsob jej realizácie. Druhá etapa riadeného
+34
+
+precvičovania a učiteľ počas nej žiakov hodnotí, motivuje a povzbudzuje. Žiaci počas tejto
+fázy pracujú s pracovnými listami, ktoré sú pre danú tému vhodne zvolené. V tretej etape
+nazývanej ako etapa konsolidácie, za diskutuje o vzniknutých nejasnostiach. Vo fáze
+nezávislého precvičovania už žiaci pracujú sami alebo vo dvojici. Veľmi dôležitou etapou je
+etapa aplikácie, keď sa stratégia, ktorú sa žiaci naučili snažia aplikovať na nových
+podobných textoch, na konkrétnych príkladoch.
+
+35
+
+CIELE A METÓDY VÝSKUMU
+ňCieľom praktickej časti diplomovej práce bolo preskúmať, do akej miery súvisí úroveň
+pamäte a pozornosti s čítaním s porozumením resp. počúvaním s porozumením u žiakov
+prvého ročníka základných škôl.
+Na základe vyššie uvedených teoretických poznatkov a predošlých výskumov
+formulujeme nasledujúce hypotézy a výskumné otázky.
+Hypotézy:
+H1: Predpokladáme, že existuje štatisticky výrazne pozitívny vzťah medzi pamäťou
+a pozornosťou a porozumením pri počúvaní s porozumením.
+H2: Predpokladáme, že existuje štatisticky výrazne pozitívny vzťah medzi pamäťou
+a pozornosťou a explicitným porozumením pri počúvaní s porozumením.
+H3: Predpokladáme, že neexistuje štatisticky výrazne pozitívny vzťah medzi pamäťou
+a pozornosťou a implicitným porozumením pri počúvaní s porozumením.
+Výskumné otázky:
+O1: Bude pri porozumení textu u žiakov preukázateľný štatisticky významný rozdiel
+medzi explicitným a implicitným porozumením počúvaného textu?
+O2:Vznikne korelačný vzťah medzi metakognitívnou presnosťou a správnosťou označenia
+
+36
+
+5. METODIKA VÝSKUMU
+5.1.Participanti
+Výskumu sa zúčastnilo spolu 30 žiakov z troch tried prvého ročníka jednej základnej
+školy, ktorí aktuálne navštevovali základnú školu tretí mesiac. Z výskumnej vzorky bolo 15
+dievčat a 15 chlapcov s priemerným vekom xy. Pred začiatkom realizácie výskumu sme si
+od všetkých rodičov vyžiadali informovaný súhlas, v ktorom vyjadrili súhlas s testovaním
+žiakov. Pre zabezpečenie anonymity participantov, bol každému žiakovi pridelený jedinečný
+kód, s ktorým sme ďalej pracovali pri spracúvaní údajov.
+
+5.2.Metódy výskumu
+Využili sme dve metódy, aby sme zistili úroveň pamäte a pozornosti a počúvania
+s porozumením.
+Úroveň pamäte a pozornosti sme zisťovali dynamickou vizuálnou úlohou zameranou na
+sledovanie viacerých objektov. Jednalo sa o úlohu s príbehom o čarodejnici, ktorá zakliala
+princezné na žaby. Požiadali sme dieťa o pomoc pri odčarovaní princezien. Na začiatku žiak
+videl vždy osem objektov. Z toho jednu, dve alebo tri hlavy princezien a ostatné boli hlavy
+žiab. Po niekoľkých sekundách sa princezné zmenili na žaby a všetkých osem žiab sa začalo
+pohybovať. Po niekoľkých sekundách sa žaby zastavili. Po zastavení žiab označili žiaci
+príslušný počet žiab, hviezdičkou, na základe počiatočného počtu princezien. Najprv mali
+označiť žaby, ktoré si mysleli že sú zakliate princezné. V prípade, ak si boli istý, že daná
+žaba je skutočne princeznou označili ju druhou hviezdičkou. Na základe správnosti a istoty
+označenia, získavali participanti body. Ak žiak označil princeznú jednou hviezdou, tak získal
+alebo stratil za označenie jeden bod a ak označil žabu dvoma hviezdičkami, tak získal alebo
+stratil za označenie dva body. Keď nastala situácia, že bola zakliata jedna princezná mohol
+participant získať minimálne -2 body a maximálne 2 body za riešenie, v prípade zakliatia
+dvoch princezien mohli získať minimálne -4 body a maximálne 4 body a ak čarodejnica
+zakliala tri princezné, tak bol minimálny počet bodov -6 a maximálny 6 bodov. Hra trvala
+jednému žiakovi približne 28 minút.
+Druhou metódou bolo meranie porozumenia pri počúvaní s porozumením.
+Tento aspekt sme zisťovali pomocou krátkeho textu „Les v zime“, ktorý sme žiakom pustili
+zo záznamu. Príbeh bol rozdelený do šiestich častí, po každej časti nastala pauza a žiakom
+sme položili otázky na porozumenie, ktoré vychádzali z príbehu. Posudzovali sme úroveň
+explicitného a implicitného porozumenia počúvaného textu. Šesť otázok bolo zameraných
+37
+
+na skúmanie explicitného porozumenia textu a osem otázok na implicitné porozumenie
+významu textu. Žiak mohol v prvej kategórii získať 0 až 2 body za jednotlivé odpovede na
+otázky zamerané na explicitný význam. Celkovo mohol dosiahnuť maximálne 8 bodov.
+V druhej kategórii implicitného porozumenia participant mohol získať 0 až 2,5 bodov.
+V súčte teda mohol získať v tejto kategórii maximálne 18 bodov. Spolu za obe kategórie
+mohli žiaci dosiahnuť maximálne 26 bodov za počúvanie s porozumením. Sčítanie bodov
+poukazovalo na celkové porozumenie počúvaného textu. Otázky, ktoré sme deťom kládli
+boli v súlade s otázkami typu PIRLS a vďaka nim je možné mapovať viacúrovňové
+porozumenie textu na všetkých štyroch rovinách.
+
+5.3.Postup
+Výskum prebiehal na základnej škole. Skôr ako sme začali výskum realizovať sme si od
+rodičov žiakov, ktorí sa podieľali na výskume vyzbierali informovaný súhlas o účasti žiakov
+na výskume cez edupage. Výskum prebiehal individuálne v kabinete základnej školy, kde
+bolo zabezpečené pokojné a ničím nerušené prostredie. Čas testovania bol pri každom
+žiakovi individuálny, avšak v priemere trval približne 35 minút.
+Pred začiatkom testovania sme so žiakom alebo žiačkou viedli krátky dialóg pre
+odbúranie stresu. Pýtali sme sa na to, aký majú deň, ako sa vyspali alebo ako sa volajú a či
+sa im na základnej škole páči. Následne sme pristúpili k prvej úlohe. Vysvetlili sme im, čo
+bude ich úlohou, akým spôsobom dostávajú body v hre. Na začiatku každého testovaného
+žiaka alebo žiačky sme prešli tým istým manuálom, ktorým nás sprevádzala hra obrazovým
+vysvetlením. Po vysvetlení sme sa žiakov pýtali, či porozumeli a či teda môžeme začať.
+Prvých 5 úloh bolo len cvičných, počas ktorých sa im získané body nezapočítavali do
+celkového hodnotenie. Tieto tréningové úlohy sme komentovali: „Pozri koľko bude
+zakliatych princezien. Pozorne sleduj pohybujúce sa žabky.“ Mohlo dôjsť k začarovaniu
+jednej, dvoch alebo troch princezien. Po zastavení žiab sme ich vyzvali k označeniu
+zakliatych princezien hviezdičkami nasledovne: „Ukáž mi na obrazovke, čo si myslíš, ktoré
+žaby sú zakliate princezné? Teraz mi ukáž žaby , pri ktorých si si istý, že sú to zakliate
+princezné.“ Tie, pri ktorých žiaci preukázali istotu sme označili dvoma hviezdičkami. Po
+každej úlohe im zobrazilo získaný počet bodov. Za každú správnu hviezdičku získali plus
+jeden bod a za každú nesprávnu mínus jeden bod. Po skončení hry im ukázalo celkový počet
+dosiahnutých bodov.
+Po skončení hry sme žiakom dopriali prestávku a pokračovali sme druhou úlohou
+zameranou na počúvanie s porozumením. Vysvetlili sme im, že si prehráme krátky príbeh
+38
+
+z nahrávky, počas ktorého sa ich budeme pýtať otázky a zapisovať si ich odpovede. Pred
+začiatkom nahrávky sme im ukázali obrázok a prihovorili sa im: „Teraz si vypočujeme jeden
+príbeh, ktorý sa volá „Les v zime“. Pozri, je k nemu takýto obrázok. Čo myslíš, kto asi bude
+v tomto príbehu vystupovať?“ Následne sme spustili nahrávku s predčítaným textom a počas
+pauzy za určitým úsekom sme položili žiakom otázky na explicitné alebo implicitné
+porozumenie textu a doslovnú odpoveď sme si zaznamenali do odpoveďového hárku.
+Niektorí žiaci boli zdržanlivejší a nechceli odpovedať, tak sme ich ubezpečili, že sa nemusia
+báť povedať, čo si myslia, že sa jedná len o výskum, že nebudú hodnotení na vyučovacej
+hodine, na základe odpovedí a aj že nikto nebude vedieť, čo odpovedali. Ak došlo
+k nezodpovedaniu otázky, tak sme otázku opätovne zopakovali, avšak žiakom sme nijako
+nepomáhali ani sme ich nenavádzali k správnej odpovedi. Nijako sme nehodnotili ani nedali
+znať správnosť odpovede, ani v prípade absurdných odpovedí. Otázky zamerané na
+explicitné porozumenie textu vyplývali jednoznačne z textu. Napríklad „Tento príbeh sa
+bude volať les v zime.....“ následne odznela otázka „V akom ročnom období sa odohráva
+príbeh?“ Na druhú stranu otázky implicitného charakteru boli orientované najmä na
+predvídanie následnosti deja „Čo si myslíš, čo sa stane ďalej? Čo myslíš, čo sa stane
+s vlkom? Myslíš si, že sa vlk poučil? Čo si myslíš, čo myslel autor tým, keď povedal.....?“
+Niektorí žiaci odpovedali okamžite promptne na položenú otázku, iní potrebovali viac času
+na odpoveď, ktorý sme im samozrejme dopriali. Tento postup sme zopakovali šesť krát. Po
+ukončení testovania sme žiakov pochválili a poďakovali sa im za spoluprácu.
+Počas oboch testovaní sme si dávali obzvlášť pozor na naše reakcie. Jednalo sa najmä
+o reakcie počas hry so zakliatymi žabami. Niekedy sa nám naskytalo, aby sme
+povzbudzovali deti k pozornosti a sústredeniu, avšak takýto zásah by mohol ovplyvniť
+relevantnosť našich výsledkov. Podobný problém sme mali aj pri počúvaní s porozumením
+z dôvodu, že sme mnohokrát mali potrebu žiakom položiť otázku priamejšie
+a jednoznačnejšie pre ich zmýšľanie. Takýto podnet z našej strany by bol tiež skresľujúci
+a nevhodný vzhľadom na testové úlohy. Pri nesprávnom pozmenení otázky by mohlo dôjsť
+k zmene charakteru otázky z implicitnej na explicitnú a podobne. Po úplnom skončení
+testovania sme sa žiakov spýtali, či sa im testovanie páčilo, ako sa cítili a čo bolo pre nich
+náročné.
+Ďalej sme merali metakogníciu, kde sme porovnávali počet získaných bodov
+z dynamickej aplikácie, kde odzrkadlila ich presnosť a metakognícia v súvislosti
+s maximálnym možným počtom získaných bodov, keďže pri istote mali svoje tvrdenie
+označiť dvoma hviezdami. Gavora vo svojej publikácii žiak a text (1992), kde sa venuje
+39
+
+možnostiam zlepšiť recepciu textu vo vzťahu k metakognitívnym procesom žiaka. Helus
+(1987, in Gavora 1992 s. 90) popisuje metakognitívnu spôsobilosť ako „spôsobilosť žiakov
+podrobovať reflektujúcemu pohľadu svoje vlastné učebné predpoklady, svoje učebné
+stratégie, svoj vlastný učebný proces a jeho výsledky“. Rozhodli sme sa odzrkadliť
+sebahodnotenie žiakov v rámci vlastnej istoty sme sa rozhodli zobraziť grafom ako
+známkový systém od jedna do päť za dosiahnutý počet bodov.
+
+40
+
+6. VÝSLEDKY
+V nasledujúcej časti diplomovej práce vyhodnotíme získané dáta na základe ich
+spracovania a analýzy v programe JASP. Sledovali sme koreláciu medzi dosiahnutými
+výsledkami za hru zameranú na pamäť a pozornosť s počúvaním s porozumením. Pri
+porovnávaní priemerného výsledku z implicitného a explicitného porozumenia počúvaného
+textu sme využili analytickú metódu Studentovým T-testom .
+V prvej podkapitole sa budeme venovať výsledkom získaným za pamäť a pozornosť
+v závislosti na počúvanie s porozumením. V druhej podkapitole sa zameriame na koreláciu
+medzi pamäťou a pozornosťou a explicitným porozumením v počúvaní a v tretej
+podkapitole popíšeme vzťah zo získaných výsledkov medzi pamäťou a pozornosťou
+a implicitným počúvaním s porozumením.
+Na výskume sa podieľalo 30 žiakov z troch rôznych tried na základnej škole. Výsledky
+z dynamickej vizuálnej úlohy sme vyhodnotili na základe databázy, ktorá nám vznikla po
+testovaní. Zosumarizovali sme body a zamerali sme sa na správnosť pri označovaní žiab
+resp. zakliatych princezien. Body sme vyjadrili percentuálne za každú úlohu samostatne
+a následne sme vyhodnotili percentuálny priemer za celú úlohu.
+Odpovede, ktoré sme od žiakov získali a zapísali do hárkov, sme obodovali a zadali do
+tabuľky celkový počet bodov, počet bodov získaných za explicitné porozumenie a body
+získané za implicitné porozumenie.
+
+6.1.Vzťah medzi pamäťou a pozornosťou a počúvaním s porozumením
+Vzťah medzi pamäťou a pozornosťou a počúvaním s porozumením sme zistili pomocou
+výpočtu z Pearsonovej korelačnej analýzy v programe JASP. Najvyšší priemerný počet
+percent získaných za hru bol 94% a najvyšší počet dosiahnutých bodov za počúvanie
+s porozumením bolo 18 z 26. Tabuľka č. 1 nám na základe údajov z nášho výskumu ukazuje,
+že existuje slabý pozitívny korelačný vzťah (r = 0.25), ktorý však nie je signifikantný (p =
+0.19) medzi pamäťou a pozornosťou a počúvaním s porozumením.
+Tabuľka 1: Korelačný vzťah medzi pamäťou a pozornosťou a počúvaním s porozumením
+N = 30
+Pamäť a pozornosť
+
+-
+
+Premenné
+
+Pearson's r
+
+p
+
+Počúvanie s porozumením
+
+0.245
+
+0.193
+
+N = počet respondentov, r = Pearsonov korelačný koeficient, p = štatistická
+významnosť
+41
+
+Graf 1: Zobrazenie pamäti a pozornosti v porovnaní s percentuálnym porozumením
+
+6.2.Vzťah medzi pamäťou a pozornosťou s explicitným počúvaním s porozumením
+Vzťah medzi pamäťou a pozornosťou s explicitným počúvaním s porozumením sme
+opäť vložili do Pearsonovej korelačnej analýzy v programe JASP. Najvyšší počet získaných
+bodov za explicitné počúvanie s porozumením bolo 7 z 8. V tabuľke č. 2 môžeme vidieť, že
+neexistuje korelačný vzťah (r = 0.09) medzi pamäťou a pozornosťou a explicitným
+počúvaním s porozumením. Kdežto na základe poznatkov z teórie by mal nastať silný
+korelačný vzťah. V tomto vzťahu sa nepreukázala štatistická významnosť (p = 0.61).
+
+42
+
+Tabuľka 2: Korelačný vzťah medzi pamäťou a pozornosťou a explicitným počúvaním s
+porozumením
+N = 30
+Pamäť a pozornosť
+
+-
+
+Premenné
+
+Pearson's r
+
+p
+
+Explicitné porozumenie
+
+0.097
+
+0.611
+
+N = počet respondentov, r = Pearsonov korelačný koeficient, p = štatistická
+významnosť
+Graf 2: Znázornenie korelačných vzťahov medzi pamäťou a pozornosťou a explicitným
+zobrazením
+
+Vzťah medzi pamäťou a pozornosťou s implicitným počúvaním s porozumením
+
+43
+
+Tentokrát sme do programu JASP vložili na analyzovanie údaje z hry na pamäť
+a pozornosť vo vzťahu k implicitnému porozumenie počutého textu. Maximálny výpočet
+bodov, ktorý sa žiakom podarilo dosiahnuť za implicitné počúvanie s porozumením bolo
+12,5 bodov z 18. Z bodov, ktoré žiaci získali a ich vyhodnoteniu sme zistili slabý korelačný
+vzťah (r = 0.27) medzi pamäťou a pozornosťou a implicitným počúvaním textu, ktorý však
+nie je štatisticky významný a ktorý vidíme v tabuľke č.3.
+Tabuľka 3: Korelačný vzťah medzi pamäťou a pozornosťou a Implicitným počúvaním s
+porozumením
+
+N = 30
+Pamäť a pozornosť
+
+-
+
+Premenné
+
+Pearson's r
+
+p
+
+Implicitné porozumenie.
+
+0.272
+
+0.146
+
+N = počet respondentov, r = Pearsonov korelačný koeficient, p = štatistická
+významnosť
+Graf 3: Vyjadrenie korelačného vzťahu medzi pamäťou a pozornosťou a implicitným
+porozumením
+
+44
+
+Na základe uvedených výsledkov môžeme konštatovať spor medzi teoretickými
+podkladmi a našim výskumom. Na skúmanej vzorke žiakov sa nepreukázal ani v jednom
+z prípadov silný korelačný vzťah pamäte a pozornosti s počúvaním s porozumením.
+Pri skúmaní metakognície a odzrkadlenia ich istoty, ktorá reflektovala ich
+sebahodnotenie pri realizácii úlohy na pamäť a pozornosť sme vložili do grafu percentuálne
+vyjadrenie získaných bodov z označovanie žiab na základe vlastného sebahodnotenia istoty
+a priemerné percentuálne vyhodnotenie správnosti za označenie žiab na základe ich
+pozornosti.
+Vzťah medzi metakognitívnou presnosťou a správnosťou označenia
+Z dynamickej aplikácie sme získali údaje, ktoré nám odzrkadľujú metakognitívnu
+presnosť žiakov pri kombinácii správneho označenia a istoty označenia žaby. Zisťovali sme
+či medzi týmito dvoma údajmi vznikne korelačný vzťah. Po zadaní percentuálnej úspešnosti
+žiakov do analytického programu JASP sme získali nasledovné dáta.
+Tabuľka 4: Korelačný vzťah medzi metakognitívnou presnosťou a správnosťou označenia
+
+Metakognitívna presnosť
+
+-
+
+Správnosť
+
+Pearson's r
+
+p
+
+0.772
+
+< .001
+
+***
+
+* p < .05, ** p < .01, *** p < .001
+Z korelačnej tabuľky 4 vidíme, že medzi premennými vznikol silný korelačný vzťah (r
+= 0.77). Na základe výsledku vzťahu medzi metakognitívnou presnosťou a správnosťou
+môžeme konštatovať, že údaje spolu súvisia a za určitých okolností sa môžu správať
+podobne. Prikladáme aj grafické znázornenie.
+
+45
+
+Graf 4: Grafické zobrazenie korelačného vzťahu medzi metakognitívnou presnosťou a
+správnosťou označenia
+
+Graf 5: Porovnanie metakognitívnej presnosti a správnosti jednotlivých žiakov
+100
+90
+
+získané percentá
+
+80
+70
+60
+50
+
+Správnosť
+
+40
+
+Metakognitívna presnosť
+
+30
+20
+10
+0
+1 2 3 4 5 6 7 8 9 101112131415161718192021222324252627282930
+
+počet žiakov
+
+Na grafe máme zobrazené percentuálne porovnanie pri označovaní žiab v dynamickej
+aplikácii žiakmi. Modrou farbou sme označili stĺpce vyjadrujúce presnosť označenia žiab,
+pod ktorými sa skrývali princezné. Oranžovou farbou sme zobrazili percentuálne vyjadrenie
+46
+
+istoty označenia. Za nesprávne označenie žiaci strácali body a to tak, že pokiaľ označili
+nesprávne žabu dvoma hviezdičkami dva body sa im odčítali. Pokiaľ ju označili správne, tak
+dva body získali. Za všetky správne odpovede istoty mohli žiaci získať maximálne 132
+bodov, čo predstavuje 100%. Presnosť sme vyjadrovali percentuálne samostatne za každé
+kliknutie a vypočítali sme priemerný počet percent, avšak ak by žiak získal za presnosť
+100% odzrkadlilo by to počet bodov vo výške 66. Z údajov zobrazených na grafe nám
+vyplýva, že žiaci získali lepšie výsledky za správnosť označenia, ako za vlastnú sebareflexiu
+premietnutú do metakognitívnej presnosti. Ak by sme tieto výsledky chceli porovnať na
+základe známok, ktoré by získali za správnosť a tie, ktoré by sa im podarilo utŕžiť za
+metakognitívnu presnosť, vyzeralo by to nasledovne.
+Graf 6: Známky, ktoré by žiaci získali za správnosť v porovnaní s metakognitívnou
+presnosťou
+
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+1
+
+2
+
+3
+
+Metakognitívna presnosť
+
+4
+
+5
+
+Správnosť
+
+V grafe 2 sme vytvorili percentuálne vyhodnotenie žiakov na známku, ktorú by za
+daný počet percent získali a to nasledovne: 1 - 100 – 80%, 2- 79-60%, 3- 59-40%, 4- 3920% a 5-19-0%. Počet bodov v danom percentuálnom rozhraní je samostatne vypočítané za
+presnosť a za istotu. V prípade prevedenia percent na body za správnosť to bude vyzerať
+nasledovne:
+1- 66 – 52,8 bodu
+2- 52,7 – 39,6 bodu
+3- 39,5 – 26,4 bodu
+47
+
+4- 26,3 – 13,2 bodu
+5- 13,1 – 0 bodov
+Pri prenesení percentuálneho vyjadrenia na body za metakognitívnu presnosť to vyšlo
+nasledovne:
+1- 132 - 105,6 bodu
+2- 105,5 – 79,2 bodu
+3- 79,1 – 52,8 bodu
+4- 52,7 – 26,4 bodu
+5- 26,3 – 0 bodov
+Z grafu vyplýva, že žiaci by získali podstatne lepšie známky za presnosť ako istotu. Z grafu
+vyplýva, že v priemere by najviac žiakov získalo známku 3 za metakognitívnu presnosť, ale
+za správnosť by viac ako polovica žiakov dostala hodnotenie 1.
+
+48
+
+7. DISKUSIA
+Diplomová práca bola zameraná na skúmanie vplyvu pamäte a pozornosti na čítanie
+s porozumením u žiakov prvého ročníka základnej školy. Hlavným cieľom výskumnej časti
+našej práce bolo zistiť, či u žiakov dochádza k vplyvu pamäte a pozornosti na čítanie
+s porozumením. Stanovili sme si tri hypotézy a jednu výskumnú otázku, na ktorých analýzu
+sme využili koreláciu v programe JASP.
+Vzťah medzi pamäťou a pozornosťou a čítaním s porozumením
+V rámci prvej hypotézy sme si stanovili predpoklad, že existuje pozitívny štatisticky
+významný vzťah medzi pamäťou a pozornosťou a čítaním s porozumením. Táto hypotéza sa
+nám na základne nášho výskumu iba čiastočne potvrdila, pretože z výsledkov vyplýva, že r
+= 0.25 a p = 0.19.
+Ergül et al. (2022) spomína vo svojej štúdii viacerých autorov, ktorí sa zaoberali
+vplyvom procesuálnej pamäti na čítanie s porozumením. Pri opakovanom testovaní, tých
+istých subjektov počas určitého časového intervalu ukázalo, že v skutočnosti naozaj existuje
+vplyv pracovnej pamäti na rozvoj čítania s porozumením.
+Zápotočná (2012, s. 95) uvádza, že „porozumenie je riadené a limitované kapacitou
+operačnej pamäti“ Pokiaľ je pamäť zahltená nepotrebnými informáciami, čitateľovi unikne
+širší význam textu, preto je jednou z hlavných otázok tohto modelu, aké sú vstupné
+informácie do operačnej pamäte, a ktoré tam zotrvávajú. Všetko to závisí od cieľov čitateľa.
+V hypotéze dva sme predpokladali pozitívny štatisticky významný vzťah medzi
+pamäťou a pozornosťou a explicitným porozumením textu. V našej výskumnej vzorky sa
+nám neukázal korelačný vzťah, takže hypotézu sme nepotvrdili a nepreukázali sme v tomto
+vzťahu dvoch premenných štatisticky významný vzťah (r = 0,097; p = 0,61).
+Explicitné porozumenie znamená pochopenie informácií, ktoré sú priamo vyjadrené
+v texte. Zameriavame sa teda na to, akým spôsobom dieťa pracuje s textom najmä na
+jazykovej úrovni a zohľadňuje kontext (Slováčková 2013).
+Už vyššie v predošlých kategóriách sme spomínali, že pamäť delíme na vedomú
+a nevedomú. Práve v prípade vedomej pamäte hovoríme o pamäti explicitnej. Z toho nám
+však vyplýva, že explicitné porozumenie textu na základe doterajších informácií by malo
+úzko súvisieť s pamäťou, keďže získavanie informácií potrebných na explicitné
+porozumenie je vedomá činnosť jedinca. Nám sa na základe výskumnej vzorky nepodarilo
+preukázať štatisticky významný vzťah medzi danými dvoma prvkami.
+
+49
+
+V tretej hypotéze sme si určili predpoklad, že vo vzťahu medzi pamäťou
+a pozornosťou a implicitným porozumením textu sa neukáže štatisticky významný vzťah.
+Keďže zo získaných dát nám vyplynula slabá pozitívna korelácia r = 0,27 aj keď
+nevýznamná úroveň štatistického významu p = 0,15 môžeme si dovoliť tvrdiť, že došlo
+k podporeniu hypotézy. Pri implicitnej pamäti hovoríme o pamäti ako o nevedomej pamäti,
+taktiež pokiaľ sa jedná o implicitné porozumenie textu. Implicitné porozumenie vzniká na
+základe opakovaní a nie je nutné aby participant vedome myslel na to, čo robí alebo ako
+zareaguje, pretože sa to deje samovoľne.
+Okrem iného nás tiež zaujímalo či bude u žiakov významný rozdiel medzi explicitným
+a implicitným porozumením počúvaného textu. Za explicitné porozumenie počutého textu
+mohli žiaci získať spolu 240 bodov, z ktorých sa im podarilo získať 116 bodov. Ich
+dosiahnutá percentuálna úspešnosť tým pádom bola 48%. Pri implicitnom porozumení textu
+mohli dosiahnuť spoločne maximálne 540 bodov. Tu sa im podarilo uspieť na 117 bodov,
+čiže 33%. Z dosiahnutých výsledkov vyplýva, že žiaci uspeli lepšie na rovine explicitného
+porozumenia ako implicitného.
+Tento výrok sme overili aj párovým t-testom v štatistickom programe JASP, ktorý
+nám ho potvrdil, keďže p < .001, tak existuje štatisticky významný rozdiel medzi priemermi
+explicitného a implicitného porozumenia. Prikladáme aj grafické zobrazenie na grafe 7.
+Tabuľka 5: Párová t-test priemeru explicitného a implicitného porozumenia
+Paired Samples T-Test
+
+Explicitné porozumeni
+
+-
+
+Implicitné porozumenie
+
+t
+
+df
+
+p
+
+4.596
+
+29
+
+< .001
+
+Note. Student's t-test.
+
+50
+
+Graf 7: Grafické znázornenie párového t-testu priemeru explicitného a implicitného
+porozumenia
+
+Výskumníci
+
+v oblasti
+
+pamäte
+
+a pozornosti
+
+v súvislosti
+
+s čítaním,
+
+čítaním
+
+s porozumením a počúvaním s porozumením dospeli k rôznym skutočnostiam a záverom
+ohľadom danej problematiky, ktoré majú vplyv na výsledky výskumov. Ergül et al. (2022)
+vo svojom výskume zameranom na vplyv pracovnej pamäti voči plynulému čítaniu žiakov
+a výkonnosti čítania s porozumením dospeli k záveru, že u testovaných žiakov došlo
+k zlepšeniu výkonnosti od prvého ročníka k druhému, dokonca aj v rámci polrokov medzi
+jeseňou a jarou. V štúdii sa tiež zistilo, že skóre verbálnej a vizuálnej pracovnej pamäte v
+materskej škole prispelo k plynulosti čítania a úspešnosti čítania s porozumením.
+Počas nášho výskumu sme si aj my všimli, že žiaci z jednej materskej školy alebo
+z jednej triedy odpovedali podobným spôsobom, respektíve disponovali podobnou slovnou
+zásobou. Taktiež dvojičky nezávisle od seba mali veľmi podobné odpovede na otázky
+implicitného charakteru. Nakoľko diplomantka pôsobí na danej základnej škole ako
+vychovávateľka, dovolili sme si v rámci činnosti v ŠKD realizovať výskumnú úlohu
+zameranú na počúvanie s porozumením. Oddelenie, v ktorom bola úloha realizovaná
+navštevujú žiaci druhej triedy, ale takmer polovičná časť triedy je tvorená žiakmi s iným
+materinským jazykom, ako je slovenský jazyk. Na naše prekvapenie, výsledky z úlohy, ktorú
+51
+
+realizovali žiaci druhého ročníka vo väčšine prípadov nepreukázali vyššiu úroveň
+explicitného ani implicitného porozumenia. Práve tejto problematike sa venovali Zhang
+a Joshi (2020), pričom zdôraznili, že dôležitou premennou je aj rýchlosť spracovania textu
+študentami a úrovňou ich rodného jazyka. Vedci vo svojom výskume skúmali vzťahy medzi
+verbálnou pracovnou pamäťou a čítaním študentov z rôznych lingvistických prostredí. Na
+konci druhého ročníka, by mali byť žiaci zručnejší pri čítaní s porozumením textu, ako to
+vyplýva z výskumu Florita a Caina (2011), preto sme sa rozhodli s druhákmi ku koncu
+školského roka túto aktivitu zopakovať.
+U žiakov prvého ročníka, ktorí tvorili výskumnú vzorku pre našu diplomovú prácu
+sa nepodarilo potvrdiť všetky hypotézy. K tejto skutočnosti mohlo dôjsť podľa nášho názoru
+hneď z niekoľkých dôvodov.
+Prvým mohla byť malá vzorka testovaným, možno ak by bol väčší počet žiakov
+podrobený testu, boli by výsledky relevantnejšie.
+Druhým faktorom mohla byť skutočnosť, že žiaci diplomantku poznali a a teda sa
+nejednalo o štandardnú testovú situáciu.
+Tretím faktorom, ktorý mohol ovplyvniť ich pozornosť bol fakt, že sa výskum
+realizoval hneď po jesenných prázdninách, keď sú žiaci ešte roztržití a plní zážitkov z voľna.
+A v neposlednom rade ich výkon môže závisieť aj od povahových vlastností pri
+odpovediach na otázky. Pretože pri niektorých deťom bolo vidieť, že sa hanbia alebo sú
+introverti. Pri týchto deťom sme mali možnosť si všimnúť aj veľmi dobré výsledky pri
+dynamickej úlohe, kde pracovali samostatne, bez nutnosti viesť dialóg a slabé výsledky pri
+úlohe na počúvanie s porozumením. Charakteristickou odpoveďou týchto detí bolo zväčša
+ticho, jednoslovná odpoveď alebo len neviem.
+Do budúcna si dovolíme uviesť odporúčanie niektoré z vyššie uvedených rušivých
+elementov pre výskum eliminovať, pokiaľ to bude možné.
+
+52
+
+ZÁVER
+Každý jedinec, ktorý disponuje sluchom či zrakom, vníma svet vôkol seba už od
+narodenia. Pozornosť a pamäť spolu úzko súvisia a tam, kde nie je pozornosť nedochádza
+ani k zapamätávaniu si informácií.
+Diplomovú prácu sme rozdelili na dve časti. Teoretickú a praktickú. V teoretickej
+časti bola prvá kapitola zameraná práve na problematiku pamäti a pozornosti. Definovali
+sme si krátkodobú pamäť, senzomotorickú pamäť, dlhodobú pamäť a popísali sme proces,
+ktorý prebieha medzi nimi pre prenos a uchovanie informácie.
+V druhej kapitole sme upriamili našu pozornosť na jazykové kompetencie. Do tejto
+kapitoly
+
+sme
+
+zaradili
+
+porozumenie
+
+textu,
+
+počúvaniu
+
+s porozumením
+
+a čítaniu
+
+s porozumením a metakogníciu. Tejto problematike sa najviac venovali zo slovenských
+autorov Zápotočná, Liptáková a Gavora. Všetci spomenutí autori sa vo svojich odborných
+publikáciách venovali prevažne porozumeniu alebo čítaniu s porozumením. Avšak pri
+spracúvaní informácií ohľadom problematiky počúvania s porozumením sme pociťovali
+deficit adekvátnych zdrojov. Tento deficit nebol len na slovenskej pedagogickej pôde, ale aj
+v zahraničnej, pretože aj autori, ktorí sa venovali problematike s počúvaním s porozumením
+sa vo svojich výskumoch zamerali najmä na výučbu cudzích jazykov. Získané teoretické
+informácie nám poskytli podklady pre výskumnú časť diplomovej práce.
+Praktická časť bola zameraná na skúmanie vplyvu pamäte a pozornosti na čítanie
+s porozumením u žiakov prvého ročníka základnej školy. Keďže sa jednalo o prvákov, ktorí
+ešte nedisponujú zručnosťou čítať, text im bol spustený z nahrávky a dochádzalo
+k počúvaniu s porozumením. Tretia kapitola práce bola zameraná na metodológiu výskumu
+a priblížili sme si v nej participantov výskumu, metódy skúmania, ktoré sme použili.
+Výsledky sme interpretovali v štvrtej kapitole našej práce. Pamäť a pozornosť sme
+merali dynamickou úlohou na počítači a čítanie, resp. počúvanie s porozumením sme
+skúmali otázkami explicitného a implicitného charakteru k počúvanému textu. Našim
+cieľom bolo zistiť, či pamäť a pozornosť súvisia s explicitným porozumením počutého či
+čítaného textu, avšak že implicitné porozumenie nesúvisí s kapacitou pamäte a pozornosti.
+Zároveň sme poukázali na metakogníciu u žiakov v súvislosti s hodnotím vlastnej
+pozornosti formou dynamickej aplikácie zameranej na pamäť a pozornosť, kde žiaci podľa
+výsledkov grafov v porovnaní s presnosťou získali slabé hodnotenie, to znamená že sa mýlili
+vo svojom odhade.
+Po realizácii, vyhodnotení a interpretácii výskumu sme došli k záveru, že sa nám
+nepodarilo preukázať také výsledky, ako sme očakávali a teda sme nepotvrdili všetky zo
+53
+
+stanovených hypotéz. V štvrtej kapitole sme v rámci diskusie uviedli aj odporúčania
+k budúcim výskumom.
+Napriek tomu, že sme neboli úspešní v potvrdení hypotéz, získali sme cenné informácie,
+ktorým by sa mohli venovať aj iné výskumy. Problematike ohľadom počúvania
+s porozumením sa venuje veľmi málo autorov na Slovensku. V zahraničí je táto téma
+aktuálnejšia. Ako odporúčanie by sme radi uviedli, že na základe zistení počas realizácie
+praktickej časti, ale aj počas pedagogickej praxe sme pozorovali nízku mieru počúvania resp.
+čítania s porozumením. Zaujímavé by mohlo byť aj porovnanie testovania žiakov z iným
+rodným jazykom ako je slovenský jazyk so žiakmi s rodným jazykom slovenským,
+porovnanie výsledkov z jesenných testov oproti jarným testom, porovnanie výsledkov pri
+realizácii výskumu v rôznych ročníkoch na tých istých žiakoch a sledovanie ich progresu
+prípadného regresu. Na základe výsledkov výskumu by bolo možné aj podať odporúčanie
+pre jednotlivých žiakov alebo aj kolektív ohľadom práce s textom alebo aktivity zamerané
+na podnecovanie a trénovanie pamäti.
+
+54
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ALABÁNOVÁ, M. 2015. Recepcia a interpretácia literárneho textu. Čítanie s porozumením
+I. Nitra. Univerzita Konštantína Filozofa v Nitre: Filozofická fakulta. 2015. 168 s. ISBN
+978-80-558-0753-9.
+AKOĞLU, G. - ERGÜL, C. - ÖKCÜN AKÇAMUŞ, M. Ç. - KILIÇ TÜLÜ, B. et al. 2022.
+The Contribution of Working Memory to Reading Fluency and Reading Comprehension
+Performance: Longitudinal Results. Education and Science. Early Release, pp 1-23.
+Dostupné na: DOI: 10.15390/EB.2022.10701.
+ALDERSON J. C. (2000). Assessing Reading. Cambridge University Press, Cambridge
+2000,
+
+XV+398
+
+p.
+
+ISBN
+
+0521599997.
+
+Dostupné
+
+na:
+
+https://www.researchgate.net/publication/311899878_Review_of_the_book_Assessing_rea
+ding
+BLAHUTKOVÁ, Marie a kol. (2017). Psychomotorika pro tebe. Brno: Akademické
+nakladatelství CERM. ISBN 978-80-7204-954-7.
+DRLÍKOVÁ, E. a kol. 1992. Učiteľská psychológia. Bratislava: Slovenské pedagogické
+nakladateľstvo, 1992. 374 s. ISBN 80-08-00433-9.
+FAŠANOK, M. – GAŠPAROVIČOVÁ, J. 2013. Počúvanie s porozumením s vizuálnou
+podporou v Cudzie jazyky v slovenskom vzdelávacom systéme a politika viacjazyčnosti v
+Európskej únii Zvolen: Technická univerzita vo Zvolene. 142 s. ISBN 978-80-228-2533-7.
+FLORIT, E., - CAIN, K. (2011). The simple view of reading: Is it valid for different types of
+alphabetic orthographies?. Educational Psychology Review, 23(4), 553-576. s. 544-576.
+Dostupné na: doi:10.1007/s10648-011-9175-6
+GAVORA, P. 1992. Žiak a text. Bratislava: Slovenské pedagogické nakladateľstvo, 1992.
+127 s. ISBN 80-08-00333-2.
+GAVORA, P. a kol. 2008. Ako rozvíjať porozumenie textu u žiaka. Nitra : Enigma, 2008.
+ISBN 978-80-89132- 57-7.
+GAVORA, P. ZÁPOTOČNÁ, O. a kol. 2003. Gramotnosť. Vývin a možnosti jej didaktického
+usmerňovania. Bratislava: Univerzita Komenského. 2003.158 ISBN 80-223-1869-8.
+HODÁKOVÁ, S. 2021. Pracovná pamäť v simultánnom a konzekutívnom tlmočení.
+2021.Nitra: Univerzita Konštantína Filozofa v Nitre. 142s. ISBN 978-80-558-1751-4
+CHOVANOVÁ, E., 2007. Pamäť v procese vyučovania slovnej zásoby. Zborník
+Pedagogickej fakulty Trnavskej univerzity Séria A – philologica. Trnava: Trnavská
+univerzita, pedagogická fakilta. ISBN 978-80-8082-155-5.
+55
+
+JOSHI, R. M., - ZHANG, S., 2020. Longitudinal relations between verbal working memory
+and reading in students from diverse linguistic backgrounds. Journal of Experimental Child
+Psychology, 190 s., Dostupné na: DOI:doi.org/10.1016/j.jecp.2019.104727 KAČÁNI, V.
+a kol. 2004. Základy učiteľskej psychológie. 2. vyd. Bratislava: Slovenské pedagogické
+nakladateľstvo, 2004. 230 s. ISBN 80-10-00429-4.
+KAPALKOVÁ, S. – SLOVÁČKOVÁ, A. 2013. Porozumenie naratív u detí v predškolskom
+veku. Studie z aplikované lingvistiky. 2013/4. Česká republika: Charles University in
+Prague,
+
+Faculty
+
+of
+
+Arts.
+
+37-50
+
+s.
+
+Dostupné
+
+na:
+
+https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-06ccd62f-ed11-4086bea4-c88d4c462ac6
+KAŠIAROVÁ, N. 2011. Čitateľská gramotnosť v primárnom vzdelávaní. 1. vyd. Bratislava:
+Metodicko-pedagogické centrum v Bratislave. 2011. 40s. ISBN 978-80-8052-383-1.
+KOLLÁRIKOVÁ, Z. – PUPALA, B. 2010. Predškolská a elementárna pedagogika. 2. vyd.
+Praha: Portál, 2010. 456 s. ISBN 978-80-7367-828-9.
+KOVÁROVÁ, D. – KURTULÍKOVÁ, A. 2010. Mimočítankové čítanie. Metodické
+poznámky. Bratislava: Orbis Pictus Istroploitana. 2010. 32 s. ISBN 978-80-8120-015-1.
+KOŽELUHOVÁ, E. – LAUFKOVÁ, V. 2024. Rozvoj porozumění předčítanému textu v
+preprimárním vzdělávání v České republice: přehledová studie. O dieťati, jazyku
+a literatúre. roč. XII, č. 1. 2024. Prešov: Vydavateľstvo Prešovskej univerzity v Prešove.
+ISSN 2729-8639
+LEHENOVÁ, A.Vybrané kapitoly z pedagogickej a školskej psychológie, 1. diel (uplatnenie
+statického hľadiska pri skúmaní osobnosti žiaka, výkonové a motivačné vlastnosti osobnosti
+žiaka). Trnava : Pedagogická fakulta Trnavskej univerzity v Trnave, 2012. 153 s. [7,82 AH].
+ISBN 978-‑80-‑8082-‑583-‑6.
+MÁČAJOVÁ, M.2011. Jazyková gramotnosť, teória a metódy jej rozvoja.Nitra: PF UKF
+v Nitre.2011. 100 s. ISBN 978-80-558-0005-9.
+MCNAMARA, D. S., MAGLIANO, J. 2009. Toward a comprehensive model of
+comprehension. In B. H. Ross (Ed.). The Psychology of learning and motivation. vol. 51,
+Cambridge: Elsevier Academic Press. pp. 297-384. ISSN 0079-7421 Dostupné na:
+https://doi.org/10.1016/S0079-7421(09)51009-2
+MOHAMMED, U. I. – OBIDA, J. A. 2024. Reading comprehension process as precursory
+to memory processes; incorporating the relevance of Atkinson and Shiffrin’s (1968) Multistore model. Journal of Science, Technology, and Education (JSTE); www.nsukjste.com/
+8(11), 116-124 s. ISSN ISSN: 2651-5539.
+56
+
+PRŮCHA, J. 2020. Psychologie učení: teoretické a výzkumné poznatky pro edukační praxi.
+Praha: Grada, 2020. 268 s. ISBN 978-80-271-2853-2.
+ROST, M. 2016. Teaching and researching listening 3rd ed.. Routledge, 2016. 342p. ISBN
+9781138840386.
+RUISEL, I. 1988. Pamäť a osobnosť. Bratislava: Veda, 1988. 376 s. ISBN
+RUISEL, I. 1995. Základy pamäti. Bratislava: SAP, 1995. 156 s. ISBN 80-85665-42-5.
+RUISEL, I. 2014. Psychológia myslenia. Nitra: Fakulta sociálnych vied a zdravotníctva,
+Univerzita Konštantína filozofa v Nitre, 2014. 264 s. ISBN 978-80-558-0742-3.
+SOVÁK, M.:1990. Učení nemusí být mučení. Praha: Státní pedagogické nakladatelství,
+1990. s. 44. ISBN 80-04-24306-1
+TUREK, I. 2003Ako sa naučiť učiť? Prešov : Metodicko-pedagogické centrum, 2003. ISBN
+80-8045-300-4
+VÁGNEROVÁ, M. 2012. Vývojová psychologie: dětství a dospívanání. 2. vyd. Praha:
+Karolinium, 2012. 531 s. ISBN 978-80-246-2153-1.
+VIŠŇOVSKÝ, Ľ. – KAČÁNI, V. a kol. 2000. Základy školskej pedagogiky. IRIS, 2000. 227
+s. ISBN 80-89018-25-4.
+WATSON, K. W., BARKER, L. L. (1984). Listening behavior: Definition and measurement.
+Annals of the International Communication Association. vol. 8, no. 1, pp. 178-197. Dostupné
+na: https://doi.org/10.1080/23808985.1984.11678576
+ZÁPOTOČNÁ, O. – PETROVÁ, Z. Jazyková gramotnosť v predškolskom veku. Teoretické
+východiská a námety k analýze a tvorbe kurikula jazykového vzdelávania detí MŠ. Trnava :
+Pedagogická
+
+fakulta
+
+Trnavskej
+
+univerzity
+
+v
+
+Trnave,
+
+2010.
+
+91
+
+s.
+
+ISBN
+
+978-‑80-‑8082-‑404-‑4.ZÁPOTOČNÁ, O. 2012. Čitateľská gramotnosť a jej rozvoj
+v primárnom vzdelávaní. Bratislava: Veda, 2012. 142 s. ISBN 978-80-224-1281-0.
+ZÁPOTOČNÁ, O. 2013. Metakognitívne procesy v čítaní, učení a vzdelávaní. Trnava: Typi
+Universitatis Tyrnavienisis, 2012. ISBN 978-80-8082-742-7.
+Elektronické dokumenty
+Štátny vzdelávací program pre základné školy. 2023.. [cit. 2024-11-29]. Dostupné na
+internete:
+https://www.minedu.sk/data/files/11808_statny-vzdelavaci-program-pre-zakladnevzdelavanie-cely.pdf
+Normy
+STN ISO 690:1998 : Dokumentácia – Bibliografické odkazy – Obsah, forma a štruktúra.
+57
+
+

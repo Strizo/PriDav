@@ -1,0 +1,3087 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+PRÁVNICKÁ FAKULTA
+
+MEDZINÁRODNOPRÁVNA OCHRANA ŽIVOTNÉHO
+PROSTREDIA POČAS OZBROJENÉHO KONFLIKTU
+Diplomová práca
+
+2024
+
+Bc. Réka Kosárová
+
+MEDZINÁRODNOPRÁVNA OCHRANA ŽIVOTNÉHO
+PROSTREDIA POČAS OZBROJENÉHO KONFLIKTU
+Diplomová práca
+
+Študijný program: Právo
+Študijný odbor: 30. právo
+Školiace pracovisko: Katedra medzinárodného práva a medzinárodných vzťahov,
+Školiteľ: doc. Mgr. Liudmyla Golovko, PhD.
+
+Bratislava 2024
+
+Bc. Réka Kosárová
+
+Univerzita Komenského v Bratislave
+Právnická fakulta
+ZADANIE ZÁVEREČNEJ PRÁCE
+Meno a priezvisko študenta:
+Študijný program:
+
+Bc. Réka Kosárová
+právo (Jednoodborové štúdium, magisterský II. st.,
+denná forma)
+Študijný odbor:
+právo
+Typ záverečnej práce:
+diplomová
+Jazyk záverečnej práce:
+slovenský
+Sekundárny jazyk:
+anglický
+Názov:
+Medzinárodnoprávna ochrana životného prostredia počas ozbrojeného
+konfliktu
+International legal protection of the environment during armed conflict
+Anotácia:
+Cieľom práce je poskytnúť prehľad o právnej úprave ochrany životného
+prostredia počas ozbrojeného konfliktu na medzinárodnej úrovni a
+identifikovať prípadné výzvy, možné nedostatky, zhodnotiť existujúce, či
+plánovane regulácie a ponúknuť prípadné vlastné úvahy a návrhy
+právnych úprav. Študent v práci aplikuje štandardné metódy teoretického
+právneho výskumu, ako je analýza, syntéza, indukcia, dedukcia a
+hermeneutické metódy.
+Vedúci:
+Katedra:
+PraF/vedúci
+katedry-ústavu:
+Dátum zadania:
+
+doc. Mgr. Liudmyla Golovko, PhD.
+PraF.KMPMV - Katedra medzinárodného práva a medzinárodných
+vzťahov
+doc. JUDr. Peter Lysina, PhD.
+22.09.2022
+
+Dátum schválenia: 09.11.2022
+
+študent
+
+doc. JUDr. Peter Lysina, PhD.
+vedúci katedry
+
+vedúci práce
+
+POĎAKOVANIE
+Touto cestou by som chcela poďakovať môjej školiteľke
+doc. Mgr. Liudmyle Golovko, PhD
+za pomoc a cenné rady pri vypracovaní tejto práce.
+Bc. Réka Kosárová
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že predkladanú záverečnú prácu som vypracovala samostatne pod
+vedením školiteľky doc. Mgr. Liudmyly Golovko, PhD. s použitím uvedenej odbornej
+literatúry.
+Som si vedomá zákonných dôsledkov v prípade, že hore uvedené údaje nie sú pravdivé.
+
+Bc. Réka Kosárová
+
+ABSTRAKT
+KOSÁROVÁ, Réka: Medzinárodnoprávna ochrana životného prostredia počas ozbrojeného
+konfliktu. [Diplomová práca]. Univerzita Komenského v Bratislave. Právnická fakulta, Katedra
+medzinárodného práva a medzinárodných vzťahov. Vedúci práce doc. Mgr. Liudmyla Golovko,
+PhD. Stupeň odbornej kvalifikácie: magister. Bratislava, PrafUK, 2024. s. 73
+Cieľom práce je poskytnúť prehľad o právnej úprave ochrany životného prostredia počas
+ozbrojeného konfliktu na medzinárodnej úrovni a identifikovať prípadné výzvy, či nedostatky,
+zhodnotiť existujúce, či plánovane regulácie a ponúknuť prípadné vlastné úvahy do budúcnosti.
+Študent v práci aplikuje štandardné metódy teoretického právneho výskumu, ako je analýza,
+syntéza, indukcia, dedukcia a hermeneutické metódy. Práca obsahuje analýzu podľa
+medzinárodného práva ozbrojeného konfliktu a medzinárodného práva životného prostredia. V
+tretej časti sa zameriame na analýzu medzinárodnoprávnej úpravy zodpovednosti štátu za
+porušenie povinnosti ochrany životného prostredia počas ozbrojených konfliktov a na
+povinnosť kompenzácie škôd vzniknutých v dôsledku poškodenia životného prostredia počas
+ozbrojeného konfliktu. Na základe vykonanej analýzy možno konštatovať, že súčasný stav
+ochrany životného prostredia podľa medzinárodného práva ozbrojených konfliktov je
+nedostatočný. Existujúce normy sú zastarané a neschopné adekvátne reagovať na aktuálne
+výzvy a hrozby. Za najvýznamnejší problém v tomto kontexte považovaná výnimka z ochrany
+životného prostredia v prípadoch vojenskej nevyhnutnosti a chýbajúci kontrolný orgán, ktorý
+zodpovedá za dodržiavanie povinnosti. Ochrana podľa medzinárodného práva životného
+prostredia je obsiahnutá vo viacerých právnych dokumentov, ktoré obsahujú aj obyčajové právo.
+Výsledkom Komisie OSN pre medzinárodné právo je súhrn najdôležitejších zásad ochrany
+životného prostredia pred, počas a po skončení ozbrojeného konfliktu. Tento návrh zásad z roku
+2019 je významným pokrokom v tejto oblasti. Problematická je jeho nezáväzná podoba, avšak
+na druhej strane veľa z tých zásad je záväzných aj z pohľadu obyčajového práva. Poškodenie
+životného prostredia patrí medzi vojnové zločiny.
+Klúčové slová:
+vojna, ochrana životného prostredia, poškodenie životného prostredia, medzinárodný trestný
+čin, ozbrojený konflikt
+
+ABSTRACT
+KOSÁROVÁ, Réka: International environmental protection during armed conflict. [Master
+thesis]. Comenius University in Bratislava. Faculty of Law, Department of International Law
+and International Relations. Doc. Mgr. Liudmyla Golovko, PhD. Degree of professional
+qualification: master. Bratislava, PrafUK, 2024. p. 73
+The aim of the thesis is to provide an overview of the legal regulation of environmental
+protection during armed conflict at the international level and to identify possible challenges or
+shortcomings, to assess existing or planned regulations and to offer possible future
+considerations of its own. In the thesis, the student applies standard methods of theoretical legal
+research such as analysis, synthesis, induction, deduction and hermeneutical methods. The thesis
+includes analysis under the international law of armed conflict and international environmental
+law. In the third part, we focus on the analysis of international liability of state for breach of the
+duty to protect the environment during armed conflict and the obligation to compensate for
+damage caused by environmental damage during armed conflict. Based on the analysis
+conducted, it can be concluded that the current state of environmental protection under the
+international law of armed conflict is inadequate. The existing norms are outdated and incapable
+of adequately responding to current challenges and threats. The most significant problems in
+this context were considered to be the exemption from environmental protection in cases of
+military necessity and the lack of a controlling authority responsible for compliance. Protection
+under international environmental law is contained in a number of legal instruments, which
+include customary law. The United Nations Commission on International Law has resulted in a
+set of core principles for the protection of the environment before, during and after armed
+conflict. This 2019 draft of the Principles is a significant advance in this area. Its non-binding
+form is problematic, but on the other hand, many of the principles are also binding from a
+customary law perspective. Environmental damage is among the war crimes.
+
+Keywords:
+war, environmental protection, environmental damage, international crime, armed conflict
+
+PREDHOVOR
+Predmetom tejto práce je analýza právnych noriem medzinárodného práva v oblasti
+ochrany životného prostredia počas ozbrojeného konfliktu. Cieľom práce je posúdiť súčasný
+stav medzinárodnoprávnej úpravy ochrany životného prostredia v kontexte ozbrojených
+konfliktov a identifikovať prípadné nedostatky a medzery v tejto oblasti. Práca sa zaoberá
+analýzou podľa noriem medzinárodného práva ozbrojeného konfliktu a podľa noriem
+medzinárodného práva životného prostredia. Vypuknutie vojny medzi Ruskou federáciou a
+Ukrajinou vyvoláva množstvo otázok s neistými odpoveďami. Problematika ochrany životného
+prostredia a klimatických zmien, ktorá je každodennou výzvou, sa v kontexte prebiehajúcej
+vojny stáva ešte naliehavejšou. Tematike ochrany životného prostredia počas ozbrojených
+konfliktov a zodpovednosti za environmentálne škody sa venuje len malá pozornosť, nakoľko
+primárnym objektom ochrany v takýchto situáciách je ľudský život. V duchu noriem
+medzinárodného práva ozbrojeného konfliktu práca obsahuje analýzu Petrohradskej deklarácie
+o zákaze výbušných striel malého kalibru, Dohovoru o zákaze vojenského alebo akéhokoľvek
+iného nepriateľského použitia prostriedkov meniacich životné prostredie, Dodatkového
+protokolu k Ženevským dohovorom z 12. augusta 1949 o ochrane obetí medzinárodných
+ozbrojených konfliktov (Protokol I), Dohovoru na ochranu kultúrnych statkov za ozbrojeného
+konfliktu, Protokolu o zákaze používať vo vojne dusivé, otravné alebo podobné plyny a
+bakteriologické prostriedky, Dohovoru o zákaze vývoja, výroby a hromadenia zásob
+bakteriologických (biologických) a toxínových zbraní a o ich zničení a San Remo Manuálu o
+medzinárodnom práve uplatniteľnom na ozbrojené konflikty na mori. V duchu noriem
+medzinárodného práva životného prostredia obsahuje analýzu multilaterálnych dohôd ako napr.
+Dohovoru o ochrane svetového kultúrneho a prírodného dedičstva, Svetovej charty prírody,
+Dohovoru o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného
+vtáctva, analýzu prameňov „soft law“ a Návrhu princípov ochrany životného prostredia vo
+vzťahu k ozbrojeným konfliktom. Práca je určená študentom, ľudom a odborníkom v oblasti
+práva, ktorí sa chcú dozvedieť viac o medzinárodnej ochrane životného prostredia počas
+ozbrojeného konfliktu. Študent v práci aplikuje štandardné metódy teoretického právneho
+výskumu, ako je analýza, syntéza, indukcia, dedukcia a hermeneutické metódy.
+
+Obsah
+Úvod ....................................................................................................................................................................... 11
+1
+
+Ochrana životného prostredia podľa noriem medzinárodného práva ozbrojeného konfliktu......................... 13
+1.1
+
+Medzinárodnoprávna ochrana životného prostredia pred Ženevskými dohovormi z roku 1949 ........... 13
+
+1.2
+Ochrana životného prostredia podľa Protokolu o zákaze používať vo vojne dusivé, otravné alebo
+podobné plyny a bakteriologické prostriedky ..................................................................................................... 14
+1.3
+
+Medzinárodnoprávna ochrana životného prostredia po druhej svetovej vojne...................................... 16
+
+1.4
+Ochrana životného prostredia podľa Dohovoru na ochranu kultúrnych statkov za ozbrojeného
+konfliktu.............................................................................................................................................................. 23
+1.5
+Ochrana životného prostredia podľa Dohovoru o zákaze vývoja, výroby a hromadenia zásob
+bakteriologických (biologických) a toxínových zbraní a o ich zničení ............................................................... 29
+1.6
+Ochrana životného prostredia podľa San Remo Manuálu o medzinárodnom práve uplatniteľnom na
+ozbrojené konflikty na mori ................................................................................................................................ 31
+2
+
+Ochrana životného prostredia podľa noriem medzinárodného práva životného prostredia ........................... 32
+2.1
+
+Aplikovanie multilaterálnych enviromentálnych dohôd počas ozbrojeného konfliktu ......................... 32
+
+2.2
+Ochrana životného prostredia medzinárodným obyčajovým právo životného prostredia a nástrojmi
+„soft-law“ ........................................................................................................................................................... 37
+2.3
+Ochrana životného prostredia podľa Návrhu zásad ochrany životného prostredia vo vzťahu k
+ozbrojeným konfliktom ....................................................................................................................................... 39
+3
+
+Zodpovednosť za porušenie medzinárodného práva životného prostredia počas ozbrojeného konfliktu ..... 47
+3.1
+Medzinárodnoprávna úprava zodpovednosti štátov podľa Návrhu článkov o zodpovednosti štátov za
+medzinárodné protiprávne konanie ..................................................................................................................... 47
+3.2
+Medzinárodnoprávna úprava zodpovednosti jednotlivca podľa Rímskeho štatútu Medzinárodného
+trestného súdu ..................................................................................................................................................... 48
+3.3
+
+Povinnosť kompenzácie ........................................................................................................................ 52
+
+3.4
+
+Poškodenie životného prostredia počas vojny na Ukrajine a zodpovednosť Ruskej federácie ............. 55
+
+Záver ....................................................................................................................................................................... 61
+Zoznam použitej literatúry ...................................................................................................................................... 64
+
+Zoznam skratiek
+BWC
+
+The Biological Weapons Convention
+
+č.
+
+číslo
+
+čl.
+
+článok
+
+ELI
+
+Environmental Law Institute
+
+ENMOD
+
+Convention on the Prohibition of Military or Any Hostile Use of
+Environmental Modification Techniques
+
+ILC
+
+International Law Commission
+
+napr.
+
+napríklad
+
+ods.
+
+odsek
+
+OSN
+
+Organizácia Spojených národov
+
+UNEA
+
+United Nations Environment Assembly
+
+WHO
+
+World Health Organisation
+
+10
+
+Úvod
+V čase ozbrojených konfliktov sa prioritná pozornosť obvykle sústreďuje na ochranu
+ľudských životov a zdravia, pričom ochrana životného prostredia ustupuje do úzadia. Avšak
+znečistenie vody, pôdy a ovzdušia má značný vplyv na zdravie a životy ľudí tak počas konfliktu,
+ako aj po jeho skončení. Prvým medzinárodným dohovorom, ktorý sa zaoberal ochranou
+životného prostredia v kontexte ozbrojených konfliktov, bola Petrohradská deklarácia o zákaze
+výbušných striel malého kalibru z roku 1868. Hlavným cieľom deklarácie nebola priamo
+ochrana životného prostredia, ale zákaz používania zbraní, ktoré spôsobujú zbytočné utrpenie.
+K druhému významnému posunu v oblasti ochrany životného prostredia v kontexte
+ozbrojených konfliktov došlo po druhej svetovej vojne. Hlavným problémom v tejto oblasti
+však nebola absencia pravidiel, ale skôr nedostatočná regulácia donucovacích mechanizmov a
+kontrolných nástrojov. Ďalším problémom je, že regulácia ochrany životného prostredia sa
+podlieha zásady vojenskej nevyhnutnosti, pričom táto zásada môže byť zneužitá. Za
+problematickú možno taktiež považovať skutočnosť, že niektoré multilaterálne dohody
+zamerané na ochranu životného prostredia nie sú aplikovateľné v čase ozbrojených konfliktov.
+Obsahujú také ustanovenia, ktoré vylúčia ich aplikáciu v prípade ochrany životného prostredia
+počas ozbrojeného konfliktu.
+Hoci medzinárodné obyčajové právo životného prostredia, ako aj multilaterálne dohody
+sú záväzné, môžu existovať rozdiely v ich uplatňovaní počas ozbrojeného konfliktu. Tento
+rozdiel čiastočne vyplýva z ťažkostí pri určovaní, či konkrétne opatrenie je medzinárodným
+obyčajovým právom a aký je jeho presný právny rozsah pôsobnosti. Určitú podporu pre tento
+argument možno odvodiť z tzv. Martensovej klauzuly, ktorá dopĺňa medzery v práve.
+S rozvojom technológií a s blížiacim sa rokom 2000 sa postupne posilňovalo povedomie
+o ochrane životného prostredia, a to aj v kontexte ozbrojených konfliktov. Od 90. rokoch 20.
+storočia dochádza k pozoruhodnému posunu v tradičnom chápaní vzájomnej vylúčenosti
+vojnového a mierového práva. Súčasné prístupy tieto dve oblasti práva čoraz viac prelínajú a v
+rôznej miere aplikujú medzinárodné právo platné v čase mieru aj v kontexte ozbrojených
+konfliktov. Tento vývoj je zdokumentovaný v práci Komisie OSN pre medzinárodné právo. V
+roku 2004 Valné zhromaždenie OSN schválilo návrh Komisie pre medzinárodné právo o
+11
+
+začlenení problematiky vplyvu ozbrojených konfliktov na zmluvy do jej dlhodobého programu.
+Komisia OSN v roku 2013 zaradila do programu právo životného prostredia pod názvom
+„Ochrana životného prostredia vo vzťahu k ozbrojeným konfliktom“ v spojitosti s „Návrhom
+zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom“, ktorý prijalo Valné
+zhromaždenie OSN v rámci prvého čítania na svojom zasadnutí v roku 2019. Tento dokument
+obsahuje 28 princípov.
+Cieľom tejto práce je preto analyzovať relevantné dohovory a právne normy upravujúce
+danú oblasť a vyvodiť závery o rozsahu a dostatočnosti ochrany životného prostredia v kontexte
+ozbrojených konfliktov. Práca je rozdelená do troch kapitol.
+Prvá časť obsahuje analýzu medzinárodnoprávnej ochrany životného prostredia podľa
+noriem medzinárodného práva ozbrojeného konfliktu, presne analýzu Petrohradskej deklarácie
+o zákaze výbušných striel malého kalibru, Dohovoru o zákaze vojenského alebo akéhokoľvek
+iného nepriateľského použitia prostriedkov meniacich životné prostredie, Dodatkového
+protokolu k Ženevským konvenciám z 12. augusta 1949 o ochrane obetí medzinárodných
+ozbrojených konfliktov (Protokol I), Dohovoru na ochranu kultúrnych statkov za ozbrojeného
+konfliktu, Protokolu o zákaze používať vo vojne dusivé, otravné alebo podobné plyny a
+bakteriologické prostriedky, Dohovoru o zákaze vývoja, výroby a hromadenia zásob
+bakteriologických (biologických) a toxínových zbraní a o ich zničení a San Remo Manuálo o
+medzinárodnom práve uplatniteľnom na ozbrojené konflikty na mori.
+Druhá časť obsahuje analýzu medzinárodnoprávnej ochrany podľa noriem medzinárodného
+práva životného prostredia podľa multilaterálnych dohôd, konkrétne Dohovoru o ochrane
+svetového kultúrneho a prírodného dedičstva, Dohovoru o mokradiach majúcich medzinárodný
+význam predovšetkým ako biotopy vodného vtáctva a analýzu prameňov „soft law“, vrátane
+Návrhu princípov ochrany životného prostredia vo vzťahu k ozbrojeným konfliktom.
+Tretia časť obsahuje analýzu medzinárodnoprávnej úpravy zodpovednosti štátu za
+poškodenie životného prostredia počas ozbrojeného konfliktu, konkrétne aj zodpovednosť
+Ruskej Federácie za poškodenie životného prostredia počas vojny proti Ukrajine a povinnosť
+kompenzácie.
+
+12
+
+1
+
+Ochrana životného prostredia podľa noriem medzinárodného práva
+ozbrojeného konfliktu
+
+1.1 Medzinárodnoprávna ochrana životného prostredia pred Ženevskými
+dohovormi z roku 1949
+V najkomplexnejšom chápaní zahŕňa životné prostredie súhrn všetkých prvkov, ktoré
+priamo, či nepriamo ovplyvňujú existenciu a životné podmienky človeka. Patria sem voda,
+vzduch, pôda, rastlinstvo a živočíšstvo.
+
+Pojem „životné prostredie“ sa označuje ako
+
+komplexný systém vzájomne prepojených prvkov, ktoré vytvárajú rámec a podmienky pre život
+človeka.1
+Ochrana životného prostredia v duchu ozbrojeného konfliktu už bola upravená v roku
+1868 Petrohradskou deklaráciou o zákaze výbušných striel malého kalibru (ďalej len
+„Petrohradská deklarácia“). Petrohradská deklarácia síce explicitne nestanovila povinnosť
+ochrany životného prostredia v kontexte vojenských aktivít, avšak jej cieľom nebolo len
+oslabenie ozbrojených síl nepriateľa. Hlavným zámerom deklarácie bolo zakázať používanie
+zbraní, projektilov a materiálov, ktoré spôsobujú zbytočné utrpenie.2 Toto pravidlo bolo
+následne implementované do Dohovoru o zákonoch a obyčajoch pozemnej vojny z roku 1907.3
+Predmetný dohovor sa zameriava na reguláciu podmienok nepriateľských akcií, zakázaných
+prostriedkov a metód vedenia vojny. Zároveň obsahuje normy slúžiace na ochranu rôznych
+kategórií osôb v čase vojny, ako sú vojnoví zajatci a obyvatelia okupovaných území. 4 Článok
+23 dohovoru explicitne zakazuje používanie jedu a jedovatých zbraní, ako aj zbraní, striel a
+materiálov, ktoré sú určené na spôsobenie zbytočného utrpenia. 5 Ďalej je v čl. 24 upravená
+ochrana nechránených miest, dedín, obydlí alebo budov. Článok 27 stanovuje ochranu pre
+nasledovné objekty: historické alebo umelecké pamiatky spolu s miestami ako nemocnice
+
+1
+
+LARSSON, M.-L. Legal definitions of the environment and of environmental damage. Stockholm Institute for
+Scandinavian Law. 1999, p. 156.
+2
+SCHINDLER, D., TOMAN, J., Declaration Renouncing the Use, In Time of War, Of Explosive Projectiles under
+400 Grammes Weight. In: The Laws of Armed Conflicts. Brill Nijhoff, 2004. p. 91-93.
+3
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 246
+4
+ONDŘEJ, J. Význam Haagské mírové konference z roku 1899 pro vývoj práva ozbrojených konfliktů. Mezinárodní
+vztahy, 2000, p. 31
+5
+LEVIE, H. S. 1907 HAGUE CONVENTION IV WITH RESPECT TO THE LAWS AND CUSTOMS OF WAR ON
+LAND (WITH AXED REGULATIONS)(18 October 1907). International Law Studies, 1979, čl. 23 pís. a) a e)
+13
+
+a miesta, ktoré nie sú využívané na vojenské účely alebo naposledy aj budovy slúžiacich k
+bohoslužbám.6
+Základným nedostatkom daného dohovoru bola jeho podmienená záväznosť, ktorá
+nadobudla účinnosť len v prípade podpísania všetkými nepriateľskými stranami. Táto myšlienka
+vyplýva z článku 2 Dohovoru, ktorý znie nasledovne: „Ustanovenia dohovoru uvedených v
+článku 1 a tohto dohovoru sú účinné len medzi zmluvnými stranami, a len vtedy, ak sú zmluvnými
+stranami
+
+všetky
+
+bojujúce
+
+strany”.
+
+Tento
+
+problém
+
+bol
+
+vyriešený
+
+neskôr
+
+v rozhodnutí Norimberského tribunálu, kedy bola potvrdená všeobecná záväznosť obyčajových
+pravidiel7 stanovených aj v tomto Dohovore.8
+Z nášho pohľadu regulácia ochrany životného prostredia v danej dobe síce nedosahovala
+optimálnu úroveň, avšak predstavovala značný posun vpred. Tento dohovor sa stal základom
+pre nasledujúce snahy kodifikácie, najmä po druhej svetovej vojne.
+
+1.2 Ochrana životného prostredia podľa Protokolu o zákaze používať vo
+vojne dusivé, otravné alebo podobné plyny a bakteriologické
+prostriedky
+Protokol o zákaze používať vo vojne dusivé, otravné alebo podobné plyny a
+bakteriologické prostriedky je Ženevský protokol z roku 1925 (ďalej len „Ženevský protokol„),
+ktorý bol formálne ratifikovaný alebo je inak záväzný pre osemdesiatštyri štátov, vrátane
+všetkých hlavných vojenských a priemyselných štátov sveta, okrem Spojených štátov a
+Japonska. Ženevský protokol zakazuje dve veci. Po a) zakazuje „použitie dusivých, jedovatých
+alebo iných plynov vo vojne a všetkých podobných kvapalín, materiálov alebo zariadenia“ a po
+b) zakazuje „používanie bakteriologických metód vedenia vojny“. To znamená, že nezakazuje
+výrobu, nadobúdanie alebo skladovanie týchto zbraní, ani sa nevzťahuje na ich použitie na iné
+účely ako „vo vojne“. To znamená okrem iného, že testovanie týchto zbraní nie je zakázané
+Ženevským protokolom a to isté platí pre výrobu zariadení schopných ich rozptýliť.9
+
+HOBZA, A. Dokumenty ke studiu mezinárodního práva. 1931.
+Rozhodnutie Norimberského tribunál z 1. okt. 1946 dostupné na: https://www.legal-tools.org/doc/45f18e/pdf/
+8
+HOBZA, A. Dokumenty ke studiu mezinárodního práva. 1931.
+9
+BAXTER, R. R.; BUERGENTHAL, T. Legal aspects of the Geneva Protocol of 1925. American Journal of
+International Law, 1970, p. 855.
+6
+7
+
+14
+
+Tento dohovor bol prijatý kvôli nepriaznivých následkov používania chemických zbraní
+USA vo Vietname a Laose. Hlavným cieľom dohovoru je upevniť zákaz používania
+prostriedkov vojny, ktoré hromadne zničia a poškodzujú životné prostredie.10 Tieto metódy v
+súčasnosti zahŕňajú nielen baktérie, ale aj iné biologické látky, ako sú vírusy alebo „rickettsie“.
+Rickettsie sú rôznorodou skupinou baktérií, ktoré sa nachádzajú v kliešťoch, všiach, blchách,
+roztočoch a cicavcoch. Títo pôvodcovia zoonóz spôsobujú infekcie, ktoré sa v krvi šíria do
+mnohých orgánov.11 Niektoré biologické látky v čase prijatia Ženevského protokolu neboli
+známe.12
+Ženevský protokol ustanovuje zákaz používania jedovatých plynov a všetkých
+podobných kvapalín, materiálov alebo zariadení. Problematicky možno vnímať celkový rozsah
+zákazu, ktorý v anglickom jazyku znie „or other gases“, po slovensky „alebo iné plyny“,
+pričom ďalej nie je vysvetlené, čo presne toto slovné spojenie zahŕňa. Vo francúskom texte sa
+vyskytuje slovo „similaires“, čo znamená „podobné“. Použitie označenia „similaires“ vo
+francúzskom texte bolo diskutabilné a bolo vykladané tak, že rozsah zákazu podľa protokolu sa
+obmedzuje len na chemické látky, ktoré majú škodlivé následky podobné následkom dusivých
+alebo jedovatých plynov. Z uvedených dôvodov preto napokon chemické zbrane ako slzotvorný
+plyn alebo herbicídy nespadajú pod zákaz protokolu.13
+Podľa nášho názoru Ženevský protokol je veľmi všeobecný a kvôli tomu je možné
+interpretovať ho zužujúcim, ako aj rozširujúcim spôsobom. Predmetný dokument prináša
+pozitívny krok v podobe zákazu použitia konkrétnych chemikálií, a to dusivých, otravných a
+podobných plynov, ako aj bakteriologických prostriedkov. Z hľadiska ochrany životného
+prostredia ide o významný posun vpred. Negatívnou stránkou Protokolu je, že sa zameriava
+výhradne na zákaz použitia týchto prostriedkov vo vojne. Nezahŕňa reguláciu ich používania v
+čase mieru, ani ich výrobu a testovanie. My si myslíme, že Ženevský protokol neposkytuje
+dostatočnú ochranu životného prostredia, čo sa potvrdilo počas druhej svetovej vojny.
+
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 253.
+11
+WALKER, D. H., et al. Rickettsiae. 1985., p. 1
+12
+GOLDBLAT, J. The biological weapons convention: An overview. International Review of the Red Cross (19611997), 1997, p. 251.
+13
+BAXTER, R. R.; BUERGENTHAL, T. Legal aspects of the Geneva Protocol of 1925. American Journal of
+International Law, 1970, p. 857.
+10
+
+15
+
+Podľa nášho názoru by sa mal tento protokol posilniť reguláciou týchto látok v čase mieru.
+Napríklad by sa malo obmedziť maximálne množstvo látok, ktoré sa môžu uchovávať výlučne
+na výskumné účely, ako aj podmienky skladovania a bezpečnostné opatrenia, ktoré musia
+dodržiavať inštitúcie, ktoré tieto látky skladujú.
+Hoci Dohovor o zákaze vývoja, výroby a hromadenia zásob biologických a toxínových
+zbraní a o ich zničení a Ženevský protokol sú navzájom doplňujúce, neznamená to, že každá
+strana Dohovoru o zákaze vývoja, výroby a hromadenia zásob biologických a toxínových zbraní
+je stranou aj Ženevského protokolu. Podľa nášho názoru je potrebné doplniť Ženevský dohovor
+aj z tohto dôvodu.
+
+1.3 Medzinárodnoprávna ochrana životného prostredia po druhej svetovej
+vojne
+Diplomatická konferencia v Ženeve konala od 21. apríla do 12. augusta 1949 za účelom
+dojednania medzinárodných dohôd na ochranu obetí vojny. Na konferencii boli dojednané tieto
+akty: Ženevský dohovor o zlepšení osudu ranených a nemocných príslušníkov ozbrojených síl
+v poli, Ženevský dohovor o zlepšení osudu ranených, nemocných a stroskotancov ozbrojených
+síl na mori, Ženevský dohovor o zaobchádzaní s vojnovými zajatcami, Ženevský dohovor o
+ochrane civilných osôb za vojny. Tieto dohovory boli podpísané 12. augusta 1949.14 Analogicky
+k dohovorom predchádzajúcim Ženevskej konferencii, ani ich kľúčovým zámerom nebola
+ochrana životného prostredia, ale ochrana obetí vojny. Tieto dohovory neobsahovali explicitne
+zakotvenú ochranu životného prostredia. Ženevské dohovory z roku 1949 obsahujú obyčajové
+medzinárodné vojnové právo, ktoré už obsahovali predtým Petrohradská deklarácia a Dohovor
+o zákonoch a obyčajoch pozemnej vojny z roku 1907. Tieto však vtedy neboli vyhlásené a
+uznané za všeobecne záväzné.15
+Začiatkom 70. rokov došlo k výrazným zmenám. Odborníci sa začali zaoberať ochranou
+životného prostredia na medzinárodnej úrovni a pokúsili sa napraviť nedostatky v ochrane obetí
+ozbrojených konfliktov. Tieto zmeny vyvolali udalosti ako environmentálne katastrofy, veľké
+
+Vyhláška ministra zahraničných vecí č. 65/1954 Zb. o Ženevských dohovoroch zo dňa 12. augusta 1949 na
+ochranu obetí vojny zo dňa 15. decembra 1954.
+15
+BAXTER, R. R. The Geneva Conventions of 1949. Naval War College Review, 1956, p. 60-61.
+14
+
+16
+
+olejové úniky, emigráciu a vojnu vo Vietname a Palestíne. Týmito nevyriešenými otázkami sa
+zaoberali na konferenciách od roku 1974 až 1977, konkrétne to boli Konferencia Výboru pre
+ozbrojenie (Conference of the Committee on Disarmament) a Diplomatická konferencia o
+opätovnom potvrdení a rozvoji medzinárodného humanitárneho práva uplatniteľného v
+ozbrojených konfliktoch (Diplomatic Conference on the Reaffirmation and Development of
+International Humanitarian Law).16
+Dohovor o zákaze vojenského alebo akéhokoľvek iného nepriateľského použitia
+prostriedkov meniacich životné prostredie bol prijatý Valným Zhromaždením Organizácie
+Spojených národov (ďalej len „ENMOD“) a bol podpísaný 18. mája 1977 v Ženeve.17 Tento
+dohovor v článku 1 explicitne zakazuje „vojenské alebo akékoľvek iné nepriateľské použitie
+prostriedkov meniacich životné prostredie, ktoré majú rozsiahle, dlhodobé alebo vážne následky
+ako prostriedky ničenia, spôsobenia škody alebo ujmy ktorémukoľvek inému zmluvnému
+štátu“.18
+V čl. 2 je definovaný pojem „prostriedky meniace životné prostredie“ ako všetky
+prostriedky vyvolávania zmien, zámerným riadením prírodných procesov, dynamiky, zloženia
+alebo štruktúry Zeme, včítane jej bioty, litosféry, hydrosféry, atmosféry alebo kozmického
+priestoru. Predmetný článok obsahuje značne dôležité aspekty. Medzi spomínané prostriedky
+patrí úmyselnosť konania, ktoré má za cieľ ovplyvniť prirodzené procesy, ako napríklad
+zemetrasenie, tornádo, zmenu klímy alebo ozónovej vrstvy. Bezpochyby sa tento dohovor
+vzťahuje na ozbrojené konflikty medzi zmluvnými stranami, avšak jeho aplikácia na situáciu,
+kedy zmluvný štát napadne nezmluvnú stranu, ostáva nejasná.19 Na druhej strane aj v prípadoch
+nejasnej aplikácie predmetného dohovoru, jeho princípy a zásady medzinárodného
+humanitárneho a environmentálneho práva si zachovávajú aplikovateľnosť z dôvodu
+všeobecnej záväznosti obyčajových pravidiel.
+
+16
+
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 571-572.
+17
+Vyhláška ministra zahraničných vecí č. 77/1980 Zb. z 25. apríla 1980 o Dohovore o zákaze vojenského alebo
+akéhokoľvek iného nepriateľského použitia prostriedkov meniacich životné prostredie.
+18
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 572.
+19
+REYHANI, R. Protection of the environment during armed conflict. Mo. Envtl. L. & Pol'y Rev., 2006, p. 324326.
+17
+
+Valné zhromaždenie OSN v roku 1977 prijalo dva dodatkové protokoly: Dodatkový
+protokol k Ženevským dohovorom z 12. augusta 1949 o ochrane obetí medzinárodných
+ozbrojených konfliktov (Protokol I), (ďalej len „Protokol I“) a Dodatkový protokol k
+Ženevským dohovorom z 12. augusta 1949 o ochrane obetí ozbrojených konfliktov nemajúcich
+medzinárodný charakter (Protokol II), (ďalej len „Protokol II“). Protokoly boli prijaté 8. júna
+1977 v Ženeve.20
+Z hľadiska ochrany životného prostredia významnejším dokumentom je Protokol I.
+Ustanovenia Protokolu I tvoria podstatné doplnenie k ustanoveniam ENMOD, keďže priamo
+zakazujú poškodzovanie životného prostredia počas ozbrojeného konfliktu. Upravuje zákaz
+používania prostriedkov ekologickej vojny, ktoré by mohli spôsobiť rozsiahle, dlhodobé a vážne
+škody na životnom prostredí. Právna úprava sa nachádza hlavne v článku 35 ods. 3, ale s tým
+súvisí aj článok 55 ods. 1, ktorý dopĺňa článok 35. Táto úprava zakazuje aj také spôsoby, pri
+ktorých sa dá očakávať, že ohrozia zdravie ľudí, obyvateľstvo a životné prostredie. Konania
+uvedené v článku 55 nie sú kvalifikované ako vážne porušenie a nevyvolávajú individuálnu
+trestnú zodpovednosť podľa Protokolu I čl. 85. 21
+Článok 35 ods. 3 zakazuje „používať spôsoby alebo prostriedky vedenia vojny, ktorých
+cieľom je spôsobiť alebo pri ktorých sa dá očakávať, že môžu spôsobiť rozsiahle, dlhodobé a
+vážne škody na životnom prostredí.“. Právo strán na výber prostriedkov a metód vedenia vojny
+nie je absolútne a podlieha istým limitom. Jedným z týchto limitov je povinnosť strán
+zabezpečiť, aby prostriedky a metódy, ktoré používajú, nespôsobili škody na životnom
+prostredí.22 Článok 55 ods. 1 znie: „Pri vedení vojenských akcií treba dbať na ochranu životného
+prostredia pred rozsiahlymi, dlhodobými a vážnymi škodami. Táto ochrana zahŕňa zákaz
+používania spôsobov alebo prostriedkov vedenia vojny, ktorých cieľom je spôsobiť také škody
+na životnom prostredí, alebo pri ktorých sa dá očakávať spôsobenie takých škôd, že tým ohrozia
+zdravie alebo prežitie obyvateľstva.“ Tento článok je doplnený odsekom 2, ktorý útoky proti
+životnému prostrediu z dôvodov represálií zakazuje.
+
+Oznámenie Federálneho ministerstva zahraničných vecí č. 168/1991 Zb. o viazanosti Českej a Slovenskej
+Federatívnej republiky s Dodatkovými protokolmi I a II k Ženevským konferenciám
+21
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 247
+22
+MUTUMA, K. W. The Protection of the Environment during Armed Conflict. p. 61.
+20
+
+18
+
+Protokol I je záväzný pre štáty, ktoré ho ratifikovali, tzv. zmluvné strany. V tomto
+kontexte je dôležité zaoberať sa otázkou, či sú pravidlá Protokolu I záväzné aj pre štáty, ktoré
+ho neratifikovali, tzv. nezmluvné strany. Okrem otázky záväznosti Protokolu I pre nezmluvné
+strany je dôležité zaoberať sa aj otázkou, či jeho pravidlá patria do medzinárodného
+obyčajového práva, a či sú vynútiteľné z dôvodu všeobecnej záväznosti. Súdna prax ukazuje, že
+tieto články sú súčasťou medzinárodného obyčajového práva. Napríklad Záverečná správa
+Výboru zriadeného na preskúmanie bombardovacej kampane NATO proti Juhoslovanskej
+zväzovej republike uviedla, že článok 55 Protokolu I „môže ... reflektovať súčasné obyčajové
+právo“.2324 Túto obyčajovú zásadu potvrdzuje aj Medzinárodný súdny dvor v poradnom
+stanovisku z 8. júla 1996 „Zákonnosť hrozby alebo použitia jadrových zbraní“.2526
+Najväčší rozdiel medzi ENMOND a Protkolom I je taký, že podmienky zákazu podľa
+Protokolu I (konkrétne čl. 35 ods. 3) musia byť splnené kumulatívne a sú spojené spojkou
+„a“, kým ENMOD (konkrétne čl. I) sú spojené spojkou „alebo“.27
+Protokol I sa zameriava na životné prostredie bez ohľadu na požitú zbraň. Cieľom
+ENMOD je zabrániť nepriateľskému použitiu techník, ktoré modifikujú životné prostredie. To
+znamená, že Protokol I chráni životné prostredie ako „obeť“, ale ENMOD chráni pred
+environmentálnou manipuláciou, teda sa zaoberá životným prostredím ako „zbraňou“. Ani
+ENMOD, ani Protokol I neobsahoval definíciu pojmov „rozsiahle, dlhodobé a vážne škody na
+životnom prostredí“. Význam pojmov v ENMOD obsahoval Report Valného zhromaždenia
+OSN z Konferencií Výboru pre ozbrojenia (Conference of the Committee on Disarmament.28
+Pojem „rozsiahle“ sa vzťahoval na geografickú oblasť s rozlohou niekoľko stoviek kilometrov
+štvorcových, výraz „dlhodobé“ vyžadoval, aby účinok trval niekoľko mesiacov alebo počas
+
+23
+
+REYHANI, R. Protection of the environment during armed conflict. Mo. Envtl. L. & Pol'y Rev., 2006, p. 329.
+Final Report to the Prosecutor by the Committee Established to Review the NATO Bombing Campaign Against
+the Federal Republic of Yugoslavia, bod 15, dostupné na: https://www.icty.org/en/press/final-report-prosecutorcommittee-established-review-nato-bombing-campaign-against-federal
+25
+BENVENUTI, P. The ICTY prosecutor and the review of the NATO bombing campaign against the Federal
+Republic of Yugoslavia. European Journal of International Law, 2001, p. 509.
+26
+UNITED NATIONS. Summaries of judgments advisory opinions and orders of the international court of
+justice.. United Nations Publications, LEGALITY OF THE THREAT OR IJSE OF NUCLEAR WEAPONS
+Advisory Opinion of 8 July 1996, p. 96, 99,102.
+27
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 572.
+28
+UNGA, Report of the Conference of the Committee on Disarmament, Volume I, G.A.O.R., 35th Sess., Supp.
+No. 27, U.N. Doc. A/31/27 (1976), p. 63
+24
+
+19
+
+celej sezóny a pojem „závažný“ znamenal vážne alebo významné narušenie alebo poškodenie
+ľudského zdravia a života, prírodných a hospodárskych zdrojov alebo iných aktív. Protokol
+I doteraz neobsahuje definíciu pojmov „rozsiahle, dlhodobé a vážne škody na životnom
+prostredí“. Definície obsahujú hlavne komentáre, napr. Komentár od Medzinárodného výboru
+Červeného kríža, ktorý vykladá pojem „dlhodobé“ ako obdobie trvajúce minimálne 10 rokov
+a výraz „rozsiahle“ pravdepodobne znamená niekoľko stoviek kilometrov štvorcových.29
+Posledná, ale veľmi významná odlišnosť sa ukazuje v časovom úseku, teda kedy sú dohovory
+aplikovateľné. Protokol I je aplikovateľný len počas ozbrojeného konfliktu a ENMOD je
+uplatniteľný aj počas mieru.30
+Naďalej v článku 53 Protokolu I je upravená ochrana kultúrnych majetkov a miest pre
+konanie bohoslužieb. Kultúrne statky sú historické pamiatky, umelecké ciele, ktoré sú spolu
+s miestami pre konanie bohoslužieb kultúrnym alebo duchovným dedičstvom národov. Tento
+článok má veľmi významný a mimoriadny charakter, lebo nie je podriadený princípu vojenskej
+nevyhnutnosti. To znamená, že kultúrne statky nemožno napadnúť ani v prípade, ak to naliehavé
+vojenské účely umožňujú. V opačnom prípade je to kvalifikované ako závažné porušenie podľa
+čl. 85. V článku 54 Protokolu I sa nachádza právna úprava ochrany objektov, ktoré sú
+nevyhnutné
+
+na
+
+prežitie
+
+civilného
+
+obyvateľstva,
+
+napr.
+
+uložené
+
+zásoby
+
+potravín,
+
+poľnohospodárske plochy. V článku 56 Protokolu I sa nachádza ochrana stavieb a zariadení
+obsahujúcich nebezpečné sily, ktorými sú priehrady, atómové elektrárne a nádrže.31 Tento
+článok obsahuje určité výnimky, kedy sa na ne nevzťahuje osobitná ochrana. To platí v prípade,
+ak sa v týchto budovách vyrába elektrická energia pre pravidelnú, významnú a priamu podporu
+vojenských operácií, v prípade iných vojenských objektov umiestnených v týchto stavbách
+
+29
+
+ICRC Database, Treaties, States Parties and Commentaries, Protocol Additional to the Geneva Conventions of
+12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I), 8 June
+1977., Commentary of 01.01.1987 , Article 35 - Basic rules, Dostupné na: https://ihl-databases.icrc.org/en/ihltreaties/api-1977.
+30
+UNGA, Report of the Conference of the Committee on Disarmament Volume II, (17 February–3 September 1976)
+31st Sess., U.N. Doc. Supp. No. 27. A/31/27 (1976), p. 6-7, Dostupné na linke:
+https://digitallibrary.un.org/record/697098?ln=en&v=pdf
+31
+Čl. 53,54 Dodatkového protokolu k Ženevským dohovorom z 12. augusta 1949 týkajúcich sa ochrany obetí
+medzinárodných ozbrojených konfliktov (Protokol I)
+20
+
+alebo zariadeniach alebo v prípade priehrad alebo hrádzí, ak sa používajú na iné ako svoje
+normálne funkcie.32
+Domnievame sa, že podmienky v ENMOD z pohľadu ochrany životného prostredia boli
+upravené priaznivejšie a rozsiahlejšie ako v Protokole I nakoľko stačilo splniť aspoň jednu zo
+stanovených podmienok a už sa na to vzťahovala ochrana podľa ENMOD. Na druhej strane
+práve z toho dôvodu je Protokol I precíznejší a životným prostredím sa zaoberá ako „obeťou“.
+Protokol I sa javí ako efektívnejší nástroj ochrany životného prostredia v porovnaní s ENMOD.
+Podľa nášho názoru nedostatkom Protokol I, že hoci zakazuje používanie zbraní
+spôsobujúcich nadmerné utrpenie alebo neprimerané škody, neposkytuje dostatočnú ochranu
+životného prostredia pred nepriamymi dopadmi útokov na vojenské ciele definovanými v článku
+56. V tomto ohľade predstavuje najslabší bod protokolu z hľadiska ochrany životného
+prostredia. Ide o prípad úniku ropy, ak priamym cieľom je vojenský cieľ alebo znečistenie
+spôsobené útokmi na priemyselné zariadenia. Poškodenie týchto environmentálnych objektov
+by potom bolo len „vedľajšou škodou“, ktorá je prípustná len v nevyhnutnom rozsahu v akom
+nie je neprimeraná vo vzťahu ku konkrétnym a priamym vojenským útokom. S týmto súvisí aj
+priamy útok na vojenské ciele, kedy tiež poškodenie životného prostredia existuje tiež len ako
+„vedľajšia škoda“.33
+Vynútenie a kontrolné mechanizmy sú definované v čl. 90 Protokolu I. Hoci teda článok
+90 priamo nezriaďuje medzinárodnú vyšetrovaciu komisiu, ale vytvára rámec na vyšetrovanie
+a prípadné vyvodenie zodpovednosti voči krajinám za závažné porušenia. Táto možnosť, ale
+nikdy nebola využitá z dôvodu nedostatočnej podpory zo zmluvných strán. Napriek tomu, že
+ani ENMOD neupravuje žiadne konkrétne nápravné mechanizmy, možným prostriedkom na
+riešenie sporov je podanie sťažnosti Bezpečnostnej rade OSN, ktorá následne môže prešetriť
+daný prípad.34
+
+Čl. 56 ods. 2 pís. a),b) a c) Dodatkového protokolu k Ženevským dohovorom z 12. augusta 1949 týkajúcich sa
+ochrany obetí medzinárodných ozbrojených konfliktov (Protokol I)
+33
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 579.
+34
+REYHANI, R. Protection of the environment during armed conflict. Mo. Envtl. L. & Pol'y Rev., 2006, p. 335336.
+32
+
+21
+
+V článku 56, ktorý sa týka ochrany stavieb a zariadení obsahujúcich nebezpečné sily,
+ako sú priehrady, atómové elektrárne a nádrže, navrhujeme odstrániť odsek 2. Ten totiž definuje
+výnimky z tejto osobitnej ochrany. Vzhľadom na potenciálne katastrofické následky útoku na
+stavby a zariadenia obsahujúce nebezpečné sily, ako sú priehrady, atómové elektrárne a nádrže,
+by sme zásadu vojenskej nevyhnutnosti absolútne vylúčili, z dôvodu miery dopadu na ľudský
+život a ľudské zdravie, kedy škoda môže byť nenapraviteľná.
+My by sme používali podobnú formuláciu ako v čl. 53 Protokolu I, ktorú by znela:
+„Článok 56 Ochrana stavieb a zariadení obsahujúcich nebezpečné sily
+1.Stavby alebo zariadenia obsahujúce nebezpečné sily, osobitne priehrady, hrádze a atómové
+elektrárne, nesmú byť predmetom útokov, aj keď sú vojenskými objektmi, pokiaľ taký útok môže
+spôsobiť uvoľnenie nebezpečných síl a viesť v dôsledku toho k vážnym stratám na civilnom
+obyvateľstve. Ostatné vojenské objekty umiestnené pri týchto stavbách alebo zariadeniach alebo
+v ich blízkosti nemôžu byť predmetom útoku, pokiaľ taký útok môže spôsobiť uvoľnenie
+nebezpečných síl z týchto stavieb alebo zariadení a viesť v dôsledku toho k vážnym stratám na
+civilnom obyvateľstve
+2. Zakazuje sa:
+a) vykonávať akékoľvek nepriateľské činy namierené proti stavieb a zariadení obsahujúce
+nebezpečné sily;
+b)využívať také objekty na podporu vojenského úsilia;
+c)urobiť také objekty predmetom represálií.“
+Navrhujeme povinné zriadenie Medzinárodnej vyšetrovacej komisie podľa článku 90 Protokolu
+I. Táto komisia by mala zaujať funkciu stáleho orgánu. Jej úlohou by bolo kontrolovať
+dodržiavanie ustanovení Protokolu I. Zároveň by sme rozšírili jej právomoci o dohľad nad
+dodržiavaním povinností a vymáhanie náhrady škody vzniknutej v dôsledku porušenia
+Protokolu I. V takýchto prípadoch by mala Komisia oprávnenie vymáhať aj náhradu škody za
+poškodenie životného prostredia v súlade s článkami 35, 53, 55 a 56.
+Ďalej navrhujeme spojku „a“ vymeniť na spojku „alebo“ v čl. 55 Protokole I. Tým by sa
+stanovila alternatívna podmienka namiesto kumulatívnej. To znamená, že na porušenie
+22
+
+ustanovení by stačilo splniť aspoň jednu z podmienok, čo je z pohľadu ochrany životného
+prostredia priaznivejšia. V tomto prípade by stačilo, aby spĺňali aspoň jednu z troch podmienok,
+ktoré sú: dlhodobé, rozsiahle a vážne poškodenie životného prostredia.
+
+1.4 Ochrana životného prostredia podľa Dohovoru na ochranu kultúrnych
+statkov za ozbrojeného konfliktu
+Ďalší významný dohovor je Dohovor na ochranu kultúrnych statkov za ozbrojeného
+konfliktu z roku 1954 (ďalej len „Haagsky dohovor“), ktorý bol prijatý 14. mája 1954
+v Haagu.35 Tento dohovor pomáha vo vývoji kodifikácie medzinárodného práva životného
+prostredia a stanovuje základné pravidlá ochrany kultúrnych hodnôt v čase vojny.36 Vznik tohto
+dohovoru výrazne ovplyvnila aj Druhá svetová vojna. Ničenie a drancovanie kultúrneho
+majetku bolo spomínané v procese proti hlavným nacistickým vojnovým zločincom pred
+Medzinárodným vojenským tribunálom v Norimbergu a niektorí z obžalovaných boli tiež
+súdení a uznaní zodpovednými za činy tohto druhu. Napríklad Alfred Rosenberg, ktorý bol
+odsúdený za drancovanie kultúrneho majetku. Alfred Rosenberg zastával pozíciu vedúceho
+predstaviteľa rozsiahleho systému organizovaného dracovania verejného a súkromného majetku
+v okupovaných krajinách Európy. V súlade s povereniami Adolfa Hitlera od januára 1940 zriadil
+dve inštitúcie: „Hohe Schule“ a „Einsatzstab Rosenberg“. Tieto inštitúcie mali za úlohu
+drancovať múzeá a knižnice, konfiškovať umelecké diela, pokladnice, zbierky a majetok zo
+súkromných domov.37
+Haagsky dohovor bol doplnený Prvým protokolom z roku 1954 (ďalej len „Prvý
+protokol“). Hlavnou úlohou tohto protokolu je zákaz vývozu hnuteľného majetku
+z okupovaného územia. Zároveň vyžaduje jeho návrat na územie, z ktorého bol vyvezený.
+Obsahuje aj zákaz zadržovania predmetov, ktoré sú premetom kultúrneho dedičstva počas
+vojnovej reparácie. V roku 1999 bol doplnený Druhým protokolom (ďalej len „Druhý
+
+Vyhláška ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych statkov za ozbrojeného
+konfliktu a Protokole k nemu z 5. novembra 1958.
+36
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 249.
+37
+INTERNATIONAL MILITARY TRIBUNAL. The Trial of German Major War Criminals: Proceedings of the
+International Military Tribunal Sitting at Nuremberg, Germany. HM Stationery Office, Judgment of 1 October
+1946, p. 114.
+35
+
+23
+
+protokol“), ktorý posilňuje ustanovenia dohovoru38. Definuje aj tzv. „zvýšenú ochranu“ pre
+také kultúrne objekty, ktoré majú pre ľudstvo obzvlášť dôležitý význam. To znamená, že
+poškodenie kultúrneho dedičstva so zvýšenou ochranou patriacemu hociktorému národu je
+stratou pre celé ľudstvo.39
+Myšlienkové jadro tohto dohovoru pochádza z Dohovoru o zákonoch a obyčajoch
+pozemnej vojny z roku 1907, presne z čl. 56, ktorý znie: „Akékoľvek zadržiavanie, úmyselné
+ničenie alebo porušovanie podobných inštitútov, historických pamiatok alebo umeleckých a
+vedeckých diel je zakázané a malo by byť predmetom súdneho konania.“40 Tento dohovor
+odstránil prípadné nedostatky Dohovoru o zákonoch a obyčajoch pozemnej vojny a zaviedol
+pojem „kultúrny statok“ s presnou definíciou. Haagsky dohovor určil aj medzinárodný symbol
+pre národy na ochranu kultúrneho majetku. Prítomnosť kultúrnych hodnôt má byť označená
+modrým a bielym štítom. Tento štít môže byť umiestnený ako znak na pamiatkach alebo
+vyvesený vo forme vlajky. Napokon Haagskym dohovorom sa vytvoril medzinárodný Zoznam
+kultúrnych hodnôt pod zvýšenou ochranou.41
+Haagsky dohovor upravuje dva typy režimov - všeobecný a osobitný.42 Všeobecný
+režim je upravený v hlave I, kde sú predmety posudzované všeobecne ako kultúrne statky.
+Pojem „kultúrne statky“ je všeobecne vymedzený v čl. 1 ako statky hnuteľné i nehnuteľné, ktoré
+majú veľkú dôležitosť pre kultúrne dedičstvo národov, ktoré sú napr. architektonické stavby,
+umelecké, náboženské diela, ale aj knihy, vedecké zbierky, múzeá, knižnice a budovy, ktorých
+hlavným a skutočným určením je uchovanie a vystavovanie hnuteľných kultúrnych statkov
+a nakoniec strediská zahŕňajúce značný počet kultúrnych statkov.43
+Podľa čl. 4 Haagskeho dohovoru štáty musia zabezpečiť ochranu aj počas mieru, podľa
+ktorého sa zmluvné strany zaväzujú šetriť kultúrne statky, ich nepoužívanie na vojenské účely.
+
+Ministerstvo kultúry Slovenskej rebubliky, Sekcia kultúrneho dedičstva a kultúry menšín, Ochrana kultúrnych
+hodnôt počas ozbrojených konfliktov. Dostupné na: http://www.unesco.sk/ozbrojenykonflikt
+39
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 249.
+40
+HOBZA, A. Dokumenty ke studiu mezinárodního práva. 1931.
+41
+KASTENBERG, J. E. The legal regime for protecting cultural property during armed conflict. AFL Rev., 1997,
+p. 291.
+42
+NAHLIK, S. E. International law and the protection of cultural property in armed conflicts. Hastings LJ, 1975,
+p. 1079.
+43
+Čl. 1 pís. a), b) a c) Vyhlášky ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych
+statkov za ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958.
+38
+
+24
+
+Táto ochrana sa vzťahuje aj na ich okolie. Od záväzkov je ale možné sa odchýliť v prípade, ak
+vojenská nevyhnutnosť túto odchýlku naliehavo vyžaduje.44
+Šetrenie, ako už bolo spomenuté je definované v čl. 4 a znamená to, že zmluvné strany
+na území ostatných vysokých zmluvných strán, ako aj na vlastnom území zabezpečujú ochranu
+okolia kultúrnych statkov, aby nedošlo k ich ohrozeniu alebo zničeniu počas nepriateľských
+činov a ozbrojených konfliktov. Zmluvné strany sa ďalej zaväzujú podľa čl. 4 ods. 3 Haagskeho
+dohovoru zakázať každú formu vandalizmu voči kultúrnemu statku, ako napr. lúpenie alebo
+spreneverovanie. S týmto záväzkom súvisí aj povinnosť zastavenia rozkrádania. Ďalej v odseku
+4 je vymedzená povinnosť neurobenia žiadnych odvetných opatrení voči statkom. V odseku 5
+je vymedzená zodpovednosť za záväzky určené v tomto článku. Podľa tohto ustanovenie žiadna
+zmluvná strana sa nemôže oslobodiť s odôvodnením, že táto strana nevykonala zabezpečovacie
+opatrenia.45
+Ochrana kultúrnych hodnôt na okupovaných územiach sa riadi článkom 5. Článok 5
+vyžaduje, aby okupačné sily umožnili „príslušným orgánom“ okupovaného územia zabezpečiť
+zachovanie a ochranu kultúrnych statkov. Za okolností, keď na okupovanom území chýbajú
+príslušné orgány, sú okupačné sily povinné pomáhať pri opravení poškodených miest
+a pamiatok.46
+Ďalej v článku 6 sa nachádza právna úprava označenia kultúrnych statkov. S týmto
+článkom súvisí aj článok 16, ktorý obsahuje aj poznávací znak kvôli ľahšiemu identifikovaniu
+konkrétneho kultúrneho statku.47 V článku 7 je ustanovená povinnosť zmluvných strán, aby
+počas mieru ustanovili a pripravili konkrétny odborný personál, ktorý bude mať úlohu bdieť nad
+ochranou kultúrnych statkov, zabezpečovať spoluprácu s dotknutými civilnými úradmi a v dobe
+
+Čl. 4 ods. 1 a 2 Vyhlášky ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych statkov
+za ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958.
+45
+Čl. 4 ods. 3,4 a 5 Vyhlášky ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych statkov
+za ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958.
+46
+KASTENBERG, J. E. The legal regime for protecting cultural property during armed conflict. AFL Rev., 1997,
+p. 292.
+47
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 251.
+44
+
+25
+
+mieru zadefinovanie pokynov do ich poriadkov, ktoré zabezpečujú zachovávanie ustanovenia
+tohto Dohovoru.48
+Osobitný režim je upravený v Hlave II, kde je vymedzený úzky okruh objektov, ktoré
+sú obzvlášť cenné a ich uchovanie je v záujme celého ľudstva. Hlava II upravuje tieto prípady:
+Podľa čl. 8 ods. 1 písm. a) a b) „Pod osobitnú ochranu možno dať obmedzený počet úkrytov
+určených na úschovu hnuteľných kultúrnych statkov za ozbrojeného konfliktu, stredísk
+kultúrnych pamiatok a iných nehnuteľných kultúrnych statkov veľkej dôležitosti, ak sú v
+dostatočnej vzdialenosti od veľkého priemyslového strediska a od akéhokoľvek dôležitého
+vojenského objektu predstavujúceho citlivý bod, ako je napríklad letisko, rozhlasová stanica,
+závod pracujúci pre národnú obranu, prístav alebo železničná stanica istej dôležitosti alebo
+veľká komunikačná línia a neužívajú sa na vojenské účely.“49
+Prvý protokol z roku 1954 upravuje vývoz kultúrnych statkov z územia, ktoré je
+okupované počas ozbrojeného konfliktu, prevzatie do svojej starostlivosti kultúrnych statkov
+dovezené na jej územia a pochádzajúce priamo alebo nepriamo, z ktoréhokoľvek územia, na
+ktorom sa nachádza. Každá zmluvná strana sa zaväzuje, že po skončení nepriateľských akcii
+vráti príslušným orgánom územia, ktoré predtým okupovala, kultúrne statky, ktoré sa
+nachádzajú na jej území. Strana, ktorej úlohou bolo zabránenie vývozu, vyplatí odškodnenie
+držiteľom, ktorí sú v dobrej viere.50
+Druhý Protokol z roku 1999 rozširuje ochranu kultúrnych statkov. Obsahuje dôležité
+opatrenia, napr. v čl. 5 Druhého Protokolu je spresnenie a rozšírenie ustanovení dohovoru
+upravujúcich všeobecnú ochranu kultúrnych hodnôt v prípade ozbrojených konfliktov,
+konkrétne plánovanie núdzových opatrení na ochranu pred požiarom alebo zrútením
+konštrukcie.
+V čl. 6 Druhého Protokolu sa nachádza ustanovenie o rešpektovaní kultúrneho majetku.
+Zároveň vymenováva výnimky, kedy v súlade so zásadou naliehavej vojnovej nevyhnutnosti
+
+48
+
+KASTENBERG, J. E. The legal regime for protecting cultural property during armed conflict. AFL Rev., 1997,
+p. 292.
+49
+Čl. 8 ods. 1 pís. a) a b) Vyhlášky ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych
+statkov za ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958.
+50
+Čl. 1 Vyhlášky ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych statkov za
+ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958.
+26
+
+môžu byť kultúrne majetky napadnuté. Tie prípady sú napr.: ak sa kultúrny statok stal
+vojenským objektom, ak neexistuje žiadna iná alternatíva, ktorá by umožnila získať podobnú
+vojenskú výhodu.51 Pre najvzácnejšie kultúrne hodnoty, ktoré majú veľký význam pre celé
+ľudstvo, bude takáto kultúrna hodnota podliehať najprísnejším normám. Zvýšená ochrana je
+definovaná v čl. 10 Druhého Protokolu, podľa ktorého môže byť kultúrny majetok zaradený pod
+zvýšenú ochranu, ak je to kultúrne dedičstvo s najväčším významom pre celé ľudstvo, je
+chránený primeranými vnútroštátnymi právnymi opatreniami, ktoré uznávajú jeho výnimočnú
+kultúrnu hodnotu a nevyužívanie na vojenské účely.52 Zavádza sa systém ochrany s
+najprísnejšími postihmi za porušenie imunity týchto kultúrnych hodnôt, ktorý sa zintenzívni po
+zápise do medzinárodného Zoznamu kultúrnych hodnôt pod zvýšenou ochranou.53 Na zozname
+je teraz 17 pamiatok, ako napr. Vila Tungendhat v Brne, Hortovo múzeum v Bruseli alebo
+Choirokoitia v Cypruse.54
+Podľa nášho názoru dôležité je najmä posilnenie ochrany životného prostredia a
+ustanovenie trestnej zodpovednosti jednotlivcov, teda individuálnej trestnej zodpovednosti za
+konkrétne závažné porušenia protokolu alebo dohovoru. Táto úprava sa nachádza v čl. 28, ktorá
+znie: „Vysoké zmluvné strany sa zaväzujú, že v rámci svojho trestného práva urobia všetky nutné
+opatrenia, aby boli bezo zreteľa na štátne občianstvo stíhané a trestným alebo disciplinárnym
+sankciám podrobované osoby, ktoré porušili tento Dohovor alebo na jeho porušenie dali
+rozkaz“. Myslíme si, že rozšírením Piatej kapitoly Druhého protokolu o ochrane kultúrnych
+hodnôt aj na ozbrojené konflikty, ktoré nemajú medzinárodný charakter, ale vyskytujú sa na
+území jednej zo zmluvných strán, bola ochrana životného prostredia právne výrazne posilnená.
+Druhý Protokol zriadil ešte základné inštitúcie na ochranu kultúrnych hodnôt, a to Zasadnutie
+strán protokolu a výbor na ochranu kultúrnych hodnôt počas ozbrojeného konfliktu podľa čl. 23
+a zároveň podľa čl. 29 vzniká Fond na ochranu kultúrnych hodnôt počas ozbrojeného konfliktu.
+
+Čl. 6 pís. a) body i. a ii. Druhého Protokolu k Haagskemu dohovoru z roku 1954 na ochranu kultúrnych statkov
+za ozbrojeného konfliktu 1999
+52
+Čl. 10 body a),b) a c) Druhého Protokolu k Haagskemu dohovoru z roku 1954 na ochranu kultúrnych statkov za
+ozbrojeného konfliktu 1999
+53
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 251.
+54
+UNESCO, Enhanced Protection: Cultural Property of Highest Importance to Humanity. Dostupné na:
+https://en.unesco.org/node/341353.
+51
+
+27
+
+V týchto dokumentoch sa vo viacerých prípadoch vyskytujú všeobecne zaužívané
+pravidlá, konkrétne ide o zásadu vojenskej nevyhnutnosti a vojenskej proporcionality. Zásada
+vojenskej nevyhnutnosti je vo viacerých prípadov zaužívaná tým, že sa používa ako
+ospravedlnenie vojenských aktov. V súlade s článkom 6 Druhého protokolu je signatárskym
+stranám uložená povinnosť rešpektovať kultúrne hodnoty. Táto povinnosť je však podmienená
+dvoma výnimkami: Ochrana kultúrnych hodnôt sa stráca v prípade, že boli svojou funkciou
+transformované na vojenské ciele. V opodstatnených prípadoch, kedy neexistuje iná vhodná
+alternatíva na dosiahnutie vojenského cieľa si to vyžaduje, môže byť ochrana kultúrnych hodnôt
+obmedzená. Domnievame sa, že proces posudzovania splnenia podmienok pre obmedzenie
+ochrany kultúrnych hodnôt nie vždy prebieha v prospech ochrany životného prostredia.
+Preukázanie úmyslu zneužitia týchto hodnôt na vojenské účely sa po uplynutí značného
+časového obdobia stáva značne náročným.
+Akýkoľvek nepriateľský čin, ktorý neprináša vojenskú výhodu, je zakázaný. Zásada
+vojenskej proporcionality stanovuje, že útok na vojenský objekt nesmie byť vedený spôsobom,
+ktorý by mohol predstavovať neprimerané riziko vedľajších škôd v porovnaní s očakávanou
+konkrétnou vojenskou výhodou. Medzinárodný súdny dvor vykladal používanie zásady
+vojenskej proporcionality a vojenskej nutnosti v prípade Legalita hrozby a použitia jadrových
+zbraní. Štáty pri posudzovaní vplyv vojenských útokov, musia rešpektovať tieto zásady a konať
+primerane a nevyhnutným spôsobom.55
+Rozsah ochrany podľa tohto Dohovoru sa výrazne rozšíril. Všetky staršie nariadenia,
+ktoré obsahovali ochranu kultúrnych statkov sa vzťahovali len na vojnový stav. Dohovor
+výslovne stanovuje uplatňovanie svojich ustanovení v prípade „akéhokoľvek iného ozbrojeného
+konfliktu“ medzi zmluvnými stranami, v prípade „čiastočnej alebo úplnej okupácie územia“ a
+napokon, pokiaľ ide o jeho najdôležitejšie ustanovenie v prípade „ozbrojeného konfliktu, ktorý
+nemá medzinárodný charakter“.56
+
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 252.
+56
+NAHLIK, S. E. International law and the protection of cultural property in armed conflicts. Hastings LJ, 1975,
+p. 1078.
+55
+
+28
+
+Ako každý dohovor má aj tento negatívne stránky. Ustanovenia o reštitúciách boli
+vynechané z Dohovoru a ustanovené v samostatnom protokole, podľa ktorého by sa krajiny
+mohli rozhodnúť, či ho prijmú alebo odmietnu nezávisle od Dohovoru.57
+
+1.5 Ochrana životného prostredia podľa Dohovoru o zákaze vývoja, výroby
+a hromadenia zásob bakteriologických (biologických) a toxínových
+zbraní a o ich zničení
+Po druhej svetovej vojne sa zákaz chemických a biologických zbraní objavil na programe
+zasadnutia Výboru pre odzbrojenie osemnástich národov v roku 1968. O rok neskôr OSN
+uverejnila dôležitú správu o problémoch chemických a biologických zbraní.58 Tejto otázke sa
+venovala veľká pozornosť na Valnom zhromaždení OSN a nakoniec dospeli k záveru, že
+niektoré chemické a biologické zbrane nemôžu byť obmedzené v ich účinkoch v priestore
+a v čase, nakoľko by mohli mať závažné a nezvratné dôsledky pre človeka a prírodu.59 Následné
+rokovania o globálnom zákaze biologických zbraní viedli k medzinárodnej dohode, ktorá bola
+prijatá v roku 1972 pod názvom Dohovor o zákaze vývoja, výroby a hromadenia zásob
+bakteriologických (biologických) a toxínových zbraní a o ich zničení (ďalej len „BWC“).60
+Dokument dôrazne stanovil zákaz vývoja, spracovania a skladovania patogénnych látok alebo
+toxínov v množstvách presahujúcich potreby vedeckého výskumu. Podľa tohto dokumentu sa
+mal výskum vykonávať len na preventívne, ochranné účely a na iné mierové účely.61
+Čl. 1 zakazuje „vyvíjať, vyrábať, hromadiť alebo akýmkoľvek spôsobom získavať alebo
+prechovávať mikrobiologické alebo iné biologické agensy alebo toxíny akéhokoľvek pôvodu, či
+spôsobu výroby, a to takých druhov a v takom množstve, ktoré nie sú určené pre preventívne,
+ochranné alebo iné mierové účely a zbrane, zariadenia alebo nosiče určené na použitie takých
+agensov alebo toxínov na nepriateľské účely alebo v ozbrojenom konflikte.“62 V dohovore sú
+Tamže. 1083.
+Report je dostupný na: https://digitallibrary.un.org/record/577282?v=pdf
+59
+GOLDBLAT, J. The biological weapons convention: An overview. International Review of the Red Cross (19611997), 1997, p. 252.
+60
+Vyhláška ministra zahraničných vecí č. 96/1975 Zb. o Dohovore o zákaze vývoja, výroby a hromadenia zásob
+bakteriologických (biologických) a toxínových zbraní a o ich zničení z 9. júla 1975.
+61
+SÎRBU, C. G.-E.; BOGDAN, V. The Generation and Role of the 1972 Convention on the Prohibition of
+Biological Weapons. In: RIAN MILITARY THINKING INTERNATIONAL SCIENTIFIC CONFERENCE
+PROCEEDINGS. 2020. p. 458.
+62
+Čl. 1 bod 1. a 2. Dohovoru o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických) a
+toxínových zbraní a o ich zničení
+57
+58
+
+29
+
+definované zakázané predmety, ktorými sú mikrobiologické alebo iné biologické agensy
+(činidlá, účinné látky) alebo toxíny akéhokoľvek pôvodu, či spôsobu výroby, a to takých druhov
+a v takom množstve, ktoré nie sú určené pre preventívne, ochranné alebo iné mierové účely a
+zbrane, zariadenia alebo nosiče určené na použitie takých agensov alebo toxínov na nepriateľské
+účely alebo v ozbrojenom konflikt, na ktoré sa zákazy vzťahujú. Existuje však záväzná definícia
+biologických látok, ktorú sformulovala WHO.63
+Podľa BWC zákaz nie je absolútny. Vzťahuje sa len na typy a množstvá, ktoré nemajú
+prevenčný, ochranný alebo iný mierový účel. V takých prípadoch uchovávania, výroby alebo
+získavania určitých množstiev biologických látok a toxínov je možné pokračovať a vykonávať
+testovanie v laboratóriách a aj v teréne.64
+Ďalej v čl. 2 BWC je určená povinnosť zničiť alebo previesť na mierové účely všetky
+agensy, toxíny, zbrane, zariadenia a nosiče uvedené v čl. 1. V článkoch 3, 4 a 5 BWC zakazuje
+odovzdávať priamo alebo nepriamo agensy, toxíny, zbrane, zariadenia alebo nosiče, prijať
+nevyhnutné opatrenia na zákaz a zamedzenie vývoja, hromadenia, získavanie alebo
+prechovávanie agensov, toxínov, zbraní, zariadení alebo nosičov a uloží povinnosť
+konzultovanie a spolupráce medzi stranami BWC.65 Podľa čl. 10 zmluvné strany sa zaviazali
+spolupracovať pri ďalšom rozvoji a uplatňovaní vedeckých výskumov v oblasti biológie na
+prevenciu chorôb alebo na iné mierové účely.66 Kontrolným orgánom v prípade porušenia podľa
+čl. 6 je Bezpečnostná rada OSN.
+Najvýznamnejším cieľom BWC je povinnosť zmluvných štátov, aby zničili všetky látky,
+zbrane, toxíny alebo ich previedli na mierové účely. Po rozpade Sovietskeho zväzu
+a v podmienkach chaosu boli ťažko kontrolovateľné procesy uchovania biologických zbraní,
+ktoré by nemali uniknúť na čierny trh alebo do rúk teroristov. Nebezpečenstvo bolo vysoké,
+pretože biologické látky sa nachádzali vo výskumných centrách alebo na univerzitách, ktoré
+vykonávajú výskumné činnosti. Nemocnice, univerzity alebo testovacie zariadenia môžu byť
+
+63
+
+GOLDBLAT, J. The biological weapons convention: An overview. International Review of the Red Cross (19611997), 1997, p. 253.
+64
+Tamže. 254.
+65
+Čl. 3,4,5 Dohovoru o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických) a toxínových
+zbraní a o ich zničení
+66
+GOLDBLAT, J. The biological weapons convention: An overview. International Review of the Red Cross (19611997), 1997, p. 256.
+30
+
+ľahko vykradnuté, pokiaľ v nich nie sú biologické agensy bezpečne uložené.67 Preto toto riziko
+zostáva naďalej nezanedbateľné.
+Navrhli by sme upraviť presné množstvo biologických látok, ktoré môžu použiť na účely
+dovolené, ktoré sú preventívne, ochranné a iné mierové podľa tohto dohovoru, aby nemohli
+zhromažďovať zásoby v nebezpečnom množstve, a osobitné bezpečnostné opatrenia, ktoré
+musia budovy a ústavy dodržiavať, ak chcú mať povolené zhromažďovať tieto látky na účely
+podľa tohto dohovoru.
+
+1.6 Ochrana životného prostredia podľa San Remo Manuálu o
+medzinárodnom práve uplatniteľnom na ozbrojené konflikty na mori
+Konkrétnejšie požiadavky sú stanovené v San Remo Manuály o medzinárodnom práve
+uplatniteľnom na ozbrojené konflikty na mori z roku 1994 (ďalej len „San Remo Manuál“). V
+článku 44 sa uvádza, že poškodenie alebo zničenie prírodného prostredia, ktoré nie je
+odôvodnené vojenskou nevyhnutnosťou a je vykonané bezohľadne, je zakázané. Stanovuje sa v
+ňom tiež, že ak sa nepriateľské akcie uskutočňujú vo výlučnej hospodárskej zóne neutrálneho
+štátu, bojujúce strany musia náležite zohľadňovať práva a povinnosti pobrežného štátu a okrem
+toho musia dbať aj na ochranu a zachovanie morského prostredia.68 San Remo Manuál používa
+kritérium „náležitej starostlivosti“. Čl. 44 stanovuje, že metódy a prostriedky vedenia vojny by
+sa mali vykonávať s náležitou starostlivosťou s ohľadom na prírodné prostredie a s
+prihliadnutím na príslušné pravidlá medzinárodného práva. Hoci toto ustanovenie je menej
+prísne ako ustanovenia uvedené v Protokole I a ENMOD, môže byť v kontexte ozbrojeného
+konfliktu na mori vhodnejšie, pretože Protokol I a ENMOD nezahŕňajú námornú vojnu.69
+Význam tohto dokumentu spočíva v tom, že pomohol objasniť súčasný stav
+obyčajového práva a v prípade sporných otázok70, ktorými sú napríklad zóny vylúčenia,
+navrhuje právny režim, ktorý je čo najviac v súlade s nedávnou štátnou praxou a súvisiacimi
+SÎRBU, C. G.-E.; BOGDAN, V. The Generation and Role of the 1972 Convention on the Prohibition of
+Biological Weapons. In: RIAN MILITARY THINKING INTERNATIONAL SCIENTIFIC CONFERENCE
+PROCEEDINGS. 2020., p. 461.
+68
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 583.
+69
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 34.
+70
+DOSWALD-BECK, L. San Remo Manual on international law applicable to armed conflict at sea. International
+Review of the Red Cross (1961-1997), 1995, p. 587.
+67
+
+31
+
+oblasťami práva. Potreba aktualizovaného vyjadrenia práva vyplýva zo skutočnosti, že zmluvné
+právo o vedení nepriateľských akcií na mori je nielen nejednotné, ale väčšinou pochádza z roku
+1907. Napríklad Dohovor o režime nepriateľských obchodných lodí na začiatku vojny z roku
+1907, Dohovor o premene obchodných lodí na vojenské z roku 1907 alebo Dohovor o kladení
+podmorských samočinných dotykových mín z roku 1907. Pri posudzovaní súčasného zvyku na
+rozdiel od práva obsiahnutého v starých nástrojoch je potrebné zohľadniť skutočnosti ako sú
+nová technológia a moderné metódy. Ďalej vplyv Ženevského dohovoru a Protokolu I a II,
+hlavne v ochrane zdravotníckych plavidiel alebo v koncepcii obmedzenia útokov len na
+vojenské ciele. Posledným faktorom je celkový vývoj medzinárodného práva životného
+prostredia, leteckého práva a námorného práva.71
+Negatívne možno vnímať, že niektoré otázky boli z manuálu zámerne vynechané.
+Predovšetkým sa nezaoberá celou otázkou zodpovednosti štátu za porušenie práva a nezaoberá
+sa ani prostriedkami vykonávania a presadzovania práva. Účastníci sa domnievali, že všeobecné
+pravidlá medzinárodného humanitárneho práva, ktoré sa vzťahujú na ozbrojené konflikty na
+zemi a medzinárodného práva vo všeobecnosti budú aplikovateľné aj v tomto prípade. Okrem
+toho sa manuál výslovne nezaoberá ozbrojenými konfliktami nemedzinárodného charakteru,
+nevylučuje ich výslovne, podporuje uplatňovanie humanitárnych pravidiel na prípadné námorné
+operácie uskutočňované počas ozbrojených konfliktov.72
+San Remo Manuál navrhujeme doplniť ešte právnou úpravou, ktorá sa vzťahuje nie len
+na medzinárodné ozbrojené konflikty, ale aj na konflikty, ktoré nemajú medzinárodný charakter.
+
+2
+
+Ochrana životného prostredia podľa noriem medzinárodného práva
+životného prostredia
+
+2.1 Aplikovanie multilaterálnych
+ozbrojeného konfliktu
+
+enviromentálnych
+
+dohôd
+
+počas
+
+V kontexte uplatňovania medzinárodného práva životného prostredia vyvstáva otázka,
+či normy aplikovateľné v čase mieru platia aj počas ozbrojeného konfliktu. Táto problematika
+
+71
+
+DOSWALD-BECK, L. The San Remo Manual on international law applicable to armed conflicts at sea.
+American Journal of International Law, 1995, p. 193-194.
+72
+Tamže. s. 207.
+32
+
+je mimoriadne komplexná a do popredia záujmu medzinárodného spoločenstva sa dostala
+koncom 90. rokov 20. storočia. Výklad medzinárodného práva, a to aj v oblasti životného
+prostredia, je podmienený komplexným súborom rôznych faktorov. Medzi najdôležitejšie z nich
+patria: predmet zmlúv, výklad zmlúv podľa čl. 31 a 32 Viedenského dohovoru o zmluvnom
+práve, povaha a rozsah ozbrojeného konfliktu alebo vplyv konfliktu na zmluvu.73
+Vytvorili sa tri tábory s tromi rôznymi názormi o aplikovateľnosti environmentálnych
+dohovorov. Najstaršia škola zastáva názor, že žiadne zmluvy a dohovory o ochrane životného
+prostredia nemôžu prežiť vypuknutie vojnového konfliktu, ak neobsahujú explicitné
+ustanovenia o ochrane životného prostredia v takýchto situáciách. Druhá škola zastáva
+kompromisný postoj a tvrdí, že niektoré dohovory stále platia s výnimkou tých, ktoré sú svojou
+špecifickou povahou nezlučiteľné s nepriateľskými aktivitami. Podľa tretej školy je nutné
+interpretovať environmentálne dohovory extenzívne a aplikovať ich aj vtedy, ak neobsahujú
+explicitné ustanovenia o vojnovom konflikte.74 Čl. 73 Viedenského dohovoru o zmluvnom
+práve túto otázku rieši jednoducho: „Ustanovenia tohto dohovoru sa nebudú dotýkať žiadnej
+otázky, ktorá v súvislosti so zmluvou môže vzniknúť ... zo vzniku vojnového stavu medzi
+štátmi.“75 V skratke táto veta vylučuje z pôsobnosti dohovoru určité komplexné a sporné otázky,
+napríklad: Aké sú právne účinky vojnového stavu na zmluvy medzi štátmi zapojenými do
+konfliktu. Vzhľadom na to, že Viedenský dohovor o zmluvnom práve neposkytuje riešenie pre
+prípady ovplyvnenia zmlúv vojnou, je nutné posudzovať každú zmluvu individuálne v kontexte
+jej špecifických okolností.76
+Zvyčajne sa právo platné v čase mieru uplatňuje medzi bojujúcimi štátmi a neutrálnymi
+štátmi (všeobecnejšie povedané štátmi, ktoré nie sú stranami ozbrojeného konfliktu). To
+znamená, že prinajmenšom multilaterálna dohoda sa musí naďalej uplatňovať počas
+ozbrojeného konfliktu aspoň medzi stranami konfliktu a štátmi, ktoré nie sú stranami konfliktu.
+Pokračujúc v tejto logickej linke ani ozbrojený konflikt, ktorý nemá medzinárodný charakter,
+
+73
+
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 580.
+74
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 37-38.
+75
+Vyhláška ministra zahraničných vecí č. 15/1988 Zb. o Viedenskom dohovore o zmluvnom práve zo 4. septembra
+1987.
+76
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 37-38.
+33
+
+by nemal mať vplyv na neuplatňovanie dohôd. Táto situácia nie je taká jednoduchá, významným
+problémom je fakt, či štáty budú naďalej plniť a dodržiavať svoje záväzky aj po vypuknutí
+ozbrojeného konfliktu a v akom rozsahu.77 Multilaterálne zmluvy vo všeobecnosti zostanú v
+platnosti medzi bojujúcimi a nebojujúcimi signatármi. Pokiaľ ide o vzťahy medzi bojujúcimi
+stranami, ak dotknutý záväzok alebo právo má následky (vedľajšie škody), ktoré presahujú
+rámec bojujúcich strán, je menej pravdepodobné, že dohoda bude pozastavená alebo ukončená.
+To je časté v prípade zmlúv, ktoré vytvárajú medzinárodné režimy pre spoločné dobro, resp.
+spoločný záujem dotknutých štátov. Príkladom môže byť Kuvajtský regionálny dohovor o
+spolupráci pri ochrane morského prostredia pred znečistením, prijatý v Kuvajte 24. apríla 1978,
+ktorý bol platný aj počas Vojny v Perzskom zálive. Zmluvnými stranami boli Bahrajn, Irán,
+Irak, Katar, Kuvajt, Omán, Saudská Arábia a Spojené arabské emiráty a zmluva medzi týmito
+krajinami zaviedla zriadenie Regionálnej organizácie na ochranu morského prostredia
+(Regional Organization for the Protection of the Marine Environment) so sídlom v Kuvajte.
+Táto Organizácia pokračovala v činnosti počas vojny v Perzskom zálive za účasti Kuvajtu aj
+Iraku, hoci jej členovia opustili Kuvajt počas irackej okupácie. Okrem toho bola táto organizácia
+nápomocná pri odstraňovaní následkov vojny.78
+Sekretariát OSN vydal v roku 2005 štúdiu na túto tému. V memorande zverejnenom
+sekretariátom pod názvom „Vplyv ozbrojených konfliktov na zmluvy“79 uplatniteľnosť rozlišuje
+na základe predmetu zmluvy. Inými slovami sekretariát urobil prvotné zistenie, ktoré typy
+zmlúv by mali vysokú alebo nízku pravdepodobnosť uplatniteľnosti v čase ozbrojeného
+konfliktu na základe predmetu zmluvy. Dospel k záveru, že zmluvy patriace do týchto oblastí
+by mohli mať vysokú pravdepodobnosť uplatniteľnosti počas ozbrojeného konfliktu: zmluvy
+z oblasti humanitárneho práva; zmluvy s výslovnými ustanoveniami o uplatniteľnosti v čase
+vojny; zmluvy upravujúce trvalý režim alebo postavenie; zmluvy alebo ustanovenia zmlúv,
+ktoré kodifikujú pravidlá „jus cogens“; zmluvy o ľudských právach; zmluvy upravujúce
+medzivládny dlh a diplomatické dohovory.80
+
+Tamže. 581.
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 39.
+79
+Memorandum by the Secretariat on the effect of armed conflict on treaties: an examination of practice and
+doctrine, A/CN.4/550 (Feb. 1, 2005)
+80
+DUDLEY, L. Until We Achieve Universal Peace: Implications of the International Law Commission's Draft
+Articles on the Effects of Armed Conflict on Treaties. Nat'l Sec. L. Brief, 2016, p. 18.
+77
+78
+
+34
+
+Multilaterálne dohody riešia svoju použiteľnosť v čase ozbrojených konfliktov výrazne
+odlišne. Niektoré priamo alebo nepriamo stanovujú ich ďalšie uplatňovanie počas
+nepriateľských akcií, zatiaľ čo v iných sa výslovne uvádza, že sú automaticky pozastavené,
+ukončené alebo neuplatniteľné po skončení ozbrojeného konfliktu a niektoré o tejto otázke
+mlčia. Možno vnímať veľmi negatívne, že väčšina z tých zmlúv patrí do poslednej kategórie.81
+Existujú aj dohovory, ktoré explicitne pozastavujú, derogujú alebo ukončujú platnosť
+dohody medzi bojujúcimi stranami počas ozbrojeného konfliktu. Jedným z relevantných
+medzinárodných dohôd v kontexte aplikovateľnosti environmentálnych dohovorov v čase
+ozbrojeného konfliktu je Parížsky dohovor o zodpovednosti tretej strany v oblasti jadrovej
+energie z 29. júla 1960. Dohovor výslovne vylučuje zodpovednosť prevádzkovateľov jadrových
+zariadení za škody priamo vyplývajúce z ozbrojeného konfliktu alebo podobných činností.82
+Formuláciu obsahuje čl. 9, ktorá znie: „Prevádzkovateľ nezodpovedá za jadrovú škodu
+spôsobenú jadrovou udalosťou priamo súvisiacu s aktami ozbrojeného konfliktu, nepriateľských
+akcií, občianskej vojny alebo povstania.“83
+Treťou kategóriou sú dohovory, ktoré o tom mlčia, napr. Dohovor o biologickej
+diverzite z roku 1992, Dohovor OSN pre boj proti dezertifikácií (proti rozširovaniu púští) z roku
+1994, Dohovor o ochrane sťahovavých druhov voľne žijúcich živočíchov z roku 1979.
+V niektorých prípadoch sa v komentároch nachádza výklad, ktorý rozširuje aplikáciu dohovoru
+aj počas ozbrojeného konfliktu, ale to sa v jednotlivých dohovoroch líši. Ako príklad možno
+uviesť Komentár k Dohovoru o biologickej diverzite, v ktorom sa uvádza, že tento dohovor sa
+vzťahuje aj na bojujúce strany. Dôvodom je jeho podobnosť so zmluvami o ľudských právach,
+ktoré automaticky nestrácajú platnosť v dôsledku vojnových konfliktov.84
+Do prvej kategórie dohovorov – takých, ktoré umožňujú aplikovanie počas ozbrojeného
+konfliktu, patrí Dohovor o ochrane svetového kultúrneho a prírodného dedičstva (ďalej len
+
+81
+
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 581.
+82
+Tamže. s. 583.
+83
+OECD, Convention on Third Party Liability in the Field of Nuclear Energy (Paris Convention),
+OECD/LEGAL/0038, Article 9
+84
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 583.
+35
+
+„Dohovor o svetovom dedičstve“), ktorý bol prijatý v 1972 v Paríži.85 Tento dohovor upravuje
+ochranu životného prostredia a umelého životného prostredia nielen počas mieru, ale aj počas
+ozbrojených konfliktov a kvôli tomu má zmiešanú povahu.86 Podľa čl. 1 Dohovoru o svetovom
+dedičstve za „kultúrne dedičstvo“ sa považujú pamätníky, ako napr. architektonické diela, diela
+monumentálneho sochárstva alebo maliarstva, skupiny budov a lokality, ktoré vytvoril človek
+alebo kombinované diela prírody. Hlavnou úlohou je zabezpečenie a ochrana kultúrneho
+dedičstva pre budúce generácie. Definuje vzájomnú spoluprácu zmluvných štátov, aby
+navzájom rešpektovali zásadu zvrchovanosti a zákaz priameho a nepriameho poškodenia
+kultúrneho a prírodného dedičstva. Na základe tohto dohovoru vznikli Medzivládny výbor na
+ochranu svetového kultúrneho a prírodného dedičstva, tzv. „Výbor pre svetové dedičstvo“(ďalej
+len „Výbor“) a „Zoznam svetového dedičstva.“ (ďalej len „Zoznam“).87
+Úlohou Výboru podľa čl. 11 Dohovoru o svetovom dedičstve bolo založiť, aktualizovať
+a publikovať zoznam vlastníctva. Výbor má právo kedykoľvek v prípade naliehavej potreby
+urobiť nový záznam. Výbor určí kritériá, podľa ktorých je možné zapísať kultúrne dedičstvo do
+Zoznamu. Podľa čl. 15 Dohovoru o svetovom dedičstve vznikol aj Fond na ochranu svetového
+kultúrneho a prírodného dedičstva, tzv. „Fond svetového dedičstva“. Výbor okrem toho vedie
+Zoznam podľa čl. 11 ods. 4 Dohovoru o svetovom dedičstve, ktorý zahŕňa lokality, ktoré si
+vyžadujú „závažné zásahy“, ktoré je potrebné vykonať, aby sa zachránilo svetové dedičstvo.
+Vážnym a špecifickým nebezpečenstvom môže byť vypuknutie alebo hrozba ozbrojeného
+konfliktu.88
+Druhým prípadom prvej kategórie je Dohovor o mokradiach majúcich medzinárodný
+význam predovšetkým ako biotopy vodného vtáctva dojednaný v Ramsare,89 tzv. „Ramsarský
+dohovor“. Tento dohovor výslovne neuvádza, či sa vzťahuje na bojujúce strany, ale úmysel
+však možno vyvodiť z dohovoru tým, že zmluvná strana má právo podľa čl. 4 „z dôvodu
+naliehavých štátnych záujmov“ vymazať alebo obmedziť hranice mokrade zahrnutej do
+Oznámenie Federálneho ministra zahraničných vecí č. 159/1991 Zb. o prijatí Dohovoru o ochrane svetového
+kultúrneho a prírodného dedičstva
+86
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 254.
+87
+Čl. 1 Dohovoru o ochrane svetového kultúrneho a prírodného dedičstva z roku 1972
+88
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 582.
+89
+Oznámenie Federálneho ministra zahraničných vecí č. 396/1990 Zb. o prijatí Dohovoru o mokradiach majúcich
+medzinárodný význam predovšetkým ako biotopy vodného vtáctva
+85
+
+36
+
+Zoznamu medzinárodne významných mokradí. Naliehavé národné záujmy môžu zahŕňať aj
+ozbrojený konflikt.90 Podobným spôsobom chráni aj Dohovor Organizácie Spojených národov
+o morskom práve, ktorý sa odvoláva na ochranu morského prostredia v ozbrojenom konflikte,
+pričom štáty sú povinné konať tak, aby zabezpečili takéto plavidlá ako vojnové lode, pomocné
+námorné a iné plavidlá alebo lietadlá a konali takým spôsobom, ktorý je v súlade s dohovorom,
+pokiaľ je to rozumné a možné.91 Čl. 236 Dohovoru o morskom práve znie: „Ustanovenia tohto
+Dohovoru ohľadom ochrany a zachovania morského prostredia sa nevzťahujú na vojnové lode,
+lode námorného zabezpečenia, iné lode alebo lietadlá, ktoré vlastní alebo spravuje štát a v
+súčasnej dobe používa len pre vládnu neobchodnú službu. Avšak každý štát zabezpečí prijatím
+príslušných opatrení, ktoré nie sú na škodu prevádzke alebo nezmenšia operačné možnosti
+takýchto lodí alebo lietadiel, ktoré vlastní alebo spravuje, že takéto lode alebo lietadlá budú
+konať tak, aby toto konanie bolo v súlade, pokiaľ je to rozumné a možné, s týmto Dohovorom.“92
+Na jednej strane sa ustanovenia Dohovoru nevzťahujú na vojnové lode. Na druhej strane však
+Dohovor ukladá štátom povinnosť prijať všetky vhodné opatrenia, aby minimalizovali škody na
+morskom prostredí.
+
+2.2 Ochrana životného prostredia medzinárodným obyčajovým právo
+životného prostredia a nástrojmi „soft-law“
+Niektoré nástroje „soft-law“ sa výslovne vzťahujú na ozbrojené konflikty. Ďalšie zásady
+medzinárodných právnych noriem a nezáväzného práva sa môžu uplatňovať, hoci sa netýkajú
+priamo ozbrojeného konfliktu. Niektoré pravidlá a zásady, ktoré nie sú súčasťou obyčajového
+práva, môžu byť stále podkladom pre výklad medzinárodného práva.93 Na dosiahnutie statusu
+obyčajového práva, musí byť norma zrejmá v rozšírenej praxi štátov v priebehu času a
+medzinárodné spoločenstvo musí preukázať „opinio juris sive necessitatis“. Teda presvedčenie,
+že pravidlo je záväzné. Základnou obyčajovou zásadou vojnového práva kodifikovanou v čl. 22
+
+90
+
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 582.
+91
+GRIFFIN, P. J.; ALI, SALEEM,, H. Managing transboundary wetlands: The Ramsar Convention as a means of
+ecological diplomacy. Journal of Environmental Studies and Sciences, 2014, p. 15.
+92
+Čl. 236 Dohovoru o mokradiach majúcich medzinárodný význam najmä ako biotopy vodného vtáctva
+93
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 584.
+37
+
+Dohovoru o zákonoch a obyčajoch pozemnej vojny z roku 1907 je, že právo bojujúcich strán
+prijať prostriedky na poškodenie nepriateľa nie je neobmedzené.94
+Deklarácia Konferencie Organizácie Spojených národov o životnom prostredí človeka
+(Štokholmská deklarácia) z roku 1972 zadefinovala všeobecnú zásadu, ktorá môže mať vplyv
+na uplatniteľnosť medzinárodného obyčajového práva životného prostredia počas ozbrojeného
+konfliktu. Zásada stanovuje, že štáty majú zodpovednosť zabezpečiť, aby činnosti v rámci ich
+jurisdikcie alebo kontroly nespôsobovali škody na životnom prostredí iných štátov alebo oblastí
+za hranicami národnej jurisdikcie.95
+O dve desaťročia po prijatí Štokholmskej deklarácie bola prijatá Deklarácie o životnom
+prostredí a rozvoji v Riu de Janeiro, ktorá bola snahou o aktualizáciu Štokholmskej deklarácie96.
+V tejto deklarácii sa v zásade 24 uvádza, že: „Vojna vo svojej podstate ničí trvalo udržateľný
+rozvoj. Štáty preto musia rešpektovať medzinárodné právo, ktoré zabezpečuje ochranu
+životného prostredia v čase ozbrojeného konfliktu a majú povinnosť spolupracovať na jeho
+ďalšom rozvoji, ak je to potrebné“. Hoci zámer chrániť životné prostredie je jednoznačný,
+význam ustanovenia je už menej jasný. Môže znamenať, že medzinárodné právo životného
+prostredia sa uplatňuje počas konfliktu, alebo môže jednoducho opakovať požadované
+dodržiavanie príslušných noriem v oblasti ochrany životného prostredia počas ozbrojeného
+konfliktu.97
+Ďalším dokumentom, ktorý obsahuje dôležité zásady, je Svetová charta prírody OSN
+z roku 1982. Zásada 5 Svetovej charty prírody v širšom zmysle nariaďuje, že „príroda musí byť
+chránená pred zničením spôsobeným vojnou alebo inými nepriateľskými činnosťami“. Zdá sa,
+že cieľom tejto zásady je zakázať poškodzovanie životného prostredia počas ozbrojeného
+konfliktu. Pravdepodobne však ide skôr o politické pravidlo ako o vyjadrenie právnej zásady.
+Vzhľadom na spory týkajúce sa zvykového právneho charakteru pravidiel ochrany životného
+
+94
+
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 52.
+95
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 584.
+96
+SCHMITT, M. N. Green war: an assessment of the environmental law of international armed conflict. Yale J.
+Int'l L., 1997, p. 43.
+97
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 584.
+38
+
+prostredia v čase ozbrojeného konfliktu by takéto rozsiahle pravidlo nemohlo rozumne vyhovieť
+testu všeobecnej praxe a opinio iuris.98
+
+2.3 Ochrana životného prostredia podľa Návrhu zásad ochrany životného
+prostredia vo vzťahu k ozbrojeným konfliktom
+Téma ochrany životného prostredia počas ozbrojených konfliktov bola zaradená do
+pracovného programu Komisie pre medzinárodné právo (ďalej len „ILC“) na základe podnetu
+správy o ochrane životného prostredia počas ozbrojených konfliktov, ktorú v roku 2009
+vypracovalo Zhromaždenie OSN pre životné prostredie (UNEA) a Inštitút environmentálneho
+práva (ELI). Táto správa vychádzajúc z dôležitých medzinárodných zmlúv dospela k záveru, že
+medzinárodný právny rámec ochrany životného prostredia počas ozbrojených konfliktov má
+niekoľko medzier a nedostatkov, a to najmä preto, že príslušné pravidlá boli vypracované v
+období od roku 1900 do 70. rokov 20. storočia.99
+Komisia OSN v roku 2013 zaradila do programu právo životného prostredia pod názvom
+„Ochrana životného prostredia vo vzťahu k ozbrojeným konfliktom“ v spojitosti s „Návrhom
+zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom“, ktorý prijala v rámci
+prvého čítania na svojom zasadnutí v roku 2019. Táto práca obsahuje 28 princípov.100
+Princíp 1 definuje, že tento návrh zásad sa vzťahuje na ochranu životného prostredia
+pred, počas alebo po skončení ozbrojeného konfliktu, vrátane situácií okupácie, bez zahrnutia
+definícií životného prostredia alebo ozbrojeného konfliktu. Komisia sa ďalej nevedela zhodnúť,
+či bude používať pojem „prírodné prostredie“ alebo „životné prostredie“, ale nakoniec sa
+rozhodla používať pojem „životné prostredie“, lebo je viac v súlade s terminológiou v iných
+oblastiach medzinárodného práva, vrátane medzinárodného práva životného prostredia a je
+možné ho vykladať ako rozšírenie ochrany na životné prostredie vytvorené človekom.101
+
+98
+
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 585.
+99
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 129.
+100
+LEHTO, M. Armed conflicts and the environment: The International Law Commission’s new draft principles.
+Review of European, Comparative & International Environmental Law, 2020, p.67.
+101
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 134-135.
+39
+
+Druhý princíp hovorí o cieľoch návrhu zásad na posilnenie ochrany životného prostredia
+v súvislosti s ozbrojenými konfliktmi, a to aj prostredníctvom preventívnych, zmierňujúcich a
+nápravných opatrení týkajúcich sa poškodenia životného prostredia.102
+Ďalej v zásadách 3 až 11 sú ustanovené zásady všeobecnej aplikácie, ktoré sú záväzné
+pred, počas aj po skončení ozbrojeného konfliktu. Zásada 3 ods. 1 potvrdzuje všeobecnú
+povinnosť podľa medzinárodného práva štátov prijať v rámci svojich vnútroštátnych systémov
+opatrenia na ochranu životného prostredia v súvislosti s ozbrojenými konfliktmi. Táto široko
+formulovaná zásada sa vzťahuje na „legislatívne, administratívne, súdne a iné opatrenia na
+zvýšenie ochrany životného prostredia“. Niektoré príklady takýchto povinností sú uvedené v
+komentári. Štáty sú napríklad povinné rozširovať obsah zákona o ozbrojených konfliktoch na
+ozbrojené sily, ako aj na civilné obyvateľstvo, zaznamenať umiestnenie mín, vykonať
+preskúmanie zbraní, aby sa zabezpečilo, že použitie nových zbraní nebude porušovať žiadne
+pravidlá medzinárodného práva, vrátane ľudských práv a medzinárodného práva životného
+prostredia.103 Druhý odsek zásady 3 vyzýva štáty, aby prijali dobrovoľné opatrenia na zlepšenie
+ochrany životného prostredia v súvislosti s ozbrojeným konfliktom. V tomto odseku sa
+zdôrazňuje široká škála existujúcich postupov, ktoré štáty a medzinárodné organizácie
+vykonávajú a ktoré dopĺňajú ich právne povinnosti chrániť životné prostredie v ozbrojených
+konfliktoch.104
+V zásade 4 sú definované povinnosti štátov zabezpečiť všetky správne, legislatívne,
+súdne opatrenia, ktoré sú efektívne a posilňujú ochranu životného prostredia pred, počas a po
+skončení vojnových konfliktov. Štáty majú možnosť vytvoriť určité oblasti, ktoré sú označené
+ako chránené, pokiaľ tieto majú značný ekologický alebo kultúrny význam.105 Redakčný výbor
+sa rozhodol rozdeliť návrh zásady, ktorú pôvodne navrhol osobitný spravodajca, na dve
+zodpovedajúce ustanovenia. Jedno pokrývajúce predkonfliktnú fázu a druhé zahŕňajúce fázu
+počas ozbrojeného konfliktu. Tento návrh zásady, ktorý sa týka fázy pred konfliktom stanovuje,
+že štáty by mali na základe dohody alebo iným spôsobom určiť oblasti s veľkým ekologickým
+
+Čl. 2 Návrhu zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 135.
+104
+Zásada 3 ods. 2 Návrhu zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom
+105
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 257.
+102
+103
+
+40
+
+a kultúrnym významom ako chránené zóny. Redakčný výbor sa rozhodol použiť termín
+„chránené zóny“ na rozdiel od termínu „demilitarizované zóny“, keďže tento druhý termín
+môže podliehať viacerým rôznym chápaniam. Pojem „dohoda“ môže byť vykladaný ako
+dohoda uzavretá ústne alebo písomne, ako aj uzavretá vzájomným alebo súhlasným vyhlásením.
+Zahŕňa aj jednostranné vyhlásenie štátu o chránenej zóne, vrátane vyhlásenia urobeného
+prostredníctvom medzinárodnej organizácie. Dôvodom tohto ustanovenia je ochrana oblastí
+s významným environmentálnym významom, vrátane pôvodných obyvateľov, ktorí sú závislí
+od životného prostredia.106
+So zásadou 4 úzko súvisí aj zásada 18, ktorá chráni chránené zóny už počas útokov
+a ozbrojených konfliktov. Tieto zásady vychádzajú z režimov ochrany podľa práva ozbrojených
+konfliktov, ako je ochrana nemocnice, kultúrneho majetku a bezpečnostných zón,
+neutralizovaných a demilitarizovaných zón na jednej strane a existujúcich postupov podľa
+mnohostranných zmlúv na strane druhej. Žiaľ ani návrh zásad, ani komentáre neobjasňujú, či
+príslušné zmluvy zostávajú uplatniteľné počas ozbrojených konfliktov. To vyvoláva otázku, či
+určením lokalít podľa týchto zmlúv vzniká štátom povinnosť chrániť tieto v čase ozbrojeného
+konfliktu alebo nie.107
+Zásada 5 nadväzuje na Dohovor o domorodých a kmeňových národoch v nezávislých
+krajinách z roku 1969 a na Deklaráciu OSN o právach pôvodného obyvateľstva z roku 2007.
+Z týchto dokumentov vyplýva povinnosť štátov spolupracovať a prijať vhodné opatrenia
+v prípade, ak vojnový konflikt ovplyvňuje alebo zasahuje do práv domorodých národov.108
+Zásada 6 upravuje problémy v prípade pobytu ozbrojených síl a ich vplyv na životné
+prostredia. V súvislosti s touto zásadou uzatvárajú štáty medzinárodné zmluvy, ako je napr.
+Dohoda medzi Spojenými štátmi americkými a Irackou republikou o stiahnutí amerických
+ozbrojených síl z Iraku a o organizácii aktivít počas ich dočasného pôsobenia v Iraku z roku
+2008.109 Je formulovaná ako odporúčanie určené štátom, aby do takýchto dohôd zahrnuli
+106
+
+PANTAZOPOULOS, S.-E. The environment in armed conflicts: draft principles. Environmental policy and
+law, 2016, p. 3.
+107
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 137.
+108
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 257.
+109
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 257.
+41
+
+ustanovenia o životnom prostredí. Ako sa uvádza v komentári, účelom tejto zásady je zohľadniť
+nedávny vývoj, v rámci ktorého štáty a medzinárodné organizácie začali riešiť otázky týkajúce
+sa ochrany životného prostredia v dohodách o prítomnosti vojenských síl uzavretých s
+hostiteľskými štátmi.110
+Ďalšie zásady upravujú tzv. „ekologické stopy“, ktoré vzniknú v súvislosti s mierovými
+operáciami,
+
+problémy
+
+a dôsledky
+
+vysídlenia
+
+osôb
+
+počas
+
+ozbrojeného
+
+konfliktu,
+
+medzinárodnoprávnu zodpovednosť štátov kvôli protiprávnemu správaniu. Zásada 7 sa
+vzťahuje na záväzné povinnosti štátov a medzinárodných organizácií pri účasti na mierových
+operáciách s cieľom obmedziť ich vplyv na životné prostredie. Zásada 7 má široký rozsah
+pôsobnosti, ktorý zahŕňa všetky typy mierových operácií, nie nevyhnutne len na vojenské sily,
+ako je to v prípade zásady 6.111
+Zásada 8 o vysídlení ľudí je významným príkladom ustanovenia, ktoré odráža širšie
+chápanie ozbrojených konfliktov a životného prostredia. Toto ustanovenie žiada štáty,
+medzinárodné organizácie a iné príslušné subjekty, aby prijali vhodné opatrenia na
+predchádzanie a zmierňovanie environmentálnych škôd v oblastiach, v ktorých sa nachádzajú
+osoby vysídlené v dôsledku ozbrojeného konfliktu a zároveň, aby týmto osobám a miestnym
+komunitám poskytli pomoc a podporu.112
+Zásada 9 stanovuje základné pravidlo, že štáty sú zodpovedné za medzinárodné
+protiprávne činy, spôsobujúce škody na životnom prostredí v súlade s článkami Zodpovednosti
+štátov za medzinárodne protiprávne činy.113 Každé konanie spôsobuje medzinárodnú
+zodpovednosť štátov s povinnosťou nahradiť spôsobenú škodu na životnom prostredí.
+Protiprávne konanie musí spĺňať dve podmienky, ktorými sú porušenie medzinárodného práva
+ľudských práv a porušenie hmotného medzinárodného práva životného prostredia a iných
+
+110
+
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 138.
+111
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 138.
+112
+LEHTO, M. Armed conflicts and the environment: The International Law Commission’s new draft principles.
+Review of European, Comparative & International Environmental Law, 2020, p.73.
+113
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 138.
+42
+
+pravidiel v čase vojny, ktoré súvisia s ochranou životného prostredia. Druhou podmienkou je
+porušenie zásady zákazu použitia sily alebo hrozby silou.114
+Zásady 10 a 11 obsahujú pravidlá o náležitej starostlivosti a zodpovednosti zo strany
+obchodných spoločností. Ide o posilnenie mechanizmov ochrany životného prostredia v
+konfliktných a postkonfliktných situáciách, ktoré sa týkajú podnikových subjektov, keďže
+spoločenská zodpovednosť podnikov zohráva dôležitú úlohu pri posilňovaní ochrany životného
+prostredia. Činnosti podnikov môžu mať významný vplyv na životné prostredie, napríklad v
+súvislosti s nezákonným využívaním prírodných zdrojov.115
+V tretej časti sú zakotvené také zásady, konkrétne 12 až 19, ktoré sú používateľné len
+počas ozbrojeného konfliktu. Zásada 12 obsahuje tzv. Martensovú klauzulu, ktorá sa požíva
+všeobecne v oblasti medzinárodného práva ozbrojených konfliktov. Hlavnou úlohou tejto
+klauzuly je vyplnenie možných medzier v právnom prostredí. 116 Martensova klauzula sa stala
+súčasťou práva ozbrojeného konfliktu od jej prvého objavenia sa v preambule Haagskeho
+dohovoru (II) z roku 1899, pokiaľ ide o zákony a zvyklosti pozemnej vojny: „Kým nebude
+vydaný úplnejší kódex vojnového práva, všetky zmluvné strany považujú za správne vyhlásiť, že
+v prípadoch, ktoré nie sú zahrnuté v nimi prijatých predpisoch, obyvateľstvo a bojujúce strany
+zostávajú pod ochranou a vládou zásad medzinárodného práva, ako vyplýva zo zvyklostí
+zavedených medzi civilizovanými národmi, zo zákonov ľudskosti a z požiadaviek verejného
+svedomia.“117
+Martensova klauzula je dôležitá, pretože prostredníctvom odkazu na zvykové právo,
+zdôrazňuje dôležitosť zvykových noriem v ozbrojených konfliktov. Okrem toho odkazuje na
+„zásady ľudskosti“ a „požiadavky verejného svedomia“. Je dôležité pochopiť význam týchto
+pojmov.118 Všeobecne sa uznáva, že táto doložka znamená prinajmenšom to, že prijatie zmluvy
+upravujúcej konkrétne aspekty vojnového práva nezbavuje dotknuté osoby ochrany tých noriem
+
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 258.
+115
+SJOSTEDT, B; DIENELT, A. Enhancing the Protection of the Environment in Relation to Armed ConflictsThe Draft Principles of the International Law Commission and beyond. Goettingen J. Int'l L., 2020, p. 18.
+116
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 260.
+117
+TICEHURST, R. The Martens Clause and the laws of armed conflict. International Review of the Red Cross
+(1961-1997), 1997, p. 125.
+118
+Tamže. s. 129.
+114
+
+43
+
+obyčajového humanitárneho práva, ktoré neboli zahrnuté do kodifikácie. Doložka teda chráni
+obyčajové právo a podporuje argument, že čo nie je zakázané zmluvou, nemusí byť nevyhnutne
+zákonné. Vzťahuje sa na všetky časti medzinárodného humanitárneho práva, nielen na vojnovú
+okupáciu.119
+Podľa nášho názoru Martensova klauzula má veľmi dôležitý význam v medzinárodnom
+práve, nakoľko dopĺňa medzery, ktoré nie sú výslovne upravené. Uplatňovanie tejto doložky na
+ochranu životného prostredia je jasným príkladom progresívneho vývoja, ktorý skutočne
+posilňuje ochranu životného prostredia v situáciách ozbrojeného konfliktu.
+Zásada 13 pod názvom „Všeobecná ochrana životného prostredia počas ozbrojeného
+konfliktu“ obsahuje 3 odseky. Odsek jeden upravuje ochranu životného prostredia vo
+všeobecnosti. Zásada 13 ods. 2 formuluje povinnosť bojujúcich strán chrániť prírodné prostredie
+pred rozsiahlymi, dlhodobými a vážnymi škodami. Táto zásada je v niektorých aspektoch
+progresívna a zároveň konzervatívna. Progresívna je preto, lebo povyšuje zmluvné pravidlo
+uplatniteľné výlučne na medzinárodné ozbrojené konflikty na všeobecné pravidlo, ktoré sa
+uplatňuje bez ohľadu na druh ozbrojeného konfliktu alebo spôsobilosť bojujúcich strán.
+Existencia tohto ustanovenia znamená uznanie zmluvného pravidla ako obyčajového práva. Je
+však tiež konzervatívna, pretože zachováva limit stanovený v článku 55 ods. 3 Dodatkového
+protokolu I, podľa ktorého na žiadnu časť prírodného prostredia nemožno zaútočiť, pokiaľ nie
+je vojenským cieľom.120
+Zásady 14, 15, 16 obsahujú používanie zásad ako zásada rozlišovania, zásada
+proporcionality, zásada vojenskej nevyhnutnosti a preventívnych opatrení pri útoku, zákaz
+útokov represiou a zákaz drancovaniu prírodných zdrojov.121 Zásada 17 obsahuje povinnosť
+štátov nezapájať sa do vojenských alebo akýchkoľvek techník modifikácie životného prostredia,
+ktoré majú rozsiahle, dlhodobé alebo závažné účinky ako prostriedok na zničenie, poškodenie
+alebo zranenie iného štátu.122
+
+119
+
+MERO, T. The Martens Clause, principles of humanity, and dictates of public conscience. American Journal of
+International Law, 2000, p. 87.
+120
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 145-146.
+121
+Zásady 14,15,16 Návrhu zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom
+122
+Zásada 17 Návrhu zásad o ochrane životného prostredia vo vzťahu k ozbrojeným konfliktom
+44
+
+Zásady od 19 až 21 sú uplatniteľné v situáciách počas okupácie. V komentári sa
+objasňuje, že zaradenie samostatnej časti o okupácii sa v žiadnom prípade nesnaží odchýliť od
+časového prístupu, ktorý sa v štúdii uplatňuje. Namiesto toho sa snaží ponúknuť praktické
+riešenie zodpovedajúce veľkej rozmanitosti okolností, ktorými možno kvalifikovať situáciu
+okupácie, pričom niektoré sa podobajú mierovým podmienkam a iné sa vyznačujú aktívnym
+nepriateľským bojom. Postavenie okupantov sa zrejme odlišuje od postavenia ostatných
+bojujúcich strán v tom, že okupujúce mocnosti preberajú osobitnú zodpovednosť.123
+Piata časť obsahuje šesť zásad uplatniteľných po ozbrojenom konflikte. Zaoberajú sa
+environmentálnymi škodami súvisiacimi s ozbrojeným konfliktom a postupmi obnovy a
+nápravy takýchto škôd. Okrem toho sú vo veľkej miere založené na povinnosti spolupracovať v
+súvislosti s nápravou environmentálnych škôd v dôsledku ozbrojených konfliktov. Cieľom
+zásad je umožniť zapojenie a spoluprácu so štátmi a medzinárodnými organizáciami, ktoré
+môžu pomôcť pri prevencii, náprave alebo obnove environmentálnych škôd124, poskytovanie
+relevantných informácii navzájom, prijatie primeraných opatrení a kompenzáciu.125
+Význam daného dokumentu spočíva predovšetkým v tom, že kodifikuje záväzné
+obyčajové medzinárodné právo. To znamená, že časť ustanovení v ňom obsiahnutých je záväzná
+pre všetky štáty bez ohľadu na to, či daný dokument ratifikovali alebo prijali. Až v prípade, že
+by Valné zhromaždenie OSN na základe svojej aktivity iniciovalo a následne aj uzatvorilo
+medzinárodný dohovor, nadobudol by obsah Návrhu záväzný charakter. Valné zhromaždenie
+na základe odporúčania Komisie vzalo Návrh princípov na vedomie, pripojilo ho k rezolúcii
+A/RES/77/104 a odporučilo štátom, medzinárodným organizáciám a relevantným subjektom,
+aby to uplatňovali. Hoci závery Komisie nie sú záväzné, vďaka jej autorite a vplyvu, ich štáty a
+medzinárodné inštitúcie často využívajú. Komisia slúži ako dôležitý zdroj pre medzinárodné
+súdne spory a Medzinárodný súdny dvor jej výstupom priznáva váhu porovnateľnú s
+obyčajovým právom. Ako príklad môžeme uviesť prípad, kedy Medzinárodnárody súdny dvor
+
+123
+
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 148.
+124
+DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation to Armed Conflict: An
+Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp. L. Rev., 2021, p. 151.
+125
+JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo Európskej únie a právny
+poriadok Slovenskej republiky. Praha: Leges, 2021, s. 260.
+45
+
+v poradnom stanovisku z 8. júla 1996 „Zákonnosť hrozby alebo použitia jadrových zbraní“
+vykladal obyčajové zásady ako zásada vojenskej nevyhnutnosti a zásada proporcionality.126127
+V Návrhu zásad v princípe 13 použijú formuláciu so spojkou „a“, v tomto prípade by
+sme vymenili na spojku „alebo“ , ako v princípe 17. Tým by sa stanovila alternatívna
+podmienka namiesto kumulatívnej. To znamená, že na porušenie ustanovení by stačilo splniť
+aspoň jednu z podmienok, čo je z pohľadu ochrany životného prostredia priaznivejšia. V tomto
+prípade ide a podmienky: rozsiahle, dlhodobé a vážne poškodenie životného prostredia.
+Ďalej navrhujeme vytvoriť zjednotený, definitívny výklad pojmov „rozsiahle, dlhodobé,
+vážne“, aby odlišné definície nebránili efektívnu aplikáciu spomenutých podmienok. Výklad z
+Reportu Valného Zhromaždenia z Konferencii Výboru pre ozbrojenia k ENMOND je
+priaznivejší ako výklad Medzinárodného výboru Červeného kríža k Protokolu I. Odlišnosť
+spočíva vo výklade pojmu „dlhodobé“. Pojem „dlhodobé“ v Reporte valného zhromaždenia je
+vykladané ako obdobie „niekoľko mesiacov“, ale Medzinárodným výborom Červeného kríža
+ako obdobie „minimálne 10 rokov“. Podľa nášho názoru formulácia podľa Reportu Valného
+zhromaždenia je priaznivejšia, z tohto dôvodu by sme navrhli doplneniu výklad pojmov, ktoré
+znie: „rozsiahle“ sa vzťahoval na geografickú oblasť s rozlohou niekoľko stoviek kilometrov
+štvorcových, „dlhodobé“ vyžadoval, aby účinok trval niekoľko mesiacov a „závažný“
+znamenal vážne alebo významné narušenie alebo poškodenie ľudského zdravia a života,
+prírodných a hospodárskych zdrojov alebo iných aktív.
+Náš posledný návrh sa týka záväznosti zásad tohto Návrhu. Odporúčali by sme vydať
+vo forme Dohovoru z dôvodu aby aj zásady, ktoré nemajú obyčajový charakter nadobudli
+záväzný charakter.
+
+126
+
+BENVENUTI, P. The ICTY prosecutor and the review of the NATO bombing campaign against the Federal
+Republic of Yugoslavia. European Journal of International Law, 2001, p. 509.
+127
+UNITED NATIONS. Summaries of judgments advisory opinions and orders of the international court of
+justice.. United Nations Publications, LEGALITY OF THE THREAT OR IJSE OF NUCLEAR WEAPONS
+Advisory Opinion of 8 July 1996, p. 96, 99,102.
+46
+
+3
+
+Zodpovednosť za porušenie medzinárodného práva životného prostredia
+počas ozbrojeného konfliktu
+
+3.1 Medzinárodnoprávna úprava zodpovednosti štátov podľa Návrhu
+článkov o zodpovednosti štátov za medzinárodné protiprávne konanie
+Návrh článkov o zodpovednosti štátov za medzinárodné protiprávne konanie z roku 2001
+(ďalej len „Návrh“) predstavuje komplexný súbor pravidiel upravujúcich všeobecné
+ustanovenia o zodpovednosti štátov za porušenie medzinárodnoprávnych povinností. Má 59
+článkov, ktoré sú rozdelené do štyroch častí. Článok 1 až 27 Návrhu sa venuje medzinárodnému
+protiprávnemu činu štátu. Táto časť je rozdelená do piatich kapitol, ktoré sú: všeobecné zásady,
+priznanie zodpovednosti za konania štátu, porušenie medzinárodného záväzku, zodpovednosť
+štátu v súvislosti s konaním iného štátu, okolnosti vylučujúce protiprávnosť. Článok 28 až 41
+Návrhu sa zaoberá obsahom medzinárodnej zodpovednosti štátu. Táto časť je rozdelená do troch
+kapitol, ktoré sú: všeobecné zásady, náhrada škody za ujmy, závažné porušenia záväzkov podľa
+imperatívnych noriem všeobecného medzinárodného práva. Článok 42 až 54 Návrhu upravuje
+uplatňovanie medzinárodnej zodpovednosti štátu. Táto časť je rozdelená do dvoch kapitol,
+ktorými sú: odvolanie sa na zodpovednosť štátu a protiopatrenia. Štvrtá časť, články 55 až 59,
+obsahuje päť záverečných ustanovení.128
+Článok 1 Návrhu ustanovuje fundamentálnu, základnú zásadu medzinárodného práva,
+ktorá znie: “Každý medzinárodný protiprávny čin štátu má za následok medzinárodnú
+zodpovednosť tohto štátu.” Článok 2 stanovuje požadované prvky pre vznik medzinárodného
+protiprávneho činu. Ide o konanie, ktoré možno pripísať štátu, a ktoré sú v rozpore s jeho
+medzinárodnými záväzkami. Bežne sa používajú pojmy subjektívny prvok a objektívny prvok
+na opis základných prvkov protiprávneho správania štátu. Napriek tomu sa Návrh tejto
+terminológii vyhýba.129 Subjektívny prvok spočíva v tom, že toto správanie je pripočítateľné na
+
+128
+
+CRAWFORD, J. Articles on responsibility of states for internationally wrongful acts. United Nations
+Audiovisual Library of International Law, 2012. p. 2-5.
+129
+INTERNATIONAL LAW COMMISSION, et al. Draft articles on Responsibility of States for Internationally
+Wrongful Acts, with commentaries, 2001. United Nations, 2008. s. 34, Art. 2 Elements of an internationally
+wrongful act of a State (3).
+47
+
+vrub štátu. Objektívny prvok spočíva v tom, že štát týmto správaním koná proti svojim
+medzinárodným záväzkom.130
+V kontexte správania pričítateľného štátu je kľúčové zdôrazniť ustanovenie článku 4,
+ktoré definuje správanie pričítateľné štátu na medzinárodnej úrovni. Toto správanie zahŕňa
+konanie jeho vládnych orgánov, ako aj konanie iných osôb, ktoré konali na základe, pod
+vedením, z podnetu alebo pod kontrolou týchto orgánov, čím de facto zastupovali štát.131 Článok
+9 upravuje výnimočnú situáciu, kedy sa správanie osoby alebo skupiny osôb pri výkone prvkov
+štátnej moci posudzuje ako správanie štátu, aj keď tieto osoby nekonali v mene úradných
+orgánov a nemali na to faktické oprávnenie. Výnimočnosť tejto situácie je zdôraznená slovným
+spojením „za okolností, ktoré si to vyžadujú”. Takéto okolnosti nastávajú len zriedkavo, a to
+napríklad v čase revolúcie, ozbrojeného konfliktu alebo zahraničnej okupácie.132
+Napriek ozbrojenej vojne stále platí zodpovednosť štátu. Zodpovednosť štátu vyplynie
+z nedodržania článku 2 ods. 4 Charty OSN, ktorý zakazuje hrozbu silou alebo použitie sily.
+Nezdržanie sa hrozby alebo použitia útokov v rozpore s týmto ustanovením bude mať za
+následok medzinárodnoprávnu zodpovednosť štátu. Činy, ktoré predstavujú „vedenie
+agresívnej vojny“, vedú nielen k zodpovednosti štátu, ale aj k individuálnej trestnej
+zodpovednosti za „zločiny proti mieru“. Zločiny proti mieru, rovnako ako porušenia jus cogens,
+majú univerzálnu jurisdikciu.133
+
+3.2 Medzinárodnoprávna
+
+úprava
+
+zodpovednosti
+
+jednotlivca
+
+podľa
+
+Rímskeho štatútu Medzinárodného trestného súdu
+Medzinárodné právo subsumuje environmentálne zločiny pod kategóriu vojnových
+zločinov. Podľa článku 8 Rímskeho štatútu disponuje Medzinárodný trestný súd jurisdikciou v
+POŠIVÁKOVÁ, Ľ. Zodpovednosť štátov v medzinárodnom práve, STUDIA IURIDICA Cassoviensia, ročník
+3.2015, číslo 1, ISSN 1339-3995, s. 107.
+131
+INTERNATIONAL LAW COMMISSION, et al. Draft articles on Responsibility of States for Internationally
+Wrongful Acts, with commentaries, 2001. United Nations, 2008, Chapter II., ATTRIBUTION OF CONDUCT TO
+A STATE, (2), p. 38.
+132
+INTERNATIONAL LAW COMMISSION, et al. Draft articles on Responsibility of States for Internationally
+Wrongful Acts, with commentaries, 2001. United Nations, 2008, Art. 9. Conduct carried out in the absence
+or default of the official authorities, (1), p. 49.
+133
+PARSONS, R. J. The fight to save the planet: US Armed Forces, Greenkeeping, and enforcement of the law
+pertaining to environmental protection during armed conflict. 1996. PhD Thesis. Monterey, California. Naval
+Postgraduate School. p. 59-60
+130
+
+48
+
+otázke vojnových zločinov, vrátane tých, ktoré sú definované Ženevskými dohovormi z 12.
+augusta 1949 a ich Dodatkovými protokolmi z roku 1977. Normy priamo zamerané na ochranu
+životného prostredia v čase medzinárodných ozbrojených konfliktov sú obsiahnuté v Protokole
+I k Ženevským dohovorom, a to konkrétne v článkoch 35 a 55.134 Ustanovenia obsahuje aj
+Štokholmská deklarácia, ktorá zadefinovala všeobecnú zásadu, ktorá môže mať vplyv na
+uplatniteľnosť medzinárodného obyčajového práva životného prostredia počas ozbrojeného
+konfliktu. Táto zásada ukladá štátom povinnosť dbať na to, aby aktivity prebiehajúce v rámci
+ich jurisdikcie alebo kontroly nemali za následok poškodzovanie životného prostredia iných
+štátov alebo oblastí ležiacich za hranicami národnej jurisdikcie.135 Medzi relevantné
+medzinárodné dokumenty patria aj: Deklarácia z Ria v zásade 24, Svetová charta ochrany
+prírody v zásade 5, ENMOD, ktorý výslovne zakazuje nepriateľské využívanie životného
+prostredia ako prostriedku vedenia vojny a.136
+V článku 8 ods. 2 písm. b) bode iv) Rímskeho štatútu sa výslovne zakazuje poškodzovanie
+životného prostredia. Podľa neho vojnové zločiny znamenajú „úmyselné začatie útoku s
+vedomím, že takýto útok spôsobí náhodné straty na životoch alebo zranenia civilistov alebo
+škody na civilných objektoch alebo rozsiahle, dlhodobé a vážne poškodenie prírodného
+prostredia, ktoré by bolo zjavne nadmerné vo vzťahu ku konkrétnemu a priamou celkovou
+očakávanou vojenskou výhodou“. Článok 8 ods. 2 písm. b) bod iv) sa vzťahuje len na
+medzinárodné ozbrojené konflikty. Okrem rozsiahleho, dlhodobého a závažného poškodenia
+životného prostredia sa v tomto kontexte vyžaduje aj preukázanie úmyslu a vedomosti, že daný
+útok spôsobí takéto poškodenie, ako aj to, že toto poškodenie bude zjavne neprimerané vo
+vzťahu k priamo očakávanej celkovej vojenskej výhode. To je dôvod, prečo sa medzinárodné
+
+134
+
+GOLOVKO, L. International Legal Mechanisms for Holding the Russian Federation Accountable for Causing
+Environmental Damage as a Result of Armed Aggression against Ukraine. Bratislava Law Review, 7(1), 2023, p.
+30.
+135
+BOTHE, M., et al. International law protecting the environment during armed conflict: gaps and opportunities.
+International Review of the Red Cross, 2010, p. 584.
+136
+PARSONS, R. J. The fight to save the planet: US Armed Forces, Greenkeeping, and enforcement of the law
+pertaining to environmental protection during armed conflict. 1996. PhD Thesis. Monterey, California. Naval
+Postgraduate School. p. 60-63.
+49
+
+tribunály zdráhajú uznať spáchanie medzinárodného trestného činu proti životnému
+prostrediu.137
+Na vyvodenie zodpovednosti je nevyhnutné splnenie nasledovných kumulatívnych
+podmienok: Musí ísť o právne vynútiteľnú povinnosť. To znamená, že musí byť zakotvená v
+právne záväznom dokumente, ktorým sú strany viazané, ako napríklad zmluva alebo
+medzinárodný dohovor. Alternatívne môže byť súčasťou obyčajového práva, ktoré je tvorené
+ustálenou praxou a judikatúrou. Pre splnenie podmienok medzinárodného trestného činu proti
+životnému prostrediu je nutné, aby konanie páchateľa spĺňalo nasledovné kritériá: Páchateľ
+musí konať s úmyslom a spôsobiť rozsiahle, dlhodobé a vážne poškodenie životného prostredia,
+ktoré musí naplniť kumulatívne.138 To znamená, že musí mať vedomosť o potenciálnych
+následkoch svojho konania a napriek tomu ho uskutočniť. Páchateľ musí pred vykonaním útoku
+vedieť, že jeho konanie s vysokou mierou pravdepodobnosti spôsobí straty na životoch alebo
+rozsiahle, dlhodobé a vážne poškodenie životného prostredia. Poškodenie životného prostredia,
+ktoré je dôsledkom konania páchateľa, musí byť zjavne neprimerané v porovnaní s priamo
+očakávanou celkovou vojenskou výhodou. To znamená, že škody na životnom prostredí musia
+byť natoľko závažné, že ich nemožno ospravedlniť žiadnym vojenským cieľom.139 Výklad
+pojmu „rozsiahla, dlhodobá a vážna škoda“ zostáva nejasný. Medzinárodná judikatúra zatiaľ
+nedefinovala presný význam týchto pojmov. Orientačným bodom môže byť ENMOD. V tomto
+dokumente sa pojem „rozsiahle“ chápe ako poškodenie územia s rozlohou niekoľko sto
+kilometrov štvorcových, termín „dlhodobé“ ako poškodenie trvajúce dlhšie ako niekoľko
+mesiacov alebo jedno ročné obdobie a výraz „vážne“ ako poškodenie spôsobujúce značný
+rozvrat alebo ujmu ľudskému životu, prírode alebo hospodárskym zdrojom.140
+
+137
+
+GOLOVKO, L. International Legal Mechanisms for Holding the Russian Federation Accountable for Causing
+Environmental Damage as a Result of Armed Aggression against Ukraine. Bratislava Law Review, 7(1), 2023, p.
+31.
+138
+MAREČEK, L. Ochrana environmentálnych noriem prostriedkami medzinárodného trestného práva.
+Bratislavské právnické fórum 2023 : právny štát v medzinárodnom práve a medzinárodné právo v právnom štáte /
+Ondrej Ružička, Veronika Ťažká (zost.). Bratislava : Právnická fakulta Univerzity Komenského v Bratislave, 2023.
+s. 28.
+139
+Článok 8 ods. 2 písm. b) bod iv) Rímskeho štatútu Medzinárodného trestného súdu
+140
+MAREČEK, L. Ochrana environmentálnych noriem prostriedkami medzinárodného trestného práva.
+Bratislavské právnické fórum 2023 : právny štát v medzinárodnom práve a medzinárodné právo v právnom štáte /
+Ondrej Ružička, Veronika Ťažká (zost.). Bratislava : Právnická fakulta Univerzity Komenského v Bratislave, 2023.
+s. 27
+50
+
+Ochrana životného prostredia v kontexte ozbrojených konfliktov môže čeliť viacerým
+prekážkam. Existuje kritika, že súčasný súbor medzinárodnoprávnych noriem zameraných
+ochranu životného prostredia v tejto oblasti je neuspokojivý. Zmluvné právo141 a obyčajové
+pravidlá sa javia ako buď príliš vágne, alebo príliš reštriktívne, čím obmedzujú úroveň ochrany
+životného prostredia. Osobitná úprava v Protokole I k Ženevským dohovorom, ktorá sa snaží
+stanoviť hranicu neprípustného poškodenia životného prostredia, sa zdá byť v praxi neúčinná.
+Ďalšie normy medzinárodného humanitárneho práva, ktoré by potenciálne mohli poskytovať
+nepriamu ochranu životného prostredia (napr. pravidlá ochrany majetku nepriateľa), sú
+podriadené doktríne vojenskej nevyhnutnosti. Táto doktrína sa vyznačuje vysokou mierou
+subjektivity pri posudzovaní miery poškodenia životného prostredia, čím znižuje jej praktickú
+užitočnosť v tejto oblasti.142
+Rímsky štatút Medzinárodného trestného súdu síce obsahuje ustanovenia týkajúce sa
+ozbrojených konfliktov medzinárodného charakteru, avšak neobsahuje obdobné ustanovenia
+týkajúce sa ozbrojených konfliktov nemajúcich medzinárodný charakter. Aj keď Rímsky štatút
+neobsahuje priame ustanovenia o ochrane životného prostredia v kontexte nemedzinárodných
+ozbrojených konfliktov, existujú ustanovenia, ktoré ponúkajú ochranu civilného obyvateľstva a
+objektov, napríklad drancovanie civilného majetku podľa čl. 8 ods. 2 písm. e) bod v) Rímskeho
+štatútu alebo zničenie majetku nepriateľa, ak takéto zničenie alebo zabratie naliehavo
+nevyžadujú potreby konfliktu podľa čl. 8 ods. 2 písm. e) bod xii) Rímskeho štatútu.143 V
+kontexte ochrany životného prostredia tieto články sú relevantné z dôvodu, že Rímsky štatút
+Medzinárodného trestného súdu v čl. 8 ods. 2 pís. b) bode iv) neposkytuje ochranu životnému
+prostrediu počas ozbrojených konfliktov nemajúcich medzinárodný charakter. V takýchto
+prípadoch by teoreticky bolo možné aplikovať čl. 8 ods. 2 písm. e) bod xii) a čl. 8 ods. 2 písm.
+e) bod v).
+
+V tomto kontexte, zmluvné právo chápané, ako právo vyplývajúce z medzinárodných zmlúv a dohovor podľa
+čl. 2 bodu 1 písm. a Viedenského dohovoru o zmluvnom práve, kde zmluva je definovaná ako: „medzinárodná
+dohoda uzavretá medzi štátmi písomnou formou, spravujúca sa medzinárodným právom, spísaná v jedinej alebo
+vo dvoch alebo viacerých súvisiacich listinách, nech je jej názov akýkoľvek”
+142
+CUSATO, E. Overcoming the “Logic of Exception”: A Critique of the UN Security Council’s Response to
+Environmental Damage from the 1990–91 Gulf War. Asian Journal of International Law, 2019, p. 3.
+143
+MAREČEK, L. Ochrana environmentálnych noriem prostriedkami medzinárodného trestného práva.
+Bratislavské právnické fórum 2023 : právny štát v medzinárodnom práve a medzinárodné právo v právnom štáte /
+Ondrej Ružička, Veronika Ťažká (zost.). Bratislava : Právnická fakulta Univerzity Komenského v Bratislave, 2023.
+s. 24
+141
+
+51
+
+Ako riešenie navrhujeme formuláciu v čl. 8 ods. 2 pís. b) rozšíriť aj na ozbrojený konflikt, ktorý
+nemá medzinárodný charakter.
+
+3.3 Povinnosť kompenzácie
+Povinnosť kompenzácie za medzinárodne protiprávne konanie štátu je zakotvená v článku
+30 Návrhu. Tento článok sa zaoberá dvoma samostatnými, ale vzájomne súvisiacimi otázkami,
+ktoré vyplývajú z porušenia medzinárodného záväzku: Zastavenie protiprávneho konania a
+poskytnutie záruk a garancií neopakovania. Zastavenie je akoby negatívnym aspektom
+budúceho plnenia, ktorý sa týka zabránenia pokračujúcemu protiprávnemu konaniu, zatiaľ čo
+uistenia a záruky plnia preventívnu funkciu a možno ich označiť za pozitívne posilnenie
+budúceho plnenia. Článok 30 písm. a) sa zaoberá povinnosťou štátu zodpovedného za
+medzinárodne protiprávny čin ukončiť protiprávne konanie. V súlade s článkom 2 sa slovo
+„čin“ vzťahuje na konanie aj opomenutie. Ukončenie sa teda týka všetkých protiprávnych
+činov, ktoré sa rozširujú v čase „bez ohľadu na to, či je konanie štátu konaním alebo
+opomenutím“. Článok 30 písm. b) sa zaoberá povinnosťou zodpovedného štátu poskytnúť
+primerané zabezpečenia a záruky, že sa situácia nebude opakovať, ak si to okolnosti
+vyžadujú.144 Článok 31 stanovuje, že zodpovedný štát je povinný v plnej miere nahradiť škodu
+spôsobenú medzinárodne protiprávnym činom. Podľa čl. 34 môže zabezpečiť formou reštitúcie,
+kompenzácie a satisfakcie.145
+Medzinárodné praktické skúsenosti ukazujú, že v praxi sa už vyskytli prípady
+odškodnenia za škody na životnom prostredí spôsobené počas ozbrojených konfliktov. Jedným
+z príkladov je rozhodnutie prijaté Kompenzačnou komisiou OSN, ktorá bola zriadená
+rezolúciou Bezpečnostnej rady OSN č. 687 na riešenie prípadov súvisiacich s vojnou v
+Perzskom zálive v rokoch 1990 až 1991, ktoré sa týkalo škôd na životnom prostredí v priamej
+súvislosti s inváziou irackej armády do Kuvajtu.146 Environmentálne rozhodnutia
+Kompenzačnej komisie sa zameriavajú na ochranu a obnovu environmentálnej integrity.
+Rozhodnutia komisie boli založené na zásadách predbežnej opatrnosti, spoločného záujmu,
+
+144
+
+INTERNATIONAL LAW COMMISSION, et al. Draft articles on Responsibility of States for Internationally
+Wrongful Acts, with commentaries, 2001. United Nations, 2008, Art. 30, p. 88-91.
+145
+PAPARINSKIS, M. A case against crippling compensation in international law of state responsibility. The
+Modern Law Review, 2020, 83.6: 1254.
+146
+GOLOVKO, L. International Legal Mechanisms for Holding the Russian Federation Accountable for Causing
+Environmental Damage as a Result of Armed Aggression against Ukraine. Bratislava Law Review, 7(1), 2023: 33.
+52
+
+záväzkov voči budúcim generáciám a hodnoty ekosystémov, popri dlhodobo platných zásadách
+medzinárodného práva.147
+Rezolúcia Bezpečnostnej rady č. 687, schválená podľa kapitoly VII Charty OSN na konci
+vojny v Perzskom zálive v roku 1991, požadovala od Iraku, aby odovzdal všetky zbrane
+hromadného ničenia a vytvorila Osobitnú komisiu OSN pre Irak, ktorá mala monitorovať
+dodržiavanie tejto požiadavky. Irak mal oznámiť umiestnenie a bezpodmienečne súhlasiť so
+zničením, odstránením alebo zneškodnením všetkých chemických látok pod medzinárodným
+dohľadom, biologických zbraní a balistických rakiet s doletom väčším ako 150 km.148 Právny
+základ zodpovednosti Iraku, ako už bolo spomenuté, je uvedený v rezolúcii Bezpečnostnej rady
+OSN č. 687, ktorá potvrdzuje zodpovednosť krajiny podľa medzinárodného práva za škody na
+životnom prostredí a vyčerpanie prírodných zdrojov v dôsledku irackej invázie a okupácie
+Kuvajtu.149
+Počas konania prebiehala klasifikácia žiadostí v rámci šiestich kategórií: Kategórie A, B,
+C a D pre žiadosti jednotlivcov, kategória E pre žiadosti spoločností a kategória F pre žiadosti
+vlád a medzinárodných organizácií. Environmentálne nároky spadali do kategórie F,
+podkategórie F4. Skupina zodpovedná za posudzovanie týchto nárokov zahájila svoju činnosť
+v roku 2000, takmer desať rokov po prijatí rezolúcie BR OSN č. 687. Proces preskúmania bol
+ukončený v roku 2005.150
+Zamerali sa predovšetkým na otázku: Aké druhy strát alebo ujmy by mali byť
+kompenzovateľné ako „priame environmentálne škody a vyčerpanie prírodných zdrojov“?
+Odpoveď poskytla Rada guvernérov rozhodnutím č. 7: „Znižovanie a prevencia
+environmentálnych škôd, primerané opatrenia už prijaté na vyčistenie a obnovu životného
+prostredia alebo budúce opatrenia, ktoré možno zdokumentovať ako primerane potrebné na
+vyčistenie a obnovu životného prostredia, primerané monitorovanie a posudzovanie
+
+147
+
+PAYNE, C. R. Legal liability for environmental damage: The United Nations Compensation Commission and
+the 1990–1991 Gulf War. Governance, Natural Resources, and Post-Conflict Peacebuilding, ed. C. Bruch, C.
+Muffett, and SS Nichols. London: Earthscan, 2016. p. 724.
+148
+WEDGWOOD, R. The enforcement of Security Council Resolution 687: The threat of force against Iraq’s
+weapons of mass destruction. American Journal of International Law, 1998, p. 724.
+149
+CUSATO, E. Overcoming the “Logic of Exception”: A Critique of the UN Security Council’s Response to
+Environmental Damage from the 1990–91 Gulf War. Asian Journal of International Law, 2019, p. 82.
+150
+CUSATO, E. Overcoming the “Logic of Exception”: A Critique of the UN Security Council’s Response to
+Environmental Damage from the 1990–91 Gulf War. Asian Journal of International Law, 2019, p. 83.
+53
+
+environmentálnych škôd na účely hodnotenia a odstraňovania škôd a obnovy životného
+prostredia, primerané monitorovanie verejného zdravia a vykonávanie lekárskych prehliadok,
+vyčerpanie alebo poškodenie prírodných zdrojov“.151
+Tento zoznam zahŕňa ekonomické straty, ktoré vznikli štátom pri monitorovaní,
+posudzovaní a zmierňovaní, a obnovu škôd na životnom prostredí a ich zdravotných následkov,
+ako aj straty na environmentálnych zdrojoch bez komerčnej hodnoty, tzv. čisto environmentálne
+škody. Vo svojej prvej správe Výbor F4 sa zaoberal s nárokmi za monitorovanie a hodnotenie
+účinkov vojny a priznal susedným krajinám - Saudskej Arábii, Kuvajtu, Iránu, Jordánsku a Sýrii
+243 miliónov USD. V druhej správe sa Výbor zameral na tvrdenia krajín, ktoré poskytli
+technickú pomoc a týmto krajinám, konkrétne Austrálii, Kanade, Nemecku, USA, Spojenému
+kráľovstvu a Holandsku priznal 8.4 milióna USD. V posledných troch správach sa diskutovalo
+o nárokoch na nápravu environmentálnych škôd a vyčerpania prírodných zdrojov. Výbor F4
+okrem uznania nákladov na obnovu poškodených environmentálnych zdrojov bezprecedentne
+priznal aj kompenzovateľnosť „čistej environmentálnej škody“, a tak priznal Jordánsku 160.3
+miliónov USD a Saudskej Arábii 46.1 miliónov USD.152
+V postkonfliktnom kontexte sú k dispozícii alternatívne formy odškodnenia, vrátane
+reštitúcie, kompenzácie a satisfakcie, ktoré sú v súlade s pravidlami medzinárodného práva
+akceptované väčšinou štátov. V prípade environmentálnych škôd sa môže použiť reštitúciu, ak
+strata pozostáva z územia alebo majetku, ktorý možno vrátiť do predchádzajúceho stavu.
+Zadosťučinenie je prostriedok nápravy tých škôd, ktoré predstavujú ujmu štátu. Má formu
+uznania porušenia, vyjadrenia ľútosti, formálneho ospravedlnenia alebo iného vhodného
+spôsobu ospravedlnenia. Tento spôsob je zriedka vhodný v prípade škôd na životnom prostredí
+alebo prírodných zdrojoch. Kompenzačná komisia OSN si vybrala formu finančného prevodu,
+ktorá je ďalšou formou náhrady škody, ktorá sa v stanovisku Komisie pre medzinárodné právo
+chápe tak, že má pokrývať akúkoľvek škodu, ktorú možno finančne ohodnotiť.153
+
+Tamže.
+CUSATO, E. Overcoming the “Logic of Exception”: A Critique of the UN Security Council’s Response to
+Environmental Damage from the 1990–91 Gulf War. Asian Journal of International Law, 2019, p. 84-85.
+153
+PAYNE, C. R. Legal liability for environmental damage: The United Nations Compensation Commission and
+the 1990–1991 Gulf War. Governance, Natural Resources, and Post-Conflict Peacebuilding, ed. C. Bruch, C.
+Muffett, and SS Nichols. London: Earthscan, 2016. p. 737
+151
+152
+
+54
+
+3.4 Poškodenie
+
+životného
+
+prostredia
+
+počas
+
+vojny
+
+na
+
+Ukrajine
+
+a zodpovednosť Ruskej federácie
+V súčasnosti nie je možné úplne posúdiť vplyv vojny na životné prostredie pre
+nedostatok presných informácií. Sú na to dva dôvody. Po prvé už len zhromažďovanie týchto
+údajov je pre špecialistov nebezpečné, pretože prebiehajú aktívne nepriateľské akcie. Po druhé,
+nie všetky informácie možno zverejniť z taktických dôvodov. Podľa Ministerstva životného
+prostredia a prírodných zdrojov Ukrajiny podľa predbežných odhadov agresor k 1. marcu 2022
+vedie bojové operácie na území 900 objektov fondu prírodnej rezervácie s rozlohou 12 406,6
+km2, čo je asi tretina rozlohy fondu prírodnej rezervácie Ukrajiny.154 Vojna spôsobila devastáciu
+veľkej časti ukrajinskej infraštruktúry a narušila základné služby v mnohých častiach krajiny.
+Tieto škody ovplyvnili zásobovanie energiou, vodou, potravinami, sanitárnymi a hygienickými
+zariadeniami, odpadové hospodárstvo, zdravotnú starostlivosť, vzdelávanie, bývanie, dopravu,
+poľnohospodárske a priemyselné výrobky a prístup k nim. Okrem znečistenia životného
+prostredia vrátane únikov toxických chemikálií v dôsledku poškodenia priemyselných zariadení
+existujú obavy z jadrového nebezpečenstva vzhľadom na prítomnosť päťnástich reaktorov v
+štyroch prevádzkovaných jadrových elektrárňach a viacerých rádioaktívnych zdrojov na
+rôznych miestach na Ukrajine.155
+V dôsledku nepriateľstva je v súčasnosti časť lesov v Kyjeve, Černigove, Sumach,
+Luhansku, Donecku a Chersone pod kontrolou okupantov. Škody na majetku a lesnom
+hospodárstve zatiaľ nie je možné posúdiť. V lesoch je už veľké množstvo spadnutých nábojov
+a nevybuchnutej munície. Podľa ministerstva obrany bolo počas 20 dní ruskej vojenskej invázie
+na Ukrajinu odpálených asi 900 rakiet rôznych kalibrov a typov. Počas výbuchu sú všetky látky
+úplne oxidované a produkty chemickej reakcie sa uvoľňujú do atmosféry. Tie hlavné, oxid
+
+OMELCHUK, O., SADOGRSKA, S. ., Príroda a vojna: Ako ruská vojenská invázia ovplyvňuje životné
+prostredie Ukrajiny, 1.4.2022, Dostupné na: https://ecoaction.org.ua/pryroda-ta-vijna.html
+155
+RACIOPPI, F., et al. The impact of war on the environment and health: implications for readiness, response,
+and recovery in Ukraine. The Lancet, 2022, p. 871-873.
+154
+
+55
+
+uhličitý a vodná para, nie sú síce toxické, avšak sú škodlivé v kontexte klimatických zmien,
+keďže oba sú skleníkové plyny.156
+Prebiehajúca rusko-ukrajinská vojna je najvýznamnejším konfliktom v Európe od druhej
+svetovej vojny a má viaceré geopolitické, hospodárske, infraštruktúrne a zdravotné dôsledky.
+Vojna má vážne negatívne dôsledky na ľudí a planétu. Poškodenie priemyselnej a obchodnej
+infraštruktúry môže kontaminovať vodné zdroje, čo môže byť nebezpečné pre zdravie ľudí a
+ekosystémov. Nedostatok vody a zhoršujúce sa hygienické podmienky sú už zjavné, keďže boli
+zasiahnuté dodávky vody a hygienická infraštruktúra. Príslušná infraštruktúra úzko spojená s
+otázkami životného prostredia môže byť tiež cieľom vojny. Opakovane dochádza k útokom na
+infraštruktúru fosílnych palív, elektrárne, systémy zásobovania vodou a jadrové zariadenia.
+Krajina disponuje rozvinutým intenzívnym priemyslom, vrátane chemických tovární, oceliarní
+a zbrojárskych závodov. Tieto priemyselné odvetvia predstavujú širokú škálu potenciálnych
+environmentálnych rizík.157 Kvalita ovzdušia je nepriaznivo ovplyvnená v dôsledku pohybu síl
+a neustáleho bombardovania. Pretrváva aj pravdepodobnosť úniku radiácie z jadrových
+zariadení. Fyzikálne, chemické a biologické vlastnosti pôdy boli ovplyvnené ostreľovaním a
+výbuchmi, v dôsledku čoho bolo vážne postihnuté poľnohospodárstvo. Vojenské akcie spôsobili
+rozsiahle odlesňovanie a dokonca aj lesné požiare.158
+Z hľadiska medzinárodného trestného práva zostáva životné prostredie v čase vojny
+takmer nechránené. Ničeniu prírodného prostredia na Ukrajine sa však venuje väčšia pozornosť
+ako v minulých konfliktoch. Tento záujem vyvoláva rozsiahlejšie mediálne pokrytie
+environmentálnych otázok a rastúce povedomie verejnosti o význame životného prostredia.
+Prírodné prostredie by už nemalo byť vo vojne len druhoradým záujmom.159
+Podľa autora Davida Krotta by mal vynaložiť Medzinárodný trestný súd po prvé väčšie
+úsilie na uplatňovanie článku 8 ods. 2 písm. b) bodu iv) Rímskeho štatútu ako „skutočného“
+vojnového zločinu týkajúceho sa vojny na Ukrajine. Po druhé medzinárodné spoločenstvo
+
+OMELCHUK, O., SADOGRSKA, S. ., Príroda a vojna: Ako ruská vojenská invázia ovplyvňuje životné
+prostredie Ukrajiny, 1.4.2022, Dostupné na: https://ecoaction.org.ua/pryroda-ta-vijna.html
+157
+KROTT, D. The Forgotten Victim of War: The Natural Environment in Ukraine. 2022.
+158
+RAWTANI, D., et al. Environmental damages due to war in Ukraine: A perspective. Science of The Total
+Environment, 2022, p. 1
+159
+KROTT, D. The Forgotten Victim of War: The Natural Environment in Ukraine. 2022.
+156
+
+56
+
+štátov by sa malo zaviazať akceptovať životné prostredie ako faktor v medzinárodnom trestnom
+práve v čase vojny a mieru.160
+Podľa Marečeka neposkytuje Rímsky štatút explicitnú ochranu životného prostredia v
+kontexte skutkových podstát zločinov proti ľudskosti a genocídy. Napriek tomu existuje priestor
+pre úvahu o životnom prostredí ako o sekundárnom objekte ochrany v rámci týchto skutkových
+podstát. V kontexte genocídy sa jedná o „cieľavedomé privodenie takých životných podmienok
+skupine, ktorých cieľom je spôsobiť jej úplné alebo čiastočné fyzické zničenie.“ V kontexte
+zločinov proti ľudskosti sa jedná o „vyhladzovanie”, t.j. úmyselné privodenie životných
+podmienok, medziiným zamedzenie prístupu k potravinám a liekom, s cieľom zničiť časť
+obyvateľstva. V oboch prípadoch môže ničenie životných podmienok zahŕňať rozsiahlu
+devastáciu životného prostredia, a to formou vypaľovania lesov, kontaminácia vodných zdrojov,
+znečistenia ovzdušia či vôd, dezertifikácia, atď.161
+Problémy vyskytujú aj na pôde Bezpečnostnej rady OSN. Bezpečnostná rada OSN sa
+skladá z piatich stálych členov (Ruská federácia, Spojené štáty americké, Čínska ľudová
+republika, Veľká Británia a Francúzsko) a desiatich nestálych členov. Stáli členovia majú právo
+individuálneho veta. Vzhľadom na ich zvýšenú mieru zodpovednosti za udržiavanie mieru a
+bezpečnosti na medzinárodnej úrovni nemožno od stálych členov Bezpečnostnej rady OSN
+očakávať, že prijmú záväzky, s ktorými nesúhlasia. Systém kolektívneho donútenia Organizácie
+Spojených národov je založený na predpoklade kontinuálnej spolupráce medzi víťazmi nad
+agresormi v druhej svetovej vojne. Táto spolupráca by mala viesť k spoločnému súhlasu a
+umožniť zachovanie medzinárodného mieru a bezpečnosti aj v povojnovom období, a to aj s
+použitím prostriedkov kolektívneho donútenia. Z dôvodu práva veta Ruskej federácie v
+Bezpečnostnej rade OSN je táto rada paralyzovaná v riešení problematiky ruskej invázie na
+Ukrajinu. Z nášho pohľadu existujú možnosti reformy Bezpečnostnej rady, ktoré by posilnili jej
+efektivitu v takýchto krízových situáciách. Možnosťou by bolo obmedzenie práva veta v
+prípadoch závažného porušenia medzinárodného práva, akým je aj ruská invázia na Ukrajinu.
+
+Tamže.
+MAREČEK, L. Ochrana environmentálnych noriem prostriedkami medzinárodného trestného práva.
+Bratislavské právnické fórum 2023 : právny štát v medzinárodnom práve a medzinárodné právo v právnom štáte /
+Ondrej Ružička, Veronika Ťažká (zost.). Bratislava : Právnická fakulta Univerzity Komenského v Bratislave, 2023.
+s. 29.
+160
+161
+
+57
+
+Ak niekto rozpráva o hrozivých následkov vojny, väčšinou tým myslí ľudí, budovy
+a zvieratá. Životné prostredie ako celok nebolo dostatočne dôležité pre budúcnosť, ale na druhej
+strane s ochranou životného prostredia súvisí aj čistá voda, čistý vzduch a úrodná pôda, ktoré
+sú nevyhnutné pre život ľudstva. Európsky parlament 19. januára 2023 vydal Uznesenie
+o zriadení tribunálu pre zločin agresie proti Ukrajine, v ktorom konštatuje aj to, že „útočná
+vojna je závažný zločin podľa medzinárodného práva, najmä v súvislosti s možným použitím
+všetkých druhov zbraní hromadného ničenia, ktoré majú katastrofálne následky pre svetový
+mier a živobytie ľudí, ako aj spôsobujú vážne a dlhodobé škody na životnom prostredí
+a klíme“162. Ďalej v bode 14 podporuje odporúčanie Valného zhromaždenia OSN, aby vytvorili
+Medzinárodný register škôd v spolupráci s Ukrajinou s cieľom dokumentovať vzniknuté škody
+pre účely ich budúceho nárokovania aj v súvislosti s dlhodobým, rozsiahlym a vážnym
+poškodením životného prostredia a klímy, ktoré vznikli dôsledkom nezákonného konania
+Ruskej federácie voči Ukrajine.163
+Ruská invázia na Ukrajinu je podľa medzinárodného práva nezákonná. Po prvé ruská
+invázia porušuje medzinárodné právo vo všeobecnosti, pretože porušuje článok 2 ods. 4 Charty
+OSN, v ktorom sa uvádza, že žiadny člen OSN nesmie použiť silu proti inému členovi. S
+odkazom na ľudské práva, v dôsledku ruskej invázie zahynuli tisíce ľudí počas útokov, čo je
+presvedčivým dôkazom porušenia práva na život. Z pohľadu medzinárodného humanitárneho
+práva ruské vojenské útoky sú klasifikované ako nerozlišujúce, teda nerozlišujú medzi
+civilistami a bojovníkmi, útočia na nevojenské objekty, ako aj na životne dôležité objekty, ako
+sú jadrové a ropné zariadenia, čo má za následok znečistenie a poškodenie životného
+prostredia.164
+Ruská federácia v roku 2019 odstúpila od Dodatkového protokolu I k Ženevským
+dohovorom. Od 16. septembra 2022 Ruská federácia nie je členom Rady Európy. Ruská
+federácia si chcela už vopred zabezpečiť, aby nezodpovedala za environmentálne škody
+spôsobené počas vojny. Napriek tomu, že Ruská federácia už nie je signatárom týchto dohôd,
+
+Uznesenie Európskeho parlamentu z 19. januára 2023 o zriadení tribunálu pre zločin agresie proti Ukrajine
+(2022/3017(RSP)) pís. N.
+163
+Uznesenie Európskeho parlamentu z 19. januára 2023 o zriadení tribunálu pre zločin agresie proti Ukrajine
+(2022/3017(RSP)) bod 14.
+164
+ROMDONI, R. N. M. Legal Responsibility for Environmental Damage Caused by Russian and Ukrainan Wars:
+International Humanitarian and Criminal Law Perspectives. UNIFIKASI: Jurnal Ilmu Hukum, 2023, p. 106.
+162
+
+58
+
+ešte sa na ňu vzťahuje obyčajové humanitárne a environmentálne právo, hlavne nachádzajúce
+sa v čl. 2 ods. 4 Charty OSN. Článok 2 Charty OSN stanovuje, že štáty sú povinné nevykonávať
+žiadne opatrenia, ktoré by ohrozili celistvosť a zvrchovanosť iného štátu a ich nezávislosť, ale
+naopak, aby sa snažili o urovnanie sporov mierovými prostriedkami. Okrem toho článok 2
+Charty OSN stanovuje povinnosť, aby všetci členovia zabezpečili, že všetky práva a výhody
+vyplývajúce z možného alebo pravdepodobného ohrozenia celistvosti a zvrchovanosti iného
+štátu a ich nezávislosti nebudú porušené, a aby využili prostriedky na urovnanie sporov
+mierovou cestou.165
+Program Spojených národov pre životné prostredie identifikoval tisíce prípadov
+znečistenia ovzdušia, vody a pôdy, ako aj drastické zníženie stability ekosystémov. Toto
+znečistenie je spôsobené poškodením jadrových elektrární, priemyselných lokalít, baní a
+ropných skladovacích zariadení. Prístup k presným informáciám o útokoch Ruskej federácie na
+časti Ukrajiny na prírodné prostredie je obmedzený.166 Na druhej strane Úrad generálneho
+prokurátora Ukrajiny spolu s medzinárodnými partnermi vytvoril verejnú databázu, do ktorej
+môžu občania nahlasovať vojnové zločiny a zločiny proti ľudskosti spáchané ruskou armádou
+na Ukrajine. Tieto informácie sa zhromažďujú na účely predloženia dôkazov Medzinárodnému
+trestnému súdu a prípadnému budúcemu osobitnému tribunálu po jeho zriadení s cieľom
+odsúdiť konkrétne osoby zapojené do vojnových zločinov. Prostredníctvom webovej stránky je
+možné zasielať videá a fotografie, ako aj akékoľvek iné informácie. Tú verejnú webovú stránku
+vytvorila Generálna prokuratúra s medzinárodnými partnermi, na ktorej môžu občania zverejniť
+dôkazy o poškodení – fotky, videá, texty, ktoré akokoľvek dokumentujú vojnové zločiny.
+Databáza existuje pod názvom „Prosecute #RussianWarCrimes“ na tejto webovej stránke:
+https://warcrimes.gov.ua/en/.167 Invázia na Ukrajinu porušila mnohé časti medzinárodného
+práva. Ruská armáda iniciovala diskriminačné údery na civilistov, civilné objekty a kľúčovú
+
+165
+
+ABONYI, A. U. Invasion of Ukraine by Russia: The Legal Implications. LASJURE, 2021, p. 181.
+ROMDONI, Rafi Nasrulloh Muhammad. Legal Responsibility for Environmental Damage Caused by Russian
+and Ukrainan Wars: International Humanitarian and Criminal Law Perspectives. UNIFIKASI: Jurnal Ilmu
+Hukum, 2023, p. 112.
+167
+GOLOVKO, L. International Legal Mechanisms for Holding the Russian Federation Accountable for Causing
+Environmental Damage as a Result of Armed Aggression against Ukraine. Bratislava Law Review, 7(1), 2023, p.
+35.
+166
+
+59
+
+infraštruktúru. Ruská federácia porušila medzinárodné humanitárne právo tým, že systematicky
+ničila energetickú infraštruktúru a husto obývané oblasti.168
+Podľa nášho názoru Ruská federácia nenesie zodpovednosť za náhradu škôd
+spôsobených poškodením životného prostredia. Ako príklad vyvodenia zodpovednosti
+v prípade ochrany životného prostredia počas ozbrojeného konfliktu môžeme spomenúť
+priznanie kompenzácie za poškodenie životného prostredia počas vojny v Perzskom zálive
+v roku 1991, kde Kompenzačná komisia priznala milióny USD. V tomto kontexte je relevantná
+rezolúcia Bezpečnostnej rady OSN č. 687, ktorá slúži ako základ pre vyvodenie zodpovednosti.
+Avšak v prípade Ruskej federácie je uplatnenie rezolúcie Bezpečnostnej rady OSN č. 687
+nemožné z dôvodu jej práva veta.169
+
+168
+
+ROMDONI, R. N. M. Legal Responsibility for Environmental Damage Caused by Russian and Ukrainan Wars:
+International Humanitarian and Criminal Law Perspectives. UNIFIKASI: Jurnal Ilmu Hukum, 2023,p. 112.
+169
+ROMDONI, Rafi Nasrulloh Muhammad. Legal Responsibility for Environmental Damage Caused by Russian
+and Ukrainan Wars: International Humanitarian and Criminal Law Perspectives. UNIFIKASI: Jurnal Ilmu
+Hukum, 2023, p. 114.
+60
+
+Záver
+Aktuálna medzinárodná ochrana životného prostredia počas ozbrojených konfliktov
+vykazuje značné nedostatky a nie je dostatočne efektívna. Počas takýchto konfliktov dochádza
+k systematickému a rozsiahlemu poškodzovaniu životného prostredia, čo následne vedie k
+ohrozeniu a zhoršeniu životných podmienok miestneho obyvateľstva. Je nevyhnutné, aby
+životné prostredie nebolo vnímané ako druhotný objekt ochrany v kontexte ozbrojených
+konfliktov. Základné životné potreby, ako sú čistá voda, pôda, vzduch, rastliny a živočíchy, sú
+pre prežitie ľudí nevyhnutne dôležité.
+Prvým dokumentom, ktorý upravoval ochranu životného prostredia, aj keď nie
+explicitne, bola Petrohradská deklarácia z roku 1868. Deklarácia síce priamo nedefinovala
+ochranu životného prostredia ako cieľ, ale jej pozitívnym prínosom bol zákaz používania zbraní
+spôsobujúcich zbytočné utrpenie, čím nepriamo chránila aj životné prostredie. Ochrana
+životného prostredia sa po druhej svetovej vojny mierne zvýšila.
+Začiatkom 70. rokov sa odborníci začali zaoberať ochranou životného prostredia na
+medzinárodnej úrovni a pokúsili sa napraviť nedostatky v ochrane obetí ozbrojených
+konfliktov. Valné zhromaždenie OSN v roku 1976 prijalo Dohovor o zákaze vojenského alebo
+akéhokoľvek iného nepriateľského použitia prostriedkov meniacich životné prostredie (tzv.
+ENMOD). Pozitívnou stránkou tohto Dohovoru je to, že výslovne zakazuje nepriateľské
+využívanie životného prostredia ako prostriedku vedenia vojny a je aplikovateľný aj počas
+mieru. Jednou z nevýhod je absencia definície pojmov „rozsiahle, dlhodobé a vážne škody“, ale
+na druhej strane význam týchto pojmov bol doplnený v Reporte Valného zhromaždenia OSN
+z Konferencie Výboru pre odzbrojenie (Conference of the Committee on Disarmament). V tom
+istom roku bol prijatý aj Protokol I , ktorý sa v porovnaní s ENMOD vyznačuje niekoľkými
+pozitívami - so životným prostredím sa zaoberá ako „obeťou“ a jeho úprava je precíznejšia. Na
+druhej strane jeho negatívnou stránkou je, že životné prostredie môže byť nepriamo poškodené
+v uvedených prípadoch útokmi na vojenské ciele podľa čl. 56, napríklad ak sa v atómových
+elektrárňach vyrába elektrická energia pre pravidelnú, významnú a priamu podporu vojenských
+operácií.
+
+61
+
+Haagsky dohovor na ochranu kultúrnych statkov za ozbrojeného konfliktu z roku 1954 v
+s Protokolom I a II predstavuje komplexný právny rámec pre ochranu kultúrnych statkov v čase
+ozbrojených konfliktov. Pozitívne stránky Dohovoru sa vyznačujú širokou pôsobnosťou, ktorá
+presahuje rámec ozbrojených konfliktov a zahŕňa aj mierové obdobie. Dohovor sa taktiež
+aplikuje na ozbrojené konflikty nemajúce medzinárodný charakter, čím posilňuje ochranu
+kultúrneho dedičstva. Medzi záporné stránky Dohovoru patrí aj ustanovenie o vojenskej
+nevyhnutnosti, ktoré umožňuje výnimku z ochrany kultúrnych statkov.
+Dohovor o zákaze vývoja, výroby a hromadenia zásob bakteriologických (biologických)
+a toxínových zbraní a o ich zničení zohráva dôležitú úlohu v posilňovaní ochrany pred
+biologickými zbraňami. Avšak Dohovor má aj svoje obmedzenia. Zákaz uchovávania a výroby
+sa vzťahuje len na tie zbrane, ktoré nemajú prevenčný, ochranný alebo iný mierový účel. San
+Remo Manuál o medzinárodnom práve uplatniteľnom na ozbrojené konflikty na mori rozširuje
+ochranu v námornom prostredí. Manuál sa však nezaoberá otázkou zodpovednosti štátu za
+porušenie práva a vojnového zločinu. Manuál taktiež neobsahuje kontrolné mechanizmy na
+zabezpečenie dodržiavania jeho ustanovení.
+V roku 2019 na pôde OSN prijali komplexnú úpravu na oblasti ochrany životného
+prostredia počas ozbrojeného konfliktu s názvom „Návrh zásad o ochrane životného prostredia
+vo vzťahu k ozbrojeným konfliktom“. Podľa nášho názoru upravuje komplexne ochranu
+životného prostredia počas, pred a po ozbrojenom konflikte. Význam daného dokumentu
+spočíva predovšetkým v tom, že kodifikuje záväzné obyčajové medzinárodné právo. To
+znamená, že časť ustanovení v ňom obsiahnutých je záväzná pre všetky štáty bez ohľadu na to,
+či daný dokument ratifikovali alebo prijali. Valné zhromaždenie na základe odporúčania
+Komisie vzalo Návrh zásad na vedomie, pripojilo ho k rezolúcii A/RES/77/104 a odporučilo
+štátom, medzinárodným organizáciám a relevantným subjektom, aby ho uplatňovali. Hoci
+závery Komisie nie sú záväzné, vďaka jej autorite a vplyvu ich štáty a medzinárodné inštitúcie
+často využívajú. Komisia slúži ako dôležitý zdroj pre medzinárodné súdne spory a
+Medzinárodný súdny dvor jej výstupom priznáva váhu porovnateľnú s obyčajovým právom.
+Právnu úpravu ochrany životného prostredia v duchu noriem medzinárodného práva
+životného prostredia obsahujú multilaterálne dohody a nástroje „soft law“. Zastávame názor, že
+tieto dohody dopĺňajú ochranu, ale problémy sa môžu vyskytnúť v aplikovateľnosti
+62
+
+multilaterálnych dohôd. Multilaterálne dohody riešia svoju použiteľnosť v čase ozbrojených
+konfliktov výrazne odlišne. Niektoré priamo alebo nepriamo stanovujú ich ďalšie uplatňovanie
+počas nepriateľských akcií, zatiaľ čo v iných sa výslovne uvádza, že sú automaticky
+pozastavené, ukončené alebo neuplatniteľné po skončení ozbrojeného konfliktu a niektoré o
+tejto otázke celkom mlčia. Je nutné s ľútosťou poznamenať, že značná časť zmluvných
+dokumentov, o ktorých sme sa zmienili, patrí do poslednej kategórie.
+Podľa nášho názoru, právna úprava zodpovednosti a povinnosť kompenzácie podľa
+Návrhu článkov o zodpovednosti štátov za medzinárodné protiprávne konanie z roku 2001 je
+dostatočná.
+
+Túto skutočnosť potvrdzuje aj medzinárodná prax. Bezpečnostná rada OSN
+
+rezolúciou č. 687 priznala povinnosť kompenzácie škôd spôsobených vo vojne v Perzskom
+zálive. Ruská federácia odstúpila od Dodatkového protokolu I k Ženevským dohovorom, ale
+stále na ňu dopadá obyčajové právo, ako aj čl. 2 ods. 4 Charty OSN. Z hľadiska vyvodenia
+zodpovednosti voči Ruskej federácii a kompenzácie škôd sa toto riešenie javí ako
+problematické. Pri vyvodení zodpovednosti za vojnu v Perzskom zálive z roku 1990-1991
+zohrávala kľúčovú úlohu práve rezolúcia Bezpečnostnej rady OSN č. 687. V aktuálnom
+kontexte sa ukazuje ako nereálne aplikovať podobný prístup z dôvodu individuálneho práva
+veta Ruskej federácie v Bezpečnostnej rade OSN, ktorá je týmto paralyzovaná v riešení
+problematiky ruskej invázie na Ukrajinu. Z nášho pohľadu existujú možnosti reformy
+Bezpečnostnej rady, ktoré by posilnili jej efektivitu v takýchto krízových situáciách. Možnosťou
+by bolo obmedzenie práva veta v prípadoch závažného porušenia medzinárodného práva, akým
+je aj ruská invázia na Ukrajinu. Ako ďalšie riešenie odporúčame zriadenie samostatného a
+nezávislého kompenzačného orgánu, ktorý by nepodliehal Bezpečnostnej rade OSN.
+
+63
+
+Zoznam použitej literatúry
+Doktrinálne zdroje:
+1. ABONYI, A. U. Invasion of Ukraine by Russia: The Legal Implications. LASJURE,
+2021,
+
+p.
+
+Dostupné
+
+176-183.
+
+na:
+
+<
+
+https://nigerianjournalsna.com/index.php/LASJURE/article/viewFile/2337/2280>
+2. BAXTER, R. R.; BUERGENTHAL, Thomas. Legal aspects of the Geneva Protocol of
+1925. American Journal of International Law, 1970, p. 853-879. Dostupné na: <
+https://www.jstor.org/stable/2198921>
+3. BAXTER, R. R. The Geneva Conventions of 1949. Naval War College Review, 1956,
+p. 59-83. Dostupné na: <https://www.jstor.org/stable/45117320>
+4. BENVENUTI, P. The ICTY prosecutor and the review of the NATO bombing campaign
+against the Federal Republic of Yugoslavia. European Journal of International Law,
+2001, p. 503-530. Dostupné na: < https://doi.org/10.1093/ejil/12.3.503>
+5. BOTHE, M., et al. International law protecting the environment during armed conflict:
+gaps and opportunities. International Review of the Red Cross, 2010, p. 569-592.
+Dostupné na: <https://international-review.icrc.org/sites/default/files/irrc-879-bothebruch-diamond-jensen.pdf>
+6. CRAWFORD, J. Articles on responsibility of states for internationally wrongful acts.
+United Nations Audiovisual Library of International Law, 2012. Dostupné na:
+<https://legal.un.org/avl/pdf/ha/rsiwa/rsiwa_e.pdf>
+7. CUSATO, E. Overcoming the “Logic of Exception”: A Critique of the UN Security
+Council’s Response to Environmental Damage from the 1990–91 Gulf War. Asian
+Journal
+
+of
+
+International
+
+Law,
+
+2019,
+
+p.
+
+75-97.
+
+Dostupné
+
+na:
+
+<
+
+https://www.cambridge.org/core/journals/asian-journal-of-internationallaw/article/overcoming-the-logic-of-exception-a-critique-of-the-un-security-councilsresponse-to-environmental-damage-from-the-199091-gulf
+war/618E0F7BD0F274A6546FF6E595E1ED65>
+8. DAM-DE JONG, D.; SJOSTEDT, B. Enhancing Environmental Protection in Relation
+to Armed Conflict: An Assessment of the ILC Draft Principles. Loy. LA Int'l & Comp.
+
+64
+
+L.
+
+Rev.,
+
+2021,
+
+p.
+
+129-156.
+
+Dostupné
+
+na:
+
+<
+
+https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1812&context=ilr>
+9. DOSWALD-BECK, L. San Remo Manual on international law applicable to armed
+conflict at sea. International Review of the Red Cross (1961-1997), 1995, p. 583-594.
+Dostupné
+
+na:
+
+<https://international-
+
+review.icrc.org/sites/default/files/S0020860400087246a.pdf>
+10. DOSWALD-BECK, L. The San Remo Manual on international law applicable to armed
+conflicts at sea. American Journal of International Law, 1995, p. 192-208. Dostupné na:
+<https://www.jstor.org/stable/2203907>
+11. DUDLEY, L. Until We Achieve Universal Peace: Implications of the International Law
+Commission's Draft Articles on the Effects of Armed Conflict on Treaties. Nat'l Sec. L.
+Brief,
+
+2016,
+
+p.
+
+Dostupné
+
+13-35.
+
+na:
+
+<
+
+https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1089&context=n
+slb>
+12. GOLDBLAT, J. The biological weapons convention: An overview. International Review
+of the Red Cross (1961-1997), 1997, p. 251-265. Dostupné na: < https://internationalreview.icrc.org/sites/default/files/S0020860400084679a.pdf>
+13. GOLOVKO, L. International Legal Mechanisms for Holding the Russian Federation
+Accountable for Causing Environmental Damage as a Result of Armed Aggression
+against Ukraine. Bratislava Law Review, 7(1), 2023 29–40. Dostupné na: <
+https://blr.flaw.uniba.sk/index.php/BLR/article/view/354/536>
+14. GRIFFIN, P. J.; ALI, Saleem H. Managing transboundary wetlands: The Ramsar
+Convention as a means of ecological diplomacy. Journal of Environmental Studies and
+Sciences,
+
+2014,
+
+p.
+
+1-96.
+
+Dostupné
+
+na:
+
+<
+
+https://link.springer.com/article/10.1007/s13412-014-0173-0>
+15. JABBARI-GHARABAGH, M. Type of State Responsibility for Environmental Matters
+in
+
+International
+
+Law.
+
+RJT
+
+ns,
+
+1999,
+
+p.
+
+59.
+
+Dostupné
+
+na:
+
+<https://ssl.editionsthemis.com/uploaded/revue/article/rjtvol33num1/jabbari.pdf>
+16. JANKUV, J. Enviromentalizácia medzinárodného práva verejného a jej vplyv na právo
+Európskej únie a právny poriadok Slovenskej republiky. Praha: Leges, 2021, 388 s.,
+ISBN 978-80-7502-580-7
+
+65
+
+17. KASTENBERG, J. E. The legal regime for protecting cultural property during armed
+conflict.
+
+AFL
+
+Rev.,
+
+1997,
+
+p.
+
+277-305.
+
+Dostupné
+
+na:
+
+<
+
+https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1423&context=law_facul
+tyscholarship>
+18. KIRCHNER, A. Environmental protection in time of armed conflict. European Energy
+and
+
+Environmental
+
+Law
+
+Review,
+
+2000,
+
+9.10.
+
+Dostupné
+
+na:
+
+<
+
+https://kluwerlawna.com/journalarticle/European+Energy+and+Environmental+Law+
+Review/9.10/323078>
+19. KROTT, D. The Forgotten Victim of War: The Natural Environment in Ukraine. 2022.
+Dostupné na: <https://justiceinconflict.org/2022/05/02/the-forgotten-victim-of-war-thenatural-environment-in-ukraine/#more-8917>
+20. LARSSON, M.-L. Legal definitions of the environment and of environmental
+damage. Stockholm Institute for Scandinavian Law. 1999, p. 155-176. Dostupné na:
+<https://www. scandinavianlaw. se/pdf/38-7. Pdf>
+21. LEHTO, M. Armed conflicts and the environment: The International Law Commission’s
+new draft principles. Review of European, Comparative & International Environmental
+Law,
+
+2020,
+
+29.1:
+
+67-75.
+
+Dostupné
+
+na:
+
+<
+
+https://nalibrary.wiley.com/doi/full/10.1111/reel.12324?casa_token=kTf2zSaXMfYA
+AAAA%3AhE7XLT6ylsPeWUawNttAJiSmNvIEY0UViE5XSWtrkcAuR0UVNpEf4
+Ypd4De5zy5pTgSsW4wFdjWBssit>
+22. MAREČEK, L. Ochrana environmentálnych noriem prostriedkami medzinárodného
+trestného práva. Bratislavské právnické fórum 2023 : právny štát v medzinárodnom
+práve a medzinárodné právo v právnom štáte / Ondrej Ružička, Veronika Ťažká (zost.).
+Bratislava : Právnická fakulta Univerzity Komenského v Bratislave, 2023. 132 s., ISBN
+978-80-7160-700-7
+
+Dostupné
+
+na:
+
+<https://www.flaw.uniba.sk/fileadmin/praf/Veda/Konferencie_a_podujatia/BPF/2023/
+BPF_2023_medzinarodne_pravo.pdf>
+23. MERO, Theodor. The Martens Clause, principles of humanity, and dictates of public
+conscience. American Journal of International Law, 2000, p. 78-89. Dostupné na: <
+
+66
+
+24. MUTUMA, Kenneth Wyne. The Protection of the Environment during Armed Conflict.
+p. 54-84. Dostupné na: <https://journalofcmsd.net/wp-content/uploads/2021/08/TheProtection-of-the-Environment-during-Armed-Conflict.pdf>
+25. NAHLIK, S. E. International law and the protection of cultural property in armed
+conflicts.
+
+Hastings
+
+LJ,
+
+1975,
+
+p.
+
+1069-1087.
+
+Dostupné
+
+na:
+
+<
+
+https://repository.uclawsf.edu/cgi/viewcontent.cgi?article=2460&context=hastings_la
+w_journal>
+26. ONDŘEJ, J. Význam Haagské mírové konference z roku 1899 pro vývoj práva
+ozbrojených konfliktů. Mezinárodní vztahy, 2000, p. 29-35.
+27. PANIGAJ, J.: Stručný exkurz Návrhom princípov ochrany životného prostredia vo
+vzťahu k ozbrojeným konfliktom.∗ Právny obzor, 106, 2023, č. 4, s. 333 – 353. Dostupné
+na: < https://doi. org/10.31577/pravnyobzor.2023.4.05>
+28. PANTAZOPOULOS, S.-E. The environment in armed conflicts: draft principles.
+Environmental
+
+policy
+
+and
+
+law,
+
+2016,
+
+p.
+
+1-6.
+
+Dostupné
+
+na:
+
+<
+
+https://core.ac.uk/download/pdf/79665847.pdf>
+29. PAPARINSKIS, M.The Modern Law Review, 2020, p. 1246-1286. Dostupné na: <
+https://nalibrary.wiley.com/doi/pdf/10.1111/1468-2230.12562>
+30. PARSONS, R. J. The fight to save the planet: US armed forces, greenkeeping, and
+enforcement of the law pertaining to environmental protection during armed conflict.
+Geo.
+
+Int'l
+
+Envtl.
+
+L.
+
+Rev.,
+
+1997,
+
+p.
+
+441.
+
+Dostupné
+
+na:
+
+<
+
+https://apps.dtic.mil/sti/pdfs/ADA319495.pdf>
+31. PAYNE, C. R. Legal liability for environmental damage: The United Nations
+Compensation Commission and the 1990–1991 Gulf War. Governance, Natural
+Resources, and Post-Conflict Peacebuilding, ed. C. Bruch, C. Muffett, and SS Nichols.
+London: Earthscan, 2016. Dostupné na: <https://www.researchgate.net/profile/CymiePayne/publication/314500051_Legal_Liability_for_Environmental_Damage_The_Unit
+ed_Nations_Compensation_Commission_and_the_19901991_Gulf_War/links/58c2c61
+4aca272e36dd011fb/Legal-Liability-for-Environmental-Damage-The-United-NationsCompensation-Commission-and-the-1990-1991-Gulf-War.pdf >
+
+67
+
+32. POŠIVÁKOVÁ, Ľ. Zodpovednosť štátov v medzinárodnom práve, STUDIA IURIDICA
+Cassoviensia, ročník 3.2015, číslo 1, s. 100-127. ISSN 1339-3995 Dostupné na: <
+https://sic.pravo.upjs.sk/files/9_posivakova_-_zodpovednost_statov.pdf>
+33. RACIOPPI, F., et al. The impact of war on the environment and health: implications for
+readiness, response, and recovery in Ukraine. The Lancet, 2022, p. 871-873. Dostupné
+na:
+
+<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01739-
+
+1/fulltext>
+34. RAWTANI, D., et al. Environmental damages due to war in Ukraine: A
+perspective. Science of The Total Environment, 2022, p. 7. Dostupné na: <
+https://www.sciencedirect.com/science/article/pii/S0048969722050318?casa_token=A
+AjlDwEj858AAAAA:jSSei9WR5ADospUFTrQE85genCYAtY6xVyMrcRePi7D8m4
+MOGWifqIe50jp28dbyVazfxx7ynI>
+35. REYHANI, R. Protection of the environment during armed conflict. Mo. Envtl. L. &
+Pol'y
+
+Rev.,
+
+2006,
+
+p.
+
+Dostupné
+
+323-338.
+
+na:
+
+<
+
+https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=1292&context=jesl>
+36. ROMDONI, R. N. M. Legal Responsibility for Environmental Damage Caused by
+Russian and Ukrainan Wars: International Humanitarian and Criminal Law
+Perspectives. UNIFIKASI: Jurnal Ilmu Hukum, 2023, p. 106-115. Dostupné na: <
+https://journal.uniku.ac.id/index.php/unifikasi/article/view/8153>
+37. SCHINDLER, D.; TOMAN, J.. Declaration Renouncing the Use, In Time of War, Of
+Explosive Projectiles under 400 Grammes Weight. In: The Laws of Armed Conflicts.
+Brill
+
+Nijhoff,
+
+2004.
+
+p.
+
+91-93
+
+and
+
+163-177.
+
+Dostupné
+
+na:
+
+<
+
+https://brill.com/display/book/edcoll/9789047405238/B9789047405238_s012.xml>
+38. SCHMITT, M. N. Green war: an assessment of the environmental law of international
+armed
+
+conflict.
+
+Yale
+
+J.
+
+Int'l
+
+L.,
+
+1997,
+
+p.
+
+1.
+
+Dostupné
+
+na:
+
+<
+
+https://openyls.law.yale.edu/bitstream/handle/20.500.13051/6364/06_22YaleJIntlL1_1
+997_.pdf?sequence=2>
+39. SCHWABACH, A. Environmental damage resulting from the NATO military action
+against Yugoslavia. Colum. J. Envtl. L., 2000, p. 117. Dostupné na: <
+https://lawrepository.ualr.edu/cgi/viewcontent.cgi?article=1271&context=faculty_scho
+larship>
+
+68
+
+40. SÎRBU, C. G.-E.; BOGDAN, V. The Generation and Role of the 1972 Convention on
+the Prohibition of Biological Weapons. In: ROMANIAN MILITARY THINKING
+INTERNATIONAL SCIENTIFIC CONFERENCE PROCEEDINGS. 2020. Dostupné
+na: < https://www.ceeol.com/search/chapter-detail?id=919443>
+41. SJOSTEDT, B.; DIENELT, A. Enhancing the Protection of the Environment in Relation
+to Armed Conflicts-The Draft Principles of the International Law Commission and
+beyond.
+
+Goettingen
+
+J.
+
+Int'l
+
+L.,
+
+2020,
+
+10:
+
+14-25.
+
+Dostupné
+
+na:
+
+<
+
+https://www.researchgate.net/profile/AnneDienelt/publication/355042509_Enhancing_
+the_Protection_of_the_Environment_in_Relation_to_Armed_Conflicts__the_Draft_Pri
+nciples_of_the_International_Law_Commission_and_Beyond/links/623d63080f80584
+7d7f67aa2/Enhancing-the-Protection-of-the-Environment-in-Relation-to-ArmedConflicts-the-Draft-Principles-of-the-International-Law-Commission-andBeyond.pdf>
+42. TICEHURST, R. The Martens Clause and the laws of armed conflict. International
+Review of the Red Cross (1961-1997), 1997, p. 125-134. Dostupné na:
+https://international-review.icrc.org/sites/default/files/S002086040008503Xa.pdf
+43. WALKER,
+
+D.
+
+H.,
+
+et
+
+al.
+
+Rickettsiae.
+
+1985.
+
+Dostupné
+
+na:
+
+<
+
+https://cidta.usal.es/cursos/enfermedades/modulos/libros/UNIDAD5/Coxiella%20Baro
+n.pdf>
+44. WEDGWOOD, R. The enforcement of Security Council Resolution 687: The threat of
+force against Iraq’s weapons of mass destruction. American Journal of International
+Law, 1998, p. 724-728. Dostupné na: <https://www.jstor.org/stable/2998137>
+
+Právne predpisy:
+1. Declaration of United Nations Conference On Human Environment alebo Štokholm
+Declaration (Deklarácia Konferencia Organizácie Spojených národov o životnom
+prostredí (Štokholmská deklarácia)) adopted by the United Nations Conference on the
+Human Environment, Stockholm, 16 June 1972; see U.N. General Assembly
+Resolutions 2994/XXVII, 2995/UVII and 2996/XXII of 15 December 1972 Dostupné
+na:
+<https://wedocs.unep.org/bitstream/handle/20.500.11822/29567/ELGP1StockD.pdf>
+
+69
+
+2. ICRC Database, Treaties, States Parties and Commentaries , Declaration Renouncing
+the Use, in Time of War, of Explosive Projectiles Under 400 Grammes Weight. Saint
+Petersburg, 29 November / 11 December 1868 (Petrohradska dohoda o zákaze
+výbušných
+
+striel
+
+malého
+
+kalibru
+
+z r.
+
+1868)
+
+Dostupné
+
+na:
+
+<https://ihl-
+
+databases.icrc.org/en/ihl-treaties/st-petersburg-decl-1868>
+3. INTERNATIONAL LAW COMMISSION, et al. Draft articles on responsibility of
+states for internationally wrongful acts. Yearbook of the International Law Commission,
+Dostupné
+
+2001.
+
+na:
+
+<
+
+https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_6_2001.pdf>
+4. INTERNATIONAL LAW COMMISSION, et. al. Draft principles on protection of the
+environment in relation to armed conflicts. Yearbook of the International Law
+Comission,
+
+2022.
+
+Dostupné
+
+na:
+
+<
+
+https://legal.un.org/ilc/texts/instruments/english/draft_articles/8_7_2022.pdf>
+5. LEVIE, Howard S. 1907 HAGUE CONVENTION IV WITH RESPECT TO THE LAWS
+AND CUSTOMS OF WAR ON LAND (WITH ANNEXED REGULATIONS)(18 October
+1907). International
+
+Law
+
+Studies,
+
+1979.
+
+Dostupné
+
+online:
+
+https://digital-
+
+commons.usnwc.edu/cgi/viewcontent.cgi?article=1907&context=ils
+6. OECD, Convention on Third Party Liability in the Field of Nuclear Energy (Paris
+Dostupné
+
+Convention),OECD/LEGAL/0038
+
+na:
+
+<https://legalinstruments.oecd.org/public/doc/199/199.en.pdf>
+7. Oznámenie Federálneho ministerstva zahraničných vecí č. 168/1991 Zb. o viazanosti
+Českej a Slovenskej Federatívnej republiky s Dodatkovými protokolmi I a II k
+Ženevským
+
+konferenciám.
+
+Dostupné
+
+na:
+
+<https://www.slov-lex.sk/pravne-
+
+predpisy/SK/ZZ/1991/168/>
+8. Oznámenie Ministerstva Zahraničných vecí č. 304/2004 Z.z. Slovenskej republiky o
+prijatí Druhého protokolu k Haagskemu dohovoru o ochrane kultúrnych hodnôt v
+prípade ozbrojeného konfliktu z roku 1954. Dostupné na: <https://www.slovlex.sk/pravne-predpisy/SK/ZZ/2004/304/20040508>
+9. Oznámenie Ministerstva zahraničných vecí Slovenskej republika č. 333/2002 Z.z.
+o prijatí
+
+Rímskeho
+
+štatútu
+
+Medzinárodného
+
+trestného
+
+súdu.
+
+Dostupné
+
+na:
+
+<https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/333/20020628>
+
+70
+
+10. Oznámenie Federálneho ministra zahraničných vecí č. 396/1990 Zb. o prijatí Dohovoru
+o mokradiach majúcich medzinárodný význam predovšetkým ako biotopy vodného
+vtáctva a Protokole k jeho zmene. Dostupné na: <https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/1990/396/19900928>
+11. Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other
+Gases, and of Bacteriological Methods of Warfare (Protokol o zákaze používať vo vojne
+dusivé, otravné alebo podobné plyny a bakteriologické prostriedky z r. 1925, Ženevský
+protokol) adopted by League of Nations from 4 May to 17 June 1925, Dostupné na: <
+https://media.nti.org/documents/1925_geneva_protocol_text.pdf>
+12. Rio Declaration on Environment and Development (Deklarácie o životnom prostredí a
+rozvoji z Ria de Janeiro) adopted by U.N. General Assembly in the United Nations
+Conference on Environment and Development in Rio de Janeiro, Brazil, from 1 to 12
+June 1992
+13. Uznesenie Európskeho parlamentu z 19. januára 2023 o zriadení tribunálu pre zločin
+agresie proti Ukrajine (2022/3017(RSP)). Dostupné na: <https://eur-lex.europa.eu/legalcontent/SK/TXT/PDF/?uri=CELEX:52023IP0015>
+14. Vyhláška ministra zahraničných vecí č. 15/1988 Zb. o Viedenskom dohovore o
+zmluvnom práve zo 4. septembra 1987. Dostupné na: <https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/1988/15/19880312>
+15. Vyhláška ministra zahraničných vecí č. 65/1954 Zb. o Ženevských dohovoroch zo dňa
+12. augusta 1949 na ochranu obetí vojny zo dňa 15. decembra 1954. Dostupné na:
+<https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1954/65/19541231>
+16. Vyhláška ministra zahraničných vecí č. 77/1980 Zb. o Dohovore o zákaze vojenského
+alebo akéhokoľvek iného nepriateľského použitia prostriedkov meniacich životné
+prostredie z 25. apríla 1980. Dostupné na: <https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/1980/77/19800701>
+17. Vyhláška ministra zahraničných vecí č. 94/1958 Zb. o Dohovore na ochrana kultúrnych
+statkov za ozbrojeného konfliktu a Protokole k nemu z 5. novembra 1958. Dostupné na:
+< https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1958/94/19581231>
+18. Vyhláška ministra zahraničných vecí č. 96/1975 Zb. o Dohovore o zákaze vývoja,
+výroby a hromadenia zásob bakteriologických (biologických) a toxínových zbraní a o
+
+71
+
+ich zničení z 9. júla 1975. Dostupné na: <https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/1975/96/19750930>
+19. World Charter for Nature (Svetová charta prírody z roku 1982) adopted by UN. General
+Assembly at the 48th plenary meeting, 28 Oct. 1982. Dostupné na: <
+https://digitallibrary.un.org/record/39295?v=pdf>
+
+Iné zdroje
+1. HOBZA, A. Dokumenty ke studiu mezinárodního práva. 1931. Dostupné na: <
+https://www.cervenykriz.eu/files/files/cz/mhp_knihovna/Haague_valka_pozemni.pdf>
+2. Final Report to the Prosecutor by the Committee Established to Review the NATO
+Bombing Campaign Against the Federal Republic of Yugoslavia, Dostupné na: <
+https://www.icty.org/en/press/final-report-prosecutor-committee-established-reviewnato-bombing-campaign-against-federal>
+3. ICRC Database, Treaties, States Parties and Commentaries, Protocol Additional to the
+Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of
+International Armed Conflicts (Protocol I), 8 June 1977., Commentary of 01.01.1987 ,
+Article 35 - Basic rules , Dostupné na: < https://ihl-databases.icrc.org/en/ihl-treaties/api1977 > [cit.03.04.2024]
+4. International Committee of the Red Cross, Advisory service on international
+humanitarian law, 1976 Convention on the Prohibition of Military or any Hostile Use of
+Environmental
+
+Modification,
+
+Dostupné
+
+01.2023.
+
+na:
+
+<https://www.icrc.org/en/document/1976-convention-prohibition-military-or-anyhostile-use-environmental-modification >
+5. INTERNATIONAL MILITARY TRIBUNAL. The Trial of German Major War
+Criminals: Proceedings of the International Military Tribunal Sitting at Nuremberg,
+Germany. HM Stationery Office, Judgment of 1 October 1946, Dostupné na: <
+https://www.legal-tools.org/doc/45f18e/pdf/>
+6. INTERNATIONAL LAW COMMISSION, et al. Draft articles on Responsibility of
+States for Internationally Wrongful Acts, with commentaries, 2001. United Nations,
+2008.
+
+Dostupné
+
+na:
+
+<
+
+https://legal.un.org/ilc/texts/instruments/english/commentaries/9_6_2001.pdf>
+
+72
+
+7. Memorandum by the Secretariat on the effect of armed conflict on treaties: an
+examination of practice and doctrine, A/CN.4/550 (Feb. 1, 2005) Dostupné na: <
+https://legal.un.org/ilc/documentation/english/a_cn4_550.pdf>
+8. Ministerstvo kultúry Slovenskej republiky, Sekcia kultúrneho dedičstva a kultúry
+menšín, Ochrana kultúrnych hodnôt počas ozbrojených konfliktov. Dostupné na: <
+http://www.unesco.sk/ozbrojenykonflikt> [cit.4.1.2024. ]
+9. OECD, Convention on Third Party Liability in the Field of Nuclear Energy (Paris
+Convention).
+10. OECD/LEGAL/0038,
+
+Dostupné
+
+na:
+
+<https://legalinstruments.oecd.org/public/doc/199/199.en.pdf>
+11. OMELCHUK, O., SADOGRSKA, S. ., Príroda a vojna: Ako ruská vojenská invázia
+ovplyvňuje životné prostredie Ukrajiny, 1.4.2022, [cit.29.3.2024], Dostupné na: <
+https://ecoaction.org.ua/pryroda-ta-vijna.html>
+12. UNGA, Report of the Conference of the Committee on Disarmament, Volume I,
+G.A.O.R., 35th Sess., Supp. No. 27, U.N. Doc. A/31/27 (1976), Dostupné na: <
+https://digitallibrary.un.org/record/697097?v=pdf>
+13. UNGA, Report of the Conference of the Committee on Disarmament Volume II, (17
+February–3 September 1976) 31st Sess., U.N. Doc. Supp. No. 27. A/31/27 (1976),
+Dostupné na linke: https://digitallibrary.un.org/record/697098?ln=en&v=pdf
+14. UNITED NATIONS. Summaries of judgments advisory opinions and orders of the
+international court of justice.. United Nations Publications, LEGALITY OF THE
+THREAT OR IJSE OF NUCLEAR WEAPONS Advisory Opinion of 8 July 1996,
+Dostupné na: < https://www.icj-cij.org/sites/default/files/case-related/95/7497.pdf>
+15. UNESCO, Enhanced Protection: Cultural Property of Highest Importance to Humanity
+[na]. Dostupné na: < https://en.unesco.org/node/341353> [cit.5.1.2024].
+16. UNESCO, World Heritage Convention, List of World Heritage in Danger. Dostupné na:
+< https://whc.unesco.org/en/danger/> [cit.5.1.2024].
+
+73
+
+

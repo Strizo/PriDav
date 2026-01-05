@@ -1,0 +1,1688 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY, BRATISLAVA, n. o.
+DETAŠOVANÉ PRACOVISKO BL. SÁRY SALKAHÁZIOVEJ
+ROŽŇAVA
+170407
+
+OŠETROVATEĽSKÝ PROCES U PACIENTA S
+POSTTRAUMATICKOU STRESOVOU PORUCHOU
+
+BAKALÁRSKA PRÁCA
+
+2020
+
+DOMINIKA CHLADNÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE SV.
+ALŽBETY, BRATISLAVA, n. o.
+DETAŠOVANÉ PRACOVISKO BL. SÁRY SALKAHÁZIOVEJ ROŽŇAVA
+
+OŠETROVATEĽSKÝ PROCES U PACIENTA S
+POSTTRAUMATICKOU STRESOVOU PORUCHOU
+
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+Ošetrovateľstvo
+
+Študijný odbor:
+
+Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Detašované pracovisko Bl. Sáry Salkaháziovej Rožňava
+
+Školiteľ záverečnej práce:
+
+Adriana Nemčoková PhDr., PhD.
+
+ROŽŇAVA 2020
+
+DOMINIKA CHLADNÁ
+
+Čestné vyhlásenie
+Vyhlasujem na svoju česť, že bakalársku prácu na tému ,,Ošetrovateľský proces u pacienta
+s posttraumatickou stresovou poruchou“ som vypracovala samostatne a že som uviedla
+všetku použitú literatúru.
+
+V Rožňave, dňa
+
+………………………..
+Podpis
+
+Poďakovanie
+Týmto by som sa chcela poďakovať mojej školiteľke bakalárskej práce PhDr. Adriane
+Nemčokovej, PhD. za jej odborné vedenie, metodickú pomoc a cenné rady, ktoré mi
+poskytla pri jej vypracovaní. Ďalej ďakujem vedeniu Psychiatrickej liečebne Samuela
+Bluma v Plešivci za umožnenie získania údajov potrebných pre napísanie bakalárskej
+práce.
+
+ABSTRAKT
+CHLADNÁ, Dominika: Ošetrovateľský proces u pacienta s posttraumatickou stresovou
+poruchou [Bakalárska práca]/ Dominika Chladná - Vysoká škola zdravotníctva a sociálnej
+práce sv. Alžbety, n. o. Bratislava. Detašované pracovisko bl. Sáry Salkaháziovej Rožňava.
+– Školiteľ bakalárskej práce: PhDr. Adriana Nemčoková PhD. Stupeň odbornej
+kvalifikácie: Bakalár ošetrovateľstva. – Rožňava : Detašované pracovisko bl. Sáry
+Salkaháziovej, 2020. 57 s.
+
+V úvode práce sa zameriavame na teoretické východiská skúmanej problematiky, pričom
+sa bližšie venujeme posttraumatickej stresovej poruche. Táto sa vyznačuje špecifickou
+symptomatológiou. Dôležité je preto uskutočniť jej včasnú diagnostiku a zabezpečiť
+efektívne možnosti jej riešenia. Vznikom posttraumatickej stresovej poruchy sú vo
+zvýšenej miere ohrozené určité skupiny ľudí. Patria medzi nich najmä tí, ktorí prežili
+psychicky náročnú životnú udalosť a dlhodobo sa s ňou nedokážu vysporiadať. Jadro práce
+je tvorené charakterizovaním ošetrovateľskej starostlivosti a jej kvalitatívnej stránke.
+Využívame poznatky rôznych autorov, ktoré navzájom porovnávame. Popisujeme
+ošetrovateľský proces a upriamujeme sa na Model funkčného vzorca zdravia zostavený
+Marjory Gordonovou. V praktickej časti aplikujeme ošetrovateľskú starostlivosť na ženu,
+ktorá
+
+bola
+
+obeťou
+
+prepadnutia
+
+v
+
+prostriedku
+
+mestskej
+
+hromadnej
+
+dopravy.
+
+Charakterizujeme celý priebeh hospitalizácie v zdravotníckom zariadení a tiež to, čo
+všetko bolo na nej realizované.
+
+Kľúčové slová: Ošetrovateľský proces. Pacient. Posttraumatická stresová porucha.
+
+ABSTRACT
+CHLADNÁ, Dominika. Nursing process in a patient with post-traumatic stress disorder
+[Bachelor thesis]/ Dominika Chladná.- University of Health and Social Works st. Elizabeth
+in Bratislava. Detached workplace of blessed Sára Salkaházi Rožňava.- Supervisor of the
+bachelor's thesis: PhDr. Adriana Nemčoková PhD. Level of professional qualification:
+Bachelor of nursing care. – Rožňava: Detached workplace of blessed Sára Salkaházi, 2020.
+57 p.
+
+At the beginning of the thesis we focus on the theoretical background of the researched
+issue, with a closer attention to post-traumatic stress disorder. This is characterized by a
+specific symptomatology. It is therefore important to carry out early diagnosis and ensure
+effective solutions. The emergence of post-traumatic stress disorder is increasingly
+endangering certain groups of people. These include, in particular, those who have
+survived a mentally demanding life event and who are unable to deal with it in the long
+term. The core of the work consists of characterizing nursing care and its qualitative
+aspects. We use the knowledge of different authors, which we compare with each other. We
+describe the nursing process and focus on the Model of Functional Health Formula
+compiled by Marjory Gordon. In the practical part, we apply nursing care to a woman who
+was a victim of forfeiture in the means of public transport. We characterize the entire
+course of hospitalization in a medical facility and also what has been done there.
+
+Key words: Nursing process. Patient. Post-traumatic stress disorder.
+
+OBSAH
+ZOZNAM SKRATIEK A ZNAČIEK....................................................................................9
+ÚVOD..................................................................................................................................10
+1 TEORETICKÉ VÝCHODISKA SKÚMANEJ PROBLEMATIKY..................................11
+1.1 Posttraumatická stresová porucha.........................................................................12
+1.2 Symptomatológia..................................................................................................15
+1.3 Diagnostika...........................................................................................................16
+1.4 Skupiny osôb ohrozené výskytom posttraumatickej stresovej poruchy...............18
+2 OŠETROVATEĽSKÁ STAROSTLIVOSŤ PRI POSTTRAUMATICKEJ STRESOVEJ
+PORUCHE...........................................................................................................................20
+2.1 Špecifiká ošetrovateľskej starostlivosti pri posttraumatickej stresovej poruche..20
+2.2 Kvalitatívna stránka ošetrovateľskej starostlivosti...............................................21
+2.3 Ošetrovateľský proces...........................................................................................24
+2.4 Marjory Gordonová a Model funkčných vzorcov zdravia....................................26
+3 OŠETROVATEĽSKÝ PROCES U PACIENTA TRPIACEHO POSTTRAUMATICKOU
+STRESOVOU PORUCHOU...............................................................................................30
+3.1 Kazuistika...........................................................................................................30
+3.2 Anamnéza a identifikačné údaje.........................................................................31
+3.3 Posudzovanie potrieb pacientky podľa modelu Marjory Gordonovej...............33
+3.4 Sesterské diagnózy.............................................................................................36
+3.5 Záverečné vyhodnotenie pacienta......................................................................48
+4 DISKUSIA........................................................................................................................49
+4.1 Odporúčania pre prax.........................................................................................53
+ZÁVER.................................................................................................................................54
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV..............................................................55
+
+ZOZNAM SKRATIEK A ZNAČIEK
+Z.z. Zbierka zákonov
+č. číslo
+
+P/K pacient/klient
+
+hod. hodina
+min. minúta
+½ polovica
+
+kg. kilogram
+
+ml. mililiter
+
+TK tlak krvi
+
+P pulz
+D dýchanie
+TT telesná teplota
+°C stupeň celzia
+torr. milimeter ortuťového stĺpca označovaný v praxi pri meraní krvného tlaku
+9
+
+ÚVOD
+Cieľom bakalárskej práce je analyzovať problematiku ošetrovateľského procesu,
+ktorý je uplatňovaný pri pacientoch s posttraumatickou stresovou poruchou. K spracovaniu
+tejto práce využívame analýzu diel viacerých odborníkov, ktorí sa zaoberajú
+posttraumatickou stresovou poruchou a sú to Brewin, Hoschl, Kosová a Prsko, Latálová,
+Raboch, Smolík, Vašina a mnohí ďalší. Každý z nich nazeral na túto problematiku z
+vlastného uhla pohľadu avšak spoločné bolo to, že všetci ju chápali ako závažné ochorenie,
+ktoré je nevyhnutné bezodkladne riešiť. K spracovaniu textu bakalárskej práce využívame
+okrem analýzy, aj syntézu, indukciu, dedukciu a zovšeobecnenie. Všetky tieto metódy nám
+slúžia k tomu, aby sme zo zozbieraných poznatkov vytvorili jeden celok, ktorý sa orientuje
+na pacienta trpiaceho posttraumatickou stresovou poruchou a jej liečbu.
+Prvá kapitola bakalárskej práce je venovaná teoretickým východiskám skúmanej
+problematiky. Popisujeme, čo je to posttraumatická stresová porucha. Vymedzujeme jej
+symptomatológiu a teda, na základe akých príznakov ju je možné rozpoznať. V ďalšej časti
+tejto kapitoly analyzujeme spôsob diagnostiky tohto ochorenia a upriamujeme sa na
+najviac ohrozené skupiny ľudí, ktoré môže zasiahnuť.
+Druhá kapitola práce je zameraná na špecifiká ošetrovateľskej starostlivosti pri
+posttraumatickej stresovej poruche, kvalitatívnu stránku ošetrovateľskej starostlivosti,
+definujeme ošetrovateľský proces, čo je jeho obsahom, o aké činností sa jedná a kto ich
+vykonáva a priblížime si štruktúru Modelu funkčného vzorcu zdravia, ako sa využíva, čo
+sa ním zisťuje a biografiu autorky modelu Marjory Gordonovej.
+Posledná časť bakalárskej práce je už priamo zameraná na zostavenie
+ošetrovateľského procesu u pacienta trpiaceho posttraumatickou stresovou poruchou.
+Venujeme sa kazuistike, anamnéze, aplikujeme Model funkčných vzorcov zdravia na
+pacientku, pomocou ktorého zisťujeme nedostatky v jej bio-psycho-sociálnych potrebách.
+Rozhodli sme sa venovať pacientke, ktorá zažila traumu pri prepade v prostriedku mestskej
+hromadnej dopravy. Vymedzujeme, ako prebieha ošetrovateľská starostlivosť u takejto
+pacientky, čím sa začína, aký je jej priebeh a čo je počas ošetrovateľstva poskytované zo
+strany sestry.
+
+10
+
+1
+
+TEORETICKÉ
+
+VÝCHODISKÁ
+
+SKÚMANEJ
+
+PROBLEMATIKY
+Život človeka je ohrozený vznikom akýchkoľvek ochorení. Jedným takýmto môže
+byť posttraumatická stresová porucha. Práve pri nej možno hovoriť, že je z hľadiska
+výskytu vnímaná ako druhá najviac objavujúca sa hneď po depresiách. Pri
+posttraumatickej stresovej poruche dochádza k úzkosti (Hoschl et al., 2004).
+Po tom, čo človek musel prežiť emočne náročnú situáciu trvá veľmi dlhé obdobie,
+kým sa mu s ňou podarí vysporiadať. Často sú to mesiace, roky a výnimkou nie je ani
+omnoho dlhšie časové obdobie. Počas neho v jeho mysli pretrváva neustála spomienka na
+prežitú udalosť. Môžu to byť však aj živé sny, ktoré sa stále upriamujú na niečo
+nepríjemné. Každým dňom dochádza akoby k opätovnému prežívaniu toho istého deja. V
+takejto situácii sa človek začína strániť svojho okolia a viac sa uzatvára do seba. Vždy sa
+snaží vyhýbať čomukoľvek, čo by mu mohlo nepríjemnú skúsenosť znova priblížiť.
+Prejavuje sa to podráždenosťou a pesimistickým nazeraním na svet (Hoschl et al., 2004).
+Ak sa zameriame na výsledky odborníkov čo sa týka posttraumatickej stresovej
+poruchy získame presvedčenie, že zasahuje predovšetkým dospelých ľudí najmä v
+Hongkongu alebo v USA. V týchto štátoch sa porucha najviac vyskytuje a spôsobuje u
+človeka značné problémy v jeho každodennom živote. Práve v USA bolo vykonané
+skúmanie na 6 000 respondentoch a podarilo sa nadobudnúť poznatok, že celoživotná
+prevalencia tejto poruchy postihuje 10,4 % žien a v prípade mužov je to 5 %. Spomedzi
+týchto respondentov až 51 % žien a o niečo viac mužov, konkrétne 61 % malo možnosť
+prísť do kontaktu s takým stresorom, ktorý sa viaže s kritériami DSM-IV, čo znamená
+Diagnostic and Statistical Manual of Mental Disorder, Fourth Edition. Jedná sa o
+psychotraumu. Dôležité je ale povedať, že nie u všetkých týchto respondentov sa naplno
+prejavila posttraumatická stresová porucha. Boli iba traumatizovaní a podarilo sa im
+svojpomocne zotaviť. V prípade 17 % mužov sa zistil výskyt intruzívnych spomienok,
+avšak musíme povedať, že prežitý stresor nevychádzal z charakteristiky psychotraumy,
+ktorá je uvedená v DSM-IV (American Psychiatric Association, 2010).
+V súvislosti s posttraumatickou stresovou poruchou bolo vykonaných viacero štúdii
+ako napríklad Cusackom, ktorý sa zaoberal taktiež celoživotnou prevalenciou tejto poruchy
+a dosiahol poznatok, že je to 8 – 14 %. Ďalší výskum organizovaný Bradym a Clarkom
+11
+
+zasa preukázal, že celoživotná prevalencia dosahuje 7 – 10 %. Rovnakej problematike sa
+venovali aj epidemiologické štúdie a upriamili sa na rôzne skupiny ľudí na základe čoho
+zistili, že celoživotná prevalencia sa u nich vyskytuje v 3 – 58 % prípadov (Smolík, 2002).
+Vedci sa venovali aj štúdiu posttraumatickej stresovej poruchy u vojnových
+veteránov a došli k poznatku, že ich celoživotná prevalencia je v prípade mužov 30,9 % a v
+prípade žien je to o čosi menej 26 % (American Psychiatric Association, 2010).
+Výskyt posttraumatickej stresovej poruchy nie je viazaný na žiadne konkrétne
+vekové obdobie. Môže sa objaviť nielen u dospelých ľudí, ale aj u detí a to najmä vtedy, ak
+počas svojho života prežili nejakú silne emočnú situáciu s negatívnym charakterom a
+nedokážu sa s ňou ani v priebehu rokov vyrovnať. Dnes môžeme povedať, že touto
+poruchou trpia predovšetkým mladí ľudia a to z dôvodu množstva traumatických udalostí,
+ktoré mohli zažiť. Pri uvažovaní nad situáciu v oblasti výskytu posttraumatickej stresovej
+poruchy v Nemecku dôjdeme k záveru, že ňou trpia ľudia vo veku 65 rokov a ich
+prevalencia tejto poruchy sa pohybuje na úrovni 1 – 3 %. Najviac je to u takých ľudí, ktorí
+boli svedkami rôznych vojnových konfliktov a spomienky na ne si nesú počas celého
+svojho života (Cusack et al., 2006).
+Posttraumatickej stresovej poruche sa venujú rôzne inštitúcie, ktoré sa snažia získať
+o nej čo najviac poznatkov. Sú to prevažne psychiatri a psychológovia, ktorí sa
+zameriavajú
+
+na
+
+liečbu
+
+pacientov
+
+trpiacich
+
+touto
+
+poruchou.
+
+Orientujú
+
+sa
+
+na
+
+psychotraumatizáciu a vnímajú ju ako príčinu výskytu psychiatrickej poruchy u približne
+31,5 % pacientov, ktorí sú umiestnení na psychiatrických klinikách (American Psychiatric
+Association, 2010). Ešte pred tým, ako sa začne s liečbou posttraumatickej stresovej
+poruchy je potrebné o nej mať čo najviac informácii a predovšetkým poznať, čo to vlastne
+táto porucha je, ako vzniká, aký je jej priebeh a podobne.
+
+1.1 Posttraumatická stresová porucha
+Pri uvažovaní nad posttraumatickou stresovou poruchou môžeme povedať, že je to
+určité psychické ochorenie, na riešenie ktorého sú upriamené rôzne diagnostické manuály
+ako napríklad Medzinárodná klasifikácia chorôb a iné. Spomenutá porucha predstavuje
+oneskorenú reakciu človeka na to, čo prežil pred dlhším časom. Môže sa jednať o stratu
+blízkeho človeka, taktiež to môže byť prežitie živelnej katastrofy, poprípade ťažkej
+12
+
+autonehody. Nie je výnimkou ani to, že posttraumatická stresová porucha sa prejaví po
+tom, čo bol človek svedkom vojenských konfliktov a iných nepokojov. Takéto situácie
+nechávajú v jeho mysli veľmi trvalé stopy a ťažko sa s nimi dokáže vysporiadať.
+Mnohokrát k tomu potrebuje pomoc odborníka. Pri záťažovej situácii môžeme hovoriť, že
+má jednorázový charakter, ako je práve prežitie autonehody. Avšak sú aj také, ktoré sa
+opakujú dlhšiu dobu a týmito sú spomienky na týranie a podobne (Rahn, Mahnkopf, 2000).
+Hoci náročnú situáciu prežil človek vo svojom dospelom veku, môže na neho
+zapôsobiť jej vplyv v podobe posttraumatickej stresovej poruchy. Niekedy táto porucha
+trvá len krátke obdobie, akým je napríklad 10 hodín. Zanecháva však na emočnom
+prežívaní človeka a tak isto aj na jeho správaní trvalé dopady. V prípade výskytu dlhodobej
+traumatizácie sa dostavujú podstatne horšie dôsledky pre človeka (Perry, Szalavitz, 2016).
+Traumatizáciu je možné členiť na niekoľko skupín. V prvej je zaradená primárna
+traumatizácia, ktorá vychádza z pôsobenia určitej traumatickej udalosti. Potom je to
+sekundárna traumatizácia, ktorá je dôsledkom delenia sa s prežitým zážitkom spolu s inými
+osobami ako je rodina, priatelia a podobne. Na záver hovoríme o terciárnej traumatizácii a
+táto sa najviac dotýka blízkych ľudí, ktorí sú v pravidelnom kontakte s traumatizovanou
+osobou, poprípade boli svedkami náročnej udalosti, ktorú musela prežiť. Terciárna
+traumatizácia môže postihovať najmä policajtov, záchranárov, poprípade sú to terapeuti
+(Vašina, 2008).
+Akýkoľvek stresujúci zážitok zanecháva na človeku značné dôsledky. Potrebné je
+uviesť niekoľko charakteristických znakov, ktoré sa viažu s posttraumatickou stresovou
+poruchou. Týmito znakmi sú:
+− vnútorná príčina – výskyt posttraumatickej stresovej poruchy je spojený s pocitmi,
+ktoré mohol človek zažiť v čase, keď bol vystavovaný náročnej situácii. Mohlo sa
+jednať o dopravnú nehodu, pri ktorej utrpel stratu na živote jeho životný partner
+alebo deti. S takýmto niečim sa nikto nedokáže jednoducho vysporiadať.
+Spomienky na túto udalosť si so sebou bude nosiť počas celého života. Sú to najmä
+pocity bezmocnosti, ktoré ho budú neustále sprevádzať.
+− extrémne obavy – tieto nastávajú vtedy, ak dôjde k stresovej situácii, pri ktorej má
+človek obavy o svojich blízkych, ktorí sa nachádzajú niekde s nim a u ktorých
+môže očakávať, že dôjde k úmrtiu napríklad aj vplyvom uvádzanej dopravnej
+nehody.
+13
+
+− bezprostredné ohrozenie života a taktiež zdravia – dochádza k nemu vtedy, ak
+nastane zrážka osobného automobilu s nákladným a dá sa predpokladať, že bude
+mať fatálne následky pre účastníkov dopravnej nehody.
+− bezmocnosť – človek pozorujúc situáciu okolo seba sa cíti bezmocný a nedokáže si
+pomôcť. Očakáva, že mu ju poskytne okolie, nakoľko vplyvom traumy, ktorú
+musel prežiť to sám nezvláda (Rahn, Mahnkopf, 2000).
+Pri porovnávaní klasickej stresovej situácie spolu s traumatickou udalosťou je
+potrebné sa upriamiť na človeka a jeho pocity, ako sa s jej výskytom vlastne sám
+vysporiadava. Pri bežnej stresovej situácii je to zvyčajne podstatne ľahšie ako práve pri
+traumatickej udalosti (Čírtková, Vitoušová, 2007).
+Pokiaľ sa bližšie pozrieme na prejavy posttraumatickej stresovej poruchy, potom
+môžeme spozorovať, že sú v niečom podobné akútnej reakcii na prichádzajúci stres.
+Človek by sa mal zvyčajne vysporiadať so stresom do určitého času. Sú nim hodiny, dni,
+možno mesiace. Rozhodne by to nemalo byť časové obdobie dlhšie ako je šesť mesiacov,
+pretože potom je potrebné danú situáciu riešiť za pomoci odborníka. Vážnou poruchou je
+posttraumatická stresová porucha, ktorej dôsledky pretrvávajú podstatne dlhší čas a
+spôsobujú zmenu osobnosti človeka, ktorý ňou trpí (Raboch et al., 2006).
+Nastáva pri nej opätovné prežívanie tej istej situácie, ktorá sa vyznačuje
+traumatickým charakterom, čo vidíme v podobe vynárania stále tých istých spomienok,
+môže to byť aj flashback, nepríjemné sny, alebo sú to nočné mory. Pri všetkých týchto sa
+objavujú akoby skutočné pocity, človek znova prežíva tu istú situáciu, ktorú už raz prežil a
+z toho dôvodu je úplne ochromený a nedokáže viesť pokojný život (Vašina, 2008).
+Flashbacky sú vnímané ako kontinuálny škála, kde sa na jednej strane nachádzajú
+vtieravé spomienky viazané s prežitou traumatickou udalosťou spolu s neurčitými pocitmi
+a zasa na druhej strane sú epizódy, sprevádzané stratou kontaktu so spoločnosťou na
+niekoľko minút. Človek nemá schopnosť nejakým spôsobom korigovať vybavovanie
+nepríjemných spomienok. Vtedy nedokáže vnímať čas, nakoľko plynie iným spôsobom a
+to vďaka flashbacku. Takto sa vytvára priestor kedykoľvek si znova spomenúť na nejakú
+traumu a emočne ju prežívať (Brewin, 2015).
+Ak u človeka prevládajú sny, ktoré sa intenzívne viažu s jeho prežitou traumou
+môžeme povedať, že ich výskyt je badateľný kedykoľvek v priebehu spánku. To, aký je
+obsah týchto snov je veľmi náročné rozpoznať, čo sťažuje aj prácu odborníkov pri riešení
+14
+
+posttraumatickej stresovej poruchy. Práve táto porucha zapríčiňuje to, že sa človek
+nedokáže pokojne vyspať. Prejavuje sa v ňom značná afektivita, jeho zmysly sú otupené, je
+apatický, v emóciách pozorujeme oploštenosť, poprípade je to anhedonickosť. Niekdy je to
+aj ostražitosť, akou sa prejavuje vo vzťahu k svojmu okoliu. Taktiež to môže byť agresívne
+správanie, poprípade sa jedná o výskyt panických reakcií na rôzne skutočnosti. Nie je
+výnimkou ani to, že sa vyhýba kontaktu s ľuďmi a taktiež aj takému miestu, kde sa mu
+traumatická udalosť stala. V správaní človeka trpiaceho posttraumatickou stresovou
+poruchou vidíme, že je neprimerane úzkostlivý a nedokáže sa koncentrovať. Okrem
+uvedeného môže byť zvýšene naklonený k užívaniu drog, k výskytu depresívnych stavov,
+úzkosti, môže trpieť rôznymi fóbiami, alebo mať samovražedné sklony (Raboch et al.,
+2006).
+Odborníci, upriamujúci sa na liečbu posttraumatickej stresovej poruchy prišli s
+významným výsledkom čo sa týka tohto ochorenia. Podarilo sa im zistiť, že v dôsledku
+jeho výskytu dochádza k poškodeniu mozgu a konkrétne je to prefrontálny lalok a rovnako
+aj limbický systém. Tieto časti mozgu sú najviac poznačené výskytom posttraumatickej
+stresovej poruchy. Získavanie stále nových informácii o tejto poruche môže prispieť k jej
+skoršej diagnostike a zlepšiť výsledky v oblasti liečby. Táto by mala byť efektívnejšia a
+malo by sa ňou docieliť opätovné zaradenie človeka do spoločnosti (Di Gangi et al., 2017).
+
+1.2 Symptomatológia
+Rozpoznať výskyt posttraumatickej stresovej poruchy je možné prostredníctvom
+príznakov, čiže symptómov. Tieto sa členia do niekoľkých skupín:
+− nadmerné vzrušenie – vychádza predovšetkým z potreby neustále niečo očakávať,
+pričom sa môže jednať o nejaké potencionálne nebezpečenstvo, alebo je to určité
+ohrozenie, ktorého sa človek bojí. V uvedenej kategórii symptómov sa nachádzajú
+také, ako je najmä podráždenosť, výskyt pravidelných porúch spánku, nadmerná
+fyziologická reaktivita, permanentná úzkosť a prežívanie obáv z čohokoľvek.
+− intruzívne príznaky – takéto príznaky sú spájané s opakovaným prežívaním
+nepríjemnej situácie, pričom hovoríme o flashbacku, poprípade sú to nočné mory,
+ktoré sa zvyknú vyskytovať. Človek sa neustále snaží vlastnými silami sa nejakým
+spôsobom vyrovnať s týmito nepríjemnými pocitmi, avšak nedarí sa mu to.
+15
+
+− sťažené príznaky – vychádzajú z absolútnej bezmocnosti človeka trpiaceho
+posttraumatickou stresovou poruchou. Nedokáže žiť v realite, je pod vplyvom
+anestézie, často paralyzovaný, dochádza v ňom k zmene vnímania. Niekedy sa však
+môže prejavovať aj veľmi pokojne, čo ale nie je veľmi časté. Popísanú skutočnosť
+označujeme ako traumatický trans (Smolík, 2002).
+Pri celkovom zhrnutí všetkých symptómov, ktoré sú charakteristické v súvislosti s
+výskytom posttraumatickej stresovej poruchy by sme mohli vychádzať z hľadiska miery
+aktivizácie človeka a sú to:
+− symptómy viazané sa so zvýšenou aktivitou - v podobe jeho správania, schopnosti
+prežívať rôzne udalosti alebo sa fyziologicky prejavovať. Sú to výbuchy zlosti,
+jedná sa aj o zvýšenú tepovú frekvenciu a podobne.
+− symptómy spojené so zníženou aktivitou – snaha za každých okolností sa vyhnúť
+rôznym miestam, poprípade situáciám, ktoré človeku spôsobujú úzkostné stavy.
+− symptómy spájajúce sa s neaktivitou – nastáva vnútorné prežívanie zo strany
+človeka, dostavujú sa nepríjemné vtieravé myšlienky (Perry, Szalavitz, 2016).
+
+1.3 Diagnostika
+Len pokiaľ je včas diagnostikovaná posttraumatická stresová porucha, len vtedy je
+možné zabezpečiť jej čo najefektívnejšiu liečbu. Potrebné je disponovať vedomosťami o
+rôznych symptómoch, ktoré sa u človeka vyskytujú a zhodnotiť ich. Takéto zhodnocovanie
+sa uskutočňuje prostredníctvom vykonávania rozhovoru psychológa, psychiatra alebo
+terapeuta spolu s pacientom, u ktorého je predpoklad, že takouto poruchou trpí. Využíva sa
+však aj dotazník, v ktorom sa nachádza niekoľko otázok, viazaných sa s prejavmi
+ochorenia a na tieto pacient aj odpovedá. Následne sa uskutočni ich zhodnotenie a z neho
+je zjavné, či naozaj sa u neho prejavujú symptómy posttraumatickej stresovej poruchy,
+alebo sa skôr jedná o iný typ ochorenia. Využitie vhodných diagnostických nástrojov
+dokáže včas zachytiť ochorenie a zvoliť tie najvhodnejšie možnosti jeho liečby. Sú
+situácie, kedy sa symptómy posttraumatickej stresovej poruchy zamieňajú s inými a týmito
+sú závislosť od užívania psychoaktívnych látok. Ďalej sa jedná o rôzne úzkostné poruchy,
+akými sú neprimeraná reakcia na prichádzajúci stres, alebo aj panická porucha. Zameniť
+16
+
+symptómy je možné aj s afektívnymi poruchami, ktoré sa prejavujú depresiou. Potom sú to
+poruchy osobnosti, reprezentované hraničnou poruchou osobností. Avšak pri nedôkladnej
+analýze symptómov, ktoré majú slúžiť k zisteniu výskytu posttraumatickej stresovej
+poruchy môže dôjsť k ich zámene aj s organickými poruchami a ide o úraz hlavy,
+vychádzajúci taktiež z výskytu traumatickej udalosti (Látalová et al., 2014).
+Pri vykonávaní diagnostiky posttraumatickej stresovej poruchy je potrebné mať na
+zreteli nasledovné zákonitosti:
+− stav pretrváva menej ako šesť mesiacov po prežití traumatickej udalosti,
+− prevláda výskyt vtieravých myšlienok alebo nočných môr,
+− dochádza k otupeniu zmyslov a k citovej oploštenosti človeka,
+− snaha vyhnúť sa čomukoľvek, čo spôsobí opätovnú spomienku na traumatickú
+udalosť,
+− existencia vegetatívnych porúch, napríklad náklady alebo zmeny správania,
+− výskyt flashbackov,
+− potreba vyhýbať sa ľuďom,
+− nadmerná hyperaktivita,
+− neprimeraná bdelosť,
+− neschopnosť pokojne zaspať,
+− depresívne stavy,
+− neustále myšlienky viazané sa k potrebe vykonania samovraždy (World Health
+Organisation, 2019).
+Posttraumatická stresová porucha sa môže dostaviť v takýchto prípadoch:
+− vystavovanie sa nebezpečnej situácii,
+− prežitie traumy,
+− absolvovanie výpovede o traumatickej udalosti,
+− výskyt traumy u niekoho z rodiny alebo známych,
+− uvažovanie nad nepríjemnými detailmi, ktoré sa viažu s traumatickou udalosťou. V
+takýchto prípadoch sa dostavujú vtieravé symptómy ako sú nočné mory, výskyt
+disociatívnych reakcií, duševná nepohoda a nežiadúca fyziologická reakcia. Človek
+má potrebu vyhýbať sa takým momentom, ktoré by mu nejakým spôsobom
+17
+
+pripomínali prežitú traumu. Všetko toto sa prejavuje v podobe zmeny nálad, v
+negatívnom sebahodnotení, v nevhodnej identifikácii príčin traumy a jej dôsledkov,
+človek je menej aktívny, prevláda v ňom presvedčenie o vlastnej neschopnosti.
+Okrem uvedeného je to aj podráždenosť, ktorá sa vyskytuje. Dochádza tiež k seba
+deštruktívnemu správaniu, k absencii pozornosti, k ťažkostiam zaspať a k vnútornej
+nepohode (World Health Organisation, 2019).
+
+1.4 Skupiny osôb ohrozené výskytom posttraumatickej stresovej poruchy
+Posttraumatická stresová porucha môže zasiahnuť každého človeka, ktorý v určitej
+dobe prežil silne traumatizujúci zážitok. Musíme však uviesť určité skupiny osôb, ktoré sú
+viac ohrozené jej výskytom najmä z týchto dôvodov:
+− charakteristika osobnosti, v ktorej prevláda nutkavé astenické alebo neurotické
+správanie,
+− niekto z blízkej rodiny trpel týmto ochorením,
+− neustále nazeranie na svet ako na niečo, čo spôsobuje človeku určité ohrozenie v
+podobe zranenia,
+− využívanie nevhodných stratégii zvládania stresu a absencia žiadúcej sociálnej
+podpory od blízkeho okolia (Raboch et al., 2015).
+Najviac sú posttraumatickou stresovou poruchou ohrození najmä slobodní alebo
+rozvedení ľudia, osoby nejakým spôsobom znevýhodnené, poprípade sa jedná o sociálne
+izolované skupiny populácie ( Höschl et al., 2004).
+Potrebné je tiež dodať, že posttraumatická stresová porucha častejšie postihuje
+mladú generáciu a to najmä z takého dôvodu, že sa pravidelne ocitá v situáciách, kedy
+prežíva stres alebo sú to rôzne traumy, ktoré sprevádzajú ich život. Príčinou výskytu tohto
+ochorenia je fyzické zranenie, ktoré v nich vyvoláva posttrauamtickú stresovú poruchu.
+Musíme ale dodať, že dôležitú rolu hrajú aj slabšie kognitívne schopnosti človeka, ktoré ho
+predurčujú k vzniku tejto poruchy (DiGangi et al., 2017).
+Spomenieme najviac ohrozené skupiny ľudí a týmito sú osoby nižšieho veku,
+disponujúce základným vzdelaním, zvyčajne sú to muži, vyskytuje a u nich extraverzia a
+iné faktory. Dôležité je poukázať na vzťah, ktorý sa vytvára medzi obeťou traumy a
+človekom, ktorý túto traumu vlastne spôsobuje (Rahn, Mahnkopf, 2000).
+18
+
+Pri vzniku traumy je potrebné zohľadňovať dĺžku viktimizácie, potom je to
+charakter skutku a teda, či je jednorázový alebo sa už viackrát opakoval, respektíve
+neustále sa opakuje. Ďalej musíme myslieť aj na mieru ohrozenia života zo strany obete,
+ako to vlastne ona sama prežíva. Zohľadňuje sa pocit viny a rovnako aj sekundárna
+viktimizácia (Čírtková, Vitoušová, 2007).
+Rizikové faktory smerujúce k vzniku posttraumatickej stresovej poruchy je možné
+rozčleniť na niekoľko oblastí:
+− Rodinná anamnéza: podnietiť výskyt posttraumatickej stresovej poruchy môže aj
+rodinná anamnéza, pri skúmaní ktorej môžu odborníci zistiť, že aj iný člen,
+poprípade viacerí členovia v príbuzenstve trpeli touto poruchou a preto existuje pre
+jej vznik určitá predispozícia, vychádzajúca z dedičnosti.
+− Demografické faktory: porucha sa častejšie vyskytuje u mužov, avšak ženy v
+súvislosti s ňou prežívajú väčšie utrpenie. Taktiež je potrebné poukázať na rasové
+predispozície k výskytu poruchy, vzdelanie a podobne.
+− Sociálne faktory: spôsob života človeka, charakter vzťahov s okolím.
+− Genderové faktory: jedná sa o sociálno – kultúrne faktory majúce vplyv na výskyt
+posttraumatickej stresovej poruchy.
+− Faktory spojené s traumatickou udalosťou: hodnotenie a prežívanie tejto
+udalosti.
+− Osobnostné faktory: vnímanie okolitého sveta a hodnotenie javov, ktoré sa v ňom
+vyskytujú (Friedman et al., 2007).
+
+19
+
+2
+
+OŠETROVATEĽSKÁ
+
+STAROSTLIVOSŤ
+
+PRI
+
+POSTTRAUMATICKEJ STRESOVEJ PORUCHE
+Ošetrovateľská starostlivosť má veľký význam v spoločnosti. Dôvodom je to, že
+mnoho ľudí trpí rôznymi zdravotnými ťažkosťami a na ich liečbu sa uplatňuje práve
+ošetrovateľská starostlivosť. Nejde výlučne o fyzické poranenia, na ktoré sa využíva. Sú to
+aj psychické ťažkosti, z ktorými pracuje. Potrebné je uviezť, že práve tieto sú svojim
+charakterom špecifické a preto je pri jednotlivých pacientoch potrebné zostaviť
+individuálny ošetrovateľský proces a tento na nich napokon aj aplikovať. Spomenieme
+posttraumatickú stresovú poruchu, ktorá je veľmi závažným problémom. Jej liečba je v
+dôsledku tejto skutočnosti veľmi náročná. Traumy môžu prichádzať z rôznych životných
+situácii. Môže to byť aj okolnosť, kedy sa niekto stal obeťou trestného činu a túto svoju
+nepríjemnú skúsenosť si so sebou nesie každý deň vo svojich myšlienkach. Nedokáže sa s
+ňou vysporiadať a preto je veľmi žiadúce, aby sa rozhodol vyhľadať odborníka a požiadať
+ho o pomoc. Využíva sa prevažne terapia, ktorá mu má prispieť k postupnému
+vysporiadaniu sa so zažitou negatívnou situáciou. Ošetrovateľstvo rovnako ako iné vedné
+disciplíny sa vyznačuje bohatou históriou.
+
+2.1 Špecifiká ošetrovateľskej starostlivosti pri posttraumatickej stresovej
+poruche
+Ku každému pacientovi je potrebné pristupovať ako ku špecifickej osobnosti, ktorá
+má určité potreby a tieto je nutné naplniť prostredníctvom ošetrovateľskej starostlivosti
+(Tomagová, Bóriková et al., 2008).
+Ak sa upriamime na pacientov, ktorí prežili nejaký traumatický zážitok musíme
+povedať, že k nim má sestra pristupovať s náležitou empatiou a snažiť sa vypočuť ich
+trápenie, ktoré musia prežívať v súvislosti s traumou. Človek, na ktorom bolo spáchané
+násilie pociťuje voči svojmu okoliu nedôveru a časté obavy. Z toho dôvodu by mala sestra
+navodiť príjemnú a uvoľnenú atmosféru, v ktorej by mohlo dôjsť k poskytovaniu
+ošetrovateľskej starostlivosti (Kristová, 2009),
+Empatický prístup je dôležitý pre všetky profesie. Empatia predstavuje schopnosť
+vcítenia sa do pocitov iného človeka. V prípade ošetrovateľstva je to sestra, ktorá sa snaží
+pochopiť problémy svojich pacientov a pomôcť im. Má túžbu pomáhať ľuďom a to nielen
+20
+
+tým, že poskytne ošetrenie ich rán, ale dôležité taktiež je aj to, aby bola akýmsi
+psychológom, ktorému môže pacient vypovedať o všetkom, čo ho ťaží. Preto potom
+pozorujeme, že mnohé sestry sú pracovne preťažené. Počas svojho pracovného dňa musia
+vykonávať nielen tie činnosti, ktoré im vychádzajú z ich povolania, ale mali by si dokázať
+vytvoriť aj terapeutický vzťah s pacientom (Boroňová et al., 2018).
+Mnohí pacienti, ktorí prežívajú posttraumatickú stresovú poruchu sú rozrušení,
+nedokážu sa sústrediť na veci okolo seba, vyhýbajú sa svojmu okoliu alebo nemusia mať
+záujem spolupracovať pri poskytovaní ošetrovateľskej starostlivosti. V tomto smere je
+úlohou sestry motivovať ich k tomu, aby dokázali vytvoriť súčinnosť s ošetrujúcim tímom
+pri riešení problému. Pre viacerých pacientov je veľkým odľahčením ich utrpenia to, ak sa
+môžu s niekým porozprávať. Takýmto človekom je aj sestra, ktorá je vždy otvorená
+vzájomnej komunikácie s pacientmi (Gurková et al., 2009).
+Rôzne skupiny pacientov majú vlastné záujmy, preferencie a uznávajú odlišné
+hodnoty. Toto všetko musí sestra akceptovať a v žiadnom prípade nekritizovať pacientove
+názory alebo postoje. Taktiež ho nesmie obviňovať za situáciu, ktorá sa mu stala. Naopak,
+mala by byť oporou v náročnej situácii, sprevádzať pacienta počas nevyhnutných
+vyšetrení, poskytovať mu informácie o úkonoch, ktoré bude musieť podstúpiť. Sestra
+predstavuje akoby mostík medzi pacientom a lekármi. Jej úlohou je byť pacientovi
+nápomocná vo všetkom, čo potrebuje. Je to napríklad asistencia pri osobnej hygiene,
+obliekaní, úprave zovňajška, starostlivosti o izbu pacienta a podobne (Magurová,
+Majerníková, 2009).
+
+2.2 Kvalitatívna stránka ošetrovateľskej starostlivosti
+Presne špecifikovať kvalitu v oblasti ošetrovateľskej starostlivosti je veľmi
+náročné. Kvalita predstavuje pre zdravotnícke zariadenie niečo iné a tak isto aj pre
+pacienta. Pri kvalite nemôžeme hovoriť výlučne o súbore metód alebo aj techník,
+poprípade to nie sú iba pracovné postupy. Ošetrovateľstvo je chápané ako filozofia, ktorá
+je prepojená predovšetkým s organizačnou kultúrou. Zohľadňovať je potrebné aj postoje
+zdravotníkov čo sa týka kvality v ošetrovateľstve. Nesmie sa zabúdať ani na hodnoty alebo
+ich správanie. K problematike kvality v oblasti ošetrovateľskej starostlivosti je venovaná
+vo svete taká pozornosť, že došlo k vytvoreniu organizácie, ktorá sa na ňu bližšie
+21
+
+zameriavala. Táto organizácia je prvá v USA, ktorá bola uznávaná ako autorita definujúca
+kvalitnú starostlivosť a vytvorila deväť stupňov pri posudzovaní kvality ošetrovateľskej
+starostlivosti. Sú to tieto:
+− Dostupnosť starostlivosti: každý pacient by mal mať vytvorený čo najjednoduchší
+prístup k poskytovaniu ošetrovateľstva vzhľadom na riešenie jeho zdravotných
+problémov. Medzi takéto patrí aj posttraumatická stresová porucha. Aj napriek
+tomu, že nejde o navonok poznateľné ochorenie nakoľko je psychického
+charakteru, aj tento problém je nutné riešiť prostredníctvom poskytovania
+kvalitného ošetrovateľstva (Farkašová et al., 2005).
+− Primeranosť starostlivosti: pacientom by mala byť poskytovaná taká forma
+ošetrovateľskej starostlivosti, ktorá by bola primeraná k ich zdravotnému stavu.
+Teda nie je možné uskutočniť ošetrovanie fyzických rán rovnakým spôsobom ako
+psychické problémy. Vždy je potrebné využiť taký postup, ktorý prinesie želaný
+výsledok v podobe uzdravenia pacienta.
+− Kontinuita starostlivosti: ošetrovateľstvo sa musí uskutočňovať pravidelne, ak si
+to zdravotný stav pacienta vyžaduje. Nemalo by sa stať, že dôjde k prerušeniu,
+nakoľko by to spôsobilo zhoršenie zdravia. Účelom kontinuálnej ošetrovateľskej
+starostlivosti je to, aby sa zdravotné problémy neprehlbovali.
+− Efektivita starostlivosti: každý zdravotný problém musí byť riešený zo strany
+zdravotníckeho personálu čo najefektívnejšie, aby sa nestalo, že dôjde k jeho
+zhoršeniu. Pokiaľ by sa neuplatňovala efektivita v ošetrovateľskej starostlivosti
+potom by sa mohlo stať, že liečba zdravotného problému by prebiehala dlhodobo a
+pacient by trpel silnými bolesťami. (Hanzliková et al., 2006).
+− Pôsobivosť starostlivosti: poslaním zdravotníckeho personálu je poskytovať
+pacientovi pravdivé informácie o jeho zdravotnom stave. V žiadnom prípade by
+nemal byť nejakým spôsobom zavádzaný. Taktiež nesmie dôjsť k podceňovaniu
+alebo naopak k preceňovaniu jeho zdravotného stavu. Pokiaľ by zdravotnícky
+personál ubezpečil pacienta o tom, že jeho zdravotný stav nie je vážny, potom by
+mohol upustiť od preventívnych aktivít a jeho zdravie by sa podstatne zhoršilo.
+Príkladom je prežívanie posttraumatickej stresovej poruchy. Sestra mu môže
+poskytnúť informácie, že jeho problém nie je natoľko vážny ako si on sám myslí a
+22
+
+preto nepotrebuje dôkladnú ošetrovateľskú starostlivosť. Nie je to však pravda,
+keďže aj tento psychický problém a jeho riešenie si vyžaduje náležitú starostlivosť
+zo strany zdravotníckeho personálu (Líšková, Nádaská et al., 2006).
+− Účinnosť starostlivosti: ošetrovateľská starostlivosť musí byť poskytovaná takým
+spôsobom, aby dokázala byť účinná čo sa týka zdravotného problému, ktorý je
+prostredníctvom nej riešený. Poslaním zdravotníkov je zistiť, aká forma
+ošetrovateľstva je vhodná u konkrétneho pacienta a tú využiť. Pokiaľ bude rovnaký
+proces uskutočňovaný u rozdielnych pacientov, nie je možné dosiahnuť účinnosť
+takejto ošetrovateľskej starostlivosti. Pri niektorých zdravotných problémov sa
+musí poskytnúť konkrétna pomoc v podobe obviazania rán. Týka sa to hlavne
+fyzických bolestí. Avšak pri psychickom utrpení v podobe posttraumatickej
+stresovej poruchy, z ktorou prichádza pacient za odborníkmi sa vyžaduje liečba
+prostredníctvom terapie. Jej základom je slovo a láskavý prístup ošetrujúceho
+personálu (Farkašová et al., 2005).
+− Pohľad pacienta: pre každého pacienta predstavuje kvalita ošetrovateľskej
+starostlivosti niečo iné. Pre niektorých je za kvalitu možné označiť profesionálny
+prístup zdravotníka a odbornosť jeho úkonov, ktoré zabezpečuje v rámci celého
+ošetrovateľského procesu. Pre iného pacienta to môže byť ľudský prístup, ktorý
+hodnotí vysoko pozitívne. Nie je dôležité len to, či ošetrujúci personál si všetky
+svoje činnosti odvedie správne, prihliada sa predovšetkým na jeho ľudský prístup k
+jednotlivým pacientom.
+− Bezpečnosť prostredia: pri vykonávaní ošetrovateľskej starostlivosti je veľmi
+dôležité, aby bolo prostredie sterilné a nedochádzalo k šíreniu rôznych infekcií. To
+sa týka hlavne ošetrovania fyzických poranení. Naproti tomu psychické ťažkosti si
+vyžadujú to, aby bolo vyhovujúce prostredie v tom zmysle, aby nikto nemohol
+počuť o čom sa rozpráva pacient trpiaci posttraumatickou stresovou poruchou s
+terapeutom. Dôvodom je to, aby nedošlo u iných pacientov k posudzovaniu jeho
+zdravotného stavu a rovnako tiež aj jeho osobnosti. Mohlo by to v ňom vyvolať
+vznik určitej psychickej prekážky a nedokázal by dôverovať terapeutovi, ktorý s
+ním pracuje (Líšková, Nádaská et al., 2006).
+− Včasnosť starostlivosti: ošetrovanie pacienta musí byť poskytnuté v čo
+23
+
+najkratšom čase po tom, čo utrpel fyzické či psychické poranenie. Pri fyzických
+ranách je podstatné, aby nedošlo k ich zhoršeniu v podobe zanesenia infekcie.
+Naproti tomu pri psychických ťažkostiach je potrebné zabezpečiť, aby sa viac
+neprehlbovali. Odporúča sa riešiť ich čo najskôr po tom, čo vznikla nejaká trauma.
+Ak by tomu tak nebolo a človek by nevyhľadal odbornú pomoc, potom by to mohlo
+výrazne skomplikovať jeho fungovanie v spoločnosti. Nedokázal by žiť v kruhu
+svojej rodiny, neustále by bol zahĺbený do svojich problémov, orientoval by sa na
+prežitú traumu, každá jeho myšlienka by smerovala k nej, nedokázal by si
+plnohodnotne plniť svoje pracovné úlohy a podobne (Hanzliková et al., 2006).
+
+2.3 Ošetrovateľský proces
+Pri ošetrovateľskom procese môžeme hovoriť o nástroji alebo metóde. Je to
+profesionálne ošetrovateľstvo, poprípade liečebný proces prebiehajúci v rámci medicíny a
+poskytujúci možnosť vzdelávať sa. Toto všetko je možné označiť za charakteristiky
+ošetrovateľského procesu. Jeho zárodky sa objavili počas 50. rokoch v USA. Vtedy ako
+prvá sa zaslúžila o začiatky používania pojmu ošetrovateľstvo práve Lýdia Hall. Táto naň
+nazerala ako na proces. S jej tvrdením súhlasíme, keďže ošetrovateľstvo skutočne
+predstavuje proces, ktorý sa vyznačuje systematickosťou. Jeho úlohou je riešiť problémy
+človeka prostredníctvom výkonu ošetrovateľských činností. V týchto sú späté také potreby
+ako je akceptovanie prác každého pacienta a jedná sa o poskytovanie špecifického
+ošetrenia. Vysvetlíme to ako potrebu pacienta v tom zmysle, že jeho zdravotné problémy je
+možné riešiť určitým spôsobom. Na rôznych pacientoch nie je možné využiť úplne
+rovnaké ošetrovateľské úkony. Vždy tam existuje určitá odlišnosť. Táto vychádza zo
+zložitosti zdravotného stavu a taktiež aj odporúčaní lekára na jeho liečbu (Krišková et al.,
+2006).
+Ošetrovateľský proces tvorí:
+− Posudzovanie: ide o kompletizáciu, triedenie a overovanie jednotlivých informácii
+o zdravotnom stave konkrétneho pacienta. Potom nasleduje zisťovanie jeho potrieb
+a to, akým spôsobom by mali byť naplnené z ošetrovateľskej oblasti. Príkladom je,
+že pokiaľ pacient trpí posttraumatickou stresovou poruchou, jeho potreba bude
+24
+
+spočívať v tom, aby sa dokázal znova vrátiť do bežného života. Je to zahlcovanie
+mysle nepríjemnými spomienkami, ktoré sa viažu na traumatizujúcu udalosť.
+Veľmi žiadúce je poskytovanie terapeutickej starostlivosti. Táto má docieliť to, aby
+sa pacient postupne odpútaval od traumy a začal myslieť pozitívne.
+− Diagnostika: na tejto sa podieľa lekár spolu so sestrou. Jej zámerom je pomôcť
+pacientovi pri riešení jeho problémov. Využíva na to predovšetkým rozhovor,
+ktorým sa ho snaží ubezpečiť, že všetky jeho trápenia majú riešenie (Farkašová et
+al., 2005).
+− Plánovanie: v rámci neho máme na mysli viacero krokov, v priebehu ktorých si
+sestra vymedzuje priority a tieto predstavujú ciele. Jedná sa o očakávané výsledky
+celého ošetrovateľského procesu. Hovoríme tiež o pláne, ktorý slúži pre potreby
+ošetrovateľskej starostlivosti upriamenej na odstránenie pacientových problémov,
+akým môže byť aj posttraumatická stresová porucha. Významná je koordinácia
+celej starostlivosti od zdravotníckych pracovníkov.
+− Realizácia: pri tomto kroku ide o zavedenie ošetrovateľského plánu do praxe.
+Vidíme to v takej podobe, že sestra sa neustále snaží získavať čo najviac údajov o
+pacientovi. Tieto následne hodnotí a takto sa usiluje určiť správne východisko vo
+forme ošetrovateľskej starostlivosti (Vörösová, 2011).
+− Vyhodnotenie: po ukončení ošetrovateľskej starostlivosti dochádza k jej
+vyhodnoteniu zo strany pacienta. Ten vyslovuje svoj postoj k tomu, ako bol
+spokojný s ošetrovateľskou starostlivosťou, ktorá mu bola poskytovaná. Taktiež
+sestra uvádza, či sa v dôsledku nej podarilo vyriešiť jeho zdravotný problém
+a podobne. (Krišková et al., 2006).
+Každý jeden postup, ktorý je vykonaný v rámci ošetrovateľskej starostlivosti sa
+podrobuje dôkladnému kvalitatívnemu posudzovaniu. Dôraz sa kladie na spokojnosť
+pacienta s odvedenou ošetrovateľskou starostlivosťou. To, akým spôsobom má byť
+uskutočňované ošetrovanie vychádza z legislatívy. V nej nájdeme napríklad zákon č.
+576/2004 Z.z. o zdravotnej starostlivosti. Na jeho zavedení sa podieľala Národná rada
+Slovenskej republiky.
+
+25
+
+2.4 Marjory Gordonová a Model funkčných vzorcov zdravia
+Marjory Gordonová sa narodila v
+
+Cleavlande v štáte Ohio. Vyštudovala
+
+ošetrovateľstvo v New Yorku. Vo svojej dizertačnej práci sa venovala diagnostike
+ochorení. Túto svoju prácu obhájila a stala sa z nej neskôr profesorka a zároveň tiež
+koordinátorka ošetrovateľstva, ktoré bolo poskytované dospelým ľuďom v Massachusetts.
+Zakrátko sa z nej stala tiež prezidentka NANDA (North American Nursing Diagnosis
+Association). Okrem toho pôsobila aj ako členka, zaradená do Americkej ošetrovateľskej
+akadémie. Vytvorila ošetrovateľský model s označením „Model funkčného vzorcu
+zdravia“. Tento bol uvedený do praxe v roku 1987 (Sikorová, Bužgová, 2013).
+Model funkčných vzorcov zdravia
+Uvedený model je zameraný na systematické ošetrovateľstvo, súvisiace s analýzou
+zdravotného stavu konkrétneho pacienta. Môže sa jednať o rôzne druhy pacientov, ktorým
+je poskytovaná napríklad primárna, sekundárna, alebo aj terciárna starostlivosť. Vychádza
+z nasledovných faktorov:
+− zdravotný stav
+− kvalita života
+− získavanie nových schopností
+− približovanie sa ľudskému potenciálu
+Vedomosti o zdraví pacienta sú veľmi prínosné pre ošetrujúcu sestru, dokáže tak posúdiť
+funkčnosť správania pacienta a vymedziť konkrétne ošetrovateľské diagnózy (Krišková et
+al., 2006).
+Zmyslom konceptu, ktorý zostavila Gordonová je to, že dokáže utvárať
+systematickú komunikáciu v rámci celého multidisciplinárneho tímu. Zdravotnícky
+personál využíva odbornú terminológiu. Hovorí napríklad o funkčnom alebo nefunkčnom
+zdraví. Potom sa upriamuje na holistické potreby. Poukazuje na ľudské reakcie, venuje sa
+interakciám a zároveň prostrediu. Avšak ošetrovateľským zámerom je dosiahnutie čo
+najlepšieho zdravia pacienta a uspokojenie jeho potrieb. Ošetrujúca sestra by mala
+disponovať:
+− potrebnými schopnosťami pre vykonávanie ošetrovateľskej starostlivosti o pacienta
+− základnými jednotkami
+26
+
+− vedomosťou o cieli ošetrovateľstva
+− uvedomením si vlastnej pracovnej pozície
+− upriamením sa na ohnisko zásahu
+− zabezpečením intervencie
+− zohľadnením možných dôsledkov
+− znalosťou metaparadigmatickej koncepcie (Sikorová, Bužgová, 2013).
+Koncepcia modelu vychádza z prostredia a taktiež poukázania aj na ľudské zdravie.
+To predstavuje súhrn bio-psycho-sociálneho pôsobenia. Počas stretnutia s pacientom je
+úlohou sestry vymedziť funkčnosť vzorca jeho zdravia. Dá sa hovoriť o prínose najmä pre
+samotné zdravie pacienta, zohľadňovanie
+
+holistického prístupu a prehlbovanie
+
+ošetrovateľskej teórie. To, čo sa dalo objaviť v teórii je možné neskôr aplikovať do
+reálneho ošetrovateľstva (Hanzlíková et al., 2006).
+V rámci koncepcie, ktorú vytvorila Gordonová sa využívajú vzorce, ktoré sú
+zamerané na ľudské správanie a prostredníctvom neho je možné napokon zistiť aj
+ošetrovateľské údaje. Ak sa pozrieme na základnú štruktúru zistíme, že sa v nej nachádza
+12 oblastí. Jednotlivé z nich poukazujú na časť zdravia a posúdenie jej funkčnosti.
+Hovoríme teda o nasledovnej štruktúre modelu, kde je obsiahnuté:
+1. Vnímanie zdravia – riadenie zdravia: ide o nazeranie samotného pacienta na
+vlastný zdravotný stav, prežívanie pohody, starostlivosť o zdravie, prideľovanie
+hodnoty zdraviu, vyhliadky do budúcnosti. Sestra zhodnocuje to, či bol pacient
+v blízkej dobe napríklad prechladnutý, či bol práceneschopným, čo všetko robí
+pre svoje zdravie a aké aktivity uprednostňuje (Farkašová, 2010).
+2. Výživa – metabolizmus: analyzuje sa príjem potravy zo strany pacienta, ale
+zohľadňujú sa aj tekutiny a to vychádzajúc z metabolickej potreby. Ošetrujúca
+sestra zisťuje, ako vyzerá stravovanie pacienta, ktoré jedlá zvyčajne konzumuje
+a v akých množstvách. Zaujíma ju aj to, či je pacient fajčiarom, alebo či požíva
+alkoholické nápoje. Posudzuje tiež množstvo vitamínov v jeho organizme
+(Sikorová, Bužgová, 2013).
+3. Vylučovanie: skúma sa spôsob vylučovania pacienta, pravidelnosť, prípadné
+ťažkosti počas vyprázdňovania, zhodnotenie exkrementov, funkciu čriev,
+výskyt zápachu (Krišková et al., 2006).
+27
+
+4. Aktivita – cvičenie: vymedzenie spôsobu, akým si pacient udržiava svoju
+kondíciu. Môže to byť cvičenie alebo vykonávanie iných pohybových aktivít.
+Ošetrujúca sestra sa pýta na základné denné činnosti, ktoré pacient uskutočňuje
+a definovanie ich kvantity a kvality. Zameriava sa pritom na šport a
+voľnočasové aktivity. Úlohou sestry je poskytnúť pacientovi informácie o
+takých činnostiach, ktoré majú pre jeho zdravie veľký význam, nakoľko
+predstavujú príliv životnej sily, poprípade energie. (Hanzlíková et al., 2006).
+5. Spánok – odpočinok: zhodnocuje sa kvalita spánku pacienta a tiež priestor
+venovaný odpočinku a naberaniu nových síl. Sestra zisťuje, koľko hodín
+pacient dokáže spať, aká je jeho životná energia, ako prebieha proces
+zaspávania, či sa počas spánku zvykne budiť, akým aktivitám sa venuje pred
+spánkom, či užíva nejaké lieky alebo či je spánok natoľko výdatný, že má
+dostatok síl na plnenie každodenných povinností (Sikorová, Bužgová, 2013).
+6. Poznávanie – vnímanie: posudzuje sa zmyslové vnímanie pacienta a
+schopnosť jeho poznávania, skúmajú sa aj mentálne funkcie, schopnosť
+zorientovať sa v priestore, popísanie prípadných bolestí, možnosť neustále sa
+vzdelávať, uskutočňovať dôležité rozhodnutia. Sestra nadobúda poznatok, aký
+je pacientov sluch a či nevyužíva nejaké pomôcky na jeho úpravu. Zisťujú sa
+taktiež prípadné zrakové, pamäťové alebo vzdelávacie problémy. Zhodnocuje
+sa prítomnosť bolesti, v akom mieste sa vyskytuje a akú má intenzitu.
+Posudzuje sa napríklad komunikačná schopnosť pacienta, vyjadrovanie jeho
+názorov a podobne (Farkašová, 2010).
+7. Sebakoncepcia – sebaúcta: upriamuje sa na emocionalitu pacienta a na to, ako
+vníma svoj telesný vzhľad. Sestru zaujíma, aký má pacient názor na samého
+seba, sleduje jeho využívanie neverbálnych prejavov, zaoberá sa udržiavaním
+očného kontaktu, intenzitou hlasu, rečovými prejavmi a podobne. Pozornosť sa
+venuje prípadným pocitom strachu, ktoré sa môžu objaviť u pacienta. Okrem
+toho sa môže jednať o prítomnosť depresií, stavov napätia alebo uvoľnenia
+(Krišková et al., 2006).
+8. Plnenie rolí – medziľudské vzťahy: táto oblasť sa orientuje na spôsob prijatia
+človeka do spoločenstva a tiež to, ako si dokáže plniť vlastné životné role.
+Potrebné je venovať sa aj úrovni, na akej udržiava medziľudské vzťahy. Sestra
+28
+
+posudzuje, či pacient je schopný niesť zodpovednosť za vlastné konanie v čase
+vzniku nejakého zdravotného problému, s ktorým prichádza za odborníkom.
+Nakoľko v rodine nastávajú niekedy problémy, skúma sa spôsob ich riešenia zo
+strany pacienta a zohľadňovanie potrieb všetkých členov rodiny. V prípade
+ochorenia niektorého z členov sa posudzujú reakcie ostatných na túto
+skutočnosť. Rodina sa zaoberá predovšetkým výchovou detí a utváraním
+vzťahov, čo zisťuje aj ošetrujúca sestra u pacienta. Nadobúda sa poznatok, akú
+príslušnosť má pacient k spoločenskej skupine, ako často udržiava kontakty s
+ľuďmi a či sa neuchyľuje do ústrania. Sestra sa upriamuje taktiež na jeho
+asertivitu alebo pasivitu (Sikorová, Bužgová, 2013).
+9. Reprodukcia – sexualita: zhodnocuje sa sexuálny život pacienta a jeho kvalita.
+Môže sa objaviť poznatok hovoriaci o problémoch v tejto oblasti. Analyzuje sa
+napríklad reprodukčné obdobie, ktoré sa vyskytuje u ženy a zisťuje sa
+prítomnosť nejakých problémov. Sestru zaujíma to, či pacientka užíva
+antikoncepciu, ako prebieha jej menštruácia a či sa vyznačuje pravidelnosťou
+alebo nie. Taktiež sa pýta na množstvo narodených detí, poprípade komplikácie
+pri pôrode. Čo sa týka mužov, ktorí sa stávajú pacientmi a prichádzajú do
+kontaktu s ošetrujúcou sestrou, pri nich sa zisťuje prítomnosť pohlavných
+chorôb alebo ťažkostí súvisiacich s prostatou (Farkašová, 2010).
+10. Prispôsobenie sa - zvládanie stresu: odhaľujú sa najdôležitejšie zmeny, ktoré
+sa udiali v pacientovom živote v priebehu predošlých rokoch. Skúma sa reakcia
+na tieto zmeny, či ich pacient dokázal tolerovať a akým spôsobom sa k nim
+postavil. Zisťuje sa, či nedošlo k zhoršeniu jeho integrity, ako sa mu darí
+zvládať prichádzajúci stres, či je mu poskytovaná podpora od rodiny, aké sú
+jeho schopnosti vysporiadať sa s každodennými situáciami. Sestru zaujíma to,
+ako dokáže pacient riešiť stresové situácie (Hanzlíková et al., 2006).
+11. Hodnotová orientácia - viera životné hodnoty: analyzuje sa vnímanie hodnôt,
+náboženské vyznanie a vieru.
+12. Iné: ide o poznatky, ktoré nie sú zaradené do vyššie spomenutých oblastí
+(Sikorová, Bužgová, 2013).
+
+29
+
+3 OŠETROVATEĽSKÝ PROCES U PACIENTA TRPIACEHO
+POSTTRAUMATICKOU STRESOVOU PORUCHOU
+Ošetrovateľský proces je systematická metóda poskytovania ošetrovateľskej
+starostlivosti. Cieľom je zhodnotiť aktuálne a potencionálne problémy a stanoviť ciele
+poskytnutia ošetrovateľskej starostlivosti na dosiahnutie čo najlepšieho zdravia pacienta a
+uspokojenie jeho potrieb (Krišková et al., 2006).
+
+3.1 Kazuistika
+Vo večerných hodinách dňa 5.9.2019 bola v mestskej hromadnej doprave
+prepadnutá 65-ročná žena troma mladými mužmi. Akurát sa vracala z nákupov ako sa jej
+táto nepríjemná situácia stala. Mladí muži ju udreli päsťami do tváre. Počas prepadnutia
+stratila na niekoľko minút vedomie. Okrem fyzického útoku sa stala aj obeťou krádeže,
+kedy jej bola odcudzená hotovosť spolu s mobilným telefónom. Pomoc jej poskytli
+cestujúci, ktorí sa v rovnakom čase prepravovali v dopravnom prostriedku. Privolali
+políciu a lekársku pomoc. Po príchode záchranárov jej boli ošetrené povrchové rany a
+napokon bola prevezená aj do nemocnice s podozrením na otras mozgu.
+Aj s odstupom dvoch mesiacov si staršia žena neustále spomína na traumu, ktorú v
+ten deň prežila. Od tohto okamihu má strach chodievať sama počas tmy kdekoľvek po
+meste. Ľuďom prestala dôverovať a má problém pustiť do bytu hoci aj poštára. Každý deň
+uvažuje nad tým, prečo práve na nej bol spáchaný tento skutok. Je toho názoru, že nebola
+dostatočne opatrná. Celá situácia sa podpísala v negatívnom svetle na jej povahových
+vlastnostiach. Okolie na nej pozoruje ustavičnú podozrievavosť, nedôveru voči mladým
+mužom. Manžel a syn si neraz všimli, že je myšlienkami niekde inde. Aj napriek tomu, že
+sa s ňou rozprávajú ona ich nepočúva a hľadí kdesi do neznáma. Ťažkosti má aj so
+spánkom, pretože akonáhle čo i len na pár minút zaspí, okamžite sa jej vybaví spomienka
+na ten deň, kedy sa stala obeťou prepadnutia. Zvykne sa u nej vyskytovať panika, ak
+cestuje aj s manželom v dopravnom prostriedku a vidí v blízkosti mladých ľudí. Vždy si
+myslí, že sú pre ňu potencionálnym rizikom a že jej budú chcieť fyzicky ublížiť a okradnúť
+ju o majetok.
+
+30
+
+3.2 Anamnéza a identifikačné údaje
+Rodinná anamnéza
+Rodičia prepadnutej ženy zomreli pomerne v mladom veku. Jej matka zomrela v
+čase, kedy mala iba 15 rokov a dôvodom smrti bola rakovina. Otec skonal počas
+vysokoškolského štúdia, ktoré vtedy ešte absolvovala. Bolo to konkrétne počas štúdia
+predposledného ročníka. Danú udalosť veľmi ťažko niesla. V blízkej ani v širšej rodine
+pacientky sa nevyskytoval ani jeden prípad nejakej psychiatrickej choroby, čiže nebola to
+ani posttraumatická stresová porucha.
+Osobná anamnéza
+Pacientka je v dlhodobej starostlivosti internej ambulancie. Už od svojich 30
+rokoch je liečená na srdcovú arytmiu. Pravidelne užíva lieky. Okrem tejto zdravotnej
+komplikácie má problémy aj so zrakom, nakoľko v dôsledku pracovnej činnosti, ktorú
+vykonávala vo svojom zamestnaní došlo k poškodeniu ľavého oka a to zostalo funkčné iba
+na 20 %. Po tom, čo prežila prepadnutie nemôže spávať, nepomáhajú jej už takmer vôbec
+ani predpísané lieky, stráni sa ľudí, je neprimerane podozrievavá voči okoliu. Ustavične si
+kontroluje či má pri sebe osobné doklady a peňaženku. V každej chvíli, ak zistí, že sa v jej
+blízkosti nachádzajú mladí ľudia je vo veľkom strese. Objavujú sa u nej úzkostné stavy.
+Manžel ju presvedčil, aby vyhľadala odborníka a sám ju k nemu aj sprevádzal. Ubezpečil
+ju v tom, že všetko bude v poriadku. Po vstupnom vyšetrení na psychiatrickej ambulancii
+ošetrujúci lekár usúdil, že najprv bude určité obdobie užívať lieky a ak sa jej stav nezlepší,
+dôjde k hospitalizácii. Najprv bolo možné pozorovať, že sa začína znova vracať do
+bežného života. Potom ale nastal nejaký zlom a opätovne sa jej nepríjemné stavy vrátili. To
+bolo podnetom pre jej manžela aby ju spolu so synom odviezli do psychiatrickej liečebne,
+kde bola dlhšie obdobie aj hospitalizovaná na otvorenom oddelení.
+Farmakologická anamnéza
+Pacientka užíva lieky na srdcovú arytmiu a v dôsledku zažitej traumy jej lekár na
+psychiatrickej ambulancii predpísal aj lieky na upokojenie, ktoré užíva pravidelne.
+
+31
+
+Identifikačné údaje:
+Meno pacientky: K.S.
+Vek: 65 rokov
+Pohlavie: žena
+Rodinný stav: vydatá
+Bydlisko: Košice
+Vzdelanie: stredoškolské s maturitou
+Zamestnanie: dôchodkyňa
+Kontaktná osoba: manžel
+Oddelenie: Pavilón II.B psychiatrická liečebňa Samuela Bluma v Plešivci
+Dátum prijatia: 7.11.2019
+Fyziologické funkcie:
+TK: 135/85 torr.
+P: 75 za minútu
+D: 18 za minútu
+TT: 36,6 °C
+Stav pacientky pri prijatí:
+Pri vedomí, orientovaná v osobe, čase aj priestore správne, udržuje očný kontakt,
+komunikačné prejavy v norme, na otázky odpovedá adekvátne, badateľná menšia
+nervozita, spolupráca dobrá, sluchové problémy nezistené, zistené poruchy zraku, hlavne
+v oblasti ľavého oka používa kompenzačné pomôcky – okuliare, ústna dutina bez
+patologických zmien, hygienický stav primeraný. Upraveného zovňajšku, čisté osobné
+šatstvo, chôdza je vzpriamená, koža čistá, bez lézie, dolné končatiny bez kŕčových žíl,
+opuchov, edémov. Výška 166 centimetrov, váha 65 kilogramov
+
+32
+
+3.3 Posudzovanie potrieb pacientky podľa modelu Marjory Gordonovej
+Posúdenie dvanástich vzorcov zdravia pri príjme uľahčuje sestre rozoznať, či sa
+jedná o funkčné spávanie, alebo dysfunkčné správanie. Dysfunkčný vzorec je prejavom
+aktuálneho ochorenia, alebo môže byť znakom potencionálneho problému. Ak sa potvrdí
+dysfunkčný vzorec, sestra musí stanoviť ošetrovateľskú diagnózu a pokračovať v ďalších
+krokoch ošetrovateľského procesu (Pavlíková, 2006).
+Vnímanie zdravia
+Pacientka sa vyjadrila, že jej najväčšou prioritou je to, aby sa cítila v psychickej
+pohode a dokázala bezproblémovo fungovať v rámci rodinného života. To znamená, že by
+sa chcela plnohodnotne venovať svojmu manželovi, synovi a vnúčatám, chodievať do
+prírody a navštevovať divadlo. Pacientka je abstinentkou a nefajčiarkou, neužíva žiadne
+drogy. Dôvodom, prečo došlo k zhoršeniu jej psychického stavu je to, že prežila
+traumatickú udalosť v podobe prepadnutia v prostriedku mestskej hromadnej dopravy.
+Výživa a metabolizmus
+Pacientka sa snaží jesť pravidelne 3 krát denne, ale v posledných dňoch má menšiu
+chuť do jedla, nejedáva toľko ako kedysi, aj si všimla na sebe, že schudla asi 5 kilogramov
+v posledných mesiacoch. Od kedy si prešla ťažkými chvíľami nemá veľmi chuť do jedla, aj
+keď niečo zje, nie je jej dobre. Udáva nevoľnosti po jedle. Počas dňa dodržiava pitný režim
+a vypije približne 2 litre vody. Obľubuje bylinkové čaje, stopercentné ovocné džúsy a
+podobne. Na jej koži sa nenachádzajú žiadne opuchy.
+Vylučovanie
+Návštevu toalety zvláda pacientka sama, nepotrebuje žiadnu pomoc. Udáva
+fyziologickú a pravidelnú stolicu 1 krát za deň. Jej moč je v norme a nevyskytujú sa v ňom
+žiadne patologické znaky. Potová frekvencia je primeraná.
+Aktivita a cvičenie
+Pacientka je už na dôchodku. Rada sa podieľa na kultúrnom živote v podobe
+návštevy divadla. K jej záľubám patria prechádzky v prírode, trávenie času s vnúčatami a
+33
+
+občas si zájde aj na jógu. Vo svojom veku si dokáže upratať vlastnú domácnosť, navarí,
+operie, postará sa o záhradku. Radosť jej robí aj malý psík, ktorého s manželom dostali od
+syna, aby im spríjemňoval voľné chvíle. S týmto psíkom potom chodievajú na prechádzky.
+Dokáže sa sama pohybovať a je úplne sebestačná.
+Spánok a odpočinok
+Niekedy sa u nej prejavuje úzkosť, v dôsledku ktorej má aj problémy so spánkom. Aj po 8
+hodinovom spánku sa stále cíti byť unavená. Spánok má sprevádzaný nočnými morami,
+a často sa v noci budí. Hypnotiká takmer vôbec neužíva, výnimkou je iba silné emočné
+vybočenie, kedy ich užije. Počas dňa nemá potrebu pospať si. Jej najväčším relaxom je
+starostlivosť o psíka, menšie práce v záhradke, zväčša je to polievanie kvetov a kochanie
+sa ich krásou. Veľmi rada si prečíta zaujímavú knihu.
+Poznávanie a vnímanie
+Pacientka sa dokáže pohotovo zorientovať v priestore, jej sluch je v dobrom stave,
+so zrakom je to horšie. Vedomie je zachované a komunikácia bez problémov. Netrpí
+žiadnymi výpadkami pamäte. Je vždy otvorená možnosti niečo nové sa naučiť aj
+prostredníctvom čítania odborne zameraných kníh. Dokáže sa rozhodovať samostatne a
+dať najavo aj svoj postoj k danej skutočnosti.
+Sebakoncepcia a sebaúcta
+Pacientka nazerá sama na seba ako na optimistku, ktorá sa teší z každého nového
+dňa. V určitom momente, kedy bola obeťou prepadnutia tomu tak nebolo. Sú situácie, kedy
+ju zastihnú obavy z toho, že ju niekto znova násilne ohrozí a niekedy sa cíti nepokojne
+v blízkosti mladíkov. No nemá pocit, že by bola na tom až tak zle psychicky, len sa cíti
+istejšia v blízkosti manžela.
+Plnenie rolí a medziľudské vzťahy
+Pacientka žije v dlhoročnom manželskom zväzku, z ktorého pochádza jeden
+dospelý syn. Syn má vlastnú rodinu a chodieva za rodičmi pravidelne počas víkendov
+spolu s vnúčatami. O rodinnom zázemí je možné povedať, že je vyhovujúce, nevyskytujú
+sa v ňom žiadne významné problémy. Členovia rodiny sa aktívne zaujímajú o zdravotný
+34
+
+stav matky. Navštevujú ju, volajú si takmer každý deň, pýtajú sa jej ako sa cíti a podobne.
+Vzťah pacientky voči okoliu je nestály. Niekedy je až neprimerane komunikatívna,
+inokedy sa utiahne do vlastného sveta a nemá túžbu komunikovať s nikým. Uzatvára sa do
+seba.
+
+Reprodukcia a sexualita
+S manželom majú veľmi pekný vzťah, ale sexuálne už spolu nežijú, no v mladosti
+bol ich život pestrý. Majú spolu jedného zdravého dospelého syna. Menštruáciu mala
+naposledy asi pred 17 rokmi, vždy pravidelnú.
+Prispôsobenie sa a zvládanie stresu
+Po tom, čo staršia žena mala možnosť prežiť traumatickú udalosť v mestskej
+hromadnej doprave u nej pozorovať, že nie všetku prichádzajúcu záťaž dokáže zvládnuť
+úplne v poriadku. V niektorých momentoch na ňu reaguje veľmi nevyspytateľne, zväčša sú
+to úzkostné stavy, strach, obavy, upodozrievanie blízkych. So stresom sa vyrovnáva za
+pomoci manžela a syna. Títo sa ju snažia rozptýliť spoločnými aktivitami, aby tak odpútali
+jej myšlienky od zlých udalostí. Vždy si s manželom ráno a na obed vypijú kávu a zhrnú
+udalosti z celého dňa.
+Hodnotová orientácia – viera, životné hodnoty
+Staršia pani je kresťanského vierovyznania. Nenavštevuje však kostoly,
+a nevyžaduje bohoslužby. V jej živote je veľmi dôležité zdravie, či už vlastné alebo celej
+rodiny.
+Iné
+Pacientka si je vedomá zmeny vo svojom správaní vplyvom prežitej traumy na jej
+psychické zdravie, ale kladie personálu otázky priamo na posttraumatickú stresovú
+poruchu, o ktorej by mala rada zodpovedané otázky, a bola viacej informovaná o jej
+poruche a prejavoch. Zaujíma ju jej ochorenie a chce byť o ňom čo najviac informovaná.
+
+35
+
+3.4 Sesterské diagnózy
+Na základe posúdenia potrieb pacientky podľa koncepčného modelu Marjory
+Gordonovej v 12 funkčných vzorcoch zdravia, sme stanovili aktuálne a potencionálne
+sesterské diagnózy podľa vyhlášky 306/2005.
+Aktuálne sesterské diagnózy:
+1. E 100 - Nedostatok informácii o posttraumatickej stresovej poruche v súvislosti
+s novo diagnostikovaným ochorením prejavujúci sa verbalizáciou pacientky,
+častým kladením otázok zdravotníckemu a dožadovaním sa odpovedí.
+2. P 103 – Zmenený psychický stav v súvislosti s prežitou traumou, prejavujúci sa
+pravidelnými výkyvmi nálad, upodozrievaním blízkych a uzatváraním sa do seba.
+3. P 111 – Strach v súvislosti s prepadnutím mladíkmi prejavujúci sa verbalizáciou
+strachu, bojazlivým výrazom v tvári, neustálymi obavami ohrozenia a vyhýbaním
+sa mladistvým osobám.
+4. P 112 – Úzkosť v súvislosti s prežitou stresovou situáciou, prejavujúca sa
+vnútorným nepokojom, nepríjemným pocitom a stratou istoty bez prítomnosti
+blízkej osoby.
+5. S 140- Narušený spánok v súvislosti so základným ochorením, prejavujúci sa
+sťaženým zaspávaním, častým prebúdzaním sa počas spánku a prežívaním nočných
+môr.
+6. V 122 Zmenená výživa – menší príjem ako telesná potreba v súvislosti
+s neschopnosťou prijímať výživné látky zo psychických dôvodov, prejavujúca sa
+poklesom telesnej hmotnosti, odporom k jedlu a nevoľnosťou po jedle.
+Potencionálne sesterské diagnózy:
+1. I 111 Riziko sociálnej izolácie v súvislosti s napadnutím vo verejnom dopravnom
+prostriedku.
+2. P 104 Riziko zmeny psychického stavu v súvislosti s prežitou traumatickou
+situáciou
+
+36
+
+Sesterská diagnóza č. 1.
+E 100 - Nedostatok informácii o posttraumatickej stresovej poruche v súvislosti
+s novo diagnostikovaným ochorením prejavujúci sa verbalizáciou pacientky,
+častým kladením otázok zdravotníckemu a dožadovaním sa odpovedí.
+Cieľ: Pacientka nadobudne informácie o posttraumatickej stresovej poruche.
+Výsledné kritériá:
+− P/K si vytvorí dôveru k sestre do 1 hod.
+− P/K sa aktívne zapája do rozhovoru a kladie otázky do 30 min.
+− P/K prejavuje pozitívny vzťah k spolupráci do 1 hod.
+− P/K rozumie pojem posttraumatická stresová porucha do 1 hod.
+− P/K má informácie o jeho základnom ochorení do 3 hod.
+− P/K pozná príznaky posttraumatickej stresovej poruchy do 30 min.
+
+Intervencie:
+− Zabezpečiť vhodné prostredie na rozhovor
+− Získať si dôveru pacientky
+− Zhodnotiť schopnosť spolupráce
+− Používať výrazy, ktorým pacientka rozumie
+− Zvoliť primeraný spôsob komunikácie s pacientkou
+− Zistiť kvantitu a kvalitu informácií pacientky o ochorení a možných komplikáciách
+− Poskytnúť pacientke edukačný materiál tykajúci sa jej základného ochorenia
+− Vyzvať pacientku, aby interpretovala získané informácie
+− Zabezpečiť dostatok priestoru na rozhovor.
+− Záznam do dokumentácie
+
+37
+
+Realizácia:
+7.11.2019
+14:00 hod. – Prevedený rozhovor s pacientkou osamote na izbe, na základe často
+kladených otázok o svojom základnom ochorení, zo strany pacientky. Položila som
+pacientke otázky na zistenie kvality informácií, ktoré má, a poskytla som jej edukačný
+materiál o posttraumatickej stresovej poruche, vysvetlila som jej čo to znamená, čo to
+spôsobuje a ako sa prejavuje. Následne som vyzvala pacientku, aby mi interpretovala
+získané informácie. Odporučila som jej si edukačný materiál prečítať, a ak by mala ďalšie
+otázky, budem sa jej ešte venovať neskôr.
+16:00 hod. – Kontrola pacientky, zistenie, či edukačnému materiálu pochopila, pacientka
+mi položila zopár otázok, ktoré ju ešte zaujímali, otázky boli zodpovedané, pacientka
+verbalizovala nadobudnutie dostatočných informácií o jej základnom ochorení.
+Podpis sestry
+
+Vyhodnotenie:
+Subjektívne: „Už viem čo znamená moje ochorenie a ako sa prejavuje. Budem to už
+vedieť vysvetliť aj mojej rodine“
+Objektívne: „Cieľ sa splnil. Potreby pacientky boli zabezpečené, nadobudla informácie
+o posttraumatickej stresovej poruche, ktorým porozumela.“
+Sesterská diagnóza č.2.
+P 103 – Zmenený psychický stav v súvislosti s prežitou traumou, prejavujúci sa
+pravidelnými výkyvmi nálad, upodozrievaním blízkych a uzatváraním sa do seba.
+Cieľ: Pacientka si zlepší svoj psychický stav.
+Výsledné kritériá:
+− P/K dodržuje liečebný režim ihneď.
+− P/K je poučený o nutnosti liečby svojho ochorenia ihneď.
+− P/K aktívne spolupracuje s ošetrovateľským personálom do 2 hodín.
+38
+
+− P/K vyjadruje svoje pocity ošetrovateľskému personálu do 3 hodín.
+− P/K sa zúčastňuje na terapeutických aktivitách do 3 hodín.
+− P/K má záujem o komunikáciu so spolupacientmi do 5 hodín.
+−
+
+P/K má zvýšenú psychickú pohodu do 6 hodín.
+
+Intervencie:
+− Oboznámiť pacienta s liečebným režimom.
+− Poučiť pacienta o nutnosti liečby jeho ochorenia.
+− Nabádať pacienta na komunikáciu s ošetrovateľským personálom
+− Zapojiť pacienta do terapeutických aktivít.
+− Viesť pacienta k spolupráci s ostatnými pacientmi.
+− Zabezpečiť pacientovi psychickú pohodu.
+−
+
+Realizovať s pacientom rozhovor o jeho pocitoch a problémoch.
+
+Realizácia:
+7.11.2019
+9:00 hod. – Prevedený rozhovor s pacientkou, poučená o liečebnom režime a o potrebe
+jeho dodržiavania. Oboznámenie pacientky o nutnosti liečby jej ochorenia.
+10:00 hod. – Zapojenie pacientky do terapeutických aktivít, vedená k spolupráci so
+spolupacientmi.
+12:00 hod. – Podanie ordinovaných liekov, zjedla pod dohľadom sestry.
+13:00 hod. – Prevedený rozhovor s pacientkou o potrebe aktívneho zapájania sa do aktivít
+a komunikácie s personálom, pre zlepšenie jej psychického stavu. Pacientka verbalizuje, že
+jej je lepšie osamote.
+14:00 hod. – Zapojená do poobedňajšej terapii so psychológom, kde nadväzuje
+terapeutický vzťah a vyjadruje svoje pocity.
+15:0 hod. – Pacientka spolupracuje s ošetrovateľským personálom, ale nevytvára si
+39
+
+priateľské vzťahy medzi pacientmi, trávi voľný čas na izbe, prítomná negatívna nálada.
+16:00 hod. – Pacientke zabezpečená psychická pohoda na oddelení, vytvorené vhodné
+podmienky pre návštevy, aby mohla byť bola v pravidelnom kontakte s blízkymi.
+Podpis sestry
+
+Vyhodnotenie:
+Subjektívne: , Na terapeutických aktivitách sa zúčastňujem, ale veľmi sa mi nechce mimo
+nich zhovárať s inými pacientmi, je mi lepšie, keď som sama.“
+Objektívne: „Cieľ sa splnil čiastočne, pacientka dodržuje liečebný režim ale vyhľadáva
+samotu, a tým neprispieva k zlepšeniu svojho psychického stavu. Odporúčame pokračovať
+v naplánovaných intervenciách.“
+Sesterská diagnóza č.3.
+P 111 – Strach v súvislosti s prepadnutím mladíkmi prejavujúci sa verbalizáciou
+strachu, bojazlivým výrazom v tvári, neustálymi obavami ohrozenia a vyhýbaním
+sa mladistvým osobám.
+Cieľ: Pacientka dosiahne zmiernenie strachu.
+Výsledné kritériá:
+− P/K prijíma a toleruje liečbu podľa ordinácie lekára.
+− P/K dodržiava liečebný režim ihneď.
+− P/K je informovaná o ošetrovateľskom postupe do 10 min.
+− P/K aktívne spolupracuje podľa ošetrovateľského postupu do 30 min.
+− P/K je edukovaná o efektívnom zvládaní strachu pomocou komunikácie do 2 hod.
+− P/K otvorene komunikuje s ošetrovateľským personálom o svojich pocitoch do 3
+hod.
+
+Intervencie:
+− Povzbudzovať pacientku k vyjadreniu pocitov a názorov.
+− Využívať terapeutickú komunikáciu.
+40
+
+− Zabezpečiť emocionálny komfort úpravou prostredia.
+− Informovať o vhodných relaxačných aktivitách.
+− Umožniť kontakt s podpornými osobami a rodinou.
+− Byť pacientke neustále k dispozícii.
+Realizácia:
+8.11.2019
+6:30hod. – Prevedená úprava lôžka a prostredia na izbe pacientky.
+7:00hod. – Podané ranné lieky podľa ordinácie lekára – užila pod dohľadom sestry.
+8:00hod. – Prevedený rozhovor s pacientkou na izbe, informovaná o využívaní
+relaxačných aktivitách (pohybové cvičenia – jóga, prechádzka po čerstvom vzduchu,
+kreslenie, čítanie)
+10:00hod. – Prevedený rozhovor s pacientkou o dôležitosti vzájomnej komunikácie
+s ošetrujúcim personálom. Vyzvaná vhodným spôsobom, aby sa nebála sa zdôveriť so
+svojimi pocitmi a našla dôveru v ošetrujúcej sestre.
+12:00hod. – Podané obedňajšie lieky podľa ordinácie lekára – užila pod dohľadom sestry.
+13:00hod. - Pacientka sa stravovala v jedálni s ostatnými pacientmi, zjedla ¾ porcie.
+14:00hod. - Prevedený rozhovor s pacientkou o jej pocitoch, otvorene komunikuje
+a zdôveruje sa o svojich pocitoch s ošetrujúcou sestrou.
+15:00hod. - Pacientka mala návštevu manžela.
+16:00hod. – Pacientka verbalizuje, že sa medzi ostatnými pacientami cíti dobre, upokojuje
+ju komunikácia s ľuďmi a cíti sa mimo ohrozenia.
+Podpis sestry
+
+Vyhodnotenie:
+Subjektívne: „Som rada, že sú tu všetci na mňa takí milí, nepociťujem už strach, cítim sa
+tu v bezpečí.“
+Objektívne: „Cieľ sa podarilo splniť, pacientke boli zabezpečené jej potreby, verbalizuje
+ústup a zmiernenie strachu.“
+
+41
+
+Sesterská diagnóza č.4.
+P 112 – Úzkosť v súvislosti s prežitou stresovou situáciou, prejavujúca sa
+vnútorným nepokojom, nepríjemným pocitom a stratou istoty bez prítomnosti
+blízkej osoby.
+Cieľ: Pacientka si eliminuje úzkosť na minimum.
+Výsledné kritériá:
+− P/K prijíma a toleruje liečbu ordinovanú lekárom ihneď.
+− P/K je informovaná o ošetrovateľských postupoch a liečebnom režime do 10 min.
+− P/K aktívne komunikuje so sestrou o svojich obavách do 30 min.
+− P/K je oboznámená s možnosťami odstránenia ťažkostí do 30 min.
+− P/K má zaistené pokojné prostredie počas celej hospitalizácie.
+− P/K sa zapája do spoločenských aktivít počas celej hospitalizácie.
+− P/K prijíma rodinné návštevy počas celej hospitalizácie.
+
+Intervencie:
+− Informovať pacientku o ošetrovateľských postupoch a liečebnom režime.
+− Viesť rozhovor s pacientkou o jej obavách.
+− Oboznámiť pacientku s možnosťami odstránenia ťažkostí.
+− Zaistiť pokojné prostredie.
+− Zapájať pacientku do spoločenských aktivít so spolupacientmi.
+− Vytvoriť podmienky pre pravidelné návštevy.
+Realizácia:
+9.11.2019
+13:00 hod. – Pacientka informovaná o ošetrovateľských postupoch a liečebnom režime.
+13:30 hod. – Prevedený rozhovor o obavách pacientky, na otázky odpovedala, že cíti
+vnútorný nepokoj a necíti sa bezpečne bez blízkej osoby, najradšej by bola s manželom.
+14:00 hod. – Zaistené pokojné prostredie, a odpútanie pozornosti od obáv, odprevadenie
+pacientky do spoločenskej miestnosti, kde je zapojená do spoločenských aktivít.
+42
+
+15:00 hod. – Návšteva manžel, odprevadení na vhodné miesto, kde bude zachované ich
+súkromie.
+17:00 hod. – Prevedený rozhovor, pacientka nepociťuje nepokoj, je rada, že ju môže každý
+deň navštevovať manžel.
+Podpis sestry
+Vyhodnotenie:
+Subjektívne: „Veľmi ma teší, že za mnou môže chodiť každý deň môj manžel.
+Nepociťujem úzkosť ak je tu pokoj, potom som pokojná aj ja a nemám stres.“
+Objektívne: „Cieľ sa splnil. Pacientke boli zabezpečené jej potreby, verbalizuje zníženie
+nepokoja a elimináciu úzkosti.“
+Sesterská diagnóza č.5.
+S 140- Narušený spánok v súvislosti so základným ochorením, prejavujúci sa
+sťaženým zaspávaním, častým prebúdzaním sa počas spánku a prežívaním nočných
+môr.
+Cieľ: Pacientka si zlepší kvalitu spánku.
+Výsledné kritéria:
+− P/K edukovaná o príčinách narušeného spánku do 10 min.
+− P/K pozná príčiny narušeného spánku do 20 min.
+− P/K má zabezpečené ticho a kľud na izbe pred spaním do 30 min.
+− P/K zaspí po uložení sa do postele do 30 min.
+− P/K spí nepretržite bez prebúdzania sa do 12 hod.
+− P/K sa prebúdza oddýchnutá po 6 hodinovom spánku.
+− P/K verbalizuje kvalitu spánku do 24 hod.
+
+Intervencie:
+− Edukovať pacientku o príčinách narušeného spánku.
+− Vyzvať pacientku aby interpretovala získané informácie.
+− Monitorovať pacientku počas spánku.
+43
+
+− Zaznamenať priebeh spánku do dokumentácie.
+− Zabezpečiť pacientke tiché a pokojné prostredie na izbe.
+− Sledovať pacientku po prebudení.
+− Zistiť od pacientky kvalitu spánku.
+Realizácia:
+10.11.2019
+18:30 hod. – Prevedený rozhovor s pacientkou o príčinách narušeného spánku (pred
+spánkom veľa nejesť, vyprázdniť sa, vyvetrať si izbu, zjesť ordinované večerné lieky,
+upraviť si pohodlne lôžko, upokojiť sa a myslieť na niečo pozitívne).
+18:45 hod. – Príprava večerných liekov pre pacientku
+19:00 hod. – Pacientke podané večerné lieky – zjedla pod dohľadom sestry.
+20:30 hod. – Zabezpečené ticho a kľud na izbe.
+21:00 hod. – Kontrola pacientky na izbe, večerná toaleta prevedená, leží na lôžku.
+21:30 hod. – Pacientka upozornená na nočný kľud na oddelení, vypnuté svetlá.
+22:00 hod. – Kontrola pacientky na izbe, spí.
+00:00 hod. – Prevedená nočná kontrola na izbe, pacientka reaguje na otvorenie dverí
+otvorením očí a pretočením sa na druhý bok.
+11.11.2019
+2:00 hod. – Kontrola pacientky na izbe – nespí, verbalizuje, že nevie spať.
+5:00 hod. – Pacientka pri nočných kontrolách spala prerušovane.
+7:00 hod. – Prevedený rozhovor s pacientkou, pacientka verbalizuje, že cez noc nedobre
+spala, mala nočné mory a často sa budila.
+Podpis sestry
+Vyhodnotenie:
+Subjektívne: „Túto noc som nevedela spať, budili ma nočné mory o mojej traumatickej
+spomienke, stále ma to prenasleduje.“
+Objektívne: „Cieľ sa nepodarilo splniť. Pacientka verbalizuje časté prebúdzanie sa
+a prežívanie nočných môr. Počas služby si nezlepšila spánok, odporúčame pokračovať
+v naplánovaných intervenciách.“
+
+44
+
+Sesterská diagnóza č. 6.
+V 122 Zmenená výživa – menší príjem ako telesná potreba v súvislosti
+s neschopnosťou prijímať výživné látky zo psychických dôvodov, prejavujúca sa
+poklesom telesnej hmotnosti, odporom k jedlu a nevoľnosťou po jedle.
+Cieľ: Pacientka si zlepší príjem stravy.
+Výsledné kritéria:
+− P/K prijíma a toleruje stanovenú diétu ihneď.
+− P/K toleruje podávanie stravy ráno, na obed a večer ihneď.
+− P/K prijíma minimálne ½ porcie na raňajky, obed aj večeru ihneď.
+− P/K si udržiava telesnú hmotnosť počas hospitalizácie.
+− P/K pozná dôležitosť prijímania dostatočných živín do tela do 1 hod.
+
+Intervencie:
+− Zistiť telesnú hmotnosť pacientky.
+− Pravidelne sledovať telesnú hmotnosť a zaznamenávať ju do dokumentácie.
+− Stanoviť individuálnu diétu pre pacientku.
+− Zaistiť pravidelný príjem stravy.
+− Nabádať pacientku, aby jedla častejšie v menších dávkach.
+− Sledovať množstvo a čo pacientka zjedla a vypila a zaznamenať to do
+dokumentácie.
+− Informovať pacientku o potrebe zvýšenia živín do tela.
+Realizácia:
+11.11.2019
+6:30 hod. – Váženie pacientky – hmotnosť 75kg.
+6:50 hod. – Naordinovaná diéta a poučenie pacientky o jej dodržiavaní.
+7:50 hod. – Podané raňajky, zjedla ½ porcie chleba s maslom a so šunkou a vypila 250ml.
+čaju. Hydratovaná.
+8:30 hod. – Prevedený rozhovor, o potrebe prijímania stravy častejšie v menších dávkach
+45
+
+a dostatočného množstva živín do tela.
+10:00 hod. – Pacientka zjedla na desiatu jeden banán.
+12:30 hod. – Pacientke podaný obed, zjedla ½ porcie mäsa s ryžou, ½ porcie zeleninovej
+polievky a vypila 250ml. čaju. Hydratovaná.
+15:00 hod. – Pacientka zjedla na olovrant jeden jahodový jogurt.
+17:30 hod. – Podaná večera, pacientka zjedla ½ porcie chlieb s párkom a vypila 250ml.
+čaju.
+Podpis sestry
+
+Vyhodnotenie:
+Subjektívne: „Viem, že by som mala jesť viac, aj sa budem snažiť, len ide to pomaly.“
+Objektívne: „Cieľ sa podarilo splniť čiastočne. Pacientka zjedla ½ porcie na raňajky, obed
+aj večeru. Okrem toho zjedla aj desiatu a olovrant, ale verbalizuje, že jej zatiaľ menej stačí,
+ale časom sa to zlepší. Odporúčam pokračovať v naplánovaných intervenciách.“
+Potencionálna sesterská diagnóza č.1.
+I 111 Riziko sociálnej izolácie v súvislosti s napadnutím vo verejnom dopravnom
+prostriedku.
+Cieľ: Pacientka sa prirodzene pohybuje po oddelení medzi ostatnými pacientmi.
+Výsledné kritérium:
+− P/K aktívne komunikuje s personálom a ostatnými pacientmi počas celej
+hospitalizácie.
+− P/K má kontakt s okolím do 1 hod.
+− P/K sa aktívne zapája do spoločenských aktivít s pacientmi na oddelení do 3 hod.
+− P/K sa neuzatvára do seba do 1 hod.
+− P/K nemá pocit ohrozenia v spoločnosti cudzích ľudí do 3 hod.
+
+46
+
+Intervencie:
+− Nabádať pacientku na kontakt s okolím.
+− Vytvoriť si u pacientky dôveru.
+− Poukázať na dôležitosť komunikácie s ľuďmi.
+− Previesť rozhovor s pacientkou o jej pocitoch v spoločnosti.
+− Ukázať pacientke spoločenskú miestnosť so spolupacientami.
+− Preukázať empatiu.
+Realizácia:
+12.11.2019
+9:00 hod. – Na základe spozorovaného neprirodzeného správania pacientky na chodbe,
+prevedený rozhovor s pacientkou na izbe. Kládla som jej otázky, ako sa cíti v spoločnosti
+iných pacientov. Verbalizuje nepohodlný pocit, pocit neistoty a ohrozenia. Ubezpečila som
+ju, že tu sa môže cítiť v bezpečí, a že sme jej stále k dispozícii.
+9:30 hod. – Pacientka odprevadená do spoločenskej miestnosti, kde sa nachádzajú ostatní
+pacienti. Poukázala som na dôležitosť komunikácie s nimi a budovaní si vzťahu.
+10:30 hod. – Kontrola pacientky v spoločenskej miestnosti – komunikatívna so
+spolupacientmi, aktívne sa zapája do aktivít.
+11:00 hod. – Prevedený opakovaný rozhovor s pacientkou. Verbalizuje, že sa medzi nimi
+cíti lepšie a necíti sa byť medzi nimi ohrozená.
+Podpis sestry
+
+Vyhodnotenie:
+Subjektívne: „Cítim sa lepšie, keď sa s nimi môžem vzájomne rozprávať o problémoch
+a pocitoch, a vedieť, že nie som v tom sama.“
+Objektívne: „Cieľ sa splnil. Pacientka sa prirodzene pohybuje po oddelení medzi
+ostatnými pacientmi a aktívne sa s nimi zapája do aktivít.“
+
+47
+
+3.5 Záverečné zhodnotenie pacientky
+Prežitie traumatickej udalosti je pre každého človeka veľmi náročnou životnou
+skúsenosťou. Takouto je aj prepadnutie v prostriedku mestskej hromadnej dopravy.
+Zvyčajne sa stávajú obeťami páchateľov ľudia vo vyššom veku a to z dôvodu, že sú
+zraniteľní a nedokážu sa ubrániť. To bol prípad aj staršej ženy, ktorej bola poskytovaná
+ošetrovateľská starostlivosť. Táto žena cestovala vo večerných hodinách v mestskej
+hromadnej doprave a priamo tam sa stala obeťou agresora. Zdravotníkov jej privolali
+spolucestujúci, ktorí videli čo sa stalo a chceli jej pomôcť.
+Táto žena mala možnosť prežiť niečo traumatizujúce, na čo nedokázala zabudnúť
+ani počas niekoľko mesiacov od skutku. Dôvodom bola agresivita, ktorej bola vystavená
+neznámym človekom. Uvedená skutočnosť u nej vyvolala vznik posttraumatickej stresovej
+poruchy.
+Pacientka bola hospitalizovaná v psychiatrickej liečebni, kde bola prijatá na základe
+zhoršeného psychického stavu. U pacientky sme posudzovali potreby podľa modelu
+Marjory Gordonovej v 12 funkčných vzorcoch zdravia, kde sme zistili deficity a následne
+sme stanovili sesterské diagnózy, ktoré boli zamerané na zlepšenie jeho funkčných vzorcov
+zdravia. Zostavili sme ošetrovateľský plán, v ktorom sme sa zamerali na oblasť vedomosti,
+v ktorej sa nám podarilo spolu s aktívnou spoluprácou pacientky dosiahnuť želané
+výsledky. Ďalej na psychickú oblasť pacientky, kde sa nám podarilo uspokojiť jej
+psychické potreby. Zamerali sme sa na zlepšenie spánku, čo sa nám nepodarilo úplne
+splniť, keďže pacientka trpí ťažkými spánkovými poruchami, ktoré si vyžadujú dlhšie
+trvanie na dosiahnutie uspokojenia potreby. A v oblasti výživy sa nám cieľ podarilo iba
+čiastočne splniť, pretože si pacientka vyžaduje viacej času.
+Počas hospitalizácie pacientku pravidelne navštevoval jej manžel, čo jej nesmierne
+dopomáhalo k zlepšeniu psychického stavu, aktívne sa o ňu zaujímal a podporoval ju. Po
+ukončení hospitalizácie sa pacientka vráti naspäť do domáceho prostredia, kde ale bude
+musieť navštevovať pravidelne svojho psychiatra.
+
+48
+
+4 DISKUSIA
+V našej práci sme sa rozhodli riešiť problematiku ošetrovateľského procesu pri
+posttraumatickej stresovej poruche. Zvolili sme si kvalitatívnu metódu. Podľa Modelu
+funkčného vzorcu zdravia Marjory Gordonovej, sme získali informácie o aktuálnych
+a potencionálnych potrebách pacientky, ktorá bola obeťou napadnutia v prostriedku
+mestskej hromadnej dopravy, a následne sme sa snažili ich uspokojiť.
+Posttraumatická stresová porucha je veľmi závažný stav, ktorý postihuje človeka.
+Tento stav je spôsobený vznikom náročnej životnej situácie. Zvyčajne sú to neočakávané
+javy, ktoré sa objavia u človek a s ktorými sa nedokáže vlastnými silami vysporiadať. To
+bol aj prípad pacientky, na ktorej sme aplikovali ošetrovateľský proces. Jednalo sa o staršiu
+ženu, ktorá sa stala obeťou prepadnutia mladými mužmi počas svojej cesty v prostriedku
+mestskej hromadnej dopravy.
+Najhoršie človek prežíva násilie, ktoré voči nemu vyvinie niekto pre neho cudzí. S
+takýmto stavom sa potom nedokáže dlhodobo vysporiadať. Najhoršie je to vtedy, ak nie je
+účinná ani pomoc a opora zo strany najbližších. Niečo takéto sme pozorovali aj u staršej
+ženy, ktorá žila v spoločnej domácnosti so svojim manželom. Ani jeho psychická podpora
+jej nebola dostatočné nápomocná k tomu, aby sa dokázala vyrovnať s prežitou traumou. To
+bolo pohnútkou k tomu, že bola hospitalizovaná v psychiatrickej liečebni. V nej sa o ňu
+staral ošetrovateľský tím.
+Počas zotrvania v liečebni absolvovala niekoľko psychologických sedení, počas
+ktorých jej poskytovala asistenciu sestra. Bola jej nablízku vždy, ak niečo potrebovala.
+Starala sa o jej pohodlie, upravovala jej izbu, prostredie a pomáhala jej pri zvládaní stresu
+prostredníctvom neustálej komunikácie. Taktiež jej poskytovala všetky informácie
+o liečebných postupoch, ktoré musela dodržiavať. Z toho usudzujeme, že práca sestry je
+veľmi náročná a vyžaduje si mnoho profesionality a ľudský prístup.
+V praktickej časti sme sa zamerali na popísanie anamnézy pacientky, pričom sme
+charakterizovali rodinnú, osobnú a farmakologickú anamnézu. Týmto sme chceli poukázať
+na rôzne stránky jej života. Staršia žena sa inak správala v pokojných situáciách, kedy
+nebola ohrozovaná jej bezpečnosť ako práve po zrealizovaní útoku. Prežitie traumy
+človeka výrazne mení, vidieť to najmä na jeho správaní sa voči okoliu, kedy je zvýšene
+podráždený, podozrievavý, má strach chodievať do spoločnosti cudzích ľudí a podobne.
+49
+
+Záujmy takéto človeka sa výrazne menia, nakoľko sa vždy orientuje iba na svoje utrpenie a
+to, čo napĺňalo jeho život pred udalosťou sa akosi dostáva do úzadia.
+Staršia žena, ktorá sa rada zdržiavala v spoločnosti ľudí sa ich zrazu začala strániť.
+Zmenili sa aj jej vzťahy k najbližším, kedy boli poznateľné ťažkosti v komunikácii.
+Doposiaľ vždy veselá a optimisticky naladená osoba sa stala uzavretou do samej seba.
+Nechodievala nikam zo svojho domu. Jej manžel a syn sa o ňu začali báť. Preto sa potom
+rozhodli, že spolu s ňou navštívia odborníkov, aby im pomohli riešiť tento problém. Bolo
+to veľmi správne, keďže nie všetko, čo počas svojho života zažijeme si dokážeme aj
+svojpomocne vyriešiť. Sú isté situácie, ktoré človek dokáže zdolať prostredníctvom sily
+svojej osobnosti. Avšak prežitie traumy, akou je prepadnutie pred množstvom ľudí je niečo
+celkom iné. Človek prirodzene očakáva, že pokiaľ sa zdržiava pri veľkej skupine ľudí, nič
+sa mu nemôže stať. To isté si myslela aj staršia žena a preto potom danú situáciu veľmi
+ťažko zvládala. Zmenilo sa jej nazeranie na celú spoločnosť a pociťovala neustále obavy,
+ak sa okolo nej objavili mladí muži, keďže bola v napätí, či sa jej znova niečo nemôže stať
+a či nebude obeťou ich útoku.
+Počas hospitalizácie pacientky sestra začala hodnotiť jej aktuálny stav a na základe
+toho potom rozhodla, aké úkony budú na nej realizované. Upriamila sa na zhodnotenie jej
+stavu a zistilo sa, že nemá dostatok informácii o tom, čo bude musieť absolvovať, kvôli jej
+novovzniknutej chorobe. Tento problém bol riešený takým spôsobom, že jej sestra poskytla
+informácie o posttraumatickej stresovej poruche a nasledovnom liečebnom postupe, aký ju
+čaká počas jej liečenia. Vysvetlila jej, ako bude prebiehať bežný deň, kedy sa uskutočňujú
+vizity, terapeutické aktivity, upresnila jej čas podávania liekov a stravy a tiež to, aké
+dôležité je dodržiavanie liečebného režimu. Takto získala pacientka dostatok informácii a
+jej obavy z neznámeho boli potlačené.
+Sestra sa musela zamerať aj na odstránenie psychických zmien, ktoré sa začali
+prejavovať u pacientky. Tieto zmeny boli vyvolané prežitou traumatickou udalosťou. Práve
+táto dokáže podstatne zmeniť doposiaľ zaužívané zvyklosti. Človek sa stane akoby celkom
+inou osobnosťou, ktorej správanie sa začne odlišovať od toho predošlého. Vidieť to aj na
+povahe, kedy to, čo by za normálnych okolností bolo prežívané pokojne sa zrazu stane
+neprekonateľnou prekážkou. Príkladom je cesta v prostriedku mestskej hromadnej
+dopravy. Staršia žena ju využívala pravidelne, ale ten deň ju výrazne zmenil, respektíve to,
+čo sa počas neho udialo. Žena bola obeťou útoku a preto začala pociťovať veľké obavy, ak
+50
+
+mala využiť prostriedok mestskej hromadnej dopravy. To vyústilo do takého stavu, že
+prestala chodievať medzi ľudí a viac sa upriamila iba na samú seba. Zostávala často doma,
+nezaujímala sa ani o spoločenské podujatia.
+Spomienky na stresujúcu udalosť sa človeku vracajú aj s odstupu času. To sa
+vyskytovalo aj u pacientky, ktorá mala narušený spánok. Tomuto problému sa sestra
+venovala intenzívne, ale žiaľ, stav pacientky si vyžaduje dlhší čas na priebeh vyriešenia
+tohto problému. Často sa stáva, že nepríjemné myšlienky sa vracajú aj vtedy, ak by sme na
+ne chceli rýchlo zabudnúť. Dôvodom je ich charakter. Zvyčajne ide o spomienky na niečo
+veľmi nepríjemné, čo človeka sužuje a práve preto staršia žena trpela prežívaním nočných
+môr. Strach a úzkosť boli ďalším prejavom prežitej traumy, ktoré sa u nej preukázali.
+Agresívne správanie je prežívané veľmi ťažko, pretože obeť uvažuje nad tým, prečo sa
+agresor zameral práve na ňu a či ho niečím nevyprovokovala. Ide teda o obviňovanie
+samého seba z udalosti, ktorá sa udiala a ktorá nemá rozumné vysvetlenie. Potrebné je ale
+mať na pamäti, že agresori si vyberajú ten typ obetí o ktorých sú presvedčení, že sa
+nedokážu brániť a tým pádom hoci voči nim vyvinú agresivitu, oni aj tak nič neurobia a
+budú iba mlčky trpieť. Veľkým problémom je to najmä pre starších ľudí, o ktorých sa
+z médií dozvedáme, že boli obeťami rôznych násilných skutkov. Vždy sa iba rieši
+konkrétny čin, málokedy sa pozornosť uberá na človeka, ktorý bol v dôsledku neho vlastne
+poškodený. Neskúma sa tiež, ako sa s celou situáciou v priebehu času vyrovnal a či mu
+nevznikli nejaké psychické problémy.
+V našej práci sme zistili, aké dôležité je hodnotenie psychického stavu pacientky
+pri uspokojovaní jej potrieb a poukázali sme na fakt, že sestra musí pri dosiahnutí týchto
+cieľov využívať najviac empatický a profesionálny prístup. Ako uvádza vo svojom diele
+Komunikácia v ošetrovateľstve Kristová (2009)
+
+sestra má pacientov motivovať k ich
+
+spolupráci, v záujme zlepšenia si svojho psychického stavu. Sestra by mala mať
+komunikačné schopnosti a otvorene komunikovať o pocitoch, prežívania emócií
+a problémoch, ktoré pacienta trápia. Vytvárať si terapeutický vzťah, v ktorom je veľmi
+dôležitá dôvera, vedieť pacienta upokojiť v ťažkých situáciách a uistiť ho, že sme tu pre
+neho. Na tieto činnosti sme poukazovali aj v našej práci. Raboch (2006) vo svojom diele
+definuje posttraumatickú stresovú poruchu takto: „Postižený opakovaně prožíva
+katastrofickou událost ve snech či fantaziích, vyhýba se situácím a místum, ve kterých se
+zážitek přihodil. Jeho afektivita se stane otupělou, vyhaslou, ztráci zájem o své předchozí
+51
+
+aktivity, cíti se být odcizen lidem. Pociťuje úzkost, trpí poruchami spánku, koncentrace, je
+nadměrně ostražitý, má sklon k útekovým, panickým, či agresivním reakcím.“ Tieto
+informácie sme uvádzali aj v našej práci. Pavlíková (2006) vo svojom diele opisuje ako
+sestrám lepšie pomáha pri ošetrovateľskej starostlivosti využitie koncepčných modelov
+a následná realizácia ošetrovateľského procesu u pacienta čo sa zhoduje s našimi
+poznatkami v práci: „Pomáhají sestrám lépe pochopit souvislosti zjištěných problému,
+snadněji plánovat ošetřovatelskou péči i zjišťovat výsledky intervencí. Proto se v praxi
+ošetřovatelské teorie a modely používají ve spojitosti s ošetřovatelským procesem.“
+Cieľom našej práce bolo zamerať sa na ošetrovateľský proces priamo na pacientku
+trpiacou posttraumatickou stresovou poruchou, a možnosti využitia koncepčného modelu
+Marjory Gordonovej. Zistili sme, že tento model môžeme aplikovať pri tejto poruche
+a dokážeme ním uspokojiť potreby pacientky.
+
+52
+
+4.1 Odporúčania pre prax
+Pre sestry:
+− Účasť na odborných seminároch o posttraumatickej stresovej poruche pre lepšiu
+znalosť práce s takýmito pacientmi.
+− Navrhnúť rôzne inovatívne možnosti liečby posttraumatických stresových porúch
+prostredníctvom terapeutických činností.
+− Minimalizovať administratívnu záťaž pre kvalitnejšiu starostlivosť o pacienta
+v praxi.
+− Zlepšiť komunikačné techniky, nabádať pacientov, aby otvorene rozprávali
+o svojich emóciách a pocitoch.
+− Uplatňovať u pacienta holistický prístup.
+− Zamerať sa na kvalitné posúdenie psychického stavu pacienta a pravidelne
+hodnotiť jeho aktuálne a potencionálne problémy.
+− Edukovať pacientov a príbuzných o nutnosti vytvárania vhodných podmienok pre
+život v domácom prostredí, bez nadmernej stresovej záťaže.
+− Zabezpečiť pacientom zvyšovanie vedomostí o negatívnych dôsledkoch prežívania
+posttraumatickej stresovej poruchy prostredníctvom letákov alebo brožúrok.
+− Poučiť pacientov o dôležitosti vyhľadania odborníka v prípade vzniku relapsu
+ochorenia.
+
+53
+
+ZÁVER
+Život človeka je nevyspytateľný a nikdy nemôžeme ani len tušiť, čo si pre nás
+pripraví. Nikto nie je úplne imúnny voči vzniku neočakávaných udalostí. Tieto môžu mať
+rôzny charakter. Môže sa jednať v tom lepšom prípade o pozitívne udalosti a zasa v tom
+horšom je to napríklad agresívne správanie, namierené od cudzieho človeka. S týmto sa
+najčastejšie stretávajú ľudia vyššieho veku. Dôvodom, prečo si ich páchateľ vyberie je
+skutočnosť, že pre neho predstavujú ľahkú korisť a je si vedomí toho, že sa nedokážu
+ubrániť pred fyzickým útokom.
+Človek, ktorý je takémuto správaniu vystavený si celú udalosť a jej priebeh pamätá
+aj s odstupom určitého času. Vzniká teda u neho posttraumatická stresová porucha. S touto
+sa sám nedokáže vysporiadať a často ani s pomocou svojich blízkych a priateľov. V
+takomto prípade je zverený do rúk odborníkov, ktorí majú skúsenosti s liečbou
+spomenutých stavov a teda vedia, ako k takémuto pacientovi pristupovať.
+V mnohých prípadoch je nevyhnutné, okrem vymedzenia farmakologickej liečby,
+poskytovanie psychoterapie. Jej cieľom je pravidelným kontaktom pacienta spolu s
+odborníkom postupne odbúravať napätie, ventilovať pocity, rozprávať o tom čo ho najviac
+ťaží a hľadať spoločne možnosti, ako sa nepríjemným myšlienkam upierajúcim sa na
+traumatickú udalosť čo najskôr zbaviť, alebo ich aspoň minimalizovať.
+Práca s pacientom trpiacim posttraumatickou stresovou poruchou je veľmi náročná,
+pretože fyzické rany sa dokážu skôr zahojiť ako tie na ľudskej duši. Psychické dôsledky
+traumatickej udalosti zostávajú v mysli človeka dlhodobo a preto je poskytovanie
+ošetrovateľskej starostlivosti veľmi dôležité. Bez nej by sa človek nedokázal vyrovnať s
+tým, čo musel zažiť a neustále by sa upieral na hrôzy dňa, kedy sa mu to stalo. Najhoršie je
+to v prípade žien, ktoré mohli zažiť nejaké násilie, pretože prežívajú neustály strach
+niekam ísť, sú toho názoru, že kdekoľvek na nich môže niekto zaútočiť.
+Prínosom tejto práce pre verejnosť je to, že sa bližšie oboznámi s tým, čo
+predstavuje posttrauamtická stresová porucha, ako sa prejavuje, čo je jej spúšťačom a ako
+prebieha jej liečba. Okrem toho môže pre ľudí slúžiť ako poznatok, ako by mali
+postupovať, ak sa u nich objaví posttraumatická stresová porucha a teda, že by ju mali
+rozhodne riešiť za pomoci odborníkov a neuchyľovať sa do samoty.
+54
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+AMERICAN PSYCHIATRIC ASSOCIATION, 2010. Diagnostic and Statistical Manual of
+Mental Disorders. Fourth edition. Text Revision. DSM-IV-TR. APA Arlington, 2000/2010,
+943 s.
+BOROŇOVÁ, J. 2018. Vybrané témy z ošetrovateľskej problematiky. Trnava: Typi
+Universitatis Tyrnaviensis. 2018. 320 s. ISBN 978-80-568-0170-3.
+
+BREWIN, CH. 2015. Re-experiencing traumatic events in PTSD: new avenues in research
+on intrusive memories and flashbacks. European Journal of Psychotraumatology, vol. 6.
+
+CUSACK, K. J. et al. 2006. Unrecognized trauma and PTSD among public mental health
+consumers with chronic and severe mental illness. Community Mental Health Journal,
+2006, p. 487–500.
+ČÍRTKOVÁ, L. - VITOUŠOVÁ, P. 2007. Pomoc obětem a svědkům trestných činů. Praha:
+Portál, 2007. 191 s . ISBN: 978-80-247-2014-2.
+
+DIGANGI J. A. et al. 2017. Affective and cognitive correlates of PTSD: Electrocortical
+processing of threat and perseverative errors on the WCST in combat-related PTSD.
+Progress in Neuropsychopharmacology, vol. 75, no. 7, p. 63-69.
+FARKAŠOVÁ, D. 2010. História ošetrovateľstva. Martin: Osveta, 2010. 170 s. ISBN:
+9788080633325.
+FARKAŠOVÁ, D. et al. 2005. Ošetrovateľstvo teória. Martin, Osveta, 2005. 215 s. ISBN:
+80-8063-182-4.
+
+FRIEDMAN, M. et al. 2007. Handbook of PTSD: science and practice. New York:
+Guilford press.
+55
+
+GURKOVÁ, E. et al. 2009. Vybrané ošetrovateľské diagnózy v klinickej praxi. Martin:
+Osveta, 2009. 244 s. ISBN: 978-80-8063-308-0.
+HANZLÍKOVÁ, A. et al., 2006. Komunitné ošetrovateľstvo. Martin: Osveta, 2006. 279 s.
+ISBN: 80-8063-213-8.
+
+HOSCHL, C. et al. 2004. Psychiatrie. Praha: TIGIS, 2004. 883 s. ISBN: 80-900130-7-4.
+KRISTOVÁ, J. 2009. Komunikácia v ošetrovateľstve. 3. upravené a doplnené vydanie.
+Bratislava: Osveta, 2009. 182 s. ISBN: 978-80-8063-160-4.
+KRIŠKOVÁ, A. et al. 2006. Ošetrovateľské techniky. Metodika sesterských činností.
+Martin: Osveta, 2006. 779 s. ISBN: 80-8063-202-2.
+LATÁLOVÁ, K. et al. 2014. Posttraumatická stresová porucha. Praktický Lékař, 94 (4),
+172–176 s.
+LÍŠKOVÁ, M., NÁDASKÁ, I. et al. 2006. Základy multikultúrneho ošetrovateľstva.
+Martin: Osveta, 2006. 69 s. ISBN: 80-8063-216-2.
+MAGUROVÁ, D., MAJERNÍKOVÁ, Ľ. 2009. Edukácia a edukačný proces v
+ošetrovateľstve. Bratislava: Osveta, 2009. 156 s. ISBN: 978-80-8063-326-4.
+PAVLÍKOVÁ, S. 2006. Modely ošetřovatelství v kostce. Praha: Grada Publishing, a.s.,
+2006. s. 33-102. ISBN 80-247-1211-3.
+PERRY, B. D., SZALAVITZ, M. 2016. Chlapec, kterého chovali jako psa. Praha: Portál,
+2016. 253 s. ISBN: 978-80-262-1112-9.
+
+RABOCH, J. et al. 2006. Psychiatrie: minimum pro praxi. Praha: Triton, 2006. 263 s.
+ISBN: 978-051-1366-246.
+56
+
+RAHN, E., MAHNKOPF, A. 2000. Psychiatrie. Praha: Grada, 2000. 466 s. ISBN: 807169-964-0.
+SIKOROVÁ, L., BUŽGOVÁ, R. 2013. Family environment of hospitalized children.
+Ostrava: Ostravská univerzita, 2013.
+
+1. world cogress of children and youth health
+
+behaviors, 2013.
+SMOLÍK, P. 2002. Duševní a behaviorální poruchy. Průvodce klasifikací. Nástin
+nozologie. Diagnostika. Praha: MAXDORF, 2002. 506 s. ISBN: 80-200-0073-9.
+TOMAGOVÁ, M., BÓRIKOVÁ, I. et al., 2008. Potreby v ošetrovateľstve. Martin: Osveta,
+2008. 198 s. ISBN: 978-80-8063-270-0.
+VAŠINA, L. 2008. Základy psychopatologie a klinické psychologie. Brno: Institut
+mezioborových studií, 2008. 331 s. ISBN: 978-80-87182-00-0.
+VOROSOVÁ, G. 2011. Ošetrovateľský proces v internom ošetrovateľstve. Martin: Osveta,
+2011. 240 s. ISBN: 978-80-8063-358-5.
+VYHLÁŠKA Ministerstva zdravotníctva SR č. 306/2005 Z.z., ktorou sa ustanovuje
+zoznam sesterských diagnóz.
+WORLD HEALTH ORGANISATION, 2019. Mezinárodní klasifikace nemocí – 10. revize.
+[online].
+
+Dátum
+
+citovania
+
+[2019-11.-30].
+
+http://www.uzis.cz/zpravy/aktualni-verze-mkn-10-crke
+
+57
+
+Dostupné
+
+na:
+
+

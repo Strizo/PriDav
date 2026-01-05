@@ -1,0 +1,1553 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+PRÁVNICKÁ FAKULTA
+
+OCHRANA INFORMÁCIÍ V OBCHODNO – PRÁVNYCH
+VZŤAHOCH
+BAKALÁRSKA PRÁCA
+
+2021
+
+RÉKA KOSÁROVÁ
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE PRÁVNICKÁ
+FAKULTA
+
+OCHRANA INFORMÁCIÍ V OBCHODNO – PRÁVNYCH
+VZŤAHOCH
+BAKALÁRSKA PRÁCA
+
+Študijný program: Právo
+Študijný odbor: 30. právo
+Školiace pracovisko: Katedra obchodného a hospodárskeho práva
+Školiteľ: prof. JUDr. Mojmír Mamojka, PhD.
+
+2021
+
+RÉKA KOSÁROVÁ
+
+POĎAKOVANIE
+Touto cestou by som chcela poďakovať môjmu školiteľovi
+prof. JUDr. Mojmírovi Mamojkovi, PhD.
+za pomoc a cenné rady pri vypracovaní tejto práce.
+Réka Kosárová
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že predkladanú záverečnú prácu som vypracovala samostatne pod vedením
+školiteľa prof. JUDr. Mojmíra Mamojku, PhD. s použitím uvedenej odbornej literatúry.
+
+Réka Kosárová
+
+ABSTRAKT
+KOSÁROVÁ, Réka: Ochrana informácií v obchodno – právnych vzťahoch. [Bakalárska práca].
+Univerzita Komenského v Bratislave. Právnická fakulta, Katedra obchodného práva. Vedúci
+práce prof. JUDr. Mojmír Mamojka, PhD. Stupeň odbornej kvalifikácie: bakalár. Bratislava,
+PrafUK, 2022. 43s.
+
+Cieľom mojej práce bolo konštatovať a vysvetliť ochranu obchodného tajomstva a dôverných
+informácií na všeobecnej rovine a konkretizovať to podľa viacerých osobitných predpisov.
+Všeobecná úprava obchodného tajomstva je uvedená v § 17 – § 20 Obchodného zákonníka, kde
+sú vyjadrené základné podmienky, podľa čoho
+
+môžeme posudzovať aké skutočnosti sa
+
+považujú za obchodné tajomstvo. V takých prípadoch na tie informácie sa vzťahuje ochrana
+podľa tohto zákona. Dôverné informácie sú uvedené v § 271 Obchodného zákonníka. Pojem
+dôverná informácia je širšia ako obchodné tajomstvo, a preto je dôležité vždy presne
+zadefinovať tieto pojmy.
+
+Kľúčové slová:
+obchodné tajomstvo, ochrana, dôverné informácie, podnik, obchodná spoločnosť
+
+ABSTRACT
+KOSÁROVÁ, Réka: Protection of information in trade - legal relations. [Bachelor thesis].
+Professional thesis. Faculty of Law, Department of Commercial Law. My thesis supervisor prof.
+JUDr. Mojmír Mamojka, PhD. Degree of professional qualification: bachelor. Bratislava,
+PrafUK, 2022. p. 43.
+
+The aim of my thesis was to state and explain the protection of trade secrets and confidential
+information on a general level and to specify it according to several specific regulations. The
+general regulation of trade secrets is stated in § 17 - § 20 of the Commercial Code, where the
+basic conditions are expressed, according to which we can judge how facts are considered trade
+secrets. In such cases, that information is subject to protection under this law. Confidential
+information is listed in Section 271 of the Commercial Code. The concept of confidential
+information is broader than trade secrets and therefore it is important to always define those
+terms precisely.
+
+Keywords:
+trade secret, protection, confidential information, enterprise, commercial company
+
+1
+
+OBSAH
+
+1
+
+ÚVOD .......................................................................................................................... 8
+
+2
+
+1.1
+
+Stručný historický prehľad obchodného tajomstva ...................................................... 9
+
+1.2
+
+Pojem a znaky obchodného tajomstva ....................................................................... 10
+
+Rozpor medzi právom na informácie a právom utajovať obchodné tajomstvo ............ 14
+2.1
+Konflikt medzi zákonom o slobodnom prístupe k informáciám a k obchodným
+tajomstvám ............................................................................................................................ 15
+
+3
+
+2.2
+
+Ochrana obchodného tajomstva podľa zákona o slobodnom prístupe k informáciám
+16
+
+2.3
+
+Prevod a prechod obchodného tajomstva ................................................................... 17
+
+2.4
+
+Trvanie majetkového práva ........................................................................................ 18
+
+2.5
+
+Porušenie obchodného tajomstva ............................................................................... 19
+
+2.6
+
+Dôvody na ochranu informácií................................................................................... 20
+
+Vybrané aspekty ochrany informácií v obchodnom práve........................................... 21
+3.1
+
+Opatrenia na ochranu informácií ................................................................................ 23
+
+3.2
+
+Osobitné prostriedky ochrany obchodného tajomstva ............................................... 24
+
+3.3
+
+Aplikácia prvkov ochrany informácií ........................................................................ 25
+
+3.4
+
+Obchodné tajomstvo a know-how v súvislosti s ochranou v rámci EÚ ..................... 26
+
+3.5
+
+Ochrana obchodného tajomstva podľa Trestného zákona ......................................... 28
+
+3.6
+
+Zneužívanie informácií v obchodnom styku .............................................................. 28
+
+3.7
+
+Dôverné informácie a povinnosť mlčanlivosti ........................................................... 29
+
+3.8
+
+Zmluva o obchodnom zastúpení a povinnosť mlčanlivosti ....................................... 31
+
+3.9
+Špecifická ochrana obchodného tajomstva pri fúziach obchodných spoločností
+a družstiev ............................................................................................................................ 33
+
+4
+
+3.10
+
+Povinnosť mlčanlivosti v akciovej spoločnosti.......................................................... 34
+
+3.11
+
+Prípady cezhraničného obchodného tajomstva, USA ................................................ 36
+
+ZÁVER ....................................................................................................................... 38
+
+Zoznam použitej literatúry ............................................................................................... 40
+Zoznam použitých právnych predpisov ............................................................................. 42
+Skratky ............................................................................................................................ 43
+
+1 ÚVOD
+Téma ochrana informácií v obchodnoprávnych vzťahoch zahŕňa veľmi zaujímavé aspekty
+v prípade podniku, lebo tie skutočnosti sú základom fungovania určitej obchodnej spoločnosti.
+Ochrana obchodného tajomstva je veľmi dôležitá aj kvôli nekalej súťaži, lebo podľa toho je
+určené postavenie spoločnosti na trhu. Cieľom tejto práce je prehľad Obchodného zákonníka
+a ostatných osobitných právnych predpisov, ktoré obsahujú ochranu obchodného tajomstva
+a dôverných informácií. Takéto právne predpisy sú najmä Zákon o slobodnom prístupe
+k informáciam, Trestný zákon a rozsudky Najvyššieho súdu Slovenskej republiky.
+Problematika obchodného tajomstva je veľmi rozsiahla. Pojem obchodné tajomstvo je známe
+pre mnohých, avšak nie je jednoznačný. Ak sa začneme s témou hlbšie zaoberať, zistíme, že
+spomínaný pojem nie je až taký jasný. Nie je to náhoda, že v Obchodnom zákonníku je presne
+definovaný a jeho ochrana je striktne upravená.
+Ochranou obchodného tajomstva sa zaoberajú nielen predpisy Slovenskej republiky, ale aj
+právne akty Európskej únie. Najväčší problém sa vyskytuje v prípade zadefinovania
+obchodného tajomstva a zamiešanie s pojmom dôverných informácií. Vo viacerých prípadoch
+majiteľ obchodného tajomstva sa len označuje v určitých dokumentoch nejaké informácie pod
+pojmom obchodné tajomstvo. Ak nakoniec dôjde k porušeniu takých informácií, je veľmi ťažké
+podať návrh na súd, aby druhá strana napr. odstránila protiprávny stav alebo zaplatila primerané
+zadosťučinenie, ak nie sú splnené obligatórne znaky obchodného tajomstva. V takých prípadoch
+sa nevzťahuje na to ani ochrana podľa Obchodného zákonníka.
+V prípade dôverných informácií problematika ochrany nie je taká prísna. V takých
+prípadoch stačí jednostranný právny úkon. Dôležité informácie nie sú vždy predpokladom dobre
+fungujúcej obchodnej spoločnosti, ale základom dosiahnutia zisku alebo ovplyvňovania
+obchodovania v určitom čase alebo v určitom okruhu zákazníkov.
+Nakoniec je potrebné spomenúť rozdiel medzi obchodným tajomstvom a dôverných
+informácií, čo spočíva v tom, že je to pojem širší a nemusí spĺňať znaky podľa § 17 OBZ. Majú
+jeden spoločný znak, čo sa týka bežnej dostupnosti takýchto informácií. Podľa môjho názoru,
+najdôležitejšou úlohou tejto práce je uviesť rozdiel medzi tými pojmami a analyzovať ochranu
+8
+
+tých informácií z viacerých pohľadov podľa účinných právnych predpisov na rovine domovskej
+a zahraničnej právnej literatúry.
+1.1
+
+Stručný historický prehľad obchodného tajomstva
+História obchodného tajomstva úzko súvisí s nekalosúťažným konaním, keďže tento pojem
+
+upravoval zákon č. 111 z roku 1927, teda zákon proti nekalej súťaži. Zákon rozlišoval pojmy
+obchodné tajomstvo a výrobné tajomstvo, dnes ich však v súvislosti s ochranou obchodného
+tajomstva posudzujeme za totožné. Podľa tohto zákona – „Kdo jako zaměstnanec nebo učeň za
+trvání zaměstnaneckého nebo učňovského poměru jiné osobě neoprávněně sdělí nebo učiní
+přístupným obchodní nebo výrobní tajemství, jež mu v důsledku jeho poměru v podniku buď bylo
+svěřeno nebo stalo se jinak přístupným a jehož může býti použito za účelem soutěže, může býti
+žalován, aby se zdržel takového jednání.“1 – ak niekto porušil svoje povinnosti súvisiace
+s prístupnými informáciami, ktoré vznikli v podniku, mohol byť žalovaný, čím teda tento zákon
+chránil obchodné tajomstvo ako také2.
+Tento zákon bol nahradený novým zákonom č. 141 z roku 1950 Sb., ale potom sa pojmom
+obchodné tajomstvo začali zaoberať predpisy trestného práva, konkrétne zákon č. 148/1998 Sb.
+o ochraně utajovaných skutečností. Vtedy vznikli pojmy ako štátne tajomstvo, služobné
+tajomstvo a hospodárske tajomstvo, ktorých porušenie bolo podľa tohto zákona trestateľné.
+Pojem hospodárske tajomstvo sa stal najpríbuznejším pojmom k obchodnému tajomstvu.
+Z tohto dôvodu, ak boli predmetom určité chránené skutočnosti, inštitút vyvíjal zákaz výsluchu
+svedka alebo vylúčenie verejnosti3.
+Zákonom č. 412 z roku 2005 Sb. bol tento pojem naďalej upravovaný, kde sa pojem
+skutočnosť nahradil pojmom informácie. Právna úprava hospodárskeho tajomstva bola zrušená
+novelizovaním trestného zákonníka účinnosťou od 1.11.1998. Dnes ho upravuje zákon č.
+513/1991 Zb. Obchodný zákonník4, a to nasledovne: „Obchodné tajomstvo tvoria všetky
+skutočnosti obchodnej, výrobnej alebo technickej povahy súvisiace s podnikom, ktoré majú
+skutočnú alebo aspoň potenciálnu ,materiálnu alebo nemateriálnu hodnotu, nie sú v príslušných
+
+§ 13 zákona č. 111/1927 Sb. o ochraně proti nekalé soutěži.
+ŠTENGLOVÁ, I. a kol. Obchodní tajemství : praktická příručka, s. 9.
+3
+ŠTENGLOVÁ, I. a kol. Obchodní tajemství : praktická příručka, s. 10.
+4
+§ 17 zákona č. 513/1991 Zb. Obchodný zákonník.
+1
+2
+
+9
+
+obchodných kruhoch bežne dostupné, majú byť podľa vôle majiteľa obchodného tajomstva
+utajené a majiteľ obchodného tajomstva zodpovedajúcim spôsobom ich utajenie zabezpečuje“5.
+
+1.2
+
+Pojem a znaky obchodného tajomstva
+
+Predmetom obchodného tajomstva je komplexná úprava práv, ktoré súvisia s podnikaním.
+Ustanovenie § 17 Obchodného zákonníka obsahuje legálnu definíciu pojmu obchodné
+tajomstvo, ktorá je platná pre celú právnu úpravu, aj v prípade úpravy nekalej súťaže. Táto
+právna úprava je aj základom nekalosúťažného konania, ktorá súvisí s porušením obchodného
+tajomstva6.
+Podnikatelia často označujú konkrétne skutočnosti, resp. informácie ako obchodné
+tajomstvo, ktoré nespĺňajú znaky podľa OBZ. V takých prípadoch hovoríme o domnelé
+obchodné tajomstvo. Tie označenia môžu mať negatívny vplyv na zmluvné strany, lebo
+dotknutá strana dodrží také klauzuly, ktoré v skutočnosti nepodliehajú pod ochranou OBZ. Taká
+situácia sa môže stať vtedy, ak niektorí zo strán nemá dostatočné právne povedomie alebo
+nebola poskytnutá postačujúca právna porada7.
+V rámci obchodného tajomstva ide o obchodnú skutočnosť, kde slovo skutočnosť znamená
+„skutočnosť odlišnú od veci alebo práva, určitú imateriálnu informáciu, znalosť či schopnosť“8.
+Slová skutočnosť a informácia sú zameniteľné, a preto obchodné tajomstvo nie je len konkrétna
+informácia, alebo môže byť aj nejaký výrobok, surovina alebo látka.9 Najznámejšie skutočnosti
+sú v tomto prípade zoznamy zamestnancov alebo konkrétne taktiky používané v obchodnom
+rokovaní, kalkulácie a pripravované vzorky výrobnej povahy (teda technické poznatky,
+procesy) alebo technickej povahy, ktoré ešte nie sú právne chráneným vynálezom. Niektoré
+skutočnosti sú navzájom prepojené a hranica medzi nimi je veľmi tenká. Možno sa stretnúť aj s
+takými skutočnosťami, ktoré nemajú jednoznačne obchodnú, výrobnú alebo technickú povahu,
+
+ŠTENGLOVÁ, I. a kol. Obchodní tajemství : praktická příručka, s. 11.
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 4. vyd., s. 52.
+7
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 109.
+8
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. zväzok. Bratislava : Wolters Kluwner s. r. o.,
+2017,s. 200.
+9
+OVEČKOVÁ, O., CSACH, K., Obchodné právo 1. Všeobecná časť a súťažné právo. Bratislava : Wolters
+Kluwner SR, 2019, s. 148.
+5
+6
+
+10
+
+ale pre podnikateľa sú veľmi významné; také sú napríklad javy týkajúce sa
+konkurenciaschopnosti podnikateľa.
+Do obchodnej alebo marketingovej povahy zaraďujeme napríklad zoznam klientov a
+zákazníkov, zmluvných partnerov a informácie o nich a metódy získavania ich10.
+Najefektívnejšou formou evidovania zákazníkov a efektívne riadenie vzťahov je tzv. CRM
+systém. To je špecifický informačný systém, ktorý pozbiera údaje o firemných zákazníkoch a
+ukladá ich. Najdôležitejšou úlohou je poskytnutie prehľadu o komunikácií medzi zákazníkom a
+predávajúcim, o všetkých aktivitách zákazníka a o nákupoch. Výhody systému sú : predaj sa
+zvýši, zákazníci sú viac spokojný, nárast vracajúcich sa zákazníkov, čo súvisí napríklad s email pripomienkami, ktoré pošlú z času na čas alebo zľavovými kupónmi. Veľkou výhodou sú
+aj nízke prevádzkové a obstarávacie náklady, nové obchodné príležitosti, prehľadné údaje o
+zákazníkoch11. Do tej povahy patria aj rokovania s potenciálnymi obchodnými partnermi,
+distribučné a nákupné možnosti, obchodné stratégie alebo obsah rôznych dokumentov s
+výnimkou takých, ktoré podľa osobitných predpisov musia byť zverejnené a sprístupnené.
+Osobitné zákony sú napríklad zákon o burze cenných papierov a zákon o slobode informácií.
+Cena plnenia sama o sebe nie je spôsobilým predmetom obchodného tajomstva aj napriek tomu,
+že má síce obchodnú povahu12.
+Skutočnosti výrobnej povahy sú pripravené inovačné opatrenia vo výrobnom procese,
+postupy, návody alebo receptúry výroby, uchovávanie a spracovanie produktov13, ako aj spôsob
+spracúvania vstupných surovín a nepatentové vynálezy14.
+Do skutočnosti technickej povahy patria technické výkresy a predlohy, výsledky vývojovej
+činnosti, vzorky, vzorce, prototypy strojov, projektová dokumentácia a počítačové programy.
+Medzi nich zaraďujem aj know-how, čo je súbor skúseností a znalostí týkajúcich sa novších
+metód15.
+
+SUCHOŽA, J. Obchodný zákonník a súvisiace predpisy : Komentár, s. 98.
+Čo je CRM sytém? [online].
+12
+SUCHOŽA, J. Obchodný zákonník a súvisiace predpisy : Komentár, s. 98.
+13
+Tamže.
+14
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 109.
+15
+SUCHOŽA, J. Obchodný zákonník a súvisiace predpisy : Komentár, s. 98.
+10
+11
+
+11
+
+Dôležité je, aby mala skutočnú alebo aspoň potenciálnu hodnotu, teda aby jej hodnota
+mohla byť vyjadriteľná v peniazoch. Rozlišujú sa materiálne alebo nemateriálne povahy
+skutočností16. Tie skutočnosti nemusia mať reálny podnikateľský význam hneď na začiatku, ale
+podmienkou je, aby bolo možné predpokladať, že tento význam reálne nadobudne
+v budúcnosti17. Základným znakom obchodného tajomstva je aj to, že v konkrétnych
+obchodných útvaroch tieto informácie nie sú bežne dostupné. Bežná dostupnosť nie je
+absolútna, lebo vždy musíme skúmať určitý okruh osôb, ako v prípade receptov, ktoré používa
+jedna mexická reštaurácia v Bratislave nie je možné porovnávať s reštauráciou v Mexiku alebo
+s indickou reštauráciu v Košiciach18. Podľa mňa ten konkrét recept musí byť výnimočný
+so špecifickými zložkami a špecifickou príchuťou, ktoré nie sú dostupné v každodennom živote
+kuchárov, majiteľov reštaurácií atď. Bežná dostupnosť je ovplyvnená aj rýchlym rozvojom
+internetu a elektoronickou komunikáciou. Podmienkou tohto znaku je, aby tie informácie
+nemohli nájsť pomocou internetových prehliadačov19. Posledným znakom je nutnosť prejavenia
+podnikateľovej vôle k utajeniu týchto skutočností, pričom ich utajenie má byť zabezpečené
+zodpovedajúcim spôsobom. Utajenie je možné dosiahnuť viacerými spôsobmi, napríklad
+prostredníctvom písomných zmlúv, v ktorých podnikateľ prejavuje svoju vôľu utajiť konkrétne
+skutočnosti. Dôležité je, aby zamestnanci a obchodní partneri dodržali povinnosť mlčanlivosti.
+V súvislosti so všeobecnou ochranou informácií v obchodných spoločnostiach stručne
+uvediem, že konateľ ako štatutárny orgán štatisticky dominantnej obchodnej korporácie v
+Slovenskej republike má viaceré povinnosti, napr. podľa § 135a OBZ sú povinní vykonávať
+všetky úlohy s odbornou starostlivosťou nie len voči spoločnosti, ale aj voči jej spoločníkov.
+V najväčších prípadoch je to dosiahnutie a rozdelenie zisku medzi spoločníkmi, aby bolo
+v najväčšom záujme všetkých20.Tie povinnosti môžu byť uložené rozhodnutím valného
+zhromaždenia, zákonom, spoločenskou zmluvou alebo stanovami. Funkcia konateľa vyžaduje
+určité profesionálne predpoklady, napr. ekonomické alebo právne, aby mohol zabezpečiť
+objektívne rozhodovanie aj prípade konfliktu záujmov, ktoré sa môžu vyskytnúť v súvislosti
+
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 4. vyd., s. 53.
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 110.
+18
+Tamže.
+19
+Tamže.
+20
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. I. zväzok, Paragrafy 1 – 260, s. 539.
+16
+17
+
+12
+
+s jeho pracovnými úkonmi. Povinnosť mlčanlivosti o dôverných informáciách a skutočnostiach
+súvisí so zásadou lojality konateľa, čo znamená, že konateľ má rozhodovať v záujme
+spoločnosti a neuprednostňovať svoje osobné záujmy a tie informácie nemôže prezradiť tretím
+osobám21. Povinnosť mlčanlivosti musíme chápať v súvislosti s § 271, teda nejde o obchodné
+tajomstvo, ale o dôverné informácie, ale na druhej strane, neznamená to, že informácie týkajúce
+sa obchodného tajomstva môže prezradiť. Teda tento paragraf len rozširuje okruh chránených
+informácii22.
+Konateľ vykonáva svoju činnosť odbornou starostlivosťou odo dňa jej vzniku, až do dňa
+jej zániku. Odbornosť sa nevzťahuje na konkrétne individuálne vlastnosti konateľa, lebo
+objektívne kvalifikačné predpoklady sú predpokladom každej osobe, kto je v pozícii
+štatutárneho orgánu, teda musíme posudzovať vždy podľa konkrétneho prípadu. Konateľ vždy
+musí byť informovaný o informáciách týkajúce sa určitých skutočností, ktoré sú napr. aktuálne
+súdne konania, informácie o potenciálnych zmluvných partneroch, využívaním všetkých
+dostupných zdrojov23.
+Podnikateľ tieto údaje môže zabezpečiť aj konkrétnymi faktickými úkonmi, napr.
+zabezpečením elektronických prístrojov, na ktorých sú nainštalované rôzne antivírusové
+programy a vstup je zabezpečený heslami. Najdôležitejšiu úlohu má v takých prípadoch
+štatutárny orgán, ktorý podľa Obchodného zákonníka zabezpečuje odbornú starostlivosť.
+Osobitná starostlivosť je schopnosť konkrétnej osoby, vyjadrená pri konkrétnych úkonoch
+v obchodnej praxi. Od tejto osoby sa očakáva, aby konala v dobrej viere a zodpovedajúcim
+spôsobom. Ak chýba jeden zo spomenutých štyroch znakov, informácie sa nepovažujú za
+obchodné tajomstvo a nepodliehajú ochrane Obchodného zákonníka Slovenskej republiky24.
+V niektorých prípadoch nestačí, že podnikateľ prejaví vôľu utajiť určité informácie a označí
+ako obchodné tajomstvo, ale tie informácie nespĺňajú znaky obchodného tajomstva, teda
+samotná vôľa podnikateľa nie je dostatočná na to, aby určité informácie by mohli byť
+
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vyd. Bratislava : C. H. Beck, 2016, s. 592 - 598:
+M. Blaha.
+22
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. I. zväzok, Paragrafy 1 – 260, s. 540.
+23
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. I. zväzok, Paragrafy 1 – 260, s. 539.
+24
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 4. vyd., s. 53.
+21
+
+13
+
+považované a chránené ako obchodné tajomstvo25, z toho vyplýva aj tvrdenie, že prejav vôle je
+akceptovateľná len vtedy, ak je určitá a zrozumiteľná. Majiteľ vždy musí rozprávať
+a informovať na konkrétnych zasadnutiach alebo na valnom zhromaždení o nových
+skutočnostiach takým spôsobom, aby bolo zrejmé, že ide o obchodné tajomstvo a nie
+o každodenné, všeobecné známe informácie26. Spomenutú teóriu potvrdzuje aj Rozsudok
+Najvyššieho súdu Českej republiky, kde sa uvádza, že nutné, aby obchodné tajomstvo vždy
+naplnil obligatórne znaky podľa § 17 OBZ, inak môže byť posudzovaná ako dôverná
+informácia27.
+Právo k obchodnému tajomstvu patrí výlučne podniku, ktorý s ním prevádzkuje. V
+niektorých prípadoch, ak majiteľ prenajíma svoj podnik, právo môže vzniknúť aj nájomcovi,
+ale len v dobe prenajímania28. Podnikateľ môže od vzniku práva na obchodné tajomstvo voľne
+nakladať so skutočnosťami. Tieto práva získa na základe zmlúv. S týmito zmluvami môže právo
+na obchodné tajomstvo previesť na inú osobu; ide o zmluvy ako zmluva o predaji podniku,
+zmluva o dielo, zmluva o obchodnom zastúpení alebo aj nepomenované zmluvy. Cieľom tejto
+zmluvy je, aby zmluvný partner získal zrozumiteľný a presný prehľad o tom, v akom rozsahu a
+na aké účely môže disponovať s obchodným tajomstvom. Právo môže byť aj predmetom
+nepeňažného vkladu do obchodnej spoločnosti29.
+
+2 Rozpor medzi právom na informácie a právom utajovať
+obchodné tajomstvo
+V niektorých prípadoch dané subjekty môžu požadovať od podnikateľov také informácie,
+ktoré by boli objektom obchodného tajomstva. Konkrétne prípady sú uvedené v Obchodnom
+zákonníku Slovenskej republiky, presnejšie v § 122 ods. 2, v súvislosti so spoločnosťou
+s ručením obmedzeným, kde spoločníci môžu požadovať od spoločnosti aj také informácie,
+ktoré sú inak utajované. Druhým prípadom je § 180 ods. 1, ktorý súvisí s valným zhromaždením
+
+Rozsudok Najvyššieho súdu 1Sžo/103/2008 zo dňa 08.09.2009.
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 111.
+27
+Rozsudok Najvyššieho súdu Českej republiky sp. zn. Odo 2022/2000.
+28
+PELINKÁNOVÁ, I. Komentář k obchodnému zákoníku. 4. vyd., s. 224.
+29
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. 1. zväzok, s. 101.
+25
+26
+
+14
+
+akciovej spoločnosti. V § 180 ods. 3 sa ďalej uvádza: „Predstavenstvo je povinné každému
+akcionárovi poskytnúť na požiadanie na valnom zhromaždení úplné a pravdivé informácie a
+vysvetlenia, ktoré súvisia s predmetom rokovania valného zhromaždenia“30. Ak predstavenstvo
+nevie tieto informácie poskytnúť ústne, jeho povinnosťou je do 15 dní od konania valného
+zhromaždenia poslať akcionárom informácie písomne.31
+
+2.1
+
+Konflikt medzi zákonom o slobodnom prístupe k informáciám a k obchodným
+tajomstvám
+Existujú informácie, ktoré podnikateľ v istých prípadoch musí zverejniť. Zákonodarca
+
+ukladá v prípadoch súvisiacich s daňovými alebo fiškálnymi údajmi povinnosť postupom, ako
+vyrábať produkty adresované spotrebiteľom. Úlohou tejto úpravy je ochrana zákazníka
+a nespadá pod ochranu obchodného tajomstva.32
+Tento konflikt súvisí s povinne zverejňovanými zmluvami. V zákone č. 211/2000
+o slobodnom prístupe k informáciám sa definujú v pozitívnom aj negatívnom vnímaní.
+Pozitívne sa vymedzuje § 5a ako: „Povinne zverejňovaná zmluva je písomná zmluva, ktorú
+uzaviera povinná osoba a ktorá obsahuje informáciu, ktorá sa získala za finančné prostriedky,
+s ktorými hospodária právnické osoby verejnej správy7aa) vrátane neštátnych účelových fondov,
+alebo sa týka používania týchto finančných prostriedkov, nakladania s majetkom štátu,
+majetkom obce, majetkom vyššieho územného celku alebo majetkom právnických osôb
+zriadených zákonom alebo na základe zákona alebo nakladania s finančnými prostriedkami
+Európskej únie“33.
+
+§ 180 ods. 3 zákona č. 513/ 1991 Zb. Obchodný zákonník.
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár., s. 203.
+32
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár., s. 202.
+33
+§ 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+30
+31
+
+15
+
+2.2
+
+Ochrana obchodného tajomstva podľa zákona o slobodnom prístupe
+k informáciám
+Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám v §10 zabezpečuje ochranu
+
+obchodného tajomstva.34 Povinné osoby vždy musia preskúmavať v prípade žiadosti
+o informácií, že sú splnené všetky znaky charakterizujúce obchodné tajomstvo. Jeden z nich je
+vôľa podnikateľa chrániť obchodné tajomstvo, nestačí len to, že podnikateľ to tvrdí, povinná
+osoba musí zistiť, že v rozsahu celého dokumentu sú aj iné informácie alebo všetky tie je možné
+považovať za dôverné.35 Správny orgán je povinný odôvodniť podľa účinných právnych
+predpisoch, prečo tie informácie posúdil ako obchodné tajomstvo a uviesť to v odôvodnení
+rozhodnutia podľa § 32 a § 47 ods. 3 zákona o správnom konaní36. Rozsudok Najvyššieho súdu
+to potvrdzuje s tým : „že samotná skutočnosť, že podnikateľ označí určitú informáciu za
+obchodné tajomstvo, neznamená, že ním objektívne aj je, ak zároveň nespĺňa všetky kvalifikačné
+znaky pojmu obchodné tajomstvo uvedené v § 17 Obchodného zákonníka37.“
+Informácie, ktorých sprístupnenie nie je porušením obchodného tajomstva sú
+demonštratívne uvedené v § 10 ods. 2 tohto zákona, ktoré sú informácie týkajúcej sa závažného
+vplyvu na zdravie ľudí, svetové kultúrne a prírodné dedičstvo podľa Oznámenia Federálneho
+ministerstva zahraničných vecí č. 159/1991 Zb. o dojednaní Dohovoru o ochrane svetového
+kultúrneho a prírodného dedičstva a životné prostredie vrátane biologickej diverzity a
+ekologickej stability.38 Informácie týkajúce sa znečisťovanie životného prostredia, ktoré sú
+napríklad porucha nejakého zariadenia, čo spôsobuje poškodenie zdravia. Informácie súvisiace
+s používaním verejných prostriedkov, ako je napríklad nakladania s majetkom štátu, majetkom
+obce, majetkom vyššieho územného celku alebo majetkom právnických osôb zriadených
+zákonom, na základe zákona alebo nakladania s finančnými prostriedkami Európskej únie, ktoré
+sa získa za verejné prostriedky. V takých prípadoch verejný záujem má prednosť pred záujmami
+podnikateľa39.
+
+§10 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+WILFLING, P. – BABIAKOVÁ, K.: Právo na informácie. Výklad k zákonu o slobodnom prístupe
+k informáciám, problémy z praxe, rozhodnutia súdov, s. 34.
+36
+§ 31 a § 47 ods. 3 zákona č. 71/1967 Zb. o správnom konaní.
+37
+Rozsudok Najvyššieho súdu SR sp. zn. 6 Sž 73/01 zo dňa 28. novembra 2001.
+38
+§ 10 ods. 2 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+39
+WILFLING, P. – BABIAKOVÁ, K.: Právo na informácie. Výklad k zákonu o slobodnom prístupe k
+informáciám, problémy z praxe, rozhodnutia súdov, s. 37.
+34
+35
+
+16
+
+Informácie o štátnej moci a informácie podľa § 3 ods. 2 tohto zákona, ktoré sú: „informácie
+o hospodárení s verejnými prostriedkami, nakladaní s majetkom štátu majetkom vyššieho
+územného celku alebo majetkom obce, o životnom prostredí, o úlohách alebo odborných
+službách týkajúcich sa životného prostredia a o obsahu, plnení a činnostiach vykonávaných na
+základe uzatvorenej zmluvy.“40 Porušenie obchodného tajomstva nie je sprístupnenie povinne
+zverejňovanej zmluvy. Povinne zverejňované zmluvy majú písomnú podobu. Uzaviera ju
+povinná osoba. Obsahom je hospodárenie s verejnými finančnými prostriedkami právnických
+osôb verejnej správy, nakladanie s majetkom štátu, obce a vyšších územných celkov, Európskej
+únie a právnických osôb zriadené zákonom.41 Tie zmluvy sú vymedzené aj negatívne podľa §
+5a ods. 5 tohto zákona ako napríklad služobná zmluva, zmluva týkajúca sa cenných papierov,
+zmluva týkajúca sa razby mincí, medailí, žetónov alebo obdobných predmetov42.
+
+2.3
+
+Prevod a prechod obchodného tajomstva
+Poznáme dva druhy prevodu obchodného tajomstva, prvým spôsobom je tzv. translatívny
+
+prevod, kde podnikateľ, kto má výlučné právo k obchodnému tajomstvu môže previesť nielen
+právo na jeho využitie, ale aj obchodné tajomstvo celkovo, teda zmení svojho majiteľa. Táto
+zmluva je inominátna podľa § 269 ods. 2 OBZ a podporne používame ustanovenia o kúpnej
+zmluve a ustanovenia o zodpovednosti za vady. Takým prevodom pôvodnému majiteľovi
+zaniká právo využívať obchodné tajomstvo, teda je to prevedenie na druhú osobu43. V takom
+prípade ide o tzv. „pravý prevod majetkových práv“. S takými situáciami môžeme stretnúť aj
+v bežnom živote, kedy niekto kvôli veku, pracovnej neschopnosti sa nechce s tými činnosťami
+naďalej zaoberať, kvôli zániku spoločnosti alebo ak dostane od konkurenčnej spoločnosti takú
+ponuku, že sa oplatí previesť tie práva. V niektorých prípadoch nedôjde k zániku dotknutej
+spoločnosti, len k zúženiu predmetu v konkrétnych oblastiach, ako napríklad zahraničná sieť
+
+§ 3 ods. 2 zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+§ 5a ods. 1 zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+42
+§ 5a ods. 5 zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+43
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár., s. 206.
+40
+41
+
+17
+
+dodávateľov s konkrétnymi materiálmi stavebnej spoločnosti, kde táto spoločnosť v budúcnosti
+bude využívať len interných subdodávateľov pôsobiacich na území Slovenskej republiky44.
+Druhým spôsobom je tzv. „konštitutívny prevod“, kedy pôvodný podnikateľ povolí
+využívať obchodné tajomstvo iným subjektom nestratí oprávnenie k obchodnému tajomstvu,
+ale mu umožní súbežné nakladanie45. Tento súhlas v najväčších prípadoch udeľuje na základe
+licenčnej zmluvy podľa § 508 a nasl. OBZ. Tento úkon môže byť jednostranný, konkludentný,
+ústny. Po udelení nemôže sa dovolávať práv z ochrany v súvislosti s predmetným obchodným
+tajomstvom46. Najčastejšie túto zmluvu využívajú spoločnosti, ktoré majú záujem profilovať
+nad rámec využitím obchodného tajomstva alebo už nemá dostatočné miesto, aby mohla
+využívať v plnom rozsahu. Zabezpečiť ochranu obchodného tajomstva už má nielen pôvodný
+majiteľ, ale aj nový, nadobúda ho prostredníctvom licenčnej zmluvy. Táto nová osoba musí
+ochranu zabezpečiť v celom rozsahu, ako pôvodný a urobiť všetky opatrenia na to, aby nebolo
+v rozpore s predmetom obchodného tajomstva a naďalej spĺňal všetky znaky podľa OBZ.
+V niektorých prípadoch je to ťažko kontrolovateľné, lebo obidve subjekty sú navzájom
+nezávislé a samostatné. Takýto prevod je možné zabezpečiť nielen licenčnou zmluvou, ale aj
+mandátnou alebo komisionárskou zmluvou47.
+
+2.4
+
+Trvanie majetkového práva
+Trvanie tohto práva trvá, kým sú splnené znaky obchodného tajomstva, ktoré sú uvedené v
+
+§ 17 OBZ, teda nie je časovo obmedzené. V prípade, ak obchodné tajomstvo zanikne, teda
+zanikne jeden zo štyroch obligatórnych znakov, naďalej môže byť uplatnený nárok z jeho
+porušenia v čase, keď ešte tá informácia splnila znaky obchodného tajomstva48. Nie je vylúčené
+ani to, že po určitom čas zaniknuté obchodné tajomstvo nanovo naplní znaky obchodného
+tajomstva, a odvtedy sa vzťahuje na tie informácie ochrana obchodného tajomstva49 .Obchodné
+
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 112.
+45
+Tamže.
+46
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár., s. 207.
+47
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 113.
+48
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár., s. 208 – 209.
+49
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. 1. zväzok, s. 100.
+44
+
+18
+
+tajomstvo má veľkú výhodu oproti patentovanej ochrane, lebo tá ochrana trvá len 20 rokov odo
+dňa podania patentovanej prihlášky podľa § 29 zákona č. 435/2001 Z.z. o patentoch alebo oproti
+ochrane úžitkového vzoru, čo trvá 4 roky od podania prihlášky a je možné predĺžiť maximálne
+na 10 rokov podľa § 26 zákona č. 517/2007 Z.z o úžitkových vzoroch50.
+
+2.5
+
+Porušenie obchodného tajomstva
+Porušenie obchodného tajomstva je vymedzené v § 51 OBZ 51. Porušenie je také konanie,
+
+ktorým konajúci inej osobe neoprávnene sprístupní, prípadne na ciele vlastnej potreby alebo
+potreby iného využije obchodné tajomstvo, ktoré sa môže využiť v súťaži a o ktorom sa
+dozvedel tak, že sa mu tajomstvo zverilo, alebo sa stalo inak prístupným na základe jeho
+pracovného alebo iného vzťahu k súťažiteľovi alebo na základe iného vzťahu k nemu, prípadne
+v rámci výkonu funkcie, na ktorú ho súd alebo iný orgán povolal, vlastným alebo cudzím
+konaním priečiacim sa zákonu52. Porušenie a ochrana úzko súvisí s právom duševného
+vlastníctva. Okrem toho, že počítačové programy, know-how, vynálezy, zručnosti a schopnosti
+zamestnancov sú chránené Obchodným zákonníkom a Autorským zákonom, je dôležité si
+uvedomiť aj to, že ak skutočnosti nenapĺňajú pojmové znaky vymedzené ustanovením § 17
+Obchodného zákonníka, nestanú sa predmetom obchodného tajomstva a dohoda medzi
+zmluvnými stranami o tom, že určité náležitosti zmluvy tvoria predmet obchodného tajomstva,
+nie je dostačujúca53. V niektorých prípadoch majiteľovi obchodného tajomstva patrí súdna
+ochrana podľa § 20 OBZ aj vtedy, ak nedôjde k neoprávnenému sprístupneniu alebo využívaniu,
+ale len zhromaždia údaje tvoriace obchodné tajomstvo bez vedomia zamestnávateľa54.
+Ustanoveniami § 51, § 53 až § 55 OBZ môže argumentovať a využívať v súvislosti so
+súdnou ochranou nielen konkrétny súťažiteľ, ktorého práva boli porušené, ale aj všetky subjekty
+nekalosúťažného konania, kde boli ich práva porušené alebo ohrozené vo všeobecnosti. Niektorí
+konkurenti majú veľmi podobný predmet podnikania, a preto predmet obchodného tajomstva
+
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vyd. s. 74 – 75.
+§ 51 zákona č. 513/1991 Zb. Obchodný zákonník.
+52
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vyd. s. 218.
+53
+Rozsudok Najvyššieho súdu SR, sp. zn. 5 Obo 98/99.
+54
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 211.
+50
+51
+
+19
+
+by mali mať nadmierne obdobný. Ak nastane taká skutočnosť, že nedotknutý súťažiteľ
+s podobným predmetom obchodného tajomstva, by mohol utrpieť negatívne následky, nakoniec
+aj škodu z takých úkonov, kedy nie sú priamo jeho práva ohrozené alebo poškodené. Právna
+úprava umožňuje podať návrh aj spotrebiteľovi pred nekalosúťažným porušením obchodného
+tajomstva55.
+Tie ustanovenie je možné aplikovať vtedy, ak naplní znaky skutkovej podstaty podľa § 4
+OBZ, ktoré sú všeobecné podmienky. Tie znaky sú vyjadrené v tom konkrétnom ustanovení
+„Nekalou súťažou je konanie v hospodárskej súťaži, ktoré je v rozpore s dobrými mravmi súťaže
+a je spôsobilé privodiť ujmu iným súťažiteľom alebo spotrebiteľom. Nekalá súťaž sa
+zakazuje.“56 – teda ako vyššie spomenuté ustanovenie uvádza, znaky sú konanie v hospodárskej
+súťaži, rozpor s dobrými mravmi, spôsobilosť privodiť ujmu iným súťažiteľom alebo
+spotrebiteľom. Spolu s § 44 OBZ musí kumulatívne napĺňať aj znaky uvedené v § 51 OBZ.
+V prípade vyzradenia obchodného tajomstva vyžaduje neoprávnený prístup k obchodnému
+tajomstvu. Na druhej strane netreba preukazovať konkrétny účel konajúcej osoby, pre ktorý
+obchodné tajomstvo vyzradila, znalosť protiprávnosti svojho konania. Vyzradenie môže byť
+odplatné alebo bezodplatné, nakoniec nie je dôležité ani zavinený charakter jej konania57.
+
+2.6
+
+Dôvody na ochranu informácií
+Tie informácie sú základom samotného podniku, lebo ak by stratila hodnota tých
+
+informácií, zanikol by aj tento podnik a zostala by len budova s zariadením. Tie hodnoty sú
+nákladné, citlivé a pominuteľné, ktoré ak stratia svoju hodnotu, podnik nebude schopný
+udržiavať jeho konkurencia schopnosť a to ohrozuje aj celé jeho prežitie. Informácie majú veľkú
+hodnotu aj samy osebe, ako napríklad plány a stratégie podniku, ktoré sú veľmi dôležité aby
+podnik bol úspešný na trhu. Kradnutými informáciami konkurenčné firmy môžu preskočiť
+konkrétne úkony, ušetriť čas a nakoniec výsledkom je získanie náskoku na úkor tohto podniku58.
+
+Tamže.
+§ 44 zákona č. 513/1991 Zb. Obchodný zákonník.
+57
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 211.
+58
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 17.
+55
+56
+
+20
+
+Najdôležitejšie sú informácie o výrobku, strategické poznatky týkajúce sa informácie
+o trhu, vlastnosti a schopnosti pracovníkov, podnikateľské plány, finančné údaje, informačné
+náklady. Tie informácie nie je možné nahradiť ako napríklad je v prípade surovín, ľudí alebo
+kapitálu, lebo ich nahradíme novou ľudskou silou, možno lepšími schopnosťami, ale tú
+konkrétnu ukradnutú stratégiu nemôže v budúcnosti naďalej používať59.
+
+3 Vybrané aspekty ochrany informácií v obchodnom práve
+V prípade porušenia obchodného tajomstva zákon chráni osobu, ktorej práva a právom
+chránené záujmy boli porušené. Právne prostriedky sú v takom prípade podobné ako pri ochrane
+proti nekalej súťaži. Takýmito prostriedkami sú žaloba na zdržanie sa konania, žaloba na
+odstránenie závadného stavu, žaloba na náhradu škody, žaloba na primerané zadosťučinenie
+a žaloba na vrátenie bezdôvodného obohatenia60. Teda, ochrana obchodného tajomstva je
+neformálna, znamená to, že nevzniká registráciou alebo zápisom, ale ak naplní všetky znaky
+podľa § 17 OBZ 61.
+Žaloba na zdržanie sa konania je ochrana pred takým konaním, pri ktorom hrozí a je
+predpokladateľné, že sa zopakuje aj v budúcnosti, prípadne už trvá a má negatívne právne
+následky. Odstraňovacia žaloba sa používa, ak je potrebné odstrániť protiprávny stav. Žaloba
+na náhradu škody je kompenzačným nástrojom v prípade náhrady materiálnej ujmy vzniknutej
+následkom porušenia obchodného tajomstva. Vo viacerých situáciách je táto ujma ťažko
+preukázateľná, rovnako ťažko preukázateľný je aj kauzálny nexus medzi ujmou a tajomstvom.
+Primerané zadosťučinenie súvisí so satisfakčnou žalobou. Používame ho, ak potrebujeme
+odstrániť určitú nemajetkovú ujmu. Forma domáhania môže byť peňažná aj nepeňažná, závisí
+to od vôle oprávneného subjektu. Žalobca v každom prípade musí preukázať, že následkom
+porušenia je nemajetková ujma a je dôležité, aby skutková podstata porušenia obchodného
+tajomstva bola naplnená podľa Obchodného zákonníka. V takýchto prípadoch súd vždy podľa
+závažnosti prípadu zváži, či nie je dostačujúca náhrada v nepeňažnej forme, akou je napríklad
+
+Tamže s. 18 – 20.
+SERÁTOR, M. Spôsoby súdnej ochrany obchodného tajomstva. [online].
+61
+Rozsudok Najvyššieho súdu Českej republiky sp. zn. 21 Cdo 617/2005.
+59
+60
+
+21
+
+ospravedlnenie. Ak niekto bezdôvodne získa prospech od žalovaného, porušuje obchodné
+tajomstvo. Rovnako ako v prípade náhrady škody je príčinná súvislosť medzi vznikom
+majetkového prospechu a porušením práva ťažko preukázateľná62.
+Žalobu môže podať len aktívne legitimovaný subjekt, ktorý je podnikateľom, teda ten
+subjekt, ktorému obchodné tajomstvo patrí. Právna ochrana patrí nielen fyzickej osobe, ale
+rovnako aj právnickej osobe. V súvislosti s obchodným tajomstvom je protiprávnym úkonom aj
+ohrozenie práva, nielen porušenie, a preto je v takých prípadoch ochrana absolútna. Ochrana má
+viaceré funkcie, najvýznamnejšie z nich sú reštitúcia, reparácia, satisfakcia a zdržovanie. Tieto
+nároky odkazujú na ochranu nekalej súťaže, ale sú použiteľné aj v spojitosti s obchodným
+tajomstvom. Relatívna ochrana je odlišná od absolútnej ochrany z toho hľadiska, že v prípade
+absolútnej ochrany, ak osoba poruší obchodné tajomstvo, toto porušenie sa musí bez zbytočného
+odkladu oznámiť podnikateľovi, lebo je v ňom chránená aj osobitná majetková podstata
+podnikateľa63.
+Existujú viaceré skutočnosti, ktoré sú nezákonné a spôsobia porušenie obchodného
+tajomstva, ako napríklad získanie informácií nevhodnými prostriedkami, ktorými poruší určité
+pravidlá a zároveň následkom je aj strata dôvery, informácie získané od tretej osoby,
+podmienkou je, aby osoba bola vedomá, že tá tretia osoba ich získala nevhodnými
+prostriedkami64.
+Nie všetky informácie v rámci určitej spoločnosti je vhodný chrániť a vo viacerých
+prípadoch za to zodpovedá riaditeľ bezpečnostného oddelenia daného podniku, resp. vrcholový
+manažment. Je dôležité, aby každá organizácia si zabezpečila vyhovujúcu ochranu obchodného
+tajomstva. Dokumentácia, čo obsahuje obchodné tajomstvo by sa mala vhodne označovať, aby
+bola harmonizovaná s nariadeniami podniku v danej oblasti. Dostupnosť daných informácií
+mala by byť povolená len tým, ktorí s ňou musia byť oboznámený. Musia to udržiavať na
+bezpečnom mieste alebo ak tá dokumentácia už nie je potrebná, môžu aj hneď zničiť, aby
+nedošlo jej k zneužitiu65. V prípade veľkých projektov veľmi zaručený spôsob používaný na
+
+SERÁTOR, M. Spôsoby súdnej ochrany obchodného tajomstva. [online].
+Tamže.
+64
+BROOKING, A.: Intellectual Capital: Core Asset for the Third Millennium Enterprise, s. 57.
+65
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 44.
+62
+63
+
+22
+
+ochranu obchodného tajomstva je izolácia vybraných kľúčových prvkov projektu, bez ktorých
+by nebolo možné zabezpečiť kompletný projekt. S takým spôsobom by mohli minimalizovať
+náklady potrebné na uchovanie utajených materiálov66.
+Podstatné je, aby zamestnanci boli oboznámený s podnikovou stratégiou a konkrétnym
+etickým kódexom schválené v danom podniku. Existujú aj písomné prehlásenia, ktorými nový
+pracovníci dajú súhlas, že neprenášajú žiadne obchodné tajomstvo inej organizácie. To
+neznamená, že zamestnanci nemajú právo preniesť ich osobné schopnosti, vedomosti
+a skúsenosti, len do tej miery, kým nenarušia špeciálnu dôveru vyplývajúcu z pracovného
+pomeru a netýka sa to využitia obchodného tajomstva zamestnávateľa. V praxi častokrát sa
+stáva, že zamestnanci odídu do konkurenčnej firmy, ale pred tým by bolo potrebné vždy
+konkretizovať, ktoré informácie musia zostať chránené. Odchod zamestnanca sa musí
+realizovať bez toho, aby sa vyzradili osobnosti istých obchodných tajomstiev a uchovávanie
+záznamov o podobnej situácii by bolo dôležité v prípade súdneho konania v prípade porušenia
+obchodného tajomstva67.
+
+3.1
+
+Opatrenia na ochranu informácií
+Druhy ochrany informácií sú fyzická ochrana, logická ochrana, procedurálna ochrana. Do
+
+fyzickej ochrany sa zahŕňajú činnosti, procesy, známky na dverách alebo pozorovanie
+konkrétnych objektov a priestorov. Logická ochrana sa zaoberá s počítačovými systémami,
+ktoré sú logické prístupy a procesy autorizácie kódov. Procedurálnu ochranu je možné
+charakterizovať ako administratívne činnosti, ktorých úlohou je kontrolovanie a obmedzovanie
+prístupu k informáciám. Tie sú napríklad kryptogramové klúče, manažérske rozhodnutia
+o jednotlivých informácií, školenie a motivovanie zamestnancov k ochrane alebo vydanie
+písomných nariadení o ochrane obchodného tajomstva68.
+Vždy v konkrétnych situáciách treba analyzovať pravdepodobnosť rizika a poznanie tohto
+rizika znamená znalosť usporiadania pravdepodobnosti, že dôsledkom tejto činnosti je únik
+
+Tamže, s. 45.
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 44.
+68
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 75.
+66
+67
+
+23
+
+alebo strata informácie. Na analyzáciu tých problémov existuje množstvo softvérov, ktoré
+analyzujú rizikovosť spojenú s informačnými zariadeniami. Analýza v najväčších prípadoch sa
+zakladá zo sérií expertných odhadov. V poisťovníctve je veľmi efektívne využiteľná, kvôli
+veľkému množstvu dlhodobých údajov, napríklad o osobných údajov klientov, o zodpovednosti
+za škody, o platbách69.
+Osoby poverené zabezpečiť ochranu podnikových údajov majú povinnosť identifikovať
+najhrozivejšie riziká na základe zozbieraných informácií z daného podniku alebo zo štátnych,
+akademických zdrojov. Napríklad v praxi sa vyskytnú príklady, kedy v podniku sú údaje, ktoré
+klasifikované ako personálne ako aj prísne tajné údaje. V takých prípadoch treba zakódovať
+spomenuté údaje pri ich ukladaní a zaviesť špeciálne procesy, ktorými podnik obmedzuje práva
+tretích osôb tým, že nemá každý prístup k týmto informáciám70.
+
+3.2
+
+Osobitné prostriedky ochrany obchodného tajomstva
+Novela zákona zaviedla dva významné inštitúty súvisiace s obchodným tajomstvom, ktoré
+
+sú neodkladným a náhradným opatrením. Pomáhajú v tom, aby sa porušenie vyriešilo oveľa
+rýchlejším a flexibilnejším spôsobom. Cieľom je, aby náhrada mala trvalý charakter71.
+Neodkladné opatrenia sú vymedzené v Obchodnom zákonníku v § 55b. Cieľom je rýchla
+náprava pomerov. Jeho špecifikácia spočíva aj v tom, že súdy majú možnosť od navrhovateľa
+požadovať predloženie viacerých dôkazov, napríklad vlastníctvo k obchodnému tajomstvu,
+z ktorých je porušenie reálne existujúceho obchodného tajomstva zrejmé. Opatrenia sú v úzkom
+vzťahu so zásadou individualizácie, čo znamená, že súdy posudzujú vždy podľa konkrétnych
+individuálnych
+
+prípadov
+
+a
+
+zohľadňujú
+
+osobitné
+
+okolnosti
+
+konkrétneho
+
+prípadu.
+
+Navrhovateľom je majiteľ obchodného tajomstva, ktorý má právo vybrať si z viacerých
+
+Tamže, s. 77.
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 79.
+71
+SIXTA, J. – BENCOVÁ, E. Chránite si svoje obchodné tajomstvá? Čo je obchodné tajomstvo a ako ho chrániť
+[online].
+69
+70
+
+24
+
+opatrení, taxatívne vymedzených v zákone. Neodkladnými opatreniami môžu súdy uložiť
+zaistenie alebo odovzdanie tovaru, môžu tiež zakázať jeho výrobu72.
+Majiteľ môže podať návrh, aby súd nariadil rušiteľovi určitých povinností, ktoré sú najmä
+ukončenie alebo zákaz využívania a sprístupňovania obchodného tajomstva, zaistenie alebo
+odovzdanie tovaru, ktorým bolo porušené právo k obchodnému tajomstvu, zákaz doviesť,
+ponúknuť alebo využívať ten tovar ktorými bolo obchodné tajomstvo porušené. Namiesto
+neodkladných opatrení rušiteľ má povinnosť do úschovy zložiť aj zábezpeku v súvislosti
+s náhradou škody. Zábezpeka je základom pre nariadenie neodkladného opatrenia73.
+Nápravné opatrenie sú vymedzené v § 55b OBZ. Nápravné opatrenia sú odlišné od
+neodkladných opatrení v tom, že predložených je možné uložiť v rámci meritórneho
+rozhodnutia. Podľa zákona môže súd namiesto nápravného opatrenia uložiť peňažnú náhradu,
+ale iba v prípade splnenia viacerých podmienok, ako napríklad dobromyseľnosť rušiteľa, vznik
+neprimeranej ujmy a úsudok, že peňažná náhrada je dostatočne priaznivá74. V takých prípadoch
+súd môže uložiť povinností, ktoré spočívajú napr. v ukončení alebo zákaze využívania
+obchodného tajomstva, zničení všetkých dokumentov, materiálov a predmetov, ktoré obsahujú
+alebo tvoria predmet obchodného tajomstva. Ak je porušenie veľmi závažné, môže súd uložiť
+rušiteľovi, aby povinne zverejnil rozhodnutie vo veci samej75.
+
+3.3
+
+Aplikácia prvkov ochrany informácií
+Základné pravidlo v prípade fyzickej ochrany, že také osoby, ktoré vstúpia do priestorov
+
+toho podniku, nemajú kompetenciu a nie sú zamestnancami nemali by mať prístup
+k oddeleniam, kde môžu mať možnosť napríklad odfotiť, odkopírovať alebo uvidieť neverejné
+informácie, čo patrí do obchodných tajomstiev danej firmy. Podľa môjho názoru najdôležitejšie
+je, aby nenechávali na ich kancelárskych stoloch dôležité dokumenty, vždy zamykali
+
+SIXTA, J. – BENCOVÁ, E. Chránite si svoje obchodné tajomstvá? Čo je obchodné tajomstvo a ako ho chrániť
+[online].
+73
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 212.
+74
+Tamže.
+75
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 213.
+72
+
+25
+
+a uchovávali tie informácie, ak dané informácie sa nachádzajú v počítači, treba vypnúť monitor
+a nastaviť silné heslo pri prihlásení76.
+Logická ochrana
+
+zahŕňa všetky softvérové a počítačové procesy a funkcie, ktoré sú
+
+zakompované do počítačových operačných systémov77. Má tri funkcie
+
+identifikácia,
+
+autentizácia a autorizácia. Identifikácia znamená kontrolovanie vstupu prostredníctvom
+používania mena, hesla alebo tajných výrazov. Autentizácia je overovanie a kontrolovanie
+údajov, že sú pravdivé alebo nie. Do toho zaraďujeme nielen heslá a mená, ale aj prístupové
+karty, odtlačok prsta, identifikácia hlasu a kryptogramové kódy. Úloha autorizácia začína po
+overovania identity, obmedzuje to, v akom rozsahu sa môže daná osoba zaoberať s tými údajmi,
+môže len prečítať, kopírovať alebo aj odstrániť. Tie obmedzenia možné aplikovať na všetky
+súbory alebo len na niektoré78.
+
+3.4
+
+Obchodné tajomstvo a know-how v súvislosti s ochranou v rámci EÚ
+Ako Doc. Dr. Zdeněk Madar v publikácií: „Slovník českého práva“, 1995 uvádza: „Know-
+
+how přestavuje technické, ale i technologické, organizační, obchodní či jiné poznatkym jež
+nejsou obvykle výsledkem tvůrčí činností, ale dlhouholeté zkušenosti s optimálním půběhem
+určitého procesu, technologie a receptury.“ Vzťah medzi nimi sa spočíva v tom, že obe inštitúty
+majú vlastnosti, ktoré sa prelínajú, ale na druhej strane také, ktoré sú rozlišné79.
+Dňa 8. júna 2016 bola vydaná nová smernica Európského parlamentu a Rady (EÚ) o
+ochrane nesprístupneného know-how a obchodných informácií, ktorá bola transponovaná
+novelou do právneho poriadku Slovenskej republiky, presne zákonom č. 264/2017 Z. z., takým
+spôsobom bol zmenený a doplnený OBZ80. Podľa toho, je veľmi dôležité, aby know-how, teda
+výsledky konkrétnych inovačných činností, zručnosti a schopnosti určitých osôb. Tie
+
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 80.
+Tamže, s. 81.
+78
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií, s. 82.
+79
+ČADA, Karel. Obchodní tajemství a know-how. 1. vyd. Praha: Úřad průmyslového vlastnictví, s. 38.
+80
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 210.
+76
+77
+
+26
+
+informácie majú zostať dôverné, aby pomáhali im v prípade konkurencia schopnosti a inovačnej
+schopnosti.81
+Obchodné tajomstvo má tiež dôležitú funkciu v prípade rozvoja a pri výmene znalostí
+medzi malými a strednými podnikmi, ktoré tvoria 99 % všetkých podnikov v EÚ. „Zabezpečujú
+dve tretiny pracovných miest v súkromnom sektore a prispievajú viac ako polovicou k celkovej
+pridanej hodnote vytvorenej podnikmi v EÚ.“82 Inovujúce podniky nezákonnými praktikami
+zneužívali, kradli informácie považované za obchodné tajomstvo, s tým bola obmedzená
+príležitosť zapájania sa do cezhraničného trhu, vnútorného trhu, vývoja a výskumu83.
+Dohody o obchodných aspektoch práv duševného vlastníctva (dohoda TRIPS), ktorá bola
+schválená rozhodnutím Rady 94/800/ES sú viazané aj Únia, ako aj členské štáty. Tá dohoda
+obsahuje aj riešenie problému obmedzenia malých a stredných podnikov a ochranu obchodného
+tajomstva.84 Členské štáty majú odlišne preformulované vnútroštátne práva obchodného
+tajomstva a veľmi ťažké preukázať, čo je skutočný ušlý zisk a aj to, že niekto s tými
+informáciami bezdôvodne obohatil, lebo tie informácie v najväčších prípadoch majú nehmotnú
+povahu. Táto smernica má vplyv v takom význame, aby obchodné tajomstvo malo prísnejšiu
+ochranu pred zneužitím. Upravuje
+
+konkrétne opravné a nápravné opatrenia súvisiaci
+
+so zverejnením informácií, ale je nevyhnutné, aby sloboda prejavu práva na informácie
+a základné práva neboli obmedzené85. Opatrenie musí byť v súlade s testom proporcionality,
+cieľom je zabezpečenie ochrany pred neoprávneným získaním, využitím, sprístupnením
+obchodného tajomstva s takou intenzitou, aby neporušovali medzitým základné práva
+a slobody, verejný záujem a verejnú bezpečnosť, verejné zdravie ale aj ochranu životného
+prostredia86. Hlavnou myšlienkou je dosiahnutie hladkého fungovania vnútorného trhu na
+úrovni EÚ aj na úrovni samotných členských štátov. Obchodné tajomstvo sa vzťahuje aj na také
+
+Smernica Európskeho parlamentu a Rady (EÚ) 2016/943 z 8. júna 2016 o ochrane nesprístupneného knowhow a obchodných informácií (obchodného tajomstva), čl. 1.
+82
+GUARDÉRES, F. Malé a stredné podniky [online].
+83
+Tamže.
+84
+Smernica Európskeho parlamentu a Rady (EÚ) 2016/943 z 8. júna 2016 o ochrane nesprístupneného knowhow a obchodných informácií (obchodného tajomstva), čl. 5.
+85
+Tamže, čl. 19.
+86
+Tamže.
+81
+
+27
+
+informácie, ktoré nie je možné chrániť v podobe patentov, tie sú napríklad zoznamy
+dodávateľov a klientov, výrobné procesy, vynálezy vo fáze zrodu87.
+
+3.5
+
+Ochrana obchodného tajomstva podľa Trestného zákona
+Trestný zákon v § 264 chráni obchodné, bankové, poštové, telekomunikačné a daňové
+
+tajomstvo. Tento paragraf vymedzuje dve konania, ktoré ak sú porušené, následkom je prečin
+alebo zločin podľa Trestného zákona. Tie konania sú vyzvedanie a vyzradenie obchodného
+tajomstva, bankového tajomstva, poštovného tajomstva, telekomunikačného tajomstva alebo
+daňového tajomstva. Vyzvedanie znamená určité úmyselné konanie, ktorými získa informácie
+týkajúce sa obchodného, bankového, poštovného, telekomunikačného alebo daňového
+tajomstva. Podmienkou je, aby konal úmyselne a vyzradil ďalej nepovolanej osobe. Druhým
+konaním je vyzradenie, čo znamená sprístupnenie informácie aj v prípade obchodného
+tajomstva. Toto konanie sa vyžaduje úmyselné konanie. V prípade vyzvedania musí existovať
+cieľ, ktorým je úmysel vyzradiť informácie týkajúce sa obchodné tajomstvo nepovolenej
+osobe88. Odseky 2 a 3 sú kvalifikované skutkové podstaty, ktoré sú charakterizované tým, že
+obsahujú obzvlášť priťažujúce okolnosti alebo okolnosti podmieňujúce použitie vyššej trestnej
+sadzby v súvislosti spôsobením väčšiu škodu alebo škodu veľkého rozsahu, z osobitného
+motívu alebo v krízovom situácií89.
+
+3.6
+
+Zneužívanie informácií v obchodnom styku
+Ochranu vo vzťahu s zneužívaním vymedzuje Trestný zákon v § 265. Ochrana sa poskytuje
+
+takým informáciám, ktoré sú privilegované, ku ktorým má niekto možnosť pristúpiť z dôvodu
+funkcie, povolania, zamestnania alebo postavenia, ku ktorým ostatné osoby, ktoré sa
+zaobchádzajú s cennými papiermi, nemajú a ktoré je povinný nesprístupniť. Tie informácie
+použije neoprávnene, v rozpore s jeho funkciou, ktoré môže získať vo svojom zamestnaní,
+
+Obchodné tajomstvo v EÚ: na čo sa vzťahuje ochrana? [online].
+BURDA, E., ČENTEŠ, J., KOLESÁR, J., ZÁHORA, J. a kol. Trestný zákon. Osobitná časť : Komentár. II.
+diel. 1. vydanie. Praha: C. H. Beck, 20112011: M. Kordík, k § 264.
+89
+Mencerová, I., Tobiášová, L., Turayová, Y. a kol. Trestné právo hmotné. Všeobecná časť. 2. aktualizované
+a prepracované vydanie. Šamorín : Heuréka, 2015, s. 136.
+87
+88
+
+28
+
+postavení, povolaní alebo funkcii a s tým môže ohroziť jeho postavenie v hospodárskej súťaže.
+Zákon chráni len také informácie, ktoré nie sú verejne prístupné, čo znamená, že o ktorej sa
+jeden alebo viaceré osoby dozvedeli skôr, ako ostatné subjekty obchodovania na trhu s cennými
+papiermi, ale predsa ktorá z charakteru veci bude neskôr zverejnená. Ustanovenie sa nevzťahuje
+na také informácie, ktoré môžu byť známe v určitej odbornej alebo vedeckej komunite
+prostredníctvom prednášok alebo publikácie. Majú hospodársky alebo ekonomický zámer
+a porušenie spôsobuje škodu inému subjektu a taktiež obohateniu. Podmienkou je, aby tie
+informácie použili výhradne na organizovanom trhu90.
+Organizovaný trh je vymedzené v zákone o burze cenných papierov, kde v § 3 ods. 1 sa
+uvádza : „Regulovaným trhom je mnohostranný systém organizovaný organizátorom trhu na
+účely spájania alebo umožnenia spájania záujmov viacerých osôb nakupovať a predávať
+finančné nástroje v rámci systému a v súlade s pevne určenými pravidlami spôsobom, ktorého
+výsledkom je uzavretie obchodu s finančnými nástrojmi prijatými na obchodovanie podľa
+pravidiel tohto systému a ktorý funguje pravidelne a v súlade s týmto zákonom. 91“ V druhom
+odseku je upravené obchodovanie vo svojom prospechu, ktorým zneužije postavenie v dvoch
+alebo viacerých subjektov tým, že zamestnanec, člen štatutárneho orgánu, podnikateľ alebo
+účastník dá podnet na uzavretie zmluvy na úkor jednej alebo viacerých z nich92.
+
+3.7
+
+Dôverné informácie a povinnosť mlčanlivosti
+Ak strany pri rokovaní dohodnú, že informácie, ktoré navzájom poskytli sú označené ako
+
+dôverné, nesmie strana, ktorej sa tieto informácie poskytli, vyzradiť ich tretej osobe. Nemôže
+ich použiť v rozpore s ich účelom pre seba. To nezáleží od toho, či zmluva bola uzavretá, alebo
+nakoniec nedošlo k jej uzavretiu93. Ak vznikne škoda z dôvodu porušenia povinnosti, vzniká aj
+povinnosť škodu nahradiť podľa § 373 a nasl. OBZ 94.
+
+BURDA, E., ČENTEŠ, J., KOLESÁR, J., ZÁHORA, J. a kol. Trestný zákon. Osobitná časť : Komentár. II.
+diel. 1. vydanie. Praha: C. H. Beck, 20112011: M. Kordík, k § 265.
+91
+§ 3 odsek 1 zákon č. 429/2002 o burze cenných papierov.
+92
+BURDA, E., ČENTEŠ, J., KOLESÁR, J., ZÁHORA, J. a kol. Trestný zákon. Osobitná časť : Komentár. II.
+diel. 1. vydanie. Praha: C. H. Beck, 20112011: M. Kordík, k § 265.
+93
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 12. vyd., s. 1195.
+94
+§ 271 zákona č. 513/1991 Zb. Obchodný zákonník.
+90
+
+29
+
+Táto právna úprava sa používa so súvislosti s § 657 OBZ, čo je dispozitívna právna úprava.
+Podľa tej úpravy sú zástupcovi zakázané oznámenie údajov, získaných od zastúpeného, ktoré
+sa týkajú pracovnej činnosti a využitie takých údajov pre seba. V takých prípadoch, keď je daný
+predchádzajúci súhlas zastúpeného, nie je tá právna úprava porušená95.
+Prvotným cieľom tejto úpravy bolo zabezpečenie ochranu informácií v predzmluvnej fáze.
+Základom predzmluvnej zodpovednosti je zmluvná sloboda, teda strany môžu slobodne vybrať
+nielen zmluvného partnera, ale aj to, dokedy budú pokračovať v rokovaní. Dôležitým znakom
+je dobrá viera, teda táto zodpovednosť je limitovaná dobromyseľnosťou. V praxi najčasťejšie
+ide o prípady, kedy spoločnosti v rámci developerského projektu rokujú s investormi, kde musia
+preukázať určité znaky, časti alebo jedinečnosť konkrétnych produktov, aby mohli tých
+investorov presvedčiť. Po rokovaní nie je garantovaný úspech a nie je istá ani spolupráca
+v budúcnosti, ale aj pred uzatváraním zmlúv treba chrániť tie informácie 96. V takom prípade
+rozprávame o zneužitie dôverných informácií a o zodpovednosti za protiprávne porušenie
+predzmluvného rokovania97. Toto ustanovenie za porušenie tejto povinnosti neustanovuje
+sankciu, ale je v spojení s inými paragrafmi, v ktorých sa uvedená ochrana konkretizuje98.
+Obchodný zákonník upravuje zodpovednosť za škodu dvoma spôsobmi, v takom prípade,
+ak škoda vznikla pri uzatváraní zmluvy aj napriek tomu, že zo zmluvy žiaden záväzok
+nevznikol. Tie dva prípady sú § 268 OBZ, kde je upravená zodpovednosť za škodu z dôvodu
+neplatného právneho úkonu a § 271 OBZ, čo súvisí s prezradením dôverných informácií.
+Tento paragraf zabezpečuje ochranu obchodným partnerom pri rokovaní o uzavretí zmluvy,
+v súvislosti s takými informáciami, bez ktorých nie je možné uzatvárať zmluvu v budúcnosti
+a slúžia ako podklad. Nemusí byť celkovo predmetom tej zmluvy, stačí, ak sčasti s tou zmluvou
+súvisia. Dôverné informácie sú pojmovo širšíe ako obchodné tajomstva a spoločným znakom
+je, že nemôžu byť bežne dostupné99.
+
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 1532 – 1533.
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 114.
+97
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár, II. zväzok, s. 122.
+98
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár, II. zväzok, s. 123.
+99
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 1114 – 1115.
+95
+96
+
+30
+
+Dôverné informácie sú využiteľné vtedy, ak pred podpisom určitej zmluvy tie informácie
+ešte nespĺňajú znaky obchodného tajomstva alebo počas existencia zmluvy prestali spĺňať znaky
+podľa § 17 OBZ ako tzv. záchrannú klauzulu. Podľa §271 OBZ na to, aby mohli označiť nejaké
+informácie za dôverné, nemusia tie informácie spĺňať žiadne zákonné pojmové znaky ako
+obchodné tajomstvo100. Predpokladom nie je uzavretie zmluvy, ale to, že pri rokovaní strany tie
+informácie označili ako dôverné. Zákon nevyžaduje písomnú formu, ale kvôli dôkazného
+bremena v prípade porušenia je nevyhnutná101. Zodpovednosť za škodu sa spravuje § 373 a nasl.
+OBZ.
+
+3.8
+
+Zmluva o obchodnom zastúpení a povinnosť mlčanlivosti
+Zmluva o obchodnom zastúpení musí mať písomnú formu. Zmluvné strany sú: obchodný
+
+zástupca ako podnikateľ a zastúpený. Obchodným zástupcom je samotný podnikateľ, kto je
+živnostníkom a uzatvára obchody na účeľ v mene podnikateľa alebo len sprostredkuje nákup
+alebo predaj tovaru102.
+Obchodný zástupca je vymedzený aj negatívne, teda je to osoba, ktorá môže ako orgán
+zaväzovať zastúpeného ,spoločník alebo člen družstva zákonom splnomocnený zaväzovať
+ostatných spoločníkov alebo členov družstva, ak je zastúpeným družstvo, alebo, likvidátor,
+správca na výkon nútenej správy, správca konkurznej podstaty, osobitný správca alebo
+vyrovnávací správca zastúpeného103.
+Zástupca ako podnikateľ zaväzuje pre zastúpeného vyvíjať činnosť smerujúcu
+k uzatvoreniu určitého druhu zmlúv. Na druhej strane zastúpený sa zaväzuje zaplatiť za takú
+činnosť províziu. Takýto zástupcovia v najväčších prípadoch pracujú v oblasti poisťovníctva,
+kde sprostredkovávajú poistné produkty, ako napríklad životné alebo neživotné poistenie,
+kozmetické výrobky104. Podľa môjho názoru informácie, ako zoznam klientov, je veľmi
+
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 115.
+101
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 1114 – 1115.
+102
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 1526 – 1529.
+103
+§ 652 ods. 2 zákon č. 513/1991 Zb. Obchodný zákonník.
+104
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 108.
+100
+
+31
+
+významné v takom prípade, lebo takým spôsobom udržiavajú vzťah s klientmi a obdobné aj
+telefonické oslovenie nových potenciálnych klientov. Je to veľká výhoda aj oproti konkurentom,
+kým firma má viac kontaktov, má väčšiu možnosť rozšíriť a doplniť zoznam zákazníkov
+a nakoniec uzavrieť viac poistných zmlúv105.
+Povinnosť mlčanlivosti použije v prípade získaných údajov od zastúpeného pri svojej
+činnosti. Tieto údaje nesmie oznámiť bez súhlasu zastúpeného iným osobám, kde súhlas musí
+byť daný vopred. Nesmie ich využiť ani pre seba ani pre iné osoby, lebo je to v niektorých
+prípadoch v rozpore so záujmami zastúpeného a v takom prípade by to bolo porušenie
+obchodnoprávnych noriem podľa § 657 OBZ. Je to dispozitívna právna úprava, čo znamená, že
+možné od toho odchýliť, teda zmluvné strany môžu dohodnúť aj inak. Je to lex specialis
+k vzťahu k ustanoveniu § 271 a § 17, ktoré sú lex generalis, z toho vyplýva, že § 657 má
+prednosť. Obmedzenie trvá nielen počas záväzku, ale aj po ňom106. Toto ustanovenie má
+extenzívnejší charakter od všeobecnej právnej úpravy ochrany obchodného tajomstva, lebo sa
+týka akýchkoľvek informácií, ktoré sú objektívne spôsobilé ohroziť záujmy zastúpeného a získa
+pri výkone svojej činnosti107.
+Povinnosť mlčanlivosti sa čiastočne zhoduje s tzv. konkurenčnou doložkou, ktorá vzniká
+a trvá po ukončenie zmluvy. Obchodný zákonník konkrétne konkurenčnú doložku v súvislosti
+s povinnosťou mlčanlivosti neupravuje, ale to súvisí s informáciami získaným obchodným
+zástupcom od predchádzajúcej spoločnosti, ktoré potom môže využívať v konkurencií, ktoré
+majú zhodný alebo porovnateľný predmet. Také konania je v rozpore s dobrými mravmi
+a ohrozuje aj hospodársku súťaž108.
+Obchodný zástupcovia počas svojej činnosti sa stretávajú rôznymi informáciami náhodne
+aj úmyselne, ktoré v čase uzavretia nemohli byť súčasťou tej zmluvy. V praxi najpopulárnejšie
+príklady sú zmeny v odbytových preferenciách, vývoj trhu, príprava nových poistných
+produktov. Obchodný zástupca v takom prípade musí sama ohodnotiť všetky získané
+informácie a rozhodnúť, ktoré z nich bude sprístupňovať tretím osobám. Prezradenie takých
+
+Tamže.
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 1532 – 1533.
+107
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár, II. zväzok, s. 1112.
+108
+PELINKÁNOVÁ, I. Komentář k obchodnému zákoníku. 5 díl , Paragrafy 566- 775, s. 385.
+105
+106
+
+32
+
+informácií musí byť v súlade zo záujmami spoločnosti. Najviac použijú klauzulu: „Zmluvné
+strany sa zaväzujú, že všetky informácie, ktoré sa dozvedia pri výkone práv a pri plnení
+povinností, ktoré im vyplývajú z tejto zmluvy, budú považovať za dôverné v zmysle § 271
+OBZ“109.
+
+3.9
+
+Špecifická ochrana obchodného tajomstva pri fúziach obchodných spoločností a družstiev
+
+Fúzia je jeden zo spôsobov, s ktorými je možné zrušiť spoločnosť bez likvidácie s právnym
+nástupcom. Do fúzie zaraďujeme zlúčenie aj splynutie ako formu transplantácie spoločnosti.
+Zlúčenie a splynutie máme definované v § 69 ods. 3 OBZ. Znak zlúčenia je, keď zrušenie sa
+nastane bez likvidácie, kedy zaniká jedna alebo viaceré spoločnosti. V takom prípade imanie
+prechádza na inú, už existujúcu spoločnosť, ktorá sa stane právnym nástupcom tej, ktorá zanikla
+počas zlúčenia. Znaky splynutia sú podobné k zlúčeniu, ale rozdiel je v tom, že imanie
+zanikajúcich spoločností neprichádza už na existujúcu spoločnosť, ale na inú, novozaloženú,
+ktorá sa taktiež stane právnym nástupcom zanikajúcich spoločností. Podmienkou je, podľa § 69
+ods. 2 OBZ, aby zanikajúca a nástupnícka spoločnosť mala rovnakú právnu formu110.
+Obchodný zákonník neobsahuje definíciu splynutia, zlúčenia alebo rozdelenia obchodných
+spoločností, ale §218 a nasl. sa vzťahuje aj na ostatné druhy obchodných spoločenstiev, nie len
+na akciové spoločnosti. Táto právna úprava vznikla z dôsledku smernice Európského
+parlamentu a Rady 2005/56/ES z 26. októbra 2005 o cezhraničných splynutiach alebo
+zlúčeniach kapitálových spoločností111.
+V prípade fúzie, hlavnou úlohou predstavenstva a dozornej rady, aby vypracovali podrobnú
+písomnú správu, v ktorej odôvodňujú a vysvetľujú konkrétne právne a ekonomické aspekty
+fúzia s odbornou starostlivosťou a v súlade so záujmami spoločnosti. Dozorná rada podľa §
+218b ods. 2 OBZ predkladá k tomu svoje vyjadrenie o zamýšľanom splynutí alebo zlúčení.
+V súvislosti s rokovaním, má právo sa zúčastniť aj osobitný vyjednávací orgán, čo sa skladá zo
+
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo obchodných spoločností a
+družstva. 1. vydanie, s. 116.
+110
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 843 – 856.
+111
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. zväzok, s. 584.
+109
+
+33
+
+zástupcov zamestnancov zúčastnených spoločností a zo zástupcov zamestnancov ich
+organizačných zložiek112.
+V takých situáciách podľa § 218li ods. 1 OBZ „Členovia osobitného vyjednávacieho
+orgánu, ich odborný poradcovia, členovia výboru zamestnancov, zástupcovia zamestnancov a
+zamestnanci sú povinný zachovávať mlčanlivosť o všetkých informáciách, o ktorých sa dozvedeli
+v súvislosti s rokovaním a ktoré boli pri ich poskytnutí označené za dôverné. Táto povinnosť
+trvá aj po skončení funkčného obdobia.“113 Dozorná rada má právo odoprieť také informácie,
+ktoré môžu ohrozovať fungovanie nástupníckej spoločnosti a s tým by porušili aj ochranu
+obchodného tajomstva a dôverných informácií114. V niektorých prípadoch osobitný vyjednávací
+orgán môže podať návrh na súd, aby rozhodol o takých informáciách, ktorých označenie ako
+dôverné je neprimerané. Také informácie sú napr. už predtým sprístupnené informácie alebo
+informácie z verejne dostupných zdrojov115.
+
+3.10 Povinnosť mlčanlivosti v akciovej spoločnosti
+Základné interpretačné pravidlo, čo sa týka akcionára je uvedené v § 176b OBZ. Ako
+Obchodný zákonník uvádza: „Akcionár nesmie vykonávať práva akcionára na ujmu práv a
+oprávnených záujmov ostatných akcionárov.“116 – Teda akcionári vždy musia konať v súlade
+s dobrými mravmi a právnymi normami. Do toho interpretačného pravidla sú zakompované aj
+zásada zákazu zneužitia práva a zásada rovnakého zaobchádzania. Jeden z cieľov akciovej
+spoločnosti je dosiahnutie čo najviac zisku, čo nie je možné v prípade nespolupráce akcionárov.
+Vždy pri výkone svojich práv musia prihliadnuť aj na záujem ostatných akcionárov, ako aj na
+záujem celej akciovej spoločnosti. Splnenie tejto povinnosti sa týka aj činnosti valného
+zhromaždenia a dozornej rady117. Podľa mňa to úzko súvisí s § 178 ods. 6 OBZ, lebo na
+rokovaní dozornej rady, kde sa preberajú vždy najcitlivejšie otázky, ako napríklad rozdelenie
+podielu na zisk, existencia spoločnosti a ďalšieho smerovania akciovej spoločnosti. Akcionármi
+
+Tamže.
+§ 218li ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník.
+114
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 923.
+115
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. zväzok, s. 1459.
+116
+§ PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 714 - 716: B. Grambličková,
+M. Patakyová.176b ods. 1 zákona č. 513/1991 Zb. Obchodný zákonník.
+117
+Tamže.
+112
+113
+
+34
+
+prislúcha nemateriálne právo nazeranie do zápisníc dozornej rady, ale majú povinnosť
+mlčanlivosti o dozvedených informáciach, lebo ak takým správaním vznikne ujma ostatným
+akcionárom musia škodu nahradiť podľa § 373 a nasl. OBZ118.
+Hlavným orgánom akciovej spoločnosti je predstavenstvo. Predstavenstvo je štatutárnym
+orgánom, to znamená, že riadi činnosť spoločnosti a koná v jeho mene. Právna úprava konkrétne
+neupravuje počet členov predstavenstva, to znamená, že môže sa stať, že bude jednočlenná alebo
+na druhej strane môže mať aj viacerých členov. Oprávnenie konať tých členov závisí od zápisu
+do obchodného registra alebo od stanov. Môže sa zapísať viacerými spôsobmi, ako je napr.
+„samostatne“ alebo „traja spoločne“. Okrem konajúcej činnosti, majú aj činnosť riadiaci, čo
+spočíva v obchodnom vedení, teda v riadení podniku spoločnosti. V niektorých prípadoch
+stanovy alebo zákon môže vymedziť určité úlohy, ktoré v rámci obchodného vedenía
+spoločnosti nebude vykonávať predstavenstvo, ale valné zhromaždenie, alebo dozorná rada119.
+Členov predstavenstva volá a odvoláva valné zhromaždenie, ale v niektorých prípadoch
+stanovy môžu posunúť dozornej rade. Explicitne z § 194 ods. 1 OBZ vyplýva, že členom
+predstavenstva nemôže byť len akcionár, ale aj iná osoba, ale vždy musí ísť o fyzickú osobu.
+Ak akcionárom je právnická osoba, vtedy môže byť aj zástupca akcionára120.Tá fyzická osoba
+musí byť bezúhonná, plnoletá a musí mať plnú spôsobilosť na právne úkony121.V niektorej
+spoločnosti je dôležité aj to, aby zvolená osoba neporušila zákaz konkurencie122.
+Zákon ustanovuje aj funkčné obdobie členov predstavenstva, čo je maximálne päť rokov.
+V prípade výkonu ich funkcie musia konať s náležitou starostlivosťou. Náležitá starostlivosť má
+dva hlavné prvky, prvý súvisí s odbornou starostlivosťou, ako je už zadefinované
+v predchádzajúcich stranách, potreba určitej ekonomickej alebo právnej vedomosti pri výkone
+ich funkcií. Druhým prvkom je tzv. fiduciárna povinnosť voči spoločnosti. Fiduciárna
+povinnosť znamená určitú vernosť k akciovej spoločnosti. Fiduciárnu povinnosť nie je možné
+definovať všeobecne, len v kontexte konkrétnej spoločnosti, lebo tie záujmy súvisia od vôle
+
+Tamže.
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 774 – 778.
+120
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. zväzok, s. 1270.
+121
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 774 – 778.
+122
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. zväzok, s. 1270.
+118
+119
+
+35
+
+spoločnosti. Do toho zaraďujeme očakávania, zásadu zneužívania práva, čo aj úzko súvisí
+s poctivým obchodným stykom123.
+Členovia predstavenstva ako v spoločnosti s ručeným obmedzením, sú povinní si
+zaobstarať a zohľadniť všetky potrebné informácie pri výkone ich činnosti. Povinnosť
+mlčanlivosti v § 194 ods. 5 OBZ je konkretizovaný, týka sa konkrétnych členov k vzťahu
+k spoločnosti a k akcionárom. Nemôže prezradiť dôverné informácie tretím osobám vtedy, ak
+by tým vyvolal ujmu, spôsobil škodu alebo ohrozil záujmy akcionárov alebo samotnej
+spoločnosti124.
+3.11 Prípady cezhraničného obchodného tajomstva, USA
+V posledných rokoch sa do popredia dostalo obchodné tajomstvo, a to tak na domácej, ako
+aj na medzinárodnej úrovni. Pre technologické firmy ochrana obchodného tajomstva vždy
+zohráva dôležitú úlohu: je lacnejšia ako patenty, môže trvať dlhšie ako 20 rokov patentovej
+ochrany a vzťahuje sa na duševné prínosy, ktoré nie sú pokrokové alebo dostatočne vynaliezavé
+na to, aby sa dali patentovať. Mnohé zmeny posledných desaťročí sa práva na obchodné
+tajomstvo stali ešte dôležitejšími. Séria prípadov obmedzujúcich dosah patentového práva
+položila nový dôraz na hľadanie riešení. Keďže pracovné miesta už netrvajú celý život, čoraz
+viac zamestnancov sa presúva z firmy do firmy, pričom si so sebou možno berie cenné
+informácie, obchodné postupy, vrátane najmä výrobných metód hodnotového reťazca, šíria
+informácie po celom svete od tvorcov k výrobcom, distribútorom a predajcom. Najdôležitejší je
+vývoj v oblasti počítačových technológií, robotiky a výroby vytvára viac situácií, v ktorých sa
+informácie možno reálne chrániť utajením. Zároveň tieto technológie môžu tiež uľahčiť
+neoprávnené získanie cenných informácií125.
+Jeden z najdôležitejších dohôd, čo sa týka obchodného tajomstva a dôverných informácií je
+„TRIPS Agreement“. Dohoda TRIPS, ktorá nadobudla platnosť 1. januára 1995, je doteraz
+najkomplexnejšou multilaterálnou dohodou o duševnom vlastníctve. Oblasti duševného
+vlastníctva, na ktoré sa vzťahuje sú: autorské právo a súvisiace práva (t. j. práva výkonných
+
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 782 – 792.
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vydanie, 2016, s. 782 – 792.
+125
+DREYFUSS, R., SILBERMSN, L. Misappropriation on a Global Scale: Extraterritoriality and Applicable
+Law in Transborder Trade Secrecy Cases,Cybaris®: Vol. 8 : Iss. 2 , Article 4, s. 266.
+123
+124
+
+36
+
+umelcov, výrobcov zvukových záznamov a vysielacích organizácií), ochranné známky,
+zemepisné označenia vrátane označení pôvodu; priemyselné vzory, patenty vrátane ochrany
+nových odrôd rastlín; návrhy usporiadania integrovaných obvodov a nezverejnené informácie
+vrátane obchodných tajomstiev126. Čo sa týka obchodného tajomstva, právna úprava sa
+nachádza v Čl. 39. 2. Ochrana sa musí vzťahovať na informácie, ktoré sú tajné, ktoré majú
+obchodnú hodnotu, a ktoré boli predmetom primeraných opatrení na zachovanie ich utajenia127.
+Dohoda nevyžaduje, aby sa s utajovanými informáciami zaobchádzalo ako s formou
+vlastníctva, ale vyžaduje, aby osoba, ktorá má zákonne pod kontrolou takéto informácie, mala
+možnosť zabrániť tomu, aby ich iné osoby bez jej súhlasu sprístupnili, získali alebo použili
+spôsobom, ktorý je v rozpore s čestnými obchodnými praktikami. Dohoda obsahuje aj
+ustanovenia o nezverejnených testovacích údajoch a iných údajoch, ktorých predloženie
+vyžadujú
+
+vlády
+
+ako
+
+podmienku
+
+schválenia
+
+uvedenia
+
+farmaceutických
+
+alebo
+
+poľnohospodárskych chemických výrobkov, ktoré používajú nové chemické látky na trhu. V
+takejto situácii musí príslušná členská vláda chrániť údaje pred nedovoleným využitím. Okrem
+toho, musia členovia chrániť takéto údaje pred zverejnením, okrem prípadov, keď je to potrebné
+na ochranu verejnosti, alebo ak sa neprijmú opatrenia na zabezpečenie ochrany údajov pred
+nekalým komerčným využitím128.
+
+126
+
+World Trade Organisation. TRIPS : A MORE DETAILED OVERVIEW OF THE TRIPS AGREEMENT.
+[online].
+127
+Tamže.
+128
+The TRIPS Agreement is Annex 1C of the Marrakesh Agreement Establishing the World Trade Organization,
+signed in Marrakesh, Morocco on 15 April 1994, Article 39.2.
+
+37
+
+4 ZÁVER
+Na záver môžem konštatovať, že problematika ochrany obchodného tajomstva v obchodno
+– právnych vzťahoch vyzerá jednoducho, ale na druhej strane je veľmi komplikovaná. Hlavná
+úprava tejto problematiky je uvedené v Obchodnom zákonníku, ale je možné skúmať aj
+z viacerých strán. Ochrana obchodného tajomstva a dôverných informácií patrí k majiteľovi. Vo
+viacerých prípadoch informácie označené ako obchodné tajomstvo nespĺňajú znaky podľa § 17
+OBZ. V takých prípadoch môžu vyskytnúť aj problémy v prípade ochrany.
+Tie informácie úzko súvisia so zamestnancami, konateľmi a majiteľmi. Jeden
+z obligatórnych znakov obchodného tajomstva je vôľa majiteľa alebo vôľa určitých strán na
+rokovaniach. Majiteľ musí tú vôľu prejaviť aj navonok, lebo bez toho nie je možné úplne chrániť
+tie skutočnosti. Ak tento prejav je zrozumiteľný a presný, ostatný zamestnanci už majú
+povinnosť tieto informácie utajiť. Je veľmi dôležité, aby v konkrétnej spoločnosti boli za to
+vymenované konkrétne osoby, ktorí môžu pozorovať napr. ukladanie dokumentov, uzamknutie
+určitých priestorov a školenie zamestnancov o ochrane takých informácií. Podstatné je, aby
+majiteľ
+
+obchodného
+
+tajomstva
+
+vždy preskúmaval
+
+zákonné
+
+podmienky s náležitou
+
+starostlivosťou, aby sa mohlo vyhnúť problémom súvisiace súdnym konaním v prípade
+porušenia obchodného tajomstva. Teda podľa toho môžem konštatovať, že ochrana obchodného
+tajomstva je úplne závislé od odborného konania majiteľa od jeho komunikačnej schopnosti
+prejavený navonok.
+V prípade ochrany dôverných informácií právna úprava nie je taká striktná, ako v prípade
+obchodného tajomstva. V prípade takých informácií nemusí spĺniť zákonné podmienky,
+dôležité je, aby určitá strana jeho vôľu prejavoval presne a zrozumiteľne. Jedna podmienka, čo
+tie informácie musia splňiť, že nie sú bežne dostupné, teda nie je možne ich nájsť z verejne
+dostupných zdrojov. V niektorých prípadoch ide o jednostranný ústny prejav, ale z dôvodu
+ochrany písomný prejav je viac aplikovateľný aj v prípade súdneho konania.
+Dôverná informácia je širší pojem ako obchodné tajomstvo. V prípadoch, kedy informácie
+nesprávne označené ako obchodné tajomstvo sú porušené je ešte možné aplikovať právnu
+úpravu dôverných informácií, čo nie je taká striktná. Podľa môjho názoru, tie informácie sú
+spravodlivo chránené Obchodným zákonníkom, Trestným zákonom alebo s ostatnými
+
+38
+
+osobitnými predpismi a majiteľ tých informácií v prípade dodržania všetkých podmienok bez
+problémov môže jeho práva chrániť aj v súdnom konaní.
+
+39
+
+Zoznam použitej literatúry
+ČADA, Karel. Obchodní tajemství a know-how. 1. vyd. Praha: Úřad průmyslového
+vlastnictví, ÚPV, 1997. 213 s. ISBN 8085100673.
+Čo je CRM sytém? [online]. – Považská Bystrica : Podnikajte.sk, s.r.o. [cit. 2020-16-07]
+Dostupné na internete : <https://www.podnikajte.sk/informacne-technologie/crm-system>.
+ISSN 1338-2187
+BROOKING, A.: Intellectual Capital: CorCore-Assetr the Third Millennium Enterprise.
+London, International Thomson Business Press 1996.
+BURDA, E., ČENTEŠ, J., KOLESÁR, J., ZÁHORA, J. a kol. Trestný zákon. Osobitná časť
+: Komentár. II. diel. 1. vydanie. Praha: C. H. Beck, 2011, 1608 s. ISBN 978-80-7400-394-3
+DREYFUSS, R., SILBERMSN, L. Misappropriation on a Global Scale: Extraterritoriality
+and Applicable Law in Transborder Trade Secrecy Cases,Cybaris®: Vol. 8 : Iss. 2 , Article
+4.,2017 [online]. Dostupné na internete :
+<https://open.mitchellhamline.edu/cgi/viewcontent.cgi?article=1074&context=cybaris>.
+GUARDÉRES, F. Malé a stredné podniky [online]. Informačné listy o Európskej únii 2021 [cit. 2021-10]. Dostupné na internete:
+<https://www.europarl.europa.eu/ftu/pdf/sk/FTU_2.4.2.pdf>.
+LUKNIČ, Arnold Steve. Ochrana podnikateľských informácií. [1. vyd.]. Bratislava: SAP Slovak Academic Press, 1998. 183 s. ISBN 8088908175.
+MAMOJKA, M. a kol. Obchodný zákonník : Veľký komentár. I. zväzok, Paragrafy 1 – 260.
+Žilina : Eurokódex, 2016. 1087 s. ISBN 978-80-8155-065-2.
+MAMOJKA, M. a kol. Obchodné právo 1 : Všeobecná časť, súťažné právo, právo
+obchodných spoločností a družstva. 1. vydanie, Bratislava : C. H. Beck, 2021. 806 s. ISBN
+978-80-8232-007-0
+Obchodné tajomstvo v EÚ: na čo sa vzťahuje ochrana? [online]. - Your Europe [cit. 202121-10]. Dostupné na internete : <https://europa.eu/youreurope/business/runningbusiness/intellectual-property/trade-secrets/index_sk.htm>.
+40
+
+OVEČKOVÁ, O. a kol. Obchodný zákonník : Veľký komentár I. a II. zväzok. Bratislava :
+Wolters Kluwner s. r. o., 2017. 3192 s. ISBN 978-80-8168-573-6.
+OVEČKOVÁ, O., CSACH, K., Obchodné právo 1. Všeobecná časť a súťažné právo.
+Bratislava : Wolters Kluwner SR, 2019, s. 316, ISBN 978-80-571-0176-5.
+PATAKYOVÁ, M. a kol. Obchodný zákonník : Komentár. 5. vyd. Bratislava : C. H. Beck,
+2016. 1691 s. ISBN: 978-80-89603-46-6.
+PELINKÁNOVÁ, I. Komentář k obchodnému zákoníku. 4. vyd. Praha : ASPI Publishing,
+2004. 608 s. ISBN 80-7375-009-2.
+PELINKÁNOVÁ, I. Komentář k obchodnému zákoníku. 5. díl, Paragraf 566 – 775. Praha :
+Linde Praha, a.s, 1999. 687 s. ISBN 80-7201-175-8.
+SERÁTOR, M. Spôsoby súdnej ochrany obchodného tajomstva. [online]. Bratislava :
+EPRAVO Group s.r.o., Marec 2019 [cit. 2021-11-20]. Dostupné na internete:
+<https://www.epravo.sk/top/clanky/spsoby-sudnej-ochrany-obchodneho-tajomstva4411.html>. ISSN 2644-5328.
+SIXTA, J. – BENCOVÁ, E. Chránite si svoje obchodné tajomstvá? Čo je obchodné
+tajomstvo a ako ho chrániť [online]. Bratislava : EPRAVO Group s.r.o., Jún 2015 [cit. 202111-20]. Dostupné na internete: <https://www.epravo.sk/top/clanky/chranite-si-svoje-obchodnetajomstva-co-je-obchodne-tajomstvo-a-ako-ho-chranit-2921.html>. ISSN 2644-5328.
+
+SUCHOŽA, J. Obchodný zákonník a súvisiace predpisy : Komentár. Bratislava :
+Vydavateľstvo EUROUNION, spol. s.r.o., 2016. 1336 s. ISBN 978-80-89374-34-2.
+ŠTENGLOVÁ, I. a kol. Obchodní tajemství : praktická příručka. Praha : Linde, 2005. 159
+s. ISBN: 80-7201-559-1.
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 4. vyd.
+Praha : C. H. Beck, 1996. 834 s. ISBN 80-7179-09-4.
+ŠTENGLOVÁ, I. – PLÍVA, S. – TOMSA, M. a kol. Obchodní zákoník : komentář. 12.
+vyd. Praha : C. H. Beck, 2009. 1397 s. ISBN 978- 80- 7400- 055- 3.
+
+41
+
+WILFLING, P. – BABIAKOVÁ, K.: Právo na informácie. Výklad k zákonu o slobodnom
+prístupe k informáciám, problémy z praxe, rozhodnutia súdov. Bratislava: Občan a
+demokracia, 2006, dostupné na internete:
+<http://www.oad.sk/node/329?q=system/files/Pravo_na_informacie.pdf>.
+World Trade Organisation. TRIPS: A MORE DETAILED OVERVIEW OF THE TRIPS
+AGREEMENT. [online]. Dostupné na internete:
+<https://www.wto.org/english/tratop_e/trips_e/intel2_e.htm>. [cit. 2022-03-18].
+Zmena právnej úpravy obchodného tajomstva od 01.01.2018 [online]. Bratislava : AKMV
+advokátska kancelária s.r.o., Február 2019 [cit. 2021-11-20]. Dostupné na internete:
+<https://www.akmv.sk/zmena-pravnej-upravy-obchodneho-tajomstva-od-01.01.2018>.
+
+Zoznam použitých právnych predpisov
+Rozsudok Najvyššieho súdu Českej republiky sp. zn. 21 Cdo 617/2005
+Rozsudok Najvyššieho súdu Českej republiky sp. zn. Odo 2022/2000
+Rozsudok Najvyššieho súdu SR, sp. zn. 5 Obo 98/99
+Rozsudok Najvyššieho súdu SR, sp. zn. 1Sžo/103/2008
+Smernica Európskeho parlamentu a Rady (EÚ) 2016/943 z 8. júna 2016 o ochrane
+nesprístupneného know-how a obchodných informácií (obchodného tajomstva)
+Zákon č. 250/2007 Z. z. o ochrane spotrebiteľa a o zmene zákona Slovenskej národnej rady č.
+372/1990 Zb. o priestupkoch v znení neskorších predpisov. § 2 písm. u).
+Zákon č. 111/1927 Sb. o ochraně proti nekalé soutěži.
+Zákon č. 513/1991 Zb. Obchodný zákonník.
+Zákon č. 211/2000 Z. z. o slobodnom prístupe k informáciám.
+The TRIPS Agreement is Annex 1C of the Marrakesh Agreement Establishing the World Trade
+Organization, signed in Marrakesh, Morocco on 15 April 1994.
+
+42
+
+Skratky
+č. – číslo
+Sb. – Sbírka zákonů ČR
+Zb. – Zbierka zákonov
+ods. – odsek
+OBZ – Obchodný zákonník
+CRM - Customer Relationship Management
+resp. – respektíve
+EÚ – Európska únia
+s.r.o. – spoločnosť s ručením obmedzeným
+Z. z. – Zbierka zákonov
+sp. zn. – spisová značka
+napr. – napríklad
+s. – strana
+vyd. – vydanie
+TRIPS - Trade-Related Aspects of Intellectual Property Rights
+
+43
+
+

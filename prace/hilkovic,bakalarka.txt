@@ -1,0 +1,2490 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FILOZOFICKÁ FAKULTA
+
+PRVÁ CESTA OKOLO SVETA
+A STARÉ MAPY S ŇOU SÚVISIACE
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+Učiteľstvo geografie a histórie (Učiteľské štúdium, bakalársky I.
+st., denná forma)
+
+Študijný odbor:
+
+učiteľstvo a pedagogické vedy
+
+Školiace pracovisko:
+
+Katedra všeobecných dejín
+
+Školiteľ:
+
+Mgr. Daniela Hrnčiarová, PhD.
+
+2022
+Tomáš Hilkovič
+
+ČESTNÉ VYHLÁSENIE
+
+Čestne vyhlasujem, že bakalársku prácu s názvom Prvá cesta okolo sveta a staré
+mapy s ňou súvisiace som vypracoval samostatne, za pomoci uvedenej literatúry
+a poznatkov, ktoré mi boli poskytnuté v rámci konzultácií.
+
+_________________________
+V Sebedraží, dňa 1. 7. 2022
+
+Tomáš Hilkovič
+
+POĎAKOVANIE
+
+Na tomto mieste vyslovujem úprimné poďakovanie v prvom rade môjmu
+Spasiteľovi Pánovi Ježišovi Kristovi, ktorému verím, a ktorému vďačím za odpustenie
+všetkých hriechov, vedenie, múdrosť a každú pomoc. Okrem Neho moja vďačnosť patrí
+Mgr. Daniele Hrnčiarovej, PhD., ktorá sa ma ujala a aj cez všetky problémy
+a nedostatky mi pomáhala. Nechcem zabudnúť ani na Mgr. Jána Vala, PhD., ktorý mi
+prispel cennými radami.
+Mgr. Daniela Hrnčiarová, PhD. a Mgr. Ján Valo, PhD. boli tiež osobami, ktoré mi
+veľmi pomohli pri riešení administratívnych komplikácií spojených so štúdiom. Ešte raz
+ďakujem.
+
+ABSTRAKT
+
+HILKOVIČ, Tomáš. Prvá cesta okolo sveta a staré mapy s ňou súvisiace
+[bakalárska práca]. Univerzita Komenského v Bratislave. Filozofická fakulta. Katedra
+všeobecných dejín. Školiteľ: Mgr. Daniela HRNČIAROVÁ PhD. Obhajoba: Bratislava,
+Filozofická fakulta, 2022. 62 s.
+
+Cieľom záverečnej práce je zasadiť cestu Fernãa de Magalhãesa do kontextu
+doby, v ktorej sa odohrala a priradiť k nej mapy, ktoré ovplyvnili, alebo mohli
+ovplyvniť Magalhãesa, ako aj mapy, ktoré boli priamo ovplyvnené jeho cestou. Práca
+má teoretický charakter. Práca je rozdelená na tri kapitoly. Prvá kapitola obsahuje popis
+faktorov, podmieňujúcich rozvoj moreplavby, ako aj objavné cesty v období renesancie.
+Druhá kapitola obsahuje stručný životopis Fernãa de Magalhãesa a popis jeho poslednej
+plavby, vrátane hodnotenia jeho osobnosti a prínosu. Tretia kapitola sa venuje starým
+mapám, ktoré vznikli krátko pred cestou a mohli cestu ovplyvniť, ako aj mapám, ktoré
+vznikli po ceste a prinášajú tak nové geografické informácie.
+
+Kľúčové slová: moreplavba; Fernão de Magalhães; prvá cesta okolo sveta;
+historická kartografia; staré mapy.
+
+4
+
+ABSTRACT
+
+HILKOVIČ, Tomáš. The first voyage around the world and related old maps
+[bachelor thesis]. Comenius University in Bratislava. Faculty of Arts. Department of
+General History. Supervisor: Mgr. Daniela HRNČIAROVÁ PhD. Defense: Bratislava,
+Faculty of Arts, 2022. 62 pp.
+
+The aim of this final thesis is to place the journey of Fernão de Magalhães in the
+context of the time in which it took place and to assign to it maps that influenced or
+could influence Magalhães, as well as maps that were directly influenced by his
+journey. The work has a theoretical character. The work is divided into three chapters.
+The first chapter contains a description of factors influencing the development of
+seafaring, as well as voyages of discovery during the Renaissance. The second chapter
+contains a brief biography of Fernão de Magalhães and an account of his last voyage,
+including an assessment of his personality and contribution. The third chapter deals with
+old maps that were created shortly before the journey and could influence the journey,
+as well as maps that were created after the journey and thus bring new geographical
+information.
+
+Key words: seafaring; Fernão de Magalhães; the first voyage around the world;
+historical cartography; old maps.
+
+5
+
+PREDHOVOR
+Tému prvej cesty okolo sveta som si zvolil hneď z niekoľkých dôvodov. Od
+detstva ma fascinujú dejiny moreplavby, pričom Fernão de Magalhães je jedným z jej
+najprominentnejších
+
+predstaviteľov
+
+a prvá
+
+plavba
+
+okolo
+
+sveta
+
+jedným
+
+z najfascinujúcejších počinov. Táto slávna cesta bola úspešne zavŕšená presne pred 500
+rokmi. Okrem toho študujem učiteľstvo histórie v kombinácii s geografiou a nielen
+objavné cesty, ale aj historická kartografia je ich veľmi pekným prienikom.
+V neposlednom rade si ako budúci učiteľ myslím, že objavné plavby sú pre deti
+a žiakov pútavou témou, najmä pre chlapcov.
+So spracovaním problematiky renesančnej moreplavby, vrátane plavby
+Magalhãesa-del Cana, som sa v slovenskej a českej literatúre stretol najmä na úrovni
+populárno-náučnej literatúry pre deti a mládež. Úplne však chýbala práca, zameraná na
+prepojenie starých máp s touto významnou výpravou. Zo zahraničnej literatúry som
+pracoval so zdrojmi v anglickom jazyku. Množstvo hodnotných podkladov bolo pre
+mňa neprístupných, okrem iného pre jazykovú bariéru spôsobenú nedostatočnými
+znalosťami španielčiny, portugalčiny a francúzštiny.
+Táto práca je určená v prvom rade študentom a pedagógom histórie a geografie,
+pričom chce poskytnúť zaujímavé informácie o prepojenosti moreplavby s dobovou
+kartografiou. Okrem toho moja práca môže byť rozšírením vedomostí pre každého
+zvedavého čitateľa.
+
+6
+
+OBSAH
+Zoznam obrázkov .................................................................................................. 8
+Úvod..................................................................................................................... 10
+1
+
+Európska moreplavba .......................................................................................... 12
+
+1.1 Predpoklady.......................................................................................................... 12
+1.2 Pyrenejský polostrov ............................................................................................ 14
+1.3 Dôsledky .............................................................................................................. 23
+2
+
+Fernão de Magalhães ........................................................................................... 25
+
+2.1 V portugalských službách .................................................................................... 25
+2.2 V španielskych službách ...................................................................................... 28
+2.3 Osobnosť a prínos ................................................................................................ 33
+3
+
+Staré mapy ........................................................................................................... 37
+
+3.1 Mapy pred cestou ................................................................................................. 37
+3.2 Mapy po ceste ...................................................................................................... 49
+Záver .................................................................................................................... 53
+Zoznam použitej literatúry ................................................................................... 57
+
+7
+
+ZOZNAM OBRÁZKOV
+
+Obr. 1
+
+Cantinova mapa sveta (1502) ........................................................................... 39
+
+Obr. 2
+
+Waldseemüllerova mapa sveta z roku 1507 ..................................................... 41
+
+Obr. 3
+
+Tvar Južnej Ameriky na glóbusoch Johanna Schönera (1515, 1520) .............. 44
+
+Obr. 4
+
+Mapa Kunstmann IV od Pedra a Jorgeho Reinelovcov (1519)........................ 47
+
+Obr. 5
+
+Mapa Indického oceánu od Pedra Reinela (1517) ........................................... 47
+
+Obr. 6
+
+Pigafettova mapa Magalhãesovej úžiny (1520) ............................................... 49
+
+Obr. 7
+
+Magellanova mapa (1522)................................................................................ 50
+
+Obr. 8
+
+Planisféra Castiglioni (1525)............................................................................ 51
+
+8
+
+Všetky veci sú plné trudu;
+nemohol by to človek vypovedať;
+oko sa nenasýti hľadenia,
+a ucho sa nenaplní počúvaním.
+
+(KAZATEĽ 1.8; BIBLIA)
+
+9
+
+ÚVOD
+
+Cieľom tejto bakalárskej práce je priblížiť osobnosť Fernãa de Magalhãesa
+a prvú plavbu okolo sveta v epoche rozmachu oceánskej moreplavby na pomedzí
+stredoveku a novoveku s dôrazom na konkrétne kartografické diela, ktoré s touto
+plavbou súvisia. Spomínané diela s cestou súvisia buď tým, že niesli informácie,
+podporujúce jej realizáciu, priamo sa na realizácii podieľali, alebo boli vyhotovené na
+jej základe.
+Chronologicky sa pohybujeme na konci stredoveku a úplnom začiatku
+novoveku, teda v období renesancie, presnejšie by bolo možné hovoriť najmä o rozpätí
+vyše storočia medzi rokmi 1415 a 1522.
+Práca je rozdelená na tri kapitoly. Prvá kapitola v troch podkapitolách pojednáva
+o príčinách rozmachu európskej moreplavby na konci stredoveku, so zameraním na
+kráľovstvá Pyrenejského polostrova, a stručne popisuje jej najvýznamnejšie udalosti
+a ich dopady, čím vykresľuje kontext doby, v ktorej bola vykonaná prvá plavba okolo
+sveta. Druhá kapitola sa venuje Portugalcovi Fernãovi de Magalhãesovi. Prvá
+podkapitola sa zaoberá prvou časťou jeho života, keď bol poddaným portugalských
+kráľov, v službách ktorých sa vyprofiloval na skúseného námorného kapitána
+s myšlienkou konkrétnej plavby, ktorú chcel zrealizovať. Druhá podkapitola popisuje
+pomerne krátke obdobie Magalhãesovho života, keď v Španielsku usiloval o realizáciu
+svojej cesty, cestu pripravil a realizoval, pri čom prišiel o život. Tretia podkapitola
+hodnotí Magalhãesovu osobnosť a sumarizuje prínos významnej cesty, ktorú podnikol
+a ktorá skončila oboplávaním zemegule. Tretia kapitola je zameraná na mapy a iné
+kartografické diela a dobové geografické poznanie, ktoré formovalo Magalhãesovu
+myšlienku na odvážnu plavbu v prvej podkapitole, vrátane kartografických diel, ktoré
+boli potrebné pre samotnú výpravu. V druhej podkapitole sa zameriava na mapy, ktoré
+vznikli v nadväznosti na oboplávanie zemegule.
+Predkladaná
+
+problematika
+
+bola
+
+v minulosti
+
+rozpracovaná
+
+viacerými
+
+zahraničnými autormi, avšak na Slovensku je nová. Z toho dôvodu, s výnimkou prvej
+kapitoly ku ktorej sú dostupné slovenské a české publikácie, boli podkladom k tejto
+práci zahraničné diela. Hlavnými prameňmi boli práce v anglickom jazyku. Zdrojmi
+o Magalhãesovi a jeho ceste boli primárne Zpráva o první cestě kolem světa od Antonia
+10
+
+Pigafettu a dielo The Life of Ferdinand Magellan, and the First Circumnavigation of the
+Globe. 1480-1521 od Francisa H. H. Guillemerda. Časť historickej kartografie je opretá
+najmä o prácu Cartography, Geometry and Comunication (...) od kolektívu
+španielskych autorov, Magellan’s map (Os mapas de Magalhães) od Ruia Manuela
+Loureira a „monografie“ Jima Siebolda na stránke http://myoldmaps.com/. Pre jazykovú
+bariéru som sa nedostal k niektorým hodnotným a relevantným dielam v portugalčine,
+španielčine a francúzštine. Veľká časť odborných prác o kartografii je prevzatá
+z uznávaného časopisu Imago Mundi.
+V tejto práci je použité dvojaké menovanie. Autor si uvedomuje, že môže
+spôsobovať chaos, uchýlil sa však k tomuto pragmatickému riešeniu pre jeho
+jednoduchosť. Väčšina spomenutých osobností, vrátane samotného Magalhãesa, nesie
+meno v jazyku svojho pôvodu, alebo také, ktorým tá-ktorá osoba býva najčastejšie
+identifikovaná. Výnimku, teda použitie slovenskej podoby, tvoria mená princ Henrich,
+kňaz Ján, Krištof Kolumbus, Katolícke veličenstvá a kráľ Karol I, u nás takmer
+nepoznané v inej podobe. Geografické termíny sú uvádzané v tvaroch, bežne
+používaných v slovenskom jazyku.
+Keď sa v práci jedná o chystanú plavbu, alebo jej časť po Filipíny, nesie
+prívlastok Magalhãesova, keď sa však jedná o celkovú cestu, nesie presnejšie
+pomenovanie Magalhãesova-del Canova. Menej známe pomenovania v cudzom jazyku
+sú pri svojom prvom menovaní zvýraznené kurzívou.
+
+11
+
+1 EURÓPSKA MOREPLAVBA
+
+1.1 Predpoklady
+
+Na konci stredoveku súbor faktorov prispel k tomu, že v Európe prišlo
+k výraznému rozvoju moreplavby, najmä oceánskej, pričom krajiny Pyrenejského
+polostrova sa stal jej neprehliadnuteľnými priekopníkmi.
+V prvom rade išlo o rozširujúci sa vplyv humanizmu a renesancie, ktorý
+znamenal hospodársky a vedomostný pokrok a priniesol zmeny v kultúrnej oblasti.1
+Ďalšou príčinou bol dlhodobo predražený obchod s Orientom, ktorý z Európy
+odčerpával drahé kovy. Tie boli tiež predmetom tezaurácie šľachty. To spôsobilo
+nedostatok zlata a striebra vo vnútroeurópskom obchode.2 Dobytie Konštantínopolu
+v roku 1453 a čiernomorského prístavu Kaffa v roku 1457 Osmanmi znamenalo
+definitívny koniec priameho obchodu medzi Európou a Orientom a nezvratné zvýšenie
+cien všetkých možných komodít.3 S predraženým obchodom súvisela najmä jedna
+komodita – korenie, ktoré sa dovážalo až z Molúk, súostrovia v dnešnej Indonézii.4
+Istým stimulom mohli byť informácie o nesmiernom bohatstve Orientu, postupne
+prinášané renesančnými suchozemskými cestovateľmi.5
+Nezanedbateľným dôvodom bolo pokračovanie stredovekého križiackeho
+snaženia namiereného najmä proti moslimom,6 s ktorým na konci stredoveku súviselo
+úsilie o nájdenie cesty do krajiny (niekde na juhu Afriky), v ktorej vládne potenciálny
+spojenec, legendárny kňaz Ján.7
+
+ANDĚL, Rudolf a Alice /red./ TEICHOVA. Dějiny středověku 2. Praha: Státní pedagogické
+nakladatelství, 1968. Světové dějiny, sv. 3. s. 234.
+2
+ANDĚL, ref. 1, s. 234; SÁNCHEZ IMIZCOZ, Ruth. … and the World was round: The MagellanElcano Adventure The First Circumnavigation of the World. In: South Atlantic Review, vol. 82, no. 2
+(Summer 2017), s. 4.
+3
+KLÍMA, Jan. Dějiny Portugalska. Praha: Nakl. Lid. noviny, 1996. Dějiny států. ISBN 80-7106-164-6, s.
+56.
+4
+ZWEIG, Stefan. Magellan. Bratislava: Slovenský spisovateľ, 1969. s. 12 – 15.
+5
+HOLEČEK, Milan. Hrdinové zámořských objevů. Praha: Vyšehrad, 2019. ISBN 978-80-7601-099-4, s.
+14, 19.
+6
+SÁNCHEZ IMIZCOZ, ref. 2, s. 4.
+7
+KLÍMA, ref. 3, s. 59.
+1
+
+12
+
+Dôležitou podmienkou rozvoja moreplavby bol technický pokrok, v tomto
+období bolo vytvorených niekoľko kľúčových vynálezov a zdokonalení. Prvým z nich
+bol kompas s magnetickou ihlou, ktorý umožnil presnejšie a odvážnejšie plavby ďalej
+od pobrežia.8 Progres prišiel aj v pohone lodí, veslový aj kombinovaný veslovo-veterný
+pohon bol nahradený čisto veterným. To bolo umožnené zdokonalením konštrukcie
+sťažňov, plachiet a takeláže.9 Na základe tejto zmeny sa zvýšila kapacita lodí a vďaka
+tomu sa predĺžila vzdialenosť, ktorú mohli prejsť bez zastavenia.10 V Portugalsku lodní
+stavitelia zdokonalili predtým menšiu rybársku loď typu karavela, ktorá sa pre svoju
+mohutnú, no ľahkú konštrukciu a pomerne dobrú ovládateľnosť a vhodnosť na
+oceánsku plavbu stala dôležitým plavidlom prvých ciest. Z nej bola ďalej vyvinutá
+väčšia, pokrokovejšia loď, zvaná karaka (alebo nao), ktorá bola objemnejšia, lepšie
+ovládateľná a vyzbrojená. Tá bola najdôležitejším plavidlom Portugalcov v Atlantickom
+a Indickom oceáne. Úspešnú karaku prevzali Španieli a v 16. st. spojením so
+stredomorskou poloplachetnicou galeasou z nej vytvorili lodný typ pomenovaný
+galeóna, neskorší symbol európskej kolonizácie.11 Technický pokrok v navigácii súvisel
+v Itálii so vznikom nového druhu máp, takzvaných Portolánov. Základom týchto máp
+bola sústava ružíc a sieť smerových lúčov, teda čiar, ktoré nazývame loxodrómy.
+Loxodróma je pomyselná krivka na zemskom povrchu, pretínajúca poludníky pod
+konkrétnym uhlom. Aj keď nezobrazuje najkratšiu možnú vzdialenosť, loxodróma je do
+niekoľkých stoviek kilometrov takmer najkratšou, veľmi výhodnou spojnicou dvoch
+bodov na zemskom povrchu. Portolány boli zamerané na pobrežie Stredozemného
+mora, to zachytávali najpresnejšie.12
+Až na poslednom mieste medzi dôvodmi rozvoja moreplavby bola romantická
+túžba po rozšírení poznania o svete (ak vôbec).13
+Spomedzi európskych monarchií sa kľúčovými hráčmi počiatkov kolonizácie
+stali tie, ktoré ležali na Pyrenejskom polostrove. Hlavným dôvodom bola ich
+ANDĚL, ref. 1, s. 235; KOSIARZ, Edmund. Námorné bitky. 2. dopl. vyd. Bratislava: Nakladateľstvo
+Pravda, 1984. s. 62 – 63.
+9
+Takeláž je termín označujúci lanovie plachetnice, teda súbor technických zariadení na ovládanie
+plachiet. (CAJTHAML, Miroslav. Historické lodě 16. až 18. století. Brno: Computer Press, 2009. ISBN
+978-80-251-2355-3, s. 120.
+10
+KOSIARZ, ref. 8, s. 62 – 63.
+11
+KOSIARZ, ref. 8, s. 63 – 64; GULÁŠ, Štefan, Plachetnice všetkých čias. Bratislava: Mladé letá, 1979,
+s. 148, 150.
+12
+KAROLČÍK, Štefan a Ľuboš BALÁŽOVIČ. Základy kartografie, GIS a DPZ pre učiteľov. Banská
+Bystrica: VKÚ Harmanec, 2020. ISBN 978-80-99934-16-1, s. 14 – 15.
+13
+MOŽEJKO, Igor Vsevolodovič. Pod pirátskou vlajkou. Praha: Naše vojsko, 2009. ISBN
+9788020610270, s. 16.
+8
+
+13
+
+geografická poloha.14 Pyrenejský polostrov, ležiaci na rozhraní Európy a Afriky,
+Stredozemného mora a Atlantického oceánu, je z veľkej väčšiny obklopený vodou,
+ktorá stáročia predstavovala dobré podmienky pre rozvoj rybárstva, komunikácie,
+obchodu a bezpečnej príbrežnej moreplavby.15 Moreplavba bola do istej miery jedinou
+možnosťou.16 Okrem toho v správnom čase prišlo k spomínanému zdokonaleniu
+plavidiel. Ďalej to bol historický vývoj, na konci stredoveku tu vrcholila reconquista,
+ktorá znamenala tak základ sebavedomia, ako aj dostatok vojenských skúseností
+a bojovníkov.17 Významným impulzom bol príliv skúsených zahraničných kapitánov,
+navigátorov, námorníkov, lodných staviteľov a iných odborníkov, po začatí oceánskych
+plavieb prúdiacich na Pyrenejský polostrov, medzi ktorými vynikali rôzni obyvatelia
+Itálie (Kolumbus, Vespucciovci, a ďalší). V neposlednom rade tunajšiu moreplavbu
+naštartovali investície z Janova a Florencie.18
+
+1.2 Pyrenejský polostrov
+
+Zlomový pre ďalšie smerovanie Portugalska bol rok 1385. Za kráľa bol
+korunovaný João I., ktorým sa na portugalský trón dostala nová dynastia Avis, následne
+panovník ukončil vnútorné nepokoje a nakoniec v rozhodujúcej bitke pri Aljubarrote
+získal nezávislosť od Kastílie, ktorá bola zaistená mierovou zmluvou z roku 1411.19
+V roku 1415 João I. zhromaždil veľké invázne vojsko a nečakaným útokom dobyl
+maurskú pevnosť Ceuta na severoafrickom pobreží Gibraltárskej úžiny. Pre Portugalcov
+išlo o nebývalý úspech, ktorý dobyvateľom zabezpečil dôležitú základňu na Africkom
+pobreží a značnú korisť. Okrem toho naštartoval výnosný obchod s otrokmi. Dobytie
+
+14
+
+GUILLEMARD, Francis Henry Hill. The Life of Ferdinand Magellan, and the First Circumnavigation
+of the Globe: 1480-1521. London: George Philip & Son, 1891, s. 2.
+15
+CHALUPA, Jiří. Dějiny Španělska. Praha: Nakladatelství Lidové noviny, 2017, ISBN 978-80-7422525-3, s. 13.
+16
+AXELSON, Eric. Prince Henry the Navigator and the Discovery of the Sea Route to India. In: The
+Geographical Journal, vol. 127, no. 2 (Jun., 1961), s. 145.
+17
+ANDĚL, ref. 1, s. 236; HOLEČEK, ref. 5, s. 33, 62.
+18
+ANDĚL, ref. 1, s. 236.
+19
+KLÍMA, ref. 3, s. 43.
+
+14
+
+bohatej Ceuty je považované za začiatok Portugalských dobyvačno-obchodnoobjavných ciest.20
+Je zažitou tradíciou na počiatku Portugalských objavov vnímať osobnosť infanta
+Doma Henriqueho (1394 – 1460), u nás známu ako princ Henrich, od 19. storočia zvaný
+„Moreplavec“. Bol tretím synom Joãa I. a Filipy Lancasterskej. Zúčastnil sa výpravy do
+Ceuty, kde Portugalci získali cenné informácie o Africkom obchode a logicky zatúžili
+po bohatstve, ktoré poskytoval.21 O Henrichovi sa ďalej hovorí ako neúnavnom
+iniciátorovi výprav pozdĺž Afrického pobrežia.22 Údajne na skalnatom myse s. Vincenta
+v provincii Algarve neďaleko mestečka Sagres na juhozápadnom výbežku Portugalska
+založil vychýrenú Námornú akadémiu (Escola náutica), kde sústredil pestrú
+medzinárodnú zmes šikovných námorných kapitánov, kartografov a lodných staviteľov,
+pričom jeho cieľom boli skvelé výpravy a zemepisné objavy.23 Úplným vrcholom je
+hodnotenie Henricha ako nezištného dobrodruha, ktorého myseľ opanovala (jedine)
+túžba po objavovaní v Európe dosiaľ nepoznaných končín. Rôzne z týchto pohľadov
+nachádzame v odborných publikáciách a prácach, ale tiež v literatúre a v neposlednom
+rade v populárno historických dielach pre deti a mládež. S istotou môžeme povedať, že
+legenda Henricha „Moreplavca“ je výrazne nafúknutá.
+V prvom rade je potrebné spomenúť, odkiaľ sa vzala historicky nie úplne
+správna verzia života a vplyvu princa Henricha. Rozvinuli ju portugalskí kronikári, ktorí
+svoje hodnotenie Henricha spísali po jeho smrti v priebehu 15. a 16. storočia, s cieľom
+vyzdvihnúť jeho zásluhy na zámorských objavoch.24 Najvýznamnejším z nich
+a pravdepodobným zdrojom pre neskorších pisateľov bol Gomes Eanes de Zurara (alebo
+Azurara), ktorý písal dejiny portugalských krížových výprav a keďže princ Henrich stál
+na ich čele, dostalo sa mu až nekriticky veľa uznania.25
+Považujem tiež za dôležité na úkor hlavného (mainstreamového) pohľadu
+poukázať na niekoľko záverov rôznych vedeckých prác, ktoré naštrbujú, alebo úplne
+vyvracajú zmienenú neprimeranú glorifikáciu princa Henricha.
+
+KLÍMA, ref. 3, s. 48 – 49; ANDĚL, ref. 1, s. 236 – 237.
+AXELSON, ref. 16, s. 147.
+22
+HOLEČEK, ref. 5, s. 35; MOŽEJKO, ref. 13, s. 17; ANDĚL, ref. 1, s. 237.
+23
+HOLEČEK, ref. 5, s. 37.
+24
+ELBL, Ivana. Man of His Time (and Peers): A New Look at Henry the Navigator. In: Luso-Brazilian
+Review, vol. 28, no. 2 (Winter, 1991), s. 73.
+25
+Tamže s. 85.
+20
+21
+
+15
+
+Tento tretí syn portugalského kráľa, bez výraznej šance na neskoršiu vládu, bol
+pravdepodobne typickým šľachticom svojej doby, vytrvalým v snahe o dosiahnutie
+kariéry a zabezpečenie si majetku a vplyvu. Keďže reconquista v portugalskej časti
+Pyrenejského polostrova bola skončená, bol nútený hľadieť ďalej.26 Po dobytí Ceuty
+ako mnohí iní vycítil vo výpravách do Afriky príležitosť. Dlhšiu dobu (asi medzi rokmi
+1419 a 1433) jeho plány stagnovali. Získal však tituly a v roku 1420 dosiahol veľmi
+významnú pozíciu veľmajstra tzv. „Kristovho radu“, podporovaného samotným
+pápežom.27 Nasledujúce roky vďaka vzrastu vplyvu na kráľovskom dvore mohol stáť na
+čele niekoľkých úspešných výprav na územie súčasného Maroka, no jeho snahy boli
+nakoniec zastavené drvivou porážkou pri Tangeri v roku 1437. Po tejto katastrofe sa
+obrátil k ďalšej možnosti, námorným výpravám, prvé plavby boli však len vedľajším
+produktom korzárstva v marockých pobrežných vodách.28 Pritom pripravoval mohutnú
+krížovú výpravu na marockú pevninu, ktorú úspešne začal dobytím Alcácer Ceguer-u
+v Gibraltárskej úžine v roku 1458, ale jeho vplyv na kráľovskom dvore postupne slabol
+a ťaženie nemohol dokončiť.29
+Zdá sa, že ani v Portugalsku sa nedostávalo jeho dobyvačným plánom (krížové
+výpravy) náležitej pozornosti.30 Vychýrená škola v meste Sagres, zhromažďujúca
+najlepších učencov bez ohľadu na jazyk, či náboženstvo je nepodložený mýtus.31
+Významnejšími iniciátormi plavieb, z ktorých vzišli slávne portugalské objavy, boli
+neskorší králi João II. „Dokonalý“ (vládol v rokoch 1481 – 1495) a Manuel I. „Šťastný“
+(1495 – 1521).32 Dovolím si tvrdiť, že čestné prímeno „Moreplavec“ si z pohľadu
+skutočného cestovania po mori vôbec nezaslúži, keďže najďalej sa doplavil do
+neďalekej Ceuty a z pohľadu rozvíjania moreplavby si ho skôr nezaslúži, keďže jeho
+cieľom nebolo zdokonaliť lode a navigáciu, ale dosiahnuť rýchle zisky a financie
+smerované do moreplavby boli len logickými investíciami.33
+
+26
+
+ELBL, ref. 24, s. 74.
+Tamže, s. 79; HOLEČEK, ref. 5, s. 35.
+28
+ELBL, ref. 24, s. 77 – 79.
+29
+Tamže s. 84.
+30
+Tamže s. 75.
+31
+AXELSON, ref. 16, s. 148; Portugalský diktátor Salazar na návrh uviesť všetko na pravú mieru údajne
+povedal: „Ľudia ho (mýtus) však milujú.“ THOMPSON, Ron B. The Myth of Sagres. Máj 2021. [online]
+dostupné na: https://www.portugalresident.com/the-myth-of-sagres/, [cit. 6. júna 2022].
+32
+DAVIES, Arthur. Prince Henry the Navigator. In: Transactions and Papers (Institute of British
+Geographers), no. 35 (Dec., 1964), s. 119; AXELSON, ref. 16, s. 148.
+33
+HOLEČEK, ref. 5, s. 37.
+27
+
+16
+
+Na druhej strane však nie je možné Henrichovi uprieť niektoré zásluhy. V honbe
+za bohatstvom, ktoré získaval alebo túžil získať predajom otrokov a korenia, či priamo
+ťažbou zlata, vyslal niekoľko výprav (Kanárske ostrovy, dvakrát Ceuta, krížové
+výpravy proti Maurom), ktoré v rámci Portugalska patrili medzi prvé. Nevieme s istotou
+povedať, ktoré z množstva ďalej menovaných výprav boli výlučne dielom princa
+Henricha.34
+Ako sme už uviedli vyššie, dobytím Ceuty sa v roku 1415 začína epocha
+portugalskej moreplavby a objavov.
+V roku 1419 dvaja korzári bojujúci proti Maurom João Gonçalves Zarco (1394 –
+1467/1471) a Tristão Vaz Teixeira (1395 – 1480) vďaka búrke, ktorá ich lode vychýlila
+z pôvodného kurzu, objavili dlhšiu dobu zabudnuté ostrovy Porto Santo a Madeira
+a urobili z nich portugalské kolónie, dodávajúce drevo a cukor.35 Skúsený Gonçalo
+Velho Cabral (asi 1400 – 1460) v roku 1431 (alebo 1432) objavil a podľa množstva
+jastrabov pomenoval Azorské ostrovy.36 Znovuobjavenie spomínaných dvoch
+atlantických súostroví, ktoré dodnes patria Portugalsku, bolo významné aj kvôli
+sebavedomiu a nejakej koristi, no najmä vďaka nenahraditeľným skúsenostiam
+plynúcim z poznávania pravidelných vetrov a morských prúdov, ktoré portugalskí
+moreplavci získavali častými plavbami ne (od domácej pevniny vzdialené 950 km,
+respektíve približne 1400 km).37
+Veľmi významným počinom boli tri plavby Gil Eanesa (1395 – asi 1445) pozdĺž
+pobrežia Afriky. Prvá, v roku 1433 dosiahla Kanárske ostrovy a mys Bojador (26° 7‘ s.
+z. š.). O rok neskôr Eanes oboplával tento mys, čo sa mu podarilo ako vôbec prvému
+Európanovi. V roku 1435 svoj počin zopakoval a dostal sa ešte ďalej a na súši
+zaznamenal stopy života, čo bolo pre Európanov prekvapením.38 Jedným z problémov,
+ktorým čelili mnohé výpravy, plaviace sa pozdĺž afrického pobrežia, boli ľudové
+povery, strašiace mysle námorníkov. Mys Bojador v nich zohrával dôležitú úlohu,
+
+DAVIES, ref. 32, s. 124 – 125.
+HRBEK, Ivan. ABC cestovatelů, mořeplavců, objevitelů. Praha: Panorama, 1979. s. 283; KLÍMA, ref.
+3, s. 53; HOLEČEK, ref. 5, s. 37 – 38; AXELSON, ref. 16, s. 147.
+36
+HRBEK, ref. 35, s. 52; KLÍMA, ref. 3, s. 54; HOLEČEK, ref. 5, s. 38; AXELSON, ref. 16, s. 147.
+37
+DAVIES, ref. 32, s. 121; AXELSON, ref. 16, s. 147.
+38
+HRBEK, ref. 35, s. 86; KLÍMA, ref. 3, s. 54; HOLEČEK, ref. 5, s. 38; AXELSON, ref. 16, s. 147.
+34
+35
+
+17
+
+pretože za ním sa mal nachádzať koniec sveta, územia bez života, variace sa more,
+alebo rôzne obludy. Eanes tak pomohol k demýtizácii morí a moreplavby.39
+V rokoch 1435 – 1436 sa plavil Afonso Gonçalves Baldaia (asi 1415 – 1481),
+dostal sa južnejšie ako Eanes a pusté Saharské pobrežie pomenoval Zlatá rieka (Rio do
+Ouro; 23° 37‘ s. z. š.).40 Ďalším zo zástupu portugalských kapitánov bol Nuno Tristão
+(†1446). Ten na svojich štyroch výpravách v rokoch 1441 – 1447 objavil Biely mys
+(Cabo Branco; 20° 46‘ s. z. š.), založil prvú portugalskú faktóriu, obchodnú základňu
+s vojenskou posádkou, v zálive Arguim (20° 36‘ s. z. š.), objavil ústia riek Senegal (16°
+3‘ s. z. š.) a Gambia (13° 28‘ s. z. š.) a priviezol množstvo otrokov. V tom istom čase sa
+samostatne plavil Dinis Dias, ktorý objavil a pomenoval Zelený mys (Cabo Verde; 14°
+43‘ s. z. š.) pretože spozoroval, že za ním pustú Saharu strieda „zelená“ Afrika, čo
+mohlo Portugalcov povzbudiť k ďalším plavbám na juh.41 Po týchto cestách sa už
+Portugalcom rýchlo vracali investície a kráľovská politika bola aj napriek desivému
+neúspechu obliehania Tangeru logicky obrátená na námorné výpravy. Vďaka získanému
+zlatu sa začalo s razbou nových kráľovských mincí. V juhoportugalskom prístavnom
+meste Lagos bola v štyridsiatych rokoch 15. st. založená obchodná spoločnosť Casa da
+Guiné, ktorá investorom prinášala zisky rádovo v stovkách percent.42
+Benátčan v portugalských službách Alviso Cadamosto (asi 1432 – 1488)
+a Diogo Gomes (asi 1420 – 1500) medzi rokmi 1455 a 1456 objavili neďaleko Zeleného
+mysu prvé ostrovy nového súostrovia, podľa mysu pomenovaného Kapverdy, ktoré
+kompletne preskúmal Janovčan António de Nola (asi 1415 – 1497) v roku 1460.43 Ešte
+v roku 1459 Pedro da Sintra (†1484) objavil a preskúmal pobrežie ním pomenované
+Serra Leoa (8° 30' s. z. š.).44 (V tejto dobe zomrel vyššie spomínaný princ Henrich,
+v čase jeho smrti bolo najvzdialenejším dosiahnutým územie dnešného štátu Sierra
+Leone.45)
+Okrem samotných ciest sa na začiatku druhej polovice 15. st. diali niektoré
+podstatné veci. Kráľ Afonso V. (1438 – 1477) na päť rokov predal Henrichov monopol
+
+HOLEČEK, ref. 5, s. 38; MOŽEJKO, ref. 13, s. 18 – 19.
+AXELSON, ref. 16, s. 147; KLÍMA, ref. 3, s. 54.
+41
+HRBEK, ref. 35, s. 81; 266; KLÍMA, ref. 3, s. 55 – 56; HOLEČEK, ref. 5, s. 39; AXELSON, ref. 16, s.
+147 – 148.
+42
+KLÍMA, ref. 3, s. 54 – 56.
+43
+HRBEK, ref. 35, s. 52; KLÍMA, ref. 3, s. 56; HOLEČEK, ref. 5, s. 40; AXELSON, ref. 16, s. 148.
+44
+HOLEČEK, ref. 5, s. 40; AXELSON, ref. 16, s. 148.
+45
+AXELSON, ref. 16, s. 149.
+39
+40
+
+18
+
+na africký obchod Fernão Gomesovi. Počas tejto doby sa portugalským moreplavcom
+podarilo prejsť Guinejským zálivom, objaviť São Tomé a prvý krát prekonať rovník. Po
+uplynutí lehoty sa v roku 1475 chopil zámorských plavieb a obchodu energický princ
+João, od roku 1481 kráľ João II. Okrem toho sa začal zvrat vo svetovom obchode, keď
+africký tovar neprúdil cez Saharu do arabských prístavov, ale cez Guinejský záliv do
+Portugalska, čo z Lisabonu urobilo prvoradú obchodnú križovatku. Ako Portugalsko
+bohatlo a mocnelo, začalo si nárokovať kastílsku korunu. To spôsobilo skrytý aj
+otvorený boj proti Kastílií a Aragónsku, ktorý iberské kráľovstvá vyčerpal a bol
+ukončený zmluvou v Alcáçovas a Tolede v roku 1479. V roku 1481 pápež potvrdil
+Portugalsku nároky na objavené územia.46
+Pod vládou Joãa II. pokračovali cesty portugalských moreplavcov. Diogo Cão
+(asi 1440 – 1486/1487) dvomi výpravami (1482 a 1485) objavil ústie rieky Kongo (6°
+3‘ j. z. š.) a na juhu sa dostal až po mys Kríža (Cabo da Cruz; 21° 46‘ j. z. š.). Vďaka
+veľkosti úspechu jeho prvej plavby portugalský kráľ odmietol istého janovského
+kapitána menom Krištof Kolumbus. Cão na africkom brehu vztýčil štyri stĺpy zvané
+Padrão, označujúce územia dosiahnuté moreplavcami a zachoval sa aj jeho nápis na
+skale neďaleko rieky Kongo.47 Na jeho plavby priamo nadviazal Bartolomeu Dias (1450
+– 1500), príbuzný vyššie spomenutého Dinisa Diasa. V roku 1487 sa doplavil južnejšie,
+ako jeho predchodcovia, ale kvôli vzbure sa musel vrátiť. Umiestnil Padrão na myse,
+ktorý pomenoval mys Búrok (33° 44‘ j. z. š.). Kráľ João II. ho však po návrate v roku
+1488 premenoval na mys Dobrej nádeje.48
+Po úspechu Bartolomea Diasa v Portugalsku z neznámych dôvodov ubehla jedna
+dekáda bez veľkej námornej výpravy do neznámych končín. Isté však je, že v roku 1487
+vyšla iná výprava, odlišná od predchádzajúcich, João II. vyslal Pêra da Covilhãa (asi
+1460 – 1526) a Afonsa da Paivu, aby po súši prenikli do Východnej Afriky a Indie, kde
+mali nadviazať spojenectvo s kňazom Jánom a zhromaždiť informácie o arabskom
+obchode. Druhý menovaný sa nedožil splnenia úlohy, no Pêro da Covilhã sa ako prvý
+Portugalec dostal až do miest na Indickom pobreží. Následne prešiel do Etiópie, kde
+musel zostať až do svojej smrti.49
+
+KLÍMA, ref. 3, s. 56 – 59; HOLEČEK, ref. 5, s. 40 – 41.
+HRBEK, ref. 35, s. 54; KLÍMA, ref. 3, s. 59 – 60; HOLEČEK, ref. 5, s. 41 – 42.
+48
+HRBEK, ref. 35, s. 80 – 81; KLÍMA, ref. 3, s. 60; HOLEČEK, ref. 5, s. 42 – 43; MOŽEJKO, ref. 13, s.
+18.
+49
+HRBEK, ref. 35, s. 66 – 67; KLÍMA, ref. 3, s. 60; HOLEČEK, ref. 5, s. 44 – 46.
+46
+47
+
+19
+
+Kým Portugalsko prenikalo na juh Afriky, Kastília a Aragónsko stále nemali
+ukončenú reconquistu.50 Ku koncu 15. st. vznikla sobášom tzv. Katolíckych veličenstiev
+Ferdinanda a Izabely personálna únia týchto dvoch kráľovstiev. Od vzniku onej
+personálnej únie môžeme hovoriť o Španielsku, najmä pre jednoduchosť tohto názvu.51
+Katolícke veličenstvá v roku 1492 dobyli Granadu, čím definitívne porazili Maurov na
+Pyrenejskom polostrove, čím sa im uvoľnili dlho viazané finančné aj ľudské zdroje.52
+Ešte v tom roku Ferdinand a Izabela vyslali Krištofa Kolumba (1451 – 1506),
+v Portugalsku odmietnutého, aby našiel západnú cestu do Ázie, podľa plánov, ktoré im
+predložil. Dostal sa však k novému, pre Európu neznámemu kontinentu, čo netušil.
+Preskúmal časť pobrežia Kuby a Hispanioly a niektorých menších ostrovov a triumfálne
+sa vrátil v roku 1493.53
+Aby Portugalsko a Španielsko predišli sporom, rozhodli sa rozdeliť si pod
+autoritou pápeža svet na sféry vplyvu. Z tejto iniciatívy vznikla v roku 1493 bula Inter
+caetera deliaca svet pomyselnou hranicou, umiestnenou 100 leguí západne od
+Azorských ostrovov a Kapverd, pričom krajiny ležiace na východ mali patriť
+Portugalsku a krajiny na západ od hranice Španielsku. João II. však požadoval revíziu
+a výsledkom bola zmluva podpísaná v španielskom meste Tordesillas, po ktorom nesie
+meno. Nová hranica, tzv. Tordesillaská línia sa tiahla od pólu k pólu vo vzdialenosti 370
+leguí západne od portugalských súostroví. Tordesillaská zmluva nevyriešila všetky
+problematické otázky, bola však dôležitým účelovým riešením.54
+Po nástupe Manuela I. na portugalský trón bola v roku 1497 vyslaná výprava
+Vasca da Gamu (1469 – 1524), ktorá sa mala dostať ďalej, ako Bartolomeo Diaz
+a doplaviť sa až do bohatej Indie. Da Gama sa plavil pozdĺž západoafrického pobrežia,
+kým v meste Malindi nezískal lodivoda, s ktorého pomocou sa dostal až do Kalikutu na
+polostrove Predná India. Tým objavil cestu do Indie a otvoril ju pre portugalských
+moreplavcov.55 Nakoľko malé Portugalsko nemalo prostriedky k obsadzovaniu
+rozsiahlych území, začalo uplatňovať politiku oporných bodov, teda strategicky
+
+HOLEČEK, ref. 5, s. 62 – 63.
+CHALUPA, ref. 15, s. 17.
+52
+Tamže, s. 163.
+53
+HOLEČEK, ref. 5, s. 68 – 75; CHALUPA, ref. 15, s. 169 – 170; KLÍMA, ref. 3, s. 60 – 61.
+54
+GUILLEMARD, ref. 14, s. 12 – 13; Stein/Starkey 437 – 438; SÁNCHEZ IMIZCOZ, ref. 2, s. 3 – 4.
+55
+HRBEK, ref. 35, s. 103; KLÍMA, ref. 3, s. 63 – 64; HOLEČEK, ref. 5, s. 46 – 48.
+50
+51
+
+20
+
+umiestených základní, faktórií, z ktorých kontrolovali obchod v oblasti Indického
+oceánu.56
+V roku 1500 bola do Indie vyslaná výprava Pedra Álvaresa Cabrala (asi 1467 –
+1526). Flotila sa z neznámych dôvodov plavila západnejšie, ako bolo zvykom a v rámci
+portugalskej sféry vplyvu objavila Brazíliu, ktorú Cabral pomenoval Ilha de Vera Cruz
+(Ostrov pravého kríža), neskôr bola nazývaná Terra de Santa Cruz (Zem svätého kríža).
+Následne Cabral poslal správu kráľovi a sám sa plavil ďalej do Indie, kde založil
+faktórie v mestách Kóčin a Kannanur. Aj keď jeho výprava neprebehla bez problémov,
+do Portugalska sa vrátil s množstvom korenia.57 V roku 1502 velil výprave do Indie
+znova Vasco da Gama, jeho úlohou bolo oslabiť vplyv Arabov a Benátok. Na Indickom
+subkontinente dobyl niekoľko miest, založil faktórie, ovládol obchodné cesty a vrátil sa
+s veľkým objemom prevažne ulúpeného korenia. Touto výpravou Portugalsko
+definitívne ovládlo európsky obchod s korením a priblížilo sa k Molukám, Ostrovom
+korenia, ktoré pre Európanov predstavovali zdroj veľkého bohatstva.58
+Pre portugalského kráľa bola India prioritou, do Brazílie však bolo vyslaných
+niekoľko menších výprav, aby tamojšiu krajinu preskúmali a priviezli zlato. Gonçalo
+Coelho (1451 – 1512) v rokoch 1501-1502 a 1503 viedol dve z nich. Nenašiel drahé
+kovy, no priviezol vzácne tropické drevo, po ktorom Brazília nesie meno. 59 V roku
+1516 viedol tri roky trvajúcu výpravu Cristóvão Jacques (asi 1480 – 1530), účastník
+Coelhovej druhej plavby. Pri Brazílskych brehoch bojoval proti pirátom, robil podrobné
+prieskumy a nakoniec tiež doviezol vzácne drevo.60 Nevieme však presne, kam až
+Coelho a Jacques zašli. Prinajmenšom druhý menovaný sa mohol dostať ďaleko na juh,
+možno až k Patagónskym brehom v španielskej sfére vplyvu.61
+Zatiaľ čo Portugalci pokračovali so svojimi plavbami do Indie a začínali skúmať
+Brazíliu, Krištof Kolumbus pod španielskou vlajkou podnikol medzi rokmi 1493 a 1504
+ďalšie tri výpravy na Antilské ostrovy a do Karibského mora.62 Po ňom sa do
+španielskych dŕžav na západe vypravili ďalší námorní kapitáni a dobyvatelia, prvým bol
+ANDĚL, ref. 1, s. 239.
+HRBEK, ref. 35, s. 52; KLÍMA, ref. 3, s. 64; HOLEČEK, ref. 5, s. 50 – 52.
+58
+HRBEK, ref. 35, s. 103; KLÍMA, ref. 3, s. 64; HOLEČEK, ref. 5, s. 48.
+59
+HOLEČEK, ref. 5, s. 53.
+60
+Tamže s. 55.
+61
+GUILLEMARD, ref. 14, s. 10, 82, 92.
+62
+STUCKE, Walter. Columbus, Christopher, 1451 – 1506 ce. In: The Sea in World History: Exploration,
+Travel, and Trade. vol. 1 [ebook] Stephen K. Stein (editor). Santa Barbara: ABC-CLIO, 2017. ISBN 9781-4408-3550-6, s. 431 – 432.
+56
+57
+
+21
+
+Alonso de Ojeda (asi 1466 – 1515). Po výprave s Kolumbom sa od roku 1499
+niekoľkokrát samostatne plavil do Západnej Indie ako Španieli volali novoobjavené
+končiny v domnienke, že sa nachádzajú v Ázii. Na svojich cestách sa ako prvý dostal na
+juhoamerickú pevninu, zakladal kolónie a objavil veľkú časť pobrežia vrátane dnešných
+štátov Venezuela a Kolumbia.63 Tiež v roku 1499 sa plavil ďalší bývalý Kolumbov
+spoločník, Vicente Yáñez Pinzón (asi 1462 – 1524). Bol prvým Španielom, ktorý sa
+preplavil cez rovník a vystúpil na pevninu neďaleko mysu s. Augustína (6° j. z. š.) na
+území dnešnej Brazílie tri mesiace pred Cabralom.64 Rodrigo de Bastiadis (1460 –
+1526) v roku 1500 skúmal pobrežné oblasti dnešných štátov Kolumbia a Panama
+a vyvrátil existenciu očakávaného prielivu na západ, keďže stále bola cieľom Španielov
+India.65
+Medzičasom v bola v Seville v roku 1503 založená inštitúcia Casa de
+Contratación, zastrešujúca španielske kolónie, obchod a komunikáciu s nimi. Na jej
+čele stál kráľom menovaný hlavný navigátor. Okrem iných kompetencií dohliadala na
+tvorbu a distribúciu presných máp,66 prípravu kartografov, kozmografov, navigátorov
+a ďalších profesionálov, potrebných pre námorné spojenie s kolóniami. Navyše tu bola
+tvorená mapa známa ako Padrón Real, aktualizovaná vzorová hlavná mapa, obsahujúca
+najnovšie poznatky.67
+V roku 1508 bol skúsený Vicente Yáñez Pinzón spolu s Juanom Díazom de
+Solís (asi 1470 – 1516) vyslaný hľadať prieliv na ďalej západ. Zmapovali veľkú časť
+západného pobrežia Karibského mora.68 V roku 1513 Vasco Núñez de Balboa (1475 –
+1519), účastník Bastiadisovej výpravy, na základe informácií od domorodcov, prešiel
+panamským pralesom zo severu – pobrežia Karibského mora – na juh, kde ako prvý
+Európan videl oceán na západ od Americkej pevniny, ktorý pomenoval El Mar del Sur
+(Južné more, alebo More juhu).69 Juan de Solís sa z pozície hlavného navigátora Casa
+de Contratación vydal v roku 1515 hľadať prieliv do Južného mora. V roku 1516 sa
+HRBEK, ref. 35, s. 122; HOLEČEK, ref. 5, s. 75 – 77.
+HOLEČEK, ref. 5, s. 79.
+65
+Tamže s. 77.
+66
+SANDMAN, Alison. Spanish Nautical Cartography in the Renaissance. In: The History of
+Cartography. vol.3, (part 1: Cartography in the european renaissance), [ebook] edited by David
+Woodward (editor). Chicago: University Of Chicago Press, 2007. ISBN 978-0-226-90732-1, s. 1096.
+67
+MARTÍNEZ JIMÉNEZ, Enrique, TAPIA FRADE, Alejandro a Francisco MONTES TUBÍO.
+Cartography, Geometry, and Communication: How to Narrate the Shape of the World Before and After
+the Journey of Magellan and Elcano. In: Revista Latina de Comunicación Social, vol. 74, s. 639;
+SANDMAN, ref. 66, s. 1095, 1097.
+68
+HOLEČEK, ref. 5, s. 82; HRBEK, ref. 35, s. 236.
+69
+HOLEČEK, ref. 5, s. 77, 83 – 85; HRBEK, ref. 35, s. 24.
+63
+64
+
+22
+
+dostal do mohutného ústia riek Uruguay a Paraná, dnes známeho ako Río de la Plata
+(35° j. z. š.), považovaného za hľadaný prieliv, kde v potýčke s kanibalmi zahynul.70
+Ešte neskôr viacero výprav (napríklad: Grijalva – 1518, Pineda – 1519) skončilo
+skúmanie pobrežia Strednej Ameriky, kde nenašlo prieliv do Južného mora.71
+V tejto dobe už vďaka portugalským poznatkom o Juhovýchodnej Ázii a hlavne
+španielskemu poznaniu rozsiahlosti Západnej Indie málokto pochyboval, že Kolumbus
+nedoplával do Ázie, ale objavil nový kontinent.72
+
+1.3 Dôsledky
+
+Prvé
+
+portugalské
+
+a španielske
+
+plavby, spomínané
+
+oboplávanie
+
+Afriky,
+
+dosiahnutie Indie a objavenie nového kontinentu, boli iba začiatkom ďalších ciest
+a objavov.
+Portugalské preniknutie na východ znamenalo narušenie zaužívaných poriadkov.
+Došlo ku presmerovaniu hlavných obchodných ciest, čím utrpeli najmä italské Benátky,
+na druhej strane získali mestá ako Lisabon, Sevilla a nizozemské Antverpy, ktoré sa
+stali centrami obchodu so zámorskými kolóniami.73
+Portugalsko malo za cieľ monopol na obchod s korením a iným luxusným
+tovarom. Aby ho dosiahlo, kráľ Manuel I. sa rozhodol vytvoriť úrad miestokráľa Indie,
+ktorý mal zabezpečiť jednotu správy a velenia Portugalského impéria.74
+V Európe vznikla zvláštna situácia, keď bezprecedentné zbohatnutie dvoch
+krajín (Portugalsko a Španielsko) zabezpečilo krátku dobu rozkvetu, ale nie
+hospodárskeho rozvinutia krajiny.75
+
+70
+
+HRBEK, ref. 35, s. 248.
+Tamže s. 50, 111, 212.
+72
+GUILLEMARD, ref. 14, s. 92.
+73
+ANDĚL, ref. 1, s. 245 – 246.
+74
+KLÍMA, ref. 3, s. 65; KLÍMA, Jan. Portugalská Indie. Praha: Libri, 2010. Stručná historie států, sv.č.
+71. ISBN 978-80-7277-475-3, s. 19.
+75
+MOŽEJKO, ref. 13, s. 32.
+71
+
+23
+
+Prvé obchodné a koristnícke úspechy štátov Pyrenejského polostrova sa stali
+predmetom
+
+závisti.
+
+S oneskorením
+
+na
+
+ne
+
+nadviazali
+
+Anglicko,
+
+Francúzsko
+
+a Nizozemsko.76
+
+76
+
+ANDĚL, ref. 1, s. 245 – 246.
+
+24
+
+2 FERNÃO DE MAGALHÃES
+
+2.1 V portugalských službách
+
+O mladosti Portugalského moreplavca Fernãa de Magalhães nemáme dostatok
+informácií. Narodil sa okolo roku 1480, buď v málo významnej vnútrozemskej obci
+Sabrosa na severe krajiny,77 alebo priamo vo veľkom prístavnom meste Porto.78 Jeho
+rodičia Rui de Magalhães a Alda de Mesquita79 patrili ku portugalskej šľachte.80 Po
+smrti rodičov vo veku asi 10 rokov81 nastupuje na kráľovský dvor, kde mal podľa
+vtedajšej obyčaje študovať, pričom sa pravdepodobne stretol aj s kartografom Martinom
+Behaimom.82 Nejakú dobu patril medzi pážatá kráľovnej Eleanor z Viseu 83 a v roku
+1495 prešiel priamo do služby kráľa Manuela I. Bezpochyby bol očitým svedkom
+mnohých slávnych expedícií veľkých moreplavcov ako Krištof Kolumbus, Bartolomeo
+Dias, Vasco da Gama.84
+V roku 1505 kráľ Manuel I. vyslal výpravu s prvým miestokráľom Indie,
+Franciscom de Almeida.85 Magalhães požiadal o uvoľnenie a po prvý krát sa stal
+účastníkom veľkej plavby.86 Vo vodách Indického oceánu sa práve v dobe
+Magalhãesovej prítomnosti upevňovalo postavenie Portugalska a formovala sa
+Portugalská ríša. V roku 1508 prebehol námorný stret medzi Benátkami podporovaným
+Egyptom, lokálnym indickým vládcom Zamorínom z Kalikatu a ich spojencami
+a eskadrou Lourença de Almeidu, miestokráľovho syna, pri meste Chaul na
+
+77
+
+GUILLEMARD, ref. 14, s. 18.
+Magellan, Ferdinand (1480-1521). [online] Encyclopedia of World Biography, Gale, 1998. dostupné
+na: link.gale.com/apps/doc/A148477970/AONE?u=artsk11&sid=bookmark-AONE&xid=f11e7de5. [cit.
+16. augusta 2021]. s. 1.
+79
+BASISTA, Jakub. Magelan, Ferdinand, 1480 – 1521 ce. In: The Sea in World History: Exploration,
+Travel, and Trade. [ebook] vol. 1 Stephen K. Stein (editor). Santa Barbara: ABC-CLIO, 2017. ISBN 9781-4408-3550-6, s. 433.
+80
+GUILLEMARD, ref. 14, s. 20.
+81
+BASISTA, ref. 79, s. 433.
+82
+HOLEČEK, ref. 5, s. 96; GUILLEMARD, ref. 14, s. 73 – 74.
+83
+GUILLEMARD, ref. 14, s. 25.
+84
+Tamže, s. 1, 26 – 27.
+85
+BASISTA, ref. 79, s. 433.
+86
+GUILLEMARD, ref. 14, s. 28.
+78
+
+25
+
+západoindickom pobreží, ktorá skončila porážkou Portugalcov a smrťou veliteľa.87
+Nasledujúci rok Francisco de Almeida zhromaždil veľkú flotilu a v rozhodujúcej bitke
+pri meste Diu na juhu indického polostrova Kathiawar rozdrvil spojenecké loďstvo, čím
+obnovil Portugalskú nadvládu v Arabskom mori. Tejto druhej námornej bitky sa
+zúčastnil aj Fernão de Magalhães88 a utrpel menšie zranenie.89
+V roku 1509 tiež prebehla výmena na poste miestokráľa, de Almeidovo miesto
+zaujal Affonso d’Albuquerque. Ten v roku 1510 dobyl kľúčové postavenia: Hormuz,
+ostrov Sokotra a mesto Goa,90 čím si podmanil západné pobrežie polostrova Predná
+India.91 Magalhães bol členom d’Albuquerqueho ťažení, stal sa kapitánom, no nedostal
+sa medzi najvýznamnejších.92
+Medzičasom sa konali dve výpravy, usilujúce o zisk vplyvu v kľúčovej
+križovatke obchodu s korením, Malajskom meste Melaka, ležiacom v dodnes dôležitej
+Melckej úžine. Fernão de Magalhães sa zúčastnil oboch. Prvú v roku 1509 viedol Diogo
+Lopes de Sequeira a skončila neúspechom.93 Magalhães sa však vyznamenal pri ústupe,
+kde zachránil život aj istému Franciscovi Serrãovi.94 Ťaženie v roku 1511 vedené
+priamo miestokráľom d’Albuquerquem mesto po ťažkých bojoch dobylo.95 Tým
+Portugalsko úspešne uzavrelo reťaz oporných bodov, budovaných už de Almeidom
+a výrazne sa priblížilo k Ostrovom korenia.96
+V roku 1511 Magalhães získal v Malajzii otroka, pokrsteného ako Enrique, ktorý
+ho sprevádzal až do jeho smrti. Neskôr pri návrate do Juhovýchodnej Ázie bol preňho
+dôležitým tlmočníkom pri komunikácii s domorodými náčelníkmi.97
+Svoju statočnosť Fernão de Magalhães dokázal aj počas stroskotania lode pri
+Africkom pobreží.98
+
+DIFFIE, Bailey W. a George D. WINIUS. Foundations of the Portuguese empire, 1415 – 1580.
+Minneapolis: University of Minnesota Press, 1977. ISBN 0-8166-0782-6, s. 237; GUILLEMARD, ref.
+14, s. 48.
+88
+BASISTA, ref. 79, s. 433.
+89
+GUILLEMARD, ref. 14, s. 52.
+90
+Tamže, s. 53, 63; MOŽEJKO, ref. 13, s. 31.
+91
+HOLEČEK, ref. 5, s. 56.
+92
+GUILLEMARD, ref. 14, s. 65.
+93
+WILKINSON, Richard James. The Capture of Malacca, A.D. 1511. In: Journal of the Straits Branch of
+the Royal Asiatic Society (Malaysian Branch of the Royal Asiatic Society), no. 61(June, 1912), s. 72.
+94
+GUILLEMARD, ref. 14, s. 55 – 57.
+95
+WILKINSON, ref. 93, s. 75 – 76.
+96
+GUILLEMARD, ref. 14, s. 66 – 67.
+97
+BASISTA, ref. 79, s. 433.
+87
+
+26
+
+Po získaní Melaky miestokráľ vyslal v roku 1513 pod vedením Antonia d’Abreu
+prvú výpravu na Ostrovy korenia. Magalhães bol v tej dobe už naspäť v Európe.99
+Výpravy sa však zúčastnil jeho priateľ Francisco Serrão, ktorý v oblasti dnešnej
+Indonézie podnikol niekoľko objavných plavieb a nakoniec sa usadil na moluckom
+ostrove Ternate, odkiaľ písal Magalhãesovi o tamojšom bohatstve.100
+Magalhãesova služba v Indii trvala sedem rokov, už v roku 1512 sa vrátil na
+kráľovskom dvor a bol povýšený do hodnosti „fidalgo escudeiro“, čo súviselo so
+zvýšením kráľovskej mzdy a tým aj s postavením na Lisabonskom dvore.101 Nevieme,
+čo Magalhães robil a čo plánoval, ale keď sa v roku 1513 portugalskému kráľovi
+sprotivil Mulay Zayam, vládca Azamúru na Marockom pobreží, zúčastnil sa mohutnej
+výpravy s niekoľkými stovkami lodí, ktorá bola vyslaná z Lisabonu. Mesto bolo
+obsadené bez boja, no João de Meneses, veliteľ vojenskej posádky, podnikal trestné
+výpravy proti Maurom. Zdá sa, že pri jednej takej výprave bol Magalhães zranený a do
+konca života kríval na jednu nohu, čo zdôrazňujú všetci jeho životopisci.102
+Keď sa Portugalci na jar roku 1514 zmocnili veľkej koristi, Magalhães bol
+jedným zo zodpovedných, ale bol obvinený, že nejakú časť z nej predal Maurom a sám
+na tom zbohatol. Po obvinení svojvoľne odišiel z Maroka ku kráľovi, aby očistil svoje
+meno, no ten sa o neho nezaujímal a keď dostal od Magalhãesovo nového veliteľa Pedra
+de Sousu správu, že Magalhães bez povolenia opustil Afriku, poslal ho naspäť. Tam
+odsúdený nebol, vrátil sa do Lisabonu a žiadal o zvýšenie platu, no bol odmietnutý,
+údajne až ponížený.103
+Po definitívnom návrate z Afriky pravdepodobne pracoval na pláne vlastnej
+námornej výpravy. V Lisabone na vlastnú päsť zhromažďoval informácie.104 Podnietený
+listami od Serrãa105 uvažoval nad západnou cestou k Molukám, ktorú považoval za
+výhodnejšiu. Pravdepodobne opretý o existujúce kartografické diela tvrdil, že v Južnej
+
+98
+
+GUILLEMARD, ref. 14, s. 60.
+Tamže, s. 72.
+100
+Tamže, s. 68 – 71; HOLEČEK, ref. 5, s. 57.
+101
+GUILLEMARD, ref. 14, s. 72 – 73.
+102
+Tamže, s. 74 – 75; BASISTA, ref. 79, s. 433.
+103
+GUILLEMARD, ref. 14, s. 76 – 77.
+104
+LOUREIRO, Rui Manuel. Magellan’s map. In: Diadorim, vol. 23, no. 2 (2021), s. 29.
+105
+FITZPATRICK, Scott M. a Richard CALLAGHAN. Magellan's Crossing of the Pacific: Using
+Computer Simulations to Examine Oceanographic Effects on One of the World's Greatest Voyages. In:
+The Journal of Pacific History, vol. 43, no. 2 (Sep., 2008), s. 146.
+99
+
+27
+
+Amerike existuje prieliv.106 Spolupracoval s Rui Faleirom, významným Portugalským
+kozmografom.107 V tej dobe asi trikrát žiadal Portugalského kráľa Manuela I. o podporu
+pre svoje plány, ale neuspel. Nakoniec požiadal o povolenie ponúknuť svoje služby
+v zahraničí a to mu bolo dovolené.108
+
+2.2 V španielskych službách
+
+Tak, ako pred ním Krištof Kolumbus, s myšlienkou západnej plavby do
+Juhovýchodnej Ázie odmietnutý v Portugalsku, obrátil sa Magalhães na jeseň roku 1517
+do Španielska. Aby mohol plánovanú cestu zrealizovať, potreboval: 1. dostať sa pred
+kráľa, 2. získať jeho podporu, 3. samotnú výpravu pripraviť.
+Najprv si zabezpečil spojenectvo s Diogom Barbosom, tiež portugalským
+rodákom, vo významnom postavení v Seville.109 Vďaka kontaktu s ním bol Fernão
+vypočutý v Casa de Contratación.110 Tam jeho plán odmietli, no jeden z faktorov, Juan
+de Aranda, si ho ešte raz vypočul, informoval sa o kapitánovi v Lisabone a potom ho
+odporučil kráľovskej rade.111 Nakoniec prebehla audiencia u mladého kráľa Karola I.112
+vo Valladolide, kde Fernão de Magalhães úspešne predostrel svoj plán.113
+Základom bola jednoduchá myšlienka – plavba na ostrovy korenia západným
+smerom,114 o ktorej portugalský kapitán tvrdil, že je výhodnejšia, ako zaužívaná trasa
+pozdĺž Afriky.115 Zároveň, preberajúc výpočty Rui Faleira uisťoval, že by tým dokázal
+španielske právo na Ostrovy korenia, v prípade predĺženia Tordesillaskej línie na druhej
+strane zemegule.116 Magalhães Karolovi predložil mapy, otroka z Malajzie a otrokyňu
+
+106
+
+GUILLEMARD, ref. 14, s. 197.
+Tamže, s. 80, SÁNCHEZ IMIZCOZ, ref. 2, s. 6.
+108
+SÁNCHEZ IMIZCOZ, ref. 2, s. 4.
+109
+GUILLEMARD, ref. 14, s. 87 – 88.
+110
+Tamže, s. 93.
+111
+Tamže, s. 98 – 99, 103
+112
+Cisár Ríše Rímskej národa Nemeckého ako Karol V.
+113
+GUILLEMARD, ref. 14, s. 94 – 96.
+114
+O guľatosti Zeme v tej dobe pochybovalo už len málo námorníkov, chýbal však dôkaz.
+115
+CRAIG, Simon. The ship that shrank the world. In: Geographical, vol. 69, no. 9 (Sept., 1997), s. 1.
+116
+GUILLEMARD, ref. 14, s. 80; SÁNCHEZ IMIZCOZ, ref. 2, s. 5.
+107
+
+28
+
+zo Sumatry, listy od Serrãa o bohatosti Molúk a iné, čo ho malo presvedčiť o správnosti
+cesty.117 Pravdepodobne tiež tvrdil, že pozná úžinu.118
+Dňa 22. marca 1518 kráľ Karol I. podpísal Capitulación s konečnými podmienkami pre
+Fernãa de Magalhãesa a Rui Faleira.119 Faleiro bol neskôr odstavený, pravdepodobne
+pre šialenstvo.120
+Fernão de Magalhães potreboval ešte nachystať výpravu, čo mu trvalo približne
+rok a pol. Z troch štvrtín ju financoval kráľ, jednou štvrtinou sa podieľal Christopher de
+Haro, bohatý antverpský obchodník prichádzajúci z Lisabonu.121 Portugalská strana
+kráľa Manuela I. sa usilovala Magalhãesa odradiť alebo zastrašiť prostredníctvom
+svojho agenta Alvara da Costu,122 neskôr sa pokúsil prípravy sabotovať Sebastião
+Álvares.123
+Mužov, ktorí začali plavbu bolo skoro 250.124 Okrem najpočetnejších Španielov
+sa plavili Portugalci a množstvo rôznych obyvateľov Stredomoria a tiež Malajec
+Enrique.125 Súčasťou výpravy bol aj Benátčan Antonio Pigafetta, ktorý spísal
+najuznávanejšiu správu o ceste.126 Pre plavbu bolo v Cádize kúpených päť starších lodí
+typu karaka (nao), ktoré prešli kompletnou opravou. Podľa veľkosti to boli: San
+Antonio, s kapitánom Juanom de Cartagena; vlajková loď Trinidad, so samotným
+Magalhãesom; Concepción, s Gasparom de Quesada; Victoria, s Luisom Mendoza; a
+Santiago, s veľmi skúseným portugalským kapitánom Joãom Serrãom, Magalhãesovým
+príbuzným.127 Pre nás je asi najzaujímavejšia druhá najmenšia, Victoria. Jej repliku
+postavil Ignacio Fernandez Vial v rokoch 1991 – 1992. Išlo o mohutnú loď s nosnosťou
+
+GUILLEMARD, ref. 14, s. 102; SÁNCHEZ IMIZCOZ, ref. 2, s. 5.
+GUILLEMARD, ref. 14, s. 103.
+119
+Tamže, s. 106.
+120
+Tamže, s. 134.
+121
+JOYNER, Tim. Magellan. Camden, Maine: International Marine, 1992. ISBN 0-87742-263-X. s. 82.
+122
+GUILLEMARD, ref. 14, s. 111.
+123
+Tamže, s. 120.
+124
+SÁNCHEZ IMIZCOZ, ref. 2, s. 3; MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref.
+67, s. 638.
+125
+GUILLEMARD, ref. 14, s. 137.
+126
+Antonio Pigafetta svoj záznam cesty venoval niektorým významným osobnostiam Európy tej doby,
+najmä však kráľovi Karolovi I. Dielo napísané v roku 1524 v taliančine nesie meno Relazione del primo
+viaggio intorno al mondo (Správa o prvej ceste okolo sveta). Nezachoval sa originál, no vďaka exempláru
+v Ambroziánskej knižnici v Miláne existujú štyri prepisy, z toho dva vo francúzštine. Samotná správa je
+pútavým rozprávaním o tom, čo námorníci na ceste zažili. Jedným z účelov napísania bolo očistiť meno
+Fernãa de Magalhãesa. TORODASH, Martin. Magellan Historiography. In: The Hispanic American
+Historical Review (Duke University Press), vol. 51, no. 2 (May, 1971), s. 323 – 324; PIGAFETTA,
+Antonio. Zpráva o první cestě kolem světa. Praha: Mladá fronta, 1975. s. 121
+127
+Pigafetta, ref. 126, s. 119, 126.
+117
+118
+
+29
+
+85 ton a rozmermi asi 27 x 3,5 metra. Jej nevýhodou bola veľmi obmedzená plavba
+v prípade, že vietor nevial zo správnej strany.128
+Po dokončení príprav a poslednej omši flotila 20. 9. 1519 opustila prístav
+Sanlúcar de Barrameda na pobreží Atlantického oceána.129 Dňa 26. 9. flotila zakotvila
+na Kanárskych ostrovoch, kde Magalhães od Dioga Barbosu obdržal správu
+o chystanom sprisahaní španielskych kapitánov.130 Následne sa plavili cez zónu
+rovníkových tíšin a neskôr sa trápili v priestore silného protivetra a búrok pri africkom
+pobreží.131 Za tieto nepríjemnosti mohla ešte slabá znalosť fyzickogeografických
+podmienok.132 Cestou hlavný kapitán strpel niekoľko urážok od Juana de Cartagenu,
+ktorého zosadil, no inak nepotrestal.133 Pigafetta vo svojej správe vysvetľuje
+nepriateľstvo medzi kapitánmi ako národnostné portugalsko-španielske.134
+Dňa 13. 12. flotila oboplávala mys Cabo Frio na východnom pobreží Južnej
+Amerika a zakotvila v prístave nazvanom Santa Lucía, v oblasti dnešného mesta Rio de
+Janeiro v blízkosti Obratníka Kozorožca. Keďže Portugalci tu ešte nemali svoju
+základňu, Magalhãesovi námorníci mohli slobodne doplniť zásoby pred cestou ďalej na
+juh.135 Následne sa výprava dostala do obrovského ústia Río de la Plata (34° j. z. š.),
+v zemepisnej šírke juhu afrického kontinentu. Tu zomrel Juan Díaz de Solís a tu hľadali
+morský priechod na západ, o ktorom sa verilo, že existuje, no nemohli ho nájsť, lebo
+Rio de la Plata je iba spoločným ústím veľkých riek Paraná a Uruguay.136 Neskôr na
+začiatku roku 1520 Magalhães hľadal morský priechod aj v zálive s. Matúša (41° j. z.
+š.), teda približne v zemepisnej šírke ostrova Tasmánia a Cookovho prielivu medzi
+Severným a Južným ostrovom Nového Zélandu.137 Tu prvýkrát pocítili chlad a búrky
+blížiacej sa zimy.138
+
+128
+
+FITZPATRICK a CALLAGHAN, ref. 105, s. 148.
+PIGAFETTA, ref. 126, s. 8.
+130
+GUILLEMARD, ref. 14, s. 149.
+131
+PIGAFETTA, ref. 126, s. 9.
+132
+GUILLEMARD, ref. 14, s. 150 – 151.
+133
+Tamže, s. 153.
+134
+PIGAFETTA, ref. 126, s. 6.
+135
+Tamže, s. 10 – 12.
+136
+Tamže, s. 14.
+137
+GUILLEMARD, ref. 14, s. 159.
+138
+PIGAFETTA, ref. 126, s. 14 – 15.
+129
+
+30
+
+Dňa 31. 3. 1520 flotila dorazila do zálivu s. Juliána, kde mala stráviť zimu.139
+Magalhães tu rozdelil prácu a zmenšil prídely, čo sa mohlo, aj v súvislosti s nenájdením
+prielivu, podpísať na nálade mužstva, ktoré opakovane reptalo.140 Španielski kapitáni na
+začiatku apríla ľahko vyvolali vzburu.141 Aj keď spočiatku mali vzbúrenci prevahu,
+Magalhães rázne zakročil a námorným manévrom získal späť stratené lode, pričom
+nedošlo k priamemu boju. Štyridsať námorníkov bolo odsúdených a omilostených kvôli
+množstvu práce, no kapitáni Quesada a Caragena a kňaz Pedro Sánchez de Reina, boli
+potrestaní (poprava, respektíve vysadenie na brehu). Tvrdé potlačenie vzbury
+znamenalo koniec akýmkoľvek nepokojom až do konca cesty.142 Na konci apríla
+Magalhães poslal najmenšiu loď, Santiago pod velením Joãa Serrãa na prieskumnú
+plavbu na juh, no loď stroskotala a posádka bola zachránená iba po strastiplnej ceste
+nehostinným vnútrozemím.143
+Od 24. augusta sa flotila, už iba štvorčlenná, opäť plavila na juh, až konečne 21.
+10. 1520 objavila vstup do morského priechodu medzi Južnou Amerikou a Ohňovou
+zemou, neskôr pomenovaného Magalhãesov prieliv. Tu sa lode rozdelili, aby pátrali po
+východe z bludiska ostrovčekov a zálivov, čo využila posádka lode San Antonio
+k zosadeniu kapitána Álvara de Mezquitu, dezercii a návratu do Sevilly pod vedením
+Estevão Gomesa. Zmiznutie najväčšej lode so zásobami bolo pre Magalhãesa citeľnou
+stratou.144
+Dňa 28. 11. 1520 zvyšné tri lode prešli popri myse Deseado (Vytúžený) na konci
+prielivu a vyplávali do otvoreného oceána.145 Tento prieliv je ešte aj dnes veľmi
+náročný na plavbu.146 Na rozdiel od predchádzajúcich mesiacov, počas plavby oceánom
+sa výprava nedostala do žiadnej búrky, čo Magalhãesa viedlo k tomu, aby ho
+pomenoval Pokojné/Tiché more, z čoho pochádza dnešný – nepresný – názov Tichý
+oceán.147 Aj napriek tomu však cesta týmto priestorom nebola bezproblémová, najmä
+
+Zátoka s. Juliána leží v rovnakej zemepisnej šírke Slovenská Žilina, ibaže na opačnej pologuli. Vďaka
+kontaktu Patagónskej pevniny s Atlantickým oceánom je však podnebie neporovnateľné.
+140
+GUILLEMARD, ref. 14, s. 162 – 164.
+141
+PIGAFETTA, ref. 126, s. 19.
+142
+GUILLEMARD, ref. 14, s. 165 – 173.
+143
+PIGAFETTA, ref. 126, s. 19 – 20; GUILLEMARD, ref. 14, s. 175 – 179.
+144
+PIGAFETTA, ref. 126, s. 23 – 26; GUILLEMARD, ref. 14, s. 208.
+145
+GUILLEMARD, ref. 14, s. 218.
+146
+HOLEČEK, ref. 5, s. 97.
+147
+FITZPATRICK a CALLAGHAN, ref. 105, s. 145.
+139
+
+31
+
+kvôli svojej dĺžke. Počas 98 dní námorníci nesmierne trpeli pre nedostatok kvalitnej
+potravy a vody a zomierali na skorbut a iné choroby.148
+Je prekvapujúce, že flotila plaviaca sa Tichým oceánom s množstvom súostroví
+zahliadla iba dva ostrovy, pri ktorých nemohla, alebo nechcela pristáť, čo len predĺžilo
+jej trápenie.149 Až 6. marca 1521 výprava zakotvila pri niektorom ostrove
+v Mariánskom súostroví, pravdepodobne išlo o Guam.150 Magalhãesova výrazne
+severná trasa nezvyčajne pokojným Pacifikom bola do veľkej miery jeho vlastným
+rozhodnutím,151
+
+vedci
+
+však
+
+zistili
+
+pravdepodobnú
+
+súvislosť
+
+s El
+
+Niño-m,
+
+v niekoľkoročných cykloch sa opakujúcim klimatickým modelom, spôsobujúcim zmeny
+teplôt a vlhkosti na západnom aj východnom pobreží Tichého oceánu.152
+Dňa 18. 3. dorazili na Filipíny, kde si posádka konečne odpočinula, hlavný
+kapitán zároveň podnikal diplomatické stretnutia s domorodými náčelníkmi.153
+V záujme zaviazať si lokálneho vládcu, rovnako ako demonštrovať moc Španielskeho
+kráľa, sa Magalhães veľmi nemúdro zaplietol do lokálnej vojny, v ktorej navyše
+podcenil sily nepriateľa a zomrel obkľúčený domorodcami na Filipínskom ostrove
+Mactan 27. apríla 1521.154
+Po Smrti Fernãa de Magalhães sa muži vo velení rýchlo striedali, najprv sa do
+čela výpravy dostali Duarte Barbosa a João Serrao, onedlho boli zabití domorodcami na
+ostrove Cebu a nahradil ich João Carvalho a Gonzalo Gómez de Espinosa. Loď
+Concepción už bola iba veľmi ťažko schopná plavby, preto ju nechali spáliť
+a pokračovali na dvoch posledných.155 Po niekoľkomesačnom blúdení, keď bol
+Carvalho zbavený velenia a nahradený španielskym navigátorom Juanom Sebastianom
+del Canom, sa lode Trinidad a Victoria dostali sa až do cieľa cesty, na Moluky, kde 8.
+11. 1521 zakotvili pri ostrove Tidore.156 Francisca Serrãa na Ostrovoch korenia
+nezastihli, bol otrávený asi osem mesiacov pred príchodom Španielov.157 Na Molukách
+aj s pomocou Portugalca Lorosu nakúpili získali potrebné korenie. Trinidad však bolo
+
+148
+
+GUILLEMARD, ref. 14, s. 223; FITZPATRICK a CALLAGHAN, ref. 105, s. 150.
+FITZPATRICK a CALLAGHAN, ref. 105, s. 146.
+150
+Tamže, s. 154.
+151
+Tamže, s. 160.
+152
+Tamže, s. 164.
+153
+GUILLEMARD, ref. 14, s. 226 – 228.
+154
+Tamže, s. 246 – 254.
+155
+Tamže, s. 263 – 267.
+156
+Tamže, s. 275 – 277.
+157
+Tamže, s. 281.
+149
+
+32
+
+potrebné opraviť a tak sa kapitáni dohodli na konečnom rozdelení. Gonzalo Gomez de
+Espinosa a 53 mužov zostalo opravovať loď, zatiaľ čo Juan Sebastian del Cano a 60
+mužov na Victorii 21.12. vyrazili západným smerom späť do Európy.158
+Victoria po niekoľkých malých zastávkach a úmyselnej okľuke, zo strachu pred
+Portugalcami, preplávala Indický oceán, oboplávala juh Afriky a s vypätím všetkých síl
+sa plavila Atlantikom. Posádka opäť živorila, a preto bolo rozhodnuté zastaviť sa na
+portugalských Kapverdách. Tam niekoľko mužov Portugalci zadržali a do Sanlúcaru
+a o dva dni do Sevilly prišlo po takmer trojročnej ceste iba 18 vyslabnutých mužov 8.
+septembra 1522, teda pred 500 rokmi. Tak sa skončila prvá plavba okolo sveta.159
+Treba ešte dodať, že Espinosa nezvolil západnú cestu ako del Cano, ale po
+oprave Trinidadu sa plavil na východ, pričom chcel prísť do Španielskeho Mexika.
+Musel sa však vrátiť, zadržali ho Portugalci a iba niektorí námorníci sa až po troch
+ďalších rokoch dostali do Španielska.160
+
+2.3 Osobnosť a prínos
+
+Na základe spomenutých udalostí dokážeme s istou presnosťou hodnotiť
+osobnosť a charakterové črty Fernãa de Magalhães, strojcu prvej plavby okolo sveta.
+Fernão de Magalhães bol počas svojej mladosti svedkom skvelých plavieb
+a prísunu veľkého bohatstva. Tak, ako predtým časy reconquisty, táto doba formovala
+vtedajších Portugalcov, pričom ani on nebol výnimkou.161 V Indii, kam išiel
+dobrovoľne, mal možnosť bojovať pod de Almeidom a d’Albuquerquem, dvomi
+najúspešnejšími portugalskými miestokráľmi, veľkými budovateľmi Portugalského
+impéria.162 Vďaka rozhodnosti a dobrému čítaniu bojovej mely zachránil život
+Serrãovi163 a tiež potlačil vzburu v S. Juliáne. V Indii a potom v Maroku sa osvedčil ako
+
+158
+159
+
+GUILLEMARD, ref. 14, s. 286 – 289.
+PIGAFETTA, ref. 126, s. 110 – 111; GUILLEMARD, ref. 14, s. 294; SÁNCHEZ IMIZCOZ, ref. 2, s.
+
+7.
+HOLEČEK, ref. 5, s. 103.
+GUILLEMARD, ref. 14, s. 26 – 28.
+162
+Tamže, s. 8 – 9, 29; WILKINSON, ref. 93, s. 71.
+163
+GUILLEMARD, ref. 14, s. 57.
+160
+161
+
+33
+
+pešiak, aj ako námorník, stal sa kapitánom a nabral množstvo skúseností. Aj keď
+Portugalsko malo technologickú prevahu, v daných krajinách bolo početne prevýšené
+domácimi bojovníkmi a muselo fungovať ako dobre organizovaný celok. Je ľahké
+pozorovať Magalhãesovu schopnosť prísneho organizovania, najmä v protiklade ku
+niektorým kapitánom, ktorí velili výprave po jeho smrti.
+Stefan Zweig, poplatný mysleniu svojej doby164 o Magalhãesovi na základe
+zmeny národnosti hovorí ako o veľkom hrdinovi, ktorý považoval myšlienku za
+hodnotnejšiu, ako národnosť...165 To je podľa mňa prehnané. Aj keď asi nebolo úplne
+ľahké odísť do krajiny úhlavného nepriateľa s myšlienkou, ktorá má rodnú zem
+poškodiť, takéto prechody sa diali pomerne bežne, príkladom môžu byť Cabotovci,
+Kolumbovci, Amerigo Vespucci a ďalší.166
+Tvrdohlavosť a cieľavedomosť mu asi nechýbali, bez nich by sa ťažko dostal
+pred kráľa a nebola by mu zverená flotila s náročným poslaním.167 Bol tiež dostatočne
+presvedčivý, aby pre svoj projekt naklonil dôležitých ľudí a nakoniec kráľa. Dokázal
+umne využívať ľudí a informácie vo svoj prospech, príkladom sú Rui Faleiro a ďalší
+odborníci, s ktorými sa mohol stretnúť168 a Serrãove listy.
+Mnohými životopiscami je nám predstavovaný ako introvert, čo do istej miery
+potvrdzuje aj Pigafetta.169 Svoje záležitosti riešil sám a málokomu sa zdôveroval.
+Možno odstup, ako aj akási úsečnosť v komunikácii170 prispeli ku nie dobrým vzťahom
+so španielskymi kapitánmi. Magalhães bol obviňovaný z neprimeranej krutosti, keď
+nechal popraviť jedného z vodcov vzbury. To je scestné, lebo v jeho dobe život nemal
+takú váhu, ako v našej.171 Zároveň to však dopĺňa obraz rozhodnosti. Pravdepodobne
+bol ctižiadostivý, ako ostatne takmer všetci šľachtici jeho doby. Možno ctižiadosť
+spôsobila, že prešiel do španielskych služieb keď bol v Portugalsku odmietnutý, možno
+ctižiadosť zavinila jeho vlastnú smrť na Filipínach. Zdá sa, že bol nábožný, ako v jeho
+
+164
+
+TORODASH, ref. 126, s. 329.
+ZWEIG, ref. 4, s 45.
+166
+CRAIG, ref. 115, s. 1.
+167
+GUILLEMARD, ref. 14, s. 19.
+168
+LOUREIRO, ref. 104, s. 22.
+169
+PIGAFETTA, ref. 126, s. 6.
+170
+GUILLEMARD, ref. 14, s. 150.
+171
+Tamže, s. 172.
+165
+
+34
+
+dobe bolo zvykom. V zmysle doby, ktorá výpravy mimo Európy vnímala často ako
+križiacke, sa usiloval svoje náboženstvo vtlačiť domorodcom na Filipínach.172
+O Magalhãesových schopnostiach môže svedčiť aj skutočnosť, že jeho cestu sa
+nepodarilo okamžite zopakovať173 až neskôr to jednou plavbou dokázal Angličan
+Francis Drake.
+Fernão de Magalhães bol teda schopný a skúsený námorník a bojovník, dobrý
+veliteľ, rozhodný a cieľavedomý človek, nechýbala mu statočnosť. Medzi jeho chyby
+asi patrilo to, že bol slabší vodca a akýsi nevľúdny samotár.
+Jeho prínos je však nespochybniteľný. Aj keď neoboplával zemeguľu, dokonca sa ani
+nedostal na Moluky, cieľ svojej plavby, právom požíva prvoradú slávu za objavnú cestu
+po ňom pomenovanú. To on dokázal výpravu presadiť, zorganizovať a doviesť takmer
+na miesto určenia, čo nie je malý počin. Zvyšok bol už do istej miery súborom
+logických rozhodnutí.
+Na druhej strane tu je Juan Sebastian del Cano, ktorý cestu zavŕšil a vo svojej
+dobe získal slávu a kráľovské pocty. Nepochybne to bol skúsený námorník a lodivod,
+lebo dokázal svoju loď previesť z Molúk až do Španielska, i keď je trošku prekvapivé,
+že druhý krát nenašiel hneď vstup do Magalhãesovej úžiny. Keď sa konala druhá
+výprava, nebol poverený jej vedením, plnil funkciu lodivoda na vlajkovej lodi. Spolu
+s hlavným kapitánom zahynul v Pacifiku. Pigafetta sa o ňom veľmi nezmieňuje,
+pravdepodobne z dôvodu osobnej animozity pre účasť na vzbure. Na prvej ceste okolo
+sveta jednoznačne nesie významný podiel.
+Je nutné poznamenať, že tak Španielsko, ako aj Portugalsko, malo problémy
+s prijatím moreplavcov. Magalhães bol Portugalcami zavrhnutý a Španielmi
+nedocenený už na začiatku,174 lebo slávu na seba strhol del Cano.175 O očistenie jeho
+mena sa pokúšal Pigafetta, čoho výsledkom je známa správa o ceste. Sú historici, ktorí
+neuznávajú del Cana, iní ho stavajú na piedestál.176 Výsledkom je, že Fernão de
+Magalhães dodnes nie je celkom preskúmanou postavou svetových dejín, hoci sa
+zaslúžil o skutočne prelomovú plavbu. Zdá sa však, že o prijatí Portugalcami, aspoň do
+
+172
+
+GUILLEMARD, ref. 14, s. 239.
+SÁNCHEZ IMIZCOZ, ref. 2, s. 3; HOLEČEK, ref. 5, s. 100 – 101.
+174
+TORODASH, ref. 126, s. 313.
+175
+SÁNCHEZ IMIZCOZ, ref. 2, s. 8.
+176
+TORODASH, ref. 126, s. 321.
+173
+
+35
+
+istej miery, môže svedčiť Magalhãesova prítomnosť na slávnom Padrão dos
+Descobrimentos (Pamätník Objaviteľov) v Lisabonskom prístave Belém.
+Zdá sa, že prvým človekom, ktorý oboplával zemeguľu, je otrok Enrique, ktorý
+na Filipínach opustil výpravu.177 O tom, či sám Magalhães plánoval oboplávanie sveta,
+nevieme nič.
+Čo týka samotnej výpravy, veľkým prínosom bolo dokázanie „guľatosti“ Zeme
+a odhalenie rozsiahlosti Tichého oceána, no jeho skutočná veľkosť bola moreplavcom
+a kartografom ešte dlhú dobu skrytá. Privezené korenie bohato nahradilo všetky vstupné
+náklady, čo ceste zabezpečilo popularitu už vo svojej dobe.
+Plavba okolo sveta tiež naplno odhalila slabiny Tordesillaskej zmluvy. To, že
+Moluky nepatrili do španielskej zóny, ako si Faleiro a Magalhães mysleli, nebolo
+dokázané ani vyvrátené. Karol I. si výnosné súostrovie stále nárokoval a v roku
+1524 musela byť zvolaná Junta v Badajoze a Elvase, v ktorej mali Španielski
+a Portugalskí kartografi, kozmografi a iní odborníci určiť, ktorej strane patria Ostrovy
+korenia. Z týchto ťahaníc však nevzišlo nič konštruktívne, možno aj preto, že
+Portugalsko nechcelo prísť o Brazíliu a zároveň nestratiť Moluky.178 Až v roku 1529 v
+Zaragoze bola podpísaná zmluva, ktorá do istej miery ukončila dohady. Karol I. predal
+svoje práva na Moluky a Tordesillaská línia bola predĺžená na druhú pologuľu,
+definitívne deliac svet na španielsky a portugalský.179
+
+177
+
+TORODASH, ref. 126, s. 322.
+GUILLEMARD, ref. 14, s. 13 – 15.
+179
+CHILDRESS, Diana. Words That Divided the World. In: Calliope (Peterborough), vol. 20, iss. 5,
+(Feb., 2010), s. 25; DESTOMBES, Marcel. The Chart of Magellan. In: Imago Mundi, vol. 12 (1955), s.
+66.
+178
+
+36
+
+3 STARÉ MAPY
+
+3.1 Mapy pred cestou
+
+Okrem renesancie objavov nových zemí a námorných ciest, došlo na rozhraní
+stredoveku a novoveku k renesancii geografie a kartografie.180 Významnou osobnosťou
+na jej počiatku bol Claudius Ptolemaios, grécky matematik, geograf, kartograf
+a astronóm žijúci v Alexandrii ešte v druhom storočí nášho letopočtu. V troch dielach
+synteticky zhrnul staroveké poznatky svojich disciplín, z ktorých najvýznamnejším je
+Geographike Syntaxis, alebo Geografia. Táto práca obsahuje teoretické základy
+kartografie, jeho vlastný súradnicový systém, zoznam miest svojej doby so
+zemepisnými súradnicami, komentár k projekciám a atlas.181
+Geografia bola na konci staroveku stratená a do Európy sa znova dostala až
+v arabskom preklade známom ako Almagest.182 Od konca 13. st. začala byť Geografia
+znova vydávaná. Následne sa stala všeobecne uznávaným základom poznania, aj
+napriek tomu, že od jej zostavenia uplynulo viac ako 1000 rokov.183 Ptolemaiova
+Geografia sa stala nespochybniteľným podkladom pre neskorostredovekú tvorbu máp.
+Jej informácie boli najprv preberané nekriticky, od polovice 15. st. s dodatkami
+a opravami a až v 16. st. pomaly nastáva jasný odklon od v mnohom prekonaného
+gréckeho kartografa.184 To bola doba, v ktorej žil Fernão de Magalhães a v ktorej
+vznikali kartografické diela, ku ktorým mal prístup.
+Pigafetta tvrdí, že Magalhães našiel úžinu po ňom pomenovanú vďaka mape,
+ktorej autorom bol Martin Behaim a ku ktorej mal prístup v archíve Portugalského
+kráľa.185 Spomínaný Martin Behaim bol Norimberským obchodníkom, ktorý veľa
+cestoval a medzi rokmi 1484 a 1490 a potom od roku 1492 až do svojej smrti v roku
+STEVENSON, Edward Luther. Martin Waldseemüller and the Early Lusitano-Germanic Cartography
+of the New World. In: Bulletin of the American Geographical Society, vol. 36, No. 4 (1904), s. 195.
+181
+DRLIČKA, Boris. Nad Ptolemaiovskou mapou strednej Európy. Nitra: Gramond Nitra, 2020. ISBN
+978-80-89703-75-3, s. 10.
+182
+KAROLČÍK a BALÁŽOVIČ, ref. 12, s. 15.
+183
+DRLIČKA, ref. 181, s. 11.
+184
+SIEBOLD, Jim. Claudius Ptolemy (#119). [online] dostupné na: http://myoldmaps.com/maps-fromantiquity-6200-bc/116-pomponius/119-ptolemy.pdf. [cit. 21. júna 2022]. s. 22 – 23.
+185
+PIGAFETTA, ref. 126, s. 20.
+180
+
+37
+
+1506/1507 pôsobil v Portugalsku. Počas jeho prvého pobytu ho kráľ João I. ustanovil
+členom matematickej rady, podieľajúcej sa na portugalskej moreplavbe. Počas druhej
+etapy, ako sme už spomenuli, sa mohol stretnúť s mladým Magalhãesom.186 Behaim je s
+kartografiou spojený najmä vďaka glóbusom, ktoré konštruoval, pričom jeho Erdapfel
+je najstarším zachovaným glóbusom vôbec.187 Z jeho dvoch dodnes existujúcich
+glóbusov poznáme zdroje, z ktorých čerpal. Hlavnou inšpiráciou mu bol Ptolemaios.
+Ďalej vo svojich prácach ako prvý použil informácie Marca Pola. Okrem nich sa opieral
+o dobových kartografov, napríklad Paola Toscanelliho.188 V neposlednom rade
+disponoval primárnymi informáciami zo samotných Portugalských objavov, ktoré sa
+diali v jeho blízkosti.189 Čo sa však týka máp, ktoré vytvoril priamo Martin Behaim,
+nenašiel som žiadne ďalšie informácie. Možnože si Pigafetta splietol Martina Behaima
+s Martinom Waldseemüllerom.190
+V roku 1502 bola v Portugalsku vyhotovená mapa sveta (planisféra), nazývaná
+Cantino, alebo Cantinova. U anonymného kartografa si ju za 12 zlatých dukátov nechal
+zhotoviť Alberto Cantino, vyslanec ferrarského vojvodu Ercole I. d'Este. Mapa mala
+pohnutý osud, no dnes sa nachádza v Biblioteca Universitaria Estense v Modene
+v Taliansku.191 Cantinova mapa je najstaršou zachovanou mapou sveta z portugalského
+zdroja, najmä kvôli vyhláseniu portugalských objavov v roku 1480 za tajné informácie
+a zákaz ich šírenia pod trestom smrti,192 ďalej kvôli ničivému lisabonskému
+zemetraseniu v roku 1755193 a do istej miery možno kvôli v tej dobe bežnému
+úmyselnému likvidovaniu zastaralých máp.194
+Táto mapa je na pergamenový podklad ručne nakreslená, dofarbená a pozlátená.
+Skladá sa z troch, respektíve zo šiestich častí s celkovými rozmermi približne 110 x 220
+cm.195 Z uvedeného vyplýva, že nebola určená na navigáciu, ale skôr ako demonštrácia
+
+GUILLEMARD, ref. 14, s. 73 – 74.
+SIEBOLD, Jim. Behaim Globe (#258). [online] dostupné na: http://www.myoldmaps.com/latemedieval-maps-1300/258-martin-behaims-globe/258-behaim.pdf. [cit. 28. mája 2022]. s. 1.
+188
+Paolo dal Pozzo Toscanelli bol vplyvný florentský matematik, astronóm a kozmograf, ktorého
+najznámejším dielom je mapa Atlantického oceána medzi Európou a Áziou. Toto dielo pravdepodobne
+položilo základy Kolumbovej cesty a tým (znovu)objavenia Ameriky. SIEBOLD, ref. 187, s. 22.
+189
+SIEBOLD, ref. 187, s. 7 – 12.
+190
+LOUREIRO, ref. 104, s. 24.
+191
+SIEBOLD, Jim. Cantino World Map (#306). [online] dostupné na: http://myoldmaps.com/renaissancemaps-1490-1800/306-cantino-world-map/306-cantino.pdf. [cit. 2. júna 2022]. s. 15 – 16.
+192
+SÁNCHEZ IMIZCOZ, ref. 2, s. 5.
+193
+SIEBOLD, ref. 191, s. 1.
+194
+SANDMAN, ref. 66, s. 1106.
+195
+SIEBOLD, ref. 191, s. 16.
+186
+187
+
+38
+
+vtedajšieho poznania.196 Mapa obsahuje loxodrómový systém
+
+používaný na
+
+navigačných mapách s dvomi kruhmi po 16 ružíc a tiež miniatúry flámskeho typu.197 Je
+považovaná za základ lusitánsko-germánskej kartografie o ktorej ešte bude reč.198
+
+Obr. 1
+
+Cantinova mapa sveta (1502) 199
+
+Jej podkladom sú pravdepodobne mapy a informácie o najnovších portugalských
+objavoch, je možné, že samotné Padrão (obdobne ako španielska mapa Padrón real) –
+tajná hlavná mapa zachytávajúca najpodrobnejšie poznatky svojej doby. 200 Na mape sú
+zachytené najnovšie informácie z prelomu rokov 1501/1502, ktoré z Nového sveta
+priniesli bratia Corte-Realovci a Amerigo Vespucci a zároveň z Afriky a Indie,
+zabezpečené Vascom da Gama a Pedrom Álvaresom Cabralom. Prvýkrát nachádzame
+Antily (Antilhas) pod svojím menom a Madagaskar.201 Mapa samozrejme nie je
+dokonalá, obsahuje rôzne chyby, no ide o modernú mapu, do veľkej miery sa
+odchyľujúcu od ptolemaiovskej tradície, zachytávajúcu známe oceány a kontinenty
+výnimočne správne, čo znamená, že jej vyhotoveniu predchádzalo množstvo
+dôkladných meraní.202 Je však vytvorená dvojakým spôsobom: Afrika, Brazília a India
+sú nakreslené pomocou presných zemepisných šírok, zatiaľ čo Európa a zvyšok, teda
+pomerne dobre známe oblasti, sú znázornené klasickým, málo inovatívnym typicky
+
+196
+
+SIEBOLD, ref. 191, s. 2.
+Tamže, s. 15 – 16.
+198
+Tamže, s. 6.
+199
+Obrázok je prevzatý z wikipedie, voľnej encyklopédie. [online] dostupný na:
+https://en.wikipedia.org/wiki/Cantino_planisphere#/media/File:Cantino_planisphere_(1502).jpg, [cit. 26.
+júna 2022].
+200
+CORTESÃO, Armando. Note on the Castiglioni Planisphere, In: Imago Mundi, vol. 11 (1954), s. 53.
+201
+SIEBOLD, ref. 191, s. 4 – 5, 12 – 13.
+202
+GASPAR, Joaquim Alves. Blunders, Errors and Entanglements: Scrutinizing the Cantino Planisphere
+with a Cartometric Eye. In: Imago Mundi, vol. 64, no. 2 (2012), s. 181 – 182.
+197
+
+39
+
+portolánovým spôsobom.203 Aj v dosiaľ nepreskúmaných oblastiach sa výrazne opiera
+o ptolemaiovské predstavy, napríklad Červené more a Perzský záliv, ktoré boli pre
+Európanov neznáme, nesú charakteristické rysy.204 Pozoruhodným zjavom je aj výrazne
+zväčšený polostrov Zadná India. Staršie Ptolemaiom inšpirované mapy zobrazovali
+Indický oceán uzavretý veľkým oblúkom pevniny, tiahnucim sa z Juhovýchodnej Ázie
+až po Juhovýchodnú Afriku. Cesta Bartolomea Diasa okolo Juhu Afriky túto „teóriu“
+definitívne vyvrátila a tvorcovia máp, stále pod výrazným Ptolemaiovým vplyvom súš
+(iba)
+
+skrátili,
+
+nakoľko
+
+o Juhovýchodnej
+
+Ázii
+
+nemali
+
+spoľahlivé
+
+poznatky.
+
+Najvýznamnejším predstaviteľom zväčšenej Zadnej Indie je mapa Henrica Martella
+Germana, vytvorená približne v roku 1490. Jeho polostrov dostal pre svoj tvar
+pomenovanie Dračí chvost205 a dokonca na základe podobnosti tvaru vznikli špekulácie,
+že ide o Južnú Ameriku, zachytenú na mape ešte pred jej objavením Kolumbom. Tieto
+teórie boli vyvrátené.206
+Názov oceánu na východ od Ázie – Oceanus Occiderorie(n)talis – naznačuje
+presvedčenie Portugalcov, že v rozpore s Kolumbovou predstavou je Nový svet
+samostatným kontinentom, vzdialených od ich dŕžav v Indii.207 Na Cantinovej mape je
+Tordesillaská línia úmyselne posunutá na západ, aby pre Portugalsko „získala“ Grónsko
+a čo najväčší kus nedávno objaveného Newfoundlandu a Brazílie. Je to len špekulácia,
+avšak v prípade, že Magalhães a Faleiro pracovali s mapami, ktoré mali rovnako
+posunutú hraničnú líniu, ich predpoklad, že Moluky ležia v Španielskej zóne, je ľahšie
+pochopiteľný.208 Nakoniec je zaujímavé všimnúť si krátky tvar Južnej Ameriky, ktorá
+na mape končí bližšie k rovníku, ako v skutočnosti.
+Ku tejto mape pravdepodobne Magalhães nemal prístup, vybral som ju však
+preto, lebo najlepšie ilustruje Portugalské poznanie na začiatku 16. st., v dobe, keď nové
+poznatky prichádzali do Lisabonu každý rok. Magalhães sa na kráľovskom dvore mohol
+stretnúť s podobnou, možno so samotným Padrãom. Mapa bola vyhotovená približne tri
+roky pred jeho odchodom do Indie.
+203
+
+SIEBOLD, ref. 191, s. 14; GASPAR, ref. 202, s. 182.
+GASPAR, ref. 202, s. 184.
+205
+Alebo tiež „Tigria noha“. RICHARDSON, William Arthur Ridley. South America on Maps before
+Columbus? Martellus's 'Dragon's Tail' Peninsula. In: Imago Mundi, vol. 55 (2003), s. 35.
+206
+RICHARDSON, ref. 205, s. 35.
+207
+GASPAR, ref. 202, s. 184; HEAWOOD, Edward. The World Map before and after Magellan's
+Voyage. In: The Geographical Journal (The Royal Geographical Society), vol. 57, no. 6 (Jun., 1921), s.
+437; SIEBOLD, ref. 191, s. 14.
+208
+HEAWOOD, ref. 207, s. 437.
+204
+
+40
+
+V období renesancie existovalo niekoľko významných centier rozvoja
+kartografie. Podnetom neboli len plavby do nepoznaných končín, ako v prípade
+Pyrenejského polostrova, ale tiež obchod, ktorý formoval najmä oblasť Itálie a Ríše.209
+Spomedzi nemeckých kartografov sme už spomenuli Martina Behaima, dotkneme sa
+ešte Martina Waldseemüllera a Johanna Schönera.
+Martin Waldseemüller (lat. Hylacomylus) bol učenec nemeckého pôvodu, od
+roku 1505 profesor na kolégiu v Lotrinskom meste St Dié, spolupracujúci s Mathiasom
+Ringmannom, Gualtierom (Walterom) Luddom a ďalšími. Na začiatku 16. st. táto
+skupina vydala niekoľko kartografických textov, máp a glóbusov, vrátane prekladu
+Ptolemaia.210 Samotný Waldseemüller je známy najmä vďaka svojej mape z roku 1507.
+Ňou sa, ako je uvedené v názve,211 odvoláva na tradíciu Klaudia Ptolemaia
+v kombinácii s objavmi Ameriga Vespucciho a ďalších moreplavcov.212
+
+Obr. 2
+
+Waldseemüllerova mapa sveta z roku 1507213
+
+Mapa je vytlačená pomocou 12 drevených platní na 12 listoch papiera
+s rozmermi 45,5 x 62 cm, celkový obraz má rozmery 128 x 233 cm. Táto práca bola
+209
+
+BAGROW, Leo, SKELTON, R. A., ed. History of cartography. Repr. New Brunswick, NJ:
+Transaction Publishers, 2010. ISBN 978-1-4128-1154-5, s. 125.
+210
+BAGROW, ref. 209, s. 125 – 126; VAN DUZER, Chet. Martin Waldseemüller’s ‘Carta marina’ of
+1516: Study and Transcription of the Long Legends. Cham: Springer Nature, 2020. ISBN 978-3-03022703-6, s. 2 – 4.
+211
+„Universalis Cosmographia Secundum Ptholomei Traditionem Et Americi Vespucci Aliorum
+Lustrationes.“ VAN DUZER, ref. 210, s. 3; SIEBOLD, Jim. Martin Waldseemüller (#310). [online]
+dostupné
+na:
+http://myoldmaps.com/renaissance-maps-1490-1800/310-martin-waldseemuller/310walds2.pdf. [cit. 14. júna 2022]. s. 1
+212
+VAN DUZER, ref. 210, s. 3; SIEBOLD, ref. 211, s. 1.
+213
+Obrázok je prevzatý z wikipedie, voľnej encyklopédie. [online] dostupný na:
+https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map#/media/File:Waldseemuller_map_2.jpg, [cit.
+26. júna 2022].
+
+41
+
+vyhotovená vo veľkom náklade 1000 kusov, čo predstavuje množstvo neporovnateľné
+s kreslenými mapami Waldseemüllerových súčasníkov.214 Originál sa nám nezachoval,
+jediný exemplár z dotlače medzi rokmi 1513 – 1516 je uložená v zbierkach Library of
+Congress vo Washingtone v USA.215 Samotné mapové pole, bez okrajov a ilustrácií má
+charakteristický srdcový tvar, respektíve svet znázorňuje v srdcovej projekcii.216 Podľa
+účelu ide o mapu demonštračnú.
+Waldseemüllerova mapa z roku 1507 je unikátna v niekoľkých ohľadoch. Mapu
+je možné rozdeliť na dve samostatné časti, vypracované na základe odlišných
+podkladov. Východná časť, zahrňujúca Európu, Afriku a Áziu, je výrazne poplatná
+Ptolemaiovskému pohľadu, zachytenému na Martellovej mape z roku 1490, čo
+znamená, že Waldseemüller zahrnul vyššie spomenutý polostrov Dračí chvost. Čo sa
+západnej časti týka, je spojením informácií zhromaždených prevažne Portugalcami
+a zachytených v mapách de la Cosu (1500), Cantina a Caveriho/Caneira (1506).217
+Mnohí – najmä americkí – historici poukazujú na to, že táto mapa, ako vôbec prvá nesie
+pomenovanie Amerika,218 týkajúce sa južnej časti svetadielu, ktoré je práve
+Waldseemüllerovým dielom. Na toto meno nadviazal v druhej polovici 16. st. Gerardus
+Mercator, vďaka ktorému sa stalo všeobecne známym a dodnes používaným
+pomenovaním pre celý svetadiel.219 Úžina medzi Severnou a Južnou Amerikou nie je až
+tak zvláštna, podobnú medzeru nachádzame na mnohých mapách prvej štvrtiny 16. st.
+a pramení z nedostatku informácií. Okrem istého znázornenia kontinentu nemôžeme
+zabudnúť na to, že mapa jednoznačne zachytáva Atlantický oceán, hoci ešte
+nepomenovaný, zhruba šesť rokov predtým, ako ho Balboa objavil pre Európanov. Jeho
+veľkosť však Waldseemüller značne podcenil, dokonca ho znázornil menší, ako
+Atlantik.220 A nakoniec zarážajúca skutočnosť, že Južná Amerika nie je ukončená, ale
+umelo skrytá niekde v štyridsiatych stupňoch j. z. š., na rozdiel od Afriky, pre ktorú je
+v rovnakej zemepisnej šírke mapové pole rozšírené.221
+
+214
+
+SIEBOLD, ref. 211, s. 2.
+Tamže, s. 21 – 22.
+216
+Tamže, s. 2.
+217
+Tamže, s. 20 – 21; STEVENSON, ref. 180, s. 206.
+218
+Mapu zvyknú nazývať familiárne „Krstný list Ameriky“.
+219
+SIEBOLD, ref. 211, s. 3 – 5; MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref. 67, s.
+639.
+220
+SIEBOLD, ref. 211, s. 3 – 5.
+221
+Tamže, s. 13.
+215
+
+42
+
+Ku tejto mape Magalhães pravdepodobne nemal prístup, keďže bola rozšírená
+najmä v Ríši, na druhej strane je možné, že ju vlastnil Portugalský kráľ.222 Tak, či onak,
+je importom informácii z Pyrenejského polostrova a teda do istej miery môže
+vystihovať poznanie a myšlienky svojej doby, prvej dekády 16. st., teda času, ktorý
+Magalhães strávil v Lisabone a Indii.
+Medzi významnými dielami Martina Waldseemüllera sa vyníma ešte mapa
+pomenovaná Carta Marina, zhotovená v roku 1516. Je identicky vytlačená na 12
+hárkoch s rozmermi 45,5 x 62 cm, spolu 128 x 233 cm. Nachádza sa v zbierkach
+Library of Congress vo Washingtone v USA.223 O 9 rokov mladšie dielo je
+pozoruhodné posunom vedomostí, no najmä tým, ako sa Martin Waldseemüller
+odklonil od Ptloemaiovsko-vespucciovského vnímania a demonštračného spracovania
+na úkor presnejšej loxodrómovej navigačnej mapy, obsahujúcej iba dobre známy svet,
+inšpirovaný najmä Caverim.224 Takýto prechod predstavuje Waldseemüllera ako
+moderného, flexibilného kartografa, čerpajúceho z najaktuálnejších poznatkov.225 Na
+tejto mape Waldseemüller pre nedostatok informácii Južnú Ameriku ukončil iba
+o niekoľko stupňov južnejšie, ako južný okraj Afrického kontinentu. Predpokladám, že
+k tejto mape Magalhães nemal prístup.
+Svojou tvorbou sa Martin Waldseemüller zaradil do vplyvného sledu máp a
+glóbusov, vzájomne inšpirovaných, založených na portugalských objavoch a mapách
+a prenesených cez Lotrinsko do Ríše. Okrem neho sem patria aj Martellus, Cantino,
+Caveri, Schöner a ďalší, historiografia ich označuje ako lusitánsko-germánsku skupinu,
+alebo kartografiu.226
+Johann Schöner (1477 – 1547) bol významným norimberským matematikom
+a kozmografom, kartografom, patriacim k spomínanej lusitánsko-germánskej skupine
+a tvorcom glóbusov zobrazujúcich zemský povrch aj nebeskú oblohu.227 V roku 1515
+zhotovil drevený, maľovaný glóbus s polomerom 27/28 cm, nazývaný „Weimarský
+glóbus“, ku ktorému napísal popisný traktát: Luculentissima quædam terræ totius
+
+222
+
+LOUREIRO, ref. 104, s. 24.
+VAN DUZER, ref. 210, s. 4.
+224
+Tamže, s. 5 – 9.
+225
+Tamže, s. 39 – 41.
+226
+SIEBOLD, ref. 211, s. 13, 18; STEVENSON, ref. 180, s. 208; HEAWOOD, ref. 207, s. 436.
+227
+STEVENSON, ref. 180, s. 211; VAN DUZER, Chet. Some results from a study of Johann Schöner's
+1515 terrestrial globe. In: Globe Studies, no. 57/58 (2011), s. 93.
+223
+
+43
+
+decriptio.228 Zvláštne na tomto glóbuse je, že okrem známeho sveta zobrazuje
+predpokladaný južný kontinent, nazvaný Brasilie regio a prieliv medzi ním a Južnou
+Amerikou, ktorá nesie meno America, ležiaci približne na 45° j. z. š. Potom v roku 1520
+(už v čase) vyšiel Schönerov ďalší, veľký, ručne maľovaný glóbus s polomerom 87
+cm,229 na ktorom opäť figurujú dané dve zvláštnosti. Neskoršie glóbusy vyšli až po
+dokončení prvej plavby okolo sveta.230
+
+Obr. 3
+
+Tvar Južnej Ameriky na glóbusoch Johanna Schönera (1515, 1520) 231
+
+Schöner vlastnil Waldseemüllerove mapy z rokov 1507 a 1516 a používal ich
+ako zdroje pre niektoré svoje práce232 a lusitánsko-germánske zdroje sú badateľné aj na
+základe niektorých zakreslených tvarov (napríklad prieliv medzi Severnou a Južnou
+Amerikou a Dračí chvost), ako aj názvov,233 ale tie nemohli byť podkladom pre
+znázornenie neznámeho prielivu. Ako pravdepodobný zdroj pre tento zjav je
+Nachádza sa v Historisches Museum vo Frankfurte v Nemecku (HMF X 14610). SIEBOLD, Jim.
+Schöner’s Globes (#328). [online] dostupné na: http://myoldmaps.com/renaissance-maps-1490-1800/328johannes-schoner-globes/328-shoner-globes.pdf. [cit. 21. júna 2022]. s. 34.
+229
+Nachádza sa v Germanisches Nationalmuseum v Norimbergu v Nemecku. SIEBOLD, ref. 228, s. 34.
+230
+BAGROW, ref. 209, s. 127; VAN DUZER, ref. 227, s. 93 – 94; SIEBOLD, ref. 228, s. 1.
+231
+Obrázok je prevzatý z diela F. H. H. Guillemarda. GUILLEMARD, ref. 14.
+232
+VAN DUZER, ref. 210, s. 3, 4; SIEBOLD, ref. 211, s. 1; STEVENSON, ref. 180, s. 206.
+233
+SIEBOLD, ref. 228, s. 8 – 9.
+228
+
+44
+
+považovaná slabou nemčinou písaná brožúra, vydaná okolo roku 1514: Copia der
+Newen Zeytung auß Presillg Landt.234 Jej text sa odvoláva na poznatky nadobudnuté
+niektorou portugalskou výpravou, najpravdepodobnejšie výpravou Gonçala Coelha
+alebo Cristóvãa Jacquesa, a hovorí o objavení prielivu na 40° j. z. š. Túto informáciu
+Schöner neprebral úplne, prieliv posunul o 5° bližšie k Južnému pólu.235 Na základe
+Schönerovho glóbusu z roku 1515, Pigafettovej zmienky o tom, že Magalhães poznal
+prieliv,236 formulácie kráľa Karola I.: „ísť hľadať úžinu“ a ďalších drobných detailov
+niektorí historici usudzujú, že Portugalci ešte pred Španielmi preskúmali pobrežie
+Patagónie a objavili aj prieliv na juhu Ameriky, o svojich objavoch však nemohli
+verejne informovať jednak pre platný zákaz, ako aj pre to, že tieto objavy vykonali
+v „španielskej časti sveta“ a teda si ich nemohli nárokovať.237 Na druhej strane existujú
+tvrdenia, ktoré predchádzajúcu teóriu vyvracajú.238 Tak či onak, v dnešnej dobe je stále
+Magalhães všeobecne uznávaný ako objaviteľ prielivu, po ňom pomenovaného.
+Je možné, že sa Magalhães, v rámci zhromažďovania podkladov pre svoju
+výpravu dostal aj k jednému exempláru Schönerovho glóbusu z roku 1515,239 no aj
+keby to tak nebolo, v Lisabone mal príležitosť stretnúť sa s de Harom, kľúčovým
+protagonistom v nemeckom texte opisovanej výpravy, alebo s niektorými z priamych
+účastníkov výpravy.240 Z toho vyplýva, že ak teória prielivu, zachyteného na glóbusoch
+Johanna Schönera z rokov 1515 a 1520 bola známa, poznal ju aj Fernão de Magalhães.
+Doteraz sme hovorili o mapách, s ktorými sa Magalhães mohol stretnúť,
+prípadne sa nimi inšpirovať. Teraz sa dostávame ku mapám, ktoré sám potreboval.
+Jednak to boli demonštračné mapy, ktorých úlohou bolo prezentovať myšlienky
+a vyvolať dojem, jednak to boli mapy navigačné.241
+Vďaka
+
+kontaktom
+
+v Indii
+
+a Maroku
+
+mal
+
+Magalhães
+
+možnosť
+
+vidieť
+
+najpresnejšie a najaktuálnejšie portugalské mapy. V období medzi pôsobením v Maroku
+GUILLEMARD, ref. 14, s. 192 – 193.
+Tamže, s. 193 – 195.
+236
+PIGAFETTA, ref. 126, s. 20.
+237
+GUILLEMARD, ref. 14, s. 195 – 196; SIEBOLD, Jim. The Evolution of South America in Early Maps
+(#5.15). [online] dostupné na: http://myoldmaps.com/515-south-america-is-a.pdf. [cit. 26. mája 2022]. s.
+35 – 42; SIEBOLD, ref. 228, s. 1, 34 – 35.
+238
+GUILLEMARD, ref. 14, s. 196 – 198; najočividnejším argumentom je, že kráľ Manuel I. bez
+problémov prepustil Magalhãesa, čo by asi neurobil, keby vedel, že vynesie tajomstvo o prielive, ktoré ho
+môže výrazne poškodiť.
+239
+STEVENSON, ref. 180, s. 211 – 212.
+240
+GUILLEMARD, ref. 14, s. 194.
+241
+SÁNCHEZ IMIZCOZ, ref. 2, s. 5; SANDMAN, ref. 66, s. 1095.
+234
+235
+
+45
+
+a odchodom do Španielska nadobudol dobrú znalosť portugalských kolónií a popri Rui
+Faleirovi nadviazal kontakty so špičkovými portugalskými kartografmi, vďaka čomu
+neodišiel do Sevilly s prázdnymi rukami, ale mal so sebou kvalitné mapy a glóbusy.242
+Medzi najdôležitejších pre jeho úspech patrili prominentný kráľovský kartograf Pedro
+Reinel (†1540/1542) a jeho syn Jorge Reinel (†1572).243
+V Prvom rade Magalhães vlastnil mapu (poprípade glóbus), prostredníctvom
+ktorej predstavil svoju myšlienku kráľovi Karolovi I. Tá pochádzala od Reinelovcov
+a vieme o nej, tak, ako o množstve vtedajších máp, iba z písomných prameňov.
+Zaujímavé je, že úžina, ktorú Magalhães predstavoval a ktorú mal ísť hľadať, na nej
+úmyselne nebola zakreslená.244
+Po tom, ako kráľ výpravu schválil, začalo sa s prípravami navigačných máp,
+ktoré boli nutné pre navigátorov lodí a ešte ďalších špeciálnych máp. Zo správ
+portugalského agenta Álvaresa vieme o existencii hlavnej mapy, ktorú v roku 1519
+v Seville zhotovil Jorge Reinel a na ktorú Pedro nakreslil Moluky.245 Táto mapa by
+mala byť takmer identická s mapou dnes známou ako Kunstmann IV, pomerne presne
+zachytávajúcou objavy Portugalcov a Španielov tesne pred zahájením Magalhãesovej
+výpravy.246
+Mapa Kunstmann IV bola vyhotovená Reinelovcami asi v roku 1519. Originál
+bol dlhú dobu uložený v Mníchove, no stratil sa počas bombardovania v roku 1945.
+Dnes existujúci kus je vernou, ručne maľovanou kópiou od Otta Progela z roku 1836
+a patrí do zbierky Bibliothèque Nationale v Paríži vo Francúzsku. Ide o najstaršiu
+dochovanú mapu, na ktorej Moluky ležia v Španielskej zóne. Dosiaľ nepreplávaný
+Pacifik je na mape výrazne menší, ako v skutočnosti.247 Najnápadnejšou črtou mapy,
+súvisiacou s výpravou, je južné ukončenie Ameriky na 35° j. z. š., teda v priestore Rio
+de la Plata, v podobnej zemepisnej šírke, ako juh Afriky.248 Aj Pigafetta píše
+
+LOUREIRO, ref. 104, s. 22 – 23.
+Tamže, s. 25; SIEBOLD, Jim. Kunstmann I (#307.2). [online] dostupné na:
+http://myoldmaps.com/renaissance-maps-1490-1800/3072-kuntsmann-i-atlantic/3072-kuntsmann-ireinel.pdf. [cit. 29. mája 2022]. s. 1.
+244
+LOUREIRO, ref. 104, s. 24.
+245
+GUILLEMARD, ref. 14, s. 133 – 134; LOUREIRO, ref. 104, s. 26.
+246
+LOUREIRO, ref. 104, s. 25, 27.
+247
+SIEBOLD,
+Jim.
+Kunstmann
+IV
+(#330).
+[online]
+dostupné
+na:
+https://www.myoldmaps.com/renaissance-maps-1490-1800/330-kuntsmann-iv.pdf. [cit. 8. júna 2022]. s.
+2 – 3.
+248
+MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref. 67, s. 641.
+242
+243
+
+46
+
+o domnienke, že hľadaný prieliv na západ sa nachádza v priestore La Platy.249 Na
+základe tejto črty sa usudzuje, že Magalhães išiel hľadať prieliv na západ práve do
+oblasti Río de la Plata.250
+
+Obr. 4
+
+Mapa Kunstmann IV od Pedra a Jorgeho Reinelovcov (1519) 251
+
+Obr. 5
+
+Mapa Indického oceánu od Pedra Reinela (1517) 252
+
+249
+
+PIGAFETTA, ref. 126, s. 14.
+MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref. 67, s. 641.
+251
+Obrázok je prevzatý z wikipedie, voľnej encyklopédie. [online] dostupný na:
+https://en.wikipedia.org/wiki/File:Map_1519_Jorge_Reinel_%282%29.jpg, [cit. 30. júna 2022].
+252
+Obrázok je prevzatý z wikipedie, voľnej encyklopédie. [online] dostupný na:
+https://upload.wikimedia.org/wikipedia/commons/3/3f/1517_or_1518_nautical_chart%2C_attributed_to_
+Pedro_Reinel.jpg, [cit. 26. júna 2022].
+250
+
+47
+
+Za zmienku stojí ešte mapa Indického oceánu z roku 1517, ktorej autorom je
+Pedro Reinel. Originál bol uložený v Mníchove a tiež bol zničený v roku 1945, kópia od
+Otta Progela z roku 1843 sa rovnako nachádza v Bibliothèque Nationale v Paríži. Túto
+mapu mal údajne Magalhães k dispozícii pre prípad, že by nenašiel prieliv a tým
+západnú cestu na Moluky. Ak bola táto mapa skutočne súčasťou výpravy, mohol sa o ňu
+del Cano opierať pri plavbe Indickým oceánom na spiatočnej ceste do Európy.253
+Keď portugalský veliteľ na Molukách António de Brito zadržal v roku 1522 loď
+Trinidad, objavil dve mapy sveta, ktoré vyrobili Reinelovci.254 Okrem máp Reinelovci
+zodpovedali aj za kvalitu potrebných navigačných pomôcok, medzi inými kompasov,
+astrolábov, kvadrantov a presýpacích hodín.255 Pedro a Jorge Reinelovci sa na
+prípravách podieľali síce výrazne, ale iba krátko, ešte v roku 1519 sa vrátili do služieb
+portugalského kráľa.256 Medzi Reinelovcami a Magalhãesom pravdepodobne existovalo
+priateľské puto, ktoré by vysvetľovalo účasť oficiálnych portugalských kráľovských
+kartografov na španielskom podniku poškodzujúcom vlastného kráľa.257
+Okrem Reinelovcov na príprave máp pre Magalhãesa pracoval Portugalec Diogo
+Ribeiro (†1533).258 Ten sa dostal do Casa de Contratación, kde mal spolu s Nuñom
+Garcíom de Torenom, v tej dobe jedným z dvoch hlavných navigátorov, prístup k mape
+Padrón Real.259 Ribeiro sa do Portugalska nevrátil, patril medzi tých, ktorí úplne prešli
+do španielskych služieb a do svojej smrti pôsobil na významných pozíciách.260
+Z uvedeného vyplýva, že výprava Fernãa de Magalhãesa na Moluky bola
+vynikajúco zásobená najlepšími kartografickými dielami svojej doby. Vďaka
+portugalským kartografom, najmä Reinelovcom, mal Magalhães najpresnejšie
+portugalské informácie, vďaka Španielom mal prístup k najpresnejším španielskym
+mapám svojej doby.261
+
+253
+
+LOUREIRO, ref. 104, s. 27.
+DESTOMBES, ref. 179, s. 66 – 67; LOUREIRO, ref. 104, s. 27.
+255
+GUILLEMARD, ref. 14, s. 134, 143.
+256
+DESTOMBES, ref. 179, s. 68; GUILLEMARD, ref. 14, s. 188 – 190.
+257
+LOUREIRO, ref. 104, s. 26.
+258
+VIGNERAS, Louis-André. The Cartographer Diogo Ribeiro. In: Imago Mundi, vol. 16 (1962), s. 76.
+259
+MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref. 67, s. 641; VIGNERAS, ref. 258, s.
+76.
+260
+VIGNERAS, ref. 258, s. 76.
+261
+SÁNCHEZ IMIZCOZ, ref. 2, s. 5; MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref.
+67, s. 640.
+254
+
+48
+
+3.2 Mapy po ceste
+
+Po tom, ako Juan Sebastian del Cano dokončil prvú plavbu okolo sveta, do
+Európy priniesol množstvo nových informácii, ktoré boli postupne spracované aj vo
+forme máp.
+Prvou známou mapou Magalhãesovej úžiny, datovanou ešte do roku 1520, je
+kresba Antonia Pigafettu. Tá bola spolu s ďalšími 22 mapami prílohou pôvodných
+rukopisov jeho záznamu cesty. Nám je mapa známa vďaka reprodukcii Carla
+Amorettiho z roku 1800, ktorá sa nachádza v Library of Congress vo Washingtone.
+
+Obr. 6
+
+Pigafettova mapa Magalhãesovej úžiny (1520) 262
+
+Zaujímavosťou je, že na rozdiel od iných dobových máp je orientovaná na juh
+(sever smeruje dole). Mapa zachytáva pobrežie Južnej Ameriky od La Platy až po
+úžinu, s označením zátoky s. Juliána, niektorých mysov a oboch oceánov. Ako
+Patagóniu označuje rozsiahlu (nepreskúmanú) pevninu na juh od úžiny.
+
+Obrázok
+je
+prevzatý
+z Library
+of
+Congress,
+https://www.loc.gov/item/2021668426/, [cit. 26. júna 2022].
+262
+
+[online]
+
+dostupný
+
+na:
+
+49
+
+Pozoruhodným exemplárom je mapa, nájdená v knižnici paláca Topkapi
+v Istanbule a pomenovaná „Magellanova mapa“. Mapa je farebne namaľovaná na
+pergamen s rozmermi 70 x 70 cm. Na mape je v pólovej projekcii,263 zachytená južná
+pologuľa s priemerom 69 cm. Názvy sú napísané v portugalčine a latinčine. Základný
+poludník prekvapivo prechádza Molukami.264 Mapa bola vyhotovená na jeden krát
+okolo roku 1522, teda v čase krátko po návrate Juana Sebastiana del Cana.265 Ako
+podklad boli použité dva samostatné zdroje, na jednej strane presné portugalské
+záznamy Indického oceána, na druhej strane presné a čerstvé španielske informácie
+o pobreží Južnej Ameriky,266 pri ktorej je text: „Táto zem bola objavená Fernão de
+Magalhãesom“.267 Mapu musel vytvoriť niekto s dobrými informáciami z oboch
+kráľovstiev Pyrenejského polostrova, najpravdepodobnejším kandidátom je už
+spomenutý Pedro Reinel.268 Do Istanbulu ju mohol doniesť Antonio Pigafetta, ktorý sa
+tam nachádzal okolo roku 1524.269
+
+Obr. 7
+
+Magellanova mapa (1522) 270
+
+Pólová projekcia – os zobrazovanej plochy je totožná s osou Zeme, tj. zachytáva severnú/južnú
+pologuľu s pólom uprostred. KAROLČÍK a BALÁŽOVIČ, ref. 12, s. 50.
+264
+DESTOMBES, ref. 179, s. 65.
+265
+LOUREIRO, ref. 104, s. 28.
+266
+DESTOMBES, ref. 179, s. 67.
+267
+LOUREIRO, ref. 104, s. 28.
+268
+DESTOMBES, ref. 179, s. 68, 71.
+269
+Tamže, s. 79; LOUREIRO, ref. 104, s. 28.
+270
+Kompilát vytvorený na základe príloh k práci M. Destombesa. DESTOMBES, ref. 179.
+263
+
+50
+
+Opäť sa dostávame k Diogovi Ribeirovi. Významný kartograf v španielskych
+službách sa po návrate del Canovej Victorie stal členom Casa de la Especieria, inštitúcie
+zastrešujúcej obchod s korením, sídliacej v La Coruñi, v roku 1524 sa ako poradca
+zúčastnil jednaní v Badajoze a Elvase271 a zodpovedal za vyslanie výpravy Estêvão
+Gomesa ku severozápadným brehom Severnej Ameriky.272 V roku 1525 Diogo Ribeiro
+zhotovil mapu sveta, známu ako Castiglioni, alebo Castiglioniho, prvú so svojich 4 máp
+sveta (zvyšné vznikli v rokoch 1527 a 1529).273 Castiglioniho mapa sveta je ručne
+maľovaná pergamenová mapa na štyroch hárkoch s celkovými rozmermi 82 x 214 cm
+a nápismi v španielčine a latinčine,274 ktorú Karol I. daroval Baldassare Castiglionimu,
+dvoranovi na španielskom kráľovskom dvore. Do roku 2000 patrila rodu Castiglioni,
+v súčasnosti je uložená v Biblioteca Universitaria Estense v Modene v Taliansku.275
+
+Obr. 8
+
+Planisféra Castiglioni (1525) 276
+
+Mapa sveta Castiglioni je odvodená od Padrón Real, ku ktorému mal Ribeiro
+prístup ako člen Casa de Contratación. Na mape, dobre dokumentujúcej technologický
+aj informačný pokrok, sú znázornené tri svetové oceány a veľmi presne zachytené
+americké pobrežie, ktoré už v tej dobe mali Španieli pomerne presne zmapované.
+Ribeiro nakreslením Tordesillaskej línie na opačnej pologuli nárokuje Ostrovy korenia
+
+271
+
+VIGNERAS, ref. 258, s. 77.
+Tamže, s. 78.
+273
+CORTESÃO, ref. 200, s. 54 – 55.
+274
+Tamže, s. 53; SIEBOLD, Jim. Castiglioni World Map (#339). [online] dostupné na:
+http://myoldmaps.com/renaissance-maps-1490-1800/339-castiglioni-world-map.pdf. [cit. 5. júna 2022]. s.
+2.
+275
+SIEBOLD, ref. 274, s. 3.
+276
+Obrázok je prevzatý z webstránky https://www.palazzocastiglionimantova.com/, [online] dostupný na:
+https://www.palazzocastiglionimantova.com/media/__sized__/images/planisfero-castiglioni-crop-c05__0-5-1430x500-70.jpg, [cit. 30. júna 2022].
+272
+
+51
+
+pre Španielsko. Zaujímavý je aj Tichý oceán, výrazne väčší, ako na starších mapách, no
+stále veľmi malý oproti svojim skutočným proporciám.277
+Sám Ribeiro, významný kartograf svojej doby, sa v roku 1527 dostal na čelo
+Casa de Contratación,278 čo iba potvrdzuje, že Fernão de Magalhães mal do činenia so
+skutočnými odborníkmi.
+
+CORTESÃO, ref. 200, s. 54 – 55; MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref.
+67, s. 641.
+278
+MARTÍNEZ JIMÉNEZ, TAPIA FRADE a MONTES TUBÍO, ref. 67, s. 639; VIGNERAS, ref. 258, s.
+81; SANDMAN, ref. 66, s. 1141.
+277
+
+52
+
+ZÁVER
+
+Prvá cesta okolo sveta sa odohrala v dobe veľkého pokroku. Iba niekoľko
+desaťročí predtým boli objavené a preskúmané výhodné námorné cesty a nimi pre
+Európanov sprístupnené bohaté zámorské územia. Vzostup Portugalcov znamenal zvrat
+vo svetovom obchode. Moreplavba zabezpečila relatívne zbohatnutie Portugalska
+a Španielska a zároveň túžbu po ešte väčšom bohatstve.
+V dejinách ľudstva, našu pokrokovú epochu nevynímajúc, je bežné, že niektorí
+ľudia sú cenení za zásluhy iných a tým pádom preceňovaní. Jedným z nich je princ
+Henrich, zvaný Moreplavec, ktorému býva pripisovaná prvoradá úloha na počiatku
+portugalskej moreplavby. Táto práca sa pokúsila načrtnúť skutočnosť, že ide
+o neprimeranú glorifikáciu, ktorú môžeme označiť za legendu. Princa Henricha je
+potrebné vykresliť ako dobového ziskuchtivého šľachtica, ktorý okrem iných aktivít
+z čisto pragmatických dôvodov investoval do moreplavby. Vyvstáva však množstvo
+nových otázok, ktoré sú nad rámec tejto práce, medzi inými: Aký podiel zodpovednosti
+niesol na zámorských výpravách? Do akej miery tušil ďalekosiahle dôsledky (ktoré mu
+bývajú pripisované ako jeho vlastné idey)?
+Zmienená pokroková doba formovala generácie schopných námorných
+kapitánov, navigátorov a iných odborníkov, ktorí, podporovaní svojimi panovníkmi,
+zásadne posúvali hranice možného a dosiahnuteľného, čím sami pôsobili pokrok.
+Medzi najvýznamnejšie osobnosti tejto epochy patrí Fernão de Magalhães. Bol
+to muž ovplyvnený veľkými počinmi moreplavby svojej doby, sám skúsený námorník,
+bojovník a veliteľ, vizionár a nakoniec schopný organizátor slávnej výpravy. Jeho
+osobnosť odmeraného introverta zdobili črty ako pracovitosť, odvaha, zodpovednosť,
+tvrdohlavosť, presvedčivosť a cieľavedomosť. Vďaka nim sa Magalhãesovi podarilo
+presadiť vlastnú výpravu, celú ju pripraviť, doviesť ju aj napriek vzbure až na úplný juh
+Južnej Ameriky, nájsť prieliv a cez Tichý oceán sa preplaviť do Juhovýchodnej Ázie,
+kde zomrel. Keďže výprava dovtedy prešla viac ako polovicu sveta, vrátane dosiaľ
+nepoznaných miest a nachádzala sa v blízkostí pomerne známych námorných trás, Juan
+Sebastian del Cano, posledný kapitán zvyšnej lode, sa rozhodol pre návrat do Európy
+západným smerom, čo po dokončení znamenalo prvé oboplávanie „zemegule“.
+
+53
+
+Túto bezprecedentnú cestu môžeme právom nazývať „plavba Magalhãesa-del
+Cana okolo sveta“, keďže obaja kapitáni na nej majú svoj nezanedbateľný podiel.
+Existujú však úvahy, na ktoré nepoznáme odpoveď. Nevieme, či mal Magalhães v pláne
+plavbu okolo sveta. Netušíme ani, kto bol prvým človekom, ktorý oboplával svet,
+pretože isté indície naznačujú Magalhãesovho otroka Enriqueho. Nevieme ani, či by sa
+plavbu podarilo zrealizovať v inom roku, keďže flotila sa v Tichom oceáne stretla
+s nečakane pokojným počasím, na pamiatku čoho najväčšia vodná plocha sveta dodnes
+nesie svoje meno.
+Tak, či onak, aj napriek tomu, že Magalhães neuspel v nájdení výhodnejšej cesty
+na Moluky, dokonca výpočty, o ktoré sa opieral, hovoriace o španielskom práve na
+ostrovy, boli kvôli neznalosti šírky Tichého oceánu nesprávne, dejiny si ho právom
+pamätajú ako výnimočného kapitána, iniciátora skvelej výpravy, ktorá priniesla mnoho
+geografických noviniek. Zabezpečil dôkaz, že Zem nie je plochá a že oceán medzi
+Amerikou a Áziu je väčší, ako sa predpokladalo. A ešte jedna pozoruhodná geografická
+skutočnosť, námorníci Victorie sa logicky museli stretnúť s odchýlkou vo výpočte
+dátumu, keď cestou na západ, vrátane prekročenia dátumovej hranice, „stratili“ oproti
+zvyšku sveta jeden kalendárny deň. Limit tejto práce však presahuje otázka, či dátumy,
+ktoré v súvislosti s druhou časťou slávnej plavby bežne používame, napríklad smrť
+Fernãa de Magalhãesa dňa 27. 4. 1521, sú výsledkom počítania dní účastníkov výpravy,
+alebo plynutia času na pevnine. O výnimočnosti plavby dobre svedčí neúspech
+najbližších pokusov o zopakovanie tohto námorného počinu. Niektorí autori hovoria, že
+Magalhãesova-del Canova cesta nemá v dejinách obdobu. Táto práca sa dotkla aj teórie,
+že flotila Fernãa de Magalhãesa sa neplavila ako prvá úžinou na juhu Južnej Ameriky.
+To však neznižuje hodnotu vyššie spomenutého námorného výkonu.
+Súčasťou pokrokovej doby bolo aj šírenie geografických informácií.
+Spoznávanie sveta na konci stredoveku predstavovalo upúšťanie od prekonaného
+ptolemaiovského pohľadu. Nové poznatky sa v rukách šikovných kartografov menili na
+hodnotné mapy a tie zase spätne ovplyvňovali dianie v moreplavbe. Keby Fernão de
+Magalhães bol iba schopný námorník a veliteľ, výprava by neopustila Sevillu.
+Magalhães potreboval tak vlastné, ako aj sprostredkované poznanie sveta, ktoré získal
+vďaka kontaktom s prominentnými kartografmi. Lisabon bol na počiatku 16. st.
+strediskom myšlienok, výpočtov a teórií, tu sa zhromažďovali vynikajúci námorní
+kapitáni, navigátori, lodní stavitelia a samozrejme kartografi.
+54
+
+Cieľom tejto práce bolo objasniť súvislosť medzi dobovými kartografickými
+dielami a samotnou cestou. Tieto mapy a glóbusy je možné rozdeliť do dvoch kategórii.
+Prvými sú tie, ktoré vznikli pred zahájením cesty a naznačujú, čo Magalhães asi vedel,
+pretože sa predpokladá, že bol oboznámený s najlepšími poznatkami svojej doby.
+V rámci tejto kategórie figurujú aj mapy, ktoré mal na výprave so sebou. Druhá
+kategória zahŕňa mapy, ktoré sú založené už na poznatkoch, zhromaždených
+Magalhãesovou-del Canovou plavbou.
+Mapy portugalských a španielskych kartografov, ktoré predstavuje táto práca,
+dokazujú, že Magalhães mal k dispozícii najlepšie poznanie svojej doby. Aj to
+bezpochyby prispelo ku konečnému úspechu.
+Na základe Cantinovej mapy sveta vidíme aj prísnu účelovosť mapovej tvorby,
+keď portugalský zdroj úmyselne posunul Tordesillaskú líniu čo najviac na západ, aby
+pre Portugalsko „získal“ maximum zámorského územia. Ak podľa takto neprávne
+nakreslenej mapy (nehovoriac o malom oceáne medzi Amerikou a Áziou) vznikali aj
+výpočty Ruia Faleira, nie je prekvapujúce, že dospel k nesprávnym výsledkom.
+Hlavným záverom tejto práce je existencia teórie, hovoriacej o nejakom prielive,
+ležiacom približne v rovnakej zemepisnej šírke, v akej sa nachádza južný okraj Afriky.
+Jestvovanie takejto teórie podporujú napríklad glóbusy Johanna Schönera, mapa od
+Reinelovcov a Pigafettova zmienka. Pravdepodobne došlo k omylu a zámene mohutnej
+Río de la Plata za očakávaný prieliv. Na druhej strane, aj keď by to bolo najlogickejšie,
+nie je jasné, či Magalhães očakával prieliv práve na tomto mieste.
+Cesta okolo sveta mala v Európe ohlas, okrem iného o tom svedčí neskoršia
+tvorba glóbusov a máp, na ktorých je zakreslená plavba Victorie.
+Oblasť historickej kartografie však nepredstavuje iba odpovede, ale aj ďalšie
+otázky. Tie vznikajú najmä kvôli absencii ďalších máp a glóbusov, keďže nie všetky
+relevantné kartografické diela sa nám zachovali.
+V neposlednom rade môžu byť poznatky uvedené v tejto práci prepojené
+s modernou geopolitikou: Zmluva z Tordesillas sa môže v náznakoch podobať na
+bipolárny svet minulého storočia. Tak, ako v 15. a 16. st., aj dnes je námorná doprava
+najlacnejším a najvýhodnejším spojením vzdialených oblastí a kostrou svetového
+obchodu. Pre Portugalcov kľúčová Melaka stále leží v Melackom prielive, kľúčovom
+55
+
+pre súčasný svetový obchod. Na prelome 19. a 20. st. sa úsilie o výhodnú cestu na západ
+stretlo s čiastočným úspechom, keď bol v Panamskej šiji prekopaný dôležitý prieplav.
+Európsko-ázijský obchod západným smerom však neutrpel, vďaka významu Suezského
+prieplavu.
+
+56
+
+ZOZNAM POUŽITEJ LITERATÚRY
+
+ANDĚL, Rudolf a Alice /red./ TEICHOVA. Dějiny středověku 2. Praha: Státní
+pedagogické nakladatelství, 1968. Světové dějiny, sv. 3.
+AXELSON, Eric. Prince Henry the Navigator and the Discovery of the Sea Route to
+India. In: The Geographical Journal, vol. 127, no. 2 (Jun., 1961), s. 145-155.
+BAGROW, Leo, SKELTON, R. A., ed. History of cartography. Repr. New Brunswick,
+NJ: Transaction Publishers, 2010. ISBN 978-1-4128-1154-5.
+BASISTA, Jakub. Magelan, Ferdinand, 1480 – 1521 ce. In: The Sea in World History:
+Exploration, Travel, and Trade. vol. 1 [ebook] Stephen K. Stein (editor). Santa Barbara:
+ABC-CLIO, 2017. s. 432-434. ISBN 978-1-4408-3550-6.
+CAJTHAML, Miroslav. Historické lodě 16. až 18. století. Brno: Computer Press, 2009.
+ISBN 978-80-251-2355-3.
+Copia der newen Zeytung aus Presillg Landt. [1514] [online] dostupné na:
+https://archive.org/details/copiadernewenzey00unkn/page/n7/mode/2up. [cit. 22. júna
+2022].
+CORTESÃO, Armando. Note on the Castiglioni Planisphere, In: Imago Mundi, vol. 11
+(1954), s. 53-55.
+CRAIG, Simon. The ship that shrank the world. In: Geographical, vol. 69, no. 9 (Sept.,
+1997), s. 64-66.
+DAVIES, Arthur. Prince Henry the Navigator. In: Transactions and Papers (Institute of
+British Geographers), no. 35 (Dec., 1964), s. 119-127.
+DESTOMBES, Marcel. The Chart of Magellan. In: Imago Mundi, vol. 12 (1955), s. 6588.
+DIFFIE, Bailey W. a George D. WINIUS. Foundations of the Portuguese empire, 1415
+– 1580. Minneapolis: University of Minnesota Press, 1977. 588 s. ISBN 0-8166-0782-6.
+DRLIČKA, Boris. Nad Ptolemaiovskou mapou strednej Európy. Nitra: Gramond Nitra,
+2020. ISBN 978-80-89703-75-3.
+
+57
+
+ELBL, Ivana. Man of His Time (and Peers): A New Look at Henry the Navigator. In:
+Luso-Brazilian Review, vol. 28, no. 2 (Winter, 1991), s. 73-89.
+FERNÁNDEZ-AMARESTO, Felipe. Maps and Exploration in the Sixteenth and Early
+Seventeenth Centuries. In: The History of Cartography. vol.3, (part 1: Cartography in
+the european renaissance), [ebook] edited by David Woodward (editor). Chicago:
+University Of Chicago Press, 2007. s. 738 – 759. ISBN 978-0-226-90732-1.
+FITZPATRICK, Scott M. a Richard CALLAGHAN. Magellan's Crossing of the
+Pacific: Using Computer Simulations to Examine Oceanographic Effects on One of the
+World's Greatest Voyages. In: The Journal of Pacific History, vol. 43, no. 2 (Sep.,
+2008), s. 145-165.
+GASPAR, Joaquim Alves. Blunders, Errors and Entanglements: Scrutinizing the
+Cantino Planisphere with a Cartometric Eye. In: Imago Mundi, vol. 64, no. 2 (2012), s.
+181-200.
+GUILLEMARD, Francis Henry Hill. The Life of Ferdinand Magellan, and the First
+Circumnavigation of the Globe: 1480-1521. London: George Philip & Son, 1891.
+GULÁŠ, Štefan, Plachetnice všetkých čias. Bratislava: Mladé letá, 1979.
+HEAWOOD, Edward. The World Map before and after Magellan's Voyage. In: The
+Geographical Journal (The Royal Geographical Society), vol. 57, no. 6 (Jun., 1921), s.
+431-442.
+HOLEČEK, Milan. Hrdinové zámořských objevů. Praha: Vyšehrad, 2019. ISBN 97880-7601-099-4.
+HRBEK, Ivan. ABC cestovatelů, mořeplavců, objevitelů. Praha: Panorama, 1979.
+CHALUPA, Jiří. Dějiny Španělska. Praha: Nakladatelství Lidové noviny, 2017, ISBN
+978-80-7422-525-3.
+CHILDRESS, Diana. Words That Divided the World. In: Calliope (Peterborough), vol.
+20, iss. 5, (Feb., 2010), s. 24-27.
+JOYNER, Tim. Magellan. Camden, Maine: International Marine, 1992. ISBN 0-87742263-X.
+
+58
+
+KAROLČÍK, Štefan a Ľuboš BALÁŽOVIČ. Základy kartografie, GIS a DPZ pre
+učiteľov. Banská Bystrica: VKÚ Harmanec, 2020. ISBN 978-80-99934-16-1.
+KLÍMA, Jan. Dějiny Portugalska. Praha: Nakl. Lid. noviny, 1996. Dějiny států. ISBN
+80-7106-164-6.
+KLÍMA, Jan. Portugalská Indie. Praha: Libri, 2010. Stručná historie států, sv.č . 71.
+ISBN 978-80-7277-475-3.
+KOSIARZ, Edmund. Námorné bitky. 2. dopl. vyd. Bratislava: Nakladateľstvo Pravda,
+1984.
+LOUREIRO, Rui Manuel. Magellan’s map. In: Diadorim, vol. 23, no. 2 (2021), s. 2031.
+Magellan, Ferdinand (1480-1521). [online] Encyclopedia of World Biography, Gale,
+1998.
+
+dostupné
+
+na:
+
+link.gale.com/apps/doc/A148477970/AONE?u=artsk11&sid=bookmarkAONE&xid=f11e7de5. [cit. 16. augusta 2021].
+MARTÍNEZ JIMÉNEZ, Enrique, TAPIA FRADE, Alejandro a Francisco MONTES
+TUBÍO. Cartography, Geometry, and Communication: How to Narrate the Shape of the
+World Before and After the Journey of Magellan and Elcano. In: Revista Latina de
+Comunicación Social, vol. 74, s. 637-652.
+MOŽEJKO, Igor Vsevolodovič. Pod pirátskou vlajkou. Praha: Naše vojsko, 2009.
+ISBN 9788020610270.
+PIGAFETTA, Antonio. Zpráva o první cestě kolem světa. Praha: Mladá fronta, 1975.
+PLEINER, Radomír. Minilexikon k dějinám lodí a námořní plavby. Praha: Naše vojsko,
+1994. ISBN 80-206-0441-3.
+RICHARDSON, William Arthur Ridley. South America on Maps before Columbus?
+Martellus's 'Dragon's Tail' Peninsula. In: Imago Mundi, vol. 55 (2003), s. 25-37.
+SANDMAN, Alison. Spanish Nautical Cartography in the Renaissance. In: The History
+of Cartography. vol.3, (part 1: Cartography in the european renaissance), [ebook] edited
+by David Woodward (editor). Chicago: University Of Chicago Press, 2007. s. 1095 –
+1142. ISBN 978-0-226-90732-1.
+59
+
+SÁNCHEZ IMIZCOZ, Ruth. … and the World was round: The Magellan-Elcano
+Adventure The First Circumnavigation of the World. (2016 SAMLA Presidential
+Address, the Eighty-eighth Annual Conference of the South Atlantic Modern Language
+Association, Jacksonville, FL, November 4, 2016), In: South Atlantic Review, vol. 82,
+no. 2 (Summer 2017), s. 1-11.
+SIEBOLD,
+
+Jim.
+
+Behaim
+
+Globe
+
+(#258).
+
+[online]
+
+dostupné
+
+na:
+
+http://www.myoldmaps.com/late-medieval-maps-1300/258-martin-behaims-globe/258behaim.pdf. [cit. 28. mája 2022].
+SIEBOLD,
+
+Jim.
+
+Cantino
+
+World
+
+Map
+
+[online]
+
+(#306).
+
+dostupné
+
+na:
+
+http://myoldmaps.com/renaissance-maps-1490-1800/306-cantino-world-map/306cantino.pdf. [cit. 2. júna 2022].
+SIEBOLD,
+
+Jim.
+
+Castiglioni
+
+World
+
+Map
+
+(#339).
+
+[online]
+
+dostupné
+
+na:
+
+http://myoldmaps.com/renaissance-maps-1490-1800/339-castiglioni-world-map.pdf.
+[cit. 5. júna 2022].
+SIEBOLD,
+
+Jim.
+
+Claudius
+
+Ptolemy
+
+(#119).
+
+[online]
+
+dostupné
+
+na:
+
+http://myoldmaps.com/maps-from-antiquity-6200-bc/116-pomponius/119-ptolemy.pdf.
+[cit. 21. júna 2022].
+SIEBOLD,
+
+Jim.
+
+Kunstmann
+
+I
+
+(#307.2).
+
+[online]
+
+dostupné
+
+na:
+
+http://myoldmaps.com/renaissance-maps-1490-1800/3072-kuntsmann-i-atlantic/3072kuntsmann-i-reinel.pdf. [cit. 29. mája 2022].
+SIEBOLD,
+
+Jim.
+
+Kunstmann
+
+IV
+
+(#330).
+
+[online]
+
+dostupné
+
+na:
+
+https://www.myoldmaps.com/renaissance-maps-1490-1800/330-kuntsmann-iv.pdf. [cit.
+8. júna 2022].
+SIEBOLD,
+
+Jim.
+
+Martin
+
+Waldseemüller
+
+(#310).
+
+[online]
+
+dostupné
+
+na:
+
+http://myoldmaps.com/renaissance-maps-1490-1800/310-martin-waldseemuller/310walds2.pdf. [cit. 14. júna 2022].
+SIEBOLD,
+
+Jim.
+
+Schöner’s
+
+Globes
+
+(#328).
+
+[online]
+
+dostupné
+
+na:
+
+http://myoldmaps.com/renaissance-maps-1490-1800/328-johannes-schoner-globes/328shoner-globes.pdf. [cit. 21. júna 2022].
+
+60
+
+SIEBOLD, Jim. The Evolution of South America in Early Maps (#5.15). [online]
+dostupné na: http://myoldmaps.com/515-south-america-is-a.pdf. [cit. 26. mája 2022].
+STEVENSON, Edward Luther. Martin Waldseemüller and the Early LusitanoGermanic Cartography of the New World. In: Bulletin of the American Geographical
+Society, vol. 36, No. 4 (1904), s. 193-215.
+STUCKE, Walter. Columbus, Christopher, 1451 – 1506 ce. In: The Sea in World
+History: Exploration, Travel, and Trade. vol. 1 [ebook] Stephen K. Stein (editor).
+Santa Barbara: ABC-CLIO, 2017. s. 430-432. ISBN 978-1-4408-3550-6.
+THOMPSON, Ron B. The Myth of Sagres. Máj 2021. [online] dostupné na:
+https://www.portugalresident.com/the-myth-of-sagres/. [cit. 6. júna 2022].
+TORODASH, Martin. Magellan Historiography. In: The Hispanic American Historical
+Review (Duke University Press), vol. 51, no. 2 (May, 1971), s. 313-335.
+V/Centenario 1a Vuelta al Mundo. [online] dostupné na: https://vcentenario.es/. [cit. 17.
+júna 2022].
+VAN DUZER, Chet. Martin Waldseemüller’s ‘Carta marina’ of 1516: Study and
+Transcription of the Long Legends. Cham: Springer Nature, 2020. ISBN 978-3-03022703-6.
+VAN DUZER, Chet. Some results from a study of Johann Schöner's 1515 terrestrial
+globe. (Read at the 11th Coronelli Symposium, Venice 2007.) In: Globe Studies, no.
+57/58 (2011), s. 93-106.
+VIGNERAS, Louis-André. The Cartographer Diogo Ribeiro. In: Imago Mundi, vol. 16
+(1962), s. 76-83.
+WILKINSON, Richard James. The Capture of Malacca, A.D. 1511. In: Journal of the
+Straits Branch of the Royal Asiatic Society (Malaysian Branch of the Royal Asiatic
+Society), no. 61(June, 1912), s. 71-76.
+ZWEIG, Stefan. Magellan. Bratislava: Slovenský spisovateľ, 1969.
+
+61
+
+

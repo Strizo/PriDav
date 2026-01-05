@@ -1,0 +1,2290 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+PSYCHOLOGICKÉ FAKTORY VPLÝVAJÚCE NA
+SPOTREBITEĽSKÉ SPRÁVANIE
+Diplomová práca
+
+2024
+
+Bc. Simona Moravská
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+PSYCHOLOGICKÉ FAKTORY VPLÝVAJÚCE NA
+SPOTREBITEĽSKÉ SPRÁVANIE
+
+Diplomová práca
+Študijný program:
+
+Manažment
+
+Študijný odbor:
+
+Ekonómia a manažment
+
+Školiace pracovisko: Katedra marketingu
+Školiteľ:
+
+Bratislava 2024
+
+Ing. Natália Horňáková, PhD.
+
+Bc. Simona Moravská
+
+Abstrakt
+MORAVSKÁ, Simona: Psychologické faktory vplývajúce na spotrebiteľské správanie.
+[Diplomová práca] – Univerzita Komenského v Bratislave. Fakulta managementu; Katedra
+marketingu – Školiteľka: Ing. Natália HORŇÁKOVÁ, PhD. Bratislava: UK, 2024, 56 s.
+
+Táto diplomová práca sa zameriava na výskum vplyvu rôznych psychologických
+faktorov na spotrebiteľské správanie. Bližšie sa pozerá okrem iného na behaviorálne
+princípy opísané psychológom Robertom Cialdinim, medzi ktoré patrí napríklad princíp
+sociálneho schválenia či princíp autority. V praktickej časti práce je vplyv jednotlivých
+princípov, opísaných v teoretickej časti práce, analyzovaný prostredníctvom dát
+z vykonaného dotazníkového prieskumu. Výsledkom analýz sú viaceré potvrdené
+i nepotvrdené štatisticky významné závislosti medzi rôznymi psychologickými faktormi
+a kategóriami respondentov. V súvislosti s potvrdenými hypotézami z kapitoly 3 a súčasne
+aj s potvrdenými štatisticky významnými závislosťami niektorých premenných následne
+v závere práce navrhujeme odporúčania konkrétnym odvetviam zameraným na predaj, za
+účelom optimalizácie ich marketingovej stratégie.
+
+Kľúčové slová: spotrebiteľ, behaviorálna psychológia, marketing, stratégia, optimalizácia
+
+Abstract
+MORAVSKÁ, Simona: Psychological Factors and Their Influence on Consumer
+Behavior. [Master Thesis] – Comenius University in Bratislava. Faculty of Management;
+Department of Marketing – Supervisor: Ing. Natália HORŇÁKOVÁ, PhD. Bratislava:
+Comenius University in Bratislava, 2024, 56 pp.
+
+This master's thesis focuses on researching the impact of various psychological factors
+on consumer behavior. It examines, among other aspects, behavioral principles described by
+psychologist Robert Cialdini, such as the principle of social proof and the principle of
+authority. In the practical part of the thesis, the influence of these principles, described in the
+theoretical section, is analyzed using data from a conducted questionnaire survey. The results
+of the analysis reveal several confirmed and unconfirmed statistically significant
+relationships between different psychological factors and respondent categories. Based on
+the confirmed hypotheses from Chapter 3 and concurrently on the confirmed statistically
+significant dependencies of certain variables, recommendations are subsequently proposed
+in the conclusion of the thesis aimed at specific sales sectors, with the aim of optimizing
+their marketing strategy.
+
+Key words: consumer, behavioral psychology, marketing, strategy, optimization
+
+Predhovor
+Téma tejto práce sa zaoberá psychologickými faktormi, ktoré ovplyvňujú
+spotrebiteľské správanie, ako bolo už spomenuté. Môj záujem o túto špecifickú oblasť
+vychádza z dlhodobej fascinácie behaviorálnou psychológiou, ktorú som podrobne skúmala
+už vo svojej bakalárskej práci pred dvoma rokmi. Hoci som mala už isté znalosti o tejto
+téme, považovala som za prospešné uskutočniť ďalšie hlbšie výskumy a získať poznatky
+nielen zo slovenských, ale aj z medzinárodných zdrojov. Tento smer sa zhoduje s mojimi
+kariérnymi ambíciami v oblasti marketingu, v ktorom sa po úspešnom ukončení mojich
+štúdií plánujem špecializovať. Tento výskum ma naviac motivuje k tomu, aby som získala
+hlbšie pochopenie o tom, ako psychologické princípy ovplyvňujú správanie potrebiteľov v
+rôznych situáciách a prostrediach. Mojou snahou je prispieť k zlepšeniu marketingových
+stratégií a k lepšiemu porozumeniu potrieb a preferencií spotrebiteľov vo svete
+globalizovaného trhu.
+Práca je určená všeobecne firmám zameraným na predaj, no najmä firmám zameraným
+na predaj v oblastiach gastronómie, technológií a zdravotníctva. Usilujeme sa o to, dať
+daným sektorom, ale aj všeobecne firmám fokusovaným na predaj odporúčania, na základe
+zistených závislostí z vykonaných analýz, za účelom optimalizácie implementácie
+jednotlivých marketingových princípov do marketingových stratégií.
+Poďakovanie patrí mojej školiteľke, Ing. Natálií Horňákovej, PhD., za jej srdečný
+prístup a usmerňovanie, ktoré mi výrazne pomohlo pri písaní tejto práce.
+Zároveň poďakovanie smeruje aj všetkým ochotným respondentom vyhotoveného
+dotazníkového prieskumu, bez ktorých by celá praktická časť, výsledky práce či odporúčania
+jednotlivým oblastiam neboli možné zrealizovať.
+
+Obsah
+
+Úvod ............................................................................................................................ 10
+1
+
+Súčasný stav riešenej problematiky doma a v zahraničí ....................................... 12
+1.1
+
+Definícia psychológie spotrebiteľa ................................................................ 12
+
+1.2
+
+Štyri hlavné typy spotrebiteľského správania ................................................ 13
+
+1.2.1
+
+Komplexné nákupné správanie............................................................... 13
+
+1.2.2
+
+Nákupné správanie s cieľom odstránenia disonancie ............................. 13
+
+1.2.3
+
+Nakupovanie zo zvyku ........................................................................... 14
+
+1.2.4
+
+Správanie hľadania rozmanitosti ............................................................ 14
+
+1.3
+
+Faktory ovplyvňujúce spotrebiteľské správanie ............................................ 15
+
+1.3.1
+
+Kultúrne a sociálne faktory: ................................................................... 16
+
+1.3.2
+
+Psychologické faktory ovplyvňujúce spotrebiteľské správanie ............. 16
+
+1.4
+
+Dôležitosť odstraňovania bariér u spotrebiteľov ........................................... 18
+
+1.5
+
+Vplyv temperamentu na nákupné rozhodnutia spotrebiteľov ........................ 19
+
+1.5.1
+
+Sangvinik ................................................................................................ 19
+
+1.5.2
+
+Flegmatik ................................................................................................ 20
+
+1.5.3
+
+Cholerik .................................................................................................. 20
+
+1.5.4
+
+Melancholik ............................................................................................ 21
+
+1.6
+
+Sociálny dôkaz správnosti ............................................................................. 22
+
+1.7
+
+Vplyv autority ................................................................................................ 24
+
+1.8
+
+Obľúbenosť .................................................................................................... 25
+
+1.9
+
+Vzácnosť a jej vplyv na nákupné správanie a FOMO ................................... 26
+
+1.9.1
+
+Strach z premeškania príležitosti ............................................................ 26
+
+1.10 Záväzok a dôslednosť .................................................................................... 27
+1.11 Princíp reciprocity.......................................................................................... 28
+2
+
+Cieľ práce .............................................................................................................. 29
+
+2.1
+3
+
+4
+
+Parciálne ciele diplomovej práce ................................................................... 30
+
+Metodika práce a metódy skúmania ...................................................................... 30
+3.1
+
+Charakteristika objektu skúmania .................................................................. 30
+
+3.2
+
+Pracovné postupy ........................................................................................... 31
+
+3.3
+
+Metodológia zhromažďovania údajov ........................................................... 31
+
+3.4
+
+Použité metódy vyhodnotenia a interpretácia výsledkov .............................. 31
+
+3.5
+
+Štatistické metódy .......................................................................................... 31
+
+3.6
+
+Stanovené hypotézy ....................................................................................... 32
+
+Výsledky práce a diskusia ..................................................................................... 33
+
+Odporúčania ................................................................................................................ 44
+Záver............................................................................................................................ 49
+Zoznam použitej literatúry .......................................................................................... 51
+
+Zoznam obrázkov
+Obrázok 1 Typy temperamentu ................................................................................... 19
+Obrázok 2 Kategória „Najpredávanejšie“ ................................................................... 23
+
+Zoznam tabuliek
+Tabuľka 1 Vplyv sociálneho schválenia na nákup technologických zariadení ........... 33
+Tabuľka 2 Vplyv princípu schválenia celebritami na spotrebiteľov gastronomického
+sektora .................................................................................................................................. 35
+Tabuľka 3 Vplyv princípu schválenia celebritami na spotrebiteľov gastronomického
+sektora v percentách............................................................. Error! Bookmark not defined.
+Tabuľka 4 Miera vplyvu autority v fére zdravotníctva ............................................... 40
+
+Zoznam grafov
+Graf 1 Vplyv textúry a obalov produktov na percepciu kvality .................................. 37
+Graf 2 Vplyv princípu schválenia celebritami na spotrebiteľov gastronomického
+sektora .................................................................................................................................. 39
+Graf 3 Vplyv recenzií na rozhodovanie o nákupe technologických zariadení ............ 42
+Graf 4 Vplyv marketingu celebrít na motivovanoť navštívania gastronomickej
+prevádzky ............................................................................................................................. 43
+
+Úvod
+Táto diplomová práca, ktorej téma znie „Psychologické faktory vplývajúce na
+spotrebiteľské správanie“, ako už bolo v predchádzajúcich stranách spomenuté, sa zameriava
+na konkrétne psychologické princípy, ktoré podľa teórie opísanej v prvej kapitole práce – „1
+Súčasný stav riešenej problematiky doma a v zahraničí“ majú vplývať na nákupné
+rozhodovanie spotrebiteľov. Teoretická časť práce definuje psychológiu spotrebiteľa a
+opisuje rôzne psychologické princípy, medzi ktorými sú i tie, predstavené psychológom
+Robertom Cialdinim; sociálny dôkaz správnosti, vzácnosť, autorita, záväzok a dôslednosť,
+reciprocita, obľúbenosť. Súčasne zhŕňa štyri hlavné typy spotrebiteľského správania, medzi
+ktoré radíme komplexné nákupné správanie, nákupné správanie s cieľom odstránenia
+disonancie, nakupovanie zo zvyku a správanie hľadania rozmanitosti. Teoretická časť sa
+rovnako zameriava na získavanie poznatkov v súvislosti s nákupným rozhodovaním a
+správaním v závislosti od jednotlivého typu osobnosti, ktoré evidujeme taktiež štyri ;
+sangvinik, flegmatik, cholerik a melancholik. Štruktúra teoretickej časti je jasná a
+systematická, čo poskytuje pevný základ pre ďalšie analýzy a výskum v praktickej časti
+práce. Nasledujúcou kapitolou je kapitola 2, v ktorej opisujeme cieľ práce. Tým je
+identifikovať vplyv psychologických faktorov na spotrebiteľské správanie a na základe
+vykonaného dotazníkového prieskumu na zvolenej vzorke ľudí, navrhnúť podnikom
+zameraným na predaj, najmä predaj v konkrétnych oblastiach, odporúčania za účelom
+optimalizácie implementácie konkrétnych marketingových princípov a súčasne aj
+optimalizácie ich marketingovej stratégie. Kapitola 3 tejto práce predstavuje metodiku,
+zvolenú pre vykonanie potrebných analýz za účelom splnenia vyššie stanoveného cieľa.
+Analyzované dáta pramenia najmä z vykonaného dotazníka a odpovedí respondentov a na
+ich analýzu v práci je využívaný predovšetkým štatistický test, konkrétne test, známy pod
+názvom chi-kvadrát test. Záver práce predstavuje zhrnutie jednotlivých zistení a výsledkov
+z práve spomenutého vykonaného prieskumu a analýz. Pozerá sa na závislosti a hypotézy
+z kapitoly 3, ktoré sa analýzami potvrdili a prichádza v súvislosti s nimi s viacerými
+konkrétnymi i všeobecnými odporúčaniami pre firmy zamerané na predaj, najmä však
+z oblastí zdravotníctva, gastronómie a technológií s cieľom podporiť ich úspešné využitie v
+praxi a optimalizovať ich marketingové aktivity.
+
+10
+
+Je dôležité poskytnúť tieto odporúčania, pretože správne aplikované psychologické
+princípy môžu zvýšiť efektivitu marketingových kampaní a prispieť k lepšiemu
+porozumeniu a naplneniu potrieb zákazníkov. Optimalizácia marketingových stratégií na
+základe
+
+psychologických
+
+faktorov
+
+môže
+
+tiež
+
+pomôcť
+
+firmám
+
+zvýšiť
+
+ich
+
+konkurencieschopnosť a dosiahnuť udržateľný rast na trhu. Túto tému som sa rozhodla
+spracovať,
+
+pretože
+
+je
+
+dôležitá,
+
+keďže
+
+porozumenie
+
+psychologickým
+
+faktorom
+
+ovplyvňujúcim spotrebiteľské správanie umožňuje firmám presnejšie cieliť ich
+marketingové aktivity a komunikáciu na základe skutočných potrieb a preferencií
+zákazníkov. Analyzovanie týchto faktorov prispieva k vytvoreniu efektívnejších a
+cielenejších marketingových stratégií, čo môže viesť k zvýšeniu ziskovosti a
+konkurencieschopnosti podnikov v dynamickom trhovom prostredí.
+
+11
+
+1
+
+Súčasný stav riešenej problematiky doma a v zahraničí
+
+1.1 Definícia psychológie spotrebiteľa
+Psychológia spotrebiteľa skúma to, ako jednotlivci formujú svoje názory a rozhodnutia
+v súvislosti so spotrebou služieb a produktov. Súčasne sa venuje aj analýze toho, ako trhové
+faktory ovplyvňujú postoje, voľby a vnímanie vlastnej a skupinovej identity spotrebiteľov.1
+Oblasť spotrebiteľského správania sa zaoberá skúmaním jednotlivcov, skupín a
+organizácií a tými procesmi, ktoré využívajú pri výbere, zabezpečení, využívaní a likvidácii
+produktov, služieb, skúseností alebo nápadov na uspokojenie svojich potrieb. Súčasne sa
+analyzujú aj dôsledky, ktoré tieto procesy môžu mať na spotrebiteľa a spoločnosť.2
+Psychológia spotrebiteľa tiež študuje vplyv reklamy a marketingových kampaní na
+spotrebiteľské správanie. Podľa autorov Solomon, White a Dahl (2020) reklama nie je len
+prostriedok na informovanie spotrebiteľov o existencii produktov, ale tiež formuje ich
+preferencie a postoje. V snahe zaujať cieľovú skupinu často využíva emocionálne apely a
+psychologické stratégie, ktoré môžu ovplyvniť rozhodovací proces jednotlivcov. Napríklad,
+výskum ukazuje, že reklamy, ktoré vyvolávajú pozitívne emocionálne reakcie, môžu
+posilniť pripútanosť spotrebiteľov k značke a podporiť ich lojalitu dlhodobým spôsobom.3
+Okrem toho, v súčasnej dobe je stále viac dôležité študovať vplyv digitálnej
+technológie na spotrebiteľské správanie. Internet a sociálne médiá dramaticky menia spôsob,
+akým spotrebitelia vyhľadávajú informácie o produktoch a robia nákupy. Digitálny
+marketing a online recenzie sa stali kľúčovými faktormi, ktoré ovplyvňujú rozhodovacie
+procesy a preferencie spotrebiteľov. Napríklad, platformy ako Instagram a YouTube sa stali
+populárnymi miestami na propagáciu produktov prostredníctvom influencerov, čo vytvára
+nové formy vzťahu medzi značkami a ich zákazníkmi. Navyše, digitálna technológia
+umožňuje značkám osobnejší a cielený prístup k spotrebiteľom prostredníctvom
+personalizovaného obsahu a reklám. Algoritmy na základe správania sa spotrebiteľov a ich
+preferencií dokážu individuálne prispôsobovať reklamné kampane, čo zvyšuje efektivitu a
+účinnosť marketingových investícií. Táto forma cielenia umožňuje značkám lepšie
+
+SCIENCE DIRECT. Consumer Psychology [online]. ScienceDirect,. Dostupné na: <
+https://www.sciencedirect.com/topics/psychology/consumer-psychology/>.
+2
+MOTHERSBAUGH, D., KLEIDER, S., HAWKINS, D. Consumer Behavior: Building Marketing
+Strategy – 11th edition. New York: McGraw-Hill/Irwin, 2009, s. 6. ISBN 978-0-07-338110-7
+3
+SOLOMON, M. R., WHITE, K., DAHL, D. W. Consumer Behaviour: Buying, Having, Being. 8th
+Canadian Edition. Toronto: Pearson Canada, 2018, s. 18. ISBN 978-8-12-033833-3
+1
+
+12
+
+porozumieť svojim zákazníkom a budovať s nimi hlbší vzťah, čo môže mať dlhodobé
+pozitívne dôsledky na lojalitu a spokojnosť spotrebiteľov.4
+
+1.2 Štyri hlavné typy spotrebiteľského správania
+Základ podnikateľského sveta spočíva v kľúčovom prvku: v správaní sa spotrebiteľov
+pri nákupe. Avšak rozlúštenie toho, čo motivuje spotrebiteľov pri ich nákupných
+rozhodnutiach a hľadanie spôsobov, ako firmy môžu využiť tieto motivácie, závisí od
+hlbokého porozumenia zložitého a fascinujúceho sveta psychológie nákupného správania
+zákazníkov.
+Rozhodnutia spotrebiteľov, či už ide o impulzívne nákupy na trhu alebo precízne
+naplánované nákupy, sú vždy formované jedinečnou zmesou ovplyvňujúcich faktorov.5
+Rozhodnutie kupujúceho vždy závisí od miery, do akej je dotyčný zapojený do procesu
+rozhodovania o kúpe produktu alebo služby a aké riziko s tým súvisí. Čím vyššia je cena
+produktu, tým vyššie je riziko a tým pádom aj vyššia jeho angažovanosť pri nákupných
+rozhodnutiach. Na základe týchto determinantov rozlišujeme nasledovné štyri typy
+správania spotrebiteľov pri nákupe:6
+1.2.1 Komplexné nákupné správanie
+Tento typ sa často nazýva aj rozsiahly a v anglickom jazyku ho poznáme ako complex
+buying behavior. Zákazník zohráva významnú rolu v nákupnom procese a pred kúpou
+podniká dôkladné výskumy, poháňaný vysokým stupňom ekonomického alebo
+psychologického rizika. Príklady tohto nákupného správania zahŕňajú získavanie
+vysokohodnotných položiek alebo služieb, ako sú obydlie, automobil, vzdelávací program a
+podobné výdavky.7
+1.2.2 Nákupné správanie s cieľom odstránenia disonancie
+Podobne ako v prípade komplexného nákupného správania, i tento typ predpokladá
+veľkú angažovanosť v nákupnom procese kvôli vysokým nákladom alebo kvôli faktu, že
+
+4
+
+SCIENCE DIRECT. Setting the future of digital and social media marketing research: Perspectives
+and
+research
+propositions
+[online].
+Volume
+59,
+01.08.2021.
+Dostupné
+na:
+<https://www.sciencedirect.com/science/article/pii/S0268401220308082/>.
+5
+LUENENDONK, M. 4 Types Of Consumer Buying Behavior & How to Leverage Them [online].
+Founderjar. Dostupné na: < https://www.founderjar.com/types-of-consumer-buying-behavior/>.
+6
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+7
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+
+13
+
+daný typ produktu nekupujú často. Ako už slovo dizonancia naznačuje, spotrebitelia majú
+problém s výberom značky a majú obavy z možného následného oľutovania kúpy resp.
+svojho rozhodnutia. V anglickom jazyku je tento typ nákupného právania známy ako
+dissonance-reducing buying behavior8
+Spotrebitelia, ktorých správanie spadá do tejto kategórie zvyčajne robia nákupné
+rozhodnutia bez robenia si (väčšieho) prieskumu a sú častokrát ovplyvňovaní faktormi ako
+sú pohodlie alebo rozpočtové obmedzenia. Príkladom takéhoto nákupného správania,
+príznačného snahou o zmiernenie disonancie, môže byť napríklad kúpa vaflovacieho
+prístroja. V takejto situácií spotrebiteľ nezvykne venovať veľkú pozornosť resp. uvažovať
+nad konkrétnym modelom, ale radšej si vyberie z niekoľkých dostupných značiek.9
+1.2.3 Nakupovanie zo zvyku
+Tretí z typov spotrebiteľského nákupného správania je charakterizovaný nízkym
+zainteresovaním pri rozhodovaní o nákupe. Spotrebiteľ nevidí významné rozdiely medzi
+značkami a kupuje produkty, na ktoré už je dlhodobo zvyknutý. V anglickom jazyku sa
+s týmto typom právania stretávame pod názvom habitual buying behavior. Jedným
+z príkladov takéhoto nákupného správania „zo zvyku“ je nákup každodenných produktov
+napríklad v potravinách.10
+V každodennom živote sa tendencia k jednaniu podľa návykov zosilňuje
+každodennými nárokmi, vrátane časového tlaku. Návyky sú špecifickou formou
+automatickosti, pri ktorej sú reakcie priamo stimulované kontextami (napr. miestami,
+predchádzajúcimi akciami), ktoré súviseli s minulým správaním.11
+1.2.4 Správanie hľadania rozmanitosti
+V bežnom živote, keď sú spotrebitelia konfrontovaní s množstvom možností
+produktov, často prejavujú správanie hľadania rozmanitosti. V anglickom jazyku sa s týmto
+stretávame pod názvom variety-seeking buying behavior. Nevyberajú len svoje obľúbené
+produkty, ale skúmajú aj možnosti v rôznych kategóriách. Aby podniky uspokojili potreby
+
+8
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+9
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+10
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+11
+WOOD, W., NEAL, D. The habitual consumer [online]. ResearchGate, November 2009. Dostupné
+na: <https://www.researchgate.net/publication/228742060_The_habitual_consumer/>.
+
+14
+
+spotrebiteľov a zvýšili ich spokojnosť, musia sa snažiť o presnú segmentáciu trhu. Firmy
+chcú, aby ľudia boli spokojní, tak sa snažia rozdeliť trh na skupiny a ponúknuť im produkty,
+ktoré im najlepšie vyhovujú. Toto hľadanie rozmanitosti pomáha firmám zvyšovať predaje,
+zlepšovať tržný podiel a lepšie plánovať, ako prezentovať svoje produkty.12
+Správanie hľadania rozmanitosti pri konzumácii zahŕňa jednotlivcov, ktorí prechádzajú
+medzi produktmi, kategóriami alebo značkami, aby sa vyhli klesajúcej spokojnosti spojenej
+s opakovanými nákupmi alebo konzumáciou tých istých položiek. S časom ľudia majú
+tendenciu striedať medzi možnosťami alebo vyberať rôzne alternatívy v danom súbore
+možností. Toto správanie sa rozširuje aj do oblasti marketingu, kde spotrebitelia prechádzajú
+medzi rôznymi marketingovými aktivitami a službami. Predchádzajúce výskumy naznačujú,
+že spotrebitelia dávajú prednosť nákupu rôznorodého sortimentu produktov, aj keď majú
+možnosť opakovane kupovať svoje obľúbené položky z konkrétnej ponuky. Opakovanie
+nákupov alebo konzumácie znižuje hraničnú úžitkovosť produktov, čo vedie k poklesu
+atraktivity produktu a vyvoláva pocit nudy u spotrebiteľa. V dôsledku toho existujúce
+produkty môžu prestať napĺňať potrebu spotrebiteľov po stimulácii. Spotrebitelia preto
+aktívne hľadajú novinky, zmeny a rozmanitosť tým, že skúmajú produkty s rôznymi
+atribútmi, aby dosiahli pocit sýtosti. Tento sklon zdôrazňuje prevalenciu správania hľadania
+rozmanitosti v rozhodovacom procese spotrebiteľov pri nákupe produktov a poukazuje na
+jeho status ako bežnej stratégie výberu.13
+
+1.3 Faktory ovplyvňujúce spotrebiteľské správanie
+Pochopenie typu spotrebiteľa, na ktorého sa konkrétne podnikanie zameriava, je
+kľúčové pre pochopenie ich nákupných návykov. Pre podnik je kľúčové vedieť, či
+spotrebitelia, ktorých sa snažia osloviť nakupujú často alebo len občasne, prípadne či si kúpu
+zvyknú dôkladne premyslieť alebo sú skôr impulzívni. Čím lepšie rozumie podnik
+motiváciám za nákupnými rozhodnutiami svojich zákazníkov, tým efektívnejšie sa s nimi
+môže emocionálne spojiť, či už prostredníctvom webovej stránky alebo kamenného
+obchodu. Okrem toho emocionálne prepojení spotrebitelia často uprednostňujú faktory nad
+cenou pri rozhodovaní o nákupe. Títo verní zákazníci sú ochotní investovať viac do ich
+
+12
+
+ZHANG, Y. Variety-Seeking Behavior in Consumption: A Literature Review and Future Research
+Directions [online]. Frontiers, 06.06.2022. Dostupné na: <https://www.frontiersin.org/articles/10.3389/fpsyg.
+2022.874444/full/>.
+13
+ZHANG, Y. Variety-Seeking Behavior in Consumption: A Literature Review and Future Research
+Directions [online]. Frontiers, 06.06.2022. Dostupné na: <https://www.frontiersin.org/articles/10.3389/fpsyg.
+2022.874444/full/>.
+
+15
+
+produktu a často sa stávajú obhajcami, odporúčajúc ich biznis svojim priateľom a rodine. Je
+cenné pochopiť, aké faktory ovplyvňujú rozhodovací proces ich cieľového zákazníka, čo im
+umožní využiť túto znalosť na zvýšenie ich ziskovosti.14
+Evidujeme štyri kľúčové faktory - kultúrne, sociálne, osobné a psychologické – ktoré
+formujú spotrebiteľské správanie. Tieto faktory zohrávajú rozhodujúcu úlohu pri
+rozhodovaní, či si cieľový zákazník danej firmy vyberie alebo nevyberie jej produkt.15
+1.3.1 Kultúrne a sociálne faktory:
+Popularita produktu môže byť výrazne ovplyvnená kultúrnymi a sociálnymi faktormi.
+Firma by mala brať do úvahy významný dopad, ktorý môže mať kultúra a verejný názor na
+predaje v odvetví. Je nevyhnutné byť si vedomý týchto kultúrnych a sociálnych faktorov pri
+vytváraní marketingových stratégií. Cieľom je osloviť čo najširšiu zákaznícku základňu a
+zároveň sa vyhnúť akýmkoľvek akciám alebo správam, ktoré by mohli potenciálne uraziť
+jednotlivcov.16
+
+1.3.2 Psychologické faktory ovplyvňujúce spotrebiteľské správanie
+Rozlišujeme štyri psychologické faktory, ktoré ovplyvňujú spotrebiteľské správanie.
+Motivácia, vnímanie, učenie a postoje alebo systémy presvedčení. Motivácia sa venuje
+vnútorným potrebám spotrebiteľov, a preto je kľúčové pochopiť, ako ich efektívne
+motivovať. Spôsob, akým cieľový zákazník vníma svet alebo sa dozvedá o produkte, či už
+online alebo osobne, môže výrazne ovplyvniť ich správanie. Navyše, systémy presvedčení
+majú potenciál ovplyvniť všetky vyššie uvedené faktory. Napríklad ľudia, ktorí sa učia
+najlepšie vizuálne, zdôrazňujú dôležitosť začleňovania obrázkov a obrazov do marketingu.17
+Spotrebitelia každodenne robia rozhodnutia o nákupe, poháňaní túžbou uspokojiť
+potrebu. Táto potreba môže byť ovplyvnená rôznymi faktormi, a každý uvedený
+14
+
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors [online].
+QuickBooks Blog, 07.05.2018. Dostupné na: <https://quickbooks.intuit.com/ca/resources/marketing/fourfactors-consumer-behaviormarketing/>.
+15
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors [online].
+QuickBooks Blog, 07.05.2018. Dostupné na: <https://quickbooks.intuit.com/ca/resources/marketing/fourfactors-consumer-behaviormarketing/>.
+16
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors [online].
+QuickBooks Blog, 07.05.2018. Dostupné na: <https://quickbooks.intuit.com/ca/resources/marketing/fourfactors-consumer-behaviormarketing/>.
+17
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors [online].
+QuickBooks Blog, 07.05.2018. Dostupné na: <https://quickbooks.intuit.com/ca/resources/marketing/fourfactors-consumer-behaviormarketing/>.
+
+16
+
+psychologický faktor môže byť spojený so stratégiami, ktoré malé podniky môžu využiť na
+svojej predajni alebo webovej stránke, aby zvýšili pravdepodobnosť predaja. Je nevyhnutné
+mať tieto faktory na mysli pri tvorbe marketingových materiálov. Následne si k nim povieme
+niečo viac.18
+1. Motivácia
+Motivácia zahŕňa aktiváciu interných potrieb a túžob spotrebiteľov, zahŕňajúc
+psychologické, bezpečnostné, sociálne a sebarealizačné potreby a potrebu sebaúcty. Tlačí
+jednotlivcov smerom k určitým cieľom a podmienkam, ovplyvňujúc ich správanie.19
+2. Percepcia
+Percepcia je naopak proces vnímania a interpretácie sveta a situácií, pričom každý
+človek má unikátnu perspektívu. Individuálne rozdiely v schopnosti posudzovania
+prispievajú k rôznym vnímaniam, ovplyvňujúcim rozhodovacie schopnosti.20
+3. Učenie
+Učenie a skúsenosť hrajú kľúčovú rolu v správaní spotrebiteľov. Učenie zahŕňa
+skúmanie produktov a služieb najmä pred ich zaobstaraním, pričom je často realizované
+online alebo v skupinách, zatiaľ čo skúsenosť je odvodená z minulých interakcií s produktmi
+a službami. Oba aspekty výrazne ovplyvňujú rozhodnutia spotrebiteľov.21
+4. Systém postojov/presvedčení
+Postoje predstavujú emocionálne stavy a tendencie spotrebiteľov k určitým akciám,
+zahŕňajúc priaznivé aj nepriaznivé pocity. Presvedčenia sú spojené s predstavami o
+špecifikáciách produktov. Porozumenie postojom a presvedčeniam je kľúčové pre
+pochopenie a štúdium ľudského správania v súvislosti s výbermi spotrebiteľov.22
+
+18
+
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors [online].
+QuickBooks Blog, 07.05.2018. Dostupné na: <https://quickbooks.intuit.com/ca/resources/marketing/fourfactors-consumer-behaviormarketing/>.
+19
+SHETHNA, J., THAKUR, M. Consumer Behavior [online]. EDUCBA, 27.04.2023. Dostupné na:
+<https://www.educba.com/4-factors-influencing-consumer-behaviour/>.
+20
+SHETHNA, J., THAKUR, M. Consumer Behavior [online]. EDUCBA, 27.04.2023. Dostupné na:
+<https://www.educba.com/4-factors-influencing-consumer-behaviour/>.
+21
+SHETHNA, J., THAKUR, M. Consumer Behavior [online]. EDUCBA, 27.04.2023. Dostupné na:
+<https://www.educba.com/4-factors-influencing-consumer-behaviour/>.
+22
+SHETHNA, J., THAKUR, M. Consumer Behavior [online]. EDUCBA, 27.04.2023. Dostupné na:
+<https://www.educba.com/4-factors-influencing-consumer-behaviour/>.
+
+17
+
+1.4 Dôležitosť odstraňovania bariér u spotrebiteľov
+V súvislosti s motiváciou je dôležité mať na pamäti jednu z častých chýb v marketing
+a tou je nedostatočný fokus firiem na bariéry spotrebiteľov. Spoločnosti sa často sústreďujú
+na motiváciu spotrebiteľov k nákupu, ale nevenujú veľa pozornosti odstráneniu prekážok,
+ktoré im bránia správať sa tak, ako si spoločnosť želá. Inými slovami, dôvody, prečo
+spotrebitelia nerobia to, čo od nich firmy očakávajú, sú otázkou, ktorú by si tieto firmy mali
+klásť ešte predtým, než začnú uvažovať o tom, ako ich môžu motivovať.23
+Odstraňovanie bariér rovnako, ak nie dôležitejšie, ako motivácia pri formovaní
+spotrebiteľského správania. Keďže motivácia môže viesť k záujmu o produkt alebo službu,
+samotné bariéry môžu byť rozhodujúcim faktorom, ktorý bráni realizácii nákupu. Značky,
+ktoré sa sústredia na elimináciu bariér, ako je zjednodušenie procesu objednávania, zlepšenie
+dostupnosti informácií alebo riešenie obáv ohľadom produktov, často dosahujú vyššiu
+konverziu a spokojnosť zákazníkov.24
+Existuje vysoké riziko pre značky, ktoré zanedbávajú odstraňovanie bariér.
+Spotrebitelia môžu byť odrádzaní nejasnosťami v reklamách, neefektívnym servisom
+zákazníkom alebo nedostatočnými informáciami o produktoch. Tieto faktory môžu viesť k
+strate dôvery a následne k negatívnym skúsenostiam so značkou. Preto je nevyhnutné, aby
+firmy systematicky identifikovali a riešili bariéry, ktoré môžu brániť spotrebiteľom v plnení
+očakávaní značky.25
+Efektívne
+
+odstraňovanie
+
+bariér
+
+vyžaduje
+
+značnú
+
+analýzu
+
+a
+
+pochopenie
+
+spotrebiteľského správania. Značky môžu implementovať stratégie ako personalizovaný
+prístup k zákazníkom, poskytovanie jasnejších informácií o produktoch a službách alebo
+vylepšenie technologických platforiem na zjednodušenie procesu nákupu. Tieto opatrenia
+nie len znižujú bariéry, ale aj posilňujú pozitívne vnímanie značky zo strany spotrebiteľov.26
+
+23
+WILLCOX, M. How To Understand What’s Stopping Customers From Doing What You Want Them
+To Do [online]. InsideBE. Dostupné na: <https://insidebe.com/articles/understand-your-customers-barriers/>.
+24
+WILLCOX, M. How To Understand What’s Stopping Customers From Doing What You Want Them
+To Do [online]. InsideBE. Dostupné na: <https://insidebe.com/articles/understand-your-customers-barriers/>.
+25
+WILLCOX, M. How To Understand What’s Stopping Customers From Doing What You Want Them
+To Do [online]. InsideBE. Dostupné na: <https://insidebe.com/articles/understand-your-customers-barriers/>.
+26
+WILLCOX, M. How To Understand What’s Stopping Customers From Doing What You Want Them
+To Do [online]. InsideBE. Dostupné na: <https://insidebe.com/articles/understand-your-customers-barriers/>.
+
+18
+
+1.5 Vplyv temperamentu na nákupné rozhodnutia spotrebiteľov
+Každý človek je iný a okrem iného nás odlišuje charakter, postoje, a pohľad na svet.
+Na základe charakterových čŕt, ktoré u nás prevládajú však radíme do jedného zo štyroch
+základných typov temperamentu, ktorými sú sangvinik, flegmatik, cholerik a melancholik.
+V sfére biznisu môžu byť poznatky o temperamentoch užitočné pre lepšie porozumenie
+spotrebiteľom, a preto si v nasledujúcich riadkoch si povieme niečo o jednotlivých typoch
+temperamentu a ich nákupnom správaní.27
+Obrázok 1 Typy temperamentu
+
+Zdroj: SUCHOMELOVÁ, E. Vůně Podle Temperamentu: Vyberte Si Správně! [online]. Teta Drogerie,
+15. 10. 2019. Dostupné na: <https://fourtemperaments.com/4-primary-temperaments/>.
+
+1.5.1 Sangvinik
+Medzi typické črty sangvinika patrí jeho optimizmus, veselosť a pozitívny pohľad na
+svet. Radia sa medzi ľudí, ktorí ako prví skúšajú novinky na trhu, jazdia v najmodernejšom
+aute a sledujú najnovšiu módu. Obchodníkom, ktorí by chceli upútať tento typ človeka, sa
+teda odporúča používať v súvislosti s produktom výrazy ako najmodernejší, nedávno
+uvedený na trh, prípadne nepoužitý.28
+
+LEKOVSKÁ, A. Typy temperamentov [online]. Psychoblog, 17.03.2023. Dostupné na:
+<https://psychoblog.sk/typy-temperamentov/>.
+28
+ERIKSON, T. Obklopený idiotmi. Bardejov: Motýľ, 2019, s. 45. ISBN 978-8-08-164187-9
+27
+
+19
+
+Sangvinici predstavujú klientelu charakterizovanú vysokou vitalitou a obchodníkom sa
+pri jednaní s nimi odporúča zdieľať ich entuziazmus a udržovať s nimi istú mieru
+angažovanosti aj po uskutočnení predaja, nakoľko sangvinici venujú vysokú hodnotu
+vzťahom.29
+1.5.2 Flegmatik
+Typickými charakteristikami flegmatika sú pohodovosť, pokojnosť, priateľskosť, no
+i pomalosť. Tento typ ľudí je známy predovšetkým svojím odporom k zmenám a novým
+nepoznaným veciam.30 Z toho vyplýva, že by u ňho mohol prevažovať habitual-buying
+behavior. Je to typ, ktorý potrebuje cítiť stabilitu, a ktorému trvá veľmi dlho učiniť
+rozhodnutie.31 Niektorí marketéri považujú tento typ ľudí za tých, ktorých je ľahké
+presvedčiť ku kúpe, pretože majú problém povedať nie, avšak súčasne netreba zabúdať na
+fakt, že flegmatici sa častokrát prv spoliehajú na názor a schválenie ostatných. 32
+Podobne ako u sangvinikov, aj tu je dôležité, aby obchodníci venovali pozornosť
+udržiavaniu stabilného vzťahu a dlhodobej interakcii s klientom. Flegmatici tiež
+uprednostňujú pevné väzby a vzťahy, čo zvyšuje pravdepodobnosť, že budú vnímať vyššiu
+úroveň dôvery a menej pravdepodobne sa obrátia na konkurenciu. Súčasne sa odporúča pri
+jednaní s flegmatickým zákazníkom na neho priamo netlačiť, iba mu prezentovať možnosti,
+prípadne s ním zdieľať predošlé príbehy iných spokojných zákazníkov firmy. Flegmatici sú
+známi svojou averziou k riziku a práve zistenie, že daný produkt spĺňa svoj účel podľa
+očakávaní a boli s ním spokojní ďalší spotrebitelia, vie byť pre flegmatikov kľúčové v ich
+procese nákupného rozhodovania.33
+1.5.3 Cholerik
+Cholerikov spoločnosť považuje za odvážnych, ambicióznych, odhodlaných
+a dynamických, no súčasne aj za impulzívnych, dominantných a výbušných. Na rozdiel od
+flegmatikov, cholerici sa rozhodujú rýchlo a efektívne. Cholerici pôsobia sebavedomo
+
+ERIKSON, T. Obklopený idiotmi. Bardejov: Motýľ, 2019, s. 153. ISBN 978-8-08-164187-9
+ERIKSON, T. Obklopený idiotmi. Bardejov: Motýľ, 2019, s. 55. ISBN 978-8-08-164187-9
+31
+WOLF, T. How to Convert more Customers Using 4 Basic Personality Types [online]. Conversioner,
+Dostupné na: <https://www.conversioner.com/blog/convert-more-customers-using-the-4-basic-personalities/
+>.
+32
+LASKEY, M. Human Temperaments: Why Every Marketer Needs to Know About Them [online].
+LinkedIn, 10.03.2017. Dostupné na: <https://www.linkedin.com/pulse/human-temperaments-why-everymarketer-needs-know-them-morgan-laskey/>.
+33
+WIZARD OF SALES. The 4 Humors Of Buyers (And How To Sell To Each) [online]. The Wizard of
+Sales, 12.07.2022, Dostupné na: <https://sellingrevolution.com/blog/the-4-humors-of-buyers-and-how-to-sellto-each/>.
+29
+30
+
+20
+
+a rovnako pôsobí aj ich reč tela. Taktiež sa častokrát vyjadrujú v deklaratívnych vetách, t.j.
+napríklad namiesto otázky „Aké služby v oblasti X ponúkate?“ povedia „Mal by som záujem
+o službu Y“.34
+Pri jednaní so zákazníkom, ktorý prejavuje známky cholerika sa odporúča priamy
+a profesionálny prístup. Súčasne treba myslieť na to, že kupujúci sú orientovaní na ciele,
+chcú vedieť aké výhody im plynú z voľby daného riešenia oproti iným. Obchodník by im
+mal teda vysvetliť ako ním poskytované služby resp. produkt pomáha napĺňať požadovaný
+cieľ spotrebiteľa. Kupujúci tohto typu dobre reagujú na humor, pretože pomáha rozptýliť
+napätie a odľahčuje situáciu od stresu. Ak obchodník dokáže vyčariť úsmev na tvári
+kupujúceho, ktorým je cholerik, ten bude pravdepodobne ochotnejší počúvať jeho výklad a
+zvážiť daný produkt alebo službu.35
+1.5.4 Melancholik
+Melancholici sú okrem svojho pesimizmu charakteristickí neustálym analyzovaním,
+klasifikovaním, posudzovaním a vyhodnocovaním. Majú radi vo veciach systém
+a prirodzene inklinujú k dátam, faktom a číslam. (65) Zároveň obľubujú ustálené rutiny a
+tradície, a všetko, čo sa odchýli od ich „normy“, môže pre nich pôsobiť nepríjemne cudzo.
+36
+
+Melancholici taktiež preferujú fakty pred osobnými vzťahmi. Je to vidieť aj v ich
+priamom a formálnom tóne, ktorým komunikujú. Ich otázky ako spotrebiteľov bývajú
+faktické, detailné a sú zamerané na výhody alebo funkcie produktu. Títo kupujúci zvyčajne
+komunikujú s viacerými predávajúcimi, aby urobili dôkladné rozhodnutie u koho si daný
+produkt zaobstarajú. Obchodníkom sa teda pri jednaní s melancholikmi odporúča
+predpokladať, že už sú oboznámení so základnými parametrami produktu, o ktorý javia
+záujem a byť pripravený fakticky zodpovedať ich prípadné komplexnejšie otázky.37
+
+34
+
+WIZARD OF SALES. The 4 Humors Of Buyers (And How To Sell To Each) [online]. The Wizard of
+Sales, 12.07.2022, Dostupné na: <https://sellingrevolution.com/blog/the-4-humors-of-buyers-and-how-to-sellto-each/>.
+35
+WIZARD OF SALES. The 4 Humors Of Buyers (And How To Sell To Each) [online]. The Wizard of
+Sales, 12.07.2022, Dostupné na: <https://sellingrevolution.com/blog/the-4-humors-of-buyers-and-how-to-sellto-each/>.
+36
+LASKEY, M. Human Temperaments: Why Every Marketer Needs to Know About Them [online].
+LinkedIn, 10.03.2017. Dostupné na: <https://www.linkedin.com/pulse/human-temperaments-why-everymarketer-needs-know-them-morgan-laskey/>.
+37
+WIZARD OF SALES. The 4 Humors Of Buyers (And How To Sell To Each) [online]. The Wizard of
+Sales, 12.07.2022, Dostupné na: <https://sellingrevolution.com/blog/the-4-humors-of-buyers-and-how-to-sellto-each/>.
+
+21
+
+Behaviorálna ekonómia spolu s psychológiou rozoznávajú niekoľko ďalších
+psychologických faktorov a princípov, medzi ktoré patria aj princípy opísané americkým
+psychológom Robertom Cialdinim, ktorými sú sociálne schválenie alebo sociálny dôkaz
+správnosti, autorita, obľúbenosť, vzácnosť, záväzok a dôslednosť a reciprocita.38 Teraz si
+k nim a k ich vplyve na spotrebiteľské správanie povieme niečo viac v jednotlivých
+podkapitolách.
+
+1.6 Sociálny dôkaz správnosti
+V prípade princípu sociálneho dôkazu správnosti sa jedná o to, že spotrebitelia, najmä
+tí nerozhodní, majú v istých prípadoch tendenciu sa pri nakupovaní inšpirovať správaním
+ľudí, ktorí sú im podobní, či ich správanie priam až napodobňovať. 39
+Títo ľudia sa riadia rozhodnutiami majority, pretože veria, že ostatní sa museli
+rozhodnúť správne a majú ich nasledovať.40 Náchylní k tomuto správaniu sú najmä
+flegmatici, pretože, ako je vyššie v práci uvedené, sa, na rozdiel od iných typov osobnosti,
+veľmi ťažko rozhodujú.41
+Príkladom sociálneho dôkazu správnosti aplikovanom v online prostredí môže byť
+kategória „Najpredávanejšie“, ktorú môžeme vidieť na webovej stránke značky Zara.
+Očakáva sa, že niektorí spotrebitelia budú predpokladať, že v danej kategórií sa musí
+nachádzať ten najlepší tovar, nakoľko je najžiadanejší a najkupovanejší, a teda „schválený“
+väčšinou ľudí.42
+
+38
+
+CIALDINI, B. R. Influence: The Power of Persuasion. New York: HarperCollins Publishers, 2007, s.
+9. ISBN 978-0-06-124189-5
+39
+ŠUCHA, M. Spotrebiteľské správanie [online]. Digitálna Univerzita, 2021. Dostupné na: <
+https://www.digitalnystudent.sk/student/lekcia/12/>.
+40
+MORAVSKÁ, S. Využitie psychológie v marketingu a v reklamách [online]. Univerzita Komenského
+v Bratislave, 2022. Dostupné na:
+<https://opac.crzp.sk/?fn=docview2ChildW1QKIM&record=72A4E145D65F5DA0BE473E0B29C0&
+seo=CRZP-Prehliadanie-pr%C3%A1c
+41
+LASKEY, M. Human Temperaments: Why Every Marketer Needs to Know About Them [online].
+LinkedIn, 10.03.2017. Dostupné na: <https://www.linkedin.com/pulse/human-temperaments-why-everymarketer-needs-know-them-morgan-laskey/>.
+42
+
+SCOTCH & SODA. Dostupné na: <https://www.scotch-soda.eu/pt-en/sale-most-wanted-men />.
+
+22
+
+Obrázok 2 Kategória „Najpredávanejšie“
+
+Zdroj: ZARA. Dostupné na: <https://www.zara.com/sk/sk/woman-must-have-l4108.html?v1=2352612/>.
+
+Inou ukážkou toho, ako tento princíp vie ovplyvniť spotrebiteľské správanie sú
+recenzie. Ľudia sú viac naklonení veriť produktom, ktoré majú pozitívne recenzie nad tými,
+ktoré ich nemajú, či dokonca majú recenzie negatívne. 43
+Jednou zo spoločností, ktorá si uvedomuje dôležitosť pozitívnej spätnej väzby zo strany
+svojich zákazníkov vo forme recenzií je spoločnosť sprostredkujúca prenájom ubytovania,
+Airbnb. Recenzie jej klientov poskytujú cenné a komplexné informácie o rôznych aspektoch
+ako napríklad o čistote, pohostinnosti a celkovom zážitku poskytovanom hostiteľom,
+pomáhajúc potenciálnym hosťom pri informovanom rozhodovaní. Airbnb transparentne
+ukazuje tieto recenzie od používateľov na svojej platforme, čím buduje dôveru so svojou
+užívateľskou základňou. Zatiaľ čo mať hodnotenia od používateľov je dôležité, množstvo aj
+kvalita týchto hodnotení hrajú rozhodujúcu úlohu pri budovaní dôvery. Airbnb si uvedomilo
+túto skutočnosť a motivuje hostiteľov, aby povzbudzovali hosťov k písaniu hodnotení po ich
+
+43
+
+FASTER CAPITAL. Social Proof in Action: Real Life Case Studies that Persuade [online].
+FasterCapital, 22.12.2023. Dostupné na: <https://fastercapital.com/content/Social-Proof-in-Action--Real-LifeCase-Studies-that-Persuade.html#How-Airbnb-Leveraged-User-Reviews-to-Build-Trust-/>.
+
+23
+
+pobyte. Táto stratégia pomohla Airbnb získať obrovské množstvo hodnotení, čo ďalej
+posilnilo dôveryhodnosť platformy.44
+
+1.7 Vplyv autority
+Nasledujúci psychologický fenomén, zvaný autorita, spočíva v sklone ľudí dôverovať
+a podriaďovať sa ľuďom vo vyšších postaveniach a odborníkom v daných sférach. Ľudia
+majú sklon veriť v kvalitu produktov, ktoré sú propagované odborníkmi. Môže sa jednať
+napríklad o doktorov, advokátov či politikov. 45
+Jednou z firiem, ktorá vo svojom marketingu uplatňuje tento princíp je firma L’Óreal
+Group, konkrétne pri produktoch značky CeraVe.46
+CeraVe uvádza, že je najčastejšie odporúčanou značkou dermatológov a jej produkty
+sa spomínajú v rozhovoroch s vedúcimi odborníkmi v oblasti starostlivosti o pleť. Jednou
+z dermatologičiek, ktorá danú značku odporúča i sama používa je dermatologička Sejah
+Shah z kliniky SmarterSkin Dermatology v New Yorku.47
+Ďalšou značkou, ktorej marketingová kampaň využíva Cialdiniho princíp autority je
+značka Sensodyne či rovnako značka Colgate. Obe z uvedených sú celosvetovo známymi
+značkami v oblasti ústnej hygieny a starostlivosti a i napriek možnej odlišnej cieľovej
+skupine zákazníkov firiem Haleon a Colgate-Palmolive, ktoré majú dané značky vo
+vlastníctve, evidujeme využitie princípu autority podobným spôsobom.48
+V reklame značky Colgate zaznievajú slová „number one recommended by dental
+professionals“, ktoré v preklade znamenajú, že sa podľa reklamy jedná o zubnými
+lekármi najodporúčanejšiu zubnú pastu. Na druhej strane, značka Sensodyne vystupuje na
+svojej oficiálnej stránke ako „No.1 dentist recommended toothpaste for sensitive teeth—9
+out of 10 dentists recommend it for patients with sensitive teeth“, čím v preklade majú na
+44
+FASTER CAPITAL. Social Proof in Action: Real Life Case Studies that Persuade [online].
+FasterCapital, 22.12.2023. Dostupné na: <https://fastercapital.com/content/Social-Proof-in-Action--Real-LifeCase-Studies-that-Persuade.html#How-Airbnb-Leveraged-User-Reviews-to-Build-Trust-/>.
+45
+MORAVSKÁ, S. Využitie psychológie v marketingu a v reklamách [online]. Univerzita Komenského
+v Bratislave, 2022. Dostupné na:
+<https://opac.crzp.sk/?fn=docview2ChildW1QKIM&record=72A4E145D65F5DA0BE473E0B29C0&
+seo=CRZP-Prehliadanie-pr%C3%A1c
+46
+STESSMAN, E. Yes, dermatologists really do recommend CeraVe — here are their top picks from
+the brand [online]. TODAY, 15.05.2023. Dostupné na: <https://www.today.com/shop/best-cerave-productst286148/>.
+47
+STESSMAN, E. Yes, dermatologists really do recommend CeraVe — here are their top picks from
+the brand [online]. TODAY, 15.05.2023. Dostupné na: <https://www.today.com/shop/best-cerave-productst286148/>.
+48
+COLGATE. Colgate Dentist DRTV [online]. CrotonPublishing, 20.10.2009. Dostupné na:
+<https://www.youtube.com/watch?v=8ULR68LTmbw/>.
+
+24
+
+mysli, že sa jedná o zubnými lekármi najodporúčanejšiu zubnú pastu pre pacientov s
+citlivými zubami, pričom ju údajne odporúča 9 z 10 spomínaných zubných lekárov.49
+
+1.8 Obľúbenosť
+Okrem odborníkov, CeraVe navyše zapojila do svojho marketingu aj celebrity ako
+Blake
+
+Lively
+
+a Oliviu
+
+Wilde,
+
+ktoré
+
+ručia
+
+za
+
+produkty
+
+tejto
+
+značky.
+
+Koncept zapojenia celebrít, známy v anglickom jazyku pod názvom celebrity branding,
+prípadne celebrity endorsement, využíva známe osobnosti na propagáciu produktov a
+služieb. Firma túto stratégiu volí na pritiahnutie pozornosti a formovanie pozitívneho
+vnímania značky prostredníctvom asociácie s danou celebritou.50
+Ďalší príklad využitia zapojenia celebrít do propagácii produktu sa týka spolupráce
+firmy L'Oréal s herečkou Evou Longoriou. Eva Longoria osobne používa farbu na vlasy
+Excellence od L'Oréal a natočila video, v ktorom zdieľa svoje skúsenosti s touto farbou.51
+Spotrebitelia, na základe zhliadnutého videa a princípu obľúbenosti, majú sklon veriť,
+že daný produkt, v tomto prípade farba na vlasy, musí byť kvalitná, keďže ju používa
+samotná uznávaná herečka a modelka. Súčasne zapojenie celebrity môže v niektorých
+spotrebiteľoch, najmä fanúšikoch danej herečky, vyvolať túžbu sa jej priblížiť či podobať,
+a teda kúpiť si rovnaký produkt. Kampaň s herečkou celkovo vie formovať v spotrebiteľoch
+pozitívnejšie vnímanie značky.52
+Psychologický princíp obľúbenosti súvisí s už spomenutým konceptom zapojenia
+celebrít. Ide o skutočnosť, že ľudia sú viac naklonení k nákupu od osôb, ku ktorým buď
+vzhliadajú, či sú im blízke a podobné, či už hodnotovo alebo inak. 53
+Samostatnou kategóriou konceptu zapojenia celebrít je tzv. „influencer marketing“.
+Tzv. „influenceri“, z anglického slova „influence“ predstavujú osoby, tvoriace obsah
+na sociálnych sieťach, pomocou ktoých dokázali zaujať a prilákať publikum, s ktorým
+
+SENSODYNE. Why Sensodyne? [online]. Haleon, 27.06.2024. Dostupne na:
+<https://www.sensodyne.com/en-us/about-sensodyne/>.
+50
+LANE, T. Blake Lively & Olivia Wilde Swear By CeraVe, Here Are 5 Products Worth Adding to Your
+Skincare Routine [online]. Yahoo Finance, 23.02.2023. Dostupné na: <http://tinyurl.com/ysek7yxa/>.
+51
+TARDINE, A. Best of 2020 No. 30: Eva Longoria Dyes Her Graying Roots at Home for L'oreal
+[online]. AdAge, 04.05.2020. Dostupné na: <https://adage.com/creativity/work/best-2020-no-30-evalongoria-dyes-her-graying-roots-home-loreal/2254376/>.
+52
+TARDINE, A. Best of 2020 No. 30: Eva Longoria Dyes Her Graying Roots at Home for L'oreal
+[online]. AdAge, 04.05.2020. Dostupné na: <https://adage.com/creativity/work/best-2020-no-30-evalongoria-dyes-her-graying-roots-home-loreal/2254376/>.
+53
+CIALDINI, B. R. Influence: The Power of Persuasion. New York: HarperCollins Publishers, 2007, s.
+169. ISBN 978-0-06-124189-5
+49
+
+25
+
+zdieľajú spoločné záujmy či zážitky. Majú pre marketérov veľkú hodnotu, pretože vzťah
+medzi „influencerom“ a fanúšikom je bližší a osobnejší ako vzťah medzi značkou a
+klientom. Podobne ako celebritné osobnosti, aj tieto online osobnosti, známe predovšetkým
+vďaka sociálnym sieťam, sú schopné u svojich fanúšikov vytvoriť pozitívnu asociáciu
+medzi kvalitným produktom a svojím osobným imidžom. Online celebritu by si marketéri
+mali vyberať uvážlivo na propagáciu svojej značky, služby či produktu. Mali by pri výbere
+brať do úvahy aj jej minulosť, aby predišli vytvoreniu negatívnej asociácie u spotrebiteľa.54
+Pod pojmom „influencer marketing“ sa myslí spolupráca medzi populárnymi
+používateľmi sociálnych médií a značkami s cieľom propagovať produkty alebo služby
+značiek najmä u konkrétnej cieľovej skupiny. Ak spotrebiteľ uvidí nejaký produkt
+propagovaný online celebritou, ktorú sleduje, môže byť náchylnejší si tento produkt kúpiť,
+či mu venovať väčšiu pozornosť, keďže mu ho predstavuje človek, ktorého obdivuje alebo
+považuje za bližšieho ako napríklad bežného predajcu v kamennej predajni.55
+
+1.9 Vzácnosť a jej vplyv na nákupné správanie a FOMO
+Ďalšou z persuazívnych techník je technika zvaná vzácnosť. Jedná sa o techniku, pri
+ktorej sa produkty javia spotrebiteľom atraktívnejšie v prípade, že ich množstvo je
+obmedzené. Vo svete obchodu táto technika funguje na predpoklade, že ľudia začnú javiť
+väčší záujem o produkt či službu v prípade, že sa stane limitovaným/nou. Inými slovami, je
+pravdepodobnejšie, že si ako ľudia niečo kúpime, ak sme informovaní, že je to „posledný
+kus“ alebo špeciálna ponuka, ktorá čoskoro vyprší. Ľudí k rýchlemu jednaniu podnecuje
+strach zo zmeškania príležitosti, ktorý predstavuje ďalší koncept, úzko súvisiaci s princípom
+vzácnosti.56
+1.9.1 Strach z premeškania príležitosti
+Tento strach v zahraničnej literatúre vystupuje pod akronymom FOMO, ktorý
+zastupuje anglické slová „fear of missing out“, ktoré do slovenského jazyka prekladáme ako
+„strach z premeškania“ . Jedná sa o nepríjemný pocit obáv, ktorý u spotrebiteľov spôsobuje
+domnienka, že ak rýchlo neučinia rozhodnutie o nákupe a nebudú konať, doplatia na to
+
+INVELITY. Kto je influencer a na čo slúži influencer marketing? [online]. Invelity, 09.06.2023.
+Dostupné na: <https://www.invelity.com/blog/kto-je-influencer-na-co-sluzi-influencer-marketing/>.
+55
+INVELITY. Kto je influencer a na čo slúži influencer marketing? [online]. Invelity, 09.06.2023.
+Dostupné na: <https://www.invelity.com/blog/kto-je-influencer-na-co-sluzi-influencer-marketing/>.
+56
+CIALDINI, B. R. Influence: The Power of Persuasion. New York: HarperCollins Publishers, 2007, s.
+179. ISBN 978-0-06-124189-5
+54
+
+26
+
+a o danú príležitosť nenávratne prídu. Z uvedenej situácie vedia ťažiť najmä predajcovia,
+ktorí FOMO vedia využiť na vytvorenie ešte intenzívnejšieho tlaku na spotrebiteľa.57
+Tento koncept využíva napríklad spoločnosť Mon Art, zameraná na predaj kabeliek,
+ktorá má na svojej webovej stránke vytvorenú vlastnú kategóriu s názvom „limitované
+edície“. Po jej rozkliknutí sa spotrebiteľov zobrazia viaceré kabelky a pri niektorých je
+i upozornenie o zostávajúcom poslednom kuse z danej edície. Na spotrebiteľov je teda
+nepriamo vyvíjaný nátlak, aby učinili svoje nákupné rozhodnutie promptne, ak nechcú
+riskovať, že o šancu o kúpu produktu prídu. 58
+
+1.10 Záväzok a dôslednosť
+Ďalším fenoménom je záväzok a dôslednosť. Pri tomto psychologickom jave majú
+spotrebitelia sklon ostať verní svojim existujúcim postojom a názorom, ktoré už boli
+v minulosti zaujaté a vyslovené a nemeniť ich. Ľudia vo všeobecnosti preferujú byť
+konzistentní s tým, čo už niekedy predtým povedali alebo urobili. Spomínaný sklon je
+čiastočne motivovaný obavami zo spoločenských reakcií, ktoré by mohli nastať v prípade
+zmien.59
+Záväzok a dôslednosť sú silné hybné sily, ktoré povzbudzujú zapojenie a presviedčajú
+používateľov, aby dosiahli svoje ciele. Návrhy, ktoré umožňujú používateľom urobiť
+nenáročný, nízko nákladový záväzok, budú pravdepodobne účinnejšie pri presviedčaní
+zákazníkov než tie, ktoré záväzok robia komplikovaným procesom. Nenáročným záväzkom
+môže byť napríklad stanovisko, sklony či vyhlásenie spotrebiteľa .60
+Táto manipulatívna technika silne stavia na myšlienke, že v prípade, že je to možné,
+ľudské mozgy volia mentálnu skratku a vyhnú sa tým ťažkosti výberu. Okrem spomínaných
+obáv z reakcií verejnosti na ich prípadnú zmenu názoru či stanoviska, ľudia taktiež majú radi
+jednoduchosť vo veciach. Ak teda niekto učiní jedno rozhodnutie v určitom okamihu, bude
+sa pravidelne držať rovnakého výberu znova a znova aj z dôvodu jednoduchosti.61
+
+57
+
+MEMON, M. 7 FOMO Marketing Ideas You Can Start Using Today For More Conversions [online].
+ConvertFlow, 17.12.2021. Dostupné na: <https://www.convertflow.com/blog/fomo-marketing-ideas/>.
+58
+MONOS, B. The psychology behind discounts and how it can benefit your business [online]. Fiverr
+blog, 22.08.2023. Dostupné na: <https://blog.fiverr.com/post/the-psychology-behind-discounts-and-how-itcan-benefit-your-business/>.
+59
+JAKUBÍK, O. Psychológia v marketingu [online]. Digitálna Univerzita, 2021. Dostupné na: <
+https://www.digitalnystudent.sk/student/lekcia/12/>.
+60
+FESSENDEN, N. The Principle of Commitment and Behavioral Consistency [online]. Nielsen
+Norman Group, 04.03.2018. Dostupné na: <https://www.nngroup.com/articles/commitment-consistency-ux/>.
+61
+ROBERTSON-ADAMS, G. 5 Commitment and Consistency Examples in Marketing [online].
+GROWSURF, 19.06.2021. Dostupné na: <https://growsurf.com/blog/commitment-consistency-principle/>.
+
+27
+
+Príklad implementácie zásady záväzku je prezentovaný brand konzultantom, Oliverom
+Jakubíkom, prostredníctvom platformy Digitálny študent. V rámci videa je analyzovaná
+modelová situácia, kde je spotrebiteľovi, ktorý prejavuje záujem o chudnutie, poskytnutá
+bezplatná diagnostika súčasného typu chudnutia. Záujemca sa jednoducho zaviaže
+vyplnením dotazníka a zodpovedaním niekoľkých otázok, vrátane informácií o svojom
+zamestnaní, očakávanej hmotnosti po absolvovaní kurzu a úrovni svojej motivácie
+dosiahnuť vzhľad podľa vlastných predstáv.62
+Zvláštnosťou tejto situácie je škálová otázka o motivácii záujemcu vyzerať podľa jeho
+predstáv. Ak záujemca označí možnosť "veľmi motivovaný" alebo "najviac motivovaný",
+nevedome sa zaviaže k neskoršiemu nákupu kurzu. V nasledujúcom kroku ponuky, kde je
+záujemcovi predložený personalizovaný cvičebný plán s cenou 40€, aj keď táto suma môže
+byť na prvý pohľad vysoká, pre jednotlivca označujúceho sa ako extrémne motivovaný, táto
+suma pôsobí ako relatívne nízka a môže byť preňho dodatočným stimulom ku kúpe kurzu.63
+
+1.11 Princíp reciprocity
+Princíp reciprocity spočíva v tom, že ľudia cítia povinnosť oplácať iným formu
+správania, daru alebo služby, ktorú sami dostali ako prví.64
+Reciprocita je silným psychologickým vplyvom, ovplyvňujúcim správanie ľudí.
+Nakoľko sa prirodzene automaticky aktivuje aj medzi neznámymi ľuďmi, je účinná
+a využívaná aj v prostredí marketingu.65
+Jedným z výhodných prospektov firiem je možnosť priblížiť sa k svojej cieľovej
+skupine a získať marketingové údaje, ktoré jej umožnia hlbšie pochopiť svojich zákazníkov
+a ich nákupné správanie. Marketingové kampane, využívajúce princíp reciprocity,
+vyvolávajú odpovede od súčasných a potenciálnych budúcich zákazníkov, Pomocou analýzy
+týchto údajov môže firma pochopiť správanie zákazníkov, to, čo im na jej značke najviac
+vyhovuje, a čo ich motivuje.66
+
+JAKUBÍK, O. Psychológia v marketingu [online]. Digitálna Univerzita, 2021. Dostupné na: <
+https://www.digitalnystudent.sk/student/lekcia/12/>.
+63
+JAKUBÍK, O. Psychológia v marketingu [online]. Digitálna Univerzita, 2021. Dostupné na: <
+https://www.digitalnystudent.sk/student/lekcia/12/>.
+64
+GÁLIK, S. Psychologie přesvědčování. Praha: Grada Publishing, a.s., 2012, s. 48. ISBN 978-80-2474247-2
+65
+USERPILOT. Reciprocity Marketing: How It Can Work Wonders for SaaS [online]. Userpilot blog,
+14.11.2022. Dostupné na: <https://userpilot.com/blog/reciprocity-marketing/>.
+66
+USERPILOT. Reciprocity Marketing: How It Can Work Wonders for SaaS [online]. Userpilot blog,
+14.12.2022. Dostupné na: <https://userpilot.com/blog/reciprocity-marketing/>.
+62
+
+28
+
+Spôsobov využitia stratégie reciprocity v marketingu je niekoľko, pričom jednými
+z nich sú napríklad bezplatné skúšobné verzie či možnosť otestovania a vyskúšania si
+produktu doma, ktorá je súčasne taktiež bezplatná.67
+Môžeme si predstaviť napríklad firmu, ktorá sa špecializuje
+
+na predaj
+
+vysokokvalitných produktov starostlivosti o pleť. S cieľom povzbudiť potenciálnych
+zákazníkov k vyskúšaniu ich produktov zavádzajú bezplatnú službu vyskúšania doma.
+Proces zahŕňa to, že si zákazníci vyberú niekoľko vzoriek starostlivosti o pleť, ktoré
+ich zaujímajú, priamo na webovej stránke spoločnosti. Spoločnosť potom tieto vzorky spolu
+s podrobnými pokynmi, ako ich používať, bezplatne doručí priamo k zákazníkovi domov.
+Zákazníci tak majú možnosť vyskúšať produkty, zhodnotiť, ako na ich pleti pôsobia, a zažiť
+kvalitu na vlastnej koži.
+Vplyv reciprocity vstupuje do hry v okamihu, keď zákazníci dostanú tieto bezplatné
+vzorky. Poskytnutím hodnotných produktov starostlivosti o pleť bez počiatočného nákupu
+spoločnosť vytvára pocit vďačnosti. Zákazníci sa môžu cítiť viac nútení odvďačiť sa za túto
+štedrosť tým, že urobia nákup plnohodnotných produktov alebo sa stanú dlhodobými
+zákazníkmi. Akt prijímania niečoho zadarmo spúšťa psychologickú tendenciu vrátiť to späť,
+čím reciprocita funguje ako silný nástroj pre budovanie zákazníckej lojality a dôvery.
+
+2
+
+Cieľ práce
+
+Cieľom diplomovej práce je identifikovať vplyv psychologických faktorov
+na spotrebiteľské správanie a na základe vykonaného dotazníkového prieskumu na
+zvolenej vzorke ľudí, navrhnúť podnikom zameraným na predaj, najmä predaj v rámci nižšie
+spomenutých oblastí, odporúčania za účelom optimalizácie implementácie konkrétnych
+marketingových princípov a súčasne aj optimalizácie ich marketingovej stratégie.
+Zameriavame sa na využívanie rôznych manipulatívnych a iných marketingových
+techník naprieč odvetviami. Sústredíme sa na oblasť technológií, maloobchodný predaj,
+oblasť stravovania a reštauračných služieb a oblasť zdravotníckych služieb. V uvedených
+sférach sa stretávame najmä s vyššie spomínaným „FOMO“ a princípom vzácnosti
+
+67
+
+HUM, S. How To Use Reciprocity In Marketing (+10 Killer Examples) [online]. ReferralCandy,
+27.12.2022. Dostupné na: <https://www.referralcandy.com/blog/reciprocity-marketing-examples/>.
+
+29
+
+v prípade maloobchodného predaja, s princípom autority v prípade sektora zdravotníckych
+služieb a s princípmi obľúbenosti a sociálneho schválenia v oblasti gastronómie a predaja
+technologických zariadení.
+
+2.1 Parciálne ciele diplomovej práce
+Popri hlavnom cieli práce sme si stanovili aj ciele čiastkové, a tými sú nasledovné:
+1. Identifikovanie hlavných psychologických faktorov ovplyvňujúcich
+spotrebiteľské správanie v rôznych odvetviach.
+2. Analyzovanie vzťahov medzi psychologickými princípmi a nákupným
+správaním spotrebiteľov.
+3. Zhromaždenie a interpretovanie dát z dotazníkového prieskumu s cieľom
+odhalenia štatisticky významných závislostí.
+4. Navrhnutie odporúčania pre firmy zamerané na predaj v oblastiach
+gastronómie, technológií a zdravotníctva, na základe zistení z výskumu.
+5. Poskytnutie prínosu k lepšiemu porozumeniu potrieb a preferencií
+spotrebiteľov vo svete globalizovaného trhu.
+
+3
+
+Metodika práce a metódy skúmania
+
+V nasledujúcej časti sa zameriavame na rôzne techniky, používané pri realizácií
+výskumu. Detailne preskúmame jednotlivé metódy výskumu. Okrem toho definujeme aj
+predmet štúdia a preskúmame rozmanité prístupy k získaniu nevyhnutných informácií
+potrebných pre vyhotovenie diplomovej práce.
+
+3.1 Charakteristika objektu skúmania
+Predmetom skúmania je nákupné správanie spotrebiteľov v rôznych sektoroch, najmä
+v technologickom sektore, v prostredí maloobchodu a v prostredí sektoru gastronómie.
+Rovnako sa zameriavame i na spotrebiteľské správanie v sektore zdravotníckych služieb.
+Skúmame vplyv marketingových techník na zmeny v nákupnom správaní spotrebiteľov v
+30
+
+rámci uvedených sektorov. Práca rovnako analyzuje existenciu konkrétnych vzorov
+správania, alebo stereotypov, u respondentov.
+
+3.2 Pracovné postupy
+Realizácií diplomovej práce predchádzali uvedené kroky:
+1. Zber relevantných informácií a odborných textov z oblasti psychológie
+marketingu potrebných na analýzu v teoretickej časti práce.
+2. Stanovenie hlavného cieľa práce a podrobných parciálnych cieľov.
+3. Dôkladné preskúmanie konkrétnych techník aplikácie psychológie v oblasti
+marketingu.
+4. Analýza, vyhodnotenie a výklad získaných poznatkov z uskutočneného
+výskumu, ktoré sú nevyhnutné pre formulovanie návrhu na zlepšenie
+marketingových stratégií a splnenie hlavného cieľa práce.
+
+3.3 Metodológia zhromažďovania údajov
+Primárnymi zdrojmi informácií a údajov spracovaných v diplomovej práci, boli najmä
+z odborných článkov dostupných online, z blogov zameraných na marketing a podnikanie
+a rovnako i z odborných knižných publikácií a literatúry.
+
+Praktická časť práce pozostáva z údajov nadobudnutých prostredníctvom získania dát
+z dotazníka Google Forms. Výstupné dáta z dotazníka sú vyexportované a spracované
+v podobe grafov.
+
+3.4 Použité metódy vyhodnotenia a interpretácia výsledkov
+Po získaní výstupných dát je potrebné ich vyhodnotiť a zamerať sa na prípadne
+korelácie a iné vzťahy a závislosti medzi skúmanými premennými.
+
+3.5 Štatistické metódy
+Za účelom aplikovania korektnej metódy, v práci využívame tzv. Chi-kvadrát test,
+slúžiaci na analýzu spomenutého vzájomného vplyvu skúmaných premenných a prípadnej
+miery závislosti. Zameriavame sa na jednotlivé demografické skupiny a porovnávame
+intenzitu vplyvu konkrétnych marketingových techník na jednotlivé z nich.
+
+31
+
+Chi-kvadrát test pozostáva z dvoch hypotéz:
+H0 = Medzi premennými nie je štatisticky významná závislosť
+H1 = Medzi premennými je štatisticky významná závislosť
+
+Hypotézu H0 pričom zamietame v prípade, že vypočítaná hodnota pV je menšia ako
+hladina významnosti, označená gréckym symbolom „α“. V práci sme si stanovili hladinu
+významnosti α=0,05, čo nám, v prípade hodnoty pV vyššej ako 0,05 a teda v prípade
+zamietnutia hypotézy H0, predstavuje 95% určitosť, že medzi skúmanými premennými je
+štatisticky významná závislosť.
+
+Pre potrebu vykonania Chi-kvadrát testu, v práci využívame aj kontingenčné tabuľky,
+na základe ktorých zisťujeme aktuálne frekvencie jednotlivých možných odpovedí všetkých
+určených kategórií k jednotlivým skúmaným otázkam z vykonaného dotazníkového
+prieskumu.
+K spomenutým aktuálnym frekvenciám následne dopočítavame očakávané frekvencie,
+ktoré vypočítame vynásobením súčtu riadka súčtom stĺpca a následným vydelením
+hodnotou n, ktorá predstavuje celkový súčet danej kontingenčnej tabuľky.
+
+3.6 Stanovené hypotézy
+V práci skúmame a usilujeme sa o potvrdenie resp. zamietnutie najmä nasledovných ôsmich
+hypotéz:
+1. Na menej ako 30% mužov pri nákupe technologických zariadení vplýva princíp
+sociálneho schválenia.
+2. Princíp schválenia ovplyvňuje viac ako 40% spotrebiteľov gastronomického
+sektora vo vekovej kategórií 18-25 rokov.
+3. Medzi pohlavím a vplyvom hudby v predajni na nákupné správanie existuje
+štatisticky významná závislosť.
+4. Medzi vekom a mierou vplyvu textúry a obalov produktov na percepciu kvality
+existuje štatisticky významná závislosť.
+5. Medzi bydliskom a mierou vplyvu dynamických vizuálov a pohyblivých
+displejov na nákupné správanie existuje štatisticky významná závislosť.
+
+32
+
+6. Medzi pohlavím a vplyvom odporúčania zdravotníckych produktov od
+zdravotníkov na nákupné správanie existuje štatisticky významná závislosť.
+7. Medzi pohlavím a mierou vplyvu recenzií na nákupné rozhodovanie v
+súvislosti s technologickými zariadeniami existuje štatisticky významná
+závislosť.
+8. Medzi vekom a mierou vplyvu odporúčania celebritou na motivovanosť
+navštíviť gastronomickú prevádzku existuje štatisticky významná závislosť.
+
+4
+
+Výsledky práce a diskusia
+
+Ako uvádzame v časti 3 – „Metodika práce a metódy skúmania“, k výsledkom práce
+sme sa dopracovali
+
+prostredníctvom testovania stanovených hypotéz pomocou
+
+kontingenčných tabuliek a využitím Chi-kvadrát testu v nástroji Microsoft Office – Excel.
+V nasledujúcich riadkoch sa budeme postupne venovať jednotlivým hypotézam z časti 3.
+
+1.
+
+Na menej ako 30% mužov pri nákupe technologických zariadení vplýva princíp
+sociálneho schválenia.
+
+Tabuľka 1 Vplyv sociálneho schválenia na nákup technologických zariadení
+
+Vplyv
+sociálneho
+
+33
+
+schválenia na
+nákup
+technologických
+zariadení
+Pohlavie
+Muž
+Žena
+Grand Total
+
+Áno
+
+Skôr
+áno
+
+Nie
+28
+43
+71
+
+7
+2
+9
+
+Skôr
+nie
+18
+19
+37
+
+Grand
+Total
+11
+11
+
+64
+64
+128
+
+Zdroj: Vlastné spracovanie
+
+Na vyhotovenie vyššie uvedenej kontingenčnej tabuľky nám poslúžila otázka
+z vyhotoveného dotazníka „Rozhodujete sa v súvislosti s nákupom technologických
+zariadení i na základe recenzií?“ a možné odpovede „Áno“, „Skôr áno“, „Skôr nie“ a „Nie“.
+Pre potreby kontingenčnej tabuľky sme otázku zmenili na premennú „Vplyv
+sociálneho schválenia na nákup technologických zariadení“
+Z tabuľky vidíme, že z celkovej vzorky respondentov, číslom 128, 28 mužov
+odpovedalo „Áno“ a 18 mužov odpovedalo „Skôr áno“ na otázku, či sa rozhodujú
+v súvislosti s nákupom technologických zariadení i na základe recenzií. Následne môžeme
+konštatovať, že spolu na 46 zo 64 mužov vplýva princíp sociálneho schválenia pri nákupe
+technologických zariadení, čo predstavuje 71,88% opýtaných mužov. Dôsledkom
+uvedeného stanovenú hypotézu „Na menej ako 30% mužov pri nákupe technologických
+zariadení vplýva princíp sociálneho schválenia.“ zamietame.
+Súčasne považujeme za dôležité spomenúť, že hoci ženy neboli súčasťou stanovenej
+hypotézy, na základe kontingenčnej tabuľky vidíme, že sú náchylnejšie podľahnúť vplyvu
+sociálneho schválenia v súvislosti s nákupom technologických zariadení v porovnaní
+s mužmi, keďže celkovo 62 zo 64 žien, čo predstavuje 96,88%, odpovedalo, že sa rozhoduje
+resp. skôr rozhoduje v súvislosti s nákupom technologických zariadení i na základe recenzií.
+
+2. Princíp schválenia celebritami ovplyvňuje viac ako 40% spotrebiteľov
+gastronomického sektora vo vekovej kategórií 18-25 rokov.
+Na vyhodnotenie uvedenej hypotézy sme rovnako použili kontingenčnú tabuľku. (Tabuľka
+2)
+
+34
+
+Tabuľka 2 Vplyv princípu schválenia celebritami na spotrebiteľov gastronomického sektora
+
+Count of
+Vek
+Vek
+>61
+18-25
+26-40
+41-60
+Grand Total
+
+Vplyv princípu
+schválenia
+celebritami na
+spotrebiteľov
+gastronomického
+sektora
+Áno
+
+Skôr
+áno
+
+Nie
+7
+2
+4
+3
+16
+
+7
+2
+7
+13
+29
+
+Skôr
+nie
+11
+12
+9
+12
+44
+
+Grand
+Total
+4
+14
+11
+10
+39
+
+29
+30
+31
+38
+128
+
+Zdroj: Vlastné spracovanie
+
+Tabuľku sme vyhotovili prostredníctvom otázky z dotazníka „Boli by ste viac
+motivovaný navštíviť nejaký gastronomický podnik, v prípade, že by ho odporúčala známa
+celebrita, prípadne niekto iný, koho obdivujete?“ a zozbieraných odpovedí, opäť v podobe
+„Áno“, „Skôr áno“, „Skôr nie“ a „Nie“. Pre potreby kontingenčnej tabuľky sme otázku
+zmenili na premennú „Vplyv princípu schválenia celebritami na spotrebiteľov
+gastronomického sektora“
+Z tabuľky vidíme, že na 14 respondentov vo vekovej kategórií 18-25 rokov, čo predstavuje
+46,67% respondentov danej vekovej kategórie, vplýva resp. skôr vplýva princíp schválenia
+celebritami v súvislosti s návštevou gastronomických prevádzok.
+Na základe uvedeného zistenia prijímame druhú hypotézu, znejúcu: „Princíp
+schválenia celebritami ovplyvňuje viac ako 40% spotrebiteľov gastronomického sektora vo
+vekovej kategórií 18-25 rokov.“
+3. Treťou stanovenou hypotézou v kapitole 3 našej práce je hypotéza, tvrdiaca, že
+„Medzi pohlavím a vplyvom hudby v predajni na nákupné správanie existuje
+štatisticky významná závislosť.“.
+Pre potreby jej overenia sme v práci zvolili metódu využitia Chi-kvadrát testu. Údaje
+potrebné na chi-kvadrát test sme čerpali z tvrdenia v dotazníku; Hudba v pozadí
+v obchodoch ovplyvňuje moje nákupné správanie. Zistili sme aktuálne frekvencie všetkých
+možných odpovedí oboch pohlaví a dopočítali k nim očakávané frekvencie. Následne sme
+oba typy frekvencií dosadili v nástroji Excel do funkcie názvom CHI.TEST, pomocou ktorej
+35
+
+sme vypočítali p-hodnotu (PV). P-hodnota sa rovná 0,034, pričom nami stanovená hladina
+významnosti alfa sa rovná 0,05. Pri porovnaní týchto dvoch hodnôt sme dospeli k záveru, že
+0,05>0,034, a teda hladina významnosti alfa má vyššiu hodnotu ako p-hodnota, z čoho
+vyplýva, že nami stanovenú hypotézu H0; „Medzi pohlavím a vplyvom hudby v predajni na
+nákupné správanie neexistuje štatisticky významná závislosť.“ zamietame a súčasne
+prijímame hypotézu H1; „Medzi pohlavím a vplyvom hudby v predajni na nákupné
+správanie existuje štatisticky významná závislosť.“.
+Na základe chikvadrát testu sme zistili, že medzi premennými existuje určitá vzájomná
+dependencia, ostáva zistiť, na nákupné správanie ktorého pohlavia vplýva prezencia hudby
+v predajni výraznejšie. Spomenuté vieme zistiť pomocou spočítania pozitívnych odpovedí
+(úplne súhlasím, vo všeobecnosti súhlasím, skôr súhlasím) jednotlivých pohlaví na vyššie
+spomenutú otázku z dotazníka a pomocou následného porovnania finálneho počtu
+pozitívnych odpovedí žien a mužov. V prípade žien, 4 reprezentantky zvolili možnosť úplne
+súhlasím, 8 zvolilo možnosť vo všeobecnosti súhlasím a 10 zvolilo možnosť skôr súhlasím.
+V prípade mužov, s tvrdením úplne súhlasí iba 1 predstaviteľ, vo všeobecnosti súhlasia 2
+a skôr súhlasia 4. Po sčítaní zisťujeme, že v prípade žien sa jedná o 22 pozitívnych odpovedí,
+čo je viac ako trojnásobok pozitívnych odpovedí u mužov, ktorých je 7. Napokon vieme
+konštatovať nielen že medzi pohlavím a vplyvom hudby v predajni na nákupné správanie
+existuje štatisticky významná závislosť, ale rovnako i to, že hudba v predajni vplýva
+štatisticky významnejšie na ženy ako na mužov.
+4. Medzi vekom a mierou vplyvu textúry a obalov produktov na percepciu kvality
+existuje štatisticky významná závislosť.
+Podobne ako v prípade tretej stanovenej hypotézy, aj v prípade tej štvrtej sme na jej
+otestovanie v práci využili chi-kvadrát test. Ako vstupné dáta, potrebné na vyhotovenie
+testu, sme použili odpovede respondentov na tvrdenie z dotazníka: Textúra a pocit obalov
+z produktu ovplyvňujú moje vnímanie kvality. Rovnako aj v tomto prípade mali respondenti
+na výber z piatich možných odpovedí, a to z odpovedí: úplne súhlasím, vo všeobecnosti
+súhlasím, skôr súhlasím, skôr nesúhlasím a nesúhlasím.
+Opäť sme vypočítali aktuálne frekvencie odpovedí tentokrát nie v súvislosti s pohlavím
+ale vekovou kategóriou vzorky a následne k nim dopočítali očakávané frekvencie. Hodnoty
+sme napokon dosadili do funkcie CHI.TEST a zistili sme, že p-hodnota je rovná hodnote
+0,005. Nakoľko hladinu významnosti alfa sme si pre potreby celej práce určili v hodnote
+0,05, môžeme konštatovať, že hladina významnosti alfa je väčšia ako p-hodnota, keďže
+36
+
+0,05>0,005. Z uvedeného vyplýva, že zamietame hypotézu H0, tvrdiacu, že medzi vekom a
+mierou vplyvu textúry a obalov produktov na nákupné správanie neexistuje štatisticky
+významná závislosť a naopak prijímame hypotézu H1, ktorá tvrdí protikladné tvrdenie, a to,
+že medzi vekom a mierou vplyvu textúry a obalov produktov na nákupné správanie existuje
+štatisticky významná závislosť.
+Opäť považujeme za užitočné dodatočne zistiť nákupné správanie ktorých vekových
+kategórií sa javí ako najnáchylnejšie byť ovplyvnené textúrou a obalmi produktov.
+Na grafe 1 vidíme prehľadne znázornené početnosti jednotlivých odpovedí v závislosti
+od vekových kategórií odpovedajúcich.
+Graf 1 Vplyv textúry a obalov produktov na percepciu kvality
+
+POČET REPONDENTOV
+
+Textúra a pocit z obalov produktu
+vplývajú na moje vnímanie kvality
+15
+
+9
+
+11
+
+3
+
+>61
+
+5
+
+12
+10
+
+1010
+
+788
+
+6
+
+7
+
+32
+
+2
+18-25
+
+Nesúhlasím
+Skôr nesúhlasím
+
+54
+
+Skôr súhlasím
+Úplne súhlasím
+
+26-40
+
+41-60
+
+Vo všeobecnosti súhlasím
+
+VEK REPONDENTOV
+
+Zdroj: Vlastné spracovanie
+
+Z grafu je na prvý pohľad zrejmé, že ľudia nad 61 rokov sú náchylnejší podľahnúť
+vplyvu marketingu a dizajnu obalov pri posudzovaní kvality produktov. Spolu 24 z 29
+respondentov z danej vekovej kategórie reagovalo pozitívne (skôr súhlasím, vo všeobecnosti
+súhlasím či úplne súhlasím) na tvrdenie „Textúra a pocit z obalov produktu vplývajú na moje
+vnímanie kvality”. Druhou vekovou kategóriou, ktorá sa preukázala byť na dané vplyvy
+náchylná, je kategória od 26-40 rokov, s celkovým počtov 26 pozitívnych reakcií z 31 a
+rovnako a na dané vplyvy javí náchylná aj veková kategória od 18 do 25 rokov, s celkovým
+počtov 23 pozitívnych reakcií z 30. Veková kategória od 41-60, naopak, vykazuje vyššiu
+odolnoť voči vplyvom marketingu a dizajnu obalov pri poudzovaní kvality produktov, čo
+vidíme na základe komparácie počtu negatívnych reakcií naprieč ostatnými vekovými
+skupinami. V tomto prípade sa jedná o počet 17, narozdiel od počtu 5 v prípade kategórie od
+37
+
+26-40 rokov, počtu 7 v prípade kategórie od 18-25 rokov, či počtu 2 v prípade kategórie nad
+61 rokov. I napriek uvedenému, aj u vekovej kategórie od 41-60 rokov prevažujú pozitívne
+reakcie na dané tvrdenie (21) nad tými negatívnymi (17).
+Aby sme vedeli prenejšie určiť, na ktorú vekovú kategóriu vplývajú dané faktory
+najviac, musíme sa však pozrieť na pomer pozitívnych odpovedí v rámci jednotlivých
+kategórií, keďže máme v každej kategórií rôzny počet respondentov. Pomer vypočítame
+podelením súčtu pozitívnych odpovedí celkovím počtom odpovedí danej vekovej kategórie
+a vynásobením hodnotou to, aby sme dostali hodnotu v percentách. Vo vekovej kategórií
+nad 61 rokov, ako sme už spomenuli vyššie, evidujeme 24 pozitívnych odpovedí z 29, to
+znamená 24/29*100= 82,76%. Rovnakým spôsobom zisťujeme, ž v kategórií 18-25 rokov
+tvoria pozitívne reakcie 76,66%, v kategórií 26-40 tvoria 83,87% a v kategórií 41-60 tvoria
+52,5%. Na základe uvedeného môžeme konštatovať, že vplyv marketingu a dizajnu obalov
+pri posudzovaní kvality produktov je prítomný v nadpolovičnej väčšine u všetkých
+vekových kategórií, pričom najviac pri respondentoch vo veku 26-40 rokov, následne pri
+vekovej skupine nad 61 rokov, potom pri ľuďoch vo veku 18-25 a najmenej ovplyvnenou
+vekovou skupinou a ukázali byť ľudia vo veku od 41-60 rokov.
+5. Medzi bydliskom a mierou vplyvu dynamických vizuálov a pohyblivých displejov
+na nákupné správanie existuje štatisticky významná závislosť.
+V súvislosti s hypotézou číslo 5 sme v práci pracovali s dátami, získanými z dotazníka.
+Konkrétne sme a zamerali na tvrdenie: „Dynamické vizuály alebo pohyblivé displeje
+priťahujú moju pozornosť v obchodoch alebo reklamách.“, na ktoré mali respondenti
+reagovať opäť jednou z piatich možných odpovedí v podobe úplne súhlasím, vo
+všeobecnosti súhlasím, skôr súhlasím, skôr nesúhlasím či nesúhlasím.
+Pre potvrdenie resp. vyvrátenie hypotézy číslo 5 ako i pri viacerých predošlých
+hypotézach, sme v práci použili chi-kvadrát test, na vypracovanie ktorého sme potrebovali
+zistiť aktuálne frekvencie a dopočítať očakávané frekvencie jednotlivých odpovedí
+respondentov pochádzajúcich z miest a rovnako aj tých pochádzajúcich z dedín.
+Tie sme neskôr dosadili do funkcie CHI.TEST nástroja Excel, s cieľom vygenerovania
+p-hodnoty, ktorá nám napokon vyšla rovná 0,0000064, čo zaokrúhľujeme na 0,00. Nami
+určená hladina významnosti alfa má hodnotu 0,05, to znamená alfa>p-hodnota, dôsledkom
+čoho hypotézu H0, tvrdiacu, že medzi bydliskom a mierou vplyvu dynamických vizuálov a
+pohyblivých displejov na nákupné správanie existuje štatisticky významná závislosť
+
+38
+
+zamietame. Prijímame hypotézu H1, tvrdiacu naopak, že medzi uvedenými súvislosťami
+existuje štatisticky významná závislosť.
+
+Graf 2 Vplyv princípu schválenia celebritami na spotrebiteľov gastronomického sektora
+
+Dynamické vizuály alebo pohyblivé displeje
+priťahujú moju pozornosť v obchodoch alebo
+reklamách.
+Počet repondentov
+
+31
+
+30
+20
+
+Nesúhlasím
+
+16
+
+15
+
+12
+
+Skôr nesúhlasím
+Skôr súhlasím
+
+2
+Dedina
+
+2
+
+Vo všeobecnosti súhlasím
+Mesto
+
+Bydliko repondentov
+
+Zdroj: Vlastné spracovanie
+
+Z grafu vidíme, že obe kategórie, či už respondenti bývajúci na dedinách alebo tí
+v mestách reagujú na tvrdenie prevažne negatívne. Konkrétne 46 zo 48 respondentov
+bývajúcich na dedine reagovalo negatívne (nesúhlasím či skôr nesúhlasím) a rovnako i 46
+zo 78 respondentov z miest odpovedalo buď formou nesúhlasím alebo formou skôr
+nesúhlasím. Už na prvý pohľad je zrejmé, že podiel negatívnych odpovedí bude vyšší pri
+kategórií respondentov z dedín, hoci obe kategórie disponujú rovnakým počtom negatívnych
+odpovedí, a to z dôvodu menšieho celkového počtu respondentov v rámci danej kategórie
+v porovnaní
+
+kategóriou „mesto“. Pre percentuálne vyjadrenie sme vydelili počet
+
+negatívnych odpovedí celkových počtom odpovedí v rámci jednotlivých kategórií
+a vynásobili hodnotou to a dopracovali a k záveru, že 95,83% respondentov žijúcich na
+dedinách
+
+tvrdením nesúhlasí resp. skôr nesúhlasí, zatiaľ čo v prípade respondentov
+
+bývajúcich v meste s tvrdením nesúhlasí 58,97%. Ostáva faktom, že na základe vykonaného
+štatistického testu sa nám potvrdila štatisticky významní závislosť medzi bydliskom
+a mierou vplyvu dynamických vizuálov a pohyblivých displejov na nákupné právanie. Na
+základe percentuálneho vyjadrenia negatívnych reakcií jednotlivých kategórií i vieme
+
+39
+
+jednoducho dopočítať i reakcie pozitívne a zisťujeme, že tie ú rovné 4,17% v prípade
+respondentov bývajúcich na dedinách a 41,03% v prípade respondentov, žijúcich v mestách.
+Môžeme uzavrieť, že vplyv dynamických vizuálov a pohyblivých displejov na nákupné
+správanie, je vyšší u obyvateľov miest.
+
+6. Medzi pohlavím a vplyvom odporúčania zdravotníckych produktov od
+zdravotníkov na nákupné správanie nie je štatisticky významná závislosť.
+Poslednou hypotézou, uvedenou v kapitole číslo 3 je hypotéza 6. Na jej preskúmanie
+sme čerpali dáta z priamej otázky z dotazníka; „Keď zvažujete nákup zdravotníckych
+produktov (vitamíny, doplnky, lieky, zdravotnícke pomôcky, či iné) do akej miery vás
+ovplyvňujú odporúčania zdravotníckych odborníkov v danej oblasti?". Respondenti mali
+v pri tejto otázke k dispozícii škálu 1-5 a boli požiadaní o zvolenie jedného z čísel, najviac
+zodpovedajúceho ich presvedčenie, pričom číslo 1 predstavuje žiadny vplyv a, naopak, číslo
+5 predstavuje najväčší vplyv. I pri tejto hypotéze využívame chi-kvadrát test pre jej
+potvrdenie resp. vyvrátenie a rovnako využívame aktuálne a dopočítané očakávané
+frekvencie k odpovediam v súvislostiach s jednotlivými pohlaviami.
+
+Tabuľka 3 Miera vplyvu autority v sfére zdravotníctva
+
+Count of
+Pohlavie:
+Row Labels
+Muž
+Žena
+Grand Total
+
+Column Labels
+1
+5
+9
+
+Grand
+2 3
+4 5 Total
+3 8
+22 26 64
+5 16 16 18 64
+14 8 24 38 44
+128
+
+Zdroj: Vlastné spracovanie
+
+40
+
+Frekvencie opäť dosádzame do funkcie CHI.TET, aby sme zistili p-hodnotu
+a zisťujeme, že tá je rovná hodnote 0,15. Nakoľko hladinu významnosti alfa sme i pre
+potreby celej práce zvolili o hodnote 0,05, dospievame k záveru, že p<alfa, čo znamená, že
+hypotézu H0, tvrdiacu, že medzi pohlavím a vplyvom odporúčania zdravotníckych
+produktov od zdravotníkov na nákupné správanie nie je štatisticky významná závislosť
+prijímame. Hypotézu H1 tvrdiacu opak zamietame. Na ženy odporúčania od odborníkov
+v danom kontexte nevplývajú štatisticky významne inak ako na mužov. Z tabuľky
+aktuálnych frekvencií odpovedí jednotlivých pohlaví pozorujeme, že nadpolovičná väčšina
+mužov, konkrétne 48, čo predstavuje 75%, i nadpolovičná väčšina žien, konkrétne 34, čo
+predstavuje 53,13%, odpovedala na danú otázku najvyššími hodnotami (4 a 5), a teda
+pociťuje v danej súvislosti výrazný vplyv princípu autority.
+7. Medzi pohlavím a mierou vplyvu recenzií na nákupné rozhodovanie v súvislosti s
+technologickými zariadeniami existuje štatisticky významná závislosť.
+V siedmej hypotéze našej práce skúmame vzťah jednotlivých pohlaví a princípu
+sociálneho chválenia. V súvilosti s touto hypotézou pracujeme s dátami z vyhotoveného
+dotazníka, konkrétne dátami z otázky. Nakoľko sa opäť jedná o dve kategorické premenné,
+na potvrdenie resp. vyvrátenie hypotézy sme využili i tentokrát Chi-kvadrát test. Opäť sme
+potrebovali použiť funkciu chi.test, na ktorú sme potrebovali poznať aktuálne a dopočítať
+očakávané frekvencie odpovedí jednotlivých pohlaví. Vzápätí sme zistili, že p-hodnota
+sa rovná 0,009, čo zodpovedá hodnote nižšej ako je hladiny významnosti alfa, ktorú sme si
+stanovili o hodnote 0,05. Prichádzame k záveru, že hypotézu H0, tvrdiacu, že medzi
+pohlavím a mierou vplyvu recenzií na nákupné rozhodovanie v súvislosti s technologickými
+zariadeniami neexistuje štatisticky významná závislosť zamietame a prijímame hypotézu
+H1, ktorá tvrdí, že medzi premennými štatisticky významná závislosť existuje.
+Následne sa usilujeme o to, zistiť ktoré pohlavie prikladá pri rozhodovaní a o nákupe
+technologických zariadení väčší dôraz recenziám. Pre lepšiu vizualizáciu problematiky sme
+vytvorili graf 4.
+
+41
+
+Graf 3 Vplyv recenzií na rozhodovanie o nákupe technologických zariadení
+
+Rozhodujete a v úviloti nákupom
+technologických zariadení i na základe recenzií?
+Početrepondentov
+
+43
+
+28
+
+Áno
+19
+
+18
+
+Skôr áno
+
+11
+
+Skôr nie
+
+7
+2
+Muž
+
+Nie
+
+Žena
+
+Pohlavie repondentov
+
+Zdroj: Vlastné spracovanie
+
+Z grafu vieme vyčítať, že 62 zo 64 žien, čo predstavuje 96,88% žien odpovedalo na
+otázku či a rozhodujú v súvislosti s nákupom technologických zariadení i na základe recenzií
+pozitívne, to znamená „áno“ resp. „kôr áno“, zatiaľ čo u mužov pozitívne reagovalo 46 zo
+64 respondentov, čo predstavuje 71,88%. Na základe dát môžeme tvrdiť, že ženy sú
+náchylnejšie pri rozhodovaní o kúpe technologických zariadení podľahnúť vplyvu princípu
+sociálneho chválenia, ktorého jednou z foriem sú i práve spomenuté recenzie.
+8. Medzi vekom a mierou vplyvu odporúčania celebritou na motivovanosť navštíviť
+gastronomickú prevádzku existuje štatisticky významná závislosť.
+Poslednou hypotézou uvedenou v kapitole 3 je hypotéza 8. Pre potreby jej preverenia
+sme čerpali dáta z dotazníka, špecificky z otázky: Boli by ste viac motivovaný navštíviť
+nejaký gastronomický podnik, v prípade, že by ho odporúčala známa celebrita, prípadne
+niekto iný, koho obdivujete? Následne sme zopakovali potup identický s preverovaním
+predošlej hypotézy, to znamená zistenie aktuálnych frekvencií, dopočítanie očakávaných
+frekvencií a ich dosadenie do funkcie CHI.TEST, za účelom vygenerovania p-hodnoty. Phodnota a po zaokrúhlení rovná 0,00, čo znamená, že je menšia ako nami stanovená hladina
+významnosti alfa o hodnote 0,05. Hypotézu H0, prehlasujúcu, že medzi vekom a mierou
+vplyvu odporúčania celebritou na motivovanoť navštíviť gastronomickú prevádzku
+neexistuje štatisticky významná závislosť zamietame a prijímame hypotézu H1,
+prehlasujúcu, že v danom prípade evidujeme štatisticky významnú závislosť medzi
+42
+
+premennými. Inými slovami, vplyv odporúčania celebritou na motivovanoť navštíviť
+gatronomickú prevádzku štatisticky významne závisí od veku jednotlivca.
+V nasledujúcej časti a pozrieme na to, ktorá veková kategória je ovplyvnená
+spomenutým faktorom najviac a ktorá naopak najmenej. Pre prvotnú predstavu nám môže
+poslúžiť graf 4, no vzhľadom na rozdielny počet respondentov v rámci jednotlivých
+vekových kategórií, budeme sa opäť musieť zamerať na pomer pozitívnych odpovedí k ich
+celkovému počtu v rámci kategórie.
+Graf 4 Vplyv marketingu celebrít na motivovanosť navštívenia gastronomickej prevádzky
+
+Boli by ste viac motivovaný navštíviť nejaký
+gastronomický podnik, v prípade, že by ho odporúčala
+známa celebrita, prípadne niekto iný, koho obdivujete?
+Počet repondentov
+
+14
+12
+
+13
+
+12
+
+11
+7
+
+7
+
+4
+2
+
+7
+4
+
+3
+
+2
+
+18-25
+
+11
+
+10
+
+9
+
+26-40
+
+41-60
+
+>61
+
+Vek repondentov
+Áno
+
+Skôr áno
+
+Skôr nie
+
+Nie
+
+Zdroj: Vlastné spracovanie
+Z grafu a zdá, že pozitívne odpovede na otázku prevažujú najmä u ľudí nad 61 rokov.
+Pre presnejšie odpovede a pozrime na vyššie pominuté pomery pozitívnych odpovedí
+k celkovému počtu odpovedí v rámci jednotlivých kategórií. Za pozitívne odpovede
+považujeme odpovede „Áno“ a „skôr áno“. Daný pomer vypočítame ako súčet pozitívnych
+vekovej kategórie vydelený počtom jej celkových odpovedí a vynásobený hodnotou to.
+V jednotlivých kategóriách sme sa dopracovali k nasledovným výsledkov:
+1. 18-25 = 46,67%
+2. 26-40 = 41,94%
+3. 41-60 = 39,47%
+4.
+
+> 61 = 62,07%
+
+Na záver môžeme konštatovať, že vplyv marketingu celebrít v súvislosti
+motivovanosťou navštívenia gastronomickej prevádzky je najsilnejší u ľudí vo vekovej
+
+43
+
+kategórií nad 61 rokov a následne u ľudí od 18-25 rokov a najslabší u ľudí v kategórií od 4160 rokov.
+Okrem hypotéz v kapitole 3 sme a v našej práci rozhodli preskúmať aj ďalšie
+potenciálne štatisticky významné závislosti, no žiadne z nich sa napokon nepotvrdili.
+Skúmali sme závislosť medzi bydliskom a vplyvom FOMO v znení "limitovaná edícia" na
+nákupné správanie a rovnako i medzi bydliskom a vplyv scarcity (v znení "posledný kus")
+na nákupné správanie. V prípade už skúmaného vplyvu odporúčania zdravotníckych
+produktov od zdravotníkov na nákupné správanie sme riešili, či nie je závislý od hrubého
+mesačného príjmu či veku respondentov, no podobne ako v tomu bolo s kategóriou
+„pohlavie“, závislosť sa nepotvrdila v ani jednom z prípadov. Rovnako sme skúmali, či od
+hrubého mesačného príjmu nezávisí aj vplyv recenzií na nákupné rozhodovanie v súvislosti
+s technologickými zariadeniami, no ani tento vzťah a nepotvrdil. Okrem uvedeného
+a nepotvrdili ani skúmané závislosti medzi:
+a) Typom osobnosti a frekvencia voľby produktov, na ktoré je človek zvyknutý
+b) Typom osobnosti a obavami z možného následného oľutovania kúpy
+c) Typom osobnosti a vplyvom recenzií na nákupné rozhodovanie v súvislosti s
+technologickými zariadeniami
+d) Pohlavím a impulzivitou pri nákupnom správaní
+e) Vekom a vplyvom vnútornej vône predajne
+
+Odporúčania
+Ako uvádzame v kapitole 2, cieľom tejto práce je okrem iného prísť s odporúčaniami
+pre rôzne odvetvia na základe vykonaného výskumu. Vo výskume sme a zameriavali
+44
+
+predovšetkým
+
+na
+
+predaj
+
+v zdravotníckom
+
+sektore,
+
+v gastronomickom
+
+sektore
+
+a v technologickom sektore, a preto budú nasledujúce odporúčania venované práve im.
+
+1. Zdravotnícky sektor
+I napriek nepotvrdenej štatisticky významnej závislosti medzi vplyvom autority
+a pohlavím spotrebiteľov a nám podarilo zistiť, že na obe pohlavia skutočne princíp autority
+vplýva, keďže väčšina z nich a vyjadrila, že pri zvažovaní nákupu zdravotníckych produktov
+ich do veľkej miery ovplyvňujú odporúčania zdravotníckych odborníkov v danej oblasti.
+Implementácia princípu autority v marketingových stratégiách farmaceutických spoločností
+môže významne zvýšiť dôveru a presvedčivosť ich produktov medzi zdravotníckymi
+odborníkmi a pacientmi. Využívaním spolupráce s uznávanými odborníkmi, publikovaním
+vedeckých dôkazov a vytváraním dôveryhodných marketingových materiálov môžu
+farmaceutické spoločnosti posilniť svoju pozíciu na trhu a zlepšiť prijatie svojich produktov.
+Či už farmaceutickým spoločnostiam, predajcom zdravotníckych pomôcok alebo iným
+zainteresovaným si dovoľujeme v súvislosti s vyššie uvedeným odporučiť implementáciu
+spomenutého princípu autority, napríklad nasledujúcimi spôsobmi:
+
+a) Spoluprácou s uznávanými odborníkmi: Odporúčame najať renomovaných
+odborníkov ako ambasádorov značky a vytvoriť poradné zbory zložené z uznávaných
+odborníkov, ktorí môžu poskytovať rady a odporúčania ohľadom ich produktov.
+
+b) Využívaním certifikátov a schválenia: Odporúčame získavať a propagovať
+certifikácie od uznávaných zdravotníckych organizácií a zdôrazňovať schválenia od
+renomovaných inštitúcií, ako sú WHO, FDA alebo EMA.
+c) Publikovaním a prezentovaním vedeckých dôkazov: Odporúčame investovať do
+kvalitného výskumu a publikovať výsledky v renomovaných vedeckých časopisoch.
+Organizujte a sponzorujte vzdelávacie programy a semináre pre zdravotníckych
+profesionálov.
+d) Vytváraním informatívnych a dôveryhodných marketingových materiálov:
+Odporúčame zahrnúť odporúčania a názory uznávaných odborníkov do marketingových
+materiálov a produkovať vzdelávacie videá a webináre s účasťou odborníkov.
+
+45
+
+e) Optimalizovaním prezentácie produktov: Odporúčame zahrnúť vedecké dôkazy a
+odporúčania od odborníkov na obaly a etikety produktov a prezentovať ich na webových
+stránkach a v brožúrach.
+f) Sociálnymi sieťami a digitálnym marketingom: Odporúčame spolupracovať s online
+celebritami, známymi z prostredia sociálnych sietí, ktorí sú odborníkmi vo svojom odbore,
+a zapojiť sa do odborných online komunít a diskusných fór.
+
+2. Gastronomický sektor
+V súvislosti s potvrdenými hypotézami číslo 2 a 8 sme zistili, že takmer polovica
+respondentov (46,67%) vo vekovej kategórií 18-25 rokov potvrdila, že by bola viac
+motivovaná navštíviť nejaký gastronomický podnik, v prípade, že by ho odporúčala známa
+celebrita, prípadne niekto iný, koho obdivuje. Inými slovami, u takmer polovice
+respondentov danej vekovej kategórie vieme potvrdiť prezenciu princípu obľúbenosti.
+Zároveň sme potvrdili štatisticky významnú závislosť miery vplyvu daného princípu od
+vekovej kategórie spotrebiteľa, pričom princíp obľúbenosti na potvrdil v najväčšej miere
+u ľudí nad 61 rokov a následne práve u ľudí vo veku od 18-25 rokov.
+
+Z toho dôvodu odporúčame gastronomickým podnikom nasledovné:
+
+a) Spolupracovať s celebritami a s online celebritami, známymi z prostredia sociálnych
+sietí: Odporúčame nadviazať spoluprácu so známymi celebritami a vplyvnými ľuďmi
+známymi z online prostredia, ktorí majú veľký vplyv na cieľové skupiny, najmä mladých
+dospelých a seniorov, keďže ich odporúčania môžu významne zvýšiť záujem o ich podnik.
+b) Vytvárať pozitívne vzťahy so zákazníkmi: Odporúčame zamerať sa na budovanie
+pozitívnych vzťahov so zákazníkmi prostredníctvom kvalitných služieb a príjemného
+prostredia. Spokojní zákazníci sa stanú vašimi ambasádormi, ktorí budú podnik odporúčať
+svojim známym.
+c) Propagácia prostredníctvom sociálnych sietí: Odporúčame využívať sociálne siete
+na propagáciu podniku prostredníctvom vizuálne atraktívneho obsahu a interakcie so
+zákazníkmi. Fotografie a videá od známych osobností, ktoré navštívili daný podnik, môžu
+prilákať nových zákazníkov.
+
+46
+
+d) Organizovať špeciálne podujatia: Odporúčame organizovať špeciálne podujatia
+a akcie, na ktorých sa zúčastnia známe osobnosti, predovšetkým známe uvedeným dvom
+vekovým kategóriám. Tieto podujatia môžu prilákať veľkú pozornosť a zvýšiť záujem
+o daný podnik.
+e) Získavať pozitívne recenzie: Odporúčame povzbudiť spokojných zákazníkov, aby
+zanechali pozitívne recenzie na platformách ako TripAdvisor, Yelp alebo Google Reviews.
+Pozitívne recenzie od obľúbených zákazníkov môžu mať veľký vplyv na rozhodovanie
+nových návštevníkov.
+Implementácia týchto odporúčaní môže pomôcť zvýšiť popularitu daného
+gastronomického podniku a prilákať viac zákazníkov práve využitím princípu obľúbenosti.
+
+3. Technologický sektor
+Tretí sektor, ktorému sme sa rozhodli venovať v našej práci niekoľko odporúčaní je
+technologický sektor. Týmto sektorom súviseli hypotézy 1 a 7, pričom sme zistili, že miera
+vplyvu recenzií na rozhodovanie o nákupe technologických zariadení je vysoká ako u mužov
+(71,88%), tak i u žien (96,88%). Zároveň sa však na základe chikvadrát testu táto miera
+preukázala byť štatisticky významne závislá od pohlavia, čo inými slovami za daných
+okolností znamená, že ženy sú štatisticky významne náchylnejšie rozhodovať sa v súvislosti
+s kúpou technologických zariadení i na základe recenzií. Podliehajú tým práve vplyvu
+sociálneho schválenia, ktorý bližšie opisujeme v teoretickej časti našej práce.
+Pre firmy predávajúce technologické zariadenia máme tieto odporúčania:
+Rozšírenie rozsahu recenzií: Odporúčame aktívne podporovať zber recenzií od
+rôznorodých skupín zákazníkov, aby sa zvýšila ich relevantnosť najmä pre ženských
+spotrebiteľov. Dôležité je, aby sa ženy mohli identifikovať s rôznymi skúsenosťami a
+názormi, čo zvyšuje ich dôveru v technologické zariadenia.
+Oslovovanie influenceriek: Taktiež odporúčame spoluprácu s takými influencerkami,
+ktoré majú silný vplyv na ženskú cieľovú skupinu. Ich autentické recenzie môžu mať
+významný dosah a ovplyvniť nákupné rozhodnutia.
+c) Podporovanie komunitných diskusií: Radíme firmám vytvoriť prostredie na svojich
+webových stránkach alebo sociálnych médiách, kde môžu ženy zdieľať svoje skúsenosti a
+rady týkajúce sa technologických zariadení. Táto interakcia posilní dôveru v ich značku a
+produkty.
+47
+
+d) Poskytnutie transparentných informácií: Odporúčame daným firmám zabezpečiť,
+aby boli recenzie jasne označené ako autentické a aby boli zverejnené reálne skúsenosti
+zákazníkov. Transparentnosť prispieva k dôvere a znižuje možné obavy z manipulácie s
+recenziami.
+Tieto odporúčania by mali pomôcť firmám v technologickom sektore efektívnejšie
+využiť vplyv recenzií ako prostriedku sociálneho schválenia, zvlášť vo vzťahu k ich ženskej
+klientele.
+
+Okrem
+
+uvedených
+
+odporúčaní
+
+pre
+
+konkrétne
+
+sektory
+
+prichádzame
+
+aj
+
+s
+
+generalizovanými odporúčaniami, adresovanými predajcom vo všeobecnosti.
+Na základe preskúmania hypotéz 3, 4 a 5 firmám zameraným na predaj odporúčame:
+
+1. Strategické využívanie hudby v predajniach využívať najmä v predajniach
+ženskou klientelou, pretože vplyv hudby v predajniach a v nami vykonanom
+výskume preukázal byť trojnásobne vyšší na ženy ako na mužov.
+
+2. Dbať viac na textúru a obaly produktov cielené najmä pre vekové kategórie 2640 rokov a pre ľudí nad 61 rokov, pretože uvedené kategórie preukazujú
+najvyššiu mieru asociácie textúry a obalov produktov s ich kvalitou. Zároveň
+treba pripomenúť, že vplyv marketingu a dizajnu obalov pri posudzovaní
+kvality produktov je prítomný v nadpolovičnej väčšine u všetkých vekových
+kategórií.
+
+3. Firmám odporúčame využívanie dynamických vizuálov a pohyblivých
+displejov najmä v mestách, pretože ich vplyv a preukázal byť štatisticky
+významnejší na nákupné správanie obyvateľov miest, v porovnaní s
+obyvateľmi dedín.
+
+Tieto odporúčania považujeme za užitočné pre firmy, nielen zo spomínaných sektorov,
+pretože správne využitie psychologických princípov v marketingových kampaniach môže
+mať pozitívny vplyv na efektivitu komunikácie so zákazníkmi a lepšie porozumenie ich
+48
+
+potrieb. Prispieva to k zlepšeniu konkurencieschopnosti firiem prostredníctvom
+optimalizácie marketingových stratégií a dosiahnutiu udržateľného rastu na trhu.
+
+Záver
+V tejto práci sme podrobne analyzovali vplyv psychologických faktorov na
+spotrebiteľské správanie v rôznych sektoroch, s cieľom poskytnúť relevantné odporúčania
+pre firmy v oblasti marketingových stratégií. Naša štúdia sa zamerala na zdravotnícky,
+49
+
+gastronomický a technologický sektor, pričom sme identifikovali kľúčové psychologické
+princípy, ktoré ovplyvňujú rozhodovanie spotrebiteľov a môžu mať významný dopad na
+úspech marketingových kampaní.
+V zdravotníckom sektore sme dôkladne skúmali princíp autority a jeho vplyv na
+spotrebiteľov. Naša analýza naznačuje, že odporúčania zdravotníckych odborníkov majú
+vysokú dôveru medzi spotrebiteľmi, čo môže zásadným spôsobom ovplyvniť ich
+rozhodnutie pri výbere zdravotníckych produktov. Odporučili sme farmaceutickým
+spoločnostiam implementáciu stratégií ako spolupráca s uznávanými odborníkmi,
+získavanie certifikátov od renomovaných organizácií a publikovanie vedeckých dôkazov.
+Tieto kroky môžu zvýšiť dôveryhodnosť značky a posilniť jej pozíciu na trhu.
+V gastronomickom sektore sme sa zameriavali na princíp obľúbenosti a jeho vplyv na
+preferencie zákazníkov pri výbere reštaurácií a podnikov. Naša štúdia ukázala, že
+odporúčania známych osobností, najmä prostredníctvom sociálnych médií, môžu zvýšiť
+záujem o gastronomické podniky, medzi mladšími i staršími spotrebiteľmi. Odporučili sme
+podnikom vytváranie pozitívnych vzťahov so zákazníkmi, spoluprácu s online celebritami a
+aktívnu propagáciu cez sociálne siete. Tieto opatrenia môžu podporiť rast a
+konkurencieschopnosť gastronomických podnikov na trhu.
+V technologickom sektore sme sa zaoberali vplyvom recenzií a sociálneho schválenia
+na rozhodovanie o nákupe technologických zariadení. Naša štúdia identifikovala významný
+rozdiel vo vnímaní recenzií medzi ženami a mužmi, čo naznačuje potrebu cieleného prístupu
+voči týmto skupinám. Odporučili sme firmám podporovať autentické recenzie, spoluprácu
+s online celebritami a vytváranie komunitných diskusií o technologických produktoch. Tieto
+kroky môžu posilniť dôveru spotrebiteľov a podporiť ich motiváciu k nákupu.
+Okrem konkrétnych odporúčaní sme v našom výskume identifikovali niekoľko
+dôležitých obmedzení, ktoré je potrebné zvážiť pri interpretácii našich výsledkov a
+navrhovaní budúcich výskumných otázok. Jedným z hlavných obmedzení bol obmedzený
+rozsah vzorky, ktorý bol reprezentatívny pre určité demografické skupiny a geografické
+oblasti, čo môže obmedziť externe platnosť našich zistení na iné trhové segmenty. Ďalším
+významným obmedzením bolo oneskorené vykonanie výskumu v dôsledku pandemických
+opatrení, čo ovplyvnilo spotrebiteľské správanie respondentov a mohlo mať vplyv na
+výsledky našej analýzy.
+Napriek týmto obmedzeniam sme v našom výskume presne identifikovali niekoľko
+dôležitých zistení, ktoré môžu slúžiť ako východisko pre ďalší výskum v oblasti
+50
+
+psychologických faktorov vo spotrebiteľskom správaní. Objasnili sme, že princípy ako
+autorita, obľúbenosť a sociálne schválenie majú kľúčový vplyv na formovanie
+spotrebiteľských preferencií a rozhodovacích procesov. Naša štúdia tiež ukázala, že tieto
+psychologické faktory nie sú univerzálne aplikovateľné vo všetkých odvetviach rovnakým
+spôsobom, a preto je dôležité analyzovať ich v kontexte špecifických trhových podmienok
+a cieľových skupín.
+Celkový záver tejto práce podčiarkuje kľúčovú dôležitosť porozumenia a aplikácie
+psychologických faktorov pre efektívne riadenie marketingových aktivít a dosiahnutie
+udržateľného rastu na konkurenčnom trhu. Naše odporúčania poskytujú hodnotné
+usmernenia pre firmy, ako optimalizovať svoje marketingové stratégie v zdravotníckom,
+gastronomickom a technologickom sektore, aby sa lepšie prispôsobili dynamike súčasného
+obchodného prostredia. Veríme, že naše zistenia a odporúčania nebudú len teoretickým
+prínosom, ale aj praktickým nástrojom pre manažérov a marketingových profesionálov, ktorí
+sa snažia získať a udržať konkurenčnú výhodu vo svojich odvetviach.
+Tento záver teda nielen sumarizuje naše dosiahnuté výsledky, ale aj zdôrazňuje ich
+význam pre budúci výskum a aplikáciu v praxi, čo môže viesť k dlhodobému úspechu a
+udržateľnému rastu organizácií na trhu. Ako ďalší krok odporúčame hlbšie skúmať
+interakciu medzi týmito psychologickými faktormi a ďalšími promennými, ako sú
+ekonomické cykly, trendy v digitálnom správaní a zmeny v legislatíve, ktoré môžu
+ovplyvniť ich účinnosť a aplikáciu v reálnom svete. Zároveň odporúčame zvážiť možnosť
+vykonania podrobnejšieho výskumu s väčším rozsahom vzorky a diverzitou demografických
+a geografických charakteristík, aby sme posilnili externe platnosť našich zistení a umožnili
+ich aplikáciu na širšiu škálu trhov a kultúrnych kontextov.
+Na záver je kľúčové aj neustále sledovať a adaptovať naše odporúčania v závislosti na
+nových trendoch a zmenách v spotrebiteľskom správaní, aby sme zabezpečili ich dlhodobú
+relevantnosť a účinnosť pre firmy v modernom obchodnom prostredí.
+
+Zoznam použitej literatúry
+SCIENCE DIRECT. Consumer Psychology [online]. ScienceDirect,. Dostupné na: <
+https://www.sciencedirect.com/topics/psychology/consumer-psychology/>.
+MOTHERSBAUGH, D., KLEIDER, S., HAWKINS, D. Consumer Behavior: Building
+Marketing Strategy – 11th edition. New York: McGraw-Hill/Irwin, 2009, s. 6. ISBN 978-007-338110-7
+51
+
+LUENENDONK, M. 4 Types Of Consumer Buying Behavior & How to Leverage Them
+[online]. Founderjar. Dostupné na: < https://www.founderjar.com/types-of-consumerbuying-behavior/>.
+SYDORENKO, N. Buyer behavior [online]. Snovio, 07.04.2023. Dostupné na:
+<https://snov.io/glossary/buyer-behavior/>.
+WOOD, W., NEAL, D. The habitual consumer [online]. ResearchGate, November 2009.
+Dostupné
+
+na:
+
+<https://www.researchgate.net/publication/228742060_The_habitual_consumer/>.
+ZHANG, Y. Variety-Seeking Behavior in Consumption: A Literature Review and Future
+Research
+
+Directions
+
+[online].
+
+Frontiers,
+
+06.06.2022.
+
+Dostupné
+
+na:
+
+<https://www.frontiersin.org/articles/10.3389/fpsyg. 2022.874444/full/>.
+QUICKBOOKS CANADA TEAM. Understanding Consumer Behaviour: The Four Factors
+[online].
+
+QuickBooks
+
+07.05.2018.
+
+Blog,
+
+Dostupné
+
+na:
+
+<https://quickbooks.intuit.com/ca/resources/marketing/four-factors-consumerbehaviormarketing/>.
+SHETHNA, J., THAKUR, M. Consumer Behavior [online]. EDUCBA, 27.04.2023.
+Dostupné na: <https://www.educba.com/4-factors-influencing-consumer-behaviour/>.
+WILLCOX, M. How To Understand What’s Stopping Customers From Doing What You
+Want
+
+Them
+
+To
+
+Do
+
+[online].
+
+InsideBE.
+
+Dostupné
+
+na:
+
+<https://insidebe.com/articles/understand-your-customers-barriers/>.
+LEKOVSKÁ, A. Typy temperamentov [online]. Psychoblog, 17.03.2023. Dostupné na:
+<https://psychoblog.sk/typy-temperamentov/>.
+ERIKSON, T. Obklopený idiotmi. Bardejov: Motýľ, 2019, s. 45. ISBN 978-8-08-164187-9
+LASKEY, M. Human Temperaments: Why Every Marketer Needs to Know About Them
+[online]. LinkedIn, 10.03.2017. Dostupné na: <https://www.linkedin.com/pulse/humantemperaments-why-every-marketer-needs-know-them-morgan-laskey/>.
+WIZARD OF SALES. The 4 Humors Of Buyers (And How To Sell To Each) [online]. The
+Wizard of Sales, 12.07.2022, Dostupné na: <https://sellingrevolution.com/blog/the-4humors-of-buyers-and-how-to-sell-to-each/>.
+CIALDINI, B. R. Influence: The Power of Persuasion. New York: HarperCollins Publishers,
+2007, s. 9. ISBN 978-0-06-124189-5
+
+52
+
+ŠUCHA, M. Spotrebiteľské správanie [online]. Digitálna Univerzita, 2021. Dostupné na: <
+https://www.digitalnystudent.sk/student/lekcia/12/>.
+MORAVSKÁ, S. Využitie psychológie v marketingu a v reklamách [online]. Univerzita
+Komenského v Bratislave, 2022. Dostupné na:
+<https://opac.crzp.sk/?fn=docview2ChildW1QKIM&record=72A4E145D65F5DA0BE473
+E0B29C0&seo=CRZP-Prehliadanie-pr%C3%A1c
+FASTER CAPITAL. Social Proof in Action: Real Life Case Studies that Persuade [online].
+FasterCapital, 22.12.2023. Dostupné na: <https://fastercapital.com/content/Social-Proof-inAction--Real-Life-Case-Studies-that-Persuade.html#How-Airbnb-Leveraged-UserReviews-to-Build-Trust-/>.
+STESSMAN, E. Yes, dermatologists really do recommend CeraVe — here are their top
+picks
+
+from
+
+the
+
+brand
+
+[online].
+
+TODAY,
+
+15.05.2023.
+
+Dostupné
+
+na:
+
+<https://www.today.com/shop/best-cerave-products-t286148/>.
+LANE, T. Blake Lively & Olivia Wilde Swear By CeraVe, Here Are 5 Products Worth
+Adding to Your Skincare Routine [online]. Yahoo Finance, 23.02.2023. Dostupné na:
+<http://tinyurl.com/ysek7yxa/>.
+TARDINE, A. Best of 2020 No. 30: Eva Longoria Dyes Her Graying Roots at Home for
+L'oreal [online]. AdAge, 04.05.2020. Dostupné na: <https://adage.com/creativity/work/best2020-no-30-eva-longoria-dyes-her-graying-roots-home-loreal/2254376/>.
+INVELITY. Kto je influencer a na čo slúži influencer marketing? [online]. Invelity,
+09.06.2023. Dostupné na: <https://www.invelity.com/blog/kto-je-influencer-na-co-sluziinfluencer-marketing/>.
+MEMON, M. 7 FOMO Marketing Ideas You Can Start Using Today For More Conversions
+[online].
+
+ConvertFlow,
+
+17.12.2021.
+
+Dostupné
+
+na:
+
+<https://www.convertflow.com/blog/fomo-marketing-ideas/>.
+MONOS, B. The psychology behind discounts and how it can benefit your business [online].
+Fiverr blog, 22.08.2023. Dostupné na: <https://blog.fiverr.com/post/the-psychology-behinddiscounts-and-how-it-can-benefit-your-business/>.
+JAKUBÍK, O. Psychológia v marketingu [online]. Digitálna Univerzita, 2021. Dostupné na:
+<https://www.digitalnystudent.sk/student/lekcia/12/>.
+
+53
+
+FESSENDEN, N. The Principle of Commitment and Behavioral Consistency [online].
+Nielsen
+
+Norman
+
+Group,
+
+04.03.2018.
+
+Dostupné
+
+na:
+
+<https://www.nngroup.com/articles/commitment-consistency-ux/>.
+ROBERTSON-ADAMS, G. 5 Commitment and Consistency Examples in Marketing
+[online]. GROWSURF, 19.06.2021. Dostupné na: <https://growsurf.com/blog/commitmentconsistency-principle/>.
+GÁLIK, S. Psychologie přesvědčování. Praha: Grada Publishing, a.s., 2012, s. 48. ISBN
+978-80-247-4247-2
+USERPILOT. Reciprocity Marketing: How It Can Work Wonders for SaaS [online].
+Userpilot
+
+blog,
+
+14.11.2022.
+
+Dostupné
+
+na:
+
+<https://userpilot.com/blog/reciprocity-
+
+marketing/>.
+HUM, S. How To Use Reciprocity In Marketing (+10 Killer Examples) [online].
+ReferralCandy,
+
+27.12.2022.
+
+Dostupné
+
+na:
+
+<https://www.referralcandy.com/blog/reciprocity-marketing-examples/>.
+SOLOMON, M. R., WHITE, K., DAHL, D. W. Consumer Behaviour: Buying, Having,
+Being. 8th Canadian Edition. Toronto: Pearson Canada, 2018, s. 18. ISBN 978-8-12033833-3
+SCIENCE DIRECT. Setting the future of digital and social media marketing research:
+Perspectives and research propositions [online]. Volume 59, 01.08.2021. Dostupné na:
+<https://www.sciencedirect.com/science/article/pii/S0268401220308082/>.
+COLGATE. Colgate Dentist DRTV [online]. CrotonPublishing, 20.10.2009. Dostupné na:
+<https://www.youtube.com/watch?v=8ULR68LTmbw/>.
+
+54
+
+Prílohy
+Príloha 1: Dotazníkový prieskum
+
+55
+
+Obrázok 3 Dotazníkový prieskum 1/8
+
+Zdroj: Google Forms
+
+Obrázok 4 Dotazníkový prieskum 2/8
+
+56
+
+Zdroj: Google Forms
+
+Obrázok 5 Dotazníkový prieskum 3/8
+
+57
+
+Zdroj: Google Forms
+
+Obrázok 6 Dotazníkový prieskum 4/8
+
+58
+
+Zdroj: Google Forms
+
+Obrázok 7 Dotazníkový prieskum 5/8
+
+59
+
+Zdroj: Google Forms
+
+Obrázok 8 Dotazníkový prieskum 6/8
+
+60
+
+Zdroj: Google Forms
+
+Obrázok 9 Dotazníkový prieskum 7/8
+
+61
+
+Zdroj: Google Forms
+
+Obrázok 10 Dotazníkový prieskum 8/8
+
+62
+
+Zdroj: Google Forms
+
+63
+
+

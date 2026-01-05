@@ -1,0 +1,4613 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE SV.
+ALŽBETY BRATISLAVA, N. O.
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+18 0841
+
+INFORMOVANOSŤ LAICKEJ VEREJNOSTI O POSTUPOCH
+PRVEJ POMOCI PRI AKÚTNOM INFARKTE MYOKARDU
+DIPLOMOVÁ PRÁCA
+
+2024
+
+Bc. FRANTIŠEK PELIKÁN
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA, N. O.
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+INFORMOVANOSŤ LAICKEJ VEREJNOSTI O POSTUPOCH
+PRVEJ POMOCI PRI AKÚTNOM INFARKTE MYOKARDU
+DIPLOMOVÁ PRÁCA
+
+Študijný program: Ošetrovateľstvo
+Študijný odbor:
+
+5602 Ošetrovateľstvo
+
+Školiace pracovisko: Ústav zdravotníckych disciplín, VŠZ a SP sv. Alžbety v
+Bratislave
+Školiteľ:
+
+BRATISLAVA 2024
+
+PhDr. Mariana Hammelová, PhD.
+
+Bc. FRANTIŠEK PELIKÁN
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že som predloženú záverečnú prácu vypracoval samostatne s použitím
+uvedenej literatúry v ZOZNAME POUŽITEJ LITERATÚRY.
+
+Bratislava 2024
+
+.....................................................
+Bc. František Pelikán
+
+POĎAKOVANIE
+Týmto ďakujem mojej školiteľke PhDr. Mariane Hammelovej, PhD, za odborné rady, ochotu
+a usmernenie pri písaní tejto záverečnej práce. Poďakovanie zároveň patrí mojej rodine a
+priateľom, za ich podporu a pomoc.
+
+ABSTRAKT
+PELIKÁN, František: Informovanosť laickej verejnosti o postupoch prvej pomoci pri akútnom
+infarkte myokardu [Diplomová práca]/ Bc. František Pelikán – Vysoká škola zdravotníctva a
+sociálnej práce sv. Alžbety, Bratislava: Katedra ošetrovateľstva. Školiteľ: PhDr. Marianna
+Hammelová, PhD. Stupeň odbornej kvalifikácie: Magister ošetrovateľstva. Vysoká škola
+zdravotníctva a sociálnej práce sv. Alžbety 2024, 84 strán.
+Úvod: Obsahom diplomovej práce je problematika informovanosti laickej verejnosti
+o postupoch prvej pomoci pri akútnom infarkte myokardu. Predložená práca sa skladá z dvoch
+častí, a to teoretických východísk a praktickej časti. Úvodné teoretické východiská obsahujú
+teoretické poznatky o problematike infarkte myokardu. Ďalej sa teoretické východiská venujú
+infarktu myokardu, prvej pomoci pri akútnom zlyhaní srdca a informovanosti laickej verejnosti
+pri poskytovaní prvej pomoci pri akútnom infarkte myokardu.
+Metódy: Praktická časť pozostáva z prieskumu. Prieskum sa realizoval pomocou
+neštandardizovaného dotazníka, ktorý pozostával z 19 otázok. Podarilo sa nám osloviť 86
+respondentov z laickej verejnosti.
+Výsledky prieskumu: Analýzou sme zistili, že až 77,91 % respondentov nevie poskytnúť prvú
+pomoc pri akútnom infarkte myokardu pokiaľ nie je prítomný zdravotník. 22,09 %
+respondentov je schopných poskytnúť prvú pomoc pri akútnom infarkte myokardu bez
+prítomnosti zdravotníka.
+Diskusia: Informovanosť laickej verejnosti o postupoch prvej pomoci pri akútnom infarkte
+myokardu závisí od možností vzdelania a poskytnutých kurzoch základnej prvej pomoci.
+Záver: Poskytovanie prvej pomoci laickou verejnosťou by malo predstavovať vždy aktuálnu
+tému a je dôležité venovať tejto oblasti vysokú pozornosť, nakoľko platí, že najdôležitejšie pre
+záchranu života je včasné poskytnutie prvej pomoci.
+Kľúčové slová: infarkt myokardu, prvá pomoc, laická verejnosť, kurzy prvej pomoci
+
+ABSTRACT
+PELIKÁN, František: Informing the lay public about first aid procedures for acute myocardial
+infarction [Diploma Thesis]/ Bc. František Pelikán – St. Elisabeth University of Health Care
+and Social Work in Bratislava, Department of Nursing. Supervisor: PhDr. Marianna
+Hammelová, PhD. Degree of expert qualifications: Magister of Science in Nursing. St.
+Elisabeth University of Health Care and Social Work in Bratislava 2024, 84 pages.
+
+Introduction: The content of the Diploma Thesis is the issue of informing the lay public about
+first aid procedures for acute myocardial infarction. The presented work consists of two parts,
+the theoretical starting points and the practical part. The introductory theoretical starting points
+contain theoretical knowledge about the issue of myocardial infarction. Furthermore, the
+theoretical starting points are devoted to myocardial infarction, first aid in acute heart failure
+and awareness of the lay public in providing first aid in acute myocardial infarction.
+Methods: The practical part consists of research. The research was carried out using a nonstandardized questionnaire consisting of 19 questions. We managed to reach 86 respondents
+from the lay public.
+Research results: Through the analysis we found out that up to 77,91 % of the respondents do
+not know how to provide first aid in case of an acute myocardial infarction, unless a medical
+professional is present. 22,09 % of the respondents are able to provide first aid for an acute
+myocardial infarction without the presence of a medical professional.
+Discussion: The awareness of lay public by first aid procedures for acute myocardial infarction
+depends on educational opportunities and basic first aid courses provided.
+Conclusion: The providing of first aid by the lay public should always be a current topic and it
+is important to pay great attention to this area, as it is still valid that the most important thing
+for saving a life is the timely provision of first aid.
+
+Key words: myocardial infarction, first aid, lay public, first aid courses
+
+Obsah
+ABSTRAKT
+ABSTRACT
+ZOZNAM ILUSTRÁCII, GRAFOV A TABULIEK
+ZOZNAM SKRATIEK A SYMBOLOV
+ÚVOD ...................................................................................................................................... 11
+1 Súčasný stav riešenej problematiky - Infarkt myokardu ................................................ 13
+1.1 Patologická charakteristika infarktu myokardu ...................................................... 15
+1.2 Elektrokardiograf EKG .............................................................................................. 18
+1.3 História prvej pomoci pri infarkte myokardu .......................................................... 19
+1.4 Prevencia proti infarktu myokardu ........................................................................... 25
+2 Informovanosť laickej verejnosti o infarkte myokardu na Slovensku .......................... 27
+2.1 Automatizovaný externý defibrilátor ......................................................................... 31
+3 METODIKA PRÁCE A METÓDY SKÚMANIA ........................................................... 33
+3.1 PREDMET PRIESKUMU .......................................................................................... 33
+3.2 CIELE PRIESKUMU.................................................................................................. 33
+3.3 METODIKA PRIESKUMU ....................................................................................... 34
+3.4 CHARAKTERISTIKA PRIESKUMNEJ VZORKY ............................................... 35
+3.5 ORGANIZÁCIA A REALIZÁCIA PRIESKUMU .................................................. 35
+4 VÝSLEDKY PRIESKUMU ............................................................................................... 35
+4.1 VYHODNOTENIE JEDNOTLIVÝCH OTÁZOK .................................................. 36
+4.2 VYHODNOTENIE PRIESKUMNÝCH OTÁZOK ................................................. 52
+5 DISKUSIA............................................................................................................................ 65
+ODPORÚČANIA PRE PRAX .............................................................................................. 70
+ZÁVER .................................................................................................................................... 71
+ZOZNAM POUŹITÝCH ZDROJOV............................................................................... 72
+PRÍLOHY ............................................................................................................................... 78
+
+ZOZNAM ILUSTRÁCIÍ, GRAFOV A TABULIEK
+
+Tabuľka 1: Pohlavie respondentov
+Tabuľka 2: Vek respondentov
+Tabuľka 3: Povolanie respondentov
+Tabuľka 4: Najvyššie dosiahnuté vzdelanie
+Tabuľka 5: Prekonanie infarktu myokardu
+Tabuľka 6: Skúsenosť s poskytovaním prvej pomoci
+Tabuľka 7: Možnosť sledovania poskytovania prvej pomoci
+Tabuľka 8 Teoretické znalosti pri poskytovaní prvej pomoci
+Tabuľka 9: Informovanosť laickej verejnosti o poskytovaní prvej pomoci
+Tabuľka 10: Postup pri infarkte myokardu bez prítomnosti zdravotníka
+Tabuľka 11: Sprievodné príznaky pri náhlom zlyhaní srdca
+Tabuľka 12 Postup pri zachránení človeka s náhlym zlyhaním srdca
+Tabuľka 13: Ďalšie kroky pomoci pri akútnom infarkte myokardu
+Tabuľka 14: Vedomosť o automatickom externom defibrilátore (AED)
+Tabuľka 15: Vedomosť o umiestnení defibrilátorov AED
+Tabuľka 16: Možnosť použitia defibrilátora AED v prípade zlyhania srdca
+Tabuľka 17: Vyhodnotenie prieskumnej otázky 1
+Tabuľka 18: Vyhodnotenie prieskumnej otázky 2
+Tabuľka 19: Vyhodnotenie prieskumnej otázky 3
+Tabuľka 20: Vyhodnotenie prieskumnej otázky 4
+Obrázok 1: Krivka EKG
+Obrázok 2: Zoznam informácií, ktoré poskytuje Únia pre zdravšie srdce na webovej stránke
+www.presrdce.eu
+Obrázok 3: Mapa AED na Slovensku
+Graf 1: Úmrtnosť na srdcovocievne ochorenia v roku 2014
+Graf 2: Štruktúra odvrátiteľných úmrtí v Európskej únii v roku 2015
+
+ZOZNAM SKRATIEK A SYMBOLOV
+
+AED
+
+Automatický externý defibrilátor
+
+AIM
+
+Akútny infarkt myokardu
+
+AKVR
+
+Ambulantná kardiovaskulárna rehabilitácia
+
+BLS
+
+Basic Life Support
+
+CABG
+
+Aortokoronárny bypass
+
+CMR
+
+Magnetická rezonancia srdca
+
+EKG
+
+Elektrokardiografické vyšetrenie
+
+IKEM
+
+Inštitút klinickej a experimentálnej medicíny
+
+IM
+
+Infarkt myokardu
+
+KVO
+
+Kardiovaskulárne ochorenia
+
+PKI
+
+Perkutánna koronárna intervencia
+
+PTCA
+
+Perkutánna transluminálna koronárna angioplastika
+
+SP
+
+Sekundárna prevencia
+
+MZ SR
+
+Ministerstvo zdravotníctva Slovenskej republiky
+
+ÚVOD
+„Sú bolesti, v ktorých človek iba sám si môže pomôcť, a silné srdce sa chce iba na svoju silu
+spoľahnúť.“ William Shakespeare
+Zdroj: https://citaty-slavnych.sk/srdce/
+Každý deň sme svedkami zázraku, keď sa zobudíme a vieme sa zhlboka nadýchnuť a precítiť
+naše srdce ako bije. Srdce je dôležitý orgán v ľudskom tele, ktorý má za úlohu pumpovať krv
+do celého organizmu. Človek dokáže prežiť bez žlčníka ale bez srdca to nejde. Je to nevyhnutný
+orgán pre náš život.
+V súčasnosti je ale na Slovensku vysoký podiel ochorení srdca, z ktorých každé piate ochorenie
+vedie k úmrtnosti, čím si zaslúžilo prvé miesto v najčastejších príčinách úmrtnosti v Slovenskej
+republike. Mnoho ľudí netuší, že má ochorenie srdca, až pokým nepríde na akútny infarkt
+myokardu. A fakty hovoria jasne. Toto ochorenie nebolí.
+Pri srdcovom zlyhávaní ide o stav, kedy srdce ako náš zásobovací orgán, nie je schopný
+zabezpečiť prečerpávanie krvi do organizmu v dostatočnej potrebnej miere a zásobovať ľudské
+orgány a tkanivá kyslíkom a živinami. Toto zlyhávanie môže byť dlhodobý jav po niekoľko
+mesiacov či rokov, kedy postihnutý človek nemusí o tomto zlyhávaní tušiť. Preto sa odborníci
+zhodujú, že treba na Slovensku posilniť vzdelávanie o ochorení ako aj systém starostlivosti o
+pacientov, keďže v našej krajine je stále nízky záujem o preventívne prehliadky.
+Informovanosť laickej verejnosti o poskytovaní prvej pomoci pri akútnom infarkte myokardu
+je zabezpečené pomocou dostupných overených informácií na stránkach Ministerstva
+zdravotníctva Slovenskej republiky, Slovenského červeného kríža ako poskytovateľov kurzov
+prvej pomoci alebo napríklad aj televízneho seriálu Záhady tela. Na Slovensku pôsobí
+Občianske združenie Únia pre zdravšie srdce, ktorá poskytuje informácie a podporu o
+ochoreniach srdca a ciev a ktokoľvek sa môže na toto občianske združenie obrátiť.
+Ciele predloženej diplomovej práce je možné rozdeliť na teoretické východiská a praktické
+ciele. Prvým teoretickým cieľom je spracovanie prejavov, príznakov, prevencie, diagnostiky
+a liečby infarktu myokardu. Druhý cieľ diplomovej práce sa týka charakterizácie postupov
+11
+
+prvej pomoci. Praktické ciele predloženej diplomovej práce sú taktiež dva a konkrétne ide
+o vypracovanie prieskumu na tému Informovanosť laickej verejnosti o postupoch prvej pomoci
+pri akútnom infarkte myokardu a vypracovanie odporúčaní pre prax.
+V časti diskusia sme porovnali výsledky nášho prieskumu s doterajším stavom problematiky.
+Najvýznamnejšia literatúra opisujúca doterajší stav problematiky bola použitá z nasledovných
+zdrojov: NCZI (2022), SITA, Ministerstvo zdravotníctva Slovenskej republiky (2017)
+a záverečné práce Konečná (2014), Semancová (2016), Juščáková (2023).
+
+12
+
+1
+
+Súčasný stav riešenej problematiky - Infarkt myokardu
+„Ľudský organizmus potrebuje transportný a zásobovací systém, ktorý dokáže
+uspokojiť požiadavky tkanív za každého funkčného stavu“ (Binovský et al., 2001, s. 59).
+
+Podľa Covisa (2004) má kardiovaskulárny systém za úlohu zabezpečiť dostatočné a celkové
+prekrvenie všetkých orgánov, ktoré tvoria ľudský organizmus. Kardiovaskulárny systém sa
+skladá zo srdca, z bohatého riečiska tepien a žíl. Srdce je sval, ktorý je kontrolovaný
+autonómnym, resp. vôľou neovládateľným nervovým systémom. Srdce je schopné biť rôznou
+frekvenciou v závislosti od potrieb organizmu, ktoré rozoznáva náš mozog v momentálnom
+stave. Ako každý iný orgán v ľudskom tele, aj srdce potrebuje kyslík a výživné látky cirkulujúce
+v krvi. Koronárne tepny v dobrom stave sú zárukou správnej funkcie srdca, a tým aj
+dostatočného prívodu krvi do všetkých orgánov nášho tela.
+Trojan (2003) špecifikuje prevodový systém srdca. Tento systém je tvorený špeciálnymi
+bunkami, ktoré majú schopnosť vyvolávať vzruchy a sú vedené vysokou rýchlosťou. Spôsobujú
+sťah srdca, keďže dokážu aktivovať bunky myokardu. Medzi najhlavnejšie znaky srdcovej
+činnosti sa riadia samočinnosť, rytmicita a autonómia. Pomocou samočinnosti sú v srdci
+samostatne vytvárané impulzy, ktoré sa pravidelne opakujú a vyvolávajú kontrakciu svalu.
+Vďaka rytmicite srdca dochádza k pravidelným vzruchom a autonómia umožňuje srdcu
+parciálnu nezávislosť a touto vlastnosťou sa odlišuje od iných svalových orgánov tela. Časti
+prevodového systému srdca sú od myokardu oddelené spojivovým tkanivom.
+Podľa Americkej asociácie srdcových ochorení (2023) infarkt myokardu nastane v momente,
+keď prietok krvi bohatý na kyslík prinášaný do srdcového svalu je v značnej miere obmedzený
+alebo úplne odrezaný. Veľakrát je dôvodom hromadenie tuku, cholesterol alebo iné látky, ktoré
+vo veľkej miere zužujú koronárne tepny. Tento stav sa nazýva ateroskleróza. Keď sa plak v
+srdcovej tepne rozbije, dôjde ku krvnej zrazenine. Zrazenina v značnej miere ovplyvňuje
+prietok krvi. Keď je prietok krvi úplne pozastavený, časť svalov začína odumierať. Poškodenie
+sa zvyšuje, keď zostáva tepna dlhšiu dobu zablokovaná. Keď nastane odumretie častí srdcového
+svalu, výsledkom je trvalé poškodenie srdca. Množstvo tohto poškodenia je závislé od veľkosti
+plochy zásobovania konkrétnej tepny a čas, kedy je následná liečba poskytnutá. Zablokovaná
+
+13
+
+tepna by mala byť otvorená a prečistená čím skôr, aby sa eliminovalo poškodenie srdca
+akéhokoľvek formátu.
+História nálezu a definície infarktu myokardu
+Rokyta a kol. (2019) urobili súhrn dokumentu Českej kardiologickej spoločnosti, ktorý sa
+venuje histórii nálezu infarktu myokardu. Už koncom 19.storočia boli dokázané pitevné nálezy
+medzi trombotickým uzáverom koronárnej tepny a infarktom myokardu. Nasledovne sa
+začiatkom 20.storočia objavil prvý klinický zápis, ktorý jasne opisuje spojenie klinických
+prejavov, ktoré sú príznačné pri infarkte. Česká kardiologická spoločnosť ďalej informuje, že
+Svetová zdravotnícka organizácia v rokoch 1950 až 1970 stanovila oficiálnu definíciu infarktu
+myokardu, ktorá bola primárne postavená na základe elektrokardiografického (EKG)
+vyšetrenia.
+Ako uvádza Hajar (2016), pred vyše stopäťdesiat rokmi historik Virchov dosiahol konsenzus
+názorov, že trombóza je výsledkom zmien v prietoku krvi, čo je jedným z výsledkov aj infarktu
+myokardu. Mnohým kardiológom trvalo dlho, pokiaľ pochopili patogenézu infarktu myokardu
+a oficiálna definícia bola trikrát revidovaná, a to v roku 1970, následne v rokoch 2000 a 2012.
+Pokiaľ sa vrátime do minulosti v roku 1879 dospel patológ Ludvig Hektoen k názoru, že infarkt
+myokardu je spôsobený koronárnou trombózou. Patofyziológia tejto klinickej jednotky je
+charakterizovaná porušením koronárneho plaku so superponovanou tvorbou trombu, čo vedie
+k ischémii myokardu, a tým k poškodeniu myokardu. Klinicko-patologický proces podľa autora
+nebol objasnený až do začiatku 20. storočia. Spočiatku sa tiež predpokladalo, že choroba je
+smrteľná, ale začiatkom 20. storočia sa zistilo, že infarkt myokardu môže spôsobiť smrť ale aj
+nemusí, preto sa lekári začali sústreďovať na liečbu. Lekár James Herrick v roku 1912 stanovil
+za dôležitý pokoj na lôžku v prípade prvých príznakov. Je to vlastne jedinou podpornou liečbou
+až do roku 1961. Potom modernejšia terapia zahŕňala antiarytmickú farmakologickú
+intervenciu, ktoré znižovali mortalitu pri tomto ochorení. V roku 1999 bola zverejnená nová
+definícia infarktu myokardu, pričom je zdôraznená dôležitosť citlivých sérologických
+biomarkerov pre diagnostiku akútneho infarktu myokardu. Spoločnosti Joint European Society
+of Cardiology a American College of Cardiology zaviedli srdcové troponíny ako zlatý štandard
+pri diagnostike AIM. Definícia bola však revidovaná v roku 2012 kvôli dôležitým objavom a
+vývoju v diagnostike srdcových ochorení a za najdôležitejšie srdcové biomarkery sa považujú
+izoenzym CK-MB a troponíny.
+14
+
+1.1 Patologická charakteristika infarktu myokardu
+Rokyta a kol. (2019) opisujú klinické prejavy infarktu myokardu. Klinicky môže byť táto
+ischémia myokardu najčastejšie rozpoznaná na základe anamnézy a už spomínaného EKG
+vyšetrenia. Medzi symptómy ischémie nepatrí len jeden prejav, ale väčšinou sú to rôzne
+kombinácie prejavov. Ide o bolesť na hrudníku, bolesť horných končatín, dýchavičnosť, únava
+a mnoho ďalších. Diskomfort v ľudskom tele je veľakrát roztrúsený a difúzny, nikdy nie bodový
+a nie je závislý na polohe tela ani na jeho pohyboch.
+Magnetická rezonancia srdca podľa Moťovskej (2016) nám umožňuje zobraziť anatómiu srdca
+a je rovnako aj sprostredkovateľom kvantitatívneho posúdenia a diagnostiky nie len tkanív ale
+aj orgánov celého tela. Táto metóda je založená na počínaní protónov vodíka v ľudskom
+organizme, ktoré sa nachádzajú v silnom magnetickom poli. Rádiové vlny, ktoré sú tvorené
+meracím zariadením menia charakter spomínaného vodíka a potom sú tieto transformácie
+zachytené a zobrazené. Tkanivá v ľudskom tele sa vyskytujú rôznorodo, a preto je magnetická
+rezonancia alebo aj CMR veľmi senzitívnym vyšetrením na detekciu akejkoľvek nezhody.
+Pomocou tohto merania lekár obsiahne informácie o stavbe a funkcii srdca, anatómii tepien,
+rovnako aj o prúdení a prietoku krvi v myokarde. Magnetická rezonancia pri akútnom zlyhaní
+srdca slúži tiež na hodnotenie výsledku revaskularizácie, na posúdenie následnej
+rekonvalescencie a dlhodobej prognózy, ďalej odhalenie krvnej zrazeniny, posúdenie
+funkčnosti komôr srdca a trvanie celkového infarktového poškodenia.
+Klasifikácia jednotlivých typov infarktu
+Podľa Ministerstva zdravotníctva Slovenskej republiky, konkrétne autorov Studenčan a
+Kamenský (2021), sa infarkt myokardu delí na tieto typy:
+●
+
+infarkt
+
+myokardu,
+
+ktorý
+
+vznikol
+
+v
+
+dôsledku
+
+ischémie
+
+spôsobenou
+
+aterotrombózou (vzniká poväčšinou ako komplikácia aterosklerotického plaku,
+čiže ruptúry alebo erózie),
+●
+
+infarkt myokardu, ktorý je spôsobený ischémiou. V dôsledku tejto ischémie
+dochádza k nerovnováhe medzi požiadavkou myokardu na kyslík a ponukou na
+jeho stavy ako napríklad arytmia, anémia, hypertenzia, hypotenzia a iné.
+
+15
+
+●
+
+smrteľný infarkt myokardu bez dostupnosti biomarkerov (to znamená, že smrť
+je sprevádzaná symptómami ischémie s ischemickými zmenami EKG alebo
+komorovou fibriláciou. V tomto prípade biomarkery nestihli byť odobrané alebo
+smrť nastala vo veľmi skorej dobe, že k vyplaveniu biomarkerov nestihlo ešte
+prísť.
+
+●
+
+Infarkt myokardu v súvislosti s perkutánnou koronárnou intervenciou (PKI), v
+súvislosti s trombózou stentu, v súvislosti s restenózou stentu
+
+●
+
+Infarkt myokardu v súvislosti s aortokoronárnym bypassom (CABG).
+
+Kritériá pre akútny infarkt myokardu
+Podľa Chaudryho a kol. (2021) vzniká infarkt myokardu dôsledkom nedostatočného prekrvenia
+srdcového svalu a prejavom je následná ložisková nekróza myokardu. Aby sa infarkt myokardu
+mohol považovať za akútny, je nutné, aby bolo splnených päť nižšie spomenutých kritérií:
+1. Zistenie vzrastu alebo poklesu úrovne srdcových biomarkerov - zistenie
+biomarkerov sa najlepšie určuje pomocou troponínu, kde jedna hodnota
+najmenej prevyšuje 99. Vtedy sa symptómy nedostatočného prekrvenia
+srdcového svalu prejavujú ako bolesť na hrudi.
+2. Smrť spôsobená srdcovým pôvodom, ktorému nasvedčovali klinické príznaky
+ischémie či nové zmeny na EKG, pokiaľ smrť nastala pred vyšetrením
+srdcových biomarkerkov alebo skôr pred vzrastom biomarkerov.
+3. Ďalším kritériom je, keď infarkt myokardu bol spojený s perkutánnom
+koronárnou intervenciou. V tomto prípade tu môže byť prítomnosť regionálnej
+poruchy v hybnosti srdcovej steny.
+4. Trombóza stentu súvisiaca s infarktom myokardu je preukázaná pri koronárnej
+angiografii alebo pri pitve v podmienkach myokardiálnej ischémie a so
+zvýšenou či zníženou koncentráciou srdcových biomarkerov, z ktorých je ale
+aspoň jeden nad 99 percentilom hornej referenčnej hodnoty.
+5. Infarkt myokardu je spojený s vykonaním koronárneho bypassového zákroku a
+vzrastom koncentrácie troponínu, ktorá je desaťkrát vyššia než horná hranica
+normálu.
+
+16
+
+Na diagnostiku akútneho infarktu myokardu podľa Ďurovcovej a kol. (2020) je potrebná
+prítomnosť dynamiky zmien srdcového troponínu cTn, čo je biochemický parameter pri
+infarkte myokardu. Pri typickej dynamike zmien cTn sa zisťuje vzostup alebo pokles
+koncentrácie srdcového troponínu v závislosti od načasovania odberov spolu s ďalšími dôkazmi
+myokardiálnej ischémie, ku ktorým sa môžu priraďovať klinické prejavy ischémie, EKG
+abnormality, abnormálny nález a iné. Autori tiež uvádzajú, že zvýšené hladiny cTn indikujú
+srdcové poškodenie, ale stále nie je známe čo je príčinou srdcového poškodenia. Preto je veľmi
+dôležité, aby interpretácia kardiálnych biomarkerov bola nevyhnutnou podmienkou správnej
+diagnostiky v kontexte klinickej situácie. Využitie biochemických parametrov cTn v
+diagnostike infarktu myokardu závisí od načasovania odberov krvi a od použitia rozhodovacích
+limitov a na toto potvrdenie sú potrebné minimálne dva odbery. Je dôležité poznamenať, že ani
+negatívny výsledok vo vzorke odobratej po nástupe bolesti okolo jednej až dvoch hodín
+nevylučuje akútny infarkt myokardu. Až hodnota negatívneho charakteru odobratá šesť hodín
+po nástupe bolesti vylučuje AIM, ale vždy je potrebné viacero meraní a elektrokardiograf EKG
+je jedným z hlavných ukazovateľov.
+Mendis (2010) tvrdí, že termín infarkt myokardu by sa mal správne použiť vtedy, ak existuje
+dôkaz nekrózy myokardu v klinickom prostredí, ktoré je v súlade s ischémiou myokardu.
+Nasledujúce kritériá spĺňajú diagnózu akútneho infarktu myokardu, to znamená, keď detekcia
+vzostupu a/alebo poklesu srdcových biomarkerov, najlepšie troponínu, s aspoň jednou
+hodnotou nad 99. percentilom hornej referenčnej hranice a spolu s hodnotou aj dôkaz ischémie
+myokardu s aspoň jedným z nižšie uvedených symptómov:
+●
+
+symptóm ischémie, diskomfort hrudníka, diskomfort hornej končatiny, čeľuste, tento
+diskomfort nie je lokalizovaný ale difúzny pozdĺž tela, nie je ovplyvnený pohybom tela,
+čiže nie je polohový a je sprevádzaný nevoľnosťou alebo synkopou
+
+●
+
+zmeny EKG svedčiace o ischémii
+
+●
+
+vývoj patologických Q vĺn na EKG prístroji
+
+●
+
+žiadne jednoznačné patologické vlny Q na prvom EKG alebo viacerých súborov EKG,
+po ktorých nasleduje záznam vlny Q
+
+●
+
+V4-V6 v ľubovoľných zvodoch súvislého zoskupenia zvodov (popísané v podkapitole
+Elektrokardiograf EKG)
+
+●
+
+zobrazovacie dôkazy straty životaschopného myokardu alebo novej abnormality
+pohybu regionálnej steny.
+17
+
+1.2
+
+Elektrokardiograf EKG
+
+Ako uvádzajú Špinar a kol. (2003), elektrokardiograf je prístroj, ktorý sa používa v oblasti
+kardiológie a je prvou voľbou výberu prístroja u pacientov, u ktorých sa objavila hrudníková
+bolesť. Výsledkom aktivácie prístroja EKG je krivka, ktorá sa nazýva kardiogram. Táto krivka
+pozorne sleduje zmeny elektrickej aktivity a vďaka nej je možné určiť poškodenie vzniku a
+šírenie vzruchu v myokarde, a tým zistiť, aký rozsah má infarkt myokardu.
+Poliklinika Profy, konkrétne autor Staríček (2021) hovorí o EKG ako o zobrazovacej metóde
+činnosti srdca, na základe ktorej dokážu lekári vyhodnotiť rozsah poškodenia srdcového svalu
+pri akútnom infarkte myokardu. Je veľmi dôležité dodať, že pri podozrení na AIM je nutné
+vykonať viacero záznamov EKG v priebehu 15-20 minút, respektíve dôležitým faktorom je aj
+kontinuálne napojenie na EKG monitoring.
+Spoločnosť Medihum (2022), ktorá je výrobcom elektrokardiografov, podrobne opisuje EKG
+krivky. Keďže EKG prístroj sníma šírenie elektrického impulzu po srdci a v určitom čase
+dokáže sledovať priebeh a rytmus tepovej frekvencie, tento prístroj musí byť zhotovený z
+elektród. Tieto elektródy generujú počas snímania zvody, a tak sa srdce dokáže analyzovať v
+dvoch rovinách - v horizontálnej a frontálnej. Základný rytmus srdca udávajú po všetkých
+razoch ložiská, ktoré sa šíria po prevodovom systéme srdca. Dôležitou časťou pôsobenia
+prístroja EKG je určenie ST segmentu, ktorý sa nachádza priamo na izoelektrickej čiare. Je to
+rovná čiara znázornená na EKG papieri. Ak sa nachádza pod ňou, hovoríme o depresii ST
+segmentu, čo v praxi znamená, že nastáva ischémia srdca. Keď sa ST segment nachádza nad
+izoelektrickou čiarou, ide o eleváciu, a tá je najčastejšou príčinou infarktu myokardu.
+OZP zdravotní pojišťovna (2024) opisuje EKG krivku a podrobne vysvetľuje, čo jednotlivé
+sťahy znamenajú. Na obrázku 1 je uvedený sťah srdca a následne body znamenajú:
+●
+
+vlna P - prejav depolarizácie predsiení, doba trvania je 80-100 ms
+
+●
+
+interval PQ - čas potrebný na prevod vzruchu z predsiení na komorovú svalovinu
+
+●
+
+komplex QRS - predstavuje repolarizáciu predsiení a depolarizáciu komôr, doba trvania
+je 60-120 ms
+
+●
+
+Q - prvý negatívny kmit (nemusí byť prítomný)
+
+●
+
+R - každý pozitívny kmit (normálne sa vyskytuje iba jeden)
+18
+
+●
+
+S - každý negatívny kmit
+
+●
+
+interval QT - elektrická aktivita komôr, mení sa v závislosti na tepovú frekvenciu
+
+●
+
+úsek ST - obdobie stabilnej aktivity srdca, za fyziologických okolností je vodorovný, v
+prípade zníženia alebo zvýšenia poukazuje na srdcové poškodenie
+
+●
+
+vlna T - prejav repolarizácie komôr, doba trvania je 200 ms.
+
+Ošťádal a Mates (2018) sa venujú zobrazeniu EKG pri akútnom infarkte myokardu a dopĺňajú,
+že pokiaľ je IM situovaný na spodnom stente, môžu byť elevácie ST segmentov zobrazené a
+prítomné v končatinových zvodoch. Takisto sa dá odhaliť poškodenie pravej komory vďaka
+eleváciám, ktoré by sa vyskytovali v pravom prekordiu. Spoločným znakom pri infarkte
+myokardu je depresia ST úseku alebo dočasné ST elevácie, ktoré vypovedajú časový zber menej
+ako dvadsať minút. Pri tomto type sa môžu prejaviť aj prevraty vĺn T. Kmit Q poukazuje na
+odumretie srdcového tkaniva. Pokiaľ ho sprevádza súvislý ST segment, v miest výskytu
+dochádza k aneuryzmu alebo vydutiu tepny. Je však všeobecne známe, aby bol aj infarkt s
+určitosťou preukázateľný, je potrebné vykonať klinickú a laboratórnu diagnostiku.
+1.3
+
+História prvej pomoci pri infarkte myokardu
+
+Britská spoločnosť Life Saver Training (2024) poskytuje na svojej stránke informácie o histórii
+prvej pomoci a poukazuje na to, že prvá pomoc nie je len sama o sebe zložitým predmetom, ale
+má aj bohatú a komplikovanú históriu, keďže vtedajší človek bol konfrontovaný s mnohými
+situáciami, ktoré si práve prvú pomoc vyžadovali. Človek musel mať vyvinuté spôsoby a
+návyky ako zastaviť krvácanie, musel vedieť stabilizovať zlomené kosti alebo musel určiť,
+ktorá rastlina je jedovatá a ktorá nie. Postupom času sa ľudia stávali zručnejšími a vedomejšími
+v tom, ako poskytovať prvú pomoc a riešiť akútne zdravotné situácie. Je známe, že tento fakt
+bol začiatkom rozlišovania medzi lekárskou starostlivosťou, ktorú mohol poskytnúť laik alebo
+amatér a odborník. Neskôr sa zdravotné vedomosti formovali a odborná príprava sa viac
+formalizovala. Časom sa napríklad z kňazov stali lekári a z holičov chirurgovia. Ďalším
+aspektom, ktorý do značnej miery ovplyvnil vývoj prvej pomoci boli vojny. Straty na životoch
+počas bojov boli výrazné, keďže nebolo dostatok lekárskej starostlivosti. V roku 1099 bol
+založený Rád svätého Jána, kde sa zorganizovali náboženskí rytieri v lekárskej starostlivosti a
+špecificky liečili zranenia na bojisku. Títo rytieri boli síce považovaní za laikov, ale boli
+formálne vyškolení na poskytovanie prvej pomoci. O storočie neskôr, prišiel armádny chirurg
+s myšlienkou trénovať civilistov predlekárskou liečbou. Po prvýkrát sa termín “prvá pomoc”
+19
+
+objavil v roku 1878 ako kombinácia prvého ošetrenia a národnej pomoci. Rovnako sa už
+nehovorí o prvej pomoci pri zraneniach ale aj pri rôznych ochoreniach, ako je napríklad aj
+infarkt myokardu.
+Americká asociácia srdca (2024) opisuje históriu prvej pomoci pri kardiovaskulárnych
+ochoreniach. Vývoj resuscitácie srdca bol podľa asociácie poznačený momentami, ktoré
+prinášali veľké zistenia a neustále sa prvá pomoc znamenite menila. Záchranu človeka v
+18.storočí viedla primitívna metóda bičovania obete v bezvedomí žihľavou. V porovnaní s
+dnešným postupom, a to modernou kardiovaskulárnou resuscitáciou, kde automatizovaný
+externý defibrilátor dodáva šancu na záchranu postihnutého. Absolútne prvá metóda záchrany
+človeka sa datuje do roku 1530, kde sa začala využívať Bellowova metóda, kedy sa používa na
+dýchanie z úst do úst ventilácia a neskôr používanie špeciálnych mechov na umelé nafúknutie
+pľúc. Táto metóda bola využívaná až do polovice 19. storočia. V roku 1874 výskum nemeckého
+fyziológa Moritza Shiffa poukázal, že masáž srdca počas operácie môže obnovovať krvný obeh.
+Preto boli novozavedené masáže, ktoré prvotne boli vykonávané na zvieratách a prví pacienti,
+ktorí boli ošetrení externou masážou srdca sa datujú do roku 1891. V roku 1956 lekári Elam a
+Safar dokazujú, že dýchanie z úst do úst je efektívna metóda na záchranu života. Práve títo
+doktori zohrávajú dôležitú úlohu pre profesionálnych poskytovateľov zdravotnej starostlivosti
+ale aj pre širokú verejnosť, kedy propagujú kroky pri záchrane postihnutého pri možnom
+infarkte myokardu. Po ďalších rokoch skúmania defibrilácie, tím lekárov v roku 1957
+predstavujú prototyp prvého prenosného externého defibrilátora, ktorý bol umiestnený na
+vozíku s kolieskami. Neskôr, v roku 1960 bola predstavená resuscitačná Anna, umelá figurína,
+ktorá napomáha modelovať záchranu človeka dodnes. Po mnoho rokov až do 21. storočia
+technologický pokrok umožnil, že súčasné zdravotníctvo v mnohých prípadoch dokáže človeku
+pri infarkte myokardu zachrániť život v krátkej dobe.
+Hladká v odbornom lekárskom časopise Florence (2017) dopĺňa informácie o prvej pomoci pri
+akútnom infarkte myokardu z osemdesiatych rokov dvadsiateho storočia, kedy bol kladený
+dôraz na zmiernenie bolesti chorého v hrudnej oblasti. Farmakologická liečba zahŕňala podanie
+nitroglycerínu pod jazyk a terapiu kyselinu acetylsalicylovou na zmiernenie bolesti. Následne
+v liečbe AIM nastáva významný prelom, kedy je postihnutým podávaná trombolytická liečba,
+ktorej úlohou je čo najrýchlejšie rozpustiť krvnú zrazeninu, spriechodnenie koronárnej tepny a
+zastavenie nekrózy srdcového svalu, aby sa tým predišlo odumieranie. Štatisticky tento druh
+terapie poskytol optimálne riešenie len pre chorých, ktorým bola včas podaná látka, do 70 minút
+20
+
+od akútneho infarktu myokardu. Preto sa po trombolytickej liečbe naordinovala liečba
+heparínom. Samozrejmosťou bolo dodržiavanie pokoja na lôžku a v treťom týždni od infarktu
+myokardu bol vykonaný záťažový test ergometria. Ergometria má za úlohu zobraziť
+pravdepodobný výskyt koronárnej stenózy a možnosť vykonania operačného výkonu
+aortokoronárneho bypassu.
+Ascherman a kol. (2004) uvádzajú, že prvý operačný výkon v Československu bol vykonaný v
+roku 1981 v pražskom IKEM, a to iba štyri roky od celosvetovo prvej operácie transluminárnej
+koronárnej angioplastike PTCA v Zurichu. Pri operácii je podávaný pacientovi kyslík, ktorý je
+v akútnej fáze podávaný Venturiho maskou o rýchlosti 5 litrov za minútu. Oxygenoterapiou sa
+zvyšuje hladina kyslíka v krvi, a práve tá ochraňuje a zabraňuje proti ischémii srdca a srdcového
+svalu, alebo dokonca chráni pred úplnou nekrózou.
+Súčasná prvá pomoc pri infarkte myokardu
+Príznaky infarktu myokardu sú popísané v kapitole 1.1 v tejto podkapitole sa budeme venovať
+prvej pomoci pri infarkte myokardu, ktorý zverejnila zdravotná spoločnosť Healthline Media
+(2021). Súčasná prvá pomoc, ktorá je poskytovaná už v samotnom zdravotnom stredisku začína
+prevozom pacienta. Keďže srdcové záchvaty si vyžadujú okamžitú liečbu, táto liečba je
+poskytovaná na pohotovosti. Liečba môže zahŕňať užívanie liekov na riešenie krvných
+zrazenín, zníženie bolesti alebo spomalenie srdcovej frekvencie. Je veľká pravdepodobnosť, že
+sa musí vykonať minimálne invazívny zákrok, ktorý sa nazýva perkutánna koronárna
+intervencia (PKI). Pri tomto zákroku dochádza k odblokovaniu tepien, ktoré zásobujú srdce
+krvou. Počas tejto procedúry chirurg vloží dlhú tenkú trubicu cez tepnu, aby dosiahol upchatie
+tepny, následne sa nafúkne malý balónik, ktorý je pripojený ku katétru, pri ktorom sa otvorí
+tepna a umožní sa obnovenie prietoku krvi. Pri tomto zákroku môže chirurg umiestniť do tepny
+stent - sieťovú hadičku, ktorá môže zabrániť opätovnému uzavretiu tepny. Bypass koronárnej
+artérie je tiež jednou z možností pri akútnom infarkte myokardu. Pri tomto postupe sa obnoví
+prietok krvi presmerovaním žíl a tepien, aby sa krv mohla voľne pohybovať okolo blokády,
+ktorá blokuje prísun krvi do srdca. Tento postup by sa mal používať bezprostredne po infarkte.
+Kopecká a Kopecký (2014) dopĺňajú, že liečebné opatrenia treba uskutočňovať okamžite po
+nástupe ťažkostí, čo znamená ešte pred prijatím do zdravotného strediska. Je dôležité, aby mal
+pacient prísny pokoj v polosede alebo ľahu. Je v poriadku podať postihnutému aj Diazepan, čo
+21
+
+je psychofarmakum. Ďalším krokom je tíšenie bolesti, napríklad v prednemocničnom ošetrení
+sa ihneď podáva clopidogrel a kyselina acetylsalicylová, vhodná je aj tabletka nitroglycerínu
+pod jazyk. V nemocničnom prostredí je pacient umiestnený na jednotku intenzívnej
+starostlivosti JIS, kde je nepretržite sledovaný a ošetrovaný. Akútny infarkt myokardu a jeho
+liečenie je založené na zvládnutí komplikácií, predovšetkým porúch rytmu srdca a srdcovej
+nedostatočnosti. Veľkosť ložiska infarktu myokardu sa ovplyvňuje liečebnými opatreniami:
+●
+
+farmakologickým ovplyvnením myokardu a zníženie spotreby kyslíka betablokátormi
+
+●
+
+zvýšením fyzického a psychického pokoja na srdcový sval, kedy sa zníži energetický
+nárok na jeho prácu
+
+●
+
+úsilím o obnovenie perfúzie krvi koronárnou tepnou - trombolýza (je to metóda, ktorá
+pomáha odstráneniu trombotických uzáverov príslušnej koronárnej tepny)
+
+●
+
+úsilím o obnovenie perfúzie krvi koronárnou tepnou - intervenčným postupom (je to
+liečebný postup, pri ktorom sa pomocou prispôsobených katétrov odstraňujú
+patologické zúženia koronárnych ciev
+
+Európska resuscitačná rada (2021) vydala nové odporúčania pri prvej pomoci osôb s infarktom.
+V prípade odbornej prvej pomoci, ak je bradykardia spôsobená infarktom spodnej steny
+myokardu alebo je po transplantácii srdca, prípadne je zapríčinená poranením miechy, je
+potrebné zvážiť podanie aminofylínu v pomalej intravenóznej injekcii v množstve 100 – 200
+mg).
+Ďalej Európska resuscitačná rada (2021) odporúča pri neúrazovej bolesti na hrudníku
+u dospelých pri plnom vedomí s podozrením na infarkt myokardu nasledovné kroky:
+-
+
+upokojenie jedinca
+
+-
+
+posadenie jedinca, prípadne uloženie ležmo do pohodlnej polohy
+
+-
+
+zavolanie pomoci
+
+-
+
+v prípade nástupu bolestí na hrudníku by mali poskytovatelia prvej pomoci vyzvať osobu
+na užitie 150 – 300 mg žuvacieho aspirínu a pomôcť osobe s užitím žuvacieho aspirínu,
+pričom platí, že aspirín sa nepodáva dospelým jedincom, ktorí majú bolesť na hrudníku
+spôsobenú úrazom alebo bolesť je neznámej etiológie, ďalej sa aspirín nepodáva dospelým
+v prípade, ak sme vedomí alergie na aspirín alebo v prípade kontraindikácii, ktorými môže
+byť či už gastrointerstinálne krvácanie alebo závažná astma.
+
+22
+
+Málek a kol. (2010) podáva informácie, že základným princípom dnešnej reperfúznej liečby v
+podmienkach Slovenskej a Českej republiky je intervenčná terapia, čiže priama perkutánna
+koronárna intervencia. V tomto prípade ide o katetrizačnú metódu, ktorá sa spravidla vykonáva
+dvanásť až dvadsaťštyri hodín od začatia bolesti. Operačný výkon sa sa začína vpichom do
+femorálnej alebo aj radiálnej tepny. V tomto prípade sa popísaný úkon preferuje s ohľadom na
+nižší výskyt krvácavých komplikácií a zabezpečuje rýchlejšiu mobilizáciu postihnutého.
+Následne sa do tepny zavádzajú katétre, aby sa mohla podať kontrastná látka a zobrazenie
+koronárnych tepien. Keď sa identifikuje obštrukcia koronárnej tepny, ktorá spôsobila akútny
+infarkt myokardu, tepna sa spriechodní pomocou ďalších tenkých katétrov a vytvorí sa
+takzvaný koronárny stent, pod ktorým si treba predstaviť trubičku, ktorá pomáha udržať tepnu
+priechodnú. V niektorých prípadoch je ale náročné spriechodniť koronárnu tepnu a pacient je
+indikovaný na kardiochirurgickú revaskularizáciu, čiže koronárny bypass. Pacientovi sa
+voperuje nová cieva, či už jeho vlastná alebo umelá. Súčasná a odporúčaná farmakoterapia po
+akútnom infarkte myokardu zahŕňa už vyššie spomenutú antiagregáciu, čo tvorí kyselinu
+acetylsalicylovú plus tikagrerol a intenzívnu liečbu statínom.
+Laická prvá pomoc pri akútnom infarkte myokardu
+Podľa Fabiána a kol. (2006), pokiaľ nastane situácia, že sme v spoločnosti, kde má postihnutý
+podozrenie na akútny infarkt myokardu, je dôležité ho uložiť do polohy v polosede, musí ostať
+v maximálnom pokoji bez akéhokoľvek pohybu či námahe. Pokiaľ je postihnutý pri plnom
+vedomí, má zachované prehĺtacie reflexy, a my máme k dispozícii Acylpyrin alebo Anopyrin,
+je odporúčané mu tento liek podať, kým nepríde záchranná služba. Ďalej sú odporúčané lieky
+na rozšírenie koronárnych tepien ako Nitroglycerin, ktorý pomôže udržať krvný obeh.
+Dobiáš (2007) dopĺňa, že záchranná reťaz pri kardiovaskulárnych chorobách je odlišná oproti
+úrazom a náhlym ochoreniam. Je veľmi dôležité mať včasný prístup, včasnú kardiopulmonálnu
+resuscitáciu včasnú defibriláciu, včasná rozšírenú resuscitáciu, pokiaľ si to situácia vyžaduje.
+Kardiopulmonálna resuscitácia podľa autora znamená, že prvý svedok príhody začne základnú
+kardiopulmonálnu resuscitáciu (KPR), pomer stlačení hrudníka a vdychov je 30:2 a absolútne
+najdôležitejší výkon, musí byť privolaná prvá pomoc. Je dôležité spomenúť, že pri okamžitom
+začatí KPR a defibrilácií do troch až piatich minút má postihnutý pravdepodobnosť prežitia 5075 % a každá minúta oneskorenia znižuje pravdepodobnosť prepustenia z nemocnice o 10-15
+%, rozšírenie automatických externých defibrilátorov (AED) a ich používanie školenými laikmi
+v zahraničí na miestach, kde býva sústredených viac ako 10 000 ľudí znížilo úmrtnosť. Až 80
+23
+
+% náhlych zastavení krvného obehu je spôsobených komorovou fibriláciou, kde je základom
+liečby včasná aplikácia elektrického výboja.
+Európska resuscitačná rada (2021) uvádza postup pri zástave srdca nie len u dospelého, ale aj
+u detí. Konkrétne u dospelých je opísané stanovenie zástavy srdca ako kombinácia bezvedomia
+a abnormálneho dýchania. Dôležité je okamžite začať, ak je to možné, KPR. Asistenciu laickej
+verejnosti poskytuje operátor tiesňovej linky pri rozpoznávaní zastavenia obehu a poskytovaní
+KPR. V prípade, že je KPR v čase volania na tiesňovú linku už v procese, operátor tiesňovej
+linky poskytuje / mal by poskytovať inštrukcie, a to iba v prípade otázok alebo v prípade
+problémov s vedomosťami alebo zručnosťami. Vhodný cyklus sa uvádza 30:2, a to z dôvodu
+zníženia počtu striedaní. V prípade, že svedkovia nie sú schopní / nemôžu poskytnúť vdychy,
+odporúča sa pokračovať iba s kompresiami hrudníka. Čo sa týka traumatického zastavenia
+srdca u detí, tu platí, že svedkovia by mali uskutočňovať KPR iba za predpokladu, že ide
+o bezpečný krok. Odporúča sa počas KPR v najvyššej miere minimalizovať pohyb chrbticou,
+a to bez toho, aby sa obmedzila resuscitácia, ktorej je pripisovaná jednoznačná priorita.
+Čo sa týka základnej kardiopulmonálnej resuscitácie u detí, tá je závislá od stupňa tréningu
+záchrancu, ktorý je prítomný, pričom záchrancom je plne kompetentný v PBLS, trénovaný pri
+dospelej resuscitácii a netrénovaný – teda laická verejnosť za asistencie operátora tiesňovej
+linky). Postup jednotlivých krokov pri PBLS je nasledovný:
+-
+
+zabezpečenie bezpečnosti záchrancu, kontrola reakcie jednak na verbálne, ale aj taktilné
+simuly, žiadosť okoloidúcich o pomoc
+
+-
+
+v prípade, že dieťa nereaguje, je potrebné uvoľniť dýchacie cesty a zhodnotiť dýchanie
+v priebehu desiatich sekúnd
+
+-
+
+v prípade, že je dieťa v bezvedomí a dýchanie sa javí ako abnormálne, je potrebné podať 5
+iniciálnych vdychov
+
+-
+
+v prípade, že nie sú prítomné známky obehu, ktorými môže byť napríklad pohyb a kašeľ,
+je potrebné okamžite pokračovať po vdychoch s 15 kompresiami hrudníka, pričom
+frekvencia u detí a dojčiat je 100 – 120 za minútu, pričom pokračujeme cyklom 15:2, a teda
+po 15 kompresiách nasledujú 2 záchranné vdychy
+
+-
+
+medzi kompresiami sa neopierame o hrudník a je potrebné povoliť tlak a nechať vrátiť sa
+hrudník do pôvodnej polohy
+
+-
+
+v podpore ventilácie pri frekvencii primeranej veku je potrebné pokračovať v prípade, že
+sú viditeľné jasné známky života, ale dieťa je stále v bezvedomí.
+24
+
+Ak to situácia dovoľuje, kompresie sa vykonávajú na pevnom podklade, oblečenie sa odstraňuje
+iba v prípade, že zabraňuje kompresii hrudníka. Čo sa týka dojčiat, u nich sa pri kompresiách
+uprednostňuje technika „dvoch palcov s obkrúžením okolo hrudníka“, čím je možné sa vyhnúť
+uvoľneniu hrudníka, ktoré nie je dostatočné. Čo sa týka detí od 1 roka, u nich je dôležitý
+parameter veľkosť a rozpätie ruky, pričom sa používa technika jednej ruky alebo dvoch rúk
+(Európska resuscitačná rada, 2021).
+1.4
+
+Prevencia proti infarktu myokardu
+
+Svetová zdravotnícka organizácia World Health Organization (2024) vymenovala sedem
+hlavných faktorov, ktoré značne ovplyvňujú riziká infarktu myokardu. Tieto faktory sú
+považované za prevenciu srdcovocievnych príhod:
+●
+
+vysoký krvný tlak,
+
+●
+
+fajčenie,
+
+●
+
+zvýšená hladina celkového cholesterolu v krvi,
+
+●
+
+nadhmotnosť/obezita,
+
+●
+
+nedostatočná telesná aktivita,
+
+●
+
+nedostatočná konzumácia ovocia a zeleniny,
+
+●
+
+nadmerná konzumácia alkoholu.
+
+Podľa Ďurovcovej a kol. (2020) sú kardiovaskulárne ochorenia KVO v celosvetovom meradle
+stále na vedúcej pozícii najčastejších príčin smrti. Ako autori uvádzajú, prispieva k tomu
+novodobá epidémia obezity a cukrovky, a s tým spojený nezdravý životný štýl u mnohých ľudí
+nie len na Slovensku ale po celom svete. Pri kardiovaskulárnych ochoreniach, ako je aj infarkt
+myokardu, je možné eliminovať tieto príznaky mnohými preventívnymi opatreniami na
+celopopulačnej úrovni, a to znížením alebo celkovým odstránením individuálnych rizikových
+faktorov. Medzi individuálne rizikové faktory patrí fajčenie, hypertenzia, nedostatok pohybu a
+hyperlipoproteinémia.
+Americké centrum pre kontrolu a prevenciu chorôb (2024) venuje pozornosť preventívnych
+opatrení, aby sme mohli predísť možnému infarktu myokardu. Prostredníctvom zmien zdravého
+životného štýlu a starostlivosti o seba môže človek predísť akútnemu infarktu myokardu. Tieto
+
+25
+
+opatrenie rozdeľuje Americké centrum pre kontrolu a prevenciu chorôb do viacerých oblastí, a
+to:
+●
+
+výber zdravých jedál - prísun čerstvého ovocia a zeleniny, konzumácia potravín s
+nízkym obsahom nasýtených tukov a vysokým obsahom vlákniny, obmedzenie soli,
+ktorá znižuje krvný tlak
+
+●
+
+udržanie hmotnosti - nadváha alebo obezita zvyšujú riziko akútneho infarktu myokardu
+
+●
+
+pravidelná fyzická aktivita - fyzická aktivita pomáha udržať zdravú váhu a nízku
+hladinu cholesterolu
+
+●
+
+fajčenie - fajčenie vo veľkej miere zvyšuje riziko srdcovo-cievnych ochorení
+
+●
+
+alkohol - nadmerné užívanie alkoholu zvyšuje z dlhodobého hľadiska krvný tlak
+
+●
+
+kontrola zdravotného stavu - pravidelné preventívne prehliadky
+
+●
+
+cholesterol - pravidelné kontrolovanie hladiny cholesterolu aspoň raz za päť rokov
+
+●
+
+krvný tlak - krvný tlak nemá príznaky, preto je potrebné si ho pravidelne kontrolovať.
+
+Úmrtnosť
+Ministerstvo zdravotníctva Slovenskej republiky uvádza vo svojej publikácii, ktorej autorom je
+Šlepecký (2022) graf, v ktorom je vidieť úmrtnosť na srdcovocievne ochorenia, a to za obdobie
+rokov 2001 – 2014. Ministerstvo uskutočnilo porovnanie za nasledovné krajiny a regióny –
+Slovensko, V3, EU28, EU 15. V grafe 1 je vidieť znižujúcu sa tendenciu úmrtí na
+srdcovocievne ochorenia, medzi ktoré patrí aj infarkt myokardu. Z nižšie uvedeného grafu však
+jednoznačne vyplýva, že aj napriek znižujúcej sa tendencii úmrtí, je Slovensko zo všetkých
+krajín alebo regiónov na tom najhoršie.
+V grafe 2 je znázornená štruktúra odvrátiteľných úmrtí v Európskej únii v roku 2015. Z nižšie
+uvedeného grafu je zrejmé, že kardiovaskulárne ochorenia sú najviac odvrátiteľnými
+ochoreniami.
+
+26
+
+Informovanosť laickej verejnosti o infarkte myokardu na Slovensku
+
+2
+
+Únia pre zdravšie srdce (2021) zverejnila návod pre neodbornú verejnosť ako postupovať pri
+infarkte myokardu. Keďže táto udalosť dokáže poriadne prekvapiť aj vystrašiť, mnohí
+nezachovávame pokoj, ktorý je v tomto prípade viac než dôležitý. Je potrebné okamžite volať
+linku záchrannej služby 155 alebo linku 112. Ale prvá pomoc predtým ako nadídu záchranári
+je tiež veľmi dôležitá. Je dôležité poznamenať, že infarkt myokardu zvyčajne nevznikne z dňa
+na deň, ale predchádza mu možná ischemická choroba srdca. Môže ísť o prvotné príznaky ako
+zadýchavanie sa či nepríjemné pocity a tlak na hrudníku. Únia pre zdravšie srdce odporúča
+verejnosti v rámci prvej pomoci pri podozrení na infarkt myokardu okamžité privolanie prvej
+pomoci, ktorú sme spomínali vyššie. Stránka poskytuje informácie verejnosti o srdcovo cievnych ochoreniach, aktuality a videá ako aj informácie o členstve v tejto únii. V
+nasledujúcich bodoch odporúča Únia pre zdravšie srdce tento postup:
+a) zabezpečiť pokoj pre postihnutého a usadiť ho na lôžko do polosedu
+b) uvoľniť postihnutému odev okolo krku a pás
+c) zabezpečiť prietok čerstvého vzduchu, otvoriť okno
+d) masáž srdca v prípade zástavy srdca a KPR (kardiopulmonálna resuscitácia).
+Podľa
+
+inovatívnej
+
+farmaceutickej
+
+spoločnosti
+
+Novartis
+
+(2024)
+
+Slováci
+
+podceňujú
+
+kardiovaskulárne ochorenia vo všeobecnosti. Na Slovensku trpí kardiovaskulárnym ochorením
+v priemere stotisíc pacientov a miera prežívania je v porovnaní s inými štátmi v Európe nízka,
+až polovica pacientov do piatich rokov na Slovensku umiera. Jedným z dôležitých faktorov,
+prečo Slováci podceňujú kardiovaskulárne ochorenia, je podľa spoločnosti fakt, že toto
+ochorenie nebolí. Spoločnosť na svojej stránke www.novartis.com informuje o dôležitosti tohto
+ochorenia, zároveň popisujú dlhodobý výskum, ktorým sa venujú. Portfólio informovanosti je
+veľmi široké, sú dostupné aj videá so zámerom na kardiovaskulárne ochorenia, konkrétne aj
+infarkt myokardu. Zámerom inovatívnej farmaceutickej spoločnosti Novartis je prinášať v
+rôznych oblastiach, aj v oblasti kardiológie úspešné, bezpečné a inovatívne molekuly. Veľmi
+dôležitým faktorom podľa spoločnosti Novartis je ateroskleróza, čiže ochorenie tepien. Je
+definovaná ako hromadenie tuku vo vnútornej výstelke tepien, ktorý je charakterizovaný ako
+zlý cholesterol (LDL cholesterolu). Väčšina ľudí nemá žiadne príznaky pri hromadení tohto
+tuku, až do času, kým sa aterosklerotický plak (hromadenie tuku vo vnútornej výstelke tepien)
+neodtrhne neočakávaným spôsobom a vo väčšine prípadov spôsobí infarkt alebo mozgovú
+27
+
+príhodu. Čísla, ktoré uvádza spoločnosť sú alarmujúce a odhaduje sa, že už každý štvrtý prípad
+odtrhnutia aterosklerotického plaku predstavuje opakovanú príhodu. Vysoký LDL cholesterol
+ovplyvňujú:
+●
+
+fajčenie (je dokázané, že oxid uhoľnatý pochádzajúci z cigaretového dymu uľahčuje
+vznik cievneho poškodenia vo vnútri koronárnych tepien)
+
+●
+
+zvýšená hladina krvného tlaku (vedie k poškodzovaniu vnútornej výstelky artérií)
+
+●
+
+obezita (podľa štúdií je zvýšená telesná hmotnosť a s ňou spojené poruchy látkovej
+premeny tukov rizikovým faktorom pri LDL cholesterole a následným koronárnym
+rizikovým faktorom)
+
+●
+
+diabetes mellitus alebo cukrovka (pri tomto ochorení nastáva zvýšenie hladiny krvných
+tukov a tie prispievajú k zvyšovaniu plátu)
+
+●
+
+artériová hypertenzia (pri vzostupe hodnôt krvného tlaku tiež stúpa tlak, ktorému musia
+čeliť steny koronárnych artérií).
+
+Ministerstvo zdravotníctva Slovenskej republiky zverejnilo na svojej oficiálnej webovej stránke
+www.health.gov.sk schválené nové a inovované postupy pre výkon prevencie podľa druhu
+ochorenia, napr. endokrinologického charakteru, metabolického charakteru, infekčného
+charakteru a iné. V rámci týchto postupov sa Ministerstvo zdravotníctva Slovenskej republiky
+venuje aj postupom pre výkon a prevenciu kardiovaskulárnych ochorení:
+●
+
+Ambulantná kardiovaskulárna rehabilitácia (AKVR) / sekundárna prevencia (SP)
+
+●
+
+Manažment ošetrovateľskej starostlivosti pri edukácii dospelého pacienta s artériovou
+hypertenziou
+
+●
+
+Systematický monitoring kardiovaskulárneho rizika v primárnej sfére s cieľom znížiť
+mieru výskytu preventabilných ochorení srdca a ciev
+
+●
+
+Štandardné psychologicko - behaviorálne postupy v prevencii srdcovocievnych
+ochorení
+
+●
+
+Štandardný postup pre výkon prevencie kardiovaskulárnych ochorení v podmienkach
+verejných lekární
+
+Ministerstvo zdravotníctva Slovenskej republiky takisto zverejnilo rizikové faktory, ktoré majú
+spojitosť s rizikom srdcovocievnych príhod, vrátane infarktu myokardu. Tieto rizikové faktory
+MZ SR rozdelilo do dvoch skupín:
+28
+
+●
+
+neovplyvniteľné (patrí tu etnicita, pohlavie, vek, genetická predispozícia)
+
+●
+
+modifikovateľné (obezita, zvýšený krvný tlak, cukrovka, nízky HDL cholesterol,
+stenóza karotickej artérie, fibrilácia predsiení, fajčenie, nezdravé stravovanie, životné
+podmienky,
+
+pracovné
+
+podmienky,
+
+nadmerný
+
+príjem
+
+alkoholu,
+
+hormonálna
+
+antikoncepcia, nedostatok fyzickej aktivity, finančný príjem). Na oficiálnej webovej
+stránke ale chýba konkrétna informovanosť o postupoch prvej pomoci pri akútnych
+ochoreniach, kedy je potrebné volať záchrannú službu. V rámci portfólia Ministerstva
+zdravotníctva Slovenskej republiky sú zverejnené zoznamy akreditácií pre kurzy prvej
+pomoci s poslednou aktualizáciou v roku 2013.
+Slovenský červený kríž (2024) má zverejnený unikátny program, ktorý informuje laickú
+verejnosť o poskytnutí prvej pomoci pri rôznych situáciách. Na oficiálnej webovej stránke
+www.redcross.sk a rovnako aj na sociálnych sieťach Youtube, Facebook a Instagram. Program
+je možné vyhľadať pod názvom “SEPRP - Sedlácka prvá pomoc”, kde veľmi vtipným a hlavne
+dobre zapamätateľným spôsobom predstavujú prvú pomoc vo forme videí. Do tohto projektu
+bol pozvaný slovenský herec Michal Kubovčík, ktorý zabezpečil zviditeľnenie videí pre širokú
+verejnosť a odbornú spoluprácu zastrešil doc. MUDr. Viliam Dobiáš, PhD. V sekcii týchto
+projektov je ako prvé video zverejnené z prvej pomoci pri akútnom infarkte myokardu.
+Štatisticky má toto video ku dňu 30. august 2024 spolu 126 tisíc zhliadnutí, čo je skutočne
+veľký úspech na dosah informovanosti pre laickú verejnosť. Je dôležité poznamenať, že
+Slovenský červený kríž rovnako zabezpečuje kurzy prvej pomoci, ktoré možno absolvovať v
+rozsahu 8, 16 alebo 33 hodín a kurzy sú určené:
+●
+
+pre žiadateľov vodičského preukazu,
+
+●
+
+pre firmy,
+
+●
+
+pre učiteľov, opatrovateľov, a asistentov ťažko zdravotne postihnutých,
+
+●
+
+a hlavne pre všetkých, ktorí sa chcú naučiť základy prvej pomoci, čiže pre širokú
+verejnosť.
+
+Slovenský červený kríž na ich webovej stránke www.redcross.sk rovnako zverejnil územné
+spolky, kde si ich môže vyhľadať široká verejnosť. Zoznam miest je nižšie uvedený:
+
+-
+
+Banská Bystrica
+29
+
+-
+
+Banská Štiavnica
+
+-
+
+Bardejov
+
+-
+
+Bratislava mesto
+
+-
+
+Bratislava okolie
+
+-
+
+Čadca
+
+-
+
+Dolný Kubín
+
+-
+
+Dunajská Streda
+
+-
+
+Galanta
+
+-
+
+Humenné
+
+-
+
+Komárno
+
+-
+
+Košice mesto
+
+-
+
+Košice okolie
+
+-
+
+Levice
+
+-
+
+Liptovský Mikuláš
+
+-
+
+Lučenec
+
+-
+
+Michalovce
+
+-
+
+Nitra
+
+-
+
+Nové Zámky
+
+-
+
+Poprad
+
+-
+
+Prešov
+
+-
+
+Prievidza
+
+-
+
+Rimavská Sobota
+
+-
+
+Rožňava
+
+-
+
+Senica
+
+-
+
+Snina
+
+-
+
+Spišská Nová Ves
+
+-
+
+Svidník
+
+-
+
+Topoľčany
+
+-
+
+Trebišov
+
+-
+
+Trenčín
+
+-
+
+Trnava
+
+-
+
+Vranov nad Topľou
+
+-
+
+Žiar nad Hronom
+
+-
+
+Žilina.
+30
+
+Slovenská televízia a rozhlas od roku 2017 začala pravidelne vysielať zábavnú reláciu o
+ľudskom tele s názvom Záhady tela. V tejto relácii sa objavuje štvorica známych slovenských
+osobností a spolu s divákmi odpovedajú na otázky, ktoré sa týkajú ľudského tela. Veľmi
+zaujímavou časťou tejto relácie sú aj mnohé mýty o ľudskom tele, ktoré máme naučené od
+detstva. Záhady tela ponúkajú možnosť dozvedieť sa aj o prvej pomoci pri rôznych ťažkostiach,
+rovnako aj o infarkte myokardu, ktorý je často znázorňovaný. Slovenská televízia a rozhlas
+ponúka aj bezplatné sledovanie tejto relácie online, čo tak isto pomáha k informovanosti laickej
+širokej verejnosti (www.tv-archiv.sk; vlastné spracovanie).
+2.1
+
+Automatizovaný externý defibrilátor
+
+Dobiáš (2011) uvádza, že najväčším pokrokom pri liečbe zástavy obehu komorovej fibrilácie
+od zavedenia kardiopulmonálnej resuscitácie predstavujú automatické externé defibrilátory
+(AED). Aj napriek tomu, že prvý takýto prístroj bol vyrobený v roku 1975, dostupný je od roku
+1996. Uvádza sa, že ich dokážu použiť nie len laickí záchranári, ale aj okoloidúci, a to s malým
+tréningom, prípadne aj bez tréningu (Defibrilácia, 2011).
+Podľa údajov uvedených na webovej stránke www.aedusa.com, výskum spoločnosti National
+Safety Council naznačuje, že lepší prístup k automatickým externým defibrilátorom by mohol
+zachrániť 40 000 životov ročne. Webová stránka taktiež uvádza najväčších výrobcov týchto
+zariadení, ktorými sú Physio-Control AED, HeartSine AED, Cardiac Science AED, Defibtech
+AED, Philips AED, ZOLL AED. Európska resuscitačná rada (2021) uvádza nizke percento
+používania automatických externých defibrilátorov na území Európy, pričom uvádza priemer
+28 % s rozpätím 3,8 % - 59 %.
+Operačné stredisko záchrannej zdravotnej služby Slovenskej republiky (2024) je štátna
+organizácia, ktorej hlavným a jediným zriaďovateľom je Ministerstvo zdravotníctva Slovenskej
+republiky. Cieľom tejto organizácie je príjem tiesňových volaní záchrannej zdravotnej služby,
+koordinácia zdravotných služieb. organizáciu kurzov prvej pomoci a mnohé ďalšie operácie,
+ktoré sú potrebné na riadny chod zdravotnej služby ako celku. Operačné stredisko zverejňuje
+na ich oficiálnej webovej stránke mapu Slovenska a miesta, kde sa nachádzajú automatizované
+externé defibrilátory, aby v prípade núdze si ich laický záchranca mohol vyhľadať online a
+následne tak učinil vyzdvihnutie na najbližšom mieste, v prípade jeho potreby. Mapa AED má
+informatívny charakter a momentálne zobrazuje pozíciu len tých prístrojov, ktorých vlastník
+31
+
+alebo držiteľ AED potvrdil súhlas s jeho zverejnením. Mapa tak žiaľ nezobrazuje všetky údaje,
+ktoré sú v databáze Operačného strediska záchrannej zdravotnej služby SR, vrátane počtu
+prístrojov AED. No vďaka zverejneniu údajov zvyšuje operačné stredisko povedomie
+verejnosti o automatizovaných externých defibrilátorov, aj o potrebe čo najrýchlejšieho
+použitia v prípade zástavy srdca a krvného obehu. Stránka upozorňuje, že vždy je najlepším
+krokom počas použitia AED volať linku záchrannej služby 155 alebo 112.
+Európska resuscitačná rada (2021) uvádza, že automatický externý defibrilátor je potrebné
+použiť a zapnúť ho ihneď, ak je k dispozícii na mieste, na ktorom došlo k zástave srdca.
+Elektródy, ktoré sú samolepiace, sa prilepia na odhalený hrudník jedinca a to spôsobom, ktorý
+je znázornený na AED, prípadne na elektródach. V prípade, že sú prítomní viacerí záchranári,
+je potrebné pokračovať v KPR počas nalepovania elektród. Ďalej sa pokračuje či už podľa
+hovorených a/alebo vizuálnych pokynov AED. Dôležité je zabezpečiť, aby sa nikto
+z okoloidúcich alebo z poskytovateľov prvej pomoci nedotýkal jedinca pokiaľ prístroj AED
+analyzuje srdcový rytmus. V prípade, že sa odporúčaný, sa po výzve stlačí tlačidlo výboja
+a opäť sa začína s KPR 30 kompresiami hrudníka. V prípade, že výboj nie je odporúčaný, je
+potrebné ihneď začať s KPR 30 kompresiami hrudníka. V každom prípade sa pokračuje v KPR
+podľa pokynov AED. V KPR sa pokračuje, dokiaľ AED nevyzve poskytovateľa prvej pomoci
+na ďalšie presušenie KPR za účelom analýzy rytmu, čo je zvyčajne 2 minúty.
+
+32
+
+3 METODIKA PRÁCE A METÓDY SKÚMANIA
+
+3.1 PREDMET PRIESKUMU
+Predmetom prieskumu je zistenie stavu informovanosti laickej verejnosti o poskytnutí prvej
+pomoci pri akútnom infarkte myokardu.
+Národné centrum zdravotníckych informácií vo svojej tlačovej správe uviedlo, že v roku 2021
+zomrelo na infarkt na území Slovenskej republiky 2 453 ľudí. V uvedenom roku 2021 vzrástol
+počet úmrtí na infarkt nie len medziročne, ale dokonca presiahol údaje z roku 2018. Národné
+centrum zdravotníckych informácií zároveň uvádza, že v roku 2020 bol počet úmrtí 2 209. Čo
+sa týka pohlavia, pomer ženského a mužského pohlavia bol vyrovnaný. Podľa analýzy,
+úmrtnosť mužov prevyšovala ženy iba málo, konkrétne o 0,6 %). Zaujímavé však je, že najviac
+pacientov pribudlo u mladších ročníkov. V skupine do 24 rokov bol sledovaný najväčší
+medziročný nárast, konkrétne o viac ako 16 %. V skupine pacientov vo veku 25 – 44 rokov bol
+zaznamenaný nárast 8 %. Mierny medziročný pokles bol sledovaný u pacientov vo veku 65 –
+74 (www.zdravotnickydenik.cz).
+„10. septembra si pripomíname Svetový deň prvej pomoci. Každý človek sa môže ocitnúť v
+situácii, kedy je odkázaný na pomoc druhého a správne poskytnutá prvá pomoc ešte pred
+príchodom záchranára môže človeku v život ohrozujúcej situácii zachrániť život“
+(nemocnicaskalica.agel.sk).
+3.2 CIELE PRIESKUMU
+Hlavným cieľom prieskumu preloženej diplomovej práce je zistenie znalostí a miery
+informovanosti laickej verejnosti o prvej pomoci pri akútnom infarkte myokardu.
+Ďalej sme si stanovili nasledovné čiastkové ciele práce:
+-
+
+Prvým čiastkovým cieľom bolo zistiť, či naši respondenti z laickej verejnosti mali
+niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu;
+
+-
+
+Druhým čiastkovým cieľom je zistiť, či naši respondenti z laickej verejnosti vedia
+postup prvej pomoci pri akútnom infarkte myokardu, pokiaľ nie je prítomný zdravotník;
+33
+
+-
+
+Tretím čiastkovým cieľom je zistiť, či naši respondenti z laickej verejnosti ovládajú
+sprievodné príznaky pri náhlom zlyhaní srdca pri IM;
+
+-
+
+Štvrtým čiastkovým cieľom je zistiť, ako by respondenti z laickej verejnosti
+postupovali, keby mali možnosť zachrániť človeka s náhlym zlyhaním srdca pri
+akútnom IM;
+
+-
+
+Piatym čiastkovým cieľom je zistiť, či majú respondenti z laickej verejnosti vedomosť
+o automatizovanom externom defibrilátore a či môžu použiť automatizovaný externý
+defibrilátor v prípade zlyhania srdca
+
+Cieľ prieskumu diplomovej práce sme dosiahli stanovením prieskumných otázok, ktoré sú
+zamerané na informovanosť a ktoré sú uvedené nižšie:
+
+1.
+
+Respondenti z laickej verejnosti s absolvovaným kurzom prvej pomoci budú mať vyššiu
+mieru informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti bez kurzu
+prvej pomoci.
+
+2.
+
+Vysokoškolsky vzdelaní respondenti z laickej verejnosti budú mať vyššiu mieru
+informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti so stredoškolským
+vzdelaním.
+
+3.
+
+Respondenti z laickej verejnosti, ktorí mali skúsenosť s poskytovaním prvej pomoci pri
+IM, budú mať vyššiu mieru informovanosti o poskytovaní prvej pomoci pri IM, ako
+respondenti bez skúsenosti.
+
+4.
+
+Respondenti z laickej verejnosti nad 35r budú mať vyššiu mieru informovanosti o
+poskytovaní prvej pomoci pri IM, ako respondenti pod 35r.
+
+3.3 METODIKA PRIESKUMU
+Pri spracovaní diplomovej práce sme v teoretických východiskách považovali za najdôležitejšiu
+teoretickú metódu. V teoretických východiskách sme použili dáta, ktoré boli zozbierané v
+knižnici a z overených dostupných zdrojov na internete. V praktickej časti diplomovej práce
+sme zvolili empirickú metódu pri zbere dát na vyplňovanie dotazníka pripraveného pre širokú
+verejnosť. Dotazník pre potreby tejto diplomovej práce bol neštandardizovaný a tvorilo ho 19
+
+34
+
+otázok, z toho 16 otázok bolo uzavretých a 3 otázky boli otvorené. Táto forma dotazníka
+poskytla respondentom nie len odpovedať na jednoduché otázku, ale aj písomnou formou
+rozviesť svoje vedomosti. Dotazník sme zverejnili tak, aby bol dostupný v elektronickej forme,
+ktorá bola následne rozposlaná širokej verejnosti, a konkrétne bol vytvorený prostredníctvom
+aplikácie Google Forms. Z dôvodu overenia jasnosti otázok dotazníka sme realizovali pilotnú
+štúdiu, pri ktorej bol dotazník odoslaný 3 osobám z laickej verejnosti. Na základe ich
+pripomienok sme dotazníkové otázky upravili a následne sme ho rozoslali laickej verejnosti.
+Dotazník s rovnomenným názvom diplomovej práce Informovanosť laickej verejnosti o
+postupoch prvej pomoci pri akútnom infarkte myokardu tvorí Prílohu č.1 v tejto diplomovej
+práci.
+3.4 CHARAKTERISTIKA PRIESKUMNEJ VZORKY
+Dotazník vytvorený prostredníctvom aplikácie Google Forms bol preposlaný elektronickými
+prostriedkami širokej verejnosti na území celej Slovenskej republiky. Celkový počet
+respondentov, ktorí sa zúčastnili nášho prieskumu bol 86 ľudí. Podarilo sa nám osloviť širokú
+laickú verejnosť laickú verejnosť. V rámci zaslania dotazníka sa nám podarilo osloviť aj
+respondentov so širokým vekovým rozmedzím, a to nie len mladistvých, ale aj dôchodcov.
+3.5 ORGANIZÁCIA A REALIZÁCIA PRIESKUMU
+Z dôvodu overenia jasnosti otázok dotazníka sme realizovali pilotnú štúdiu, pri ktorej bol
+dotazník odoslaný 3 osobám z laickej verejnosti. Na základe ich pripomienok sme dotazníkové
+otázky upravili a následne sme ho rozoslali laickej verejnosti. Zber údajov dotazníka pre
+prieskum sme realizovali v mesiacoch júl 2024 – september 2024. Pomocou prieskumu sa nám
+podarilo stanoviť teoretické východiská prieskumu informovanosti laickej verejnosti o infarkte
+myokardu. Zber údajov sme uskutočňovali prostredníctvom internetu formou elektronického
+formuláru aplikácie Google Forms.
+
+4 VÝSLEDKY PRIESKUMU
+Výsledky prieskumu, ktorý sme uskutočnili vo forme elektronického dotazníka sme
+sprehľadnili pomocou tabuliek a hodnoty dotazníka sme vyjadrili elementárnou matematickou
+operáciou.
+35
+
+4.1 VYHODNOTENIE JEDNOTLIVÝCH OTÁZOK
+Otázka č. 1: Pohlavie respondentky /ta
+Odpoveď
+
+n
+
+%
+
+Muž
+
+32
+
+37,21 %
+
+To
+
+1
+
+1,16 %
+
+Žena
+
+53
+
+61,63 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 1: Pohlavie respondentov
+
+Zdroj: vlastné spracovanie
+
+Z Tabuľky 1 je možné vidieť, že z celkového počtu respondentov 86, čo tvorí zároveň 100 %
+z celkového počtu opýtaných, sa nášho prieskumu zúčastnilo 53 žien, teda 61,63 %, 32 mužov,
+teda 37,21 %, a jedna odpoveď definujúceho pohlavia To, teda 1,16 % z celkového počtu
+opýtaných.
+Otázka č. 2: Vek respondentky / ta
+Odpoveď
+
+n
+
+%
+
+0 – 17
+
+1
+
+1,16 %
+
+18 - 25
+
+8
+
+9,30 %
+
+26 - 35
+
+25
+
+29,07 %
+
+36 - 45
+
+32
+
+37,21 %
+
+46 - 55
+
+11
+
+12,79 %
+
+56 - 65
+
+6
+
+6,98 %
+
+66 a viac
+
+3
+
+3,49 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 2: Vek respondentov
+
+Zdroj: vlastné spracovanie
+36
+
+Prieskumnú vzorku nášho dotazníka tvorili respondenti rôznych vekových kategórií. V
+dotazníku, ktorý sme poslali v online forme širokej verejnosti, sa vekové rozpätie respondentov
+pohybovalo medzi do 17 až viac ako 66 rokov. Respondenta, ktorého vek je do 17 rokov spolu
+tvoril 1 respondent v tejto vekovej kategórii, teda 1,16 % z celkového počtu opýtaných
+respondentov. Osem respondentov tvorilo vekovú kategóriu od 18-25 rokov, čo spolu
+predstavuje 9,30 % z celkového počtu respondentov. 29,07 % všetkých opýtaných, teda 25
+respondentov, tvorilo vzorku respondentov, ktorých vek sa pohybuje medzi dvadsiatym šiestym
+až tridsiatym piatym vekom života. Najväčšie percento opýtanej vzorky respondentov bolo vo
+vekovej kategórii 36 až 45 rokov, spolu sme dosiahli 37,21 % týchto opýtaných, čiže počet
+respondentov bol 32. Z vekovej kategórie 46 - 55 rokov sme dokázali osloviť 11 respondentov,
+čo tvorilo 12,79 % všetkých opýtaných. Vo vekovej kategórii 56 - 65 rokov tvorilo 6,98 %
+respondentov, čo je spolu 6 osôb. Nad hranicu 66 rokov sme oslovili troch respondentov, čo
+tvorí 3,49 % všetkých opýtaných.
+Otázka č. 3: Vaše povolanie
+Odpoveď
+
+n
+
+%
+
+Automechanik
+
+1
+
+1,16 %
+
+Dôchodca
+
+3
+
+3,49 %
+
+Kaderník
+
+1
+
+1,16 %
+
+Manager
+
+3
+
+3,49 %
+
+manažér vo farmaceutickej firme
+
+1
+
+1,16 %
+
+Mechatronik
+
+1
+
+1,16 %
+
+Podnikateľ
+
+1
+
+1,16 %
+
+Policajt
+
+1
+
+1,16 %
+
+Pracovník
+
+1
+
+1,16 %
+
+Pracovník banky
+
+1
+
+1,16 %
+
+Pracovník v administratíve
+
+37
+
+43,05 %
+
+37
+
+Predavač
+
+9
+
+10,47 %
+
+Riadiaci pracovník
+
+1
+
+1,16 %
+
+Rizikové povolanie (napr. pracovník na stavbe)
+
+6
+
+6,98 %
+
+Skladník
+
+1
+
+1,16 %
+
+SZČO
+
+1
+
+1,16 %
+
+Šofér
+
+1
+
+1,16 %
+
+Študent
+
+11
+
+12,79 %
+
+Tréner psov
+
+1
+
+1,16 %
+
+Učiteľ
+
+4
+
+4,65 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 3: Povolanie respondentov
+
+Zdroj: vlastné spracovanie
+
+V otvorenej otázke, aké majú naši respondenti povolanie, sa nám potvrdilo, že dotazník bol
+zaslaný širokému spektru respondentov nie len vo vekovom rozmedzí, ale aj spektre povolaní.
+V otázke povolania odpovedalo všetkých 100% opýtaných, z toho jeden respondent odpovedal,
+že je povolaním automechanikom, teda tvoril 1,16 % z celkového počtu opýtaných. 3,49 %
+všetkých opýtaných, čiže spolu traja respondenti sú už v dôchodkovom veku, a teda nemajú už
+žiadnu prácu. Oslovili sme jedného respondenta s povolaním kaderník, čo tvorilo 1,16 %
+všetkých opýtaných. V prieskumnej vzorke odpovedali 4,65 % manažérov, z toho jedno
+percento tvorilo povolanie manažéra vo farmaceutickej firme, čo znamená, že počet manažérov
+zúčastňujúcich sa prieskumu tvorili 4 osoby. Nášho prieskumu sa zúčastnil aj jeden
+mechatronik, čo tvorí 1,16 % opýtaných respondentov. V rámci našej vzorky sa zúčastnil aj
+jeden podnikateľ, ktorý rovnako tvorí 1,16 % opýtanej vzorky ľudí. Dotazník sme zaslali
+jednému policajtovi, ktorý prispieva k 1,16 % všetkých opýtaných. V prieskumnej vzorke sme
+ďalej oslovili: 1 respondent uvádza, že je pracovník, 1 respondent uvádza konkrétne povolanie
+pracovník v banke, 1 respondent pracuje ako riadiaci pracovník a 37 respondentov z opýtanej
+vzorky pracujú v administratíve. 10,47 % všetkých opýtaných uviedlo ako svoje povolanie
+predavač, čo tvorilo dokopy 9 osôb. Až 6,98 % opýtaných pracuje v rizikovom povolaní, čo
+prezentuje 6 oslovených respondentov. 1,16 % opýtaných uvádza povolanie skladník, čo
+reprezentuje jedného respondenta. V rámci prieskumnej vzorky sme oslovili aj jedného
+38
+
+živnostníka SZČO, čo tvorí 1,16 % opýtanej vzorky. 1,16 % opýtaných tvorilo povolanie šofér,
+čo rovnako znázorňuje jedného respondenta. 12,79 % oslovených sú študenti, čo dokopy tvorí
+počet 11 opýtaných študentov. V rámci našej prieskumnej vzorky máme jedného trénera psov,
+ktorý tvorí 1,16 % opýtaných respondentov. 4,65 % opýtaných respondentov tvorilo učiteľské
+povolanie, čo reprezentuje v našom dotazníku počet štyroch osôb. Pri porovnaní povolaní sa v
+predmetnom dotazníku použili len podstatné mená mužského rodu, dovoľujeme si však
+upozorniť, že predmetné nemá slúžiť na diskriminačné účely.
+Otázka č. 4: Vaše najvyššie dosiahnuté vzdelanie
+Odpoveď
+
+n
+
+%
+
+Stredoškolské vzdelanie (aj učňovské)
+
+36
+
+41,86 %
+
+Vysokoškolské 1.stupňa
+
+16
+
+18,60 %
+
+Vysokoškolské 2.stupňa
+
+31
+
+36,05 %
+
+Vysokoškolské 3.stupňa
+
+1
+
+1,16 %
+
+Základné vzdelanie
+
+2
+
+2,33 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 4: Najvyššie dosiahnuté vzdelanie
+
+Zdroj: vlastné spracovanie
+
+Pri sledovaní najvyššieho stupňa vzdelania zo širokého spektra respondentov sme zistili, že 36
+respondentov, čo tvorí 41,86 % zo všetkých opýtaných, tvorí skupina osôb s dosiahnutým
+stredoškolským vzdelaním, do ktorého je zahrnuté aj učňovské vzdelanie. 18,60 %
+respondentov tvorili vysokoškolské vyštudované osoby, ktoré dosiahli štúdium prvého stupňa
+a spolu ich tvorilo 16 respondentov. V rámci prieskumnej vzorky sme oslovili 36,05 %
+respondentov, ktorí vyštudovali vysokoškolské štúdium druhého stupňa a dokopy ich tvoril 31
+opýtaných. 1,16 % respondentov, čiže jeden respondent má ukončené vysokoškolské štúdium
+tretieho stupňa a 2,33 % opýtaných tvorí vzorka osôb, pri ktorých je momentálne ukončené
+základné vzdelanie a spolu sú to dvaja respondenti.
+
+39
+
+Otázka č. 5: Mali ste niekedy infarkt myokardu?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+4
+
+4,65 %
+
+Nie
+
+82
+
+95,35 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 5: Prekonanie infarktu myokardu
+
+Zdroj: vlastné spracovanie
+
+Na otázku Mali ste niekedy infarkt myokardu? nám prieskumná vzorka ukázala, že 4,65 %
+opýtaných už prekonalo vo svojom živote infarkt myokardu, čo tvoria 4 z opýtaných
+respondentov. Ďalších 82 respondentov vo svojom živote neprekonalo infarkt myokardu, čo
+tvorí 95,35 % prieskumnej vzorky.
+Otázka č. 6: Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+20
+
+23,26 %
+
+Nie
+
+66
+
+76,74 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 6: Skúsenosť s poskytovaním prvej pomoci
+
+Zdroj: vlastné spracovanie
+
+Na otázku Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu? nám
+respondentská vzorka odpovedala takto: 23,26 % všetkých opýtaných osôb už niekedy v živote
+muselo poskytovať prvú pomoc, čo dokopy tvorilo 20 respondentov. 66 respondentov
+odpovedalo, že doteraz nemali skúsenosť s poskytovaním prvej pomoci, čo dokopy tvorí 76,74
+percent opýtaných osôb.
+
+40
+
+Otázka č. 6A: Pokiaľ ste označili Áno v otázke č.6, prosím doplňte o aký typ prvej pomoci
+išlo
+Respondenti, ktorí majú skúsenosť s poskytovaním prvej pomoci nám v otvorenej otázke
+vymenovali druh prvej pomoci, pri ktorej asistovali. Táto otvorená otázka poskytuje širokú
+škálu odpovedí, ktoré sme zhrnuli a sú uvedené nižšie:
+●
+
+snaženie sa upokojiť pacienta, privolanie pomoci - na túto otázku odpovedal jeden
+respondent, čo predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno”
+v otázke číslo 6;
+
+●
+
+rôzne alergické reakcie, hypoglykémia, intoxikácia, autonehoda - na túto otázku
+odpovedal jeden respondent, čo predstavuje 5 % z celkového počtu respondentov, ktorí
+odpovedali “áno” v otázke číslo 6;
+
+●
+
+zástava srdca, epileptický záchvat, pád - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6;
+
+●
+
+tri prípady u ľudí nad 70 rokov - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6;
+
+●
+
+pri odpadnutí človeka na ulici - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6;
+
+●
+
+porážka, autonehoda, pád - na túto otázku odpovedal jeden respondent, a to tvorí 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+kolaps, úraz - na túto otázku odpovedal jeden respondent, čo predstavuje 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+prvá pomoc pri poruche vedomia, pri KPR, pri úraze - na túto otázku odpovedal jeden
+respondent, čo predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno”
+v otázke číslo 6;
+
+●
+
+zlomenina nohy, kolaps, bezvedomie - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6;
+
+●
+
+náhla zástava obehu - na túto otázku odpovedal jeden respondent, čo predstavuje 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+41
+
+●
+
+zastavenie krvácania - na túto otázku odpovedal jeden respondent, čo predstavuje 5 %
+z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+KPR - na túto otázku odpovedal jeden respondent, čo predstavuje 5 % z celkového počtu
+respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+privolanie záchranky k človeku v bezvedomí - na túto otázku odpovedal jeden
+respondent, čo predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno”
+v otázke číslo 6;
+
+●
+
+zaistenie pacienta po páde z výšky - na túto otázku odpovedal jeden respondent, a to
+tvorí 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+pomoc pri epileptickom záchvate, reakcia na chemoterapiu, vytiahnutie jazyka,
+resuscitácia - na túto otázku odpovedal jeden respondent, čo predstavuje 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+dusenie a reakcia na očkovanie - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6;
+
+●
+
+porážka - na túto otázku odpovedal jeden respondent, a to predstavuje 5 % z celkového
+počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+poranenie kože - na túto otázku odpovedal jeden respondent, čo predstavuje 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+resuscitácia - na túto otázku odpovedal jeden respondent, to predstavuje 5 % z
+celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo 6;
+
+●
+
+febrilné kŕče, čierny kašeľ pri bábätku - na túto otázku odpovedal jeden respondent, čo
+predstavuje 5 % z celkového počtu respondentov, ktorí odpovedali “áno” v otázke číslo
+6.
+
+Otázka č. 7: Mali ste možnosť niekedy v okolí pozorovať poskytovanie prvej pomoci?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+45
+
+52,33 %
+
+Nie
+
+41
+
+47,67 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 7: Možnosť sledovania poskytovania prvej pomoci
+
+Zdroj: vlastné spracovanie
+
+42
+
+Na otázku Mali ste možnosť niekedy v okolí pozorovať poskytovanie prvej pomoci? nám 52,33
+% respondentov uviedlo, že už bolo prítomných na pozorovaní poskytovania prvej pomoci, čo
+tvorí skupinu 45 osôb. Z celkového počtu respondentov odpovedalo na túto otázku 41 osôb,
+ktorí nikdy neboli prítomní na sledovaní poskytovania prvej pomoci, čo dokopy tvorí 47,67 %
+respondentov.
+Otázka č. 8: Máte aspoň teoretické znalosti pri poskytovaní prvej pomoci?
+Odpoveď
+
+n
+
+%
+
+Áno, ale nemám kurz prvej pomoci
+
+22
+
+25,58 %
+
+Áno, mám kurz prvej pomoci
+
+44
+
+51,16 %
+
+Nie, nemal som možnosť absolvovať kurz prvej pomoci
+
+20
+
+23,26 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 8 Teoretické znalosti pri poskytovaní prvej pomoci
+
+Zdroj: vlastné spracovanie
+
+Na otázku Máte aspoň teoretické znalosti pri poskytovaní prvej pomoci? nám odpovedalo 22
+respondentov, čo tvorí 25,58 % všetkých opýtaných, že majú teoretické znalosti, ale žiaľ
+nemajú absolvovaný kurz prvej pomoci. Z celkového počtu respondentov až 44 % opýtaných
+majú aj teoretické znalosti a zároveň absolvovaný kurz prvej pomoci, čo tvorilo dokopy 51,16
+% opýtaných. Na otázku o teoretických znalostiach pri poskytovaní prvej pomoci nám
+odpovedalo 23,26 % respondentov, čiže 20 osôb, že nemajú ani teoretické znalosti a zároveň
+nemali doteraz možnosť absolvovať kurz prvej pomoci.
+Otázka č. 9: Myslíte si, že laická verejnosť je dostatočne informovaná o poskytovaní prvej
+pomoci?
+Odpoveď
+
+n
+
+%
+
+Áno, laická verejnosť má dostatok príležitostí a
+
+22
+
+25,58 %
+
+informovanosti o poskytovaní prvej pomoci
+
+43
+
+Nie, a preto by som rád prijal/a častejšie kurzy preplatené
+
+53
+
+61,63 %
+
+11
+
+12,79 %
+
+86
+
+100,00%
+
+firmou, kde pracujem
+Nie, a preto chodievam na pravidelnej báze obnovovať si
+tieto informácie
+Celkový súčet
+
+Tabuľka 9: Informovanosť laickej verejnosti o poskytovaní prvej pomoci
+Zdroj: vlastné spracovanie
+Na otázku Myslíte si, že laická verejnosť je dostatočne informovaná o poskytovaní prvej
+pomoci? nám odpovedalo 25,58 % respondentov, že súhlasia s tým, že laická verejnosť má
+dostatok príležitostí a informovanosti o poskytovaní prvej pomoci, čo spolu tvorilo 22
+opýtaných. 61,63 % opýtaných má názor, že laická verejnosť je nedostatočne informovaná o
+poskytovaní prvej pomoci a radi by prijali častejšie kurzy napríklad preplatené firmou, kde
+momentálne pracujú, a to tvorí vzorku 53 osôb. Respondenti, ktorí uviedli, že laická verejnosť
+nie je dostatočne informovaná o poskytovaní prvej pomoci, a preto na pravidelnej báze chodiť
+a obnovovať tieto znalosti a informácie či už vo forme kurzov alebo samovzdelávania. Počet
+týchto respondentov je 11 osôb, čo tvorí 12,79 % respondentov.
+Otázka č. 10: Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie
+je prítomný zdravotník?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+19
+
+22,09 %
+
+Nie
+
+67
+
+77,91 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 10: Postup pri infarkte myokardu bez prítomnosti zdravotníka
+Zdroj: vlastné spracovanie
+Na otázku Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník? nám v skrátenej forme odpovedalo 77,91 % zúčastnených, že nevedia
+postup pri poskytovaní prvej pomoci bez prítomnosti zdravotného pracovníka, čo tvorí 67
+44
+
+opýtaných osôb. Z celkového počtu respondentov nám len 22,09 % opýtaných potvrdilo, že sú
+oboznámení o postupe prvej pomoci pri infarkte myokardu, čo je spolu 19 opýtaných osôb.
+Otázka č. 10A: Pokiaľ ste označili Áno v otázke č.10, prosím doplňte laický postup prvej
+pomoci pri náhlom infarkte myokardu
+Respondenti, ktorí odpovedali “áno” v predchádzajúcej otázke mali možnosť doplniť do
+otvorenej otázky laický postup prvej pomoci pri náhlom infarkte myokardu a dostali sme rôznu
+škálu odpovedí, ktoré sú nižšie zhrnuté a uvedené:
+●
+
+zavolať 155 a postupovať podľa ich odporúčaní - túto odpoveď uviedol jeden
+respondent, a to predstavuje 5,26 % zo všetkých respondentov, ktorí odpovedali “áno”
+na otázku 10;
+
+●
+
+uvoľniť miesto okolo krku, volať RZP, kontrolovať stav vedomia, poslať po AED - túto
+odpoveď doplnil do otvorenej otázky jeden respondent, čo predstavuje 5,26 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+privolať odbornú pomoc, usadiť človeka, udržať ho v pokoji, kontrolovať pulz a
+dýchanie, prípadne resuscitovať - túto odpoveď napísal jeden respondent, rovnako to
+tvorí 5,26 % zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+v prvom rade by som pozrela, či dotyčný nemá zapadnutý jazyk a následne by som
+urobila masáž srdca - túto odpoveď uviedla jedna respondentka, a to tvorí 5,26 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+kontrola fyziologických funkcií, 5T, poloha v polosede, v prípade zlyhania srdcovej
+činnosti zahájenie KPR - túto odpoveď napísal jeden respondent, čo tvorí vzorku 5,26
+% respondentov, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+ak je pri vedomí, dám ho do polosedu, ak nie je človek pri vedomí, tak treba začať s
+masážou srdca a volať 155 - túto odpoveď uviedol jeden respondent, a to predstavuje
+5,26 % zo všetkých respondentov, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+pokojná poloha, polosed, prípadne masáž srdca pri vážnom stave - túto odpoveď doplnil
+do otvorenej otázky jeden respondent, čo predstavuje 5,26 % zo všetkých opýtaných,
+ktorí odpovedali “áno” na otázku 10;
+
+●
+
+nechať sedieť, uvoľniť odev - túto odpoveď napísal jeden respondent, čo tvorí vzorku
+5,26 % respondentov, ktorí odpovedali “áno” na otázku 10;
+
+45
+
+●
+
+prvá pomoc spočíva v resuscitácii s masážou srdca - túto odpoveď napísal jeden
+respondent, čo tvorí vzorku 5,26 % respondentov, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+závisí od vážnosti stavu, pri zastavení srdca je to masáž srdca, volať 155 - túto odpoveď
+doplnil do otvorenej otázky jeden respondent, čo predstavuje 5,26 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+volať 112, masáž srdca do príchodu lekára - túto odpoveď napísal jeden respondent, čo
+tvorí vzorku 5,26 % respondentov, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+ukľudniť postihnutého, poloha v polosede, uvoľniť oblečenie okolo krku, medzitým
+volať 155, v prípade ak je liečený na ICHS podať ASA, ak dostupné, do príchodu RZP
+sledovať vedomie, dýchanie, v prípade náhleho zastavenia obehu začať KPR - túto
+odpoveď doplnil do otvorenej otázky jeden respondent, čo predstavuje 5,26 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 10;
+
+●
+
+uvoľniť odev okolo krku, 5T, polosed, volať 155 - túto odpoveď napísal jeden
+respondent, čo tvorí vzorku 5,26 % respondentov, ktorí odpovedali “áno” na otázku 10.
+
+Otázka č. 11: Označte aké sú sprievodné príznaky pri náhlom zlyhaní srdca (viac
+možných odpovedí)
+Odpoveď
+
+n
+
+%
+
+Bolesť v hrudníku
+
+60
+
+21,66%
+
+Bolesť v chrbte
+
+32
+
+11,55%
+
+Bolesť v krku
+
+12
+
+4,33%
+
+Bolesť v uchu
+
+5
+
+1,81%
+
+Kašeľ
+
+15
+
+5,42%
+
+Zvracanie
+
+27
+
+9,75%
+
+Búšenie srdca
+
+41
+
+14,80%
+
+Studený pot
+
+42
+
+15,16%
+
+Zrýchlené dýchanie
+
+35
+
+12,64%
+
+Všetky uvedené
+
+8
+
+2,88%
+
+46
+
+Celkový súčet
+
+277
+
+Tabuľka 11: Sprievodné príznaky pri náhlom zlyhaní srdca
+
+Zdroj: vlastné spracovanie
+
+100%
+
+Na otázku Označte aké sú sprievodné príznaky pri náhlom zlyhaní srdca s možnosťou viacero
+možných odpovedí nám respondenti označili viacero odpovedí, preto percentuálne vyjadrenie
+nie je v tomto prípade relevantné. Uvádzame sumár odpovedí, ktoré respondenti uvádzajú, a to
+60 respondentov označilo, že ako sprievodný príznak infarktu myokardu je bolesť v hrudníku.
+Ďalej, bolesť v chrbte označilo 32 opýtaných, bolesť v krku 12 respondentov, bolesť v uchu 5
+respondentov. Ďalšími sprievodnými javmi, ktoré respondenti označili sú kašeľ - 15 opýtaných,
+zvracanie potvrdilo 27 respondentov. Búšenie srdca označilo za sprievodný jav 41
+respondentov a studený pot pri infarkte myokardu označilo 42 opýtaných. 35 ľudí označilo aj
+možnosť zrýchleného dýchania a všetky uvedené možnosti, čiže bolesť v hrudníku, bolesť v
+chrbte, bolesť v krku, bolesť v uchu, kašeľ, zvracanie, búšenie srdca studený pot a zrýchlené
+dýchanie označilo 8 respondentov.
+Otázka č. 12: Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca?
+Odpoveď
+
+n
+
+%
+
+Zavolám prvú pomoc 112/155 a uvediem pacienta do
+
+36
+
+41,86 %
+
+Zavolám prvú pomoc 112/155 a vyčkám pri pacientovi
+
+22
+
+25,58 %
+
+Zavolám prvú pomoc 112/155, zachovám pokoj a
+
+28
+
+32,56 %
+
+86
+
+100,00%
+
+stabilizovanej polohy
+
+posadím pacienta do polohy v polosede
+Celkový súčet
+
+Tabuľka 12 Postup pri zachránení človeka s náhlym zlyhaním srdca Zdroj: vlastné spracovanie
+Na otázku Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym zlyhaním
+srdca? nám odpovedalo 41,86 % respndentov, že by zvolili možnosť volania prvej pomoci
+112/155 a uviedli by pacienta do stabilizovanej polohy, čo tvorilo 36 opýtaných osôb.
+Odpoveď, že by respondenti zavolali prvú pomoc 112/155 a vyčkali by pri pacientovi zvolilo
+47
+
+22 opýtaných, čo tvorí 25,58 % z celkového počtu prieskumnej vzorky. 32,56 % respondentov
+by pri akútnom infarkte myokardu zavolalo prvú pomoc 112/155, zachovali by pokoj a posadili
+pacienta do polohy v polosede a počkali, kým príde záchranná služba. Počet osôb s touto
+odpoveďou je 28.
+Otázka č. 13: Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu
+vo vašej prítomnosti? (viac možných odpovedí)
+Odpoveď
+
+n
+
+%
+
+Prísun čerstvého vzduchu
+
+2
+
+2,33 %
+
+Prísun čerstvého vzduchu, Sledovať, či pacient dýcha
+
+2
+
+2,33 %
+
+Prísun čerstvého vzduchu, Uvoľniť oblečenie pri krku a
+
+6
+
+6,98 %
+
+Sledovať, či pacient dýcha
+
+9
+
+10,47 %
+
+Uvoľniť oblečenie pri krku a hrudnej oblasti
+
+3
+
+3,49 %
+
+Uvoľniť oblečenie pri krku a hrudnej oblasti, Sledovať,
+
+14
+
+16,27 %
+
+Všetky uvedené možnosti
+
+50
+
+58,13 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+hrudnej oblasti
+
+či pacient dýcha
+
+Tabuľka 13: Ďalšie kroky pomoci pri akútnom infarkte myokardu Zdroj: vlastné spracovanie
+Na otázku Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym zlyhaním
+srdca? nám respondenti mohli odpovedať v rámci viacerých možných odpovedí. 2,33 %
+opýtaných by zvážilo možnosť prísunu čerstvého vzduchu, čo tvorili dve opýtané osoby. K
+odpovedi, kde by respondenti zvážili možnosť prísunu čerstvého vzduchu a doplnili by aj
+sledovanie, či pacient dýcha, nám odpovedali ďalšie 2,33 % respondentov, takže ďalší dvaja
+opýtaní. Dvojkombináciu možností s odpoveďami prísun čerstvého vzduchu, uvoľnenie
+oblečenia na hrudi a krku by zvoli šiesti opýtaní, čo tvorí 6,98 % z prieskumu. Až 58,13 %
+opýtaných považujú za potrebné zvážiť všetky možností uvedené v dotazníkových
+odpovediach, a tie určujú tieto kroky prísun čerstvého vzduchu, uvoľnenie oblečenia pri krku a
+hrudnej oblasti, sledovanie, či pacient dýcha. Túto trojkombináciu zvolilo 50 respondentov.
+48
+
+Možnosť samotného sledovania, či pacient alebo postihnutý dýcha by zvolilo 10,47 %
+opýtaných, čo dosahuje počet 9 respondentov. Traja respondenti by zvážili iba uvoľnenie
+oblečenia pri krku a hrudnej oblasti, čo tvorí 3,49 % z celkového počtu prieskumnej vzorky.
+Dvojkombináciu odpovede, kde by respondenti zvolili sledovanie dýchania a uvoľnenie
+oblečenia pri krku a hrudnej oblasti označilo 16,27 % opýtaných, čiže 14 respondentov.
+Otázka č. 14: Viete čo je automatický externý defibrilátor (AED)?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+72
+
+83,72 %
+
+Nie
+
+14
+
+16,28 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 14: Vedomosť o automatickom externom defibrilátore (AED)
+Zdroj: vlastné spracovanie
+Na otázku, Viete čo je automatický externý defibrilátor (AED)? nám odpovedalo až 83,72 %
+respondentov, že majú vedomosť, čo znamená automatický externý defibrilátor, čo tvorí počet
+72 osôb. 16,28 % opýtaných označilo možnosť, že nevedia, čo je automatický externý
+defibrilátor, spolu je to 14 osôb.
+Otázka č. 15: Viete kde sa vo vašej blízkosti nachádzajú defibrilátory AED?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+24
+
+27,91 %
+
+Nie
+
+62
+
+72,09 %
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 15: Vedomosť o umiestnení defibrilátorov AED
+
+Zdroj: vlastné spracovanie
+
+Pri otázke o automatickom externom defibrilátore sme zisťovali, či respondenti majú
+informáciu o tom, kde sa v ich blízkosti nachádza tento prístroj. Na otázku Viete kde sa vo vašej
+49
+
+blízkosti nachádzajú defibrilátory AED? nám odpovedalo 27,91 % opýtaných, že vedia, kde sa
+AED nachádza, čo tvorí spolu 24 osôb. 62 opýtaných respondentov nemá vedomosti, kde sa
+automatický externý defibrilátor v ich blízkosti nachádza, čo je spolu 72,09 % zo všetkých
+odpovedí.
+Otázka č. 15A: Pokiaľ ste označili Áno v otázke č.15, prosím doplňte konkrétne miesta,
+kde sa vo Vašej blízkosti nachádzajú defibrilátory AED
+V otvorenej otázke sme sa žiadali respondentov, ktorí označili možnosť, že vedia, kde sa
+nachádza automatický externý defibrilátor, aby doplnili konkrétne miesta, kde sa AED prístroje
+nachádzajú. Dostali sme tieto odpovede:
+●
+
+Mapa AED - túto odpoveď doplnili do otvorenej otázky dvaja respondenti, čo
+predstavuje 8,33 % zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+nákupné centrá, hlavná stanica - takto odpovedal jeden respondent, a to tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+muničný sklad, súkromná osoba - túto otázku doplnil jeden respondent, čo tvorí 4,17
+% zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+Podunajské Biskupice Tesco Hron - túto otázku doplnil jeden respondent, čo tvorí 4,17
+% zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+DSS - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých opýtaných,
+ktorí odpovedali “áno” na otázku 15;
+
+●
+
+obecný úrad - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+na Hlinkovom námestí, na zimnom štadióne - túto otázku doplnil jeden respondent, čo
+tvorí 4,17 % zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+máme v kancelárii - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+Tesco obchod - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+Obecný úrad Hamuliakovo - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+otázku doplnil
+
+jeden respondent, čo tvorí 4,17 % zo všetkých opýtaných, ktorí
+
+odpovedali “áno” na otázku 15;
+50
+
+●
+
+Slovenský Grob Malý Raj - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+čerpacie stanice, obecný úrad - túto otázku doplnil jeden respondent, čo tvorí 4,17 %
+zo všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+vlaková stanica - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+vrátnica, strážna služba - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+mestský úrad - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+pri obecnom úrade - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+budova obecného úradu - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+obecný úrad - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+kultúrny dom v obci - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+Trnavské mýto - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo všetkých
+opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+nákupné centrá, väčšie spoločenské udalosti, športové podujatia, posádky MZP,
+podchody, niektoré lekárne - túto otázku doplnil jeden respondent, čo tvorí 4,17 % zo
+všetkých opýtaných, ktorí odpovedali “áno” na otázku 15;
+
+●
+
+nákupné centrá alebo miesta, kde sa nachádza viac ľudí - túto otázku doplnil jeden
+respondent, čo tvorí 4,17 % zo všetkých opýtaných, ktorí odpovedali “áno” na otázku
+15.
+
+Otázka č. 16: Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca?
+Odpoveď
+
+n
+
+%
+
+Áno
+
+69
+
+80,23 %
+
+Nie
+
+17
+
+19,77 %
+
+51
+
+Celkový súčet
+
+86
+
+100,00%
+
+Tabuľka 16: Možnosť použitia defibrilátora AED v prípade zlyhania srdca
+Zdroj: vlastné spracovanie
+Na otázku Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca? sme zistili, že až
+80,23 % opýtaných považujú za možné, že ako laici by mohli použiť automatický externý
+defibrilátor v prípade zlyhania srdca, čo tvorí počet 69 opýtaných. 19,77 % respondentov tvrdí,
+že ako laici by nemohli použiť automatický externý defibrilátor, čo tvorí spolu 17 opýtaných
+osôb.
+“Automatizovaný externý defibrilátor (AED) prostredníctvom jednoduchých pokynov dokáže
+viesť aj laika k bezpečnej a úspešnej záchrane ľudského života. Na Slovensku boli za obdobie
+ostatných štyroch rokov zachránené vďaka AED tri (známe) ľudské životy pri štyroch
+použitiach. Samotní zachránení, ako aj ich blízki sú najväčším dôkazom o zmysluplnosti
+automatizovaných defibrilátorov pre laickú verejnosť. Ročne je vďaka AED zachránených na
+svete viac ako 3000 ľudí.” Auratrade (2024).
+4.2 VYHODNOTENIE PRIESKUMNÝCH OTÁZOK
+PRIESKUMNÉ OTÁZKY
+1. Respondenti z laickej verejnosti s absolvovaným kurzom prvej pomoci budú mať vyššiu
+mieru informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti bez kurzu
+prvej pomoci.
+2. Vysokoškolsky vzdelaní respondenti z laickej verejnosti budú mať vyššiu mieru
+informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti so stredoškolským
+vzdelaním.
+3. Respondenti z laickej verejnosti, ktorí mali skúsenosť s poskytovaním prvej pomoci pri
+IM, budú mať vyššiu mieru informovanosti o poskytovaní prvej pomoci pri IM, ako
+respondenti bez skúsenosti.
+
+52
+
+4. Respondenti z laickej verejnosti nad 35r budú mať vyššiu mieru informovanosti o
+poskytovaní prvej pomoci pri IM, ako respondenti pod 35r.
+
+Prieskumná otázka č.1: Majú respondenti z laickej verejnosti s absolvovaným kurzom prvej
+pomoci vyššiu mieru informovanosti o poskytovaní prvej pomoci pri infarkte myokardu ako
+respondenti bez kurzu prvej pomoci?
+Prieskumná otázka 1 - Budú mať respondenti z laickej Absolvovaný
+
+kurz
+
+prvej
+
+verejnosti s absolvovaným kurzom prvej pomoci vyššiu pomoci
+mieru informovanosti o poskytovaní prvej pomoci pri áno
+
+nie
+
+infarkte myokardu ako respondenti bez kurzu prvej počet %
+
+počet %
+
+pomoci?
+
+44
+
+51,16% 42
+
+48,84%
+
+Otázka 6: Mali ste niekedy skúsenosť s áno
+
+15
+
+34,09% 5
+
+11,90%
+
+nie
+
+29
+
+65,91% 37
+
+88,10%
+
+Otázka 10: Viete aký je postup prvej áno
+
+17
+
+36,64% 2
+
+4,76%
+
+27
+
+61,36% 40
+
+95,24%
+
+37
+
+84,09% 40
+
+95,24%
+
+7
+
+15,91% 2
+
+4,76%
+
+správnu 24
+
+54,55% 4
+
+9,52%
+
+45,45% 38
+
+90,48%
+
+15
+
+34,09% 21
+
+50,00%
+
+29
+
+65,91% 21
+
+50,00%
+
+poskytovaním prvej pomoci akéhokoľvek
+typu?
+pomoci pri náhlom infarkte myokardu,
+pokiaľ nie je prítomný zdravotník?
+Otázka 11: Označte aké sú sprievodné
+príznaky pri náhlom zlyhaní srdca (viac
+možných odpovedí)
+
+nie
+znalosť aspoň časti
+príznakov
+znalosť
+
+všetkých
+
+príznakov
+respondenti
+
+Otázka 12: Ako by ste postupovali, keby ste
+mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca?
+
+uviedli
+odpoveď
+
+respondenti
+uviedli nesprávnu 20
+odpoveď
+
+Otázka 13: Aké ďalšie kroky by bolo znalosť aspoň časti
+potrebné zvážiť pri akútnom infarkte krokov
+myokardu vo vašej prítomnosti? (viac znalosť
+možných odpovedí)
+
+krokov
+
+53
+
+všetkých
+
+Otázka 14: Viete čo je automatický externý áno
+
+43
+
+97,73% 29
+
+69,05%
+
+defibrilátor (AED)?
+
+nie
+
+1
+
+2,27% 13
+
+30,95%
+
+Otázka 16: Môžete ako laik použiť áno
+
+41
+
+93,18% 28
+
+66,67%
+
+defibrilátor AED v prípade zlyhania srdca? nie
+
+3
+
+6,82% 14
+
+33,33%
+
+Tabuľka 17: Vyhodnotenie prieskumnej otázky 1
+Prieskumnú otázku č. 1 sme vyhodnocovali na základe dotazníkových otázok 6, 10, 11, 12, 13,
+14, 16. Z celkového počtu respondentov 86, čo tvorí 100 %, malo absolvovaný kurz prvej
+pomoci 44 respondentov, čo tvorí 51,16 %. 42 respondentov nemalo absolvovaný kurz prvej
+pomoci, a to tvorí 48,84 %.
+Otázka 6: Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu? Pri
+celkovom počte respondentov s absolvovaným kurzom prvej pomoci 44 malo niekedy
+skúsenosť poskytovaním prvej pomoci akéhokoľvek typu 15 respondentov, čo tvorí 34,09 %.
+29 respondentov zo 44 respondentov, čo tvorí 65,91 % nemalo nikdy skúsenosť s absolvovaním
+prvej pomoci akéhokoľvek typu. Z celkového počtu respondentov bez absolvovaného kurzu
+prvej pomoci 42, malo niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu 5
+respondentov, čo tvorí 11,90 %. 37 respondentov bez absolvovaného kurzu prvej pomoci
+nemalo skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu, čo tvorí 88,10 %.
+Prieskumnú otázku s dotazníkovou otázkou č. 6 potvrdzujeme.
+Otázka 10: Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník? 17 respondentov zo 44 respondentov s absolvovaným kurzom prvej
+pomoci, čo tvorí 36,64 %, uviedlo, že vedia, aký je postup prvej pomoci pri náhlom infarkte
+myokardu pokiaľ nie je prítomný zdravotník. Zo 44 respondentov s absolvovaným kurzom
+prvej pomoci uviedlo 27 respondentov, čo tvorí 61,36 %, že nemajú znalosť o postupe prvej
+pomoci pri náhlom infarkte myokardu bez prítomnosti zdravotníka. Z počtu 42 respondentov
+bez absolvovaného kurzu prvej pomoci uviedli 2 respondenti, čo tvorí 4,76 %, že majú
+vedomosť o postupe prvej pomoci pri infarkte myokardu pokiaľ nie je prítomný zdravotník. 40
+respondentov bez absolvovaného kurzu prvej pomoci, teda 95,24 % uviedlo, že nemajú znalosť
+o postupe prvej pomoci pri náhlom infarkte myokardu bez prítomnosti zdravotníka. Prieskumnú
+otázku s dotazníkovou otázkou č. 10 potvrdzujeme.
+Otázka 11: Označte, aké sú sprievodné príznaky pri náhlom zlyhaní srdca. 37 opýtaných s
+absolvovaným kurzom prvej pomoci nám odpovedal, že majú čiastočné znalosti príznakov pri
+náhlom zlyhaní srdca, čo tvorí 84,09 % a 7 respondentov s absolvovaným kurzom prvej pomoci
+54
+
+potvrdilo, že poznajú všetky sprievodné príznaky pri náhlom zlyhaní srdca, čo tvorí vzorku
+15,91 %. 2 z opýtaných bez absolvovaného kurzu prvej pomoci, čo tvorí 4,76 % zo všetkých
+opýtaných, malo znalosť o všetkých príznakoch infarktu myokardu. 40 opýtaných bez
+absolvovaného kurzu prvej pomoci nám potvrdilo, že nemajú buď čiastočné alebo celkové
+znalosti sprievodných príznakov pri náhlom zlyhaní srdca, a to tvorí vzorku 95,24 %. Čiastkovú
+prieskumnú otázku s dotazníkovou otázkou 11 potvrdzujeme.
+Otázka 12: Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca. 24 respondentov, ktorí mali absolvovaný kurz prvej pomoci, uviedli správnu
+odpoveď, a to tvorilo vzorku 54,55 %. Pri správnej odpovedi odpovedali správne štyria opýtaní,
+ktorí nemajú absolvovaný kurz prvej pomoci, a to tvorí 9,52 %. 20 respondentov, ktorí
+neuviedli správnu odpoveď, má absolvovaný kurz prvej pomoci, čo tvorí vzorku 45,45 % a 38
+respondentov bez absolvovaného kurzu prvej pomoci uviedlo nesprávnu odpoveď, čo tvorí
+90,48 %. Preto čiastkovú prieskumnú otázku s dotazníkovou otázkou 12 potvrdzujeme.
+Otázka 13: Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu vo vašej
+prítomnosti? 29 opýtaných s absolvovaným kurzom prvej pomoci, čo tvorí vzorku 65,91%
+uviedlo znalosť všetkých krokov. 15 opýtaných s absolvovaným kurzom prvej pomoci, čo tvorí
+34,09 % uviedlo znalosť aspoň časti krokov. 21 opýtaných by vedelo zvážiť všetky kroky pri
+akútnom IM, ale nemali absolvovaný kurz prvej pomoci, a to tvorí vzorku 50 %. 21 opýtaných
+bez absolvovaného kurzu prvej pomoci, teda 50 % opýtaných, by vedelo aspoň časť krokov pri
+akútnom infarkte myokardu. Čiastočnú prieskumnú otázku s dotazníkovou otázkou 13
+potvrdzujeme.
+Otázka 14: Viete čo je automatický externý defibrilátor (AED)? Na otázku, či respondenti
+vedia, čo je AED nám 72 respondentov odpovedalo, že majú vedomosť, a z toho 43, čiže 97,73
+%, má absolvovaný kurz prvej pomoci. 29 opýtaných vedia, čo je automatický externý
+defibrilátor, ale nemajú absolvovaný kurz prvej pomoci, čo tvorí vzorku 69,05 %. 14 opýtaných
+nevie, čo je AED, z toho jeden respondent mal absolvovaný kurz prvej pomoci, a to tvorí 2,27
+%. 13 opýtaných nevie čo je AED a nemá absolvovaný kurz prvej pomoci, to tvorí 30,95 %
+opýtaných. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 14 potvrdzujeme.
+Otázka 16: Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca? 69 respondentov
+odpovedalo správne, že ako laici môžu použiť AED v prípade potreby a z toho 41 má
+absolvovaný kurz prvej pomoci, čo tvorí vzorku 93,18 %. Pri správnej odpovedi 28
+respondentov nemá absolvovaný kurz prvej pomoci, a to tvorí 66,67 %. 17 opýtaných nevie, či
+ako laici môžu použiť automatický externý defibrilátor, a z toho traja majú absolvovaný kurz
+prvej pomoci, čo je 6,82 %. 14 opýtaných nevie či môžu použiť AED a zároveň nemá
+55
+
+absolvovaný kurz prvej pomoci, čo tvorí 33,33 % z celkového počtu respondentov. Čiastkovú
+prieskumnú otázku s dotazníkovou otázkou 16 potvrdzujeme.
+Prieskumnú otázku č. 1 potvrdzujeme.
+Prieskumná otázka č.2: Majú vysokoškolsky vzdelaní respondenti z laickej verejnosti vyššiu
+mieru informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti so stredoškolským
+vzdelaním?
+
+Prieskumná otázka 2 - Budú mať vysokoškolsky vzdelaní
+respondenti z laickej verejnosti vyššiu mieru informovanosti
+o poskytovaní prvej pomoci pri IM, ako respondenti so
+stredoškolským vzdelaním?
+
+Absolvovanie
+
+vysokej
+
+školy
+áno
+
+nie
+
+počet %
+
+počet %
+
+48
+
+55,81% 38
+
+44,19%
+
+11
+
+22,92% 9
+
+23,68%
+
+nie
+
+37
+
+77,08% 29
+
+76,32%
+
+Otázka 10: Viete aký je postup prvej pomoci áno
+
+11
+
+22,92% 8
+
+21,05%
+
+37
+
+77,08% 30
+
+78,95%
+
+42
+
+87,5% 35
+
+92,11%
+
+6
+
+12,5% 3
+
+7,89%
+
+správnu 20
+
+41,67% 8
+
+21,05%
+
+58,33% 30
+
+78,95%
+
+37,5% 19
+
+50%
+
+Otázka 6: Mali ste niekedy skúsenosť s áno
+poskytovaním prvej pomoci akéhokoľvek
+typu?
+pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník?
+Otázka 11: Označte aké sú sprievodné
+príznaky pri náhlom zlyhaní srdca (viac
+možných odpovedí)
+
+nie
+znalosť aspoň časti
+príznakov
+znalosť
+
+všetkých
+
+príznakov
+respondenti
+
+Otázka 12: Ako by ste postupovali, keby ste
+mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca?
+
+uviedli
+odpoveď
+
+respondenti
+uviedli nesprávnu 28
+odpoveď
+
+Otázka 13: Aké ďalšie kroky by bolo znalosť aspoň časti
+potrebné zvážiť pri akútnom infarkte krokov
+
+56
+
+18
+
+myokardu vo vašej prítomnosti? (viac znalosť
+
+všetkých
+
+30
+
+62,5% 19
+
+50%
+
+Otázka 14: Viete čo je automatický externý áno
+
+42
+
+87,5% 30
+
+78,95%
+
+defibrilátor (AED)?
+
+nie
+
+6
+
+12,5% 8
+
+21,05%
+
+Otázka 16: Môžete ako laik použiť áno
+
+40
+
+83,33% 29
+
+76,32%
+
+defibrilátor AED v prípade zlyhania srdca? nie
+
+8
+
+16,67% 9
+
+23,68%
+
+možných odpovedí)
+
+krokov
+
+Tabuľka 18: Vyhodnotenie prieskumnej otázky 2
+Prieskumnú otázku č. 2 sme vyhodnocovali na základe dotazníkových otázok 6, 10, 11, 12, 13,
+14, 16.
+Z celkového počtu respondentov 86, čo tvorí 100,00 % všetkých opýtaných
+
+nám 48
+
+respondentov, čo tvorí 55,81 % všetkých opýtaných, potvrdilo, že majú vysokoškolské
+vzdelanie a 38 respondentov, čo tvorí 44,19 % všetkých opýtaných, malo len základné alebo
+stredoškolské vzdelanie.
+Otázka 6: Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu?
+Pozitívne nám odpovedalo 20 opýtaných, čo tvorí 23,26 % respondentov. Práve títo respondenti
+mali niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek druhu. Z tohto počtu bolo
+11 opýtaných absolventov vysokej školy, čo tvorí 22,92 % a deviati opýtaní mali iba
+stredoškolské, prípadne základné vzdelanie, a to tvorí 23,68 %. 37 osôb z celkového počtu
+opýtaných, čo tvorí 73,08 %, ktorí mali absolvovanú vysokú školu, nemalo skúsenosť
+s poskytovaním prvej pomoci akéhokoľvek typu. 29 osôb z celkového počtu opýtaných, čo
+tvorí 76,32%, ktorí nemali absolvovanú vysokú školu, nemalo skúsenosť s poskytovaním prvej
+pomoci akéhokoľvek typu. Prieskumnú otázku s dotazníkovou otázkou č. 6 nepotvrdzujeme.
+Otázka 10: Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník? Z celkového počtu opýtaných respondentov nám pozitívne odpovedalo
+19 respondentov, čo tvorí 22,10 % z celkového počtu opýtaných. Z toho 11 respondentov, čo
+tvorí 22,92 %, má vysokoškolské vzdelanie a 8 respondentov, teda 21,05 %, nemá
+vysokoškolské vzdelanie. 37 respondentov s vysokoškolským vzdelaním, čo tvorí 77,08 %
+nemá znalosti o postupe pri náhlom infarkte myokardu. 30 osôb bez vysokoškolského
+vzdelanie, teda 78,95 % nemá znalosť o postupe prvej pomoci pri náhlom infarkte myokardu
+bez prítomnosti zdravotníka. Preto túto prieskumnú otázku s dotazníkovou otázkou 10
+potvrdzujeme.
+
+57
+
+Otázka 11: Označte, aké sú sprievodné príznaky pri náhlom zlyhaní srdca. Z celkového počtu
+86 respondentov poznalo všetky sprievodné príznaky pri náhlom zlyhaní srdca 9 respondentov.
+Z toho 6 respondentov, čo tvorí 12,5 % uviedlo, že má vysokoškolské vzdelanie a 3
+respondenti, čo tvorí 7,89 %, nemá vysokoškolské vzdelanie. Znalosť aspoň časti príznakov
+má 42 respondentov s vysokoškolským vzdelaním, čo tvorí 87,5 %. Znalosť aspoň časti
+príznakov má 35 respondentov bez vysokoškolského vzdelania, čo tvorí 92,11 %. Čiastkovú
+prieskumnú otázku s dotazníkovou otázkou 11 potvrdzujeme.
+Otázka 12: Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca. Celkový počet oslovených tvorí 86. 28 respondentov zo všetkých opýtaných
+uviedlo v dotazníku správnu odpoveď. Pri správnej odpovedi bolo až 20 respondentov, ktorí
+mali vysokoškolské vzdelanie, a to tvorilo vzorku 41,67 %. 8 respondentov z opýtaných uviedli
+iba základné, prípadne stredoškolské vzdelanie, čo tvorí 21,05 %. 28 respondentov
+s vysokoškolským vzdelaním, čo tvorí 58,33 %, uviedlo nesprávnu odpoveď. Taktiež
+nesprávnu odpoveď uviedlo 30 respondentov bez vysokoškolského vzdelania, čo tvorí 78,95
+%. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 12 týmto potvrdzujeme.
+Otázka 13: Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu vo vašej
+prítomnosti? Z celkového počtu oslovených respondentov, až 49 respondentov, správne uviedlo
+znalosť ďalších krokov, ktoré je potrebné zvážiť pri akútnom infarkte myokardu. Z toho 30
+respondentov, čo tvorí 62,5 %, uviedlo vysokoškolské vzdelanie a 19 respondentov, čo tvorí
+50 %, uviedlo stredoškolské alebo základné vzdelanie. Čiastočnú prieskumnú otázku s
+dotazníkovou otázkou 13 týmto potvrdzujeme.
+Otázka 14: Viete čo je automatický externý defibrilátor (AED)? Na otázku, či respondenti
+vedia, čo je AED nám 72 respondentov odpovedalo, že majú vedomosť o AED, a z toho 42,
+čiže 87,5 % má vysokoškolské vzdelanie. 30 opýtaných, čo tvorí 78,95 % zo všetkých
+opýtaných, síce má znalosť o tomto prístroji, avšak sú to respondenti so stredoškolským alebo
+základným vzdelaním. 6 respondentov s vysokoškolským vzdelaním, čo tvorí 12,5 % uviedlo,
+že nevedia, čo je automatický externý defibrilátor. Respondentov bez vysokoškolského
+vzdelanie, ktorí nevedeli čo je AED bolo 8, čo tvorí 21,05 % z celkového počtu opýtaných.
+Čiastkovú prieskumnú otázku s dotazníkovou otázkou 14 potvrdzujeme.
+Otázka 16: Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca? Počet
+respondentov bol 86. 69 respondentov odpovedalo správne, že ako laici môžu použiť AED v
+prípade potreby a z toho 40 má vysokoškolské vzdelanie, čo tvorí vzorku 83,33 %. Pri správnej
+odpovedi 29 respondentov nemá vysokoškolské vzdelanie, a to tvorí 76,32 %. 8 opýtaných,
+teda 16,67 %, s vysokoškolským vzdelaním nevie, či ako laici môžu použiť automatický
+58
+
+externý defibrilátor. 9 opýtaných, teda 23,68 %, so základným a stredoškolským vzdelaním
+uviedlo, že laik nemôže použiť AED. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 16
+potvrdzujeme.
+Prieskumnú otázku č. 2 týmto potvrdzujeme.
+Prieskumná otázka č. 3: Majú respondenti z laickej verejnosti, ktorí mali skúsenosť s
+poskytovaním prvej pomoci pri IM, vyššiu mieru informovanosti o poskytovaní prvej pomoci
+pri IM, ako respondenti bez skúsenosti?
+Prieskumná otázka 3 - Budú mať respondenti z laickej Skúsenosť s poskytovaním
+verejnosti, ktorí mali skúsenosť s poskytovaním prvej prvej pomoci
+pomoci
+
+pri
+
+IM,
+
+vyššiu
+
+mieru
+
+informovanosti
+
+o áno
+
+nie
+
+poskytovaní prvej pomoci pri IM, ako respondenti bez počet %
+
+počet %
+
+skúsenosti?
+
+20
+
+23,26% 66
+
+76,74%
+
+Otázka 10: Viete aký je postup prvej áno
+
+11
+
+55%
+
+8
+
+12,12%
+
+9
+
+45%
+
+58
+
+87,88%
+
+19
+
+95%
+
+58
+
+87,88%
+
+1
+
+5%
+
+8
+
+12,12%
+
+správnu 9
+
+45%
+
+19
+
+28,79%
+
+55%
+
+47
+
+71,21%
+
+8
+
+40%
+
+28
+
+42,42%
+
+12
+
+60%
+
+38
+
+57,58%
+
+19
+
+95%
+
+53
+
+80,30%
+
+pomoci pri náhlom infarkte myokardu,
+pokiaľ nie je prítomný zdravotník?
+Otázka 11: Označte aké sú sprievodné
+príznaky pri náhlom zlyhaní srdca (viac
+možných odpovedí)
+
+nie
+znalosť aspoň časti
+príznakov
+znalosť
+
+všetkých
+
+príznakov
+respondenti
+
+Otázka 12: Ako by ste postupovali, keby
+ste mali možnosť zachrániť človeka s
+náhlym zlyhaním srdca?
+
+uviedli
+odpoveď
+
+respondenti
+uviedli nesprávnu 11
+odpoveď
+
+Otázka 13: Aké ďalšie kroky by bolo znalosť aspoň časti
+potrebné zvážiť pri akútnom infarkte krokov
+myokardu vo vašej prítomnosti? (viac znalosť
+možných odpovedí)
+
+krokov
+áno
+
+59
+
+všetkých
+
+Otázka 14: Viete čo je automatický
+
+nie
+
+1
+
+5%
+
+13
+
+19,70%
+
+Otázka 16: Môžete ako laik použiť áno
+
+19
+
+95%
+
+50
+
+75,76%
+
+1
+
+5%
+
+16
+
+24,24%
+
+externý defibrilátor (AED)?
+defibrilátor AED v prípade zlyhania
+srdca?
+
+nie
+
+Tabuľka 19: Vyhodnotenie prieskumnej otázky 3
+Prieskumnú otázku č. 3 sme vyhodnocovali na základe dotazníkových otázok 10, 11, 12, 13,
+14, 16.
+Z celkového počtu respondentov 86, čo tvorí 100 % z celkového počtu opýtaných, nám 20
+respondentov, teda 23,26 %, potvrdilo, že majú skúsenosť s poskytovaním prvej pomoci a 66
+respondentov, teda 76,74 %, nemalo skúsenosti s poskytnutím prvej pomoci.
+Otázka 10: Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník? Z celkového počtu opýtaných respondentov nám pozitívne odpovedalo
+19 respondentov. Z toho 11 respondentov, teda 55 %, má skúsenosti s poskytovaním prvej
+pomoci pri náhlom infarkte myokardu a 8 respondentov, teda 12,12 %, nemá skúsenosti s
+poskytovaním prvej pomoci. 67 respondentov uviedlo, že nemajú vedomosti o postupe prvej
+pomoci pri náhlom infarkte myokardu. Zo 67 respondentov, 9 malo skúsenosť s poskytovaním
+akejkoľvek prvej pomoci, čo tvorí 45 % a 58 respondentov, čo tvorí 87,88 %, nemalo skúsenosť
+s poskytovaním prvej pomoci. Preto túto čiastkovú prieskumnú otázku s dotazníkovou otázkou
+10 potvrdzujeme.
+Otázka 11: Označte, aké sú sprievodné príznaky pri náhlom zlyhaní srdca. Z celkového počtu
+86 respondentov poznalo všetky sprievodné príznaky pri náhlom zlyhaní srdca 9 respondentov.
+Z toho 1 respondent, čo tvorí 5 % uviedol, že má skúsenosť s poskytovaním prvej pomoci a 8
+respondenti, čo tvorí 12,12 %, nemalo skúsenosť s poskytovaním prvej pomoci. Z celkového
+počtu respondentov označilo znalosť aspoň časti príznakov 19 respondentov, ktorí už mali
+skúsenosť s poskytovaním prvej pomoci, čo tvorí 95 %. Z celkového počtu respondentov
+označilo znalosť aspoň časti príznakov 58 respondentov, ktorí ešte nemali skúsenosť
+s poskytovaním prvej pomoci, čo tvorí 87,88 % z celkového počtu respondentov Čiastkovú
+prieskumnú otázku s dotazníkovou otázkou 11 nepotvrdzujeme.
+Otázka 12: Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca. 28 respondentov zo všetkých opýtaných uviedlo v dotazníku správnu odpoveď.
+Pri správnej odpovedi bolo 9 respondentov, ktorí mali skúsenosti s poskytovaním prvej pomoci,
+
+60
+
+a to tvorilo vzorku 45 %. 19 respondentov z opýtaných, čo tvorí 28,79 % nemali skúsenosti s
+poskytovaním prvej pomoci. Až 58 respondentov z celkového počtu respondentov uviedlo
+nesprávnu odpoveď, konkrétne 11 respondentov so skúsenosťou s poskytovaním prvej pomoci,
+čo tvorí 55 %, a 47 respondentov bez skúsenosti s poskytovaním prvej pomoci, čo tvorí 71,21
+%. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 12 týmto potvrdzujeme.
+Otázka 13: Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu vo vašej
+prítomnosti? Z celkového počtu oslovených respondentov, až 50 respondentov, správne uviedlo
+znalosť všetkých ďalších krokov, ktoré je potrebné zvážiť pri akútnom infarkte myokardu. Z
+toho 12 respondentov, čo tvorí 60 % všetkých opýtaných, uviedlo, že mali skúsenosť s
+poskytovaním prvej pomoci a 38 respondentov, čo tvorí 57,58 % zo všetkých opýtaných
+respondentov uviedlo, že nemali skúsenosť s poskytovaním prvej pomoci. 8 respondentov so
+skúsenosťou s poskytovaním prvej pomoci, čo tvorí 40 % z celkového počtu opýtaných, malo
+znalosť aspoň časti krokov a 28 respondentov bez skúsenosti s poskytovaním prvej pomoci, čo
+tvorí 42,42 %, malo znalosť aspoň časti ďalších krokov. Čiastočnú prieskumnú otázku pri
+otázke 13 týmto potvrdzujeme.
+Otázka 14: Viete čo je automatický externý defibrilátor (AED)? Na otázku, či respondenti
+vedia, čo je AED nám 72 respondentov odpovedalo, že majú vedomosť o AED, a z toho 19,
+čiže 95 %, má skúsenosť s poskytovaním prvej pomoci. 53 opýtaných, čo tvorí 80,30 %, síce
+má znalosť o tomto prístroji, avšak nemajú skúsenosť s poskytovaním prvej pomoci. 1
+respondent so skúsenosťou s poskytovaním prvej pomoci, čo tvorí 5 %, vedelo odpovedať na
+otázku čo je AED a 13 respondentov bez skúsenosti s poskytovaním prvej pomoci, čo tvorí
+19,70 %, nevedelo odpovedať na otázku, čo je AED. Čiastkovú prieskumnú otázku s
+dotazníkovou otázkou 14 potvrdzujeme.
+Otázka 16: Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca? 69 respondentov
+odpovedalo správne, že ako laici môžu použiť AED v prípade potreby a z toho 19 má skúsenosť
+s poskytovaním prvej pomoci, čo tvorí vzorku 95 %. Pri správnej odpovedi 50 respondentov
+nemá skúsenosť s poskytovaním prvej pomoci, a to tvorí 75,76 %. 1 opýtaný, teda 5 %, so
+skúsenosťami s prvou pomocou nevie, či ako laik môže použiť automatický externý
+defibrilátor. 16 opýtaných, teda 24,24 %, bez skúseností s poskytovaním prvej pomoci nemá
+vedomosť, že laik môže použiť AED. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 16
+potvrdzujeme.
+Prieskumnú otázku č. 3 týmto potvrdzujeme.
+
+61
+
+Prieskumná otázka č.4: Majú respondenti z laickej verejnosti nad 35 rokov vyššiu mieru
+informovanosti o poskytovaní prvej pomoci pri IM, ako respondenti pod 35 rokov?
+
+Prieskumná otázka 4 - Budú mať respondenti z laickej Vek nad 35 rokov
+verejnosti nad 35 rokov vyššiu mieru informovanosti o áno
+
+nie
+
+poskytovaní prvej pomoci pri IM, ako respondenti pod 35 počet %
+
+počet %
+
+rokov?
+
+52
+
+60,47% 34
+
+39,53%
+
+Otázka 6: Mali ste niekedy skúsenosť s áno
+
+13
+
+25%
+
+7
+
+20,59%
+
+nie
+
+39
+
+75%
+
+27
+
+79,41%
+
+Otázka 10: Viete aký je postup prvej pomoci áno
+
+14
+
+26,92% 5
+
+14,71%
+
+38
+
+73,08% 29
+
+85,29%
+
+45
+
+86,54% 32
+
+94,12%
+
+7
+
+13,46% 2
+
+5,88%
+
+správnu 20
+
+38,46% 8
+
+23,53%
+
+61,54% 26
+
+76,47%
+
+21
+
+40,38% 15
+
+44,12%
+
+31
+
+59,62% 19
+
+55,88%
+
+Otázka 14: Viete čo je automatický externý áno
+
+41
+
+78,85% 31
+
+91,18%
+
+defibrilátor (AED)?
+
+nie
+
+11
+
+21,15% 3
+
+8,82%
+
+ako laik použiť áno
+
+39
+
+75%
+
+30
+
+88,24%
+
+defibrilátor AED v prípade zlyhania srdca? nie
+
+13
+
+25%
+
+4
+
+11,76%
+
+poskytovaním prvej pomoci akéhokoľvek
+typu?
+pri náhlom infarkte myokardu, pokiaľ nie je
+nie
+
+prítomný zdravotník?
+Otázka 11: Označte aké sú sprievodné
+príznaky pri náhlom zlyhaní srdca (viac
+možných odpovedí)
+
+znalosť
+
+aspoň
+
+časti príznakov
+znalosť všetkých
+príznakov
+respondenti
+
+Otázka 12: Ako by ste postupovali, keby ste
+mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca?
+
+uviedli
+odpoveď
+
+respondenti
+uviedli nesprávnu 32
+odpoveď
+
+Otázka 13: Aké ďalšie kroky by bolo znalosť
+
+aspoň
+
+potrebné zvážiť pri akútnom infarkte časti krokov
+myokardu vo vašej prítomnosti? (viac znalosť všetkých
+možných odpovedí)
+
+Otázka 16:
+
+Môžete
+
+krokov
+
+Tabuľka 20: Vyhodnotenie prieskumnej otázky 4
+
+62
+
+Prieskumnú otázku č. 4 sme vyhodnocovali na základe dotazníkových otázok 6, 10, 11, 12, 13,
+14, 16. Z celkového počtu respondentov 86, čo tvorí 100 % z celkového počtu opýtaných nám
+52 respondentov, čo tvorí 60,74 %, potvrdilo, že majú vek nad 35 rokov a 34 respondentov, čo
+tvorí 39,53 %, má vek menej ako 35 rokov.
+Otázka 6: Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu? Pri
+celkovom počte respondentov s počtom 86, nám pozitívne odpovedalo 20 opýtaných. Z tohto
+počtu bolo 13 opýtaných vo veku viac ako 35 rokov, čo tvorí z celkového počtu opýtaných 25
+% a siedmi opýtaní mali vek pod 35 rokov, a to tvorí 20,59 %. 39 respondentov vo veku nad
+35 rokov, čo tvorí 75 % malo niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek
+druhu. 27 respondentov vo veku pod 35 rokov, čo tvorí 79,41 %, nemalo skúsenosť
+s poskytovaním prvej pomoci akéhokoľvek druhu. Túto čiastkovú prieskumnú otázku s
+dotazníkovou otázkou 6 potvrdzujeme.
+Otázka 10: Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník? Z celkového počtu opýtaných respondentov nám pozitívne odpovedalo
+19 respondentov. Z toho 14 respondentov, čo tvorí 26,92 %, má vek nad 35 rokov a 5
+respondentov, teda 14,71 %, má vek pod 35 rokov. 67 respondentov uviedlo, že nemajú
+vedomosti o postupe prvej pomoci pri náhlom infarkte myokardu. Zo 67 respondentov, 38
+opýtaných, čo tvorí 73,08 %, malo vek nad 35 rokov a 29 respondentov, čo tvorí 85,29 %,
+nemalo vek nad 35 rokov. Preto túto čiastkovú prieskumnú otázku s dotazníkovou otázkou
+10 potvrdzujeme.
+Otázka 11: Označte, aké sú sprievodné príznaky pri náhlom zlyhaní srdca. Z celkového počtu
+86 respondentov, poznalo všetky sprievodné príznaky pri náhlom zlyhaní srdca 9 respondentov.
+Z toho 7 respondenti, čo tvorí 13,46 % uviedli, že majú vek nad 35 rokov a 2 respondenti, čo
+tvorí 5,88 %, nemalo vek nad 35 rokov. 45 respondentov vo veku nad 35 rokov, čo tvorí 86,54
+%, malo znalosť aspoň o časti príznakov a 32 respondentov vo veku pod 32 rokov, čo tvorí
+94,12 %, malo znalosť aspoň o časti príznakov pri náhlom zlyhaní srdca. Čiastkovú prieskumnú
+otázku s dotazníkovou otázkou 11 potvrdzujeme.
+Otázka 12: Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca. 28 respondentov zo všetkých opýtaných uviedlo v dotazníku správnu odpoveď.
+Pri správnej odpovedi bolo 20 vo veku nad 35 rokov, a z celkového počtu opýtaných to tvorilo
+vzorku 38,46 %. 8 respondentov z opýtaných, čo tvorí 23,53 % nemali vek nad 35 rokov.
+Nesprávnu odpoveď uviedlo 32 respondentov vo veku nad 35 rokov, čo tvorí 61,54 % a 26
+
+63
+
+respondentov vo veku pod 35, čo tvorí 76,47 %. Čiastkovú prieskumnú otázku s otázkou 12
+týmto potvrdzujeme.
+Otázka 13: Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu vo vašej
+prítomnosti? Z celkového počtu oslovených respondentov, až 50 respondentov správne uviedlo
+znalosť všetkých ďalších krokov, ktoré je potrebné zvážiť pri akútnom infarkte myokardu. Z
+toho 31 respondentov, čo tvorí 59,62 % všetkých opýtaných, uviedlo, že majú vek nad 35 rokov
+a 19 respondentov, čo tvorí 55,88 % zo všetkých opýtaných respondentov uviedlo, že nemajú
+vek nad 35 rokov. Znalosť aspoň časti krokov malo 21 respondentov, teda 40,38 %, vo veku
+nad 35 rokov a znalosť aspoň časti krokov malo 15 respondentov, teda 44,12 %, vo veku pod
+35 rokov. Čiastočnú prieskumnú otázku s dotazníkovou otázkou 13 týmto potvrdzujeme.
+Otázka 14: Viete čo je automatický externý defibrilátor (AED)? Na otázku, či respondenti
+vedia, čo je AED nám 72 respondentov odpovedalo, že majú vedomosť o AED, a z toho 41 čiže
+78,85 % má vek nad 35 rokov. 31 opýtaných, čo tvorí 91,18 %, síce má znalosť o tomto
+prístroji, avšak nemajú vek nad 35 rokov. 11 respondentov vo veku nad 35 rokov, čo tvorí 21,15
+%, uviedlo, že nevedia, čo je AED a 3 respondenti vo veku pod 35 rokov, čo tvorí 8,82 %
+nevedeli čo je AED. Čiastkovú prieskumnú otázku s dotazníkovou otázkou 14 nepotvrdzujeme.
+Otázka 16: Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca? 69 respondentov
+odpovedalo správne, že ako laici môžu použiť AED v prípade potreby a z toho 39 má vek nad
+35 rokov, čo tvorí vzorku 75 %. Pri správnej odpovedi 30 respondentov nemá vek nad 35 rokov,
+a to tvorí 88,24 %. 13 opýtaných, teda 25 % z celkového počtu opýtaných, vo veku nad 35
+rokov nevie, či ako laik môže použiť automatický externý defibrilátor. 4 opýtaní, teda 11,76 %,
+vo veku pod 35 rokov nemá vedomosť, že laik môže použiť AED. Čiastkovú prieskumnú
+otázku s dotazníkovou otázkou 16 nepotvrdzujeme.
+Prieskumnú otázku č. 4 týmto potvrdzujeme.
+
+64
+
+5 DISKUSIA
+Bezprostredná prvá pomoc pri akútnom infarkte myokardu je život zachraňujúci faktor. Pokiaľ
+sa postihnutému dokáže pomôcť v čím skoršom čase, tým je väčšia pravdepodobnosť, že
+následky budú menšie. Nie len v slovenskom, ale aj celosvetovom meradle patria
+kardiovaskulárne ochorenia medzi najčastejšie príčiny úmrtia, preto je veľmi dôležité rýchlo
+konať v prípade, že sme v prítomnosti človeka, ktorý má príznaky akútneho infarktu myokardu.
+Hlavným cieľom nášho prieskumu bolo zistiť do akej miery je laická verejnosť informovaná o
+prvej pomoci pri akútnom infarkte myokardu a či skutočnosť, že majú respondenti absolvovaný
+kurz prvej pomoci zvyšuje pravdepodobnosť znalosti pri poskytovaní prvej pomoci. Preto sme
+v prieskume oslovili širokú verejnosť.
+Po preštudovaní overených zdrojov sme vytvorili dotazník s počtom otázok 19, z toho
+otvorených otázok boli 3. Výskumnú vzorku tvorilo spolu 86 respondentov, čo tvorilo teda 100
+%, zo širokej verejnosti. Vyhodnotenie dotazníka uvádzame v tabuľkách s následným
+podrobným popisom.
+Počet respondentov je 86, čo tvorí 100 %. Počet respondentov, ktorí majú absolvovaný kurz
+prvej pomoci je 44, čo tvorí 51,16 % opýtaných a 42 opýtaných nemá absolvovaný kurz prvej
+pomoci, a to tvorí 48,84 % z celkového počtu. To je naším hlavným ukazovateľom pri
+prieskumných otázkach a vyhodnotenie prieskumných otázok rovnako uvádzame v prehľadnej
+tabuľke a následnom podrobnom rozbore jednotlivých údajov. Rovnako, pre potreby dotazníka
+sme použili pojem náhle zlyhanie srdca, čo v našom prípade určuje zlyhanie srdca pri infarkte
+myokardu a/alebo sprievodné znaky ochorenia infarktu myokardu. Pre dosiahnutie a
+dôkladnejšie pochopenie analýzy sme si určili čiastkové ciele a následné prieskumné otázky a
+z vyhodnotenia našich čiastkových cieľov nám vyplynuli nižšie uvedené zistenia:
+Prvým čiastkovým cieľom bolo zistiť, či naši respondenti mali niekedy skúsenosť s
+poskytovaním prvej pomoci akéhokoľvek typu. Analýzou otázky číslo 6 z nášho dotazníka
+a zároveň doplňujúcou otázkou číslo 6A sme zistili, že 20 respondentov z celkového počtu 86
+už poskytovalo prvú pomoc akéhokoľvek druhu. Túto respondentskú vzorku tvorilo 23,26 % z
+celkového počtu odpovedajúcich. V otázke 8 uviedlo 22 opýtaných, čo tvorí 25,58 %
+respondentov, že majú teoretické znalosti, ale nemajú kurz prvej pomoci, 44 respondentov, čo
+tvorí 51,16 % uviedlo, že majú teoretické znalosti a majú kurz prvej pomoci, 20 respondentov,
+
+65
+
+teda 23,26 % uviedlo, že nemajú teoretické znalosti, nemali možnosť absolvovať kurz prvej
+pomoci.
+●
+
+Tieto analýzy a výpovede nachádzame na portáli Pravda (2014). Na portáli je
+zverejnený rozhovor lekára a záchranára docenta Viliama Dobiáša, ktorý nabáda laickú
+verejnosť, že akákoľvek prvá pomoc podaná postihnutému je lepšia ako žiadna. Z
+prieskumu agentúry TNS zverejnený v portáli Pravda je vyplynulo, že 78 % ľudí by
+vedelo poskytnúť prvú pomoc v prípade potreby. Ako tvrdí lekár Dobiáš, z praxe sú
+čísla oveľa nižšie, a to iba 38 %, čo je podobný výsledok ako v našom prieskume.
+
+●
+
+Podobné zistenia boli zverejnené na stránke Slovenského červeného kríža
+www.redcross.sk (2024). Stránka SČK sa venuje štatistickým údajom, koľko ľudí sú
+znalí poskytnúť prvú pomoc pri autonehodách. Percentuálne zastúpenie ľudí, ktorí
+poskytnú prvú pomoc je 5 % zo všetkých situácií, čo je podľa zdravotníckeho personálu
+privolaného k nehode veľmi nízke číslo, a preto pracovníci apelujú na častejšie kurzy
+prvej pomoci.
+
+Druhým čiastkovým cieľom bolo zistiť, či naši respondenti vedia postup prvej pomoci pri
+akútnom infarkte myokardu, pokiaľ nie je prítomný zdravotník. Analýzou otázky číslo 10
+z nášho dotazníka a zároveň porovnaním respondentov, ktorí už mali možnosť poskytovať prvú
+pomoc sme zistili, že 19 respondentov z celkového počtu 86 vedia postup pri akútnom infarkte
+myokardu, pokiaľ nie je prítomný zdravotník. V tomto prípade, sme nebrali do úvahy pohlavie,
+vek, vysokoškolské vzdelanie ani absolvovanie kurzu prvej pomoci. Túto respondentskú
+vzorku tvorilo 22,09 %.
+●
+
+Tieto zistenia nachádzame aj v záverečnej práci autorky Forbergerovej (2014), kde je
+zverejnený prieskum laickej verejnosti o diagnóze infarkt myokardu. Z celkového počtu
+oslovených 210 respondentov, až 144 opýtaných, čo tvorí 68,57 %, uviedlo, že by ihneď
+zavolali prvú pomoc pri príznakoch akútneho infarktu myokardu a zároveň 188
+respondentov by dokázalo vymenovať postup prvej pomoci pri akútnom IM, čo tvorí
+89, 52 % z celkového počtu opýtaných. V porovnaní s našou prieskumnou vzorkou sme
+zistili, že respondenti, ktorých sme oslovili majú menšiu informovanosť o postupe prvej
+pomoci pri infarkte myokardu.
+
+●
+
+Národné centrum zdravotníckych informácií (2022) informuje o srdcovo-cievnych
+ochoreniach, ktoré v slovenskom meradle postihujú čoraz mladšie ročníky. Najviac
+ohrozuje mladých nepravidelný srdcový rytmus a vysoký tlak, ktorý je spôsobený
+nezdravou stravou, fajčením, stresom a nedostatočným pohybom. Štatisticky počet
+66
+
+sledovaných osôb na srdcovo-cievne choroby každoročne rastie o približne 3,6 %. Je
+dôležité poznamenať, že srdcové choroby sú tzv. tichí zabijaci, lebo sa častokrát nijako
+neprejavujú a nebolia. Preto aj Národné centrum zdravotníckych informácií považuje
+za dôležité informovať o postupoch prvej pomoci pri akútnych stavoch infarktu
+myokardu.
+Tretím čiastkovým cieľom bolo zistiť, či naši respondenti ovládajú sprievodné príznaky
+pri náhlom zlyhaní srdca pri IM. Analýzou otázky číslo 11 z nášho dotazníka sme zistili, že
+z celkového počtu oslovených 86, čo tvorí vzorku 100%, bolo 8 respondentov, čiže 2,88 %,
+ktorí z deviatich možností si vybrali všetky uvedené sprievodné príznaky pri akútnom infarkte
+myokardu. Je pochopiteľné, že veľa príznakov ako kašeľ alebo bolesť v uchu sa v mnohých
+literatúrach neuvádza, preto ťažko povedať, či je možné považovať, že 2,88 % respondentov si
+vybralo všetky možnosti za prijateľné číslo. Treba poznamenať, že naši respondenti vo väčšine
+prípadov boli oboznámení aspoň so štyrmi sprievodnými príznakmi, čo výrazne zvyšuje
+percento informovanosti o infarkte myokardu.
+●
+
+Tieto zistenia sú podrobne analyzované aj agentúrou SITA, konkrétne autorom Eliášom
+(2019), ktorá informuje o podceňovaní Slovákov, čo sa týka kardiovaskulárnych
+ochorení. Zároveň podľa štúdií agentúry SITA, si mnoho respondentov mýli pojem
+náhleho zlyhania srdca s infarktom myokardu, preto je pravdepodobné, že aj naši
+respondenti neovládajú konkrétne všetky sprievodné príznaky. Agentúra dopĺňa, že
+dýchavicu ako prejav srdcového zlyhávania označilo 63 % populácie, slabosť a únavu
+52 % a opuchy končatín 39 % populácie, pocit tlaku na hrudi označilo až 83 %
+populácie. Práve pocit tlaku na hrudi je jediným z príznakov pri infarkte myokardu z
+vyššie uvedených. A to znamená, že slovenská populácie je nedostatočne informovaná
+o sprievodných príznakoch pri náhlom zlyhaní srdca a infarkte myokardu.
+
+Štvrtým čiastkovým cieľom bolo zistiť, ako by respondenti postupovali, keby mali
+možnosť zachrániť človeka s náhlym zlyhaním srdca pri akútnom IM. Analýzou otázky
+číslo 12 a otázky číslo 13 z nášho dotazníka sme zistili, že z celkového počtu oslovených 86,
+čo tvorí vzorku 100 %, 28 respondentov odpovedalo správne na postup pri náhlom zlyhaní
+srdca pri akútnom IM, a to tvorí 32,56 % respondentov. Pri odpovedi mali respondenti na výber
+z troch možností a len tretina odpovedajúcich by dokázala zvoliť správny a najrýchlejší
+postup. Pri otázke 13 až 50 respondentov odpovedalo správne, a teda, že by zvolili všetky
+
+67
+
+uvedené možnosti pri ďalších krokoch, ktoré by bolo potrebné zvážiť pri akútnom infarkte
+myokardu.
+●
+
+Podobnej tematike prvej pomoci sa venuje vo svojej práci Semancová (2016), ktorá vo
+svojom prieskume sleduje znalosť laickej verejnosti pri prvej pomoci vo všeobecnosti.
+Pri prieskumnej otázke ako by respondenti reagovali na situáciu, kedy postihnutý
+nedýcha a zlyhalo mu srdce, odpovedalo zo 108 respondentov (čo tvorí vzorku 100 %)
+26 respondentov správne, a to tvorí 24,07 %.
+
+●
+
+Aj vďaka Operačnému stredisku záchrannej zdravotnej služby Slovenskej republiky
+(2024), ktorá poskytuje na oficiálnej stránke www.155.sk detailné videá na rôzne akútne
+stavy, môže laická verejnosť získať informovanosť o poskytovaní prvej pomoci.
+
+●
+
+Ministerstvo zdravotníctva Slovenskej republiky (2017) a vtedajší minister
+zdravotníctva dopĺňa: “O prežití alebo o kvalite následného života pri náhlych cievnych
+mozgových príhodách či akútnom infarkte myokardu rozhoduje čas. Dôležité sú minúty
+a prvé dve či tri hodiny a teda to, či je pacientovi poskytnutá adekvátna zdravotná
+starostlivosť v čo najkratšom tzv. ischemickom časovom okne. Každá posádka má k
+dispozícii mobilnú aplikáciu, ktorou dokáže zhodnotiť stav pacienta, dokáže preposlať
+EKG pacienta a na základe toho je vyhodnotené najbližšie pracovisko, kde je potrebný
+prevoz. Na tomto pracovisku je k dispozícii odborne špecializovaný lekár, ktorý už
+online konzultuje stav pacienta. Budeme zároveň pracovať aj na edukácii, aby aj laici
+vedeli rozpoznať príznaky na sebe, či svojich blízkych a nečakali neraz zbytočne doma.
+Cieľom je eliminácia tzv. sekundárnych prevozov, teda prevozu z nemocnice, ktorá
+nemá schopnosť vykonať zákrok, do nemocnice, kde sa takýto výkon realizuje, čím sa
+skráti dôležitý čas. Počas pilotnej prevádzky 5 mesiacov sme dokázali skrátiť celkové
+ischemické časové okno z priemeru 231 min. na 181 min., čo zodpovedá najlepším
+európskym krajinám. Je to výborná správa pre pacientov a vyššia šanca na kvalitnejší
+život.”
+
+A piatym čiastkovým cieľom bolo zistiť, či má laická verejnosť vedomosť
+o automatizovanom externom defibrilátore a či môže laická verejnosť použiť
+automatizovaný externý defibrilátor v prípade zlyhania srdca. Analýzou otázky číslo 14 a
+otázky číslo 16 z nášho dotazníka sme zistili, že z celkového počtu respondentov 86, čo tvorí
+vzorku 100 %, až 72 opýtaných potvrdilo, že v prípade potreby môže laická verejnosť použiť
+automatický externý defibrilátor, čo tvorí 83,72 %. Zo všetkých odpovedí v našom dotazníku
+mala práve otázka automatického externého defibrilátora najvyššie percento správnej
+68
+
+odpovede. Až 69 opýtaných, čo tvorí 80,23 % z celkového počtu opýtaných uviedlo správne,
+že ako laici môžu použiť AED v prípade zlyhania srdca.
+●
+
+Tematikou automatického externého defibrilátora sa venuje autorka práce Juščáková
+(2023). Autorka vykonala prieskum u laickej verejnosti, pre koho je určený AED
+prístroj. Z celkového počtu opýtaných, ktorých bolo 29, čo tvorí vzorku 100 %, 20
+respondentov odpovedalo správne, a to tvorí 69 % opýtaných. Zvyšných 9 z
+odpovedajúcich (31 %) uviedlo možnosť, že prístroj je určený pre zdravotníckych
+pracovníkov a osoby, ktoré boli zaškolené ho používať.
+
+●
+
+Tieto zistenia vyplývajú aj z prieskumu autorky Konečnej (2014), ktorá sa venuje
+záchrane človeka pri bezvedomí a následnou resuscitáciou. Z jej prieskumu vyplýva, že
+z celkového počtu respondentov 100, čo tvorí 100 %, 37 odpovedajúcich si zvolilo
+správnu odpoveď, čo tvorí 37 % zo všetkých opýtaných.
+
+69
+
+ODPORÚČANIA PRE PRAX
+Vďaka našej diplomovej práci, jej teoretických znalostí a praktického pozorovania môžeme
+navrhnúť odporúčania pre lepšie poznatky poskytnutia prvej pomoci pre laickú verejnosť.
+Informovanosť širokej verejnosti o prvej pomoci všeobecne je primárnym kľúčom k následnej
+záchrane života človeka. Na základe nášho prieskumu sme stanovili odporúčania pre prax:
+-
+
+Preplácanie kurzov prvej pomoci zamestnávateľom na pravidelnej báze;
+
+-
+
+Zabezpečenie kurzov prvej pomoci zamestnávateľom pre svojich zamestnancov
+certifikovanými inštruktormi prvej pomoci;
+
+-
+
+Organizovanie podujatí záchrannou zdravotnou službou a inštruktormi prvej pomoci
+pre laickú verejnosť so zameraním na život zachraňujúce úkony;
+
+-
+
+Organizovanie podujatí Slovenskou lekárskou komorou, Komorou sestier a pôrodných
+asistentiek a poskytovateľmi zdravotnej starostlivosti pre laickú verejnosť zameranú
+špeciálne na ochorenia srdca;
+
+-
+
+Organizovanie
+
+podujatí
+
+Slovenskou
+
+komorou
+
+zdravotníckych
+
+záchranárov
+
+a inštruktormi prvej pomoci pre laickú verejnosť zameranú špeciálne na použitia
+defibrilátora;
+-
+
+Zavedenie relácií vo verejnoprávnej televízii a rozhlase na zvýšenie povedomia o prvej
+pomoci s prizvaním odborného zdravotníckeho personálu pre širokú verejnosť;
+
+-
+
+Letáky v čakárňach zdravotníckych zariadení zamerané na prvú pomoc vo všeobecnosti
+dostupné pre širokú verejsosť;
+
+-
+
+Organizovanie cvičení a modelových situácii so zameraním na prvú pomoc a záchranu
+života v detských táboroch a areáloch letných prázdnin certifikovanými inštruktormi
+prvej pomoci a zdravotníckymi záchranármi;
+
+-
+
+Zavedenie zdravotnej výchovy ako vyučovacieho predmetu pre študentov stredných
+škôl a prvého stupňa základných škôl vyučované certifikovanými inštruktormi prvej
+pomoci;
+
+-
+
+Dostupnosť animovaného programu v televízii, na internete pre deti a dorast
+a divadelných predstavení pre dospelých so zdravotnou tematikou a tematikou záchrany
+ľudského života.
+
+70
+
+ZÁVER
+Infarkt myokardu môžeme považovať za zákernú chorobu. Z medicínskeho hľadiska je infarkt
+myokardu akútne ochorenie, ktoré je tiché, nebolestivé a udrie, keď to najmenej čakáme.
+Kardiovaskulárne ochorenia sú na Slovensku ale i vo svete najrozšírenejšími chorobami, ktoré
+spôsobujú smrť. Touto diplomovou prácou sme priniesli teoretické znalosti o akútnom infarkte
+myokardu, jeho príčinách a možnostiach prevencie. Venovali sme sa, do akej miery je laická
+verejnosť oboznámená o tomto ochorení a o prvej pomoci pri akútnych stavoch. Preto je veľmi
+dôležité včasné spozorovanie príznakov a zavolanie zdravotnej služby. Považujeme za dôležité,
+aby bola široká verejnosť oboznámená o výstražných príznakoch, o rýchlom konaní, pretože
+čím rýchlejšie sa koná, tým je väčšia pravdepodobnosť záchrany ľudského života. Dôvodom,
+prečo je tak dôležité vedieť správne poskytnúť prvú pomoc ako laik, je samotné zdravie a
+plnohodnotný život. Zdravie a život sú najvyššími ľudskými hodnotami a vedieť alebo aspoň
+sa snažiť ich niekomu zachrániť, by mala byť samozrejmosť pre každého z nás. Osvetu o tomto
+ochorení by mali prinášať nie len zdravotnícki zamestnanci, ale aj rodinní príslušníci či firmy.
+Väčšie množstvo edukačných materiálnych, edukačných videí alebo firmou hradené častejšie
+kurzy prvej pomoci by mohli zvýšiť povedomie a nebojácnosť u mnohých ľudí, ktorí sa ocitnú
+v situácii rýchlej záchrany iného ľudského života. Aj napriek zvýšenej informovanosti, stále si
+musíme byť vedomí toho, že zodpovednosť za svoje zdravie máme my sami. Preto je dôležité
+neodkladať preventívne zdravotné prehliadky, dbať na životosprávu, mať dostatok pohybu,
+a tým zamedziť rizikám vzniku akútneho infarktu myokardu.
+
+71
+
+ZOZNAM POUŽITÝCH ZDROJOV
+-
+
+AEDUSA. Who are the Top AED Manufacturers. [online]. [citované 2024-09-04].
+Dostupné
+
+na
+
+internete:
+
+https://www.aedusa.com/knowledge/who-are-the-top-aed-
+
+manufacturers/?srsltid=AfmBOopEdITSfxYD9H313OOKRwSP4Rbh5Q29T2rKdpIFsZv
+Bjjs6iws7.
+-
+
+American Heart Association. 2023. What is a Heart Attack. [online]. WF_219502 5/23.
+[citované
+
+2024-07-21].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.heart.org/-
+
+/media/Files/Health-Topics/Answers-by-Heart/What-is-a-Heart-Attack.pdf.
+-
+
+American Heart Association. 2024. History of CPR. [online]. [citované 2024-07-21].
+Dostupné na internete: https://cpr.heart.org/en/resources/history-of-cpr.
+
+-
+
+ASCHERMANN, M. a kol. 2004. Kardiologie. 1. vyd. Praha: Galén, 2004. 753 s. ISBN
+80-7262-290-0.
+
+-
+
+AURATRADE. 2024. Časté otázky a odpovede. [online]. [citované 2024-08-28]. Dostupné
+na internete: https://defibrilator.sk/caste-otazky/.
+
+-
+
+BINOVSKÝ, A. 2001. Anatómia II. 2. vyd. Bratislava: Univerzita Komenského v
+Bratislave, 2001. 191 s. ISBN 80-223-1557-5.
+
+-
+
+CDC. 2024. About heart disease. [online]. [citované 2024-08-15]. Dostupné na internete:
+https://www.cdc.gov/heart-disease/about/index.html.
+
+-
+
+CHAUDRY, H.I. et al. 2021. Sex Differences in acute bleeding and vascular complications
+following percutaneous coronary intervention between 2003 and 2016: Trends from the
+dartmouth dynamic registry. In Cardiovasc. Revasc. Med. [online]. Volume 28, July 2021,
+[citované
+
+2024-07-19]
+
+s.
+
+32-38.
+
+Dostupné
+
+na
+
+DOI:
+
+https://doi.org/10.1016/j.carrev.2020.07.028.
+-
+
+COVISA, J. V. 2004. Praktická zdravoveda. 1. vyd. Bratislava: Slovenské pedagogické
+nakladateľstvo - Mladé letá, 2004. 687 s. ISBN 8010011142.
+
+-
+
+Defibrilácia.
+
+2011.
+
+[online].
+
+[citované
+
+2024-08-30].
+
+Dostupné
+
+na
+
+internete:
+
+https://sestra.sk/Defibril%c3%a1cia.
+-
+
+DOBIÁŠ, V. a kol. 2007. Prednemocničná urgentná medicína. 3. vyd. Martin:
+Vydavateľstvo Osveta, spol. s r.o. 2007. 381 s. ISBN 978-80-8063-255-7.
+
+-
+
+DOBIÁŠ, V. 2011. Automatický externý defibrilátor – princípy, efektivita, používanie. In
+Via practica. 2010. [online]. roč. 8, č. 4, s. 186-188. [citované 2024-08-30] ISSN 13364790.
+
+72
+
+-
+
+ĎUROVCOVÁ E. a kol. 2020. Klinická biochémia, 1. vyd. Martin: Osveta, spol. s. r. o.,
+2020. 302 s. ISBN 978-80-8063-489-6.
+
+-
+
+ELIÁŠ, M. 2019. Slováci podceňujú kardiovaskulárne ochorenia. [online]. [citované 202409-05]. Dostupné na internete: https://sita.sk/vzdravotnictve/prieskum-slovaci-podcenujukardiovaskularne-ochorenia/.
+
+-
+
+FABIÁN, J., FISCHER V., RIEČANSKÝ I. 2006. Transplantácia srdca: reminiscencie,
+súčasnosť a perspektívna výzva pre neinvazívnu kardiológiu. Noninvas Cardiol. 2006;
+3:219-224.
+
+-
+
+Fakultná nemocnica AGEL. 2022. Prvá pomoc v rukách informovanej verejnosti
+zachraňuje
+
+životy.
+
+[online].
+
+[citované
+
+2024-08-25].
+
+Dostupné
+
+na
+
+internete:
+
+https://nemocnicaskalica.agel.sk/o-nemocnici/novinky/220909prvapomoc.html.
+-
+
+FORBERGEROVÁ, J. 2014. INFORMOVANOSŤ LAICKEJ VEREJNOSTI O
+DIAGNÓZE INFARKT MYOKARDU. [online]. [citované 2024-08-28]. Dostupné na
+internete:
+https://opac.crzp.sk/?fn=detailBiblioForm&sid=AE439884A3A3B8A5FC1028E3951A.
+
+-
+
+HAJAR, R. 2016. Evolution of Myocardial Infarction and its Biomarkers: A Historical
+Perspective. In PubMed Central. [online]. 17(4): 167 – 172. [citované 2024-07-21].
+Dostupné na internete: https://pmc.ncbi.nlm.nih.gov/articles/PMC5363097/.
+
+-
+
+HLADKÁ, P. 2017. Akutní infarkt myokardu včera a dnes. In Florence. [online]. 5/2017.
+[citované 2024-07-23]. Dostupné na internete: https://www.florence.cz/casopis/archivflorence/2017/5/akutni-infarkt-myokardu-vcera-a-dnes/.
+
+-
+
+HUDECOVÁ, D. 2014. Prvá pomoc? Lepšia akákoľvek ako žiadna. [online]. [citované
+2024-08-28].
+
+Dostupné
+
+na
+
+internete:
+
+https://zdravie.pravda.sk/zdravie-a-
+
+prevencia/clanok/331893-prva-pomoc-lepsia-akakolvek-ako-ziadna/.
+-
+
+JUŠČÁKOVÁ, S. 2023. Informovanosť laickej verejnosti v problematike používania
+automatického externého defibrilátora. [online]. [citované 2024-08-28]. Dostupné na
+internete:
+https://opac.crzp.sk/?fn=detailBiblioForm&sid=36F4BD7000BAB49A16C346D0AD32.
+
+-
+
+KONEČNÁ J. 2014. Informovanosť laickej verejnosti o prvej pomoci pri stavoch
+ohrozujúcich
+
+život.
+
+[online].
+
+[citované
+
+2024-08-28].
+
+Dostupné
+
+na
+
+internete:
+
+https://opac.crzp.sk/?fn=detailBiblioForm&sid=A3E03CF54F8AB03E8C987F0A6A09.
+-
+
+KOPECKÁ K. - KOPECKÝ P. 2014. Zdravie a klinika chorôb. 2014, 5. vyd. Martin:
+Osveta spol. s. r. o. 2014. 696 s. ISBN 978-80-8063-421-6.
+
+73
+
+-
+
+LEE MACON, B. 2021. Acute Myocardial Infarction (heart attack). In healthline. 2021.
+[online].
+
+[citované
+
+2024-07-23].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.healthline.com/health/acute-myocardial-infarction.
+-
+
+LifeSaver Training. 2024. A Little “First Aid” History. [online]. [citované 2024-07-23].
+Dostupné na internete: https://www.lifesavertraining.co.uk/facts/a-little-first-aid-history/.
+
+-
+
+MÁLEK a kol. 2010 – 2012. První pomoc. 3. Lekářská fakulta Univerzity Karlovy v Praze.
+2010 – 2012. [online]. [citované 2024-07-21]. 120 s. Dostupné na internete:
+https://www.lf3.cuni.cz/3LF-782-version1-prvni_pomoc_2013_05_20.pdf.
+
+-
+
+MEDIHUM. 2022. EKG krivky: Čo znamenajú, a ako ich správne prečítať? [online].
+[citované 2024-07-23]. Dostupné na internete: https://medihum.sk/magazin/navody/ekgkrivky-co-znamenaju-ako-ich-spravne-precitat.
+
+-
+
+MENDIS et al. 2010. World Health Organization definition of myocardial infarction:
+2008–09 revision. In International Journal of Epidemiology. [online]. Volume 40, Issue 1,
+February
+
+2011,
+
+Pages
+
+139–146
+
+[citované
+
+2024-07-19].
+
+Dostupné
+
+na
+
+DOI:
+
+https://doi.org/10.1093/ije/dyq165
+-
+
+MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY. 2017. Rýchlejšia
+pomoc pre pacientov s infarktom myokardu či náhlou cievnou mozgovou príhodou.
+[online].
+
+[citované
+
+2024-08-28].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.mzsr.sk/Clanok?rychlejsia-pomoc-pre-pacientov-s-infarktom-myokardu-cinahlou-cievnou-mozgovou-prihodou.
+-
+
+MINISTERSTVO ZDRAVOTNÍCTVA SLOVENSKEJ REPUBLIKY. Schválené nové a
+inovované postupy pre výkon prevencie. [online]. [citované 2024-07-21]. Dostupné na
+internete: https://www.health.gov.sk/?Postupy-Prevencia.
+
+-
+
+MOŤOVSKÁ, Z., 2016. Novinky v akutní kardiologii, 1. vyd. Praha: Mladá fronta. 2016.
+384 s. ISBN: 9788020439031.
+
+-
+
+NCZI. 2022. Pribúda ľudí s vysokým tlakom a obetí infarktov. [online]. [citované 202409-05]. Dostupné na internete:
+
+https://www.nczisk.sk/Aktuality/Pages/NCZI-Pribuda-
+
+ludi-s-vysokym-tlakom-a-obeti-infarktov.aspx.
+-
+
+NOVARTIS. 2024. Kardiologické ochorenia. [online]. [citované 2024-08-15]. Dostupné
+na internete: https://www.novartis.com/sk-sk/o-nas/terapeuticke-oblasti/kardiologickeochorenia.
+
+-
+
+Operačné stredisko záchrannej zdravotnej služby Slovenskej republiky. 2024. Prvá pomoc.
+[online]. [citované 2024-08-28]. Dostupné na internete: https://155.sk/prva-pomoc/.
+
+74
+
+-
+
+Operačné stredisko záchrannej zdravotnej služby Slovenskej republiky. 2024. Mapa AED.
+[online]. [citované 2024-08-20]. Dostupné na internete: https://155.sk/mapa-aed/.
+
+-
+
+OŠŤÁDAL, P. - MATES, M. Akutní infarkt myokardu. 2. aktualizované vydání. [online].
+[citované
+
+2024-07-21].
+
+Dostupné
+
+na
+
+internete:
+
+https://eshop.maxdorf.cz/user/documents/upload/data/dl/Akutn%C3%AD%20infarkt%20
+myokardu,%202.%20vyd%C3%A1n%C3%AD.pdf.
+-
+
+OZP zdravotní pojisťovna. 2024. Popis EKG křivky. [online]. [citované 2024-09-01].
+Dostupné na internete: https://www.ozp.cz/popis-ekg-krivky.
+
+-
+
+PERKINS, D. G. 2021. Odporúčania Európskej resuscitačnej rady 2021 – Zhrnutie.
+[online]. s. 62. [citované 2024-09-10]. Dostupné na internete: https://www.srr.sk/wpcontent/uploads/2021/10/Zhrnutie-odporu%CC%81c%CC%8Cani%CC%81-ERC2021.pdf.
+
+-
+
+ROKYTA, R. a kol. 2019. Čtvrtá univerzální definice infarktu myokardu. Souhrn
+dokumentu vypracovaný Českou kardiologickou společností. [online]. s. 106 – 122.
+[citované
+
+2024-07-21].
+
+Dostupné
+
+na
+
+internete:
+
+https://actavia.e-
+
+coretvasa.cz/pdfs/cor/2019/02/01.pdf.
+-
+
+SEMANCOVÁ, V. 2016. Informovanosť laickej verejnosti o poskytovaní prvej pomoci.
+[online].
+
+[citované
+
+2024-08-28].
+
+Dostupné
+
+na
+
+internete:
+
+https://opac.crzp.sk/?fn=detailBiblioForm&sid=59EBB4F2E3D8D71D6E73CC163ABD.
+-
+
+ŠLEPECKÝ M. a kol. 2022. Štandardné psychologicko – behaviorálne postupy v prevencii
+srdcovocievnych ochorení. [online]. [citované 2024-07-21]. Dostupné na internete:
+https://www.health.gov.sk/?Postupy-Prevencia.
+
+-
+
+SLOVENSKÝ ČERVENÝ KRÍŽ. Bezpečnosť na cestách a prvá pomoc. [online].
+[citované 2024-09-15]. Dostupné na internete: https://redcross.sk/bezpecnost-na-cestacha-prva-pomoc/.
+
+-
+
+SLOVENSKÝ ČERVENÝ KRÍŽ. SEPRP – Sedlácka prvá pomoc. [online]. [citované
+2024-08-15]. Dostupné na internete: https://redcross.sk/prva-pomoc/seprp-sedlacka-prvapomoc/.
+
+-
+
+SLOVENSKÝ ČERVENÝ KRÍŽ. Spolky. [online]. [citované 2024-09-04]. Dostupné na
+internete: https://redcross.sk/spolky/.
+
+-
+
+ŠPINAR, J. A kol. 2003. Ischemická choroba srdeční. 1. vyd. Praha: Grada, 2003. 364 s.
+ISBN 978-80-247-0500-2.
+
+75
+
+-
+
+STARÍČEK J. 2021. Infarkt myokardu: Rizikové skupiny, prejavy a prevencia. [online].
+[citované 2024-07-23]. Dostupné na internete: https://profy.sk/blog/infarkt-myokardurizikove-skupiny-prejavy-a-prevencia.
+
+-
+
+STUDENČAN, M. - KAMENSKÝ, G. Štandardný diagnostický a terapeutický postup na
+komplexný manažment pacienta s akútnym koronárnym syndrómom. 2021. [online].
+[citované 2024-07-21]. Dostupné na internete: https://www.health.gov.sk/.
+
+-
+
+TROJAN, S. 2003. Lékařská fyziologie, 4. vyd. Praha: Grada, 2003. 772 s. ISBN
+8024705125.
+
+-
+
+TV-ARCHÍV. Záhady tela. [online]. [citované 2024-09-04]. Dostupné na internete:
+https://www.tv-archiv.sk/zahady-tela.
+
+-
+
+Únia pre zdravšie srdce. 2021. Prvá pomoc pri infarkte. Návod pre blízkych a okolie.
+[online].
+
+[citované
+
+2024-08-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.presrdce.eu/aktuality/spravodajstvo/128/prva-pomoc-pri-infarkte-navod-preblizkych-a-okolie.
+-
+
+World Health Organization. 2024. Cardiovascular diseases. [online]. [citované 2024-0815].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.who.int/health-topics/cardiovascular-
+
+diseases#tab=tab_1
+-
+
+ZDRAVOTNICKÝ DENÍK. 2022. Na Slovensku pribúda počet obetí infarktov a ľudí s
+vysokým krvným tlakom. [online]. [citované 2024-08-25]. Dostupné na internete:
+https://www.zdravotnickydenik.cz/2022/12/na-slovensku-pribuda-pocet-obeti-infarktova-ludi-s-vysokym-krvnym-tlakom/.
+
+76
+
+ZOZNAM PRÍLOH
+Príloha č. 1
+
+Dotazník
+
+Príloha č. 2
+
+Obrázok 1: Krivka EKG (zdroj: https://www.ozp.cz/popis-ekg-krivky)
+Obrázok 2 Zoznam informácií, ktoré poskytuje Únia pre zdravšie srdce na
+webovej stránke (zdroj: www.presrdce.eu)
+Obrázok 3: Mapa AED na Slovensku (https://155.sk/mapa-aed/)
+Graf 1 Úmrtnosť na srdcovocievne ochorenia v roku 2014 (zdroj: Šlepecký
+a kol. 2022)
+Graf 2 Štruktúra odvrátiteľných úmrtí v Európskej únii v roku 2015 (zdroj:
+Šlepecký a kol. 2022)
+
+77
+
+PRÍLOHY
+Príloha č. 1
+Dobrý deň, tento krátky a stručný dotazník, ktorý má 16 otázok Vás prevedie povedomím o
+prvej pomoci pri akútnom infarkte myokardu, resp. náhlom zlyhaním srdca. Je určený pre laickú
+verejnosť, ale možno pomôže osviežiť pamäť aj vyštudovaným zdravotníkom. Verím, že si
+dokážete nájsť 10 minút Vášho drahocenného času, a spolu dokážeme zdolať ďalší schodík z
+mnohých, po ktorých stúpam v mojom profesijnom živote. Dotazník je anonymný. Za
+vyplnenie a každé prezdieľanie Vám veľmi pekne ďakujem. F
+
+1. Pohlavie respondentky /ta
+▪
+
+Muž
+
+▪
+
+Žena
+
+▪
+
+Iné…
+
+2. Vek respondentky / ta
+▪
+
+0 – 17
+
+▪
+
+18 – 25
+
+▪
+
+26 – 35
+
+▪
+
+36 – 45
+
+▪
+
+46 – 55
+
+▪
+
+56 – 65
+
+▪
+
+66 a viac
+
+3. Vaše povolanie
+▪
+
+Študent
+
+▪
+
+Pracovník v administratíve
+
+▪
+
+Rizikové povolanie (napr. pracovník na stavbe)
+
+▪
+
+Zdravotný pracovník
+
+▪
+
+Predavač
+
+▪
+
+Iné…
+
+4. Vaše najvyššie dosiahnuté vzdelanie
+78
+
+▪
+
+Základné vzdelanie
+
+▪
+
+Stredoškolské vzdelanie (aj učňovské)
+
+▪
+
+Vysokoškolské 1.stupňa
+
+▪
+
+Vysokoškolské 2.stupňa
+
+▪
+
+Vysokoškolské 3.stupňa
+
+5. Mali ste niekedy infarkt myokardu?
+▪
+
+Áno
+
+▪
+
+Nie
+
+6. Mali ste niekedy skúsenosť s poskytovaním prvej pomoci akéhokoľvek typu?
+▪
+
+Áno
+
+▪
+
+Nie
+
+6A. Pokiaľ ste označili Áno v otázke č.6, prosím doplňte o aký typ prvej pomoci
+išlo
+7. Mali ste možnosť niekedy v okolí pozorovať poskytovanie prvej pomoci?
+▪
+
+Áno
+
+▪
+
+Nie
+
+8. Máte aspoň teoretické znalosti pri poskytovaní prvej pomoci?
+▪
+
+Áno, mám kurz prvej pomoci
+
+▪
+
+Áno, ale nemám kurz prvej pomoci
+
+▪
+
+Nie, nemal som možnosť absolvovať kurz prvej pomoci
+
+9. Myslíte si, že laická verejnosť je dostatočne informovaná o poskytovaní prvej
+pomoci?
+▪
+
+Áno, laická verejnosť má dostatok príležitostí a informovanosti o
+poskytovaní prvej pomoci
+
+▪
+
+Nie, a preto chodievam na pravidelnej báze obnovovať si tieto
+informácie
+
+▪
+
+Nie, a preto by som rád prijal/a častejšie kurzy preplatené firmou, kde
+pracujem
+79
+
+10. Viete aký je postup prvej pomoci pri náhlom infarkte myokardu, pokiaľ nie je
+prítomný zdravotník?
+▪
+
+Áno
+
+▪
+
+Nie
+
+10A. Pokiaľ ste označili Áno v otázke č.10, prosím doplňte laický postup prvej
+pomoci pri náhlom infarkte myokardu
+11. Označte aké sú sprievodné príznaky pri náhlom zlyhaní srdca (viac možných
+odpovedí)
+▪
+
+Bolesť v hrudníku
+
+▪
+
+Bolesť v krku
+
+▪
+
+Bolesť v uchu
+
+▪
+
+Bolesť v chrbte
+
+▪
+
+Bolesť v ramene
+
+▪
+
+Zrýchlené dýchanie
+
+▪
+
+Studený pot
+
+▪
+
+Kašeľ
+
+▪
+
+Zvracanie
+
+▪
+
+Bušenie srdca
+
+▪
+
+Všetky uvedené možnosti
+
+12. Ako by ste postupovali, keby ste mali možnosť zachrániť človeka s náhlym
+zlyhaním srdca?
+▪
+
+Zavolám prvú pomoc 112/155 a vyčkám pri pacientovi
+
+▪
+
+Zavolám prvú pomoc 112/155 a uvediem pacienta do stabilizovanej
+Polohy
+
+▪
+
+Zavolám prvú pomoc 112/155, zachovám pokoj a posadím pacienta do
+polohy v polosede
+
+▪
+
+Neviem čo by som v tej situácii robil/a
+
+13. Aké ďalšie kroky by bolo potrebné zvážiť pri akútnom infarkte myokardu vo
+vašej prítomnosti? (viac možných odpovedí)
+80
+
+▪
+
+Prísun čerstvého vzduchu
+
+▪
+
+Uvoňiť oblečenie pri krku a hrudnej oblasti
+
+▪
+
+Sledovať, či pacient dýcha
+
+▪
+
+Všetky uvedené možnosti
+
+14. Viete čo je automatický externý defibrilátor (AED)?
+▪
+
+Áno
+
+▪
+
+Nie
+
+15. Viete kde sa vo vašej blízkosti nachádzajú defibrilátory AED?
+▪
+
+Áno
+
+▪
+
+Nie
+
+15A. Pokiaľ ste označili Áno v otázke č.15, prosím doplňte konkrétne miesta, kde
+sa vo Vašej blízkosti nachádzajú defibrilátory AED
+16. Môžete ako laik použiť defibrilátor AED v prípade zlyhania srdca?
+▪
+
+Áno
+
+▪
+
+Nie
+
+81
+
+Príloha č. 2
+
+Obrázok 1: Krivka EKG (zdroj: https://www.ozp.cz/popis-ekg-krivky)
+
+Obrázok 2: Zoznam informácií, ktoré poskytuje Únia pre zdravšie srdce na webovej stránke
+(zdroj: www.presrdce.eu)
+
+82
+
+Obrázok 3: Mapa AED na Slovensku (https://155.sk/mapa-aed/)
+
+Graf 1 Úmrtnosť na srdcovocievne ochorenia v roku 2014 (zdroj: Šlepecký a kol. 2022)
+
+83
+
+Graf 2 Štruktúra odvrátiteľných úmrtí v Európskej únii v roku 2015 (zdroj: Šlepecký a kol.
+2022)
+
+84
+
+

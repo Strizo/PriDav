@@ -1,0 +1,3302 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV.ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+170223
+
+INFEKČNÉ OCHORENIA DÝCHACÍCH CIEST U DETÍ
+
+DIPLOMOVÁ PRÁCA
+
+2023
+
+Bc. VIVIEN STEFANKOVICSOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+INFEKČNÉ OCHORENIA DÝCHACÍCH CIEST U DETÍ
+
+DIPLOMOVÁ PRÁCA
+
+Študijný program: Verejné zdravotníctvo
+Študijný odbor:
+
+5607 Verejné zdravotníctvo
+
+Školiteľ:
+
+doc. RNDr. Mgr. Milica Páleníková, PhD.
+
+BRATISLAVA 2023
+
+Bc. VIVIEN STEFANKOVICSOVÁ
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som diplomovú prácu vypracovala samostatne za použitia uvedenej
+literatúry a rád vedúceho práce.
+V Gabčíkove, dňa 16.10.2023
+--------------------------------
+
+Poďakovanie
+Ďakujem mojej školiteľke doc. RNDr. Mgr. Milici Páleníkovej, PhD. za jej ľudský prístup,
+odborné vedenie a cenné rady, ktoré mi poskytla počas písania diplomovej práce. Veľká
+vďaka patrí taktiež pani MUDr. Eve Borárosovej a pani sestričke z ambulancie
+všeobecného lekára pre deti a dorast v Gabčíkove
+
+ABSTRAKT
+Bc. STEFANKOVICSOVÁ, Vivien: Infekčné ochorenia dýchacích ciest u detí.
+[Diplomová práca]. Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety v Bratislave.
+Ústav zdravotníckych disciplín. Verejné zdravotníctvo. Školiteľ: doc. RNDr. Mgr. Milica
+Páleníková, PhD., Stupeň odbornej kvalifikácie: Magister verejného zdravotníctva. –
+Bratislava: Ústav zdravotníckych disciplín, 2023, 73s.
+Diplomová práca sa zaoberá infekčnými ochorenia dýchacích ciest u detí. Táto téma
+je veľmi aktuálna aj z hľadiska rozšírenia týchto ochorení. Choroby dýchacích ciest sú
+totiž jednou z najčastejších príčin návštevy pediatrickej ambulancie.
+V práci sme popísali jednotlivé ochorenia, ich priebeh, prejavy, prípadné
+komplikácie a zamerali sme sa na prevenciu ochorení. Ako prvý a najdôležitejší spôsob
+prevencie sme vyzdvihli očkovanie. Uviedli sme, ktoré očkovania sú povinné a ktoré sú
+len na žiadosť rodiča. V praktickej časti sme formou dotazníka skúmali častosť výskytu,
+priebeh a liečbu jednotlivých ochorení dýchacieho systému u detí predškolského veku
+v závislosti od ich veku a pohlavia a tiež spôsoby a vplyv prevencie na výskyt a liečbu
+chorôb. Zistili sme, že najčastejšie sa vyskytujúcim infekčných ochorením dýchacích ciest
+je rinitída. Z výsledkov výskumu sme zistili, že závažnejšie ochorenia ako čierny kašeľ,
+záškrt či tuberkulóza sa vďaka očkovaniu vyskytujú v populácií čoraz menej a v prípade
+výskytu je ich priebeh tiež oveľa miernejší. Ochorenia dýchacích ciest sú vo väčšine
+prípadov s miernym priebehom, hospitalizácia pri akútnych ochoreniach dýchacích ciest
+takmer vôbec nie je potrebná, ale v mnohých prípadoch deti užívali antibiotiká, aj keď
+rodičia udávali, že išlo len o ľahký prípad ochorenia s miernymi príznakmi. Zistili sme
+tiež, že dodržanie prevencie, povinné i nepovinné očkovanie ba aj dojčenie ako jeden
+z prvých možných spôsobov posilnenia imunity už od ranného veku dieťaťa priaznivo
+vplývajú na imunitu detí. Fakt, že deti po nástupe do kolektívu sú viac choré potvrdzujú aj
+výsledky výskumu.
+Kľúčové slová: dýchací systém, infekcia, vakcinácia, imunita
+
+ABSTRACT
+Bc. STEFANKOVICSOVÁ, Vivien: Infectious respiratory diseases in children. [Diploma
+thesis]. University of Health and Social Work St. Elizabeth in Bratislava. Institute of
+Healthcare disciplines. Public health. Consultant: doc. RNDr. Mgr. Milica Páleníková,
+PhD. Degree of professional qualification: Master of Public health. – Bratislava: Institute
+of Medical Disciplines, 2023, 73pp.
+The thesis deals with infectious respiratory diseases in children. This topic is also very
+recent in terms of the spreading of these diseases. Diseases of the respiratory tract are one
+of the most recurring reasons for visiting a pediatric ambulance.
+In this thesis we have described various diseases, the course of the diseses, speeches, possible
+
+complications and we have focused on the prevention of diseases. As the first and the most
+important method of prevention, we are pointing out vaccination. We have stated, which
+vaccinations are mandatory and which are only upon a request of a parent. In the form of a
+questionnaire, we have investigated the frequency, the course and treatment of individual
+diseases of the respiratory system in children of preschool age in the matter of their age
+and gender and also methods and impact of prevention on occurrence and treatment of
+diseases. We have discovered that the most frequently occurring infectious disease of the
+respiratory tract is rhinitis. From the results of our investigation, we have learned that the
+more serious illnesses like whooping cough (pertussis), diphtheria, or tuberculosis thanks
+to vaccination are far less occurring in the population and their natural history is also
+much milder. Diseases of the respiratory tract are in the majority of cases with a mild
+course, hospitalization in acute cases of respiratory diseases is almost unnecessary, but in
+many cases, the children were using antibiotics, even though parents have disclosed, that it
+was not a challenging case with only a mild symptoms. In addition, we have discovered
+that adherence to prevention, mandatory or optional vaccinations, as well as breastfeeding,
+as one of the first possible opportunities to strengthen immunity from the early age of a
+child, have a favorable effect on a children immunity. The fact, that children after entering
+a collective are sicker is also confirmed by the results of the investigation.
+Key words: respiratory system, infection, vaccination, immunity
+
+Obsah
+Zoznam tabuliek a grafov................................................................................................................... 9
+Zoznam obrázkov ............................................................................................................................. 11
+Zoznam skratiek ............................................................................................................................... 12
+ÚVOD .............................................................................................................................................. 13
+1.Infekčné ochorenia dýchacích ciest .............................................................................................. 14
+1.1 Funkcia a stavba dýchacích ciest ........................................................................................... 14
+1.2 Infekčné choroby všeobecne .................................................................................................. 15
+1.3 Najčastejšie etiologické agens infekcií dýchacích ciest u detí ............................................... 16
+2. Druhy infekčných ochorení dýchacích ciest ................................................................................ 20
+2.1 Infekcie horných dýchacích ciest ........................................................................................... 20
+2.2 Infekcie dolných dýchacích ciest ........................................................................................... 23
+2.3 Iné respiračné ochorenia ........................................................................................................ 24
+3. Prevencia ...................................................................................................................................... 26
+3.1 Vakcinácia.............................................................................................................................. 26
+3.2 Imunomodulácia..................................................................................................................... 29
+4. Diagnostika a liečba ..................................................................................................................... 32
+4.1 Spôsoby diagnostikovania...................................................................................................... 32
+4.2 Faktory ovplyvňujúce liečbu .................................................................................................. 34
+4.3 Symptomatická liečba ............................................................................................................ 34
+4.4 Kauzálna, príčinná liečba ....................................................................................................... 36
+5. Epidemiológia .............................................................................................................................. 38
+6. Ciele diplomovej práce ................................................................................................................ 45
+6.1 Metodika ................................................................................................................................ 45
+6.2 Výsledky ................................................................................................................................ 45
+Diskusia............................................................................................................................................ 61
+Odporúčania pre prax ....................................................................................................................... 67
+Záver ................................................................................................................................................ 68
+Zdroje ............................................................................................................................................... 69
+
+Zoznam tabuliek a grafov
+Tabuľka č. 1: Hodnoty CRP (Miloš JESEŇÁK & MINÁRIKOVÁ, 2020) .....................33
+Tabuľka č. 2: Symptómy závažnejších foriem infekcií dýchacích ciest ...........................37
+Tabuľka č. 3: Výskyt akútnych respiračných ochorení za chrípkové obdobie
+2022/2023.............................................................................................................................40
+Tabuľka č. 4: Výskyt čierneho kašľu (TRUSKA, 2018)....................................................42
+Tabuľka č. 5: Výskyt tuberkulózy (BRAŽINOVÁ, 2022).................................................42
+Tabuľka č. 6: Vek dieťaťa (vlastná analýza)......................................................................46
+Tabuľka č. 7: Pohlavie dieťaťa (vlastná analýza)...............................................................46
+Tabuľka č. 8: Výskyt a priebeh ochorení (vlastná analýza)...............................................48
+Tabuľka č. 9: Lekárska pomoc (vlastná analýza)...............................................................49
+Tabuľka č. 10: Užívanie antibiotík (vlastná analýza).........................................................50
+Tabuľka č. 11: Potreba hospitalizácie (vlastná analýza)....................................................51
+Tabuľka č. 12: Počet ochorení za rok (vlastná analýza).....................................................52
+Tabuľka č. 13: Príznaky ochorení DC (vlastná analýza)....................................................53
+Tabuľka č. 14: Výskyt ochorení podľa ročného obdobia (vlastná analýza).......................53
+Tabuľka č. 15: Prevencia dieťaťa (vlastná analýza)...........................................................54
+Tabuľka č. 16: Spôsoby podpory imunity (vlastná analýza)..............................................55
+Tabuľka č. 17: Povinné očkovanie (vlastná analýza)........................................................56
+Tabuľka č. 18: Nepovinné očkovanie (vlastná analýza)....................................................56
+
+Tabuľka č. 19: Výskyt sekundárneho ochorenia (vlastná analýza)...............................57
+Tabuľka č. 20: Dojčenie dieťaťa (vlastná analýza) ......................................................58
+Tabuľka č. 21: Návšteva predškolského zariadenia (vlastná analýza)..........................59
+Tabuľka č. 22: Chorobnosť dieťaťa (vlastná analýza).................................................60
+
+Graf č. 1: Chorobnosť za chrípkové obdobie 2022/2023 (Národný portál zdravia, 2023)
+.........................................................................................................................................................40
+
+Graf č. 2: Vek dieťaťa (vlastná analýza).............................................................................46
+Graf č. 3: Pohlavie dieťaťa (vlastná analýza)......................................................................47
+Graf č. 4: Výskyt a priebeh ochorení (vlastná analýza)......................................................48
+Graf č. 5: Lekárska pomoc (vlastná analýza)......................................................................49
+Graf č. 6: Užívanie antibiotík (vlastná analýza)..................................................................50
+Graf č. 7: Potreba hospitalizácie (vlastná analýza).............................................................51
+Graf č. 8: Počet ochorení za rok (vlastná analýza)..............................................................52
+Graf č. 9: Výskyt ochorení podľa ročného obdobia (vlastná analýza)...............................54
+Graf č. 10: Prevencia dieťaťa (vlastná analýza).................................................................55
+Graf č. 11: Povinné očkovanie (vlastná analýza)................................................................56
+Graf č. 12: Nepovinné očkovanie (vlastná analýza)..........................................................57
+Graf č. 13: Výskyt sekundárneho ochorenia (vlastná analýza).....................................58
+Graf č. 14: Dojčenie dieťaťa (vlastná analýza).............................................................59
+
+Graf č. 15: Návšteva predškolského zariadenia (vlastná analýza).................................59
+Graf č. 16: Chorobnosť dieťaťa (vlastná analýza)..............................................................60
+
+Zoznam obrázkov
+Obrázok č. 1: Stavba dýchacích ciest (University & Medical, 2023)..................................14
+
+Zoznam skratiek
+AIDS - Acquired Immune Deficiency Syndrome (syndróm získanej imunitnej
+nedostatočnosti)
+ARO – Akútne respiračné ochorenie
+CRP – C-reaktívny proteín
+CT – Computer tomography (počítačová tomografia)
+MRI – Magnetic resonance imaging (zobrazovanie magnetickou rezonanciou)
+ORL - Otorinolaryngológia
+RNA – Ribonukleová kyselina
+RSV – Respiračný syncyciálny vírus
+RTG – Röntgenové vyšetrenie
+SR – Slovenská republika
+TCB - Tuberkulóza
+UK – Univerzita Komenského
+WHO – World Health Organization (Svetová zdravotnícka organizácia)
+
+ÚVOD
+Infekčné ochorenia sú najčastejšie sa vyskytujúcimi ochoreniami na celom svete.
+Ich výskyt výrazne klesol po 2. svetovej vojne, stále sa však vo veľkej miere podieľajú na
+chorobnosti a úmrtnosti a to najmä v rozvojových krajinách sveta. Napriek širokému
+spektru liekov, neustále sa rozširujúcimi spôsobmi diagnostiky a liečby nás stále ohrozujú
+aj také infekčné ochorenia, ktoré nemáme pod kontrolou a ich liečbu doteraz nezvládame.
+Takýmito sú napríklad AIDS či besnota. Ďalej poznáme infekcie, na liečbu ktorých je
+zdravotníctvo síce postačujúce, ich prítomnosť však môže u pacienta zanechať isté
+následky. Takýmito ochoreniami sú napr. neuroinfekcie.
+Neustálu pozornosť si vyžadujú infekcie dýchacieho systému, keďže tvoria
+najväčšiu skupinu zo všetkých infekčných ochorení. Na Slovensku ročne postihujú
+infekcie dýchacích ciest až jednu tretinu obyvateľstva vrátane detí. Aj keď je úmrtnosť na
+infekcie dýchacích ciest na Slovensku nízka, niektoré infekcie respiračného systému
+spôsobujú sekundárne ochorenia pacienta, ktoré neskôr môžu viesť až k smrti. Proces
+vývoja sekundárneho ochorenia u pacienta prebieha zásahom patogénu do patogenézy
+niektorých nádorových či chronických ochorení a tým podmieňujú ich výskyt.
+(BAZOVSKÁ, 2019).
+V diplomovej práce sme sa venovali infekčným ochoreniam dýchacích ciest u detí.
+Tému práce sme si zvolili práve preto, že infekcie dýchacích ciest sú jedným z najčastejšie
+sa vyskytujúcich infekcií aj v detskej populácií a našim cieľom je podať čo najviac
+informácií a rád najmä rodičom ako správne takéto ochorenie zvládať, kedy je potrebná
+lekárska pomoc, ale predovšetkým ako ochoreniam predchádzať.
+V práci sme vymenovali najznámejšie ochorenia dýchacích ciest, popísali sme
+spôsoby
+
+diagnostiky
+
+a liečby,
+
+zdôraznili
+
+sme
+
+dôležitosť
+
+dodržiavania
+
+bežných
+
+preventívnych opatrení a vyzdvihli sme očkovanie ako najúčinnejší spôsob prevencie.
+Poukázali sme tiež na dôležitosť podpory imunity už v rannom veku. V empirickej časti
+sme formou dotazníka sledovali výskyt a priebeh ochorení vzhľadom na vek a pohlavie
+detí, tiež sme sledovali závažnosť príznakov, spôsob liečby a vplyv prevencie na častosť
+výskytu ochorenia. Získané údaje sme spracovali do tabuliek a grafov a z výsledkov sme
+na záver vyvodili odporúčania pre prax.
+
+13
+
+1.Infekčné ochorenia dýchacích ciest
+Dýchacie cesty sú veľmi dôležitou sústavou ľudského tela. Vďaka nim je ľudské
+telo zásobované kyslíkom, ktorý sa dostáva do krvi a k bunkám tela a umožňuje ich
+správnu funkciu. Tak spolupracuje s obehovou sústavou. Slúži taktiež na filtráciu
+vdychovaného vzduchu, a tak chráni telo pred škodlivými látkami. (HEATH, n.d.)
+1.1 Funkcia a stavba dýchacích ciest
+Hlavnou funkciou dýchacích ciest je výmena vzduchu medzi pľúcami a vonkajším
+prostredím a medzi pľúcami a krvou. Výmenu vzduchu medzi pľúcami a vonkajším
+prostredím nazývame vonkajšie dýchanie. Vdýchnutý vzduch sa rovnomerne rozptýli do
+všetkých alveol. Vnútorným dýchaním je prenos vzduchu medzi krvou a pľúcami.
+S dýchacím systémom úzko súvisí aj jeden z našich zmyslov – čuch, ktorý je zodpovedný
+za rozoznávanie vôní. Dýchanie nám zabezpečuje taktiež prísun kyslíka do buniek tela a
+zohrieva vdychovaný vzduch na teplotu zhodnú s telesnou teplotou človeka. Vydychovaný
+vzduch obsahuje odpadové plyny, napr. oxid uhličitý, čím sa telo zbavuje nepotrebných či
+škodlivých mikroorganizmov. (Clinic, 2020)
+Dýchací systém delíme na dva hlavné úseky – dýchacie cesty a pľúca. Horné
+dýchacie cesty tvoria nos, ústa, nosová a ústna dutina, nosohltan, hrtan a priedušnica
+a dolné dýchacie cesty tvoria priedušky a pľúca. (HEATH, n.d.)
+
+Obrázok č. 1: Stavba dýchacích ciest (University & Medical, 2023)
+
+14
+
+Otvormi nosa a úst sa vzduch dostáva z vonkajšieho prostredia do dýchacích ciest.
+Nosová dutina je spravidla rozdelená na dve asymetrické polky nosovou priehradkou.
+Prínosné dutiny sú duté priestory v čuchovej, čelovej a klinovej kosti, pri prechádzaní
+ktorými sa vzduch zohrieva na telesnú teplotu. Ich funkcia je veľmi významná. Okrem
+iného slúžia na správne držanie hlavy a podporujú vzpriamenú chôdzu, tým že odľahčujú
+lebku. Nosová dutina je zvnútra vystlaná sliznicou, ktorá obsahuje hlienové žliazky.
+V nosovej dutine sa v hornej časti nachádza čuchové centrum tvorené čuchovými bunkami.
+Nosohltan tvorí hornú časť hltana. Eustachovou trubicou je nosohltan prepojený s dutinou
+stredného ucha. V mieste vyústenia Eustachovej trubice sa nachádzajú mandle.
+V nosohltane sa prelína tráviaca a dýchacia sústava. Nosohltanom sa vzduch posúva ďalej
+cez hrtan do priedušnice. Hrtan je rúrkovitá trubica a od hltana je oddelená hrtanovou
+príchlopkou. Táto chrupka zabraňuje prechodu potravy a tekutín do dýchacieho systému.
+Priedušnica slúži na spojenie hrtana a pľúc. Po bokoch priedušnice sú uložené laloky
+štítnej žľazy. Na spodnej strane sa priedušnica rozkonáruje na tzv. bronchiálne trubice,
+ktoré smerujú do oboch pľúc. Týmto sa vytvára bronchiálny strom. Funkcia aj stavba
+priedušiek je rovnaká ako priedušnice. Sú vystužené chrupavkou a ich vnútro tvorí
+riasinkový epitel.
+Pľúca sú hlavným párovým orgánom dýchacieho systému. V medzipľúcnom
+priestore sa medzi pravými a ľavými pľúcami nachádza srdce. Pľúca sú rozdelené na
+pľúcne laloky – pravé pľúca na tri laloky a ľavé pľúca na dva. Povrch pľúc je pokrytý
+blanou – popľúcnicou. Priedušky sa vstupom do pľúc stále rozvetvujú. Zakončené sú
+mechúrikovými vrecúškami, ktoré sú tvorené pľúcnymi mechúrikmi. Mechúrikové kanály
+sem privádzajú vzduch a dochádza tak k výmene plynu medzi krvou a pľúcami. Tento jav
+nazývame vnútorné dýchanie. (Biopedia, 2023; Clinic, 2020; University & Medical, 2023)
+1.2 Infekčné choroby všeobecne
+Infekčné
+
+ochorenia
+
+definujeme
+
+ako
+
+prenosné
+
+choroby
+
+spôsobené
+
+mikroorganizmami, ktoré po vniknutí do organizmu vyvolajú chorobu. Čas, ktorý prejde
+od vniknutia choroboplodného zárodku do organizmu do času, kedy sa prejavia prvé
+príznaky choroby sa nazýva inkubačná doba. Dĺžka inkubačnej doby je pri každom
+ochorení odlišná. Po prekonaní určitej choroby sa väčšinou vytvorí krátkodobá alebo
+dlhodobá, niekedy aj celoživotná odolnosť organizmu – imunita. (Infekčná Choroba –
+Wikipédia, 2023).
+
+15
+
+Nebezpečenstvo šírenia infekcií je však stále vysoké. Cestovanie, obchod, migrácia a
+aj mnohé iné faktory prispievajú k postupnému zvyšovaniu rizika vypuknutia pandémií
+a epidémií. Antibiotická rezistencia je tiež jednou z príčin zvýšeného výskytu infekčných
+ochorení. Nadmerné užívanie či nesprávne dávkovanie antibiotík spôsobujú, že
+mikroorganizmy sa stávajú odolné voči nim, a tak je potom snaha o ich usmrtenie často
+márna.
+Infekčné ochorenia sa delia do skupín podľa rôznych kritérií. Základné delenie je
+podľa mechanizmu prenosu:
+•
+
+Črevné infekcie – fekálno – orálny spôsob prenosu infekcie
+
+•
+
+Infekcie dýchacích ciest – infekcie prenášané vzduchom
+
+•
+
+Krvné nákazy – prenášané krvou (napr. článkonožce)
+
+•
+
+Nákazy kože a slizníc – spôsob prenosu priamym kontaktom
+Ďalej delíme infekcie podľa stupňa intenzity:
+
+•
+
+Sporadický – ochorenie sa vyskytuje ojedinele v určitom čase na určitom mieste, nie je
+medzi nimi epidemiologická súvislosť
+
+•
+
+Epidemický – výskyt viacerých ochorení v krátkom čase na určitom mieste s rovnakým
+pôvodcom nákazy
+
+•
+
+Pandemický – rozsiahla epidémia na neurčitom mieste v neurčitom čase
+Podľa výskytu ochorenia v populácií poznáme choroby endemické a exotické.
+
+•
+
+Endemické – choroba sa na určitom mieste bežne vyskytuje
+
+•
+
+Exotické – choroba sa bežne na určitom území nevyskytuje (ŠULCOVÁ et al., 2012)
+1.3 Najčastejšie etiologické agens infekcií dýchacích ciest u detí
+Rinovírus je pomenovanie pre tri druhy vírusov z rodu Enterovirus. Rinovírusy sú
+najčastejším pôvodcami infekcií v ľudskej populácií. Spôsobujú rinitídy, bežné
+nachladnutia u detí aj dospelých. Rinovírusy nie sú nijako výrazne nebezpečné pre inak
+zdravé dospelé osoby, ale napádajú skôr osoby so slabým imunitným systémom, starších
+jedincov, chronicky chorých pacientov a deti. Príznaky chorôb spôsobených rinovírusom
+sú totožné s príznakmi bežného nachladnutia – nádcha, kašeľ, upchatý nos, príp. teplota.
+(BUENSALIDO, 2023; CDCP, 2023b).
+16
+
+V prípade nakazenia detí alebo starších osôb RSV je v závažnejších prípadoch
+potrebná hospitalizácia. (CDCP, 2023a). Tento vírus je totiž veľmi stabilný a spôsobuje
+závažné infekcie dýchacieho systému. Ako väčšina vírusov, aj tento sa šíri kvapôčkovou
+infekciou, spôsobuje okrem iného bronchitídy, pneumónie či zápal stredného ucha. Jeho
+pohyb v organizme je pomerne rýchly, putuje postupne smerom na dolné dýchacie cesty,
+preto dokáže infikovať viac častí dýchacieho systému súčasne. (Respirační Syncytiální
+Virus, n.d.)
+Adenovírusy sú významnou skupinou vírusov. Poznáme 7 druhov adenovírusov.
+Prenášajú sa priamym stykom s nakazenými jedincami, príp. kontaminovanými povrchmi.
+Adenovírusy sú skôr diagnostikované u detských pacientov, spôsobujú faryngitídu, otitídu,
+hlienovitý kašeľ a ťažkú tonzilitídu. Faryngitídu spôsobenú adenovírusmi je veľmi ťažké
+odlíšiť od streptokokovej faryngitídy. K týmto ochoreniam sa najmä u detí pridružuje aj
+horúčka. (TESINI, 2022)
+Koronavírus je skupina vírusov, ktorá postihuje ľudí aj zvieratá. Doteraz je
+známych sedem druhov koronavírusov. Postihujú prevažne horný dýchací systém
+a spôsobujú nezávažné infekcie, postihnutie niektorými vybranými druhmi však môže
+viesť až k smrti. (NIAaID, 2022; UKRI, 2020)
+Vírusy chrípky – chrípku vyvolávajú dva druhy RNA vírusov. Ochorenie môžu
+vyvolať u ľudí aj u zvierat. Prenášajú sa kvapôčkovou infekciou. Rizikovú skupinu tvoria
+ako u väčšiny pôvodcov, tak aj v tomto prípade deti, starší ľudia, ľudia so slabou imunitou
+alebo chronickým ochorením. Stále sa objavujú nové formy vírusov, ktoré sú dosť
+nebezpečné práve preto, že sú neznáme. Vedci stále hľadajú spôsoby, ako sa proti týmto
+novým variantom brániť. (Wikipedia, n.d.)
+Rod
+
+Acinetobacter
+
+je
+
+klinicky
+
+veľmi
+
+významný.
+
+Rozšírený
+
+je
+
+najmä
+
+v nemocničných priestoroch, čo spôsobuje nozokomiálne infekcie. Celosvetovo stojí za
+mnohými epidémiami za čo môže aj vysoká rezistencia na rôzne druhy antibiotík.
+(ALMASAUDI, 2016)
+Chlamydophila pneumoniae zvaná aj Chlamydia pneumoniae je najčastejšou
+príčinou zápalu pľúc u detí aj u dospelých. Často spôsobuje komplikácie a opakované
+infekcie, keďže má schopnosť dlhodobo prežívať v bunkách imunitného systému. Okrem
+iného spôsobuje táto baktéria aj zápaly rôznych iných častí dýchacieho aparátu ako sú
+hltan, priedušky a priedušnica. Existujú dôkazy, že jeho prítomnosť v organizme súvisí aj
+s Alzheimerovou chorobou, astmou a aterosklerózou. Šíri sa kvapôčkovou infekciou
+a premorenosť populácie je okolo 60 – 80%. (Chlamydophila Pneumoniae, 2023)
+17
+
+Mycoplasma pneumoniae spôsobuje bežne len mierne infekcie dýchacieho systému
+u detí. V mimoriadnych prípadoch môže viesť k závažným infekciám najmä pľúcnym,
+ktoré si vyžadujú liečbu v nemocnici. Základným preventívnym opatrením je pri
+Mycoplasma pneumoniae ako aj pri iných baktériách dodržiavanie hygienických opatrení,
+ktoré vedú vo veľkej miere k zníženiu ich šírenia. (National Center for Immunization and
+Respiratory Diseases, 2022)
+Čeľaď Enterobacteriacae zahŕňa veľmi významné ale i životu nebezpečné baktérie.
+Niektoré tieto druhy sa bežne nachádzajú v ľudskom tele, presnejšie sú súčasťou črevnej
+mikroflóry, iné zase spôsobujú niekedy až smrteľné nákazy. Okrem infekcií dýchacieho
+systému spôsobujú aj ochorenia tráviace traktu a močového ústrojenstva. Sú obzvlášť
+nebezpečné pre slabších jedincov, pre deti so slabou imunitou, s chronickým ochorením
+a iné. Najznámejšie sú Escherichia coli, Salmonella, Klebsiella. (RAMIREZ & GIRON,
+2023) Haemophilus influenza spôsobuje infekcie s rýchlym, ale závažným priebehom.
+Niektoré prípady končia dokonca smrťou. Pri infekciách dýchacích ciest spomíname túto
+baktériu v súvislosti s epiglotitídou. Toto ochorenie je veľmi nebezpečné obzvlášť u detí
+do 5 rokov. Okrem toho spôsobuje aj sepsu a meningitídu. (ÚVZSR, 2023)
+Legionella pneumophila spôsobuje infekčné ochorenia, ktoré sú síce zriedkavé, ale
+niekedy vyvolávajú až život ohrozujúci stav pacienta. Môžu byť príčinou zápalu pľúc,
+chrípky a iných chrípkových stavov. Na Slovensku je výskyt tejto baktérie zriedkavý,
+a tým aj ochorenia ním spôsobené. (ŠPALEKOVÁ, 2010)
+Moraxella catarrhalis sa v určitej miere fyziologicky nachádza v dýchacích cestách
+človeka. Problémy spôsobuje najmä u detí, tento patogén je škodlivý len ak sa premnoží.
+Zapríčiňuje najmä pneumónie, sinusitídy a okrem infekcií dýchacích ciest aj meningitídu či
+sepsu. Pneumóniu spôsobuje skôr u dospelých pacientov, u detí má zásluhu na zápale
+stredného ucha.
+Nocardia asteroids patrí medzi menej známe baktérie. Stojí za mnohými pľúcnymi
+ochorenia a v prvom rade napáda jedincov s oslabenou imunitou.
+Pasteurella multilocida je najčastejším etiologickým agens infekcií mäkkých
+tkanív, v niektorých prípadoch však môže spôsobiť aj závažnejšie infekcie respiračného
+traktu, meningitídy, dokonca aj endokarditídy najmä u starších ľudí a novorodencov, pre
+ktorých je charakteristická oslabená imunita.
+Pseudomonas aeruginosa je najvýznamnejšia baktéria svojho rodu. V súvislosti
+s dýchacími cestami spôsobuje zápaly stredného ucha, okrem iného aj zápaly močových
+ciest. Jeho výskyt je veľmi častý v nemocničnom prostredí.
+18
+
+Staphylococcus aureus je veľmi známou a aktívnou baktériou svojho druhu.
+Spôsobuje nespočetne veľa ochorení vrátane sinusitíd, bronchopneumónií. Okrem
+dýchacích ciest postihuje aj organizmus celkovo a to tak, že spôsobuje sepsu, rôzne
+abscesy, endokarditídu a zapríčiňuje aj sekundárne ochorenia iných chorôb.
+Streptococcus pneumoniae je charakteristickým etiologickým agens pre infekcie
+dýchacieho traktu u detí aj dospelých. Spôsobuje rinitídu, sinusitídu, tonzilitídu aj
+laryngitídu, zápal pľúc a stredného ucha. Často sa nachádza na miestach, ktoré bolo
+napadnuté najprv vírusmi. Ochorenia organizmu môže spôsobiť aj mimo dýchacích ciest,
+napr. spôsobuje zápal pobrušnice, mozgových blán a sepsu.
+Streptococcus pyogenes je ďalšia baktéria, ktorá veľmi často spôsobuje ochorenia
+dýchacích ciest. Nachádza sa totiž práve v nose a v hrdle, spôsobuje tak tonzilitídu,
+laryngitídu aj faryngitídu.
+Strenotrophomonas maltophilia sa považuje za veľmi rizikové etiologické agens
+ochorení, keďže je prirodzene rezistentné na mnohé druhy antibiotík. Ohrozuje najmä
+imunokompromitovaných pacientov, spôsobuje pľúcne zápaly, zápaly močových ciest
+a krvi. (LOCKE et al., 2012)
+
+19
+
+2. Druhy infekčných ochorení dýchacích ciest
+Dýchacie cesty delíme na horné a dolné dýchacie cesty. Podľa toho môžeme deliť
+aj ochorenia jednotlivých orgánov dýchacích ciest.
+2.1 Infekcie horných dýchacích ciest
+Medzi známe a často sa vyskytujúce infekcie horných dýchacích ciest patrí nádcha
+(rinitída), zápal prínosných dutín (sinusitída) a zápal mandlí (tonzilitída). Ďalej sem
+zaraďujeme aj akútny zápal hrtana (laryngitída), akútny zápal hltana (faryngitída) a zápal
+hrtanovej príchlopky (epiglotitída). Celoročne a veľmi často sa v detskom veku stretávame
+aj so zápalom stredného ucha (otitída) a naopak, zriedkavý výskyt u detí má tracheitída.
+Tieto ochorenia sa často vyskytujú aj v detskej populácií. Spomínané ochorenia horných
+dýchacích ciest sa síce prejavujú u detí najmä na jeseň a v zime, vyskytnúť sa však môžu
+v priebehu celého roka. Pôvodcami ochorení sú prevažne vírusy. Tieto ochorenia sa môžu
+vyskytnúť samostatne alebo môžu byť aj sprevádzajúcim príznakom iného ochorenia
+dýchacieho systému či príznakom ochorenia úplne iného charakteru. (OROSOVÁ, 2020)
+Rinitída je zápal sliznice nosovej dutiny. Je to obyčajná nádcha, ktorá
+nepredstavuje pre dospelého žiadne veľké riziká, pokým je sprevádzaná bežnými
+príznakmi. U detí je to ale inak, najmä u dojčiat. Upchatý nos môže pre nich predstavovať
+vážny problém, keďže si ho sami nevedia vyfúkať a nedokážu ešte dýchať ústami. Exsudát
+z nosa im treba pravidelne odsávať, hlavne pred jedením a spaním. S väčšími deťmi je to
+o niečo jednoduchšie, ale stále treba dbať na pravidelné vyprázdňovanie nosa. Pri
+pridružení horúčky je potrebné vyhľadať lekársku pomoc. Pri bakteriálnej forme môže byť
+príznakom aj hnisavý výtok z nosa čo predstavuje komplikáciu ochorenia. (Mediklin,
+2014).
+Zvýšená tvorba hlienu a opuchy v dýchacích cestách spôsobené či už obyčajnou
+nádchou alebo alergiou často vedú k zápalu prínosných dutín – k sinusitíde. Najčastejšími
+baktériami, ktoré spôsobujú sinusitídu u detí sú Streptococcus pneumoniae, haemophilus
+influenzae a Moraxella catarrhalis. Pri akútnej sinusitíde je prvou voľbou zvýšený príjem
+tekutín, použitie vhodných prípravkov do nosa pre deti ako sú výplachy či roztok morskej
+soli, prípadne naparovanie a teplé obklady tváre. (Stanford Medicine, 2023; wikipédie,
+2023).
+Rinitída a sinusitítda spolu úzko súvisia. Tieto dva zápaly prebiehajú v dýchacích
+cestách súčasne a prejavujú sa rovnakými príznakmi. Sú to najmä exsudát z nosa, zvýšená
+20
+
+tvorba hlienov a ich následné zatekanie, opuch sliznice, tlak a bolesť tváre a mierna či
+úplná strata čuchu. Môžu sa pridružiť kýchanie ako následok svrbiaceho nosa, slzenie očí,
+zaliehanie v ušiach až strata sluchu v závislosti od závažnosti ochorenia. Rinitída aj
+sinusitída sú infekčné ochorenia dýchacích ciest, ktoré pôvodcom je rinovírus. Inkubačná
+doba trvá od 1 do 3 dní s prenos infekcie prebieha väčšinou kvapôčkovou infekciou,
+zriedkakedy priamym kontaktom. Tieto ochorenia sa vyskytujú u detí buď samostatne
+alebo sú prejavom inej choroby. (STANKO, 2020).
+Laryngitída je zápalové ochorenie hrtana, ktoré je u detí veľmi rozšíreným
+a zároveň nebezpečných ochorením. Rozšírený viac u detí je preto, lebo deti majú užší
+nosohltan ako dospelí čo umožňuje skôr zachytiť baktérie a vírusy a nebezpečný je
+z hľadiska príznakov. U detí mladších ako šesť mesiacov je ťažký priebeh tohto ochorenia
+a hrozí aj zadusenie zúžením lúmen v hrtane. Laryngitída je často príznakom chrípky.
+Príčiny vzniku laryngitídy ale nemusí byť len prechladnutie či chrípka, príčinou môže byť
+aj alergia, prítomnosť cudzieho telesa, reakcia na vonkajšie faktory ako sú vône,
+klimatizácia, dym, preťaženie hlasiviek a u dojčiat aj refluxná choroba. Príznakmi
+ochorenia môže byť celková reakcia organizmu nádchou, zvýšenou telesnou teplotou,
+bolesťou hlavy a prítomné sú aj hlavné, lokálne príznaky ako opuch a začervenanie hrdla,
+mierne krvácanie postihnutej oblasti, dýchavičnosť, zachrípnutie až strata hlasu, sucho
+v ústach
+
+a pocit
+
+šteklenia
+
+v ústnej
+
+dutine
+
+v dôsledku
+
+zápalu,
+
+štekajúci
+
+kašeľ
+
+s vykašliavaním hlienu. U novorodencov treba sledovať ich správanie, inak totiž nevedia
+dať najavo prítomnosť ochorenia. Typickými sú náladovosť, apatia, úzkosť, kašeľ,
+zachrípnutie a pískanie na hrudníku. Komplikáciou zápalu hrtana môžu byť dusenie, náhle
+zúženie hltana, sepsa, pľúcny absces či laryngitída hnisavého charakteru. (Príznaky a
+Liečba Laryngitídy u Dieťaťa. Prejavy Zápalu Hrtana u Dieťaťa a Účinné Spôsoby Jeho
+Liečby, 2020).
+Epiglotitída je zápal hrtanovej príchlopky a predstavuje pre deti život ohrozujúci
+stav. Postihuje najčastejšie vekovú skupinu od dvoch do piatich rokov v závislosti od
+očkovania. Ochorenia nastupuje rýchlo, je prítomná lokálna bolesť a vysoká teplota
+a slinenie. Vyvolávateľom ochorenia je Hemophilus influenzae, ktorý môže spôsobiť aj
+meningitídu, pneumóniu a septickú artritídu.
+
+Epiglotitída patrí medzi hemofilové
+
+invazívne ochorenia, proti ktorým sa deti povinne očkujú, a preto je výskyt tohto ochorenia
+čoraz nižší.
+
+Keďže hltan je takpovediac v priamom styku s vonkajším okolím, je ťažké
+
+zamedziť styku hltana s rôznymi baktériami či vírusmi, ktoré môžu spôsobiť zápal. Medzi
+najčastejšie infekčné zápaly hltana patrí samotný zápal hltana – faryngitída a zápal mandlí
+21
+
+– tonzilitída.
+
+Vo väčšine prípadov je zápal spôsobený vírusmi, niekedy je však
+
+mikrobiologickým agens aj baktéria, v tomto prípade streptokoky. Ochorenia sa prenášajú
+kvapôčkovou infekciou, menej častý spôsob prenosu je priamy kontakt s nakazeným.
+Klasickými príznakmi faryngitídy sú lokálna bolesť, ktorá môže vystreľovať až do oblasti
+uší, bolesť pri prehĺtaní, teplota, kašeľ a v niektorých prípadoch aj nádcha. Pri zápale
+mandlí sa na mandliach môžu objaviť malé biele fliačky, zápal môže mať až hnisavý
+charakter. Priebeh týchto zápalov je horší u detí. Telesná teplota často vystupuje až nad
+39°C, trvanie ochorenia je dlhšie a príznaky sú intenzívnejšie. Po často sa opakujúcich
+zápaloch mandlí lekár môže odporučiť ich chirurgické odstránenie, ktorého vykonanie
+závisí od viacerých faktorov, napr. od počtu zápalov za určitý čas, veku dieťaťa, priebehu
+ochorenia a iných. (KOMÍNEK, 2023).
+Otitída je zápalové ochorenie stredného ucha. Toto ochorenie sa u detí vyskytuje
+veľmi často a jeho výskyt nie je spojený s chrípkovým obdobím. Zápal stredného ucha sa
+vyskytuje prakticky počas celého roka. Tiež ho zaraďujeme medzi zápaly dýchacích ciest.
+Zápal stredného ucha je veľmi nepríjemný a dokáže spôsobiť veľké bolesti. Príčinou tohto
+ochorenia môže byť niekoľko – prienik infekcie do ucha, vplyv vonkajších faktorov (napr.
+prievan), ale v prípade zápalu stredného ucha tiež môžeme nadviazať na nedostatočnú
+imunitu dieťaťa. Porucha Eustachovej trubice sa tiež môže prejaviť zápalom v oblasti
+stredného ucha. Príznakmi tohto ochorenia sú bolesť ucha, začervenanie a opuch vo vnútri
+ucha, zvýšená teplota v dôsledku zápalu, v niektorých prípadoch dochádza k zhoršeniu či
+dočasnej strate sluchu. Pri deťoch treba sledovať ich správanie, bolesť ucha dávajú najavo
+jeho chytaním či trením. V ojedinelých prípadoch, a to najmä pri nesprávnej a nevčasnej
+liečbe môže dôjsť ku vzniku komplikácií ako sú nekróza bubienka, akútna mastoiditída či
+iné vnútrolebečné komplikácie. (ŠĽAPÁK, 2007)
+Tracheitída, čiže zápal priedušnice u detí je veľmi zriedkavé ochorenie, ale jeho
+prítomnosť môže vyvolať až život ohrozujúci stav. Liečba tracheitídy si väčšinou vyžaduje
+hospitalizáciu. Toto ochorenia sa vyskytuje zväčša po iných ochoreniach dýchacieho
+systému ako sú chrípka či rôzne zápaly. Včasná diagnostika a správne nasadená liečba
+vedú k bezproblémovému priebehu ochorenia. Tracheitída má u detí aj u dospelých skôr
+bakteriálny pôvod. Príznaky ochorenia sú približne prvé tri dni rovnaké ako pri iných
+infekčných chorobách, až po uplynutí troch dní dochádza k prejavu závažnejších
+príznakov. U detí sa závažné príznaky môžu prejaviť aj hneď. Typickými príznakmi
+tracheitídy sú pískanie pri dýchaní, horúčka, kašeľ, hustý hlien a u detí až slintanie, únava
+a celková nevoľnosť. Vo veľmi závažných prípadoch je potrebné vykonať bronchoskopiu.
+22
+
+Jednoduchšie prípady sú liečené okrem iného aj protivírusovou liečbou približne dva
+týždne, v prípade potreby je podávaný kyslík. Podľa výsledkov diagnostiky sa podávajú aj
+antibiotiká, keďže samotná antivírusová liečba by nebola postačujúca. Zotavenie po tomto
+ochorení je väčšinou bez ďalších komplikácií, len v niektorých prípadoch dochádza
+k zúženiu určitých častí dýchacích ciest. (HOGAN, 2021)
+2.2 Infekcie dolných dýchacích ciest
+Medzi najčastejšie ochorenia dolných dýchacích ciest patria zápal priedušiek
+(bronchitída) a zápal pľúc (pneumónia).
+Bronchitída je ochorenie dýchacích ciest, ktoré je charakterizované zápalom
+bronchiálnej trubice a následnou tvorbou hlienov v dýchacích cestách. Bronchitída môže
+mať dve formy – akútnu a chronickú. Akútna bronchitída má rýchlejší a miernejší priebeh
+väčšinou bez komplikácií a zotavenie pacienta trvá len pár dní. Pôvodcom sú väčšinou
+vírusy, len v ojedinelých prípadoch spôsobujú akútnu bronchitídu baktérie. U detí sa
+akútna bronchitída vyvinie skôr ako sekundárne ochorenie po inej vírusovej infekcií
+dýchacieho systému. Chronická bronchitída je infekčné ochorenie trvajúce najmenej tri
+mesiace a opakuje sa minimálne dva roky po sebe. Keďže je výstelka dýchacích ciest
+zapálená natrvalo, jedným z najčastejších príznakov je sťažené dýchanie, opuch
+v dýchacích cestách a zvýšená tvorba hlienu. Na vývoj chronickej bronchitídy u detí
+vplýva mnoho faktorov. Náchylnejšie sú deti s chronickou sinusitídou, astmou, alergiou,
+zväčšenými mandľami, deti, ktoré sú vystavené pasívnemu fajčeniu ale aj deti s inými
+chronickými ochoreniami. Chronická bronchitída sa u deti prejavuje hlienovitým alebo
+suchým dráždivým kašľom, často sa pridruží aj zvracanie v dôsledku hlienov, bolesť a tlak
+na hrudníku, bolesť chrbta, svalov, teplota, celkové nepohodlie, piskľavé dýchanie, bolesť
+hrdla a iné. Tieto príznaky pretrvávajú 7 – 14 dní, kašeľ zvyčajne pretrváva najdlhšie zo
+všetkých príznakov, až 3 -4 týždne. Pri bronchitíde je tiež veľmi dôležitá správna
+diagnostika ochorenia, keďže príznaky sú totožné aj s inými ochoreniami dýchacích
+ciest.(Acute Bronchitis in Children, 2023; NIH, 2022)
+Pneumónia patrí medzi najzávažnejšie infekcie dýchacích ciest. Je to akútne
+ochorenie postihujúce respiračné bronchioly, alveoly a pľúcne interstícium. Obzvlášť je
+nebezpečné pre deti do päť rokov a starších ľudí, imunokompromitovaných pacientov
+a pacientov s chronickou chorobou. Pôvod ochorenia môže byť vírusový, bakteriálny alebo
+mykoplazmový. U dojčiat je častejšie vyvolávateľom vírus, baktérie a mykoplazmy
+23
+
+spôsobujú zápal pľúc u starších detí. Najčastejšie sú to Streptococcus pneumoniae
+a Mycoplasma pneumoniae. Infekcia sa do pľúc dostáva inhaláciou. Typickými príznakmi
+sú horúčka, produktívny kašeľ, bolesť a pichanie hrudníka. U novorodencov a detí do 3.
+mesiaca sú príznaky ochorenia nešpecifické, je prítomná hypotermia, celková svalová
+slabosť, ospalosť a na pľúcach nie je viditeľný žiadny fyzikálny nález ako u starších detí.
+Zápal pľúc si vyžaduje minimálne liečbu perorálnymi antibiotikami, niektoré štádiá je
+potrebné liečiť podávaním antibiotík intravenózne. Vtedy je potrebná hospitalizácia
+pacienta. (Jakubec & Kolek, 2018; Kapellerová, 2007)
+2.3 Iné respiračné ochorenia
+Okrem spomínaných zápalov rôznych častí dýchacích ciest patria medzi detské
+respiračné choroby aj čierny kašeľ, záškrt, tuberkulóza či chrípka. Ich výskyt vďaka
+zavedeniu očkovaniu postupne klesol.
+Čierny kašeľ je akútna respiračná detská choroba. Vyvolávateľom je baktéria
+Bordetella pertussis. Ochorenie sa prenáša kvapôčkovou infekciou pri veľmi úzkom
+kontakte s nakazeným jedincom. Deti, presnejšie novorodenci sú najviac ohrozenou
+skupinou, keďže materské protilátky dieťa pred týmto ochorením chránia len minimálne.
+Inkubačná doba je okolo 10 dní. Táto respiračná choroba má tri štádiá. Katarálne štádium
+začína suchým dráždivým kašľom trvajúcim najmenej dva týždne. Typické je aj zvýšenie
+teploty.
+
+Paroxyzmálne
+
+štádium
+
+sprevádza
+
+záchvatový
+
+kašeľ
+
+najmä
+
+v noci,
+
+charakteristickými znakmi tohto záchvatu sú opakované výdychy a následne hlasný
+nádych, dieťa niekedy sčervenie až zmodrie. Tento stav končí vykašľaním hustého hlienu
+až vracaním. Trvanie je v rozmedzí jedného až dvoch mesiacov. U dojčiat, ktoré ešte
+nemajú vyvinuté správe dýchacie reflexy hrozí zástava dýchania až udusenie. V treťom
+štádiu rekonvalescencie sa záchvaty zmierňujú a ustupujú v priebehu niekoľkých týždňov.
+Je dokázané, že u starších detí je priebeh ochorenia miernejší. Liečba ochorenia začína
+antibiotikami v katarálnom štádiu, kedy ich užívanie zabraňuje množeniu baktérií. Neskôr
+už antibiotiká potrebné nie sú, stačí symptomatická liečba. Proti tomuto ochoreniu existuje
+očkovanie, ktoré eliminuje výskyt ochorenia a po podaní vytvára dlhodobú imunitu. Po
+prekonaní ochorenia je imunita celoživotná. (HUČKOVÁ et al., 2009)
+Diftéria, čiže záškrt je známa respiračná choroba postihujúca najmä deti. Postihuje
+mandle, hltan a hrtan tak, že dochádza k ich zápalu. Málokedy je postihnutá aj koža a očná
+spojivka. Nebezpečenstvo predstavuje zápal hrtana, ktorý môže spôsobiť udusenie
+postihnutého už v priebehu niekoľkých hodín tým, že dôjde k opuchu postihnutej oblasti
+24
+
+a objavia sa problémy pri prehĺtaní. Príznaky záškrtu sú podobné ako pri miernom
+nachladnutí. Neskôr sa môže vyskytnúť hlasný kašeľ a to najmä v noci, zachrípnutie, ťažké
+piskľavé dýchanie a horúčka.
+
+Pôvodcom ochorenia je baktéria Corynebacterium
+
+diphteriae, ale klinické príznaky môžu byť vyvolané aj pôsobením jej exotoxínom, ktorý je
+produktom tejto baktérie. Inkubačná doba je v trvaní od dvoch do piatich dní. Prameňom
+nákazy je chorý človek alebo nosič baktérií, na ktorom sa ochorenie prejaviť nemusí.
+Prenos infekcie sa deje inhaláciou výlučkami nakazeného pacienta alebo bezpríznakového
+nosiča infekcie. Na liečbu záškrtu sa podávajú antibiotiká, ktoré však nezabraňujú šíreniu
+toxínov a aj napriek správnej liečbe dochádza niekedy ku smrti pacienta. Zanedbanie či
+neskoré zahájenie liečebného procesu môže viesť k poškodeniu srdcového svalu alebo
+obličiek. Najúčinnejším spôsobom prevencie je očkovanie, ktoré síce nechráni pred
+nosičstvom, ale zabraňuje vzniku samotného ochorenia. (DLUHOLUCKÝ et al., 2021;
+INFEKČNÉ CHOROBY, n.d.).
+Ďalším známym prenosným ochorením je tuberkulóza. Spôsobuje ju baktéria
+Mycobacterium tuberculosis, ktorá je odolná voči antibiotikám. Toto ochorenia postihuje
+najmä pľúca, kde vyvoláva zápal. Tuberkulóza sa prejavuje zvýšenou telesnou teplotou,
+nočným potením, celkovou telesnou slabosťou, nechuťou do jedla a nepríjemnými
+bodavými bolesťami v hrudníkovej oblasti. Ochorenia väčšinou prechádza do chronického
+stavu. Mimo pľúc môže v niektorých prípadoch postihovať aj lymfatické uzliny, kĺby,
+kosti, črevá, obličky či kožu. Najväčšie riziko predstavuje celková infekcia. Inkubačná
+doba je rôzna, od 10 dní až do troch mesiacov. Tuberkulózu prenášajú nakazení ľudia aj
+zvieratá a prenos pôvodcu nákazy prebieha inhaláciou. Účinným spôsobom ako predísť
+chorobe je očkovanie, ktoré už nepatrí medzi povinné očkovania na Slovensku, podáva sa
+už len na žiadosť rodiča dieťaťa.
+
+Chrípka je známe ochorenie už z minulosti. Je to
+
+celkové ochorenie organizmu vyvolané vírusmi chrípky rôzneho typu. Typ A spôsobuje
+pandémie, typ B mieste epidémie a typ C infekcie horných dýchacích ciest s ľahším
+priebehom. Chrípka sa šíri medzi ľuďmi kvapôčkovou infekciu, inkubačná doba trvá len
+jeden až tri dni a šírenie medzi ľuďmi je veľmi rýchle. Ochorenie má typické príznaky ako
+sú zvýšená telesná teplota, zimnica, únava, bolesti svalov a kĺbov, bolesť hrdla, hlavy,
+nádcha či kašeľ. Komplikáciou chrípky môže byť pridruženie bakteriálnej infekcie, ktorá
+môže spôsobiť zápal stredného ucha najmä u detí. (DLUHOLUCKÝ et al., 2021)
+
+25
+
+3. Prevencia
+Infekčné ochorenia dýchacích ciest spôsobujú v niektorých prípadoch vážne
+poškodenie zdravia tak ako u dospelých tak aj u detí. Prevencia sa veľmi významne
+podieľa na zachovaní zdravia človeka. Je to najlepší spôsob ako predísť vzniku a šíreniu
+akéhokoľvek ochorenia. Dodržiavanie bežných hygienických opatrení v každodennom
+živote môže vo veľkej miere znížiť výskyt akýchkoľvek infekcií. Myslíme tým pravidelné
+umývanie rúk, dodržiavanie odstupu najmä od chorých ľudí či nosenie rúška v uzavretom
+priestore. Keďže tieto hygienické návyky nie sú deťmi veľmi zaužívané, u nich je dôležité
+dbať na podporu imunity už od ranného veku.
+Okrem užívania vitamínov, pobytu na čerstvom vzduchu, dostatku spánku,
+otužovania a iných bežných činností patrí medzi základné imunomodulačné metódy
+vakcinácia.
+3.1 Vakcinácia
+Vakcinácia sa považuje za doposiaľ najúčinnejší spôsob ako sa chrániť pred infekčnými
+ochoreniami. Jej význam spočíva v tom, že nás chráni pred daným ochorením a taktiež
+zabezpečuje, aby sme nemohli nakaziť iných, ani nezaočkovaných ľudí okolo seba. V tele
+človeka sa po podaní vakcíny vytvoria protilátky, ktoré vyvolajú imunitnú odpoveď
+a zabezpečia tak dlhodobú až trvalú ochranu človeka pred ochorením. Vďaka novým
+poznatkom získaných sa posledné roky sme dokázali vyvinúť vakcíny, ktoré sú
+orientované všeobecne na ochorenie a nie iba na konkrétnu infekciu. Táto skutočnosť
+predstavuje veľký pokrok v oblasti prevencie ochorení.
+Očkovanie je obzvlášť dôležité v detskej populácií, keďže imunita detí je slabšia,
+nedostatočná a k jej vývinu dochádza až postupne. Protilátky získané z tela matky
+postupne ubúdajú a dojčenie taktiež nezabezpečuje takú ochranu, ako vakcína. Už po
+mnohoročných skúsenostiach s očkovaním je známe, že očkovacie látky sú bezpečné
+a účinné už v novorodeneckom veku. (DLUHOLUCKÝ et al., 2021; PHA, 2017;
+ŠULCOVÁ et al., 2012).
+Na Slovensku existujú pravidelné povinné očkovania v detskom veku a odporúčané
+očkovania, ktoré sú dobrovoľné a sú na vlastnú žiadosť, v tomto prípade na žiadosť rodiča
+dieťaťa.
+
+26
+
+V súvislosti s infekciami dýchacích ciest patrí medzi povinné očkovania aj
+očkovanie proti záškrtu a čiernemu kašľu. Očkuje sa kombinovanou vakcínou
+s acelulárnou pertusickou zložkou. Táto očkovacia látka pôsobí aj proti tetanu. Očkovanie
+proti čiernemu kašľu sa zaviedlo v roku 1958 odkedy výskyt tohto ochorenia aj výrazne
+klesol. Vakcína sa podáva už v prvom roku života v troch dávkach a neskôr sa dieťa
+preočkuje ešte v šiestom roku života kedy sa vakcína podáva aj s očkovacou látkou proti
+detskej obrne. V júli roku 2010 sa do povinného očkovania zaradilo aj preočkovanie
+starších detí v 13. roku života tou istou vakcínou slabšej koncentrácie. Cieľom je ochrana
+ešte nezaočkovaných novorodencov a dojčiat.
+Sú prípady, kedy sa podanie očkovacej látky neodporúča, a to napríklad v čase
+prebiehajúcej akútnej infekcie s horúčkou. Pri ochorení s miernym priebehom podanie
+vakcíny nepredstavuje žiadne riziko. Pri opakovanom podaní vakcíny treba brať do úvahy
+reakciu dieťaťa na prvú dávku. Ak sa vyskytla akákoľvek alergická reakcia, rôzne kŕče
+alebo extrémne podráždenie dieťaťa, ďalšie podanie vakcíny sa odporúča až po konzultácií
+s lekárom. Niekedy sa ďalšia dávka odporúča podať pod dohľadom špecialistu.
+Podobne ako ktorýkoľvek iný liek aj očkovacia látka môže mať nežiaduce
+príznaky. Tie sú však neporovnateľné s príznakmi ochorenia, proti ktorému sa očkovalo
+a na rozdiel od ochorenia sú bez ďalších následkov. Medzi najčastejšie príznaky patrí
+horúčka, začervenanie, opuch a bolesť v mieste vpichu, príp. únava alebo krátkodobá strata
+chuti do jedla až vracanie. Dieťa môže byť vplyvom vakcíny nepokojné a plačlivé, tieto
+stavy však nebývajú dlhotrvajúce.
+Očkovanie proti hemofilovým invazívnym ochoreniam spomíname v súvislosti
+s dýchacími cestami preto, lebo tento typ očkovania je účinný proti život ohrozujúcej
+epiglotitíde. Pred zavedením tohto typu povinného očkovania boli najviac postihnuté
+takýmito ochoreniami deti do 1 roku života, nebezpečenstvo výskytu epiglotitídy a iného
+ochorenia tohto typu ale hrozí až do 5 rokov života. Riziko je vyššie u detí s poruchou
+imunity. Výskyt hemofilových invazívnych ochorení sa po zavedení povinného očkovania
+výrazne znížil. Táto vakcína je súčasťou hexavalentnej vakcíny, preto sa podáva v 3., 5.
+a 11. mesiaci života. Podanie očkovacej látky je kontraindikované v prípade alergie na
+zložku alebo v prípade výskytu akútneho ochorenia. V takomto prípade sa očkovanie
+presunie a vakcína sa podá neskôr. Ako vedľajšie účinky u detí sú začervenanie v mieste
+vpichu, opuch, mierne zvýšená teplota. Vznikajú väčšinou v deň alebo deň po očkovaní
+a môžu trvať 2 až 3 dni. Vakcína samostatne na Slovensku dostupná nie je.
+Ďalším dôležitým očkovaním, ktoré je na Slovensku registrované ako povinné
+27
+
+očkovanie v detskom veku je očkovanie proti pneumokokovým ochoreniam. V súvislosti
+s dýchacím systémom toto očkovanie spomíname preto, lebo pneumokoky dokážu okrem
+meningitídy a sepsy vyvolať aj zápal pľúc. Proti pneumokokovým ochoreniam sa podáva
+10-valentná a 13-valentná pneumokoková konjugovaná vakcína. Podľa slovenského
+očkovacieho kalendára sa podáva od ukončeného 3. mesiaca veku. 13-valentnú
+konjugovanú vakcínu možno použiť aj na očkovanie starších detí či dospelých osôb.
+Očkovanie je na Slovensku hradené poisťovňou.
+Očkovanie sa neodporúča v prípade, keď je dieťa alergické na niektoré zo zložiek
+vakcíny alebo ak je v stave nejakej akútnej choroby. Tak ako mnohé iné, aj toto očkovanie
+má vedľajšie účinky. Sú to bežné príznaky ako začervenanie a bolesť alebo opuch v mieste
+vpichu. Môže sa pridružiť aj zvýšená teplota, mierna nechuť do jedla či podráždenosť, čo
+sú tiež normálne reakcie detského organizmu na očkovanie. (DLUHOLUCKÝ et al.,
+2021).
+Medzi odporúčané, čiže nepovinné očkovania v detskom veku patrí spomedzi iných
+aj očkovanie proti tuberkulóze a očkovanie proti chrípke.
+V minulosti bolo očkovanie proti tuberkulóze povinné, od roku 2012 je však len na
+žiadosť rodičov a očkuje sa u lekára so špecializáciou – pneumológa. Ten posúdi, či je
+očkovanie pre dieťa indikované a zvolí vhodný termín podania vakcíny tak, aby sa
+očkovanie nekrížilo s ostatnými povinnými očkovaniami. Aj preto sa očkovanie proti
+tuberkulóze zvykne podávať až okolo 18. mesiaca života. Pri tomto druhu očkovaní sú
+však rôzne kontraindikácie, napr. sa nesmú očkovať deti s poruchou imunity a deti
+užívajúce lieky znižujúce imunitu, taktiež deti, ktoré majú nejaké kožné infekcie,
+popáleniny.
+Ďalším nepovinným, napriek tomu vyhľadávaným očkovaním je očkovanie proti
+chrípke. Očkovanie proti chrípke sa podáva deťom od veku 6 mesiacov do troch rokov.
+Rizikovým skupinám ako sú deti, starší ľudia a ľudia vystavovaní priamo riziku ochorenia.
+Vakcína sa podáva ročne, vždy pred predpokladaným nástupom obdobia chrípky, podáva
+sa do svalu a dávkovanie a výber vakcíny závisí od veku dieťaťa, keďže sú dostupné
+viaceré druhy. Podanie vakcíny je kontraindikované v prípade, ak je dieťa alergické na
+niektorú zložku alebo ak je prítomné u dieťaťa nejaké akútne ochorenie. Vtedy je najlepšie
+očkovanie odložiť na neskôr. Bolesti svalov, bolesť a začervenanie v mieste vpichu či
+mierna
+
+únava
+
+sú
+
+bežné,
+
+krátkotrvajúce
+
+(DLUHOLUCKÝ et al., 2021; PHA, 2017)
+
+28
+
+nežiaduce
+
+účinky
+
+podanej
+
+vakcíny.
+
+3.2 Imunomodulácia
+Imunomoduláciu považujeme za spôsob liečby aj prevencie. V rámci prevencie
+imunomoduláciou priaznivo ovplyvňujeme imunitu dieťaťa, prispievame k jeho posilneniu
+a správnemu vývoju. Imunomoduláciu v súvislosti s liečbou zavádzame ako doplnkovú
+liečbu v prípade výskytu ochorenia rôznymi vhodnými prípravkami:
+•
+
+Zinok – vo veľkej miere prispieva k správnemu fungovaniu imunitného systému, v prípade
+ochorenia je odporúčané užívať zvýšenú dávku. U detí je tento stopový prvok mimoriadne
+dôležitý na podporu imunity a to najmä v období častého výskytu respiračných chorôb a je
+veľmi dôležitý aj pre rast a vývoj dieťaťa. Denná doporučená dávka zinku je: do 6
+mesiacov 2mg, od 6 do 3 rokov 3mg, od 4 do 8 rokov 5 mg a od 9 do 13 rokov 8mg.
+Neskôr sa už môže užívať dávka ako pre dospelých. (M. JESEŇÁK & MINÁRIKOVÁ,
+2021)
+
+•
+
+Vitamíny C, A, D a E
+
+•
+
+Fytofarmaká – sú to prípravky prírodného pôvodu s liečivým účinkom, ktoré priaznivo
+pôsobia najmä na horné dýchacie cesty. Tie je však lepšie podávať deťom až po
+konzultácií s lekárom, keďže niektoré z nich môžu mať opačný efekt.
+
+•
+
+Β- glukány – sú to biologicky aktívne polysacharidy s imunomodulačným účinkom na
+imunitu. Patria sem napr. prípravky z hlivy ustricovej. Ich užívanie je maximálne bezpečné
+aj u detí, v prípade choroby sa odporúča užívať zvýšenú dávku.
+
+•
+
+Bakteriálne lyzáty sú prípravky z usmrtených tiel baktérií alebo ich častí. Tieto prípravky
+sú vyslovene určené na recidivujúce infekcie dýchacích ciest, sú známe svojou účinnosťou
+a bezpečnosťou.
+
+•
+
+Topické prípravky na sliznice – probiotiká, kolostrum, prípravky z nukleotidov či
+lyzozýmu. (Miloš JESEŇÁK & MINÁRIKOVÁ, 2020)
+Imunita detí sa vyvíja už aj počas tehotenstva. Keďže s postupným vývojom
+dieťaťa sa vytvára aj jeho imunita, je dôležité práve v tomto čase imunitu podporovať.
+U detí spadá táto úloha na rodičov.
+Imunita je určitý mechanizmus, ktorého úlohou je udržiavať vnútornú rovnováhu
+a chrániť tak organizmus človeka pred škodlivými mikroorganizmami a vnútornými
+vplyvmi. Ak je táto rovnováha narušená, imunita človeka môže byť znížená, čo
+predstavuje imunodeficienciu alebo zvýšená, kedy dochádza k prehnanej reakcií
+imunitného systému, a tak vznikajú alergie či autoimunitné ochorenia. Imunita človeka
+29
+
+môže byť prirodzená, čiže vrodená alebo získaná počas života. (Miloš JESEŇÁK et al.,
+2016) Imunitný deficit môže byť primárny alebo sekundárny. U detí je primárny v rámci
+normy. Primárnu imunodeficienciu môžeme registrovať v novorodeneckom období, kedy
+imunita dieťaťa ešte nie je dostatočne vyvinutá. Postupným posilňovaním imunity tento
+deficit postupne vymizne. Sekundárna imunodeficiencia môže vzniknúť aj počas života
+vplyvom vonkajšieho prostredia. Môže byť vyvolaná napr. vírusovými alebo bakteriálnymi
+zápalmi, podvýživou, chirurgickými zákrokmi či operáciami a pod. Porucha imunity u detí
+môže viesť k recidivujúcim infekciám dýchacích ciest. Sú to ochorenia dýchacích ciest
+s väčšou frekvenciou ako bežné respiračné infekcie. Nie je presne určené, koľkokrát by sa
+mala infekcia zopakovať a za aký čas, aby sa choroba zaradila medzi recidivujúce infekcie.
+Istá talianska imunologická spoločnosť však určila, že infekcie dýchacích ciest radíme
+medzi recidivujúce v prípade, že sa infekcia zopakuje viac ako šesťkrát za rok, jeden
+a viackrát za mesiac počas chrípkového obdobia alebo ak má dieťa za rok tri a viac infekcií
+dolných dýchacích ciest rôzneho pôvodu. (PETRU, 2012). V detskom veku sa imunita
+postupne vyvíja. U novorodencov je imunita úplne bez imunologickej pamäte, bunková
+odpoveď je znížená a oneskorená, trvá len krátko a protilátky v tele dieťaťa majú len nízku
+afinitu. Prvým hlavným faktorom ovplyvnenia imunity po narodení je materské mlieko.
+Okrem potrebných nutričných látok obsahuje aj imunoaktívne zložky potrebné na vývoj
+imunity dieťaťa (hlavne vitamíny, rastové faktory, leukocyty, lymfocyty a iné). Tieto látky
+majú účinok antimikrobiálny, protizápalový a imunomodulačný. V dojčenskom
+
+veku
+
+imunita dieťaťa postupne dozrieva, najväčšou podporou je stále materské mlieko. Aj keď
+obranyschopnosť organizmu sa postupne zvyšuje, dieťa by malo byť stále chránené pred
+mikroorganizmami, pretože imunita stále nie je vyvinutá dostatočne. Z tela sa postupne
+vytrácajú protilátky získané z tela matky počas tehotenstva, a tak je dieťa postupne menej
+chránené až kým sa nevytvorí u neho jeho vlastná imunita. V tomto medziobdobí sú deti
+častejšie choré, dochádza k prvým prejavom alergií, ktoré sú ale v tomto období ešte
+zriedkavé. (MARTINICKÝ, n.d.)
+V predškolskom období sú mechanizmy prirodzenej imunity už úplne vyvinuté,
+napriek tomu však môže byť chorobnosť dieťaťa zvýšená a to najmä v období zaraďovania
+sa do kolektívu. Môžu sa prejaviť rôzne imunodeficiencie, alergie, autoimunitné ochorenia.
+Dbať na podporu imunity je dôležité aj naďalej. (Miloš JESEŇÁK et al., 2012)
+Aj napriek dobre vyvinutej imunite sa môžu u dieťaťa vyskytnúť určité ochorenia.
+Ak prekonanie choroby zvláda dieťa s bežnými príznakmi bez komplikácií a bez potreby
+30
+
+zložitej liečby, v takomto prípade hovoríme o fyziologickej chorobnosti dieťaťa.
+V predškolskom veku, t.j. od 0 do 6 rokov považujeme za fyziologické 6 až 8 respiračných
+infekcií. Tieto by však mali mať mierny priebeh, mala by byť postačujúca symptomatická
+liečba a v norme je výskyt týchto ochorení najmä v jesenných a zimných mesiacoch. U detí
+predškolského veku považujeme za fyziologické 2 až 4-krát sa opakujúce infekcie. Zvýšiť
+pozornosť treba aj v prípade, že sa u dieťaťa vyskytne infekcia dýchacieho traktu raz za
+mesiac práve v období chrípky, t.j. od októbra do februára. Samostatnou skupinou sú deti
+s recidivujúcimi infekciami, u ktorých je frekvencia infekcií veľmi častá. U takýchto
+pacientov
+
+je
+
+dobré
+
+poznať
+
+vyvolávateľa
+
+ochorenia,
+
+takisto
+
+ako
+
+aj
+
+u imunokompromitovaných pacientoch. V týchto prípadoch sa samoliečba neodporúča.
+(TRUCHLÝ, 2020)
+
+31
+
+4. Diagnostika a liečba
+Správna diagnostika ochorenia je veľmi dôležitým krokom pred zahájením liečby.
+V prvom rade by mal lekár odlíšiť dieťa trpiace len na respiračnú infekciu od detí, ktoré sú
+chronicky choré, príp. ich chorobnosť vychádza z nejakej poruchy imunity. Pri výbere
+správneho lieku je dôležité poznať pôvodcu ochorenia. (Miloš JESEŇÁK et al., 2012)
+Posilňovaním imunity sa totiž často snažíme predísť ochoreniam a tak aj užívaniu
+antibiotík. Je však márne čakať na vyliečenie čisto stimuláciou imunitného systému ak je
+príčinou choroby niečo úplne iné. Paradoxne sa totiž stáva, že choroba nevzniká slabou
+imunitou, ale ju práve spôsobuje. Preto je dôležité dôkladné vyšetrenie pacienta a včasná
+diagnostika. Niekedy trápia pacientov či už dospelých ale aj deti opakované respiračné
+infekcie, ktoré nemusia byť závažné, ich prítomnosť však pacienta obťažuje a zasahuje do
+každodenného života. Aj za to niekedy môže nepostačujúca, ak vôbec vykonaná
+diagnostika. Žiaľ, často sa stáva, že dôkladné vyšetrenie pacienta prichádza na rad až
+potom, keď sa u neho vyskytne ochorenie opakovane už niekoľkýkrát za sebou. Ak
+chceme aby bola liečba úspešná, dôležité je dodržať aj režimové opatrenia. (HOCHMUTH,
+2015)
+4.1 Spôsoby diagnostikovania
+Pre stanovenie správnej diagnózy je v prvom rade veľmi dôležitá správne
+štrukturovaná anamnéza pacienta. Lekár by sa mal držať určitých diagnostických kritérií a
+objektívne hodnotiť klinický stav pacienta. Pri vyšetrovaní špecialistom ORL za využíva
+endoskopia horných dýchacích ciest. Tento spôsob vyšetrovania možno praktizovať
+v každom veku. Týmto spôsobom sa hodnotí charakter a farba sliznice (červená znamená
+akútny zápal, bledá znamená chronický zápal), prítomnosť a charakter hnisu, pozoruje sa
+nosná prepážka, tvar a veľkosť lymfatických tkanív, prekrvenie a zmena veľkosti
+jednotlivých častí dýchacieho traktu. Pri nezávažných stavoch bez komplikácií stačí
+obyčajné vyšetrenie tzv. zrkadlom. (JANOUŠEK, 2012)
+Pri predpisovaní antibiotík je rozhodujúci pôvod ochorenia – či je ochorenie
+bakteriálneho alebo vírusového pôvodu. Na infekcie vírusového pôvodu totiž antibiotiká
+nezaberajú a dochádza k ich nadmernému a zbytočnému užívaniu. V takomto prípade je
+najlepšie vykonať CRP test. Dnes ho vykonávajú pediatri bežne v ambulanciách. Je to
+odber kapilárnej krvi z bruška prsta. Hladina c – reaktívneho proteínu sa počas
+
+32
+
+bakteriálneho zápalu zvyšuje už v priebehu prvých 6 až 12 hodín. Diagnostika je rýchla
+a jednoduchá, výsledky vidí lekár do piatich minút od vykonania. (Wikipédie, 2023)
+Hodnota CRP [mg/l]
+
+Hodnotenie
+
+≤5
+
+Neprítomnosť infekcie/zápalu
+
+6-35
+
+Vírusová infekcia
+
+36-50
+
+Tzv. „Šedá zóna“ (operácie, zlomeniny, vaskulitídy, reuma,
+srdcový infarkt
+
+>50
+
+Bakteriálna infekcia
+
+200-300
+
+Závažná bakteriálna infekcia
+
+Tabuľka č. 2: Hodnoty CRP (Miloš JESEŇÁK & MINÁRIKOVÁ, 2020)
+Streptokokový test sa vykonáva tiež ambulantne. Je to výter z hrdla alebo z nosa.
+Výsledok je známy do piatich minút. Test je veľmi špecifický a citlivý (70% až 90%).
+Zisťujeme ním prítomnosť streptokokov v nosohltane, ktorý spôsobuje zápal mandlí.
+Ďalším zaužívaným spôsobom diagnostiky infekcií dýchacích ciest je výter
+z nosovej či ústnej dutiny, odber krvi a odber vykašlávaného spúta. Čakanie na výsledky
+týchto diagnostík trvá niekoľko dní, dovtedy by mala byť nariadená symptomatická liečba
+a režimové opatrenia. Odber moču v prípade diagnostiky ochorenia v dýchacích cestách
+slúži na vylúčenie poškodenia obličiek ako sekundárneho ochorenia.
+
+Lekári často
+
+využívajú spôsob aj empirickej antibiotickej liečby. Niekedy je tento spôsob liečby
+prínosný, v opačnom prípade môže viesť k zbytočnému užívaniu antibiotík a následne
+k rezistencií na určité antibiotikum.
+Zobrazovacie metódy sú v praxi tiež veľmi obľúbené. RTG aj CT sa vykonáva ako
+na dospelých tak aj u detských pacientoch v prípade potreby. Pri upresňovaní diagnostiky
+nám môže pomôcť aj RTG vyšetrenie, ktoré funguje na princípe ionizujúceho žiarenia
+prechádzajúceho tkanivami a kosťami, a tak lekár vie zistiť prípadné poškodenia či
+prítomnosť patologických zmien.
+CT je presné vyšetrenie, v prípade potreby sa vykonáva aj u detí. Zobrazuje hlavne
+anatomické zmeny vo vedľajších dutinách, slúži na správnu diagnostiku a aj na zobrazenie
+prípadných patologických zmien.
+Ďalším spôsobom je sonografia. Vyšetruje sa ňou komplikácia v oblasti mäkkých
+33
+
+častí krku. V prípade, ak je tento spôsob nepostačujúci, lekár môže nariadiť vyšetrenie
+MRI – magnetická rezonancia. (JANOUŠEK, 2012; PAVLÍKOVÁ, 2018)
+Základným a veľmi dôležitým vyšetrením pri zápale stredného ucha je otoskopia.
+Je to vyšetrenie bubienka pomocou ušného zrkadla. Otoskop má až trojnásobné zväčšenie,
+diagnostika je veľmi jednoduchá, bezbolestná a rýchla. U detí od štyroch rokov možno
+využiť aj sluchovú audiometriu. (ŠĽAPÁK, 2007)
+4.2 Faktory ovplyvňujúce liečbu
+
+•
+
+Vek pacienta: u malých detí je častejší výskyt bežných vírusov, u dospelých sú viac
+rozšírené atypické patogény či baktérie
+
+•
+
+Imunokompromitovaní pacienti a pacienti užívajúci imunosupresíva: u nich môže byť
+paradoxne infekcia spôsobená agresívnejším etiologickým agens a napriek tomu nemusia
+byť príznaky vôbec závažné. Takýto typ pacienta preto odporúčame vyšetriť už pri prvých
+príznakoch ochorenia.
+
+•
+
+Riziková skupina: starší ľudia, tehotné a dojčiace ženy, zdravotnícki pracovníci
+
+•
+
+Aktuálna epidemiologická situácia
+
+•
+
+Závažnosť a dĺžka trvania príznakov: treba sledovať charakter príznakov, ak sa
+nezlepšujú, odporúča sa vyhľadať lekára po 7 dňoch. To však neplatí u rizikových skupín
+(deti, starí ľudia, tehotné ženy), u nich sa odporúča vyhľadať lekára čo najskôr, najmä pri
+zhoršení stavu.
+
+•
+
+Výsledky laboratórnych vyšetrení: treba brať do úvahy, že pre jednotlivé skupiny
+pacientov sú v niekedy v norme úplne odlišné hodnoty vyšetrení.
+
+•
+
+Anamnéza očkovania: u detí sú ešte niektoré očkovania neúplné vzhľadom na ich vek,
+dospelí naopak mohli nepodstúpiť preočkovanie (napr. pertussis)
+
+•
+
+Liečba v minulosti: pred podaním lieku je dobré vedieť, či už pacient liek užíval, v akom
+množstve a reakciu organizmu na určité liečivo. (Miloš JESEŇÁK & MINÁRIKOVÁ,
+2020)
+4.3 Symptomatická liečba
+Na liečbu môžeme využiť farmakologické aj nefarmakologické postupy.
+Nefarmakologický postup zahŕňa teplo a pokoj na lôžku, napriek tomu však pravidelné
+vetranie miestnosti. Zvlhčovanie vzduchu taktiež prispieva k správnemu fungovaniu
+34
+
+dýchacieho systému, má priaznivý vplyv na liečebný proces. Dôležité je aj dodržanie
+pitného režimu. Myslíme tým čistú vodu, nesladené detské ovocné a bylinkové čaje.
+Najlepšie je u detí piť po dúškoch viackrát sa hodinu, do jedálnička pridať polievky,
+ovocie, zeleninu. Samozrejme, pitný režim aj stravu treba dieťaťu prispôsobiť podľa veku.
+Pri dlhšom a komplikovanejšom priebehu ochorení je niekedy nutné pristúpiť
+k farmakologickým postupom liečby. Myslíme tým užívanie analgetík, používanie
+nosných kvapiek či sprejov. V prípade nádchy sa odporúča u detí používanie morských
+hypertonických solí do nosa, ktoré slúžia na prečistenie dutín. U menších detí sa aplikuje aj
+nosový výplach slanou vodou pomocou kanvičky. Následne na to sa môžu použiť aj
+kvapky s účinnou látkou v závislosti od veku dieťaťa. Tie sa neodporúčajú používať dlhšie
+ako 5-7 dní, aby nevznikla rezistencia nosovej sliznice. U detí sa neodporúča priame
+naparovanie ako u dospelých, preferuje sa skôr už spomínané zvlhčovanie vzduchu.
+Pri zvýšenej teplote je dôležitá hydratácia a pokoj na lôžku. Horúčku však
+nesmieme zanedbávať, teplotu tela treba v intervaloch sledovať, môžeme taktiež podať
+dieťaťu čapíky alebo sirup či tablety s účinnou látkou paracetamol alebo ibuprofén,
+prípadne tieto účinné látky striedať každých šesť hodín. Výber liekovej formy a spôsob
+podávanie liekov závisí od veku dieťaťa. Účinný spôsob znižovania teploty u detí je aj
+prikladanie studeného (vlažného) zábalu, najlepšie na hrudník.
+Kašeľ je taktiež jeden z najčastejších príznakov pri ochorení dýchacích ciest. Podľa
+druhu kašľa sa podávajú antitusiká – lieky proti kašľu alebo mukolytiká či expektoranciá
+na podporu vykašliavania a rozpúšťania hlienov v dýchacích cestách.
+Niekedy sa k prejavom ochorenia dýchacích ciest pridružuje aj bolesť hrdla. Liečbu
+bolesti a zápalu hrdla je u detí obmedzená z dôvodu, že sa neodporúča aplikácia sprejov do
+hrdla, lebo hrozí aspirácia a taktiež kvôli tomu, že malé deti nedokážu kloktať. Jediná
+alternatíva lokálnej liečby je užívanie tabliet či pastiliek na cmúľanie.
+Bolesť ucha môže byť taktiež jedným z prejavov ochorenia dýchacieho systému.
+U najmenších sa prejavuje najmä nepokojom, prudším otáčaním hlavy či chytaním sa za
+uško. Pri týchto príznakoch je najlepšie vyhľadať lekára. Pre väčšie deti existujú voľno
+predajné ušné kvapky a spreje, u tých najmenších je však použitie týchto prípravkov
+najlepšie pod lekárskym dohľadom. (DUBÁN et al., 2018)
+
+35
+
+4.4 Kauzálna, príčinná liečba
+Kauzálna liečba znamená cielenú liečbu dieťaťa väčšinou antibiotikami. Dôležité je
+ale vedieť, kedy sú antibiotiká na liečbu naozaj potrebné a dbať na správnosť užívania tak
+u dospelých ako aj u detí. Niektoré štatistiky uvádzajú, že až 75% všetkých pediatrom
+predpísaných antibiotík slúži na liečbu infekcií dýchacích ciest. Paradoxom je, že až 80%
+takýchto infekcií je vyvolaných vírusmi, proti ktorým sú antibiotiká neúčinné. Aj toto je
+dôkazom neprimeranej a nesprávnej preskripcie antibiotík. Predpisovanie antibiotík aj
+v prípade ochorenia vírusového pôvodu odôvodňujú lekári tým, že chcú aby bol pacient čo
+najskôr zdravý a aby sa nevyskytli ďalšie komplikácie. Existujú však štúdie o tom, že
+užívanie antibiotík neurýchľuje liečbu pacienta, neovplyvňuje priebeh ochorenia
+a u väčšiny respiračných infekcií ani nezabraňuje vzniku komplikácií. (ADÁMKOVÁ,
+2015; STANKO, 2020).
+Lekári často pristupujú k empirickej liečbe čo znamená výber antibiotika naslepo.
+Táto metóda nie je najvhodnejšia na liečbu, niekedy je však veľkým prínosom najmä ak
+hovoríme o šírení infekcie. Čas medzi vykonaním diagnostiky a dodaním výsledku môže
+mať rozhodujúci vplyv na zdravie pacienta. Pri výbere antibiotika naslepo by sa mal
+zohľadniť vek pacienta, prítomnosť iného ochorenia, závažnosť infekcie. Pri cielenej
+liečbe sa antibiotiká vyberajú na základe dodaných výsledkov, v ktorom je uvedená
+zachytená baktéria a stanovená citlivosť. V ťažkých prípadoch sa niekedy podáva aj
+dvojkombinácia antibiotík. Pri užívaní antibiotík je dôležité dodržať presný časový odstup
+medzi dávkami, výšku dávky v závislosti od hmotnosti dieťaťa a dĺžku liečby. Ako
+nadužívanie a nesprávne dávkovanie, tak aj nedoužívanie antibiotík môže viesť k vzniku
+rezistencie na dané antibiotiku, ktoré v budúcnosti už nemusí byť účinné. (ŠIMKOVÁ,
+2020).
+V nasledujúcej tabuľke sme uviedli symptómy infekcie dýchacích ciest u detí, ktoré
+poukazujú na závažný priebeh ochorenia a takýto stav pacienta je potrebné skonzultovať
+s lekárom.
+
+36
+
+•
+
+Kašeľ
+•
+•
+
+trvanie viac ako 10 dní
+
+zhoršenie stavu napriek liečbe
+
+vykašliavanie sfarbeného, príp. krvavého
+spúta, následne zvracanie, napísanie
+•
+
+Dýchanie
+
+prítomné dýchacie ťažkosti, zvýšená
+frekvencia dychu
+
+•
+
+piskot, rozťahovanie nozdier pri dýchaní,
+cyanóza
+•
+
+Bolesť hrdla
+•
+
+ťažkosti s prehĺtaním
+
+viditeľne zväčšené mandle, biele hnisavé
+škvrny na mandliach
+•
+
+Nádcha
+•
+
+výrazne sťažené dýchanie u dojčiat
+
+Ucho
+•
+
+Iné
+•
+
+•
+
+krvácanie z nosa
+
+•
+
+opuch za uchom
+
+bolesť ucha, hnisavý výtok z nosa
+
+Telesná teplota
+•
+
+hnisavý výtok z nosa
+
+•
+
+do 3 mesiacov ≥ 38 °C
+
+•
+
+3 – 6 mesiacov ≥ 39 °C
+
+nad 6 mesiacov ≥ 39 °C a iné príznaky
+•
+
+dehydratácia, febrilné kŕče
+
+•
+
+bledá pokožka, jazyk, pery
+
+ospalosť, nadmerný spánok, nezvyčajné
+správanie, záchvaty, nechuť do jedla, menej
+časté močenie a neobvykle malé množstvo
+vylúčeného moču
+
+Tabuľka č. 2: Symptómy závažnejších foriem infekcií dýchacích ciest
+
+37
+
+5. Epidemiológia
+Infekcie dýchacích ciest sú najčastejšie riešeným prípadom v pediatrickej praxi.
+Tvoria až 85% celkovej chorobnosti u detí. Vo svojich prvých rokoch prekoná 10 až 15%
+detí viac než 12 respiračných infekcií za rok. Tento fakt potvrdzujú aj štatistiky, ktoré
+uvádzajú, že až 25% detí do prvého roka života ochorie na nejakú infekciu dýchacieho
+systému. Vo veku od jedna do štyroch rokov je to okolo 18%. Po zaradení dieťaťa do
+kolektívu sa až u 75% detí vyskytnú opakované infekcie dýchacích ciest. Zaujímavé je
+tiež, že konkrétne choroby horných dýchacích ciest tvoria až polovicu všetkých ochorení
+predškolského veku a až dve tretiny všetkých infekčných ochorení dýchacích ciest.
+Napriek tomu, že je dokázaný častejší výskyt ochorení horných dýchacích ciest, zvýšiť
+pozornosť je dôležité aj pri ochoreniach dolných dýchacích ciest, keďže tie tvoria
+celosvetovo až 28% všetkých úmrtí detských pacientov do piateho roku života. U malých
+detí je riziko hospitalizácie z dôvodu infekcie dýchacích ciest vyššie až 12 – krát v
+porovnaní s vekovou kategóriou 5-17 ročných detí. (Miloš JESEŇÁK et al., 2012)
+Za chrípkovú sezónu považujeme jesenné a jarné obdobie. V tomto období hlásia
+lekári najviac chorých a výrazne zvýšený výskyt chrípky aj akútnych respiračných
+ochorení. V nasledujúcej tabuľke sme uviedli počet nahlásených prípadov akútnych
+respiračných infekcií za každý týždeň počas chrípkového obdobia jeseň 2022 až jar 2023.
+Taktiež je tam uvedený percentuálny rozdiel hlásených pacientov medzi jednotlivými
+týždňami, koľko percent nahlásených malo komplikovaný priebeh ochorenia a akú časť
+všetkých nahlásených respiračných chorôb tvorili dospelí pacienti a akú časť detskí
+pacienti. (Úrad Verejného Zdravotníctva SR, 2022)
+
+38
+
+Týždeň
+
+Počet
+hlásených
+ARO
+
+Rozdiel oproti
+Najviac
+Komplikácie
+predchádzajúcemu postihovaná
+(najčastejšie
+týždňu
+veková
+sinusitída,
+skupina
+otitída,
+pneumónia)
+
+40/2022
+
+46 136
+
+Zvýšenie o 1,3%
+
+0-5r.
+
+U 2,3%
+všetkých pac.
+
+41% 53%
+
+41/2022
+
+45 187
+
+Pokles o 3%
+
+0-5r.
+
+2,5%
+
+42%-53%
+
+42/2022
+
+44 468
+
+Pokles o 2,9%
+
+0-5r.
+
+2,5%
+
+42% 54%
+
+43/2022
+
+41 005
+
+Pokles 6,6%
+
+0-5r.
+
+2,4%
+
+41% 54%
+
+44/2022
+
+34 431
+
+Pokles o 13,1%
+
+0-5r.
+
+2,7%
+
+39% 53%
+
+45/2022
+
+40 368
+
+Zvýšenie o 11,1%
+
+0-5r.
+
+2,6%
+
+42% 55%
+
+46/2022
+
+29 534
+
+Pokles o 13,6%
+
+0-5r.
+
+2,1%
+
+36% 47%
+
+47/2022
+
+44 919
+
+Zvýšenie o 26,5%
+
+0-5r.
+
+2,6%
+
+43% 54%
+
+48/2022
+
+52 897
+
+Zvýšenie o 17,3%
+
+0-5r.
+
+2,7%
+
+43% 56%
+
+49/2022
+
+73 048
+
+Zvýšenie o 39,1%
+
+0-5r.
+
+2,5%
+
+42%-58%
+
+50/2022
+
+97 579
+
+Zvýšenie o 24,5%
+
+0-5r.
+
+2,70
+
+45%-60%
+
+51/2022
+
+91 068
+
+Pokles o 0,3%
+
+0-5r.
+
+3,1%
+
+42%-57%
+
+52/2022
+
+50 359
+
+Pokles o 37,3%
+
+0-5r.
+
+2,9%
+
+38%-49%
+
+1/2023
+
+47 596
+
+Pokles o 3,5%
+
+0-5r.
+
+4,7%
+
+37%-47%
+
+2/2023
+
+52 006
+
+Pokles o 8,4%
+
+0-5r.
+
+4,3%
+
+45%-56%
+
+3/2023
+
+45 835
+
+Pokles o 11,3%
+
+0-5r.
+
+4,1%
+
+44%-56%
+
+4/2023
+
+45 990
+
+Zvýšenie o 4,8%
+
+0-5r.
+
+5,2%
+
+43%-53%
+
+39
+
+DospelíDeti
+
+5/2023
+
+47 721
+
+Zvýšenie o 4,1%
+
+0-5r.
+
+2,7%
+
+43%-53%
+
+6/2023
+
+53 016
+
+Zvýšenie o 11%
+
+0-5r.
+
+3%
+
+42%-55%
+
+7/2023
+
+54 558
+
+Zvýšenie o 2%
+
+0-5r.
+
+3,1%
+
+44%-53%
+
+8/2023
+
+53 087
+
+Zvýšenie o 0,3%
+
+0-5r.
+
+2,5%
+
+42%-52%
+
+9/2023
+
+49 811
+
+Pokles o 4,8%
+
+0-5r.
+
+2,8%
+
+41%-52%
+
+10/2023
+
+46 283
+
+Pokles o 1,8%
+
+0-5r.
+
+2,9%
+
+41%-53%
+
+11/2023
+
+47 507
+
+Zvýšenie o 5%
+
+0-5r.
+
+2,9%
+
+41%-53%
+
+12/2023
+
+45 437
+
+Pokles o 3,1%
+
+0-5r.
+
+2,9%
+
+41%-50%
+
+13/2023
+
+47 734
+
+Zvýšenie o 2,3%
+
+0-5r.
+
+3%
+
+42%-54%
+
+14/2023
+
+32 663
+
+Pokles o 21,6%
+
+0-5r.
+
+3%
+
+37%-47%
+
+15/2023
+
+34 983
+
+Zvýšenie o 1,2%
+
+0-5r.
+
+3,1%
+
+39%-50%
+
+16/2023
+
+38 164
+
+Zvýšenie o 7,5%
+
+0-5r.
+
+2,8%
+
+40%-51%
+
+17/2023
+
+34 568
+
+Pokles o 3,7%
+
+0-5r.
+
+2,6%
+
+38%-48%
+
+18/2023
+
+30 223
+
+Pokles o 13,4%
+
+0-5r.
+
+2,3%
+
+38%-49%
+
+Tabuľka č. 3: Výskyt akútnych respiračných ochorení za chrípkové obdobie 2022/2023
+Z uvedeného vyplýva, že počas celého chrípkového obdobia je zvyšovanie či
+znižovanie počtu chorých nerovnomerné. Najviac ohrozenou skupinou sú deti
+predškolského veku od 0 do 5 rokov. Tvoria väčšinu všetkých pacientov s respiračnou
+chorobou. Sinusitída, otitída a pneumónia často spôsobujú dlhší a komplikovanejší priebeh
+ochorenia u dospelých aj u detí.
+
+40
+
+Graf č. 1: Chorobnosť za chrípkové obdobie 2022/2023 (Národný portál zdravia, 2023)
+
+Akútne respiračné ochorenia tvorili podľa Národného registra väčšinu respiračných
+ochorení. V roku 2019 klesol počet hlásených nakazených všeobecnými lekármi o 6,4%,
+keďže v roku 2018 bolo hlásených 2 021 202 prípadov a za rok 2018 to bolo celkom
+1 891 698 prípadov. Na chrípku ochorelo v roku 2019 177 815 ľudí, čo je 9,4%
+z celkového počtu všetkých akútnych respiračných ochorení. V roku 2018 to bolo o niečo
+viac, 10,7%. (RÚVZ BB, 2019)
+V súvislosti s epidemiológiou chrípky na Slovensku nezaznamenávame žiadne
+extrémne hodnoty. Charakteristickým obdobím výskytu chrípky je jeseň a jar. Na jeseň
+2022 v 49. týždni príslušného roku bolo nahlásených 10 379 prípadov, čo predstavuje
+14,2% všetkých respiračných ochorení. Najviac postihnutá bola veková kategória od 0 do 5
+rokov, bolo to až 1412,4 prípadov na 100 000 obyvateľov. V porovnaní s 48. týždňom
+chorobnosť stúpla až o 146,5%. Na jar v 18. týždni tohto kalendárneho roku (2023) bolo
+nahlásených 2498 prípadov ochorenia čo predstavuje 110 prípadov na 100 000 obyvateľov.
+Je to 8,3% všetkých respiračných ochorení. Oproti predchádzajúcemu týždňu výskyt
+chrípky klesol až o 14,6%. Najviac postihnutá bola veková skupina od 0 do 5 rokov.
+Z týchto údajov vyplýva, že obdobie chrípky vyvrcholilo na jeseň a postupne výskyt
+chrípky klesal. (Národný portál zdravia, 2023).
+Zatiaľ čo sa akútne zápaly jednotlivých častí dýchacích ciest vyskytujú u detí
+41
+
+bežne, choroby ako čierny kašeľ, záškrt, zápal pľúc či tuberkulóza sú v detských
+ambulanciách čoraz menej spomínané. Za výrazné zníženie výskytu môže práve zavedenie
+povinného očkovania.
+Čierny kašeľ bol pred zavedením očkovania veľmi rozšírený. Najviac sa toto
+ochorenie vyskytovalo paradoxne počas leta. Až dve tretiny všetkých prípadov čierneho
+kašľu sa vyskytli u detí do 5 rokov života. Čierny kašeľ spôsoboval 96% všetkých
+prípadov smrti u detí v tomto veku. Deti postihovala táto infekcia už vo veľmi mladom
+veku, incidencia bola až 10 násobná do 1 roku života ako neskôr. Zavedením povinného
+očkovania v roku 1958 výskyt ochorenia prudko klesol. (zo 220-460 prípadov na 100 000
+obyvateľov na 0,3 – 0,9 na 100 000 obyvateľov).
+Od roku 2008 zaznamenali opätovné zvýšenie (viac ako 20 prípadov na 100 000
+obyvateľov). Jednou z príčin môže byť zavedenie acelulárnej vakcíny v roku 2007, po
+podaní ktorej klesá hladina protilátok v organizme alebo vznik rezistencie Bordetella
+pertussis na obyvateľstvo. Potom sa však výskyt znova ustálil. (BRAŽINOVÁ, 2022).
+V rokoch 2019 – 2020 odborníci opäť zaznamenali výrazné zvýšenie výskytu
+čierneho kašľa - až o 85% oproti 5 – ročnému priemeru. V roku 2021 išlo už len približne
+o 80 prípadov. Ani napriek týmto číslam nie je pochýb, že očkovanie proti tomuto
+ochoreniu účinkuje, keďže výskyt čierneho kašľu na Slovensku pred zavedením očkovanie
+bol 220 až 460 prípadov na 100 000 obyvateľov. Odborníci tvrdia, že výskyt ochorenia
+mohol byť o niečo nižší, nesprávnu diagnostiku mohli spôsobiť totožné príznaky s
+ochorením Covid 19. Najväčší výskyt bol u detí do 1 roka. (EPIS, 2019; RAČKOVÁ,
+2022; TRUSKA, 2018)
+Rok
+
+Počet nahlásených prípadov v SR za rok
+
+2010
+
+783
+
+2010 – 2013
+
+646
+
+2014 – 2016
+
+130
+
+2017 – 2018
+
+do 30.sept. 2018 – 52
+
+2019 – 2020
+
+700
+
+Tabuľka č. 4: Výskyt čierneho kašľu (TRUSKA, 2018)
+
+42
+
+Tuberkulóza je celosvetovo treťou najčastejšie sa vyskytujúcou infekčnou chorobou
+a zároveň najčastejšou príčinou smrti v rámci infekčných ochorení. Jej výskyt bol v
+minulosti zaznamenávaný najmä u dospelých a starších ľudí, u detí bol však priebeh
+ochorenia agresívnejší. Preto sa v roku 1921 zaviedlo povinné očkovanie proti TBC
+a podávalo sa maximálne do 6. týždňa od narodenia dieťaťa. Pomaly začala incidencia
+tohto ochorenia klesať, tak ako u dospelých, tak aj u detskej populácií. Klesla taktiež aj
+úmrtnosť pacientov. Napomohlo tomu okrem očkovania aj dodržiavanie hygienických
+opatrení, rozvoj zdravotníctva, vyhľadávanie a izolovanie chorých a nakazených jedincov
+a zlepšenie životosprávy. Postupný pokles ochorenia bol nasledovný:
+Rok
+
+Počet chorých na 100 000
+obyvateľov
+
+1951
+
+299,7/ 100 000
+
+2004
+
+13,6/ 100 000
+
+2009
+
+menej ako 10/ 100 000
+
+Tabuľka č. 5: Výskyt tuberkulózy (BRAŽINOVÁ, 2022)
+Neskôr WHO určila, že teoreticky je nižší počet ochorení, ktorými sa vakcináciou
+predišlo ako počet závažných nežiaducich účinkov očkovania. Preto sa v roku 2012
+rozhodlo o zrušenie povinného očkovania novorodencov a očkovanie sa stalo nepovinným.
+Odporúča sa ale očkovať rizikové skupiny ľudí.
+V roku 2012 zaznamenali na území Slovenska výraznejší vzostup výskytu
+tuberkulózy a to vo vekovej kategórií od 0 do 14 rokov. Za približne 37% ochorení však
+boli zodpovedné rizikové skupiny (Rómovia, migranti a pod.). (BRAŽINOVÁ, 2022).
+Podľa Národného registra evidovali na Slovensku v roku 2018 289 prípadov
+tuberkulózy, čo predstavuje 5,45 prípadu na 100 000 obyvateľov. V roku 2019 sa počet
+znížil na 214 prípadov za rok, čo predstavuje 3,93/ 100 000 obyvateľov. 117 prípadov zo
+všetkých predstavovali pľúcne formy, 37 mimopľúcne. V 30 prípadoch išlo o recidívne
+ochorenie. U detí sa ochorenie vyskytlo v 34 prípadoch, čo je v porovnaní s rokom 2018
+o 6 prípadov menej. Smrteľných prípadov bolo v roku 2019 zaznamenaných 6.
+Záškrt patrí medzi vzácne ochorenia dýchacieho systému, ktorého výskyt sa
+zavedením povinného očkovania už v detskom veku podarilo vo veľkej miere eliminovať.
+Napriek tomu sa však toto ochorenie objavilo v rámci Európy aj v posledných rokov. Za
+hlavnú príčinu sa považuje migrácia obyvateľov jednotlivých krajín, keďže sa prípady
+43
+
+záškrtu objavili práve v zariadeniach pre migrantov v Nemecku a Švajčiarsku v roku 2022.
+Podľa informácií sa toto ochorenie nerozšírilo do bežnej populácie.
+Od začiatku januára 2022 do 11. augusta 2023 bolo v rámci Európy podľa TESS
+zaznamenaných 281 prípadov záškrtu. Pre porovnanie bolo medzi rokmi 2017 a 2021
+ročne v priemere hlásených 55 prípadov, roku 2022 bolo hlásených 224 a v roku 2023 už
+len 57, medzi nimi celkovo 4 úmrtia. Dva prípady úmrtí boli evidované v roku 2022 v
+Belgicku a v Lotyšsku a ďalšie dva prípady boli z roku 2023 v Nemecku a na Slovensku.
+Celkovo bolo 228 prípadov záškrtu vyvolaných práve Corynebacterium diphtheriae a 53
+prípadov Corynebacterium ulcerans. Respiračný charakter ochorenia malo 18 prípadov,
+okrem toho sa vyskytla nosná aj kožná forma. Prípady úmrtia sa vyskytli pri ochoreniach
+spôsobených oboma vyvolávateľmi, dva prípady úmrtia boli ochorenia respiračného
+charakteru a jeden z nich mal uvedené iné klinické prípady ako má bežné ochorenie.
+(Epidemiological Update: Diphtheria Cases in Europe, 2023)
+Pneumónia je hlavnou príčinou smrti u detí do 5 rokov na celom svete. Ročne na
+túto chorobu umiera celosvetovo viac detí ako na AIDS, maláriu či tuberkulózu a iné
+nebezpečné infekčné ochorenia. V roku 2019 zaznamenali celosvetovo 740 180 prípadov
+smrti u detí do 5 rokov, čo predstavuje 14% všetkých úmrtí u detí do 5 rokov a 22%
+všetkých úmrtí u detí od 1 do 5 rokov. V roku 2013 bolo nahlásených celosvetovo 930 000
+prípadov smrti tiež v tejto vekovej kategórií. V USA je pneumónia u detí až na 6. mieste
+v príčinách úmrtnosti. Rozvinuté krajiny sú na tom o niečo lepšie, v súvislosti s mortalitou
+sa udáva menej ako 1 dieťa na 1000 nakazených. Najviac postihnuté sú deti v južnej Ázií
+a v subsaharskej Afrike kde nemajú dostupné lieky a majú nedostatočnú zdravotnú
+starostlivosť. Ročne zaznamenávajú celosvetovo 1400 prípadov na 100 000 detí alebo 1
+prípad na 71 detí. V južnej Ázií je to približne 2500 prípadov na 100 000 detí a v Afrike
+1620 prípadov na 100 000. Aj napriek snahe znižovať výskyt zápalu pľúc u detí je tento
+pokles veľmi pomalý. Od roku 2000 sa úmrtia na zápal pľúc u detí do 5 rokov znížili
+o 50%, čo je na celosvetovej stupnici oproti iným infekčných ochoreniam málo. Na
+Slovensku je výskyt pneumónie u detí okolo 20 až 40 prípadov na 1000 pacientov ročne.
+Z toho 20 – 30% všetkých pneumónií si vyžaduje hospitalizáciu, čo je asi každé tretie
+dieťa. Po zavedení vakcinácie bol u detí zaznamenaný pokles výskytu pneumónie až
+o 58% a u dospelých o 38%. (GONDOVÁ & TAKÁČ, 2015; UNICEF, 2022; WHO,
+2022)
+
+44
+
+6. Ciele diplomovej práce
+
+Infekčné ochorenia dýchacích ciest sú veľmi rozšírenými chorobami a to najmä
+v detskej populácií. Jednotlivé choroby sa prejavujú rôznymi príznakmi a dĺžka trvania
+infikovanosti je tiež rôzna. Väčšina rodičov sa snaží najprv o samoliečbu, čím sa chcú
+vyhnúť návštevy lekára, a tým aj užívaniu antibiotík.
+Cieľom našej práce bolo zistiť, ktoré infekcie dýchacích ciest sa najčastejšie
+v detskej populácií vyskytujú, aký je ich priebeh, príznaky a či je na ich liečbu potrebná
+lekárska pomoc. Zisťovali sme, ako vplývajú jednotlivé preventívne opatrenia na výskyt
+a priebeh ochorení.
+Hlavný cieľ: Zistiť, ktoré infekcie dýchacích ciest sa u detí najčastejšie vyskytujú, aký je
+ich priebeh, incidencia a spôsob liečby
+Čiastkový cieľ 1: Zistiť vplyv prevencie na výskyt a liečbu infekcií dýchacieho systému
+Čiastkový cieľ 2: Zistiť frekvenciu chorobnosti dieťaťa po nástupe do kolektívu
+6.1 Metodika
+V empirickej časti diplomovej práce sme kvantitatívnou metódou realizovali
+prieskum pomocou dotazníka. Anonymný dotazník bol vytvorený v elektronickej
+aj papierovej podobe. Respondentmi boli rodičia detí predškolského veku a odpovede sa
+týkali detí oboch pohlaví od 0 do 6 rokov. Dotazník pozostával z 15 otázok, obsahoval 2
+otvorených a 13 zatvorených otázok. Prieskum trval od začiatku júna do konca septembra
+2023. Dotazník sme odovzdali po dohode do ambulancie pre deti a dorast v Gabčíkove. Tu
+boli dotazníky vyplnené pomocou pani sestričky rodičmi detí. Vyplnenie dotazníkov bolo
+dobrovoľné. Ďalej sme dotazníky uverejnili na sociálnej sieti a rozdali náhodne vybraným
+rodičom z okresu Dunajský Streda.
+
+6.2 Výsledky
+Respondentmi anonymných dotazníkov boli rodičia detí predškolského veku.
+Celkový počet vyplnených dotazníkov je 90. Z celkového počtu tvorili 27% deti vo veku
+od 0 do 2 rokov, 33% boli deti vo veku od 3 do 4 rokov a zvyšných 40% tvorili 5 a 6 ročné
+deti. Počty a percentuálne zastúpenie jednotlivých vekových kategórií nám zobrazuje
+tabuľka č.6 a graf č.2.
+45
+
+Vek dieťaťa
+Počet
+2 roky a menej
+24
+3 - 4 roky
+30
+5 - 6 rokov
+36
+Spolu
+90
+Tabuľka č. 6: Vek dieťaťa (vlastná analýza)
+
+%
+27
+33
+40
+100
+
+Vek dieťaťa
+
+27%
+40%
+
+33%
+
+2 roky a menej
+
+3 - 4 roky
+
+5 - 6 rokov
+
+Graf č. 2: Vek dieťaťa (vlastná analýza)
+
+V dotazníku sme zisťovali aj pohlavie detí. Z celkového počtu 90 opýtaných tvorili
+57% dievčatá a 43% chlapci.
+Pohlavie
+chlapec
+dievča
+Spolu
+
+Počet
+39
+51
+90
+Tabuľka č. 7: Pohlavie dieťaťa (vlastná analýza)
+
+46
+
+%
+43
+57
+100
+
+Pohlavie
+
+43%
+57%
+
+chlapec
+
+dievča
+
+Graf č. 3: Pohlavie dieťaťa (vlastná analýza)
+
+Otázka č. 1: Aký bol priebeh ochorenia?
+V prvej otázke sme zisťovali, ktoré ochorenia dýchacích ciest sa u detí vyskytovali
+najčastejšie a aký bol ich priebeh. Rodičia označili rinitídu ako najbežnejšie sa vyskytujúcu
+infekciu dýchacích ciest, a to až 85 z 90 prípadov, t.j. 94%. Toto ochorenie bolo u 44%
+pacientov s miernym priebehom, kým 48% rodičov uviedlo, že jeho dieťa malo rinitídu so
+stredným priebehom. Len 1% rodičov malo skúsenosť s ťažkým priebehom nádchy
+u svojho dieťaťa.
+Ako najzriedkavejšie sa vyskytujúce ochorenie dýchacieho systému v detskej populácií
+boli uvedené záškrt a tuberkulóza. Je veľmi prekvapivé, že sa tieto ochorenia ešte vôbec
+vyskytli. Len 4% rodičov uviedlo výskyt oboch týchto ochorení a všetky prípady boli len
+s miernym priebehom bez vážnejších komplikácií.
+
+47
+
+Ochorenie
+Mierny
+Stredný
+Ťažký
+Rinitída
+40
+44
+1
+Sinusitída
+21
+19
+1
+Laryngitída
+6
+5
+4
+Faryngitída
+3
+7
+3
+Tonzilitída
+7
+9
+1
+Epiglotitída
+4
+4
+0
+Bronchitída
+1
+11
+2
+Tracheitída
+4
+2
+1
+Otitída
+10
+6
+2
+Čierny kašel
+4
+1
+0
+Záškrt
+4
+0
+0
+Pneumónia
+5
+3
+2
+Chrípka
+10
+12
+2
+Tuberkulóza
+4
+0
+0
+Spolu
+123
+123
+19
+Tabuľka č. 8: Výskyt a priebeh ochorení (vlastná analýza)
+
+Spolu
+85
+41
+15
+13
+17
+8
+14
+7
+18
+5
+4
+10
+24
+4
+
+Výskyt a priebeh ochorení
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Mierny
+
+Stredný
+
+Ťažký
+
+Graf č. 4: Výskyt a priebeh ochorení (vlastná analýza)
+Otázka č. 2: Vyhľadali ste lekársku pomoc?
+Druhou otázkou sme sa dopytovali, či rodičia detí vyhľadali lekársku pomoc pri
+ochorení dieťaťa. Dospeli sme k výsledku, že vo väčšine prípadov infekcií dýchacích ciest
+rodičia vyhľadávajú lekársku pomoc. Dokonca pri laryngitíde a tracheitíde rodičia uviedli
+až 100% návštevnosť lekára v prípade výskytu týchto chorôb. Najmenej prípadov
+vyhľadania lekárskej pomoci bolo v prípade rinitídy i keď aj uvedených 60% tvorí väčšinu
+všetkých nakazených.
+48
+
+Ochorenie
+Rinitída
+Sinusitída
+Laryngitída
+Faryngitída
+Tonzilitída
+Epiglotitída
+Bronchitída
+Tracheitída
+Otitída
+Čierny kašel
+Záškrt
+Pneumónia
+Chrípka
+Tuberkulóza
+Spolu
+
+Áno
+Nie
+52
+35
+29
+10
+16
+0
+11
+2
+16
+1
+6
+2
+13
+1
+8
+0
+17
+2
+3
+2
+3
+2
+9
+2
+16
+7
+3
+2
+202
+68
+Tabuľka č. 9: Lekárska pomoc (vlastná analýza)
+
+Spolu
+87
+39
+16
+13
+17
+8
+14
+8
+19
+5
+5
+11
+23
+5
+
+Lekárska pomoc
+60
+50
+40
+30
+20
+10
+0
+
+Áno
+
+Nie
+
+Graf č. 5: Lekárska pomoc (vlastná analýza)
+
+Otázka č. 3: Užívalo Vaše dieťa antibiotiká?
+Tretia otázka sa týka užívania antibiotík v prípade infekcií dýchacích ciest. Najviac
+prípadov užívania antibiotík sa podľa odpovedí rodičov objavilo v prípade bronchitídy.
+Bolo to až u 93% všetkých pacientov s bronchitídou. Naopak najmenej prípadov užívania
+antibiotík bolo u pacientov s rinitídou. Bolo to len 8% všetkých nakazených.
+
+49
+
+Ochorenie
+Áno
+Nie
+Rinitída
+7
+79
+Sinusitída
+7
+32
+Laryngitída
+11
+5
+Faryngitída
+10
+2
+Tonzilitída
+14
+3
+Epiglotitída
+5
+3
+Bronchitída
+13
+1
+Tracheitída
+6
+2
+Otitída
+16
+3
+Čierny kašel
+2
+4
+Záškrt
+2
+3
+Pneumónia
+9
+2
+Chrípka
+6
+16
+Tuberkulóza
+2
+3
+Spolu
+110
+158
+Tabuľka č. 10: Užívanie antibiotík (vlastná analýza)
+
+Spolu
+86
+39
+16
+12
+17
+8
+14
+8
+19
+6
+5
+11
+22
+5
+
+Užívanie antibiotík
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Áno
+
+Nie
+
+Graf č. 6: Užívanie antibiotík (vlastná analýza)
+
+Otázka č. 4: Bola potrebná hospitalizácia Vášho dieťaťa?
+Vážnejšie stavy niektorých infekčných ochorení si vyžadujú hospitalizáciu. Zistili
+sme, že hospitalizácia detí bola potrebná v prípadoch laryngitídy, tonzilitídy, bronchitídy,
+tracheitídy a zápalu pľúc. V prípade ostatných infekcií dýchacích ciest nebola potrebná
+hospitalizácia detí. Najviac hospitalizovaných detí bolo zo všetkých prípadov v súvislosti
+50
+
+s pneumóniou
+
+46%
+
+a najmenej
+
+v prípade
+
+laryngitídy
+
+a tracheitídy.
+
+Tam
+
+hospitalizovaných 13% všetkých nakazených detí v oboch prípadoch.
+
+Ochorenie
+Áno
+Nie
+Rinitída
+0
+87
+Sinusitída
+0
+39
+Laryngitída
+2
+14
+Faryngitída
+0
+13
+Tonzilitída
+3
+14
+Epiglotitída
+0
+8
+Bronchitída
+3
+11
+Tracheitída
+1
+7
+Otitída
+0
+19
+Čierny kašel
+0
+6
+Záškrt
+0
+5
+Pneumónia
+5
+6
+Chrípka
+0
+23
+Tuberkulóza
+0
+5
+Tabuľka č. 11: Potreba hospitalizácie (vlastná analýza)
+
+Hospitalizácia
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Áno
+
+Nie
+
+Graf č. 7: Potreba hospitalizácie (vlastná analýza)
+
+51
+
+Spolu
+87
+39
+16
+13
+17
+8
+14
+8
+19
+6
+5
+11
+23
+5
+
+bolo
+
+Otázka č. 5: Koľkokrát sa dané ochorenie u Vášho dieťaťa vyskytlo za rok 2022?
+Touto otázkou sme zisťovali, koľkokrát sa infekcie dýchacích ciest u deti vyskytujú
+za rok. Vo väčšine prípadov rodičia uviedli, že sa u ich detí vyskytla daná infekcia len 1-2x
+za rok, niektoré prípady ochorení boli prítomné u detí 3-4x za rok a len máloktorá infekcia
+sa vyskytla 5 a viackrát počas roka.
+
+Ochorenie
+Rinitída
+Sinusitída
+Laryngitída
+Faryngitída
+Tonzilitída
+Epiglotitída
+Bronchitída
+Tracheitída
+Otitída
+Čierny kašel
+Záškrt
+Pneumónia
+Chrípka
+Tuberkulóza
+
+1-2x
+3-4x
+5 a viac
+47
+31
+9
+20
+15
+2
+11
+3
+1
+10
+2
+0
+13
+3
+0
+4
+2
+0
+10
+3
+0
+5
+3
+0
+14
+3
+0
+4
+0
+0
+3
+0
+0
+9
+0
+0
+17
+3
+2
+3
+0
+0
+Tabuľka č. 12: Počet ochorení za rok (vlastná analýza)
+
+Počet ochorení za rok
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+1-2x
+
+3-4x
+
+5 a viac
+
+Graf č. 8: Počet ochorení za rok (vlastná analýza)
+
+52
+
+Spolu
+87
+37
+15
+12
+16
+6
+13
+8
+17
+4
+3
+9
+22
+3
+
+Otázka č. 6: Aké boli príznaky ochorení?
+V tejto otázke sme zisťovali, aké boli príznaky ochorení dýchacích ciest u detí.
+Otázka bola otvorená, rodičia udávali príznaky rôzneho charakteru. Z uvedeného vyplýva,
+že sa k rôznym ochoreniam dýchacích ciest pridružujú príznaky rôznych ochorení, väčšina
+z nich je sprevádzaná príznakmi nádchy.
+Príznak
+Počet prípadov
+Výtok z nosa
+73
+Teplota
+41
+Suchý, dusivý kašeľ
+29
+Bolesť hrdla
+21
+Bolesť ucha
+14
+Bolesť hrudníka
+8
+Upchatý nos bez výtoku
+5
+Nespavosť
+4
+Ospalosť
+3
+Hnisavé mandle
+3
+Zápal očí
+3
+Podráždenosť
+3
+Vykašliavanie hlienov
+2
+Mononukleóza
+1
+Bolesť hlavy
+1
+Nadmerné kýchanie
+1
+Nechutenstvo
+1
+Tabuľka č. 13: Príznaky ochorení DC (vlastná analýza)
+Otázka č. 7: V ktorom ročnom období sa ochorenia najčastejšie vyskytovali?
+Touto otázkou sme zisťovali, v ktorom ročnom období sa infekcie dýchacích ciest
+najviac vyskytujú. Až 43% respondentov uviedlo výskyt ochorenia na jeseň, 37% v zime,
+19% ochorení sa vyskytovalo počas jari a len 1% ochorení bolo u detí počas leta.
+%
+Ročné obdobie
+Počet
+19
+Jar
+17
+1
+Leto
+1
+43
+Jeseň
+39
+37
+Zima
+33
+100
+Spolu
+90
+Tabuľka č. 14: Výskyt ochorení podľa ročného obdobia (vlastná analýza)
+
+53
+
+Ročné obdobie
+
+19%
+37%
+
+1%
+
+43%
+
+Jar
+
+Leto
+
+Jeseň
+
+Zima
+
+Graf č. 9: Výskyt ochorení podľa ročného obdobia (vlastná analýza)
+
+Otázka č. 8: Dbáte na každodennú prevenciu Vášho dieťaťa?
+Touto otázkou sme zisťovali, koľko % rodičov dbá na dodržiavanie bežných
+každodenných preventívnych opatrení dieťaťa. Odpovede boli veľmi potešujúce, keďže až
+98% rodičov uviedlo, že vedie svoje dieťa k dodržiavaniu bežných preventívnych opatrení
+a len 2% rodičov označilo odpoveď nie.
+Prevencia dieťaťa
+Počet
+Áno
+88
+Nie
+2
+Spolu
+90
+Tabuľka č. 15: Prevencia dieťaťa (vlastná analýza)
+
+54
+
+%
+98
+2
+100
+
+Prevencia dieťaťa
+
+2%
+
+98%
+
+Áno
+
+Nie
+
+Graf č. 10: Prevencia dieťaťa (vlastná analýza)
+Otázka č. 9: Ako prispievate k podpore imunity dieťaťa?
+V tejto otázke sme zisťovali akými rôznymi spôsobmi rodičia prispievajú
+k podpore imunity svojich detí. Vďaka otvorenej otázke sme sa mohli zamyslieť nad
+rôznorodosťou jednotlivých odpovedí. Najpreferovanejší spôsob ako podporiť imunitu
+dieťaťa je podľa výsledkov podávať deťom vitamíny vo forme výživových doplnkov, a to
+vitamíny C, D a E.
+Spôsob podpory imunity
+Počet odpovedí
+Užívanie vitamínov (C,D,E)
+46
+Imunoglukan
+5
+Kv. Béres
+1
+Colostrum
+1
+Lieky (Isoprinosin na odp. lekára)
+3
+Probiotiká
+11
+Očkovanie
+4
+Výhradne bez liekov
+1
+Hygiena
+9
+Šport
+4
+Pravidelný pobyt pri mori
+1
+Správne obliekanie
+3
+Dostatok spánku
+4
+Dojčenie
+1
+Zdravá strava
+22
+Prechádzky, pobyt v prírode
+22
+Tabuľka č. 16: Spôsoby podpory imunity (vlastná analýza)
+
+55
+
+Otázka č. 10: Má Vaše dieťa všetky povinné očkovania, ktoré má mať vzhľadom na svoj
+vek?
+V otázke č. 10 sme sa pýtali, či majú deti všetky povinné očkovania vzhľadom na
+svoj vek. 100% rodičov odpovedalo, že jeho dieťa má všetky povinné očkovania
+Očkovanie
+Počet
+Áno
+90
+Nie
+0
+Spolu
+90
+Tabuľka č. 17: Povinné očkovanie (vlastná analýza)
+
+%
+100
+0
+100
+
+Povinné očkovanie
+
+Áno
+
+Nie
+
+Graf č. 11: Povinné očkovanie (vlastná analýza)
+
+Otázka č. 11: Dávate Vaše dieťa očkovať aj nepovinnými vakcínami?
+V tejto otázke nás zaujímalo, či sú deti očkované aj nepovinnými vakcínami.
+U 70% rodičov bola odpoveď na túto otázku kladná a 30% uviedlo, že svoje dieťa nedáva
+očkovať nepovinnými vakcínami.
+Nepovinné očkovanie
+Počet
+%
+70
+Áno
+63
+30
+Nie
+27
+100
+Spolu
+90
+Tabuľka č. 18: Nepovinné očkovanie (vlastná analýza)
+
+56
+
+Nepovinné očkovanie
+
+30%
+
+70%
+
+Áno
+
+Nie
+
+Graf č. 12: Nepovinné očkovanie (vlastná analýza)
+
+Otázka č. 12: Zistili u Vášho dieťaťa po prekonaní akejkoľvek infekcie dýchacích ciest
+inú chorobu, ktorej príčinou bola práve spomínaná infekcia?
+V tejto otázke sme zisťovali, či sa po prekonaní nejakej infekcie dýchacieho
+traktu vyskytli u detí neskôr aj iné ochorenia, ktorých príčinou bola prekonaná infekcia.
+Len u 9% detí sa neskôr vyvinulo nejaké sekundárne ochorenie, ktorej príčinou bola
+prekonaná infekcia dýchacích ciest. Zvyšných 91% všetkých detí nemalo žiadne
+následky po prekonaní infekcie dýchacieho traktu.
+Sekundárne ochorenie
+Počet
+%
+9
+Áno
+8
+91
+Nie
+82
+100
+Spolu
+90
+Tabuľka č. 19: Výskyt sekundárneho ochorenia (vlastná analýza)
+
+57
+
+Ochorenie dýchacích ciest vďaka spomínanej
+infekcii
+9%
+
+Áno
+Nie
+
+91%
+
+Graf č. 13: Výskyt sekundárneho ochorenia (vlastná analýza)
+
+Otázka č. 13: Je alebo bolo Vaše dieťa dojčené?
+Touto otázkou sme zisťovali, koľko % detí je alebo bolo dojčených. Odpoveď
+áno bola uvedená celkom u 78% detí a len 22% všetkých detí bolo podľa odpovedí
+rodičov nedojčených.
+Dojčenie dieťaťa
+Počet
+Áno
+70
+Nie
+20
+Spolu
+90
+Tabuľka č. 20: Dojčenie dieťaťa (vlastná analýza)
+
+58
+
+%
+78
+22
+100
+
+Dojčenie dieťaťa
+Áno
+
+Nie
+
+22%
+
+78%
+
+Graf č. 14: Dojčenie dieťaťa (vlastná analýza)
+Otázka č. 14: Navštevuje Vaše dieťa nejaké predškolské zariadenie?
+Pomocou tejto otázky sme zisťovali, či deti navštevujú nejaké predškolské
+zariadenia. Rodičia nám odpovedali, že až 57 detí, čo je 63% zo všetkých navštevuje
+predškolské zariadenie.
+Návšteva predškolského zariadenia
+Počet
+%
+63
+Áno
+57
+37
+Nie
+33
+100
+Spolu
+90
+Tabuľka č. 21: Návšteva predškolského zariadenia (vlastná analýza)
+
+Návšteva predškolského zariadenia
+Áno
+
+Nie
+
+37%
+
+63%
+
+Graf č. 15: Návšteva predškolského zariadenia (vlastná analýza)
+59
+
+Otázka č. 15: Zdá sa Vám, že po nástupe do predškolského zariadenia sa chorobnosť
+Vášho dieťaťa v súvislosti s infekčnými ochoreniami dýchacích ciest:
+V nasledujúcej otázke sme chceli vedieť, ako vplýva na deti pobyt v kolektíve,
+presnejšie či sa u nich po nástupe do kolektívu chorobnosť znížila, zvýšila alebo
+nezmenila. Z odpovedí rodičov vyplýva, že u väčšiny detí sa chorobnosť po nástupe do
+kolektívu zvýšila. Túto skutočnosť potvrdili rodičia, keďže až u 61% detí sa chorobnosť
+zvýšila. U 30% detí sa chorobnosť po nástupe do predškolského zariadenia nezmenila
+a len u 9% všetkých detí sa chorobnosť znížila, čo je celkom zaujímavé zistenie.
+%
+Chorobnosť
+Počet
+9
+Znížila
+5
+61
+Zvýšila
+35
+30
+Nezmenila
+17
+100
+Spolu
+90
+Tabuľka č. 22: Chorobnosť dieťaťa (vlastná analýza)
+
+Chorobnosť dieťaťa
+Znížila
+
+Zvýšila
+
+nezmenila
+
+9%
+30%
+
+61%
+
+Graf č. 16: Chorobnosť dieťaťa (vlastná analýza)
+
+60
+
+Diskusia
+Detská populácia je oveľa náchylnejšia na infekcie rôzneho druhu, častejšie sa
+u nich vyskytujú recidivujúce infekcie. Dôvodov je mnoho, medzi najčastejšie patria
+neúplne vyvinutá imunita dieťaťa, malnutrícia, neočkovanosť a vplyvy iných vonkajších
+faktorov ako napr. fajčenie v domácnosti, zlá kvalita ovzdušia, zlé podmienky bývania či
+nevhodné životné prostredie pre dieťa. V práci sme zisťovali práve to, ktoré infekcie
+dýchacích ciest postihujú deti, aký je priebeh týchto ochorení, ako sa liečia
+a v neposlednom rade aj to, čo všetko na vývin týchto ochorení vplýva. (OROSOVÁ,
+2020) V práci sme si stanovili hlavný aj vedľajšie ciele, ktoré sme splnili pomocou
+výskumu vykonaného prostredníctvom dotazníka. Hlavný cieľ bol zistiť, ktoré infekcie
+dýchacích ciest sa u detí vyskytujú najčastejšie, aký je ich priebeh, incidencia
+a spôsob liečby. Na splnenie týchto cieľov nám slúžili otázky č. 1, 2, 3, 4, 5, 6 a 7.
+V otázke č. 1 sme sa pýtali, aký bol priebeh jednotlivých ochorení dýchacích ciest.
+Pri tejto otázke sme zistili tým pádom aj to, ktoré infekcie dýchacích ciest sa u detí vôbec
+vyskytli. Rodičia uviedli rinitídu ako najbežnejšie sa vyskytujúce ochorenie dýchacích
+ciest u ich detí. Bolo to až 94% všetkých detí. Z bežnej praxe vieme, že priebeh tohto
+ochorenia je väčšinou mierny až stredný. Potvrdilo sa nám to aj v dotazníku, keďže 44%
+rodičov uviedlo, že nádcha u jeho dieťaťa mala mierny priebeh, 48% hovorí o strednom
+priebehu a len 1% prípadov malo ťažký priebeh rinitídy. Priebeh ochorenia závisí od
+viacerých faktorov. Vplyv na stav pacienta má liečba – jej spôsob a trvanie, dodržiavanie
+režimových opatrení, pridruženie rôznych iných ochorení či komplikácií a na priebeh
+ochorenia vplýva aj počiatočný stav pacienta ako napr. prítomnosť iných chronických
+ochorení.
+Otázka č. 2 sa týkala spôsobu liečby. Zaujímalo nás, či rodičia vyhľadali lekársku
+pomoc pri jednotlivých ochorení dýchacích ciest. Táto otázka slúži na zistenie spôsobu
+liečby – samoliečba či liečba lekárom. Pomocou odpovedí rodičov sme zistili, že vo
+väčšine prípadov akéhokoľvek ochorenia dýchacích ciest sa obrátia na svojho pediatra. Pri
+laryngitíde a tracheitíde rodičia uviedli 100% návštevnosť pediatrickej ambulancie, ďalej
+uviedli vysokú návštevnosť lekára aj v prípade tonzilitídy – 94% a v prípade bronchitídy
+93% zo všetkých prípadov. Ani pri jednom ochorení nie je návštevnosť lekára pod 50%
+všetkých prípadov. Najmenej návštev lekára je pri rinitíde, aj tam však hodnota 60%
+všetkých chorých prekračuje polovicu prípadov.
+Otázkou č. 3 sme zisťovali užívanie antibiotík u detí v prípade ochorenia
+61
+
+dýchacieho systému. Aj keď väčšina odpovedí na túto otázku bola veľmi potešujúca,
+keďže deti neužívali antibiotiká, veľa rodičov uviedlo aj kladnú odpoveď, t.j., že jeho dieťa
+užívalo na liečbu infekcie antibiotikum. Najviac antibiotík sa podľa nášho zistenia užívalo
+v prípade bronchitídy – 93% a najmenej pri rinitíde – len 8% všetkých detí s rinitídou
+užívalo antibiotiká. Samozrejme, niekedy sú antibiotiká veľmi potrebné a len ich užívaním
+sa dosiahne potrebný výsledok či už u detí alebo dospelých. Treba však dbať na ich
+správne užívanie, mysliac na množstvo, čas a dĺžku liečby aby nedošlo k ich nadužívaniu,
+príp. k rezistencií na ne.
+Komplikované prípady niektorých ochorení si môžu vyžadovať hospitalizáciu. Túto
+skutočnosť nám potvrdili aj odpovede na otázku č. 4. Podávaním antibiotík intravenózne sa
+môže urýchliť liečba pacienta a 24 – hodinovým lekárskym dohľadom môžeme predísť
+výskytu komplikácií a zhoršeniu stavu. Hospitalizáciu si podľa odpovedí rodičov
+vyžadovalo 13% všetkých detí s laryngitídou aj tracheitídou, 18% všetkých prípadov
+tonzilitídy,
+
+21%
+
+detí
+
+postihnutých
+
+bronchitídou
+
+a najviac
+
+prípadov
+
+s potrebou
+
+hospitalizácie bolo u detí so zápalom pľúc. Pneumónia sa vyskytla podľa rodičov u 11 detí,
+z toho 5 prípadov si vyžadovalo hospitalizáciu, čo je 46%, teda skoro polovica všetkých
+detí so zápalom pľúc.
+
+V rámci incidencie ochorenia dýchacích ciest nás
+
+zaujímal aj počet jednotlivých ochorení dýchacieho systému za rok. Na zistenie nám
+slúžila otázka č. 5. Zistili sme, že všetky ochorenia dýchacích ciest sa v priemere
+vyskytovali 1-2x za rok, u niektorých prípadoch môžeme konštatovať, že ich výskyt je
+v priemere 3-4x za rok a 5 a viackrát sa vyskytli u detí len máloktoré ochorenia, a to
+rinitída – 10% všetkých prípadov, sinusitída – 5% všetkých prípadov, laryngitída – 7%
+všetkých prípadov a chrípka – 9% zo všetkých prípadov.
+V otázke č. 6 sme zisťovali, aké sú celkovo príznaky ochorení dýchacích ciest
+u detí. Rodičia uviedli miestami veľmi zaujímavé odpovede. Najviac odpovedí bolo, že
+deti majú príznaky klasickej nádchy, kde je teda prítomnosť výtoku z nosa. Často sa
+vyskytla aj teplota, suchý dráždivý kašeľ, bolesť hrdla a ucha. Ďalej sa uvádzali aj bolesť
+hrudníka, upchatý nos bez výtoku, nespavosť resp. ospalosť, hnisavé mandle, zápal očí,
+podráždenosť dieťaťa. Prítomné bolo aj vykašliavanie hlienov z dýchacích ciest. Rodičia
+uviedli aj menej časté príznaky, ktoré sa objavili tentokrát iba v jednom prípade, a to
+bolesť hlavy, nadmerné kýchanie, nechutenstvo a mononukleózu. Aj tieto odpovede vedú
+k tomu, že rinitída je prakticky prítomná čo i len v najmenšej miere pri všetkých chorobách
+dýchacích ciest.
+Otázka č. 7 sa týkala taktiež výskytu ochorení dýchacieho systému. Pýtali sme sa,
+62
+
+v ktorom ročnom období sa ochorenia najčastejšie vyskytovali. Za chrípkové obdobie
+považujeme jesenné a jarné obdobie. Súvisí to aj so zmenou počasia, taktiež s nástupom
+detí do škôl či škôlok. Tento fakt nám potvrdili aj odpovede rodičov. Na jeseň sa vyskytlo
+až 43% všetkých chorôb dýchacieho aparátu a 37% ochorení bolo v zime. Na jar sa
+chorobnosť detí znížila, bolo to o niečo menej – 19% a len 1% všetkých ochorení sa
+objavilo v lete.
+Prvým čiastkovým cieľom bolo zistiť vplyv prevencie na výskyt a liečbu
+infekcií dýchacích ciest. Na zistenie týchto skutočností nám boli nápomocné otázky č. 8,
+9, 10, 11, 12 a 13.
+
+Otázka č. 8 a 9 slúžili na zistenie dôležitosti prevencie.
+
+V otázke č. 8 sme sa pýtali, či rodičia dbajú na prevenciu dieťaťa. Väčšina rodičov,
+98% odpovedala, že dbá na dodržanie preventívnych opatrení u svojho dieťaťa, kým 2%
+rodičov uvideli zápornú odpoveď.
+Podpora imunity je nesmierne dôležitá najmä u detí a je neoddeliteľnou súčasťou
+prevencie. Otázkou č. 9 sme chceli vedieť, ako rodičia prispievajú k podpore imunity
+svojho dieťaťa. Otvorená otázka mala rôzne zaujímavé odpovede. Veľa rodičov má
+zaužívaný spôsob podpory imunity – podávanie vitamínov a rôznych vitamínových
+doplnkov. Ako odpovede uviedli rodičia najčastejšie užívanie vitamínu C, D a E (46),
+taktiež podávanie kvapiek Béres (1), Colostrum (1), Imunoglukan (5) a rôznych probiotík
+(11). Na odporúčanie lekára používajú rodičia na podporu imunity aj liek Isoprinosin (3).
+V rámci liekov a liečivých prípravkoch môžeme spomenúť aj očkovanie (4), ktoré
+znamená pre mnohých rodičov tiež jeden zo spôsobov podpory imunity dieťaťa. Imunita
+detí sa dá podporovať aj mnohými inými spôsobmi. Odpovede rodičov potvrdili tento fakt.
+Ako odpovede na otázku týkajúcu sa spôsobu podpory imunity dieťaťa okrem podávania
+liekov uviedli aj dodržiavanie hygieny (9), športovanie (4), pravidelný pobyt pri mori (1),
+správe obliekanie (3), dostatok spánku (4), dojčenie (1), zdravá strava (22) a prechádzky
+a pobyt v prírode resp. na čerstvom vzduchu (22)
+V otázke č. 10 sme zisťovali, či majú deti všetky povinné očkovania, ktoré majú
+mať vzhľadom na svoj vek. Odpovede rodičov boli veľmi jednoznačné, uviedli 100%
+očkovanosť svojich detí. To znamená, že všetky deti sú očkované všetkými pre nich
+potrebnými očkovacími látkami.
+Nás však zaujímalo aj to či dávajú rodičia svoje deti očkovať aj nepovinnými
+vakcínami. Na túto skutočnosť sme sa pýtali v otázke č. 11. Odpovede boli veľmi
+zaujímavé v porovnaní s otázkou č. 10, pretože 70% všetkých detí je očkovaných aj
+všetkými nepovinnými vakcínami vzhľadom na ich vek, kým 30% detí nie je očkovaných
+63
+
+nepovinnými očkovacími látkami. Aj toto môže viesť ku zvýšenej chorobnosti detí.
+Otázka č. 12 sa týkala stavu detí po prekonaní infekcie. V práci sme spomínali, že
+nesprávna liečba, nedodržané dávkovanie aj dĺžka liečby či mnohé iné faktory ovplyvňujú
+stav pacienta aj po prekonaní infekcie. Infekcie sa môžu opakovať alebo v budúcnosti
+spôsobovať problémy v úplne inej sfére. Pýtali sme sa preto, či zistili u detí, ktoré
+prekonali infekciu dýchacieho systému nejakú inú chorobu, pre ktorú bola základom práve
+prekonaná infekcia dýchacieho traktu. Len u 9% všetkých detí sa neskôr vyskytli
+zdravotné problémy súvisiace s prekonanou infekciu dýchacieho systému a zvyšných 82%
+nemali žiadne takéto problémy.
+Dojčenie považujeme sa prvý krok k podpore imunity dieťaťa, a preto sme sa
+v rámci prevencie otázkou č. 13 zaujímalo, koľko detí bolo, resp. je dojčených a koľko nie.
+78% všetkých detí je alebo bolo dojčených a 22% detí nie je, resp. nebolo dojčených.
+Druhý čiastkový cieľ bol zistiť ako vplýva pobyt v kolektíve na zdravie, resp.
+chorobnosť dieťaťa. Odpoveď sme získali otázkami č. 14 a 15.
+Týmito otázkami sme zisťovali, či deti navštevujú nejaké predškolské zariadenie
+(jasle, škôlky či školy) a ako sa zmenila u nich frekvencia chorobnosti po nástupe do
+daného predškolského zariadenia. Dozvedeli sme sa, že 63% všetkých detí navštevuje
+nejaké predškolské zariadenie, čo je väčšina všetkých detí a 37% nenavštevuje. Dôvodom
+môže byť aj nedovŕšenie veku potrebného na nástup do akéhokoľvek predškolského
+zariadenia.
+Z odpovedí rodičov nám vyplýva, že deti v kolektíve sú viac chorľavé, resp. že
+pobyt v kolektíve zvyšuje chorobnosť detí, keďže až u 61% detí sa chorobnosť po nástupe
+do kolektívneho zariadenia zvýšila a u 30% sa nezmenila. O znížení chorobnosti u detí,
+ktoré nastúpili do zariadenia alebo už dlhšie navštevujú akékoľvek predškolské zariadenie
+môžeme hovoriť len u 9% všetkých detí, čo je dosť málo.
+
+Na Slovensku bola vykonaná štúdia s názvom ProChild pod vedením pani Ing. Ivety
+Garaiovej, ktorá už roky žije vo Veľkej Británií. Táto slovensko-britská štúdia bola
+zrealizovaná vďaka Lekárskej fakulte UK v Bratislave a Pediatrickému centru JuvenaliaA
+s.r.o. v Dunajskej Strede a jej princípom bol vplyv užívania vitamínu C a probiotík na
+ochorenie dýchacích ciest u detí predškolského veku. Štúdia dokázala, že ich užívaním
+výrazne klesol výskyt ochorení a aj ich priebeh je oveľa miernejší a kratší. V závere štúdia
+uviedli, že návšteva pediatrickej ambulancie sa znížila až o 43% a dochádzka sa do
+64
+
+predškolských zariadení zlepšila o 30%. Tieto výsledky poukazujú na dôležitosť prevencie
+a pozitívny vplyv dodržiavania preventívnych opatrení na zdravie detí aj v súvislosti
+s dýchacími cestami. Naše zistenia apelujú na výsledky tohto výskumu, keďže odpovede
+respondentov nášho dotazníka tiež potvrdzujú priaznivý vplyv prevencie na výskyt
+a priebeh ochorení dýchacieho systému a mnoho rodičov uvádza práve užívanie vitamínu
+C aj probiotík ako jeden z mnohých spôsobov prevencie. (SAN, 2020)
+Istá štúdia zisťovala, ako vplýva dojčenie na chorobnosť detí. Výsledkom tohto štúdia
+bolo, že dojčené deti majú silnejší imunitný systém, sú menej náchylné na infekcie
+akéhokoľvek typu a aj v prípade výskytu ochorenia je u nich priebeh vo väčšine prípadov
+miernejší. U dojčených detí je taktiež nižšie riziko vzniku chronických ochorení
+a z výsledkom výskumu vyplýva, že respiračné ochorenie trvalo u dojčených detí o deň
+menej a u nedojčených o deň viac.
+
+Ďalšia štúdia z roku 2014 považuje dojčenie za nadhodnotené a tvrdí, že fyziologickú
+chorobnosť dieťaťa ovplyvňuje okrem dojčenia aj veľa iných faktorov a taktiež to, že
+dojčené deti nemajú žiadne zdravotné benefity. (BORKOVÁ, 2017)
+Nevieme síce podľa nášho prieskumu potvrdiť presný vplyv dojčenia na imunitu
+detí opýtaných rodičov, ale z výsledkov nám vyplýva, že rodičia sú za podporu imunity
+okrem iného aj dojčením, keďže až 78% detí je alebo bolo dojčených a rodičia uvádzajú
+podávanie materského mlieka aj ako jeden zo spôsobov podpory imunity u malých detí.
+Tím odborníkov z Harvardskej lekárskej fakulty predstavila svoju štúdiu z roku
+2022. Potvrdili a uviedli aj dôvod, prečo sa najviac respiračných ochorení objavuje najmä
+v zime a v chladnom počasí. Ich teória je taká, že studený vzduch dokáže oslabiť imunitnú
+odpoveď dýchacieho systému. Pokusom zistili, že stačí znížiť teplotu len o 5°C a tým
+dokážeme zabiť až 50% všetkých buniek, ktoré sú nám nápomocné v boji proti vírusom
+a baktériám. (Mediweb, 2022) Výsledky nášho prieskumu tiež potvrdzujú, že nástup
+chladného počasia vplývajú na výskyt infekcií, keďže až 37% ochorení dýchacieho
+systému sa vyskytovali v zime a 43% na jeseň.
+Štúdia vykonaná v Komplexnej špecializovanej nemocnici Gondarskej Univerzity
+bola zameraná na vyhodnotenie prevalencie a rizikových faktorov spojených s akútnymi
+ochoreniami dýchacích ciest u detí. Pozorovanie sa konalo od 1. mája do 10. júla 2019.
+Spracované boli údaje z lekárskych registračných tabuliek a z dotazníkov. Do štúdie bolo
+65
+
+zahrnutých 422 detí predškolského veku. Zistili, že prevalencia akútnej respiračnej
+choroby u detí vo veku do 5 rokov bola 27%. V súvislosti s rizikovými faktormi vzniku
+ochorení u detí zistili, že najväčší vplyv má nedostatočné povedomie rodičov o hygiene
+a s tým spojené je aj vidiecke bývanie, čo poukazuje na nedostatočne dodržiavané
+hygienické zásady. Tieto dva faktory boli najviac spojené so vznikom a šírením akútnych
+respiračných infekcií. V našej práci sme tiež uviedli dodržiavanie hygienických opatrení
+ako jeden h hlavných spôsobov prevencie chorôb a z odpovedí rodičov nám vyplýva, že sa
+týchto opatrení držia a dbajú na každodennú hygienu svojich detí čo je veľmi potešujúci
+výsledok. (DAGNE et al., 2020)
+
+66
+
+Odporúčania pre prax
+Na základe naštudovaných informácií o infekciách dýchacích ciest u detí
+a výsledkov výskumu ako odporúčania pre prax uvádzame nasledovné:
+Rodičia by mali:
+•
+
+dbať vo väčšej miere na dodržanie preventívnych opatrení u detí
+
+•
+
+postupne deti učiť zaužívať hygienické opatrenia
+
+•
+
+podporovať imunitu dieťaťa už od narodenia
+
+•
+
+chodiť s deťmi pravidelne na preventívne prehliadky
+
+•
+
+zhodnotiť zdravotný stav dieťaťa v prípade choroby a potrebu návštevy lekára
+
+•
+
+dôkladne si premyslieť podanie nepovinných vakcín, príp. skonzultovať s pediatrom
+
+•
+
+do školy či škôlky nosiť len zdravé deti
+
+•
+
+vyhýbať sa kolektívu ľudí s možnosťou infekcie (resp. deti)
+Predškolské zariadenia by mali:
+
+•
+
+prijímať do zariadenia len zdravé deti
+
+•
+
+zabezpečiť vzdelávanie detí ohľadne dôležitosti prevencie a hygieny
+
+•
+
+dbať na dodržanie hygieny aj v zariadeniach
+
+•
+
+v prípade potreby zaviesť povinné nosenie rúška, vykonať screening chorých
+
+•
+
+umiestniť dezinfekčné prostriedky v priestoroch škôl či škôlok
+
+•
+
+lekári by mali vykonať dôkladné vyšetrenia pred zahájením liečby najmä antibiotikami,
+aby sa predišlo nadmernému užívaniu
+
+•
+
+edukovať verejnosť o dôležitosti prevencie, možnostiach samoliečby prostredníctvom
+letákov, médií
+
+67
+
+Záver
+Infekcie dýchacích ciest predstavujú celosvetový problém, ich výskyt je veľmi
+častý a najviac postihovanou skupinou sú deti. Rozšírenosť respiračných chorôb v detskej
+populácií má za následok okrem iného aj nedostatočná informovanosť rodičov
+a nedodržiavanie hygienických opatrení. Nesprávna diagnostika a následne zle nasadená
+liečba je tiež jednou z príčin šírenia nákazy. V detskej ambulancií sa stretávame väčšinou
+s akútnymi ochoreniami dýchacích ciest, ktoré postihujú konkrétne časti dýchacieho
+systému a spôsobujú jeho zápal. Ochorenia, ktoré postihujú organizmus celkovo ako sú
+čierny kašeľ, záškrt či tuberkulóza sú zaznamenávané čoraz menej, a to vďaka zavedeniu
+očkovania. Aj preto považujeme vakcináciu za jeden z najdôležitejších a najvýznamnejších
+spôsobov prevencie. Občasný výskyt spomínaných ochorení je sprevádzaný len miernymi
+príznakmi a nekomplikovaným priebehom.
+V diplomovej práci sme popísali jednotlivé ochorenia, ich príznaky, možné
+etiologické agens jednotlivých chorôb, komplikácie a spôsob diagnostiky a liečby ochorení
+dýchacieho systému. Cieľom bolo poukázať na dôležitosť prevencie – očkovania ako aj
+dodržiavania každodenných preventívnych opatrení. Prínos práce vidíme najmä v edukácií
+širokej verejnosti a to najmä rodičov, keďže v práci sme venovali pozornosť chorobám
+dýchacieho systému predovšetkým u detských pacientov. Ak sa rodičia ako aj ostatní laickí
+pacienti oboznámia s príznakmi ochorení, budú vedieť odlíšiť ochorenie dýchacieho
+systému od iných chorôb s rovnakými príznakmi, môže sa tým znížiť spotreba antibiotík,
+do popredia sa pri ľahších formách infekcie môže dostať samoliečba, čo nadväzuje na
+zbytočnú návštevu lekára a tým aj na šírenie infekcie. Venovaním pozornosti uvedeným
+radám a odporúčaniam by sme teda mohli znížiť výskyt a šírenie infekcií medzi deťmi a aj
+celkovo v populácií. Choroba vyskytujúca sa u detí zvyšuje práceneschopnosť rodičov čo
+sa vo veľkej miere odzrkadluje na sociálno – ekonomickej situácií rodín a štátu.
+
+68
+
+Zdroje
+
+Acute Bronchitis in Children. (2023). Online.
+https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=90&Con
+tentID=P02930
+ADÁMKOVÁ, V. (2015). Antibiotická léčba. Online.
+https://www.solen.sk/storage/file/article/be4b44f67db2b55995893ad6e459b22a.pdf
+ALMASAUDI, S. B. (2016). Acinetobacter spp. as nosocomial pathogens: Epidemiology
+and resistance features. Online. https://pdf.sciencedirectassets.com/278674/1-s2.0S1319562X18X00047/1-s2.0-S1319562X16000565/main.pdf?X-Amz-SecurityToken=IQoJb3JpZ2luX2VjEPn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaC
+XVzLWVhc3QtMSJIMEYCIQDoBnbPVtmS2ev%2BlKd%2B3pfWW5rqx48SwmX
+%2FE5%2Fgc4oelgIhAOZE
+BAZOVSKÁ, S. (2019). Medicínsky a spoločenský význam infekčných ochorení. Online.
+https://zona.fmed.uniba.sk/fileadmin/lf/sucasti/Teoreticke_ustavy/Ustav_epidemiolog
+ie/2019-2020LS/Epidemiologia_pre_Zubne_lekarstvo.pdf
+Biopedia. (2023). Dýchacia sústava. Online. https://biopedia.sk/clovek/dychacia-sustava
+BORKOVÁ, A. (2017). O dojčení komplexne a s rešpektom. Magazine.
+BRAŽINOVÁ, A. (2022). Epidemiológia pre študentov všeobecného a zubného lekárstva
+(Alexandra Bražinová (Ed.)). Univerzita Komenského Bratislava.
+https://www.fmed.uniba.sk/fileadmin/lf/sluzby/akademicka_kniznica/PDF/Elektronic
+ke_knihy_LF_UK/Brazinova_Prakticke_cvicenia_z_epidemiologie_NEW_062022.pdf
+BUENSALIDO, J. A. (2023). Rhinovirus (RV) Infection (Common Cold). Online.
+https://emedicine.medscape.com/article/227820-overview?form=fpf
+Burnie, D. (2007). Malá encyklopédia ľudského tela (G. Šipošvá (Ed.); Third).
+CDCP. (2023a). Respiratory Syncytial Virus Infection. Online. https://www.cdc.gov/rsv/
+CDCP. (2023b). Rhinoviruses: Common Colds. Online.
+https://www.cdc.gov/ncird/rhinoviruses-common-cold.html
+Chlamydophila pneumoniae. (2023). Online.
+https://cs.wikipedia.org/wiki/Chlamydophila_pneumoniae
+Clinic, C. (2020). Respiratory System: Functions, Facts, Organs & Anatomy. Online.
+https://my.clevelandclinic.org/health/articles/21205-respiratory-system#function
+DAGNE, H., ANDUALEM, Z., DAGNEW, B., & ADIMASU, A. (2020). Acute
+respiratory infection and its associated factors among children underfive years
+attending pediatrics ward at University of Gondar Comprehensive Specialized
+Hospital, Northwest Ethiopia: institution-based cross-sectional study. Online.
+https://link.springer.com/content/pdf/10.1186/s12887-020-1997-2.pdf
+DLUHOLUCKÝ, S., ŠIMURKA, P., & URBANČÍKOVÁ, I. (2021). Sprievodca
+69
+
+očkovaním (10.).
+DUBÁN, L., OLEÁROVÁ, A., & FULMEKOVÁ, M. (2018). Akútne respiračné infekcie v
+detskom veku a ich manažment vo verejnej lekárni. Online.
+https://www.solen.sk/storage/file/article/ca7179596d7d86dfa8222d6fb8e928b2.pdf
+Epidemiological update: Diphtheria cases in Europe. (2023). Online.
+https://www.ecdc.europa.eu/en/news-events/epidemiological-update-diphtheria-caseseurope
+EPIS. (2019). Analýza epidemiologickej situácie. Online.
+https://www.epis.sk/InformacnaCast/Publikacie/VyrocneSpravy/Files/VS_SR_2019.a
+spx
+GONDOVÁ, I., & TAKÁČ, B. (2015). Výskyt pneumokokových pneumónií u
+hospitalizovaných pacientov v súčasnosti. Online.
+https://www.solen.sk/storage/file/article/398f31a38f2a59b17a2ba0eefb2faea4.pdf
+HEATH, D. A. (n.d.). Human respiratory system. Online.
+https://www.britannica.com/science/human-respiratory-system/The-pharynx
+HOCHMUTH, L. (2015). recidivujúce infekcie dýchacích ciest z pohľadu imunológa.
+Online. https://www.unilabs.sk/clanky-invitro/recidivujuce-infekcie-dychacich-ciestz-pohladu-imunologa
+HOGAN, L. (2021). What Is Bacterial Tracheitis? Online.
+HUČKOVÁ, D., KOLLÁROVÁ, K., ADAMČÁKOVÁ, J., KOVÁCS, L., & KOVÁČ, Ľ.
+(2009). Možnosti včasnej diagnostiky pertussis. Online.
+https://www.solen.sk/storage/file/article/0c6be8c123daf052d859e5ea54c76eae.pdf
+Infekčná choroba – Wikipédia. (2023). Online.
+https://sk.wikipedia.org/wiki/Infekčná_choroba
+INFEKČNÉ CHOROBY. (n.d.). Online. Retrieved September 18, 2023, from
+https://www.ruvzpo.sk/dokumenty/Infekcne_ochorenia.pdf
+JAKUBEC, P., & KOLEK, V. (2018). Pneumonie pro klinickou praxi.
+JANOUŠEK, P. (2012). Současné možnosti diagnostiky infekcí horních cest dýchacích u
+dětí z pohledu otorinolaryngologa. Online.
+https://www.pediatriepropraxi.cz/pdfs/ped/2012/06/05.pdf
+JESEŇÁK, M., & MINÁRIKOVÁ, D. (2021). Protivírusové pôsobenie zinku. Online.
+https://atip.uniba.sk/wp-content/uploads/2021/12/JesenakMinarikova_SKP_2_2021_Protiviruosve-posobenie-zinku.pdf
+JESEŇÁK, Miloš, & MINÁRIKOVÁ, D. (2020). Akútne infekcie horných dýchacích ciest
+a ich manažment. 10(3), 63–69.
+https://www.solen.sk/storage/file/article/PLEK_3_2020_final – Jesenak.pdf
+JESEŇÁK, Miloš, RENNEROVÁ, Z., & BÁNOVČIN, P. (2012). Recidivujúce infekcie
+dýchacích ciest a imunomodulácia u detí. Mladá fronta.
+JESEŇÁK, Miloš, RENNEROVÁ, Z., & VOJTUŠOVÁ, Z. (2016). Imunita u detí v
+70
+
+predškolskom veku. Online.
+https://www.fmed.uniba.sk/uploads/media/Imunita_u_deti_v_predskolskom_veku.pdf
+KAPELLEROVÁ, A. (2007). Pneumonia získaná v komunite. Online.
+https://www.solen.sk/storage/file/article/f4946d0531128f30e61c2da0b94ef8e5.pdf
+KOMÍNEK, P. (2023). Diagnostika a léčba tonzilitid u dětí. Online.
+https://www.solen.sk/sk/casopisy/pediatria-pre-prax/diagnostika-a-lecba-tonzilitid-udeti
+LOCKE, T., KEAT, S., WALKER, A., & MACKINNON, R. (2012). Microbiology and
+Infectious Diseases on the Move (1st Editio).
+
+MARTINICKÝ, D. (n.d.). Prevencia recidivujúcich infekcií dýchacích ciest z pohľadu
+klinického imunológa a alergológa. Online. http://panmed.sk/download/Luivac
+Hrubisko prevencia_redicivujucich_infekcii.pdf
+Mediklin. (2014). Nádcha u detí. Online. https://www.mediklin.sk/nadcha-u-deti-nie-jemalichernost/
+Mediweb. (2022). Prečo je v zime viac chrípky či prechladnutí? Online.
+https://mediweb.hnonline.sk/zdn/spravy/96056738-preco-je-v-zime-viac-chripky-ciprechladnuti-vedci-prichadzaju-s-novymi-zisteniami
+Národný portál zdravia. (2023). Aktuálny prehľad výskytu chrípky a akútnych respiračných
+ochorení v SR - NPZ. Online.
+https://www.npz.sk/sites/npz/Stranky/NpzArticles/2015_11/Vyskyt_ARO_a_CHPO_
+v_SR_za_45__kalendarny_tyzden_2015.aspx?did=2&sdid=60&tuid=0&page=full&
+National Center for Immunization and Respiratory Diseases. (2022). Mycoplasma
+pneumoniae infections. Online.
+https://www.cdc.gov/pneumonia/atypical/mycoplasma/index.html
+NIAaID. (2022). Coronaviruses. Online. https://www.niaid.nih.gov/diseasesconditions/coronaviruses
+NIH. (2022). Bronchitis. Online. https://www.nhlbi.nih.gov/health/bronchitis
+OROSOVÁ, J. (2020). Prevencia recidivujúcich infekcií dýchacích ciest u detí vo svetle
+súčasnej socioepidemiologickej situácie pri pandémii COVID-19. Online.
+https://www.solen.sk/storage/file/article/PED_3_2020_final – Orosova.pdf
+PAVLÍKOVÁ, T. (2018). DNA Diagnostika infekcí dýcahcích cest [Masarykova
+Univerzita]. https://is.muni.cz/th/n2p7m/TP_DP_2018.pdf
+PETRU, V. (2012). Imunoterapie dětí s recidivujícími respiračními infekcemi. Online.
+https://www.pediatriepropraxi.cz/pdfs/ped/2012/05/05.pdf
+PHA. (2017). Očkovanie pre dojčatá. Online.
+https://www.publichealth.hscni.net/sites/default/files/Immunisation for babies up to 1
+year old 06_17_SLOVAK_Final-title.pdf
+Príznaky a liečba laryngitídy u dieťaťa. Prejavy zápalu hrtana u dieťaťa a účinné spôsoby
+71
+
+jeho liečby. (2020). Online. https://nindo.ru/sk/different/simptomy-i-lechenielaringita-u-rebenka-proyavleniya-laringita-u/
+RAČKOVÁ, D. (2022). Čierny kašeľ na Slovensku. Online. https://svls.sk/cierny-kasel-naslovensku-je-na-vzostupe/
+RAMIREZ, D., & GIRON, M. (2023). Enterobacter Infections. StatPearls.
+https://www.ncbi.nlm.nih.gov/books/NBK559296/
+Respirační syncytiální virus. (n.d.). Online.
+https://www.wikiskripta.eu/w/Respirační_syncytiální_virus
+RÚVZ BB. (2019). Analýza epidemiologickej situácie a činnosti odborov epidemiológie v
+SR za rok 2019. Online.
+https://www.epis.sk/InformacnaCast/Publikacie/VyrocneSpravy/Files/VS_SR_2019.a
+spx
+SAN. (2020). Slovensko-britský výskum: Probiotiká môžu pomôcť pri respiračných
+infekciách. https://hnonline.sk/science/medicina/2124383-unikatny-slovensko-britskyvyskum-probiotika-mozu-pomoct-pri-respiracnych-infekciach
+ŠIMKOVÁ, A. (2020). Sprievodca infekciami dýchacích ciest, liečba antibiotikami.
+Online. https://duomedical.sk/sprievodca-infekciami-dychacich-ciest/
+ŠĽAPÁK, I. (2007). Otitis media acuta – diagnostika a léčba. Online.
+https://www.solen.cz/pdfs/lek/2007/05/04.pdf
+ŠPALEKOVÁ, M. (2010). Legionelózy – klinický obraz, epidemiológia, diagnostika a
+liečba. Online.
+https://www.solen.sk/storage/file/article/2a9f0c0d784c3b64641b50d793b442db.pdf
+Stanford Medicine. (2023). Online.
+https://www.stanfordchildrens.org/en/topic/default?id=sinusitis-in-children-90P02063&sid=
+STANKO, P. (2020). Akútna rinitída a sínusitída. Online.
+https://somfarmaceut.sk/spravna-dispenzacia-akutna-rinitida-a-sinusitida/
+ŠULCOVÁ, M., ČIŽNÁR, I., & FABIANOVÁ, E. a kolektív. (2012). Verejné
+zdravotníctvo (V. Bencko & Ľ. Ševčíková (Eds.)).
+TESINI, B. L. (2022). Adenovirus Infections. Online.
+https://www.msdmanuals.com/professional/infectious-diseases/respiratoryviruses/adenovirus-infections
+TRUCHLÝ, P. (2020). Opakované infekcie v detskom veku. Online.
+https://www.upsvr.gov.sk/pb/aktualne-oznamy/opakovane-infekcie-v-detskomveku.html?page_id=975484
+TRUSKA, P. (2018). Čierny kašeľ. Online. https://www.ruvzba.sk/aktuality/pertussis.pdf
+UKRI. (2020). What is coronavirus? The different types of coronaviruses. Online.
+https://coronavirusexplained.ukri.org/en/article/cad0003/
+UNICEF. (2022). Pneumonia. Online. https://data.unicef.org/topic/child72
+
+health/pneumonia/
+University, & Medical. (2023). Anatomy of the Respiratory System - Health Encyclopedia University of Rochester Medical Center. Online.
+https://www.urmc.rochester.edu/encyclopedia/content.aspx?contentid=p01300&conte
+nttypeid=85
+Úrad Verejného zdravotníctva SR. (2022). Online.
+https://www.uvzsr.sk/web/uvz/vyhladavanie?q=aro+a+chpo+2022+Dunajska+streda
+ÚVZSR. (2023). Hemofilové nákazy. Online. https://www.uvzsr.sk/web/uvz/hemofilovenakazy-invazivne-hemofilove-infekcie-sposobene-bakteriami-haemophilusinfluenzae-typ-b
+
+WHO. (2022). Pneumonia in children. Online. Progress in reducing deaths due to
+pneumonia in children under five has been significantly slower than for other
+infectious diseases. Since 2000, under-five deaths due to pneumonia have declined by
+55 per cent, while deaths due to diarrhoea have decreased
+Wikipedia. (n.d.). Chŕipka. Online. https://www.wikiskripta.eu/w/Chřipka
+wikipédie. (2023). Zápal prinosových dutín (sinusitída) u detí. Online.
+https://zdravopedia.sk/choroby/zapal-prinosovych-dutin-sinusitida-u-deti
+Wikipédie. (2023). C-reaktivní protein – WikiSkripta. https://www.wikiskripta.eu/w/Creaktivní_protein
+
+73
+
+

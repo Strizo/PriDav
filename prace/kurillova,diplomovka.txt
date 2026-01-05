@@ -1,0 +1,2364 @@
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA PRÁVA
+
+FP-183181-15760
+
+POSTOJE KRAJÍN V4 POČAS EURÓPSKEJ MIGRAČNEJ
+KRÍZY
+Diplomová práca
+
+2023
+Bc. Klaudia Kurillová
+
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA PRÁVA
+
+POSTOJE KRAJÍN V4 POČAS EURÓPSKEJ MIGRAČNEJ
+KRÍZY
+Diplomová práca
+
+Študijný program:
+
+Medzinárodné vzťahy a diplomacia
+
+Študijný odbor:
+
+Politické vedy
+
+Školiace pracovisko:
+
+Ústav medzinárodného a európskeho práva
+
+Školiteľ:
+
+Mgr. Tomáš Strážay, PhD.
+
+Bratislava, 2023
+Bc. Klaudia Kurillová
+
+Paneurópska vysoká škola
+Ústav medzinárodného a európskeho práva
+
+Fakulta práva
+2022/2023
+
+ZADANIE DIPLOMOVEJ PRÁCE
+
+Autorka práce:
+
+Bc. Klaudia Kurillová
+
+Študijný program:
+
+medzinárodné vzťahy a diplomacia
+
+Študijný odbor:
+
+politické vedy
+
+Evidenčné číslo:
+
+FP-183181-15760
+
+ID študenta:
+
+15760
+
+Vedúci práce:
+
+Mgr. Tomáš Strážay, PhD.
+
+Názov práce:
+
+Postoje krajín V4 voči Európskej migračnej kríze
+
+Špecifikácia zadania:
+
+Práca sa sústredí na špecifiká a postoje jednotlivých krajín V4
+v kontexte migrácie a konkrétne na obdobie počas Európskej
+migračnej krízy. Definuje migráciu, priblíži postoj zo strany
+Európskej únie pri hľadaní spoločného riešenia prerozdeľovania
+migrantov a následne postoje vlád krajín V4 voči zavedeniu kvót.
+
+Rozsah práce:
+
+50-70 strán A4
+
+Dátum zadania:
+
+24. 09. 2022
+
+Dátum odovzdania:
+
+31. 03. 2023
+
+Mgr. Tomáš Strážay, PhD.
+vedúci práce
+
+doc. JUDr. Andrej Karpat, PhD.
+vedúci ústavu
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som danú diplomovú prácu vypracovala samostatne a čerpala
+som len zo zdrojov ako aj vlastnej parafráze prameňov, ktoré sú uvedené v zozname
+literatúry.
+
+Dátum: 31.3.2023
+
+...........................................................
+
+Bc. Klaudia Kurillová
+
+Poďakovanie
+Touto cestou vyslovujem svoje obrovské poďakovanie pánovi Mgr. Tomášovi
+Strážayovi, PhD., za ochotu byť mojím školiteľom, odborné vedenie ako aj cenné rady pri
+vypracovaní diplomovej práce.
+
+ABSTRAKT
+KURILLOVÁ, Klaudia, Bc.: Postoje krajín V4 počas Európskej migračnej krízy.
+[Diplomová práca]. Paneurópska vysoká škola. Fakulta Práva. Školiteľ diplomovej práce: Mgr.
+Tomáš Strážay, PhD. Bratislava. 2023. 58 s.
+Cieľom diplomovej práce je bližšie predstaviť postoje krajín V4 v kontexte migračnej
+politiky a tzv. Európskej migračnej krízy. Práca je teoreticky ukotvená o definície migrácie ako
+aj jej súvisiace typy a delenia. Obsahom je zachytenie postojov predstaviteľov V4 ukotvených
+na presadzovaní ich národných politík a na druhej strane predstavenie spoločných návrhov
+a postupov Európskej únie na riešení migračnej krízy. V práci je taktiež stručne definovaný
+chronologický vývoj migrácie v Európe, zaujímavé fakty týkajúce sa migrantov na Slovensku
+ako aj o veľmi aktuálnej situácii v súvislosti s prílevom utečencov z Ukrajiny a poskytovaním
+pomoci .
+
+KĽÚČOVÉ SLOVÁ: migrácia, V4, Vyšehradská skupina, migračná kríza, migračná politika
+EÚ
+
+ABSTRACT
+KURILLOVÁ, Klaudia: Attitudes of the V4 countries during the European migration
+crisis. [Diploma thesis]. Pan-European University, Faculty of Law. Supervisor of the thesis:
+Mgr. Tomáš Strážay, PhD. Bratislava. 2023. 58 p.
+The aim of the thesis is to present the positions of the V4 countries in the context of
+migration policy and the so-called European migration crisis. The work is theoretically
+anchored by definitions of migration as well as its related types and divisions. The content is to
+capture the positions of V4 representatives anchored in the promotion of their national policies
+and, on the other hand, to present the European Union's joint proposals and procedures for
+solving the migration crisis. The work also briefly defines the chronological development of
+migration in Europe, interesting facts regarding migrants in Slovakia as well as the very current
+situation in connection with the influx of refugees from Ukraine and the provision of aid.
+
+KEY WORDS: migration, V4, Visegrad group, migrant crisis, EU migration policy
+
+Obsah
+ÚVOD ......................................................................................................................................... 9
+1
+
+MIGRÁCIA ...................................................................................................................... 11
+1.1
+
+Typy migrácie ......................................................................................................... 13
+
+1.1.1 Migračné teórie .................................................................................................... 14
+2
+
+EURÓPSKA MIGRAČNÁ KRÍZA ................................................................................. 15
+2.1
+
+Riešenie migračnej krízy v EÚ .............................................................................. 16
+
+2.1.1 Hlavné migračné trasy smerujúce do krajín EÚ ................................................ 18
+2.2
+
+Migračná kríza na vlastnej koži ............................................................................ 19
+
+2.3
+
+Migrácia na Slovensku ........................................................................................... 22
+
+2.3.1 Koľko ľudí prichádza k nám? ............................................................................ 24
+2.4
+3
+
+4
+
+Integrácia migrantov do spoločnosti..................................................................... 26
+
+OČAKÁVANÁ ROLA ZO STRANY EÚ ......................................................................... 28
+3.1
+
+Očakávania od členského štátu ............................................................................. 29
+
+3.2
+
+Očakávania od predsedajúceho štátu rade EÚ .................................................... 30
+
+3.3
+
+Chronologický prehľad priebehu Európskej migračnej krízy .......................... 32
+
+VYŠEHRADSKÁ SKUPINA ........................................................................................... 35
+4.1
+
+Migračná a azylová politika V4............................................................................. 36
+
+4.2
+
+Vnútorná bezpečnosť v krajinách V4 .................................................................. 36
+
+4.3
+
+Relokačný mechanizmus ako obmedzenie národnej suverenity ........................ 38
+
+4.3.1 Negatívna prezentácia EÚ ako neschopného a neefektívneho aktéra .............. 39
+4.4
+5
+
+Prednosti štátov V4................................................................................................. 40
+
+POSTOJE KRAJÍN V4 K MIGRAČNEJ KRÍZE .......................................................... 42
+5.1
+
+Česká republika ...................................................................................................... 43
+
+5.2
+
+Poľsko ...................................................................................................................... 43
+
+5.3
+
+Maďarsko ................................................................................................................ 44
+
+5.4
+
+Slovensko ................................................................................................................. 44
+
+5.4.1 Krajiny V4 vo svetle očakávaní zo strany EÚ ..................................................... 45
+5.4.2 Slovenské predsedníctvo krajín V4 ..................................................................... 46
+5.5
+
+Vojna na Ukrajine a prílev utečencov z Ukrajiny ............................................... 48
+
+5.6
+
+Nový akčný plán ..................................................................................................... 49
+
+ZÁVER ..................................................................................................................................... 51
+ZOZNAM POUŽITÝCH SKRATIEK A SYMBOLOV .......................................................... 52
+ZOZNAM POUŽITEJ LITERATÚRY A INTERNETOVÝCH ZDROJOV ......................... 53
+
+ÚVOD
+Migrácia je jav, ktorý sa prejavuje rôznymi spôsobmi a má rozličné príčiny. Vďaka
+novým technológiám, doprave a internetu v súčasnosti nadobúda migrácia oveľa väčšie
+rozmery než v minulosti. V súčasnosti sme svedkami vysokého nárastu migrantov smerujúcich
+do Európy, ktorý sa zvykne označovať ako Európska migračná kríza. Ľudia utekajú z krajín
+kde je vojna, alebo kde im hrozí prenasledovanie. Je to však len jedna z mnohých foriem
+migrácie a zároveň platí, že aj tento prejav migrácie je vnútorne rozmanitý, do Európy migrujú
+rôzni ľudia a z rôznych dôvodov. Migrácia nie je nový fenomén, ľudia a skupiny ľudí počas
+histórie migrovali odjakživa. Môžeme povedať, že počas väčšej časti existencie človeka bol
+ľuďom oveľa dlhšie bližší migrantský spôsob života, než usadený spôsob života v komunitách
+a spoločenstvách.
+Súčasnosť sa zvykne označovať aj ako éra mobility. Migrácia je naozaj v súčasnosti z
+hľadiska histórie ľudstva najintenzívnejšia a je prítomná v každej oblasti nášho života. Migrácia
+má pre súčasnú spoločnosť mnoho pozitív, umožňuje ekonomický rozvoj, šírenie poznatkov a
+inovácií. Za jej odvrátenú tvár je naopak považovaná masová migrácia ľudí z menej
+rozvinutých krajín do krajín, ktoré sú ekonomicky rozvinutejšie a ktoré garantujú svojim
+občanom vyššiu kvalitu života. Štáty sa teda snažia migráciu regulovať rozličnými spôsobmi s
+cieľom využiť jej pozitíva a naopak zabrániť jej negatívnym dopadom, akým je
+nekontrolovanosť migrácie, ktorá následne môže komplikovať aj začleňovanie migrantov v
+novej krajine.
+O migračnej kríze sa toho od jej vypuknutia povedalo a napísalo mnoho – vyjadrili sa
+jednotlivci, skupiny, aktivisti, žurnalisti, politici. Pre výskumníkov z odboru medzinárodných
+vzťahov je dôležité venovať pozornosť hlavne poslednej spomenutej skupine. Politický diskurz
+migračnej krízy je významný z dvoch hlavných dôvodov: za prvé preto, že pomáha
+spoluvytvárať obraz spoločnosti o migračnej kríze, jej riešení a migrantoch samotných a za
+druhé preto, že je politický vo svojich dôsledkoch. To, ako sa o kríze hovorí, je vždy prepojené
+s tým, ako sa vo vzťahu ku kríze koná. Pochopenie a anlýza politického diskurzu teda môže
+byť prostriedkom pre neskoršie pochopenie konkrétnych postojov alebo aktivít skúmaných
+aktérov.
+V tejto práci sa sústredíme na analýzu postojov krajín Vyšehradskej skupiny, čo má tiež
+svoj dôvod. Slovensko, Česko, Poľsko a Maďarsko totiž predstavujú štyri krajiny s rozličnou
+minulosťou, rozličným zložením parlamentov a veľakrát aj rozličnými stratégiami k európskej
+9
+
+politike. Migračná kríza tieto krajiny zasiahla v odlišnej miere a iným spôsobom. Napriek tomu
+krajiny V4 v ich prístupoch riešenia migračnej krízy reagovali podobným spôsobom a
+pravidelne dospievali k politickému konsenzu v podobe odmietania a vyhýbania sa
+relokačnému mechanizmu Európskej únie. Ten bol založený na princípe povinných kvót pre
+členské štát, čo sa krajinám V4 nepáčilo. V tejto práci si kladieme za cieľ preskúmať
+charakteristiku politického diskurzu udalostí migračnej krízy v jednotlivých krajinách V4.
+Navzájom ich porovnať, identifikovať ich prípadné spoločné znaky, alebo naopak rozdiely.
+V práci budeme skúmať to, akým spôsobom je v politickom diskurze konštruovaný obraz
+aktérov migračnej krízy, najmä migrantov samotných a na poodhalenie diskurzívnych stratégií,
+ktoré aktéri používajú vo vzťahu k riešeniu migračnej krízy.
+
+10
+
+1
+
+MIGRÁCIA
+
+„Migrácia je proces, kedy jednotlivci či celé skupiny ľudí z rôznych dôvodov opúšťajú svoje
+domovy“1. Súčasná mobilita ľudstva je vyššia ako kedykoľvek predtým v novodobej histórii a
+naďalej prudko stúpa. Stáva sa tak jednou z hlavných globálnych otázok a rovnako bežným
+javom 21. storočia. V oblastiach konfliktov (Afganistan, Irak, Sýria, krajiny strednej Afriky)
+a spoločenských vrátane politických, alebo ekonomických rozdielov migrácia predstavuje
+závažný socioekonomický problém.2
+Podľa Ministerstva vnútra SR je definícia migrácie nasledovná: „Medzinárodná migrácia
+je historický, spoločenský jav, ktorý výrazne ovplyvňuje politiku štátov a má dočasný, ako aj
+dlhodobý potenciál meniť populačnú štruktúru jednotlivých krajín. Je to globálny fenomén,
+ktorého riadenie si vyžaduje úzku spoluprácu relevantných domácich a medzinárodných
+aktérov. Súčasná mobilita ľudí je vyššia ako kedykoľvek predtým v novodobej histórii a naďalej
+prudko stúpa, čím sa stáva jednou z určujúcich globálnych otázok 21. storočia. Z približne 200
+štátov sveta sú všetky buď zdrojové, tranzitné alebo naopak cieľové.“ 3
+Migrácia si vyžaduje systematický, komplexný, flexibilný a dlhodobo udržateľný prístup a
+kvalifikované riadenie. Keďže migrácia objektívne ovplyvňuje súčasnosť a bude rovnako bude
+ovplyvňovať aj budúcnosť EÚ, vrátane SR, musíme k nej pristupovať s primeranou vážnosťou
+a zodpovednosťou, a to tak voči domácemu obyvateľstvu, cudzincom, ako aj voči partnerom v
+rámci EÚ a medzinárodného spoločenstva. V Európe bez vnútorných hraníc nie je prakticky
+možné, aby členské štáty EÚ realizovali migračnú politiku izolovane. Čoraz viac sa kladie
+dôraz na posilňovanie súčinnosti a prepojenia politiky migrácie s ostatnými politikami, najmä
+bezpečnostnou politikou a obrannou politikou, rozvojovou politikou (podporujúcou udržateľný
+rozvoj), populačnou politikou ako aj politikou zamestnanosti. Rovnako sa čoraz intenzívnejšie
+presadzuje trvalá inkorporácia migrácie aj do vonkajšej politiky EÚ.
+1
+
+IOM. 2023. Migrácia vo svete. [online]. Dostupné na: <https://iom.sk/index.php/sk/migracia/migracia-vo-
+
+svete.html>
+2
+
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.143. ISBN 978-80-7418-292-1.
+3
+
+MV SR. 2023. Migračná politika Slovenskej republiky s výhľadom do roku 2025. [online]. Dostupné na:
+
+<https://www.minv.sk/?zamer-migracnej-politiky-slovenskej-republiky>
+
+11
+
+Samotné slovo migrácia pochádza z latinského slova migratio, čo znamená pohyb. Slovo
+migratio je odvodené od migro/migrare, čo znamená sťahovať sa/presídľovať.
+Dôležitým procesom, ktorý je prirodzeným dôsledkom migrácie, je integrácia, t. j. proces
+integrácie prisťahovalcov do spoločnosti pôvodného obyvateľstva, ktorý má svoje vlastné
+podmienky a aspekty.
+Uznávané definície utečencov a migrujúcich pracovníkov a ich rodinných príslušníkov sú
+však zakotvené v medzinárodných dohovoroch. Druhá sa týka takmer všetkých migrantov.
+Definícia utečenca v Dohovore o právnom postavení utečencov z roku 1951 a Ženevskom
+protokole z roku 1967 znie: „Utečenec je osoba, ktorá sa nachádza mimo svojej domovskej
+krajiny a má opodstatnenú obavu z prenasledovania na základe rasy, náboženstva, národnosti,
+príslušnosti k určitej sociálnej skupine alebo politického názoru". Všetky členské štáty EÚ
+ratifikovali dohovor z roku 1951 aj protokol z roku 1967.4
+Dokumenty, ktoré zaručujú dodržiavanie základných ľudských práv, t. j. Všeobecná
+deklarácia ľudských práv; Medzinárodný pakt o politických, sociálnych a kultúrnych právach
+a Medzinárodný dohovor o odstránení všetkých foriem rasovej diskriminácie sa vzťahujú na
+všetky osoby bez ohľadu na ich právne postavenie, ako aj na migrujúcich pracovníkov.5
+Migráciu rozdeľujeme na imigráciu a emigráciu. Imigrácia alebo prisťahovalectvo je
+proces, ktorým sa novo prichádzajúci cudzinci usadia na území krajiny. Pojem emigrácia
+znamená odchod alebo vysťahovanie z krajiny pôvodu.6 Je dôležité dôkladne definovať tieto
+pojmy: migrant a utečenec. Dohovor OSN o právnom postavení utečencov z roku 1951
+definuje utečenca ako „osobu, ktorá má opodstatnenú obavu z prenasledovania na základe
+rasy, náboženstva, národnosti, príslušnosti k určitej sociálnej skupine alebo politického
+názoru". 7
+Utečenec musí požiadať o azyl v krajine, v ktorej sa nachádza, a získať postavenie
+utečenca v rámci azylového konania. Azyl sa udeľuje na dobu neurčitú a nemožno ho vrátiť do
+4
+
+OZNÁMENIE č. 208/1993 Z. z. o uzavretí Dohovoru o právnom postavení utečencov a Protokolu o právnom
+
+postavení utečencov.
+5
+
+DOHOVOR č. 143/1975 o zneužívaní migrácie a podpore rovnakých príležitostí a rovnakého zaobchádzania s
+
+migrujúcimi pracovníkmi.
+6
+
+LIĎÁK, J. 2010. Medzinárodná migrácia a Európa. Kolín: Nezávislé centrum pre štúdium politiky, s. 39. ISBN 978-
+
+80-86879-24-6.
+7
+
+OZNÁMENIE Ministerstva zahraničných vecí: Dohovor o právnom postavení utečencov .[online]. Dostupné na:
+
+<https://zakony.judikaty.info/predpis/oznamenie-319/1996>
+
+12
+
+krajiny pôvodu. Zároveň sa o neho musí postarať krajina, ktorá mu udelila azyl. Naopak, pojem
+migrant sa chápe ako osoba, ktorá dobrovoľne prichádza do novej krajiny s cieľom zlepšiť
+ekonomickú situáciu, študuje alebo sa sťahuje, aby bola s rodinou. Musia mať pri sebe platný
+cestovný doklad a platné vízum.8
+Ďalšími dôležitými pojmami sú reemigrácia a repatriácia. Reemigrácia znamená návrat
+emigrujúcich obyvateľov do ich pôvodnej krajiny. Repatriácia je na druhej strane vo
+všeobecnosti pripravená a organizovaná štátmi a môže byť dobrovoľná alebo nútená.
+Migráciu ako takú možno klasifikovať podľa rôznych kritérií. Primárne sa delia na trvalú
+a dočasnú migráciu. Okrem toho profesor Liďák rozlišuje medzi plánovanou a neplánovanou
+migráciou, legálnou a nelegálnou, dobrovoľnou alebo nútenou. Treba zdôrazniť, že jednotlivé
+príčiny sa prelínajú a navzájom sa ovplyvňujú. 9 Medzi hlavné dôvody medzinárodnej migrácie
+patria hospodárske, politické alebo náboženské dôvody.
+
+1.1 Typy migrácie
+Podľa OSN môžeme hovoriť o dvoch subjektoch cezhraničnej mobility a to:
+1) Osoby nespadajúce pod zahraničnú migráciu – ide o cezhraničných pracovníkov,
+tranzitných cudzincov, návštevníkov (turisti, účastníci zájazdov, obchodní cestujúci),
+zahraničný diplomatický personál, zahraničný vojenský personál
+2) Zahraniční migranti – cudzinci za účelom vzdelávania a školenia, cudzinci za účelom
+práce, migranti v súvislosti s vytváraním a zjednocovaním rodiny, cudzinci s povolením
+na pobyt, migranti z humanitárnych dôvodov, tolerované osoby, repatrianti,
+deportované osoby
+Organizácia spojených národov rozlišuje ďalej dve zásadné kategórie zahraničnej migrácie
+na základe dĺžky a viazanosti pohybu migranta v hostiteľskej krajine, a to na:
+1) Dlhodobú (od 12 mesiacov viac)
+
+8
+
+UTEČENCI
+
+V
+
+POČTOCH.
+
+2023.
+
+Ľudia
+
+v
+
+núdzi
+
+Česká
+
+republika.
+
+[online].
+
+Dostupné
+
+na:
+
+<https://www.clovekvtisni.cz/migracni-statistiky-4518gp>
+9
+
+LIĎÁK, J. 2010. Medzinárodná migrácia a Európa. Kolín: Nezávislé centrum politických štúdií, s. 41. ISBN 978-80-
+
+86879-24-6.
+
+13
+
+2) Krátkodobú (3 až 6 mesiacov)
+Medzinárodná organizácia pre migráciu (IOM) vytvorila obšírnejšie členenie zahraničnej
+migrácie:
+1) Tradičnú permanentnú migráciu ( emigráciu)
+2) Dlhodobú a krátkodobú migráciu
+Podľa názorov iných odborníkov môže byť kritériom členenia zahraničnej migrácie i
+motivácia migranta k migrácii teda či ide o nútené (migrácia vynútená okolnosťami - forced)
+alebo dobrovoľné (dobrovoľná migrácia - voluntary) rozhodnutie opustiť domovskú krajinu.
+Dôvodom nedobrovoľnej migrácie môže byť prenasledovanie, diskriminácia, ozbrojené
+konflikty, vojny, živelné katastrofy alebo iné situácie ohrozujúce životy, zdravie či slobodu.
+Medzi dôvody dobrovoľnej migrácie patria zamestnanie, štúdium, zjednotenie rodiny. V rámci
+pracovnej migrácie existujú rôzne kategórie migrantov, odlišujúce sa kvalifikáciou, dĺžkou
+pobytu či právnym štatútom. Ekonomický migranti sa zaoberajú rozličnými ekonomickými
+aktivitami počínajúc nízko valifikovanými prácami po vysoko sofistikované odbory, avšak ak
+hovoríme o ekonomických migrantoch nie je možné ich jednoznačne kategorizovať vzhľadom
+k tomu, že tieto kategórie sa navzájom prelínajú.
+Príčiny migrácie za prácou majú rôznorodý character a navzájom sa prelímajú. Jednotlivca
+ovplyvňujú rôzne činitele, no vo všeobecnosti ide osnahu získať lepšie zamestnanie a vyššiu
+mzdu (môžeme povedať - ekonomické činitele). Mohli by sme teda konštatovať, že dynamika
+vývoja migrácie za prácou má rastúcu tendenciu k čomu prispievajú aj politické či ekonomické
+zmeny v Európe. Ďalšími dôvodmi pracovnej migrácie môžu byť rodinné vzťahy, ozbrojené
+konflikty (neekonomické činitele) a rôzne iné.
+1.1.1 Migračné teórie
+K tým najznámejším migračným teóriám môžeme zaradiť:
+a) „Push a pull” teóriu. Podľa tejto teórie existujú tzv. „push” factory vypudzujúce
+potencionálneho migranta z krajiny pôvodu (napr. nepriaznivé ekonomické pomery,
+nízka životná úroveň) a na druhej strane tzv. „pull” factory (napr. vyššie mzdy, lepšie
+životné podmienky, skúsenosti iných migrantov), ktoré ho do cieľovej krajiny lákajú.
+Takáto osoba sa tak rozhoduje na základe porovnávania faktorov.
+14
+
+b) Makroekonomickú neoklasickú teóriu. Rozhodnutie migrovať je založené najmä na
+rozdieloch v mzdách, nerovnováhe medzi regionálnymi trhmi práce (v dopyte a v
+ponuke práce v imigračných a emigračných krajinách).
+c) Mikroekonomickú neoklalsická teóriu. Migrácia je chápaná ako investícia do ľudských
+zdrojov, migrant kalkuluje náklady a výnosy a samozrejme, očakáva zisk.
+d) Novú ekonómiu pracovnej migrácie. Migrant okrem maximalizácie zisku zo
+zahraničnej migrácie zvaţuje najmä minimalizáciu rizika z nej, vyzdvihuje pozíciu
+rodiny pri rozhodovaní o migrácii.
+e) Teóriu duálneho pracovného trhu. Existencia pracovných trhov s neutíchajúcim
+dopytom po lacnej a nízkokvalifikovanej pracovnej sile, kedy by zamestnávanie
+domácich pracovníkov viedlo k nárastu miezd na trhu práce a tým i k moţnej inflácii je
+jednou z nich. Sú to práve pracovníci zo zahraničia- migranti, ktorý akceptujú nízku
+mzdu a to z jediného dôvodu, a síce, ţe i táto nízka mzda v hostiteľskej krajine je vyššia,
+či dokonca oveľa vyššia ako tá v krajine pôvodu.
+
+f) Teóriu sociálnych sietí. Vychádza z existencie sociálnych sietí spájajúcich migrantov
+bývalých, súčasných, potencionálnych, či nemigrantov tak v hostiteľskej ako i vo
+vysielajúcej krajine. Sú to siete založené na rodine, priateľstve, skúsenostiach zvyšujúce
+tendenciu migrovať aj tým, že znižujú náklady na hľadanie práce, či bývanie, poskytujú
+financie, informácie, napomáhajú integrácii v cieľovej krajine.
+
+2
+
+EURÓPSKA MIGRAČNÁ KRÍZA
+
+Európska migračná kríza taktiež známa aj pod pojmom Európska utečenecká kríza je pojem
+používaný pre medzinárodnú politickú krízu v Európskej únii, ktorá bola spôsobená
+dramatickým nárastom počtu osôb migrujúcich do Európy. Napriek tomu, že počty migrantov
+narastali už od roku 2012 a od roku 2014 dochádzalo k ich prudkému vzostupu, pomenovanie
+„migračná kríza“ tak, ako je používané v tejto práci, sa začalo až od apríla 2015.
+
+15
+
+Migranti sa do centrálnych častí Európy dostávali prevažne po dvoch trasách –
+stredomorskou trasou zo severnej Afriky cez Stredozemné more a vybrané zeme južnej Európy
+a balkánskou trasou cez Turecko, Egejské more, Grécko a Macedónsko. V roku 2015 bolo v
+členských krajinách EÚ podaných cca 1 255 600 žiadostí o azyl, čo predstavuje viac ako
+dvojnásobok oproti predchádzajúcemu roku (562 680). Z toho najvyšší počet 362 800 žiadostí
+podali občania Sýrie, 178 200 občania Afganistanu a 121 500 občania Iraku. Okrem zemí
+Blízkeho východu (Sýria, Irak) a juhovýchodnej Ázie (Afganistan, Pakistan) pochádzali
+migranti aj z krajín Afriky (Eritrea, Nigéria, Sudán) a západného Balkánu (Kosovo, Srbsko,
+Albánsko). Najčastejšími cieľovými krajinami migrantov boli Nemecko (441 800 žiadostí),
+Maďarsko (174 400) a Švédsko (156 100), nasledované Rakúskom, krajinami južnej a severnej
+Európy či štátmi Beneluxu. Razantnejšie počty žiadateľov o azyl klesli až v roku 2017, kedy
+bolo podaných približne 705 000 žiadostí o azyl, čo je asi polovica žiadostí podaných v každom
+z rokov 2015 a 2016, kedy bola situácia najkritickejšia.10
+
+2.1
+
+Riešenie migračnej krízy v EÚ
+
+Dňa 14. a 18. apríla 2015 sa v Stredozemnom potopili mori dve lode vezúce migrantov a
+utečencov do Európy a v dôsledku tejto udalosti zahynulo podľa odhadov približne 1 100
+osôb.11 Ako reakcia na tieto udalosti bolo 23. apríla 2015 zvolané mimoriadne zasadnutie
+Európskej rady, na ktorom lídri krajín EÚ vyjadrili snahu mobilizovať všetko úsilie, aby sa
+predišlo ďalšiemu umieraniu ľudí na mori a vyriešili sa tak základné príčiny migrácie.
+13. mája 2015 prijala Európska komisia Európsky program v oblasti migrácie, ktorý
+pokrýval všetky oblasti migrácie a uvádzal konkrétne kroky a opatrenia v štyroch oblastiach
+pomenovaných ako „odstraňovanie neregulárnej migrácie, záchrana životov azabezpečenie
+vonkajších hraníc, silná azylová politika anová politika voblasti reálnej migrácie“12
+
+10
+
+Eurostat. 2016. Asylum in the EU Member States. Record number of over 1.2 million first time asylum seekers
+
+registered in 2015. Syrians, Afghans and Iraqis: top citizenships. Eurostat Newsrelease 44 [online]. Dostupné na:
+<https://ec.europa.eu/eurostat/documents/2995521/7203832/3- 04032016-AP-EN.pdf/790eba01-381c-4163bcd2-a54959b99ed6>
+11
+
+UNHCR. 2015. Mediterranean Crisis 2015 at six months: refugee and migrant numbers highest on record
+
+[online]. Dostupné na: <http://www.unhcr.org/news/press/2015/7/5592b9b36/mediterraneancrisis-2015-sixmonths- refugee-migrant-numbers-highest-record.html>
+12
+
+BOBOVÁ, Z. 2018. Analýza politického diskurzu migračnej krízy v krajinách V4. Diplomová práca. Masarykova
+univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských studií. Brno. s.7.
+
+16
+
+Európska komisia 27. mája 2015 predstavila prvý balík návrhov opatrení na riešenie
+migračnej krízy, ktorý bol nasledovaný druhým balíkom 9. septembra 2015. Obsahom balíkov
+bol návrh na núdzové premiestnenie osôb, ktoré potrebujú medzinárodnú ochranu, stály
+mechanizmus premiestnenia pre všetky členské štáty a niekoľko ďalších opatrení, medzi nimi
+boj proti prevádzaniu migrantov, stanovenie zoznamu bezpečných krajín pôvodu a účinnejšia
+politika návratu.
+22. septembra 2015 bolo na mimoriadnom zasadaní Rady ministrov vnútra krajín EÚ
+schválené rozhodnutie orelokácii 120000 osôb z Grécka aTalianska. Vzhľadom ktomu, že sa
+nepodarilo dosiahnuť konsenzu, bolo rozhodnutie prijaté po hlasovaní kvalifikovanou
+väčšinou. Proti návrhu hlasovali Česko, Slovensko, Maďarsko a Rumunsko, Fínsko sa zdržalo
+hlasovania.13
+Na jeseň 2015 sa otvorili rokovania v snahe zlepšiť spoluprácu s tretími krajinami s
+cieľom efektívnejšieho riešenia migračnej krízy. 25. októbra bol schválený akčný plán na
+zlepšenie spolupráce medzi krajinami pozdĺž západobalkánskej migračnej trasy, 12. novembra
+sa predstavitelia krajín EÚ dohodli na akčnom pláne s partnermi z afrických krajín, 29.
+novembra prijali spoločný akčný plán EÚ a Turecko. Tento zahŕňal zintenzívnenie politickej a
+finančnej angažovanosti EÚ aj intenzívnejšiu spoluprácu pri migrantoch, ktorí nepotrebujú
+medzinárodnú ochranu. Spolupráca medzi EÚ a Tureckom sa zintenzívnila na začiatku roku
+2016, 20. marca 2016 vstúpila do platnosti dohoda o presídlení migrantov z Grécka a Talianska
+do Turecka, v dôsledku ktorej došlo k stabilizácii situácie na stredomorskej a balkánskej trase
+a počet žiadateľov o azyl v EÚ začal klesať.14
+Skupina G7 na svojim summite 27. mája 2016 vyzvala, aby sa migračná kríza riešila
+globálne a lídri sa zaviazali zvýšiť celosvetovú pomoc utečencom a hostiteľským komunitám.
+7. júna bol predložený rámec partnerstva EÚ s tretími krajinami. Od 6. októbra 2016 začala
+fungovať Európska agentúra pre pohraničnú a pobrežnú stráž (Frontex), ktorej funkcia spočíva
+v monitorovaní vonkajších hraníc EÚ a identifikácii a riešení prípadných bezpečnostných
+hrozieb.
+V roku 2017 poukázali lídri EÚ na potrebu ďalších krokov pre zastavenie migračných
+tokov na stredomorskej trase s cieľom zastaviť migrantov z Líbye. Naliehali na uzavretie
+
+13
+
+BOBOVÁ, Z. 2018. Analýza politického diskurzu migračnej krízy v krajinách V4. Diplomová práca. Masarykova
+
+univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských studií. Brno. s.7.
+14
+
+Eurostat. 2018. Asylum statistics [online]. Dostupné na: <https://ec.europa.eu/eurostat/statistics-
+
+explained/index.php/Asylum_statistics>
+
+17
+
+readmisných dohôd s nečlenskými krajinami EÚ a na reforme spoločného európskeho
+azylového systému. 14.-15. decembra 2017 sa konalo zasadnutie Rady EÚ, na ktorom bola
+preskúmaná migračná politika EÚ. Lídri rokovali o tom, čo sa v oblasti tejto politiky za
+posledné roky podarilo či nepodarilo dosiahnuť, o spôsoboch posilnenia tejto politiky a tiež
+vyjadrili úsilie dosiahnuť dohodu o reforme dublinského systému.15
+Pre účely tejto práce sú pre časové ohraničenie udalosti migračnej krízy použíité ako
+orientačné body práve prvé zasadnutie Rady EÚ k tejto udalosti z 23. apríla 2015 a zasadnutie
+Rady EÚ zo 14-15. decembra 2017.16
+2.1.1 Hlavné migračné trasy smerujúce do krajín EÚ
+•
+
+Trasa cez východné Stredozemie
+
+Trasa cez východné Stredozemie sa týka neoprávnených príchodov do Grécka, na
+Cyprus a do Bulharska. V roku 2015 prišiel do EÚ touto cestou veľký počet utečencov
+hľadajúcich útočisko pred vojnou v Sýrii.
+Po období s nízkym počtom príchodov vďaka spolupráci medzi EÚ a Tureckom sa v roku 2022
+začal počet neoprávnených príchodov do Grécka opäť zvyšovať. Od roku 2020 sa výrazne
+zvýšil migračný tlak na Cyprus.
+•
+
+Trasa cez západné Stredozemie
+
+Trasa cez západné Stredozemie sa týka neoprávnených príchodov do Španielska, a to po
+mori do kontinentálneho Španielska, ako aj po súši do španielskych enkláv Ceuta a Melilla
+v severnej Afrike.
+Túto trasu väčšinou využívajú migranti z Alžírska a Maroka, ale pokúšajú sa ňou dostať do
+Európy aj ľudia z mnohých krajín subsaharskej Afriky.
+•
+
+Trasa cez západnú Afriku
+
+Trasa cez západnú Afriku sa vzťahuje na príchody na Kanárske ostrovy v Atlantickom
+oceáne, kam prichádzajú migranti z Maroka, Západnej Sahary, Mauritánie, Senegalu a Gambie.
+
+15
+
+European Council. 2018. Timeline - response to migratory pressures. [online]. Dostupné na:
+
+<https://www.consilium.europa.eu/en/policies/migratory-pressures/history-migratory-pressures/#>
+16
+
+BOBOVÁ, Z. 2018. Analýza politického diskurzu migračnej krízy v krajinách V4. Diplomová práca. Masarykova
+
+univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských studií. Brno. s.8-9
+
+18
+
+Tu došlo po vysokých počtoch neoprávnených príchodov v rokoch 2020 a 2021 v roku 2022
+k výraznému poklesu.
+•
+
+Trasa cez centrálne Stredozemie
+
+Trasa cez centrálne Stredozemie sa vzťahuje na neoprávnené príchody po mori do
+Talianska a na Maltu. Migranti zo severnej Afriky, Blízkeho východu, južnej Ázie
+a subsaharskej Afriky prechádzajú najmä cez Líbyu a potom na svojej ceste do Európy
+pokračujú cez Tunisko a Turecko.
+Po dvoch rokoch nízkeho počtu neregulárnych migrantov na tejto trase sa v roku 2020 začal
+počet osôb, ktoré ju využívajú, opäť zvyšovať a v roku 2022 dosiahol výrazný nárast.
+•
+
+Západobalkánska trasa
+
+Západobalkánska trasa sa vzťahuje na neoprávnené príchody do EÚ (najmä do Bulharska,
+Chorvátska, Maďarska a Rumunska) cez tieto krajiny: Albánsko, Bosnu a Hercegovinu,
+Čiernu Horu, Kosovo*, Severné Macedónsko a Srbsko.
+Je jednou z hlavných migračných trás do Európy. Počet osôb prichádzajúcich do Európskej
+únie dosiahol rekordnú úroveň v roku 2015. V nasledujúcich rokoch sa počet neregulárnych
+migrantov, ktorí si zvolili túto trasu, niekoľko rokov neustále znižoval. Od roku 2019 však začal
+opäť rásť a v roku 2022 sa tlak výrazne zvýšil.
+
+2.2 Migračná kríza na vlastnej koži
+Mnohé európske krajiny už pociťujú migračnú krízu na vlastnej koži. Na všetko však
+najviac doplácajú Sýrčania a Afganci. Nie je to ešte také dramatické ako počas krízy v roku
+2015, keď Európu zaplavilo viac ako milión migrantov. No už pri letmom pohľade na štatistiky
+nám to začína byť jasné ako aj mnohým európskym politikom. Európa popri energetickej,
+ukrajinskej a inflačnej kríze zažíva aj ďalšiu krízu, a to utečeneckú. Je neviditeľnejšia ako tie
+predošlé, ale začína ju byť cítiť čoraz viac. A doplácajú na ňu v prvom rade samotní migranti
+utekajúci pred diktátormi, islamistickým režimom či v snahe prežiť.
+
+19
+
+„Sme v utečeneckej kríze,“ priznal belgický premiér Alexander De Croo. „Ale vzbudzuje
+menej pozornosti, pretože tu máme naraz tri ďalšie krízy.“17
+•
+
+Cítiť to vonku aj vo vnútri
+
+Počty zachytených migrantov stúpajú ako na vonkajších, tak aj na vnútorných hraniciach
+schengenu. Zvonku to podobne ako v roku 2015 najviac cítia krajiny ako sú Maďarsko, Grécko
+či Taliansko. Vnútri zase opäť Nemecko, ale aj Spojené kráľovstvo, ktoré už na rozdiel od
+minulosti nie je súčasťou Európskej únie. Na súčasnú migračnú krízu však najviac doplácajú
+ľudia z Afganistanu či Sýrie, ktorí hoci utekajú pred diktátormi z Talibanu či sýrskym vodcom
+Baššárom al-Asadom, už v Európe nie sú takí vítaní ako predtým. Obeťami novej krízy môžu
+byť aj Rumunsko a Bulharsko, ktoré už 15 rokov od vstupu do EÚ márne čakajú aj na vstup do
+schengenu a teraz sa im tento sen ešte viac vzďaľuje.
+•
+
+Krízu vidieť v Bruseli, Británii aj vo Francúzsku
+
+Mnohé krajiny to už cítia na vlastnej koži a pre belgický portál Politico o tom hovoril aj
+vyššie spomenutý belgický premiér. Práve portál Politico, ktorému poskytol rozhovor, už
+dávnejšie zverejnil článok o tom, ako sa priamo pred európskymi inštitúciami začínajú
+hromadiť sýrski či afganskí utečenci, ktorí nedostali povolenie na pobyt a stávajú sa z nich
+bezdomovci.
+Krízu vidieť aj v Spojenom kráľovstve, ktoré sa najnovšie dohodlo s Francúzskom na tom,
+že bude financovať zvýšené počty francúzskych pohraničiarov. Tí majú dohliadať na to, aby z
+Francúzska cez Lamanšský prieliv neprúdilo toľko migrantov.
+Utečeneckú krízu pocítilo aj Slovensko, keď Rakúsko ešte na prelome septembra a októbra
+2022 zaviedlo kontroly na našich hraniciach. Podľa portálu National News tak obaja naši
+západní susedia vyhoveli žiadosti Nemecka, ktoré prílev utečencov začína pociťovať najviac
+spomedzi krajín EÚ, rovnako ako to bolo v roku 2015.
+•
+
+Sme súčasťou trasy cez Balkán
+
+Dôvodom je najmä prílev utečencov cez našu hranicu s Maďarskom. Stali sme sa tak
+súčasťou takzvanej balkánskej trasy, ktorá siaha ďalej na juh cez Chorvátsko či Srbsko až ku
+17
+
+ŠTRBA, P. Aktuality.sk. 2022. Migračná kríza sa vracia do Európy, no Západ sa zatvára. Doplácajú na to Slováci,
+
+ale najmä utečenci. [online]. Dostupné na: <https://www.aktuality.sk/clanok/kUfe4lq/migracna-kriza-sa-vraciado-europy-no-zapad-sa-zatvara-doplacaju-na-to-slovaci-ale-najma-utecenci/>
+
+20
+
+Grécku a začína sa v Turecku. Práve Turecko je často hlavnou destináciou, kde utečenci zo
+Sýrie a Afganistanu hľadajú prvé bezpečnejšie útočisko. V prípade Afganistanu sa to všetko
+ešte zhoršilo keď sa americké vojská po 20 rokoch stiahli z krajiny a definitívne ju ponechali
+islamistom z hnutia Taliban. Tí tam začali okamžite opäť vyháňať dievčatá zo škôl, ženám
+prikazovať nosenie šatiek a krajina sa tak vrátila mnoho rokov dozadu. V Sýrii zase stále vládne
+diktátor Baššár al-Asad, ktorého vytrvalo podporuje režim ruského diktátora Vladimira Putina.
+Afganci a Sýrčania tvoria spolu s Ukrajincami najvyšší podiel žiadateľov o európsky azyl. No
+zatiaľ čo príliv Ukrajincov sa stabilizoval a prakticky už nerastie tak razantne, žiadateľov z
+Afganistanu a Sýrie v Európe pribúda. V prípade oboch blízkovýchodných krajín už v lete
+zaznamenali 30-percentný nárast žiadostí o azyl v EÚ. No viaceré západné krajiny sa voči
+sýrskym a afganským utečencom začali stavať čoraz odmietavejšie.
+•
+
+Európa zatvára dvere
+
+Najnovším príkladom je kedysi tradične liberálne Dánsko. Tamojšia vláda tam voči
+utečencom zo Sýrie prakticky zaviedla nulovú toleranciu, keď vyhlásila, že prestane prijímať
+žiadosti o azyl od ľudí z Damašku. Výnimkou sú muži, ktorých by Asad mohol nútiť do
+vojenskej služby. Podľa expertov na dánsku politiku na tento fakt najviac doplácajú práve
+sýrske ženy a deti, na ktoré sa tieto výnimky nevzťahujú. Mimovládne organizácie krok Dánska
+odsúdili a samotné Dánsko zase označili za jedinú krajinu EÚ, ktorá razí podobnú politiku.
+Podobná situácia je v ďalšej severskej krajine – vo Švédsku. Nový premiér Ulf Kristersson je
+vzhľadom na tesný výsledok volieb závislý aj od krajne pravicovej strany Švédski demokrati a
+prisľúbil tvrdšiu politiku voči migrantom.
+Ďalším príkladom môže byť rakúska dedinka St. Georgen a svedčí o tom, ako ani na
+národnej úrovni nefunguje v Európe riešenie migrácie dokonale. Miestny starosta tam nariadil
+zbúrať 17 provizórnych stanov, ktoré tam postavili pre migrantov. Najskôr tvrdil, že stany by
+neprežili väčšiu búrku, ale neskôr priznal, že miestni obyvatelia sa obávali migrantov. Únia
+zatiaľ rovnako ako v roku 2015 nenašla spoločné riešenie na túto migračnú krízu. A opäť sa
+opakuje scenár, keď jednotlivé krajiny reagujú samostatne. A namiesto riešenia krízy radšej
+pristupujú k riešeniu, ktoré sa neosvedčilo ani vtedy a ktorým len odsúvajú problém tým, že
+zatvárajú vlastné hranice. Okrem Slovenska, ktoré malo sprísnené kontroly na hraniciach s
+Českom a Rakúskom si to odniesli aj dve najchudobnejšie krajiny EÚ, zhodou okolností
+balkánske. Rumunsko a Bulharsko stále márne dúfajú, že ako posledné krajiny Únie vstúpia do
+
+21
+
+schengenského priestoru. No v čase stupňujúcej sa migračnej krízy sa aj samotné krajiny vnútri
+schengenu navzájom uzatvárajú a bezhraničná zóna tak opäť prestáva byť územím bez hraníc.18
+
+2.3
+
+Migrácia na Slovensku
+
+Slovensko nepatrí k tradičným cieľovým krajinám migrantov. Je kultúrne homogénnou
+krajinou, ktorej sa nedotkol dramatický nárast migrácie v priebehu 20. storočia. Až donedávna
+bola Slovenská republika takmer výlučne krajinou pôvodu migrantov, teda krajinou, z ktorej
+občania z rôznych dôvodov migrovali do cudziny.
+Výraznejšie zmeny priniesol až vstup Slovenska do Európskej únie a schengenského
+priestoru. V období od roku 2004 v Slovenskej republike poklesla najmä nelegálna a azylová
+migrácia a osemnásobne sa zvýšila legálna migrácia. Aj napriek tomu, že rast populácie
+cudzincov na Slovensku bol v rokoch 2004 – 2008 spomedzi všetkých členských štátov EÚ
+druhý najvyšší, zastúpenie cudzincov v populácii, v porovnaní s inými štátmi EÚ, zostáva na
+nízkej úrovni.19
+Migračná politika SR rešpektuje tradičné piliere azylovej politiky a zároveň podporuje
+nové formy poskytovania ochrany v súvislosti s novými výzvami medzinárodného
+spoločenstva. Určujúcimi faktormi ďalšieho vývoja v oblasti medzinárodnej ochrany v
+podmienkach SR budú najmä prípadné výsledky prebiehajúcich rokovaní o reforme
+Spoločného európskeho azylového systému.
+SR sa od svojho vzniku hlási k ochrane osôb, ktoré sa v dôsledku hroziaceho vážneho
+bezprávia vo svojich krajinách alebo hroziaceho prenasledovania pre svoje politické
+presvedčenie, národnú, rasovú alebo náboženskú príslušnosť, ako aj z dôvodu príslušnosti k
+určitej sociálnej skupine nemôžu alebo nechcú vrátiť do krajiny svojho pôvodu. V súlade so
+svojimi medzinárodnými záväzkami, európskou a vnútroštátnou legislatívou, poskytuje SR
+viaceré formy ochrany, či už ide o udelenie azylu alebo poskytnutie doplnkovej ochrany,
+vrátane zlúčenia rodiny alebo udelenia azylu zhumanitných dôvodov. Rovnako sa s
+prihliadnutím na vlastné kapacity a možnosti v rámci prejavu solidarity s najviac postihnutými
+
+18
+
+ŠTRBA, P. Aktuality.sk. 2022. Migračná kríza sa vracia do Európy, no Západ sa zatvára. Doplácajú na to
+Slováci, ale najmä utečenci. [online]. Dostupné na: <https://www.aktuality.sk/clanok/kUfe4lq/migracna-krizasa-vracia-do-europy-no-zapad-sa-zatvara-doplacaju-na-to-slovaci-ale-najma-utecenci/>
+19
+IOM. 2023. Migrácia na Slovensku. [online]. Dostupné na: <https://iom.sk/sk/migracia/migracia-naslovensku.html>
+
+22
+
+krajinami aktívne a na základe dobrovoľnosti zapája do iných humanitárnych riešení, či už
+v podobe poskytovania humanitárneho transferu, presídľovania ohrozených osôb z tretích
+krajín alebo relokácií migrantov z iných členských krajín EÚ.
+Prioritami SR v oblasti medzinárodnej ochrany je najmä:
+•
+
+udeľovať azyl v súlade s medzinárodnými záväzkami, európskou a vnútroštátnou
+legislatívou, na základe individuálneho posúdenia každej žiadosti v súlade so
+Ženevským dohovorom z roku 1951 o právnom postavení utečencov a Newyorským
+protokolom z roku 1967, týkajúcim sa právneho postavenia utečencov;
+
+•
+
+poskytovať doplnkovú ochranu v súlade s európskou a vnútroštátnou legislatívou;
+
+•
+
+aktívne participovať na prebiehajúcich rokovaniach o reforme Spoločného
+európskeho azylového systému. Najvyššou prioritou na všetkých úrovniach rokovaní
+pritom zostáva cieľ zabrániť schváleniu systému povinného premiestňovania
+(relokácie) žiadateľov o azyl. Je tiež potrebné vnímať všetky predložené legislatívne
+návrhy ako
+
+•
+
+s využitím nadobudnutých praktických skúseností jednotlivých členských štátov EÚ
+a pri zachovaní rozhodovacej právomoci vo veci poskytovania medzinárodnej
+ochrany na národnej úrovni;
+
+•
+
+zapájať sa v rámci prejavu solidarity a pri zohľadnení svojich kapacitných možností
+do regionálnych a medzinárodných procesov zdieľania bremena dôsledkov nútenej
+migrácie na báze dobrovoľnosti;
+
+•
+
+zabezpečiť prvotnú systémovú úpravu integrácie osôb sudelenou medzinárodnou
+ochranou zo strany štátu;
+
+•
+
+vysielať expertov prostredníctvom EASO do krajín najviac zaťažených migračnou
+krízou.20
+
+20
+
+MV SR. 2023. Migračná politika Slovenskej republiky s výhľadom do roku 2025. [online]. s. 7-8. Dostupné na:
+
+<https://www.minv.sk/?zamer-migracnej-politiky-slovenskej-republiky>
+
+23
+
+2.3.1
+
+Koľko ľudí prichádza k nám?
+
+278 595: Počet cudzincov s povolením na pobyt na Slovensku v decembri 20222
+•
+
+Ich podiel na celkovej populácii Slovenska predstavuje 5,13 %.3
+
+•
+
+Od vstupu SR do EÚ v roku 2004 počet cudzincov legálne žijúcich v SR narástol
+skoro dvanásťnásobne (z 22 108 migrantov v roku 2004 na 278 595 v roku 2022).
+
+•
+
+Ak by sa všetci cudzinci v SR sústredili na jednom mieste, vytvorili by mesto ako
+Košice a Poprad dokopy.
+
+3.: Slovensko má spomedzi krajín Európskej únie tretí najnižší podiel cudzincov4
+•
+
+Nižší podiel cudzincov na celkovom počte obyvateľstva má Poľsko (1,21 %) a
+Rumunsko (0,75 %).
+
+•
+
+Zo susedných krajín má vyšší podiel migrantov Česko (5,96 %) a Rakúsko (16,99
+%).
+
+•
+
+Pre vojnu na Ukrajine boli nútení opustiť svoje domovy a Ukrajinu milióny ľudí.
+Aktuálnu situáciu v migrácii z Ukrajiny do susedných štátov a ďalších štátov
+Európy, ako aj migračné toky na Ukrajinu, uvádza UNHCR.5
+
+67,5 %: Podiel občanov Českej republiky, Maďarska, Poľska, Rakúska a Ukrajiny v SR na
+počte cudzincov6
+•
+
+Tradične najpočetnejšiu kategóriu cudzincov u nás predstavujú občania
+susedných krajín, ktorých k Slovensku často viažu hlbšie pracovné, rodinné a iné
+sociálne väzby.
+
+•
+
+Ďalšou významnou skupinou migrantov sú občania juho- a východoeurópskych
+krajín (Rumunsko, Bulharsko, Rusko, Srbsko), ktorí tvoria 12,3 % všetkých
+cudzincov na Slovensku.
+
+•
+
+Občania z týchto krajín sformovali u nás v minulosti svoje komunity a ich rady
+ďalej rozširujú krajania prichádzajúci za štúdiom, prácou alebo z rodinných
+dôvodov.
+
+•
+
+Migranti z ázijských krajín (Vietnam, Čína, Kórejská republika a Thajsko), ktorí
+v minulosti boli dynamicky sa rozvíjajúcou skupinou cudzincov na Slovensku a
+
+24
+
+v súčasnosti sa nárast ich počtu spomalil, tvoria spolu 4,6 % všetkých cudzincov
+na Slovensku, ich počet dosiahol 12 866.
+20 %: Občania krajín Európskej únie tvoria jednu pätinu všetkých cudzincov na Slovensku
+•
+
+Najviac cudzincov z krajín EÚ na Slovensku pochádza z Českej republiky (12
+755), je ich 4,6 % z celkového počtu cudzincov v SR.7
+
+•
+
+Z krajín EÚ okrem občanov Maďarska (3,5 %), Rumunska (2,5 %) a Poľska (6,2
+%) majú početné zastúpenie aj občania Nemecka (1,6 %) a Talianska (1,1 %).
+
+1/2: Podiel občanov Ukrajiny na celkovom počte cudzincov v SR (56,3 %); Ukrajinci majú na
+Slovensku najpočetnejšie zastúpenie občanov z krajín EÚ aj mimo EÚ7
+•
+
+Spomedzi cudzincov z krajín mimo EÚ majú po Ukrajincoch (156 881) najväčšie
+zastúpenie na Slovensku občania Srbska (18 215), Vietnamu (8 215), Ruskej
+federácie (7 436) a Severného Macedónska (2 842).
+
+•
+
+Významný nárast zaznamenala skupina občanov z Ukrajiny, ktorí prichádzali na
+Slovensko v dôsledku vojny v ich rodnej krajine.
+
+79,9 %: Podiel občanov z krajín mimo EÚ na celkovom počte cudzincov na Slovensku
+•
+
+Tento podiel predstavuje cca 4,1 % celkovej populácie SR.
+
+•
+
+Ak by sa sústredili na jednom mieste, s populáciou 222 525 ľudí by občania z
+krajín mimo EÚ na Slovensku vytvorili mesto veľké takmer ako Košice.
+
+87 998: Počet cudzincov zamestnaných v SR v roku 20228
+•
+
+Na 28 domácich zamestnancov tak v súčasnosti pripadá jeden zamestnaný
+cudzinec.9
+
+•
+
+Počet zamestnaných cudzincov v SR od jej vstupu do EÚ u nás vzrástol viac ako
+26-násobne – z 3 351 osôb v roku 2004 na 87 998 v decembri 2022, z čoho bolo
+56 876 štátnych príslušníkov krajín mimo EÚ.
+
+•
+
+V roku 2022 boli u nás zamestnaní cudzinci z približne 140 štátov sveta, najviac
+z Ukrajiny (33 419, zo Srbska (9 798), Rumunska (7 025), Česka (6 514) a
+Maďarska (5 574) .10
+
+25
+
+•
+
+Medzi pracujúcimi migrantmi výrazne prevyšujú muži, ktorí tvoria 62 % všetkých
+zamestnaných cudzincov.11
+
+11 791: Počet cudzincov, ktorí v roku 2022 nelegálne prekročili hranice alebo sa neoprávnene
+zdržiavali na území SR12
+•
+
+Od vstupu Slovenska do Európskej únie do roku 2014 poklesla v SR nelegálna
+migrácia osemnásobne: z 10 946 nelegálnych migrantov v roku 2004 na 1 304
+migrantov v roku 2014.
+
+•
+
+V roku 2020 počet cudzincov, ktorí nelegálne prekročili hranice alebo sa
+neoprávnene zdržiavali na území SR, bol 1 295, v roku 2021 stúpol na 1 769 a v
+roku 2022 stúpol na 11 791.13 Jedným z dôvodov nárastu bol zvýšený migračný
+tok tranzitnej migrácie na trase zo západného Balkánu.
+
+547: Počet žiadostí o azyl v SR v roku 202214
+•
+
+O azyl v SR v roku 2022 najčastejšie žiadali občania Ukrajiny, Turecka, Maroka,
+Bangladéša a Ruskej federácie.
+
+•
+
+V roku 2022 Slovenská republika udelila azyl 23 osobám.
+
+•
+
+Na porovnanie: V roku 2004 požiadalo o udelenie azylu v SR 11 395 ľudí; za
+posledné roky sa počet žiadostí o azyl ustálil na niekoľko stoviek ročne.16
+
+•
+
+Z celkového počtu 60 242 žiadostí o azyl od roku 1993 bol azyl udelený 926
+osobám a 853 osobám bola udelená doplnková ochrana ako ďalšia forma
+medzinárodnej ochrany.21
+
+(údaje sú aktualizované na stránke IOM k 27.3.2023)
+
+2.4
+
+Integrácia migrantov do spoločnosti
+
+Migrácia a migračná politika veľmi úzko súvisia s témou integrácie migrantov. Integrácia
+migrantov je proces začleňovania migrantov do fungovania spoločnosti. Výsledkom tohto
+procesu je, že postavenie migrantov, ich životné šance a perspektívy sú podobné ako v prípade
+21
+
+IOM. 2023. Migrácia na Slovensku. [online]. Dostupné na: <https://iom.sk/sk/migracia/migracia-na-
+
+slovensku.html>
+
+26
+
+väčšinovej spoločnosti. Integračná politika tvorí súbor nástrojov, ktoré majú dopomôcť tomu,
+aby sa migranti úspešne začlenili do života v hostiteľskej krajine.
+Dôležitosť integrácie alebo začlenenia migrantov do spoločnosti je zdôrazňovaná preto,
+lebo ak neprebehne úspešne, migranti zostávajú na okraji spoločnosti. Hovoríme, že dochádza
+k ich marginalizácií (sú nadmerne zastúpení v najnižších vrstvách spoločnosti) alebo segregácii
+(žijú v izolovaných komunitách). Neúspešný proces integrácie vedie k tomu, že migranti majú
+problém nájsť si lepšie platenú prácu, získať vyššie vzdelanie, ich šance prudko klesajú, ak sa
+im nepodarí naučiť sa jazyk hostiteľskej krajiny. Často dochádza k ich diskriminácii a k ich
+zneužívaniu v podobe lacnej pracovnej sily. Prežívanie na okraji spoločnosti ich často núti voliť
+životné rozhodnutia, ktoré môžu byť v rozpore so zákonom.
+Veľmi často sa zdôrazňuje najmä ekonomická stránka integrácie, teda že migranti si
+musia pre seba nájsť v novej krajine prácu, aby boli ekonomicky nezávislí a sebestační. Avšak
+integrácia sa týka každej oblasti života. Pre migrantov je dôležité mať nielen prácu a zárobok,
+ale aj bývanie, možnosti vzdelávania pre seba a svoje deti, prístup k zdravotnej starostlivosti či
+sociálnych službám.
+Ukazuje sa, že okrem ekonomickej integrácie je veľmi dôležitá aj občianska, politická ako
+aj kultúrna integrácia. Integrácia migrantov v týchto oblastiach znamená, že migranti majú
+možnosť byť súčasťou občianskej spoločnosti (občianskych združení, spolkov, komunít),
+participovať na politickom (právo voliť a byť volený) a kultúrnom živote spoločnosti (mať
+možnosť ponechať si svoje kultúrne špecifiká). Vďaka úspešnému začleneniu migrantov v
+týchto oblastiach života sa môžu migranti cítiť byť plnohodnotnou súčasťou spoločnosti a
+vytvorí sa u nich pocit prináležania k hostiteľskej krajine. Ak sa tak nestane migranti majú často
+pocit menejcennosti a vykorenenia, majú pocit, že nepatria už ani do svojej krajiny pôvodu, ale
+ani do novej hostiteľskej krajiny. S týmto problémom sa stretávame nielen v prípade tzv. prvej
+generácie migrantov, ale často aj v ďalších generáciách, ktoré sa už v hostiteľskej krajine
+narodili, dokonca môžu byť už jej občanmi.
+Cieľom integračných politík by teda mali byť praktické otázky života migrantov, ale aj
+snaha vytvoriť všeobecné povedomie o tom, že migranti sú plnohodnotnou súčasťou
+spoločnosti. Obvykle nie je potrebné vytvárať samostatné politiky a opatrenia zamerané na
+migrantov, stačí len v rámci existujúcich politík pamätať na to, že sú tu špecifické skupiny ako
+
+27
+
+napríklad migranti, ktorí môžu mať odlišné postavenie a potreby. Takýto prístup k migrantom
+vo verejných politikách sa nazýva integračný mainstreaming.22
+SR sa prikláňa k integračnému modelu, ktorý je založený, okrem dodržiavania slovenskej
+legislatívy, aj na rešpektovaní kultúrnych reálií, jazyka a tradícií SR cudzincami. Očakáva sa,
+že integračné opatrenia budú viesť k existencii koordinovaných a navzájom prepojených
+nástrojov a opatrení, ktoré umožnia cudzincom zaradiť sa na pracovný trh, ovládať štátny jazyk,
+mať prístup k vzdelaniu, zdravotnej starostlivosti, sociálnym službám, bývaniu umožniť ich
+účasť na občianskom a politickom živote, prípadne môžu viesť k udeleniu štátneho občianstva
+Slovenskej republiky. Cieľom SR v oblasti integrácie cudzincov v rámci migračnej politiky je
+najmä zaistiť dlhodobo bezproblémové spolunažívanie všetkých obyvateľov SR. Cielené
+integračné opatrenia zabezpečia cudzincom dôstojné podmienky pre život, čím predídu vzniku
+prípadných negatívnych sociálnych javov. Cieľom SR je aj posilnenie a rozšírenie možností,
+spôsobu a foriem financovania integračných opatrení s dôrazom na systémové financovanie a
+efektívne využívanie finančných prostriedkov z fondov EÚ a ďalších alternatívnych
+mimorozpočtových zdrojov.23
+
+3
+
+OČAKÁVANÁ ROLA ZO STRANY EÚ
+
+Otázku spoločnej migračnej a azylovej politiky na pôde EÚ je potrebné vnímať
+v kontexte kolízie medzivládneho a nadnárodného prístupu. Tradične otázka migrácie a azylu
+spadá do národných politík a kompetencie jednotlivých štátov. Je možné preto vysledovať
+afinitu vo vzťahu k suverenite a určitú zdržanlivosť a neochotu medzi ČŠ presúvať
+kompetencie a zodpovednosť na EÚ. Globálny charakter a dynamika migrácie v posledných
+dekádach si však podľa mnohých vyžaduje spoločný a koordinovaný postup. Z tohto hľadiska
+je ťažiskovým Amsterdamská reforma maastrichtského chrámu, ktorá znamenala krok ku
+„supranacionalizácii“ migračnej politiky. Reforma totiž komunitarizovala časť jednotlivých
+problémov v rámci spolupráce v oblasti vnútra, justície a polície. Otázky vízovej, azylovej
+a prisťahovaleckej politiky boli vybraté z pôvodnej hlavy VI. Zmluvy o EÚ a presunuté z III.
+
+22
+
+Centrum
+
+pre
+
+výskum
+
+etnicity
+
+a kultúry.
+
+2016.
+
+[online].
+
+Dostupné
+
+na:
+
+<http://cvek.sk/wp-
+
+content/uploads/2016/02/Manuál_Rozumne-o-migracii_finalna-verzia.pdf>
+23
+
+MV SR. 2023. Migračná politika Slovenskej republiky s výhľadom do roku 2025. [online]. s. 8. Dostupné na:
+
+<https://www.minv.sk/?zamer-migracnej-politiky-slovenskej-republiky>
+
+28
+
+do I. piliera maastrichtského chrámu. Dôsledkom toho sa v týchto otázkach hlasuje
+kvalifikačnou väčšinou v Rade EÚ. Tým jednotlivé ČŠ stratili právo veta, ktoré im zaručovalo
+hlasovanie konsenzom (jednomyseľnosť) pri spoločnom postupe v Rade. Spoločná politika
+Únie v oblasti azylu, imigrácie, víz a kontroly vonkajších hraníc vychádza z Hlavy V. ZFEÚ
+(Priestor slobody, bezpečnosti a spravodlivosti). V tejto oblasti Únia vykonáva spoločne
+právomoc s členskými štátmi.
+
+3.1 Očakávania od členského štátu
+Vychádzajúc z primárneho práva EÚ, je úlohou ČŠ podieľať sa na tvorbe spoločnej
+politiky v oblasti prisťahovalectva s cieľom zabezpečiť vo všetkých etapách účinné riadenie
+migračných tokov, spravodlivé zaobchádzanie so štátnymi príslušníkmi tretích krajín, ktorí sa
+oprávnene zdržiavajú v členských štátoch, ako aj predchádzanie a posilnený boj proti
+nelegálnemu prisťahovalectvu a obchodovaniu s ľuďmi. V oblasti azylu sa majú štáty podieľať
+na tvorbe spoločnej politiky s cieľom poskytnúť zodpovedajúce právne postavenie každému
+štátnemu príslušníkovi tretej krajiny, ktorý potrebuje medzinárodnú ochranu, a zabezpečiť
+súlad so zásadou non-refoulement. Od ČŠ sa následne očakáva implementácia jednotlivých
+právnych predpisov, tzv. sekundárneho práva. Zároveň sa činnosť v týchto oblastiach riadi
+zásadou solidarity a spravodlivého rozdelenia zodpovednosti medzi ČŠ (vrátane finančných
+dôsledkov).
+Slovensko je v rámci svojho členstva v EÚ považované za tzv. malý ČŠ. Taktiež patrí
+k novým ČŠ v rámci východného rozširovania. Podľa mnohých autorov malé ČŠ nezvyknú
+mať jasnú a silnú predstavu a pohlaď na mnohé problematiky. Z toho dôvodu zvyknú
+inklinovať k podpore Komisie v jej návrhoch. Vďaka tomu dokážu uchovať limitovaný
+politický kapitál pre prípady, kedy je daná problematika skutočne v centre ich národného
+záujmu. Slovensko zároveň patrí k novým ČŠ s post-komunistickou minulosťou. Voči týmto
+krajinám môžu byť zo strany EÚ stále vnímané obavy o ich plnej adaptácii demokratickej
+politickej kultúry na úroveň EÚ.24 Tradične je, resp. bolo Slovensko vnímané ako krajina, ktorá
+
+24
+
+KAROLEWSKI, P. a BENEDIKTER, R.
+
+Europe's Migration Predicament: The European Union's Refugees'
+
+Relocation Scheme versus the Defiant Central Eastern European Visegrád Group. S. 41.
+
+29
+
+pasívne prijíma rozhodnutia, akýsi tichý a „poslušný študent“, ktorý napĺňa požiadavky v snahe
+dosiahnuť najvyšší možný stupeň integrácie a dostať sa do jadra EÚ.25
+
+3.2 Očakávania od predsedajúceho štátu rade EÚ
+V mnohých prípadoch dochádza k asociácii role s pozíciou, akú daný subjekt zastáva
+v rámci sociálnej štruktúry s pevnými očakávaniami ohľadne výkonu. V prípade rotujúceho
+predsedníctva v Rade EÚ existujú formálne (v procese dlhodobého fungovania sa ustálili aj
+neformálne) ukotvenia, ako by daná rola v danej pozícii mala prebiehať. V momente, keď SR
+1. júla 2016 prebrala na 6 mesiacov predsedníctvo, zmenila sa jej pozícia v štruktúre. Spolu so
+zmenou pozície dochádza aj ku zmene očakávaní, ktoré mohli a boli na ňu kladené. Očakávania
+prisudzované pozícii predsedajúcej krajiny tak boli prenesené na SK PRES.
+Predsedníctvo Rady vykonávajú vopred určené skupiny troch ČŠ počas obdobia 18
+mesiacov, 6 mesiacov každý. Princíp tzv. trojky, resp. tria zabezpečuje kontinuitu
+predsedníctiev a svojím programom vytyčuje základné programové mantinely. Oproti iným
+inštitúciám alebo funkciám EÚ má predsedníctvo slabé teoretické vymedzenie svojich
+princípov. Rotačná rovnosť je jediný princíp, ktorý vychádza a je ukotvený v rámci primárneho
+práva EÚ.
+Z formálneho hľadiska sú predsedníctvu pripisované nasledujúce funkcie. Očakáva sa,
+že predsedajúca krajina bude dané funkcie plniť. V prvom rade sa od každého predsedníctva
+očakáva, že urobí maximum pre svoj hladký priebeh. Rovnako sa očakáva nastavenie
+politických priorít (agenda-management), zavádzanie nových tém (agenda-setting),
+zvýrazňovanie jednotlivých agiend (agenda-structruring) a držanie agiend bez problémov
+(agenda-exclusion). Úlohou predsedníctva je rovnako reprezentácia Rady navonok, v rámci
+medzinárodných organizácii a tiež vo vzťahu k ostatným inštitúciám EÚ. Zvýšením počtu ČŠ
+v kontexte východného rozširovania a následnému postupnému prechodu k hlasovaniu tzv.
+kvalifikovanou väčšinou sa zvýraznila potreba dosiahnuť najväčší možný a vhodný kompromis.
+Zvýšil sa tak dopyt po aktívnom sprostredkovaní.
+Za roky fungovania princípu rotujúceho predsedníctva sa praxou a skúsenosťami
+vybudovali aj pevné neformálne očakávania od predsedajúceho ČŠ. Tieto neformálne
+
+25
+
+MELOVÁ, D., GÁL. Z. 2018. A farewell to a passive policy taker role?. Routlege, Taylor and Francis. London and
+
+New York. ISBN: 978-1-138-71402-1.
+
+30
+
+očakávania predstavujú spôsob, akým bude predsedajúca krajina naplňovať formálne
+požiadavky funkcie. Elgström tieto očakávania kategorizoval ako „normy predsedania“. Jedna
+sa o normy nestrannosti/neutrality, efektívnosti a normy budovania, resp. tvorby konsenzu.
+Normou efektívnosti pritom myslí schopnosť učiniť množstvo rozhodnutí počas svojho výkonu
+funkcie. To zároveň býva kritériom pre úspech či neúspech predsedníctva. Z pohľadu normy
+nestrannosti je možné identifikovať očakávanie, že dané predsedníctvo budeme plniť
+v spoločnom záujme EÚ, a súčasne upozadíme naše národné záujmy.
+
+31
+
+3.3
+
+Chronologický prehľad priebehu Európskej migračnej krízy
+
+23. apríla 2015 - Mimoriadne zasadnutie Európskej rady
+Po tragických udalostiach v Stredozemnom mori v apríli 2015 sa hlavy štátov a predsedovia
+vlád EÚ dohodli zmobilizovať všetko úsilie, aby sa predišlo ďalšiemu umieraniu ľudí na mori
+a vyriešili sa základné príčiny migrácie. Prijali rozhodnutie, že v reakcii na tieto udalosti sa
+zamerajú na štyri hlavné oblasti:
+•
+
+posilnenie prítomnosti na mori
+
+•
+
+boj proti prevádzačom
+
+•
+
+predchádzanie nelegálnym migračným tokom
+
+•
+
+posilnenie vnútornej solidarity a zodpovednosti
+
+Lídri EÚ podčiarkli kľúčovú úlohu budúceho oznámenia Komisie o európskej migračnej
+agende a vyzvali na zorganizovanie samitu vo Vallette, na ktorom sa bude rokovať o otázkach
+migrácie s africkými a ďalšími kľúčovými krajinami. Vyzvali aj na urýchlené posilnenie
+operácií Triton a Poseidon prostredníctvom minimálne strojnásobenia ich finančných zdrojov
+na roky 2015 a 2016.
+27. mája 2015 - Prvý balík návrhov Európskej komisie
+Európska komisia predložila v nadväznosti na európsky program v oblasti migrácie,
+ktorý predstavila pred dvoma týždňami, prvý balík opatrení zameraných na riešenie migračnej
+krízy; ide o:
+•
+
+návrh na núdzové premiestnenie 40 000 osôb, ktoré potrebujú medzinárodnú ochranu,
+z Talianska a Grécka do iných členských štátov
+
+•
+
+odporúčanie, v ktorom sa členské štáty vyzývajú, aby presídlili 20 000 osôb z krajín
+mimo EÚ, ktoré potrebujú medzinárodnú ochranu
+
+•
+
+akčný plán EÚ proti prevádzaniu migrantov
+
+•
+
+usmernenia o odoberaní odtlačkov prstov
+
+15. októbra 2015 - Zasadnutie Európskej rady
+Vedúci predstavitelia EÚ sa dohodli na zozname týchto priorít:
+•
+
+spolupráca s krajinami pôvodu a tranzitu: uvítali dohodu o spoločnom akčnom pláne
+EÚ a Turecka a dohodli sa na dosiahnutí konkrétnych operačných opatrení na samite vo
+Vallette
+32
+
+•
+
+posilnenie vonkajších hraníc EÚ: aj prostredníctvom systému integrovaného riadenia
+hraníc, ktorý pôjde nad rámec súčasného mandátu agentúry Frontex, a pridania stoviek
+príslušníkov pohraničnej stráže s cieľom zabezpečiť problémové oblasti v Grécku a
+Taliansku
+
+•
+
+návrat a readmisia: zlepšenie vykonávania podľa existujúcich právnych predpisov a
+dohôd a posilnenie úlohy agentúry Frontex
+
+•
+
+verejnú konzultáciu o budúcej smernici o modrej karte
+
+27. mája 2016 - Samit G7
+Skupina G7 vyzvala, aby sa migračná a utečenecká kríza riešila globálne. Lídri sa
+zaviazali zvýšiť celosvetovú pomoc na pokrytie potrieb utečencov a hostiteľských komunít.
+Vyzvali finančné inštitúcie a bilaterálnych darcov, aby zvýšili svoju pomoc. Dohodli sa tiež na
+tom, že sa posilnia legálne spôsoby migrácie, a podporili vytvorenie systémov presídlenia.
+23. júna 2017 - Trasa cez centrálne Stredozemie: lídri EÚ žiadajú ďalšie kroky na zastavenie
+migračných tokov
+Vedúci predstavitelia EÚ vyzvali na ďalšie kroky s cieľom zastaviť prílev migrantov
+z Líbye do Talianska po trase cez centrálne Stredozemie. Zamerali sa najmä na:
+poskytovanie ďalšej odbornej prípravy a vybavenia líbyjským pobrežným strážam
+užšiu spoluprácu s krajinami pôvodu a tranzitu
+ďalšie úsilie o zvýšenie počtu návratov
+Uviedli, že by sa mali naliehavo uzatvoriť readmisné dohody s krajinami, ktoré nie sú členmi
+EÚ. Lídri EÚ tiež zopakovali, že treba zreformovať spoločný azylový systém.
+18. októbra 2018 - Lídri EÚ rokovali o otázkach migrácie
+Lídri EÚ vyzvali, aby sa zintenzívnil boj proti prevádzačom migrantov. Vyzvali Radu,
+aby do decembra vypracovala príslušné opatrenia.
+Lídri tiež uviedli, že je potrebné vyvinúť väčšie úsilie, aby sa ďalej predchádzalo nelegálnej
+migrácii. Vyzvali, aby sa posilnila spolupráca s krajinami pôvodu a tranzitu.
+Vyzvali tiež Európsky parlament a Radu, aby prioritne preskúmali aktuálne návrhy Komisie
+zamerané na migráciu a azyl.
+
+33
+
+4. decembra 2019 - Rada rokovala o budúcnosti migračnej a azylovej politiky EÚ
+Ministri vnútra členských štátov EÚ rokovali na základe správy fínskeho predsedníctva o
+budúcnosti migračnej a azylovej politiky EÚ. Ministri v diskusii uvítali zámer Komisie
+predložiť nový pakt o migrácii a azyle. Potvrdili potrebu komplexného prístupu k migrácii,
+ktorý bude zahŕňať celovládny prístup a prístup zameraný na celú trasu.
+22. októbra 2021 - Európska rada rokovala o migrácii
+Lídri EÚ vyzvali Európsku komisiu a vysokého predstaviteľa EÚ pre zahraničné veci a
+bezpečnostnú politiku, aby uviedli do praxe osem akčných plánov pre prioritné krajiny pôvodu
+a tranzitu a bezodkladne ich vykonali. Európska rada sa jasne vyjadrila, že nebude akceptovať
+žiadne pokusy tretích krajín o zneužitie migrantov na politické účely. Zopakovala svoje
+odhodlanie zabezpečovať účinnú kontrolu vonkajších hraníc EÚ a zdôraznila, že je potrebné
+zaistiť účinné návraty a plné vykonávanie readmisných dohôd. Hlavy štátov alebo predsedovia
+vlád EÚ uviedli, že EÚ bude pokračovať v boji proti prebiehajúcemu hybridnému útoku
+organizovanému bieloruským režimom, a to aj prijatím ďalších reštriktívnych opatrení proti
+osobám a právnym subjektom.
+
+9. januára 2022 - Nová Agentúra EÚ pre azyl začína svoju činnosť
+Agentúra Európskej únie pre azyl (EUAA) nahrádza od 19. januára 2022 Európsky
+podporný úrad pre azyl (EASO). Nová agentúra má za úlohu zlepšiť fungovanie spoločného
+európskeho azylového systému tým, že členským štátom poskytne intenzívnejšiu operačnú a
+technickú pomoc a vnesie väčší súlad do posudzovania žiadostí o medzinárodnú ochranu.
+9. februára 2023 - Európska rada rokovala o situácii v oblasti migrácie
+Hlavy štátov a predsedovia vlád krajín EÚ diskutovali o migrácii na mimoriadnom
+zasadnutí Európskej rady, ktoré sa konalo v Bruseli. Zhodnotili vykonávanie svojich
+predchádzajúcich záverov o komplexnom prístupe k migrácii v súlade so zásadami a hodnotami
+EÚ a základnými právami, pričom sa zamerali na:
+•
+
+intenzívnejšiu vonkajšiu činnosť
+
+•
+
+návraty a readmisiu
+
+•
+
+kontrolu vonkajších hraníc EÚ
+
+•
+
+boj proti inštrumentalizácii, obchodovaniu s ľuďmi a prevádzačstvu
+34
+
+•
+
+údaje o migračných tokoch
+
+•
+
+pakt o migrácii a azyle26
+
+4 VYŠEHRADSKÁ SKUPINA
+V minulosti bol hrad Vyšehrad, vtedajšie sídlo kráľov Uhorska, dejiskom stretnutia
+poľského, českého a uhorského kráľa. Jeho vtedajší účastníci sa dohodli, že budú úzko
+spolupracovať na poli politiky a obchodu, čím svojich podstatne neskorších nástupcov
+inšpirovali na odštartovanie úspešnej stredoeurópskej iniciatívy.
+Názvom
+
+Vyšehradská
+
+štvorka
+
+sa
+
+neoficiálne
+
+označujú
+
+štyri
+
+stredoeurópske
+
+postkomunistické krajiny Česká republika, Maďarská republika, Poľská republika a Slovenská
+republika. Skupina sa pôvodne nazývala Vyšehradskou trojkou; štvorka sa za nej stala až
+rozdelením Českej a Slovenskej federatívnej republiky roku 1993.
+Názov tohto zoskupenia sa zrodil počas schôdze medzi prezidentom ČSFR Václavom
+Havlom, predsedom maďarskej vlády Józsefom Antallom a poľským prezidentom Lechom
+Wałęsom, ktorá sa uskutočnila 15. februára 1991 v severomaďarskom meste Vyšehrad. Traja
+vodcovia tu podpísali deklaráciu o úzkej spolupráci svojich troch (dnes štyroch) krajín na ceste
+k európskej integrácii. Pádom komunistického režim zohrala vzájomná spolupráca týchto krajín
+dôležitú úlohu pri prechode od tľotalitného režimu k slobodnej, pluralistickej a demokratickej
+spoločnosti.
+Cieľom V4 je prispieť k vybudovaniu európskej bezpečnostnej architektúry založenej
+na účinnej, funkčne komplementárnej a vzájomne posilňujúcej spolupráci a koordinácii v rámci
+existujúcich európskych a transatlantických inštitúcií. V záujme zachovania a podpory
+kultúrnej súdržnosti sa v rámci skupiny V4 zintenzívni vzájomné odovzdávanie hodnôt na
+úseku kultúry, vzdelávania, vedy a výmeny informácií.
+Všetky aktivity V4 sú zamerané na posilňovanie stability v stredoeurópskom regióne.
+Členské krajiny chápu svoju vzájomnú spoluprácu ako výzvu pre seba a jej úspech ako najlepší
+dôkaz svojej schopnosti integrovať sa aj do takých štruktúr, ako je napríklad Európska únia.
+Regionálna kooperácia V4 sa úspešne rozvíja aj v súčasnom období. Ide predovšetkým
+o sektorové (rezortné) politiky, ako napr. hospodárstvo, infraštruktúra, energetika, digitalizácia
+a inovácie. Nemenej významnou je cezhraničná spolupráca a kultúrny aspekt, a to aj formou
+26
+
+Európska rada. 2023. Chronologický prehľad - Migračná a azylová politika EÚ. [online]. Dostupné na:
+
+<https://www.consilium.europa.eu/sk/policies/eu-migration-policy/migration-timeline/
+
+35
+
+štipendijných výmen. Dôležitými oblasťami spolupráce sú koordinácia zahranično-politických
+pozícií a presadzovanie spoločných záujmov v EÚ i vo vzťahu k tretím krajinám resp.
+regiónom. Spoluprácu V4 koordinujú ministerstvá zahraničných vecí a národní vyšehradskí
+koordinátori. Základom aktivít je program predsedníckej krajiny, ktorý schvaľujú predsedovia
+vlád krajín na samitoch V4.27
+
+Migračná a azylová politika V4
+
+4.1
+
+Kooperácia krajín V4 bola z historického hľadiska významná hlavne v období po roku
+1989, kedy štáty vtedajšieho východného bloku pejavily jednoznačný záujem o integráciu
+medzi západoeurópske krajiny považovené za vyspelé. Štáty V4 na tejto spoločnej platforme
+rozvíjajú užšiu spoluprácu a koordináciu plánov slúžiacich na posilnenie stability regiónu
+Strednej Európy a presadzovanie spoločných názorov a postojov v rámci EÚ, ako aj
+medzinárdno-politickej scéne. V neposlednom rade je ich cieľom podpora štátov
+pripravujúcich sa na vstup do EÚ a transatlantickej spolupráce v rámci NATO.28
+
+4.2 Vnútorná bezpečnosť v krajinách V4
+Vnútorná bezpečnosť štátov a problematika pokrytá touto oblasťou sú medzi krajinami
+V4 veľmi podobné, ale napriek problematickosti jej definície sú v tejto oblasti len malé nuansy.
+Pokiaľ ide o Poľsko, podľa Národnej bezpečnostnej stratégie Poľskej republiky stratégia
+pri zabezpečovaní vnútornej bezpečnosti zahŕňa spravodlivosť, ochranu kontrarozviedky,
+prevenciu a boj proti terorizmu a extrémizmu, zaistenie bezpečnosti Poľska v kybernetickom
+priestore, ochranu utajovaných skutočností, ochranu krízovej infraštruktúry, udržiavanie
+bezpečnosti a verejného poriadku, zaistenie všeobecnej bezpečnosti (ochrana obyvateľstva a
+činnosti záchrannej služby), ochranu štátnej hranice, stráženie a ďalšia ochrana kľúčových
+objektov štátneho významu a verejného záujmu, zabezpečenie pripravenosti štátu a verejnej
+
+27
+
+MIRRI
+
+SR.
+
+2023.
+
+Vyšehradská
+
+skupina
+
+V4.
+
+[online].
+
+Dostupné
+
+na:
+
+<https://www.mirri.gov.sk/sekcie/informatizacia/medzinarodna-agenda/medzinarodnaspolupraca/vysehradska-skupina-v4/index.html>
+28
+
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.209. ISBN 978-80-7418-292-1.
+
+36
+
+správy konať v krízovej situácii, boj proti korupcii a korupčnému prostrediu a ochrana zdravia
+obyvateľstva.
+Okrem polície sa ochranou vnútornej bezpečnosti Poľska a poľských občanov zaoberá
+pohraničná stráž, služba vnútornej bezpečnosti, protiteroristické centrum, ústredný
+protikorupčný úrad, maršalská stráž, úrad na ochranu vlády, colná správa, daňové spravodajstvo
+ministerstva financií, generálny inšpektor pre finančné informácie, obecná stráž, väzenská
+služba, cudzinecký úrad a železničná bezpečnostná služba. Na rozdiel od iných krajín V4 má
+Poľsko tieto inštitúcie väčšinou nezávislé, vo zvyšných častiach tieto jednotky spadajú pod
+políciu.
+Maďarsko zaručuje všetkým svojim občanom právo na slobodu a osobnú bezpečnosť,
+ochranu verejného poriadku, verejnej bezpečnosti, verejného zdravia a kultúrnych hodnôt v
+rámci vnútornej bezpečnosti. Zákon tiež zakotvuje zriadenie parlamentnej gardy ako
+nezávislého orgánu na ochranu Národného zhromaždenia.
+Policajné orgány sú určené na predchádzanie trestným činom a ich vyšetrovanie,
+ochranu verejnej bezpečnosti, verejného poriadku a poriadku na štátnych hraniciach.
+Bezpečnostné sily sú určené na ochranu nezávislosti, práva a poriadku Maďarska a na podporu
+záujmov národnej bezpečnosti. Orgánom zodpovedným za bezpečnosť v Maďarsku je kabinet
+národnej bezpečnosti. V roku 2011 bola pre túto oblasť zriadená osobitná pracovná skupina
+pre národnú bezpečnosť, ktorej predsedá maďarský minister vnútra. Ďalšími orgánmi vnútornej
+bezpečnosti mimo polície sú Národná ochranná služba, Koordinačné centrum pre boj proti
+organizovanému zločinu, Parlamentná stráž, Úrad na ochranu inštitútu, Osobitná služba pre
+národnú bezpečnosť, Národný bezpečnostný úrad, Národná daňová a colná správa, Pomocná
+služba, Migračný a naturalizačný úrad, Väzenská služba a SBS. Stratégia štátnej bezpečnosti je
+odvodená od mája 2004, t. j. vstupu Maďarskej republiky do EÚ, Európskej bezpečnostnej
+stratégie z roku 2003 a koncepcie NATO z roku 1999. Maďarská koncepcia považuje vonkajšiu
+a vnútornú bezpečnosť za nedeliteľnú a jednotnú sféru. V záujme zachovania tejto vnútornej
+bezpečnosti je však dôležité posilniť štruktúry orgánov presadzovania práva a zlepšiť kvalitu
+zhromažďovania, výmeny a hodnotenia informácií o vnútorných a vonkajších hrozbách.
+Ochrana suverenity a ústavného poriadku, ako aj realizácia bezpečnostnej politiky a národných
+záujmov sú dôležitým prvkom spravodajskej služby a národnej bezpečnostnej služby.
+Slovensko je historicky najbližšie k Českej republike zo všetkých krajín V4, a preto sú
+tieto bilaterálne vzťahy veľmi blízke, z čoho možno usudzovať, že budú mať podobný prístup
+k zaisteniu vnútornej bezpečnosti oboch štátov. Skutočnosť, že tieto dva štáty spolu tvorili
+
+37
+
+federáciu, dokazuje, že proces zabezpečenia vnútornej politiky ovplyvnil oba štáty ako jeden
+aktér pred rokom 1993.
+Významnú úlohu pri zabezpečovaní vnútornej bezpečnosti Slovenskej republiky
+zohráva jej Policajný zbor, do ktorého patrí okrem iného Železničná polícia, Hraničná a
+cudzinecká polícia a Národná protikorupčná jednotka. Ďalej je už klasicky útvarom Zboru
+väzenskej a justičnej stráže, KÚFS, Colnej správy, SIS, NBÚ SR, Mestskej polície,
+Dobrovoľného strážcu poriadku a SBS.
+Podobnosť medzi Českou a Slovenskou republikou teda nie je náhodná, a preto sú si z
+hľadiska zaistenia vnútornej bezpečnosti dosť podobné. Vo všetkých štyroch krajinách existujú
+orgány, ktoré ho poskytujú v podobných oblastiach, takže hlavným rozdielom je len ich
+závislosť alebo nezávislosť od polície.29
+
+4.3 Relokačný mechanizmus ako obmedzenie národnej suverenity
+Na základe toho, že v bezpečnostnom diskurze sú migranti konštruovaní ako hrozba práve
+v momente, keď sa fyzicky nachádzajú na území daného národného štátu, predstavuje
+povinnosť prijať určité množstvo migrantov na svoje územie povinnosť prijať určitú mieru tejto
+hrozby. Národný štát je v dôsledku tohto opatrenia povinný ohroziť svojich vlastných občanov
+prítomnosťou nepriateľa na svojom území, čo je v kontradikcii s jeho hlavnou funkciou, ktorou
+je zabezpečenie ochrany svojim občanom. Národný štát, ktorý zlyháva vo svojej základnej
+funkcii, je vnímaný ako štát, ktorý stráca svoju suverenitu. Rovnako štát, ktorý nemá slobodu
+v rozhodovaní o vlastnej azylovej politike a musí akceptovať pravidlá azylovej politiky iného
+telesa (v tomto prípade spoločnej azylovej politiky EÚ). Suverenita je jednou z podmienok
+existencie národného štátu, jej narúšanie a obmedzovanie je teda brané ako neprípustné.
+Táto stratégia v českom politickom priestore bola vlastná najmä výrazným
+euroskeptickým politickým subjektom ako bol prezident Zeman a SPD Tomio Okamura, vo
+svojom programe ju využívalo však aj niekoľko ďalších strán. Prezident explicitne využíval
+hrozbu obmedzenia suverenity, keď poukazoval na „príliš extenzívny“ výklad Lisabonskej
+zmluvy, pretože podľa jeho slov azylové právo vždy patrilo národným štátom. SPD hovorilo o
+povinných kvótach ako o faktickom oslabení a likvidácii národných štátov a zdôrazňovalo, že
+29
+
+MRÁZKOVÁ, K. 2017. Spolupráce V4 v oblasti vnitřní bezpečnosti států. Bakalárska práca. Masarykova
+
+univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských studií. Brno. s 15-18.
+
+38
+
+prijímanie kohokoľvek musí ostať v kompetencií zeme a národov. Nacionalistická perspektíva
+a dominantný motív národného štátu tak umožnil spájať priestor krajiny s jej národom a
+používať tieto pojmy na rovnakej úrovni.
+Argument obmedzenia národnej suverenity má zvyčajne jednoduchú štruktúru, i keď v
+textoch často neodznieva komplexne a niektoré jeho časti sú rečníkmi vyhodnotené ako jasné.
+Základom argumentov bolo, že kvóty sú zlé, pričom pracovali s niekoľkými hlavnými
+predpokladmi – tie tvrdili, že prítomnosť migrantov na území ČR je nebezpečná, že kvóty
+znamenajú prítomnosť migrantov na území a že kvóty sú povinné. Vzhľadom k tomu, že
+cieľom, ktorý sledujú rečníci bezpečnostného diskurzu, je zachovať bezpečnosť obyvateľov ČR
+a hodnotami, ktoré zastupujú, sú tzv. západoeurópske hodnoty vylučujúce sa s hodnotami
+migrantov, nasleduje argument svoju logiku smerujúcu k výzve k akcii, ktorou je odmietnutie
+kvót. Európska únia je v tejto stratégii zobrazovaná ako represívny aktér, ktorý koná „nad“
+záujmom národných štátov s cieľom donútiť ich konať spôsobom, ktorý oni samotné považujú
+za nebezpečný. V tomto zmysle je v textoch zaužívaní spojenie „európsky diktát“, vyjadrujúce
+bezmocnosť národného štátu konať inak, než je mu určené. Únia z akejsi hlásanej pozície
+nadnárodného, centralistického a technokratického riadenia bez politickej zodpovednosti a
+demokratického mandátu zamedzuje potrebe národného štátu ochrániť bezpečnosť a záujmy
+svojich občanov. V presnej opozícii voči EÚ bol vykonštruovaný obraz národného štátu, ktorý
+je nereštriktívny a snaží sa brániť konkrétne záujmy svojich občanov – svoj život, rodinu a
+majetok. Paradoxom je, že tieto záujmy bránil reštriktívnou politikou voči migrantom, avšak
+táto skutočnosť však neovplyvňovala jeho legitimitu konať uvedeným spôsobom.
+4.3.1
+
+Negatívna prezentácia EÚ ako neschopného a neefektívneho aktéra
+
+Všetky stratégie, ktoré odmietajú riešenie migračnej krízy prostredníctvom systému
+povinných kvót a zároveň presadzujú vyriešenie migračnej krízy celkovo, by nemali legitimitu
+bez prítomnosti iných spôsobov riešenia migračnej krízy, než sú povinné kvóty. Nebezpečnosť
+a neefektívnosť, čo sú dve primárne vlastnosti riešenia prostredníctvom relokačného
+mechanizmu, môžu existovať len v binárnej opozícii bezpečnej a efektívnej formy riešenia. Až
+prítomnosť efektívnych riešení a schopných aktérov, ktorí dokážu tieto riešenia uvádzať do
+praxe a presadzovať, umožňuje konštrukciu Európskej únie ako neschopného aktéra a kvótneho
+systému ako neefektívneho riešenia. Európska únia ako aktér je prezentovaná skôr negatívne:
+ako donucujúca, ohrozujúca záujmy národných štátov, neposkytujúca národným štátom
+39
+
+ochranu a narušujúca ich národnú bezpečnosť (z čoho vyplýva, že národný štát naopak národnú
+bezpečnosť zachováva). Zároveň bola únia v otázkach migrácie označovaná ako neefektívna a
+neschopná migračnú krízu vyriešiť.30
+
+4.4 Prednosti štátov V4
+Podľa februárového prieskumu 2023, agentúry Median, V4 požíva najvyššiu dôveru
+našich občanov spomedzi medzištátnych organizácií – až 58 %. Tesne pod 50 % sa ocitli EÚ a
+OSN, NATO dôverovalo 41 % opýtaných. Zrejme aj preto vyvolali počas návštevy SR taký
+rozruch poznámky českého prezidenta Petra Pavla o V4. Už ako kandidát na prezidenta prejavil
+výhrady k náplni tejto formy regionálnej spolupráce najmä kvôli nespokojnosti s politikou
+vlády Viktora Orbána. Na tlačovej konferencii so slovenskou prezidentkou poznamenal, že sa
+nikdy netajil istou skepsou, pokiaľ ide o efektivitu V4. Vníma ju skôr ako konzultačné fórum,
+ktoré nemá ambície na detailnú koordináciu zahraničnej alebo bezpečnostnej politiky. Navrhol
+rozšíriť túto spoluprácu aj na baltské krajiny.
+Tieto návrhy treba posudzovať v širšom kontexte fungovania V4. Vznikla 15. februára
+1991 podpisom troch bývalých disidentov – československého prezidenta Václava Havla,
+poľského prezidenta Lecha Wałesu a maďarského premiéra Józsefa Antalla. S ohľadom na
+skúsenosti vyplývajúce zo spoločnej histórie susediacich krajín sa stalo jej cieľom budovať
+demokraciu, rozvíjať slobodu a vrátiť náš región do zjednotenej Európy. Rozdelením ČSFR
+z pôvodnej trojky vznikla štvorka.
+Po naplnení týchto cieľov a vyhodnotení skúseností z transformácie a prípravy na integráciu do
+EÚ a NATO sa ukázalo, že má zmysel v spolupráci pokračovať. Najmä v záujme presadzovania
+spoločných záujmov v EÚ. Veď s týmto cieľom už fungovala regionálna spolupráca v rámci
+Beneluxu a Severskej rady. Pravidelne sa uskutočňovali summity Nemecka a Francúzska.
+Fungovala tiež dohoda o spolupráci medzi pobaltskými štátmi. Jednoducho bolo výhodné
+spojiť ekonomický a politický potenciál štyroch štátov na podobný účel.
+Pre Slovensko s 5,5 milióna obyvateľmi je extrémne výhodné byť spolu s Poľskom,
+Českom a Maďarskom súčasťou 65-miliónového spoločenstva, ktoré má väčší objem
+hospodárskej výmeny s Nemeckom, ako má Francúzsko. Keď dokážeme svoje záujmy pri
+
+30
+
+BOBOVÁ, Z. 2018. Analýza politického diskurzu migračnej krízy v krajinách V4. Diplomová práca. Masarykova
+
+univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských studií. Brno. s.36
+
+40
+
+presadzovaní niektorých politík EÚ pretaviť do spoločného rozhodnutia V4, máme šancu
+uspieť. V prípade, že by bola SR osamotená, musela by spojencov získavať ad hoc.
+V4 je istou protiváhou nezdravej dominancie Nemecka a Francúzska v EÚ, ale aj
+protiváhou k jednostrannému presadzovaniu záujmov južných či západných členských štátov.
+Môže vyvažovať politicko-geografické vplyvy v EÚ. Ak takmer 40-miliónové Poľsko dáva
+najavo, že aj napriek rozdielnemu názoru s Maďarskom na ruskú agresiu voči Ukrajine má
+o pokračovanie V4 záujem, prečo by ho nemalo mať sedemkrát menšie Slovensko? Tandem
+SR – ČR by nemal taký výtlak na presadzovanie spoločných záujmov, aký má V4. Aj keď býva
+definovanie týchto záujmov zložité, netreba naň rezignovať a obmedziť sa iba na konzultácie.
+Prednosťou štátov V4 vždy bolo, že predstavitelia ich vlád vedeli spolu racionálne
+komunikovať aj napriek odlišným politickým farbám, ktoré reprezentovali. Rešpektovali
+demokratické politické cykly. Možno nesúhlasiť s Orbánovou či Kaczyńského politikou, ale
+nemožno ignorovať demokratickú vôľu ich voličov. Ani naši partneri nemuseli byť vždy vo
+vytržení z Matovičovej či Hegerovej politiky.V konečnom dôsledku je vždy lepšie mať Orbána
+dnu a diskutovať s ním, ako sa s ním vôbec nerozprávať. Dáva to väčšiu šancu modifikovať
+jeho postoje. Napokon, žiaden politik tu vďaka voľbám nie je naveky. Preto nedáva zmyslel
+kvôli momentálnym výhradám voči Orbánovej politike rezignovať na V4, do ktorej sme
+spoločne 32 rokov toľko investovali.
+Prednosťou štátov V4 vždy bolo, že predstavitelia ich vlád vedeli spolu racionálne
+komunikovať aj napriek odlišným politickým farbám, ktoré reprezentovali. Rešpektovali
+demokratické politické cykly.
+Nemali by sme zabúdať, ž V4 ako voľné združenie stredoeurópskych navzájom
+susediacich štátov je vzhľadom na vybudovanú politickú dôveru medzi jej predstaviteľmi a ich
+permanentný dialóg aj istým garantom stability v regióne. Spoločné členstvo Slovenska a
+Maďarska vo V4 je nesporne príspevkom pre prekonávanie tráum zdedených z histórie. Dialóg
+navyše neprebieha iba medzi politickými reprezentáciami na prezidentskej, vládnej a
+parlamentnej úrovni.
+Vyšehradský fond, ktorý funguje od roku 1999 a je jedinou inštitúciou V4, vygeneroval stovky
+projektov, v ktorých sa stretli štyri mestá, mimovládne organizácie, univerzity atď. Došlo tak
+k priamej komunikácii medzi občanmi štyroch susediacich štátov a k vytvoreniu dlhodobých
+priateľských väzieb medzi nimi. To je veľmi podceňovaná dimenzia vyšehradskej spolupráce.
+Mala by sa posilňovať. Projekty fondu a ich výsledky by mali byť viac verejne prezentované.
+Volanie po rozširovaní V4 nie je nové. Najčastejšie sa spomínalo Slovinsko, ktoré vstúpilo
+do EÚ v rovnakom čase. Vytvorenie V5 by však nemuselo automaticky znamenať zmenu
+41
+
+kvality a vplyvu. Nadmerné rozširovanie môže priniesť riziko zmenšenia akcieschopnosti.
+Petrom Pavlom navrhovanú spoluprácu s baltskými štátmi možno rozvíjať vo formáte stretnutí
+V4 s týmto regionálnym zoskupením. České predsedníctvo vo V4 bude mať príležitosť
+zorganizovať takéto rokovanie. Pripomeňme, že už sa konali takéto stretnutia s Beneluxom na
+úrovni predsedov parlamentov i predsedov vlád. Konali sa tiež stretnutia V4 plus nejaký štát
+z EÚ alebo aj pomimo EÚ.31
+
+5
+Oblasť
+
+POSTOJE KRAJÍN V4 K MIGRAČNEJ KRÍZE
+nelegálnej
+
+migrácie,
+
+spoločne
+
+s organizovaným
+
+zločinom
+
+a bojom
+
+s terorizmom, patrí k oblastiam spolupráce v rámci V4. Tie boli definované v Kroměřížskej
+deklarácii, ktorá určila oblasti vzájomnej spolupráce po vstupe do EÚ v roku 2004. Deklarácia
+rovnako vytýčila spoluprácu V4 na pôde EÚ v oblasti jurisdikcie, domácich záležitostí,
+Shengenu a ochrany externých hraníc Únie. V dôsledku migračnej krízy a spoločného
+odmietavého postoja voči alokačným mechanizmom sa práve spolupráca v tejto oblasti stala
+kľúčovou a charakteristickou pre vyšehradské zoskupenie. Migrácia ale nepatrí k prirodzeným
+a tradičným oblastiam spolupráce. To, že spolupráca pred skúmaným obdobím nebola tak
+výrazná a intenzívna svedčí fakt, že sa V4 nestretávala pred jednaniami Rady pre spravodlivosť
+a vnútorné veci (SVV), ako tomu je zvykom vždy pred Radou zahraničných veci (FAC). Vo
+svetle migračnej krízy sa ale začali partneri stretávať aj pred SVV. Práve pravidelné či
+príležitostné stretávania na vládnej (politickej a úradníckej) úrovni krajín V4 sú jediným
+mechanizmom spolupráce.
+Vychádzajúc z nastavenia spolupráce V4 (pravidelné stretnutia, koordinácia pozícií,
+vytyčovanie oblastí spolupráce apod.) sa od Slovenska, resp. všetkých členov V4 všeobecne
+očakáva plnenie role regionálneho spolupracovníka V4. Rozhovory tento predpoklad potvrdili,
+kedy respondenti partnerských krajín zhodne označili ako základ aktívnu participáciu a hájenie
+spoločných pozícií. V prípade migrácie to bol predovšetkým jednotný odmietavý postoj
+k akýmkoľvek návrhom v zmysle povinných kvót, ktoré sú považované za neprijateľné.32
+
+31
+
+WEISS. P. Pravda. 2023. Vyšehrad nie je na odpis. [online]. Dostupné na: < https://nazory.pravda.sk/analyzya-postrehy/clanok/661759-vysehrad-nie-je-na-odpis/>
+32
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.374. ISBN 978-80-7418-292-1.
+
+42
+
+5.1 Česká republika
+Česká republika obdobne ako aj ostatné štáty V4 zastávala skôr protiimigračnú politiku
+a odmietavé postoje k zavedeniu relokačných kvót. Postoj k migrácii vychádzal prevažne
+z potrieb bezpečnosti Schengenského priestoru a návrat ekonomických migrantov, ktorých
+prítomnosť v krajine považoval za príťaž. Kríza sa najvýraznejši prejavila na jeseň 2015, kedy
+sa na území ČR pohyboval väčší počet nelegálych migrantov. Počet žiadateľov o azyl bol aj tak
+nižší resp. podpriemerný oproti cieľovým destináciám migrantov ako Nemecko, Francúzsko,
+Rakúsko či Švédsko. V nadväznosti na to bolo na území ČR umiestnených pár stoviek
+migrantov s doplnkovou ochranou. Česko sa v rovnakej dobe ako vtedy Slovensko zaviazalo
+prijať 153 kresťanských utečencov v rámci projektu Generace 21, avšak z dôvodu nelegálneho
+presunu 25 migrantov do Nemecka bol tento projekt pozastavený. Následkom tejto udalosti sa
+začala repatriáca tých migrantov, ktorí nemali záujem o pobyt v Českej republike. ČR v tej
+dobe hájila skôr protiimigračné názory, ktoré však neboli také ostré a búrlivé ako v prípade
+Slovenska. Môžeme tento fakt obhájiť aj tým, že počas posledného hlasovania o schválení kvót
+sa vláda vtedajšieho českého premiéra Sobotku zaviazala prijať 1600 utečencov.33
+
+5.2 Poľsko
+Poľsko voči migrácii zaujalo omnoho liberálnejší postoj oproti zvyšným krajinám V4
+a v mnohých veciach sa riadilo skôr vlastným úsudkom. Ako jediný štát V4 odsúhlasilo hneď
+prvý plán zavedenia povinných kvót s čím súviselo zaviazanie sa prijať približne 7000
+utečencov. Na začiatku debát a diskusií na spoločnej platforme sa dovtedy predpokladalo
+jednohlasné vystupovanie predstaviteľov krajín V4, avšak tento jav, kedy si Poľsko išlo svojou
+vlastnou cestou môžeme datovať od vtedajšej zmeny domácej politiky Poľska. Dovtedy
+reagovalo k príjmaniu utečencov a dodržiavania kvót pomerne pozitívne, no od vypuknutia
+prvých teroristických útokov zaujalo v rámci zachovania vlastnej bezpečnosti rovnaký postoj
+ako aj zvyšné krajiny V4 a snažilo sa s nimi jednohlasne prezentovať na medzinárodnej úrovni.
+
+33
+
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.375. ISBN 978-80-7418-292-1.
+
+43
+
+5.3 Maďarsko
+Ako jediný štát z V4 konalo Maďarsko v rozpore s uzneseniami EÚ o migračnej kríze.
+Pre EÚ a prevažne pre Schengenský priestor predstavovalo Maďarsko hrozbu, pretože ležalo
+priamo na hlavnej Balkánskej trase migrantov smerujúcich do Európy. Schengenu preto, lebo
+po celej dĺžke tejto Balkánskej trasy sa nenachádza, pretože v Grécku bol s vtedajším prílivom
+migrantov tento priestor narušený a tak sa prvou vstupnou bránou do krajín Schengenu stalo
+Maďarsko. Migranti sa v tomto pristore začali nekontrolovateľne pohybovať, čo malo za
+následok aj vznik množstva prevádzačských skupín prepravujúcich migrantov prevažne do
+Nemecka. Takýto pohyb predstavoval aj hrozbu celkového narušenia bezpečnosti a funkčnosti
+Schengenského priestoru. Z dôvodu preťaženosti imigrantmi bolo Maďarsko nútené pozastaviť
+Dublinskú zmluvu. Neudržateľná situácia doviedla Maďarskú vládu k ráznemu riešeniu, a to
+výstavbe plotu na svojich hraniciach najprv so Srbskom a potom aj Chorvátskom. Uvažovali aj
+o výstavbe plota s Rumunskom avšak k tomuto kroku nedošlo vzhľadom na uzavretie celej
+Balkánskej trasy.
+Dôsledky migračných tlakov sa prejavily v celkovej poltike Maďarska, ktorá sa opierala
+o názory zosilujúce nacionalizmus. Významným odporcom prílivu migrantov bol premiér
+Viktor Orbán, ktorý viedol politiku odporujúcu liberálnej migračnej politike EÚ a dosť kriticky
+vyjadroval svoj názor voči migrantom z Blízkeho východu či Afriky .34
+
+5.4 Slovensko
+Vyšehradská spolupráca patrí dlhodobo k prioritným a základným rámcom regionálnej
+spolupráce. Od roku 2015 sa stala významnou oblasťou spolupráce aj téma migrácie, ktorá bola
+na politickej úrovni najvýraznejšia a zatienila všetky ostatné oblasti. Výraznejšie sa to však
+do skúmaných dokumentov nepretavilo. Blízkosť pozícii a synergia v otázke migračnej
+politiky sa priamo spomína iba v Správe o plnení úloh zahraničnej a európskej politiky SR v
+roku 2017 a jej zameranie na rok 2018, pričom mala skôr charakter bilancovania, ako
+deklarovania do budúcna. Z dokumentov je možné skôr vydedukovať, že migrácia je vnímaná
+ako téma, ktorá dlhodobo škodí značke V4. Tento predpoklad potvrdzuje reflexia east-west
+divide a zhoršenej reputácie V4, kedy SR deklaruje záujem zabrániť vytváraniu možných
+nových deliacich čiar medzi Západom a Východom. Rovnako v kontexte aktuálnych tendencií
+34
+
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.376. ISBN 978-80-7418-292-1.
+
+44
+
+v rámci V4 Slovensko deklaruje na pôde V4 presadzovanie konštruktívnych východísk zo
+súčasných kríz EÚ. S tým súvisí tiež ambícia Slovenska aktívne sa podieľať na posilňovaní
+značky a postavenia V4 ako plnohodnotného a konštruktívneho aktéra v rámci EÚ. Spolupráca
+V4 v oblasti migrácie sa mala premietnuť aj do spoločných aktivít v rámci rozvojovej pomoci
+v krajinách, ktoré sú zdrojom migrácie. Táto ambícia korešponduje s presvedčením, že kľúčom
+riešenia migračnej krízy je riešiť predovšetkým príčiny a zdroje migrácie.
+Slovenska sa migračná kríza dotkla pomerne málo vzhľadom na jeho polohu, ktorá
+nebola na hlavnej trase pesunu migrantov do Európy. Aj napriek tomu panovala na Slovensku
+silná protiimigračná nálada, ktorá sa prejavovala najmä kontroverzných prejavoch vtedajších
+politikov ako tomu bolo aj u bývalého premiéra R. Fica. Ten odmietal prijať stanovené kvóty
+relokácie žiadateľov o azyl, no v konečnom dôsledku dospel aspoň k dohode prijatia výhradne
+kresťanských utečencov z Iraku, keďže intenzívne a dlhodobo presadzoval odmietavé postoje
+k prijatiu akéhokoľvek utečenca moslimského vierovyznania. Protiimigračná politika sa stala
+hlavným motívom pre nasledujúce parlamentné voľby, ktoré sa konali začiatkom marca 2016.
+Spolu s V. Orbánom podali žalobu na Radu EÚ, čím odmietali spoločne plniť relokačné kvóty.
+Reakciou na migračnú krízu došlo na Slovensku aj k výstavbe azylového zariadenia na
+hraniciach s Maďarskom, ktoré malo slúžiť na vybavovanie žiadostí o azyl z akéhokoľvek
+štátu. Aj toto vyvovalo v spoločnosti búrlivé rekacie čo jednoznačne svedčí o silnom
+potiimigračnom postoji.35
+5.4.1 Krajiny V4 vo svetle očakávaní zo strany EÚ
+V4 chce od západných krajín odpovede na otázky, čo s nenavrátiteľnými odídencami zo
+Sýrie a Afganistanu. Chýbajú im aj informácie o refundácii nákladov. Štvorica krajín tvrdí, že
+sú naďalej odhodlané pomáhať, no zdroje, ktoré vedia poskytnúť, sa markantne vyčerpávajú.
+Krajiny Vyšehradskej štvorky chcú v téme nelegálnej migrácie vystupovať v dialógu s
+Európskou komisiou spoločne. Zhodujú sa, že najúčinnejším opatrením je ochrana vonkajšej
+hranice schengenu. Dočasne poverený slovenský minister vnútra Roman Mikulec (OĽANO) o
+tom informoval po pondelkovom (6. marca 2023) rokovaní vedúcich predstaviteľov rezortov
+vnútra krajín V4 na zámku v Pezinku. Na stretnutí sa rovnako zúčastnili maďarský minister
+vnútra Sándor Pintér, štátny tajomník ministerstva vnútra Poľska Bartosz Grodecki a námestník
+českého ministra vnútra Radek Kaňa.
+35
+
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu migrace, integrace,
+a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing. s.377. ISBN 978-80-7418-292-1.
+
+45
+
+„Mnohí migranti, ktorí sem prichádzajú ilegálne, nechcú zostať na území krajín V4,
+chcú pokračovať do západných krajín a my potrebujeme s týmito krajinami hovoriť ešte
+aktívnejšie a otvorenejšie, aby situáciu s nami riešili tak, aby sme ju zvládli,” uviedol Mikulec.
+Zdôraznil, že zo strany Európskej komisie sú potrebné jednoznačné odpovede na návrhy V4.
+„Napríklad o tom, čo máme robiť s migrantmi, ktorí prichádzajú z krajín ako je Sýria
+alebo Afganistan a ktorí sú podľa platných európskych pravidiel, schengenského kódexu a
+návratovej smernice nenavrátiteľní,” načrtol.
+Poukázal aj na potrebu refundácií za realizáciu opatrení na ochranu vonkajšej hranice
+schengenu z rozpočtu Európskej komisie. Do budúcnosti nevylúčil zatváranie hraníc.
+„Dôležité je, aby k tomu došlo po dohode, koordinácii, aby to malo želaný efekt,”
+podotkol. Krajiny V4 si vymieňali aj skúsenosti s prílevom odídencov z Ukrajiny. Sú naďalej
+odhodlané pomáhať napríklad vysielaním rôznych expertov či úsilím integrovať ľudí, ktorí
+prišli na naše územie.
+„Aby sa čo najskôr postavili na vlastné nohy vzhľadom na to, že naše krajiny a zdroje,
+ktoré vieme poskytnúť, sú už do značnej miery vyčerpané,” podotkol Mikulec.36
+
+5.4.2 Slovenské predsedníctvo krajín V4
+Minister vnútra SR Roman Mikulec vo štvrtok 30. júna 2022 rokoval na konferencií
+šéfov rezortov vnútra krajín V4 v Budapešti. V prvej časti sa ministri venovali migračným
+výzvam v regióne, druhá časť konferencie sa týkala koordinácie situácie na Ukrajine.
+Ministerská konferencia V4 sa konala zároveň pri príležitosti ukončenia ročného predsedníctva
+Maďarska vo V4.
+Predsedníctvo ďalej prebrala Slovenská republika s platnosťou od 1. júla 2022 do 30.
+júna 2023.
+V súvislosti s príchodom utečencov z Ukrajiny do 28. júna 2022 (vrátane) požiadalo na
+území SR o azyl v dôsledku prebiehajúceho konfliktu 190 osôb, z čoho bolo 146 ukrajinských
+štátnych príslušníkov. Pokiaľ ide o žiadosti o dočasnú ochranu na území SR, tých bolo k 28.
+júnu 2022 podaných 83 495 (z čoho 82 968 bolo ukrajinských štátnych príslušníkov).
+36
+
+TASR. Euractiv. 2023. Krajiny V4 chcú v téme migrácie vystupovať na európskej pôde spoločne. [online].
+
+Dostupné na: <https://euractiv.sk/section/buducnost-eu/news/krajiny-v4-chcu-v-teme-migracie-vystupovatna-europskej-pode-spolocne/>
+
+46
+
+„Na vpád vojsk na územie Ukrajiny sme zareagovali veľmi promptne. Okamžite bol
+posilnený výkon hraničného dozoru. Každá osoba, ktorá vstúpila na územie Slovenskej
+republiky bola preverovaná v informačných systémoch. Osobitnú pozornosť pri hraničných
+kontrolách venujeme oblasti boja proti obchodovaniu s ľuďmi, deťom a maloletým bez
+sprievodu. Rovnako sme posilnili aj výkon hraničného dozoru na zelenej hranici. Zmenou
+zákona o azyle, umožnila Slovenská republika využitie inštitútu dočasného útočiska ešte pred
+aktiváciou smernice Európskej únie o dočasnej ochrane. V súvislosti s udeľovaním dočasného
+útočiska sa urýchlili administratívne procesy tým, že boli zriadené veľkokapacitné registračné
+centrá a zároveň sa umožnila registrácia o dočasné útočisko aj elektronickou formou. Takto
+nastavenými postupmi sme schopní efektívne zvládať prílev ukrajinských migrantov," povedal
+minister vnútra SR Roman Mikulec. V oblasti vnútorných záležitosti slovenské predsedníctvo
+venovalo pozornosť otázkam hybridných hrozieb, policajnej spolupráce, ochrany spoločných
+hraníc a migrácii.
+„Budeme pokračovať v existujúcej kvalitnej policajnej spolupráci medzi našimi
+krajinami, vrátane rozvoja spolupráce v oblasti krízového riadenia," povedal minister vnútra
+Roman Mikulec.
+„V otázkach migrácie budeme reflektovať rokovania v Rade EÚ o reforme Spoločného
+európskeho azylového systému, najmä pokrok dosiahnutý počas francúzskeho predsedníctva
+pri uvádzaní graduálneho prístupu k reforme do praxe. S cieľom konštruktívne prispieť k
+diskusii, popri dlhodobých prioritách V4, ako je ochrana vonkajších hraníc a prevencia
+nelegálnej migrácie vrátane návratov, budeme i naďalej presadzovať solidaritu ako kľúčovú,
+ktorá musí byť neoddeliteľnou súčasťou nášho úsilia o vytvorenie novej migračnej a azylovej
+politiky EÚ," zhrnul Roman Mikulec.
+Dôležitým prvkom bola aj snaha zaujať spoločné postoje k reforme schengenského priestoru s
+osobitným dôrazom na riadne fungujúci a bezpečný Schengen.
+„Slovenská republika bude adekvátne a pohotovo reagovať na všetky nové výzvy, ktoré
+sa môžu vyskytnúť a hľadať ich spoločné riešenia na úrovni krajín V4 v úzkej spolupráci s
+českým a švédskym predsedníctvom v Rade Európskej únie," uzavrel minister vnútra SR Roman
+Mikulec.37
+
+37
+
+MV SR. 2022. Slovensko od 1. júla 2022 preberá predsedníctvo vo V4. Tlačová správa. [online]. Dostupné na:
+
+<https://www.minv.sk/?tlacove-spravy&sprava=slovensko-od-1-jula-2022-prebera-predsednictvo-vo-v4>
+
+47
+
+5.5 Vojna na Ukrajine a prílev utečencov z Ukrajiny
+V roku 2022 prekročilo hranice na Slovensko viac ako milión štátnych príslušníkov
+Ukrajiny a tretích krajín, ktorí potrebujú medzinárodnú ochranu a pomoc. Ženy a deti tvorili
+78% celkovej vysídlenej populácie. Slovenská vláda nechala hranice otvorené a viedla reakciu
+na situáciu utečencov na Ukrajine. Vnútroštátne, okresné a miestne orgány rýchlo reagovali na
+veľký počet odídencov, ktorí potrebovali humanitárnu pomoc. V duchu solidarity miestne
+spoločenstvá, ako aj súkromný sektor, občianska spoločnosť, organizácie vedené utečencami,
+náboženské združenia a tisíce slovenských dobrovoľníkov spolupracovali s humanitárnymi
+aktérmi na doplnení úsilia vedeného vládou. Spolu s medzinárodnými mimovládnymi
+organizáciami a agentúrami OSN aktéri poskytli významnú podporu na hraniciach, v prvých
+ubytovacích strediskách a mestských oblastiach.
+Reakcia utečencov na Slovensku nadobudla a multilaterálny ak aj viac-sektorový prístup "celej
+spoločnosti". Odpoveďou bolo vytvorenie osobitných potrieb odídencov a obhajovali sa ich
+práva a prístup k službám. Dôraz sa kládol na ubytovanie, prístup k zdravotnej starostlivosti,
+vzdelávanie, právne poradenstvo, ochranu detí, živobytie a hospodárske začlenenie, sociálnu
+ochranu a sociálno-ekonomické príležitosti.
+Slovensko prijalo v súvislosti so situáciou na Ukrajine tri balíky zákonov vrátane zákona
+o azyle a zákona o pobyte cudzincov, ktorých cieľom je uľahčiť integráciu osôb utekajúcich z
+Ukrajiny. Legislatívne balíky sa týkali pobytu a dočasnej ochrany, prístupu na trh práce,
+vzdelávania, dopravy, ubytovania, sociálnej ochrany a zdravotnej starostlivosti. Štatút dočasnej
+ochrany (TP) bol utečencom prichádzajúcim z Ukrajiny a ich rodinám prístupný už od 1. marca
+2022 a ku koncu decembra 2022 požiadalo o dočasnú ochranu na Slovensku celkovo 104 764
+osôb.
+Na základe existujúcich vládou vlastnených a vedených štruktúr a skúseností miestnych
+záchranárov medzi agentúrna reakcia počas prvej fázy núdzovej situácie dopĺňala úsilie počas
+vykonávania viac-sektorového plánu reakcie na utečencov (RRP). Celkovo 21 partnerov spojilo
+sily a koordinovalo kroky na podporu vlády pri zlepšovaní efektívnosti a kvality poskytovanej
+pomoci a služieb. UNHCR v spolupráci s vládou zriadil Koordinačné fórum pre utečencov
+(RCF) s odvetvovými koordinačnými mechanizmami vrátane pracovných a podpracovných
+skupín pre kľúčové oblasti ochrany, ochrany detí, zdravia, duševného zdravia a psychosociálnej
+
+48
+
+podpory, riadenia informácií, intervencií založených na hotovosti, ako aj pracovných skupín na
+ochranu a boj proti obchodovaniu s ľuďmi. 38
+Riaditelia migračných úradov Vyšehradskej skupiny v súvislosti so slovenským
+predsedníctvom fóra diskutovali o skúsenostiach a dobrej praxi pri zvládaní príjmu osôb
+utekajúcich z konfliktom postihnutého územia Ukrajiny. Fórum sa uskutočnilo na pozvanie
+riaditeľa migračného úradu MV SR Jána Orlovského. Zúčastnení sa zhodli, že táto migrácia
+predstavuje bezprecedentnú výzvu, ktorú štáty zvládajú s maximálnym nasadením svojich
+kapacít. Počas posledného roka štáty regiónu ukázali nevídanú mieru solidarity pri poskytnutí
+ochrany
+
+a starostlivosti
+
+o tieto
+
+osoby.
+
+Počas
+
+stretnutia
+
+sa
+
+diskutovalo
+
+o ďalších
+
+súvisiacich výzvach, ktoré štáty prekonali a tiež o tých, s ktorými sa potýkajú v oblastiach
+príjmu, poskytnutia ubytovania, začlenenia na trh práce a vzdelávania.
+"V štátoch V4 panuje zhoda, že dočasnú ochranu bude vzhľadom na situáciu
+pravdepodobne nutné predĺžiť do roku 2025. Koncept dočasnej ochrany sa ukázal
+ako efektívny a flexibilný nástroj manažmentu tohto druhu migrácie a do budúcnosti by ho bolo
+vhodné zachovať ako jeden z nástrojov zvládania krízových situácií,”39 uviedol riaditeľ
+Migračného úradu MV SR Ján Orlovský. Riaditelia týchto úradov zároveň vzájomne
+skonštatovali, že posudzovanie migračných tlakov na úrovni EÚ by malo zahŕňať nielen počty
+žiadateľov o azyl, ale zohľadniť aj ďalšie ukazovatele na získanie lepšieho obrazu o situácii
+v oblasti migrácie. Zástupcovia krajín vyzdvihli regionálnu spoluprácu a zdôraznili potrebu
+a nutnosť koordinácie na úrovni EÚ v záujme regiónu.
+
+5.6 Nový akčný plán
+Na pôde Ministerstva vnútra SR bol 27. februára 2023 zástupcom agentúr OSN,
+medzinárodných aj domácich mimovládnych organizácií, zástupcov rezortov a veľvyslanectiev
+predstavený Akčný plán reakcie na príchod utečencov pre Slovensko na rok 2023. evidovyný
+aj pod pojmom RRP – z anglického Regional Response Plan. Slovensko plán predstavilo v
+mene všetkých 28 zúčastnených partnerských organizácií, ktoré pracovali na jeho tvorbe.
+
+38
+
+UNHCR. 2023. Ukraine Situation - 2022 Final Report Regional Refugee Response Plan (March – December 2022).
+
+s. 39.
+39
+
+MV SR. 2023. Riaditelia migračných úradov V4 predpokladajú predĺženie dočasného útočiska do roku 2025 .
+Tlačová správa. [online]. Dostupné na: https://www.minv.sk/?tlacove-spravy&sprava=riaditelia-migracnychuradov-v4-predpokladaju-predlzenie-docasneho-utociska-do-roku-2025
+
+49
+
+''Naším cieľom je predovšetkým čo najefektívnejšie podporovať utečencov a utečenkyne, aby si
+znovu vybudovali plnohodnotné životy tak, aby prinášali hodnoty nie len sebe, ale aj slovenskej
+spoločnosti. Vidíme, že záujem z ich strany je mimoriadny,” uviedol štátny tajomník
+ministerstva vnútra Ľubomír Šablica.
+Akčný plán podrobne pokrýva 5 hlavných životných situácií od ochrany zraniteľných skupín,
+cez zdravotnú starostlivosť, školstvo, sociálnu inklúziu a základné potreby, čím zároveň
+kopíruje štátnu štruktúru Koordinačného výboru pre integráciu odídencov a odídenkýň a
+vymedzuje a sprehľadňuje kompetencie jednotlivých organizácií zapojených do procesu
+pomoci.
+"Situácia s odídencami z Ukrajiny je špecifická najmä v ich vekovom zložení a pohlaví.
+Ide najmä o deti, ženy a starších ľudí, ktorí patria k zraniteľným skupinám obyvateľstva. V
+rámci ministerstva vnútra aktívne pracujeme na ich ochrane a pomoci a to nielen z pozície
+Policajného zboru a našich mimovládnych organizácií, ale aj v úzkej spolupráci s agentúrami
+OSN, ” poznamenal riaditeľ Migračného úradu MV SR Ján Orlovský.
+Okrem Slovenska boli podobné akčné plány pripravené pre ďalších 9 krajín, akými sú:
+Česko, Bulharsko, Estónsko, Maďarsko, Litva, Lotyšsko, Moldavsko, Poľsko a Rumunsko.40
+
+40
+
+MV SR. 2023. Spoločne sme predstavili akčný plán reakcie na príchod utečencov pre Slovensko na rok 2023 .
+
+Tlačová správa. [online]. Dostupné na: <https://www.minv.sk/?tlacove-spravy&sprava=spolocne-smepredstavili-akcny-plan-reakcie-na-prichod-utecencov-pre-slovensko-na-rok-2023>
+
+50
+
+ZÁVER
+Migrácia je vo všetkých jej podobách a prejavoch nepochybne neodmysliteľnou
+súčasťou každodenného života celosvetového spoločenstva. Zasahuje všetky krajiny, bez
+ohľadu na to, ako tento jav hodnotia či ako sa k nemu stavajú. Migrácia patrí medzi najväčšie
+výzvy súčasnosti a výhľadovo ňou ostane aj naďalej. Zvládať, riadiť ju a koordinovať čo
+najviac efektívne dokážeme iba aktívnym prístupom, založeným na cieľavedomej práci,
+včasnom plánovaní, rozpracovávaní jej jednotlivých príči a aspektov. Rovnako aj
+implementovaní účinných opatrení, vrátane spolupráce s partnermi.
+V diplomovej práci sme sa sústredili na pozíciu Vyšehradskej skupiny vrátane Slovenska
+vo vzťahu k migračnej politike EÚ a vo svetle tzv. migračnej krízy v období rokov 2015 až
+2018, kedy táto téma v Európe asi najviac rezonovala . Dané časové vymedzenie bolo
+charakteristické naštrbením vzťahov medzi ktajinami V4 a jeho partnermi v Únii. Ďalšou
+významnou udalosťou, ktorá zasiahla do stanoveného obdobia, bolo prvé predsedníctvo
+Slovenska v Rade EÚ v histórii.
+V tejto práci sme sa nesnažili plne popísať a odhaliť všetky aspekty migračných diskurzov
+v štyroch krajinách V4, pretože na to by neboli stanovené kapacitné možnosti práce. Našou
+snahou bolo najmä zistiť, v čom sa charakteristiky a špecifiká jednotlivých diskurzov odlišujú
+a čo majú spoločné. V závere práce môžeme konštatovať, že spoločné mali a stále majú krajiny
+V4 mnoho. Rovnako aj to, že politici krajín Vyšehradu o Európskej migračnej kríze hovorili,
+v niektorých prípadoch aj naďalej hovoria, takmer rovnakým jazykom. Ich primárnym cieľom
+bola bezpečnosť ich vlastnej spoločnosti a zachovanie aspektov národného štátu.
+Migračná kríza bola, je a stále bude udalosť, ktorá jasne vymedzila spoločné stanovisko
+krajín V4 voči migrácii a migrantom a zdá sa, že V4 v budúcnosti bude hovoriť nielen jednotne,
+ale aj nahlas. V závere práce sme načrtli aj vývoj prílevu utečencov z Ukrajiny nie len do krajín
+V4 ale celej Európy, ktorých budúcnosť je stále nejasná.
+
+51
+
+ZOZNAM POUŽITÝCH SKRATIEK A SYMBOLOV
+
+ČR
+
+- Česká republika
+
+ČŠ
+
+- Členský štát EÚ
+
+EK
+
+- Európska komisia
+
+EÚ
+
+- Európska únia
+
+FAC
+
+- Rada zahraničných vecí
+
+IOM
+
+- Medzinárodná organizácia pre migráciu
+
+MZVaEZ SR
+
+- Ministerstvo zahraničných vecí a európskych záležitostí SR
+
+NATO
+
+- Severoatlantická aliancia
+
+NRSR
+
+- Národná rada SR
+
+OSN
+
+- Organizácia spojených národov
+
+SK PRES
+
+- Slovenské predsedníctvo
+
+SR
+
+- Slovenská republika
+
+V4
+
+- Vyšehradská skupina
+
+ZFEÚ
+
+- Zmluva o fungovaní Európskej únie
+
+52
+
+ZOZNAM POUŽITEJ LITERATÚRY A INTERNETOVÝCH ZDROJOV
+ANDROVIČOVÁ, J. 2015. Migrácia a migračná politika na Slovensku – analýza diskurzu.
+Dizertačná práca. Masarykova univerzita. Fakulta sociálnych studií, Doktorské studium
+sociologie. Brno. 163 s.
+BAUMAN, Z. 2006. Komunita. Hľadanie bezpečia vo svete bez istôt. Vydavateľstvo Spolku
+slovenských spisovateľov. Bratislava. 122 s. ISBN 8080612250.
+BOBOVÁ, Z. 2018. Analýza politického diskurzu migračnej krízy v krajinách V4. Diplomová
+práca. Masarykova univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a
+evropských studií. Brno. 70 s.
+COHEN, R. 2019. Migrace: stěhování lidstva od pravěku po současnost. Brno. Mapcards.net.
+208 s.
+HOWARTH, D. R., & Torfing, J. 2005. Discourse theory in European politics: identity, policy,
+and governance. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
+HROCH, M. 2003. Pohledy na národ a nacionalismus: čítanka textů. Praha: Sociologické
+nakladatelství.
+HROCH, M. 2009. Národy nejsou dílem náhody: příčiny a předpoklady utváření moderních
+evropských národů. Praha: Sociologické nakladatelství (SLON).
+HUYSMANS, J. 2000. The European Union and the Securitization of Migration. In Journal of
+Common Market Studies 38: 751-777.
+IVANOVA, D. 2016. „Migrant crisis and the Visegrad Group.“ In International Conference
+KNOWLEDGE-BASED ORGANIZATION 22 (1): 35-39. DOI: 10.1515/kbo-2016-0007
+JØRGENSEN, M., PHILLIPS, L. 2002. Discourse analysis as theory and method. London –
+Thousand Oaks, California – New Delhi: Sage Publications.
+JUNGWIRT, T. 2019. Cesty k prosperite: Migrácia a rozvoj v Českej republike. Caritas, Česká
+republika. Praha. 43 s.
+53
+
+MELOVÁ, D., GÁL. Z. 2018. A farewell to a passive policy taker role?. Routlege, Taylor and
+Francis. London and New York. 120 s. ISBN: 978-1-138-71402-1.
+PRACHAŘ, D. 2021. Globalizácia a medzinárodná migrácia. Bakalárska práca. Masarykova
+univerzita, Pedagogická fakulta, Katedra občianskej výchovy. Brno. 56 s.
+LIĎÁK, J. 2010. Mezinárodní migrace a evropa. Nezávislé centrum pro studium politiky.
+Kolín. 149 s. ISBN 978-80-86879-24-6.
+MRÁZKOVÁ, K. 2017. Spolupráce V4 v oblasti vnitřní bezpečnosti států. Bakalárska práca.
+Masarykova univerzita, Fakulta sociálnych studií, Katedra mezinárodních vztahů a evropských
+studií. Brno. 44 s.
+ROŽŇÁK, P. KUBEČKA, K. a kolektív. 2018. Země Visegrádu a migrace; Fenomén procesu
+migrace, integrace, a reintegrace v kontextu bezpečnosti zemí V4. Ostrava: KEY Publishing.
+monografie. 468 s. ISBN 978-80-7418-292-1.
+
+Internetové zdroje
+European Council. 2018. Timeline - response to migratory pressures. [online]. [citované 202303-20].
+
+Dostupné
+
+na:
+
+<https://www.consilium.europa.eu/en/policies/migratory-
+
+pressures/history-migratory-pressures/#>
+Európska rada. 2023. Chronologický prehľad - Migračná a azylová politika EÚ. [online].
+[citované
+
+2023-03-30].Dostupné
+
+na:
+
+<https://www.consilium.europa.eu/sk/policies/eu-
+
+migration-policy/migration-timeline/
+Eurostat. 2016. Asylum in the EU Member States. Record number of over 1.2 million first time
+asylum seekers registered in 2015. Syrians, Afghans and Iraqis: top citizenships. Eurostat
+Newsrelease
+
+[online].
+
+[citované
+
+2023-03-12].
+
+<https://ec.europa.eu/eurostat/documents/2995521/7203832/3-
+
+Dostupné
+
+na:
+
+04032016-AP-
+
+EN.pdf/790eba01-381c-4163-bcd2-a54959b99ed6>
+
+54
+
+Eurostat.
+
+2018.
+
+Asylum
+
+statistics
+
+[online].
+
+[citované
+
+2023-03-20].
+
+Dostupné
+
+na:
+
+<https://ec.europa.eu/eurostat/statistics- explained/index.php/Asylum_statistics>
+Centrum pre výskum etnicity a kultúry. 2023. [online]. [citované 2023-03-05]. Dostupné na:
+<http://cvek.sk/wp-content/uploads/2016/02/Manuál_Rozumne-o-migracii_finalnaverzia.pdf>
+Človek
+
+v ohrození.
+
+2023.
+
+[online].
+
+[citované
+
+2023-03-03].
+
+Dostupné
+
+na:
+
+<https://clovekvohrozeni.sk/slovensko-krajina-bez-migracie/>
+FIALA, P. 2015. Fiala (ODS): Kvóty na uprchlíky nejsou řešením problému. [online]. [citované
+2023-03-30]. Dostupné na: <https://www.parlamentnilistv.cz/politika/politici-volicum/FialaODS-Kvotv-na-uprchliky-neisou- resenim-problemu-376972>
+Frontex.
+
+2018.
+
+Migratory
+
+map
+
+[online].
+
+[citované
+
+2023-03-27].
+
+Dostupné
+
+na:
+
+<https://frontex.europa.eu/along-eu- borders/migratory-map/>
+Institut pro politiku a společnost. 2015. Uprchlická krize a Česká republika. Policy paper.
+[online].
+
+[citované
+
+2023-03-20].
+
+Dostupné
+
+na:
+
+<https://www.politikaspolecnost.cz/papers/uprchlicka-krize-a-ceska-republika/>
+IOM. 2023. Migrácia vo svete. [online]. [citované 2023-03-01]. Dostupné na:
+<https://iom.sk/index.php/sk/migracia/migracia-vo-svete.html>
+IOM. 2023. Migrácia na Slovensku. [online]. [citované 2023-03-27]. Dostupné na:
+<https://iom.sk/sk/migracia/migracia-na-slovensku.html>
+MV SR. 2023. Migračná politika Slovenskej republiky s výhľadom do roku 2025. pdf [online].
+[citované 2023-03-20]. 15 s. Dostupné na: <https://www.minv.sk/?zamer-migracnej-politikyslovenskej-republiky>
+MV SR. 2022. Slovensko od 1. júla 2022 preberá predsedníctvo vo V4. Tlačová správa. .
+[online].
+
+[citované
+
+2023-03-28]
+
+Dostupné
+
+na:
+
+<https://www.minv.sk/?tlacove-
+
+spravy&sprava=slovensko-od-1-jula-2022-prebera-predsednictvo-vo-v4>
+
+55
+
+MV SR. 2023. Riaditelia migračných úradov V4 predpokladajú predĺženie dočasného útočiska
+do roku 2025 . Tlačová správa. [online]. [citované 2023-03-29]. Dostupné na:
+https://www.minv.sk/?tlacove-spravy&sprava=riaditelia-migracnych-uradov-v4predpokladaju-predlzenie-docasneho-utociska-do-roku-2025
+MV SR. 2023. Spoločne sme predstavili akčný plán reakcie na príchod utečencov pre Slovensko
+na rok 2023 . Tlačová správa. [online]. [citované 2023-03-30]. Dostupné na:
+<https://www.minv.sk/?tlacove-spravy&sprava=spolocne-sme-predstavili-akcny-planreakcie-na-prichod-utecencov-pre-slovensko-na-rok-2023>
+OZNÁMENIE Ministerstva zahraničných vecí. 2023. Dohovor o právnom postavení
+utečencov.
+
+[online].
+
+[citované
+
+2023-03-01].
+
+Dostupné
+
+na:
+
+<https://zakony.judikaty.info/predpis/oznamenie-319/1996>
+ŠTRBA, P. Aktuality.sk. 2022. Migračná kríza sa vracia do Európy, no Západ sa zatvára.
+Doplácajú na to Slováci, ale najmä utečenci. [online]. [citované 2023-03-30]. Dostupné na:
+<https://www.aktuality.sk/clanok/kUfe4lq/migracna-kriza-sa-vracia-do-europy-no-zapad-sazatvara-doplacaju-na-to-slovaci-ale-najma-utecenci/>
+TASR. Euractiv. 2023. Krajiny V4 chcú v téme migrácie vystupovať na európskej pôde
+spoločne.
+
+[online].
+
+[citované
+
+2023-03-30].
+
+Dostupné
+
+na:
+
+<https://euractiv.sk/section/buducnost-eu/news/krajiny-v4-chcu-v-teme-migracie-vystupovatna-europskej-pode-spolocne/>
+UTEČENCI V POČTOCH. 2023. Ľudia v núdzi Česká republika. [online]. [citované 2023-0301]. Dostupné na: <https://www.clovekvtisni.cz/migracni-statistiky-4518gp>
+UNHCR. 2015. Mediterranean Crisis 2015 at six months: refugee and migrant numbers highest
+on
+
+record
+
+[online].
+
+[citované
+
+2023-03-12].
+
+Dostupné
+
+na:
+
+<http://www.unhcr.org/news/press/2015/7/5592b9b36/mediterraneancrisis-2015-six-monthsrefugee-migrant-numbers-highest-record.html>
+UNHCR. 2023. Ukraine Situation - 2022 Final Report Regional Refugee Response Plan
+(March – December 2022). s. 39. [online]. [citované 2023-03-28].
+
+Dostupné na:
+
+<https://data.unhcr.org/en/documents/details/99791>
+56
+
+VISEGRAD GROUP. 2023. História V4. [online]. [citované 2023-03-15]. Dostupné na:
+<https://www.visegradgroup.eu/historia-v4-110412>
+WEISS. P. Pravda. 2023. Vyšehrad nie je na odpis. [online]. [citované 2023-03-30]. Dostupné
+na: < https://nazory.pravda.sk/analyzy-a-postrehy/clanok/661759-vysehrad-nie-je-na-odpis/>
+ŽAC, M. 2017. Analýza migračnej krízy v priestore Európskej únie.13. študentská vedecká
+a umelecká
+
+konferencia.
+
+6
+
+s.
+
+[online].
+
+[citované
+
+2023-03-17].
+
+Dostupé
+
+na:
+
+<http://www.pulib.sk/web/kniznica/elpub/dokument/Olostiak14/subor/Zac.pdf>
+
+Súvisiace zdroje
+OZNÁMENIE č. 208/1993 Z. z. o uzavretí Dohovoru o právnom postavení utečencov a
+Protokolu o právnom postavení utečencov.
+DOHOVOR č. 143/1975 o zneužívaní migrácie a podpore rovnakých príležitostí a rovnakého
+zaobchádzania s migrujúcimi pracovníkmi.
+
+57
+
+

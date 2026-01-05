@@ -1,0 +1,2760 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+18 0841
+
+KOMPLEXNÁ OŠETROVATEĽSKÁ STAROSTLIVOSŤ
+O PACIENTA S NÁHLOU CIEVNOU MOZGOVOU PRÍHODOU
+BAKALÁRSKA PRÁCA
+
+2022
+
+FRANTIŠEK PELIKÁN
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+KOMPLEXNÁ OŠETROVATEĽSKÁ STAROSTLIVOSŤ O
+PACIENTA S NÁHLOU CIEVNOU MOZGOVOU PRÍHODOU
+BAKALÁRSKA PRÁCA
+
+Študijný program: Ošetrovateľstvo
+Študijný odbor:
+
+5602 Ošetrovateľstvo
+
+Školiace pracovisko: Ústav zdravotníckych disciplín, VŠZ a SP sv. Alžbety v
+Bratislave
+Školiteľ:
+
+BRATISLAVA 2022
+
+PhDr. Marianna Hammelová, PhD.
+
+FRANTIŠEK PELIKÁN
+
+Čestné prehlásenie
+Čestne prehlasujem, že som predloženú záverečnú prácu vypracoval samostatne s použitím
+uvedenej literatúry v ZOZNAME POUŽITÝCH ZDROJOV
+Bratislava 2022
+……………………………………
+František Pelikán
+
+Poďakovanie
+Týmto ďakujem mojej školiteľke PhDr. Marianne Hammelovej, PhD, za odborné rady,
+ochotu a usmernenie pri písaní tejto záverečnej práce. Poďakovanie zároveň patrí mojej
+rodine a priateľom, za ich podporu a pomoc.
+
+ABSTRAKT
+PELIKÁN, František: Komplexná ošetrovateľská starostlivosť o pacienta s náhlou cievnou
+mozgovou príhodou [Bakalárska práca] – Vysoká škola zdravotníctva a sociálnej práce sv.
+Alžbety, Bratislava: Katedra ošetrovateľstva. Školiteľ: PhDr. Marianna Hammelová, PhD
+– Bratislava: VŠZaSP sv. Alžbety, 2022. 70 s.
+Predmetná bakalárska práca sa venuje komplexnej ošetrovateľskej starostlivosti o pacienta
+s náhlou cievnou mozgovou príhodou. Cieľom bakalárskej práce je spracovať tému náhlej
+cievnej mozgovej príhody a ošetrovateľskej starostlivosti o pacienta s daným ochorením.
+Teoretické východiská práce sú zamerané na charakteristiku náhlej cievnej mozgovej
+príhody, jej základnú diagnostiku, rizikové faktory a liečbu so zameraním na špecifiká
+ošetrovateľskej starostlivosti o pacienta s náhlou cievnou mozgovou príhodou. Praktickú
+časť práce tvorí vypracovaný ošetrovateľský proces u konkrétneho pacienta s náhlou
+cievnou mozgovou príhodou. Pre poskytovanie kvalitnejšej komplexnej ošetrovateľskej
+starostlivosti je potrebné prehlbovanie vedomostí a zručností zdravotníckeho personálu
+ošetrujúceho pacientov s náhlou cievnou mozgovou príhodou.
+Kľúčové
+
+slová:
+
+náhla
+
+cievna
+
+mozgová
+
+ošetrovateľský proces, model M. Gordonovej
+
+príhoda,
+
+ošetrovateľská
+
+starostlivosť,
+
+ABSTRACT
+PELIKÁN, František: Comprehensive nursing care for a patient with a sudden stroke
+[Bachelor thesis] – Institute of Health and Social Sciences St. Elizabeth, Bratislava:
+Department of nursing. Supervisor: PhDr. Marianna Hammelová, PhD – Bratislava:
+VŠZaSP St. Elizabeth, 2022. 70 p.
+The bachelor thesis deals with the comprehensive nursing care of a patient with a sudden
+stroke. The aim of the bachelor thesis was to process the topic of stroke and nursing care
+for patients with stroke. The theoretical basis of the thesis is focused on the characteristics
+of a sudden stroke, its basic diagnosis, risk factors and treatment with a focus on the
+specifics of nursing care for patients with a sudden stroke. The practical part of the thesis
+consists of a developed nursing process in a specific patient with a sudden stroke. In order
+to provide better comprehensive nursing care, it is necessary to deepen the knowledge and
+skills of medical staff caring for patients with a sudden stroke.
+Key words: sudden stroke, nursing care, nursing process, model of M. Gordon
+
+Obsah
+ABSTRAKT
+ABSTRACT
+ZOZNAM POUŽITÝCH SKRATIEK
+ZOZNAM POUŽITÝCH TABULIEK
+Úvod
+1. Súčasný stav riešenej problematiky - náhla cievna mozgová príhoda .................. 12
+1.1 Delenie náhlej cievnej mozgovej príhody .............................................................. 13
+1.2 Diagnostika náhlej cievnej mozgovej príhody ....................................................... 16
+1.3 Rizikové faktory a prevencia cievnej mozgovej príhody ....................................... 18
+1.4 Manažment a liečba náhlej cievnej mozgovej príhody .......................................... 21
+2. Špecifiká ošetrovateľskej starostlivosti o pacienta s náhlou cievnou mozgovou
+príhodou .......................................................................................................................... 23
+2.1 Vzorce zdravia a špecifiká ošetrovateľskej činnosti podľa Marjory Gordonovej .. 23
+2.2 Ošetrovateľská diagnostika pacienta s náhlou cievnou mozgovou príhodou ......... 25
+2.3 Plánovanie ošetrovateľskej starostlivosti u pacienta po náhlaj cievnej mozgovej
+príhode .......................................................................................................................... 26
+3. Komplexná ošetrovateľská starostlivosť o pacienta s náhlou cievnou mozgovou
+príhodou .......................................................................................................................... 30
+3.1 Kazuistika ............................................................................................................... 30
+3.2 Posúdenie pacienta podľa vzorcov zdravia M. Gordonovej ................................... 32
+3.3 Stanovenie sesterských diagnóz ............................................................................. 38
+3.4 Plán ošetrovateľskej starostlivosti .......................................................................... 39
+Odporúčania pre prax ....................................................................................................... 52
+Záver ................................................................................................................................... 53
+ZOZNAM POUŽITÝCH ZDROJOV .............................................................................. 54
+ZOZNAM PRÍLOH ........................................................................................................... 58
+
+ZOZNAM POUŽITÝCH SKRATIEK
+Amp
+
+Ampulka
+
+BMI
+
+Body mass index
+
+CMP
+
+Cievna mozgová príhoda
+
+CNS
+
+Centrálna nervová sústava
+
+CT
+
+Počítačová tomografia
+
+CTA
+
+CT angiografia
+
+CTP
+
+CT perfúzia
+
+D
+
+Dych
+
+DWI
+
+„diffusion-weighted image“; difúzny vážený obraz
+
+ECDC
+
+Centrum pre kontrolu a prevenciu chorôb
+
+EKG
+
+Echokardiogram
+
+ICH
+
+Intracerebrálne krvácanie
+
+i.m.
+
+Intra muskulárne
+
+i.v.
+
+Intra venózne
+
+INF
+
+Infúzia
+
+JIS
+
+Jednotka intenzívnej starostlivosti
+
+mg
+
+Miligram
+
+ml
+
+Mililiter
+
+MRI
+
+Magnetická rezonancia
+
+NANDA
+
+Severoamerická asociácia pre sesterské diagnózy
+
+NCMP
+
+Náhla cievna mozgová príhoda
+
+NHISS
+
+The National Institute of Health Stroke Scale
+
+P
+
+Pulz
+
+PT
+
+Protrombínový čas
+
+PPT
+
+Čiastočný tromboplastínový čas
+
+RTG
+
+Röntgen
+
+rTPA
+
+Rekombinantný tkanivový plazmínogénový aktivátor
+
+SAH
+
+Subarachnoidálne krvácanie
+
+SpO2
+
+Okysličenie krvi
+
+TIA
+
+Prechodný ischemický atak
+
+TK
+
+Tlak krvi
+
+TT
+
+Telesná teplota
+
+ZOZNAM POUŽITÝCH TABULIEK
+Tabuľka 1
+
+Korelácia
+
+medzi
+
+vekovou
+
+pravdepodobnosťou mozgovej príhody
+
+skupinou
+
+a priemernou
+
+10-ročnou
+
+Úvod
+Náhla cievna mozgová príhoda (NCMP), jej príčiny vzniku a faktory, ktoré ju dokážu
+ovplyvniť predstavuje vždy aktuálnu tému, nakoľko ide o tretiu najčastejšiu príčinu úmrtí
+a predstavuje vážny, nielen medicínsky, ale aj ekonomický problém.
+Cievna mozgová príhoda postihuje väčšinou staršie osoby, ale týka sa aj mladých osôb.
+NCZI uvádza, že v roku 2017 urtpelo cievnu mozgovú príhodu 11 556 pacientov, z toho
+352 osôb vo veku 20 až 44 rokov. Z celkového počtu pacientov, 90,5% utrpelo ischemickú
+cievnu mozgovú príhodu, 9% hemoragickú mozgovú príhodu a 0,5% tvorí nešpecifikovaná
+cievna mozgová príhoda. Dáta uvádzajú, že v roku 2017 utrpelo cievnu mozgovú príhodu
+spolu 1,12 milióna osôb, z toho bolo 0,46 milióna úmrtí.
+Existujú viaceré faktory, ktoré ovplyvňujú vznik náhlej cievnej mozgovej príhody. Tieto
+faktory delíme na modifikovateľné a nemodifikovateľné. K nemodifikovateľným
+rizikovým faktorom patrí pohlavie, vek, rasa a genetická dispozícia. Dokázanými
+modifikovateľnými rizikovými faktormi sú vysoký krvný tlak - hypertenzia, fibrilácia
+predsiení a ochorenia srdca s vysokým rizikom, diabetes mellitus, stenóza a. carotis,
+dyslipidémia,
+
+kardioembolizmu,
+
+antikoagulačná/antiagregačná liečba
+
+hypokoagulačné
+
+stavy
+
+a
+
+nadmerná
+
+a v neposlednom rade faktory životného štýlu –
+
+fajčenie, nadmerné pitie alkoholu, užívanie drog a sympatikomimetík, hormonálna
+antikoncepcia, nedostatočná fyzická aktivita a obezita.
+Cieľom záverečnej práce je zosumarizovať najnovšie poznatky týkajúce sa klasifikácie,
+diagnostiky, prevencii, liečby a špecifík ošetrovateľskej starostlivosti o pacienta s NCMP.
+V praktickej časti vypracovať ošetrovateľský proces u konkrétneho pacienta s náhlou
+cievnou mozgovou príhodou podľa Marjory Gordonovej a odporúčania pre prax.
+
+1. Súčasný stav riešenej problematiky - náhla cievna mozgová príhoda
+Náhlu cievnu mozgovú príhodu je možné poznať aj pod inými názvami ako je porážka,
+náhla mozgová príhoda, iktus, mozgový infarkt, mozgová mŕtvica či krvácanie do mozgu.
+V tejto kapitole budeme definovať ako vzniká náhla cievna mozgová príhoda,
+klasifikujeme jej príčiny, podrobne rozoberieme jej diagnostiku, prevenciu, liečbu
+a špecifiká ošetrovateľskej starostlivosti.
+Definícia náhlej cievnej mozgovej príhody
+
+Jesseniova lekárska fakulta v Martine (2014) definuje cievnu mozgovú príhodu (CMP)
+ako poškodenie mozgu ischémiou, ktorá môže vzniknúť náhle ale rozvíja sa postupne.
+CMP je zapríčinená najmä trombózou mozgovej cievy, čiže tvorbou krvných zrazenín na
+stenách ciev alebo je spôsobená krvácaním v dôsledku ruptúry cievy, čiže roztrhnutí cievy.
+Pri mozgovom infarkte je určitá časť mozgu nedostatočne zásobená kyslíkom a rozsah
+tohto neurologického poškodenia závisí od konkrétnej oblasti, ktorá je v danom momente
+postihnutá. Ďalej záleží od mechanizmu, ktorý vedie k mozgovej hypoperfúzii, od jeho
+trvania a následnej závažnosti (Miertová a kol., 2014).
+„Mozgový iktus – apoplexia, mozgový infarkt, náhla cievna mozgová príhoda (NCMP) je akútny stav podmienený poruchou cerebrálnej cirkulácie netraumatickej etiológie, ktorý
+sa prejavuje náhle vzniknutým ložiskovým alebo globálnym neurologickým deficitom“
+(Dobiáš, 2012, s. 191). Vznik mozgovej príhody je znázornený v Prílohe 1.
+Podľa Modravého (2006) mozgová mŕtvica predstavuje závažný medicínsky aj
+ekonomicko-spoločenský problém, pretože patrí medzi tretiu najčastejšiu príčinu smrti
+hlavne v ekonomicky vyspelých štátoch, do ktorých sa zaraďuje aj Slovenská republika.
+Prvé ischemické prejavy sa podľa autora prejavia, ak poklesne krvná ponuka z normálnych
+hodnôt 58ml/100g mozgového tkaniva za minútu, pod 22ml/100g za minútu.
+Vo všeobecnosti, regulačné mechanizmy zaručujú dostatočné zásobenie kyslíkom, no ak
+u pacienta poklesne systolický tlak, mozgový prietok sa zreteľne znižuje. Systolický tlak
+sa definuje ako sťah srdca a následného vypudenia krvi do obehu (Modravý, 2006).
+
+12
+
+Leško (2011) rozširuje poznatky a pripomína, že pre existenciu človeka má mozog veľký
+význam. Z celkovej hmotnosti ľudského tela síce predstavuje iba 2 percentá, ale spotrebuje
+až 15 percent minútového objemu srdca. Je veľmi dôležité, aby pre jeho správnu činnosť
+bola regulácia mozgovej cirkulácie a stály mozgový prietok. Mozog ako orgán je veľmi
+náročný na udržanie stálosti jeho vnútorného prostredia. Hematoencefalitická brána
+je ochrana mozgu, ktorá zabezpečuje jeho perfúziu (prietok tekutiny určitým prostredím).
+Tkanivo centrálnej nervovej sústavy (CNS) je oproti iným orgánom omnoho viac závislé
+na
+
+dodávke kyslíka a glukózy, a práve kvôli jeho nedostatku predstavuje riziko
+
+poškodenia štruktúry alebo funkcie mozgu a potenciálne i náhlej cievnej mozgovej príhode
+(Leško, 2011).
+„Akékoľvek, aj prechodné príznaky vzniku neurologického deficitu – tŕpnutie, slabosť,
+mravčenie alebo pálenie končatín (pocity zdrevnatenia alebo zmŕtvenia končatiny),
+poruchy reči, poruchy vyjadrovania, alebo pocit točenia okolia (závraty) môžu byť prvými
+príznakmi nedokrvenia mozgu (ischémie)“ (Kondáš, 2011, s.8).
+1.1 Delenie náhlej cievnej mozgovej príhody
+Podľa Centra na kontrolu a prevenciu chorôb (ECDC) z roku 2021 sú známe 3 hlavné typy
+cievnej mozgovej príhody, a to konkrétne:
+-
+
+hemoragická mozgová príhoda;
+
+-
+
+ischemická mozgová príhoda;
+
+-
+
+prechodný ischemický atak (varovanie alebo „mini mozgová príhoda“).
+
+Ako je vidieť v Prílohe č.1 a, hemoragická mozgová príhoda nastáva vtedy, keď krvná
+cieva praskne v mozgu. Vedľa, Príloha č.1 b, znázorňuje ischemickú mozgovú príhodu,
+ktorá nastáva, keď krvná zrazenina blokuje prietok krvi v tepne v mozgu (Centrum na
+kontrolu a prevenciu chorôb, 2021).
+
+13
+
+Ischemická mozgová príhoda
+Národný inštitút zdravia a Národný inštitút neurologických chorôb a cievnej mozgovej
+príhody (2009) zaraďuje ischemické cievne mozgové príhody medzi nebezpečné, keďže
+ich tvorí asi osemdesiat percent všetkých cievnych mozgových príhod. Podobne, ako keď
+nastane srdcový infarkt pri nedostatočnom prietoku krvi do srdca, ischemická cievna
+mozgová príhoda (niekedy nazývaná aj mozgový záchvat) nastane, keď dôjde k náhlemu
+prerušeniu prietoku krvi do jednej alebo viacerých oblastí mozgu. Rovnako ako všetky
+bunky v tele, neuróny a iné mozgové bunky vyžadujú kyslík a glukózu dodávanú krvou,
+aby mohli fungovať a prežiť. Niekoľko minút bez prítomnosti kyslíka spôsobuje zabitie
+miliónov neurónov. Okrem tohto zabitia neurónov, môže ischémia vyvolať aj zápal, opuch
+(edém)
+
+a ďalšie procesy. Obštrukčné krvné zrazeniny sú najčastejšou príčinou
+
+spomínanej ischemickej cievnej mozgovej príhody. Zrážanie krvi alebo koagulácia je
+životne dôležitá funkcia, ktorá pomáha predchádzať krvácaniu, keď je poškodená krvná
+cieva, ale zrazeniny môžu tiež brániť normálnemu prietoku krvi. Keď sa zrazenina vytvorí
+v spojení so stenou krvnej cievy a zväčší sa dostatočne na to, aby narušila prietok krvi,
+nazýva sa to trombus – je to krvná zrazenina, ktorá sa odlomí od steny cievy a prejde
+krvou. Kardio-embolická mŕtvica je spôsobená zrazeninou, ktorá má pôvod v srdci.
+Srdcové embólie sa s najväčšou pravdepodobnosťou tvoria u ľudí so srdcovými
+ochoreniami, ako je napríklad fibrilácia predsiení (nepravidelný srdcový tep), zlyhanie
+srdca, stenóza alebo infekcie v srdcových chlopniach. Takisto sa môžu vyskytnúť aj po
+infarkte (Národný inštitút neurologických chorôb a cievnej mozgovej príhody, Národný
+inštitút zdravia, 2009).
+Dr. Jeffrey Thomas Stroke Shield Foundation (2019) ďalej opisuje ischemickú cievnu
+mozgovú príhodu. Autor tvrdí, že ďalším prispievateľom k ischemickej cievnej mozgovej
+príhode je chronická ateroskleróza, čo je hromadenie tukových usadenín a bunkových
+zvyškov (plakov) na vnútornej strane steny krvných ciev. Pri raste aterosklerotických
+plakoch, začína nasledovné zúženie krvných ciev (stav, ktorý je nazývaný stenóza).
+Ateroskleróza môže tiež aktivovať bunky zapojené do zrážania. Bezprostredne
+po
+
+ischemickej cievnej mozgovej príhode mozog zvyčajne obsahuje nenávratne
+
+poškodené jadro tkaniva a oblasť životaschopného, ale zároveň rizikového tkaniva
+nazývaného ischemická penumbra. Obnovenie normálneho prietoku krvi - proces známy
+
+14
+
+ako reperfúzia - je nevyhnutné na záchranu penumbry. Čím dlhšie sa reperfúzia
+oneskoruje, tým viac buniek v penumbre odumrie. Oblasť mozgového tkaniva, ktorá je
+nakoniec poškodená, sa nazýva mozgový infarkt (Dr. Jeffrey Thomas Stroke Shield
+Foundation, 2019).
+Hemoragická mozgová príhoda
+
+Chen a kol. (2014) definujú hemoragickú mŕtvicu. Hemoragická mŕtvica je spôsobená
+krvácaním do mozgu, a to prasknutím cievy. Hemoragickú mozgovú príhodu možno ďalej
+rozdeliť na:
+-
+
+intracerebrálne krvácanie (ICH) a
+
+-
+
+subarachnoidálne krvácanie (SAH).
+
+Intracerebrálne
+
+krvácanie
+
+znamená,
+
+že
+
+krváca
+
+do
+
+mozgového
+
+parenchýmu
+
+a subarachnoidálne do subarachnoidálneho priestoru, čo je oblasť medzi mozgovými
+obalmi, v ktorom sú cievy vyživujúce mozog. Hemoragická mozgová príhoda je spojená
+s ťažkou morbiditou a vysokou mortalitou. Včasná diagnostika a liečba sú dôležité
+vzhľadom na zvyčajné rýchle rozšírenie krvácania, ktoré spôsobujú akútne zhoršenie
+vedomia a neurologickú dysfunkciu (Chen a kol., 2014).
+Prechodný ischemický záchvat
+
+Národný inštitút neurologických chorôb a cievnej mozgovej príhody (2009) prirovnáva
+mŕtvicu k búrke. Ak by bola mŕtvica búrkou, prechodný ischemický záchvat (TIA)
+alebo takzvaná „mini-mŕtvica“ by bol zlovestným úderom hromu. Príznaky prechodného
+ischemického záchvatu sú podobné príznakom úplnej mŕtvice, ale vymiznú do dvadsaťštyri
+hodín, zvyčajne za menej ako za jednu hodinu. Krátkodobá povaha prechodného
+ischemického záchvatu však neznamená, že nechávajú mozog nepoškodený. U približne
+štyridsať až päťdesiat percent ľudí, ktorí zažili prechodný ischemický záchvat, je možné
+pomocou zobrazovania mozgu vidieť malú bodku infarktu. V Prílohe č.3 je znázornená
+ukážka prechodného ischemického záchvatu, kde je zviditeľnený prerušený prietok krvi
+
+15
+
+do časti mozgu (Národný inštitút neurologických chorôb a cievnej mozgovej príhody,
+Národný inštitút zdravia, 2009).
+Podľa Dr. Thomasa (2019) treba mať na pamäti, že aj keď nie sú žiadne známky infarktu
+mozgu, prechodný ischemický záchvat je varovaním a príležitosťou na intervenciu. Zatiaľ
+čo u niekoho, kto zažil plnohodnotnú mozgovú príhodu, je dvoj- až sedempercentné riziko,
+že dostane ďalšiu mozgovú príhodu v priebehu nasledujúcich deväťdesiat dní,
+deväťdesiatdňové riziko mŕtvice po prechodnom ischemickom záchvate je desať až
+dvadsať percent. V mnohých prípadoch môžu byť TIA spôsobené nestabilnou zrazeninou,
+ktorá by mohla kedykoľvek spôsobiť trvalejšie zablokovanie krvného zásobenia mozgu.
+Našťastie existuje celý rad liečebných postupov, ktoré môžu znížiť riziko mŕtvice
+po prechodný ischemický záchvat, vrátane liekov na zníženie krvného tlaku a inhibíciu
+zrážania krvi. Ak je to potrebné, chirurgické postupy môžu odstrániť plak v tepnách, ktoré
+zásobujú mozog, alebo sa na rozšírenie tepien môže použiť postup nazývaný stentovanie,
+ktorý je znázornený v Prílohe č.4, čiže vyčistenie krvných tepien, ktoré bránia priechodu
+krvi a môžu znížiť tok kyslíka do mozgu. Ťažkým mozgovým príhodám by sa dalo predísť,
+ak by po TIA vyhľadalo lekársku pomoc viac ľudí. Vyčistenie krvných tepien je
+zobrazené v Prílohe č.4, k miestu zablokovanej cievy lekár zavedie katéter s balónikom,
+ktorý sa dá následne nafúknuť. Tlakom tohto balónika je plak tlačený k stene cievy
+a následne je balónik odstránený. Nasledujúcim balónikovým katétrom je v rovnakom
+mieste privedená a následne rozvinutá kovová výstuž, takzvaný stent. Táto výstuž je
+prichytená v cievnej stene aj po tom, ako je balónikový katéter z cievy vytiahnutý (Dr.
+Jeffrey Thomas Stroke Shield Foundation, 2019).
+1.2 Diagnostika náhlej cievnej mozgovej príhody
+Národná zdravotná služba (2019) opisuje, aký je postup pri podozrení na mozgovú
+príhodu. Mŕtvica sa zvyčajne diagnostikuje vykonaním fyzických testov a štúdiom snímok
+mozgu vytvorených počas skenovania. Keď prvýkrát prídete do nemocnice s podozrením
+na mozgovú príhodu, lekár bude chcieť o vašich príznakoch zistiť čo najviac. To môže
+zahŕňať: krvný test na zistenie hladiny cholesterolu a cukru v krvi, kontrolu pulzu
+na nepravidelný tep srdca, meranie krvného tlaku. Prvým krokom pri hodnotení pacienta
+s cievnou mozgovou príhodou je určiť, či pacient trpí už vyššie spomenutou ischemickou
+alebo hemoragickou mozgovou príhodou, aby sa mohla začať správna liečba (NHS, 2019).
+16
+
+Krvné testy
+
+Problematiku krvných testov rozoberá zdravotný portál WebMD (2021). Kompletný krvný
+rozbor zahŕňa kontrolu hladiny krvných doštičiek, čo sú bunky, ktoré pomáhajú zrážať krv
+a sú znázornené v Prílohe č.5. Laboratóriá tiež zmerajú hladiny elektrolytov v krvi.
+Kontrola, ako rýchlo sa zráža krv v tele zabezpečuje dvojica testov nazývaných
+protrombínový čas (PT) a čiastočný tromboplastínový čas (PPT). Ak tieto testy zistia,
+že zrážanie krvi trvá príliš dlho, môže sa jednať o jeden z príznakov (McQueen, 2021).
+CT vyšetrenie, MRI hlavy
+Rádiologická spoločnosť Severnej Ameriky (2021) opisuje počítačovú tomografiu, známu
+pod skratkou CT hlavy ako skenovanie a kombinuje špeciálne röntgenové zariadenie
+so sofistikovanými počítačmi na vytvorenie viacerých obrázkov alebo obrázkov vnútra
+tela. Lekári používajú CT hlavy na zistenie mŕtvice z krvnej zrazeniny alebo krvácania do
+mozgu. Na zlepšenie detekcie a charakterizácie cievnej mozgovej príhody sa môže
+vykonať CT angiografia (CTA). Pri CTA sa kontrastný materiál môže vstreknúť
+intravenózne a získajú sa snímky mozgových krvných ciev. Súčasne je možné získať
+snímky, ktoré zisťujú prietok krvi, nazývaný CT perfúzia (CTP). Kombinácia CT, CTA a
+CTP môže lekárom pomôcť pri rozhodovaní o najlepšej terapii pre pacienta s mozgovou
+príhodou (RadiologyInfo.org For patients, 2021). CT prístroj je znázornený v Prílohe č.6
+a CT vyšetrenie mozgu v Prílohe č.7.
+Souvik (2018) opisuje magnetickú rezonanciu alebo aj MRI. Magnetická rezonancia
+je lekársky zobrazovací test, ktorý využíva silné rádiové vlny a magnet na vytvorenie
+vysoko detailného kontrastného obrazu mozgu. Tento prístroj dokáže odhaliť širokú škálu
+abnormalít mozgu a krvných ciev a dokáže tiež vizualizovať nepatrné rozdiely medzi
+tkanivami, ktoré nie sú jasné pri iných spôsoboch, ako sú napríklad röntgenové a skenery
+počítačovej tomografie. V mnohých prípadoch môže MRI zobraziť abnormality tkaniva,
+ktoré sú príliš malé alebo sa nachádzajú v oblastiach mozgu, ktoré nemožno zistiť
+pomocou CT (Souvik, 2018).
+
+17
+
+MRI snímky ľudského mozgu sa často vytvárajú v troch orientáciách, aby rádiológom
+poskytli presvedčivý 3D pohľad na časť tela:
+-
+
+Koronálna orientácia: plátok rozdeľujúci hlavu na prednú a zadnú polovicu;
+
+-
+
+Sagitálna orientácia: plátok rozdeľujúci hlavu na ľavú a pravú polovicu;
+
+-
+
+Axiálna orientácia: plátok rozdeľujúci hlavu na hornú a dolnú polovicu (General
+Electric Company, 2019).
+
+Vďaka nedávnemu pokroku v technológii MRI je možné ischemické lézie identifikovať
+s vysokou presnosťou pomocou difúzne váženého obrazu „diffusion-weighted image“
+(DWI; 88%-100% citlivosť a 95%-100% špecifickosť) (Kim a kol., 2014). V Prílohe č.8
+sú znázornené štyri vzory lézie DWI podľa podtypov ischemickej cievnej mozgovej
+príhody,
+
+a to:
+
+(A)
+
+intrakraniálna
+
+aterosklerotická
+
+stenóza,
+
+(B)
+
+extrakraniálna
+
+aterosklerotická stenóza, (C) kardioembólia a (D) embólia aortálneho oblúka.
+Echokardiogram
+
+Portál Vascular and Endovscular Surgery (2021) definuje prístroj echokardiogram (EKG),
+ktorý kontroluje elektrickú aktivitu srdca. Niekedy sa totiž zrazenina vytvorí v inej časti
+tela (veľmi často
+
+sa to deje práve v srdci) a následne sa dostane do mozgu. Tento
+
+zobrazovací test srdca môže hľadať zrazeniny v srdci alebo zväčšených častiach srdca.
+Echokardiogram môže pomôcť určiť, či srdcové problémy spôsobili mozgovú príhodu.
+Autor opisuje aj karotický ultrazvuk, tiež nazývaný Dopplerovský ultrazvuk alebo
+karotidový duplexný ultrazvuk (znázornený v Prílohe č.9), je to bezbolestný a neškodný
+test, ktorý využíva vysokofrekvenčné zvukové vlny na vytváranie obrázkov vnútra dvoch
+veľkých tepien na krku. Výsledky testov pomôžu lekárovi naplánovať liečbu na
+odstránenie plaku a pomôcť zabrániť mŕtvici (Vascular and Endovascular Surgery, 2021).
+1.3 Rizikové faktory a prevencia cievnej mozgovej príhody
+Rizikové faktory podľa portálu ADC (2018) pre vznik cievnej mozgovej príhody
+rozdeľujeme na dve skupiny, a to:
+-
+
+modifikovateľné
+18
+
+-
+
+nemodifikovateľné.
+
+K nemodifikovateľným rizikovým faktorom patrí pohlavie, vek, rasa a genetická
+dispozícia. Dokázanými modifikovateľnými rizikovými faktormi sú vysoký krvný tlak hypertenzia, fibrilácia predsiení a ochorenia srdca s vysokým rizikom, diabetes mellitus,
+stenóza a. carotis, dyslipidémia, kardioembolizmu, hypokoagulačné stavy a nadmerná
+antikoagulačná/antiagregačná liečba a v neposlednom rade faktory životného štýlu –
+fajčenie, nadmerné pitie alkoholu, užívanie drog a sympatikomimetík, hormonálna
+antikoncepcia, nedostatočná fyzická aktivita a obezita (ADC, 2018). Nižšie si rozoberieme
+podrobnejšie niektoré vybrané rizikové faktory.
+Hypertenzia (vysoký krvný tlak)
+
+Národný inštitút neurologických chorôb a mozgovej príhody (2020) opisuje hypertenziu
+ako zďaleka najsilnejším rizikovým faktorom mozgovej príhody. Hypertenzia spôsobuje
+dvojnásobné až štvornásobné zvýšenie rizika mozgovej príhody pred dosiahnutím veku
+osemdesiat rokov. Existujú spôsoby na zníženie hypertenzie na normálnu úroveň, napr.
+udržiavanie váhy, neužívanie liekov, u ktorých je preukázané, že zvyšujú krvný tlak,
+obmedzenie soli, prijímanie potravy s obsahom ovocia a zeleniny na zvýšenie draslíka,
+cvičenie, pravidelná kontrola krvného tlaku. V nižšie uvedenej tabuľke je podrobne
+popísané percentuálne riziko
+
+hypertenzie pri vyššom veku (National Institute of
+
+Neurological Disorders and Stroke, 2020).
+Zároveň, Národný inštitút neurologických chorôb a mozgovej príhody uvádza koreláciu
+medzi vekovou skupinou a priemernou 10-ročnou pravdepodobnosťou mozgovej príhody.
+Táto korelácia je znázornená v Tabuľke 1 nižšie:
+Tabuľka
+
+1:
+
+Korelácia
+
+medzi
+
+vekovou
+
+skupinou
+
+a priemernou
+
+10-ročnou
+
+pravdepodobnosťou mozgovej príhody (Zdroj: National Institute of Neurological Disorders
+and Stroke, 2020).
+Veková skupina
+
+Priemerná 10-ročná pravdepodobnosť mozgovej príhody
+
+55 – 59
+
+5,9%
+19
+
+60 - 64
+
+7,8%
+
+65 - 69
+
+11,0%
+
+70 – 74
+
+13,7%
+
+75 – 79
+
+18.0%
+
+80 – 84
+
+22,3%
+
+Diabetes mellitus
+
+Portál ADC (2018) ďalej opisuje ďalšiu príčinu vzniku mŕtvice, a to diabetes typu 1 a 2.
+Vedie najmä k postihnutiu malých tepien a k hypertenzii (u viac ako päťdesiat percent
+diabetikov). Faktory životného štýlu, genetická predispozícia a opakované pôsobenie
+potenciálne patogenetických faktorov v priebehu času by mohli vysvetľovať koexistenciu
+viacerých rôznorodých a často nezávislých patologických stavov (ADC, 2018).
+Fibrilácia predsiení
+
+Publikácia zdravia v Harvarde (2020) definuje fibriláciu predsiení ako formu
+nepravidelného srdcového tepu, ktorý spôsobuje tvorbu zrazenín v srdci. Tieto zrazeniny
+potom môžu cestovať do mozgu a spôsobiť mŕtvicu. Fibrilácia predsiení prináša takmer
+päťnásobné riziko mozgovej príhody. Na predídenie stavu fibrilácie predsiení je
+preventívne možné užiť antikoagulačný liek (riedidlo krvi), ako je warfarín (Coumadin)
+alebo jedno z novších priamo pôsobiacich antikoagulačných liekov, aby sa znížili riziko
+mŕtvice spôsobenej fibriláciou predsiení (Publikácia zdravia v Harvarde, 2020).
+Faktory životného štýlu
+Fajčenie
+Fajčenie zvyšuje pravdepodobnosť úmrtia pri mŕtvici, a zároveň platí, že čím viac osoba
+fajčí, tým väčšie je riziko mŕtvice. Štatistiky ukazujú, že ak osoba fajčí 20 cigariet denne,
+má šesťkrát vyššiu pravdepodobnosť, že dostane mŕtvicu v porovnaní s nefajčiarom.
+Tabakový dym má na telo mnoho rôznych účinkov vrátane zahusťovania krvi, zvýšenia
+rizika krvných zrazenín a zúženia tepien, ako aj obmedzenia kyslíka v krvi. Tabakový dym
+obsahuje viac ako 7 000 toxických chemikálií vrátane oxidu uhoľnatého, formaldehydu,
+20
+
+arzénu a kyanidu. Tieto chemikálie sa prenášajú z pľúc do krvného obehu, čím sa menia
+a poškodzujú bunky v celom tele. Zmeny, ktoré tieto chemikálie spôsobujú, môžu zvýšiť
+riziko mŕtvice (Stroke association, 2017).
+Nadmerné pitie alkoholu
+Pitie malého množstva alkoholu je v poriadku a môže znížiť riziko mŕtvice. Štúdie
+ukazujú, že ak si osoba dopraje približne jeden nápoj denne, riziko mozgovej príhody
+môže byť nižšie. Akonáhle osoba začne piť viac ako dva nápoje denne, riziko mozgovej
+príhody sa prudko zvýši (Publikácia zdravia v Harvarde, 2020).
+Nedostatočná fyzická aktivita a obezita
+Obezita a nečinnosť sú spojené s hypertenziou, cukrovkou a srdcovými chorobami. Pomer
+obvodu pása k obvodu bokov rovný alebo vyšší ako stredná hodnota pre populáciu zvyšuje
+riziko ischemickej cievnej mozgovej príhody trojnásobne (National Institute of
+Neurological Disorders and Stroke, 2020).
+1.4 Manažment a liečba náhlej cievnej mozgovej príhody
+Keďže pri cievnej mozgovej príhode ide o emergentný stav, dôležitá je urgentná
+hospitalizácia
+
+postihnutého
+
+v lôžkovom
+
+zariadení
+
+a zahájenie
+
+vhodnej
+
+terapie.
+
+K postihnutému je potrebné včas privolať záchrannú zdravotnú službu, ktorá zabezpečí
+včasný prevoz postihnutej osoby. Pri ischemickej náhlej cievnej mozgovej príhode
+je dôležité vyhnúť sa zdržaniu, ktoré môže nastať pri neskorom kontaktovaní záchrannej
+zdravotnej služby, ako dôsledok prednostného prevozu postihnutého s náhlou cievnou
+mozgovou príhodou zo strany záchrannej zdravotnej služby, a zároveň môže nastať
+ako dôsledok pomalej diagnostiky a nedostatočnosti nemocničnej starostlivosti (Leško,
+2011).
+Sú známe 2 možnosti akútnej liečby cievnej mozgovej príhody, a to:
+-
+
+liečba preparátom, ktorého úlohou je rozpustiť krvnú zrazeninu v cieve, tento
+preparát sa aplikuje vnútrožilovo a ide o rTPA – rekombinantný tkanivový
+plazmínogénový aktivátor. rTPA sa podáva najneskôr 4,5 hodiny po prvých
+21
+
+príznakoch cievnej mozgovej príhody, ale platí, že čím skôr je aktivátor podaný,
+tým je liečba úspešnejšia;
+-
+
+trombektómia – mechanické odstránenie zrazeniny cievy – môže sa vykonať do 8
+hodín od začiatku príznakov mozgovej príhody, ale aj v tomto prípade platí, že čím
+je trombektómia uskutočnená skôr, tým je vyššia jej úspešnosť
+
+Neskoré alebo nedostatočné podanie liečby môže mať za následok vážne následky cievnej
+mozgovej príhody, čím môže vzniknúť potreba trvalej ošetrovateľskej starostlivosti
+(Gdovinová, 2015).
+Liečba ako taká podľa Modravého (2006) pozostáva zo všeobecných opatrení, ktorými sú:
+-
+
+zavedenie i.v. kanyly;
+
+-
+
+monitorovanie telesných funkcií (tlak, periférny pulz, saturácia kyslíka, telesná
+teplota);
+
+-
+
+zabezpečenie udržania prechodnosti dýchacích ciest, a teda stabilizácia dýchania,
+podporná ventilácia v prípade nedostatočnej saturácie kyslíka v krvi;
+
+-
+
+zabezpečenie dostatočného množstva tekutín;
+
+-
+
+pri zistení zvýšenej telesnej teploty podávanie antipyretík, poprípade aj podávanie
+antibiotík;
+
+-
+
+časté otáčanie postihnutého, lokálne ošetrovanie kože, čím sa zabezpečí zlepšená
+prevencia pred dekubitmi;
+
+-
+
+bandáž končatín, podávanie heparínu, poprípade nízkomolekulárneho heparínu, čím
+sa zabezpečí prevencia pred tromboflebitídmi;
+
+-
+
+zabezpečenie rehabilitácie a polohovania;
+
+-
+
+v prípade porúch rečí, logopedická starostlivosť;
+
+-
+
+psychoterapia (Modravý, 2006).
+
+22
+
+2. Špecifiká ošetrovateľskej starostlivosti o pacienta s náhlou cievnou
+mozgovou príhodou
+Zdravotník by podľa Farkašovej (2006) mal pacienta s NCMP vnímať ako celok v jeho
+bio-psycho-sociálnej jednote. Uspokojovanie potrieb, a s tým spojené systematické
+hodnotenie zdravého i chorého človeka je základným princípom ošetrovateľskej
+starostlivosti. Pri vykonávaní ošetrovateľskej starostlivosti u pacientov pri náhlej cievnej
+mozgovej príhode sa lekár zameriava na oblasti, ktoré definuje Gordonová Marjora vo
+svojej teórii ošetrovateľského modelu. Lekár sa zameriava na problémy v jednotlivých
+oblastiach a na základe nájdených problémov sa určuje ošetrovateľká diagnóza, ciele
+ošetrovateľského procesu a intervencie (Farkašová, 2006).
+2.1 Vzorce zdravia a špecifiká ošetrovateľskej činnosti podľa Marjory Gordonovej
+Gordonovej model je celistvý a zároveň jednoduchý. Jej prístup sa zameriava na zdravie
+ako také, na jeho podporu a detailne popisuje fuknčné vzorce zdravia, popri ktorom
+rešpektuje a spĺňa holistický prístup k zdraviu. V nasledujúcich podkapitolách si vypíšeme
+model funkčných vzorcov zdravia:
+-
+
+Vnímanie zdravia
+
+-
+
+Výživa
+
+-
+
+Vylučovanie
+
+-
+
+Aktivita
+
+-
+
+Poznávanie
+
+-
+
+Spánok
+
+-
+
+Vnímanie seba samého
+
+-
+
+Rola
+
+-
+
+Reprodukcia
+
+-
+
+Prispôsobenie sa
+
+-
+
+Hodnotová orientácia.
+
+23
+
+V nasledujúcich podkapitolách si detailne opíšeme 4 modely funkčných vzorcov zdravia,
+a to oblast vnímania zdravotného stavu, oblast vnímania výživy a metabolizmu, oblasť
+vnímania vylučovania, aktivitu a cvičenie.
+Oblasť vnímania zdravotného stavu
+Herzig (2008) definuje jednu z oblastí funkčných vzorcov zdravia. Sestra a lekár sú osoby,
+ktoré zohrávajú dôležitú súčasť v prevencii NCMP. Je dôležité, aby aj zdravotný personál
+edukoval pacienta o rozikových faktoroch tohto ochorenia. Napríklad, keď sa pacient
+rozhodne prestať fajčiť, riziko vzniku mozgovej mŕtvice sa znižuje o polovicu. Zdravotník
+by sa mal zameriavať aj na to, ako pacient vníma svoj zdravotný stav, akým spôsobom
+sa stará o svoje zdravie a akým spôsobom si uvedomuje svoj životný štýl, ktorý vedie.
+Celková úroveň starostlivosti o zdravie a dodržiavanie lekárskych a ošetrovateľských
+odporúčaní je jednou z úloh, ktoré by mal zdravotník sledovať (Herzig, 2008).
+Oblasť vnímania výživy a metabolizmu
+Podľa Spenca (2008), ktorý pomáha definovať jednu časť z Gordonovej modelu vzorcov
+zdravia, je oblasť výživy a metabolizmu zaisťovaná príjmom potravy a tekutín vzhľadom
+k celkovému zdravotnému stavu pacienta. Každý človek potrebuje vo svojej výžive určité
+množstvo potravy, ktoré priamo odpovedá jeho spotrebe energie. Práve príjem potravy
+je podmienkou správnej funkcie organizmu. Pokiaľ sa pacient nevie po NCMP najesť
+sám, je potrebné ho posadiť v sede, aby mal hlavu priamo predklonenú. Je potrebné, aby
+pacient pravidelne prijímal veľa ovocia, zeleniny, rybieho a rastlinného tuku a aby
+obmedzil konzumáciu soli a alkoholu. Rovnako, na pravidelnej báze sa musí kontrolovať
+i telesná váha pacienta (Spence, 2008).
+Oblasť vnímania vylučovania
+Pri ošetrovateľskej činnosti po prekonanej mozgovej príhode je veľmi dôležitá kontrola
+močového mechúra a čriev. Podľa Slezákovej (2007), sa pri vylučovaní kontroluje
+pravidelnosť, konzistencia a farba. Pokiaľ vyprázdňovanie stolice je obtiažne alebo
+ho sprevádza dokonca zápcha, je dôležité, aby bolo pacientovi dožičený dostatok tekutín
+a vlákniny. Pokiaľ má pacient problem s vyprázdňovaním močového mechúra, zdravotník
+používa vhodné inkontinenčné pomôcky, ktoré sa pravidelne vymieňajú a tiež sa musí dbať
+na zvýšenú hygienickú starostlivosť v oblasti genitálií (Slezáková, 2007). Typ a tvar stolice
+určuje Bristolská škála stolice, ktorá je znázornená v Prílohe č.13.
+
+24
+
+Aktivita a cvičenie
+Jelínová a kol. (2009) poukazuje na starostlivosť o pacientovu mobilitu, o sebestačnosti
+pri obliekaní, hygiene a pri stravovaní. Úlohou rehabilitačného ošetrovania je v akútnom
+štádiu choroby obmedzenie rozvoja sekundárnych zmien, a to v pohybovom systéme,
+kardiovaskulárnom a respiračnom. Lekár stanoví rehabilitačný program na základe
+vyšetrenie. Súčasťou tohto programu je zvyčajne logopediká a ergoterapeutická liečba
+po prekonaní náhlej cievnej mozgovej príhody (Jelínková, 2009).
+2.2 Ošetrovateľská diagnostika pacienta s náhlou cievnou mozgovou príhodou
+Pojem ošetrovateľská diagnostika je spojený so založením moderného ošetrovateľstva.
+Tento pojem prvýkrát použil v roku 1950 McManus ako pojem vyjadrujúci, resp. najlepšie
+popisujúci, čo sestry v praxi robia. Prvýkrát sa ošetrovateľská diagnostika v klinike použila
+pri starostlivosti o pacientov, ktorí trpeli chronickými chorobami či postihnutím. Cieľom
+bolo použitie ošetrovateľskej diagnózy ako prediktora personálneho zabezpečenia alebo
+aj ako ohnisko ošetrovateľskej intervencie. Výsledkom ošetrovateľskej diagnostiky
+je ošetrovateľská diagnóza. Herdman a kol. (2010) a mnohí iní definujú ošetrovateľskú
+diagnózu ako “úsudok či záver, ktorý vzniká ako výsledok ošetrovateľského posúdenia”
+(Multimediálna e-učebnica, 2013 – 2014).
+“NANDA (pôvodne North American Nursing Diagnosis Association - severoamerická
+asociácia pre sesterské diagnózy) je profesionálna organizácia zdravotných sestier
+pre štandardizáciu sesterskej terminológie, ktorá bola založená v roku 1982 a cieľ ktorej
+je vývoj nomenklatúry (názvoslovia), kritérií a taxonómie sesterských diagnóz. V roku
+2002 sa NANDA zmenila na NANDA International reagujúc na rozširujúce sa svoje
+členstvo. NANDA International publikuje Sesterské Diagnózy kvartálne v publikácii
+International Journal of Nursing Terminologies and Classifications od roku 2002”
+(sestra.sk, 2005).
+Najčastejšie sa vyskytujúce ošetrovateľské diagnózy pacientov s náhlou cievnou
+mozgovou príhodou sú nasledovné:
+-
+
+00024 – neefektívna tkanivová perfúzia
+
+-
+
+00051 – zhoršená verbálna komunikácia
+
+-
+
+00085 – zhoršená pohyblivosť
+25
+
+-
+
+00109 – deficit sebastarostlivosti pri obliekaní a úprave zovňajšku
+
+-
+
+00132 – akútna bolesť
+
+-
+
+00103 – narušené prehĺtanie
+
+-
+
+00004 – riziko infekcie
+
+-
+
+00015 – riziko zápchy
+
+-
+
+00131 – poškodená pamäť (WikiSkripta, 2020).
+
+2.3 Plánovanie ošetrovateľskej starostlivosti u pacienta po náhlaj cievnej mozgovej
+príhode
+Miertová a kol. (2014) uvádzajú úlohu sestier, ako členov interdisciplinárneho tímu, ktoré
+sú zodpovedné predovšetkým za bezpečnosť pacienta a pravidelné monitorovanie jeho
+stavu.
+K oblastiam ošetrovateľskej starostlivosti patria:
+-
+
+zabezpečenie priechodnosti dýchacích ciest a oxygenácie na zabránenie hypoxie
+a ďalšieho poškodenia po neurologickej stránke. Ak pacienti samotní nedokážu
+udržať priechodnosť dýchacích ciest, využívajú sa orofaryngeálny alebo
+nazofaryngeálny vzduchovod. Ďalej sa vykonávajú ďalšie činnosti zabezpečujúce
+predchádzaniu rizika aspirácie, tu patrí napríklad odsávanie sekrétov z dýchacích
+ciest. Pomocou pulzného oxymetra sa meria saturácia kyslíka a v prípade potreby
+sa podáva oxygenoterapia;
+
+-
+
+monitorovanie vitálnych funkcií a telesnej teploty sa uskutočňuje prvých 48 hod
+každé 4 hod. (k zhoršeniu stavu pacienta dochádza pri zvýšení teploty nad 37,5°C,
+začínajú sa podávať antipyretiká), kontrola srdcových arytmií (a teda vykonávanie
+EKG), kontrola tlaku, pulzu, saturácie kyslíka;
+
+-
+
+vyšetrením kapilárnej krvi sa monitoruje hodnota glykémie. Hodnotu glykémie
+je potrebné monitorovať každé 4 hod. počas prvých 48 hod. Kontrola hodnoty
+glykémie sa vykonáva aj u nediabetikov. Norma hodnoty glykémie je 3,3 – 5,5.
+Hodnoty glykémie sa udávajú v milimóloch na liter krvi. (Miertová a kol. 2014);
+
+-
+
+k ošetrovateľskej starostlivosti patrí aj monitorovanie neurologických funkcií, ktoré
+sa vykonáva zaužívanou škálou NHISS (The National Institute of Health Stroke
+Scale). Tá je zložená z 15 zložiek, pričom sú kvantifikované jednotlivé
+komponenty neurologického vyšetrenia (napr. reč, vedomie, vizuálne funkcie,
+cerebrálne funkcie, motorika, senzitivita a pod.) (Reif, 2011). V roku 1974 bola
+26
+
+vyvinutá Glasgovská škála porúch vedomia, ktorá sa celosvetovo používa v
+urgentnej medicíne (Miertová a kol., 2014). Glasgowská škála je znázornená v
+prílohe č.14;
+-
+
+denné monitorovanie bolesti pacienta, jej rozsah, charakter a intenzita. Sú známe
+dva typy hodnotenia bolesti, a to numerická škála a vizuálna analógová škála – obe
+uvedené sú znázornené v Prílohe č.15;
+
+-
+
+ošetrovateľ posudzuje a zaznamenáva stupeň závislosti pri vykonávaní aktivít
+denného života, a to podľa Barthelovej indexu základných aktivít denného života
+(Kalánková, 2020), ktorý je znázorný v Prílohe č.16;
+
+-
+
+manažment dysfágie je potrebný z dôvodu motorických deficitov svalov, ktorých
+úlohou je zabezpečenie prehĺtania u mnohých pacientov s cievnou mozgovou
+príhodou. Je potrebné potvrdiť, že pacient je schopný prehĺtať potravu, tekutiny,
+lieky a následne mu pri týchto činnostiach asistovať (upraviť posteľ pred príjmom
+stravy, tekutín alebo liekov, upravenie polohy hlavy do neutrálneho postavenia,
+nekomunikovať s pacientom počas príjmu stravy, tekutín alebo liekov, ...)
+(Miertová a kol., 2014).
+
+Cievna mozgová príhoda alebo infarkt podľa Kačinetzovej a kol. (2010) zanecháva
+na pacientoch dlhodobé alebo trvalé následky, ktoré do určitej miery bránia samostatnosti.
+Takmer dvadsať percent týchto prípadov je úplne závislých na svojom okolí. Vhodnou
+rehabilitáciou, ktorá zároveň reaguje na vyvíjajúci sa pacientov klinický obraz, sa dá
+pomôcť pacientovi minimalizovať jeho poruchu, kompenzovať dané obmedzenia a uľahčiť
+mu
+
+návrat do života. V rámci liečebnej rehabilitácie je po cievnej mozgovej príhode
+
+zabezpečená starostlivosť nie len v rehabilitačných klinikách a rehabilitačných ústavoch,
+ale aj v kúpeľných zariadeniach (Kačinetzová a kol., 2010).
+„Pre zabezpečenie čo najkvalitnejšej rehabilitačnej starostlivosti je potrebné zostaviť
+vhodný krátkodobý a dlhodobý liečebno-rehabilitačný plán. Rehabilitačný program by mal
+byť zostavený tak, aby pokrýval všetky neurologické poruchy, ktoré sa u pacienta vyskytujú
+– poruchy kognitívnych a symbolických funkcií, senzorické poruchy, ďalej postihnutia
+hybnosti končatín či poškodenia hlavových nervov. Sú tri typy štádií, a to akútne,
+subakútne a chronické štádium“ (Kolář, 2009).
+Ošetrovateľstvo a liečebná rehabilitácia v akútnej fáze CMP
+
+27
+
+Autori Kalina a kol. (2008) definujú akútne štádium cievnej mozgovej príhody
+pseudochabé – čiže u pacienta dominuje znížený svalový tonus, znížená svalová sila a
+rovnako dochádza k strate voľného pohybu na postihnutých končatinách. Veľmi často ide
+o jednostranné postihnutie, ktoré postihuje zväčša celú polovicu tela. Doba trvania tohto
+obdobia je veľmi individuálna od niekoľko dní až po niekoľko týždňov. Veľký význam v
+tomto období má rehabilitačné ošetrovateľstvo, ktoré zahŕňa predovšetkým starostlivosť a
+snahu zabrániť vzniku dekubitov a polohovaniu (Kalina, 2008). Škála hodnotenia rizika
+vzniku dekubitov bola vytvorená v roku 1962 Doreen Nortonovou a táto škála bola
+vytvorená na základe klinických skúseností pre pacientov v dlhodobej starostlivosti
+(Kolánková, 2020). Škála je znázornená v Prílohe č.12.
+Podľa
+
+Kolářa
+
+(2009)
+
+je
+
+polohovanie
+
+neoddeliteľnou
+
+súčasťou
+
+rehabilitačnej
+
+ošetrovateľskej starostlivosti. Bráni rozvoju ireverzibilných zmien, ktoré by mohli v
+možnom neskoršom období spôsobovať problémy. Správnym polohovaním sa predchádza
+rozvoju kĺbovému stuhnutiu a rozvoju obehových problémov. Pri polohovaní pacienta je
+potrebné udržiavať pravidlá:
+-
+
+pacient by mal byť uložený v stabilnej a pohodlnej polohe
+
+-
+
+koreňové kĺby (rameno, bok) by mali byť vždy uložené vo funkčnom centrovanom
+postavení
+
+-
+
+ruka ostáva vo funkčnom postavení
+
+-
+
+do dlaní nesmie byť nič vložené
+
+-
+
+noha zostáva nepodoprená
+
+Poloha pacienta na chrbte a na postihnutom boku sú znázornené v Prílohách č.10 a č.11.
+Ošetrovateľstvo a liečebná rehabilitácia v subakútnej fáze CMP
+Bar a Chmelová (2011) opisujú subakútnu fázu cievnej mozgovej príhody. Subakútne
+obdobie nastupuje behom jedného týždňa po mozgovej príhode a býva často označované
+ako štádium spasticity. Práve v tomto období sa spomínaná spasticita (zvýšené svalové
+napätie) začína prejavovať. Vo väčšine prípadov sa už u pacientov objavuje voľná
+pohyblivosť, preto sa kladie dôraz na jej nácvik. Po celú dobu rehabilitácie sa kladie dôraz
+na vertikálnu polohu pacienta (Bar, Chmelová, 2011).
+
+28
+
+„Spasticita vzniká z dôvodu poškodenia centrálneho motoneurónu a prejavuje sa zvýšením
+tonického napínacieho reflexu, ktorý je závislý na rýchlosti pasívneho pohybu. Pre
+spasticitu je charakteristické zvýšenie svalového tónu, ktorý sa prejaví pri rýchlom
+preťažení svalu“ (Jech, 2015).
+Ošetrovateľstvo a liečebná rehabilitácia v chronickej fáze CMP
+Podľa Horáčka (2006), u niektorých pacientov sa ich zdravotný stav pozvoľne zlepšuje,
+preto sa pokračuje v započatej rehabilitácii, pri ktorej sa sústreďuje na zvýšenie fyzickej
+kondície a posilneniu jednotlivých pohybových segmentov, na zlepšenie jemnej motoriky,
+správnou chôdzou a na nácvik rovnováhy. Veľmi dôležitá je aj aplikácia fyzikálnej terapie
+(Horáček, 2006).
+
+29
+
+3. Komplexná ošetrovateľská starostlivosť o pacienta s náhlou cievnou
+mozgovou príhodou
+3.1 Kazuistika
+Muž, 51 ročný bol od 5. 2. 2022 do 10. 2. 2022 hospitalizovaný na neurologickej klinike
+UNB Staré mesto s diagnózou náhla cievna mozgová príhoda.
+Dopoludnia 5. 2. 2022 o 10.30 bol pacient prijatý na neurologickú príjmovú ambulanciu
+UNB Staré mesto s príznakmi náhlej cievnej mozgovej príhody.
+Pacient počas rozhovoru s manželkou v kuchyni pocítil náhlu nevoľnosť a ochabnutie
+ľavej strany tela, pričom sa zosunul k podlahe a začal zhoršene komunikovať. Na
+pacientovi pozorujeme parézu oboch ľavých končatín, má poklesnutý ľavý kútik, pri
+odpovedi na otázky pozorujeme miernu dysartriu, pacient komolí konce slov a ťažšie tvorí
+súvislé vety. Slovná zásoba a vyjadrovanie je zhoršené, pacient je dezorientovaný časom,
+nepamätá si aký je deň. Viditeľná anizokória. Sťažuje sa na intenzívnu bolesť hlavy za
+čelom a v záhlaví. Pacient mal podľa manželky od obeda 1. 2. 2022 zvýšený krvný tlak
+180/100 torrov, ktorému nevenoval dostatočnú pozornosť. Podľa jeho slov myslel že to
+prejde, veď má predpísané lieky na tlak. Uvažoval aj o návšteve svojho obvodného lekára.
+Nechcel ho ale zaťažovať, keď je teraz tá koronakríza. Od 1. 2. 2022 do 3. 2. 2022
+pociťoval pacient vertigo a tinitus, prítomná mierna titubácia. 4. 2. 2022 vykonal pacient
+pred uložením k spánku jedenkrát kašovitý vomitus bez prímesi krvi.
+Pacient sa lieči iba na srdce, užíva predpísané lieky na vysoký tlak, ráno užíva Valsacor 80
+mg, Prenessa 8 mg, večer užíva Magnerot a Agen 5 mg. Podľa slov manželky svojvoľne
+užíva na obed šumivé magnézium voľnopredajné v lekárni.
+Pred 4 rokmi prekonal miernu cievnu príhodu, kedy pacient pociťoval cefaleu, titubáciu
+a dysartriu, nevedel sa vyjadriť a zajakával sa. Do aktuálnej situácie bez následkov.
+V detstve prekonal bežné infekčné choroby, v roku 2016 bol účastníkom dopravnej nehody
+kedy mal fraktúru ulny a rádiusu pravej hornej končatiny a femur pravej dolnej končatiny.
+Toho času užíval Fraxiparine 0,6 ml predoperačne a dva mesiace pooperačne. Tohto času
+neudáva žiadnu antikoagulačnú liečbu. Manželka neudáva zníženú chuť do jedla, podľa jej
+slov manželovi chutí domáca rôznorodá strava, úbytok na hmotnosti nieje vidieť.
+Problémy s močením a stolicou sa nevyskytli. Pacient pracuje ako administratívny
+pracovník v národnej spoločnosti, vykonáva sedavé zamestnanie, tohto času prácu z domu.
+30
+
+Býva v byte, v obytnom komplexe so svojou manželkou, synom a dcérou. Majú psa,
+lovecké plemeno, ktoré potrebuje veľa pohybu. Cievna mozgová príhoda sa vyskytuje
+dedične, mal ju opakovane jeho otec aj dedo z otcovej strany, bez doživotných následkov.
+Záver: pacient prijatý na neurologickú JIS, UNB Staré mesto za účelom doriešenia stavu.
+Identifikačné údaje:
+Meno a priezvisko: XY
+Pohlavie: muž
+Rodné číslo: 710701/1234
+Vek: 51 rokov
+Rodinný stav / kontakt: ženatý, 2 deti, manželka, 0904 123 456
+Miesto narodenia: Bratislava
+Národnosť: slovenská
+Bydlisko: Družstevná 8, Bratislava
+Zdravotná poisťovňa: 2561
+Dátum prijatia: 5. 2. 2022
+Oddelenie: neurologická JIS
+Prijatie: neplánované
+Vitálne funkcie pri príjme:
+TK: 175/95 mmHg - hypertenzia
+P: 75/min. – pravidelný
+D: 17/min. – pravidelný
+SpO2: 93%
+TT: 36,4 °C – afebrilný
+Vedomie: lucídne
+Výška: 180 cm
+Váha: 80 kg
+Terajšie ochorenie:
+I64 náhla cievna mozgová príhoda, R47,1 dysartria, I10 hypertenzia, R51 Bolesť hlavy
+Hlavné lekárske diagnózy:
+I64
+
+Cievna mozgová príhoda bližšie neurčená
+31
+
+R51
+
+Cefalea
+
+I10
+
+Primárna artériová hypertenzia
+
+R47.1 Dysartria
+3.2 Posúdenie pacienta podľa vzorcov zdravia M. Gordonovej
+Zo dňa 05. 02. 2022, Neurologická klinika UNB Staré mesto
+1. Vnímanie zdravia:
+Subjektívne: Do dospelosti prekonal bežné infekčné ochorenia. Pár rokov dozadu
+prekonal podobný stav, tak vie čo ho čaká, bol hospitalizovaný tu na klinike. Vidieť na
+ňom, že ho to trápi, je znepokojený. Nechcel zaťažovať svojho obvodného lekára a takto to
+dopadlo. Svoju zdržanlivosť už oľutoval. Taktiež bol účastníkom dopravnej nehody, kedy
+mal zlomenú ruku aj nohu, dával sa dlho dokopy. Dlhodobo sa lieči na vysoký tlak, berie
+lieky čo predpísal doktor. Ten ho posiela aj na preventívne prehliadky tak to dodržiava, má
+na to už vek, vraví. Alergický nie je. Nefajčí, víno pije príležitostne. Bez kávy nevydrží.
+Drogy a omamné látky neužíva.
+Objektívne: Vzhľad normostenický habit, primeraná výživa. Hlava na poklop nebolestivá,
+neurologická dezorientácia, dyzartria. Očné bulvy v strednom postavení, zrenice
+anizokorické, skléry biele, spojivky ružové. Nosová sliznica bez patogenických zmien
+a bez sekrétov. Krk súmerný, šíja mierne napnutá, lymfatické uzliny a štítna žľaza
+v norme. Hrudník súmerný, klenutý, bez deformít. Horné končatiny súmerné,
+voľnepohyblivé, bez deformít, pravá horná končatina má 10cm jazvu, ľavá horná
+končatina oslabená. Dolné končatiny súmerné, voľne pohyblivé, bez edémov, bez
+deformít, pravá dolná končatina 10 cm jazva, ľavá dolná končatina oslabená. V detstve
+a školskom veku prekonal bežné infekčné ochorenia. V roku 2016 utrpel fraktúru ulny,
+rádiusu pravej hornej končatiny a fraktúru femuru pravej dolnej končatiny pri dopravnej
+nehode. V roku 2018 prekonal cievnu mozgovú príhodu bez následkov. Vie čo ho čaká,
+pacient verbalizuje znepokojenie a obavy z recidívy ochorenia. Pociťuje zvýšené napätie,
+ktoré sa prejavuje obkúsavaním nechtu palca na pravej ruke. Alergie na lieky a potraviny
+neudáva. Užíva predpísané lieky pravidelne, svojvoľne užíva každý deň magnézium,
+Pravidelne absolvuje prehliadky u internistu, neurológa a urológa. Z abúzov fajčenie
+neguje, omamné látky neužíva žiadne, alkohol pije príležitostne, pije tri kávy denne.
+Pacient mal dlhodobo zvýšený tlak krvi 180/100 torr, pre svoju ľahostajnosť a laxný
+32
+
+prístup ku svojmu zdravotnému stavu. Užíva Valsacor 80 mg, 1-0-0, Prenessa 8 mg, 1-0-0,
+Magnerot, 0-0-1, Agen 5 mg 0-0-1, Magnúzium šumivé, 0-1-0. Pacient je očkovaný na
+Sars Cov 2, variant covid 19 troma dávkami Pfizer Biontech. Tretiu dávku absolvoval
+15.12.2022.
+
+2. Výživa – metabolizmus:
+Subjektívne: Pacient sa stravuje štandardným režimom, v dlhšom časovom období od
+prvej mozgovej príhody v roku 2018 nerobil zásadné zmeny. Stravu doma pripravuje
+väčšinou manželka, strava je pestrá, rôznorodá. Sladké moc pacient neobľubuje, radšej si
+dá ovocie. Nechutenstvo pacient nepociťuje. Stravuje sa 4x za deň a má pravidelný pitný
+režim. Denne vypije 2 litre tekutín. Pacient užíva naordinovanú diétu č.10. Občas zakašle,
+čo zapričiňuje obavu zjesť tuhú stravu, aby mu nezabehlo. Výška 180cm, váha asi 80kg.
+Bmi v norme.
+Objektívne: Pacient váži 80 kíl, meria 180 centimetrov, BMI – 20 ideálna váha. Pacient
+si drží dlhodobo ideálnu hmotnosť. Pery ružové, vlhké bez cyanózy. Chrup má svoj trvalý,
+o ktorý sa stará. Koža ružová, bez ikteru, cyanózy, suchá, bez rán, povrch hladký, trugor
+v norme. Ústna dutina bez edému, bez zápalu, jazyk bez povlaku. Sliznice nosa a úst vlhké,
+bez začervenania a zápalu. Hrdlo vlhké, ružové, bez zápalu, tonzily v norme, bez hlienov.
+Nosová sliznica bez patogenických zmien a bez sekrétov. Telesná teplota nameraná
+digitálnym teplomerom na čele 36,3°C. Brucho mäkké, priehmatné, peristaltika počuteľná,
+na pohmat, poklop nebolestivé. Doma sa stravuje 5x denne rôznorodo v primeraných
+porciách. Denne prijme 2 litre tekutín. Zavedený i. v. katéter zelenej farby na ľavom
+predlaktí nevykazuje známky poškodenia, obtekania a zápalu. Stravu konzumuje sám
+v polosede pravou, dominantnou rukou. Pacient má naordinovanú šetriacu neslanú diétu
+č.10. Jedlo mu chutí, pacient zje väčšiu časť porcie. Občas zakašle, čo vzbudzuje u
+pacienta obavu zjesť tuhú stravu, bojí sa že mu zabehne. Podľa Nortonovej stupnice rizika
+vzniku dekubitov pacient obstál na 18 bodov z 20, nízky stupeň vzniku dekubitov.
+Liečba:
+Inf: 500ml, FR + 1amp 10ml 10% MgSO4 + 1amp 2ml Cavinton 1-0-0
+Inf: 250ml, FR + 1amp 1ml Torecan + 1amp 2ml Novalgin 0-1-0
+PerOs: Anopyrin 100 mg 1-0-0, Trombex 75 mg 1-0-0, Tensiomin 12,5 mg 1-0-0, Hylak
+30kv 1-1-1, Valsacor 80 mg 1-0-0, Prenessa 8 mg 1-0-0, Agen 5 mg 0-0-1
+I.m.: Metamizol 2 ml
+33
+
+Diéta: 10, neslaná, šetriaca
+Laboratórne vyšetrenia:
+Imunologické: CRP-1,50, PCR-10,1,
+Minerálne látky: Sodík-135,0, Draslík-3,62, Vápnik-2,60, Chloridy-99,
+Metabolity: Albumín-42,5, Glukóza-5,2, Bielkoviny-65,2, Kyselina močová-220, Urea4,1, Kreatinin-70, Bilirubín-9,1,
+Krvný obraz: Leukocyty-8, Neutrofily-4,1, 10, Lymfocyty-2,30, Monocyty-0,35,
+Eozynofily
+
+EO-0,35,
+
+Bazofily
+
+BASO-0,07,
+
+Neutrofily%-47,1,
+
+Lymfocyty%-31,
+
+Monocyty%-5,1, Eozynofily%-5,2, Bazofily%-0,4, Erytrocyty-5,1, Hemoglobín-150,
+Trombocyty-331,
+Koagulácia: Quickov test INR-1,15, APTT-0,9, Fibrinogén-3,1, Dimér-1,4
+Moč: pH-5,5, Leukocyty-0,3, Erytrocyty-0,7, Baktérie-1,1, Kryštály-0,1, Kvasinky-0,0
+Plánované vyšetrenia: 12 zvodové EKG, RTG hrudníka, RTG lebky, CT mozgu,
+oftamologické, logopedické, rehabilitačné
+3. Vylučovanie:
+Subjektívne: Pacienta netrápia problémy s močením, ani so stolicou. Moč je svetložltej
+farby, 4 krát za deň. Stolica je hnedá, formovaná a bez zápachu, 1 krát denne.
+Objektívne: Pacient močí spontánne štyrikrát denne, presne 1,3 litra za 12 hodín. Moč
+svetložltej farby bez zvýšeného zápachu štyrikrát denne. Chemické vyšetrenie moču: pH5,3, hmotnosť-1015 kg/m3, glukóza-negat, bielkoviny-0,1 g/l, erytrocyty-negat, leukocytynegat, ketóny-negat, bilirubin-negat, urobilinogen-5,1 umol/l, nitrity-negat. Stolica hnedá
+formovaná bez zvýšeného zápachu, jedenkrát denne. Moč a stolica bez patologických
+prímesí. Podľa Bristolskej škály typu stolice (Príloha č.13) má pacient typ 4. Pacient má
+potenie v norme.
+4. Aktivita – cvičenie:
+Subjektívne: Pacient je pracujúci. V denných aktivitách a hygiene je plne samostatný.
+Aktuálne je pacient oslabený na ľavú stranu tela čo spôsobuje závislosť na zdravotníckom
+personále pri pohybe a hygiene. Samostatne nechodiaci, potrebuje barlu a oporu sestry.
+Pacient je pracujúci, v práci trávi podstatnú časť dňa, zvyšok dňa, víkendy a dovolenky
+trávi so svojou rodinou a blízkymi priateľmi pri športových a kultúrnych podujatiach. Rád
+chodí k vode a do fitness centra.
+34
+
+Objektívne: Pacient trávi pracovné dni od rána do poobedia v práci. Svoj voľný čas trávi
+so svojou rodinou a priateľmi pri spoločenských oddychových aktivitách typu prechádzky,
+posedenie pri dobrom jedle, návšteve kina, divadla a kultúrnych podujatí. Ráno a večer
+v pracovných dňoch chodí na hodinové prechádzky so svojím psom do parku. Každé leto
+rád cestuje k moru so svojou rodinou. Chodí do posilňovne dvakrát týždenne. Pacient je
+po ľavostrannej hemiparéze odkázaný pri pohybe a hygiene na pomoc zdravotníckeho
+personálu. Stanovený a zaznamenaný rozsah imobility do zdravotnej dokumentácie, 2.
+stupeň – veľmi obmedzená mobilita. Pacient používa pri chôdzi nemeckú barlu pod ľavou
+pažou, ktorú drží oslabenou ľavou rukou. Na oslabenú ľavú nohu vie dostúpiť ťažko, je
+schopný chôdze iba s pomocou sestry, ktorá ho musí pridržiavať. Pri hygiene pacient
+potrebuje pomoc s opaterou o zadné partie tela. Pri umývani chrupu a česaní je samostatný.
+S ohľadom na oslabenú ľavú stranu teľa sa polohuje na ľavú stranu, pravú stranu a chrbát
+každé 3 hodiny. Oslabenú stranu vie pacient používať, preto sa nepoužívajú na posteli
+bočnice. V Barhelovej teste základných denných aktivít (Príloha č.16) pacient obstál na 50
+bodov – závislosť stredného stupňa. Pri chôdzi používa nemecké barle. Kvôli zlepšeniu
+zdravotného stavu pacienta zabezpečený fyzioterapeut a logopéd jedenkrát denne.
+Dýchanie fyziologické, pravidelné, rovnako hlboké, frekvencia dýchania 15/min., občas
+si povzdychne. Pacient nemá kašeľ. Akcia srdca pravidelná, sínus, frekvencia 75/min.,
+palpačne silný, dobre hmatateľný na karotis a radialis. Tlak krvi 145/85 torr odmeraný
+digitálnym tlakomerom na pravom predpaží.
+5. Spánok – odpočinok:
+Subjektívne: Pacient spí doma dobre, v noci spí 7 hodín, občas sa zobudí kvôli nočnému
+močeniu. Cez deň spať nevie, nieje na to čas ani príležitosť. Pred spaním vedie rozhovor
+s manželkou čo sa udialo cez deň, alebo si pozrie dobrý film.
+Objektívne: Aktívnym pozorovaním a rozhovorom so spolu ležiacim pacientom na izbe
+sme zistili, že pacient spí v noci približne 7 hodín v pokoji bez budenia, nechrápe,
+jedenkrát sa zobúdza pri potrebe na močenie. Na hlasné oslovenie pacient reaguje
+zobudením. Pacient priznáva, že aj počas dňa ho doháňa únava, preto si rád pospí
+v poobedných hodinách. Lieky na spánok pacient neužíva. V nemocnici mu chýbajú
+rozhovory s manželkou pred spaním.
+
+35
+
+6. Vnímanie – poznávanie:
+Subjektívne: Pacient neguje problémy so sluchom, alebo zrakom. Na čítanie a prácu
+s počítačom používa okuliare. Pamäť mu slúži dobre. Raz ročne chodí na prehliadku
+ku očnému. Sťažuje sa, že ho bolí hlava za čelom a v záhlaví.
+Objektívne: Pacient si spomína na udalosť zo dňa príhody. Chuť do jedla, čuch a hmat
+zachovaný. Je orientovaný miestom a osobou, orientácia času neúplná, má problém udať,
+aký je deň v týždni. Na čítanie používa okuliare, ktoré mu priniesla manželka. Počuje
+dobre. Reč je pomerne zrozumiteľná, niekedy sa nevie vyjadriť, hľadá správne výrazy,
+ktoré mu robia problém čo ho deprimuje. Osloveniu zdravotníkov rozumie, odpovedať sa
+snaží obšírnešie. Alternatívny spôsob dorozumievania nechce nevyužívať. V Glasgow
+Coma teste (Príloha č.14) pacient obstál na 14 z 15 bodov. Pacient pociťuje bolesť hlavy v
+dôsledku zvýšeného krvného tlaku za čelovou kosťou a v záhlaví. Čas vzniku uvádza od
+rána, bolesť začala keď ráno vstal z postele. Charakter bolesti je tlaková, lokalizovaná bez
+vyžarovania do iných častí hlavy. Pacient udáva že doma bola intenzita bolesti väčšia, po
+príjme na ambulanciu sa bolesť znížila. Podľa vizuálnej a analógovej stupnice bolesti
+(Príloha č.15) pacient obstál na 6 bodov z 10.
+7. Sebakoncepcia – sebaúcta:
+Subjektívne: Pacient má pokojnú povahu, považuje sa za nekonfliktného introverta.
+Strach z nemocničného prostredia nemá. Trápi ho ale, že ho to postihlo opäť. Je
+znepokojený a napätý. Kúše si pravý palec na ruke. Inak je pokojnej a milej povahy.
+O pacientovom zdravotnom stave je rodina informovaná.
+Objektívne: Pacient je pokojnej, priateľskej a milej povahy. Kvôli narušenej komunikácii
+sa pacient nevie vyjadriť ako by chcel, komolí konce slov a nevie tvoriť súvislé vety.
+Dostáva sa do miernej depresie, kvôli ktorej ale neupadá do agresie. Kvôli bolesti hlavy je
+mierne nepokojný čo sa vyznačuje obkúsavaním nechtu na palci pravej ruky. Snaží sa
+napredovať a svoj zdravotný stav a komunikáciu zlepšovať. Pracuje na sebe. Pokrok je
+viditeľný. Napriek tomu ho trápi recidíva ochorenia, ktorá sa prejavuje tým že o nej hovorí
+v znepokojení a zvýšenom napäti.
+8. Roľa – medziľudské vzťahy:
+
+36
+
+Subjektívne: Je ženatý, so svojou manželkou a deťmi býva v byte v Bratislave. Ako
+jedináčik bol vychovaný v kompletnej rodine.
+Objektívne: Je ženatý s manželkou 15 rokov, žije v harmonickom a priateľskom
+manželstve. Má syna, 17 ročného, a 20 ročnú dcéru, s ktorými ma dobrý priateľský vzťah.
+Spolu so svojou manželkou, deťmi a psom žijú v byte v hlavnom meste. Spolu majú veľký
+okruh rodiny a známych s ktorými sa navštevujú. S rodinou je v kontakte. V zdravotných
+záznamoch je uvedený kontakt na jeho manželku. Bol vychovaný ako jedináčik
+v kompletnej rodine. Otec zomrel na starobu vo veku 80 rokov. Matka zomrela tiež
+na starobu vo veku 83 rokov. Ku ostatným pacientom a zdravotnému personálu sa správa
+priateľsky, váži si ich pomoc. S personálom komunikuje priamo, ak sa mu niečo nepáči,
+vie to povedať.
+
+9. Sexualita – reprodukcia:
+Subjektívne: Pacient žije pohlavným životom, má stálu partnerku. Má dve dospievajúce
+deti. Raz ročne chodí na urologické preventívne prehliadky.
+Objektívne: Z rozhovoru vyplýva, že pacient udržuje intímny život so svojou manželkou.
+Spolu majú dve zdravé deti. Pacient chodí na pravidelné kontroly k urológovi.
+
+10. Stres – vyrovnávanie sa so stresom:
+Subjektívne: Doma stres nezažíva. V práci je vystavovaný stresu pravidelne. Zmeny mu
+nerobia problém. Na vysporiadanie sa so stresom chodí rád do fitness centra, v dobe
+pracovného nasadenia má vždy po ruke misku s čerstvým ovocím.
+Objektívne: Pacient je pokojnej povahy, v práci zažíva pravidelne stresové návaly
+s ktorými sa vie dobre vysporiadať. Pacient sa dobre prispôsobuje zmenám. Na regeneráciu
+navštevuje posilňovňu a holduje čerstvému ovociu. Najradšej má tropické. Aktuálne hľadá
+spôsoby ako sa vysporiadať s narušenou komunikáciou. Strach z nemocničného prostredia
+nepociťuje. Znepokojuje ho ale recidíva ochorenia, má z nej obavy, ktoré verbalizuje.
+
+11. Hodnoty – viera:
+
+37
+
+Subjektívne: Pacient neverí v Boha, do kostola nechodí. Nemá vybudovaný vzťah
+k náboženstvu. Záleží mu na svojej rodine, aby sa mala dobre a aby im nič nechýbalo.
+Objektívne: Pacient je ateista. Do kostola a na omše nechodí. Svadbu s manželkou mali
+na úrade. V tomto smere vychovávajú aj svoje deti. Rodina je na prvom mieste,
+s manželkou vedú domácnosť tak, aby sa mali dobre a aby im nič nechýbalo. Strach
+z nemocničného prostredia nemá. Podobnú situáciu zažil v roku 2016 a 2018. Vie čo
+obnáša hospitalizácia. Pacient je zorientovaný a pokojný.
+
+3.3 Stanovenie sesterských diagnóz
+Aktuálne sesterské diagnózy podľa taxonómie NANDA II:
+-
+
+00132 Akútna bolesť hlavy v súvislosti s poruchou prekrvenia mozgu,
+prejavujúca sa nepokojom, nevolnosťou, zmenou vitálnych funkcií
+
+-
+
+00051 Narušená verbálna komunikácia v súvislosti s poruchou prekrvenia
+mozgu, prejavujúca sa komolením slov a znemožnenou tvorbou súvislých viet
+
+-
+
+00085 Obmedzená telesná pohyblivosť v súvislosti s ľavostrannou hemiparézou,
+prejavujúca sa oslabením končatín a neschopnosťou vykonávať aktivity denného
+života bez kompenzačných pomôcok
+
+-
+
+00108 Deficit sebaopatery pri kúpaní a hygiene v súvislosti s ľavostrannou
+hemiparézou, prejavujúci sa neschopnosťou vykonať činnosti osobnej hygieny,
+úpravy zovňajšku a celkový kúpeľ
+
+-
+
+00088 Narušená chôdza v súvislosti s nervovo-svalovou poruchou, prejavujúca sa
+obmedzením pohybu a ťahaním ľavej dolnej končatiny po zemi
+
+-
+
+00103 Porucha prehĺtania v súvislosti s neurologickým ochorením, prejavujúca
+sa kašľom a obavami zjesť tuhú stravu,
+
+-
+
+00108 Deficit sebaopatery pri obliekaní v súvislosti s primárnym ochorením
+prejavujúci sa neschopnosťou samostatne si zapnúť gombíky na košeli, upevniť
+si opasok a zaviazať si šnúrky na topánkach
+
+-
+
+00110 Deficit
+
+sebaopatery
+
+pri
+
+vyprázdňovaní
+
+v súvislosti
+
+s primárnym
+
+ochorením prejavujúci sa potrebou pomoci, neschopnosťou vykonať následnú
+hygienu
+38
+
+-
+
+00148 Strach v súvislosti s obavami z opakovaného ochorenia v súvislosti
+s cievnym poškodením mozgu prejavujúci sa verbalizáciou, znepokojením
+a zvýšeným napätím
+
+Potencionálne sesterské diagnózy
+-
+
+00004 Riziko infekcie v súvislosti so zavedeným i. v. katétrom
+
+-
+
+00004 Riziko infekcie v súvislosti so zavedením permanentného močového
+katétra
+
+-
+
+00036 Riziko aspirácie a dusenia v súvislosti s nevoľnosťou
+
+-
+
+00155 Riziko úrazu v súvislosti s poruchou telesnej hybnosti
+
+-
+
+00015 Riziko vzniku zápchy v súvislosti ochabnutia svalstva tráviaceho traktu
+
+-
+
+00047 Riziko narušenia integrity kože v súvislosti s imobilizáciou
+
+3.4 Plán ošetrovateľskej starostlivosti
+Sesterská diagnóza č. 1
+00132 Akútna bolesť hlavy v súvislosti s poruchou prekrvenia mozgu, prejavujúca sa
+nepokojom, nevolnosťou, zmenou vitálnych funkcií
+Priorita: Vysoká
+Cieľ: Pacient si odstráni bolesť
+Výsledné kritéria
+-
+
+Pacient má podľa numerickej škály číslo 2, miernu bolesť hlavy do 30 minút
+
+-
+
+Pacient je pokojný do 2 hodín
+
+-
+
+Pacient si pýta analgetiká než bolesť hlavy zosilnie nad úroveň 5 škály bolesti
+
+-
+
+Tlak krvi je 130/80 torr od podania anagetík do 45 minút
+
+Intervencie sestry
+-
+
+Pacientovi zabezpečiť pokojné a tiché prostredie na izbe
+
+-
+
+S pacientom udržiavať kontakt a podporovať ho, v prípade potreby upokojiť
+
+-
+
+Pacientovi zabezpečiť vhodnú polohu na lôžku
+
+-
+
+Včasne zabezpečiť analgetickú liečbu pre pacienta
+39
+
+-
+
+Poučiť pacienta o privolaní sestry, ak pocíti opätovnú bolesť hlavy
+
+-
+
+Poučiť pacienta, aby si pýtal lieky od bolesti, ak bolesť opäť zosilnie
+
+-
+
+Analgetickú liečbu zapísať do zdravotnej dokumentácie
+
+-
+
+Merať vitálne hodnoty tlaku krvi
+
+Realizácia: 05. 02. 2022
+10:45 Zabezpečené pokojné a tiché prostredie na izbe. Pacient leží na posteli, pozerá von
+oknom, je mienre nepokojný, čo sa prejavuje kúsaním nechtu na palci pravej ruky.
+Na numerickej škále má pacient bolesť strednej intensity číslo 6
+10:50 Meranie tlaku krvi na ľavom predlaktí digitnálny tlakomerom. Nameraná hodnota
+160/105 torr
+10:55 Podávanie analgetickej liečby podľa ordinácie lekára Metamizol 2ml i.m.
+11:00 Uloženie pacienta na chrbát, pod hlavou ustlané dva vankúše
+11:40 Meranie tlaku krvi na ľavom predlaktí difitálnym tlakomerom. Nameraná hodnota
+130/80 torr
+11:45 Monitorovanie stupnice bolesti pacienta, stupeň 2, miernena bolesť. Pacient
+je pokojný
+12:00 Pacient poučený, aby si pýtal lieky od bolesti, ak pocíti bolesť hlavy opäť
+Vyhodnotenie: 05. 02. 2022
+Pacientovi bolo zabezpečené pokojné a tiché prostredie na izbe. Pred podaním analgetickej
+liečby mal pacient intenzitu bolesti 6 stredná bolesť a tlak krvi 160/105 torr, čo
+spôsobovalo mierny nepokoj pacienta kedy si obkusával necht na palci pravej ruky. O
+10:55 boli pacientovi podané muskulárne analgetiká. Po opätovnom vyhodnotení škály
+bolesti po hodine s intenzitou 2 mierna bolesť sme pacientovi namerali tlak krvi 130/80
+torr. Tlak krvi sme merali digitálnym tlakomerom na ľavom predpaží. Pacient je pokojný
+do dvoch hodín. Je informovaný a poučený ako postupovať v prípade recidívy, lieky od
+bolesti si pýta skôr, ako bolesť hlavy presiahne úroveň 5 škály bolesti.
+Realizácia: 06. 02. 2022
+15:00 Pacient si pýta analgetiká, monitorovanie stupnice bolesti pacienta, stupeň 5,
+stredná intenzita bolesti
+15:05 Meranie tlaku krvi na ľavom predlaktí digitnálny tlakomerom. Nameraná hodnota
+165/100 torr
+40
+
+15:10 Podávanie analgetickej liečby podľa ordinácie lekára Metamizol 2ml i.m.
+15:15 Uloženie pacienta na ľavý bok do stabilizovanej polohy, hlava uložená na ľavú
+stranu, pod hlavou ustlané dva vankúše
+15:40 Meranie tlaku krvi na ľavom predlaktí difitálnym tlakomerom. Nameraná hodnota
+130/75 torr
+15:45 Monitorovanie stupnice bolesti pacienta, stupeň 1, mierna bolesť. Pacient je
+pokojný
+15:50 Pacient povedal, že si vypáta lieky ak ho hlava začne znova bolieť
+Vyhodnotenie: 06. 02. 2022
+Pacient si o 15 hodine vypýtal od sestry analgetiká pre strednú bolesť hlavy. Pred podaním
+analgetickej liečby mal pacient intenzitu bolesti 5 stredná bolesť a tlak krvi 165/100 torr.
+O 15:10 boli pacientovi podané muskulárne analgetiká. Po opätovnom vyhodnotení škály
+bolesti po 35 minútach s intenzitou 1 mierna bolesť sme pacientovi namerali tlak krvi
+130/75 torr. Krvný tlak meraný digitálnym tlakomerom na ľavom predpaží. Pacient bol
+pokojný do dvoch hodín. Je informovaný a poučený, povedal, že si vypýta lieky na bolesť
+skôr, ako bolesť presiahne úroveň 5 škály bolesti. Cieľ sa splnil. Pacient si odstránil bolesť,
+pociťuje úľavu od bolesti hlavy po podaní analgetík do 45 minút. Pokračovať v
+naplánovaných sesterských intervenciách.
+Sesterská diagnóza č. 2
+00051 Narušená verbálna komunikácia v súvislosti s poruchou prekrvenia mozgu,
+prejavujúca sa komolením slov a znemožnenou tvorbou súvislých viet
+Priorita: Vysoká
+Cieľ: Pacient si obnoví schopnosť verbálnej komunikácie, zvlášť artikuláciu do 2 dní
+Výsledné kritéria
+-
+
+Pacient sa verbálne vyjadruje bez ťažkostí do 2 dní
+
+-
+
+Pacient nepotrebuje alternatívne prostriedky pri komunikácií na vyjadrenie svojich
+potrieb do 2 dní
+
+-
+
+Pacient je pri verbálnej komunikácií pokojný a uvoľnený do 2 dní
+
+-
+
+Pacient sa cíti v psychickej pohode do 3 dní
+
+41
+
+Intervencie sestry
+-
+
+Zhodnotiť a zaznamenať úroveň schopnosti pacienta hovoriť, počúvať a písať
+
+-
+
+Pacientovi vysvetliť, prečo má narušenú schopnosť verbálne komunikovať
+
+-
+
+Pacienta pozorne počúvať, sledovať jeho neverbálne i verbálne vyjadrenia
+
+-
+
+S pacientom viesť jednoduchú komunikáciu a využívať rozličné spôsoby na získanie
+informácií
+
+-
+
+Počas komunikácie povzbudzovať pacienta, aby rozprával pomaly, prípadne
+zabezpečiť pomoc logopéda
+
+-
+
+Poskytnúť pacientovi pomôcky na alternatívnu komunikáciu
+
+-
+
+Ubezpečiť pacienta, že frustrácia a hnev sú v jeho situácií prirodzenou reakciou.
+
+-
+
+Zaznamenávať mieru úzkosti, depresie, prejavy hnevu či frustrácie alebo
+nepriateľské správanie. Všetko zaznamenať do zdravotnej dokumentácie
+
+Realizácia: 05. 02. 2022
+10:45 Zhodnotenie stavu pacienta na komunikáciu s ošetrujúcim personálom. Pacient
+komunikuje a odpovedá na otázky. Komolí konce slov, tvorba súvislých viet
+je narušená
+10:50 Komunikácia s pacientom, objasnenie situácie, vysvetlenie náležitostí, podpora.
+Pacient komolí konce slov. Nevie tvoriť vety, ktorým sa dá rozumieť.
+12:00 Zabezpečenie logopedického vyšetrenia klinickým logopédom v trvaní 30 minút
+13:30 Zabezpečenie pomôcok na komunikáciu, vysvetlenie používania, podpora pacienta.
+Na stolíku pri posteli má položený blok na písanie a pero, za ktoré poďakoval
+14:00 Logopedické vyšetrenie do 14:30, pacient sa zapájal a spolupracoval
+14:35 Kontrola pacienta a zaznamenávanie do zdravotnej dokumentácie. Pacient tvorí
+vety, ktorým sa dá rozumieť. Pri zhodnotení stavu o 10:45 komolil konce slov a
+nevedel tvoriť súvislé vety. Tento jav sa nepodarilo úplne zvrátiť. Komolenie
+nezmenené. Pacienta som podporil a ubezpečil ho, že zajtra to pri vyšetrení bude
+lepšie. Pacient to zobral s pokojom, odpovedal, že sa pripraví na dalšie vyšetrenie
+Vyhodnotenie: 05. 02. 2022
+Po prijatí pacienta na oddelenie sme zhodnotili stav komunikácie, aby sme zistili ako
+sa najlepšie s pacientom dorozumieť. Zistili sme, že komunikuje, ale komolí konce slov
+a nevie tvoriť súvislé vety. Reči sa dalo rozumieť. Následne sme mu objasnili situáciu
+a vysvetlili náležitosti ďalšieho postupu. Zabezpečili sme logopedické vyšetrenie.
+42
+
+Pacientovi sme položili ku posteli blok na písanie a pero. Po logopedickom vyšetrení ktoré
+trvalo 30 minút sme kontrolou zistili, že poruchu artikulácie, tvorenie súvislých viet
+a komolenie koncov slov sa nepodarilo napraviť. Pacienta sme podporili, ten to zobral
+s pokojom. Ďalšie logopedické vyšetrenie nasledujúci deň.
+Realizácia: 06. 02. 2022
+10:30 Zhodnotenie stavu pacienta na komunikáciu s ošetrujúcim personálom. Pacient
+komunikuje a odpovedá na otázky. Komolí konce slov, nevie tvoriť súvislé vety
+11:00 Komunikácia s pacientom, situácii rozumie, je oboznámený so zdravotným stavom.
+Pacient stále komolí konce slov a nevie tvoriť súvislé vety
+13:50 Logopedické vyšetrenie do 14:20, pacient sa zapájal a spolupracoval
+14:30 Kontrola pacienta a zaznamenávanie do zdravotnej dokumentácie. Pacient tvorí
+súvislé vety. Pri zhodnotení stavu o 10:30 komolil konce slov a nevedel tvoriť
+súvislé vety. Tento jav sa logopedickým vyšetrením podarilo napraviť. Pacient už
+nekomolí konce slov, zriedakovo je počuť, že nedokončí slovo posledným
+písmenom. Pacienta som podporil a pochválil. Ten ma uistil, že pri treťom
+vyšetrení to už bude stopercentné
+Vyhodnotenie: 06. 02. 2022
+Pri rannej kontrole sme zhodnotili stav komunikácie pacienta, kvôli najlepšej forme
+dorozumievania s personálom. Pacient komolil konce slov a nevedel tvoriť súvislé vety.
+Reči sa dalo rozumieť. Po logopedickom vyšetrení ktoré trvalo 30 minút sme kontrolou
+zistili, že poruchu artikulácie, tvorenie súvislých viet a komolenie koncov slov sa podarilo
+napraviť. Zriedakovo bolo počuť, že nedokončí slovo posledným písmenom. Pacienta sme
+podporili, ten nás ubezpečil, že po ďalšom logopedickom vyšetrení to už bude bez chýb.
+Cieľ sa splnil čiastočne. Pacient rozpráva pomaly, je mu rozumieť a tvorí súvislé vety.
+Zriedkavo
+
+v
+
+niektorých
+
+slovách
+
+nedopovie
+
+posledné
+
+písmeno.
+
+Pokračovať
+
+v
+
+naplánovaných sesterských intervenciách.
+Sesterská diagnóza č. 3
+00085 Obmedzená telesná pohyblivosť v súvislosti s ľavostrannou hemiparézou,
+prejavujúca sa oslabením končatín a neschopnosťou vykonávať aktivity denného života
+bez kompenzačných pomôcok
+
+43
+
+Priorita: Stredná
+Cieľ: Pacient si zlepší telesnú pohyblivosť v oslabených končatinách do 2 dní
+Výsledné kritéria
+-
+
+Pacient má do maximálnej možnej miery zlepšenú pohyblivosť do 2 dní
+
+-
+
+Pacient je oboznámený s rehabilitačným programom a potrebou cvičenia do 5 hodín
+
+-
+
+Pacient spolupracuje pri rehabilitačných cvičeniach s fyzioterapeutom od začiatku
+
+-
+
+Pacient je schopný vykonávať aktivity denného života s využívaním
+kompenzačných pomôcok do 2 dní.
+
+Intervencie sestry
+-
+
+Ihneď stanoviť a zaznamenať rozsah imobility podľa používaných klasifikácii
+
+-
+
+Denne zabezpečovať vhodnú polohu postihnutých končatín
+
+-
+
+Zabezpečiť fyzioterapeuta na vypracovanie rehabilitačného programu
+
+-
+
+Viesť pacienta k sebestačnost, podporovať ho v rehabilitačnom cvičení
+
+-
+
+Poučiť pacienta o používaní kompenzačných pomôcok, na zvýšenie komfortu
+postihnutej časti tela (záves, hrazda, barla, gumová loptička)
+
+-
+
+Ihneď zabezpečiť pomôcky na prevenciu imobility (vzduchové madrace,
+antidekubitor).
+
+-
+
+Predchádzať
+
+vzniku
+
+komplikácií
+
+počas
+
+hospitalizácie
+
+v podobe
+
+poruchy
+
+vyprázdňovania, vznik kontraktúr, preležanín, úzkostných stavov a podobne
+-
+
+Denne monitorovať stupeň mobility a imobility a zmeny oznámiť lekárovi.
+
+Realizácia: 05. 02. 2022
+10.45 Stanovený a zaznamenaný rozsah imobility do zdravotnej dokumentácie, 2. stupeň
+– veľmi obmedzená mobilita. Pacient používa pri chôdzi nemeckú barlu pod ľavou
+pažou, ktorú drží oslabenou ľavou rukou. Na oslabenú ľavú nohu vie dostúpiť
+ťažko, je schopný chôdze iba s pomocou sestry, ktorá ho musí pridržiavať
+10:55 Prvý monitoring bolesti pacienta, ďalšie následne počas dňa. Pacient udáva
+v postihnutých končatinách miernu bolesť intenzity č.2
+11.00 Po základnom neurologickom vyšetrení následná konzultácia s rehabilitačným
+fyzioterapeutom
+
+44
+
+13:00 Konzultácia s pacientom ohľadom cvikov, pohybu a rehabilitácie, vedenie pacienta
+k samostatnosti. Rehabilitačné cvičenie zamerané na cvičenie zápästia a prstov
+oslabenej ľavej končatinys gumovú loptičkou. Cvičenie bude trvať 1 hodinu.
+15:00 Druhý monitoring bolesti pacienta. Pacient udáva v postihnutých končatinách
+miernu bolesť intensity č.3
+16:30 Rehabilitačné cvičenie. Práca s pacientom, pomôckami, cviky a potreby. Gumovú
+loptičku pacient stláčal v pästi 30 sekúnd, tento úkon opakoval 15 krát. Gumovú
+loptičku pacient stláčal prstami a palcom ľavej ruky 30 sekúnd. Tento úkon
+opakoval 14 kát. Tieto dva cviky opakoval v piatich sériach
+17:40 Tretí monitoring bolesti pacienta. Pacient udáva v postihnutých končatinách miernu
+bolesť intenzity č.3
+17:45 Monitoring stupňa mobility, 2. stupeň – veľmi obmedzená mobilita. Pacient
+používa pri chôdzi nemeckú barlu pod ľavou pažou ktorú drží oslabenou ľavou
+rukou. Na oslabenú ľavú nohu vie dostúpiť ťažko, je schopný chôdze iba s
+pomocou sestry, ktorá ho musí pridržiavať
+Vyhodnotenie: 05. 02. 2022
+Po prijatí pacienta na oddelenie sme vykonali a zaznamenali rozsah mobility pacienta
+s výsledkom 2. stupeň – veľmi obmedzená mobilita. Pacient je schopný chôdze iba
+s pomocou barly a sestry, ktorá ho musí pridržiavať, ťažko dostupuje na ľavú nohu.
+Používa nemeckú barlu pod ľavou pažou. Pri prvom monitoringu bolesti v postihnutých
+končatinách pacient udal intenzitu bolesti 2 – mierna bolesť. Po základnom neurologickom
+vyšetrení sme konzultovali stav s rehabilitačným fyzioterapeútom. S pacientom sme
+prekonzultovali cviky na ľavú ruku. Monitoring bolesti pred hebalitáciou s výsledkom 3 –
+mierna bolesť. Pri rehabilitačnom cvičení používal pacient gumovú ľoptičku ktorú stláčal.
+Po rehabilitačném cvičení sme vykonali tretí monitoring bolesti s výsledkom 3, mierna
+bolesť. Monitoring stupňa mobility s výsledkom 2. stupeň - veľmi obmedzená mobilita.
+Pacient nevie sám chodiť, potrebuje sa opierať o barlu a potrebuje oporu sestry, ktorá ho
+musí pridržiavať
+Realizácia: 06. 02. 2022
+10:30 Stanovený a zaznamenaný rozsah imobility do zdravotnej dokumentácie, 2. stupeň
+– veľmi obmedzená mobilita. Pacient používa pri chôdzi nemeckú barlu pod ľavou
+
+45
+
+pažou ktorú drží ľavou rukou. Na oslabenú ľavú nohu vie dostúpiť ťažko, je
+schopný chôdze iba s pomocou sestry, ktorá ho musí pridržiavať
+10:50 Prvý monitoring bolesti pacienta, ďalšie následne počas dňa. Pacient udáva
+v postihnutých končatinách miernu bolesť intenzity č.1
+13:00 Konzultácia s pacientom ohľadom cvikov, pohybu a rehabilitácie, vedenie pacienta
+k samostatnosti. Rehabilitačné cvičenie zamerané na dvíhanie postihnutých
+končatín v ľahu na posteli. Každá končatina dvihnutá vo vzduchu 15 sekúnd.
+Cvičenie bude trvať 1 hodinu.
+13:15 Druhý monitoring bolesti pacienta. Pacient udáva v postihnutých končatinách
+miernu bolesť intenzity č.1
+14:30 Rehabilitačné cvičenie. Práca s pacientom, pomôcky, cviky a potreby. Pacient v
+lahu na posteli držal obe ľavé končatiny vo vzduchu 30° po dobu 15 sekúnd. Toto
+cvičenie opakoval 5 krát. Prácu s fyzioterapeutom si pochvaloval
+15:45 Tretí monitoring bolesti pacienta. Pacient udáva v postihnutých končatinách miernu
+bolesť intenzity č.3
+15:50 Monitoring stupňa mobility, 3. stupeň – mierne obmedzená mobilita. Pacient
+nepotrebuje oporu sestry, dokáže chodiť samostatne s pomocou barle, ktorú
+používa pod ľavou pažou
+Vyhodnotenie: 06. 02. 2022
+Pri rannej kontrole pacienta sme vykonali a zaznamenali rozsah mobility s výsledkom 2.
+stupeň – veľmi obmedzená mobilita. Pacient je schopný chôdze iba s pomocou barly a
+sestry, ktorá ho musí pridržiavať, ťažko dostupuje na ľavú nohu. Používa nemeckú barlu
+pod ľavou pažou. Pri prvom monitoringu bolesti v postihnutých končatinách pacient udal
+intenzitu bolesti 1 – mierna bolesť. S pacientom sme prekonzultovali cviky na ľavé
+končatiny. Monitoring bolesti pred rehabilitáciou s výsledkom 1 – mierna bolesť. Pri
+rehabilitačnom cvičení dvíhal pacient ľavé končatiny v uhle 30° do vzduchu po dobu 15
+sekúnd v piatich opakovaniach. Po rehabilitačnom cvičení sme vykonali tretí monitoring
+bolesti s výsledkom 3 - mierna bolesť. Monitoring stupňa mobility s výsledkom 3. stupeň mierne obmedzená mobilita. Pacient nepotrebuje oporu sestry, dokáže chodiť samostatne s
+pomocou barle, ktorú používa pod ľavou pažou. Chodí pomaly, aby nepadol na zem. Cieľ
+sa splnil. Pacient si zlepšil pohyblivosť v postihnutých končatinách. Pokračovať v
+naplánovaných sesterských intervenciách.
+
+46
+
+Sesterská diagnóza č. 4
+00108 Deficit sebaopatery pri kúpaní a hygiene v súvislosti s ľavostrannou hemiparézou
+prejavujúci sa neschopnosťou vykonať činnosti osobnej hygieny, úpravy zovňajšku
+a celkový kúpeľ
+Priorita: Stredná
+Cieľ: Pacient znovu nadobudne schopnosť starať sa sám o svoju hygienu a bude nezávislý
+od pomoci druhých do 2 dní
+Výsledné kritéria
+-
+
+Pacient používa správnu techniku pri vykonávaní hygienickej starostlivosti do 2 dní
+
+-
+
+Pacient vo funkčnom teste ADL, podľa Barthelovej dosiahne nad 80 bodov
+
+-
+
+Pacient využíva pomôcky na vykonávanie hygienickej starostlivosti do 2 dní
+
+-
+
+Pacient je samostatný pri hygiene, nemá zanedbané postihnuté časti do 2 dní
+
+Intervencie sestry
+-
+
+Posúdiť a zaznamenať stupeň závislosti pri vykonávaní hygieny a činnosti denných
+aktivít podľa dostupnej škály Barthelovej stupnice
+
+-
+
+Zabezpečiť pomoc pri hygienickej starostlivosti v záujme prevencie úrazu
+
+-
+
+Zabezpečiť potrebné veci do blízkosti pacienta
+
+-
+
+Komunikovať s pacientom počas hygieny
+
+-
+
+Dopriať pacientovi dostatok času na vykonávanie sebaobslužných činností
+
+-
+
+Povzbudzovať pacienta pri nácvikoch denných hygienických aktivít
+
+-
+
+Pri hygiene sledovať stav pacientovej kože
+
+-
+
+Pri výkone hygieny pozorovať stav samostatnosti pacienta a všetko zaznamenať do
+zdravotnej dokumentácie
+
+Realizácia: 05. 02. 2022
+18:45 Posúdenie a zaznamenanie závislosti na pomoci pri denných aktivitách, podľa
+dostupného funkčného hodnotenia Barthelovej škály pacient nazbieral 75 bodov
+19:00 Pacientovi bol vysvetlený postup pri hygienickej starostlivosti, pacient porozumel
+19:10 Zabezpečenie asistencie pri hygiene pacienta, pacientovi poskytnutá pomoc, aby
+mohol vkročiť do vane
+19:20 Pozorovanie pacienta či vykonáva opateru správnym spôsobom
+47
+
+19:25 Pomoc pri umývaní chrbta, pacient si nevedel umýť chrbát v oblasti lopatiek
+19:29 Pomoc pri utieraní chrbta osuškou
+19:30 Pochválenie pacienta pri počínaní si so seba-opaterou, pyžamový komplet si
+obliekol sám pravou rukou, Pacientovi sme museli pomôcť zapnúť gombíky na
+košeli, vlasy si učesal pravou rukou
+19:55 Odprevadenie pacienta ku posteli, pacient kráča sám, pod ľavou pažou sa podopiera
+nemeckou barlou
+20:00 Zapisovanie výsledku ADL pacienta do zdravotnej dokumentácie. Výsledok 75
+bodov
+Vyhodnotenie: 05. 02. 2022
+Pred večernou hygienou sme posúdili a zaznamenali závislosť pacienta na pomoci podľa
+dostupného funkčného hodnotenia Barthelovej škály. Pacient nazbieral 75 bodov.
+Pacientovi bol vysvetlený postup pri večernej hygiene, ktorej pacient porozumel.
+Zabezpečili sme asistenciu, pretože pacient nevedel prekročiť okraj vane a nevedel do nej
+vstúpiť sám. Pri pozorovani pacienta, či vykonáva hygienu správnym spôsobom sme si
+všimli, že si nedokáže sám umyť chrbát v oblasti lopatiek. Pomohli sme mu. Po ukončení
+hygienickej starostlivosti sme pacientovi pomohli utrieť chrbát a pacienta sme pochálili.
+Pacient sa obliekol do pyžama sám, pomohli sme mu zapnúť gombíky na košeli. Učesal si
+vlasy pravou rukou. Do svojej izby kráčal sám za pomoci nemeckej barle pod ľavou pažou.
+Výsledné hodnotenie podĺa testu hodnotenia Barthelovej škály bolo 75 bodov.
+Realizácia: 06. 02. 2022
+18:45 Posúdenie a zaznamenanie závislosti na pomoci pri denných aktivitách, podľa
+dostupného funkčného hodnotenia Barthelovej škály pacient nazbieral 80 bodov
+19:00 Zabezpečenie asistencie pri hygiene pacienta. Pacient vkročil do vane sám bez
+pomoci
+19:10 Pozorovanie pacienta či vykonáva opateru správnym spôsobom. Pomoc pri
+umývaní zadných partii pacienta, pacient si nevedel umýť chrbát v oblasti lopatiek
+19:43 Pacient si utrel osuškou celé telo sám bez pomoci
+19:45 Pochválenie pacienta pri počínaní si pri hygiene, pyžamový komplet si obliekol
+sám oboma rukami, sým si zapol gombíky na košeli, vlasy si učesal pravou rukou
+19:50 Odprevadenie pacienta ku posteli, pacient kráča sám, pod ľavou pažou sa podopiera
+nemeckou barlou
+48
+
+20:10 Zapisovanie výsledku ADL pacienta do zdravotnej dokumentácie. Výsledok 80
+bodov
+Vyhodnotenie 06. 02. 2022
+Pred večernou hygienou sme posúdili a zaznamenali závislosť pacienta na pomoci podľa
+dostupného funkčného hodnotenia Barthelovej škály. Pacient nazbieral 80 bodov.
+Zabezpečili sme asistenciu, pacient vkročil do vane sám. Pri pozorovani pacienta,
+či vykonáva hygienu správnym spôsobom sme si všimli, že si nedokáže sám umyť chrbát
+v oblasti lopatiek s čím sme mu pomohli. Po ukončení hygienickej starostlivosti si pacient
+utrel chrbát sám. Pacienta sme pochálili. Pacient sa obliekol do pyžama a sám si zapol
+gombíky na košeli, učesal si vlasy pravou rukou. Do svojej izby kráčal sám za pomoci
+nemeckej barle pod ľavou pažou. Výsledné hodnotenie podĺa testu hodnotenia Barthelovej
+škály bolo 80 bodov. Cieľ sa splnil čiastočne. Pacient je stále odkázaný na pomoc
+zdravotného personálu pri hygiene zadných partií. V ostatných činnostiach je samostatný.
+Pokračovať v naplánovaných sesterských intervenciách.
+Sesterská diagnóza č. 5
+00004 Riziko infekcie v súvislosti so zavedenou intravenóznou kanylou
+Priorita: Stredná
+Cieľ: Pacient nemá príznaky infekcie počas celéj hospitalizácie.
+Výsledné kritéria
+-
+
+Pacient nemá prejavy infekcie v mieste zavedenia i. v. katétra počas hospitalizácie
+
+-
+
+Pacient má vitálne funkcie vo fyziologických hodnotách
+
+-
+
+Pacient pozná všetky prejavy infekcie v okolí zavedenia i. v. katétra do 10 minút
+
+-
+
+Pacient má zabezpečenú priechodnosť i. v. katétra počas hospitalizácie
+
+-
+
+Pacient je poučený o zásadách manipulácie a ochrany i. v. katétra do 5 minút
+od zavedenia
+
+Intervencie sestry
+-
+
+Poučiť pacienta o potrebe zavedenia i. v. katétra a vysvetliť mu postup
+
+-
+
+Príprava všetkých pomôcok pred zavedením i. v. katétra
+
+49
+
+-
+
+Poučiť pacienta o prejavoch zápalu a infekcie v podobe začervenania, pálenia
+a bolesti v mieste vpichu
+
+-
+
+Informovať pacienta o zásadách manipulácie a ochrany i. v. katétra
+
+-
+
+Preveriť a sledovať priechodnosť i. v. katétra pred každým podaním liečby
+
+-
+
+Kontrolovať i. v. katéter a v prípade potreby ju meniť každých 48 hodín
+
+-
+
+Merať telesnú teplotu dvakrát denne ako nástroj predchádzania príznakov
+komplikácii s i. v. katétrom
+
+-
+
+Manipuláciu, ošetrovanie a zmeny spojené s i. v. katétrom zaznamenávať
+do zdravotnej dokumentácie
+
+Realizácia: 05. 02. 2022
+11:00 Poučenie pacienta pred výkonom zavedenia i. v. katétra, pacient porozumel
+11:05 Príprava pomôcok na zavedenie i. v. katétra na stolík v blízkosti pacienta
+11:09 Ošetrenie miesta vpichu alkoholovou dezinfekciou
+11:10 Zavedenie i. v. katétra G18 zelenej farby do predlaktia pravej hornej končatiny
+za aseptických podmienok. Zavedenie zaznamenané do zdravotnej dokumentácie
+11:15 Poučenie pacienta o zásadách ochrany a manipulácie i. v. katétra. Pacient
+porozumel
+11:20 Pacientovi bola zmeraná telesná teplota 36,4°C. Pacient afebrilný
+12:00 Podávanie infúznej terapie podľa ordinácie lekára 250ml, FR + 1amp 1ml Torecan
++ 1amp 2ml Novalgin. I. v. katéter priechodny, bez poškodenia, bez známok zápalu
+v okolí vpichu
+16:30 Pacientovi bola zmeraná telesná teplota 36,7°C. Pacient afebrilný
+17:00 Kontrola i. v. katétra. Priechodný, bez poškodenia, bez známok zápalu v okolí
+vpichu. Stav zaznamenaný do zdravotnej dokumentácie
+Vyhodnotenie: 05. 02. 2022
+Pacient bol pred zavedením i. v. katétra poučený, čomu porozumel. Následne sme si
+v blízkosti pacienta pripravili pomôcky na zavedenie. Miesto vpichu sme vydezinfikovali
+a následne zaviedly venózny katéter G18 zelenej farby do predlaktia pravej hornej
+končatiny za aseptických podmienok. Do žilového vstupu bola podaná liečba dľa ordinácie
+lekára. Počas zavedeného i. v. katétra nezaznamenal pacient žiadne prejavy zápalu
+v mieste vpichu ani komplikácie s i. v. katétrom. Ten bol priechodný počas celej 12
+hodinovej služby. Do 5 minút od zavedenia bol pacient informovaný o zásadách ochrany
+50
+
+a manipulácie s i. v. katétrom. V 12 hodinovej službe bola pacientovi dvakrát meraná
+telesná teplota s digitálnym teplomerom na čele s výsledkom afebrilný.
+Realizácia: 06. 02. 2022
+07:00 Kontrola i. v. katétra. Priechodný, bez známok poškodenia a zápalu v mieste vpichu
+07:05 Pacientovi bola zmeraná telesná teplota 36,8°C. Pacient afebrilný
+07:30 Podávanie infúznej terapie podľa ordinácie lekára 500ml, FR + 1amp 10ml 10%
+MgSO4 + 1amp 2ml Cavinton
+12:00 Kontrola i. v. katétra. Priechodny, bez poškodenia, bez známok zápalu v okolí
+vpichu
+12:30 Podávanie infúznej terapie podľa ordinácie lekára 250ml, FR + 1amp 1ml Torecan
++ 1amp 2ml Novalgin. I. v. katéter priechodny, bez poškodenia, bez známok zápalu
+v okolí vpichu
+17:25 Pacientovi bola zmeraná telesná teplota 36,3°C. Pacient afebrilný
+17:30 Kontrola i. v. katétra. Priechodný, bez poškodenia, bez známok zápalu v okolí
+vpichu. Stav zaznamenaný do zdravotnej dokumentácie
+Vyhodnotenie: 06. 02. 2022
+Pri rannej kontrole pacienta bol skontrolovaný zaveený venózny katéter. Ten bol bez
+známok poškodenia a zápalu v mieste vpichu. Následné bola podaná liečba dľa ordinácie
+lekára. V obedných hodinách prebehla následne druhá kontrola. Venózny katéter bol
+bez poškodenia a zápalu v mieste vpichu. Pacientovi bola počas 12 hodinovej služby
+zmeraná dvakrát telesná teplota s digitálnym teplomerom na čele s výsledkom afebrilný.
+Cieľ sa splnil. Pacient bol poučený o komplikáciach a zásade ochrany zavedeného i. v.
+katétra. Počas hospitalizácie pacient bez príznakov infekcie. Pokračovať v naplánovaných
+sesterkých intervencíach.
+
+51
+
+Odporúčania pre prax
+Vzhľadom na vyššie vypracovaný ošetrovateľský proces a vzhľadom na uvedené
+teoretické
+
+spracovanie problematiky náhlej cievnej mozgovej príhody sme dospeli
+
+k nasledovným odporúčaniam pre prax:
+-
+
+pravidelné školenie verejnosti týkajúce sa prevencie cievnej mozgovej príhody
+zabezpečené zdravotnými kurzami a textovo - obrazovým materiálom na
+pracoviskách;
+
+-
+
+zvýšiť informovanosť pacientov v ambulantnom sektore o ochorení náhla cievna
+mozgová príhoda, o jej príznakoch, dopadoch a z tých súvisiacej nutnosti podať
+včasnú odbornú zdravotnú pomoc prostredníctvom textovo - obrazového materiálu
+v ambulanciách;
+
+-
+
+zvýšiť povedomie o nutnosti absolvovať preventívne prehliadky nielen u svojho
+obvodného lekára, ale aj u špecialistov, cez zvukové a video reklamné kampane
+a textovo - obrazový materál;
+
+-
+
+poskytnúť rizikovým skupinám obyvateľstva textovo – obrazový edukačný materiál
+na miestach s ľahkým dosahom (ambulancie, nemocnice, lekárne, domové schránky,
+domovy sociálnych služieb);
+
+-
+
+viesť ľudí, aby sa zaujímali o diagnózu náhla cievna mozgová príhoda cez reklamné
+kampane a diskusné fóra a aby o nej diskutovali so svojimi priateľmi a rodinnými
+príslušníkmi, a tým predchádzali doživotným následkom;
+
+-
+
+zamerať sa na individuálny prístup k pacientom s diagnózou náhla cievna mozgová
+príhoda, poskytovať im dostatočný čas, trpezlivý a empatický prístup počas
+hospitalizácie, tento prístup vyzdvihovať už pri školskom vzdelávaní a zabezpečiť
+interným vzdelávanim čím sa po nadobudnutí vzdelania v pracovnom pomere
+upevní;
+
+-
+
+edukácia pacientov a ich najbližších po prekonaní cievnej mozgovej príhody
+ošetrujúcim personálom pred prepustením do domáceho liečenia;
+
+-
+
+realizácia pravidelných školení stredného zdravotníckeho presnálu na tému náhla
+cievna mozgová príhoda interným vzdelávaním.
+
+52
+
+Záver
+
+Frekvencia pacientov s náhlou cievnou mozgovou príhodou je vo svete veľmi vysoké
+a vzhľadom na aktuálne trendy a životné štýly, nie je isté či môžeme očakávať zníženie
+frekvencie tohto ochorenia. Náhlej cievnej mozgovej príhode je možné predísť, nakoľko
+existujú faktory jej vniku, ktoré vieme ovplyvniť (napríklad fajčenie, nadmerné pitie
+alkoholu, nedostatočná fyzická aktivita). Keďže pri cievnej mozgovej príhode ide o
+emergentný stav, dôležitá je urgentná hospitalizácia postihnutého v lôžkovom zariadení a
+zahájenie vhodnej terapie. A práve tu je možné vidieť dôležitú úlohu zdravotnej sestry,
+resp. celého zdravotníckeho personálu, nakoľko dokáže prispieť k celkovému výsledku
+liečby pacienta s cievnou mozgovou príhodou.
+
+53
+
+ZOZNAM POUŽITÝCH ZDROJOV
+-
+
+ADC. 2018. Aktívna prevencia cievnej mozgovej príhody. 2018. [online] Dostupné
+na:
+
+https://www.adc.sk/clanky/aktivna-prevencia-cievnej-mozgovej-prihody-
+
+6530.html
+-
+
+Bar, M., Chmelová, I. Péče o pacienta po cévní mozkové příhodě. Postgraduální
+medicína [online]. 2011, roč. 13, č. 2, s. 128–135. ISSN 1212-4184. Dostupné na:
+https://www.osu.cz/dokumenty/monitoringmedii/1008.pdf
+
+-
+
+Centrum pre kontrolu a prevenciu chorôb. 2021. Cievna mozgová príhoda. [online]
+Dostupné na: https://www.cdc.gov/stroke/types_of_stroke.htm
+
+-
+
+Dobiáš, V. a kol. 2012. Prednemocničná urgentná medicína, 2. prepracované
+a doplnené vydanie. Martin. Osveta 2012. 739s. ISBN 978-80-8063-387-5.
+
+-
+
+Dôležité veci, ktoré by ste mali vedieť pred CT vyšetrením. 2020. [online]
+Dostupné na: https://lekar.sk/clanok/ct-vysetrenie
+
+-
+
+Dr. Jeffrey Thomas Stroke Shield Foundation. 2019. Stroke Types: Ischemic versus
+Hemorrhagic. 2019. [online] Dostupné na: https://strokeshieldfoundation.org/ourresearch-focus/ischemic-versus-hemorrhagic-stroke-types/
+
+-
+
+FARKAŠOVÁ, Dana. Ošetřovatelství - teorie. 1. české vyd. Martin: Osveta, 2006,
+211 s. ISBN 80-806-3227-8.
+
+-
+
+Fogoros, R. N. Prechodný ischemický atak alebo mini-zdvih. [online] Dostupné na:
+https://sk.approby.com/prechodny-ischemicky-zachvat-alebo-mini-zdvih/
+
+-
+
+Gdovinová, Z. 2015. Liečba cievnej mozgovej príhody: Obnova postihnutých
+funkcií mozgu. [online]. 2015. Dostupné na: https://slovenskypacient.sk/liecbacievnej-mozgovej-prihody/
+
+-
+
+General Electric Company. 2019. MRI of the Brain to Diagnose and Monitor
+Stroke. 2019. [online] Dostupné na: https://www.gehealthcare.com/article/mri-ofthe-brain-to-diagnose-and-monitor-stroke
+
+-
+
+HERZIG, Roman. Ischemické cévní mozkové příhody: průvodce ošetřujícího
+lékaře. Praha, 2008. ISBN 978-80-7345-148-6
+
+-
+
+Horáček, O. 2006. Rehabilitace u cévní mozkové příhody. SANQUIS. 2006, č. 47,
+s. 12. ISSN 1212-6535.
+
+54
+
+-
+
+Chen S, Zeng L, Hu Z. 2014. Progressing haemorrhagic stroke: categories, causes,
+mechanisms and managements. J Neurol. 2014 Nov;261(11):2061-78. [online]
+Dostupné na: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4221651/
+
+-
+
+JECH, R. Klinické aspekty spasticity. Neurologie pro praxi [online]. 2015, roč. 16,
+č.
+
+1,
+
+s.
+
+14–19.
+
+ISSN
+
+1803-5280.
+
+Dostupné
+
+na:
+
+https://www.neurologiepropraxi.cz/pdfs/neu/2015/01/04.pdf
+-
+
+JELÍNKOVÁ, Jana a kol. Ergoterapie. Vyd. 1. Praha: Portál, 2009, 270 s. ISBN
+978- 807-3675-837.
+
+-
+
+Kačinetzová, A., Juhaňáková, M., Kolářová, M. Rehabilitace: sborník příspěvků.
+Praha: Triton, 2010. 219 s. ISBN 978-80-7387-299-1.
+
+-
+
+Kalina, M. a kol. Cévní mozková příhoda v medicínské praxi. Praha: Triton, 2008.
+228 s. ISBN 978-80-7387-107-9.
+
+-
+
+Kim, J.B., Kang, G.H., Kim Hye-Jin, Ahn Sung-Ho, Kim Y.N., Warch, S., Kang
+Dong-Wha. 2014. Magnetic Resonance Imaging in Acute Ischemic Stroke
+Treatment. J Stroke 2014; 16(3): 131 – 145. [online] Dostupné na:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4200598/
+
+-
+
+Kolánková, D. 2020. Vybrané hodnotiace a meracie techniky v ošetrovateľstve.
+Vysokoškolské
+
+skriptá.
+
+2020.
+
+[online].
+
+Dostupné
+
+na:
+
+https://webcache.googleusercontent.com/search?q=cache:NRQIlWPNzUJ:https://portal.jfmed.uniba.sk/download.php%3Ffid%3D1021+&cd=15&
+hl=sk&ct=clnk&gl=sk&client=firefox-b-d
+-
+
+Kolář, P. Rehabilitace v klinické praxi. Praha: Galén, 2009. 713 s. ISBN 978-807262-657-1.
+
+-
+
+Kondáš, M. 2011. Sekundárna prevencia cievnych mozgových príhod. Bratislava:
+Univerzita Komenského, 2011. 90s. ISBN 978-80-8106-042-7.
+
+-
+
+Krvné doštičky: bunky, ktoré zrážajú krv, 2019. [online] Dostupné na:
+https://www.greelane.com/sk/science-tech-math/veda/role-of-platelets-373385/
+
+-
+
+Leško, N. 2011. Akútna liečba ischemickej cievnej mozgovej príhody. Bratislava:
+Lundbeck 2011. 180s. ISBN 978-80-89434-10-7.
+
+-
+
+McQueen. 2021. Stroke Diagnosis and Treratment: What to Know. In WebMD.
+2021. [online] Dostupné na: https://www.webmd.com/stroke/guide/understandingstroke-treatment
+
+-
+
+Miertová, M., Kurča, E., Tomagová, M. a kol. 2014. Ošetrovateľstvo v neurológii.
+[online]. Univerzita Komenského Bratislava, Jesseniova lekárska fakulta v Martine,
+55
+
+2014. Dostupné na:
+
+http://osevneu.jfmed.uniba.sk/. ISBN 978-80-89544-71-4.
+
+(http://osevneu.jfmed.uniba.sk/CMP1.php?fbclid=IwAR1AEAL1wFqg_TtDKQdtPsDuCwrHcYPl6MXdiVupfIthC6s2
+wKfRh5RS-gs)
+-
+
+Mikula, J., Müllerová, N. Prevence dekubitů. Praha: Grada Publishing, 2008. ISBN
+978-80-247-2043-2.
+
+-
+
+Modravý, J. 2006. DIAGNOSTIKA A LIEČBA CIEVNEJ MOZGOVEJ
+PRÍHODY. [online]. Via pract., 2006, roč. 3 (5): 229-232. Dostupné na:
+https://zona.fmed.uniba.sk/fileadmin/lf/sucasti/Teoreticke_ustavy/Ustav_patologick
+ej_fyziologie/Korona_vyuka/Modravy_DI_AGNOSTIKA_A_LIECB_A_CIEVNE
+J_MOZGOVEJ_PRIHODY.pdf?fbclid=IwAR2BI4iMsLYn6HCkbMGIT4REPNm
+MVs9p5Jaa-5hf9-6rdAsug1CPEFBF4fE
+
+-
+
+Multimediálna e-učebnica. 2013-2014. Ošetrovateľské postupy v špeciálnej
+chirurgii. 2013 – 2014. [online]. Dostupné na: http://oschir.jfmed.uniba.sk/24OSDiagnostika-1.php
+
+-
+
+NANDA. 2018. [online]. Dostupné na: http://www.sestra.sk/NANDA
+
+-
+
+Národný inštitút neurologických chorôb a cievnej mozgovej príhody, Národný
+inštitút zdravia. 2009. [online] Dostupné na: https://strokeshieldfoundation.org/ourresearch-focus/ischemic-versus-hemorrhagic-stroke-types/
+
+-
+
+National Institute of Neurological Disorders and Stroke. 2020. Brain Basics:
+Preventing
+
+Stroke.
+
+2020.
+
+[online]
+
+Dostupné
+
+na:
+
+https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/PreventingStroke
+-
+
+Neurorehabilitácia
+
+a cievna
+
+mozgová
+
+príhoda.
+
+[online]
+
+Dostupné
+
+na
+
+https://sk.adelicenter.eu/moja-diagnoza/mozgovocievna-prihoda/#toggle-id-4
+-
+
+NHS.
+
+2019.
+
+Diagnosis.
+
+Stroke.
+
+2019.
+
+[online]
+
+Dostupné
+
+na:
+
+https://www.nhs.uk/conditions/stroke/diagnosis/
+-
+
+NÚSCH, a.s., 2021. Informácie o koronarografii. 2021. [online] Dostupné na:
+https://www.nusch.sk/sk/informacie-o-koronarografii
+
+-
+
+Publikácia zdravia v Harvarde. 2020. 7 things you can do to prevent a stroke.
+Harvard
+
+medical
+
+School.
+
+2020
+
+[online]
+
+Dostupné
+
+na:
+
+https://www.health.harvard.edu/womens-health/8-things-you-can-do-to-prevent-astroke
+
+56
+
+-
+
+RadiologyInfo.org For patients. 2021. Stroke. 2021. [online] Dostupné na:
+https://www.radiologyinfo.org/en/info/stroke
+
+-
+
+Reif, M. 2011. Hodnotící škály používané u pacientů s cévní mozkovou příhodou.
+Neurol.
+
+praxi
+
+2011;
+
+12(Suppl.
+
+G):
+
+12–15.
+
+[online].
+
+Dostupné
+
+na:
+
+https://webcache.googleusercontent.com/search?q=cache:_v41Aa9aVrwJ:https://w
+ww.neurologiepropraxi.cz/pdfs/neu/2011/92/05.pdf+&cd=1&hl=sk&ct=clnk&gl=s
+k&client=firefox-b-d
+-
+
+SLEZÁKOVÁ, Lenka. Ošetřovatelství pro zdravotnické asistenty. 1. vyd. Praha:
+Grada, 2007, 188 s. ISBN 978-802-4717-753.
+
+-
+
+Souvik, S. 2018. Magnetic Resonance Imaging in Acute Stroke. [online] Dostupné
+na: https://emedicine.medscape.com/article/1155506-overview
+
+-
+
+SPENCE, D. Mozková mrtvice: prevence, výživová doporučení, recepty. 1. vyd.
+Praha: Triton, 2008. 255 s. ISBN 978-80-7387-058-4
+
+-
+
+Stroke association. 2017. Smoking and the risk of stroke. 2017. [online] Dostupné
+na:
+https://www.stroke.org.uk/sites/default/files/smoking_and_the_risk_of_stroke.pdf
+
+-
+
+Vascular and Endovascular Surgery. 2021. Carotid Ultrasound. 2021. [online]
+Dostupné
+
+na:
+
+https://vascularsurgery.ucsf.edu/conditions--procedures/carotid-
+
+ultrasound.aspx
+-
+
+Vojtilová,
+
+L.
+
+Střevní
+
+infekce.
+
+[online].
+
+Dostupné
+
+na:
+
+https://is.muni.cz/el/med/jaro2020/VLIN9X22p/um/strevni_infekce.pdf
+-
+
+WikiSkripta, projekt
+Ošetřovatelské
+
+1. lekářske fakulty a
+
+diagnózy.
+
+2020.
+
+Univerzity Karlovy.
+
+[online].
+
+Dostupné
+
+2020.
+na:
+
+https://www.wikiskripta.eu/w/O%C5%A1et%C5%99ovatelsk%C3%A9_diagn%C3
+%B3zy
+
+57
+
+ZOZNAM PRÍLOH
+Príloha č.1
+
+Mozgová príhoda
+
+Príloha č.2
+
+1 a) hemoragická mozgová príhoda a 1 b) ischemická mozgová príhoda
+
+Príloha č.3
+
+Prechodný ischemický záchvat
+
+Príloha č.4
+
+Stentovanie
+
+Príloha č.5
+
+Krvné doštičky: bunky, ktoré zrážajú krv
+
+Príloha č.6
+
+CT prístroj
+
+Príloha č.7
+
+CT vyšetrenie mozgu
+
+Príloha č.8
+
+Vzory lézie DWI podľa podtypov ischemickej cievnej mozgovej príhody
+
+Príloha č.9
+
+Dopplerovský ultrazvuk
+
+Príloha č.10
+
+Poloha pacienta na chrbte
+
+Príloha č.11
+
+Poloha pacienta na postihnutom boku
+
+Príloha č.12
+
+Nortonovej škála na hodnotenie rizika vzniku dekubitov
+
+Príloha č.13
+
+Bristolská škála stolice
+
+Príloha č.14
+
+Glasgowská škála porúch vedomia
+
+Príloha č.15
+
+Hodnotenie bolesti
+
+Príloha č.16
+
+Barthelovej index základných aktivít denného života
+
+58
+
+Príloha č.1
+Mozgová príhoda
+
+Zdroj: https://sk.adelicenter.eu/moja-diagnoza/mozgovocievna-prihoda/#toggle-id-4
+Príloha č.2
+1 a) hemoragická mozgová príhoda a 1 b) ischemická mozgová príhoda
+
+1a
+Zdroj: https://www.cdc.gov/stroke/types_of_stroke.htm
+
+1b
+
+59
+
+Príloha č.3
+Prechodný ischemický záchvat
+
+Zdroj: https://sk.approby.com/prechodny-ischemicky-zachvat-alebo-mini-zdvih/
+Príloha č.4
+Stentovanie
+
+Zdroj: https://www.nusch.sk/sk/informacie-o-koronarografii
+
+60
+
+Príloha č.5
+Krvné doštičky: bunky, ktoré zrážajú krv
+
+Zdroj: https://www.greelane.com/sk/science-tech-math/veda/role-of-platelets-373385/
+Príloha č.6
+CT prístroj
+
+Zdroj: https://lekar.sk/clanok/ct-vysetrenie
+
+61
+
+Príloha č.7
+CT vyšetrenie mozgu
+
+Zdroj: https://lekar.sk/clanok/ct-vysetrenie
+
+62
+
+Príloha č.8
+Vzory
+
+lézie
+
+DWI
+
+podľa
+
+podtypov
+
+ischemickej
+
+cievnej
+
+mozgovej
+
+príhody
+
+Zdroj: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4200598/
+
+63
+
+Príloha č.9
+Dopplerovský ultrazvuk
+
+Zdroj: https://vascularsurgery.ucsf.edu/conditions--procedures/carotid-ultrasound.aspx
+Príloha č.10
+Poloha pacienta na chrbte
+
+Zdroj: Mikula, Müllerová, 2008
+
+64
+
+Príloha č.11
+Poloha pacienta na postihnutom boku
+
+Zdroj: Mikula, Müllerová, 2008
+
+65
+
+Príloha č.12
+Nortonovej škála na hodnotenie rizika vzniku dekubitov
+
+Zdroj:
+
+https://webcache.googleusercontent.com/search?q=cache:NRQI-
+
+lWPNzUJ:https://portal.jfmed.uniba.sk/download.php%3Ffid%3D1021+&cd=15&hl=sk&
+ct=clnk&gl=sk&client=firefox-b-d
+66
+
+Príloha č.13
+Bristolská škála stolice
+
+Zdroj: https://is.muni.cz/el/med/jaro2020/VLIN9X22p/um/strevni_infekce.pdf
+
+67
+
+Príloha č.14
+Glasgowská škála porúch vedomia
+
+Zdroj: http://osevneu.jfmed.uniba.sk/kvanPor-4.php
+
+Príloha č.15
+Hodnotenie bolesti
+Numerická škála
+
+Vizuálna analógová škála
+
+68
+
+Zdroj:
+https://webcache.googleusercontent.com/search?q=cache:jnI6EjMm7HUJ:https://www.uni
+po.sk/public/media/26701/Numerick%25C3%25A1%2520a%2520vizu%25C3%25A1lna
+%2520%25C5%25A1k%25C3%25A1la%2520bolesti.doc+&cd=1&hl=sk&ct=clnk&gl=sk
+&client=firefox-b-d
+
+Príloha č.16
+Barthelovej index základných aktivít denného života
+
+69
+
+Zdroj:
+
+http://fzsp.truni.sk/sites/default/files/dokumenty/e-kniznica/e-
+
+ucebnice/O%C5%A1etrovate%C4%BEstvo-2_frameset%20%20EPSTRUNI%20%28HTML%29/data/e0b22911-c7d1-4818-be3044242ac27437.html?ownapi=1
+
+70
+
+

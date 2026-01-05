@@ -1,0 +1,2209 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+PEDAGOGICKÁ FAKULTA
+
+PORUCHY POZORNOSTI U UČITELIEK A UČITEĽOV
+PRE PRIMÁRNE VZDELÁVANIE
+Diplomová práca
+
+2023
+Bc. Nikola Špaková
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+PEDAGOGICKÁ FAKULTA
+
+PORUCHY POZORNOSTI U UČITELIEK A UČITEĽOV
+PRE PRIMÁRNE VZDELÁVANIE
+
+Diplomová práca
+
+Študijný program: učiteľstvo pre primárne vzdelávanie
+Študijný odbor: učiteľstvo a pedagogické vedy
+Školiace pracovisko: Katedra predprimárnej a primárnej pedagogiky
+Vedúci práce: Mgr. Miroslava Lemešová, PhD.
+
+Bratislava, 2023
+Bc. Nikola Špaková
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že som diplomovú prácu vypracovala samostatne na základe vlastných
+teoretických a praktických poznatkov, štúdia, s použitím publikačných a iných zdrojov
+uvedených v zozname bibliografických odkazov.
+
+V Bratislave, dňa ..............
+
+...................................
+podpis študenta
+
+POĎAKOVANIE
+Moje úprimné poďakovanie patrí vedúcej diplomovej práce a to Mgr. Miroslave Lemešovej,
+PhD., za jej odborný dohľad, dobré rady a cenné pripomienky, ktoré mi poskytla pri písaní
+diplomovej práce.
+
+ABSTRAKT
+ŠPAKOVÁ, Nikola: Poruchy pozornosti u učiteliek a učiteľov pre primárne vzdelávanie.
+Diplomová práca. Univerzita Komenského. Pedagogická fakulta. Katedra predprimárnej
+a primárnej pedogogiky. Vedúci práce: Mgr. Miroslava Lemešová, PhD. Stupeň odbornej
+kvalifikácie: magister. Bratislava: UK, 2023. 69 s.
+
+Diplomová práca sa zaoberá učiteľmi s poruchou pozornosti v primárnom vzdelávaní.
+Poruchou pozornosti a hyperaktivitou (ADHD) je označovaných čím ďalej, tým viac
+dospelých osôb. Teoretická časť sa zaoberá charakteristikou poruchy pozornosti, etiológiou,
+liečbou, ako aj postojom spoločnosti k jedincom s poruchami pozornosti. Druhá kapitola sa
+špecifikuje na dospelých s poruchou pozornosti, pričom sa zameriavame na učiteľov
+s poruchou pozornosti. Cieľom diplomovej práce je odhaliť vnímanie porúch pozornosti
+u osôb, ktoré zastávajú učiteľskú pozíciu a zároveň im tento typ poruchy bol v minulosti
+diagnostikovaný. Diplomová práca sa zaujíma o vplyv vlastných skúseností na vykonávanie
+učiteľského povolania.
+
+Kľúčové slová:
+Porucha pozornosti. ADHD. Učiteľ. Primárne vzdelávanie. Škola.
+
+ABSTRACT
+ŠPAKOVÁ, Nikola: Teachers of primary education with attention – deficit disorders.
+Diploma thesis. Comenius University. Faculty of Education. Department of pre-primary and
+primary pedagogy. Supervisor: Mgr. Miroslava Lemešová, PhD. Degree of professional
+qualification: Master's. Bratislava: UK, 2023. 69 p.
+
+The diploma thesis deals with teachers with attention deficit disorder in primary education.
+More and more adults are diagnosed with attention deficit hyperactivity disorder (ADHD).
+The theoretical part deals with the characteristics of attention disorders, etiology, treatment,
+as well as society's attitude towards individuals with attention disorders. The second chapter
+is specific to adults with attention deficit disorder, focusing on teachers with attention deficit
+disorder. The aim of the thesis is to reveal the perception of attention disorders in persons
+who hold a teaching position and at the same time have been diagnosed with this type of
+disorder in the past. The diploma thesis is interested in the influence of one's own
+experiences on the performance of the teaching profession.
+
+Keywords:
+Attention deficit disorder. ADHD. The teacher. Primary education. School.
+
+OBSAH
+ÚVOD .................................................................................................................................... 9
+1 PORUCHY POZORNOSTI ............................................................................................. 11
+1.1 Charakteristika a vývin pozornosti............................................................................. 11
+1.2 Charakteristika porúch pozornosti ............................................................................. 13
+1.3 Etiológia ..................................................................................................................... 16
+1.4 Liečba ......................................................................................................................... 17
+1.5 Postoj spoločnosti k jedincom s poruchami pozornosti ............................................. 19
+2 PORUCHY POZORNOSTI U DOSPELÝCH OSOB ..................................................... 22
+2.1 Prejavy poruchy pozornosti u dospelého človeka ...................................................... 22
+2.2 Vzdelávanie u dospelého s poruchou pozornosti ....................................................... 25
+2.3 Liečebné programy u dospelého s poruchou pozornosti ............................................ 29
+3 ORGANIZÁCIA VÝSKUMU ......................................................................................... 32
+3.1 Výskumný problém .................................................................................................... 32
+3.2 Cieľ výskumu a výskumné otázky ............................................................................. 32
+3.3 Metódy výskumu ........................................................................................................ 32
+3.4 Výskumná vzorka....................................................................................................... 34
+3.5 Realizácia výskumu ................................................................................................... 34
+3.6 Spôsoby spracovania, analýzy a vyhodnocovania údajov ......................................... 35
+3.7 Etické otázky výskumu .............................................................................................. 35
+4 VÝSLEDKY PRÁCE ....................................................................................................... 36
+4.1 Interpretácia dát .......................................................................................................... 36
+4.2 Diskusia ...................................................................................................................... 53
+ZÁVER ................................................................................................................................ 59
+ZOZNAM POUŽITEJ LITERATÚRY ............................................................................... 62
+PRÍLOHA 1 ......................................................................................................................... 69
+
+ÚVOD
+Porucha pozornosti s hyperaktivitou (ďalej „ADHD“, z anglického Attention Deficit
+Hyperactivity Disorder) je jedna z najdynamickejšie sa rozvíjajúcich diagnóz za posledných
+dvadsať rokov. Touto diagnózou býva označovaných stále viac detí a v poslednom čase aj
+dospelých. Je takmer vylúčené, že by sa pedagóg s takým žiakom vo svojej praxi nestretol.
+Napriek tomu sme svedkami nedostatku prípravy pedagógov na to, ako s týmito deťmi
+adekvátne pracovať. Školský systém aj odborná verejnosť hľadá cesty ako týmto deťom
+pomôcť. Hľadá sa individuálny prístup, stanovujú sa podporné opatrenia, vyvíjajú sa
+diagnostické kritériá smerom k ich väčšej dostupnosti a pod. Avšak nie vždy sa diagnostika
+darí, podporné opatrenia nebývajú vždy primerané, v niektorých prípadoch zbytočne
+stigmatizujú a ani v rodinách vždy nenachádzame adekvátne porozumenie.
+Syndróm ADHD je jednou z najčastejšie diagnostikovaných porúch v detskom veku.
+Obzvlášť v škole majú deti problémy so zvládaním svojich prejavov, čo ovplyvňuje ich
+okolie a postoje k nim. S ADHD je spojený stereotyp nevychovaného a neposlušného
+dieťaťa a nedostatočná informovanosť a neznalosť syndrómu vyvoláva častú stigmatizáciu
+predovšetkým zo strany učiteľov a rovesníkov.
+Všeobecne sa predpokladá, že sa ľudia s ADHD nedostanú vo vzdelávaní tak ďaleko,
+ako by zodpovedalo ich potenciálu. Kľúčovým sa javí dostatočne individuálny prístup a
+adekvátne nastavenie podporných prostriedkov. Táto práca sa zameriava na dospelé osoby
+s poruchou pozornosti, ktorým sa ich potenciál napĺňať darí, aj keď to nebolo vždy
+jednoduché a ľahké. Poskytuje popis faktorov, ktoré im to v tom pomáhali. Môže sa tak stať
+inšpiráciou a hlbším vhľadom nielen pre učiteľov, rodičov a samotných nositeľov poruchy
+pozornosti.
+V teoretickej časti sa zameriavame na charakteristiku poruchy pozornosti, na
+etiológiu, liečbu, ako aj postoj spoločnosti k jedincom s poruchami pozornosti. Druhá
+kapitola sa špecifikuje na dospelých s poruchou pozornosti.
+Cieľom záverečnej práce je odhaliť vnímanie porúch pozornosti u osôb, ktoré
+zastávajú učiteľskú pozíciu a zároveň im tento typ poruchy bol v minulosti diagnostikovaný.
+Práca sa zaujíma o vplyv vlastných skúseností na vykonávanie učiteľského povolania.
+
+Zámerom výskumu bude aj analyzovať poruchy pozornosti u učiteliek a učiteľov pre
+primárne vzdelávanie, ako aj zmapovať skúsenosti dospelých učiteľov s poruchou
+pozornosti v kontexte rôznych životných udalostí ako je školská dochádzka, štúdium,
+zamestnanie, partnerské a sociálne vzťahy. Ďalším cieľom bude zmapovať, ako tieto
+skúsenosti ovplyvnili sebapoňatie dospelých s poruchou pozornosti a aký mali vplyv na
+vyučovací proces učiteľov.
+
+10
+
+1 PORUCHY POZORNOSTI
+Všetka psychická aktivita nášho mozgu je regulovaná našou pozornosťou. Pozornosť
+zahŕňa nielen zameranie na danú činnosť, ale aj jeho udržanie po požadovanú dobu. Ďalej
+má vplyv na učenie a je jeho dôležitou podmienkou. Môžeme si ju predstaviť ako filter,
+ktorý ovplyvňuje selekciu v inak chaotickom okolitom prostredí, ktoré by nás inak presýtilo
+informáciami. Pozornosť teda môže zlepšiť vnímanie na podnet, na druhú stranu môže rušivé
+podnety utlmiť (Vágnerová, 2020).
+Pozornosť je zameranosť vedomia na určitý podnet, objekt, dej či cieľ. Môže byť
+mimovoľná (neúmyselná) alebo zámerná (majúca cieľavedomý, výberový charakter.
+Zameranosť vedomia je spôsobovaná vnútornými aj vonkajšími faktormi. Systém pozornosti
+je neobyčajne zložitý. Zahŕňa skoro všetky štruktúry mozgu. Riadi vedomie, skúsenosti,
+ktoré nadobúdame v bdelom stave, naše reagovanie, konanie, správanie. Práve jeho
+prostredníctvom komunikujeme s naším okolím (Hallowell, Ratey, 2007).
+
+1.1 Charakteristika a vývin pozornosti
+Fyziológia pozornosti spočíva v optimálnej excitabilite mozgovej kôry a súčasnom
+útlme iných častí. Tieto dva procesy fungujú prostredníctvom dvoch pravidiel a sú
+nevyhnutné pre proces pozornosti i učenia. Prvým je zákon o vzájomnej indukcii, kedy pri
+vzniku „ohniska vzruchu“ musí byť súčasne vyvolaný aj útlm okolitých oblastí. Druhým
+zákonom je zákon iradiácie a koncentrácie. Ten pojednáva o vzniku vzruchu a jeho tendencii
+sa šíriť do okolitých štruktúr koncentricky, čiže iradiacky (Plháková, 2005).
+Funkcia pozornosti vždy súvisí s aktiváciou troch funkčných systémov v mozgu.
+Tieto neurálne systémy sú vzájomne prepojené a podieľajú sa ako na aktivácii, orientácii,
+tak aj na reguláciu pozornosti. Medzi dva základné typy pozornosti patrí pozornosť
+mimovoľná (pasívna) a voľná (aktívna). Mimovoľná pozornosť súvisí s reflexným
+zameraním a dochádza k nej bez úmyselného zamerania na daný stimul. Vyvolávajú ju určité
+aspekty podnetu, ktorými sú sila podnetu (čím silnejší, tým väčší vzruch), kontrast,
+prerušovanie podnetu (oscilácia), zmena alebo potreba podnetu. Voľná pozornosť sa vyvíja
+z mimovoľnej pozornosti. Uplatňuje sa pri zameraní na podnet, ktorý si môžeme vybrať a
+má pre nás istý význam (Vágnerová, 2020).
+Pozornostné procesy sú základom pre kognitívne procesy, ako je napr. učenie,
+integrácia informácií a ich vybavovanie. Rozlišujeme medzi dvoma druhmi spracovania
+pozornosti a to bottom-up (zdola nahor) a top-down (zhora nadol). Bottom-up spracovanie
+11
+
+je vedené výhradne vonkajšími stimulmi. Druhý typ spracovania sa podieľa na vnútornom
+spracovaní, teda napr. na vyvolanie informácií. Pri sústredení na danú úlohu je nevyhnutné
+zanedbať rozptýlenie, ktoré by mohlo viesť k presunu pozornosti. Pre sústredenie pozornosti
+na danú činnosť je žiaduce obmedzenie akýchkoľvek rozptyľujúcich faktorov (Trautmann,
+2012).
+Pozornosť je komplexným systémom a medzi jej zložkami sú pevné vzťahy, ktoré sú
+na sebe závislé. V priebehu času sa však môže meniť ich aktivita a podiel na reguláciu. K
+dôležitým vlastnostiam pozornosti radíme predovšetkým koncentráciu, stabilitu a
+selektivitu. Dôležitým činiteľom učebnej výkonnosti je práve koncentrácia a stabilita
+pozornosti. Stupeň koncentrácie pozornosti sa u jednotlivcov líši a závisí od rôznych
+podmienok. Tieto podmienky môžu byť vnútorné aj vonkajšie. Medzi vnútorné podmienky
+radíme aktuálny psychický a telesný stav, emócie, záujem o danú vec, úroveň náročnosti
+úlohy a tiež vôľu na vykonanie. K vonkajším podmienkam patrí jednoznačne prostredie a to
+ako pracovné, tak sociálne. Pri pôsobení podnetu hrá rolu sila, dĺžka pôsobenia a tiež
+intenzita, ktorá musí byť dostatočná na upútanie pozornosti (Vágnerová, 2020).
+Filtrácia podnetov sa uskutočňuje vďaka selektivite pozornosti, teda procesu
+zamerania pozornosti. Príklad tejto selektivity je všeobecne označovaný ako „cocktail-party
+efekt“. Tu sa jedná o fenomén pri dialógu v rušnom prostredí, v ktorom prebiehajú ďalšie
+rozhovory. Pri započutí dôležitého slova, prípadne nášho mena, sa naša selektívna pozornosť
+prepne automaticky na rozhovor, v ktorom zaznelo upútavajúce slovo (Plháková, 2005).
+Pri experimentoch týkajúcich sa selektívnej pozornosti sa často spomína tzv. metóda
+tienenia (shadowing). Ide o metódu, kedy participant má nasadené slúchadlá a správa idúca
+do jedného jeho ucha nie je zhodná so správou idúcou do ucha druhého. Jedna správa je
+mierne potlačená, teda tienená. Tejto správe nedokážeme porozumieť, ale zvládneme z nej
+rozpoznať určité prvky (napr. či sa jedná o mužský alebo ženský hlas, prípadne svoje meno).
+Alternatívou k metóde tienenia môže byť aj text zložený z dvoch správ, ktoré sú vzájomne
+preložené a odlíšené odtieňom farby. Odolnosť voči rušivým faktorom je možné testovať.
+Neschopnosť filtrácie sa prejaví chybovosťou a spomalením pracovného tempa. Jedným z
+testov môže byť „Test pozornosti“, pri ktorom majú deti za úlohu v riadkoch s podobnými
+tvarmi, čí písmenami zaškrtávať určené znaky (Vágnerová, 2020).
+Daná aktivita, ktorá je vykonávaná opakovane, sa nám môže automatizovať.
+Napríklad aktivita čítania patrí k dokonale naučeným vlastnostiam a spúšťa sa automaticky.
+12
+
+Dôkaz automatického spracovania informácií dokladajú tzv. Stroopove úlohy, ktoré tvoria
+rad názvov farieb. Každý názov farby je napísaný odtieňom farby, ktorá nezodpovedá
+tomuto názvu. Prečítať najprv odtieň farby, ktorou je iný názov farby vytlačený je ťažšie a
+trvá dlhšie ako prečítať iba názov farby. Je to dané úsilím, ktorým zastavujeme automatické
+spracovanie informácií (Plháková, 2005).Dôležitým faktorom selektivity je aj inhibičná
+kontrola. Tá dieťaťu umožní oddialiť či potlačiť nežiaduce reakcie a znížiť mieru
+impulzivity (Vágnerová, 2020).
+Na vývin pozornosti majú vplyv biologické procesy aj vonkajšie prostredie dieťaťa,
+v ktorom žije (Swingler, 2015). Vývin pozornosti ide ruka v ruke s vývinom CNS. Po
+narodení narastajú neurálne synapsie a spolu s nimi sa zlepšuje aj výkon pozornosti.
+Dozrievaním mozgových štruktúr sa rozvíja predovšetkým selektivita pozornosti, ale aj jej
+flexibilita. Počas vývinu dochádza aj k zmenám v prepojení oblastí funkčných systémov,
+ktoré sa podieľajú na pozornosti. Pomocou tohto prepájania sa zlepšuje koordinácia medzi
+týmito systémami (Vágnerová, 2020).
+
+1.2 Charakteristika porúch pozornosti
+Porucha pozornosti ADD (Attention Deficit Disorders) sa skôr (rovnako ako porucha
+pozornosti s hyperaktivitou ADHD – Attention Deficit Hyperactivity Disorder) označovala
+ako ĽMD (ľahká mozgová dysfunkcia) alebo encefalopatia (Pelletier, 2014). Ďalej toto
+rozdelenie popisujú vo svojej knihe Munden a Arcelus (2002) takto: oba termíny ADHD i
+ADD sa často používajú ako synonymá, čo nie je presné. Vzťahujú sa k rôznym, hoci veľmi
+podobným, pravdepodobne príbuzným ochoreniam. Jedinci postihnutí ADHD mávajú
+problémy so sústredením, bývajú impulzívni a hyperaktívni. Ľudia, ktorí trpia ADD,
+nebývajú hyperaktívni, mávajú však problémy spojené s impulzivitou a nedostatočným
+sústredením. Tento názor ohľadom impulzivity pri ADD vyvracia vo svojej knihe Zelinková
+(2015). Autorka sa prikláňa k názoru, že u osôb trpiacich poruchou pozornosti bez
+hyperaktivity sa impulzivita neobjavuje. Uvádza problémy v oblasti pozornosti a v
+percepčno-motorických úlohách. Ďalej rozvádza, že medzi týmito deťmi sa viac objavujú
+poruchy učenia ako v skupine s ADHD. Príznaky sa v oboch prípadoch objavujú v miere,
+ktorá je voči veku a intelektuálnym schopnostiam jedinca abnormálne. (Zelinková, 2015).
+Porucha pozornosti bez hyperaktivity je málo nápadné postihnutie, charakterizované
+obvykle súborom príznakov. Dôležité je uvedomiť si, že len málo ľudí trpiacich ADD,
+vykazuje všetky príznaky. Tieto kombinácie sú u ľudí s ADD rôzne. Porucha môže byť
+
+13
+
+ľahká, stredná alebo závažná – podľa počtu zistených príznakov a podľa ich intenzity
+(Pelletier, 2014).
+Diagnostikovať poruchu pozornosti (ADD/ADHD) je neľahkou úlohou. U detí
+o niečo ľahším, naopak u dospelých veľmi zložitým. Príznaky často nebývajú očividné.
+ADD/ADHD u dospelých predstavujú časť ich osobnosti, s ktorou sa naučili žiť. Ťažko je
+neskôr v dospelosti rozoznať príznaky prvotné od sekundárnych ADD/ADHD. Odborníci
+Hallowell a Ratey (2007) z radov lekárov, ktorí môžu prispieť vlastnými skúsenosťami k
+tejto téme uviedli, že primárne príznaky sú prvotné prejavy poruchy: problémy s udržaním
+pozornosti, impulzivita, nepokoj a podobne. Sekundárne prejavy predstavujú problémy,
+ktoré sa liečia ťažšie. Môžeme medzi nimi nájsť nízke sebavedomie, strach z ľudí, nedôvera
+v samého seba, neviazané vzťahy, zlosť na minulosť, nespokojnosť v práci a nudu, depresiu,
+obavy z nutnosti učiť sa nové veci, narušené vzťahy v rodine, manželstve, niekedy tiež
+zneužívanie drog či alkoholu, krádeže, často dokonca násilné správanie v dôsledku
+narastajúceho vnútorného nepokoja. Čím dlhšie je ADD/ADHD nerozpoznané, tým väčšie
+a vážnejšie bývajú sekundárne príznaky. Veľa dospelých s nediagnostikovanou poruchou
+pozornosti o sebe zmýšľa značne negatívne a obviňujú samých seba. Ide väčšinou o ľudí,
+pre ktorých sú typické časté a rýchle pohyby, bývajú netrpezliví, výbušní, nepokojní. Mávajú
+dobrú intuíciu a bývajú tvoriví, ale presadiť sa nedokážu. Partnerské vzťahy bývajú
+nenaplnené, pretože jedinci s ADD/ADHD nevydržia vo vzťahu dlho. Mierna forma ADD
+môže zasahovať do rôznych oblastí v živote dospelých. Napríklad orientácia v
+medziľudských vzťahoch, vnášanie štruktúry do vlastného života, spomalenie tempa,
+vymedzenie času na obľúbené aktivity (Paclt, 2007).
+K diagnóze ADD/ADHD u dospelých dôjdeme mnohými cestami, často veľmi
+zložitými. Neexistuje žiaden pomyselný odrazový mostík, tak ako u detí je väčšinou škola.
+V rodine, v zamestnaní zrejme nikoho nenapadne, že by si premenlivú pozornosť,
+chaotickosť či nedostatočný výkon mohol spojiť s ADD/ADHD. Dospelý si so sebou nevie
+rady a zároveň netuší, na koho sa má obrátiť. Najčastejšie dospelí začnú zvažovať diagnózu
+po náhodnom prečítaní článku či knihy na danú tému, ktorý ich zaujme zoznamom známych
+príznakov, niekedy je to známy, ktorý na túto možnosť upozorní (Hallowell, Ratey, 2007).
+Nízka sebaúcta začína prevažne už v detstve. Preto je veľkou nutnosťou
+diagnostikovať čo v najskoršom veku, aby k slovu neprihlásili druhotné príznaky. Určiť
+diagnózu je veľmi ťažké, tým, že je závislá na rôznych vzájomne súvisiacich faktoroch a
+
+14
+
+tiež na tom, v akej miere zasahujú do každodenného života jedinca. Vyššie uvedení autori
+sa zhodujú, že stanoviť správne diagnózu ADD/ADHD určuje viac logicky usporiadaných
+krokov. Keďže značná časť znalostí a vedomostí o poruche pozornosti nepochádza z kníh,
+odborných časopisov, ale predovšetkým od pacientov (Jenett, 2013).
+Diagnóza ADD/ADHD je založená v prvom rade na anamnéze a životnom príbehu
+jedinca. Ujať sa diagnostikovania musí odborník a špecialista v odbore. Pri určovaní
+diagnózy sa postupuje klasickou metódou, rozhovorom. Ten predstavuje najúčinnejší
+prostriedok a je to základným „stavebným kameňom“ v určovaní diagnózy. Ďalej sa
+používajú doplňujúce testy či vyšetrenia. Diagnostické kritériá, ktoré lekárski odborníci
+používajú, sú dva hlavné klasifikačné systémy: Klasifikačný systém Svetovej zdravotníckej
+organizácie (The international Classification of Diseases,10 edition, čiže ICD-10, u nás
+známa ako Medzinárodná klasifikácia chorôb alebo MKCH-10) a Klasifikačný systém
+Americkej psychiatrickej asociácie (The Diagnostic and Statistical Manual of Mental
+Disorders, 5 edition, čiže DSMV). (Pelletier, 2014).
+Hyperaktivita
+Aspoň tri z nasledujúcich príznakov hyperaktivity pretrvávajú po dobu najmenej
+šiestich mesiacov v takej miere, že majú za následok neprispôsobilosť dieťaťa a
+nezodpovedajú jeho vývinovému štádiu:
+•
+
+často mimovoľne pohybuje rukami alebo nohami alebo sa vrtí na stoličke;
+
+•
+
+pri vyučovaní alebo v iných situáciách, kedy by malo zostať sedieť, vstáva zo
+stoličky;
+
+•
+
+často pobehuje v situáciách, keď je to nevhodné (u dospievajúcich detí alebo
+dospelých sa môžu vyskytovať iba pocity nepokoja);
+
+•
+
+často je nadmerne hlučné pri hraní alebo má problémy správať sa ticho pri
+odpočinkových činnostiach;
+
+•
+
+trvalo vykazuje nadmernú motorickú aktivitu, ktorú nie je schopné zásadne
+podriaďovať spoločenským podmienkam alebo požiadavkám. (Raboch, 2001)
+
+Impulzivita
+Kľúčovým nedostatkom u ADHD je neschopnosť zamedziť reakcii na impulz a to
+ako vhodné, tak nevhodné. Barkley (2006) sa domnieva, že hlavným problémom je
+
+15
+
+neschopnosť ovládnuť svoje reakcie na signály, podnety alebo udalosti nesúvisiace s tým,
+čo práve robia. Je to vlastne jednanie bez premýšľania o tom, čo by mohlo nasledovať.
+Aby boli symptómy ADHD klinicky významné a aby spĺňali diagnostické kritériá,
+musia sa vyskytovať vo väčšom počte a v dostatočnom stupni vážne postihovať daného
+jedinca. Jenson z USA spolu s niekoľkými významnými kolegami zverejnil v odbornom
+časopise Journal od the American Academy v decembri roku 1997 zaujímavý poznatok.
+Spolu s ďalšími vedcami skúmajú vplyv kľúčových symptómov poruchy pozornostiimpulzivity a hyperaktivity – v závislosti od prostredia, v ktorom sa jedinec vyskytuje.
+Správanie jedinca s ADHD má nasledujúce charakteristiky a to nadmernú ostražitosť, rýchlu
+orientácia v priestore, či nadmernú aktivita. Takýto jedinec by bol za krutých a
+nepriaznivých fyzických podmienok vo výhode. Iste by sa z nich mohli stať aj výborní
+bojovníci. V dôsledku toho, že sa spoločnosť stala priemyselnejšou a organizovanejšou,
+bezpečnejšou a dostatočne zaistenou, je syndróm ADHD chápaný ako nevýhoda. Mnohí
+ľudia v dnešnej spoločnosti s týmto deficitom bývajú vnímaní ako ľudia s poruchou (in
+Munden, Arcelus, 2002).
+
+1.3 Etiológia
+Čo sa týka etiológie, v prípade ADHD sa jedná o multifaktoriálnu etiológiu. Medzi
+príčiny ADHD sa radia genetické a negenetické faktory a zmeny na úrovni neurotransmisie
+a neuroanatómie. ADHD je neurovývojovou poruchou, ktorá je charakterizovaná
+abnormálnym vývojom centrálnej nervovej sústavy a abnormným neurotransmiterovým
+systémom. Kvôli týmto odchýlkam nervovej sústavy dochádza k poškodeniu kognitívnobehaviorálnych funkcií. Odchýlky sú obzvlášť viditeľné v prefrontálnom kortexe a
+subkortikálnych oblastiach. Existenciu dedičnosti ADHD potvrdzujú adopčné štúdie a štúdie
+rodín a dvojčiat, a poukazujú tak na vysokú heritabilitu tohto syndrómu. V prípade ADHD
+sa jedná o polygénnu dedičnosť malého účinku a heritabilita ADHD sa pohybuje okolo 76
+% (Faraone, Mick, 2010). Hlavnú úlohu v dedičnosti ADHD hrajú kandidátne gény pre
+dopaminergný, noradrenergný a serotonínergný systém. Dedičnosť potvrdili gény DRD3,
+DRD4, DAT, DRD5 z dopamínergného systému a gény 5HTT a HTR1B zo
+serotonínergného. Z noradrenergného systému sa potom jedná o gén DBH a z GABA
+systému o gén SNAP25 (Pactl, 2005).
+
+16
+
+Medzi negenetické faktory ADHD je radená konzumácia alkoholu a fajčenie matky
+v čase tehotenstva, nízka pôrodná váha, perinatálne traumy sprevádzané hypoxiou a veľmi
+rizikový je predčasný pôrod (Sciberras, Mulraney, Silva, Coghill, 2017).
+Na ADHD sa môžu podieľať aj zmeny neuro-endokrinné, pričom o nich neexistujú
+jednoznačné závery. Niektoré štúdie preukázali nízku hladinu kortizolu u detí s ADHD, iné
+však nie. Rovnako nejednoznačné je aj fungovanie štítnej žľazy u detí s ADHD, aj keď
+niektoré výskumy poukazujú na zmeny aktivity štítnej žľazy v súvislosti s určitými
+symptómami ADHD (Ptáček, Ptáčková, 2019).
+
+1.4 Liečba
+Liečba poruchy pozornosti vyžaduje komplexný prístup. Prejavy je možné zmierniť
+nastavením správneho režimu. Pre jedincov spočíva predovšetkým v úprave denného
+rozvrhu a výchovných a vyučovacích metód. Je potrebná trpezlivosť a tolerancia, dodržiavať
+dohodnutý rozvrh, pre jedincov je dôležité, aby im blízki pomáhali a zároveň poskytli
+dostatok „voľnosti“ na denné snívanie, pohyb a niekedy aj neobvyklé záľuby (Essa, 2011).
+Všetky symptómy a problémy s ktorými sa ľudia s poruchou pozornosti stretávajú sú
+prípadne liečiteľné. Je len potrebné nájsť spôsob liečby, ktorý by fungoval (Munden,
+Arcelus, 2002). Pomoc bez liečiv môžeme nájsť v sociálnych službách u psychológa či
+rodinného terapeuta. Psychológovia na rozdiel od lekárov nepredpisujú na liečbu tohto
+ochorenia žiadne lieky. Špecializujú sa na zvládnutie ťažkostí bez medikácie. Využívajú
+najrôznejšie techniky pracujúce s myšlienkami, emóciami, sebadôverou a správaním (Essa,
+2011). Medzi rodinných terapeutov patria obvykle sestry, lekári s atestáciou v príbuznom
+odbore alebo už spomínaní psychológovia a sociálni pracovníci. Cieľom nie je hovoriť
+rodinám, čo majú robiť alebo ich súdiť, ale poskytnúť im možnosť vyjadriť sa a navrhnúť
+riešenie problémov, ktorým stojí „tvárou tvár“. Podľa Mundena a Arcelusa (2002) na pomoc
+ľuďom s poruchou pozornosti existuje aj rad liečebných postupov s užívaním liekov. Pre
+jedincov so stredne ťažkou až ťažkou poruchou môže znamenať užívanie medikamentov
+skutočnú zmenu v správaní i myslení, rovnako ako vo vzťahoch k ostatným ľuďom. Pokiaľ
+lekár osobe lieky predpíše, mal by mu dostatočne vysvetliť dôvod, prečo by mal lieky začať
+brať.
+U väčšiny ochorení a porúch býva diagnóza východiskom na liečbu. Pri poruche
+pozornosti, už samotné stanovenie diagnózy má nepredstaviteľný terapeutický účinok.
+Situácia môže byť prirovnaná ku krátkozrakosti. Ak jedinec nevie, že trpí krátkozrakosťou
+17
+
+a žije roky s tým, že na diaľku nevidí, môže dospieť k mnohým mylným presvedčeniam.
+Môže si myslieť, že má problémy s učením kvôli nízkej inteligencii alebo malej snahe. Keď
+však zistí, že je krátkozraký, ktorá nemá nič spoločné s inteligenciou či snahou, pochopí, že
+je všetko inak, než predpokladal. Pri poruche pozornosti je to taktiež. Diagnóza oslobodzuje
+z „vnútorného väzenia“. Roky nepochopenia miznú za obzorom, nahrádza ich logické
+vysvetlenie príčin. Jedinec s poruchou pozornosti prežíva nekonečnú úľavu, pretože konečne
+vie, že nie je blázon. Niektorí autori uvádzajú, že sa jedná o chorobu, ktorá je nevyliečiteľná,
+ale liečiteľná. V niektorých prípadoch sa problém zmierňuje dospievaním. Podľa štúdii
+syndróm ADHD/ADD v 40 – 50% pretrváva do dospelosti. Väčšina osôb s poruchou
+pozornosti a to ako detí, tak dospelí prežívajú mnoho duševných bolestí. Stretávajú sa s
+ponižovaním, hanbou, sebazavrhovaním. Často sa stáva, že stráca dôveru v seba samého
+(Paclt, 2010).
+Liečba poruchy pozornosti, ako aj syndrómu ADHD je zásadná, hoci pacienta tento
+syndróm nijako neohrozuje. Ovplyvňuje však jeho vývoj a vzťahy s ostatnými a u
+neliečených jedincov sa zvyšuje riziko výskytu ďalších porúch (Malá, 2008). Pri liečbe je
+vždy dôležitá spolupráca psychiatra, psychológa a blízkych. Liečebných metód je mnoho,
+pričom sa väčšinou využíva farmakologický prístup, behaviorálne/psychosociálny prístup a
+kombinácia rôznych postupov (Ptáček, Ptáčková, 2019).
+Psychofarmakológia
+Na liečbu ADHD sa používajú stimulanciá a ne-stimulanciá. Najčastejšou
+používanou látkou zo skupiny stimulancií je metylfenidát. Dostupná je jeho krátkodobo
+pôsobiaca forma Ritalin a sú potom dostupné aj látky dextroamfetamín a pemolín.
+Metylfenidát je inhibítor spätného vychytávania dopamínu a noradrenalínu. Má rýchly
+nástup, je vysoko účinný a znášanlivý. Býva zneužívaný, avšak u pacientov s ADHD na
+neho nevzniká závislosť. Nežiaducimi účinkami sú zvyšovanie krvného tlaku a srdcovej
+frekvencie, narušenie spánku, znížená chuť do jedla, úzkosť a iritabilita (Storebo, 2015).
+Kognitívno-behaviorálna terapia
+Liečbu prostredníctvom psychofarmák je vhodné kombinovať s psychoterapiou.
+Takou je najčastejšie kognitívno-behaviorálna terapia (KBT), ktorá sa zameriava na
+správanie jedinca, zvládanie problémov a dosahovanie cieľov (Drtílková, 2007). Účelnými
+technikami KBT u jedincov s ADHD sú nácviky sociálnych zručností a tréningy
+
+18
+
+vizuomotorickej koordinácie. Ďalšími sú pozitívne posilňovanie a práca s odmenami a
+trestami (Munden, Arcelus, 2002).
+Relaxačné techniky
+Osvedčenými relaxačnými technikami sú uvedomelé dýchanie a progresívna svalová
+relaxácia. Obe techniky sa môžu praktizovať počas sedenia alebo doma a vyžadujú dlhodobý
+tréning. Uvedomelým dýchaním sa jedinec učí správnemu dýchaniu a pomocou progresívnej
+svalovej relaxácie celkovej relaxácii tela a mysle (Young, Bramham, 2012).
+Ďalšou technikou je autogénny tréning. Autogénny tréning je psychoterapeutická
+metóda, ktorá kladie dôraz na kognitívne sebariadenie. Využíva sa u neho názorných
+predstáv, ktoré majú fyziologické účinky. Vedú k uvoľneniu kostrového svalstva,
+periférnych ciev a svaloviny vnútorných orgánov a upokojujú činnosť srdca a dýchania.
+Autogénny tréning vďaka relaxácii zlepšuje duševný stav dieťaťa a vedie k lepšiemu
+sústredeniu, celkovému upokojeniu a vyššej výkonnosti (Langmeier, Balcar, Špitz, 2010).
+Neurofeedback
+Jednou z možných liečebných ADHD je aj neurofeedback alebo EEG biofeedback.
+Jedná sa o tréning zmeny mozgových vĺn, presnejšie o zmenu určitej funkcie mozgu.
+Mozgové vlny sa vyskytujú v rôznych frekvenciách, od pomalých po rýchle, pričom aktivita
+mozgu sa mení podľa fyziologického stavu (Hammond, 2007).
+
+1.5 Postoj spoločnosti k jedincom s poruchami pozornosti
+Ukázalo sa, že u jedincov s poruchami pozornosti dochádza k častej stigmatizácii.
+Osoby s poruchami pozornosti a s ADHD sú popisovaní ako nevychované, lenivé a hlúpe
+osoby. Verejnosť má tiež mienku o ADHD ako o iba detskom syndróme a nevedia, že ním
+trpia aj dospelí. Predtým sa o syndróme toľko nehovorilo a verejnosť o ADHD nevedela. Na
+to má vplyv aj vývoj terminológie, kedy ADHD malo častú premenu názvov a termínov. To
+všetko pôsobí na postoj ľudí, keď spoločnosť berie ADHD ako novodobú poruchu, aj keď
+už existovala desiatky rokov. Vykonalo sa veľa výskumov ohľadom postojov či stigmy
+k deťom a dospelým s ADHD, predovšetkým zo strany spolužiakov a učiteľov. Hoza (2005)
+z výskumu zistil, že deti s ADHD sú menej obľúbení v triede a spolužiaci ich správanie brali
+ako znepokojujúce. Taktiež uvádza, že je to neustálou potrebou dieťaťa s ADHD sa niečoho
+dožadovať a ostatné deti nie sú schopní tolerovať jeho nevyspytateľné prejavy a
+predpojatosť. Jedným z dôsledkov stigmatizácie detí s ADHD je nedostatočná
+19
+
+informovanosť o syndróme. Keďže samotný pôvod ADHD nie je dodnes úplne jasný, tak sa
+spoločnosť bude pravdepodobnejšie skláňať k stigme a stereotypizácii. To ukazujú aj
+niektoré výskumy, kde dospelí participanti, ktorí prisudzovali príznaky ADHD za dôsledok
+zlej výchovy a vplyvu médií, mali väčšie sklony k sociálnemu dištancovaniu ako dospelí,
+ktorým bolo povedané, že pôvod ADHD je biologický.
+Pri vstupe do školy chce dieťa ukázať čo v ňom je, predviesť svoje zručnosti a snaží
+sa mať dobré výsledky, aby sa mu dostalo pochvaly. Keď sa mu vďaka svojej usilovnej práci
+niečo podarí a zvládne nároky v škole, je potrebné aby bolo dieťa pochválené. V tomto čase
+sa mu totiž začínajú tvoriť dôležité vlastnosti, ktoré následne tvarujú jeho osobnosť a výkon
+sa stáva dôležitou zložkou sebapoňatia. Týmito vlastnosťami môže byť zodpovednosť,
+cieľavedomosť či schopnosť spolupráce s ostatnými deťmi. Deti sa učia počúvať učiteľa,
+ktorý je pre nich autoritou a vytvárajú si k nemu rešpekt. Musia plniť úlohy, ktoré im zadá a
+správať sa slušne a pracovito. V závislosti na zmeny, ktoré jedinec musí prijať a vyrovnať
+sa im, prichádza aj istá miera neistoty. Preto je veľmi dôležité jedinca povzbudzovať a
+podporovať, aby mal pocit bezpečia. Vo chvíli, keď nie je dieťa učiteľom kladne hodnotené
+a povzbudzované, ale naopak je kritizované, vyvoláva to v ňom negatívne sebapoňatie.
+Dieťa má pocit, že nič nezvládne, že je hlúpy a ostatné deti sú lepšie a múdrejšie. Aj napriek
+tomu, že sa dieťa môže ďalej snažiť mať dobré výsledky, tak pri ďalšom negatívnom
+hodnotení už môže dôjsť k rezignácii, pretože má pocit, že aj napriek všetkej snahe nebude
+nikdy dosť dobrý (Helus, 2004).
+Keď sa nahromadia tieto negatívne hodnotenia, prehlbuje to pocit menejcennosti,
+úzkosť a apatiu. Často sa u dieťaťa vytvorí syndróm naučenej bezmocnosti, keď „žiak
+nadobúda pocit, že on sám nemôže kontrolovať, riadiť beh veci. Nech sa snaží podniknúť
+čokoľvek, na nepriaznivom výsledku to aj tak nič nezmení“ (Čáp, Mareš, 2007, s. 537).
+Pre jedincov s ADHD je toto obdobie veľmi náročné predovšetkým kvôli jeho
+nedostatočnej koncentrácii a impulzivite. Je potrebné, aby mu učiteľ pomáhal, chválil ho za
+pokroky a neporovnával ho s ostatnými deťmi. Postoj učiteľa je pre neho kľúčový aj kvôli
+vplyvu, ktorý učiteľ má na ostatné deti. Dieťa si začína v tomto veku viac uvedomovať svoje
+vlastnosti a schopnosti a nastáva sebahodnotenie a porovnávanie sa s ostatnými rovesníkmi.
+V škole sa dostáva do kontaktu so svojimi rovesníkmi a najmä po jedenástom roku, teda na
+druhom stupni základnej školy, sú pre neho vzťahy s rovesníkmi veľmi dôležité. Ich vplyv
+je v tomto období väčší, než vplyv rodičov a byť súčasťou kolektívu je pre jedinca zásadný.
+
+20
+
+V tomto veku sa však tiež často dostávajú do vzájomného konfliktu. Vo chvíli, keď konflikty
+majú dlhodobé trvanie, jedinec nemá dobrý vzťah s rovesníkmi a dochádza z ich strany k
+výsmechu, môže to viesť k izolácii, čo dieťa v tomto období veľmi ťažko znáša. Dôsledkom
+negatívneho hodnotenia ako učiteľmi, tak aj rovesníkmi má za následok pretrvávanie
+negatívneho sebapoňatia aj v budúcnosti. Dieťa v období raného školského veku fantazíruje
+o svojej budúcnosti a v prípade, že v ňom prevláda pocit menejcennosti a neschopnosti
+niečoho dosiahnuť, vyvoláva to v ňom strach a úzkosť z budúcnosti (Langmeier, Krejčířová,
+2006).
+U detí s ADHD dochádzalo k sebastigmatizácii predovšetkým z dôvodu pocitu
+odlišnosti od ostatných a stigmy zo strany rovesníkov. Rovesníci sa im posmievajú za ich
+správanie a ich pohybové neobratnosti. Pohybová zdatnosť je po celú dobu detstva vstupnou
+bránou do detského kolektívu - ak je uzavretá, znamená to aj vážny sociálny handicap.
+Problémovým socializačným okruhom nie je teda tentokrát rodina či škola, ale
+predovšetkým detská skupina. (Helus, 2014). Ďalším problémom je ich impulzivita a
+emotivita, kedy ich náladovosť spôsobuje neakceptáciu ostatných detí. To všetko má vplyv
+na sebapoňatie dieťaťa. Deti s ADHD sú horšie prijímaní, kritizovaní a dochádza u nich
+k častejšiemu negatívnemu hodnoteniu. Na pozitívne sebapoňatie dieťaťa majú vplyv nielen
+dobré školské výsledky, ale aj dobré vzťahy s rovesníkmi. Keď dochádza k neprijatiu zo
+strany rovesníkov, vyvoláva to v nich pocit menejcennosti a nízkeho sebavedomia.
+Negatívne sebapoňatie mnohokrát pretrváva do dospelosti (Svoboda, 2001).
+
+21
+
+2 PORUCHY POZORNOSTI U DOSPELÝCH OSOB
+Osobnosť dospelého človeka s poruchou pozornosti nám dobre popísali autori
+Hallowell a Ratey (2007) na príklade teplomeru, ktorý obsahuje ortuť. Ak sa vám niekedy
+rozbil teplomer, iste poznáte, čo sa ortuti stane. Porucha pozornosti je v tomto prípade ortuť.
+Preteká sem a tam, tu sa spojí, tu rozpojí. Ak chceme, aby nám ortuť držala pohromade,
+musíme jej dať tvar a štruktúru. To isté platí pre myseľ zasiahnutú poruchou pozornosti. Je
+nutné jej zabrániť, aby sa myšlienky rozbiehali na všetky strany, zásadným slovom je
+štruktúra. Ak nemá štruktúru, guličky ortuti sa nám rozkotúľa po podlahe do všetkých
+rôznych kútov.
+Nakoľko sme nenašli dostatok informácií, článkov, ako aj knižných publikácií
+zameraných priamo na učiteľov s ADHD, túto kapitolu sme zamerali na dospelého človeka
+s ADHD, pričom sme sa v nej zamerali aj na učiteľov s ADHD.
+
+2.1 Prejavy poruchy pozornosti u dospelého človeka
+Prejavy poruchy pozornosti a syndrómu ADHD sa u dospelých vplyvom vývinu
+CNS prejavujú v pozmenenej forme. Hyperaktivita ustupuje a do popredia sa dostáva najmä
+impulzivita a nepozornosť. Aj napriek tomu, že dospelí ľudia sa dokážu viac ovládať a
+usmerňovať svoje správanie, tak v niektorých situáciách sú prejavy ADHD veľkou záťažou
+a môže to viesť až k nebezpečnej situácii. Rovnako ako u detí, tak aj u dospelých
+nepozornosť komplikuje sociálny, školský aj pracovný život. Majú problémy sa sústrediť
+pri komunikácii, často strácajú veci, zabúdajú na schôdzky, sú neorganizovaní a majú
+problém dokončiť úlohy a koncentrovať sa. Okolie môže jedinca vnímať ako
+ľahkomyseľného, nespoľahlivého a roztržitého. Najväčší problém je pri riadení automobilu,
+kedy kvôli rozkolísanej pozornosti môžu nabúrať a spôsobiť dopravnú nehodu (Drtílková,
+2007).
+Na nebezpečenstvo hroziace pri riadení automobilu má vplyv aj impulzivita, keď
+jedinec má tendenciu rýchlo a bezmyšlienkovite zareagovať. Ďalej impulzivita vytvára
+problém pri udržiavaní partnerských vzťahov, kedy impulzívne nadväzujú nové vzťahy a
+často striedajú partnerov. Promiskuitné sú viac ženy ako muži, a u dospelých s ADHD je
+tiež častejšia rozvodovosť. Rovnako ako častá zmena partnerov je u jedincov s ADHD
+zaznamenávaná nestabilita v zamestnaní. Impulzivita ovplyvňuje užívanie návykových
+látok, kedy majú jedinci s ADHD kvôli zníženým voľným schopnostiam väčšie riziko
+prepadnutia závislosti. Snaha o vyliečenie je u nich ťažšia ako u ostatných. Znížené voľné
+22
+
+schopnosti a časté impulzy môžu tiež spôsobovať poruchy príjmu potravy. Od dospelých je
+očakávaná väčšia zodpovednosť a sebakontrola, takže, ak sa jedinec s ADHD nenaučil
+ovládať svoje správanie a nemá schopnosť tzv. behaviorálnej inhibície, spoločnosť ho môže
+vnímať negatívne. Zvlášť v práci a v partnerskom vzťahu môže nevyspytateľné správanie
+jedinca predstavovať veľké komplikácie (Žáčková, Jucovičová, 2017).
+Dospelí s ADHD majú tiež problém s hyperaktivitou, kedy oproti deťom u nich
+dochádza k oneskoreným útlmovým reakciám, ktoré sa u nich dostavia neskôr ako u
+ostatných. Naopak však dochádza k rýchlej a náhlej unaviteľnosti. Ďalším rozdielom je, že
+u dospelého sa objavuje viac vnútorný nepokoj, ktorý ich núti k permanentnému
+vykonávaniu nejakej aktivity, čím sú niektorí jedinci náchylní k workoholizmu.
+Workoholizmus môže byť vnímaný ako negatívne, tak aj pozitívne. Záleží, na akej pozícii
+sa jedinec nachádza a ako veľmi závislý je na svojej práci, čo môže mať potom vplyv na
+jeho sociálny život (Goetz, Uhlíková, 2013). Chceli by sme doplniť, to, ako prejavy ADHD
+ovplyvňujú život dospelého, závisí predovšetkým od schopnosti sebaovládania. Ak jedinec
+nemá dostatočnú vôľu a naučené techniky, ktoré stimulujú jeho prejavy, môže mať veľké
+problémy vo všetkých sférach života.
+Charakteristiky ADHD pozorované u detí majú tendenciu pretrvávať dospelosti, no
+často sú prehliadané. To znamená prevalenciu, ktorá môže byť vyššia u dospelých, ako sa
+uvádza (Katzman, Bilkey, Chokka, Fallu, Klassen, 2017). Štúdie ukázali, že vlastnosti
+pozorované u detí sa menia, keď jednotlivci vstúpia do neskorého dospievania alebo do ranej
+dospelosti. Môže to byť pravdepodobne zmenami prostredia. (Caye, 2016; Chung, 2019;
+Sandhu, Toll, Poulton, 2020). Ak sú iné poruchy prítomné (ako je depresia, úzkosť alebo
+bipolárna porucha), diagnóza ADHD môže byť ponechaná bez liečby. Duálne
+diagnostikovaní jedinci vo všeobecnosti sa vyskytujú s komplexnými príznakmi. (Bozkurt,
+Evren, Umut, Agachanli, Evren, 2017).
+Hoci prevalencia ADHD u dospelých je nižšia ako väčšina ostatných psychiatrických
+porúch, nemožno rozoznať a liečiť jednotlivcov. ADHD môže mať za následok vážne
+poruchy kognitívnych a sociálnych funkcií v rámci bežného fungovania. Napríklad zhoršená
+krátkodobá pamäť bola vyššia u vysokoškolákoch s ADHD (Dudukovič, Gottshall,
+Cavanaugh, Moody, 2014). Okrem kognitívnej poruchy dospelí s ADHD majú tendenciu
+byť vystavení vyššiemu riziku nehôd (vrátane automobilových nehôd), majú väčšie
+problémy so zamestnaním a financiami, majú vyššiu mieru zneužívania návykových látok,
+
+23
+
+viac vzťahových problémov, zvýšené návštevy zdravotníckych stredísk pre ich duševné
+a fyzické choroby (Owens, Zalecki, Gillette a Hinshaw, 2017; Palacios-Cruz, 2018; Reid,
+Campos, Selochan a Fong, 2018; Sadeghi, 2020). Tieto faktory vytvárajú potreby včasnej
+identifikácie dospelých s ADHD, aby sa znížil dopad na jednotlivca, na úrovni komunity a
+zdravotného systému. Na individuálnej úrovni mladí dospelí často odkladajú hľadanie
+zdravotnej starostlivosti kvôli nejasným symptómom spojených s poruchou. Spúšťače
+hľadania zdravotnej starostlivosti sú rôzne, napríklad zhoršenie, prípadne nenájdenie si
+zamestnania a zhoršenie pri iných denných činnostiach. Na úrovni systémov ovplyvňuje
+diagnostiku niekoľko faktorov a liečba, vrátane nedostatku riadneho vzdelávania a školenia
+zdravotného poskytovateľa pri rozpoznaní a liečbe dospelého s ADHD ohľadne
+presvedčenia, že ADHD je porucha v detstve, nakoľko existujú obmedzené klinické
+skúsenosti s diagnostikou a liečbou ADHD u dospelých a nedostatok potrebných
+multidisciplinárnych tímov adekvátne diagnostikovať a liečiť dospelých s ADHD (Pidano,
+2016).
+Dospelí si zvyčajne nie sú istí svojimi symptómami a je pre nich náročné opísať ich
+symptómy (Owens, Zalecki, Gillette, Hinshaw, 2017). Po stanovení presnej diagnózy mnohí
+dospelí vyjadrujú pocit úľavy. Je to preto, že môžu lepšie pochopiť „koreň príčiny“, ktorá
+často prináša útechu jednotlivcom s ADHD (Aoki, Tsuboi, Furuno, Watanabe, Kayama,
+2020).
+Ukázalo sa, že u dospelých sa prejavuje skôr zhoršená pamäť alebo zhoršené
+výkonnostné fungovanie, zatiaľ čo hyperaktivita je hlavnou charakteristikou u detí. Toto je
+pravdepodobne v dôsledku narušeného zmyslového spracovania (Papp, 2020). Nepozornosť
+u dospelých s ADHD sa môže prejaviť ako správanie charakterizované neschopnosťou
+presunúť pozornosť z jednej činnosti na druhú (Ozel-Kizil, 2016). Rovnako ako u väčšiny
+porúch, hodnotenie začína v čase, keď je to odporúčané. Deti skôr pravdepodobne ako
+dospelí spĺňajú kritériá DSM-5 pre hyperaktivitu ADHD alebo kombinované poruchy, ale
+dospelí s väčšou pravdepodobnosťou spĺňajú kritériá pre ADHD v rámci nepozornosti.
+Napríklad hyperaktívne správanie u dospelých sa môže prejaviť ako emočná dysregulácia.
+(Adler, 2017; Bangma, Tucha, Fuermaier, Tucha a Koerts, 2020). Toto správanie sa však
+pozoruje aj pri iných poruchách, čo komplikuje stanovenie diagnózy.
+V rámci stanovenia diagnózy je to u detí jednoduchšie, pretože majú tendenciu mať
+konzistentný kontakt s tými istými jednotlivcami, ako sú rodičia a učitelia. To uľahčuje
+
+24
+
+potvrdenie behaviorálnych a kognitívnych problémov u detí. Avšak, kognitívne a
+behaviorálne poruchy sa u dospelých nedajú tak ľahko zistiť. Dospelí tiež nie sú už pod
+dohľadom rodičov alebo učiteľov, teda narušené fungovanie nemusí byť rozpoznané.
+Napríklad, dospelí môžu kompenzovať kognitívne ťažkosti prostredníctvom nejakej pomoci
+resp. elektronické zariadenia na pomoc s pamäťou a vykonaním úloh. Jednotlivec môže
+vytvoriť prostredie, v ktorom mu bude pomáhané s dokončením úloh alebo prostredníctvom
+športu môže zmierniť hyperaktivitu. (Castagna, Roye, Calamia, 2018).
+Dospelí sú schopní prispôsobiť sa kognitívnym a emocionálnym zmenám správania
+v priebehu času, čo môže maskovať poruchu. Toto kompenzačné správanie nemusí byť pre
+ostatných zjavné a je vnímané ako normálne správanie dospelých a preto to sťažuje
+diagnostikovanie ADHD (Britton, 2011).
+
+2.2 Vzdelávanie u dospelého s poruchou pozornosti
+Ľuďom s poruchou pozornosti je často vytýkaná nespoľahlivosť a nedochvíľnosť, čo
+je niekedy veľmi ťažké skĺbiť s pracovnou morálkou. Bývajú tiež veľmi často popisovaní
+ako detinské a nezrelé osobnosti (Hallowell, Ratey, 2007). Ľudia totiž nevedia, čo si majú
+o druhom myslieť, tak siahnu na označenie jedinca s poruchou pozornosti za nezrelého
+človeka, ktorý nenapĺňa štandardy dospelosti, navyše zanecháva dojem zhonu a roztržitosti.
+Vďaka dobre zvolenej medikácii a terapiám, sa postupom času tieto javy môžu
+minimalizovať.
+Existujú značné výskumné dôkazy, ktoré dokazujú riziko nepriaznivých výsledkov
+vo vzdelávaní a iných životných výsledkoch u ľudí s poruchou pozornosti/hyperaktivitou
+(ADHD), ale majú len malý prehľad o skutočných životných skúsenostiach, ktoré formujú
+ich vzdelávacie cesty. Článok autorky Shruti (2021) skúma kritické body zlomu vo
+vzdelávacích dráhach mladých ľudí s postihnutím ADHD vo Švédsku a faktory, ktoré tieto
+zlomy ovplyvňujú. Vychádza z perspektívy priebehu života, pričom využíva svoje koncepty
+bodu obratu a trajektórie. Zahrnuté rozhovory, pozorovacie a dokumentačné údaje
+pochádzajú z longitudinálnych etnografických prípadových štúdií mladých žien a mužov (vo
+veku 18 až 31 rokov) s diagnózou ADHD. Uvádzajú sa štyri príklady prípadov, ktoré
+typizujú zistenia. Odhaľujú spôsoby, ako rodinné a rovesnícke vzťahy, inštitucionálne
+prostredie, individuálna činnosť a načasovanie životných udalostí formovali negatívne a
+pozitívne body obratu vo vzdelávaní účastníkov. (Schruti, 2021)
+25
+
+Ukázalo sa, že deti v školskom veku s ADHD dosahujú horšie akademické výsledky,
+majú vyššiu mieru predčasného ukončenia školskej dochádzky a nižšiu úroveň vzdelania
+ako ich rovesníci bez zdravotného postihnutia (Kent, 2011). V dospelosti je menej
+pravdepodobné, že sa zúčastnia vysokoškolského vzdelávania a trhu práce (Kuriyan, 2013)
+a sú vystavení väčšiemu riziku tým, že sa obrátia na konzumáciu alkoholu, užívanie
+návykových látok a kriminalitu (Young, 2015). Vzhľadom na hodnotu vzdelávania je
+prekvapujúce, že existuje malý prehľad o skutočných životných skúsenostiach, ktoré
+formujú vzdelávacie cesty tejto skupiny.
+Cieľom článku od Schruti (2021) je identifikovať kritické body zlomu vo
+vzdelávacích dráhach mladých ľudí s postihnutím ADHD a faktory, ktoré tieto zlomy
+ovplyvňujú. Pozornosť sa sústreďuje na Švédsko, krajinu, kde počet ľudí s diagnózou
+ADHD vo všetkých vekových skupinách v posledných desaťročiach neustále rástol
+(Giacobini, 2018). Záväzok Švédska prostredníctvom politiky zabezpečiť spravodlivé
+kvalitné vzdelanie pre všetkých a jeho veľkorysá politika sociálneho zabezpečenia z neho
+robia zaujímavý prípad na štúdium danej cieľovej skupiny. Povinná komplexná školská
+dochádzka vo Švédsku je rozdelená do štyroch stupňov: predškolská trieda (0. ročník),
+základná (1. – 3. ročník), stredná (4. – 6. ročník) a stredoškolská (7. – 9. ročník). Po
+stredoškolskom štúdiu je možné pokračovať v akademickom alebo odbornom programe na
+vyššej sekundárnej úrovni. Požiadavky na prijatie sa v jednotlivých programoch líšia, ale od
+roku 2011 sa vo všetkých vyžaduje úspešné absolvovanie ročníka zo švédčiny, angličtiny a
+matematiky. Študentom, ktorí nespĺňajú požiadavky na prijatie do ročníka, sa na vyšších
+stredných školách ponúka úvodný program. Zatiaľ čo podiel ľudí, ktorí pokračujú v štúdiu
+po povinnej školskej dochádzke, sa zvýšil zo 79 % v roku 2000 na 89 % v roku 2019 údaje
+zo Švédskej národnej agentúry pre vzdelávanie ukazujú, že v akademickom roku 2018–
+2019, 1 zo 4 žiakov nezískal úplné známky zo všetkých povinných školských predmetov.
+Zistilo sa, že existuje nadmerné zastúpenie žiakov s ADHD a autizmom medzi žiakmi, ktorí
+opúšťajú školu s nedokončeným ročníkom. Študenti sa môžu hlásiť na vyššiu strednú školu
+len do roku, v ktorom dovŕšia 20 rokov, po tomto čase je možné študovať na povinnej a
+vyššej sekundárnej úrovni prostredníctvom obecných stredísk vzdelávania dospelých.
+Ukázalo sa, že táto možnosť je „zadnými dvierami“ do vzdelávania pre tých, ktorí opúšťajú
+školu bez potrebných známok, ako aj „druhou šancou“ pre zraniteľné skupiny s ADHD
+(Baysu de Valk, 2012).
+
+26
+
+Zatiaľ čo vzdelávanie na všetkých úrovniach je vo Švédsku bezplatné, dospelým
+študentom, ktorí študujú aspoň 50 % denného štúdia, je k dispozícii aj finančná pomoc
+vrátane grantov a pôžičiek. Ak sa posúdi a zistí sa, že dokončenie školy si kvôli svojmu
+postihnutiu vyžaduje viac času, študenti so zdravotným postihnutím (vo veku 19 – 29 rokov)
+môžu namiesto toho dostať „náhradu za aktivitu za predĺženú školskú dochádzku“ za
+štúdium až po vyššiu stredoškolskú úroveň. Tento druh sociálnej podpory vzdelávania je
+jednoznačne potrebný, pretože údaje zo Švédskeho úradu práce ukazujú, že na všetkých
+stupňoch vzdelávacieho systému je úroveň vzdelania ľudí so zdravotným postihnutím nižšia
+ako úroveň vzdelania populácie ako celku (Schruti, 2021).
+Kurivan (2013) uviedol, že sa zistil nedostatok výskumov zameraný na vzdelávanie
+ľudí s ADHD. Celkovo sa vzdelávaniu z pohľadu dospelých venovala malá pozornosť,
+pričom väčšina obmedzeného výskumu sa zameriavala na univerzitných študentov s ADHD
+(Sedgwick, 2018). Toto zameranie je otázne, pretože je dobre známe, že ľudia s ADHD
+navštevujú univerzitu s menšou pravdepodobnosťou.
+Kritickejší výskum ukázal, že diagnóza a zameranie sa na jednotlivca ako nositeľa
+problému samého o sebe predstavujú pre týchto mladých ľudí najvýznamnejšiu bariéru, čo
+vedie k segregácii, vylúčeniu a nefunkčným školským cestám (Honkasilta, Vehkakoski,
+2019). Iní tvrdili, že diagnóza je samotným dôvodom budúceho zlyhania, pretože ovplyvňuje
+identitu a stavia jednotlivca na samostatnú vzdelávaciu cestu (Hjörne, Evaldsson, 2015).
+Výskum od autorky Schruti (2021) uvádza údaje čerpané od deviatich dospelých
+parcitipantov s ADHD vo veku 18-31 rokov. Konkrétne išlo o šesť žien a troch mužov.
+Údaje každého účastníka zahŕňali ich rozprávanie, početné neformálne rozhovory, postrehy,
+SMS správy, fotografie, certifikáty a dostupnú dokumentáciu zo škôl, inštitucionálnych
+zariadení, sociálnych služieb a zdravotníckych služieb. Okrem toho sa uskutočnili
+pološtruktúrované rozhovory s kľúčovými jednotlivcami (rodič, učiteľ, súrodenec atď.) v
+živote účastníkov. V priemere boli sledovaní dva roky. Zistenia výskumu odhalili zložitosť
+a viaceré faktory, ktoré ovplyvnili vzdelávanie participantov. Zistilo sa, že zložitá súhra
+rodinných a rovesníckych vzťahov, inštitucionálneho prostredia, ich odklonila od
+vzdelávania a nenasmerovala ich pozitívnym smerom.
+Tento nedostatok uznania rôznorodosti medzi študentmi s ADHD vo vzdelávacom
+prostredí je možné vidieť v praxi v mnohých krajinách vrátane Švédska. Napriek silnému
+politickému záväzku vytvoriť inkluzívny systém všeobecného vzdelávania s podporou
+27
+
+založenou na potrebe a nie na diagnóze, štúdie zo Švédska odhalili rastúcu tendenciu k
+zoskupovaniu na základe diagnózy a intervencii v škole (Malmqvist, 2018).
+Gwernan – Jones (2016) uviedol, že sa zistilo, že učitelia zohrávajú dôležitú úlohu v
+negatívnych a pozitívnych zlomových bodoch. Je to v súlade s iným výskumom, ktorý často
+identifikoval učiteľa ako prekážku, často na základe ich vedomostí o ADHD, chápania jeho
+vplyvu na žiakov a využívania podporných stratégií.
+Aj keď o tom existujú určité dôkazy v súčasných zisteniach vo výskume Schrutiho
+(2021), vzťahy medzi účastníkmi a ich učiteľmi boli v zlomových bodoch relevantnejšie. V
+prípade dvoch účastníkov konfliktmi zaťažené vzťahy s učiteľmi iniciovali negatívny bod
+obratu v škole. Napätý vzťah medzi študentmi s ADHD a ich učiteľmi je zdôraznený v
+systematickom prehľade, ktorý odhalil menšiu emocionálnu blízkosť, viac konfliktov a
+menšiu spoluprácu medzi študentmi s ADHD a ich učiteľmi ako medzi študentmi bez ADHD
+a ich učiteľmi. Napriek tomu v jednom prípade bol vzťah participanta s učiteľmi v centre
+vzdelávania dospelých neoddeliteľnou súčasťou udržania pozitívneho bodu obratu v jeho
+vzdelávaní. Predchádzajúce kvalitatívne štúdie ukázali, ako môžu učitelia, ktorým na tom
+záleží, výrazne ovplyvniť učenie sa a zapojenie mladých ľudí s ADHD v škole (Bolic Baric,
+2016).
+Sociálne zdroje, presadzovanie a/alebo angažovanosť ľudí boli často identifikované
+ako dôležité determinanty úspešných vzdelávacích ciest pre ľudí so zdravotným
+postihnutím. V naratívnych biografických rozhovoroch so 107 mladými ľuďmi so
+zdravotným postihnutím v štyroch krajinách Európy od autora Buchnera (2014) sa
+poukázalo na veľký význam zapojenia rodičov do vzdelávania pre uľahčenie akademických
+výsledkov, ako aj pokroku v školskom prostredí. Podobné zistenia boli hlásené v súvislosti
+s ADHD. V štúdii Wienera a Danielsa (2016) dospievajúci opísali, ako ich rodičia v škole
+obhajovali, pomáhali riešiť konflikty a vyjednávali o prístupe k vhodným službám.
+Rodičovské vedenie a vytrvalosť sa tiež ukázali ako rozhodujúce pre mladých dospelých s
+ADHD, aby mali prístup k vhodným podporným službám (Dunne, Moore 2011).
+Pri liečbe poruchy pozornosti/hyperaktivity dospelých sa vo všeobecnosti odporúča
+psychoedukácia (ADHD), ale len málo štúdií systematicky hodnotilo účinky štruktúrovanej
+klinickej psychoedukácie. Navyše, hoci existuje značný počet psychoedukačných mobilných
+aplikácií, žiadna z nich neposkytla vedecké dôkazy o ich účinnosti alebo bezpečnosti. Preto
+jedna štúdia skúmala novo vyvinutú, bezplatne použiteľnú psychoedukačnú aplikáciu pre
+28
+
+dospelých s ADHD ako podporu klinickej psychoedukačnej skupiny. Na účasť v štúdii bolo
+kontaktovaných 236 dospelých s ADHD, z ktorých nakoniec bolo 60 participantov
+zaradených do skupiny, ktorá bola podporovaná aplikáciou pre smartfóny (n = 30) alebo
+prostredníctvom tradičnej brožúry s perom a papierom (n = 30). Psychoedukačné liečby sa
+uskutočňovali v skupinách po 10 a 8 týždenných jednohodinových sedení medzi marcom
+2019 a novembrom 2020. Závažnosť symptómov ADHD hodnotená pozorovateľom bola
+skúmaná ako primárny výsledný parameter pred a po liečbe. Najmä psychoedukácia
+pomocou smartfónu bola výrazne účinnejšia pri zlepšovaní nepozornosti a impulzivity a
+viedla ku kvalitnejšiemu vzdelávavaniu v porovnaní s brožúrou asistovanej psychoedukácie.
+
+2.3 Liečebné programy u dospelého s poruchou pozornosti
+Porucha pozornosti/hyperaktivity (ADHD) je vývinová porucha charakterizovaná
+nepozornosťou, hyperaktivitou a impulzívnosťou. ADHD má prevalenciu 5 % v detstve a
+dospievaní a u najmenej 75 % postihnutých je diagnostikovaná komorbidná porucha
+(Banaschewski, 2017). S odhadovaným pretrvávaním do dospelosti 40 % až 50 %, ADHD
+spôsobuje značné individuálne utrpenie a značnú dlhodobú zdravotnú ekonomickú záťaž pre
+spoločnosť (Able, 2007; Capusan, 2019). Na terapiu ADHD dospelých sa odporúčajú
+usmernenia zamerané na farmakologický prístup ako liečbu prvej línie. Vhodná je
+kognitívno-behaviorálna terapia aplikovaná v miernej závažnosti a v ťažších prípadoch v
+kombinácii s farmakoterapiou. Navyše, bez ohľadu na závažnosť symptómov, odporúča sa
+komplexná psychoedukácia. Základom psychoedukácie je poučiť o priebehu poruchy, o jej
+príčinách a faktoroch, o možnostiach liečby a tiež sa zamerať na individuálne silné stránky
+dospelého s ADHD. Veľmi málo štúdií skúmalo účinky terapie a liečby u dospelých
+s ADHD. (Montoya, 2011; Powell, 2022; Vaag, 2019). V dôsledku toho, European Network
+Adult ADHD považuje psychoedukáciu za efektívnu, ale zároveň zdôrazňuje potrebu
+ďalšieho rozvoja psychoedukačných programov (Kooij, 2010; Kooij, 2019).
+Veľmi málo psychoedukačných programov bolo navrhnutých pre dospelých
+s ADHD. Tieto programy zahŕňajú 8 až 12 týždňové skupinové sedenia a nejakú formu
+domácich úloh. Domáca úloha bola určená na podporu zapamätania obsahu, pričom
+poskytovala príležitosť implementovať naučené stratégie v každodennom živote. Zameralo
+sa aj na vzdelávacie prostredie, nakoľko u dospelých jednotlivcov s ADHD, ťažkosti
+súvisiace s poruchou, ako je nepozornosť a roztržitosť, sa môžu zhoršiť v skupinovom
+prostredí (Rogers, Tannock, 2018).
+
+29
+
+Vo výskume bolo identifikovaných viacero faktorov, že prispievajú k nesúladu, ako
+je nedostatok motivácie v rámci negatívnych emócií, nedostatočné pokyny a úsilie spojené
+s domácimi úlohami prostredníctvom pera a papiera (Tang, Kreindler, 2017). V dôsledku
+toho autori odporúčajú implementovať mobilné aplikácie s funkciami špecifickými pre
+populáciu podporovať učenie a vyžadovať dokončenie úloh.
+V štúdii od Selaskowskeho (2022) bol skúmaný potenciál psychoedukácie pomocou
+smartfónu pre dospelých s ADHD. Autor vzal do úvahy špecifické požiadavky na používanie
+moderných
+
+smartfónov
+
+a
+
+vzdelávacích
+
+potrieb
+
+pacientov
+
+s
+
+ADHD
+
+a vyvinul
+
+psychoedukačnú aplikáciu založenú na predtým overenej príručke. Do štúdie zaradil 60
+dospelých pacientov s ADHD a zisťoval, či skupinová psychoedukácia pomocou smartfónu
+alebo brožúry dosahuje vyššiu terapeutickú účinnosť. Závažnosť symptómov ADHD bola
+považovaná za výslednú mieru a bola hodnotená pred aj po doliečení po 8 týždňových
+psychoedukačných sedeniach. Aby boli participanti spôsobilí na štúdium, účastníci museli
+splniť diagnostické kritériá DSM-5 ADHD podľa hodnotenia Integrovanej diagnózy ADHD
+v dospelosti. Účastníci boli vo veku od 18 rokov 65 rokov, dostatočne rozumeli nemeckému
+jazyku a mali prístup k smartfónu s OS Android. Účasť na výskume bola dobrovoľná a
+účastníci za to nedostali žiadnu peňažnú kompenzáciu. Štúdiu schválila miestna lekárska
+etická komisia Univerzity v Bonne (číslo protokolu: 232/18) a písomne informovaný súhlas
+bol získaný od všetkých účastníkov. Zo 60 pôvodne zahrnutých pacientov 17 zo štúdie
+predčasne vypadlo a ich výsledky neboli zohľadnené pre danú analýzu. Získali kompletné
+primárne výstupné údaje u zostávajúcich 43 účastníkov. V danej štúdií sa skúmalo, či
+skupinová psychoedukácia pre dospelých s ADHD je účinnejšia pri znižovaní príznakov
+ADHD, keď podporované účelovo navrhnutou aplikáciou pre smartfóny alebo tradičným
+papierom a brožúrou. Analýza 43 účastníkov, ktorí dokončili záverečné hodnotenia, odhalila
+značné zníženie symptómov ADHD intervenčných skupín s niektorými obzvlášť výraznými
+zlepšeniami súvisiacimi s používaním aplikácie smartfónu. Teda pacienti, ktorí dostali svoje
+pracovné materiály cez aplikáciu pre smartfóny vykazovali výraznejšie zlepšenia ako
+pacienti, ktorí dostali rovnaké pracovné materiály prostredníctvom pero-papierových brožúr.
+Toto naznačuje, že používanie digitálnych zdravotníckych aplikácií pre ADHD je sľubné a
+môže uľahčiť každodenný prenos vzdelávacieho sprostredkovaného obsahu a v skupinovej
+psychoedukácii. Najmä sme si ponechali pracovné materiály a zaradil domácu úlohu takmer
+identickú v oboch zásahoch a zdržal sa z implementácie doplnkových funkcií aplikácie. V
+dôsledku toho skupina rozdiely najpravdepodobnejšie vyplývajú z typu použitého média
+30
+
+(založené na aplikácii vs. založené na brožúre). Zatiaľ čo interakcia s informáciami založená
+na aplikácii pravdepodobne ponúka väčšiu flexibilitu a tým umožňuje posilnenú interakciu
+s psychoedukačným obsahom, ďalej sú potrebné štúdie zahŕňajúce podrobné sledovanie
+správania používateľov určiť presné príčiny. Taktiež štúdia naznačila rozdiely v účinkoch
+multimodálnej liečby a málo štúdií uvádza hlavné symptómovo-špecifické výsledky pre
+dospelých s ADHD. (Selaskowski, 2022)
+
+31
+
+3 ORGANIZÁCIA VÝSKUMU
+V tejto kapitole si uvedieme organizáciu výskumu, výskumný problém, cieľ
+výskumu, metódu výskumu, ako aj priebeh výskumu.
+
+3.1 Výskumný problém
+Výskumným problémom je zistenie, aké majú skúsenosti učitelia s poruchou
+pozornosti počas výkonu ich učiteľského povolania, pretože daná problematika je málo
+preskúmaná. Budeme sa snažiť zistiť o učiteľoch s poruchou pozornosti viac s dôrazom na
+dôležité životné míľniky ako je napr. školská dochádzka, štúdium, dospievanie, voľba
+povolania a ich pracovné uplatnenie, vzťahy s rovesníkmi, nadväzovanie partnerských
+vzťahov a partnerský život. Z toho dôvodu sme zisťovali aj život, rodinu, sociálne väzby
+učiteľov s poruchou pozornosti, pretože sme toho názoru, že ich škola, rodina, aj priatelia
+formovali k tomu, aby sa stali učiteľmi a je dôležité vedieť, aké mali skúsenosti s poruchou
+pozornosti aj počas života.
+
+3.2 Cieľ výskumu a výskumné otázky
+Cieľom záverečnej práce je odhaliť vnímanie porúch pozornosti u osôb, ktoré
+zastávajú učiteľskú pozíciu a zároveň im tento typ poruchy bol v minulosti diagnostikovaný.
+Práca sa zaujíma o vplyv vlastných skúseností na vykonávanie učiteľského povolania.
+Čiastkovým cieľom je zmapovanie porúch pozornosti u učiteľov primárneho vzdelávania.
+Formulácia výskumných otázok
+Výskumné
+
+otázky
+
+sa
+
+zameriavajú
+
+na
+
+subjektívne
+
+vnímanie
+
+potenciálne
+
+problematických oblastí pre dospelých učiteľov s poruchou pozornosti, či vnímajú negatívny
+vplyv ich poruchy na ich život.
+1. Ako dospelí učitelia s poruchou pozornosti vnímajú svoju prácu, voľbu povolania a
+vzťahy so žiakmi?
+2.
+
+Aké oblasti v živote vnímajú participanti, že boli nejako (negatívne) ovplyvnené
+poruchou pozornosti?
+
+3. Aký vplyv má porucha pozornosti na učiteľskú prácu u participantov?
+
+3.3 Metódy výskumu
+Na splnenie nášho výskumného cieľa a zodpovedanie stanovených otázok sme zvolili
+kvalitatívne orientovaný výskumný dizajn. Švaríček a Šeďová (2007) definujú kvalitatívny
+prístup ako „proces skúmania javov a problémov v autentickom prostredí s cieľom získať
+32
+
+komplexný obraz týchto javov založený na hlbokých dátach a špecifickom vzťahu medzi
+bádateľom a účastníkom výskumu. Zámerom výskumníka vykonávajúceho kvalitatívny
+výskum je za pomoci celého radu postupov a metód odhaliť a reprezentovať to, ako ľudia
+chápu, prežívajú a vytvárajú sociálnu realitu.“
+Ako výskumný dizajn sme použili prípadovú štúdiu. To je výskumný design vhodný
+pre náš výskumný zámer/cieľ obsiahnuť čo najviac aspektov života učiteľov s poruchou
+pozornosti.
+Sedláček (in Švaríček, Šeďová, 2014, s. 108) totiž opisuje, že jeden z možných
+smerov v analýze dát prípadovej štúdie je „vyložiť, poprípade vysvetliť všetky aspekty
+prípadu, hľadajú sa príčiny javov a ich následky, prípad je analyzovaný aj vo vývojovej
+podobe, tzn. ako sa premieňa v čase a pod.” Ďalší dôvod, prečo bolo vhodné použiť
+prípadové štúdie je to, že je porucha pozornosti a ADHD zložitá a komplexná diagnóza a
+Sedláček (in Švaríček, Šeďová, 2014, s. 98) uvádzajú, že „prípadová štúdia je tradične
+považovaná za možný spôsob porozumenia zložitým sociálnym javom.“ Tým porucha
+pozornosti a ADHD určite je.
+O tom, ako pristupovať k analýze dát v prípadovej štúdii píše mnoho autorov. Máme
+za to, že píšu takmer o tom istom, ale každý to „hovorí“ trochu inak. Podľa Milesa a
+Hubermana (in Švaříček, Šeďová, 2014) ide v analýze dát prípadovej štúdie o tradičnú
+kvalitatívnu kategorizáciu. Systematickým pozorovaním a hľadaním pravidelností sú dáta
+členené do systému kategórií, kedy je dôraz kladený na grafické znázorňovanie a vytváranie
+vzťahových sietí prípadu. Rovnaký systém popisuje Miovský (2006) v rámci tzv. obsahovej
+analýzy, kedy po zhromaždení údajov nasleduje ich triedenie. Potom nasleduje formulácia
+základných jednotiek a tvorba systému kategórií, ku ktorým sa tiež vytvárajú príslušné kódy.
+Taký systém, kedy sú kategórie vytvorené až v priebehu analýzy, nazývame deskriptívny
+systém. Miovský (2006) tento systém opisuje tak, že sa pri ňom výskumník, ako to len ide,
+opiera o samotný materiál. Kategórie sú v tomto prístupe skôr poznámkami k textu, ktoré
+slúžia na identifikáciu príslušných častí textu.
+My sme k samotnej analýze získaných dát použili systém, ktorý vychádza zo
+všetkých spomínaných možností. Môžeme si to dovoliť práve preto, že výskumný formát
+prípadovej štúdie nemá vyvinuté čisto špecifické analytické procedúry. Sedláček ( in
+Švaříček, Šeďová, 2014) ďalej uvádza, že je tak každá štúdia ojedinelá svojim analytickým
+a interpretatívnym spôsobom. Pred začiatkom analýzy sme si prepísaný text dali v textovom
+33
+
+dokumente v tabuľke do jedného stĺpca, tak aby sme mali text viac zúžený a mohli mať o
+ňom väčší prehľad a do druhého stĺpca sme si zapisovali poznámky k textu. Potom sme v
+texte hľadali vyjadrenia, oznámenia, ktoré svojim obsahom boli zaujímavé, podnetné, ktoré
+boli zahrnuté do danej kategórie a vypisovali si ich do druhého stĺpca. Tiež sme hľadali
+medzi zvolenými jednotkami nejaké spojitosti, spoločné témy a začínali sme tvoriť prvé
+kategórie.
+
+3.4 Výskumná vzorka
+Cieľovou skupinou sú piati učitelia s poruchou pozornosti s vekovou hranicou 28-45
+rokov, ktorí mali klasické symptómy poruchy pozornosti, boli diagnostikovaní a sú učiteľmi
+v primárnom vzdelávaní. Dôvodom výberu tejto vekovej skupiny bol predovšetkým fakt, že
+dokážu retrospektívne nahliadnuť do svojho detstva a spomenúť si na pocity a situácie, ktoré
+zažívali ohľadom danej poruchy. Tiež je to obdobie, kedy sa participanti musia stretávať s
+veľkými zmenami, ako je ukončenie strednej školy, prechod na vysokoškolské štúdium
+alebo začiatok pracovného pedagogického života. A pretože jedinci s poruchami pozornosti
+horšie reagujú na zmeny a nové prostredie, prišlo nám zaujímavé zahrnúť do výskumu ich
+skúsenosti nielen v detstve, ale aj v ich dospelosti a v práci. Participantov sme neuvádzali
+menami, ale uviedli sme ich pod označeniami P1-P5.
+Tabuľka č. 1: Participanti výskumu
+Poradie
+
+Označenie
+
+Pohlavie
+
+Vek
+
+Participant č. 1
+
+P1
+
+Muž
+
+30
+
+Participant č.2
+
+P2
+
+Žena
+
+28
+
+Participant č. 3
+
+P3
+
+Žena
+
+39
+
+Participant č. 4
+
+P4
+
+Žena
+
+41
+
+Participant č. 5
+
+P5
+
+Žena
+
+44
+
+Zdroj: Vlastné spracovanie
+Výskumný súbor tvoria piati participanti – jeden muž a štyri ženy. Dvaja participanti
+sú slobodní a bezdetní. Tri participantky sú vydaté a majú aj deti. Momentálne sú všetci
+zamestnaní ako učitelia na prvom stupni základných škôl.
+
+3.5 Realizácia výskumu
+Pri výbere participantov bola vzhľadom k dizajnu výskumu aj cieľovej skupine
+využitá nepravdepodobnosť metód výberu. Konkrétne sa jednalo kombináciu účelového
+
+34
+
+výberu a samovýberu. Účelový výber je typ výberu, v ktorom zámerne vyhľadávame
+participantov, ktorí spĺňajú určité charakteristiky – v tomto prípade dospelých učiteľov
+s poruchou pozornosti. Samovýber je založený na princípe dobrovoľnosti – kto sa prihlási
+(Miovský, 2006).
+Na začiatku výskumu bolo v pláne urobiť rozhovor s piatimi participantmi. Po
+prvotných neúspechoch mať piatich participantoch, sme mali vytvorené prípadové štúdie iba
+s troma participantmi. Následne sme našli ešte ďalšie dve participantky ochotné zapojiť do
+výskumu.
+K cieľovej skupine participantov sme sa dostali cez skupinu na internete, ktorá je
+tematicky zameraná poruchy pozornosti a na ADHD v dospelosti (účelový výber). V tejto
+skupine bol zverejnená žiadosť, ktorá uvádzala možnosť zúčastniť sa pohovoru v rámci
+kvalitatívneho výskumu (samovýber). Na inzerát zareagovali nakoniec 5 ľudia.
+
+3.6 Spôsoby spracovania, analýzy a vyhodnocovania údajov
+Jeden rozhovor sme viedli osobnou formou a ostatné štyri rozhovory online formou.
+Participantov sme sa opýtali na to, či môžeme použiť ich údaje do tejto záverečnej práce
+a zaručili sme im anonymitu. Podľa Hendla (2005, s. 50) „analýza dát a ich zber prebiehajú
+súčasne – výskumník zbiera dáta, vykoná ich analýzu a podľa výsledkov sa rozhodne, ktoré
+dáta potrebuje a začne znova sa zberom dát a ich analýzou.“ Rozhovor sme si priamo
+zapisovali do notebooku a následne sme dáta analyzovali pomocou kódovania, aby sme
+došli k správnym záverom a vytvorením zodpovedajúcich kategórií.
+
+3.7 Etické otázky výskumu
+V rámci rozhovorov sa participanti môžu dotknúť aj citlivých a osobných tém.
+Participanti nemusia odpovedať na otázky, pokiaľ im to nie je komfortné a môžu rozhovor
+kedykoľvek ukončiť. O tejto skutočnosti boli informovaní. V texte práce je zachovaná
+anonymita participantov – ich identita je upravená tak, aby neboli pre čitateľov textu
+rozpoznateľní.
+
+35
+
+4 VÝSLEDKY PRÁCE
+Táto kapitola sa zaoberá výsledkami výskumu a interpretáciou dát, ktoré sme získali
+od participantov. Výsledky a dáta sme rozdelili do nasledujúcich kategórií.
+V nasledujúcej časti sa pokúsime načrtnúť príbehy jednotlivých participantov. Ich
+výpovede sú zároveň čiastočnými odpoveďami na stanovené výskumné otázky. Súhrnnú
+interpretáciu všetkých rozhovorov uvádzame v Diskusii.
+
+4.1 Interpretácia dát
+Participant č. 1 (P1)
+Participant č. 1 má 30 rokov a je učiteľom na základnej škole. Participant nemal
+problém s prácou, naopak normy spĺňal - kvôli svojej hyperaktivite potreboval stále nejakú
+výzvu a nejaký pohyb, nejakú kreativitu. Na roky štúdia na strednej škole nemá dobré
+spomienky, pretože bol outsider. Participant žije s priateľkou, ktorá ho nedávno prinútila k
+tomu, aby začal riešiť svoje problémy a vyhľadal lekára. Participant to komentoval slovami:
+„… mala tri teórie, že buď som autista alebo mám ADHD alebo proste nejakú inú poruchu.“
+Vďaka diagnóze konečne začal rozumieť, čo sa mu v živote deje. Medzi jeho koníčky patrí
+hlavne hudba, hovorí, že mu stále hrá niečo v hlave. A potom rôzne športy - futbal, hokej,
+basketbal a najmä adrenalínová jazda na bicykli.
+Ťažkosti a prejavy
+U participanta sa ADHD prejavuje hlavne hyperaktivitou a impulzivitou. V škole
+impulzívne vykrikoval a vyrušoval pri vyučovaní. Dlho mal tiež problém na rôzne veci
+reagovať s chladnou hlavou. Hovorí, že na jeho problémy má veľký vplyv únava. Čím viac
+je unavený, tým viac je impulzívny. Keď ide ráno do práce nevyspatý, vie, že to nebude
+dobré. Zároveň je tiež rýchlo unaviteľný, keď sa musí dlhšie sústrediť alebo reagovať na
+väčšie množstvo podnetov, impulzivita u neho rýchlo narastá. Na druhú stranu hovorí, že
+problém je, aj keď sa veľmi vyspí a je dostatočne oddýchnutý. V takom prípade má nadbytok
+energie a v práci si to „vybíja“ športovými aktivitami so žiakmi. Keď má voľný čas
+a nadbytok energie, tak začne vymýšľať rôzne drobné zlomyseľnosti, ktoré okolie neberie
+vždy dobre a s humorom. „Skôr vymýšľam blbosti... Tým, že si vyspaný a tak tá hyperaktivita
+sa tam jednoducho prejavuje. Rád si strieľam zo známych, ale oni to neberú vždy
+s humorom.“ Keď je unavený, striedajú sa mu nálady, objavujú sa u neho aj náladové
+prepady a pocity straty zmyslu života. Participant tiež spomína, že máva pocity viny a
+36
+
+výčitky za najrôznejšie veci, za ktoré často ani reálne nemôže: „ja som veľmi citlivý človek,
+veľmi ťažko prežívam niektoré životné udalosti.“
+Hyperaktivita pre neho nie je len zdroj ťažkostí, ale je aj silným hnacím motorom. V
+práci má potrebu prekonávať samého seba a dávať si čím ďalej vyššie méty. Musí si však
+dávať pozor v práci na svoju impulzivitu.
+Sociálne vzťahy
+Participant veľmi tematizuje potrebu kolektívu ľudí čo mu sadnú. Ak je v kolektíve,
+ktorý mu nevyhovuje, má problém sa prejaviť a je vo vnútornej tenzii. Nie vždy taký kolektív
+však nachádzal. Na strednej škole si nenašiel žiadneho kamaráta a bol tam v úplnej sociálnej
+izolácii. O tom ako to tam zvládal, hovorí: „riešil som to tak, že som jednoducho došiel
+domov, kde som mal kamarátov a bavil som sa s nimi. Do tej školy som šiel iba prežívať.“
+Ani v zamestnaní nemá veľkú obľubu u kolegov. Avšak naučil sa s tým nejako žiť a veľmi
+to nerieši. Participant tiež spomína, že sa často stretával s nepochopením a nepriateľskými
+či odmietavými postojmi: „…od školy, od základnej, strednej, vysokej, proste všade kde som
+bol, tak to tam bolo, jednoducho niečo, aspoň jeden človek, ktorý spomínal tieto veci, za
+ktoré jednoducho nemôžem, lebo som človek čo má ADHD.“ Participant tiež hovorí o
+potrebe preberania hlbších tém, pre ktoré potrebuje ľudí, s ktorými si naozaj sadne. „Proste
+si s nimi nemám čo povedať. Dobre, môžem sa pobaviť o tom čo bude niekto robiť cez víkend,
+ale nikdy to nezájde na nejaké hlbšie témy. A tieto témy potrebujem jednoducho riešiť s
+ľuďmi, nie len nejaké povrchné veci, jednoducho ako kam pôjdem v piatok večer na pivo,
+alebo tak to ma nebaví.“
+V súčasnej práci má jedného „skvelého“ kolegu, ktorý ho tam drží, je to pre neho
+dôležitejšie ako samotná náplň práce. Je to učiteľ telesnej výchovy a sú spolu v kabinete.
+„Ako fakt si musím hľadať ľudí, u ktorých cítim, že sú na nejakej podobnej vlne. Tým
+nemyslím, že musí mať ADHD, ale jednoducho podobný humor a záľuby.“
+Participant vidí podobnosti medzi ADHD a autizmom, zároveň o sebe hovorí, že je
+v niektorých veciach trochu ako autista: „pretože som taký autista trošku v niečom si
+myslím.“
+Detstvo a rodina
+Participant vyrastal sám s mamou, otca nikdy nespoznal, je jedináčik. Často sa o neho
+starali a vychovávali ho starí rodičia. Mal vraj takú striedavú starostlivosť – pendloval medzi
+37
+
+mamou a starými rodičmi. A tiež opisuje, že jeho mama nebola „úplne pokojný typ“ a že sa
+u nej prejavovala impulzivita. Na poznámku, že ADHD je často dedičné, participant reaguje,
+že si to nemyslí, aj keď bola jeho mama impulzívna.
+Kvôli výchovným problémom v škole a poznámkam čo nosil skoro každý deň mal
+participant problémy aj doma. Často sa dostával s mamou do konfliktu. „ jednoducho matka
+to brala veľmi ťažko, pretože samozrejme je to starší ročník a nevedela vôbec, čo to ADHD
+je. Tiež žila napríklad v tom, že je to nejaký novodobý výmysel skôr, aby tým nejako
+ospravedlňovali hyperaktívne deti. A skutočne som nebol veľmi dobrý, nosil som poznámky
+a mama mi stále povedala, aby som sedel na hodinách kľudne, nevyrušoval, neupozorňoval
+na seba. Avšak to nešlo v daný moment tak, ako si to ona predstavovala.“
+Škola
+Participant hovorí, že na základnej škole mal celkom dobré známky, ale bol
+nezvládnuteľným dieťaťom. Neustále na seba na hodine strhával pozornosť a niečo
+vykrikoval. Učitelia si s ním veľmi nevedeli dať rady a nedokázali ho usmerniť a pokiaľ
+vycítil, že si učiteľ nedokáže určiť hranice, tak ešte „pritlačil na pílu.“ „Raz nám zmenili
+triednu a ona bola taká jednoducho, že si všetko nechala páčiť a ja som to cítil a tá
+impulzivita bola väčšia. Tým viac som vykrikoval a vyrušoval a robil také veci. Ako pretože
+som si to k nej mohol viac dovoliť a ona to jednoducho sama nezvládala. Celkovo tú triedu
+nezvládala a ja som tam bol jeden z hlavných spúšťačov toho bordelu. Tak ona ma
+jednoducho poslala na vyšetrenie.“ Pre problémové správanie bol aj odoslaný na vyšetrenie
+do pedagogicko-psychologickej poradne. Participant má podozrenie, že tam bol vtedy
+pozitívny nález, ale podľa jeho slov mu to matka zrejme zatajila. Takže sa nijako neliečil a
+s jeho problémami sa nepracovalo. Hovorí, že v triede bol za šaška, na všetko impulzívne
+reagoval a snažil sa pobaviť triedu. Imidž triedneho šaška mu v tej dobe pripadala „cool“,
+ale spätne už si to tak veľmi nemyslí. „Proste vždy som musel vykríknuť niečo, skočiť do
+reči, jednoducho prejaviť sa nejako. A to vlastne bol paradox taký, že na tom vyšetrení
+povedala tá doktorka, že niečo tam je, ale ADHD to asi nebude, že som jednoducho taký
+triedny šašo.“
+Participantove problémy škola riešila teda hlavne pomocou disciplinárnych opatrení
+– neustále nosil domov poznámky a každý polrok dostával pokarhanie, čo vyvolávalo
+konflikty a napätie doma. „Matka s tým nebola nikdy v pohode, ale jednoducho to nešlo.
+Mohla ma ja neviem, čokoľvek urobiť, ale aj tak to nešlo… ten mozog zmeniť. V tej dobe som
+38
+
+si neuvedomoval, že to ADHD mám. Jednoducho to prichádzalo samo... Ako ten mozog tak
+reagoval, jednoducho nešlo to zmeniť.“ Participantova pozícia v kolektíve sa zmenila po
+nástupe na strednú školu. Prišiel na školu do iného mesta, kde nikoho nepoznal. Ostatní
+spolužiaci z ročníka sa poznali zo základných škôl a každý tam mal nejakých kamarátov. Do
+novej triedy nezapadol a stal sa z neho outsider. Stretol sa tu aj so šikanovaním. Participant
+opisuje, že mal strach sa prejaviť a byť sám sebou, práve pretože tu nikoho nepoznal, čo
+pozíciu outsidera ešte posilňovalo. Strednú školu nejako pretrpel a hovorí o tom: „boli to asi
+najhoršie štyri roky môjho života by som povedal, nechcel by som to vrátiť za žiadnu cenu.“
+Práca učiteľa s poruchou pozornosti
+Participant nevedel, ktorý smer si má vybrať na vysokoškolské štúdium. Má
+vyštudovanú vysokú školu a to Pedagogickú fakultu Univerzity Komenského a hneď po
+škole sa zamestnal na základnej škole. Prvotne chcel byť učiteľom telesnej výchovy, ale
+nakoniec sa rozhodol pri primárne vzdelávanie. Spočiatku sa nevedel zaradiť do kolektívu
+spolukolegov, ale medzi žiakov sa zaradiť vedel hneď. Aj z toho dôvodu sa rozhodol
+študovať danú školu, aby mohol pomôcť podobnému žiakovi, ako bol on sám v minulosti.
+A nemal „šťastie“ na empatického učiteľa alebo učiteľku. Preto on chce byť takým učiteľom.
+To ho namotivovalo, aby zabral. Bral to ako výzvu a chcel ostatným dokázať, že to zvládne
+a bude lepší ako oni. V práci má jedného kolegu, s ktorým si skvele rozumie a to ho tam
+drží. V práci mu tiež veľmi pomohla medikácia. Od tej doby, čo užíva lieky sa mu zlepšila
+koncentrácia a robí oveľa menej chýb. Participant uvádza, že ho baví aj kreatívna práca, kde
+by môže so žiakmi niečo vytvárať.
+Zisťovali sme od participanta, čo je pre neho najťažšie pri práci učiteľa. „Pre mňa
+práca ako učiteľa je najťažšia v tom, že niekedy nemyslím na svoj rukopis, gramatiku,
+interpunkciu a obsah súčasne. Namiesto toho musím najprv urobiť cvičenie, kde „dostanem“
+všetky svoje nápady z hlavy, aby som sa potom mohol lepšie sústrediť.“ Ďalej dodáva:
+„podľa mojich skúseností sa často nestretávame s učiteľmi, ktorí hovoria, že majú ADHD –
+a existuje podľa mňa aj mnoho ďalších učiteľov, ktorí zostávajú nediagnostikovaní. Ja keď
+som to povedal riaditeľke tak, mi povedala, že si to stále myslela, pretože to bolo
+nepopierateľné. Moja úroveň energie a nadšenia je extrémne vysoká – som všetko alebo nič
+a musím zo seba vydať všetko, čo môže byť dosť vyčerpávajúce. Riaditeľka ma naučila, že
+mi pomáha zvládať to a riadiť sa tempom, aby som sa nevyčerpal, ale milujem to, čo robím,
+a ak by som to nerobil, nedokázal by som to robiť.“
+
+39
+
+Participant č. 2 (P2)
+Participantka P2 má 28 rokov a pracuje ako učiteľka na základnej škole 3 roky.
+Momentálne je triedna učiteľka druhákov. Problémy začala pociťovať od strednej školy prestávala stíhať tempo výučby, potrebovala na všetko oveľa viac času ako jej spolužiaci,
+mala problém si štúdium nejako zorganizovať a zabúdala. To sa negatívne podpisovalo na
+jej sebavedomí. Všetko sa ešte zhoršilo s nástupom na vysokú školu. Hoci sa participantka
+naozaj snažila, zapisovala si napríklad viac voliteľných predmetov, ako musela, zapájala sa
+do mimoštudijných aktivít, dohovárala si praxe, školu takmer nedokončila a to preto, že sa
+mesiac pred štátnicami psychicky zrútila. Avšak nakoniec ju dokončila s veľkým
+sebazaprením.
+Participantka má priateľa a spolu bývajú. Má rada aktívny životný štýl - jazdí na
+bicykli, lozí po skalách, predtým hrala aj na flautu, respektíve musela hrať a neznášala to.
+Vo voľnom čase sa tiež snaží vzdelávať vo svojom odbore.
+Ťažkosti a prejavy
+Poruchy pozornosti a ADHD sa u participantky prejavuje hlavne nepozornosťou,
+podľa jej lekára sa jedná o prevažne nepozorný typ ADHD. Participantka to tak sama cíti,
+zároveň ale dodáva „že nejaká zložka hyperaktivity tam možno je“ – nevydrží v kľude sedieť,
+pohráva sa z rôznymi predmetmi alebo do niečoho klope a to občas vytáča kolegov v práci.
+Najväčšie ťažkosti jej pôsobí práve nepozornosť, ktorá pravdepodobne negatívne
+ovplyvňuje pamäť. Na tú si participantka najviac sťažuje, hovorí, že má problémy s
+krátkodobou aj dlhodobou pamäťou. Zabúda nielen veci spojené s každodenným
+fungovaním ako rôzne stretnutia, pokiaľ si ich nedá do poznámok, ale miznú jej aj
+spomienky na udalosti v jej živote: „To ma na tom asi najviac štve na tom všetkom, že si nie
+som vôbec schopná zapamätať ako rozhovory s ľuďmi, čo mi hovoria alebo že sme sa vôbec
+jednoducho bavili. Fakt mám pocit, že jednoducho po 14 dňoch, čo niekoho stretnem alebo
+niečo prebehne, tak sa mi to jednoducho všetko vymaže...“Tiež má pocit, že tým občas
+vytáča svojho priateľa a ich vzťah vďaka tomu trpí: „nepamätám si niektoré veci, napríklad
+čo sa ako medzi nami stali alebo nejaké spomienky z dovoleniek a tak.“ Na druhej strane
+dodáva, že zabúda „banálne“ veci, ale učivo dokáže pre žiakov odprezentovať bez
+problémov, takže je za to rada.
+Participantka uvádza, že trpela ľahkými depresiami, ktoré sa jej rozvinuli v súvislosti
+s problémami pri štúdiu, kvôli nim sa často stránila kolektívu, pretože nemala náladu sa s
+40
+
+niekým baviť. Odbornú pomoc v tomto ohľade nikdy nevyhľadala. V súčasnosti už
+depresívne nálady nevníma ako toľko zaťažujúce. Od participantky tiež zaznieva, že ostatní
+ľudia majú horšie problémy ako ona a má pocit, že by všetko mala zvládnuť sama.
+Detstvo a rodina
+Participantka vyrástla na dedine v úplnej rodine. Popisuje, že mala normálne šťastné
+detstvo a nemá pocit, že by sa od ostatných detí v tom čase nejako odlišovala. Má staršiu
+sestru, s ktorou mala počas detstva a dospievania zlé vzťahy. Tomu napomáhalo aj to, že
+sestru často dostávala za vzor a bola s ňou porovnávaná. V súčasnosti je už rivalita
+zabudnutá, so sestrou má dobrý vzťah a vníma ju naopak ako veľkú oporu. Vzťahy s rodičmi
+popisuje ako dobré, hovorí, že má skvelých rodičov, zároveň ich však nechce sklamať a má
+pocit, že od nej majú vysoké očakávania a že ona by ich mala splniť. Celý život sa ich snaží
+uspokojovať, ale priznáva, že je to pre ňu vlastne veľmi náročné a dosť ju to vyčerpáva. „Ja
+som sa veľmi snažila kvôli rodičom.“ Čo u nej viedlo k veľkému tlaku na výkon a snahe za
+každú cenu doštudovať vysokú školu, aj keď sa štúdiom bojovala a spätne hodnotí, že na
+škole nebola nikdy šťastná. V širšej rodine sa necíti byť veľmi prijímaná a hovorí že je tu
+skôr za „čiernu ovcu“. Jej sesternice sú už vydaté, majú deti a vlastné bývanie. V rodine sa
+tiež veľmi nezapája do sociálnych interakcií a často radšej ani nehovorí.
+Sociálne vzťahy
+Participantka pôsobila veselo a spoločensky, napriek tomu priznáva, že sociálne
+vzťahy nie sú práve jej parketou. Hovorí, že má problém sa začleniť do nejakej sociálnej
+skupiny: „…príde mi, že nie som schopná sa nejako začleniť do nejakej skupiny ľudí, akože
+priateľov, že vlastne občas ma to trochu doháňa, že vlastne nikam nepatrím, ako že mám
+priateľov, tak ako v rôznych miestach, v rôznych sférach.“ Jej priatelia sa medzi sebou
+navzájom nepoznajú a sú z iných vrstiev a má pocit, že ich ani nemôže pozvať na spoločnú
+akciu. Zároveň to pôsobí, že sa skôr jedná o voľnejšie priateľské vzťahy ako o blízkych
+kamarátov, ktorí si na ňu dokážu urobiť čas: „takže občas keď mám nejakú takú sociálnejšiu
+náladu, tak ma mrzí, že vlastne nemôžem napísať kamošom nech idú na víno, na nejakú
+párty…“ Príčinu vidí v tom, že občas zabudne na sľúbenú schôdzku, dohodnutú akciu alebo
+na poslednú chvíľu odriekne svoju účasť, pretože práve nemá náladu sa s niekým stretávať
+a baviť. Tiež tam vníma tlak na to, že sa od nej očakáva, že sa bude správať nejakým
+spôsobom.
+
+41
+
+Od participantky často zaznieva, že nemôže byť sama sebou, pretože by ju za to
+okolie mohlo odsudzovať. Tiež má obavu hovoriť pred ľuďmi, najmä pred skupinou ľudí.
+Keď je v nejakej skupine, radšej mlčí a len počúva, než, aby sa sama do rozhovoru aktívne
+zapájala. Tieto obavy sa neobjavujú, keď je v spoločnosti známych alebo priateľov.
+Prípadne, keď je so svojimi žiakmi, vtedy obava jej nebráni rozprávať. Participantka si
+myslí, obava rozprávať vznikla počas skúšok na vysokej škole, kde zažívala intenzívne
+nepríjemné pocity. Neskôr zistila, že jej alkohol pomáha prekonať bariéry. Aj keď následne
+uvádza, že pije veľmi príležitostne, ale keď sa napije alkoholu, tak je veľmi extrovertná a
+spoločenská. Vtedy sa nebojí hovoriť, vtipkovať a baviť sa.
+Škola
+Najviac svoje problémy vnímala pri štúdiu, tu sa nepozornosť a zabúdanie naplno
+prejavili. Na základnej škole učivo zvládala a nevnímala žiadne ťažkosti, čo mohlo byť tým
+že: „tie hodiny boli krátke alebo akože jednoducho ten čas na tú koncentráciu bol
+obmedzený“. Ale po nástupe na strednú sa to začalo zhoršovať – „No, ako ja som tak od
+strednej pociťovala, že je so mnou ako niečo zle a potom vlastne na výške“. K tomu sa pridali
+problémy s organizáciou štúdia a potreba neúmerne veľkého množstva času na prípravu,
+ktorý však zároveň často nedokázala efektívne využívať. Participantkina staršia sestra bola
+v škole premiantkou, často s ňou bola porovnávaná a dostávala ju za vzor. To u nej mohlo
+vyvolať dojem, že, aby bola prijímaná musí byť v škole tiež úspešná. Zároveň pociťovala,
+že rodičia od nej majú vysoké očakávania. Keď začala mať problémy a prestala zvládať
+nároky štúdia, dávala si to za vinu, považovala to svoje zlyhanie a snažila sa to doháňať
+väčším úsilím. „Škola bola jednoducho celý môj život a ten titul jednoducho, ktorý som
+potrebovala získať, pretože som milovala deti a chcela som pracovať s nimi. A dala som do
+toho fakt všetko, tak som nemala ako čas vôbec na nič.“ Zároveň tu zaznieva že štúdium pre
+ňu bolo v určitej dobe aj koníčkom alebo to tak aspoň vtedy vnímala: „takže vtedy som ako
+považovala za hobby jednoducho to štúdium. Navyše ja som si napríklad naberala predmety
+navyše, aby som mala navrch na svojich spolužiakov. Ale neviem prečo som to robila, asi,
+aby som sebe niečo dokázala teraz ako spätne to vnímam. Ale nemalo to dlho trvanie, lebo
+som vyhorela.“ Tu sa môže prejavovať tendencia ľudí s poruchou pozornosti a s ADHD sa
+ľahko pre niečo nadchnúť a nechať sa tým úplne pohltiť (hyperfokus), ktorá sa však občas
+rýchlo vyčerpá. Rovnako tak túžba po ocenení, ktoré sa dostáva sestre za jej úspechy v škole,
+mohla zapríčiniť, že si participantka stotožnila školu s koníčkom, hoci v nej mala ťažkosti.
+Ambivalentný vzťah k škole dokresľuje prelínanie sa zápalu a úsilie s pocitmi rezignácie a
+42
+
+márnosti. „A v posledných ročníkoch na výške už to bolo také, že.... ako som ten život
+nezvládala, tak som to prestávala skrývať, pretože už som na to nemala silu a vlastne sa to
+tak ako stalo súčasťou mojej osobnosti, že jednoducho ma tí ľudia tam ako brali za takého
+ako flegmatického človeka.“ Dlhodobý nápor stresu v kombinácii s vynaloženým úsilím
+vyústil do toho, že sa participantka mesiac pred štátnicami psychicky zrútila.
+Práca
+Participantke sa vyskytla príležitosť na pracovnú pozíciu učiteľky na základnej škole.
+Je to jej prvá práca na plný úväzok po škole. Počas štúdia chodila na rôzne brigády, išlo
+hlavne o manuálnu prácu. Pracovala napríklad ako čašníčka v kaviarni a ako opatrovateľka
+vo viacerých rodinách. Oceňovala, že mala čistú hlavu a málo starostí. „Nemala som žiadnu
+zodpovednosť v podstate, okrem stráženia detí. Ale ja som to brala skôr za zábavu ako za
+prácu.“ Keď dokončila školu, pozerala sa po pracovných pozíciách nakoľko, že už mala
+vysokoškolský diplom, možno si ani toľko neverila, že by mohla nejakú kvalifikovanú prácu
+získať. „Áno, ja som v podstate, keď som si hľadala tú prácu, tak som si posielala životopisy
+na také manuálne práce, akože jednoducho v nejakých záhradníctvach alebo v kaviarni,
+pretože ako po prvé som vedela, že ma po škole nikde chcieť nebudú a za druhé jednoducho
+viem, že ako by ma to bavilo. Avšak som sa mýlila a zamestnala som sa v škole.“ O súčasnej
+práci hovorí, že ju baví a je rada, že dostala možnosť pracovať na základnej škole. Snaží sa
+viac vzdelávať, číta rôzne články, chodí na rôzne kurzy, aby si doplnila vzdelanie a rozšírila
+obzory. Nepokoj sa u nej prejavuje napríklad tým, že sa z niečím neustále hrá alebo do
+niečoho klope čím vytáča kolegov. Svoju prácu miluje, nevedela by si predstaviť, že by
+robila niečo iné.
+Ďalej sme zisťovali, ako sa vie sústrediť a skoncentrovať počas práce. „Napríklad
+celý deň otáčam perom, aby som sa mohla sústrediť na úlohy, ktoré mám pred sebou.“ Ďalej
+uvádza: „jednou z najzaujímavejších vecí na ADHD pre mňa bola moja schopnosť
+hyperkoncentrovať sa na úlohy. Keď sa to stane, venujem úlohe toľko energie, že často
+nepočujem, čo sa okolo mňa deje a určite sa nepozerám na hodiny. To často spôsobuje, že
+sa prepracujem. Keď sa musíte plne sústrediť a venovať úlohe, uistite sa, že sa dokážete
+uvoľniť a dať si prestávku.“
+
+43
+
+Participant č. 3 (P3)
+Participantka č. 3 má 39 rokov a je momentálne zamestnaná ako učiteľka na vybranej
+základnej škole. Takmer kvôli svojim vysokým nárokom, zhoršujúcim sa psychickým
+problémom a nakoniec aj strate záujmu o vybraný odbor a prehodnotenie životných priorít,
+tak skoro školu nedokončila. Participantka žije s manželom a so synom v rodinnom dome.
+Manžel pre ňu predstavuje vždy istotu a akýsi stabilizačný bod.
+ADHD jej bolo diagnostikované pred dvoma rokmi. Jej psychické problémy siahajú,
+ale až do doby, keď nastúpila na osemročné gymnázium. Výrazne sa potom prehĺbili po
+nástupe na vysokú školu. Tam poňala podozrenie, že by za tým všetkým mohla byť nejaká
+diagnóza a začala pátrať až sa dostala na stopu poruchy pozornosti a ADHD. Na potvrdenie
+z úst psychiatra si však ešte pár rokov počkala, pretože nemohla zohnať nikoho kto by ju
+diagnostikoval. Participantka má rada rôzne kreatívne činnosti, hrá divadlo a jazdí na koni,
+o koňoch hovorí, že sú jej celoživotná láska.
+Ťažkosti a prejavy
+Participantka má hlavne problémy hlavne s impulzivitou a nepozornosťou. Vďaka
+impulzivite má „dar“ hovoriť tie najmenej vhodné veci v tú najmenej vhodnú chvíľu, dôjde
+jej to väčšinou až vzápätí. Stáva sa jej tiež, že impulzivita vystupňuje natoľko, že pociťuje
+stratu kontroly nad svojím správaním, sama to pomenováva, že „nemá usmerňovanie“. Pocit
+straty kontroly sa objavuje keď je v spoločnosti alebo v stave nejakej excitácie: „hlavne sú
+pre mňa treba strašne veľa nejakým spôsobom ako exciting, vzrušujúce alebo niečo také
+nové kolektívy, takže zoznamovanie na vysokej a tak… Ja tam na sebe cítim, že nemám
+jednoducho hranice, že ono sa to niekam rúti a tá moja pusa niečo hovorí a ja niečo robím
+a síce si pri tom hovorím: Ježišmarjá, veď vyzeráš ako úplný idiot! Čo robíš!? A fakt by som
+sa strašne rada zastavila, ale jednoducho sa nezastavím, pretože to ako nedokážem.“
+Popisuje tiež že má problém udržať v pamäti viac vecí na raz: „…ako dve veci
+potrebujem niekam odniesť do vedľajšej miestnosti – iba do vedľajšej miestnosti a ja to v
+hlave neudržím, že tam tie veci nesiem, takže v momente, kedy potrebujem doniesť viac vecí
+a jednu z nich si dám do vrecka, no tak na tú tretiu úplne zabudnem…“ Ako ďalšie
+problematické miesto vníma upratovanie a udržiavanie domácnosti. „Vždy, keď bývalý
+priateľ odišiel na víkend preč a vrátil sa po tom víkendu, tak tam bol výbuch a ja som mala
+pri tom pocit, že som do kuchyne treba celú dobu nešla. Ale nejako sa to ako stalo.“ Popisuje,
+že má na tieto veci akúsi „slepotu“. V jej vizuálnom poli všetky objekty splývajú dohromady
+44
+
+a je v nich pre ňu ťažké vidieť či rozpoznať neporiadok, prípadne si vôbec jednotlivé objekty
+uložiť do pamäte: „Keď som sa učila, tak som čítala takú štúdiu a tam bolo popísané niekde
+vnímanie zraku a teraz tam bolo popísané to, že na sietnici sa nám tvorí taká tá farebná
+mozaika a až cez tie mechanizmy sa učíme ako rozlišovať jednotlivé predmety a tak mne sa
+to strašne prepojilo s tým, čo ja vidím v momente, kedy je niekde ako neporiadok, ja vidím
+jednoducho mozaiku! (smiech)“
+Participantka č. 3 popisovala svoje ťažkosti s humorom a veľkým nadhľadom, ale
+keď tým kedysi prechádzala, určite to veselé nebolo. Problémy začala prvýkrát vnímať po
+nástupe na osemročné gymnázium, kde nedokázala zapadnúť, hovorí že bola „úplný loser“.
+To sa rýchlo podpísalo na jej školských výsledkoch a známkach. A hlavne na sebavedomí.
+Pretrpela nejako celými ôsmimi rokmi gymnázia a bolo to pre ňu najhoršie obdobie jej
+života. Ako spôsob úľavy od stresu, ktorý tu zažívala si našla sebapoškodzovanie. To síce
+po čase zanechala kvôli priateľovi, ale po nástupe na vysokú školu, kde sa nápor stresu ešte
+zväčšil začala mať samovražedné myšlienky: „…ja neviem, napríklad v 12 alebo v 13 som
+začala s nejakým sebapoškodzovaním a vznikali vlastne tie zárodky tých vecí, ktoré potom
+na vysokej škole vlastne prešli až do nejakých tých samovražedných tendencií, no. Vznikli
+tak nejako v tej sekunde, tam to začalo vo mne bublať.“
+Sociálne vzťahy
+Participantka napriek tomu, že pôsobí tiež veľmi spoločensky a extrovertne, mávala
+problém zapadnúť do kolektívov a bývala skôr outsiderom. „ …pre väčšinu tých ľudí som
+zase bola jednoducho zvláštna a nechceli so mnou mať nič moc spoločného. A potom tam
+boli tak jedna, dve dievčatá vždy, ako s ktorými som sa naopak veľmi dobre cítila. Ale inak
+ako nové kolektívy pre mňa vždy boli ako problematické.“ Na vine je podľa nej jej
+impulzivita, kvôli ktorej na nej okolie obvykle pozerá cez prsty. Impulzivita jej vždy narastá,
+keď je v nejakom kolektíve, hlavne keď príde do nového kolektívu alebo novej situácie,
+stráca hranice a dostáva sa do stavu, v ktorom nie je veľa schopná kontrolovať a predvídať
+čo sa stane. Ostatnými je potom zaškatuľkovaná ako „tá zvláštna osoba“. „Ja napríklad
+neviem, keď sa v minulosti s niekým zoznamovala, tak nebol s tým problém, ale neskôr som
+začala mať pocit, že som akýsi podivín.“ Participantka sa však naučila vyhľadávať kolektívy,
+v ktorých sú ľudia podobní s podobne nekonvečným myslením a správaním a tu sa nakoniec
+dokázala začleniť a zapadnúť. Takýto kolektív našla na základnej škole, kde aj učí a je
+triednou učiteľkou tretiakov.
+
+45
+
+Participantka opisuje, že bola skôr sociálne veľmi neobratná a mala problém
+napríklad niekam zavolať alebo ísť niečo vybaviť na úrad. Tiež s humorom poznamenáva,
+že: „väčšine ľudí sa podarí si vytvoriť social skills skôr ako v dvadsaťštyrke, keď som
+skončila vysokú.“
+Rodina
+Participantka vyrástla v úplnej rodine, má jednu staršiu sestru. Vzťah so sestrou
+nehodnotí veľmi kladne, hovorí, že v detstve sa kvôli nej bála chodiť domov. Takto hovorí
+o letnom tábore na ktorom bola so sestrou: „…o mne nikto nemal akýkoľvek záujem a segra
+tá tiež nie. Som tam celú dobu musela sledovať, ako sa sestra venuje iným deťom a je z nich
+úplne nadšená a ja tam jednoducho niekde vzadu sama plačem…“ Z jej slov je zrejmé, že
+ani v súčasnosti k sebe nenašli veľa cestu a sú si skôr odcudzené. „Keď si predstavím
+človeka, ktorý je ako moja sestra, pre mňa taký prototyp zodpovedného dospelého jedinca.
+Jednoducho taký ten sociálny, všetko ako v pohode zariadi, je zodpovedná, organizovaná a
+nikdy jednoducho s týmto problém nemala, nejako sa vždy vedela v tom živote orientovať.
+Narozdiel odo mňa. A zároveň je to ten typ človeka, s ktorým ja si nemám toľko ako čo
+povedať.“ Jej vzťah s rodičmi bol poznačený neúspechmi v škole. Bolo jej neustále
+prízvukované, že nevyužíva svoj potenciál. Sama hovorí, že na jednej strane vedela, že to je
+blbosť, ale na druhej strane sa s tým do istej miery stotožnila. Pocit nevyužitého potenciálu
+je pre ňu stále silná a ťažká téma. Mala pocit, že svojich rodičov sklamáva a mala by sa viac
+snažiť, aby mali radosť a naplnila ich vysoké očakávania. Nakoniec ju začali napádať
+myšlienky, že by pre rodičov bolo lepšie, keby nežila: „…ale zároveň som fakt bola
+presvedčená, že to, že nie som schopná akoby študovať a napĺňať ten potenciál, takže tým
+rodičia sklamávam natoľko, že by im bolo objektívne lepšie, keby som sa zabila...“
+Participantke sa do rodiny asi celkovo nedarí príliš zapadnúť. Hovorí, že je v rodine
+jediná, kto nie je neurotypický, ťažko hľadá spoločné témy na rozprávanie s členmi rodiny
+a veci, čo jej prídu zaujímavé, ostatným zaujímavé neprídu a obrátene. Predtým sa jej tiež
+často stávalo, že spôsobila chaos nevhodnou poznámkou alebo niečo rýchlo povedala bez
+toho, aby domyslela dôsledky. Teraz už sa jej to toľko nestáva, pretože dokáže lepšie
+odhadnúť na čo rodina bude reagovať negatívne: „Celú dobu jednoducho premýšľam, čo by
+som mohla povedať. Je chvíľka ticha, tak ja k tomu niečo poviem a teraz je to vyložene taký
+ten záber jednoducho z filmu, kedy z toho živého obeda sa všetci zarazia a takto pozerajú na
+mňa, že čo som to povedala. A nikto ako nechápe, prečo som to povedala, čo som to
+
+46
+
+povedala… Čože!? A ja si tam len hovorím v duchu, dobre, tak možno bude lepšie, keď tu
+budem iba sedieť a pozerať na vás, tak áno, už nič nepoviem (smiech).“
+Škola
+Participantka bola na základnej škole premiantkou, intelektovo tu výrazne
+prevyšovala zvyšok triedy. Zrejme sa aj tu správala impulzívne a svojrázne, ako je jej
+vlastná, ale triedny kolektív detí, s ktorými sa poznala už od škôlky ju bral takú, aká je. Na
+osemročnom gymnáziu kam prestúpila vďaka skvelým školským výsledkom, už tomu bolo
+inak. Rýchlo sa ocitla v pozícii úplného outsidera. Čoskoro začala mať výchovné problémy
+a začal sa jej zhoršovať prospech, až klesla medzi najslabších žiakov v ročníku. Bola
+odoslaná na pedagogicko-psychologické vyšetrenie, kde ADHD/poruchu pozornosti
+nerozpoznali. Bolo jej iba povedané, že je múdra dosť, mohla by mať lepšie výsledky a mala
+by sa viac snažiť. Participantka sa začala dostávať do bezvýchodiskovej situácie – začala sa
+báť chodiť domov (okrem iného kvôli zlému vzťahu so sestrou) a u dospelých, ktorým sa o
+svojom trápení snažila povedať, príliš neuspela: „…bála som sa chodiť domov a zároveň to
+boli všetko veci, s ktorými, keď som ako išla za niekým starším dospelým, že som z toho fakt
+ako nešťastná, tak to boli veci, ktoré oni vnímali, ako to je predsa ako normálne.“
+Participantka tiež silne tematizuje pocit úplnej straty sebahodnoty. Hovorí, že mala
+do tej doby svoju hodnotu a identitu postavenú na tom, že bola dobrá v škole a že bola tá
+múdra. Odmala to počúvala zo všetkých strán a bola v tomto presvedčení neustále
+utvrdzovaná, až to prijala za svoje. So školskými neúspechmi sa však jej sebahodnota
+rozsypala
+
+a participantka
+
+si
+
+prestala
+
+vážiť
+
+samú
+
+seba.
+
+Všetko
+
+vyústilo
+
+do
+
+sebapoškodzovania. Spätne si uvedomuje, že bola závislá na pozitívnom oceňovaní od
+ostatných. Svoju hodnotu postavila na školských výsledkoch, pretože za to bola oceňovaná
+okolím.
+Keď sa jej nedarilo na gymnáziu, snažila sa zúfalo nájsť niečo, v čom by mohla
+vynikať, aby zase získala ocenenie a mohla si sama seba opäť vážiť. To ju priviedlo na
+štúdium pedagogiky, pretože by svoje výsledky videla na deťoch, či im niečo odovzdala
+alebo ich niečo naučila. Niekto jej povedal, že by v tom mohla byť dobrá a ona sa toho
+chytila. Nadšenie sa však čoskoro vyčerpalo a na štúdiu začala bojovať, prestala zvládať
+nároky, začali ju prepadať depresívne myšlienky a nakoniec a myšlienky na smrť. K štúdiu
+má celkom rozpoltený postoj, na jednej strane oceňuje kolektív, pri ktorom sa cítila po
+utrpení na gymnáziu konečne prijatá a bez problému zapadla. Taktiež si na škole našla
+47
+
+priateľa, ktorý sa neskôr stal jej manželom. No na druhej strane ju však štúdium vysávalo
+a bolo pre ňu zdrojom depresívnych nálad.
+Práca
+Participantka má veľmi rada svoju prácu, má veľmi rada deti a prácu s nimi. Nakoľko
+ju deti neposudzujú, neohovárajú, ale podľa jej slov ju dobíjajú ich energiou, zvedavosťou
+a takým detským šibalstvom. Vo svojej práci vidí jednoznačne životný zmysel a životné
+poslanie. „Po troch mesiacoch som vyhorela podľa mňa a doteraz ako nechápem, že som
+doteraz v tej práci, že tam stále zvládnem chodiť. Lebo aj keď má deti na jednej strane
+dobíjajú energiou, na druhej strane je dosť náročná práca a tá zodpovednosť o tie deti je
+vysoká.“ Taktiež kone sú jej celoživotnou láskou a rada by v neskoršom veku pomáhala
+deťom s postihnutím prostredníctvom koní.
+Ďalej sme zisťovali na výučbu, ako sa vie sústrediť a skoncentrovať na úlohy. „Ja
+nutne potrebujem zmenu prostredia. Veľakrát sa prechádzam po chodbách. Keď mám voľno,
+pôjdem do telocvične, pôjdem trochu na vzduch von alebo kdekoľvek, len nie v tej istej triede
+alebo v kabinete vkuse. Čerstvý vzduch a zmena prostredia sú pre mňa skvelou terapiou, aby
+som to dokázala zvládať počas celého vyučovacieho dňa.“
+Participantka č. 4 (P4)
+Participantka č. 4 má 41 rokov a je učiteľkou na základnej škole už 12 rokov. Je
+vydatá a má dve deti. Len nedávno jej bola diagnostikovaná porucha pozornosti
+s hyperaktivitou, nakoľko v mladom veku bola diagnostikovaná, ale nesprávne, pretože jej
+určili nadpriemernú inteligenciu. Dokonca aj nadpriemerná inteligencia má svoje úskalia,
+pretože takýmto jedincom častokrát ostatní nerozumejú a celkovo si ťažšie nadväzujú
+vzťahy.
+Ťažkosti a prejavy
+Participantka uvádzala, že mala od malička prejavy hyperaktivity. Jednou
+z dôležitých a identifikovaných oblastí bolo stretnutie participantky s poruchou pozornosti
+a s ADHD a školy. Toto stretnutie avšak prebieha rôzne. Niekedy sa v tomto stretnutí na
+ADHD upozorní skôr, niekedy neskôr. Záleží na miere intenzity prejavov ADHD a tiež na
+prístupe pedagógov, s ktorými sa žiak stretne. Pokiaľ sú prejavy mierne a pedagógovia sú
+navyše chápajúci, rešpektujúci a k žiakom individuálne pristupujúci, tak je vysoká
+pravdepodobnosť, že bude pre žiaka prechod školským systémom prebiehať bez konfliktov
+48
+
+s pedagógmi aj ostatnými žiakmi, bez návštevy pedagogicko-psychologickej poradne, bez
+nutnosti medikácie. Ak budú prejavy silnejšie a pedagógovia budú mať menej spomínaných
+vlastností, tak je pravdepodobné, že sa bude pravdepodobnosť konfliktov s pedagógmi,
+návštevy pedagogicko-psychologickej poradne a nutnosť medikácie zvyšovať. Stretnutie
+participantky so školou bolo v niečom viac ako bežné, v niečom však menej. Na vyšetrenie
+ju poslali už v prvej triede, ale nebola diagnostikovaná. V poradni to vyhodnotili ako
+nadpriemernú inteligenciu.
+Zároveň je potrebné spomenúť, že prejavy, kvôli ktorým bola poslaná do poradne
+a prejavy a ťažkosti, ktoré budeme spomínať aj neskôr, mohli byť dosť možno
+zdôvodniteľné ako diagnózou ADHD, tak vysokou inteligenciou.
+Sociálne vzťahy
+Participantka nemala problém byť a zotrvať v kolektíve. Ľudí má stále rada okolo
+seba. Možno to bolo aj z toho dôvodu, že vyrastala s viacerými súrodencami. „Už na
+základnej škole som mala okolo seba veľa dobrých kamarátov a celkovo si myslím, že som
+mala šťastie na ľudí okolo seba.“ Na vysokej sa stretla so svojim terajším manželom
+a vytvorili spoločne rodinu. Participantka si nemyslí, že jej ADHD zasahovalo do sociálnych
+väzieb s kamarátmi, práveže sa im páčila jej energia a hyperaktivita.
+Rodina
+Je dôležité, aby rodičia k jedincovi s poruchou pozornosti a s ADHD pristupovali
+vyvážene. Pokiaľ by sa k dieťaťu pristupovalo príliš benevolentne, jeho prejavy by sa
+diagnózou ADHD ospravedlňovali a nijako by sa s dieťaťom nepracovalo, tak sa u neho
+môže rozvinúť aj porucha správania. Naopak príliš striktný prístup môže viesť ku
+zúzkostneniu dieťaťa. Prístup rodičov participantky sa pohyboval niekde medzi
+spomínanými dvoma pólmi. Participantka vypovedala, že hoci s ňou boli trošku problémy
+vo výchove ako s jej súrodencami, tak má pocit, že k nej rodičia pristupovali rovnako, boli
+k nej v zásade spravodliví a trestali ich so súrodencami rovnako. To smeruje k tomu, že k
+nej rodičia nejako vyvážene pristupovali. Ohľadom výchovných problémov sa participantka
+ešte vyjadrila, že boli oproti jej súrodencom iná. Participantka sa tiež k rodičom vyjadrila v
+tom zmysle, že boli veľmi silným protektívnym faktorom v tom, že to vo vzdelávacom
+rebríčku dotiahla tak ďaleko a že sa stala učiteľkou. Popisuje to takto: „moji rodičia mi veľmi
+pomáhali so školou, že na mňa dávali pozor a kontrolovali ma, aby som mala urobené úlohy,
+mamina má často skúšala a bola v tom nekompromisná. A za to jej veľmi pekne ďakujem, že
+49
+
+to so mnou nevzdala.“ Interpretuje to tak, že svojou starostlivosťou kompenzovala to, čo
+učitelia nezvládali. Dopĺňa nasledovné: „dnes majú deti s ADHD a s inými poruchami
+asistentov a nejaké zvláštne pedagogické prístupy. Avšak za mojej éry to vôbec tak nebolo.“
+Škola
+Participantka sa vedela v škole tzv. hyperkoncentrovať a to znamená, že sa dokázala
+sústrediť bez toho, aby ju rušil ruch prebiehajúcej hodiny alebo triedy. Participantka uvádza:
+„najmenej som vyrušovala, keď som robila svoje veci.“ To vypovedá o tom, že sa dokázala
+sústrediť na to, čo ju zaujímalo, na to, čo pre ňu bolo podnetné. „Na druhej strane si myslím,
+že to nebola veľká výhra pre učiteľov, že ma mali v triede, pretože to nemali jednoduché.
+Ako s tým, s tým vzdelávaním, tak, tak vidím tie prvé príznaky v tom, že mohli byť v tom, že
+som bola tak trochu aj neposlušné dieťa, ťažko zvládnuteľné ako v tom správaní a ťažko
+zvládnuteľné aj v tom vzdelávaní.” Ďalej sme zisťovali v čom bola nezvládnuteľná. „Ja som
+sa stále s niekým rozprávala alebo som si robila svoje. Často som sa nedokázala udržať
+a skákala som učiteľke do reči. Prihlásiť sa bol pre mňa často problém. Zrazu to vykríknem
+- odpoveď, čo nemám povedať, pretože sa pýtali niekoho iného.“ Na druhom stupni
+základnej školy sa už participantka sústredila viac ako na prvom. Súviselo to jednak so
+zaujímavejšími témami a tiež s osobnosťou učiteľa. V kolektíve bola obľúbená a mali ju
+spolužiaci radi. Vysokú školu zvládla participantka taktiež v pohode, aj keď na niektoré
+termíny musela ísť dvakrát, ale nemala veľký problém so štúdiom. Štúdium na vysokej škole
+hodnotí pozitívne.
+Práca
+Prácu učiteľky si vybrala participantka z dôvodu, že mala deti rada od mlada.
+Zaujímalo nás, ako vníma prácu učiteľky s danou poruchou. „Áno, je možné byť učiteľkou s
+poruchou pozornosti a hyperaktivitou. ADHD môže predstavovať určité problémy, ale môže
+mať aj určité výhody. Milujem svoju prácu a rada si rozširujem svoje vedomosti, ale aj moja
+ADHD narúša množstvo zručností, od ktorých učitelia závisia (organizácia, time
+manažment, atď.), a obávam sa niekedy o svoju schopnosť zvládať pracovnú záťaž. Viem, že
+na týchto oblastiach budem musieť popracovať, nech sa deje čokoľvek.“ Participantka ďalej
+uvádzala, že vie viac pochopiť žiakov s poruchami, pretože tým aj sama trpí. „Učitelia s
+ADHD preto s veľkou pravdepodobnosťou budú počas svojej kariéry pracovať s viacerými
+žiakmi s ADHD. ADHD nám ako učiteľom môže pomôcť lepšie porozumieť skúsenostiam a
+potrebám žiakov. V skutočnosti môže ADHD pomôcť učiteľom lepšie pochopiť širokú škálu
+50
+
+rozdielov v učení a postihnutí, pretože žiaci môžu mať veľa skúseností, ktoré im môžu zhoršiť
+dostupnosť typického vzdelávacieho modelu. Existuje mnoho spôsobov, ako sa učiť, ktoré
+nemusia zapadať do predstáv väčšiny ľudí o „normálnom“ vzdelávaní, no stále môžu byť
+pre mnohých žiakov efektívne. Žiaci, ktorí nemajú ADHD alebo iné rozdiely v učení, môžu
+mať stále úžitok z toho, že majú učiteľa s ADHD, pretože môžu dostať príležitosť vidieť nové
+spôsoby nazerania na veci a môžu sa cítiť slobodnejšie pri presadzovaní svojich záujmov a
+vzdelávania vlastným spôsobom.“
+Participant č. 5
+Táto participantka bola najstaršia a poskytla najkratší rozhovor. Je učiteľkou na
+základnej škole.
+Ťažkosti a prejavy
+„ADHD mi diagnostikovali len pred troma rokmi, keď som mala 41 rokov. Predtým
+som si neuvedomovala, prečo nezvládam svoj život a prečo som s ťažkosťami v niečom
+zotrvala. Celkovo som dosť prchká osobnosť a až po diagnostikovaní som začala chápať,
+prečo sa mi to deje celý život.“ Ďalej pokračuje: „nikdy som skutočne nevedela, prečo alebo
+som nerozumela tomu, čo mám robiť, čo rozčuľuje iných ľudí na mne. Povedala by som, že
+toto je najdôležitejšie pre ľudí s ADHD – jednoducho nemôžeme robiť to, čo nevidíme ako
+dôležité, naliehavé alebo zaujímavé.“
+Sociálne vzťahy
+Participantka uviedla, že napriek svojej prchkej povahe sa vydala, aj keď manželstvo
+miestami nie je veľmi šťastné. Taktiež uviedla, že nemá veľa kamarátov a celkovo považuje
+svoju poruchu za problematickú pri styku s inými osobami.
+Detstvo a rodina
+Rodičia participantku veľmi nepodporovali v štúdiu, pretože im pripadala od malička
+ako „zbesnetá.“ Nemali na ňu trpezlivosť a často ju aj kruto trestali. Z toho dôvodu nerada
+spomína na svoje detstvo a nechce o ňom viac rozprávať.
+Škola
+„Mnoho ľudí s ADHD považuje vzdelávanie za náročné. Odovzdávanie úloh načas,
+sústredenie sa počas prednášok a plnenie úloh bez toho, aby ste sa nudili alebo rozptyľovali,
+to všetko sú úlohy, ktoré môžu byť pre ľudí s ADHD obzvlášť ťažké. Ak sa chcete stať
+51
+
+učiteľom, musíte navštevovať vysokú školu a získať titul. Vysokoškolskí študenti, ktorí budú
+budúcimi učiteľmi s ADHD, by sa mali porozprávať s inými učiteľmi s ADHD, aby
+prediskutovali svoje možnosti na zlepšenie schopnosti študentov uspieť v škole. Mali by sa
+tiež snažiť vytvoriť študijný priestor bez rušivých vplyvov, aby mohli pracovať. Niektorí ľudia
+s ADHD môžu zistiť, že potrebujú základnú úroveň stimulov, aby mohli pracovať. Počúvanie
+hudby alebo používanie stimulačnej hračky môže uľahčiť udržanie pozornosti.“
+Participantka veľmi stroho spomína na základnú a strednú školu, avšak na vysokú spomína
+veľmi rada, aj keď to štúdium nebolo pre ňu vôbec ľahké. „Keď som mala skúšky, strašne
+som stresovala, niekedy síce bol ten stres zbytočný, ale mala som obavy, že tie skúšky
+nespravím.“ Pre absolvovanie mnohých skúšok na vysokej škole participantka popisovala
+ako dôvod toho, že tieto skúšky úspešne zdolala to, že sa tzv. zaťala.
+Práca
+Jedným z najlepších spôsobov, ako sa učitelia s ADHD môžu podporiť v práci, je
+nájsť si v škole priaznivé prostredie. „Ak je to možné, snažte sa nájsť si zamestnanie v škole,
+kde sú potreby učiteľov prioritou pre školu. Keď sa učitelia môžu porozprávať s riaditeľom
+alebo riaditeľkou a získať u nich podporu, ktorú potrebujú, učitelia aj žiaci z toho budú mať
+prospech. Školy, ktoré uprednostňujú povedomie o duševnom zdraví, iniciatívy proti
+šikanovaniu, povedomie o zdravotnom postihnutí a iné inkluzívne iniciatívy, môžu byť pre
+učiteľov s ADHD vhodné, pretože školské prostredie je už pripravené na podporu potrieb
+tých, ktorí sa tam učia a pracujú. Ak pracuje niektorý učiteľ s ADHD v škole, o ktorej nemá
+pocit, že dostatočne podporuje jej žiakov, učiteľov a zamestnancov s ADHD, existujú kroky,
+ktoré môže podniknúť, aby bolo prostredie inkluzívnejšie. Je potrebné zvážiť rozhovor s
+ostatnými učiteľmi a riaditeľmi o potenciálnych zlepšeniach vrátane celoškolských kampaní
+na dôležité otázky ohľadne ADHD.“ Ďalej pokračuje: „byť dobrým učiteľom s ADHD
+znamená pochopiť moju konkrétnu skúsenosť s ADHD a ako to ovplyvňuje moju schopnosť
+vykonávať prácu a sústrediť sa na danú úlohu. Lieky, správny manažment času a používanie
+niektorých prvkov ADHD vo svoj prospech môžu byť užitočné stratégie k učiteľskému
+povolaniu.“ Na záver dodáva: „v mojej súčasnej úlohe sa moje ADHD využíva v prospech
+všetkých. V mojej triede mám dvoch žiakov s ADHD. Verím, že sa viem „vcítiť“ do ich
+potrieb, že ich viem pochopiť a možno aj byť vzorom pre nich.“
+
+52
+
+4.2 Diskusia
+U všetkých piatich participantov je vidieť mnoho podobností, paralel, opakujúcich
+sa vzorcov a podobné skúsenosti, ktoré zažili. Možno je to dané veľkosťou vzorky,
+podobným vekom a podobnou životnou fázou, v ktorej sa nachádzajú.
+Sociálne vzťahy
+Všetci participanti pôsobili veľmi spoločensky, otvorene, nechýbal im zmysel pre
+humor, napriek tomu uvádzali, že obvykle boli za outsiderov, mali a stále majú skôr málo
+priateľov, pohybujú sa na okraji spoločnosti a majú problém zapadnúť. Neobľúbenosť
+v kolektíve môže byť spôsobená impulzívnym správaním, vďaka ktorému môžu byť pre
+ostatných horšie čitateľní, ale zrejme nielen kvôli tomu. Bolo zrejmé aj isté sociálne
+stiahnutie a rezignovanosť po prežitých negatívnych skúsenostiach. Zaujímavé tiež je a často
+to zaznievalo, že participanti majú pocit, že nemôžu byť v spoločnosti sami sebou a keď
+budú, okolie na to bude reagovať nejako negatívne či ich priamo bude odsudzovať. Keď idú
+teda niekam do spoločnosti, cítia sa pod tlakom, pretože musia byť pre ostatných „nejakí“ a
+majú pocit, že musia hrať úlohu, ktorá im nie je vlastná. To v nich vyvoláva negatívne pocity
+a je to tiež energeticky náročné a únavné. Preto sa spoločnosti radšej vyhnú, hoci je
+paradoxne vidieť, že o sociálne vzťahy v skutočnosti stojí. Sociálne vzťahy boli pre všetkých
+participantov dôležitou témou.
+Participanti tiež celkom zhodne uvádzali, že si rozumejú hlavne s ľuďmi, ktorí majú
+tiež ADHD alebo riešia iné psychické ťažkosti, prípadne s ľuďmi, ktorí sú nejakým
+spôsobom nekonvenčný či nejako vybočujú z normy.
+Rodina
+U participantov je zrejmé, že hoci sa u nich problémy začali objavovať už počas
+školskej dochádzky, rodičia tomu neprisudzovali veľký význam, skôr ich bagatelizovali a
+vykladali si to ako, že sa ich dieťa dostatočne nesnaží, či sa nevedia správať. To potom
+ovplyvňovalo ďalej vzájomné vzťahy. Participanti sa potom dostávali do svojich spôsobom
+bezvýchodiskovej situácie. Hromadili sa im problémy, s ktorými si sami nedokázali poradiť
+- nemali na ne dostatočný náhľad a zručnosti na ich zvládnutie (a to ani neskôr v období
+adolescencie, či po nástupe na VŠ). Zároveň doma nemali dostatočnú oporu a niekoho kto
+by im v tomto ohľade počúval a poskytol pomoc. Naopak sa ich problémy skôr stávali
+zdrojom konfliktov v rodine a spôsobovali im ďalší stres.
+
+53
+
+Participanti majú tiež tendenciu sa za svoje problémy aj pošramotené vzťahy
+obviňovať, rodičov hodnotia zhovievavo a veľmi nepripúšťajú, že by časť viny bola aj na
+ich strane. Čo je asi prirodzené, pretože dieťa je na svojich rodičoch existenčne závislé,
+nemôže si dovoliť ohroziť tento vzťah a radšej vezmem vinu na seba. Obe participantky si
+navyše zvnútornili pocit, že sklamali rodičov a nedokázali naplniť ich očakávania, čo sa
+prejavuje na ich sebadôvere a sebahodnotení. Participanti majú aj vo svojich rodinách
+pozíciu outsiderov, nedokážu sa tu príliš zapojiť do sociálnych interakcií a sú tu za „čierne
+ovce“. Aj v dospelosti sú hodnotení skôr rozpačito, pretože sa vymykajú bežným
+spoločenským normám. Zaujímavé je, že participantky zhodne uvádzajú, že mali v detstve
+zlý vzťah so staršou sestrou. Otázka je, nakoľko to bolo dané porovnávaním zo strany
+rodičov a okolia, či to bolo ovplyvnené priamo symptómami poruchy pozornosti a ADHD,
+ako napríklad impulzívnym správaním.
+Škola
+U všetkých participantov sa tiež zhodne objavili problémy so zmenou primárnej
+školy. Respektíve prvý participant uvádza, že bol problematickým žiakom aj na ZŠ, ale tieto
+problémy pociťovalo skôr jeho okolie, on sám to tak do značnej miery nevnímal. Bol tu
+v kolektíve detí, s ktorými sa poznal už od škôlky a bol v tom kolektíve integrovaný. Ale v
+okamihu, keď odišiel do novej školy, kde bol úplne nový, pre neho neznámy kolektív,
+nedokázala sa do neho už zapojiť a rýchlo sa dostal do pozície outsidera. Takisto aj
+participantka č. 3. U prvého participanta sa začal zhoršovať prospech a objavovať sa u neho
+psychické problémy. To všetko sa potom rýchlo prepisovalo do jeho sebavedomia a
+sebahodnoty. Ťažšie nadväzovanie sociálnych vzťahov zrejme vychádza z nižšej sociálnej
+obratnosti, ktorá je pre ADHD pomerne typická (Ptáček, 2019).
+Všetci participanti majú intelekt zrejme vo vyššom pásme priemeru či v pásme
+nadpriemeru. IQ testy im neboli administrované, ale usudzujeme na to z ich slovníka (hoci
+je niekedy expresívne a nespisovné), všeobecného rozhľadu, dobrého náhľadu na ich
+problémy a spôsobe, akým o nich dokážu uvažovať a vidieť ich v širších súvislostiach.
+Napriek tomu bojovali v škole a dosahovali v nej priemerné výsledky. Avšak všetci
+participanti dokázali vyštudovať vysoké školy, aj keď sa priznali, že vynaložili veľké úsilie
+a venovali učeniu veľa času. Horšie školské či študijné výsledky môžu byť ovplyvnené
+impulzivitou a nepozornosťou, ktorá iste komplikuje prípravu aj aktívnu účasť na výučbe.
+Zrejme sa tu však premietala aj ich pozícia outsiderov, kvôli ktorej nedokázali ťažiť
+
+54
+
+z benefitov, ktoré prináša spolupráca v rámci triedneho kolektívu (zdieľanie informácií,
+spolupráca na projektoch a úlohách, psychická podpora). Školu mali kvôli tejto vylúčenej
+pozícii spojenú s negatívnymi emóciami a to zrážalo aj ich motiváciu. Motivácia bola často
+skôr vonkajšieho charakteru – obe participantky cítili silný tlak na výkon z rodiny a snažili
+sa tieto očakávania splniť.
+Práca
+V pracovnej oblasti sa ukazuje, že participantom oveľa viac vyhovovala práca
+s deťmi, ktorá ich motivovala. Najmä kvôli tej motivácii úspešne dokončili vysoké školy. Aj
+keď pre prvého participanta predstavuje práca každodennú výzvu, ale je rád, že má tam
+jedného kolegu, ktorý je pre neho oporou. Druhá a tretia participantka majú veľmi radi svoju
+prácu a dokonca sú aj radi v kolektíve. Posledná participantka vidí vo svojej práci životné
+poslanie a je vďačná, že pracuje s deťmi. Kreatívna práca s deťmi zrejme pomáha
+participantom ventilovať hyperaktivitu, ktorá sa inak mení na vnútornú tenziu, oproti
+napríklad kancelárskej práci, ktorá to neumožňuje a navyše kladie veľké nároky na
+pozornosť a starostlivosť, s ktorou majú všetci participanti vzhľadom k ťažkostiam s
+pamäťou a zabúdaním problém. Dlhé sústredenie ich navyše rýchlo unavuje, čo sa negatívne
+prepisuje do ich nálady.
+Do spokojnosti v práci sa u nich silne premietajú sociálne vzťahy na pracovisku. Tie
+samozrejme ovplyvňujú všetkých zamestnancov, aj tých bez ADHD, ale tu sa nám to javí
+ako oveľa silnejší faktor a prediktor pracovnej úspešnosti či toho, či zamestnanec odíde alebo
+zostane. Negatívne skúsenosti zo štúdia a z pozície outsiderov ich robí ako veľmi citlivé
+a zraniteľné osoby voči odmietnutiu a kritike. Strach z kritiky im bráni sa v kolektíve
+slobodne prejaviť a byť sami sebou, ako často spomínajú, preto sa môžu sťahovať do pasivity
+a paradoxne opäť smerovať do pozície outsidera, ktorá je im toľko nepríjemná.
+Ťažkosti a prejavy
+Aj z rozhovorov bolo zrejmé, že tretia participantka, cez všetky problémy, ktorými
+prešla, má najoptimistickejší pohľad do budúcnosti. Na sebapoňatí všetkých participantov
+sa zrejme negatívne podpísali ich životné skúsenosti a problémy s ktorými sa stretávali a
+čiastočne stále stretávajú. Tieto problémy majú pravdepodobne pôvod v symptómoch
+ADHD. Nedá sa to samozrejme tvrdiť jednoznačne, v životoch participantov hrali úlohu aj
+iné faktory, ktoré mohli mať negatívny vplyv na formovanie ich sebapoňatia napr. prístup
+rodiny, tlak na výkon, porovnávanie, atď.
+55
+
+Rozhovory naznačujú, že participanti majú nejakým spôsobom narušenú väčšinu
+oblastí, ktoré sú zdrojom sebapoňatia – škola pre nich bola traumatizujúci zážitok, majú
+problém začleniť sa do kolektívu, trpia výčitkami, úzkosťou a depresiami, často zažívajú
+stres, pracovná oblasť tiež nie je veľmi uspokojivá, objavuje striedanie prác, či najlepšie
+hodnotia najmenej kvalifikované pozície. Participanti tiež tvorili dojem, že nemajú už príliš
+veľké očakávania od budúcnosti.
+Nízke sebapoňatie zistené u participantov zodpovedá zisteniam zo štúdie, ktorú
+vykonali Houck a kolektív (2011). Táto štúdia zistila znížené sebapoňatie detí s ADHD.
+Zároveň tiež zistila, že staršie deti majú nižšie sebapoňatie ako mladšie deti, čo môže
+ukazovať na trend klesajúceho sebapoňatia s vekom. Predkladaná záverečná práca sa síce
+nezaoberá deťmi, ale možno predpokladať, že nízke sebapoňatie sa prenáša do dospelosti a
+trend v jeho poklese pravdepodobne pokračuje. Ale pretože bolo u participantov sebapoňatie
+merané iba raz a nie sú k dispozícii staršie dáta s ktorými by sa dal súčasný výsledok
+porovnať, nemožno s istotou tvrdiť, že klesajúci trend platí aj v ich konkrétnom prípade.
+Participanti podľa toho, čo sami popisovali, majú v rôznej miere zastúpené hlavné
+symptómy ADHD – nepozornosť, hyperaktivitu a impulzivitu. Druhá participantka uvádzala
+asi najväčšie ťažkosti s nepozornosťou (aj podľa jej lekára sa jedná o podtyp s prevahou
+nepozornosti), to by mohlo byť v súlade so zisteniami, že nepozornosť je prediktorom
+nízkeho sebapoňatia (Cueli, 2020). Tretia participantka však tiež uvádzala problémy
+s pozornosťou. Navyše uvádzala aj veľmi vysokú mieru impulzivity, takže v jej prípade
+pravdepodobne ide o kombinovaný subtyp. Ten by podľa Graetza (2005) mal mať ešte horší
+vplyv na sebapoňatie ako samotná nepozornosť. U oboch participantiek je tiež zrejmé viac
+internalizujúce správanie a rozvoj úzkosti a depresívnych symptómov. Gershon (2002)
+uvádza, že internalizujúce správanie sa viac vyskytuje u dievčat. Prvý participant síce tiež
+spomína úzkosti, ale jeho správanie (aspoň počas detstva a dospievania) bolo veľmi
+externalizujúce.
+Participanti získali diagnózu, ktorá „papierovo“ nesedí (t. j. iná ako ADHD), ale ich
+psychiatri/klinickí psychológovia po vyšetrení došli k názoru, že títo pacienti s najväčšou
+pravdepodobnosťou trpia poruchou pozornosti a ADHD – t. j. majú klinické príznaky,
+napĺňajú diagnostické kritériá a potrebujú v tomto ohľade liečbu. Všetkým participantom
+bol tiež indikovaný Atomoxetine. Pôvodne bolo v zadaní, že všetci participanti by mali mať
+diagnostikovanú poruchu pozornosti a ADHD už od detstva. Táto požiadavka vychádza zo
+
+56
+
+staršieho poňatia podľa DSM-IV, ktoré neumožňuje ADHD diagnostikovať dospelým, ak
+už túto diagnózu nemali v detstve. Tiež sme predpokladali, že bude ťažké zohnať niekoho,
+kto to bude mať diagnostikované až v dospelosti, práve kvôli vyššie spomínaným
+problémom s diagnostikou. Od tejto požiadavky bolo nakoniec upustené a pridržali sme sa
+skôr súčasného poňatia podľa DSM-5 alebo MKCH-10, ktoré pripúšťajú, že je možné
+ADHD spätne diagnostikovať aj v dospelosti. Okrem teoretického ukotvenia nás k tomu
+vedie ešte jeden oveľa praktickejší dôvod – všetci záujemcovia o rozhovor boli
+diagnostikovaní až v dospelosti, neozval sa nikto, kto by mal diagnózu už od detstva.
+Domnievame sa, že pre tých, čo majú diagnózu už od detstva to nie je zďaleka tak veľká
+téma, ako pre tých, čo ju nemali a celý život nevedeli čo sa s nimi deje. Ako rozhodujúci
+faktor pri výbere sme sa teda rozhodli brať skutočnosť, či participant má alebo nemá
+diagnózu, bez ohľadu na vek, kedy mu bola stanovená.
+Limity práce
+Ako bolo vyššie uvedené, výskum bol realizovaný na malom súbore participantov,
+ktorý zrejme nie je reprezentatívny. Všetci participanti sú relatívne mladí do 45 rokov
+a dvaja participanti sú v podobnej životnej fáze, pričom sú bezdetní a slobodní. Všetci piati
+boli tiež v poslednom čase diagnostikovaní, čo im svojím spôsobom zmenilo život a náhľad
+na veľa vecí. ADHD je pre nich momentálne významnou témou, ktorú sa pokúšajú nejako
+integrovať do svojich životov. Na rozhovor sa tiež prihlásili dobrovoľne - chceli o svojich
+problémoch hovoriť, teda majú pocit, že majú k téme čo povedať. Tomu musela predchádzať
+nejaká vlastná reflexia a získanie náhľadu na svoje problémy. Toto všetko z nich robí
+pomerne špecifický súbor a výsledky teda nemožno príliš zovšeobecňovať na celú populáciu
+učiteľov s poruchou pozornosti a s ADHD. Vzhľadom na použitý dizajn, ani nebolo
+usilované o reprezentatívnosť, naopak bola snaha, aby bol súbor homogénny. Napriek tomu
+si myslíme, že niektoré vzorce, ktoré sa objavovali u participantov budú spoločné mnohým
+učiteľom s poruchou pozornosti a s ADHD.
+Odporúčania pre prax
+Odporúčania pre učiteľov s poruchou pozornosti:
+1. Prijmite sa, aký ste.
+2. Umožnenie času na pohyb.
+3. Neprepracujte sa.
+4. Snažte sa všetko načasovať a manažovať svoj čas.
+57
+
+5. Nedovoľte svojim žiakom, aby Vás vyviedli z koncentrácie.
+6. Nájdite si nejaké cvičenie alebo meditáciu zameranú na koncentráciu.
+7. Je dôležité vedieť, že zvládate svoju poruchu aj výučbu.
+8. Stanovte si pravidlá a postupy.
+9. Používajte technológie na pomoc s úlohami.
+10. Zmeny prostredia na obmedzenie rozptýlenia.
+
+Chceli by sme odporučiť, že keď ste učiteľ a máte diagnostikovanú alebo máte
+podozrenie, že máte ADHD, možno sa pýtate, ako učiť s ADHD. Učitelia musia byť schopní
+sústrediť sa na svojich žiakov a ich hodiny a zároveň riadiť triedu každý deň, čo sú náročné
+úlohy pre každého. Hoci existujú výzvy, ktoré sú špecifické pre učiteľov s ADHD, existuje
+veľa zdrojov a stratégií, ktoré môžu učiteľom s ADHD pomôcť uspieť. V skutočnosti môže
+existovať niekoľko spôsobov, ako môžete dosiahnuť, aby ADHD „pracovala pre vás“ vo
+vyučovacom prostredí. Existuje mnoho rôznych spôsobov, ako pestovať úspešné a
+inkluzívne prostredie v triede, ktoré spĺňa potreby študentov aj učiteľov. So správnou
+podporou a starostlivým riadením môžu učitelia s ADHD robiť skvelú prácu, ktorá je
+prínosom pre ich študentov a pre nich samotných.
+
+58
+
+ZÁVER
+Cieľom záverečnej práce bolo odhaliť vnímanie porúch pozornosti u osôb, ktoré
+zastávajú učiteľskú pozíciu a zároveň im tento typ poruchy bol v minulosti diagnostikovaný.
+Práca sa zaujíma o vplyv vlastných skúseností na vykonávanie učiteľského povolania.
+Zámerom výskumu bolo analyzovať poruchy pozornosti u učiteliek a učiteľov pre primárne
+vzdelávanie, ako aj zmapovať skúsenosti dospelých učiteľov s poruchou pozornosti v
+kontexte rôznych životných udalostí ako je školská dochádzka, štúdium, zamestnanie,
+partnerské a sociálne vzťahy. Ďalším cieľom bolo zmapovať, ako tieto skúsenosti ovplyvnili
+sebapoňatie dospelých s poruchou pozornosti. Myslíme si, že cieľ práce bol splnený.
+Praktická časť našej práce bola postavená na kvalitatívnom výskume. Výskumu sa
+zúčastnili piati participanti vo vekovom rozmedzí od 28 do 45 rokov. Bol vybraný
+kvalitatívny výskumný dizajn. Otázky v rozhovore boli zamerané jednak na prejavy porúch
+pozornosti a všeobecne na problémy vyplývajúce z tejto poruchy a tiež na oblasti ako
+detstvo, školská dochádzka, štúdium, práca, partnerské a sociálne vzťahy. Samozrejme nás
+najviac zaujímala práca učiteľa s poruchou pozornosti v primárnom vzdelávaní.
+V rámci výskumu prebehol rozhovor s piatimi participantmi, ktorí mali v nedávnej
+dobe diagnostikované poruchy pozornosti a ADHD, teda až spätne vidia svoje problémy v
+kontexte tejto poruchy. Participanti v mnohých ohľadoch popisovali podobné ťažkosti.
+Negatívny vplyv začali vnímať po zmene základnej školy, kedy začali mať ťažkosti sa
+začleniť do nového kolektívu. Rodičia odmietali, že by dieťa malo problém a ich ťažkosti
+zostali neriešené. Problém zapadnúť ich pre nich všeobecne veľkou témou, často boli na
+pozícii outsiderov. Dodnes majú problém sa začleniť do rôznych sociálnych skupín a majú
+menej priateľov, často sa jedná o jednotlivcov. Participanti tiež uvádzajú, že nemôžu byť
+sami sebou a majú pocit, že sa nemôžu slobodne prejaviť, pretože by nasledovala negatívna
+reakcia okolia, či by sa mohli niekoho dotknúť. Participanti taktiež uvádzali problémy v
+mnohých oblastiach života, ich nízke sebavedomie, problémy so sociálnymi vzťahmi a nie
+veľmi veľké očakávania od budúcnosti. Je zrejmé, že početné ťažkosti, s ktorými sa
+celoživotne stretávali, mali na ich sebapoňatie negatívny dopad.
+Z rozhovorov vyplýva, že všetky oblasti sú pre participantov nejakým spôsobom
+problematické či sú významne narušené. Participanti uvádzali celý rad ťažkostí ako problém
+začleniť sa do kolektívu, pocit, že nemôžu byť sami sebou, objavuje sa u nich striedanie škôl
+a práce, úzkosti, obavy a depresívne nálady, majú problémy so zvládaním praktických
+59
+
+každodenných vecí, atď. Ich problémy trvajú už od detstva, všetci zhodne uvádzajú, že ich
+začali subjektívne vnímať po zmene základnej školy.
+Myslíme si, že učitelia s poruchami pozornosti a s ADHD by mali čo najviac
+pracovať na udržiavaní zreteľnej komunikácie so všetkými ostatnými v školskom prostredí.
+To zahŕňa zrejmú a pravidelnú komunikáciu s kolegami učiteľmi, ostatnými zamestnancami,
+žiakmi a rodinami žiakov. Samozrejme, pokiaľ si to učiteľ s poruchou pozornosti neželá, nie
+je v žiadnom prípade povinný zverejniť svoju diagnózu. Ak sa však otvorene porozpráva o
+svojich skúsenostiach, výzvach a potrebách, môže to všetkým uľahčiť zostať „na rovnakej
+vlne“ a byť si navzájom oporou. Pretože niekedy buď kolegovia alebo rodičia nevedia
+pochopiť myšlienkové pochody jedinca s poruchou pozornosti a môžu mať s daným
+jedincom problém. Pokiaľ sa s nimi učiteľ úprimne porozpráva o svojej poruche, myslíme
+si, žeby ho vedeli pochopiť. Otvorená komunikácia je základ.
+Efektívne hospodárenie s časom je ďalšou zo zručností, s ktorými učitelia s poruchou
+pozornosti a s ADHD zvyčajne zápasia najviac. Pre učiteľov môže nedostatok zručností pri
+riadení času predstavovať skutočnú výzvu, pretože toľko úloh musí byť dokončených podľa
+konkrétnych termínov. Výkonná funkcia môže sťažiť plnenie úloh; ADHD môže spôsobiť,
+že ľudia stratia pojem o čase; a vysoká roztržitosť môže znamenať, že niektoré veci sa
+jednoducho nedajú urobiť. Hoci je manažment času pre učiteľov s poruchou pozornosti a s
+ADHD ťažký, existujú stratégie, ktoré môžu pomôcť. Uvedomenie si problému je prvým
+dôležitým krokom. Nastavenie upozornení na dokončenie určitých úloh môže mať vplyv,
+rovnako ako odmeňovanie sa po dokončení aktivity. Rovnako ako pri štúdiu na vysokej
+škole, kultivácia správneho prostredia môže určite uľahčiť riadenie času a plánovanie
+vyučovacích hodín a hodnotenie žiakov. Ak je to možné, môže si zvoliť učiteľ, že sa bude
+„zodpovedať“ aj niekomu inému. Spolupráca s iným učiteľom a vzájomné presadzovanie
+termínov úloh im pomôže udržať si prehľad vo svojej práci.
+Keď ľudia myslia na poruchu pozornosti a na ADHD, zvyčajne to nepovažujú za
+pozitívnu skúsenosť. Samozrejme, porucha pozornosti a ADHD nie je vždy jednoduché a v
+žiadnom prípade nie je vhodné bagatelizovať ťažkosti, ktoré môžu ľudia s ADHD zažívať.
+Keď sa však správne využívajú, existujú niektoré prvky ADHD, ktoré môžu z ľudí urobiť
+vynikajúcich učiteľov. S ADHD majú učitelia určité príležitosti, ktoré môžu byť pre
+ostatných menej dostupné. Vysoká úroveň energie a nadšenia, znalosť skúseností študentov
+
+60
+
+a schopnosť sústrediť sa na jednu tému alebo činnosť, to všetko môže byť prínosom v
+učiteľskej kariére.
+Ľudia s poruchou pozornosti a s ADHD, najmä tí s prejavmi hyperaktivity, majú
+často vysokú hladinu energie. Vyučovanie je energeticky náročná kariéra, takže ľudia s
+ADHD môžu byť v tomto smere schopní zvládnuť túto výzvu. Keď učitelia s ADHD dokážu
+využiť svoje nadšenie pre konkrétne predmety alebo aktivity, môžu žiakom poskytnúť veľa
+informácií a zároveň ich aktívne zapojiť do ich školskej práce. Pre tých, ktorí milujú
+vyučovanie, môže táto vášeň vytvárať skvelé hodiny, pretože ľudia s ADHD prosperujú v
+aktivitách, ktoré ich bavia. Pre učiteľov je však stále veľmi dôležité, aby podnikli kroky, aby
+sa vyhli vyhoreniu, keďže práca s vysokou energiou si môže z dlhodobého hľadiska vybrať
+svoju daň. Dostatok spánku, konzumácia vysokoenergetických a výživných potravín a
+sledovanie duševného zdravia vám môže pomôcť uspieť v školskom prostredí učiteľom
+s poruchou pozornosti a s ADHD.
+
+61
+
+ZOZNAM POUŽITEJ LITERATÚRY
+ABLE, S. L. – JOHNSTON, J. A. 2007. Functional and psychosocial impairment in adults
+with undiagnosed ADHD. Psychol. Med., 2007. vol. 37. no. 1
+ADLER, L. – FARAONE, S. 2017. The structure of adult ADHD. International Journal of
+Methods in Psychiatric Research, 2017. vol. 26. no. 1
+AOKI, Y. – TSUBOI, T. 2020. The experiences of receiving a diagnosis of attention deficit
+hyperactivity disorder during adulthood in Japan: A qualitative study. BMC Psychiatry,
+2020. vol. 20. no. 1
+BANASCHEWSKI, T. – BECKER, K. 2017. Attention-deficit/hyperactivity disorder.
+Dtsch. Arzteb.l Int., 2017. vol. 114, no. 9
+BANGMA, D. – TUCHA, L. 2020. Financial decisionmaking in a community sample of
+adults with and without current symptoms of ADHD. PLoS ONE, 2020. vol. 15. no.10
+BARKLEY, R. 2006. Attention Deficit HyperactivityDisorder: A handbook fordiagnosis
+and treatment New York: GuilfordPress, 2006, 778 s. ISBN 800-365-7006.
+BAYSU, G. – DE VALK, H. 2012. Navigating the School System in Sweden, Belgium,
+Austria and Germany: School Segregation and Second Generation School Trajectories.
+Ethnicities, 2012. vol. 12, no. 6
+BOZKURT, M. – EYREN, C. 2017. Severity of craving is related with severity of adult
+ADHD symptoms among inpatients with alcohol use disorder. Anatolian Journal of
+Psychiatry, 2017. vol. 1.
+BRITTON, G. 2011. Cognitive and emotional behavioural changes associated with
+methylphenidate treatment: A review of preclinical studies. The International Journal of
+Neuropsychopharmacology, 2011. vol. 15, no. 1
+BOLIC BARIC, V. 2016. Support for Learning Goes Beyond Academic Support: Voices of
+Students with Asperger’s Disorder and Attention Deficit Hyperactivity Disorder. Autism,
+2016. vol. 20, no. 2
+
+62
+
+BUCHNER, T. F. – SMYTH, G. 2014. Paving the Way Through Mainstream Education:
+The Interplay of Families, Schools and Disabled Students. Research Papers in Education,
+2014. vol. 30. no. 4
+CAPUSAN, A. J. – BENDTSEN, P. 2019. Comorbidity of adult ADHD and its subtypes
+with substance use disorder in a large population-based epidemiological study. J. Atten.
+Disord, 2019. vol. 23, no. 12
+CASTAGNA, P. – ROYE, S. 2018. The compensatory ADHD behaviors scale (CABS):
+Development and initial validation. Assessment, 2018. vol. 26, no. 5
+CAYE, A. – ROCHA, T. 2016. Attention-deficit/hyperactivity disorder trajectories from
+childhood to young adulthood. JAMA Psychiatry, 2016. vol. 73, no. 7
+CUELI, M. – RODRÍGUEZ, C. 2020. SelfConcept and Inattention or Hyperactivity–
+Impulsivity Symptomatology: The Role of Anxiety. Brain sciences, 2020. vol. 10, no. 4
+ČÁP, J. – MAREŠ, J. 2007. Psychologie pro učitele. Praha: Portál, 2007. 655 s. ISBN 807178-463-X.
+DRTÍLKOVÁ, I. 2007. Hyperkinetická porucha: ADHD. Praha: Galén, 2007. 268 s. ISBN
+978-80-7262-419-5
+DUDUKOVIC, N. M. – GOTTSHALL, J. L. 2014. Diminished testing benefits in young
+adults with attention-deficit hyperactivity disorder. Memory, 2014. vol. 23, no. 8
+DUNNE, L. – MOORE, A. 2011. From Boy to Man: A Personal Story of ADHD. Emotional
+and Behavioural Difficulties, 2011. vol. 16, no. 4
+ESSA, E. 2011. Jak pomoci dítěti. Brno: ComputerPress, 2011. 300 s. ISBN 978-80-2512928-9
+FARAONE, S. V. – MICK, E. 2010. Molecular Genetics of Attention Deficit Hyperactivity
+Disorder. Psychiatric Clinics of North America, 2010. vol. 33, no. 1
+GERSHON, J. 2002. A meta-analytic review of gender differences in ADHD. Journal of
+Attention Disorders, 2002. vol. 5, no. 3
+GIACOBINI, M. B. – MEDIN, E. 2018. Prevalence, Patient Characteristics, and
+Pharmacological Treatment of Children, Adolescents, and Adults Diagnosed With ADHD
+in Sweden. Journal of Attention Disorders, 2018. vol. 22, no. 1
+63
+
+GOETZ, M. – UHLÍKOVÁ, P. 2009. ADHD - porucha pozornosti s hyperaktivitou: příručka
+pro starostlivé rodiče a zodpovědné učitele. Praha: Galén, 2009. 160 s. ISBN 978-80-7262630-4.
+GRAETZ, B. 2005. Gender Differences Among Children With DSM-IV ADHD in Australia.
+Journal of the American Academy of Children & Adolescent Psychiatry, 2005. vol. 44, no.
+2
+GWERNAN – JONES, R. D. – MOORE, A. 2016. A Systematic Review and Synthesis of
+Qualitative Research: The Influence of School Context on Symptoms of Attention Deficit
+Hyperactivity Disorder. Emotional and Behavioural Difficulties, 2016. vol. 21, no. 1
+HAMMOND, D. C. 2007. What Is Neurofeedback? Journal of Neurotherapy, 2007. vol. 10,
+no. 4.
+HALLOWELL, E. M. - RATEY, J. J. 2007. Poruchy pozornosti v dětství i dospělosti:
+[poruchy pozornosti a hyperaktivita, rozpoznání, řešení, prevence]. Praha: Návrat domů,
+2007. 306 s. ISBN 978-80-7255-154-5.
+HELUS, Z. 2004. Dítě v osobnostním pojetí: obrat k dítěti jako výzva a úkol pro učitele i
+rodiče . Praha: Portál, 2004. 232 s. ISBN 80-7178-888-0
+HENDL, J. 2005. Kvalitativní výzkum: základní teorie, metody a aplikace. Praha: Portál,
+2005. 408 s. ISBN 80-7367-040-2
+HJORNE, E. – EVALDSSON, A. C. 2015. Reconstituting the ADHD Girl: Accomplishing
+Exclusion and Solidifying a Biomedical Identity in an ADHD Class. International Journal Of
+Inclusive Education, 2015. vol. 19, no. 6
+HONKASILTA, J. 2019. The Premise, Promise and Disillusion of the ADHD
+Categorisation – Family Narrative about the Child’s Broken School Trajectory. Emotional
+and Behavioural Difficulties, 2019. vol. 24, no. 3
+HOUCK, G. 2011. Self Concept in Children and Adolescents with ADHD. J Pediatr Nurs,
+2011. vol. 26, no. 3
+CHUNG, W. – JIANG, S. 2019. Trends in the prevalence and incidence of attention-deficit/
+hyperactivity disorder among adults and children of different racial and ethnic groups.
+JAMA Network Open, 2019. vol. 2, no. 11
+
+64
+
+JENETT, W. 2013. ADHD - 100 tipů pro rodiče a učitele. Brno: Edika, 2013. 191 s. ISBN
+978-80-266-0158-6
+KATZMAN, M. – BILKEY, T. 2017. Adult ADHD and comorbid disorders: Clinical
+implications of a dimensional approach. BMC Psychiatry, 2017. vol. 17, no. 1
+KENT, K. 2011. The Academic Experience of Male High School Students with ADHD.
+Journal of Abnormal Child Psychology, 2011. vol. 39, no. 3
+KOOIJ, S. J. – BEJEROT, S. 2010. European consensus statement on diagnosis and
+treatment of adult ADHD: the European Network Adult ADHD. BMC Psychiatry, 2010. vol.
+10, no. 1
+KOOIJ, J. J. S. 2019. Updated European Consensus Statement on diagnosis and treatment
+of adult ADHD. Psychiatry, 2019. vol. 56, no. 1
+KURIVAN, A. B. 2013. Young adult educational and vocational outcomes of children
+diagnosed with ADHD. Abnorm Child Psychol., 2013. vol. 41, no. 1
+LANGMEIER, J. – BALCAR, K. – ŠPITZM J. 2010. Dětská psychoterapie. Praha: Portál,
+2010. 432 s. ISBN 978-80-7367-7710-7
+LANGMEIER, J. – KREJČÍŘOVÁ, D. 2006. Vývojová psychologie. Praha: Grada, 2006.
+368 s. ISBN 80-2471-284-9
+MALMQVIST,
+
+J.
+
+2018.
+
+Has
+
+Schooling
+
+of
+
+ADHD
+
+Students
+
+Reached
+
+a Crossroads? Emotional and Behavioural Difficulties, 2018. vol. 23, no. 4
+MIOVSKÝ, M. 2006. Kvalitativní přístup a metody v psychologickém výzkumu. Praha:
+Grada, 2006. 332 s. ISBN 80-247-1362-4
+MUNDEN, A. - ARCELUS, J. 2002. Poruchy pozornosti a hyperaktivita: přehled
+současných poznatků a přístupů pro rodiče a odborníky. Praha: Portál, 2002. 119 s. ISBN
+80-7178-625-X.
+MONTOYA, A. 2011. Is psychoeducation for parents and teachers of children and
+adolescents with ADHD efficacious? A systematic literature review, 2011. vol. 26, no. 3
+OWENS, E. B. – ZALECKI, C. 2017. Girls with childhood ADHD as adults: Cross-domain
+outcomes by diagnostic persistence. Journal of Consulting & Clinical Psychology, 2017. vol.
+85, no.7
+65
+
+OZEL – KIZIL, E. 2016. Hyperfocusing as a dimension of adult attention deficit
+hyperactivity disorder. Research in Developmental Disabilities, 2016. vol. 59.
+PACLT, I. 2007. Hyperkinetická porucha a poruchy chování. Praha: Grada, 2007. 234 s.
+ISBN 978-80-247-1426-4.
+PALACIOS – CRUZ, L. 2018. Comparison of clinical and cognitive characteristics of a
+Mexican adult clinical population with and without ADHD. Salut Nurse, 2018. vol. 41, no.
+6
+PAPP, S. 2020. Impaired early information processing in adult ADHD: A high-density ERP
+study. BMC Psychiatry, 2020. vol. 20, no. 1
+PELLETIER, E. 2014. Porucha pozornosti bez hyperaktivity: pomoc rodičům a učitelům.
+Praha: Portál, 2014. 115 s. ISBN 978-80-262-0599-9.
+PIDANO, A. – SLATER, C. 2016. Availability of telephone-based child psychiatry
+consultation: Implications from a survey of pediatric providers in two states. Journal of
+Child and Family Studies, 2016. vol. 25, no. 8
+PLHÁKOVÁ, A. 2005. Učebnice obecné psychologie. Praha: Academia; 2005. 472 s.
+ISBN 80-200-1387-3
+POWELL, L. A. – PARKER, J. 2022. Psychoeducation intervention effectiveness to improve
+social skills in young people with adhd: a meta-analysis. J. Atten. Disord, 2022. vol. 26 , no.
+3
+PTÁČEK, R. – PTÁČKOVÁ, H. 2019. ADHD - variabilita v dětství a dospělosti. Praha:
+Karolinum, 2019. 129 s. ISBN 978-80-246-2930-8.
+RABOCH, J. 2011. Psychiatrie. Praha: Galén, 2001. 622 s. ISBN 80- 246-0390-X.
+REID, R. C. 2018. Characteristics of treatment seeking problem gamblers with adult ADHD.
+International Journal of Mental Health and Addiction, 2018. vol. 18, no. 4
+ROGERS, M. 2018. Are classrooms meeting the basic psychological needs of children with
+ADHD symptoms? A self-determination theory perspective. J. Atten. Disord, 2018. vol. 22,
+no. 14
+SADEGHI, H. 2020. Road crashes in adults with attention deficit hyperactivity disorder and
+risky driving behavior. Iranian Journal of Psychiatry, 2020. vol. 3
+66
+
+SANDHU, A. 2020. A community survey of adults with attention deficit hyperactivity
+disorder (ADHD) and their experience of medication effectiveness. Australasian Psychiatry,
+2020. vol. 29, no. 1
+SCIBERRAS, E. – MULRANEY, M. 2017. Prenatal risk factors and the etiology of
+ADHD— review of existing evidence. Current psychiatry reports, 2017. vol. 19, no. 1
+SEDGWICK, J. A. 2018. University Students with Attention Deficit Hyperactivity Disorder
+(ADHD): A Literature Review. Irish Journal of Psychological Medicine, 2018. vol. 35, no. 3
+SELASKOWSKI, B. 2022. Smartphone-assisted psychoeducation in adult attention –
+deficit/hyperactivity disorder: A randomized controlled trial. Psychiatry Research, 2022.
+vol. 317
+STOREBO, O. J. 2019. Social skills training for Attention Deficit Hyperactivity Disorder
+(ADHD) in children aged 5 to 18 years. Cochrane Database of Systematic Reviews, 2019.
+vol. 6.
+SWINGLER, M. 2015. Neural plasticity and the development of attention: Intrinsic and
+extrinsic influences. Dev Psychopathol. 2015; vol. 27, no. 2
+ŠVAŘÍČEK, R. - ŠEĎOVÁ. 2007. Kvalitativní výzkum v pedagogických vědách. Praha:
+Portál, 2007. 377 s. ISBN 978-80-7367-313-0
+ŠVAŘÍČEK, R. – ŠEĎOVÁ, K. 2014. Kvalitativní výzkum v pedagogických vědách. Praha:
+Portál, 2014. 384 s. ISBN 978-80-262-0644-6
+TANG, W. 2017. Supporting homework compliance in cognitive behavioural therapy:
+essential features of mobile apps. JMIR Ment. Health, 2017. vol. 4, no. 2
+TRAUTMANN, M. 2012. Attentional Performance, Age and Scholastic Achievement in
+Healthy Children. Paterson K, ed. PLoS ONE. 2012; vol. 7, no. 3
+VAAG, J. R. 2019. Psychoeducational groups versus waitlist in treatment of attentiondeficit hyperactivity/impulsivity disorder (ADHD) in adults: a protocol for a pilot
+randomized waitlist-controlled multicenter trial. Pilot Feasibility Stud, 2019. vol. 5, no. 17
+VÁGNEROVÁ, 2020. Vývoj pozornosti a exekutivních funkcí. Praha: Raabe, 2020. 260 s.
+ISBN 978-80-9476-441-1
+
+67
+
+WIENER, J. 2016. School Experiences of Adolescents with Attention-Deficit/Hyperactivity
+Disorder. Journal of Learning Disabilities, 2016. vol. 19, no. 6
+YOUNG, S. – BRANHAM, J. 2012. Cognitive behavioral therapy for ADHD in adolescents
+and adults: A psychological guide to practice. Malden: John Wiley & Sons, 2012. 328 s.
+ISBN 978-1-119-96074-4
+YOUNG, S. – SEDWICK, M. 2015. Co-Morbid Psychiatric Disorders among Incarcerated
+ADHD Populations: A Meta-Analysis, Psychological Medicine, 2015. vol. 45, no. 12
+ZELINKOVÁ, O. 2015. Poruchy učení: dyslexie, dysgrafie, dysortografie, dyskalkulie,
+dyspraxie, ADHD. Praha: Portál, 2015. 264 s. ISBN 978-80-262-0875-4.
+ŽÁČKOVÁ, H. – JUCOVIČOVÁ, D. 2017. Nepozornost, hyperaktivita a impulzivita:
+zápory i klady ADHD v dospělosti. Praha: Grada, 2017. 168 s. ISBN 978-80-271- 0204-4.
+
+68
+
+PRÍLOHA 1
+Rozhovor - otázky
+Úvod
+•
+
+Ako sa u Vás porucha pozornosti typicky prejavuje?
+
+•
+
+V akých situáciách sa s týmito prejavmi typicky stretávate?
+
+•
+
+Sú aj nejaké situácie kde sa problémy nevyskytujú?
+
+Detstvo a rodina
+•
+
+Ako vás vnímala vaša rodina?
+
+•
+
+Ako by ste charakterizovali vaše detstvo?
+
+•
+
+Aké ste mali koníčky a záľuby? Aké máte dnes?
+
+Škola
+•
+
+Ako Vás v škole vnímali vaši spolužiaci a učitelia?
+
+•
+
+Ako spätne hodnotíte školu/štúdium?
+
+•
+
+Ovplyvnila Vás porucha pozornosti pri štúdiu?
+
+Práca
+•
+
+Ako Vám vyhovuje Váš súčasná práca?
+
+•
+
+Zohľadnil/a ste poruchu pozornosti nejako pri voľbe povolania?
+
+•
+
+Myslíte, že má porucha pozornosti nejaký vplyv na Vašu úspešnosť a spokojnosť v
+práci?
+
+•
+
+Mali ste problém kvôli poruche pozornosti nájsť si prácu?
+
+•
+
+Ako vnímate Vašu prácu učiteľa/učiteľky s poruchou pozornosti?
+
+69
+
+

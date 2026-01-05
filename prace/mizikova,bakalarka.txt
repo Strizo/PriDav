@@ -1,0 +1,2874 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+ANALÝZA VYUŽÍVANIA METODÍK PROJEKTOVÉHO
+RIADENIA V ZÁVISLOSTI OD TYPU PROJEKTU A
+PROSTREDIA JEHO REALIZÁCIE
+
+Bakalárska práca
+
+2022
+Alena Mižiková
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+ANALÝZA VYUŽÍVANIA METODÍK PROJEKTOVÉHO
+RIADENIA V ZÁVISLOSTI OD TYPU PROJEKTU A
+PROSTREDIA JEHO REALIZÁCIE
+Bakalárska práca
+
+Študijný program:
+
+Manažment
+
+Študijný odbor:
+
+Ekonómia a manažment
+
+Školiace pracovisko:
+
+Katedra informačných systémov
+
+Školiteľ/Školiteľka:
+
+Mgr. Miriam Filipová
+
+Bratislava 20200
+Alena Mižiková
+
+Zadanie záverečnej práce
+
+Abstrakt
+MIŽIKOVÁ, Alena: Analýza metodík projektového riadenia v závislosti od typu
+projektu a prostredia jeho realizácie. [Bakalárska práca] – Univerzita Komenského v
+Bratislave. Fakulta managementu; Katedra informačných systémov. – Školiteľka: Mgr.
+Miriam FILIPOVÁ. Bratislava: UK, 2022, 56 s.
+
+Bakalárska práca sa venuje téme analýza využívania metodík projektového riadenia
+v závislosti od typu projektu a prostredia jeho realizácie. Jej cieľom je poskytnúť čitateľovi
+komplexný pohľad na súvislosti medzi projektovým riadením, typom projektu a prostredím
+projektu doma aj v zahraničí. Prvá kapitola je venovaná teórii a charakterizuje metodiky
+a štandardy projektového riadenia, typy projektov a projektové prostredie. Druhá a tretia
+kapitola sa venuje cieľom a metodike bakalárskej práce. V štvrtej kapitole je zostavená
+matica metodík projektového riadenia obsahujúca prepojenie typu projektu a projektového
+prostredia.
+
+Kľúčové slová: projektové riadenie, typy projektov, projektové prostredie, PRINCE2®,
+PRINCE2® Agile, IPMA, PMI, SCRUM, Kanban,
+
+Abstract
+MIŽIKOVÁ, Alena: Analysis of the Use of Project Management Methodologies
+Depending on the Type of Project and the Environment of its Implementation [Bachelor
+Thesis] – Comenius University in Bratislava. Faculty of Management; Department of
+Information Systems – Supervisor: Mgr. Miriam FILIPOVÁ. Bratislava: Comenius
+University in Bratislava, 2022, 56 pp.
+
+The topic of the bachelor thesis is the analysis of project management methodologies
+depending on the type of project and environment. The reason why I chose this topic is that
+I work as a project manager in a small company. I wanted to improve myself at work and
+gain even more theoretical knowledge through the Bachelor thesis. The aim of the bachelor's
+thesis is to provide the reader with a comprehensive view of the connections between project
+management, the type of project and the project environment at home and abroad. When
+writing the thesis, i used the thought processes of analysis, comparison and deduction. The
+Bachelor thesis discusses the current situation of the use of project methodologies at home
+and abroad. When writing my bachelor's thesis, I relied on domestic and foreign professional
+literature and professional articles by various authors. The result is the compilation of a
+matrix of project management methodologies, which contains the link between the type of
+project and the project environment.
+
+Key words: project management, project types, project environment PRINCE2®,
+PRINCE2® Agile, IPMA, PMI, SCRUM, Kanban,
+
+Predhovor
+Témou bakalárskej práce je analýza metodík projektového riadenia v závislosti od typu
+projektu a prostredia. Dôvodom prečo som si vybrala práve túto tému je, že zatiaľ krátky čas
+pracujem ako projektový manažér v menšej firme. Chcela som sa aj prostredníctvom tejto
+balkarskej práce pracovne zlepšiť a získať ešte viac teoretických poznatkov. Cieľom
+bakalárskej práce je poskytnúť čitateľovi komplexný pohľad na súvislosti medzi
+projektovým riadením, typom projektu a prostredím projektu doma aj v zahraničí. Pri tejto
+práci som využila myšlienkové postupy analýzy, komparácie a dedukcie. Práca pojednáva
+o aktuálnej situácii využívania projektových metodik doma aj v zahraničí. Pri písaní práce
+som sa opierala o domácu aj zahraničnú odbornú literatúru a odborné články rôznych
+autorov. Výsledkom je zostavenie matice metodík projektového riadenia, ktorá obsahuje
+prepojenie medzi typom projektu a projektovým prostredím.
+
+Poďakovanie
+Touto cestou by som sa chcela poďakovať mojej školiteľke bakalárskej práce Mgr.
+Miriam Filipovej za jej ústretovosť, láskavosť a cenné praktické rady pri písaní tejto práce.
+Ďalej by som sa chcela poďakovať Univerzite Komenského v Bratislave za poskytnutie
+prístupu k databázam odborných článkov, za ich prístup k študentom a spôsobe vyučovania.
+
+Obsah
+Úvod .................................................................................................................................... 10
+1
+
+Metodiky projektového riadenia doma a v zahraničí ............................................. 11
+Metodiky projektového riadenia vo svete ............................................................. 11
+
+1.1
+
+2
+
+1.1.1
+
+Vodopádový (tradičný) model projektového riadenia .............................................. 12
+
+1.1.2
+
+Agilný model projektového riadenia ........................................................................ 14
+
+1.1.3
+
+Štandardné metodiky projektového riadenia............................................................ 16
+
+1.1.4
+
+Agilné metodiky projektového riadenia.................................................................... 22
+
+1.2
+
+Metodiky projektového riadenia používané na Slovensku ................................... 29
+
+1.3
+
+Typy projektov ...................................................................................................... 30
+
+1.4
+
+Projektové prostredie ............................................................................................ 34
+
+Cieľ bakalárskej práce ............................................................................................... 36
+2.1
+
+Čiastkové ciele práce............................................................................................. 36
+
+3
+
+Metodika práce a metódy skúmania ......................................................................... 37
+
+4
+
+Výsledky práce ............................................................................................................ 38
+4.1
+
+Definovanie vybraných kritérií ............................................................................. 39
+
+Záver ................................................................................................................................... 50
+Zoznam použitej literatúry ............................................................................................... 51
+
+Zoznam obrázkov
+Obrázok 1 Príklad tradičného priameho procesného modelu projektového managementu 13
+Obrázok 2 Vodopád vs Agilita ............................................................................................ 15
+Obrázok 3 Procesný model PRINCE2® .............................................................................. 17
+Obrázok 4 Oko Kompetencii ............................................................................................... 20
+Obrázok 5 Prince2® Agile................................................................................................... 23
+Obrázok 6 Kanban board ..................................................................................................... 27
+Obrázok 7 Vodopádový vs agilný model projektového riadenia. ....................................... 29
+
+Zoznam tabuliek
+Tabuľka 1 Porovnanie štandardov projektového riadenia .................................................. 22
+Tabuľka 2 Komunity, pre ktoré je PRINCE2® Agile vhodný ............................................ 24
+Tabuľka 3 Porovnane metodológie SCRUM a Kanban....................................................... 28
+Tabuľka 4 Typy a charakteristiky projektov........................................................................ 33
+Tabuľka 5 Ekonomické rozdelenie podnikov ...................................................................... 34
+Tabuľka 6 Matica metodík projektového riadenia v súvislosti s typom projektu
+a projektovým prostredím .................................................................................................... 48
+
+Zoznam skratiek a značiek
+IPMA
+
+International Project Management Association
+
+PMI
+
+Project Management Institute
+
+MSP
+
+Malý a stredný podnik
+
+VP
+
+Veľký podnik
+
+SS
+
+Súkromný sektor
+
+VS
+
+Verejný sektor
+
+Slovník termínov
+Projekt je akýkoľvek jedinečný sled aktivít a úloh, ktorý má:
+•
+
+daný špecifický cieľ, ktorý ma byť pri jeho realizácii splnený,
+
+•
+
+definovaný dátum začiatku a konca uskutočnenia,
+
+•
+
+stanovený rámec pre čerpanie zdrojov pre jeho realizáciu. (Krezner, 2017, s.2).1
+
+Projektové riadenie je súbor noriem, doporučení a best of practice skúsenosti,
+popisujúcich. ako riadiť projekt. Vzhľadom k rôznorodosti projektov, ako takých sa jedná
+skôr o všeobecne platné skutočnosti, určitou filozofiou prístupu k riešeniu danej
+problematiky než o konkrétne podrobné smernice a návody. (Doležal, 2016, s.16).2
+Životný cyklus projektu má niekoľko fáz. Otvorenie, plánovanie, realizácia,
+ukončenie. (Krchová, 2019, s.22)3
+Projektový tím je hlavným výkonným článkom projektu. Jednou z prvých úloh
+plánovacej fázy projektu je ustanovenie organizačnej štruktúry projektu a nastavenie ich
+vzťahov k materskej organizácii. Projektoví tím je skupina osôb, ktoré sa realizačne
+podieľajú na splnení cieľov projektu a po dobu projektu podliehajú riadeniu projektového
+manažéra. a to v rozsahu prideleného času alebo určitej pracovnej kapacity a v rámci
+pridelených oprávnení a zodpovednosti. (Svozilová, 2016, s.32)4
+
+1
+
+KREZNER, Harold,.Project Management. New Jersey: John Wiley & Sons, Inc., Hoboken, 2017. ISBN 97811-1916-5361, s.2.
+2
+DOLEŽAL, Jan, et al. Projektový managment. Komplexně, prakticky a podle světových standardů. Praha :
+Grada Publishing. 2016. ISBN 978-80-247-5620-2, s. 16.
+3
+KRCHOVÁ, Hana. Praktický projektový manažment. Praha : Wolers Kluwer, 2019. ISBN 978-80-7598-4661, s.22.
+4
+SVOZILOVÁ, Alena. Projektový management Systémový přístup k řízení projektu. 3. vyd. Praha: Grada
+Publishing, 2016. ISBN 978-80-271-0075-0, s. 32.
+
+Úvod
+Cieľom bakalárskej je priniesť komplexný pohľad na súvislosti medzi projektovým
+riadením, typom projektu a prostredím projektu doma aj v zahraničí. Prvá časť bakalárskej
+práce uvádza teoretický pohľad na
+
+projektové riadenie, typy projektov a projektové
+
+prostredie. V druhej časti bakalárskej práce sú uvedené ciele bakalárskej práce a v tretej časti
+je uvedená metodika spracovania práce. Štvrtá praktická časť uvádza reálne príklady
+projektov z praxe a tie spolu s inými časťami práce slúžia ako podklad pre vytvorenie matice
+projektového riadenia, ktorá obsahuje prepojenie medzi typom projektu a projektovým
+prostredím. Cieľom bakalárskej práce nie je vnášať nový pohľad na projektový manažment
+a metodiky projektového riadenia alebo podať výklad z diel autorov projektového
+manažmentu.
+
+10
+
+1
+
+Metodiky projektového riadenia doma a v zahraničí
+1.1 Metodiky projektového riadenia vo svete
+Metodiky projektového riadenia obvykle nevznikajú na akademickej pôde, ale v sú
+
+výsledkom praxe. Môžeme povedať, že ide skôr o súpis skúsenosti významných manažérov
+a osobnosti. Projektový management pokrýva veľký priestor a vyžaduje sústavnú prácu
+a komunikáciu s ľuďmi. Preto sa často metodiky nepoužívajú „do bodky“ a sú to skôr
+všeobecné pravidlá. Rozdiely spočívajú aj v tom či riadime sociálny projekt alebo výstavbu
+budovy. Mnohé metodiky však majú podobnú filozofiu, názvoslovie a postupy.
+Pre lepšie porozumenie rozdielov v jednotlivých metodikách si zadefinujeme základné
+modely projektového riadenia. Hana Krchová vo svojej knihe uvádza:
+„V rámci riadenia projektov existujú modely, ktoré dopĺňajú základný životný cyklus
+projektu vo fázach plánovania a realizácie o podrobnejšie prístupy. Takýmto príkladom
+môže byť tzv. vodopádový model.“ (Krchová, 2019, s. 22).5
+„Vodopádový model je protikladom tzv. agilnému projektovému modelu riadenia
+projektu.“ (Krchová, 2019, s. 23)6
+Svozilová (2016) uvádza ešte podrobnejšie rozdelenie modelov projektového riadenia.
+Okrem priameho tradičného modelu (vodopád) spomína aj cyklické a iteratívne modely,
+model budovania postupných prírastkov, evolučné modely a ďalšie. Ďalej uvádza:
+„Jednotlivé teoretické prístupy, ktoré sa v dnešnej praxi projektového manažmentu
+používajú, vychádzajú zo základného Demingovho modelu7. Ako základ používajú všetky
+bežné metódy a kroky tak, ako ich popisuje asociácia projektových manažérov PMI.“
+(Svozilová, 2016, s. 383).8
+Táto citácia nás privádza k publikácii Smolíkovej, ktorá uvádza:
+„Teória a prax projektového riadenia vychádza z troch základných svetových metodík:
+•
+
+IPMA (International Project Management Association),
+
+•
+
+PMI (Project Management Institute),
+
+KRCHOVÁ, ref. 3, s. 22.
+KRCHOVÁ, ref. 3, s. 23.
+7
+Pozn. autorky. Demingov model je iteratívna metóda založená na štyroch základných krokoch. Naplánuj
+(plan), vykonaj(do) , verifikuj (check), jednaj (act). PDCA. Autorom PDCA cyklu je doktor W. Edwars Deming.
+Koncept PDCA je založený na vedeckej metóde.
+8
+SVOZILOVÁ, ref. 4, s. 383.
+5
+6
+
+11
+
+•
+
+PRINCE2 (Project in controlled environment). „ (Smolíková, 2018, s. 15).9
+
+Tým sme sa dostali od definovania modelov projektového riadenia k definovaniu
+metodík projektového riadenia. Môžeme povedať, že modely projektového riadenia
+obsahujú rôzne metodiky projektového riadenia.
+V základnom rozdelení môžeme pokračovať aj na základe elektronickej knižnej
+publikácie projektového manažmentu od autorov Kohnová a Papuľa (2022)10. V tejto
+literatúre sa stretneme s rozdelením na ťažké a odľahčené metodológie.
+Medzi hlavné svetové metodiky patrí do istej miery aj medzinárodná norma ISO
+21 500. Norma bola vydaná v roku 2012. Cieľom tejto normy je vysvetliť základné princípy
+a poskytnúť všeobecné usmernenie pri riadení projektu, ktoré vychádzajú z praxe.
+„Norma ISO 21500 vo svojej podstate nadväzuje na normu ISO 10006. Norma ISO
+1006 sa zaoberá predovšetkým otázkou riadenia kvality pri riadení projektov, ISO 21500
+poskytuje návod na projektové riadenie.“(Krchová, 2019, s. 16)11
+Kritici normy ISO 21 500
+
+tvrdia, že je vhodná prevažne pre tradičný model
+
+projektového riadenia a neposkytuje alternatívy. To je možno dôvod prečo veľa firiem túto
+normu nepoužíva.
+1.1.1
+
+Vodopádový (tradičný) model projektového riadenia
+
+Jedná sa o tradičný priamy procesný model, ktorý predstavil Winston Royce začiatkom
+sedemdesiatych rokov.
+„Tento model zdôrazňuje priamy tok, v ktorom vyvíjaný predmet projektu prechádza
+jednotlivými vývojovými štádiami, ktoré sú spravidla ukončené míľnikmi, v ktorých je možné
+overiť, že príslušné fázy splnili svoj účel a prispeli k vývoju predmetu podľa vopred
+stanoveného predpokladu.“ (Svozilová, 2016, s. 384).12
+Tradičný model riadenia je veľmi používaný. Pri tomto modeli projekt prechádza
+piatimi základnými fázami.
+
+SMOLÍKOVÁ, Lenka. Projektové řízení. Studijní text pro prezenční a kombinovanou formu studia. Brno:
+Akademické nakladatelství CERM, 2018. ISBN 978-80-214-5695-2, s. 15.
+10
+KOHNOVÁ Lucia a PAPULA, Ján. Projektový manažment. Bratislava : Univerzita Komenského
+v Bratislave, 2022. ISBN 978-80-223-5358-8, s. 52.
+11
+KRCHOVÁ, ref. 3, s. 16.
+12
+SVOZILOVÁ, ref. 4, s. 384.
+9
+
+12
+
+Obrázok 1 Príklad tradičného priameho procesného modelu projektového managementu
+
+(Zdroj: SVOZILOVÁ, Alena. Projektový management Systémový přístup k řízení projektu. 3. vyd. Praha: Grada
+Publishing, 2016. ISBN 978-80-271-0075-0, s. 384)
+
+V prvej fáze definujeme základnú víziu projektu, vyberáme vhodnú metodiku pre
+vedenie projektu. Dôraz sa kladie na plánovanie projektu. Táto fáza sa nazýva koncept.
+Potom, ako máme zadefinovanú základnú myšlienku a máme plán projektu nastupuje ďalšia
+fáza projektu, spísanie požiadaviek. V tejto fáze zozbierame špecifické požiadavky projektu
+týkajúce sa predmetu projektu. Tretia fáza projektu obsahuje detailný návrh, rozbor
+a zdôvodnenie týkajúce sa projektu. Štvrtá a predposledná fáza je testovanie projektu.
+Overujeme funkčnosť zapracovania jednotlivých prvkov, ale aj funkčnosť celého projektu.
+Poslednou fázou je uvedenie projektu do prevádzky.
+„Rozhodovací blok na obrázku 1 znázorňuje uskutočnené rozhodnutia o tom či daná
+fáza projektu naplnila svoj cieľ a, či je proces pripravený do ďalšej fázy. Ak cieľ nie je
+splnený, aplikuje sa korekčné opatrenie, čo je tiež súčasťou plánu projektu. Výstupom
+v každej fáze je medziprodukt (na obrázku je znázornený blokom Produkt A až E,) ktorý môže
+byť dokument obsahujúci informácie o stave zapracovania, overenia vrátane ďalších
+údajov, ktoré môžu mať neskorší význam pri hodnotení, zostavovaní ponaučenia
+a uzatvorenia projektu.“ (Svozilová, 2016, s. 385).13
+Vodopádový model riadenia ma najlepšie využitie u projektov, ktoré musia prechádzať
+jednotlivými fázami. Nová fáza začína až po dokončení predošlej. Využíva sa často vo
+
+13
+
+SVOZILOVÁ, ref. 4, s. 385.
+
+13
+
+výrobnom sektore a stavebnom priemysle. Tradičný model riadenia projektu je často
+vizualizovaný vo forme vývojového diagramu alebo Ganttovho diagramu. Ide o lineárnu
+metodiku riadenia projektu. Pri tradičnom modely riadenia sa často používa softvér MS
+Project.
+1.1.2
+
+Agilný model projektového riadenia
+
+Agilný model riadenia projektu vznikol ako odpoveď na nedostatky priameho
+tradičného modelu riadenia projektu. Ide o iteratívny spôsob riadenia projektu.
+„Agilita je o spolupráci a komunikácii a pripravenosti na zmenu. O tom, že zásadne
+robíme to, čo má v danú chvíľu zmysel a robíme to tak, ako o najlepšie vieme. Agilita síce
+nie je žiadny striktný proces, ale nie je to ani žiadny chaos. Má svoje jasné pravidla.“
+(Šochová, 2019, s. 15)14.
+Agilný prístup sa na svojom začiatku využíval prevažne pri vývoji softvéru. Preukázal
+sa, ako užitočný spôsob, a tak sa začal využívať aj v iných oblastiach. Okrem IT oblasti sa
+pomerne často využíva aj vo finančných a marketingových projektoch.
+Zásadný rozdiel medzi vodopádovým (tradičným) a agilným modelom riadenia
+spočíva v tom, že pri tradičnom modeli zisťujeme potreby na začiatku projektu a projekt
+odovzdáme, keď je hotový. V prípade agilného modelu sa opakovane zaujímame o potreby
+zákazníka.
+
+ŠOCHOVÁ, Zuzana a KUNCE, Eduard. Agilní metody řízení projektů. Brno : Computer Press, 2019. ISBN
+978-80-251-4961-4, s. 15.
+14
+
+14
+
+Obrázok 2 Vodopád vs Agilita
+
+(Zdroj: DOLEŽAL, Jan., et. al. Projektový management. Komplexně, prakticky a podle světových standardů. Praha :
+Grada Publishing. 2016. ISBN 978-80-247-5620-2, s. 310)
+
+Zakomponovanie agilných metód do životného cyklu projektu sa často nazýva aj
+adaptívny životný cyklus projektu.
+„Agilné projektové riadenie býva často spojované s používaním niektorej zo
+zavedených metód, avšak použitie metódy samo o sebe nevypovedá o tom či je projekt
+riadený agilne. Naopak, nemusí byť adaptovaná žiadna špecifická metodika, aby sme mohli
+prehlásiť, že projekt je riadený agilne.“ (Doležal, 2016, s. 311)15
+Základné
+
+princípy
+
+agilného
+
+riadenia
+
+sú
+
+definované
+
+v Manifeste
+
+agilného
+
+programovania. Tento manifest obsahuje dvanásť princípov, na ktorých je agilný prístup
+založený.
+Dvanásť princípov agilného vývoja softvéru:
+1. Najvyššia pririta je snaha vyhovieť zadávateľovi priebežným dodávaním
+funkčného výstupu.
+2. Priebžná komunikácia zmenových požiadaviek.
+3. Dodávanie funkčných výstupov v týždňových alebo mesačných intervaloch.
+4. Denná spolupráca jednotlivých členov projektu.
+5. Vytváranie potrebnej motivácie.
+6. Každý člen tímu musí dostatočne chápať na čom pracuje.
+
+15
+
+DOLEŽAL, ref.2., s. 311.
+
+15
+
+7. Hlavné meradlo pokroku sú funkčné výstupy.
+8. Udržanie stáleho tempa vývoja na strane sponzorov, vývojárov a užívateľov.
+9. Dostatočná pozornosť technickej výnimočnosti a dizajnu.
+10. Výlučne realizovanie úloh potrebných k dosiahnutiu cieľa.
+11. Súdržný a erudovaný projektový tím.
+12. Pravidelné zamyslenie nad tým, ako sa stať efektívnejší. 16
+1.1.3
+
+Štandardné metodiky projektového riadenia
+
+1.1.3.1 PRINCE2®
+Medzi rozšírenú metodiku riadenia patrí PRINCE2®. Nejedná sa o výlučne tradičný
+model riadenia. Táto metodika bola vypracovaná v roku 1995 vo Veľkej Británii. Jedná sa
+o populárnu metodiku, ktorá sa často využíva v štátnej správe pri štátnych projektoch. Je
+tiež odporučená Európskou komisiou ako jedna z metód projektového riadenia pre riadenie
+projektov podporovaných z prostriedkov Európskej únie.
+„V súčasnej dobe je viac ako milión certifikovaných projektových manažérov.“
+(Máchal, 2015, s. 84)17
+Certifikáty PRINCE2® sú rozdelené na základe pracovnej pozície. Jednotlivé
+certifikácie sa odlišujú svojou náročnosťou. PRINCE2® Foundation je určený pre členov
+projektového tímu. PRINCE2® Practitioner je určený manažérom projektu. PRINCE2®
+Agile je určený účastníkom agilných projektov. K získaniu PRINCE2® Agile je potrebný
+PRINCE2® Practitioner certifikát.
+PRINCE2® je často používaná metodika projektového riadenia. Využíva pri stavených
+a IT projektoch. V metodike PRINCE 2® sa definuje projekt ako „Dočasnú organizáciu,
+ktorá je vytvorená za účelom poskytnutia jedného alebo viacerých obchodných produktov
+v súlade podľa dohodnutého obchodného prípadu/ odôvodnenia projektu. Produkty pritom
+musia prinášať prospešnú zmenu alebo pridanú hodnotu.“ (AXELOLS Limited, 2022).18
+
+AgileManifesto.org [online]. ©2022 [cit. 2022-08-06]. Dostupné na internete: https://agilemanifesto.org
+MÁCHAL, Pavel., KOPEČKOVÁ, Martina., PRESOVÁ, Radmila, Světové standardy projektového řízení
+pro malé a střední firmy. Praha: Grada Publishing, 2015. ISBN 978-80-247-5321-8, s. 84.
+18
+AXELOS Limited [online]. Veľká Británia: AXELOS Limited ©2022 [cit. 2022-08-04]. Dostupné na
+internete: https://www.axelos.com/certifications/prince2/what-is-project-management
+16
+17
+
+16
+
+„Metodika PRINCE2® vychádza z primárneho dokumentu nazývaného základné
+metódy projektového riadenia. V tomto dokumente sú definované hlavné princípy riadenia
+projektu, a to po celú dobu životného cyklu projektu.“ (Bentley, 2010, s. 311).19
+
+Obrázok 3 Procesný model PRINCE2®
+
+Zdroj: KOHNOVÁ Lucia a PAPULA, Ján. Projektový manažment. Bratislava : Univerzita Komenského v Bratislave, 2022.
+ISBN 978-80-223-5358-8, s. 70)
+
+Metodika PRINCE2® obsahuje sedem princípov, sedem kľúčových tém a sedem
+procesov. Zadefinovanie princípov, tém a procesov sa v odbornej literatúre opakuje. V tejto
+literatúre si autori neprotirečia, rozdielnosť je v detailnosti popisu jednotlivých princípov,
+tém a procesov. Pre potreby tejto bakalárskej práce sme si, ako zdroj zvolili odbornú
+literatúru od Kohnovej (2022)20 a Máchala (2015)21.
+Sedem princípov metoditky PRINCE2®:
+1. Nepretržitá opodstatnenosť investície - Projekt musí byť založený na
+životaschopnej investícii. Existencia investície musí byť potvrdená pred
+začatím projektu. Investícia musí byť kontrolovaná a potvrdzovaná v priebehu
+
+BENTLEY, Colin. Základy metody projektového řízení: The essence of the project management method :
+PRINCE2. Bratislava: Inbox SK, 2010. ISBN 978-0-9576076-2-0, s. 311.
+20
+KOHNOVÁ, ref. 10, s. 66.
+21
+MÁCHAL, ref. 17,. s. 85.
+19
+
+17
+
+celého projektu. Opodstatnenosť investície sa môže počas doby projektu
+zmeniť, musí však ostať platná po celú dobu realizácie projektu.
+2. Jasne definované role a zodpovednosť - Jasná štruktúra projektového tímu.
+Členovia tímu musia poznať akú majú právomoc a zodpovednosť a poznať aj
+právomoc a zodpovednosť ostatných členov tímu.
+3. Zameranie sa na produkty - Projekt je zameraný na finálny produkt, nie na
+aktivity, pomocou ktorých k finálnemu produktu dochádza.
+4. Riadenie po etapách - Projekt je rozdelený na jednotlivé časti a cieľom je
+definovať kľúčové body kontroly. Počet etáp závisí od veľkosti projektu, jeho
+zložitosti a jeho rizík.
+5. Riadenie na základe výnimky – V priebehu práce na projekte sa zisťujú
+odchýlky oproti pôvodnému plánu. Odchýlky za vyhodnocujú u všetkých
+aspektoch, čas, náklady, kvalita, rozsah, rizika a prínos. Pre každý tento aspekt
+je definovaná miera tolerancie už na začiatku projektu. Ak je miera tolerancie
+prekročená zapojí sa do rozhodovacieho procesu vedenie spoločnosti.
+6. Učiť sa zo skúseností – Pri spracovaní projektu by sa mal brať ohľad aj na
+skúsenosti manažérov. Získané skúsenosti by sa mali dokumentovať.
+7. Prispôsobenie metódy PRINCE2® prostrediu projektu – úroveň
+projektového riadenia by mala odpovedať prostrediu projektu, jeho rozsahu,
+riziku a požadovaným formalitám.
+
+Sedem kľúčových tém metodiky PRINCE2®:
+1. Investície - (bussines case), projekt musí mať životaschopný investičný zámer.
+2. Organizácia – štruktúra riadiaceho tímu musí ma jasné definovanú vzájomnú
+zodpovednosť.
+3. Kvalita – je dodržiavaná prostredníctvom noriem, metód kontroly kvality,
+očakávaním kvality na strane zákazníka.
+4. Plány – sú tvorené na rôznych úrovniach a sú prispôsobené projektu.
+5. Riziko – počas celej doby riadenia projektu sú vyhodnocované riziká.
+6. Zmena – riadenie zmien a sledovanie kľúčových častí projektu.
+7. Progres – súbor riadicích prvkov,
+s cieľom predchádzať problémom.
+18
+
+ktorý poskytuje zásadné informácie
+
+Sedem procesov metodiky PRINCE2:
+1. Zahájenie projektu – stanovenie cieľov projektu, uistenie sa, že máme všetky
+potrebné podklady, stanovenie očakávania kvality, uistenie sa, že je projekt
+životaschopný, príprava potrebnej dokumentácie.
+2. Nastavenie projektu – nastavenie plánov projektu, riadenie stratégie a rizík
+projektu, konfigurácia komunikácie, plánovanie projektu a prípravu na ďalšie
+procesy.
+3. Smerovanie projektu – schvaľovanie investičného zámeru, schvaľovanie
+plánu projektu.
+4. Kontrola etapy – monitorovanie a riadiace aktivity, kontrolné aktivity pre
+uistenie sa, že projekt pokračuje správnym smerom.
+5. Riadenie dodávky produktu – kontrolný mechanizmus priebehu práce.
+6. Riadenie prechodu medzi etapami – projektový manažér informuje riadiaci
+výbor o situácii, aktualizácia plánu projektu, podávanie správ o výstupe.
+7. Ukončenie projektu – formálne ukončenie projektu vo všetkých jeho
+aspektoch.
+1.1.3.2 IPMA
+Štandard IPMA nemá jasne definované procesy. Vychádza zo skúsenosti a schopnosti
+manažérov a členov tímu. Štandard IPMA odporúča určité procesné kroky, ktoré je potrebné
+vhodne aplikovať do konkrétnej projektovej situácie.
+
+Ponecháva tak veľký priestor
+
+kreativite a vlastnému názoru. Štandard IPMA definuje projekt ako:
+„Projekt je dočasné úsilie s cieľom vytvoriť unikátny produkt, alebo službu.“(
+International Project Management, 2018, s. 5)22
+„Základným etalónom je IPMA Competence Baseline (ICB) a z nej vychádzajúci
+národný štandard kompetencii projektového riadenia, ktorý vydáva Spoločnosť pre
+projektové riadenie.“ (Máchal, 2015, s. 18)23.
+
+22
+
+International Project Management, IPMA Individual Competence Baseline. Zurich, 2018.
+92338-01-3 s. 5.
+23
+MACHAL, ref. 17, s. 18.
+
+19
+
+ISBN 978-94-
+
+Obrázok 4 Oko Kompetencii
+
+(Zdroj: Společnost pro projektové řízení, Národní standard kompetencí projektového řízení verze 3.2. 2012 ISBN s. 5)
+
+Technické kompetencie popisujú prvky základných kompetencií projektového
+riadenia. Tieto prvky obsahujú základ pre riadenie projektu. Štandard IPMA obsahuje 20
+prvkov technických spôsobilostí projektového manažéra. Behaviorálne kompetencie
+popisujú kompetenciu osobnostného charakteru. Opisuje postoje a schopnosti projektového
+manažéra. Štandard IPMA opisuje 15 spôsobilostí projektového manažéra a ide hlavne
+o oblasť vedenia tímu, motivácie a podobne. Kontextové kompetencie sa vzťahujú
+k súvislostiam s riadením projektu. Štandard IPMA obsahuje 11 prvkov spôsobilosti
+projektového manažéra, ide napríklad o základnú znalosť legislatívy, schopnosť efektívne
+riadiť projekty a pod.
+1.1.3.3 PMI
+Významný posun v oblasti projektového riadenia priniesla nezisková organizácia
+Project Management Institute. Má celosvetovú pôsobnosť a združuje viac ako 2,9 miliónov
+profesionálov z oblasti projektového riadenia, práva, ale aj z výskumnej oblasti. Organizácia
+vynaložila maximálne úsilie, aby vytvorila štandard projektového riadenia. Štandard
+vytvorili na základe spoločných znakov projektov a skúsenosti ich členov. Publikácia
+dostala názov PMBOK – Project Management Body Of knowledge a často je označovaná
+ako biblia projektového riadenia. V publikácii sú definované základné smernice a znalosti
+viažuce sa na všeobecný životný cyklus projektu.
+
+Dopomohla k vzniku viacerých
+
+metodológii. Publikácia je často používaná aj na akademickej pôde.
+
+20
+
+Project Management Institute definuje projekt:
+„Projekt je dočasné úsilie podniknuté so zámerom vyhotoviť jedinečný produkt, službu
+alebo výsledok.“ (Project Management Institute, 2017, s.4)24
+PMI je procesne orientovaná metodika a zameriava sa na popis procesov a jednotlivých
+fáz životného cyklu projektu. Procesy a fázy sa počas projektu ovplyvňujú a prekrývajú.
+„Procesy sú zoskupené do piatich skupín:
+1. Procesná skupina Iniciácie – V týchto procesoch dochádza k definovaniu
+nového projektu alebo novej fázy existujúceho projektu, a to získaním povolenia
+a začatie projektu, alebo jeho fázy.
+2. Procesná skupina plánovania – Potrebné procesy na stanovenie rozsahu
+projektu, spresnenie cieľov, definovanie postupov potrebných na dosiahnutie
+cieľov.
+3. Procesná skupina realizácie – Vykonávanie práce, ktorá je stanovená v pláne
+projektu s ohľadom na dodržiavanie špecifík projektu.
+4. Procesná
+
+skupina
+
+monitoring
+
+a kontrola
+
+–
+
+Sledovanie,
+
+prehľad
+
+a usmerňovanie pokroku projektu. V týchto procesoch a stanovujú zmenové
+požiadavky a ich implementácia.
+5. Procesná skupina ukončenia – Tieto procesy finalizujú aktivity na projekte
+a formálne ukončenie projektu alebo ukončenie fázy projektu.“ (Project
+Management Institute, 2017, s. 591)25
+PMBOK udáva 47 procesov, ktoré sú rozdelené do piatich procesných skupín
+a desiatich znalostných oblastí. Procesné skupiny sú vzájomne prepojené prostredníctvom
+konečného produktu a nemali by byť zamieňané s fázami životného cyklu projektu. Medzi
+základné znalostné oblasti patrí Integrácia, Rozsah, Čas, Náklady, Kvalita, Ľudské zdroje,
+Komunikácia, Riziká, Obstarávanie. Každá zo znalostných oblasti obsahuje proces, ktoré by
+mali byť vykonané v rámci danej oblasti. Cieľom je zabezpečenie efektívnosti riadenia
+projektu. Každý z týchto procesov zároveň spadá do jednej z piatich základných procesných
+skupín, čím vzniká maticová štruktúra. Každý proces je pridelený jednej znalostnej oblasti
+a jednej procesnej skupine.
+
+24
+
+Project Management Institute. 2017. A guide to the project management body of knowledge (PMBOK guide)
+Sixth edition. Project Management Institute. ISBN: 978-16-282-5392-4 s. 4.
+25
+Project Management Institute, ref. 24, s. 591.
+
+21
+
+Tabuľka 1 Porovnanie štandardov projektového riadenia
+
+Parameter
+
+IPMA (ICB)
+
+PRINCE2®
+
+PMI (PMBOK)
+
+Všeobecná
+
+Súbor požadovaných
+
+Metóda riadenia
+
+Súbor najlepších
+
+charakteristika
+
+spôsobilostí na
+
+projektov
+
+praktík na riadenie
+
+štandardu
+
+riadenie projektov
+
+Techniky a nástroje
+
+Odvoláva sa na nich
+
+Opisuje iba dve, na
+
+Opisuje ich
+
+zvyšné sa odvoláva
+
+riadenia projektu
+Procesy riadenia
+
+projektov
+
+Odvoláva sa na nich
+
+Opisuje procesy (sú
+
+Opisuje procesy
+
+špecifické)
+
+projektu
+Záväznosť využitia
+
+Odvoláva sa na nich
+
+Musia sa dodržať
+
+Odporúčajú sa
+
+(metóda funguje ako
+
+procesov
+
+celok)
+Roly v organizácii
+
+Opisuje rolu
+
+Opisuje všetky roly
+
+Opisuje rolu
+
+projektu
+
+manažéra projektu
+
+v organizácii projektu
+
+manažéra projektu
+
+neopisuje
+
+Opisuje iba čiastočne
+
+(programu, portfólia)
+Zručnosti zvládať
+
+Opisuje detailne
+
+medziľudské vzťahy
+(mäkké zručnosti)
+(Zdroj: KRCHOVÁ, ref. 3 , s. 194.)
+
+1.1.4
+
+Agilné metodiky projektového riadenia
+
+1.1.4.1 PRINCE2® AGILE
+Od júna 2015 spoločnosť Axelos Ltd. zaviedla nový druh certifikácie PRINCE2®
+Agile.
+„PRINCE2® Agile je navrhnutý tak, aby vyhovoval rastúcemu dopytu zo strany
+manažérskej komunity. Požiadavka: spojenie dvoch rôznych a nesúrodých metód
+projektového riadenia. Kurz vyžaduje kvalifikáciu na úrovni PRINCE2® Practitioner. Je to
+,preto, že je zameraný na tých, ktorí majú skúsenosti s PRINCE2®, a chcú sa naučiť, ako a
+prečo postupovať Agile PM.“ (Axelos, 2016)26
+
+Alexos,prince2.com, Prince2® Agile is here but what is it. [online]. ©2016 [cit. 2022-08-03]. Dostupné na
+internete: https://www.prince2.com/eur/blog/prince2-agile-is-here-but-what-is-it
+26
+
+22
+
+Obrázok 5 Prince2® Agile
+
+( Zdroj: Axelos Ltd., axelos.com, Prince2® Agile Global best practice,2015. s. 20)
+
+PRINCE2 Agile vznikol ako reakcia na potreby využívania agilných metód
+projektového riadenia v spojitosti so štandardmi PRINCE2®. Ide o efektívne spojenie
+agilných postupov, procesov a kľúčových tém. Na obrázku 4 je vizuálne zobrazené
+prepojenie PRINCE2® a agilného prístupu k projektovému riadeniu.
+V prípade PRINCE2® Agile je dôležité, ktorá časť projektu je agilná a ktorá časť je
+konzistentná. Tabuľka 5 uvádza pre koho je PRINCE2® Agile určený. (Axelos, 2017)27.
+
+AXELOS. PRINCE2 Agile. Global best practice. [online]. 2015, [cit. 2022-08-10]. Dostupné na internete:
+https://potifob.sk/files/prince2-agile-guidance-preview.pdf
+27
+
+23
+
+Tabuľka 2 Komunity, pre ktoré je PRINCE2® Agile vhodný
+
+Zameranie na
+
+Komunita
+
+Popis
+
+Ciele
+
+Štandard
+
+Organizácie, oddelenia alebo
+
+Chcú integrovať agilitu do
+
+PRINCE2®
+
+jednotlivci používajúci štandardy
+
+svojich existujúcich
+
+vyžaduje agilitu
+
+PRINCE2® a chcú zaviesť
+
+pracovných postupov
+
+agilné procesy.
+
+PRINCE2® a využívať výhody
+
+PRINCE2®
+Agile
+Primárne
+
+tejto práce.
+Primárne
+
+Primárne
+
+Sekundárne
+
+PRINCE2®
+
+Organizácie, oddelenia alebo
+
+Chcú pochopiť čo je agilita, a
+
+stretnutie sa
+
+jednotlivci, ktorí prišli do
+
+ako funguje aby mohli
+
+s agilným
+
+kontaktu s inou organizáciou
+
+primerane prispôsobiť
+
+prístupom
+
+používajúcu agilitu v nejakej
+
+PRINCE2® a tieto agilné
+
+forme.
+
+postupy integrovať.
+
+PRINCE2®
+
+Organizácie, oddelenia alebo
+
+Chcú prijať štandardy
+
+praktická
+
+jednotlivci, ktorí používajú
+
+PRINCE2® Agile
+
+skúsenosť
+
+agilitu v nejakej forme.
+
+Agilné
+
+Organizácie, oddelenia alebo
+
+Chcú si osvojiť štandardný
+
+nastavenie,
+
+jednotlivci, ktorí majú skúsenosť
+
+prístup k projektovému
+
+prijatie
+
+s agilným vedením projektu
+
+riadeniu a doplniť ich
+
+PRINCE2®
+
+a chcú si osvojiť štandard
+
+existujúce agilné postupy.
+
+PRINCE2®.
+Možná oblasť
+
+Agilné
+
+Organizácie, oddelenia alebo
+
+Chcú sa zoznámiť
+
+zamerania
+
+projektové
+
+jednotlivci, ktorí majú osvojené
+
+s PRINCE2® Agile a rozšíriť
+
+riadenie
+
+agilné postupy projektového
+
+tak svoje vedomosti.
+
+riadenia a dosahujú vysokú
+úroveň úspešnosti projektov
+( Zdroj: Axelos Ltd., axelos.com, Prince2® Agile Global best practice,2015. s. 18)
+
+V PRINCE2® Agile zostáva pôvodný proces PRINCE2® neporušený agilné techniky
+sa pridávajú na rôznych úrovniach. Tieto agilné techniky umožňujú rýchlejšiu komunikáciu,
+stretnutia na dennej báze a pod.
+
+24
+
+„Pri porovnaní PRINCE2® a PRINCE2® Agile sa ukazuje, že v princípe ide o to isté.
+Obe odkazujú na rovnaké princípy, témy a procesy, ale v PRINCE2® Agile sú tieto funkcie
+prispôsobené tak, aby zapadli do agilného prostredia. „ (Prince2 Agile Wiki, 2022)28
+1.1.4.2 SCRUM
+„SCRUM
+
+je odľahčený rámec, ktorý pomáha ľuďom, tímom a organizáciám
+
+vytvárať hodnotu prostredníctvom prispôsobivých riešení pre zložité problémy.“ (Schwaber,
+2020, s. 3) 29
+SCRUM nemá jasne definovaný rámec, spolieha sa na kolektívnu inteligenciu tímu,
+ktorý ho používa. SCRUM je založený na skúsenostiach a lean myslení.
+„Úspešné použitie SCRUM závisí od toho, ako zdatne ľudia dodržiavajú päť
+nasledujúcich hodnôt: odhodlanosť, sústredenie, otvorenosť, rešpekt a odvaha.“ (Schwaber,
+2020, s. 4)30
+Práca SCRUM tímu je založená na Sprintu. Sprinty majú presne stanovenú dobu
+trvania. Dva týždne alebo aj mesiac. Na konci každého Sprintu by mal byť hotový produkt
+alebo jeho časť, ktorá sa dá uviesť do prevádzky.
+Na začiatku projektu sa zozbierajú požiadavky a vznikne tak Product backlog. Tieto
+požiadavky na základe istej prioritizácie sú zaradené do Sprint backlogu.
+Pri metóde SCRUM sú definované tri základne roly. Scrum master, Product Owner
+a Vývojový tím. Hlavnou úlohou Scrum mastra je koordinácia. Jeho hlavná náplň spočíva
+v organizovaní stretnutí, vedení tímu a dodržiavania metodiky. Scrum master nemá
+rozhodovaciu právomoc. Product Owner (vlastník produktu) je vždy len jedna osoba. Táto
+osoba zodpovedá za to, že produkt maximalizuje návratnosť investícii. Je tiež vlastníkom
+backlogu. Schvaľuje a akceptuje konečný produkt. Projektový tím je tvorený cca sedem
+ľuďmi. Pri väčších projektoch dochádza k rozdeleniu na niekoľko tímov. Tím môžu tvoriť
+osoby s rozdielnou odbornosťou.
+
+PRINCE2® Agile. prince2agile.wiki [online]. ©2022 [cit. 2022-08-13]. Dostupné na internete:
+https://prince2agile.wiki/
+29
+SCHVABER Ken a SUTHERLAND Jeff. The Scrum Guide the Definitive Guide to Scrum The rules of the
+game. 2000. s. 14.
+30
+SCHVABER, ref. 29, s. 15.
+28
+
+25
+
+„Metodika SCRUM nerozoznáva špeciálnu rolu projektového manažéra. Z hľadiska
+tvorcov metodiky ide o vyjadrenie snahy preniesť maximum rozhodovacej činnosti, čo
+najnižšie a podporiť iniciatívu a motiváciu tímu.“ (Doležal, 2016, s. 316)31
+SCRUM je založený na osobných stretnutiach, preto väčšina procesov má charakter
+špecializovaných porád. Patrí sem: Sprint plannig (plánovanie sprintu), Daily stand-up,
+Sprint rewiew, Sprint retrospective.
+SCRUM má niekoľko nástrojov nazývaných tiež artefakty. Základom je Procuct
+backlog/Sprint backlog, ktoré obsahujú zásadné informácie k produktu. User story sú
+jednotlivé položky v backlogu. Je to funkčná specifikácia. Scrum board je najčastejšie
+vizuálne zobrazenie čiastkových úloh a obsahuje jednotlivé user story. Burdown chart
+znázorňuje aká časť projektu je ukončená a koľko práce je ešte potreba. Často sa zobrazuje
+v podobe grafu. Story points je nástroj využívaný v prípade ak počiatočné odhady neboli
+správne. V takom prípade a objem práce stanovuje na bodovacej škále story points.
+„Scrum používa 86% užívateľov agilných metod.“ (Status Quo Agile, 2014, s.83.)32.
+1.1.4.3 Kanban
+„Kanban je japonské slovo, ktoré sa dá preložiť ako signálna karta. Táto karta sa
+používa vo výrobnej sfére ako signál na upozornenie krokov v procese výroby. Pracovníci
+vo výrobe nemajú dovolené pokračovať v práci pokiaľ nedostanú signál kartou.“ (Anderson,
+2010, s. 21)33
+Kanban začal vznikať na pôde spoločnosti Microsoft pri riadení projektu, na ktorom
+pracoval David Anderson. Metodika sa od tých čias aktualizovala a dnes sa považuje za lean
+metódu riadenia, ktorá v sebe obsahuje aj prvky agilných metód. Princíp Kanbanu spočíva
+vo vizualizácii procesu, obmedzenia rozpracovanej práce a minimalizácie času potrebného
+na dokončenie jednotlivých celkov.
+Kanban je vhodný na projekty, kde nepotrebujeme strategické riadenie a chceme,
+len čo najrýchlejšie reagovať na zmeny. Príkladom je call centrum.
+
+DOLEŽAL, ref. 2, s. 319.
+KOMUS, Ayelt, Study Report Status Quo Agile. 2014 , BPM-Lab, Dostupné na internete: https://www.hskoblenz.de/fileadmin/media/fb_wirtschaftswissenschaften/Forschung_Projekte/Forschungsprojekte/Status_Q
+uo_Agile/Studie_2014/2014.07.23_englischer_Bericht_final.v1.02.pdf s.83.
+33
+ANDERSON, J. David, Kanban: Successful Evolutionary Change for Your Technology Blue Hole Press,
+2010. ISBN 978-0984521401, s. 21.
+31
+32
+
+26
+
+Základom Kanban je pracovný diagram (kanban board), ktorý zobrazuje postup
+vývoja softvéru. Používa špeciálne metriky na meranie kapacity tímu a odhad dĺžky
+projektu. Rýchlosť tímu udáva, čo môže tím splniť v určitom časovom období. Doba trvania
+cyklu definuje priemerný čas na dokončenie úlohy. Agilné metriky pracujú s dobou trvania
+cyklu a slúžia ako metrika na predpovedanie dokončenia úlohy alebo projektu.
+Kanban board má fyzickú alebo elektronickú podobu. Kanban karty prestavujú
+úlohy. Stĺpce na Kanban board prestavujú fázu projektu. Na Kanban board môžeme
+zaznamenávať aj maximálny počet úloh, kľúčové body projektu alebo, aj čas dodania.
+
+Obrázok 6 Kanban board
+
+(Zdroj: kanbanize.com)
+
+Táto metóda sa okrem výrobnej sféry často využíva aj v IT oblasti a existujú stovky
+špecializovaných softvérov pre aplikovanie tejto metodiky.
+
+27
+
+Tabuľka 3 Porovnane metodológie SCRUM a Kanban
+
+Kritérium
+
+SCRUM
+
+Kanban
+
+Tím
+
+Všestranní špecialisti, ktorí si
+
+Vysoko špecializovaní odborníci
+
+vymenia svoje úlohy
+Product Owner (PO), Scrum
+
+Ide o lineárny proces takže tím je
+
+Master (SM), Development
+
+jednotný a jednotliví členovia
+
+Team (DT)
+
+nemajú žiadne role.
+
+Plánovanie
+
+Priority určuje Product Owner
+
+Priority určuje projektový tím
+
+Čas
+
+Rozdelenie na sprinty (1–4
+
+Rozdelenie do etáp pre konkrétne
+
+týždne), čas je určený na denné
+
+úlohy. Neexistujú žiadne povinné
+
+stretnutia, každý sprint pozostáva
+
+stretnutia. Počas vykonávania je
+
+zo štyroch etáp (plánovanie,
+
+možné pridávať nové úlohy.
+
+Roly
+
+realizácia, uvoľnenie,
+retrospektíva). Nedostatok
+flexibility pri vykonávaní zmien
+v sprinte.
+Vizualizácia
+
+Na vizualizáciu sa používajú
+
+Vizualizačné nástroje sú podobné
+
+digitálne alebo analógové tabule.
+
+Scrumu, ale tabuľka Kanban je
+
+Tabuľa je rozdelená do stĺpcov,
+
+vždy vyplnená.
+
+ktorým sú priradené rôzne stavy
+úloh. Scrum board sa vyčistí,
+keď dôjde k novej iterácii.
+Ukazovatele
+
+Aplikácia
+
+Meria sa celkový objem všetkých
+
+Meria sa priemerný čas na
+
+úloh vykonaných počas šprintu.
+
+dokončenie jednej úlohy.
+
+Rozsiahly projekt s trvaním
+
+Malé projekty, ktoré nevyžadujú
+
+minimálne tri mesiace, so
+
+veľa času na plánovanie alebo
+
+špecifickými požiadavkami pred
+
+naopak dlhodobé projekty, ktoré
+
+začatím projektu.
+
+nemajú jasné požiadavky pred
+začatím projektu, preto sa úlohy
+tvoria počas vývoja.
+
+(Zdroj: Universal Journal of Accounting and Finance. Comparative Analysis of the Use of Kanban and Scrum
+Methodologies in IT Projects, 2021. s. 696.)
+
+28
+
+Obrázok 7 Vodopádový vs agilný model projektového riadenia.
+
+(Zdroj: kissflow.com)
+
+1.2 Metodiky projektového riadenia používané na Slovensku
+Pre zhodnotenie situácie na Slovensku sme využili údaje z prieskumu realizovaného
+portálom eFocus. Prieskum bol realizovaný v roku 2020. Prieskumu sa zúčastnilo 237
+respondentov. Respondenti boli zamestnanci na pozíciách : Projektový manažér, Člen
+projektového tímu, Konzultant/poradca pre projekt, Člen riadiaceho výboru projektu,
+Programový manažér. 55% respondentov pracuje na pozícii projektového manažéra.
+V prieskume sa uvádza počet zúčastnených respondentov, ktorí vlastnia certifikát
+PRINCE2® FOUNDATION. Ide o 24,5% respondentov. (PRINCE2® FOUNDATION
+je základná certifikácia určená pre projektový tím.)34 Respondenti sa v projektovom riadení
+vzdelávajú príležitostne a prevažne formou externého školenia. Väčšina respondentov má
+záujem o PMI certifikáciu.
+Ako priestor na zlepšenie sa v dokumente uvádza:
+•
+
+Zaviesť a podporovať vzdelávanie v projektovom manažmente na vysokých
+a stredných školách, väčšie prepojenie s akademickou obcou.
+
+34
+
+Poznámka autorky
+
+29
+
+•
+
+Rozšíriť možnosti vzdelávania/školení v oblasti projektového manažmentu
+mimo IT a projektových firiem/oddelení.
+
+•
+
+Lepšia informovanosť o dôležitosti a benefitoch, ktoré prinášajú skúsení
+odborníci v projektovom manažmente, jasné vymedzenie pozície projektového
+manažéra, jeho kompetencií a zodpovednosti.
+
+•
+
+Zaviesť projektový manažment do štátnej správy, vyškoliť ľudí, zvýšiť
+povedomie a odbornosť.
+
+•
+
+Vytvoriť platformu, komunitný priestor pre projektových manažérov a
+absolventov projektových školení, kde by sa zdieľali praktické skúsenosti a
+podporovalo by sa prepájanie teórie s praxou.
+
+Odpoveďou na nízku úroveň certifikácie môže byť trhová cena jednotlivých
+certifikátov a mentálne nastavenie súkromného sektora neinvestovať do certifikácie svojich
+zamestnancov. 52% respondentov odpovedalo, že v ich spoločnosti je certifikovaná len
+minimálna časť zamestnancov. (Prieskum o projektovom riadení na Slovensku, 2020)35
+Môžeme povedať, že je na Slovensku snaha o dodržiavanie svetových metodík
+a štandardov
+
+projektového riadenia, ale vychádza prevažne z vnútornej motivácie
+
+jednotlivých zamestnancov, než od požiadaviek zamestnávateľov.
+
+1.3 Typy projektov
+V rozdelení a kategorizácii projektov sa jednotlivé zdroje značne odlišujú. Existuje
+niekoľko spôsobov a možnosti, ako rozdeliť typy projektov. Němec (2020)36 rozdelil
+kategórie projektov na:
+•
+
+Komplexný - Unikátny, jedinečný, neopakovateľný, veľa činností, špeciálna
+organizačná štruktúra, vysoké náklady, veľa zdrojov, veľký počet subprojekov a pod.
+
+•
+
+Špeciálny - Strednodobý, nižší rozsah činností, dočasne priradený pracovníkom,
+väčšia organizačná jednotka, dekompozícia na subprojekty, odpovedajúce zdroje
+a náklady.
+
+•
+
+Jednoduchý - Malý projekt, krátkodobý (mesiace), jednoduchý cieľ, vyhotoviteľný
+jednou osobou, niekoľko málo činností, využívanie štandardizovaných postupov.
+
+IPMA SLOVAKIA Prieskum o projektovom riadení na Slovensku [online]. Bratislava, 2020 [cit. 2022-0805]. Dostupné na internete: https://www.ipmaslovakia.sk/wp-content/uploads/2020/11/Prieskum-oprojektovom-manazmente-na-Slovensku-1.pdf
+36
+NĚMEC, Vladimír. Projektový management. Praha : Grada Publishing, 2002. ISBN 80-247-0392-0, s. 12.
+35
+
+30
+
+V novšej literatúre od autorky Krchovej (2019)37 sa stretneme s iným rozdelením typov
+projektov.
+1. Uzatvorený projekt, alebo „stavba domu“,
+2. Otvorený projekt, alebo „výskum nového lieku“,
+3. Polouzavretý projekt, alebo „dobrodružná výprava“,
+4. Polootvorený projekt, alebo „tvorba filmu“.
+V odbornej literatúre sa môžeme stretnúť aj s rozdelením projektov na externé
+a interné. V prípade externých projektov, projekt riadi externá osoba, ktorá nepracuje
+v spoločnosti. Pri interných projektov sú využívané vlastné zdroje spoločnosti.
+V článku Youkera (2017)38 nájdeme odlišnú taxonómiu rozdelenia projektov.
+Triedenie vytvoril na základe charakteristík projektov a zadefinoval ich na základe
+rozdielnosti ako, je riziko zmien v projekte, úroveň odbornosti zamestnancov, časový tlak,
+potrebná technologická úroveň.
+Aj, keď toto rozdelenie projektová komunita ešte oficiálne neprijala, vybrali sme si ho
+ako východiskové rozdelenie pre ďalšie potreby tejto bakalárskej práce.
+Autor v prvom stĺpci autor uvádza typ pracovníka na projekte. Používa označenie
+White, Blue a High tech. Pomenovanie white (worker) sa dá voľne preložiť ako „biele
+goliere“.
+
+Pomenúvajú sa tak administratívni pracovníci. Ide o manažérov, audítorov,
+
+právnikov, rôznych špecialistov a pod. Blue (worker) sa dá voľne preložiť ako „modré
+goliere “. Pojem sa používa pre označenie manuálne pracujúcich. High tech (worker) je
+označenie pre „odborníka na vysokej úrovni “. V zahraničí je táto terminológia pomerne
+častá, a preto sme tieto označenia neprekladali.
+Ďalší stĺpec stupeň neistoty a rizika vyjadruje rizika v projekte.
+
+Autor
+
+použil
+
+klasifikáciu low, medium, high, čo sme preložili ako nízke, stredné a vysoké.
+Stĺpec s označením časový tlak vyjadruje naliehavosť v projekte. Autor opäť používa
+klasifikáciu low, medium high , čo sme preložili ako nízky, stredný, vysoký.
+V článku ďalej odôvodňuje prečo v tomto stĺpci kategorizuje stavebné projekty ako
+low.
+
+KRCHOVÁ, ref. 3, s. 28.
+YOUKER, Robert. PM World Journal. The Difference between Different Types of Projects, [online]. 2017,
+Vol. VI, Issue IV, s. 1. [cit. 2022-08-05]. Dostupné na internete: https://pmworldlibrary.net/wpcontent/uploads/2017/04/pmwj57-Apr2017-youker-different-types-of-projects-SecondEdition.pdf
+37
+38
+
+31
+
+„Stavebníctvo je zmluvné podnikanie, kde je rozsah podrobne stanovený pred začatím
+projektu a miera rizika je malá. Pracovníci (na projekte) sú väčšinou modré goliere
+(remeselníci). Vo väčšine prípadov je časový tlak mierny a náklady sú veľmi dôležitou
+premennou. Procesy výstavby sú dobre známe a majstri veľmi skúsení.“ (Youker, 2017, s.
+4.) 39
+Pri navrhovaní plánov zdôrazňuje, že kvalita vypracovania plánu je dôležitejšia, ako
+čas. Pri type projektu, kde sa uvádza na trh nový produkt považuje čas uvedenia na trh
+dôležitejší ako náklady na projekt.
+Stabilitou rozsahu autor definuje predpoklad zmien v prebiehajúcom projekte.
+Používanú klasifikáciu low, medium a high sme preložili ako nízka, stredná a vysoká a
+podobne v prípade stĺpcov technologická úroveň a význam nákladov .
+
+39
+
+YOUKER, Robert., ref. 38., s. 4.
+
+32
+
+Tabuľka 4 Typy a charakteristiky projektov
+
+Typ
+
+Stupeň neistoty a Časový
+
+Stabilita
+
+Technologická
+
+Význam
+
+pracovníka
+
+rizika
+
+tlak
+
+rozsahu
+
+úroveň
+
+nákladov
+
+Administratívne
+
+white
+
+Nízke
+
+Nízky
+
+Vysoká
+
+Nízka
+
+Nízky
+
+Stavebné projekty
+
+blue
+
+Nízke
+
+Nízky
+
+Vysoká
+
+Nízka
+
+Vysoký
+
+Vývoj softvéru
+
+high tech
+
+Vysoké
+
+Stredný
+
+Nízka
+
+Vysoká
+
+Nízky
+
+Navrhovanie plánov
+
+white
+
+Stredne
+
+Stredný
+
+Stredná
+
+Vysoká
+
+Stredný
+
+Inštalácia zariadenia alebo
+
+blue
+
+Vysoké
+
+Vysoký
+
+Nízky
+
+Nízka
+
+Nízky
+
+Podujatie
+
+white
+
+Nízke
+
+Stredný
+
+Vysoká
+
+Stredná
+
+Stredný
+
+Priemyselné projekty
+
+blue
+
+Nízke
+
+Nízky
+
+Vysoká
+
+Nízka
+
+Nízky
+
+Nový produkt
+
+white
+
+Vysoké
+
+Vysoký
+
+Nízka
+
+Vysoká
+
+Nízky
+
+Výskum
+
+high tech
+
+Vysoké
+
+Nízky
+
+Nízka
+
+Vysoká
+
+Nízky
+
+Typ projektu podľa produktu
+
+systému
+
+(Zdroj YOUKER Robert., PM World Journal, The difference between different types of project. 2017)
+
+33
+
+1.4 Projektové prostredie
+Projektové prostredie vo firme vyžaduje osobitú pozornosť. Vplýva na výber
+metodiky projektu. Ide o prostredie, v ktorom sa projekt odohráva.
+„Prostredie projektu je prostredie dočasnej organizácie, t.j. súbor vonkajších
+činiteľov, ktoré priamo a nepriamo ovplyvňujú projekt.“ (Trávnik, 2009, s. 29)40
+Prostredie projektu sme zadefinovali na základe ekonomického rozdelenia druhov
+podnikov. Aj, keď definícia prostredia malých a stredných a veľkých podnikov nie je na
+celom svete rovnaká, pre potreby tejto práce sme použili rozdelenie na základe odporúčania
+európskou komisiou.41
+Tabuľka 5 Ekonomické rozdelenie podnikov
+
+Kategória
+podniku
+
+Počet
+zamestnancov
+
+Obrat
+
+Celková bilančná
+suma
+
+Stredný
+
+do 250
+
+do 50 mil. eur (alebo
+rovné)
+
+do 43 mil. eur (alebo
+rovné)
+
+Malý
+
+do 50
+
+do 10 mil. eur (alebo
+rovné)
+
+do 10 mil. eur (alebo
+rovné)
+
+Mikro
+
+do 10
+
+do 2 mil. eur (alebo
+rovné)
+
+do 2 mil. eur (alebo
+rovné)
+
+(Zdroj: Európska komisia)
+
+„Súkromný sektor zahŕňa podniky vo vlastníctve súkromných tuzemských a
+zahraničných právnických osôb alebo fyzických osôb-podnikateľov a podniky so
+zahraničnou účasťou, ktoré nie sú pod kontrolou štátu.“ (Štatistický úrad SR)42
+„Verejný sektor je časť národného hospodárstva, ktorá sa nachádza vo verejnom
+vlastníctve, je riadená a spravovaná verejnou správou, je financovaná prevažne z verejných
+rozpočtov, rozhoduje sa v nej verejnou voľbou a podlieha verejnej kontrole. „ (Slov-lex)43
+
+TRÁVNIK, Igor. TAKÁČ, Rudolf., Slovenský výkladový slovník projektového riadenia 5. rozšírené vydanie,
+2016 s. 29.
+41
+Odporúčanie európskou komisiou číslo č. 2003/361/EC k definícii MSP42
+Štatistický úrad Slovenskej republiky. slovak.statistics.sk. [online] ©2022. [cit. 2022-08-05]. Dostupné na
+internete: https://slovak.statistics.sk/PACVPEM/vocabPagesDetails.html?id=13060&lang=sk
+43
+Slov-Lex, Právny informačný portál. [online] ©2019. [cit. 2022-08-05]. Dostupné na internete:
+https://www.slov-lex.sk/zoznam-tezaurov/-/tezaurus/koncept/-SK-tezaury-1-4-koncepty-84
+40
+
+34
+
+Verejný sektor sa zakladá na štátnej aktivite, koná netrhovo a jeho existenciu si
+vynucuje trhová ekonomika. Má na starosti aktivity ktoré nie je možné zveriť súkromnému
+sektoru.
+„Za samostatné časti verejnej správy sa považujú tieto organizačné zložky:
+•
+
+orgány štátnej správy,
+
+•
+
+orgány územnej samosprávy (obce a mestá, samosprávne kraje) a orgány
+záujmovej samosprávy – (združenia, komory, politické strany),
+
+•
+
+verejné inštitúcie – vznikli na základe zákona a na plnenie štátneho záujmu ako
+nezávislé inštitúcie štátu, štátne organizácie, štátne fondy, národné agentúry,
+
+•
+
+poradné orgány.“ (Kosorín, 1999, s. 20)44
+
+KOSORÍN, František. Teória a prax verejnej správy. Bratislava: Ekonomická univerzita v Bratislave, 1999,
+ISBN 80-225-1114-5, s. 20.
+44
+
+35
+
+2
+
+Cieľ bakalárskej práce
+Cieľom bakalárskej práce vytvoriť komplexný pohľad na súvislosti medzi projektovým
+
+riadením, typom projektu a projektovým prostredím doma aj v zahraničí. V teoretickej časti
+objasniť jednotlivé metodiky projektového riadenia, objasniť typy projektov a projektové
+prostredie. Praktická časť práce pozostáva z vytvorenej matice metodík projektového
+riadenia, ktorá obsahuje prepojenie medzi
+
+typom projektu a projektovým prostredím
+
+Výsledkom analýzy je matica metodík projektového riadenia, ktorá obsahuje prepojenie
+medzi typom projektu a projektovým prostredím.
+
+2.1 Čiastkové ciele práce
+Čiastkové ciele v tejto bakalárskej práci sme si vymedzili nasledovne:
+1. Získanie teoretického prehľadu
+
+metodík projektového riadenia. Získanie
+
+teoretického prehľadu typov projektov. Získanie teoretického prehľadu
+projektového prostredia.
+2. Poukázať na využitie jednotlivej metodiky v praxi na základe praktických
+príkladov.
+3. Vytvorenie matice metodík projektového riadenia obsahujúca závislosť na type
+projektu a prostredia.
+
+36
+
+3
+
+Metodika práce a metódy skúmania
+Metodický postup v tejto práci vychádza z vopred stanoveného hlavného cieľa
+
+a čiastkových cieľoch. V rámci metodických postupov sme aplikovali myšlienkové operácie
+analýzy, dedukcie a komparácie.
+Prvá časť práce sa viaže na čiastkový cieľ č.1, ktorým je získanie teoretických
+poznatkov z danej oblasti. Získané informácie sme nadobudli faktografickým zberom
+údajov a ich analýzou. Faktografické údaje sme získali z knižnej literatúry slovenských aj
+zahraničných autorov, z odborných článkov vďaka vzdialenému prístupu k externým
+informačným zdrojom Univerzity Komenského v Bratislave a tiež univerzitnej knižnice
+Univerzity Komenského v Bratislave. Doplnkové informácie sme získali z internetových
+zdrojov a ďalších knižných publikácii.
+
+Všetky zdroje uvádzame v bibliografickom
+
+zozname. V časti jeden sme sa zamerali na analýzu zozbieraných informácii. Rozobrali sme
+celkové zadanie na menšie fragmenty, aby sme porozumeli skúmanej oblasti.
+Štvrtá časť práce poukazuje na využívanie jednotlivých projektových metodík v praxi
+na reálnych príkladoch. V tejto časti sme konkretizovali myšlienkový postup. Pre
+pochopenie jednotlivých metodík, typov projektov a projektového prostredia využívame
+komparáciu.
+Pri vyhodnocovaní jednotlivých nástrojov sme využili dedukciu, čo je myšlienkový
+postup od všeobecného k jednotlivému a abstrahovanie, ktoré oddeľuje podstatné vlastnosti
+od nepodstatných a komparáciu metódu zisťovania zhodných alebo rozdielnych vlastností
+pozorovaných fragmentov.
+
+37
+
+4
+
+Výsledky práce
+Snaha o prepojenie projektovej metodiky, typu projektu a projektového prostredia je
+
+vysoká ambícia. Je to hlavne, preto, že jednotlivé metodiky sú variabilne upravované pre
+potreby projektu, tímu a spoločnosti. Projekt je živý organizmus, pri ktorom je dávaný
+vysoký dôraz na efektivitu, plnenie plánov a dosiahnutie cieľa.
+Pri zostavení tabuľky sme vychádzali z informácii nachádzajúcich sa v odbornej
+literatúre, pracovných skúseností projektových manažérov a vlastných pracovných
+skúseností. Aj, keď je každý projekt jedinečný a neopakovateľný môžeme v nich
+identifikovať podobné znaky, filozofiu a nájsť odlišnosti. V prípade tvorby web stránky
+bude mať veľa projektov podobnosti. Na strane druhej projekt rekonštrukcie cesty bude
+odlišný od tvorby web stránky.
+Veľa štátnych inštitúcii na Slovensku zaviedlo do svojich interných smerníc používanie
+PRINCE2®.
+„ Prípravu, implementáciu projektu, ako aj prevádzku vytvoreného riešenia bude XX
+realizovať v súlade so štandardnými metodikami a všeobecne uznávanými princípmi pre
+riadenie projektov IT (PRINCE2)“ (Projektový iniciálny dokument, mirri, 2020)45
+Pri pracovných ponukách vo verejnej správe sa často môžeme stretnúť s požiadavkou
+certifikácie PRINCE2®. Samozrejme používanie PRINCE2® neukladá žiadna legislatíva,
+ale už na svojom začiatku tento štandard vznikol na pôde verejného sektoru. Je to jeden
+z dôvodov prečo je táto metodika verejnou správou uprednostňovaná. Nevylučuje sa tak jej
+používanie aj v súkromnom sektore. A neznamená, že je to jedná povolená metodika vo
+verejnom sektore.
+Aby sme v tejto práci dokázali nájsť podobnosti v projektoch je pre každý typ projektu
+zadefinovaná modelová situácia. Táto modelová situácia je vzorom pre hľadanie podobností
+v projektoch. Opísaná modelová situácia je opisom opakujúcej sa situácie v praxi.
+V tabuľke je k danej metodológii zaznamenané odporúčaný/neodporúčaný. Pojmy sú
+označené symbolmi, kde odporúčaný ma symbol ✔ a neodporúčaný symbol x. Aj, keď
+
+Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky, [online] Projektový
+iniciálny dokument, [cit. 2022-08-04]. Dostupné na internete: https://www.mirri.gov.sk/wpcontent/uploads/2020/10/I_04_PID_PROJEKTOVY-INICIALNYDOKUMENT_Projekt_AA_Ovm_BB_OsobaXY_DDMMYY_v0.5.docx
+45
+
+38
+
+tabuľka obsahuje záznam neodporúčaný, neznamená to, že sa v praxi neobjavuje takto
+označená metodika v kombinácii s typom projektu a projektovým prostredím.
+Jednotlivé metodológie nie sú striktne dané, je možné upravovať ich s ohľadom na
+projekt. Naším cieľom je vytvorenie matice metodík projektového riadenia obsahujúcu
+prepojenie na typ projektu a projektové prostredia.
+
+4.1 Definovanie vybraných kritérií
+4.1.1.1 Administratívny projekt - Zavedenie nového účtovného softvéru.
+•
+
+Projektové prostredie: Novocasing Nitra s.r.o. , Malý podnik, 25-49
+zamestnancov (Zdroj: Štatistický úrad), Súkromný sektor.
+
+•
+
+Projektový manažér: Monika Koščová
+
+Modelová situácia : Spoločnosť Novocasing Nitra s.r.o. získala nového významného
+obchodného partnera Tesco. Súčasťou spolupráce je prechod na nový účtový softvér Kros.
+Novocasing Nitra s.r.o. aktuálne využíva účtovný softvér Pohodu. V kanceláriách
+spoločnosti Novocasing Nitra s.r.o. pracuje 9 ľudí na pozícii fakturantky a účtovníčky. V
+sklade sú 4 vedúci, ktorí taktiež používajú účtovnícky program. Spoločnosti sa dohodli na
+prechod k novému softvéru za 3 mesiace. Aj, keď princíp účtovného softvéru je vždy
+rovnaký žiadny zo zamestnancov tento program ešte nepoužíval. Súčasťou obchodnej
+dohody je aj zdieľanie útočníckych dát cez cloud. Pre zamestnancov a spoločnosť je to tiež
+niečo nové s čím sa doteraz nestretli. Novocasing Nitra s.r.o. nemá svoje IT oddelenie a
+technické požiadavky realizuje prostredníctvom dodávateľa.
+Podobná situácia sa objavuje často. Nemusí ísť vždy o prechod na iný softvér, niekedy
+je veľmi náročný aj proces aktualizácie existujúceho softvéru.
+Aby sa obchodná dohoda naplnila je potrebné vytvoriť jednorazový projekt. Metodiky
+SCRUM a Kanban sú vhodné pre menšie projekty, v prípade ak je v tíme menej ľudí a
+dokážu osobne a flexibilne komunikovať. Pri týchto metodikách sa uplatňuje vizuálne
+zobrazovanie projektu v prehľadných tabuľkách, kde sa zaznamenávajú úlohy. Tieto
+metodiky pracujú s krátkym trvaním jednotlivých úloh projektu.
+Vodopádový resp. tradičný model projektového riadenia
+
+v tomto prípade
+
+neodporúčame. Pri tradičnom modely projektového riadenia sa k ďalšej fáze pristupuje až
+po dokončení predošlej fázy. V uvedenej modelovej situácii môžeme vykonávať niekoľko
+procesov súčasne a niektoré procesy nie sú na seba nadväzujúce. Pri tradičnom modely by
+39
+
+sme tak riskovali nedodržanie stanoveného termínu troch mesiacov. Taktiež pri aktualizácii
+softvéru je častá situácia zadávania zmenových požiadaviek a táto metodika projektového
+riadenia sa tak stáva ťažkopádna.
+V príklade uvedenom v modelovej situácii vstupuje do projektu niekoľko dodávateľov,
+v organizačnej štruktúre spoločnosti sa nenachádza technické oddelenie, projektové
+oddelenie a pod. Zmena účtovníckeho softvéru zasahuje nie len do IT oblasti, kde, je
+potrebná výmena softvéru, ale aj do administratívnej a legislatívnej časti podniku.
+Zdôvodnenie záznamu v matici:
+Ide o častú situáciu v malých a stredných podnikoch. Pre spoločnosť je ideálne zvážiť
+použitie metodik PRINCE2®, PRINCE2® Agile, IPMA alebo PMI. Aby implementácia
+prebehla hladko je pre spoločnosť ideálne vyhľadať externého projektového manažéra. Ako
+jeden z hlavných dôvodov je skúsenosť s projektovým riadením. Externé spoločnosti
+ponúkajúce projektové riadenie disponujú s certifikovanými zamestnancami so
+skúsenosťami.
+Praxou malých a stredných podnikoch je odmietanie využívania služieb externých
+spoločnosti pre projektové riadenie a prevláda snaha pojať projekt vlastnými silami.
+To sa odohralo aj v spoločnosti Novocasing Nitra s.r.o a implementácia nového
+softvéru ma aktuálne dvojmesačné omeškanie. Intuitívnym spôsob aplikovali metodiku
+SCRUM.
+V prostredí verejného sektora je SCRUM a Kanban neodporúčaná metodika, pretože
+často nespadá do interných smerníc ministerstiev.
+4.1.1.2 Stavebný projekt – výstavba a rekonštrukcia
+•
+
+Projektové prostredie: Železnice Slovenskej republiky, Veľký podnik, 10 000-19 999
+zamestnancov (Zdroj: Štatistický úrad), Verejný sektor.
+
+•
+
+Projektový manažér: Projektová kancelária ŽSR
+
+Modelová situácia: Výstavba a rekonštrukcia – Bratislavského uzla.
+„Najdôležitejším cieľom rekonštrukcie bratislavského uzla bolo odstrániť železnicu
+Bratislava-filiálka – Bratislava-Nové Mesto (neskôr Nivy) – Bratislava-Petržalka, ktorú v
+
+40
+
+tomto období križovalo 10 úrovňových priecestí a ktorá sa tak stala vážnou prekážkou
+mestskej dopravy.“46
+Stavebné projekty vyžadujú mnohé úradné povolenia a spadajú pod stavebný zákon.
+Pri stavbách je potrebná aj osobitná dokumentácia.
+„Stavba je stavebná konštrukcia postavená stavebnými prácami zo stavebných
+výrobkov, ktorá je pevne spojená so zemou alebo ktorej osadenie vyžaduje úpravu podkladu.
+Pevným spojením so zemou sa rozumie
+a) spojenie pevným základom,
+b) upevnenie strojnými súčiastkami alebo zvarom o pevný základ v zemi, alebo o inú
+stavbu,
+c) ukotvenie pilótami, alebo lanami s kotvou v zemi, alebo na inej stavbe,
+d) pripojenie na siete a zariadenia technického vybavenia územia,
+e) umiestnenie pod zemou.“ (Stavebný zákon)47
+S toho dôvodu je náročné použiť agilné metodiky riadenia projektu. Ak v nejakej fáze
+projektu pocítime potrebu agilných metodík v takom prípade sa nám ponúka PRINCE2®
+Agile. Pri stavbách však môže ďalšia fáza nasledovať až po dokončení predošlej fázy.
+Zdôvodnenie záznamu v matici:
+Pre malý a stredný podnik sme odporučili metodiky PRINCE2® Agile, PRINCE2®,
+IPMA a PMI a vodopádový model riadenia projektu. Stavebné projekty patria medzi
+náročnejšie a sú tak nezvládnuteľné pre bežného zamestnanca v spoločnosti. Aby bol projekt
+úspešne zvládnutý, spoločnosť nemá na výber než zamestnať skúseného projektového
+manažéra alebo vyžiť služby projektového riadenia externou spoločnosťou.
+Metodika SCRUM a Kanban sú vhodné pre menšie projekty s rýchlou dynamikou
+a založené na osobných stretnutiach. Preto sú označené ako neodporúčané.
+4.1.1.3 Vývoj softvéru – Pridanie nových funkcionalít do profilu užívateľa
+Pre IT projekty je charakteristický krátky životný cyklus, rýchle morálne zastarávanie,
+a to vyvoláva potrebu rýchlo reagovať na zmeny. IT projekt vyžaduje pružnú organizačnú
+
+Železnice Slovenskej republiky. zsr.sk [online] ©2022 [cit. 2022 08-05]. Dostupné na internete:
+https://www.zsr.sk/showdoc.do?docid=759&forceBrowserDetector=blind
+47
+Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon)
+46
+
+41
+
+štruktúru, prijímanie neustálych požiadaviek počať tvorby projektu a často nemajú jasne
+stanovené hranice, pretože dokážu neustále expandovať.
+•
+
+Projektové prostredie: CORE4 Advertising, spol. s r.o., malý podnik, 3-4
+zamestnanci (Zdroj: Štatistický úrad), Súkromný sektor
+
+•
+
+Projektový manažér: Alena Mižiková
+
+Modelová situácia: Spoločnosť Allianz z dôvodu zmien zákonov o ochrane osobných
+údajov a ponukou nových služieb požaduje zmeny v profile ich užívateľov. Osobné údaje sa
+budú zobrazovať len po overení heslom. Pridanie hlásenia škodovej udalosti v užívateľskom
+profile.
+V prípade vývoja softvéru na zelenej lúke, ktorý má rozsiahle funkcionality a je
+kompatibilný s mnohými zariadeniami, určený pre tisíce užívateľov sa používajú štandardy
+PRINCE2®, IPMA aj PMI. Priemerná IT firma sa, ale častejšie stretne s úpravami,
+aktualizáciou a menšími projektmi.
+Zdôvodnenie záznamu v matici:
+V tabuľke prevláda označenie odporúčam u všetkých agilných metodík projektového
+riadenia. Je to z dôvodu dymníky a rýchlych zmien v projekte.
+V prostredí verejného sektora je SCRUM a Kanban nezadefinovaná metodika v rámci
+interných smerníc a nariadení. Samozrejme to neznamená, že je zakázaná. Ale v celom
+verejnom sektore prevláda požiadavka metodiky PRINCE2®
+4.1.1.4 Navrhovanie plánov – rekonštrukcia podchodu Trnavské Mýto
+Plánovanie a vytvorenie architektúry má svoje špecifiká. Má podobnosť so
+stavebnými projektmi, ale napriek tomu je v tomto prípade možné použiť aj agilné metódy
+riadenia projektu.
+Architekti, ako projektoví manažéri vytvárajú počiatočné plány a návrhy, ktoré
+spĺňajú potreby klienta. Vytvárajú tiež harmonogramy, finančné plány a dokumentáciu k
+projektu. Monitorujú projekty, sledujú rozpočty, delegujú úlohy a majú dohľad nad
+harmonogramom projektu.
+Projektové prostredie: Immocap, a.s. 48, malý podnik, 10-19 zamestnancov(Zdroj:
+Štatistický úrad), Súkromný sektor
+Trnavskemyto.sk
+[online].
+©2022
+https://www.trnavskemyto.sk/#about
+48
+
+[cit.
+
+2022-07-26].
+
+42
+
+Dostupné
+
+na
+
+internete:
+
+•
+
+Projektový manažment: Immocap, a.s
+Zdôvodnenie záznamu v matici:
+
+SCRUM a Kanban nepovažujeme za vhodnú metodiku. Projekt vyžaduje rozsiahlu
+dokumentáciu a zapojenie sa externých spoločnosti. Aj, keď ide o plánovanie projekt ma
+veľa podobných prvkov so stavebnými projektmi. V prípade agilných potrieb v projekte
+odporúčame použitie PRINCE2® Agile. A podobne, ako v prípade stavebných projektov nie
+je v silách malého a stredného podniku zvládnuť projekt bez odborného projektového
+riadenia.
+4.1.1.5 Inštalácia zariadenia alebo systému – aktualizácia VRP pokladní
+•
+
+Projektové prostredie: ALKA SK49, s.r.o., malý podnik, 2 zamestnanci (Zdroj:
+Štatistický úrad), Súkromný sektor.
+
+•
+
+Projektový manažér: Anton Čech
+Modelová situácia : Ministerstvo vykonalo grafickú úpravu užívateľského rozhrania
+
+softvéru VRP pokladní. Zákazníci spoločnosti, ktorá predáva pokladne sa začali sťažovať na
+nefunkčnosť pokladní. Sami o aktualizácii nevedeli a neboli technicky zdatný ich vykonať.
+Spoločnosť sa rozhodla asi 200 svojich zákazníkov navštíviť a softvér aktualizovať.
+Táto modelová situácia sa v praxi vyskytuje často. Náročný a zložitý softvér sama
+spoločnosť nevyrába a neprogramuje, vlastní iba licencie na ich obsluhu a môže vykonávať
+základnú údržbu, ako sú aktualizácie. Tieto spoločnosti zamestnávajú technikov, ktorí riešia
+rôzne problémy so zariadením. (Internetové pripojenie, satelitné nastavenie a pod.)
+Zdôvodnenie záznamu v matici:
+V takých prípadoch sa nejedná o veľký projekt obsahujúci náročnú administratívu
+a iné zložité kroky. Spoločnosť si, teda vie ľahko pomôcť s metodikou ako, je SCRUM
+alebo Kanban. A, preto sme im dali označenie odporúčame. Všetky štandardné metodiky
+sme označili ako neodporúčané, nakoľko si projekt vyžaduje rýchlu dynamiku, časté
+stretnutia a počas projektu sa neustále objavujú zmeny.
+Samozrejme môže nastať v praxi aj zložitejšia situácia, ako je napríklad zmena
+legislatívy a povinné zaokrúhľovanie. Pokladničný softvér tak vyžaduje zložitejší zásah, je
+
+Epokladna.sk [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete:
+
+49
+
+43
+
+https://epokladna.sk/
+
+potrebný aj vstup legislatívnych odborníkov a je časovo náročnejší. V takom prípade
+odporúčame PRINCE2® Agile.
+Ako sme už vyššie spomínali verejný sektor uvádza svoje metodiky v interných
+smerniciach, preto v prípade takejto situácie vo verejnom sektore je pravdepodobné použitie
+PRINCE2®. Vhodnejší by v takom prípade bol PRINCE2® Agile.
+4.1.1.6 Podujatie – lekárska konferencia
+Projektové prostredie: TAJPAN s.r.o.50, malý podnik, 10-19 zamestnancov (Zdroj:
+Štatistický úrad), Súkromný sektor.
+Projektový manažér: Stanislav Nevláčil
+Modelová situácia: Zorganizovanie trojdňovej lekárskej konferencie. Odborná
+lekárska verejnosť je v prípade niektorých konferencii povinná sa ich zúčastniť. Za účasť
+alebo vystúpenie na konferencii dostávajú istý počet kreditov potrebných k atestácii. Počas
+nedávnej pandémie covid 19 sa tieto udalosti konali výlučne online. Tento prístup mnohým
+vyhovoval, a tak aj po skončení pandémie si časť účastníkov žiada možnosť zúčastnenie sa
+konferencie online.
+Zorganizovanie udalosti je tiež projekt. Z časového hľadiska ide asi o najkratšie
+trvajúce projekty, ale úspešne zvládnutie zorganizovania udalosti nie je menej podstatné
+ako rekonštrukcia parkoviska.
+Zdôvodnenie záznamu v matici:
+Ak by si v tomto prípade projektový manažér zvolil agilnú metódu PRINCE2® , IPMA
+alebo PMI je veľmi pravdepodobné, že veľa z toho, čo popisujú tieto štandardy nevyužije.
+Tieto udalosti spravila organizuje
+
+len jedna, dve osoby. Pri spolupráci a pod časovým
+
+nátlakom je potrebná rýchla odozva a jednoduché zobrazenie plánu. Ideálne je, teda použitie
+metodológie Kanban alebo SCRUM.
+To už samozrejme neplatí v prípade organizácie olympijských hier. Vodpádový model
+v tomto prípade nie je vhodný, pretože sa vyžaduje riešiť niekoľko fáz súčasne, ale vhodný
+je napríklad štandard PRINCE2® Agile.
+Záznam odporúčam pri verejnom sektore PRINCE2® je uvedený pre interné
+nariadenie, pod ktoré daný verejný sektor môže spadať.
+
+Tajpan.online [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete: https://www.tajpan.online/
+
+50
+
+44
+
+4.1.1.7 Priemyselný projekt - Analýza vibrácií papierenských strojov
+Projektové prostredie: EOSWISS Engineering51
+Projektový manažment: EOSWISS Engineering
+Riadenie výroby je založené na plánovaní a riadení priemyselných procesov, s cieľom
+zabezpečiť ich plynulý pohyb na požadovanej úrovni. Cieľom všetkých výrobných
+spoločností je maximalizácia zisku. Deje sa tak prostredníctvom dobre navrhnutého
+výrobného procesu, ktorý sa neustále usiluje o zlepšenie a dosahuje efektivitu. Tento proces
+si vyžaduje správne riadenie výroby na dosiahnutie týchto ziskov a ich uplatnenie vo
+všetkých oblastiach. Vibrácia papierenských strojov, či statická elektrina pri výrobe fólie
+môže mať významný vplyv na konečnú efektivitu výroby. Je dôležité problematiku
+dôkladne analyzovať, vykonať dôsledné merania a navrhnúť potrebné kroky pre nápravu
+stavu.
+Zdôvodnenie záznamu v matici:
+Procesy vo výrobe vyžadujú zložitejšiu projektovú metodiku, ako je SCRUM alebo
+Kanban. Preto je označená ako neodporúčaná. V prípade zavedenia agilných metód do
+projektu sme odporučili PRINCE2® Agile.
+Vo výrobe sú vhodné aj štandardné modely riadenia projektu. Preto sme ich označili
+za odporúčané.
+4.1.1.8 Nový produkt - uvedenie nového produktu na trhu „Můj život“
+•
+
+Projektové prostredie: Softec v spolupráci s partnerskou firmou ScrumDesk
+zaviedol v Českej poisťovni progresívne agilné techniky.52
+
+Modelová situácia: „Pre Českú poisťovňu predstavuje zavedenie nového produktu
+„Můj život“ jednu z najvýznamnejších produktových inovácií, ku ktorým v poslednej dobe
+pristúpila. Ponúka ojedinelú šírku pokrytia poistných rizík a možnosť prispôsobiť poistku
+meniacim sa životným potrebám klienta. Preto sa rozhodla na vývoj produktu použiť
+progresívne agilné techniky.
+Najrozšírenejšou projektovou metodikou pre agilný vývoj je SCRUM. Zahŕňa niekoľko
+techník – zostavenie user stories, backlogov, používanie Kanban kartičiek, vývoj v šprintoch,
+Eoswiss-engineering.ch [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete : https://www.eoswissengineering.ch/industries-examples/
+52
+Softec [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete: https://www.softec.sk/referencie/vybraneprojekty/agilne-techniky-pre-vyvoj-novych-produktov-v-core-systeme/
+51
+
+45
+
+každodenné stretávanie tímu, tzv. stand-upy, demo, retrospektívu a pod. Zavedenie agilných
+techník nie je možné bez zmeny myslenia a prístupu nielen realizačného tímu, ale tiež vedenia
+spoločnosti, ktorého podpora je pre celkový úspech nevyhnutná. Zmena je totiž tak zásadná
+a komplexná, že zavedenie kompletnej metodiky do rozbehnutých tímov a procesov
+organizácie nie je jednoduché. V Českej poisťovni konzultanti ScrumDesku navrhli postupný
+prístup, kde na začiatku prebehla osveta všetkých zainteresovaných pracovníkov,
+nasledovaná podrobnými školeniami techník, zodpovedností rolí, doplnená intenzívnym
+priebežným mentorovaním tímov“53
+Zdôvodnenie záznamu v matici:
+Česká poisťovňa sa pri uvedení nového produktu na trhs a rozhodla pre využitie
+metodiky SCRUM. Vhodná agilná metodika by bola aj PRINCE2® Agile a Kanban.
+Uvedenie nového produktu na trh vyžaduje agilný prístup. Preto sme ich označili za
+odporúčané. Označenie odporúčané pri verejnom sektore je s dôvodnou ktoré sme už
+uvádzali opakovane. Je to požiadavka verejného sektoru na používane metodiky
+PRINCE2®.
+4.1.1.9 Výskum
+V oblasti výskumu má projektový manažment svoje špecifické miesto. Aj, keď
+vedecký pracovníci disponujú vysokou inteligenciou, často nemajú dostatočné informácie
+o projektovom manažmente. Projektový manažér predovšetkým organizuje stretnutia,
+dodržiava časový harmonogram, sleduje dosahovanie míľnikov v projekte. Niektorí
+odborníci namietajú, že je štruktúra vedeckej organizácie zložitá, a preto nie je možné použiť
+akýkoľvek projektový manažment. Ale aj výskum je projekt a má svoju dynamiku. 54
+Vzhľadom na zložitosť organizácie a náročnosť výskumu sme všetky agilné metodiky
+SCRUM a Kanban označili ako neodporúčané. Nami odporúčaná agilná metodika je
+PRINCE2® Agile.
+Za odporúčané sme zvoli štandardné metodiky riadenia projektu práve pre náročnosť
+a rozsiahlosť projektov. Malé a stredné podniky sú označené, ako neodporúčame, a to
+z dôvodu predpokladu, že sa vedecký výskum v súkromnom sektore u malých a stredných
+Softec.sk. Agilné techniky pre vývoj nových produktov v core systéme. [online]. ©2022 [cit. 2022-07-26].
+Dostupné na internete: https://www.softec.sk/referencie/vybrane-projekty/agilne-techniky-pre-vyvoj-novychproduktov-v-core-systeme/
+54
+FORSBERG, J., Aarsland, NTNU Open. Norwegian University of Science and Technology. Project
+Management System at a Research Institute - An exploratory case study. 2017. [online]. ©2022 [cit. 2022-0726]. Dostupné na internete: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2616320. s. 29.
+53
+
+46
+
+podnikoch obvykle nevykonáva. Výskum v našej krajine prebieha na akademickej pôde
+a niekedy v spolupráci so súkromným sektorom. Tento súkromný sektor zastupujú veľké
+výrobné spoločnosti, ako sú automobilový priemysel, doprava pod.
+4.1.1.10 Malý, stredný podnik vs veľký podnik
+Projektové riadenie v malých a stredných podnikoch je odlišný od projektového
+riadenia veľkých podnikoch. Základný rozdiel je v pracovnej náplni projektového manažéra.
+V malých a stredných podnikoch má v náplni práce často aj úlohy, ktoré nespadajú do
+pozície projektového manažéra. Napríklad testovanie projektu, vytváranie faktúr a podobne.
+Malé a stredne podniky nevkladajú veľký objem investícií do špecializovaných softvérov
+oproti veľkým spoločnostiam. V malom a strednom podniku niekedy pozíciu projektového
+manažéra zastupuje zamestnanec na inej pracovnej pozícii.
+Je to len niekoľko dôvodov, preto je v matici uvedené, že niektorú metodológiu
+považujeme na nevhodnú. Malé až stredné podniky až inštinktívne využívajú SCRUM alebo
+Kanban hlavne pre náklady, ktoré sa s projektovým riadením spájajú a je výnimočné, aby
+si objednávali externé služby projektového manažéra. Veľké spoločnosti môžu mať
+zavedené projektové kancelárie a špecializovanú skupinu ľudí s certifikáciami a chápu
+projektové riadenie na profesionálnejšej úrovni.
+4.1.1.11 Verejný vs súkromný sektor
+Pod verejný sektor sme si zadefinovali: orgány štátnej správy, orgány územnej
+samosprávy, orgány záujmovej samosprávy, verejné inštitúcie a poradné orgány. Aj, keď
+v týchto jednotlivých zložkách pracuje rozdielny počet ľudí v tíme, sú často krát viazaný
+nariadeniami, smernicami a legislatívou. Pre potreby tejto práce sme ich neklasifikovali
+v časti tabuľky malý a stredný podnik. V tabuľke nachádza pomlčka.
+
+Vychádzame
+
+s prostredia v našej krajine a nie je, preto vylúčené, že v zahraničí je definovaná právomoc
+a kompetencie verejného sektora iná.
+
+47
+
+Tabuľka 6 Matica metodík projektového riadenia v súvislosti s typom projektu a projektovým prostredím
+
+Typ projektu
+
+Prostredie Vodopád Štandardné metodiky riadenia projektu Agilné metodiky riadenia projektu
+projektu
+
+PRINCE2®
+
+IPMA
+
+PMI
+
+PRINCE2® SCRUM
+
+Kanban
+
+AGILE
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP VP MSP VP
+
+SS
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+x
+
+x
+
+x
+
+x
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+✔
+
+x
+
+✔
+
+x
+
+✔
+
+x
+
+✔
+
+✔
+
+✔
+
+x
+
+x
+
+x
+
+x
+
+VS
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+✔
+
+x
+
+✔
+
+x
+
+✔
+
+x
+
+✔
+
+✔
+
+✔
+
+x
+
+x
+
+x
+
+x
+
+VS
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+Inštalácia zariadenia alebo systému SS
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+VS
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+Administratívny projekt
+
+Stavebný projekt
+
+Vývoj softvéru
+
+Navrhovanie plánov
+
+Podujatie
+
+48
+
+Priemyselné projekty
+
+Nový produkt
+
+Výskum
+
+Typ projektu
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+x
+
+x
+
+x
+
+x
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+SS
+
+x
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+x
+
+✔
+
+x
+
+x
+
+x
+
+x
+
+VS
+
+x
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+✔
+
+-
+
+x
+
+-
+
+x
+
+Prostredie
+
+Vodopád
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+MSP
+
+VP
+
+projektu
+
+PRINCE2
+
+IPMA
+
+PMI
+
+PRINCE2
+
+SCRUM
+
+Kanban
+
+AGILE
+Štandardné metodiky riadenia projektu
+(Zdroj: vlastné spracovanie autorky)
+
+Vysvetlivky:
+VS – Verejný sektor, SS – Súkromný sektor, MSP – malý a stredný podnik, VP – veľký podnik
+
+49
+
+Agilné metodiky riadenia projektu
+
+Záver
+Cieľom bakalárskej práce bolo poskytnúť komplexný pohľad na súvislosti medzi
+projektovým riadením, typom projektu a projektovým prostredím doma aj v zahraničí. Tento
+vzťah je vyjadrený v matici metodík projektového riadenia obsahujúcu prepojenie medzi
+typom projektu a projektovým prostredím. Na základe vytvorenej matice môžeme vo
+verejnom sektore pozorovať istú skostnatenosť ak ide zavádzanie agilných metodík
+projektového riadenia. Nepoužívanie agilných metodík v prípade ak si to projekt vyžaduje
+vedie k neefektívnosti a riskuje sa tak úspešné dokončenie projektu. Riešením pre verejný
+sektor je prijatie a zavedenie do interných smerníc štandard PRINCE2® Agile.
+U súkromného sektoru môžeme pozorovať väčšiu flexibilnú a dôraz na efektívnosť,
+splnenie cieľov a úspešné ukončenie projektu. Preto sa uvedené metodiky flexibilne
+upravujú pre potreby projektu a projektový manažéri sa sústavne vzdelávajú v nových
+trendoch.
+Prieskum realizovaný na Slovenskú uvádza, ako návrh zlepšenia situácie na Slovensku
+zaviesť a podporovať vzdelávanie v projektovom manažmente. Vďaka množstvu
+zozbieranej odbornej literatúry sa s týmto tvrdením nestotožňujem. Na akademickej pôde sa
+nachádza dostatok odborníkov v projektovom riadení s praktickými skúsenosťami.
+Existujúce nedostatky v projektovom riadení malých a stredných podnikoch vidíme skôr
+v neochote investovania Slovenských spoločnosti do rozvoja zamestnancov.
+Vytvorenie matice bola vysoká ambícia. Dôvodom pre jej vytvorenie bola jednoduchá
+orientácia ukazujúca vzťah medzi projektovým riadením, typom projektu a projektovým
+prostredím. Aby sme mohli maticu vytvoriť potrebovali sme uviesť modelové prípady
+projektov. Stále, ale platí, že každý projekt je jedinečný a neopakovateľný. Preto použitie
+matice nikdy neposkytne odpoveď pre každý typ projektu. Matica vhodná na použitie pre
+opakujúci sa model projektu.
+
+50
+
+Zoznam použitej literatúry
+Knihy/monografie
+ANDERSON, J. David, Kanban: Successful Evolutionary Change for Your Technology
+Blue Hole Press, 2010. ISBN 978-0984521401.
+COLLINS, J., Robert. Project management. New York: Nova Science Publishers, Inc.,
+2011. ISBN 978-1-61761-623-5.
+CHARVAT, Jason. Project Management Methodologies Selecting, Implementing, and
+Supporting Methodologies and Processes for Projects. Canada: John Wiley & Sons, Inc,
+2003. ISBN 0-471-22178-3.
+BENTLEY, Colin. PRINCE2 Revealed including how to use PRINCE2 for small projects
+Burlington, MA, USA. 2006. 978-0-75-066672-5.
+DALCHER, Darren. Rethinking project manager for a dynamic and digital world. CRC
+Press is an imprint of Taylor & Francis Group, LLC, 2022. ISBN: 978-11-383-2663-7.
+DOLEŽAL, Jan, a KRÁTKY, Jiří. Projektový management v praxi. Praha: Grada
+Publishing, a.s., 2021. ISBN 978-80-247-5693-6.
+DOLEŽAL, Jan, KRÁTKY, Jiří, CINGL, Ondřej. 5 kroků k úspěšnému projektu. Praha
+: Grada Publishing, a.s.,2013. ISBN 978-80-247-4631-9.
+DOLEŽAL, Jan, et al. Projektový managment. Komplexně, prakticky a podle světových
+standardů. Praha : Grada Publishing , a.s., 2016. ISBN 978-80-247-5620-2.
+DVOŘÁK, Drahoslav, a MAREČEK, Martin. Project portfolio management. Brno:
+Computer Press, a.s, 2017. ISBN 978-80-251-4893-8.
+DVOŘÁK, Drahoslav. Řízení projektů. Nejlepší praktiky s ukázkami v Microsoft office.
+Brno: Computer Press, a.s., 2008. ISBN 978-80-251-1885-6.
+KRCHOVÁ, Hana. Praktický projektový manažment. Praha : Wolers Kluwer, 2019. ISBN
+978-80-7598-466-1.
+KOHNOVÁ, Lucia, a PAPULA, Ján. Projektový manažment. Bratislava: Univerzita
+Komenského v Bratislave, 2022. ISBN 978-80-223-5358-8, s. 52.
+KOSORÍN, František. Teória a prax verejnej správy. Bratislava: Ekonomická univerzita
+v Bratislave, 1999, ISBN 80-225-1114-5.
+
+51
+
+KREZNER, Harold,.Project Managemet. New Jersey: John Wiley & Sons, Inc., Hoboken,
+2017. ISBN 978-11-1916-5361.
+KREZNER, Harold., Project management case studies. New Jersey: John Wiley & Sons,
+Inc, 2017. 978-11-193-8916-3.
+KRŠAK, Emil, a ZAVODNÝ, Peter. IT Projekty a ich manažment. Žilina: Žilinská
+univerzita v Žiline, 2018. ISBN 978-80-554-1425-6.
+LICHNEROVÁ, Lucia. Písanie a obhajoba záverečných prác. Vysokoškolské skriptá pre
+študentov Univerzity Komenského v Bratislave. Bratislava: Stimul, 2016. ISBN 978-808127-155-7.
+MACHAL, Pavel, KOPEČKOVÁ, Martina, PRESOVÁ, Radmila. Světové standardy
+projektového řízení pro malé a střední firmy. Praha: Grada Publishing, 2015. ISBN 978-80247-5321-8.
+MARTINELLI, J., Russ, a MILOSEVIC, Z., Project management toolbox. Canada: John
+Wiley & Sons, Inc., Hoboken, New Jersey, 2016. ISBN 978-1-118-97321-9.
+MC BRIDGE, Melanie. Project Management Basics. How to Manage Your Project with
+Checklists. Chandler, Arizona, USA: Apress, 2016. 978-1-4842-2086-3
+MORAN, Alan. Agile risk management. Zurich Switzerland: Springer, 2014. 978-3-31905008-9.
+NĚMEC, Vladimír. Projektový management. Praha : Grada Publishing, a.s.,2002. ISBN
+80-247-0392-0.
+SMOLÍKOVÁ, Lenka. Projektové řízení. Studijní text pro prezenční a kombinovanou
+formu studia. Brno: Akademické nakladatelství CERM, 2018. ISBN 978-80-214-5695-2.
+SVOZILOVÁ, Alena. Projektový management Systémový přístup k řízení projektu. 3. vyd.
+Praha: Grada Publishing, a.s.,2016. ISBN 978-80-271-0075-0, s. 383.
+ŠTEFANEK, Radoslav, et. al. Projektové řízení pro začátečníky. Brno: Computer Press,
+a.s, 2011. ISBN 978-80-251-2835-0.
+ŠOCHOVÁ, Zuzana, a KUNCE, Eduard. Agilní metody řízení projektů. Brno : Computer
+Press, 2019. ISBN 978-80-251-4961-4.
+WESTLAND, Jason. The project management life cycle. United Kingdom: Kogan Page
+Limited, 2006. ISBN 0-7494-4555-6.
+
+52
+
+Elektronické dokumenty – knihy, webové sídla
+AgileManifesto.org [online]. ©2022 [cit. 2022-08-06]. Dostupné na:
+https://agilemanifesto.org
+AXELOS Limited. Axelos.com [online]. Veľká Británia: AXELOS Limited ©2022 [cit.
+2022-08-04]. Dostupné na: https://www.axelos.com/certifications/prince2/what-is-projectmanagement
+Alexos. prince2.com[online]. ©2016 [cit. 2022-08-03]. Dostupné na:
+https://www.prince2.com/eur/blog/prince2-agile-is-here-but-what-is-it
+TRÁVNIK, Igor. TAKÁČ, Rudolf., Slovenský výkladový slovník projektového riadenia 5.
+rozšírené vydanie, 2016
+PRINCE2 Agile. prince2agile.wiki [online]. ©2022 [cit. 2022-08-13]. Dostupné na
+internete: https://prince2agile.wiki
+Štatistický úrad Slovenskej republiky. slovak.statistics.sk. [online] ©2022. [cit. 202208-05]. Dostupné na internete:
+https://slovak.statistics.sk/PACVPEM/vocabPagesDetails.html?id=13060&lang=sk
+Slov-Lex, Právny informačný portál. [online] ©2019. [cit. 2022-08-05]. Dostupné na
+internete:
+
+https://www.slov-lex.sk/zoznam-tezaurov/-/tezaurus/koncept/-SK-tezaury-1-4-
+
+koncepty-84
+Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky,
+[online] Projektový iniciálny dokument, [cit. 2022-08-04]. Dostupné na:
+https://www.mirri.gov.sk/wp-content/uploads/2020/10/I_04_PID_PROJEKTOVYINICIALNY-DOKUMENT_Projekt_AA_Ovm_BB_OsobaXY_DDMMYY_v0.5.docx
+Železnice Slovenskej republiky. zsr.sk [online] ©2022 [cit. 2022 08-05]. Dostupné na:
+https://www.zsr.sk/showdoc.do?docid=759&forceBrowserDetector=blind
+Trnavskemyto.sk
+
+[online].
+
+©2022
+
+[cit.
+
+2022-07-26].
+
+Dostupné
+
+na
+
+internete:
+
+2022-07-26].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.trnavskemyto.sk/#about
+Epokladna.sk
+
+[online].
+
+©2022
+
+[cit.
+
+https://epokladna.sk/
+Tajpan.online [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete:
+https://www.tajpan.online/
+
+53
+
+Eoswiss-engineering.ch [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete :
+https://www.eoswiss-engineering.ch/industries-examples/
+Softec [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete:
+https://www.softec.sk/referencie/vybrane-projekty/agilne-techniky-pre-vyvoj-novychproduktov-v-core-systeme/
+Články v elektronických časopisoch a iné príspevky
+AXELOS. PRINCE2 Agile. Global best practice. [online]. 2015, [cit. 2022-08-10].
+Dostupné na internete: https://potifob.sk/files/prince2-agile-guidance-preview.pdf
+FORSBERG, J., Aarsland, NTNU Open. Norwegian University of Science and
+Technology. Project Management System at a Research Institute - An exploratory case
+study. 2017. [online]. ©2022 [cit. 2022-07-26]. Dostupné na internete:
+https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2616320.
+International Project Management, IPMA Individual Competence Baseline. Zurich,
+2018.
+
+ISBN 978-94-92338-01-3.
+
+IPMA SLOVAKIA Prieskum o projektovom riadení na Slovensku [online]. Bratislava,
+2020 [cit. 2022-08-05]. Dostupné na internete : https://www.ipmaslovakia.sk/wpcontent/uploads/2020/11/Prieskum-o-projektovom-manazmente-na-Slovensku-1.pdf
+Project Management Institute. 2017. A guide to the project management body of
+knowledge (PMBOK guide) Sixth edition. Project Management Institute. ISBN: 978-16282-5392-4
+Project Management Institute. 2017. A guide to the project management body of
+knowledge (PMBOK guide) Sixth edition. Project Management Institute .ISBN: 978-16282-5392-4.
+SCHVABER Ken a SUTHERLAND Jeff. The Scrum Guide the Definitive Guide to Scrum
+The rules of the game. 2000.
+Softec.sk. Agilné techniky pre vývoj nových produktov v core systéme. [online]. ©2022 [cit.
+2022-07-26].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.softec.sk/referencie/vybrane-
+
+projekty/agilne-techniky-pre-vyvoj-novych-produktov-v-core-systeme/
+KOMUS, Ayelt, Study Report Status Quo Agile. 2014 , BPM-Lab, Dostupné na internete:
+https://www.hs-
+
+54
+
+koblenz.de/fileadmin/media/fb_wirtschaftswissenschaften/Forschung_Projekte/Forschungs
+projekte/Status_Quo_Agile/Studie_2014/2014.07.23_englischer_Bericht_final.v1.02.pdf
+YOUKER, Robert. PM World Journal. The Difference between Different Types of Projects,
+[online]. 2017, Vol. VI, Issue IV, s. 1. [cit. 2022-08-05]. Dostupné na internete:
+https://pmworldlibrary.net/wp-content/uploads/2017/04/pmwj57-Apr2017-youkerdifferent-types-of-projects-SecondEdition.pdf
+Normy
+STN ISO 21500: 2012 Riadenie projektu, programu a portfólia. Súvislosti a pojmy
+STN ISO 10006: 2019 Manažérstvo kvality. Návod na manažérstvo kvality v projektoch.
+STN ISO 690:2010 z mája 2012, Informácie a dokumentácia. Návod na tvorbu
+bibliografických odkazov na informačné pramene a ich citovanie.
+STN ISO 214: 1998 Abstrakty (referáty) pre publikácie a dokumentáciu..
+Legislatívne dokumenty
+Vnútorný predpis č.7/2018 Smernica rektora Univerzity Komenského v Bratislave.
+Vnútorný predpis č.8/2018 Smernica rektora Univerzity Komenského v Bratislave.
+Zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon)
+Odporúčanie európskou komisiou číslo č. 2003/361/EC k definícii MSP
+Doplnková literatúra
+ČERNÍKOVSKÝ, Petr., et al. Jak se vyhnout plagiátorství. Příručka pro studenty. Praha:
+Univerzita Karlova, Karolinum. 2020. ISBN 978-80-246-4790-6.
+GRASSEOVÁ, Monika, DUBEC, Radek, HORÁK, Roman. Procesní řízení ve veřejném
+i soukromém sektoru. Brno: Computer Press, a.s, 2008. ISBN 978-80-251-1987-7.
+SEDLÁK, Mikuláš. Manažment. Bratislavaq: Elita, 1997. ISBN 80-8044-015-8.
+VEBER, Jaromír a kol., Management. Základy, prosperita, globalizácia. Praha:
+Management Press, 2000. ISBN 80-7261-029-5.
+LUKÁČ, Ľubomír. IT management. Jak na úspěšnou kariéru. Rady experta z praxe. Brno:
+Computer Press, a.s, 2011. ISBN 978-80-251-3378-1.
+BRUCE, Andy, a LANGDON, Ken. Riadenie projektu. Bratislava: Slovakart, spol. s.r.o.,
+2003. ISBN 80-7145-756-6.
+
+55
+
+POSTER, Keith, a APPLEGARTH, Mike. Projektový manažment. Management do kapsy
+8. Praha: Portal s.r.o., 2006. ISBN 80-7367-141-7.
+
+56
+
+

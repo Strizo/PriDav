@@ -1,0 +1,1678 @@
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE
+FAKULTA SOCIÁLNO-EKONOMICKÝCH VZŤAHOV
+
+NÁKLADY A VÝNOSY A ICH VPLYV
+NA HOSPODÁRSKY VÝSLEDOK PODNIKU
+Bakalárska práca
+
+Študijný program: Ľudské zdroje a personálny manažment
+Študijný odbor: 8. Ekonómia a manažment
+Školiace pracovisko: Katedra manažmentu a rozvoja ľudských zdrojov
+Školiteľ: Ing. Jana Sochuľáková, PhD.
+
+2020
+Radka Petríková
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že záverečnú bakalársku prácu som vypracovala samostatne, a tiež,
+že som uviedla všetku použitú literatúru.
+
+V Bratislave 10. mája 2020
+
+.................................................
+Petríková
+
+Poďakovanie
+Ďakujem vedúcej mojej bakalárskej práce Ing. Jane Sochuľákovej, PhD. za odborné
+vedenie a cenné rady, ktoré mi poskytla pri vypracovaní záverečnej práce.
+
+ABSTRAKT
+
+PETRÍKOVÁ, Radka: NÁKLADY A VÝNOSY A ICH VPLYV NA HOSPODÁRSKY
+VÝSLEDOK PODNIKU [Bakalárska práca] – Trenčianska univerzita Alexandra
+Dubčeka v Trenčíne. Fakulta sociálno-ekonomických vzťahov; Katedra manažmentu
+a rozvoja ľudských zdrojov. – Vedúci práce: Ing. Jana Sochuľáková, PhD. – Trenčín:
+FSEV TnUAD, 2020. – 51 s.
+
+Náklady a výnosy sú dva veľmi dôležité činitele každej spoločnosti, od ktorých závisí
+výsledok hospodárenia. Aby sa podnik udržal na trhu, musí sledovať vývoj týchto
+činiteľov, snažiť sa o neustále zvyšovanie výnosov a znižovanie nákladov. Okrem toho,
+by sa mal podnik venovať aj výpočtom a analýze finančných ukazovateľov, ktorých
+výsledky vypovedajú o finančnej situácii a stabilite či nestabilite podniku.
+Cieľom bakalárskej práce je na základe analýzy nákladov, výnosov a finančných ukazovateľov
+podniku navrhnúť opatrenia a odporúčania na zlepšenie finančnej a ekonomickej situácie
+podniku.
+
+V prvej kapitole s názvom Náklady, výnosy, výsledok hospodárenia sme sa venovali
+teórii. V druhej kapitole s názvom Cieľ záverečnej práce, metodika sme opísali hlavný
+a čiastkové ciele bakalárskej práce a metódy, ktoré sme pri písaní bakalárskej práce
+využili. V tretej kapitole s názvom Analýza nákladov, výnosov a výsledku hospodárenia
+spoločnosti Nord Svit, s. r. o. sme sa venovali výpočtom a analýze nami vybraných
+finančných ukazovateľov. V poslednej, štvrtej kapitole s názvom Výsledky analýzy
+nákladov, výnosov a výsledku hospodárenia spoločnosti Nord Svit, s. r. o. sme na základe
+výpočtov a výsledkov finančných ukazovateľov zhodnotili aktuálnu situáciu danej
+spoločnosti a navrhli niekoľko odporúčaní na zlepšenie jej finančnej situácie.
+
+Kľúčové slová:
+náklady, výnosy, výsledok hospodárenia, finančné ukazovatele, účtovná závierka
+
+ABSTRACT
+
+PETRÍKOVÁ, Radka: COSTS AND REVENUES AND THEIR IMPACT ON THE
+BUSINESS RESULT OF THE COMPANY [Bachelor Thesis] - University Alexander
+Dubček in Trenčín. Faculty of Social and Economic Relations; Department of Human
+Resources Management and Development. - Thesis supervisor: Ing. Jana Sochuľáková,
+PhD. - Trenčín: FSEV TnUAD, 2020 – 51 pages
+
+Costs and revenues are two very important factors in every company, on which
+the economic result depends. In order to stay on the market, a company must monitor
+the development of these factors, strive to constantly increase revenues and reduce costs.
+In addition, the company should also deal with the calculation and analysis of financial
+indicators, the results of which indicate the financial situation and the stability or
+instability of the company.
+The goal of the bachelor thesis was to propose measures and recommendations to improve
+the financial and economic situation of the company.
+In the first chapter named as Costs, revenues, economic results, we focused on the theory.
+In the second chapter named as Aim of the final work, methodology, we described
+the main and partial objectives of the bachelor's thesis and the methods that we used to
+write the bachelor's thesis. In the third chapter named as Analysis of costs, revenues
+and profit of Nord Svit, s.r.o. about. we focused on the calculation and analysis of our
+selected financial indicators. In the last, fourth chapter named as Results of the analysis
+of costs, revenues and profit of Nord Svit, s.r.o., based on the calculations and results of
+financial indicators, we evaluated the current situation of the company and proposed
+several recommendations to improve its financial situation.
+
+Keywords:
+costs, revenues, profit-loss, financial indicators, financial statements
+
+OBSAH
+ZOZNAM OBRÁZKOV A ZOZNAM TABULIEK
+ZOZNAM GRAFOV
+ÚVOD ..................................................................................................................... 10
+1 NÁKLADY, VÝNOSY, VÝSLEDOK HOSPODÁRENIA ................................... 12
+1.1 Náklady ................................................................................................................ 12
+1.2 Výnosy ................................................................................................................. 18
+1.3 Časové rozlíšenie nákladov a výnosov ................................................................ 21
+1.4 Účtovanie nákladov a výnosov ............................................................................ 22
+1.5 Výsledok hospodárenia ........................................................................................ 23
+1.6 Ukazovatele nákladov, výnosov a výsledku hospodárenia .................................. 25
+2 CIEĽ ZÁVEREČNEJ PRÁCE, METODIKA ...................................................... 28
+3 ANALÝZA NÁKLADOV, VÝNOSOV A VÝSLEDKU
+HOSPODÁRENIA SPOLOČNOSTI NORD SVIT, s. r . o. .................................... 30
+3.1 Charakteristika spoločnosti Nord Svit, s. r. o....................................................... 30
+3.1.1 Vertikálna a horizontálna analýza majetku a zdrojov krytia majetku ........... 31
+3.1.2 Vertikálna a horizontálna analýza nákladov, výnosov a výsledku
+hospodárenia ............................................................................................................ 32
+3.2 Analýza finančných (pomerových) ukazovateľov ............................................... 36
+3.2.1 Analýza likvidity ........................................................................................... 37
+3.2.2 Analýza aktivity............................................................................................. 37
+3.2.3 Analýza zadlženosti ....................................................................................... 39
+3.2.4 Analýza rentability ........................................................................................ 40
+3.2.5 Analýza nákladovosti .................................................................................... 41
+4 ODPORÚČANIA NA ZLEPŠENIE FINANČNEJ SITUÁCIE PODNIKU ...... 43
+ZÁVER ................................................................................................................... 48
+ZOZNAM POUŽITEJ LITERATÚRY ................................................................... 50
+ZOZNAM PRÍLOH
+
+ZOZNAM OBRÁZKOV A ZOZNAM TABULIEK
+Obrázok 1 Účtovanie nákladov ..................................................................................... 22
+Obrázok 2 Účtovanie výnosov ...................................................................................... 23
+Obrázok 3 Prenos zostatkov výsledkových účtov ......................................................... 24
+Obrázok 4 Prenos zostatkov súvahových účtov ............................................................ 24
+
+Tabuľka 1 Analýza finančných (pomerových) ukazovateľov ....................................... 36
+
+ZOZNAM GRAFOV
+Graf 1 Znázornenie majetku a zdrojov krytia majetku .................................................. 32
+Graf 2 Znázornenie nákladov a výnosov ....................................................................... 34
+Graf 3 Znázornenie výsledku hospodárenia .................................................................. 35
+Graf 4 Znázornenie zmien ukazovateľov likvidity ........................................................ 37
+Graf 5 Znázornenie zmien ukazovateľov aktivity ......................................................... 38
+Graf 6 Znázornenie zmien ukazovateľov zadlženosti .................................................... 40
+Graf 7 Znázornenie zmien ukazovateľov rentability ..................................................... 41
+Graf 8 Znázornenie zmeny ukazovateľa celkovej nákladovosti .................................... 42
+
+ÚVOD
+
+Náklady a výnosy, ktoré sa delia na náklady a výnosy z hospodárskej činnosti
+a náklady a výnosy z finančnej činnosti, sú dva veľmi dôležité ukazovatele pre prežitie
+a udržanie sa na trhu každého podniku. Rozdiel medzi týmito dvoma ukazovateľmi
+vyjadruje výsledok hospodárenia. Ak výnosy prevyšujú náklady, účtovná jednotka
+dosahuje zisk. Naopak, ak náklady prevyšujú výnosy, výsledok hospodárenia predstavuje
+stratu.
+Náklady sú vyjadrením peňažného ocenenia spotreby podnikových výrobných
+faktorov, ktoré účtovná jednotka vynakladá na tvorbu svojich výkonov a na zabezpečenie
+svojej celkovej činnosti, výnosy zas vyjadrením peňažných prostriedkov, ktoré vyplývajú
+z tejto podnikateľskej činnosti.
+Hospodársky výsledok je ten najdôležitejší činiteľ, ktorý by mala podrobne
+analyzovať každá účtovná jednotka. Cieľom každého podniku je dosahovať zisk, preto je
+tiež potrebné dôsledne analyzovať aj vznikajúce náklady a výnosy. Je potrebné, aby
+podnik pochopil, aké náklady mu vznikajú, je potrebná ich dôkladná analýza, kalkulácia
+a kategorizácia, aby mohol podnik dlhodobo úspešne fungovať a realizovať svoju
+činnosť, ktorá mu bude prinášať zisk.
+Takisto, ako analyzuje náklady, mala by analyzovať aj výnosy a určiť konkrétne
+oblasti činnosti, ktoré jej prinášajú najväčšie výnosy, a tiež oblasti, ktoré sú pre účtovnú
+jednotku v dosahovaní výnosov neefektívne. Až dôslednou analýzou nákladov a výnosov
+vie pochopiť vzniknutý hospodársky výsledok a prijať potrebné opatrenia pre znižovanie
+nákladov a zvyšovanie výnosov, aby vedel dosahovať čo najlepšie výsledky.
+Cieľom bakalárskej práce je na základe analýzy nákladov, výnosov a finančných
+ukazovateľov podniku navrhnúť opatrenia a odporúčania na zlepšenie finančnej
+a ekonomickej situácie podniku.
+Bakalárska práca sa skladá zo štyroch hlavných kapitol. Prvá kapitola je zameraná
+na dôležité teoretické východiská. Venovali sme sa charakteristike nákladov a výnosov,
+ako aj ich členeniu a spôsobu ich účtovania. Ďalej sme charakterizovali výsledok
+hospodárenia a v poslednej časti tejto kapitoly sme sa venovali teoretickému popisu nami
+vybraných finančných ukazovateľov. Táto prvá kapitola je východiskom a podkladom
+pre spracovanie tretej kapitoly, ktorá je venovaná praktickej analýze nákladov, výnosov
+a výsledku hospodárenia spoločnosti Nord Svit, s. r. o.
+
+10
+
+V druhej kapitole sme opísali hlavný a čiastkové ciele bakalárskej práce a metódy,
+ktoré sme pri písaní bakalárskej práci využili.
+Okrem vertikálnej a horizontálnej analýzy už spomínaných nákladov, výnosov
+a výsledku hospodárenia sme sa v tretej kapitole venovali aj výpočtom nami vybraných
+finančných, resp. pomerových ukazovateľov, ktoré sme považovali za najviac používané
+a dôležité, ako je likvidita, rentabilita, aktivita a zadlženosť, ktorých analýza je taktiež
+veľmi dôležitá pre fungovanie a prežitie každej spoločnosti.
+Tieto finančné ukazovatele vypovedajú napr. aj o tom, s akou účinnosťou
+a efektívnosťou účtovná jednotka hospodári so svojim majetkom, v akej miere podnik
+využíva vlastné zdroje krytia a cudzie zdroje krytia, ale aj o tom, či je podnik schopný
+splácať svoje záväzky. Ak chce spoločnosť dosahovať lepšie výsledky, myslíme si, žeby
+sa mala venovať analýze aj týchto finančných ukazovateľov.
+Na základe výsledkov získaných z vykonanej analýzy v tretej kapitole sme sa
+v poslednej, štvrtej kapitole pokúšali dospieť k odporúčaniam a možnostiam zníženia
+nákladov, zvýšenia výnosov a k odhaľovaniu prípadných rezerv spoločnosti.
+
+11
+
+1 NÁKLADY, VÝNOSY, VÝSLEDOK HOSPODÁRENIA
+
+Účtovníctvo sa venuje pohybu a stavu majetku, taktiež sa zaoberá jeho
+zhodnocovaním, pričom ako meradlo tohto zhodnocovania slúži výsledok hospodárenia.
+Výsledok hospodárenia sa získava porovnaním výnosov a nákladov, ktoré sú
+porovnávané za určité dané časové obdobie. Týmto porovnávaním je možné dospieť
+k dvom podobám výsledku hospodárenia, ktorými sú strata alebo zisk. Náklady vznikajú
+ako dôsledok spotrebovávania majetku v účtovnej jednotke. Táto spotreba súvisí
+s rôznymi činnosťami podniku, ako sú poskytovanie služieb, výroba výrobkov alebo
+predaj tovaru. Výnosy potom zobrazujú výstupy z hospodárenia účtovnej jednotky.
+(Džupinka, Sochuľáková, 2016)
+
+1.1 Náklady
+„Nákladom sa rozumie zníženie ekonomických úžitkov účtovnej jednotky
+v účtovnom období, ktoré sa dá spoľahlivo oceniť. Ekonomickým úžitkom sa rozumie
+možnosť priamo alebo nepriamo prispieť k toku peňažných prostriedkov a ekvivalentov
+peňažných prostriedkov.“ (Šlosárová a kol., 2016, s. 55)
+Podstata nákladov spočíva v spotrebovávaní výrobných zdrojov. Tie musí mať
+účtovná jednotka k dispozícii v požadovanom množstve, kvalite a štruktúre na to, aby
+vedela zabezpečiť plynulý chod výroby. Tieto zdroje sa vo výrobnom procese dostávajú
+do pohybu, jedna forma výrobných faktorov sa mení na druhú v podobe nákladov.
+V nákladoch sú obsiahnuté všetky aktivity od výroby, využívania času práce
+a pracovných kapacít cez modernizáciu techniky a technológie využívanej vo výrobnom
+procese a produktivitu práce až po zaistenie odbytu výkonov a ďalšími. Náklady teda
+vypovedajú o kvalite celej činnosti účtovnej jednotky a ich analýzou je možné posúdiť
+docielenú efektívnosť, či je primeraná vynaloženým prostriedkom. (Alexy, 2005)
+„Náklad vzniká účelovou spotrebou. Na dosiahnutie výnosov je nevyhnutné
+najprv niečo vynaložiť, niečo spotrebovať. Náklad vyjadruje hodnotu, ktorú je potrebné
+obetovať na dosiahnutie výnosov.“ (Džupinka, Sochuľáková, 2016, s. 98)
+Dôsledkom spotreby je na jednej strane úbytok aktív, čiže majetku vo výrobe, a to
+buď jednorazovo, napr. ak sa jedná o spotrebu materiálu alebo ide o postupnú spotrebu,
+napr. opotrebovávanie strojov. Na druhej strane zas dochádza k zvyšovaniu záväzkov,
+12
+
+čiže dlhov, ktoré vznikajú napr. spotrebou elektrickej energie, platením nájomného alebo
+povinnosťou vyplácať zamestnancom mzdy. (Džupinka, Sochuľáková, 2016)
+Je potrebné, aby bol pri účtovaní nákladov posúdený účel, na aký boli obetované.
+Ak má byť výroba efektívna je nevyhnutné, aby vznik nákladov viedol k zvyšovaniu
+výnosov. Platí pravidlo, že náklad je automaticky priradený k jemu zodpovedajúcemu
+výnosu. Toto pravidlo nemusí platiť stále, pretože existujú aj náklady, ku ktorým sa
+nedajú priradiť zodpovedajúce výnosy, ale sú priradené k účtovnému obdobiu, kedy
+vznikli. Takýmto nákladom môže byť napr. nájomné, ktoré bude patriť do nákladov
+obdobia, na ktoré bolo zaplatené. Ďalej je potrebné prísne rozoznávať výdavok
+od nákladu. Výdavok zobrazuje pokles peňažných prostriedkov, pokles majetku, ktorý sa
+nezobrazí v nákladoch daného účtovného obdobia, výdavok zobrazuje tok peňazí.
+(Džupinka, Sochuľáková, 2016)
+Náklady je možné členiť z viacerých hľadísk. Členenie nákladov podľa druhu
+alebo druhové členenie nákladov predstavuje členenie, ktoré vypovedá o pôvodnej
+podobe nákladov pri ich vstupe do chodu účtovnej jednotky z externého prostredia.
+Hlavné nákladové druhy tvoria spotreba prác, služieb a materiálu, finančné a mzdové
+náklady a odpisy. (Soukupová, Šlosárová, Baštincová , 2004)
+Členenie nákladov podľa účelu alebo účelové členenie nákladov, ktorého podstatu
+tvorí rozdelenie nákladov do individuálnych oblastí činností, a to pomocnej, vedľajšej
+a hlavnej. V rámci týchto sa nasledovne detailnejšie delia podľa individuálnych druhov
+činností. (Šlosárová a kol., 2016)
+Členenie nákladov podľa zodpovednosti a miesta, kde vznikli predstavuje ich
+pričlenenie k vnútropodnikovej jednotke, kde sa činnosti uskutočňujú. Zamestnanci
+týchto útvarov sa zaručujú za efektívne nakladanie a zhodnotenie týchto nákladov.
+(Šlosárová a kol., 2016)
+Členenie nákladov podľa položiek kalkulačného vzorca alebo kalkulačné členenie
+nákladov člení náklady podľa dôvodnej väzby nákladov s konkrétnym parciálnym alebo
+konečným výkonom. Podľa tohto členenia rozoznávame náklady jednotkové, ktoré sú
+úzko spojené s určitým výkonom a náklady režijné, vďaka ktorým je zaistený chod
+účtovnej jednotky a nie sú úzko späté s konkrétnym výkonom. (Soukupová, Šlosárová,
+Baštincová , 2004)
+Z hľadiska objemu produkcie rozoznávame variabilné a fixné náklady. Výška
+variabilných nákladov sa mení podľa množstva produkcie, naproti tomu fixné náklady
+nie sú závislé od objemu produkcie. (Džupinka, Sochuľáková, 2016)
+13
+
+Z daňového hľadiska členíme náklady na daňové, ktoré okrem hospodárskeho
+výsledku ovplyvňujú aj daňový základ a nedaňové, ktoré majú vplyv iba na hospodársky
+výsledok, daňový základ neovplyvňujú. (Džupinka, Sochuľáková, 2016)
+Podľa realizácie platby rozoznávame náklady na explicitné, ktoré predstavujú
+všetky skutočne vynaložené náklady, ktoré sú vedené v účtovníctve. Sú to náklady, ktoré
+sú vynaložené účtovnou jednotkou pri nákupe alebo nájme výrobných zdrojov. Implicitné
+náklady sú tie náklady, ktoré účtovná jednotka skutočne neplatí, vznikajú pri používaní
+vlastných zdrojov. Typickým príkladom sú odpisy. (Ivanová a kol., 2009)
+Ďalším členením je členenie z účtovného hľadiska. Náklady delíme na tri veľké
+skupiny, a to na náklady na hospodársku činnosť, náklady na finančnú činnosť a daňové
+náklady.
+Náklady na hospodársku činnosť tvoria skupiny:
+50 - Spotrebované nákupy
+51 - Služby
+52 - Osobné náklady
+53 - Dane a poplatky
+54 - Iné náklady na hospodársku činnosť
+55 - Odpisy a opravné položky k dlhodobému majetku
+(Máziková, Mateášová, Ondrušová, 2019)
+Skupinu spotrebované nákupy tvoria účty:
+501 - Spotreba materiálu
+502 - Spotreba energie
+503 - Spotreba ostatných neskladovateľných dodávok
+504 - Predaný tovar
+505 - Tvorba a zúčtovanie opravných položiek k zásobám
+507 - Predaná nehnuteľnosť (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu spotrebované nákupy tvorí spotreba materiálu, kde sa účtuje spotreba
+surovín, ako je napr. hlavný a pomocný materiál, pomocné a prevádzkové látky, náhradné
+diely. Spotrebu energie tvoria všetky typy energií, ako sú napr. plyn, elektrická energia,
+voda. Spotreba ostatných neskladovateľných dodávok je účet, ktorý slúži na účtovanie
+napr. spotreby vody ako suroviny spotrebovanej v stavebnej výrobe. Účet predaný tovar
+sa používa na účtovanie poklesu predaného tovaru. Skupinu spotrebované nákupy
+uzatvárajú účet tvorba a zúčtovanie opravných položiek k zásobám, ktorý slúži
+na účtovanie tvorby opravnej položky k zásobám a účet predaná nehnuteľnosť. Ten
+14
+
+účtovná jednotka využíva vtedy, keď sa rozhodne obstarať nehnuteľnosť so zámerom ju
+ďalej predať, pričom sa nejedná o predaj v nezmenenej forme. (Šlosárová a kol., 2016)
+Skupinu služby tvoria účty:
+511 - Opravy a udržiavanie
+512 - Cestovné
+513 - Náklady na reprezentáciu
+518 - Ostatné náklady (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu služby tvoria náklady na opravy a udržiavanie, kde sa jedná napr.
+o opravy a udržiavanie nehnuteľností, budov a hnuteľných vecí, áut, strojov vo výrobe.
+Cestovné predstavuje výdavky z pracovných ciest zamestnancov. Typické náklady
+na reprezentáciu tvoria napr. náklady späté s občerstvením, pohostením alebo dopravou
+vlastným prepravným prostriedkom. (Šlosárová a kol., 2016)
+Skupinu osobné náklady tvoria účty:
+521 - Mzdové náklady
+522 - Príjmy spoločníkov a členov zo závislej činnosti
+523 - Odmeny členov orgánov spoločností a družstva
+524 - Zákonné sociálne poistenie
+525 - Ostatné sociálne poistenie
+526 - Sociálne náklady fyzickej osoby – podnikateľa
+527 - Zákonné sociálne náklady
+528 - Ostatné sociálne náklady (Máziková, Mateášová, Ondrušová, 2019)
+Ďalšiu skupinu predstavujú osobné náklady. Mzdové náklady sú náklady spojené
+so mzdami zamestnancov, príjmy spoločníkov a členov zo závislej činnosti predstavujú
+náklady na spoločníkov za ich vykonanú prácu a na účte odmeny členov orgánov
+spoločnosti a družstva sa zas účtuje o nákladoch na odmeny, ktoré sú vyplácané
+za vykonávanie funkcie v orgánoch družstva a spoločnosti. Zákonné sociálne poistenie
+predstavujú náklady na zákonné sociálne a zdravotné poistenie zamestnancov, ktoré musí
+uhradiť zamestnávateľ, ostatné sociálne poistenie sú náklady, ktoré vznikajú, keď
+zamestnávateľ hradí zamestnancom sociálne a zdravotné poistenie nad rámec povinnosti,
+ktorá mu vyplýva zo zákona. Sociálne náklady fyzickej osoby – podnikateľa je účet, ktorý
+využívajú samostatne zárobkovo činné osoby. Zákonné sociálne náklady sú náklady,
+ktoré vznikajú účtovnej jednotke napr. pri náhrade príjmu pri dočasnej pracovnej
+neschopnosti, pri zabezpečovaní pracovného odevu, hygienických a osobných pomôcok
+
+15
+
+alebo pri vyplácaní odstupného. Všetky náklady sociálneho charakteru hradené
+nad rámec zákona sú účtované ako ostatné sociálne náklady. (Šlosárová a kol., 2016)
+Skupinu dane a poplatky tvoria účty:
+531 - Daň z motorových vozidiel
+532 - Daň z nehnuteľnosti
+538 - Ostatné dane a poplatky (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu dane a poplatky tvoria daň z motorových vozidiel, daň z nehnuteľnosti
+a ostatné dane a poplatky, kde sa účtujú ostatné dane, ktoré nepatria do predošlých účtov
+a taktiež rozličné poplatky. (Šlosárová a kol., 2016)
+Skupinu iné náklady na hospodársku činnosť tvoria účty:
+541 - Zostatková cena predaného dlhodobého nehmotného majetku a dlhodobého
+hmotného majetku
+542 - Predaný materiál
+543 - Dary
+544 - Zmluvné pokuty, penále a úroky z omeškania
+545 - Ostatné pokuty, penále a úroky z omeškania
+546 - Odpis pohľadávky
+547 - Tvorba a zúčtovanie opravných položiek k pohľadávkam
+548 - Ostatné náklady na hospodársku činnosť
+549 - Manká a škody (Máziková, Mateášová, Ondrušová, 2019)
+V skupine iné náklady na hospodársku činnosť sa účtuje zostatková cena
+predaného dlhodobého nehmotného majetku a dlhodobého hmotného majetku, predaný
+materiál, ktorý sa predáva, ak je pre účtovnú jednotku neužitočný, ďalej dary, ktoré
+predstavujú bezodplatné postúpenie majetku účtovnej jednotky na základe dobrovoľnosti
+druhému subjektu. Účet zmluvné pokuty, penále a úroky z omeškania slúži na účtovanie
+pokút, ktoré vyplývajú zo zmluvných vzťahov, napr. neskoré zaplatenie dlhu voči
+dodávateľom alebo porušenie podmienok vyplývajúcich zo zmluvy. Sankcie, ktoré
+neplynú zo zmluvných vzťahov, ale sú ukladané rôznymi orgánmi sa účtujú na účte
+ostatné pokuty, penále a úroky z omeškania. (Šlosárová a kol., 2016)
+Skupinu odpisy a opravné položky k dlhodobému majetku tvoria účty:
+551 - Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného majetku
+553 - Tvorba a zúčtovanie opravných položiek k dlhodobému majetku
+555 - Zúčtovanie komplexných nákladov budúcich období
+
+16
+
+557 - Zúčtovanie oprávky k opravnej položke k nadobudnutému majetku
+(Máziková, Mateášová, Ondrušová, 2019)
+Skupinu odpisy a opravné položky k dlhodobému majetku tvoria odpisy
+dlhodobého nehmotného majetku a dlhodobého hmotného majetku, ktoré sa
+v účtovníctve vedú podľa plánu odpisov, ktorý si účtovná jednotka vytvorí tak, aby
+odpisy zobrazovali zvyčajné opotrebenie, ku ktorému vo výrobe dochádza. Tento účet sa
+využíva aj na účtovanie zostatkovej ceny majetku, ktorý sa z vyraďuje z rôznych príčin.
+Ďalej sú to účty tvorba a zúčtovanie opravných položiek k dlhodobému majetku,
+zúčtovanie komplexných nákladov budúcich období a zúčtovanie oprávky k opravnej
+položke k nadobudnutému majetku. (Šlosárová a kol., 2016)
+Skupinu finančné náklady tvoria účty:
+561 - Predané cenné papiere a podiely
+562 - Úroky
+563 - Kurzové straty
+564 - Náklady na precenenie cenných papierov
+565 - Tvorba a zúčtovanie opravných položiek k finančnému majetku
+566 - Náklady na krátkodobý finančný majetok
+567 - Náklady na derivátové operácie
+568 - Ostatné finančné náklady
+569 - Manká a škody na finančnom majetku (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu finančné náklady tvoria predané cenné papiere a podiely, kde sa účtuje
+ich pokles, ďalej úroky ako záväzok voči rôznym subjektom a kurzové straty, ktoré
+vznikajú napr. pri úhrade záväzku, keď pri vzniku záväzku je kurz nižší a pri jeho splatení
+je kurz vyšší; pri pohľadávke opačne. Ďalším účtom tejto skupiny je účet náklady
+na precenenie cenných papierov, ktorý slúži na účtovanie poklesu reálnej hodnoty
+cenných papierov, ako aj kurzových strát, ktoré vznikajú pri oceňovaní týchto papierov
+v zahraničnej mene ku dňu, ku ktorému je zostavená účtovná závierka. Ďalším je účet
+tvorba a zúčtovanie opravných položiek k finančnému majetku, kde sa účtuje podľa
+pravidiel účtovania opravných položiek, účet náklady na krátkodobý finančný majetok,
+ktoré vznikajú napr. vtedy, ak sa zmení reálna hodnota cenných papierov. Do tejto
+skupiny patria aj náklady na derivátové operácie, ktoré vznikajú pri zmene reálnej
+hodnoty obchodovateľných derivátov, ostatné finančné náklady, ako sú napr. bankové
+poplatky alebo poistenie finančného majetku a účet manká a škody na finančnom
+majetku. (Šlosárová a kol., 2016)
+17
+
+Skupinu dane z príjmov a prevodové účty tvoria účty:
+591 - Splatná daň z príjmov
+592 - Odložená daň z príjmov
+595 - Dodatočné odvody dane z príjmov
+596 - Prevod podielov na výsledku hospodárenia spoločníkom (Máziková, Mateášová,
+Ondrušová, 2019)
+Poslednou je skupina dane z príjmov a prevodové účty, kde sa účtuje splatná daň
+z príjmov, ktorá je záväzkom účtovnej jednotky odviesť daň do štátneho rozpočtu
+v súlade so zákonom, odložená daň z príjmov a účet dodatočné odvody dane z príjmov,
+kde sa účtuje buď málo dôležité vyrubenie, alebo vrátenie dane z príjmov
+za predchádzajúce obdobia. Posledným je účet prevod podielov na výsledku
+hospodárenia spoločníkom, kde sa účtuje buď o práve na podiel zo zisku, alebo o záväzku
+uhradiť stratu účtovnej jednotky. (Šlosárová a kol., 2016)
+
+1.2 Výnosy
+„Výnosom sa rozumie zvýšenie ekonomických úžitkov účtovnej jednotky
+v účtovnom období, ktoré sa dá spoľahlivo oceniť.“ (Šlosárová a kol., 2016, s. 59)
+Výnos je tvorený prírastom majetku, aktív účtovnej jednotky, napr. ak vznikne
+tržba za predaný výrobok, tovar alebo službu alebo poklesom záväzkov, napr. keď sa
+veriteľ zriekne nároku na zaplatenie záväzku. Aj tu platí, že je potrebné striktne rozlišovať
+výnos a príjem. Príjem predstavuje nárast peňažných prostriedkov, ktorý sa nezobrazí
+vo výnosoch daného účtovného obdobia. (Džupinka, Sochuľáková, 2016)
+„Výnos – peňažné vyjadrenie výsledkov plynúcich z prevádzkovania podniku.
+Výnos je protipólom nákladu. Hlavnou súčasťou výnosov sú tržby. Tržby vznikajú
+najčastejšie pri predaji tovaru, služieb alebo výrobkov.“ (Džupinka, Sochuľáková, 2016,
+s. 102)
+Výnosy delíme z účtovného hľadiska na výnosy z hospodárskej činnosti a výnosy
+z finančnej činnosti.
+Výnosy z hospodárskej činnosti tvoria skupiny:
+60 - Tržby za vlastné výkony a tovar
+61 - Zmeny stavu vnútroorganizačných zásob
+62 - Aktivácia
+
+18
+
+64 - Iné výnosy z hospodárskej činnosti
+65 - Zúčtovanie niektorých položiek z hospodárskej činnosti
+(Máziková, Mateášová, Ondrušová, 2019)
+Skupinu tržby za vlastné výkony a tovar tvoria účty:
+601 - Tržby za vlastné výrobky
+602 - Tržby z predaja služieb
+604 - Tržby za tovar
+606 - Výnosy zo zákazky
+607 - Výnosy z nehnuteľnosti na predaj (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu tržby za vlastné výkony a tovar tvoria tržby za vlastné výrobky, tržby
+z predaja služieb a tržby za tovar, ktoré predstavujú tržby z predaja týchto výkonov. Ako
+časť tržieb je účtovaná zľava z ceny, ktorá je poskytnutá odberateľovi z rôznych dôvodov
+a výnosy znižuje. V tejto skupine sa ďalej účtujú výnosy zo zákazky, ktoré predstavujú
+výnosy zo zákazkovej produkcie a výnosy z nehnuteľnosti na predaj. (Šlosárová a kol.,
+2016)
+Skupinu zmeny stavu vnútroorganizačných zásob tvoria účty:
+611 - Zmena stavu nedokončenej výroby
+612 - Zmena stavu polotovarov
+613 - Zmena stavu výrobkov
+614 - Zmena stavu zvierat (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu zmeny stavu vnútroorganizačných zásob tvoria účty, na ktorých sa účtujú
+prírastky alebo úbytky zásob vlastných výkonov, ktoré následne vedú k zvýšeniu alebo
+zníženiu výnosov. (Šlosárová a kol., 2016)
+Skupinu aktivácia tvoria účty:
+621 - Aktivácia materiálu a tovaru
+622 - Aktivácia vnútroorganizačných služieb
+623 - Aktivácia dlhodobého nehmotného majetku
+624 - Aktivácia dlhodobého hmotného majetku
+(Máziková, Mateášová, Ondrušová, 2019)
+Skupinu aktivácia tvoria účty, na ktorých sa účtuje vytvorenie a aktivácia
+výkonov, ktoré účtovná jednotka vytvorí vlastnou aktivitou, slúžia jej pre vlastnú potrebu
+a sú časťou majetku tejto účtovnej jednotky. (Šlosárová a kol., 2016)
+Skupinu iné výnosy z hospodárskej činnosti tvoria účty:
+641 - Tržby z predaja dlhodobého nehmotného majetku a dlhodobého hmotného majetku
+19
+
+642 - Tržby z predaja materiálu
+644 - Zmluvné pokuty, penále a úroky z omeškania
+645 - Ostatné pokuty, penále a úroky z omeškania
+646 - Výnosy z odpísaných pohľadávok
+648 - Ostatné výnosy z hospodárskej činnosti (Máziková, Mateášová, Ondrušová, 2019)
+Skupinu iné výnosy z hospodárskej činnosti tvoria tržby z predaja dlhodobého
+nehmotného majetku a dlhodobého hmotného majetku a tržby z predaja materiálu, ktoré
+vznikajú, keď účtovná jednotka predá tieto súčasti majetku, najčastejšie z dôvodu, že ich
+nepotrebuje ku svojej činnosti. Ďalej sa tu účtujú zmluvné pokuty, penále a úroky
+z omeškania
+
+predstavujúce
+
+výnosy,
+
+napr.
+
+meškajúce
+
+zaplatenie
+
+pohľadávky
+
+od odberateľa a ostatné pokuty, penále úroky z omeškania, ktoré nevyplývajú
+zo zmluvných vzťahov. Ďalším účtom tejto skupiny je účet výnosy z odpísaných
+pohľadávok, ktorý slúži v prípade, ak dlžník uhradí svoju pohľadávku voči účtovnej
+jednotke, ktorá ju v minulých obdobiach odpísala do nákladov. Posledným je účet ostatné
+výnosy z hospodárskej činnosti, na ktorom sa vedú rôzne iné výnosy, napr. výnosy
+z prenájmu majetku. (Šlosárová a kol., 2016)
+Skupinu zúčtovanie niektorých položiek z hospodárskej činnosti tvoria účty:
+655 - Zúčtovanie komplexných nákladov budúcich období
+657 - Zúčtovanie oprávky k opravnej položke k nadobudnutému majetku (Máziková,
+Mateášová, Ondrušová, 2019)
+Poslednú skupinu hospodárskych výnosov, a to zúčtovanie niektorých položiek
+z hospodárskej činnosti tvoria účty zúčtovanie komplexných nákladov budúcich období,
+kde je vedené vzniknutie komplexných nákladov a zúčtovanie oprávky k opravnej
+položke k nadobudnutému majetku. (Šlosárová a kol., 2016)
+Skupinu finančné výnosy tvoria účty:
+661 - Tržby z predaja cenných papierov a podielov
+662 - Úroky
+663 - Kurzové zisky
+664 - Výnosy z precenenia cenných papierov
+665 - Výnosy z dlhodobého finančného majetku
+666 - Výnosy z krátkodobého finančného majetku
+667 - Výnosy z derivátových operácií
+668 - Ostatné finančné výnosy (Máziková, Mateášová, Ondrušová, 2019)
+
+20
+
+Skupinu finančné výnosy tvoria tržby z predaja cenných papierov a podielov,
+ďalej úroky vyplácané od dlžníkov a kurzové zisky, ktoré účtovnej jednotke vznikajú
+pri zaplatení pohľadávky, pričom kurz pri platení je vyšší ako kurz, keď pohľadávka
+vznikla; pri úhrade záväzkoch zas opačne. Výnosy z precenenia cenných papierov
+vznikajú pri zmene reálnej hodnoty týchto cenných papierov na obchodovanie, ďalej
+do tejto skupiny patria výnosy z dlhodobého a krátkodobého finančného majetku, ktoré
+predstavujú napr. podiely na zisku účtovnej jednotky a dividendy a výnosy
+z derivátových operácií, ktoré vznikajú pri zmene reálnej hodnoty derivátov
+na obchodovanie. Posledným účtom je účet ostatné finančné výnosy, kde sa účtuje napr.
+nadbytok peňazí v hotovosti. (Šlosárová a kol., 2016)
+
+1.3 Časové rozlíšenie nákladov a výnosov
+Hospodársky výsledok účtovného obdobia vypovedá o skutočnej rentabilite
+činnosti účtovnej jednotky vtedy, ak je vypočítaný z nákladov a výnosov, ktoré majú
+vecný súvis s týmto bežným obdobím, čo predstavuje splnenie princípu, že náklady
+a výnosy budú priradené k účtovnému obdobiu, s ktorým priamo súvisia. Podstatou je,
+aby medzi náklady a výnosy daného účtovného obdobia neboli zahrnuté všetky operácie
+realizované v danom období, ale len tie, ktoré s ním súvisia, zároveň je však dôležité, aby
+medzi nákladmi a výnosmi daného účtovného obdobia boli zahrnuté aj tie operácie, ktoré
+sa ako výdavok alebo príjem odzrkadlia až v budúcich obdobiach, ale s daným obdobím
+súvisia. To sa dá docieliť prostredníctvom časového rozlíšenia nákladov a výnosov.
+(Soukupová, Šlosárová, Baštincová, 2004)
+Skupinu časové rozlíšenie nákladov a výnosov tvorí päť účtov. Na účte náklady
+budúcich období sa vedú výdavky daného bežného účtovného obdobia, ktoré ale súvisia
+s nákladmi budúcich účtovných období. Tieto náklady potom budú zúčtované v tom
+bežnom období, s ktorým majú vecný súvis. Typickým príkladom, kedy vzniká takáto
+situácia je dopredu zaplatené nájomné. Ďalším je účet komplexné náklady budúcich
+období, kde sa vedú výdavky bežného účtovného obdobia, ktoré súvisia s nákladmi
+budúcich účtovných období, ale tieto sa pozorujú v súvislosti s konkrétnym účelom.
+Ďalším v poradí je účet výdavky budúcich období, ktorý slúži na vedenie nákladov
+bežného účtovného obdobia, ktoré ale súvisia s výdavkami v budúcich účtovných
+obdobiach. Tieto výdavky budú zúčtované v tom účtovnom období, kedy dôjde k úhrade,
+
+21
+
+čiže poklesu peňažných prostriedkov, napr., ak je pozadu uhradené nájomné. Na účte
+výnosy budúcich období sa vedú príjmy bežného účtovného obdobia, ktoré ale súvisia
+s výnosmi budúcich účtovných období. Tieto výnosy budú zúčtované v tom bežnom
+účtovnom období, s ktorým majú vecný súvis. Príkladom môže byť platba nájomného
+prijatá dopredu. Na účte príjmy budúcich období sa zas opačne vedú výnosy bežného
+obdobia, ktoré súvisia s príjmami budúcich období. Tieto príjmy budú zúčtované v tom
+bežnom účtovnom období, kedy dôjde k úhrade, čiže príjmu peňažných prostriedkov,
+napr., ak je pozadu prijaté nájomné. (Sklenka, Šlosárová, Hornická, Blahušiaková, 2019)
+
+1.4 Účtovanie nákladov a výnosov
+Účty nákladov a účty výnosov sú vedené na výsledkových účtoch, účty aktív
+a účty pasív zas na súvahových účtoch, pričom hlavný rozdiel medzi nimi je v tom, že
+výsledkové účty nemajú na začiatku účtovného obdobia začiatočný stav. Výsledkovými
+účtami sa nazývajú, pretože na konci účtovného obdobia sa z rozdielu nákladov
+a výnosov vypočítava hospodársky výsledok. (Manová, Nižníková, Feranecová, 2016)
+Náklady a výnosy sa delia na hospodársku oblasť, ktorá obsahuje účtovné prípady
+typické pre základné podnikateľské aktivity účtovnej jednotky a na finančnú oblasť, ktorá
+zas obsahuje účtovné prípady týkajúce sa finančných operácií. Pri účtovaní musí byť vždy
+dodržané to, že účtovné prípady, ktoré sa na konkrétne účty účtujú majú rastúci charakter
+od začiatku až do skončenia daného bežného účtovného obdobia, takisto sú striktne
+účtované len do toho účtovného obdobia, s ktorým majú vecný a časový súvis a nie je
+povolené ich vzájomná kompenzácia. (Džupinka, Sochuľáková, 2016)
+Obrázok 1 Účtovanie nákladov
+
+Zdroj: Džupinka, Sochuľáková (2016)
+
+22
+
+Obrázok 2 Účtovanie výnosov
+
+Zdroj: Džupinka, Sochuľáková (2016)
+
+1.5 Výsledok hospodárenia
+„Výsledkom hospodárenia sa rozumie ocenený výsledný efekt činnosti účtovnej
+jednotky dosiahnutý v účtovnom období.“ (Šlosárová a kol., 2016, s. 68)
+Hospodársky výsledok sa zisťuje porovnávaním nákladov a výnosov, ktoré majú
+vecný a časový súvis s daným bežným účtovným obdobím, pričom sa neberie ohľad
+na to, kedy účtovnej jednotke vzniknú výdavky súvisiace s týmito nákladmi a príjmy
+súvisiace s týmito výnosmi. Môžu nastať dve situácie, a to, že vznikne ako výsledok
+hospodárenia buď účtovný zisk alebo účtovná strata. Ak v danom účtovnom období
+výnosy prevyšujú náklady, vzniká zisk. Ak je to opačne, čiže ak náklady prevyšujú
+výnosy, vzniká strata. (Šlosárová a kol., 2016)
+Zisk je hlavnou ideou pri zakladaní každého podniku. V prípade drobného
+podnikateľa môže byť motívom tiež uspokojenie zo samostatnej a nezávislej činnosti,
+kedy je sám sebe pánom. Vo väčších spoločnostiach však už môže dôjsť k určitým
+konfliktom v záujmoch vlastníkov oproti záujmom manažérov. (Majdúchová,
+Neumannová, 2008)
+Zisk predstavuje dôležitý kvantitatívny, ale aj kvalitatívny ukazovateľ, ktorý
+poukazuje na efektívnosť podnikovej činnosti, je základom pre vyplácanie dôchodkov
+vlastníkov a v neposlednom rade je zdrojom, z ktorého je možné financovanie ďalšieho
+rozvoja podniku. Aj napriek tomu však zisk nie je postačujúcim a úplne dôveryhodným
+ukazovateľom, a to hlavne z dôvodu, že na základe neho nevieme charakterizovať stupeň
+rizikovosti vykonávaných podnikateľských aktivít, nevieme na základe neho posúdiť
+postavenie na trhu, jeho povesť ani perspektívy. Takisto je možné výšku zisku upravovať
+rôznymi zásahmi do účtovníctva, napr. prostredníctvom časového rozlíšenia nákladov
+23
+
+a výnosov, prostredníctvom zvoleného spôsobu odpisovania majetku a oceňovania
+majetku, predovšetkým zásob nedokončenej výroby. Práve pre tieto zásahy má
+dôveryhodnú výpoveď o platobnej schopnosti podniku skôr stav pohotových peňažných
+prostriedkov na bankových účtoch. (Vlachynský a kol., 2009)
+Možností, ako rozdeliť zisk po zdanení je niekoľko. Medzi najčastejšie patria
+tvorby rôznych fondov, napr. štatutárnych, rezervného a sociálneho, zvýšenie základného
+imania, rozloženie medzi vlastníkov, úhrada minuloročných strát alebo nechať ho
+v podobe nerozdeleného zisku. (Soukupová, Šlosárová, Baštincová, 2004)
+Obrázok 3 Prenos zostatkov výsledkových účtov
+
+Zdroj: Džupinka, Sochuľáková (2016)
+
+Obrázok 4 Prenos zostatkov súvahových účtov
+
+Zdroj: Džupinka, Sochuľáková (2016)
+
+24
+
+1.6 Ukazovatele nákladov, výnosov a výsledku hospodárenia
+Ukazovateľov, vďaka ktorým môžeme sledovať a analyzovať náklady, výnosy
+a následne aj výsledok hospodárenia podniku je viacero. My sme sa rozhodli v našej
+bakalárskej práci využiť okrem vertikálnej a horizontálnej analýzy aj niekoľko
+finančných (pomerových) ukazovateľov, z ktorých sme sa rozhodli pre ukazovatele
+likvidity, ukazovatele aktivity, ukazovatele zadlženosti, ukazovatele rentability
+a ukazovatele nákladovosti.
+Vertikálna analýza sa používa, ak je potrebné analyzovať štruktúru konkrétnej
+veličiny a jej výsledkom je vyjadrenie veľkostného vzťahu tejto veličiny k celkovej
+veličine. Predstavuje teda vyjadrenie podielu časti na celku.
+Horizontálna analýza predstavuje možnosť hodnotiť a analyzovať, ako sa
+ukazovatele vyvíjajú v čase. (Kotulič, Király, Rajčániová, 2010)
+Finančné ukazovatele sú ukazovatele, pomocou ktorých vie účtovná jednotka
+charakterizovať úspešnosť, resp. neúspešnosť v konkrétnych oblastiach jej finančnej
+situácie. (Zalai a kol., 2007)
+Likvidita je finančný ukazovateľ, ktorý poukazuje na to, či je účtovná jednotka
+schopná načas plniť svoje záväzky. Je teda logické, že úspešná účtovná jednotka je
+schopná platiť svoje vzniknuté záväzky načas, čo neraz v pozitívnom svetle ovplyvňuje
+jej meno. Na túto platobnú schopnosť má vplyv predovšetkým sústavný prílev peňazí
+do účtovnej jednotky a zloženie jej majetku. Zloženie majetku vplýva v tom zmysle, že
+konkrétne zložky majetku majú rôznorodú likvidnosť, ktorá predstavuje tempo ich
+premeny na peňažné prostriedky. Podľa toho je možné majetok deliť na najlikvidnejší
+(krátkodobý finančný majetok), majetok realizovateľný v krátkom čase (krátkodobé
+pohľadávky), menej likvidný (zásoby), dlhodobo likvidný (dlhodobé pohľadávky)
+a nelikvidný (dlhodobý hmotný majetok). (Zalai a kol., 2010)
+Sú známe tri úrovne likvidity, ktoré sa odlišujú intenzitou speňažiteľnosti
+konkrétnych zložiek krátkodobého majetku. Likvidita I. stupňa alebo tiež pohotová
+likvidita dáva do pomeru krátkodobý finančný majetok a krátkodobé záväzky.
+Nevyžaduje sa, aby boli krátkodobé záväzky v celom rozsahu pokryté krátkodobým
+finančným majetkom, pretože tieto záväzky budú splatné chronologicky v priebehu
+účtovného obdobia, počas ktorého vie účtovná jednotka získať peniaze aj z iných
+položiek krátkodobého majetku. Je to nepraktické a neefektívne aj z dôvodu, že peňažné
+prostriedky v takejto forme prinášajú účtovnej jednotke minimálne výnosy, preto sa
+25
+
+pri tomto type likvidity uvádza ako najprijateľnejší interval 0,2 – 0,6. Bežná likvidita
+alebo inak povedané likvidita II. stupňa je v čitateli doplnená o krátkodobé pohľadávky.
+To znamená, že berie do úvahy aj tie peniaze, ktoré účtovná jednotka získa po úhrade
+týchto pohľadávok, preto si musí dôsledne preveriť, či budú uhradené načas. Odporúča
+sa interval 1 – 1,5. Likvidita III. stupňa alebo celková likvidita dáva do pomeru celý
+krátkodobý majetok účtovej jednotky a krátkodobé záväzky. Odporúča sa interval 2 – 2,5.
+(Sochuľáková, 2018)
+Ukazovatele aktivity vypovedajú o tom, s akou účinnosťou a efektívnosťou
+účtovná jednotka hospodári so svojim majetkom. Ak ho má účtovná jednotka viac, ako
+potrebuje, dochádza k navyšovaniu nákladov, ak ho má zas účtovná jednotka málo, môže
+nastať situácia, že účtovná jednotka príde o časť prípadných tržieb. (Zalai a kol., 2013)
+Doba obratu zásob vypovedá o počte dní, v priebehu ktorých sa zásoby viažu
+v podnikateľskej činnosti, do okamihu ich predaja alebo spotreby. Doba obratu
+pohľadávok z obchodného styku vypovedá o priemernom počte dní, počas ktorých musí
+účtovná jednotka čakať, kým jej odberatelia uhradia vzniknuté pohľadávky. Naproti tomu
+ukazovateľ doba obratu záväzkov z obchodného styku vypovedá o priemernom počte dní,
+počas ktorých zas účtovná jednotka musí uhradiť svoje vzniknuté záväzky dodávateľom.
+Ukazovateľ obrat stálych aktív, resp. obrat aktív hovorí o tom, koľko vyprodukuje euro
+aktív účtovnej jednotky eur tržieb. (Sochuľáková, 2018)
+Ukazovatele zadlženosti vypovedajú o zložení finančných zdrojov účtovnej
+jednotky. Na finančnú stabilnosť účtovnej jednotky vplýva podiel cudzieho a vlastného
+kapitálu, a to tak, že ak je podiel vlastného kapitálu na celkovom kapitáli nízky, účtovná
+jednotka môže byť nestabilná, neistá, v prípade vysokého podielu je zas účtovná jednotka
+finančne stabilná a nezávislá. (Zalai a kol., 2007)
+Ukazovateľ celková zadlženosť vypovedá o miere využitia cudzieho kapitálu
+v spojitosti
+
+s celkovým
+
+kapitálom
+
+samofinancovania zas dáva
+
+účtovnej
+
+jednotky.
+
+Ukazovateľ
+
+koeficient
+
+do spojitosti mieru využitia vlastného kapitálu oproti
+
+celkovému kapitálu. Ich súčet musí vo výsledku dávať 100 %, pričom ak prekročí celková
+zadlženosť hranicu 80 % a koeficient samofinancovania klesne pod 20 % je na tom
+podnik z hľadiska zadlženosti veľmi zle. Ukazovateľ úverová zadlženosť vypovedá
+o tom, v akom objeme využíva účtovná jednotka bankové úvery, ukazovateľ úrokové
+krytie hovorí, či je účtovná jednotka schopná platiť cenu cudzích zdrojov a ukazovateľ
+tokové zadlženie hovorí o dobe, ktorú účtovná jednotka potrebuje na úhradu svojich
+záväzkov. (Sochuľáková, 2018)
+26
+
+Ukazovatele rentability vypovedajú o celkovej efektivite, úspešnosti a výnosnosti
+podnikovej činnosti. Tieto ukazovatele v podstate predstavujú zhrnutie predošlých
+ukazovateľov, a to likvidity, aktivity a zadlženosti a poukazujú na súhrnný výsledok
+podnikateľskej snahy. (Zalai a kol., 2013)
+Rentabilita celkového kapitálu hovorí o tom, aká je výnosnosť celkového kapitálu,
+ktorý bol vložený v účtovnom období do podnikateľskej aktivity, teda koľko dokázal
+z eura kapitálu získať eur zisku. Obdobným spôsobom môžeme vyjadriť rentabilitu
+vlastného kapitálu, rentabilitu základného imania, rentabilitu tržieb, rentabilitu výnosov
+a rentabilitu aktív. (Sochuľáková, 2018)
+Ukazovatele nákladovosti vyjadrujú ako efektívne sa náklady v podniku
+využívajú. Ukazovateľ celkovej nákladovosti poukazuje na to, koľko nákladov bolo
+vynaložených na dosiahnutie jedného eura výnosov a logicky teda vyplýva, že výsledok
+je tým lepší, čím je nižšia jeho hodnota. (Sochuľáková, 2018)
+Ukazovatele trhovej hodnoty prehlbujú analýzu podnikateľskej činnosti o náhľad
+investorov, ktorí posudzujú účtovnú jednotku na základe dosiahnutých výsledkov
+a prípadných výsledkov dosahovaných v budúcnosti. (Zalai a kol., 2007)
+Čistý zisk na akciu je ukazovateľ, ktorý vypovedá o hospodárskom výsledku,
+ktorý pripadá na jednu akciu. Vzťah kurzu a zisku vypovedá o tom, koľko sú ochotní
+investori uhradiť za menovú jednotku vykazovaného zisku. Ďalším ukazovateľom je
+výnosnosť akcie, ktorá má byť v súlade s rizikom. Ďalším je pomer trhovej ceny a cash
+flow, ktorý vypovedá o tom, koľko sú ochotní investori uhradiť za menovú jednotku
+vykazovaného cash flow. Dividendový výnos vypovedá o veľkosti dividendy, ktorá
+pripadá na akciu. (Sochuľáková, 2018)
+
+27
+
+2 CIEĽ ZÁVEREČNEJ PRÁCE, METODIKA
+
+Hlavným cieľom bakalárskej práce bolo navrhnúť opatrenia a odporúčania
+na zlepšenie finančnej a ekonomickej situácie podniku.
+Medzi čiastkové ciele bakalárskej práce sme si stanovali:
+ teoreticky popísať náklady, výnosy a výsledok hospodárenia,
+ teoreticky popísať členenie a účtovanie nákladov a výnosov,
+ teoreticky popísať metódy záverečnej práce, t. j. vertikálnu a horizontálnu analýzu
+a finančné ukazovatele,
+ prostredníctvom verejne dostupnej účtovnej závierky spoločnosti zanalyzovať
+a zhodnotiť náklady, výnosy a výsledok hospodárenia analyzovanej spoločnosti
+Nord Svit,s. r. o., t. j. ich finančnú situáciu za obdobie 2016, 2017, 2018.
+
+V bakalárskej práci sme na splnenie cieľov využili vertikálnu a horizontálnu
+analýzu a niekoľko nami vybraných, najviac využívaných finančných ukazovateľov.
+Vertikálne a horizontálne sme analyzovali majetok, zdroje krytia majetku,
+náklady, výnosy a výsledok hospodárenia.
+V nami naštudovanej literatúre sme zaznamenali viacero finančných, resp.
+pomerových ukazovateľov. Vybrali sme niekoľko, podľa nás ukazovateľov, na základe
+ktorých vieme najlepšie zhodnotiť finančnú a ekonomickú situáciu podniku.
+Ako prvé sme sa pozreli na výpočet a následnú analýzu pohotovej, bežnej
+a celkovej likvidity. Likvidita je finančný ukazovateľ, ktorý poukazuje na to, či je účtovná
+jednotka schopná načas plniť svoje záväzky. Je teda logické, že úspešná účtovná jednotka
+je schopná platiť svoje vzniknuté záväzky načas, čo neraz v pozitívnom svetle ovplyvňuje
+jej meno.
+Sú známe tri úrovne likvidity, ktoré sa odlišujú intenzitou speňažiteľnosti
+konkrétnych zložiek krátkodobého majetku. Likvidita I. stupňa alebo tiež pohotová
+likvidita dáva do pomeru krátkodobý finančný majetok a krátkodobé záväzky. Bežná
+likvidita alebo inak povedané likvidita II. stupňa je v čitateli doplnená o krátkodobé
+pohľadávky. Likvidita III. stupňa alebo celková likvidita dáva do pomeru celý krátkodobý
+majetok účtovej jednotky a krátkodobé záväzky.
+Ukazovatele aktivity vypovedajú o tom, s akou účinnosťou a efektívnosťou
+účtovná jednotka hospodári so svojim majetkom. Ak ho má účtovná jednotka viac, ako
+28
+
+potrebuje, dochádza k navyšovaniu nákladov, ak ho má zas účtovná jednotka málo, môže
+nastať situácia, že účtovná jednotka príde o časť prípadných tržieb. Z ukazovateľov
+aktivity sme sa zamerali na dva ukazovatele, a to
+
+na ukazovateľ doba obratu (inkasa)
+
+pohľadávok z obchodného styku a ukazovateľ doba obratu (úhrady) záväzkov
+z obchodného styku.
+Ďalej sme sa venovali analýze ukazovateľa celkovej zadlženosti, koeficientu
+samofinancovania a úverovej zadlženosti, ktoré patri medzi ukazovatele zadlženosti.
+Ukazovatele zadlženosti vypovedajú o zložení finančných zdrojov účtovnej jednotky.
+Ukazovateľ celková zadlženosť vypovedá o miere využitia cudzieho kapitálu v spojitosti
+s celkovým kapitálom účtovnej jednotky. Ukazovateľ koeficient samofinancovania zas
+dáva do spojitosti mieru využitia vlastného kapitálu oproti celkovému kapitálu. Ich súčet
+musí vo výsledku dávať 100 %, pričom ak prekročí celková zadlženosť hranicu 80 %
+a koeficient samofinancovania klesne pod 20 % je na tom podnik z hľadiska zadlženosti
+veľmi zle. Ukazovateľ úverová zadlženosť vypovedá
+Ukazovatele rentability vypovedajú o celkovej efektivite, úspešnosti a výnosnosti
+podnikovej činnosti. Tieto ukazovatele v podstate predstavujú zhrnutie predošlých
+ukazovateľov, a to likvidity, aktivity a zadlženosti a poukazujú na súhrnný výsledok
+podnikateľskej snahy. Z ukazovateľov rentability sme sa rozhodli pre výpočet a analýzu
+ukazovateľa rentability vlastného kapitálu, rentability výnosov a rentability aktív.
+Nakoniec sme sa pozreli aj na vývoj ukazovateľa celkovej nákladovosti,
+materiálovú a energetickú náročnosť, nákladovosť predaného tovaru a nákladovosť
+služieb patriace medzi ukazovatele nákladovosti. Ukazovatele nákladovosti vyjadrujú ako
+efektívne sa náklady v podniku využívajú. Ukazovateľ celkovej nákladovosti poukazuje
+na to, koľko nákladov bolo vynaložených na dosiahnutie jedného eura výnosov a logicky
+teda vyplýva, že výsledok je tým lepší, čím je nižšia jeho hodnota.
+
+29
+
+3
+
+ANALÝZA
+
+NÁKLADOV,
+
+VÝNOSOV
+
+A VÝSLEDKU
+
+HOSPODÁRENIA SPOLOČNOSTI NORD SVIT, s. r . o.
+
+V tretej kapitole sme sa venovali už konkrétnej vertikálnej a horizontálnej analýze
+nákladov, výnosov a výsledku hospodárenia spoločnosti Nord Svit, s. r. o. Tiež sme sa
+venovali analýze majetku a zdrojov krytia majetku a výpočtu a analýze finančných, resp.
+pomerových ukazovateľov, aby sme tak získali komplexný obraz o finančnej situácii tejto
+spoločnosti.
+
+3.1 Charakteristika spoločnosti Nord Svit, s. r. o.
+
+Mäsokombinát Nord Svit je spoločnosť s ručením obmedzeným so sídlom
+vo Svite. Konateľmi spoločnosti sú Ing. Mikuláš Bobák, CSc. a Ing. Ľubomír Kozubík.
+Bola založená v roku 1954 a počas svojej existencie sa úspešne rozvíjala a dnes
+zamestnáva vyše 150 zamestnancov.
+Zaoberá sa výrobou a spracovaním mäsa a mäsových výrobkov a ich následným
+predajom obchodným reťazcom, ako sú napr. Kaufland, Tesco, Coop Jednota, Metro
+a pod., maloobchodom a podnikom, ktoré zabezpečujú stravovacie služby. Ročne vyrobí
+až 5 000 ton hovädzieho, bravčového mäsa a mäsových výrobkov.
+Mäsokombinát sa snaží o udržanie stabilných a korektných vzťahov so svojimi
+zamestnancami, odberateľmi, dodávateľmi, finančnými a inými subjektmi. Medzi
+hlavných dodávateľov, ktorí pre podnik zabezpečujú suroviny, polotovary, rozličný
+materiál, stroje a zariadenia patria aj zahraničné firmy, a to predovšetkým z Poľska,
+Čiech a Belgicka, napr. spoločnosť Comeco Belgicko. Zakladá si na bezpečnosti a kvalite
+vyrábaných produktov, tiež na bezpečnosti a spĺňaní predpisov v procesoch výroby.
+Spoločnosť patrí na slovenskom trhu medzi stredných spracovateľov a dodávateľov mäsa
+a mäsových výrobkov.
+
+30
+
+Má ambície stať sa spoločnosťou s najvyššou kvalitou ponúkaných výrobkov,
+docieliť čo najväčšiu predajnosť a významnosť podniku na slovenskom trhu. Tiež sa chce
+upriamiť na rast pracovných miest, zvyšovanie kvalifikácie a celkovo na zlepšenie
+sociálnej oblasti týkajúcej sa zamestnancov.
+
+3.1.1 Vertikálna a horizontálna analýza majetku a zdrojov krytia majetku
+V tejto podkapitole sme sa pomocou poznatkov získaných z teoretickej časti
+venovali vertikálnej a horizontálnej analýze. Najskôr sme posudzovali vývoj majetku
+a vývoj zdrojov krytia majetku. Ďalej sme analyzovali vývoj nákladov, výnosov
+a na konci sme analyzovali vývoj výsledku hospodárenia spoločnosti Nord Svit, s. r. o.
+Cieľom bolo analyzovať okrem nákladov a výnosov a ich vplyvu na hospodársky
+výsledok aj ostatné oblasti a získať tak komplexný pohľad na finančnú situáciu
+spoločnosti.
+Suma celkového majetku bola najvyššia v roku 2017, kedy jej hodnota
+predstavovala 7 159 570 eur. Oproti roku 2016 suma celkového majetku narástla
+o 2 457 656 eur, t. j. 52,27 %. V roku 2018 hodnota celkového majetku oproti roku 2017
+poklesla o 565 985 eur, t. j. o 7,91 %.
+Hodnota neobežného majetku bola najvyššia v roku 2017, kedy predstavovala
+4 339 230 eur. Oproti roku 2016 hodnota neobežného majetku vzrástla o 1 313 729 eur,
+t. j. o 43, 42 %. V roku 2018 hodnota neobežného majetku poklesla oproti roku 2017
+o 333 443 eur, t. j. o 7,68 %.
+Aj hodnota obežného majetku bola najvyššia v roku 2017, kedy činila sumu
+2 815 993 eur. Oproti roku 2016 hodnota obežného majetku vzrástla o 1 142 737 eur, t. j.
+o 68,29 %. V roku 2018 hodnota obežného majetku mierne poklesla oproti roku 2017
+o 249 213 eur, t. j. o 8,85 %.
+Časové rozlíšenie aktív malo v sledovanom období rastúcu tendenciu. Od roku
+2016 do roku 2018 vzrástlo časové rozlíšenie aktív o 17 861 eur, t. j. 565, 76 %. (viď
+príloha A, tabuľka 2)
+V každom roku analyzovaného obdobia prevyšovali cudzie zdroje krytia majetku
+nad vlastnými zdrojmi krytia majetku, čo nemôžeme považovať za pozitívum.
+Ako pozitívum ale uvádzame fakt, že spoločnosť každým rokom investovala viac
+vlastného kapitálu, ktorý sa za analyzované obdobie zvýšil o 99 505 eur, čo predstavuje
+nárast o 6,74 %.
+31
+
+Záväzky, resp. cudzí kapitál bol najvyšší v roku 2017, kedy jeho hodnota
+predstavovala 4 675 297 eur. V tomto roku, teda v roku 2017 cudzí kapitál tvoril až
+65,30 % celkového kapitálu. Vlastný kapitál v roku 2017 tvoril iba 22,01 % celkového
+kapitálu. (viď príloha A, tabuľka 3)
+Graf 1 Znázornenie majetku a zdrojov krytia majetku
+
+Majetok a zdroje krytia majetku spoločnosti Nord Svit, s. r. o.
+8 000 000
+7 000 000
+6 000 000
+
+Eur
+
+5 000 000
+4 000 000
+3 000 000
+2 000 000
+1 000 000
+0
+2016
+
+Majetok spolu
+
+2017
+Rok
+Celkový kapitál
+
+2018
+
+Vlastný kapitál
+
+Záväzky
+
+Zdroj: vlastné spracovanie
+
+3.1.2
+
+Vertikálna
+
+a horizontálna
+
+analýza
+
+nákladov,
+
+výnosov
+
+a výsledku
+
+hospodárenia
+Hodnota celkových nákladov bola najväčšia v roku 2018, kedy predstavovala
+15 732 945 eur. Celkové náklady spoločnosti každoročne rástli. Od roku 2016 do roku
+2018 stúpli o 2 033 163 eur, t. j. o 14, 84 %.
+Objem nákladov na hospodársku činnosť v sledovanom období, t. j. od roku 2016
+do roku 2018 stúpol o 1 920 384 eur, čo predstavuje nárast o 14,04 %. Objem nákladov
+na finančnú činnosť v sledovanom období stúpol o 112 779 eur, čo predstavuje nárast
+o neuveriteľných 454,22 %.
+V roku 2018 vo väčšej miere prevyšovali náklady na hospodársku činnosť, ktoré
+predstavovali 15 595 337 eur, nad nákladmi na finančnú činnosť, ktoré predstavovali
+137 608 eur. Rozdiel medzi týmito nákladmi predstavuje 15 457 729 eur.
+
+32
+
+Najväčšiu položku z nákladov na hospodársku činnosť v roku 2018 predstavovala
+spotreba materiálu, energie a ostatných neskladovateľných dodávok, ktorá predstavovala
+6 111 338 eur. Táto nákladová položka každoročne rástla. Za sledované obdobie vzrástla
+o 1 821 531 eur, t. j. o 42,46 %.
+Najnižšiu položku z nákladov na hospodársku činnosť v roku 2018 predstavovala
+zostatková cena predaného dlhodobého majetku a predaného materiálu, ktorá činila
+14 917 eur, čo predstavuje pokles od roku 2016 o 63 955 eur, t. j. pokles o 81,09 %.
+Náklady vynaložené na obstaranie predaného tovaru, ktoré patria medzi náklady
+na hospodársku činnosť za analyzované obdobie klesli o 1 480 974 eur, t. j. o 27,05 %.
+Služby vzrástli o 484 171 eur, t. j. o 26,15 %. Osobné náklady taktiež vzrástli
+o 793 103 eur, t. j. o 51,10 %. Medzi osobné náklady patria mzdové náklady, náklady
+na sociálne poistenie a sociálne náklady. Všetky tieto náklady za analyzované obdobie
+vzrástli. Mzdové náklady vzrástli o 573 044 eur, t. j. o 51,35 %. Náklady na sociálne
+poistenie vzrástli o 206 360 eur, t. j. o 54,50 %. Sociálne náklady vzrástli o 13 699 eur,
+t. j. o 23,77 %.
+K nákladom na hospodársku činnosť patria aj dane a poplatky, ktoré mali taktiež
+každoročne rastúci charakter. Od roku 2016 do roku 2018 vzrástli o 12 259 eur, t. j.
+o 42,29 %. Ostatné náklady na hospodársku činnosť vzrástli o 6 517 eur, t. j. o 13,33 %.
+Najväčšiu položku z nákladov na finančnú činnosť v roku 2018 predstavovali
+nákladové úroky, ktorých hodnota v roku 2018 bola vo výške 121 837 eur. Hodnota
+nákladových úrokov od roku 2016 do roku 2018 stúpla, a to o 104 865 eur, t. j.
+617, 87 %.
+Najmenšiu položku z nákladov na finančnú činnosť v roku 2018 predstavovali
+kurzové straty, ktoré boli v hodnote 54 eur. Kurzové straty taktiež každoročne rástli.
+Za sledované obdobie vzrástli o 51 eur.
+Aj ostatné náklady na finančnú činnosť každoročne rástli. Od roku 2016 do roku
+2018 vzrástli o 7 863 eur, t. j. o 100,11 %. (viď príloha A, tabuľka 4)
+Celkové výnosy za analyzované obdobie každoročne rástli. Od roku 2016 do roku
+2018 vzrástli o 2 193 984 eur, teda o 16,19 %.
+Objem výnosov z hospodárskej činnosti stúpol o 2 193 988 eur, čo predstavuje
+nárast o 16,19 %. Objem výnosov z finančnej činnosti v roku 2016 predstavoval 4 eurá,
+v roku 2017 stúpol dvojnásobne na 8 eur a v roku 2018 už predstavoval hodnotu 0 eur.
+Z tohto vyplýva, že v roku 2018 predstavovali výnosy z hospodárskej činnosti hodnotu
+celkových výnosov, keďže hodnota výnosov z finančnej činnosti bola nulová.
+33
+
+Najväčšiu položku z výnosov z hospodárskej činnosti v roku 2018 predstavovali
+tržby z predaja vlastných výrobkov, ktorých hodnota v tomto roku bola 7 249 253 eur.
+Tržby z predaja vlastných výrobkov mali kolísavý charakter. V roku 2016 bola ich
+hodnota 6 247 548 eur. V roku 2017 vzrástli na hodnotu 7 627 060 eur, čo predstavuje
+nárast o 1 379 512 eur, t. j. nárast o 22,08 %. V roku 2018 ich hodnota mierne klesla, a to
+na hodnotu 7 249 253 eur, čo činí rozdiel 377 807 eur, t. j. pokles o 4,95 %.
+Najmenšiu položku z výnosov z hospodárskej činnosti v roku 2018 predstavovali
+zmeny stavu vnútroorganizačných zásob, ktoré predstavovali – 44 737 eur. Tieto výnosy
+mali taktiež kolísavý charakter. V roku 2016 bola ich hodnota – 2 873 eur. V roku 2017
+vzrástli na sumu 69 097, vzrástli o 71 970 eur. V roku 2018 ich hodnota rapídne klesla
+na hodnotu – 44 737 eur.
+Tržby z predaja tovaru za sledované obdobie klesli o 978 678 eur, t. j. o 14,48 %.
+Tržby z predaja služieb každoročne rástli. Od roku 2016 do roku 2018 vzrástli
+o 1 069 206 eur, t. j. o 1 969,33 %. Tržby z predaja dlhodobého nehmotného majetku,
+dlhodobého hmotného majetku a materiálu za analyzované obdobie vzrástli o 59 142 eur,
+t. j. o 77,77 %. Ostatné výnosy z hospodárskej činnosti taktiež každoročne rástli, celkovo
+vzrástli o 181 454 eur, t. j. o 184,32 %.
+Výnosy z finančnej činnosti v roku 2018 boli nulové. V roku 2017 boli v hodnote
+8 eur, z toho 1 euro predstavovali výnosové úroky a 7 eur predstavovali kurzové zisky.
+V roku 2016 mali výnosy z finančnej činnosti hodnotu 4 eurá, čo predstavovalo hodnotu
+výnosových úrokov. (viď príloha A, tabuľka 5)
+Spoločnosť Nord Svit, s. r. o. mala za posledné tri analyzované roky celkom
+zaujímavé výsledky hospodárenia. V roku 2016 bola v strate 114 493 eur. V roku 2017
+zaznamenala pozitívnu zmenu, kedy sa dostala do zisku 98 795 eur. Aj v roku 2018 bola
+firma v zisku, ktorý však oproti roku 2017 výrazne poklesol na hodnotu iba 710 eur. (viď
+príloha A, tabuľka 6)
+
+34
+
+Graf 2 Znázornenie nákladov a výnosov
+
+Náklady a výnosy spoločnosti Nord Svit, s. r. o.
+20 000 000
+
+Eur
+
+15 000 000
+10 000 000
+5 000 000
+0
+2016
+
+2017
+Rok
+
+Celkové náklady
+
+Celkové výnosy
+
+Náklady na hosp. činnosť
+
+Náklady na finančnú činnosť
+
+Výnosy z hosp. činnosti
+
+Výnosy z finančnej činnosti
+
+2018
+
+Zdroj: vlastné spracovanie
+
+Graf 3 Znázornenie výsledku hospodárenia
+
+Eur
+
+Výsledok hospodárenia spoločnosti Nord Svit, s. r. o.
+300 000
+250 000
+200 000
+150 000
+100 000
+50 000
+0
+-50 000
+-100 000
+-150 000
+-200 000
+
+2016
+
+2017
+
+Rok
+VH z hospodárskej činnosti
+VH z finančnej činnosti
+VH za účtovné obdobie pred zdanením
+VH za účtovné obdoie po zdanení
+
+Zdroj: vlastné spracovanie
+
+35
+
+2018
+
+3.2 Analýza finančných (pomerových) ukazovateľov
+V tejto podkapitole sme sa venovali analýze finančných (pomerových)
+ukazovateľov. Ako prvé sme sa pozreli na výpočet a následnú analýzu pohotovej, bežnej
+a celkovej likvidity. Z ukazovateľov aktivity sme sa zamerali na dva ukazovatele, a to
+na ukazovateľ doba obratu (inkasa) pohľadávok z obchodného styku a ukazovateľ doba
+obratu (úhrady) záväzkov z obchodného styku. Ďalej sme sa venovali analýze
+ukazovateľa celkovej zadlženosti, koeficientu samofinancovania a úverovej zadlženosti,
+ktoré patri medzi ukazovatele zadlženosti. Z ukazovateľov rentability sme sa rozhodli
+pre výpočet a analýzu ukazovateľa rentability vlastného kapitálu, rentability výnosov
+a rentability aktív. Nakoniec sme sa pozreli aj na vývoj ukazovateľa celkovej
+nákladovosti, materiálovú a energetickú náročnosť, nákladovosť predaného tovaru,
+nákladovosť služieb patriace medzi ukazovatele nákladovosti. Výsledky výpočtov nami
+zvolených finančných ukazovateľov sme znázornili v nasledujúcej tabuľke 1.
+Tabuľka 1 Analýza finančných (pomerových) ukazovateľov
+
+Zdroj: vlastné spracovanie
+
+36
+
+3.2.1 Analýza likvidity
+Pri pohotovej likvidite, nazývanej aj ako likvidita 1. stupňa sa odporúčané
+hodnoty pohybujú v intervale od 0,2 po 0,6. V tabuľke 1 vidíme, že pohotová likvidita sa
+v sledovanom období každoročne síce zvyšovala, čo považujeme za pozitívne, napriek
+tomu sa ani jeden rok pohotová likvidita nepribližovala odporúčaným hodnotám, čo
+svedčí o tom, že spoločnosť nebola schopná ani v jednom roku okamžite splatiť svoje
+záväzky. Pri bežnej likvidite, nazývanej aj ako likvidita 2. stupňa sa odporúčané hodnoty
+pohybujú v intervale od 1 po 1,5. Tieto hodnoty spoločnosť Nord Svit, s. r. o. dosiahla
+v roku 2017 a 2018. V roku 2017 hodnota bežnej likvidity bola 1,37. V roku 2018 klesla
+na hodnotu 1,22. To znamená, že v roku 2016 spoločnosť nebola schopná splatiť svoje
+záväzky v dlhšom časovom období. Pri celkovej likvidite, nazývanej aj ako likvidita
+3. stupňa sa odporúčané hodnoty pohybujú v intervale od 2 po 2,5. Podnik nedokázal ani
+v jednom roku pokryť svoje dlhy aktívami.
+Graf 4 Znázornenie zmien ukazovateľov likvidity
+
+Koeficient
+
+Ukazovatele likvidity spoločnosti Nord Svit, s. r. o.
+2
+1,8
+1,6
+1,4
+1,2
+1
+0,8
+0,6
+0,4
+0,2
+0
+2016
+
+Pohotová likvidita
+
+2017
+Rok
+Bežná likvidita
+
+2018
+
+Celková likvidita
+
+Zdroj: vlastné spracovanie
+
+3.2.2 Analýza aktivity
+V tejto podkapitole sme sa venovali dvom ukazovateľom aktivity. Prvým
+ukazovateľom aktivity, ktorý hovorí o platobnej disciplíne odberateľov, je doba obratu
+37
+
+(inkasa) pohľadávok z obchodného styku. Tabuľka 1 nám znázorňuje, že v roku 2017
+spoločnosť Nord Svit, s. r. o. čakala na úhradu svojich pohľadávok od odberateľov
+od momentu fakturácie po zrealizovanie inkasa 38 dní.
+Druhým ukazovateľov aktivity, ktorému sme sa venovali je doba obratu (úhrady)
+záväzkov z obchodného styku. Zatiaľ, čo prvý ukazovateľ aktivity nám vyjadroval
+platobnú disciplínu odberateľov voči spoločnosti, tento ukazovateľ aktivity vyjadruje
+platobnú disciplínu spoločnosti voči dodávateľom. Tabuľka 1 nám znázorňuje, že
+priemerná doba od vzniku záväzku spoločnosti až po jeho zaplatenie dodávateľom bola
+najvyššia v roku 2017, kedy táto doba predstavovala 30 dní.
+Výpočtom týchto dvoch ukazovateľov sme zistili, že spoločnosť Nord Svit,
+s. r. o. v roku 2018 bola schopná uhradiť svoje záväzky voči dodávateľom za 24 dní.
+Naopak, odberatelia spoločnosti Nord Svit, s. r. o. dokázali splatiť pohľadávky v roku
+2018 za 36 dní. Pre firmu nie je dobré, keď na úhradu svojich pohľadávok od odberateľov
+čaká dlhšie, pretože môže dôjsť k problémom s platobnou schopnosťou, k problémom
+s platením svojich záväzkov. Spoločnosť by si mala tieto dva ukazovatele sledovať
+a porovnávať, nakoľko vieme, že pohľadávky sú spojené s tržbami a záväzky sú spojené
+s nákladmi.
+Graf 5 Znázornenie zmien ukazovateľov aktivity
+
+Deň
+
+Ukazovatele aktivity spoločnosti Nord Svit, s. r. o.
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2016
+
+2017
+Rok
+
+Doba obratu (inkasa) pohľadávok z obchodného styku
+Doba obratu (úhrady) záväzkov z obchodného styku
+Zdroj: vlastné spracovanie
+
+38
+
+2018
+
+3.2.3 Analýza zadlženosti
+V tejto podkapitole sme sa zamerali na ukazovatele zadlženosti, konkrétne
+na ukazovateľ celkovej zadlženosti, ukazovateľ koeficientu samofinancovania
+a na ukazovateľ úverovej zadlženosti.
+Celková zadlženosť vyjadruje pomer cudzích zdrojov, t. j. cudzieho kapitálu
+k celkovým zdrojom podniku. Koeficient samofinancovania vyjadruje pomer vlastných
+zdrojov, t. j. vlastného kapitálu k celkovým zdrojom podniku. Samozrejme, lepší prípad
+nastane vtedy, keď spoločnosť má viac vlastného kapitálu, t. j. vlastných zdrojov. Ak má
+spoločnosť vysokú zadlženosť, teda viac cudzieho kapitálu ako vlastného kapitálu, môže
+to vypovedať o nestabilite, ale aj o riziku či už pre vlastníkov, ako aj veriteľov.
+Analýzou týchto dvoch ukazovateľov za sledované obdobie sme zistili, že najviac
+cudzieho kapitálu k celkovým zdrojom podniku dosahovala spoločnosť Nord Svit, s. r. o.
+v roku 2017, kedy cudzí kapitál predstavoval až 65,30 % celkového kapitálu spoločnosti.
+Vlastný kapitál, t. j. vlastné zdroje podniku v roku 2017 predstavovali iba 22 % celkového
+kapitálu spoločnosti.
+Úverová zadlženosť je ukazovateľ, ktorý vyjadruje mieru využívania bankových
+úverov a výpomocí na zabezpečenie financovania potrieb podniku, či už sú to krátkodobé
+alebo dlhodobé bankové úvery. Najväčšiu hodnotu tohto ukazovateľa sme zaznamenali
+v roku 2017. V roku 2017 spoločnosť využila na pokrytie financovania potrieb podniku
+bankové úvery, ktoré v tomto roku predstavovali 33,19 %.
+Príčinou nárastu tohto ukazovateľa môže byť nielen každoročný nárast
+dlhodobých bankových úverov, ale aj hodnota krátkodobých finančných výpomoci
+v roku 2017, ktoré v tomto roku predstavovali 1 250 000 eur. V roku 2016 spoločnosť
+Nord Svit, s. r. o. krátkodobé finančné výpomoci nevyužívala, ich hodnota teda bola
+nulová. V roku 2018 oproti roku 2017 hodnota krátkodobých finančných výpomoci
+predstavovala 551 000 eur, t. j. poklesla o 699 000 eur.
+
+39
+
+Graf 6 Znázornenie zmien ukazovateľov zadlženosti
+
+Ukazovatele zadlženosti spoločnosti Nord Svit, s. r. o.
+70
+60
+
+%
+
+50
+
+40
+30
+20
+10
+0
+2016
+
+Celková zadlženosť
+
+2017
+Rok
+
+2018
+
+Koeficient samofinancovania
+
+Úverová zadlženosť
+
+Zdroj: vlastné spracovanie
+
+3.2.4 Analýza rentability
+Pripomeňme si, že v roku 2016 bola analyzovaná spoločnosť v strate, preto je
+analýza rentability v tomto roku bezpredmetná. Ukazovatele rentability sme rátali len
+v roku 2017 a 2018, pretože v týchto rokoch spoločnosť dosahovala zisk.
+Výpočtom sme zistili, že v roku 2017 predstavovala rentabilita vlastného kapitálu
+6,27 %. V roku 2018 predstavovala iba 0,05 %, ako vidíme v tabuľke 1. To znamená, že
+v roku 2017 bol vlastný kapitál zhodnotený o 6,27 % a v roku 2018 iba o 0,05 %. Hoci
+v roku 2018 spoločnosť investovala najviac kapitálu, rentabilita vlastného kapitálu bola
+v tomto roku najnižšia. Je to zapríčinené dosť výrazným poklesom hospodárskeho zisku.
+Pripomeňme si, že v roku 2017 dosahovala spoločnosť hospodársky zisk v sume
+98 795 eur a v roku 2018 dosahovala hospodársky zisk len v sume 710 eur.
+Pri analýze rentability výnosov sme zistili veľmi nízku úroveň predovšetkým
+v roku 2018, kedy z jedného eura výnosov spoločnosť dosahovala ani nie jeden cent
+zisku, čo je tiež následkom veľmi nízkeho výsledku hospodárenia. V roku 2017 z jedného
+eura výnosov spoločnosť dosahovala 0,70 eur zisku.
+Aj pri analýze rentability aktív sme zaznamenali fakt, že spoločnosť svoj majetok
+využívala neefektívne. V roku 2017 spoločnosť dosiahla 1,38 eur zisku s využitím svojho
+majetku, t. j. 1,38 eur zisku pripadalo na euro majetku. V roku 2018 rentabilita majetku
+40
+
+bola úplne neefektívna. Jej hodnota v tomto roku predstavovala 0 %. To znamená, že
+spoločnosť v roku 2018 dosiahla 0 eur zisku s využitím svojho majetku.
+Dôvodom nízkej rentability spoločnosti Nord Svit, s. r. o. je veľmi nízka úroveň
+výsledku hospodárenia.
+Graf 7 Znázornenie zmien ukazovateľov rentability
+
+Ukazovatele rentability spoločnosti Nord Svit, s. r. o.
+7,00
+6,00
+
+%
+
+5,00
+4,00
+3,00
+
+2,00
+1,00
+0,00
+2017
+
+2018
+Rok
+
+Rentabilita vlastného kapitálu
+
+Rentabilita výnosov
+
+Rentabilita aktív
+
+Zdroj: vlastné spracovanie
+
+3.2.5 Analýza nákladovosti
+V tejto podkapitole sme sa venovali analýze ukazovateľa celkovej nákladovosti,
+ktorý hovorí o tom, koľko nákladov bolo vynaložených na dosiahnutie jedného eura
+výnosov. Ďalej sme analyzovali aj niektoré vybrané čiastkové ukazovatele nákladovosti,
+analyzovali sme náklady, ktoré tvorili najväčšiu časť celkových nákladov.
+V tabuľke 1 vidíme, že v roku 2016 bolo vynaložených 1,01 eur nákladov
+na dosiahnutie jedného eura výnosov. V roku 2017 a v roku 2018 bolo vynaložených
+0,99 eur nákladov na dosiahnutie jedného eura výnosov. Rozdiel síce nie je veľký, ale
+čím je hodnota nižšia, tým je to lepšie.
+Ukazovateľ materiálová a energetická nákladovosť hovorí o tom, že v roku 2016
+bolo vynaložených 0,32 eur nákladov na dosiahnutie jedného eura výnosov. V roku 2017
+bolo vynaložených 0,40 eur nákladov na dosiahnutie jedného eura výnosov a v roku 2018
+firma vynaložila 0,39 eur nákladov na dosiahnutie jedného eura výnosov. Z toho vyplýva,
+41
+
+že ukazovateľ mal kolísavý charakter a najlepšiu hodnotu z analyzovaných rokov
+dosiahol v roku 2016.
+Nákladovosť predaného tovaru zas vypovedá o tom, že v roku 2016 bolo
+vynaložených 0,40 eur nákladov na dosiahnutie jedného eura výnosov. V roku 2017 bolo
+vynaložených 0,25 eur nákladov na dosiahnutie jedného eura výnosov a v roku 2018 bolo
+zas vynaložených 0,26 eur nákladov na dosiahnutie jedného eura výnosov. Z toho
+vyplýva, že aj tento ukazovateľ mal kolísavý charakter a najlepšiu hodnotu
+z analyzovaných rokov dosiahol v roku 2017.
+Zamerali sme sa aj na nákladovosť služieb, ktorá hovorí o tom, že v roku 2016
+bolo vynaložených 0,14 eur nákladov na dosiahnutie jedného eura výnosov. V roku 2017
+a v roku 2018 bolo vynaložených 0,15 eur nákladov na dosiahnutie jedného eura
+výnosov. Pri tomto ukazovateľovi hodnoty neboli až tak kolísavé, boli skoro rovnaké
+po celé sledované obdobie. Najlepšia hodnota ukazovateľa bola v roku 2016.
+Graf 8 Znázornenie zmeny ukazovateľa celkovej nákladovosti
+
+Ukazovatele nákladovosti spoločnosti Nord Svit, s. r. o.
+1,2
+1
+
+Eur
+
+0,8
+0,6
+0,4
+0,2
+0
+
+2016
+
+2017
+Rok
+
+2018
+
+Ukazovateľ celkovej nákladovosti
+
+Materiálová a energetická náročnosť
+
+Nákladovosť predaného tovaru
+
+Nákladovosť služieb
+
+Zdroj: vlastné spracovanie
+
+42
+
+4
+
+ODPORÚČANIA NA ZLEPŠENIE FINANČNEJ SITUÁCIE
+
+PODNIKU
+
+V našej bakalárskej práci s názvom Náklady a výnosy a ich vplyv na hospodársky
+výsledok podniku sme sa pre analýzu nákladov, výnosov a výsledku hospodárenia
+spoločnosti Nord Svit, s. r. o. rozhodli využiť viacero ukazovateľov, cez vertikálnu
+a horizontálnu analýzu až po finančné, resp. pomerové ukazovatele. Z analýzy
+spoločnosti Nord Svit, s. r. o. sme vydedukovali, že v niektorých ukazovateľoch
+dosahovala primerané hodnoty, v iných ukazovateľoch bohužiaľ jej hodnoty neboli
+dostatočné.
+Pripomeňme si, že naša analyzovaná spoločnosť Nord Svit, s. r. o. mala kolísavý
+hospodársky výsledok. V roku 2016 spoločnosť bola v strate 114 493 EUR. V roku 2017
+bola spoločnosť zisková. Jej hospodársky výsledok v roku 2017 predstavoval 98 795 eur.
+Aj v roku 2018 hospodársky výsledok predstavoval zisk, čo považujeme za veľmi
+pozitívne. Avšak zisk v roku 2018 výrazne klesol oproti roku 2017 a to na sumu 710 eur.
+Za sledované obdobie, t. j. od roku 2016 do roku 2018 výsledok hospodárenia vzrástol
+o 115 203 EUR, t. j. o 100,62 %, ako sme znázornili v prílohe A, tabuľke 6.
+Bolo pre nás zaujímavé zhodnotiť, čím mohli byť spôsobené výkyvy vo výsledku
+hospodárenia. Z účtovej závierky spoločnosti Nord Svit, s. r. o, ktorú sme znázornili
+v prílohe C, tabuľke 8 sme vyčítali niekoľko, podľa nás možných príčin.
+V rámci finančného posúdenia našej organizácie by sme na základe finančných
+výsledkov za posledné obdobie 3 rokov, ktoré boli výrazne odlišné, navrhovali vykonanie
+nezávislého posúdenia spoločnosti, a to formou finančného auditu. Takýto audit by
+nezávisle preveril finančné toky v spoločnosti. Preto odporúčame realizovať finančný
+audit, ktorý predstavuje nezávislé posúdenie finančných výkazov, posúdenie ich
+dôveryhodnosti a porovnanie s reálnou situáciou v podniku.
+Samozrejmosťou je, že výsledok hospodárenia sa odvíja od nákladov a výnosov
+spoločnosti. Celkové výnosy, t. j. výnosy z hospodárskej činnosti a výnosy z finančnej
+činnosti každoročne rástli, čo je pre každý podnik vynikajúca správa a za čo aj my
+analyzovanú spoločnosť chválime. Na druhej strane, aj celkové náklady, t. j. náklady
+z hospodárskej činnosti spolu s nákladmi z finančnej činnosti každoročne rástli, čo už ako
+pozitívum brať nemôžme, nakoľko pre dobrú hospodárnosť každého podniku je potrebné
+náklady znižovať. Uvedomujeme si, že naše odporúčanie nie je jednoduchou a ľahkou
+43
+
+záležitosťou, napriek tomu navrhujeme spoločnosti, aby sa snažila o dosahovanie čo
+najvyšších výnosov s využitím čo najnižších nákladov.
+Značnú časť nákladov tvorí spotreba materiálu a energie. Tu by sme spoločnosti
+odporučili zvážiť možnosť zmeny dodávateľov. Najviac nákupov bolo realizovaných od
+zahraničného dodávateľa, firmy Comeco Belgicko. Ďalšími dôležitými dodávateľmi sú
+firmy z Čiech a Poľska, preto odporúčame urobiť prieskum slovenských dodávateľov
+s porovnaním cien tak, aby bola dodržaná požadovaná kvalita.
+Čo sa týka nákladov v oblasti služieb, tu by sme mali pre spoločnosť tiež pár
+odporúčaní. Spoločnosť sa zaoberá výrobou a následnou prepravou mäsa a mäsových
+výrobkov odberateľom. S tým sú spojené náklady na opravy a udržiavanie strojov,
+zariadení a v neposlednom rade kamiónov, ktorými denne prevážajú výrobky svojim
+odberateľom. Podľa nás je preventívna pravidelná údržba lacnejšia ako neskoršia oprava,
+ktorá môže byť nákladná a spôsobiť značné oneskorenie v dodaní výrobkov. Tu by sme
+tiež odporúčali urobiť prieskum miestnych firiem, ktoré by danú údržbu realizovali. Čo
+sa týka áut, odporúčame firme preskúmať aj možnosti prípadného výhodnejšieho
+poistenia. V oblasti služieb by sme ďalej odporúčali aj využitie outsourcingu, čo by sme
+odporúčali hlavne pri upratovaní priestorov, pri vedení účtovníctva, v oblasti marketingu
+a logistiky. Outsourcing predstavuje prevedenie vnútropodnikových aktivít na externý
+subjekt. Tieto aktivity sa spravidla neviažu na hlavnú činnosť podniku. Outsourcing sa
+v poslednej dobe teší vo svete veľkej obľube. Značne znižuje náklady podniku, umožňuje
+presunutie niektorých aktivít na iný subjekt, a tým šetrí čas a energiu zamestnancov
+a vytvára priestor pre ďalší rozvoj firmy. Z tohto dôvodu odporúčame zváženie možnosti
+outsourcingu aj v našom analyzovanom podniku.
+Samozrejme, na trhu je neustála konkurencia a každý podnik sa snaží byť na trhu
+čo najlepší a najlákavejší pre svojich zákazníkov, resp. odberateľov. Je dôležité, aby
+spoločnosť vyrábala kvalitné výrobky a služby, správne a zodpovedne komunikovala
+so zákazníkmi, resp. odberateľmi. Odporúčame, aby propagovala svoje kvalitné výrobky
+a služby či už na domácom, ale aj zahraničnom trhu. Spokojní zákazníci ako aj kvalitný
+marketing sú zárukou prežitia každého podniku.
+V našej spoločnosti sa už využíva certifikát Food Safety System Certifikation
+22000:2010, ktorý zaručuje kvalitu a bezpečnosť výroby. Zaručuje nielen dodržiavanie
+zákonných požiadaviek, ale je tiež zárukou nadštandardnej úrovne. Spoločnosti by sme
+odporučili tiež využitie balíka noriem ISO 9000 a hlavne certifikovanie spoločnosti podľa
+normy ISO 9001:2015 Systém manažérstva kvality. Certifikát ISO 9001:2015 nám zaručí
+44
+
+neustále zlepšovanie stavu organizácie, popíše základné riadiace procesy a ich
+optimalizáciu z dôvodu zlepšovania kvality služieb alebo výrobkov so zameraním
+na spokojnosť zákazníka. Optimalizácia procesov sa teda dá dosiahnuť aj na základe ich
+kontroly alebo preverovania. Jedným z požiadaviek ISO 9001 sú napríklad interné
+a externé audity, každoročné preskúmavanie systému manažérstva kvality, stanovenie si
+vízií, stratégií predmetu organizácie a cieľov, prístup orientovaný na zákazníka, kde
+výsledkom je aj napr. nastavenie KPI – kľúčových ukazovateľov výkonnosti. Dôraz
+v rámci ISO 9001 sa kladie aj na spomínané audity, ktoré nám z jednej strany zaručia
+preverenie kritérií voči skutkovému stavu naprieč celou našou spoločnosťou, ale rovnako
+tak od nás vyžadujú preverenie našich dodávateľov, o ktorých by sme sa mali v čo
+najväčšej miere zaujímať, keďže spokojnosť našich zákazníkov do značnej miery
+ovplyvňujú vstupy práve od nich.
+V rámci systému manažérstva kvality vieme využívať aj rôzne nástroje alebo
+stratégie ako napr. Kaizen, ktorý sa v niektorých častiach sveta stal až filozofiou. Kaizen
+hovorí o neustálom zlepšovaní po krokoch, do ktorého je zapojený nielen manažment
+spoločnosti, ale aj všetci pracovníci naprieč celou organizáciou. Ďalšou vecou čo by nám
+priniesla optimalizáciu by mohlo byť implementovanie systému 5S, ktorý zaručí
+udržovanie organizovaného a čistého pracoviska. Jeho podstatou je odčleniť potrebné
+veci od nepotrebných, potrebné veci logicky umiestniť a nepretržite dodržiavať dôkladný
+poriadok, k čomu majú byť vedení tak samostatní pracovníci, ako aj pracovné tímy.
+Veľmi dôležité sú investície, či už do samotného majetku, ale v dnešnej dobe si
+dovolíme tvrdiť, že dôležitejšie sú investície do samotnej pracovnej sily. Nájsť v dnešnej
+dobe naozaj kvalitnú pracovnú silu je veľmi ťažké. V prípade, ak spoločnosť takúto
+kvalitnú a kvalifikovanú pracovnú silu nájde, musí vedieť si ju udržať. Nehovoríme tu
+len o dostačujúcom a spravodlivom systéme odmeňovania, ale aj o pochvale zamestnanca
+a čo je veľmi podstatné je aj možnosť kariérneho rastu. Šikovní a spokojní zamestnanci,
+ako sme už viac krát spomínali, sú zárukou kvality a úspechu každej spoločnosti. Preto si
+myslíme, že nie len odporúčania z toho finančno-ekonomického hľadiska sú dôležité, ale
+aj tie z pohľadu personálneho. Aj v tejto personálnej oblasti by sme odporučili využitie
+outsourcingu, napr. pri spracovaní personálnej agendy a miezd. Odporúčame využívať
+napr. pri nábore zamestnancov externé služby. Ďalším odporúčaním je zamestnávanie
+absolventov. Úrad práce znáša všetky náklady súvisiace s absolventskou praxou a navyše
+podnik si môže z mladých absolventov vypracovať skvelých budúcich zamestnancov.
+Ďalšou úsporou nákladov môže byť možnosť zamestnávania zamestnancov na základe
+45
+
+dohôd, a to na základe dohody o vykonaní práce, dohody o pracovnej činnosti alebo
+dohody o brigádnickej práci študentov. V porovnaní so zamestnaním zamestnanca
+na trvalý pracovný pomer je miera odvodového zaťaženia nižšia. V prípade zvýšenej
+potreby zamestnancov na určité obdobie odporúčame možnosť využitia personálnych
+agentúr.
+
+Výhodou
+
+personálnych
+
+agentúr
+
+je
+
+šetrenie
+
+nákladov
+
+vynaložených
+
+pri vyhľadávaní nových vhodných zamestnancov, ktorých zabezpečí agentúra v krátkom
+čase. Tiež šetrí náklady pri vyplácaní odstupného pri poklese výroby. Od týchto nákladov
+je podnik pri využívaní personálnych agentúr odbremenený. Navyše dohodnutá suma,
+ktorú platí podnik agentúre za prideleného zamestnanca nie je vyššia ako náklady spojené
+so zamestnancom na trvalý pracovný pomer.
+Okrem outsourcingu by sme chceli spomenúť aj možnosť využitia ďalšej
+možnosti, a tou je benchmarking. Jej podstatou je porovnávanie sa s najlepšími podnikmi
+v odvetví a odkrývanie vlastných nedostatkov v podnikaní. Spoločnosť Nord Svit, s. r. o.
+sa medzi slovenskými spracovateľmi mäsa odhadom zaraďuje približne na 10. miesto.
+Podnik si chce v budúcnosti túto pozíciu vylepšiť a upevniť svoje postavenie na trhu.
+Z tohto dôvodu by sme odporúčali inšpirovať sa silnejšími a úspešnejšími konkurentmi
+na trhu, porovnať ich manažment, marketing, výrobu a ostatné oblasti s oblasťami
+spoločnosti Nord Svit, s. r. o.
+Ako sme už viackrát spomínali, spoločnosť Nord Svit, s. r. o. bola na začiatku
+sledovaného obdobia stratová a nasledujúce dva analyzované roky hoci bola zisková,
+v roku 2018 oproti roku 2017 hospodársky zisk dosť výrazne klesol. Príčin môže byť
+viacero. Okrem každoročného nárastu celkových nákladov to môže byť napríklad aj fakt,
+že v roku 2017 využívala spoločnosť na financovanie potrieb zdrojov krytia majetku
+krátkodobé finančné výpomoci až vo výške 1 250 000 eur.
+Dôležitý, podľa nás je aj pomer vlastného kapitálu, t. j. vlastných zdrojov krytia
+majetku a cudzieho kapitálu, t. j. cudzích zdrojov krytia majetku. V našej bakalárskej
+práci sme zistili, že v každom roku prevyšovali cudzie zdroje, resp. záväzky nad vlastným
+kapitálom, čo znamená, že podnik nebol schopný kryť svoj majetok väčšou časťou práve
+svojimi vlastnými zdrojmi. Najviac cudzieho kapitálu z celkového kapitálu zdrojov krytia
+majetku dosahovala spoločnosť Nord Svit, s. r. o. v roku 2017, kedy jeho hodnota
+predstavovala 4 675 297 EUR, t. j. až 65,30 % celkových zdrojov krytia majetku. (viď
+príloha A, tabuľka 3) To znamená, že v roku 2017 spoločnosť využila na pokrytie
+financovania potrieb podniku až 65,30 % záväzkov, t. j. cudzích zdrojov. Naším
+odporúčaním je, hoci si sami uvedomujeme, že to nie je ľahké, aby sa spoločnosť snažila
+46
+
+záväzky znižovať, vlastný kapitál zvyšovať a taktiež, aby si spoločnosť sledovala pomer
+vlastných a cudzích zdrojov krytia majetku spoločnosti.
+Z účtovnej závierky spoločnosti Nord Svit, s. r. o. sme vyčítali aj to, že stav
+finančných účtov od roku 2016 do roku 2018 každoročne rástol, čo považujeme za veľmi
+pozitívne. Od roku 2016 do roku 2018 stav finančných účtov vzrástol o 64 969 EUR, t. j.
+151,47 %. (viď príloha A, tabuľka 2) Napriek tomu, ako sme vypočítali a následne aj
+znázornili v tabuľke 1, ani jeden rok sa pohotová likvidita nepribližovala odporúčaným
+hodnotám, čo svedčí o tom, že spoločnosť nebola schopná okamžite splatiť svoje
+krátkodobé záväzky. Dôvodom bol napriek každoročnému rastu finančných účtov,
+nedostatok peňazí, či už na bankových účtoch alebo v pokladnici. Ak sa spoločnosti
+podarí dosiahnuť vyššie tržby z akejkoľvek jej činnosti, odporúčame, aby si väčšiu časť
+finančných prostriedkov z tržieb uložila buď na spomínaný bankový účet alebo
+pokladnicu.
+Ďalej odporúčame, aby si spoločnosť sledovala výšku krátkodobých pohľadávok.
+V tabuľke 1 vidíme, že spoločnosť Nord Svit, s. r. o. v roku 2017 čakala na úhradu svojich
+pohľadávok od odberateľov 38 dní. Preto odporúčame, aby si spoločnosť výšku svojich
+krátkodobých pohľadávok sledovala, prípadne prehodnotila dobu splatnosti týchto
+pohľadávok. Ak sme už spomínali, pre spoločnosť nie je dobré, keď na úhradu svojich
+pohľadávok od odberateľov čaká dlhšie, pretože môže dôjsť k problémom s platobnou
+schopnosťou, napr. k problémom s platením svojich záväzkov.
+Spoločnosť Nord Svit, s. r. o. za analyzované obdobie troch rokov dosahovala
+v niektorých ukazovateľoch pozitívne, v niektorých ukazovateľoch menej pozitívne
+výsledky. Veríme, že spoločnosť Nord Svit, s. r. o. v nasledujúcich rokoch pôsobenia
+na trhu bude dosahovať čo najlepšie výsledky a čo najvyšší výsledok hospodárenia.
+
+47
+
+ZÁVER
+
+Cieľom bakalárskej práce je na základe analýzy nákladov, výnosov a finančných
+ukazovateľov podniku navrhnúť opatrenia a odporúčania na zlepšenie finančnej
+a ekonomickej situácie podniku.
+Náš cieľ sa nám podarilo splniť pomocou výpočtov a analýzy niekoľkých
+finančných ukazovateľov. Týchto ukazovateľov, vďaka ktorým možno sledovať vývoj
+finančnej situácie spoločnosti je mnoho, o čom sme sa presvedčili v literatúre, ktorú sme
+študovali. My sme sa rozhodli v našej bakalárskej práci použiť tie ukazovatele, ktoré sú
+podľa nás najviac využívané a dôležité a vďaka ktorým vieme najlepšie zhodnotiť
+finančnú situáciu spoločnosti.
+Je veľmi podstatné a dôležité, aby si spoločnosť sledovala vývoj svojej finančnej
+situácie a to práve analýzou spomínaných finančných ukazovateľov. Vďaka tomu
+spoločnosť dokáže sledovať či už rast alebo pokles konkrétnych ukazovateľov a v prípade
+poklesu týchto ukazovateľov má spoločnosť možnosť uvažovať o tom, ako tieto
+ukazovatele v budúcnosti zlepšiť, čo je samozrejme veľmi dôležité.
+Vertikálnou a horizontálnou analýzou sme zaznamenali každoročný nárast dvoch
+veľmi dôležitých činiteľov, akými sú celkové výnosy a celkové náklady. Každoročný
+nárast celkových výnosov považujeme za veľmi dobrú správu, za čo spoločnosť
+chválime. Na druhej strane aj celkové náklady každoročne rástli, čo už za dobrú správu
+považovať nemôžme, nakoľko vieme, že každá spoločnosť by sa mala snažiť a dosahovať
+čo najnižšie náklady. Hospodársky výsledok za analyzované obdobie, t. j. za tri roky bol
+zaujímavý. Najprv bola spoločnosť stratová a nasledujúce dva roky bola zisková, aj keď
+v roku 2018 sa hospodársky výsledok dosť výrazne znížil.
+Výpočtom likvidity, ktorá sa delí na pohotovú, bežnú a celkovú likviditu sme
+zistili, že spoločnosť ani v jednom roku nebola schopná okamžite splatiť svoje záväzky.
+Výpočtom bežnej likvidity sme zistili, že spoločnosť v roku 2016 nebola schopná splatiť
+svoje záväzky v dlhšom časovom období. Nakoniec, výpočtom celkovej likvidity sme
+zistili, že spoločnosť nedokázala ani v jednom roku pokryť svoje dlhy aktívami.
+Výpočtom finančných ukazovateľov sme zaznamenali aj fakt, že v každom roku
+v oveľa väčšej miere prevyšovali cudzie zdroje krytia nad vlastnými zdrojmi krytia.
+Rentabilita bola taktiež na nízkej úrovni, čo pripisujeme nízkej úrovni výsledku
+hospodárenia.
+
+48
+
+Výsledky niektorých ukazovateľov boli primerané, iné boli nedostačujúce.
+V niektorých ukazovateľoch sme zaznamenali nárast, aj keď nie veľký. Bohužiaľ,
+dovolíme si skonštatovať, že celkovo spoločnosť Nord Svit, s. r. o. za sledované obdobie
+dosahovala každým rokom horšie výsledky. V roku 2018 nebola stratová, za čo
+spoločnosť chválime, ale jej výsledok hospodárenia sa oproti roku 2017 dosť výrazne
+znížil. Veríme, že spoločnosť sa v budúcnosti bude venovať nie len samotnej analýze
+finančných ukazovateľov, ale aj ich zlepšovaniu, čo pomôže spoločnosti k jej prežitiu.
+V dnešnom svete je dôležitá aj konkurencia. Každá spoločnosť chce byť
+jednotkou na trhu. Kvalitné výrobky, ochotná spolupráca, výborná komunikácia, neustále
+inovácie a investície či už do výrobného procesu ale aj do samotných zamestnancov
+a spokojní zákazníci sú zárukou prežitia každej spoločnosti. Spoločnosť musí byť
+pripravená na zmeny, ktoré dennodenne nastávajú. Musí vedieť rýchlo reagovať
+v rôznych nečakaných situáciách. Myslíme si, že aj to všetko je potrebné k prežitiu každej
+spoločnosti.
+Veríme, že spoločnosti Nord Svit, s. r. o. sa v nasledujúcich rokoch bude čo
+najlepšie dariť v dosahovaní všetkých vyššie spomínaných situáciách. Taktiež veríme, že
+aj výsledky finančných ukazovateľov budú dosahovať každý rok čo najlepšie výsledky.
+Nami vyrátané výsledky finančných ukazovateľov, ako aj vertikálnu a horizontálnu
+analýzu sme spracovali na základe verejne dostupnej účtovnej závierky spoločnosti Nord
+Svit, s. r. o.
+
+49
+
+ZOZNAM POUŽITEJ LITERATÚRY
+
+Knihy
+ALEXY, J., 2005. Finančná a ekonomická analýza. 1. vydanie.m Bratislava : IRIS,
+2005. 124 s. ISBN 80-89018--90-4
+DŽUPINKA, M., SOCHUĽÁKOVÁ, J.
+
+2016. Základy podvojného účtovníctva.
+
+1. vydanie. Trenčín : Trenčianska univerzita Alexandra Dubčeka v Trenčíne, 2016.
+140 s. ISBN 978-80-8075-731-1
+IVANOVÁ, E. 2009. Ekonomická teória. Základy ekonómie. 3. vydanie. Trenčín :
+Trenčianska univerzita Alexandra Dubčeka v Trenčíne, 2009. 365 s. ISBN 978-80-8075421-1
+KOTULIČ, R., KIRÁLY, P., RAJČÁNIOVÁ, M. 2010. Finančná analýza podniku.
+2. vydanie. Bratislava : Iura Edition, 2010. 238 s. ISBN 978-80-8078-342-6
+MAJDÚCHOVÁ,
+
+H.,
+
+NEUMANNOVÁ,
+
+A.
+
+2008.
+
+Podnikové
+
+hospodárstvo
+
+pre manažérov. 1. vydanie. Bratislava : Iura Editon, 2008. 244 s. ISBN 978-80-8078200-9
+MANOVÁ, E., NIŽNÍKOVÁ, Z., FERANECOVÁ, A. 2016. Podvojné účtovníctvo
+podnikateľských subjektov: príprava na štátnu skúšku. 1. vydanie. Bratislava : Ekonóm,
+2016. 265 s. ISBN 978-80-225-4361-3
+MÁZIKOVÁ, K., MATEÁŠOVÁ, M., ONDRUŠOVÁ, L. 2019. Účtovníctvo
+podnikateľských subjektov I. 2. vydanie. Bratislava : Wolters Kluwer, 2019. 304 s. ISBN
+978-80-571-0010-2
+SKLENKA, M., ŠLOSÁROVÁ, A., HORNICKÁ, R., BLAHUŠIAKOVÁ, M. 2019.
+Účtovníctvo podnikateľských subjektov II. 2. vydanie. Bratislava : Wolters Kluwer, 2019.
+336 s. ISBN 978-80-571-0055-3
+SOCHUĽÁKOVÁ, J. 2018. Finančná a ekonomická analýza podniku. 1. vydanie.
+Trenčín : Trenčianska univerzita Alexandra Dubčeka v Trenčíne, 2018. 120 s.
+ISBN 978-80-8075-836-3
+SOUKUPOVÁ, B., ŠLOSÁROVÁ, A., BAŠTINCOVÁ, A. 2004. Účtovníctvo.
+2. vydanie. Bratislava : Iura Edition, 2004. 640 s. ISBN 80-8078-020-X
+50
+
+ŠLOSÁROVÁ, A. a kol. 2016. Účtovníctvo. 2. vydanie. Bratislava : Wolters Kluwer,
+2016. 296 s. ISBN 978-80-8168-444-9
+VLACHYNSKÝ, K. a kol. 2009. Podnikové financie. 1. vydanie. Bratislava : Iura
+Edition, 2009. 524 s. ISBN 978-80-8078-258-0
+ZALAI, K. a kol. 2007. Finančno-ekonomická analýza podniku. 5. vydanie. Bratislava:
+Sprint vfra, 2007. 358 s. ISBN 978-80-89085-74-3
+ZALAI, K. a kol. 2010. Finančno-ekonomická analýza podniku. 7. vydanie. Bratislava:
+Sprint 2, 2010. 446 s. ISBN 978-80-89393-15-2
+ZALAI, K. a kol. 2013. Finančno-ekonomická analýza podniku. 8. vydanie. Bratislava:
+Sprint 2, 2013. 471 s. ISBN 978-80-89393-80-0
+
+Elektronické dokumenty
+Účtovná závierka spoločnosti Nord Svit, s. r. o. za obdobie 2016, 2017, 2018
+www.nord-sk.eu
+
+51
+
+ZOZNAM PRÍLOH
+Príloha A Tabuľky vertikálnej a horizontálnej analýzy
+Príloha B Vzorce pre výpočet finančných ukazovateľov
+Príloha C Účtovná závierka spoločnosti NORD SVIT, s. r. o.
+
+

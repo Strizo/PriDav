@@ -1,0 +1,2740 @@
+VYSOKÁ ŠKOLA BEZPEČNOSTNÉHO MANAŽÉRSTVA
+V KOŠICIACH
+
+BRANNÁ PRÍPRAVA OBYVATEĽOV AKO ZÁKLADNÝ
+PRVOK OBRANY ŠTÁTU
+
+Diplomová práca
+
+2024
+Bc. Miloš MRAŽIK
+
+VYSOKÁ ŠKOLA BEZPEČNOSTNÉHO MANAŽÉRSTVA
+V KOŠICIACH
+
+BRANNÁ PRÍPRAVA OBYVATEĽOV AKO ZÁKLADNÝ
+PRVOK OBRANY ŠTÁTU
+
+DIPLOMOVÁ PRÁCA
+
+Študijný program:
+
+Riadenie bezpečnostných systémov
+
+Študijný odbor:
+
+9205 Bezpečnostné vedy
+
+Pracovisko:
+Vedúci diplomovej práce:
+
+Košice 2024
+Bc. Miloš MRAŽIK
+
+Ústav humanitných a technologických vied
+
+prof. RNDr. František Olejník, CSc., DBA
+
+Poďakovanie
+Moje poďakovanie patrí môjmu školiteľovi, prof. RNDr. Františkovi Olejníkovi,
+CSc., DBA za odborné vedenie, trpezlivosť a ochotu, ktorú mi venoval v priebehu
+spracovania diplomovej práce.
+
+Abstrakt
+Bc. Miloš Mražik: Branná príprava obyvateľov ako základný prvok obrany štátu.
+[Diplomová práca].Vysoká škola bezpečnostného manažérstva v Košiciach. Vedúci:
+prof. RNDr. František Olejník, CSc., DBA. Stupeň odbornej kvalifikácie: Inžinier v
+študijnom programe Riadenie bezpečnostných systémov. VŠBM v Košiciach, 2024. 72
+s.
+Diplomová práca obsahuje vypracovanie problematiky brannej prípravy obyvateľstva
+ako základného prvku obrany štátu. Úvodná časť je zameraná na teoretické spracovanie
+sledovanej problematiky, kde sa definujú kľúčové pojmy a teoretické rámce. Jadro
+práce tvorí analýza súčasného stavu obrannej prípravy a civilnej ochrany na Slovensku,
+vrátane legislatívy a medzinárodnej spolupráce, ako aj identifikácia hlavných
+bezpečnostných výziev. V závere práce je zhodnotenie výsledkov a prínosov výskumu,
+spolu s návrhmi na zlepšenie obrannej prípravy a zvyšovanie celkovej bezpečnosti štátu.
+Kľúčové slová: branná príprava, obranný systém, legislatíva, bezpečnostné výzvy,
+medzinárodná spolupráca, kybernetická bezpečnosť, Slovenská republika
+
+Abstract
+Bc. Miloš Mražik: Defence training of the population as an essential element of
+national defence. [Diploma thesis]. The University of Security Management in Košice.
+Supervisor: prof. RNDr. František Olejník, CSc., DBA . Degree of qualification:
+Engineer in the study programme Management of Security Systems. The USM in
+Košice, 2024. 72 pgs.
+The diploma thesis contains the elaboration of the issue of the conscription training of
+the population as a basic element of the state defence. The introductory part is focused
+on the theoretical treatment of the studied issue, where the key concepts and theoretical
+frameworks are defined. The core of the thesis is an analysis of the current state of
+defence training and civil protection in Slovakia, including legislation and international
+cooperation, as well as the identification of the main security challenges. The thesis
+concludes with an assessment of the results and contributions of the research, along
+with suggestions for improving defence training and enhancing the overall security of
+the state.
+Key words: defence training, defence system, legislation, security challenges,
+international cooperation, cyber security, Slovak Republic
+
+Obsah
+ÚVOD ............................................................................................................................... 7
+1 ZÁKLADNÉ POJMY A TEORETICKÉ RÁMCE BRANNEJ PRÍPRAVY ........ 8
+1.2
+
+Kľúčové pojmy .................................................................................................. 9
+
+1.3 História brannej prípravy a civilnej ochrany na Slovensku .................................... 9
+1.4 Základná vojenská služba jej prínosy a slabé stránky ........................................... 10
+1.5 Význam brannej prípravy ...................................................................................... 18
+2 LEGISLATÍVNY A NORMATÍVNY RÁMEC ..................................................... 20
+2.1 Ústavný zákon a zákony........................................................................................ 21
+2.2 Stratégie Slovenskej republiky .............................................................................. 25
+3 BEZPEČNOSŤ SLOVENSKEJ REPUBLIKY ...................................................... 28
+3.1 Bezpečnostné prostredie SR .................................................................................. 28
+3.2 Úlohy a zodpovednosť aktérov v spojitosti s brannou prípravou ......................... 29
+3.3 Ministerstvo obrany Slovenskej republiky............................................................ 31
+3.4 Ministerstvo vnútra Slovenskej republiky ............................................................ 36
+3.5 Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky ........... 38
+4 MOBILIZÁCIA ......................................................................................................... 43
+4.1 Cvičenia na posilnenie pripravenosti .................................................................... 44
+4.2 Priebeh prípadnej mobilizácie ............................................................................... 45
+4.3 Výzvy v spolupráci medzi civilnými a vojenskými štruktúrami počas
+mobilizácie.. ................................................................................................................ 49
+5 METODOLÓGIA ...................................................................................................... 52
+5.1 Ciele prieskumu .................................................................................................... 52
+5.2 Metóda prieskumu ................................................................................................. 52
+5.3 Charakteristika vzorky .......................................................................................... 52
+5.4 Organizácia prieskumu, zber a spracovanie dát .................................................... 53
+5.5 Vyhodnotenie dotazníkov ..................................................................................... 53
+5.6 Celkové vyhodnotenie ........................................................................................... 62
+5.7 Odporúčania pre prax ............................................................................................ 63
+ZÁVER .......................................................................................................................... 65
+ZOZNAM POUŽITEJ LITERATÚRY ...................................................................... 66
+PRÍLOHY ...................................................................................................................... 71
+
+ÚVOD
+V našej diplomovej práci sa venujeme komplexnej analýze brannej prípravy
+obyvateľstva ako základného prvku obrany štátu, s osobitným zameraním na Slovenskú
+republiku. Na začiatku sme si stanovili za cieľ preskúmať, ako historický vývoj,
+legislatíva a aktuálne bezpečnostné výzvy ovplyvňujú brannú prípravu a civilnú
+ochranu na Slovensku. Našou motiváciou je poskytnúť hlbší pohľad na obrannú politiku
+a strategické plánovanie v kontexte zvyšujúcich sa bezpečnostných hrozieb a výziev,
+ktorým Slovensko čelí.
+Pri spracovaní práce sa opierame o širokú škálu zdrojov, vrátane zákonných
+predpisov, strategických dokumentov, historických záznamov a odbornej literatúry.
+Analyzujeme legislatívny a normatívny rámec, ktorý formuje základy obrannej prípravy
+a civilnej ochrany, a zaoberáme sa medzinárodnými záväzkami Slovenskej republiky
+voči obrannej a bezpečnostnej politike. Súčasťou našej analýzy je aj revízia súčasného
+stavu bezpečnostnej situácie na Slovensku, pričom identifikujeme hlavné hrozby a
+výzvy, ktorým štát čelí.
+Na základe zhromaždených údajov a vykonaných analýz následne formulujeme
+odporúčania, ktoré by mohli prispieť k zlepšeniu obrannej prípravy a celkovej
+bezpečnosti Slovenskej republiky. V práci sa snažíme o komplexný pohľad na
+problematiku, pričom kombinujeme teoretické poznatky s praktickými príkladmi a
+prípadovými štúdiami, ktoré ilustrujú, ako sa teoretické koncepty a legislatíva aplikujú v
+reálnom kontexte.
+Zámerom našej diplomovej práce je nielen poskytnúť ucelený prehľad o brannej
+príprave na Slovensku, ale aj prispieť k širšej diskusii o dôležitosti obrannej prípravy
+obyvateľstva v súčasnom bezpečnostnom prostredí.
+
+7
+
+1
+
+ZÁKLADNÉ
+
+POJMY
+
+A
+
+TEORETICKÉ
+
+RÁMCE
+
+BRANNEJ PRÍPRAVY
+Všeobecne sa základné pojmy a teoretické rámce brannej prípravy týkajú
+vzdelávania a prípravy jedincov alebo skupín na obranu štátu, ochranu jeho
+obyvateľov a zabezpečenie jeho suverenity a bezpečnosti. V tomto kontexte sa
+môžeme zamerať na niekoľko kľúčových oblastí, ktoré formujú základy a teoretické
+pozadie brannej prípravy. Na začiatku tejto kapitoly sa zameriame na definovanie
+základných pojmov, ktoré dajú základy pre komplexné pochopenie obrany štátu, a
+rozvedieme tri hlavné koncepty:
+1. Branná príprava: Tento termín označuje širokospektrálny systém vzdelávania
+a tréningu zameraný na vybudovanie schopností a zručností nevyhnutných pre
+obranu štátu. Pod týmto pojmom rozumieme nielen fyzickú pripravenosť, ale
+aj teoretické poznatky o obrannej stratégii a taktike.
+2. Bezpečnostné prostredie: Predstavuje kontext, v ktorom sa odvíja branná
+príprava a zahŕňa škálu vnútorných a vonkajších hrozieb, s ktorými sa môže
+štát stretávať. Pojem zahrňuje analýzu aktuálnych bezpečnostných výziev a
+predpokladaných rizík.
+3. Obranná politika: Definuje súbor stratégií a zásad určujúcich, ako štát reaguje
+na identifikované hrozby a akým spôsobom organizuje svoju obranu. Obranná
+politika predstavuje rámec pre rozvoj a implementáciu obranných opatrení a
+stratégií.
+V dôsledku neustálych zmien v geopolitickom kontexte a bezpečnostnej situácii
+je nevyhnutné, aby boli teoretické rámce a základné pojmy brannej prípravy
+dynamické a pružné. Globálne udalosti, technologický pokrok a zmeny vojenských
+stratégií vyžadujú od týchto konceptov neustálu revíziu a aktualizáciu, aby adekvátne
+odrážali súčasné a budúce výzvy. Flexibilita a adaptabilita týchto teoretických
+základov umožňujú hlbšie pochopenie a efektívnejšiu reakciu na nové formy
+konfliktov a hrozieb. Z tohto dôvodu je nevyhnutné, aby vzdelávací proces a príprava
+v oblasti obrany zahŕňali kontinuálne vzdelávanie a výskum. Takto založená obranná
+politika a stratégie zabezpečujú, že obranné sily sú vždy pripravené čeliť výzvam
+súčasného a budúceho bezpečnostného prostredia.
+
+8
+
+1.2 Kľúčové pojmy
+V rámci našej práce sme vymedzili nasledujúce kľúčové termíny:
+•
+
+Obranná schopnosť: Označuje celkovú kapacitu štátu brániť sa proti rôznym
+hrozbám, využívajúc nielen vojenské sily, ale aj pripravenosť civilného
+obyvateľstva a odolnosť kritických infraštruktúr.
+
+•
+
+Vojenská príprava a výchova: Segment brannej prípravy zameraný na
+poskytovanie základných vojenských znalostí a výcviku, umožňujúci občanom
+pochopiť a podieľať sa na obranných úsiliach v prípade potreby.
+
+•
+
+Civilná ochrana: Súbor opatrení zameraných na ochranu obyvateľstva,
+majetku a infraštruktúry pred dopadmi ozbrojených konfliktov alebo iných
+krízových situácií, zahrňujúci prevenciu, pripravenosť a reakciu.
+Tento úvod nám poskytuje pevný základ pre hlbšie pochopenie a diskusiu o
+
+rôznych aspektoch brannej prípravy a jej kľúčových komponentoch.
+
+1.3 História brannej prípravy a civilnej ochrany na Slovensku
+Predtým, než sa pustíme do podstaty našej štúdie, je podstatné vysvetliť históriu
+a vývoj brannej prípravy, ako aj proces a dôležitosť povinnej vojenskej služby, ktorá
+bola neodmysliteľnou súčasťou histórie.
+História brannej prípravy a civilnej ochrany na Slovensku sa začala formovať v
+období po druhej svetovej vojne, keď bola krajina súčasťou Československa. V tomto
+období, výrazne ovplyvnenom studenou vojnou, sa obranná príprava a výchova
+obyvateľstva stali prioritami, odzrkadľujúc geopolitické napätie a potrebu obrany štátu
+pred vonkajšími hrozbami. Po februári 1948, v kontexte upevňovania komunistickej
+moci, došlo na Slovensku k podstatným zmenám v modeli brannej výchovy. Tieto
+zmeny boli reakciou na príchod nových vojenských technológií a zmenené
+spoločenské podmienky. Reformy, iniciované v druhej polovici 60. rokov 20. storočia
+Ústredným výborom komunistickej strany Československa, mali za cieľ modernizovať
+brannú prípravu a zabezpečiť, aby odrážala aktuálne potreby spoločnosti. V auguste
+1968 došlo k intervencii vojsk Varšavskej zmluvy na Slovensko, čo výrazne narušilo
+realizáciu plánovaných reforiem v oblasti brannej prípravy a výcviku. Tento zvrat
+udalostí mal za následok obmedzenie brannej prípravy a značne ovplyvnil obrannú
+politiku a spoločenskú angažovanosť v tejto oblasti.
+9
+
+Po páde komunistického režimu v roku 1989 a rozpade Československa v roku
+1993 začala Slovenská republika prechádzať transformačným procesom v mnohých
+oblastiach, vrátane obrannej politiky. V tomto období došlo k zrušeniu povinnej
+brannej prípravy, čo bolo výsledkom demokratizačných zmien a očakávania
+trvalejšieho mieru v Európe. Od 90. rokov 20. storočia sa Slovenská republika začala
+prispôsobovať novým bezpečnostným výzvam a integrovať do medzinárodných
+štruktúr, ako je Severoatlantická aliancia a Európska únia. Tento prechod zahŕňal
+prehodnotenie a aktualizáciu obranných spôsobilostí v reakcii na meniace sa
+bezpečnostné prostredie, kde hlavnú úlohu v obrane štátu prevzali špecifické obranné
+inštitúcie a profesionálna armáda.
+Pandémia COVID-19, ktorá vypukla na začiatku roka 2020, odhalila niektoré
+slabiny v existujúcom bezpečnostnom rámci a zdôraznila potrebu zvýšiť pripravenosť
+a zapojenie občanov do obranných snáh štátu, čo poukazuje na neustále sa meniace
+výzvy v oblasti národnej bezpečnosti a obrany.
+
+1.4 Základná vojenská služba jej prínosy a slabé stránky
+Základná vojenská služba prešla viacerými zmenami v dĺžke jej trvania,
+reflektujúcimi politické a sociálne zmeny v krajine. Pôvodný branný zákon z roku 1920
+stanovil prezenčnú službu na 14 mesiacov, ktorá sa počas 2. svetovej vojny predĺžila na
+24 mesiacov. Po vojne, nový branný zákon z konca 50. rokov 20. storočia ustanovil
+základnú službu na 24 mesiacov, ktorá bola neskôr upravená a postupne skracovaná až
+na deväť mesiacov v roku 2001 a napokon na šesť mesiacov v roku 2004.Napokon v
+roku 2006 bola celkom zrušená. (Chronológia vývoja priebehu vojenskej služby, 2005)
+V minulosti sa brancami a neskôr vojakmi stali všetci 17- roční muži. O rok neskôr
+boli predvolaní pred odvodovú komisiu v mieste trvalého pobytu, ktorá preskúmala ich
+zdravotný stav a posúdila schopnosť alebo dočasnú či trvalú neschopnosť výkonu
+vojenskej služby. Na výkon vojenskej služby nastupovali branci až po skončení štúdia
+na strednej, učňovskej, alebo vysokej škole. Upravené to bolo len prípade základnej
+služby žiakom vojenských stredných a vysokých škôl a študentom vzdelávacích a
+výcvikových zariadení ozbrojených síl. Skrátenú službu mali vysokoškoláci alebo
+branci zo sociálnych dôvodov, ktorý slúžili 5 mesiacov náhradnej služby. Okresné
+vojenské správy evidovali už v braneckom veku potenciálnych vojakov, na základe ich
+vzdelávania a rozhodovali o ich zaradení. Vo väčšine prípadov boli branci povolaní do
+
+10
+
+kasárni vzdialených ďaleko od domova. Napriek argumentom o potrebách armády,
+ozajstným dôvodom bol ten aby nedochádzalo k porušovaniu disciplíny vojakov
+napríklad útekmi.
+Po príchode k pridelenému vojenskému útvaru boli všetci podrobení zdravotnej
+prehliadke a vystrojení. Vojaci si museli začať zvykať na nové prostredie ktoré im bude
+na nesledujúce mesiace domovom. Denný poriadok musel byť striktne dodržiavaný a
+disciplína bola vyžadovaná za každých okolnosti od prvého momentu. Prvý mesiac bol
+zameraný na adaptáciu
+
+na vojenské prostredie. Získavali tiež základne vojenské
+
+zručnosti v oblasti poradovej, chemickej, taktickej a streleckej prípravy. Osobné voľno
+sa častokrát využívalo tiež na zdokonaľovanie vojenskej základnej prípravy a bolo
+prerušované nácvikmi a rôznymi bojovými poplachmi. Návštevné hodiny boli presne
+vyhradene v stanovený deň a čas avšak až po splnení úloh. Pre viacerých brancov to
+bolo najťažšie obdobie, aj vzhľadom na prítomne prvky šikanovania ktoré boli vo
+vojenskom živote bežne zo strany väčšinou dlhšie slúžiacich vojakov. O tomto
+probléme sa však verejne mlčalo.
+Po zložení vojenskej prísahy, ktorej text sa tiež menil od formovania štátu a režimu,
+sa z brancov stali právoplatní vojaci. Po tomto slávnostnom akte sa začal odborný
+výcvik. Každý príslušník mal svoje číslo vojenskej odbornosti ktoré presne určovalo
+miesto v jednotke a určené povinnosti či už bol vojak vodič strelec, prieskumník,
+tankista alebo letec. Odborný výcvik bol často tiež veľmi náročný. Za najviac náročný
+sa však považoval napríklad výcvik výsadkárov a prieskumníkov kde sa vyžadovala
+silná fyzická ale aj psychická pripravenosť. Časté cvičenia v teréne tvrda disciplína sa
+stali súčasťou bežného života každého vojaka a ich cieľom bolo zautomatizovanie
+svojich návykov ako aj vedieť splniť úlohy v rámci svojich funkcii v potrebných
+časových normách. Prioritou bolo vedieť včasne reagovať na danú hrozbu a adekvátne
+reagovať v rámci obrany štátu. Vzorné plnenie úloh bolo odmeňovane pochvalami celej
+jednotky alebo jednotlivcov. Vojak mohol byť odmenený napríklad aj povolením
+opustiť posádku na určitý čas a navštíviť tak svojich blízkych na, čo často nebolo
+uskutočniteľné zo strany vojaka vzhľadom vzdialenosť od domova. Porušenie disciplíny
+bolo veľmi prísne. Pri menších priestupkoch sa zakazovali vychádzky mimo útvar a boli
+navýšené služby. Pri hrubom porušení hrozilo vojakovi väzenie, čo malo za následok
+nadsluhovanie povinnej vojenskej služby. (Chronológia vývoja priebehu vojenskej
+služby, 2005)
+
+11
+
+Balík troch legislatívnych aktov - zákona o brannej povinnosti, zákona o
+alternatívnej službe počas vojny a vojnového stavu, a Ústavnej novely týkajúcej sa
+bezpečnosti štátu v období vojny a výnimočného stavu, ktorý vstúpil do platnosti v roku
+2006, znamenal prechod k profesionálnej armáde na Slovensku. Napriek tomuto
+prechodu sa branná povinnosť pre mužov udržala, pričom po dosiahnutí 19 rokov veku
+sú mladí muži zaregistrovaní v národnom registri. V prípade vojny alebo vyhlásenia
+vojnového stavu sú títo muži povinní absolvovať odvod a pristúpiť k výkonu
+mimoriadnej služby. Ak sú však v rozpore so svojím svedomím alebo náboženským
+presvedčením, majú možnosť vykonávať alternatívnu službu.
+Výhody a prínosy povinnej vojenskej služby sú kľúčovým aspektom na zvýšenie
+obrannej pripravenosti štátu. Povinná služba zabezpečuje, že v prípade vojenského
+konfliktu má štát k dispozícii dostatočný počet dobre vycvičených vojakov. Z toho
+vyplýva že, v akomkoľvek okamihu môže štát mobilizovať veľký počet jedincov, ktorí
+sú už oboznámení so základnými vojenskými zručnosťami a disciplínou. Umožňuje to
+rýchlu reakciu na hrozby bez potreby dlhodobého náboru a výcviku nových brancov.
+Ďalej zabezpečuje, že široká vrstva populácie prechádza základným vojenským
+výcvikom, čo vytvára základ pre rozsiahlejšie obranné schopnosti národa. Každý
+jedinec, ktorý prešiel službou, môže v núdzovej situácii poskytnúť pomoc a podporu s
+využitím svojich vojenských zručností. Umožňuje armáde neustále zdokonaľovať a
+aktualizovať výcvikové programy na základe súčasných vojenských potrieb a
+technológií. Týmto spôsobom sa udržuje vysoký štandard vojenských zručností a
+adaptabilita na meniace sa formy vojenského konfliktu. Okrem aktívne slúžiacich
+vojakov povinná služba vytvára rozsiahlu rezervu vycvičených jedincov, ktorí môžu
+byť v prípade potreby rýchlo mobilizovaní. Toto je neoceniteľné pre udržanie dlhodobej
+obrannej pripravenosti a flexibility štátu. Absolvovaním vojenského výcviku sa stavajú
+viac informovanými o obranných stratégiách a potrebách svojho štátu. Toto môže viesť
+k zvýšeniu národnej jednoty a odhodlania brániť krajinu, čo je nevyhnutný predpoklad
+pre účinnú obranu. Taktiež ma povinná vojenská služba silný sociálny a kultúrny
+význam, keďže podporuje pocit spolupatričnosti a hrdosti na národ. Vojenská služba
+prináša ľudí z rôznych sociálnych, ekonomických a etnických prostredí do spoločných
+situácií, kde musia spolupracovať na dosiahnutí spoločných cieľov. Tento zdieľaný
+zážitok môže pomôcť prekonať sociálne a ekonomické rozdiely a podporiť pocit
+národnej jednoty. Účastníci tak často získavajú hlbšie porozumenie a rešpekt voči
+12
+
+rôznorodosti svojej spoločnosti. Okrem toho, spoločné prekonávanie výziev a
+náročných situácií môže posilniť osobné väzby medzi vojakmi, čím sa vytvárajú silné
+sociálne siete, ktoré môžu pretrvať aj po skončení služby. Podstatným prínosom je tiež
+rozvoj osobných zručností. Vojenská služba je známa svojím dôrazom na disciplínu.
+Táto disciplína sa neobmedzuje len na dodržiavanie pravidiel a rozkazov, ale zahŕňa aj
+vnútornú disciplínu, ako je sebakontrola a schopnosť dodržiavať osobný režim a ciele.
+Vojaci sa učia, ako efektívne riadiť svoj čas, určovať priority úlohy a dosahovať vysokú
+úroveň osobnej organizácie. Tieto zručnosti sú potom prenositeľné do civilného života a
+kariéry. Pravidelný a intenzívny fyzický tréning zlepšuje celkovú fyzickú zdatnosť,
+vytrvalosť a silu. Tento zvýšený dôraz na fyzické zdravie môže viesť k lepšiemu
+zdraviu a životnému štýlu, ktorý môže mať dlhodobý pozitívny vplyv na kvalitu života.
+Ďalšiu príležitosť sa naskytuje v oblasti rozvoja a uplatnenie vedenia. Jednotlivci sa
+môžu učiť, ako efektívne viesť tímy, motivovať ľudí a prijímať zodpovednosť za
+výsledky. Tieto zručnosti vedenia sú vysoko cenené v mnohých profesionálnych
+kontextoch a môžu pomôcť jednotlivcom dosiahnuť úspech v ich kariérach. Tímová
+práca učí jednotlivcov pracovať spoločne s ostatnými, nezávisle od ich pozadia alebo
+názorov, na dosiahnutie spoločných cieľov. Rozvoj tejto schopnosti efektívnej tímovej
+práce je nesmierne cenný v každom aspekte života, keďže podporuje schopnosť
+budovať pozitívne vzťahy a účinne komunikovať. Riešenie náročných situácií rozvíja
+schopnosť adaptácie, kreatívneho myslenia a udržania si chladnej hlavy v kritickej
+situácii. Tieto zručnosti riešenia problémov sú dôležité nielen v osobnom, ale aj v
+profesionálnom živote. Prínos ktorý ma široký dosah na jednotlivca aj spoločnosť ako
+celok je zlepšenie bezpečnostného povedomia. Jednotlivcom poskytuje vedomosti a
+zručnosti, ktoré ich pripravujú na rozpoznanie a reakciu na bezpečnostné hrozby. To
+zahŕňa výcvik v oblasti prvej pomoci, krízového manažmentu, základov sebaobrany a
+používania obranných technológií. Vďaka tomu sú ľudia lepšie pripravení na rôzne
+núdzové situácie, či už ide o prírodné katastrofy, teroristické útoky alebo iné
+bezpečnostné incidenty. Pohľad na národné a medzinárodné bezpečnostné otázky,
+poskytuje hlbšie porozumenie príčin a dôsledkov konfliktov, ako aj významu mieru a
+stability. Môže tiež viesť k lepšiemu pochopeniu a podpore obranných politík a iniciatív
+zameraných na udržiavanie mieru. Zo zlepšeného bezpečnostného povedomia vyplýva
+aj zvýšená spoločenská zodpovednosť. Jednotlivci, ktorí majú väčšie pochopenie
+bezpečnostných otázok, sú viac motivovaní k účasti na civilnej ochrane a
+spoločenských
+
+bezpečnostných
+
+programoch.
+13
+
+Tým
+
+sa
+
+posilňuje
+
+kolektívna
+
+obranyschopnosť a zvyšuje sa ochota spolupracovať v prípade hrozby. Vo veľkej miere
+tiež prispieva vojenská služba k rozvoju kultúry prevencie, kde prevencia a
+pripravenosť na riziká sú vnímané ako dôležité aspekty každodenného života. Tento
+prístup môže viesť k vytváraniu lepších politík a praktík, ktoré zabezpečujú, že
+spoločnosť je lepšie pripravená a odolnejšia voči rôznym formám hrozieb. Posilnenie
+bezpečnostného povedomia môže tiež zlepšiť vzťahy medzi civilným obyvateľstvom a
+ozbrojenými silami. Keď majú občania lepšie pochopenie úloh a výziev, ktorým čelia
+vojenské sily, môže to viesť k väčšej verejnej podpore a rešpektu voči tým, ktorí slúžia.
+Jednou z hlavných nevýhod povinnej vojenskej služby ktorá vyvoláva značnú
+debatu o jej etických a sociálnych dôsledkoch je obmedzenie osobnej slobody. Povinná
+vojenská služba vyžaduje, aby občania v určitom období svojho života odložili osobné,
+profesionálne alebo vzdelávacie ciele na bok a slúžili svojmu štátu. Mladí ľudia sú často
+nútení prerušiť svoje štúdium alebo opustiť začínajúce kariéry, aby splnili svoje
+vojenské povinnosti. Toto prerušenie môže mať dlhodobý vplyv na ich profesijný vývoj
+a ekonomickú stabilitu. Vynútená účasť na vojenskej službe môže spôsobiť osobnú
+nevôľu a zvýšené hladiny stresu, najmä ak jedinci majú silné etické, náboženské alebo
+osobné dôvody proti vojenskej službe alebo vojenstvu vo všeobecnosti. Odklad
+dôležitých životných rozhodnutí, ako sú manželstvo, založenie rodiny, alebo kúpa
+domova, čo môže mať vplyv na životnú dráhu jedincov a spoločenskú štruktúru. Nútená
+vojenská služba môže niektorým jedincom spôsobiť psychologické ťažkosti, vrátane
+úzkosti, depresie alebo dokonca post traumatickej stresovej poruchy (ďalej len
+“PTSD“), v závislosti od ich skúseností počas služby. Keďže je vojenská služba
+povinná a nie dobrovoľná, môže to viesť k nižšej motivácii a angažovanosti medzi
+vojakmi, čo potenciálne znižuje účinnosť a morálku vojenských jednotiek.
+Ekonomické a sociálne náklady sú ďalšou významnou nevýhodou, ktorá môže
+mať rozsiahle a dlhotrvajúce dopady nielen na jednotlivcov, ale aj na celú spoločnosť.
+Odloženie dokončenia štúdia alebo začiatku práce znamená neskorší vstup do
+pracovného procesu, čo môže mať vplyv na celkové životné zárobky a profesijný rast
+jedincov. V čase vojenskej služby môžu jedinci prísť o možnosti získať vzdelanie alebo
+pracovné skúsenosti, ktoré sú kritické pre ich budúcu kariéru. To môže viesť k strate
+konkurencieschopnosti na trhu práce. Po návrate z vojenskej služby môžu byť potrebné
+dodatočné vzdelávanie alebo odborná príprava na dosiahnutie úrovne zručností, ktorá sa
+počas ich neprítomnosti v ich odbore vyvinula. V širšom meradle môžu ekonomické a
+14
+
+sociálne náklady povinnej vojenskej služby ovplyvniť celkovú produktivitu a rast
+ekonomiky. Odvádzanie veľkého počtu mladých pracovných síl do vojenskej služby
+môže dočasne znížiť dostupnosť kvalifikovanej pracovnej sily, čo môže brzdiť
+ekonomický rast a inovácie. Financovanie povinnej vojenskej služby si vyžaduje značné
+verejné prostriedky, ktoré by inak mohli byť investované do vzdelávania, zdravotníctva,
+alebo iných oblastí, ktoré priamo prispievajú k ekonomickému rozvoju. Okrem
+priameho vplyvu na ekonomiku existujú aj sociálne náklady spojené s rodinnými a
+spoločenskými rozkolmi, psychologickými účinkami vojenskej služby na jednotlivcov a
+potenciálnymi ťažkosťami s reintegráciou do civilného života. Ďalšou nevýhodou
+povinnej vojenskej služby, ktorá môže mať hlboké a dlhotrvajúce dopady na
+jednotlivcov, ktorí sa tejto službe podrobia je riziko zneužívania. Tento aspekt vyvoláva
+vážne obavy o blaho a bezpečnosť vojakov. Vojenské prostredie, charakterizované
+prísnou hierarchiou a disciplínou, môže niekedy vytvárať podmienky, v ktorých
+dochádza k šikanovaniu, zneužívaniu a zlému zaobchádzaniu. Tieto praktiky môžu
+zahŕňať fyzické týranie, psychické terorizovanie, sexuálne obťažovanie a iné formy
+nevhodného správania. Obete šikanovania a zneužívania môžu trpieť dlhodobými
+psychologickými problémami, ako sú depresia, úzkosť, PTSD, nízka sebaúcta a
+problémy s dôverou v ostatných. Vo vážnych prípadoch môže zneužívanie viesť k
+fyzickým zraneniam, ktoré môžu mať trvalé následky na zdravie a schopnosť
+vykonávať bežné činnosti. Skúsenosti so zneužívaním môžu ovplyvniť schopnosť obetí
+naviazať a udržať zdravé sociálne a pracovné vzťahy. Môže to tiež negatívne ovplyvniť
+ich kariérny vývoj a profesijné príležitosti. Zneužívanie vo vnútri vojenských jednotiek
+môže podkopávať morálku, jednotu a efektivitu tímu, čo znižuje celkovú bojovú
+pripravenosť a efektivitu. Na zníženie tohto rizika zneužívania vo vojenskom prostredí
+je potrebné prijať opatrenia. Jasné pravidlá proti šikanovaniu a zneužívaniu, spolu s
+dôrazným presadzovaním týchto pravidiel, môžu pomôcť vytvoriť kultúru rešpektu a
+dôstojnosti. Vzdelávanie vojakov a veliteľov o dôležitosti zdravých medziľudských
+vzťahov a dôsledkoch zneužívania môže pomôcť predchádzať nevhodnému správaniu.
+Zabezpečenie dostupnosti podporných služieb pre obete zneužívania, vrátane
+psychologického poradenstva a právnej pomoci, môže pomôcť zmierniť následky a
+poskytnúť cesty k zotaveniu. Kľúčová je taktiež potreba vytvorenia bezpečných a
+dôveryhodných kanálov pre vojakov, aby mohli nahlasovať prípady zneužívania bez
+obáv z odplaty, pre rýchlu a efektívnu reakciu .Môžeme teda konštatovať že riziko
+zneužívania v rámci povinnej vojenskej služby predstavuje vážny problém, ktorý
+15
+
+vyžaduje pozornosť a zásah zo strany vojenských a civilných autorít. Efektívne riešenie
+tohto problému je nevyhnutné pre ochranu jednotlivcov a udržanie integrity a
+efektívnosti obranných síl.
+Otázky efektívnosti sú kľúčovým argumentom v diskusii o nevýhodách povinnej
+vojenskej služby. Kritici poukazujú na viaceré aspekty, ktoré môžu spochybňovať
+efektívnosť povinnej služby v porovnaní s profesionálnymi ozbrojenými silami.
+Vojenský výcvik v rámci povinnej služby je často obmedzený časovo a môže
+nedostačovať na rozvoj hlbokých odborných znalostí a zručností, ktoré sú vyžadované v
+modernom vojenskom prostredí. Profesionálna armáda, na druhej strane, investuje viac
+času a zdrojov do detailného výcviku svojich príslušníkov. Povinná služba zahŕňa
+jedincov, ktorí do armády nastupujú kvôli zákonným požiadavkám, nie vlastnému
+rozhodnutiu alebo motivácii slúžiť. To môže viesť k nižšej vnútornej motivácii a
+angažovanosti v porovnaní s dobrovoľníkmi v profesionálnej armáde. Rýchlo sa
+meniace vojenské a bezpečnostné prostredie vyžaduje pružné a inovačne mysliace sily.
+Povinná služba môže mať obmedzenia v schopnosti prispôsobiť sa novým hrozbám a
+technológiám v porovnaní s profesionálnymi vojakmi, ktorí sú neustále v procese
+učenia a zdokonaľovania. Z pohľadu efektívnosti a pripravenosti môžeme teda povedať
+že, hoci povinná vojenská služba môže zvýšiť počet disponibilných vojakov, nie vždy
+znamená, že tieto sily sú okamžite pripravené na nasadenie v konfliktoch vysokej
+intenzity. Profesionálni vojaci sú neustále v tréningu a majú skúsenosti potrebné pre
+rýchlu a efektívnu reakciu. Udržiavanie veľkého počtu povinne slúžiacich vojakov si
+vyžaduje značné finančné a materiálne zdroje, ktoré mohli byť inak investované do
+modernizácie výzbroje a technológie alebo do rozvoja schopností profesionálnych síl.
+Vplyv na systémy, ktoré umožňujú výnimky alebo alternatívne formy služby, môžu
+viesť k vnímaniu nespravodlivosti a sociálneho rozdelenia, čím oslabujú argument o
+národnej jednote, ktorý je často citovaným prínosom povinnej služby.
+Pri hodnotení základnej vojenskej prípravy je dôležité zvážiť rovnováhu medzi jej
+prínosmi pre obrannú pripravenosť a národnú jednotu a potenciálnymi negatívnymi
+dopadmi na jednotlivcov a širšiu spoločnosť. Kľúčovými faktormi sú často kontext
+špecifický pre daný štát, aktuálne geopolitické napätie a technologický vývoj
+v obrannom sektore. Mnohé štáty sa preto snažia nájsť optimálny model, ktorý by
+zabezpečil potrebnú obrannú pripravenosť pri súčasnom minimalizovaní sociálnych a
+ekonomických nákladov, často prostredníctvom kombinácie povinnej a profesionálnej
+služby alebo zavedením dobrovoľných obranných programov. Rozhodnutia o
+16
+
+implementácii alebo zrušení povinnej vojenskej služby tak musia byť starostlivo
+zvážené, pričom je potrebné brať do úvahy široké spektrum faktorov.
+V kontexte Slovenskej republiky je dôležité nájsť rovnováhu medzi tradíciou
+povinnej vojenskej služby a potrebou adaptácie na moderné bezpečnostné výzvy.
+Členstvo Slovenskej republiky v Severoatlantickej aliancii (ďalej len „NATO“) a
+Európskej únii (ďalej len „EÚ“) predstavuje významný faktor, ktorý ovplyvňuje
+opodstatnenie a prístupy k povinnej vojenskej príprave v krajine. Tieto medzinárodné
+záväzky a spolupráce majú priamy vplyv na obrannú politiku Slovenska a jeho
+vojenské stratégie. Je dôležité zvážiť členstvo v NATO a Európskej únii EÚ pri
+hodnotení opodstatnenia a formy povinnej vojenskej prípravy. Toto členstvo nielenže
+zvyšuje bezpečnostné záruky Slovenska prostredníctvom kolektívnej obrany, ale tiež
+stanovuje určité očakávania v oblasti obranných kapacít a príspevkov k spoločným
+bezpečnostným cieľom. Ako člen NATO a EÚ, sa Slovensko zaväzuje k udržiavaniu a
+rozvoju potrebných obranných schopností, čo môže zahŕňať aj aspekty povinnej
+vojenskej prípravy, zamerané na zabezpečenie, že krajina dokáže efektívne prispieť k
+spoločným obranným snahám a reagovať na moderné bezpečnostné výzvy. Prechod na
+profesionálnu armádu a zrušenie povinnej vojenskej služby na Slovensku odzrkadľuje
+širší trend v rámci členských štátov NATO a EÚ, kde dôraz na kvalitu, odbornosť a
+vysokú úroveň výcviku prevyšuje potrebu veľkého počtu povinne slúžiacich vojakov.
+V tejto súvislosti Slovensko hľadá efektívne spôsoby, ako dosiahnuť optimálnu
+rovnováhu medzi plnením medzinárodných záväzkov a zabezpečením obrany s
+ohľadom na národné zdroje a potreby. Slovensko, ako súčasť svojho záväzku voči
+NATO a EÚ, musí neustále hodnotiť a prispôsobovať svoje obranné stratégie s cieľom
+zabezpečiť, že jeho ozbrojené sily (ďalej len „OS“) sú schopné efektívne
+spolupracovať
+
+s
+
+medzinárodnými
+
+partnermi,
+
+čeliť
+
+súčasným
+
+a
+
+budúcim
+
+bezpečnostným výzvam a prispievať k udržiavaniu mieru a stability v regióne a vo
+svete. Tento proces môže zahŕňať rôzne formy vojenskej prípravy a výchovy, ktoré sú
+v súlade s najlepšími praxami a štandardmi stanovenými v rámci týchto
+medzinárodných organizácií. Tento prístup umožňuje Slovenskej republike reagovať
+na dynamické medzinárodné bezpečnostné prostredie, zatiaľ čo zohľadňuje interné
+diskusie o najvhodnejšej forme vojenskej prípravy a služby.
+
+17
+
+1.5 Význam brannej prípravy
+Súčasná situácia, ktorá sa vyvinula v oblasti bezpečnosti, je charakteristická
+vysokou mierou neistoty. V súčasnej ére rýchleho vývoja technológií a komunikácií,
+národy čelia novým a komplexným hrozbám, ktoré sa šíria rýchlejšie ako kedykoľvek
+predtým. Sú v nej zahrnuté nielen tradičné vojenské konflikty, ale aj hrozby ako sú
+kybernetické útoky, terorizmus, klimatické zmeny, epidémie a ďalšie situácie, ktoré
+môžu ohroziť bezpečnosť a stabilitu spoločnosti. To všetko vyžaduje pripravenosť
+nielen bezpečnostných zložiek krajiny, ale do istej miery celého obyvateľstva
+Slovenskej republiky (ďalej len „SR“). Každý suverénny štát ako aj SR, sa snaží
+chrániť svoje záujmy medzi ktoré neodmysliteľne patrí aj ochrana jeho obyvateľstva.
+V tejto súvislosti sa branná príprava stáva kľúčovým prvkom ochrany obyvateľstva a
+národnej bezpečnosti. Občanom a spoločnosti ako celku to umožňuje prijať opatrenia
+na vlastnú ochranu, ochranu svojich rodín ako aj majetku v prípade krízových situácii.
+Množme takto konštatovať, že branná príprava neje len zodpovednosťou vlády a
+inštitúcii ale aj každého jednotlivca čiže obyvateľa štátu. Branná príprava obyvateľov
+SR predstavuje komplexný systém, ktorý je navrhnutý tak, aby posilňoval nielen
+obranné schopnosti štátu vo vojenskom zmysle, ale aj celkovú odolnosť spoločnosti
+voči širokému spektru hrozieb, vrátane prírodných katastrof a iných krízových situácií.
+Táto príprava je základným prvkom štátu, pretože integruje obranné a bezpečnostné
+aspekty s civilnou ochranou a zvyšuje schopnosť štátu a jeho občanov čeliť rôznym
+výzvam.
+Význam brannej prípravy možno rozčleniť do niekoľkých kľúčových oblastí. V
+rámci obrany štátu a územnej celistvosti je dôležitým prvkom vojenská pripravenosť.
+Vojenská príprava zabezpečuje, že Slovensko má dostatočné množstvo vycvičených
+jednotlivcov, ktorí môžu byť rýchlo mobilizovaní v prípade vonkajších hrozieb. Toto
+je obzvlášť dôležité pre malý štát v strategickom regióne Európy. Efektívna branná
+príprava pôsobí ako odstrašujúci faktor voči potenciálnym agresorom, keďže
+signalizuje schopnosť štátu brániť sa. Tento aspekt je obzvlášť dôležitý pre Slovensko
+ako člena NATO, kde je kolektívna obrana a vzájomná pomoc kľúčovými princípmi.
+V civilnom sektore branná príprava prechádza do širšej koncepcie civilnej ochrany a
+krízového manažmentu, ktorá zahŕňa pripravenosť na rôzne nevojenské núdzové
+situácie, ako sú prírodné katastrofy, technologické havárie, pandémie alebo
+teroristické útoky. Tento aspekt prípravy sa sústreďuje na vzdelávanie občanov o
+18
+
+postupoch v prípade kríz, vybudovanie efektívnych mechanizmov včasného varovania,
+ako aj na zabezpečenie koordinácie medzi rôznymi záchrannými a bezpečnostnými
+službami.
+Spoločenský a výchovný rozmer tvorí posilnenie spoločenskej súdržnosti a
+výchova k zodpovednosti. Spoločné úsilie v rámci brannej prípravy môže podporovať
+pocit národnej identity a jednoty, zvyšujúc tak spoločenskú súdržnosť. Branná
+príprava vychováva občanov k zodpovednosti za vlastnú bezpečnosť a bezpečnosť
+svojho spoločenstva, čím prispieva k vytváraniu zodpovednej a aktívnej občianskej
+spoločnosti.
+V neposlednom rade, branná príprava na Slovensku zahŕňa aj edukačné a
+osvetové aktivity zamerané na zvýšenie povedomia o bezpečnostných rizikách a o
+tom, ako sa proti ním brániť. Vzdelávanie v oblasti obrany a bezpečnosti, ako aj rozvoj
+kritického myslenia a schopnosti rozpoznať dezinformácie, sú neoddeliteľnou
+súčasťou celospoločenskej odolnosti.
+Branná príprava obyvateľstva má kľúčový význam nielen pre zabezpečenie
+obranyschopnosti štátu, ale aj pre zvyšovanie celkovej spoločenskej odolnosti a
+pripravenosti na rôzne druhy hrozieb. Tento integrovaný prístup umožňuje lepšie čeliť
+súčasným aj budúcim výzvam a zabezpečuje, že štát je schopný ochraňovať nielen
+svoje územie a obyvateľov pred vojenskými hrozbami, ale aj efektívne reagovať na
+nevojenské krízy a katastrofy, čím sa zvyšuje bezpečnosť a stabilita spoločnosti.
+
+19
+
+2 LEGISLATÍVNY A NORMATÍVNY RÁMEC
+Príprava obyvateľstva na obranu štátu vychádza z viacerých legislatívnych a
+strategických
+
+dokumentov,
+
+vrátane
+
+zákonov,
+
+strategických
+
+dokumentov
+
+a
+
+medzinárodných dohôd, ktoré spoločne vytvárajú právny a konceptuálny základ pre
+túto činnosť. Medzi hlavné patria:
+•
+
+Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky - Táto legislatíva
+stanovuje obranu ako komplexnú cieľovú oblasť na udržanie mieru, ochranu a
+zabezpečenie suverenity, teritoriálnej integrity a nezávislosti hraníc Slovenska.
+
+•
+
+Zákon č. 570/2005 Zákon o brannej povinnosti a o zmene a doplnení
+niektorých zákonov - Reguluje brannú povinnosť občanov, to znamená ich
+povinnosti a práva v súvislosti s obranou štátu.
+
+•
+
+Bezpečnostná stratégia Slovenskej republiky - Tento dokument identifikuje
+hlavné bezpečnostné hrozby a výzvy a stanovuje zásady a ciele bezpečnostnej
+politiky štátu.
+
+•
+
+Obranná stratégia Slovenskej republiky - Určuje základné prístupy k
+zabezpečovaniu obrany štátu, vymedzuje obranné ciele, princípy a priority.
+
+•
+
+Medzinárodné dohody a členstvo v NATO a EÚ - Slovenská republika ako člen
+NATO a EÚ sa zaväzuje dodržiavať pravidlá a zásady stanovené v týchto
+medzinárodných organizáciách, čo zahŕňa aj spoluprácu v oblasti obrany a
+bezpečnosti.
+V tejto časti sa venujeme preskúmaniu a analýze právnych predpisov, ktoré
+
+formujú rámec v špecifikovanej oblasti. Táto časť poskytne podrobnejší pohľad na
+široké
+
+spektrum
+
+normatívnych
+
+dokumentov
+
+vrátane
+
+zákonov,
+
+smerníc,
+
+medzinárodných dohôd a koncepcií, ktoré ovplyvňujú a riadia príslušnú tematiku na
+rôznych úrovniach - od národnej po medzinárodnú. Cieľom je identifikovať a popísať
+kľúčové právne dokumenty, ich obsah, účel a význam pre danú oblasť, ako aj
+vzájomné pôsobenie a doplnkovosť medzi nimi. Analýzou legislatívy a normatívnych
+dokumentov sa snažíme poskytnúť ucelený pohľad na právne prostredie, ktoré formuje
+a ovplyvňuje prax a politiky v danej oblasti, pričom kladieme dôraz na porozumenie
+aktuálnych právnych noriem a trendov v ich vývoji. Táto časť slúži ako základ pre
+hlbšie pochopenie právnych základov a povinností, ako aj pre identifikáciu príležitostí
+a výziev spojených s aplikáciou a interpretáciou týchto dokumentov v praxi.
+20
+
+2.1 Ústavný zákon a zákony
+Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového
+stavu, výnimočného stavu a núdzového stavu pojednáva o bezpečnosti štátu v čase
+vojny, vojnového stavu, výnimočného stavu a núdzového stavu. Primárnym zámerom
+tohto zákona je udržiavanie mieru a bezpečnosti na území Slovenskej republiky,
+zabezpečenie suverenity, ochrany teritoriálnej integrity, nedotknuteľnosti hraníc a
+podpory demokratických zásad. Legislatíva sa sústreďuje na obranné stratégie štátu,
+záruky života a zdravia obyvateľstva, ochranu základných práv a slobôd, majetku,
+environmentálnej
+
+bezpečnosti
+
+a
+
+dodržiavania
+
+povinností
+
+vyplývajúcich
+
+z
+
+medzinárodných bezpečnostných aliancií. Navyše definuje pravidlá pre vyhlásenie
+vojny, vojnového stavu, výnimočného alebo núdzového stavu. Dôležitou súčasťou
+zákona je úprava krízových situácií, kde sú definované opatrenia a povinnosti štátu,
+ako aj ozbrojených síl a ostatých zložiek v rámci obrany štátu. Rozlišuje rôzne typy
+stavov a určuje, kto a za akých okolností môže tieto stavy vyhlásiť, ako aj právomoci a
+obmedzenia, ktoré tieto stavy prinášajú. V čase vyhlásenia týchto stavov môže dôjsť k
+obmedzeniu základných práv a slobôd občanov, ako je sloboda pohybu, právo na
+súkromie, ale aj k povinnostiam, ako je pracovná povinnosť alebo povinnosť odovzdať
+zbrane. Tiež rieši organizáciu a pôsobenie bezpečnostných rád na rôznych úrovniach
+(národná, krajská, okresná) a ich úlohy pri zabezpečení obrany a bezpečnosti štátu.
+Tento Ústavný zákon sa týka širokej škály aktérov – od štátnych orgánov, cez
+ozbrojené sily, až po jednotlivých občanov, ktorí môžu byť povolaní k plneniu
+určitých povinností. Zahrňuje komplexné opatrenia pre prípad vojnového stavu, ale aj
+iných krízových situácií, s cieľom ochrániť štát a jeho občanov. (Ústavný zákon č.
+227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu, výnimočného stavu
+a núdzového stavu, 2002)
+Zákon č. 319/2002 Z. z o obrane Slovenskej republiky, stanovuje pravidlá
+týkajúce sa povinností a vzťahov v rámci národnej obrany. Definuje úlohy pre štátne
+inštitúcie, mestá, regionálne moci, ako aj pre právnické a fyzické osoby vrátane
+podnikateľov, v sfére prípravy na obranné opatrenia štátu a stanovuje sankcie za
+neplnenie týchto záväzkov. Obrana štátu je popísaná ako komplex opatrení
+zameraných na udržanie mieru, ochranu suverenity, teritoriálnej jednoty a ochranu
+
+21
+
+hraníc Slovenskej republiky proti potenciálnemu útoku. Kľúčová je tiež úloha
+kybernetickej bezpečnosti a opatrenia proti terorizmu.
+Hlavné pojmy zahŕňajú prípravu na obranu štátu, ktorá zahŕňa tvorbu a
+udržiavanie obranných kapacít štátu, prípravu ozbrojených síl, obrannú infraštruktúru,
+hospodársku mobilizáciu a prípravu obyvateľstva. Zákon tiež podrobne rieši riadenie
+obrany
+
+štátu,
+
+vrátane
+
+vyhodnocovania
+
+hrozieb,
+
+plánovania,
+
+organizovania,
+
+koordinácie, kontroly a vyhodnocovania plnenia opatrení v tejto oblasti. V čase vojny
+alebo vojnového stavu je zdôraznená potreba vytvorenia hlavného miesta riadenia
+obrany štátu.
+Tento zákon je komplexným právnym predpisom, ktorý zabezpečuje, aby
+Slovenská republika mala efektívne a koordinované opatrenia na ochranu svojej
+suverenity a bezpečnosti pred vnútornými aj vonkajšími hrozbami, pričom zdôrazňuje
+spoluprácu medzi štátnymi orgánmi, ozbrojenými silami a celou spoločnosťou. (Zákon
+č. 319/2002 Z. z. o obrane Slovenskej republiky)
+Zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a
+vojnového stavu. Tento zákon predstavuje právny rámec pre správu štátu počas
+krízových období, ktoré nie sú v čase vojny alebo v čase vojnového stavu. Stanovuje
+tiež, ako majú orgány verejnej správy postupovať pri príprave na krízové stavy. Okrem
+toho určuje právne nároky a záväzky pre fyzické osoby v týchto situáciách, zavádzanie
+trestov za neplnenie týchto záväzkov. Hlavnými pojmovými definíciami sú krízová
+situácia, ktorá znamená obdobie bezprostredne ohrozujúce bezpečnosť štátu. Ďalej sa
+zákon týka základných bezpečnostných záujmov štátu, ako sú zachovanie mieru,
+ochrana života, zdravia, majetku, a zabezpečenie funkčnosti hospodárstva a orgánov
+verejnej moci. Krízové riadenie na Slovensku je v kompetencii vlády, ministerstiev,
+Národnej banky Slovenska, okresných úradov, bezpečnostných rád na viacerých
+úrovniach, ako aj obcí a samosprávnych krajov. Každý z nich má špecifikované úlohy a
+pôsobnosť v rámci krízového riadenia. Zákon ďalej stanovuje povinnosti podnikateľov
+a právnických osôb v rámci civilného núdzového plánovania a využívania
+informačného systému krízového riadenia. Jeho dôležitosť a aplikácia v praxi sú
+nástrojom pre zabezpečenie ochrany a bezpečnosti štátu a jeho obyvateľstva v čase kríz,
+ktoré nepredstavujú vojnové situácie. (Zákon č. 387/2002 Z. z. o riadení štátu v
+krízových situáciách mimo času vojny a vojnového stavu)
+
+22
+
+Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých
+zákonov, je právnym predpisom Slovenskej republiky, ktorý upravuje problematiku
+súvisiacu s brannou povinnosťou občanov. Jeho hlavným cieľom je definícia a regulácia
+rozsah, ako aj výkon brannej povinnosti. a tiež zálohy ozbrojených síl. Týka sa mužov
+občanov Slovenskej republiky, ktorí dosiahli vek 19 rokov a majú trvalý pobyt na území
+Slovenskej republiky, ako aj tých, ktorí sa rozhodli dobrovoľne prevziať brannú
+povinnosť. Podrobne opisuje proces národnej registrácie, systém zberu, spracovania a
+uchovávania osobných údajov občanov za účelom zabezpečenia obrany a bezpečnosti
+štátu. Súčasťou brannej povinnosti je odvod. Predstavuje posúdenie zdravotného stavu
+registrovaných občanov na účely rozhodnutia o ich spôsobilosti vykonávať mimoriadnu
+službu alebo alternatívnu službu. Podstatnými pojmami tohto zákona sú taktiež
+mimoriadna služba, ktorá je vykonávaná v období krízovej situácie vojenskou službou a
+zálohy ozbrojených síl. Do záloh sú zaradení občania, ktorí skončili svoj služobný
+pomer, absolvovali dobrovoľnú vojenskú prípravu alebo vykonali mimoriadnu službu.
+Zákon tiež upravuje otázky týkajúce sa vzniku, výkonu a zániku brannej povinnosti,
+vrátane dôvodov pre oslobodenie od výkonu mimoriadnej služby a možnosti
+dobrovoľného prevzatia tejto povinnosti.
+Tento zákon je zásadným dokumentom pre udržiavanie obranyschopnosti štátu,
+pričom stanovuje práva a povinnosti občanov v súvislosti s brannou povinnosťou.
+Svojím obsahom a reguláciami sa dotýka širokej skupiny občanov a má priamy vplyv
+na organizáciu a fungovanie ozbrojených síl Slovenskej republiky. (Zákon č. 570/2005
+Z. z. o brannej povinnosti a o zmene a doplnení niektorých zákonov)
+Zákon č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu sa
+zaoberá alternatívnou službou v čase vojny a vojnového stavu na Slovensku. Tento
+zákon umožňuje tým občanom, ktorí z dôvodov svedomia alebo náboženského
+presvedčenia odmietnu vykonávať vojenskú službu, vykonávať alternatívnu službu v
+iných organizáciách a inštitúciách štátu. Organizácie, v ktorých môžu občania
+vykonávať túto službu, zahŕňajú štátne inštitúcie, územnú samosprávu, cirkev,
+náboženské spoločnosti a organizácie zaoberajúce sa obranou štátu alebo civilnou
+ochranou obyvateľstva. Zákon stanovuje podmienky pre povolanie občanov na
+alternatívnu službu, evidenciu a dokumentáciu registrovaných občanov, ako aj práva a
+povinnosti týchto občanov počas výkonu služby.
+
+23
+
+Dôležitými pojmami, ktoré sa v zákone vyskytujú, sú napríklad alternatívna
+služba, registrovaný občan, odopretie mimoriadnej služby, povolanie na alternatívnu
+službu a zásada rovnakého zaobchádzania bez diskriminácie. Cieľom tohto zákona je
+zabezpečiť, aby občania mohli vykonávať alternatívnu službu v súlade so svojím
+svedomím a náboženským presvedčením, pričom si zachovajú svoje práva. (Zákon č.
+569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu)
+Zákon č. 42/1994 Z. z. Národnej rady Slovenskej republiky o civilnej ochrane
+obyvateľstva, je právnym predpisom zameraným na efektívnu ochranu zdravia a
+majetku ľudí v prípade mimoriadnych situácií. Definuje kritériá a vytvára systém
+prevencie, reakcie na krízové situácie a opatrenia na obnovu po ich skončení. Civilná
+ochrana v rámci tohto zákona pokrýva identifikáciu potenciálnych hrozieb,
+implementáciu stratégií na minimalizáciu týchto rizík, vypracovanie postupov pre
+zvládanie a odstraňovanie dôsledkov mimoriadnych udalostí, ako aj organizáciu a
+vykonávanie evakuačných a záchranných operácií. Zákon stanovuje rozsah právomocí a
+zodpovednosti orgánov štátnej a miestnej správy, definuje úlohy pre samosprávy a obce
+a upravuje práva a povinnosti občanov a podnikov v rámci civilnej ochrany. Systém,
+ktorý tento zákon zavádza, zahrňuje plány na ochranu obyvateľstva, zabezpečenie
+nevyhnutných materiálnych a technických zdrojov, organizovanie a realizáciu
+evakuačných a záchranných činností a tiež edukáciu.
+Zákon ďalej zahŕňa pojmy akými sú mimoriadne situácie, zariadenia civilnej
+ochrany, financovanie civilnej ochrany, plán ochrany obyvateľstva, jednotky civilnej
+ochrany a materiál civilnej ochrany. Tieto pojmy sú kľúčové pre pochopenie rozsahu a
+mechanizmov fungovania systému civilnej ochrany v Slovenskej republike. (Zákon č.
+42/1994 Z. z. Národnej rady Slovenskej republiky o civilnej ochrane obyvateľstva)
+Zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona
+č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového
+stavu v znení neskorších predpisov. Vytvára právny základ pre ekonomickú
+mobilizáciu, a to ako v období prípravy na krízové situácie, tak aj počas nich.
+Ustanovuje úlohu účastníkov ekonomickej mobilizácie, právomoci ministerstiev a
+ostatných centrálnych štátnych orgánov, spolu s právami a zodpovednosťou
+právnických a fyzických osôb. Predpisuje kritériá pre získavanie kľúčových zásob
+nevyhnutných pre život obyvateľstva a operácie ozbrojených síl a ostatných
+bezpečnostných zložiek. Zahrnuté sú aj podrobnosti o zásobovaní vodou na obdobie
+24
+
+krízovej situácie a procesy týkajúce sa obstarávania a správy štátneho majetku určeného
+pre potreby hospodárskej mobilizácie. Ďalej upravuje porušenie povinností subjektov
+hospodárskej mobilizácie a sankcie za tieto porušenia, vrátane ukladania pokút.
+Podstatná časť zákona sa venuje aj prechodným a zrušovacím ustanoveniam, pričom
+zrušuje predchádzajúce predpisy týkajúce sa hospodárskej mobilizácie. Zásadný je
+hlavne pre riadenie štátu v krízových situáciách. Poskytuje rámec pre prípravu a reakciu
+na rôzne druhy krízových situácií z hospodárskeho hľadiska a zabezpečuje, aby bol štát
+ako aj hospodárstvo pripravené čeliť rozmanitým výzvam. (Zákon č. 179/2011 Z. z. o
+hospodárskej mobilizácii a o zmene a doplnení zákona č. 387/2002 Z. z. o riadení štátu
+v krízových situáciách mimo času vojny a vojnového stavu v znení neskorších
+predpisov)
+
+2.2 Stratégie Slovenskej republiky
+Bezpečnostná stratégia Slovenskej republiky 2021, je kľúčový strategický
+dokument zameraný na oblasť bezpečnosti štátu, ktorý sa opiera o Ústavu Slovenskej
+republiky, národnú legislatívu, ako aj na záväzky vyplývajúce zo spojenectiev a
+medzinárodných dohôd. Medzi tieto záväzky patria Charta Organizácie Spojených
+národov, Strategická koncepcia Severoatlantickej aliancie, a Globálna stratégia pre
+zahraničnú a bezpečnostnú politiku Európskej únie, čo sú základné piliere na ktorých
+bezpečnostná stratégia stojí. Dokument identifikuje hodnoty a základné zásady, ktoré sú
+pre Slovenskú republiku dôležité v rámci bezpečnostnej politiky, a na základe analýzy
+súčasného bezpečnostného prostredia formuluje konkrétne ciele, prístupy a nástroje pre
+realizáciu bezpečnostnej politiky. Táto stratégia má za cieľ nielen zabezpečiť ochranu a
+stabilitu Slovenska, ale aj prispieť k prosperite a rozvoju krajiny a jej občanov, čím sa
+snaží o komplexné zabezpečenie bezpečnosti na viacerých úrovniach. (Bezpečnostná
+stratégia slovenskej republiky, 2021)
+Obranná stratégia Slovenskej republiky 2021, predstavuje zásadný strategický
+dokument, ktorý je navrhnutý tak, aby reflektoval meniace sa bezpečnostné prostredie a
+určoval základné prístupy k zabezpečeniu obrany štátu. Tento dokument sa opiera o
+základné právne a medzinárodné rámce, vrátane Ústavy Slovenskej republiky, Charty
+Organizácie Spojených národov, ako aj ďalších medzinárodných zmlúv a dohôd. Okrem
+toho zohľadňuje strategické dokumenty dôležitých medzinárodných organizácií, ako sú
+NATO a Európska únia, a nadväzuje na Bezpečnostnú stratégiu Slovenskej republiky.
+25
+
+Cieľom obrannej stratégie je vymedziť východiská obrannej politiky Slovenska,
+stanoviť jej ciele, spôsoby a nástroje ich napĺňania, zatiaľ čo tiež poskytuje poznatky a
+usmernenia pre zabezpečovanie obrany a rozvoj systému obrany štátu. (Obranná
+stratégia SR, 2021)
+Vojenská stratégia Slovenskej republiky 2021 je dokument, ktorý priamo
+nadväzuje na Obrannú stratégiu Slovenskej republiky a Bezpečnostnú stratégiu
+Slovenskej republiky z rovnakého roku, čím tvorí súčasť koherentného bezpečnostného
+a obranného rámca štátu. Táto stratégia sa zameriava na definovanie kľúčových
+faktorov, ktoré ovplyvňujú operačné prostredie Ozbrojených síl Slovenskej republiky, a
+špecifikuje, ako by sa malo pristupovať k tvorbe scenárov možných ozbrojených
+konfliktov, vrátane možností vojenskej reakcie Slovenska. Dôležitým prvkom stratégie
+je aj vymedzenie vojensko-strategických cieľov a metodík potenciálneho nasadenia
+ozbrojených síl v rámci ich hlavných úloh, zohľadňujúc predpokladané bezpečnostné a
+operačné podmienky. Stratégia ďalej identifikuje základné požiadavky na pripravenosť
+a rozvoj schopností ozbrojených síl, ktoré budú podrobne rozpracované pri tvorbe
+vojnového modelu a zdrojovo udržateľného modelu ozbrojených síl, s cieľom
+zabezpečiť ich efektívnosť a pripravenosť na obranu štátu. (Návrh Vojenskej stratégie
+Slovenskej republiky, 2021)
+Stratégia kybernetickej obrany SR 2022. V kontexte kybernetickej bezpečnosti
+stratégia stanovuje cieľ vytvoriť rámec pre rozvoj národných kybernetických
+schopností, ktoré sú nevyhnutné pre efektívnu kybernetickú obranu Slovenskej
+republiky. Tento rámec sa týka nielen ochrany informačnej a komunikačnej
+infraštruktúry Ozbrojených síl Slovenskej republiky a Vojenského spravodajstva na
+území Slovenska, ale aj v zahraničí. Cieľom je umožniť realizáciu obranných, útočných,
+podporných a spravodajských kybernetických operácií, ako aj splnenie medzinárodných
+záväzkov Slovenskej republiky v tejto oblasti. (Stratégia kybernetickej obrany
+slovenskej republiky, 2022)
+Koncepcia prípravy obyvateľstva na obranu štátu. Tento dokument, je základným
+koncepčným materiálom, ktorý predstavuje súhrn princípov, cieľov a postupov prípravy
+obyvateľstva Slovenskej republiky na obranu štátu. Dokument sa zameriava na
+dlhodobý proces zmien v oblasti prípravy občanov a obyvateľstva na obranu, pričom
+reflektuje zmenené bezpečnostné prostredie od 90. rokov 20. storočia, zvýšenú potrebu
+26
+
+odolnosti spoločnosti voči bezpečnostným hrozbám, a zdôrazňuje potrebu zapojenia
+celého spektra obyvateľstva do obranných procesov. Dokument sa zaoberá aj
+nedostatkami v súčasnom systéme prípravy, identifikuje kľúčové problémové oblasti a
+navrhuje ciele a stratégie na ich adresovanie. V tejto koncepcii sú zahrnuté pojmy ako
+bezpečnostné prostredie, obrana štátu, úlohy obyvateľstva pri obrane štátu, legislatívny
+rámec, strategické dokumenty SR, identifikácia kľúčových predpokladov, súčasný stav
+rozpracovania prípravy obyvateľstva na obranu, problémové oblasti, ciele, plán
+realizácie, materiálne a finančné zabezpečenie prípravy, a záver. Dokument zdôrazňuje,
+že obrana štátu je komplexná úloha, ktorá vyžaduje aktívne zapojenie nielen štátnych
+inštitúcií a bezpečnostných zložiek, ale aj celého obyvateľstva, vrátane detí, mládeže a
+dospelých. Je založený na presvedčení, že každý občan a obyvateľ má významnú úlohu
+v obrane štátu a že je potrebné budovať všeobecné povedomie a pripravenosť na obranu
+štátu. Táto koncepcia predstavuje rámec pre vytvorenie efektívneho, komplexného a
+udržateľného systému prípravy obyvateľstva na obranu štátu, ktorý je schopný reagovať
+na dynamické a nepredvídateľné zmeny v bezpečnostnom prostredí. Je určený širokému
+spektru aktérov, vrátane vládnych inštitúcií, vzdelávacích organizácií, občianskej
+spoločnosti a samotného obyvateľstva, s cieľom podnietiť zapojenie a spoluprácu pri
+budovaní obranných kapacít Slovenskej republiky. (Ministerstvo obrany SR, 2021)
+
+27
+
+3 BEZPEČNOSŤ SLOVENSKEJ REPUBLIKY
+V praxi sa pojem bezpečnosť len výnimočne používa vo všeobecnej rovine.
+Častejšie sa k tomuto pojmu podľa prostredia, v ktorom sa nachádza pridávajú rôzne
+pojmy, napríklad, ako vojenská bezpečnosť, ekonomická bezpečnosť, bezpečnosť pri
+práci , informačná bezpečnosť a pod.
+Kategória bezpečnosť býva chápaná aj ako:
+•
+
+Ako stav, kedy systém nie je ohrozený vo svojej existencii, záujmoch či
+hodnotách. Tento stav môže zahŕňať aspekty ako istota, ochrana, zabezpečenie,
+osobná bezpečnosť, mechanizmy kolektívnej bezpečnosti, či celková bezpečnosť
+štátu.
+
+•
+
+Ako súbor opatrení zameraných na udržiavanie vnútorného poriadku a
+bezpečnosti v štáte, ochranu ľudských práv a slobôd občanov pred kriminalitou,
+terorizmom, organizovaným násilím atď., a zároveň na uchovanie základných
+demokratických princípov, suverenity, teritoriálnej integrity a hraníc štátu.
+Inštitucionálne, ako bezpečnostné orgány, policajné orgány, polícia a pod.
+
+(Buzalka, 2008)
+
+3.1 Bezpečnostné prostredie SR
+To ako by sa mala formovať príprava obyvateľstva v rámci brannej alebo obrannej
+prípravy je nevyhnutné poznať bezpečnostné prostredie.
+„Bezpečnostné prostredie a predovšetkým bezpečnostná situácia sú dynamické
+kategórie. Ich zmeny sú buď predvídateľné, alebo nepredvídateľné. Efektívne riadenie
+bezpečnosti vyžaduje poznať nielen súčasná stav, ale aj možný vývoj
+
+v
+
+budúcnosti.“(Hofreiter, 2016)
+Správa o bezpečnosti Slovenskej republiky za rok podrobne hodnotí bezpečnostné
+prostredie a vplyvy, ktoré majú priamy dosah na obyvateľstvo SR, s osobitným
+dôrazom na aspekty relevantné pre brannú prípravu obyvateľstva. Pre potreby našej
+prace preto vychádzame z poslednej zverejnenej správy, ktorá podrobne hodnotí
+bezpečnostné prostredie a vplyvy, ktoré majú priamy dosah na obyvateľstvo SR a tou je
+„Správa o bezpečnosti Slovenskej republiky za rok 2022.“ Z nej môžeme zhrnúť že,
+bezpečnostné prostredie Slovenskej republiky možno charakterizovať ako dynamické a
+28
+
+vystavené rôznym vonkajším aj vnútorným hrozbám, ktoré vyžadujú neustálu
+pozornosť a adaptáciu. V posledných rokoch bolo značne ovplyvnené medzinárodnými
+udalosťami, ako je pandémia COVID-19 a vojenská invázia Ruska na Ukrajinu, ktoré
+poukázali na potrebu silnej národnej a medzinárodnej spolupráce, ako aj komplexnej
+prípravy a reakcie na krízy rôzneho druhu. Bezpečnostné výzvy zahŕňajú kybernetické
+hrozby, ktoré predstavujú rastúce riziko pre štátne inštitúcie, súkromný sektor i
+jednotlivcov. Pandémia zase zdôraznila význam verejného zdravotníctva a krízového
+riadenia ako kľúčových aspektov národnej bezpečnosti. Vojenské konflikty v
+bezprostrednom susedstve Slovenska, ako je ukrajinská kríza, poukazujú na potrebu
+udržiavať vysokú úroveň obrannej pripravenosti a solidaritu s medzinárodnými
+partnermi. Slovensko čelí aj výzvam spojeným s klimatickými zmenami, prírodnými
+katastrofami a ekologickou bezpečnosťou, ktoré vyžadujú integrovaný prístup k
+riadeniu rizík a adaptácii. Socioekonomické aspekty, ako sú migrácia, ekonomická
+stabilita a sociálna kohézia, tiež zohrávajú významnú úlohu v bezpečnostnom prostredí,
+pričom rastúca polarizácia spoločnosti a šírenie dezinformácií predstavujú ďalšie riziká.
+(Správa o bezpečnosti Slovenskej republiky za rok 2022, 2023)
+Pre ochranu štátu ako aj jeho obyvateľov je preto jedným z hlavých prvkov
+bezpečnostný systém. Pre jeho definíciu sú rôzne výklady tohto pojmu, avšak jeho
+základným poslaním je to, aby v krízových situáciách, ako aj v čase vojny, vojnového
+stavu ale aj mimo nich zaistil stav bezpečnosti štátu. V rámci bezpečnostného aparátu
+Slovenskej republiky môžeme identifikovať rôzne segmenty, ktorými sú riadenie a
+prijímanie rozhodnutí, zahraničná bezpečnostná stratégia, vnútroštátna bezpečnosť ako
+aj riešenie krízových situácií a krízové manažérske procesy. Tieto oblasti sú úzko
+prepojené s celkovými cieľmi a úlohami štátneho bezpečnostného systému.
+Zabezpečenie ochrany a bezpečnosti všetkých občanov, ako aj ich práva, slobôd a
+majetku, patria medzi hlavné záväzky štátu v rámci demokratickej spoločnosti. Aby bol
+štát schopný plniť tieto úlohy, musí nepretržite posilňovať svoju pripravenosť na rôzne
+výzvy, hrozby a krízové situácie.(Bezpečnostná stratégia slovenskej republiky, 2021)
+
+3.2 Úlohy a zodpovednosť aktérov v spojitosti s brannou prípravou
+Dokument s názvom „Koncepcia prípravy obyvateľstva na obranu štátu" je
+strategický dokument vydaný v roku 2021, ktorý slúži ako základný koncepčný materiál
+pre vytvorenie a rozvoj systémového riešenia prípravy obyvateľstva Slovenskej
+
+29
+
+republiky na obranu štátu. Jeho primárnym cieľom je komplexne zabezpečiť obranu
+Slovenskej republiky a zvyšovať kvalitu prípravy obyvateľstva na obranu proti
+súčasným a budúcim bezpečnostným hrozbám. Tento dokument vznikol na základe
+potreby reagovať na dynamické a nepredvídateľné zmeny v bezpečnostnom prostredí a
+zdôrazňuje význam účasti celého obyvateľstva na obrane štátu. Ukazuje, že obrana štátu
+nie je len na pleciach štátnych inštitúcií a bezpečnostných zložiek, ale vyžaduje si
+aktívnu účasť a pripravenosť celého obyvateľstva. (Ministerstvo obrany SR, 2021)
+Pre potreby spracovania našej problematiky brannej prípravy obyvateľstva,
+budeme čiastočne vzchádzať aj z tejto „Koncepcie prípravy obyvateľstva na obranu
+štátu“. V tejto kapitole si postupne povieme o najhlavnejších aktéroch v rámci brannej
+prípravy obyvateľstva Slovenska, tiež aká je ich zodpovednosť a čo je ich poslaním.
+Vláda Slovenskej republiky (ďalej len „vláda SR“) figuruje ako kľúčový aktér v
+procese prípravy a implementácie stratégií na obranu štátu. Vláda SR má zodpovednosť
+za určenie celkových smerníc a priorít v oblasti obrany a bezpečnosti, schvaľovanie
+strategických dokumentov a zabezpečenie koordinácie medzi rôznymi štátnymi
+inštitúciami a rezortmi zapojenými do prípravy obyvateľstva na obranu. Jej úlohou je aj
+zabezpečenie finančných, materiálnych a personálnych zdrojov potrebných pre
+efektívnu obranu štátu a reakciu na bezpečnostné hrozby. Zapojenie obyvateľstva do
+obrany štátu sa opiera o rozsiahlu sieť štátnych inštitúcií a orgánov, ktoré podľa svojich
+právomocí a oblasti pôsobnosti vykonávajú zásadné úlohy v procese prípravnej fázy.
+Patria sem:
+•
+
+Ministerstvo obrany SR (ďalej len „MO SR“) – ako hlavný rezort zodpovedný za
+obranu štátu, prípravu vojenských stratégií, organizáciu a výcvik ozbrojených
+síl, ako aj za iniciatívy súvisiace s obranným vzdelávaním a informovaním
+obyvateľstva.
+
+•
+
+Ministerstvo vnútra SR (ďalej len „MV SR“) je zodpovedné za vnútornú
+bezpečnosť, civilnú ochranu, krízové riadenie, ako aj za spoluprácu s
+ozbrojenými silami v prípade vnútroštátnych kríz a bezpečnostných hrozieb.
+
+•
+
+Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky (ďalej len
+„MŠVVaŠ SR“) spolupracuje na implementácii vzdelávacích programov
+zameraných
+
+na
+
+zvýšenie
+
+bezpečnostného
+
+povedomia
+
+a
+
+pripravenosti
+
+obyvateľstva, vrátane integrácie tematiky obrany a bezpečnosti do školských
+osnov.
+
+30
+
+•
+
+Iné štátne inštitúcie a orgány verejnej správy, v závislosti od špecifických úloh a
+situácií sa do prípravy obyvateľstva na obranu štátu môžu zapájať aj ďalšie
+orgány, ako sú Hasičský a záchranný zbor, Slovenská informačná služba, orgány
+miestnej samosprávy a ďalšie rezorty s relevantnými kompetenciami.
+
+3.3 Ministerstvo obrany Slovenskej republiky
+Zodpovedá hlavne za obranu a vojenskú bezpečnosť krajiny, pričom v rámci
+prípravy obyvateľstva na obranu štátu zastáva kľúčovú úlohu. Pod jeho gesciu spadajú
+rôzne organizačné zložky, ako sú Ozbrojené sily Slovenskej republiky, ktoré
+predstavujú hlavný pilier obrany štátu, Vojenská polícia zabezpečujúca vojenskopolicajné úlohy, Akadémia ozbrojených síl generála Milana Rastislava Štefánika
+poskytujúca vzdelávanie budúcim dôstojníkom, Vojenský historický ústav, ktorý sa
+venuje štúdiu a dokumentácii vojenskej histórie, a Vojenské spravodajstvo, ktoré sa
+stará o zber a analýzu informácií relevantných pre obranu a bezpečnosť
+štátu.(Ministerstvo obrany, 2024)
+V kontexte prípravy obyvateľstva na obranu štátu sa MO SR zameriava na
+niekoľko kľúčových aktivít. Predovšetkým ide o vzdelávanie a informovanie verejnosti,
+kde sa snaží zvyšovať obranné povedomie a poskytovať informácie o bezpečnostných
+hrozbách, obrannej politike štátu a spôsoboch ochrany v prípade kríz. Prostredníctvom
+programov dobrovoľnej vojenskej prípravy (ďalej len „DVP“) ponúka občanom
+možnosť získať základné vojenské vedomosti a zručnosti, čím prispieva k ich lepšej
+pripravenosti na možné bezpečnostné hrozby.
+Dôležitým aspektom pôsobenia ministerstva je aj spolupráca s inými rezortmi,
+štátnymi úradmi, samosprávami a neziskovými organizáciami, čo umožňuje zabezpečiť
+komplexný prístup k obrane a bezpečnosti na všetkých úrovniach. Ministerstvo obrany
+zároveň zastupuje Slovenskú republiku v medzinárodných obranných a bezpečnostných
+štruktúrach, ako je NATO a Európska únia, čím prispieva k posilneniu kolektívnej
+obrany a zvyšovaniu celkovej bezpečnosti štátu. V rámci týchto aktivít MO SR hrá
+zásadnú úlohu v budovaní odolnosti štátu a spoločnosti voči rôznym hrozbám a v
+príprave obyvateľstva na obranu štátu. Jeho prístup zahŕňa nielen vzdelávanie a
+informovanie, ale aj praktickú prípravu, čím sa snaží zabezpečiť, aby boli občania
+schopní efektívne reagovať na možné bezpečnostné výzvy.
+Ozbrojené sily Slovenskej republiky:
+31
+
+„Hlavnou úlohou OS SR je zaručovať obranu SR a bezpečnosť štátu pred vonkajším
+ozbrojeným napadnutím cudzou mocou, ako aj plniť záväzky vyplývajúce z
+medzinárodných zmlúv, ktorými je SR viazaná. Popri tom sa podieľajú na zachovávaní
+verejného poriadku, zvrchovanosti, územnej celistvosti a nedotknuteľnosti hraníc SR, na
+plnení úloh v čase výnimočného alebo núdzového stavu a pri odstraňovaní jeho
+následkov a na plnení úloh v zahraničí pri humanitárnej pomoci, vo vojenských a
+mierových pozorovateľských misiách medzinárodných organizácií alebo v rámci
+vojenských cvičení. Civilné riadenie OS je zaručené Ústavou SR a inými všeobecne
+záväznými právnymi predpismi, ktoré zverujú právomoc riadiť OS do pôsobnosti
+civilných ústavných orgánov SR.“(Purdek, bez dátumu)
+Doplňovanie záloh OS SR je jednou z hlavných úloh v čase mieru ako aj neustále
+zvyšovanie odbornej pripravenosti k prispievaniu kvality riadenia, a plnenia
+predurčených úloh a tiež obranyschopnosti a jej neustáleho vyhodnocovania.
+Pre širší prehľad je potrebne spomenúť že druhy štátnej služby nasledovne:
+•
+
+Prípravná štátna služba - je obdobie štátnej služby, v ktorej sa profesionálny
+vojak pripravuje na výkon dočasnej alebo krátkodobej štátnej služby, V tomto
+období je vojak, vo funkcii čakateľ predurčený pre zbor mužstva a
+poddôstojníkov Vojak vo funkcii kadet sa pripravuje pre službu v dôstojníckom
+zbore OS SR. Počas prípravnej služby absolvujú vojaci základný vojenský
+výcvik, v ktorom musia zvládnuť zručnosti potrebné pre plnenie ich ďalších
+úloh v dočasnej alebo krátkodobej štátnej službe.
+
+•
+
+Dočasná štátna služba - znamená to, že po ukončení prípravnej fázy štátnej
+služby má služobný úrad možnosť ustanoviť profesionálneho vojaka do
+dočasnej štátnej služby.
+
+•
+
+Stála štátna služba - služobný úrad má právomoc ustanoviť profesionálneho
+vojaka do stálej štátnej služby po uplynutí maximálnej doby štátnej služby,
+pričom rozhodnutie je založené na posúdení predchádzajúcej dočasnej štátnej
+služby. Toto vymenovanie môže nastať, ak si o to profesionálny vojak požiada
+sám, alebo ak je takéto rozhodnutie v záujme služobného úradu.
+
+•
+
+Krátkodobá štátna služba - po ukončení prípravnej štátnej služby môže služobný
+úrad povýšiť profesionálneho vojaka na vojaka 2. stupňa alebo ho povýšiť do
+hodnosti poručíka. Alternatívne, môže prijať občana do vojenskej služby bez
+
+32
+
+absolvovania prípravnej štátnej služby, pokiaľ sú splnené pred stanovenými
+kritériami, a to na základe dohody na určitú dobu.
+V nasledujúcej časti sa zameriame na inštitúcie a strediská v ktorých sa vykonáva
+príprava a výcvik v rámci MO SR a OS SR a preskúmame obsah a rozsah prípravy a
+výcviku.
+Základňa výcviku a mobilizačného doplňovania je integrovaná do štruktúry
+pozemných síl OS SR a zohráva kľúčovú rolu v príprave a výcviku vojenského
+personálu. Jej hlavnou úlohou je poskytovať komplexný výcvik, ktorý zahŕňa základné
+vojenské zručnosti, špecializovanú prípravu jednotlivcov a rozvoj vedomostí a
+schopností poddôstojníkov. Okrem toho sa táto jednotka zameriava na prípravu vojakov
+pre účasť v medzinárodných operáciách a misiách krízového manažmentu, pričom je
+schopná zabezpečiť efektívne začlenenie a bojové stmelenie mobilizovaných jednotiek.
+Medzi jej základné povinnosti patrí realizácia výcvikových programov, ktoré sú
+špecificky navrhnuté pre rôzne odbornosti v rámci ozbrojených síl. Táto základňa
+zabezpečuje tiež základný vojenský výcvik, pre kadetov Akadémie ozbrojených síl,
+vrátane programov a kurzov určených pre kadetov a absolventov vysokých škôl.
+Súčasťou jej poslania je aj poskytovanie odborného výcviku jednotlivcom, organizácia
+vzdelávacích a kariérnych kurzov pre poddôstojníkov, ako aj realizácia ďalších
+špecializovaných výcvikových programov.
+Výsledkom jej činnosti je dobre pripravený a vycvičený vojenský personál, ktorý
+je schopný efektívne plniť úlohy v rámci národných a medzinárodných obranných a
+bezpečnostných operácií. Jej práca je neoceniteľná pre zabezpečenie obranyschopnosti a
+operatívnej pripravenosti Slovenskej republiky.
+Základný vojenský výcvik v OS SR je nevyhnutným prvkom prípravy každého
+nového príslušníka, či už ide o profesionálneho vojaka alebo účastníka dobrovoľnej
+vojenskej prípravy. Tento výcvik je realizovaný skúsenými inštruktori a výcvikovými
+centrami s cieľom poskytnúť účastníkom základné vojenské zručnosti, zlepšiť ich
+fyzickú kondíciu, naučiť ich vojenskej disciplíne a pripraviť ich na požiadavky
+vojenskej služby. Dĺžka tohto výcviku sa líši v závislosti od cieľovej skupiny a
+špecifických požiadaviek, no typicky trvá od niekoľkých týždňov do niekoľkých
+mesiacov. Obvykle však základný výcvik trvá 7 týždňov a je ukončený slávnostnou
+prísahou. Po absolvovaní základného vojenského výcviku pokračujú absolventi
+33
+
+vysokých škôl štúdiom v Akadémií ozbrojených síl v Liptovskom Mikuláši. Čakatelia
+pokračujú v odbornom výcviku jednotlivca v súlade s programami príprav.
+Príprava záloh a výcvik aktívnych záloh sú primárne tvorené občanmi, ktorí
+ukončili službu ako profesionálni vojaci alebo absolvovali mimoriadnu službu. Ďalšími
+členmi záloh sú bývalí členovia bezpečnostných zložiek, akými sú polícia či hasičský
+zbor, za predpokladu, že im pokračuje branná povinnosť. Po vojnovom období sa do
+záloh môžu zaradiť aj tí, ktorí boli povolaní, ale neabsolvovali mimoriadnu službu,
+pričom zaradenie sa uskutoční deň po ukončení ich služby. Zálohy sú rozdelené na
+aktívne a ostatné. Občania zaradení do záloh, ktorí v období krízy odmietnu vykonávať
+mimoriadnu službu, sú povinní nastúpiť do alternatívnej služby.
+Praktický výcvik obvykle zahŕňa strelecké cvičenia, kde záložníci obnovujú a
+zdokonaľujú svoje zručnosti v manipulácii so zbraňou a v streleckej príprave. Simulujú
+sa taktiež bojové operácie, kde sa trénuje pohyb a koordinácia v teréne, ako aj taktické
+cvičenia v malých skupinách. Kľúčovou súčasťou výcviku aktívnych záloh je tiež
+zdôrazňovanie významu tímovej práce, adaptability a schopnosti rýchlo reagovať na
+meniace sa situácie. Cieľom je, aby každý záložník bol nielen dobre vycvičený v
+individuálnych vojenských zručnostiach, ale aby bol tiež schopný efektívne
+spolupracovať v rámci svojej jednotky. Výcvikový cyklus a plány cvičení sú navrhnuté
+tak, aby boli v súlade s potrebami a prioritami obrannej stratégie Slovenskej republiky,
+pričom sa zohľadňuje aktuálne bezpečnostné prostredie a možné hrozby. Aktívne
+zálohy predstavujú dôležitú súčasť obranného systému štátu, a ich pravidelný a kvalitný
+výcvik je nevyhnutný pre udržanie vysokého stupňa pripravenosti a obranyschopnosti
+Slovenska.
+Cieľom do budúcnosti v rámci rozvoja záloh Ozbrojených síl Slovenskej
+republiky je vytvoriť početne stabilné, rýchlo zladiteľné a dobre vycvičené zálohy, ktoré
+poslúžia ako dôležitý doplnok profesionálnych vojakov v krízových momentoch alebo
+počas vojnových operácií. Zameranie bude predovšetkým na formovanie aktívnych
+záloh ako okamžite dostupného personálu. V prípade potreby budú zálohy využité na
+rýchle doplnenie síl pripravených na akúkoľvek núdzovú situáciu. Rozvojová stratégia
+zahŕňa pravidelné precvičovanie záloh a posilnenie dobrovoľnej vojenskej prípravy
+občanov. Systém prípravy záloh sa bude snažiť otvoriť príležitosti pre širšie spektrum
+občanov, čím rozšíri základňu potenciálneho personálu pre obranu štátu. (Dlhodobý
+plán rozvoja rezortu ministerstva obrany s výhľadom do roku 2035, 2022)
+34
+
+Dobrovoľná vojenská príprava (ďalej len „DVP“) na Slovensku predstavuje
+program, ktorý umožňuje občanom Slovenskej republiky absolvovať vojenský výcvik
+bez nutnosti vstupovať do aktívnej služby v Ozbrojených silách Slovenskej republiky.
+Cieľom DVP je poskytnúť základné vojenské zručnosti a vedomosti, ktoré prispievajú k
+obrannej pripravenosti štátu, ako aj k osobnému rozvoju účastníkov. Program je
+otvorený pre mužov a ženy, ktorí spĺňajú vstupné kritériá, najmä vekové a zdravotné
+požiadavky. Účastníci absolvujú teoretickú aj praktickú časť výcviku, ktorá zahŕňa
+základy vojenskej taktiky, streľbu, prvú pomoc, prežitie v teréne a ďalšie disciplíny.
+DVP slúži nielen ako možnosť pre občanov získať vojenské zručnosti a posilniť svoje
+fyzické a psychické schopnosti, ale aj ako platforma pre budovanie rezerv pre ozbrojené
+sily. Absolventi tejto formy prípravy môžu byť v prípade potreby rýchlejšie
+mobilizovaní v rámci obrannej stratégie štátu.
+V posledných rokoch sa na Slovensku venuje zvýšená pozornosť rozvoju a
+propagácii DVP ako súčasti širšieho úsilia o posilnenie obranných kapacít a vedomia
+občanov. Program prípravy sa pravidelne aktualizuje tak, aby odrážal súčasné potreby a
+výzvy, ktorým čelí bezpečnostné prostredie Slovenska aj celého euroatlantického
+priestoru.
+Akadémia Ozbrojených síl Slovenskej republiky. Vzdelávací proces na Akadémii
+Ozbrojených síl (ďalej len „AOS“) je štruktúrovaný do viacerých fáz, zahŕňajúcich
+širokú škálu predmetov od vojenskej teórie, stratégie, taktiky, cez štúdium
+bezpečnostných a obranných štúdií, až po právne, etické a manažérske disciplíny
+relevantné pre vojenské prostredie. Okrem toho sú študenti zapojení do praktického
+výcviku, ktorý zahŕňa strelecký výcvik, fyzickú prípravu, taktické cvičenia, výcvik v
+prežití a prvej pomoci, ako aj simulácie vojenských operácií. Dôležitou súčasťou
+vzdelávacieho procesu je aj rozvoj vodcovských a manažérskych schopností, pričom
+študenti sú vedení k tomu, aby boli schopní prevziať zodpovednosť, rozhodovať sa v
+náročných situáciách a efektívne viesť svoje jednotky. Akadémia kladie veľký dôraz na
+etické aspekty vojenskej služby a význam služby pre obranu a bezpečnosť štátu.
+Celkovo je výcvik na AOS navrhnutý tak, aby pripravil študentov nielen na vojenské
+povolania, ale aj na to, aby sa stali vodcami a etickými rozhodcami, schopnými čeliť
+výzvam 21. storočia. Absolventi tak odchádzajú s komplexnou prípravou, ktorá im
+umožňuje plniť široké spektrum úloh v rámci ozbrojených síl a prispievať k obrannej a
+
+35
+
+bezpečnostnej politike Slovenskej republiky. (Dlhodobý plán rozvoja rezortu
+ministerstva obrany s výhľadom do roku 2035, 2022)
+Regrutačné strediská na Slovensku sú špecializované inštitúcie zodpovedné za
+proces náboru, výberu a registrácie kandidátov pre službu v Ozbrojených silách
+Slovenskej republiky . Tieto strediská sú kľúčovou súčasťou systému obrany štátu a
+zabezpečujú, že ozbrojené sily sú personálne vybavené kvalifikovanými a
+motivovanými jednotlivcami. Regrutácia na Slovensku prebieha na dobrovoľnej báze,
+keďže povinná vojenská služba bola na Slovensku zrušená. Jej proces zahŕňa viacero
+krokov, vrátane informačných kampaní, prijímacieho konania, ktoré obsahuje
+psychologické testy, fyzické testy a zdravotné vyšetrenie, až po samotnú registráciu a
+začlenenie do výcvikového procesu. Kandidáti, ktorí úspešne prejdú týmito fázami, sú
+následne zaradení do príslušnej časti ozbrojených síl na základe ich schopností,
+záujmov a potrieb OS SR. Tieto strediská pracujú v tesnej spolupráci s rôznymi časťami
+ozbrojených síl a inými vládnymi agentúrami, aby zabezpečili efektívny a cielený nábor
+nových členov. V dôsledku toho sa regrutácia nezameriava len na kvantitu, ale
+predovšetkým na kvalitu a vhodnosť kandidátov pre rôzne druhy vojenskej služby.
+
+3.4 Ministerstvo vnútra Slovenskej republiky
+Ministerstvo vnútra Slovenskej republiky (ďalej len „MV SR“) zohráva kľúčovú
+úlohu v príprave obyvateľstva na obranu štátu, pričom sa zameriava najmä na aspekty
+civilnej ochrany, krízového manažmentu, bezpečnosti a verejného poriadku. Jeho
+úlohou je zabezpečiť ochranu života, zdravia a majetku občanov pred mimoriadnymi
+udalosťami a krízovými situáciami, ako aj koordinovať činnosti štátnej správy a
+samosprávy v oblasti civilnej ochrany a krízového riadenia. Úlohy štátnej správy v
+rámci prípravy obyvateľstva na obranu štátu sú rozsiahle a zahŕňajú širokú škálu
+činností zameraných na zabezpečenie bezpečnosti, obranyschopnosti a odolnosti štátu a
+jeho občanov voči rôznym hrozbám. Tieto činnosti môžu byť organizované na rôznych
+úrovniach - od centrálnej vládnej úrovne, až po lokálnu samosprávu. Na základe
+obvyklých praxí a štruktúrnych zodpovedností ministerstva môžeme identifikovať
+niekoľko hlavných foriem, ktorými sa toto ministerstvo zvyčajne podieľa na príprave
+obyvateľstva.
+MV SR sa na brannej príprave obyvateľstva podieľa prostredníctvom širokej
+škály aktivít a programov zameraných na zvyšovanie povedomia a pripravenosti
+36
+
+občanov na rôzne bezpečnostné hrozby. Jeho úloha zahŕňa organizáciu vzdelávacích
+programov a informačných kampaní, ktoré poskytujú občanom vedomosti a zručnosti
+potrebné pre efektívnu reakciu v krízových situáciách, ako sú prírodné katastrofy alebo
+teroristické útoky. Tieto vzdelávacie aktivity sa môžu realizovať formou školení,
+seminárov a verejných prezentácií a sú často zamerané na špecifické témy, ako je
+civilná ochrana, poskytovanie prvej pomoci a evakuačné postupy.
+Dôležitým aspektom práce MV SR je aj spolupráca s rôznymi partnermi vrátane
+iných štátnych orgánov, miestnych samospráv, neziskových organizácií, záchranných
+služieb a medzinárodných inštitúcií. Táto spolupráca umožňuje ministerstvu
+efektívnejšie rozdeľovať zdroje, zdieľať expertízu a koordinovať reakcie na krízové
+situácie. Jednou z kľúčových úloh je tiež príprava a implementácia komplexných plánov
+krízového riadenia, ktoré sú nevyhnutné pre rýchlu a organizovanú reakciu na rôzne
+druhy kríz. V rámci týchto aktivít ministerstvo organizuje cvičenia a simulácie, ktoré
+poskytujú realistický tréning a umožňujú účastníkom overiť a zdokonaliť postupy a
+taktiky potrebné pre zvládanie krízových situácií. Aktivity a programy organizované
+Ministerstvom vnútra sú rozhodujúce pre budovanie silnej a odolnej spoločnosti, ktorej
+občania sú dobre informovaní a pripravení čeliť rôznym hrozbám. Vďaka rozsiahlej
+spolupráci s rôznymi aktérmi a využívaniu moderných vzdelávacích metód ministerstvo
+značne prispieva k celkovej obranyschopnosti a bezpečnosti štátu.
+Civilná ochrana obyvateľstva je zásadným aspektom prípravy na krízové situácie
+a zahŕňa komplexnú sériu opatrení zameraných na minimalizáciu rizík a negatívnych
+dopadov na ľudí v prípade núdze. Tento proces zahŕňa plánovanie a vykonávanie
+činností, ktoré zabezpečujú bezpečnosť a ochranu obyvateľov, či už ide o prírodné
+katastrofy, technologické havárie, alebo vojenské konflikty. Základnými piliermi
+ochrany sú evakuácia ohrozených oblastí, poskytovanie bezpečných úkrytov, distribúcia
+nevyhnutných ochranných prostriedkov a garantovanie prístupu k zdravotnej
+starostlivosti pre tých, ktorí ju potrebujú.
+Evakuácia predstavuje dôležitý krok v ochrane obyvateľstva, kedy sa ľudia
+premiestňujú z oblastí ohrozených katastrofou do bezpečnejších lokalít. Plánovanie
+evakuácie zahŕňa identifikáciu ohrozených oblastí, vytvorenie evakuačných trás a
+určenie úkrytov alebo evakuačných centier pre dočasné umiestnenie evakuovaných
+osôb. Tieto centrá musia byť vybavené základnými potrebami ako sú jedlo, voda,
+prístrešie a prístup k zdravotnej starostlivosti, aby sa zabezpečil pohodlný a bezpečný
+37
+
+pobyt evakuovaných. Tieto úkryty poskytujú ochranu pred vonkajšími vplyvmi a sú
+dôležité pre udržanie života a zdravia v čase krízy. Distribúcia ochranných prostriedkov,
+ako sú masky, oblečenie a lieky, je nevyhnutná pre zabezpečenie osobnej ochrany
+obyvateľstva proti rôznym hrozbám. Táto činnosť zahŕňa organizované rozdávanie
+týchto prostriedkov, vzdelávanie ľudí o ich správnom používaní a zabezpečenie, aby
+každý mal prístup k ochrane, ktorú potrebuje.
+
+3.5 Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej
+republiky
+Vzdelávanie a tréning sú základnými piliermi prípravy obyvateľstva na obranu
+štátu, kde sa dáva dôraz na budovanie povedomia, zručností a schopností potrebných
+pre účinnú reakciu na rôzne druhy hrozieb a krízových situácií. Táto oblasť pokrýva
+široké spektrum aktivít od školského vzdelávania až po špecializované tréningové
+programy. Jej cieľom je pripraviť jednotlivcov i kolektívy na rôzne scenáre, zvyšovať
+ich odolnosť a adaptabilnosť voči nepredvídaným udalostiam. Dôležitá je tiež integrácia
+tematiky civilnej ochrany, prvej pomoci, základov obrany a bezpečnosti do učebných
+osnov základných a stredných škôl. Cieľom je vychovať generáciu, ktorá je
+informovaná o možných rizikách a vie, ako sa správať v krízových situáciách.
+Realizácia kurzov a tréningov pre určité skupiny obyvateľstva, ako sú zamestnanci
+kritickej infraštruktúry, zdravotníci, učitelia, členovia dobrovoľných záchranných
+zložiek či iné profesie, ktoré môžu zohrať kľúčovú úlohu v prípade krízových situácií.
+Tieto programy sú zamerané na špecifické zručnosti a vedomosti potrebné pre
+konkrétnu oblasť pôsobnosti.
+Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky (ďalej
+len „MŠVVaŠ“) spolu so školami zohrávajú kľúčovú úlohu v oblasti brannej prípravy
+detí a mládeže základných a stredných škôl. Dôležitosť tejto prípravy spočíva v
+budovaní povedomia mladej generácie o obrannej politike štátu, rozvoji základných
+obranných a bezpečnostných zručností, ako aj v posilnení vlasteneckého cítenia a
+zodpovednosti za ochranu svojej krajiny. V rámci školského systému sa branná príprava
+realizuje prostredníctvom špecificky navrhnutých vzdelávacích programov, ktoré sú
+integrované do školských osnov a doplnené o rôzne projekty a aktivity. Príprava na
+školách prebieha v rôznych formách, od teoretických lekcií až po praktické cvičenia.
+Teoretická časť zahŕňa výučbu o histórii a súčasnosti obrany štátu, základoch
+38
+
+bezpečnostnej politiky, prvých pomocných opatreniach a osobnej bezpečnosti.
+Praktické aspekty zase zahŕňajú nácvik evakuačných a bezpečnostných postupov,
+základov sebaochrany a prvej pomoci. Školy často organizujú aj dni obrany a
+bezpečnosti, počas ktorých študenti získavajú priamu skúsenosť s prácou a technikami
+záchranných zložiek, vojakov a hasičov. Projekty a spolupráce v tejto oblasti zvyčajne
+zahŕňajú partnerstvá so zložkami Ministerstva obrany, Ozbrojenými silami a
+záchrannými službami, kde skúsení odborníci poskytujú študentom a žiakom praktické
+ukážky a prednášky. Takisto sa organizujú návštevy vojenských základní, kde mladí
+ľudia majú možnosť zoznámiť sa s každodenným životom vojakov a technikou, ktorú
+používajú. V niektorých prípadoch sa realizujú aj špeciálne projekty zamerané na rozvoj
+vodcovských schopností a tímového ducha medzi mládežou, čo sú kvality dôležité
+nielen v obrannej príprave, ale aj v každodennom živote.
+V posledných rokoch sa význam brannej prípravy v školách značne zvýšil
+vzhľadom na rastúce bezpečnostné výzvy a potrebu zvyšovania obranyschopnosti štátu.
+Tento trend odzrkadľuje aj záujem o inovatívne prístupy k vzdelávaniu v tejto oblasti,
+ako sú interaktívne online platformy a simulačné programy, ktoré umožňujú žiakom
+lepšie pochopiť a simulovať rôzne bezpečnostné scenáre. V konečnom dôsledku, branná
+príprava v školách predstavuje neoddeliteľnú súčasť celkového vzdelávacieho procesu,
+ktorá prispieva k formovaniu zodpovedných, informovaných a fyzicky pripravených
+občanov schopných adekvátne reagovať na výzvy súčasnosti a potenciálne hrozby.
+Takéto vzdelávanie podporuje nielen obranyschopnosť štátu, ale aj osobnú odolnosť a
+bezpečnosť jednotlivcov. Vedie k formovaniu povedomia o význame kolektívnej
+obrany a solidarite v spoločnosti, čo je zásadné pre udržanie mieru a stability.
+Zameranie na mladú generáciu je strategicky dôležité, pretože deti a mladí ľudia sú
+budúcnosťou každého národa. Výchova k vlastenectvu, zodpovednosti a ochote chrániť
+svoju krajinu sú hodnoty, ktoré pomáhajú budovať silnú a odolnú spoločnosť. Zároveň,
+branná príprava v školách ponúka mladým ľuďom príležitosť lepšie pochopiť svet okolo
+seba, naučiť sa základné životné zručnosti, ako je riešenie konfliktov, rozhodovanie v
+kritických situáciách ako aj poskytovanie prvej pomoci, ktoré je užitočné v mnohých
+aspektoch života. Prostredníctvom rozmanitých projektov a spolupráce so záchrannými
+službami, armádou a ďalšími odborníkmi na bezpečnosť, školy umožňujú žiakom a
+študentom získavať realistický pohľad na to, aké výzvy a hrozby môžu v dnešnom svete
+čeliť, a ako sa môžu aktívne zapojiť do ich riešenia. Podpora takýchto aktivít a
+
+39
+
+programov zo strany štátu, rodičov a učiteľov je kľúčová pre ich úspech a pre trvalý
+pozitívny vplyv na mladých ľudí.
+Spolupráca škôl s inými organizáciami v rámci brannej prípravy a civilnej
+ochrany sa môže realizovať na viacerých úrovniach a v rôznych formách, čo umožňuje
+žiakom získať komplexné poznatky a zručnosti potrebné pre efektívnu reakciu na
+mimoriadne situácie. Školy často spolupracujú so zložkami, ako sú hasičský a
+záchranný zbor, polícia, záchranná zdravotná služba a iné. Tieto organizácie môžu do
+škôl priniesť praktické ukážky, prednášky o bezpečnosti a prvých pomocných zásahoch,
+alebo simulácie evakuačných cvičení. Príkladom sú organizovania Dní otvorených dverí
+na hasičskej stanici alebo vedenie workshopov o prvej pomoci priamo v školských
+priestoroch. Mestá a obce sú zodpovedné za civilnú ochranu na svojom území a často sa
+zapájajú do vzdelávacích aktivít v spolupráci so školami. Dôležitú úlohu plní aj
+spolupráca
+
+s
+
+organizáciami
+
+financovanými
+
+Európskou
+
+úniou
+
+alebo
+
+inými
+
+medzinárodnými inštitúciami na realizácii projektov zameraných na zvyšovanie
+odolnosti a pripravenosti mladej generácie. Tieto projekty zahŕňajú rozvoj vzdelávacích
+materiálov, výmenné pobyty, spoločné cvičenia alebo vytváranie online platforiem pre
+vzdelávanie v oblasti civilnej ochrany. Neziskové organizácie ako je Slovenský
+Červený kríž, často ponúkajú školám programy a aktivity zamerané na prvú pomoc,
+humanitárne právo, zdravotnú prípravu a ďalšie témy súvisiace s ochranou a pomocou v
+krízových situáciách. Žiaci sa môžu zapojiť do kurzov prvej pomoci, súťaží mladých
+záchranárov alebo programov zameraných na prevenciu rizík a katastrof.
+Prínosom v tejto oblasti je tiež spolupráca s vysokými školami a výskumnými
+inštitúciami na projektoch zameraných na štúdium rizík, prevenciu katastrof a krízový
+manažment. Táto spolupráca môže zahŕňať vývoj a implementáciu vzdelávacích
+programov, ktoré sú špecificky navrhnuté tak, aby zvyšovali povedomie a zručnosti
+študentov v oblasti krízového manažmentu, ako aj v metódach a technikách znižovania
+rizík. Univerzity a vedecké inštitúcie môžu do škôl prinášať najnovšie poznatky a
+výskumné zistenia, čím pomáhajú žiakom lepšie pochopiť komplexnosť a dôležitosť
+pripravenosti na krízové situácie. Taktiež to môže prispieť k zlepšeniu školských
+učebných plánov tým, že do nich integruje najnovšie poznatky a prístupy z oblasti
+krízového manažmentu a civilnej ochrany, čím pripravuje budúce generácie na
+efektívnu reakciu na výzvy súčasného sveta.
+
+40
+
+Začlenenie brannej prípravy do školského kurikula je teda nielen o obrane štátu v
+tradičnom zmysle slova, ale aj o výchove k sebauvedomeniu, spolupráci, komunikácii a
+vedeniu – zručnostiach, ktoré sú dôležité pre každodenný život a profesijnú kariéru. V
+tomto duchu sa branná príprava stáva súčasťou širšieho výchovného cieľa, ktorým je
+vybaviť mladých ľudí schopnosťami, vedomosťami a hodnotami potrebnými pre
+úspešné a zmysluplné pôsobenie v spoločnosti. (Ministerstvo školstva, výskumu, vývoja
+a mládeže Slovenskej republiky, [bez dátumu])
+Úloha jednotlivcov v rámci brannej prípravy a výchovy je kľúčová pre
+zabezpečenie ochrany života, zdravia a majetku v prípade mimoriadnych situácií alebo
+kríz. Zákonom o civilnej ochrane obyvateľstva je stanovené, že každý občan by mal
+mať možnosť získať zručnosti a návyky pre sebaochranu a vzájomnú pomoc, čím sa
+príprava na civilnú ochranu stáva základnou oporou osobnej aj kolektívnej bezpečnosti.
+(Zákon č. 42/1994 Z. z. Národnej rady Slovenskej republiky o civilnej ochrane
+obyvateľstva)
+Príprava civilného obyvateľstva vychádza z oblasti krízového riadenia. Informácie
+o tejto problematiky sú zverejnene na internetovej stránke Ministerstva vnútra
+Slovenskej republiky v sekcii krízového riadenia. Obyvatelia SR sa môžu samo
+vzdelávať v rámci brannej prípravy prostredníctvom online kurzov a informačných
+portálov, kde sa dozvedia, ako postupovať v prípade krízových stavov alebo evakuácie.
+Dôležité je poznať základy prvej pomoci, zásady správania sa pri prírodných
+katastrofách, využívanie komunikačných prostriedkov v kríze, a ako pripraviť
+evakuačný balíček. Ďalšie informácie môžu tiež jednotlivci získať na rôznych
+dostupných webových stránkach alebo cez vzdelávacie platformy ako je napríklad
+edukačná sekcia Červeného kríža.
+Neziskové organizácie a dobrovoľníci hrajú významnú úlohu, keďže dopĺňajú
+oficiálne snahy štátu o zvyšovanie obrannej schopnosti a pripravenosti občanov. Tieto
+organizácie a jednotlivci často pôsobia v oblastiach, kde môžu ponúkať špecifické
+vedomosti a skúsenosti, ako sú prvá pomoc alebo zručnosti riešenia krízových situácií,
+prežitie v prírode, ale aj základy vojenskej taktiky a obrany. Neziskové organizácie a
+dobrovoľníci prinášajú obyvateľstvu rozmanité výhody. Po prvé, umožňujú prístup k
+širokému spektru vzdelávacích programov a tréningov, ktoré sú často prispôsobené
+potrebám komunity a sú dostupné širšiemu spektru obyvateľov bez ohľadu na ich
+predchádzajúce vojenské alebo záchranné zručnosti. Týmto spôsobom sa zvyšuje
+41
+
+celková pripravenosť a odolnosť spoločnosti voči rôznym krízovým situáciám. Aktivity
+týchto organizácií a dobrovoľníkov podporujú budovanie silných spoločenských väzieb
+a pocitu zodpovednosti za bezpečnosť vlastnej komunity. Ľudia sa učia spolupracovať,
+deliť sa o zručnosti a podporovať sa navzájom v núdzových situáciách, čo vytvára
+silnejšiu a viac kooperatívnu spoločnosť. Často pôsobia ako most medzi civilným
+obyvateľstvom a oficiálnymi bezpečnostnými štruktúrami, ako sú ozbrojené sily alebo
+záchranné služby. Pomáhajú v šírení dôležitých informácií, osvedčených postupov a v
+neposlednom rade môžu slúžiť ako cenný zdroj spätnej väzby pre štátne orgány o
+potrebách a očakávaniach občanov. Prítomnosť a aktivita neziskových organizácií a
+dobrovoľníkov v oblasti brannej prípravy obyvateľstva často vedie k zvyšovaniu
+verejného povedomia o dôležitosti obrannej pripravenosti a motivuje viac ľudí k účasti
+na príprave a vzdelávaní v tejto oblasti.
+
+42
+
+4 MOBILIZÁCIA
+Mobilizácia je proces aktivácie rezerv a zdrojov štátu (vrátane vojenských,
+ekonomických, ľudských a iných zdrojov) na podporu a zvýšenie obranných kapacít v
+čase krízy alebo vojny. Tento proces sa neobmedzuje len na vojenské zložky, ale zahŕňa
+aj civilnú oblasť a infraštruktúru, aby sa zabezpečilo, že krajina dokáže efektívne čeliť
+hrozbám alebo vykonávať vojenské operácie. Mobilizácia môže zahŕňať tiež zber
+informácií, rozvoj a rozmiestnenie logistických sietí, zvyšovanie výroby obranného a
+vojenského materiálu, ako aj prípravu občanov na obranu a podporu OS SR. Proces
+mobilizácie regulovaný národnou legislatívou, ktorá určuje, ako majú byť jednotlivé
+zdroje a rezervy využité a koordinované v rámci celoštátnej obrany. Mobilizáciu
+môžeme rozdeliť na viacero typov alebo úrovní podľa rozsahu, účelu a oblasti
+pôsobnosti.
+Hlavné druhy mobilizácie sú:
+•
+
+Vojenská mobilizácia je zameraná na aktiváciu a využitie vojenských rezerv a
+zdrojov. Tento druh mobilizácie zahŕňa povolávanie záloh do aktívnej vojenskej
+služby, mobilizáciu vojenského materiálu, vybavenia a infraštruktúry potrebnej
+na podporu vojenských operácií. Cieľom je zabezpečiť rýchlu a efektívnu
+reakciu na vojenské hrozby a zvýšiť obranné kapacity štátu.
+
+•
+
+Civilná mobilizácia sa zameriava na podporu a doplnenie vojenských kapacít
+prostredníctvom civilných zdrojov a služieb. Zahrňuje organizáciu civilného
+obyvateľstva pre prípadné núdzové situácie, využitie civilnej infraštruktúry a
+priemyselných kapacít na podporu vojenských alebo obranných potrieb a
+zabezpečenie logistiky a podpory pre vojenské jednotky.
+
+•
+
+Hospodárska mobilizácia je komplexný proces, ktorý zahŕňa celý rad príprav a
+opatrení na prispôsobenie hospodárstva a zdrojov štátu tak, aby mohli byť
+efektívne využité na obranné účely v čase krízy alebo vojenského konfliktu.
+Tento koncept je založený na premene mierových kapacít štátu na vojnové, s
+cieľom zabezpečiť rýchlu a účinnú reakciu na hrozby alebo aktuálne
+bezpečnostné výzvy. V čase krízy sa môže vyžadovať prehodnotenie a
+optimalizácia logistických a distribučných sietí, aby boli zabezpečené prioritné
+toky tovaru a služieb, čo môže zahŕňať aj zriadenie strategických zásobníkov
+alebo využitie vojenskej logistiky na podporu civilných potrieb.
+43
+
+Tieto druhy mobilizácie sú navzájom prepojené a ich efektívne využitie je
+kľúčové pre zabezpečenie obranyschopnosti a bezpečnosti štátu. Mechanizmy a postupy
+aktivácie jednotlivých druhov mobilizácie sú regulované národnými zákonmi a
+predpismi, ktoré určujú, ako majú byť zdroje v prípade potreby nasadené a
+koordinované. V závislosti od bezpečnostnej situácie a potrieb obrany štátu vyhlásená
+čiastočná alebo úplná mobilizácia. Tieto formy mobilizácie sú nástrojmi, ktoré
+umožňujú štátu rýchlo reagovať na vojenské hrozby, krízové situácie alebo iné
+mimoriadne udalosti vyžadujúce zvýšenú obrannú pripravenosť alebo nasadenie
+zdrojov.
+Mobilizácia sa v závislosti na rozsahu angažovanosti a intenzite využívania
+dostupných zdrojov a schopností delí do dvoch základných typov:
+•
+
+Čiastočná mobilizácia sa zameriava na aktiváciu určitých vopred určených častí
+obranných síl, rezerv alebo zdrojov, a to bez potreby mobilizovať celkové
+národné zdroje. Jej cieľom je riešiť konkrétne hrozby alebo potreby v
+obmedzenom rozsahu a obvykle sa vzťahuje na špecifické územné celky.
+
+•
+
+Úplná mobilizácia predstavuje komplexné a celonárodné aktivovanie všetkých
+dostupných vojenských a civilných zdrojov, rezerv a kapacít s cieľom čeliť
+rozsiahlej alebo maximálnej hrozbe. Právomoc vyhlásiť čiastočnú alebo úplnú
+mobilizáciu ma prezident republiky na návrh vlády. Táto právomoc je
+regulovaná ústavnými a zákonnými predpismi, ktoré zabezpečujú, že takéto
+rozhodnutie bude prijaté na základe dôkladnej analýzy bezpečnostnej situácie a
+v súlade s potrebami národnej obrany a bezpečnosti. Vyhlásenie mobilizácie sa
+vzťahuje na všetky príslušné zložky štátu vrátane vojenských síl, civilného
+obyvateľstva, priemyslu a iných zdrojov potrebných na zabezpečenie obrany a
+bezpečnosti krajiny.
+V prípade čiastočnej mobilizácie sú aktivácie zdrojov a rezerv cielenejšie, zatiaľ
+
+čo pri úplnej mobilizácii sa tieto aktivity rozširujú na celoštátnu úroveň.
+
+4.1 Cvičenia na posilnenie pripravenosti
+Zabezpečenie národnej bezpečnosti a ochrany štátu počas vojnových alebo
+krízových situácií závisí od systematickej pripravenosti rôznych štátnych inštitúcií a
+organizácií. Do procesu obranných príprav sa zapájajú nie len vojenské jednotky, ale aj
+
+44
+
+ďalšie zložky ako ozbrojené zložky, profesionálne hasičské a záchranné služby, taktiež
+rôzne agentúry, ministerstvá, vládne úrady, súdne inštitúcie, lokálne správy, mestá,
+regionálne úrady a tiež podnikateľské subjekty a jednotlivci s oprávnením podnikať v
+tejto oblasti. Pre zistenie a preverenie pripravenosti sú pravidelne vykonávané špeciálne
+cvičenia
+Tieto cvičenia sa delia na dva hlavné typy:
+•
+
+Čiastkové cvičenie je zamerané na testovanie schopnosti jednotlivých
+organizácií samostatne plniť svoje úlohy, ako aj ich schopnosti spolupracovať s
+inými organizáciami. Okrem toho sa testujú aj opatrenia na zabezpečenie
+mobilizácie ozbrojených síl, teda ako rýchlo a efektívne môžu byť vojenské
+zdroje aktivované a nasadené.
+
+•
+
+Komplexné cvičenie, ktorého cieľom je overiť schopnosť všetkých zúčastnených
+organizácií spoločne plniť svoje úlohy v rámci širšieho systému obrany štátu.
+Tieto cvičenia sú rozsiahlejšie a zahŕňajú komplexné testovanie celého systému
+obrany, vrátane opatrení pre mobilizáciu.
+Cieľom týchto cvičení je teda zabezpečiť, aby všetky zúčastnené strany boli
+
+nielen teoreticky pripravené na obranu štátu, ale aby mali aj praktické skúsenosti a boli
+schopné koordinovane a efektívne konať v prípade skutočnej hrozby alebo vojnového
+stavu.
+
+4.2 Priebeh prípadnej mobilizácie
+Prípadná vojenská mobilizácia na Slovensku by prebiehala v niekoľkých
+kľúčových fázach, pričom by zahŕňala koordinované a cielené akcie na aktiváciu
+vojenských a civilných zdrojov v rámci celej krajiny s cieľom zabezpečiť obranu štátu.
+Celý proces by sa začal rozhodnutím na najvyššej politicko-vojenskej úrovni po
+konzultácii medzi prezidentom, vládou a vojenskými lídrami, ktorí by zhodnotili
+bezpečnostnú situáciu a určili potrebu mobilizácie.
+Prvým krokom by bolo oficiálne vyhlásenie mobilizácie, čo by sa uskutočnilo
+prostredníctvom prezidenta republiky na návrh vlády alebo príslušného ministerstva
+obrany. Toto vyhlásenie by bolo okamžite komunikované verejnosti prostredníctvom
+všetkých dostupných médií a informačných kanálov, aby sa zabezpečilo, že občania sú
+informovaní o situácii a požiadavkách na nich. Nasledovalo by detailné plánovanie a
+
+45
+
+koordinácia medzi rôznymi orgánmi štátnej správy, ozbrojenými silami a podpornými
+civilnými zložkami. Toto by zahŕňalo distribúciu príkazov, organizáciu logistiky a
+zabezpečenie zdrojov potrebných pre mobilizované jednotky, vrátane zbraní, munície,
+vozidiel a iného vybavenia. Začali by sa povolávať zálohy do služby prostredníctvom
+individuálnych povolávacích rozkazov alebo verejných výziev, závisiac od charakteru a
+rozsahu mobilizácie. Jednotlivci by sa museli dostaviť na určené zberné miesta alebo
+vojenské základne, kde by prešli registráciou, zdravotnou kontrolou a následne by im
+boli pridelené ich úlohy a vybavenie. Súčasne by prebiehala aktivácia a prerozdelenie
+existujúcich
+
+aktívnych
+
+vojenských
+
+jednotiek,
+
+príprava
+
+obranných
+
+pozícií
+
+a
+
+infraštruktúry a zabezpečenie kľúčových strategických objektov. V prípade potreby by
+sa mohli zavádzať aj opatrenia na ochranu civilného obyvateľstva, ako sú evakuácie a
+zriadenie úkrytov. Civilné orgány by boli zodpovedné za podporu vojenských operácií,
+či už prostredníctvom zabezpečenia logistiky, zdravotníckej podpory, alebo udržiavania
+dôležitej infraštruktúry a služieb. Ekonomické zložky by boli prispôsobené na podporu
+obranného úsilia, vrátane zvýšenia produkcie a distribúcie vojenského a záchranného
+materiálu. Celý proces by bol kontinuálne monitorovaný a hodnotený na zabezpečenie
+efektívnosti a prispôsobenia sa meniacej sa bezpečnostnej situácii. Komunikácia s
+verejnosťou by pokračovala počas celého procesu tak aby sa zabezpečila
+transparentnosť a udržala verejná dôvera a morálka.
+Po ukončení potreby mobilizácie, by nasledoval proces demobilizácie, v rámci
+ktorého by sa vojenské zdroje a personál postupne vrátili do mierového stavu. Tento
+proces by zahŕňal odzbrojenie, odvolanie povolávacích rozkazov, návrat povolaných
+záloh do civilného života a obnovu bežnej činnosti vládnych a civilných organizácií.
+Cieľom demobilizácie by bolo zabezpečiť hladký prechod späť k normálnemu
+fungovaniu spoločnosti, zatiaľ čo by sa udržiavali získané schopnosti a zlepšenia v
+obrannom postavení krajiny.
+Čo sa týka prípadnej civilnej mobilizácie na Slovensku, tak tá by zahŕňala sériu
+koordinovaných opatrení s cieľom aktivovať a využiť civilné zdroje, služby a
+obyvateľstvo na podporu národnej obrany a reakcie na krízové situácie. Celý proces by
+sa začal vyhodnotením potreby mobilizovať civilné kapacity v dôsledku vnútorných
+alebo vonkajších hrozieb, prírodných katastrof, vojnových konfliktov alebo iných
+mimoriadnych udalostí. Rozhodnutie o zahájení civilnej mobilizácie by prijala vláda
+alebo príslušný štátny orgán, zvyčajne na základe odporúčaní bezpečnostných a
+krízových
+
+štábov.
+
+Toto
+
+rozhodnutie
+
+by
+46
+
+bolo
+
+ihneď
+
+oznámené
+
+verejnosti
+
+prostredníctvom rôznych komunikačných kanálov, ako sú médiá, internet a systémy
+hromadného informovania, s dôrazom na zabezpečenie, aby boli všetci občania
+informovaní o situácii a očakávaných krokoch. Následne by boli aktivované lokálne
+orgány štátnej správy, obce a vyššie územné celky, ktoré by v spolupráci s
+ministerstvami a inými ústrednými orgánmi štátnej správy koordinovali prípravu a
+realizáciu mobilizačných plánov. Tieto orgány by identifikovali a mobilizovali potrebné
+zdroje, ako sú ubytovacie kapacity, dopravné prostriedky, zdravotnícke zariadenia,
+potravinové zásoby a iné materiálne a logistické zdroje potrebné na podporu obranného
+úsilia alebo na zmiernenie dôsledkov krízových situácií. Zároveň by boli aktivované
+dobrovoľnícke skupiny a organizácie občianskej spoločnosti, ktoré by poskytovali
+podporu v rôznych oblastiach, vrátane poskytovania prvej pomoci, pomoci pri
+evakuácii, distribúcii základných potrieb, ako aj v oblasti psychosociálnej podpory
+postihnutému obyvateľstvu. Dôležitým aspektom civilnej mobilizácie by bolo aj
+školenie a informovanie občanov o tom, ako postupovať v krízových situáciách, ako
+poskytovať základnú prvú pomoc a ako efektívne komunikovať so záchrannými a
+bezpečnostnými službami. Uskutočnené by boli špecifické cvičenia a simulácie, ktoré
+by občanom poskytli praktické zručnosti a vedomosti potrebné na čo najlepšie zvládanie
+mimoriadnych situácií. V prípade potreby by civilné orgány a organizácie pracovali v
+tesnej spolupráci s vojenskými a bezpečnostnými silami, zabezpečujúc koordinovanú
+reakciu na krízové situácie. Táto spolupráca by zahŕňala výmenu informácií, spoločné
+plánovanie a vykonávanie operácií, ako aj podporu vojenských úloh civilnými
+kapacitami. Po ukončení krízovej situácie alebo potreby mobilizácie by nasledoval
+postupný proces demobilizácie, pričom by sa zdroje a kapacity vrátili do normálneho
+stavu fungovania. Tento proces by zahŕňal hodnotenie využitia zdrojov, analýzu
+efektivity mobilizačných opatrení a identifikáciu oblastí na zlepšenie. Cieľom by bolo
+zabezpečiť, že všetky zainteresované strany – od štátnej správy až po lokálne komunity
+– získajú cenné skúsenosti, ktoré by mohli byť využité pri plánovaní a realizácii
+budúcich mobilizačných aktivít.
+Počas demobilizačnej fázy by sa tiež venovala pozornosť sociálnej a
+psychologickej podpore občanov, ktorí boli mobilizáciou ovplyvnení, s cieľom zmierniť
+potenciálne negatívne dopady na jednotlivcov a komunity.
+Prípadná hospodárska mobilizácia na Slovensku, by bola komplexným procesom,
+zameraným na prerozdelenie a maximalizáciu využitia hospodárskych zdrojov,
+výrobných kapacít a pracovnej sily krajiny v prospech národnej obrany a bezpečnosti.
+47
+
+Začala by sa zhodnotením potreby rýchleho zvýšenia výroby obranného materiálu,
+podpory logistiky a zabezpečenia potrieb obyvateľstva v čase krízy alebo vojenského
+konfliktu.
+
+Rozhodnutie
+
+o
+
+spustení
+
+hospodárskej
+
+mobilizácie
+
+by
+
+vyžadovalo
+
+koordinovanú akciu na najvyšších úrovniach vlády, zvyčajne na základe odporúčaní
+bezpečnostných rad a obranných plánovacích orgánov. Po tomto rozhodnutí by
+nasledovalo oficiálne oznámenie a vydanie smerníc pre všetky príslušné sektory
+ekonomiky. Hlavnými krokmi by boli identifikácia a audit existujúcich výrobných
+zariadení, surovín, technológií a pracovnej sily potrebnej na zvýšenie produkcie
+obranného a nevyhnutného civilného materiálu. Zahrnulo by to aj určenie podnikov a
+odvetví, ktoré by mohli byť rýchlo preorientované na výrobu potrebnej výbavy, ako sú
+zbrane, munícia, ochranné prostriedky, komunikačné zariadenia a zdravotnícke potreby.
+Následne by boli vydané príkazy pre prerozdelenie zdrojov, vrátane surovín a energie,
+uprednostnenie výrobných liniek a zavedenie pracovných zmien potrebných na
+maximalizáciu produktivity. V niektorých prípadoch by mohlo dôjsť k dočasnému
+znárodneniu alebo prevzatiu súkromných podnikov štátom, aby sa zabezpečila
+efektívnosť výroby podľa národných priorít. Posilnila by sa infraštruktúra pre rýchlu
+logistiku a distribúciu výrobkov, aby sa zabezpečilo, že materiál dosiahne potrebné
+miesta včas. Toto by zahŕňalo optimalizáciu dopravných sietí, skladovacích kapacít a
+riadenie zásob. Kritickým aspektom hospodárskej mobilizácie by mohlo byť tiež
+zabezpečenie dostatočnej pracovnej sily. Zahŕňalo by to presun zamestnancov z menej
+kritických odvetví do kľúčových výrobných oblastí, dočasné zvýšenie pracovných
+hodín, zavedenie zmien alebo aj povolávanie dôchodcov s kritickými zručnosťami späť
+do práce. Počas celého procesu by bolo nevyhnutné udržiavať pevnú komunikáciu s
+verejnosťou, aby sa zabezpečila transparentnosť a zachovala sa podpora občanov.
+Zároveň by sa musela zvýšiť kybernetická a fyzická bezpečnosť kritických výrobných a
+zásadných zariadení, aby sa predišlo sabotážam alebo útokom, ktoré by mohli narušiť
+výrobu a distribúciu.
+Po ukončení krízovej situácie by nasledoval proces postupného návratu k
+normálnemu hospodárskemu fungovaniu. Tento proces by zahŕňal revíziu a hodnotenie
+vykonaných krokov hospodárskej mobilizácie, identifikáciu najefektívnejších postupov
+a stratégií, ako aj oblastí, ktoré by bolo potrebné zlepšiť. Zároveň by sa začal postupný
+návrat k mierovému hospodárstvu, vrátane obnovy civilnej výroby, uvoľňovania
+zdrojov a materiálov späť do bežného obchodného toku a demobilizácie pracovnej sily
+prerozdelením späť do ich pôvodných alebo nových pozícií v civilnom sektore.
+48
+
+4.3 Výzvy v spolupráci medzi civilnými a vojenskými štruktúrami
+počas mobilizácie
+Prípadná vojenská mobilizácia na Slovensku by priniesla celý rad výziev a
+problémov, ktoré by bolo potrebné riešiť, aby bol celý proces účinný a efektívny.
+Jedným z hlavných problémov by mohla byť logistika, vrátane zabezpečenia
+dostatočného množstva vybavenia, zbraní, munície a iných materiálov potrebných pre
+mobilizované jednotky. Zabezpečenie rýchlej a efektívnej distribúcie týchto zdrojov k
+správnym miestam by bolo náročné, najmä v situácii, keď by existovali potenciálne
+hrozby pre dopravnú infraštruktúru. Ďalším významným problémom by bola
+komunikácia, a to nielen technická stránka zabezpečenia spoľahlivých komunikačných
+kanálov medzi vojenskými jednotkami a medzi vojenskými a civilnými orgánmi, ale aj
+komunikácia s verejnosťou. Zabezpečenie presného a včasného informovania občanov o
+situácii, požiadavkách na nich a o tom, ako môžu prispieť k obrannej snahy, by bolo
+kľúčové pre udržanie verejnej dôvery a morálky. Problémom by mohla byť aj samotná
+pripravenosť a dostupnosť rezerv. Vzhľadom na to, že mnoho občanov nemá základný
+vojenský, vznikla by tak potreba intenzívneho a rýchleho výcviku, aby boli jednotlivci
+schopní efektívne plniť pridelené úlohy. Toto by mohlo spôsobiť oneskorenia a mohlo
+by byť obzvlášť problematické, ak by situácia vyžadovala okamžitú mobilizáciu. Ďalšie
+výzvy by súviseli s koordináciou medzi rôznymi zložkami obranného systému a medzi
+civilnými a vojenskými orgánmi. Zabezpečenie efektívnej a harmonizovanej spolupráce
+by bolo nevyhnutné, ale zároveň by mohlo byť komplikované rozdielnymi protokolmi,
+praxou a prioritami. Psychologický a sociálny vplyv pôsobiaci na obyvateľstvo by
+mohol predstavovať významný problém. Mobilizácia by mohla vyvolať stres, úzkosť a
+neistotu medzi občanmi, čo by mohlo mať dopad na verejnú morálku a spoločenskú
+súdržnosť. Zabezpečenie adekvátnej psychologickej podpory a udržiavanie pozitívneho
+postoja by bolo kľúčové, ale zároveň náročné.
+V súvislosti s predpokladanými problémami v rámci prípadnej civilnej
+mobilizácie na území Slovenska, by sme mohli naraziť na viaceré výzvy a problémy,
+ktoré by mohli ovplyvniť jej plynulý priebeh. Jedným z predpokladaných problémov by
+mohla byť koordinácia medzi rôznymi úrovňami vlády a súkromným sektorom.
+Vzhľadom na rozsiahly rozsah a komplexnosť potrebných operácií by efektívna
+koordinácia a komunikácia mohli byť výzvou, najmä pri zabezpečovaní, že všetky
+relevantné orgány a organizácie majú jasné usmernenia a sú schopné efektívne
+49
+
+spolupracovať. Ďalším problémom by mohla byť logistika, najmä zabezpečenie
+dostatočného množstva zdrojov a materiálu potrebného na rýchlu reakciu v krízových
+situáciách. Zásobovacie reťazce by mohli byť preťažené alebo prerušené, čo by
+spôsobilo oneskorenia pri distribúcii zásob, medicínskeho materiálu, potravín a iných
+nevyhnutných zásob. Pripravenosť a vzdelávanie obyvateľstva by tiež mohlo
+predstavovať výzvu. Bez dostatočného školenia a osvety by mohla byť reakcia
+civilného obyvateľstva na mobilizačné pokyny neefektívna alebo spomalená.
+Zabezpečenie, aby občania poznali svoje úlohy a zodpovednosti počas mobilizácie, je
+kritické pre úspech výsledného úsilia. V neposlednom rade by mohli vzniknúť problémy
+súvisiace s kybernetickou a informačnou bezpečnosťou. V dnešnej digitálne prepojenej
+dobe by mohli byť komunikačné siete a databázy vystavené kybernetickým útokom,
+ktoré by mohli narušiť mobilizačné úsilie a šíriť dezinformácie, čím by sa oslabilo
+verejné vnímanie a podpora mobilizačných opatrení. Kľúčové by bolo tiež budovanie
+silnej komunikácie a vzťahov s verejnosťou, aby sa zabezpečila podpora a spolupráca
+zo strany občanov v čase potreby.
+Na Slovensku by predpokladaná hospodárska mobilizácia mohla naraziť na rad
+výziev a problémov, ktoré by bolo potrebné prekonať. Jedným z hlavných problémov
+by mohla byť rýchla adaptácia výrobných kapacít a priemyselných odvetví na potreby
+obrany. Mnohé podniky nemusia byť pripravené na okamžitú zmenu výrobných
+procesov alebo nemusia mať dostatočné technologické vybavenie a odborné znalosti na
+výrobu špecifického vojenského materiálu. Ďalším problémom by mohol byť
+nedostatok surovín a materiálov potrebných na zvýšenú produkciu. Globálne
+dodávateľské reťazce môžu byť nestabilné alebo prerušené, čo by spôsobilo
+oneskorenia a zvýšenie nákladov. Zabezpečenie alternatívnych zdrojov alebo lokálna
+produkcia surovín by mohli vyžadovať čas a investície, ktoré by mohli spomaliť
+celkový proces mobilizácie. Zabezpečenie dostatočnej pracovnej sily na zvýšenie
+produkcie by tiež predstavovalo výzvu, najmä v prípade, že mobilizácia vyžaduje
+odborné znalosti alebo zručnosti, ktoré nie sú v dostatočnej miere dostupné na trhu
+práce. Rekvalifikácia a školenie zamestnancov by vyžadovali čas a zdroje, pričom
+zvýšená pracovná záťaž by mohla mať negatívny vplyv na morálku a zdravie
+pracovníkov. Riadenie a koordinácia rozsiahlej mobilizácie by tiež mohli byť
+komplikované z dôvodu potreby efektívnej komunikácie medzi vládnymi agentúrami,
+podnikmi, dodávateľmi a spotrebiteľmi. Zabezpečenie transparentnosti a efektívnosti v
+prerozdeľovaní zdrojov by vyžadovalo komplexné plánovacie a riadiace systémy, ktoré
+50
+
+možno v čase vyhlásenia mobilizácie neboli plne implementované alebo otestované.
+Finančné aspekty hospodárskej mobilizácie by mohli predstavovať ďalšiu výzvu.
+Zvýšené výdavky na obranu a podporu výroby by mohli vyvíjať tlak na štátny rozpočet
+a ekonomiku ako celok, čo by mohlo viesť k inflácii alebo zvýšenému štátnemu dlhu.
+Zabezpečenie dostatočného financovania pre mobilizované podniky a odvetvia by si
+vyžadovalo efektívne finančné nástroje a politiky. Napokon sú to sociálne a
+ekonomické dopady hospodárskej mobilizácie by mohli vyvolať verejnú neistotu a
+odpor. Zmeny v zamestnaní, zvýšenie cien tovarov a služieb, a potenciálne obmedzenia
+v bežnom živote by mohli mať negatívny vplyv na spoločnosť a vyžadovali by silnú
+verejnú komunikačnú kampaň a opatrenia na zmiernenie týchto dopadov.
+Celkovo by úspešná hospodárska mobilizácia na Slovensku vyžadovala
+premyslené strategické plánovanie, pružnosť v adaptácii na meniace sa podmienky.
+
+51
+
+5 METODOLÓGIA
+V rámci metodológie praktickej časti práce sa zamýšľame nad rôznymi aspektmi
+prieskumu, ktorý sme realizovali na tému brannej prípravy obyvateľov. Tento prieskum
+bol zameraný na zhromaždenie a analýzu dát týkajúcich sa postojov, skúseností a
+vnímania brannej prípravy medzi obyvateľstvom. Nižšie sú podrobne opísané jednotlivé
+časti metodológie tohto prieskumu.
+Predmetom praktickej časti je hodnotenie a analýza postojov a vnímania brannej
+prípravy obyvateľstva. Zameriavame sa na to, ako obyvatelia vnímajú úroveň brannej
+prípravy, ich osobnú pripravenosť na krízové situácie, ako aj ich názory na povinnú
+vojenskú službu a iné aspekty súvisiace s obrannou prípravou.
+
+5.1 Ciele prieskumu
+Ciele prieskumu zahŕňajú:
+1. Zistiť, aký je stupeň informovanosti obyvateľstva o brannej príprave.
+2. Posúdiť, ako obyvatelia hodnotia súčasnú úroveň brannej prípravy v krajine.
+3. Identifikovať postoj obyvateľstva k povinnosti brannej prípravy a povinnej
+vojenskej službe.
+4. Zozbierať názory na mediálne zobrazenie brannej prípravy a jej vnímanie
+verejnosťou.
+
+5.2 Metóda prieskumu
+Použitá metóda prieskumu zahŕňa kvantitatívny prístup prostredníctvom
+distribúcie štruktúrovaného dotazníka. Tento prístup umožňuje zhromaždiť numerické
+údaje, ktoré sú následne analyzované na získanie objektívnych záverov o názoroch a
+postojoch respondentov.
+
+5.3 Charakteristika vzorky
+Z dotazníkového prieskumu sme získali celkovo 386 odpovedí respondentov, čo
+predstavuje reprezentatívnu vzorku obyvateľstva z hľadiska veku, pohlavia a vzdelania.
+Výber respondentov bol realizovaný s cieľom získať širokospektrálne pohľady na
+brannú prípravu.
+
+52
+
+5.4 Organizácia prieskumu, zber a spracovanie dát
+Dotazník sme spracovali a rozoslali na začiatku marca 2024. Na distribúciu
+dotazníka boli využité digitálne komunikačné kanály, vrátane emailu a aplikácií ako
+Messenger, Viber, WhatsApp, čím sme oslovili rôznych respondentov. Tento prístup
+umožnil rýchlu a efektívnu distribúciu dotazníka, ako aj pohodlné zberanie odpovedí od
+respondentov. Získané údaje boli následne analyzované s cieľom identifikovať hlavné
+trendy, postoje a názory týkajúce sa brannej prípravy medzi obyvateľstvom.
+Táto metodológia nám poskytla komplexný rámec pre zber a analýzu dát
+potrebných na pochopenie aktuálnych postojov a vnímania brannej prípravy medzi
+obyvateľstvom, čo je kľúčové pre formuláciu relevantných odporúčaní pre prax.
+
+5.5 Vyhodnotenie dotazníkov
+Otázka č.1 Aké je Vaše pohlavie?
+Na otázku týkajúcu sa pohlavia respondentov sme zistili, že 69,1% respondentov
+sú muži a 30,9% sú ženy. Toto rozdelenie naznačuje výraznú prevahu mužov v našej
+vzorke. Takéto zistenie môže mať vplyv na interpretáciu ďalších odpovedí, najmä ak by
+témy prieskumu boli vnímané alebo zažívané odlišne mužmi a ženami. Prevaha mužov
+v prieskume môže tiež naznačovať, že téma alebo spôsob, akým bol prieskum
+distribuovaný, mohol byť viac prístupný alebo atraktívny pre mužov, alebo že muži
+mali väčšiu motiváciu odpovedať. Toto zistenie by mohlo byť relevantné pre
+organizátorov prieskumu alebo pre tých, ktorí sa snažia dosiahnuť širšie a viac
+vyvážené demografické zastúpenie v budúcich prieskumoch na podobné témy. Je
+dôležité zvážiť, ako tento pomer pohlaví môže ovplyvniť vnímanie a postoj k otázkam
+skúmaným v prieskume, a zohľadniť ho pri analýze a interpretácii výsledkov.
+
+Graf 1 Pohlavie respondentov
+Zdroj: vlastné spracovanie
+53
+
+Otázka č.2 Aký je Váš vek?
+Na danom grafe, ktorý zobrazuje vek respondentov nášho prieskumu, môžeme
+vidieť, že najmladšia veková kategória 18-25 rokov predstavuje 21% respondentov, čo
+ukazuje na aktívnu účasť mladej generácie v prieskume. Nasleduje veková skupina 2630 rokov s podielom 16,1%, čo naznačuje, že aj ľudia v raných rokoch ich
+profesionálneho života majú záujem vyjadriť svoje názory na brannú prípravu. Veková
+kategória 31-35 rokov je zastúpená 13,2% respondentov, čo ukazuje na mierne nižšiu
+účasť v tejto demografickej skupine. Respondenti vo vekovej skupine 36-40 rokov
+tvoria 15,8% vzorky, čo odráža stále vysokú angažovanosť jedincov v strednom veku.
+Skupina 41-55 rokov je zastúpená 20,2%, čo je druhá najväčšia skupina v prieskume,
+naznačujúc významný záujem o brannú prípravu medzi ľuďmi v tomto vekovom
+rozpätí. Napokon, respondentov vo veku 56 a viac rokov predstavuje 13,7%, čím sa
+potvrdzuje účasť aj staršej generácie v prieskume.
+
+Graf 2 Vek respondentov
+Zdroj: vlastné spracovanie
+
+Otázka č.3 Aké je Vaše najvyššie dosiahnuté vzdelanie?
+Na grafe týkajúcom sa najvyššieho dosiahnutého vzdelania respondentov môžeme
+vidieť, že vzdelanostná štruktúra našej vzorky je pomerne diverzifikovaná. Menší podiel
+respondentov, 8,5%, uviedol, že ich najvyšším dosiahnutým vzdelaním je základné
+vzdelanie. Toto číslo môže naznačovať, že väčšina našich respondentov pokračovala vo
+vzdelávaní za hranice základnej školy. Stredoškolské vzdelanie bez maturity dosiahlo
+9,3% respondentov, čo naznačuje, že relatívne malý počet ľudí v našej vzorke ukončil
+svoje vzdelávanie na tejto úrovni. Výrazne väčší podiel, 45,2%, tvoria respondenti so
+stredoškolským vzdelaním s maturitou. Toto je dominantná skupina v našej vzorke, čo
+ukazuje na vysoký podiel ľudí, ktorí dosiahli aspoň úroveň stredoškolského vzdelania s
+maturitou. Vysokoškolské vzdelanie, ktoré predstavuje 37% respondentov, značne
+prispieva k celkovej vzdelanostnej úrovni našej vzorky. Vysoký podiel ľudí s
+54
+
+vysokoškolským vzdelaním poukazuje na to, že veľká časť respondentov dosiahla
+vyššie vzdelanie, čo môže ovplyvniť ich postoj k otázkam skúmaným v prieskume.
+
+Graf 3 Najvyššie dosiahnuté vzdelanie respondentov
+Zdroj: vlastné spracovanie
+
+Otázka č.4 Ako často ste si vedomí možných hrozieb a krízových situácií, ktoré by
+mohli postihnúť vašu krajinu?
+Na grafe týkajúcom sa vedomosti o možných hrozbách a krízových situáciách,
+ktoré by mohli postihnúť našu krajinu, sme zaznamenali, že 18,4% respondentov
+uviedlo, že sú si takýchto hrozieb vedomí pravidelne. Tento podiel poukazuje na
+skupinu ľudí, ktorí majú vysokú mieru ostražitosti a sú pravidelne informovaní o
+potenciálnych rizikách. Ďalších 15,8% respondentov uviedlo, že sú si týchto hrozieb
+vedomí často, čo znamená, že aj táto skupina má relatívne vysokú úroveň
+informovanosti o potenciálnych krízach, hoci možno nie s takou pravidelnosťou ako
+skupina, ktorá uviedla „pravidelne". Skupina, ktorá odpovedala, že sú si hrozieb a kríz
+vedomí občas, predstavuje 23,1% našej vzorky, a je to najväčšia skupina. Tento údaj
+naznačuje, že značný počet ľudí má aspoň základnú úroveň informovanosti o hrozbách
+a krízach, ale ich pozornosť k týmto otázkam nie je konštantná. Zriedkavú vedomosť o
+hrozbách a krízach uviedlo 23,6% respondentov, čo je podobne veľká skupina ako tá,
+ktorá odpovedala „občas". Tento podiel ukazuje na ľudí, ktorí sú si možných rizík
+menej vedomí, a možno sa o nich dozvedia len sporadicky alebo v prípade významnej
+krízy. Najmenšiu skupinu tvoria respondenti, ktorí uviedli, že si sú možných hrozieb a
+kríz „nikdy" vedomí, čo predstavuje 19,2% vzorky. Tento údaj poukazuje na relatívne
+veľký podiel populácie, ktorý nie je aktívne informovaný o potenciálnych rizikách,
+ktoré by mohli ohroziť krajinu.
+
+55
+
+Graf 4 Vedomosť hrozieb a kríz
+Zdroj: vlastné spracovanie
+
+Otázka č.5 Ako hodnotíte súčasnú úroveň brannej prípravy v našom štáte na škále od
+1 do 10?
+Pri hodnotení súčasnej úrovne brannej prípravy v našom štáte na škále od 1 do 10
+sme zaznamenali rôznorodé odpovede, ktoré odrážajú zmiešaný pohľad respondentov
+na túto otázku. Najnižšie hodnotenie, 1, udalo 7% respondentov, čo naznačuje, že malý,
+ale významný podiel ľudí vníma úroveň brannej prípravy veľmi kriticky. S hodnotením
+2 sa stotožnilo 5,2% respondentov, čo spolu s predchádzajúcou kategóriou poukazuje na
+istý stupeň nespokojnosti. Pomerne vysoký podiel, 15,5%, dal hodnotenie 3, čo
+signalizuje, že táto skupina má vážne výhrady k súčasnej úrovni brannej prípravy.
+Skupina, ktorá hodnotila úroveň brannej prípravy ako 4, tvorí 14,5% našej vzorky, čím
+sa potvrdzuje trend nižšieho hodnotenia prípravy. Najčastejšie zvolené hodnotenie, 5, si
+vybralo 18,4% respondentov, čo naznačuje, že najväčšia skupina považuje úroveň
+brannej prípravy za priemernú. Toto „stredné" hodnotenie môže odrážať vnímanie, že
+hoci sú určité aspekty prípravy adekvátne, existuje významný priestor pre zlepšenie. S
+hodnotením 6 a 7 sa stotožnilo 13,7% respektíve 11,7% respondentov, čo poukazuje na
+to, že niektorí respondenti vnímajú brannú prípravu pozitívnejšie, ale stále vidia oblasti
+na zlepšenie. Hodnotenia 8, 9 a 10, ktoré predstavujú najvyššie možné hodnotenie
+úrovne prípravy, si vybralo 6%, 3,9% a 4,1% respondentov, čo ukazuje, že malý podiel
+respondentov má veľmi pozitívny názor na súčasnú úroveň brannej prípravy v štáte.
+
+56
+
+Graf 5 Úroveň brannej prípravy
+Zdroj: vlastné spracovanie
+
+Otázka č.6 Osobne sa cítite pripravený na prípadné krízové situácie vďaka
+existujúcim programom brannej prípravy?
+Pri posudzovaní osobnej pripravenosti na prípadné krízové situácie vďaka
+existujúcim programom brannej prípravy sme zistili, že názory respondentov sa
+rozchádzajú. Celkovo 45,5% respondentov uviedlo, že sa cítia pripravení na prípadné
+krízové situácie, čo naznačuje, že takmer polovica našej vzorky vníma existujúce
+programy brannej prípravy ako účinné v zvyšovaní ich osobnej pripravenosti. Na druhej
+strane, väčšina respondentov, 55,5%, uviedla, že sa necítia pripravení na krízové
+situácie, čo poukazuje na to, že existuje významný počet ľudí, ktorí majú pochybnosti o
+účinnosti súčasných programov brannej prípravy alebo o svojej schopnosti uplatniť
+naučené postupy v praxi.
+
+Graf 6 Osobná pripravenosť na krízy
+Zdroj: vlastné spracovanie
+
+Otázka č.7 Myslíte si, že branná príprava by mala byť povinná pre všetkých občanov?
+Pri skúmaní názorov na otázku, či by branná príprava mala byť povinná pre
+všetkých občanov, sme zistili, že väčšina respondentov, 55,9%, podporuje myšlienku
+57
+
+povinnej brannej prípravy. Toto zistenie naznačuje, že viac ako polovica našej vzorky
+vníma brannú prípravu ako kľúčový faktor v zabezpečení osobnej a kolektívnej
+bezpečnosti, a verí, že by mala byť súčasťou základnej pripravenosti každého občana.
+Na druhej strane, 44,1% respondentov sa domnieva, že branná príprava by nemala byť
+povinná pre všetkých občanov. Tento pomer odporcov poukazuje na značný počet ľudí,
+ktorí možno preferujú dobrovoľnú účasť na brannej príprave alebo majú obavy z
+možných negatívnych aspektov povinnej prípravy, ako sú náklady, časová náročnosť
+alebo možné obmedzenie osobnej slobody. Tento rozdelený názor medzi respondentmi
+odzrkadľuje komplexnú a roumanitú povahu debaty o brannej príprave. Podpora
+povinnej brannej prípravy môže byť motivovaná presvedčením, že v dnešnom svete
+plnom neistôt a potenciálnych hrozieb je nevyhnutné, aby bol každý občan vybavený
+základnými znalosťami a schopnosťami na ochranu seba a svojho spoločenstva.
+
+Graf 7 Názor na povinnú brannú prípravu
+Zdroj: vlastné spracovanie
+
+Otázka č.8 Používate na získavanie informácií o príprave na krízové situácie oficiálne
+webové stránky vládnych inštitúcií?
+Pri preskúmaní, ako respondenti získavajú informácie o príprave na krízové
+situácie, sme zistili, že 45,9% z nich využíva oficiálne webové stránky vládnych
+inštitúcií. Tento údaj poukazuje na pomerne vysokú mieru dôvery a využívania
+vládnych zdrojov ako dôležitých kanálov pre informácie týkajúce sa bezpečnostnej
+prípravy. Títo respondenti pravdepodobne vnímajú vládne webové stránky ako
+spoľahlivé, autoritatívne a aktualizované zdroje, ktoré poskytujú dôležité informácie a
+pokyny pre prípad krízových situácií. Naopak, väčšina respondentov, 54,1%, uviedla, že
+nevyužívajú oficiálne webové stránky vládnych inštitúcií na získavanie takýchto
+informácií. Tento nález naznačuje, že existuje značná časť populácie, ktorá sa obracia
+na iné zdroje informácií alebo možno aktívne nehľadá informácie o príprave na krízové
+situácie vôbec.
+58
+
+Graf 8 Získavanie informácií o príprave
+Zdroj: vlastné spracovanie
+
+Otázka č.9 Myslíte si, že mediálne zobrazenie brannej prípravy v krajine je adekvátne
+a prispieva k jej pozitívnemu vnímaniu?
+Pri hodnotení, ako mediálne zobrazenie brannej prípravy v krajine prispieva k jej
+pozitívnemu vnímaniu, sme zistili, že názory sú pomerne rozdelené. Celkovo 47,3%
+respondentov sa domnieva, že mediálne zobrazenie brannej prípravy je adekvátne a že
+toto zobrazenie prispieva k pozitívnemu vnímaniu brannej prípravy medzi občanmi.
+Tento pomer naznačuje, že takmer polovica našej vzorky vníma súčasnú mediálnu
+prezentáciu brannej prípravy ako vhodnú a efektívnu v informovaní verejnosti a v
+budovaní pozitívneho vnímania jej dôležitosti a účinnosti. Naopak, väčšina
+respondentov, 52,7%, sa domnieva, že mediálne zobrazenie brannej prípravy nie je
+adekvátne a neprispieva dostatočne k jej pozitívnemu vnímaniu. Tento výsledok
+poukazuje na to, že existuje významná časť populácie, ktorá má obavy alebo kritiku
+voči spôsobu, akým sú informácie o brannej príprave prezentované v médiách.
+
+Graf 9 Mediálne zobrazenie brannej prípravy
+Zdroj: vlastné spracovanie
+
+Otázka č.10 Považujete brannú prípravu na školách za nevyhnutnú?
+Pri posudzovaní postoja k nevyhnutnosti brannej prípravy na školách sme zistili,
+že 53,2% respondentov považuje brannú prípravu na školách za nevyhnutnú. Tento
+pomer ukazuje, že viac ako polovica našej vzorky vníma význam brannej prípravy v
+59
+
+rámci školského vzdelávacieho programu ako kľúčový pre rozvoj základných znalostí a
+schopností potrebných na zvládanie potenciálnych krízových situácií. Títo respondenti
+pravdepodobne uznávajú, že školy hrajú dôležitú úlohu v príprave mladých ľudí na
+rôzne výzvy a že branná príprava môže prispieť k lepšej informovanosti, odolnosti a
+bezpečnosti študentov a žiakov. Na druhej strane, 46,8% respondentov nevidí brannú
+prípravu na školách ako nevyhnutnú. Tento podiel naznačuje, že takmer polovica
+populácie má iný názor na začlenenie brannej prípravy do školských osnov.
+
+Graf 10 Branná príprava na školách
+Zdroj: vlastné spracovanie
+
+Otázka č.11 Myslíte si, že opätovné zavedenie povinnej vojenskej služby by zlepšilo
+brannú prípravu obyvateľstva?
+Pri preskúmaní názorov na opätovné zavedenie povinnej vojenskej služby a jej
+potenciálny vplyv na zlepšenie brannej prípravy obyvateľstva sme zistili, že 54,3%
+respondentov podporuje túto myšlienku. Toto zastúpenie naznačuje, že viac ako
+polovica našej vzorky vníma povinnú vojenskú službu ako efektívny nástroj na
+posilnenie obranných schopností a pripravenosti obyvateľstva. Respondenti, ktorí
+súhlasia s opätovným zavedením povinnej vojenskej služby, pravdepodobne veria, že
+by to poskytlo dôležité výcvikové príležitosti, ktoré by pomohli občanom lepšie čeliť
+potenciálnym hrozbám a zvýšiť celkovú národnú bezpečnosť. Na druhej strane, 45,7%
+respondentov sa domnieva, že opätovné zavedenie povinnej vojenskej služby by
+nezlepšilo brannú prípravu obyvateľstva. Tento pohľad môže odrážať obavy z možných
+negatívnych dôsledkov, ako sú narušenie osobného a profesionálneho života mladých
+ľudí, otázky týkajúce sa osobnej slobody a práv, alebo pochybnosti o efektívnosti
+tradičnej vojenskej prípravy v súčasnom bezpečnostnom kontexte.
+
+60
+
+Graf 11 Povinná vojenská služba
+Zdroj: vlastné spracovanie
+
+Otázka č.12 Myslíte si, že naša krajina je dostatočne pripravená na možné krízy z
+hľadiska obranných schopností obyvateľstva?
+Pri posudzovaní názoru respondentov na celkovú pripravenosť krajiny na možné
+krízy z hľadiska obranných schopností obyvateľstva sme zistili, že 46,7% účastníkov
+prieskumu cíti, že naša krajina je na takéto situácie dostatočne pripravená. Tento pomer
+odráža významnú časť populácie, ktorá má dôveru v súčasné obranné a krízové plány a
+schopnosti, veriac, že krajina má potrebné zdroje, stratégie a prípravu na to, aby
+efektívne čelila rôznym hrozbám. Naopak, väčšina, 53,3% respondentov, sa domnieva,
+že naša krajina nie je dostatočne pripravená na možné krízy, pokiaľ ide o obranné
+schopnosti obyvateľstva. Tento výsledok naznačuje, že existuje významný počet ľudí,
+ktorí majú obavy o úroveň pripravenosti krajiny a možno vnímajú určité nedostatky v
+plánovaní, vzdelávaní, zdrojoch alebo implementácii prípravných opatrení
+
+Graf 12 Pripravenosť krajiny na krízy
+Zdroj: vlastné spracovanie
+
+Otázka č.13 Cítite sa dostatočne informovaní o tom, ako postupovať v prípade
+mobilizácie alebo výnimočnej krízovej situácie?
+Pri skúmaní, do akej miery sa respondenti cítia informovaní o tom, ako
+postupovať v prípade mobilizácie alebo výnimočnej krízovej situácie, sme zistili, že
+
+61
+
+43,2% účastníkov prieskumu má pocit, že sú na takéto situácie dostatočne pripravení.
+Táto skupina respondentov teda verí, že má prístup k potrebným informáciám a je
+dostatočne informovaná o postupoch, ktoré by mali byť dodržané v prípade mobilizácie
+alebo núdzovej situácie, čo ukazuje na určitú úroveň dôvery v komunikačné kanály a
+informačné zdroje dostupné verejnosti. Na druhej strane, väčšina respondentov, 56,8%,
+sa domnieva, že nie sú dostatočne informovaní o takýchto postupoch. Tento výsledok
+odhaluje, že značná časť populácie má pocit nedostatočnej informovanosti, čo môže
+viesť k obavám z ich schopnosti adekvátne reagovať v prípade reálnej krízy.
+Nedostatočná informovanosť môže byť dôsledkom viacerých faktorov, vrátane
+možného nedostatku jasnosti, dostupnosti alebo viditeľnosti informácií poskytovaných
+vládnymi a krízovými manažérskymi organizáciami.
+
+Graf 13 Informovanosť o mobilizácii.
+Zdroj: vlastné spracovanie
+
+5.6 Celkové vyhodnotenie
+Celkové vyhodnotenie dotazníka brannej prípravy obyvateľov odhaľuje zložitý
+obraz vnímania a postojov k téme obrany a prípravy na krízové situácie. Z údajov je
+zrejmé, že existuje značná miera rozdielnosti medzi respondentmi v otázkach týkajúcich
+sa povinnosti brannej prípravy, využívania vládnych zdrojov na získavanie informácií,
+mediálneho zobrazenia brannej prípravy, ako aj v vnímaní pripravenosti krajiny a jej
+obyvateľstva na krízové situácie.
+Významným zistením je, že viac ako polovica respondentov má obavy o súčasnú
+úroveň brannej prípravy a cíti nedostatočnú informovanosť o postupoch v prípade
+mobilizácie alebo výnimočných krízových situácií. Tieto obavy naznačujú potrebu
+posilniť informačné kampane a vzdelávacie iniciatívy zamerané na zlepšenie
+všeobecnej pripravenosti a povedomia o obranných opatreniach.
+
+62
+
+Na druhej strane, pozitívne je, že značná časť respondentov považuje brannú
+prípravu za dôležitú súčasť vzdelávania a je otvorená povinným programom vojenskej
+služby ako spôsobu na zlepšenie obranných schopností. Táto podpora poukazuje na
+uznávanie významu systematickej prípravy a potreby zabezpečiť, aby občania boli
+vybavení potrebnými znalosťami a zručnosťami čeliť potenciálnym hrozbám. Výsledky
+tiež odhalili rozdelené názory na úlohu médií v informovanosti o brannej príprave a jej
+mediálnom zobrazení. Kritika smerujúca k nedostatočnému alebo neadekvátnemu
+pokrytiu témy brannej prípravy v médiách naznačuje dôležitosť práce na zlepšení
+komunikácie a zvyšovaní pozitívneho vnímania brannej prípravy medzi verejnosťou.
+Celkovo dotazník poukazuje na potrebu integrovaného prístupu k brannej
+príprave, ktorý zahŕňa zlepšenie vzdelávacích programov, posilnenie verejnej
+komunikácie a zvýšenie účasti občanov na prípravných aktivitách. Je nevyhnutné zvážiť
+obavy a návrhy občanov, aby sa zabezpečilo, že prípravné opatrenia sú relevantné,
+prístupné a prispievajú k zvýšeniu celkovej bezpečnosti a odolnosti spoločnosti.
+Zároveň je dôležité pokračovať vo výskume a dialógu o tom, ako najlepšie čeliť
+výzvam súčasného bezpečnostného prostredia, pričom je kľúčové zapojiť všetky
+segmenty populácie do procesu brannej prípravy a krízového manažmentu.
+
+5.7 Odporúčania pre prax
+Na základe celkového vyhodnotenia dotazníka brannej prípravy obyvateľov je
+možné navrhnúť nasledujúce odporúčania pre prax:
+1. Zintenzívniť informačné a vzdelávacie kampane: Je nevyhnutné zvýšiť úsilie o
+informovanie verejnosti o dôležitosti brannej prípravy a o tom, ako sa pripraviť
+na krízové situácie. Vládne inštitúcie by mali využívať rôzne komunikačné
+kanály, vrátane sociálnych médií, tradičných médií a verejných podujatí, na
+šírenie presných a prístupných informácií.
+2. Zlepšiť mediálne zobrazenie brannej prípravy: Spolupráca s médiami na
+zabezpečení vyváženého a pozitívneho pokrytia brannej prípravy môže pomôcť
+zlepšiť vnímanie verejnosti a zvýšiť povedomie o jej dôležitosti. Je dôležité
+zabezpečiť, aby mediálne spravodajstvo bolo komplexné, zahŕňalo úspechy a
+výzvy brannej prípravy a poskytovalo konštruktívnu kritiku.
+3. Posilniť vzdelávací obsah brannej prípravy na školách: Integrácia brannej
+prípravy do školských osnov by mala byť vykonávaná citlivo a s dôrazom na
+
+63
+
+význam občianskej ochrany a osobnej bezpečnosti. Programy by mali byť
+prispôsobené veku a schopnostiam študentov a zároveň by mali poskytovať
+praktické zručnosti a znalosti.
+4. Rozšíriť prístupnosť a inkluzivitu prípravných programov: Je dôležité, aby boli
+programy brannej prípravy prístupné a relevantné pre celú populáciu, vrátane
+rôznych vekových skupín, profesijných pozadí a oblastí bydliska. Toto zahŕňa
+prispôsobenie programov pre ľudí so špeciálnymi potrebami a zabezpečenie, že
+sú k dispozícii aj v odľahlých alebo menej rozvinutých oblastiach.
+5. Podporovať dobrovoľnú účasť na brannej príprave: Vytvorenie atraktívnych a
+prístupných dobrovoľných programov môže motivovať väčšiu účasť občanov.
+Poskytnutie certifikátov alebo iných foriem uznania za dokončenie týchto
+programov by mohlo zvýšiť ich atraktivitu.
+6. Zvýšiť spoluprácu medzi vládnymi inštitúciami a občianskou spoločnosťou:
+Efektívna branná príprava vyžaduje koordinovaný prístup, ktorý zahŕňa vládne
+agentúry, neziskové organizácie, vzdelávacie inštitúcie a súkromný sektor.
+Spolupráca môže pomôcť pri výmene osvedčených postupov a zabezpečení, že
+prípravné iniciatívy sú komplexné a dobre koordinované.
+7. Pravidelne hodnotiť a aktualizovať prípravné programy: Aby boli prípravné
+programy účinné, mali by byť pravidelne hodnotené a aktualizované na základe
+súčasných hrozieb a výziev. Využitie spätnej väzby od účastníkov programov a
+analýza nových hrozieb a situácií môže pomôcť zabezpečiť, že programy sú
+relevantné a efektívne.
+Implementáciou týchto odporúčaní je možné zvýšiť celkovú pripravenosť na
+krízy, zlepšiť obranné schopnosti obyvateľstva a posilniť vnímanie brannej prípravy ako
+dôležitej súčasti národnej bezpečnosti.
+
+64
+
+ZÁVER
+Na základe našej diplomovej práce sme dospeli k poznatku, že branná príprava
+obyvateľov predstavuje neoddeliteľnú súčasť obranného systému Slovenskej republiky.
+Analýzou legislatívneho a normatívneho rámca, bezpečnostnej situácie v krajine, ako aj
+úloh a zodpovednosti štátnych inštitúcií a orgánov sme identifikovali kľúčové faktory,
+ktoré formujú základy a teoretické pozadie brannej prípravy. Naše štúdie ukázali, že aj
+napriek existujúcim výzvam v spolupráci medzi civilnými a vojenskými štruktúrami
+počas mobilizácie, Slovenská republika disponuje pevným základom pre efektívnu
+obranu štátu a ochranu jeho obyvateľov.
+Pri formulovaní odporúčaní sme vychádzali z presvedčenia, že zlepšenie obrannej
+prípravy a celkovej bezpečnosti Slovenskej republiky vyžaduje kontinuálnu aktualizáciu
+a adaptáciu na meniace sa bezpečnostné prostredie. Zdôraznili sme význam integrácie
+nových technológií, posilnenia medzinárodnej spolupráce a rozvoja kybernetickej
+bezpečnosti ako kľúčových smerov pre zvyšovanie efektivity obrannej prípravy.
+V konečnom dôsledku náš výskum poukázal na to, že branná príprava obyvateľov nie je
+len o zabezpečení fyzickej obranyschopnosti štátu, ale aj o budovaní spoločenskej
+odolnosti a zodpovednosti jednotlivcov voči bezpečnostným hrozbám. V tejto súvislosti
+sme zdôraznili dôležitosť vzdelávania a osvety v oblasti obrany a bezpečnosti, ako aj
+nutnosť posilňovania povedomia o dôležitosti obrannej prípravy v rámci širšej
+spoločnosti.
+Naša diplomová práca tak prispieva k širšej diskusii o dôležitosti obrannej
+prípravy obyvateľstva v súčasnom bezpečnostnom prostredí a ponúka cenné vstupy pre
+tvorcov politík pri formulácii efektívnejších stratégií obrany a bezpečnosti na
+Slovensku.
+
+65
+
+ZOZNAM POUŽITEJ LITERATÚRY
+BEZPEČNOSTNÁ STRATÉGIA SLOVENSKEJ REPUBLIKY. 2021. Ministerstvo
+obrany Slovenskej republiky [online]. [cit. 2023-11-11]. Dostupné na internete:
+https://www.mosr.sk/data/files/4263_210128-bezpecnostna-strategia-sr-2021.pdf
+BUZALKA, Ján. 2008. Krízový manažment vo verejnej správe. Bratislava: Akadémia
+PZ. ISBN 978-808054-451-5.
+DLHODOBÝ PLÁN ROZVOJA REZORTU MINISTERSTVA OBRANY S
+VÝHĽADOM
+
+DO
+
+republiky [online].
+
+ROKU
+
+2035.
+
+2022. Ministerstvo
+
+[cit.
+
+2024-1-7].
+
+Dostupné
+
+obrany
+
+Slovenskej
+
+na
+
+internete:
+
+https://www.mosr.sk/data/files/4767_dlhodoby-plan-rozvoja-rezortu-ministerstvaobrany-s-vyhladom-do-roku-2035.pdf
+ĎURKECH, Boris a Jozef ŠVARNÝ. 2016. Význam bielej knihy o obrane sr pre
+zaistenie bezpečnosti a obrany štátu [online]. [cit. 2024-1-25]. Dostupné na internete:
+https://bazhum.muzhp.pl/media/files/Kultura_Bezpieczenstwa_Nauka_Praktyka_Reflek
+sje/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2016-tn22/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2016-t-n22-s147166/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2016-t-n22-s147-166.pdf
+GÖRNER, Erik. 2018. Vojenská regrutácia v súčasnom svete.: Branná povinnosť a jej
+uplatnenie [PDF]. Vydavateľstvo Belianum, Univerzita Mateja Bela, Banská Bystrica,
+199
+
+s.
+
+[cit.
+
+2024-3-25].
+
+ISBN
+
+978-80-557-1489-9.
+
+Dostupné
+
+na
+
+internete:
+
+https://publikacie.umb.sk/spolocenske-a-behavioralne-vedy/vojenska-regrutacia-vsucasnom-svete-branna-povinnost-a-jej-uplatnenie.html
+HOFREITER, Ladislav. Bezpečnostné prostredie súčasného sveta. Radim BačuvčíkVeRBuM,
+
+2016.
+
+[cit.
+
+2024-01-07].
+
+Dostupné
+
+z:
+
+http://ak.aos.sk/images/repozitar/volne_dostupne/Bezpecnostne_prostredie_LH_2016.p
+df
+Chronológia vývoja priebehu vojenskej služby. 2005. SME [online]. [cit. 2023-11-22].
+Dostupné na internete: https://domov.sme.sk/c/2520991/chronologia-vyvoja-priebehuvojenskej-sluzby.html
+
+66
+
+KANDRÍK, Matej, Josef PROCHÁZKA a Alexandra PAPRČKOVÁ. 2022. CITIZEN
+PREPAREDNESS TO DEFEND THE STATE AS AN ELEMENT OF THE DEFENSE
+STRATEGY. Obrana a strategie (Defence and Strategy) [online]. 22(1): 131-146 [cit.
+2024-3-24]. DOI: 10.3849/1802-7199.22.2022.01.131-146. ISSN 12146463. Dostupné
+na
+
+internete:
+
+https://www.obranaastrategie.cz/en/archive/citizen-preparedness-to-
+
+defend-the-state-as-an-element-of-the-defense-strategy.html
+KOMUNIKAČNÁ STRATÉGIA REZORTU OBRANY. 2021. Ministerstvo obrany
+Slovenskej
+
+republiky [online].
+
+[cit.
+
+Dostupné
+
+2024-3-25].
+
+na
+
+internete:
+
+https://www.mosr.sk/data/files/4298_komunikacna-strategia-rezortuobrany_web_minion-pro.pdf
+Kritická
+
+infraštruktúra
+
+v
+
+praxe [online]. 2020(3):
+
+Slovenskej
+
+127-134
+
+republike.
+
+[cit.
+
+2020. Bezpečnostní
+
+2024-2-10].
+
+Dostupné
+
+na
+
+teórie
+
+a
+
+internete:
+
+https://veda.polac.cz/wp-content/uploads/2020/11/Kriticka-infrastruktura-v-Slovenskejrepublike.pdf
+LEGISLATÍVA KRÍZOVÝCH SITUÁCIÍ. 2005. ŠIMÁK, Ladislav. Žilinská univerzita
+v
+
+Žiline [online].
+
+[cit.
+
+Dostupné
+
+2023-11-21].
+
+na
+
+internete:
+
+http://fbiw.uniza.sk/kkm/old/publikacie/lks.pdf
+MINISTERSTVO OBRANY SR. 2021. KONCEPCIA PRÍPRAVY OBYVATEĽSTVA
+NA OBRANU ŠTÁTU [online]. Bratislava [cit. 2024-3-24]. Dostupné na internete:
+https://www.mosr.sk/data/files/4619_koncepcia_ponos_schvalene.pdf
+MINISTERSTVO VNÚTRA SR. 2024. Oblasti krízového riadenia. Ministerstvo vnútra
+Slovenskej
+
+republiky [online].
+
+[cit.
+
+2024-3-4].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.minv.sk/?okr
+Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky [online], [bez
+dátumu]. [cit. 2024-03-20]. Dostupné z: https://www.minedu.sk/
+OBRANNÁ
+
+STRATÉGIA
+
+republiky [online].
+
+[cit.
+
+SR
+
+2021.
+
+2021. Ministerstvo
+
+2024-3-26].
+
+Dostupné
+
+https://www.mosr.sk/data/files/4286_obranna-strategia-sr-2021.pdf
+
+67
+
+obrany
+
+Slovenskej
+
+na
+
+internete:
+
+Ozbrojené
+
+sily
+
+Slovenskej
+
+republiky.
+
+©
+
+2003-2012
+
+www.mil.sk. Https://www.mil.sk/ [online]. [cit. 2024-3-5]. Dostupné na internete:
+https://www.mil.sk/
+Ozbrojené sily SR. [bez dátumu]. PURDEK, Imrich. Ministerstvo obrany Slovenskej
+republiky [online].
+
+[cit.
+
+2023-11-6].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.mosr.sk/11382/ozbrojene-sily-sr/?mnu=283
+PAPRČKOVÁ, Alexandra a Matej KANDRÍK. Príprava obyvateľstva na obranu
+štátu. STRATPOL – Strategic Policy Institute [online]. : 1-16 [cit. 2024-1-24]. Dostupné
+na
+
+internete:
+
+https://www.researchgate.net/publication/350649231_Priprava_obyvatelstva_na_obranu
+_statu
+PRÍPRAVA
+
+OBYVATEĽSTVA
+
+PREVENCIE
+
+VZNIKU
+
+NA
+
+OBRANU
+
+HYBRIDNÝCH
+
+ŠTÁTU
+
+HROZIEB.
+
+AKO
+
+2023.
+
+NÁSTROJ
+
+LUKÁČOVÁ,
+
+Jana. Akadémia ozbrojených síl generála Milana Rastislava Štefánika [online]. [cit.
+Dostupné
+
+2024-3-25].
+
+na
+
+internete:
+
+http://ak.aos.sk/images/repozitar/zborniky/NTPP_clanky23/16_Lukacova.pdf
+Ochrana obyvateľstva - základné informácie [online]. 2014. [cit. 2023-12-17]. Dostupné
+na
+
+internete:
+
+https://www.minv.sk/swift_data/source/verejna_sprava/obu_nove_zamky/tabula/okr/oc
+hrana_obyvatelstva_zakladne_informacie.pdf
+Návrh Vojenskej stratégie Slovenskej republiky. 2021. Ministerstvo obrany Slovenskej
+republiky [online].
+
+[cit.
+
+2023-12-16].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.mosr.sk/data/files/4986_2021-vojenska-strategia.pdf
+ROČENKA MINISTERSTVA OBRANY SR 2022 [online]. 2023. Ministerstvo obrany SR
+oddelenie rezortnej tlače komunikačný odbor Kancelárie ministra obrany SR [cit. 20243-24].
+
+ISBN
+
+978-80-69009-00-4.
+
+Dostupné
+
+na
+
+internete:
+
+https://www.mosr.sk/data/files/5033_rocenka_2022_web.pdf
+STRATEGY. Obrana a strategie (Defence and Strategy) [online]. 22(1): 131-146 [cit.
+2024-3-24]. DOI: 10.3849/1802-7199.22.2022.01.131-146. ISSN 12146463. Dostupné
+
+68
+
+na
+
+internete:
+
+https://www.obranaastrategie.cz/en/archive/citizen-preparedness-to-
+
+defend-the-state-as-an-element-of-the-defense-strategy.html
+STRATÉGIA
+
+KYBERNETICKEJ
+
+OBRANY
+
+SLOVENSKEJ
+
+REPUBLIKY.
+
+2022. Ministerstvo obrany Slovenskej republiky [online]. [cit. 2024-3-26]. Dostupné na
+internete:
+
+https://www.mosr.sk/data/files/4978_2022-strategia-kybernetickej-obrany-
+
+sr.pdf
+Správa o bezpečnosti Slovenskej republiky za rok 2022. 2023. Úrad vlády Slovenskej
+republiky [online].
+
+[cit.
+
+2024-3-26].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.vlada.gov.sk/share/uvsr/br-sr/sprava_o_bezpecnosti_sr_2022.pdf
+Štatistická ročenka personálu OS SR. 2023. Personálny úrad Ozbrojených síl
+Slovenskej republiky, Demänová 393, 03101 Liptovský Mikuláš. ISBN 978-80-6900900-4.
+Ústavný zákon č. 227/2002 Z. z. o bezpečnosti štátu v čase vojny, vojnového stavu,
+výnimočného stavu a núdzového stavu [online]. [cit. 2024-3-24]. Dostupné na internete:
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2002/227/20201229.html
+UŠIAK, Jaroslav. 2020. Bezpečnostná politika Slovenskej republiky a vybrané
+bezpečnostné dokumenty. Druhé. Belanium, 266 s. ISBN 978-80-557-1795-1.
+Základňa výcviku a mobilizačného doplňovania [online]. © 2003-2012. [cit. 2024-326]. Dostupné na internete: https://zavamd.mil.sk/504/
+Vojenská história [online]. 2012. 2012(2) [cit. 2023-11-12]. ISSN ISSN 1335-3314.
+Dostupné na internete: https://www.vhu.sk/data/att/2822.pdf
+ZÁLOHY OZBROJENÝCH SÍL SLOVENSKEJ REBUBLIKY. 2018. Kultura
+Bezpieczeństwa Nauka – Praktyka – Refleksje [online]. 2018(29): 181-191 [cit. 2024-18].
+
+DOI:
+
+DOI
+
+10.24356/KB/29/8.
+
+Dostupné
+
+na
+
+internete:
+
+https://bazhum.muzhp.pl/media/files/Kultura_Bezpieczenstwa_Nauka_Praktyka_Reflek
+sje/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2018-tn29/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2018-t-n29-s181191/Kultura_Bezpieczenstwa_Nauka_Praktyka_Refleksje-r2018-t-n29-s181-191.pdf
+
+69
+
+Zákon č. 570/2005 Z. z. o brannej povinnosti a o zmene a doplnení niektorých
+zákonov [online].
+
+[cit.
+
+2024-3-24].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.slov-
+
+lex.sk/pravne-predpisy/SK/ZZ/2005/570/20220601.html
+Zákon č. 319/2002 Z. z. o obrane Slovenskej republiky [online]. [cit. 2024-3-24].
+Dostupné
+
+na
+
+internete:
+
+https://www.slov-lex.sk/pravne-
+
+predpisy/SK/ZZ/2002/319/20200201.html
+Zákon č. 387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a
+vojnového stavu [online]. [cit. 2024-3-24]. Dostupné na internete: https://www.slovlex.sk/pravne-predpisy/SK/ZZ/2002/387/20210119.html
+Zákon č. 179/2011 Z. z. o hospodárskej mobilizácii a o zmene a doplnení zákona č.
+387/2002 Z. z. o riadení štátu v krízových situáciách mimo času vojny a vojnového stavu
+v znení neskorších predpisov [online]. [cit. 2024-3-24]. Dostupné na internete:
+https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2011/179/20220330.html
+Zákon č. 569/2005 Z. z. o alternatívnej službe v čase vojny a vojnového stavu [online].
+[cit.
+
+2024-3-24].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.slov-lex.sk/pravne-
+
+predpisy/SK/ZZ/2005/569/20200201.html
+Zákon č. 42/1994 Z. z. Národnej rady Slovenskej republiky o civilnej ochrane
+obyvateľstva [online]. [cit. 2024-3-24]. Dostupné na internete: https://www.slovlex.sk/pravne-predpisy/SK/ZZ/1994/42/20240101.html
+
+70
+
+PRÍLOHY
+Príloha: Dotazník branná príprava obyvateľov
+Vážená pani/pán, dovoľte mi obrátiť sa na Vás s prosbou o vyplnenie tohto
+dotazníka ktorý slúži na zisťovanie, analýzu súčasného stavu povedomia o brannej
+prípravy
+
+v
+
+podmienkach
+
+Slovenskej
+
+republiky.
+
+Dotazník je anonymný, všetky Vami poskytnuté údaje / informácie slúžia k spracovaniu
+analýzy súčasného stavu povedomia obyvateľov o brannej prípravy v podmienkach
+Slovenskej
+
+republiky.
+
+V jednotlivých otázkach označte variantu ktorá najviac vystihuje Vašu odpoveď.
+Za Vašu ochotu a čas strávený pri vyplňovaní tohto dotazníka vopred ďakujem.
+Otázky do dotazníka :
+1. Ako často ste si vedomí možných hrozieb a krízových situácií, ktoré by mohli
+postihnúť vašu krajinu? (Pravidelne (každý deň) / Často (niekoľkokrát týždenne) /
+Občas (niekoľkokrát mesačne) / Zriedkavo (niekoľkokrát ročne) / Nikdy)
+2. Ako hodnotíte súčasnú úroveň brannej prípravy v našom štáte na škále od 1 do 10?
+1=najmenej 10=najviac
+3. Osobne sa cítite pripravený na prípadné krízové situácie vďaka existujúcim
+programom brannej prípravy? (áno/nie)
+4. Myslíte si, že branná príprava by mala byť povinná pre všetkých občanov? (áno/nie)
+5. Používate na získavanie informácií o príprave na krízové situácie oficiálne webové
+stránky vládnych inštitúcií? (áno/nie)
+6. Myslíte si, že mediálne zobrazenie brannej prípravy v krajine je adekvátne a prispieva
+k jej pozitívnemu vnímaniu? (áno/nie)
+7. Považujete brannú prípravu na školách za nevyhnutnú? (áno/nie)
+8. Myslíte si, že opätovné zavedenie povinnej vojenskej služby by zlepšilo brannú
+prípravu obyvateľstva? (áno/nie)
+
+71
+
+9. Myslíte si, že naša krajina je dostatočne pripravená na možné krízy z hľadiska
+obranných schopností obyvateľstva? (áno/nie)
+10. Cítite sa dostatočne informovaní o tom, ako postupovať v prípade mobilizácie alebo
+výnimočnej krízovej situácie? (áno/nie)
+
+72
+
+

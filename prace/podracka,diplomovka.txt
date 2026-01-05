@@ -1,0 +1,2396 @@
+KATOLÍCKA UNIVERZITA V RUŽOMBERKU
+PEDAGOGICKÁ FAKULTA
+
+KOGNITÍVNA MAPA A JEJ ADAPTÁCIA
+V ROZHODOVANÍ MANAŽÉROV
+Diplomová práca
+
+2024
+Bc. Miroslava Podracká
+
+KATOLÍCKA UNIVERZITA V RUŽOMBERKU
+PEDAGOGICKÁ FAKULTA
+
+KOGNITÍVNA MAPA A JEJ ADAPTÁCIA
+V ROZHODOVANÍ MANAŽÉROV
+Diplomová práca
+
+Študijný program: Ekonomika a manažment podniku
+Študijný odbor: Ekonómia a manažment
+Školiace pracovisko: Katedra manažmentu
+Školiteľ: prof. Ing. Iveta Ubrežiová CSc.
+
+Ružomberok 2024
+Bc. Miroslava Podracká
+
+ZADANIE ZÁVEREČNEJ PRÁCE
+
+Vyhlásenie o počte znakov
+
+Meno a priezvisko: Bc. Miroslava Podracká
+
+Záverečná práca obsahuje 87 277 znakov zarátaných do rozsahu práce.
+
+Podpis:
+
+Poďakovanie
+Touto cestou sa chcem poďakovať prof. Ing. Ivete Ubrežiovej CSc. vedúcej
+diplomovej práce za je čas, trpezlivosť, podporu a pomoc pri písaní.
+
+ABSTRACT
+Podracká, Miroslava: Kognitívna mapa a jej adaptácia v rozhodovaní manažérov.
+[Diplomová práca] / Miroslava Podracká – Katolícka univerzita v Ružomberku.
+Pedagogická fakulta, Katedra manažmentu. – Školiteľ : prof. Ing. Iveta Ubrežiová, CSs. –
+Stupeň odbornej kvalifikácie : Magister. – Ružomberok : PF, 2024. 69 s.
+Diplomová práca sa zaoberá problematikou kognitívnej mapy a jej adaptácie
+v rozhodovaní manažérov. Hlavným cieľom bolo analyzovať rozhodovací proces
+manažérov v konkrétnom podniku a navrhnúť kognitívnu mapu. Diplomová práca obsahuje
+štyri kapitoly. V prvej kapitole sa zameriavame na teoretické poznatky riešenej problematiky
+z rôznych literárnych zdrojov. V druhej kapitole sme definovali cieľ a metódy použité pri
+práci. Tretia kapitola je zameraná na analýzu rozhodovania manažérov v konkrétnom
+podniku. Posledná štvrtá kapitola patrí formulácií návrhov a odporúčaní zo získaných
+poznatkov pre podnik. Hlavný cieľ bol splnený.
+
+Kľúčové slová: manažér, manažérske rozhodovanie, rozhodovací proces, kognitívna mapa
+
+ABSTRACT
+Podracká, Miroslava: Cognitive map and its adaptation in the managerial decision. [Diploma
+thesis] / Miroslava Podracká – Catholic University in Ružomberok. Faculty of Education,
+Department of managment – Consultant : prof. Ing. Iveta Ubrežiová, CSs. – Degree of
+qualification: Magistra. – PF, 2024. 69 p.
+The diploma thesis deals with the issue of cognitive map and its adaptation in
+manager's decision making. The main objective was to analyze the decision-making process
+of managers in a specific company and to propose a cognitive map. The diploma thesis
+contains forur chapters. The first chapter focuses on the theoretical knowledge of the
+problem addressed from different literature sources. In the second chapter we define the
+objective and methods used in the thesis. The third chapter focuses on the analysis of
+managers decision making in a specific company. The last four chapter belongs to the
+formulation of suggestions and recommendations from the obtained findings for the
+enterprise. The main objective has been met.
+
+Kaywords: manager, managerial decision making, decision-making process, cognitive map
+
+OBSAH
+
+ÚVOD .................................................................................................................................. 11
+1
+
+TEORETICKÉ VÝCHODISKÁ RIEŠENEJ PROBLEMATIKY ....................... 12
+1.1
+
+MANAŽMENT ..................................................................................................... 12
+
+1.2
+
+MANAŽÉRSKA PSYCHOLÓGIA A SOCIOLÓGIA ........................................ 14
+
+1.3
+
+OSOBNOSŤ MANAŽÉRA .................................................................................. 17
+
+1.3.1
+
+Osobnosť ........................................................................................................ 17
+
+1.3.2
+
+Osobnosť manažéra ....................................................................................... 20
+
+1.3.3
+
+Role manažérov ............................................................................................. 24
+
+1.4
+
+ROZHODOVANIE V MANAŽMENTE ............................................................. 27
+
+1.5
+
+KOGNITÍVNA MAPA ......................................................................................... 29
+
+2
+
+CIEĽ, POUŽITÉ METÓDY A MATERIÁL .......................................................... 32
+
+3
+
+ANALÝZA ASPEKTOV ROZHODOVANIA MANAŽÉRA ............................... 34
+
+4
+
+3.1
+
+CHARAKTERISTIKA PODNIKU ...................................................................... 34
+
+3.2
+
+ROZHODOVANIE MANAŽÉROV V PRAXI ................................................... 39
+
+3.3
+
+VYHODNOTENIE DOTAZNÍKA ...................................................................... 41
+
+ZHRNUTIE ZÍSKANÝCH POZNATKOV A ODPORÚČANÉ NÁVRHY ........ 56
+4.1
+
+NÁVRHY A ODPORÚČANIA VÝSLEDKOV V PRAXI ................................. 56
+
+ZÁVER ............................................................................................................................... 59
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ........................................................... 61
+PRÍLOHY ........................................................................................................................... 65
+Príloha 1 Dotazníkový prieskum ..................................................................................... 65
+
+ZOZNAM TABULIEK, OBRÁZKOV A GRAFOV
+
+Obr. 1: Temperament dimenzie podľa H. J. Eysencka ........................................................ 19
+Obr. 2: Zloženie manažmentu organizácie .......................................................................... 23
+Obr. 3: Roly manažéra a ich vzájomná previazanosť .......................................................... 26
+Obr. 4: Ukážka kognitívnej mapy ........................................................................................ 31
+Obr. 5: Niekdajší hotel Baník pred rekonštrukciou ............................................................. 35
+Obr. 6: Hotel Trigan po rekonštrukcií ................................................................................. 35
+Obr. 7: Vizuálna prehliadka izby ......................................................................................... 37
+Obr. 8: Svet wellness a regenerácie ..................................................................................... 37
+Obr. 9: Ocenenie zariadenia priateľského k deťom a rodinám ............................................ 38
+Obr. 10: Kognitívna mapa pre charakteristiku manažérskeho rozhodovania ...................... 40
+Obr. 11: Ukážka a návrh kognitívnej mapy pre hotel Sorea Trigan .................................... 58
+Graf 1: Veková štruktúra hotela........................................................................................... 42
+Graf 2: Dosiahnuté vzdelanie pracovníkov hotela ............................................................... 43
+Graf 3: Postavenie pracovníkov v hoteli.............................................................................. 43
+Graf 4: Uplatňované rozhodovanie pracovníkov vo svojej profesií .................................... 44
+Graf 5: Pracovné prostredie podniku ................................................................................... 45
+Graf 6: Spôsob rozhodovania pracovníkov ......................................................................... 46
+Graf 7: Dôležité aspekty v rozhodovaní .............................................................................. 47
+Graf 8: Uplatňované štýly vedenia v hoteli ......................................................................... 48
+Graf 9: Typy vykonávaných rozhodovaní v hoteli .............................................................. 48
+Graf 10: Miera participácie pri rozhodovaní v hoteli ......................................................... 49
+Graf 11: Efektívne formy motivácie pracovníkov .............................................................. 49
+Graf 12: Výskyt pracovných konfliktov na pracovisku ....................................................... 50
+Graf 13: Nástroje využívané pri riešení rozhodovacích problémov .................................... 51
+
+Graf 14: Poznanie pojmu kognitívna mapa ......................................................................... 51
+Graf 15: Využívanie kognitívnej mapy v procese rozhodovania ........................................ 52
+Graf 16: Účely využívania kognitívnej mapy v hoteli ......................................................... 52
+Graf 17: Výhody využívania kognitívnej mapy .................................................................. 53
+Graf 18: Nevýhody využívania kognitívnej mapy ............................................................... 54
+Graf 19: Vplyv využívania kognitívnej mapy na manažérske rozhodovanie ...................... 54
+Graf 20: Miera účasti na školeniach o kognitívnej mape .................................................... 55
+
+ZOZNAM SKRATIEK A ZNAČIEK
+
+Napr. – napríklad
+Resp. – respektíve
+Tzv. – takzvane
+
+ÚVOD
+
+Rozhodovanie v manažmente je jedným z najdôležitejších aspektov pri výkone ich
+práce. Na základe manažérskeho rozhodovania vedia manažéri ovplyvniť úspech prípadne
+neúspech organizácie, v ktorej pôsobia na manažérskej pozícií. Úspech organizácií nezávisí
+iba od výkonu manažérov. Dôležitým kľúčovým aspektom každej organizácie sú
+zamestnanci, ktorí vykonávajú pre podnik kvalifikovanú prácu.
+Keď sa pozrieme na obsah manažmentu vidíme, že to je určitá interdisciplinárna veda
+a predmetom jej skúmania je riadenie činností ľudí tak, aby dosahovali vytýčených cieľov
+organizácií. O manažmente môžeme povedať, že vysvetľuje teoretické poznatky z rôznych
+iných disciplín ako je napr. sociológia alebo psychológia. Na začiatku našej diplomovej
+práce charakterizujeme teoretické pojmy týchto vedných disciplín, ktoré sa v manažmente
+nazývajú ako manažérska sociológia a psychológia. Tieto vedné disciplíny sú súčasťou
+každého fungujúceho manažmentu. Manažérom prinášajú znalosti potrebné pre formovanie
+jeho manažérskej osobnosti, ktorá je súčasťou pre manažérske rozhodovanie. Každí manažér
+je jedineční a má rôzne názory, priority, prístupy, využíva rôzne metódy a nástroje, z ktorých
+pramenia aj jeho rozhodnutia.
+Manažéri pri výkone svojej prace využívajú rôzne nástroje, ktoré im pomáhajú pri
+analyzovaní a riešení rozhodovacích problémov. Našou úlohou v diplomovej práci bude si
+priblížiť nástroj kognitívneho mapovania. Kognitívne mapovanie je pre mnoho manažérov
+neznáma technika na analyzovanie problémov.
+Ako sme uvádzali vyššie na začiatku našej diplomovej práce definujeme teoretické
+pojmy súvisiace s problematikou danej témy.
+V nasledujúcej časti si budeme stanovovať cieľ, metódy a materiál používaný pri
+práci.
+Hlavným zámerom v praktickej časti bude analýza rozhodovania manažérov
+v konkrétnom podniku. Na túto analýzu budeme využívať dotazníkový prieskum, ktorý nám
+poskytne potrebné poznatky o problematike rozhodovania v podniku.
+V poslednej časti budeme čerpať zo získaných poznatkov z praktickej časti a
+zameriame sa na vytvorenie vhodných návrhov a odporúčaní pre rozhodovanie podniku.
+Navrhneme a znázorníme kognitívnu mapu zo získaných poznatkov.
+11
+
+TEORETICKÉ VÝCHODISKÁ RIEŠENEJ
+
+1
+
+PROBLEMATIKY
+
+V prvej časti našej diplomovej práci si teoreticky charakterizujeme základné pojmy
+a pojmy súvisiace s danou problematikou, ktorej sa budeme venovať.
+
+MANAŽMENT
+
+1.1
+
+História manažmentu resp. manažérskeho myslenia siaha do dávnej minulosti.
+Hovoríme o vzniku od momentu, kedy si človek začal uvedomovať svoju existenciu.
+Z archeologických nálezov sa zistilo, že história siaha až do čias Mezopotámie. Bola to
+krajina Sumerov. Historické tabuľky objavené v Ninive po zrekonštruovaní odhalili
+informácie, ktoré sa týkali riadenia obce, mesta a pod. Veľkým prínosom pre vývoj
+manažmentu okrem stredoveku boli aj vojenské organizácie, ktoré delegovali vedenie,
+velenie a prikazovanie (Hittmar, Jankal, 2013).
+Poznaním histórie manažmentu môžeme pochopiť názory, ktoré predchádzali
+modernému manažmentu. Prvé začiatky o teórií a vede riadenia siahajú do obdobia konca
+18. storočia. Toto obdobie je spojené s priemyselnou revolúciou. Začiatkom 20. storočia sa
+objavujú zmienky o moderných teóriách (Obst a kol., 2006).
+Vývoj manažmentu Štofková a kol. (2011) rozdelili na obdobie od konca 19. storočia
+až do 20. storočia, a od 20. storočia až na začiatok 21. storočia.
+Ako sa formovala história manažmentu, tak sa formovali aj rôzne prístupy a školy
+manažmentu. Súčasné poznatky Majtán a kol. (2016) klasifikovali podľa časového
+a územného hľadiska. K časovému hľadisku zaradili základy a prístupy manažmentu. Patria
+k nim:
+•
+
+tradičná teória manažmentu nazývaná aj ako klasická
+
+•
+
+behavioristická teória manažmentu resp. neoklasická, ktorej teória sa zaoberá
+medziľudskými vzťahmi,
+
+•
+
+Moderná teória manažmentu, nazývaná aj ako nová teória,
+
+•
+
+Pragmaticky empirická teória manažmentu.
+12
+
+Z územného hľadiska začlenili koncepcie manažmentu na:
+•
+
+Americký,
+
+•
+
+Japonský,
+
+•
+
+Európsky.
+Pod pojmom manažment nájdeme veľmi veľa definícií, ktoré znejú rôzne ale
+
+v konečnom dôsledku sa jedná približne o to isté. Pôvod slova manažment nájdeme
+v americkom slovníku. Tento výraz v preklade znamená riadenie. Súčasnosti má tento pojem
+už medzinárodnú platnosť tzn., že sa nemusí prekladať (Balažek, 2011).
+Manažment môžeme definovať ako subjektívnu, cieľavedomú a uvedomelú ľudskú
+činnosť vyplývajúcu zo spoločenskej podstaty ekonomických procesov a spoločnej deľby
+práce smerujúcej k stanoveniu správnych cieľov a najvhodnejších ciest pre zabezpečenie,
+priebeh a realizáciu činnosti (Kadlečíková a kol., 2012).
+Podľa autora Sedláka (2007) má pojem manažment rôzne významy, je potrebné ich
+poznať a porozumieť im. Sú to tieto významy:
+•
+
+manažment ako praktická činnosť,
+
+•
+
+manažment ako vedná disciplína,
+
+•
+
+manažment ako osobitná skupina ľudí.
+
+Pre význam manažmentu ako praktickej činnosti je charakteristický druh práce alebo
+sústava aktivít, ktoré manažéri vykonávajú na dosiahnutie cieľov. Manažment ako vedná
+disciplína predstavuje určitý usporiadaný súbor poznatkov a metód, postupov riadenia
+a princípov. Manažment ako osobitná skupina ľudí sa vzťahuje na ľudí, ktorých poslaním je
+plniť funkcie manažmentu.
+K súčasti manažmentu patrí aj umenie, do ktorého spadá individuálna organizačná
+schopnosť manažéra, umenie vystupovať alebo komunikovať s ľuďmi. Dôležitou úlohou
+u manažéra je tiež aj uplatnenie intuície, kreativity a nachádzanie príležitosti (Štofková
+a kol., 2007).
+Manažment môžeme charakterizovať ako sústavu metód, techník a princípov, ktoré
+využívajú manažéri vo svojich činnostiach. Celková výkonnosť podnikov závisí od ich
+manažmentu (Majtán a kol., 2016).
+
+13
+
+Autorky Mižičková a Sláviková (2012) uvádzajú, že manažment je postavený na
+vykonávaní úloh prostredníctvom iných a ako proces udržiavania a vytvárania prostredia,
+v ktorom pracujú jednotlivci spoločne alebo v skupinách a tým napĺňajú stanovené ciele.
+Manažment môžeme chápať aj ako jednu z najdôležitejších ľudských činností tam,
+kde sa ľudia spolčujú za účelom dosiahnutia stanovených cieľov. Tento proces ovplyvňuje
+všetky činnosti, ktoré slúžia na účel premeny vstupov na výstupy (Tej a kol., 2022).
+Na základe toho, že manažment ma mnoho definícií od rôznych autorov by sa dala
+vymedziť jedna spoločná definícia. Vychádzala by už z uvedených definícií ale aj z tých,
+ktoré boli získané rozhovormi s manažérmi (Mikuš, Droppa, 2008; Mihok a kol., 2009).
+K manažmentu neodmysliteľne patria manažérske funkcie sú to typické úlohy, ktoré
+manažéri riešia pri procese riadenia činností. Vychádzajú z predpokladov, že dosahovanie
+cieľov podniku a plnenie poslania manažmentu môže byť zaistené súladom plnenia
+manažérskych funkcií. Ku základným funkciám manažmentu podľa Hittmára (2006)
+a Droppu (2008) patria:
+
+1.2
+
+•
+
+plánovanie,
+
+•
+
+organizovanie,
+
+•
+
+vedenie,
+
+•
+
+kontrola.
+
+MANAŽÉRSKA PSYCHOLÓGIA A SOCIOLÓGIA
+
+Historický vývoj psychológie sa uberal niekoľkými smermi, avšak každý z nich ma
+tendenciu k zbližovaniu. Psychologické smery pomáhajú k interpretácií správania sa
+človeka v ekonomickom prostredí. Všeobecne sa psychológia charakterizuje ako náuka
+o duši a psychike. Duša a psychika veľmi úzko spolu súvisia a ovplyvňujú sa navzájom.
+O psychike môžeme povedať, že charakterizuje prežívanie a správanie človeka. Prežívanie
+odráža procesy, stavy a vlastnosti. Na druhej strane správanie sa dá pozorovať sú to reakcie,
+činnosti a odpovede. Psychológia sa týka každej oblasti ľudského života. Umožňuje
+spoznávať a pochopiť psychiku človeka a vytvára návody na zvládanie problémových
+situácií v životoch ľudí. Psychológia ako veda vytvára určitý informačný systém založený
+na výskumoch, ktoré sú lepším obohatením pre život než vlastné postoje (Mikuláštík, 2015).
+14
+
+Psychologické a sociologické poznatky a prístupy hrajú dôležitú rolu v teórií aj praxi
+manažmentu, pretože sa podieľajú na činnosti pracovníkov, pracovných skupín alebo celého
+sociálneho systému organizácie. Poznatky a prístupy týchto oblasti sa zvyšujú s technickým
+pokrokom a s rastúcou globalizáciou súčasného sveta. Nepredvídateľnosť a neistota
+neustálej globalizácie, nie len sveta ako celku, ale aj sveta práce vytvára novú sociálno
+psychologickú realitu. Znamená to, že sa značne menia požiadavky na manažment
+organizácií ale aj na osobnosť a činnosť nielen manažérov samotných, ale aj na ich
+pracovníkov. V súčasnej dobe sa moderný manažment zaoberá a smeruje k sústavnému
+využívaniu psychologických a sociologických poznatkov a vedomostí. Označujeme ich ako
+manažérska psychológia a manažérska sociológia. Manažérska sociológa sa všeobecne
+zhoduje s predmetom vymedzenia sociológie. Zaoberá sa organizáciou a ľuďmi spojených
+na úrovní právnych, ekonomických, spoločenských, technických a psychologických
+vzťahov. Predmetom manažérskej sociológie je organizácie a jej usporiadanie a tiež sociálne
+procesy, ktoré prebiehajú v organizácií (Bedrnová a kol., 2012).
+Prácu manažérov ovplyvňuje psychológia trochu viac než ľudí bežného života.
+Životy manažérov ovplyvňuje celá rada situácií, kedy musia vedieť vystupovať a pôsobiť na
+rôznych rolách. Ich miera autentickosti je teda nižšia, pretože ich hlavnou náplňou je
+komunikácia. Prostredníctvom nej sa rozhodujú, riadia a motivujú. Môžu používať
+teoretické vedomosti v kombinácií so skúsenosťami pri práci s ľuďmi. Prevažuje v tejto
+oblasti skôr intuitívny prístup založený na vlastných skúsenostiach, no niekedy aj na
+predsudkoch (Mikuláštík, 2015).
+Manažérska sociológia nemá žiadne špecifické metódy, techniky a ani poznatky,
+ktoré ju odlišujú od všeobecnej sociológie. Vymedzuje časti sociológie, ktoré sú užitočné
+pre pochopenie organizácie, jej štruktúry, vnútorného diania a reakcií okolo nej. Zaujíma
+sa predovšetkým o organizácie, ktoré fungujú legálne a majú formálnu podobu. Takéto
+organizácie sa pozorujú ľahko s nízkou mierou rizika a sociologický pracovníci za to
+dostávajú zaplatené (Kašparová, Hampl, 2012).
+Významnú úlohu pri manažérskej sociológií zohrávajú vzťahy konkrétnej organizácií
+k sociálnym subjektom a k sociálnemu okoliu. Dané vzťahy sa rozdeľujú na základe toho,
+akých subjektov a objektov sa týkajú resp. ovplyvňujú ich charakter. Môžu to byť napr.:
+•
+
+vzťahy k ekonomickým inštitúciám,
+
+•
+
+vzťahy k štátnym inštitúciám,
+15
+
+•
+
+vzťahy k verejnosti,
+
+•
+
+vzťahy k širšiemu kultúrnemu prostrediu spoločnosti,
+
+•
+
+vzťahy k odlišným kultúram.
+
+Manažérsku psychológiu zaraďujeme k praktickým disciplínam, pretože je orientovaná
+na poznávanie a transformovanie poznatkov psychológie do manažérskej praxe. Manažérska
+psychológia sa zaoberá osobnosťou a činnosťou pracovníkov ako aj manažérov v procese
+riadenia organizácie (Bedrnová a kol., 2012).
+Podľa Fleškovej a Dolinskej (2010) prínos psychologických poznatkov pre
+manažérov všeobecne môžeme formulovať nasledovne:
+•
+
+pomáhajú manažérom poznávať samých seba, ale aj ostatných ľudí,
+
+•
+
+umožňujú sa im orientovať pri utváraní osobností,
+
+•
+
+pomáhajú im pochopiť správanie a prežívanie ostatných ľudí na základe,
+ktorých vedia správne zvoliť spôsoby pre ich motivovanie a riadenie
+v pracovnom procese,
+
+•
+
+umožňujú manažérom naplánovať si vlastný kariérny postup, ale aj kariérny
+postup ich zamestnancov,
+
+•
+
+vedia vytvárať optimálne pracovné prostredie a lepšie sa orientovať
+v medziľudských vzťahoch na pracovisku,
+
+•
+
+pomáhajú im s efektívnou komunikáciou v sociálnych situáciách,
+
+•
+
+zabezpečujú efektívne riadenie a vedenie pracovných skupín,
+
+•
+
+chápanie správania sa ľudí v ekonomických situáciách, čo im pomôže pri
+predvídaní a prognózovaní ich správania.
+
+Psychologickou súčasťou riadenia je vedenie ľudí v organizácií. Obsahom vedenia
+ľudí je cieľavedomé pôsobenie manažéra na poznávanie, prežívanie a jednanie riadenej
+skupiny pracovníkov. Vloženie manažérskej psychológie do riadenia organizácie je určené
+niekoľkými skutočnosťami, ako sú:
+•
+
+vykonávateľ a nositeľ riadiacej profesie je manažér,
+
+•
+
+objektom riadenia sú zamestnanci v pracovných skupinách,
+
+•
+
+vykonávaním riadiacej funkcie dochádza k interakcií manažéra s jeho
+zamestnancami a cieľom je zaistiť vzájomnú koordináciu a kooperáciu,
+
+•
+
+kľúčovým kritériom úspechu každého manažéra sú komunikačné schopnosti,
+16
+
+•
+
+významným prvkom manažmentu je rozhodovanie,
+
+•
+
+podstatou riadenia sú zamestnanci.
+
+Všetky vyššie uvedené poznatky a skutočnosti sú významné pre manažérsku
+psychológiu. Vyjadrujú skutočnosť, že ľudský faktor je dôležitý pre riadiacu činnosť
+manažérov a musí byť hlavným predmetom záujmu jeho manažérskej práce. Manažérska
+psychológia spolu so sociológiou hľadajú účinné nástroje pre efektívne využívanie možností
+pracovníkov organizácie (Bedrnová a kol., 2012).
+Potreba psychologických znalostí v práci manažéra by sa nemala podceňovať,
+pretože manažér sa tak dostáva do situácie, ktorú nazývame ako ekonomismus alebo
+technokratismus. Manažéri, ktorý sa dostali do tejto situácie preferujú ekonomickú
+a technickú oblasť. Na druhej strane podceňujú alebo sa boja práce s ľuďmi. Pri práci
+s ľuďmi sa k nim správajú ako ku materiálu. Dobre vieme, že manažéri musia držať krok
+s rozvojom trhu, čo si vyžaduje správne rozhodnutia. Väčšina manažérov podceňuje
+psychologické aspekty svojej práce (Mikuláštík, 2015).
+
+1.3
+
+OSOBNOSŤ MANAŽÉRA
+
+Problematika osobnosti z psychologického hľadiska alebo z hľadiska manažérskej
+psychológie je veľmi rozsiahla téma. V tejto podkapitole si priblížime teoretické poznatky
+týkajúce sa osobnosti ako celku a osobnosti manažéra. Charakterizujeme si kto je manažér
+a aké sú jeho role v manažmente.
+
+1.3.1 Osobnosť
+Celok duševného života vo všeobecnej podobe neexistuje, pretože psychika sa vždy
+viaže na konkrétnu osobu, čo vytvára celok nazývaný osobnosť. Psychika u každého človeka
+má svojráznu podobu. Postupným vývojom sa človek stáva samostatnou osobnosťou so
+špecifickými spôsobmi vnímania, myslenia, cítenia a správania (Flešková, Dolinská, 2010).
+Vývinom psychológie ako vedy sa formovala samostatná psychologická disciplína,
+ktorú poznáme pod pojmom psychológia osobností. Poznatky tejto psychologickej
+disciplíny sa využívajú v mnohých oblastiach životov ľudí. V manažmente resp.
+17
+
+manažérskej psychológií sa poznatky z teórie a typológie osobnosti aplikujú na manažérov.
+Cieľom psychológie osobnosti je prispieť k sebapoznaniu, pochopeniu samého seba
+a spávania sa iných, ale aj pochopenie správania seba samého (Flešková, Dolinská, 2010).
+Calicchio (2022) definuje osobnosť ako niečo jedinečné, čo tvorí náš spôsob bytia.
+Hovorí, že každí z nás má jedinečnú osobnosť založenú na určitých vzorcoch správania
+a spôsobe prístupu k svetu. Základy osobnosti sa formujú na začiatku života jedinca, ale
+k významným zmenám v osobnosti môže dôjsť aj neskôr. Autor sa zmieňuje o tom, že
+pochopenie a skúmanie osobnosti nám umožňuje porozumieť sebe ale aj ostatným okolo
+nás.
+Súčasná doba nám ponúka viac ako dvesto prístupov a teórií spojených s osobnosťou
+človeka. Pod pojmom osobnosť človeka rozumieme spojenie telesných a duševných rysov
+charakterizujúcich jednotlivcov a ich vnímanie vonkajších dianí, reakcií na nich a spôsob
+akým sa snažia dosahovať vytýčených cieľov (Vysekalová a kol., 2020).
+Podľa Mikuláštíka (2015) je osobnosť súhrnom vrodených a naučených vzorcov
+chovania sa človeka. Označuje osobnosť ako integrovaní celok duševných a telesných
+vlastností. Pojem integrovaní vo svojej knihe vysvetľuje ako vedomie JA, ktoré sa u človeka
+vyvíja medzi druhým a tretím rokom života.
+Seemann (2016) uvádza rozdelenie psychológie osobnosti na dva základné kategórie:
+1. Štruktúra osobnosti – určujú ju jednotlivé zložky tvoriace osobnosť človeka,
+2. Dynamika osobnosti – aplikuje správanie sa človeka do praktických činností.
+Vytvára predpoklad analýzy a interpretácie popisujúce vhodnosť osobnosti na výkon
+funkcie.
+K najvýznamnejším črtám ovplyvňujúcich správanie a vystupovanie manažéra patrí
+jeho temperament. Ide ale len o jeden zo šiestich prvkov štruktúry osobnosti manažéra.
+Spolu s dynamikou vytvára synergický efekt, ktorý je pri výkone manažérskych funkcií
+neoddeliteľnou časťou (Kollárik, 2004).
+Z rady teórií temperamentu prakticky využiteľnú vytvoril anglický psychológ H. J.
+Eysenck. Prepojil všeobecnú a veľmi známu antickú typológiu osobnosti s teóriou
+dimenzií temperamentu, ktorá predstavuje dimenziu extroverta a introverta a dimenziu
+Emocionálnej Stability A Lability (Bedrnová a kol., 2012).
+
+18
+
+Obr. 1: Temperament dimenzie podľa H. J. Eysencka
+Zdroj: Bedrnová a kol., 2012
+Kombináciou týchto dimenzií sa vytvorili základné štyri typy osobností:
+•
+
+Melancholik: Je pre nich charakteristická labilnosť a introverzia. Osobnosti sú
+pesimistické, náladové a uzavreté, avšak veľmi vnímavé a chápavé. Kým získajú
+nadšenie pre veci trvá to dlhšie no za to intenzívnejšie. Melancholici sa zvyknú
+uzatvárať do seba, čiže ak pocítia sklamanie obnovenie dôvery je dlhý proces.
+V práci je dôležité udržiavať v nich nadšenie a motivovať ich k podaniu výkonu.
+Náladu majú zvyčajne negatívnu preto pri práci s nimi je dôležite k nim pristupovať
+opatrne.
+
+•
+
+Flegmatik: Je u nich charakteristická stabilita a introverzia. Osobnosti sú pokojné
+a nezaujaté, svoje emočné prežívanie neprejavujú navonok ale bojujú s nim vo
+svojom vnútri. Ich osoba je nevýrazná. Pri práci s flegmatikom je náročné v ňom
+prebudiť motiváciu. Ak chceme motiváciu u týchto osobností prebudiť je nutné ich
+nadchnúť pre určitú činnosť. Komunikáciu s nimi treba vykonávať priamejšie
+a vážnejšie, prípadné vyhrážanie a končiace termíny ich vedia namotivovať. Činnosť
+u týchto osobnosti je stabilná a za vyššie uvedených predpokladov vedia činnosti
+dotiahnuť do úplného konca.
+
+19
+
+•
+
+Sangvinik: Pre nich je charakteristická stabilita a extrovertnosť. Osobnosti rýchlo
+striedajú nálady, avšak neprechádzajú hranicu extrému.
+
+Platí to u nich aj pri
+
+prežívaní emócií. Pri práci s nimi je veľmi dôležité v nich prebúdzať veľkú mieru
+vzrušenia a vytvárať pre nich vždy nové podnety. Je nevyhnutné všetky podnety im
+aktívne prezentovať.
+•
+
+Cholerik: U týchto osobností je charakteristická labilita a extrovertnosť. Cholerici
+majú veľmi rýchle a extrémne prežívanie. Ich nálady sa často striedajú. K ich
+najznámejšej vlastnosti patrí výbušnosť. Pri práci s takou osobnosťou je potrebné
+pristupovať opatrne. Komunikáciu s nimi si treba nastaviť tak, že zistíme jeho
+momentálny stav a v jeho lepšej fáze prežívania s ním môžeme začať komunikovať.
+Hovorí sa, že ľudia s touto osobnosťou sú rodení lídri a motivátori aj napriek ich
+prchkej a impulzívnej reakcií (Seemann, 2016).
+
+1.3.2 Osobnosť manažéra
+Osobnostné charakteristiky a osobnosť ako celok je neoddeliteľnou súčasťou
+každého z manažérov, ktoré by mali ďalej rozvíjať s predvídateľným a rovnorodým
+správaním sa (Čarkt, 2005).
+Osobnosť manažéra je úzko spätá s organizáciou. Aktivita každého manažéra by
+mala byť viditeľná v medziľudských vzťahoch, na pracovných výkonoch a celkovo by sa
+mala odraziť na úspešnosti organizácie (Mikuláštik, 2015).
+Na osobnosť manažérov sa kladú požiadavky nevyhnuté pre vykonávanie ich
+profesie. Medzí veľmi dôležité sú považované vedenie ľudí, nezávislosť, zdravý úsudok,
+verbálne schopnosti, kvalifikácia, zručnosti, prispôsobovanie sa určitej sociálnej skupine
+a v neposlednom rade spoločenské postavenie v podniku (Hančovská, 2013).
+Hittmár (2006) uvádza dôležité vlastnosti manažéra nasledovne:
+•
+
+Cieľavedomosť – snaha o vytýčenie reálnych cieľov,
+
+•
+
+Zodpovednosť – zmysel plnenia vytýčených cieľov a ich úloh,
+
+•
+
+Sebadôvera – viera vo vlastnú silu a schopností pri plnení a stanovení cieľov,
+
+•
+
+Iniciatívnosť – snaha hľadať cesty pre dosiahnutie cieľov,
+
+•
+
+Samostatnosť – rozhodovanie na základe vlastnej úvahy,
+
+•
+
+Rozvážnosť – prístup k rozhodovaniu závažných dôsledkov,
+20
+
+•
+
+Rozhodnosť – neváhavé správanie sa pri konfliktoch,
+
+•
+
+Zásadovosť – presadzovanie spoločenského systému hodnôt a noriem,
+
+•
+
+Disciplinovanosť – prejav sebaovládania a regulácia svojho správania,
+
+•
+
+Vytrvalosť – húževnatosť od prekonávania až po dosiahnutie cieľa,
+
+•
+
+Optimizmus – zmysel orientácie na pozitívne ciele,
+
+•
+
+Fantázia – vytváranie predstav a vízií.
+
+Manažéri sa pokladajú za rozhodujúcich činiteľov riadenia každej organizácie. Ich
+výber a následná výchova je v modernom manažmente pokladaná za kľúčovú (Veber a kol.,
+2009).
+Manažér by mal disponovať znalosťami a vedomosťami, pretože práca manažéra je
+náročná. Nie každí zamestnanec sa môže stať manažérom. Na druhej stane ani ten, kto ma
+na to vlohy sa manažérom nemusí stať. Manažér by mal mať dobré povahové vlastnosti,
+disponovať zručnosťami a mal by vedieť zaujať správny postoj vo vzniknutých situáciách
+(Kajanová, 2012).
+Úspešnými manažérmi sa môžu stať rôzne osobnosti, pretože každý sme odlišný.
+Nemôžme tak vytvoriť dokonalý vzor manažéra na základe ktorého, by sa mal zvládať výkon
+manažérskych funkcií (Horváthová, 2016).
+Manažéra môžeme charakterizovať ako človeka, ktorý prostredníctvom ľudí
+dosahuje ciele. Každá organizácia má manažéra s významným postavením, ktorý
+ovplyvňuje jej výsledky a činnosť (Antošová, 2010).
+Manažéra charakterizovali autori Mikuš a Droppa (2008) ako niekoho, kto pracuje
+s ľuďmi, koordinuje ich aktivity tak, aby plnili ciele organizácie.
+Manažér sa v literatúre od Matušovičovej a Čihovskej (2016) charakterizuje ako
+človek, ktorý prostredníctvom ľudí a ich usmerňovania činností spĺňa ciele podniku. Pozícia
+manažéra môže na základe autority, právomoci a hierarchií ovplyvňovať potreby podniku.
+Hančovská (2013) uvádza, že manažér prevádzkuje v mene a záujme iných
+vlastníkov organizáciu. Manažéri zodpovedajú za prijaté rozhodnutia prevádzkovanej
+organizácie. Špecifické vlastnosti a schopnosti sú dôležité pre výkon manažérskych funkcií.
+Na základe nich sa manažéri líšia od ostatných zamestnancov organizácie.
+Autor Majtán (2008) uvádza, že manažérska práca sa od činností iných zamestnancov
+organizácie odlišuje tým, že:
+21
+
+1. Určitá časť manažérskej práce hlavne u vrcholových manažérov je neopakovateľná
+a jednorazová,
+2. U manažérov pri ich práci by mala dominovať tvorivosť,
+3. Rozhodovanie
+
+v manažmente
+
+je
+
+iné
+
+ako
+
+osobné
+
+rozhodovanie,
+
+pretože
+
+v manažérskom rozhodovaní sú realizátori podradení,
+4. Špecifické zručnosti manažéra sú predpokladom efektívnej práce.
+Významné poslanie v podnikoch majú manažéri, pretože riadia, ovplyvňujú, dosahujú
+výsledky a sú to ľudia spojení s procesom manažmentu. V podnikoch pôsobia ma rôznych
+úrovniach riadenia a snažia sa dosahovať ciele.
+Veber a kol. (2009) v súčasnej dobe uvádzajú rozdelenie manažérov na tri úrovne takéto:
+•
+
+Manažéri prvej línie,
+
+•
+
+Manažéri strednej línie,
+
+•
+
+Vrcholoví manažéri.
+
+O manažéroch prvej línie hovorí autor Veber a kol. (2009) ako o postavení
+manažérov o stupeň vyšších od výkonnostných pracovníkov. Patria k nim majstri, vedúci
+dielni a podobne. K manažérom strednej línie sa vyjadrujú ako o rozmanitej a početnej
+skupine pracovníkov na vedúcich pozíciách rôznych útvarov. Ich činnosťou je hlavne
+poskytovanie a získavanie informácií, ktoré na základe zistení zaberajú až 40% ich
+pracovného času. Vrcholoví manažéri reprezentujú takých pracovníkov, ktorí usmerňujú
+a koordinujú činnosti čím vytvárajú koncepciu organizačnej jednotky. Uvádzajú, že títo
+manažéri sú zvláštne dôležitou skupinou z dôvodu, že od ich práce závisia končiace
+výsledky. Hovoria tiež, že sú oddelení od organizácie a preberajú zodpovednosť za
+vlastníkov.
+Autori Mikuš a Droppa (2008) charakterizovali zloženie manažmentu organizácie
+nasledovne:
+•
+
+Manažéri prvej línie – podľa autorov riadia prácu iných zamestnancov výroby.
+Predstavujú najnižšiu úroveň manažmentu v organizácií.
+
+•
+
+Manažéri strednej línie – podľa nich sú to manažéri, ktorí sa nachádzajú medzi
+vrcholovým a líniovým manažmentom. Zvyčajne je ich náplňou práce riadenie prvej
+línie manažmentu. Zaraďujeme k ním vedúcich oddelení, projektov, závodu alebo
+divízie.
+22
+
+•
+
+Vrcholový manažéri – tých autori charakterizujú ako zodpovedných za rozhodovanie
+v organizácií. Vrcholový manažéri vytvárajú plány a stanovujú ciele. Patri k nim
+napr. výkonný riaditeľ, prezident, viceprezident.
+
+Obr. 2: Zloženie manažmentu organizácie
+Zdroj: Mikuš, P. a Droppa, M. Základy manažmentu, 2008
+Podľa Sedláka (2007) tvoria vrcholoví manažéri iba malú časť vedenia organizácie,
+pretože sú sprostredkovateľmi medzi organizáciou a okolím. Znamená to, že reprezentujú
+organizáciu navonok a vytvárajú dlhodobé strategické plány. Strední manažéri zas tvoria
+veľkú časť vedenia organizácie, pretože sú zodpovední za implementáciu vytvorených
+plánov vrcholových manažérov. Ak sa týmto manažérom poskytne sloboda v konaní
+a potrebné zdroje vedia zvyšovať produktivitu a rozvíjať inovácie. Nakoniec poslední
+línioví manažéri tí dozerajú a koordinujú činnosti pracovníkov, vytvárajú každodenne
+detailné plánovanie, ktoré je potrebné pre efektívny vývoj organizácie.
+
+23
+
+1.3.3 Role manažérov
+Rad činnosti, ktoré sú súčasťou výkonu práce každého manažéra sa zovšeobecnením
+zaraďujú pod hlavné manažérske funkcie. Dáva nám to teda otázku, ktorá sa zaoberá
+obsahom a časovou štruktúrou práce manažéra, resp. venovania sa riadiacim funkciám.
+Vykonávanie funkcií generálneho alebo odborného riaditeľa je odlišné. Rozborom
+manažérskej práce vznikla potreba analýzy a sledovania podávaného výkonu manažérov pri
+základných riadiacich aktivitách (Hittmár, 2006; Mikuš, Droppa, 2008).
+Rola manažérov vyjadruje ich pozíciu pôsobenia vo svojom okolí. Na základe toho,
+akú rolu manažéri zastávajú vieme charakterizovať a definovať ich prácu. Správne určenie
+a uplatnenie role vyjadruje úspešnosť manažérov pri riešení problémov. Z osobnosti
+každého manažéra vychádza konkrétna rola. Určujeme ju na základe postojov, hodnôt,
+skúsenosti a správneho výberu pozície manažéra, v ktorej uplatňuje svoje kompetencie
+(Mikuš, Droppa, 2008).
+Viaceré štúdie sa zaoberajú prácou manažéra. Skúmajú čo manažér robí a ako
+využíva svoj čas. Dôležitou osobou, ktorá sa zaoberala manažérskymi povolaniami bol
+Henry Mintzberg. Na základe empirických štúdií v sedemdesiatych rokoch 20. storočia
+spracoval závery o úlohách manažérov. Z pozorovania zistil, že manažéri zastávajú
+niekoľko rolí, ktoré slúžia na opis toho ako manažér pracuje. Pod pojmom rola sa chápe
+sústava systematického prepojeného a pozorovateľného správania sa prislúchajúcemu
+povolaniu (Sedlák, 2007).
+Z Mintzbergového skúmania vzniklo rôznych no navzájom spojených desať rolí,
+ktoré sa delia do troch skupín:
+1. Role interpersonálne – manažéri sú v nepretržitom medziľudskom kontakte so
+svojimi partnermi mimo organizácie ale aj v rámci nej. Sú predstaviteľmi organizácie
+a vedú svojich spolupracovníkov.
+Tvoria ich tri čiastkové role:
+•
+
+manažér ako reprezentant – zabezpečuje reprezentáciu organizácie navonok,
+
+•
+
+manažér ako spojka – zabezpečuje miesto získavania všetkých potrebných
+informácií,
+
+•
+
+manažér ako vodca – zabezpečuje súlad pri dosahovaní cieľov organizácie.
+
+24
+
+2. Role informačné – manažéri sú v procese práce s informáciami a informačnými
+systémami. Vytvárajú, zbierajú, triedia, prenášajú, spracovávajú a využívajú
+informácie,
+
+aby
+
+ich
+
+odovzdávali
+
+ďalej
+
+buď
+
+podriadeným
+
+alebo
+
+iným
+
+spolupracovníkom či partnerom.
+Rozdeľujeme ich na:
+•
+
+manažér ako monitor - zabezpečuje sledovanie a vyhľadávanie informácií
+z interných a externých zdrojov,
+
+•
+
+manažér ako šíriteľ – zabezpečuje poskytovanie informácií potrebných pre prácu
+podriadených,
+
+•
+
+manažér ako hovorca – zabezpečuje externú komunikáciu organizácie.
+
+3. Role rozhodovacie – sú považované za typické pre riadiacich pracovníkov. Manažéri
+vyberajú jedno z prístupných riešení na vzniknutú rozhodovaciu situáciu v riadiacom
+procese. Oboznamujú a kontrolujú plnenie riešenia podriadenými.
+Patrí tu nasledovné členenie:
+•
+
+manažér ako podnikateľ – pracuje na zdokonaľovaní činnosti riadenia
+organizácie,
+
+•
+
+manažér ako riešiteľ – zabezpečuje opatrenia a nápravu vzniknutých porúch,
+
+•
+
+manažér ako distribútor – zabezpečuje kvalitu a kvantitu využívaných zdrojov
+organizácie,
+
+•
+
+manažér ako vyjednávač – vyjednáva v mene organizácie v externom prostredí
+s inými organizáciami a v internom prostredí v rámci určitej organizačnej
+jednotky (Hittmár, 2006; Mintzberg, 2013).
+
+25
+
+Obr. 3: Roly manažéra a ich vzájomná previazanosť
+Zdroj: Sedlák, M. Základy manažmentu, 2012
+Manažérske role sú nevyhnutné a tvoria jeden celok. Márne by sme pri manažérskej
+práci hľadali hranicu, ktorá oddeľuje jednotlivé role od seba. Činnosti jednotlivých rolí sa
+prekrývajú a vytvárajú určitý mix rolí, ktoré definujú manažérsku prácu. Význam každej
+role je ovplyvňovaný viacerými činiteľmi ako napr. individuálnosť, osobnostný štýl,
+zameranie
+
+organizácie
+
+a v neposlednom
+
+rade
+
+stupeň
+
+riadenia
+
+manažéra.
+
+Súbor
+
+manažérskych roli môžeme pretlmočiť aj prostredníctvom manažérskych funkcií na čo by
+sme nemali zabúdať (Majtan a kol., 2016).
+Viacero manažérskych rolí závisí podľa Sedláka (2007) nie len od manažérov ale aj
+od vzniknutých sústavne sa meniacich situácií. Preto uvádza, že pri manažérskych rolách
+musíme klásť dôraz na uplatňovanie tzv. situačného prístupu.
+
+26
+
+1.4
+
+ROZHODOVANIE V MANAŽMENTE
+
+Rozhodovanie patrí k neoddeliteľnej časti každodenného života človeka. Každí z nás
+sa neustále o niečom rozhoduje. Prácu manažérov však rozhodovanie ovplyvňuje trochu
+inak. Manažéri sa každodenne stretávajú s mnohými situáciami kedy sa musia rozhodnúť.
+Ich rozhodnutie ovplyvňuje dosahovanie cieľov organizácie, za ktoré preberá manažér
+zodpovednosť aj v prípade zlého rozhodnutia (Blažek, 2011).
+Najvýraznejšou časťou obsahu a podstaty manažmentu je rozhodovanie. Patrí medzi
+najnáročnejšie a najdôležitejšie funkcie manažmentu. Kvalita vykonávania rozhodovacích
+činností ovplyvňuje úspešnosť manažmentu každého podniku (Hittmár, 2006).
+Rozhodovanie patrí medzi jednu z najvýznamnejších činností, ktoré sú
+uskutočňované manažérmi v rámci manažmentu. Možno ho chápať ako jadro riadenia.
+Niektoré pojmy riadenia rozdeľujú manažérske funkcie na dve skupiny. Prvá skupina sú
+sekvenčné manažérske funkcie vykonávané v časovom slede a zahrňujú plánovanie,
+organizovanie, výber a roztriedenie pracovníkov, vedenie ľudí a kontrolu. Druhou skupinou
+sú funkcie, ktoré prebiehajú priebežne a dopĺňajú sekvenčné manažérske funkcie. Patria k
+ním analýzy činností, komunikácia a rozhodovanie (Fotr, Švecová a kol., 2010).
+Rozhodovanie podľa Sedláka (2009) je možné definovať ako činnosť, ktorá problém
+určuje, analyzuje a vytvára možné varianty pre ich riešenie. Podľa určitých kritérií následne
+vyberá najvhodnejší spôsob riešenia.
+Podľa Vodáčeka a Vodáčkovej (2013) je rozhodovanie výber medzí možnosťami
+riešenia. Minimálne musia byť dve možnosti na rozhodovanie. Znamená to overenie
+zistených podmienok, či je možné realizovať ciele. Výsledkom procesu je voľba možností
+rozhodnutia s ich realizáciou.
+Rozhodovanie je autormi Závadským a Kovaľovou (2011) definované ako logicky
+proces, v ktorom ten kto v danej situácií rozhoduje nesie za výber rozhodnutia
+zodpovednosť. Manažéri v rozhodovaní musia určiť kto, kedy, ako a čo má vykonávať aby
+sa napĺňali ciele organizácie.
+Rozhodovanie manažéra môžeme chápať ako určitý proces, v ktorom manažér rieši
+vzniknuté problémy v organizácií. Hlavnou jeho úlohou nie je iba sústredenie sa na prijatie
+
+27
+
+rozhodnutia, ale dôležitejšie je ako chce manažér vzniknutý problém vyriešiť (Papula,
+Papulová, 2014).
+Výber a hľadanie efektívnych a úspešných stratégií je dôležitým princípom
+rozhodovania. Rozhodovanie nie je prítomné len v poslednej fáze rozhodovania, kedy
+vybranú stratégiu aplikujeme ale prechádza všetkými fázami v presnom poradí. Na začiatku
+si identifikujeme problém a formulujeme ciele na ktoré sa bude vzťahovať cely proces
+(Sedlák, Líškova, 2015).
+Rozhodovací proces chápeme ako proces riadenia rozhodovacích problémov, čiže
+problémov v organizácií, ktoré majú viac alternatív na riešenie. Základnou vlastnosťou
+rozhodovania je proces voľby, posudzovanie jednotlivých alternatív a výber rozhodnutia.
+Rozhodovací proces ovplyvňujú určité faktory, ktorými sú napr.:
+•
+
+rozhodovací problém,
+
+•
+
+charakter a závažnosť rozhodovacieho problému,
+
+•
+
+podmienky pre rozhodovanie akými sú čas, miera rizika a pod.,
+
+•
+
+osobnosť manažéra,
+
+•
+
+prístupy, štýly a hodnotenie manažéra,
+
+•
+
+minulé skúsenosti manažéra (Veber a kol., 2009).
+
+Pri manažérskom rozhodovaní podľa subjektu hovoríme o individuálnom rozhodovaní,
+ktoré je označujeme aj ako rýchle rozhodovanie, kedy rozhodovanie je nie zložité ani
+náročné. Tento typ sa vyznačuje individuálnou zodpovednosťou manažéra za prijatie
+rozhodnutia. Subjektivizmus patrí k jedným z nevýhod pri individuálnom rozhodovaní.
+Naopak u kolektívneho rozhodovania ide o kolektívne posúdenie potrebné pri rozhodovaní
+o vážnych otázkach v organizácií. Avšak nevýhodou tohto rozhodovania je, že nie je rýchle
+a vyžaduje sa u neho časová náročnosť (Šolc, 2010).
+Na základe miery informatívnosti stavov okolia rozhodovanie za určitých podmienok
+rozoznávame:
+•
+
+rozhodovanie v podmienkach istoty,
+
+•
+
+rozhodovanie v podmienkach neistoty,
+
+•
+
+rozhodovanie v podmienkach neurčitosti.
+
+Rozhodovanie v podmienkach istoty vychádza z plnej informatívnosti a racionality
+manažéra, ktorý musí poznať všetky alternatívy a dôsledky okolia. Úlohou manažéra je
+28
+
+teda zvoliť alternatívu s najvyššou hodnotou úžitku. Pri rozhodovaní v podmienkach
+neistoty manažér pozná iba jednotlivé alternatívy a určité stavy okolia. Avšak nevie úplne
+odhadnúť, ktorý z daných stavov okolia skutočne nastane. Keď hovoríme o rozhodovaní
+v podmienkach neurčitosti manažér nevie určiť pravdepodobnosť výskytu stavov okolia
+ani ich alternatívy na základne jeho neinformovanosti.
+Pri postupe rozhodovania sa manažérske rozhodovanie špecifikuje na:
+•
+
+rozhodnutia a rozhodovanie programované,
+
+•
+
+rozhodnutia a rozhodovanie neprogramované.
+
+Pod pojmom programové rozhodovanie rozumieme postup riešenia, ktorý treba
+dodržať ak máme dospieť k rozhodnutiu. Väčšinou ak je známy program riešenia vedie to
+k jednému rozhodnutiu. Patria k nim rozhodnutia, ktoré sú opakovateľné a rutinné.
+Vykonávajú ich najmä línioví manažéri organizačných jednotiek. Neprogramové
+rozhodovanie sa týka riešení nových rozhodovacích problémov, ktoré organizácia ešte
+neriešila a ich vyriešenie si vyžaduje veľkú tvorivosť manažéra. Rozhodnutie vytvára na
+základe intuície a svojich predchádzajúcich skúsenosti (Šolc, 2010).
+
+1.5
+
+KOGNITÍVNA MAPA
+
+Britský spisovateľ psychologickej literatúry a výchovný poradca, ktorý sa stal
+uznávanou autoritou v oblasti mozgu a učenia Tony Buzan vynašiel v 60. rokoch 20.
+storočia myšlienkové mapy a predstavil ich ako najlepšieho pomocníka pri premýšľaní.
+Neustálym štúdiom zaoberajúcim sa myslením a mozgom dospel k záveru, že ľudský mozog
+najlepšie funguje ak spolupracujú jeho rozličné časti spolu. Myšlienkové mapy sú podľa
+neho inšpirované lúčovým myslením, tieto lúče vychádzajú z centrálneho pojmu od ktorého
+sa vytvárajú asociácie a stávajú sa nasledovným potencionálnym stredom. Myšlienkové
+mapy sú odrazom myšlienok v našom mozgu. V mozgu sa nachádza neurón, ktorý vysiela
+signál zapamätania si jednotlivých asociácií a prepojenia medzi nimi aj po dlhšom čase.
+Vytváranie myšlienkových máp je kreatívny proces, ktorý pomáha organizovať myšlienky
+a plánovať do budúcnosti (Buzan, 2012).
+
+29
+
+Využitie kognitívnych máp ma uplatnenie v rôznych oblastiach ako je psychológia,
+vzdelávanie, manažment alebo literárna veda. Vo všetkých vymenovaných oblastiach
+pomáha analyzovať a vizualizovať informácie a vzťahy medzi nimi (Kuzmíková, 2021).
+Kognitívne mapy alebo inak povedané myšlienkové mapy sú jedným z spôsobov
+záznamu informácií, ktoré sa zakladajú na zložení pamäťových vzorcov, podľa ktorých sa
+informácie triedia. Princíp myšlienkových máp vychádza zo štruktúry nášho mozgu.
+Preukázané je, že mentálne funkcie mozgu sú rozdelené do ľavej a pravej hemisféry a každá
+z nich má iné funkcie. Prepojenie hemisfér umožňuje výmenu informácií, spoluprácu
+a vytváranie celistvého obrazu. Kognitívna mapa sa môže používať na zápisy poznatkov
+z prezentácií, na zachytenie informácií, na prípravu k prezentácií, na plánovanie, na riešenie
+problémov, na vytváranie postupov a mnoho ďalšieho (Mikuláštík, 2015).
+Poradca a školiteľ v oblasti myšlienkového mapovania v Buzanovom centre v Poole
+Müller (2013) charakterizoval sedem hlavných oblastí využívania kognitívnej mapy:
+•
+
+nájdenie nápadov,
+
+•
+
+štruktúrované informácie,
+
+•
+
+robenie poznámok a zápiskov,
+
+•
+
+časové plánovanie,
+
+•
+
+riadenie projektov,
+
+•
+
+pripravovanie prezentácie,
+
+•
+
+záznam schôdzok a diskusií.
+
+Kognitívne mapy charakterizujeme ako grafický nástroj na zobrazenie štruktúry
+rozhodovacieho problému. Podporujú identifikáciu základných prvkov a zobrazujú
+vzájomné väzby. Pri vytváraní kognitívnej mapy sa uplatňuje individuálnosť, to ako subjekt
+vníma a vidí štruktúry a súvislosti vo svojej mysli. Princípom individuálnosti sa mapa pre
+svojho tvorcu stáva užitočnou názornou ukážkou pochopenia a ujasnenia riešeného
+problému.
+Pri tvorbe myšlienkových máp je dôležité zachovať postupnosť krokov:
+➢ na začiatku identifikovať prvky súvislosti riešeného problému, ktoré rozhodovateľ
+považuje za dôležité,
+➢ ďalším krokom je vytvoriť skupinu prvkov a ich kategorizáciu,
+
+30
+
+➢ v neposlednom rade zobrazenie kauzálnych situácií a dekódovanie prvkov, na ktoré
+sa
+
+využívajú
+
+orientované
+
+spojnice
+
+naznačujúce
+
+smer
+
+súvislosti
+
+(https://encyklopediapoznania.sk/clanok/6759/kognitivne-myslienkove-mapymind-maps-imapy).
+Zapisovaním informácií do kognitívnych máp umožňuje ich prijímanie a štruktúrovanie
+vlastným spôsobom, čím sa umožňuje jednoduchšia reprodukcia. Ak nastane zložitosť pri
+zobrazovaní vzťahov je možná tvorba čiastkových máp, ktoré dané oblasti rozoberajú
+podrobnejšie (Letovancová, 2002).
+
+Obr. 4: Ukážka kognitívnej mapy
+Zdroj: Letovancová, E. Psychológia v manažmente,2002
+
+31
+
+CIEĽ, POUŽITÉ METÓDY A MATERIÁL
+
+2
+
+Hlavný cieľ diplomovej práce je zhodnotiť problematiku manažérskeho
+rozhodovania z teoretického aj praktického hľadiska. Následne spracovať a aplikovať
+kognitívnu mapu do práce manažérov v konkrétnom podniku s účelom zlepšenia
+rozhodovacieho procesu.
+Aby sme naplnili hlavný cieľ diplomovej práce musíme použiť čiastkové ciele, ktoré
+sme spracovali do nasledujúcich bodov:
+•
+
+Zozbieranie a preštudovanie poznatkov z odbornej literatúry, ktoré sa týkajú
+problematiky manažmentu, manažérskeho rozhodovania, osobnosti manažéra,
+manažérskej sociológie, manažérskej psychológie a kognitívnych máp,
+
+•
+
+Výber konkrétneho podniku pre aplikáciu analýzy problematiky manažérskeho
+rozhodovania,
+
+•
+
+Predstavenie vybraného podniku jeho predmet podnikania, história, poskytované
+služby a pod.,
+
+•
+
+Získanie potrebných informácií o rozhodovaní z podniku pomocou rozhovoru
+s manažérmi a dotazníkového prieskumu,
+
+•
+
+Zhrnutie získaných informácií a poznatkov z rozhovoru a dotazníkového prieskumu
+a následné spracovanie návrhov a odporúčaní pre zlepšenie manažérskeho
+rozhodovania v podniku.
+V predkladanej diplomovej práci sme použili metódy ako selekcia, analýza,
+
+komparácia, dotazníkový prieskum, dedukcia, indukcia a syntéza.
+Metodologický postup pri realizovaní diplomovej práce je nasledovný Metódu
+selekcie a analýzy sme využívali v prvej časti diplomovej práce kde sme z vybranej odbornej
+literatúry selektovali zdroje a poznatky, ktoré sa týkali našej problematiky. Metódu analýzy
+a komparácie sme využívali pri výbere teoretického základu našej práce. Po vypracovaní
+teoretickej časti sme pristúpili k analýze manažérskeho rozhodovania. Analytickú časť sme
+vykonávali pomocou dotazníkového prieskumu, ktorý sme uskutočňovali v júni 2024.
+Zúčastnilo sa ho 45 respondentov. Z toho bolo 9 manažérov a 35 zamestnancov. Na základe
+nízkeho počtu manažérov v podniku sme pristúpili na fakt, že dotazník sme rozposielali na
+vyplnenie všetkým zamestnancov. Zistili sme tak prehľad o manažérskom rozhodovaní, nie
+32
+
+len z pohľadu manažérov ale aj z pohľadu zamestnancov ako vnímajú rozhodovanie. Otázky
+v dotazníku boli kladené anonymne. Prvá časť dotazníka sa zameriavala na pohlavie,
+vzdelanie, vek, pozíciu. Druhá časť dotazníka sa zameriavala na zistenie informácií v oblasti
+rozhodovania sa a využívania kognitívnej mapy v vybranom podniku. Na základe získaných
+poznatkov z dotazníkového prieskumu sme pokračovali metódou syntézy, aby sme
+zhodnotili rozhodovanie vo vybranom podniku. Po zhodnotení získaných poznatkov
+nasledovala formulácia návrhov a odporúčaní pre podnik na zlepšenie rozhodovacieho
+procesu a na to sme využívali metódu dedukcie. V neposlednom rade nasledovala
+formulácia záverov, v ktorej sme tiež využívali metódu dedukcie. Metódu indukcie sme
+využívali pri písaní celej diplomovej práce od teoretickej časti cez návrhy a odporúčania až
+ku formulácií záveru.
+
+33
+
+3
+
+ANALÝZA ASPEKTOV ROZHODOVANIA
+
+MANAŽÉRA
+
+V tretej časti diplomovej práce sa zameriame na analýzu aspektov rozhodovania vo
+vybranom
+
+podnikateľskom
+
+subjekte.
+
+Predmetom
+
+skúmania
+
+bude
+
+rozhodovanie
+
+v manažmente a vnímanie rozhodovania manažérov podniku manažérmi a aj pohľad zo
+strany zamestnancov. Rozoberieme si aj rozhodovacie role a štýly uplatňované vo vybranom
+podniku.
+
+3.1
+
+CHARAKTERISTIKA PODNIKU
+
+Na vytvorenie analýzy pre rozhodovanie v manažmente sme si vybrali podnik Hotel
+Sorea Trigan, ktorý je zameraný na poskytovanie ubytovacích služieb. Hotel je situovaný
+v jednom z najväčších centier cestovného ruchu vo Vysokých Tatrách, ktorým je Štrbské
+Pleso. Nachádza sa na mieste kde v roku 1905 banskobystrický architekt Karol Móry ako
+prvý postavil Hotel Móry a umelé jazero Nové Štrbské Pleso, čím položil základy tejto
+osady. Z histórie hotela vieme len toľko, že v roku 1950 sa hotel Móry zmenil na obrovskú
+zotavovňu Baník. Začiatkom 70-tých rokov minulého storočia zotavovňa prešla stavebnými
+úpravami. Na jej mieste v roku 1979 vyrástla obrovská nová zotavovňa ROH Baník, ktorá
+je v súčasnosti moderný hotel Sorea Trigan.
+Hotel Sorea Trigan patrí pod sieť hotelovej spoločnosti SOREA, ktorá vznikla v roku
+1993. Spoločnosť ma svoje hotely rozmiestnené vo viacerých oblastiach Slovenska.
+Disponuje 11 hotelmi s približnou kapacitou 3500 lôžok. Spoločnosť SOREA preto patrí,
+k jednej z najvýznamnejších subjektov cestovného ruchu.
+Hotel je výrazný svojim hranatým tvarom a ružovou fasádou, ktorý je možné vidieť
+už z diaľky pri ceste autom, vlakom, električkou alebo prípadne zubačkou. Možno ho vidieť
+pri pohľade zo strany Vysokých Tatier alebo zo strany obce Štrba.
+Pred viac ako 10-timi rokmi hotel niesol meno Baník, ktoré bolo prevzaté zo
+zotavovne, ktorá sa na jeho mieste nachádzala v minulosti. Názov hotela sa zmenil s veľkou
+rekonštrukciou, ktorá prebiehala v roku 2012. Najväčšou zmenou, ktorá prebehla počas
+34
+
+rekonštrukcie bolo pristavenie wellness a bazéna ku základu hotela. Ďalšími zmenami, ktoré
+sa udiali bolo pribudnutie panoramatického výťahu s výhľadom na štíty Vysokých Tatier.
+Rekonštrukciou prešli aj jednotlivé úseky hotela ako napr. vstupná hala, jedáleň, kuchyňa,
+recepcia, detský kútik a lobby bar.
+
+Obr. 5: Niekdajší hotel Baník pred rekonštrukciou
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+Obr. 6: Hotel Trigan po rekonštrukcií
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+35
+
+Na obrázku 5 môžeme vidieť hotel ako vyzeral pred vykonaním rekonštrukcie.
+Obrázok 6 už zobrazuje hotel po vykovaní rozsiahlej rekonštrukcie. Ako sme uvádzali
+vyššie pred pár rokmi hotel niesol názov Baník, no úspešnou rekonštrukciou sa nezmenila
+iba vizuálna stránka hotela ale aj jej názov. Momentálne má hotel názov Sorea Trigan.
+Jeho názov vznikol z časti klesajúceho Hrebeňa Bášt, ktorý je posledným vrcholom Patrie
+s nadmorskou výškou 1481 metrov.
+Ku predmetu podnikania hotela Sorea Trigan môžeme zaradiť:
+•
+
+poskytovanie ubytovacích služieb,
+
+•
+
+poskytovanie stravovacích služieb,
+
+•
+
+poskytovanie kongresových miestnosti na organizáciu rôznych školení
+a konferencií,
+
+•
+
+poskytovanie wellness služieb.
+
+Na základe predmetu podnikania hotela môžeme určiť jeho cieľovú skupinu zákazníkov,
+ktorý hotel navštevujú za účelom:
+•
+
+rodinných pobytov,
+
+•
+
+relaxačno-regeneračných pobytov,
+
+•
+
+turistických pobytov,
+
+•
+
+športových sústredení,
+
+•
+
+pobytov pre organizácie, ktoré uskutočňujú školenia a kongresy.
+
+Hotel tiež ponúka pobyty s plnou alebo polpenziou, parkovacie miesta a internetové
+pripojenie.
+Pre svojich zákazníkov ma hotel k dispozícií:
+•
+
+jednolôžkové alebo dvojlôžkové izby,
+
+•
+
+rodinné izby,
+
+•
+
+apartmány,
+
+•
+
+izby s bezbariérovým prístupom pre hendikepovaných.
+
+Každá hotelová izba, ktorá je zobrazená na obrázku 7 je vybavená telefónom, toaletou,
+kúpeľňou, televízorom a internetovým pripojením. Pre rodiny, ktoré sa v hoteli ubytujú
+majú k dispozícii možnosť požičania detskej postieľky. Hotel poskytuje pre svojich
+klientov aj ubytovanie s ich domácimi miláčikmi. Každí, kto sa chce v hoteli ubytovať ma
+možnosť na ich internetovej stránke vidieť vizualizáciu izby pomocou google máp.
+36
+
+Zákazníci si tak môžu pozrieť ako vyzerá hotel z vnútra. Poskytujú nie len vizualizáciu
+izieb ale aj lobby baru, recepcie alebo kongresových miestností. Na základe toho sa vedia
+lepšie rozhodnúť, či využijú služby hotela. Okrem služieb wellness sveta, ktorý môžeme
+vidieť na obrázku 8 sa v hoteli nachádza aj dobré vybavená posilňovňa, v ktorej si každý
+milovník fitness centra príde na svoje. Wellness centrum je vybavené bazénom, saunami
+viacerých druhou a poskytovaním masáži.
+
+Obr. 7: Vizuálna prehliadka izby
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+Obr. 8: Svet wellness a regenerácie
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+37
+
+Hotel je priateľský k deťom preto je vybavení detským kútikom, detským bazénom,
+stoličkami a tiež detským menu v hotelovej reštaurácií. Rodinné izby sú vybavené
+plienkami, detskou kozmetikou, nočníkmi, ohrievačom fliaš a ďalšími výhodami. Počas
+celých prázdnin je deťom poskytnutý animačný program a rôzne aktivity, ktoré nie sú len
+pre deti samotné ale aj ich rodičov. Na základe programu s názvom Vstúpte s dieťaťom
+získal hotel Trigan certifikát Zariadenia priateľského k deťom, ktorý zobrazujeme na
+obrázku 9. Platnosť získaného certifikátu nie je celoživotná ale posudzuje sa v rámci stavu
+hodnotených služieb, ktoré kontroluje Únia materských centier.
+
+Obr. 9: Ocenenie zariadenia priateľského k deťom a rodinám
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/
+
+Okrem ocenenia zariadenia priateľského k deťom a rodine získala spoločnosť Sorea
+množstvo iných ocenení. K najznámejším patrí napríklad Slovak Business Superbrands
+alebo Naj zamestnávateľ.
+
+38
+
+3.2
+
+ROZHODOVANIE MANAŽÉROV V PRAXI
+
+Rozhodovanie manažéra patrí medzi jeden z najdôležitejších aspektov pri výkone ich
+práce. Na základe vykonávania rozhodnutí vedia manažéri ovplyvniť úspech alebo neúspech
+organizácie, v ktorej pôsobia. Manažéri sú ľudia, ktorí každodenne sa stretávajú s mnohými
+situáciami, ktoré musia vyriešiť. Ako realizátori každodenných rozhodnutí nie sú
+zodpovední iba za svoju prácu a činnosti, ale aj za prácu a výsledky svojich podriadených.
+K predmetu rozhodovania manažérov môžeme zaradiť rôzne rozhodovacie problémy, ktoré
+súvisia s oblasťou ich pôsobenia v podniku.
+V každom podniku pôsobia manažéri na rôznych úrovniach riadenia. Prvá úroveň je
+vykonávaná tzv. líniovými manažérmi. K ich každodenným úlohám patrí riadenie
+výkonných zamestnancov. Väčšinou sa títo manažéri stretávajú s rovnakými typmi
+rozhodovacích problémov, kedy niektorí z nich už mávajú vypracované určité postupy
+a metódy na ich riešenie. Ďalšou úrovňou riadenia podniku je stredná úroveň, ktorá je
+vykonávaná strednými manažérmi. Úlohou týchto manažérov je zabezpečovať
+a koordinovať líniových manažérov s cieľom bezchybného chodu jednotlivých úsekov
+podniku, čo vedie k jeho celkovému úspechu a udržateľnosti na trhu. Manažéri strednej
+úrovne sa v praxi stretávajú s rozhodovacími problémami rutinného charakteru ale aj
+s novými problémami, pri ktorých musia využiť nové poznatky, metódy, prvky a podobne.
+Poslednou a najvyššou úrovňou riadenia je vrcholová úroveň vykonávaná vrcholovými
+manažérmi. Ich rozhodovacie problémy sú rozsiahle a vyžadujú si v mnohých prípadoch
+uplatnenie úplne jedinečných prístupov, metód a spôsobov ich riešenia. Manažéri na tejto
+úrovni riadenia rozhodujú o strategických a dlhodobých zámerov smerovania a rozvoju
+podniku.
+Rozhodovanie manažérov vnímame ako výber a prijatie rôznych alternatív a kritérií
+rozhodovacích problémov. Väčšinou ale nevidíme ten zložitý proces, ktorý tomu prednáša.
+Každí rozhodovací problém a následne jeho riešenie si vyžaduje zber a identifikáciu
+informácií potrebných na vytvorenie rôznych alternatív na výber riešenia daného problému.
+Manažéri pri rozhodovaní využívajú rôzne nástroje, metódy a spôsoby podporujúce správne
+pochopenie riešeného problému čím si vedia uľahčiť jeho vyriešenie.
+Manažérov pri ich práci stretávajú rôzne situácie, na ktoré každí z nich reaguje inak,
+tým pádom zastáva inú manažérsku rolu. Medzi tie najdôležitejšie zaraďujeme role
+39
+
+informačné, interpersonálne a rozhodovacie. Rozhodovacie role sa ďalej členia na základe
+toho čo je predmetom rozhodovania manažéra. Hovoríme tak o roli podnikateľa, riešiteľa
+porúch, distribútora informácií a vyjednávača. Manažéri vo svojej práci uplatňujú rôzne
+rozhodovacie štýly. Môžu sa rozhodovať individuálne alebo kolektívne v závislosti od
+vzniknutej situácie.
+
+Obr. 10: Kognitívna mapa pre charakteristiku manažérskeho rozhodovania
+Zdroj: Vlastné spracovanie
+
+40
+
+Rozhodovanie manažéra v praxi sme prehľadne znázornili na obrázku 10. Obrázok
+10 znázorňuje charakteristiku manažérskeho rozhodovania pomocou kognitívnej mapy.
+Znázorňujeme v nej aspekty rozhodovania manažéra, ktorý je nositeľom rozhodovania.
+Preto sme ho umiestili do stredu našej kognitívnej mapy. Od manažéra ďalej znázorňujeme
+aspekty, ktoré ovplyvňujú jeho rozhodovanie v podnikoch. Ako sme už vyššie spomínali,
+každí manažér využíva iné spôsoby, nástroje a metódy uplatňované pri riešení a výbere
+alternatív rozhodovacích problémov. Každí manažér uplatňuje iný štýl rozhodovania
+a zastáva inú manažérsku rolu. Môžeme povedať, že proces rozhodovania manažéra je
+zložitý proces. Jeho hlavným negatívnym faktorom ovplyvňujúcim manažérov je stres. Stres
+vplýva na manažérov z vonkajšieho ale aj vnútorného prostredia. Každodenne úlohy, veľká
+miera zodpovednosti, časová tieseň pri výkone práce, prepracovanosť, veľké množstvo
+povinností, malo oddychu, nekvalitný spánok a mnoho ďalších faktorov ovplyvňujúcich
+prácu manažérov podporujú vznik stresu. Stres nepriaznivo pôsobí na zdravie manažérov
+nie len ich fyzické ale aj psychické. Nadmerné množstvo stresu, dlhodobá psychická záťaž
+alebo prípadné vyhorenie manažéra obmedzujú jeho rozvoj a majú veľmi veľký dopad na
+výkon jeho práce. Každí manažér ak chce tomu predísť mal by venovať svoju pozornosť
+a zaujímať sa o činnosti, ktoré znižujú stres. Manažéri by si mali nájsť aktivity, ktoré sú pre
+nich vhodné a vykonávať ich vo svojom voľnom čase. Môžeme si uviesť pár aktivít, ktoré
+môžu pomôcť ako prevencia proti stresu. Sú to napríklad športové aktivity, meditácia,
+vizualizácia, čítanie kníh, duchovný rozvoj, afirmácie a iné. Uviedli sme si zopár aktivít,
+ktoré pomáhajú odbúrať stres a vyhnúť sa tak zdravotným problémom. Manažéri sú
+jedinečné osobnosti a preto nie každému by vyhovovali uvedené aktivity a je len na
+manažérovi aké aktivity si vyberie a bude ich praktizovať. Výsledkom akýchkoľvek
+praktizovaných aktivít na prevenciu stresu je aktívny a práce schopný manažér, ktorý plní
+nie len svoje ciele ale aj ciele podniku, v ktorom pôsobí.
+
+3.3
+
+VYHODNOTENIE DOTAZNÍKA
+
+Pre vytvorenie analýzy manažérskeho rozhodovania a následného vypracovania
+kognitívnej mapy v podnikateľskom subjekte hotel Sorea Trigan sme získane informácie
+zistili na základe dotazníka.
+
+41
+
+Dotazník bol vytvorený anonymné a respondentom nezaberal veľa času. Cieľovou
+skupinou respondentov sa okrem manažérov hotela stali aj zamestnanci, ktorí tiež hodnotili
+rozhodovanie manažmentu. Keďže hotel Sorea Trigan disponuje malým počtom manažérov
+do analýzy sme zahrnuli aj zamestnancov hotela. Dotazník tak bol vytvorený základnými
+otázkami, ktoré sa zaoberali pohlavím, vekom, zastávanou funkciou v hoteli a vzdelaním.
+Ďalšie otázky do dotazníka sme štruktúrovali tak, aby boli ľahko zrozumiteľné aj pre
+zamestnancov podniku. Zamerané boli na uplatňované štýly rozhodovania v hoteli, na
+pracovné prostredie hotela, na spôsoby rozhodovania, na uplatňované metódy a na
+využívanie kognitívnej mapy v procese rozhodovania hotela. Všetky otázky boli uzatvorené
+a mali výber jednej alebo viacerých alternatív.
+Dotazníkového prieskumu sa zúčastnilo 45 respondentov. Z toho opýtaných bolo 8
+manažérov, 35 zamestnancov a riaditeľ hotela. V hoteli viac prevláda na základe pohlavia
+ženská skupina, ktorá je v počte 28 žien. Mužskú skupinu hotela tvorí iba 17 mužov.
+
+Graf 1: Veková štruktúra hotela
+Zdroj: Vlastné spracovanie
+Z predchádzajúceho grafu 1 môžeme vidieť vekovú štruktúru hotelového personálu.
+Najväčšiu skupinu zastávajú pracovníci vo veku od 36-45 rokov čo môžeme považovať za
+najviac produktívny pracovný vek. Na druhej strane najnižšiu skupinu tvoria pracovníci vo
+veku od 20-35 rokov. Treťou najviac zastúpenou vekovou kategóriou sú pracovníci vo
+veku 46-56 rokov, ktorí majú najviac pracovných skúseností vo vykonávanej profesií.
+
+42
+
+Graf 2: Dosiahnuté vzdelanie pracovníkov hotela
+Zdroj: Vlastné spracovanie
+Na základe toho, že dotazníkového prieskumu sa zúčastnili aj zamestnanci môžeme
+v grafe 2 vidieť prevahu v ukončenom vzdelaní stredoškolskom s maturitou. Ukončené
+vzdelanie vysokoškolské I. stupňa a II. stupňa majú manažéri resp. vedúci pracovníci
+hotela a riaditeľka hotela. Hotel zamestnáva najmenej pracovníkov s ukončením vzdelaním
+stredoškolským bez maturity. Môžeme povedať, že hotel si dáva záležať na výbere
+zamestnancov s dosiahnutým vzdelaním stredoškolským s maturitou.
+
+Graf 3: Postavenie pracovníkov v hoteli
+Zdroj: vlastné spracovanie
+
+43
+
+Ako znázorňujeme v grafe 3 najviac dopýtaných respondentov, ktorí sa zúčastnili
+dotazníkového prieskumu boli zamestnanci v počte 35. Menej zastúpenou skupinou boli
+manažéri v počte 9 a 1 vrcholový manažér čiže riaditeľka hotela. Vyššie sme už uvádzali, že
+hotel má malý počet manažérov a preto sme do prieskumu zapojili aj zamestnancov pre
+lepšiu analýzu rozoberanej problematiky.
+Prvú časť dotazníkového prieskumu zameranú na základné charakteristické otázky
+sme si vyššie rozobrali. Následne sa ideme pozrieť na druhú časť dotazníka, ktorá bola
+zameraná na otázky týkajúce sa rozhodovania manažérov a využívania kognitívnej mapy
+v rozhodovacom procese.
+Prvá otázka druhej časti dotazníkového prieskumu bola zameraná na uplatňovanie
+rozhodovania opýtaných respondentov vo svojej profesií.
+
+Graf 4: Uplatňované rozhodovanie pracovníkov vo svojej profesií
+Zdroj: Vlastné spracovanie
+Z grafu 4 nám vyplýva, že v hoteli prevláda kolektívne rozhodovanie čo uviedlo
+62,2% respondentov. Ostatní respondenti si myslia, že v hoteli sa viac uplatňuje individuálne
+rozhodovanie s počtom 37,8% opýtaných.
+Druhou otázkou sme chceli zistiť, ako sa pracovníkom pracuje v ich pracovnom
+prostredí a ako by svoje pracovné prostredie charakterizovali.
+
+44
+
+Graf 5: Pracovné prostredie podniku
+Zdroj: Vlastné spracovanie
+Ako sa uvádza v grafe 5 svoje pracovné prostredie považuje za priateľské 37,8%
+opýtaných pracovníkov hotela. S rovnakým percentuálnym počtom a to 37,8% pracovníkov
+hotela sa vyjadrilo, že ich pracovné prostredie závisí od jednotlivých úsekov hotela. Napäté
+pracovné prostredie hotela vidí 24,4% opýtaných zamestnancov. Vzhľadom k tomu, že hotel
+má v prevahe viac ženské pohlavie ako mužské výsledky dopadli celkom pozitívne.
+Pracovné prostredie sa tiež odráža od rozloženia jednotlivých zmien na rôznych úsekoch
+hotela. Niekedy stačí prehodiť zmeny pár zamestnancom a pracovné prostredie sa vie rýchlo
+zmeniť rôznym smerom. Pracovné prostredie úzko súvisí s vytváraním konfliktov a ich
+riešením medzi zamestnancami. Čím viac zamestnancov bude pracovné prostredie
+považovať za priateľské, tým menej sa budú vytvárať konflikty na pracoviskách a zabezpečí
+sa bezproblémový chod jednotlivých úsekov hotela.
+Tretia otázka dotazníka sa zameriavala na spôsoby akým sa manažéri a zamestnanci hotela
+rozhodujú a ako by svoje rozhodovanie charakterizovali.
+
+45
+
+Graf 6: Spôsob rozhodovania pracovníkov
+Zdroj: Vlastné spracovanie
+Graf 6 znázorňuje spôsob akým sa manažéri ale aj zamestnanci podniku rozhodujú
+vo vzniknutých situáciách. 24% opýtaných respondentov zastávajú názor, že ich
+rozhodovanie prebieha na základe racionálneho myslenia. Od závažnosti rozhodovacieho
+problému sa rozhoduje 41% opýtaných respondentov. 12% získalo rozhodovanie na základe
+intuície respondentov a ďalších 23% zastáva názor, že sa rozhoduje spontánne.
+Nasledujúci graf 7 nám priblíži odpovede respondentov na štvrtú otázku, ktorá sa
+týka aspektov využívaných v rozhodovaní. Respondenti dotazníka si v otázke vyberali viac
+možnosti, ktoré pri rozhodovaní považujú za dôležité.
+
+46
+
+Graf 7: Dôležité aspekty v rozhodovaní
+Zdroj: Vlastné spracovanie
+Ako sme uvádzali vyššie graf 7 nám zobrazuje dôležité aspekty rozhodovania, ktoré
+považujú pracovníci hotela pri rozhodovaní za podstatné. Môžeme tak vidieť, že najväčšiu
+dôležitosť
+
+pripisujú
+
+podrobným
+
+a pravdivým
+
+informáciám
+
+riešeného
+
+problému,
+
+pravidelným pracovným poradám, vypočutiu názoru ostatných členov pracovného tímu
+a pracovnými poradami vykonávaným aj so zamestnancami. Za menej dôležité aspekty
+považujú analýzu, nájdenie problémov a variant ich riešenia a časový faktor. Do úvahy
+musíme vziať aj faktor väčšieho počtu respondentov medzi zamestnancami. Pre manažérov
+je veľmi dôležitý a stresujúci aspekt časového faktora potrebného pre výber správneho
+rozhodnutia. Dôkladnú analýzu hotela považujú za podstatnú iba pracovníci manažmentu
+a vedúci oddelení.
+Piata otázka bola zameraná na štýl vedenia v hoteli. Z nasledujúceho grafu 8 môžeme
+povedať, že pracovníci hotela vnímajú štýly vedenia v troch smeroch. 37,8% opýtaných
+respondentov si myslí, že v podniku prevláda autoritatívny štýl vedenia. Na druhej strane
+15,6% respondentov uviedlo, že v podniku prevláda kolektívny štýl vedenia. Najväčšia
+skupina s 46,7% uviedla, že podľa nich v hoteli prevláda kombinácia oboch štýlov vedenia.
+
+47
+
+Graf 8: Uplatňované štýly vedenia v hoteli
+Zdroj: Vlastné spracovanie
+Typy rozhodovania sú v podniku tak tiež dôležité, preto sa šiesta dotazníková otázka
+venovala tejto problematike. Skúmali sme ako sú na tom pracovníci hotela a či vôbec vedia
+aké je ich každodenné rozhodovanie.
+
+Graf 9: Typy vykonávaných rozhodovaní v hoteli
+Zdroj: Vlastné spracovanie
+Vzhľadom na vysoký počet zamestnancov sa v hoteli podľa údajov z grafu 9
+najviac využíva každodenné operatívne rozhodovanie. Druhú najpočetnejšiu časť tvorí
+taktické rozhodovanie, ktoré vykonávajú manažéri hotela. S najmenším počtom sa
+umiestnilo strategické rozhodovanie.
+Siedma otázka, ktorá bola položená respondentom skúma mieru participácie pri
+rozhodovaní v hoteli.
+48
+
+Graf 10: Miera participácie pri rozhodovaní v hoteli
+Zdroj: Vlastné spracovanie
+Získané údaje z grafu 10 poukazujú na mieru participácie v hoteli. 46,7%
+zúčastnených respondentov si zastáva názor, že v hoteli prevláda priemerná miera
+participácie. 31,1% zúčastnených respondentov zastáva názor, že v hoteli nie je žiadna
+participácia a len 20% respondentov uviedlo nízku mieru participácie.
+Odpovede na ôsmu otázku vypovedajú o efektívnej forme motivácie pre
+pracovníkov hotela, ktoré ich majú podnecovať k lepšiemu pracovnému výkonu.
+Zúčastnení respondenti pri tejto otázke mohli uviesť viac možností, ktoré sa ich týkajú.
+
+Graf 11: Efektívne formy motivácie pracovníkov
+Zdroj: Vlastné spracovanie
+
+49
+
+Zo znázornených výsledkov v grafe 11 môžeme povedať, že pracovníkov pre
+podanie lepšieho pracovného výkonu podnecuje finančná motivácia vo forme finančnej
+obmeny a to až v 46% opýtaných. Pre podanie lepšieho pracovného výkonu iba 33,3%
+opýtaných motivuje ak dostane uznanie alebo pochvalu od svojho nadriadeného. 53,3%
+opýtaných uviedlo, že v nich je zvyšovanie kompetencií a možný kariérny rast podnecujúci
+odviesť lepší pracovný výkon.
+Deviatej otázke položenej v dotazníku bolo účelom zistiť frekvenciu výskytu
+pracovných konfliktov na pracovisku.
+
+Graf 12: Výskyt pracovných konfliktov na pracovisku
+Zdroj: Vlastné spracovanie
+Zo získaných odpovedí môžeme na grafe 12 vidieť, že 33,3% respondentov sa zhodli
+na zriedkavej a občasnej frekvencií výskytu konfliktov na pracovisku. Iba 31,1%
+respondentov uviedlo, že frekvencia výskytu konfliktov na pracovisku je pravidelná.
+V otázke číslo desať sme sa zamerali na nástroje, ktoré pracovníci hotela využívajú
+pri riešení rozhodovacích problémov. Zo získaných údajov z grafu 13 sme zistili, ktoré
+z nástrojov využíva hotel pri riešení rozhodovacích problémov. Ako vidíme v grafe 13
+najväčšie zastúpenie ma brainstorming a žiadne využívané nástroje vzhľadom k tomu, že
+väčšina zamestnancov nepotrebuje pri výkone svojej práce využívať uvedené nástroje.
+Ďalšie zastúpenie s pekným počtom respondentov tu majú swot analýza, konkurenčná
+analýza a iné nástroje, ktoré podnik pri riešení rozhodovacích problémov využíva len neboli
+uvedené v možnostiach výberu.
+
+50
+
+Graf 13: Nástroje využívané pri riešení rozhodovacích problémov
+Zdroj: Vlastné spracovanie
+Jedenásta otázka bola smerovaná na pojem kognitívna mapa. Odpovede na danú
+otázku nám ujasnili ako respondenti poznajú tento pojem a či sa s ním už niekedy stretli.
+
+Graf 14: Poznanie pojmu kognitívna mapa
+Zdroj: Vlastné spracovanie
+Ako vidíme na grafe 14 prevažná väčšina z opýtaných respondentov (51,1%) sa už
+stretli s pojmom kognitívna mapa a poznajú aj jej význam. 48.9% opýtaných sa s pojmom
+nikdy nestretla a nepozná ani význam daného pojmu.
+Otázkou číslo dvanásť sme chceli sledovať využívanie kognitívnej mapy v procese
+rozhodovania.
+51
+
+Graf 15: Využívanie kognitívnej mapy v procese rozhodovania
+Zdroj: Vlastné spracovanie
+Pomocou grafického zobrazenia na grafe 15 vidíme, že kognitívnu mapu využíva
+iba malá časť 6,7% dopytovaných, ktorý sú súčasťou manažmentu. Veľkú väčšinu 73,3%
+tvorí práve skupina zamestnancov hotela, ktorý nevidia význam vo využívaní kognitívnej
+mapy. 20% dopytovaných, ktorý plánujú túto metódu v rozhodovaní využiť tvoria
+manažéri hotela.
+Úlohou trinástej otázky je zistiť čo si myslia opytovaní respondenti o tom kde a na
+aké účely sa môže kognitívna mapa využívať v hoteli.
+
+Graf 16: Účely využívania kognitívnej mapy v hoteli
+Zdroj: Vlastné spracovanie
+
+52
+
+V predchádzajúcom grafe 16 sú zobrazené rôzne účely, na ktoré sa dá kognitívna
+mapa v podniku využiť. Najviac respondentov si myslí, že kognitívnu mapu by vedeli
+využiť na plánovanie každodenných úloh jednotlivých úsekov, na identifikáciu a analýzu
+problémov podniku a na zlepšovanie činnosti úsekov podniku. Najmenej respondentov by
+využilo kognitívnu mapu na výber a hodnotenie variant riešeného problému a na iné účely.
+Cieľom otázok štrnásť a pätnásť je pozrieť sa na to ako respondenti vnímajú aké sú
+výhody a nevýhody využívania kognitívnej mapy v procese rozhodovania sa.
+
+Graf 17: Výhody využívania kognitívnej mapy
+Zdroj: Vlastné spracovanie
+Z výsledkov zobrazených v grafe 17 môžeme povedať, že medzi výhody využívania
+kognitívnej mapy sú uvedené respondentmi jasnejšie pochopenie a vizualizácia
+komplexných problémov na prvom mieste so 60%. Na druhé miesto respondenti určili
+s 37,8% podporu tvorivosti a kreatívneho. Tretie miesto obsadila lepšia komunikácia
+s členmi tímu s 24,4%. A na poslednom mieste sa nachádzajú iné výhody, ktoré nie sú
+uvedené v dotazníku s 15,6%.
+
+53
+
+Graf 18: Nevýhody využívania kognitívnej mapy
+Zdroj: Vlastné spracovanie
+Na základe grafického zobrazenia na grafe 18 si môžeme upresniť nevýhody
+využívania kognitívnej mapy. Najviac respondentov 68,9% uviedlo, že medzi hlavú
+nevýhodu patrí časová náročnosť prípravy kognitívnej mapy. Horšiu priehľadnosť v prípade
+preplnenia mapy uviedlo za ďalšiu nevýhodu 42,2% opýtaných. Na koniec sa s rovnakou
+hodnotou
+
+15,6% respondenti
+
+určili
+
+horšiu
+
+aktualizáciu
+
+v prípade zmien
+
+a iné
+
+v dotazníkovom prieskume neuvedené nevýhody.
+Koncepcia nasledujúcej šestnástej otázky je zameraná na zhodnotenie celkového
+vplyvu využívania kognitívnej mapy v rozhodovaní.
+
+Graf 19: Vplyv využívania kognitívnej mapy na manažérske rozhodovanie
+Zdroj: Vlastné spracovanie
+54
+
+Predchádzajúci graf 19 poukazuje aký celkový vplyv môže mať používanie
+kognitívnej mapy na rozhodovanie a aký postoj ku danej metóde majú dopytovaný
+účastníci dotazníka. Môžeme vidieť, že prevažná časť 91,1% účastníkov dotazníka zastáva
+neutrálny alebo pozitívny postoj voči využívaniu kognitívnej mapy v procese
+rozhodovania. Iba 8,9% účastníkov uviedlo, že ku danej metóde má negatívny postoj.
+V poslednej otázke nášho dotazníkového prieskumu bolo zistiť, koľko
+z respondentov by sa zúčastnilo školenia týkajúceho sa vytvárania a uplatňovania
+kognitívnej mapy v praxi.
+
+Graf 20: Miera účasti na školeniach o kognitívnej mape
+Zdroj: Vlastné spracovanie
+V odpovedia na túto otázku sme sa stretli v grafe 20 s viacerými názormi. 40%
+z respondentov sa vyjadrilo, že by sa školenia o vytváraní a uplatňovaní kognitívnych máp
+v praxi nezúčastnilo. 26,7% zúčastnených uvažuje nad možnosťou účasti na takomto
+školení. V neposlednom rade 33,3% zo zúčastnených respondentov sa vyjadrilo, že
+školenie o kognitívnych mapách by absolvovali. V nadväznosti na otázku číslo dvanásť by
+im to pomohlo v plánovaní využitia tejto metódy v hoteli.
+
+55
+
+ZHRNUTIE ZÍSKANÝCH POZNATKOV
+
+4
+
+A ODPORÚČANÉ NÁVRHY
+
+V štvrtej časti našej diplomovej práce sa zameriame na zhrnutie poznatkov, ktoré
+sme získali dotazníkovým prieskumom z tretej časti. Navrhneme tak odporúčania pre hotel
+Sorea Trigan, ktoré by mohli zlepšiť a skvalitniť rozhodovací proces v hoteli.
+
+NÁVRHY A ODPORÚČANIA VÝSLEDKOV V PRAXI
+
+4.1
+
+Na získanie potrebných informácií sme vypracovali dotazník, ktorý bol zameraný na
+manažérske rozhodovanie v hoteli. Z dotazníkového prieskumu sme tým zistili množstvo
+poznatkov potrebných pre vytvorenie návrhov a odporúčaní pre hotel Sorea Trigan. Znovu
+musíme podotknúť, že dotazníkového prieskume sa zúčastnili aj zamestnanci hotela
+z dôvodu malého počtu manažérov v podniku. Musíme dodať, že sme tak dostali
+prehľadnejší pohľad čo sa týka problematiky rozhodovania manažérov zo strany vnímania
+zamestnancov hotela.
+Základom týchto získaných poznatkov je návrh nasledovných odporúčaní pre hotel
+Sorea Trigan v oblasti manažérskeho rozhodovania:
+•
+
+Odporúčame hotelu uplatňovať kolektívny prístup a rozhodovanie pri svojej práci,
+
+•
+
+Navrhujeme zlepšovať komunikáciu so zamestnancami a predchádzať tak
+zbytočným konfliktom na pracovisku,
+
+•
+
+Navrhujeme zamerať sa viac na uskutočňovanie pracovných porád so
+zamestnancami,
+
+•
+
+Odporúčame vypočuť si názory zamestnancov a ich prípadné nápady na zlepšenie
+činnosti jednotlivých úsekov, v ktorých vykonávajú svoju prácu,
+
+•
+
+Pred uskutočnením definitívneho rozhodnutia manažéra navrhujeme viac diskutovať
+s členmi tímu o vzniknutom rozhodovacom probléme,
+
+•
+
+Súčasnosti sa kladie dôraz na participáciu zamestnancov podniku preto odporúčame
+na základe získaných poznatkov z dotazníka zvýšiť participáciu so zamestnancami
+a prispieť tak k efektívnejšej práci zamestnancov. Je dokázané, že vyššia miera
+56
+
+participácie podnecuje zvyšovanie motivácie zamestnancov. Ich zapojenie do
+procesu chodu podniku u nich zvyšuje mieru zodpovednosti a stotožnenia sa
+s podnikom ako vlastným,
+•
+
+Zvýšeným participácie odporúčame hotelu zamerať sa aj na motiváciu zamestnancov
+pochvalou a uznaním. Druh tejto motivácie vedie zamestnancov k lepšiemu výkonu
+na pracovisku,
+
+•
+
+Hotelu by sme tak tiež navrhovali aby začal používať viac nástrojov, ktoré uľahčia
+hodnotenie rozhodovacieho problému, nájdenie rôznych alternatív rozhodovania,
+výber vhodnej alternatívy a následné rozhodnutie,
+
+•
+
+Ak hotelu navrhujeme aby viac využíval rôzne nástroje, ktoré uľahčia ich
+rozhodovanie mali by sme im odporučiť aj zúčastnenie sa na školeniach týkajúcich
+sa rozhodovania v manažmente a využívania potrebných nástrojov a metód.
+
+•
+
+Odporúčame hotelu vyskúšať metódu kognitívnej mapy aplikovať pri rozhodovaní
+a činnosti na jednotlivých úsekoch hotela,
+
+•
+
+Pre lepšie pochopenie a aplikovanie kognitívnych máp by sme hotelu navrhovali
+zúčastniť sa na školení, ktoré sa týkajú konkrétnej problematiky,
+
+•
+
+Na školenia v oblasti aplikovania kognitívnej mapy do procesu by sme odporučili
+aby sa ho zúčastnili nie len manažéri ale aj zamestnanci. Kognitívna mapa je metóda,
+ktorá vie na základe grafického zobrazenia uľahčiť prácu aj zamestnancom na
+niektorých úsekoch hotela. Ak si zamestnanci na zmene vytvoria kognitívnu mapu
+budú vedieť aká je ich denná úloha, aké činnosti musí každí splniť a aké výsledky
+majú dosiahnuť. Zabránili by sme tak dvojitej neefektívnej práci a zbytočným
+konfliktom na pracovisku.
+Celková interpretácia získaných poznatkov a výsledkov našej diplomatickej práce je
+
+komplikovaná. Na základe toho sme spracovali kognitívnu mapu, ktorá slúži na
+spresnenie a spracovanie informácií. Nasledujúca kognitívna mapa znázornená na
+obrázku 11 slúži ako efektívny návrh a ukážka na jej vytvorenie pre hotel Sorea Trigan.
+
+57
+
+Obr. 11: Ukážka a návrh kognitívnej mapy pre hotel Sorea Trigan
+Zdroj: Vlastné spracovanie
+58
+
+ZÁVER
+
+Hlavným cieľom predkladanej diplomovej práce bolo bližšie si priblížiť a rozobrať
+problematiku manažérskeho rozhodovania vo vybranom podniku a zistené informácie
+o rozhodovaní manažérov zakresliť do kognitívnej mapy.
+Našu diplomovú prácu sme rozdelili na 4 časti, ktorými sú teoretická časť, stanovenie
+cieľa, praktická časť a v neposlednom rade sme uviedli návrhy a odporučenia pre nami
+vybraný podnik hotel Sorea Trigan.
+V prvej časti diplomovej práce sme sa venovali zozbieraniu odborných literárnych
+poznatkov z domácej ale aj zahraničnej literatúry súvisiacich s témou manažérskeho
+rozhodovania. Uviedli sme a definovali sme pojmy ako manažment, manažérska sociológia
+a psychológia, kto je manažér, charakterizovali sme osobnosť manažéra, venovali sme sa
+problematike manažérskeho rozhodovania a v neposlednom rade sme sa zamerali na
+charakteristiku pojmu kognitívna mapa, na jej využívanie a na jej proces tvorby v procese
+rozhodovania manažérov.
+Ďalšiu časť diplomovej prace sme zamerali na cieľ práce, metódy a materiál, ktorý
+sme používali pri práci.
+Tretia praktická časť diplomovej práce bola venovaná analýze manažérskeho
+rozhodovania v konkrétnom podniku. Na vytvorenie potrebnej analýzy sme si vybrali
+podnik
+
+hotel
+
+Sorea
+
+Trigan,
+
+ktorý
+
+poskytuje
+
+ubytovacie
+
+služby
+
+v jednom
+
+z najnavštevovanejších stredísk cestovného ruchu vo Vysokých Tatrách, ktorým je Štrbské
+Pleso. Poznatky potrebné pre analýzu manažérskeho rozhodovania sme získali rozhovorom
+s kompetentnými manažérmi a dotazníkovým prieskumom. Na základe rozhovoru sme
+zistili, že hotel disponuje malým počtom manažérov a preto sme do našej analýzy
+zakomponovali aj zamestnancov. Tým pádom sme získali pohľad ma proces manažérskeho
+rozhodovania nie len z pohľadu vnímania samotných manažérov ale aj z pohľadu vnímania
+zamestnancov. Zamestnanci ako kľúčový faktor každého podniku vedia zhodnotiť proces
+akým sa rozhoduje ich manažér pri výkone svojej práce. Zakomponovanie zamestnancov do
+analýzy nie je nikdy na škodu, pretože cez zamestnancov vieme lepšie zistiť chod podniku
+a výkon manažmentu. Dotazníkového prieskumu sa nám zúčastnilo dokopy 45
+respondentov. Z toho bolo 8 manažérov resp. vedúcich pracovníkov, 35 zamestnancov a 1
+59
+
+riaditeľ hotela. Čo sa týka pohlavia v nami vybranom hoteli prevláda ženské pohlavie
+s počtom 28 žien a mužské pohlavie zastáva 17 mužov.
+V štvrtej časti našej diplomovej práce sme zhrnuli získané poznatky z praktickej časti
+a vytvorili sme návrhy a odporúčania, ktoré by zlepšili oblasť procesu rozhodovania
+manažérov v hoteli. Súčasťou diplomovej práce bola aj kognitívna mapa. O kognitívnej
+mape sme sa v analytickej časti z dotazníkového prieskumu dozvedeli, že podnik nevyužíva
+tento analytický nástoj v procese rozhodovania manažéra. Na základe toho sme chceli hotel
+nabádať, aby pre zefektívnenie rozhodovacieho procesu aplikovali do svojej činnosti aj
+analytický nástroj, akým je kognitívna mapa. Preto sme kognitívnu mapu znázornili a má
+slúžiť hotelu ako návrh a ukážka na jej spracovanie.
+Na záver môžeme povedať, že kognitívna mapa je cenný nástroj, ktorý podporuje
+rozhodovanie manažérov. Poskytuje im lepší prehľad o rozhodovacích problémov a vzťahov
+medzi nimi a podporuje ich strategické myslenie a tímovú spoluprácu. Implementácia
+kognitívnej mapy do rozhodovacieho procesu môže významne a efektívne prispieť ku
+kvalite rozhodovania manažérov v podnikoch.
+V úplnom závere môžeme skonštatovať, že cieľ našej diplomovej práce sme
+v úspešne splnili.
+
+60
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+
+1. ANTOŠOVÁ,
+
+M.
+
+2010.
+
+Manažment
+
+v teórií
+
+i praxi.
+
+Košice:
+
+Edičné
+
+stredisko/dekanát F BERG, TU, 2010. 253 s. ISBN 978-80-553-0516-5
+2. BALAŽEK, L. 2011. Managment: organizovaní, rozhodovaní, ovlivňovani. 1. vyd.
+Praha: Grada Publishing, 2011. 191 s. ISBN 978-80-247-3275-6
+3.
+
+BEDRNOVÁ, E. – JAROŠOVÁ, E. – NOVÝ, I. A KOL. 2012. Manažérska
+psychologie a sociologie. 1. vyd. Praha: Management Press, 2012. 615 s. ISBN 97880-7261-239-0
+
+4. BLAŽEK, L. 2011. Management: organizování, rozhodování, ovlivňování. Praha:
+Garda Publishing, 2011. 191 s. ISBN 978-80-247-3275-6
+5. BUZAN, T. 2012. Myšlienkové mapy: probuďte svou kreativitu, zlepšete svou pameť,
+zmente svuj život. 1. vyd. Brno: BizBooks, 2012, 112 s. ISBN 978-80-265-0030-8
+6. ČAKRT, M. 2005. Typológie osobnosti pro manažery. 1. vyd. Praha: Management
+Press, 2005. 361 s. ISBN 80-85943-12-3
+7.
+
+FLEŠKOVÁ, M. – DOLINSKÁ, V. 2010. Aplikovaná psychológia pre ekonómov
+a manažérov. Bratislava: Iura Edition, 2010. 255 s. ISBN 978-80-8078-337-2
+
+8. FOTR, J. – ŠVECOVÁ, L A KOL. 2010. Manažerské rozhodovaní. 2. vyd. Praha:
+Ekopress, s.r.o, 2010. 474 s. ISBN 978-80-86929-59-0
+9. HANČOVSKÁ, E. 2013. Osobnosť manažéra a coping. 1. vyd. Trenčín: Trenčianska
+univerzita Alexandra Dubčeka, Fakulta sociálno-ekonomických vzťahov, 2013. 140
+s. ISBN 978-80-8075-503-1
+10. HITTMAR, Š. – JANKAL, R. 2013. Strategický manažment. Žilina: vydavateľstvo
+EDIS, 2013. 148 s. ISBN 978-80-554-0734-0
+11. HITTMÁR, Š. 2006. Manažment. 1 vyd. Žilina: Žilinská univerzita v Žiline/EDIS –
+vydavateľstvo ŽU, 2006. 301 s. ISBN 80-8070-558-5
+12. HORVÁTHOVÁ, P. – BLÁHA, J. – ČOPÍKOVÁ, A. 2016. Rízení lidských zdroju
+– Nové trendy. Praha: Management Press, 2016. 425 s. ISBN 978-80-7261-430-1
+13. KADLEČÍKOVÁ, M. A KOL. 2012. Základy manažmentu. Nitra: Slovenská
+poľnohospodárska univerzita v Nitre, 2012. 204 s. ISBN 978-80-552-0898-5
+14. KAJANOVÁ, H. 2012. Nová koncepcia vo vzdelávaní – m – learnining. č. 3., In
+Sociálno – ekonomická revue, 2012. 49-60 s. ISSS 1336-3727
+
+61
+
+15. KAŠPATOVÁ, E. – HAMPL, P. 2012. Sociológie rízení. 2. vyd. Praha: Vysoká škola
+ekonómie a managmentu, 2012. 281 s. ISBN 978-80-86730-81-3
+16. KOLLÁRIK, T. 2004. Sociálna psychológia. Bratislava: Ikar, 2004. 545 s. ISBN 80223-1841-8
+17. KUZMÍKOVÁ, J. 2021. Kognitívna literárna veda. Bratislava: VEDA SAV, 2021,
+264 s. ISBN 978-80-224-1896-6
+18. LETOVANCOVÁ, E. 2002. Psychológia v manažmente. Bratislava: Vydavateľstvo
+UK, 2002, 168s. ISBN 80-223-1725-X
+19. MAJTÁN, M. A KOL. 2008. Manažment. Bratislava: Sprint, 2008. 429 s. ISBN
+8089085729
+20. MAJTÁN, M. A KOL. 2016. Manažment. Bratislava: Spirint 2 s. r. o., 2016. 408 s.
+ISBN 978-80-89710-27-10
+21. MATUŠOVIČOVÁ, M. – ČIHOVSKÁ, V. 2016. Obchodný manažment. Bratislava:
+Wolters Kulwer, 2016. 266 s. ISBN 978-80-8168-515-6
+22. MIHOK, J. – TREBUŇA, P. 2009. Základy manažmentu. Košice: Strojnícka fakulta
+TU, 2009. 220 s. ISBN 978-80-553-0345-1
+23. MIKULÁŠTÍK, M. 2015. Manažérska psychológia. 3 vyd. Praha: Garda Publishing,
+2015. 344 s. ISBN 978-80-247-4221-2
+24. MIKUŠ, P. – DROPPA, M. 2008. Základy manažmentu. 1. vyd. Ružomberok: Edičné
+stredisko pedagogickej fakulty, 2008. 237 s. ISBN 987-80-8084-309-0
+25. MINTZBERG, H. 2013. Simply Managing: What Managers Do and Can Do Better.
+Prentice Hall, New Jersey, 2013.
+26. MIŽIČKOVÁ, Ľ. – SLÁVIKOVÁ, G. 2012. Manžment. Dubnica nad Váhom:
+Dubnický technologický inštitút, 2012. 132. ISBN 978-80-89400-51-5
+27. MÜLLER, H. 2013. Myšlienkové mapy. Praha: Garda Publishing, 2013, 112 s. ISBN
+978-80-247-5057-6
+28. OBST, O. – HRABOVSKÝ, M. – IVANOVÁ, K. – KUBÁTOVÁ, J. – HORVÁTH,
+M. – KLOS, R. 2006. Základy obecného managmentu. Univerzita Palackého
+v Olomouci, 2006. 74 s. ISBN 80-244-1365-5
+29. PAPULA, J. – PAPULOVÁ, Z. 2014. Manažérske rozhodovanie. Prístupy
+a postupy. Bratislava: Kartprint, 2014. 135 s. ISBN 978-80-89553-20-4
+30. SEDLÁK, M. – LÍŠKOVA, C. 2015. Manažment. Bratislava: Wolters Kluwer Edícia
+Ekonómia, 2015, 387 s. ISBN 978-80-8168-296-4
+62
+
+31. SEDLÁK, M. 2007. Manažment. 3. vyd. Bratislava: IURA EDIETION, 2007. 360 s.
+ISBN 978-80-8078-133-0
+32. SEDLÁK, M. 2009. Manažment. Bratislava: Wolters Kluwer (lura edition), 2009.
+434 s. ISBN 978-80-8078-283-2
+33. SEDLÁK, M. 2012. Základy manažmentu. Bratislava: Iura Edition, 2012. 330 s.
+ISBN 978-8078-455-3
+34. SEEMANN, P. 2016. Psychológia v práci manažéra. Žilina: EDIS ŽU, 2016. ISBN
+978-80-554-1266-5
+35. ŠTOFKOVÁ, J. A KOL. 2007. Manažment podniku. Žilina: EDIS, 2007. 365 s.
+ISBN 978-80-8070-713-2
+36. ŠTOFKOVÁ, J. A KOL. 2011. Manažment podniku. Žilina: Žilinská univerzita
+vydavateľstvo EDIS ŽU, 2011. 391 s. ISBN 978-80-554-0418-9
+37. TEJ, J. A KOL. 2022. Manažment. Základy manažmentu. Učebné texty. 1 vyd.
+Prešov: Bookmann, s. r. o., 2022. 6 s. ISBN 978-80-8165-479-4
+38. VEBER, J. A KOL. 2009. Management základy moderní manažerské prístupy
+výkonnost a prosperita. 2. vyd. Praha: Management Press, 2009. 734 s. ISBN 97880-7261-200-0
+39. VODÁČEK, L. – VODÁČKOVÁ, O. 2013. Moderní management v teorii a praxi.
+Praha: Management Press, 2013. 360 s. ISBN 978-80-7261-232-1
+40. VYSEKALOVÁ, J. a kol. 2020. Image a firemní identita. 2. vyd. Praha: Grada
+Publishing, 2020. 224 s. ISBN 978-80-271-2841-9
+41. ZÁVADSKÝ, J. – KOVAĽOVÁ, M. 2011. Operatívna a strategická výkonnosť
+podnikových procesov. Bratislava: Slovenský komitét pre vedecké riadenie ZSVTS,
+2011. 84 s. ISBN 978-80-970684-1-7
+
+63
+
+INTERNETOVÉ ZDROJE:
+
+1. CALICCHIO, S. 2022 [online]. Osobnosť: úvod do vedy o osobnosti: čo je osobnosť
+a ako pomocou
+
+vedeckej
+
+Books.google.com.
+
+psychológie zistiť,
+
+ako ovplyvňuje náš
+
+Dostupné
+
+na
+
+život.
+
+internete
+
+https://books.google.sk/books?id=c2OLEAAAQBAJ&printsec=frontcover&hl=sk
+&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+2. Encyklopediapoznania.sk. Kognitívne (myšlienkové) mapy. Publikované 2016,
+Dostupné na internete:
+
+https://encyklopediapoznania.sk/clanok/6759/kognitivne-
+
+myslienkove-mapy-mind-maps-imapy
+3. https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/
+4. ŠOLC, M. 2010. Rozhodovacie procesy v manažmente. In: Manažér: časopis pre
+rozvoj riadiacich pracovníkov [online]. Bratislava: IBIS partner, 2010 [cit.
+12.12.2010], Dostupné na internete: https://www.casopis-manazer.sk/rozhodovacieprocesy-v-manazerstve/
+
+64
+
+PRÍLOHY
+Príloha 1 Dotazníkový prieskum
+
+Milý respondenti,
+volám sa Miroslava Podracká a som študentka Katolíckej univerzity v Ružomberku.
+Študujem 5. ročník odboru manažmentu a ekonómie. Obraciam sa na Vás s prosbou
+vyplnenia dotazníka , ktorí je súčasťou diplomovej práce. Dotazník je zameraný na využitie
+kognitívnej mapy v rozhodovaní manažéra. Dotazníkový prieskum je anonymný a nezaberie
+Vám veľa času. Informácie získané z dotazníka sú pre mňa prínosné a budú využité len v
+rámci potreby pre písanie diplomovej práce. Prosím svoje odpovede zakrúžkujte pravdivo.
+
+Vopred Vám ďakujem, že ste si našli čas na jeho vyplnenie.
+
+1. Pohlavie
+o
+
+Žena
+
+o
+
+Muž
+
+2. Vek
+o
+
+20-35
+
+o
+
+36-45
+
+o
+
+46-56
+
+o
+
+57 a viac
+
+3. Vzdelanie
+o
+
+Stredoškolské bez maturity
+
+o
+
+Stredoškolské s maturitou
+
+o
+
+Vysokoškolské I. stupeň
+
+o
+
+Vysokoškolské II. stupeň
+
+4. Vaše postavenie v podniku
+o
+
+Vrcholový/stredný manažment (generálny riaditeľ, riaditeľ)
+
+o
+
+Vedúci prevádzky
+65
+
+o
+
+Zamestnanec
+
+5. Ktoré z rozhodnutí uplatňujete vo svojej profesií
+o
+
+Kolektívne
+
+o
+
+Individuálne
+
+6. Ako by ste charakterizovali pracovné prostredie, v ktorom pracujete
+o
+
+Napäté
+
+o
+
+Priateľské
+
+o
+
+Závisí od úsekov podniku
+
+7. Ktorou z možností by ste sa charakterizovali pri robení rozhodnutí?
+o
+
+Rozhodujem sa na základe racionálneho myslenia
+
+o
+
+Rozhodujem sa vždy spontánne
+
+o
+
+Rozhodujem sa na základe intuície
+
+o
+
+Moje rozhodnutie závisí od závažnosti rozhodovacieho problému
+
+8. Ktorá z nasledujúcich tvrdení považujete pri rozhodovaní za dôležité
+o
+
+Potrebné a pravdivé informácie o danom rozhodovacom probléme
+
+o
+
+Dôkladná analýza údajov
+
+o
+
+Pravidelné pracovné porady
+
+o
+
+Diskusia s členmi tímu
+
+o
+
+Pracovné porady vykonávať aj so zamestnancami
+
+o
+
+Asertívne správanie pri diskusií
+
+o
+
+Vypočutie názorov ostatných členov tímu
+
+o
+
+Nájdenie problému a variant na jeho vyriešenie
+
+o
+
+Časový faktor potrebný na prijatie rozhodnutia
+
+9. Aký štýl vedenia prevláda v podniku
+o
+
+Autoritatívny štýl vedenia
+
+o
+
+Kolektívny štýl vedenia
+
+o
+
+Kombinácia oboch štýlov vedenia
+
+10. Ktorý z nasledujúcich typov rozhodovania vykonávate najčastejšie
+o
+
+Taktické rozhodovania
+
+o
+
+Operatívne rozhodovania
+66
+
+o
+
+Strategické rozhodovania
+
+11. Ako by ste zhodnotili úroveň vašej participácie na rozhodovaní v podniku
+o
+
+Vysoká miera participácie
+
+o
+
+Nízka miera participácie
+
+o
+
+Priemerná miera participácie
+
+o
+
+Žiadna miera participácie
+
+12. Aké formy motivácie považujete za efektívne
+o
+
+Finančná odmena
+
+o
+
+Uznanie a pochvala od nadriadeného
+
+o
+
+Zvyšovanie kompetencií a možný kariérny rast
+
+o
+
+Iné
+
+13. Ako často sa u Vás na pracovisku vyskytujú konflikty
+o
+
+Zriedkavo
+
+o
+
+Pravidelne
+
+o
+
+Občas
+
+o
+
+Vôbec
+
+14. Ktoré z nasledujúcich nástrojov využívate pri rozhodovaní
+o
+
+Swot analýza
+
+o
+
+Konkurenčná analýza
+
+o
+
+BSC metóda
+
+o
+
+Ganttov diagram
+
+o
+
+Kognitívna mapa (myšlienková mapa)
+
+o
+
+Brainstorming
+
+o
+
+Iné nástroje
+
+o
+
+Žiadne
+
+15. Stretli ste sa už s pojmom kognitívna mapa
+o
+
+Áno
+
+o
+
+Nie
+
+16. Využívate kognitívnu mapu pri rozhodovaní
+o
+
+Áno
+67
+
+o
+
+Nie
+
+o
+
+Plánujeme ju využiť
+
+17. Myslíte si, že na aké z uvedených možností sa dá využiť kognitívna mapa
+o
+
+Na plánovanie každodenných úloh jednotlivých úsekov
+
+o
+
+Na identifikáciu a analýzu problémov v podniku
+
+o
+
+Na zlepšovanie činností úsekov podniku
+
+o
+
+Na výber a hodnotenie variantov riešeného problému
+
+o
+
+Iné
+
+18. Aké výhody vyplývajú z využívania kognitívnej mapy
+o
+
+Jasnejšie pochopenie a vizualizácia komplexných problémov
+
+o
+
+Lepšia komunikácia členov tímu
+
+o
+
+Podpora tvorivosti a kreatívneho myslenia
+
+o
+
+Iné
+
+19. Aké nevýhody vyplývajú z využívania kognitívnej mapy
+o
+
+Ťažšia aktualizácia v prípade zmien informácií
+
+o
+
+Časová náročnosť pri ich vytváraní
+
+o
+
+Horšia priehľadnosť v prípade preplnenia mapy
+
+o
+
+Iné
+
+20. Zhodnoťte aký celkový vplyv má využívanie kognitívnej mapy na manažérske
+rozhodovanie
+o
+
+Pozitívny
+
+o
+
+Negatívny
+
+o
+
+Neutrálny
+
+21. Mali by ste záujem zúčastniť sa rôznych školení týkajúcich sa kognitívnych máp
+o
+
+Nie
+
+o
+
+Áno
+
+o
+
+Možno
+
+68
+
+

@@ -1,0 +1,4401 @@
+UNIVERZITA MATEJA BELA V BANSKEJ BYSTRICI
+FILOZOFICKÁ FAKULTA
+
+ANALÝZA PREKLADU VLASTNÝCH MIEN A NÁZVOV
+V DIELE TEMNÝ OHEŇ
+DIPLOMOVÁ PRÁCA
+85dc5120-a3ad-442c-b3d9-0ec987b896cd
+
+2024
+
+Bc. Jozef Žigo
+
+UNIVERZITA MATEJA BELA V BANSKEJ BYSTRICI
+FILOZOFICKÁ FAKULTA
+
+ANALÝZA PREKLADU VLASTNÝCH MIEN A NÁZVOV V DIELE
+TEMNÝ OHEŇ
+Diplomová práca
+
+85dc5120-a3ad-442c-b3d9-0ec987b896cd
+
+Študijný program: anglický jazyk a kultúra – francúzsky jazyk a kultúra
+Študijný odbor: filológia
+Pracovisko: Katedra anglistiky a amerikanistiky FF UMB
+Vedúci diplomovej práce: PhDr. Martin Kubuš, PhD.
+
+Banská Bystrica 2024
+
+Bc. Jozef Žigo
+
+Univerzita Mateja Bela v Banskej Bystrici
+Filozofická fakulta
+
+ZADANIE ZÁVEREČNEJ PRÁCE
+Meno a priezvisko študenta:
+
+Bc. Jozef Žigo
+
+Študijný program:
+
+anglický jazyk a kultúra – francúzsky jazyk a kultúra
+(Jednoodborové štúdium, magisterský II. st., denná forma)
+
+Študijný odbor:
+
+Filológia
+
+Typ záverečnej práce:
+
+Magisterská záverečná práca
+
+Jazyk záverečnej práce:
+
+Slovenský
+
+Sekundárny jazyk:
+
+Anglický
+
+Názov:
+
+Analýza prekladu vlastných mien a názvov v diele Temný oheň
+
+Anotácia:
+
+Práca sa zameriava na onomastiku v diele Temný oheň, čo je v poradí druhá
+kniha detektívnej série od autora C. J. Sansoma. Do úvahy pri tom budeme
+brať aj prvú knihu, ktorú prekladal M. Kubuš, najmä terminológiu. Knihu
+Temný oheň prekladali dve prekladateľky, takže budeme analyzovať
+a porovnávať preklad prvej časti knihy od jednej prekladateľky a takisto
+preklad druhej časti knihy, ktorú už prekladala iná osoba. Následne s nimi
+spravíme aj rozhovor, v ktorom nám prezradia viac o spôsobe a postupe
+pri prekladaní.
+
+Vedúci:
+
+PhDr. Martin Kubuš, PhD.
+
+Katedra:
+
+KAA-FF – Katedra anglistiky a amerikanistiky
+
+Vedúci katedry:
+
+PaedDr. Alena Štulajterová, PhD.
+
+Dátum zadania:
+
+27.02.2023
+
+Dátum schválenia smerovej katedry: 30.03.2023
+doc. PaedDr. Jana Javorčíková, PhD.
+osoba zodpovedná za realizáciu
+študijného programu
+
+2
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že diplomovú prácu som vypracoval samostatne pod odborným
+vedením PhDr. Martina Kubuša, PhD.a bol som oboznámený s predpismi na jej
+vypracovanie.
+V Banskej Bystrici dňa ..........................................
+..........................................
+Bc. Jozef Žigo
+
+3
+
+Poďakovanie
+Touto cestou sa chcem poďakovať vedúcemu diplomovej práce PhDr. Martinovi
+Kubušovi, PhD za jeho pomoc a ochotu. Taktiež by som sa chcel poďakovať
+prekladateľke knihy Temný oheň Veronike Kašákovej za rozhovor a pomoc
+pri niektorých nejasnostiach.
+
+4
+
+ABSTRAKT
+
+ŽIGO, Jozef. Analýza prekladu vlastných mien a názvov v diele Temný oheň
+[Diplomová práca]. Univerzita Mateja Bela v Banskej Bystrici. Filozofická fakulta.
+Katedra anglistiky a amerikanistiky. Vedúci diplomovej práce: PhDr. Martin Kubuš,
+PhD. Stupeň odbornej kvalifikácie: magister (Mgr.). Banská Bystrica : FF UMB, 2024.
+90 s.
+
+Diplomová
+
+práca
+
+sa
+
+zaoberá
+
+analýzou
+
+vlastných
+
+podstatných
+
+mien
+
+v historicko-detektívnom románe s názvom Temný oheň. Do slovenčiny ho preložila
+dvojica prekladateliek, Zuzana Trstenská a Veronika Kašáková. S prekladom začala
+Zuzana Trstenská a na ňu nadviazala Veronika Kašáková, ktorá preklad tohto románu
+dokončila. Kniha bola vydaná v roku 2022 vydavateľstvom AKTUELL, ktoré vydalo aj
+prvú časť tejto ságy. Naša diplomová práca sa skladá z piatich kapitol, ktoré sme
+následne rozdelili na podkapitoly. V prvej kapitole sa venujeme teórii onomastiky ako
+samostatnej vednej disciplíny, vymedzujeme jej oblasť skúmania a základné pojmy.
+V tejto časti práce zadefinujeme aj literárnu onomastiku, jej podstatu a oblasti
+skúmania. Druhá kapitola nesie názov Metodika výskumu, kde si priblížime postup
+analýzy vlastných podstatných mien. V tretej kapitole si priblížime autora knihy,
+prekladateľky a samotný dej knihy. Štvrtá kapitola je hlavnou a zároveň praktickou
+časťou práce. Vlastné podstatné mená v nej rozdelíme na bionymá a abionymá
+a následne ich zanalyzujeme vo východiskovom a aj cieľovom jazyku. Výsledky
+analytickej časti sumarizujeme v záverečnej časti práce, kde uvádzame aj najčastejšie
+využívané stratégie a metódy využívané pri preklade vlastných mien. Piata kapitola je
+venovaná analýze negatívnych posunov v preklade, kde poukážeme na chyby v preklade
+a uvedieme aj naše alternatívy, ako by sa dali chyby opraviť. V našej práci sa nachádza
+aj príloha a tou je rozhovor s prekladateľkou Veronikou Kašákovou, kde sa jej bližšie
+spýtame na jej postupy a riešenia pri preklade, no neobídeme ani širšie súvislosti
+spojené s vydaním knihy.
+Kľúčové slová:
+Onomastika. Vlastné podstatné mená. Bionymá. Abionymá. Prekladová analýza. Temný
+oheň.
+
+5
+
+ABSTRACT
+ŽIGO, Jozef. The analysis of the translation of proper names in the novel Dark Fire
+[Diploma thesis]. Matej Bel University in Banská Bystrica. Faculty of Arts. Department
+of English and American Studies. Supervisor of the diploma thesis: PhDr. Martin
+Kubuš, PhD. Qualification degree: Master. Banská Bystrica : FAMBA, 2024. 90 p.
+
+The thesis deals with the analysis of proper nouns in a historical-detective novel called
+Dark Fire. It was translated into Slovak by a pair of translators; Zuzana Trstenská and
+Veronika Kašáková. The translation was started by Zuzana Trstenská and followed by
+Veronika Kašáková, who completed the translation of this novel. The book was
+published in 2022 by AKTUELL, which also published the first part of this saga. Our
+thesis consists of five chapters, which we then divided into subchapters. In the first
+chapter we discuss the theory of onomastics as an independent scientific discipline,
+defining its field of research and basic concepts. In this part of the thesis we also define
+literary onomastics, its essence and areas of research. The second chapter is entitled
+Research Methodology, where we will review the procedure of analysis of proper
+nouns. In the third chapter we introduce the author of the book, the translators, and the
+plot of the book itself. The fourth chapter is the main and practical part of the thesis. In
+it, we divide proper nouns into bionyms and abionyms, and then analyse them in both
+the source and the target language. We summarize the results of the analytical part in
+the final part of the thesis, where we also present the most commonly used strategies
+and methods employed when translating proper nouns. The fifth chapter is devoted to
+the analysis of shifts in the translation, where we point out mistakes in the translation
+and also give our alternatives on how the mistakes could be corrected. There is also an
+appendix in our thesis, which is an interview with the translator Veronika Kašáková,
+where we ask her more about her methodology of translation and her solutions, as well
+as other problems pertaining to the novel in question
+
+Keywords:
+Onomastics. Proper names. Bionyms. Abionyms. Translation, Analysis, Dark fire.
+
+6
+
+Predhovor
+V súčasnom uponáhľanom svete mnohí hľadajú únik z každodenných starostí a
+literatúra je jedným z najpríťažlivejších spôsobov, ako ho dosiahnuť. Rôzne literárne
+žánre nám umožňujú preskúmať nepoznané a fantastická literatúra je obzvlášť
+zaujímavá tým, že nám otvára dvere do úplne nových, často bizarných a fascinujúcich
+svetov. Tento žáner nielenže prebúdza našu fantáziu, ale ponúka priestor pre hlbšie
+zamyslenie sa nad tým, čo je skutočné a čo vymyslené.
+Výber témy tejto diplomovej práce bol inšpirovaný túžbou pochopiť, ako
+prekladatelia pracujú s vlastnými menami v literárnych dielach, ktoré kombinujú
+historické fakty s detektívnymi zápletkami. Kniha Temný oheň od C.J. Sansoma, ktorú
+preložili Zuzana Trstenská a Veronika Kašáková, ponúka bohatý materiál na skúmanie
+tejto problematiky. Práca prekladateliek na tejto knihe je zvlášť zaujímavá, pretože
+musia nielen zachytiť autentickosť historických postáv a miest, ale zároveň preniesť
+tajomnú atmosféru a detektívne napätie do cieľového jazyka.
+Táto diplomová práca sa zaoberá analýzou prekladateľských riešení pri preklade
+vlastných podstatných mien v románe Temný oheň. Cieľom je skúmať, ako
+prekladateľky postupovali pri preklade vlastných mien, aké stratégie a metódy použili a
+ako tieto prístupy ovplyvnili celkový dojem z diela.
+Veríme, že táto práca prispeje k lepšiemu pochopeniu prekladateľských výziev a
+možných riešení v oblasti prekladu literárnych vlastných mien.
+
+7
+
+OBSAH
+ÚVOD ...............................................................................................................................9
+1.
+
+TEÓRIA ONOMASTIKY .....................................................................................11
+1.1. ONOMASTIKA AKO VEDNÁ DISCIPLÍNA ...............................................................11
+1.2. PREDMET SKÚMANIA ONOMASTIKY ...................................................................14
+1.2.1
+Delenie vlastných podstatných mien..........................................................16
+1.3
+1.4
+
+LITERÁRNA ONOMASTIKA ..................................................................................19
+PREKLAD LITERÁRONÝM V UMELECKOM DIELE .................................................23
+
+2.
+
+METODIKA VÝSKUMU......................................................................................28
+
+3.
+
+PREDSTAVENIE AUTORA, PREKLADATELIEK A KNIHY ....................29
+3.1
+3.2
+3.3
+
+4.
+
+SPISOVATEĽ C. J. SANSOM (1952 – 2024) ..........................................................29
+PREKLADATEĽKY KNIHY TEMNÝ OHEŇ ...............................................................30
+ROMÁN TEMNÝ OHEŇ .........................................................................................31
+
+ANALÝZA PREKLADU VLASTNÝCH PODSTATNÝCH MIEN .................33
+4.1. BIONYMÁ ...........................................................................................................33
+4.1.1
+Antroponymá .............................................................................................33
+4.1.1.1 Preklad mien rodov ................................................................................33
+4.1.1.2 Preklad krstných mien postáv ................................................................34
+4.1.1.3 Preklad priezvisk ....................................................................................37
+4.1.2
+Preklad zooným .........................................................................................38
+4.2
+ABIONYMÁ.........................................................................................................40
+4.2.1
+Toponymá ..................................................................................................40
+4.2.1.1 Choronymá .............................................................................................40
+4.2.1.2 Ojkonymá ...............................................................................................41
+4.2.1.3 Oronymá ................................................................................................43
+4.2.1.4 Hodonymá ..............................................................................................45
+4.2.2
+Chrématonymá...........................................................................................47
+4.2.2.1 Preklad vlastných mien inštitúcií ...........................................................47
+4.2.2.2 Preklad vlastných mien spoločenského javu..........................................58
+4.2.2.3 Preklad vlastných mien výsledku spoločenskej činnosti .......................59
+
+5.
+
+NEGATÍVNE POSUNY A INÉ NEDOSTATKY V PREKLADE ....................69
+
+ZÁVER ...........................................................................................................................78
+RESUMÉ ........................................................................................................................81
+ZOZNAM POUŽITEJ LITERATÚRY.......................................................................84
+
+8
+
+ÚVOD
+Historicko-detektívne romány spájajúce prvky histórie a kriminálnych zápletiek si
+získali popularitu medzi čitateľmi pre svoju schopnosť ponoriť ich do bohatého sveta
+minulosti, zatiaľ čo ich držia v napätí prostredníctvom zložitých záhad. Jedným
+z populárnych diel v tomto žánri je román Temný oheň, ktorý sa svojím dejom a
+postavami dotýka temných častí ľudskej histórie a zároveň prezentuje strhujúci príbeh
+plný intríg
+
+a tajomstiev, ktoré autor
+
+vynikajúco
+
+vykresľuje prostredníctvom
+
+zaujímavých postáv a na pozadí historických udalostí. Táto práca sa zameriava
+na analýzu vlastných podstatných mien v tomto diele, skúmajúc, ako prispievajú
+k hlbšiemu pochopeniu historických reálií a literárnych postáv.
+Naša diplomová práca sa skladá z teoretickej a praktickej časti. Cieľom
+teoretickej časti je sumarizovať teoretické poznatky z oblasti onomastiky, pričom
+pozornosť upriamujeme predovšetkým na vlastné mená a problematiku ich prekladu
+do slovenského jazyka. Cieľom praktickej časti práce je zanalyzovať preklad vybraných
+vlastných mien v Sansomovom románe Temný oheň. Za prekladom do slovenčiny stojí
+dvojica prekladateliek, Zuzana Trstenská a Veronika Kašáková. Zuzana Trstenská
+začala s prekladom, pričom neskôr na jej prácu nadviazala Veronika Kašáková, ktorá
+preklad dokončila. Výsledkom ich spolupráce je vydanie knihy v slovenskom jazyku
+v roku 2022 vydavateľstvom AKTUELL, ktoré publikovalo aj prvú časť tejto
+detektívno-historickej ságy.
+Motiváciou pre výber tejto práce je problematika prekladu vlastných
+podstatných mien, ktoré sa v diele nachádzajú v početnom množstve. Ďalším podnetom
+a zaujímavosťou na tejto knihe je, že tu nájdeme kombináciu vymyslených, ale aj
+reálnych proprií, čo taktiež oživuje analýzu v našej praktickej časti. Téma práce
+poukazuje na fakt, že v prekladateľskej praxi je veľmi náročné určiť pravidlá
+pri preklade vlastných mien.
+Diplomová práca sa skladá z piatich kapitol, ktoré sú následne rozdelené
+na podkapitoly. Do práce sme pridali aj prílohu, ktorou je rozhovor s prekladateľkou
+Veronikou Kašákovou. Prvá kapitola je venovaná teoretickému základu onomastiky ako
+samostatnej vednej disciplíny. V tejto časti vymedzujeme oblasť jej skúmania a
+objasňujeme základné pojmy, ktoré sú kľúčové pre pochopenie ďalších častí práce.
+
+9
+
+Onomastika poskytuje cenné poznatky nielen o lingvistických, ale aj o kultúrnych a
+sociálnych aspektoch jazykových prejavov.
+Druhá kapitola nesie názov Metodika výskumu, kde si priblížime, ako sme
+postupovali pri analýze jednotlivých vlastných podstatných mien a pri ich preklade.
+Tretia kapitola je venovaná autorovi knihy, prekladateľkám a aj samotnému
+románu. V tejto časti si povieme základné informácie o týchto osobnostiach a o ich
+živote. Taktiež priblížime aj dej románu, pre lepšie pochopenie neskoršie
+analyzovaných proprií.
+Štvrtá kapitola predstavuje jadro našej práce a je zameraná na praktickú analýzu
+vlastných podstatných mien v románe. Tieto mená rozdelíme na bionymá (mená živých
+bytostí) a abionymá (mená neživých objektov) a následne ich analyzujeme
+vo východiskovom aj cieľovom jazyku. Táto analýza umožňuje odhaliť, aké stratégie a
+metódy boli použité pri preklade mien a ako tieto postupy prispeli k zachovaniu
+autentickosti a čitateľnosti textu.
+Piata kapitola je venovaná negatívnym posunom a iným postrehom pri analýze
+prekladu románu Temný oheň. Uvedieme, aké iné chyby sme v preklade našli a taktiež
+navrhneme riešenia a opravy, ktoré považujeme za vhodné.
+V závere sumarizujeme výsledky analytickej časti práce, pričom sa zameriavame
+na najčastejšie využívané stratégie a metódy pri preklade vlastných mien. Tento súhrn
+nám umožňuje zhodnotiť efektívnosť týchto postupov a ich vplyv na celkovú kvalitu
+prekladu. Zároveň poskytuje podnety pre ďalší výskum v oblasti literárnej onomastiky
+a prekladu.
+V našej práci sa nachádza aj príloha, kde nájdeme zosumarizovaný rozhovor
+s prekladateľkou Veronikou Kašákovou. Pýtame sa na jej prekladateľské postupy
+a riešenia, priblížila nám aj ako sa vysporiadala s nadviazaním na inú prekladateľku
+a vyjadrila sa nám ku konkrétnym ekvivalentom.
+
+10
+
+1.
+
+Teória onomastiky
+
+V tejto časti práce si vymedzíme kľúčové pojmy, samotnú onomastiku, vlastné mená
+(propriá), ich klasifikáciu v rámci onomastiky a ich základné účely. V záverečnej časti
+kapitoly preskúmame oblasti literárnej onomastiky, ktorej výskum v slovenskom
+prostredí nie je až tak rozvinutý, ako by mal byť a vyžaduje si väčšiu pozornosť.
+Onomastika je považovaná za jednu z kľúčových lingvistických vied, najmä pre
+dôležitosť podstatných mien nielen v literatúre, ale celkovo vo všetkých formách
+lingvistiky. Zahŕňa výskum menovania ľudí (antroponymia), miest (toponymia), oblastí
+(choronymia), riek (hydronymia), ulíc, a ďalších geografických prvkov. Zaoberá sa
+nielen samotnými menami, ale aj ich pôvodom, významom, históriou a distribúciou
+v čase a priestore. Tento vedný odbor sa uplatňuje v jazykovede, kulturológii, histórii,
+geografii a ďalších disciplínach. Je dôležitá aj vďaka tomu, že prispieva k lepšiemu
+pochopeniu jazyka a jeho vývoja. Štúdium menovania nám poskytuje dôležité
+informácie o histórii jazyka, jeho vplyvoch a vývoji.
+
+1.1. Onomastika ako vedná disciplína
+Na úvod je potrebné vymedziť základný ťažiskový pojem, ktorý je v tomto prípade
+onomastika. Vladimír Šmilauer analyzuje úlohu onomastiky v štruktúre vied
+a následne ju charakterizuje ako multidisciplinárnu disciplínu, ktorá sa pohybuje
+na rozhraní jazykovedy, histórie a geografie; tesne súvisí s jazykovedou a ďalšími
+integrálnymi disciplínami ako semiotika, kybernetika, matematika, logika a filozofia.
+Autor tvrdí, že onomastika zaujíma osobitné miesto v systéme vied aj pre svoje tesné
+prepojenie so sociológiou, históriou, etnografiou, archeológiou a geografiou.
+Z lingvistického hľadiska však otvára možnosť, že onomastika môže byť vnímaná aj
+ako samostatná disciplína, najmä v rámci jazykovedy (Šmilauer, 1963).
+Kľúčový a primárny prameň pri zhotovovaní praktickej časti tejto práce je
+kniha Úvod do onomastiky (1986) od autorov Michal Blicha a Milan Majtán, ktorých
+inšpiroval práve V. Šmilauer. Táto kniha je taktiež považovaná za ústrednú
+publikáciu pre výskum onomastiky. Autori v tejto knihe uvádzajú náš ťažiskový
+pojem ako spoločenskovednú jazykovednú disciplínu, ktorá sa zaoberá výskumom
+vlastných mien.
+
+11
+
+V knihe z roku 1986 Michal Blicha a Milan Majtán v rámci svojho štúdia
+o onomastike v systéme vied čerpali aj z myšlienok Vincenta Blanára (1983), ktorý
+sa snažil presadiť onomastiku ako samostatnú vednú disciplínu. V. Blanár definuje
+onomastiku ako samostatnú jazykovednú disciplína s tým, že jej postavenie v rámci
+vlastného mena ju zahrňuje do širších spoločenskovedných kontextov (Blanár, 1983).
+Onomastika je aj podľa nášho názoru špecifická vedná disciplína, ktorá má
+„osobitný predmet výskumu i viaceré špecifické metódy […]. Pokladáme ju
+za osobitnú jazykovednú disciplínu, integračnými zväzkami spätú so sociológiou,
+geografiou, históriou, literárnou vedou atď.“ (Blicha, 1986, s. 8)
+Najužšie je spätá s lingvistikou a s jej disciplínami ako lexikológiou,
+dialektológiou, etymológiou a štylistikou. O onomastike ako samostatnej vednej
+disciplíne hovorí aj R. Krajčovič. Podľa neho sa koncom šesťdesiatych a začiatkom
+sedemdesiatych rokov minulého storočia hovorilo, že onomastika patrí medzi vedné
+odvetvia lingvistiky, no v súčasnosti je uznávaná ako samostatná vedná
+disciplína(Krajčovič, 1991). To znamená, že uplynutím času sa onomastika zaradila
+medzi samostatné vedné disciplíny s vlastnými predmetmi skúmania, na ktoré
+používa špecifické metódy výskumu. Môžeme teda skonštatovať, že nápady
+a myšlienky, ktoré vo svojich knihách uviedli V. Šmilauer (1963), V. Blanár (1983) a
+M. Blichas M. Majtánom (1986) o onomastike ako o samostatnej vednej disciplíne sa
+v dnešnej dobe naplnili.
+Samotnou problematikou vlastných mien (oným) a onymických sústav sa
+zaoberajú onomastici. Mnohí z nich sú lingvistami alebo odborníkmi z hraničných
+vied: sociológie, psychológie, ekológie, geológie, geografie, histórie, politiky,
+kultúrnych štúdií, filozofie, logiky a celého radu rôznych akademických predmetov.
+Onymá analyzujú rozdielnymi spôsobmi a z rozmanitých hľadísk. Pri svojej práci sa
+zameriavajú prevažne na:
+•
+
+históriu jednotlivých mien, názvov nachádzajúcich sa v určitých
+sociálnych skupinách alebo oblastiach, pôvodný význam, spoločenský
+status, či geografické rozšírenie;
+
+•
+
+jazykové prostriedky, ktoré sa používajú na tvorbu mien a ich zachovanie
+v súvislosti s jazykom alebo jazykmi komunity, ktorá ich používa;
+
+•
+
+vlastné mená v mýtoch, literatúre, filmoch a nadprirodzených svetoch;
+
+12
+
+•
+
+všeobecnú charakteristiku proprií, ich fungovanie a pochopenie povahy
+vlastného mena (Coates, 2018).
+
+Ku všeobecným onomastickým problémom podľa Bondaletova (1983) patria:
+1)
+
+jazykovo-štruktúrna špecifikácia vlastného mena a diferenciácia apelatív
+a proprií;
+
+2)
+
+miesto onomastickej lexiky v jazykovom systéme;
+
+3)
+
+problémy onymických jednotiek, podoba a odlišnosť jednotlivých
+onymických podsystémov;
+
+4)
+
+vznik, vývoj, jazykové a mimojazykové faktory evolúcie vlastných mien;
+
+5)
+
+problematika charakteru a stupeň systémovej organizácie jednotlivých
+onymických podsystémov a onomastiky jazyka ako celku;
+
+6)
+
+špecifiká literárnej onomastiky a používanie jej lexiky v rôznych
+funkčných štýloch;
+
+7)
+
+metódy onomastického výskumu a klasifikácia vlastných mien;
+
+8)
+
+interdisciplinárny charakter onomastického materiálu a jeho miesto
+v rámci humanitných a prírodných vied;
+
+9)
+
+vznik a história onomastiky (a jej podsystémov) ako samostatnej vednej
+disciplíny;
+
+10)
+
+problémy
+
+v aplikovaní
+
+prekladu,
+
+transliterácie,
+
+onomastiky
+
+(normatívno-jazykové
+
+regionálnych
+
+štúdií,
+
+otázky
+
+kultúrno-estetické,
+
+lingvo-didaktické, metodické atď.).
+Cieľom onomastického bádania je skúmať tieto najvšeobecnejšie otázky, a tak
+prenikať k ich podstate (Bondaletov, 1983).
+Týmito problémami a onomastickou tematikou sa zaoberajú špeciálne
+medzinárodné kongresy, konferencie, sympóziá a iné podujatia. V súčasnosti je
+medzinárodná organizácia The International Council of Onomastic Sciences (ICOS)
+centrálnym miestom pre tých, ktorí majú záujem o štúdium vlastných mien. Jej
+úlohou je podpora, zastúpenie a koordinácia výskumu v oblasti onomastiky
+na medzinárodnej úrovni a v rámci rôznych disciplín. Časopis Onoma, ktorý je
+oficiálnou publikáciou ICOS, poskytuje aktuálne výskumné správy, pričom každé
+číslo je zamerané na konkrétnu tému. Oficiálnymi jazykmi ICOS sú francúzština,
+nemčina a angličtina. (Kozáková, 2019)
+Na Slovensku sa onomastika jednotlivých jazykových skupín a jazykov
+realizuje prostredníctvom Slovenskej onomastickej komisie, a v rámci slovanskej
+13
+
+jazykovej skupiny cez Medzinárodnú komisiu pre slovanskú onomastiku
+pri Medzinárodnom komitéte slavistov. Tieto stretnutia sú príležitosťou na diskusiu
+o rôznych štúdiách a materiáloch týkajúcich sa onomastiky, ktoré sú následne
+zverejnené v zborníkoch pre širšiu verejnosť. Hoci sa venuje dostatočná pozornosť
+problematike vlastných mien, terminológia v tejto oblasti ešte nie je úplne ustálená.
+Preto je dôležité definovať základné pojmy, čo sa pokúsime urobiť v ďalšej časti.
+
+1.2. Predmet skúmania onomastiky
+Zakladajúc na myšlienke, že onomastika sa zaoberá osobitným predmetom skúmania
+– vlastným menom (proprium), je nevyhnutné, aby sme túto oblasť bližšie
+preskúmali. Vlastné mená a všeobecné mená sú zaradené do slovnodruhovej skupiny
+– substantíva (podstatné mená). V komunikácii rozlišujeme medzi vlastným
+podstatným menom a všeobecným podstatným menom.
+V onomastike sa však nachádzajú aj iné významné pojmy, ktoré je dôležité
+spomenúť. Základnými pojmami v tejto oblasti sú: onymum, čo je synonymom
+pre vlastné meno alebo nomen proprium; onymia predstavuje súbor vlastných mien
+v danom regióne, jazyku a čase; onymický alebo propriálny, prislúchajúci
+vlastnému menu; onymická nominácia, ktorá zahŕňa onymický objekt, proces
+pomenovania a spoločenský postoj k pomenovanej entite; onymický priestor zahŕňa
+všetky vlastné mená používané v jazyku určitého národa na označenie reálnych,
+hypotetických a fantastických objektov; a onomastikon, čo je komplexný záznam
+všetkých vlastných mien.
+Jazyk je prostriedkom komunikácie a pri jeho každodennom používaní sa často
+v našej slovnej zásobe vyskytujú okrem všeobecných podstatných mien (apelatív) aj
+vlastné mená (propriá), ktoré majú v lexike každého jazyka dôležité miesto.
+Apelatíva a propriá sú nositeľmi informácie o predmetoch, javoch objektívnej reality,
+ktoré zároveň aj pomenúvajú, čiže ich spája pomenovacia funkcia. Kým všeobecné
+podstatné mená pomenovávajú celú množinu predmetov, tie vlastné sú ich
+protikladom, pretože ich základnými úlohami je daný objekt identifikovať,
+diferencovať, lokalizovať a pomenovať. Identifikačná a diferenčná funkcia patria
+k fundamentálnym funkciám, ktorými sa vymedzujú propriá v jazykovom systéme a
+zároveň odlišujú od apelatív. (Sičáková, 2010)
+
+14
+
+Ladislav Dvonč apelatíva a propriá definuje nasledovne: „Jednotlivé podstatné
+mená nepomenúvajú osihotené predmety, ale každé slúži ako označenie pre celú
+skupinu predmetov jedného druhu. Spravidla je teda podstatné meno pomenovaním
+celej množiny predmetov toho istého druhu. Je všeobecným pomenovaním“ (Dvonč,
+1966, s. 65). V tomto zmysle hovoríme o všeobecných podstatných menách, čiže
+o apelatívach.„Vlastné meno má spravidla konkrétny, jedinečný pomenovací dosah,
+aktuálny vecný vzťah. Nemožno ho použiť v neaktuálnom, všeobecnom zmysle.
+Pokiaľ sa vlastné mená používajú v tomto pravom, propriálnom význame, je ich
+pomenovací rozsah obmedzený na jednu vec“ (Dvonč, 1966, s. 65).
+Podľa Michala Blichu sú vlastné podstatné mená (propriá) pomenovania
+špecifických a jedinečných objektov patriacich do jedného druhu. Vlastné mená sa
+väčšinou vzťahujú na jedno druhové indivíduum (osobu, zviera, vec), čiže na jeden
+denotát, preto sa v tomto pravom propriálnom význame používajú v jednotnom čísle
+(Blicha, 1986). Takže môžeme tvrdiť, že vlastné meno je lingvistické označenie
+pre konkrétne indivíduum.
+Jaromír Krško definuje vlastné podstatné meno (nomen proprium, onymum,
+vlastné meno) ako „slovo alebo slovné spojenie, ktorého funkciou (na rozdiel
+od všeobecných podstatných mien) je objekt pomenovať, identifikovať a diferencovať
+od ostatných objektov.“(Krško, 2014, s.21) Uvedené definície dopĺňa aj kodifikačná
+príručka Morfológia slovenského jazyka, v ktorej sa uvádza, že „pre vlastné meno je
+charakteristické obmedzenie na jeden číselný tvar (spravidla sg.) a vylúčenie toho
+istého názvu pre dve susedné alebo blízke veci“ (Dvonč, 1966, s. 65).
+Ďalšou významnou črtou vlastných mien, ktorá ich odlišuje od všeobecných, je
+ich písanie s veľkým začiatočným písmenom. Samozrejme, existujú aj výnimky, ako
+napríklad „prvá svetová vojna“ alebo „druhá svetová vojna“. Okrem toho sú vlastné
+mená špecifické, unikátne a majú konkrétny vzťah k určitému objektu, ktorý nie je
+možné použiť vo všeobecnom zmysle. Napriek tomu je hranica medzi bežnými
+slovami a vlastnými menami niekedy nejasná. Transformácia vlastného mena
+na všeobecné slovo bez charakteristických vlastností sa označuje ako apelativizácia
+(deproprializácia, deonymizácia). Okrem vlastných mien sa často používajú aj bežné
+slová ako vlastné mená, ako napríklad: kováč – Kováč, oceán – Oceán, labka –
+Labka. Vlastné mená vznikajú na pozadí existujúcej slovnej zásoby. Preto je možné
+považovať za vlastné mená aj:
+
+15
+
+a)
+
+ľubovoľné bežné slová použité na označenie konkrétneho objektu:
+napríklad javor – Javor (kino), muzika – Muzika (reštaurácia);
+
+b)
+
+bežné slová spájané s konkrétnym miestom, rozsahom pôsobnosti alebo
+sídlom: napríklad Základná škola s materskou školou Bojnice, Okresný
+súd v Banskej Bystrici, Ministerstvo vnútra Slovenskej republiky;
+
+c)
+
+bežné slová s prívlastkom na počesť určitej osoby alebo udalosti:
+napríklad Univerzita Mateja Bela, Mohyla Milana Rastislava Štefánika a
+podobne. Proces, v ktorom sa bežné slovo stáva vlastným menom, sa
+nazýva onymizácia (deapelativizácia, proprializácia).
+
+V tomto zmysle budeme v praktickej časti práce pracovať s pojmom vlastného
+mena. Rozdiel medzi propriom a apelatívom sme určili na úrovni obsahu.
+Pozorujeme však rozdiely aj na úrovni formy, čiže v písomnej komunikácii.
+Na rozdiel od všeobecných podstatných mien sa vlastné mená píšu s veľkým
+začiatočným písmenom. Toto vyplýva z ich prirodzenej funkcie identifikovať a
+individualizovať jedinečný a konkrétny objekt.
+
+1.2.1 Delenie vlastných podstatných mien
+V tejto časti sa budeme venovať deleniu vlastných podstatných mien.
+Substantíva sa delia na vlastné a všeobecné. Vlastné podstatné mená majú ešte
+ďalšie delenie a klasifikáciu, ktorú si v tejto podkapitole rozoberieme
+podrobnejšie. Z tohto delenia budeme ďalej vychádzať aj v praktickej časti
+našej diplomovej práce. Odborná literatúra zaoberajúca sa problematikou
+onomastiky predstavuje niekoľko prístupov k rozdeleniu jej predmetu
+skúmania (vlastných mien). Pre túto prácu sme sa rozhodli uviesť jasné
+rozdelenie proprií na základnej osi bionymá – abionymá a tiež vymedziť ich
+ďalšie podkategórie. Tento klasifikačný systém je prebraný od autorskej
+dvojice Michal Blicha a Milan Majtán.
+Podľa nich bionymá delíme na:
+1.
+
+Antroponymá
+
+Do skupiny antroponým ako osobných (rodových aj krstných) mien
+zaraďujeme:
+a)
+
+úradné meno (meno – priezvisko);
+
+b)
+
+nárečové a domácke meno;
+16
+
+c)
+
+prímeno;
+
+d)
+
+živé osobné meno;
+
+e)
+
+prezývky;
+
+f)
+
+etnonymá;
+
+g)
+
+katajkonymá (obyvateľské mená).
+
+Tradičnú typológiu antroponým môžeme doplniť aj o ďalšie špecifické
+skupiny: meno na sociálnych sieťach (slangovo nick, z anglického slova
+nickname), predikát (šľachtické rodové meno) a fiktívne antroponymá (čiže
+mená vymyslené autorom knihy).
+2.
+
+Zoonymá
+
+Skupina zooným zahŕňa vlastné mená zvierat, ku ktorým v práci zaraďujeme
+tiež fiktívne vytvorené zvieratá.
+3.
+
+Fytonymá
+
+Skupina vlastných mien v rámci bioným, ktorá pomenúva rastliny.
+Abionymá delíme na:
+1.
+
+Toponymá
+
+Predstavujú názvy geografických objektov, ku ktorým zaraďujeme:
+a)
+
+choronymá – vlastné mená väčších zemepisných celkov;
+
+b)
+
+ojkonymá – osadné, miestne názvy;
+
+c)
+
+anojkonymá – vlastné pomiestne mená;
+
+d)
+
+hydronymá – vodné názvy;
+
+e)
+
+oronymá – nesídliskové mená označujúce hory;
+
+f)
+
+pozemkové mená;
+
+g)
+
+hodonymá – vlastné mená dopravných ciest.
+
+2.
+
+Chrématonymá
+
+Ide o vlastné mená, ktoré vznikli ľudskou činnosťou, pričom ich rozdeľujeme
+na tri skupiny:
+a)
+
+vlastné mená inštitúcií (vojenské, školské, vedecké, kultúrne, cirkevné
+
+inštitúcie);
+b)
+
+vlastné mená spoločenského javu (akcionymá);
+
+c)
+
+vlastné
+
+mená
+
+výsledku
+
+spoločenskej
+
+činnosti
+
+(dokumentonymá,
+
+ideonymá, unikátonymá, porejonymá, pragmatonymá). (Blicha, 1986)
+
+17
+
+Existuje však aj iné rozdelenie proprií, ktoré je zostavené medzinárodnou
+organizáciou ICOS a rozlišuje 19 tried vlastných mien v anglickom jazyku. Je
+veľmi dôležité, aby bola terminológia onomastiky jednotná:
+1.
+
+anthroponym (vlastné meno ľudskej bytosti);
+
+2.
+
+astronym (meno hviezdy, planéty alebo iného vesmírneho telesa);
+
+3.
+
+charactonym (zriedkavo používané ako meno literárnej postavy);
+
+4.
+
+chrematonym (VM materiálneho produktu, ktorý je zafixovaný
+
+v politických, ekonomických, komerčných, kultúrnych i športových vzťahoch
+v spoločnosti);
+5.
+
+endonym (lokálne používaný názov miesta, kontrastný s exonymom);
+
+6.
+
+ergonym (meno spoločenskej inštitúcie);
+
+7.
+
+ethnonym (meno etnika alebo kmeňa);
+
+8.
+
+exonym (vžitá podoba názvu geografického vlastného mena v cudzom
+
+jazyku, odlišná od originálneho názvu objektu, napr. Bratislava – Pressburg,
+Rakúsko – Österreich);
+9.
+
+hodonym (názov ulice alebo cesty);
+
+10.
+
+hydronym (vlastné meno rieky, jazera alebo iného objektu vodného
+
+charakteru);
+11.
+
+hypocoristic (hovorové zvyčajne neoficiálne meno, prezývka);
+
+12.
+
+metronym/matronym (priezvisko analogicky založené na mene matky,
+
+resp. iného ženského predka, napr. Anushkin, Madison);
+13.
+
+oikonym (názov sídelného objektu, osadný názov);
+
+14.
+
+oronym (názov nesídelného objektu, hôr, pohorí, kopcov, skál, jaskýň,
+
+nížin, rovín, úbočí a i.);
+15.
+
+patronym (súčasť osobného mena, založené na mene otca, dedka, resp.
+
+staršieho mužského predka);
+16.
+
+teknonym (termín E. B. Tylora, je to meno, ktoré nadobúda jednotlivec na
+
+základe vzťahu so živými príbuznými/nekronymum s mŕtvymi);
+17.
+
+theonym (meno boha alebo božstiev);
+
+18.
+
+toponym (v širšom zmysle je to názov geografických objektov pevne
+
+zafixovaných v krajine: svetadielov, štátov, riek, pohorí);
+19.
+
+zoonym (VM zvieraťa). (Kozáková, 2018)
+„Výhoda medzinárodných termínov pozostáva v tom, že môžu byť
+
+štandardizované v rôznych jazykoch s minimálnymi úpravami. Samozrejme,
+18
+
+v každom jazyku existujú aj iné zaužívané termíny (fytonymum, dedronymum
+atď.)
+
+či
+
+pojmy
+
+príznačné
+
+len
+
+pre
+
+určité
+
+onomastické
+
+prostredie
+
+(literáronymum). Problémom je, že na úplnej terminologizácii sa v rámci ICOS
+ešte len pracuje. Hlavné ťažkosti, s ktorými sa stretávame pri porovnávaní
+jednotlivej onomastickej terminológie sú spojené s viacerými faktormi:
+použitím niekoľkých rôznych termínov na označenie toho istého javu alebo typu
+vlastných mien; rôznym (obsahom) toho istého pojmu v rozličnom
+onomastickom prostredí a so súperením medzinárodných a domácich pojmov.“
+(Kozáková, 2018, s. 19)
+
+1.3
+
+Literárna onomastika
+
+V predchádzajúcich podkapitolách sme sa venovali onomastike ako vednej
+disciplíne, ktorú je možné zaradiť aj do iných systémov vied. Definovali sme si jej
+objekty skúmania.
+Ďalším odvetvím je literárna onomastika, ktorú z nej môžeme vyčleniť.
+Pri skúmaní literárnej onomastiky je dôležité definovať jej predmet skúmania,
+ktorým sú literárne vlastné mená. To znamená, že študuje rôznorodé pomenovania
+v literárnych dielach, vrátane mien postáv, bytostí, zvierat, geografických objektov,
+diel a pseudonymov spisovateľov. Zameriava sa na celkovú kolekciu vlastných mien
+použitých v umelom texte. Tieto môžu zahŕňať skutočné mená, ich varianty alebo
+vytvorené „hovoriace mená“, ktoré autor používa na charakterizáciu postáv, ich
+vzhľadu, charakteru, sociálneho postavenia, pôvodu a podobne. Od skutočných mien
+sa literárne mená líšia tým, že majú poetický význam. (Šmeleva, 2013)
+Čo sa týka knihy Temný oheň, je zasadená do historického kontextu
+tudorovského Anglicka, a to presnejšie do centra Londýna. Nachádzajú sa tu len
+existujúce toponymá a chrématonymá. Antroponymá (presnejšie mená rodov, postáv
+a zvierat) sú jediné propriá, ktoré vymyslel autor. Považujeme za dôležité hlbšie sa
+ponoriť do problematiky literárnej onomastiky, pretože beletria je len málokedy
+podložená skutočnými udalosťami a je potrebné vedieť, podľa čoho vznikli
+vymyslené názvy či už krajín, riek, miest, alebo postáv. Rovnako je dôležité
+pochopiť a vedieť analyzovať aj ich preklad do cieľového jazyka a rozumieť, podľa
+čoho a akými spôsobmi sú do neho prenesené.
+
+19
+
+Vlastné mená pôsobia nielen v reálnom svete, ale aj vo virtuálnom. Na základe
+tejto rozmanitosti vlastných mien Pavol Odaloš definuje literáronymiu, čo sú mená
+používané vo fiktívnom svete literárnych diel, a sociálonymiu, ktoré fungujú
+v reálnej spoločnosti (Odaloš, 2012). Atraktivitu tejto témy posilnila prvá štúdia:
+K charakteristike vlastných mien v Kukučínových drobných prózach z roku 1960,
+ktorú vypracoval F. Buffa. Neskôr sa literárnym menám a literárnej onomastike
+venovali v rôznych prehľadoch a jazykovedných časopisoch predovšetkým Pavol
+Odaloš a Milan Majtán. Záujem o literárne mená rástol, a s tým aj potreba ich
+presnejšieho označenia. Pavol Odaloš zaviedol pojem literáronymum, ktorý spojil
+slová „literárne“ a „onymum“. Tento termín sa stal aktívnou súčasťou jeho publikácií
+zameraných na vlastné mená v literárnych dielach a literatúre, prvýkrát ho použil
+v roku 2002. (Odaloš, 2007)
+Hlboké a komplexné pochopenie umeleckého diela vrátane jeho štýlu, jazyka,
+umeleckých obrazov a tematicko-ideového obsahu, je neodmysliteľne spojené
+s pochopením systému vlastných mien autora. Tieto mená sú zásadnou súčasťou
+znakového systému literárneho diela a v procese jeho tvorby sa stávajú dôležitou
+súčasťou autorských stratégií. Podobne ako v reálnom svete aj vo fiktívnom svete
+literárneho diela majú vlastné mená svoje nezameniteľné miesto. Je dôležité
+poznamenať, že táto lexikálna skupina zohráva osobitnú úlohu medzi nástrojmi
+jazyka, ktoré prispievajú k vytváraniu obrazového systému diela, a zaslúži si
+osobitnú pozornosť. Aj keď sú propriá najkonkrétnejšou kategóriou reči, tvoria
+dôležitú súčasť literárneho diela, pretože prispievajú k jeho rôznorodosti a sú
+neoddeliteľnou súčasťou autorského štýlu a tvorby umeleckého obrazu. Propriá
+môžu niesť hlboký sémantický význam, skryté asociácie a osobitný pohľad na dielo,
+ktorý odzrkadľuje atmosféru, historickú dobu alebo sociálnu charakteristiku. Správne
+pochopenie literárnej onomastiky je kľúčom k pochopeniu autorovho diela a ukazuje
+na štruktúru jeho tvorby. Spoločenský vplyv vlastných mien v umeleckej literatúre sa
+prejavuje na čitateľovi a je dôležité zohľadniť: autorov výber existujúcich vlastných
+mien, ich umelecké spracovanie a využitie pri dosahovaní umeleckých cieľov, ako aj
+tvorbu literároným pomocou modelov pomenovania, ich účinok na čitateľa a jeho
+postoj k nim.(Majtán, 1983)
+Každý autor by mal mať na mysli, že jeho dielo je určené pre čitateľa a jeho
+cieľom je zaujať a osloviť práve čitateľa, nielen literárnych vedcov, kritikov alebo
+onomastikov. Pri snahe autora vzbudiť tento estetický zážitok a poskytnúť čitateľovi
+20
+
+typický obraz spoločnosti alebo prostredia, ktoré je v diele zobrazované, autor čerpá
+z existujúcich spôsobov pomenovania, modelov a reálnych vlastných mien.
+Na objektivizáciu postáv a geografických objektov často používa tzv. „krycie
+pomenovania“, ktoré zahmlievajú skutočnosť, čím sa vyhýba priamej konfrontácii
+medzi realitou a literárnym textom. Autor často pomenovaním svojich postáv
+naznačuje čitateľovi ich vonkajšie alebo vnútorné vlastnosti, pôvod, sociálne
+postavenie, historickú dobu a podobne. Z toho vyplýva, že vlastné mená slúžia nielen
+na označenie postáv, ale aj na ich detailnejšie charakterizovanie a začlenenie
+do širšieho kontextu. Spôsob, akým autor vyberá mená pre svoje postavy, je
+dôkladne plánovaný a tvorí dobre premyslený systém. Preto je možné hovoriť
+o poetike menovania literárnych postáv v dielach, alebo v tvorbe konkrétneho autora.
+(Bartko, 1983)
+Literárne onymá môžu zahŕňať aj skutočné osoby, mestá, štáty (ako Henrich
+VII., Anna Boleynová, Londýn, atď.), a to aj napriek tomu, že existujú v reálnom
+svete, v literárnom diele sa skúmajú ako literárne onymá. Meno postavy je spojené
+s umeleckým obrazom a dodáva informácie zachytené v samotnom vlastnom mene,
+pričom zohráva dôležitú úlohu v dielach. Niektoré oblasti literatúry, ako napríklad
+detská literatúra, sú na takúto obraznosť veľmi citlivé. Súčasní výskumníci literárnej
+onomastiky upozorňujú na skutočnosť, že v literárnom diele sa nevyskytujú slová
+bez štylistického ladenia. Samotná analýza mien literárnych postáv môže byť
+komplikovaná, pretože v dielach nie sú vždy použité iba vlastné mená. Literárne
+mená môžu obsahovať aj všeobecné pomenovania, ako napríklad mien odvodených
+od povolania, podobenstiev, prenesených významov, rozprávkových žánrov a
+kultúrnych kódexov, ale aj nepríznakových (rodných) mien. Táto skutočnosť je
+najčastejšie pozorovateľná u vedľajších postáv. V literárnych dielach to nie je
+nevyhnutne pravidlom, pretože aj hlavná postava môže fungovať bez vlastného
+mena, pričom apelatívum môže prevziať niektoré funkcie vlastného mena, najmä
+funkciu identifikácie. V závislosti od kontextu diela by sa mali apelatívne označenia
+postáv interpretovať podobne ako vlastné mená. (Bardakova, 2009)
+Ako sme už spomenuli, Pavol Odaloš definoval literáronymiu (literárnu
+onymiu) ako „onymiu fungujúcu na virtuálnej ploche literárneho diela“ (Odaloš,
+2012, s. 10).Okrem toho autor vyprofiloval aj literáronomastiku ako disciplínu, ktorá
+sa zameriava na výskum tvorby a fungovania literárnych vlastných mien
+v literárnych dielach v rôznych obdobiach literatúry. Tento nový prístup v slovenskej
+21
+
+onomastike zhrňuje a zohľadňuje rôzne aspekty, ako sú typy literárnych vlastných
+mien a ich funkcie. (Odaloš, 2012)
+Typy literároným podľa P. Odaloša:
+1.
+
+transpozičné literáronymá: predstavujú literáronymá, ktoré si autor sám
+vytvoril. Ide o autorské literáronymá, ktoré sú pre daného autora typické
+a nenachádzajú sa v žiadnom inom diele. Vznikli so zámerom
+charakterizácie, symbolizácie a evokácie;
+
+2.
+
+transferenčné literáronymá: vznikli na základe preberania z reality;
+
+3.
+
+literáronymá diachrónne či synchrónne existujúcich osôb/osobností:
+vstupovali do literárneho textu a zastrešovali text ako reprezentanti
+spoločnosti. (Odaloš, 2012)
+
+Michal Blicha sa zamýšľa aj nad tým, ako vlastné mená v literárnych dielach
+môžu slúžiť aj na sprostredkovanie obrazu spoločnosti a prostredia, kde sa dej
+odohráva. Pri výbere mien autor často zohľadňuje aj tzv. „krycie pomenovanie“, aby
+dielo pôsobilo autentickejšie a predišlo sa tak možným nežiaducim konfrontáciám
+so skutočnosťou. Okrem základnej funkcie pomenúvať, identifikovať a odlíšiť osoby,
+geografické objekty alebo iné prvky umeleckého diela vlastné mená zohrávajú aj
+široké spektrum vedľajších úloh. Tieto funkcie môžu zahŕňať umiestnenie dejov
+v čase a priestore a pomáhať nám vyvodzovať charakteristiky postáv, objektov a
+reálií v dielach. Zdôrazňuje, že výberom vlastného mena autor môže dosiahnuť aj
+spoločenské zaradenie postáv. (Blicha, 1986)
+M. Blicha tvrdí:„ Literárne vlastné mená svojou typizačnou funkciou
+ovplyvňujú reálne prostredie aj pri dávaní prezývok a pôsobia aj na rozvoj
+apelatívnej slovnej zásoby jazyka, keď sa meno hrdinu alebo názov miesta
+apelativizujú a charakter postavy či charakteristika miesta a prostredia sa stávajú
+pojmovým obsahom (napr. kocúrkovo, donchuan)“ (Blicha, 1986, s. 132 – 133).
+Pri úvahách o pôsobení vlastného mena v literárnej sfére tvrdí, že pri celkovom
+pohľade na vlastné mená v literárnom diele treba dbať na to:
+1.
+
+ako autor čerpá z reálne existujúcich vlastných mien;
+
+2.
+
+ako ich umelecky stvárňuje a využíva pri realizácii svojich umeleckých
+zámerov, resp. ako podľa ich modelu sám tvorí literárne vlastné mená;
+
+3.
+
+ako vlastné mená literárneho diela pôsobia na čitateľa, ako ich čitateľ
+prijíma.
+
+22
+
+Vyššie uvedené tendencie k chápaniu funkcií vlastných mien v literatúre
+rozširuje Pavol Odaloš, ktorý vymedzuje široké spektrum funkcií literároným:
+a)
+
+identifikačno-diferenciačná funkcia – umožňuje identifikovať a odlíšiť
+literárne postavy;
+
+b)
+
+temporálno-lokalizačná funkcia – fungovanie literároným v určitom čase
+a priestore;
+
+c)
+
+sociálna funkcia – prejavuje sa v pomenovaniach pre sociálne vrstvy;
+
+d)
+
+veková funkcia – prejavuje sa v pomenovaní vekovo odlišných osôb;
+
+e)
+
+vzťahová funkcia – vyjadruje vzťahy medzi postavami;
+
+f)
+
+konvenčná a
+
+módna
+
+funkcia
+
+–
+
+tkvie v
+
+bežných či nových
+
+pomenovaniach;
+g)
+
+asociačná (evokačnú) funkcia– vyjadruje asociácie, napr. na povolania
+postáv;
+
+h)
+
+ideologická funkcia – predstavuje prispôsobenie mien štátnej politike;
+
+i)
+
+humorná funkcia;
+
+j)
+
+etymologická funkcia – zameriava sa na vysvetlenie motívu vzniku
+literáronyma. (Odaloš, 2012)
+
+Po tomto komplexnom zhrnutí literárnejonomastiky, ktorej predmetom
+skúmania sú vlastné mená z diel krásnej literatúry a ľudovej slovesnosti, môžeme
+prejsť na poslednú časť tejto kapitoly, v ktorej si povieme o spôsobe prekladu
+literároným.
+
+1.4
+
+Preklad literároným v umeleckom diele
+
+V tejto podkapitole sa budeme venovať samotnému preneseniu literároným
+do východiskového textu. Ako si povieme neskôr, je obzvlášť náročné prekladať
+literáronymá a taktiež neexistujú jednotné pravidlá na ich preklad, preto si uvedieme
+možnosti, ktoré nám pomôžu s ich prekladom. Budeme vychádzať najmä z diel
+autorov, ktorí sa tejto problematike venovali. Sú to nižšie uvedení jazykovedci,
+literárni vedci a translatológovia.
+Ján Vilikovský identifikuje tri hlavné typy cudzích prvkov v prekladovom
+materiáli: materiálne, kultúrne a jazykové špecifiká, pričom vlastné mená zaradzuje
+medzi jazykové špecifikácie. (Vilikovský, 1984)
+
+23
+
+Anton Popovič diskutuje o troch prístupoch k prekladu v závislosti od toho, či
+v cieľovom texte prevažujú cudzie alebo domáce prvky. Ak sa v prekladovom texte
+uprednostňujú domáce prvky, hovoríme o naturalizácii. Exotizácia nastáva, keď
+v cieľovom texte prevažujú cudzie prvky. Tretím typom je text, v ktorom sú cudzie a
+domáce prvky vyvážené. Takýto prístup nazýva Popovič kreolizujúcim prekladom,
+ktorý považuje za ideálny typ textu. Avšak v praxi prekladu je tento typ textu skôr
+utópiou. (Popovič, 1975)
+V práci s názvom Možné svety a ich možné preklady M. Djovčoš
+a Z. Kraviarová (2010) diskutujú o problémoch spojených s prekladom fantastických
+literárnych diel, pričom si uvedomujú, že prekladateľ umeleckej literatúry sa
+pri preklade fantázie stretáva s mnohými problémami, ako sú autorské neologizmy,
+vymyslené reálie, mená a miesta, ktoré nie sú súčasťou našej reality. Tieto prvky sa
+vyskytujú na jazykovej aj kultúrnej úrovni. Autori definujú fiktívny svet, ktorý môže
+byť buď priamo, alebo nepriamo odvodený od skutočnej reality. Pri nepriamej
+závislosti sa prekladateľ musí vyrovnať s treťou (fiktívnou) kultúrou a používa
+prekladateľské stratégie ako naturalizáciu, exotizáciu, kreolizáciu, výrazové zmeny a
+posuny. Okrem toho musí prekladateľ zohľadniť zámer autora a čitateľský zážitok.
+(M. Djovčoš a Z. Kraviarová, 2010)
+Dagmar Knittlová tvrdí, že pri preklade vlastných mien má prekladateľ
+k dispozícii rôzne metódy a postupy, najmä ak cieľový jazyk nemá ekvivalent
+k daným slovám. Vlastné podstatné mená teda radíme k takzvanej bezekvivalentnej
+lexike.
+
+Taktiež
+
+uviedla
+
+prekladateľské
+
+postupy
+
+pri
+
+prenášaní
+
+propria
+
+z východiskového do cieľového jazyka:
+1.
+
+transkripcia;
+
+2.
+
+kalk (doslovný preklad);
+
+3.
+
+substitúcia (nahradenie jedného jazykového prostriedku iným);
+
+4.
+
+transpozícia (nutné gramatické zmeny v dôsledku odlišného jazykového
+systému);
+
+5.
+
+modulácia (zmena hľadiska);
+
+6.
+
+ekvivalencia;
+
+7.
+
+adaptácia (substitúcia situácie popísanej v origináli, inou adekvátnou
+situáciou) (Knittlová, 2010).
+
+Milan Majtán reflektuje význam prekladu vlastných mien a jeho úzke
+prepojenie s rôznymi faktormi ovplyvňujúcimi tento proces. Kladie dôraz na osobný
+24
+
+prístup a schopnosti prekladateľa, ako aj jeho tvorivosť. Autor zdôrazňuje, že
+prekladateľ by mal mať na zreteli funkciu vlastného mena v texte a na základe toho
+by mal rozhodovať o konečnej forme preloženého ekvivalentu. Ďalej uvádza, že
+prekladateľ má k dispozícii rôzne možnosti vo voľbe vhodného postupu:
+prekladateľ môže použiť grafematický alebo fonematický prepis propria
+
+1.
+
+v cieľovom jazyku;
+prekladateľ môže požiť morfologickú alebo slovotvornú adaptáciu
+
+2.
+
+propria;
+prekladateľ môže použiť doslovný alebo voľný preklad propria (Majtán,
+
+3.
+
+1992).
+Na základe vyššie uvedených postrehov môžeme skonštatovať, že preklad
+literároným je náročný a komplexný proces, ktorý vyžaduje od prekladateľa nielen
+lingvistické schopnosti, ale aj cit pre kontext a funkciu mena v diele. Výber
+prekladateľskej stratégie je ovplyvnený mnohými faktormi vrátane kultúrnych a
+jazykových rozdielov medzi východiskovým a cieľovým jazykom. Rozličné metódy
+a postupy, ktoré sme predstavili, poskytujú prekladateľovi širokú paletu nástrojov
+na dosiahnutie verného a funkčného prekladu literárnych vlastných mien.
+Existuje viacero stratégií, ako prekladať antroponymá. Tejto problematike sa
+na Slovensku venoval Ján Ferenčík, ktorý pri preklade umeleckého textu a vlastných
+mien uvádza „zásadu prenášať cudzie mená a názvy v pôvodnom znení, resp.
+v ustálenej
+
+transkripcii
+
+s výnimkou
+
+funkčných
+
+mien
+
+a názvov,
+
+prezývok
+
+a pomenovaní.“ (Ferenčík, 1982, str.56) Avšak iné stratégie, ako prekladať mená
+postáv neuvádza (spomína len transkripciu). Preto si ukážeme aj stratégie podľa
+Fernandesa (2006):
+1) Interpretácia
+Táto metóda sa využíva, keď je dané meno transparentné alebo sémanticky
+motivované. Autor teda využíva meno zakotvené v lexikóne východiskového jazyka.
+Prekladateľ sa zameriava na preklad významu mena.
+2) Kopírovanie
+Prekladateľ jednoducho prenesie dané meno v jeho nezmenenej forme do cieľového
+jazyka. Takto preložené meno sa však môže prechyľovať ak si to kontext alebo jazyk
+vyžaduje. Fernandes tiež tvrdí, že tieto mená aj keď sú ortograficky totožné, môžu mať
+rôznu fonetickú stránku vo východiskovom a cieľovom jazyku.
+25
+
+3) Transkripcia
+Táto stratégia sa zameriava na prepis mena tak, aby bolo foneticky, gramaticky
+alebo morfologicky kompatibilné s cieľovým jazykom. Zvukový tvar mena musí byť
+zanechaný, alebo aspoň adekvátne podobný originálu. Docieľuje sa to zmenou,
+odobratím alebo pridaním písmen aby sa zachovala čitateľnosť.
+4) Substitúcia
+Pozostáva z nahradenia mena východiskového jazyka formálne alebo sémanticky
+nerelevantným menom (vzhľadom na originálne meno) cieľového jazyka. Obe mená sú
+však relevantné v ich príslušnom jazyku.
+5) Preformulovanie
+Úlohou tejto stratégie je rekreácia mena z východiskového jazyka do cieľového so
+zámerom reprodukovať jeho pôvodný efekt v cieľovej kultúre. Tieto mená sú fiktívne
+a existujú len vo svete, do ktorého je dielo zasadené.
+6) Vynechanie
+Táto metóda je veľmi drastická v porovnaní s predošlými, no je akceptovateľná, ak
+konkrétna postava nie je veľmi relevantná alebo k porozumeniu scény nie je dôležité
+použiť jej meno. Môže to byť z dôvodu ak bola postava už zmienená, alebo ak sa autor
+rozhodol použiť celé meno postavy, t.j. krstné meno aj priezvisko, a prekladateľ
+pristúpil k tejto stratégii a vo východiskovom texte použil len jej krstné meno. Došlo
+teda k vynechaniu priezviska, tzv. čiastočné vynechanie.
+7) Doplnenie
+Pri tejto stratégii dochádza k pridaniu dodatočnej informácie na objasnenie daného
+mena, aby sa znížila nejednoznačnosť a cieľový text bol jednoduchší na porozumenie.
+Doplnenie môže nastať ak má napríklad jedna postava viac mien, ktorými je
+oslovovaná.
+8) Transpozícia
+Tu nastáva zámena jedného vetného člena za druhý tak, aby nedošlo k zmene
+významu pôvodného textu. Dôvodom je zrozumiteľnosť a rozdielne gramatické stránky
+východiskovej a cieľovej kultúry a jazyka.
+9) Fonologická náhrada
+
+26
+
+Pri tejto stratégii dochádza k reprodukovaní fonologickej ekvivalencie. Pôvodné
+meno je nahradené takým, aby sa docielil podobný zvukový aspekt originálu. Na rozdiel
+od transkripcie, úlohou takejto náhrady nie je docieliť rovnaký zvukový aspekt ako má
+originál, ale zmeniť meno tak, aby malo rovnaký zvukový efekt ako má východiskový
+text.
+10) Zaužívaný názov
+Ak ide o meno, ktorého preklad je bežne akceptovaný, prekladateľ využije tento
+variant. Tieto mená sú napríklad historické, literárne alebo geografické. (Fernandes,
+2006)
+Po komplexnej teórii, ktorá sa týkala predstavenia onomastiky ako vednej
+disciplíny, zadefinovania jej predmetu skúmania, čiže vlastného mena, jeho
+rozdelenia, sme sa plynule presunuli na literárnu onomastiku. Venovali sme sa jej
+podstate a predmetu jej skúmania – literáronymám, ktoré sme si následne taktiež
+rozdelili. V neposlednom rade sme uviedli problematiku prekladu týchto literároným
+a možnosti ich transferu do cieľového jazyka. Ako sme už spomenuli, je potrebné
+poznať motiváciu autora pomenúvať isté postavy, čiže porozumieť jeho systému.
+Ten je úzko spojený aj so samotným dielom, preto si v tretej kapitole predstavíme
+autora, dielo a prekladateľky. Predtým je potrebné stanoviť postup pri analýze
+vlastných podstatných mien a určiť, podľa čoho ich budeme analyzovať. Toto si
+povieme v nasledujúcej kapitole o metodike výskumu.
+
+27
+
+2.
+
+METODIKA VÝSKUMU
+
+Prvotná fáza praktickej činnosti spočívala v zhromažďovaní informácií o autorovi
+C. J. Sansomovi a o jeho historicko-detektívnom románe Temný oheň. Spoznávanie
+diela prebiehalo v rámci voľno časového čítania, počas ktorého sme zistili, že sága
+obsahuje veľa materiálu (vlastných podstatných mien) vhodného na prekladovú
+analýzu. Na základe týchto zistení sme pokračovali v zhromažďovaní všetkých
+dostupných slovenských prekladov a originálnych textov ságy.
+Po zaobstaraní týchto aj ostatných románov sme pristúpili k selektívnemu
+čítaniu, zameranému na výber proprií, z ktorých sme zostavili rozsiahly korpus
+pozostávajúci z antroponým, zooným, toponým a chrématoným, ktoré sme následne
+rozdelili do menších celkov.
+V ďalšej fáze sme analyzovali vybrané vlastné mená v uvedených kategóriách.
+Používali sme analyticko-komparatívnu metódu, porovnávajúc východiskový a cieľový
+variant vlastného mena. Výsledkom analýzy každej jednotky je deskripcia
+prekladateľského postupu, pričom sme sa zamerali na tendencie v preklade na osi
+exotizácia – naturalizácia, doslovný preklad a transkribované riešenia. Analyzovali sme
+aj ďalšie prekladateľské postupy ako explikácia, adaptácia, omisia, generalizácia
+a adícia.
+Naprieč výskumnou časťou sme sa snažili prepojiť teoretické a praktické
+východiská. V záverečnej časti každej analyzovanej kategórie (antroponymá, zoonymá,
+toponymá, chrématonymá) prinášame zovšeobecnené závery, sumarizujúce dominujúce
+prekladateľské postupy.
+Nakoniec sme priblížili aj negatívne posuny v knihe a navrhli riešenia, ako by sa
+dali jednotlivé chyby opraviť.
+
+28
+
+3.
+
+PREDSTAVENIE AUTORA, PREKLADATELIEK A KNIHY
+
+V tejto časti diplomovej práce predstavíme autora C. J. Sansoma, prekladateľky knihy
+Temný oheň a na koniec si priblížime samotné dielo, pričom bezprostrednejšie nazrieme
+do jeho deja.
+
+3.1
+
+Spisovateľ C. J. Sansom (1952 – 2024)
+
+Christopher John Sansom bol britský spisovateľ, ktorý sa narodil v roku 1952
+v škótskom Edinburgu. Preslávil sa ako autor historických detektívnych románov,
+najmä sériou o Matthewovi Shardlakovi. Napísal aj špionážny román Zima
+v Madride a román z alternatívnej histórie Dominion. Získal množstvo knižných
+ocenení vrátane Historickej dýky Ellis Petersovej v roku 2005, 2013 získal cenu
+Sidewise za alternatívnu históriu a v roku 2022 získal Diamantovú dýku, ktorú
+dostávajú najlepší autori detektívnych románov za ich celoživotnú činnosť.
+Navštevoval Univerzitu Georga Watsona, ale školu opustil bez kvalifikácie. Už
+vtedy začal písať, a to o šikanovaní, ktorému tam bol vystavený. Následne sa
+vzdelával na Birminghamskej univerzite, kde získal bakalársky titul a potom doktorát
+z histórie. Vystriedal rôzne zamestnania, kým sa rozhodol rekvalifikovať
+na právnika. Pôsobil v Sussexe ako právnik pre znevýhodnených, no právnickú
+profesiu opustil a stal sa spisovateľom na plný úväzok.
+Medzi jeho najznámejšie diela patria knihy zo série o detektívovi Shardlakovi,
+ktorý je ústrednou postavou pri riešení rôznych zločinov a tajomstiev v tudorovskom
+Anglicku. Najpopulárnejšie knihy z tejto série sú Zánik (Dissolution), Temný oheň
+(Dark Fire), Panovník (Sovereign) a ďalšie.1
+Diela C. J. Sansoma sa vyznačujú detailným a presným historickým
+výskumom, ktorý umožňuje jeho knihám oživiť dobové prostredie. Jeho romány si
+ľudia veľmi obľúbili najmä vďaka jeho schopnosti kombinovať dobre formované
+postavy s napínavou zápletkou a bohatým historickým pozadím.
+Zomrel nedávno, 17. apríla 2024, v hospici v Brightone na chorobu krvi zvanú
+mnohopočetný myelón.
+
+Preložené z anglického originálu, dostupné na: <https://www.theguardian.com/culture/2010/nov/15/cjsansom-interview>.
+1
+
+29
+
+3.2
+
+Prekladateľky knihy Temný oheň
+
+Prvú časť ságy s názvom Zánik prekladal PhDr. Martin Kubuš, PhD. Na druhej
+knihe, ktorej je venovaná táto diplomová práca, pracovali dve prekladateľky.
+Začiatok knihy do slovenského jazyka previedla Zuzana Trstenská, ktorá sa však
+pre iné pracovné povinnosti a časovej tiesni rozhodla spoluprácu s vydavateľstvom
+AKTUELL ukončiť. Preklad knihy dokončila Veronika Kašáková pod vedením
+M. Kubuša, pretože to bol jej prekladateľský debut. Tretiu časť ságy taktiež preložila
+Veronika Kašáková.
+
+Zuzana Trstenská
+Vyštudovala slovenský jazyk a literatúru na Filozofickej fakulte Univerzity
+Komenského v Bratislave a odvtedy pracuje so slovenčinou na každodennej
+báze. V minulosti pôsobila ako učiteľka slovenčiny a angličtiny. S prekladom
+sa prvýkrát stretla ako redaktorka vo vydavateľstve, kde dostala svoju prvú
+príležitosť preložiť román. Aktuálne sa venuje prekladateľstvu anglickej
+beletrie. Zuzana Trstenská sa špecializuje predovšetkým na preklady
+beletristických diel a jej práca zahŕňa preklady románov, poviedok a ďalších
+literárnych žánrov z anglického jazyka do slovenčiny.
+Preložila knihy ako Bezhviezdne more, Krásy a zvieratá, Tieň v pahrebe,
+Sila v nás a ďalšie.2
+Veronika Kašáková
+Vyštudovala filológiu na Univerzite Mateja Bela v Banskej Bystrici
+so zameraním na anglický a španielsky jazyk. Od detstva ju fascinovali knihy a
+príbehy rôzneho žánru, a aj preto sa vydala smerom umeleckého prekladu.
+Zatiaľ mala príležitosť pracovať s vydavateľstvami Aktuell a Artforum.
+Doteraz preložila knihy ako Temný oheň a Muž, ktorý predával vzduch
+v svätej Zemi.
+
+2
+
+Dostupné na: <https://kogneo.org/lectors/zuzana-trstenska/>.
+
+30
+
+3.3
+
+Román Temný oheň
+
+Pre lepšie pochopenie druhej časti ságy je nevyhnutné, aby sme si priblížili jej prvú
+časť s názvom Zánik. Píše sa rok 1537 a krajina je rozdelená medzi tých, ktorí
+zostávajú verní katolíckej cirkvi, a tých, ktorí zachovávajú vernosť kráľovi a jeho
+novozaloženej národnej cirkvi.
+Keďv kláštore na južnom pobreží Anglicka dôjde k brutálnej vražde
+kráľovského komisára, obávaný Thomas Cromwell, generálny vikár kráľa Henricha
+VIII., poveruje vyšetrovaním Matthewa Shardlaka, človeka rovnako zanieteného
+v otázkach cirkevnej reformy. Shardlake pôsobí ako právnik v Londýne a jeho
+konexie ho zaviedli až ku Cromwellovi, ktorý mu natoľko verí, že ho posiela vyšetriť
+vraždu tak závažnú, že verejnosť o nej ešte nemá ani tušenia.
+Tu sa Matthew s jeho mladým spoločníkom stretávajú s rôznymi zápletkami
+sexuálnych deliktov, sprenevery finančných prostriedkov i velezrady, a keď odhalia
+ďalšie dve vraždy, musia vraha zastaviť čo najskôr. Na konci knihy ho jeho mladý
+spoločník Mark Poer opúšťa so ženou, ktorú si našiel v kláštore a Shardlake sa sám
+vracia do Londýna, kde plánoval pokračovať vo svojej právnickej práci.
+V úvode druhej knihy za naším hlavným hrdinom príde istý Joseph Wentworth
+a prosí ho, aby zastupoval jeho neter, údajnú vrahyňu z Wallbrooku, ktorá vraj
+zavraždila svojho nevlastného brata. Tá však nechce vypovedať, čo znamená istú
+smrť. Tu však Shardlakovi opäť skríži cestu Cromwell, ktorý nášmu právnikovi
+pomôže a odročí prípad o dva týždne. Avšak nebude to zadarmo, generálny vikár od
+neho chce, aby našiel stratené zásoby temného ohňa, ktorý o dva týždne musí ukázať
+kráľovi, aby odčinil jeho nemilosť, pretože mu sprostredkoval katastrofálne
+manželstvo s Annou Klévskou.
+Na pomoc mu priradí mladého a statočného Jacka Baraka. Dvojica však
+vzápätí zisťuje, že to nie je také jednoduché, ako si spočiatku mysleli. Bratia
+Gristwoodovci, ktorí temný oheň objavili a ukázali ho Thomasovi Cromwellovi, boli
+zavraždení a oheň bol použitý na spálenie ich domu, kde sa nachádzali všetky
+dokumenty a recept na jeho výrobu. Neskôr antagonisti Toky a Wright, ktorí
+pracovali pre vojvodu z Norfolku, najväčšieho nepriateľa generálneho vikára
+Cromwella, začali zabíjať všetkých, ktorí mali s temným ohňom niečo spoločné
+a ktorých chcel Shardlake vypočuť a mohli byť pre neho nápomocnou stopou.
+
+31
+
+V knihe spoznávame veľa podozrivých postáv a len čo sa dostanú do kontaktu
+s temným ohňom, ocitajú sa v nebezpečenstve. Rovnako aj naši protagonisti párkrát
+ušli hrobárovi z lopaty. Čas sa však kráti a Shardlake stále nechápe, kto za tým
+všetkým môže stáť a ako je možné, že nepriatelia sú vždy o krok vpred. Aby toho
+nebolo málo, za ten istý čas musí náš právnik vyriešiť aj záhadu vrahyne
+z Wallbrooku, Elizabeth Wentworthovej, pretože verí v jej nevinu a je si istý, že je za
+tým niečo viac.
+V závere sa dozvedáme, že oheň mal celý čas v moci vojvoda z Norfolku,
+ktorý ho použil na zvrhnutie režimu a zosadenie Cromwella. Jedinou dobrou správou
+je, že Elizabeth je nevinná a prsty vo vražde jej nevlastného brata mala jeho
+biologická rodina.
+
+32
+
+4.
+
+ANALÝZA
+
+PREKLADU
+
+VLASTNÝCH
+
+PODSTATNÝCH
+
+MIEN
+Táto kapitola je venovaná bionymám a abionymám. Ako ďalej spomenieme, v knihe sú
+bionymá použité v menšom počte a nenájdeme tu dostatočné množstvo postáv a mien,
+ktoré by postačovali na analýzu tejto práce. Práve preto najväčšiu časť našej diplomovej
+práce budú predstavovať abionymá, v ktorých budeme podrobne analyzovať
+prekladateľské riešenia a postupy pri preklade ulíc, budov, štvrtí, mostov, prístavov a
+hostincov. Začneme bionymami a súvisle sa presunieme k abionymám.
+
+4.1. Bionymá
+
+4.1.1
+
+Antroponymá
+
+V tejto časti sme v skupine antroponým vyčlenili nasledovné kategórie: preklad
+mien rodov, preklad krstných mien postáv a preklad priezvisk.
+V knihe Temný oheň sa poväčšine nachádzajú mená vymyslených postáv,
+avšak nájdeme tu aj skutočné historické postavy, ktoré prispeli k budovaniu
+Anglicka, ako ho teraz poznáme. Ide teda o kombináciu transpozičných
+a transferenčných literaroným, ktoré vyčlenil P. Odaloš. Transpozičné
+literaronymá sú vymyslené autorom a transferenčné literaronymá sú vlastné
+mená existujúcich proprií v literárnom diele. (Odaloš, 2012) Čo sa týka
+krstných mien, je ich v texte menej. Postavy sa oslovovali priezviskami a
+taktiež v knihe nenájdeme ani veľa zvierat. Preto sa prevažne zameriame
+na priezviská, a to najmä na ženské priezviská.
+
+4.1.1.1
+
+Preklad mien rodov
+
+V prvej podkapitole začneme analyzovať preklad rodov postáv.
+Uvedieme všetky rody, ktoré sa v knihe vyskytujú a pokúsime sa
+zanalyzovať všetky prekladateľské postupy a riešenia, ktoré boli pri ich
+preklade do slovenského jazyka použité. Tu je ich zoznam:
+Wentworth
+
+Wenthworthovci
+
+33
+
+Vaughan
+
+Vaughanovci
+
+Lancaster
+
+Lancasterovci
+
+York
+
+Yorkovci
+
+Gristwood Gristwoodovci
+K rodom, ktoré nájdeme v knihe a naozaj existovali, patria
+Tudorovci, Lancasterovci a Yorkovci a nachádzajú sa tu aj rody
+vymyslené
+
+našim
+
+autorom:
+
+Gristwoodovci,
+
+Wentworthovci
+
+a Vaughanovci. Tu zmena v preklade nenastáva, ako pri menách reálnych
+historických osobností, čomu sa budeme venovať v nasledujúcej kapitole.
+Pri preklade uvedených osobných mien rodov sme si všimli
+stratégiu, ktorá je typická pre tvorbu slov v slovenskom jazyku.
+Prekladateľky sa rozhodli pridať k pôvodnému menu kolektívnu príponu
+„-ovci“, čím do textu vniesli prvky naturalizácie. Tento tvorivý postup
+s príponou „-ovci“ sa pravidelne opakuje či už pri rodoch existujúcich,
+ale aj vymyslených, ktoré sa v knihe vyskytujú.
+
+4.1.1.2
+
+Preklad krstných mien postáv
+
+Táto časť diplomovej práce sa zaoberá analýzou rôznych postupov, ktoré
+prekladateľky použili pri preklade krstných mien postáv. Pracujeme
+s dvoma termínmi – exotizácia a naturalizácia, pričom sledujeme, či
+v cieľovom texte dominujú exotizačné alebo naturalizačné tendencie.
+Exotizácia sa vyskytuje, keď cudzie prvky prevládajú v preklade
+pre silnejší vplyv vonkajšieho prostredia, zatiaľ čo naturalizácia je
+situácia, keď dominujú domáce prvky v dôsledku silnejšej aktivity
+vnútorného prostredia. Teda v preklade prevládajú domáce prvky
+nad cudzími. Na opačnej strane stojí na osi my – oni naturalizácia, ktorá
+predstavuje situáciu, keď je aktivita vnútorného prostredia silnejšia ako
+aktivita vonkajšieho prostredia. Z toho vyplýva, že v texte prekladu
+prevládajú prvky domáce nad prvkami cudzími. (Popovič, 1971) Taktiež
+budeme pracovať aj so stratégiami, ktoré nám poskytol Fernandes
+(2006).
+Je dôležité poznamenať, že prekladateľky knihy sa krstné mená
+rozhodli neprekladať. Niektoré mená ako Sabine, Alice, David, Joseph
+34
+
+alebo Mary by sa preložiť, samozrejme, dali, avšak neskôr by došlo
+k nekonzistentnosti v preklade, pretože niektoré mená sa jednoducho
+preložiť
+
+nedajú a neexistuje slovenský ekvivalent týchto mien.
+
+Prekladateľky sa správne rozhodli mená ponechať v origináli a použiť ich
+transkripciu do slovenského jazyka v súlade s kánonom a zásadami
+Slovenskej prekladateľskej školy, ktorej princípom sa podrobnejšie
+venuje Ján Ferenčík v knihe Kontexty prekladu z roku 1982. Podľa tejto
+školy je „zásadou uvádzať cudzie miestne a osobné názvy v pôvodnom
+znení alebo ich prepisovať podľa ustálenej transkripcie. Výnimku
+pripúšťať
+
+len
+
+pri
+
+významovonosných
+
+názvoch
+
+alebo
+
+funkčných
+
+prezývkach“ (Ferenčík, 1982, s.56). Podľa Fernandesa v tomto prípade
+ide o stratégiu kopírovať vlastné mená do cieľového jazyka. (Fernandes,
+2006)
+Transkripcia
+
+je
+
+v tomto
+
+prípade
+
+transfer
+
+vlastného
+
+mena
+
+z východiskového jazyka do cieľového jazyka, pričom pri preklade
+nenastáva zmena, ktorá by formu vlastného mena v cieľovom jazyku
+akokoľvek ovplyvnila: Matthew Shardlake, Elizabeth, Joseph, Edwin
+Wentworthovci, Stephen Bealknap, Michael Gristwood, Guy Malton,
+Gabriel Marchamount, Godrey Wheelwright. V uvedenej skupine si
+môžeme všimnúť cudzosť mien, ktorá sa v preklade reflektuje, v tomto
+prípade ide o prvky exotizácie v preklade. Jedným z dôvodov môže byť
+podľa Vilikovského fakt, že na zachovanie cudzojazyčnej podoby mien
+silno vplýva aj záujem o zachovanie autentickosti lokalizácie diela
+a postavy; v tomto prípade ide o mužské rodné mená (Vilikovský, 1984).
+Ďalším prvkom exotizácie v preklade rodných mien je prenášanie
+koncovej samohlásky -e do slovenského jazyka. Takéto zakončenie je
+pre náš rodný jazyk netypické najmä vďaka tomu, že vo výslovnosti toto
+e absentuje. Takéto mužské mená sa v knihe nevyskytujú. Avšak
+ženských rodných mien tu nájdeme viacero, sú to mená ako napríklad:
+Alice, Sabine, Betsabe (tomuto menu sa budeme ešte venovať neskôr).
+V tomto prípade sa nám vynárajú dve možnosti prenesenia týchto mien
+do cieľového jazyka. Jednou zo stratégií je exotizácia a presná
+transkripcia alebo kopírovanie do slovenského jazyka, tú vidíme použitú
+v tomto prípade. Druhou stratégiou je naturalizácia alebo transpozícia (tu
+35
+
+by sa však nemenil vetný člen v mene ako tvrdí Fernandes ale len jedna
+graféma), a to zmenenie koncovej samohlásky e na a. Čiže mená by sa
+zmenili na Alica, Sabina, Betsaba. Tieto zmeny nám cieľový text veľmi
+neovplyvňujú, avšak môžu pomôcť prekladateľovi a čitateľovi z hľadiska
+lepšej výslovnosti a skloňovateľnosti.
+Jediné meno, ktoré v knihe nájdeme zmenené, je Betsabe.
+Vo východiskovom texte je toto meno uvedené ako Batsheba. Spomínali
+sme už zásady slovenskej prekladateľskej školy, kde sa píše, že vlastné
+mená sa do cieľového jazyka neprekladajú. Tu je však rozdiel v tom, že
+toto meno je idióm z biblie a slovenský ekvivalent pre túto biblickú
+postavu je Betsabe alebo Batšeba.3 Ak by použila poslovenčené meno
+Batšeba, kontextovo by to do knihy nezapadlo, pretože sa tu nachádzajú
+len anglické mená. Ďalšou výhodou prekladu tohto idiómu je, že sa
+Betsabe neskloňuje, čo nám uľahčuje jeho ďalšie používanie.
+Ďalšou skupinou mien sú mená ľudí, ktorí reálne existovali a vystupujú v
+knihe. Podľa Fernandesa sú to zaužívané názvy, v tomto prípade mená.
+Ak ide o meno, ktorého preklad je bežne akceptovaný, prekladateľ
+využije tento variant. Tieto mená sú napríklad historické, literárne alebo
+geografické. (Fernandes, 2006). Sú to mená ako: Anne of Cleves, Edward
+III, Catherine Howard, Nan Bullen. Tieto mená známych osobností,
+šľachty, kráľov a kráľovien nájdeme aj v slovenských prameňoch a boli
+už
+
+do slovenčiny
+
+preložené.
+
+Prekladateľky
+
+sa
+
+rozhodli
+
+použiť
+
+naturalizáciu a preložiť ich do slovenského jazyka, čo, samozrejme,
+považujeme za dobrú a jedinú prípustnú stratégiu. V tomto prípade by
+transkripcia nefungovala a určite by nebola správna. Ich preklad znie:
+Anna Klévska, Eduard III., Katarína Howardová, Anna Boleynová.
+Jediným špecifickým menom v tejto skupine je Nan Bullen, pretože
+to nebolo pravé meno Henrichovej druhej manželky, aj keď sa mu veľmi
+podobalo. Bullen bolo priezvisko, ktoré používala Annina rodina. Jej
+meno
+
+sa
+
+„pofrancúzštilo“
+
+na
+
+Boleyn
+
+v
+
+dôsledku
+
+jej
+
+pobytu
+
+na francúzskom dvore. Francúzi považujú meno Bullen za dosť zložité
+a zmena na Boleyn im pravdepodobne pomohla. A keď sa vrátila, tento
+3
+
+Dostupné na: <https://biblia.sk/citanie/ssv/2sam/11>.
+
+36
+
+pravopis si ponechala, pravdepodobne preto, že to znelo vznešenejšie a
+očarujúcejšie ako Bullen.
+Čo sa týka Nan, to bolo bežné domáce meno pre Anne. Takže tým,
+že sa o nej hovorilo ako o „Nan Bullen“, a nie ako o „Anne Boleyn“, ju
+ľudia slovne urážali, čím vlastne hovorili: „Je len jedna z nás, nič
+výnimočné!“ 4
+
+4.1.1.3
+
+Preklad priezvisk
+
+Prekladateľky sa rovnako ako pri krstných menách rozhodli
+priezviská
+
+postáv
+
+neprekladať, používali
+
+čisto
+
+transkripciu
+
+a pri
+
+skloňovaní používali derivačné prípony. Považujeme to za správnu
+stratégiu, pretože v texte sa nenachádza ani jedno meno alebo priezvisko,
+ktorého preklad by bol možný alebo v slovenčine funkčný.
+Špecifickou skupinou priezvisk v knihe sú priezviská so zdvojeným
+ll, čo považujeme za exotizačný prvok, ktorý je pre slovenský jazyk
+atypický. Sú to priezviská ako: Hollyes, Skelly, Cromwell. Tieto grafémy
+nie sú súčasťou pravopisu slovenského jazyka, čo spôsobuje, že text
+pôsobí voči čitateľovi exoticky. Úpravy súvisiace s odstránením
+zdvojených hlások môžu mať praktický význam, pretože pravopis sa tým
+zjednodušuje, avšak je to nesystémové a odporuje to zásadám Slovenskej
+prekladateľskej školy. Tie tvrdia, že cudzie miestne a osobné názvy sa
+majú ponechať v pôvodnom znení alebo prepísať ustálenou transkripciou.
+Špecifické priezvisko je Bullen, kde si môžeme všimnúť, že v tejto
+forme sa tam nachádza zdvojené l. Pri „pofrancúzštenej“ podobe tohto
+priezviska Boleyn ho tam však už nenájdeme. Rovnako v preklade sa
+nachádza iba jedno l: Boleynová.
+Ako sme už predtým uviedli, antroponymá označujúce ženské
+priezviská sa pri preklade považujú za špecifické. Pri preklade
+z východiskového do cieľového jazyka ženských postáv prekladateľky
+použili rovnakú stratégiu ako pri prenesení mien rodov. Podľa tejto
+stratégie M. Majtána (1992) prekladateľ môže použiť morfologickú alebo
+Preložené z anglického originálu, dostupné na: <https://www.thevintagenews.com/2021/09/02/sixmysteries-about-anne-boleyn-or-should-that-be-nan-bullen/>.
+4
+
+37
+
+slovotvornú adaptáciu propria a prispôsobiť sa tak jazykovému systému
+cieľového jazyka. Najprv však začali prvou stratégiou D. Knittlovej
+(2010) a tou je transkripcia, t.j. úplný grafematický alebo fonematický
+prepis do cieľového jazyka. Potom sa však museli prispôsobiť
+slovenskému jazyku a prechyľovať, čiže použili koncovku „-ová“.
+Ladislav Dvonč sa k prechyľovaniu vyjadruje: „Používanie cudzích
+mužských priezvisk ako ženských sa v slovenčine na pozadí všeobecne sa
+uplatňujúceho prechyľovania javí ako neprirodzené, odporujúce duchu a
+zákonitostiam nášho jazyka“ (Dvonč, 1996, s. 172). Podobný názor má aj
+Ladislav Bartko, podľa ktorého sme v dnešnej dobe obeťami prudkého
+návalu módy neprechyľovať priezviská cudzích ženských autoriek.
+Vcelku ide podľa autora o akceptáciu mylného názoru, že prechyľovacou
+príponou dochádza k zmene podoby priezviska (Bartko, 2000).
+Zástancom prechyľovania je aj Martin Ološtiak: „V umeleckom štýle hrá
+dominantnú úlohu estetický činiteľ, ktorému sa podriaďuje aj
+prechyľovanie. Prekladateľ pritom primárne sleduje aspekt funkčnej
+ekvivalencie originálu a prekladu. Mená ženských postáv sa väčšinou
+uvádzajú v prechýlených podobách.“ (Ološtiak, 2001, s. 304)
+V preklade sa používa prípona, ktorá evokuje domáce prvky, keďže
+v slovenskom
+
+kultúrnom
+
+kontexte
+
+je
+
+bežné
+
+pridávať
+
+ženským
+
+priezviskám príponu „-ová“. Text obsahuje zástupcov ženských
+osobných mien so zdôraznením formálnej stránky priezviska: Joan
+Woodová, Elizabeth Wentworthová, Betsabe Greenová, Katarína
+Howardová, Honor Bryanstonová. Zistili sme, že táto prípona je
+systematicky používaná v knihe pri ženských priezviskách a zachováva
+princíp konzistencie prekladu, pričom rešpektuje konvencie prijímajúcej
+kultúry.
+
+4.1.2
+
+Preklad zooným
+
+Zoonymá predstavujú vlastné mená zvierat, ktoré sa v našej knihe veľmi
+neobjavovali. Jediné zvieratá, ktoré sme mohli v knihe pozorovať častejšie,
+boli kone Shardlaka a Baraka. Objavilo sa tu aj meno medveďa, ktorý
+„vystupoval“ na medvedích zápasoch. Prezývali ho veľký Magnus. Prvý kôň
+38
+
+hlavnej postavy mal meno Chancery (ten, bohužiaľ, ku koncu knihy zahynul)
+a druhý kôň sa volal Genesis. Taktiež sa tu spomína aj Barakova kobyla Sukey.
+Tu sa prekladateľky rozhodli pre exotizačnú stratégiu a ponechali mená
+koní v origináli, čo je správna stratégia, pretože Shardlake svojho koňa
+pomenoval podľa ulice, na ktorej býval –Chancery Lane. Ekvivalent tejto ulice
+v slovenčine neexistuje, čiže, samozrejme, je správne toto meno neprekladať.
+Čo sa týka druhého koňa Genesisa, tu nepoznáme motiváciu, podľa ktorej bol
+tento
+
+kôň
+
+pomenovaný
+
+a
+
+prekladateľky
+
+dobre
+
+dodržali
+
+stratégiu
+
+exotizáciea meno ponechali. Môžeme sa domnievať, že kôň je pomenovaný
+podľa prvej knihy Starého zákona – Genezis (po anglicky Genesis), čo
+znamená začiatok, pôvod. V kontexte Shardlake tohto koňa dostal hneď po
+smrti Chanceryho od Lorda Cromwella. Keď zoberieme do úvahy, že ho dostal
+ku koncu knihy, kde sa neskôr dozvedáme, že Cromwell bol zvrhnutý a k moci
+sa dostali pápeženci, môže mať toto meno význam nejakého nového začiatku,
+novej zrady a nového prípadu, ktorému sa bude Shardlake v ďalšej knihe
+venovať. Toto sú však len naše domnienky, v knihe to nezaznelo a nie je to ani
+nijakým spôsobom potvrdené. Čo sa týka medveďa s menom Magnus,
+nepoznáme ani motiváciu za jeho menom a taktiež pre toto meno neexistuje
+slovenský ekvivalent a transkripcia je pri ňom namieste. Tu je veľmi
+pravdepodobné, že meno je prevzaté z latinského jazyka, kde Magnus znamená
+veľký, vznešený – čo sú kritériá, ktoré medveď spĺňal, pretože bol najväčší zo
+všetkých a bol hlavným bodom programu. Túto teóriu nám indikuje len kontext
+v knihe. Pri všetkých troch menách prekladateľky použili transkripciu
+z východiskového jazyka a pri ich skloňovaní používali derivačné prípony ako
+pri priezviskách postáv. Derivačné prípony boli použité podľa štvrtej stratégie
+D. Knittlovej (2010) a tou je transpozícia, kde je nutné použiť gramatické
+zmeny v dôsledku odlišného gramatického systému.
+V tejto kapitole sme si priblížili a rozanalyzovali všetky bionymá, ich
+pôvod, preklad a stratégie použité pri ich prenose do cieľového jazyka. Ako
+sme už spomínali, abioným je v texte oveľa viac, a preto sa priblížime
+k hlavnej časti našej diplomovej práce. V nasledujúcej časti budeme
+postupovať rovnako, ako v tejto a priblížime si všetky neživé vlastné podstatné
+mená.
+
+39
+
+4.2
+
+Abionymá
+
+4.2.1
+
+Toponymá
+
+Pod toponymá, ako sme uviedli v prvej kapitole v kategorizácii proprií podľa
+Blichu (1986), zaraďujeme širokú škálu vlastných mien, ako sú napríklad
+choronymá, ojkonymá, anojkonymá, hydronymá, oronymá, pozemkové mená a
+hodonymá. Všetky abionymá sú reálne objekty, ktoré sa v Londýne nachádzajú
+alebo nachádzali, čo znamená, že podľa P. Odaloša ide o transferenčné
+literaronymá (Odaloš, 2012). V knihe Temný oheň sa však niektoré z týchto
+druhov vlastných mien nenachádzajú. Budeme analyzovať hlavne preklad
+ojkoným, čo zahŕňa vlastné mená mestských štvrtí, mostov, prístavísk
+a schodísk, ktoré z nich vedú. Ďalej sa budeme venovať prekladu oroným,
+medzi ktoré zaradíme nádvoria, dvory a parky. Neskôr prejdeme na hodonymá,
+kde rozoberieme názvy ulíc.
+Budeme využívať analyticko-komparatívnu metódu, ktorá zahŕňa
+porovnanie východiskového a cieľového ekvivalentu, ako aj ich hĺbkovú
+štruktúru a sémantiku. Pri hodnotení adekvátnosti prekladu zoberieme
+do úvahy aj rovnováhu medzi domácimi a cudzími prvkami.
+
+4.2.1.1
+
+Choronymá
+
+Dej knihy sa odohráva v historickom Londýne, presnejšie v jeho centre,
+kde nájdeme aj všetky naše analyzované abionymá. Iné väčšie územné
+celky, ktorých analýza by bola potrebná a dôležitá, v knihe nenájdeme,
+pretože slovenské ekvivalenty pre tieto územné celky sú rovnaké ako
+v anglickom jazyku. Centrum diania nášho románu a taktiež centrum
+Londýna sa v anglickom jazyku nazýva City of London. V slovenskom
+preklade ekvivalentom pre toto choronymum je centrum Londýna alebo
+v knihe nájdeme úplnú generalizáciu, čisto len ako mesto Londýn.
+
+40
+
+4.2.1.2
+
+Ojkonymá
+
+Medzi ojkonymá zaraďujeme osadné alebo miestne názvy. V našom
+prípade sú to mestské štvrte, parky, dvory a nádvoria, mosty, prístaviská
+a schodiská.
+Čo sa týka mestských štvrtí, pri každej je podľa nás dôležité použiť
+explikáciu. V knihe nájdeme štvrte ako Shoreditch, Billingsgate
+alebo Charing
+
+Cross.
+
+transkripciu
+
+z originálu,
+
+Prekladateľky
+čo
+
+v každom
+
+jednoznačne
+
+prípade
+
+môžeme
+
+použili
+
+považovať
+
+za exotizačné smerovanie prekladu. Taktiež pokiaľ sú tieto miesta
+v knihe spomenuté po prvýkrát, považujeme za efektívne explikovať, že
+ide o mestské štvrte. Napríklad: „Plavili sme sa po Temži popri štvrti
+Billingsgate.“
+V knihe veľa zmienok o londýnskych mostoch nenájdeme, aj
+napriek tomu, že sa ich v meste nachádza veľa. Spomínajú sa len dva:
+
+1.
+
+Fleet Bridge
+
+Na osi naturalizácie a exotizácie sa prekladateľka priklonila
+k exotizácii a ponechala názov v origináli. V slovenskom jazyku
+pre
+
+takýto
+
+most
+
+ekvivalent
+
+neexistuje.
+
+Považujeme
+
+však
+
+za potrebné uviesť, že ide o most, pretože nie všetci čitatelia vedia
+po anglicky a dokážu si slovo bridge preložiť ako most.
+
+2.
+
+London Bridge
+
+Londýnsky most. Prvýkrát sa stretávame s prekladom vlastného
+podstatného mena a naturalizáciou. Ekvivalent Londýnsky most
+nájdeme aj v Slovenských národných korpusoch a teda je správne
+toto vlastné meno preložiť. Pre konzistentnosť prekladu by sme
+teda odporúčali preložiť aj prvý spomínaný most ako Fleetsky
+most.
+Nádvoria, dvory a parky tvoria druhú najväčšiu časť ojkoným
+v našej diplomovej práci. Tu môžeme taktiež pozorovať rovnakú
+stratégiu ako pri preklade mestských štvrtí a tou je transkripcia
+do východiskového jazyka a exotizácia.
+
+41
+
+3.
+
+Westminister stairs
+
+Tu sa prekladateľka rozhodla preložiť názov použitím prívlastku,
+čo je dobrá stratégia a myslíme si, že mohla byť v texte viackrát.
+Taktiež predtým v texte je napísané, že Shardlake s Barakom idú
+do Westministru. Bolo by efektívne uviesť, že Westminister je
+londýnska štvrť, kde sa nachádza parlament. Prvýkrát sa s touto
+stratégiou naturalizácie stretávame pri preklade London Bridge.
+
+4.
+
+Three Cranes Stairs
+
+Druhá prekladateľka sa rozhodla taktiež pre naturalizáciu
+a ojkonymum preložila ako Schody v Prístavisku troch žeriavov.
+V druhej časti prekladu nájdeme preložených viacero prístavov
+a hostincov, samozrejme, pokiaľ to názov dovoľuje. Tu môžeme
+prístav preložiť jednoducho. Otázkou však zostáva, či je to
+potrebné a správne. Nájdeme tu aj explikáciu, že ide o prístavisko.
+Zatiaľ to však nebolo nikde uvedené. Z kontextu vyplýva, že ide
+o miesto, kde Shardlake ukotvil loďku a vydal sa na ulicu
+Lothbury. Tu však môžeme pozorovať problém pri takomto
+preklade, pretože ďalej v knihe sa nachádza aj názov ulice, podľa
+ktorej bolo prístavisko pomenované, pretože sa na nej nachádza
+mnoho žeriavov. Tomu sa však budeme venovať neskôr.
+Čo sa týka schodísk, ktoré vedú z prístavísk, oba názvy sú
+v texte preložené. Aj keď sme predtým niektoré propriá
+neodporúčali prekladať, tu to znie funkčne a nenarúša to
+čitateľnosť textu. Problém však nastáva pri preklade názvov ulíc
+a štvrtí, podľa ktorých boli prístaviská a schody pomenované.
+Pretože ako ďalej spomenieme, Prístavisko Three Cranes je
+pomenované podľa ulice Three Cranes Lane, ktorej názov však už
+preložený nebol. Preto by sme odporúčali zvoliť jednu stratégiu
+pri preklade miest, ktoré sú pomenované podľa iných objektov
+a územných celkov v knihe.
+
+42
+
+5.
+
+Queenhithe
+
+Mestská štvrť, ale aj prístavisko. Tu je použitá transkripcia a
+prvýkrát sa s týmto ojkonymom v knihe stretávame v kontexte, že
+Joseph býva v hostinci pri Queenhithe. Tu je potrebné uviesť, či ide
+o prístavisko alebo mestskú štvrť. Keďže sa tu nachádza prepozícia
+pri, domnievame sa, že ide o prístavisko, kde sa hostinec nachádza.
+Na strane šesťdesiatštyri sa Queenhithe objavuje znovu a tu je už aj
+explikácia, že je to štvrť, samozrejme v inom kontexte a použitá je
+tu správne.
+
+6.
+
+Vintry Wharf
+
+Preložené ako prístavisko vo Vintry. Tu si môžeme všimnúť rozdiel
+v preklade prístavísk a aj celkovo viacerých proprií prvej
+prekladateľky
+
+a druhej.
+
+Prvá
+
+prekladateľka
+
+sa
+
+prikláňala
+
+k exotizácii, čo si môžeme všimnúť a povieme si pri analýze
+prístaviska Salt Wharf. Druhá prekladateľka mala tendenciu názvy
+naturalizovať a viac explikovať väčšinu proprií. S týmto prekladom
+si poradila určite lepšie: „Cez malé okno som videl prístavisko
+vo Vintry plné skladísk.“ (Sansom, 2022, s. 292)
+
+7.
+
+Salt Wharf
+
+V prvej časti knihy je toto prístavisko neprekladané a je použitá iba
+transkripcia z východiskového jazyka. V druhej časti sa druhá
+prekladateľka rozhodla toto miesto doslovne preložiť ako Soľné
+prístavisko. Tu však dochádza k nekonzistentnosti prekladu.
+
+4.2.1.3
+
+Oronymá
+
+K oronymám podľa Blichu patria názvy nesídelných objektov, hôr,
+pohorí, kopcov, skál, jaskýň, nížin, rovín, úbočí a iné, ako sme spomenuli
+v prvej kapitole v kategorizácii vlastných podstatných mien. My sa
+prevažne budeme venovať dvorom, nádvoriam a parkom.
+
+43
+
+1.
+
+New Palace Yard
+
+Toto nádvorie je v slovenskom preklade ponechané v origináli. Ide
+o nádvorie pri Westminsterskom paláci, ktoré je pre verejnosť
+neprístupné. Slovenský čitateľ, ktorý nevie po anglicky, si vie len
+ťažko pri pojme Yard predstaviť, o čo ide. Preto by sme odporúčali
+použiť stratégiu generalizácie, čo by sa priblížilo k naturalizácii
+a preklad
+
+by
+
+v kontexte
+
+znel:
+
+„Zastali
+
+sme
+
+na
+
+nádvorí
+
+Westministerského paláca, aby sme lapili dych.“ (Sansom, 2022,
+str.105)
+
+2.
+
+Coney Garth
+
+Pri tomto názve oblasti sa prekladateľky taktiež rozhodli použiť
+transkripciu. Neskôr je v knihe napísané, že sa tu nachádza aj sad,
+kde chlapec lovil zajace a našiel tam zvyšky Marchamountovho
+tela. Po rozsiahlejšom vyhľadávaní na internete, sme sa dozvedeli,
+že ide o časť vonkajších priestorov a záhrad v Lincolnovej súdnej
+akadémii.5 Tento úsek je zarastenejší a divokejší ako ostatné
+upravené časti záhrad. Používal sa na lov zajacov a práve preto má
+názov Coney Garth. Zastarane Coney po anglicky znamená králik,
+poprípade zajačina. Garth je ekvivalent pre trávnatú plochu alebo
+záhradu. Pokiaľ by sa prekladateľky priklonili k naturalizácii a túto
+plochu preložili, mohla by znieť ako Zajačí sad. Prekladateľky sa
+však vo väčšine prípadov rozhodli pre transkripciu s adíciou alebo
+explikáciou. Zajačí sad znie ľubozvučnejšie a kreatívnejšie, avšak
+musíme prihliadať na to, že také miesto ani v Londýne a ani
+v iných paralelných zdrojoch nenájdeme. Preto považujeme
+za správne ponechať slovo v origináli, aby sa dalo lepšie dohľadať
+na internete.
+
+3.
+
+Finsbury Green
+
+Z kontextu knihy sa dozvedáme, že sa tu nachádzali veterné mlyny
+a v názve je green, čo znamená zelená, zeleň alebo zatrávnená
+Preložené
+gardens/>.
+5
+
+z anglického
+
+originálu,
+
+dostupné
+
+na:
+
+44
+
+<https://www.lincolnsinn.org.uk/the-estate/our-
+
+plocha. To však čitateľ nemusí vedieť a môže si teda iba
+domyslieť, že ide o nejaký park alebo lúku. V dnešnej dobe toto
+miesto nájdeme len ako Finsbury Park. Kedysi však bolo súčasťou
+veľkého lesu Hornsey Wood, ktorý nasledovne začali Angličania
+vyrubovať. Neskôr sa na týchto vyrúbaných pahorkoch začali
+stavať hostince a čajovne, do ktorých si chodili ľudia oddýchnuť
+od ruchu veľkomiest (Hayes, 2001). V tej dobe by sme teda mohli
+toto miesto pomenovať Finsburská pahorkatina alebo lúka. Táto
+stratégia dáva možnosť čitateľovi si lepšie predstaviť výzor tohto
+miesta. Ďalšou možnosťou by bola explikácia: park Finsbury
+Green, čo by zas pomohlo čitateľovi si miesto dohľadať
+na internete a dozvedieť sa o ňom viac.
+
+4.
+
+Hampstead Heath
+
+Pri preklade tohto parku alebo nádvoria už ako pri jedinom
+oronyme explikáciu nájdeme: park Hampstead Heath. Tu ju však
+považujeme za nesprávnu, pretože slovo park v tomto prípade
+do histórie a výzoru tejto oblasti nezapadá. Heath po anglicky
+znamená vresovisko alebo planina. V knihe však toto miesto nehrá
+dôležitú úlohu preto, sa len pre čitateľovu lepšiu predstavu miesta
+prikláňame k prekladu a naturalizácii Hampsteadská planina, aj
+keď tendencia pri tejto kategórii proprií bola zväčša vlastné mená
+neprekladať.
+
+4.2.1.4
+
+Hodonymá
+
+Hodonymá sú v našom prípade názvy dopravných ciest čiže ulíc. Dajú sa
+považovať aj za chrématonymá. Preto ich zámerne uvádzame ako
+poslednú podkapitolu premosťujúcu k chrématonymám. V knihe nájdeme
+veľké množstvo ulíc. Pri všetkých uliciach prekladateľky použili
+stratégiu transkripcie do cieľového jazyka, čo považujeme za dobrú
+stratégiu a taktiež dodržujú pravidlá slovenskej prekladateľskej školy.
+Nájdeme tu však aj rozdiely medzi prekladom prvej časti a prekladom tej
+
+45
+
+druhej. Prvá prekladateľka ulice len transkribovala, zatiaľ čo druhá
+prekladateľka pri niektorých uliciach používala explikáciu, čo je ešte
+vhodnejšie.
+Problém nastáva pri uliciach, od ktorých sa odvodili názvy iných
+toponým, ako napríklad Three Cranes Lane. Tú si zanalyzujeme neskôr.
+Pri väčšine ulíc v anglickom názve nájdeme slovo street (Fleet Street,
+Little Britain Street, Blue Lion Street), row (Paternoster Row, Budge
+Row), lane (Lad Lane, Three Cranes Lane, Chancery Lane). Odporúčali
+by sme aspoň pri prvom výskyte názvu ulice explikovať, o aký typ
+propria ide, aby si čitateľ zvykol, že street, row a lane sú ulice.
+Nachádzajú sa tu však aj ulice, ktoré takéto bližšie určenie nemajú:
+Cheapside, Ludgate Hill, Shambles, Lothbury. V týchto prípadoch je
+určite potrebné použiť explikáciu, pretože tu nám nič neindikuje to, že
+ide o ulicu. Napríklad Hill je po anglicky kopec. V tomto prípade je to
+však ulica a je chyba, že pri takomto názve sa použila transkripcia.
+Ďalším problémom je nekonzistentnosť v preklade, pretože, ako sme už
+spomínali, stratégie oboch prekladateliek sa líšia. Ďalšou chybou je
+nepravidelné uvádzanie explikácie, pri niektorých uliciach, ako napríklad
+Fleet Street. Pri nej v prvej časti prekladu explikáciu nenájdeme, neskôr
+už áno.
+
+1.
+
+Three Cranes Lane
+
+Ulica Three Cranes Lane. Explikácia je tu použitá, samozrejme,
+správne, avšak problém nastáva v preklade tejto ulice. Three
+Cranes Wharf sme preložili ako Prístavisko troch žeriavov a ulicu,
+na ktorej boli žeriavy a podľa ktorej bolo prístavisko pomenované,
+sme nechali v origináli len s vysvetlením, že ide o ulicu. V tomto
+prípade by sa mali aj prístavisko, schodisko, aj ulica volať
+jednotne. Čiže buď pomenujeme prístavisko ako: Prístavisko Three
+Cranes a ulicu ponecháme v origináli tiež, alebo ulicu taktiež
+preložíme ako: Ulica troch žeriavov. Doteraz sa však ulice
+neprekladali a pre konzistentnosť v preklade, by bolo lepšie
+ponechať obidva názvy v origináli len s použitím explikácie.
+
+46
+
+Analýza prekladu toponým preukázala v mnohom paralely postupov využitých
+pri preklade antroponým a zooným. Prekladateľky pri prenose proprií zväčša
+používali transkripciu, ktorá pôsobí exotizačne. Jediným naturalizačným
+prvkom v preklade bola explikácia, ktorá je v týchto prípadoch prekladu veľmi
+funkčná, avšak pri viacerých toponymách absentovala. Ďalšou časťou štvrtej
+kapitoly je analýza prekladu chrématoným, kde nájdeme možno viac
+prekladateľských stratégií a nakoniec sa pozrieme aj na negatívne posuny
+v preklade.
+
+4.2.2
+
+Chrématonymá
+
+Chrématonymá definujeme ako vlastné mená objektov vytvorených ľudskou
+činnosťou. Na analýzu prekladu chrématoným používame model pohybujúci sa
+na osi exotizácia – naturalizácia, pričom sa zameriavame na rôzne
+prekladateľské metódy a postupy, ktoré sa pri preklade týchto mien uplatnili.
+V tejto časti práce analyzujeme vlastné mená inštitúcií, spoločenských javov a
+výsledkov spoločenskej činnosti. Každá hlavná skupina vlastných mien je
+ďalej rozdelená na konkrétnejšie podkategórie. Medzi chrématonymá
+zaraďujeme vlastné mená inštitúcií, ktoré sa v našom texte nachádzajú
+v početnom množstve, ďalej sú to vlastné mená spoločenských javov
+(akcionymá) a v neposlednom rade sú to aj vlastné mená výsledkov
+spoločenskej činnosti. V tejto kapitole sa budeme venovať najmä prekladu
+inštitúcií, udalostí, zákonov, expresívnych výrazov a prekladu fráz prebratých
+z latinčiny a francúzštiny.
+
+4.2.2.1 Preklad vlastných mien inštitúcií
+1.
+
+Guildhall
+
+Proprium Guildhall nie je ani v jednej časti preložené alebo
+explikované. Guildhall je občianska sála a budova súdu. Tu opäť
+pozorujeme potrebu explikácie.
+
+47
+
+2.
+
+Lincoln’s Inn
+
+V prvej časti prekladu je použitá transkripcia, čo je podľa nášho
+názoru nesprávne, pretože čitateľ nemá ako vedieť, čo je to
+za inštitúciu. V druhej časti prekladu je to však už preložené ako
+Lincolnova súdna akadémia, čo je určite lepšie riešenie, pretože
+tieto inštitúcie sú špecifické a nachádza sa v nich viacero budov,
+ktoré sa taktiež v knihe spomínajú. Je potrebné čitateľovi ukázať,
+že Inn je väčší komplex budov a preklad akadémia je efektívny.
+Innom sa neskôr budeme ešte venovať, pretože sú v knihe
+spomínané často.
+
+3.
+
+King’s Bench
+
+Preložené ako vrchný súdny dvor, Súd Kráľovej lavice. Tu si
+môžeme
+
+všimnúť
+
+chrématonyma
+
+stratégiu
+
+obohateného
+
+doslovného
+o explikáciu.
+
+prekladu
+King’s
+
+tohto
+
+Bench
+
+je
+
+najvyšším súdom v Anglicku podliehajúci kráľovi. V tomto prípade
+by sa dala použiť aj generalizácia: Najvyšší kráľovský súd.
+King’s Bench sa znovu nachádza aj na strane tridsaťšesť, kde
+už je preložený len ako Kráľova lavica bez explikácie. Na strane
+stodvadsaťjeden
+
+môžeme
+
+znovu
+
+vidieť
+
+toto
+
+pomenovanie
+
+najvyššieho súdu, ktorý už druhá prekladateľka preložila ako Súd
+kráľovskej, a nie kráľovej lavice. Nejde o veľký posun, avšak
+nastáva tu ďalšia zbytočná nekonzistentnosť v preklade, ktorej by
+sme sa mohli vyhnúť generalizáciou. V tomto prípade sa však
+prikláňame k adjektívu kráľovská lavica, pretože sa vzťahuje
+na jednu presnú lavicu. Privlastňovacie adjektívum kráľova nám
+môže označovať viacero lavíc, čo v tomto prípade nie je dobré
+riešenie.
+
+4.
+
+Newgate
+
+Do cieľového jazyka prenesená ako Väzenie Newgate, správne
+použitá explikácia.
+
+48
+
+5.
+
+Tyburn
+
+V origináli bolo spomenuté len miesto Tyburn, kde pošlú Elizabeth
+Wentworthovú za jej čin. Prekladateľka však tomuto miestu dala
+prívlastok popravisko Tyburn, čo je v tomto prípade veľmi správne
+a vhodné.
+
+Tyburn
+
+bolo
+
+kedysi
+
+jedno
+
+z najznámejších
+
+a najobávanejších miest v Londýne, kde sa vykonávali popravy
+obesením. (McKenzie, 2007)
+
+6.
+
+Mercer’s Hall
+
+Opäť sa tu stretávame s transkripciou a exotizačnou stratégiou
+prekladu propria. Avšak neskôr v knihe a pri ďalšej inštitúcii tohto
+typu sa môžeme stretnúť s ďalšou nekonzistentnosťou v preklade.
+Mercer’s Hall je budova, kde sídli jedna z najstarších a najväčších
+livrejských obchodných spoločností Londýna. Edwin Wentworth,
+otec Ralpha a Avice bol obchodníkom a významným funkcionárom
+tejto spoločnosti. Aby sme boli v preklade konzistentný, je
+potrebné si ustáliť prekladové stratégie v texte. Pokiaľ sa slovo
+joiner alebo mercer dá preložiť, určite je efektívne túto stratégiu
+doslovného prekladu alebo adaptácie použiť. Všetkých pôvodných
+dvanásť cechov v Londýne je založených na nejakom remesle,
+ktoré určite existuje aj u nás na Slovensku. Pre slovo mercer
+neexistuje presné povolanie, ako napríklad truhlár, stolár, sochár
+a podobne, avšak toto slovo môžeme preložiť ako obchodník.
+Preklad tejto inštitúcie pre jednotný preklad v celej knihe by teda
+mal znieť Sieň cechu kupcov/obchodníkov.
+
+7.
+
+Joiner’s Hall
+
+Tu si môžeme všimnúť ďalšiu odchýlku v preklade. Druhá
+prekladateľka túto inštitúciu preložila ako Sieň cechu truhlárov. Tu
+by sme sa pozastavili nad prekladom slova joiner, pretože definícia
+znamená: A worker, who makes the wooden structures inside
+buildings, such as doors or window frames. Čiže pracovník, ktorý
+vyrába drevené konštrukcie vo vnútri budov, ako sú dvere alebo
+
+49
+
+okenné rámy.6 V slovníku nájdeme stolára. Truhlár je v podstate
+stolár, ktorý vyrába truhly. Nevieme, prečo sa tu prekladateľka
+rozhodla pre cech truhlárov, pretože z logického hľadiska ich určite
+nemohlo byť toľko, aby založili vlastný cech, ktorý by navyše
+patril medzi spomínaných dvanásť najvýznamnejších a mali aj
+vlastnú Sieň. V tomto prípade by sme sa určite priklonili k slovu
+stolár, pretože celkovo remeslo ako také je stolárstvo, a nie
+truhlárstvo.
+Vyjadrenie prekladateľky: „Myslím, že takto to nebolo
+preložené v mojej časti prekladu, ten začína dvanástou kapitolou.
+Nenašla som to tam a ani v upravenej verzii Trstenskej, takže
+predpokladám, že chyba vznikla niekde počas korektúry/zalomenia
+textu.“ (Príloha 1, s. 2)
+
+8.
+
+Bedlam
+
+Miesto Bedlam je ponechané v origináli. V anglickom jazyku toto
+slovo označuje chaos alebo blázinec. Bedlam je taktiež aj názov
+psychiatrickej liečebne, o ktorú v tomto prípade ide, a nie každý
+čitateľ toto miesto pozná, aj keď je celkom známe, podobne ako
+Tyburn. Preto by sme znovu odporúčali použiť explikáciu
+a priblížiť toto miesto (kam chceli Elizabeth Wentworthovú poslať,
+ak by ju nepopravili) čitateľovi.
+
+9.
+
+Lincoln’s Inn Fields
+
+Polia Lincoln’s Inn Fields. Tu sa dostávame k problematiku Innov,
+pretože nejde tu ani tak o preklad polí, ktoré boli súčasťou tejto
+inštitúcie, ale o jej samotný preklad. Taktiež je v knihe uvedené:
+„Inn bolo napoly na vidieku“, z čoho čitateľ nemá ako vedieť, čo je
+Inn a kam právnikov kráľ vlastne vyhnal. Na strane tridsaťpäť sa
+taktiež opakuje slovo Inn: „Boli to synovia zo zámožných rodín,
+ktorí sa stali členmi Innov, aby si osvojili londýnske maniere
+a získali spoločenské kontakty.“ (Sansom, 2022, s. 35)
+
+6
+
+Dostupné na: <https://dictionary.cambridge.org/dictionary/english/joiner>.
+
+50
+
+Lincoln’s Inn je areál, kde sa združovali právnici, či už
+študenti alebo vyučení právnici. Čo znamená, že sa tu nachádzala
+škola a internáty. Druhá prekladateľka si s prekladom tejto
+inštitúcia poradila výborne a použila ekvivalent Lincolnova súdna
+akadémia. Slovo akadémia teda správne vystihuje túto inštitúciu.
+
+10.
+
+Old Bailey justice hall
+
+Súdna sieň v Old Bailey. Tu nastáva negatívny posun v preklade.
+Súdna budova alebo súd Old Bailey je pomenovaná podľa ulice,
+na ktorej sa nachádza. Old Bailey nie je štvrť, ani mesto. Preklad je
+tu zavádzajúci, pretože prepozícia v čitateľovi indikuje, že ide
+o mesto alebo štvrť, kde sa inštitúcia nachádza. Preklad by mal teda
+znieť: Súdna sieň na Old Bailey alebo Súdna sieň na ulici Old
+Bailey.
+
+11.
+
+College of Arms
+
+Heraldické kolégium. Tu si prekladateľka správne poradila
+s prekladom tejto inštitúcie. College of Arms a sa nazýva inak aj
+Heralds College. Skladá sa z trinástich funkcionárov alebo
+dôstojníkov, čo vlastne vytvára kolégium.
+
+12.
+
+Rolls House
+
+Rolls House alebo Building je súdny komplex budov, ktoré sa
+nachádzajú na Chancery Lane. Pokiaľ je táto inštitúcia spomenutá
+po prvýkrát, bolo by efektívne použiť explikáciu: „Je neďaleko
+v jednej so súdnych budov Rolls House.“ Neskôr môžeme túto
+inštitúciu nájsť preloženú ako Dom Zvitkov, čo však nepovažujeme
+za funkčný preklad, pretože nejde len o jeden dom, ale o komplex
+budov a taktiež je to proti pravidlám slovenskej prekladateľskej
+školy.
+
+13.
+
+Court of Chancery rolls
+
+Preložené ako Zvitky súdu najvyššieho kancelára. V kontexte
+týchto dvoch budov ide o to, že zvitky z tohto súdu sa uchovávali
+51
+
+v bývalom Domus Conversorum. Chancery znamená aj pracovňa
+kancelára, aj súd, čiže názov inštitúcie Court of Chancery ako „súd
+najvyššieho kancelára“ je preložený správne. Napríklad aj lord
+Cromwell sa staral o zvitky, z čoho vyplýva, že tam stále má
+pracovňu.
+Na strane dvestoštyridsať môžeme nájsť použité slovo
+Chancery v zmysle súdu ešte raz. Tu je však preložený o niečo
+inak, ako v prvej časti. Tu sa prekladateľka rozhodla použiť
+ekvivalent: Súd lorda kancelára. Na tomto mieste sa však musíme
+zamyslieť nad tým, že podľa všetkých informácií je kancelár
+v krajine len jeden, čiže vždy bude ten najvyšší kancelár. Preto Súd
+najvyššieho kancelára nie je podľa nás vhodný preklad. Nejde tu
+však o výrazný významový posun, chceme však poukázať
+na dôležitosť detailov pri preklade inštitúcií.
+
+14.
+
+Six Clerk’s Office
+
+Six
+
+Clerk’s
+
+Office,
+
+čiže
+
+Kancelária
+
+šiestich
+
+úradníkov.
+
+„Zabezpečovala chod súdu lorda kancelára.“ (Sansom, 2022, s.
+54) Zdá sa nám to ako neprirodzená konštrukcia, skôr by sme
+použili: „Spravovala súd najvyššieho kancelára,“ alebo „spadal
+pod ňu súd lorda kancelára.“
+Čo sa týka samotného názvu Six Clerk’s Office, preklad
+považujeme za správny. Na strane dvestoštyridsaťjeden sa však
+druhá prekladateľka rozhodla pre iný preklad, a to: Kancelária
+šiestych právnikov. Clerk v slovníku nájdeme ako úradník, a nie
+ako právnik. Preto sa skôr prikláňame k prekladu Kancelária
+šiestich úradníkov. Nenastáva tu však veľký významový posun,
+dôležitejšie je prekladať túto inštitúciu v celej knihe rovnako, aby
+sme čitateľa nezmiatli.
+
+15.
+
+Court of Augmentations
+
+Tu môžeme znovu pozorovať nekonzistentnosť v preklade. Ide
+o súd, ktorý mal na starosti spravovanie kláštorov a ich majetkov,
+ktoré boli skonfiškované a udelené do vlastníctva kráľovi. Založil
+52
+
+ho Thomas Cromwell počas vlády Henricha VIII. Tento súd
+rozoberá aj česká diplomová práca, kde je uvedené: „Court of
+Augmentations of the Revenues of the King’s Crown byl soudem
+přírůstkovým, čímž byly míněny přírůstky k důchodům koruny.
+Jurisdikce soudu byla věcně omezena a týkala se výlučně majetků
+církevních fundací, zejména klášterů, které byly zákonem
+parlamentu převedeny na krále.“ (Malý, 2019, str.10) To znamená,
+že preklad Prírastkový súd je správny.
+
+16.
+
+Parish of Allhallows the Less
+
+Farnosť Allhallows the Less. Bol to kedysi kostol, ktorý zhorel
+pri veľkom londýnskom požiari. Samozrejme, územie okolo bola
+fara alebo farnosť. V tomto prípade si myslíme, že explikácia, že
+osoby bývali vo farnosti v blízkosti tohto kostola, je funkčná
+a prekladateľka si poradila správne.
+
+17.
+
+TheHouse of Glass
+
+Opäť môžeme pozorovať rozdielnu stratégiu prekladateliek
+a nekonzistentnosť v preklade. V prvej časti je tento dom
+prekladaný pomocou antroponyma a prívlastku ako
+
+Dom
+
+Glassovcov. Druhá prekladateľka však zvolila doslovný preklad
+Sklenený dom. Ako prvá je potrebné pouvažovať nad pôvodom
+lady Honor, ktorá v tomto dome bývala. Nie sme si istí a v knihe to
+nie je taktiež spomenuté, či patrila do rodu Glassovcov, aj keď nám
+prepozícia of indikuje, že dom je niekomu privlastnený. Predpona
+of sa ale taktiež môže vzťahovať na sklo a to by znamenalo, že dom
+je celý zo skla, čo je však nemožné. V knihe nájdeme opis tohto
+domu, kde sa spomína, že je presklený, nie však, že je celý zo skla.
+Je ťažké nájsť ekvivalent pre toto chrématonymum, pretože podľa
+P. Odaloša patrí pod skupinu transpozičných literaroným, čo
+znamená, že je vymyslené autorom. Na preklad tohto domu sa
+prekladateľky opýtame, akú stratégiu a motiváciu pri preklade
+použila. Najneutrálnejšou možnosťou by bolo použiť transkripciu.
+
+53
+
+Vyjadrenie prekladateľky: „Rozhodla som sa ho preložiť ako
+Sklenený dom pre tento opis z dvadsiatej prvej kapitoly: „Pochopil
+som, prečo bol známy aj ako Sklenený dom. Celé priečelie
+pokrývali kosoštvorcové okenné tabule a v niektorých stredových
+tabuľkách bol vyobrazený erb rodiny Vaughanovcov.“ Rovnako sa
+v knihe nikde nespomínajú žiadni Glassovci, takže som usúdila, že
+sa názov odkazuje na vzhľad a v Angličtine sa názvy vždy píšu
+s veľkým začiatočným písmenom.“ (Príloha 1, s. 3)
+
+18.
+
+The four Inns of Court
+
+Tu sa nachádzame na rozhraní exotizácie a naturalizácie a preklad
+znie Štyri súdne Inny. Slovo Inn sme už analyzovali a taktiež je tu
+použité nesprávne. Ide o štyri súdne alebo právnické združenia,
+pod ktoré musel patriť každý právnik. Tieto Inny majú nad svojimi
+členmi dozorné a disciplinárne funkcie. V komplexe budov týchto
+združení sa nachádzajú auly, učebne, knižnice, stravovacie
+zariadenia a ubytovanie. Ku každému z nich je pripojený aj kostol
+alebo kaplnka a je samostatným obvodom, v ktorom sa advokáti
+tradične vzdelávajú a vykonávajú prax. Čiže znovu sa dostávame
+k slovu akadémia. Preto by aj preklad mal znieť Štyri súdne
+akadémie.
+
+19.
+
+Order of the Coif
+
+Použitý doslovný preklad: Rád čapice, rád seržantov. Coif je
+po anglicky čapica alebo čepiec, ale v slovenčine nám táto definícia
+veľa nenapovie, čo to bol za rád a akú mal funkciu. Ide o bielu
+čapicu, ktorá vyzerá ako biele vlasy a zakrýva celú hlavu. Rád
+seržantov nám však napovedá viac. Až na jednu chybu, rád je
+združenie ľudí spojené istými pravidlami a týka sa to náboženských
+záležitostí. Preto by sme neodporúčali slovo order prekladať ako
+rád, ale skôr ako spoločenstvo. Ide o spoločenstvo, do ktorého sú
+vybratí najlepší právnici zo štyroch Innov. Členovia získajú funkciu
+Serjeants-at-law. Umožňuje im to ako jediným zasadať v súde,
+ktorý rieši občianske spory, ktoré idú mimo kráľa. Je pomenované
+54
+
+podľa
+
+spomínanej
+
+čapice,
+
+ktorú
+
+úradníci
+
+musia
+
+nosiť.7Serjeant-at-law by sme mohli preložiť ako staršieho súdneho
+úradníka. Túto inštitúciu by sme teda mohli preložiť ako:
+Spoločenstvo
+
+čapice
+
+alebo
+
+Spoločenstvo
+
+starších
+
+súdnych
+
+úradníkov.
+
+20.
+
+Bishops Hat brothel at Banks End
+
+Druhá prekladateľka tu použila stratégiu doslovného prekladu,
+ktorý obohatila o explikáciu. Preklad znie: Nevestinec Biskupská
+mitra na ulici Bank End. Ako sme už spomínali, druhá
+prekladateľka, na rozdiel od prvej, oveľa častejšie používa
+explikáciu pri názvoch či už ulíc, štvrtí, budov alebo prístavov.
+Taktiež prekladá aj niektoré názvy hostincov, prístavov a aj tohto
+nevestinca. V rozhovore s ňou sa dozvieme, aký na to mala dôvod
+a prečo sa takto rozhodla. Tu sa domnievame, že tento názov
+preložila vďaka tomu, že sa v jeho názve nachádza akási irónia
+a výsmech náboženským stúpencom a funkcionárom. Stratégia
+doslovného prekladu je tu funkčná, avšak pravdepodobne
+pre čitateľa mätúca, pretože v prvej časti by sme takýto doslovný
+preklad určite nenašli. Dobre je tu však použitá explikácia, ktorá
+vysvetľuje, že Banks End je ulica.
+
+21.
+
+„St. Sepulchre was one of a number of street giving onto the
+
+wide open space of Smithfield.“ (Sansom, 2005, s. 166)
+„Ulica pri Kostole Božieho hrobu bola jednou z mnohých, ktoré
+ústili do otvoreného priestranstva trhu v Smithfielde.“ (Sansom,
+2022, s. 142) Tu sa prekladateľka rozhodla pre zaujímavú stratégiu,
+pretože názov St. Sepulchre je v origináli uvedený ako ulica.
+Rovnaké meno však nesie aj kostol, ktorý sa nachádza neďaleko.
+Tu sa nám vyskytujú viaceré možnosti, ako môžeme túto vetu
+preložiť. Prekladateľka sa odrážala od Church of The Holy
+Sepulchre, čiže Baziliky Svätého hrobu v Jeruzaleme, ktorá nesie
+
+7Preložené z anglického originálu, dostupné na: https://orderofthecoif.org/history
+
+55
+
+rovnaký názov ako kostol v Londýne. Jednou zo stratégií je vyhnúť
+sa prekladu názvu ulice a aj kostola: „Ulica St. Sepulchre bola
+jednou z mnohých...“
+Postup druhej prekladateľky je však taktiež správny, pretože
+túto ulicu sa na internete nikde nedá nájsť a nenachádza sa ani
+na mape v úvode knihy. Napriek tomu s istotou vieme, že takýto
+kostol existuje a ulica s podobným názvom môže byť iba v jeho
+blízkosti. Čo sa týka explikácie Smithfieldu, kde prekladateľka
+uviedla, že ide o trh, pre ktorý je táto štvrť známa. Je tu použitá
+veľmi dobre. Pretože Smithfield je londýnska štvrť, čo je veľmi
+široký pojem, kam ulice ústili.
+
+22.
+
+Pope’s Head tavern
+
+Použitá transkripcia s dodaním explikácie: hostinec Pope’s Head.
+Samozrejme, tu bolo potrebné preložiť slovo tavern, aby sa bližšie
+špecifikovalo miesto. Problémom však je, že v knihe nie je
+jednotné prekladanie
+
+jednotlivých
+
+hostincov, niektoré názvy
+
+preložené sú, niektoré nie. Taktiež ako pri Hostinci u Barbarského
+Turka a Nevestinci Biskupská Mitra môžeme toto zariadenie
+doslovne preložiť ako Hostinec pápežova hlava. Scelili by sme tak
+preklad.
+Vyjadrenie prekladateľky: „Opäť ide o chybu v neupravenom
+preklade. V mnou upravenej verzii prekladu Trstenskej je Pope’s
+Head Tavern preložené ako hostinec Pápežova hlava.“ (Príloha 1,
+s. 3)
+
+23.
+
+Tavern Barbary Turk
+
+Doslovný preklad Hostinec U barbarského Turka. Tu sa dostávame
+k stratégii
+
+prekladania
+
+miest
+
+s funkčnými
+
+prezývkami.
+
+Ide
+
+o hostinec, ktorý podľa názvu patril nejakému prisťahovanému
+Turkovi. V tomto prípade, keď môžeme rozlíšiť typ hostinca,
+budovy a podobne, si myslíme, že je preklad vhodný. Všímame si
+efektívne použitie predložky „u“, ktorá sa v cieľovej kultúre spája
+s názvami inštitúcií zameraných na poskytovanie pohostinských
+56
+
+služieb, čím napĺňa zaužívané predstavy prijímajúcej kultúry.
+Domnievame sa, že v prípade, že by prekladateľky predložku
+neumiestnili pred názov, bolo by pre čitateľa náročnejšie
+identifikovať, o aký druh zariadenia ide. Tu však nie je potrebné
+uvádzať aj predložku „u“ a zároveň aj hostinec, pretože to, že ide
+o krčmu, je uvedené v slove „hostinec“ alebo v predložke „u“.
+
+24.
+
+Vintry crane
+
+Vintryjský žeriav. Tu sa prekladateľka rozhodla použiť prívlastok
+pri doslovnom preklade žeriavu, ktorý sa nachádzal v mestskej
+štvrti Vintry. Otázkou však je, či je tento žeriav niečím špecifický
+alebo je to len jeden z mnohých žeriavov, ktoré sa tu nachádzajú.
+Jaroslav Krško tvrdí, že vlastné meno je „slovo alebo slovné
+spojenie, ktorého funkciou (na rozdiel od všeobecných podstatných
+mien)
+
+je
+
+objekt
+
+pomenovať,
+
+identifikovať
+
+a
+
+diferencovať
+
+od ostatných objektov.“ (Krško , 2014, s. 21) To znamená, že ide
+o konkrétny žeriav, ktorý má v texte istú funkciu a treba ho odlíšiť
+od ostatných.
+
+25.
+
+Privy Gallery
+
+Tu sa podľa nás prekladateľka nechala zhypnotizovať originálom
+a tento krát nesprávne použila stratégiu doslovného prekladu
+Súkromná galéria. Súkromných galérii v Londýne už veľa
+nenájdeme a väčšina sa časom otvorila verejnosti. Tu ide o kráľovu
+súkromnú galériu, ktorá sa nachádza v paláci menom Whitehall,
+kde sídlil aj Cromwell. Bolo by vhodné špecifikovať, že ide o túto
+určitú galériu, čím vymedzíme všetky ostatné súkromné galérie,
+ktoré sa v tom čase v Londýne nachádzali, a taktiež budeme vedieť,
+že sa nachádzame vo Whitehalle. Čiže odporúčali by sme galériu
+preložiť ako: Kráľova súkromná galéria.
+
+26.
+
+Pelican Warehouse
+
+Doslovne preložené ako Skladisko Pelikán. Tu je preklad použitý
+správne a prekladateľka sa dobre priklonila k naturalizácii, pretože
+57
+
+hneď na to, ako Shardlake spomenul toto skladisko, Barak sa ho
+spýtal, čo vlastne ten pelikán je. Neskoršia pasáž by nefungovala,
+pokiaľ by slovo Pelican preložené nebolo. Pretože Shardlake mu
+vysvetľuje, že to je vták z Indie, ktorý má na zobáku obrovský vak,
+do ktorého si ukrýva ryby. Tu je pravdepodobne názov skladiska
+Pelikán použitý ako metafora, pretože tam skrývali antagonisti
+temný oheň podobne, ako si pelikán podľa Shardlaka skrýva ryby
+v zobáku, ktorý museli pre lorda Cromwella Shardlake s Barakom
+nájsť. Takže tento postup naturalizácie považujeme za nevyhnutný
+a správny.
+
+27.
+
+Hampton Court
+
+Použitá
+
+explikácia
+
+ako
+
+Palác
+
+Hampton
+
+Court.
+
+Na strane
+
+štyristotridsaťsedem je palác spomenutý viackrát. V anglickej
+verzii vždy rovnako, v slovenskej nie. V prvom prípade je správne
+doložené, že ide o palác, a v druhom prípade je už Hampton Court
+nepreložený. Tento postup, ako sme už spomínali, považujeme
+za správny a nemusíme dvakrát vysvetľovať, o akú inštitúciu ide.
+
+4.2.2.2
+
+Preklad vlastných mien spoločenského javu
+
+Do tejto kategórie zaradíme preklad názvov udalostí, ktoré sa v knihe
+odohrávajú. Budeme analyzovať dve akcie, ktoré sú v dejovej línii
+spomenuté.
+
+1.
+
+May Day jousts
+
+V slovenských textoch ekvivalent pre túto udalosť nenájdeme,
+v knihe The Fall of Anny Boleyn sú však tieto zápasy spomenuté
+a druhá prekladateľka si s prekladom poradila výborne: Májový
+rytiersky turnaj. Domnievame sa, že túto udalosť preložila
+na základe obrazovej podobnosti a naturalizácia znie funkčne. 8
+
+8Dostupné na: https://www.theanneboleynfiles.com/1-may-1536-the-fateful-may-day-
+
+joust/?utm_content=cmp-true
+
+58
+
+Vyjadrenie prekladateľky: „Po hľadaní tohto termínu som sa
+rozhodla pre preklad opisom, keďže som ho v paralelných textoch
+neobjavila. Jousts boli rytierske súboje, a preto som sa rozhodla
+pre preklad opisom, pretože som usúdila, že to tak bude
+pre čitateľa jednoduchšie. Síce sa tento termín viaže na konkrétnu
+udalosť, ktorá sa spája s pádom Anny Boleynovej, no myslím, že
+táto informácia bola jasná z kontextu a opisným prekladom sa
+význam nestratil“. (Príloha 1, s. 3)
+
+2.
+
+Sugar Banquet
+
+To sa znovu stretávame s doslovným prekladom: Cukrový banket.
+Na Slovensku
+
+takýto
+
+banket
+
+nepoznáme
+
+a ani
+
+sa
+
+nikdy
+
+nepraktizoval. Je to banket, ktorý zvykla usporadúvať anglická
+šľachta, kde sa podávajú rôzne dezerty a pochutiny a popritom sa
+vedú rôzne konverzácie. Neskôr je v knihe aj opísané, ako tento
+banket prebieha. Cukrový banket tu pôsobí funkčne, avšak môže
+miasť čitateľa, pretože v cieľovej kultúre ho nepoznáme a možno
+lepšou možnosťou by bolo adaptovať sa našej kultúre a použiť
+omisiu, pričom by sme slovo cukrový vynechali.
+
+4.2.2.3
+
+Preklad vlastných mien výsledku spoločenskej činnosti
+
+V tejto kapitole budeme analyzovať preklad zákonov, latinských
+a francúzskych výrazov a expresívnych výrazov do cieľového jazyka.
+Ako sme uviedli v teoretickej časti, Blicha chrématonymá rozdelil
+na vlastné mená inštitúcií, vlastné mená spoločenského javu a vlastné
+mená
+
+výsledku
+
+na dokumentonymá,
+
+spoločenskej
+ideonymá,
+
+činnosti
+
+(tie
+
+unikátonymá,
+
+ďalej
+
+rozdelil
+
+porejonymá,
+
+pragmatonymá). Všetky tieto propriá vznikli výsledkom spoločenskej
+alebo ľudskej činnosti. Viac-menej sa týkajú výsledku ľudského
+myslenia a schopnosti pomenúvania. Je náročné a v niektorých prípadoch
+by mohlo byť aj nesprávne tieto výrazy deliť do podkategórií podľa
+Blichu, a preto sme sa rozhodli kapitolu zgeneralizovať.
+
+59
+
+1.
+
+Act of Six articles
+
+Zákon šiestich artikúl. V slovníku nájdeme, že artikula je zastarane
+odsek zákonného ustanovenia, čo v tomto prípade vyhovuje. Tento
+zákon sa týkal katolíckej viery a transsubstantácie, ktorá je neskôr
+v knihe spomenutá. Kacírstvo sa trestalo smrťou. Doslovný preklad
+a názov tohto zákona sú správne.
+
+2.
+
+Conveyance
+
+Na strane tridsaťdeväť Sharldlakov koncipient Skelly spomína
+zmluvu o prevode nehnuteľnosti. Slovo conveyance je najprv
+preložené ako zmluva o prevode nehnuteľnosti, neskôr preložené
+iba ako prevod majetku a do tretice preložené ako zmluva
+o prevode majetku. Všetko sú to synonymá, avšak znova tu nastáva
+problém nekonzistentnosti prekladu, ktorý ešte viac udiera do očí,
+keď sa to stane trikrát na jednej strane.
+Vyjadrenie
+
+prekladateľky:
+
+„Priznávam,
+
+že
+
+by
+
+bolo
+
+pre čitateľa asi jednoduchšie, keby bol tento termín preložený
+jednotne.“ (Príloha 1, s. 4)
+
+3.
+
+Peine forte et dure
+
+Prvýkrát spomenuté v slovenskej verzii na strane sedemnásť. Tu
+nastal posun v preklade. Za touto francúzskou vetou v origináli
+nasleduje „sharp and hard pains“, čo znamená ostrá bolesť,
+nevieme, či autor chcel túto vetu doslovne preložiť, pretože
+prívlastok ostrý vystihol, lenže francúzske peine neznamená
+anglicky pain čiže bolesť, ale trest. V slovenskom preklade však
+nájdeme slovné spojenie útrpné právo. Toto slovné spojenie je
+označenie pre „mučenie v rámci právne vymedzeného systému
+počas vyšetrovania a výsluchu. Existujú dôkazy, že tento nástroj
+výsluchu sa používal už v starovekom Egypte, najmä keď išlo
+o zločiny proti kráľovi alebo bohom. Donucovacie prostriedky
+vrátane bitia sa používali na získanie výpovede obvineného
+a v niektorých prípadoch aj svedkov. Mučenie bolo bežnou
+súčasťou vyšetrovania na svetských a
+60
+
+cirkevných súdoch
+
+v stredoveku a ranom novoveku, keď sa považovalo za legitímny
+spôsob, ako získať priznanie obvineného.“9 To znamená, že preklad
+v tomto prípade sedí, aj keď sa výrazne odkláňa od originálu. Táto
+fráza je spomenutá druhýkrát na strane tridsaťosem, kde Shardlake
+hovorí, že sa to týka trestného práva. Slovenský preklad je
+v podstate doslovným prekladom francúzskeho výrazu a myslíme
+si, že prekladateľka lepšie vystihla definíciu tohto termínu; pretože
+neskôr sa spomína ako ju budú mučiť, z čoho si čitateľ vie vyvodiť,
+že ide o ostrú bolesť, a teda nemusíme túto autorovu explikáciu
+prekladať.
+
+4.
+
+„Aureo hami piscari. To fish with a golden hook.“ (Sansom,
+
+2005, s. 78)
+„Chytať ryby na zlatý háčik.“ Toto motto reprezentuje chamtivosť
+za peniazmi, je podobné ako Auro quaeque ianus panditur (A
+golden key opens any door – zlatý kľúč všetky dvere otvorí).
+Neskôr však Shardlake povedal: „No one would fish here again.“
+Preložené to je ako Nikto tu už rybárčiť nebude. Rybárčenie
+môžeme pochopiť ako metaforu. Poprípade by sa to dalo preložiť
+jednoducho aj bez toho rybárčenia. Peniaze hýbu svetom
+a následne by mohol Shardlake povedať: „Tu sa už nič nepohne.“
+(Sansom, 2022, s. 70)
+
+5.
+
+Bonaventure
+
+Bonaventúra bol názov plavidla, ktoré priniesli na pokus s temným
+ohňom. Bon je po francúzsky dobrý a Aventure znamená
+dobrodružstvo, preto by sme neodporúčali názov Bonaventure
+prekladať
+
+ako
+
+Bonaventúra,
+
+ale
+
+ponechali
+
+ho
+
+v origináli
+
+a explikovali, že aventure je dobrodružstvo, aby nasledujúca veta:
+„She was to have an adventure.“ (Sansom, 2005, s. 115) – „Veru,
+čakalo ho dobrodružstvo,“ (Sansom, 2022, s. 101) dávala zmysel.
+Pretože názov plavidla metaforicky prial cestujúcim a námorníkom
+Preložené z českého originálu, dostupné na: <https://www.captour-paja.cz/l/pravo-utrpne-v-ceskemkrumlove/>.
+9
+
+61
+
+šťastnú cestu alebo dobrodružstvo, ktoré však potom plavidlo
+zažilo s temným ohňom a zhorelo na popol.
+
+6.
+
+„Augmentum auri“ (Sansom, 2005, s. 135)
+
+Prekladateľky sa tento výraz rozhodli nepreložiť ani nevysvetliť.
+V kontext ho nájdeme spomenuté vo vete: „Asi v tom nebude veľa
+augmentumauri“(v obhajovaní Elizabeth Wentworthovej)(Sansom,
+2022, s. 116). V žiadnom prípade nie je funkčné ponechať latinský
+výraz v cieľovom jazyku. Všetky použité latinské slovné spojenia,
+výrazy a vety majú zmysel. Správne je použiť slovenský
+ekvivalent, aj keď nie presný, pretože vždy sa dá tieto výrazy
+preložiť obrazne. Tu z kontextu vyplýva, že ide o finančné
+ohodnotenie Shardlaka za vyriešenie tohto prípadu. Pretože
+Shardlake odpovedá: „Nie, len malý poplatok.“ (Sansom, 2022, s.
+116) Čo tiež nie je správny preklad, pretože Shardlake nedostane
+poplatok, ale „výplatu“. Tomuto slovu sa môžeme pokojne vyhnúť
+a preložiť ako: „Správne, nedostanem za to veľa.“
+Hneď nato Shardlake Marchamountovi hovorí, že ho za ním
+priviedlo iné zabitie. Zabitie je síce ekvivalent k anglickému slovu
+killing, no však v takomto kontexte je neprirodzené ho prekladať
+doslovne. Opravili by sme: „Privádza ma za vami však iná vražda.“
+(Sansom, 2022, s. 116)
+
+7.
+
+Aqua vitae
+
+Aqua vitae, voda života. Každý erudovaný človek si vie toto
+latinské slovné spojenie preložiť. Avšak prekladateľka tu
+za latinským výrazom použila explikáciu a doslovne preložila
+latinský výraz. Pretože nie každý čitateľ ho pozná. Pre lepšiu
+predstavu, ide o archaický názov pre koncentrovaný vodný roztok
+etanolu. Používanie bolo rozšírené počas stredoveku a renesancie,
+hoci jeho pôvod je pravdepodobne oveľa starší. Tento latinský
+termín sa objavuje v širokej škále dialektických foriem vo všetkých
+krajinách a u všetkých národov, ktoré si podmanil staroveký Rím.
+Termín je všeobecným názvom pre všetky druhy destilátov a
+62
+
+nakoniec sa začal vzťahovať konkrétne na destiláty alkoholických
+nápojov (likéry). (Skully, 1995)
+Našli sme tu však menší významový posun. Nejde o vodu
+života, ale o živú vodu. Voda života evokuje a predstavíme si
+pod tým niečo, čo nám dodáva život alebo nás lieči. Samozrejme,
+alchymisti a lekári alkohol používali ako súčasť niektorých
+užitočných roztokov, ale tu si napriek tomu myslíme, že ekvivalent
+živá voda je presnejší a metaforicky nám presnejšie naznačuje, že
+voda je obohatená práve o ten etanol, ktorý nás robí živšími a
+„kope nás“, ako sme už predtým spomínali.
+
+8.
+
+„A pox on the constable.“ (Sansom, 2005, s. 79)
+
+„Parom ho hnal.“ (Sansom, 2022, s. 71) Myslíme si, že toto slovné
+spojenie a celá veta znie neprirodzene a zastarane. Samozrejme,
+na Slovensku je takýto výraz funkčný, pretože Parom alebo Perún
+je staroslovanský boh hromu a blesku. Taktiež je toto slovo
+expresívne používané ako metafora zlej, temnej entity. Dá sa však
+nájsť lepši ekvivalent pre vyjadrenie Barakových myšlienok,
+pretože tento boh alebo zlá entita sa nevyskytuje v anglosaskej
+kultúre. Barak tým chcel povedať, že ho dotyčný nezaujíma a ide
+hneď za earlom, čiže lordom Cromwellom. Doslovný preklad slova
+pox je syfilis alebo poprípade kiahne, ktorý v tej dobe nebol
+liečiteľný. Čiže táto veta chce povedať „aby ho porantalo“ alebo
+prenesene, že sa na neho „kašle“. Čo sa týka Baraka, v jeho prípade
+by sme to preložili ako: „Kašlať naňho.“
+Kniha
+
+je
+
+ponorená
+
+do
+
+historického
+
+špinavého
+
+a
+
+skorumpovaného Londýna. Sú tu opisy vrážd, krvavých tiel, špiny
+a podobne. Myslíme si, že slovník prekladateliek je na tento žáner
+priveľmi jemný. Uvedieme aj ďalšie slová a slovné spojenia, ktoré
+by mohli byť preložené expresívnejšie. Taktiež Barak je opísaný
+ako neotesaný mladík s nie veľmi dobrými spôsobmi, čiže
+nemyslíme si, žeby sa stránil povedať nejakú nadávku.
+Neskôr sa s týmto slovným spojením v slovenskom preklade
+stretávame na strane osemdesiatsedem, kde Shardlake nadáva
+63
+
+na situáciu a nahneval ho aj Barak, ktorý meškal. V origináli je
+napísané „A pox on it all,“ čo prekladateľka preložila „nech to
+schváti mor“. Znovu nám táto veta nepripadá prirodzená a nikdy
+sme nepočuli niekoho takéto slovné spojenie použiť. Matthew je
+však inteligentný človek so slušným správaním, čiže tu by sme to
+mohli zneutralizovať ako: „Do šľaka/pekla s tým.“
+
+9.
+
+„I wouldn’t want to tup her.“ (Sansom, 2005, s. 99)
+
+„Nechcel by som sa s ňou deliť o posteľ.“ (Sansom, 2022, s. 88)
+V kontexte sa protagonisti rozprávajú o tom, prečo je matka
+Gristwoodová oslovovaná matka, keďže nemá deti. Barak vraví, že
+sa nečuduje a nasleduje táto anglická veta, ktorá je podľa nás
+chybne preložená. Zdieľať s niekým posteľ znamená s niekým žiť,
+tvoriť pár. Tu skôr ide o reprodukčnú činnosť a Barak tým chcel
+povedať, že nikdy by sa takej ropuchy ani nedotkol. Myslíme si, že
+adekvátnejší preklad by bol: „Nikdy by som sa jej ani nedotkol.“
+
+10.
+
+„Nasty old stoat.“ (Sansom, 2005, s. 99)
+
+Preložené ako „Hnusná ropucha.“ (Sansom, 2022, s. 88) Čo sa týka
+prekladu
+
+slova
+
+stoat,
+
+prekladateľka
+
+si
+
+dobre
+
+poradila
+
+s expresívnejšie smerovaným prekladom a použila slovo ropucha.
+Stoat je po slovensky lasica, čiže doslovný preklad by v tomto
+prípade nefungoval a nastal by prípad výrazovej nivelizácie čiže
+ochudobňovania textu. Negatívnym posunom sa ešte budeme
+venovať neskôr v samostatnej kapitole. Prekladateľka tu však
+zabudla preložiť a doplniť slovo old. Podľa A. Popoviča je toto
+výrazové zoslabovanie, keď sa v preklade realizuje menej
+výrazových prostriedkov originálu. (Popovič, 1975)
+
+11.
+
+Sniffling old pen gent
+
+Obstarožný perohryz. Tu si prekladateľka poradila s prekladom
+výborne. Možno by bolo dobré preložiť aj slovo sniffling, ktoré by
+sme v tomto kontexte mohli preložiť ako usmrkaný. Perohryz
+
+64
+
+nájdeme aj v slovenskom slovníku ako úradníka, alebo pisára, hodí
+sa tu toto pejoratívne vyjadrenie na jeho adresu.
+
+12.
+
+Vagabond
+
+Vagabund. V kontexte išiel Barak prehľadať kôlňu, či sa tam
+nezabýval nejaký vagabund. V KSSJ je slovo vagabund vysvetlené
+ako tulák, vandrovník. Nám však evokuje skôr darebáka alebo
+výtržníka. Nenachádza sa tu posun v preklade, ale možno by bolo
+lepšie preložiť ako tulák alebo bezdomovec.
+
+13.
+
+Arseholes
+
+Trkvasi. Taktiež tu preklad nezodpovedá Barakovmu štýlu
+vyjadrovania. Slovo trkvas podľa KSSJ symbolizuje niekoho nie
+veľmi inteligentného, priam až sprostého. Určite sa to o bratoch
+nedá povedať, pretože jeden z nich bol právnik a druhý alchymista,
+čo neboli práve najľahšie povolania a vyžadovali si isté znalosti
+a inteligenciu. Preto by sme slovo arsehole v tomto prípade
+preložili ako smrad. Je to síce expresívnejšie, ale určite to viac
+zodpovedá Barakovej neohrabanosti.
+
+14.
+
+Whore
+
+Cundra. Tu už môžeme vidieť o niečo expresívnejší preklad. Vôbec
+by nevadilo, keby prekladateľka použila slovo kurva, pretože tu ide
+o silné emócie zo strany vdovy Gristwoodovej, ktorá Shardlakovi
+a Barakovi prezrádza, že jej zosnulý muž ju podvádzal s miestnou
+prostitútkou. Slovo cundra je však tiež správne a do kontextu
+zapadá.
+Celkové
+
+vyjadrenie
+
+prekladateľky
+
+k Barakovi
+
+a jeho
+
+expresívnym výrazom: „Toto je vždy zapeklitá téma, však? Ja som
+sa snažila, aby to nebolo príliš ani na jednu stranu. Nechcela som
+prílišnú expresivitu, ale zase ani úplne stlmiť tieto výrazy. Neviem,
+či sa mi to podarilo, ale ja si myslím, že to bolo primerané. Aj keď
+mám
+
+pocit,
+
+že
+
+v treťom
+
+diele
+
+expresívnejšia.“ (Príloha 1, s. 4)
+65
+
+som
+
+bola
+
+pri
+
+Barakovi
+
+15.
+
+Kick like a mule
+
+Nakopne ako mulica. Tu sa opäť stretávame s prípadom, keď sa
+druhá
+
+prekladateľka
+
+V slovenskom
+
+nechala
+
+zhypnotizovať
+
+originálom.
+
+takúto
+
+formuláciu
+
+a prirovnanie
+
+jazyku
+
+nepoužívame. Vôbec tu nie je potrebné doslovne prekladať
+a používať slovo mulica. Jednoducho stačí povedať, že to človeka
+poriadne kopne. V kontexte sa jedná o fľaštičku, ktorú naši dvaja
+hlavní hrdinovia našli v Sepultovej pracovni. Táto tekutina ich však
+nenakopla, pretože nakopnúť je v slovníku súčasného slovenského
+jazyka definované ako uviesť do pohybu alebo naštartovať 10(čo
+používame obrazne aj pri človeku, že ho niečo naštartuje). Obsah
+fľaštičky ich mohol maximálne kopnúť alebo im obrazne dať
+facku. To kick like a mule je v anglickom jazyku definované ako:
+„to have a very strong physical effect,“ čo v preklade znamená:
+„mať silný fyzický dopad na niečo alebo na niekoho.“11 Preto nás
+napríklad kope aj elektrina alebo dokonca aj silný alkohol (v tomto
+prípade neznáma tekutina).
+
+16.
+
+Rogerus
+
+„Rogerus. Naozaj trefné meno. To už sa rovno mohol volať Phalus!
+Ak viete, ako to myslím...“(Sansom, 2022, s. 222) Tu sa nachádza
+niekoľko adícií v preklade, pretože slovo Roger v hovorovej
+angličtine znamená pretiahnuť, súložiť. Toto
+
+prekladateľka
+
+vysvetlila aj v poznámke prekladateľa pod textom, čo je správne.
+Tu išlo o Erazma, ktorého Shardlake uznával, ten bažil po jednom
+mníchovi, ktorý sa volal Rogerus, čiže toto meno je akýsi
+dvojzmysel a má hlbší význam, ktorý treba vysvetliť, s čím si
+prekladateľka poradila dobre
+Aj ďalšie dve adície do prekladu sú hravé a skvele sa hodia
+do kontextu, aj keď by stačili prvé dve vety a poznámka
+10
+
+Dostupné na:
+<https://slovnik.juls.savba.sk/?w=nakopn%C3%BA%C5%A5&s=exact&c=Sf52&cs=&d=kssj4&d=psp&
+d=ogs&d=sssj&d=orter&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=bernolak&d=noundb&d=orient&d
+=locutio&d=obce&d=priezviska&d=un&d=pskfr&d=pskcs&d=psken#>.
+11
+Dostupné na:<https://www.yourdictionary.com/kick-like-a-mule>.
+
+66
+
+od prekladateľky, vyhrala sa s tým ešte viac a trefne jej napadlo
+meno Phalus, ktoré je odvodené od slova Falus, čo v medicíne
+a biológii znamená penis. Čo evokuje aj vojvodov postoj
+ku všetkým odporcom, pretože vojvoda bol pápeženec a Erazmus
+zastával o niečo iné myšlienky.
+
+17.
+
+Beldame
+
+Striga. Tento opis patril starej mame Wentworthovej. Ako z knihy
+vieme, bola slepá a jej zvráskavená tvár vyzerala hrozivo. Tu sa
+však, ako pri Barakovi, treba zamyslieť nad vyjadrovaním
+a vystupovaním určitých postáv. Lady Honor je vysoko postavená
+erudovaná žena. Preto si myslíme, že až takto expresívne by sa
+nevyjadrovala. Striga nie je až tak expresívne slovo, ale používal
+ho v preklade aj Barak. Avšak Barak a lady Honor nie sú
+z rovnakej vrstvy a taktiež majú odlišné správanie. Pri Barakovi
+sme odporúčali expresívnejší preklad, tu však by sme preklad
+o niečo zjemnili, napr: „Kto bolo to strašidlo?“
+
+18.
+
+Sinister-looking house
+
+Zlovestne vyzerajúci dom. Adjektívum zlovestný je v Krátkom
+slovníku slovenského jazyka definovaný ako oznamujúci alebo
+prinášajúci niečo zlé. 12 Zlovestný môže byť pohľad, predtucha, sen.
+Nemyslíme si, žeby nám dom dokázal oznámiť alebo priniesť niečo
+zlé. Dom môže byť strašidelný, hrozivý, možno pochmúrny. „Tu
+a tam žiarili v oknách svetlá sviečok, no dom Gristwoodovcov bol
+tmavý a v mesačnom svetle vyzeral zlovestne.“ (Sansom, 2022, s.
+313) Prekladateľka tým chcela asi povedať, že dom vyzeral tak,
+akoby sa v ňom mohlo stať niečo zlé, čo sa aj neskôr stalo, ale aj
+tak by sme v tomto prípade uprednostnili adjektívum hrozivý.
+
+12
+
+Dostupné
+na:<https://slovnik.juls.savba.sk/?w=zlovestn%C3%BD&s=exact&c=p2a7&cs=&d=kssj4&d=psp&d=ogs
+&d=sssj&d=orter&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=bernolak&d=noundb&d=orient&d=locuti
+o&d=obce&d=priezviska&d=un&d=pskfr&d=pskcs&d=psken#>.
+
+67
+
+Analýzou chrématoným uzatvárame praktickú časť diplomovej práce
+venovanú prekladu vlastných mien. Tie sme skúmali pomocou tradičnej
+analyticko-komparatívnej metódy. Rozdelili sme ich do kategórií, ako sú názvy
+parkov, štvrtí, prístavov, ulíc, inštitúcií, zákonov, udalostí a výrazov. Každá
+kategória zahrňuje doslovný preklad, transkripciu a ďalšie prekladateľské
+postupy ako explikácia, omisia, adícia alebo adaptácia. Pri každej skupine tiež
+zdôrazňujeme
+
+špecifické
+
+prípady,
+
+naturalizáciou a exotizáciou.
+
+68
+
+kde
+
+sa
+
+preklad
+
+pohybuje
+
+medzi
+
+5.
+
+NEGATÍVNE POSUNY A INÉ NEDOSTATKY V PREKLADE
+
+Pri preklade umeleckých textov a výrazov vo východiskovom jazyku je takmer
+nemožné nájsť ekvivalent. Preto nastávajú posuny v preklade. „Posun neznamená len
+nedostatočnú vernosť vzhľadom na originál. Keďže za nerovnakých podmienok
+literárnej hry v origináli aj v preklade (odlišnosti a rozdiely jazykové, literárne,
+kultúrne) nemôže dôjsť k priamej a bezprostrednej identifikácii dvoch kódov, preklad
+vzhľadom na originál sa musí posunúť. Znamená to, že sa niečo z textu realizuje a niečo
+pribúda. Pritom ide o to, aby sa to, čo sa z originálu v preklade stratilo, istým spôsobom
+v preklade aspoň čiastočne nahradilo“ (Popovič, 1975, s. 118).
+Popovič tvrdí, že negatívny posun v preklade nastáva, „keď prekladateľ
+nivelizuje výrazové vlastnosti originálu, ochudobňuje, zjednodušuje, splošťuje štýl
+originálu“ (Popovič, 1975, s. 123).
+Nie všetky prípady nižšie uvedených výrazov a viet sú príkladmi negatívneho
+posunu, a preto sme kapitolu taktiež generalizovali do širšieho výberu nedostatkov
+v preklade.
+
+1.
+
+Assize of Nuisance
+
+Prvá prekladateľka v tomto prípade výraz generalizovala ako sťažnosť, čo je dobrá
+stratégia,
+
+pretože
+
+v preklade
+
+to
+
+znamená
+
+prípad
+
+obťažovania,
+
+sťažnosť
+
+na obťažovanie, o čo v tomto prípade nejde.
+Na druhej strane je slovo assize spomenuté v kontexte: „The assize had
+ordered Bealknap to make proper provision...“ (Sansom, 2005, s.2) .Assizes boli
+súdy, ktoré fungovali v Anglicku a vo Walese a zanikli v roku 1972. Riešili vážne
+prípady (Phillips, 1960). Tu je slovo assize spomenuté s malým písmenom a
+preložené ako sudca, čo je chyba. Assizes malým iniciálnym písmenom je odvodené
+od francúzskeho slova s’asseoir, čo znamená posadiť sa. V tomto prípade ide teda
+o zasadnutie.
+
+2.
+
+Pressed
+
+Najprv preložené ako drviť/drvenie, neskôr už na strane dvadsaťtri preložené ako
+mliaždenie. Tieto slová sú synonymami a nepredstavujú významné posuny
+v preklade, ide len o konzistentnosť prekladu, ktorá sa takýmto spôsobomnarušuje.
+
+69
+
+Prikláňame sa k možnosti mliaždenie, ktoré túto činnosť viac vystihuje, a teda je
+potrebné prekladať v celej knihe slovo press v tomto kontexte ako mliaždenie.
+Na strane osemdesiatsedem je press preložené ako gniavenie. V kontexte to povedal
+Barak, o ktorom je známe, že nemal veľmi slušné správanie. Ak to prekladateľka
+myslela expresívnejšie a prispôsobila sa tak Barakovmu správaniu, súhlasíme.
+
+3.
+
+Master
+
+Toto oslovenie nachádzame v knihe často. Prvá časť knihy a prvá prekladateľka toto
+oslovenie preložila ako majster, v druhej časti už figuruje preklad pán. Ide
+o nekonzistentnosť v preklade, pretože význam oslovenia master sa nemení.
+Prikláňame sa k možnosti pán.
+
+4.
+
+„There is nothing under the moon that is not subject to change.“ (Sansom,
+
+2005, s. 22)
+Preložené ako: „Pod slnkom nie je nič, čoho sa nedotknú ruky zmeny.“ (Sansom,
+2022, s. 22) Tu si myslíme, že sa prvá prekladateľka nechala zhypnotizovať
+originálom, pretože preklad znie veľmi doslovne a neprirodzene. Takúto vetnú
+konštrukciu v slovenčine nepoužívame. Opravili by sme to ako: „Na svete nie je nič,
+čo by sa nemenilo,“ alebo jednoducho „Život je zmena.“
+
+5.
+
+„Her wits must be affected.“ (Sansom, 2005, s. 23)
+
+„Má zasiahnutú myseľ.“ (Sansom, 2022, s. 23) V tomto prípade taktiež
+prekladateľka nebola veľmi kreatívna a prekladala doslovne, na Slovensku určite
+nepovieme, že niekto má zasiahnutú myseľ, ale povieme, že sa jednoducho zbláznil.
+Alebo ďalšia možnosť je, keďže sa ďalej bavia o posadnutí, môžeme použiť: „Má
+zatemnenú/posadnutú myseľ.“
+
+6.
+
+„It is easy to cry possesion.“ (Sansom, 2005, s. 23)
+
+„Je jednoduché kričať posadnutie.“ (Sansom, 2014, s. 23) Táto vetná konštrukcia
+nedáva žiadny zmysel a prvá prekladateľka sa opäť nechala zhypnotizovať
+originálom. Shardlake v tej chvíli už tušil, že prípad bude zložitejší, ako si ostatní
+myslia, preto veril aj v jej nevinu. V tomto kontexte slovo kričať ani nariekať
+nefungujú. Myslíme si, že týmto chcel Guy povedať, že je jednoduché sa
+na posadnutie vyhovárať alebo všetko sa mu snažiť pripísať. Vetu by sme opravili
+70
+
+ako: „Je jednoduché to pripisovať posadnutiu,“ alebo „je jednoduché sa vyhovárať
+na posadnutie.“
+
+7.
+
+Coneycatcher
+
+Preložené ako nadháňač. Je to slangové slovo, ktoré symbolizuje zlodejov,
+podvodníkov. Nadháňač nie je veľmi známe slovo, ktoré v slovenskom jazyku
+nepatrí medzi slangové. V slovenčine toto slovo definujeme ako ten, kto nadháňa
+strelcovi zver. V prenesenom význame sa používa ako prisluhovač alebo
+dohadzovač. V tomto prípade by sme sa priklonili k expresívnejšiemu výrazu ako
+napríklad ošmekár alebo šmelinár.
+
+8.
+
+„I laughed lightly.“(Sansom, 2005, s. 37)
+
+„Pobavene som sa zasmial.“ (Sansom, 2022, s. 36) Dá sa pobavene zasmiať?
+Smejeme sa, keď sme pobavení, nie? V anglickom jazyku lightly znamená zľahka.
+Tu ide o posun a chybu v preklade. Právnici sa medzi sebou uctievajú a považujú za
+bratov, čo znamená, že ho nemohol veľmi vysmiať, lebo by to bolo veľmi neúctivé.
+Navrhovali by sme preklad: „Pousmial som sa,“ alebo „zľahka/jemne som sa
+zasmial.“
+
+9.
+
+Earl
+
+„We have the Bible in English and Cromwell’s just got an earldom.“ (Sansom,
+2005, s. 41) V slovenskom preklade je táto veta preložená ako: „Máme Bibliu
+v angličtine a Cromwell sa nedávno stal earlom.“ (Sansom, 2022, s. 39) Ďalšou
+chybou v konzistentnosti v preklade je to, že lorda Cromwella prvá prekladateľka
+oslovuje ako earl a druhá neskôr ako gróf. Tu sa prikláňame k slovenskému
+ekvivalentu a naturalizácii.
+
+10.
+
+„He has farm in Lichfield, in the Midlands.“ (Sansom, 2005, s. 101)
+
+„Má hospodárstvo v Lichfielde, v Midlands.“ (Sansom, 2022, s. 89) Farm by sme
+skôr preložili ako statky, farmu. Poľnohospodárstvo je v slovníku uvedené ako
+gazdovstvo, čiže nejaké miesto, kde prebieha hospodárska činnosť. Taktiež
+v slovenčine nepoužívame hospodárstvo v spojení, že niekto má pozemok, kde
+farmárči a chová zvieratá. Taktiež by bolo dobré explikovať, že Lichfield je mesto
+
+71
+
+v Midlands, čo je centrálny región Anglicka. Pretože doteraz sa väčšina názvov
+spájala s Londýnom a boli to jeho štvrte a časti. Tu však ide o inú časť krajiny.
+
+11.
+
+„By Jesu.“ (Sansom, 2005, s. 104)
+
+V cieľovom jazyku nájdeme slovné spojenie ako: „Pri Kristovi.“ (Sansom, 2022,
+s. 91) V knihe sa nachádza veľa formulácií a expresívnych výrazov spojených
+s Kristom, čo sa však zdá byť kontraproduktívne, pretože drvivá väčšina postáv je
+silnými kresťanmi a pokiaľ vieme, meno Božie sa do úst neberie. Túto vetu však
+vyslovil Barak, o ktorom sa nevie, aké má náboženské vyznanie. Čo sa týka
+prekladu, v slovenčine nepoužívame slovné spojenie pri Kristovi.
+Aj keď tu nenastáva žiadny významový posun a tieto formulácie dej
+neposúvajú, navrhovali by sme vetu preformulovať: „Pre Kristove rany, to je ale
+divné čítanie.“
+
+12.
+
+„The precepts of Hermes Trismegistus.“ (Sansom, 2005, s. 110)
+
+„S trojkráľom Hermesom Trismegistosom.“ (Sansom, 2022, s. 97) Precepts
+znamenajú zásady alebo princípy, čo je potrebné uviesť v preklade, pretože ako boh
+vedy a mágie, spísal pravidlá a učenia pre svojich nasledovateľov.
+Taktiež trojkráľ je zlý preklad. Volali ho trikrát veľký alebo trikrát mocný,
+a nie trojkráľ (Budge, 1969). Kráľ je vodcom a hlavou krajiny alebo územia. Nemôže
+byť niekto kráľom mágie alebo vedy, a to ani v prenesenom zmysle. Posledná
+alternatíva nadväzuje na vetu v texte Smaragdovej dosky, ktorá vraví, že pozná tri
+časti
+
+poznania
+
+celého
+
+vesmíru.
+
+Tri
+
+časti
+
+poznania
+
+sú alchýmia, astrológia a teurgia. Poimandrés, z ktorého vychádzal Marsilo Ficino,
+vraví že „ho volali Trismegistos, pretože bol najväčším filozofom, najväčším kňazom
+a
+
+najväčším
+
+kráľom.“
+
+Ďalšie
+
+v Sude, byzantskej encyklopédii Stredomoria z
+
+vysvetlenie
+
+sa
+
+10.
+
+kde
+
+storočia,
+
+nachádza
+sa
+
+uvádza,
+
+že „volali ho Trismegistos kvôli jeho zbožnosti k trojici, pretože tvrdí, že v trojici je
+jediná božská prirodzenosť.“ (Copenhaver, 1995)
+
+13.
+
+Two feet, Thirty foot
+
+Najskôr uvedené ako Dve stopy, tridsať stôp. Prvá prekladateľka neprekladala
+anglické miery do metrického systému a ponechávala ich v origináli, v druhej časti
+prekladu a druhá prekladateľka však už tieto miery prenášala do metrickej sústavy.
+72
+
+Veľká chyba a nekonzistentnosť v preklade. Samozrejme, prenesenie týchto dĺžok
+a všetkých mier, ktorých ďalšie príklady ešte neskôr uvedieme, považujeme
+za správne a nevyhnutné.
+Na strane tristosedemdesiatosem už nájdeme správne preložené a prenesené
+stopy na metre. „Studňa bola plytšia, ako som očakával, nemala viac ako šesť
+metrov.“ (Sansom, 2022, s. 378) Čiže v origináli dvadsať stôp.
+
+14.
+
+„Ay, this is wherethe civil court sit.“ (Sansom, 2005, s. 121)
+
+„Hej, tu sedí občiansky súd.“ (Sansom, 2022, s. 105) V tomto prípade môžeme
+znovu pozorovať hypnózu originálom. Ide o neprirodzenú konštrukciu, pretože
+občiansky súd nesedí. Súd môže v nejakej budove sídliť alebo v nej môžu zasadať
+jeho členovia. Poprípade môžeme členov generalizovať do celku ako je občiansky
+súd. Určite by sme slovo sit prekladali v tomto prípade ako zasadať alebo sídliť.
+
+15.
+
+Formula
+
+Tu si taktiež môžeme všimnúť rozdiely v preklade v prvej a druhej časti. Keď sa
+ktokoľvek vo východiskovom texte zmienil o gréckom ohni a o tom, ako sa vyrába,
+zaznelo slovo formula. Slovo je v prvej časti preložené ako vzorec a v druhej ako
+recept. Ktorý preklad je vhodnejší? Slovo vzorec má v synonymickom slovníku
+uvedené synonymá ako obrazec: „plošné tematické znázornenie niečoho“ alebo
+schéma13. Slovo vzorec evokuje vzťah čísel alebo chemických látok potrebných
+na vypočítanie istej napríklad rovnice alebo na výrobu, alebo vznik inej zložitej
+chemickej látky alebo reťazca. Na tomto papieri sa určite niečo podobné
+nevyskytuje, prihliadajúc na dobu, keď temný oheň objavili. Skôr sa tam nachádzajú
+ingrediencie a látky potrebné na výrobu. Preto je slovo recept vhodnejšie.
+
+16.
+
+„That knave would have had my brains out.“ (Sansom, 2005, s. 223)
+
+„Ten darebák by mi vybil mozog.“ (Sansom, 2022, s. 185) Tu sa chceme pozastaviť
+nad slovným spojením vybiť mozog, pretože nám táto konštrukcia nepripadá veľmi
+prirodzená a v slovenčine nepoužívame, že niekto nám chce mozog vybiť. Môžeme
+túto situáciu zneutralizovať, že by ho zabil alebo, keď by sme to chceli povedať
+13Dostupné na:
+
+https://slovnik.juls.savba.sk/?w=vzorec&s=exact&c=Nf73&cs=&d=kssj4&d=psp&d=ogs&d=sssj&d=orter
+&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=bernolak&d=noundb&d=orient&d=locutio&d=obce&d=priez
+viska&d=un&d=pskfr&d=pskcs&d=psken#
+
+73
+
+expresívnejšie, mohlo by to znieť: „Ten darebák by mi urobil z mozgu kašu.“ Keď
+prihliadame na to, že vetu vyslovil Barak.
+
+17.
+
+„Barak and I supped early at Chancery Lane.“ (Sansom, 2005, s.225)
+
+„S Barakom sme mali na Chancery Lane skorú večeru.“ (Sansom, 2022, s. 187) Táto
+veta neobsahuje žiadnu syntaktickú alebo prekladateľskú chybu, alepokiaľ sa dá
+vyhnúť exotizácii a transkripcii vlastných mien, odporúčali by sme tak urobiť. Keď
+prihliadneme na to, že ich v texte nájdeme veľa. V tomto prípade by sme mohli
+Chancery Lane vynechať, pretože už vieme, kde Shardlake býva a aj z kontextu
+vyplýva, že večerali u neho, pretože večeru im chystala jeho gazdiná. „S Barakom
+sme mali u mňa skorú večeru.“
+
+18.
+
+„I should have got the servants to watch his glass.“ (Sansom, 2005, s.269)
+
+„Mala som služobníctvu nakázať, aby mu nenalievalo.“ (Sansom, 2022, s. 224) Tu
+nastáva menšia logická chyba v preklade. Reč je o vojvodovi z Norfolku, ktorý sa
+na cukrovom bankete lady Honor opil. Na tom bankete nikto vyššieho postavenia
+ako vojvoda nebol a myslíme si, že nikto by mu nemohol odporovať a povedať nie,
+keby si vypýtal ďalší pohár vína. Lady Honor, ako skúsená hostiteľka, by si
+nedovolila odporovať niekomu takého vysokého postavenia, pretože aj ona sama
+túžila po sláve jej rodu a vysokých priečkach v spoločnosti. Preto by sme skôr vetu
+preložili ako: „Mala som sluhom povedať, aby mu nalievali pomenej/Mala som
+sluhom povedať, aby ustrážili, koľko toho vypije.“
+
+19.
+
+„Flaunting his mistress.“ (Sansom, 2005, s. 274)
+
+„Predvádza svoju milenku.“ (Sansom, 2022, s. 228) V kontexte sa vojvodova žena
+sťažovala, že vojvoda pred ňou predvádza svoju milenku. Definíciu slovesa
+predvádzať v KSSJ nájdeme ako: „mocou priviesť pred niekoho alebo názorne
+ukázať.“ Ani jedna z týchto definícií nie je pravdepodobná, pretože pochybujeme,
+žeby si niekto vodil milenku domov a ukazoval ju svojej manželke. On sa s ňou
+pred svojou manželkou chváli, chvastá. Nejaví sa nám to ako prirodzená konštrukcia
+a určite by sme vetu opravili na: „Počuli ste o tom, ako sa vojvodova manželka
+sťažovala, že sa pred ňou chváli svojou milenkou, a vojvoda nariadil služobníctvu,
+aby si na ňu sadlo, kým nestíchne?“
+
+74
+
+20.
+
+Na strane dvestopäťdesiatšesť môžeme vidieť hypnózu originálom a chybu
+
+v preklade.
+V kontexte šiel Barak prvýkrát preskúmať dno studne na záhrade Wentworthovcov.
+Tu sa ho Shardlake spýtal: „Are you all right?“ A on odpovedal „Ay,“ čiže áno, som
+v poriadku. (Sansom, 2005, s. 311) V preklade si však môžeme všimnúť, že Barak
+na túto otázku odpovedal celkom zvláštne. „Nič vám nie je?“ A odpoveď znela:
+„Áno.“ (Sansom, 2022, s. 256) Naskytuje sa tu viacero možností, ako by sme toto
+nedorozumenie medzi dvoma protagonistami alebo skôr medzi východiskovým
+a cieľovým textom mohli opraviť. Buď by Barak odpovedal: „Nie“ alebo lepšia
+možnosť by bola prvú otázku zmeniť na: „Ste v poriadku?“
+
+21.
+
+„Surely you dont prefer the comes of ladies over manly sport, Brother
+
+Shardlake?“ (Sansom, 2005, s. 367)
+„Určite nedávate prednosť dámskej spoločnosti pred mužskými športmi, brat
+Shardlake?“ (Sansom, 2022, s. 301) Ide tu o medvedie zápasy, kde v aréne besné
+psy roztrhajú starého a slabého medveďa. Lady Honor a Shardlake však takejto
+zábave neholdujú, a preto sa rozhodli vynechať toto predstavenie a radšej sa prejsť
+a porozprávať popri brehu Temže. Marchamount teda Shardlakovi položil túto
+otázku. Preklad nám pripadá nejasný a otázka viac-menej nepodstatná, pretože
+z kontextu je jasné, že sa Shardlake rozhodol pre dámsku spoločnosť, a nie
+pre zápasy. Čiže určite dáva prednosť Lady Honor a otázka je tým pádom zbytočná.
+Myslíme si, že Marchamount sa skôr Shardlaka chcel spýtať, či to myslí
+vážne, či si je týmto rozhodnutím istý a nechce ho prehodnotiť. Navyše toto
+predstavenie ani nemôžeme nazvať športom, pretože šport vykonávajú ľudské
+bytosti, pri ktorom súťažia medzi sebou. Tu sa však ľudia len pozerajú, možno
+poprípade stávkujú, čo nám skôr evokuje mužskú „zábavku“. Preto by podľa nás
+otázka mala znieť takto: „Ste si istý, že chcete dať prednosť dámskej spoločnosti
+pred mužskou zábavou, brat Shardlake?“
+
+22.
+
+„They swim in its filthy waters, hidden by its blackness.“ (Sansom, 2005,
+
+s. 444)
+„Plávajú v jej špinavých vodách a skrývajú sa v temnote.“ (Sansom, 2022, s. 366)
+Tu Barak hovorí o dvoch úhlavných nepriateľoch Tokym a Wrightovi, ktorí sa snažia
+našich protagonistov zastaviť a zabiť. V predošlej vete Barak hovorí, že ešte nevidel
+75
+
+prefíkanejších zlodejov, ktoríby robili úskoky po meste takto dobre. Nasleduje táto
+veta, kde sa its vzťahuje na mesto. Myslel tým, že metaforicky plávali v špinavých
+vodách mesta a skrývali sa v jeho temnote. Vzťažné zámeno jej je v tomto prípade
+veľmi nejasné, na čo sa vlastne vzťahuje. Možno na rieku a jej špinavé vody, ale oni
+reálne v Temži neplávali a taktiež tu táto rieka nie je nikde v kontexte spomenutá.
+Preto navrhujeme vetu opraviť nasledovne: „Plávajú v špinavých mestských vodách
+a skrývajú sa v jeho temnote.“
+
+23.
+
+„But it has defeated me.“ (Sansom, 2005, s. 480)
+
+„Porazil ma.“ (Sansom, 2022, s. 395) V tejto pasáži Guy rozpráva o temnom ohni.
+Snažil sa zistiť, z čoho je vyrobený, ale nedokázal to. Takýto oheň, samozrejme,
+môže niekoho poraziť, ale v tomto kontexte sa znovu stretávame s hypnózou
+originálom. Oheň Guya neporazil, on iba nemal dostatočné znalosti a schopnosti, aby
+zistil, z čoho sa skladá. Túto vetu by bolo prirodzenejšie preložiť ako: „Bol nad moje
+sily/vedomosti.“
+
+24.
+
+„Magistrate“ (Sansom, 2005, s. 548)
+
+Zmierovací sudca/Prísažný sudca. Slovo magistrate sa na strane štyristopäťdesiat
+v slovenskom preklade vyskytuje dvakrát. Avšak jeho preklady sú v oboch prípadoch
+rôzne. Najprv prekladateľka použila ekvivalent zmierovací sudca a o dva odseky
+neskôr ho nazvala prísažným sudcom. Preklad podľa nás ovplyvnilo aj prísažné
+vyhlásenie, ktoré mali spísať. Možno preto sa prekladateľka nechala nalákať do tejto
+pasce. Čo sa týka slovníkov a paralelných zdrojov, magistrate môžeme nájsť len ako
+zmierovací sudca. Preto by sme sa priklonili k prvej verzii alebo prvému ekvivalentu,
+ktorý bol v knihe použitý. (Sansom, 2022, s. 450)
+V knihe sa nachádzajú aj syntaktické chyby, ktoré mohol vyriešiť aj editor.
+Našli sme tu dva prípady zlého slovosledu alebo úplne chybnej konštrukcie
+podraďovacieho súvetia.
+
+25.
+
+„On the far side of the cathedral Cranmer’s voice could be heard still raising
+
+and falling, a distant noise.“ (Sansom, 2005, s. 506)
+Na strane štyristošestnásť si môžeme povšimnúť zlý slovosled vety: „Na druhom
+konci katedrály sa ozýval ako vzdialený hluk, Cranmerov stúpajúci a klesajúci
+hlas.“(Sansom, 2022, s. 416) Takáto konštrukcia a syntax znie veľmi neprirodzene.
+76
+
+Samozrejme, slovenčina je flexibilný jazyk na rozdiel od angličtiny, kde je pevná
+väzba poradia vetných členov. V slovenskom jazyku sa poradie vetných členov môže
+vo vete meniť. Avšak v tomto prípade by sme odporúčali z podraďovacieho súvetia
+spraviť jednu vetu: „Cranmerov stúpajúci a klesajúci hlas sa na druhom konci
+katedrály ozýval ako vzdialený hluk.“
+Na prelome strán štyristopäťdesiatdva a štyristopäťdesiattri nájdeme chybnú
+vetu, v ktorej je nesprávny slovosled. Pôvodná veta znie: Keď som po ho ňom čítal.
+Čo je očividne veľmi zlý slovosled. Vetu by sme, samozrejme, opravili: Keď som ho
+po ňom čítal.
+Vyjadrenie prekladateľky:
+
+„Súhlasím. Pozerala som
+
+redigovaný text
+
+a redaktorka si to naozaj nevšimla. Preklad som predtým, ako som ho poslala, čítala
+viackrát, ale neuvedomila som si túto syntaktickú chybu. V redigovanom texte som
+pozerala len zásahy redaktorky.“ (Príloha 1, s. 4)
+Na tak veľmi terminologicky nasýtenú knihu a ťažké syntaktické formulácie
+v knihe si myslíme, že si prekladateľky viedli dobre. Chýbalo nám o pár explikácií
+navyše. Čo sa týka negatívnych posunov a ďalších nedostatkov v preklade, ako je
+nekonzistentnosť, hypnóza originálom alebo syntaktické chyby vo vete, je to aj práca
+editora a korektora, aby si niečo také všimli a upozornili na to prekladateľa. My teraz
+v rozhovore zistíme viac o procese vznikania prekladu tejto knihy a taktiež o práci
+prekladateľky, korektorov a editorov. Rozlúštime niektoré náročné prípady a problémy
+pri preklade konkrétnych proprií a dozvieme sa aj, kde nastala chyba pri vydaní knihy.
+
+77
+
+ZÁVER
+Naša diplomová práca sa zameriavala na problematiku prekladu vlastných podstatných
+mien v umeleckej literatúre, konkrétne v historicko-detektívnom románe Temný oheň
+od C. J. Sansoma. Hlavným cieľom bolo analyzovať prekladateľské postupy a stratégie
+pri preklade proprií, identifikovať negatívne posuny v preklade a navrhnúť možné
+alternatívy na ich zlepšenie.
+Diplomová práca je rozdelená do piatich hlavných kapitol. Prvá kapitola sa
+zameriava na teóriu onomastiky, kde definujeme základné pojmy a oblasti skúmania
+tejto
+
+vednej
+
+disciplíny.
+
+Predstavujeme
+
+literárnu
+
+onomastiku
+
+a
+
+jej
+
+význam
+
+v prekladateľskej praxi.
+Druhá kapitola, metodika výskumu, poskytuje prehľad o použitých metódach a
+postupoch pri analýze vlastných podstatných mien. Opisujeme, ako sme identifikovali a
+kategorizovali vlastné mená v originálnom texte a ich preklady v cieľovom jazyku.
+Tretia kapitola predstavuje autora knihy, prekladateľky a samotný dej knihy.
+Poskytuje kontext potrebný na lepšie pochopenie prekladateľských výziev, ktoré súvisia
+s historicko-detektívnym žánrom.
+Štvrtá kapitola je hlavnou časťou práce, kde detailne analyzujeme preklad
+vlastných podstatných mien. Rozdeľujeme ich na bionymá a abionymá a skúmame ich
+prekladové riešenia vo východiskovom aj cieľovom jazyku. Identifikujeme stratégie a
+metódy, ktoré prekladateľky použili pri svojej práci.
+Piata kapitola sa venuje negatívnym posunom v preklade, kde poukazujeme
+na chyby a nepresnosti, ktoré sa vyskytli. Poskytujeme návrhy na možné opravy a
+alternatívne prekladové riešenia, ktoré by zlepšili celkový dojem z prekladu.
+Na základe našej analýzy sme dospeli k záveru, že preklad vlastných
+podstatných mien v historicko-detektívnych románoch predstavuje komplexnú a
+náročnú úlohu, ktorá si vyžaduje dôkladné zváženie lingvistických, kultúrnych a
+historických faktorov. Prekladatelia musia nájsť rovnováhu medzi vernosťou originálu a
+čitateľnosťou pre cieľové publikum, čo často vedie k využitiu rôznych prekladateľských
+stratégií.
+Ako
+
+prvé
+
+sme
+
+analyzovali
+
+bionymá,
+
+ktoré
+
+sme
+
+následne
+
+rozdelili
+
+na antroponymá a zoonymá. Čo sa týka antroponým, v tejto časti sme sa venovali
+menám rodov, krstným menám postáv a priezviskám.
+
+78
+
+Analýza každej kategórie podliehala aj uplatneniu naturalizačných alebo
+exotizačných tendencií. Vo všeobecnosti môžeme konštatovať, že naturalizácia sa
+výrazne prejavila pri vkladaní kolektívnej prípony -ovci, čím sa vytvorili rodové mená
+(priezviská). Uplatnenie naturalizácie sme sledovali tiež pri ženských priezviskách
+v podobe prechyľovacej prípony –ová. Naturalizačná tendencia preukázala zohľadnenie
+konvencií cieľovej kultúry a špecifík cieľového jazyka pri preklade. Na druhej strane sa
+exotizačné tendencie prejavovali predovšetkým využitím transkripcie, ktorá v porovnaní
+s naturalizáciu tvorila väčšiu skupinu, najmä pri preklade krstných mien postáv. Všetky
+krstné mená a mužské priezviská boli do cieľového textu prenesené pomocou
+transkripcie, čo považujeme za dobrú stratégiu. Exotizácia sa prejavila v ponechaní
+zdvojených spoluhlások ako napríklad ll. Zoonymá boli taktiež prenesené transkripciou,
+čo je, samozrejme, exotizačné smerovanie prekladu.
+Pri preklade toponým, kde sme analyzovali preklad ulíc, mostov, nádvorí,
+parkov, prístavísk a schodísk, sme si mohli všimnúť rozdielne stratégie dvoch
+prekladateliek. Zatiaľ čo v prvej časti knihy sme mohli vidieť prevažne transkripciu,
+v tej druhej sme už našli použitých viacero stratégií. Druhá prekladateľka síce taktiež
+využívala transkripciu, avšak doplnenú o explikáciu, čo si myslíme, že je správne
+riešenie pri niektorých propriách, ktoré nemajú slovenský ekvivalent alebo sa nedajú
+preložiť. Tento postup sme našli väčšinou pri názve ulíc, parkov a sčasti aj
+pri prístaviskách a schodiskách. Avšak druhá prekladateľka sa v niektorých prípadoch
+rozhodla aj pre doslovný preklad, a to napríklad pri prístavisku Salt Wharf alebo
+pri Schodoch v Prístavisku troch žeriavov. Čo sa týka doslovného prekladu, viac sa ho
+nachádza pri preklade chrématoným, ktorých analýzu zhrnieme v ďalšom odseku.
+Chrématonymá, ako vlastné mená objektov vytvorených ľudskou činnosťou,
+predstavujú špecifickú kategóriu, ktorá zahŕňa názvy inštitúcií, spoločenských javov a
+výsledkov spoločenskej činnosti. V tejto časti môžeme sledovať viaceré prekladateľské
+stratégie, ako napríklad už spomínanú transkripciu, doslovný preklad, adaptáciu,
+explikáciu, adíciu a omisiu. Pri preklade inštitúcií môžeme pozorovať prelínanie sa
+transkripcie s explikáciou a doslovným prekladom. Úrady, hostince, súdy a obchodné
+spoločnosti sú vo východiskovom texte doslovne preložené do slovenčiny, alebo majú
+vlastný ekvivalent. Tu si taktiež môžeme všimnúť rozdiely v postupe prvej a druhej
+prekladateľky. V poslednej kapitole sa venujeme negatívnym posunom v preklade a aj
+ďalším nekonzistentnostiam, ktoré sa v preklade vyskytli. Navrhujeme tu aj možné
+opravy, ako by podľa nás mal preklad vyzerať.
+79
+
+V rozhovore sme však zistili, že väčšinu proprií, ktoré prvá prekladateľka
+transkribovala do cieľového jazyka, druhá prekladateľka preložila. Avšak do tlače sa
+dostala
+
+zlá, neupravená verzia prekladu,
+
+a najmä
+
+preto pozorujeme
+
+takéto
+
+nekonzistentnosti v preklade. Sme si však istí, že upravená a finálna verzia prekladu
+Veroniky Kašákovej vyzerala oveľa kvalitnejšie a nebolo tam toľko chýb, ktoré sme
+v rámci našej analýzy našli. Pretože naša druhá pani prekladateľka upravila aj text
+Zuzany Trstenskej a pri určitých propriách, ako napríklad pri názve hostincov
+a obchodných spoločností volila doslovný preklad alebo pri iných vlastných menách
+používala explikáciu, čo nám evokuje, že sa Veronika prikláňala k naturalizačnej
+stratégiu prekladu. V rozhovore spomínala aj to, že sa jej dobre pracovalo s editorom
+a korektorom. Problém teda musel nastať v redakcii a vydavateľstve, ktoré si
+pravdepodobne pomýlili finálnu verziu prekladu s tým neupraveným, a ten neupravený
+preklad poslali do tlače, čo si pani Kašáková všimla až neskoro. Považujeme to za
+veľkú chybu a nedôslednosť redakcie.
+Na základe výsledkov analýzy sme dospeli k záveru, že preklad vlastných
+podstatných mien je náročná úloha, ktorá si vyžaduje dôkladné zváženie rôznych
+faktorov a použitie vhodných prekladateľských stratégií. Naše zistenia zdôrazňujú
+dôležitosť konzistentnosti, dôkladného výskumu a spolupráce s odborníkmi pri preklade
+mien a názvov.
+Prekladatelia musia neustále hľadať rovnováhu medzi vernosťou originálu a
+čitateľnosťou pre cieľové publikum, čo predstavuje neustálu výzvu v prekladateľskej
+praxi. Dúfame, že táto práca poskytne užitočné poznatky a inšpiráciu pre budúcich
+prekladateľov a výskumníkov v tejto oblasti.
+
+80
+
+Resumé
+Our thesis focused on the issue of translation of proper nouns in fiction, specifically in
+the historical-detective novel Dark Fire by C. J. Sansom. The main aim was to analyse
+translation practices and strategies in translating propre nouns, to identify negative shifts
+in translation and to suggest possible alternatives to improve them.
+The primary motivation behind selecting this topic stems from the intricate
+nature of translating proper names. Another compelling reason for choosing this topic is
+our personal connection to the saga under analysis, having previously engaged with
+books Dissolution and Dark Fire during leisure reading activities. Also the motivation
+revolves around the intricate challenges of translating proper names and their
+(in)translatability, given the absence of universally defined rules for handling such
+translations. Additionally, our personal affinity with the saga under analysis, Dark Fire,
+from previous leisure reading, further solidified our interest in this subject.
+The thesis is structured into two main sections. The first section explores the
+theoretical foundation of onomastics, a specialized field focusing on the origin and
+usage of proper names. Proper names play a crucial role in human identity, analogous to
+personal names that distinguish individuals. This concept extends to countries, cities,
+streets, and other entities, each bearing unique designations. Moreover, proper names
+serve diverse functions, including aesthetic and identification purposes. In summary, the
+theoretical segment of the thesis aims to define onomastics and explore its subject
+matter—the functions of proper names—while integrating theories proposed by Slovak
+linguistic scholars. Particularly, the onomastic theories presented by Blicha and Majtán
+form the central focus of the first chapter.
+The thesis is then divided into five main chapters. The first chapter focuses on
+the theory of onomastics, where we define the basic concepts and areas of investigation
+of this scientific discipline. We introduce literary onomastics and its importance in
+translation practice.
+The second chapter, research methodology, provides an overview of the methods
+and procedures used in the analysis of proper nouns. We describe how we identified and
+categorized proper nouns in the original text and their translations in the target
+language.
+
+81
+
+The third chapter introduces the author of the book, the translators, and the plot
+of the book itself. It provides the context needed to better understand the translation
+challenges inherent in the historical-detective genre.
+The fourth chapter is the main part of the thesis, where the translation of proper
+nouns is analysed in detail. We divide them into bionyms and abionyms and examine
+their translation solutions in both the source and target languages. We identify the
+strategies and methods the translators used in their work.
+The fifth chapter is devoted to negative shifts in translation, where we point out
+errors and inaccuracies that have occurred. We provide suggestions for possible
+corrections and alternative translation solutions that would improve the overall
+impression of the translation.
+Based on our analysis, we conclude that translating proper nouns in historicaldetective novels is a complex and challenging task that requires careful consideration of
+linguistic, cultural, and historical factors. Translators must strike a balance between
+fidelity to the original and readability for the target audience, which often leads to the
+use of different translation strategies.
+The cornerstone of the thesis's theoretical framework lies in the typology of
+proper names, which we subsequently apply in the practical section. Proper names can
+be classified into several categories, including anthroponymy, zoonymy, toponymy, and
+chrematonymy, each of which is further delineated and defined.
+Anthroponymy focuses on the study of human names, encompassing personal
+names, surnames, nicknames, ethnonyms, clan names, and similar designations.
+Another branch of onomastics, zoonymy, deals with the common names of various
+animals. The most common strategy in translating names was transcription, with which
+we agree. The only cases of naturalizing translation direction were for family names
+with the collective ending -ovci and for female surnames with the ending –ová.
+Toponymy involves the examination of place names, encompassing their
+historical background, origins, usage, and significance. It is categorized into several
+subgroups, such as hydronyms (names of rivers, lakes, seas, bays), oikonyms (names of
+settlements), oronyms (names for mountains or valleys), hodonyms (names of streets
+and roads), and choronyms (regional place names). The focus of our thesis is on
+chrematonymy, which pertains to names of objects created by human activity or
+artificial entities. In our thesis, we focused on analysing the translation of streets,
+bridges, courts, parks, wharfs and stairs.
+82
+
+The final focus of our diploma thesis is on chrematonymy, which refers to names
+representing items created through human activity, often termed artificial things.
+Choronyms encompass various categories such as institutional names (cultural,
+historical, religious), names of societal phenomena (e.g., significant battles or wars),
+and names arising from human activities (such as titles of literary works or law´s). In
+this chapter we l mainly dealt with the translation of institutions, events, laws,
+expressive expressions and the translation of phrases taken from Latin and French.
+In the last chapter, we discussed translation shifts and other translation flaws,
+where we listed the translation errors we found and proposed solutions to correct them.
+During our analysis of the saga, we utilized English dictionaries such as
+Cambridge dictionary and Your’s dictionary. Additionally, Slovak dictionaries like
+Krátky slovník slovenského jazyka, Synonymický slovník slovenčiny and Súčasný slovník
+slovenského jazyka were extensively consulted. These monolingual dictionaries proved
+invaluable as they provided insights into word etymology during the translation process.
+Some words traced their origins back to languages like Norwegian or Old English.
+Maps included in each book of the saga were also beneficial for our research purposes.
+In summary, the goal of the thesis was to analyse George R. R. Martin’s saga,
+focusing specifically on the translation of proper names. This necessitated not only
+examining individual proper names but also scrutinizing translation strategies and
+methodologies. Overall, the predominant strategies employed in translating proper
+names included literal translation, transcription, and graphical adaptation, tailored to
+suit the particularities of the target language.
+
+83
+
+ZOZNAM POUŽITEJ LITERATÚRY
+Primárne zdroje
+SANSOM, Christopher John. 2005. Dark Fire. Londýn: Macmillan, 2005, 581 s. ISBN
+0-330-41197-7
+SANSOM, Christopher John. 2022. Temný oheň. Bratislava: Aktuell, 2022, 480 s. ISBN
+978-80-89873-35-7 (Preložili: Zuzana Trstenská a Veronika Kašáková).
+
+Sekundárne zdroje
+BLICHA, Michal – MAJTÁN, Milan. 1986. Úvod do onomastiky. Prešov: PF UPJŠ,
+1986, 147 s.
+BONDALETOV, Vladimir Dal. 1983. Russkaja onomastika. Moskva: Prosveščenije.
+1983, 224 s.
+BUDGE, Ernest Alfred Wallis 1969. The Gods of the Egyptians or Studies in Egyptian
+Mythology. New York: Dover publications,1969, 608 s. ISBN 978-0486220550
+COPENHAVER, Brian. 1995. Hermetica: the Greek Corpus Hermeticum and the Latin
+Asclepius in a new English translation, with notes and introduction. New York:
+Cambridge University Press. 1995, 320 s. ISBN 0521425433
+DVONČ, Ladislav a kol. 1966. Morfológia slovenského jazyka. Bratislava:
+Vydavateľstvo SAV, 1966. 896 s.
+FERENČÍK, Ján. 1982. Kontexty prekladu. Bratislava: Slovenský spisovateľ, 1982, 149
+s.
+HAYES, Hugh. 2001. A Park for Finsbury. Londýn: Friends of Finsbury Park, 2001, 64
+s. ISBN 0-9540637-0-8.
+KNITTLOVÁ, Dagmar a kol. 2010. Překlad a překládaní. 1. vyd. Olomouc: Univerzita
+Palackého v Olomouci, 2010, 291 s. ISBN 978-80-244-2428-6
+KOZÁKOVÁ, Mária. 2018. Propriá v rozprávkach A. S. Puškina [Diplomová práca].
+Nitra: Univerzita Konštantína Filozofa[s. n.]. 2018, 93 s.
+KRŠKO, Jaromír. 2014. Úvod do toponomastiky. Banská Bystrica: Belianum, 2014. 176
+s. ISBN 978-80-557-0729-7
+MALÝ, Lukáš. 2019. Vývoj advokacie a justice ve Viktoriánské Anglii [Diplomová
+práca]. Plzeň: Západočeská univerzita v Plzni [s. n.]. 2019, 72 s.
+
+84
+
+McKENZIE, Andrea. 2007. Tyburn's Martyrs: Execution in England. Londýn:
+Bloomsburry Academic, 2007, 336 s. ISBN 978-1847251718
+ODALOŠ, Pavol. 2012. Literáronymá v slovenskej literatúre. Banská Bystrica: FHV
+UMV v BB, 2012, 161 s. ISBN 978-80-557-0394-7
+PHILLIPS, O Hood. A First Book of English Law. Fourth Edition. Londýn: Sweet and
+Maxwell. 1960, 332 s.
+POPOVIČ, Anton. 1971. Poetika umeleckého prekladu. Bratislava: Tatran, 1971, 168 s.
+POPOVIČ, Anton. 1975. Teória umeleckého prekladu. Bratislava: Tatran, 1975, 293 s.
+SCULLY, Terence. 1995. The Art of Cookery in the Middle Ages, Martlesham: Boydell
+and Brewer, 1995, 284 s. ISBN 978-0851154305
+ŠMELEVA, Tatyana Viktorovna. 2013. Onomastika. Učebnoje posobije. Slaviansk-naKubani: Izdateľskij centr filiala FGBOU VPO KubGU v g. Slavianske-na-Kubani,
+2013, 161 s. ISBN 978- 5-91980-045-3
+ŠMILAUER, Vladimir. 1963. Úvod do toponomastiky/nauky o vlastních jménech
+zeměpisných. Praha: Státní pedagogické nakladatelství, 1963, 219 s.
+VILIKOVSKÝ, Ján. 1984. Preklad ako tvorba. Bratislava: Slovenský spisovateľ. 240 s.
+BARTKO, Ladislav. 1983. Mená literárnych postáv v prózach Ľudovíta Kubániho. In:
+Slovenská reč. 1983, 48, 2. s. 76-84.
+BARTKO, Ladislav. 2000. K poetike mien literárnych postáv z hľadiska teórie
+prekladu. In: Preklad a tlmočenie 2. Banská Bystrica: Filologická fakulta UMB v BB,
+2000, s. 133 – 142. ISBN 80-8055-459-5
+BLANÁR,Vincent.1983. Postavení onomastiky v systému spoločenských věd In:
+Onomastický zpravodaj. 1983, roč. 24, č.1, s.153–157.ISSN0232-0266
+DJOVČOS, Martin – KRAVIAROVÁ, Zuzana. 2010. Možné svety a ich možné
+preklady. In: Ars Aeterna, 2010, roč. 2, č. 2, s. 105 – 121. ISSN 1337-9291
+DVONČ, Ladislav. 1996. Cudzie ženské priezviská v Slovenčine. In: 12. slovenská
+onomastická konferencia a 6. seminár „Onomastika a škola“. Prešov 25. – 26. 10.1995.
+Zborník referátov. Zost. M. Majtán – F. Ruščák. Prešov: Fakulta humanitných a
+prírodných vied Prešovskej univerzity v Prešove, 1996, s. 169 – 172. ISBN 8088885043
+FERNANDES, Lincoln. 2006. Translation of Names in Children’s Fantasy Literature:
+Bringing the Young Reader Into Play. In: New Voices in Translation Studies 2, 2006,
+44-57 s.
+85
+
+KRAJČOVIČ, Rudolf. 1991. Onomastika ahistorické disciplíny. In: X. slovenská
+onomastická konferencia. Bratislava 13. – 15. septembra 1989. Zborník materiálov.
+Red. M. Majtán. Bratislava: Jazykovedný ústav Ľ. Štúra SAV, 1991, s. 7 – 13
+MAJTÁN, Milan. 1983. Zdroje, tvorenie a spoločenské pôsobenie literárnych vlastných
+mien. In: Slovenská reč. 1983, 48, 2. s. 71-75.
+MAJTÁN, Milan. 1992. Literárna onymia a umelecký preklad. In: M. Blicha (ed.),
+Zborník Acta Facultatis Paedagogicae Universitatis Šafarikanae, Slavistica XXVIII.,
+Zv. 3. Onomastika a škola. Banská Bystrica: Univerzita Pavla Jozefa Šafárika,
+Pedagogická fakulta, 2014, s. 160 – 164. ISBN 8088697018
+OLOŠTIAK, Martin. 2001. O prechyľovaní cudzích priezvisk v slovenčine. In:
+Slovenská reč, 2001, roč. 66, č. 5, s. 298–308. ISSN 0037– 6981
+ODALOŠ, Pavol. 2007. Literáronymá Ballekovho palánskeho obdobia. In: Súradnice
+súčasnej onomastiky. Zborník materiálov zo 16. slovenskej onomastickej konferencie
+Bratislava 16. – 17. 9. 2004. Zost. M. Považaj – P. Žigo. Bratislava: Veda, 2007, s. 252
+– 258. ISBN 978-80-224-0971-1.
+SIČÁKOVÁ, Ľuba. 2010. Jazyková a mimojazyková stránka proprií. In: Slovo o slove.
+Zborník Katedry komunikačnej a literárne výchovy Pedagogickej fakulty Prešovskej
+univerzity. Ročník 16. Ed. Ľ. Liptáková – M. Andričíková – M. Klimovič. Prešov:
+Pedagogická fakulta Prešovskej univerzity v Prešove, 2010, s. 50 – 74. ISBN 978-80555-0201-4.
+
+86
+
+Elektronické zdroje
+COATES, R. What is onomastics?. In: icosweb.net [online].
+[cit.22. januára 2024]. Dostupné na internete:
+icosweb.net/drupal/what-is-onomastics
+BARDAKOVA, V. V. 2009. Govoriaščije imena v detskoj literature. In: Voprosy
+onomastiki, [online]. 2009, s. 48-56. ISSN 1994-2451.
+[cit. 23. januára 2024]. Dostupné na internete:
+http://www.onomastics.ru/content/2009-№7
+Theguardian.com
+[cit. 4. apríla 2024]. Dostupné na internete:
+https://www.theguardian.com/culture/2010/nov/15/cj-sansom-interview
+Janssen.com
+[cit. 4. apríla 2024]. Dostupné na internete:
+https://www.janssen.com/slovakia/mnohopocetny-myelom-najcastejsie-sa-vyskytujucenadorove-ochorenie-krvi
+Kogneo.org
+[cit. 4. apríla 2024]. Dostupné na internete:
+https://kogneo.org/lectors/zuzana-trstenska/
+Biblia.sk
+[cit. 12. apríla 2024]. Dostupné na internete:
+Biblia.sk | Katolícky preklad - Druhá kniha Samuelova 11. kapitola
+Thevintagenews.com
+[cit. 13. apríla 2024]. Dostupné na internete:
+https://www.thevintagenews.com/2021/09/02/six-mysteries-about-anne-boleyn-orshould-that-be-nan-bullen/
+Lincolnsinn.org
+[cit. 19. apríla 2024]. Dostupné na internete:
+87
+
+https://www.lincolnsinn.org.uk/the-estate/our-gardens/
+Dictionary.cambridge.org
+Heslo „joiner“
+[cit. 21. apríla 2024]. Dostupné na internete:
+https://dictionary.cambridge.org/dictionary/english/joiner
+Orderofthecoif.org
+[cit. 21. apríla 2024]. Dostupné na internete:
+https://orderofthecoif.org/history
+Theanneboleynfiles.com
+[cit. 29. apríla 2024]. Dostupné na internete:
+https://www.theanneboleynfiles.com/1-may-1536-the-fateful-may-dayjoust/?utm_content=cmp-true
+Captour-paja.cz
+[cit. 30. apríla 2024]. Dostupné na internete:
+https://www.captour-paja.cz/l/pravo-utrpne-v-ceskem-krumlove/
+Krátky slovník slovenského jazyka 4
+Heslo „nakopnúť“
+[cit. 3. mája 2024]. Dostupné na internete:
+https://slovnik.juls.savba.sk/?w=nakopn%C3%BA%C5%A5&s=exact&c=Sf52&cs=&d
+=kssj4&d=psp&d=ogs&d=sssj&d=orter&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=b
+ernolak&d=noundb&d=orient&d=locutio&d=obce&d=priezviska&d=un&d=pskfr&d=p
+skcs&d=psken#
+Yourdictionary.com
+Heslo „kicklike a mule“
+[cit. 3. mája 2024]. Dostupné na:
+https://www.yourdictionary.com/kick-like-a-mule
+
+88
+
+Krátky slovník slovenského jazyka 4
+Heslo „zlovestný“
+[cit. 3. mája 2024]. Dostupné na internete:
+https://slovnik.juls.savba.sk/?w=zlovestn%C3%BD&s=exact&c=p2a7&cs=&d=kssj4&
+d=psp&d=ogs&d=sssj&d=orter&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=bernolak
+&d=noundb&d=orient&d=locutio&d=obce&d=priezviska&d=un&d=pskfr&d=pskcs&d
+=psken#
+Krátky slovník slovenského jazyka 4
+Heslo „vzorec“
+[cit. 3. mája 2024]. Dostupné na internete:
+https://slovnik.juls.savba.sk/?w=vzorec&s=exact&c=Nf73&cs=&d=kssj4&d=psp&d=o
+gs&d=sssj&d=orter&d=scs&d=sss&d=peciar&d=ssn&d=hssj&d=bernolak&d=noundb
+&d=orient&d=locutio&d=obce&d=priezviska&d=un&d=pskfr&d=pskcs&d=psken#
+
+89
+
+Príloha 1. Rozhovor s prekladateľkou Veronikou Kašákovou
+
+1.
+
+Ako ste sa dostali k prekladu románu Temný oheň? Nebáli ste sa ísť
+
+do prekladu tohto náročného románu, keď ste vedeli, že to je váš prvý preklad?
+„K prekladu som sa dostala cez pána doktora Kubuša. On totiž preložil prvý diel série
+o Shardlakovi. Na druhom diele pôvodne robila iná prekladateľka, Trstenská, ale keď
+odstúpila od zmluvy, doktor Kubuš dal môj kontakt vydavateľovi, ktorý ma následne
+oslovil.
+Samozrejme, že som mala isté obavy a pochybnosti, či sa prekladu ujať. Predsa
+len som nemala toľko skúseností. Ale musím priznať, že som bola nadšená, keďže som
+mala odjakživa rada knihy a na škole som si zaumienila, že sa chcem venovať
+umeleckému prekladu. Rovnako ma potešilo, že sa kniha odohráva v období, ktoré ma
+kedysi fascinovalo a mala som o ňom už vopred aj nejaké znalosti.“
+
+2.
+
+Ako sme už v práci spomínali, prvú časť prekladala Zuzana Trstenská. Ako
+
+hodnotíte jej preklad a akú stratégiu ste zvolili pri nadviazaní na jej prácu?
+„Myslím, že jej preklad bol dobrý, Trstenská je predsa skúsená prekladateľka. Miestami
+som však mala pocit, že si až tak veľmi nedohľadávala reálie a volila skôr exotizáciu, čo
+bolo oproti prekladu prvého diela veľký rozdiel. Neviem, či si predtým prečítala prvý
+diel alebo nie. Vydavateľ mi poslal jej časť prekladu s tým, že ho mám pozrieť a spraviť
+úpravy, ak to bude potrebné. Rozhodla som sa, že chcem nadviazať na preklad prvého
+diela, aby to bolo konzistentnejšie pre čitateľov, ale, samozrejme, preklady, s ktorými
+som súhlasila, som sa snažila ponechať tak, ako ich mala v svojej časti ona. Priznávam,
+že syntaktické veci som upravila skôr podľa štýlu, ktorý je prirodzenejší mne.“
+
+3.
+
+V knihe je veľa náročných náboženských termínov, ale aj iných
+
+zaujímavých a ťažkých vetných konštrukcií na preklad. Ako ste postupovali
+pri ich preklade?
+„Pri náboženských veciach som konzultovala s kolegyňou, ktorá sa v tejto tematike
+vyzná viac ako ja. Tiež som pri preklade konzultovala doktora Kubuša, ktorý mi dosť
+
+1
+
+pomohol ako s náboženskými termínmi, tak aj so samotným prekladom, ku ktorému mi
+vždy poslal svoje poznámky a postrehy. Čo sa týka vetných konštrukcií, najskôr som sa
+snažila pochopiť celkový význam viet, čo tým chcel autor povedať, a potom som sa
+pustila do prekladu.“
+
+4.
+
+Pri analýze sme našli pár prípadov negatívneho posunu a nekonzistentnosti
+
+prekladu, kde si myslíte, že nastala chyba? (Tu chcem poukázať na rozdielne
+stratégie vo Vašom a jej preklade. Viacero proprií je preložených v prvej časti
+inak, ako Vo vašej časti.)
+„No... toto je zaujímavá situácia. Ako som už spomínala, dostala som prvú časť
+prekladu s tým, že ju mám pozrieť a mohla som ju aj upraviť, čo som aj spravila.
+Snažila som sa o to, aby bol preklad konzistentný, čiže som zjednotila preklad termínov,
+mien a podobne. Túto upravenú verziu som poslala aj vydavateľovi, ale z nejakého
+dôvodu ho nepoužil a túto skutočnosť som si všimla, až keď kniha vyšla.“
+
+5.
+
+Ako hodnotíte spätnú väzbu od vydavateľstva, redaktora a editora?
+
+„Spätná väzba bola celkom pozitívna. S vydavateľom sa mi komunikovalo dobre. Keď
+som požiadala o predĺženie termínu odovzdania, tak s tým nemal problém. Čo sa týka
+práce s redaktorkou, tú tiež hodnotím veľmi dobre. Vecne mi ponúkla svoje pohľady
+a zásahy a nikdy sme nemali problém sa zhodnúť. Predpokladám, že chyba nastala, až
+keď išiel preklad to tlače. Poslali mi ešte zalomenú verziu, v ktorej som skontrolovala
+len pár drobností, no nenapadlo mi, že by mohli použiť neupravenú verziu. Z redakcie
+mi prišla len moja časť prekladu, takže som to nemala v tejto fáze ako odkontrolovať.“
+
+6.
+
+Mercer’s Hall a Joiner’s Hall – Čo sa týka týchto spoločností, prečo sú
+
+truhlári preložení ale „merceri“ nie?
+„Myslím, že takto to nebolo preložené v mojej časti prekladu, ten začína dvanástou
+kapitolou. Nenašla som to tam a ani v upravenej verzii Trstenskej, takže predpokladám,
+že chyba vznikla niekde počas korektúry/zalomenia textu.“
+
+2
+
+7.
+
+The house of Glass– V prvej časti ako Dom Glassovcov a v druhej časti ako
+
+sklenený dom. Aká bola stratégia alebo motivácia pri tomto preklade?
+„Rozhodla som sa ho preložiť ako „Sklenený dom“ pre tento opis z dvadsiatej prvej
+kapitoly: „Pochopil som, prečo bol známy aj ako Sklenený dom. Celé priečelie
+pokrývali kosoštvorcové okenné tabule a v niektorých stredových tabuľkách bol
+vyobrazený erb rodiny Vaughanovcov.“ Rovnako sa v knihe nikde nespomínajú žiadni
+Glassovci, takže som usúdila, že sa názov odkazuje na vzhľad a v Angličtine sa názvy
+vždy píšu s veľkým začiatočným písmenom.“
+
+8.
+
+Pope´s head tavern, Tavern Barbary Turk a Bishop´s Head Brothel– iba prvý
+
+hostinec nie je preložený, pričom sa taktiež dá preložiť. Prečo je to tak?
+„Opäť ide o chybu v neupravenom preklade. V mnou upravenej verzii prekladu
+Trstenskej je Pope’s Head Tavern preložené ako hostinec Pápežova hlava.“
+
+9.
+
+Našli ste niekde v paralelných textov May Day Jousts? My sme túto udalosť
+
+nikde nevedel nájsť, ale boli tam k tomu nejaké obrázky, inšpirovali ste sa nimi, či
+ste niekde tieto zápasy našli aj spomenuté?
+„Po hľadaní tohto termínu som sa rozhodla pre preklad opisom, keďže som ho
+v paralelných textoch neobjavila. Jousts boli rytierske súboje, a preto som sa rozhodla
+pre preklad opisom, pretože som usúdila, že to tak bude pre čitateľa jednoduchšie. Síce
+sa tento termín viaže na konkrétnu udalosť, ktorá sa spája s pádom Anny Boleynovej, no
+myslím, že táto informácia bola jasná z kontextu a opisným prekladom sa význam
+nestratil“.
+
+10.
+
+Conveyance
+
+Na strane 39 Sharldlakov koncipient Skelly spomína zmluvu o prevode
+nehnuteľnosti. Slovo conveyance je najprv preložené ako zmluva o prevode
+nehnuteľnosti, neskôr preložené iba ako prevod majetku a do tretice preložené ako
+zmluva o prevode majetku. Všetko sú to v podstate synonymá, avšak znova tu
+nastáva problém nekonzistentnosti prekladu.
+
+3
+
+„Priznávam, že by bolo pre čitateľa asi jednoduchšie, keby bol tento termín preložený
+jednotne.“
+
+11.
+
+Podľa nás sú niektoré Barakove repliky moc jemne preložené na jeho
+
+výchovu a správanie, myslíme si, že mohli byť preložené aj expresívnejšie.
+„Toto je vždy zapeklitá téma, však? Ja som sa snažila, aby to nebolo príliš ani na jednu
+stranu. Nechcela som prílišnú expresivitu, ale zase ani úplne stlmiť tieto výrazy.
+Neviem, či sa mi to podarilo, ale ja si myslím, že to bolo primerané. Aj keď mám pocit,
+že v treťom diele som bola pri Barakovi expresívnejšia.“
+
+12.
+
+Čo sa týka redaktora alebo editora, našli sme takéto chyby v knihe:
+
+Na prelome strán 452 a 453 nájdeme chybnú vetu, v ktorej je nesprávne použitý
+slovosled. Pôvodná veta znie: „Keď som po ho ňom čítal.“ Čo je očividne veľmi zlý
+slovosled. Vetu by sme, samozrejme, opravili: „Keď som ho po ňom čítal.“
+„Súhlasím. Pozerala som redigovaný text a redaktorka si to naozaj nevšimla. Preklad
+som predtým, ako som ho poslala, čítala viackrát, ale neuvedomila som si túto
+syntaktickú chybu. V redigovanom texte som pozerala len zásahy redaktorky.“
+
+13.
+
+Na strane 416 si môžeme povšimnúť zlý slovosled vety: „Na druhom konci
+
+katedrály sa ozýval ako vzdialený hluk, Cranmerov stúpajúci a klesajúci hlas.“
+Takáto konštrukcia a syntax znie veľmi neprirodzene. Odporúčali by sme
+z podraďovacieho súvetia spraviť jednu vetu: „Cranmerov stúpajúci a klesajúci
+hlas sa na druhom konci katedrály ozýval ako vzdialený hluk.“
+„Súhlasím. Tu platí to isté, čo aj pri predošlom postrehu.“
+
+4
+
+

@@ -1,0 +1,1725 @@
+UNIVERZITA MATEJA BELA V BANSKEJ BYSTRICI
+PRAVNICKA FAKULTA
+
+HODNOTENIE DÔKAZOV V CIVILNOM PROCESE
+Magisterská práca
+cb953064-fc6a-43c8-aea5-7d412cbc8b2c
+
+Študijný program : Právo
+Študijný odbor : Právo
+Pracovisko : Katedra občianskeho a pracovného práva
+Vedúci diplomovej práce: prof. JUDr. Daniela Gandžalová, PhD.
+Banská Bystrica 2023
+
+Volodymyr Prokofiiev
+
+1
+
+ČESTNE VYHLÁSENIE
+
+Čestne vyhlasujem, že som magisterskú prácu s názvom: Hodnotenie dôkazov v civilnom
+procese, vypracoval samostatne pod vedením svojho vedúceho prace : prof. JUDr. Daniely
+Gandžalovej, PhD. a že som uviedol všetku použitú literatúru.
+
+V Banskej Bystrici dňa
+
+Podpis
+
+2
+
+Poďakovanie
+
+Chcel by som úprimne poďakovať prof. JUDr. Daniele Gandžalovej, PhD., za odborne
+vedenie tejto diplomovej práce, za ochotný prístup a rady, ktoré mi poskytli a pomohli mi
+k môjmu vzdelávaniu.
+
+3
+
+ABSTRAKT
+Prokofiiev Volodymyr : Hodnotenie dôkazov v civilnom procese,
+diplomová práca, Univerzita Mateja Belá v Banskej Bystrici , Právnická Fakulta, Katedra
+občianskeho a pracovného práva, vedúci práce: prof. JUDr. Daniela Gandžalová, PhD.,
+stupeň odbornej kvalifikácie: magister(Mgr.), Banská Bystrica, 2023, 54 s.
+
+Cieľom magisterskej práce je s pomocou analytickej metódy popísať spôsoby hodnotenia
+dôkazov v civilnom procese.
+V danej práce sa venujeme pojímam dokazovanie, hodnotenie dôkazov, metódy dokazovania.
+Budeme snažiť poukázať na rozdiely, výhody a nevýhody pri rôznych spôsoboch.
+Predmetom skúmania záverečnej práce je popísanie jednej z najdôležitejších časti
+civilného procesu. Práca charakterizuje základné pojmy, vybrane inštitúty
+dokazovania v zmysle platnej právnej úpravy civilnoprávnych predpisov a analyzuje
+priebeh dokazovania jednotlivých štádií dokazovania, a hodnotenie dokazovania .Práca sa
+skladá zo štyroch hlavných kapitol. Obsahom prvej kapitoly je charakteristika civilného
+procesu a jeho druhov. Druhá kapitola sa venuje dokazovaniu z hľadiska poznávania. V tretej
+kapitole sa práca podrobne zaoberá dôkaznými prostriedkami. Štvrtá kapitola popisuje
+priebeh procesného konania, dokazovania od navrhovania a zadovažovania dôkazných
+prostriedkov, vykonávania dôkazných prostriedkov a hodnotenia dôkazov sudom v civilnom
+procese.
+
+Kľúčové slova : Dokaz, civilný proces, dokazovanie
+
+4
+
+ABSTRACT
+
+Volodymyr Prokofiev: Evaluation of evidence in a civil trial,master's thesis, Matej Belá
+University, Faculty of Law, Department of Civil and Labor Law, supervisor: prof. JUDr.
+Daniela Gandžalová, PhD., degree of professional qualification: Master (Mgr.), Banská
+Bystrica, 2023, 54p.
+
+The aim of the master's thesis is to describe the ways of evaluating evidence in a civil process
+with the help of an analytical method.In this work, we deal with the concepts of proof,
+evaluation of evidence, methods of proof.We will try to point out the differences, advantages
+and disadvantages of different methods.The subject of the research of the final thesis is the
+description of one of the most important parts civil process. The work characterizes basic
+concepts, selected institutes evidence in the sense of valid legal regulation of civil law
+regulations and analyzes the course of proving the individual stages of the proof, and the
+evaluation of the proof The work consists of four main parts chapter. The content of the first
+chapter is a description of the civil process and its types. The second chapter is devoted to
+proof from the point of view of cognition. In the third chapter, the work deals in detail with
+means of evidence.
+The fourth chapter describes the course of procedural proceedings, evidence from
+design and procurement of evidence, execution of evidencemeans and evaluation of evidence
+by the court in a civil trial.
+
+Key words: Evidence, civil process, evidence
+
+5
+
+Obsah
+Úvod..............................................................................................................................7
+1. Civilný proces............................................................................................................9
+1.1 Charakteristika civilného procesu............................................................................11
+1.2 Druhý civilného procesu..........................................................................................14
+1.3 Obsahové znaky civilného procesu..........................................................................17
+2. Dokazovanie všeobecne...........................................................................................22
+2.1 Dokazovanie ako poznávacia činnosť súdu..............................................................22
+3. Dôkazne prostriedky.................................................................................................26
+3.1 Výsluch svedka.........................................................................................................28
+3.2 Výsluch strany...........................................................................................................30
+3.3 Odborne vyjadrenie....................................................................................................31
+3.4 Znalecké dokazovanie................................................................................................32
+3.5 Listinný dôkaz............................................................................................................34
+3.6 Obhliadka...................................................................................................................36
+4. Hodnotenie dôkazov...................................................................................................37
+4.1 Princíp voľného hodnotenia dôkazov.........................................................................37
+4.2 Hodnotenie dôkazov súdom.......................................................................................38
+4.3 Hodnotenie z hľadiska dôležitosti..............................................................................45
+4.4 Hodnotenie z hľadiska zákonnosti..............................................................................45
+4.5 Hodnotenie z hľadiska pravdivosti.............................................................................46
+4.6 Hodnotenie z hľadiska logiky.....................................................................................46
+4.7 Hodnotenie svedeckej výpovede.................................................................................46
+4.8 Hodnotenie dôkazu listinou.........................................................................................47
+4.9 Hodnotenie dôkazných prostriedkov...........................................................................47
+Záver................................................................................................................................50
+Zoznam bibliografických odkazov.................................................................................52
+6
+
+Úvod
+V civilnom práve je hodnotenie dôkazov základným stavebným kameňom spravodlivého a
+spoľahlivého súdneho procesu. V svete, kde strany často čelia nesúhlasom a konfliktným
+záujmom, má hodnotenie dôkazov kľúčový význam pri dosahovaní objektívnych a
+spravodlivých rozhodnutí. Táto téma zohráva stále dôležitú úlohu a je neodmysliteľnou
+súčasťou právnikov, právnických expertov a verejnosti, ktorá sa môže kedykoľvek ocitnúť v
+úlohe účastníka civilného sporu.
+Hodnotenie dôkazov je komplexný proces, ktorý sprevádza celý priebeh civilného procesu,
+od okamihu, keď strany predkladajú svoje tvrdenia a dôkazy, až po samotné rozhodnutie
+súdu. Jeho zložitosť spočíva v tom, že dôkazy môžu byť mimoriadne rôznorodé – od
+jednoznačných a nevyvrátiteľných až po subjektívne interpretovateľné a diskutovateľné. Súd
+sa musí postaviť pred úlohu rozhodnúť, ktoré z týchto dôkazov majú väčšiu váhu a
+ovplyvňujú konečné rozhodnutie. Okrem toho sa hodnotenie dôkazov vyvíja v reakcii na
+technologický pokrok a spoločenské zmeny, čo prináša nové výzvy a otvára priestor pre
+diskusie a reformy.
+Cieľom tejto magisterskej záverečnej práce je preskúmať a analyzovať kľúčové aspekty
+hodnotenia dôkazov v civilnom procese. Venujeme sa nielen teoretickým základom, ale aj
+praktickým aspektom a konkrétnym situáciám, v ktorých sa hodnotenie dôkazov stáva
+rozhodujúcim faktorom. Naša práca bude prenikavým pohľadom na právne aspekty, ktoré
+ovplyvňujú hodnotenie dôkazov, a zameriame sa na rôzne typy dôkazov, vrátane dôkazov
+svedkov, dokumentov a odborných názorov. Pozrieme sa aj na postupy a techniky, ktoré súd
+používa na hodnotenie týchto dôkazov.
+Touto prácou sa pokúsime predstaviť problematiku hodnotenia dôkazov v civilnom procese v
+jej plnom rozsahu, a tiež identifikovať aktuálne výzvy a kontroverzie, ktorým súdne systémy
+čelia v tejto oblasti. Dúfame, že naša práca prispieva k lepšiemu pochopeniu tejto kritickéj
+oblasti práva a podporí diskusie o možných reformách a zlepšeniach, ktoré môžu viesť k
+efektívnejšiemu a spravodlivejšiemu civilnému súdnemu systému.
+V záverečnej práce sme využívali metódu obsahovej analýzy a komparačnej analýzy, ktoré
+nám pomohli vytvoriť teoretický rámec odrážajúci prax v oblasti dokazovania v civilnom
+
+7
+
+procese. Bez preddefinovania analytickej a zároveň aj komparačnej metodiky by sme
+nemohli formulovať komplexné závery. Na tvorbe celkových záverov sme sa opierali o
+analýzu a sumarizáciu platnej právnej úpravy týkajúcej sa civilného procesu a dokazovania v
+ňom. Záverečná práca je štruktúrovaná do štyroch hlavných kapitol, ktoré sa následne delia
+na jednotlivé podkapitoly.
+Obsahom prvej kapitoly je charakteristika civilného procesu s vymedzením obsahových
+znakov a jeho definícii. Druha kapitola sa zaoberá dokazovaním z hľadiska poznávacej
+činnosti sudu. V tretej kapitole podrobne rozoberáme konkrétne dôkazne prostriedky.
+Štvrtá záverečná kapitola podrobne popisuje priebeh dokazovania, zásady hodnotenia
+dôkazných prostriedkov, a hodnotenia dôkazov sudom.
+
+8
+
+1.CIVILNY PROCES
+Spoločnosť od svojich počiatkov zakladá mocenské a autoritatívne orgány, kde niektoré sú
+zodpovedné za riešenie sporov medzi subjektmi spoločenstva. Tieto orgány sú väčšinou
+súdneho charakteru, teda súdy. Moc súdnych orgánov a iných verejných orgánov musí byť
+chránená pred možným zneužitím. Procesný postup takýchto orgánov, ktoré sa podieľajú na
+ochrane práv a právom chránených záujmov, by mal byť vopred stanovený a záväzný.
+Vzťahy medzi stranami a inými zainteresovanými subjektmi by mali byť presne definované.
+Procesné strany by mali pred vidieť postup pri riešení konkrétnej veci a byť informované o
+procesných úkonoch a ich právnych dôsledkoch. Takto stanovený postup v civilnom procese
+zabraňuje zneužitiu mocenského postavenia, prispieva k stability spoločnosti a zvyšuje
+dôveru v správnosť rozhodnutí súdnych sporov.
+Genéza civilného súdneho konania sa vkladá do širšieho kontextu ochrany civilnoprocesných práv v rámci legislatívneho vývoja, ktorý súvisí s novelami predchádzajúceho
+Občianskeho súdneho poriadku a súčasného civilného sporového a mimo sporového a
+správneho súdneho poriadku. Etymologicky pôvod slova "proces" pochádza z latinského
+„processus" s významom „postupovať dopredu". V súčasnosti v právnej terminológii tento
+termín označuje „úradné alebo právne upravené konanie". Keď je tento proces realizovaný
+všeobecným súdom, hovoríme o civilnom súde alebo konaní. Termín "civilný proces" je
+synonymický s pojmom civilné súdne konanie, pričom preferovaná je jeho skrátená verzia z
+pohľadu právnych vied. Občianske právo, ako najstaršie právne odvetvie, tvorí základ
+kontinentálneho právneho systému a je všeobecným základom pre ďalšie právne odvetvia,
+najmä v súkromnom práve.
+Civilné súdne konanie má za úlohu zabezpečiť ochranu súkromných práv 1a povinností, ktoré
+sú upravené v jednotlivých odvetviach civilného práva. Jeho cieľom je poskytnúť záruky
+zákonnosti a prispievať k ich upevňovaniu a rozvíjaniu. Každý občan má právo domáhať sa
+ochrany svojich práv prostredníctvom civilného súdneho konania.
+Civilný proces sa vyznačuje určitými znakmi, ako napríklad vykonávaním činností
+prostredníctvom procesných úkonov súdu a účastníkov konania, prípadne ďalších
+
+1
+
+PODIVINSKA, A. 2015. Novinka v civilnom práve v podobe Civilného mimosporového poriadka. In Práve noviny, 2015. ISSN 24540048. [online]. [cit. 2024-02-18]. Dostupné na internete:
+http://www.pravnenoviny.sk/obcianske-pravo/novinka-v-civilnom-prave-v-podobe-civilnehomimosporoveho-poriadku
+
+9
+
+zúčastnených subjektov. Ďalším charakteristickým znakom je, že procesné kroky sa
+uskutočňujú v určitom časovom postupe v jednotlivých fázach civilného konania. Hlavným
+cieľom civilného procesu je ochrana a presadenie súkromného práva na základe rozhodnutia
+v konkrétnej veci a vynútenie jeho splnenia.
+Civilný proces môže byť definovaný z rôznych perspektív. Vo väčšine prípadov v rámci
+procesnej vedy je definovaný pohľadom na jeho účel. Z tohto hľadiska je civilný proces
+procesnou činnosťou alebo postupom súdu, účastníkov a ďalších subjektov a osôb, ktoré sa
+konania zúčastňujú. Cieľom civilného procesu je zabezpečenie ochrany subjektívnych práv,
+ktoré sú chránené zákonom.
+Do nedávna základnou právnou normou, ktorá definovala účel a význam konania v
+občianskom procese, bol Občiansky súdny poriadok. Civilný proces bol jedným z
+najvýznamnejších prostriedkov právnej ochrany subjektívnych práv, a jeho pravidlá a
+ochranu zabezpečovala spomínaná právna norma.
+Podľa Stevčeka vývoj súkromného a procesného práva na Slovensku nebol priaznivý a uberal
+sa nesprávnym smerom, prechádzajúc zo socialistického režimu do legislatívneho provizória,
+ktoré je nutné odstrániť v plnom rozsahu.
+Základom civilného procesu je civilné právo procesné, ktorého rekodifikáciu iniciovali
+odborníci nielen zo Slovenska, ale aj z Českej republiky. Prvýkrát v histórii bude 2občianske
+právo procesné rozdelené do troch kódexov, ktoré majú riešiť aktuálnu problematiku spojenú
+najmä s nekomplexnosťou. Ustanovenia civilných poriadkov deklarujú postup súdu a
+účastníkov s cieľom zabezpečiť spravodlivú ochranu práv a oprávnených záujmov
+jednotlivých účastníkov.
+V civilnom procesnom konaní je nevyhnutné klásť dôraz na princíp spravodlivosti, čo
+znamená zohľadniť všetky aspekty spravodlivého konania. Spravodlivé konanie môže viesť
+aj k zmenám, vrátane pripustenia dôkazov z nezákonných prostriedkov, aj keď to môže
+ovplyvniť práva a oprávnené záujmy niektorých účastníkov civilného konania.
+Prvá kapitola sa venovala všeobecnému prehľadu problematiky civilného procesu, obsahujúc
+exkurziu do histórie a súčasnosti s dôrazom na princípy civilného procesu. Popisujeme túto
+problematiku z hľadiska histórie aj súčasnosti. V rámci jednotlivých podkapitol sme sa
+zamerali na charakteristiku civilného procesu, jeho delenie a druhy, ako aj na jeho obsahové
+2
+
+PODIVINSKA, A. 2015. Novinka v civilnom práve v podobe Civilného mimosporového poriadka. In Práve noviny, 2015. ISSN 24540048. [online]. [cit. 2024-02-18]. Dostupné na internete:
+http://www.pravnenoviny.sk/obcianske-pravo/novinka-v-civilnom-prave-v-podobe-civilnehomimosporoveho-poriadku
+
+10
+
+aspekty. Základy civilného procesu vidíme v rímskom občianskom procese, ktorého systém
+bol v minulosti vychvaľovaný, a niektoré jeho časti sa uplatňujú dodnes.
+1.1 Charakteristika civilného procesu
+Civilný proces sa vyvíjal cez stáročia do podoby, ktorú má dnes. Jeho podstata nespočívala
+len v určitej činnosti, ale aj v procesných vzťahoch, ktoré vznikali pri realizácii základného
+procesného cieľa. V prípade civilného procesu ide o konanie, ktorého účelom je dosiahnuť
+ochranu vlastných práv, ktoré uznáva materiálne právo. 3Dôraz v rámci tohto procesu sa
+kladie na takzvanú vymožiteľnosť práva prostredníctvom zvoleného postupu štátnych
+orgánov. Každý demokratický štát by mal garantovať vymožiteľnosť práva v rámci riešenia
+konfliktov v spoločnosti.
+Počiatky civilného procesu môžeme spojiť s rímskym občianskym procesom. Celý spor sa v
+Ríme riešil spravidla v dvoch etapách: pred magistrátom (etapa nazývaná ako konanie in
+iure) a pred sudcom (etapa konania in indicio). Poslaním magistráta nebolo osobne
+rozhodovať, ale dohliadať na riadne nastolenie procesu.
+Historické hľadisko zabezpečovania súdnej ochrany subjektívnych práv v rímskom práve
+uplatnilo tri procesné systémy: legisačný, formulárny a kognitívny. Pre legisačný proces bol
+charakteristický fakt, že preskúmanie magistráta sa obmedzovalo len na vedomie tvrdení
+sporových strán, a následne buď nasledoval priamy ochranný zásah magistráta, alebo
+magistrát vec odkázal na súd. Pri formulárnom procese bol magistrát aktívnejší, podrobne sa
+oboznámil so stanoviskom žalobcu i žalovaného a v spolupráci s nimi vymedzil vlastný
+predmet a rozsah sporu, pričom vec odkázal na súd. Kognitívny proces znamenal, že
+magistrát (štátny radník) úplne prevzal preskúmanie a rozhodnutie o spornej veci, čím
+odpadlo rozdelenie procesu na dve etapy a nebol potrebný súkromný súd.
+Civilný proces vychádza z pojmu "processus" etymologicky, čo má latinský pôvod so
+znamením "postupovať vpred."4 Tento význam bol zachovaný aj v právnickej terminológii,
+kde označuje úradné a právne upravené konanie (Ficová, 2005, s. 31).
+
+3
+
+REBRO, K. — BLAHO, P. 2010. Rímske právo. 4. prepracované a doplnené vydanie. Bratislava; IURA
+Edition, 2010. 522 s. ISBN 978-80-8078-352-5.
+4
+FICOVA, S. a kol. Občianske právo procesné. Bratislava: Univerzita Komenského, 2005, s. 31.
+
+11
+
+Vymedzenie pojmu "civilný proces" sa spája s jeho charakteristickými znakmi, významom a
+štruktúrou. Civilný proces možno chápať ako vzájomne determinovanú činnosť súdu a
+zúčastnených subjektov, ktoré5 sa podieľajú na riešenej veci, zameranú na ochranu
+ohrozených alebo porušených práv v civilnoprávnych vzťahoch. V niektorých prípadoch sa v
+rámci civilného procesu môže hovoriť o činnosti iného orgánu, ktorý bol ustanovený súdom
+alebo je povolaný zákonom na rozhodovanie v danej veci.
+Ciele civilného procesu sú odvodené od povahy činnosti orgánov pôsobiacich v ňom, ktoré
+zahŕňajú rozhodovanie a prejedávanie sporov a vykonávanie rozhodnutí. V civilnom procese
+má súd6 aj výchovnú funkciu. Celkovo predstavuje súhrn procesných úkonov, ktoré
+vykonávajú subjekty civilného procesu v súlade s predpismi civilného procesného práva a
+pravidiel civilných poriadkov. Má stupňovitý charakter a je rozdelený do rôznych etáp a
+úsekov.
+Pri formulovaní konkrétnej definície civilného procesu je potrebné brať do úvahy celkový
+účel a ciele civilného procesu s dôrazom na jeho základné štruktúrne prvky. Medzi tieto
+prvky patria existencia procesných strán, ktoré majú svoje práva a povinnosti, a rozpoznanie
+etáp a úsekov procesu.
+Postup Štátnych orgánov v rámci civilného procesu je upravený legislatívne. Právne normy,
+ktoré stanovujú systém a priebeh tohto postupu, obmedzujú Štátne orgány vo voľnom
+rozhodovaní o právach jednotlivcov, ktorí sa domáhajú ochrany pred súdom. Tieto práva sú
+nazývané "judikované" práva a sú uznávané rozhodnutím súdu. Ich nesplnenie spúšťa nútený
+výkon tohto rozhodnutia. Obsah sporného konania v rámci občianskeho procesu zahŕňa
+protichodné záujmy. V prípade nesporného konania sú riešené skutočnosti týkajúce sa
+právnych vzťahov, ktoré zahŕňajú aj Štát a spoločnosť.
+Všeobecná definícia civilného procesu zdôrazňuje, že je to postup súdu, prípadne iných
+rozhodujúcich subjektov (často rozhodcov), účastníkov konania a ďalších subjektov, ktorí
+poskytujú ochranu pred porušením subjektívnych práv a zákonom chránených záujmov.
+Ochrana týchto práv a záujmov vyplýva z rôznych vzťahov, vrátane občiansko-právnych,
+
+5
+
+"FICOVA,S. Občianske právo procesné. Bratislava: Univerzita Komenského, Právnická fakulta,
+Vydavateľské oddelenie, 2005, ISBN 978-80-89122-51-6, 8. 32
+6
+FICOVA, S. STEVCEK,M.: Občianske súdne konanie, Praha: C.H. Beck, 2013, s. 21.
+
+12
+
+rodinných, pracovno-právnych, obchodno-právnych a podobných (Stevček a kol., 2014, s.
+115).
+Civilný proces a jeho7 predmet nie sú obmedzené len na hmotnoprávne spory, keďže tento
+typ procesu nie je primárne zameraný iba na vymožiteľnosť a ochranu subjektívnych
+hmotnoprávnych práv. Súčasťou sú aj spory, kde subjekt odmieta dobrovoľne plniť už
+"judikovanú povinnosť". V takýchto prípadoch ide o tzv. nútený výkon rozhodnutia, ktorý
+núti súd tieto povinnosti vykonať. Civilný proces chráni subjektívne práva, ktoré sú z
+hmotnoprávneho vzťahu prenesené do procesnej formy a môžu byť chránené v exekučnom
+konaní (Mazák, 2007, s. 11).
+Právo na súdnu ochranu je zaručené štátom s cieľom umožniť každému človeku prístup k
+súdu a zaväzovať súd k vykonávaniu jeho funkcií. Ak sú tieto práva uplatnené subjektom v
+súlade so zákonom stanovenými podmienkami,
+Procesná ochrana práv a právne chránených záujmov je zabezpečená na základe určitého
+rozsahu vedomostí a poznatkov o relevantných skutočnostiach. Súd prijíma rozhodnutia v
+danej veci na 8základe týchto skutočností, ktoré sa zisťujú dokazovaním alebo vnímaním. Súd
+disponuje právnymi poznatkami v danej veci, na ktoré nadväzuje a získava dodatočné
+poznatky, ktoré sú jedinečné a dostupné priamym alebo nepriamym spôsobom.
+V prípade civilného súdneho konania je 9nevyhnutné poskytovať záruku zákonnosti pre
+každého jednotlivca. Súd rozhoduje na základe skutkového stavu získaného dôkazmi. Môže
+rozhodovať aj na základe skutočností, ktoré nie sú sporné a neexistujú pochybnosti o ich
+pravdivosti. Princíp rovnosti a právo na "kontradiktórne konanie" zabezpečujú garanciu tejto
+zákonnosti.
+Subjekty civilno-procesného vzťahu, označované ako "subjekty civilného procesu," zahŕňajú
+súd a účastníkov konania, ako aj iné osoby, ktoré sa na ňom zúčastňujú. Svedkovia, súdni
+znalci, tlmočníci alebo advokáti majú samostatné procesné postavenie, v rámci ktorého
+nemôžu ovplyvňovať priebeh a výsledok konania vo vlastnom mene. Ak by však malo ísť o
+rozhodnutie ich práv alebo povinností, stávajú sa účastníkmi v určitej fáze konania, napríklad
+
+7
+
+MAZÁK, J. a kol. Základy občianskeho procesného práva. Bratislava: Iura Edition, 2009, s. 23.
+Nález Ústavného súdu Slovenskej republiky sp. 2n. II. US 14/01-46
+9
+"VLCEK, R: Dôkazné prostriedky v občianskom súdnom konaní, z právneho,
+sociologického a psychologického pohľadu, Bratislava: EPOS, 2006. s. 11-12.
+8
+
+13
+
+svedkami v súvislosti s ich právom na výpoveď. Osoby 10zúčastnené na konaní sa odlišujú od
+subjektov civilného procesu. Ak by však malo ísť o ich práva alebo povinnosti, takáto osoba
+sa stáva účastníkom v určitej fáze konania, v ktorej sa rozhoduje o jej procesných právach
+alebo povinnostiach. Prokurátor, Európska komisia a Protimonopolný rad SR sú považované
+za iné subjekty konania podľa ustanovení civilného sporového poriadku. Osobitné subjekty
+na ochranu práv strany môže súd bez návrhu do konania pridať ako orgán verejnej moci alebo
+právnickú osobu, ktorá sa zaoberá ochranou práv podľa osobitného predpisu.
+1.2 Druhý civilného procesu
+Z historického hľadiska je dôležité spomenúť koncepcie, ktoré boli prijaté v súvislosti s
+Občianskym súdnym poriadkom od roku 1991. Novely tohto zákona v tej dobe reagovali na
+spoločensko-ekonomické zmeny. V tomto období boli prijaté aj právne normy, ktoré
+upravujú ochranu veriteľov, konkurzný a vyrovnávací zákon, ako aj exekučný poriadok.
+Vytvoril sa nový základ pre mimosúdne riešenie sporov v obchodných vzťahoch
+prostredníctvom zákona o rozhodcovskom konaní. K zmenám v koncepcii civilného procesu
+prispelo aj zavedenie zákona o notároch a notárskej činnosti č. 323/1992 Z. z (Mazak, 2002).
+Civilný proces predstavuje komplexný právny postup s vnútorným členením, ktorý nie je
+obmedzený len na základné súdne konanie,11 ale zahŕňa aj exekučné konanie,
+reštrukturalizačné konanie, rozhodcovské konanie a ďalšie. Podľa spôsobu ochrany sa civilný
+proces delí na niekoľko druhov:
+1. Sporové konanie: Týka sa riešenia sporov medzi stranami.
+2. Nesporové konanie: Zameriava sa na záležitosti, ktoré nie sú sporového charakteru.
+3. Vykonávacie (exekučné) konanie: Súvisí s vykonávaním rozhodnutí súdu.
+4. Zabezpečovacie konanie: Slúži na zabezpečenie právnej ochrany v konkrétnych
+situáciách.
+5. Konkurzné, vyrovnávacie a reštrukturalizačné konanie: Týka sa postupov pri
+insolvenčných záležitostiach.
+6. Rozhodcovské konanie: Rieši sa mimosúdne prostredníctvom rozhodcov.
+
+10
+11
+
+"STEVCEK, M.. FICOVA, S.: Občiansky súdny poriadok komentár, Praha. C.H. Beck, 2009, s.3.
+" STEVCEK, M. kol.: Civilné právo procesné, Bratislava: EUROKODEX, 2010,8. 117-121
+
+14
+
+Každý z týchto typov civilného procesu má špecifické charakteristiky a pravidlá, ktoré sú
+stanovené aktuálnou právnou úpravou pre daný typ procesu. Civilný proces možno ďalej
+deliť na civilné súdne konanie, ktoré zahŕňa sporové a nesporové konanie, vykonávacie
+konanie a postupy podľa exekučného poriadku, ako aj konkurzné a rozhodcovské konanie.
+Každý z týchto typov civilných procesov sa vyznačuje svojimi špecifikami, napríklad
+konaním pred občianskoprávnym súdom. (Mazak, 2007, s. 11).
+Sporové a nesporové konanie sa výrazne od seba líši, najmä v oblasti dokazovania. Sporové
+konanie je špecifické tým, že môže začať iba prostredníctvom návrhu. Nesporové konanie má
+úplne inú štruktúru ako konanie sporové. Začatie konania nie je spojené s návrhom ("ex
+officio"). Účastníci sú zaťažení dôkazným bremenom, ktoré sa vzťahuje k vyhľadávaciemu
+princípu. Napriek tomu nie je vylúčené, že účastníci nesporového konania môžu navrhovať
+dôkazy, a súd na základe dokazovania vynáša konštitutívne rozhodnutie v pojednávanej veci.
+Sporové a nesporové konanie možno diferencovať aj na základe funkcie rozhodnutia súdu.
+Reparačná funkcia je špecifická pre sporové konanie, kým nesporové konanie má
+preventívnu funkciu rozhodnutia súdu. Odlíšenia sú aj v predmete konania, uplatňovaní
+procesných zásad, opravných prostriedkov a účastníkov jednotlivých konaní. Obe konania
+majú dve základné fázy: prvú inštanciu (miestne a vecne príslušný okresný alebo krajský súd
+- meritórne rozhodnutie) a druhú inštanciu (funkčne príslušný krajský alebo najvyšší súd opravné konanie proti prvostupňovému rozhodnutiu).
+Predmetom sporového konania je petit orná ochrana ohrozeného alebo porušeného
+subjektívneho práva, ktorá smeruje k12 vydaniu deklaratórneho rozhodnutia, určujúceho, čo
+sa považuje za právo. Konštitutívne rozhodnutia súdov sú zriedkavé a väčšinou sa vyskytujú
+v prípadoch týkajúcich sa hmotného práva. Príklady sporového konania môžu zahŕňať spory
+z kúpnej zmluvy, zmluvy o dielo alebo určenie otcovstva.
+Nesporové konanie sa špecifikuje vecami, ktoré nemajú povahu sporov o právo. V týchto
+prípadoch nejde o súkromnoprávny konflikt (napríklad veci týkajúce sa dedičstva alebo
+osvojenia). Účastníci konania nie sú v pozícii odporcov v prípade rozdielnych postojov a
+stanovísk. V nesporovom konaní sa uplatňuje zásada oficiality a vyšetrovací postup, čo
+znamená, že predmetné veci nemôžu byť vyšetrené dohodou bez zásahu súdu.
+
+12
+
+" MAZAK, J. a kol. Základy občianskeho procesného pravá. Bratislava: lura Edition, 2009, s. 2
+
+15
+
+Civilný proces, respektíve civilné konanie, nadväzuje aj na súvisiace druhy konaní, ako sú
+konkurzné konanie, vyrovnávacie konanie a reštrukturalizačné konanie. Konkurzné konanie
+umožňuje podanie návrhu na vyhlásenie konkurzu do 30 dní od informácie o predžutí zo
+strany dlžníka. Táto povinnosť spočíva aj na štatutárnych orgánoch, prípadne na štatutárnych
+orgánoch dlžníka, likvidátora, ako aj na zákonných zástupcoch.
+Dlžník môže v prípade nepriaznivej finančnej situácie poveriť správu vypracovaním
+reštrukturalizačného posudku, v ktorom by mali byť uvedené všetky splnené predpoklady pre
+proces reštrukturalizácie. Posudok overuje finančnú a obchodnú situáciu dlžníka, a po
+zhodnotení odporúča reštrukturalizáciu. Právna norma, ktorá upravuje reštrukturalizačné
+konanie, je Zákon č. 7/2005 Z. z. o konkurze a reštrukturalizácii. Insolvenčné konanie, taktiež
+známe ako konanie v reštrukturalizácii, je určené na riešenie problémov a konfliktov
+týkajúcich sa majetkových pomerov dlžníka. Predstavuje13 formy ako konkurz, reorganizácia,
+oddelenie a samotná reštrukturalizácia. Ďalším typom civilného procesu je "zabezpečovacie
+konanie", ktoré upravuje viacero právnych poriadkov a je považované za druh civilného
+procesu. Ide o zabezpečenie ochrany práv ohrozených porušením, ktoré je súčasťou
+občianskeho procesného práva. Exekučné konanie, samostatný druh civilného procesu, je
+regulované zákonom č. 233/1995 Z. z. o súdnych exekútoroch a exekučnej činnosti, známe aj
+ako exekučný poriadok, a zaoberá sa núteným vykonaním súdnych a iných rozhodnutí.
+Rozhodcovské konanie je špecifický spôsob riešenia sporov medzi podnikateľskými
+subjektmi, ale využíva sa aj pri riešení sporov fyzických osôb, vrátane spotrebiteľov a
+zamestnancov. V tomto type konania nahradzujú súdne orgány rozhodcovia, skupiny
+rozhodcov alebo rozhodcovské súdy. Výhodou je úspora nákladov, a je využiteľné aj v
+prípade, keď konanie pred súdom nebolo účinné. Exekučným titulom v rozhodcovskom
+konaní je rozhodcovský nález. Musí byť prejavená vôľa oboch strán a vyjadrená v
+rozhodcovskej doložke v hlavnej alebo rozhodcovskej zmluve. Tento druh konania je možné
+uplatniť aj pri riešení sporov v medzinárodnom obchodnom styku. Rozhodcovské konanie
+upravuje zákon č. 244/2002 Z.z. o rozhodcovskom konaní v znení neskorších predpisov.
+Základné delenie konania v civilnom procese zahŕňa základné konanie a vykonávacie
+konanie. Základné konanie je ďalej členené na konanie na prvej inštancii a opravné konanie.
+Konanie na prvej inštancii začína na základe žaloby alebo návrhu pre začatie konania a má
+svoj priebeh v príprave, pojednávaní a dokazovaní, ktoré vedie k rozhodnutiu v danej veci.
+
+13
+
+"FICOVÁ, S. STEVCEK,M.: Občianske súdne konanie, Praha: C.H. Beck, 2013, s. 21
+
+16
+
+Opravné konanie je odvolacie konanie na súde druhého stupňa, začína na základe návrhu pre
+obnovu konania alebo môže byť dovolacie konanie na Najvyššom súde na základe dovolania
+alebo konanie o mimoriadnom dovolaní.
+Diskusie odborníkov v oblasti civilného procesu smerovali k zisteniu, či existuje len jeden
+vzťah v rámci civilného procesu, a to civilno-procesný vzťah.
+Je nutné do tohto vzťahu zahmatá aj sud, vrátane oboch procesných strán. V niektorých
+prípadoch sa však odborníci nezhodujú a súd poväzujú za druhu stranu civilného procesu
+v súvislosti s účastníkmi konania. Tito odporcovia vyššie uvedenej teórie poukazovali na fakt
+že všetky návrhy i procesné úkony sa vzťahujú len k sudu, pričom druha strana účastníkov je
+v tomto prípade v inej váhovej rovine v rámci civilného procesu. V súčasnosti však bola
+tato právna teória dvojstranového účastníckeho vzťahu modifikovaná na trojstranovú
+verziu účastníckeho vzťahu.
+
+1.3 Obsahové znaky civilného procesu
+Civilný proces sa vyvíja na základe konkrétneho sporu alebo inej právnej veci, pričom
+procesné vzťahy vznikajú v súvislosti s týmto predmetom. Účastníci civilného procesu
+uplatňujú svoje práva a plnia procesné povinnosti, pričom súd koordinuje tieto postupy v
+súlade s celkovým 14priebehom civilného procesu. Proces sa realizuje pomocou procesných
+krokov súdu, účastníkov a iných subjektov, ktoré môžu ovplyvňovať túto činnosť. Civilný
+proces prebieha stupňovito a je rozdelený do etáp a úsekov, ktoré sú určené predpismi
+civilného procesného práva, najmä Občianskym súdnym poriadkom. Obsahové znaky
+civilného procesu zahŕňajú základné konanie a opravné konanie, ktoré sú organizované v
+špecifickom logickom a časovom poradí.
+Obsah civilného procesu sa ďalej rozvíja v závislosti od konkrétneho sporu alebo inej právnej
+veci, pričom sa vytvárajú procesné vzťahy. Účastníci konania uplatňujú svoje práva a plnia
+svoje procesné povinnosti, pričom súd ako mocenský orgán štátu usmernuje tieto postupy
+účastníkov. Civilný proces má osobité rysy v porovnaní s inými civilnými procesmi, vrátane
+
+14
+
+STEVCEK, M.. FICOVA, S.: Občiansky súdny poriadok komentár, Praha C.H. Beck, 2009, s.3.
+
+17
+
+spoločnej zhody alebo paralel. Je to inštitúcia verejného práva, ktorá slúži na ochranu
+civilného práva a má všeobecný cieľ.
+Súd dosahuje tento cieľ autoritatívnym rozhodovaním sporov o subjektívne (civilné resp.
+súkromné) právo, a to zistením alebo určením v sporovom konaní. Okrem toho rozhoduje o
+iných právnych veciach v sporovom konaní, ktoré mu zákon zveril do právomoci. Taktiež
+zabezpečuje vynútenie splnenia zisteného alebo určeného práva vo vykonávacom
+(exekučnom) konaní, ak nedošlo k dobrovoľnému splneniu rozhodnutia. Predchádza tiež
+opatreniam v tzv. zabezpečovacom konaní, ak je potrebné zabezpečiť splnenie práva, ktoré
+ešte nebolo právoplatným a vykonateľným rozhodnutím zistené alebo určené. (Ficová Steviek a kol., 2010, s. 21)
+Mazak - Janosiková (2012) zdôrazňujú, že procesné vzťahy vznikajú na základe konkrétneho
+sporu alebo inej právnej veci, pričom účastníci konania uplatňujú svoje práva a plnia
+procesné povinnosti. Súd, ako mocenský orgán štátu, usmerňuje tieto postupy účastníkov v
+súlade s cieľom civilného procesu.
+Adekvátne realizovať civilný proces. Účastníci konania, vrátane súdu, majú kľúčovú úlohu v
+uplatňovaní svojich práv, plnení procesných povinností a formovaní vzťahov v rámci
+civilného procesu.
+b): Procesnoprávne vzťahy v civilnom procese sú založené na konkrétnom spore alebo
+právnej veci, ktorá je predmetom konania. Účastníci konania uplatňujú svoje práva a plnia
+procesné povinnosti v rámci vzťahov definovaných právnymi normami, predovšetkým
+Občianskym súdnym poriadkom. Tieto vzťahy vznikajú na základe vývoja sporu a
+rozhodovania o ňom.
+c): Procesné úkony subjektov civilného procesu predstavujú konkrétne kroky, ktoré subjekty
+vykonávajú v rámci civilného procesu. Tieto úkony môžu zahŕňať podanie žaloby alebo
+návrhu na začatie konania, vykonávanie dôkazov, účasť v pojednávaniach a plnenie iných
+procesných povinností. Sú neoddeliteľnou súčasťou priebehu konania a ovplyvňujú jeho
+výsledok.
+Táto úprava teórie na trojstranný účastnícky vzťah ukazuje, že v rámci civilného procesu je
+vzťah medzi súdom, účastníkmi konania a druhou stranou komplexnejší a zohľadňuje väčší
+počet subjektov. Rovnováha medzi týmito stranami má kľúčový význam pre spravodlivý
+18
+
+priebeh konania.
+Procesné vzťahy vznikajú na základe skutočnosti, ktorý konkrétny spor alebo iná právna vec
+sa bude prerokovávať a rozhodovať o nej. Účastníci civilného procesu uplatňujú svoje práva
+a plnia svoje procesné povinnosti, pričom súd ako orgán štátu zohľadňuje a riadi tieto kroky v
+súlade s priebehom celého civilného procesu.
+"Postup alebo činnosť sa vykonáva pomocou procesných krokov súdu, účastníkov a prípadne
+ďalších subjektov, ktoré môžu 15ovplyvňovať tento priebeh. Civilný proces sa tak dá
+považovať za súhrn procesných krokov jeho účastníkov, ktoré vzájomne ovplyvňujú,
+nadväzujú na seba obsahovo a uskutočňujú sa v logickom a časovom poradí určenom
+predovšetkým Občianskym súdnym poriadkom." (Ficová, 2005, s.32). Medzi kľúčové
+aspekty civilného procesu patrí:
+1) základné konanie:
+a) konanie na prvom stupni - zahájenie konania na základe žaloby, návrhu alebo ex officio,
+priebeh konania (príprava pojednávania, dokazovanie), rozhodnutie;
+b) odvolacie konanie:
+odvolacie konanie na súde druhého stupňa na základe odvolania
+konanie o obnove konania na súde prvého stupňa na základe návrhu na obnovu konania.
+Dovolací postup na Najvyššom súde založený na podaní dovolania.
+Postup v mimoriadnom dovolaní na Najvyššom súde na základe mimoriadneho dovolania.
+2) Vykonávacie opatrenia
+- Vykonávacie opatrenia (exekúcie), hlavne rozhodnutie o vykonaní na základe návrhu na
+vykonanie a vykonávanie tohto rozhodnutia. Civilné súdne konanie má svoje osobitosti v
+porovnaní s inými civilnými konaniami, vrátane spoločnej zhody alebo paralel. Tieto
+zahŕňajú predmety, subjekty a ciele civilného procesu. Je to inštitúcia verejného práva, ktorá
+slúži na ochranu civilného práva. Súd dosahuje tento cieľ:
+a) Autoritatívnym rozhodnutím sporu o subjektívne (civilné alebo súkromné) právo, čo
+zahŕňa zistenie alebo určenie v spornom konaní a rozhodnutie iných právnych vecí v tomto
+konaní, ktoré mu zákon poveril.
+b) Vynútením vykonania zisteného alebo určeného práva v exekučnom konaní, ak nedôjde k
+dobrovoľnému vykonaniu rozhodnutia.
+
+15
+
+I STEVCEK, M.. FICOVA, S.: Občiansky súdny poriadok komentár, Praha: C.H. Beck, 2009, s.3.
+
+19
+
+c) Predbežnými opatreniami16 v tzv. zabezpečovacom konaní, ak je potrebné zabezpečiť
+vykonanie práva, ktoré ešte nie je právoplatným a vykonateľným rozhodnutím zistené alebo
+určené (§ 274 a nasl.).
+Mazak - Jánosiková (2012) tvrdia, že procesné vzťahy sú rozvinuté na základe toho, aký
+konkrétny spor alebo iná právna vec sa majú prerokovať a rozhodnúť. Účastníci konania
+uplatňujú svoje práva, plnia svoje procesné povinnosti a súd ako mocenský orgán štátu riadi,
+koordinuje a usmernuje tieto postupy účastníkov v súlade s celkovým civilným procesom.
+a) Subjekty civilného procesu, pri definovaní civilného procesu, sú prioritne súd a účastníci
+konania. Títo subjekty majú rozhodujúci vplyv na celý priebeh konania v porovnaní s inými
+subjektmi. Bez týchto subjektov by nebolo možné.
+b) Procesnoprávne vzťahy v civilnom procese sa rozvíjajú na základe toho, ako sa majú
+prerokovať a rozhodnúť konkrétne spory alebo iné právne veci. Účastníci konania uplatňujú
+svoje práva, plnia procesné povinnosti, a súd ako mocenský orgán štátu riadi, koordinuje a
+usmerňuje tieto postupy v súlade s celkovým civilným procesom.
+c) Procesné akty subjektov civilného procesu zahŕňajú konkrétne kroky, ktoré účastníci
+konania vykonávajú počas priebehu civilného procesu. Tieto kroky zahŕňajú uplatňovanie
+práv, plnenie povinností a všetky aktivity smerujúce k rozhodnutiu sporu alebo iného
+právneho konania.
+a) Štruktúra civilného procesu je formovaná právnou mocou súdu ako vymedzeného štátneho
+orgánu, ktorý má ústavné a zákonné určenú právomoc v rámci svojich oprávnení a
+povinností. Táto právomoc súdu je kľúčovým a rozhodujúcim faktorom pre jeho pôsobenie v
+civilnom procese, vrátane jeho jednotlivých častí a druhov. V niektorých prípadoch môže
+právomoc súdu vykonávať aj rozhodcovský orgán, ktorý sa často označuje ako rozhodcovský
+súd.
+b) Procesnoprávny vzťah vzniká vtedy, keď príslušný právny predpis určí spôsob začatia
+konania. Najčastejšie sa jedná o podanie žaloby ako návrhu na začatie konania alebo o
+začatie konania bez návrhu. Procesné vzťahy vznikajú medzi základnými subjektmi procesu,
+
+16
+
+STEVCEK, M.. FICOVA, S.: Občiansky súdny poriadok komentár, Praha C.H. Beck, 2009, s.3. s.21
+
+20
+
+pričom súd, ako sme už spomenuli, je významným subjektom, a účastníci konania sú
+subjekty, ktoré vedú spor. Základ procesnoprávneho vzťahu medzi účastníkmi vzniká už v
+štádiu pred procesom a môže vyústiť do procesného štádia v prípade neschopnosti vzájomnej
+dohody subjektov vyriešiť hmotnoprávny spor bez účasti súdneho orgánu. Procesné vzťahy,
+ktoré vznikli medzi účastníkmi konania, trvajú aj po skončení konania. Účinok súdneho
+rozhodnutia vo veci samotnej pôsobí nevyhnutne aj po skončení konania, pokiaľ ide o
+právoplatnosť a vykonateľnosť rozhodnutia.
+c) Procesné konanie považujeme za činy subjektov konania. Tieto procesné kroky sa líšia od
+hmotnoprávnych činov. Preto štúdium týchto krokov, vrátane súdnych rozhodnutí,
+nepodlieha kritériám platným pre hmotnoprávne činy.
+
+21
+
+2.DOKAZOVANIE VŠEOBECNE
+Súd v rámci svojej poznávacej činnosti objasňuje skutkovú podstatu veci a preukazuje ju v
+súvislosti s predmetom konania. Záver procesu spočíva v ustálení skutkového stavu ako
+následok podriadenia skutočností, ktoré boli preukázané počas procesu. Rovnako dôležité je
+pochopenie právnej stránky veci v súvislosti s príslušnými právnymi predpismi. Súd overuje
+v dôkazoch pravdivosť a relevantnosť tvrdení zo strany účastníkov konania. Na základe
+uvedeného je úlohou súdu v prípade opodstatnenosti skutkového stavu v danej veci
+porovnávať zistené skutočnosti a poznatky s právnou normou objektívneho práva, ktorá sa
+vzťahuje k danej veci.
+
+2.1Dokazovanie ako poznávacia činnosť súdu
+Pomológia procesu dokazovania, konkrétne samotný pojem „dokazovanie", je nejasná a
+zatiaľ nedočkala ustálenia. Napriek tejto skutočnosti existuje množstvo definícií od rôznych
+autorov z pohľadu právnej teórie. V zásade je dokazovanie presne definovaným postupom
+súdu v civilnom súdnom konaní, ktorého cieľom je získanie informácií súdu o
+skutočnostiach, ktoré sú kľúčové pre samotné rozhodnutie. Súd v danom procese vníma
+relevantné skutočnosti svojimi zmyslami.
+Rozhodnutie súdu je postavené na takom skutkovom stave, ktorý súd zistil v priebehu
+súdneho konania s účastníkmi na základe vykonaných dôkazov. Skutkový stav slúži ako
+základ pre rozhodnutie súdu v súvislosti s 17aktivitou účastníkov konania v rámci procesu
+dokazovania. Zistenie skutkového stavu, známe aj ako „quætio facti", je jadrom konania.
+Právnu kvalifikáciu súd uvádza v odôvodnení rozhodnutia vo veci samotnej. Súd subsumuje
+zistený skutkový stav pod hypotézu príslušnej normy a vyvodzuje z dispozície právnej
+normy, čo v danom prípade považuje za právo. Úlohou súdu je zistiť všetky skutočnosti
+súvisiace s predmetom konania a ich vzťah k účastníkom konania a zároveň posúdiť ich
+význam vzhľadom na predmet konania.
+
+17
+
+BOURA, F: Sborník studií z občanského práva 1953s. 26
+
+22
+
+Procesné dokazovanie je všeobecne definovaným ako presne určený postup súdu, ktorý
+získava konkrétne informácie o skutočnostiach za účelom rozhodovania.
+Hlavným zdrojom pre dokazovanie v civilnom súdnom procese je "Civilný sporový
+poriadok," konkrétne § 185 až § 211, druhá časť, Správa o zákone 6160/2015 Zz.
+Dokazovanie zohráva kľúčovú úlohu v rámci civilného procesu, kde účastníci zahŕňajú
+aktívnu úlohu súdu, strany konania vrátane samotných účastníkov a prípadne znalci,
+svedkovia, prokurátor a iní, keď je to potrebné. Dokazovanie predstavuje jadro celého
+civilného procesu, čo ilustruje fakt, že obe strany sú aktívne počas dokazovania, s cieľom
+ovplyvniť priebeh v ich prospech v súvislosti so zistením právne významných skutočností.
+Rozhodnutie súdu je ovplyvnené pravdivým a skutočným stavom veci, objektívnou realitou v
+danom prípade. Nájsť spojenie medzi jednotlivými javmi v procese poznávania je náročné.
+Poznávanie zo strany súdu môže mať rôzne formy, ako napríklad zmyslovou alebo
+racionálnou formou.
+Súd vníma jednotlivé javy a predmety v civilnom procese s cieľom ich zhodnotenia a
+odvodenia logických postupov v súvislosti s ich skúmaním a stanovenými vzájomnými
+väzbami, ktoré sú kľúčové pre ďalšie postupy. Poskytovanie procesnej ochrany práv, resp.
+právom chránených záujmov, je viazané na dostatočné množstvo poznatkov rôzneho
+charakteru v danej veci.
+Poznávacia činnosť súdu môže byť realizovaná získavaním poznatkov alebo ich hodnotením.
+Súd je povinný získať si podklady pre svoje rozhodnutie v spojitosti s účastníkmi konania.
+Hlavnou úlohou súdu je rozhodnúť v predmetnej veci na základe dostupných a dostatočných
+poznatkov, či už právnych alebo skutkových. Právne poznatky sú viazané na obsah
+objektívneho práva v súvislosti s právnymi normami štátu.
+Ide predovšetkým o poznatky o existencii a obsahu právnych noriem. Poznanie je dôležité aj
+v prípade podriadenia skutkových poznatkov v predmetnej veci. Skutkové poznatky ako
+pojem zahŕňajú individuálne poznatky viazané na konkrétny prípad. Je nutné uviesť, že
+hlavným cieľom procesného dokazovania je vydanie súdneho rozhodnutia na základe
+dostupných a relevantných poznatkov o predmetnej veci. Právna úprava Civilného sporového
+poriadku zdôrazňuje fakt, že rozhodujúcim subjektom v rámci dokazovania je súd.
+23
+
+Dokazovanie, ako aj jeho rozsah, sú vždy výnimočné a v niektorých prípadoch
+neopakovateľné. Riadenie dôkazov a ich prípadné vyhlásenie za nadbytočné spadá pod
+pôsobnosť súdu v každom jednotlivom prípade v súvislosti s rozsahom dokazovania. Súd
+môže vykonať aj iné dôkazy okrem tých, ktoré sú navrhované účastníkmi podľa § 295
+Civilného sporového poriadku. Článok 6 Zákona č. 161/2015 Z. z. Civilný mimo sporový
+poriadok ustanovuje súd a jeho postup v súčinnosti s účastníkmi konania za účelom zistenia a
+overenia skutkového stavu veci. Súd je povinný vykonať všetky dôkazy aj v prípade, že
+neboli navrhnuté účastníkmi konania. Tento postup je odôvodnený napríklad v nesporovom
+konaní, ktorého výsledok je zaujímavý pre celkový verejný záujem, spoločnosť, respektíve aj
+pre štát.
+Účastníci konania sú povinní uviesť skutočnosti, ktoré sú podložené tvrdeniami. "Táto
+povinnosť vzniká prvýkrát žalobcovi v žalobe a obžalovanému vo vyjadrení k nej. Žalobca v
+žalobe uvádza také argumenty, aby odôvodnil uplatnenie svojho nároku formulovaného v
+žalobe, a žalovaný je povinný predniesť také fakty, 18aby poprel žalobcov nárok alebo inak
+zaprel dôvodnosť alebo uplatniteľnosť žaloby" . Uplatniteľné v prípade obrany sú aj
+hmotnoprávne námietky. Účastníci ďalej uvádzajú skutkové tvrdenia v závislosti od priebehu
+konania až do skončenia dokazovania, ktoré vyhlási súd (koncentračná zásada). Procesná
+teória sa opiera aj o tzv. "bremeno tvrdenia," ktoré sa spája s povinnosťou tvrdenia, ktorú
+majú napríklad orgány alebo organizácie povinné odpovedať na otázky súdu prostredníctvom
+svojho zástupcu alebo písomne. Ide o príbuzné inštitúty, ktoré sa uplatňujú, ak bremeno
+tvrdenia nesie každý účastník konania. Zaujímavosťou je procesná delegácia, kedy ide o
+prenesenie zodpovednosti za vedenie sporu na účastníkov konania.
+Procesné dokazovanie je definované ako „právom stanovený postup súdu" s cieľom
+konkrétneho rozhodnutia po získaní potrebných a relevantných informácií. Súd môže
+poznačovať skutočnosti priamo i nepriamo. V prípade, že ich poznáva nepriamo, sú podávané
+správy o tejto skutočnosti. Z uvedeného vyplýva, že predmetom dokazovania v civilnom
+procese sú skutočnosti, resp. určité tvrdenia o týchto skutočnostiach, ktoré sú dôležité a
+kľúčové pre rozhodnutie, avšak ich 19charakter bol spochybnený. Účastníci konania sú
+povinní vyvíjať náležitú aktivitu v civilnom procese. Súd má za cieľ zhromaždiť a
+18
+19
+
+Stevček a kol., 2010, s. 344
+STAVINOHOVÁ, J., HLAVSA, P. a kol., 2003, s. 376
+
+24
+
+zosumarizovať všetky poznatky 20na základe ktorých vyrieši otázky týkajúce sa predmetnej
+veci. Ide o intelektuálnu činnosť. Dôkaz je dosiahnutý dôkazným prostriedkom. Je to činiteľ,
+ktorý potvrdzuje, respektíve vyvracia signifikantné tvrdenia navrhovateľa alebo odporcu. Od
+dôkazu je nutné diferencovať námietku i proti dôkaz, ktorý oslabuje dôkaz, čím sa stáva
+prostriedkom pre neuplatnenie normatívnych dôsledkov dovolávaných navrhovateľom.
+Námietka je domáhanie sa účinku právnej normy z pohľadu odporcu 21. Záverom v procese
+poznávania je vyhodnotenie poznačených skutočností a získanie skutkových poznatkov, z
+ktorých súd vyberá tie podstatné pre rozhodnutie v predmetnej veci. Skutkové poznatky,
+ktoré boli uznané za signifikantné sú predmetom skutkového zistenia. Žalobca opisuje
+rozhodujúce skutočnosti, ktoré hodnotí aj žalovaný. Sú to v podstate skutkové tvrdenia ako
+ďalší prostriedok potrebný pre skúmanie súdu za účelom rozhodnutia.
+
+20
+
+FICOVA. S. akol. Občianske právo procesne: základne konanie. 3. vyd. Bratislava: Univerzita Komenského Bratislave, Právnická fakulta.
+Vydavateľské oddelenie, 2008. s. 220
+21
+MAZAK, J. a kol. Základy občianskeho procesného pravá. Bratislava: lura Edition, 2009, s. 4
+
+25
+
+3.DOKAZNE PROSTRIEDKY
+V procesnej praxi a teórii sa často využívajú pojmy "dôkazný prostriedok" a "dôkaz" ako
+synonymá. Dôkazným prostriedkom je možné všeobecne považovať každú skutočnosť, ktorá
+je schopná zistiť skutkový stav veci. V inej odbornej literatúre sa uvádza, že dôkazným
+prostriedkom je určitá 22skutočnosť, prostredníctvom ktorej sa dá zistiť iná skutočnosť,
+tvoriaca predmet dokazovania.
+V Civilnom sporovom poriadku sú dôkazné prostriedky všeobecne upravené v ustanovení §
+187 a osobitne jednotlivo v23 ustanoveniach § 195 a nasledujúcich. Zákonodarca v tomto
+ustanovení uvádza, že za dôkaz možno považovať všetko, čo môže prispieť k náležitému
+objasneniu veci a čo sa získalo zákonným spôsobom, teda dôkaznými prostriedkami.
+Zásada legality dôkazu je zavedená priamo v zákonnej norme formou zákonnosti dôkazu. V
+súvislosti s tým je upozornené na princíp použiteľnosti nezákonného dôkazu, ktorý je
+vyjadrený v článku 16 Civilného sporového poriadku. Tento princíp stanovuje, že súd pri
+prejednávaní a rozhodovaní veci nezohľadňuje skutočnosti a dôkazy, ktoré boli získané v
+rozpore so zákonom. Vykonanie nezákonného dôkazu je prípustné len vtedy, ak je možné ho
+odôvodniť podľa ustanovenia čl. 3 ods. 1, čo znamená, že súd môže vykonať dôkaz získaný v
+rozpore so zákonom, ak je v konkrétnom prípade právo protistrany ústavnokonformne
+posúdené ako silnejšie právo, než porušené právo toho, na koho úkor sa toto právo vykonáva.
+Na tento účel slúži tzv. trojkrokový test proporcionality, pričom treba poznamenať, že pre
+tieto prípady ešte neexistuje jednotný alebo prejudikovaný právny názor.
+Ako dôkazné prostriedky 24môžu slúžiť najmä výsluch svedka, výsluch strany, odborné
+vyjadrenie, znalecké dokazovanie, listina a obhliadka. Pokiaľ spôsob, akým sa dôkaz
+vykonáva, nie je zákonne predpísaný, určuje ho súd.
+22
+
+FICOVA. S. akol. Občianske právo procesne: základne konanie. 3. vyd. Bratislava: Univerzita Komenského Bratislave, Právnická
+fakulta. Vydavateľské oddelenie, 2008. s. 235
+23
+DRAPAL. L BURES. J. Občiansky súdni II: Komentar . I. vyd. Praha: C. H. Beck. 2009. 5. 883
+24
+Porovnaj §187 ods. 2 zákona c. 160/2015 Z. z. Civilný sporový poriadok v znení neskorších predpisov
+
+26
+
+Zákonodarca len demonštratívne uvádza dôkazné prostriedky, pričom ide o najčastejšie
+používané prostriedky. Civilný sporový poriadok nezakazuje predložiť iný druh dôkazného
+prostriedku. To znamená, že sú prípustné aj iné dôkazné prostriedky, než tie, ktoré sú
+explicitne uvedené.
+Dôkazy môžu spĺňať podmienku prospešnosti pre náležité objasnenie veci a môžu byť
+získané legálne. Napríklad môžu ísť o zvukové, obrazové alebo zvukovo-obrazové záznamy a
+podobne. Procesná teória rozlišuje dôkazy podľa vzťahu k dokazovanej skutočnosti na
+priame a nepriame, podľa charakteru vzniku na pôvodné a odvodené, a podľa nositeľa na
+osobné a vecné. V praxi toto triedenie nemá zásadný význam, keďže25 niektoré dôkazy môžu
+priamo potvrdiť alebo vyvrátiť tvrdenú skutočnosť, a iné môžu na základe inej skutočnosti
+potvrdiť alebo vyvrátiť tvrdenú skutočnosť. Mazák v tejto súvislosti zdôrazňuje, že
+„všeobecná definícia dôkazného prostriedku robí nadbytočným triedenie dôkazných
+prostriedkov na iné než priame a nepriame dôkazy." Pre praktický postup súdu je relevantné
+pochopiť, že niektoré dôkazy môžu priamo potvrdiť alebo vyvrátiť tvrdenú skutočnosť, zatiaľ
+čo nepriame dôkazy môžu na základe inej skutočnosti potvrdiť alebo vyvrátiť tvrdenú
+skutočnosť.
+Jedným z príkladov využitia dôkazných prostriedkov môže byť aj rozsudok Najvyššieho súdu
+Slovenskej republiky v oblasti daní. V tomto prípade daňový subjekt preukazuje skutočnosti,
+ktoré ovplyvňujú správne určenie dane a skutočnosti, ktoré je povinný uvádzať v priznaní,
+hlásení a výpočte dane. Môže využiť rôzne prostriedky, ako sú podania daných subjektov,
+svedecké výpovede, znalecké posudky, verejné listiny, protokoly o daňových kontrolách a
+ďalšie. Týmito prostriedkami môže získať dôležité informácie potrebné pre rozhodnutie o
+daňovej povinnosti.
+Civilný mimo sporový poriadok špecificky nereguluje dôkazné prostriedky, s výnimkou
+výsluchu maloletého, čo sa odráža v § 38 Civilného mimo sporového poriadku. Toto
+ustanovenie priamo začleňuje povinnosť vyjadrenú aj v článkoch 12 ods. 1 a 2 Dohovoru o
+právach dieťaťa do Civilného mimo sporového poriadku: „štáty, ktoré sú zmluvnými
+stranami Dohovoru, zabezpečujú dieťaťu, ktoré je schopné formulovať svoje vlastné názory,
+právo tieto názory slobodne vyjadrovať vo všetkých otázkach týkajúcich sa dieťaťa, a
+25
+
+MAZÁK, J. a kol. Základy občianskeho procesného práva. 3. vyd. Bratislava: IURA EDITION. 2007.
+" Rozsudok Najvyššieho súdu Slovenskej republiky, sp. zn. 3 SZ/ 58/2007
+
+27
+
+zohľadňujú jeho názory pri záležitostiach, ktoré ho ovplyvňujú."
+Konkrétnemu subjektu musí byť poskytnutá možnosť slobodne vyjadrovať svoje názory vo
+všetkých záležitostiach, ktoré ho sa týkajú, a to s ohľadom na jeho vek a úroveň rozvoja.
+Zabezpečenie práva na vypočutie maloletého je implementované v právnych predpisoch,
+napríklad v § 43 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov.
+Tento paragraf zabezpečuje, že maloleté dieťa má právo vyjadriť svoj názor vo veciach, ktoré
+sa ho týkajú, a že jeho názor musí byť rešpektovaný s ohľadom na jeho vek a schopnosti
+porozumenia. Okrem vypočutia maloletého je v Civilnom mimo sporovom poriadku kľúčová
+aj povinnosť súdu informovať maloletého o priebehu konania a zisťovať jeho názor, čím sa
+mu zabezpečuje plnohodnotné postavenie v rámci procesných práv a povinností.
+
+3.1Vysluch svedka
+Svedok je fyzická osoba, ktorá má za úlohu vypovedať pred súdom o skutočnostiach, ktoré
+vnímala svojimi 26zmyslami. Táto osoba môže poskytnúť správu o tom, čo a ako konkrétne
+vnímala, a táto svedecká výpoveď je viazaná iba na ňu samu. Svedok môže byť aj zaujatou27
+osobou, čo znamená, že má osobný záujem na výsledku sporu. Civilným sporovým
+28
+
+poriadkom je tento inštitút výpovede svedka podrobne upravený v paragrafoch § 196 až §
+
+203 a v praxi sa považuje za jedného z najčastejšie používaných dôkazných prostriedkov.
+Výsluch svedka je nezastupiteľný dôkazný prostriedok vzhľadom na subjektivitu vnímania
+určitých skutočností vlastnými zmyslami. Svedok, ktorý samostatne vníma dané skutočnosti,
+nemôže byť zastúpený 29iným subjektom, ktorý tieto skutočnosti nevníma sám. Účelom
+svedeckej výpovede je získať komplexné a pravdivé informácie, ktoré prispejú k zisteniu
+stavu veci.
+Súd môže na návrh, s ohľadom na vhodnosť a účelnosť, nanášať výsluch svedka.
+Prejednavací princíp kontradiktórnej povahy sporového konania bol do normatívnej úpravy
+Civilného sporového poriadku integrovaný.
+26
+
+ods. 1,2 Dohovoru o právach dieťaťa. Verejne dostupný na internete, napríklad na
+https://www.unicef.sk/files/dohovor_o_pravach_dictata.pdf [cit. 15.2.2024)
+27
+KOTERCOVA. A. Rekodifikácia civilného procesného práva: Dokazovanie. II. Civilný mimo sporový
+poriadok. In: Bulletin slovenskej advokácie, 2016. rod. XXII, 6. 11/2016, s. 7
+28
+Dôkazne prostriedky v občianskom konaní , sociologického a psychologického pohľadu. Bratislava: Epos, 2006. s. 45
+29
+FICOVÁ, S. a kol. Občianske súdne konanie. Praha: C.H. Beck, 2010. s. 239
+
+28
+
+Strana sporu navrhuje svedka a zabezpečuje jeho účasť na pojednávaní, pričom o tom má
+vopred informovať súd a protistranu. Ak strane nesprávne zabezpečí účasť svedka, môže súd
+požiadať o jeho predvolanie. Každá fyzická osoba predvolaná ako svedok je povinná sa
+dostaviť na pojednávanie a vypovedať. Nepriaznivým dodržaním tejto povinnosti môže byť
+uložené poriadkové opatrenie alebo pokuta.
+Súd rozhoduje o vykonaní výsluchu svedka na základe potreby, a to bez ohľadu na jeho
+prítomnosť na pojednávaní. Súd 30má aj právomoc zamietnuť vykonanie výpovede svedka,
+pričom dôvody zamietnutia sú uvedené v odôvodnení meritórneho rozhodnutia. Protistrane
+musia byť dostatočne včas oznámení navrhovaní svedkovia. Ak protistrana nie je dostatočne
+oboznámená a svedok je prítomný na pojednávaní, súd môže zohľadniť námietku strany z
+dôvodu nedostatku času na prípravu na výsluch svedka písomnej výpovede svedka v
+Civilnom sporovom poriadku je alternatívou k tradičnej ústnej výpovedi. Podľa § 196 ods. 3
+môže súd z dôvodov hospodárnosti uložiť svedkovi, aby odpovedal na otázky písomne.
+Aj pri písomnej výpovedi platí poučovacia povinnosť súdu týkajúca sa pravdy a
+nezamlčiavania, rovnako ako pri klasickej ústnej výpovedi. Svedok je povinný vypovedať
+pravdu a nezatajovať informácie o trestnoprávnych následkoch klamstva svedeckej výpovede
+a o práve odoprieť výpoveď aj pri písomnej svedeckej výpovedi. Tento inštitút sa líši od
+čestného vyhlásenia, ktoré má charakter súkromnej listiny, a nevzťahuje sa naň poučovacia
+povinnosť alebo prípadná hrozba trestnoprávnych následkov za klamstvo výpovede.
+Pri oboch formách výpovede je možné svedkovi priznať náhradu účelne vynaložených
+hotových, preukázaných a uplatnených výdavkov spojených s jeho výsluchom. V prípade
+písomnej svedeckej výpovede môže ísť napríklad o poštovné. Rozhodujúca je iba skutočnosť,
+či svedkovi v súvislosti s nariadeným výsluchom vznikli celkové a preukázateľné náklady,
+bez ohľadu na to, či sa skutočne vypočúva alebo nie.
+Civilný sporový poriadok upravuje postup pred a počas výsluchu svedka. V tomto rámci
+rozlišuje procesná teória dve fázy 31- Štádium ad generalia a Štádium ad specialia. V Štádiu
+
+30
+
+Porovnaj §101 a §102 zákona c 160/2015 Z. z. Civilný sporový poriadok neskorších predpisov
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 744
+31
+STEVECEK M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 951
+
+29
+
+ad generalia alebo všeobecnom výsluchu sud zisťuje svedkovu totožnosť a dôležité údaje
+týkajúce sa jeho vzťahu k stranám. Následne svedka poučí o povinnosti vypovedať pravdu, o
+trestnoprávnych následkoch klamstva a o práve odoprieť výpoveď, aj pri písomnej svedeckej
+výpovedi.
+Aj keď je všeobecnou povinnosťou svedka vypovedať, existujú prípady, kedy môže odoprieť
+výpoveď. Svedok môže odmietnuť vypovedať, ak by jeho výpoveď mohla spôsobiť
+nebezpečenstvo trestného stíhania jemu alebo blízkym osobám. Rovnako môže odoprieť
+výpoveď, ak by tým porušil spovedné tajomstvo alebo tajomstvo informácií, ktoré mu boli
+zverené ako osobe poverenej pastoračnou starostlivosťou.
+V prípade, že svedok odoprie výpoveď, je povinný to bezodkladne oznámiť a odôvodniť. Sud
+posudzuje dôvodnosť takéhoto odopretia a rozhoduje o ďalšom postupe. Dôležité je dodať, že
+svedok je povinný zachovávať mlčanlivosť o údajoch chránených osobitným predpisom
+alebo inou povinnosťou ustanovenou zákonom alebo uznávanou štátom. Ak sa takáto
+povinnosť viaže na svedka, výsluch s ním je možné vykonať len v prípade oslobodenia od
+povinnosti mlčanlivosti príslušným orgánom alebo tým, v koho záujme má táto povinnosť, a
+to na základe rozhodnutia súdu.
+3.2 Výsluch strany
+Výsluch strany je v civilnom sporovom konaní prípustný predovšetkým v prípadoch, kedy
+nie je možné dostatočne preukázať skutočnosti, ktoré sa v konaní predkladajú. Z toho
+môžeme vyvodiť, že výsluch strany slúži v civilnom konaní skôr ako podporný dôkaz, a to s
+ohľadom 32na relatívne uznávanú zásadu v civilnom práve: "nikto sa nepovažuje za
+kompetentného svedka vo vlastnej veci" (nullus idoneus testis in re sua intelligitur). Koho je
+možné považovať za blízku osobu vymedzuje §116 zákona c. 40/1964 Zb. Občiansky
+zákonník v znení neskorších predpisov. Blízkou osobou sa rozumie príbuzný v priamom rade,
+súrodenec a manžel. Iné osoby v rodinnom alebo obdobnom pomere sa pokladajú za osoby
+sebe navzájom blízke, ak by ujmu, ktoru utrpela jedna z nich, druhá dôvodne pociťovala ako
+vlastnú ujmu.
+Výsluch strany môže byť považovaný za dôkaz len v prípade, ak súd, ako procesný nástroj,
+na to nariadi. Táto situácia nastáva, keď strana navrhne výsluch na preukázanie tvrdených
+skutočností, ktoré sa v konaní objavili a nemôžu byť inak preukázané. Strana je následne
+
+32
+
+Porovnaj s §201 ods. 1 zákona 160/2015 Z. z. Civilného sporového poriadku v znení neskorších predpisov
+
+30
+
+povinná prísť na výsluch, pričom súd ju musí poučiť. Treba však zdôrazniť, že stranu
+nemožno nijako nútiť k výpovedi. Nútenie je možné iba pre samotné príchod na súd, buď
+pokutou alebo donútením.
+Nemožnosť donútenia strany k výsluchu potvrdil aj Najvyšší súd Slovenskej republiky, ktorý
+uviedol, že "v 33súvislosti s vykonaním dôkazu výsluchom účastníka poznamenáva, že hoci
+tento dôkazný prostriedok je rovnocenný s ostatnými dôkaznými prostriedkami, k vlastnej
+výpovedi účastníka nemožno nijako donúcať."
+Strana má v konaní povinnosť uviesť podstatné a rozhodujúce skutkové tvrdenia týkajúce sa
+sporu pravdivo a úplne. Následne musí strana pravdivo vypovedať o týchto tvrdeniach
+súvisiacich s predmetom veci. Pri výpovedi strany však nesmie dôjsť k napínaní podstaty
+trestného činu krivej výpovede.
+Priebeh samotného výsluchu strany nie je špecificky upravený a neobsahuje ani odkaz na
+úpravu výsluchu svedka. Postup súdu bude závisieť výlučne od jeho uváženia, pričom
+pravdepodobne prebieha porovnateľným spôsobom ako výsluch svedka. Civilný sporový
+poriadok tiež zaviedol inštitút písomného výsluchu strany, čo znamená, že súd môže
+rozhodnúť, že stačí, ak strana odpovie na otázky týkajúce sa tvrdených skutočností písomne,
+v záujme efektivity konania.
+3.3 Odborne vyjadrenie
+Podľa § 206 Civilného sporového poriadku, ak je potrebné posudzovať skutočnosti, ktoré
+vyžadujú odborné znalosti, súd na návrh môže vyžiadať odborné vyjadrenie od odborne
+spôsobilej osoby. Vzhľadom na novú právnu úpravu platí zásada, že v prípade potreby
+posúdenia skutočností, ktoré vyžadujú odborné znalosti, sa dáva prednosť odbornému
+vyjadreniu odborne spôsobilej osoby. Znalecké dokazovanie je preferované v prípadoch
+zložitých odborných otázok, na ktoré odborné vyjadrenie nie je postačujúce.
+Nakoľko žiadny dôkaz nemá predpísanú zákonnú silu a súd ich hodnotí podľa svojej úvahy,
+odborné vyjadrenie nemôže mať nižšiu dôkaznú silu ako znalecký posudok. Podľa § 127 ods.
+4 Občianskeho súdneho poriadku (OSP) môže súd namiesto znaleckého posudku akceptovať
+33
+
+Uznesenie Najvyššieho súdu Slovenskej republiky, sp. zn. 6 91/2010
+
+31
+
+34
+
+potvrdenie alebo odborné vyjadrenie príslušného orgánu, o ktorého správnosti nepochybuje.
+
+Súd potom zhodnotí správnosť posudku a zváži, či môže odstúpiť od ustanovenia znalca, aj
+keď by inak bolo nutné vykonať dôkaz znaleckým posudkom. Sud pri 35tomto posúdení
+zohľadní okolnosti konkrétneho prípadu, najmä význam skutočnosti, ktorá vyžaduje odborné
+znalosti. Odborné vyjadrenie je v zmysle zákona č. 382/2004 Z. z. o znalcoch, tlmočníkoch a
+prekladateľoch a o zmene a doplnení niektorých zákonov jedným z foriem znaleckého
+dôkazu.
+Z činnosti § 28 z uvedeného môžeme vyvodiť, že odborné vyjadrenie najmä poskytujú znalci
+z príslušného odboru. Avšak podľa vyššie uvedeného zákonného ustanovenia Civilného
+sporového poriadku môže odborné vyjadrenie poskytnúť zásadne ktokoľvek, za predpokladu,
+že má dostatočné odborné znalosti pre kvalifikované odborné vyjadrenie. Posúdenie odbornej
+spôsobilosti takýchto osôb je však ponechané na rozhodnutie súdu.
+Na rozdiel od znaleckého posudku, odborné vyjadrenie nie je špecificky vymedzené v
+požiadavkách, čo sa týka formy alebo obsahu. Môže byť poskytnuté vo forme listiny alebo aj
+v podobe výpovede odborne spôsobilej osoby, ktorá sa zapíše do zápisnice z pojednávania.
+3.4 Znalecké dokazovanie
+Znalecké dokazovanie slúži v záujme efektívnosti konania a znižovania nákladov ako
+sekundárne riešenie. Ak postup podľa § 20636 Civilného sporového poriadku nepostačuje, súd
+na návrh strany rozhodne o znaleckom dokazovaní a mení znalca.
+Súd ustanovuje znalca uznesením, ktoré nie je predmetom odvolania. V tomto uznesení súd
+stanoví otázky, na ktoré má znalec odpovedať. Z dôrazu na princíp kontradiktórnosti a zásady
+dvoch proti sebe stojacich strán je jasné, že súd tak urobí len na návrh strany. Následne sám
+súd rozhodne, či sa tento navrhnutý dôkaz vykoná.
+Znalec je osoba s odbornými znalosťami a praktickými skúsenosťami, ktorá je schopná
+posúdiť určité skutočnosti a vyjadriť výsledok tohto posúdenia v znaleckom posudku.37
+Taktiež môže byť fyzickou alebo právnickou osobou poverenou štátom na vykonávanie
+34
+
+IS HORVATH, E..ANDRASION A. A. Civilný sporový poriadok Komentár. Bratislava & Wolters Kluwer, 2015. 5.457
+FABIANOVA. Z. - FRISTIKOVA. T. Judikatúra vo veciach dokazovania v civilnom konaní. Bratislava: Wolters Kluwer, 2016/174
+§49/160/2015 Z. z. Civilný sporov poriadok v znení neskorších predpisov
+37
+Stanovisko Najvyššieho súdu Českej republiky, sp. zn. Pls 3/1980
+35
+36
+
+32
+
+činnosti, zapísanou v zozname znalcov, tlmočníkov a prekladateľov vedenom Ministerstvom
+spravodlivosti Slovenskej republiky. Aj osoba nezapísaná v zozname môže byť ustanovená
+za znalca v konaní, ak má potrebné predpoklady, súhlasí s ustanovením a v príslušnom
+odbore nemá inú zapísanú osobu alebo súhlasí so zapísanou osobou. Pri výbere znalca súd
+zvažuje rôzne okolnosti vrátane toho, prečo je znalec potrebný, výberu odboru a dostupnosti
+znalca.
+Znalecká Činnosť' je špecializovaná odborná činnosť vykonávaná za podmienok
+ustanovených v tomto zákone znalcami pre zadávateľa. Úkonmi znaleckej činnosti sú najmä
+znalecky posudok a jeho doplnenie, odborné stanovisko alebo potvrdenie a odborné
+vyjadrenie a vysvetlenie.
+Znalec musí byť nezaujatý, a pri ustanovení znalca sa primerane použijú ustanovenia
+Civilného sporového poriadku o vylúčení sudcov. Súd vyberá znalca zo zoznamu znalcov
+vedúceho Ministerstvo 38spravodlivosti Slovenskej republiky. Voľba vhodného odboru je na
+uvážení súdu, no pri ustanovení znalca sa musí zohľadniť aj stupeň odborov osti potrebný na
+posúdenie daných skutočností.
+Súd musí pred ustanovením znalca posúdiť a prípadne prerokovať s ním stupeň náročnosti
+posudku z hľadiska výberu znalca s potrebnou kvalifikáciou. To zabraňuje tomu, aby bol
+znalec s nižšou alebo vyššou kvalifikáciou, než je potrebné pre konkrétnu skutočnosť. Ak by
+súdy ustanovili znalca bez zohľadnenia náročnosti posudku z hľadiska kvalifikácie, mohlo by
+to vyvolávať pochybnosti o správnosti znaleckého posudku.
+Znalec v písomnom znaleckom posudku nevyjadruje právne posúdenie veci, ale odpovedá na
+položené otázky. Dôležitá je jasná a určitá formulácia úlohy od súdu. Znalec nemôže
+bezdôvodne odmietnuť vykonať úkon znaleckej činnosti, a odmietnutie musí byť odôvodnené
+zaujatosťou, vážnymi zdravotnými, pracovnými, rodinnými alebo inými vážnymi dôvodmi,
+ktoré znalca oprávňujú odmietnuť úkon.
+Súd spolu s zadaním úkonu určí znalcovi aj lehotu na vypracovanie posudku. Konajúci súd je
+povinný zabezpečiť všetky potrebné dôkazy a prijať opatrenia na zabezpečenie dôkazných
+prostriedkov nevyhnutných pre rozhodnutie vo veci. Ak súd neurčil konkrétnu lehotu na
+
+38
+
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 766
+
+33
+
+vypracovanie39 znaleckého posudku a nevyužil zákonné opatrenia na vykonanie týchto
+krokov, môže to spôsobiť zbytočné zdržania v súdnom konaní.
+Znalca môže menšieho pojednávania sa zúčastniť, kde môže obhajovať svoj posudok,
+kladením otázok stranám, svedkom a tretím osobám. Súd môže uložiť strane alebo inej
+osobe, aby sa dostavila k znalcovi, predložila mu veci, podrobila sa lekárskemu vyšetreniu
+alebo vykonala iné potrebné úkony v súvislosti so znaleckým dokazovaním.
+Čo sa týka vykonania znaleckého posudku, Civilný sporový poriadok umožňuje písomný
+alebo ústny znalecký posudok, pričom súdna prax preferuje písomný znalecký posudok. Súd
+určuje40 formu znaleckého posudku, ale nie je vylúčený ani výsluch znalca po vypracovaní
+písomného posudku v prípade nejasností alebo rozporov. Pripúšťa aj súkromný znalecký
+posudok, ktorý strana predkladá bez nariadenia súdu.
+Všeobecné náležitosti znaleckého posudku stanovuje zákon č. 382/2004 Z. z. o znalcoch,
+tlmočníkoch a prekladateľoch a o zmene a doplnení niektorých zákonov. Znalecký posudok
+by mal obsahovať titulnú stranu, úvod, posudok, záver, prílohy na zabezpečenie prehľadnosti
+a znaleckú doložku. Osobitnou náležitosťou súkromného znaleckého posudku je dolozka o
+vedomí následkov vedome nepravdivého znaleckého posudku.
+3.5 Listinný dôkaz
+Listina ako dôkazný prostriedok v civilnom procese je správa v písomnej jazykovej forme,
+zaznamenaná na hmotnom podklade, ako napríklad papier, pergamen alebo látka, ktorú
+možno predložiť súdu.41 Listiny sú často najčastejšie navrhovaným dôkazným prostriedkom
+v civilnom procese. Aj keď sa zákonné ustanovenie týka dôkazu listinou, je potrebné ho
+vykladať v súvislosti so § 132 ods. 3 Civilného sporového poriadku, ktorý sa vzťahuje na
+písomnosti. Relevantná písomnosť musí byť trvalá, mať písomnú formu a autenticitu, čo
+znamená, že ju možno pripísať konkrétnemu subjektu.
+Pri listine ide o písomnosť na hmotnom podklade, ktorý umožňuje jej predloženie súdu. Na
+základe toho sa dá usúdiť, že § 204 Civilného sporového poriadku, ktorý upravuje dôkaz
+
+39
+
+Nalez. Ústavného súdu Slovenskej republiky I. ÚS 53/1998
+Pozri §210 zákona c. 160/2015 Z. z. Civilný sporový poriadok v znení neskorších predpisov
+41
+FICOVA, S. a kol. Občianske súdne konanie. Praha: C.H. Beck, 2010. s. 244
+40
+
+34
+
+listinou, nepripúšťa také listiny, 42ktoré nie sú písomnosťami, ako napríklad fotografie.
+Taktiež sa nevzťahuje na listiny, ktoré nie je možné súdu predložiť, napríklad nápis na stene
+budovy.
+Rozlišovanie listín na verejné a súkromné je dôležité pre súdnu prax. Verejná listina je
+vydaná orgánom verejnej43 moci v rámci jeho pôsobnosti a má prezumpciu správnosti
+obsahu. Ak strana chce spochybniť jej obsah, nesie dôkazné bremeno. Súkromné listiny sú
+všetky ostatné listiny, ktoré nie sú verejné, a ich hodnotenie podlieha princípu voľného
+hodnotenia dôkazov. Strana, ktorá predkladá súkromnú listinu ako dôkaz, nesie44 dôkazné
+bremeno týkajúce sa jej autenticity a správnosti obsahu.
+Vykonávanie listinného dôkazu spočíva v prečítaní listiny, jej časti alebo len oznámení jej
+obsahu súdom, ak by obsiahlosť listiny vyžadovala neprimerane dlhý čas na vykonanie
+prečítania. To umožňuje súdu efektívne vyhodnotiť obsah listiny bez neprimeraného
+časového oneskorenia v súdnom konaní.
+V Civilnom sporovom poriadku chýba ustanovenie, ktoré by ukladalo súdu povinnosť
+vyžadovať originál listiny ako dôkaz. Súd v praxi prijíma aj kópiu listiny, a nie je preto
+možné tvrdiť, že napríklad kópia dokladu nemôže byť listinným dôkazom. Samotná
+skutočnosť, či ide o originál alebo kópiu listiny, nie je rozhodujúca pre jej schopnosť byť
+dôkazným prostriedkom.
+Aj fotokópia listiny sa považuje za spôsobilú byť akceptovanou ako dôkaz v zmysle zákonov.
+Obecný súdny poriadok nevyžaduje od súdu povinnosť vyžadovať dokaz len v podobe
+originálu listiny. Dôležité je rozlišovať medzi schopnosťou listiny byť dôkazom a spôsobom,
+akým súd konkrétny dôkaz hodnotí v rámci jeho pravosti a pravdivosti.
+Súd hodnotí dôkazy, vrátane fotokópie listiny, v rámci svojej činnosti, pri ktorej zvažuje
+pravdivosť a pravdivosť listiny. Proces vykonania dôkazu fotokópiou listiny sa riadi
+pravidlami a zásadami ustanovenými v Obecnom súdnom poriadku. Povinnosť predložiť
+listinu súdu môže byť uložená strane alebo aj tretej osobe, a táto povinnosť je jasne upravená
+v ustanovení § 189 Civilného sporového poriadku.
+
+42
+
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 752
+STEVECEK, M. a kol. Civilné právo procesné. Bratislava: EUROKODEX, 2010. s. 351
+44
+Rozsudok Najvyššieho súdu Slovenskej republiky, sp. zn. 2Cdo 199/2005
+43
+
+35
+
+3.6 Obhliadka
+Veci, ktoré je možné dopraviť na súd, sa obhliadajú počas pojednávania. Ak vec nemôže byť
+dopravená na súd, vykonáva45 sa obhliadka na mieste. Súd predvolá tých, ktorí majú byť
+prítomní pri obhliadke veci, rovnako ako pri pojednávaní. Osoby, ktoré vlastnia vec, ktorá
+bude predmetom obhliadky, sú povinné ju na výzvu súdu predložiť alebo umožniť prístup k
+nej. V 46prípade, že nevyhovie výzve súdu, súd ich môže upozorniť na to, že im môže byť
+uvalená poriadková pokuta.
+Obhliadka predstavuje spôsob získavania informácií súdom priamo o veci, a to pomocou
+zmyslov. Podľa ustanovení Civilného sporového poriadku a v súvislosti s § 119 ods. 1
+Občianskeho zákonníka sú predmetom 47obhliadky len hmotné veci a ľudské telo. Obhliadka
+ľudského tela je možná len za podmienky, že sa nezasahuje do fyzickej integrity osoby, na
+ktorej má byť vykonaná. Obhliadka môže siahnuť len na tie časti tela, ktoré nie sú bežne
+zakryté oblečením. V ostatných prípadoch musí byť vykonaná znalcom.
+Spôsob vykonania obhliadky závisí48 od predmetu obhliadky. Výsledky sa zaznamenávajú
+technickým zariadením na zvuk alebo vytváraním zápisnice. Vec, ktorá je predmetom
+obhliadky, môže byť ponechaná na súde ako súčasť spisu, ak to povaha veci dovoľuje, alebo
+môže byť pripojená fotodokumentácia alebo videozáznam.
+Predmet obhliadky, ktorý možno doviezť na súd, bude podrobený vykonaniu obhliadky
+priamo na pojednávaní. Ak to povaha veci neumožňuje, môže byť vec ponechaná na súde až
+do skončenia konania. 49Obhliadka veci, ktorú nie je možné dopraviť na súd, sa vykonáva na
+mieste mimo pojednávania, najmä v prípade objemných alebo ťažkých vecí a nehnuteľností.
+Povinnosti týkajúce sa predloženia určitej veci môže ukladať len súd, a nie znalec. Svedkovia
+majú nárok na náhradu hotových výdavkov za rovnakých podmienok ako pri obhliadke.
+
+45
+
+Porovnaj s STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 753
+Uznesenie Najvyššieho súdu Slovenskej republiky, sp. zn. 3 61/2009
+47
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016, s. 784
+48
+HANDL, V., RUBES, J. Občiansky súdni Komentar. 1. dil. Praha: Panorama, 1985. s. 603
+49
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck. 2016. s. 785
+46
+
+36
+
+4.HODNOTENIE DOKAZOV
+4.1Princíp voľného hodnotenia dôkazov
+V dnešnom civilnom procese sa uplatňuje zásada voľného hodnotenia dôkazov, ktorá súdu
+umožňuje, aby hodnotil dôkazy na základe vlastného slobodného uváženia a neurčuje,50 ktoré
+dôkazy majú akú právnu silu. Opak tejto zásady by súdu predpisoval, aký dôkaz ma akú
+právnu silu, ktoré dôkazy musí vykonať' aj napriek jeho opačnému, vnútornému
+presvedčeniu.
+Zásada voľného hodnotenia dôkazov umožňuje súdu na základe vlastného slobodného
+uváženia rozhodnúť, či je dané skutkové tvrdenie dokázané. Toto hodnotenie však nie je
+bezohľadné a súd musí v odôvodnení rozhodnutia uviesť veci presvedčivo, logicky a bez
+rozporov. Súdu je udelená sloboda vo výbere, aké dôkazné prostriedky pripustí, zopakuje,
+doplní alebo odmietne z dôvodu ich nepotrebnosti, nevhodnosti alebo bezvýznamnosti. Táto
+zásada sa uplatňuje po vykonaní dôkazov a súd môže rozhodnúť,51 či sú vykonané dôkazy
+dostatočné na skutkové objasnenie. Existujú však zákonné výnimky, napríklad v prípade
+prejudiciálnosti v civilnom procese, kde súd môže byť limitovaný rozhodnutiami iných
+orgánov týkajúcich sa trestných činov, priestupkov, správnych deliktov, alebo osobného
+stavu a vzniku a zániku spoločnosti.
+Princíp voľného hodnotenia dôkazov predstavuje jednu z foriem praktickej realizácie
+nezávislosti súdnictva. Hoci sudca nie je pri hodnotení dôkazov viazaný konkrétnymi
+pravidlami, to neznamená svojvôľu. Výrok súdu v danej veci musí byť opodstatnený
+logickými argumentmi, ktoré sú vyjadrené aj v odôvodnení rozsudku. Práve odôvodnenie
+rozsudku je kľúčové pre možnosť kontroly rozhodnutia súdu z hľadiska jeho správnosti.
+Podľa nemeckého ZPO je hodnotenie 52dôkazov tiež voľné. Nie je však jediným
+prostriedkom, ktorý vytvára presvedčenie súdu o pravdivosti alebo nepravdivosti skutkových
+tvrdení. § 286 ZPO stanovuje, že podkladom sudcovského presvedčenia je celé konanie a
+prípadné dokazovanie. Teda súd sa môže presvedčiť aj bez dokazovania. Ustanovenie § 286
+nariaďuje voľné posúdenie skutkových tvrdení a nie - ako je často uvádzané - voľné
+hodnotenie dôkazov. Súd je oprávnený a zároveň povinný zohľadňovať celé konanie; pretože
+50
+51
+52
+
+Lavicky, P. Dúkazni bremeno v civilnim fizeni soudnim. Praha: Leges, 2017, s. 21-22.
+" Pozri § 135 z. C. 160/2015 Z.2. Civilný sporový poriadok v znení neskorších predpisov
+JAUERNIG, O.: Zivilprozessrecht [Obiasnke právo procesné). München : C.H.Beck, 2003, s. 203
+
+37
+
+aj zo správania účastníkov počas konania možno vyvodiť závery, napríklad či berú vážne
+povinnosť uvádzať pravdu. Dôvody presvedčenia musia byť uvedené v rozsudku, pretože
+voľné hodnotenie skutkových tvrdení neznamená svojvôľu alebo rozhodovanie na základe
+subjektívneho pocitu.
+Princíp voľného hodnotenia dôkazov sa opiera o niekoľko zásad, vrátane oprávnenia súdu
+rozhodovať o tom, ktoré z dôkazných prostriedkov vykoná a ktoré nevykoná, možnosti
+súdu53 dopĺňať dokazovanie na základe návrhov účastníkov, povinnosti súdu vyhodnotiť
+všetky vykonané dôkazy bez zreteľa na to, či potvrdzujú alebo vyvracajú tvrdenia účastníkov,
+a zásady formálnej logiky.
+Princíp voľného hodnotenia dôkazov má svoje obmedzenia v prípadoch, kde súd nie je
+oprávnený vykonávať dokazovanie o určitých skutočnostiach, ale je viazaný rozhodnutiami
+ústavnoprávnej, trestnoprávnej, občianskoprávnej, administratívno-správnej povahy.54
+Ustanovenie § 135 ods. 1 OSR/OSP taxatívnym spôsobom upravuje prípady, v ktorých je súd
+viazaný rozhodnutiami iných vnútroštátnych i medzinárodných súdnych orgánov.
+V nemeckom súdnom poriadku k prelomeniu zásady voľného hodnotenia skutkových tvrdení
+dochádza v prípadoch, kde je medzi stranami sporné, či vznikla škoda a v akej výške. Súd
+potom rozhoduje o vzniku škody a jej výške podľa svojho voľného odhadu bez dodatočného
+dokazovania, avšak za predpokladu, že strana zaobstará súdu dostatočné skutkové podklady
+pre vykonanie tohto odhadu. Súd môže na návrh strany alebo z úradnej povinnosti nariadiť
+znalecké dokazovanie.
+4.2 Hodnotenie dôkazov súdom
+Súd hodnotí dôkazy podľa svojho uváženia, posudzuje každý dôkaz individuálne a v ich
+vzájomnej súvislosti. Pri tomto hodnotení súdu neexistuje obmedzenie zo strany právnych
+predpisov v tom, ako má z hľadiska pravdivosti daný dôkaz vyhodnotiť. Uplatňuje sa zásada
+voľného hodnotenia dôkazov, ktorá mu poskytuje slobodu pri hodnotení pravdivosti a
+dôležitosti dôkazov pre rozhodnutie. Rozhodnutie súdu, postavené na nesprávnom
+vyhodnotení dôkazov, môže byť nesprávne, ale to samo osebe nezakladá prípustnosť
+53
+
+MAZÁK, J.: Základy občianskeho procesného práva. Bratislava: IURA EDITION, 2002, s. 252
+Podlá § 287 ods. 1, veta prvá a druhá ZPO, ak je medzi stranami sporné, ci vznikla škoda a aká je vysoká škoda alebo záujem, ktorí sa má
+nahradiť, tak súd o tomto rozhodne podlá voľného presvedčenia pri uvážení vetchých okolností. Čí a do akej miery sa nariadi navrhované
+dokazovanie alebo dokazovanie z úradnej povinnosti prostredníctvom znaleckého posudku, zostáva na uvážení súdu.
+54
+
+38
+
+dovolania podľa zákona. Účastník konania nemá právo vyjadrovať sa k spôsobu hodnotenia
+jeho navrhnutých dôkazov súdom, a nesprávne hodnotenie dôkazov nie je dôvodom na
+prípustnosť dovolania.
+Hodnotenie dôkazov je akoby záverečnou fázou dokazovania, kde je skutkový stav ustálený a
+predstavuje základný pilier pre meritórne rozhodnutie súdu. Predchádzajúce fázy, spojené s
+navrhovaním, získavaním a vykonávaním dôkazných prostriedkov, sa týkali získavania
+informácií o skutkových okolnostiach, no nerozhodovali o ich závažnosti a relevancii. Súd
+môže takéto posúdenie vykonať aj v predbežnom rozhodnutí, v ktorom určí potrebu
+vykonania ďalších dôkazov. Hodnotenie môžeme považovať za kľúčovú 55časť dokazovania,
+pretože súd aktívne skúma jednotlivé dôkazné prostriedky na základe ktorých rozhodne. Bez
+praktických skúseností by hodnotenie dôkazov mohlo byť náročné a neúmerné, ako
+naznačujú niektoré dlhotrvajúce súdne procesy.
+Dôkazné prostriedky sú posudzované nielen z hľadiska ich kvality v kontexte relevantnosti
+alebo irelevantnosti, ale aj z pohľadu ich kvantity. Môžu byť bezvýznamné, menej významné
+alebo významné pre zistenie skutočností a rozhodnutie súdu. Súd musí dôkazy uchovávať pre
+prípadné ďalšie posúdenie skutočností iným súdom, pričom sa určuje aj ich významnosť resp.
+bezvýznamnosť vo vzťahu k prejedávanej veci.
+Podľa Rozhodnutia Najvyššieho súdu Slovenskej56 republiky z roku 2011 nemá súd žiadne
+právne obmedzenia pri hodnotení dôkazov, čo sme už vyššie zdôraznili. Súd okrem
+relevantnosti dôkazného prostriedku zohľadňuje aj jeho prípadný rozpor s odborným
+posudkom, pričom v prípade odlišného stanoviska súd musí toto rozhodnutie riadne
+odôvodniť.
+Súd hodnotí dôkazy vždy individuálne, vyplýva to z osobitosti prípadu a povahy konania, kde
+sú objasňované jednotlivé súvislosti vo vzťahu k skutočnosti. Rozhodnutie súdu, aj napriek
+určitej "voľnosti", nemôže byť svojvoľné a musí byť podložené dôkaznými prostriedkami. V
+tomto prípade musíme zdôrazniť predovšetkým nezávislosť súdu, pričom na druhej strane
+
+55
+56
+
+Rozhodnutie Najvyššieho sudu Slovenskej republiky, sp. zn. 3 204/2009 zo dňa 14. septembra 2011
+"Rozhodnutie Najvyššieho súdu Slovenskej republiky, sp. zn. 3 211/2006 zo dňa 29. aprila 2008
+
+39
+
+žiaden z dôkazných prostriedkov nemá predpísanú právnu silu a významnosť, a preto je
+dôkazom pripisovaný zo strany súdu na základe jeho uváženia.
+Dôkazy sú hodnotené až po ich selekcii57 z hľadiska ich významnosti vo veci prejednávaného
+prípadu. Skutkové zistenia súdu sú výsledkom tejto selekcie významných dôkazov.
+V závere procesu posudzovania dôkazov dôjde k vylúčeniu tých, ktoré boli označené za
+bezvýznamné alebo nezákonné, pričom bolo uplatnené hľadisko pravdivosti. Toto záverečné
+hodnotenie je kľúčové pre rozhodnutie, pretože na základe dôkazov je možné určiť, čo bolo v
+konaní pravdivé a čo nepravdivé, respektíve dokázané či nedokázané.
+Aj keď súd hodnotí dôkazy na základe voľného hodnotenia, je obmedzený určitými
+skutočnosťami, ktorých cieľom je zabrániť svojvoľnému chápaniu danej zásady. Ide o tri
+vymedzené skutočnosti, a to skutočnosť, pre ktorú existuje v zákone ustanovená domnienka,
+ktorá pripúšťa dôkaz opaku, ak sa nepreukázal opak. Ďalej je to skutočnosť, že niektoré
+listiny sú významné z toho dôvodu, že sú vydané buď súdmi Slovenskej republiky, alebo
+inými štátnymi orgánmi, ako aj listiny vytvorené na základe osobitných predpisov, ktoré boli
+vyhlásené za verejné a potvrdzujú nariadenie alebo vyhlásenie orgánu, ktorý listinu vydal, ak
+nie je dokázaný opak, alebo pravdivosť toho, čo je v listine osvedčované alebo potvrdené.
+Súd je ďalej viazaný rozhodnutím Ústavného súdu Slovenskej republiky, ktorý ustanovil, že
+určitý právny predpis je v rozpore s Ústavou Slovenskej republiky, prípadne tiež s
+medzinárodnou zmluvou, ktorou je58 Slovenská republika viazaná. Ďalej je súd viazaný tiež
+rozhodnutím Európskeho súdu pre ľudské práva, ktoré sa priamo týka ľudských práv a
+slobôd. Súd ďalej musí prihliadať aj na rozhodnutia príslušných orgánov, ktoré potvrdzujú
+spáchanie trestného činu, priestupku alebo iného správneho deliktu. Súd je tiež viazaný
+rozhodnutím o osobnom stave a musí dbať aj na to, ak bolo rozhodnuté vo veci vzniku alebo
+zániku spoločnosti. Tieto väzby, ktoré sú spojené s taxatívne vymedzenými rozhodnutiami,
+nájdeme tiež v ustanovení § 193 Civilného sporového poriadku.
+Záverečné hodnotenie dôkazov je v niektorých prípadoch zamieňané s takzvaným
+priebežným hodnotením dôkazov, ktoré má výrazne odlišný charakter. Priebežné hodnotenie
+
+57
+58
+
+Zákon C. 161/2015 Zz. Civilný mimo sporový poriadok, §37
+Zákon C. 160/2015 Z.z. Civilný sporový poriadok, §193
+
+40
+
+je možné vykonávať v priebehu celého konania v porovnaní so záverečným hodnotením,
+ktoré je vykonávané tesne pred dokončením posudzovania skutočností.
+V prípade, že sa vrátime k otázke rozhodovania odvolacích súdov, môžeme konštatovať, že
+tento súd nie je viazaný skutkovým stavom 59zisteným prvostupňovým súdom a môže prijať
+odlišné rozhodnutie vzhľadom na odlišné zhodnotenie skutočností. Posúdenie dôkazov by
+však malo byť relatívne podobné, iné posúdenie je akceptovateľné len v prípade, že by bol
+dôkaz vykonaný znovu, a to odvolacím súdom. Pred rozhodnutím súd musí60 zohľadniť
+všetko, čo sa objavilo v konaní. Pri sporných konaniach je dôležité uplatnenie zásady
+koncentrácie konania, kedy súd prihliada na skutočnosti a dôkazy, ktoré sa objavili pred
+koncentráciou konania. Hodnotenie dôkazov sa vyznačuje osobitosťami spojenými s
+predbežnými otázkami, ktoré sú právnymi otázkami nevyhnutnými pre rozhodnutie súdu.
+Právne otázky tohto druhu nie sú súčasťou civilného konania, ale súd musí na ne prihliadať
+na základe ustanovení Civilného sporového poriadku. V prípade, že orgán verejnej moci ešte
+nevydal rozhodnutie, súd musí poskytnúť podnet na rozhodnutie. Celkové dokazovanie súd
+zdôvodní v rozhodnutí, uvedie, ktoré dôkazy boli vykonané a aké z nich boli považované za
+významné a ako ich súd posúdil. Taktiež súd uvádza, ktoré dôkazy nevykonal, čo musí
+odôvodniť v súlade s ustanovením §220 Civilného sporového poriadku. Známe skutočnosti,
+nazývané aj notorietami, ktoré sú spojené so 61všeobecne známymi skutočnosťami, sú
+uvedené v rozsudku na základe ustanovenia §186 Civilného sporového poriadku.
+Pri posudzovaní dôkazov, ako posledného štádia dokazovania, sa uplatňuje princíp voľného
+hodnotenia dôkazov, ktorý je základným princípom ustanoveným v článku 15 Civilného
+sporového poriadku. Tento princíp má významný vplyv na proces dokazovania a samotné
+hodnotenie dôkazov. Jeho zmyslom je posúdiť, akú hodnotu má daný dôkaz v konaní a
+vyvodzované závery sú plne v právomoci súdu. Súd hodnotí vykonané dôkazy, procesné
+kroky a faktické tvrdenia strán voľnou úvahou, pričom je obmedzený 62iba ústavnoprávnymi
+rámci. Súd uváži, či konkrétny dôkaz dostatočne a uspokojivo preukázal zisťovanú
+skutočnosť.
+
+59
+
+»Rozhodnutie Najvyššieho súdu Českej republiky, sp. zn. 23 3345/2009 zo dňa 15.12.2009
+" Zákon C. 160/2015 Z.z. Civilný sporový poriadok, 8220
+61
+MAZÁK, J., JÁNOSIKOVÁ, M., Učebnica občianskeho procesného práva 1 zväzok. Bratislava: IURIS
+LIBRI, spol. s r.o. 2012. 8. 329
+62
+STEVCEK, M., FICOVA, S. a kol., Občiansky súdny poriadok. I. diel. Komentár. 2. vyd. Praha: C.H.
+Beck, 2012. s. 469
+60
+
+41
+
+Tento princíp je ďalej upresnený v § 191 Civilného sporového poriadku, kde sa hovorí, že
+súd hodnotí dôkazy podľa svojej úvahy, a to každý dôkaz individuálne a v ich vzájomnej
+súvislosti, pričom starostlivo zohľadňuje všetko, čo sa objavilo počas konania. Taktiež sa
+uvádza, že „vierohodnosť každého vykonaného dôkazu môže byť spochybnená, ak zákon
+neustanovuje inak." Z týchto ustanovení vyplýva, že pri hodnotení dôkazov súdu nesmie
+dominovať ľubovôľa, ale musí byť aplikovaná určitá hodnotiaca váha, ktorá musí
+rešpektovať zásady formálnej logiky a nesmie byť v rozpore s prirazenými zákonmi, pričom
+musí byť preskúmateľná v inštanciách postupu.
+Súd v odôvodnení rozsudku uvádza jednotlivé dôkazné prostriedky a ich hodnotenie, zároveň
+vysvetľuje posúdenie63 skutkových tvrdení strán a právne argumenty predložené stranami na
+ich podporu. V odôvodnení rozsudku musí súd jasne uviesť, ktoré skutočnosti považuje za
+preukázané a ktoré nie, popísať vykonané dôkazy a spôsob ich vyhodnotenia. Súd tiež musí
+zrozumiteľne a presvedčivo vysvetliť, prečo nevykonal ďalšie navrhnuté dôkazy a ako právne
+posúdil vec.
+Civilný sporový poriadok stanovuje, že v konaní sa nedokazujú zjednotené tvrdenia strán ani
+také, pri ktorých nie je pochybnosť o ich hodnovernosti. V civilnom mimo sporovom konaní,
+riadenom princípom materiálnej pravdy, je súd povinný zistiť skutočný stav veci. Tento
+prístup odráža aj spôsob dokazovania, kde súd nie je obmedzený iba dôkazmi účastníkov
+konania, ale dominuje vyšetrovací princíp. To však nevylučuje možnosť, aby sa súd spoliehal
+aj na zjednotené skutkové tvrdenia účastníkov, ak nemá pochybnosti o ich pravosti a ak nie
+sú v rozpore s vykonaným dokazovaním.
+Hodnotenie dôkazov je činnosťou súdu, pri ktorej sú vykonané procesné dôkazy hodnotené z
+hľadiska ich pravdivosti, zákonnosti a dôležitosti pre rozhodnutie. Hodnotenie pravdivosti má
+pred ostatnými kritériami prednosť. Ustanovenie § 191 Civilného sporového poriadku (CSP)
+stanovuje, že súd má právo hodnotiť dôkazy a individuálne hodnotiť každý dôkaz a všetky
+dôkazy v ich vzájomnej súvislosti. Toto ustanovenie v podstate rozvíja princíp voľného
+hodnotenia dôkazov a materiálneho vedenia sporu, pričom dopĺňa koncepciu silného súdu.
+
+63
+
+Porovnaj s §220 zákona c. 160/2015 Z. z. Civilný sporový poriadok v znení neskorších predpisov.
+Porovnaj s §37 zákona c. 161/2015 Z. z. Civilný mimo sporový poriadok v znení neskorších predpisov
+
+42
+
+Voľné hodnotenie dôkazov zahŕňa dve64 dimenzie. Prvý rozmer sa týka skutočnosti, že
+hodnotenie dôkazov je vykonané súdom na základe jeho úvahy a musí byť v súlade s
+princípmi, na ktorých stojí právny systém. Druhý rozmer spočíva v materiálnom vedení
+sporu, ktoré umožňuje súdu aktívne získavať a vyhodnocovať dôkazy. Celkovo platí, že súd
+má v tejto oblasti široké právomoci na hodnotenie dôkazov v súlade s princípmi právneho
+systému.
+Avšak hodnotenie dôkazov sporovou stranou nemožno vylúčiť. Záverečná reč sporovej
+strany jej umožňuje vyjadriť sa k vykonanému dokazovaniu a k príčetnej stránke veci.
+Sporová strana by sa mala v záverečnej reči sústrediť na hodnotenie skutočností svedčiacich
+v jej prospech, ktoré by boli pre ňu výhodné, ak by ich súd zohľadnil pri rozhodovaní.
+Záverečná reč je oprávnením, nie povinnosťou sporovej strany, a preto ju nemožno nijakým
+spôsobom donútiť k jej uskutočneniu.
+Voľné hodnotenie dôkazov vychádza zo subjektívnej teórie miery dôkazov, ktorá je
+kľúčovým kritériom vnútorného a osobného presvedčenia sudcu, pričom je nevyhnutné, aby
+bol vnútorne presvedčený o pravde skutkového tvrdenia. Subjektívna teória miery dôkazov sa
+nazýva aj teóriou presvedčenia o pravde. Avšak čisto v nejakej podobe sa neprejavuje,
+pretože by viedla k svojvôle súdu pri rozhodovaní. Subjektívna teória miery dôkazu je
+obmedzená objektívnymi prvkami, pričom sa kladie dôraz na vnútorné presvedčenie súdu o
+pravde, ale skutočnosť musí byť dostatočne pravdepodobná, aby o nej žiadny rozumný a so
+životnými podmienkami dobre oboznámený človek nepochyboval.
+Objektivizácia subjektívneho presvedčenia 65súdu musí byť v súlade s prírodnými zákonmi,
+pravidlami logického myslenia, skúsenostnými poznatkami, ústavnými princípmi a princípmi
+článkov 1 až 17 Civilného sporového poriadku a musí byť skúmateľná v inštanciách postupu.
+Voľné hodnotenie dôkazov stanovuje požiadavku, podľa ktorej je súd povinný vyhodnocovať
+všetky vykonané dôkazy bez ohľadu na to, či skutkové tvrdenie strany nimi potvrdzuje alebo
+vyvracia. Súd tiež musí brať do úvahy všetky dôkazy a v prípade, ak navrhnutý dôkaz
+nevykonal, je povinný to zdôvodniť v odôvodnení rozhodnutia. Je považované za
+
+64
+
+Stevcek, M. a kol. Civilné právo procesné. Úvod do civilného procesu a sporové konanie.
+Praha: C. H. Beck,2022, s. 314,
+65
+Lavicky, P. Dukazni bremeno v civilnim konani soudnim. Praha: Leges, 2017, s.25-26.
+
+43
+
+neprijateľné, ak súd eklekticky a neopodstatnene vyberá dôkazy smerujúce k jednostrannému
+záveru.
+Predbežné hodnotenie dôkazov vedie k predbežnému právnemu posúdeniu veci, čo má za
+následok stanovenie, ktoré z navrhovaných dôkazov súd ešte vykoná a ktoré nevykoná. Je
+však dôležité poznamenať, že predbežné hodnotenie dôkazov nie je to isté ako hodnotenie
+dôkazov podľa § 191 Civilného sporového poriadku (CSP). Súd pristupuje k hodnoteniu
+dôkazov v zmysle § 191 až následne po vydaní uznesenia.
+Súd svojím hodnotením dôkazov dospieva k 66záveru, ktorý tvorí súčasť odôvodnenia
+rozsudku alebo meritórneho uznesenia, napríklad v prípade exekučného konania. Samotné
+hodnotenie dôkazov prebieha tak, že súd izolovane posudzuje každý dôkaz a následne ich
+hodnotí vo vzájomnej súvislosti. Izolované hodnotenie prebieha v prvom rade tak, že sa
+zhodnotí dôležitosť dôkazu súvisiacej s preukázaním rozhodujúcich skutočností. Ďalej súd
+hodnotí zákonnosť dôkazu, čo znamená posúdenie, či ide o zákonný dôkaz, a ak nie, či je
+nezákonne získaný dôkaz prípustný. Posledné izolované hodnotenie dôkazu sa zaoberá jeho
+pravdivosťou alebo pravdepodobnosťou jeho pravdivosti.
+Akonáhle súd zhodnotí pravdivosť dôkazu, prichádza na rad hodnotenie vo vzájomnej
+súvislosti, ktoré zahrňuje hodnotenie v rámci skutkových tvrdení a s inými dôkazmi. Treba
+však zdôrazniť, že hodnotenie dôkazov je uskutočňované priamo, s výnimkou
+bezprostredného hodnotenia znaleckého posudku a odborného vyjadrenia, keďže súd nemá
+dostatok odborných vedomostí z daného odboru. V týchto prípadoch súd hodnotí odbornú
+spôsobilosť znalca a jeho vierohodnosť.
+Metóda hodnotenia svedeckých výpovedí známa ako doktrína RAVEN sa zakladá na
+akronymu. Súd najprv posudzuje reputáciu svedka, následne mieru jeho schopnosti
+zmyslového vnímania, prípadný osobný záujem na výsledku sporu, odborné znalosti v
+prípade vypovedania odborníka a nakoniec jeho emocionálnu neutralitu k veci alebo stranám.
+
+66
+
+1 Stevcek, M. a kol. Civilné právo procesné. Úvod do civilného procesu a sporové konanie.
+Praha: C. H. Beck, 2022, s.314-316.
+
+44
+
+Súd hodnotí obdobne aj výpoveď strany. Avšak súd berie do úvahy skutočnosť, že strana
+nemá povinnosť hovoriť pravdu a môže mať vady vo svojej výpovedi, pretože je zaujatá a má
+záujem, aby rozhodnutie bolo v jej prospech.
+Po skončení dokazovania je úlohou súdu vyhodnotiť vykonané procesné dôkazy z hľadiska
+ich pravdivosti a dôležitosti pre rozhodnutie. Súd nie je viazaný zákonom, ktorý by mu
+určoval, ktoré dôkazy je potrebné hodnotiť z hľadiska ich pravdivosti, a preto jeho
+hodnotenie sa nazýva voľné. Táto voľnosť však neznamená, že súd môže hodnotiť dôkazy
+ľubovoľne.
+
+4.3 Hodnotenie z hľadiska dôležitosti
+Výsledky získané dokazovaním poskytujú určité informácie o skutočnosti. Tieto informácie
+však majú pre súdne rozhodnutie rôznu hodnotu. Niektoré sú dôležité, iné menej a niektoré sú
+úplne bez akéhokoľvek významu, pretože nesúvisia s vecou. Preto súd musí od samého
+začiatku rozlišovať, ktoré skutočnosti, tvrdené účastníkmi a predmetom dokazovania, sú
+rozhodujúce pre spor z hľadiska právnej normy, ktorú sa chystá aplikovať. Týmto spôsobom
+sú vylúčené procesné dôkazy, ktoré nie sú podstatné, a súd sa ďalej zaoberá len dôkazmi,
+ktoré sú pre rozhodnutie vo veci relevantné.
+4.4 Hodnotenie z hľadiska zákonnosti
+Dôkazy, ktoré súd ohodnotil ako rozhodné, musí ďalej hodnotiť z hľadiska ich zákonnosti.
+Súd skúma, či boli vykonané v súlade so zákonnými požiadavkami, alebo či boli porušené
+predpisy a ak áno, aké. Porušenie ustanovení o dokazovaní môže mať rôzny charakter, môže
+ísť o vady čisto formálne, ale aj o také vady, ktoré spôsobia, že výsledok dôkaznej činnosti sa
+stane neplatným. Ide o porušenie takých ustanovení, ktoré iné vykonanie dôkazov zakazujú,
+napríklad týkajúce sa ochrany, zachovania tajomstva a mlčanlivosti. Porušenie tohto
+základného predpisu má za následok, že dôkaz získaný porušením tohto ustanovenia, teda
+nezákonne, nesmie byť použitý, pretože je z právneho hľadiska neplatný a teda procesne
+neúčinný.
+Súdna prax vylúčila z vykonávania dokazovania taký dôkaz, ktorý bol získaný účastníkom
+konania a účastník pritom porušil všeobecne záväzné právne predpisy, pričom toto porušenie
+
+45
+
+súčasne znamenalo porušenie ústavných práv fyzickej osoby. V konkrétnom prípade išlo o
+záznam telefonického rozhovoru, ktorý bol vyhotovený bez vedomia hovoriacich osôb.
+4.5 Hodnotenie z hľadiska pravdivosti
+Takto zostanú dôkazy, ktoré sú pre rozhodnutie o veci dôležité a sú právne účinné. Súd musí
+tieto dôkazy posúdiť z hľadiska pravdivosti obsiahnutých skutočností, teda bude ich
+považovať za preukázané. Takýto postup súdu platí ako pre sporové, tak aj pre nesporové
+konania.
+4.6 Hodnotenie z hľadiska logiky
+Hodnotenie dôkazov je zložitý myšlienkový postup, jeho podstatou sú jednotlivé i komplexné
+závery súdu o vierohodnosti informácií získaných vykonaním dôkazov. Sudcovým
+hodnotiacim postupom by malo byť okrem ľudských a odborných skúseností aj pravidlá
+logického myslenia, ktoré tradičná logika formuluje do logických zásad. Ide o zásadu
+totožnosti, ktorá vyžaduje, aby sa v určitej úvahe zachovával invariantný význam použitých
+výrazov, zásadu sporu (vylúčeného sporu), ktorá vyžaduje, že v tom istom čase a za takých
+istých podmienok nemôže súčasne platiť nejaké tvrdenie a jeho protiklad, zásadu vylúčenia
+tretieho, podľa ktorej pri dvoch protichodných tvrdeniach musí byť jedno pravdivé, a zásadu
+dostatočného dôvodu, ktorá vyžaduje, aby každé pravdivé tvrdenie bolo dostatočne
+odôvodnené.
+V ustanovení § 132 OSP/OSR sú obsiahnuté základné pravidlá voľného hodnotenia dôkazov,
+podľa ktorých „dôkazy súd hodnotí podľa svojej úvahy, a to každý dôkaz jednotlivo a všetky
+dôkazy v ich vzájomnej súvislosti;67 pritom starostlivo prihliada na všetko, čo vyšlo počas
+konania najavo vrátane toho, čo uviedli účastníci. Pri hodnotení dôkazov súd v zásade nie je
+obmedzovaný právnymi predpismi v tom, ako má z hľadiska pravdivosti ten, ktorý dôkaz
+hodnotí.
+4.7 Hodnotenie svedeckej výpovede
+Posúdenie svedeckej výpovede súdom predstavuje náročnú a zložitú úlohu, pri ktorej súd nie
+je obmedzený formálnymi právnymi predpismi. Súd hodnotí svedeckú výpoveď v súlade so
+zásadou voľného hodnotenia dôkazov, zohľadňujúc jej zákonnosť a význam pre rozhodnutie.
+
+67
+
+BURES, J. a kol.: Občiansky súdni rád. Praha: C.H. Beck, 1997, s. 329
+
+46
+
+Hodnota a význam svedeckej výpovede môžu byť rôzne v závislosti od okolností. Pravdivosť
+svedeckej výpovede je výsledkom subjektívnych a objektívnych faktorov, ktoré súd musí
+zvážiť a identifikovať, vrátane schopnosti presného vnímania a správneho podávania
+informácií.
+Svedkova schopnosť vnímať skutočnosti, pamäť a reprodukcia závisia od jeho zmyslov, a
+môže byť ovplyvnený názormi 68ďalších osôb, s ktorými diskutoval o danej veci. Svedok
+môže vypovedať aj o udalostiach, ktoré nevnímal priamo zmyslami, ale len počul od iných. V
+takejto situácii, kedy svedok reprodukuje informácie od inej osoby, existuje riziko
+nesprávneho porozumenia alebo neznalosti všetkých súvislostí. Súd musí preto zisťovať,
+odkiaľ svedok čerpal svoje informácie. Ak svedok nedokáže presne určiť pôvod svojich
+informácií a súd ich nemôže 69spoľahlivo overiť, svedecká výpoveď nemá žiadnu hodnotu.
+Objektívne faktory, ako vzťahy svedka k ostatným účastníkom konania, iným osobám a k
+situácii, tiež ovplyvňujú obsah a pravdivosť svedeckej výpovede. Subjektívne a objektívne
+faktory súvisia medzi sebou.
+4.8 Hodnotenie dôkazu listinou
+V kontexte dokazovania majú dokumenty význam pri určovaní stavu veci, pretože obsahujú
+konkrétne informácie. Tieto písomné záznamy sú nezávislé od faktorov, ako je zhoršujúca sa
+pamäť svedka alebo účastníka konania. Súd musí pri hodnotení dôkazu listinou brať do
+úvahy možnosť, že najmä vôľové prejavy nemusia byť v dokumente správne zachytené. Preto
+sa súd snaží zistiť pravý zámer účastníkov konania prostredníctvom iných dôkazných
+prostriedkov. Dôkaz listinou má v občianskom súdnom konaní významné postavenie, pretože
+výrazne prispieva k objasneniu skutočného stavu veci. Metóda vykonávania dôkazu listinou
+je ovplyvnená zásadou bezprostrednosti a ústnosti, a v rámci hodnotenia podlieha zásade
+voľného hodnotenia dôkazov.
+4.9 Hodnotenie dôkazných prostriedkov
+Nezávislosť súdu je ústavný princíp, ktorý formuje základ pre voľné hodnotenie dôkazov.
+Základné pravidlá pre voľné hodnotenie dôkazov sú upravené v ustanovení § 132
+Občianskeho súdneho poriadku.
+
+68
+69
+
+MAZÁK, J., Základy občianskeho procesného práva, IURA EDITION, 2004, str. 287
+WINTEROVÁ, A. a kol., Civilni právo procesni, Linde Praha a.s., 1999, str. 233
+
+47
+
+Voľné hodnotenie dôkazov sa opiera o:
+- oprávnenie súdu rozhodovať o tom, ktoré dôkazné prostriedky vykoná a ktoré nie,
+- možnosť súdu iniciovať dôkazné konanie na základe návrhov účastníkov alebo, v
+nesporovom konaní, aj bez takého návrhu, ak to vyžaduje priebežné hodnotenie dôkazov,
+- povinnosť súdu vyhodnotiť všetky vykonané dôkazy bez ohľadu na to, či potvrdzujú alebo
+vyvracajú tvrdenia účastníkov,
+- dodržiavanie zásad formálnej logiky.
+Hodnotenie dôkazných prostriedkov predstavuje komplexný kognitívny proces, ktorý je len
+všeobecne zakotvený v práve. Kvalita tohto postupu závisí na všeobecnej úrovni,
+špecifických znalostiach práva a skúsenostiach sudcov. Rámec pravidiel je formulovaný v
+občianskom súdnom poriadku.
+Súd má možnosť dopĺňať dôkazy na základe návrhov účastníkov, a v nesporovom konaní aj
+bez takého návrhu, ak to 70vyžaduje priebežné hodnotenie dôkazov. Jeho povinnosťou je
+vyhodnotiť všetky vykonané dôkazy bez ohľadu na to, či podporujú alebo odporujú
+tvrdeniam účastníkov. Zásady formálnej logiky sú tiež súčasťou tohto hodnotenia.
+Hodnotenie dôkazných prostriedkov je komplexný myšlienkový proces, ktorý je právne
+stanovený len veľmi všeobecne. Kvalita tohto postupu je ovplyvnená všeobecnou úrovňou,
+špeciálnymi znalosťami o práve a skúsenosťami súdu. Rámce pravidiel sú vyjadrené v
+ustanovení § 132 Občianskeho súdneho poriadku, ktoré ustanovuje, že súd hodnotí dôkazy
+podľa svojho uváženia, posudzuje každý dôkaz individuálne a všetky dôkazy v ich vzájomnej
+súvislosti.
+Súd starostlivo zohľadňuje všetko, čo vyplýva z priebehu konania, vrátane informácií
+poskytnutých účastníkmi. Tento myšlienkový postup nie je obmedzený len na súd, ale aj
+účastníci konania, prípadne ich zástupcovia, ho využívajú. Existujú však rozdiely medzi
+hodnotením dôkazných prostriedkov vykonávaným súdom a hodnotením dôkazov účastníkmi
+alebo ich zástupcami.
+
+70
+
+57 Občiansky súdny poriadok, zák. &. 99/1963 Zb., § 124
+
+48
+
+Súd systematicky hodnotí dôkazné prostriedky počas konania, pričom má výhradné právo na
+konečné vyhodnotenie po skončení celej dokazovacej fázy a po vypočutí názorov účastníkov.
+Účastníci konania väčšinou hodnotia dôkazné prostriedky jednostranne, zohľadňujú len tie,
+ktoré podporujú ich stanoviská a tvrdenia. Súd vníma hodnotenie dôkazných prostriedkov
+účastníkmi ako záverový postoj vo veci, ktorý podlieha hodnoteniu kvôli jednostrannosti
+myšlienkového postupu. Účastníkom je zakázané operovať s pravidlami ustanovenými v §
+132 Občianskeho súdneho poriadku.
+Hodnotenie dôkazných prostriedkov sa vzťahuje na otázky ich záväznosti a zákonnosti.
+Záväznosť dôkazu sa týka jeho významu pre rozhodnutie vo veci, zatiaľ čo zákonnosť
+dôkazu sa vzťahuje na súlad s pravidlami vykonávania jednotlivých častí konania.
+Hodnotenie dôkazných prostriedkov bráni účastníkom operovať s ustanovením § 132
+Občianskeho súdneho poriadku. Hodnotenie dôkazov sa však vzťahuje na otázky ich
+záväznosti a zákonnosti. Záväznosť dôkazu sa týka jeho významu pre rozhodnutie vo veci,
+zatiaľ čo zákonnosť dôkazu sa týka súladu priebehu vykonávania jednotlivých dôkazných
+prostriedkov so zákonnými požiadavkami.
+Dôkaz získaný nezákonným spôsobom nesmie súd použiť ako súčasť skutkového základu pre
+svoje rozhodnutie. Výsledkom voľného hodnotenia dôkazov je záver o vierohodnosti alebo
+pravdivosti dôkazu. Pri týchto záveroch je potrebné dodržiavať všetky pravidlá správneho,
+logického myslenia, vyvarovať sa jednostrannosti a vyhodnocovať ich s ohľadom na celkový
+kontext.
+
+49
+
+Záver
+V tejto diplomovej práci sme podrobne skúmali rôzne aspekty hodnotenia dôkazov v
+kontexte civilného procesu. Analyzovali sme vplyv digitálnej transformácie na evidenciu a
+prezentáciu dôkazov, zohľadňujúc výzvy a príležitosti spojené s modernými technológiami.
+Zároveň sme sa zamerali na význam odborných znalostí a skúseností sudcov pri hodnotení
+rôznorodých typov dôkazov. Odporúčame systematický prístup k odbornej príprave sudcov,
+ktorý by im umožnil lepšie porozumenie moderným technológiám a komplexným odborným
+oblastiam, ktoré sa môžu v civilnom procese objaviť.
+V našej analýze sme taktiež zdôraznili význam spravodlivého a transparentného hodnotenia
+dôkazov pre zachovanie dôveryhodnosti súdnictva. Navrhujeme implementáciu jasných
+smerníc a noriem, ktoré by pomohli zabezpečiť konzistentné hodnotenie dôkazov a
+minimalizovali by riziko subjektívnosti v rozhodovacom procese.
+Skutkové zistenia, ktoré sú nevyhnutným základom pre každé súdne rozhodnutie, sú
+získavané prostredníctvom dokazovania v civilnom súdnom konaní. Tento postup je
+regulovaný právnymi normami obsiahnutými v zákone č. 160/2015 Z. z. Civilný sporový
+poriadok a zákone č. 161/2015 Z. z. Civilný mimosporový poriadok, ktoré slúžia ako lex
+generalis a lex specialis. Ich cieľom je zabezpečiť získanie relevantných skutkových
+informácií o podstatných okolnostiach pre rozhodnutie vo veci.Dokazovanie je nepochybne
+dôlezitou sucastou vsetkych konani, bez ohl'adu na to či hovorime o civilnom, trestnom,
+správnom alebo inom konaní. Proces dokazovania je komplikovaným procesom s vel'kym
+pridinenim sa vetkých subjektov konania a je takmer obligatorym krokom k docieleniu
+efektivneho, ücinneho a spravodlivého vysledku
+konania.
+Proces predkladania dôkazov vyžaduje hlboké uvažovanie a nesie so sebou vysoké nároky, či
+už je to na úrovni súdu alebo účastníkov konania, bez ohľadu na ich prípadných právnych
+zástupcov. Úspešné ukončenie procesu predkladania dôkazov a následné rozhodnutie súdu v
+danej veci vyžadujú precízne analytické myslenie a schopnosť vnímať detaily. Nemožno
+zanedbať potrebu poznať a najmä dodržiavať právne predpisy a etické normy. Tieto aspekty
+sú minimálnym predpokladom pre spravodlivý priebeh súdneho konania, efektívnu a
+hospodárnu súdnu moc a správne fungujúci právny štát.
+
+50
+
+Súd hodnotí dôkazy podľa vlastného uváženia, posudzujúc každý dôkaz individuálne a v
+kontexte vzájomných vzťahov. Pri tomto procese dáva pozor na všetko, čo sa objavilo počas
+konania, vrátane informácií poskytnutých účastníkmi (§ 132 O.s.p.). Hodnotenie dôkazov
+súdom predstavuje činnosť, kde sú vyhodnocované procesné dôkazy z hľadiska ich
+pravdivosti a významu pre rozhodnutie. Súd nie je v zásade obmedzený právnymi predpismi
+v spôsobe alebo výsledku hodnotenia pravdivosti konkrétnych dôkazov, uplatňuje sa tu
+princíp voľného hodnotenia dôkazov. Ak súd nesprávne vyhodnotí dôkazy, môže to viesť k
+nesprávnemu rozhodnutiu veci, ale samotná chyba v hodnotení dôkazov nezakladá
+prípustnosť dovolania podľa § 237 O.s.p. Taktiež, účastník konania nemá právo vyjadrovať
+sa k spôsobu hodnotenia jeho navrhnutých dôkazov súdom, čo neovplyvňuje obsah
+základného práva a práva na spravodlivý proces.
+
+Celkovo sa domnievame, že naše štúdium ponúka ucelený pohľad na aktuálnu situáciu v
+oblasti hodnotenia dôkazov v civilnom procese a otvára priestor pre ďalšie diskusie a
+výskum. Veríme, že naše odporúčania môžu prispieť k neustálemu zdokonaľovaniu právneho
+prostredia a k dosiahnutiu vyššej úrovne spravodlivosti v civilnom súdnictve.
+
+51
+
+Zoznam bibliografických odkazov
+
+A ) Knižné publikácie a monografie
+REBRO, K. — BLAHO, P. 2010. Rímske právo. 4. prepracované a doplnené vydanie.
+Bratislava; IURA Edition, 2010. 522 s. ISBN 978-80-8078-352-5.
+"FICOVA,S. Občianske právo procesné. Bratislava: Univerzita Komenského, Právnická
+fakulta,Vydavateľské oddelenie, 2005, ISBN 978-80-89122-51-6, 8. 32
+FICOVA, S. STEVCEK,M.: Občianske súdne konanie, Praha: C.H. Beck, 2013, s. 21.
+ISBN9788074005091
+MAZÁK, J. a kol. Základy občianskeho procesného práva. Bratislava: Iura Edition, 2009,
+s.23. ISBN 978-80-8078-275-7
+"VLCEK, R: Dôkazné prostriedky v občianskom súdnom konaní, z právneho,sociologického
+a psychologického pohľadu, Bratislava: EPOS, 2006. s. 11-12. ISBN9788080576837
+"STEVCEK, M.. FICOVA, S.: Občiansky súdny poriadok komentár, Praha. C.H. Beck, 2009,
+s.3. ISBN 9788074004063
+" STEVCEK, M. kol.: Civilné právo procesné, Bratislava: EUROKODEX, 2010,8. 117-121
+BOURA, F: Sborník studií z občanského práva 1953s. 26 ISBN978-80-89447-18-3
+STAVINOHOVÁ, J., HLAVSA, P. a kol., 2003, s. 376 ISBN 80-210-3271-5
+DRAPAL. L BURES. J. Občiansky súdni II: Komentar . I. vyd. Praha: C. H. Beck. 2009.5.
+883 ISBN9788074001079
+MAZÁK, J. a kol. Základy občianskeho procesného práva. 3. vyd. Bratislava: IURA
+EDITION. 2007. ISBN13. 9788080782757
+FICOVÁ, S. a kol. Občianske súdne konanie. Praha: C.H. Beck, 2010. s. 239 ISBN: 978–
+80–7400–312
+STEVECEK, M. a kol. Civilný sporový poriadok. Komentár. Praha: C.H. Beck, 2016. s. 744
+ISBN9788074006296
+HORVATH, E..ANDRASION A. A. Civilný sporový poriadok Komentár. Bratislava &
+Wolters Kluwer, 2015. 5.457 ISBN 9788081683183
+FABIANOVA. Z. - FRISTIKOVA. T. Judikatúra vo veciach dokazovania v civilnom konaní.
+Bratislava: Wolters Kluwer, 2016/174 ISBN9788081684647
+HANDL, V., RUBES, J. Občiansky súdni Komentar. 1. dil. Praha: Panorama, 1985. s. 603
+
+52
+
+JAUERNIG, O.: Zivilprozessrecht [Obiasnke právo procesné). München : C.H.Beck, 2003, s.
+203
+MAZÁK, J.: Základy občianskeho procesného práva. Bratislava: IURA EDITION, 2002, s.
+252
+MAZÁK, J., JÁNOSIKOVÁ, M., Učebnica občianskeho procesného práva 1 zväzok.
+Bratislava: IURISLIBRI, spol. s r.o. 2012. 8. 329 ISBN 978-80-89635-009
+STEVCEK, M., FICOVA, S. a kol., Občiansky súdny poriadok. I. diel. Komentár. 2. vyd.
+Praha: C.H.Beck, 2012. s. 469 ISBN 80-7160-146-2.
+Stevcek, M. a kol. Civilné právo procesné. Úvod do civilného procesu a sporové konanie.
+Praha: C. H. Beck,2022, s. 314, ISBN: 978-80-7400-876-4
+Lavicky, P. Dukazni bremeno v civilnim konani soudnim. Praha: Leges, 2017, s.25-26.
+MAZÁK, J., Základy občianskeho procesného práva, IURA EDITION, 2004, str. 287 ISBN
+8080780161
+WINTEROVÁ, A. a kol., Civilni právo procesni, Linde Praha a.s., 1999, str. 233 ISBN.
+8072014439
+BURES, J. a kol.: Občiansky súdni rád. Praha: C.H. Beck, 1997, s. 329
+B) Pravne predpisy
+Zákon C. 161/2015 Zz. Civilný mimo sporový poriadok, §37
+Zákon C. 160/2015 Z.z. Civilný sporový poriadok, §193
+Občiansky súdny poriadok, zák. č. 99/1963 Zb., § 124
+C) Judikatura
+Nález Ustavného súdu Slovenskej republiky sp. 2n. II. US 14/01-46 [cit. 20.2.2024)
+Rozsudok Najvyššieho súdu Slovenskej republiky, sp. zn. 3sžf58/2007[cit.20.2.2024)
+Uznesenie Najvyššieho súdu Slovenskej republiky,sp.zn.6Cdo91/2010[cit.20.2.2024)
+Rozhodnutie Najvyššieho súdu Ceskej a Slovenskej Federativnej Republiky
+R20/1980[cit. 21.2.2024)
+Stanovisko Najvyssieho sudu Ceskej republiky,spzn.PIs3/1980,R1/198[cit.21.2.2024)
+Rozhodnutie Najvyššieho sudu českej aslovenskejfederatívnejrepublikyR20/1980[cit.
+21.2.2024)
+Stanovisko Najvyššieho súdu Ceskej republiky, sp. zn. Pls 3/1980[cit. 22.2.2024)
+Nalez Ústavného súdu Slovenskej republiky I. ÚS 53/1998[cit. 22.2.2024)
+Rozsudok Najvyssieho súdu Slovenskej republiky, spzn.2Cdo199/2005[cit.22.2.2024)
+53
+
+Uznesenie Najvyssieho súdu Slovenskej republiky, sp zn.3Obo61/2009[cit.23.2.2024)
+Uznesenie Najvyššieho súdu SR z 26, mája 2010,sp.zn.2Cdo247/2009[cit.23.2.2024)
+Uznesenie Najvyssieho sudu SR z 28.októbra2010,sp.zn.Cdo154/2009[cit.23.2.2024)
+Rozhodnutie Najvyššieho sudu Slovenskej republiky, sp. zn. 3 Cdo 204/2009 zo dňa 14.
+septembra 2011[cit. 23.2.2024)
+"Rozhodnutie Najvyssieho súdu Slovenskej republiky, sp. zn. 3 Cdo 211/2006 zo dňa 29.
+aprila 2008[cit. 23.2.2024)
+Rozhodnutie NajvyssiehosúduSlovenskejrepubliky,sp.zn.Cdo177/2014[cit.23.2.2024)
+D) Internet
+PODIVINSKA, A. 2015. Novinka v civilnom práve v podobe Civilného mimosporového
+poriadka. In Práve noviny, 2015. ISSN 2454-0048. [online]. [cit. 2024-02-18]. Dostupné na
+internete: http://www.pravnenoviny.sk/obcianske-pravo/novinka-v-civilnom-prave-v-podobecivilneho- mimosporoveho-poriadku
+Ods. 1,2 Dohovoru o právach dieťaťa. Verejne dostupný na internete:
+https://www.unicef.sk/files/dohovor_o_pravach_dietata.pdf [cit. 20.2.2024)
+
+54
+
+

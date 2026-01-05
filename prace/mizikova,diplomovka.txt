@@ -1,0 +1,3116 @@
+UVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+DIGITÁLNA TRANSFORMÁCIA PRÁCE
+- VÝZVY A RIZIKÁ
+
+Diplomová práca
+
+2024
+Bc. Alena Mižiková
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA MANAGEMENTU
+
+DIGITÁLNA TRANSFORMÁCIA PRÁCE
+- VÝZVY A RIZIKÁ
+
+Diplomová práca
+
+Študijný program:
+
+manažment
+
+Študijný odbor:
+
+ekonómia a manažment
+
+Školiace pracovisko:
+
+Katedra informačného manažmentu a podnikových systémov
+
+Vedúca:
+
+doc. JUDr. PhDr. Silvia Treľová, PhD
+
+2024
+Bc. Alena Mižiková
+
+Zadanie záverečnej práce
+
+Abstrakt
+MIŽIKOVÁ, Alena: Digitálna transformácia práce - výzvy a riziká. [Diplomová práca]
+– Univerzita Komenského v Bratislave. Fakulta managementu; Katedra informačného
+manažmentu a podnikových systémov – Vedúca: doc. JUDr. PhDr. Silvia TREĽOVÁ, PhD.
+Bratislava: UK, 2024, 66 s.
+
+Diplomová práca sa zameriava na tému digitálnej transformácie práce, pričom skúma
+výzvy a riziká, ktoré so sebou prináša modernizácia pracovného prostredia pod vplyvom
+nových technológií. Cieľom diplomovej práce je identifikovať dopad digitálnej
+transformácie na pracovný trh v rôznych európskych krajinách a identifikovať hlavné výzvy
+a riziká spojené s implementáciou moderných technológií, ako sú umelá inteligencia (AI),
+automatizácia, robotika a digitálne platformy, do pracovných procesov. Práca kombinuje
+teoretické východiská a komparatívne metódy na posúdenie prístupov a skúseností z
+viacerých krajín, pričom sa zameriava na implementáciu digitálnych technológií a ich
+dopady na pracovné miesta. Metodológia práce zahŕňa analýzu sekundárnych dát,
+odborných štúdií a sprievodných dokumentov, ktoré boli spracované na základe dostupných
+zdrojov z domáceho aj zahraničného prostredia a zistenia podčiarkujú informácie získané
+z primárneho prieskumu. Výsledky ukazujú, že digitálna transformácia prináša významné
+zmeny v štruktúre pracovného trhu, vytvára nové príležitosti, ale aj riziká v podobe
+automatizácie a straty pracovných miest v tradičných odvetviach. Závery práce poskytujú
+odporúčania pre zvládanie týchto výziev v oblasti adaptácie pracovného trhu na tieto zmeny,
+pričom dôraz je kladený na zvýšenie digitálnej gramotnosti, podporu celoživotného
+vzdelávania a lepšiu prípravu pracovných síl na digitálnu budúcnosť. Diplomová práca môže
+slúžiť ako podklad pre ďalší výskum a praktickú aplikáciu v oblasti ľudských zdrojov a
+digitálnych inovácií.
+
+Kľúčové slová: digitálna transformácia, pracovný trh, automatizácia, digitálna
+gramotnosť, inovácie
+
+Abstract
+MIŽIKOVÁ, Alena: Digital Transformation of Work - Challenges and Risks. [Master
+thesis] – Comenius University Bratislava. Faculty of Management; Department of
+Information Management and Business Systems – Supervisor: JUDr. PhDr. Silvia
+TREĽOVÁ, PhD. Bratislava: UK, 2024, 66 pp.
+
+The thesis focuses on the topic of the digital transformation of work, exploring the
+challenges and risks posed by the modernisation of the working environment under the
+influence of new technologies. The aim of the thesis is to identify the impact of digital
+transformation on the labour market in different European countries and to identify the main
+challenges and risks associated with the implementation of modern technologies such as
+artificial intelligence (AI), automation, robotics and digital platforms in work processes. The
+thesis combines theoretical underpinnings and comparative methods to assess approaches
+and experiences from several countries, focusing on the implementation of digital
+technologies and their impacts on jobs. The methodology of the thesis involves the analysis
+of secondary data, expert studies and supporting documents, which have been compiled
+using available sources from both domestic and international settings, and the findings
+underline the information obtained from the primary research. The results show that digital
+transformation is bringing significant changes in the structure of the labour market, creating
+new opportunities but also risks in the form of automation and job losses in traditional
+industries. The conclusions of the paper provide recommendations for coping with these
+challenges in adapting the labour market to these changes, with a focus on increasing digital
+literacy, promoting lifelong learning and better preparing the workforce for the digital future.
+The thesis can serve as a basis for further research and practical application in the field of
+human resources and digital innovation.
+
+Key words: digital transformation, labor market, automation, digital literacy, innovation
+
+Predhovor
+Téma digitálnej transformácie práce, ktorú som si zvolila pre svoju diplomovú prácu,
+ma zaujala predovšetkým v súvislosti s jej aktuálnosťou a nevyhnutnosťou pre moderné
+spoločnosti. Svet práce sa dnes výrazne mení pod vplyvom digitalizácie, automatizácie a
+technológií, čo so sebou prináša výzvy, ale aj nové príležitosti pre jednotlivcov, organizácie
+a spoločnosť ako celok. Téma "Digitálna transformácia práce - výzvy a riziká" ma zaujala
+najmä z pohľadu skúmania toho, ako tieto zmeny ovplyvňujú pracovný trh, pracovné
+podmienky, bezpečnosť a samotnú povahu práce.
+Pri výbere témy ma motivovala snaha pochopiť, ako sa moderné technológie
+premietajú do každodenného života zamestnancov a zamestnávateľov, aké riziká so sebou
+prinášajú a aké opatrenia sú potrebné na ich zvládnutie. Zároveň som sa snažila poukázať na
+dôležitosť tejto témy nielen v slovenskom, ale aj medzinárodnom kontexte, keďže
+digitalizácia nepozná hranice a ovplyvňuje globálny pracovný trh.
+V mojej diplomovej práci som sa rozhodla analyzovať digitálnu transformáciu práce a
+identifikovať výzvy, ktoré so sebou prináša, ako aj navrhnúť riešenia pre ich zvládnutie. V
+práci som sa venovala domácim aj zahraničným príkladom digitálnej transformácie, čerpala
+som z dostupnej literatúry, analýz a štúdií, pričom som použila komparatívne metódy a
+analýzu dostupných dát. Význam mojej práce spočíva v tom, že poskytuje ucelený pohľad
+na súčasný stav digitálnej transformácie a jej dopady na pracovný trh, pričom som sa snažila
+prispieť k diskusii o tom, ako sa na tieto zmeny pripraviť.
+Táto práca je určená najmä pre odbornú verejnosť, študentov, výskumníkov a
+pracovníkov v oblasti ľudských zdrojov, technológií a digitálnych inovácií. Verím, že moje
+zistenia a návrhy môžu poslúžiť ako podklad pre ďalšie skúmanie alebo praktické aplikácie
+v tejto oblasti.
+Chcela by som vyjadriť svoje poďakovanie vedúcej mojej diplomovej práce za cenné
+rady a vedenie počas celého procesu písania. Zároveň by som chcela poďakovať všetkým,
+ktorí mi poskytli podporu a inšpiráciu počas môjho štúdia a vypracovania tejto diplomovej
+práce.
+
+Obsah
+Slovník termínov .................................................................................................................. 8
+Úvod .................................................................................................................................... 10
+1
+
+Súčasný stav digitálnej transformácie a jej vplyv na pracovný trh ....................... 11
+1.1
+1.1.1
+
+Výzvy spojené s digitálnymi zručnosťami a zamestnanosťou ..................................... 12
+
+1.1.2
+
+Digitálna infraštruktúra a prepojenie Európy ........................................................... 13
+
+1.2
+
+Estónsko ..................................................................................................................... 15
+
+1.2.2
+
+Fínsko ......................................................................................................................... 18
+
+1.2.3
+
+Francúzsko ................................................................................................................. 21
+
+1.2.4
+
+Nemecko ..................................................................................................................... 23
+
+1.2.5
+
+Taliansko .................................................................................................................... 25
+
+2.1.1
+
+2.2
+2.2.1
+
+2.3
+
+4
+
+Komparatívna analýza digitálnej transformácie práce vybraných krajín ............ 28
+
+Cieľ práce a metodika práce ..................................................................................... 31
+2.1
+
+3
+
+Digitálna transformácia práce vo vybraných krajinách ....................................... 15
+
+1.2.1
+
+1.3
+2
+
+Digitálna transformácia práce v Európe .............................................................. 11
+
+Hlavný cieľ práce ................................................................................................. 31
+Čiastkové ciele práce.................................................................................................. 31
+
+Metodika práce a metódy skúmania .................................................................... 32
+Charakteristika objektu skúmania .............................................................................. 32
+
+Pracovné postupy ................................................................................................. 32
+
+2.3.1
+
+Teoretická analýza ..................................................................................................... 32
+
+2.3.2
+
+Kvalitatívny prieskum ................................................................................................. 32
+
+2.3.3
+
+Komparácia a odporúčania........................................................................................ 33
+
+2.3.4
+
+Spôsob získavania údajov a ich zdroje ....................................................................... 33
+
+2.3.5
+
+Použité metódy vyhodnotenia a interpretácie výsledkov ............................................ 33
+
+Digitálna transformácia práce na Slovensku ........................................................... 35
+3.1.1
+
+Zamestnanosť a zmena spôsobu práce ....................................................................... 35
+
+3.1.2
+
+Pracovné podmienky a pracovné prostredie .............................................................. 37
+
+3.1.3
+
+Štruktúra pracovných miest ........................................................................................ 38
+
+3.1.4
+
+Sociálna nerovnosť ..................................................................................................... 41
+
+3.1.5
+
+Vzdelávanie a odborná príprava ................................................................................ 42
+
+Výzvy a riziká digitálnej transformácie práce v praxi – empirická časť .............. 45
+4.1
+
+Štruktúra pracovných miest ................................................................................. 45
+
+4.2
+
+Pracovné zručnosti ............................................................................................... 47
+
+4.3
+
+Tradičné pracovné pozície ................................................................................... 49
+6
+
+5
+
+4.4
+
+Sociálna nerovnosť .............................................................................................. 51
+
+4.5
+
+Pracovný trh ......................................................................................................... 53
+
+4.6
+
+Digitalizácia ......................................................................................................... 55
+
+4.7
+
+Implementácia digitálnych technológii ................................................................ 57
+
+4.8
+
+Príležitosti a hrozby ............................................................................................. 58
+
+4.9
+
+Postrehy ............................................................................................................... 60
+
+4.10
+
+Obavy a prekážky ................................................................................................ 62
+
+Výsledky práce a diskusia .......................................................................................... 64
+
+Záver ................................................................................................................................... 66
+Zoznam použitej literatúry ............................................................................................... 68
+Prílohy ................................................................................................................................. 74
+
+7
+
+Slovník termínov
+Automatizácia - Proces nahradzovania manuálnych ľudských činností strojmi alebo
+softvérom, ktorý umožňuje vykonávať úlohy rýchlejšie, presnejšie a s nižšími nákladmi.
+Autonómne systémy - Systémy schopné vykonávať úlohy nezávisle od ľudského zásahu,
+často využívajúce umelú inteligenciu a senzory, napríklad autonómne vozidlá alebo drony.
+Big Data - Obrovské objemy dát, ktoré sú príliš rozsiahle na spracovanie tradičnými
+metódami, ale ktoré môžu byť analyzované na získanie cenných informácií a poznatkov pre
+rozhodovanie, často využívané v marketingu, zdravotníctve alebo pri vývoji umelej
+inteligencie.
+Celoživotné vzdelávanie - Vzdelávací proces, ktorý prebieha po celý život jedinca, a to
+nielen v rámci formálneho vzdelávania, ale aj prostredníctvom neformálnych vzdelávacích
+aktivít, s cieľom udržiavať a rozvíjať svoje vedomosti a zručnosti.
+Cyber-physical systems (CPS) - Systémy, ktoré prepájajú fyzické zariadenia s digitálnym
+svetom prostredníctvom senzorov a umelej inteligencie, často používané v priemysle pre
+riadenie výrobných liniek a logistických procesov.
+Digitálna gramotnosť - Schopnosť jednotlivcov efektívne využívať digitálne technológie
+na získavanie, hodnotenie a vytváranie informácií, riešenie problémov a komunikáciu v
+digitálnom prostredí.
+Digitálna identita - Unikátna identifikácia jednotlivca v digitálnom svete, ktorú je možné
+použiť na overenie jeho totožnosti pri prístupe k rôznym digitálnym službám a aplikáciám.
+Digitálna transformácia - Proces integrácie digitálnych technológií do všetkých oblastí
+podnikania a spoločenského života, ktorý zásadne mení spôsob, akým organizácie fungujú
+a ako poskytujú hodnotu svojim zákazníkom.
+Digitálna inklúzia - Snaha zabezpečiť prístup k digitálnym technológiám a internetu pre
+všetky skupiny obyvateľstva bez ohľadu na ich sociálny, ekonomický alebo geografický
+pôvod, čím sa podporuje rovnosť príležitostí v digitálnom prostredí.
+Digitálne dvojča - Virtuálny model fyzického objektu, systému alebo procesu, ktorý
+umožňuje monitorovanie a optimalizáciu reálnych objektov alebo procesov v reálnom čase,
+využívané napríklad v priemysle a mestskom plánovaní.
+
+8
+
+Digitálna transformácia verejného sektora - Proces zavádzania digitálnych technológií
+do štátnej správy a verejných služieb s cieľom zvýšiť ich efektivitu, transparentnosť a
+dostupnosť pre občanov, napríklad prostredníctvom eGovernmentu.
+E-government - Digitálne spravované služby štátnej správy, ktoré umožňujú občanom a
+firmám prístup k vládnym službám prostredníctvom internetu, čím sa zjednodušuje a
+urýchľuje komunikácia so štátnymi inštitúciami.
+E-commerce - Elektronické obchodovanie, ktoré prebieha prostredníctvom internetu,
+umožňuje nákup a predaj produktov a služieb cez online platformy.
+Internet vecí (IoT) - Sieť fyzických zariadení, vozidiel, domácich spotrebičov a iných
+objektov vybavených elektronikou, softvérom, senzormi a pripojením na internet, ktorá
+umožňuje vzájomnú komunikáciu a výmenu dát.
+Kybernetická bezpečnosť - Ochrana systémov, sietí a dát pred kybernetickými útokmi,
+neautorizovaným prístupom, poškodením alebo zničením, s cieľom zabezpečiť dôvernosť,
+integritu a dostupnosť informácií.
+Práca na diaľku - Práca vykonávaná mimo tradičného pracovného prostredia, spravidla z
+domu alebo iného vzdialeného miesta, pri využívaní digitálnych nástrojov na komunikáciu
+a koordináciu pracovných činností.
+Umelá inteligencia (AI) - Odvetvie informatiky, ktoré sa zaoberá tvorbou inteligentných
+strojov a systémov schopných vykonávať úlohy, ktoré vyžadujú ľudskú inteligenciu, ako
+napríklad rozpoznávanie obrazov, rozhodovanie a učenie.
+
+9
+
+Úvod
+V súčasnosti sa digitálna transformácia výrazne dotýka všetkých oblastí života, vrátane
+pracovného trhu a povahy práce ako takej. Vzhľadom na rýchly rozvoj technológií ako
+umelá inteligencia, automatizácia a digitálne platformy, stáva sa nevyhnutným analyzovať
+vplyv týchto zmien na zamestnanosť, pracovné podmienky a celkovú štruktúru pracovného
+trhu. Digitalizácia, ktorá mení zaužívané pracovné postupy a otvára nové možnosti, prináša
+aj významné riziká, napríklad stratu pracovných miest v tradičných odvetviach či zvýšenie
+sociálnej nerovnosti.
+Táto diplomová práca sa venuje práve téme digitálnej transformácie práce, pričom sa
+zameriava na identifikáciu hlavných výziev a rizík, ktoré prináša jej aplikácia na pracovný
+trh. Práca sa sústreďuje na analýzu dopadu digitalizácie na štruktúru zamestnanosti, na nové
+požiadavky na zručnosti pracovníkov, ako aj na sociálne a ekonomické dôsledky tejto
+transformácie.
+Cieľom práce je identifikovať dopad digitálnej transformácie na pracovný trh v rôznych
+európskych krajinách a identifikovať hlavné výzvy a riziká spojené s implementáciou
+moderných technológií, ako sú umelá inteligencia (AI), automatizácia, robotika a digitálne
+platformy, do pracovných procesov. Za účelom dosiahnutia nášho cieľa budeme analyzovať
+výzvy a riziká digitálnej transformácie práce prostredníctvom kvalitatívneho prieskumu
+založeného na sérii štruktúrovaných rozhovorov s odborníkmi z rôznych sektorov. Práca sa
+zameriava na pochopenie praktických dopadov digitálnej transformácie na pracovný trh v
+slovenskom kontexte a identifikáciu konkrétnych odporúčaní pre organizácie a tvorcov
+politík.
+Výsledky práce poskytujú rámec pre pochopenie a efektívne zvládnutie výziev, ktoré so
+sebou digitálna transformácia prináša, a súčasne ponúkajú návrhy na podporu digitálnej
+gramotnosti a celoživotného vzdelávania, ktoré sú kľúčovými komponentmi úspešného
+prispôsobenia sa digitálnemu veku.
+
+10
+
+1
+
+Súčasný stav digitálnej transformácie a jej vplyv na pracovný trh
+Digitálna transformácia práce predstavuje zásadný komponent širšieho procesu
+
+digitalizácie
+
+spoločnosti
+
+a
+
+ekonomiky,
+
+ktorý
+
+je
+
+kľúčový
+
+pre
+
+zachovanie
+
+konkurencieschopnosti v globalizovanom svete. Tento proces ovplyvňuje nielen
+technologickú infraštruktúru a ekonomické modely, ale aj samotnú povahu práce, pracovné
+podmienky, požiadavky na zručnosti a štruktúru zamestnanosti.
+
+1.1 Digitálna transformácia práce v Európe
+Digitálna transformácia v Európe je neoddeliteľnou súčasťou širšieho procesu
+modernizácie technologickej infraštruktúry a prepojenia jednotlivých krajín a regiónov do
+jedného digitálne prepojeného celku. Tento proces je definovaný prostredníctvom programu
+„Digitálne desaťročie Európy“, ktorý stanovuje konkrétne ciele na obdobie do roku 2030.
+Program „Digitálne desaťročie Európy“ predstavuje strategickú iniciatívu Európskej únie,
+ktorá má za cieľ dosiahnuť výrazný pokrok v oblasti digitálnej transformácie Európy do roku
+2030. Tento program vychádza z potreby posilniť digitálnu suverenitu, rozvíjať inovatívne
+technológie a digitálne infraštruktúry, ako aj zlepšiť digitálne zručnosti obyvateľov EÚ a
+podporiť digitálnu ekonomiku. Plán je štruktúrovaný okolo štyroch hlavných pilierov.
+Prvým dôležitým pilierom programu je rozvoj digitálnych zručností. Cieľom je, aby do roku
+2030 malo minimálne 80 % dospelej populácie v EÚ základné digitálne zručnosti. Okrem
+toho je zámerom programu vyškolenie 20 miliónov špecialistov v oblasti informačných
+technológií. Tento cieľ reaguje na rastúci dopyt po kvalifikovaných odborníkoch v oblasti
+digitálnych technológií a zvyšuje digitálnu gramotnosť európskych občanov, čím sa posilní
+konkurencieschopnosť pracovnej sily na globálnom trhu. Druhým pilierom je rozvoj
+digitálnych
+
+infraštruktúr.
+
+Program
+
+zdôrazňuje
+
+potrebu
+
+zrýchlenia
+
+zavádzania
+
+vysokorýchlostného internetu a 5G sietí po celej Európe. Cieľom je dosiahnuť technologickú
+a infraštruktúrnu nezávislosť Európy, čím sa zníži závislosť na dodávkach z tretích krajín a
+posilní sa bezpečnosť dát. Tretím pilierom je digitalizácia podnikov. Program sa zameriava
+na podporu modernizácie podnikateľskej sféry, pričom najmenej 75 % podnikov by malo do
+roku 2030 prijímať moderné digitálne technológie, ako sú cloudové riešenia, umelá
+inteligencia a big data. Zvláštny dôraz sa kladie na podporu malých a stredných podnikov,
+ako aj na startupy, ktoré sú považované za motor inovácií a rastu v digitálnom hospodárstve.
+Posledným, no nemenej dôležitým pilierom, je digitalizácia verejného sektora. Program
+
+11
+
+„Digitálne desaťročie Európy“ predpokladá, že do roku 2030 budú všetky základné verejné
+služby dostupné online a občania budú môcť využívať bezpečné digitálne identity. Tým sa
+nielen zlepší efektívnosť a transparentnosť verejných služieb, ale aj prístup občanov k
+digitálnym službám, čo je nevyhnutné pre inkluzívnu digitálnu spoločnosť. 1,2 Ako môžeme
+vidieť, program „Digitálne desaťročie Európy“ preto predstavuje komplexný plán, ktorého
+realizácia má potenciál výrazne zlepšiť digitálnu pripravenosť Európy a jej postavenie na
+globálnej digitálnej scéne.
+Podľa štúdie o vplyve digitálnej transformácie na európske krajiny, ktorá hodnotí
+úroveň technologického rozvoja krajín strednej Európy pripojených k Európskej únii po roku
+2004 a využíva metódu TOPSIS, je možné porovnať ich relatívnu pozíciu a identifikovať
+potenciálny pokrok v oblasti digitálnej transformácie. Výsledky výskumu poukazujú na
+výrazné rozdiely v technologickej pripravenosti medzi jednotlivými štátmi, pričom krajiny
+ako Česká republika a Poľsko vykazujú silnú úroveň inovácie v porovnaní s ostatnými štátmi
+strednej Európy. Detailná analýza Małkowskej a kol. zdôrazňuje, že krajiny s lepšími
+výsledkami sa vyznačujú väčším objemom investícií do výskumu a vývoja, vyššou úrovňou
+digitálnych kompetencií obyvateľstva a intenzívnejším využívaním informačných a
+komunikačných technológií v súkromnom aj verejnom sektore. Naproti tomu štáty s nižším
+hodnotením čelia výzvam v oblasti digitálnej gramotnosti, ako aj v nedostatočnej miere
+investícií do infraštruktúry a inovácií. Štúdia preto naznačuje, že úroveň technologického
+rozvoja v nových členských štátoch EÚ je zásadne ovplyvnená investičnou politikou a
+schopnosťou krajín implementovať pokročilé technológie, ktoré priamo podporujú ich
+ekonomickú a spoločenskú konkurencieschopnosť.3
+1.1.1
+
+Výzvy spojené s digitálnymi zručnosťami a zamestnanosťou
+
+Digitalizácia a technologický pokrok zásadne menia charakter pracovného trhu v
+Európe. Digitálne zručnosti sa stávajú nevyhnutným predpokladom pre zamestnateľnosť a
+
+EUROPEAN COMMISSION. Europe’s Digital Decade: Digital Targets 2030 [online]. 2024. Dostupné na:
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/europes-digitaldecade-digital-targets-2030_sk. [Citované: 18. 10. 2024].
+2
+EUROPEAN COMMISSION. Second report on the State of the Digital Decade calls for strengthened
+collective action to propel the EU's digital transformation [online]. Brussels: European Commission, 2024.
+Dostupné na: https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3602. [Citované: 18. 10. 2024]
+3
+MAŁKOWSKA, A., URBANIEC, M., KOSAŁA, M. The impact of digital transformation on European
+countries: insights from a comparative analysis. Equilibrium. Quarterly Journal of Economics and Economic
+Policy, roč. 16, č. 2, 2021, s. 325–355. ISSN 1689-765X, e-ISSN 2353-3293. DOI: 10.24136/eq.2021.012.
+Dostupné na: www.economic-policy.pl. [Citované: 18. 10. 2024].
+1
+
+12
+
+kariérny rast jednotlivcov. Jednou z hlavných výziev je rýchle tempo technologických
+inovácií, ktoré si vyžaduje neustálu aktualizáciu znalostí a schopností pracovnej sily. Mnoho
+zamestnancov však nemá dostatočný prístup k vzdelávaniu a tréningom potrebným na
+získanie nových digitálnych zručností.
+Európa sa v súčasnosti stretáva s významnými výzvami týkajúcimi sa digitálnych
+zručností a ich vplyvu na zamestnanosť. Podľa štúdie, ktorú realizovali Helsper a Deursen,
+existuje výrazný nesúlad medzi rastúcimi požiadavkami na digitálne kompetencie na trhu
+práce a úrovňou digitálnych zručností obyvateľstva. Tento deficit môže viesť k zvýšenej
+nezamestnanosti a prehlbovaniu sociálnych nerovností. Jednou z hlavných príčin tohto stavu
+je nerovnomerný prístup k digitálnemu vzdelávaniu a technológiám v rôznych sociálnych
+skupinách. Ľudia s nižším socioekonomickým statusom často nemajú dostatočné možnosti
+na rozvoj potrebných digitálnych zručností, čo ich vylučuje z mnohých pracovných
+príležitostí. Helpers a Deursen tiež upozorňujú na to, že tradičné vzdelávacie inštitúcie
+nedokážu vždy pružne reagovať na rýchlo sa meniace technologické požiadavky trhu práce.4
+Rýchly technologický pokrok vytvára tlak na neustálu aktualizáciu znalostí a
+kompetencií pracovnej sily. Bez efektívnych stratégií celoživotného vzdelávania a
+rekvalifikácie môže dôjsť k prehlbovaniu digitálnej priepasti. Preto je nevyhnutné, aby
+európske politiky podporovali iniciatívy zamerané na zlepšenie prístupu k digitálnemu
+vzdelávaniu a na zvyšovanie digitálnych zručností naprieč všetkými vekovými a sociálnymi
+skupinami. Okrem toho je dôležité zvýšiť počet odborníkov v oblasti informačnokomunikačných technológií (IKT) a klásť dôraz aj na rodovú rovnováhu. To je výzvou najmä
+pre krajiny, ktoré majú nízku úroveň ženského zastúpenia v technologických profesiách, ako
+napríklad Nemecko, ktoré sa však snaží zlepšiť svoju pozíciu prostredníctvom nových
+vzdelávacích programov a investícií do výskumu umelej inteligencie.
+1.1.2
+
+Digitálna infraštruktúra a prepojenie Európy
+
+V súčasnosti prebieha snaha o zabezpečenie vysokorýchlostného pripojenia pre
+všetkých občanov EÚ. Cieľom už spomínaného programu Digitálne desaťročie Európy je
+dosiahnuť gigabitové pripojenie pre každú domácnosť a významne rozšíriť pokrytie 5G
+sieťami. Napríklad Estónsko, ktoré je priekopníkom v oblasti digitálnych verejných služieb
+
+4
+
+HELSPER, E. J., DEURSEN, J.A. Digital Skills in Europe: Research and Policy [online]. 2020. Dostupné
+na: https://www.myecole.it/biblio/wpcontent/uploads/2020/11/DigitalSkillsinEuropeResearchandPolicy_Helsper.pdf. [Citované: 18. 10. 2024].
+
+13
+
+a e-governmentu, má dobre rozvinutú digitálnu infraštruktúru, no čelí výzvam pri zavádzaní
+5G sietí. Naproti tomu Fínsko, ktoré patrí k lídrom v oblasti digitálnej inklúzie, už
+zabezpečilo významný pokrok v oblasti infraštruktúry a jeho digitálna politika kladie dôraz
+na rovnaký prístup k vysokorýchlostnému internetu aj v odľahlých oblastiach. Podobný cieľ
+si kladie Taliansko, ktoré sa snaží využiť financie z Plánu obnovy a odolnosti na riešenie
+regionálnych rozdielov v digitálnej infraštruktúre, čo predstavuje výzvu najmä pre juh
+krajiny.
+Malé a stredné podniky (SMEs) tvoria chrbtovú kosť európskej ekonomiky a ich
+digitalizácia je nevyhnutná pre zvýšenie konkurencieschopnosti a produktivity. EÚ má za
+cieľ, aby viac než 90 % SMEs dosiahlo aspoň základnú úroveň digitálnej intenzity do roku
+2030. Napriek tomu však len 59 % podnikov v súčasnosti dosahuje túto úroveň, pričom
+veľké firmy sú na tom lepšie, s úrovňou 91 %. 5 Francúzsko, ktoré je jedným z hlavných
+hráčov v podpore startupov a digitalizácie podnikateľského prostredia, sa zameriava na
+zvýšenie počtu startupov v oblasti umelej inteligencie a technológií, pričom podporuje aj
+zavádzanie cloudových technológií do malých podnikov.
+Digitalizácia verejných služieb je kľúčovým prvkom digitálnej transformácie v Európe.
+EÚ sa zameriava na to, aby do roku 2030 boli všetky kľúčové verejné služby plne online.
+Zároveň má každý občan získať prístup k elektronickým zdravotným záznamom a digitálnej
+identite. V tomto smere je Estónsko jedným z globálnych lídrov, kde sú všetky kľúčové
+verejné služby prístupné online a občania majú digitálnu identitu, čo výrazne zjednodušuje
+každodenné interakcie s úradmi.
+V porovnaní s tým sa iné krajiny, ako napríklad Taliansko, snažia zrýchliť digitalizáciu
+verejného sektora a využiť finančné prostriedky z EÚ na modernizáciu digitálnych
+platforiem, čím chcú znížiť byrokraciu a zlepšiť dostupnosť služieb pre občanov.
+Digitálna transformácia Európy sa prejavuje rôznymi spôsobmi v jednotlivých krajinách,
+v závislosti od ich technologického a ekonomického rozvoja. Krajiny ako Nemecko,
+Estónsko a Fínsko sú v popredí digitálnej transformácie, zatiaľ čo iné, ako Taliansko,
+investujú do rozvoja infraštruktúry a digitalizácie verejných služieb, aby dohnali vedúcich
+hráčov. Spoločným cieľom pre všetky krajiny je však dosiahnuť do roku 2030 výrazné
+
+EUROSTAT. Digitalizácia v Európe – vydanie 2024 [online]. 2024. Dostupné
+https://ec.europa.eu/eurostat/web/interactive-publications/digitalisation-2024. [Citované: 18. 10. 2024].
+5
+
+14
+
+na:
+
+zlepšenie v oblasti digitálnych zručností, infraštruktúry a prístupu k digitálnym
+technológiám, čo prispeje k celkovému rozvoju digitálnej ekonomiky Európy.6
+Výskumné infraštruktúry sú neoddeliteľnou súčasťou digitálnej transformácie v Európe,
+pričom ich úloha spočíva v poskytovaní špičkových zariadení, zdrojov a služieb pre vedecký
+výskum a technologické inovácie. Podľa správy ScienceBusiness výskumné infraštruktúry
+zohrávajú zásadnú úlohu v digitálnej transformácii tým, že podporujú vedecký pokrok a
+technologické
+
+inovácie,
+
+čím
+
+prispievajú
+
+k
+
+dlhodobej
+
+konkurencieschopnosti
+
+a
+
+hospodárskemu rastu Európy. Identifikujú sa hlavné výzvy, ktorým výskumné infraštruktúry
+v Európe čelia, a ponúkajú sa návrhy na prilákanie investícií. Zabezpečenie udržateľného
+financovania pre nové a existujúce výskumné infraštruktúry je nevyhnutné a zdôrazňuje
+význam verejno-súkromného partnerstva, čo je dnes obzvlášť náročné vzhľadom na
+hospodárske dôsledky pandémie a vojny na Ukrajine. Kľúčovým faktorom úspechu je aj
+metodológia hodnotenia vplyvu výskumných infraštruktúr, ktorá zahŕňa nielen ekonomické
+a sociálne prínosy, ale aj environmentálnu udržateľnosť. Harmonizácia metodík na úrovni
+EÚ by mohla podporiť porovnateľnosť výsledkov a efektívne rozdeľovanie finančných
+prostriedkov medzi krajinami. Dôležitá je aj dostupnosť výskumných infraštruktúr pre
+všetkých výskumníkov v EÚ, čo maximalizuje prínosy pre spoločnosť, vrátane
+zverejňovania výsledkov s otvoreným prístupom a poskytovania reálnych dôkazov o ich
+dopadoch. Transparentnosť, verejný prístup a podpora interdisciplinárnych projektov môžu
+posilniť dôveru verejnosti a odôvodniť investície, čím sa urýchli digitálna transformácia a
+podpora udržateľného rozvoja.7
+
+1.2 Digitálna transformácia práce vo vybraných krajinách
+1.2.1
+
+Estónsko
+
+Estónsko je často považované za jednu z najpokrokovejších krajín v oblasti digitálnej
+transformácie, a to najmä vďaka svojmu inovatívnemu prístupu k e-governmentu. Po
+rozpade Sovietskeho zväzu začalo Estónsko budovať svoje digitálne služby od základov, čo
+
+EUROPEAN COMMISSION. Europe’s Digital Decade: Digital Targets 2030 [online]. Brussels: European
+Commission, 2024. Dostupné na: https://commission.europa.eu/strategy-and-policy/priorities-20192024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en. [Citované: 18. 10. 2024].
+7
+SCIENCE BUSINESS. Attracting Investment for Research Infrastructures: A Science|Business Special
+Report. Brusel: Science Business Publishing International SRL, 2022.
+6
+
+15
+
+mu umožnilo rýchlo dosiahnuť významné úspechy. Kľúčovým aspektom digitálnej
+transformácie Estónska je digitálna identita, ktorú má každý občan a ktorá umožňuje prístup
+k verejným službám online. Vďaka tejto technológii môžu Estónci vybavovať daňové
+priznania, uzatvárať zmluvy či dokonca voliť elektronicky.
+Estónsko tiež vytvorilo X-Road, decentralizovanú digitálnu infraštruktúru, ktorá
+umožňuje bezpečnú výmenu údajov medzi verejnými a súkromnými inštitúciami. Táto
+technológia významne prispieva k efektívnosti štátnych inštitúcií a k transparentnosti
+verejnej správy. Všetky kľúčové verejné služby v Estónsku sú plne digitalizované, čo šetrí
+občanom množstvo času a znižuje administratívne náklady.
+Dnes je X-Road implementovaný vo viac než 20 krajinách po celom svete. Podobné
+technológie, ako napríklad UXP, PlanetCross a Roksnet, ktoré vychádzajú z estónskej
+skúsenosti s interoperabilitou, boli takisto implementované v niekoľkých ďalších krajinách
+napríklad Nemecko, Fínsko a ďalšie.
+Obrázok 1 - Krajiny v komunite x-road (decentralizovaná digitálna infraštruktúra)
+
+Zdroj: https://x-road.global/xroad-world-map
+
+X-Road ponúka vstavanú podporu pre výmenu údajov
+
+medzi
+
+krajinami
+
+prostredníctvom federácie, čo znamená prepojenie dvoch ekosystémov X-Road. Členovia
+
+16
+
+federovaných ekosystémov môžu vzájomne zdieľať a využívať služby, ako keby boli
+súčasťou toho istého systému.8
+V oblasti vzdelávania sa Estónsko sústreďuje na rozvoj digitálnych zručností od útleho
+veku. Programovanie sa vyučuje už na základných školách a krajina podporuje inovačné
+startupy v technologickom sektore. Estónsko je tiež jedným z lídrov v oblasti kybernetickej
+bezpečnosti.
+Estónsko je vzorom digitálnej transformácie vďaka spolupráci medzi akademickou
+obcou a vládou. Mart Laar spomína, že jedným z prvých podnetov, ktoré v roku 1993 dostal
+ako premiér, bola žiadosť od profesora Raimunda Ubara o zavedenie programu výskumu a
+vývoja v oblasti elektroniky a počítačových technológií. Ubar zdôraznil potrebu vyhnúť sa
+zastaraným technológiám a investovať do budúcich inovácií. Toto usmernenie viedlo k
+decentralizovanej architektúre IT systémov, ktorá umožnila ministerstvám prispôsobiť si
+technológie podľa svojich potrieb, a vytvorilo to priestor pre vlastné digitálne agendy.9
+Vzdelávací program Tiger Leap, ktorý podporil integráciu IT do školstva, bol zásadný
+pre rozvoj digitálnych zručností medzi mladými Estóncami. To prispelo k vzniku
+dynamického sektora IT start-upov a významne ovplyvnilo hospodársku transformáciu.10
+Digitalizácia v Estónsku významným faktorom ovplyvňujúcim zamestnanosť a
+pracovné príležitosti. Vďaka pokročilým technológiám sa zvyšuje dostupnosť vzdelávacích
+programov a rekvalifikácií, čo umožňuje pracovníkom prispôsobiť sa meniacim sa
+požiadavkám trhu. Zároveň digitalizácia prispieva k rozvoju flexibilných pracovných
+modelov, čím sa zlepšuje rovnosť prístupu k zamestnaniu. Flexibilné pracovné modely v
+Estónsku sú v súčasnosti predmetom rozsiahlej diskusie, najmä v kontexte digitalizácie a jej
+dopadov na trh práce. Rôzne štúdie naznačujú, že Estónsko sa stalo lídrom v implementácii
+flexibilných pracovných praktík. Už podľa výskumu z rokov 2009 až 2013 sa podiel
+spoločností, ktoré ponúkajú flexibilný pracovný čas, zvýšil na 65 %, čo je nadpriemerné
+číslo v porovnaní s EÚ.11 Estónske firmy majú tendenciu umožňovať zamestnancom
+
+8
+
+E-ESTONIA. X-Road Interoperability Services [online]. Dostupné na: https://e-estonia.com/solutions/xroad-interoperability-services/x-road/. [Citované: 18. 10. 2024].
+9
+KATTEL, R., MERGEL, I. Estonia’s Digital Transformation. In: Great Policy Successes, s. 143–160.
+Oxford: Oxford University Press, 2019.
+10
+KÜTT, A., VIIK, L. (2024). Estonia's Digital Transformation. In The Digital Transformation of Work (s.
+149-157). Oxford University Press. Dostupné na: https://academic.oup.com/book/42635/chapter/358101931
+11
+PIIRSALU-KIVIHALL, K., SINITSYNA, A., ALFIERI, L., PAAS, T. Acceleration of Remote Work and
+Coworking Practices in Estonia During the COVID-19 Pandemic. In: European Narratives on Remote Working
+
+17
+
+akumulovať pracovné hodiny a prispôsobovať si čas podľa vlastných potrieb, čo je veľmi
+výhodné pre zamestnancov s rodinami. Flexibilné pracovné modely tiež prispievajú k väčšej
+účasti rôznych sociálnych skupín na trhu práce. Iniciatíva v oblasti práce na diaľku akéhosi
+pracovného turizmu, ako je napríklad projekt Kupland, ponúka atraktívne podmienky pre
+zamestnancov, ktorí hľadajú prácu na diaľku, čo napomáha k znižovaniu regionálnych
+rozdielov.12
+1.2.2
+
+Fínsko
+
+Fínsko patrí medzi krajiny, ktoré sa dlhodobo zameriavajú na rozvoj digitálnych
+technológií s cieľom zabezpečiť dostupnosť týchto inovácií pre všetkých obyvateľov, bez
+ohľadu na ich geografickú polohu či sociálnu situáciu. Fínsko bolo jednou z prvých krajín,
+ktorá zakotvila prístup k vysokorýchlostnému internetu ako základné právo, čo podčiarkuje
+jeho záväzok zabezpečiť digitálnu inklúziu. Vláda sa systematicky zameriava na rozvoj
+digitálnej infraštruktúry, najmä v odľahlých regiónoch, aby každý občan mal prístup k
+rýchlemu internetu a digitálnym službám.
+Jedným z kľúčových pilierov fínskej digitálnej transformácie je rozvoj digitálnej
+infraštruktúry. Vláda sa zaviazala pokryť všetky regióny vysokorýchlostným internetom,
+čím podporuje nielen mestské, ale aj vidiecke oblasti. To umožňuje lepšiu konektivitu nielen
+pre podnikateľov a zamestnancov, ale aj pre vzdelávacie inštitúcie a verejné služby. Fínsko
+sa môže pochváliť jednou z najlepších sietí 5G v Európe, čo je dôležitý faktor pri
+implementácii nových technológií, ako sú autonómne vozidlá a priemyselné IoT systémy.
+DNA, jeden z hlavných poskytovateľov telekomunikačných služieb vo Fínsku, rýchlo
+rozširuje svoju 5G sieť, ktorá teraz pokrýva približne 76 % populácie.
+
+and Coworking During the COVID-19 Pandemic, s. 19–27. 2023. DOI: 10.1007/978-3-031-26018-6_3.
+License CC BY 4.0.
+12
+KUPLAND Flexible Remote Work and Coworking in Southern Estonia [online]. Dostupné na:
+https://kupland.ee/. [Citované: 18. 10. 2024].
+
+18
+
+Obrázok 2 - Mapa pokrytia 5G operátora DNA, ilustračný obrázok
+
+Zdroj: DNA. https://www.dna.fi/tuki/kuuluvuus-ja-verkot/kuuluvuuskartta
+
+Vzdelávanie a rozvoj digitálnych zručností tvoria ďalšiu dôležitú oblasť, na ktorú sa
+Fínsko zameriava. Fínske školy, ktoré sú svetovo uznávané pre svoju inovatívnosť, už
+mnoho rokov integrujú digitálne technológie do výučby. Deti sú od ranného veku vystavené
+programovaniu a digitálnym nástrojom, čo im umožňuje rýchlo sa adaptovať na
+technologické zmeny.
+Jedným z najúspešnejších vzdelávacích programov zameraných na digitalizáciu vo
+Fínsku je iniciatíva „Digital Leap,“ ktorú spustilo Ministerstvo školstva a kultúry v roku
+2015. Tento program podporoval školy v modernizácii ich infraštruktúry a zavádzaní
+digitálnych technológií do vzdelávacieho procesu. Jeho cieľom bolo poskytnúť učiteľom a
+žiakom prístup k digitálnym nástrojom a zvýšiť digitálnu gramotnosť v krajine. Program
+
+19
+
+dosiahol významné úspechy, vrátane zlepšenia digitálnych zručností učiteľov a integrácie
+technológií do vzdelávacieho procesu na všetkých úrovniach vzdelávania.13
+Tento prístup sa odráža aj v širšom kontexte vzdelávania dospelých. Vláda financuje
+širokú škálu rekvalifikačných programov, ktoré pomáhajú zamestnancom získavať nové
+zručnosti potrebné pre udržanie konkurencieschopnosti na trhu práce.
+Fínsko tiež vyniká v oblasti digitálnej verejnej správy. Krajina neustále rozširuje
+dostupnosť online verejných služieb, čím zjednodušuje občanom prístup k štátnym
+inštitúciám. Digitálne zdravotné záznamy, elektronické daňové priznania a rôzne ďalšie
+služby sú bežnou súčasťou každodenného života, pričom sa kladie dôraz na bezpečnosť a
+ochranu osobných údajov. Jedným z najvýznamnejších projektov je Kanta, národný systém
+zdravotných záznamov. Tento systém poskytuje občanom prístup k ich zdravotným
+záznamom online, umožňuje elektronické recepty a obsahuje možnosť pre občanov
+zaznamenávať vlastné údaje o zdraví, ako napríklad údaje z mobilných aplikácií. Kanta
+zjednodušuje procesy v zdravotníctve, šetrí čas a eliminuje potrebu osobných návštev
+lekárov kvôli jednoduchým úkonom, ako je obnovenie predpisov. Ďalší významný program
+je Health 360 Finland, spustený v roku 2024. Tento program podporuje využitie digitálnych
+technológií, vrátane umelej inteligencie a robotiky, na zlepšenie efektivity v zdravotníctve a
+riešenie výziev starnutia populácie a zvyšujúcich sa nákladov na zdravotnú starostlivosť.
+Program ponúka financovanie výskumu a vývoja a podporuje spoluprácu medzi verejnými
+a súkromnými partnermi.14
+Fínsko si však uvedomuje, že digitálna transformácia musí byť inkluzívna. Jednou z
+hlavných výziev je zabezpečiť, aby marginalizované skupiny, ako sú starší ľudia a ľudia v
+odľahlých oblastiach, mali prístup k potrebným technológiám a digitálnym zručnostiam.
+Preto vláda podporuje rôzne programy na zlepšenie digitálnej gramotnosti, čím sa snaží
+predchádzať digitálnej priepasti medzi rôznymi skupinami obyvateľstva.15
+
+13
+
+KILPI, T. Making the digital leap in Finnish schools [online]. 2022. Dostupné na:
+https://www.researchgate.net/publication/363942451_Making_the_digital_leap_in_Finnish_schools.
+[Citované: 18. 10. 2024].
+14
+BUSINESS FINLAND. Innovative Digital Solutions for Increased Efficiency in the Health Sector [online].
+2024. Dostupné na: https://www.businessfinland.fi/en/whats-new/news/cision-releases/2024/innovativedigital-solutions-for-increased-efficiency-in-the-health-sector. [Citované: 18. 10. 2024].
+15
+MINISTRY OF FINANCE, Finland. Report: Digital Public Services for Citizens and Businesses in Finland
+Still at Highest Standard in the EU [online]. 2023. Dostupné na: https://vm.fi/en/-/1410829/report-digitalpublic-services-for-citizens-and-businesses-in-finland-still-at-highest-standard-in-the-eu. [Citované: 18. 10.
+2024].
+
+20
+
+Fínsko sa dlhodobo snaží zabezpečiť, aby digitálna transformácia neprinášala len
+technologické inovácie, ale aj pozitívne sociálne dopady. V kontexte zamestnanosti sa
+krajina zameriava na vytváranie nových pracovných miest v digitálnych sektoroch, čím sa
+znižuje nezamestnanosť a zvyšuje sa konkurencieschopnosť. Prístup k digitálnym
+technológiám umožňuje flexibilitu v zamestnávaní, čo je obzvlášť dôležité pre
+zamestnancov v odvetviach, ako sú technológie, zdravotná starostlivosť a vzdelávanie.
+Týmto spôsobom sa podporuje sociálna rovnosť, pretože zvyšuje prístupnosť pracovných
+príležitostí pre rôzne skupiny obyvateľstva, vrátane žien a mladých profesionálov.16
+Sociálna rovnosť je tiež posilnená investíciami do rekvalifikácie a neustáleho
+vzdelávania, ktoré sú zásadné pre adaptáciu zamestnancov na rýchlo sa meniacom trhu
+práce. Vláda a súkromný sektor spolupracujú na rozvoji programov, ktoré zameriavajú na
+rozširovanie digitálnych zručností. Fínsko sa usiluje o rovnosť príležitostí pre všetkých
+občanov, a to aj prostredníctvom legislatívy, ktorá podporuje diverzitu na pracovisku a
+zabezpečuje, aby boli ženy a muži rovnako zastúpení vo všetkých oblastiach zamestnania.
+Týmto spôsobom sa Fínsko usiluje o vytvorenie spravodlivejšieho a inkluzívnejšieho trhu
+práce, ktorý bude schopný reagovať na výzvy digitálnej transformácie.17
+1.2.3
+
+Francúzsko
+
+Francúzsko sa v posledných rokoch stalo významným hráčom v oblasti digitálnej
+transformácie, najmä vďaka silným investíciám do umelej inteligencie (AI) a podpory
+startupového prostredia. V rámci Národného plánu pre umelú inteligenciu „France AI“ sa
+Francúzsko zameriava na podporu inovácií a rozvoja AI technológií s cieľom zvýšiť svoju
+globálnu konkurencieschopnosť. Tento plán bol spustený v roku 2018 s počiatočným
+rozpočtom 1,5 miliardy eur, pričom druhá fáza (2021-2025) sa sústreďuje na rozvoj
+výskumu, vzdelávania a aplikácie AI v rôznych sektoroch, ako sú zdravotníctvo,
+kybernetická bezpečnosť a ekologické technológie.18.
+Jedným z významných projektov je program IA Booster France 2030, ktorý je
+zameraný na podporu malých a stredných podnikov (SME) a stredne veľkých podnikov
+
+16
+
+VÄÄTÄJÄ, H., KORPELAINEN, E. (2021). Digital inclusion in Finland: Ensuring equality in digital
+services. International Journal of Public Administration in the Digital Age, 8(3), 1-18.
+17
+KIVIMÄKI, T., & HÄMÄLÄINEN, J. (2022). Digital Transformation and Equality in the Finnish Labor
+Market. Journal of Digital Innovation and Economic Development, 15(1), 45-63.
+18
+INRIA. French National Artificial Intelligence Research Program [online]. Dostupné na:
+https://www.inria.fr/en/french-national-artificial-intelligence-research-program. [Citované: 18. 10. 2024].
+
+21
+
+(ETI) pri zavádzaní AI riešení. Tento program je financovaný sumou 25 miliónov eur a je
+spravovaný organizáciou Bpifrance. Cieľom je pomôcť firmám implementovať AI
+technológie na zvýšenie produktivity a konkurencieschopnosti v globálnom prostredí.19
+Jedným z hlavných cieľov Francúzska je vytvoriť inovačný ekosystém, ktorý bude
+podporovať vznik technologických startupov. V krajine funguje niekoľko technologických
+inkubátorov a akcelerátorov, z ktorých najvýznamnejší je Station F, najväčší startupový
+kampus na svete, ktorý sídli v Paríži. 20Tento kampus podporuje mladé technologické
+spoločnosti a umožňuje im prístup k mentorstvu, financovaniu a globálnym sieťam.
+Francúzsko zároveň kladie veľký dôraz na digitálnu transformáciu verejných služieb.
+Vláda sa zaviazala digitalizovať všetky kľúčové verejné služby do roku 2030, vrátane
+poskytovania elektronických zdravotných záznamov a elektronickej komunikácie s úradmi.
+V tejto oblasti však Francúzsko čelí výzvam, najmä pri zavádzaní digitálnych riešení v menej
+rozvinutých regiónoch krajiny. Aby sa tieto problémy prekonali, súčasťou francúzskeho
+plánu obnovy sú investície do digitálnej infraštruktúry v odľahlých oblastiach, čo má
+umožniť lepší prístup k digitálnym službám pre všetkých občanov.
+Digitalizácia verejných služieb je financovaná vo výške 500 miliónov eur, a to vrátane
+zlepšenia infraštruktúry vo vidieckych a menej rozvinutých oblastiach. Výzvou pre
+Francúzsko je zabezpečiť, aby aj menej rozvinuté regióny mali prístup k digitálnym službám,
+čo rieši vláda investíciami do rozšírenia vysokorýchlostného internetu a modernizácie
+verejných služieb. Tieto opatrenia sú súčasťou plánu obnovy a odolnosti, podporeného
+grantmi z programu NextGenerationEU, ktorý zahŕňa aj digitalizáciu zdravotníctva a
+školstva.21
+Ďalšou kľúčovou súčasťou digitálnej transformácie Francúzska je podpora vzdelávania
+a zlepšovania digitálnych zručností. Vláda spolupracuje so vzdelávacími inštitúciami na
+integrácii nových technológií do učebných osnov a na posilnení digitálnej gramotnosti medzi
+mladými ľuďmi. Francúzsko sa tiež snaží zvýšiť zastúpenie žien v technologických
+
+19
+
+MINISTÈRE DE L'ÉCONOMIE, des Finances et de la Souveraineté Industrielle et Numérique. Stratégie
+nationale pour l’intelligence artificielle [online]. 2023. Dostupné na: https://www.economie.gouv.fr/strategienationale-intelligence-artificielle. [Citované: 18. 10. 2024].
+20
+STATION F. World's largest startup campus in Paris [online]. 2024. Dostupné na: https://stationf.co/.
+[Citované: 18. 10. 2024].
+21
+EUROPEAN COMMISSION. France Recovery and Resilience Plan Factsheet [online]. 2021. Dostupné na:
+https://commission.europa.eu/system/files/2021-06/france-recovery-resilience-factsheet_en.pdf. [Citované:
+18. 10. 2024].
+
+22
+
+profesiách prostredníctvom špeciálnych programov zameraných na podporu žien v oblasti
+IKT. Jedným z konkrétnych programov na podporu mladých ľudí, vrátane dievčat, je
+iniciatíva "Des Pros dans ta classe". Tento program organizuje workshopy priamo v triedach,
+ktoré mladým študentom približujú svet technológií a nabádajú ich na kariéru v digitálnom
+sektore. Taktiež sa v rámci programu bojuje proti rodovým stereotypom v oblasti IT.22
+Hoci Francúzsko dosiahlo v oblasti digitálnej transformácie významný pokrok, čelí aj
+určitým prekážkam. Najvýraznejšou výzvou je nedostatok kvalifikovaných odborníkov v
+oblasti IKT, čo bráni rýchlejšiemu rozvoju niektorých iniciatív.
+Napriek týmto pokrokom Francúzsko čelí významným výzvam v oblasti
+zamestnanosti. Nedostatok kvalifikovaných odborníkov v oblasti IKT, ktorý je odhadovaný
+na niekoľko desiatok tisíc voľných miest, bráni rýchlejšiemu rozvoju mnohých inovácií a
+iniciatív v digitálnom sektore. Tento nedostatok odborníkov sa prejavuje v narastajúcej
+konkurencii medzi podnikmi pri získavaní talentov, čo vedie k nárastu miezd v
+technologických profesiách a zvyšovaniu tlaku na vzdelávacie inštitúcie, aby pružne
+reagovali na potreby trhu. Pracovný trh je pod tlakom, aby sa prispôsobil novým
+technológiám, čo si vyžaduje zlepšenie vzdelávania a odborného prípravy. Francúzska vláda
+reaguje na podporu zamestnanosti, formou financovaných stáži a podporou začínajúcich
+podnikateľov, ktorá umožňujú mladým a nezamestnaným osobám nadobudnúť potrebné
+zručnosti. Cieľom týchto iniciatív je nielen znížiť nezamestnanosť, ale aj poskytnúť
+občanom prístup k stabilným a perspektívnym zamestnaniam, čím sa podporuje sociálna
+rovnosť a inklúzia na trhu práce.
+
+1.2.4 Nemecko
+Nemecko je považované za lídra v digitálnej transformácii, najmä v oblasti Priemyslu
+4.0, ktorý je hlavným motorom jeho digitálnej revolúcie. Tento koncept zahŕňa digitalizáciu
+a automatizáciu výrobných procesov, čo umožňuje lepšiu integráciu technológií ako umelá
+inteligencia (AI), Internet vecí (IoT) a robotika. Nemecký priemysel je jedným z
+najpokrokovejších na svete, a preto sa digitalizácia považuje za nevyhnutný krok k zvýšeniu
+
+22
+
+EUROPEAN COMMISSION. France: Digital Education Agenda 2023-2027 [online]. 2023. Dostupné na:
+https://digital-skills-jobs.europa.eu/en/actions/national-initiatives/national-strategies/france-digital-educationagenda-2023-2027. [Citované: 18. 10. 2024].
+
+23
+
+konkurencieschopnosti. Stratégia digitálnej transformácie podporuje nielen priemysel, ale aj
+výskum a vývoj v oblasti umelej inteligencie a robotiky.
+V roku 2020 nemecká vláda prijala Národnú stratégiu digitálnej ekonomiky, ktorá sa
+zameriava na vytvorenie podmienok pre široké zavedenie digitálnych inovácií. Vláda
+plánuje investovať viac ako 3 miliardy eur do výskumu a implementácie AI, pričom kladie
+dôraz na ochranu súkromia a etické používanie tejto technológie. Tieto opatrenia sú
+zamerané na riešenie globálnych výziev, ako sú klimatické zmeny, hospodárska kríza a
+udržateľnosť pracovných miest v digitálnej ekonomike. Aj napriek veľkému pokroku čelí
+Nemecko výzvam, najmä v oblasti digitalizácie verejných služieb a vzdelávacieho systému.
+Podľa správy o pokroku Nemeckej národnej digitálnej stratégie na rok 2024 krajina dosiahla
+významný pokrok v rozširovaní digitálnych technológií a infraštruktúry.23
+Kľúčovým úspechom je masívne rozširovanie 5G sietí a optických spojení, ktoré sú
+kľúčové pre hospodársky rozvoj a prepojenie mestských aj vidieckych oblastí. Zároveň sa v
+oblasti zdravotníctva kladie dôraz na digitalizáciu procesov, pričom zavedenie
+elektronických receptov a elektronickej zdravotnej dokumentácie výrazne prispelo k
+efektívnejšej starostlivosti o pacientov. Nemecko tiež pokračuje v integrácii digitálnych
+systémov do zdravotníckych procesov, čo prispieva k zlepšeniu kvality poskytovaných
+služieb.
+Investície do vývoja umelej inteligencie a spolupráca medzi výskumnými inštitúciami
+a podnikateľským sektorom podporujú vývoj nových technológií a riešení, čo zvyšuje
+konkurencieschopnosť krajiny.
+Vzdelávanie a rozvoj digitálnych zručností sa ukazujú ako nevyhnutné pre ďalší
+hospodársky rast. Správa zdôrazňuje potrebu posilniť vzdelávací systém, aby zvýšil
+digitálne zručnosti pracovnej sily, čím sa vytvára základ pre rozvoj modernej ekonomiky.
+Napriek pokroku je stále potrebné pokračovať v investíciách a reformách, aby si Nemecko
+udržalo vedúcu pozíciu v globálnej digitálnej ekonomike.
+Digitalizácia, ktorá zasahuje do všetkých aspektov hospodárstva, transformuje spôsob,
+akým sa vykonáva práca, a vytvára nové požiadavky na zručnosti zamestnancov. Napriek
+
+23
+
+BUNDESREGIERUNG. Fortschrittsbericht zur Digitalstrategie der Bundesregierung [online]. 2024.
+Dostupné na: https://www.digitalstrategiedeutschland.de/static/65d93ffeba99d715f3c218bc3e469729/2._Fortschrittsbericht_zur_Digitalstrategie_der_
+Bundesregierung_barrierefrei.pdf. [Citované: 18. 10. 2024].
+
+24
+
+pokroku v digitalizácii existujú v Nemecku významné rozdiely v prístupe k digitálnym
+technológiám, čo vedie k sociálnej nerovnosti. V oblasti zamestnanosti sú skupiny, ako sú
+starší ľudia a osoby s nízkym vzdelaním, najviac postihnuté digitálnymi zmenami. Podľa
+štúdie B. Stiftunga majú osoby s nižšími digitálnymi zručnosťami o 50 % vyššiu
+pravdepodobnosť, že sa ocitnú v nezamestnanosti. Tieto rozdiely posilňujú existujúce
+sociálne nerovnosti, pričom zamestnanci s nízkymi zručnosťami sú vystavení väčšiemu
+riziku straty zamestnania v dôsledku automatizácie a digitalizácie.24
+Podľa Koernera existuje preukázateľná súvislosť medzi úrovňou digitálnych zručností
+a zamestnateľnosťou, osoby s vyššími digitálnymi zručnosťami majú tendenciu mať lepšie
+zamestnanie a vyššie príjmy. Jeho štúdia zdôrazňuje, že ak sa nezabráni rastu digitálnej
+priepasti, môže to viesť k prehlbovaniu sociálnej nerovnosti a zhoršeniu ekonomických
+vyhliadok pre zraniteľné skupiny obyvateľstva, ako sú starší ľudia a osoby s nízkym
+vzdelaním.25
+
+1.2.5 Taliansko
+Taliansko sa v posledných rokoch zameriava na digitálnu transformáciu
+prostredníctvom Plánu obnovy a odolnosti, ktorý obsahuje významné investície do digitálnej
+infraštruktúry a technológií. Taliansko čelí mnohým výzvam, najmä pokiaľ ide o veľké
+regionálne rozdiely v prístupe k digitálnym technológiám a infraštruktúre medzi severom a
+juhom krajiny. Kým severné regióny, ako napríklad Miláno, patria medzi technologicky
+najvyspelejšie časti Európy, juh krajiny zaostáva a potrebuje rozsiahle investície do
+digitálnej modernizácie.
+Plán obnovy, ktorý Taliansko prijalo v rámci EÚ, zahŕňa investície do rozvoja
+vysokorýchlostného internetu a 5G sietí, čo je kľúčové pre ďalší rozvoj digitálnych služieb
+v krajine. Tieto investície sa zameriavajú najmä na menej rozvinuté oblasti, kde digitálna
+infraštruktúra zaostáva, čím by sa mala znížiť digitálna priepasť medzi severom a juhom.26
+
+24
+
+BERTELSMANN STIFTUNG. 2021. Digital Souverän 2021: Aufbruch in die digitale Post-Coronawelt?
+[online]. Dostupné na: https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/digitalsouveraen-2021-aufbruch-in-die-digitale-post-coronawelt-all Citované:18. október 2024].
+25
+KOERNER, C., FRIESEN, J., WITTKE, F. (2022). The Digital Divide and Its Impacts on Employment in
+Germany. Journal of Digital Economy, 4(2), 45-61.
+26
+GOVERNO ITALIANO. Piano Nazionale di Ripresa e Resilienza (PNRR) [online]. 2021. Dostupné na:
+https://www.governo.it/sites/governo.it/files/PNRR_0.pdf. [Citované: 18. 10. 2024].
+
+25
+
+Taliansko sa zameriava na posilnenie digitálnych zručností obyvateľstva, čo zahŕňa
+vytvorenie rekvalifikačných programov pre pracovníkov v tradičných odvetviach, ako je
+výroba a poľnohospodárstvo, ktoré sú najviac ohrozené automatizáciou a digitalizáciou.
+V oblasti digitálnych zručností Taliansko implementuje programy na zvýšenie
+digitálnej gramotnosti, pričom sa osobitne sústredí na mladých ľudí a pracovníkov v
+tradičných priemyselných odvetviach, ktoré sú zasiahnuté automatizáciou. Talianska vláda
+si uvedomuje, že na úspešnú adaptáciu na digitálnu ekonomiku je nevyhnutné zlepšiť
+digitalizáciu v Taliansku a využiť plánu obnovy a venovať sa regionálnym rozdielom.27
+Taliansko ako jeden z najväčších prijímateľov finančných prostriedkov z Plánu obnovy
+a odolnosti Európskej únie, investuje značné zdroje do modernizácie svojej digitálnej
+infraštruktúry a podporuje digitálnu transformáciu naprieč všetkými sektormi ekonomiky.
+Taliansko tiež plánuje podporiť malé a stredné podniky (SMEs), ktoré zaostávajú v
+zavádzaní digitálnych technológií. Jedným z hlavných cieľov talianskej vlády je zvýšenie
+digitálnej gramotnosti medzi pracovníkmi a podnikateľmi, aby mohli lepšie využívať
+technologické inovácie a zlepšiť svoju konkurencieschopnosť. Vláda sa tiež zaviazala
+vytvoriť priaznivejšie podmienky pre startupy a technologické inovácie, najmä
+prostredníctvom grantov a investičných stimulov, ktoré umožnia novým spoločnostiam
+rýchlejšie rásť a expandovať.
+V oblasti verejných služieb sa Taliansko sústreďuje na digitalizáciu svojho verejného
+sektora. Elektronické zdravotníctvo a digitalizácia administratívnych služieb patria medzi
+hlavné priority talianskej vlády. Kým digitalizácia verejných služieb na severe prebieha
+úspešne, juh krajiny stále čelí výzvam v oblasti zavádzania elektronických služieb a prístupu
+k technológiám. Vláda sa preto zaviazala investovať do regionálnej digitalizácie, aby
+zabezpečila rovnaké príležitosti pre všetkých občanov.
+Jednou z najväčších výziev, ktorým Taliansko čelí, je polarizácia trhu práce, ktorú
+spôsobuje rozširovanie digitálnych technológií. Na jednej strane vznikajú nové pracovné
+príležitosti pre vysoko kvalifikovaných odborníkov v oblastiach, ako sú informačné
+technológie a dátová analytika, na druhej strane dochádza k poklesu pracovných miest pre
+nízkokvalifikovaných pracovníkov, čo prehlbuje sociálne a ekonomické nerovnosti. Z tohto
+
+27
+
+EUROPEAN COMMISSION. Italy: National Strategy for Digital Skills [online]. 2020. Dostupné na:
+https://digital-skills-jobs.europa.eu/en/actions/national-initiatives/national-strategies/italy-national-strategydigital-skills. [Citované: 18. 10. 2024].
+
+26
+
+dôvodu je nevyhnutné zamerať sa na rozvoj digitálnych zručností a rekvalifikáciu
+pracovníkov.28
+Obrázok 3 - Zhodnotenie pokroku plánu digitálneho desaťročia v Taliansku
+
+Zdroj: REPORT ON THE STATE OF THE DIGITAL DECADE 2024. https://digitalstrategy.ec.europa.eu/en/policies/2024-state-digital-decade-package
+
+Taliansko sa vďaka svojim ambicióznym plánom na digitálnu transformáciu a
+prekonanie regionálnych rozdielov stáva zaujímavým príkladom krajiny, ktorá sa snaží
+využiť príležitosti digitálneho veku, avšak čelí značným výzvam v oblasti infraštruktúry a
+inklúzie. Digitálna transformácia Talianska bude do veľkej miery závisieť od úspešnej
+implementácie reforiem a od schopnosti vlády prekonávať regionálne nerovnosti.
+
+28
+
+CIRILLO, V., MINA, A., RICCI, A. Digital Technologies, Labor Market Flows and Training: Evidence
+from Italian Employer-Employee Data. Laboratory of Economics and Management, Sant'Anna School of
+Advanced Studies, Pisa, Italy, 2024. Dostupné z: http://www.lem.sssup.it/WPLem/files/2024-22.pdf [cit.
+2024-10-18].
+
+27
+
+1.3 Komparatívna analýza digitálnej transformácie práce vybraných
+krajín
+Digitálna transformácia sa stala kľúčovým faktorom ovplyvňujúcim zamestnanosť a
+sociálnu rovnosť v mnohých európskych krajinách. Program „Digitálne desaťročie Európy“
+predstavuje ambiciózny plán Európskej únie, ktorého cieľom je posilniť digitálne zručnosti
+obyvateľstva, rozvoj digitálnych infraštruktúr a modernizáciu podnikov. Komparácia
+porovnáva situáciu v piatich vybraných krajinách – Estónsku, Fínsku, Francúzsku, Taliansku
+a Nemecku – z hľadiska zamestnanosti, pracovného trhu a sociálnej nerovnosti, pričom sa
+zameriava aj na dopady digitalizácie.
+Estónsko je považované za digitálneho lídra v oblasti e-governmentu. Krajina
+implementovala pokročilé digitálne technológie, ako je X-Road, a poskytuje svojim
+občanom prístup k verejným službám online. Rýchla digitalizácia priniesla nové pracovné
+príležitosti, najmä v oblasti IT, pričom zamestnanosť v technologických sektoroch rástla.
+Flexibilné pracovné modely sa stali bežnou praxou, čo umožňuje rôznym sociálnym
+skupinám, vrátane rodičov a mladých profesionálov, lepšie sa prispôsobiť pracovným
+požiadavkám. Fínsko sa zameriava na digitálnu inklúziu a rozvoj digitálnych zručností.
+Vzdelávacie programy integrujú digitálne technológie od základných škôl, čo zvyšuje
+zamestnateľnosť mladých ľudí. Prístup k vysokorýchlostnému internetu bol zakotvený ako
+základné právo, čím sa zabezpečila rovnosť prístupu k digitálnym službám. Pracovný trh vo
+Fínsku reaguje na digitalizáciu, čím sa vytvárajú nové pracovné miesta v oblasti technológie
+a služieb.
+Francúzsko investuje do umelej inteligencie a startupov s cieľom podporiť inováciu
+a zamestnanosť. V rámci Národného plánu pre umelú inteligenciu krajina podporuje malé a
+stredné podniky, čo vedie k vytváraniu nových pracovných miest. Avšak nedostatok
+kvalifikovaných odborníkov v oblasti IKT brzdí rýchlejší rozvoj a zvyšuje nezamestnanosť.
+Francúzska vláda reaguje na tento problém vytváraním programov na rekvalifikáciu a
+podporu mladých odborníkov. Taliansko čelí výzvam v oblasti regionálnych rozdielov,
+pričom severné regióny sú technologicky vyvinutejšie ako juh. Plán obnovy a odolnosti
+zameriava investície na zlepšenie digitálnej infraštruktúry, avšak zaostáva v oblasti
+digitalizácie. Taliansko sa snaží vyrovnať sa s polarizáciou trhu práce, kde sú nové
+príležitosti pre vysoko kvalifikovaných odborníkov, ale zároveň klesá počet pracovných
+miest pre nízko kvalifikovaných pracovníkov.
+
+28
+
+Nemecko, považované za lídra v digitálnej transformácii, sa zameriava najmä na
+Priemysel 4.0, ktorý zahŕňa digitalizáciu a automatizáciu výrobných procesov. Nemecká
+vláda investuje do výskumu a implementácie umelej inteligencie, pričom kladie dôraz na
+ochranu súkromia a etické používanie technológií. Napriek pokroku čelí Nemecko výzvam
+v oblasti digitalizácie verejných služieb a vzdelávacieho systému. Existujú významné
+rozdiely v prístupe k digitálnym technológiám, čo vedie k sociálnej nerovnosti, pričom
+osoby s nižšími digitálnymi zručnosťami majú vyššiu pravdepodobnosť nezamestnanosti.
+Nemecko sa snaží zlepšiť digitálne zručnosti pracovnej sily a znížiť sociálne nerovnosti,
+avšak stále potrebuje pokračovať v investíciách a reformách, aby si udržalo vedúcu pozíciu
+v globálnej digitálnej ekonomike.
+V Estónsku je digitalizácia silne prepojená so znižovaním sociálnych nerovností.
+Vďaka dostupnosti vzdelávacích programov a flexibilným pracovným modelom sa zvyšuje
+zamestnateľnosť a rovnosť prístupu k pracovným miestam. Digitálna identita občanov
+umožňuje prístup k službám, čo posilňuje ich ekonomickú situáciu. Fínsko sa snaží
+zabezpečiť, aby digitálna transformácia priniesla prospech všetkým občanom. Vláda
+podporuje marginalizované skupiny, ako sú starší ľudia, prostredníctvom vzdelávacích
+programov a digitálnej gramotnosti, čím sa predchádza digitálnej priepasti. Prístup k
+digitálnym technológiám znižuje sociálne rozdiely a zvyšuje rovnosť.
+Vo Francúzsku existuje výzva v podobe nedostatku odborníkov v oblasti IKT, čo
+bráni rýchlej digitalizácii. Tento nedostatok posilňuje sociálnu nerovnosť, pretože
+kvalifikovaní odborníci získavajú vyššie mzdy a stabilnejšie zamestnanie. Francúzska vláda
+sa snaží investovať do vzdelávania a rekvalifikácie, aby znížila nezamestnanosť a podporila
+sociálnu rovnosť. Taliansko bojuje s regionálnymi rozdielmi, ktoré sa prejavujú v prístupe k
+digitálnym technológiám a vzdelaniu. Digitalizácia má potenciál znížiť sociálne nerovnosti,
+avšak nedostatočné investície v niektorých oblastiach bránia plnému využitiu týchto
+možností. Taliansko sa zameriava na rekvalifikáciu pracovníkov a podporu startupov, aby
+prekonalo tieto výzvy.
+Digitálna transformácia v Európe ovplyvňuje zamestnanosť, pracovný trh a sociálnu
+rovnosť rôznymi spôsobmi v závislosti od technologického pokroku a investičných stratégií
+jednotlivých krajín. Krajiny ako Estónsko a Fínsko ukazujú, ako môže digitalizácia zlepšiť
+zamestnanosť a znížiť sociálne nerovnosti. Na druhej strane, Francúzsko, Taliansko a
+Nemecko čelí výzvam v oblasti nedostatku odborníkov a regionálnych rozdielov, čo si
+vyžaduje proaktívne prístupy na zabezpečenie rovnosti a udržateľného rozvoja na trhu práce.
+
+29
+
+Digitálna transformácia je teda nielen technologickým, ale aj sociálnym procesom, ktorý si
+vyžaduje koordinované úsilie na úrovni vlád, podnikov a spoločnosti.
+
+30
+
+2
+
+Cieľ práce a metodika práce
+Diplomová práca sa zaoberá vplyvom digitálnej transformácie na pracovný trh,
+
+zamestnanosť, pracovné podmienky a spoločenské zmeny spojené s týmto procesom.
+
+2.1 Hlavný cieľ práce
+Hlavným cieľom práce je identifikovať dopad digitálnej transformácie na pracovný trh
+v rôznych európskych krajinách a identifikovať hlavné výzvy a riziká spojené s
+implementáciou moderných technológií, ako sú umelá inteligencia (AI), automatizácia,
+robotika a digitálne platformy, do pracovných procesov. Za účelom dosiahnutia nášho cieľa
+budeme analyzovať výzvy a riziká digitálnej transformácie práce prostredníctvom
+kvalitatívneho prieskumu založeného na sérii štruktúrovaných rozhovorov s odborníkmi z
+rôznych sektorov. Práca sa zameriava na pochopenie praktických dopadov digitálnej
+transformácie na pracovný trh v slovenskom kontexte a identifikáciu konkrétnych
+odporúčaní pre organizácie a tvorcov politík.
+2.1.1
+
+Čiastkové ciele práce
+
+Na dosiahnutie nášho hlavného cieľa sme si vytýčili niekoľko čiastkových cieľov:
+➢ teoretické vymedzenie pojmov - vymedziť kľúčové pojmy a koncepty digitálnej
+transformácie a analyzovať ich vplyv na pracovný trh v európskom kontexte
+➢ identifikácia súčasného stavu digitálnej transformácie s dopadom na pracovný trh –
+poukázať na teoretické východiská a zamerať sa na vybrané európske krajiny
+➢ identifikácia výziev a rizík - prostredníctvom štruktúrovaných rozhovorov s
+odborníkmi identifikovať hlavné výzvy a riziká spojené s implementáciou
+digitálnych technológií do pracovných procesov v rôznych sektoroch na Slovensku
+➢ analýza skúseností - analyzovať názory a skúsenosti respondentov týkajúce sa
+vplyvu digitálnej transformácie na štruktúru pracovných miest, požadované
+zručnosti a sociálnu nerovnosť
+➢ komparácia praktických skúseností s teóriou - porovnať zistenia z rozhovorov s
+teoretickými poznatkami a identifikovať spoločné trendy a odlišnosti
+➢ formulácia odporúčaní - navrhnúť konkrétne odporúčania pre organizácie a tvorcov
+politík na zmiernenie negatívnych dopadov digitálnej transformácie a podporu
+pozitívnych príležitostí.
+31
+
+2.2 Metodika práce a metódy skúmania
+Diplomová práca využíva kombináciu teoretickej analýzy a kvalitatívneho prieskumu
+s cieľom dosiahnuť stanovené ciele. Metodika pozostáva z nasledujúcich krokov:
+2.2.1
+
+Charakteristika objektu skúmania
+
+Objektom skúmania je vplyv digitálnej transformácie na pracovný trh so zameraním na
+praktické skúsenosti odborníkov na Slovensku. Skúmajú sa dopady zavádzania moderných
+technológií, ako sú umelá inteligencia, automatizácia, robotika a digitálne platformy na
+zamestnanosť, pracovné zručnosti a sociálnu rovnosť.
+
+2.3 Pracovné postupy
+2.3.1
+
+Teoretická analýza
+
+Východiskom pre spracovanie našej témy bolo preskúmanie a syntéza dostupnej
+odbornej literatúry, vedeckých článkov a správ medzinárodných organizácií (napr. OECD,
+Eurostat, Elsevier, Sience Direct, Harvard university ) týkajúcich sa digitálnej transformácie
+a jej vplyvu na pracovný trh v európskom kontexte.
+Na základe získaných informácií sme pristúpili k identifikácii kľúčových trendov,
+konceptov a teórií relevantných pre tému práce.
+2.3.2
+
+Kvalitatívny prieskum
+
+V praktickej časti práce sme sa rozhodli pre kvalitatívny prieskum, pričom sme si určili
+postup s niekoľkých bodoch:
+➢ výber respondentov - výber piatich odborníkov z rôznych sektorov, ktorí majú
+priame skúsenosti s digitálnou transformáciou vo svojej profesii
+➢ príprava nástroja - vytvorenie štruktúrovaného rozhovoru s dvanástimi
+otázkami zameranými na rôzne aspekty digitálnej transformácie práce
+➢ realizácia rozhovorov - uskutočnenie osobných alebo online rozhovorov s
+respondentmi a zaznamenanie ich odpovedí
+➢ analýza rozhovorov - prepis rozhovorov do textovej podoby
+➢ identifikácia hlavných tém, vzorcov a kategórií v odpovediach respondentov.
+
+32
+
+2.3.3
+
+Komparácia a odporúčania
+
+Po spracovaní teoretickej časti a zrealizovaní rozhovorov s vybranými respondentmi
+sme pokračovali v porovnaní zistení z rozhovorov s teoretickými poznatkami a údajmi z
+iných európskych krajín. Snažili sme sa o identifikáciu spoločných trendov, odlišností a
+špecifík slovenského kontextu.
+Na základe analýzy rozhovorov a komparatívnej analýzy teoretických poznatkov a
+zistení z kvalitatívneho prieskumu sme dospeli k sformulovaniu konkrétnych odporúčaní pre
+organizácie a tvorcov politík. Zamerali sme sa na stratégie na zmiernenie negatívnych
+dopadov a využitie príležitostí digitálnej transformácie.
+2.3.4
+
+Spôsob získavania údajov a ich zdroje
+
+Pokiaľ ide o primárne údaje, tieto sme získali prostredníctvom piatich štruktúrovaných
+rozhovorov s odborníkmi. Rozhovory obsahovali otázky týkajúce sa vplyvu digitálnej
+transformácie na pracovné miesta, automatizácie, požadovaných zručností, výziev, rizík,
+sociálnej nerovnosti a odporúčaní.
+Sekundárne zdroje našich dát mali povahu informácií z odbornej literatúry, vedeckých
+článkov, správ medzinárodných organizácií, vládnych dokumentov a štúdií. Sekundárne
+údaje - štatistické údaje sme získali z Eurostatu, OECD a národných štatistických úradov a
+týkali sa digitalizácie, zamestnanosti a digitálnych zručností.
+2.3.5
+
+Použité metódy vyhodnotenia a interpretácie výsledkov
+
+Pri spracovaní našej témy sme použili nižšie uvedené metódy:
+Tematická analýza
+-
+
+použitá na analýzu kvalitatívnych údajov z rozhovorov
+
+-
+
+umožňuje identifikovať hlavné témy a vzorce v odpovediach respondentov
+
+-
+
+pomáha pochopiť subjektívne skúsenosti a názory odborníkov na digitálnu
+transformáciu
+
+Komparatívna analýza
+-
+
+porovnanie zistení z rozhovorov so zisteniami z iných štúdií a štatistických údajov.
+
+-
+
+umožňuje identifikovať podobnosti a rozdiely medzi slovenským kontextom a
+situáciou v iných európskych krajinách
+
+-
+
+odporuje overenie platnosti a generalizovateľnosti zistení
+
+Syntéza údajov
+33
+
+-
+
+integrácia kvalitatívnych a kvantitatívnych údajov na vytvorenie komplexného
+obrazu o výzvach a rizikách digitálnej transformácie práce
+
+-
+
+umožňuje formulovať informované a prakticky relevantné odporúčania.
+
+34
+
+3
+
+Digitálna transformácia práce na Slovensku
+Cieľom tejto časti je analyzovať kľúčové výzvy a riziká spojené s digitálnou
+
+transformáciou práce, ktoré sú aktuálne pre Slovenskú republiku.
+3.1.1
+
+Zamestnanosť a zmena spôsobu práce
+
+Digitálna transformácia práce prináša významné zmeny v oblasti zamestnanosti a
+charakteru pracovných miest. Automatizácia, robotizácia a umelá inteligencia zásadne
+menia spôsob, akým sa práca vykonáva, a zároveň otvárajú nové pracovné príležitosti, ktoré
+však často vyžadujú špecifické technické a digitálne zručnosti. Na Slovensku je táto potreba
+obzvlášť zreteľná, keďže aj napriek rastúcemu dopytu po IT odborníkoch zostáva veľký
+nedostatok kvalifikovaných pracovníkov. Podľa bývalej vicepremiérky Veroniky Remišovej
+Slovensko čelí v súčasnosti výzve nedostatku približne 12 000 IT špecialistov, čo môže
+spomaliť tempo digitalizácie a implementácie nových technológií29.
+„Odhady OECD naznačujú, že v SR sú ohrozené takmer dve tretiny pracovných miest
+– až 34,6 % všetkých pracovných miest na Slovensku bude vysoko automatizovaných a
+ďalších 31 % je ohrozených podstatnou zmenou spôsobu ich vykonávania. Len 27 %
+Slovákov disponuje vyššími ako základnými digitálnymi zručnosťami, len 36 % absolventov
+stredných škôl a 47 % absolventov vysokých škôl pracovalo v zamestnaniach, ktoré úplne
+zodpovedali ich vyštudovaným odborom. Zručnosti absolventov škôl a osôb na trhu práce
+nie sú v súlade s potrebami rýchlo sa meniaceho trhu práce, čo predstavuje dlhodobo
+pretrvávajúcu výzvu pre vzdelávanie a odbornú prípravu, vrátane celoživotného
+vzdelávania. Prístup k celoživotnému vzdelávaniu je nedostatočný, čo vedie k nedostatku
+kvalifikovanej pracovnej sily. Miera vzdelávania dospelých je nízka, len 2,8 % dospelých
+vo veku 25 – 64 rokov sa v roku 2020 zúčastnilo na programe celoživotného vzdelávania
+(priemer EÚ 9,2 %).“30 Aj z tohto dôvodu je jednou z hlavných výziev digitálnej
+transformácie práce na Slovensku potreba prispôsobenia pracovnej sily novým požiadavkám
+trhu práce. Mnoho zamestnancov, najmä v tradičných odvetviach, nedisponuje dostatočnými
+
+29
+
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE SLOVENSKEJ
+REPUBLIKY. Vicepremiérka Remišová: Vláda schválila kľúčové dokumenty pre digitálnu transformáciu
+Slovenska a na rozvoj digitálnej ekonomiky [online]. Bratislava: MIRRI, 2024. Dostupné na:
+https://mirri.gov.sk/aktuality/digitalna-agenda/vicepremierka-remisova-vlada-schvalila-klucove-dokumentypre-digitalnu-transformaciu-slovenska-a-na-rozvoj-digitalnej-ekonomiky/. [Citované: 18. 10. 2024].
+30
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE SLOVENSKEJ
+REPUBLIKY. Program Slovensko 2021 – 2027. Verzia 1.0. Bratislava: MIRRI SR, 2022. s.22 347 s.
+
+35
+
+digitálnymi zručnosťami, čo môže viesť k riziku nezamestnanosti a sociálneho vylúčenia.
+Automatizácia a digitalizácia vo výrobných a administratívnych procesoch postupne znižujú
+počet pracovných miest, čím sa zvyšuje tlak na rekvalifikáciu pracovníkov.
+Obrázok 4 - Úroveň digitálnych zručností jednotlivcov
+
+Zdroj: EUROSTAT. Individuals' level of digital skills (from 2021 onwards),
+https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21/default/bar?lang=en
+
+Podľa Eurostatu len 57 % dospelých v EÚ má aspoň základné digitálne zručnosti, čo
+naznačuje potrebu intenzívnej podpory digitálnej gramotnosti. Na Slovensku sú tieto
+hodnoty ešte nižšie, čím sa zvyšuje význam vzdelávacích iniciatív, potrebu podpory sociálne
+znevýhodnených, aby a zlepšila ich príležitosť na uplatnenie v digitalizovanom svete.
+Prístup Slovenska ako krajiny Európskej únie je v tomto smere veľmi dôležitý.
+Slovensko investuje do rozvoja digitálnych zručností prostredníctvom rôznych vzdelávacích
+programov a rekvalifikačných kurzov. Príkladom je program zameraný na zvýšenie
+digitálnej gramotnosti, ktorý bol spustený v roku 2023 a má pomôcť približne 1,5 miliónu
+ľudí z rôznych znevýhodnených skupín, vrátane seniorov a zdravotne znevýhodnených osôb.
+
+36
+
+Program Slovensko je súčasťou širšej stratégie financovanej z európskych fondov a Plánu
+obnovy a odolnosti.31
+3.1.2
+
+Pracovné podmienky a pracovné prostredie
+
+Digitálna transformácia zásadne mení pracovné prostredie a organizáciu práce. S
+rozvojom digitálnych technológií a internetu sa práca na diaľku stáva štandardom v mnohých
+odvetviach, čo sme mohli vidieť najmä počas pandémie COVID-19 a po nej. Táto forma
+práce poskytuje zamestnancom flexibilitu a možnosť lepšieho zosúladenia pracovného a
+súkromného života. Zároveň však prináša nové výzvy spojené s riadením tímov a
+organizáciou práce na diaľku, čo kladie zvýšené nároky na efektívnu komunikáciu,
+koordináciu a motiváciu zamestnancov.
+Práca na diaľku má tiež svoje negatívne dopady, najmä na sociálne väzby medzi
+zamestnancami a ich duševné zdravie. Pracovná izolácia, stres a riziko vyhorenia sú čoraz
+častejšie v prostredí, kde sú zamestnanci neustále vystavení novým technológiám a
+digitálnym nástrojom.
+Flexibilné pracovné prostredie je však často prepojené s očakávaniami zvýšenej
+dostupnosti, čo môže vytvárať tlak na nepretržitú prítomnosť v digitálnom priestore a
+prispievať k fenoménu tzv. "digitálnej vyhorenosti." Podľa štúdie L. Baudot a K. Kellyho
+z Univesity of Central Florida počas COVID-19 pandémie niektoré spoločnosti zaznamenali
+zvýšenú produktivitu práce.32
+Potvrdzuje to aj štúdia od Choudhury a kol. ktorá skúmala vplyv "work-from-anywhere"
+na produktivitu patentových inšpektorov v USA. Štúdia ukazuje, že väčšia flexibilita v
+mieste výkonu práce prispela k zvýšeniu produktivity zamestnancov o 4,4 %. Tento nárast
+produktivity je pripisovaný zvýšenej autonómii zamestnancov, ktorá im umožnila lepšie
+vyvažovať pracovné a osobné potreby.33
+
+31
+
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE SLOVENSKEJ
+REPUBLIKY. Program Slovensko, verzia 1.0 [online]. 2022. Dostupné na: https://www.eurofondy.gov.sk/wpcontent/uploads/2022/03/Program_Slovensko_SK_verzia-1.0-1.pdf. [Citované: 18. 10. 2024].
+32
+BAUDOT, L., KELLY, K. A, A Survey of Perceptions of Remote Work and Work Productivity in the
+United States during the COVID-19 Shutdown. HEC Paris - Department of Accounting and Management
+Control,
+University
+of
+Central
+Florida,
+2020.
+Dostupné
+na:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3646406. [Citované: 18. 10. 2024].
+33
+CHOUDHURY, P. a kol. 2020. Work from anywhere: the productivity effects of geographic flexibility”,
+working paper Harvard Business School, Harvard University. [online]. 2020, [cit. 2021-10-07]. Dostupné na
+internete: https://www.hbs.edu/faculty/Pages/item.aspx?num=59107. [Citované: 18. 10. 2024].
+
+37
+
+3.1.3
+
+Štruktúra pracovných miest
+
+Digitalizácia prináša zásadné zmeny v štruktúre pracovných miest, čo má výrazný
+dopad na zamestnanosť a požiadavky na pracovnú silu. S rozvojom nových technológií, ako
+sú umelá inteligencia, automatizácia a digitálne platformy, sa menia nielen samotné
+pracovné pozície, ale aj spôsob, akým sa práca vykonáva. Jedným z hlavných aspektov tejto
+transformácie je automatizácia rutinných a repetitívnych úloh, čo vedie k zániku niektorých
+tradičných pracovných miest. Napríklad v sektore výroby sa roboty a automatizované
+systémy stále viac používajú na vykonávanie činností, ako je montáž a kontrola kvality. Tým
+sa znižuje potreba manuálnej práce a pozície ako operátor výroby sa postupne vytrácajú.
+Ako vo svojej štúdiu uvádza aj You a kol, automatizácia často nahrádza pracovné
+úlohy, ktoré sú rutinné alebo fyzicky náročné, čo vedie k zníženiu počtu zamestnancov na
+nižších pozíciách, ako sú operátori strojov, pracovníci v skladoch či administratívni
+pracovníci. Zároveň sa však zvyšuje dopyt po špecializovaných odborníkoch s digitálnymi
+a technickými zručnosťami, ktorí sú schopní navrhovať, spravovať a udržiavať
+automatizačné systémy.34
+Príkladom je aj vzrastajúci dopyt po odborníkoch na analýzu dát a kybernetickú
+bezpečnosť. Firmy ako Amazon a Google zamestnávajú tisíce dátových analytikov a
+expertov na ochranu údajov, aby zabezpečili správne spracovanie a ochranu veľkého
+množstva informácií, ktoré spravujú.
+Okrem toho, digitalizácia mení aj tradičné obchodné modely. Napríklad, s nástupom ecommerce sa zmenila potreba zamestnancov v maloobchode. Mnohé kamenné obchody
+čelili poklesu zamestnanosti, zatiaľ čo online platformy, ako je eBay alebo Shopify, vytvorili
+nové pracovné miesta pre špecialistov na e-commerce, marketing a zákaznícku podporu.
+Flexibilné formy práce, ako je práca na diaľku, sa stali štandardom v mnohých
+odvetviach. Príkladom sú spoločnosti ako Microsoft a Twitter, ktoré umožňujú svojim
+zamestnancom pracovať z domu alebo z iného miesta. Tieto zmeny prispievajú k väčšej
+
+34
+
+YOU, J., XU, X., LIAO, D., LIN, C. International comparison of the impact of digital transformation on
+employment. Journal of Asian Economics, roč. 95, 2024, s. 101820. ISSN: 1049-0078. DOI:
+10.1016/j.asieco.2024.101820.
+
+38
+
+rovnováhe medzi pracovným a súkromným životom, ale zároveň vyžadujú aj nové zručnosti
+v oblasti digitálnych technológií a sebariadenia.
+Správa „Technology at Work v2.0: The Future Is Not What It Used to Be“ ktorá
+analyzuje dopady technológií, ako sú robotika, umelá inteligencia a automatizácia, na trh
+práce a pracovné miesta v rôznych sektoroch, identifikovala najohrozenejšie pracovné
+pozície a definovala rozdiely medzi regiónmi, ako aj na výzvy pre tvorcov politík a
+vzdelávacie systémy pri adaptácii na nové požiadavky trhu práce.
+Podľa tejto správy je jedným z najviac ohrozených sektorov výroba a priemysel.
+Automobilový a strojársky priemysel v súčasnosti zaznamenávajú vysokú mieru
+automatizácie, kde roboti postupne nahrádzajú pracovníkov pri manuálnych, opakujúcich sa
+úlohách, ako je montáž. Tento vývoj znižuje potrebu menej kvalifikovaných pracovníkov,
+pretože stroje dokážu tieto úlohy vykonávať efektívnejšie a presnejšie. Automatizácia
+zároveň vedie k zníženiu nákladov, čo predstavuje silnú motiváciu pre priemyselné firmy na
+globálnom trhu.
+Doprava a logistika sú ďalším odvetvím, ktoré sú v práve spomínané. Aj v tomto
+sektore technológie spôsobujú výrazné zmeny. S rastúcim rozvojom autonómnych vozidiel
+a automatizovaných skladových systémov sú pozície ako vodiči nákladných áut,
+doručovatelia a skladníci vystavené vysokému riziku nahradenia. Tieto technológie sú
+schopné pracovať efektívne bez prestávok, čo vedie k zníženiu prevádzkových nákladov a
+zvyšuje dopyt po technologických riešeniach. Tento trend však kladie nové výzvy na
+pracovníkov v logistike a ich odborové organizácie, ktoré sa usilujú o ochranu práv
+zamestnancov a zamestnanosť v sektore.
+Ako tretí sektor správa popisuje administratívne a kancelárske práce patria tiež medzi
+profesie ohrozené automatizáciou. Moderné softvérové nástroje sú schopné vykonávať
+rutinné kancelárske úlohy, ako sú zadávanie dát, spracovanie dokumentov a fakturácia,
+rýchlejšie a s nižšou mierou chýb ako ľudia. Tento vývoj vedie k poklesu potreby
+zamestnancov na vykonávanie administratívnych činností, čím sa znižuje počet pracovných
+miest v tomto sektore.
+Aj sektore finančných služieb dochádza k automatizácii niektorých analytických a
+poradenských pozícií, najmä v bankovníctve a poisťovníctve, kde algoritmy dokážu
+spracovávať finančné údaje a poskytovať predikcie efektívnejšie ako ľudskí pracovníci.
+Automatizácia v tomto sektore prináša významné výhody z hľadiska rýchlosti a presnosti,
+ale zároveň znižuje potrebu zamestnancov s tradičnými analytickými úlohami.
+39
+
+Podľa tejto správy zdravotná starostlivosť je relatívne odolnejšia voči automatizácii,
+ale podporné úlohy, ako sú laboratórne analýzy, môžu byť vykonávané automatickými
+systémami, zatiaľ čo algoritmy na diagnostiku pomáhajú odborníkom vyhodnocovať
+zdravotné výsledky. Automatizácia môže v tomto sektore zvýšiť efektívnosť a prístupnosť
+služieb, ale len v menšej miere nahrádza odborné pozície, ktoré si vyžadujú komplexné
+znalosti a medziľudskú interakciu.
+Správa zdôrazňuje, že technológie ovplyvňujú pracovné trhy odlišne v závislosti od
+regiónov. Mestá s vyššími mzdami, ako sú Tokio, Londýn a New York, sú pod väčším
+tlakom prijímať automatizačné technológie s cieľom znižovať prevádzkové náklady. Správa
+tiež upozorňuje na to, že vládni predstavitelia a tvorcovia politík by mali reagovať na výzvy,
+ktoré prinášajú technologické zmeny, a to najmä prostredníctvom úprav vzdelávacích
+systémov, ktoré pripravia pracovnú silu na budúce požiadavky trhu práce. Vzdelávanie a
+rekvalifikácia sa tak stávajú kľúčovými stratégiami na zmiernenie negatívnych dôsledkov
+automatizácie na zamestnanosť a spoločenskú stabilitu.35
+Gover a kol. reagujú na tento trend a navrhujú použitie rámca DAWN (Defining
+Actions with Neighbors). Podľa nich digitálna transformácia pracovných miest vyžaduje
+zameranie sa na tri hlavné aspekty: význam, rešpekt a zapojenie. Význam je dôležitý pre
+posilnenie profesionálnej identity zamestnancov, keď sa ich práca prispôsobuje
+technologickým zmenám. Rešpekt zahŕňa vytvorenie inkluzívnej pracovnej kultúry, kde sa
+zamestnanci necítia nahraditeľní a ich prínos je ocenený. Zapojenie umožňuje aktívnu
+participáciu zamestnancov na zmenách, čo zvyšuje ich motiváciu a pocit príslušnosti k
+organizácii. Tento rámec poskytuje praktické odporúčania pre lídrov, ako zvládnuť digitálnu
+transformáciu spôsobom, ktorý podporuje dôstojnosť a dlhodobú angažovanosť
+zamestnancov.36
+V kontexte digitalizácie a meniacich sa požiadaviek na pracovnú silu hrá dôležitú úlohu
+projekt ESCO (European Skills, Competences, Qualifications and Occupations), ktorý
+poskytuje viacjazyčnú klasifikáciu zručností, kompetencií, kvalifikácií a pracovných pozícií
+
+35
+
+CITI GPS. Technology at Work v2.0: The Future Is Not What It Used to Be. Oxford Martin School,
+University of Oxford, 2016. Dostupné na internete: https://omswww.files.svdcdn.com/production/downloads/reports/Citi_GPS_Technology_Work_2.pdf [Citované: 18. 10.
+2024].
+36
+GROVES, K. S., MARGOLIS, J., GIBSON, C. Cultivating the experience of dignity at work during digital
+transformation: Protective & proactive strategies for leaders and organizations. Pepperdine Graziadio Business
+School, USA.
+
+40
+
+relevantných pre európsky pracovný trh. Hlavným cieľom ESCO je zlepšiť prepojenie medzi
+potrebami pracovného trhu a ponukou vzdelávania, čím pomáha zamestnávateľom ľahšie
+nájsť kandidátov s potrebnými zručnosťami a zároveň usmerňuje vzdelávacie inštitúcie pri
+prispôsobovaní ich programov aktuálnym požiadavkám. Napríklad v sektore informačných
+technológií, kde rastie dopyt po odborníkoch na kybernetickú bezpečnosť a dátovú analýzu,
+ESCO pomáha definovať, ktoré konkrétne zručnosti sú potrebné pre tieto pozície. Takto
+prispieva k efektívnejšiemu priraďovaniu talentov a k príprave pracovníkov na digitálnu
+ekonomiku, čo je kľúčové pre udržanie konkurencieschopnosti v podmienkach dynamických
+technologických zmien.37
+Celkovo digitalizácia vyžaduje od zamestnancov adaptabilitu a ochotu rozvíjať nové
+zručnosti, zatiaľ čo organizácie musia prehodnotiť svoje prístupy k riadeniu talentov a
+vzdelávaniu. Tieto zmeny majú významný dopad na celkovú dynamiku trhu práce a
+vytvárajú nové výzvy a príležitosti pre zamestnancov a zamestnávateľov.
+3.1.4
+
+Sociálna nerovnosť
+
+Jedným z hlavných rizík digitálnej transformácie práce je prehlbovanie sociálnych a
+ekonomických nerovností. Digitalizácia síce prináša nové príležitosti pre kvalifikovaných
+pracovníkov a technologicky vyspelé regióny, no zároveň marginalizuje tých, ktorí nemajú
+prístup k technológiám alebo dostatočným vzdelávacím príležitostiam. Na Slovensku sú
+tieto rozdiely zreteľné najmä v menej rozvinutých regiónoch, kde je prístup k digitálnym
+technológiám obmedzený.
+Podľa správy z Ministerstva investícií, regionálneho rozvoja a informatizácie SR má k
+optickým sieťam prístup približne 64 % domácností, pričom pokrytie 5G sieťami je dostupné
+len na 50 % územia38. Zlepšenie digitálnej infraštruktúry v menej rozvinutých oblastiach je
+preto kľúčové pre zabezpečenie rovnakého prístupu k digitálnym technológiám pre všetkých
+obyvateľov Slovenska.
+V rámci témy sociálnej nerovnosti v oblasti digitalizácie práce je dôležité venovať
+pozornosť aj postaveniu žien na pracovnom trhu na Slovensku. Digitálna transformácia
+
+EURÓPSKA KOMISIA Čo je ESCO? [online]. Luxembourg: Európska komisia, 2024. Dostupné z:
+https://esco.ec.europa.eu/en/about-esco/what-esco [Citované: 18. 10. 2024].
+38
+EUROPEAN COMMISSION. Digital Decade 2024: Report calls for strengthened collective action [online].
+Brussels: European Commission, 2024. Dostupné na: https://commission.europa.eu/news/digital-decade2024-report-calls-strengthened-collective-action-2024-07-03_sk. [Citované: 18. 10. 2024].
+37
+
+41
+
+môže priniesť výhody pre ženy v podobe nových pracovných príležitostí v oblasti
+informačných technológií, analytiky alebo digitálneho marketingu. Napriek tomu však
+existujú bariéry, ktoré môžu znevýhodňovať ženy pri prístupe k týmto príležitostiam. Medzi
+hlavné faktory patria nedostatok technického vzdelania, rodové stereotypy a disproporcie v
+oblastiach s vysokou technologickou náročnosťou, kde ženy stále tvoria menší podiel
+pracovnej sily.
+Podľa údajov z Eurostatu za rok 2022 ženy na Slovensku tvoria iba približne 13 %
+pracovnej sily v oblasti informačných a komunikačných technológií, čo je pod európskym
+priemerom. 39Tieto nízke čísla naznačujú, že aj keď digitalizácia ponúka nové možnosti,
+ženy nie vždy majú rovnaký prístup k týmto pracovným miestam. Príčinou môžu byť
+nedostatočné vzdelávacie programy a príprava v technických odboroch pre ženy, ako aj
+nižšia dostupnosť flexibilných pracovných úväzkov a podporných mechanizmov, ktoré by
+uľahčili kombináciu rodinných a pracovných povinností.
+Digitalizácia tak môže prehĺbiť existujúce rodové rozdiely, ak sa nebudú prijímať
+opatrenia zamerané na inklúziu žien. Podpora programov na vzdelávanie a rekvalifikáciu
+žien, ako aj zavádzanie pro-rodových politík, ktoré podporujú rovnaký prístup k
+technológiám a inováciám, sú kľúčové kroky na zmiernenie tejto nerovnosti.
+3.1.5
+
+Vzdelávanie a odborná príprava
+
+Súčasný vzdelávací systém na Slovensku nedokáže dostatočne rýchlo reagovať. Zmena
+obsahu a formy vzdelávania je potrebná pre zabezpečenie, aby študenti získali relevantné
+digitálne zručnosti a dokázali sa adaptovať na nové technologické výzvy. Zároveň je
+nevyhnutná lepšia spolupráca medzi vzdelávacími inštitúciami a súkromným sektorom, aby
+vzdelávacie programy lepšie reflektovali potreby pracovného trhu.
+V tomto smere už školy podnikajú kroky k zlepšeniu. Napríklad v niektorých
+vzdelávacích inštitúciách sa začali pilotné programy (napríklad Národný projekt DiTEdu) ,
+ktoré majú za cieľ prepojiť teoretické vedomosti študentov s praktickými skúsenosťami, čím
+im umožnia lepšie sa pripraviť na výzvy digitálnej éry. Tento prístup je podporený aj
+grantovým programom Ministerstva školstva, vedy, výskumu a športu SR, ktorý financuje
+
+39
+
+EUROSTAT High-tech employment by NUTS 2 regions [online]. Dostupné na:
+https://ec.europa.eu/eurostat/databrowser/view/htec_emp_reg2/default/table?lang=en. [Citované: 18. 10.
+2024].
+
+42
+
+nové učiteľské študijné programy zamerané na modernizáciu vzdelávacích postupov a
+zvyšovanie kvalifikácie budúcich pedagógov.40
+Napriek týmto snahám však stále pretrváva výzva, ako efektívne zosúladiť vzdelávacie
+programy s potrebami pracovného trhu. Potreba inovácií a spolupráce medzi školami a
+súkromným sektorom je čoraz naliehavejšia.
+Digitalizácia verejného sektora má potenciál zlepšiť efektivitu poskytovania služieb a
+zvýšiť transparentnosť verejnej správy. Projekt „Slovensko v mobile“ umožňuje občanom
+prístup k digitálnym službám štátu prostredníctvom mobilnej aplikácie, čo znižuje
+administratívnu záťaž a urýchľuje procesy. Digitalizácia verejnej správy však musí
+pokračovať, najmä v oblastiach zdravotníctva a sociálnej starostlivosti, aby bola
+zabezpečená komplexná modernizácia verejných služieb.
+Digitálna transformácia práce na Slovensku predstavuje širokú škálu príležitostí, ale aj
+významné výzvy, ktoré je potrebné riešiť prostredníctvom zlepšenia digitálnej
+infraštruktúry, vzdelávacích systémov a podpory sociálnej inklúzie. Kľúčom k úspechu
+digitálnej transformácie je efektívna spolupráca medzi verejným a súkromným sektorom,
+ktorá umožní napĺňanie spoločných cieľov. Medzi aktuálne iniciatívy v oblasti digitalizácie
+patrí organizovanie hackathonov, ktoré sa zameriavajú na konkrétne problémy. Medzi tieto
+patrí napríklad hackathon „Hacknime dezinformácie“, ktorý hľadá riešenia na boj proti
+dezinformáciám prostredníctvom digitálnych technológií, alebo projekt „Digitálni seniori“,
+ktorý podporuje digitálnu gramotnosť starších ľudí. Ďalším zaujímavým projektom je „Moje
+dáta“, ktorý sa zaoberá využitím osobných údajov pre zlepšenie služieb poskytovaných
+občanom, a tiež koncept „Digitálneho dvojčaťa mesta“, ktorý sa zameriava na tvorbu
+digitálnych modelov miest pre efektívnejšie plánovanie a správu. Medzi významné výzvy
+patrí aj podpora výskumu a vývoja v oblasti digitálnych riešení, a to nielen pre verejný, ale
+aj pre súkromný sektor. Významná pozornosť sa venuje aj kybernetickej bezpečnosti
+prostredníctvom vytvárania kompetenčných centier a budovania bezpečnostných
+
+MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ REPUBLIKY. Národný
+projekt Digitálna transformácia vzdelávania a školy sa naplno rozbieha [online]. 2024. Dostupné na:
+https://www.minedu.sk/36870-sk/narodny-projekt-digitalna-transformacia-vzdelavania-a-skoly-sa-naplnorozbieha/. [Citované: 18. 10. 2024].
+40
+
+43
+
+dohľadových centier, ktoré budú slúžiť na ochranu kritickej infraštruktúry a monitorovanie
+kybernetických hrozieb. 41
+Tieto projekty a výzvy tvoria základ širšieho plánu digitalizácie Slovenska, ktorý má
+za cieľ zvýšiť digitálnu gramotnosť, kybernetickú bezpečnosť a podporiť vývoj
+inovatívnych technológií pre budúci rozvoj krajiny.
+
+41
+
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE SLOVENSKEJ
+REPUBLIKY.
+Stratégia digitálnej transformácie Slovenska 2030 [online]. 2019. Dostupné na:
+https://mirri.gov.sk/wp-content/uploads/2019/06/Strategia-digitalnej-transformacie-Slovenska-2030.pdf.
+[Citované: 18. 10. 2024].
+
+44
+
+4
+
+Výzvy a riziká digitálnej transformácie práce v praxi – empirická
+časť
+Digitálna transformácia je fenomén, ktorý zásadne mení spôsob, akým organizácie
+
+fungujú a akým sa vykonáva práca. Hoci prináša množstvo výhod, ako sú zvýšená efektivita,
+flexibilita a prístup k novým technológiám, zároveň vytvára aj významné výzvy a riziká,
+ktoré je potrebné analyzovať a adresovať. Cieľom tejto časti je preskúmať výzvy a riziká
+digitálnej transformácie práce s dôrazom na ich praktické implikácie v pracovnom prostredí.
+V tejto diplomovej práci bol použitý prístup štruktúrovaného rozhovoru, ktorý umožnil
+systematicky získať cenné údaje o dopade digitálnej transformácie na trh práce.
+Štruktúrovaný rozhovor bol navrhnutý s cieľom zabezpečiť, že všetci respondenti budú mať
+rovnakú príležitosť vyjadriť svoje názory a skúsenosti v súvislosti s témou. Rozhovory sa
+skladali z vopred pripravených otázok, ktoré pokrývali kľúčové oblasti, ako sú výzvy a
+príležitosti spojené s digitálnou transformáciou práce, digitalizáciou, zmeny v pracovných
+rolách a požiadavkách na zručnosti, ako aj dopady na zamestnanosť a pracovné podmienky.
+Tento prístup umožnil nielen získať kvantitatívne dáta, ale aj kvalitné informácie, ktoré
+reflektujú osobné názory a emocionálne reakcie respondentov. Rozhovory poskytujú
+hĺbkový pohľad na osobné skúsenosti a názory jednotlivcov.
+V rámci tejto diplomovej práce boli realizované rozhovory s odborníkmi z rôznych
+sektorov, čo umožnilo získať široké spektrum perspektív. Rozhovory umožňujú zachytiť
+nuansy a emocionálne reakcie respondentov. Skúmaním osobných príbehov a skúseností
+respondentov umožnilo zamerať sa aj na psychologický dopad zmeny zamestnania,
+vnímanie identity a hodnoty práce, ako aj v otázkach sociálnej spravodlivosti v súvislosti s
+digitalizáciou. Tieto aspekty sú dôležité na to, aby sme pochopili komplexnosť výziev a
+príležitostí, ktoré digitálna transformácia prináša.
+
+4.1 Štruktúra pracovných miest
+V rámci nášho štruktúrovaného rozhovoru sme sa rozhodli položiť otázku: „Aký vplyv
+podľa Vás mala digitálna transformácia práce na štruktúru pracovných miest vo Vašom
+sektore?“ Týmto spôsobom sme sa snažili získať konkrétne názory odborníkov na to, ako sa
+digitálna transformácia dotýka ich každodenného pracovného prostredia a aké zmeny v
+štruktúre pracovných miest považujú za najvýraznejšie.
+
+45
+
+Na základe rozhovoru s piatimi respondentmi o vplyve digitálnej transformácie na
+štruktúru pracovných miest vo vybranom sektore môžeme identifikovať niektoré spoločné
+prvky a rozdiely v ich odpovediach. Respondenti sa zhodujú na niekoľkých hlavných
+bodoch, ktoré poukazujú na to, ako digitálna transformácia ovplyvnila ich pracovné
+prostredie a organizáciu práce.
+V odpovediach respondentov sú pozorovateľné spoločné prvky, ktoré poukazujú na
+zmeny spôsobené digitálnou transformáciou.
+Jedným z hlavných trendov je zmena v špecializácii zamestnancov. Respondent J.
+Snopko zdôrazňuje, že digitálna transformácia umožnila zamestnancom sústrediť sa na
+špecifickejšie, exkluzívne špecializácie, zatiaľ čo bežné úlohy, ktoré sa dajú automatizovať,
+sú odstránené. To vedie k efektívnejšiemu využívaniu času na zložitejšie úlohy, čo
+potvrdzujú aj ďalší respondenti. Poukazujú na to, že digitálna transformácia vyžaduje
+zvýšenie IT zručností a rozvoj odbornej špecializácie.
+Digitálna transformácia zároveň priniesla zvýšený dopyt po odborníkoch v IT a
+kybernetickej bezpečnosti, čo spomínajú respondenti K. Žúžiová a K. Martinček.
+Respondentka K. Žúžiová poznamenáva, že aj keď niektoré základné pracovné pozície
+zostávajú nemenné, dopyt po špecialistoch s digitálnymi zručnosťami výrazne rastie.
+Ďalším spoločným prvkom je vplyv pandémie na pracovné návyky, ktorý zvýraznil
+respondent P. Filip. Ten poukázal na to, že pandémia zásadne zmenila spôsob komunikácie
+a riadenia ľudí, čo si vyžiadalo rýchlu adaptáciu IT infraštruktúr firiem. Tento aspekt
+podporujú aj ďalší respondenti, ktorí zmieňujú potrebu prispôsobiť sa novým digitálnym
+výzvam počas pandémie.
+Tieto spoločné prvky v odpovediach respondentov jasne ukazujú na trendy v digitálnej
+transformácii, ktorá formuje súčasný pracovný trh.
+Rozdielne vnímanie zmien v štruktúre pracovných miest je taktiež vidieť. Respondenti
+K. Žúžiová a K. Martinček uvádzajú, že digitálna transformácia zatiaľ nezmenila štruktúru
+pracovných miest tak zásadne, ako by sa očakávalo. Respondent S. Božoň tvrdí, že v oblasti
+IT, kde už tradične dominuje digitálne prostredie, neboli výrazné posuny v štruktúre
+pracovných miest, a preto hodnotí transformáciu skôr ako evolúciu než revolúciu.
+Respondent J. Snopko zdôrazňuje význam strategických priorít a alokácie zdrojov na
+digitalizáciu výkonu moci, zatiaľ čo ostatní respondenti sa viac sústreďujú na praktické
+
+46
+
+aspekty digitálnej transformácie, napríklad na zmeny v návykoch zamestnancov a zvýšený
+dopyt po špecializovaných zručnostiach.
+Podľa teoretických prístupov k digitálnej transformácii, ako sú modely od
+kotlerovského marketingu a prístupov k zmene organizácie42, môžeme pozorovať, že
+digitálna transformácia ovplyvňuje nielen štruktúru pracovných miest, ale aj kultúru
+organizácie. Tieto zmeny v organizácii sú často podporené výskumami, ktoré potvrdzujú, že
+efektívne riadenie zmien je kľúčové pre úspech digitalizácie.
+Celkovo digitálna transformácia prispieva k zmene v štruktúre pracovných miest vo
+viacerých sektoroch, pričom zameranie na odborné zručnosti a špecializáciu sa stáva
+nevyhnutnosťou. Je zrejmé, že proces transformácie je komplexný a vyžaduje prispôsobenie
+zo strany zamestnancov aj organizácií.
+
+4.2 Pracovné zručnosti
+Na základe rozhovoru s respondentmi o tom, ako digitalizácia zmenila požiadavky na
+pracovné zručnosti v IT odvetví, môžeme identifikovať kľúčové trendy, spoločné prvky a
+rozdiely v ich odpovediach.
+Spoločné odpovede respondentov sa zhodujú v niekoľkých oblastiach. Prvou je
+neustála potreba prispôsobovania sa, ktorú zdôrazňuje respondent P. Filip a podporuje aj
+respondent J. Snopko. Digitalizácia podľa nich prináša nevyhnutnosť neustáleho
+vzdelávania a flexibility, pričom zmeny na trhu práce zvyšujú dopyt po digitálnych
+zručnostiach v rôznych sektoroch.
+Druhou oblasťou je zvýšený dôraz na digitálne zručnosti, ktorý spomína respondent K.
+Martinček. Ten poukazuje na potrebu ovládania nových technológií a práce s dátami, čo
+súvisí aj s názormi ďalších respondentov, ktorí poukazujú na vzrastajúcu potrebu
+odborníkov v IT.
+Napokon, respondenti S. Božoň a J. Snopko hovoria o postupnom vývoji zručností,
+ktoré sa menili prirodzene a postupne v súlade s technologickým pokrokom. Táto postupná
+evolúcia naznačuje, že zručnosti pracovníkov sa adaptujú spolu s neustále sa meniacimi
+požiadavkami digitálneho sveta.
+
+42
+
+KOTLER, P., 2017. Marketing Management. 15. vyd. Harlow: Pearson Education. ISBN 978-1292092621.
+s 514 až 543.
+
+47
+
+V odpovediach respondentov sú identifikovateľné rozdiely v tom, ako vnímajú vplyv
+digitalizácie na pracovný trh a zručnosti.
+Jedným z výrazných rozdielov je pohľad na úrovne vplyvu digitalizácie. Respondentka
+K. Žužiová uvádza, že požiadavky na pracovné zručnosti zostali v jej oblasti nezmenené, čo
+kontrastuje s názormi ostatných respondentov, ktorí upozorňujú na zvýšený dopyt po
+digitálnych zručnostiach. Tento rozdiel naznačuje, že digitalizácia neovplyvňuje všetky časti
+IT sektora rovnakým spôsobom a že vplyv digitalizácie môže byť špecifický pre určité
+pozície alebo oblasti.
+Ďalším rozdielom je pohľad na technologické zmeny. Respondenti P. Filip a K.
+Martinček sa zameriavajú na konkrétne technológie a nástroje, ktoré ich organizácie
+zavádzajú v rámci digitalizácie. Naopak, ostatní respondenti kladú väčší dôraz na celkový
+proces digitalizácie a jeho všeobecný vplyv na požiadavky na zručnosti zamestnancov.
+Tento rozdiel v pohľade odráža odlišné prístupy k digitalizácii, kde niektorí uprednostňujú
+implementáciu konkrétnych technológií, zatiaľ čo iní sa zameriavajú na širší kontext
+digitálnej transformácie.
+Tieto rozdiely poukazujú na rôznorodosť prístupov a skúseností s digitalizáciou v rámci
+IT sektora.
+Podľa teoretických prístupov, ako je model Digitálneho rozvoja pre digitálne
+zručnosti43, sa zručnosti zamestnancov musia vyvíjať v súlade s digitálnou transformáciou.
+To zahŕňa adaptáciu na nové technológie, ako aj rozvoj mäkkých zručností, ako je schopnosť
+prispôsobiť sa zmene a komunikovať efektívne v digitálnom prostredí.
+Na základe modelu TPACK (Technological Pedagogical Content Knowledge) môžeme
+vidieť, že efektívne využitie technológie v práci si vyžaduje kombináciu technických,
+pedagogických a obsahových zručností.44 Tieto aspekty sú pre IT odborníkov čoraz
+dôležitejšie, pretože musia zvládať komplexné technológie a prispôsobovať sa neustále
+meniacim sa podmienkam.
+
+VUORIKARI, R., KLUZER, S., A PUNIE, Y., 2022. Rámec digitálnych kompetencií pre občanov: S novými
+príkladmi vedomostí, zručností a postojov. Luxembursko: Úrad pre publikácie Európskej únie. ISBN 978-9276-48882-8. 128 s.
+44
+KOEHLER, M. J. A MISHRA, P., EDS., 2008. Handbook of Technological Pedagogical Content Knowledge
+(TPACK) for Educators. New York: Routledge. ISBN 978-0805858652. s 3 – 29.
+43
+
+48
+
+Digitalizácia významne ovplyvnila požiadavky na pracovné zručnosti v IT odvetví,
+pričom sa zameriava na flexibilitu, schopnosť adaptácie a odborné zručnosti. Napriek tomu
+sa vnímanie zmien líši v závislosti od konkrétneho pracovného prostredia a pozície, čo
+naznačuje, že digitalizácia môže mať rôzny dopad na rôzne sektory a profesie.
+
+4.3 Tradičné pracovné pozície
+Na základe rozhovoru s piatimi respondentmi o rizikách, ktoré digitálna transformácia
+predstavuje pre tradičné pracovné pozície a odvetvia, môžeme identifikovať trendy,
+spoločné prvky a rozdiely v ich odpovediach.
+Spoločné prvky v odpovediach respondentov poukazujú na spoločné názory a obavy
+spojené s dopadmi digitálnej transformácie práce na tradičné pracovné pozície a na potrebu
+adaptácie zamestnancov na nové pracovné prostredie.
+Všetci respondenti sa zhodujú, že digitálna transformácia práce predstavuje riziko pre
+tradičné pracovné pozície. Respondenti S. Božoň a K. Martičnek konkrétne vyjadrujú obavy
+o manuálne pracovné sily, ktoré môžu byť postupne nahradené automatizáciou alebo novými
+technológiami. Zároveň respondenti J. Snopko a P. Filip naznačujú, že zmeny môžu nastať
+aj v profesiách ako sú právnici alebo niektoré IT pozície, kde digitalizácia môže viesť k
+prehodnoteniu pracovných náplní alebo štruktúry pracovných miest.
+Respondenti tiež poukazujú na potenciál adaptácie zamestnancov v súvislosti s
+digitálnou transformáciou. Respondent J. Snopko pripomína historickú skúsenosť s
+industrializáciou, keď sa zamestnanci museli prispôsobiť novým podmienkam a
+požiadavkám pracovného trhu, zatiaľ čo respondent P. Filip zdôrazňuje dôležitosť
+neustáleho vzdelávania a prispôsobovania sa novým technológiám. Tým naznačujú, že hoci
+niektoré pozície môžu zaniknúť, zamestnanci majú možnosť prispôsobiť sa a prejsť na nové
+role.
+Zaujímavým spoločným prvkom je aj pohľad na proces digitálnej transformácie práce
+ako na postupný proces. Respondenti K. Martinček a S. Božoň naznačujú, že zmeny
+neprebiehajú náhle a že v niektorých sektoroch sa transformácia deje pomalšie. To znamená,
+že dopady digitalizácie nemusia byť okamžité, čo dáva zamestnancom a organizáciám určitý
+čas na prípravu a adaptáciu.
+Tieto spoločné prvky ilustrujú, že respondenti chápu digitalizáciu ako zásadný faktor
+ovplyvňujúci budúcnosť pracovného trhu, pričom súčasne uznávajú potrebu postupnej
+adaptácie a vzdelávania na udržanie zamestnateľnosti v digitálnom veku.
+49
+
+V odpovediach respondentov sú pozorovateľné aj rozdiely vo vnímaní rizík a zameraní
+sa na technológie či pracovné postupy, ktoré poukazujú na rôznorodosť prístupov k
+digitálnej transformácii.
+Jedným z hlavných rozdielov je rôzne vnímanie rizík spojených s digitálnou
+transformáciou. Respondent K. Žúžiová vníma tento proces ako niečo, čo nepredstavuje
+významné riziko pre pracovné pozície vo verejnej správe, pričom zdôrazňuje, že
+digitalizácia v tomto sektore má menej drastický dopad na zamestnanosť. Naopak, ostatní
+respondenti upozorňujú na konkrétne odvetvia a pozície, ktoré digitalizácia ohrozuje, pričom
+poukazujú na riziká pre manuálne a administratívne práce, ako aj pre niektoré odborné
+profesie.
+Ďalším rozdielom je rozdielne zameranie na technológie a pracovné postupy.
+Respondent P. Filip sa sústreďuje na konkrétne nástroje, ako je umelá inteligencia, a
+analyzuje, ako tieto technológie môžu nahradiť rutinné úlohy. V kontraste, respondent S.
+Božoň sa zameriava skôr na tradičné pracovné postupy a ich vplyv na zamestnanosť, pričom
+vyjadruje obavy, že zmeny v zavedených postupoch môžu viesť k zániku určitých
+pracovných miest.
+Tieto rozdiely v odpovediach reflektujú rôznorodé perspektívy respondentov na
+digitálnu transformáciu a jej potenciálne dopady na pracovný trh, pričom niektorí kladú
+dôraz na technologický aspekt a iní na širší kontext zmien v pracovných postupoch.
+Podľa teoretických prístupov, ako je model disruptívnych inovácií od Christensena,
+digitálna transformácia môže narušiť tradičné obchodné modely a pracovné pozície, najmä
+v odvetviach, kde sú bežné rutinné úlohy.45 Tento model poukazuje na to, že technologické
+zmeny môžu nielen nahrádzať pracovné miesta, ale aj vytvárať nové príležitosti pre
+zamestnancov, ktorí sú ochotní sa prispôsobiť.
+Ďalším relevantným prístupom je teória adaptívneho vývoja, ktorá hovorí o tom, že
+jednotlivci a organizácie musia byť schopní sa prispôsobovať zmenám a vyvíjať sa v reakcii
+na vonkajšie tlaky, ako sú technologické inovácie.46 Táto teória podporuje myšlienku, že aj
+
+45
+
+CHRISTENSEN, C. M.,1997. The Innovator's Dilemma: When New Technologies Cause Great Firms to
+Fail. Boston: Harvard Business Review Press. ISBN 978-0875845852. s 3.
+46
+ALDRICH, H. E., 1979. Organizations and Environments. Stanford: Stanford University Press. ISBN 9780804708996. s 26 – 60.
+
+50
+
+keď existujú riziká, zamestnanci a odvetvia majú schopnosť prežiť a prosperovať v novom
+prostredí.
+
+4.4 Sociálna nerovnosť
+Na základe rozhovoru s piatimi respondentmi o tom, ako sa ich organizácie alebo
+sektory vysporiadavajú s problémom sociálnej nerovnosti, ktorá môže byť dôsledkom
+digitalizácie, môžeme identifikovať trendy, spoločné prvky a rozdiely v ich odpovediach.
+Spoločné prvky v odpovediach respondentov ukazujú na silnú snahu minimalizovať
+sociálnu nerovnosť prostredníctvom zlepšenia prístupu k digitálnym nástrojom a službám a
+podporovaním vzdelávania a adaptácie zamestnancov. Všetci respondenti vyjadrujú
+spoločnú túžbu znížiť sociálnu nerovnosť, pričom Respondent P. Filip a K. Martinček
+uvádzajú konkrétne kroky, ktoré ich organizácie podnikajú na zabezpečenie prístupu k
+digitálnym nástrojom a vzdelávacím programom pre zamestnancov. Tento prístup môže
+pomôcť vyrovnať rozdiely medzi zamestnancami, ktorí majú prístup k moderným
+technológiám, a tými, ktorí sú týmto prístupom limitovaní. Ďalším dôležitým spoločným
+prvkom je dôraz na vzdelávanie a adaptáciu zamestnancov na nové digitálne prostredie.
+Respondenti K. Martinček a S. Božoň kladú dôraz na potrebu rozvoja digitálnych zručností,
+čo naznačuje, že organizácie aktívne podporujú školenia a programy, ktoré zamestnancom
+pomáhajú prispôsobiť sa technologickým zmenám a získavať nové zručnosti nevyhnutné v
+digitálnom svete. Prístup k digitálnym službám je ďalšou prioritou, o ktorej hovorí J.
+Snopko, ktorý zdôrazňuje iniciatívy na mapovanie oblastí, kde by digitálne služby mali byť
+zabezpečené, a vytváranie integrovaných obslužných miest pre ľudí, ktorí nemajú
+jednoduchý prístup k technológiám. Tento prístup má za cieľ znížiť nerovnosti v prístupe k
+digitálnym službám a zabezpečiť rovnaké príležitosti pre všetkých.
+Tieto spoločné prvky v odpovediach poukazujú na cieľ organizácií znižovať sociálnu
+nerovnosť prostredníctvom podpory prístupu k digitálnym nástrojom a službám, vzdelávania
+a prispôsobenia zamestnancov digitálnemu prostrediu.
+V odpovediach respondentov sa objavujú rozdiely vo vnímaní sociálnej nerovnosti a v
+úrovni implementácie opatrení na jej zníženie, čo poukazuje na rôzne prístupy k digitálnej
+transformácii v rôznych sektoroch. K. Žúžiová uvádza, že pri digitálnej transformácii
+verejnej správy nevidí problém sociálnej nerovnosti, čím sa jej pohľad líši od ostatných
+respondentov, ktorí tento problém aktívne vnímajú a riešia vo svojich organizáciách. Kým
+niektorí respondenti identifikujú sociálnu nerovnosť ako relevantný problém a snažia sa
+
+51
+
+zavádzať opatrenia na jej minimalizáciu, vo verejnej správe tento aspekt nie je považovaný
+za prioritný. Ďalší rozdiel spočíva v úrovni implementácie opatrení na zlepšenie prístupu k
+digitálnym službám. J. Snopko opisuje stratégie a politiky zamerané na mapovanie a
+zlepšenie prístupu k digitálnym službám, pričom tento prístup je založený na systematickej
+úrovni. Na druhej strane, ostatní respondenti sa sústreďujú na praktické opatrenia v rámci
+organizácie, ako je zabezpečenie prístupu k digitálnym nástrojom a poskytovanie
+vzdelávacích programov pre zamestnancov.
+Tieto rozdiely v odpovediach odrážajú rôznorodé perspektívy a prístupy k riešeniu
+sociálnej nerovnosti a implementácii digitálnej transformácie. Kým niektorí uprednostňujú
+strategický prístup na úrovni politiky, iní sa zameriavajú na konkrétne praktické opatrenia
+priamo v rámci organizácií.
+Podľa teórie digitálnej nerovnosti, ktorú navrhli autori ako van Dijk a Helsper, digitálna
+nerovnosť nie je len o prístupe k technológiám, ale aj o schopnosti ich efektívne využívať.
+Teória rozlišuje medzi prístupom (dostupnosť technológie), použitím (spôsob, akým
+technológie využívame) a dopadom (ako technológie ovplyvňujú životy jednotlivcov). 47
+Taktiež teória sociálnej inklúzie poukazuje na potrebu zaistiť, aby všetci jednotlivci
+mali rovnaké príležitosti na prístup k technológiám a vzdelaniu, čo môže prispieť k zníženiu
+sociálnej nerovnosti.48
+Organizácie a sektory, ktoré sa zaoberajú digitálnou transformáciou, sa snažia
+minimalizovať
+
+sociálnu
+
+nerovnosť
+
+prostredníctvom
+
+vzdelávania
+
+zamestnancov,
+
+zabezpečenia prístupu k digitálnym nástrojom a identifikácie problémových oblastí. Aj keď
+niektorí respondenti vnímajú problém sociálnej nerovnosti ako menej významný, je zrejmé,
+že pre ostatných je to kľúčový aspekt ich stratégie v oblasti digitalizácie. Dôležité je, aby
+organizácie pokračovali v implementácii opatrení, ktoré zabezpečia rovný prístup k
+technológiám a vzdelaniu, čím prispejú k zmierneniu sociálnej nerovnosti.
+
+47
+
+VAN DEURSEN, A.J.A.M., HELSPER, E.J., EYNON, R. A VAN DIJK, J.A.G.M., 2017. The
+Compoundness and Sequentiality of Digital Inequality. International Journal of Communication, 11, s. 452–
+473.
+48
+HORŇÁK, L., 2015. Teoretické východiská inklúzie, sociálnej inklúzie, inkluzívnej edukácie. Pedagogické
+rozhľady, 24(1), s. 3–7.
+
+52
+
+4.5 Pracovný trh
+Na základe rozhovoru s piatimi respondentmi o opatreniach, ktoré môže vláda alebo
+súkromný sektor prijať na zmiernenie negatívnych dopadov digitalizácie na pracovný trh,
+môžeme identifikovať trendy, spoločné prvky a rozdiely v ich odpovediach.
+V odpovediach respondentov J. Snopka , P. Filipa, K. Žužiovej, K. Martinčeka a S.
+Božoňa sú zreteľné spoločné prvky, ktoré sa zameriavajú na podporu digitálnych zručností,
+spoluprácu medzi vládou a súkromným sektorom a potrebu regulácie a legislatívy pre
+zvládnutie dopadov digitalizácie.
+Podpora digitálnych zručností je jednoznačne dôležitá pre všetkých respondentov. P.
+Filip a K. Martinček zdôrazňujú nutnosť vzdelávania obyvateľstva a rekvalifikácie
+zamestnancov, aby sa mohli prispôsobiť rýchlo meniacemu sa technologickému prostrediu.
+Zároveň S. Božoň poukazuje na význam modernizácie vzdelávacieho systému a realizáciu
+pravidelných školení, čo by zamestnancom pomohlo udržať krok s digitálnymi zmenami.
+Ďalším dôležitým spoločným bodom je spolupráca medzi vládou a súkromným sektorom.
+P. Filip a K. Martinček sa zhodujú na tom, že koordinácia medzi vládou a firmami môže
+významne prispieť k zmierneniu negatívnych dopadov digitalizácie na spoločnosť. Tento
+aspekt považujú za kľúčový, pretože dobre organizovaný a koordinovaný prístup môže
+výrazne zvýšiť efektívnosť opatrení. Napokon, regulácia a legislatíva sú oblasťou, kde
+respondenti vidia potrebu jasných opatrení. S. Božoň navrhuje legislatívne kroky, ktoré by
+regulovali implementáciu nových technológií a zmierňovali ich potenciálne sociálne
+dopady. Tento prístup podporuje aj J. Snopko, ktorý hovorí o význame strategického
+manažmentu a potrebe, aby štát aktívne vytváral podmienky pre úspešnú adaptáciu
+obyvateľstva na digitálne prostredie.
+Tieto spoločné názory respondentov ukazujú, že pri riešení výziev digitálnej
+transformácie sú zásadné koordinované kroky, legislatívne opatrenia a silné zameranie na
+rozvoj digitálnych zručností.
+V odpovediach respondentov sa prejavujú rozdiely v prístupoch k úlohe štátu a k
+samotnej implementácii digitalizácie, čo naznačuje rôznorodé pohľady na to, ako zvládnuť
+proces digitálnej transformácie. Prvým rozdielom je rôzny prístup k úlohe štátu. J. Snopko
+sa zaoberá filozofickými prístupmi k roli štátu a inklinuje k etatizmu, čo znamená, že vidí
+štát ako významného hráča pri adaptácii na digitalizáciu. Naopak, ostatní respondenti sa viac
+sústredia na praktické opatrenia a spoluprácu medzi vládou a súkromným sektorom, pričom
+preferujú aktívnu účasť rôznych sektorov na riešení výziev digitalizácie. Tento rozdiel
+53
+
+ukazuje rôzne názory na to, aký veľký by mal byť vplyv štátu pri riadení digitalizačných
+zmien. Ďalším rozdielom je zameranie na implementáciu vs. filozofické prístupy. K.
+Žúžiová sa výrazne sústreďuje na implementáciu procesov digitalizácie v praxi a kladie
+dôraz na využívanie príkladov dobrej praxe, aby sa digitalizácia realizovala efektívne a
+úspešne. Tento prístup sa líši od pohľadu ostatných respondentov, ako napríklad P. Filipa a
+S. Božoňa , ktorí sa viac orientujú na podporu rozvoja digitálnych zručností a vytvorenie
+legislatívnych rámcov, ktoré by regulovali digitálne zmeny.
+Tieto rozdiely v odpovediach ilustrujú rôzne prístupy respondentov k problematike
+digitalizácie – niektorí preferujú filozofický a strategický pohľad na úlohu štátu, zatiaľ čo
+iní sa sústreďujú na praktickú implementáciu a podporu konkrétnych digitálnych opatrení.
+Podľa teórie „zrušenia“ (disruption theory) od Christensena, technológie a digitalizácia
+môžu narušiť existujúce obchodné modely a pracovné pozície.49 V tomto kontexte je
+dôležité, aby vláda a súkromný sektor spolupracovali na vytváraní legislatívnych a
+vzdelávacích opatrení, ktoré by umožnili prispôsobenie sa novým podmienkam.
+Taktiež teória sociálnej zodpovednosti podnikov (CSR) naznačuje, že súkromný sektor
+má povinnosť prispievať k blahu spoločnosti. To zahŕňa investície do vzdelávania a
+zvyšovania digitálnych zručností zamestnancov, čím sa minimalizujú negatívne dopady na
+pracovný trh.50
+Vláda a súkromný sektor by mali prijať proaktívny prístup k zmierneniu negatívnych
+dopadov digitalizácie na pracovný trh. Podpora digitálnych zručností, spolupráca medzi
+sektormi a legislatívne regulácie sú kľúčové aspekty, ktoré môžu prispieť k adaptácii
+zamestnancov a vytvoreniu spravodlivého pracovného prostredia. Hoci existujú rôzne
+názory na úlohu štátu a prístup k implementácii zmien, všeobecne sa zdá, že koordinovaný
+a integratívny prístup bude najefektívnejší pri znižovaní negatívnych dopadov digitalizácie.
+
+49
+
+CHRISTENSEN, C. M., 1997. The Innovator's Dilemma: When New Technologies Cause Great Firms to
+Fail. Boston: Harvard Business Review Press. ISBN 978-0875845852. s 37.
+50
+CHOMOVÁ, K., 2023. Spoločenská zodpovednosť firiem: Smerovanie firiem k udržateľnej budúcnosti.
+Bratislava: Vydavateľstvo Ekonóm. ISBN 978-80-225-5033-8.
+
+54
+
+4.6 Digitalizácia
+Na základe rozhovoru s respondentmi o náraste digitalizácie v ich pracovnom prostredí
+a najviac ovplyvnených činnostiach môžeme identifikovať trendy, spoločné prvky a rozdiely
+v ich odpovediach.
+V odpovediach respondentov sa prejavujú rozdiely v úrovniach vnímania a dopadov
+digitalizácie na ich sektory a pracovné procesy, čo ukazuje rôznorodosť skúseností s
+digitalizačnými zmenami. Rôzne úrovne vnímania digitalizácie sú zjavné z odpovedí J.
+Snopka a K. Martinčeka, ktorí zaznamenali výrazný nárast digitalizácie vo svojich
+organizáciách. J. Snopko opisuje, ako sa transformovala administratíva a poskytovanie
+služieb občanom prostredníctvom elektronizácie, čo viedlo k výrazným zmenám v
+efektívnosti procesov. K. Martinček uvádza príklady automatizácie v plánovaní a predaji
+lístkov, čo ukazuje, ako sa digitalizácia priamo dotkla ich služieb a zefektívnila interné
+procesy. Naopak, vnímanie digitalizácie ako postupného procesu je pozorovateľné u P.
+Filipa, K. Žužiovej a S. Božoňa, ktorí uvádzajú, že v ich prostredí nedošlo k zásadným,
+skokovým zmenám. P. Filip hovorí o plynulom prechode, ktorý nevyžadoval náhle zmeny,
+a K. Žužiová opisuje, že procesy prebiehajú prevažne rovnako ako pred digitálnou
+transformáciou. Tento prístup naznačuje, že nie vo všetkých sektoroch je digitalizácia
+rovnako výrazná a že zmeny môžu byť postupné a menej nápadné. Zamestnanecké dopady
+sú obzvlášť výrazné v odpovedi J. Snopka , ktorý opisuje revolúciu v myslení a každodennej
+práci približne 16 000 pracovníkov. Tento dopad ilustruje, ako môže digitalizácia zásadne
+meniť pracovné prostredie a procesy v organizáciách, čo si vyžaduje adaptáciu
+zamestnancov na nové technológie a prístupy k práci.
+Tieto rozdiely v odpovediach ukazujú rôzne úrovne a aspekty digitalizácie v rôznych
+sektoroch – od intenzívnej elektronizácie a automatizácie v niektorých organizáciách po
+plynulý a menej náhly prechod v iných, s rôznym dopadom na zamestnancov a ich
+každodenné úlohy.
+V odpovediach respondentov sa objavujú rozdiely v úrovni automatizácie a prístupe k
+digitalizácii, čo ukazuje na rôznorodé skúsenosti s týmto procesom v rôznych odvetviach.
+Rôzne úrovne automatizácie sú zjavné z odpovedí K. Martinčeka, ktorý hovorí o
+výraznom vplyve automatizácie na procesy, vrátane oblastí ako plánovanie a predaj lístkov,
+čo výrazne mení spôsob práce v jeho sektore. Naopak, K. Žúžiová a S. Božoň uvádzajú, že
+vo svojich organizáciách nezaznamenali markantné zmeny v automatizácii. Tento rozpor
+naznačuje, že digitalizácia neovplyvňuje všetky sektory rovnakou mierou a že úroveň
+55
+
+automatizácie sa môže výrazne líšiť v závislosti od charakteru odvetvia a potrieb
+jednotlivých organizácií.
+Prístup k digitalizácii sa tiež líši medzi respondentmi. J. Snopko popisuje digitalizáciu
+pozitívne, pričom zdôrazňuje zlepšenie prístupu k službám a zvýšenie efektivity, čo podľa
+neho prispieva k lepšiemu fungovaniu organizácie a služieb pre občanov. Na druhej strane,
+K. Žúžiová a S. Božoň vyjadrujú skeptickejší pohľad, naznačujúc, že digitalizácia v ich
+prostredí nenaplnila očakávania alebo nepriniesla výrazné zmeny. Tento rozdiel v názoroch
+môže odrážať odlišné prístupy jednotlivých organizácií k digitalizačným procesom a ich
+vplyv na každodenné pracovné aktivity.
+Tieto rozdiely v odpovediach odhaľujú rôznorodé úrovne a postoje k automatizácii a
+digitalizácii, pričom niektorí respondenti vnímajú tieto procesy ako prínosné zlepšenia,
+zatiaľ čo iní majú voči ich efektivite a prítomnosti rezervovaný postoj.
+Podľa teórie digitálnej transformácie, ktorá sa zaoberá procesmi a dopadmi zavádzania
+digitálnych technológií, môžeme vidieť, že digitalizácia sa často neodohráva jednorazovo,
+ale ako súbor postupných zmien. Model dynamickej kapacity (dynamic capabilities) tvrdí,
+že organizácie musia byť schopné prispôsobovať sa a inovovať v reakcii na vonkajšie
+podmienky, vrátane technológie.
+Na základe tohto modelu možno vyvodiť, že organizácie, ktoré sa prispôsobujú a
+aktívne zavádzajú digitalizáciu, môžu získať konkurenčnú výhodu. Na druhej strane,
+organizácie, ktoré sa vyhýbajú digitalizácii alebo ju implementujú pomaly, môžu zaostávať
+a mať problémy s efektivitou. 51
+Z rozhovorov je jasné, že nárast digitalizácie a automatizácie nie je rovnaký vo
+všetkých pracovných prostrediach. Zatiaľ čo niektoré sektory, ako je verejná správa,
+zaznamenali významný posun a zmeny v procesoch, iné oblasti, ako je IT sektor, nepozorujú
+výrazné zmeny v automatizácii. Je potrebné, aby organizácie aktívne sledovali a
+prispôsobovali sa digitálnym trendom, aby sa zabezpečila ich konkurencieschopnosť a
+efektivita v dynamickom pracovnom prostredí.
+
+51
+
+TEECE, D. J., 2009. Dynamic Capabilities and Strategic Management: Organizing for Innovation and
+Growth. Oxford: Oxford University Press. ISBN 978-0199545124. s 83 až 110.
+
+56
+
+4.7 Implementácia digitálnych technológii
+Na základe rozhovoru s respondentmi o hlavných výzvach, ktoré zaznamenali v
+súvislosti s implementáciou digitálnych technológií, môžeme identifikovať trendy, spoločné
+prvky a rozdiely v ich odpovediach.
+V odpovediach respondentov sa objavujú spoločné prvky, ktoré sa týkajú
+administratívnych prekážok, bezpečnosti a kultúrnej zmeny, ako aj odporu k zmene, čo
+ukazuje na kľúčové výzvy pri implementácii digitalizácie. Administratívne prekážky
+predstavujú významný problém pri zavádzaní digitálnych technológií. J. Snopko a K.
+Žužiová poukazujú na to, že komplikované procesy verejného obstarávania a interné
+administratívne postupy môžu spomaliť digitálne iniciatívy. Ich odpovede zdôrazňujú, že
+byrokracia a administratívne nezmysly sú prekážkami, ktoré brzdia efektívnu digitalizáciu.
+Bezpečnosť a kultúrna zmena sú ďalšími dôležitými aspektmi, ktoré sú nevyhnutné pre
+úspešnú digitalizáciu. P. Filip upozorňuje na dôležitosť bezpečnosti dát a potrebu kultúrnej
+zmeny v organizácii. Táto odpoveď podčiarkuje, že implementácia nových technológií
+vyžaduje aj zmenu myslenia zamestnancov a ich adaptáciu na nové digitálne prostredie.
+Odpor k zmene je ďalšou výzvou, s ktorou sa organizácie stretávajú. J. Snopko a S. Božoň
+spomínajú, že zamestnanci často prejavujú odpor voči novým technológiám, čo komplikuje
+úspešné zavádzanie digitalizácie. Tento odpor môže byť spôsobený strachom z neznámeho
+a obavami o pracovné miesta, čo brzdí proces digitálnej transformácie. Tieto spoločné prvky
+poukazujú na hlavné výzvy, ktoré organizácie čelia pri implementácii digitálnych
+technológií, a zdôrazňujú, že úspešná digitalizácia vyžaduje prekonanie administratívnych
+prekážok, zabezpečenie bezpečnosti dát, kultúrnu zmenu a podporu zamestnancov pri
+adaptácii na nové technológie.
+V odpovediach respondentov sa objavujú rozdiely v prístupe k výzvam a vnímaniu
+sociálneho inžinierstva, čo naznačuje rozmanitosť skúseností a pohľadov na implementáciu
+digitalizácie. Rozdielne zameranie na výzvy sa prejavuje v prístupe jednotlivých
+respondentov. J. Snopko a K. Žúžiová sa viac sústreďujú na administratívne a procesné
+výzvy, ktoré brzdia digitalizačné úsilie, zdôrazňujúc potrebu zjednodušenia byrokratických
+procesov. Na druhej strane, P. Filip sa zameriava na technické a bezpečnostné aspekty
+digitalizácie, čím naznačuje, že rôzne sektory môžu čeliť odlišným výzvam pri
+implementácii nových technológií. Prístup k sociálnemu inžinierstvu prináša ďalší rozdiel.
+S. Božoň kladie dôraz na sociálne inžinierstvo a potrebu presvedčiť zamestnancov o tom, že
+nové technológie sú pre nich prospešné. Tento prístup je v kontraste s ostatnými
+57
+
+respondentmi, ktorí sa viac zaoberajú administratívnymi a technickými výzvami než
+aspektmi ľudskej adaptácie a pozitívneho vnímania digitalizácie.
+Tieto rozdiely v odpovediach ilustrujú rôzne prístupy a zamerania pri riešení
+digitalizačných výziev, pričom niektorí respondenti kladú dôraz na prekonanie
+byrokratických prekážok, iní na technickú bezpečnosť, a ďalší na podporu zamestnancov pri
+prijímaní nových technológií.
+Podľa teórie zmeny organizácie, ako ju navrhol Kurt Lewin, implementácia nových
+technológií zahŕňa proces troch fáz: rozvodenie (unfreezing), zmenu (changing) a znovu
+zamrznutie (refreezing). V tejto teórii je nevyhnutné najprv identifikovať a odstrániť
+prekážky (rozvodenie), potom zaviesť nové technológie a procesy (zmena) a nakoniec
+upevniť nové praktiky do organizácie (znovu zamrznutie).52 Týmto spôsobom môžu
+organizácie efektívne zvládnuť odpor a strach zamestnancov. Taktiež, model zloženého tímu
+(team dynamics) naznačuje, že tímové správanie a kultúra zohráva kľúčovú úlohu pri
+prijímaní zmien. Ak sa zamestnanci cítia ohrození novými technológiami, môže to viesť k
+zhoršeniu tímovej dynamiky a neochote prijať zmeny. Z odpovedí respondentov vyplýva, že
+implementácia digitálnych technológií je sprevádzaná rôznymi výzvami, vrátane
+administratívnych prekážok, bezpečnostných otázok a odporu zamestnancov. Aby sa
+úspešne zvládli tieto výzvy, je dôležité zamerať sa na kultúrne zmeny a zabezpečiť, aby
+zamestnanci mali pocit, že technológie sú ich partnerom, nie konkurentom. Organizácie by
+mali prijať systematický prístup k zmenám a využiť teoretické rámce, ako sú Lewinova
+teória zmeny a model zloženého tímu, na efektívne riadenie procesu digitalizácie.
+
+4.8 Príležitosti a hrozby
+Na základe rozhovoru s respondentmi o vnímaní digitálnej transformácie práce ako
+príležitosti alebo hrozby môžeme identifikovať kľúčové trendy, spoločné prvky a rozdiely v
+ich odpovediach. V odpovediach respondentov sa zhodujú na nevyhnutnosti digitálnej
+transformácie, pričom ju vnímajú ako krok nevyhnutný pre vývoj pracovného prostredia a
+zároveň ako kombináciu príležitostí a hrozieb. Nevyhnutnosť digitálnej transformácie je
+spoločným konsenzom medzi všetkými respondentmi. J. Snopko označuje digitalizáciu za
+nevyhnutnú, pričom rovnaký názor zdieľajú aj P. Filip a S. Božoň, ktorí ju považujú za krok,
+
+52
+
+LEWIN, K., 1951. Field Theory in Social Science: Selected Theoretical Papers. New York: Harper &
+Brothers.
+
+58
+
+ktorý sa musí uskutočniť pre udržanie kroku s vývojom moderného pracovného prostredia.
+Príležitosti a hrozby digitalizácie sú ďalším aspektom, ktorý respondenti vnímajú rôzne, no
+s podobným podtónom. J. Snopko a P. Filip vidia v digitalizácii príležitosti, ktoré môžu
+priniesť inovácie a zlepšenia v pracovných procesoch. Na druhej strane, S. Božoň
+upozorňuje na hrozby spojené so stratou zaužívaných pracovných návykov a potrebou
+prispôsobiť sa novým podmienkam, čo môže byť výzvou pre niektorých zamestnancov.
+Vplyv na efektivitu a konkurencieschopnosť je ďalším spoločným bodom, ktorý respondenti
+vnímajú pozitívne. K. Martinček hovorí o tom, ako digitalizácia zvyšuje efektivitu a
+konkurencieschopnosť, čo potvrdzujú aj ostatní respondenti, ktorí v nej vidia potenciál na
+zlepšenie kvality poskytovaných služieb a optimalizáciu procesov. Tieto odpovede
+poukazujú na spoločné presvedčenie o dôležitosti digitálnej transformácie, ktorá je vnímaná
+ako nevyhnutná pre budúcnosť, plná príležitostí, ale aj výziev, pričom jej správna
+implementácia môže zásadne zvýšiť efektivitu a konkurencieschopnosť organizácií.
+Vnímanie rizík digitálnej transformácie je jedným z rozdielnych bodov medzi
+respondentmi. K. Žužiová tvrdí, že digitálna transformácia verejnej správy neprináša priame
+ohrozenie pracovných miest, a teda nevníma tento proces ako rizikový. Tento postoj sa líši
+od názorov ostatných respondentov, ktorí upozorňujú na potenciálne hrozby a nutnosť
+adaptácie, najmä v súvislosti s nahrádzaním tradičných pracovných miest technologickými
+riešeniami. Úroveň vnímania zložitosti digitálnej transformácie sa tiež líši medzi
+respondentmi. J. Snopko ponúka široký pohľad na transformáciu, pričom zdôrazňuje potrebu
+zmeny myslenia a vznik nových technologických závislostí, ktoré môžu ovplyvniť dlhodobé
+fungovanie organizácií. Ostatní respondenti sa viac sústreďujú na konkrétne výhody a
+nevýhody transformácie, ako sú zvýšená efektivita či potreba preškolenia zamestnancov,
+čím sa ich odpovede zameriavajú na praktickejšie aspekty transformácie. Tieto rozdiely
+ukazujú, že kým niektorí respondenti sa pozerajú na digitálnu transformáciu z globálnejšieho
+hľadiska so zreteľom na celkové zmeny v organizačných štruktúrach a myslení, iní sa
+sústreďujú na praktické dopady a riziká, ktoré transformácia prináša do ich konkrétnych
+oblastí.
+Podľa teórie disruptívnych inovácií Claytona Christensena môže digitálna
+transformácia prinášať významné zmeny v existujúcich trhoch a pracovných postupoch.53
+
+53
+
+CHRISTENSEN, C. M., 1997. The Innovator's Dilemma: When New Technologies Cause Great Firms to
+Fail. Boston: Harvard Business Review Press. ISBN 978-0875845852. s 37.
+
+59
+
+Zatiaľ čo niektoré organizácie a zamestnanci môžu byť z takýchto zmien znevýhodnení, iní
+môžu získať konkurenčné výhody, ak sú schopní prispôsobiť sa novým technológiám.
+Teória adaptácie tiež naznačuje, že organizácie, ktoré sa úspešne prispôsobia zmene, môžu
+maximalizovať príležitosti a minimalizovať riziká spojené s digitálnou transformáciou.
+Podľa tejto teórie je dôležité nielen prijať technológie, ale aj riadiť procesy a kultúru v
+organizácii, aby sa zabezpečilo, že zamestnanci budú vidieť technológie ako nástroj na
+zjednodušenie práce, nie ako ohrozenie. Z rozhovorov vyplýva, že digitálna transformácia
+je považovaná za nevyhnutnú a prináša so sebou množstvo príležitostí, ako aj hrozieb. Zatiaľ
+čo väčšina respondentov vidí potenciál na zlepšenie efektivity a konkurencieschopnosti,
+existujú aj obavy z adaptácie na nové technológie a straty tradičných pracovných postupov.
+Dôležité je, aby organizácie riadili procesy transformácie tak, aby zamestnanci videli
+digitálne technológie ako pozitívny prínos pre ich pracovný život.
+
+4.9 Postrehy
+Na základe rozhovoru s piatimi respondentmi o odporúčaniach pre organizácie, ktoré
+práve začínajú s procesom digitálnej transformácie práce, môžeme identifikovať kľúčové
+trendy, spoločné prvky a rozdiely v ich odpovediach. Nevyhnutnosť digitálnej transformácie
+je spoločný názor všetkých respondentov. Všetci uznávajú, že väčšina organizácií už prešla
+určitým stupňom digitálnej transformácie alebo sa aktívne na tento proces pripravuje. S.
+Božoň pritom zdôrazňuje, že dnes už prakticky neexistujú organizácie, ktoré by boli v
+digitálnej transformácii na úplnom začiatku, čo svedčí o jej rozšírení naprieč sektormi.
+Postupný prístup k digitálnej transformácii je podľa P. Filipa a K. Martinčeka kľúčový.
+Obaja sa zhodujú, že technológie by sa mali zavádzať postupne a systematicky, aby sa
+minimalizovali riziká a zabezpečilo sa lepšie prispôsobenie zamestnancov novým
+podmienkam. Odporúčajú klásť dôraz na vzdelávanie zamestnancov a zabezpečiť kvalitné
+školenie, čo má pomôcť v hladkom prechode na digitálne pracovné prostredie. Bezpečnosť
+dát je ďalším dôležitým aspektom, ktorý respondenti spomínajú, pričom P. Filip zdôrazňuje,
+že by mala byť prioritou v rámci všetkých fáz digitálnej transformácie. Tento aspekt je
+nevyhnutný pre zabezpečenie dôveryhodnosti a efektivity digitalizačných procesov. Tieto
+spoločné prvky v odpovediach respondentov poukazujú na to, že digitálna transformácia je
+považovaná za nevyhnutnú a že úspešná implementácia si vyžaduje postupný prístup,
+zabezpečenie kvalitného vzdelávania zamestnancov a dôraz na bezpečnosť dát.
+
+60
+
+Objavujú sa však aj rozdiely v pohľade na pripravenosť organizácií na digitálnu
+transformáciu a prístup k využívaniu príkladov dobrej praxe, čo ukazuje rôzne prístupy k
+zvládaniu transformácie.
+Vnímanie pripravenosti organizácií na digitálnu transformáciu je jednou z oblastí, kde
+sa respondenti líšia. J. Snopko naznačuje, že mnohé organizácie ešte nemajú dostatočnú
+pripravenosť na digitálnu transformáciu a čelia výzvam, ktoré spomaľujú ich progres. Na
+druhej strane, S. Božoň tvrdí, že väčšina organizácií už prešla určitým stupňom
+transformácie alebo sa nachádza v pokročilom štádiu tohto procesu. Tento rozpor naznačuje
+rozdielne úrovne vnímania pripravenosti organizácií na digitálnu transformáciu, čo môže
+závisieť od sektorového kontextu a skúseností jednotlivých respondentov. Zameranie na
+príklady dobrej praxe je ďalším bodom, kde sa prístupy líšia. K. Žužiová odporúča využívať
+príklady dobrej praxe z iných krajín a implementovať overené procesy aj na úrovni domácich
+dodávateľov. Tento prístup sa odlišuje od ostatných respondentov, ktorí sa viac sústreďujú
+na interné postupy a na zlepšovanie kompetencií zamestnancov prostredníctvom školení.
+Tieto rozdiely v odpovediach ukazujú rôznorodé pohľady na pripravenosť organizácií na
+digitálnu transformáciu a prístupy k jej realizácii, pričom niektorí respondenti vidia priestor
+na zlepšenie pripravenosti, zatiaľ čo iní sa sústreďujú na implementáciu osvedčených
+postupov z iných krajín.
+Podľa modelu digitálnej transformácie, ktorý navrhli autori ako Westerman a Bonnet,
+je dôležité, aby organizácie prijali systematický prístup k digitálnej transformácii. Tento
+model zdôrazňuje tri kľúčové oblasti: strategické vedenie, transformáciu procesov a zmenu
+kultúry organizácie.54 Odporúčania respondentov, ako je postupné zavádzanie technológií,
+vzdelávanie zamestnancov a zabezpečenie dát, sú v súlade s touto teóriou. Okrem toho,
+teória zmeny organizácie (Kotterov model) zdôrazňuje, že úspešná transformácia si vyžaduje
+jasnú víziu, plánovanie a zapojenie všetkých zamestnancov. Týmto spôsobom sa organizácie
+môžu vyhnúť odporu a zabezpečiť hladký prechod na nové technológie. Z odpovedí
+respondentov vyplýva, že digitálna transformácia je nevyhnutná a väčšina organizácií sa už
+zaoberá jej implementáciou. Kľúčové odporúčania zahŕňajú postupný prístup k zavádzaniu
+technológií, dôraz na vzdelávanie zamestnancov a zabezpečenie bezpečnosti dát.
+
+54
+
+WESTERMAN, G., BONNET, D. A MCAFEE, A.,2014. Leading Digital: Turning Technology into
+Business Transformation. Boston: Harvard Business Review Press. ISBN 978-1625272478. s 175 až 188.
+
+61
+
+Organizácie by mali riadiť procesy transformácie systematicky a využiť osvedčené praktiky,
+aby zabezpečili úspešný prechod do digitálnej éry.
+
+4.10 Obavy a prekážky
+V odpovediach respondentov sa objavujú spoločné prvky, ktoré zahŕňajú obavy a
+prekážky spojené s ľudskými faktormi, neustálu potrebu učenia a prispôsobovania sa a
+význam strategického prístupu k technológiám. Obavy a prekážky predstavujú významný
+aspekt digitálnej transformácie. J. Snopko upozorňuje na ľudské faktory, ako sú strach a ego,
+ktoré môžu byť prekážkami v procese adaptácie na nové technológie. Tento názor naznačuje,
+že psychologické a emocionálne aspekty zohrávajú kľúčovú úlohu pri prijímaní zmien v
+digitálnom prostredí. Neustála potreba učenia a prispôsobovania sa je ďalším dôležitým
+prvkom, ktorý sa objavuje v odpovediach. P. Filip zdôrazňuje, že digitálna transformácia je
+kontinuálny proces, ktorý si vyžaduje neustále vzdelávanie a prispôsobovanie. Tento prístup
+podporuje aj K. Martinček, ktorý poukazuje na dlhodobý charakter transformácie a potrebu
+jasnej vízie, ktorá by zamestnancom pomohla udržať sa na správnej ceste. Zdravý rozum a
+strategické využitie technológií sú tiež kľúčové, ako zdôrazňuje S. Božoň, ktorý varuje pred
+slepým spoliehaním sa na digitalizáciu ako univerzálne riešenie. Tento pohľad posilňuje
+potrebu rozumného a strategického prístupu k implementácii technológií, aby digitalizácia
+prinášala skutočnú hodnotu. Tieto spoločné prvky v odpovediach respondentov podčiarkujú
+dôležitosť pochopenia ľudských faktorov, kontinuálneho vzdelávania a strategického
+prístupu pri realizácii digitálnej transformácie, čo sú všetko kľúčové faktory pre úspešné
+zvládnutie procesu digitalizácie.
+V odpovediach respondentov sa objavujú rozdiely v prístupe k výzvam digitálnej
+transformácie, najmä v oblasti verejnej správy a vo vnímaní psychologických aspektov
+zmien. Vnímanie výziev v verejnej správe sa medzi respondentmi líši. K. Žužiová uvádza,
+že v oblasti digitálnej transformácie verejnej správy nezaznamenáva žiadne špecifické
+výzvy, čo kontrastuje s názormi ostatných respondentov, ktorí identifikujú rôzne prekážky a
+faktory, ktoré môžu ovplyvniť priebeh transformácie. Tento rozdiel naznačuje variabilitu
+skúseností s implementáciou digitalizácie v rôznych oblastiach verejného sektora.
+Zameranie na implementáciu vs. psychológiu zmien je ďalším aspektom, v ktorom sa názory
+líšia. K. Martinček kladie dôraz na dôležitosť integrácie a plánovania na všetkých
+organizačných úrovniach, čím zdôrazňuje potrebu dôkladného riadenia a koordinácie
+procesov. Na druhej strane, J. Snopko sa viac sústreďuje na psychológiu a emocionálne
+aspekty zmien, upozorňujúc na obavy a strach zamestnancov, ktoré môžu byť významnou
+62
+
+prekážkou pri adaptácii na nové technológie. Tieto rozdiely v odpovediach ilustrujú rôzne
+prístupy respondentov k digitálnej transformácii – niektorí sa zameriavajú na praktické
+aspekty implementácie a koordinácie, zatiaľ čo iní zdôrazňujú význam psychologických a
+emocionálnych faktorov pri riadení zmien.
+Podľa teórie zmien organizácie, ako je Kotterov model zmeny, je dôležité nielen
+zaviesť nové technológie, ale aj riadiť ľudský faktor v procese transformácie. Kotter
+zdôrazňuje, že úspešná zmena si vyžaduje jasnú víziu, angažovanosť zamestnancov a
+schopnosť prekonať odpor voči zmenám. Respondent J. Snopko, ktorý hovorí o strachu
+zamestnancov, a respondent P. Filip, ktorý zdôrazňuje potrebu učenia, potvrdzujú význam
+týchto aspektov. Ďalším relevantným prístupom je teória adaptácie, ktorá naznačuje, že
+organizácie musia byť schopné prispôsobiť sa novým technológiám a meniť sa v reakcii na
+vonkajšie podmienky. Respondent P. Filip zdôrazňuje, že prispôsobenie sa novým
+technológiám je nevyhnutné, inak organizácie riskujú, že zostanú pozadu. Z odpovedí
+respondentov vyplýva, že digitálna transformácia je komplexný proces, ktorý zahŕňa nielen
+technologické zmeny, ale aj psychológiu a kultúru organizácie. Hlavné odporúčania
+zahŕňajú potrebu neustáleho učenia, strategického prístupu k technológiám a riešenia
+psychologických prekážok, ktoré môžu brániť úspešnému zavádzaniu digitálnej
+transformácie. Organizácie by mali klásť dôraz na integráciu technológie do všetkých úrovní
+a súčasne zabezpečiť podporu zamestnancov pri adaptácii na zmeny.
+
+63
+
+5
+
+Výsledky práce a diskusia
+Táto práca sa sústreďuje na digitálnu transformáciu práce a skúma, ako sú moderné
+
+technológie, vrátane automatizácie, umelej inteligencie a digitálnych platforiem,
+implementované v pracovnom prostredí na Slovensku a v Európe. Zároveň som sa zamerala
+na hlavné výzvy, ktoré tieto zmeny prinášajú pre zamestnanosť, zručnosti pracovníkov a
+sociálnu rovnosť. Výsledky ukazujú, že digitálna transformácia vytvára na pracovnom trhu
+niekoľko zásadných výziev a rizík, ktoré si vyžadujú systémovú a strategickú pozornosť.
+Rozhovory s odborníkmi potvrdzujú, že implementácia digitálnych technológií
+výrazne mení štruktúru pracovných miest. Väčšina respondentov poukazovala na rastúci
+dopyt po špecializovaných digitálnych a technických zručnostiach, zatiaľ čo tradičné
+pracovné pozície v odvetviach ako administratíva, výroba a logistika sú stále viac ohrozené
+automatizáciou. Tieto zistenia sú konzistentné s údajmi v odborných štúdiách, ktoré
+predpovedajú nárast v polarizácii pracovného trhu – tvorba nových pracovných príležitostí
+pre vysokokvalifikovaných odborníkov, ale zároveň úbytok miest pre nízko kvalifikovaných
+pracovníkov.
+Výsledky mojej práce sú v súlade s medzinárodnými zisteniami, ktoré potvrdzujú
+podobné trendy aj v iných európskych krajinách. V Nemecku a Francúzsku sa investuje do
+podpory vzdelávania a rekvalifikácie, aby sa pracovníci lepšie pripravili na požiadavky
+digitalizácie. Na Slovensku však takéto iniciatívy ešte nie sú dostatočne rozvinuté, čo môže
+viesť k nárastu nezamestnanosti a prehĺbeniu sociálnej nerovnosti. Prístup Slovenska k
+vzdelávaniu a podpore digitálnych zručností je však postupne vylepšovaný prostredníctvom
+nových programov a grantov, ktoré majú potenciál zvýšiť adaptabilitu pracovnej sily.
+Porovnaním situácie na Slovensku s krajinami ako Estónsko, ktoré patrí medzi
+digitálnych lídrov, som dospela k záveru, že Slovensko má pred sebou ešte dlhú cestu k
+zabezpečeniu dostatočného prístupu k digitálnym technológiám pre všetky skupiny
+obyvateľstva. Estónsko je lídrom v oblasti digitálnej verejnej správy, čo je dôležité aj pre
+lepšie podmienky na prácu na diaľku a flexibilitu pracovného trhu. Na Slovensku je prístup
+k digitálnym technológiám limitovaný v menej rozvinutých regiónoch, čo môže spôsobovať
+regionálne nerovnosti a obmedzený prístup k digitálnym pracovným príležitostiam.
+Zistenia naznačujú, že digitálna transformácia je nevyhnutnou súčasťou
+modernizácie pracovného prostredia, ale prináša so sebou aj značné riziká, ktoré je potrebné
+adresovať. Hlavné výzvy zahŕňajú potrebu zvyšovania digitálnej gramotnosti obyvateľstva
+
+64
+
+a podporu celoživotného vzdelávania, aby boli pracovníci schopní prispôsobiť sa rýchlo
+meniacemu sa prostrediu. Nedostatočná príprava na digitálne technológie môže prehlbovať
+nerovnosti medzi kvalifikovanými a menej kvalifikovanými pracovníkmi a ohroziť
+dlhodobú stabilitu pracovného trhu na Slovensku.
+Z výskumu vyplýva, že zamestnávatelia, ale aj tvorcovia politík musia zohľadniť
+tieto riziká a vytvoriť podmienky pre podporu digitálnych zručností. Podpora inovácií v
+oblasti rekvalifikácie, zavádzanie technologických riešení do všetkých odvetví a prepojenie
+vzdelávania s potrebami trhu práce sú rozhodujúce kroky, ktoré pomôžu zabezpečiť, aby
+digitálna transformácia priniesla udržateľné pozitíva.
+Výskum v tejto oblasti čelil niekoľkým obmedzeniam. Rozhovory sa realizovali na
+menšej vzorke respondentov, čo môže limitovať rozsah zistení. Ďalším limitom je
+nedostatok aktuálnych dát z určitých oblastí slovenského trhu práce, čo by mohlo pomôcť
+detailnejšie špecifikovať regionálne rozdiely v adaptabilite na digitálnu transformáciu. Tieto
+obmedzenia otvárajú priestor pre budúci výskum, ktorý by mohol rozšíriť výsledky tejto
+práce o nové dáta a zamerať sa na analýzu špecifických oblastí a regiónov.
+
+65
+
+Záver
+Diplomová práca poskytla podrobnú analýzu dopadov digitálnej transformácie na
+pracovný trh, identifikujúc výzvy i riziká, ktoré súvisia s narastajúcim využívaním
+automatizácie, umelej inteligencie a digitalizovaných procesov v pracovnom prostredí.
+Digitalizácia ovplyvňuje štruktúru zamestnanosti tým, že mení charakter mnohých
+pracovných pozícií a súčasne vytvára nové, technicky náročnejšie role. Výskum poukazuje
+na dôležitosť pripravenosti zamestnancov a zamestnávateľov na tento prechod a identifikuje
+viaceré aspekty, ktoré si vyžadujú pozornosť – predovšetkým dostupnosť vzdelávacích
+programov a možnosti pre celoživotné vzdelávanie v oblasti digitálnych zručností.
+Pre Slovensko je obzvlášť významná otázka vzdelávacieho systému a jeho
+schopnosti reagovať na rýchlo sa meniace požiadavky pracovného trhu. Zistenia ukazujú, že
+súčasný vzdelávací systém nie je vždy dostatočne flexibilný a prakticky orientovaný, čo
+vedie k disproporciám medzi potrebami zamestnávateľov a kvalifikáciou pracovnej sily. To
+zahŕňa aj nedostatok IT odborníkov, čo môže brzdiť rozvoj digitálne orientovaných odvetví
+a celkové tempo digitalizácie. Na úrovni verejnej politiky je preto kľúčové podporovať
+vzdelávanie a rekvalifikáciu, čo môže zahŕňať aj investície do inovatívnych foriem
+vzdelávania, ako sú online kurzy či hybridné vzdelávacie modely.
+Ďalším zásadným problémom identifikovaným v práci je prehlbovanie sociálnych
+nerovností, ktoré digitálna transformácia môže spôsobiť, najmä v menej rozvinutých
+regiónoch. Nedostatočný prístup k technológiám a obmedzené možnosti získavania
+digitálnych zručností môžu viesť k marginalizácii určitých skupín obyvateľstva, čím sa
+zvyšuje riziko nezamestnanosti a sociálneho vylúčenia. Na regionálnej úrovni je preto nutné
+zlepšiť infraštruktúru a prístup k technológiám, čo by umožnilo rovnomernejšie rozdelenie
+príležitostí a znížilo digitálnu priepasť medzi rozvinutejšími a menej rozvinutými oblasťami.
+Diplomová práca tiež zdôrazňuje, že zmena pracovného prostredia v dôsledku
+digitalizácie môže ovplyvniť aj psychické zdravie zamestnancov, najmä kvôli fenoménu tzv.
+„digitálnej vyhorenosti“ spôsobenej neustálou dostupnosťou a vysokými nárokmi na
+produktivitu. Preto je dôležité, aby organizácie venovali pozornosť nielen technickému, ale
+aj mentálnemu a sociálnemu aspektu digitalizácie. K tomu patrí podpora duševného zdravia
+zamestnancov, nastavenie realistických pracovných očakávaní a umožnenie flexibilného
+pracovného režimu, ktorý by zabezpečil rovnováhu medzi pracovným a súkromným
+životom.
+
+66
+
+Z komparatívnej analýzy prístupov jednotlivých európskych krajín vyplýva, že
+úspešné riešenie výziev digitálnej transformácie závisí od spolupráce medzi vládou,
+podnikateľským sektorom a vzdelávacími inštitúciami. Z tohto dôvodu práca odporúča
+zavedenie verejno-súkromných partnerstiev zameraných na rozvoj digitálnych zručností,
+podporu inovácií a zabezpečenie inkluzívnych programov pre všetky skupiny obyvateľstva.
+Významným krokom by tiež mohlo byť vytvorenie národného plánu pre digitálnu
+transformáciu, ktorý by systematicky podporoval digitalizáciu a súčasne zmierňoval jej
+negatívne dôsledky pre pracovný trh a sociálne skupiny.
+Na záver možno konštatovať, že digitálna transformácia má potenciál poskytnúť
+významné prínosy pre ekonomiku a spoločnosť, avšak iba pri súčasnom riešení súvisiacich
+rizík a výziev. Práca tak ponúka nielen teoretické východiská, ale aj konkrétne odporúčania,
+ktoré môžu slúžiť ako základ pre ďalší výskum i praktické opatrenia na podporu pozitívneho
+a inkluzívneho rozvoja digitálnej transformácie v pracovnom prostredí.
+
+67
+
+Zoznam použitej literatúry
+ALDRICH, H. E., 1979. Organizations and Environments. Stanford: Stanford University
+Press. ISBN 978-0804708996. s 26 – 60.
+BAUDOT, L., KELLY, K. A, A Survey of Perceptions of Remote Work and Work
+Productivity in the United States during the COVID-19 Shutdown. HEC Paris Department of Accounting and Management Control, University of Central Florida, 2020.
+Dostupné na: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3646406.
+BERTELSMANN STIFTUNG. 2021. Digital Souverän 2021: Aufbruch in die digitale
+Post-Coronawelt? [online]. Dostupné na: https://www.bertelsmannstiftung.de/de/publikationen/publikation/did/digital-souveraen-2021-aufbruch-in-diedigitale-post-coronawelt-all
+BUSINESS FINLAND. Innovative Digital Solutions for Increased Efficiency in the Health
+Sector [online]. 2024. Dostupné na: https://www.businessfinland.fi/en/whatsnew/news/cision-releases/2024/innovative-digital-solutions-for-increased-efficiency-inthe-health-sector.
+BUNDESREGIERUNG. Fortschrittsbericht zur Digitalstrategie der Bundesregierung
+[online]. 2024. Dostupné na: https://www.digitalstrategiedeutschland.de/static/65d93ffeba99d715f3c218bc3e469729/2._Fortschrittsbericht_zur_Dig
+italstrategie_der_Bundesregierung_barrierefrei.pdf.
+CITI GPS. Technology at Work v2.0: The Future Is Not What It Used to Be. Oxford
+Martin School, University of Oxford, 2016. Dostupné na internete: https://omswww.files.svdcdn.com/production/downloads/reports/Citi_GPS_Technology_Work_2.pdf
+CIRILLO, V., MINA, A., RICCI, A. Digital Technologies, Labor Market Flows and
+Training: Evidence from Italian Employer-Employee Data. Laboratory of Economics and
+Management, Sant'Anna School of Advanced Studies, Pisa, Italy, 2024. Dostupné z:
+http://www.lem.sssup.it/WPLem/files/2024-22.pdf
+EURÓPSKA KOMISIA Čo je ESCO? [online]. Luxembourg: Európska komisia, 2024.
+Dostupné z: https://esco.ec.europa.eu/en/about-esco/what-esco
+EUROPEAN COMMISSION. Digital Decade 2024: Report calls for strengthened
+collective action [online]. Brussels: European Commission, 2024. Dostupné na:
+
+68
+
+https://commission.europa.eu/news/digital-decade-2024-report-calls-strengthenedcollective-action-2024-07-03_sk.
+EUROPEAN COMMISSION. Europe’s Digital Decade: Digital Targets 2030 [online].
+2024. Dostupné na: https://commission.europa.eu/strategy-and-policy/priorities-20192024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_sk.
+EUROPEAN COMMISSION. Europe’s Digital Decade: Digital Targets 2030 [online].
+Brussels: European Commission, 2024. Dostupné na:
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digitalage/europes-digital-decade-digital-targets-2030_en.
+EUROPEAN COMMISSION. Second report on the State of the Digital Decade calls for
+strengthened collective action to propel the EU's digital transformation [online]. Brussels:
+European Commission, 2024. Dostupné na:
+https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3602.
+EUROPEAN COMMISSION. France Recovery and Resilience Plan Factsheet [online].
+2021. Dostupné na: https://commission.europa.eu/system/files/2021-06/france-recoveryresilience-factsheet_en.pdf.
+EUROPEAN COMMISSION. France: Digital Education Agenda 2023-2027 [online].
+2023. Dostupné na: https://digital-skills-jobs.europa.eu/en/actions/nationalinitiatives/national-strategies/france-digital-education-agenda-2023-2027.
+EUROPEAN COMMISSION. Italy: National Strategy for Digital Skills [online]. 2020.
+Dostupné na: https://digital-skills-jobs.europa.eu/en/actions/national-initiatives/nationalstrategies/italy-national-strategy-digital-skills.
+EUROSTAT. High-tech employment by NUTS 2 regions [online]. Dostupné na:
+https://ec.europa.eu/eurostat/databrowser/view/htec_emp_reg2/default/table?lang=en.
+EUROSTAT. Digitalizácia v Európe – vydanie 2024 [online]. 2024. Dostupné na:
+https://ec.europa.eu/eurostat/web/interactive-publications/digitalisation-2024.
+E-ESTONIA. X-Road Interoperability Services [online]. Dostupné na: https://eestonia.com/solutions/x-road-interoperability-services/x-road/.
+GROVES, K. S., MARGOLIS, J., GIBSON, C. Cultivating the experience of dignity at
+work during digital transformation: Protective & proactive strategies for leaders and
+organizations. Pepperdine Graziadio Business School, USA.
+
+69
+
+GOVERNO ITALIANO. Piano Nazionale di Ripresa e Resilienza (PNRR) [online]. 2021.
+Dostupné na: https://www.governo.it/sites/governo.it/files/PNRR_0.pdf.
+HELSPER, E. J., DEURSEN, J.A. Digital Skills in Europe: Research and Policy [online].
+2020. Dostupné na: https://www.myecole.it/biblio/wpcontent/uploads/2020/11/DigitalSkillsinEuropeResearchandPolicy_Helsper.pdf.
+HORŇÁK, L., 2015. Teoretické východiská inklúzie, sociálnej inklúzie, inkluzívnej
+edukácie. Pedagogické rozhľady, 24(1), s. 3–7.
+CHOUDHURY, P. a kol. 2020. Work from anywhere: the productivity effects of
+geographic flexibility”, working paper Harvard Business School, Harvard University.
+[online]. 2020, [cit. 2021-10-07]. Dostupné na internete:
+https://www.hbs.edu/faculty/Pages/item.aspx?num=59107.
+CHOMOVÁ, K., 2023. Spoločenská zodpovednosť firiem: Smerovanie firiem k
+udržateľnej budúcnosti. Bratislava: Vydavateľstvo Ekonóm. ISBN 978-80-225-5033-8.
+CHRISTENSEN, C. M.,1997. The Innovator's Dilemma: When New Technologies Cause
+Great Firms to Fail. Boston: Harvard Business Review Press. ISBN 978-0875845852. s 3.
+INRIA. French National Artificial Intelligence Research Program [online]. Dostupné na:
+https://www.inria.fr/en/french-national-artificial-intelligence-research-program.
+KATTEL, R., MERGEL, I. Estonia’s Digital Transformation. In: Great Policy Successes,
+s. 143–160. Oxford: Oxford University Press, 2019.
+KÜTT, A., VIIK, L. (2024). Estonia's Digital Transformation. In The Digital
+Transformation of Work (s. 149-157). Oxford University Press. Dostupné na:
+https://academic.oup.com/book/42635/chapter/358101931
+KILPI, T. Making the digital leap in Finnish schools [online]. 2022. Dostupné na:
+https://www.researchgate.net/publication/363942451_Making_the_digital_leap_in_Finnish
+_schools.
+KIVIMÄKI, T., & HÄMÄLÄINEN, J. (2022). Digital Transformation and Equality in the
+Finnish Labor Market. Journal of Digital Innovation and Economic Development, 15(1),
+45-63.
+KUPLAND Flexible Remote Work and Coworking in Southern Estonia [online]. Dostupné
+na: https://kupland.ee/.
+
+70
+
+KOERNER, C., FRIESEN, J., WITTKE, F. (2022). The Digital Divide and Its Impacts on
+Employment in Germany. Journal of Digital Economy, 4(2), 45-61.
+KOTLER, P., 2017. Marketing Management. 15. vyd. Harlow: Pearson Education. ISBN
+978-1292092621. s 514 až 543.
+KOEHLER, M. J. A MISHRA, P., EDS., 2008. Handbook of Technological Pedagogical
+Content Knowledge (TPACK) for Educators. New York: Routledge. ISBN 9780805858652. s 3 – 29.
+MAŁKOWSKA, A., URBANIEC, M., KOSAŁA, M. The impact of digital transformation
+on European countries: insights from a comparative analysis. Equilibrium. Quarterly
+Journal of Economics and Economic Policy, roč. 16, č. 2, 2021, s. 325–355. ISSN 1689765X, e-ISSN 2353-3293. DOI: 10.24136/eq.2021.012. Dostupné na: www.economicpolicy.pl.
+LEWIN, K., 1951. Field Theory in Social Science: Selected Theoretical Papers. New
+York: Harper & Brothers.
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY. Vicepremiérka Remišová: Vláda schválila kľúčové
+dokumenty pre digitálnu transformáciu Slovenska a na rozvoj digitálnej ekonomiky
+[online]. Bratislava: MIRRI, 2024. Dostupné na: https://mirri.gov.sk/aktuality/digitalnaagenda/vicepremierka-remisova-vlada-schvalila-klucove-dokumenty-pre-digitalnutransformaciu-slovenska-a-na-rozvoj-digitalnej-ekonomiky/. [Citované: 18. 10. 2024].
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY. Program Slovensko 2021 – 2027. Verzia 1.0. Bratislava:
+MIRRI SR, 2022. s.22 347 s.
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY. Program Slovensko, verzia 1.0 [online]. 2022. Dostupné na:
+https://www.eurofondy.gov.sk/wpcontent/uploads/2022/03/Program_Slovensko_SK_verzia-1.0-1.pdf.
+MINISTERSTVO INVESTÍCIÍ, REGIONÁLNEHO ROZVOJA A INFORMATIZÁCIE
+SLOVENSKEJ REPUBLIKY. Stratégia digitálnej transformácie Slovenska 2030 [online].
+2019. Dostupné na: https://mirri.gov.sk/wp-content/uploads/2019/06/Strategia-digitalnejtransformacie-Slovenska-2030.pdf.
+
+71
+
+MINISTERSTVO ŠKOLSTVA, VEDY, VÝSKUMU A ŠPORTU SLOVENSKEJ
+REPUBLIKY. Národný projekt Digitálna transformácia vzdelávania a školy sa naplno
+rozbieha [online]. 2024. Dostupné na: https://www.minedu.sk/36870-sk/narodny-projektdigitalna-transformacia-vzdelavania-a-skoly-sa-naplno-rozbieha/. [Citované: 18. 10. 2024].
+MINISTRY OF FINANCE, Finland. Report: Digital Public Services for Citizens and
+Businesses in Finland Still at Highest Standard in the EU [online]. 2023. Dostupné na:
+https://vm.fi/en/-/1410829/report-digital-public-services-for-citizens-and-businesses-infinland-still-at-highest-standard-in-the-eu.
+MINISTÈRE DE L'ÉCONOMIE, des Finances et de la Souveraineté Industrielle et
+Numérique. Stratégie nationale pour l’intelligence artificielle [online]. 2023. Dostupné na:
+https://www.economie.gouv.fr/strategie-nationale-intelligence-artificielle.
+PIIRSALU-KIVIHALL, K., SINITSYNA, A., ALFIERI, L., PAAS, T. Acceleration of
+Remote Work and Coworking Practices in Estonia During the COVID-19 Pandemic. In:
+European Narratives on Remote Working and Coworking During the COVID-19
+Pandemic, s. 19–27. 2023. DOI: 10.1007/978-3-031-26018-6_3. License CC BY 4.0.
+SCIENCE BUSINESS. Attracting Investment for Research Infrastructures: A
+Science|Business Special Report. Brusel: Science Business Publishing International SRL,
+2022.
+STATION F. World's largest startup campus in Paris [online]. 2024. Dostupné na:
+https://stationf.co/.
+TEECE, D. J., 2009. Dynamic Capabilities and Strategic Management: Organizing for
+Innovation and Growth. Oxford: Oxford University Press. ISBN 978-0199545124. s 83 až
+110.
+VAN DEURSEN, A.J.A.M., HELSPER, E.J., EYNON, R. A VAN DIJK, J.A.G.M., 2017.
+The Compoundness and Sequentiality of Digital Inequality. International Journal of
+Communication, 11, s. 452–473.
+VÄÄTÄJÄ, H., KORPELAINEN, E. (2021). Digital inclusion in Finland: Ensuring
+equality in digital services. International Journal of Public Administration in the Digital
+Age, 8(3), 1-18.
+VUORIKARI, R., KLUZER, S., A PUNIE, Y., 2022. Rámec digitálnych kompetencií pre
+občanov: S novými príkladmi vedomostí, zručností a postojov. Luxembursko: Úrad pre
+publikácie Európskej únie. ISBN 978-92-76-48882-8. 128 s.
+72
+
+YOU, J., XU, X., LIAO, D., LIN, C. International comparison of the impact of digital
+transformation on employment. Journal of Asian Economics, roč. 95, 2024, s. 101820.
+ISSN: 1049-0078. DOI: 10.1016/j.asieco.2024.101820.
+WESTERMAN, G., BONNET, D. A MCAFEE, A.,2014. Leading Digital: Turning
+Technology into Business Transformation. Boston: Harvard Business Review Press. ISBN
+978-1625272478. s 175 až 188.
+
+73
+
+Prílohy
+Príloha 1 - Štruktúrovaný rozhovor s riaditeľom IT
+1. Môžete prosím uviesť Vaše meno a profesijné pozadie?
+.Volám sa Jozef Snopko a pracoval som 10 rokov ako riaditeľ IT na Úrade práce,
+sociálnych vecí a rodiny, kde som bol zodpovedný za riadenie a rozvoj IT
+infraštruktúry, implementáciu informačných systémov a zabezpečenie efektívneho
+fungovania technologických riešení pre podporu sociálnych služieb. V súčasnosti
+pôsobím ako riaditeľ IT v Železničnej spoločnosti Slovensko (ZSSK), kde dohliadam
+na technologické inovácie a digitálnu transformáciu v rámci spoločnosti, so
+zameraním na zlepšovanie prevádzky a komunikácie v železničnej doprave.
+2. Ako dlho sa zaoberáte problematikou digitálnej transformácie práce v rámci svojej
+profesie?
+Posledných 12 rokov.
+3. Aký vplyv podľa Vás mala digitálna transformácia na štruktúru pracovných miest vo
+Vašom sektore?
+Vychádzajme z toho, prečo tu vôbec nejaké snahy o digitalizáciu na úrovni štátu sú
+a k tomu boli priradené nejaké zdroje. To znamená, že existovala nejaká vízia, že sa
+bude automatizovať, optimalizovať a elektronizovať agenda výkonu moci. A vďaka
+tomu, že toto bolo definované ako priorita (stanovili sa KPI, ktoré sa mali naplniť),
+vznikol operačný program informatizácie spoločnosti, ktorý v niekoľkých úpravách
+funguje dodnes. Do priorít elektronizácie sú investované aj európske peniaze. Ale
+netreba to chápať tak, že len európske peniaze. Na začiatku sa vytvorila stratégia
+exkluzívnej špecializácie a tento dokument pojednával o výkonoch, ktoré je možné
+elektronizovať a automatizovať. Výkon moci sa však len elektronizuje,
+neautomatizuje, pretože je to výkon moci. Exkluzívna špecializácia znamenala, že
+ľudia, ktorí dovtedy pracovali na menej odborných činnostiach, tieto činnosti im boli
+odbúrané. Ak sa rozprávame o štátnej a verejnej správe, exkluzívna špecializácia sa
+určite naplnila. Čas ľudí (úradníkov) sa ušetril, aby mohli pracovať efektívnejšie a
+venovať sa novým agendám, ktoré sa k nim dostávajú. Automatizácia, elektronizácia
+a digitálna transformácia práce znamenala, že sa ľudia môžu špecificky venovať
+
+74
+
+činnostiam, na ktoré sú určení, teda exkluzívnej špecializácii, a nie bežným
+výkonom, ktoré je možné automatizovať či digitalizovať.
+4. Zaznamenali ste vo Vašom pracovnom prostredí výrazný nárast digitalizácie? Ak áno,
+ktoré činnosti boli najviac ovplyvnené?
+Stopercentne áno. Ja som historicky 10 rokov pôsobil na ministerstve práce ako
+riaditeľ IT. Boli sme prvý rezort, ktorý zaviedol elektronické služby občanom.
+Nejaká elektronizácia, ako napríklad registratúrne denníky a bežnú administratívu,
+nahrádzala papier niečím digitálnym. Tieto snahy tu boli, no zároveň sme ako
+digitálna spoločnosť priznali, že neboli dobre uchopené. To znamená, že
+digitalizovať papier do počítača nebolo ani efektívne, ani účelné. Preto sa v druhom
+rozpočtovom období Európskej únie stalo podmienkou pre získanie prostriedkov na
+digitalizáciu zmapovanie procesu. Najprv musela nastať optimalizácia procesu a až
+potom sa elektronizovalo. Vrátim sa k tomu, čo sa elektronizovalo. Ako prvé sme
+vytvorili služby občanom. A to bolo na úseku práce aj sociálnych vecí. Na úseku
+sociálnych vecí, kým som tam pôsobil, bol to prvý úrad, ktorý publikoval služby
+občanom, a to 38 typov štátnych sociálnych dávok bolo možné požiadať elektronicky
+bez toho, aby ľudia museli osobne prichádzať na úrad. Služby boli dostupné pre ľudí
+s obmedzeným pohybom, zdravotnými problémami, sociálne odkázaným. Všetky
+typy žiadostí boli elektronizované. To bola agenda sociálnych vecí a agenda
+zamestnanosti, taktiež všetky podania a výkony pracovnoprávnych vzťahov boli
+elektronizované. Občania tak konečne pocítili automatizáciu, čo zároveň znamená,
+že museli byť všetky systémy automatizované, musel sa digitalizovať proces výkonu
+bežnej administratívnej agendy, výkonu moci aj správneho výkonu. Od agendových
+systémov, cez vysporiadanie sa s elektronickými dokumentmi, cez registratúrne
+systémy až po archiváciu a archívy pôvodných dokumentov, podpisovače až po
+elektronické formuláre. Znamenalo to aj veľkú revolúciu v myslení asi 16 000
+pracovníkov. Zmenil sa im úplne život. Predtým mali všetko na papieri a boli viac v
+kontakte s ľuďmi, a zrazu to vymenil elektronický výkon. Systémy, ktoré sa vtedy
+vybudovali, sa používajú dodnes.
+5. Ako digitalizácia zmenila požiadavky na pracovné zručnosti vo Vašom odvetví?
+Určite zmenila. Je to asi natívne, človek nemusí mať osobnú skúsenosť
+s digitalizáciou a rozumie tomu a vidí, že sa trh práce mení. A ak si dnes pozrieme
+opisy pracovnej činnosti v súkromnom sektore, ale aj vo verejnej správe, tak
+75
+
+digitálne zručnosti sú elementárna požiadavka. Napríklad vlakvedúci na konci dňa
+výkon zaznamenáva a je závislý od nejakých aplikácií, ktoré má v ruke. Na úrade
+práce je dnes hlavným pracovným nástrojom počítač. Výkon ľudí na hmotnej núdzi,
+pokiaľ sú aktivizovaní, to znamená, že aktivačný pracovník vám povie, že dostanete
+hmotnú núdzu, ale je potrebné odpracovať nejaký počet hodín vo verejnom záujme
+a nájde mu prácu napríklad sa dohodne s obcou a zároveň kontroluje, či ten
+nezamestnaný je uchádzač na hmotnej núdzi a odpracuje tieto hodiny a ak áno,
+dostane dávku hmotnej núdze. Toto všetko je elektronická záležitosť. Ľudia a celý
+ten proces nachádzania práce, evidencie, zisťovanie vzoriek, kto bude aktivizovaný
+až po odpracoval/neodpracoval je dnes elektronická vec. Tablet, prenosná tlačiareň
+a tá požiadavka na zručnosti je dnes samozrejmá.
+6. Aké hlavné výzvy ste zaznamenali v súvislosti s implementáciou digitálnych technológií?
+Bez ohľadu na to, kde som pracoval, je možné to zaradiť do jednej kategórie.
+Paradoxom sú výzvy, čo je pekne povedané problémy, a aké výzvy musíte prekonať,
+aby ste sa k tej digitalizácii dostali, a keď sa k tomu dostanete, aké výzvy vás čakajú
+v spojení s tým, že ste digitalizáciu urobili. Paradoxom je, že chcete digitalizovať,
+aby ste zjednodušili administratívny proces a odstránili administratívne nezmysly, a
+to, čo vám v tom bráni, sú administratívne postupy a administratívne nezmysly.
+Napríklad verejné obstarávanie, interné procesy, zbytočná dokumentácia, alibizmus,
+neodovzdanie projektovej dokumentácie - to sú administratívne postupy, ktoré vám
+bránia digitalizovať. Prečo je to dôležité a prečo to nie je jedno? Elektronizácia aj
+technológia idú veľmi rýchlo vpred a riešenia, ktoré nastavujeme, než sa k nim
+dostaneme, sú technologicky prežité. Akokoľvek to komplikujeme v procese, tak na
+konci dňa nie je vždy spokojnosť zákazníka, používateľa finálneho produktu, pretože
+už je to zastarané, prekonané, nie je tam všetko, a také to typické „to malo byť inak,
+lepšie, farebnejšie, rýchlejšie“. Áno, ale ak sa rozprávame o veľkom digitalizačnom
+procese agendy, ten trvá roky (verejné obstarávanie, eurofondy...) a technológia ide
+extrémne vpred. Jedna vec sú teda prekážky toho, že elektronizujete, a ak sa vám to
+podarí, tak na konci sú výzvy alebo prekážky, ktoré vás postretnú, keď to už
+automatizované máte. Technicky to nie je problém. Problémy vznikajú medzi stolom
+a stoličkou. Napríklad odpor ľudí k novým veciam a technológiám. Strach ľudí je
+veľmi vážny, pretože potrebujú dokázať opodstatnenie svojej existencie vo firme
+alebo úrade. Ohrozenie pozície ako takej vyvoláva strach a to je silná emócia. A
+
+76
+
+odpor k novinkám, pretože k starému, zaužívanému má človek sentiment, pretože to
+pozná, orientuje sa v tom a cíti sa komfortne, zlepšenia a zmeny spôsobujú
+diskomfort. Zrazu máte všetko digitálne spracované a vyladené, a zabudli ste, že nad
+tým sedí človek.
+7. Vidíte v digitálnej transformácii práce riziko pre tradičné pracovné pozície alebo celé
+odvetvia? Ak áno, ktoré?
+Súhlasím, že zaniknú niektoré tradičné pracovné pozície a budú nahradené, tak ako
+nám pri industrializácii zaniklo mnoho typov zamestnaní. Ľudí nahradili stroje.
+Dnešným strojom je umelá inteligencia, robotizácia – máme iné názvy na
+industriálnu revolúciu. Hovorím o Industry 4.0, ktorý teraz žijeme. A je to to isté,
+máme to tu už od parnej lokomotívy. Je to príležitosť a vieme, že spoločnosť sa vždy
+nakoniec adaptovala, ľudia nezomierali v miliónoch, pretože zrazu nemali čo robiť,
+museli sa adaptovať. A znova, adaptácia je zmena a pre ľudí je to diskomfort.
+8. Ako sa vysporiadava Vaša organizácia alebo sektor s problémom sociálnej nerovnosti
+ktorá môže byť dôsledkom digitalizácie ?
+Sociálna nerovnosť je celospoločenský problém a asi by sme ešte dnes našli šedé a
+čierne miesta pokrytia. Pracovali sme na tom, aby ľudia mali k digitálnym službám
+štátu prístup, a tak bol pokus o zmapovanie takýchto miest, úplne sa nám to však
+nepodarilo. Vznikli preto rôzne iné stratégie, aby do týchto miest prioritne smerovali
+IOM (integrované obslužné miesta), a teda ak nemáte počítač alebo internet, môžete
+zájsť na nejaké miesto, kde si viete žiadosť vyplniť. Neskôr sa do toho zapojila
+Slovenská pošta, ktorá tieto služby prevzala ako podmnožinu. Projekt IOM bol
+ďalšou vládou zastavený, čo je len smutné. Štátna a verejná správa to však dokáže
+kompenzovať. Dnes sa všetky žiadosti spracovávajú výlučne elektronicky.
+9. Vidíte v digitálnej transformácii práce viac príležitostí alebo hrozieb?
+Je to nevyhnutnosť. Ak vyskočíme z tohto vlaku, tak už zostaneme len pozerať na
+koľajniciach. Digitalizácia a automatizácia znamenajú aj kompletnú zmenu
+myslenia, a myslím tým všetko – aj AI, aj robotiku, nové materiály; všetky veci sú
+dnes závislé na nejakej technológii a digitalizácii. Je to cesta, ktorou sme sa vydali
+ako ľudstvo, a nie je cesta späť. Ja osobne vidím vo všetkom aj príležitosti, aj hrozby.
+A ako človek aj v osobnom živote nehodnotím veci ako dobré alebo zlé, ony len sú.
+
+77
+
+10. Aké opatrenia podľa Vás môže vláda alebo súkromný sektor prijať na zmiernenie
+negatívnych dopadov digitalizácie na pracovný trh?
+Vychádzajme z postulátu, že to sa jednoducho stane. Niektoré profesie budú
+ohrozené viac automatizáciou a umelou inteligenciou, iné menej. A znamená to, že
+sa ľudia musia adaptovať, pričom postoj bude a priori negatívny, pretože je to zmena.
+A ako s týmto postulátom pracuje štát? Záleží od toho, kde sa filozoficky nachádzate.
+Či veríte v silný štát, ktorý to celé manažuje, alebo je váš postoj skôr libertariánsky
+a veríte v to, že má štát zabezpečiť, aby sanitky prišli tam, kam majú, ale nevstupovať
+do trhového mechanizmu. Ja sa skôr prikláňam k etatizmu a strategické rozhodnutia
+je potrebné „koučovať“ makromanažérsky aj makroekonomicky, a to je úloha štátu.
+Nájsť pravú mieru, robiť evanjelizáciu a využiť všetky potrebné nástroje. Štát by mal
+vytvárať príležitosti, ale nie podnikanie. Neviem však, či dokáže štát nájsť, vysvetliť
+a pochopiť príležitosti, ktoré prichádzajú s tým, že svet sa mení, ale určite má na to
+reagovať a vytvárať prostredie.
+11. Čo by ste odporučili organizáciám, ktoré práve začínajú s procesom digitálnej
+transformácie?
+Neverím, že také sú.
+12. Máte nejaké ďalšie poznámky alebo skúsenosti týkajúce sa digitálnej transformácie
+práce, ktoré by ste chceli zdôrazniť?
+Ja sa bojím ľudí a ich strachu, obáv a ega. To sú skutočné prekážky.
+
+Poznámky k rozhovoru: Dĺžka rozhovoru: 37 minút
+
+78
+
+Príloha 2 - Štruktúrovaný rozhovor s generálnym riaditeľom IT
+1. Môžete prosím uviesť Vaše meno a profesijné pozadie?
+Ing. Peter Filip. Moja kariéra začala ako správca sietí, kde som mal na starosti
+zabezpečenie spoľahlivosti a funkčnosti IT infraštruktúry. Postupne som začal
+poskytovať súkromným firmám konzultácie v oblastiach serverových riešení, správy
+sietí a bezpečnosti, čo mi umožnilo nadobudnúť cenné skúsenosti v rôznych
+odvetviach. Neskôr som prešiel na manažérsku pozíciu, kde som 3 roky pôsobil ako
+CEO IT oddelenia v Mediaprint Kapa, čo mi umožnilo riadiť technologické stratégie
+na komplexnej úrovni a zabezpečiť efektívnu digitálnu transformáciu spoločnosti.
+2. Ako dlho sa zaoberáte problematikou digitálnej transformácie práce v rámci svojej
+profesie?
+Posledných 10 rokov.
+3. Aký vplyv podľa Vás mala digitálna transformácia práce na štruktúru pracovných miest
+vo Vašom sektore?
+Veľký. Už len zmena návykov ľudí v pracovnom režime. Zmena riadenia ľudí z
+manažérskeho pohľadu. Dobrým príkladom je aj nedávna pandémia, ktorá zásadným
+spôsobom zmenila komunikáciu ľudí. Firmy museli rýchlo prispôsobiť svoje IT
+infraštruktúry, nakupovať techniku a zabezpečiť prístupy cez VPN. Bolo to náročné
+obdobie, keďže bol problém s dostupnosťou počítačov.
+4. Zaznamenali ste vo Vašom pracovnom prostredí výrazný nárast digitalizácie? Ak áno,
+ktoré činnosti boli najviac ovplyvnené?
+Nemyslím, že nastala skoková zmena. Skôr ide o plynulý prechod a neustály proces.
+5. Ako digitalizácia zmenila požiadavky na pracovné zručnosti vo Vašom odvetví?
+Digitalizácia priniesla neustálu potrebu vzdelávania – ľudia musia byť ochotní
+prispôsobovať sa novým technológiám a nástrojom. Len v oblasti komunikačných
+platforiem sme videli, ako sa neustále menia riešenia ako Zoom, Teams či Google
+Meet, pričom každá nová verzia prichádza s novým rozhraním a funkciami. To
+znamená, že zamestnanci musia byť flexibilní a rýchlo sa prispôsobovať. Ďalšou
+
+79
+
+výzvou je aj kvalita internetového pripojenia, ktorá je kľúčová pre efektívnu prácu v
+digitálnom prostredí.
+
+6. Aké hlavné výzvy ste zaznamenali v súvislosti s implementáciou digitálnych technológií?
+Jednou z hlavných výziev, ktorým sme čelili, bola bezpečnosť dát pri budovaní a
+správe novej infraštruktúry. S príchodom cloudu pred niekoľkými rokmi nastal
+doslova boom, no s ním prišli aj nové riziká, ktoré si vyžadovali špecifické
+bezpečnostné riešenia. Rovnako dôležitá bola aj zmena myslenia nás „itečkárov“ –
+mnohí z nás museli prejsť od tradičných on-premise riešení k plne digitálnym
+platformám, čo nebolo vždy jednoduché. Nakoniec, technologické inovácie si
+nevyhnutne vyžadujú aj kultúrnu zmenu v organizácii.
+7. Vidíte v digitálnej transformácii práce riziko pre tradičné pracovné pozície alebo celé
+odvetvia? Ak áno, ktoré?
+Mnohí majú obavy, že nástroje ako ChatGPT nahradia bežných IT-čkárov, no podľa
+mňa to nie je celkom tak. Skôr vidím riziko pre tie najdrahšie pozície, ako napríklad
+právnikov či špecialistov, kde AI môže vykonávať veľkú časť rutinných úloh
+rýchlejšie a efektívnejšie. IT-čkári, ktorí sa neustále učia a prispôsobujú novým
+technológiám, sa nemusia báť, že ich nahradia. V digitálnej transformácii je skôr
+výzvou neustále napredovanie, nie samotné nahrádzanie ľudí.
+8. Ako sa vysporiadava Vaša organizácia alebo sektor s problémom sociálnej nerovnosti,
+ktorá môže byť dôsledkom digitalizácie?
+V našej organizácii sa snažíme minimalizovať sociálnu nerovnosť tým, že ľuďom
+poskytujeme všetky potrebné nástroje na prácu. Dnes už mobilný telefón či notebook
+nie sú takým nákladom ako kedysi a väčšina firiem tieto prostriedky štandardne
+poskytuje (minimálne posledných 5 rokov). Ľudia sú dostatočne podporovaní, či už
+technologicky alebo cez rôzne vzdelávacie programy, aby mali prístup k digitálnym
+nástrojom a zručnostiam. Digitalizácia tak môže znižovať nerovnosť, ak sú zdroje
+správne rozdelené a prístupné.
+9. Vidíte v digitálnej transformácii práce viac príležitostí alebo hrozieb?
+V digitálnej transformácii práce vidím hlavne príležitosti. Napríklad digitalizácia
+identity a meny je už realitou – v Južnej Kórei si dnes bez mobilu nič nekúpite.
+Poskytuje to obrovské výhody v pohodlí a efektivite. Na druhej strane sú tu výzvy v
+80
+
+oblasti bezpečnosti dát a negatívny vplyv sociálnych sietí na ľudí, ktorý nemožno
+ignorovať. Napriek tomu príležitosti prevládajú, ak sa tieto riziká správne riadia.
+Digitálna transformácia práce je však nevyhnutnosť.
+10. Aké opatrenia podľa Vás môže vláda alebo súkromný sektor prijať na zmiernenie
+negatívnych dopadov digitalizácie na pracovný trh?
+Jedným z kľúčových opatrení, ktoré môže vláda zaviesť, je podpora digitálnych
+zručností obyvateľstva, aby sa ľudia dokázali prispôsobiť novým technológiám.
+Napríklad zavedenie elektronických občianskych preukazov je skvelý krok, ktorý
+uľahčuje prístup k digitálnym službám a umožňuje efektívnejšiu správu osobných
+údajov. Súkromný sektor by mal investovať do vzdelávania svojich zamestnancov a
+vytvárať programy na preškolenie tých, ktorých pracovné pozície sú ohrozené
+digitalizáciou. Spolupráca medzi vládou a firmami môže zmierniť negatívne dopady
+na pracovný trh.
+11. Čo by ste odporučili organizáciám, ktoré práve začínajú s procesom digitálnej
+transformácie?
+Naozaj, dnes je ťažké nájsť organizácie, ktoré by ešte nezačali s digitálnou
+transformáciou – doba a trh už prakticky všetkých donútili prispôsobiť sa. Ak by som
+mal niečo odporučiť, tak je to nebáť sa začať postupne, zavádzať technológie krok
+za krokom a vždy klásť dôraz na vzdelávanie zamestnancov. Kľúčové je zabezpečiť,
+aby každý v organizácii rozumel prínosom digitalizácie a bol pripravený prispôsobiť
+sa zmenám. No a samozrejme, nikdy nezanedbávať bezpečnosť dát.
+12. Máte nejaké ďalšie poznámky alebo skúsenosti týkajúce sa digitálnej transformácie
+práce, ktoré by ste chceli zdôrazniť?
+Ak mám niečo zdôrazniť, tak je to neustála potreba učiť sa, naučiť sa a prispôsobovať
+sa zmenám. Technológie sa vyvíjajú rýchlo a ten, kto sa im bráni, bude čoskoro
+prekonaný. Je dôležité byť flexibilný a otvorený novým prístupom, inak nás tie
+zmeny doslova prevalcujú. Digitalizácia nie je jednorazový proces, je to neustála
+cesta.
+
+Poznámky k rozhovoru: Dĺžka rozhovoru: 33 minút
+
+81
+
+Príloha 3 - Štruktúrovaný rozhovor s projektovou manažérkou v IT
+1. Môžete prosím uviesť Vaše meno a profesijné pozadie?
+Volám sa Žúžiová Katarína a mám dlhoročné skúsenosti v oblasti projektového
+manažmentu, najmä v riadení projektov digitálnej transformácie – Plán obnovy a
+odolnosti Slovenskej republiky. Mojou špecializáciou je riadenie projektov v oblasti
+informačných technológií, kybernetickej bezpečnosti a digitálnej ekonomiky. V
+rámci môjho pôsobenia som pracovala na projektoch súvisiacich s digitálnou
+transformáciou a modernizáciou procesov, vrátane implementácie mobilných
+aplikácií
+
+pre
+
+verejné
+
+služby,
+
+rozširovania
+
+vysokorýchlostnej
+
+internetovej
+
+infraštruktúry a posilňovania kybernetickej bezpečnosti. Okrem toho som mala na
+starosti
+
+projekty,
+
+ktoré
+
+podporujú
+
+digitálnu
+
+ekonomiku
+
+a
+
+zlepšujú
+
+konkurencieschopnosť slovenských podnikov v globálnom digitálnom prostredí.
+Momentálne pracujem na projektoch v rámci Komponentu 17 – DIGITÁLNE
+SLOVENSKO, ktorý zahŕňa oblasti ako Štát v mobile, Kybernetická bezpečnosť,
+Rýchly internet pre každého a Digitálna ekonomika.
+2. Ako dlho sa zaoberáte problematikou digitálnej transformácie práce v rámci svojej
+profesie?
+Digitálnej transformácii sa venujem už 7 rokov, počas ktorých som pracovala na
+projektoch digitalizácie v rámci Operačného programu Integrovaná infraštruktúra,
+Prioritná os 7, ako aj na projektoch súvisiacich s Plánom obnovy a odolnosti SR.
+Moje skúsenosti zahŕňajú komplexné riadenie digitálnych iniciatív na národnej
+úrovni s cieľom modernizovať verejné služby a infraštruktúru.
+3. Aký vplyv podľa Vás mala digitálna transformácia na štruktúru pracovných miest vo
+Vašom sektore?
+Digitálna transformácia v našom sektore zatiaľ zásadne nezmenila štruktúru
+pracovných miest, avšak zvýraznila by som potrebu odborníkov v IT a kybernetickej
+bezpečnosti. Hoci sú základné pracovné pozície rovnaké, pribúda dopyt po
+špecialistoch
+
+s
+
+digitálnymi
+
+zručnosťami
+
+technológiami.
+
+82
+
+a
+
+skúsenosťami
+
+s
+
+modernými
+
+4. Zaznamenali ste vo Vašom pracovnom prostredí výrazný nárast digitalizácie? Ak áno,
+ktoré činnosti boli najviac ovplyvnené?
+V mojom pracovnom prostredí sme zatiaľ nezaznamenali výrazný nárast
+automatizácie. Procesy a činnosti prebiehajú prevažne rovnako ako predtým, bez
+významných technologických zmien, ktoré by ovplyvnili každodenné pracovné
+postupy.
+5. Ako digitalizácia zmenila požiadavky na pracovné zručnosti vo Vašom odvetví?
+Požiadavky na pracovné zručnosti v mojom odvetví sa výrazne nezmenili. Hoci
+digitalizácia prebieha, doteraz neovplyvnila potrebu nových alebo špecifických
+digitálnych zručností v mojom pracovnom prostredí.
+6. Aké hlavné výzvy ste zaznamenali v súvislosti s implementáciou digitálnych technológií?
+Hlavné výzvy, ktoré som zaznamenala v súvislosti s implementáciou digitálnych
+technológií, zahŕňajú komplikované procesy verejného obstarávania, náročnú
+komunikáciu medzi verejnými a štátnymi organizáciami, rôzne úrovne digitalizácie
+v organizáciách verejnej moci, časté zmeny implementačných tímov a samotné
+nastavenie implementácie.
+7. Vidíte v digitálnej transformácii práce riziko pre tradičné pracovné pozície alebo celé
+odvetvia? Ak áno, ktoré?
+V digitálnej transformácii verejnej správy nie je vnímané riziko pre pracovné pozície
+alebo celé odvetvia.
+8. Ako sa vysporiadava Vaša organizácia alebo sektor s problémom sociálnej nerovnosti,
+ktorá môže byť dôsledkom digitalizácie?
+Pri digitálnej transformácii verejnej správy nie je vnímaný problém sociálnej
+nerovnosti.
+9. Vidíte v digitálnej transformácii práce viac príležitostí alebo hrozieb?
+Digitalizácia verejnej správy neprináša ohrozenie práce a pracovných príležitostí.
+10. Aké opatrenia podľa Vás môže vláda alebo súkromný sektor prijať na zmiernenie
+negatívnych dopadov digitalizácie na pracovný trh?
+Dôkladne nastaviť proces digitalizácie verejnej správy, využívať príklady dobrej
+praxe, príklady dobrej praxe aj z iných krajín, implementácia na úrovni nielen
+domácich dodávateľov. Verejné obstarávania cez dynamický nákupný systém.
+
+83
+
+11. Čo by ste odporučili organizáciám, ktoré práve začínajú s procesom digitálnej
+transformácie?
+Podobne ako v otázka číslo 10. Dôkladne nastaviť proces digitalizácie verejnej
+správy, využívať príklady dobrej praxe, príklady dobrej praxe aj z iných krajín,
+implementácia na úrovni nielen domácich dodávateľov. Verejné obstarávania cez
+dynamický nákupný systém.
+12. Máte nejaké ďalšie poznámky alebo skúsenosti týkajúce sa digitálnej transformácie
+práce, ktoré by ste chceli zdôrazniť?
+V oblasti digitálnej transformácie práce verejnej správy nie.
+
+Poznámky k rozhovoru: Dĺžka rozhovoru: 27 minút
+
+84
+
+Príloha 4 - Štruktúrovaný rozhovor s členom predstavenstva v ZSSK
+1. Môžete prosím uviesť Vaše meno a profesijné pozadie?
+Volám sa Karol Martinček a 8 rokov som pôsobil ako člen predstavenstva a riaditeľ
+úseku obchodu v Železničnej spoločnosti Slovensko (ZSSK). Mám rozsiahle
+skúsenosti v oblasti manažmentu a obchodu, pričom som počas svojej kariéry
+zastával viaceré vedúce pozície v rôznych firmách a odvetviach. Pracoval som a
+dodnes ešte pracujem na projektoch zameraných na modernizáciu a digitalizáciu
+slovenských železníc.
+2. Ako dlho sa zaoberáte problematikou digitálnej transformácie práce v rámci svojej
+profesie?
+Digitálnej transformácii sa venujem intenzívne od môjho nástupu do ZSSK, kde sa
+už niekoľko rokov zameriavame na modernizáciu služieb a infraštruktúry. Moje
+skúsenosti sa týkajú najmä zavádzania inovácií v železničnom sektore na Slovensku,
+ako aj participácie na medzinárodných projektoch v rámci európskych železničných
+asociácií.
+3. Aký vplyv podľa Vás mala digitálna transformácia práce na štruktúru pracovných miest
+vo Vašom sektore?
+Digitálna transformácia postupne mení štruktúru pracovných miest v železničnom
+sektore. Vyžaduje si vyšší dôraz na IT zručnosti, predovšetkým v oblastiach
+spojených s automatizáciou a kybernetickou bezpečnosťou, avšak tradičné pracovné
+miesta zatiaľ nie sú výrazne ovplyvnené.
+4. Zaznamenali ste vo Vašom pracovnom prostredí výrazný nárast digitalizácie? Ak áno,
+ktoré činnosti boli najviac ovplyvnené?
+Áno, automatizácia výrazne ovplyvnila naše procesy, najmä v oblasti manažmentu
+cestovných poriadkov, predaja lístkov a plánovania kapacity vlakov. Tento posun
+nám umožnil zvýšiť efektivitu a komfort pre cestujúcich.
+5. Ako digitalizácia zmenila požiadavky na pracovné zručnosti vo Vašom odvetví?
+V našom odvetví teraz kladieme väčší dôraz na digitálne zručnosti, predovšetkým na
+ovládanie nových technológií a schopnosť pracovať s dátami. IT odborníci a
+
+85
+
+špecialisti na kybernetickú bezpečnosť sa stali neoddeliteľnou súčasťou našich
+tímov.
+
+6. Aké hlavné výzvy ste zaznamenali v súvislosti s implementáciou digitálnych technológií?
+Najväčšie výzvy spočívajú v komplikovaných procesoch verejného obstarávania a v
+nejednotnej úrovni digitalizácie medzi rôznymi verejnými organizáciami. Ďalšou
+výzvou sú neustále meniace sa implementačné tímy a adaptácia na nové
+technologické riešenia.
+7. Vidíte v digitálnej transformácii práce riziko pre tradičné pracovné pozície alebo celé
+odvetvia? Ak áno, ktoré?
+Digitálna transformácia prináša určité riziká pre tradičné pracovné pozície, najmä
+pre manuálnu pracovnú silu, kde sa zvyšuje tlak na automatizáciu. Avšak v našom
+sektore tieto zmeny postupujú pomaly a zatiaľ nevytlačili kľúčové profesie.
+8. Ako sa vysporiadava vaša organizácia alebo sektor s problémom sociálnej nerovnosti,
+ktorá môže byť dôsledkom digitalizácie?
+V našej organizácii sa snažíme vzdelávať zamestnancov a umožniť im prechod na
+nové digitálne zručnosti. Zároveň sa zameriavame na inklúziu a zaisťujeme, aby
+digitalizácia nevyvolávala zbytočné rozdiely v prístupe k technológiám.
+9. Vidíte v digitálnej transformácii práce viac príležitostí alebo hrozieb?
+Osobne vidím v digitálnej transformácii viac príležitostí. Môže zásadne zvýšiť
+efektivitu a konkurencieschopnosť železničného sektora, čo povedie k zlepšeniu
+kvality služieb pre cestujúcich a lepšiemu využívaniu zdrojov.
+10. Aké opatrenia podľa Vás môže vláda alebo súkromný sektor prijať na zmiernenie
+negatívnych dopadov digitalizácie na pracovný trh?
+Vláda a súkromný sektor by mali spolupracovať na zvyšovaní digitálnych zručností
+populácie, podporovať rekvalifikácie a vytvárať podmienky na vznik nových
+pracovných miest v súvislosti s novými technológiami. Zároveň je dôležité
+zabezpečiť spravodlivý prístup k technológiám.
+11. Čo by ste odporučili organizáciám, ktoré práve začínajú s procesom digitálnej
+transformácie?
+
+86
+
+Odporúčal by som im dôkladne naplánovať každý krok, zabezpečiť kvalitné školenie
+zamestnancov a spolupracovať s odborníkmi na IT. Je dôležité postupovať
+systematicky a neponáhľať sa.
+12. Máte nejaké ďalšie poznámky alebo skúsenosti týkajúce sa digitálnej transformácie
+práce, ktoré by ste chceli zdôrazniť?
+Digitálna transformácia je dlhodobý proces, ktorý musí byť dobre integrovaný do
+všetkých organizačných úrovní. Najdôležitejšie je mať jasnú víziu a plán, ktorý bude
+zohľadňovať potreby všetkých zúčastnených strán.
+
+Poznámky k rozhovoru: Dĺžka rozhovoru: 37 minút
+
+87
+
+Príloha 5 - Štruktúrovaný rozhovor s riaditeľom IT
+1. Môžete prosím uviesť Vaše meno a profesijné pozadie?
+Volám sa Slavomír Božoň a pracujem ako riaditeľ IT v Slovenskom
+hydrometeorologickom ústave, kde zodpovedám za správu a rozvoj technologických
+riešení, ktoré podporujú zber, spracovanie a prezentáciu meteorologických a
+hydrologických údajov. V minulosti som pôsobil v Sociálnej poisťovni, kde som sa
+venoval optimalizácii IT infraštruktúry a zabezpečeniu efektívneho fungovania
+systémov, a na Ministerstve hospodárstva, kde som pracoval na technologických
+projektoch podporujúcich rozvoj ekonomických a priemyselných procesov.
+2. Ako dlho sa zaoberáte problematikou digitálnej transformácie v rámci svojej profesie?
+35 rokov
+3. Aký vplyv podľa Vás mala digitálna transformácia práce na štruktúru pracovných miest
+vo Vašom sektore?
+Digitálna transformácia mala určitý vplyv na štruktúru pracovných miest, avšak v
+oblasti IT, ktorá je už tradične úzko prepojená s digitálnymi technológiami, nebola
+táto zmena až tak výrazná. Vzhľadom na to, že práca v IT sektore sa už dlhodobo
+odohráva v digitálnom prostredí, veľké posuny v štruktúre pracovných miest neboli
+markantné. Digitálna transformácia bola pre tento sektor viac evolúciou než
+revolúciou.
+4. Zaznamenali ste vo Vašom pracovnom prostredí výrazný nárast digitalizácie? Ak áno,
+ktoré činnosti boli najviac ovplyvnené?
+V IT sektore som nezaznamenal žiadne markantné zmeny spojené s automatizáciou,
+ktoré by významne ovplyvnili každodenné činnosti. Aj keď automatizácia ako taká
+postupuje v rôznych odvetviach, v IT sektore, kde už veľa procesov beží na
+automatizovaných systémoch, nepozoruje výrazné nové zmeny.
+5. Ako digitalizácia zmenila požiadavky na pracovné zručnosti v IT odvetví?
+Zmeny prebiehali postupne a prirodzene v súlade s vývojom nástrojov a pracovného
+prostredia. Nešlo o žiadne náhle alebo skokové zmeny, ale skôr o evolúciu, kde nové
+
+88
+
+technológie a platformy priniesli prispôsobenie existujúcich zručností a zavedenie
+nových, avšak v postupnom tempe.
+6. Aké hlavné výzvy ste zaznamenali v súvislosti s implementáciou digitálnych technológií?
+Za hlavné výzvy v súvislosti s implementáciou digitálnych technológií považujem
+najmä sociálne inžinierstvo a očakávania spojené s novými technológiami. Jednou z
+kľúčových výziev je presvedčiť ľudí, že technológie nie sú proti nim, ale pre nich –
+teda že ich účelom je zjednodušiť prácu a zvýšiť efektivitu, nie ohroziť ich pracovné
+miesta alebo narušiť zabehnuté procesy.
+7. Vidíte v digitálnej transformácii práce riziko pre tradičné pracovné pozície alebo celé
+odvetvia? Ak áno, ktoré?
+Digitálna transformácia určite predstavuje riziko pre tradičné pracovné pozície a
+odvetvia. Môže dôjsť k strate pracovných miest a istôt, ktoré ľudia v súčasnosti majú,
+a budú sa musieť prispôsobiť novým podmienkam. Tento proces môže byť pre
+spoločnosť traumatizujúci, pretože prijímanie nových zmien nie je nikdy
+jednoduché. Zvlášť ohrozené sú pozície a odvetvia, ktoré sa spoliehajú na tradičné
+pracovné postupy, pretože budú musieť čeliť výrazným zmenám v dôsledku
+digitalizácie.
+8. Ako sa vysporiadava vaša organizácia alebo sektor s problémom sociálnej nerovnosti,
+ktorá môže byť dôsledkom digitalizácie?
+Podstatné je vysvetľovať zamestnancom, že digitalizácia je nevyhnutným trendom,
+na ktorý sa musia adaptovať, pretože ignorovanie technologického pokroku môže
+spôsobiť izoláciu a stratu kontaktu so svetom. Organizácia poskytuje zamestnancom
+možnosti preškolenia a rozvoja nových zručností, čím pomáha prekonať obavy z
+technologických zmien. Podľa respondenta je tento proces nielen o digitalizácii, ale
+aj o práci s ľuďmi a ich schopnosti prispôsobiť sa novému prostrediu.
+9. Vidíte v digitálnej transformácii práce viac príležitostí alebo hrozieb?
+Vnímam digitálnu transformáciu ako zmes príležitostí aj hrozieb. Pre určitú časť ľudí
+a organizácií predstavuje príležitosť na zlepšenie efektivity a zjednodušenie
+procesov, zatiaľ čo pre iných môže byť hrozbou, pretože so sebou prináša stratu
+zaužívaných návykov a potrebu prispôsobiť sa novým podmienkam. Digitalizácia
+má potenciál výrazne zlepšiť fungovanie pracovného prostredia, ale zároveň
+predstavuje výzvu pre tých, ktorí sa musia vzdať tradičných pracovných postupov.
+
+89
+
+10. Aké opatrenia podľa Vás môže vláda alebo súkromný sektor prijať na zmiernenie
+negatívnych dopadov digitalizácie na pracovný trh?
+Vláda by mala prijať legislatívne opatrenia, ktoré by regulovali zavádzanie nových
+technológií a zároveň zmierňovali ich sociálne dopady. Digitálna transformácia má
+vždy vplyv na ľudí, a preto je dôležité poskytovať školenia, modernizovať vzdelávací
+systém a prispôsobovať sociálny systém novým podmienkam. Tieto opatrenia by
+mali byť súčasťou legislatívnych a právnych rámcov, aby sa zabezpečilo, že
+technologický pokrok nebude mať negatívny vplyv na zamestnanosť a sociálne
+istoty.
+11. Čo by ste odporučili organizáciám, ktoré práve začínajú s procesom digitálnej
+transformácie?
+V súčasnosti už neexistuje organizácia, ktorá by len začínala s procesom digitálnej
+transformácie, keďže väčšina organizácií už týmto procesom prešla alebo je v
+pokročilom štádiu. Ak by však nejaká organizácia bola na úplnom začiatku,
+respondent naznačil, že by zrejme nebola dostatočne pripravená na súčasné
+technologické požiadavky a možno by ani nevidela potrebu transformácie, čo by
+znamenalo značné zmeškanie vývoja.
+12. Máte nejaké ďalšie poznámky alebo skúsenosti týkajúce sa digitálnej transformácie
+práce, ktoré by ste chceli zdôrazniť?
+Kľúčové používať zdravý rozum. Digitalizácia sama o sebe nevyrieši všetky
+problémy ľudstva a spoločnosti, a mala by byť vnímaná len ako nástroj, nie ako
+univerzálne riešenie. Digitalizácia by sa nemala stať mantrou, na ktorú sa všetci slepo
+spoliehajú. Ľudstvo by sa nemalo v prvom rade prispôsobovať technológiám, ale
+skôr by malo technológie využívať rozumne a strategicky na riešenie konkrétnych
+výziev.
+
+Poznámky k rozhovoru: Dĺžka rozhovoru: 33 minút
+
+90
+
+

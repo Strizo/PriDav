@@ -1,0 +1,2984 @@
+TECHNICKÁ UNIVERZITA VO ZVOLENE
+LESNÍCKA FAKULTA
+
+LF-104154-21396
+
+ANALÝZA VÝVOJA TROFEJOVEJ KVALITY JELENEJ ZVERI
+V CHPO POĽANA OD ROKU 1995 PO SÚČASNOSŤ VPLYVOM
+DODRŽIAVANIA KRITÉRIÍ SELEKTÍVNEHO LOVU
+
+DIPLOMOVÁ PRÁCA
+
+2024
+
+Bc. JANA KĽAČKOVÁ
+
+TECHNICKÁ UNIVERZITA VO ZVOLENE
+LESNÍCKA FAKULTA
+
+ANALÝZA VÝVOJA TROFEJOVEJ KVALITY JELENEJ ZVERI
+V CHPO POĽANA OD ROKU 1995 PO SÚČASNOSŤ VPLYVOM
+DODRŽIAVANIA KRITÉRIÍ SELEKTÍVNEHO LOVU
+
+DIPLOMOVÁ PRÁCA
+
+Študijný program:
+
+Aplikovaná zoológia a poľovníctvo
+
+Pracovisko (katedra/ústav):
+
+Katedra aplikovanej zoológie a manažmentu zveri
+
+Vedúci diplomovej práce:
+
+Ing. Tibor Pataky, CSc.
+
+Zvolen
+
+2024
+
+Čestné prehlásenie
+Vyhlasujem, že som celú diplomovú prácu vypracovala samostatne, pod vedením Ing.
+Tibora Patakyho, CSc. s použitím odbornej literatúry a odborných zdrojov, ktoré sú uvedené
+v použitej literatúre.
+
+Zvolen 29.7.2024
+
+...........................................
+vlastnoručný podpis
+
+Poďakovanie
+Ďakujem môjmu vedúcemu práce Ing. Tiborovi Patakymu, CSc. za ochotu, ústretovosť a
+odborné vedenie pri spracovaní diplomovej práce. Ďalej sa chcem poďakovať konzultantovi
+Ing. Jánovi Nôžkovi za poskytnuté materiály. Mojim najbližším priateľom a rodine za podporu
+a trpezlivosť pri celom štúdiu na Technickej univerzite vo Zvolene na Lesníckej fakulte.
+
+Abstrakt
+Analýza vývoja trofejovej kvality jelenej zveri v CHPO Poľana od roku 1995 po
+súčasnosť vplyvom dodržiavania kritérií selektívneho lovu
+Predložená diplomová práca na tému Analýza vývoja trofejovej kvality jelenej zveri
+v CHPO Poľana od roku 1995 po súčasnosť vplyvom dodržiavania kritérií selektívneho lovu.
+V predloženej práci som sa zamerala na niekoľko cieľov a to: na analýzu prírodných pomerov
+záujmového územia CHPO Poľana, zásady poľovníckeho manažmentu obhospodarovania
+jelenej zveri v zmysle platnej legislatívy, celkovú analýzu vývoja trofejovej kvality jelenej zveri
+v CHPO Poľana od roku 1995 do roku 2023, s dôrazom na analýzu vývoja celkovej bodovej
+hodnoty a zastúpenia medailových trofejí, dĺžky kmeňov, hmotnosti trofeje a počtu vetiev
+u trofejovo dospelých, 9 ročných a starších jeleňov, a na analýzu posúdenia chovnosti
+realizovaného lovu jeleňov poľovníckym personálom s úhynmi v dôsledku predácie veľkých
+šeliem.
+V roku 2002 vyhlásilo Ministerstvo pôdohospodárstva SR CHPO Poľana za vyhradený
+revír, na ploche 20 659 ha. Jelenia zver je majestátnou a dlhoročnou súčasťou našej prírody,
+ktorá výraznou mierou ovplyvňuje manažment krajiny. CHPO Poľana je známa vďaka
+unikátnej starostlivosti o jeleniu zver, ktorej výsledkom sú kvalitné trofeje. V rokoch 1995 až
+2023 bolo v CHPO Poľana celkovo 217 bronzových medailí, 153 strieborných a 51 zlatých
+z celkového úbytku 1492 jeleňov čo percentuálne predstavuje 28 %.
+Zároveň som v práci sledovala parametre, ktoré vplývajú na hodnotu jelenej trofeje. Zo
+sledovaných parametrov bola signifikantná najmä dĺžka kmeňov, hmotnosť a počet vetiev.
+Veľmi dôležitý faktor, ktorý ovplyvňuje manažment jelenej zveri, je počet predátorov a to
+medveď hnedý a vlk dravý, ktoré sa podieľali v priemere 28 % a v posledných rokoch až 50 %
+hodnoty z ulovených jeleňov. Manažment jelenej zveri v CHPO Poľana je však aj napriek tomu
+na vysokej celoslovenskej i svetovej úrovni.
+
+Kľúčové slová: trofej, jelenia zver, Chránená poľovná oblasť Poľana
+
+Abstract
+Analysis of the development of the trophy quality of deer in Protected Hunting Area
+(PHA) Poľana from 1995 to the present due to the observance of selective hunting criteria
+Submitted diploma thesis on the topic Analysis of the development of the trophy
+quality of deer in Protected Hunting Area (PHA) Poľana from 1995 to the present due to the
+observance of selective hunting criteria. In the presented work, we focused on several goals,
+namely: the analysis of the natural conditions of the area of interest of (PHA) Poľana, the
+principles of hunting management of deer management in the sense of valid legislation, the
+overall analysis of the development of the trophy quality of deer in (PHA) Poľana from 1995
+to 2023, with emphasis for the analysis of the development of the total point value and the
+representation of medal trophies, the length of trunks and the number of branches in trophy
+adult deer IV. age class and for the analysis of the husbandry assessment of deer hunting carried
+out by hunting personnel with deaths due to predation by large animals
+In 2002, the Ministry of Agriculture of the Slovak Republic declared Poľana as a
+(PHA) as a reserved area, on an area of 20659 ha. Deer game is a majestic and long-standing
+part of our nature that significantly affects the management of the landscape. (PHA) Poľana is
+known for its unique care of deer, which results in high-quality trophies. Between 1995 and
+2023, there were a total of 217 bronze medals, 153 silver medals and 51 gold medals out of
+1,492 deer caught in (PHA) Poľana. Of the total number of deer, 28% are medal deer.
+At the same time, we monitored the parameters that affect the value of the deer trophy.
+Of the observed parameters, the length of the trunks compared to the weight and number of
+branches was particularly significant. A very important factor affecting deer management is the
+number of predators, namely bear and wolf, which accounted for an average of 28% and in
+recent years up to 50% of the value of the deer caught. Nevertheless, deer management at (PHA)
+Poľana is at a high national and international level.
+Key words: trophy, deer game, Protected Hunting Area (PHA) Poľana
+
+Skratky
+CHPO – chránená poľovná oblasť
+JKS – jarné kmeňové stavy
+NKS - normované kmeňové stavy
+PR – poľovný revír
+C.I.C. – (Council for Game and Wildlife Coservation) Medzinárodná rada pre poľovníctvo
+a ochranu zveri
+SR - Slovenská republika
+MPRV SR – Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky
+OÚ - okresný úrad
+CHKO – chránená krajinná oblasť
+NLC – Národné lesnícke centrum
+TUZVO – Technická univerzita vo Zvolene
+
+Obsah
+1. Úvod................................................................................................................13
+2. Rozbor problematiky.....................................................................................14
+2.1. Zásady poľovníckeho manažmentu pri obhospodarovaní jelenej zveri ............................14
+2.1.1. Zásady poľovného plánovania v CHPO Poľana..............................................................16
+2.1.2. Zásady lovu a selektívne kritériá....................................................................................18
+2.1.2.1. Hľadiská pre selektívny lov jelenej zveri v CHPO Poľana............................................18
+2.1.2.2. Prostriedky na dosiahnutie chovateľských cieľov.......................................................20
+2.1.2.3. Návrh na úpravu skutočných stavov zveri a plánu lovu..............................................21
+2.2. Biológia jelenej zveri s dôrazom na tvorbu parožia...........................................................22
+2.2.1. Taxonómia jelenej zveri..................................................................................................23
+2.2.2. Morfologická stavba tela jelenej zveri...........................................................................24
+2.2.3. Rozmnožovanie jelenej zveri..........................................................................................25
+2.2.4. Rast parožia jelenej zveri................................................................................................26
+2.2.5. Potrava jelenej zveri........................................................................................................27
+2.2.6. Predátori a choroby jelenej zveri.....................................................................................28
+
+3. Ciele.................................................................................................................29
+4. Metodika.........................................................................................................30
+4.1. Materiál a opis metodiky....................................................................................................30
+4.1.1. Charakteristika záujmového územia...............................................................................31
+4.1.2. Geológia..........................................................................................................................32
+4.1.3. Geomorfológia................................................................................................................32
+4.1.4. Pôdy................................................................................................................................33
+4.1.5. Klimatické pomery..........................................................................................................33
+
+4.1.6. Flóra a fauna....................................................................................................................34
+
+5. Výsledky.........................................................................................................36
+5.1. Analýza vývoja zastúpenia medailových trofejí a ich podiel z celkového úbytku jeleňov
+od roku 1995 do roku 2023.......................................................................................................36
+5.2. Analýza celkového počtu úbytku jeleňov potrebného na získanie jedného zlatého jeleňa a
+na získanie jedného medailového jeleňa od roku 1995 do roku 2023.........................................38
+5.3. Vývoj vybraných parametrov parožia 9 ročných a starších jeleňov....................................39
+5.3.1. Priemerná bodová hodnota parožia od roku 1995 do roku 2023......................................39
+5.3.2. Priemerné hodnoty dĺžky kmeňov parožia od roku 2001 do roku 2023............................41
+5.3.3. Priemerný počet vetiev parožia od roku 2001 do roku 2023..........................................41
+5.3.4. Priemerná hmotnosť parožia od roku 2001 do roku 2023..............................................42
+5.4. Analýza celkového úbytku jeleňov a úbytku predátormi evidovaných ako úhyn od roku
+1995 do roku 2023.....................................................................................................................43
+5.5. Analýza počtu ulovených jeleňov poľovným personálom a predátormi z hľadiska
+chovnosti od roku 1995 do roku 2023......................................................................................45
+
+6. Diskusia..........................................................................................................47
+7. Záver...............................................................................................................49
+8. Literatúra.......................................................................................................50
+9. Príloha............................................................................................................53
+
+Zoznam ilustrácií:
+Obr. č. 1 Chovateľská prehliadka zhodov a trofejí Zálomská (autor Ing. Pavel Komora)
+...................................................................................................................................................20
+Obr. č. 2 Jelenia ruja (autor Ing. Pavel Komora)......................................................................26
+Obr. č. 3 Jeleň s rastúcim parožím v lyku (autor: Ing. Pavel Komora) ....................................27
+Obr. č. 4 Havranie skaly - Kyslinky (autor: Ing. Pavel Komora).............................................34
+Obr. č. 5 Vlk dravý (Canis lupus) (autor Ing. Patrik Micháľ)...................................................35
+Obr. č. 6 Úspešný výrad (autor Ing. Pavel Komora).................................................................36
+Obr. č. 7 Jeleň lesný (Cervus elaphus) (autor Ing. Pavel Komora)...........................................37
+Obr. č. 8 Korisť vlkov (autor Ing. Pavel Komora)....................................................................44
+Obr. č. 9 Korisť vlkov (autor Ing. Pavel Komora)....................................................................45
+
+Zoznam grafov:
+Graf č. 1: Vývoj hlavných ukazovateľov chovu jelenej zveri...................................................17
+Graf č. 2: Analýza vývoja zastúpenia medailových trofejí a ich podiel z celkového úbytku
+jeleňov (1995-2023).................................................................................................................37
+Graf č. 3: Počet úbytku jeleňov potrebných na získanie jedného zlatého jeleňa (1995-2023).38
+Graf č. 4: Počet úbytku jeleňov potrebných na získanie jedného medailového jeleňa (19952023).........................................................................................................................................39
+Graf č. 5: Priemerné dĺžky kmeňov od roku 2001 do roku 2023..............................................40
+Graf č. 6: Priemerný počet vetiev od roku 2001 do roku 2023.................................................41
+Graf č. 7: Priemerná hmotnosť od roku 2001 do roku 2023.....................................................42
+Graf č. 8: Analýza celkového úbytku jeleňov a úbytku v dôsledku predácie...........................43
+Graf č. 9: Analýza počtu ulovených chovných jeleňov poľovným personálom a predátormi
+evidovaných ako úhyn..............................................................................................................44
+Graf č. 10: Analýza počtu ulovených chovných jeleňov poľovným personálom a predátormi
+evidovaných ako úhyn...........................................................................................................................46
+
+Zoznam tabuliek:
+Tab. 1 Taxonómia jeleňa lesného, Zdroj: (Lochman, 1985)...................................................23
+Tab. 2 Porovnanie telesných rozmerov jeleňa karpatského s jeleňom stredoeurópskym (Bališ,
+1980).........................................................................................................................................25
+
+Tab. 3 Štruktúra poľovnej plochy v PR CHPO Poľana............................................................32
+
+1. Úvod
+Súčasťou prírody sú lesné a lúčne ekosystémy, ktoré sú biotopom mnohých živočíchov
+a rastlín. V prírode prebiehajú procesy, ktoré zabezpečujú fungovanie ekosystémov. Lesné
+a lúčne ekosystémy v horských oblastiach vytvárajú vhodné podmienky pre jeleniu zver, ktorá
+má na Slovensku veľké opodstatnenie.
+Jelenia zver je na Slovensku pôvodným druhom, ktorý obýval naše hory nielen
+v pleistocéne a na začiatku holocénu, ale aj v historických obdobiach. Zver obývala lesostepné
+a lesné oblasti, pričom sa nevyskytovala len vo vysokých horských masívoch Tatier. Podľa
+historických záznamov vieme, že v 10. storočí nášho letopočtu začali výrazne klesať stavy
+jelenej zveri na našom území. Nadobudlo to až také vážne dôsledky, že na začiatku 19. storočia
+sa tu už skoro vôbec nevyskytovala.
+Postupom času a s rozvojom ľudských činností sa lov zveri transformoval na cielenú
+ľudskú aktivitu, ktorú nazývame poľovníctvo. Vychádza z princípov trvalo udržateľného
+rozvoja, ktoré sú hlavným predpokladom pre zachovanie a udržanie biodiverzity v našom
+prostredí.
+Za jeden z najvýznamnejších druhov trofejovej zveri je u nás považovaná jelenia zver.
+Poľovnú zver vnímame nielen ako finančný zdroj pre človeka, ale hlavne ako kultúrnu a
+prírodnú súčasť nášho životného prostredia. Na základe prírodoochranárskych princípov je
+nevyhnutné sa starať o zver a obhospodarovať ju tak, aby aj ďalším generáciám poskytovala
+naše prírodné bohatstvo.
+V roku 2002 Chránenú poľovnú oblasť Poľana s rozlohou 20 659 ha vyhlásilo
+Ministerstvo pôdohospodárstva SR za vyhradený revír. Poľovný revír CHPO Poľana má
+normovaný počet jelenej zveri (NKS) 450 jedincov a prislúcha do I. akostnej triedy. V práci
+som sa venovala analýze vývoja kvality trofejí jelenej zveri v CHPO Poľana od roku 1995 po
+súčasnosť vplyvom dodržiavania kritérií selektívneho lovu. Za 28 rokov hodnotenia trofejí
+v špecifickom poľovnom revíri možno konštatovať, že jelenia zver má vďaka vhodnej
+starostlivosti a prírodným podmienkam, výrazný podiel kvalitných trofejí. V posledných
+rokoch sa však významnou mierou na úbytku jelenej zveri podieľajú predátori.
+
+13
+
+2. Rozbor problematiky
+2.1. Zásady poľovníckeho manažmentu pri obhospodarovaní jelenej zveri
+Už odjakživa užívatelia poľovných revírov vedeli, že smú uloviť zveri len toľko, aby
+neporušili jej požadované kmeňové stavy. Jeleň patrí medzi poľovnú zver s obdobím lovu od
+1. septembra do 31. decembra. Lov sa vykonáva individuálne alebo čakaním; spoločné
+poľovačky a iné ďalšie spôsoby lovu nie sú povolené. Plán lovu je potrebné prísne dodržiavať,
+zároveň extra pozornosť je potrebné venovať jeleniciam a jelenčatám, aby sa nezvyšovali počty
+jelenej zveri. Nemali by sa loviť kvalitné samce v mladšom veku, mali by byť ponechané do
+ich trofejového veku 11 rokov.
+Čas lovu jelenej zveri upravuje vyhláška č. 344/2009 Z.z., s ktorou sa vykonáva zákon
+o poľovníctve. Pre jeleňa lesného a jelenča sa stanovuje od 1. augusta do 15. januára a jelenicu
+od 1.augusta do 31. decembra.
+V posledných rokoch, vydáva MPRV SR mimoriadne povolenie lovu raticovej zveri,
+ktoré sa týka aj jelenej zveri. Povoľuje mimoriadny lov v čase ochrany na území SR a to lov
+jeleníc ako aj jeleňov I. vekovej triedy počas celého roka. Zároveň sa povoľuje aj výnimka zo
+zákona poľovníctve týkajúca sa zakázaných spôsobov lovu. A to lov mláďat raticovej zveri
+s použitím zariadení na nočný lov (noktovízory, nočné puškové ďalekohľady). Takisto sa
+povoľuje výnimka z nesprávnych spôsobov lovu. Lov mláďat raticovej zveri v noci po uplynutí
+dvoch hodín po západe slnka až do dvoch hodín pred východom slnka a tiež strieľať raticovú
+zver na vnadisku. A to z dôvodu vysokého stavu jelenej zveri a s tým spojené obrovské škody
+na lese, v poľnohospodárstve, na chránených biotopoch a rastlinách, ako aj k zvýšenému počtu
+kolízií so zverou v doprave.
+Plánovanie chovu a lovu jelenej zveri vychádza z týchto vzájomne prepojených údajov
+a činností. Predovšetkým ide o bonitáciu poľovných revírov a vytýčenie normovaného počtu
+zveri (NKS). Ďalej potom ide o zistené (spočítané) a nahlásené JKS zveri, ako aj o
+predpokladané prírastky mláďat. Štruktúra plánu lovu zveri býva veľakrát mylná, ale ešte horšia
+je jeho uskutočňovanie, pretože sa celkovo opakovane nedodržiava. Plán lovu samíc a mláďat
+sa mnohokrát nedodržiava, pričom dôraz sa dáva na odstrel silných jedincov zo stredných
+vekových tried. V jarnom kmeňovom stave má byť okolo 40% jeleníc, 40% jeleňov a 20%
+jelenčiat z predošlého roku. Jelenia zver sa chová v pomere pohlavia 1:1 (Hell, at al., 2009).
+
+14
+
+Vekové rozvrstvenie jeleňov v JKS má byť nasledovné:
+-
+
+I. VT - ročné až dvojročné jelene - ihličiaky
+
+23%
+
+-
+
+II. VT - tri až šesťročné jelene 3
+
+2%
+
+-
+
+III. VT - sedem až desaťročné jelene
+
+25%
+
+-
+
+IV. VT - jedenásťročné a staršie jelene
+
+20%
+
+(RICHTER 2003).
+Ak sú naplnené chovateľské ciele podľa § 24, plán odstrelu jelenej zveri tvorí 30 %
+z normovaného kmeňového stavu, štruktúra plánu lovu je: 34 % jeleňov, 36 % jeleníc a 30 %
+jelenčiat. Z plánovaného odstrelu jeleňov by sa malo v I. vekovej triede uloviť 40 %, v II.
+vekovej triede 30 %, v III. vekovej triede 10 % a vo IV. vekovej triede 20 % pri neporušení
+kritérií selektívneho odstrelu. Úhyn dospelej zveri v čase lovu sa zaráta do plnenia plánu lovu
+a odstrel sa pomerne poníži. Prevod prírastku jelenej zveri z predošlého roku sa v pláne chovu
+a lovu danej zveri vykonáva takto:
+-
+
+celý počet jelenčiat zistených k 31. marcu sa predelí na polovicu
+
+-
+
+50 % jelenčiat sa premiestni do I. vekovej triedy jeleňov
+
+-
+
+50 % jelenčiat sa premiestni do kategórie jeleníc
+
+-
+
+50 % jeleňov I. vekovej triedy bez presunutého počtu jelenčiat sa premiestni do II.
+vekovej triedy, z II. vekovej triedy sa prevedie 25 % do III. vekovej triedy a z III.
+vekovej triedy sa prevedie 25 % do IV. vekovej triedy.
+
+Ak je v kmeňovom stave prevaha jeleníc a mladej zveri, je potrebné úmerne zvýšiť ich odstrel
+a limitovať lov jeleňov II. a III. vekovej triedy. Ak sú v revíri kmeňové stavy jelenej zveri vyššie
+ako normované, treba loviť viac zveri, ako je ročný prírastok, pričom treba loviť v plnej miere
+jelenice a jelenčatá. Ročný plán odstrelu sa v tomto prípade vypočíta podľa vzorca O = P +
+(JKS - NKS)/D, kde O - ročný odstrel v kusoch, P - očakávaný ročný prírastok v kusoch, JKS
+- skutočný jarný kmeňový stav v kusoch, NKS - normovaný kmeňový stav v kusoch, D - počet
+rokov, za ktoré sa má docieliť normovaný stav. Údaje do vzorca sa musia každoročne
+aktualizovať a údaj D sa každý rok v priebehu redukcie znižuje o jeden rok. Ak je reálny stav
+zveri v revíri nižší ako normovaný, loví sa menej zveri, ako je prírastok, a na prechodný čas je
+nevyhnutné znížiť intenzitu lovu samičej zveri. Plán odstrelu sa v takomto prípade vypočíta
+podľa vzorca O = P - ( JKS - NKS)/D. (Bučko 2023)
+
+15
+
+2.1.1. Zásady poľovného plánovania v CHPO Poľana
+Hlavnou raticovou zverou je jelenia zver, ktorej jarné kmeňové stavy (ďalej JKS) sa v
+poslednom decéniu hýbali v priemere 494 jedincov (483-597 ks). Za posledných 10 rokov
+dosiahli JKS najvyššiu početnosť v roku 2018 (597 ks). So zreteľom na stanovené normované
+kmeňové stavy (ďalej NKS) vo výške 459 ks jelenej zveri, sú terajšie JKS len na mierne vyššej
+úrovni 1,08 násobku. Z pohľadu nasledujúceho manažovania jelenej zveri v PR je to teda
+pozitívny ukazovateľ, ktorý treba uchovať aj do ďalších rokov. Plán lovu sa pohyboval na
+hladine približne 177 ks/rok (152-198 ks) a odstrel okolo priemeru 127 ks/rok (110-144 ks).
+Priemerná štruktúra JKS za posledných 10 rokov sa vyskytovala na úrovni 43 % jeleňov, 39 %
+jeleníc a 18 % jelenčiat. Za posledné 3 roky sa JKS jelenej zveri figurovali v štruktúre 45 %
+jeleňov, 41 % jeleníc a 14 % jelenčiat, čo naznačuje vyrovnanú pohlavnú štruktúru s miernou
+prevahou samcov (je zavádzaný prístup cez manažment trofejovej kulminácie). Priemerná
+štruktúra celkového úbytku bola v poslednom decéniu 32 % jeleňov, 38 % jeleníc a 30 %
+jelenčiat. Celkový úbytok v posledných 3 rokoch tvorilo 35 % jeleňov a až 38 % jeleníc. Z
+uvedených ukazovateľov chovu a lovu je badať, že v roku 2015 sa JKS priblížil k určenému
+NKS a odvtedy sa udržuje na tejto úrovni. Ďalšie zvyšovanie stavov tejto zveri v PR nie je
+žiadúce, keďže tento leží v blízkosti rozsiahlejších oblastí poľnohospodárskej pôdy v južne
+ležiacich okresoch, kde môžu zvýšené stavy negatívne ovplyvňovať poľnohospodársku výrobu,
+prípadne poľovnícky manažment iných druhov raticovej zveri, najmä hlavnej srnčej. Rovnako
+by nadmerné stavy jelenej zveri mohli byť v rozpore so zámermi lesného hospodárstva
+a ochrany prírody (Bučko 2023).
+Druhou raticovou zverou je zver srnčia, ktorej JKS sa pohybovali v poslednom decéniu
+okolo úrovne 226 jedincov (210-247 ks). U srnčej zveri sa najvyššie stavy v poslednej dekáde
+dosiahli v roku 2022 a najnižšie v roku 2013, takže je potešiteľné, že jej stavy sú aj napriek
+tlaku šeliem mierne stúpajúce. NKS srnčej zveri boli pre revír CHPO Poľana stanovené na
+úrovni 249 jedincov. Telesne najslabšia srnčia zver môže byť atakovaná veľkými šelmami a tiež
+ostatnými druhmi raticovej zveri, ktoré ju vytláčajú. Z raticovej zveri môže byť najmä diviačia
+zver významným predátorom prírastku srnčej zveri, čo treba zohľadňovať pri ich vzájomnom
+manažmente. Plán lovu srnčej zveri sa v poslednom decéniu pohyboval na úrovni 25-33 ks
+ročne, pričom sa dosahoval priemerný odstrel 10 ks/rok. Priemerná štruktúra JKS za posledných
+10 rokov bola 40 % srncov, 40 % sŕn a 20 % srnčiat. Priemerná štruktúra celkového úbytku
+bola v poslednom decéniu 68 % srncov, 21 % sŕn a 11 % srnčiat. V posledných 3 rokoch tvoril
+16
+
+úbytok srncov 61 %, sŕn 35 % a srnčiat 23 %. Pravidelne sa zaznamenáva aj úhyn srnčej zveri
+v počte 3 – 14 ks. Je však pravdepodobné, že väčšina uhynutej srnčej zveri sa pre svoje menšie
+telesné rozmery vôbec nenájde (Bučko 2023).
+V PR sa vyskytuje aj zver diviačia, ktorej JKS sa v poslednom decéniu pohybovali na
+priemernej úrovni do 100 kusov (114 až 86 ks). Z porovnania JKS a stanovených NKS (137
+ks) vyplýva, že v poslednom decéniu sa stavy diviačej zveri držali pod určenou výškou.
+V poslednom roku klesli stavy na najnižšiu úroveň (za 10 rokov), čomu určite pomohla aj
+nepriaznivá situácia s africkým morom ošípaných a dôsledky, ktoré toto ochorenie diviačej
+zveri spôsobilo. V priloženom grafe je možné vidieť znázornenie vývoja jej odstrelu
+v poslednom decéniu, pričom najvyšší odstrel sa dosiahol v roku 2014 (71 ks).
+Prehľad vývoja stavov jednotlivých druhov raticovej zveri za predošlých 10 rokov podávajú
+nasledujúci graf.
+
+600
+500
+400
+Ks
+
+300
+200
+100
+0
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Rok
+JKS
+
+Plán lovu
+
+Odstrel
+
+Odchyt
+
+Úhyn
+
+Spolu
+
+Graf č. 1 Vývoj hlavných ukazovateľov chovu jelenej zveri
+Na území PR CHPO Poľana sa vyskytujú všetky druhy veľkých šeliem. Vykazovaná
+početnosť medveďa hnedého sa pohybovala na úrovni 70 až 100 jedincov a mala stúpajúci
+trend. Zvyšujúce sa stavy tejto šelmy obmedzujú voľnočasové využívanie územia, sťažujú
+život miestnemu obyvateľstvu a spôsobujú ekonomické straty v poľnohospodárstve. Častokrát
+je zvyšovanie hustoty populácie medveďa hnedého aj v rozpore so samotnými zámermi
+ochrany prírody, keďže medveď pôsobí negatívne aj na ne (poškodzovanie lúčnych biotopov,
+likvidácia mŕtveho dreva, ničenie mravenísk, ničenie znášok na zemi hniezdiacich druhov
+a pod.).
+17
+
+Stavy vlka dravého boli hlásené na úrovni 15 až 20 jedincov, do PR zasahujú teritóriá
+minimálne 3 samostatných svoriek (každá svorka približne 50 % svojho areálu). Zvyšujúci sa
+negatívny vplyv vlka dravého na chov jelenej zveri, prípadne na chov hospodárskych zvierat
+vytváral v minulosti ale aj dnes u miestneho vidieckeho obyvateľstva negatívny postoj k tejto
+šelme. Aj preto je potrebné jej stavy udržiavať v takej početnosti, pri ktorej bude možné
+zachovať aj ostatné tradičné činnosti na vidieku. V posledných piatich rokoch (2018-2022)
+predácia vlkov zasahovala výrazne do výšky plánu lovu. Z celkového plánu jeleňov (samcov)
+odobrali svorky vlkov v roku 2018 44 % (24 ks), v roku 2019 39 % (20 ks), v roku 2020 35 %
+(20) ks, v roku 2021 40 % (27 ks) a v roku 2022 34 % (22 ks). S ponechaním časti populácie
+jelenej zveri ako potravy vlkov sa počíta už pri plánovaní, ale na základe vyššie uvedených
+údajov je možné vidieť, že vzrastajúca početnosť vlčej populácie odoberá popri samiciach
+a prírastku aj značnú časť pre užívateľa PR najhodnotnejšej samčej populácie, čo výrazne
+negatívne ovplyvňuje jeho hospodárenie užívateľa poľovného revíru. Najmenší je v súčasnom
+období vplyv rysa ostrovida, ktorého početnosť už dlhodobo stagnuje na úrovni do 10 jedincov.
+Rysej populácii škodia líniové stavby a postupné osídľovanie územia v okolí pohoria Poľany,
+ktoré častokrát preruší jeho tradičné migračné trasy. Následne dochádza k ohrozeniu populácie
+príbuzenským krížením jedincov v jednotlivých pohoriach.
+Z ostatných druhov, ktoré je z pohľadu hlucháňa hôrneho potrebné zohľadňovať, sa tu
+vyskytujú kuna lesná a skalná, líška hrdzavá, jazvec lesný, krkavcovité vtáky ako sojka
+obyčajná, straka obyčajná, krkavec čierny a vrana popolavá. (Bučko 2023)
+
+2.1.2. Zásady lovu a selektívne kritériá
+
+2.1.2.1. Hľadiská pre selektívny lov jelenej zveri v CHPO Poľana
+Minimálne parametre parožia chovných jeleňov:
+JELENE ZARADENÉ DO I. VEKOVEJ TRIEDY
+1-ročné jelene (hrotito zakončené ihlice s dĺžkou minimálne 35 cm, tupo zakončené ihlice s
+dĺžkou minimálne 30 cm, členené kmene s dĺžkou menšou ako 30 cm)
+2-ročné jelene (kmene obojstranne ukončené vidlicami, dĺžka stredných vetiev minimálne 15
+cm, dĺžka kmeňov minimálne 55 cm, členitosť minimálne pravidelného osmoráka, bodová
+hodnota minimálne 115 bodov CIC)
+
+18
+
+JELENE ZARADENÉ DO II. VEKOVEJ TRIEDY
+3-ročné jelene (kmene obojstranne ukončené korunami, dĺžka stredných vetiev minimálne 20
+cm, dĺžka kmeňov minimálne 65 cm, členitosť minimálne pravidelného desatoráka, bodová
+hodnota minimálne 135 bodov CIC)
+4-ročné jelene (kmene obojstranne ukončené korunami, dĺžka stredných vetiev minimálne 20
+cm, dĺžka kmeňov minimálne 75 cm, členitosť minimálne pravidelného desatoráka, bodová
+hodnota minimálne 155 bodov CIC)
+5 až 6-ročné jelene (kmene obojstranne ukončené korunami s počtom minimálne 7 vetiev, dĺžka
+kmeňov minimálne 85 cm, členitosť minimálne pravidelného desatoráka, bodová hodnota
+minimálne 170 bodov CIC)
+JELENE ZARADENÉ DO III.VEKOVEJ TRIEDY
+7 až 8-ročné jelene (kmene obojstranne ukončené korunami s počtom minimálne 8 vetiev, dĺžka
+kmeňov minimálne 95 cm, členitosť minimálne pravidelného štrnástoráka, bodová hodnota
+minimálne 190 bodov CIC)
+9 až 10-ročné jelene (kmene obojstranne ukončené korunami s počtom minimálne 8 vetiev,
+dĺžka kmeňov minimálne 100 cm, členitosť minimálne pravidelného štrnástoráka, bodová
+hodnota minimálne 200 bodov CIC)
+JELENE ZARADENÉ DO IV. VEKOVEJ TRIEDY
+všetky 11- ročné jelene sa považujú za lovné.
+Za chovné sa považujú jelene, ktoré spĺňajú všetky stanovené minimálne parametre parožia
+chovných jeleňov v závislosti od veku.
+Za výradové sa považujú:
+-
+
+jelene, ktoré nespĺňajú všetky stanovené minimálne parametre parožia chovných
+jeleňov v závislosti od veku,
+
+-
+
+jelene s trvalou deformáciou parožia,
+
+-
+
+2-ročné a staršie jelene s členitosťou šestoráka,
+
+-
+
+3-ročné a staršie nekorunové alebo jednostranne korunové jelene,
+
+-
+
+5-ročné a staršie jelene s jednoduchými korunami (s počtom 6 vetiev)
+
+19
+
+Obr. č. 1 Chovateľská prehliadka jeleních zhodov a trofejí Zálomská (autor Ing. Pavel
+Komora)
+
+2.1.2.2. Prostriedky na dosiahnutie chovateľských cieľov
+Stavy zveri
+Zver, ktorá je tiež považovaná za obnoviteľný prírodný zdroj, by sa mala všeobecne
+spravovať tak, aby sa nezhoršoval ani neklesal jej stav, či už kvantitatívne ani kvalitatívne.
+Práve preto by sme sa mali usilovať o zavádzanie trvalo udržateľného manažmentu raticovej
+zveri v podmienkach našej husto osídlenej kultúrnej krajiny. Trvalo udržateľný manažment sa
+skladá najmä z týchto častí:
+Udržiavanie primeranej početnosti – toto úsilie by malo byť v súlade s úživnosťou jej
+životného prostredia a nesmie spôsobovať nenahraditeľnú ujmu lesnému hospodárstvu,
+poľnohospodárstvu a ostatným legitímnym záujmom a potrebám spoločnosti. Orientačnú
+optimálnu početnosť zveri určujú jej predpísané normované kmeňové stavy. Týka sa
+to všetkých druhov zveri. V príslušnom revíri alebo poľovnej oblasti sme povinní udržiavať
+optimálnu druhovú štruktúru zveri. Z tohto dôvodu je žiaduce regulovať početnosť jednotlivých
+druhov zveri tak, aby sa nepoškodila jej druhová diverzita.
+20
+
+Udržiavanie najoptimálnejšej sociálnej (sexuálnej a vekovej) štruktúry – ktorá sa v
+mnohých prípadoch veľmi narušuje chybnou štruktúrou lovu, v dôsledku čoho sú populácie
+neprijateľne omladené a neprimerané v prospech samičej zveri.
+Ochrana a zachovanie genofondu zveri – zver je integrovanou súčasťou svojho
+ekosystému. Má si zachovať svoj fenotyp i genotyp taký, aký sa v priebehu jej evolúcie
+prispôsobil daným životným podmienkam a svoj charakter ,,divého“ resp. voľne žijúceho
+zvieraťa.
+Zachovanie dobrej kvality zveri – vrátane trofejovej. V žiadnom prípade sa to však nesmie
+zvrhnúť na vykrmovanie a dopovanie zveri pre docielenie ,,megatrofejí“.
+Zabezpečenie a zlepšovanie životného prostredia zveri – ochrana proti škodám, ktoré
+spôsobuje zver v lesnom hospodárstve a poľnohospodárstve zahŕňa aj správne prikrmovanie
+zveri s rešpektovaním ekológie jednotlivých druhov.
+V revíroch sa treba usilovať o zachovanie pohody zveri, ochraňovať ju pred prílišným
+stresom.
+Úspešný trvalo udržateľný manažment zveri predpokladá plánované veľkoplošné
+obhospodarovanie v rámci poľovných oblastí, lokalít a chovateľských celkov, ktoré popisujú
+platné legislatívne predpisy.
+
+2.1.2.3. Návrh na úpravu skutočných stavov zveri a plánu lovu
+JKS jelenej zveri (r. 2022 - 496 ks) sú len na mierne vyššej úrovni, ako predpisujú
+stanovené NKS. Mierne navýšenie je momentálne zavádzané aj z dôvodu silného predačného
+tlaku veľkých šeliem, predovšetkým vlka dravého a medveďa hnedého. Pri manažmente zveri
+zohľadňujeme predovšetkým strategické ciele Koncepcie rozvoja poľovníctva zahŕňajú
+dosiahnutie primeranej početnosti raticovej zveri, zlepšenie sociálnej štruktúry a maximálnu
+spoluprácu pri eliminácii škôd spôsobovaných zverou. Memorandum o kooperácii pri riešení
+škôd spôsobených zverou medzi Slovenskou poľnohospodárskou a potravinárskou komorou ,
+Slovenskou lesníckou komorou
+
+a Slovenskou poľovníckou komorou , ako aj cieľ
+
+pripravovaného nového zákona o poľovníctve. Samozrejme neoddeliteľnou súčasťou sú aj
+legislatívne predpisy v oblasti ochrany životného prostredia. Zníženie celoslovenských stavov
+vieme v rámci poľovníckych opatrení podporovať najmä intenzívnejšou reguláciou početnosti
+v jednotlivých revíroch. Zároveň je potrebné vykonávaným lovom zveri neustále zlepšovať
+21
+
+sexuálnu a sociálnu štruktúru v populácii, ktorá väčšinou trpí vyšším zastúpením samíc
+a mláďat, prípadne vysokým zastúpením mladých jeleňov. V PR CHPO Poľana je súčasná
+sexuálna štruktúra v populácii jelenej zveri na dobrej úrovni s miernou prevahou samíc
+(priemer posledné 3 roky 32 % jeleňov, 38 % jeleníc a 30 % jelenčiat). Početnosť samíc, ako
+nositeliek prírastku treba dôsledne kontrolovať, aby sa početnosť celej lokálnej populácie
+nezačala vzďaľovať vytýčeným cieľom. Výrazné prekročenie NKS sa môže priamo v PR veľmi
+negatívne odzrkadľovať najmä na narastaní škôd spôsobovaných zverou v lesnom hospodárstve
+a poľnohospodárstve. Úprava početnosti zveri by mala byť riešená minimálne na úrovni
+chovateľského celku, najlepšie poľovnej oblasti. Z celej poľovnej oblasti J XIV. Poľana sa
+evidujú vykázané stavy jelenej zveri 1,2 násobne vyššie ako stanovené NKS pre túto oblasť.
+Koncepcia rozvoja poľovníctva stanovila úpravu stavov jelenej zveri v poľovnej oblasti J XIV.
+Poľana do roku 2030 na úroveň 1005 ks. V rámci veľkoplošného obhospodarovania tejto zveri
+je potrebné plánovať a dodržiavať zásady poľovníckeho manažmentu tak, aby do uvedeného
+termínu klesli súčasné stavy jelenej zveri až cca o 36 %. Aj úroveň, ktorú koncepcia stanovila
+pre rok 2022 (1 124 ks jelenej zveri), momentálne JKS prekračujú 1,2 násobne.
+
+2.2. Biológia jelenej zveri s dôrazom na tvorbu parožia
+Jelenia zver jestvuje na väčšine územia Európy okrem jej najsevernejších častí po
+Škótsko a južnú Škandináviu, tiež v severnej Afrike, vo veľkej časti Ázie a v Severnej
+Amerike. Bol zavezený aj do Argentíny, Austrálii a na Nový Zéland. Jelenia zver existuje na
+celom území našej republiky. Ľudská činnosť narušila areál výskytu jelenej zveri. Hlavné
+dôsledky zmenšovania týchto areálov bolo príčinou klčovania lesov industrializácia a rozvoj
+roľníckej činnosti. Zasahovanie človeka do prírody malo veľký vplyv aj na migračné trasy
+zveri. Z minulosti vieme, že najmä na Podunajskú nížinu, do lužných lesov, chodili zimovať
+jelene z Álp, čo však už v dnešnej dobe nie je možné (Bakoš, Hell, 1999).
+Jelene obľubujú listnaté a zmiešané lesy s otvorenými plochami ako sú rúbaniská a lúky.
+Často sa však nachádzajú aj v rozsiahlych ihličnatých lesoch, ale aj v agrárnej krajine, kde majú
+dostatočný úkryt. Na našom území vieme o dvoch formách jeleňa lesného. Na východnom
+Slovensku je to jeleň karpatský a na západnom Slovensku, žije najmä jeleň stredoeurópsky. Ku
+kríženiu oboch týchto foriem dochádza na strednom Slovensku. Naše pôvodné formy boli
+takmer vyhubené v minulom období, čo malo za následok, že súčasná populácia je z veľkej
+
+22
+
+časti hybridným potomstvom rôznych poddruhov, ktoré boli pri opätovnom zazverovaní
+využité (ČERVENÝ, et al., 2004).
+Okrem dvoch pôvodných foriem sa na našom území vyskytujú aj jedince so znakmi
+cudzokrajných jeleňov. Kvôli upresneniu treba povedať aj o introdukcii jeleňa lesného ázijskej
+rasy, ktorú vysadil pri novom zazverovaní Tatier jeleňou zverou Kristian Kraft von Hohenlohe
+Oehringen. Tento veľkostatkár doviezol na Javorinu v roku 1898 46 kusov a v roku 1906 ďalšie
+tri kusy východoázijskej rasy zvanej maral (Cervus elaphus maral Erxl.) (Nečas, 1959).
+2.2.1 Taxonómia jelenej zveri
+
+Systematika
+
+Slovenský
+názov
+
+Latinský názov
+
+ríša
+
+živočíchy
+
+podríša
+
+mnohobunkovce Polycytozoa
+
+kmeň
+
+stavovce
+
+Vertebrata
+
+trieda
+
+cicavce
+
+Mammalia
+
+podtrieda
+
+živorodé
+
+Theria
+
+nadrad
+
+placentovce
+
+Placentalia
+
+rad
+
+párnokopytníky
+
+Artiodactyla
+
+podrad
+
+prežúvavce
+
+Ruminantia
+
+čeľad
+
+jeleňovité
+
+Cervidae
+
+podčeľad
+
+vyššie jelene
+
+Cervinae
+
+rod
+
+pravé jelene
+
+Cervus
+
+druh
+
+jeleň lesný
+
+Cervus elaphus L.
+
+poddruh
+
+jeleň lesný
+
+Cervus e. montanus
+
+karpatský
+
+Botezat
+
+jeleň lesný
+
+Cervus e. hippelaphus
+
+stredoeuróspky
+
+Erx
+
+idické flakaté
+
+Axis
+
+jelene
+
+Rusa
+
+juhoázijské
+
+Przevlaskium
+
+jelene
+
+Rucervus
+
+podrod
+
+Animalia
+
+23
+
+Tibet
+
+Cervus
+
+India a Indočína
+Tab. 1 Taxonómia jeleňa lesného, Zdroj: (Lochman, 1985)
+Typickým znakom väčšiny druhov sú parohy, ktoré konzistentne rastú samcom, u sobov
+aj samiciam. Jelene patria do skupiny prežúvavcov a označujeme ju aj ako srstnatú zver. Samce
+majú na hlavách parohy, ktoré sa im pravidelne obnovujú. Parohy vyrastajú z pučníc čelových
+kostí, ktoré sú počas rastu obalené tzv. lykom veľmi citlivé. Zaujímavosťou tejto čeľade je, že
+nemajú žlčník (Gaisler, Zima, 2007).
+
+2.2.2. Morfologická stavba tela jelenej zveri
+Celkový vzhľad jelenej zveri je ovplyvnený tvarom hlavy, mohutnosťou, polohou krku
+a zavalitosťou trupu. U najmladších a mladých jeleňov je hlava väčšinou menšia, užšia s dlhšími
+ušnicami. Krk je štíhly, vysoko vzpriamený, pomerne dlhý a bez hrivy. Trup je tiež štíhly,
+chrbát je takmer rovný a hrudník nevýrazný. Parohy na hlave sú pomerne slabé, krátke a
+dosahujú najviac typ šestoráka alebo osmoráka. Stredne starým jeleňom (6 až 11-ročným) hlava
+ešte stále rastie a mohutnie. Krk je mohutnejší, svalnatejší, kratší a väčšinou je menej vztýčený.
+Na spodnej strane krku sa objavuje výrazná hriva. Je mohutnejší, svalnatejší, kratší a väčšinou
+je menej vztýčený. Trup je zavalitejší, mohutnejší, celková hmota trupu sa presúva dopredu,
+takže hrudník výrazne mohutnie. Parohy sú bohatšie rozvetvené a pomerne dlhé. Dospelým,
+vyše 12-ročným jeleňom krk ešte viac mohutnie, má hustú hrivu, a preto sa môže zdať krátky.
+Väčšinou ho jeleň nesie takmer vodorovne. V chrbtovej línii výrazne vystupuje hrbolček v
+kohútiku a ťažisko celého tela je presunuté do mohutného hrudníka. Parohy sú opäť rozložité,
+bohato rozvetvené, ale veľmi starým jeleňom sa znižuje počet výsad (Bališ, 1980).
+Vek zvieraťa sa dá spoľahlivo určiť aj podľa opotrebovania chrupu. Stoličky mladých
+jedincov sú málo opotrebované a ich korunky majú ostré rezné hrany, všetky zuby sú pomerne
+vysoké (www.filadelfi.sk, 2011).
+Staré jelene majú stoličky obrúsené takmer k ďasnám a deformované, stredne starým
+jeleňom sa hroty koruniek obrusujú do rovnej plochy.
+Porovnanie telesných rozmerov jeleňa karpatského s jeleňom stredoeurópskym (Bališ,
+1980).
+24
+
+Parametre
+
+Jeleň lesný karpatský
+
+Jeleň lesný stredoeurópsky
+
+Výška v kohútiku
+
+1400 mm
+
+1300 mm
+
+Dĺžka tela
+
+2100-2500 mm
+
+2000-2200 mm
+
+Hmotnosť jeleníc
+
+85-120 kg
+
+75-90 kg
+
+Hmotnosť po vyvrhnutí
+
+160-250 kg
+
+140-180 kg
+
+Šírka nosovej časti nad
+
+80 mm
+
+65-70 mm
+
+Ojedinele nad 20
+
+Často nad 20
+
+9-13 ojedinele 15 kg
+
+6-10 kg
+
+očniakmi (kelcami)
+Počet vetiev na obidvoch
+kmeňoch spolu
+Hmotnosť parohov
+
+Tab. 2 Porovnanie telesných rozmerov jeleňa karpatského s jeleňom stredoeurópskym (Bališ,
+1980).
+2.2.3 Rozmnožovanie jelenej zveri
+Rozmnožovanie patrí medzi najvýznamnejšiu etapu v živote jelenej zveri, ktoré sa
+uskutočňuje v pravidelných ročných cykloch. Čriedy jeleňov sa začínajú v auguste rozpadať a
+jelene vyhľadávajú svoje každoročné obľúbené rujoviská. Niekedy takto putujú i niekoľko
+kilometrov. Ruja sa zvyčajne začína v prvej polovici septembra a trvá asi 4 týždne, podľa
+rujnosti jeleníc. Jelenice sú gravidné takmer 8 mesiacov a najčastejšie sa na začiatku júna rodia
+jelenčatá, spravidla vždy to býva jeden jedinec. (Nečas, 1959).
+
+25
+
+Obr. č. 2 Jelenia ruja (autor Ing. Pavel Komora)
+
+2.2.4. Rast parožia jelenej zveri
+Paroh je obzvlášť rýchlo rastúce tkanivo. Pri jeleňovi môže nadobúdať denný prírastok
+pri starších jedincoch až 2 centimetre. U dospelých jeleňov rastie parožie za od februára-marca
+do júna-júla a do augusta je kalcifikované. Všeobecne platí, že pri starých jeleňoch tvorba
+parožia začína a končí v skoršom období ako pri mladých jedincoch. V priebehu rastu dochádza
+v paroží ku plynulej zmene jeho zloženia a konzistencie. Rastúce hroty parožia sú tvorená
+chrupavkovitou hmotou, do ktorej sa postupne ukladá stále viac minerálnych látok, najmä
+zlúčenín vápnika a fosforu. Chrupavka, inkrustovaná minerálnymi látkami, sa po určitej dobe
+opäť rozpúšťa a je nahradená osteoblastmi, prostredníctvom ktorých dochádza následne ku
+skostnateniu tkaniva parohu (Hell, 2003).
+Cyklicky ročne rastúci párový orgán – paroh u jeleňovitých Cervidae plní v živote
+jedinca a populácie viacero biologických funkcií ako napríklad má význam zbrane. Parožie je
+využívané pri súperení medzi samcami o samice a o teritórium alebo pri obrane pred
+
+26
+
+prirodzenými nepriateľmi.. Parožie má aj iné úlohy a jednou z nich je značkovanie teritória
+(Bakoš, Hell, 1999).
+
+Obr. č. 3 Jeleň s rastúcim parožím v lyku (autor Ing. Pavel Komora)
+2.2.5. Potrava jelenej zveri
+Jelene radíme do skupiny vegetariánov. Veľkým bachorom sú schopné spracovať ťažko
+stráviteľný materiál. Prežúvaním trávia dlhé pokojné fázy. Pri pasení preferujú trávy a byliny.
+Začiatkom jari spásajú púčiky stromov a krovín. V zime spôsobujú škody, ohryzom kôry
+stromov a mladých výhonkov. V neskorom lete pri bohatej úrode žaluďov a bukvíc sa dobre
+vykŕmia, čím sa majú potrebné základy tuku pred prichádzajúcou zimou. (Reichholf, 1996).
+V jesennom období sa podáva jelenej zveri denná kŕmna dávka v zložení: lúčne seno,
+ovos, bôb, kŕmna repa alebo rezky cukrovej repy. Príjem glycidového krmiva jeleňou zverou
+v tomto období závisí od dostupnosti prirodzenej potravy v biotope, to je od úrody bukvice,
+žaluďa a iných lesných plodov a semien.
+V zimnom období nie je vhodné podávať glycidové krmivo, vo väčšom množstve spôsobuje
+acidózy. Vhodné je podávať lúčne seno, senáž a ovos (Ciberej, 2003).
+Na jar sa organizmus venuje tvorbe mláďat a parožia, preto je potrebné predkladať
+najmä bielkovinové krmivá (leguminózy, žihľava, senáž, siláž, extrahované šroty a zmes pre
+raticovú zver). Na potrebu soli súrozdielne názory. V minulosti sa navrhovalo 3kg na jedinca a
+rok, v súčasnosti sa to znížilo na 1kg. Po správnosti by vo výžive nemala zveri soľ chýbať a
+množstvo by nemalo byť menšie ako 1kg (Žilinčár, 1996).
+27
+
+2.2.6. Predátori a choroby jelenej zveri
+Vlk je u nás najvýznamnejším predátorom jelenej zvery. Pokiaľ sú jeho stavy
+primerané, straty ním spôsobené sú únosné, no keď sa premnoží, môže ju v určitom regióne
+veľmi zdecimovať. Vlky, najmä keď sú vo väčšej svorke, nestrhnú len chorú, starú, zoslabnutú
+zver a mláďatá, ale aj silné zdravé dospelé jedince. (Bakoš, Hell, 1999).
+Pri jelenej zveri sa najčastejšie vyskytujú parazitárne, bakteriálne a vírusové ochorenia,
+ale aj poruchy metabolizmu a iné (Bališ, 1980).
+
+28
+
+3. Ciele
+1. Analýza prírodných pomerov záujmového územia CHPO Poľana
+2. Zásady poľovníckeho manažmentu obhospodarovania jelenej zveri v zmysle platnej
+legislatívy, plánovania chovu a lovu tejto zveri a nastavenia kritérií selektívneho lovu
+trofejovej zveri v predmetnom území
+3. Celková analýza vývoja trofejovej kvality jelenej zveri v CHPO Poľana od roku 1995,
+s dôrazom na analýzu vývoja celkovej bodovej hodnoty a zastúpenia medailových
+trofejí, dĺžky kmeňov a počtu vetiev u trofejovo dospelých jeleňov IV. vekovej triedy
+4. Analýza posúdenia chovnosti realizovaného lovu jeleňov poľovníckym personálom
+s úhynmi v dôsledku predácie veľkých šeliem
+
+29
+
+4. Metodika
+4.1. Materiál a opis metodiky
+V práci som sa zamerala na analýzu vývoja zastúpenia medailových trofejí (bronzová,
+strieborná, zlatá) a ich podiel z celkového lovu jeleňov od roku 1995 do roku 2023. Zber dát
+som uskutočnila z vydaných katalógov trofejí a z údajov NLC a z údajov OZ Poľana. Zamerala
+som sa na analýzu celkového počtu úbytku (lov, úhyn) jeleňov potrebného na získanie jedného
+zlatého jeleňa a počtu úbytku jeleňov potrebného na získanie jedného medailového jeleňa.
+Vypočítala som to podielom z celkového úbytku jeleňov a zlatých jeleňov a podielom
+z celkového úbytku počtom medailových jeleňov v danom roku.
+V práci som sa ďalej venovala vývoju bodovej hodnoty trofejí jeleňov u 9 ročných
+a starších jeleňov od roku 1995 až po rok 2023.
+Merateľným ukazovateľom trofejovej kvality populácie raticovej zveri je bodová
+hodnota trofeje. U nás sa používa bodovací systém CIC (Medzinárodnej rady pre poľovníctvo
+a ochranu
+
+zveri).
+
+Je
+
+postavený na
+
+exaktnom
+
+metrickom
+
+hodnotení
+
+stanovených
+
+morfematických parametrov jelenieho parožia. Sumár parciálnych bodových hodnôt
+jednotlivých parametrov predstavuje konečnú bodovú hodnotu trofeje. Jednotlivé merateľné
+znaky jelenieho parožia sa nevyvíjajú rovnako intenzívne a tým sa proporcionalita parožia
+priebehom veku čiastočne mení. S narastajúcim vekom jeleňa, sa trofejová hodnota zvyšuje.
+Ale ani zvyšovanie trofejovej hodnoty, nie je v priebehu života jedinca rovnaké. Najrýchlejšie
+naberá parožie na sile, približne od 7 až 9 roka. Potom sa zvyšovanie bodovej hodnoty
+spomaľuje. U jedincov s nekvalitným genetickým základom, prípadne jedincov žijúcich
+v nekvalitnom prostredí nastupuje vrchol produkcie hmoty parožia podstatne skôr a na oveľa
+nižšej úrovni trofejovej kvality. V priebehu ontogenetického vývoja sa mierne mení aj podiel
+jednotlivých meraných parametrov parožia na celkovej bodovej hodnote. Keďže niektoré
+parametre sa vyvíjajú neskôr, ich vplyv na trofej jedinca sa prejaví až vo vyššom veku. Bodová
+hodnota jeleňov sa v analyzovaných údajoch zvyšovala súmerne s vekom, staršie jelene sú
+automaticky považované za trofejovo silné jedince. (Šmehýľ, Slamečka 2023).
+A z tohto dôvodu som si vybrala vekovú triedu 9+. Hodnota jelenieho parožia podľa
+bodovania CIC: bronzová medaila: 170 -189.99 bodov CIC, strieborná medaila: 190 – 209,99
+bodov CIC, zlatá medaila: 210 a viac bodov CIC.
+
+30
+
+V Chránenej poľovnej oblasti Poľana, je dlhodobo vynikajúci genofond jelenej zveri,
+ktorý je obhospodarovaný na vysokej odbornej úrovni. Pre riadenie chovateľských zámerov,
+odborné usmerňovanie, kontrolu a hodnotenie docielených
+
+výsledkov CHPO Poľana je
+
+menovaná 20 členná chovateľská rada Okresným úradom vo Zvolene. Skladá sa zo zástupcov
+generálneho riaditeľstva LESOV SR š. p., príslušných lesných správ a organizačných zložiek,
+ako aj príslušného OÚ, NLC, správy CHKO Poľana a TU vo Zvolene. PR CHPO Poľana je v
+I. akostnej triede s normovanými kmeňovými stavmi jelenej zveri (459 kusov v roku 2023).
+V CHPO Poľana sa už 8. rok plánuje lov jelenej zveri s postupným zavádzaním metódy
+trofejovej kulminácie (väčšie zastúpenie samcov v kulminácii a vyšší podiel dospelých
+jeleňov).
+Preto som sa zamerala na jednotlivé parametre vývoj dĺžky kmeňov, počet vetiev a
+hmotnosť trofeje.
+V práci som sa ďalej zanalyzovala chovnosť ulovených jeleňov poľovným personálom
+a predátormi, evidovaných ako úhyn. Na chovateľských radách je každoročne schvaľovaný
+plán lovu. Jeho plnenie už niekoľko rokov ovplyvnili nájdené uhynuté jelene, strhnuté vlkmi.
+Vlk sa s výraznou mierou podieľa na úbytku dospelých jeleňov, ako aj ostatnej raticovej zveri.
+Preto sme hodnotili pomer ulovených chovných jeleňov poľovným personálom a vlkom.
+Všetky potrebné údaje pre jednotlivé analýzy som čerpala z katalógov trofejí (1995 až
+2023) vydaných pre CHPO Poľana.
+
+4.1.1. Charakteristika záujmového územia, plocha, lokalizácia
+
+Názov a zaradenie v rámci poľovníckej rajonizácie
+Názov PR: Chránená poľovná oblasť Poľana (ďalej aj CHPO Poľana)
+Názov poľovnej oblasti (PO): J XIV. Poľana
+Výmera PR: 20 659 ha
+Užívateľ PR : LESY Slovenskej republiky, štátny podnik organizačná zložka OZ Poľana
+a OZ Horehronie
+Mapa CHPO Poľana v prílohe č. 1
+
+31
+
+Vlastník
+
+Poľnohosp.
+
+Lesné
+
+Vodná
+
+Ostatné
+
+Výmera
+
+pôda
+
+pozemky
+
+plocha
+
+plochy
+
+spolu
+
+v ha
+
+v ha
+
+v ha
+
+v ha
+
+v ha
+
+Štát (v správe št. lesov)
+
+17699
+
+Štát (v správe SPF)
+
+17699
+
+2347
+
+2347
+
+Štát (v správe VLM SR)
+Mestá a obce
+Cirkev
+Pozemkové spoločenstvá
+
+3
+
+610
+
+2350
+
+18309
+
+613
+
+Súkromný vlastník
+Poľnohospodárske
+družstvá
+iné
+Spolu
+
+0
+
+0
+
+20659
+
+Tab. 3 Štruktúra poľovnej plochy v PR CHPO Poľana
+4.1.2. Geológia
+Masív Poľany prevažuje vo veľkej časti stredného Slovenska. Má pre túto krajinu veľký
+prírodný, ale aj kultúrno-historický význam. Poľana je vulkanická štruktúra, ktorá horninovým
+zložením bezprostredne nadväzuje na svoje okolie, či už sú to vulkanické pohoria (Javorie,
+Kremnické a Štiavnické vrchy), alebo Zvolenská kotlina a stredné Pohronie. Vznik týchto
+štruktúr má spoločný
+
+názov – tektonické procesy doznievania mladších fáz alpínskej
+
+orogenézy. Postupne Africký blok vysúvaný smerom na sever zrážkou s Eurázijským
+kontinentom vytvoril najskôr pásmo alpínskych pohorí od Atlasu až po Anatóliu, ktorého
+časťou sú aj Karpaty. Neskôr bol celý takto konsolidovaný blok nasunutý na oceánsku doménu
+magurského oceánu, čo bolo z jedným dôvodov vzniku neogénneho vulkanizmu v celej dĺžke
+karpatského oblúka (Slávik 1995).
+4.1.3 Geomorfológia
+Poľana je pohorie s najlepšie uchovanými rysmi pôvodnej vulkanickej morfoštruktúry.
+Výnimočne je zachovaná hlavne kolapsovo-erózna kaldera v centre vulkánu. Okraj kaldery
+tvorí hlavný hrebeň pohoria, k západu otvorený Hrochotskou dolinou, ktorá vznikla v spätnou
+eróziou Hučavy – jedného z tokov, ktoré sa radiálne rozbiehali po vonkajšom vulkanickom
+32
+
+svahu. V severnej časti vyčnieva z hlavného hrebeňa rázsocha Vepra (1 270 m n. m.) s
+geografickým centrom Slovenska (Hrb, 1255 m n. m.).
+4.1.4. Pôdy
+Problematiku pôd Poľany v hraniciach CHPO spracoval R. Šály (2000).
+Najšpecifickejším pôdnym typom Poľany je andozem, v nižších polohách prechádzajú
+andozeme do kambizeme andozemnej. V kotline Kyslinky nachádzame kambizeme typické,
+prípadne nasýtené a kyslé, zväčša v závislosti od geochemického charakteru materskej horniny.
+Vo vlhkejších depresiách sa vyskytujú gleje a pseudogleje.
+V najvyšších polohách CHPO na ne nadväzujú podzoly s výrazne premyvným režimom
+spôsobeným vysokým podielom zrážok (Linkeš & Došeková 1996).
+Najplytšie pôdy CHPO predstavujú iniciálne pôdne typy (litozeme a regozeme), ktoré
+sa ostrovčekovito nachádzajú po celom území CHPO. Na ne nadväzujú rankre, ktoré majú
+podobne ostrovčekovité rozšírenie, viazané predovšetkým na exponované plochy na strmších
+skalnatých svahoch. V severnej časti CHPO sa na menšej ploche nachádzajú aj rendziny (Šály
+2000).
+
+4.1.5. Klimatické pomery
+Vo vyšších častiach pohoria na území CHPO dominuje studená horská klíma, ktorá
+prechádza v nižších častiach do studenej a mierne chladnej klímy. V priemere sa ročná teplota
+vzduchu sa pohybuje v rozpätí 3-5°C. Mesiace január a február sú najchladnejšími,
+najteplejšími sú júl a august. Priemerné zrážkové úhrny sa pohybujú v rozmedzí 600-900 mm,
+v najvyšších častiach územia 1 100 mm zrážok (Sláviková & Krajčovič 1996).
+
+33
+
+Obr. č. 4 Havranie skaly - Kyslinky (autor: Ing. Pavel Komora)
+4.1.6. Flóra a fauna
+Významnou mierou prevažujú lesné spoločenstvá. Na viacerých lokalitách je tu
+pozorovateľný charakter horských lúk a poľán. V rámci lesných porastov predstavujú
+hospodárske lesy významný podiel. Pôvodné lesné porasty sa zachovali na niektorých miestach
+na pomerne rozsiahlych plochách. Vrcholová smrečina na Zadnej Poľane predstavuje výskyt
+pôvodných porastov smreka na andezitovom podloží Západných Karpát (LACIKA &
+ONDREJKA, 2009). V území sa prelínajú teplomilné, horské a subalpínske druhy. Z chránených
+druhov rastlín je to napríklad: soldanelka uhorská (Soldanella hungarica), žltohlav európsky
+(Trolius europaeus), rosička okrúhlolistá Z fauny je potrebné spomenúť druhy ako orol
+krikľavý (Aquila pomarina), výr skalný
+
+(Bubo buboďateľ bielochrbtý (Dendrocopus
+
+leucotos)bocian čierny (Ciconia nigra). Z cicavcov tu majú svoj domov naše veľké šelmy ako
+medveď hnedý (Ursus arctos), vlk dravý (Canis lupus) alebo rys ostrovid (Lynx lynx) a mačka
+divá (Felis silvestris) (LACIKA & ONDREJKA, 2009).
+
+34
+
+Obr. č. 5 Vlk dravý (Canis lupus) (autor Ing. Patrik Micháľ)
+
+35
+
+5. Výsledky
+5.1. Analýza vývoja zastúpenia medailových trofejí a ich podiel z
+celkového úbytku jeleňov od roku 1995 do roku 2023
+Z analýzy údajov o počte medailových trofejí a celkovom úbytku jeleňov v jednotlivých
+rokoch 1995 až 2023 vyplýva, že je tam vzájomná korelácia. So stúpajúcim celkovým úbytkom
+nám stúpa aj podiel medailových jeleňov (graf č.2). V roku 1997 bol zaznamenaný najnižší
+celkový úbytok (30ks jeleňov) spôsobený lovom alebo úhynom. Vtom istom roku boli
+zaevidované len 4 trofeje s bodovou hodnotou prislúchajúcou striebornej medaile. A ani jeden
+jeleň so zlatou, ani bronzovou medailou. Čo predstavuje podiel medailových jeleňov
+z celkového úbytku 13,33%. Naopak v sezónne 2023/2024 bol celkový úbytok za sledované
+obdobie najvyšší (71ks jeleňov) a počet medailových predstavuje 29 jeleňov. Čo znamená až
+40,84% podiel z celkového úbytku.
+
+Obr. č. 6 Úspešný výrad (autor Ing. Pavel Komora)
+V rokoch 1995 až 2023 bolo celkové množstvo bronzových trofejí v počte 217,
+strieborných 153 a zlatých 51 z celkového počtu 1492 jeleňov za dané roky. Čo predstavuje
+28,21% podiel medailových trofejí. Aj z tohto nám vyplýva, že v posledných rokoch nám
+podiel medailových jeleňov stúpa. Trofeje ocenené na bronzovú medailu majú podiel 14,54%,
+striebornú medailu 10,25% podiel a zlatú medailu 3,42% percentný podiel z celkového úbytku
+
+36
+
+za dané roky. Určite za zmienku stojí trofej jeleňa z roku 2022, ktorá dosiahla bodovú hodnotu
+253,28 b. CIC, čo predstavuje doteraz platný národný rekord SR.
+
+Obr. č. 7 Jeleň lesný (Cervus elaphus)(autor Ing. Pavel Komora)
+
+Analýza vývoja zastúpenia medailových
+trofejí a ich podiel z celkového úbytku
+jeleňov (1995-2023)
+
+Bronzová medaila
+
+Strieborná medaila
+
+Zlatá medaila
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Celkový počet ubytku jeleňov
+
+Graf č. 2.: Analýza vývoja zastúpenia medailových trofejí a ich podiel z celkového úbytku
+jeleňov (1995-2023)
+
+37
+
+5.2. Analýza celkového počtu úbytku jeleňov potrebného na získanie
+jedného zlatého jeleňa a na získanie jedného medailového jeleňa od roku
+1995 do roku 2023
+Počet úbytku jeleňov potrebných na získanie jedného zlatého jeleňa súvisí s podielom
+celkového úbytku a počtom získaný zlatých trofejí v danom roku. V rokoch 1995, 1997, 20002003, 2005 a 2007 nebola v poľovníckom revíri CHPO Poľana zaznamenaná ani jedna trofej
+s bodovou hodnotou zodpovedajúcou ohodnoteniu zlatou medailou. V rokoch 2015 a 2016 nám
+na získanie jedného zlatého jeleňa postačoval úbytok vo výške 11 kusov jeleňov. Naopak,
+najväčší úbytok na získanie zlatej trofeje sme potrebovali v rokoch 2020 a 2021 a to 64, resp.
+67 kusov (graf č.3). Od roku 2008 bola každoročne získaná trofej spĺňajúca udelenie zlatej
+medaily, čo nám napovedá o zvyšujúcej sa kvalite jelenej zveri, ale aj o zvyšujúcom sa
+celkovom úbytku, čo dáva vyššiu šancu získania zlatej trofeji.
+
+Počet úbytku jeleňov potrebných na získanie
+jedného zlatého jeleňa
+80
+70
+
+64
+
+60
+
+51
+
+46
+
+50
+36 34
+
+40
+
+31
+18 19 16 19 16
+0
+
+0
+
+0
+
+0
+
+2002
+
+2003
+
+0
+
+2001
+
+0
+
+2000
+
+20
+0
+
+36
+
+31
+
+30
+
+30
+
+10
+
+67
+
+23
+
+22
+
+17
+
+16
+
+11 11
+
+0
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+0
+
+Graf č. 3: Počet úbytku jeleňov potrebných na získanie jedného zlatého jeleňa (1995-2023)
+Na rozdiel od predchádzajúcej analýzy počtu úbytku jeleňov na získanie jednej zlatej
+trofeji, kde nám jednotlivé počty vyskakujú, alebo naopak sa znižujú nesúmerne podľa rokov,
+má analýza počtu úbytku jeleňov na získanie medailových trofejí takmer súmerný klesajúci
+charakter. V rokoch 1995 až 2006 sa nám úbytok potrebný na získanie medailovej trofeje
+pohyboval od 5 až po 8 kusov, s výnimkou roku 2001 kde vyskočil na 12. Naopak od roku 2009
+až po rok 2023 sa nám ustálil potrebný úbytok na 2 – 3 kusov na jedného medailového jeleňa.
+Výnimkou roku 2013 s počtom úbytku 5 kusov. V posledných troch rokoch 2021-2023 sa počet
+úbytku na získanie jednej trofeje s medailovou hodnotou ustálil na počte 2 kusy (graf č.4). Je
+
+38
+
+to spôsobené prechodom z manažmentu vekových tried na manažment trofejovej kulminácie,
+kde sa lovom jeleňov zasahuje najmä do veku trofejovej kulminácie a po nej.
+
+Počet jeleňov potrebných na ulovenie 1
+medajlového
+14
+12
+12
+10
+8
+8
+
+7
+6
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+
+5
+4
+
+4
+
+4
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+2
+
+2
+
+2023
+
+6
+
+2022
+
+6
+
+2021
+
+6
+
+2
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+0
+
+Graf č. 4: Počet úbytku jeleňov potrebných na získanie jedného medailového jeleňa (19952023)
+
+5.3. Vývoj vybraných parametrov parožia 9 ročných a starších jeleňov
+V práci som sa zamerala na analýzu priemernej bodovej hodnoty trofejí jeleňov
+deväťročných a starších do roku 1995-2023. V ďalších bodoch som sa venovala parametrom,
+ktoré významne ovplyvňujú bodovú hodnotu: priemerná dĺžka kmeňov, počet vetiev
+a hmotnosť trofejí. V týchto parametroch som si zvolila rovnaký vekový súbor (9+) jeleňov,
+ako pri priemernej bodovej hodnote. Sledované obdobie sa zmenilo na rozsah rokov 2001 až
+2023 z dôvodu nedostupnosti a neuvádzania parametrov v katalógoch trofejí. Začali sa uvádzať
+až od roku 2001.
+
+5.3.1. Priemerná bodová hodnota parožia od roku 1995 do roku 2023
+Bodová hodnota jeleních trofejí bola hodnotená každoročne hodnotiteľskou komisiou
+CHPO Poľana metódou CIC. Na bodovú hodnotu má vplyv viacero parametrov jelenej trofeje:
+dĺžka kmeňov, dĺžka očníkov, dĺžka stredných vetiev, obvod ružíc, dolný obvod, horný obvod,
+39
+
+rozpätie parožia, počet vetiev, koruna, nadočníky, váha a vzhľadové body – zafarbenie,
+perlovanie, hroty vetiev. Každá z menovaných veličín má inú váhu vplyvu, prepočtom
+koeficientov, na konečnú bodovú hodnotu.
+Priemerná bodová hodnota za 29 sezón predstavuje 189,50 b. CIC. Môžeme povedať že
+krivka vývoja bodovej hodnoty počas sledovaného obdobia osciluje okolo tejto priemernej
+hodnoty. Rok 2020 je výrazne podpriemerný z dôvodu ulovenia jeleňov s výrazne nižšou
+bodovou hodnotou ako je priemer. Boli ulovené dva jelene o bodovej hodnote 129,54
+a 146,91b. CIC. Rok 2008 je jediným rokom keď priemerná bodová hodnota jeleňov deväť
+rokov a starších prekročila hranicu 200 bodov (200,30 b. CIC).
+Ak sa pozrieme na vyhodnotenie priemernej bodovej hodnoty po desaťročiach, vyzerá
+to nasledovne. V rokoch 1995 – 2004 bol priemer dosiahnutej bodovej hodnoty 187,00 b. CIC
+v rokoch 2005 – 2014 výrazne stúpla priemerná hodnota o 5,19 bodu na 192,19 b. CIC. Za
+posledných deväť rokov sme zaznamenali pokles na 188,10 b. CIC, čo ale skresľuje už
+spomínaný rok 2020 s dvoma vysoko bodovo podpriemernými úlovkami.
+
+Priemerná bodová hodnota /øCIC
+205,0
+200,0
+195,0
+190,0
+185,0
+180,0
+175,0
+170,0
+165,0
+
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+160,0
+
+Graf č. 5: Vývoj priemernej bodovej hodnoty 9 ročných a starších jeleňov
+
+40
+
+5.3.2. Priemerné dĺžky kmeňov parožia od roku 2001 do roku 2023
+Priemerná dĺžka kmeňov za sledované obdobie rokov 2001 až 2023 predstavuje hodnotu
+100,26 cm. Kým za obdobie rokov 2001 až 2015 hodnota priemernej dĺžky klesla pod celkovú
+priemernú len v troch prípadoch. Naopak od roku 2016 po rok 2023 len dva krát vystúpila nad
+uvedenú hodnotu. Najnižšia priemerná hodnota bola zistená v roku 2016 a 2020 (93,9 a 93,7
+cm). Z priloženého grafu (graf č. 5) aj so spomínaných skutočností, je zrejmý rokmi klesajúci
+trend sledovaného parametra.
+
+Priemerná dĺžka kmeňov/ cm
+106
+104
+102
+100
+98
+96
+94
+92
+90
+88
+
+Graf č. 6: Priemerné dĺžky kmeňov od roku 2001 do roku 2023
+
+5.3.3. Priemerný počet vetiev parožia od roku 2001 do roku 2023
+Presne opačný má charakter krivky vývoja priemerného počtu vetiev oproti priemerným
+dĺžkam kmeňov. Za analyzované obdobie má stúpajúci charakter. Keď v rokoch 2001 – 2010
+bola hodnota priemerného počtu vetiev 12,60. V nasledujúcom desaťročí (2011-2020) je
+hodnota už 12,87 a dokonca v posledných troch rokoch (2021-2023) priemerný počet vetiev
+vystúpil na hodnotu 13,20. Čo nám predstavuje nárast o 0,6 vetvy oproti rokom 2001 až 2010.
+Priemerná hodnota za obdobie 2001 – 2023 predstavuje 12,79 počtu vetiev. Zaujímavý je rok
+2008 keď nám vyskočila hodnota priemerného počtu vetiev vysoko nad priemer analyzovaného
+41
+
+obdobia na číslo 15,00. Pri porovnaní s vývojom predchádzajúceho sledovaného parametra –
+priemernej dĺžky kmeňa nám vychádza, že hmota parožia sa ukladá častejšie do rozvetvenia
+ako do dĺžky kmeňov.
+
+Priemerný počet vetiev
+16
+15
+14
+13
+12
+11
+10
+
+Graf č. 7: Priemerný počet vetiev od roku 2001 do roku 2023
+
+5.3.4. Priemerná hmotnosť parožia od roku 2001 do roku 2023
+Priemerná hodnota hmotnosti parožia v rokoch 2001 až 2023 predstavuje 6,98 kg
+u jeleňov 9 ročných a starších zaevidovaných v úbytku. Počas sledovaného obdobia nie sú
+zaznamenané významné odchýlky, až na rok 2020, kde výrazne klesla na 5,5kg (graf č.7). Je to
+spôsobené, ako sme už vyššie spomínali, dvoma jeleňmi ulovenými v tomto roku, ktoré sú
+výrazne podpriemerné aj v tejto veličine (3,1 a 3,2 kg). Podľa jednotlivých dekád sú priemerné
+namerané hodnoty nasledovné: 2001 – 2010 je to 7,03 kg, 2011-2020 priemerná váha 7,00 kg
+a v posledných troch rokoch môžeme sledovať aj keď len mierny pokles na 6,90 kg. Aj z týchto
+údajov vyplýva že priemerná analyzovaná hodnota sa postupom rokov mení v minimálnej, až
+zanedbateľnej miere.
+
+42
+
+Priemerná hmotnosť/ kg
+9
+
+8
+
+7
+
+6
+
+5
+
+Graf č. 8: Priemerná hmotnosť od roku 2001 do roku 2023
+
+5.4. Analýza celkového úbytku jeleňov a úbytku predátormi evidovaných
+ako úhyn od roku 1995 do roku 2023
+Celkový počet zaevidovaných uhynutých jeleňov za roky 1995 až 2023 bol 412 kusov,
+z toho 389 kusov bolo spôsobené predáciou vlka dravého. Celkový počet úbytku jeleňov
+v sledovanom období predstavuje 1492 ks. Od roku 1995 nám celkový úbytok klesá z hodnoty
+59 ks do roku 1997 na 30ks. Až po rok 2003 vidíme pomerne vyrovnaný úbytok, ktorý nám
+začína stúpať až po rok 2006. Nasledujúci rok vidíme pád úbytku z 62 ks na 43 ks, ale v ďalšom
+období postupne stúpa po rok 2013 na hodnotu 67ks. V roku 2015 sme zaznamenali opätovný
+pokles na 42 ks a od vtedy prakticky početnosť úbytku stúpa až na číslo 71 ks. Je to aj zatiaľ
+najvyšší úbytok jeleňov v CHPO Poľana. Bol dosiahnutý v roku 2023.
+
+43
+
+Vývoj úbytku v dôsledku predácie
+prakticky kopíruje celkový úbytok za
+sledované obdobie. Ale jeho percentuálny
+podiel z celkového úbytku po jednotlivých
+rokoch sa zvyšuje. Najvyšší je v roku 2016
+keď dosiahol 48,89% z celkového úbytku.
+Od tohto roku, do roku 2023 v podstate
+s výnimkou roku 2017 (28,89%) neklesol
+pod 30%. Práve naopak v rokoch 2021
+a 2023 vystúpil opätovne nad 40% (40,3
+a 42,25%). Priemerný podiel predácie na
+celkovom úbytku za sledované obdobie
+predstavuje
+
+26,07%.
+
+Z tohto
+
+čísla
+
+je
+
+viditeľný značný nárast predačného tlaku
+vlka na jelene v poslednom období, keď
+posledná podpriemerná hodnota je z roku
+2015 (19,05%).
+Obr. č. 8 Korisť vlkov (autor Ing. Pavel Komora)
+
+Analýza celkového úbytku jeleňov a úbytku v
+dôsledku predácie
+80
+70
+60
+50
+40
+30
+20
+10
+
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+0
+
+Celkový počet úhynov spôsobených predáciou vlka/ks
+
+Celkový úbytok jeleňov/ks
+
+Graf č. 9: Analýza celkového úbytku jeleňov a úbytku v dôsledku predácie
+44
+
+5.5. Analýza počtu ulovených jeleňov poľovným personálom a predátormi
+z hľadiska chovnosti od roku 1995 do roku 2023
+Za celkové sledované obdobie rokov 1995 až do roku 2023 je počet chovných jeleňov
+výrazne na strane úbytku spôsobeného predáciou (87 kusov), oproti úlovkom realizovaným
+poľovným personálom (28 kusov). Z celkového počtu jeleňov strhnutých vlkmi predstavuje
+podiel chovných jedincov 22,37%. Pri odlove poľovným personálom je tento podiel 2,59%. Pri
+celkovej početnosti 389 kusov strhnutých vlkmi a 1080 kusov ulovených poľovným
+personálom. V roku 2021 bolo až 11 chovných jeleňov strhnutých vlkmi z celkového úbytku
+67 kusov to predstavuje 16,42%. V roku 2016 tento podiel dosiahol dokonca hodnotu 22,22%
+pri strhnutí desiatich chovných jeleňov z celkového úbytku 45 kusov. Je evidentné, že so
+zvyšujúcim sa predačným tlakom vlka v posledných rokoch sa zvyšuje aj podiel chovných
+jedincov strhnutých touto šelmou.
+
+Obr. č. 9 Korisť vlkov (autor Ing. Pavel Komora)
+
+45
+
+Analýza počtu ulovených chovných jeleňov poľovným
+personálom a predátormi evidovaných ako úhyn
+12
+10
+8
+6
+4
+2
+
+Počet chovných jeleňov ulovených predátormi
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2005
+
+2004
+
+2003
+
+2002
+
+2001
+
+2000
+
+1999
+
+1998
+
+1997
+
+1996
+
+1995
+
+0
+
+Počet chovných jeleňov ulovených poľ.personálom
+
+Graf č. 10: Analýza počtu ulovených chovných jeleňov poľovným personálom a predátormi
+evidovaných ako úhyn
+
+46
+
+6. Diskusia
+Hlavným cieľom diplomovej práce bola analýza vývoja zastúpenia medailových trofejí
+a ich podiel z celkového počtu úbytku jeleňov v sledovanom období rokov 1995 -2023. Úlovky
+silných jeleňov na Poľane nie sú náhodné, sú výsledkom dlhoročnej systematickej chovateľskej
+práce a profesionálneho prístupu lesníkov. Chránená poľovná oblasť Poľana sa stala prvým
+poľovným revírom Slovenska s cenou Edmonta Blanca, udelenou medzinárodnou poľovníckou
+organizáciou CIC. Toto prestížne ocenenie je udeľované tím, ktorí hospodária trvalým
+udržateľným spôsobom, vytvárajú najvýhodnejšie prostredie pre život zriadený chov zveri
+a tieto majú svojou aktivitou svetový prínos pre poľovníctvo. Ako vidieť z mojich výsledkov,
+v CHPO Poľana od roku 1995 až po rok 2023, boli v každom jednom roku zaznamenané
+minimálne tri medaily (1999, 2001), v roku 2023 bol najväčší úbytok medailových jeleňov a to
+29. Bronzovú hodnotu dosiahlo najviac 19 jeleňov v roku 2023. Strieborných medailí bolo
+najviac v roku 2012 a v roku 2021 v počte 12. Počet zlatých medailí bolo v piatich rokoch
+v počte 4 zlaté medaily. Najlepším dôkazom kvalitnej starostlivosti o jeleniu zver bol rok 2022,
+kedy bol ulovený jeleň, ktorého bodová hodnota trofeje predstavuje 253,28 b. CIC, čo znamená
+že ide o najsilnejšieho jeleňa uloveného vo voľnej prírode na Slovensku a zároveň sa stal
+novým národným rekordom. Do vtedy bol najsilnejší jeleň z Poľany (240,65 b. CIC), ktorý bol
+ulovený v roku 1961. Výsledky dokazujú, že odborná a systematická starostlivosť pri
+manažmente zveri, ako neodmysliteľnej zložky životného prostredia, prináša benefity nie len
+pre zachovanie biodiverzity, ale aj pre udržateľný rozvoj spoločnosti.
+Analýza celkového počtu úbytku jeleňov potrebného na získanie jedného zlatého jeleňa
+a celkového počtu úbytku jeleňov potrebných na získanie jedného medailového jeleňa len
+potvrdzuje vysokú pravdepodobnosť, dosiahnutia a získania medailovej trofeje aj tej najvyššej
+zlatej hodnoty.
+Dĺžka kmeňov, je hodnoteným parametrom jelenieho parožia, ktorá je zároveň jedným
+z kritérií selektívneho odstrelu jeleňov. V rámci hodnotenia trofeje sa počíta priemerná hodnota
+oboch dĺžok kmeňov prenásobená koeficientom 0,5. Z výsledkov je zaujímavá klesajúca
+hodnota tejto veličiny v CHPO Poľana za sledované obdobie. Môže byť spôsobená aj nárastom
+priemerných počtov vetiev. Jelene viac hmoty „ukladajú“ do početnosti vetiev a menej do dĺžky
+kmeňov. Samozrejme, pri tejto úvahe by bolo treba zanalyzovať aj ostatné parametre trofejí.
+Ďalšou mernou, ako aj pri selekcii danou veličinou, je počet výsad. Ich súčet sa priamo zapisuje
+do bodovej hodnoty trofeje.
+47
+
+Tak ako som uviedla v metodike, vyšší počet predátorov na Poľane z titulu prístupu
+MŽP SR, ktoré od roku 2019 pozastavilo lov vlka na Slovensku, sa výraznou mierou na počte
+ulovených jeleňov, podieľa práve vlk. Z tohto vidieť že skoro 30% jeleňov z celkového úbytku
+predstavujú úlovky vlkmi. Z uvedeného vyplýva, že vlk predstavuje významný faktor a značné
+riziko v manažmente jelenej zveri na Poľane. Percento chovných jeleňov strhnutých vlkmi je
+vyšší ako podiel chovných jeleňov ulovených poľovným personálom a to v pomere 87:28 za
+roky 1995 až 2023. A najmä zvyšujúci sa podiel chovných jedincov jeleňa z celkovo strhnutých
+jeleňov poukazuje na selekciu či skôr na „neselekciu“. Samozrejme tieto čísla môžu byť aj
+vyššie nakoľko nie každý strhnutý jedinec sa nájde, alebo ho môžu nájsť a privlastniť cudzie
+osoby a tým pádom sa nedostal do evidencie.
+
+48
+
+7. Záver
+Predložená diplomová práca na tému Analýza vývoja trofejovej kvality jelenej zveri
+v CHPO Poľana od roku 1995 po súčasnosť vplyvom dodržiavania kritérií selektívneho lovu
+približuje základnú charakteristiku jelenej zveri vyskytujúcej sa v tejto záujmovej oblasti.
+V roku 2002 vyhlásilo Ministerstvo pôdohospodárstva SR za CHPO Poľana za vyhradený
+poľovný revír, na ploche 20 659 ha. Jelenia zver je majestátnou a dlhoročnou súčasťou našej
+prírody, ktorá výraznou mierou ovplyvňuje manažment krajiny. CHPO Poľana je známa vďaka
+unikátnej starostlivosti o jeleniu zver, ktorej výsledkom sú kvalitné trofeje. V rokoch 1995 až
+2023 bolo v CHPO Poľana celkovo 217 bronzových medailí, 153 strieborných a 51 zlatých
+z celkového úbytku 1492 jeleňov. Percentuálne z celkového počtu jeleňov je 28 %
+medailových.
+Zároveň som v práci sledovala parametre, ktoré vplývajú na hodnotu jelenej trofeje. Zo
+sledovaných parametrov bola signifikantná najmä dĺžka kmeňov oproti hmotnosti a počtu
+vetiev. Veľmi dôležitý faktor, ktorý ovplyvňuje manažment jelenej zveri, je počet predátorov
+a to medveď hnedý, ale najmä vlk dravý, ktoré predstavujú v priemere 28% a v posledných
+rokoch až 50% hodnoty z ulovených jeleňov. Manažment jelenej zveri v CHPO Poľana je však
+aj napriek tomu na vysokej celoslovenskej i svetovej úrovni.
+
+49
+
+8. Literatúra
+1. BAKOŠ, A. - HELL, P. Poľovníctvo. 1. vyd. 1. Bratislava : PaRPRESS, 1999. 266
+s., xxv s. fareb. príl. Poľovníctvo. ISBN 80-88789-45-1.
+2. BALIŠ, M. 1980 Jelenia zver. Bratislava : Príroda, 1980. 335 s.
+3. Bučko J. 2023: Hodnotenie zveri v CHKO Poľana, Projekt LIFE – podklady NLC
+4. CIBEREL, J.: 2003. Poľovníctvo a rybárstvo : Odborno populárny časopis pre
+poľovníkov a rybárov. Bratislava : PaRPRESS s.r.o. mesačník (12x). ISSN 02318768.
+5. ČERVENÝ, J. – HELL, P. – SLAMČEKA, J. et al., 2004. Encyklopédia
+poľovníctva 1. Vyd. Praha: Ottova nakladateľství, 2004. 220 s.
+6. FILADELFI, P. [online], 2011. [cit. 3.2.2011]. Dostupné na:
+http://www.filadelfi.sk/search.php>
+7. GAISLER, J. - ZIMA, J. Zoologie obratlovců. Vyd. 2., přeprac. Praha : Academia,
+2007. 692 s. ISBN 978-80-200-1484-9.
+8. HELL, P. et al. Levické poľovnícke dni. Trvalo udržateľné poľovníctvo a jeho
+riadenie : Levické poľovnícke dni : zborník referátov z medzinárodnej konferencie
+: Levice, 28.03.2009. Nitra : Centrum výskumu živočíšnej výroby, 2009. 137 s. Údaj
+o zodpovednosti prevzatý z tiráže. ISBN 978-80-89418-01-5.
+9. HELL, P. KONOPKA, J., 2004. Veľkoplošné ekologické obhospodarovanie zveri
+v rámci poľovných oblastí a lokalít, roč. 10, 2004, ISBN 80 – 88853 – 84 – 2
+10. NEČAS, J. Jelenia zver. Bratislava : Slovenské vydavateľstvo pôdohospodárskej
+literatúry, 1959. 273 s. Edícia poľovníkov, rybárov a včelárov, zv.3.
+11. REICHHOLF, J. Cicavce : Kresby Fritz Wendler. Z nemeckého orig. preložil Peter
+Ľupták. Bratislava : IKAR, 1996. 287 s. Sprievodca prírodou. ISBN 80-7118-2362.
+12. RICHTER, V. Jelenia zver chov, lov a potreba živín, Bratislava: PaPRESS 2003,
+ISBN 80 – 88789 – 53 – 89 – 3.
+13. SLÁVIK, D. 1995. Chránená krajinná oblasť - biosférická rezervácia Poľana, 2.
+uprav. vyd. Zvolen : Správa Chránenej krajinnej oblasti, 34 s. ISBN 80-228-04673.
+14. Šmehýl P., Slamečka, J: 2023: Hodnota jelenej trofeje. Poľovníctvo a rybárstvo
+9/2023, 8-13
+
+50
+
+15. ŽILINČÁR, J. Zbavme sa starých zvyklostí, 1996. In: Poľovníctvo a rybárstvo,
+roč.48, 1996, č. 12 s. 4 -5, ISSN 0231 – 8768
+16. Lesy SR š.p.: Katalóg trofejí CHPO Poľana roky 1995 – 2023
+17. Šály, R. 2000: Pôdy Chránenej krajinnej oblasti – biosférickej rezervácie Poľana.
+44 s., Výskumný ústav pôdoznalectva a ochrany pôdy, Bratislava ISBN 8085361-76-0.
+18. Sláviková D. & Krajčovič V. (eds), 1996: Ochrana biodiverzity a obhospodarovanie
+trvalých trávnych porastov CHKO-BR Poľana. IUCN, Bratislava.
+19. Lacika, J. - Ondrejka, K., 2009, Chránené krajinné oblasti, DAJAMA, 128 s. ISBN
+9788089226290
+
+51
+
+9. Príloha
+Príloha 1: Mapa CHPO Poľana
+
+52
+
+Príloha č. 2
+Tabuľka č.1 Analýza vývoja zastúpenia medailových trofejí a ich podiel z celkového úbytku jeleňov
+(1995-2023)
+
+Rok
+
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+Bronzová Strieborná
+Zlatá
+medaila/ks medaila/ks medaila/ks
+7
+5
+0
+6
+1
+5
+2
+4
+4
+2
+5
+2
+7
+5
+15
+9
+14
+7
+8
+11
+4
+7
+6
+10
+10
+13
+14
+15
+19
+
+3
+2
+4
+1
+1
+2
+1
+3
+5
+6
+2
+8
+4
+5
+4
+10
+6
+12
+2
+8
+7
+8
+5
+10
+2
+5
+12
+7
+8
+
+0
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+2
+0
+3
+3
+4
+3
+4
+3
+2
+4
+4
+2
+2
+3
+1
+1
+4
+2
+
+Celkový počet
+úbytku
+jeleňov/ks
+59
+51
+30
+36
+34
+37
+36
+37
+41
+46
+51
+62
+43
+53
+56
+62
+58
+62
+67
+60
+42
+45
+45
+61
+52
+64
+67
+64
+71
+
+53
+
+Tabuľka č. 2 Analýza celkového počtu úbytku
+
+Tabuľka č. 3 Priemerná bodová hodnota
+
+jeleňov potrebného na získanie jedného zlatého
+
+parožia od roku 1995 do roku 2023
+
+jeleňa a na získanie jedného medailového jeleňa
+od roku 1995 do roku 2023
+Rok
+Počet jeleňov
+potrebných na
+ulovenie 1 zlatého
+jeleňa
+
+Rok
+
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+0
+51
+0
+36
+34
+0
+0
+0
+0
+46
+0
+31
+0
+18
+19
+16
+19
+16
+22
+30
+11
+11
+23
+31
+17
+64
+67
+16
+36
+
+Počet jeleňov
+potrebných na
+ulovenie 1
+medajlového
+6
+6
+8
+5
+6
+5
+12
+5
+5
+5
+7
+5
+4
+4
+3
+3
+3
+3
+5
+3
+3
+2
+3
+3
+3
+3
+2
+2
+2
+
+Priemerná
+bodová hodnota
+/øCIC
+
+N
+
+1995
+
+178,7
+
+14
+
+1996
+
+183,6
+
+7
+
+1997
+1998
+
+194,91
+191,1
+
+4
+6
+
+1999
+
+184,5
+
+7
+
+2000
+
+182,6
+
+5
+
+2001
+
+182,1
+
+4
+
+2002
+
+189,7
+
+6
+
+2003
+2004
+
+193,5
+188,9
+
+7
+8
+
+2005
+2006
+2007
+
+181,07
+197,0
+192,0
+
+7
+9
+7
+
+2008
+2009
+2010
+
+200,3
+186,7
+194,2
+
+6
+15
+15
+
+2011
+
+197,3
+
+15
+
+2012
+2013
+
+194,1
+185,5
+
+13
+9
+
+2014
+2015
+
+194,3
+199,1
+
+15
+15
+
+2016
+
+188,2
+
+14
+
+2017
+
+193,0
+
+11
+
+2018
+2019
+
+191,5
+187,5
+
+17
+9
+
+2020
+
+176,1
+
+18
+
+2021
+
+186,6
+
+18
+
+2022
+
+195,7
+
+18
+
+2023
+
+186,6
+
+19
+
+54
+
+Tabuľka č. 4 Priemerné dĺžky kmeňov
+
+Tabuľka č. 5 Priemerný počet vetiev
+
+parožia od roku 2001 do roku 2023
+
+parožia od roku 2001 do roku 2023
+
+Rok
+
+Priemerná
+dĺžka kmeňov/
+cm
+
+Rok
+
+N
+
+Priemerný
+počet vetiev/n
+
+N
+
+2001
+
+11,5
+
+4
+
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+99,84
+103,7
+103,0
+102,0
+97,1
+102,4
+104,3
+103,3
+102,1
+102,5
+102,3
+102,4
+96,8
+101,1
+102,6
+93,9
+101,3
+96,8
+99,6
+93,7
+95,8
+100,6
+
+4
+6
+7
+8
+7
+9
+7
+6
+15
+15
+15
+13
+9
+15
+15
+14
+11
+17
+9
+18
+18
+18
+
+2002
+
+11,5
+
+6
+
+2003
+
+13,3
+
+7
+
+2004
+
+11,5
+
+8
+
+2005
+
+13
+
+7
+
+2006
+
+13
+
+9
+
+2007
+
+12,6
+
+7
+
+2008
+
+15,0
+
+6
+
+2009
+
+12,3
+
+15
+
+2010
+
+12,3
+
+15
+
+2011
+
+13,2
+
+15
+
+2012
+
+12,9
+
+13
+
+2013
+
+12,7
+
+9
+
+2014
+
+13,6
+
+15
+
+2015
+
+12,3
+
+15
+
+2016
+
+13,0
+
+14
+
+2017
+
+12,5
+
+11
+
+2018
+
+13,4
+
+17
+
+2019
+
+13,0
+
+9
+
+2020
+
+12,2
+
+18
+
+2021
+
+13,2
+
+18
+
+2022
+
+13,8
+
+18
+
+2023
+
+98,8
+
+19
+
+2023
+
+12,53
+
+19
+
+55
+
+Tabuľka č. 6 Priemerná hmotnosť parožia
+
+Tabuľka č. 7 Analýza celkového úbytku
+
+od roku 2001 do roku 2023
+
+jeleňov a úbytku predátormi evidovaných
+ako úhyn od roku 1995 do roku 2023
+
+Rok
+
+Priemerná
+hmotnosť/ kg
+
+N
+Rok
+
+2001
+
+6,4
+
+4
+
+2002
+
+6,9
+
+6
+
+2003
+
+7,0
+
+7
+
+2004
+
+7
+
+8
+
+2005
+
+6,4
+
+7
+
+2006
+
+7,7
+
+9
+
+2007
+
+7,1
+
+7
+
+2008
+
+7,8
+
+6
+
+2009
+
+6,6
+
+15
+
+2010
+
+7,5
+
+15
+
+2011
+
+7,7
+
+15
+
+2012
+
+7,4
+
+13
+
+2013
+
+6,4
+
+9
+
+2014
+
+7,8
+
+15
+
+2015
+
+6,6
+
+15
+
+2016
+
+7,4
+
+14
+
+2017
+
+7,2
+
+11
+
+2018
+
+6,8
+
+17
+
+2019
+
+6,7
+
+9
+
+2020
+
+5,5
+
+18
+
+2021
+
+6,6
+
+18
+
+2022
+
+7,7
+
+18
+
+2023
+
+6,5
+
+18
+
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+Celkový počet
+úhynov
+spôsobených
+predáciou vlka/ks
+
+5
+12
+4
+1
+11
+13
+13
+3
+10
+11
+13
+11
+2
+6
+13
+13
+16
+16
+19
+11
+8
+22
+13
+24
+20
+20
+27
+22
+30
+
+Celkový
+úbytok
+jeleňov/ks
+59
+51
+30
+36
+34
+37
+36
+37
+41
+46
+51
+62
+43
+53
+56
+62
+58
+62
+67
+60
+42
+45
+45
+61
+52
+64
+67
+64
+71
+
+56
+
+Tabuľka č. 8 Analýza počtu ulovených
+jeleňov
+
+poľovným
+
+personálom
+
+a predátormi z hľadiska chovnosti od roku
+1995 do roku 2023
+
+Rok
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+
+Počet chovných
+Počet chovných
+jeleňov ulovených jeleňov ulovených
+predátormi/ks poľ.personálom/ks
+
+1
+0
+0
+1
+2
+0
+1
+2
+2
+2
+1
+3
+0
+0
+3
+4
+5
+7
+0
+6
+5
+10
+3
+1
+5
+1
+11
+6
+5
+
+2
+1
+0
+0
+1
+0
+0
+1
+2
+2
+5
+2
+1
+3
+1
+3
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+
+57
+
+

@@ -1,0 +1,3098 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV.ALŽBETY BRATISLAVA
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. LADISLAVA NOVÉ ZÁMKY
+171505
+
+KOMPLEXNÁ
+
+OŠETROVATEĽSKÁ
+
+STAROSTLIVOSŤ
+
+O PACIENTA S POLYETIOLOGICKOU DEMENCIOU
+BAKALÁRSKA PRÁCA
+
+2021
+
+LUCIA ŠIŠMIČOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV.ALŽBETY BRATISLAVA
+FAKULTA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. LADISLAVA NOVÉ ZÁMKY
+
+KOMPLEXNÁ
+
+OŠETROVATEĽSKÁ
+
+STAROSTLIVOSŤ
+
+O PACIENTA S POLYETIOLOGICKOU DEMENCIOU
+BAKALÁRSKA PRÁCA
+
+Študijný program: ošetrovateľstvo
+Študijný odbor:
+
+ošetrovateľstvo
+
+Školiace pracovisko: Fakulta zdravotníctva a sociálnej práce sv. Ladislava Nové Zámky
+Školiteľ záverečnej práce: MUDr. Milan Henčel, PhD.
+
+NOVÉ ZÁMKY 2021
+
+LUCIA ŠIŠMIČOVÁ
+
+Čestné prehlásenie
+Čestne prehlasujem, že som bakalársku prácu vypracovala samostatne a literatúru, ktorú
+som použila, som uviedla v zozname použitej literatúry.
+
+Dátum: ......................
+
+Podpis: ........................
+
+Ďakujem MUDr. Milanovi Henčelovi za cenné rady, pripomienky a pomoc pri spracovaní
+mojej bakalárskej práci
+
+ABSTRAKT
+
+ŠIŠMIČOVÁ,
+LUCIA:
+Komplexná
+ošetrovateľská
+starostlivosť
+o pacienta
+s polyetiologickou demenciou. [Bakalárska práca] / Lucia Šišmičová – Vysoká škola
+zdravotníctva a sociálnej práce sv. Alžbety Bratislava. Katedra ošetrovateľstva. - Školiteľ :
+MUDr. Milan Henčel, PhD. Fakulta zdravotníctva a sociálnej práce sv. Ladislava, Nové
+Zámky, 2021. s. 75
+
+Práca
+sa
+zaoberá
+komplexnou
+ošetrovateľskou
+starostlivosťou
+o chorého
+s polyetiologickou demenciou, ktorá je fyzicky, ale najmä psychicky náročná. Práca sa
+delí na teoretickú a praktickú časť.
+Cieľom našej práce je poukázať na problémové správanie u klienta, charakteristiku
+ochorenia, príčiny a priebeh polyetiologickej demencie, jej diagnostiku a liečbu. Vplyvom
+správneho prístupu zdravotníckych pracovníkov ku klientovi, chceme prispieť ku
+skvalitneniu života, k zlepšeniu psychického stavu a viesť klienta k čo najväčšej
+samostatnosti.
+Využitím koncepčného modelu funkčného zdravia podľa Gordonovej, chceme poukázať na
+klientove aktuálne a potencionálne problémy a na uspokojovanie potrieb spojených s jeho
+ochorením. Taktiež chceme zvýšiť úroveň sebestačnosti v čase, kedy nie je schopný sa
+sám o seba postarať. Vypracovali sme komplexný plán ošetrovateľskej starostlivosti, čím
+by sme chceli dosiahnuť zlepšenie zdravotného stavu klienta, jeho sebavedomia, ako aj
+stupňa sebaobslužných činností.
+Práca je obohatená o prílohy – škály a fotodokumentáciu.
+
+Kľúčové slová
+Polyetiologická demencia.
+Skvalitnenie života .
+
+Problémové
+
+správanie.
+
+Ošetrovateľská
+
+starostlivosť.
+
+ABSTRACT
+
+ŠIŠMIČOVÁ, LUCIA: Complex nursing care for pacients with polyetiological dementia
+(Bachelor Thesis) / Lucia Šišmičová – St. Elizabeth College of Health and Social Work –
+Nursing faculty. –Facilitator: MUDr. Milan Henčel, PhD. St. Ladislav Faculty of health
+and social, Nové Zámky, 2021. s. 75
+
+This thesis is focusing on complex nursing care for patients with polyetiological dementia,
+which is physically, but mainly psychologically demanding. This work consists from two
+parts – theoretical and practical.
+
+Aim of our work is to point out problematic behavior of patient, characteristic of illness,
+causes and course of polyetiological dementia, its diagnostic and treatment. With correct
+approach of medical personnel to the client, we want to contribute to quality of life,
+improvement of psychological state and lead client to the highest level of independence.
+Using the conceptual model of functioning health according to Gordons theory, we want to
+point out clients actual and potential problems and fulfilling all needs related to his
+condition. We also want to raise his level of independence when he is not able to care of
+himself. We have created complex plan of nursing care to achieve improvement of client
+health, his self-confidence, as well as self-serving activities
+These also includes scales and photo documentation
+Key words:
+Polyetiological dementia, problematic behavior, nursing care, life-quality improvement.
+
+Obsah
+ÚVOD.................................................................................................................................8
+TEORETICKÁ ČASŤ
+1
+
+2
+
+Vymedzenie základných pojmov...............................................................................9
+1.1
+
+Starnutie a demencia....................................................................................9
+
+1.2
+
+Polyetiologická demencia...........................................................................10
+
+Demencia ...................................................................................................................12
+2.1
+
+Charakteristika demencie............................................................................12
+
+2.2
+
+Príčiny vzniku demencií .............................................................................13
+
+2.3
+
+Typy demencií ............................................................................................14
+
+2.4
+
+Klinický obraz, ťažkosti u chorých s demenciou........................................18
+
+2.5
+
+Poruchy a problémové správanie u klienta s demenciou............................20
+
+2.6
+
+Fázy demencie.............................................................................................21
+
+2.7
+
+Diagnostika demencie.................................................................................22
+
+2.8
+
+Laboratórne vyšetrenia................................................................................23
+
+2.9
+
+Liečba demencie..........................................................................................24
+2.9.1 Farmakologická terapia...................................................................24
+2.9.2 Nefarmakologická terapia................................................................25
+
+3
+
+Komplexná ošetrovateľská starostlivosť..................................................................27
+3.1
+
+Definícia a kroky ošetrovateľského procesu ...............................................27
+
+3.2
+
+Model funkčných vzorcov zdravia podľa M. Gordonovej..........................29
+
+PRAKTICKÁ ČASŤ
+4
+
+Komplexná ošetrovateľskástarostlivosť o pacienta s dg. Polyetiologická demencia
+podľa Gordonovej modelu
+4.1
+
+Ošetrovateľská anamnéza, kazuistika...........................................................32
+
+4.2
+
+Ošetrovateľská anamnéza podľa M. Gordonovej........................................34
+
+4.3
+
+Sumár problémov..........................................................................................46
+
+4.4
+
+Diagnostika, ošetrovateľská diagnóza, výsledné kritériá, ošetrovateľské
+intervencie, realizácia, vyhodnotenie...........................................................47
+
+Odporúčanie pre prax...........................................................................................................58
+ZÁVER................................................................................................................................59
+Zoznam použitej literatúry...................................................................................................60
+Zoznam príloh......................................................................................................................63
+
+ÚVOD
+
+„Všetko, čo robíme, je iba kvapka v mori, ale keby sme to nerobili, tá kvapka by nám
+chýbala.“
+(Mária Terézia)
+Každý človek je vo svojom živote niečím výnimočný od svojho narodenia až po smrť.
+Počas života prichádzajú zmeny, s ktorými sa každý človek musí naučiť žiť a prijať ich
+také, aké prídu a to najmä v období, keď človek ochorie. Pracujem v Zariadení sociálnych
+služieb (ZSS) Clementia Kovarce ako zdravotná sestra, kde klientmi zariadenia sú dospelí
+klienti od 18 rokov, mužského pohlavia. ZSS je budova, ktorá bola postavená ako
+baroková budova a jej začiatky siahajú až do 14. storočia. V roku 1880 bola prestavaná
+nadstavbou poschodia. Kaštieľ je dnes štvorkrídlová budova s nádvorím a parkom. Pred
+kaštieľom je umiestnená socha sv. Floriána. Za posledné roky sa budova zmodernizovala a
+bezbariérovo prispôsobila klientom, aby sa im mohli zabezpečiť kvalitné sociálne služby.
+Po rozhodnutí VÚC je od 1.7.2008 zariadenie pomenované „Clementia“ zariadenie
+sociálnych služieb. V zariadení sú umiestnení klienti s rôznymi diagnózami, ktorými sú
+najmä schizofrénia, demencia rôzneho typu, Parkinsonova choroba, klienti s mentálnou
+retardáciou a klienti závislí od alkoholu.
+
+Zariadenie poskytuje celoročné ubytovanie
+
+s kapacitou 170 klientov, pričom u 70 klientov bola diagnostikovaná schizofrénia a 100
+obyvateľov sú klienti s inými duševnými poruchami, medzi ktoré patrí aj demencia. V
+mojej práci by som sa chcela zamerať na polyetiologické ochorenie, akým je demencia, jej
+priebeh a starostlivosť o klientov, ktorí sa nevedia o seba postarať a pomôcť im udržať si
+určitú životnú úroveň počas života až do smrti. Keďže v zariadení nie je prítomný lekár,
+sestra realizuje, plánuje, poskytuje a vykonáva ošetrovateľskú starostlivosť a podieľa sa na
+upevňovaní duševného zdravia a taktiež na podpore činností. V ZSS je základom práce
+spoznať duševne chorých, zamerať sa na ich osobnosť, potreby, na rozvíjanie zručností,
+zisťovať ich priania, túžby, udržiavanie aktivít denného života, zlepšenie psychického
+stavu a kontaktu s rodinou. Našou snahou v ZSS je skvalitňovanie života klientov
+a vyhýbanie sa ďalšiemu psychickému poškodzovaniu.
+
+8
+
+1
+
+VYMEDZENIE ZÁKLADNÝCH POJMOV
+
+1.1 STARNUTIE A DEMENCIA
+
+Múdro a dôstojne starnúť je umenie, ktoré má každý človek vo svojich rukách a len od nás
+závisí, ako sa dokážeme na sklonku svojho života postaviť starobe tvárou v tvár. Starnutím
+nazývame obdobie po 65.roku života. Podľa kategorizácie WHO môžeme toto obdobie
+rozdeliť na nasledovné úseky:
+1. 60 – 65 až 74 rokov = vyšší vek, starší vek alebo raná staroba, presénium
+2. 75 – 89 rokov – vysoký vek, starecký vek alebo vlastná staroba, sénium
+3. Nad 90 rokov - dlhovekosť
+V procese starnutia nastáva v organizme mnoho telesných zmien. Starnutie je prejavom
+straty buniek pri opotrebovaní organizmu, kedy pri regenerácii telových tkanív zaostáva za
+tempom opotrebovania a organizmus si už tak nedokáže zachovať stabilné vnútorné
+prostredie. Viditeľné zmeny možno pozorovať na povrchu tela, čiže na koži. K ďalším
+zmenám patrí úbytok tukového a svalového tkaniva a strata elastických vlákien, čím
+pozorujeme na človeku zvráskavený vzhľad. Dochádza k oslabeniu chuťových
+a čuchových zmyslov, ubúda počet kožných receptorov, čím je človek v starobe citlivejší
+na bolesť a dotyk. Znižuje sa aj svalová činnosť a starí ľudia sa často sťažujú na únavu.
+S vekom nastávajú aj zmeny v kognitívnych štruktúrach. Znižuje sa prietok krvi v mozgu,
+kedy mozgové pleny hrubnú a metabolizmus mozgu sa spomaľuje. Celoživotná duševná
+aktivita, najmä verbálna, pomáha starým ľuďom zachovať si mentálne funkcie, a tým si
+zachovať dlhodobú pamäť. Kognitívne poškodenie, ktoré zabraňuje normálnej činnosti, sa
+nepovažuje za normálnu súčasť starnutia. Pokles intelektových schopností, ktoré zabraňujú
+pracovným a spoločenským funkciám, treba pokladať za abnormálny.
+Nástup demencie u starých ľudí je pomalý, kedy si to rodina a ani chorý sám,
+neuvedomuje. Ide o stratu pamäti a kognitívnych schopností, kedy návrat týchto funkcií
+závisí od včasnej diagnózy a liečby. Pri diagnostike demencie má väčšina starých ľudí
+ireverzibilné ochorenie mozgu. Najbežnejším typom ireverzibilnej demencie v staršom
+veku je Alzheimerova demencia, ktorá je príčinou 60-70% všetkých prípadov demencie.
+Úpadok zdravia u starého človeka sa skôr pripisuje chronickému ochoreniu, nezdravému
+9
+
+spôsobu
+
+života a nesprávnym zdravotným návykom, ako samotnej starobe. Ak chce
+
+proces starnutia človek spomaliť, musí sa naučiť, ako sa má o seba starať, upevňovať si
+zdravie a tiež predchádzať samotnému ochoreniu. Činnosti na upevnenie a ochranu zdravia
+starých ľudí by mali byť zamerané na pravidelné preventívne prehliadky a očkovania.
+(Kozierová, Erbová, Olivierová, 1995).
+Pri posúdení geriatrických klientov sú dôležité hodnotiace nástroje a funkčné testy.
+Posudzovanie je zamerané na potreby a zmeny, ktoré vznikli počas choroby. (Poledníková,
+2006).
+Hodnotenie mobility – najčastejším ochorením je ochorenie pohybového systému,
+najčastejšie ide o osteoporózu, artrózu bedrových a kolenných kĺbov, ochorenie nervového
+systému – Parkinsonova choroba, Alzheimerova demencia, internistické ochorenia
+(hypoglykémia, arytmia). (Kalvach, 2008).
+Hodnotenie bolesti - Pri hodnotení geriatrického pacienta je predpoklad, že bolesť
+zapríčiňujú degeneratívne zmeny, ktoré sú spôsobené starnutím, čiže vekom a pacienti so
+zníženou kognitívnou schopnosťou, necítia bolesť, alebo ju pociťujú menej. Pri
+Alzheimerovej chorobe prebiehajú v mozgu degeneratívne zmeny, ktoré nepostihujú časti,
+ktoré zodpovedajú za interpretáciu bolesti. Pacienti pociťujú bolesť rovnako, len ju nevedia
+vyjadriť. (Curtiss, 2010). V ošetrovateľstve sú posudzovacou stupnicou ukazovatele, ktoré
+sa pri hodnotení používajú pri zmene zdravotného stavu, pričom tieto zmeny môžeme
+merať priamo alebo nepriamo a hodnotenia sa zaznamenáva číselným súčtom. ( Z. z.
+364/2005).
+
+1.2 Polyetiologická demencia
+Slovo polyetiologická znamená ochorenie, ktoré má viacero príčin a faktorov súčasne, je
+diagnostikovaná klientovi a je spôsobená viacerými príčinami, napríklad úrazom hlavy
+a alkoholizmom.
+Slovník ABZ.cz: slovník cudzích slov vysvetľuje pojem, ako majúci viac príčin,
+podmienok, činiteľov vzniku napr. závady, poruchy, choroby.
+
+10
+
+Veľký lekársky slovník odôvodňuje pojem polyetiologický ako majúci mnoho príčin
+vzniku.
+
+11
+
+2 DEMENCIA
+
+2.1 CHARAKTERISTIKA DEMENCIE
+
+„Demencia je syndróm vznikajúci ako následok poškodenia mozgu. Je väčšinou chronický
+a progredujúci. Postupne pri ňom vznikajú poruchy rozličných psychických funkcií.
+Postihnutá je predovšetkým pamäť, myslenie, orientácia, chápanie, úsudok a schopnosť
+učenia.
+
+Prejavujú
+
+sa
+
+aj
+
+poruchy
+
+emócií,
+
+sociálnych
+
+funkcií
+
+a jazyka“.
+
+(Ondriášová,2005,s.93).
+Demenciu možno chápať aj ako získanú poruchu kognitívnych funkcií, ktorá býva natoľko
+závažná, že má vplyv na ďalšie funkcie a aj na život pacienta. Príznaky u demencie
+môžeme podľa praktického a didaktického hľadiska rozdeliť na tri skupiny, ktoré sa
+nazývajú A-B-C:
+▪
+
+Narušenie kognitívnych funkcií ( C- cognition),
+
+▪
+
+Narušenie aktivít denného života ( A- activities of dailylife),
+
+▪
+
+Poruchy správania ( B- behavior). (Pidrman, 2007).
+
+Slovo demencia pochádza z latinčiny a preloženie znamená bez mysli. Predpona „de“
+znamená odstrániť a „mens“ je slovo pre myseľ. (Hauke a kolektív, 2017).
+Syndróm demencie nezahŕňa iba poruchy intelektu a pamäti, ale i rôznym spôsobom
+bývajú konštantne narušené ďalšie psychické funkcie, ako je citovosť, pozornosť,
+vnímanie a osobnosť u chorého. Nad 64 rokov sa demencia vyskytuje asi u 5-10% ľudí
+a medzi 60.-90. rokom života sa výskyt demencie zvýši stonásobne. V posledných
+rokoch
+
+sa zvyšuje aj počet dementných chorých. Najčastejším typom demencie je
+
+Alzheimerova demencia (AD), ktorá je spôsobená úpadkom mozgu. Druhou najčastejšou
+demenciou je vaskulárna demencia, ktorá vzniká ako následok poškodenia ciev. Demenciu
+môžu tiež vyvolať aj toxické látky, infekčné vplyvy, úrazy hlavy, alkohol, fajčenie atď.
+(Čerňanová, 2011). Pri postihnutí kognitívnych funkcií a ich nedostatočného vývoja, ktoré
+vzniklo v prenatálnom období, v období po pôrode, alebo v rannom postnatálnom období,
+hovoríme o mentálnej retardácii. (Vavrušová, 2012).
+
+12
+
+Demencie vznikajú aj u detí a nezáleží v akom veku. Ide o postupné odbúravanie
+poznávacích a aj intelektových funkcií. Pri diagnostike možno vychádza z faktu, že
+odbúravanie následne prebieha tam, kde už predtým rozvoj poznávacích funkcií nastal.
+Hovoríme teda o demencii u detí po druhom roku života. (Ondriášová, 2005).
+Pamäť je u demencie postihnutá nerovnomerne. V začiatkoch je postihnutá vštepivosť
+a dôsledkom toho je problém u chorého zapamätať si niečo nové. Hovoríme o poruche
+novopamäti. Naopak staropamäť býva najprv zachovaná, ale neskôr vyhasína a to je
+začínajúcou progresiou demencie. Proces demencie postupne naruší u chorého celý život.
+(Hrdlička, Hrdličková,1999). Pri stanovení diagnózy u chorého sa vyžaduje, aby bol pri
+jasnom vedomí, aby sa pri vyšetrení a diagnostike spolupracoval a nevyskytoval sa u
+chorého zmätený stav. Pri správnom diagnostikovaní a určení etiológie je dôležitá
+i následná liečba. (Pidrman,2007). Demenciu môžeme deliť na čiastočnú (ostrovčekovú parciálnu), ktorá sa vyznačuje nerovnomerným postihnutím psychických funkcií, alebo
+celkovú (totálnu) demenciu, pri ktorej sú narušené psychické funkcie vcelku. Vyskytuje sa
+pri psychosyndróme. (K. Kopecká, P. Kopecký, 2014).
+
+2.2 PRÍČINY VZNIKU DEMENCIÍ
+
+Ku vzniku demencie vedie viac ako 60 chorôb. Demencie predstavujú istý celok
+príznakov, ktoré tiež môžu mať viac príčin. (Jirák a kol., 2009), ako sú napríklad:
+▪
+
+neurodegeneratívne zmeny - poškodenie neurónov,
+
+▪
+
+poruchy cievneho zásobenia mozgu,
+
+▪
+
+infekčné činitele (vírusy, baktérie, parazity)
+
+▪
+
+metabolické a výživové faktory- napr. cukrovka, poruchy príjmu bielkovín,
+nedostatok vitamínov,
+
+▪
+
+endokrinné poruchy – pri zníženej funkcii štítnej žľazy, Cushingov syndróm
+(poruchy funkcie kôry nadobličiek),
+
+▪
+
+intoxikácie -napr. alkohol a iné drogy, oxid uhoľnatý, organofosfáty, ťažké kovy,
+
+▪
+
+úrazy hlavy,
+
+▪
+
+expanzívne vnútrolebkové procesy - nádory, cysty, krvácania (napr. subdurálny
+hematóm). (Ondriášová, 2005).
+
+13
+
+2.3 TYPY DEMENCIÍ
+
+Viac ako 50% demencií v staršom veku predstavuje Alzheimerova choroba, 10-20%
+Alzheimerovo- vaskulárna demencia, 15-30% vaskulárna demencia, 10-20% demencia
+s Lewyho telieskami. Zvyšok tvoria neurodegeneratívne a symptomatické demencie. (Jirák
+a kol., 2013).
+
+2.2.1 Alzheimerova demencia
+
+Alzheimerova demencia patrí medzi najčastejšie formy demencie. Je to degeneratívne
+ochorenie mozgu, ktoré sa vyskytuje u chorého vo vyššom veku. Charakterizovaná je
+poklesom kognitívnych funkcií, ktoré postihuje pamäť, myslenie, vnímanie, orientáciu
+v čase, priestore a osobe. Chorý nedokáže rozhodovať sám o sebe, cíti strach, nedokáže
+porozumieť iným, ani dorozumieť sa. Nevhodné správanie je spojené s rýchlym úbytkom
+kognitívnych funkcií, pri ktorom sa zhoršujú aktivity denného života. ( Martinková, 2017).
+Pri pokročilom štádiu je dezorientovaný, najmä v noci, komunikácia slabne, chorý nedbá
+na osobnú hygienu. Zmeny nálady sú bežné, ich správanie je spoločensky neprípustné.
+(P.Abrahams,2005). Najvýznamnejším faktorom pre vznik AD je vek, obezita,
+hypertenzia, nadmerná konzumácia alkoholu, opakované úrazy hlavy. Smrť rodičov
+v detstve je tiež spúšťačom ochorenia. Alzheimerova demencia je tiež označovaná aj ako
+tichá epidémia, kedy je u veľa chorých nediagnostikovaná a ani neliečená. (Zvěřová,
+2017).
+
+2.2.2 Vaskulárna demencia
+
+Vaskulárna demencia je spôsobená poruchami cievneho zásobenia mozgu. Najčastejšou
+formou
+
+vaskulárnej
+
+demencie
+
+je
+
+multiinfarktová
+
+demencia,
+
+ktorá
+
+vzniká
+
+znepriechodnením cievy, alebo viacerých ciev. Tento stav býva spojený so vzniknutou
+akútnou neurologickou symptomatikou, ako je porucha reči, citlivosť alebo psychiatrickou
+symptomatikou, ako sú stavy zmätenosti. U vaskulárnej demencie býva striedanie období
+14
+
+zhoršenia s obdobiami zlepšenia. Často bývajú poruchy chôdze a pomočovania.
+(Ondriášová, 2005). Chorí trpiaci vaskulárnou demenciou majú spravidla aj ďalšie
+ochorenia ciev, ako sú ischemická choroba srdca, prekonali náhlu cievnu mozgovú príhodu
+a prítomné sú aj ďalšie rizikové faktory, ako sú obezita alebo cukrovka. (Hauke
+a kol.2017). Krvné cievy sa zúžia alebo upchajú, tento stav nastáva vplyvom mnohých
+faktorov, vrátane vysokého tlaku krvi alebo vysokého cholesterolu. (K.R.Daffner, 2016).
+
+2.2.3 Demencia s Lewyho telieskami
+
+Demencia s Lewyho telieskami je druhou najčastejšou demenciou s cholínergickým
+deficitom. Ochorenie je charakterizované prítomnosťou eozinofilných teliesok – Lewyho
+teliesok – nielen v cytoplazme neurónov v jadre mozgového kmeňa, ale aj vývojovo
+mladšiu časť veľkého mozgu. (Vavrušová, 2012). Choroba sa vyznačuje rýchlym
+priebehom, kolísaním kognitívnych funkcií, zrakovými a sluchovými halucináciami
+a precitlivenosťou na neuroleptiká. (Hrdlička, Hrdličková, 1999). Prítomné sú aj bludy. Pri
+liečbe bludov a halucinácií sa pri tomto type demencií podávajú klasické neuroleptiká, ako
+napr. haloperidol, levopromazin. (Pidrman, 2007).
+
+2.2.4 Demencia u Parkinsonovej choroby
+Je degeneratívne ochorenie, ktoré je charakterizované hypertonicko – hypokinetickým
+syndrómom. Vzniká medzi 50 a 60 rokom života a postihuje prevažne mužov. Medzi
+príznaky patrí najmä svalová stuhnutosť, znížená pohyblivosť, nehybnosť a statický
+tremor. Demencia vzniká pri pokročilom štádiu choroby. Ochorenie sa vyvíja pomaly. Pri
+liečbe sa podávajú antiparkinsoniká. (Kafka a kolektív, 1993).
+
+2.2.5 Demencia u Huntingtonovej choroby
+
+15
+
+Demencia poukazuje na celkovú degeneráciu mozgu. Diagnóza má rodinný výskyt,
+typickým príznakom je porucha hybnosti a prítomnosť demencie. Úvodnými príznakmi
+bývajú často poruchy normálnych pohybov tváre, rúk, ramien a chôdze. Progresia
+ochorenia prebieha pomaly, ale končí smrťou väčšinou do 10 až 15 rokov. (Hrdlička,
+Hrdličková, 1999). Typickými príznakmi sú aj neurologické príznaky, ktoré potláčajú
+rozvoj demencie. Častá je aj depresia, ktorá môže byť prvým príznakom ochorenia.
+(Pidrman, 2007).
+
+2.2.6 Alkoholová demencia
+
+Na tento druh demencie sa často zabúda. Pritom je však možné, že touto formou demencie
+trpí každá desiata osoba závislá od alkoholu. Na vzniku alkoholovej demencie sa podieľa
+celý rad faktorov, často súvisí so zlou životosprávou a s hepatopatiou. Veľký podiel majú
+aj ďalšie telesné choroby, ako je ochorenie obličiek a pečene. Ale nemôžeme zabúdať ani
+na náhodné faktory, ako sú napríklad úrazy hlavy pri pádoch a úrazoch osôb
+závislých.(Pidrman, 2007). Alkoholická demencia sa môže vyvinúť aj z alkoholického
+delíria, alebo sa vyvíja z akútnej psychickej poruchy. Príčinou alkoholickej demencie je
+priamy účinok alkoholu na nervové bunky. Objavujú sa poruchy pamäti, úsudku, chápania.
+Chorý postupne stráca schopnosť postarať sa sám o seba. Základom liečby je úplná
+abstinencia od alkoholu. Ak je táto demencia liečená, býva často úspešná. V liečbe sa
+podávajú najmä vitamíny zo skupiny B a nootropiká. (Ondriášová, 2005).
+
+2.2.7 Frontotemporálna demencia
+
+Demencia začína medzi 45. až 60. rokom života u ľudí, ktorí sú profesionálne výkonní. Je
+to jedna z najčastejších foriem presenilných demencií. Typickým nálezom je kortikálna
+atrofia frontálnych lalokov a frontotemporálneho rozhrania s pravostrannou predilekciou.
+Prvé príznaky sú nenápadné, ide o ľahšiu poruchu pamäti, pozornosti a myslenia. Chorý je
+niekedy ľahostajný, stráca záujem o druhých, najmä o najbližších, ku ktorým mal citový
+vzťah. Porušuje spoločenské normy správania, v správaní sa objavuje hypersexualita, alebo
+sexuálne deviantné správanie. Konzumuje návykové látky, ako je alkohol a drogy. U istej
+skupiny chorých, u ktorých sa objavujú pokročilé štádiá ochorenia, nastáva depresia,
+16
+
+poruchy nálad a hypoaktivita. Priebeh tejto demencie je progredientný, ale rýchlejší ako
+Alzheimerova demencia. Doba prežitia je do 5 rokov od stanovenia diagnózy. Vo väčšine
+prípadov ide o predčasné úmrtia ľudí, ktorí sú úplne zdraví. (Králová, 2017).
+
+2.2.8 Starecká demencia
+
+Inak nazývaná aj choroba starých ľudí. Postihuje najmä generáciu nad 65 rokov. Pri tomto
+degeneratívnom ochorení mozgu, odumierajú nervové bunky, ale nové sa už nevytvárajú.
+Dochádza k vymazávaniu pamäti, zhoršuje sa jazyková schopnosť a chorý nie je
+orientovaný v čase, osobe a ani v priestore. Svoje zohráva aj genetika chorého, veľa závisí,
+aký viedol život v minulosti, aké mal záujmy počas života a ako namáhal svoj
+mozog.(Kozáčiková. 2016).
+
+2.2.9 Ostatné demencie
+
+Demencie tiež môžu vzniknúť aj z infekčného ochorenia, ako je syfilis alebo AIDS. Pri
+metabolických poruchách, môže viesť k vzniku metabolickej demencie, ku ktorej dochádza
+pri poruche výživy, dehydratácii alebo pri zlyhávaní pečene. Demencie môžu byť
+nádorového alebo posttraumatického pôvodu, ktoré bývajú pri ochoreniach epilepsií.
+(Pidrman, 2007).
+
+17
+
+2.4 KLINICKÝ OBRAZ, ŤAŽKOSTI U CHORÝCH S DEMENCIOU
+
+Choroba sa začína pomaly, kedy prvými príznakmi sú poruchy pamäti, ktoré sa postupne
+zhoršujú. Chorý zabúda na životné obdobia vo svojom živote, mená svojich príbuzných,
+vek, dátum narodenia, narušená je orientácia v čase a v mieste. V emočnej oblasti je
+zvýšená dráždivosť, nepokoj a depresia. Objavuje sa psychomotorický nepokoj (chorý
+robí dookola tú istú činnosť), alebo aj delírium. Prítomné sú aj neurologické príznaky,
+afázia, apraxia a občas aj epileptické záchvaty. Poškodené sú tiež aj vegetatívne funkcie
+mozgu. Chorí sú vysilení, chradnú a nakoniec zomierajú na interkurentnú infekciu. (Kafka
+a kol.,1993). Napriek tomu, že demencia má svoje typické príznaky, u každého chorého sa
+prejavuje rôzne. Preto je dôležité počítať so schopnosťami a záujmami u týchto klientov
+v takom stave, v akom sa javia v súčasnosti. (Čunderlíková, 2016).
+U chorých s demenciou sa môžu objaviť nasledovné ťažkosti:
+▪
+
+Zábudlivosť
+
+Býva postihnutá krátkodobá pamäť, niektoré veci si pamätajú len pár minút. Pamäť pre
+staršie udalosti býva zachovaná, chorý si pamätá na staré udalosti, pokiaľ sa demencia
+nezhoršuje. Býva zhoršená koncentrácia, aj pozornosť.
+▪
+
+Blud prenasledovania
+
+Ľudia s demenciou mávajú často pocit, že im chce niekto ublížiť. Pri hľadaní vecí, ktoré
+nemôžu nájsť, obviňujú druhých ľudí.
+▪
+
+Porucha reči
+
+Pri poruche reči chorí často hľadajú vhodné slová, lebo nedokážu pomenovať predmety.
+▪
+
+Depresie
+
+Nie zriedka sa objavuje skleslá nálada, smútok a depresívne stavy, ktoré sa sčasti dajú
+vysvetliť tým, že chorý vníma svoju situáciu a nevie ju spracovať.
+▪
+
+Zhoršenie praktických spôsobilostí
+
+Často sa u chorých objavujú ťažkosti s vykonávaním jednoduchých úkonov, ako je
+obliekanie, umývanie, kedy sa chorý nevie o seba postarať.
+18
+
+▪
+
+Zmeny osobnosti alebo schopnosti úsudku
+
+U niektorých chorých býva neprimerané správanie, ktoré vedie až k neprimeranej situácii.
+Bývajú hrubí voči ľuďom, na ktorých sú nie zriedka odkázaní. V ťažkých prípadoch
+dochádza až k zmenám osobnosti. Zmienené symptómy sa nemusia vyskytovať stále,
+niekedy je postihnutý zmätený, inokedy je pri jasnom vedomí. Chorí sú často odkázaní na
+pomoc rodiny. Niekedy je nutné umiestniť chorého do sociálneho zariadenia, aby mu bola
+poskytnutá adekvátna starostlivosť. (Trenckmann, Bandelow, 2005).
+▪
+
+Narušená komunikácia s chorým trpiacim demenciou
+
+Na začiatku každej komunikácie s chorým ho treba osloviť menom, aby sme sa uistili, že
+nám venuje svoju pozornosť. Na chorého hovoríme pomaly, ak reaguje negatívne alebo je
+nervózny, nezačíname spor a vyhneme sa dohováraniu. (J. M. Zgola,1999).
+Príčinou komunikačných problémov u chorého bývajú poškodené svaly na tvári a krku (pri
+Parkinsonovej a Huntingtovovej chorobe). Pri starostlivosti je veľmi dôležitý kontakt
+s chorým, ako je potrasenie rukou, ktoré pomáha zamerať jeho pozornosť. Dôležité je
+vyhnúť sa hádkam, ktoré často vedú k zhoršeniu zdravotného stavu. (E.H. Janosiková,
+J.L.Daviesová,1999).
+Zásady komunikácie s dementným pacientom:
+▪
+
+Trpezlivosť
+
+▪
+
+Na úvod každého rozhovoru očný kontakt a dotyk
+
+▪
+
+Znížiť tón hlasu
+
+▪
+
+Hovoriť pomaly a zrozumiteľne na chorého
+
+▪
+
+Používať krátke a najmä jednoduché vety
+
+▪
+
+Neklásť naraz veľa otázok
+
+▪
+
+Opakovať informácie
+
+▪
+
+Pri zlyhaní všetkých možností použiť fyzické prejavy, ako je objatie chorého,
+držanie za ruku. (Michalková, Šimončičová, 2006).
+
+19
+
+2.5 PORUCHY A PROBLÉMOVÉ SPRÁVANIE U KLIENTA S DEMENCIOU
+
+S poruchou pamäti sú spojené aj zmeny v správaní u chorého, ktoré je označované ako
+problémové správanie. Objavuje sa v druhej fáze demencie. U chorého je to slovná, ale aj
+fyzická agresivita, ale aj zmeny v psychických prejavoch. (M. Hauke a kolektív, 2017).
+„Poruchy správania sú súčasťou širšieho syndrómu , ktorý sa nazýva BPSD
+(BehavioralandPsychologicalSymptoms of Dementia)“, (Pidrman,2007, s.79).
+BPSD zahrňuje veľa symptómov, ako je výskyt halucinácií, poruchy bežných činností
+denného života, zmeny nálad, výskyt bludov, ale aj poruchy spánku a bdenia.
+(Pidrman,2007).
+Najčastejšie ide o tieto formy problémového správania:
+▪
+
+Halucinácie a bludy - najčastejšie ide o zrakové halucinácie, ale môžu byť
+vyvolané aj iným zmyslovým orgánom. Ak chorý trpí halucináciami, príčinou
+môže byť kombinácia liekov, ktoré chorý užíva. (J.Brackeyová,2019). Chorý máva
+bludné predstavy, že mu bude ublížené, že sú mu odcudzené veci, nepoznáva svoj
+domov a chce, aby ho vrátili naspäť domov, odkiaľ prišiel. Hrozí riziko poranenia
+a manipulovanie s vecami, ktoré môžu byť pre chorého nebezpečné.
+
+▪
+
+Blúdenie - je prejav, ktorý môže mať viaceré príčiny, ako je nuda, napätie, hlad,
+bolesť, dezorientácia alebo aj pocit samoty. Blúdenie môže byť aj príčinou, aby
+chorý uspokojil svoje základné potreby, ako je hľadanie potravy, tekutín, použitie
+toalety, pričom blúdenie môže byť aktívne, kedy niečo hľadá, alebo pasívne, ktoré
+je ovládateľné a súvisí s roztržitosťou chorého. V prostredí, ktoré chorý pozná,
+blúdi bezpečne a neohrozuje seba, ani ostatných.
+
+▪
+
+Narušené vnímanie reality – má potrebu unikať z reality, menej si uvedomuje
+svet okolo seba. Dezorientovanosť býva vyššia v noci ako cez deň, umiestnenie
+chorého do cudzieho prostredia môže predlžovať dezorientáciu v čase ale aj
+priestore. Opätovné ubezpečovanie a podpora chorého sú veľmi dôležité.
+
+20
+
+▪
+
+Nedostatočná sebaopatera – Včasná strata sebaopatery je pre chorého nepríjemná,
+najmä v začiatkoch ochorenia. Treba vyčleniť, ktoré z úkonov vie chorý vykonať
+sám a pri ktorých potrebuje pomoc. Inkontinencia si vyžaduje osobitnú pozornosť,
+patrí medzi jeden z hlavných dôvodov, pre ktorý je chorý umiestnený do sociálneho
+zariadenia. (E. H. Janosíková , J. L. Daviesová, 1999).
+
+▪
+
+Agresivita – môže byť verbálna (krik, nadávky) alebo fyzická. Agresivita
+u chorého trpiaceho demenciou sa líši od agresivity zdravých ľudí. Býva reakciou
+na situáciu, ktorej nerozumie a nevie si ju vysvetliť. Chorý, ktorý je agresívny, sa
+bráni, najmä v situácii, ktorú nepozná. (M. Hauke, 2017).
+
+2.6 FÁZY DEMENCIE
+
+Rozlišovanie jednotlivých fáz a prejavov u chorého je dôležité z pohľadu komunikácie
+a prístupu k človeku s demenciou, ktoré bývajú v určitých fázach odlišné. Demencia
+prechádza tromi fázami:
+▪
+
+prvá fáza – mierna demencia
+
+Začínajúca demencia u chorého je charakterizovaná poruchou pamäti. Zábudlivosť sa
+začne prejavovať u chorého skoro každý deň. Neskôr je narušená krátkodobá pamäť.
+Chorý sa nedokáže orientovať v novom prostredí, nevie si zapamätať nových ľudí, len
+ťažko sa učí nové veci, horšie si spomína na niektoré slová, sebestačnosť a niektoré úkony
+zostávajú zachované. Chorý si však uvedomuje, že robí chyby, prežíva neúspechy
+a z obavy pred ďalším zlyhaním sa snaží zodpovednosť hodiť na druhých. Je schopný
+naďalej bývať doma, ale potrebuje neustálu kontrolu.
+▪
+
+druhá fáza – rozvinutá demencia
+
+Býva narušená dlhodobá pamäť, kedy je chorý dezorientovaný miestom, aj časom. Chorý
+nevie, aký je deň, aké je ročné obdobie, odchádza často z domu a vracia sa na miesta zo
+svojej mladosti. Nie je schopný vykonávať základné aktivity denného života, pri
+sebaobslužných činnostiach potrebuje pomoc iného. Komunikácia je narušená, chorý ťažko
+21
+
+hľadá aj základné slová. Objavujú sa poruchy v oblasti správania, halucinácie, agresivita,
+chorý má prevrátený režim dňa s nocou, stráca schopnosť kontrolovať emócie. Často sa
+objavuje inkontinencia, môže bývať v domácom prostredí, ale musí byť neustále pod
+dohľadom.
+▪
+
+tretia fáza – ťažká demencia
+
+Postihnutá osoba už nie je schopná vykonávať žiadne sebaobslužné činnosti. Komunikácia
+sa postupne zhoršuje, chorý nerozumie slovám a ani ich nevie používať. Častým
+príznakom je porucha príjmu potravy a tiež prehĺtanie. Je úplne inkontinentný. Chorý
+vykonáva stereotypné pohyby rukami. V závere života je pripútaný na lôžko, nie je možné
+s ním nadviazať kontakt a je závislý od ošetrovateľskej starostlivosti. (M. Hauke
+a kolektív, 2017).
+Pri postupnom zhoršení príznakov demencie je sebestačnosť chorého človeka poklesnutá.
+Chorý si vyžaduje pomoc pri denných aktivitách, stravovaní, kúpaní a hygiene. Podľa
+aktuálneho stavu chorého je potrebné, aby sa zapájal do aktivít bežného života. Trpezlivo
+mu vysvetľovať jednotlivé kroky, pochváliť ho za úspešne zvládnutú činnosť, či snahu.
+(Čerňanová, 2011).
+
+2.7 DIAGNOSTIKA DEMENCIE
+
+Diagnostika sa stanovuje na základe klinických a laboratórnych vyšetrení. Pri
+laboratórnych vyšetreniach je cieľom vylúčiť ochorenia, ktoré majú podobné príznaky ako
+demencia ( napr. vylúčiť ochorenie štítnej žľazy, úroveň hladiny tukov v krvi, krvný
+obraz). V diagnostike je dôležité okrem psychopatologických príznakov a typického
+priebehu, zistiť aj atrofiu mozgu, či chýbanie iných príčin (intoxikácie, traumy, vaskulárne
+príčiny). CT (počítačová tomografia) vyšetrenie mozgu alebo MR (magnetická rezonancia)
+prispieva k spresneniu diagnózy. Pri diferenciálnej diagnóze je tiež dôležité globálne
+postihnutie psychických funkcií, nález difúznej atrofie mozgu pri vyšetreniach ako je PET
+(pozitrónová emisná tomografia) alebo CT. (Kafka a kol.1993).
+
+22
+
+Vyšetrenie kognitívnych funkcií:
+Je zamerané na vyšetrenie prostredníctvom orientácie v čase, mieste a osobe, vyšetrenie
+pamäti, schopnosti počítať a sústrediť sa. U chorých sa využívajú skupinové stretnutia
+alebo skupinové terapie, pri ktorých sa využíva posilnenie atmosféry akceptácie a znižuje
+sa úzkosť. Štandardy akceptácie si pacienti rozhodujú sami a s narastajúcou dôverou sa
+vedia porozprávať o svojich pocitoch a problémoch. (Janosiková, Daviesová, 1999).
+U chorého je hlavným cieľom dosiahnuť možnú mieru sebestačnosti.
+K hodnoteniu sebestačnosti slúži:
+•
+
+Bartelov test základných denných aktivít ADL (Aktivity dailyliving), bol vyvinutý
+pre dlhodobo hospitalizovaných pacientov. (Boriková, 2010, príloha č.1).
+
+•
+
+Stupnica na meranie bolesti pri pokročilej demencii (PAINAD) (Príloha č. 2)
+
+•
+
+Stupnica hodnotenia psychického zdravia (Príloha č. 3)
+
+•
+
+Skrátený mentálny bodovací test, stupnicu hodnotenia psychického zdravia
+a stupnicu na meranie bolesti pri pokročilej demencii. (Príloha č. 4).
+
+•
+
+Test inštrumentálnych všedných činností IADL – slúži na posudzovanie
+nezávislých činností počas bežného života. Obsahuje 8 oblastí, pričom sú ženy
+hodnotené vo všetkých 8 oblastiach a muži len v 5 oblastiach. (Boriková, 2010,
+príloha č.5).
+
+•
+
+Skríningový test na určenie rizika pádu (Príloha č. 6)
+
+•
+
+Katzov index nezávislosti – bol vytvorený pre potreby v domovoch dôchodcov
+a tvorí 6 oblastí denných aktivít ako je kúpanie, obliekanie, používanie toalety,
+pohyblivosť, stravovanie a kontinencia. ( Žiaková, 2003,príloha č. 7).
+
+•
+
+Bristolská škála foriem stolice. (Príloha č. 8).
+
+2.8 LABORATÓRNE VYŠETRENIA
+
+Medzi základné laboratórne vyšetrenia patria:
+▪
+
+FW, Krvný obraz + diferenciál, mineralogram, glykémia, pečeňové testy, urea,
+kreatinín,
+
+▪
+
+Sérologické testy na BWR, HIV, boreliózu
+
+▪
+
+Moč + sediment
+23
+
+▪
+
+Hormóny štítnej žľazy, kortizol
+
+▪
+
+Vit. B12, kyselina listová v sére
+
+▪
+
+Hladiny liekov v krvi (digoxin, antiepileptiká, hypnotiká, analgetiká).
+
+▪
+
+Vyšetrenie ťažkých kovov v krvi
+
+▪
+
+Toxikologický screening pri podozrení na abúzus liekov
+
+▪
+
+Meď v sére a moči
+
+▪
+
+Vyšetrenie mozgovo-miechového moku chorého
+
+Odborné vyšetrenia:
+▪
+
+Interné vyšetrenie
+
+▪
+
+Neurologické vyšetrenie– EEG (elektroencefalogram)
+
+▪
+
+Vyšetrenie očného pozadia
+
+▪
+
+Psychiatrické a psychologické vyšetrenie ( Hrdlička M, Hrdličková D, 1999).
+
+2.9 LIEČBA DEMENCIE
+
+Čím skôr je choroba diagnostikovaná a zaháji sa liečba, tým skôr sa dostaví zmiernenie jej
+priebehu. Liečbu môžeme rozdeliť na farmakologickú a nefarmakologickú.
+
+2.9.1 Farmakologická liečba
+
+Farmakologická liečba spočíva v podávaní neuroleptík, ktoré u chorého zmierňujú najmä
+agresivitu a nepokoj. Ďalej sa využívajú hypnotiká, ktoré sa podávajú pri poruche spánku.
+Pri depresívnych stavoch, ktorými chorý trpí, sa podávajú antidepresíva a anxiolytiká,
+ktoré tlmia úzkosť. (G. Barčáková, 2016). V posledných rokoch boli vyvinuté lieky, ktoré
+sa používali pri demencii (napr.Tarcin, donepezil, memantin, rivastigmin). Tieto lieky však
+nedokázali prinavrátiť duševné schopnosti. Dochádza len k zlepšeniu zdravotného stavu,
+ale tiež u niektorých nenastáva takmer žiadny účinok.
+
+24
+
+▪
+
+Tarcin – liek, ktorý sa skúmal u chorých s ľahkou alebo strednou Alzheimerovou
+demenciou, 20-30% chorých malo zlepšený zdravotný stav. K vedľajším účinkom
+patrila záťaž pečene a zažívacieho traktu.
+
+▪
+
+Donepezil– liek, ktorý vedie k zlepšovaniu duševných schopností. Medzi vedľajšie
+účinky patrí nespavosť, nevoľnosť, vracanie a hnačka.
+
+▪
+
+Rivastigmin – pri užívaní dochádza k zlepšeniu alebo stabilizácii denných aktivít.
+K vedľajším účinkom patria sladkosti, pokles na váhe, ospalosť, vracanie, ale aj
+nevoľnosť.
+
+▪
+
+Iné medikamenty ako sú piracetam alebo pyritinol, môžu taktiež pomôcť pri liečbe
+demencie.(U. Trenckmann, B.Bandelow, 2005).
+
+2.9.1
+
+Nefarmakologická liečba
+
+Nefarmakologická liečba – je tu dôležitý správny psychologický prístup k chorým.
+Zameranie je sústredené na psychoterapiu, kedy sa zameriavame na aktivity denného
+života. Dôležité je úprava prostredia, v ktorom chorý žije, úprava životosprávy
+a pravidelný denný program chorého. Dôležitá je validizácia, čo znamená špeciálna
+komunikácia s chorým a zameranie na jeho vnútorné prežívanie. U chorého sa
+zameriavame na reminiscenčnú terapiu, ktorá slúži na vybavovanie si spomienok
+z minulosti. Zameriavať sa môžeme aj na hry s pamäťou alebo aj tanečnú terapiu.(G.
+Barčáková, 2016).
+Výživa a problémy s ňou spojené sa u chorých trpiacich demenciou vyskytujú často. Hrozí
+riziko podvýživy a chudnutie, ktoré zhoršujú prognózu ochorenia, hrozí zvýšené riziko
+infekcie, pádov a zlé hojenie rán. Pri pokročilom štádiu ochorenia hrozí u chorého
+dehydratácia. Chorí, ktorí trpia Alzheimerovým ochorením neustále chudnú, naopak
+u vaskulárnej demencie prevláda obezita, poruchy žuvania a prehĺtania.
+Orientácia v realite – cieľom je prístup, ktorý sa sústredí na problémy orientácie
+u chorého a dosiahnuť tým, aby osoba, ktorá je v kontakte s chorým dokázala mu
+poskytnúť také informácie, aby sa chorý vedel zorientovať v realite. Takáto orientácia
+môže prebiehať individuálne alebo skupinovo. Pri skupinovej terapii je 3-6 pacientov
+a vykonáva sa 5x týždenne, kedy sa používajú rôzne obrázky, predmety, aby sa zapojili
+kognitívne funkcie a zapojenie všetkých zmyslov.
+25
+
+Ergoterapia- je zameraná na sebestačnosť a vedenie k sebaobslužným činnostiam. Cieľom
+je, aby chorý robil aktivity denného života sám. Ergoterapia sa musí aplikovať citlivo a v
+rámci možností chorého.
+Arteterapia- je terapia zameraná na liečbu umením a to aj hudbou, poéziou, tancom, ale aj
+výtvarným umením. Ide o umelecké techniky, ktoré majú za cieľ zmeniť sebahodnotenie
+človeka, zvýšiť sebavedomie.
+Muzikoterapia- jej účinkom je dosiahnuť relaxáciu pri aktivitách denného života
+a podporiť tým psychickú pohodu, ale využíva sa aj spev, počúvanie ľudových piesní, hra
+na hudobný nástroj, ale aj počúvanie klasickej hudby.
+Reminisančná (spomienková) terapia- pri terapii sa využíva vybavovanie spomienok.
+Terapia môže byť skupinová alebo aj individuálna. Cieľom je zlepšiť stav chorého, ale aj
+posilniť ľudskú dôstojnosť a zlepšiť komunikáciu s chorým. Pri terapii sa využíva
+rozprávanie príbehov, prezeranie starých fotografií a rozprávanie o nich, ale aj rôzne
+aktivity. (Martinková, 2017).
+
+26
+
+3 KOMPLEXNÁ OŠETROVATEĽSKÁ STAROSTLIVOSŤ
+
+3.1 DEFINÍCIA A KROKY OŠETROVATEĽSKÉHO PROCESU
+
+„Ošetrovateľský proces je systematická, racionálna metóda plánovania a poskytovania
+ošetrovateľskej starostlivosti. Jeho cieľom je zhodnotiť pacientov zdravotný stav, jeho
+skutočné či potenciálne problémy starostlivosti o zdravie, vytýčiť plány na zhodnotenie
+potrieb a poskytnúť špecifické ošetrovateľské zásahy na uspokojenie týchto potrieb.“
+(Kozierová, 1995, s.166).
+
+Súčasťou ošetrovateľského procesu je:
+
+Posudzovanie
+Zahrňuje zber, overovanie a triedenie údajov o pacientovom zdravotnom
+
+stave.
+
+Základnými podmienkami posudzovania je zručnosť v pozorovaní, komunikácii, vedení
+rozhovoru a aj fyzikálne vyšetrenie.
+
+Ošetrovateľská diagnostika
+Je proces vyúsťujúci do diagnostického záveru či sesterskej diagnózy. Sesterská diagnóza
+je záverom narušení zdravotného stavu pacienta. Sestra triedi a zoskupuje údaje a zisťuje,
+aké sú pacientove skutočné, alebo potencionálne zdravotné problémy. Proces, ktorý sa
+používa na stanovenie sesterskej diagnózy, sa nazýva analýza. Aktuálny zdravotný
+problém je taký, ktorý v danom momente existuje.
+Sesterské diagnózy pri demencii:
+A 100 Narušená adaptácia jednotlivca
+P 100 Narušená pamäť
+P 101 Zmena poznávacích funkcií
+P 102 Zmenený myšlienkový proces
+27
+
+P 103 Zmenený psychický stav
+P 107 Zmena správania
+Z 100 Zmenené vnímanie chutí
+Z 102 Zmenené vnímanie čuchu
+Z 104 Zmenené sluchové vnímanie
+Z 108 Zmenené zrakové vnímanie
+S 115 Deficit sebaopatery v aktivitách denného života ( Vyhláška č.306/2005).
+
+Plánovanie
+Je séria krokov, v ktorých si sestra a pacient určujú priority, zaznamenávajú ciele, výsledky
+a do písomného plánu zaznamenávajú odstránenie, či zmenšenie zistených problémov
+pacienta a starostlivosť, ktorú poskytujú všetci členovia ošetrovateľského tímu.
+
+Realizácia
+Znamená vykonanie ošetrovateľských činností na dosiahnutie želaného výsledku, či
+pacientových cieľov. Sestra zhromažďuje údaje, vykonáva predpísané ošetrovateľské
+činnosti, poveruje starostlivosťou iných členov ošetrovateľského tímu o príslušné osoby
+a schvaľuje plán starostlivosti. Naďalej pokračuje v zbere dát, ktorý má význam z hľadiska
+sledovania zmien v zdravotnom stave pacienta, ale aj pre stanovenie ďalších cieľov, čo je
+dôležité pre ďalšiu fázu. Pri schvaľovaní plánu sestra uzavrie, či sa rešpektovali pacientove
+priority, či sú plánované ošetrovateľské činnosti realistické, či pacientovi pomáhajú
+dosiahnuť výsledky a ciele.
+
+Vyhodnotenie
+Je posúdenie pacientovej reakcie na ošetrovateľské zásahy a na porovnanie so stanovenými
+princípmi. Tieto princípy sa označujú ako výsledné kritériá. Sestra zisťuje, či sa ciele
+28
+
+splnili, splnili čiastočne, alebo nesplnili vôbec. Ak sa stanovené ciele nesplnili, treba plán
+revidovať. Táto fáza sa môže týkať hociktorej z predchádzajúcich fáz ošetrovateľského
+procesu.(Kozierová, Erbová, Olivierová, 1995).
+
+3.2 MODEL FUNKČNÝCH VZORCOV ZDRAVIA PODĽA M. GORDONOVEJ
+
+Model je výsledkom grantu, ktorý v 80. rokoch minulého storočia financovala federálna
+vláda USA. Autorkou modelu funkčných vzorcov zdravia je Dr. Marjory Gordonová.
+Narodila sa 10.11.1931 v Clevelande v štáte Ohio. Bakalárske a magisterské tituly získala
+na HunterCollege z City University v New Yorku a doktorát na Boston College. M.
+Gordonová pôsobila od roku 1973 ako prvá prezidentka Severoamerickej asociácie
+ošetrovateľskej diagnostiky (NANDA) do roku 1988. Od roku 1977 pôsobila ako
+členka Americkej akadémie ošetrovateľstva a rovnaká organizácia ju v roku 2009 označila
+za žijúcu legendu. Významne prispela k rozvoju štandardizovaného ošetrovateľského
+jazyka, ktorý bude tiež tvoriť základ ošetrovateľskej zložky elektronického lekárskeho
+záznamu. Marjory Gordonová zomrela 29. apríla 2015.
+V roku 1974 M. Gordonová identifikovala 11 okruhov vzorcov správania. V roku 1987
+publikovala Model funkčných vzorcov zdravia.
+Obsah a koncepcie modelu
+
+Model je odvodený z interakcií osoba - prostredie. Jedincov zdravotný stav je prejavom
+bio- psycho- sociálnej interakcie. Pri kontakte s klientom sestra identifikuje funkčné
+a dysfunkčné vzorce zdravia.
+
+Vzorce
+Sú časti správania sa jednotlivca v určitom čase a zastupujú základné ošetrovateľské údaje
+a to v subjektívnej a objektívnej podobe. Model tvorí 12 oblastí, ktoré sú označované
+29
+
+autorkou ako 12 funkčných vzorcov zdravia. Každý zo vzorcov predstavuje časť zdravia,
+ktorá je funkčná alebo dysfunkčná.
+
+Dvanásť vzorcov zdravia M. Gordonovej:
+1. vnímanie zdravia - udržiavanie zdravia, vnímanie zdravia a pohody u ľudí a spôsob, ako
+sa starať o svoje zdravie,
+2. výživa – metabolizmus, ktorým poukazuje na spôsob príjmu potravy a tekutín a vzťah
+k metabolickej potrebe organizmu,
+3. vylučovanie – obsahuje funkciu čriev, kože a močového mechúra,
+4. aktivita – cvičenie, ide o udržiavanie telesnej kondície a to cvičením alebo aktivitami
+denného života, voľného času,
+5. spánok – odpočinok, ide o spôsob spánku a oddychu,
+6. citlivosť a poznávanie je schopnosť zmyslového vnímania a poznávania, vrátane bolesti
+a poznávacích schopností, ako sú reč, pamäť, myslenie a orientácia,
+7. sebaponímanie – sebaúcta je spôsob, ako jedinec vníma sám seba a akú ma predstavu
+o sebe samom,
+8. úloha – vzťahy sa zaoberajú medziľudskými vzťahmi a plnením rolí v živote,
+9. reprodukcia a sexualita – zaoberá sa sexualitou a reprodukčným obdobím,
+10. stres, záťažové situácie – zvládanie, tolerancia, ktorá sa zaoberá zvládaním stresových
+situácií a celkovým spôsobom tolerancie,
+11. viera a životné hodnoty – vnímanie životných hodnôt, cieľov a presvedčení, vrátane
+viery
+12.iné
+Opis a hodnotenie 12 vzorcov zdravia podľa M. Gordonovej, umožňuje sestre odlišovať, či
+ide u klienta o správanie funkčné a to v zdraví alebo správanie dysfunkčné, teda
+v chorobe.
+30
+
+Pri posudzovaní vzorcov M. Gordonová navrhuje, aby pri vykonávaní sestra porovnávala
+údaje s nasledujúcimi zložkami:
+▪
+
+Individuálny východiskový stav
+
+▪
+
+Stanovené normy pre istú rizikovú skupinu
+
+▪
+
+Kultúrne a spoločenské normy (Pavlíková, 2007).
+
+31
+
+PRAKTICKÁ ČASŤ
+4 KOMPLEXNÁ OŠETROVATEĽSKÁ STAROSTLIVOSŤ
+O PACIENTA S DG. POLYETIOLOGICKÁ DEMENCIA PODĽA
+GORDONOVEJ MODELU
+
+4.1 OŠETROVATEĽSKÁ ANAMNÉZA
+
+Meno a priezvisko: J. V.
+Dátum narodenia: xx.xx.1947
+Rodinný stav: slobodný
+Bydlisko: Piešťany
+Najbližší príbuzný: sestra Mária
+Doprovod : so sestrou
+Zamestnanie: dôchodca
+Dátum prijatia: 19.4.2007
+Pohlavie: muž
+Vek: 71
+Štátna príslušnosť: SR
+Číslo poisťovne: 25 - 09
+Vzdelanie: SOU poľnohospodárske bez maturity
+Účel prijatia: stabilizovanie zdravotného stavu
+
+Lekárska diagnóza:
+Polyetiologická demencia
+32
+
+Zlomenina krčka stehennej kosti, subkapitálna
+Benígna primárna artériová hypertenzia
+Liečba celková:
+Chlorprotixen 15mg 0-2-0
+Chlorprotixen 50mg 1V
+Losartan 50mg 1R
+Anopyrin 100mg 1R
+Duphalac 15ml 1R
+Plánované ordinácie:
+Diéta č.3 racionálna
+TK, P, sledovať 1xdenne
+Zvýšiť príjem tekutín
+Sledovať pacienta!
+
+Vitálne funkcie:
+TK: 125/80 mmHg – normotenzia
+P: 70/ min, pravidelný, plný – normokardia
+D: 20/ min.
+TT: 36,8° C
+Výška: 163cm
+Hmotnosť: 50kgBMI: 18,8
+Zber informácií dňa 14.12.2020
+Anamnéza získaná od sestry klienta a zo zdravotnej dokumentácie.
+33
+
+Štandardizovaným
+
+rozhovorom,
+
+objektívnym
+
+pozorovaním,
+
+obsahovou
+
+analýzou
+
+dokumentov a z fyzikálneho vyšetrenia.
+
+KAZUISTIKA
+
+Muž 71 ročný, prijatý do zariadenia sociálnych služieb Clementia Kovarce dňa 19.4.2007
+z domu. Po ukončení základnej školy sa vyučil ako mechanizátor a pracoval ako pomocník
+na Jednotnom roľníckom družstve. Bol alkoholik, popíjal s kamarátmi, príbuzní ho
+hodnotili ako nezvládateľného. Často holdoval alkoholu, býval dezorientovaný, pre opitosť
+ho zrazilo auto. Opakovane preliečený vo Veľkom Záluží pre závislosť od alkoholu,
+delirantné stavy a alkoholickú demenciu. Klient je slobodný, má 6 súrodencov. Otec
+bývalý alkoholik, zomrel na Náhlu cievnu mozgovú príhodu. Býval s matkou a sestrou,
+nezvládnuteľný, neustále utekal z domu. Matka zomrela, liečila sa na Diabetes mellitus. Zo
+šiestich súrodencov o neho prejavuje záujem iba jedna sestra, ktorá ho chodí pravidelne
+navštevovať. V detstve prekonal bežné detské ochorenia. Nedávno utrpel úraz, kde bol
+postrčený iným klientom a utrpel zlomeninu krčka stehennej kosti. Klient sa momentálne
+pohybuje pomocou invalidného vozíka. Klient je nastavený na psychiatrickú liečbu, kde
+pravidelne užíva lieky pod dozorom personálu v drvenej forme. Klient je samotár, nemá
+záujem o aktivity a spoločnosť.
+
+4.2 OŠETROVATEĽSKÁ ANAMNÉZA PODĽA M. GORDONOVEJ
+
+1. Vnímanie zdravia - riadenie zdravia:
+Stav zdravia
+Sub: „Som slabý, nedá sa mi chodiť, bolí ma celé telo.“
+Obj: Klient bol prijatý do zariadenia Clementia Kovarce s diagnózou Polyetiologická
+demencia.
+34
+
+Prekonané ochorenia:
+Sub: „Neviem, nepamätám sa, bolo to už veľmi dávno.“
+Obj: Podľa záznamov v zdravotnej dokumentácii klient prekonal TBC pľúc, úraz hlavy.
+Hospitalizácie: Opakovane bol klient hospitalizovaný v psychiatrickej liečebni Veľké
+Zálužie.
+Abúzy: klient nefajčí, nepije kávu, prístup k alkoholu, ani k drogám nemá.
+Alergia:
+Sub: „Alergiu nemám na nič.“
+Obj: Podľa záznamov v zdravotnej dokumentácii, klient nemá alergiu ani na lieky, ani na
+žiadne potraviny.
+Preventívne prehliadky:
+Sub: „Ja nepotrebujem žiadneho lekára.“
+Obj: Podľa záznamov v zdravotnej dokumentácii preventívne prehliadky pravidelne
+absolvuje.
+Príčina vzniku ochorenia – máte dostatok informácií o správnej životospráve
+a poznáte svoje ochorenie
+Sub: „Som chorý, musím byť tu, aby som neublížil svojej sestre.“
+Obj: Klient nemá dostatok informácií o svojom ochorení, z dôvodu svojej diagnózy.
+
+2. Výživa a metabolizmus:
+Chuť do jedla
+Sub: „Nie som hladný.“
+Obj: Klient odmieta obed, stravu prijíma v malých porciách.
+Príjem potravy - množstvo, počet dávok
+
+35
+
+Sub: „Pred chvíľou som raňajkoval, nechcem obed.“
+Obj: Klient odmieta stravu, udáva nechutenstvo. Má racionálnu diétu č.3. Odmieta obed.
+Požiadavky na jedlo
+Sub: „Chleba na vajíčku.“
+Obj: Požiadavku nie je možné splniť z dôvodu vysokého počtu klientov v zariadení.
+Telesná hmotnosť
+Sub: „Neviem, som chudý.“
+Obj: Podľa indexu BMI váha v norme.
+Zmena telesnej hmotnosti
+Sub: „Ja som stále rovnaký.“
+Obj: Podľa zdravotnej dokumentácie si klient udržiava svoju stálu telesnú hmotnosť.
+Ťažkosti pri žuvaní
+Sub: „Pri žuvaní nemám ťažkosti.“
+Obj: Klient sa na ťažkosti pri žuvaní nesťažuje.
+Prehĺtanie
+Sub: „Nemám problém pri prehĺtaní.“
+Obj: Klient neudáva ťažkosti pri prehĺtaní.
+Chrup
+Sub: „Ešte mám zuby.“
+Obj: Podľa záznamu zo zdravotnej dokumentácie, klient navštevuje stomatologickú
+ambulanciu iba pri bolesti zubov.
+Spôsob prijímania potravy
+Sub: „Najem sa sám.“
+
+36
+
+Obj: Klient prijíma stravu Per os.
+Forma stravy
+Sub: „Mám normálny obed.“
+Obj: Racionálna strava.
+Príjem tekutín za 24hodín
+Sub: „Nie som smädný.“
+Obj: Klient prijíma za 24hod. asi 1,5l tekutín Per os.
+Druh tekutín
+Sub: „Vypijem to, čo dostanem.“
+Obj: Čaj, voda.
+Stav slizníc
+Sub: „Mám suchý jazyk.“
+Obj: Sliznice suché, ružové
+Stav kože
+Sub: „Kožu mám normálnu.“
+Obj: Bez ikteru a cyanózy.
+Telesná teplota
+Sub: „Nemám teplotu.“
+Obj: 36,6°C
+Výška
+Sub: „Som malý.“
+Obj:163cm
+Užívanie liekov
+37
+
+Sub: „Lieky užívam každý deň.“
+Obj: Klient užíva lieky podľa ordinácie lekára v drvenej forme
+
+3. Vylučovanie
+Spôsob vylučovania
+Sub: „Chodím na záchod.“
+Obj: Klient chodí na WC s doprovodom personálu
+Stolica – ako často
+Sub: „Na záchod chodím málo.“
+Obj: Klient máva často zápchu.
+Farba stolice
+Sub: „hnedá“
+Obj: Hnedá, bez prímesí.
+Konzistencia stolice
+Sub: „Normálna .“
+Obj: Tvrdej konzistencie
+Použitie pomocných prostriedkov k vyprázdňovaniu stolice /lieky/
+Sub: „Dávajú mi sirup.“
+Obj: Podľa zdravotného záznamu sa klientovi podávajú lieky na obstipáciu - laxatíva.
+Vylučovanie moču
+Sub: „Chodím na WC.“
+Obj: Klient chodí na WC s pomocou personálu.
+Farba moču
+38
+
+Sub: „Žltá.“
+Obj: Žltý, bez prímesi krvi.
+Používanie pomôcok pri močení
+Sub: „Nič.“
+Obj: Žiadne.
+Potenie, zápcha
+Sub: „Cez leto sa potím a mám problém s chodením na záchod.“
+Obj: Klient má problémy so zápchou.
+
+4. Aktivita – cvičenie
+Frekvencia a rytmus dýchania
+Sub: „Dýcham normálne.“
+Obj: Pravidelné dýchanie.
+Typ a hĺbka dýchania
+Sub: „Normálne.“
+Obj: Pravidelné dýchanie, 20 dychov za minútu
+Kašeľ
+Sub: „Nekašlem.“
+Obj: Klient je bez ťažkostí.
+Srdce – akcia
+Sub: „Nemám problémy.“
+Obj: Pravidelná akcia srdca
+Kvalita a frekvencia pulzu
+39
+
+Sub: „Ja nemám.“
+Obj: Plný, dobre hmatateľný pulz.
+Chôdza
+Sub: „Nechodím, zlomili mi nohu.“
+Obj: Klient pripútaný na invalidný vozík po zlomenine krčka stehennej kosti.
+Pohybová koordinácia
+Sub: „Som slabý, unavený, nedá sa mi v noci spať.“
+Obj. Klient je vyčerpaný z nedostatku spánku, má obmedzený pohyb.
+Úroveň sebaopatery
+Klasifikácia funkčnej úrovni:
+Úroveň 0 – úplná nezávislosť
+Úroveň 1 – používa pomôcky
+Úroveň 2 – potrebuje dohľad inej osoby
+Úroveň 3 – potrebuje pomoc, alebo dohľad inej osoby a pomôcky
+Úroveň 4 – potrebuje úplný dohľad
+Úroveň 5 – potrebuje úplnú pomoc inej osoby
+Sub: „Som slabý, potrebujem pomoc iných.“
+Obj: Klient potrebuje pomoc, alebo dohľad inej osoby pri všetkých samoobslužných
+úkonoch. Klasifikácia funkčnej úrovni – úroveň 3.
+Vnímanie sily a energie
+Sub: „Som unavený.“
+Obj: Klient býva cez deň unavený, spavý. Nácvik chôdze podľa ordinácie lekára.
+Cvičenie a typ
+
+40
+
+Sub: „Sestričky ma učia chodiť.“
+Obj: Klient má naordinovanú rehabilitáciu po zlomenine.
+
+Spôsob trávenia voľného času – oddychové aktivity
+Sub: „Čítam noviny a pozerám televízor.“
+Obj: Klient navštevuje dennú miestnosť, kde sleduje televíziu a má možnosť si prečítať
+dennú tlač.
+
+5. Spánok – odpočinok
+Nočný spánok – dĺžka, kvalita
+Sub: „V noci sa často budím, nedá sa mi spať.“
+Obj: Klient spí prerušovane, užíva lieky na spanie podľa ordinácie lekára /chlorprotixen
+50mg 1tableta pred spaním/.
+Spanie počas dňa
+Sub: „Iba niekedy spím aj cez deň.“
+Obj: Klient je unavený, cez deň spí iba občas.
+Zvyky pri zaspávaní
+Sub: „Nemám žiadne zvyky, len otvorte okno.“
+Obj: Klientovi pred spaním vždy vyvetráme izbu.
+Užívanie liekov na spanie
+Sub: „Dávajú mi tabletku.“
+Obj: Klient užíva lieky na spanie podľa ordinácie lekára.
+
+6. Vnímanie – poznanie
+41
+
+Vedomie
+Sub: „Neviem.“
+Obj: Jasné
+Orientácia
+Sub: „Ja viem, kde som.“
+Obj: Klient je čiastočne orientovaný časom, miestom, osobou.
+Sluch, kompenzačné pomôcky
+Sub: „Zle počujem, musíte na mňa kričať.“
+Obj: Klient nepoužíva žiadne pomôcky na zlepšenie sluchu, ale počuje zle.
+Čuch
+Sub: „Nemám problémy.“
+Obj: Ťažkosti neudáva.
+Hmat
+Sub: „Normálny.“
+Obj: Bez ťažkostí.
+Reč, schopnosť dorozumieť sa
+Sub: „Nemám problémy.“
+Obj: Hovorí plynule, zrozumiteľne.
+Zrak, kompenzačné pomôcky
+Sub: „Vidím dobre.“
+Obj: Klient má zrak v norme, nepotrebuje okuliare.
+Bolesť
+Sub: „Bolí ma noha, keď s ňou cvičím.“
+42
+
+Obj: Klient sa sťažuje na bolesť dolnej končatiny v súvislosti so zlomeninou. Klientovi
+podávame analgetiká podľa potreby.
+Charakter bolesti
+Sub: „Tá noha ma stále bolí.“
+Obj: Pretrvávajúca bolesť pri manipulácii s klientom.
+Reakcia na bolesť
+Sub: „Dá sa to vydržať.“
+Obj: Primeraná.
+Intenzita bolesti (škála 0 – 10)
+Sub: „Neviem.“
+Obj: Podľa správania klienta hodnota 5.
+Spôsob tlmenia bolesti
+Sub: „Keď ma bolí noha, dajú mi tabletku.“
+Obj: Podávanie analgetík, pitný režim.
+
+7. Sebakoncepcia – sebaúcta
+Typ osobnosti
+Sub: „Som rád sám.“
+Obj: Introvert.
+Nálada
+Sub: „Ako kedy.“
+Obj: Striedanie optimizmu s pesimizmom.
+
+43
+
+8. Rola – medziľudské vzťahy
+Bývanie – s kým žije
+Sub: „Bývam v ústave.“
+Obj: Klient je umiestnený v špecializovanom zariadení.
+Vzťahy v rodine
+Sub: „Nikto ma nechce.“
+Obj: Klient sa cíti opustený, navštevuje ho iba sestra.
+Správanie sa k ľuďom, k zdravotnému personálu
+Sub: „Zamestnancov mám rád, už som si zvykol.“
+Obj: Klient je samotár, so zamestnancami sa rozpráva len na vyzvanie.
+Návštevy rodiny, priateľov
+Sub: „Chodí za mnou sestra.“
+Obj: Klienta navštevuje len sestra.
+9. Sexualita – reprodukčná schopnosť
+Muž
+Sub: „Ja som už starý.“
+Obj: Klient nežije sexuálnym životom.
+Počet detí
+Sub: „Ja nemám deti.“
+Obj: Klient nemá žiadne deti.
+
+10. Stres, zvládanie, tolerancia
+Hospitalizácia – vyvoláva stres, náladu, reakciu na ochorenie
+44
+
+Sub: „Bývam v ústave, ale bol som v nemocnici, nepoznal som to tam, cítil som sa tam
+zle.“
+Obj: Klient komunikuje veľmi málo, nejaví záujem o okolie.
+Prejavy stresu
+Sub: „Neviem.“
+Obj: Úzkosť, napätie, strach
+Čo stres znižuje
+Sub: „Som nevyspatý, niekedy nervózny.“
+Obj: Zabezpečiť kľudný, ničím nerušený spánok.
+
+11. Viera, životné hodnoty
+Náboženské vierovyznanie, návšteva bohoslužieb
+Sub: „Nechodím do kostola.“
+Obj: Je neveriaci.
+Životné hodnoty - ich poradie
+Sub: „Chcem, aby sa mi zahojila noha, aby som nebol na vozíku.“
+Obj: Klient nemá žiadne životné priority.
+12. Iné
+Čo pre Vás môžem urobiť?
+Sub: Nič
+Obj: Klient nestojí o žiadnu pomoc.
+
+45
+
+4.3 SUMÁR PROBLÉMOV MIN. 5 PROBLÉMOV–1. ČASŤ DIAGNÓZY
+
+1. Vnímanie zdravia – riadenie zdravia
+a) Vnímanie zhoršenia svojho psychického stavu
+b) Nedostatok vedomostí o ochorení
+c) Spolupracuje podľa nálady
+2. Výživa a metabolizmus
+a) Narušený stav výživy, znížený príjem potravy
+b) Snaha o zvýšenie hmotnosti
+c) Sledovanie príjmu a výdaju tekutín.
+3. Vylučovanie
+a) Zápcha
+4. Aktivita a cvičenie
+a) Nezáujem o aktivity
+b) Rehabilitácia a nácvik chôdze
+5. Spánok – odpočinok
+a) Narušený spánok
+6. Vnímanie – poznanie
+a) Bolesť končatiny
+7. Sebakoncepcia – sebaúcta
+a) Bezmocnosť
+b) Strach
+c) Únava
+d) Úzkosť
+8. Rola – medziľudské vzťahy
+a) Narušená funkcia rodiny
+46
+
+b) Samotár
+9. Sexualita – reprodukčná schopnosť
+a) Nemá záujem o známky sexuálneho života
+10. Stres – jeho zvládnutie, tolerancia
+a) Stresový syndróm a nervozita z nedostatku spánku
+11. Viera, životné hodnoty
+a) Nemá záujem o vierovyznanie
+b) Nemá žiadne životné hodnoty.
+
+4.4 DIAGNOSTIKA, OŠETROVATEĽSKÁ DIAGNÓZA, VÝSLEDNÉ KRITÉRIÁ,
+OŠETROVATEĽSKÉ INTERVENCIE, REALIZÁCIA, VYHODNOTENIE
+
+Podľa priorít
+-
+
+00095 Narušený spánok v súvislosti s demenciou, prejavujúci sa častým budením
+v noci a nedostatkom denných aktivít počas dňa.
+
+-
+
+00108 Deficit sebaopatery v oblasti hygieny v súvislosti so zmenou zdravotného
+stavu prejavujúca sa slabosťou DK a nevedomosťou klienta aktívne sa zapájať do
+úkonov v oblasti hygieny.
+
+-
+
+00011 Zápcha v súvislosti so spomalenou črevnou peristaltikou, prejavujúce sa
+tvrdou, formovanou stolicou a pocitom plnosti a bolesti v rekte.
+
+-
+
+00152 Riziko bezmocnosti v súvislosti so stratou fungovania, prejavujúca sa
+pocitom menejcennosti a zvládaním situácie.
+
+-
+
+00091 Narušená pohyblivosť pri chôdzi v súvislosti so zlomeninou dolnej
+končatiny, prejavujúca sa celkovou slabosťou a zníženou citlivosťou v končatine.
+
+47
+
+Potencionálne diagnózy min. 2dg PE
+-
+
+00047 Riziko narušenia kožnej integrity v súvislosti s obmedzením telesného
+pohybu.
+
+-
+
+00155 Riziko pádu v súvislosti s poruchou telesnej hybnosti
+
+Ošetrovateľský plán
+
+Aktuálne diagnózy
+
+Ošetrovateľská diagnóza 1 PES
+
+00095 Narušený spánok v súvislosti s demenciou, prejavujúci sa častým budením v noci
+a nedostatkom denných aktivít počas dňa.
+Cieľ: Klient si zlepší spánok do jedného týždňa.
+Výsledné kritériá:
+VK 1: Klient zaspáva do 30min. od uloženia do postele.
+VK 2: Klient spí najmenej 6hodín bez prebudenia.
+VK 3: Klient sa neprebúdza viac ako 2krát za noc.
+VK 4: Klient hovorí, že po prebudení sa cíti odpočinutý.
+VK 5: Klient nemá objektívne príznaky nedostatku spánku počas dňa.
+VK 6: Klient opisuje faktory, ktoré mu zlepšujú spánok.
+VK 7: Klient si zníži nedostatok denných aktivít počas dňa.
+
+48
+
+Ošetrovateľské intervencie:
+SI 1: Zistiť denne v čom vidí klient subjektívnu príčinu svojho narušeného spánku.
+SI 2: Zistiť, či klient neužíva pred spaním látky obsahujúce kofeín.
+SI 3: Vyvetrať miestnosť asi 30min. pred spaním.
+SI 4: Upraviť posteľ klienta pred spaním, zabezpečiť pohodlie.
+SI 5: Zistiť, či klientovi nie je v noci zima.
+SI 6: Podať podľa ordinácie lekára lieky na spanie.
+SI 7: Zamestnať klienta dennými aktivitami v spolupráci s personálom podľa schopnosti
+klienta.
+
+Realizácia: 17.12.2020
+8:00hod. – 9:00hod. – prostredníctvom rozhovoru som zisťovala od klienta, v čom vidí
+subjektívnu príčinu narušenia svojho spánku.
+9:00hod. – 10:30hod. – v spolupráci so zdravotníckym a výchovným personálom som
+zamestnala klienta dennými aktivitami (pobyt vonku na invalidnom vozíku).
+10:30hod. – 11:00hod. – v spolupráci s fyzioterapeutom som vykonala nácvik chôdze
+klienta s pomocou chodítka.
+11:00hod. – 12:00hod. – prostredníctvom ostatných členov personálu som zisťovala, či
+klientovi v noci nie je zima.
+12:00hod. – 13:00hod. – zisťovala som od ostatných členov personálu, či klient neužíva
+látky obsahujúce kofeín a zaznamenať do zdravotného záznamu.
+13:00hod. – 15:00hod. – s pomocou výchovného pracovníka som zamestnávala klienta
+čítaním dennej tlače a sledovaním televízie.
+15:00hod. – 17:30hod. – spolu s klientom som viedla rozhovor o jeho záujmoch.
+
+49
+
+19:30hod. – je potrebné podať lieky na spanie podľa ordinácie lekára a zaznamenať do
+zdravotného záznamu.
+19:35hod. – 20:35hod. - som upravila posteľ a vyvetrala izbu.
+
+Vyhodnotenie: Cieľ sa splnil čiastočne, preto je potrebné pokračovať v stanovených
+intervenciách.
+
+Ošetrovateľská diagnóza 2 PES
+
+00108 Deficit sebaopatery v oblasti hygieny v súvislosti so zmenou zdravotného stavu
+prejavujúci sa slabosťou dolných končatín a nevedomosťou klienta aktívne sa zapájať do
+úkonov v oblasti hygieny.
+Cieľ: Klient si upraví deficit sebaopatery do 7dní.
+Výsledné kritériá:
+VK 1: Klient má vedomosti a aktívne spolupracuje pri dodržiavaní hygienickej
+starostlivosti o seba.
+VK 2: Klient si upraví slabosť dolných končatín do jedného týždňa.
+VK 3: Klient dosahuje funkčnú úroveň sebaopatery podľa Gordonovej 3 do 14dní.
+VK 4: Klient verbalizuje pocit pohody a uspokojenia s čistotou tela do jedného týždňa.
+VK 5: Klient si zmierni bolesť dolných končatín do jedného týždňa.
+Ošetrovateľské intervencie:
+SI 1: Pripraviť klienta na vykonanie hygienickej starostlivosti a kúpeľa do 15min.
+SI 2: Vysvetliť klientovi význam aktívnej spolupráce pri vykonaní hygienickej
+starostlivosti o seba.
+SI 3: Vysvetliť a ukázať klientovi ako dodržiavať správny postup pri hygiene.
+50
+
+SI 4: Pravidelne viesť ošetrovateľský záznam.
+SI 5: Vysvetliť význam hygienickej starostlivosti a povzbudiť klienta k aktívnej spolupráci
+o seba pri každodennej hygienickej starostlivosti.
+SI 6: Pochváliť klienta, hneď ako ukončí úkony v oblasti hygieny.
+SI 7: Zabezpečiť pomoc klientovi do takej miery, ako je potrebné pri vykonávaní
+hygienickej starostlivosti o seba a kúpanie.
+SI8: Spolupracovať s fyzioterapeutom na zlepšení slabosti dolných končatín podľa
+ordinácie lekára.
+SI9: Viesť klienta k samostatnosti pri udržiavaní rovnováhy pri vstávaní zo sedu do stoja.
+
+Realizácia: 31.12.2020
+6:00hod. - klientovi som vhodným spôsobom vysvetlila jeho spoluprácu pri vykonávaní
+hygienickej starostlivosti pri kúpaní.
+6:10hod. - skontrolovala som teplotu v miestnosti, aby som zabezpečila primeranú teplotu
+v rozmedzí 21 – 23° C, zatvorila som dvere, skontrolovala som, či je okno zatvorené.
+6:20hod. - zabezpečila som vhodné pomôcky na vykonanie hygieny: umývaciu emulziu,
+froté vrecko, malý uterák, pohár na vypláchnutie ústnej dutiny, mäkkú hubku a teplotu
+vody podľa želania klienta. Potom som povzbudila klienta k aktívnej spolupráci a viedla
+ho k samostatnosti.
+6:30hod. - klientovi som vysvetlila ako správne postupovať pri vykonávaní hygienickej
+starostlivosti: skontrolovať teplotu vody, pridať mydlo, vložiť froté vrecko do umývadla,
+umyť si oči od vnútorného kútika k vonkajšiemu, umyť si celú tvár a osušiť si tvár malým
+uterákom, použiť zubnú kefku a pastu.
+7:00 hod. - klienta som viedla k aktívnej spolupráci, ukázala som mu, ako si sám osuší
+tvár, ruky, aby som klienta viedla k samostatnosti.
+7:30hod. - po skončení hygieny som klienta pochválila.
+
+51
+
+Vyhodnotenie:
+Cieľ sa splnil čiastočne, preto je potrebné pokračovať v realizácii plánovaných
+ošetrovateľských intervencií.
+
+Ošetrovateľská diagnóza 3 PES
+
+00011 Zápcha v súvislosti so spomalenou črevnou peristaltikou, prejavujúca sa zníženou
+frekvenciou vyprázdňovania a pocitom bolesti v okolí konečníka.
+Cieľ: Klient si odstráni zápchu do 3 dní.
+
+Výsledné kritériá:
+VK 1: Klient má stolicu podľa Bristolskej škály foriem stolice typ 4 v priebehu 3 dní.
+VK 2: Klient nepociťuje plnosť v rekte pred vyprázdnením v priebehu 3 dní.
+VK 3: Klient cvičí 2x denne cviky brušných svalov, ktoré opakuje 10x v priebehu 3 dní.
+VK 4: Klient prijíma tekutiny asi 1-1,5l denne, ktoré pomáhajú pri vyprázdňovaní.
+VK 5: Klient má stolicu minimálne raz za 3dni.
+VK 6: Klientovi vysvetlíme, ktoré potraviny podporujú vyprázdňovanie.
+
+Ošetrovateľské intervencie:
+SI 1: Zaznamenať farbu a prípadné prímesi v stolici po každom vyprázdnení.
+SI 2: Zaznamenať u klienta symptómy spojené s črevnou pasážou: pocit plnosti v rekte 3x
+denne.
+SI 3: Zaznamenať do klientovej dokumentácie všetky defekácie.
+52
+
+SI 4: Pomáhať klientovi pri cvičení brušných svalov 1x denne, v čase o 15.00 hod.,
+o 20.00hod. a cviky opakovať 10-krát.
+SI 5: Zachovať súkromie klienta pri vyprázdňovaní, ak klient vykonáva vyprázdňovanie
+na izbe, treba vyvetrať izbu.
+SI 6: Zabezpečiť pomoc klientovi pri vyprázdňovaní, ak potrebuje pomoc.
+SI 7: Vysvetliť klientovi význam pitného režimu.
+SI 8: Podávať klientovi 300ml tekutín každé tri hodiny, v čase od 7:00 do 19:00hod.
+SI 9: Zabezpečiť klientovi potraviny, ktoré obsahujú vlákninu.
+SI 10: V spolupráci s lekárom zvážiť podávanie laxatív.
+SI 11: Sledovať kožu v okolí análneho otvoru.
+Realizácia 27.12.2020
+6:30hod. - klientovi som vysvetlila, že pre správne vyprázdňovanie je potrebné prijímať asi
+1,5 až 2 litre tekutín denne, najlepšie ráno, ako sa klient prebudí a piť nápoje ako je teplá
+voda alebo čaj, ďalej som mu vysvetlila, aby obmedzil kávu a nepil ju 15min. pred
+jedením.
+7:30hod. - klientovi som podala teplý ovocný čaj.
+9:30hod. - klientovi som podala 150ml čistej vlažnej vody.
+10:45hod. - klientovi som podala biely jogurt s ovsenými vločkami.
+11:30hod. - klientovi som podala 250ml čistej vody, sledovala som, či u klienta nenastal
+pocit plnosti v rekte.
+13:30hod. - klientovi som podala 200ml pomarančovej šťavy.
+15:15hod. - klientovi som podala 200ml čistej vlažnej vody a sledoval som, či u klienta
+nevznikli symptómy spojené s črevnou pasážou.
+16:30hod. - klientovi som podala slivkovú šťavu.
+
+53
+
+17:00hod. - klientovi som podala 200ml čistej vody a zisťovala som od klienta, či nemá
+nutkanie na stolicu.
+18:00hod. - zaznamenala som do klientovej dokumentácie: klient málen mierny pocit
+plnosti v rekte, nutkanie na stolicu zatiaľ nemá.
+Vyhodnotenie:
+Cieľ sa nesplnil, preto je potrebné pokračovať v realizácii plánovaných ošetrovateľských
+intervencií.
+
+Ošetrovateľská diagnóza 4 PES
+
+00152 Riziko bezmocnosti v súvislosti so stratou fungovania, prejavujúca sa pocitom
+menejcennosti a zvládaním situácie.
+Cieľ: Klient si odstráni bezmocnosť do 6 dní.
+
+Výsledné kritériá:
+VK 1: Klient si odstráni pocit bezmocnosti a menejcennosti do 6 dní.
+VK 2: Klient nevyjadruje svoje negatívne pocity, ktoré pociťuje do 3 dní.
+VK 3: Klient nechápe situáciu a riešenie problému do 2 hodín.
+VK 4: Klient vedie rozhovor so sestrou o svojich pocitoch, ktoré prežíva do 48 hodín.
+
+Ošetrovateľské intervencie:
+SI 1: Pomôcť klientovi vhodným spôsobom vysvetliť riešenie danej situácie do 1 hodiny.
+SI2:Snažiť sa vyjadrovať emočným spôsobom podporu klientovi do 30 minút.
+SI3: Podporovať klienta v denných aktivitách a sebestačnosti v priebehu dňa.
+
+54
+
+SI 4:Pochváliť klienta za každý úspech počas dňa.
+SI5:Zdôrazňovať pozitívne myšlienky u klienta počas rozhovoru.
+SI 6: Kontaktovať rodinných príslušníkov za účelom zlepšenia zdravotného a psychického
+stavu do 30 minút.
+
+Realizácia 2.1.2021:
+6:45 hod. -
+
+klientovi som vhodným spôsobom vysvetlila aktuálnu situáciu a spôsob
+
+riešenia ako sa zapájať do aktivít denného života.
+7:15 hod. - klienta som povzbudila a vhodným spôsobom zapojila do pomocných prác
+personáludo takej miery, do akej to dovoľuje jeho zdravotný stav.
+8:00 – 10:00 hod. - sledovaním televízie a návštevou dennej miestnosti som u klienta
+vytvárala pozitívny pohľad na seba samého a poskytla tak emočnú podporu.
+10:00 – 11:30 hod. - počas rozhovoru som klienta počúvala a nehodnotila jeho negatívny
+prístup k bežnému životu, pochvália jeho pozitívne stránky, ktoré má a vzbudila možnosť
+lepšej situácie uvedením konkrétnych príkladov.
+
+Vyhodnotenie:
+Cieľ sa podarilo splniť čiastočne, preto pokračujeme v stanovených intervenciách.
+
+Ošetrovateľská diagnóza 5 PES
+
+00091 Narušená pohyblivosť pri chôdzi v súvislosti so zlomeninou dolnej končatiny,
+prejavujúca sa celkovou slabosťou a zníženou citlivosťou v končatine.
+Cieľ: Klient si zlepší pohyblivosť v končatine do 21 dní.
+Cieľ: Dlhodobý
+
+55
+
+Výsledné kritériá:
+VK 1: Klient vykonáva cviky na zlepšenie telesnej slabosti.
+VK 2: Klient vykonáva masáž a rehabilitáciu postihnutej končatiny 1x denne za pomoci
+sestry.
+VK 3: Klient aktívne spolupracuje pri zmene polohy a dostupovanie na končatinu.
+VK 4: Klient porozumie významu a nástupu ďalších problémov nástupom imobility do 1
+hodiny.
+
+Ošetrovateľské intervencie:
+SI1:Liečbu konzultovať s lekárom a fyzioterapeutom do 1 hodiny.
+SI 2: Pravidelne sledovať FF: TK, TT, P, D, pred a po cvičení a zaznamenať do
+ošetrovateľskej dokumentácie každý deň.
+SI 3: Vykonávať masáž postihnutej končatiny, aby sa zvýšila citlivosť.
+SI 4: Pozorovaním a rozhovorom získať od klienta informácie, ktorá poloha je pre klienta
+najpohodovejšia a zaznamenávať do zdravotnej dokumentácie.
+SI 5: Spolupracovať s klientom pri polohovaní.
+SI 6: S klientom vykonávať cvičenia, ktoré sú zamerané na dýchanie 2-krát za 24 hodín.
+
+Realizácia 5.1.2021
+6:00hod. - zaznamenávala som polohovanie klienta podľa denného a aj nočného režimu
+každé 3 hodiny.
+6:45hod. - zmerala som a zaznamenala so dokumentácie klientove FF: TK: 145/80, P: 82,
+D:16, klientovi som vysvetlila zmenu polohy a nácvik bežných denných aktivít, ako je
+dôležitá spolupráca klienta so zdravotným pracovníkom a ak bude cvičiť pravidelne, zlepší
+sa jeho krvný obeh a zabráni sa tak vzniku dekubitov.
+
+56
+
+7:45 hod.- klienta som povzbudzovala a viedla k spolupráci pri dostupovaní a nácviku
+chôdze.
+8:30 hod. - klientovu vhodnú liečbu som konzultovala a lekárom a fyzioterapeutom.
+9:00 hod. - na postihnutej končatine som vykonala masáž, pri ktorej som použila masážny
+gél a krúživým pohybom som vykonala masáž.
+9:45 – 11:30 hod. - zmerala som klientovi FF a zaznamenala so ošetrovateľskej
+dokumentácie, pomohla som klientovi pripraviť sa na obed.
+12:30 hod. - klienta som povzbudila, aby sa pravidelne zapájal do cvičenia postihnutej
+končatiny.
+13:30 - 14: 15 hod. - klienta som oboznámila, že v spolupráci so sanitárom sa pomalou
+chôdzou prejde po parku.
+15:30 hod. - klienta po prechádzke som uložila do kresla pri posteli a povzbudila
+k spolupráci pri zmene polohy.
+16:15 – 17:30 hod. - zmerala som FF a zaznamenala do dokumentácie, v spolupráci so
+sanitárkou sa klient premiestnil do jedálne na večeru pomocou mobilného chodítka, ktoré
+používa pri presune.
+
+57
+
+ODPORÚČANIA PRE PRAX
+
+▪
+
+Zaujímať sa o potreby klienta, jeho záujmy a problémy, byť s ním v kontakte,
+častými rozhovormi prejavovať záujem o klienta
+
+▪
+
+Zapájať klientov zariadenia do aktivít denného života, snažiť sa podporovať
+uspokojovanie potrieb, venovať dostatok času klientovi, ak má záujem
+o spoločnosť
+
+▪
+
+Po príchode do zariadenia venovať klientovi dostatok času a podporovať adaptáciu
+klienta, zoznámiť ho s prostredím, do ktorého prišiel, uspokojovať bio-psychosociálne a spirituálne potreby klienta
+
+▪
+
+Neustále spolupracovať s inými zariadeniami sociálnej starostlivosti
+
+▪
+
+Zabezpečiť klientovi kontakt s rodinnou, ak to dovoľuje jeho zdravotný stav
+
+▪
+
+Snažiť sa klienta akceptovať a brať ho takého aký je, aj vzhľadom na jeho
+ochorenie
+
+▪
+
+Zabezpečovať
+
+klientom
+
+pravidelné
+
+schôdze
+
+v zariadení
+
+a
+
+komunikovať
+
+o problémoch, ktoré by chceli vyriešiť a navrhnúť riešenia pre zlepšenie
+a skvalitnenie bývania a stravovania
+▪
+
+Informovať klientov o dôležitosti preventívnych prehliadok
+
+▪
+
+Skvalitňovať prípravu zdravotníckych pracovníkov pri ošetrovaní klientov
+s demenciou
+
+▪
+
+Dodržiavať zásady komunikácie s dementným klientom
+
+▪
+
+Vedieť ovládať svoje emócie, byť empatický a trpezlivý pri rôznych obvineniach
+seniorov, nebrať ich osobne
+
+58
+
+ZÁVER
+Každé ochorenie, ktoré sa objaví v živote človeka, istým spôsobom zmení jeho kvalitu.
+Demencia si vyberá svoju daň pri logickom uvažovaní, predstavivosti, či pri schopnosti
+orientovať sa v prostredí. Pribúdajú poruchy správania, vnímania, zhoršuje sa schopnosť
+vyjadrovať sa, celkovo sa mení osobnosť a povaha človeka. Postupne zbavuje človeka toho
+najcennejšieho, čo má – pamätať si svojich blízkych, poznať ich mená, či prejaviť im city.
+Emočný stres postihuje celú rodinu a v poslednej fáze ochorenia je osoba závislá od cudzej
+pomoci. Starostlivosť o duševne chorých je veľmi náročná z hľadiska spolupráce klienta
+so zdravotníckymi pracovníkmi. Mnohí klienti nespolupracujú, nedodržiavajú denný
+režim, vyžadujú si zvýšený dozor, nakoľko trpia psychiatrickými diagnózami. Hlavnou
+úlohou sestry v zariadení je vhodným spôsobom usmerňovať klientov v správaní, viesť
+klientov k aktivitám denného života a prispievať k zlepšeniu zdravotného stavu
+pravidelnými kontrolami u lekára. Klienti v pokročilom štádiu demencie vnímajú pekné
+prostredie, tešia sa z jednoduchých činností, z jedla, počúvajú hudbu, dotýkajú sa
+plyšových hračiek, či neúnavne si prezerajú obrázky. Bolo by chybou myslieť si, že takíto
+ľudia nič nepotrebujú. Opak je však pravdou. Potrebujú bezpečné, láskavé a vľúdne
+prostredie s dostatočným množstvom primeraných podnetov. Je potrebné venovať im
+pozornosť, zaujímať sa o nich, posilňovať zachované schopnosti a zručnosti, a tým
+odstraňovať stavy úzkosti, zmätenosti, či depresie. Potrebujú ľudský kontakt, emočnú
+podporu, každodennú radosť a pohyb. V našej práci sme poukázali na starostlivosť
+o chorého s demenciou, problémové správanie u klientov a ako vhodnou starostlivosťou
+prispieť ku skvalitneniu života. Poslaním sestier v zariadení je neustále sa vzdelávať
+a poskytovať kvalitnú ošetrovateľskú starostlivosť klientom, ktorí sa nechcú alebo nevedia
+o seba postarať. Ich úlohou je nielen naučiť klientov vedieť sa o seba postarať, ale snažiť
+sa aj o zabezpečenie bio-psycho-sociálnych, spirituálnych a kultúrnych potrieb. V živote
+každého človeka je najdôležitejšia prevencia – zdravý životný štýl, kontinuálne
+vzdelávanie sa, či pozitívny prístup k životu. Dobrá pamäť totižto nie je samozrejmosťou,
+preto je potrebné si ju neustále precvičovať, napríklad lúštením krížoviek, tréningom
+zapamätávania si dôležitých dátumov, či telefónnych čísel. Pre každého seniora je potrebné
+porozumenie, podpora rodiny a blízkeho okolia.
+Na zvýšenie kvality ošetrovateľskej starostlivosti bolo našou snahou aplikovať model
+Marjory
+
+Gordonovej,
+
+ktorý
+
+sme
+
+použili
+
+s polyetiologickou demenciou.
+59
+
+v praxi
+
+pri
+
+starostlivosti
+
+o klienta
+
+ZOZNAM POUŽITEJ LITERATÚRY
+
+Knižná literatúra:
+1
+
+ABRAHAMS, P. 2005. Rodinná encyklopédia zdravia. Vyd. Praha: Ottovo
+vydavateľstvo, 2005. ISBN 80-7360-232-6.
+
+2
+
+BRACKEY, J. 2016. Alzheimer, Dajte mi lásku a šťastie. Praha: TRITON, 2016.
+ISBN 978-80-7553-633-4.
+
+3
+
+BORIKOVÁ, I. 2007. Problematika posudzovacích nástrojov v ošetrovateľstve.
+Osveta, Oravská univerzita v Ostravě, 2007. ISBN 978-80-7368-230-9.
+
+4
+
+ČERŇANOVÁ, A. 2011. Ošetrovanie chorých s psychickými problémami na
+somatických oddeleniach. Martin: Osveta, 2011. ISBN 978 80-8063-354-7.
+
+5
+
+ČUNDERLÍKOVÁ, M a kolektív. 2016. Ako si poradiť s demenciou. Centrum
+MEMORY, 2016. ISBN 978-80-971716-4-3.
+
+6
+
+HAUKE, M. a kolektív. 2017. Keď do života vstúpi demencia. TÁBOR, 2017. ISBN
+978-80-906320-7-3.
+
+7
+
+HRDLIČKA M, HRDLIČKOVÁ D. 1999. Demencie a poruchy pamäti. GRADA,
+1999. ISBN 80-7169-797-4.
+
+8
+
+HÜTHER, G. 2018. Von z pasce zvanej Demencia!. Vydavateľstvo Citadella, 2018.
+ISBN 978-80-8182-106-6.
+
+9
+
+JANOSIKOVÁ H. ELLEN, DAVIESOVÁ L. JANET. 1999. Psychiatrická
+ošetrovateľská starostlivosť. MARTIN, 1996 ,1999. ISBN 80-8063-017-8.
+
+10 JIRÁK, R. 2013, Gerontopsychiatria. PRAHA, 2013. 978-80-7262-873-5.
+11 JIRÁK, R., HOLMEROVÁ, I., BORZOVÁ a kolektív. 2009. Demencia a iné poruchy
+pamäti: komunikácia a iné druhy pamäti. GRADA, 2009. ISBN 978- 80-247- 2454-6.
+12 KAFKA a kolektív. 1993. Psychiatria. MARTIN, 1993. ISBN 80-217-0514-0.
+13 KALVACH, Z. 2008. Geriatrické syndrómy a geriatrický pacient. Praha: Grada, 2008.
+ISBN 978-80-247-2490-4.
+14 KRÁLOVÁ, M. 2017. Demencie. Univerzita Komenského Bratislava, Lekárska
+fakulta Psychiatrická klinika LF UK a UN, Bratislava 2017. ISBN 978-80-223-4307-7
+15 KOPECKÝ, P., KOPECKÁ, K. 2014. Zdravie a klinika chorôb. Martin: Osveta, 2014.
+ISBN 978-80-8063-422-3.
+
+60
+
+16 KOZIEROVÁ, B., ERBOVÁ,G.,OLIVIEROVÁ, R.,1995. Ošetrovateľstvo. Martin:
+Osveta, 1995. ISBN 80-217-0528-0.
+17 MARČEKOVÁ, J. 2006. Ošetrovateľské diagnózy v NANDA doménach. Praha:
+Grada, 2006. ISBN 80-247-1399-3.
+18 MARTINKOVÁ,
+
+J.
+
+2017.
+
+Prejavy
+
+problémového
+
+správania
+
+u pacientov
+
+s
+
+Alzheimerovou demenciou. Trnava: vydavateľstvo SAV, 2017. ISBN 978- 80-5680022-5.
+19 ONDRIÁŠOVÁ, M. 2005. Psychiatria. Martin: Osveta, 2005. ISBN 80-8063-199-9.
+20 PIDRMAN, V. Demencia, 2007. Praha: Grada, 2007. ISBN 978-80-247-1490-5.
+21 PAVLÍKOVÁ, S. 2007. Modely ošetrovateľstva v kocke. Grada, 2007. ISBN 978-80247-1918-4.
+22 POLEDNÍKOVÁ, Ľ. 2006. Geriatrické a gerontologické ošetrovateľstvo. Martin:
+Osveta, 2006. ISBN 80-8063-208-1.
+23 TRENCKMANN, U., BANDELOW, B. 2005. Psychiatria a psychoterapia. Trenčín,
+2005. ISBN 80-88952-26-3.
+24 VAVRUŠOVÁ, L. 2012. Demencia. Martin: Osveta, 2012. ISBN 978- 80-8063-382-0.
+25 VYHLÁŠKA MZ SR
+
+306/2005
+
+z 30. Júla 2005, ktorou sa ustanovuje zoznam
+
+sesterských diagnóz.
+26 VYHLÁŠKA MZ SR 364/2005, ktorou sa určuje rozsah ošetrovateľskej praxe
+poskytovanej sestrou samostatne a v spolupráci s lekárom a rozsah praxe pôrodnej
+asistencie poskytovanej pôrodnou asistentkou samostatne a v spolupráci s lekárom.
+27 ZGOLA, M. Jitka. 2003. Úspešná starostlivosť o človeka s demenciou. Havlíčkov
+Brod, Grada 2003. ISBN 80-247-0183-9.
+28 ZVĚŽOVÁ, M. 2017. Alzheimerova demencia. Praha: Grada, 2017. ISBN 978-80271-0561-8.
+
+Časopisecká literatúra
+29 Mgr.
+
+Barčáková,
+
+G.
+
+Špecifická
+
+a ošetrovateľská
+
+starostlivosť
+
+o chorého
+
+s Alzheimerovou demenciou. Sestra- odborný mesačník pre ošetrovateľstvo. ISSN
+1335-9444, 2016, č .7-8, s.23
+30 Boriková, I. 2010. Posudzovanie aktivít denného života. ISSN 1804-2740, 2010, roč.
+1, č.1, s. 27-28
+61
+
+31 Daffner, K.,R. 2016. Ako si zlepšiť pamäť. Zdravie - praktický domáci sprievodca
+zdravím. ISBN 978-953-59202-2-9, 2016, č.3, s.23.
+32 PhDr. Martinková, J. Paliatívna a hospicová starostlivosť o pacienta s Alzheimerovou
+demenciou. Sestra - odborný mesačník pre ošetrovateľstvo. ISSN 1335-9444, 2018,
+č.11-12, s.31
+33 Michalková, I.,Šimončičová, S. 2006. Úskalia komunikácie s geriatrickým pacientom.
+In sestra. ISSN 1335-9444. 2006, č.11-12, s.38
+
+Elektronické dokumenty
+34 Kozáčiková, I. 2016. Starecká demencia – postupná strata dlhodobej pamäti. [ Online].
+2016
+
+Citované
+
+[2.5.2016].
+
+Dostupné
+
+na
+
+internete:<
+
+http://www.slovenskypacient.sk/starecka-demencia-priznaky.prejavy-starostlivostginko-/lecitin-Guarana.sk
+
+62
+
+Zoznam príloh
+
+Príloha č. 1 - Bartelov test základných denných aktivít ADL
+Príloha č. 2 - Stupnica na meranie bolesti pri pokročilej demencii (PAINAD)
+Príloha č. 3 - Stupnica hodnotenia psychického zdravia
+Príloha č. 4 - Skrátený mentálny bodovací test (hodnotenie psychického stavu podľa
+Gainda)
+Príloha č. 5 - Test inštrumentálnych denných činností – IADL
+Príloha č. 6 - Skríningový test na určenie rizika pádu
+Príloha č. 7 - Katzov index nezávislosti v denných aktivitách
+Príloha č. 8 - Bristolská škála foriem stolice
+Príloha č. 9 – Fotodokumentácia
+
+63
+
+Príloha 1
+
+Bartelov test základných denných aktivít ADL (AKTIVITY DAILY LIVING
+
+Činnosť
+Jedenie/ pitie
+
+Obliekanie
+
+Kúpanie
+
+Osobná hygiena
+Kontinencia moču
+
+Kontinencia stolice
+
+Použitie WC
+
+Zvládnutie činnosti
+
+Body
+
+Samostatne, bez pomoci
+
+10
+
+S pomocou
+
+5
+
+Nezvládne
+
+0
+
+Samostatne, bez pomoci
+
+10
+
+S pomocou
+
+5
+
+Nezvládne
+
+0
+
+Samostatne alebo s pomocou
+
+10
+
+Nezvládne
+
+0
+
+Samostatne alebo s pomocou
+
+10
+
+Nezvládne
+
+0
+
+Plne kontinentný
+
+10
+
+Občas inkontinentný
+
+5
+
+Inkontinentný
+
+0
+
+Plne kontinentný
+
+10
+
+Občas inkontinentný
+
+5
+
+Inkontinentný
+
+0
+
+Samostatne, bez pomoci
+
+10
+
+S pomocou
+
+5
+
+Nezvládne
+
+0
+
+Presun z postele
+
+Samostatne, bez pomoci
+
+15
+
+na stoličku
+
+S malou pomocou
+
+10
+
+Vydrží sedieť
+
+5
+
+Nezvládne
+
+0
+
+Samostatne nad 50m
+
+15
+
+S pomocou 50m
+
+10
+
+Na vozíku 50m
+
+5
+
+Chôdza po rovine
+
+64
+
+Nezvládne
+
+0
+
+Chôdza po schodoch Samostatne, bez pomoci
+
+10
+
+S pomocou
+
+5
+
+Nezvládne
+
+0
+
+Vyhodnotenie stupňa závislosti:
+0 – 40 bodov – vysoká závislosť
+45 -60 bodov – závislosť stredného stupňa
+65 -95 bodov – mierna závislosť
+100 bodov – nezávislosť
+
+Príloha 2
+Stupnica na meranie bolesti pri pokročilej demencii (PAINAD)
+
+0
+
+1
+
+Počet
+
+2
+
+bodov
+Občasné
+
+Dýchanie
+(nezávislé
+
+na
+
+vokalizácii)
+Normálne
+
+namáhavé Hlučné
+
+sťažené
+
+dýchanie
+
+dýchanie
+
+Krátke
+
+obdobie Dlhodobé obdobie
+
+hyperventilácie
+
+hyperventilácie
+Cheyne- Stokesovo
+dýchanie
+
+Občasný
+
+Bolestivá
+vokalizácia
+
+Žiadna
+
+ston
+
+alebo Opakované
+
+vzlykanie
+Normálna
+
+utrápené volanie
+negatívna Hlasité
+
+alebo odmietavá reč
+
+alebo vzlyk
+Plač
+
+65
+
+stonanie
+
+Výraz tváre
+
+Reč tela
+
+Úsmev
+
+alebo Smutný
+
+Bolestivé grimasy
+
+neutrálny
+
+Vydesený
+
+výraz
+
+Zamračený
+
+Relaxovanosť
+
+Napätie
+
+Strnulosť
+
+Nekľudné
+
+Zovreté päste
+
+prechádzanie
+
+Kolená pritiahnuté
+
+Nekľud
+
+k telu
+Priťahovanie alebo
+odtláčanie
+
+pri
+
+dotyku
+Udieranie
+Utešovanie
+
+Nie je nutné
+
+Je
+
+možné
+
+rozptýliť Nie je možné utešiť,
+
+alebo ukľudniť hlasom rozptýliť
+alebo dotykom
+
+alebo
+
+ukľudniť
+
+Súčet
+Hodnotenie:
+
+0 = relaxácia a komfort
+1 – 3 = mierny diskomfort
+4 – 6 = stredná bolesť
+7 – 10 = silná bolesť, diskomfort
+
+(Podľa:Vorlíček L. Rozpoznání a mĕření bolesti u pacientůs pokročilou demencí.
+In.Bolest. 2006, roč.9, č. 1.)
+
+66
+
+Príloha 3
+Stupnica hodnotenia psychického zdravia
+Položky
+
+Skórovaná odpoveď
+
+1. Cítite sa väčšinu času dobre?
+
+nie
+
+2. Máte často obavy o svoje zdravie?
+
+áno
+
+3. Trpíte často bolesťami hlavy?
+
+áno
+
+4. Mal/a ste v poslednom čase závraty?
+
+áno
+
+5. Často sa Vám trasú ruky pri práci?
+
+áno
+
+6. Máte zášklby svalov?
+
+áno
+
+7. Mal/a ste v poslednom čase bolesti iba zriedka alebo
+
+nie
+
+vôbec nie?
+8. Vnímate necitlivosť v jednej alebo viacerých častiach
+
+áno
+
+tela?
+9. Máte vždy ruky a nohy tela dostatočne teplé?
+
+nie
+
+10. Je Váš spánok prerušovaný, povrchný alebo inak
+
+áno
+
+narušený?
+11. Idete väčšinou spať bez myšlienok, ktoré by Vás
+
+nie
+
+trápili?
+12. Máte rád/a spoločnosť, ste rád/a medzi ľuďmi?
+
+nie
+
+13. Často Vás niečo trápi?
+
+áno
+
+14. Ste často plný/á elánu ( energie )?
+
+nie
+
+15. Cítite sa často neužitočný/á?
+
+áno
+
+67
+
+Hodnotenie:
+Skóre 6 a viac ( súhlasí s odpoveďou v texte) svedčí
+pre poruchu psychického zdravia.
+
+Pacient
+
+označí
+
+iba
+
+tie
+
+odpovede
+
+ktoré
+
+sa
+
+ho
+
+týkajú.
+
+(Podľa: Staňková M. Hodnocení a měřící techniky v ošetřovatelské praxi, České
+ošetřovatelství 6, 2001)
+Príloha 4
+Skrátený mentálny bodovací test(hodnotenie psychického stavu podľa Gainda)
+Zistite u pacienta otázkami a úlohami:
+1. vek
+
+1
+
+0
+
+2. koľko je asi hodín
+
+1
+
+0
+
+3. adresu *
+
+1
+
+0
+
+4. súčasný rok
+
+1
+
+0
+
+5. kde je hospitalizovaný
+
+1
+
+0
+
+6. poznanie aspoň dvoch osôb
+
+1
+
+0
+
+7. dátum narodenia
+
+1
+
+0
+
+8. meno súčasného prezidenta
+
+1
+
+0
+
+1
+
+0
+
+9. odčítať späť od 20 do 1 alebo vymenovať odzadu
+mesiace
+v roku od decembra do januára
+Celkovo
+
+* na konci testu by mal pacient adresu zopakovať, aby sme sa uistili, že pacient dobre
+počuje.
+68
+
+Test slúži na ošetrovateľské posúdenie. Za každú správnu odpoveď má pacient 1
+bod. Ak nedosiahne ani 7 bodov, jedná sa o zmätenosť.
+
+(Podľa: Staňková M. Hodnocení a měřící techniky v ošetřovatelské praxi, České
+ošetřovatelství 6, 2001)
+Príloha 5
+Test inštrumentálnych denných činností – IADL (Instrumental aktivity dailyliving)
+
+Činnosť
+
+Zvládnutie činnosti
+
+Body
+
+Telefonovanie
+
+Vyhľadá samostatne číslo, vytočí ho
+
+10
+
+Pozná niekoľko čísel, odpovedá na zavolanie
+
+5
+
+Nedokáže používať telefón
+
+0
+
+Cestuje samostatne dopravným prostriedkom
+
+10
+
+Cestuje v sprievode inej osoby
+
+5
+
+Cestuje v špeciálne upravenom dopravnom prostriedku
+
+0
+
+Je schopný si samostatne nakúpiť
+
+10
+
+Nakúpi so sprievodom alebo radou inej osoby
+
+5
+
+Neschopný bez podstatnej pomoci
+
+0
+
+Uvarí samostatne celé jedlo
+
+10
+
+Jedlo si ohreje
+
+5
+
+Jedlo musí pripraviť iná osoba
+
+0
+
+Transport
+
+Nakupovanie
+
+Varenie
+
+69
+
+Domáce práce
+
+Udržuje domácnosť s výnimkou ťažkých prác
+
+10
+
+Vykoná ľahšiu prácu alebo neudrží primeranú čistotu
+
+5
+
+Potrebuje pomoc pri väčšine prác alebo nerobí nijaké práce
+
+0
+
+v domácnosti
+Práca
+
+okolo Vykonáva samostatne a pravidelne
+
+10
+
+Vykonáva pod dohľadom
+
+5
+
+Vyžaduje pomoc, prácu nevykoná
+
+0
+
+Samostatne berie v určenú dobu správnu dávku, pozná názvy
+
+10
+
+domu
+
+Užívanie liekov
+
+liekov
+
+Financie
+
+Užíva lieky, ak sú pripravené a pripomenuté
+
+5
+
+Lieky musí podávať iná osoba
+
+0
+
+Spravuje samostatne, platí účty, pozná príjmy a výdaje
+
+10
+
+Zvládne drobné výdaje, potrebuje pomoc so zložitejšími
+
+5
+
+operáciamiNeschopný bez pomoci narábať s peniazmi
+
+0
+
+(Podľa: Staňková M. Hodnocení a měřící techniky v ošetřovatelské praxi, České
+ošetřovatelství 6, 2001)
+
+70
+
+Príloha 6
+Test pre zistenie rizika pádu
+
+AKTIVITA
+Pohyb
+
+Vyprázdňovanie
+
+Medikácia
+
+BODY
+neobmedzený
+
+0
+
+používa pomôcky
+
+1
+
+potrebuje pomoc pri pohybe
+
+1
+
+neschopný pohybu
+
+1
+
+nevyžaduje pomoc
+
+0
+
+prítomná inkontinencia alebo nocturia
+
+1
+
+vyžaduje pomoc
+
+1
+
+neužíva rizikové lieky
+
+0
+
+užíva lieky: diuretiká,antiparkinsoniká,antikonvulzíva,
+
+1
+
+antihypertenzíva, psychotropné lieky, benzodiazepany
+Zmyslové
+poruchy
+Mentálny status
+
+Vek
+
+žiadne
+
+0
+
+vizuálny, sluchový, zmyslový deficit
+
+1
+
+orientovaný
+
+0
+
+zriedkavá/nočná dezorientácia
+
+1
+
+dezorientácia, demencia
+
+1
+
+18-75 rokov
+
+0
+
+75 rokov a viac
+
+1
+
+Ak je skóre vyššie ako 3, je potrebné iniciovať zásahy zamerané na prevenciu pádu.
+
+(Podľa Poledníková, Ľ. a kol., Geriatrické a gerontologické ošetrovateľstvo, Osveta, 2006)
+
+71
+
+Príloha 7
+Katzov index nezávislosti v denných aktivitách
+
+Hodnotiaci formulár
+
+Meno:
+
+Indikuje nezávislosť
+
+Indikuje
+
+Dátum:
+potrebnú Indikuje závislosť
+
+asistenciu
+Kúpanie: Umývanie žínkou,,
+kúpanie alebo sprchovanie.
+□ Nepotrebuje žiadnu pomoc, ak
+sa kúpe vo vani, dostane sa dnu
+aj von bez pomoci
+
+□
+
+Potrebuje
+
+pomoc
+
+pri □ Potrebuje pomoc pri
+
+umývaní iba pri jednej časti umývaní viac ako jednej
+tela, napríklad chrbta, alebo časti tela, alebo nieje
+schopný sa umyť
+
+nôh
+
+Obliekanie: Vyberie oblečenie
+i spodné
+
+prádlo
+
+zo
+
+skrine
+
+a zásuviek a je schopný zapnúť
+háčiky a gombíky.
+□ Vyberie oblečenie a oblečie sa □
+
+Vyberie
+
+oblečenie □ Potrebuje pomoc pri
+
+a oblečie sa bez pomoci vyberaní oblečenia alebo
+
+bez pomoci
+
+s výnimkou
+
+zaväzovania pri
+
+šnúrok na topánkach
+
+obliekaní,
+
+alebo
+
+ostáva čiastočne či úplne
+neoblečený
+
+Vyprázdňovanie:
+
+Chodí
+
+do
+
+miestnosti označenej ako „WC“,
+potom sa sám utrie a oblečie.
+□ Chodí na toaletu, utrie sa
+a oblečie bez pomoci. Môže □
+
+Potrebuje
+
+pomoc
+
+pri □ Nechodí na toaletu
+
+používať palicu, chodítko alebo chodení na toaletu alebo
+
+72
+
+vozík a v noci môže samostatne utieraní či obliekaní po
+používať podložnú misu alebo vykonaní
+prenosné
+
+WC,
+
+ktoré
+
+potreby,
+
+ráno nočnom
+
+používaní
+
+podložnej
+
+vyprázdni
+
+alebo
+
+misy
+
+či
+
+prenosného WC
+Premiestňovanie:
+□ Premiestňuje sa z
+
+postele □ Premiestňuje sa z a do □ Nevstáva z postele
+
+a vozíka
+
+Môže postele a vozíka s pomocou
+
+bez
+
+pomoci.
+
+používať
+pomôcky,
+
+kompenzačné
+napríklad
+
+palicu
+
+alebo chodítko
+Schopnosť
+
+udržať
+
+a stolicu:
+□
+
+Plne
+
+moč
+□
+
+kontroluje
+
+Príležitostne □ Potrebuje dozor pri
+
+močenie inkontinentný
+
+vyprázdňovaní,
+
+a vyprázdňovanie stolice
+
+zavedený
+katéter,
+
+má
+močový
+
+alebo
+
+je
+
+inkontinentný
+Stravovanie:
+□ Je bez pomoci
+
+□ Je sám , potrebuje pomoc □ Potrebuje pomoc pri
+s krájaním
+
+mäsa
+
+alebo jedle, alebo je kŕmený
+
+natieraním chleba
+
+čiastočne
+pomocou
+
+či
+
+úplne
+
+enterálnej
+
+výživy či i.v. tekutín
+Celkové hodnotenie:
+
+Hodnotil:
+
+A: Sebestačný vo všetkých šiestich funkciách.
+B: Sebestačný vo všetkých funkciách okrem jednej z funkcií.
+C: Sebestačný vo všetkých funkciách okrem kúpania a jednej ďalšej funkcie.
+
+73
+
+D: Sebestačný vo všetkých funkciách okrem kúpania, obliekania a jednej ďalšej funkcie.
+E: Sebestačný vo všetkých funkciách okrem kúpania, obliekania, vyprázdňovania a jednej
+ďalšej funkcie.
+F: Sebestačný vo všetkých funkciách okrem kúpania, obliekania, chodenia na toaletu,
+premiestňovania a jednej ďalšej funkcie.
+G: Nesebestačný vo všetkých šiestich funkciách.
+Ostatné: Závislý najmenej v dvoch funkciách, ktoré však nie je možné klasifikovať ako
+C,D,E alebo F.
+
+(Podľa: Kolektív autorov. Dokumentace od A do Z, Grada, 2006)
+
+Príloha 8
+Bristolská škála foriem stolice
+Typ
+
+Jednotlivé tvrdé hrudky ako orechy, ktoré sa ťažko Dlhý tranzit – asi 100
+
+1
+
+vypudzujú
+
+Typ
+
+Stolica tvaru párka, ale hrudkovitá
+
+h
+
+2
+Typ
+
+Stolica ako párok, ale s prasklina mi na povrchu
+
+3
+Typ
+
+Stolica ako párok alebo had, hladká, mäkká
+
+4
+hrudky
+
+s ostro
+
+ohraničenými
+
+okrajmi,
+
+ľahko
+
+Typ
+
+Mäkké
+
+5
+
+prechádzajúce
+
+Typ
+
+Nakyprené kúsky stolice s hrboľatými okrajmi, kašovitá
+
+6
+
+stolica
+74
+
+Typ
+
+Krátky tranzit – asi 10
+
+Vodnatá stolica, bez tuhých kusov
+
+7
+
+h
+
+Poznámka: forma stolice závisí od času, ktorý zotrvá v hrubom čreve (colonictransittime).
+Pri dlhšom pobyte v HČ sa počet stolíc znižuje. Podľa Bristolskej škály foriem stolice typ
+1 znamená najpomalší tranzit – zápchu, kým typ 7 najrýchlejší tranzit – hnačku.
+
+Príloha 9
+Zariadenie sociálnych služieb ""CLEMENTIA""
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+

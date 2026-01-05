@@ -1,0 +1,2865 @@
+VYSOKÁ ŠKLOA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRACE
+SV. ALŽBETY BRTISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+170192
+
+MONITOROVANIE ANTITROMBOTICKEJ LIEČBY
+NÍZKOMOLEKULOVÝMI HEPARÍNMI U HOSPITALIZOVANÝCH
+PACIENTOV POČAS PANDÉMIE COVID-19
+DIPLOMOVÁ PRÁCA
+
+2023
+
+Bc. ANNA HUBČÍKOVÁ
+
+VYSOKÁ ŠKLOA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRACE
+SV. ALŽBETY BRTISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+MONITOROVANIE ANTITROMBOTICKEJ LIEČBY
+NÍZKOMOLEKULOVÝMI HEPARÍNMI U HOSPITALIZOVANÝCH
+PACIENTOV POČAS PANDÉMIE COVID-19
+DIPLOMOVÁ PRÁCA
+
+Študijný program:
+
+Laboratórne vyšetrovacie metódy v zdravotníctve
+
+Študijný odbor:
+
+5616 Laboratórne vyšetrovacie metódy v zdravotníctve
+
+Ústav zdravotníckych disciplín: Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety
+Bratislava
+Školiteľ:
+
+2023
+
+prof. RNDr. Gertrúda Mikolášová, PhD.
+
+Bc. ANNA HUBČÍKOVÁ
+
+ČESTNÉ VYHLÁSENIE
+Vyhlasujem, že som diplomovú prácu vypracovala samostatne, pod
+odborným vedením školiteľky prof. RNDr. Gertrúdy Mikolášovej, PhD. a použila som
+literatúru, ktorú uvádzam v zozname.
+
+BRATISLAVA, 2023
+
+POĎAKOVANIE
+Chcela by som sa touto cestou poďakovať mojej školiteľke prof. RNDr. Gertrúde
+Mikolášovej, PhD., za jej odborné vedenie, pripomienky a usmernenie pri písaní. Takisto
+poďakovanie patrí lekárom slúžiacim na Covid oddelení DONsP v Dolnom Kubíne, za
+ochotné poskytnutie informácii do praktickej časti mojej záverečnej práce a v neposlednom
+rade mojej rodine a priateľom, ktorí ma podporovali a pomohli mi zvládnuť obdobie písania
+diplomovej práce.
+
+ABSTRAKT
+HUBČÍKOVÁ, Anna Bc.: Monitorovanie antitrombotickej liečby nízkomolekulovými
+heparínmi u hospitalizovaných pacientov počas pandémie Covid-19. [Diplomová práca].
+Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety v Bratislave. Ústav zdravotných
+disciplín; Školiteľ prof. RNDr. Gertrúda Mikolášová, PhD. Stupeň odbornej kvalifikácie.
+Magister laboratórnych vyšetrovacích metód v zdravotníctve. Bratislava: Ústav
+zdravotníckych disciplín, 2023. Počet strán 86.
+Predložená diplomová práca je venovaná novej koronavírusovej chorobe (COVID-19), ktorá
+z roku 2019 sa považuje za globálnu núdzovú situáciu v oblasti verejného zdravia. Jednou z
+bezprecedentných výziev je definovanie optimálnej liečby pre pacientov s ťažkou
+pneumóniou a systémovými prejavmi COVID-19. Ťažké formy sú spojené s koagulačnými
+zmenami, charakterizovanými najmä zvýšením hladín D-Diméru, ktoré sme monitorovali a
+fibrinogénu, s vyšším rizikom trombózy, najmä pľúcnej embólie. Zdôraznil sa aj vplyv
+obezity na závažný COVID-19. V tejto súvislosti môžu byť štandardné dávky heparínu s
+nízkou molekulovou hmotnosťou (LMWH) neadekvátne u pacientov na JIS s obezitou,
+veľkým zápalom a hyperkoagulabilitou. V práci sme identifikovali riziká infekcie, venovali
+sa diagnostike, liečbe, sledovaniu laboratórnych parametrov a riešili fázu hyperkoagulácie
+pozorovanú u
+
+hospitalizovaných pacientov s COVID-19, ktorí sú vystavení riziku
+
+venózneho, arteriálneho tromboembolizmu a smrti. Hlavným cieľom práce bol monitoring
+účinnosti
+
+liečby
+
+nízkomolekulového heparínu
+
+(LMWH)
+
+u
+
+vysokorizikových
+
+hospitalizovaných pacientov s COVID-19 pomocou testu Anti Xa na prevenciu a liečbu
+venózneho tromboembolizmu,
+
+spolu s hodnotami D-Diméru, pri hospitalizácii a po
+
+ukončení liečby, aby sa vylepšila šanca pacientov na vyliečenie. Môžeme povedať, že u
+pacientov hospitalizovaných s COVID-19 so zvýšenou koncentráciou D-Diméru počiatočná
+terapeutická antikoagulácia v nemocnici s enoxaparínom pre nestabilných pacientov počas
+30 dní zlepšila klinické výsledky.
+
+Kľúčové slová: trombofília, COVID-19, tromboprofylaxia, antikoagulácia, Anti-Xa aktivita,
+antikoagulačný monitoring COVID-19,
+
+ABSTRACT
+HUBČÍKOVÁ, Anna Bc. : Monitoring of antithrombotic treatment with low molecular
+weight heparins in hospitalized patients during the Covid-19 pandemic. [Thesis]. University
+of Health and Social Work St. Elizabeth in Bratislava. Institute of Health Sciences; Trainer
+prof. RNDr. Gertrúda Mikolášová, PhD. Professional qualification level. Master of
+laboratory investigation methods in healthcare. Bratislava: Institute of Health Sciences,
+2023. Number of pages 86.
+The presented diploma thesis is dedicated to the novel coronavirus disease (COVID-19),
+which as of 2019 is considered a global public health emergency. One of the unprecedented
+challenges is defining the optimal treatment for patients with severe pneumonia and systemic
+manifestations of COVID-19. Severe forms are associated with coagulation changes,
+characterized mainly by an increase in the levels of D-Dimer, which we monitored, and
+fibrinogen, with a higher risk of thrombosis, especially pulmonary embolism. The impact of
+obesity on severe COVID-19 was also highlighted. In this regard, standard doses of low
+molecular weight heparin (LMWH) may be inadequate in ICU patients with obesity, severe
+inflammation, and hypercoagulability. In the work, we identified the risks of infection,
+devoted ourselves to diagnosis, treatment, monitoring of laboratory parameters and
+addressed the hypercoagulation phase observed in hospitalized patients with COVID-19,
+who are at risk of venous, arterial thromboembolism and death. The main objective of the
+work was to monitor the effectiveness of low-molecular-weight heparin (LMWH) treatment
+in high-risk hospitalized patients with COVID-19 using the Anti Xa test for the prevention
+and treatment of venous thromboembolism, together with D-Dimer values, during
+hospitalization and after the end of treatment, in order to improve the chances of patients for
+healing. We can say that in hospitalized COVID-19 patients with elevated D-Dimer
+concentrations, initial in-hospital therapeutic anticoagulation with enoxaparin for unstable
+patients for 30 days improved clinical outcomes.
+Keywords: thrombophilia, COVID-19, thromboprophylaxis, anticoagulation, Anti-Xa
+activity, anticoagulation monitoring of COVID-19,
+
+OBSAH
+ÚVOD..................................................................................................................................... 14
+1 TROMBOFÍLIA A COVID - 19 ................................................................................................. 16
+1.1 Trombofília ................................................................................................................... 16
+1.2 COVID-19 ovplyvňuje zrážanlivosť krvi ........................................................................... 17
+1.3 Patogenéza COVID-19.................................................................................................... 17
+2 COVID-19 A RIZIKOVÉ FAKTORY TROMBÓZY .......................................................................... 19
+2.1 COVID-19 a rizikové faktory ........................................................................................... 19
+2.2 Rizikové faktory COVID-19 súvisiace s trombózou........................................................... 19
+2.3 Hypoxia ........................................................................................................................ 19
+2.4 Korelácia COVID - 19 a krvná skupina ABO .................................................................... 20
+2.5 Poškodenie pečene ....................................................................................................... 20
+3 INFEKCIA SARS-CoV-2 a COVID-19......................................................................................... 21
+3.1 Infekcia SARS-CoV-2 ...................................................................................................... 21
+3.2 COVID-19 a trombozápal ............................................................................................... 22
+3.3 Cytokínová búrka .......................................................................................................... 22
+3.4 Špecifické faktory IL-6 A IL-2 .......................................................................................... 23
+3.5 Systém komplementu ................................................................................................... 24
+3.6 Klinický priebeh infekcie SARS-CoV-2 ............................................................................. 24
+3.7 Hematologické prejavy pacientov s COVID-19 ................................................................ 24
+3.8 Prevalencia a incidencia VTE u pacientov s COVID-19 ..................................................... 25
+4 COVID-19 DIAGNOSTICKÉ POSTUPY ..................................................................................... 27
+4.1 Test založený na PCR ..................................................................................................... 27
+4.2 Sérologický test ............................................................................................................ 28
+4.3 Sérologické testy na báze nanočastíc ............................................................................. 29
+4.4 CT zobrazovanie ............................................................................................................ 29
+5 LABORATÓRNA DIAGNOSTIKA TROMBOFÍLIE U PACIENTOV S COVID-19 ................................... 31
+5.1 Metódy diagnostiky trombofílie u pacientov s COVID-19 ................................................ 31
+5.2 Hladiny D-Diméru u pacientov s COVID-19 .................................................................... 32
+5.3 Hladiny fibrinogénu u pacientov s COVID-19 .................................................................. 33
+5.4 Hladiny PT, aPTT u pacientov s COVID-19 ....................................................................... 33
+5.5 Počet krvných doštičiek u pacientov s COVID-19............................................................. 34
+6 ANTIKOAGULAČNÁ LIEČBA HEPARÍNOM S NÍZKOU MOLEKULOVOU HMOTNOSŤOU (LMWH) . 35
+6.1 Antikoagulačná liečba antagonistov vitamínu K .............................................................. 35
+6.2 Antikoagulačná liečba LMWH ........................................................................................ 36
+6.3 Nové perorálne antikoagulanciá NOAC .......................................................................... 36
+
+6.4 Priame perorálne antikoagulanciá ................................................................................ 36
+7 MONITOROVANIE HEPARÍNOVEJ ANTIKOAGULAČNEJ LIEČBY .................................................. 39
+7.1 Vyšetrenie Heparín Anti-Xa ........................................................................................... 39
+7.2 Anti-Xa aktivita (AXA) - kontrola účinnosti liečby LMWH ................................................ 39
+7.3 Odber krvi na test Anti-Xa aktivita (AXA) ....................................................................... 40
+7.4 Vyhodnocovanie Anti-Xa aktivita (AXA) ......................................................................... 40
+7.5 Interpretácia ................................................................................................................. 41
+8 MONITOROVANIE ÚČINKU LMWH U PACIENTOV COVID-19 .................................................... 43
+9 CIELE PRÁCE........................................................................................................................ 46
+9.1 Spracovanie literárnych zdrojov ..................................................................................... 47
+9.2 Miesto výskumu............................................................................................................ 47
+9.3 Kritéria pre zaradenie pacientov do výskumu ................................................................. 47
+9.4 Charakteristika súboru .................................................................................................. 48
+9.5 Vyšetrenie Anti- Xa (AXA) ............................................................................................. 51
+9.6 Výskumný materiál ....................................................................................................... 51
+9.7 Bezpečnosť pri práci ...................................................................................................... 52
+9.8 Postup práce ................................................................................................................. 52
+9.9 Princíp Anti- Xa (AXA) ................................................................................................... 55
+9.10 Štatistické spracovanie údajov ..................................................................................... 57
+10 VÝSLEDKY .......................................................................................................................... 58
+DISKUSIA ................................................................................................................................ 69
+ODPORÚČANIA PRE PRAX........................................................................................................ 75
+ZÁVER .................................................................................................................................... 76
+LITERÁRNE ZDROJE ................................................................................................................. 77
+
+ZOZNAM SKRATIEK
+ACE2: enzým konvertujúci angiotenzín 2
+ALT: alanínaminotransferáza
+aPTT: aktivovaný parciálny tromboplastínový čas
+ARDS: syndróm akútnej respiračnej tiesne
+AST: aspartátaminotransferáza
+AuNP: systém laterálneho toku na báze nanočastíc zlata
+C3: zložka komplementu v sére
+CBC: kompletný krvný obraz
+CRP: C-reaktívny proteín
+DAMP: molekulárne vzory spojené s poškodením
+DIC: diseminovaná intravasculárna co
+DOAC: priame perorálne antikoagulanciá
+DVT: žilová trombóza dolných končatín
+Fc receptory: deriváty imunitného systému imunoglobulínové
+HIT: heparín indukovanej trombocytopénie
+HŽT: hĺbková žilová trombóza
+IL-1α:interleukin 1α
+IL-2: interleukin -2
+IL-6: interleukin -6
+IL-6R: interleukin -6R
+IM: infark myokardu
+KKS: systém Kinín-Kallikreín
+LDH: laktátdehydrogenáza
+LMWH: nízkomolekulové heparíny (lov molekular weight heparins)
+mRNA: mediátorová ribonukleová kyselina
+NOAC: nové perorálne antikoagulanciá
+PE: pľúcna embólia
+PT: predĺžený protrombínový čas
+PT: protrombínový čas
+RAAS: renín-angiotenzín-aldosterón
+Receptory ACE-2: enzým konvertujúci angiotenzín 2
+RNA: ribonukleová kyselina
+
+RT-PCR: reverzná transkripcia polymerázovej reťazovej reakcie
+TF: tkanivový faktor
+TMPRSS2: transmembránová proteáza serín-2
+TSOAC: cieľovo špecifické perorálne antikoagulanciá (target-specific oral anticoagulants)
+UFH: nefrakciovaný heparín (untractionated heparín)
+VKA: antagonisti vitamínu K
+VTE: venózna tromboembólia
+VWF: von Willebrandov faktor
+
+ZOZNAM ILUSTRÁCIÍ A ZOZNAM TABULIEK
+ZOZNAM ILUSTRÁCIÍ
+Obrázok 1 Väzba SARS-CoV-2 na hostiteľský receptorov................................................. 21
+Obrázok 2 Účinky zápalovej odpovede na infekciu COVID-19 so syndrómom uvoľnenia
+cytokínov ............................................................................................................................ 23
+Obrázok 3 Odobratie vzorky z nosa pomocou tampóna .................................................... 27
+Obrázok 4 Koncept fluorescenčnej detekcie v kvantitatívnej fluorescenčnej PCR ........... 28
+Obrázok 5 Dva typy imunotestov ELISA a to detekcia antigénov COVID-19 alebo
+protilátok proti vírusovým antigénom ................................................................................ 29
+Obrázok 6 Miesto účinku DOAC........................................................................................ 37
+Obrázok 7 Algoritmus zhodnotenia stavu antikoagulácie (DOAC) ................................... 38
+Obrázok 8 Prístroj SYSMEX Ca-1500 .............................................................................. 51
+Obrázok 9 BD VACUTAINER® - 9NC 4,5 ml ................................................................. 52
+Obrázok 10 Sysmex-Ca-1500-displej................................................................................. 53
+Obrázok 11 Heparínový test INNOVANCE........................................................................ 54
+Obrázok 12 Princíp ............................................................................................................. 55
+ZOZNAM TABULIEK
+Tabuľka 1 Súhrn laboratórnych testov v súvislosti s Covid-19 .......................................... 31
+Tabuľka 2 Cieľové terapeutické hodnoty Anti-fXa pri liečbe LMWH ............................... 41
+Tabuľka 3 Zastúpenie pacientov ........................................................................................ 58
+Tabuľka 4 Priemerný vek a mortalita................................................................................... 63
+
+ZOZNAM GRAFOV
+Graf 1. Deskripcia výskumného súboru podľa pohlavia ..................................................48
+Graf 2. Deskripcia výskumného súboru podľa veku ........................................................49
+Graf 3. Deskripcia výskumného súboru diagnózy pacienta .............................................50
+Graf 4. Hodnoty Anti – Xa ...............................................................................................59
+Graf 5. Hodnoty AntiXa (AXA) u žien ............................................................................60
+Graf 6. Hodnoty AntiXa (AXA) aktivity u mužov ............................................................61
+Graf 7. D-Diméri pred liečbou u žien ...............................................................................64
+Graf 8. D-Diméri pokles po liečbe u žien .........................................................................65
+Graf 9. D-Diméri pred liečbou u mužov ...........................................................................66
+Graf 10.Pokles hodnôt D-Dimérov u mužov ...................................................................67
+
+ÚVOD
+Pandémia vírusu SARS-CoV-2 nás tvrdo zasiahla po celom svete. Od začiatku roka 2020
+bol a stále je celosvetový systém zdravotnej starostlivosti zavalený pacientmi infikovanými
+SARS-CoV-2.
+U pacientov s infekciou koronavírusom 2 (SARS‐CoV‐2) sa môže vyvinúť ťažký akútny
+respiračný syndróm, ktorý vyžaduje hospitalizáciu. Infekcia postihuje predovšetkým
+dýchací systém, môžu byť postihnuté aj iné orgány. Najmä medzi vážne chorými pacientmi
+sa u mnohých vyvinie hyperkoagulačný stav, ktorý ovplyvňuje nepriaznivé klinické
+výsledky. Okrem vysokej prevalencie trombotických príhod sa u kriticky chorých pacientov
+s COVID-19 často vyvíjajú laboratórne abnormality kompatibilné s hyperkoagulabilitou.
+Kriticky chorí pacienti majú vysoký výskyt venózneho tromboembolizmu (VTE). Existujú
+najmenej dva samostatné patologické koagulačné procesy, ktoré sú dôležité pri rozvoji
+klinických prejavov COVID-19. V mikrocirkulácii pľúc a potenciálne iných orgánov lokálne
+priame vaskulárne a endoteliálne poškodenie produkuje mikrovaskulárne zrazeniny. V
+dôsledku hyperkoagulability existuje aj možnosť trombózy veľkých ciev v systémovom
+obehu. Táto infekcia ovplyvňuje zrážanlivosť krvi tým, že spôsobuje dysfunkciu endotelu a
+abnormality krvných buniek a vedie k zápalovej aktivácii viacerých dráh, čo sú príznaky
+vysokého protrombotického stavu. Všetky tieto zmeny sú tiež sprevádzané abnormalitami v
+laboratórnych vyšetreniach pacientov s COVID-19, ako je obrovské zvýšenie hladín DDimérov a fibrinogénu. Klinickým výsledkom je koagulopatia a venózna tromboembólia
+(VTE) spojená s COVID-19, ktoré sa bežne vyskytujú u hospitalizovaných pacientov.
+Práca v jednotlivých kapitolách charakterizuje etiológiu COVID-19, patologické zmeny,
+ktorou vírusové infekcie vyvolávajú systémovú zápalovú odpoveď a spôsobujú nerovnováhu
+medzi
+
+prokoagulačnými
+
+a
+
+antikoagulačnými
+
+homeostatickými
+
+mechanizmami.
+
+Antitrombotickú profylaxiu, ktorá je nevyhnutná u všetkých hospitalizovaných a imobilných
+pacientov, ako pri každej závažnej akútnej infekcii, pričom sa uprednostňujú heparíny, kde
+sa predpokladá špecifický priaznivý účinok heparínu na COVID-19 a to vďaka jeho
+pleiotropným účinkom.
+
+14
+
+Cieľom výskumnej práce bolo hodnotiť monitoring účinnosti antitrombotickej liečby
+nízkomolekulovými heparínmi (LMWH) enoxaparínu testom Anti-Xa pomocou získaných
+hodnôt Anti Xa aktivita a tak predchádzať riziku trombotických príhod u hospitalizovaných
+pacientov.
+
+15
+
+1 TROMBOFÍLIA A COVID - 19
+Trombofilný stav je definovaný ako klinická tendencia k vzniku trombózy alebo prítomnosť
+molekulových abnormalít hemostázy, ktoré predisponujú jedinca k tromboembolickej
+chorobe. Vyjadruje situáciu konštitučných vrodených alebo získaných faktorov náchylných
+k trombóze. Stančiaková,l., (2017).
+1.1 Trombofília
+Integrita cievneho systému je zabezpečená súhrou cievnej steny, krvných doštičiek a
+plazmatických proteínov taktiež vrátane koagulačných faktorov a ich inhibítorov a
+fibrinolytického systému a jeho inhibítorov. Takáto súhra vedie k aktivácii zrážania krvi v
+mieste poškodenia ciev, ktoré je potrebné na zabránenie straty krvi. Súčasne je zabezpečené
+obmedzenie tvorby krvnej zrazeniny intraluminálne, aby sa zabránilo oklúzii cievneho lôžka
+(systémom inhibítorov koagulácie). Už vytvorený trombus sa rozpúšťa fibrinolytickým
+systémom. Kessler, P.,(2006)
+Trombóza - krvná zrazenina v cievnom lôžku alebo srdcových dutinách sa vyskytuje v
+situácii prevahy aktivácie zrážania krvi nad kapacitou koagulačných inhibítorov a
+fibrinolytického systému alebo v miestach neprítomnosti prietoku krvi. Aktivácia zrážania
+krvi má častejšie získanú, väčšinou krátkodobú príčinu, často spojenú s poškodením ciev
+alebo endotelovou dysfunkciou pri chirurgických zákrokoch, traume, infekciách, a pod.
+Existujú však aj vrodené predispozície k zvýšenej aktivácii zrážania krvi. Znížená kapacita
+inhibítorov koagulácie alebo rezistencia koagulačných procesov na túto inhibíciu je často
+vrodená, ale existujú aj získané stavy s týmito poruchami. Kessler, P.,(2006)
+Trombóza v arteriálnom lôžku je vo väčšine prípadov podmienená aterosklerotickým
+postihnutím cievnej steny, resp. prasknutím ateromatózneho plaku. Intenzita tejto lokálnej
+aktivácie hemostázy je v tomto prípade rozhodujúca a dlhodobé dispozície zohrávajú len
+malú úlohu.
+Čiže trombofilné stavy sú vrodené a získané ochorenia spôsobené poruchou funkcie
+hemostázy na viacerých úrovniach. Vo všeobecnosti predstavujú pomerne variabilnú
+skupinu stavov, ktorá sa klinicky prejavuje trombotickými prejavmi v rozličných častiach
+krvného riečiska Stančiaková,l., (2017).
+
+16
+
+1.2 COVID-19 ovplyvňuje zrážanlivosť krvi
+Zistilo sa, že COVID-19 má významný vplyv na mechanizmy zrážania krvi. U pacientov s
+COVID-19 bolo pozorované zvýšené riziko vzniku krvných zrazenín, ktoré môže byť
+spojené práve s trombofíliou.
+Vírusové infekcie vyvolávajú systémovú zápalovú odpoveď a spôsobujú nerovnováhu
+medzi prokoagulačnými a antikoagulačnými homeostatickými mechanizmami. Zapojených
+je viacero patogenetických mechanizmov, včetne endoteliálnej dysfunkcie, zvýšenia von
+Willebrandovho faktora, aktivácie Toll-like receptora a aktivácie dráhy tkanivového
+faktora. Krvné doštičky sa po rozpoznaní antigénu aktivujú a interagujú s bielymi krvinkami,
+aby uľahčili odstraňovanie patogénov prostredníctvom aktivácie bielych krviniek a tvorby
+zrazenín. Trombocyty sú rozhodujúcimi mediátormi zápalu a senzormi infekčných agens
+prostredníctvom interakcie bunkových povrchových receptorov a patogénov (receptory na
+rozpoznávanie patogénov) alebo derivátov imunitného systému imunoglobulínové Fc
+receptory a komplementové receptory. Čiže dysregulácia koagulačnej kaskády a následná
+tvorba intraalveolárnych alebo systémových fibrínových zrazenín sú významnými nálezmi
+pri koronavírusových infekciách Giannis, D.,( 2020).
+Vírus COVID-19 spôsobuje zápal a poškodenie stien krvných ciev, čo môže viesť k tvorbe
+krvných zrazenín. Ukázalo sa tiež, že COVID-19 môže spôsobiť aj zvýšenie hladiny
+koagulačných faktorov v krvi, ktoré prispievajú k tvorbe krvných zrazenín.
+Trombofília môže mať závažné následky, keďže krvné zrazeniny môžu blokovať cievy a
+viesť k ochoreniam, ako sú napríklad mŕtvica, srdcový infarkt alebo pľúcna embólia.
+U pacientov s COVID-19 je preto dôležité monitorovať riziko vzniku krvných zrazenín a
+prípadne podstúpiť liečbu, ktorá im pomôže minimalizovať toto riziko a zlepšiť ich
+prognózu. Han H.,(2020).
+1.3 Patogenéza COVID-19
+Vírus sa prenáša kvapôčkami dýchacích ciest, vstupuje do krvného obehu a hlavne sa
+dostáva do tkanív exprimujúcich receptory ACE-2. Vrátane alveolárnych buniek typu 2,
+pľúc, gastrointestinálneho traktu, endotelových buniek srdca a krvných ciev, pericyty,
+adipocyty a nervové bunky, tu sa vírus viaže na hostiteľské ACE-2 receptory (Marchandot.
+B., 2020).
+
+17
+
+Vírus následne preniká do hostiteľských buniek prostredníctvom membránovej fúzie alebo
+endocytózy. Vírusový obsah sa uvoľní vo vnútri hostiteľských buniek a jeho vírusová RNA
+vstupuje do jadra na replikáciu, pomocou vírusovej mRNA na výrobu vírusových
+proteínov. Neskôr sa vytvoria nové vírusové častice a nakoniec sa uvoľnia. Vírusová adhézia
+na ACE-2 receptory nasledovaná vírusovou replikáciou spôsobuje infiltráciu zápalových
+buniek, apoptózu endotelových buniek a
+
+mikrovaskulárnu trombózu. (Georgia
+
+Kaiafa a kol.2020)
+Hyperkoagulačný stav u pacientov s COVID-19 pochádza z komplexnej zápalovej reakcie
+na vírus, pri ktorej hemostáza a imunitný systém spolupracujú na obmedzení šírenia
+vírusovej infekcie. Fyziologická imunitná trombóza sa môže vyvinúť do nadmernej,
+dysregulovanej tvorby imunologicky sprostredkovaných trombov a šíriť sa najmä v
+mikrocirkulácii. Niekoľko vírusových infekcií môže mať spoločné abnormálne koagulačné
+procesy, ako je krvácanie, trombóza alebo oboje ( Ragnoli B.,2020).
+
+18
+
+2 COVID-19 A RIZIKOVÉ FAKTORY TROMBÓZY
+Rizikové faktory spojené s ochorením Covid-19 sa môžu týkať závislosti na jednotlivcoch a
+ich zdravotnom stave. Existuje niekoľko rizikových faktorov, ktoré môžu zvyšovať
+pravdepodobnosť vážneho priebehu ochorenia Covid-19.
+2.1 COVID-19 a rizikové faktory
+Zatiaľ čo väčšina pacientov s COVID-19 má mierne príznaky, v niektorých prípadoch môže
+viesť k ťažkému zápalu pľúc alebo smrti. Medzi hlavné rizikové faktory takýchto prípadov
+patrí vek 60 a viac rokov. Starší jedinci a ľudia s oslabeným imunitným systémom sú
+vystavení výrazne väčšiemu riziku, že budú mať závažné príznaky choroby. Fajčenie,
+obezita, nadmerné pitie a už existujúce komorbidity môžu tiež zvýšiť riziko nakazenia( Liu,
+Wei, a kol.,2019).
+2.2 Rizikové faktory COVID-19 súvisiace s trombózou
+Imobilizácia, obmedzenie pohybu pacienta, môže viesť k dlhšiemu sedeniu alebo ležaniu
+na jednom mieste. Tento stav zhorší obeh krvi a krvi v žilách, čo zvyšuje riziko tvorby
+krvných zrazenín.
+Systémový zápal, stav po nakazení vírusom, môže reagovať nadmernou zápalovou reakciou
+v tele, ovplyvniť funkciu a zvýšiť riziko trombózy. Taktiež mechanická ventilácia, ktorá sa
+používa na podporu dýchania môže byť spojená s rizikom trombóz. Tromb sa tvorí v
+cievach, čo môže viesť k závažným komplikáciám, ako je pľúcna embólia, zavedenie
+zrazeniny do pľúcnej artérie, alebo hlboká žilová trombóza, tvorba krvných zrazenín v
+hlbokých žilách. Ďalšími rizikovými faktormi sú hospitalizácia na JIS, inštalácia centrálnych
+žilových katétrov a zvýšenie niektorých biomarkerov (Miesbach,2020).
+2.3 Hypoxia
+V súvislosti s Covid-19, hypoxia sa často spája so závažnými prípadmi ochorenia. Faktor,
+ktorý prispieva k hypoxii u pacientov s COVID-19 je pneumónia. Výrazný zápal pľúc môže
+obmedziť schopnosť pľúc prijímať a distribuovať kyslík do krvi. Preto by sa mala venovať
+hypoxii osobitná pozornosť (Thachil J., 2020).
+Môže spustiť aj trombogenézu po infekcii COVID-19. Hypoxia sa vyskytuje hlavne v
+stredne ťažkých alebo ťažkých prípadoch COVID-19 a môže viesť k poruchám endotelu a
+hyperkoagulabilite (Spittle J.,2020).
+19
+
+Dá sa povedať, že pacienti s COVID-19 s hypoxiou trpia protrombotickými stavmi
+prostredníctvom upregulácie PAI-1 a stimulácie syntézy prokoagulantov, ako je TF a von
+Willebrandov faktor (Katneni UK, 2020).
+2.4 Korelácia COVID - 19 a krvná skupina ABO
+Taktiež korelácia medzi COVID-19 a krvnou skupinou ABO ukázala podľa štúdie Zhao a
+kol.,že u pacientov skupiny A je väčšia pravdepodobnosť, že budú symptomatickými
+pacientmi s COVID-19 ako u pacientov zo skupiny O. Vo všeobecnosti je ABO
+pleiotropným lokusom, ktorý súvisí s trombotickými ochoreniami, ako je VTE. Predpokladá
+sa, že rozdiel v hladinách trombotického rizika súvisí s hladinami VWF, ktoré vykazujú
+nižšie u pacientov v skupine O a hladinami IL-6 (Zhao, Jiao, a kol.,2020).
+2.5 Poškodenie pečene
+Covid-19 môže mať vplyv aj na pečeň, najmä u niektorých pacientov s vážnym priebehom
+ochorenia. Poškodenie pečene je posledným rizikovým faktorom trombózy počas infekcie
+COVID-19, ktorý stojí za zmienku. Infekcia pečene vírusom zahŕňa zvýšenie
+alanínaminotransferázy, aspartátaminotransferázy a bilirubínu. Keďže pečeň je hlavným
+zdrojom hemostázy a plazmatických bielkovín, postihnutá pečeň môže viesť k pomerne
+škodlivým dysreguláciám koagulačného systému (Ahmed,S.,2020).
+SARS-CoV-2 je zodpovedný za ochorenie COVID-19, ktoré sa prejavuje širokou škálou
+príznakov. Tieto rizikové faktory ako sme vyššie uviedli, môžu zvyšovať pravdepodobnosť
+vážneho priebehu ochorenia.
+
+20
+
+3 INFEKCIA SARS-CoV-2 a COVID-19
+Infekcia SARS-CoV-2 a ochorenie COVID-19 sa stali hlavnými témami celosvetovej
+pozornosti od ich vzniku v roku 2019. SARS-CoV-2 je nový koronavírus, ktorý sa prvýkrát
+objavil v meste Wuhan v provincii Chu-pej v Číne.
+3.1 Infekcia SARS-CoV-2
+Vstup vírusu sa spustí, keď sa podjednotka S1 glykoproteínu vírusového spike (S) SARSCoV-2 naviaže na hostiteľský receptor ACE2, je to enzým konvertujúci angiotenzín 2.
+(obrázok č.1). V skutočnosti je interakcia proteínu S1 a receptora kľúčová pre určenie
+infekcie SARS-CoV-2. Je
+
+však tiež
+
+dôležité, aby
+
+bol
+
+proteín S
+
+aktivovaný
+
+transmembránovou proteázou serín-2 (TMPRSS2) skôr, ako sa naviaže na receptor ACE2 a
+vstúpi do hostiteľskej bunky (Salian, VS.,2020).
+
+Obrázok 1. Väzba SARS-CoV-2 na hostiteľský receptor (Salian, VS.,2020).
+Väzba SARS-CoV-2 na hostiteľský receptor. SARS-CoV-2 sa viaže na receptor ACE2
+hostiteľskej bunky po tom, čo TMPRSS2 aktivuje vírusový proteín S.
+Po infekcii vedie downregulácia ACE2 ktorá je spôsobená SARS-CoV-2 k deregulácii dráh
+systém renín-angiotenzín-aldosterón (RAAS) a systém Kinín-Kallikreín (KKS), čo môže
+mať za následok vážne ochorenie a smrteľný výsledok (Salian, VS.,2020).
+21
+
+3.2 COVID-19 a trombozápal
+Pokiaľ ide o hematopoetický systém, COVID-19 možno považovať za protrombotické
+ochorenie. Účinky infekcie SARS-CoV-2 na ľudský organizmus nastupujú v počiatočných
+fázach ochorenia a v inkubačnej dobe. Počas tejto doby príznaky chýbajú a hodnota
+leukocytov a lymfocytov v periférnej krvi je väčšinou normálna. Krátko potom, čo sa
+vyskytne virémia a vírus sa začne šíriť, najmä do tkanív, ktoré exprimujú vysoké hladiny
+ACE2. Neskôr, o jeden až dva týždne po objavení sa prvých príznakov, dochádza k zvýšeniu
+systémových zápalových mediátorov a dochádza k významnej lymfopénii, ktorá je často
+spojená s potrebou starostlivosti na JIS (Kaiafa,G., a kol.2020).
+3.3 Cytokínová búrka
+Pri COVID-19 sa trombozápal a porucha koagulácie objavujú prostredníctvom špecifických
+ciest, ako je napríklad zápal a búrka cytokínov. Aktivácia prirodzenej imunity vyvolaná
+SARS-CoV-2 má za následok zvýšenie produkcie prozápalových cytokínov bunkami, ako
+sú neutrofily, T-bunky, makrofágy, fibroblasty, pneumonocyty, endotelové bunky a
+dendritické bunky . Je nevyhnutné zdôrazniť, že aj keď uvoľňovanie cytokínov má dôležitú
+úlohu v imunitnom systéme a je následne žiaduca jeho nadmerná aktivácia, môže vážne
+poškodiť mnohé systémy (Lazzaroni, M. G., a kol.,2020).
+Obrázok dva zobrazuje účinky zápalovej odpovede na infekciu COVID-19 so syndrómom
+uvoľnenia cytokínov a dysreguláciou imunitného systému s konečným efektom
+hyperkoagulačného stavu.
+
+22
+
+Obrázok 2. Účinky zápalovej odpovede na infekciu COVID-19 so syndrómom uvoľnenia
+cytokínov (Lazzaroni, M. G., a kol.,2020).
+3.4 Špecifické faktory IL-6 A IL-2
+Konkrétne pri COVID-19 sa objavujú prozápalové cytokíny, ktoré sú vo výraznej miere
+exprimované ako súčasť cytokínovej búrky. Môžeme povedať, že zo všetkých uvedených
+cytokínov sú IL-6 a IL-2 silne spojené so závažnosťou ochorenia. Znamená to, že sú vyššie
+u kriticky chorých pacientov s COVID-19 ako u bežných pacientov s COVID-19 .
+Explozívne uvoľňovanie týchto prozápalových cytokínov vyvoláva veľkú expresiu
+biologických parametrov zápalu. Ukázalo sa, že in vivo okrem hyperkoagulačného stavu
+možno u pacientov so zápalovými stavmi napr. sepsa, nájsť aj vyššie hladiny špecifických
+faktorov, ako sú TNF-a, IL-6 a IL-1. IL-6 má mnoho úloh v zápalovom procese. Napríklad
+indukuje produkciu TF v makrofágoch v priebehu zápalu. V plazme pacientov s COVID 19
+vedie zvýšenie IL-6 a IL-6R, ktoré súvisí s infekciou k posilneniu endotelových buniek
+a TF. Touto infekciou vyvolaná koagulopatia môže hrať kľúčovú úlohu pri trombocytopénii,
+zatiaľ čo cytokínová búrka spúšťa trombocytózu (Lazzaroni,a kol.2020).
+Okrem toho sa IL-6 podieľa aj na syntéze iných koagulačných faktorov, ako je fibrinogén a
+faktor VIII (FVIII) a pri pôsobení na endotelové bunky podporuje sekréciu vaskulárny
+endoteliálny rastový faktor, čím sa indukuje vaskulárna permeabilita. Okrem toho je IL-6,
+IL-1α vo veľkej miere exprimovaný, aktivovanými krvnými doštičkami, endotelovými
+bunkami a monocytmi počas predzápalovej fázy a spája koagulačný systém so zápalom.
+(Savla, Shreya R.,a kol.,2021).
+
+23
+
+3.5 Systém komplementu
+Systém komplementu je kľúčovou súčasťou vrodenej imunitnej odpovede počas infekcie
+COVID-19. Tiež sa podieľa na patogenéze trombózy u pacientov s COVID-19, pri
+poruchách, ako je poškodenie endotelu, trombóza, trombocytopénia a krvácanie. Sú to
+rizikové faktory úmrtnosti pre kriticky chorých pacientov s COVID-19.
+Systém komplementu zdieľa tri dráhy, prostredníctvom ktorých aktivuje plazmatické
+proteíny na obranu hostiteľa. Prvá cesta je spustená kontaktom hostiteľ a antigén, druhá je
+aktivovaná komplexmi antigén a protilátka. Zatiaľ čo tretia je lektínová dráha, ktorá viaže
+polysacharidy na povrchoch antigénu na hostiteľské bunky. V tretej dráhe vírus napáda a
+poškodzuje hostiteľské bunky. Tieto bunky exprimujú ACE2 receptor, čím spôsobuje
+trombozápalovú odpoveď, ktorá ďalej aktivuje komplementový systém.
+Vo všetkých troch vyššie uvedených dráhach sú C3 a jeho deriváty hlavnými prvkami
+komplementového systému (Tomo, Sojit,a kol.,2021).
+3.6 Klinický priebeh infekcie SARS-CoV-2
+Hoci je klinický priebeh u pacientov s infekciou koronavírusom 2 (SARS-CoV-2) väčšinou
+priaznivý, môže sa vyvinúť ťažký akútny respiračný syndróm vyžadujúci hospitalizáciu na
+jednotke intenzívnej starostlivosti. Keďže infekcia postihuje predovšetkým dýchací systém,
+môžu byť postihnuté aj iné orgány. Najmä medzi ťažko chorými pacientmi sa u väčšiny
+vyvinie hyperkoagulačný stav, ktorý ovplyvňuje nepriaznivý klinický výsledok.
+Vysoká zápalová záťaž spojená s COVID-19 a zápalom v cievnom systéme môže viesť ku
+kardiovaskulárnym komplikáciám s rôznymi klinickými prejavmi. Okrem vysokej
+prevalencie trombotických príhod sa u kriticky chorých pacientov s COVID-19 často
+vyvíjajú laboratórne abnormality kompatibilné s hyperkoagulabilitou. Je známe, že kriticky
+chorí pacienti majú vysoký výskyt venózneho tromboembolizmu (VTE) (Scialo, Filippo,a
+kol.,2020).
+3.7 Hematologické prejavy pacientov s COVID-19
+Značný počet jedincov infikovaných COVID-19 zostáva asymptomatických. Definícia
+asymptomatického je pozitívny test na COVID-19, ale klinické príznaky a zobrazovacie sú
+normálne. Pacient s miernymi symptómami má akútnu infekciu horných dýchacích ciest
+alebo zažívacie symptómy. Zatiaľ čo stredne závažné prípady trpia pneumóniou bez zjavnej
+hypoxémie alebo CT hrudníka s léziami.
+24
+
+Na druhej strane ťažkí pacienti čelia pneumónii s hypoxémiou. Napokon, kritický prípad
+COVID-19 má zvyčajne ARDS, môže mať šok, srdcové zlyhanie, encefalopatiu, koagulačnú
+dysfunkciu, poškodenie myokardu a akútne poškodenie obličiek. Symptómy zvyčajne
+nastupujú na siedmi deň po infekcii, dýchavičnosť na ôsmi deň, zápal pľúc na deviaty deň a
+ARDS vyžaduje na desiaty až jedenásty deň prijatie na jednotku intenzívnej starostlivosti
+(JIS) (Lumbers, Eugenie R., a kol.,2020).
+Z najčastejších hematologických prejavov u pacientov s COVID-19 je trombocytopenia,
+zvýšená trombóza. Okrem toho môže COVID-19 viesť k zvýšeným hladinám niektorých
+zložiek krvi, ako sú D-Diméry a fibrinogén. Niektorí pacienti s COVID-19 môžu mať tiež
+zvýšené hladiny bielkoviny, CRP, krvné bunky, ako sú erytrocyty, leukocyty a lymfocyty.
+Niektorí majú anémiu a leukocytózu, zatiaľ čo iní môžu mať lymfopéniu.
+Je dôležité, aby pacienti s COVID-19 podstúpili pravidelné krvné testy, aby sa sledovali ich
+krvné hodnoty a aby sa zabezpečilo, že akékoľvek hematologické prejavy sa čo najskôr
+diagnostikujú a liečia (Yuki, Koichi,a kol.,2020).
+3.8 Prevalencia a incidencia VTE u pacientov s COVID-19
+Komplikácie VTE boli prvýkrát hlásené až u 30% pacientov s COVID-19 prijatých na
+jednotku intenzívnej starostlivosti (JIS) v Číne a Holandsku. Následné štúdie u kriticky
+chorých pacientov s COVID-19 z USA, Talianska a Francúzska preukázali trombózu v
+intravenóznych katétroch a arteriálne vaskulárne okluzívne príhody vrátane akútneho IM,
+akútnej ischémie končatín a mozgovej príhody. Najnovší prehľad zistil, že prevalencia DVT
+a PE u pacientov s COVID-19 na JIS kolíše od 0% do 54%. Na druhej strane skupina
+talianskych výskumníkov na Lekárskej fakulte Univerzity Cattolica del Sacro Cuore, ktorí
+pozorovali, že výskyt DVT u pacientov, ktorí nie sú na JIS, hospitalizovaných pre pacientov
+s COVID-19, je 12%. Tieto výsledky sa zhodovali s nedávnou metaanalýzou, ktorá skúmala
+riziko VTE u pacientov s COVID-19, zistila, že výskyt VTE je 26%, zatiaľ čo DVT a PE
+boli 12% a 14%. Štúdia, ktorá skúmala pacientov z dvoch popredných nemocníc v čínskom
+Wu-chane, zistila, že zo 184 pacientov na jednotke intenzívnej starostlivosti sa len u viac
+ako (27%) pacientov vyvinula VTE, zatiaľ čo u menej ako 5% pacientov sa vyvinul
+arteriálny tromboembolizmus (TE) (Kofteridis, Diamantis P., a kol.,2021).
+V rovnakej línii Middeldorp a kol. ukázali, že HŽT sa vytvorila u rovnakého percenta (27%)
+pacientov na JIS a 2% pacientov bez JIS s COVID-19.
+
+25
+
+Holandská štúdia so 184 pacientmi s pneumóniou COVID-19 prijatými na JIS zistila 49%
+kumulatívny výskyt trombotických komplikácií, najmä zmien naznačujúcich pľúcnu
+embóliu (PE) pozorovaných na pľúcnom angiograme pomocou počítačovej tomografie
+(CT). Ďalšie štúdie z Holandska a Francúzska tiež naznačujú, že VTE sa vyskytuje u 20–
+30% kriticky chorých pacientov s COVID-19, a to aj pri profylaxii. Pneumónia, vysoký vek,
+PT > 3 s a aPTT > 5 s boli individuálnymi prediktormi VTE u týchto pacientov.
+Taktiež Khan a kol podporili tieto výsledky hlásením VTE dolných končatín u 20 z 81
+pacientov s COVID-19 s priemerným vekom 60 rokov, ktorým nebola podaná preventívna
+antikoagulácia. Laboratórne testy týchto pacientov ukázali lymfopéniu, predĺžené aPTT a
+vysoké hodnoty D-Dimérov. Preto VTE bola venovaná nevyhnutná pozornosť u kritických
+pacientov s COVID-19 a rozvinul sa oveľa častejšie ako SARS (Kofteridis, Diamantis P.,
+a kol.,2021).
+
+26
+
+4 COVID-19 DIAGNOSTICKÉ POSTUPY
+Na sledovanie a prognózu každého štádia ochorenia o infekcii SARS-CoV-2 v decembri
+2019 boli vyvinuté rôzne testovacie súpravy a testy na diagnostiku COVID-19. Lekári majú
+niekoľko metód diagnostiky, vrátane krvných testov, ultrazvuku a CT vyšetrenia.
+4.1 Test založený na PCR
+Metódou reverznej transkripcie-polymerázovej reťazovej reakcie (RT-PCR). Z klinickej
+vzorky je väčšinou dominantný v molekulárno-genetických testoch na detekciu vírusovej
+RNA. Je to komerčne dostupný test na COVID-19. Taktiež zo vzorky tampónov z nosa a
+očných sekrétov sa používa test RT-PCR (Bhattarai, Kashi Raj, a kol.,2018).
+Postup RT-PCR testu na detekciu vírusového genómu z klinickej vzorky je znázornené na
+obrázku tri a štyri. Tento test zahŕňa izoláciu vírusovej RNA z klinickej vzorky, po ktorej
+nasleduje generovanie komplementárnej DNA (cDNA) RNA-dependentnou DNA
+polymerázovou reakciou. cDNA sa konvertuje na dvojvláknovú DNA (dsDNA) pomocou
+PCR amplifikácie. Amplifikácia tejto vzorky DNA prebieha dovtedy, kým sa vírusová cDNA
+nedeteguje fluorescenčným alebo elektrickým signálom (VanGuilder, Heather D.,a
+kol.,2008).
+
+Obrázok 3. Odobratie vzorky z nosa pomocou tampónu (Seo, Giwan, a kol.,2020).
+
+27
+
+Obrázok 4. Koncept fluorescenčnej detekcie v kvantitatívnej fluorescenčnej PCR (Seo,
+Giwan, a kol.,2020).
+Postup diagnostiky COVID-19 prostredníctvom RT-PCR.
+Táto metóda zahŕňa odber vzorky a extrakciu vzorky vírusovej RNA. Extrahovaná vzorka
+RNA
+
+sa
+
+reverznou
+
+transkripciou prevedie
+
+na
+
+svoju
+
+komplementárnu DNA
+
+(cDNA). Nakoniec sa amplifikácia tejto vzorky DNA uskutoční v qPCR a vírusová cDNA
+sa deteguje fluorescenčným signálom (Seo, Giwan, a kol.,2020).
+4.2 Sérologický test
+Sérologický test, zahŕňa analýzu biologických tekutín alebo krvného séra na identifikáciu
+prítomnosti určitých biomarkerov, ako sú protilátky. Vo všeobecnosti sa používa na
+monitorovanie priebehu ochorenia. Poznáme dva typy imunotestov ELISA a to detekcia
+antigénov COVID-19 alebo protilátok proti vírusovým antigénom. Obidva testy sú podobné
+len sa líšia potiahnutím mikrotitračnej doštičky. Ak je potiahnutý antigénmi, tak sa používa
+na detekciu protilátok vytvorených proti vírusu. Naopak, potiahnutie antivírusovými
+protilátkami umožňuje detekciu vírusových antigénov. Ako je znázornené na obrázku päť,
+najprv sa vzorka pacienta obsahujúca vírusové antigény pridá do mikrojamkovej platne
+potiahnutej protilátkou anti-SARS-CoV-2. Potom sa pridá enzýmom značená detekčná
+protilátka. Na konci sa pridá substrát vhodný pre enzým detekčnej protilátky, aby sa vytvoril
+kolorimetrický signál, ktorý sa môže merať pomocou čítačky platní (Bryant, Juliet E.,
+a kol.,2020).
+
+28
+
+Obrázok 5. Dva typy imunotestov ELISA a to detekcia antigénov COVID-19 alebo
+protilátok proti vírusovým antigénom (Carter, Linda J., a kol.,2020).
+4.3 Sérologické testy na báze nanočastíc
+Vedci skúmali aj AuNP kolorimetrickým biologickým testom založeným na nanočasticiach
+zlata, pre možnú diagnostiku ochorenia COVID-19. Ako napr. Huang a kol. pripravili systém
+laterálneho toku na báze nanočastíc zlata (AuNP-LF). Bol vyrobený z rôznych ľahko
+dostupných anorganických nanomateriálov. Tento systém AuNP-LF vie detegovať protilátku
+IgM vyvinutú vo vzorke séra pacienta namierenú proti vírusovému patogénu SARS-CoV-2.
+Detekčný prúžok AuNP-LF bol pripravený potiahnutím nukleoproteínu SARS-CoV-2 ako
+antigénu, po ktorom pokračovala konjugácia antihumánnej protilátky IgM. Tento prúžkový
+systém AuNP-LF dokázal detegovať vírus SARS-CoV-2 v klinických vzorkách do 15 minút
+(Huang, Chao, a kol.,2020).
+4.4 CT zobrazovanie
+V mnohých krajinách sa používalo ako nástroj skorej diagnostiky ochorenia COVID-19
+skenovanie počítačovou tomografiou (CT), hlavne z dôvodu nedostatku testovacích súprav.
+Ako diagnostický prvok boli použité abnormálne pozorovania na snímkach hrudníka.
+
+29
+
+V CT hrudníka pacientov s COVID-19 v počiatočnom štádiu ochorenia sa zvyčajne
+pozorovali bilaterálne aj periférne zábrusové
+
+opacity. Zatiaľ čo v neskoršom štádiu
+
+ochorenia boli pozorované vzory dlažby nepravidelného tvaru (Ai, Tao, a kol.,2019).
+Včasná diagnostika infekcie SARS-CoV-2 a liečba trombofílie sú kľúčové pre zabezpečenie
+čo najlepších výsledkov pre pacientov s COVID-19.
+
+30
+
+5 LABORATÓRNA DIAGNOSTIKA TROMBOFÍLIE U PACIENTOV S COVID-19
+Testovanie
+
+hemostázy
+
+má
+
+dôležitú
+
+úlohu
+
+u
+
+diagnostikovaných
+
+pacientov
+
+s COVID 19. Zvýšené hladiny D-Diméru sú kľúčovým laboratórnym markerom.
+Diagnostický postup zahŕňa aj PT, počet Tr, fibrinogén a ďalšie markery ako aPTT,
+parametre fibrinolýzy, koagulačné faktory, prírodné antikoagulanciá, antifosfolipidové
+protilátky.
+5.1 Metódy diagnostiky trombofílie u pacientov s COVID-19
+Pacienti s COVID-19 môžu mať niektoré laboratórne abnormality a komplikácie
+VTE. Medzi najčastejšie narušené laboratórne parametre patrí predĺžený protrombínový čas
+(PT) a aktivovaný parciálny tromboplastínový čas (aPTT). Následne dochádza k zníženiu
+oboch v dôsledku spotreby koagulopatie, zvýšeného fibrinogénu, zvýšeného počtu krvných
+doštičiek. Taktiež k trojnásobnému zvýšeniu hladín D-Dimérov a zvýšených C-reaktívnych
+proteínov (Giannis, Dimitrios,a kol.,2020).
+
+Tabuľka 1. Súhrn laboratórnych testov v súvislosti s Covid-19.
+Súhrn laboratórnych testov a ich očakávaného výsledku v súvislosti s COVID-19
+Testy, pri ktorých sa očakáva zvýšenie ich
+
+Testy, pri ktorých sa očakáva zníženie ich
+
+úrovne
+
+úrovne
+
+aPTT (v akútnej fáze)
+ALT a AST
+CRP
+D-dimér
+Fibrinogén (v akútnej fáze)
+LDH
+PT (v akútnej fáze)
+CBC (krvné doštičky a lymfocyty v
+akútnom štádiu)
+Skratky: aPTT,
+
+albumín
+aPTT (v neskorej fáze)
+CBC (krvné doštičky a lymfocyty v
+neskorom štádiu)
+Fibrinogén (v neskorej fáze)
+PT (v neskorej fáze)
+
+aktivovaný
+
+parciálny
+
+tromboplastín; ALT,
+
+alanínaminotransferáza; AST, aspartátaminotransferáza; CBC, kompletný krvný
+obraz; CRP, C-reaktívny proteín; LDH, laktátdehydrogenáza; PT, protrombínový čas
+Devreese, Katrien M. J.,a kol.,2015).
+
+31
+
+Zvýšený fibrinogén a D-Diméry sú často pozorované laboratórne abnormality kompatibilné
+s hyperkoagulabilitou a sú považované za dva najdôležitejšie markery (Khan, Inayat
+Hussain, a kol.,2020). Tabuľka číslo jedna nám zahŕňa súhrn laboratórnych testov pri
+ktorých sa očakáva zvýšenie alebo zníženie ich úrovne.
+5.2 Hladiny D-Diméru u pacientov s COVID-19
+V správnom klinickom nastavení normálna hladina D-Diméru naznačuje, že nedochádza k
+významnej aktivácii intravaskulárnej koagulácie. Samotné testovanie D-Dimérov nestačí na
+diagnostické rozhodnutia pri VTE alebo DIC, preto sa častejšie používa ako súčasť
+diagnostického algoritmu. Zistilo sa, že výrazne zvýšené hladiny D-Diméru zvyšujú
+pravdepodobnosť PE. Naopak, u septických pacientov sa predpokladá, že pokles D-Diméru
+naznačuje inhibíciu fibrinolýzy a je spojený s vyššou mortalitou (Semeraro, Fabrizio, a kol.
+2019).
+Sledovanie laboratórnych parametrov, vrátane hladiny D-dimérov, môže byť u pacientov s
+COVID-19 užitočné na určenie rizika vzniku krvných zrazenín a komplikácií spojených s
+trombofilou. D-Diméry sú proteíny, ktoré sa uvoľňujú do krvi po rozklade krvných zrazenín.
+Čiže sú produkované v krvi po rozklade fibrínového polyméru plazmínom. Fibrín je
+molekula, ktorá je uložená v ARDS. D-Diméry označujú úroveň poškodenia pľúc. Vo
+všeobecnosti D-Diméry monitorujú závažnosť zápalu tak, že sa zvyšujú s progresiou
+ochorenia, takže hodnoty D-Dimérov sú > 1,5 mg/l. Progresívny nárast hladín D-dimérov
+bol skutočne pozorovaný u pacientov s COVID-19 (Loo, Joan, a kol., 2020).
+Pri tomto ochorení sú významne zvýšené, čo pravdepodobne odráža trombózu pľúcneho
+vaskulárneho lôžka a fibrinolýzu. D-Diméry odrážajú tvorbu fibrínovej zrazeniny,
+zosieťovanie zrazeniny pomocou FXIIIa a fibrinolýza.
+Zdá sa, že výrazné zvýšenie D-Dimérov u ochorenia COVID-19 odráža aktiváciu koagulácie
+z virémie a cytokínovej búrky, ale superinfekcia a dysfunkcia orgánov sú ďalšími možnými
+príčinami. Z takmer 1500 hospitalizácií COVID-19 Li a kol. našli dve vstupné kovariáty,
+ktoré korelovali so zvýšeným rizikom úmrtia a to vek (OR 1,18; 95% CI 1,0–1,4) a
+východiskovú hladinu D-Diméru (OR 3,0; 95% CI 1,0–7,0) (Lippi, Giuseppe.,2019).
+Štvornásobné zvýšenie hladín D-Dimérov by sa malo považovať za významné podľa
+predbežných usmernení medzinárodnej spoločnosti pre trombózu a hemostázu (ISTH) o
+rozpoznaní a manažmente koagulopatie pri COVID-19.
+32
+
+5.3 Hladiny fibrinogénu u pacientov s COVID-19
+Fibrinogén je glykoproteínový komplex, ktorý sa enzymaticky premieňa trombínom na
+fibrín v čase poškodenia tkaniva, čo spôsobuje zrážanie krvi a
+
+zastavenie
+
+krvácania. Laboratórne parametre pacientov s COVID-19 preukázali protrombickú diatézu.
+Jeho vysoké hladiny sú spojené s trombózou aj nezávisle od akútnej fázy. Okrem toho
+vysoký fibrinogén prispieva k viskozite krvi. Je to jeden z prvkov Virchowovej triády, ktorý
+hrá úlohu pri vzniku trombózy ( Zou, Ying, a kol.,2020).
+Krvné doštičky sú priťahované do oblasti cytokínom indukovaného endotelového
+poškodenia a aktivujú sa. Prostredníctvom procesu aktivácie krvných doštičiek sa z α-granúl
+krvných doštičiek uvoľňujú molekuly ako doštičkový faktor štyri (FIV) a neutrofily
+aktivujúci peptid-2, ktoré sa podieľajú na nábore a aktivácii monocytov/makrofágov a
+neutrofilov. Ďalšie imunitné účinky aktivovaných krvných doštičiek zahŕňajú to, že sú
+dôležitým zdrojom prozápalového IL-1β, ako aj ďalší nábor neutrofilov prostredníctvom
+interakcie povrchového P-selektínu. Vplyv krvných doštičiek na imunitnú funkciu a
+trombózu bol špecificky zdokumentovaný u pacientov s COVID-19 (Hottz, Eugenio D.,
+a kol.,2020).
+5.4 Hladiny PT, aPTT u pacientov s COVID-19
+U pacientov s COVID-19 sa zistili pri porovnaní so zdravými kontrolami predĺžené
+protrombínové časy (PT). Veľmi mierne predĺžené PT (vyjadrené v sekundách) boli
+pozorované u pacientov, ktorí neprežili a u pacientov s COVID-19 v kritickej
+starostlivosti. Boli hlásené aj mierne predĺžený aktivovaný parciálny tromboplastínový čas
+(aPTT).
+Predĺžený aPTT je ťažké interpretovať u pacientov s COVID-19, pretože možno
+identifikovať mnoho príčin predĺženého aPTT. Ako je prítomnosť heparínu, lupus
+antikoagulancia a zvýšený C-reaktívny proteín (CRP). To sú všetko základné stavy, ktoré sa
+často vyskytujú u týchto pacientov. aPTT sa tiež uvádza ako skrátený, potenciálne v
+dôsledku zvýšeného faktora (F) VIII a fibrinogénu v situácii akútnej fázy (Ranucci, Marco,
+a kol.,2020).
+
+33
+
+5.5 Počet krvných doštičiek u pacientov s COVID-19
+Počet krvných doštičiek je test často vykonávaný u chorých pacientov. Výskyt
+trombocytopénie je však u pacientov s COVID-19 relatívne nízky.
+Prehľad štúdií zameraných na počet krvných doštičiek ukazuje, že u menšiny pacientov je
+počet krvných doštičiek nižší ako 100 × 109 /l. U väčšiny ťažko chorých pacientov s
+COVID-19 bola zistená miernejšia trombocytopénia (počet krvných doštičiek bol pod 150
+× 109 / l) (Giannis, Dimitrios, a kol.,2020).
+Metaanalýza ukázala, že nízky počet krvných doštičiek (priemerný rozdiel: 31 × 109 / l)
+súvisel
+
+so
+
+zvýšenou
+
+závažnosťou
+
+ochorenia
+
+a
+
+úmrtnosťou
+
+u
+
+pacientov
+
+s COVID 19. Trombocytóza bola opísaná aj u pacientov s dlhším pobytom v
+nemocnici. Výskyt trombocytopénie oproti trombocytóze môže pravdepodobne závisieť od
+štádia ochorenia, ktoré je výsledkom konzumnej koagulopatie na jednej strane a stimulácie
+megakaryocytov vyvolanej cytokínovou búrkou na strane druhej (Porfidia, Angelo, and
+Roberto Pola.,2020). Koagulopatia u pacientov s COVID-19 súvisí s vysokým rizikom
+VTE a je spojená so zvýšeným rizikom úmrtia. Algoritmus založený na laboratórnych
+testoch dostupných vo všetkých laboratóriách môže pomôcť pri zvládaní koagulopatie pri
+COVID-19. Bol navrhnutý Medzinárodnou spoločnosťou pre trombózu a hemostázu,
+počnúc D-Dimérmi, PT, počtom krvných doštičiek a fibrinogénom (Mucha, Simon R.,
+a kol.,2020).
+Koagulopatia je slabý prognostický faktor a mali by sa vyvinúť optimálne stratégie na
+včasnú diagnostiku, prevenciu a rýchlu liečbu VTE u pacientov s COVID-19. Profylaxia
+trombózy heparínom s nízkou molekulovou hmotnosťou (LMWH) preukázala priaznivé
+výsledky pri prevencii koagulopatie a znížení rizika úmrtnosti v dôsledku trombotických
+príhod.
+
+34
+
+6 ANTIKOAGULAČNÁ LIEČBA HEPARÍNOM S NÍZKOU MOLEKULOVOU
+HMOTNOSŤOU (LMWH)
+Amtikoagulancia zasahujú rôznymi mechanizmami do koagulačnej kaskády. Medzi
+parenterálne prípravky patrí nefrakciovaný heparín, medzi perorálny potom warfarín,
+antagonista vitamínu K a najnovšia skupina priamych perorálnych antikoagulancií.
+Hlavnými indikáciami antikoagulancií je liečba a prevencia žilovej tromboembolickej
+choroby.
+6.1 Antikoagulačná liečba antagonistov vitamínu K
+Antikoagulancia patria medzi často predpisované lieky. Mechanizmus ich účinku spočíva
+v zásahu do koagulačnej kaskády na rôznych úrovniach. Táto liečba je schopná zabrániť
+závažným komplikáciám vrátane smrti. Je teda nutné ju nielen správne indikovať, ale tiež
+správne používať. Jednotlivé antikoagulanciá majú svoje špecifiká, líšia sa mechanizmom
+účinku, spôsobom podávania a ďalšími charakteristikami (Hirmerová J.,2021).
+Historicky bola antikoagulačná liečba založená na podávaní antagonistov vitamínu K
+(VKA), najmä warfarínu a syntromu, ktoré pôsobia najmä znížením syntézy aktívnych
+faktorov (F) závislých od vitamínu K a to sú FII, FVII, FIX a FX. Kvôli dlhej oneskorenej
+fáze antikoagulačnej indukcie, dodatočnému inhibičnému účinku na dva fyziologické
+inhibítory zrážania krvi (tj proteín C a proteín S) a zároveň úzkemu terapeutickému rozsahu
+sú VKA podporované už desaťročia s počiatočným alebo dodatočným použitím
+heparínyových derivátov. Tieto bežne zahŕňali nefrakcionovaný heparín (untractionated
+heparín, UFH) . Je to komplexný mukopolysacharid s molekulovou hmotnosťou 300030000 daltónov (Da). Patrí medzi nepriame antikoagulanciá a na rozvinutie plného
+antikoagulačného účinku vyžaduje prítomnosť ATIII. Komplex heparín a Antitrombín
+(ATIII) inaktivuje faktory FVa FXa aj FIXa, FXIa, FXIIa. Nie je absorbovaný perorálne ale
+vo forme kontinuálnej intravenóznej infúzie. Neskôr bol nahradený heparínom s nízkou
+molekulovou hmotnosťou (LMWH) (Franchini M., a kol.,2016).
+
+35
+
+6.2 Antikoagulačná liečba LMWH
+Nízkomolekulové heparíny, lov molekular weight heparins- LMWH vznikajú z heparínu
+chemickou či enzymatickou depolymerizáciou ako fragmenty s priemernou molekulovou
+hmotnosťou 4500-5000 Da. LMWH pôsobí prevažne na faktor Xa v menšej miere na
+faktor IIa (FIIa) vykazuje konzistentnejšiu interindividuálnu farmakologickú aktivitu.
+Mechanizmus účinku LMWH spočíva prevažne v inhibícii F Xa (aktivita anti Xa), v menšej
+miere vykazujú aj aktivitu anti F IIa. Oproti UFH majú LMWH priaznivejší pomer rizikobenefit a priaznivejšie farmakokinetické vlastnosti. Majú menej nežiadúcich účinkov
+a postupne nahradili UFH vo väčšine indikácii. Sú hojne používané u hospitalizovaných
+pacientov ale aj u ambulantných (Hirmerová J.,2021).
+V dôsledku zriedkavého, ale možného výskytu heparínom indukovanej trombocytopénie
+(HIT) sa potom uvoľnili ďalšie zlúčeniny, medzi ktorými je fondaparín, syntetický
+pentasacharid, ktorý prevažne inhibuje faktor X (FX) a len mierne skrížene reaguje s
+heparínom. Podobne ako heparíny, aj fondaparín sa podáva parenterálne subkutánne
+(Franchini M.,a kol., 2016).
+6.3 Nové perorálne antikoagulanciá NOAC
+Takmer pred 10 rokmi v dôsledku mnohých obmedzení tradičných antikoagulačných liekov
+(VKA, heparíny a fondaparín) bola vyvinutá nová kategória liekov. Tieto zlúčeniny, predtým
+známe ako „nové perorálne antikoagulanciá“ (NOAC), boli teraz konečne definované ako
+„priame perorálne antikoagulanciá“ (DOAC). Patria sem látky, ktoré priamo inhibujú
+aktivovaný faktor II (F IIa) alebo aktivovaný faktor X (FXa). Spomedzi tejto poslednej
+skupiny terapeutík už boli rivaroxaban, apixaban a edoxaban schválené na prevenciu
+mozgovej príhody u pacientov s fibriláciou predsiení alebo prevenciu a liečbu venózneho
+tromboembolizmu (Favaloro, J., 2012).
+6.4 Priame perorálne antikoagulanciá
+Významnou nevýhodou tradične používaných antikoagulancií (antagonisty vitamínu K,
+nefrakcionovaný heparín) je potreba ich monitorovania. V poslednom desaťročí boli do
+antitrombotickej liečby zavedené priame perorálne antikoagulanciá (direct oral
+anticoagulants – DOAC), ktoré priamo inhibujú buď trombín, aktivovaný faktor II (FIIa),
+alebo aktivovaný faktor X (FXa).
+
+36
+
+Okrem termínu DOAC je táto skupina antikoagulancií označovaná aj ako cieľovo špecifické
+perorálne antikoagulanciá (target-specific oral anticoagulants – TSOAC) alebo aj ako nové
+alebo tzv. „non-antivitamin K“ perorálne antikoagulanciá (new/novel/non-vitamin
+K antagonists (VKA) oral anticoagulants – NOAC) (Staško J.,2019).
+
+Obrázok 6. Miesto účinku DOAC (Staško J.,2019).
+NOAC redukujú výskyt CMP a systémovej embólie u pacientov po ischemickej CMP
+v dôsledku fibrilácie predsiení. Táto redukcia je najmä v dôsledku výskytu hemoragických
+a nie ischemických CMP. NOAC delíme do dvoch hlavných skupín: priame inhibítory
+trombínu (dabigatran) a priame inhibítory faktora Xa (rivaroxaban, apixaban, edoxaban).
+Výhodou NOAC je hlavne rýchly nástup účinku, menší interakčný potenciál a
+predikovateľná antikoagulačná účinnosť. To umožňuje ich podanie vo fixných dávkach bez
+nutnosti bežne monitorovať antikoagulačnú účinnosť tak, ako to bolo potrebné pri warfaríne
+(Garcia a kol., 2013).
+
+37
+
+Obrázok 7. Algoritmus zhodnotenia stavu antikoagulácie (DOAC) (Staško J.,2019).
+Heparíny sú najpoužívanejšie injekčné antikoagulanciá. Zvyšujú inhibičnú aktivitu
+antitrombínu, najmä na trombín pri použití nefrakcionovaného heparínu (UFH) a na
+aktivovaný faktor X (Xa) pri použití heparínu s nízkou molekulovou hmotnosťou (LMWH)
+(Franchini, M., a kol.,2015).
+UFH sa vo veľkej miere používa na jednotkách intenzívnej starostlivosti kvôli svojmu
+krátkemu polčasu, kompatibilite s renálnym zlyhaniam a dostupnosti reverznej
+látky. Monitorovanie liečby UFH je však hlavným problémom z dôvodu vysokej variability
+antikoagulancií medzi pacientmi, úzkeho terapeutického okna a rizika trombózy alebo
+krvácania po poddávkovaní alebo predávkovaní. UFH možno monitorovať meraním aktivity
+anti-faktora Xa alebo aktivovaného parciálneho tromboplastínového času (aPTT) (Favaloro,
+J., a kol.2013).
+Naopak, pacienti užívajúci LMWH nepotrebujú rutinné laboratórne sledovanie, pretože sa
+podávajú fixné dávky upravené na hmotnosť. Testovanie aktivity anti-faktora Xa sa
+odporúča v prípadoch, ako je obezita, zlyhanie obličiek, extrémny vek a tehotenstvo (Bonar,
+R., a kol.,2015).
+
+38
+
+7 MONITOROVANIE HEPARÍNOVEJ ANTIKOAGULAČNEJ LIEČBY
+Antikoagulačná liečba heparínom sa zdá byť základom liečby kriticky chorých pacientov s
+COVID-19 s VTE pre jej antitrombotické, protizápalové, protikomplementové a priame
+antivírusové účinky. Heparín inhibuje aktiváciu neutrofilov, viaže zápalové cytokíny a
+znižuje aktiváciu endotelu, čím blokuje búrku cytokínov, ktorá je primárnou patogénnou
+udalosťou VTE u pacientov s COVID-19 (Mucha,R., a kol., 2020).
+7.1 Vyšetrenie Heparín Anti-Xa
+Nízkomolekulárny heparín je liek, ktorý znižuje krvnú zrážanlivosť čiže má antikoagulačný
+účinok. Liečia sa ním pacienti s trombózou a ľudia s vysokou predispozíciou rizika rozvoja
+trombózy. Vyšetrenie Heparín Anti-Xa stanovuje úbytok funkčnej aktivity koagulačného
+faktora FX (Anti-Xa aktivita) a tým nepriamo množstvo LMWH v krvi osoby ktorá sa
+vyšetruje. Niektoré rizikové skupiny vyžadujú u pacientov vykonávať tento test opakovane,
+čím môžeme tak sledovať účinnosť liečby LMWH. Takto sa zaistí správne dávkovanie lieku
+a zabráni závažným krvácavým komplikáciám.
+Na monitorovanie heparínovej antikoagulačnej liečby sa odporúča test Anti-Xa, pretože
+závažná reakcia akútnej fázy ako je vysoký fibrinogén a vysoký faktor VIII (FVIII), skracuje
+aPTT.
+7.2 Anti-Xa aktivita (AXA) - kontrola účinnosti liečby LMWH
+Liečba LMWH nie je obvykle monitorovaná, avšak v niektorých prípadoch sa vyžaduje
+monitoring, ktorý sa sleduje pomocou metódy Anti-Xa. Tieto prípady zahŕňajú tehotných,
+obéznych, veľmi mladých, alebo naopak starých pacientov a tiež tých, ktorí majú ochorenie
+obličiek alebo poruchu funkcie obličiek (dysfunkcia). LMWH sa primárne odbúrava v
+obličkách. Akýkoľvek stav, ktorý znižuje funkciu obličiek, môže spôsobiť zhoršenie
+odbúravania
+
+LMWH,
+
+tým
+
+zvýšiť
+
+jeho
+
+koncentráciu v
+
+krvi
+
+a tak
+
+vyvolať
+
+potenciálne zvýšenie rizika masívneho krvácania. Anti-Xa sa nevyšetruje rutinne, ale môže
+byť vykonávaný kedykoľvek na stanovenie účinku LMWH. Monitorovanie hladiny LMWH
+pomocou Anti-Xa je tzv. „peak“ test (Baluwala, Israfil, a kol.,2017).
+
+39
+
+7.3 Odber krvi na test Anti-Xa aktivita (AXA)
+Vzorka krvi sa odoberá štyri hodiny po podaní LMWH. Predpokladá sa, že v tejto dobe je
+najvyššia hladina LMWH. Pokiaľ je podozrenie na zlé odbúravanie LMWH, je možné
+vykonať odber vzorky krvi aj mimo stanoveného časového intervalu. Ak chceme zistiť
+najnižšiu dosiahnutú koncentráciu LMWH v krvi, odoberieme vzorku krvi pred podaním
+dávky pacientovi. Odber sa nesmie uskutočniť cez heparinizovaný port pre riziko falošnej
+pozitivity, ktorá nastane z kontaminácie odobratej krvi. Spracovanie vzorky v laboratóriu je
+potrebné vykonať do 1 hod. od odberu (Baluwala, Israfil, a kol.,2017).
+Na Anti-faktor Xa aktivita (AXA)
+
+sa
+
+vykonáva do odberovej nádoby koagulačnej
+
+skúmavky citrát - modrá. Odber treba uskutočniť ako sme už vyššie uviedli optimálne štyri
+hodiny po podaní LMWH,
+
+alebo
+
+po minimálne: 2. – 3. dávke pri terapeutickom dávkovaní á 24 h2
+3. – 4. dávke pri terapeutickom dávkovaní á 12 h2
+Test možno vyšetriť jeden-krát denne, pri intenzívnej starostlivosti dva-krát denne (min. a
+max. aktivita) (Príbalový leták 2022).
+Je nutné šetrné zaobchádzanie so vzorkou, dbať na kvalitné oddelenie plazmy od bunkových
+elementov tak, aby nedošlo k aktivácii koagulácie. Pri ikterickej plazme je dôležité mať na
+pamäti poruchu pečene a tým ovplyvnené koagulačné výsledky. Starú a nesprávne odobratú
+vzorku nevyšetrujeme (SOP-PLO-HEM-45., 2023).
+7.4 Vyhodnocovanie Anti-Xa aktivita (AXA)
+Výsledky vyšetrenia Anti-Xa sa vyhodnocujú s ohľadom na podávaný heparín čiže typ
+LMWH, ako aj čas odberu vzorky a ochorenie, ktoré je liečené. Výsledky z rôznych
+laboratórií nemusia byť rovnaké, lebo ich referenčné medze sú odlišné.
+Všeobecne pre LMWH platí, ak sú výsledky laboratórnych testov v terapeutickom rozmedzí,
+a jeho klinická odpoveď pacienta je dobrá, to znamená že trombóza sa netvorí, nedochádza
+ku krvácaniu a nie sú žiadne ďalšie komplikácie, čiže liečba je vhodne nastavená. Ak je
+výsledok Anti-Xa vyššia, znamená to, že pacient má príliš vysoké dávkovanie, alebo sa liek
+nedostatočne odbúrava. V tomto prípade je zvýšené riziko masívneho krvácania.
+
+40
+
+A naopak pri hodnote Anti-Xa je pod terapeutickou hladinou, je potrebné zvýšiť dávkovanie.
+Vzhľadom na rozdielnosť metód na vyšetrenie Anti-Xa a výsledkov medzi laboratóriami by
+sa mali vzorky na kontrolné vyšetrenia zasielať len do toho istého laboratória (Baluwala, I.,
+a kol.,2017).
+7.5 Interpretácia
+Vyšetrenie Anti-Xa aktivity slúži na monitorovanie liečby nízkomolekulovými heparínmi
+(LMWH). Tieto spolu s klasickými nefrakcionovanými heparínmi (UFH) patria medzi
+antikoagulačné lieky, ktoré ovplyvňujú zrážanie krvi. Inhibujú koagulačné faktory IIa (FIIa)
+a Xa (FXa), čím inaktivujú hemostázu, bránia vzniku krvných zrazenín, čiže venóznemu
+tromboembolizmu. LMWH sa využívajú tak na liečbu ako aj na profylaxiu venózneho
+trombembolizmu. UFH inhibujú rovnako FXa aj faktor FIIa. Majú preto výrazný
+antikoagulačný efekt s rizikom krvácania pri predávkovaní, čo vyžaduje kontrolu liečby
+testom aPTT. LMWH inhibujú FXa dvakrát až osemkrát silnejšie než FIIa, z čoho vyplýva
+najmä antitrombotický efekt, s malým rizikom krvácania. Preto ich použitie štandardne
+nevyžaduje laboratórnu kontrolu. Profylaktické aj terapeutické hladiny LMWH sa u
+vybraných pacientov kontrolujú stanovením aktivity Anti-Xa (Wei, Matthew Y., kol.,2015)
+Vyšetrenie slúži na kontrolu účinnosti terapie LMWH. Účinnosť liečby je vyjadrená ako
+anti-faktor FXa aktivita (Anti-FXa, AXA) heparínu v jednotkách IU/ml. Hodnota Anti-FXa
+zodpovedá skôr antikoagulačnému efektu LMWH, ako priamej koncentrácii LMWH.
+Najvyššie hodnoty Anti-FXa sa dosiahnú za tri– päť hodín po s.c. podaní LMWH (SOPPLO-HEM-45., 2023).
+Cieľové hodnoty pri prevencii hlbokého žilového tromboembolizmu sú:
+Anti-FXa = 0,2 – 0,5 IU/m
+Tabuľka 2. Cieľové terapeutické hodnoty Anti-FXa pri liečbe LMWH
+Cieľové terapeutické hodnoty Anti-fXa pri liečbe LMWH 2,5–7
+Cieľová terapeutická hodnota AXA
+[IU/mL]
+LMWH
+Obchodný názov
+á 12 h
+á 24 h
+Enoxaparín
+Clexane
+0.6 – 1.0
+1.0 – 2.0
+Dalteparín
+Fragmin
+N/A
+0.5 – 1.5
+Nadroparín
+Fraxiparine
+0.6 – 1.0
+1.3
+(Príbalový leták 2022).
+41
+
+Princíp metódy je založený na fotometrickej analýze, kde aktívny FXa štiepi chromogénny
+substrát a to p-nitroanilín (pNA) naviazaný na krátky peptid. Uvoľnený pNA sa meria pri
+405 nm. Množstvo pNA je nepriamo úmerné prítomnosti LMWH inhibujúceho FXa
+(Príbalový leták 2022).
+Monitoring sa odporúča hlavne u pacientov liečených LMWH s rizikom zmeny
+farmakokinetiky LMWH, ide o predovšetkým terapeutické dávky LMWH, ako je obezita,
+kachexia, renálne zlyhávanie, pediatrickí pacienti , geriatrickí pacienti (>70 rokov). Ďalej
+pacienti s rizikom hemorágie (napr. hepatopatie), opakovaných trombóz, gravidné ženy,
+onkologickí pacienti podstupujúci operačný výkon (Boneu, B., a kol.,2001).
+
+42
+
+8 MONITOROVANIE ÚČINKU LMWH U PACIENTOV COVID-19
+Je zrejmé, že zmeny hemostatickej rovnováhy u pacientov s COVID-19 sú silne narušené a
+prispievajú k vysokému protrombotickému stavu, čo odôvodňuje použitie antikoagulačnej
+liečby.
+U všetkých pacientov s kritickým alebo akútnym ochorením súvisiacim s COVID-19 by sa
+mala zvážiť profylaktická dávka nízkomolekulárneho heparínu (LMWH). Ak je LMWH
+kontraindikovaný, ako napríklad zlyhanie obličiek alebo ECMO, v tomto prípade sa môže
+podať nefrakcionovaný heparín. Prebiehajú antikoagulačné klinické štúdie s cieľom
+identifikovať optimálne možnosti profylaktiky a liečby (Susen, S., a kol.,2021).
+Monitorovanie heparínovej terapie, najmä UFH, v podmienkach zápalového stavu ako u
+pacientov s COVID-19, je výzvou pre laboratórium hemostázy. V podmienkach hlbokej
+koagulopatie môže byť použitie aPTT na monitorovanie liečby UFH obmedzené
+neschopnosťou použiť aPTT v akútnych fázach. Ako už bolo uvedené, základné stavy u
+pacientov s COVID-19 môžu predĺžiť aPTT (prítomnosť lupusového antikoagulancia,
+zvýšené CRP) alebo skrátiť aPTT (vysoký FVIII a vysoký fibrinogén). To môže viesť k
+nadhodnoteniu alebo podhodnoteniu antikoagulačného účinku UFH (Susen, S., a kol.,2021).
+V súlade s tým v klinickej vinete, ktorá bola nedávno publikovaná v New England Journal
+of Medicine bol prezentovaný klinický scenár pacienta hospitalizovaného s ťažkým
+ochorením COVID-19 a diskutované dve rôzne antikoagulačné stratégie. Väčšina
+odborníkov navrhuje zintenzívnený antikoagulačný režim, zahŕňajúci strednú dávku
+heparínu s nízkou molekulovou hmotnosťou (napr. enoxaparín, 0,5 mg/kg dvakrát denne), u
+pacientov s COVID-19. Tento prechodný režim dávkovania enoxaparínu, ktorý sa zdá byť
+bezpečný u pacientov s COVID-19, bol extrapolovaný zo štúdií u pacientov s traumou
+(Kofteridis, P., a kol.,2021).
+Taktiež sa u pacientov s renálnou dysfunkciou, ťažkou obezitou alebo u pacientov s vysokým
+rizikom trombózy alebo krvácania, sa odporúča Anti-Xa monitorovanie heparínu s nízkou
+molekulovou hmotnosťou.
+Kofteridis a kol. počas štúdie postupovali podľa protokolu individualizovanej profylaktickej
+antikoagulácie na základe merania Anti-Xa. Konkrétne použili sekvenčné meranie Anti-Xa
+na prispôsobenie dávky enoxaparínu s cieľom dosiahnuť hladiny Anti-Xa 0, 4–0, 5 IU / ml
+(vyšší tertil profylaktického rozsahu).
+43
+
+Anti-Xa sa meral každé 2–3 dni po každej zmene dávky enoxaparínu. Prekvapivo medzi 16
+pacientmi prijatými kvôli COVID-19, ktorí boli pôvodne liečení enoxaparínom 40
+mg/denne, (81%) pacientov potrebovalo úpravu dávky z dôvodu hladín Anti-Xa nižších ako
+0,4 IU/ml (zaujímavé je, že 2 z 13 (15%) pacientov mali hladiny Anti-Xa < 0,2 IU/ml)
+(Kofteridis, P., a kol.,2021).
+Na základe tohto prístupu bola na úspešné prispôsobenie profylaxie u 11 z 13 pacientov
+(85%) potrebná stredná dávka enoxaparínu 60 mg (medzikvartilný rozsah 50–80 mg) raz
+denne, pričom iba jeden (8%) mal hladiny vyššie a iba jeden (8%) má hladiny medzi 0,3 a
+0,4 IU/ml. Dôležité je, že žiadny pacient v malej sérii prípadov nezomrel ani sa nerozvinula
+klinicky evidentná trombóza alebo krvácanie. Sekvenčné meranie Anti-Xa by teda mohlo
+byť bezpečnou metódou na úspešné prispôsobenie individualizovanej profylaktickej
+antikoagulačnej liečby u hospitalizovaných pacientov s COVID-19 (Kofteridis, P., a
+kol.,2021).
+Bolo popísané, že liečba u pacientov s COVID-19 bola komplikovaná potrebou veľmi
+vysokých dávok UFH na dosiahnutie adekvátnej antikoagulácie na základe pomeru aPTT,
+čo je fenomén opísaný ako heparínová rezistencia (definovaná ako potreba viac ako 35 000
+jednotiek heparínu za 24 hodín na dosiahnutie terapeutických hladín aPTT). Tento jav
+možno vysvetliť vysokými hladinami FVIII. Skutočná heparínová rezistencia, kde sú
+hladiny aktivity aPTT a Anti-Xa primerane nižšie, ako sa očakávalo, sa bežne spája so
+zníženou hladinou ATIII (Beun, R., a kol.,2020).
+Predchádzajúce štúdie ukázali, že hladina Anti-Xa je vhodnejším parametrom na
+monitorovanie antitrombotickej aktivity ako aPTT, hoci diskusia pokračuje. Aj u pacientov
+s COVID-19 sa zdá, že test Anti-Xa je spoľahlivejší na monitorovanie liečby UFH. Napriek
+výhode nižšej citlivosti na biologické premenné sú však hlavnými nevýhodami merania
+Anti-Xa variabilita zloženia činidiel medzi jednotlivými testami, náklady a nižšia
+dostupnosť v laboratóriách (Baluwala, I., a kol.,2017).
+Ak je optimálna dávka na tromboprofylaxiu u pacientov na JIS nejasná, dávka najmenej 50
+medzinárodných jednotiek/kg telesnej hmotnosti je v súlade s niektorými usmerneniami,
+najmä u pacientov s COVID-19, kde sa často uvádza nadváha. Preto sa dávka navrhnutá
+autormi zdá byť veľmi suboptimálna.
+
+44
+
+Okrem toho dávka 40 mg enoxaparínu bola tiež dávkou hlásenou pri tromboprofylaxii v
+dvoch štúdiách, ktoré uvádzali veľmi vysokú mieru VTE. Preto sa zdá, že riziko VTE
+výrazne prevyšuje prínos liečby (Piagnerelli, M., a kol.,2020).
+Piagnerelli a kol. odporúčajú skôr prispôsobiť dávky LMWH podľa BMI: 60 mg pre BMI
+30 kg/m2 alebo 30 kg/m 2 a 80 mg pre BMI rovnajúce sa alebo 40 kg/m 2. Dávky sa môžu
+upraviť na základe merania maximálnej hladiny Anti-Xa a ak riziko prevyšuje prínos nad
+rizikom krvácania v dôsledku vyššej frekvencie akútneho zlyhania obličiek u týchto
+pacientov, možno zmerať najnižšiu aktivitu Anti-Xa alebo je možné stanoviť
+nefrakcionovaný heparín (Piagnerelli, M., a kol.,2020).
+LMWH sa často používa u pacientov v nemocnici na prevenciu a liečbu VTE vďaka
+relatívne predvídateľnému farmakokinetickému profilu a ľahkému monitorovaniu pomocou
+Anti-FXa
+
+aktivity. Monitorovanie
+
+profylaxie
+
+sa
+
+bežne
+
+nepoužíva. Na
+
+základe
+
+publikovaných štúdií sa však navrhol primeraný cieľový rozsah pre profylaxiu medzi 0,2 a
+0,4/0,5 IU/ml. Existujú známe situácie, napríklad v tehotenstve, pri poruche funkcie obličiek
+a
+
+obezite,
+
+v
+
+ktorých
+
+štandardné
+
+dávky
+
+nemusia
+
+dosiahnuť
+
+optimálnu
+
+tromboprofylaxiu. Neistota však zostáva, pokiaľ ide o hodnotu monitorovania Anti-FXa
+v takýchto skupinách. Zváženie rizikových faktorov trombózy a krvácania špecifických pre
+pacienta spolu so vzťahom medzi Anti-FXa aktivitou a klinickým výsledkom môže byť
+dôležitejšie. Toto je obzvlášť dôležité pri COVID-19, pri ktorom existuje známe spektrum
+trombózy a rizika krvácania v neskorších štádiách infekcie . Okrem toho, rastúca literatúra
+o histológii pitvy preukazuje heterogenitu prejavov trombotických ochorení, vrátane
+vzájomne sa vylučujúcich hlbokej žilovej trombózy a PE, často napriek antikoagulačnej
+liečbe. Pre pľúcnu vaskulárnu oklúziu, ktorá je viac trombotická ako embolická, vyššie
+dávky LMWH nemusia byť nevyhnutne účinnejšie (Tang, Ning, a kol.,2020).
+Keďže trombotické komplikácie boli často hlásené a spojené s vyššou úmrtnosťou u
+pacientov na JIS s COVID-19, je pravdepodobne potrebná vyššia dávka LMWH riadená
+Anti-Xa aktivitou.
+Test Anti-Xa je užitočným monitorovacím parametrom na určenie stupňa antikoagulačnej
+aktivity LMWH hodnotením funkcie špecifického koagulačného kofaktora, faktora Xa
+(FXa). (Tang, Ning, a kol.,2020).
+
+45
+
+9 CIELE PRÁCE
+Cieľom
+
+diplomovej práce
+
+bolo
+
+vypracovať
+
+hodnotenie
+
+účinnosti monitoringu
+
+antikoagulačnej liečby LMWH testom Anti-Xa na základe výsledkov hospitalizovaných
+pacientov, ktorým bola v Dolnooravskej nemocnici s poliklinikou MUDr. L.N. Jégého v
+Dolnom Kubíne vyšetrená hladina D-Dimérov ako prediktívneho faktora
+
+ochorenia
+
+COVID-19 a monitoring liečby nízkomolekulovými heparínmi, testom Anti-Xa (AXA),
+ktorý slúži na kontrolu účinnosti terapie LMWH ako prevencie a liečby hlbokého žilového
+tromboembolizmu, pri infekcii koronavírusom SARS-CoV-2.
+Výskumné ciele práce:
+1. Zhodnotiť účinnosť liečby LMWH Anti-Xa aktivitou (AXA) u mužov a
+žien hospitalizovaných s Covid – 19.
+2. Zhodnotiť účinnosť liečby LMWH Anti-Xa aktivitou (AXA) podľa vekového
+rozmedzia u pacientov hospitalizovaných s Covid – 19.
+3. Porovnať hladinu D-Dimérov na začiatku hospitalizácie a po jej ukončení, počas
+antitrombotickej liečby (LMWH).
+
+46
+
+9.1 Spracovanie literárnych zdrojov
+Ako prvé bolo nevyhnutné zostaviť literárny prehľad a dôkladne preskúmať všetky
+relevantné odborné zdroje na splnenie našich vopred stanovených cieľov. Na konci práce
+uvádzame literárne zdroje, ktoré boli písané nie len v slovenskom jazyku, ale aj v cudzom
+jazyku, pričom najčastejším zahraničným jazykom bola angličtina a čeština. Literatúru do
+diplomovej práce sme vyhľadávali prostredníctvom Centra vedecko-technických informácií
+Slovenskej republiky (CVTI), pričom najužitočnejší poskytovateľ informácii nám poslúžili
+databázy ako PubMed, alebo Medline. Okrem elektronických článkov, ktoré tvorili hlavnú
+časť našej rešerše, nám ako relevantný zdroj poslúžili aj články v printovej podobe z
+odborných časopisov alebo knižné zdroje. Odborné články sme doplnili aj o informácie zo
+sprievodných dokumentov od spoločnosti SIEMENS, ktoré boli súčasťou analyzátora
+SYSMEX Ca-1500. Pri vyhľadávaní nám ako kľúčové slová pomohli: trombofília, Covid –
+19, anti Xa, monitoring LWMH.
+9.2 Miesto výskumu
+Spracovanie vzoriek, ktoré bolo súčasťou praktickej časti diplomovej práce sa
+uskutočňovalo v Dolnooravskej nemocnici s poliklinikou MUDr. Ladislava Nádaši Jégého
+v Dolnom Kubíne na Oddelení klinickej biochémie, hematológie a transfuziológie. Pacienti,
+ktorých sme zahrnuli vo výskumnom súbore boli pri hospitalizácii so symptomatickým
+ochorením COVID-19 ťažko a kriticky chorí a vyšetrovaní na Covid oddelení práve
+spomínaného zariadenia. Diagnóza COVID-19 bola definovaná diagnostikovaným výterom
+z nosa alebo sérologickým testom na urgentnom príjme.
+9.3 Kritéria pre zaradenie pacientov do výskumu
+Pacientov, ktorí tvoria výskumný súbor, sme vyberali na základe diagnózy, ktorá im bola
+stanovená na urgentnom príjme v Dolnooravskej nemocnici s poliklinikou v Dolnom
+Kubíne, pričom diagnóza Covid-19 je rizikový faktor, ktorý vedie k trombofílii a je potrebná
+tromboprofylaxia. Kritériá na monitoring testom AXA boli dve. Ako prvé kritérium boli
+kritickí pacienti, ktorí mali požiadavku na doplnkový kyslík podľa posúdenia lekára. Ako
+druhé kritérium bola hladinu D-Diméru v plazme vyššia 2 až 4-násobok hornej hranice
+normy na základe laboratórnych testov.
+Krv pacientov, bola vyšetrená v potrebných typoch skúmaviek, v období od 1. decembra
+2021 do 30. mája 2022, kedy pandémia Covid-19 bola na zostupe.
+47
+
+Monitoring liečby sa začal po prijatí na oddelenie Covid a skončil pri prepustení
+z nemocnice. Pacienti s terapeutickou dávkou dostávali Enoxaparín v dávke (Enoxaparín 1
+mg/kg dvakrát denne):0,4-1,0 U/ml alebo (Enoxaparín 1,5 mg/kg jedenkrát denne): 1-2
+U/ml.1 mg/kg .
+Skupina pacientov antikoagulačnej liečby bola definovaná ako skupina, ktorá dostávala
+heparín s nízkou molekulovou hmotnosťou (LMWH) počas siedmich dní alebo dlhšie a bola
+v našej nemocnici najčastejšou používanou antikoagulačnou liečbou pri ochorení COVID19.
+9.4 Charakteristika súboru
+V časovom rozmedzí 6 mesiacov, čiže od 1. decembra 2021 do 30. mája 2022 bolo v
+laboratóriu hematológie a transfuziológie DONsP vyšetrených viac ako 120 testov na test
+anti Xa(AXA) a 130 na D-Diméri pričom 70 pacientov, ktorí sú súčasťou nášho súboru mali
+nadváhu alebo potrebovali oxygenoterapiu. Mali určenú diagnózu, ktorá v časovom rebríčku
+bola najčastejším vyvolávateľom trombofílie a teda pacienti mali indikáciu na liečbu
+LMWH a jej monitoring pomocou účinku Anti Xa testom. Počas pandémie Covid-19
+u hospitalizovaných pacientov sa nakazili tak muži aj ženy takže pohlavie na mortalitu
+nemalo vplyv. V našej štúdii
+
+sme zaznamenali nižší podiel žien ako mužov
+
+hospitalizovaných na oddelení Covid, čo znázorňuje náš graf číslo 1.
+Graf 3. Deskripcia výskumného súboru podľa pohlavia
+
+Pohlavie
+
+Ženy
+27
+39%
+
+Muži
+
+Muži
+43
+61%
+
+(Vlastné zhodnotenie)
+
+48
+
+Ženy
+
+Infekcia SARS-CoV-2 môže viesť k ťažkému zápalu pľúc alebo smrti, ako jeden
+z rizikových faktorov je vek pacientov. Práve u hospitalizovaných pacientov s Covid-19 sa
+stretávame s vyššou vekovou hranicou nad 60 rokov, čo potvrdzuje náš graf č. 2.
+Graf 4. Deskripcia výskumného súboru podľa veku
+
+Vek pacientov
+29 - 42
+7
+43 - 56
+8
+
+29 - 42
+43 - 56
+
+71 - 90
+37
+
+57 - 70
+
+71 - 90
+57 - 70
+19
+
+(Vlastné zhodnotenie)
+
+Spoločným znakom pacientov bola ako hlavná diagnóza uvádzaná potvrdená infekcia
+Covid-19 (U07.1), následne pacienti boli rozdelení do jednotlivých kategórií. Podiel diagnóz
+pacientov pri monitoringu antitrombotickej liečby zobrazuje nasledujúci graf číslo 3.
+
+49
+
+Graf 3. Deskripcia výskumného súboru diagnózy pacienta
+
+Diagnózy pacienta
+
+Iné diagnózy
+16
+Kardiovaskulárne
+diagnózy
+30
+
+Kardiovaskulárne diagnózy
+Pľúcne diagnózy
+Iné diagnózy
+
+Pľúcne diagnózy
+24
+
+(Vlastné zhodnotenie)
+V prvej kategórii sa nachádzali pacienti s kardiovaskulárnymi diagnózami ako sú fibrilácia
+a flater predsiení (I 49.5), taktiež subendokardiálnym infarkt myokardu (I 21.4), infarkt
+myokardu (I 21.0), zlyhávanie srdca bližšie neurčené (I 50.9), recidivujúca hĺbková žilová
+trombóza žíl DK (I 80.2) a bolesť v hrudníku bližšie neurčená (R07.4).
+Do druhej kategórie sme zatriedili pľúcne diagnózy pacientov so zápalom pľúc či akútnou
+respiračnou insuficienciou.
+Poslednú kategóriu tvoria diagnózy, ktoré boli v súbore menej zastúpené. Patria tu pacienti
+so zlomeninou alebo stavy súvisiace s graviditou zastúpené sú aj ochorenia obličiek a
+anémia(D 50.0). Túto skupinu pacientov sme zahrnuli do kategórie iné diagnózy.
+
+50
+
+9.5 Vyšetrenie Anti- Xa (AXA)
+Vyšetrenie Anti-Xa sme realizovali v laboratóriu klinickej biochémie, hematológie a
+transfuziológie v DONsP, na koagulometri SYSMEX Ca-1500 od spoločnosti SIEMENS
+(obrázok č.8). K detekcii sa používajú pomôcky, ktoré sú súčasťou setu, čiže Reagent,
+Substrát. Reagencie je potrebné skladovať pri teplote 2 – 8 °C, pretože sú citlivé na teplotu.
+Po otvorení setu jeho stabilita je 8 týždňov.
+
+Obrázok 8. Prístroj SYSMEX Ca-1500 (Vlastné zhodnotenie).
+
+9.6 Výskumný materiál
+Okrem spomínaných reagencií na vyšetrenie Anti-Xa, nám ako biologický materiál poslúžila
+venózna krv. Krv sa odoberala do plastových skúmaviek obsahujúcich antikoagulačné
+činidlo. Najčastejšie dodanou skúmavkou do laboratória bola skúmavka, ktorá mala citrát
+v pomere 0,5 ml a 4,5 ml venóznej krvi.
+Vďaka citrátu nedochádza k zrážaniu krvi čiže antikoagulovaná krv by mala byť odobratá
+optimálne 4 hodiny po podaní LMWH.
+
+51
+
+Obrázok 9. BD VACUTAINER® - 9NC 4,5 ml (Vlastné zhodnotenie).
+
+Transport vzorky do laboratória na testovanie po odbere mal by byť doručený čo najskôr.
+Z laboratórnych pomôcok nám ako jediná poslúžila laboratórna centrifúga, ktorú sme použili
+na centrifugáciu odobratej vzorky.
+9.7 Bezpečnosť pri práci
+Pri realizácii vyšetrenia sme zachovali bezpečnosť pri práci, pretože sme pracovali
+s infekčným materiálom. Treba mať na zreteli, že materiál, s ktorým sme pracovali
+pochádzal od pacientov, ktorý sú v nemocnici hospitalizovaní na oddelení Covid. Preto bolo
+veľké riziko nakazenia sa rovnakou infekciou. Ako ochranné pomôcky sa vyžadovali, aby
+sme pri práci používali rukavice a respirátor (Filtering, Half, Mask, FFP2 NR).
+9.8 Postup práce
+Pred samotným vyšetrením bolo potrebné skontrolovať či dodané reagencie sú vhodné na
+použitie. Znamená to, že nesmú byť nijakým spôsobom poškodené, set nesmie byť po
+dátume expirácie a musí byť dostatočne skontrolovaná jeho kalibrácia. Vyšetrenie spoločne
+s predanalytickou a analytickou fázou trvalo približne 4 hodiny a 20 minút. Pričom väčšinu
+času tvorila práve predanalýza. Podmienkou správneho vyšetrenia Anti-Xa
+
+je príprava
+
+pacienta a správny odber, to znamená 4 hodiny po podaní LMWH a zároveň pamätať, že sa
+odber nesmie vykonať cez heparinizovaný port pre riziko falošnej pozitivity z kontaminácie
+heparínom. Transport do hematologického laboratória bolo potrebné vykonať čo najskôr po
+odbere. Samotnú analýzu sme vykonávali do 1 hodiny. Odstredenie vzorky sme docielili pri
+3000 rpm (revolutions per minute) za 15 minút.
+
+52
+
+Centrifugáciou krvi sme zabezpečili, aby sa erytrocyty efektívne oddelili od plazmy. Takto
+pripravenú vzorku sme použili na analýzu.
+Na začiatok analýzy sme zapli koagulometer SYSMEX Ca-1500 na ľavom boku a
+následne prebehlo testovanie prístroja. Po dosiahnutí pracovných teplôt prechádzal prístroj
+do stavu READY. Vizuálne sme skontrolovali, či reagenty nie sú zakalené a sú
+v dostatočnom množstve. Vložili sme ich do prístroja (Reagent, Substrát) a zároveň doplnili
+pufer (Owren) a čistič (SORB, Savo 1:1), destilovanú vodu. Prípadne ak je potrebné vyliali
+odpad a vložili kyvety do prístroja. Vzorky , ktoré sme centrifugovali pri 3000 rpm 15 minút
+sme vložili do Racku, je súčasťou analyzátora, stlačili ID No ENTRY, zadali číslo vzorky
+a stlačením ikony v hornej časti obrazovky sme vyberali požadovaný test. Potvrdili ENTER
+a mohlo ísť ďalšie zadanie merania. Po zadaní vzoriek sme stlačili "štart" a analyzátor sám
+začal automaticky vykonávať analýzu a koniec práce nám signalizoval zvukový signál. Po
+približne 5 minútach nám stroj na displeji zobrazil hodnotu aktivity heparínu v jednotkách
+IU/ml.
+
+Obrázok 10. Sysmex-Ca-1500-displej (Vlastné zhodnotenie).
+53
+
+Používané reagencie na vyšetrenie Anti-Xa obsahujú REAGENT, SUBSTRÁT (Obrázok
+4). Povrch setu INNOVANCE® Heparin Assay je označený a toto označenie zahŕňa čiarový
+kód udávajúci kód testu, číslo šarže, Lot súpravy, a dátum, do kedy môže byť použitý.
+Následne bol použitý Test INNOVANCE® Heparin Assay(obrázok č.), ktorý generuje
+výsledky testov s menším počtom krokov, takto zjednodušuje pracovný tok s ľahko
+použiteľnými kvapalnými činidlami a jedinou kalibračnou krivkou pre nefrakcionovaný
+heparín (UFH) aj heparín s nízkou molekulovou hmotnosťou (LMWH). Je to
+automatizovaný chromogénny test na kvantitatívne stanovenie aktivity nefrakcionovaného
+heparínu (UFH) a nízkomolekulového heparínu (LMWH) v citrátovej ľudskej plazme. Má
+široký a konzistentný rozsah testu 0,10 až 1,50 IU/ml pre UFH a LMWH je podporovaný
+piatimi úrovňami kalibrátora pre väčšiu presnosť. Jednoduchá kalibrácia pre UFH a LMWH
+znižuje zložitosť a eliminuje riziko vyhodnocovania na nesprávnej krivke. Nie je žiadna
+ručná príprava, čiže výhodou je jednoduchá manipulácia s ním a použitie sa realizuje na
+hemostatických systémoch Siemens Healthineers a Sysmex®.
+
+Obrázok 11. Heparínový test INNOVANCE (Vlastné zhodnotenie).
+
+Výrobcovia naznačujú, že monitorovanie koncentrácií Anti-Xa je potrebné len vtedy, ak je
+predpokladané trvanie liečby dlhšie ako 14 dní.
+
+54
+
+Z praktického hľadiska by sa koncentrácie Anti-Xa mali merať iba vtedy, ak sa pacient bude
+liečiť LMWH počas dlhého obdobia (> 14 dní) alebo má špecifický rizikový faktor, ako je
+poškodenie obličiek, ktoré by ovplyvnilo vylučovanie LMWH (Egan, a kol., 2015).
+9.9 Princíp Anti- Xa (AXA)
+Nízkomolekulárne heparíny ovplyvňujú prevažne aktivitu faktora Xa (FXa), preto je vhodné
+ich sledovanie Anti-Xa testom. Nameraná Anti-Xa aktivita sa považuje za priamo úmernú
+plazmatickej koncentrácii.
+Odporúčanou metódou je chromogénny postup. Plazma pacienta sa pridá k známemu
+množstvu nadbytku faktora Xa (FXa). Ak je heparín prítomný v plazme, naviaže sa na
+antitrombín a vytvorí komplex s faktorom Xa (FXa). Množstvo reziduálneho faktora
+Xa(FXa) je nepriamo úmerné množstvu heparínu v plazme. Zvyškový faktor Xa (FXa) sa
+deteguje pridaním substrátu, ktorý napodobňuje prirodzený substrát faktora Xa (FXa). Ten
+sa štiepi zvyškovým faktorom Xa(FXa), pričom sa uvoľňuje farebná zlúčenina (chromofór),
+ktorú je možné detegovať spektrofotometrom. Množstvo uvoľneného chromofóru je
+nepriamo úmerné aktivite prítomného heparínu. Každé uvoľnenie chromogénneho substrátu
+sa meria oproti kalibračnej krivke, ktorá je špecifická pre každý heparín ( Barras M.,2023).
+
+Obrázok 12. Princíp ( Barras M.,2023).
+Čiže v praxi faktor Xa (FXa) sa pridáva ku zmesi neriedenej plazmy a chromogénneho
+substrátu, v prebytku. Behom inkubácie je inaktivovaný Antitrombínom III, s prispením
+heparínu prítomného vo vyšetrovanej plazme.
+
+55
+
+Po inhibícii F Xa komplexom (ATIII-Heparín) reaguje zvyškový faktor Xa (FXa) so
+substrátom za vzniku peptidu a p-nitroanilínu (pNA), ktorých zvýšenie absorbancie sa meria
+kinetickým testom pri 405 nm. Dextránsulfát znižuje vplyv antagonistov heparínu
+(Kohoutová,S.,2011).
+Heparin + AT--------------------- (AT. Heparin)
+(AT. Heparin ) (F Xa. AT. Heparin)
+F Xa (prebytok) + F Xa (zbytkový)
+peptid + pNA
+Nízkomolekulový heparín (LMWH) nemá takmer žiadny vplyv na globálne testy. Výhodou
+je menšia
+
+väzba na plazmatické bielkoviny, bielkoviny uvoľňované aktivovanými
+
+trombocytmi a endotelovými bunkami a menšia väzba na makrofágy. Ak sa monitorovanie
+aktivity Anti-Xa považuje za potrebné, odber vzoriek sa má uskutočniť čo najskôr po začatí
+alebo úprave liečby.
+Heparíny s nízkou molekulovou hmotnosťou (LMWH) majú polčas rozpadu štyri až šesť
+hodín u priemerných dospelých a rovnovážny stav nastane v priebehu jedného dňa. Pri
+poruche funkcie obličiek sa polčas predĺži, ale to by nemalo zhoršiť hodnotenie týchto
+pacientov, u ktorých existuje riziko krvácania. Maximálna plazmatická aktivita alebo
+koncentrácia nad cieľovým rozsahom zvyšuje riziko krvácania. Na odhadnutie tejto
+maximálnej koncentrácie (C max) je odporúčaný čas odberu vzoriek štyri hodiny po dávke
+( Barras M.,2023).
+kategória
+
+Úroveň Anti-Xa
+
+Pacienti neužívajúci heparín
+
+0 U/ml
+
+Terapeutický rozsah na liečbu DVT
+
+LMWH
+[Enoxaparín 1 mg/kg dvakrát denne]: 0,4-1,0 U/ml
+LMWH
+[Enoxaparín 1,5 mg/kg jedenkrát denne]: 1-2 U/ml
+Danaparoid: 0,5-0,8 U/ml
+
+Profylaxia DVT
+
+Nie je definovaný rozsah, ale vo všeobecnosti
+v oblasti 0,1-0,3 U/ml merané 3-4 hodiny
+po subkutánnej injekcii
+
+( Barras M.,2023)
+56
+
+9.10 Štatistické spracovanie údajov
+Údaje vyšetrenia Anti Xa testom spoločne s príslušnými diagnózami (ochoreniami)
+pacientov sme získavali prostredníctvom Laboratórneho informačného systému (LIS) na
+oddelení hematológie transfuziológie v DONsP v Dolnom Kubíne. Jednotlivé údaje boli
+zbierané v časovom období 6 mesiacov, teda od 1. decembra 2021 do 31. mája 2022. Po
+zozbieraní potrebných údajov sme dostupné informácie zaznačili do programu Microsoft
+Excel, pričom pacientov sme selektovali do jednotlivých kategórií. Najskôr na základe
+základného ochorenia, ktoré ich sprevádzalo počas celej hospitalizácie, ku ktorej sme neskôr
+priradili namerané hodnoty Anti Xa (AXA) a D-Dimérov ich zostup pri monitoringu účinku
+liečby.
+Ďalším kritériom pri hodnotení monitoringu účinku Anti Xa pacientov bol vek a zároveň
+sme aj určili podiel mužov a žien zastúpených v súbore.
+
+57
+
+10 VÝSLEDKY
+V časovom období od 1. decembra 2021 do 31. mája 2022 sme do nášho súboru zozbierali
+70 pacientov, ktorí mali dýchavičnosť spolu s komorbiditami, ktoré ich predisponovali k
+závažnej infekcii SARS-CoV-2 a boli prijatí na covid oddelenie Dolnooravskej nemocnice s
+poliklinikou MUDr. L. N. Jégého v Dolnom Kubíne. Všetci
+
+boli vyšetrení pred
+
+hospitalizáciou na internom príjme spomínaného zariadenia. Percentuálne zastúpenie
+mužov bolo 61% u žien 39%, menšie percento bolo v našom súbore zastúpené ženské
+pohlavie. Priemerný vek sme vypočítali u žien 71 rokov a mužov 65 rokov, pričom najmladší
+pacient s Covid- 19 a vyšetrenou aktivitou anti Xa mala žena 29 rokov , zatiaľ čo najstarším
+bol 92 ročný muž.
+Tabuľka 3. Zastúpenie pacientov
+POHLAVIE POČET PERCENTO
+
+MIN
+
+MAX
+
+VEK
+
+VEK
+
+Ženy
+
+27
+
+39
+
+29
+
+91
+
+Muži
+
+43
+
+61
+
+40
+
+92
+
+Spolu
+
+70
+
+100
+
+29
+
+92
+
+(Vlastné zhodnotenie)
+Tromboprofylaxia sa vykonávala hlavne nízkomolekulárnym heparínom (LMWH) . Covid
+oddelenie bolo prostredím, kde je individuálna variabilita pacientov extrémna a kde tradičné
+antitrombotické protokoly boli často neúčinné. To sa vedelo už dlho, no hospitalizácia
+mnohých pacientov so zápalovými búrkami COVID-19 zrazu zvýraznila tieto
+poznatky. Preto bolo rozumné navrhnúť variabilné protokoly antitrombotickej prevencie
+založené na začiatku na základe série individuálnych kritérií (hmotnosť, BMI a trombotické
+riziká). Usmernenia pre klinickú prax, manažment liečby hospitalizovaných dospelých
+pacientov antitrombotickej terapie Dolnooravskej nemocnice s poliklinikou MUDr. L. N.
+Jégého v Dolnom Kubíne, bral do úvahy výber antikoagulačných liečiv pri ktorých bolo
+nutné zvažovať aj liekové interakcie. U hospitalizovaných pacientov s kritickým priebehom
+sa preferovalo podávanie LMWH alebo nefrakciovaného heparínu pred orálnymi
+antikoagulanciami, pretože heparíny majú kratšie eliminačné polčasy, môžu byť podávané
+i.v. alebo s.c. a vykazujú menej liekových interakcií. Úpravu dávkovania heparínu s nízkou
+molekulovou hmotnosťou (LMWH) a účinnosť liečby sme monitorovali pomocou testu
+Anti-Xa (AXA).
+58
+
+Kritériá nášho súboru boli pacienti s diagnózou COVID-19, ktorí mali pozitívny test PCR
+na SARS-CoV-2 vo vzorkách dýchacích ciest a
+
+potrebovali podporu dýchania,
+
+vysokoprietokovú kyslíkovú terapiu, tiež pacienti s nadváhou. Úprava terapeutickej
+liečebnej dávky enoxaparínu bola riadená testom Anti-Xa aktivitou. Cut-off hodnoty
+namerané v časovom období šesť mesiacov je znázornené na grafe č.1.
+Graf 4. Hodnoty Anti-Xa (AXA) aktivita
+
+Hodnoty ANTI-Xa
+2,5
+
+2
+
+1,5
+
+1
+
+0,5
+
+0
+1
+
+3
+
+5
+
+7
+
+9
+
+11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67 69
+
+Cut-off hodnoty namerané v časovom období šesť mesiacov (Vlastné zhodnotenie).
+Na grafe vidíme, že terapeutická liečebná dávka enoxaparínu bola nastavená na (Enoxaparín
+1 mg/kg dvakrát denne): 0,4-1,0 IU/ml alebo (Enoxaparín 1,5 mg/kg jedenkrát denne): 1-2
+IU/ml. Taktiež môžeme vidieť že u 11 pacientov boli hodnoty nižšie (0,1-0,3 IU/ml) v
+profylaktickej dávke, kvôli diagnózam ktoré sme zaradili do kategórie iné a to stavy
+súvisiace s graviditou a zlomenina.
+Úprava dávky vo väčšine nebola potrebná len u niektorých pacientoch ktorí mali nízku
+hladinu Ani-Xa, alebo na základe hladiny D-Dimérov, ktoré aj napriek zahájenej
+antitrombotickej liečbe boli vysoké.
+
+59
+
+Namerané hodnoty pomocou testu AntiXa (AXA) pri monitoringu antitrombotickej liečby
+nízkomolekulovými heparínmi LMWH nám ukazujú na dosiahnuté rozpätie hodnôt (0,41,0 IU/ml a rozpätie hodnôt 1-2 IU/ml u obidvoch pohlaviach ako ženy tak i muži.
+Namerané hodnoty sme znázornili graficky jednotlivo pre mužov a ženy.
+Graf 5. Hodnoty Anti-Xa (AXA) aktivita u žien
+
+Ženy
+2
+1,8
+1,6
+
+1,4
+1,2
+1
+0,8
+0,6
+0,4
+
+0,2
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+hodnota ANTI-Xa
+
+upravovaná dávka
+
+(Vlastné zhodnotenie)
+Hodnoty Anti-Xa (AXA) aktivity boli v terapeutickom rozsahu 0,4-1,0 U/ml a 1-2 IU/ml,
+iba šiestim pacientkam čiže pacientky číslo štyri, päť, desať,15, 20, 13, bola dávka
+upravovaná na vyššiu hodnotu a jednej pacientke číslo sedem na nižšiu hodnotu. Pacientky
+číslo jeden, 15,16,22,23 mali hodnoty odporúčané na rozsah v rozpätí 0,1-0,3 IU/ml, boli
+liečené profylaktickou dávkou .
+V porovnaní s pohlavím ženy sme u mužov mali hodnoty taktiež v terapeutickom rozsahu
+0,4-1,0 IU/ml a 1-2 IU/ml. Taktiež ako u žien sme aj u mužov zaznamenali hodnoty AntiXa (AXA) aktivity 0,1-0,3 IU/ml u štyroch pacientov ktorí boli liečení profylaktickou
+dávkou. Vyššie opísané hodnoty mužov sú zobrazené na grafe č.3.
+
+60
+
+Graf 6. Hodnoty Anti-Xa (AXA) aktivita u mužov
+
+Muži
+1,8
+1,6
+1,4
+1,2
+1
+
+0,8
+0,6
+
+0,4
+0,2
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
+
+hodnota ANTI-Xa
+
+upravená dávka
+
+(Vlastné zhodnotenie)
+Namerané hodnoty Anti-Xa (AXA) aktivity u mužov boli v terapeutickom rozsahu,
+upravované hodnoty sme zaznamenali u deviatich pacientov a to číslo deväť,13,29 sa dávky
+upravili na nižšie, čo zaznamenávajú hodnoty Anti Xa, u pacientov číslo desať, 17, 30, 33,36,
+a pacient 39 na vyššiu dávku, ako sme aj zaznamenali zvýšené hodnoty Anti-Xa (AXA)
+aktivity.
+Všetci zahrnutí pacienti vo výskumnom súbore boli liečení dávkami nízkomolekulového
+heparínu (LMWH) na predídenie trombotických príhod počas hospitalizácie s upravenými
+dávkami na telesnú hmotnosť a podstúpili aspoň jedno meranie Anti-Xa, pričom ďalšie
+stanovenia Anti-Xa boli klinicky riadené. Maximálne hladiny Anti-Xa boli hodnotené
+pomocou chromogénneho testu
+
+v citrátovej plazme odobratej 4 hodiny po podaní
+
+LMWH. LMWH (enoxaparín) sa podával dvakrát denne o 6:00 a 18:00 na dosiahnutie
+terapeutického rozsahu 0,4-1,0 IU/ml alebo sa podával jedenkrát denne o 6:00, aby sa
+umožnil odber krvi počas rannej zmeny o10:00 na dosiahnutie terapeutického rozsahu 1-2
+IU/ml a pacienti s profilaktickou dávkou v rozpätí 0,1-0,3 IU/ml.
+
+61
+
+Namerané hodnoty Anti-Xa u mužov sa pohybovali od 0,4 IU/ml – do 0,1 IU/ml a od 1
+IU/ml - do 1,6 IU/ml , ženy mali v súbore rozsah od 0,4 IU/ml - do 0,8 IU/ml a od 1,0 IU/ml
+– do 1,8 IU/ml na terapeutické liečenie. Cieľové hodnoty zaznamenané v súbore sa mierne
+líši od bežnejšie navrhovaného 0,2–0,5 UI/ml .
+Keďže niektorí autori navrhli prijať vyššie cieľové hodnoty Anti-Xa na profylaxiu LMWH,
+keď sú pacienti charakterizovaní signifikantne vyšším rizikom trombózy, ako
+
+máme
+
+definovaný náš súbor pacientov, naši respondenti mali nastavenú liečbu jednotlivo podľa
+hmotnosti a klinických indikácii na rozsah 0,4–0,1 IU/ml a 1-2 IU/ml, prípadne sa dávka
+upravovala podľa kliniky pacienta, aby sa zabezpečila odporúčaná hranica od 0,4 IU/ml
+a neprekročil sa prah 1,0 IU/ml , čo súvisí so zvýšeným rizikom krvácania.
+Anti-Xa aktivita bola u všetkých pacientov meraná 89-krát, z toho 16 pacientov malo druhé
+meranie po úprave dávky. 29 meraní u mužov bolo v terapeutickom rozsahu od 0,4 - 0,96
+IU/ml, medián Anti-Xa aktivity bol 0,70 IU/ml pri liečbe Enoxaparín 1 mg/kg dvakrát denne
+(0,4-1,0 IU/ml) , štyri merania boli nižšie z dôvodu klinických indikácií od 0,34-0,39 UI/ml
+(0,4 IU/ml), pri liečbe Enoxaparín 1,5 mg/kg jedenkrát denne boli jedenástim pacientom
+namerané hodnoty Anti – Xa aktivity v rozsahu 1,0-1,6 IU/ml medián bol 1,2-1,3 IU/ml
+a šiestim pacientom bola stanovená hodnota ktorá dosiahla rozsah od 0,2-0,3 IU/ml pri
+profilaktickej liečbe po subkutánnej injekcii.
+Ženám bolo vykonaných 34 stanovení Anti-Xa aktivity, pričom siedmim pacientkam sme
+zaznamenali druhé meranie po úprave dávky. 15 meraní bolo v terapeutickom rozsahu od
+0,5-0,8 IU/ml medián Anti-Xa aktivity bol 0,6 IU/ml pri liečbe Enoxaparín 1 mg/kg dvakrát
+denne (0,4-1,0 IU/ml) , tri merania boli nižšie od 0,32-0,33 IU/ml z dôvodu klinických
+indikácií, deviatim pacientkam sme namerali hodnoty Anti-Xa aktivity v rozpätí od 1,0 – 1,8
+IU/ml pri liečbe Enoxaparín 1,5 mg/kg jedenkrát denne, medián bol 1,2 -1,3 IU/ml, pri
+profilaktickej liečbe rozsah v oblasti 0,1-0,3 IU/ml sme zaznamenali dvom pacientkam 0,20,3 IU/ml po subkutánnej injekcii.
+Z Celkového počtu zúčastnených pacientov v súbore sme rozdelili do štyroch vekových
+skupín, kde sme udali počet, minimálny vek, maximálny vek. Z týchto údajov sme získali
+priemerný vek v jednotlivých skupinách a počet úmrtí čo sme zaznamenali v tabuľke č.4.
+
+62
+
+Tabuľka 4. Priemerný vek a mortalita
+Veková
+skupina
+29-42
+
+Počet
+
+Min vek
+
+Max vek
+
+Počet úmrtí
+
+42
+
+Priemerný
+vek
+34,4
+
+7
+
+29
+
+43-56
+57-70
+
+8
+19
+
+43
+57
+
+56
+70
+
+49,5
+62,3
+
+0
+0
+
+71-90
+
+37
+
+71
+
+90
+
+79,9
+
+13
+
+0
+
+(Vlastné zhodnotenie)
+Vo výskumnom súbore 70 hospitalizovaných kritických pacientov na covid oddelení, v prvej
+vekovej skupine sme zaznamenali siedmich, ktorí mali minimálny vek 29, maximálny 42
+a priemerný vek 34,0 počas liečby nízkomolekulovými heparínmi LMWH nezomrel žiadny
+pacient, druhá veková skupina v ktorej boli ôsmi pacienti s minimálnym vekom 43
+a maximálnym vekom 56 bol priemerný vek 50 taktiež sme nezaznamenali žiadne úmrtie
+počas liečby LMWH, tretiu skupinu tvorili 19 pacienti s minimálnym vekom 57
+a maximálnym 70 ani v tejto skupine s priemerným vekom 62 nebolo zaznamenané úmrtie,
+v poslednej štvrtej ktorú tvorilo najväčší počet, 37 pacientov pri minimálnom veku 71
+a maximálnom veku 90 kde bol priemerný vek 80 sme zaznamenali 13 násobnú mortalitu.
+Vo výskumnom súbore bola u starších osôb potvrdená úmrtnosť, vek bol jeden z rizikových
+faktorov, čo môžeme vidieť v tabuľke, že z 37 pacientov zomrelo 13 z toho 10 boli muži
+a tri ženy. Celkovo úmrtnosť u starších osôb sa pozoruje vyššia miera u mužov 14% ako
+u žien 11%.
+Koagulačná dysfunkcia u pacientov s COVID-19 zákerne vedie k progresii do závažného
+ochorenia a smrteľného výsledku a je charakterizovaná zvýšeným D-Dimérom a trombami
+v žilách a tepnách. Vysoká hladina D-Diméru v COVID-19 je vyvolaná nadmernými
+zrazeninami a hypoxémiou. Zvýšenie D-Diméru sme pozorovali u pacientov s COVID-19 s
+ťažkým ochorením, ktoré významne koreluje s mortalitou. Keďže D-Dimér je produktom
+degradácie fibrínu, jeho prítomnosť môže predpovedať pľúcnu embóliu a hlbokú venóznu
+trombózu (DVT).Prognostická úloha hyperkoagulability u pacientov s COVID-19 je
+nejednoznačná. Preto D-Dimér možno považovať za globálny marker aktivácie hemostázy
+pri COVID-19.
+
+63
+
+V našom súbore sme
+
+hodnotili hladiny na začiatku pri príjme pacienta a na konci
+
+hospitalizácie ako predikčnú hodnotu D-Diméru pre jeho závažnosť, mortalitu a výskyt
+udalostí venózneho tromboembolizmu (VTE) u pacientov s COVID-19. D-Dimér je
+produktom degradácie fibrínu a zohráva mechanickú úlohu pri trombozápale pri COVID19. Pacienti s D-Dimérom >10 mg/l predstavujú vyššie riziko úmrtnosti v porovnaní s
+pacientmi s nižšími hodnotami D-Diméru. Preto je D-Dimér potenciálnym nástrojom na
+skríning VTE u pacientov s COVID-19 a na základe zvýšenia D-Diméru je úprava
+terapeutických dávok antikoagulancií pre pacientov výhodnejšia v porovnaní s
+profylaktickými dávkami. Hladiny D-Dimérov sme u pacientov s COVID-19 sledovali na
+začiatku hospitalizácie a po jej ukončení. Namerané hodnoty D-Dimérov pri príjme u žien
+nám ukazuje graf č. 7.
+Graf 7. D-Diméri pred liečbou u žien
+
+D-Diméri pred liečbou
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+
+(Vlastné zhodnotenie)
+Namerané hodnoty boli od dvojnásobnej hranice normy (N<0,5mg/l) vyššie u siedmich
+pacientov a u 20 presahovali až štvornásobok normálnej hodnoty pri hospitalizácii.
+
+64
+
+Počiatočné zvýšené hladiny D-Diméru vo východiskovej hodnote klesli po antikoagulačnej
+liečbe LMWH u pacientov s COVID-19, čo naznačuje, že zmeny D-Diméru predstavujú
+zlepšenie hyperkoagulačného stavu, ako aj stabilný biomarker pre antikoagulačný účinok
+liečby. Pokles hodnôt v skúmanom súbore u žien pri liečbe nízkomolekulovými heparínmi
+(LMWH) sme zaznamenali na grafe č.8.
+Graf 8. D-Diméri pokles po liečbe u žien
+
+D-Diméri pokles po liečbe
+12
+10
+
+8
+6
+4
+
+2
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+pred liečbou
+
+po liečbe
+
+(Vlastné zhodnotenie)
+Pokles D-Dimérov u žien bol viditeľný čo znázorňuje na grafe oranžový stĺpec. Pacientky
+číslo štyri a deväť mali hodnotu D-Dimérov trojnásobnú, (2,8 mg/l) aj pri liečbe
+nízkomolekulovými heparínmi LMWH, 22 pacientiek mali hodnoty v norme alebo hraničné
+a trom pacientkám nebola nameraná hodnota po liečbe nakoľko nastala smrť.
+V súbore ktorí tvorili muži sme namerali hodnoty pred liečbou ako aj u žien dvojnásobné
+hranice normy (N < 0,5 mg/l) aj štvornásobné a vyššie, čo zobrazuje nasledujúci graf č.9.
+
+65
+
+Graf 9. D-Diméri pred liečbou u mužov
+
+D-Diméri pred liečbou
+12
+10
+8
+6
+4
+
+2
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
+
+(Vlastné zhodnotenie)
+Namerané hodnoty D-Dimérov u deviatich mužov dosahovali dvojnásobné hodnoty normy.
+U siedmich bola hodnota trojnásobná a u ostatných dvadsiatich siedmich pacientov hodnota
+presahovala štyrikrát normu hodnoty.
+Nasledujúci graf číslo 10. znázorňuje pokles hodnôt D-Dimérov
+zaznamenali počas liečby nizkomolekulovými heparínmi LMWH.
+
+66
+
+u mužov, ktoré sme
+
+Graf 10. D-Diméri pokles hodnôt u mužov
+
+D-Diméri pokles po liečbe
+12
+10
+8
+6
+4
+2
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43
+
+pred liečbou
+
+po liečbe
+
+(Vlastné zhodnotenie)
+Rovnako ako u žien aj u mužov bol pokles D-Dimérov viditeľný. Štyrom pacientom číslo
+10,20,29 a 35 aj pri výraznom poklese bola zaznamenaná hodnota 2-3krát vyššia oproti
+normálnej hodnote (N< 0,5 mg/l). 39 pacientom pokles D-Dimérov bol hraničný alebo
+v norme. Iba u desiatich pacientov nebola meraná hodnota po liečbe nakoľko nastala smrť.
+D-Dimér je ľahko dostupný test vo všetkých nemocniciach. Pre hospitalizovaných pacientov
+neexistuje konsenzus o tom, ako často by sa mal merať D-Dimér alebo ako by sa malo na
+základe výsledkov postupovať s ohľadom na antikoaguláciu u pacientov s COVID-19. My
+sme sledovali namerané hodnoty na začiatku a na konci liečby. Z prezentovaných hodnôt je
+vidieť, že merania D-Dimérov boli prospešné. Po začatí terapeutickej antikoagulácie sme
+pozorovali pokles D-Diméru u žien a mužov, ako je znázornené na grafe č.8 a grafe č.10 ,
+agresívna profylaktická antikoagulácia (dávka enoxaparínu 1mg/kg dva krát denne 0,4-1,0
+IU/ml, alebo 1,5mg/kg jeden krát denne 1-2 IU/ml ) viedla k D-Dimérom pod 3 mg/l s
+príslušnými maximálnymi hladinami Anti-Xa ako sme uviedli na grafe č.5 a grafe č. 6.
+
+67
+
+Vrchol Anti-Xa test je užitočným monitorovacím parametrom na určenie stupňa
+antikoagulačnej aktivity LMWH hodnotením funkcie špecifického koagulačného kofaktora,
+faktora Xa (FXa) . Kvôli hyperkoagulačnému stavu u našich pacientov
+
+analyzovali
+
+maximálne hodnoty Anti-Xa 4 hodiny po podaní, aby sme určili účinnosť LMWH.
+Agresívna antikoagulačná liečba s primeraným monitorovaním maximálnej hladiny Anti-Xa
+priniesla na našom pracovisku uspokojivé výsledky. Môžeme povedať, že na základe našich
+zistených parametrov D-Dimérov a hodnoty pomocou testov Anti-Xa aktivity, liečba
+LMWH bola účinná. Síce 13 hospitalizovaní pacienti zomreli, dôvodom nebola
+nedostatočná antikoagulačná liečba, ale na základe ochorenia infekcie koronavírusom
+SARS-CoV-2, veku a ich pridružených komorbidít, nastala mortalita.
+
+68
+
+DISKUSIA
+Veľká zápalová odpoveď u pacientov s infekciou SARS-CoV-2 môže viesť k
+hyperkoagulačnému stavu, mikrotrombóze, trombóze veľkých ciev a v konečnom dôsledku
+k smrti. Všetkým hospitalizovaným pacientom by sa mala poskytnúť včasná profylaxia
+VTE. Terapeutická antikoagulačná liečba môže byť prospešná pre kriticky chorých
+pacientov. Dôkladné sledovanie trombotických komplikácií je nevyhnutné a ak sa potvrdí,
+má sa zaviesť včasný prechod z profylaktickej na terapeutickú antikoaguláciu. Ukázalo sa,
+že súhra medzi zápalom a trombózou je charakteristickým znakom vírusovej infekcie SARSCoV-2.
+Naš výskum prebiehal počas zostupu Covid-19 takže sledovanie respondentov v nej bola
+malá skupina (70 pacientov) kde sme aj napriek ústupu infekcie Sars-cov-2 zaznamenali
+úmrtia a tie sme štatisticky vyhodnotili (u mužov 14% u žien 11%). Naša analýza zahŕňala
+sledovanie hodnoty hladín Anti-Xa aktivity u pacientov ktorých sme rozdelili podľa
+pohlavia veku a hodnoty D-Diméru, aby sme získali dostatočný prehľad nameraných hodnôt
+spojených s touto tromboprofilaxiou, ktorá sa pohybovala v rozmedzí 0,4-1 IU/l alebo 1-2
+IU/l Anti Xa aktivity. Výsledky tejto štúdie ukazujú u pacientov o optimálnej liečbe Covid19 a tým predchádzaní riziku vzniku trombotických udalostí(VTE). Analýzy nám ukázali,
+že antitrombotická liečba s LMWH mala prospešný vplyv na znižovanie trombotických
+komplikácií u nemocných s Covid-19 s vyššími dávkami enoxaparínu. Pozorovali sme že
+liečba kontrolovaná testom Anti-Xa bola účinná čo nám aj potvrdili klesajúce hodnoty DDimérov zo štvornásobných hodnôt pod hranicu 3mg/l až na normu 0,5mg/l. Celkovo sme
+konštatovali, že antitrombotická liečba s LMWH bola sľubnou stratégiou na zníženie rizika
+trombotických komplikácií u hospitalizovaných pacientov s Covid-19. Avšak rozhodnutie o
+začatí tejto liečby bolo so zreteľom na možný prínos a riziká pre každého pacienta
+individuálne. Naše výsledky korelovali so štúdiami, ktoré možno použiť na porovnanie s
+rizikom trombózy u pacientov Covid-19 jej liečby LMWH a monitoringom Anti-Xa testom.
+V štúdii Diamantis P.,2021 väčšina odborníkov navrhuje zintenzívnený antikoagulačný
+režim, zahŕňajúci strednú dávku heparínu s nízkou molekulovou hmotnosťou (napr.
+enoxaparín, 0,5 mg/kg dvakrát denne), aj keď neexistujú jasné klinické dôkazy podporujúce
+účinnosť tejto stratégie u pacientov s COVID-19 , ako sa nedávno ukázalo aj u kriticky
+chorých pacientov s COVID-19. Konkrétne použili sekvenčné meranie Anti-Xa na
+prispôsobenie dávky enoxaparínu s cieľom dosiahnuť hladiny Anti-Xa 0, 4–0, 5 IU / ml
+(vyšší tertil profylaktického rozsahu).
+69
+
+Anti-Xa sa meral každé 2–3 dni po každej zmene dávky enoxaparínu. Prekvapivo medzi 16
+pacientmi prijatými kvôli COVID-19, ktorí boli pôvodne liečení enoxaparínom 40
+mg/denne, 13 (81%) pacientov potrebovalo úpravu dávky z dôvodu hladín Anti-Xa nižších
+ako 0,4 IU/ml (zaujímavé je, že 2 z 13 (15%) pacientov mali hladiny Anti-Xa < 0,2
+IU/ml). Na základe tohto prístupu bola na úspešné prispôsobenie profylaxie u 11 z 13
+pacientov (85%) potrebná stredná dávka enoxaparínu 60 mg (medzikvartilný rozsah 50–
+80 mg) raz denne, pričom iba jeden (8%) mal hladiny vyššie ako hladiny medzi 0,3 a 0,4
+IU/ml. Dôležité je, že žiadny pacient v malej sérii prípadov nezomrel ani sa u neho
+nerozvinula klinicky evidentná trombóza alebo krvácanie. Sekvenčné meranie Anti-Xa by
+teda mohlo byť bezpečnou metódou na úspešné prispôsobenie individualizovanej
+profylaktickej antikoagulačnej liečby u hospitalizovaných pacientov s COVID-19 za týmto
+účelom (Diamantis P.,2021).
+Štúdia od Thachil J a kol., a dočasné usmernenie ISTH o rozpoznaní a manažmente
+koagulopatie pri COVID-19. J Thromb Haemost. 2020 prezentovala rozdiel vo výskyte
+DVT v profylaktických a neprofylaktických podskupinách (18% a 35%). Preto je zrejmé, že
+riziko VTE zostáva vysoké u kriticky chorých pacientov s COVID-19 a tromboprofylaxia
+znižuje úmrtnosť v dôsledku trombotických príhod. Iná štúdia zistila, že heparín znížil riziko
+úmrtnosti u pacientov, ktorí splnili kritériá koagulopatie vyvolanej sepsou (SIC) ≥ 4, a
+pacientov, ktorí splnili kritériá koagulopatie vyvolanej sepsou (SIC) <4, zodpovedajúcim
+spôsobom o 38% a 24%. Podobné výsledky sa našli v minulých výskumoch biológie vírusov
+SARS, v ktorých heparín preukázal 50% zníženie infekčnosti SARS-CoV2 (Diamantis
+P.,2021). Mattia Trunfio vo svojej štúdii, kde boli zahrnutí pacienti liečení dávkami
+nízkomolekulového heparínu (LMWH) upravenými na funkciu obličiek a telesnú hmotnosť
+a podstúpili aspoň jedno meranie Anti-Xa sa merala maximálna hladina Anti-Xa bola
+hodnotená pomocou chromogénneho testu (Anti-Xa STA-Liquid; STAGO, Asnieres-surSeine, Francúzsko) v citrátovej plazme odobratej 4 hodiny po podaní LMWH. LMWH
+(enoxaparín alebo parnaparín) sa podával raz alebo dvakrát denne. Cieľové hodnoty AntiXa boli 0,3–0,7 a 0,7–1,2 IU/ml na profylaktické a terapeutické použitie. Zatiaľ čo
+terapeutický cieľový rozsah je v súlade s najčastejšie navrhovaným v literatúre, prijatý
+profylaktický cieľový rozsah sa mierne líšil od bežnejšie navrhovaného 0,2–0,5 UI/ml.
+
+70
+
+Keďže niektorí autori navrhli prijať vyššie cieľové hodnoty Anti-Xa na profylaxiu LMWH,
+keď sú pacienti charakterizovaní signifikantne vyšším rizikom trombózy , nastavili
+profylaktický cieľový rozsah na 0,3–0,7 UI/ml, aby boli bezpečne a určite nad zvyčajne sa
+odporúčanú spodnú cieľovú hranicu 0,2 a neprekračili prah 0,8, čo súvisí so zvýšeným
+rizikom krvácania (Mattia Trunfio 2021).
+Na rozdiel od toho výskumníci štúdie RAPID 7 zistili, že terapeutická dávka antikoagulácie
+s LMWH alebo UFH u stredne chorých hospitalizovaných pacientov s COVID-19 a
+zvýšenou hladinou D-Diméru významne neznížila primárny výsledok prijatia na JIS,
+neinvazívnej alebo invazívnej mechanickej ventilácie alebo smrť do 28 dní v porovnaní s
+profylaktickou dávkou LWMH alebo UFH. Terapeutická antikoagulácia však bola spojená
+so znížením sekundárneho výsledku úmrtia po 28 dňoch v tejto štúdii a v porovnaní s
+profylaktickou antikoaguláciou nedošlo k zvýšeniu závažného krvácania. V populácii
+pacientov na JIS vyšetrovatelia uviedli, že stredná dávka LMWH neposkytla žiadny prínos
+v porovnaní so štandardnou profylaktickou dávkou antikoagulácie pri prevencii VTE, liečbe
+extrakorporálnou membránovou oxygenáciou alebo mortalite do 30 dní. Zdá sa, že priaznivý
+účinok terapeutickej antikoagulácie u hospitalizovaných pacientov s COVID-19 pomocou
+heparínu sa nevzťahuje na iné triedy antikoagulačnej liečby. Štúdia ACTION 4 preukázala,
+že hospitalizovaní pacienti s COVID-19, ktorí dostávali terapeutickú antikoaguláciu s
+rivaroxabanom (klinicky stabilizovaní pacienti) alebo enoxaparínom (nestabilní pacienti) v
+porovnaní s profylaktickou antikoaguláciou s LMWH alebo UFH, nezlepšili primárny
+výsledok účinnosti hierarchickej analýzy času, k úmrtiu, trvanie hospitalizácie alebo trvanie
+doplnkového kyslíka do 30. dňa. Terapeutická antikoagulácia bola spojená so zvýšeným
+krvácaním u klinicky stabilných aj klinicky nestabilných pacientov. Aj keď medzi týmito
+štúdiami existuje množstvo podobností, existujú rozdiely, ktoré je potrebné vziať do
+úvahy. Kritériá pre to, kto bol považovaný za nekriticky chorého (tiež označovaného ako
+stredne chorý alebo prostredie bez JIS) na rozdiel od kriticky chorého (ťažko chorý alebo
+prostredie na JIS), sa v rámci štúdií líšili. Zložené primárne výsledky sa v rámci štúdií tiež
+líšili, hoci jednotlivé zložky zložených výsledkov sa často prekrývali. Všetky štúdie zahŕňali
+zvýšenú hladinu D-Diméru buď ako súčasť zaraďovacích kritérií pre účasť v štúdii alebo v
+konečnej analýze výsledkových údajov, hoci hranica pre zvýšenú hladinu D-Diméru sa
+medzi štúdiami líšila (z vyššie uvedeného horná hranica normálneho rozmedzia na viac ako
+4-násobok hornej hranice).
+
+71
+
+Napriek metodologickým rozdielom nám tieto štúdie pomáhajú vyvodiť 3 dôležité závery
+týkajúce sa účinnosti a bezpečnosti antikoagulačnej liečby u hospitalizovaných pacientov s
+COVID-19. Po prvé, údaje podporujú, že terapeutická antikoagulácia s LMWH je spojená
+so zlepšenými výsledkami u hospitalizovaných pacientov s COVID-19, ktorí nie sú kriticky
+chorí alebo v prostredí JIS, najmä u pacientov so zvýšenými hladinami D-Diméru. Po druhé,
+údaje tiež naznačujú, že pacienti, ktorí sú kriticky chorí a/alebo sú na JIS, nemajú prospech
+z terapeutickej antikoagulácie a vykazujú zvýšené riziko krvácania v porovnaní s pacientmi,
+ktorí dostávajú profylaktickú dávku antikoagulácie. Priaznivý účinok terapeutickej
+antikoagulácie sa znižuje a riziko krvácania sa zvyšuje u pacientov s postupne závažnejším
+ochorením, potenciálne súvisí s hyperzápalom, narušením endotelu, aktiváciou krvných
+doštičiek a koagulopatiou. Po tretie, žiadna zo štúdií by nepodporovala použitie
+antikoagulancia podávaného v dávke medzi profylaktickou a terapeutickou, či už u
+pacientov na JIS alebo u pacientov bez JIS (Lana Wahid,2021). Monitoring liečby LMWH
+pri prevencii VTE, štúdia Paul P. Dobesh zistila že pacientom, ktorí dostávajú LMWH na
+profylaxiu VTE, sa má upraviť dávka vzhľadom na obezitu a funkciu obličiek. U pacientov
+s BMI 30 až 40 kg/m alebo vyšším alebo s hmotnosťou nad 100 až 120 kg sa zvýšili dávky
+LMWH, ako je enoxaparín 40 mg dvakrát denne, 60 mg jedenkrát denne alebo 0,5 mg/kg
+preukázali zlepšenú účinnosť a podobnú bezpečnosť ako štandardné dávky. Podporuje sa
+názor, že dávky profylaxie by sa mali upravovať smerom nahor na základe prítomnosti
+zvýšenej
+
+telesnej
+
+hmotnosti.Vo
+
+výskumnej
+
+práci
+
+sme
+
+potvrdili
+
+tento
+
+názor
+
+u hospitalizovaných pacientov bez ohľadu na pohlavie. Taktiež druhý cieľ, liečba
+u pacientov s vyšším vekom bola účinná a dala šancu na vyliečenie, samozrejme záležala od
+včasnej diagnostiky a pridružených komorbidít v čase ochorenia.Smrteľné prípady infekcie
+koronavírusom 2 (SARS-CoV-2) závažného akútneho respiračného syndrómu, pri ktorých
+sa u pacientov vyvinula závažná venózna trombóza a/alebo PE sme zaznamenali mortalitu
+aj napriek účinnej liečbe ale bez možnosti kontroly hladíny D-Dimérov.
+Štúdie naznačili, že zvýšená hladina D-Dimérov je prediktívnym faktorom závažnosti
+infekcie koronavírusom SARS-CoV-2 a tým aj spojená vyššia miera mortality a komplikácií
+u pacientov s COVID-19. Preto sa odporúčalo monitorovať hladinu D-Dimérov u pacientov
+s COVID-19 a pravidelne ich sledovať počas hospitalizácie (Demelo-Rodríguez, P.,
+a kol.,2020). D-Diméri sú produktom degradácie fibrínu. Zvyšujú sa hlavne pri
+trombotických príhodách, čo naznačuje fibrinolýzu.
+
+72
+
+Vedci preto skúmali hladiny D-Dimérov kritickej pneumónie COVID-19 a ich súvislosť s
+vysokým rizikom VTE, závažnosťou ochorenia a rizikom mortality. Zvýšené hodnoty DDimérov prispeli k zlej prognóze a vysokej úmrtnosti u takýchto pacientov (Porfidia,
+Angelo, and Roberto Pola,2020).
+Takéto zvýšené hodnoty D-Diméru možno pripísať aktivácii koagulačnej kaskády
+sekundárne k syndrómu systémovej zápalovej odpovede (SIRS) u pacientov s ochorením
+COVID-19. Zhou a kol. preukázali súvislosť medzi vysokými hladinami D-Dimérov a
+závažnosťou ochorenia u 129 pacientov s COVID-19 prijatých do Šanghajského klinického
+centra verejného zdravia. Podľa ich výsledkov bolo zvýšenie hladín D-Diméru pri miernej a
+závažnej infekcii <2 × horná hranica normy (ULN) a >10 ULN (Zou, Ying,a kol.,2020). Je
+to
+
+evidentné, keď
+
+Mucha
+
+a kol. definovali
+
+prahovú
+
+hodnotu
+
+D-Diméru pre
+
+vysokorizikových pacientov ako šesťnásobok hornej hranice, tj 3 mg/l jednotiek ekvivalentu
+fibrinogénu [FEU]. Podobne Artifoniho výskum ukázal pozitívnu predikčnú hodnotu 44%
+a 67% pre hladinu D-Diméru ≥1,0 mg/ml a ≥3,0 mg/l v jeho kohorte 65 zo 71 pacientov s
+VTE COVID-19 (Artifoni, Mathieu,a kol.,2020). Napríklad aj štúdia Demela-Rodrígueza a
+kol. tiež potvrdila súvislosť medzi hladinami D-Diméru a rizikom DVT prostredníctvom
+retrospektívnej analýzy 156 pacientov s COVID-19, ktorí nie sú na JIS ( Demelo-Rodríguez,
+P., a kol., 2020).
+Taktiež ďalšia prierezová štúdia zistila, že prijímacie hladiny D-Diméru boli nezávisle
+prepojené s vyšším rizikom proximálnej DVT. Zatiaľ čo D-Dimér, močovina, respiračná
+frekvencia, krvný tlak a vek 65 rokov alebo starší a (CURB-65) skóre boli nezávisle spojené
+s vyšším rizikom distálnej DVT u pacientov s COVID-19. Výsledky štúdie uvádzajú, že
+výskyt DVT je 89% pacientov s D-Dimérom >10 mg/l v porovnaní s 16% pacientov s
+COVID-19 s D-Dimérom <10 mg/l (Zhang, Li,a kol.,2020). Zvýšenie D-Diméru sa trvalo
+spája so závažnosťou ochorenia, mortalitou a potrebou asistovanej ventilácie. Tento
+koagulačný marker sa meral a monitoroval počas priebehu infekcie. Súvislosť medzi PE a
+D-Dimérom bola potvrdená aj francúzskym výskumom , ktorý preukázal súvislosť medzi
+zvýšením hladín D-Diméru a rizikom PE prostredníctvom retrospektívnej analýzy CT,
+angiogramu hrudníka u podozrivých a potvrdených pacientov s COVID-19 s PE a porovnali
+ich s hladinami D-Dimérov. V zisteniach hladiny D-Diméru vyššie ako 3,0 mg/l vykazovali
+100% senzitivitu a 67% špecifickosť pre PE. Vysoké hladiny D-Diméru majú nízku hodnotu
+špecificity pre VTE, pretože sú zvýšené pri mnohých stavoch, ako je tehotenstvo, sepsa,
+malignita a pooperačné stavy.
+73
+
+Hladiny D-Diméru sú vysoko citlivé až (80–100%) na venózny tromboembolizmus. Preto
+normálne hladiny ho vylučujú ( Léonard-Lorant, Ian, a kol.,2020). Nedávna prospektívna
+štúdia zistila, že D-Dimér a produkty degradácie fibrínu/fibrinogénu boli signifikantne
+vyššie u pacientov s ťažkou infekciou SARS-CoV-2 v porovnaní s pacientmi s miernejšími
+formami ochorenia a že rutinné monitorovanie môže byť užitočné pri včasnej identifikácii
+ťažkého ochorenia. D-Dimér, reaktant akútnej fázy, je znakom nadmernej koagulácie, môže
+byť užitočnými laboratórnymi hodnotami na sledovanie trendu s cieľom predpovedať
+pravdepodobnosť trombózy a monitorovať progresiu ochorenia. Všetky štúdie, ako je
+uvedené vyššie, ukazujú silnú súvislosť medzi hladinami D-Dimérov a výskytom všetkých
+typov VTE u pacientov s COVID-19. V dôsledku toho je vhodnejšie požadovať denné
+hodnotenie D-Diméru na posúdenie progresie ochorenia u ťažko infikovaných
+pacientov. Antikoagulačná liečba by sa teda mala začať, keď sú hladiny D-Diméru > 10 mg/l
+(Khan, Inayat Hussain, a kol.,2020). Niekoľko správ opísalo, že zvýšené hladiny D-Dimérov
+korelujú s nepriaznivým výsledkom. Preto výrazne zvýšené hladiny D-Diméru, ľubovoľne
+nastavené na trojnásobné až štvornásobné zvýšenie sú veľmi užitočné pri triedení a
+manažmente pacientov. Pacienti s takými vysokými hladinami D‐Diméru by mali byť
+hospitalizovaní aj pri absencii iných symptómov, pretože to naznačuje zvýšenú tvorbu
+trombínu s potenciálnym rizikom trombózy (Crics Triggrsep,2020).
+V našej výskumnej štúdii s hospitalizovanými pacientmi s COVID-19 a veľmi zvýšenými
+hladinami D-Dimérov znížila terapeutická dávka LMWH riziko tromboembólie a úmrtnosti
+v porovnaní so začiatkom pandémie. Účinok liečby bol pozorovaný najmä do 14 dní po
+hospitalizácii. Počet vysokorizikových pacientov potrebných na liečbu, aby sa predišlo
+jednej tromboembolickej príhode alebo úmrtiu, bol malý (13 vo výskumnom súbore), čo
+naznačuje priaznivý čistý klinický prínos režimu s terapeutickou dávkou LMWH. Pacienti
+hospitalizovaní s COVID-19 – najmä tí s ťažkým alebo kritickým ochorením – čelia
+zvýšenému riziku trombózy, najmä VTE, napriek štandardnej heparínovej tromboprofylaxii.
+Naša výskumná práca ukazuje zníženie tromboembólie a úmrtnosti pri použití
+terapeutických dávok LMWH na tromboprofylaxiu u vysokorizikových hospitalizovaných
+pacientov s COVID-19 čo nám potvrdili aj vyššie uvedené štúdie. Výskum identifikoval
+pacientov na covid oddelení s veľmi vysokým rizikom tromboembólie a úmrtnosťou (u
+mužov 14% výskyt v skupine so štandardnou dávkou, u žien 11%), pričom sa použilo
+kritérium veľmi zvýšenej hladiny D-Diméru, u ktorých bol priebeh ochorenia modifikovaný
+vyššou dávkou antikoagulancie na terapiu.
+74
+
+ODPORÚČANIA PRE PRAX
+Po preštudovaní danej problematiky pri ochorení infekciou SARS-CoV-2 a uvedení
+poznatkov sme dospeli k nasledujúcim odporúčaniam:
+•
+
+snaha vyhnúť sa nákaze a to nosením rúška alebo respirátora, hlavne na miestach ,
+kde sa nachádza veľa ľudí v uzavretých priestoroch alebo na miestach kde sa
+zdržiavajú chorí a to nemocnice, lekárne, verejná doprava
+
+•
+
+dôležitá je hygiena rúk a odstup
+
+•
+
+očkovanie proti Covid-19
+
+•
+
+v prípade podozrenia na infekciu včasná diagnostika
+
+•
+
+rýchle nasadenie liečby môže znížiť riziko hospitalizácie
+
+•
+
+symptomatická liečba u nekomplikovaného priebehu covidu ktorá spočíva
+v doplnení vitamínov a tlmení prebiehajúcich príznakov ako kašeľ, horúčka, nádcha
+či iné
+
+•
+
+systémová liečba u pacientov s vysokým rizikom ťažkého priebehu podľa
+metodických usmernení MZ SR, sa používajú ATB, antivirotiká, antikoagulačná
+liečba, monoklonálne protilátky, terapia kyslíkom a iné
+
+•
+
+pacienti by mali začať s postupným zvyšovaním svojej fyzickej aktivity, je dôležité
+vyhnúť sa dlhodobému sedeniu alebo ležaniu, aby sa predišlo riziku tvorby krvných
+zrazenín
+
+•
+
+správna výživa, podpora imunitného systému (vitamín D,C, zinok) a dostatočný
+príjem tekutín sú kľúčové pre zotavenie
+
+•
+
+pandémia nového koronavírusu je už viac ako dva roky, stále existuje veľa dôvodov
+na to, prečo ho nebrať na ľahkú váhu, najmä v prípade ľudí ktorých toto ochorenie
+vážne ohrozuje kvôli ich veku či chronickým ochoreniam
+
+75
+
+ZÁVER
+V roku 2019 bol v čínskom Wu-chane identifikovaný nový koronavírus. Svetová
+zdravotnícka organizácia (WHO) klasifikovala tento kmeň ako pandémiu začiatkom roku
+2020, pričom rýchlo zasiahla milióny prípadov na celom svete a prekonala jednotky
+intenzívnej starostlivosti. Jednou z charakteristických čŕt identifikovaných pri závažnom
+SARS-CoV-2 sú abnormálne a komplexné koagulačné a hematologické abnormality, vrátane
+významne zvýšených hodnôt D-Diméru a fibrínu/fibrinogénu, ktoré môžu zvýšiť morbiditu
+a mortalitu v pacientov ako sme opísali v teoretickej časti výskumnej práce. Agresívna
+antikoagulačná liečba s primeraným monitorovaním maximálnej hladiny Anti-Xa priniesla
+na našom pracovisku uspokojivé výsledky.
+COVID-19 je ochorenie s vysokým trombotickým rizikom a heparínová terapia s dávkami
+LMWH alebo UFH prispôsobenými úrovni rizika je potrebná u všetkých hospitalizovaných
+pacientov, najmä u obéznych a kriticky chorých pacientov. Pravidelné biologické
+monitorovanie je nevyhnutné na optimalizáciu antikoagulačného manažmentu a liečby a je
+dôležité posilniť spoluprácu a komunikáciu medzi oddelením a hematologickým
+laboratóriom.
+Záverom možno povedať, že u pacientov hospitalizovaných s COVID-19 so zvýšenou
+koncentráciou D-Diméru počiatočná terapeutická antikoagulácia v nemocnici s
+enoxaparínom pre nestabilných pacientov počas 30 dní zlepšila klinické výsledky u kriticky
+chorých pacientov a zvýšila tak šancu na vyliečenie.
+
+76
+
+LITERÁRNE ZDROJE
+Yuki, Koichi, et al. “COVID-19 Pathophysiology: A Review.” Clinical Immunology, vol.
+215, 2020, p. 108427, https://doi.org/10.1016/j.clim.2020.108427.
+Ahmed, Sakir, et al. “Thrombosis in Coronavirus Disease 2019 (COVID-19) through the
+Prism of Virchow’s Triad.” Clinical Rheumatology, vol. 39, no. 9, 2020, pp. 2529–43,
+https://doi.org/10.1007/s10067-020-05275-1. [PubMed]
+Ai, Tao, et al. “Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019
+(COVID-19) in China: A Report of 1014 Cases.” Radiology, vol. 296, no. 2, 2020, pp. E32–
+40, https://doi.org/10.1148/radiol.2020200642.
+Anti
+
+Xa
+
+Assay
+
+(Heparín
+
+assay
+
+)
+
+anti-
+
+faktor
+
+Xa
+
+assay,
+
+(2016),obrázok,
+
+https://blog.naver.com/hyouncho2/220789133928
+Artifoni, Mathieu, et al. “Systematic Assessment of Venous Thromboembolism in COVID19 Patients Receiving Thromboprophylaxis: Incidence and Role of D-Dimer as Predictive
+Factors.” Journal of Thrombosis and Thrombolysis, vol. 50, no. 1, 2020, pp. 211–16,
+https://doi.org/10.1007/s11239-020-02146-z.
+Baluwala, Israfil, et al. “Therapeutic Monitoring of Unfractionated Heparin – Trials and
+Tribulations.” Expert Review of Hematology, vol. 10, no. 7, July 2017, pp. 595–605,
+https://doi.org/10.1080/17474086.2017.1345306.
+Baluwala, Israfil, et al. “Therapeutic Monitoring of Unfractionated Heparin – Trials and
+Tribulations.” Expert Review of Hematology, vol. 10, no. 7, July 2017, pp. 595–605,
+https://doi.org/10.1080/17474086.2017.1345306.
+Barras M., ABNORMAL LABORATORY RESULTS 36 : NUMBER 3 : JUNE 2013, AntiXa assays, Aust Prescr ;36:98–101, https://www.nps.org.au/assets/82c6a6ceea998ab6ff4eccf59155-c847e86a9da68f07c400e15d508aeeb00c229ee2fddaa72d3337ed692bb1.pdf
+Bettina Kemkes-Matthes, Univerzitná nemocnica Gießen a Marburg, Nemecko,
+Heparínový test INNOVANCE, Siemens Healthineers ,(2023), https://www.siemenshealthineers.com/sk/hemostasis/innovance-assays/innovance-heparin
+
+77
+
+Beun, Robert, et al. “Thromboembolic Events and Apparent Heparin Resistance in Patients
+Infected with SARS-CoV-2.” International Journal of Laboratory Hematology, vol. 42, no.
+S1, 2020, pp. 19–20, https://doi.org/10.1111/ijlh.13230.
+Bhattarai, Kashi Raj, et al. “Compliance with Saliva Collection Protocol in Healthy
+Volunteers: Strategies for Managing Risk and Errors.” International Journal of Medical
+Sciences, vol. 15, no. 8, 2018, pp. 823–31, https://doi.org/10.7150/ijms.25146.
+Bonar, Roslyn, et al. “The Effect of the Direct Factor Xa Inhibitors Apixaban and
+Rivaroxaban on Haemostasis Tests: A Comprehensive Assessment Using in Vitro and Ex
+Vivo
+
+Samples.”
+
+Pathology,
+
+vol.
+
+48,
+
+no.
+
+1,
+
+2016,
+
+pp.
+
+60–71,
+
+https://doi.org/10.1016/j.pathol.2015.11.025.,
+Boneu, Bernard, and Philippe De Moerloose. “How and When to Monitor a Patient Treated
+with Low Molecular Weight Heparin.” Seminars in Thrombosis and Hemostasis, vol. 27, no.
+05, 2001, pp. 519–22, https://doi.org/10.1055/s-2001-17961.
+Bryant, Juliet E., et al. “Serology for SARS-CoV-2: Apprehensions, Opportunities, and the
+Path Forward.” Science Immunology, vol. 5, no. 47, May 2020, p. eabc6347,
+https://doi.org/10.1126/sciimmunol.abc6347.
+Carter, Linda J., et al. “Assay Techniques and Test Development for COVID-19 Diagnosis.”
+ACS
+
+Central
+
+Science,
+
+vol.
+
+6,
+
+no.
+
+5,
+
+May
+
+2020,
+
+pp.
+
+591–605,
+
+https://doi.org/10.1021/acscentsci.0c00501.
+CRICS TRIGGERSEP Group (Clinical Research in Intensive Care and Sepsis Trial Group
+for Global Evaluation and Research in Sepsis), et al. “High Risk of Thrombosis in Patients
+with Severe SARS-CoV-2 Infection: A Multicenter Prospective Cohort Study.” Intensive
+Care Medicine, vol. 46, no. 6, 2020, pp. 1089–98, https://doi.org/10.1007/s00134-02006062-x.
+Demelo-Rodríguez, P., et al. “Incidence of Asymptomatic Deep Vein Thrombosis in Patients
+with COVID-19 Pneumonia and Elevated D-Dimer Levels.” Thrombosis Research, vol. 192,
+2020, pp. 23–26, https://doi.org/10.1016/j.thromres.2020.05.018.
+Devreese, Katrien M. J., et al. “Interference of C-Reactive Protein with Clotting Times.”
+Clinical Chemistry and Laboratory Medicine (CCLM), vol. 53, no. 5, Jan. 2015,
+https://doi.org/10.1515/cclm-2014-0906.
+
+78
+
+Egan, Gregory, and Mary H. H. Ensom. “Measuring Anti-Factor Xa Activity to Monitor
+Low-Molecular-Weight Heparin in Obesity: A Critical Review.” The Canadian Journal of
+Hospital Pharmacy, vol. 68, no. 1, 2015, pp. 33–47, https://doi.org/10.4212/cjhp.v68i1.1423.
+Favaloro, Emmanuel J., and Giuseppe Lippi. “The New Oral Anticoagulants and the Future
+of
+
+Haemostasis Laboratory Testing.” Biochemia
+
+Medica, 2012,
+
+pp.
+
+329–41,
+
+https://doi.org/10.11613/BM.2012.035.
+Favaloro, Emmanuel J., et al. “Laboratory Testing for the New Oral Anticoagulants: A
+Review of Current Practice.” Pathology, vol. 45, no. 4, 2013, pp. 435–37,
+https://doi.org/10.1097/PAT.0b013e328360f02d.
+Flohr, H., and W. Breull. “Effect of Etafenone on Total and Regional Myocardial Blood
+Flow.” Arzneimittel-Forschung, vol. 25, no. 9, Sept. 1975, pp. 1400–03.
+Franchini, Massimo, et al. “Carrion’s Disease after Blood Transfusion.” Blood Transfusion,
+2015, https://doi.org/10.2450/2015.0096-15.
+Giannis, Dimitrios, et al. “Coagulation Disorders in Coronavirus Infected Patients: COVID19, SARS-CoV-1, MERS-CoV and Lessons from the Past.” Journal of Clinical Virology,
+vol. 127, 2020, p. 104362, https://doi.org/10.1016/j.jcv.2020.104362. [PubMed]
+Giannis, Dimitrios, et al. “Coagulation Disorders in Coronavirus Infected Patients: COVID19, SARS-CoV-1, MERS-CoV and Lessons from the Past.” Journal of Clinical Virology,
+vol. 127, 2020, p. 104362, https://doi.org/10.1016/j.jcv.2020.104362.
+Giannis, Dimitrios, et al. “Coagulation Disorders in Coronavirus Infected Patients: COVID19, SARS-CoV-1, MERS-CoV and Lessons from the Past.” Journal of Clinical Virology,
+vol. 127, 2020, p. 104362, https://doi.org/10.1016/j.jcv.2020.104362.
+Gremillet, Marion, et al. “Monitoring Heparin Therapy: Stability of Two Different Anti-Xa
+Assays Using Blood Samples Collected in Citrate-Containing and CTAD Tubes.”
+Thrombosis Journal, vol. 21, no. 1, Feb. 2023, p. 21, https://doi.org/10.1186/s12959-02300465-8.
+Griffin, G. J., et al. “Soil Fungistasis: Elevation of the Exogenous Carbon and Nitrogen
+Requirements for Spore Germination by Fungistatic Volatiles in Soils.” Canadian Journal of
+Microbiology, vol. 21, no. 10, Oct. 1975, pp. 1468–75, https://doi.org/10.1139/m75-218.
+
+79
+
+Gupta, Aakriti, et al. “Extrapulmonary Manifestations of COVID-19.” Nature Medicine, vol.
+26, no. 7, 2020, pp. 1017–32, https://doi.org/10.1038/s41591-020-0968-3.
+Han, Huan, et al. “Prominent Changes in Blood Coagulation of Patients with SARS-CoV-2
+Infection.” Clinical Chemistry and Laboratory Medicine (CCLM), vol. 58, no. 7, June 2020,
+pp. 1116–20, https://doi.org/10.1515/cclm-2020-0188. [PubMed]
+Hirmerová Jana, Antikoagulační léčba – co by měl vědět farmaceut, Plzeň, PRAKTICKÉ
+LÉKÁRENSTVÍ
+
+2021;
+
+17(1):
+
+14–21
+
+/,
+
+file:///C:/Users/adminka/Desktop/1.hepar%C3%ADny%20Xa%2023-30.01.23/Solen_lek202101-0002.pdf%20hepar%C3%ADny%2030.1.2023.pdf
+Hottz, Eugenio D., et al. “Platelet Activation and Platelet-Monocyte Aggregate Formation
+Trigger Tissue Factor Expression in Patients with Severe COVID-19.” Blood, vol. 136, no.
+11, Sept. 2020, pp. 1330–41, https://doi.org/10.1182/blood.2020007252.
+Huang, Chao, et al. “Rapid Detection of IgM Antibodies against the SARS-CoV-2 Virus via
+Colloidal Gold Nanoparticle-Based Lateral-Flow Assay.” ACS Omega, vol. 5, no. 21, June
+2020, pp. 12550–56, https://doi.org/10.1021/acsomega.0c01554.
+infekcie Sars-cov-2 zaznamenali úmrtia a tie sme štatisticky vyhodnotili.
+Kaiafa, Georgia, et al. “Coagulation Profile of COVID-19 Patients.” Life, vol. 12, no. 10,
+Oct. 2022, p. 1658, https://doi.org/10.3390/life12101658. [PubMed]
+Katneni, Upendra K., et al. “Coagulopathy and Thrombosis as a Result of Severe COVID19 Infection: A Microvascular Focus.” Thrombosis and Haemostasis, vol. 120, no. 12, 2020,
+pp. 1668–79, https://doi.org/10.1055/s-0040-1715841. [PubMed]
+Khan, Inayat Hussain, et al. “The Need to Manage the Risk of Thromboembolism in
+COVID-19 Patients.” Journal of Vascular Surgery, vol. 72, no. 3, 2020, pp. 799–804,
+https://doi.org/10.1016/j.jvs.2020.05.015.
+Khan, Inayat Hussain, et al. “The Need to Manage the Risk of Thromboembolism in
+COVID-19 Patients.” Journal of Vascular Surgery, vol. 72, no. 3, 2020, pp. 799–804,
+https://doi.org/10.1016/j.jvs.2020.05.015.
+Kofteridis, Diamantis P., et al. “Personalized Prophylactic Anticoagulation in Hospitalized
+Patients with Covid-19 – The Role of Anti-Xa Monitoring.” Clinical Microbiology and
+Infection, vol. 27, no. 8, 2021, pp. 1188–89, https://doi.org/10.1016/j.cmi.2021.04.024.
+80
+
+Kofteridis, Diamantis P., et al. “Personalized Prophylactic Anticoagulation in Hospitalized
+Patients with Covid-19 – The Role of Anti-Xa Monitoring.” Clinical Microbiology and
+Infection, vol. 27, no. 8, 2021, pp. 1188–89, https://doi.org/10.1016/j.cmi.2021.04.024.
+Kohoutová Simona, BAKALÁŘSKÁ PRÁCE, Přehled vývoje antikoagulační léčby a
+možnosti
+
+jejího
+
+monitorování,
+
+Praha
+
+(2011),
+
+online:
+
+https://dspace.cuni.cz/bitstream/handle/20.500.11956/50374/130043739.pdf?sequence=1&
+isAllowed=y
+Lazzaroni, Maria Grazia, et al. “Coagulation Dysfunction in COVID-19: The Interplay
+between Inflammation, Viral Infection and the Coagulation System.” Blood Reviews, vol.
+46, 2021, p. 100745, https://doi.org/10.1016/j.blre.2020.100745.
+Léonard-Lorant, Ian, et al. “Acute Pulmonary Embolism in Patients with COVID-19 at CT
+Angiography and Relationship to d -Dimer Levels.” Radiology, vol. 296, no. 3, 2020, pp.
+E189–91, https://doi.org/10.1148/radiol.2020201561.
+Lippi, Giuseppe, and Emmanuel J. Favaloro. “D-Dimer Is Associated with Severity of
+Coronavirus Disease 2019: A Pooled Analysis.” Thrombosis and Haemostasis, vol. 120, no.
+05, 2020, pp. 876–78, https://doi.org/10.1055/s-0040-1709650.
+Liu, Wei, et al. “Analysis of Factors Associated with Disease Outcomes in Hospi talized
+Patients with 2019 Novel Coronavirus Disease.” Chinese Medical Journal, vol. 133, no. 9,
+May 2020, pp. 1032–38, https://doi.org/10.1097/CM9.0000000000000775.
+Loo, Joan, Spittle, et al. “COVID-19, Immunothrombosis and Venous Thromboembolism:
+Biological
+
+Mechanisms.”
+
+Thorax,
+
+vol.
+
+76,
+
+no.
+
+4,
+
+2021,
+
+pp.
+
+412–20,
+
+https://doi.org/10.1136/thoraxjnl-2020-216243. [PubMed]
+Loo, Joan, et al. “COVID-19, Immunothrombosis and Venous Thromboembolism:
+Biological
+
+Mechanisms.”
+
+Thorax,
+
+vol.
+
+76,
+
+no.
+
+4,
+
+2021,
+
+pp.
+
+412–20,
+
+https://doi.org/10.1136/thoraxjnl-2020-216243.
+Lumbers, Eugenie R., et al. “The Lung, the Heart, the Novel Coronavirus, and the ReninAngiotensin System; The Need for Clinical Trials.” Frontiers in Medicine, vol. 7, May 2020,
+p. 248, https://doi.org/10.3389/fmed.2020.00248.
+
+81
+
+Marchandot, Benjamin, et al. “COVID-19 Related Coagulopathy: A Distinct Entity?”
+Journal
+
+of
+
+Clinical
+
+Medicine,
+
+vol.
+
+9,
+
+no.
+
+6,
+
+May
+
+2020,
+
+p.
+
+1651,
+
+https://doi.org/10.3390/jcm9061651. [PubMed]
+Miesbach, Wolfgang, and Michael Makris. “COVID-19: Coagulopathy, Risk of Thrombosis,
+and the Rationale for Anticoagulation.” Clinical and Applied Thrombosis/Hemostasis, vol.
+26, Jan. 2020, p. 107602962093814, https://doi.org/10.1177/1076029620938149.
+Mucha, Simon R., et al. “Coagulopathy in COVID-19: Manifestations and Management.”
+Cleveland Clinic Journal of Medicine, vol. 87, no. 8, 2020, pp. 461–68,
+https://doi.org/10.3949/ccjm.87a.ccc024.
+Oxley, Thomas J., et al. “Large-Vessel Stroke as a Presenting Feature of Covid-19 in the
+Young.” New England Journal of Medicine, vol. 382, no. 20, May 2020, p. e60,
+https://doi.org/10.1056/NEJMc2009787.
+pacientov.
+Piagnerelli, Michaël, et al. “Optimizing the Risk-Benefit Balance of Thromboprophylaxis in
+Critically Ill Patients With Coronavirus Disease 2019.” Critical Care Medicine, vol. 48, no.
+10, Oct. 2020, pp. e988–89, https://doi.org/10.1097/CCM.0000000000004509.
+Porfidia, Angelo, and Roberto Pola. “Venous Thromboembolism in COVID‐19 Patients.”
+Journal of Thrombosis and Haemostasis, vol. 18, no. 6, 2020, pp. 1516–17,
+https://doi.org/10.1111/jth.14842.
+Porfidia, Angelo, and Roberto Pola. “Venous Thromboembolism in COVID‐19 Patients.”
+Journal of Thrombosis and Haemostasis, vol. 18, no. 6, 2020, pp. 1516–17,
+https://doi.org/10.1111/jth.14842.
+Ragnoli, Beatrice, et al. “Interrelationship between COVID-19 and Coagulopathy:
+Pathophysiological and Clinical Evidence.” International Journal of Molecular Sciences,
+vol. 24, no. 10, May 2023, p. 8945, https://doi.org/10.3390/ijms24108945. [PubMed]
+Ragnoli, Beatrice, et al. “Interrelationship between COVID-19 and Coagulopathy:
+Pathophysiological and Clinical Evidence.” International Journal of Molecular Sciences,
+vol. 24, no. 10, May 2023, p. 8945, https://doi.org/10.3390/ijms24108945. [PubMed]
+
+82
+
+Ranucci, Marco, et al. “The Procoagulant Pattern of Patients with COVID‐19 Acute
+Respiratory Distress Syndrome.” Journal of Thrombosis and Haemostasis, vol. 18, no. 7,
+2020, pp. 1747–51, https://doi.org/10.1111/jth.14854.
+Ruzsiková A., Tomek A., Zvarová M., Robert Mikulík R., Monitorování účinku nových
+orálních antikoagulancií, Mezinárodní centrum klinického výzkumu FN u sv. Anny
+v Brně,(2014),
+
+Neurológia
+
+pre
+
+prax
+
+|
+
+2014;
+
+15(3),
+
+file:///C:/Users/adminka/Desktop/1.hepar%C3%ADny%20Xa%202330.01.23/monitorovanie%20nov%C3%BDch%20antikoagul%C3%A1cii23.1..pdf,(Solen)
+Salian, Vrishali S., et al. “COVID-19 Transmission, Current Treatment, and Future
+Therapeutic Strategies.” Molecular Pharmaceutics, vol. 18, no. 3, Mar. 2021, pp. 754–71,
+https://doi.org/10.1021/acs.molpharmaceut.0c00608. [PubMed]
+Savla, Shreya R., et al. “Cytokine Storm Associated Coagulation Complications in COVID19 Patients: Pathogenesis and Management.” Expert Review of Anti-Infective Therapy, vol.
+19, no. 11, Nov. 2021, pp. 1397–413, https://doi.org/10.1080/14787210.2021.1915129.
+Scialo, Filippo, et al. “ACE2: The Major Cell Entry Receptor for SARS-CoV-2.” Lung, vol.
+198, no. 6, 2020, pp. 867–77, https://doi.org/10.1007/s00408-020-00408-4.
+Semeraro, Fabrizio, et al. “Low D-Dimer Levels in Sepsis: Good or Bad?” Thrombosis
+Research, vol. 174, 2019, pp. 13–15, https://doi.org/10.1016/j.thromres.2018.12.003.
+Seo, Giwan, et al. “Rapid Detection of COVID-19 Causative Virus (SARS-CoV-2) in Human
+Nasopharyngeal Swab Specimens Using Field-Effect Transistor-Based Biosensor.” ACS
+Nano, vol. 14, no. 4, Apr. 2020, pp. 5135–42, https://doi.org/10.1021/acsnano.0c02823.
+SOP-PLO-HEM-45, Kvantitativní stanovení Anti-Xa aktivity, 77.pdf anti Xa 30.1.2023.pd,
+file:///C:/Users/adminka/Desktop/1.hepar%C3%ADny%20Xa%202330.01.23/77.pdf%20anti%20Xa%2030.1.2023.pdf
+Spyropoulos, Alex C., et al. “Efficacy and Safety of Therapeutic-Dose Heparin vs Standard
+Prophylactic or Intermediate-Dose Heparins for Thromboprophylaxis in High-Risk
+Hospitalized Patients With COVID-19: The HEP-COVID Randomized Clinical Trial.”
+JAMA
+
+Internal
+
+Medicine,
+
+vol.
+
+181,
+
+no.
+
+https://doi.org/10.1001/jamainternmed.2021.6203.
+
+83
+
+12,
+
+Dec.
+
+2021,
+
+p.
+
+1612,
+
+Stančiaková, Lucia a kol., Trombofilné stavy, Martin, Vaskulárna medicína, 2017, 9(2): 54–
+58, https://www.solen.sk/storage/file/article/a37e4fe9c79108d40883da73f825d714.pdf
+Staško J., PhD.1 , Ján Staško, jr.2 , Lucia Stančiaková, Miroslava Dobrotová, Jela Ivanková
+Ingrid Škorňová, Juraj Sokol ,Dagmar Statelová, Peter Kubisz, Martin, Laboratórne
+monitorovanie priamych perorálnych antikoagulancií, Vaskulárna medicína | 2019;11(1)
+|Solen.sk,
+
+file:///C:/Users/adminka/Desktop/1.hepar%C3%ADny%20Xa%2023-
+
+30.01.23/%C4%8Dl%C3%A1nok%20Anti%20Xa%2023.1..pdf, (Solen)
+Susen, Sophie, et al. “Prevention of Thrombotic Risk in Hospitalized Patients with COVID19 and Hemostasis Monitoring.” Critical Care, vol. 24, no. 1, 2020, p. 364,
+https://doi.org/10.1186/s13054-020-03000-7.
+Tang, Ning, et al. “Anticoagulant Treatment Is Associated with Decreased Mortality in
+Severe Coronavirus Disease 2019 Patients with Coagulopathy.” Journal of Thrombosis and
+Haemostasis, vol. 18, no. 5, 2020, pp. 1094–99, https://doi.org/10.1111/jth.14817.
+Thachil, Jecko. “Hypoxia—An Overlooked Trigger for Thrombosis in COVID‐19 and Other
+Critically Ill Patients.” Journal of Thrombosis and Haemostasis, vol. 18, no. 11, 2020, pp.
+3109–10, https://doi.org/10.1111/jth.15029. [PubMed]
+Tomo, Sojit, et al. “Complement Activation and Coagulopathy - an Ominous Duo in
+COVID19.” Expert Review of Hematology, vol. 14, no. 2, Feb. 2021, pp. 155–73,
+https://doi.org/10.1080/17474086.2021.1875813.
+VanGuilder, Heather D., et al. “Twenty-Five Years of Quantitative PCR for Gene Expression
+Analysis.”
+
+BioTechniques,
+
+vol.
+
+44,
+
+no.
+
+5,
+
+2008,
+
+pp.
+
+619–26,
+
+https://doi.org/10.2144/000112776.
+Wei, Matthew Y., and Salena M. Ward. “The Anti-Factor Xa Range for Low Molecular
+Weight Heparin Thromboprophylaxis.” Hematology Reports, vol. 7, no. 4, Nov. 2015, p.
+5844, https://doi.org/10.4081/hr.2015.5844.
+Zhan, Haoting, et al. “Diagnostic Value of D-Dimer in COVID-19: A Meta-Analysis and
+Meta-Regression.” Clinical and Applied Thrombosis/Hemostasis, vol. 27, Jan. 2021, p.
+107602962110109, https://doi.org/10.1177/10760296211010976.
+
+84
+
+Zhang, Li, et al. “Deep Vein Thrombosis in Hospitalized Patients With COVID-19 in Wuhan,
+China: Prevalence, Risk Factors, and Outcome.” Circulation, vol. 142, no. 2, July 2020, pp.
+114–28, https://doi.org/10.1161/CIRCULATIONAHA.120.046702.
+Zhao, Jiao, et al. “Relationship Between the ABO Blood Group and the Coronavirus Disease
+2019 (COVID-19) Susceptibility.” Clinical Infectious Diseases, vol. 73, no. 2, July 2021,
+pp. 328–31, https://doi.org/10.1093/cid/ciaa1150. [PubMed]
+Zou, Ying, et al. “Analysis of Coagulation Parameters in Patients with COVID-19 in
+Shanghai, China.” BioScience Trends, vol. 14, no. 4, Aug. 2020, pp. 285–89,
+https://doi.org/10.5582/bst.2020.03086.
+Zou, Ying, et al. “Analysis of Coagulation Parameters in Patients with COVID-19 in
+Shanghai, China.” BioScience Trends, vol. 14, no. 4, Aug. 2020, pp. 285–89,
+https://doi.org/10.5582/bst.2020.03086.
+
+85
+
+PRÍLOHY
+
+

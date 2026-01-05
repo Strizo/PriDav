@@ -1,0 +1,2470 @@
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA PRÍRODNÝCH VIED
+
+Hodnotenie retencie vody a mikrobiálnej biomasy v zhutnených lesných
+a poľnohospodárskych pôdach
+
+Bakalárska práca
+
+Trnava 2022
+
+Juraj Obuch
+
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA PRÍRODNÝCH VIED
+
+Hodnotenie retencie vody a mikrobiálnej biomasy v zhutnených lesných
+a poľnohospodárskych pôdach
+
+Bakalárska práca
+
+Študijný program: Ochrana a obnova ţivotného prostredia
+Študijný odbor:
+
+7. - Ekologické a environmentálne vedy
+
+Školiace pracovisko: Katedra ekochémie a rádioekológie
+Školiteľ:
+
+Mgr. Martin Valica, PhD.
+
+Konzultant:
+
+doc. RNDr. Miroslav Horník, PhD.
+
+30.6.2022
+
+Juraj Obuch
+
+Čestné prehlásenie
+
+Prehlasujem, ţe som svoju bakalársku prácu prácu na tému: Hodnotenie retencie vody a
+mikrobiálnej biomasy v zhutnených lesných a poľnohospodárskych pôdach vypracoval
+samostatne pod odborným vedením svojho školiteľa s pouţitím literatúry uvedenej
+v zozname.
+V Trnave, dňa 30.6.2022
+....................................................
+Podpis študenta
+
+Poďakovanie
+Chcel by som touto cestou poďakovať školiteľovi Mgr. Martin Valica, PhD. za jeho
+odborné vedenie bakalárskej práce. Taktieţ by som chcel poďakovať doc. RNDr. Miroslav
+Horník, PhD. za jeho pripomienky a odborné rady.
+
+Abstrakt
+Juraj Obuch: Hodnotenie retencie vody a mikrobiálnej biomasy v zhutnených lesných
+a poľnohospodárskych pôdach [Bakalárska práca] – Univerzita sv. Cyrila a Metoda
+v Trnave, Fakulta prírodných vied, Katedra ekochémie a rádioekológie – Školiteľ:
+Mgr. Martin Valica, PhD. – Stupeň odbornej kvalifikácie: Bakalár – Trnava 2022, 58 s.
+Bakalárska práca sa venovala problematike zhutnenia poľnohospodárskych
+a lesných pôd a jeho vplyvu na zadrţiavanie vody a diverzitu mikroorganizmov. Súčasťou
+práce je prehľad základných vlastností pôd (klasifikácia, štruktúra, funkcia atd.)
+a spracovaný aktuálny prehľad negatívnych dôsledkov zhutnenia pôdy na ŢP.
+V rámci praktickej časti práce bolo posudzované zhutnenie pôdy na vybraných
+lesných a poľnohospodárskych lokalitách, kde hrozí riziko splavovania pôdy. Na týchto
+lokalitách sa realizovali odbery vzoriek, ktoré boli podrobené stanoveniu pôdnej vody,
+fyzikálno-chemických vlastností pôdy (pH a vodivosť) a mikrobiologickému rozboru. Vo
+väčšine prípadov boli zaznamenané značné rozdiely týchto parametrov medzi zhutnenými
+a nezhutnenými vzorkami pôdy, pričom veľmi dôleţitú úlohu na vývoj týchto parametrov
+v rámci pôdneho stĺpca zohrávali i ďalšie externé faktory (terén, slnečné ţiarenie a pod.).
+
+Kľúčové slová: retencia vody, zhutnená pôda, lesná pôda, poľnohospodárska pôda,
+mikrobiálna diverzita
+
+Abstract
+Juraj Obuch: Evaluation of water retention and microbial diversity in compacted forest
+and agricultural soils [Bachelor Thesis] – University of Ss. Cyril and Methodius in
+Trnava, Faculty of Natural Sciences, Department of Ecochemistry and Radioecology –
+Supervisor: Mgr. Martin Valica, PhD., Degree of Professional qualification: Bachelor –
+Trnava 2022, 58 p.
+The bachelor thesis study the issue of compaction of agricultural and forest soils
+and its impact on water retention and diversity of microorganisms. Thesis is an overview
+of basic properties of soils (classification, soil structure, function, etc.) and current
+overview of the negative impact of soil compaction on the environment.
+Work study soil compaction of selected forest and agricultural localities, where
+there is a high risk of soil flushing. Sampling was performed at these localities, which were
+used to determination of soil water content, physico-chemical properties of soil (pH and
+conductivity) and microbiological analysis. In most cases, significant differences in these
+parameters were recorded between compacted and non-compacted soil samples, while
+other external factors (terrain, solar radiation, etc.) also played a very important role in the
+development of these parameters within the soil column.
+
+Key words: water retention, compacted soil, forest soil, agricultural soil, microbial
+diversity
+
+Obsah
+
+Obsah ..................................................................................................................................... 1
+Zoznam ilustrácii a tabuliek ................................................................................................... 3
+Zoznam skratiek a značiek ..................................................................................................... 4
+Úvod....................................................................................................................................... 5
+1
+
+Pôda ............................................................................................................................... 6
+1.1
+
+Vznik a vývoj pôdy ................................................................................................. 6
+
+1.1.1
+
+2
+
+Pôdotvorné faktory .......................................................................................... 7
+
+1.2
+
+Pôdne horizonty ...................................................................................................... 8
+
+1.3
+
+Funkcia pôdy ........................................................................................................... 9
+
+1.4
+
+Klasifikačné pôdne jednotky ................................................................................. 10
+
+1.5
+
+Štruktúra pôdy ....................................................................................................... 12
+
+1.6
+
+Retencia vody v pôde ............................................................................................ 12
+
+1.7
+
+Mikrobiálna diverzita pôdy ................................................................................... 14
+
+1.8
+
+Hodnotenie kvality pôd ......................................................................................... 15
+
+Zhutnenie pôd .............................................................................................................. 16
+2.1
+
+Vplyv zhutnenia na štruktúru pôdy ....................................................................... 18
+
+2.2
+
+Vplyv zhutnenia na krajinu ................................................................................... 19
+
+2.3
+
+Vplyv zhutnenia na retenciu vody v pôde ............................................................. 20
+
+2.4
+
+Vplyv zhutnenia na mikrobiálnu diverzitu ............................................................ 21
+
+2.5
+
+Riešenia zadrţiavania vody na zhutnenej pôde ..................................................... 22
+
+3
+
+Ciele bakalárskej práce ................................................................................................ 24
+
+4
+
+Materiál a metódy ........................................................................................................ 25
+4.1
+
+Prístroje a zariadenia ............................................................................................. 25
+
+4.2
+
+Chemikálie ............................................................................................................ 25
+
+4.3
+
+Výber záujmových lokalít ..................................................................................... 26
+
+4.4
+
+Stanovenie penetračného odporu pôdy ................................................................. 27
+
+4.5
+
+Odber vzoriek pôd ................................................................................................. 27
+
+4.6
+
+Spracovanie vzoriek pôdy ..................................................................................... 28
+
+4.7
+
+Príprava ţivných pôd pre mikrobiologický rozbor vzoriek .................................. 28
+
+4.8
+
+Príprava a očkovanie vzoriek pôdnych roztokov .................................................. 29
+1
+
+5
+
+6
+
+4.9
+
+Stanovenie obsahu pôdnej vody vo vzorkách ....................................................... 30
+
+4.10
+
+Stanovenie fyzikálno-chemických parametrov pôdy ........................................ 30
+
+Výsledky a diskusia ..................................................................................................... 32
+5.1
+
+Stanovenie penetračného odporu pôdy vo vybraných lesných lokalitách ............ 32
+
+5.2
+
+Stanovenie penetračného odporu pôdy vo vybraných poľných lokalitách ........... 34
+
+5.3
+
+Stanovenie mikrobiologickej diverzity vo vzorkách pôd...................................... 36
+
+5.4
+
+Hodnotenie retencie vody ..................................................................................... 40
+
+5.5
+
+Hodnotenie fyzikálno-chemických vlastností pôd ................................................ 42
+
+Záver ............................................................................................................................ 46
+
+2
+
+Zoznam ilustrácii a tabuliek
+Obr. 1 Znázornenie rozdelenia pôdneho profilu (vertikálneho prierezu pôdy), podľa
+pôdnych horizontov.: ............................................................................................................. 8
+Obr. 2 Mapa Slovenska, ktorá zobrazuje typy pôd a ich rozdelenie. . ................................ 10
+Obr. 3 Štruktúra pôdy a jej rentenčná schopnosť.. .............................................................. 14
+Obr. 4 Rozdiel pôdnych štruktúr zhutnenej pôdy a bez zhutnenia. ..................................... 18
+Obr. 5 Štruktúra pôdnych pórov a ich rozdiel v retencií vody. .......................................... 18
+Obr. 6 Rozrušenie zhutnenej pôdy rýpadlom. ..................................................................... 22
+Obr. 7 Príprava kaskádovitých nádrţí pre zadrţiavanie vody zo zhutnenej pôdy. .............. 23
+Obr. 8 Lokalizácia vybraných záujmových lokalít. Zdroj: mapy.cz ................................... 26
+Obr. 9 Schématické znázornenie procesu kvartovania ........................................................ 28
+Obr. 10 Naočkované agarové médium ................................................................................ 30
+Obr. 11 Multiparametrický prístroj COMBI 5000 a kadička na zarábanie roztokov ......... 31
+Obr. 12 Ortofotosnímok lokality lesnej lokality 1 s vyznačenými meracími miestami;
+fotografia záujmovej lokality .............................................................................................. 32
+Obr. 13 Grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach
+na lesnej lokalite 1. .............................................................................................................. 32
+Obr. 14 Ortofotosnímok lokality lesnej lokality 2 s vyznačenými meracími miestami;
+fotografia záujmovej lokality ............................................................................................... 33
+Obr. 15 Grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach
+na lesnej lokalite 2. .............................................................................................................. 33
+Obr. 16 Ortofotosnímok poľnej lokality 1 s vyznačenými meracími a odberovými miestami
+(vľavo hore); a grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych
+hĺbkach. ................................................................................................................................ 34
+Obr. 17 Ortofotosnímok poľnej lokality 2 s vyznačenými meracími miestami; a grafické
+záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach. ....................... 35
+Obr. 18 Ortofotosnímok poľnej lokality 3 s vyznačenými meracími miestami; a grafické
+záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach. ....................... 36
+Obr. 19 Celkové počty MO stanovených vo vzorkách pôdy z lesných pôd vyrastených na
+DEV a YGC médiu. ............................................................................................................. 38
+Obr. 20 Celkové počty MO stanovených vo vzorkách pôdy z poľných pôd vyrastených na
+DEV a YGC médiu. ............................................................................................................. 39
+Obr. 21 Obsah pôdnej vody vo vzorkách pôdy odobraných na lesných lokalitách 1 a 2. ... 40
+Obr. 22 Obsah pôdnej vody vo vzorkách pôdy odobraných na poľných lokalitách 1 a 2. .. 41
+Obr. 23 Grafické znázornenie nameraných hodnôt pH pôdy v lesných lokalitách 1 a 2. .... 42
+Obr. 24 Grafické znázornenie nameraných hodnôt pH pôdy v poľných lokalitách 1 a 2. .. 43
+Obr. 25 Grafické znázornenie nameraných hodnôt vodivosti v lesných lokalitách 1 a 2.... 44
+Obr. 26 Grafické znázornenie nameraných hodnôt vodivosti v poľných lokalitách 1 a 2. . 45
+
+Tab. 1 Pôdne druhy a ich kategorizácia obsahu častíc < 0,01 mm. ..................................... 11
+Tab. 2 Rozdelenie klasifikačných systémov pre opis pôdnych pórov ................................. 13
+Tab. 3 Vyhodnotenie intenzity nárastu kolónií MO zo vzoriek lesných a poľných pôd. .... 37
+3
+
+Zoznam skratiek a značiek
+MO – mikroorganizmy
+ŢP – ţivotné prostredie
+KTJ – kolóniotvorné jednotky
+Les1 – lesná lokalita 1
+Les2 – lesná lokalita 2
+Pole1 – poľná lokalita 1
+Pole2 – poľná lokalita 2
+
+4
+
+Úvod
+Pôda predstavuje dôleţitú časť biosféry. Je zdrojom veľkého mnoţstvá dôleţitých
+surovín a prebieha tu nespočetné mnoţstvo fyzikálnych, chemických a biochemických
+procesov, ktoré sú dôleţité pre zachovanie a rozvoj ţivota na Zemi. Pôda predstavuje jednu
+z matríc ţivotného prostredia, ktorá je veľmi úzko prepojená so všetkými zloţkami
+tvoriacimi biosféru.
+V dôsledku prebiehajúcej zmeny klímy nastáva zvyšovanie teploty vzduchu,
+s ktorým veľmi úzko súvisí nerovnomerná distribúcia daţďových zráţok. Tá je
+sprevádzaná extrémnymi podmienkami období dlhého sucha s prívalovými daţďami, ktoré
+krajina nedokáţe zachytiť.
+Veľkú úlohu pri zachytávaní vody v ŢP plní práve pôda. Vodozádrţná kapacita pôdy
+je však výrazne ovplyvnená antropogénnou činnosťou akou sú napríklad menej vhodné
+spôsoby obrábania poľnohospodárskych pôd (orba mimo vrstevníc a bez existencie
+prirodzených medzí, ktoré by oddeľovali jednotlivé obrábané celky), ako aj zhutnené lesné
+pôdy vytvárané, napr. aktívnou ťaţbou dreva v lesoch. Obidva tieto fenomény zákonite
+vedú k čoraz väčšiemu deficitu vody a zhoršeniu vlastností, ktoré vyplývajú z jej obsahu v
+pôde.
+Cieľom bakalárskej práce je vypracovať aktuálny stav poznatkov o vplyve zhutnenia
+na lesné a poľnohospodárske pôdy. Na vybraných lokalitách prakticky sledovať vplyv
+zhutnenia pomocou in situ merania a laboratórnych analýz vzoriek pôdy (mikrobiologické
+a fyzikálno-chemické analýzy).
+
+5
+
+1 Pôda
+Pôda predstavuje najvrchnejšiu časť zemskej kôry. Je kľúčovou zloţkou v lesnom
+poľnohospodárstve, ţivotnom prostredí a ekosystéme. Je veľmi citlivá na antropogénne
+zásahy, ktoré z nej môţu vytvoriť nefunkčnú a bezvýznamnú matricu. Zásobuje všetky
+ţivé organizmy na povrchu i pod povrchom, poskytuje im potrebné prvky a látky, ktoré sú
+nevyhnutné pre ich rast a vývin. Prebieha v nej kolobeh ţivín, vývoj rastlín, výmena
+plynov, ukladanie uhlíka a rozklad odpadných produktov.
+Skladá sa zo vzduchu, vody, minerálov, agregátov a z rôznej rastlinnej a ţivočíšnej,
+prevaţne odumretej organickej hmoty. Najčastejšie vyskytujúce sa prvky, ktoré podporujú
+rast organizmov sú draslík, fosfor a dusík. Menej vyskytujúce sa minerály v pôde sú
+horčík, fosfor a síra. V optimálnom stave obsahuje pribliţne 45% pevného materiálu
+(piesočnaté, ílovité a štrkové častice), 5% organickej hmoty a 50% pórovitých priestorov
+(Kalev, 2018).
+Pôda a rastliny sú medzi sebou prepojené a neustále spolupracujú, vymieňajú si
+ţiviny a všetky potrebné informácie cez koreňové systémy. Pôda a jej zloţenie a štruktúra
+sa odlišujú hlavne od geografickej polohy, v ktorej sa nachádza. Pôda sa povaţuje za
+neobnoviteľný zdroj a jej tvorba je časovo náročná a zdĺhavá (Dazzi, 2021).
+
+1.1 Vznik a vývoj pôdy
+Vývoj pôdy a jej celkových profilov sa nazýva pedogenéza. Kaţdý profil má vytvorené
+horizonty, ktoré sa odlišujú fyzikálno-chemickými vlastnosťami. Najjednoduchšie
+rozlíšenie horizontov sa dá definovať na základe ich rôznej farebnosti, ktorá je podmienená
+rôznou štruktúrou a obsahom prítomnej pôdy.
+Pôdy moţno taktieţ rozdeliť na zonálne a intrazonálne.
+Genéza zonálnych pôd je podmienená hlavne pôsobením bioklimatických činiteľov.
+Vznikajú na beţných substrátoch bez vplyvu povrchovej, alebo podzemnej vody.
+Intrazonálne pôdy nie sú podmienené bioklimatickými činiteľmi ako to je v prípade
+zonálnych pôd. Sú podmienené hlavne extrémnym zrnitostným a chemickým charakterom
+substrátov (Mičian, 1977). Oba typy ovplyvňujú aj ďalšie procesy ako je čas, klíma, typ
+horniny a vegetácia.
+Zonálne pôdy sa ďalej delia na podzolové a hnedé pôdy. Podzolové pôdy sa
+vyskytujú prevaţne pri boreálnych ihličnatých lesoch alebo vresoviskách v chladnom
+a vlhkom podnebí. Tieto pôdy majú kyslý charakter a dobrú vylúhovateľnosť. Hnedý typ
+6
+
+pôd sa prevaţne vyskytuje pri dubových a bukových lesoch, kde dominujú listnaté stromy.
+Intrazonálne pôdy majú v pôdnom profile nadmerné mnoţstvo vody a malý obsah
+vzduchu. To vyhovuje mikroorganizmom, ktoré ţijú alebo sa rozmnoţujú pri anaeróbnych
+podmienkach. Patrí sem glejovitý typ pôdy, redzinová pôda alebo ranker (Mareddy, 2017).
+Pri vývoji pôdy majú dôleţitú úlohu procesy elúcie (tzv. vymývanie) a iluviácie (tzv.
+premývanie). Prostredníctvo týchto procesov sa pohybujú časti ílu a iné zloţky z povrchu
+do niţších horizontov (Osman, 2013).
+Fyzikálne a chemické vlastnosti pôdy sú z pravidla ovplyvnené zoogénnou aktivitou.
+Ţivočíchy ţijúce v pôde premiešavajú pôdu, čím menia jej mineralogické vlastnosti a
+distribúciu. Ďalej tu dochádza k vzniku organických humínových látok, ktoré biochemicky
+premieňajú pôdne organizmy. Schopnosť rozkladať odumreté zvyšky zlepšuje chemickú,
+fyzikálnu a biologickú vlastnosť pôd. Medzi najrozšírenejšie pôdne organizmy, ktoré
+menia zloţenie pôd sú dáţďovky. Ich funkciou je udrţiavať pôdu v rovnováţnom stave.
+Pôda a jej tvorba prebieha v rôznych krokoch a fázach, ktoré sú veľmi komplexné
+a jednotlivé fázy sú od seba závislé.
+1.1.1 Pôdotvorné faktory
+Základným pôdotvorným faktorom je materský materiál a jeho zloţenie. Hlavnou
+zloţkou materského materiálu sú horniny, z ktorých sú pôdy ako celok vytvorené. Tvorba
+pôdy začína fyzikálnym a chemickým rozpadom materskej horniny pôsobením externých
+vplyvov. Horniny sa zvetrávaním rozpadajú na menšie častice, čím sa modifikujú nielen
+ich fyzikálne a chemické vlastnosti, ale po určitom čase sa z nich vytvorí pôda.
+Zvetrávanie môţe tieţ syntetizovať nové minerály, ktoré sú nevyhnutné pre proces tvorby
+pôdy. Samotné zvetrávanie určujú fyzikálne, chemické a biologické faktory.
+K fyzikálnym procesom patrí zmena teploty, vysychanie, topenie, zmrazenie alebo
+erózia.
+V procesoch chemického zvetrávania zohráva dôleţitú úlohu oxid uhličitý, ktorý sa
+rozpúšťa v daţďovej vode a dochádza k vzniku slabej kyseliny uhličitej. Kontakt najmä
+s kamennými útvarmi vyvolá po určitom čase opotrebenie a následný rozpad hornín.
+Chemické a fyzikálne zvetrávanie sa navzájom dopĺňajú, čo celkovo urýchľuje proces
+rozpadu hornín.
+Posledným druhom zvetrávania je biologické, pri ktorom rôzne druhy organizmov
+pôsobia na materiály fyzikálne i chemicky. Stromy a rastliny svojím koreňovým systémom
+
+7
+
+prenikajú cez malé trhliny, čím rozširujú ich plochu a dochádza k rozpadu týchto hornín.
+(Creamer a kol., 2018).
+Medzi sekundárne pôdotvorné faktory patrí čas, topografiu a činnosť organizmov.
+
+1.2 Pôdne horizonty
+Pôda je rozdelená na jednotlivé vrstvy, ktoré sa nazývajú pôdne horizonty. Horizont
+je vrstva pôdy, ktorá sa nachádza rovnobeţne s povrchom krajiny. Na Obr. 1 je
+znázornených 5 základných pôdnych horizontov.
+
+Obr. 1 Znázornenie rozdelenia pôdneho profilu (vertikálneho prierezu pôdy), podľa
+pôdnych horizontov. Upravené podľa: (Pearson Prentice Hall, 2005).
+Organický horizont predstavuje vrchný pôdny horizont. Je zloţený prevaţne
+z odumretých ţivočíšnych a rastlinných zvyškov. Nastávajú tu veľmi intenzívne
+mikrobiologické a biochemické premeny. V niektorých pôdnych profiloch sa organický
+horizont vôbec nevyskytuje a iné sú tvorené len ním (rašelinové pôdy).
+Humusový horizont sa nachádza pod organickým horizontom. Obsahuje minerálnu
+hmotu premiešanú s jemným organickým materiálom. Máva zvyčajne tmavšiu farbu
+a vytvára
+
+väčšiu
+
+vrstvu
+
+ako
+
+organická
+
+časť
+
+pôdy.
+
+Minerály
+
+obsiahnuté
+
+v
+
+humusovom horizonte sem prenáša daţďová voda z povrchu.
+Iluviálny horizont sa vytvára pod humusovým horizontom. Dochádza tu
+k akumulácií materiálov pochádzajúcich z vrchných pôdnych horizontov. Zvyčajne sa
+vyskytuje v strede pôdneho profilu. V suchých oblastiach sa tu môţe akumulovať síran
+alebo uhličitan vápenatý. Naproti tomu vo vlhkých oblastiach sa akumulujú rôzne oxidy
+ţeleza a hliníka.
+
+8
+
+Ďalej sa nachádza vrstva materskej horniny. Ide o materiál, ktorý ešte nebol
+rozrušený alebo zmenený pedogénnymi procesmi. Všetky pôdne horizonty, ktoré sú nad
+touto vrstvou, sa vyvíjajú práve z materského horniny.
+Posledný pôdny horizont sa označuje ako glejovitý a je špecifický vysokým obsahom
+podzemnej vody (Osman, 2013).
+
+1.3 Funkcia pôdy
+Primárnou funkciou pôdy je tvorba biomasy, či uţ lesnej, alebo poľnohospodárskej.
+Sekundárnou veľmi dôleţitou funkciou je ekologická stabilizácia okolitého prostredia.
+V pôde sa uskutočňuje rad funkcií (Hatfield, 2017):
+
+
+kolobeh ţivín,
+
+
+
+filtrácia a infiltrácia vody,
+
+
+
+transformácia ţivín,
+
+
+
+ukladanie rôznych prvkov, ako je uhlík a dusík MO,
+
+
+
+podporuje celkovú biodiverzitu a biotopy,
+
+
+
+domov pre rôzne ţivé organizmy a MO.
+Pôda udrţuje svoju kvalitu pre rastlinstvo a ţivočíšstvo, ktoré sú závislé od jej
+
+podmienok. Pôda vďaka svojím filtračným vlastnostiam dokáţe absorbovať a viazať rôzne
+toxické i netoxické látky a odstraňovať ich z látkového cyklu. Znečistená voda, ktorá bola
+infiltrovaná do pôdy prechádza cez pôdne horizonty, kde sa zbavuje rôznych
+znečisťujúcich látok. Zachytené znečisťujúce látky v pôde sú následne MO spracovávané
+a rozkladané. Zvýšená ľudská aktivita na pôdu zapríčiňuje menšiu a pomalšiu schopnosť
+pôdnej regenerácie a samotnej pôdnej kvality (Vidal, 2016).
+Voda prechádza cez minerálne podloţia, kde je obohacovaná minerálnymi zloţkami.
+Takto prefiltrovaná a obohatená voda sa dostáva do podzemných vôd. Samotná pôda
+vďaka vode a organickej hmote dokáţe regulovať svoju teplotu, a tým nedochádza
+k veľkým výkyvom, ktoré by boli neţiaduce pre organizmy.
+Kolobeh ţivín v pôde je nevyhnutný pre fungovanie ekosystému. Dusík, uhlík či
+fosfor sú absorbované do organickej hmoty a premieňané vplyvom biochemických reakcií,
+MO. MO rozkladajú odumretú organickú hmotu napr. listy, drevo a korene rastlín.
+Premieňajú ich na zlúčeniny, ktoré neskôr vyuţívajú pre svoj rast.
+Významnou funkciou pôdy je viazanie a ukladanie uhlíka. Pôda obsahuje dvakrát
+väčšie mnoţstvo uhlíka ako je vo vegetácii a atmosfére dohromady. Uhlík sa tu ukladá vo
+
+9
+
+forme pôdnej organickej hmoty. Primárnymi zloţkami obsahujúce uhlík sú hubová
+a bakteriálna nekromasa, ktoré udrţujú celkovú hladinu organickej hmoty v pôde.
+Mnoţstvá uloţeného uhlíka v pôde sa líšia podľa lokality a závisia od pH a mineralógie
+pôdy (Liang a kol., 2017).
+
+1.4 Klasifikačné pôdne jednotky
+Na Slovensku máme sedem najdôleţitejších klasifikačných pôdnych jednotiek podľa
+ktorých pôdu rozlišujeme:
+
+Obr. 2 Mapa Slovenska, ktorá zobrazuje typy pôd a ich rozdelenie. Prevzaté z: (VÚPOP,
+2019).
+
+
+Skupina - hlavný ukazovateľ zatriedenia pôd. Identifikuje sa podľa pôdneho
+horizontu, ktorý je najviac dominujúci. Základné označenie skupiny sa vykonáva
+písmenom (A, B, C, D a N/A- neaplikuje sa ţiadne z označení)
+
+
+
+Pôdny typ - určuje celkovú identifikáciu a kategorizáciu pôdy, podľa pôdnych
+horizontov a dominantných morfologických znakov. Na Slovensku evidujeme 21
+typov pôd (Obr. 2). Najviac rozšírené typy sú kambizeme (zastúpenie > 30%
+rozlohy SR), fluvizeme (14,4% SR), hnedozeme (11% SR) a černozeme (cca 10%
+SR). Menej rozšírené typy pôd sú pseudogleje, černice, regozeme či rendzina
+a ďalšie (VÚPOP, 2019).
+
+
+
+Subtyp - charakterizuje typ pôdy, ktorý môţe byť rozdelený podľa rôznych
+charakteristických znakov napr. vizuálny znak.
+
+
+
+Varieta - identifikovanie a kategorizovanie pôdy podľa:
+o chemických vlastností vybraných horizontov
+10
+
+o charakteru antropických zásahov
+o erózno-akumulačných znakov
+o charakter organických a mrazových foriem.
+Variety sa rozdeľujú (Dodok, 2017):
+o hlavné horizonty Adi - určuje primárne štádium pôdotvorby o hrúbke 1-10
+centimetrov
+o antropogénne horizonty Adr, Ad a Hd - obsahujú artefakty ako sú rôzne
+úlomky skla, plastu, ţeleza, či gumy.
+
+
+Pôdny druh - určuje sa podľa obsahu jednotlivých zrnitostných frakcií (Tab. 1).
+
+Tab. 1 Pôdne druhy a ich kategorizácia obsahu častíc <0,01 mm podľa Novákovej
+klasifikačnej stupnice zemín.
+Kategória zrnitosti
+
+Obsahu častíc < 0,01 mm
+piesočnaté (0-10%)
+
+pôdy ľahké
+
+hlinito-piesočnaté (10 - 20%)
+
+pôdy stredne ťaţké
+pôdy ťaţké
+
+hlinité (30 - 45%)
+ílovito-hlinité (45 - 60%)
+
+pôdy veľmi ťaţké
+
+
+
+piesočnato-hlinité (20-30%)
+
+ílovité (60-75%)
+íly ( > 75%)
+
+Zastúpenie v %
+6,4
+
+73,2
+17,1
+3,3
+
+Substrát - delenie sa vykonáva kategorizáciou na:
+o
+
+pôdotvorné - vytvárajú sa zvetrávaním hornín a obsahujú sekundárne
+zloţky, ktoré sú rozpustné vo vode alebo sú rozloţiteľné organizmami a
+MO. Z rozloţených sekundárnych zloţiek vzniká pôdny profil, ktorý je
+následne členený do pôdnych horizontov (Čurlík, 2012).
+
+o antropogénne – rozdeľujú sa podľa pôvodu na (Zverková, 2011):
+
+
+prírodný - štrky, piesky, kamenitý materiál alebo rašelinový či
+humulitový materiál.
+
+
+
+prírodno-technogénny - pôvod materiálu, kde môţeme zaradiť
+odpad z banského priemyslu, zmiešané technologicko-rekultivačné
+materiály
+
+11
+
+
+
+technogénny - stavebný materiál, smetiskový odpad, priemyselný
+odpad, popolčeky
+
+
+
+Sfarbenia pôdy - určuje úrodnosť, čím je pôda tmavšia, tým obsahuje vyšší podiel
+organickej hmoty. Zafarbenie pôdy je podmienené humusovou zloţkou. Podľa
+sfarbenia pôdy sa dajú zistiť ďalšie informácie o pôde (napr. čierne zeminy sú viac
+teplejšie a majú vysokú výparnosť) (Mareddy, 2017).
+
+1.5 Štruktúra pôdy
+Častice, z ktorých sa skladá pôda sa označujú ako tzv. pôdne agregáty
+a konglomeráty. Vzájomne sa líšia svojím tvarom (guľatý, hranatý a pod), veľkosťou a ich
+zloţením (hlina, piesok, organická hmota). Tieto parametre definujú štruktúru pôdy.
+Agregáty a ich tvorba je podmienená naviazaním minerálnych a organických koloidov.
+Piesok alebo bahno spája častice, a tým vznikajú agregáty rôznej veľkosti a stability.
+Ideálna veľkosť pôdnych agregátov sa pohybuje v rozmedzí od 1 mm do 10 mm. Práve
+veľkosť agregátov v pôde určuje jej celkovú štruktúru a kvalitu.
+Poznáme pôdy, ktoré majú vyššiu a niţšiu štruktúru agregátov. Vyššia štruktúra
+predstavuje pre pôdu dobré prevzdušnenie, pôda je drobivá a má veľmi vysokú
+vodozádrţnú kapacitu. Pri niţších štruktúrach je pôda hustejšia, stabilnejšia, pórovitejšia
+ale nie je dokonale prevzdušnená.
+Dôleţitou zloţkou pôdy je humusová časť, ktorá vplýva na veľkosť pórov, zvyšuje
+absorpciu a zadrţiavanie vody a zároveň uľahčuje jej pohyb vo všetkých smeroch
+(Jackson, 2020).
+Pôdy s vysokým podielom ílu sa vyznačujú vyššou pevnosťou a stabilitou. Oproti
+piesočnatým pôdam, ktoré sú veľmi ľahko rozrušitelné (Rai a kol., 2017).
+Štruktúra pôdy je nevyhnutná pri trofických interakciách v spoločenstvách, ktoré
+obývajú pôdu. Práve pôdna mikrobiota je zodpovedná za vstup organického uhlíka do
+pôdy, jeho spracovanie a uloţenie. Táto činnosť sa vykonáva prevaţne v malých pôdnych
+póroch a organo-minerálnych asociáciách (Erktan a kol., 2020).
+
+1.6 Retencia vody v pôde
+Retenciu vody je moţné definovať ako schopnosť pôdy zadrţiavať vodu v rámci
+pôdnych pórov. Pri tomto parametre sa hodnotí maximálna moţná miera nasýtenia pôdy
+vodou a takisto čas, ktorý je pôda schopná ju udrţať.
+12
+
+To koľko vody je schopná pôda zadrţať primárne závisí od jej zrnitosti, veľkosti
+pôdnych pórov a obsahu organického uhlíka (Obr. 3). Zadrţiavanie je teda komplexnou
+funkciou zloţenia pôdy. Podľa zloţenia organickej hmoty v pôde sú ovplyvnené celkové
+adsorpčné a retenčné vlastnosti pôdy (Rawls a kol., 2003). Pri retencii vody v pôde sa
+uplatňujú procesy adhézie (tzv. priľnavosť, pripojenie rôzneho materiálu o materiál
+a kohézie (poskytuje molekulám vody ich spojitosť).
+Častice, ktoré sú jemné, zadrţia väčší objem vody ako hrubé častice obsiahnuté
+v pôdnej matrici. Póry v pôde moţno definovať ako vzdušné priestory, ktoré existujú
+medzi časticami pôdy. Existujú 2 klasifikačné systémy na opis veľkosti a funkčnosti
+pôdnych pórov (Tab. 2).
+Tab. 2 Rozdelenie klasifikačných systémov pre opis pôdnych pórov
+Systém
+
+Kay
+
+Grónsk
+
+Makropóry udrţujú
+
+Priemer
+
+Názov
+
+> 30 μm
+
+makropóry
+
+medzi 30 μm a 0,2 μm
+
+mezospóry
+
+< 0,2 μm
+
+mikropóry
+
+ECD > 50 μm
+
+prenosové póry
+
+50 a 0,5 μm
+
+zásobné póry
+
+< 0,5 μm
+
+zvyškové póry
+
+prevzdušenie
+
+a priepustnosť
+
+pôdy.
+
+Pôdne
+
+organizmy
+
+najčastejšie dáţďovky, väčšie podzemné stavovce a bezstavovce spolu s koreňovým
+systémom rastlín sú hlavnými tvorcami makropórov. Tieto póry umoţňujú vode rýchlejšiu
+infiltráciu do pôdy. Pri póroch väčších ako 50 μm voda kontinuálne a bez problémov
+odteká cez pórovú štruktúru pokiaľ sú medzi sebou póry poprepájané.
+Mikropóry majú za úlohu zadrţiavať vodu v pôde kapilárnymi silami. Zmeny
+pôdnych procesov či uţ prírodných, alebo umelých môţu degradovať ako aj meniť póry
+a vyvolávať ich zmeny (Azizsoltani a kol., 2016). Piesočnaté pôdy obsahujú veľké póry,
+ktoré nemajú dostatočnú schopnosť zadrţiavania a z tohto dôvodu ju rýchlo odvádzajú do
+pôdy. Ílovité pôdy obsahujú malé póry, ktoré pôdu udrţiavajú v stálej vlhkosti.
+
+13
+
+Obr. 3 Štruktúra pôdy a jej rentenčná schopnosť. Upravené podľa: (Sharma, 2018).
+Pórovitosti a retenciu pôdy popisujú nasledovné parametre:
+
+
+Merná špecifická hmotnosť (ρs) – vyjadruje hmotnosť 1 m3 pôdy zbavenej
+pôdnych pórov a vody.
+
+
+
+Objemová hmotnosť (ρd) – hmotnosť 1 m3 pôdy. Vyjadruje sa v t.m-3, alebo
+kg.m-3. Závisí od štruktúry, pôdnych častíc alebo obsahu vody a vzduchu v pôde.
+
+
+
+Pórovitosť pôdy – nazývame celkový objem pórov medzi pôdnymi časticami,
+agregátmi i vo vnútri agregátov, vyjadrený v percentách k určitému objemu
+pevnej fázy v prirodzenom zloţení.
+Pórovitosť pôdy sa zisťuje nepriamo výpočtom pomocou mernej špecifickej
+hmotnosti /ρs/ a objemovej hmotnosti redukovanej /ρd/ podľa vzorca:
+
+Ak chceme porovnať do akej miery rôzne pôdy (zeminy) sú nasýtené vodou vo
+vzťahu k celkovej pórovitosti, môţeme vypočítať i tzv. relatívnu vlhkosť a
+relatívnu vodnú kapacitu (Hanes, 1995).
+
+1.7 Mikrobiálna diverzita pôdy
+Mikrobiálna diverzita je pre pôdu ako systém veľmi dôleţitým prvkom z dôvodu
+veľkého vplyvu na pôdny ekosystém, jeho štruktúru a zloţenie (Yang a kol., 2021).
+Baktérie a huby sú zodpovedné za cyklus významných biogénnych prvkov v pôde, čo
+prispieva a udrţuje pôdu v zdraví a kondícií. MO sú zodpovedné za eliminovanie
+nebezpečných látok, ktoré sa dostali antropogénnou činnosťou do pôdneho profilu (Dipanti
+a kol., 2018).
+
+14
+
+Veľkosť pôdnych častíc úzko súvisí so zmenou diverzity. Pri bahnovitých frakciách
+je menej rôznorodejšie bakteriálne spoločenstvo ako v ílovitých, kde prevláda rôznorodosť.
+Vo všeobecnosti mikroagregáty majú vyššie zastúpenie bakteriálnej diverzity ako majú
+makroagregáty, ktoré sú väčších rozmerov (Xu a kol., 2021).
+Najväčšia mikrobiálna diverzita vyskytuje v povrchovej vrstve pôdy, pribliţne do
+hĺbky 25 cm. Vrstva obsahuje najväčšie mnoţstvá organickej hmoty a pôdnych ţivín.
+Mikrobiálne spoločenstvá, ktoré sa nachádzajú v hlbších častiach pôdy majú väčší vplyv
+na pôdotvorné procesy neţ v prípade povrchových spoločenstiev.
+Diverzita MO a ich mnoţstvo sa vertikálnym smerom značné líši. V povrchových
+vrstvách je najväčšia zmena v zastúpení od (0 – 15 cm) aţ (15 – 30 cm) pričom medzi (15
+– 90 cm) nedochádza k výraznej zmene diverzity. Vo väčších hĺbkach (90 – 180 cm) je
+značne zníţený objem mikrobiálnych spoločenstiev (Hao a kol., 2020).
+
+1.8 Hodnotenie kvality pôd
+Hodnotenie kvality pôdy je moţné vykonávať z 2
+
+hľadísk. Významnými
+
+ukazovateľmi hodnotenia kvality lesnej a poľnohospodárskej pôdy je ich produkčná a
+ekologická stránka. Práve tieto dva faktory určujú či je pôda vhodná pre samotnú krajinnú
+oblasť, udrţanie biodiverzity a pestovanie plodín. Faktory nás informujú v akom mnoţstve
+budú výnosy z konkrétneho druhu pôdy a o mnoţstve zastúpenia biologickej časti v pôde.
+Produkčná funkcia pôdy je dôleţitým faktorom pre ľudstvo. Poţiadavky a nároky
+majú zvyšujúci sa trend a mnoţstvo dostupnej poľnohospodárskej pôdy je obmedzené.
+Typickým príkladom je salinizácia pôd. Vzniká pri rozpúšťadlách, ktoré sú aplikované na
+pôdu alebo je spôsobená v dôsledku zhutnenia pôdy.
+Ďalším negatívnym vplyvom je zvyšujúca sa dezertifikácia pôd, ktorá je podmienená
+hlavne nesprávnymi spôsobmi obrábania, nadmerným spásaním dobytkom a pod.
+Vysoko rizikovým faktorom pre pôdu je jej kontaminácia v dôsledku pouţívania
+určitých toxických postrekov, pesticídov proti škodcom, burinám, ktoré sa pouţívajú pri
+ochrane lesných porastov a rastlinných plodín. To má za dôsledok zvýšenú toxicitu pôd,
+zníţenú kvalitnú a produkčnú časť.
+Ekologické hodnotenie kvality pôdy je faktorom ktorý určuje funkčnosť pôdy
+a hodnotí ju od jej štruktúry cez organizmy, aţ po vodozádrţnú schopnosť. Kvalita pôdy
+a okolitého prostredia by mala byť udrţovaná vo všetkých aspektoch, od ktorých sa odvíja
+zdravie a kvalita najmä rastlín, zvierat a ľudí.
+Dôleţitým kvalitatívnym znakom je hodnotenie pôdnej reakcie (pH). Určuje jej
+15
+
+kyslosť alebo zásaditosť, čo predstavuje jednoduchú indikáciu prebiehajúcich chemických
+procesov v pôde. Najoptimálnejšia hranica pH pôdy je v rozmedzí pH 6 aţ 7, vtedy sú
+organizmy najaktívnejšie a je zabezpečená bezproblémová dostupnosť ţivín (Hatten,
+2019). Okrem hodnoty pH majú dôleţitý vplyv na celkovú úrodnosť pôdy aj ďalšie
+podmienky:
+
+
+rýchlosť vsakovania vody pri zráţkach – nemala by byť menšia ako 30 mm za prvú
+hodinu
+
+
+
+obsah skeletu - vo vrchných 30 cm pôdy by mal byť < 10 %,
+
+
+
+celková mineralizácia vodného výluhu pôdy - nemôţe byť > 0,3 % a obsah humusu
+do hĺbky 30 cm > 2 %,
+
+
+
+pôda nesmie obsahovať ţiadne škodlivé látky,
+
+
+
+erózna ohrozenosť - by nemala byť vyššia ako tzv. erózny koeficient 0,4, čo značí,
+ţe by nemala byť na svahu nad 5 %,
+
+
+
+premŕzanie pôdy – nesmie byť hlbšie ako 50 cm a teplota pôdy v mesiacoch jún –
+september by nemala byť niţšia ako 15 °C v hĺbke 50 cm,
+
+
+
+obsah vody v pôde - za celé vegetačné obdobie by nemal klesnúť pod trojnásobok
+čísla hydroskopicity (Vilček, 2011).
+Od ekologickej kvality pôdy sa odvíja funkcia MO diverzity. Zmena diverzity môţe
+
+nastať pri narušení pôdnych štruktúr, čo vedie k úhynu alebo nesprávnej funkcií MO.
+Niektoré organizmy majú schopnosť adaptácie sa na nové prostredie, čo predstavuje iba
+malé percento z celkového osídlenia pôdy.
+Môţe nastať i tzv. prirodzené narušenie vplyvom prírodných javov, počasia alebo
+prítomnosťou zvierat.
+Zvýšenie objemovej hmotnosti, zníţenie pórovitosti, obmedzenie dostupnosti pôdnej
+vody a nedostatočné prevzdušnenie mení štruktúru a obsadenie mikrobiálnej diverzity
+v pôde. Ekosystémové funkcie a základné funkcie pôdy sú ovplyvnené práve zhutnením
+pôdy (Xu a kol., 2021).
+
+2 Zhutnenie pôd
+Zhutnenie pôdy je definované ako zvýšenie mnoţstva častíc pôdy na jednotku
+objemu (Mariotti a kol., 2020). Môţe sa zamieňať i s odbornejším výrazom ako kompakcia
+pôdy. Pri zhutnení sú pôdne častice vystavené fyzickej degradácií, pri ktorej dochádza k
+zníţeniu biologickej aktivity pôdy, produktivity pôdy pre poľnohospodárske a lesné
+16
+
+plodiny. Vplyvom tlaku na pôdu sa zniţuje pórovitosť a priepustnosť pôdy, zvyšuje sa jej
+pevnosť a hustota. Z veľkej časti sa ničí štruktúra pôdy a dochádza k mnohým zmenám v
+pôdnej štruktúre. Vyvinutým tlakom na pôdu sa zmenšuje priestor medzi pôdnymi
+časticami.
+Zhutnenie pôd je moţné zistiť pomocou tzv. penetračných prístrojov. Slúţia na
+operatívne zistenie stavu pôdy. Penetračný spôsob stanovenia hutnosti pôdy predstavuje
+empirickú metódu, pri ktorej sa meria hutnosť pôdy vtláčaním špecifického valcového
+kuţeľa do pôdy. Metóda slúţi na meranie penetračného odporu, ktorý vyjadruje mieru
+zhutnenia pôdy. Penetračný odpor Pp definujeme vzťahom (Boďo, 2009):
+
+Existujú dve formy zhutnenia, povrchové a podpovrchové. Zatiaľ čo zhutnenie
+povrchu moţno čiastočne zmierniť pri beţných operáciách obrábania pôdy, podpovrchové
+zhutnenie pod normálnu hĺbku obrábania pôdy zostane (Duiker, 2002).
+K zhutneniu pôdy dochádza primárne antropogénnou činnosťou ako vedľajší efekt
+spojený s činnosťou ťaţkých mechanizmov v dôsledku operácií na danej lokalite ako sú
+napr. valcovanie, tlak kolies a pásov, pošliapanie, nekorektné obhospodarovanie pôdy,
+alebo zavlaţovanie.
+Zhutnenie pôdy môţe byť i prirodzeného typu zapríčinené ťaţkými nadloţiami snehu,
+alebo ľadu. Príčinou zhutnenia môţe byť aj samotný výdatný dáţď, čo vedie k tvorbe
+povrchových kôr na pôde (Van den Akker a kol., 2005).
+Zhutnenie pôdy dokáţe celkovo zvýšiť objemovú hustotu pôdy aţ o 15% zníţiť
+priepustnosť vzduchu o 94% a zníţiť prístup difúziu plynov o 59%. Mikrobiálne
+organizmy sú vplyvom zhutnenia narušené, kde nedochádza k procesom ktoré vykonávajú.
+Vykonávajú ich buď v zmenšenej forme, alebo sú bez vykonávacej činnosti (Longepierre
+a kol., 2021).
+Pôdy vystavené zhutneniu sa môţu charakterizovať na 2 druhy:
+
+
+Súdrţné pôdy - obsahujú veľké mnoţstvo bahna a ílu. Môţu sem patriť i ďalšie
+druhy ako ílovo-pieskové a ílovo-štrkové. Tieto pôdy sú aj bez príspevku
+umelej kompakcie ťaţko priepustné aţ nepriepustné v dôsledku vysokej hustoty
+a veľmi nízkemu obsahu vzduchu.
+
+
+
+Nesúdrţné pôdy - po zvýšenom tlaku na pôdu zostávajú priepustné a bez
+známok zhutnenia. Skladajú sa z rôznych úlomkov, ktoré sa nezhlukujú
+17
+
+a vytvárajú veľké póry, v ktorých sa pohybuje väčší objem vzduchu. Ide
+prevaţne o piesky a štrky (Fang, 1991).
+Ak sú hodnoty pre vzduch v póroch niţšie ako 10% je pravdepodobný nedostatok
+kyslíka. Pri hodnotách vzduchu < 5% dochádza k vzniku anaerobiózy, pri ktorej pôda
+prakticky neobsahuje ţiaden kyslík, infiltrácia vody do pôdy je pomalšia a spomaľuje sa
+výmena plynov, čo môţe mať za následok nesprávne prevzdušňovanie pôdy.
+
+Obr. 4 Rozdiel pôdnych štruktúr zhutnenej pôdy a bez zhutnenia. Prevzaté z: (Vaľo, 2018)
+
+2.1 Vplyv zhutnenia na štruktúru pôdy
+Prirodzená štruktúra pôdy sa môţe meniť opakovaným fyzickým stláčaním. Ľudské
+nohy a pneumatiky automobilov sú najčastejšími príčinami kompresie, ktorá nakoniec
+vedie k zhutneniu pôdy.
+Mechanizácia pre svoju nadmernú váhu, čo predstavuje niekoľko desiatok ton utláča
+lesnú pôdu vplyvom kolies, alebo pásov mechanizmu a taktieţ aj vyťaţenou guľatinou.
+Prvotným prejazdom mechanizmu cez pôdu vzniká najväčšie zhutnenie podloţia
+a následne opakovaný prejazd mechanizmov toto zhutnenie rozširuje.
+
+Obr. 5 Štruktúra pôdnych pórov a ich rozdiel v retencií vody. Upravené podľa: (Mayer,
+2021)
+
+18
+
+Pórovitosť je z ekologického hľadiska veľmi významnou súčasťou pôdy pretoţe
+riadi zadrţiavanie a pohyb kvapalín a plynov v pôde (Obr. 5). Pórovitosť pôdy v dôsledku
+zhutnenia ťaţkou mechanizáciou môţe byť zníţená aţ o 60%. Prevzdušnenie pôdy sa
+môţe v dôsledku negatívnej degradácie pôdy zníţiť aţ o 50% (Rossit a kol., 2021).
+Zhutnená pôdna štruktúra zabraňuje rastlinám ich vývoj a rast. Štruktúra pôdy
+určuje rozloţenie koreňov a tým aj schopnosť prijímať vodu a ţiviny.
+V zhutnenej pôde je rast koreňov výrazne obmedzený. Väčšina rastúcich koreňov
+sa odvráti od zhutnenej pôdy rovnako, ako sa odvráti od prirodzených bariér v pôde, ako sú
+balvany. Rast stromov v zhutnenej pôde alebo v jej blízkosti bude preto nepriaznivo
+ovplyvnený. V miernych prípadoch sa postihnuté stromy môţu javiť ako úplne normálne
+počas niekoľkých rokov a potom len vykazovať skoré jesenné sfarbenie alebo menšie
+odumieranie vetvičiek v korune. V závaţných prípadoch stromy klesajú a nakoniec po
+niekoľkých rokoch odumierajú. Poškodenie zhutnenia pôdy moţno zistiť pozorovaním
+oblastí okolo stromov, ktoré majú malú alebo ţiadnu vegetáciu. Tieto oblasti sa
+najčastejšie nachádzajú pozdĺţ ciest alebo iných oblastí s vysokým vyuţitím. Rastliny, či
+stromy vystavené zhutneným pôdam, musia vynaloţiť viac energie pri hlbšom preniknutiu
+koreňového systému do pôdy. Mierne zhutnenie pôdy môţe mať i pozitívny vplyv na
+vývoj rastlín, čo vyplýva z povahy zakoreňovania v mierne zhutnených pôdach. Zhutnenie
+pôdy, ktoré zapríčinilo nárast hmotnosti pôdy na 1,5 g.cm-3, zniţuje podzemnú a nadzemnú
+suchú hmotnosť o 18,76%.
+Bolo preukázané ţe, rastliny pestované na pôde, ktorej objemová hmotnosť sa
+zvýšila vplyvom zhutnenia na 1,20 g.cm-3 resp. 1,55 g.cm-3, tak sa u nich pozorovala
+zníţená rýchlosť fotosyntézy, transpirácie a stomatická vodivosť.
+Spomenuté faktory negatívne vplývajú na pôdu jej štruktúru, a z toho vyplývajúce
+vlastnosti a prítomnosť pôdnych MO.
+
+2.2 Vplyv zhutnenia na krajinu
+Oblasti vystavené zhutneniu pôdy ovplyvňujú nielen samotnú pôdu a jej štruktúru,
+ale hlavne okolitú biodiverzitu a jej prostredie. Negatívna zmena môţe nastať vo viacerých
+oblastiach.
+Najzávaţnejším dôsledkom zhutnenia je zvýšená erózia pôdy, kedy dochádza
+k odplavovaniu
+
+najvrchnejšej
+
+a najúrodnejšej
+
+časti
+
+pôdy humusového horizontu.
+
+S humusovým horizontom sa splavuje i časť pesticídov a aplikovaných kalov čo môţe
+viesť k vniknutiu pesticídov a kalu do povrchových vôd a konečnému ohrozeniu vodného
+19
+
+ţivota kontaminácií povrchových vôd. Bez humusového horizontu je úrodnosť pôdy
+výrazne zníţená. Zhutnením dochádza k horšej penetrácií vody do pôdy. Problémom je
+následné zanášanie kanálov a potokov, ktoré je nutné čistiť pre ich veľké mnoţstvo
+splavenín.
+Anaeróbne podmienky v pôde v dôsledku zhutnenia môţu viesť k zníţeniu
+rozkladu pesticídov, čo má vplyv na zvýšenie vylúhovania pesticídov v podzemných
+vodách a vodonosných vrstvách (Nawaz, 2013).
+Pri obrábaní pôdy sa vplyvom zhutnenia vytvárajú hrudovité osivové lôţka, čo má
+za následok zlý kontakt osiva so zeminou. Silné daţde môţu vytvoriť na povrchu pôdy
+kompaktnú povrchovú vrstvu, ktorá zamedzuje vzchádzaniu sadeníc.
+Ako sa pôda stáva hustejšou, stáva sa čoraz nepriepustnejšou pre povrchovú vodu a
+výmenu plynov.
+
+2.3 Vplyv zhutnenia na retenciu vody v pôde
+Zhutnenie pôdy výrazne narušuje cyklus vody, čo predstavuje pre krajinu a jej
+ekosystémy viaceré negatívne dôsledky. Tými sú predovšetkým obdobia s výraznými
+výkyvmi počasia, kde sa striedajú obdobia s extrémnymi suchami s obdobiami silných
+daţďov. Voda sa cez zhutnenú pôdu veľmi ťaţko a obmedzene infiltruje do pôdy. Zvyšná
+voda je navyše odvádzaná z lesných a poľnohospodárskych lokalít do niţšie poloţených
+riek, potokov a jazier. Takáto voda, ktorá odtiekla chýba v pôde a pri nadmerných suchách
+organizmy trpia jej nedostatkom. Zhutnené pôdy tak ovplyvňujú celkové klimatické zmeny
+krajiny.
+Zároveň voda pri svojom pohybe vymýva koľaje, kde berie so sebou i najvrchnejšiu
+a najúrodnejšiu časť pôdy, teda organickú časť. Pôda potom nespĺňa funkciu tzv. pôdneho
+rezervoára, a tým sa nedokáţe poskytnúť dotovanie vody k zdrojom ako sú pramene
+a podzemné vody.
+Obhospodarovanie pôdy je veľmi kľúčovou činnosťou pre samotnú výnosnosť
+obilnín, ktoré sa na danej pôde pestujú. Poľnohospodári vyuţívajú na zníţenie nákladov
+väčšiu mechanizáciu, ktorá dokáţe vykonať orbu alebo inú činnosť za kratší čas a za niţšie
+náklady. Zhutnenie pôdy sa tým pádom stáva výraznejšie, z dôvodu ťaţšej mechanizácie
+a podporných zariadení. Orba sa vykonáva zväčša po ornici a nie pod ornicou, čo má za
+následok zhutnené podlaţie pod ornicou. Voda sa dostáva do vrchného organického
+a čiastočne do humusového podloţia, ale ďalej nie je schopná preniknúť v dôsledku
+zhutnenia. Práve retencia vody je významný faktor v poľnohospodárstve, pretoţe od nej
+20
+
+závisí úrodnosť plodín. Vodu uloţenú v pôdnych póroch potrebujú plodiny pre svoj rast,
+vývoj a celkové dozretie.
+Voda je na poľnohospodársku pôdu privádzaná nielen prirodzenou cestou
+z atmosféry vo forme daţďa, ale aj umelo zavlaţovacími systémami. Styk vody s pôdou je
+na poľnohospodárskej pôde rýchlejší a intenzívnejší. Zvýšený prenos vody na povrchu
+zhutnenej pôdy môţe zníţiť zadrţiavanie hnojív v pôdnej matrici a účinnosť vyuţitia
+hnojív rastlinami (Finch, 2014).
+Nedostatok vody v pôde vďaka zhutneniu spôsobuje zvýšenú eróziu, hlavne veternú.
+Rastliny nemajú dostatočný zdroj ţivín, a tak nedorastajú do normálnych veľkostí,
+nedosahujú úrodnosť zdravej plnohodnotnej obilniny a pri najhoršom odumierajú.
+
+2.4 Vplyv zhutnenia na mikrobiálnu diverzitu
+Účinky zhutnenia pôdy na pôdne mikroorganizmy a mikrobiologické procesy v
+pôdach sú komplexné a závisia od mnohých faktorov, ako napríklad mineralizácia uhlíka,
+obsah vody v pôde, mineralizácia dusíka, redoxný potenciál a rýchlosť difúzie kyslíka (Xu
+a kol., 2021).
+Zhutnenie pôdy vplýva negatívnym spôsobom na biologickú zloţku pôdy, procesy
+a výkon samotnej mikrobiálnej diverzity. V dôsledku zvýšenej hutnosti sa obmedzujú
+anaeróbne procesy ako je nitrifikácia a mineralizácia. Nedostatok kyslíka vplýva na
+oxidačnú premenu amoniaku baktériami na dusitany. Tým sa obmedzuje proces
+nitrifikácie. Nedostatok kyslíka dostupného pre MO spôsobuje
+
+obmedzenie procesu
+
+mineralizácie organických látok v pôde čo je najhlavnejší proces sprístupňovania dusíka v
+pôde. Môţe nastať aj situácia keď spotreba kyslíka v pôde môţe byť rýchlejšia, ako je jeho
+prísun do pôdy čo je dôsledok významného poklesu mnoţstva makropórov zhutnením.
+Zároveň nastávajú zmeny v zastúpení MO a klesá schopnosť bazálneho dýchania pôdy. Za
+týchto podmienok sa zintenzívňuje proces metanogenézy a denitrifikácie, teda nastáva
+zvýšená produkcia metánu a dusičnanov MO, a dochádza tu k zvýšeniu emisií oxidu
+dusného. Ornica vystavená procesu zhutnenia je najcitlivejšou vrstvou z pohľadu
+negatívneho dopadu na mikrobiálnu diverzitu nakoľko je v tejto vrstve významné
+zastúpenie koreňovej biomasy (Longepierre a kol., 2021).
+Po zhutnení lesnej
+
+a poľnohospodárskej
+
+pôde nastáva
+
+špecifický nárast
+
+anaeróbnych prokaryotov a saprotrofných húb na rozdiel od nezhutnenej pôdy, kde inak
+
+21
+
+prevláda zväčša aeróbna biota. Zhutnené pôdy majú negatívny účinok na mikroorganizmy,
+ktoré sú prispôsobené ţiť pri aeróbnych podmienkach (Longepierre a kol., 2021).
+
+2.5 Riešenia zadrţiavania vody na zhutnenej pôde
+Poľnohospodárstvo je jedno z odvetví, ktoré z veľkej časti dopomáha k zhutneniu pôd.
+Často sa vyuţívajú nesprávne postupy a obrábacie zariadenia.
+Hlboká orba je menej preferovaná pri obhospodarovaní pôd napriek tomu, ţe tento
+spôsob orby je viac efektívny, pretoţe orba sa uskutočňuje aj pod samotnou ornicou, ktorá
+sa pri klasickej orbe nepreorie. Zlepší rýchlosť infiltrovania vody do pôdy, nie je
+zadrţiavaná na povrchu pôdneho profilu, čim sa docieli bezproblémový priebeh retencie
+vody. Naopak pri orbe po ornici je pôda zhutnená aj pod ňou a zle sa infiltruje do
+spodných vrstiev. Najvrchnejšia časť pôdy je tak výraznejšie vysušovaná a vplyvom
+vodnej
+
+alebo
+
+veternej
+
+erózie
+
+odplavovaná.
+
+To
+
+spôsobuje
+
+veľké
+
+škody
+
+pre
+
+poľnohospodárstvo a krajinu.
+Jedným
+
+z opatrení
+
+voči
+
+zhutneniu
+
+pôdy
+
+je
+
+aj
+
+vyuţitie
+
+tzv.
+
+bezorbové
+
+poľnohospodárstvo. Funguje na spôsobe ţe sa zanechá pôda v pôvodnom stave nenarušia
+sa pôdne póry a kapilárne sily, ktoré zadrţujú vodu v pôde. Pôda týmto procesom udrţuje
+dostatočnú vlhkosť aj v nepriaznivých podmienkach.
+Ďalším riešením pre zhutnenú pôdu je jej rozrušenie tzv. rekultivácia pôdy. Táto
+metóda je jedným z najľahších spôsobov ako rýchlo, efektívne a finančne výhodne
+zamedziť pokračovaniu zhutneniu pôdy. Pôda sa rozruší rýpadlom do hĺbky 0,8 aţ 1 m.
+Rozrušením pôdy docielime celkové uvoľnenie štruktúry pôdy (Obr. 6).
+
+Obr. 6 Rozrušenie zhutnenej pôdy rýpadlom. Prevzaté z: (Vaľo, 2018)
+Zhutnené pôdne častice sa od seba odpoja a rozrušia čím dochádza k prísunu vzduchu
+do pôdy. Pôda sa po určitom čase zregeneruje vytvorí si nové pôdne póry, ktoré budú plniť
+22
+
+retenčnú funkciu. Voda sa opätovne začne akumulovať v pôde, čo vedie k dotovaniu
+okolitého prostredia a podzemných prameňov.
+Alternatívnu moţnosť predstavuje aj vytvorenie umelého jazera priamo v lesnej
+časti čo najbliţšie k poškodenému miestu. Rýpadlami sa naruší pôda do hĺbky pribliţne 2
+metrov alebo podľa toho koľko chceme zadrţať vody na danej lokalite (Staccione a kol.,
+2021). Vytvorené umelé jazero sa začne plniť vodou, ktorá k nemu prichádza po povrchu
+zo zhutnených lesných ciest. Podobne sa na zadrţiavanie vody zo zhutnenej pôdy dajú
+vybudovať umelé
+
+kaskádovité nádrţe (Obr. 7), čo je uplatniteľné hlavne pri
+
+poľnohospodárstve. Betónové nádrţe sú vybudované a osadené namiesto odvodňovacích
+kanálov, ktoré sú pri okrajoch poľnohospodárskych plôch. Voda priteká do nádrţí, ktoré
+obsahujú betónové vybranie s určitý poţadovaným objem. Keď voda dosiahne úroveň,
+kedy je nádrţ takmer plná, tak cez dráţku vo vrchnej stene pretečie do ďalšej. Nádrţe by
+mali byť navrhnuté v kaskádovom uloţení aby nedošlo vytekaniu vody z prvých nádrţí.
+Voda sa následne môţe pouţívať za pomoci čerpadiel pri letných mesiacoch, kedy bývajú
+extrémne suchá.
+
+Obr. 7 Príprava kaskádovitých nádrţí pre zadrţiavanie vody zo zhutnenej pôdy. Prevzaté
+z: (Vaľo, 2018)
+Obrábané parcely by mali obsahovať stromoradia, ktoré zabránia nadmerným
+poveternostným podmienkam, ale zároveň vedia efektívne zadrţiavať vodu koreňovými
+systémami. Stromoradia navracajú do lokalít biotu a celkový pozitívny efekt krajine.
+Výsadbou stromov taktieţ dokáţeme eliminovať zhutnenie pôdy. Pôda je vplyvom
+koreňového systému stromu rozrušovaná a uvoľňovaná. Nevýhodou je ţe metóda je veľmi
+zdĺhavá, pretoţe koreňový systém a jeho štruktúra sa vyvíja pomalšie.
+Pri prácach s pôdou by sa mala dbať zvýšená pozornosť na vlhkosť pôdy. Vlhká
+a premočená pôda sa degraduje a stráca svoju štruktúru čím sa zhutňuje rýchlejšie.
+Pri dodrţiavaní vyše uvedených opatrení sa vie efektívne bojovať proti zhutneniu
+pôdy (Vaľo, 2018).
+23
+
+3 Ciele bakalárskej práce
+Cieľom riešenej bakalárskej práce bolo:
+
+
+Vypracovať súčasný stav poznatkov v podobe literárneho prehľadu týkajúceho sa
+zhutnených lesných a poľnohospodárskych pôd.
+
+
+
+Zisťovali sa hlavné vlastnosti zhutnenej pôdy a to aký objem vody je schopná
+zadrţiavať a v akom veľkom mnoţstve sa v nej nachádza mikrobiálna biomasa
+
+
+
+Práca bola zameraná i na problematiku vyuţívania vodozádrţných opatrení v
+krajine a iných adaptačných opatrení v boji proti zmene klímy.
+
+Experimentálna časť pozostávala z častí, ktoré zahŕňajú:
+
+
+Vytipovanie si lokalít v teréne na lesných a poľnohospodárskych pôdach, ktoré
+boli značne a viditeľne postihnuté antropogénnymi činnosťami vedúcimi
+zhutneniu pôdy.
+
+
+
+Meranie penetračného odporu na mieste (in situ metóda)
+
+
+
+Následné odobranie vzoriek pôdy z aktuálnej postihnutej lokality. Vzorky pôd sa
+pouţili na skúmanie obsahu pôdnej vody, fyzikálno-chemických parametrov
+a mikrobiálnej diverzity.
+
+24
+
+4 Materiál a metódy
+4.1 Prístroje a zariadenia
+Ručný penetromer Eijkelkamp - prístroj na in situ stanovenie penetračného odporu
+prostredia voči prieniku
+Systém COMBI 5000 - multiparametrický prístroj pre meranie pH (0-14), konduktivity
+(mS/cm), teploty (°C) a obsahu vody v pôde
+Filtračný systém Microfil (Millipore, USA) pre pouţitie s mebránovými celulózovými
+filtrami (priemer 47mm)
+Trepačka Multi-Shaker BIOSAN - PSU 20
+Autokláv icanCLAVE – plne automatický stolný autokláv
+Biologický Termostat BT 120
+Sušička Tuttnauer VENTI – Line (Germany) – S/N: 15-01047
+Predváţky VWR – max. 200 g, presnosť merania ± 0,1 g
+Analytické váhy KERN, ALT I60-4NM – max. 160 g, presnosť merania ± 0,0001 g
+PC so softwarom TableCurve 3D
+Pomôcky na odber vzoriek pôdy, mikroténové uzatvárateľné vrecká
+
+4.2 Chemikálie
+NaCl (Centralchem, Bratislava) – čistota 99,9%
+Ţivná pôda DEV (Merck, Germany) – ţivný agar pre mikrobiológiu s obsahom mäso
+peptónového agaru (10 g/l), mäsového extraktu (10 g/l), NaCl (5 g/l) a agaru (18 g/l)
+Ţivná pôda YGC (Merck, Germany) – kvasinkový glukózový extrakt, glukóza 20 g/l,
+kvasničný autolyzát 5 g/l, chloramphenikol 0,1 g/l, agar 14,9 g/l
+
+25
+
+4.3 Výber záujmových lokalít
+Ako hlavná záujmová oblasť bakalárskej práce sa vybrali lokality v okolí obce Matejovec
+časť Krajné v Trenčianskom kraji (Obr. 8). Vybrali sa celkovo 2 lesné lokality a 3
+poľnohospodárske lokality.
+
+Obr. 8 Lokalizácia vybraných záujmových lokalít. Zdroj: mapy.cz
+Lesné lokality boli zvolené na základe ich blízkej polohy ku zdrojom pitnej vody
+(lokalita 1 a 2). V oboch prípadoch sa v blízkosti monitorovacieho miesta vyskytuje
+zhutnená lesná cesta. Lesná lokalita 1 a jej výber bol podmienený aktuálnou lesnou ťaţbou,
+ktorá ohrozuje lokálny prírodný prameň. Lesná lokalita 2 je umiestnená pri miestnom
+rezervoári, ktorý zásobuje časť obce Matejovec.
+Pri poľných lokalitách sa brala do úvahy svahovitosť terénu a prítomnosť vodných
+zdrojov. Pri poľnej lokalite 1 hrozí splavovanie pôdy na cestnú komunikáciu a do
+miestneho vodného toku. Poľná lokalita 2 sa nachádza v blízkosti vodnej nádrţe
+Matejovec. Jej terén je mierne svahovitý, čím dochádza k odvádzaniu vody z najvrchnejšej
+vrstvy pôdy do vodnej nádrţe. Na 3 poľnej lokalite sa vykonávali iba merania na
+stanovenie hutnosti pôdy s ručným penetrometrickým prístrojom Eijkelkamp.
+
+26
+
+4.4 Stanovenie penetračného odporu pôdy
+Vybrané lokality sa plošne posudzovali z pohľadu penetračného odporu pôdy. Na
+základe tohto merania sa vyberali konkrétne miesta pre odber vzoriek pôd. Na meranie
+penetračného odporu pôdy sa pouţil ručný penetrometer Eijkelkamp.
+Prenosný prístroj je potrebné pred pouţitím správne zloţiť. Pozostáva z niekoľkých
+súčasti ako sú manometer, rukoväte, voliteľné sondové tyče (hriadele) s vyznačenými
+ryskami pre meranie aktuálnej hĺbky a voliteľného koncového hrotu. Koncový hrot je
+moţné meniť podľa predpokladanej hutnosti pôdy.
+Pri meraní penetrometrom je potrebné na prístroj vyvinúť rovnomerný tlak, tak aby
+sa hrot rovnomerne zatláčal do pôdy rýchlosťou cca 2 cm/s. Po dosiahnutí poţadovanej
+hĺbky sa odčíta hodnota na manometri. Po kaţdom meraní je potrebné meraciu ručičku
+vynulovať nastavovacou skrutkou. Celkovo by sa merané hodnoty mali pohybovať
+v rozsahu od 200 aţ 700 N. V prípade zaznamenania hodnôt mimo tohto rozsahu je nutné
+zvoliť iný priemer hrotu.
+Podľa zvoleného hrotu je potrebné prepočítať zaznamenané údaje z manometra na
+reálnu hodnotu odporu pôdy:
+
+Pre kaţdé penetrometrické meranie sa zaznamenala aj presná GPS poloha.
+
+4.5 Odber vzoriek pôd
+Na základe predbeţných meraní pomocou penetrometra sa na vybraných lokalitách
+zvolili miesta pre hĺbkový odber vzoriek zhutnenej a nezhutnenej (kontrolnej) pôdy, ktorý
+sa uskutočňoval za semisterilných podmienok. Odber vzoriek pôdy sa realizoval v rôznych
+hĺbkach (10, 20 a 30 cm) a na hĺbenie sa pouţilo beţné výkopové náčinie (motička,
+krompáč). Po dosiahnutí poţadovanej hĺbky sa odoberali vzorky pôdnou lopatkou a
+vkladali do vopred označených polyetylénových uzatvárateľných vreciek v celkovom
+mnoţstve cca 500 g vzorky pôd. Tieto vzorky pôdy sa neskôr pouţili na laboratórne
+stanovenie obsahu pôdnej vody, fyzikálno-chemických parametrov (pH, vodivosť) a
+mikrobiologický rozbor.
+
+27
+
+4.6 Spracovanie vzoriek pôdy
+Pre spracovanie odobraných pôd sa pouţila technika tzv. kvartovania, ktorá sa
+vyuţíva na získavanie homogénnej reprezentatívnej vzorky pôdy.
+Vzorky pôdy (cca 200 g) sa preosievali cez sito (veľkosť otvorov sita 2 mm).
+Jemná frakcia pôdy prepadala na filtračný papier, ktorý bol rozdelený na 4 rovnaké časti.
+Pôda sa rovnomerne rozprestrela na papier a následne sa odobrala z dvoch protiľahlých
+strán (Obr. 9).
+
+Obr. 9 Schématické znázornenie procesu kvartovania
+Časť pôdy, ktorá zostala na filtračnom papieri sa následne znovu rovnomerne
+rozprestrela na celú plochu a proces sa opakoval do vtedy, kým sa nedosiahlo poţadované
+mnoţstvo, v našom prípade cca 10 g zhomogenizovanej pôdy.
+Získaná frakcia zhomogenizovanej pôdy sa vloţila do 100 ml sterilnej zásobnej
+fľaše a pridalo sa 50 ml sterilného fyziologického roztoku (0,9% roztok NaCl). Takto
+pripravený zásobný pôdny roztok sa premiešaval na laboratórnej trepačke po dobu 10 min
+pri 120 ot/min. Po uplynutí tejto doby sa roztok pouţil na prípravu ďalších zriedených
+vzoriek pôdy a očkovanie.
+Zostávajúca pôda, ktorá sa odstraňovala v procese kvartovania sa odloţila do
+kónických uzatvárateľných plastových skúmaviek (cca 25 g) pre neskoršie stanovenie pH
+a vodivosti. Rovnaký postup sa zopakoval pre všetky vzorky odobraných pôd.
+
+4.7 Príprava ţivných pôd pre mikrobiologický rozbor vzoriek
+Pre mikrobiologický rozbor vzoriek pôdy sa vopred pripravili 2 druhy ţivných pôd:
+
+
+DEV médium na stanovenie celkového počtu MO, ktoré sa všeobecne pripravilo
+naváţením 10,75 g média do 500 ml odmernej banky a následným rozpustením v
+250 ml destilovanej vody.
+
+28
+
+
+
+YGC médium na stanovenie celkového počtu kvasiniek a vláknitých húb, ktoré
+bolo všeobecne pripravené naváţením 10 g média do 500 ml odmernej banky
+a následným rozpustením v 250 ml destilovanej vody.
+Takto pripravené banky so ţivnými pôdami sa uzatvorili zátkou a umiestnili sa do
+
+horúceho vodného kúpeľa, aby došlo k úplnému rozpusteniu média (15–20 min).
+Následne sme banky vloţili do autoklávu, kde sa sterilizovali pri teplote 121°C po dobu
+30 min. Vysterilizované média sme v očkovacom boxe za horúca rozlievali do sterilných
+petriho misiek v počte 140 ks DEV a 100 ks YGC. Po rozliatí sme nechali ţivné pôdy v
+petriho miskách stuhnúť.
+Pre kontrolu mikrobiologickej čistoty ţivných pôd sa podobu 48 hod. voľne
+ponechali pri teplote 37°C (DEV) a 22°C (YGC). Pre ďalšie experimenty sa vybrali len
+čisté nekontaminované petriho misky so ţivnými pôdami.
+
+4.8 Príprava a očkovanie vzoriek pôdnych roztokov
+Pre kaţdú vzorku pôdy (celkovo 23 vzoriek) resp. zásobný pôdny roztok bolo
+potrebné pripraviť 5 rôznych riedení (10-1 -10-5), na čo sa pouţilo 5 ks 100 ml zásobných
+fliaš s 90 ml destilovanej vody. Tie sa sterilizovali v automatizovanom autokláve pri
+teplote 121°C po dobu 30 min. Po ich vysterilizovaní a ochladení sa automatickou pipetou
+so sterilnými špičkami inokulovala prvá fľaša 10 ml zásobného pôdneho roztoku príslušnej
+vzorky pôdy (riedenie 10-1). Po uzatvorení a premiešaní sa tento nariedený pôdny roztok
+pouţil analogicky pre prípravu 10-2 riedenia. Rovnako sme pokračovali aj pri ostatných
+riedeniach technikou tzv. desiatkového riedenia. Takto nariedené pôdne vzorky boli
+pripravené na filtráciu a očkovanie.
+Na oddelenie mikroorganizmov z vodného roztoku sa pouţil filtrovací systém
+Microfil s membránovými nitrocelulózovými filtrami (veľkosť pórov 0,45 μm). Celý
+systém bol sterilizovaný autoklávovaním a pred samotnou filtráciu sa ešte dodatočne
+sterilizovala jeho frita plameňom. Na fritu sa pinzetou umiestnil sterilný nitrocelulózový
+filter a nasadil sa sterilný plastový lievik, do ktorého sa odpipetovalo 10 ml príslušného
+riedenia vybranej vzorky pôdy. Následne sa spustil kompresor, ktorý vytvoril podtlak
+a vzorka sa cez membránový filter prefiltrovala. Filtračný papier sa pinzetou vloţil
+na povrch príslušného kultivačného média v petriho miske (Obr. 10).
+
+29
+
+Obr. 10 Naočkované agarové médium
+Pri práci s ďalším riedením resp. inou vzorkou pôdneho roztoku sa frita Microfil
+systému sa opätovne sterilizovala plameňom, aby nedošlo ku kontaminácií pri ďalších
+vzorkách.
+Takto pripravené petriho misky sa kultivovali pri vybraných podmienkach (37°C
+resp. 22°C) po dobu 48 aţ 72 hod. Po tomto čase sa realizovalo ich vizuálne
+vyhodnocovanie a počítanie vyrastených kolónií.
+
+4.9 Stanovenie obsahu pôdnej vody vo vzorkách
+Na stanovenie obsahu pôdnej vody sa pouţila frakcia pôdy, ktorá sa nespracovávala
+kvartovaním. Táto pôda sa vysypala na vopred odváţené alumíniové misky a stanovila sa
+hmotnosť naplnených misiek. Takto pripravené misky s vlhkou pôdou sa vloţili do
+sušiarne, kde sa sušili do konštantnej hmotnosti pri teplote 105°C po dobu min. 3 hod.
+Obsah pôdnej vody sa stanovil podľa vzorca:
+
+4.10 Stanovenie fyzikálno-chemických parametrov pôdy
+Meranie
+
+pH
+
+a vodivosti
+
+vzoriek
+
+sa
+
+vykonávalo
+
+s pouţitím kalibrovaného
+
+multiparametrického prístroja COMBI 5000 (Obr. 11 B). Na stanovenie týchto parametrov
+bolo potrebné pripraviť pôdny roztok. Na tento účel je spoločne s prístrojom dodávaná
+plastová uzatvárateľná nádoba (Obr. 11 A). Do nádoby sa najprv pridala destilovaná voda
+po vyznačnú rysku B a následne sa pridávala vzorka pôdy aţ kým hladina dosiahla rysku A
+(pomer voda : pôda 5:1). Nádobka sa uzatvorila, roztok sa premiešal a umiestnil na
+laboratórnu trepačku po dobu 10 min.
+
+30
+
+Hodnoty pH sa merajú elektródovou sondou, ktorú je potrebné pred samotným
+meraním opláchnuť destilovanou vodou. Potom sa elektróda vloţí do pripraveného
+roztoku. Zapís údajov sa realizuje po ustabilizovaní hodnoty daného parametra
+zobrazeného na displeji prístroja (cca 10 s). Postup sa opakoval pri kaţdej vzorke. Pri
+meraní vodivosti sa pouţila vodivostná elektróda. Postup merania bol totoţný s postupom
+pri meraní pH.
+
+Obr. 11 Multiparametrický prístroj COMBI 5000 (B) a kadička na zarábanie roztokov (A)
+
+31
+
+5 Výsledky a diskusia
+5.1 Stanovenie penetračného odporu pôdy vo vybraných lesných
+lokalitách
+Lesná lokalita 1 (48.7007978N, 17.6214725E) sa vyznačuje výrazným a aktuálnym
+lesným hospodárením (Obr. 12). Zhutnená cesta nemá výrazný sklon. Nad cestou sa
+rozprestiera mierny lesný svah so sklonom 10°. Pod cestou sa nachádza prameň s pitnou
+vodou.
+
+Obr. 12 Ortofotosnímok lokality lesnej lokality 1 s vyznačenými meracími miestami (A);
+fotografia záujmovej lokality (B). (Zdroj: mapy.cz)
+Merania penetračného odporu pôdy na lesnej lokalite 1 sú na Obr. 13. Výrazne zvýšený
+odpor sa prejavil na lesnej ceste, kde všetky merania boli nad limitné hodnoty
+(> 1000 N/cm2). Primárnym dôsledkom je prejazd mechanizácie pri lesnej ťaţbe. Všetky
+merania mimo zhutnenej cesty boli v norme (od 10 do 200 N/cm2). Na základe týchto
+meraní sa na odber vzoriek pôdy vybrali miesta 3 a 8.
+
+Obr. 13 Grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach
+na lesnej lokalite 1.
+
+32
+
+Lesná lokalita 2 (48,7150425 N; 17,6229583 E) sa nachádza v blízkosti miestneho
+rezervoára s pitnou vodou. Zhutnená cesta je umiestnená priamo na svahu s veľkým
+sklonom 24° a pomerne malým prehustením stromov, ktoré boli vyťaţené intenzívnym
+výrubom (Obr. 14).
+
+Obr. 14 Ortofotosnímok lokality lesnej lokality 2 s vyznačenými meracími miestami (A);
+fotografia záujmovej lokality (B). (Zdroj: mapy.cz)
+Hodnoty penetračného odporu pôdy boli na lesnej ceste výrazne menšie ako
+v prípade lokality Les 1 (1000 vs 500 N/cm2) (Obr. 13 a Obr. 15), čo môţe byť zapríčinené
+sklonom samotnej cesty. Veľký sklon terénu cca 24° pravdepodobne zapríčiňuje rýchly
+odtok povrchovej vody, ktorá sa splavuje do potoka pod cestou.
+N/cm2
+
+N/cm2
+
+N/cm2
+
+Obr. 15 Grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach
+na lesnej lokalite 2.
+
+33
+
+5.2 Stanovenie penetračného odporu pôdy vo vybraných poľných
+lokalitách
+Poľná lokalita 1 (48,7182900 N; 17,6236422 E) susedí vo svojej najvyššej časti
+s lesom a celkovo sa zvaţuje smerom k hlavnej ceste a lokálnemu vodnému toku. Svah je
+orientovaný na severnú stranu. Na tejto poľnej lokalite sa nachádza časť, ktorá je
+obhospodarovaná iným majiteľom (spôsobom). V čase odberov vzoriek bola jej hutnosť
+odlišná v porovnaní s okolitou poľnou pôdou, a preto sa zvolil odber na tomto mieste (Obr.
+16).
+
+Obr. 16 Ortofotosnímok poľnej lokality 1 s vyznačenými meracími a odberovými
+miestami (vľavo hore); a grafické záznamy zaznamenaných penetračných odporov pôdy v
+rôznych hĺbkach. (Zdroj: mapy.cz)
+Merania penetračného odporu pôdy (Obr. 16) naznačujú výrazné zhutnenie v okolí
+hlavnej cesty, pravdepodobne ako dôsledok intenzívnejšieho pohybu agrotechniky. V
+záznamoch sa dá pozorovať mierna zmena charakteru zhutnenia, a to najmä v oblasti
+povrchového horizontu pôdy obhospodarovanej iným prístupom.
+
+34
+
+Poľná lokalita 2 (48,7187500 N; 17,6409694 E) je situovaná v mierne kopcovitom
+svahu orientovanom na severnú stranu. Pri tejto lokalite sa nachádza vodná nádrţ
+Matejovec, kde je zvýšené riziko povrchového odtoku vody z poľa a vyplavovanie
+najvrchnejšej vrstvy pôdy pri silných a intenzívnych daţďoch. Táto vrstva býva bohatá na
+hnojivá. Na Obr. 17 je záznam penetračných odporov zaznamenaných na danaej lokalite.
+
+Obr. 17 Ortofotosnímok poľnej lokality 2 s vyznačenými meracími miestami (vľavo hore);
+a grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach.
+(Zdroj: mapy.cz)
+Na základe meraní sa identifikovala výrazne zhutnená oblasť na poli 2 (Obr. 17)
+v hĺbkach medzi 10 a 20 cm (body 1, 6, 7, 8 a 10), ktorá môţe predstavovať miesto odkiaľ
+sa často splavuje pôdny materiál do miestnej nádrţe. Zároveň výrazne zhutnenie pri hĺbke
+20 cm je rizikové pre pestované plodiny, ktorých koreňová sústava sa nachádza práve
+v tejto oblasti.
+Poľná lokalita 3 (48,7116217 N; 17,6454969 E) sa nachádza na svahu s najväčším
+sklonom spomedzi všetkých sledovaných poľných lokalít (Obr. 18). Najväčia zhutnenosť
+pôdy sa penetračnými meraniami stanovila na bočných stranách mapy resp. východnom
+a západnom okraji poľa (monitorovacie body 5,6 a 9, 10). Toto zvýšenie je pravdepodobne
+vzniklo rovnako ako v lokalite Pole 1 (Obr. 16), a to výraznejším pohybom a otáčaním sa
+poľnohospodárskych
+
+strojov.
+
+Naopak
+
+nízke
+
+zhutnenia
+
+pri
+
+spodnej
+
+časti
+
+poľa
+35
+
+(monitorovacie body 1 - 5) môţe spôsobovať odplavená vrstva povrchovej pôdy z poľa,
+ktorá sa hromadí v blízkosti hustého stromoradia.
+
+Obr. 18 Ortofotosnímok poľnej lokality 3 s vyznačenými meracími miestami (vľavo hore);
+a grafické záznamy zaznamenaných penetračných odporov pôdy v rôznych hĺbkach.
+(Zdroj: mapy.cz)
+
+5.3 Stanovenie mikrobiologickej diverzity vo vzorkách pôd
+Hodnotenie rastu kolónií MO, ktoré boli kultivované na povrchu nitrocelulózového
+filtra, umiestneného na vybraných ţivných pôdach, sa uskutočnilo po uplynutí 48 resp.
+72 hod. Výsledky intenzity celkového nárastu MO z odobraných vzoriek lesných
+a poľných pôd sú vyhodnotené v Tab. 3.
+Pre celkové stanovenie počtu kolóniotvorných jednotiek (KTJ) boli vybrané len
+ţivné pôdy, na ktorých sa zaznamenal nárast v počte cca 35 kolónií na celej ploche
+nitrocelulózového filtra. Následne sa prepočtom podľa známeho zriedenia pôdneho
+roztoku, ktorý sa pouţil na zaočkovanie ţivných pôd, vypočítal celkový počet
+kolóniotvorných jednotiek na pôvodnú hmotnosť pôdy (KTJ/g pôdy). V Tab. 3 sú potom
+farebne vyznačené príslušné riedenia pre jednotlivé vzorky pôdy, ktoré boli pouţité pre
+následné stanovenie počtu MO resp. KTJ/g pôdy.
+
+36
+
+Tab. 3 Vyhodnotenie intenzity nárastu kolónií MO zo vzoriek lesných a poľných pôd.
+Les 1
+
+Les 2
+
+DEV médium
+Riedenie
+
+Hĺbka
+[cm]
+
+Zhutnená
+
+YGC médium
+
+Bez
+zhutnenia
+
+10-2
+10-3
+10
+
+-4
+
+10
+
+10-5
+
++
+
++
+
+++
+
+++
++
+
++
+
++
+
+++
+
+-
+
++
+
++
+
+10-4
+10
+
+-5
+
+Bez
+zhutnenia
+
++
+
++
+
+++
+
+++
+
+-
+
+-
+
++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+++
++
+
+++
++
+
++
+
++
+
+++
+
+++
+
++
+
+-
+
+++
+
+++
+
++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
+10-2
+
+10-4
+
+++
+
+30
+
+10-5
+
+Bez
+zhutnenia
+
+++
+
+++
+
+10-3
+
+Zhutnená
+
+++
++
+
+++
+20
+
+Zhutnená
+
+YGC médium
+
+++
+
+10-2
+10-3
+
+DEV médium
+
+++
++
+
+++
++
+
+++
++
+
+++
+
+++
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
++
+
+-
+
++
+
++
+
+++
+++
++
+
+++
+
+++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Pole 1
+DEV médium
+Riedenie
+
+Hĺbka
+[cm]
+
+Bez
+zhutnenia
+
+++
++
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
+
+++
+
+++
+
+++
+
+++
++
+
+++
+
+++
+
+++
++
+++
++
+
+++
++
+++
++
+
++
+
++
+
++
+
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
++
+
++
+
+++
+
+++
+
+10-2
+10
+
+-3
+
+10-4
+
+10
+
+10-5
+10-2
+10
+
+10-4
+
+20
+
+10-5
+10-2
+
+10
+
+10-5
+
++
+
++
+
++
+
++
+
+10-3
+-4
+
+Bez
+zhutneni
+a
+
++
+
+-3
+
+30
+
++++ prerastené
+
++
+
++
+
++
+
+++
+
+++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
+DEV médium
+
+Zhutnená
+
++
+
+Bez
+zhutnenia
+
+Pole 2
+YGC médium
+
+Zhutnená
+
+Zhutnená
+
++
++
+
+++
++
+
++
++
+
+++ počet KTJ > 35
+
++
+
++
++
+
++
++
+
+YGC médium
+
+Zhutnená
+
+Bez
+zhutnenia
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
+
+++
+
+++
+
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
++
+
++
+
+++
+
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
++
+++
++
+
+++
+
+++
+
+++
+
++
+
++
++
+
++
++
+
++
++
+
++ počet KTJ < 35
+
+Zhutnená
+
+Bez
+zhutneni
+a
+
+++
+
+++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
+++
+
++
+
+++
+
+++
+
++
+
++
+
++
+
++
+
+- ţiadny rast
+
+37
+
+Na (Obr. 19) je graficky znázornený celkový počet MO, ktorý sa stanovil pre
+vzorky zhutnených a nezhutnených pôd z rôznych hĺbok odobraných na vybraných lesných
+lokalitách.
+
+Obr. 19 Celkové počty MO stanovených vo vzorkách pôdy z lesných pôd vyrastených na
+DEV a YGC médiu.
+Výrazný vplyv zhutnenia pôdy na diverzitu celkového zastúpenia MO bol
+zaznamenaný pri lesnej lokalite 1. Pri zhutnej pôde z tejto lokality sa pozoroval výrazny
+pokles počtu MO v celom pôdnom horizonte. V hĺbke 10 cm sa zaznamenal pokles o 92%
+a pri 20 cm o 62% celkového počtu MO resp. KTJ oproti nezhutnenej kontrolnej pôde.
+Podobný trend sa pozoroval aj v prípade kvasinkových MO a vláknitých húb, kde sa
+zaznamenal pokles o 98% resp. 93% pri hĺbkach 10 cm resp. 20 cm.
+V prípade lesnej lokality 2 sa pozoroval podobný trend len pre kvasinkové MO
+a vláknité huby. Podobne ako v predošlom prípade nastal veľmi výrazný pokles ich
+celkového počtu v celom pôdnom horizonte (od 82 do 95%). Dá sa predpokladať, ţe tento
+druh MO je viac citlivý na pedokompakciu, pretoţe zhutnenie lesnej cesty pri lokalite Les2
+bolo omnoho niţšie ako pri lokalite Les1 a v prípade DEV média sa nepozoroval vyššie
+uvedený trend (Obr. 19).
+
+38
+
+Na Obr. 20 je graficky znázornený celkový počet MO, ktorý sa stanovil
+
+pri
+
+vzorkách pôdy z poľných lokalít.
+
+Obr. 20 Celkové počty MO stanovených vo vzorkách pôdy z poľných pôd vyrastených na
+DEV a YGC médiu.
+Oproti lesným lokalitám sa pri poľných pôdach zaznamenal vyšší počet MO
+vyrastených na DEV médiu. V prípade lesných pôd sme sa pohybovali na úrovni 105
+KTJ/g, u poľných pôd sa jednalo o celý rad vyššie počty 106 KTJ/g KTJ. Tento nárast sa dá
+pravdepodobne vysvetliť ako dôsledok aplikácie rôznych hnojív na poľné pôdy, ktoré
+zároveň môţu slúţiť ako veľmi dobrý zdroj ţivín pre rast pôdnych MO.
+Pre povrchové vzorky zhutnenej a nezhutnenej poľnej pôdy odobranej z 10 cm sa
+v prípade nárastu MO na DEV médiu v lokalite Pole 1 nepozoroval ţiadny signifikantný
+rozdiel (5x106 a 5x106 KTJ/g). Podobne je to v prípade lokality Pole 2 (2,3x106
+a 2x106 KTJ/g).
+Väčšie rozdiely sa pozorovali pri vzorkách z 20 cm, kde sa zaznamenal celkovo
+pokles oproti povrchovej vrste pôdy, a to najmä v lokalite Pole1. To súvisí pravdepodobne
+s odlišnou distribúciou vody a rozpustených ţivín v rámci zhutnených a nezhutnených pôd.
+Následne nastalo výrazné zvýšenie v hĺbke 30 cm. Nakoľko sa jedná o typickú hĺbku
+preorávania pôdy poľnohospodárskymi strojmi, a pri našich meraniach penetrometrom sa
+nám kvôli veľmi silnému odporu pôdy pod túto úroveň ani nepodarilo preniknúť, tak sa dá
+predpokladať, ţe tu vzniká určitá nepriepustná vrstva, kde nastáva kumulovanie hnojív
+(ţivín), čo opäť podporuje rast MO.
+
+39
+
+V prípade lokality Pole2 sme pozorovali veľmi podobný trend aj pre kvasinkovité
+MO a vláknité organizmy narastené na YGC médiu. Pre Pole1 sa na tomto médiu
+zaznamenal veľmi nízky nárast MO. Pôda sa v tejto lokalite preukázala ako nevyhovujúca
+pre rast kvasinkových MO a vláknitých húb. Pre tento trend sa nám však nepodarilo
+identifikovať moţnú príčinu.
+
+5.4 Hodnotenie retencie vody
+Na Obr. 21 sú graficky znázornené výsledky zo stanovenia obsahu pôdnej vody vo
+vzorkách zhutnených a nezhutnených lesných pôd. Preukázalo sa, ţe pri nami
+posudzovaných lesných lokalitách zohráva pravdepodobne veľmi významnú úlohu okrem
+celkového zhutnenia pôdy aj povaha a sklon okolitého terénu.
+
+Obr. 21 Obsah pôdnej vody vo vzorkách pôdy odobraných na lesných lokalitách 1 a 2.
+V lokalite Les1 má zhutnená lesná cesta len minimálny sklon. Po daţďových
+zráţkach je tu vysoký predpoklad akumulovania vody na povrchu cesty, a tým má voda
+dostatok času, aj napriek horším infiltračným podmienkam, na prenikanie do spodných
+vrstiev pôdy.
+Vo väčšej hĺbke (20 cm) sa jej obsah v zhutnenej pôde výrazne zvýšil (z 15% na
+37%). Tu sa dá predpokladať efekt silnejšieho naviazania vody na zhutnenú pôdu napríklad
+v dôsledku prevládajúcich kapilárnych síl, pričom táto voda horšie uniká z tejto pôdy.
+Zároveň je tu vysoká pravdepodobnosť, ţe takáto voda nie je odčerpaná vegetáciou
+
+40
+
+pričom zostáva nevyuţitá a zachytená v pôde. Vzorku z hĺbky 30 cm sa nám nepodarilo
+odobrať.
+Obsah vody v nezhutnenej kontrolnej pôde z rovnakej lokality má tendenciu mierne
+klesať s rastúcou hĺbkou (35 – 27%). Zároveň táto pôda udrţuje rovnomernejšiu
+distribúciu v rámci pôdneho stĺpca.
+Podobné vyššie popísané trendy je moţné pozorovať aj pri lesnej lokalite 2 (Obr.
+21). Tu je však akumulácia vody vo väčších hĺbkach (20 cm) v rámci zhutnenej pôdy
+výrazne niţšia (klesá z 37% pri Les1 na 15% pri Les2), pravdepodobne ako dôsledok
+rýchleho odtoku vody po povrchu zhutnenej cesty s výrazným sklonom, pričom voda nemá
+dostatok času na infiltrovanie.
+
+Obr. 22 Obsah pôdnej vody vo vzorkách pôdy odobraných na poľných lokalitách 1 a 2.
+Odlišné trendy zadrţiavania vody v pôde sa zaznamenali pri poľných lokalitách. Pri poľnej
+lokalite 1 (Obr. 22) sa v rámci celého pôdneho profilu nepozorovali ţiadne významné
+rozdiely v obsahu zadrţiavanej pôdnej vody. Mnoţstvo vody sa udrţiavalo v rámci týchto
+pôdnych vzoriek na rovnakej úrovni (15 %).
+Podobný jav sa pozoroval aj pri poľnej lokalite 2 (Obr. 22), kde síce mierne
+varírovali tieto obsahy pôdnej vody, ale nebol pozorovaný rozdiel pre zhutnené a
+nezhutnené vzorky pôdy.
+Dá sa predpokladať, ţe v prípade poľných lokalít zohráva významnú úlohu aj faktor
+otvoreného priestoru, nakoľko sa tu nenachádza tieniaca vegetácia a nastáva tu tak
+intenzívny odpar vody pôsobením slnečného ţiarenia.
+
+41
+
+5.5 Hodnotenie fyzikálno-chemických vlastností pôd
+Na sledovaných lesných lokalitách 1 a 2 sa vyskytuje zmiešané zastúpenie
+listnatých aj ihličnatých stromov. Celkovo sa merané hodnoty pH vo vzorkách z týchto
+lokalít pohybovali v kyslej oblasti (od 4,8 do 5,7), čo je charakteristická vlastnosť pre lesné
+pôdy. Kyslosť pravdepodobne zapríčiňuje intenzívny rozklad organickej hmoty (ihličia) a
+vyšší obsah humínových a fulvínových kyselín. Nezhutnené pôdy na oboch lokalitách
+(Obr. 23) vykazujú veľmi podobné hodnoty pH (okolo 5), ktoré sa s rastúcou hĺbkou ani
+výrazne nemenia.
+
+Obr. 23 Grafické znázornenie nameraných hodnôt pH pôdy v lesných lokalitách 1 a 2.
+Na lesnej lokalite 1 (Les1) sa v prípade vzoriek pôdy odobraných zo zhutnej lesnej
+cesty zaznamenali celkovo niţšie hodnoty pH ako pri kontrolných vzorkách získaných
+z rovnakej odberovej hĺbky (Obr. 23). Ako uţ bolo skôr spomínané, na tejto lokalite sa dá
+predpokladať vyššia pravdepodobnosť akumulácie vody. To môţe viesť aj k rozpúšťaniu
+ťaţšie rozpustných látok, ktoré stoja za týmto miernym poklesom.
+Taktieţ sa dá na takejto výrazne zhutnenej lokalite predpokladať horší prestup
+kyslíka do celého pôdneho horizontu do jednotlivých vrstiev, v dôsledku čoho sa môţu
+v pôde zintenzívniť anaeróbne procesy, ktorých produkty môţu taktieţ stáť za poklesom
+pH oproti kontrolným vzorkám.
+Pri lesnej lokalite 2 (Les2) bol zaznamenaný opačný trend v hodnote pH pri
+zhutnených a nezhutnených vzorkách pôd (Obr. 23). Navyše aj celkový rozdiel
+v hodnotách pH zhutnených a nezhutnených vzoriek bol v rámci celého profilu výraznejší,
+42
+
+dosahoval rozdiel na úrovni 0,5-0,75. Tu pravdepodobne zohráva úlohu sklon terénu
+v dôsledku čoho nastáva výrazný odtok vody bez akumulácie na povrchu čím sa môţu
+intenzívnejšie vymývať kyslé zloţky z pôdy. Celkovo niţšia zaznamenaná vlhkosť pôdy na
+tejto lokalite naznačuje vyššiu pravdepodobnosť priebehu aeróbnych procesov.
+
+Obr. 24 Grafické znázornenie nameraných hodnôt pH pôdy v poľných lokalitách 1 a 2.
+Na poľných lokalitách 1 a 2 sa zaznamenali celkovo vyššie hodnoty pH neţ sa
+pozorovali pri lesných lokalitách (od 5,5 do 7). Hlavným predpokladom takýchto celkovo
+vyšších hodnôt je aplikácia rôznych pôdnych aditív (hnojivá, vápnenie) v dôsledku beţnej
+poľnohospodárskej praxe, ktoré budú mať rozhodujúci vplyv na hodnotu pH.
+Na záznamoch hodnôt z poľnej lokalite 1 (Pole1) sa zaznamenal výrazný rozdiel
+medzi vzorkami zhutnenej a nezhutnej pôdy (Obr. 24). Tento rozdiel sa v rámci profilu
+pôdy pohyboval aţ o 1 stupeň pH. Ako uţ bolo predtým spomenuté vzorky nezhutnenej
+pôdy boli odoberané z miesta, ktoré bola zjavne odlišne obhospodarované a zároveň sa
+neskôr zistilo, ţe bolo pravdepodobne aj iným spôsobom pripravené, nakoľko sa tu
+pestovala iná plodina (jačmeň) ako sa pestovala na zvyšku celého poľa.
+Rozdiel v hodnote pH medzi jednotlivými zhutnenými vzorkami pôdy je v rámci
+tejto lokality Pole1 minimálny. Podobný vývoj majú aj záznamy pH pre nezhutnené
+vzorky.
+Pri poľnej lokalite 2 (Pole2) sa pozorovali celkovo najvyššie hodnoty pH spomedzi
+všetkých posudzovaných oblastí (Obr. 24). Pri takto zvýšených hodnotách pH sa dá
+predpokladať, ţe tu bol aplikovaný neutralizačný prípravok (často krát sa pouţívajú rôzne
+vápenné kondicionéry).
+43
+
+Rozdiely v hodnotách pH medzi zhutnenými a nezhutnenými vzorkami na tejto
+lokalite sú výrazne niţšie ako boli zaznamenané na lokalite Pole1. Zároveň sa dá usúdiť, ţe
+na tejto lokalite má zhutnenie len minimálny vplyv na hodnotu pH, nakoľko je toto pole
+obhospodarovane rovnakým spôsobom.
+Zaujímavý jav sa spätne pozoroval pri lokalite Pole a Pole2, nakoľko majú veľmi
+podobné hodnoty zaznamenaného pH. Na týchto lokalitách sa neskôr pozorovalo, ţe sú tu
+vysadené rovnaké plodiny (jačmeň), a preto sa dá usúdiť, ţe sa tu pouţívalo veľmi
+podobné obhospodarovanie z pohľadu aplikovania hnojív a aditív, ktoré vplývajú na
+hodnotu pH.
+
+Obr. 25 Grafické znázornenie nameraných hodnôt vodivosti v lesných lokalitách 1 a 2.
+Na lesných lokalitách 1 a 2 sa hodnoty vodivosti značne líšili (od 0,011 aţ 0,033
+mS/cm) (Obr. 25). Pri lesnej lokalite 1 nastal výrazný rozdiel medzi zhutnenými
+a nezhutnenými pôdami na základe podobných efektov, ktoré boli popísané pre parameter
+pH (akumulácia vody na povrchu a vymývanie ťaţšie rozpustných látok z pôdy). Po
+odpare takejto vody zostáva na povrchu odparok, ktorý taktieţ zvyšuje hodnoty vodivosti
+zaznamenané na povrchovom horizonte takejto pôdy. Pri lesnej lokalite 2 sa
+nezaznamenali výraznejšie zmeny v nameraných hodnotách čo je pravdepodobne dané
+rozličnou distribúciou vody, neţ sa predpokladá pri lesnej lokalite 1 (sklon terénu a menšia
+hutnosť pôdy).
+
+44
+
+Obr. 26 Grafické znázornenie nameraných hodnôt vodivosti v poľných lokalitách 1 a 2.
+Na poľných lokalitách sa zaznamenali výrazne vyššie hodnoty vodivosti ako
+v prípade lesných lokalít (aţ 2-násobne vyššie) (Obr. 26). Tu sa dá predpokladať vplyv
+aplikovaných hnojív na poľnohospodárske pôdy, ktoré sú dobre rozpustné vo vode a vo
+svojej podstate sa jedná o soli rôznych zlúčenín.
+Na grafických záznamoch lokality 1 (Pole1) bol zaznamenaný väčší rozdiel medzi
+vzorkami zhutnenej a nezhutnenej pôdy. V oboch prípadoch mali hodnoty klesajúci trend.
+S veľkou pravdepodobnosťou zohráva najväčšiu úlohu pri tomto rozdiele aplikovanie
+odlišných hnojív neţ samotný parameter hutnosti pôdy.
+Pri poľnej lokalite 2 nezhutnená pôda vykazovala niţšiu vodivosť ako zhutnená
+pôda čo pravdepodobne súvisí s odlišnou distribúciou vody vo vodnom stĺpci na danej
+lokalite. Bliţšie sa nám tento vplyv nepodarilo vysvetliť.
+
+45
+
+6 Záver
+V rámci bakalárskej práce sme sa zaoberali problematikou negatívnych dôsledkov
+zhutnenia pôdy na poľnohospodárske a lesné pôdy. Teoretická časť práce sa venuje
+charakterizácií pôdy, a to z pohľadu jej štruktúry a funkcií, ktoré plní v ekosystéme a ŢP.
+Štúdiom odbornej literatúry bol vypracovaný prehľad o aktuálnom stave negatívnych
+vplyvov zhutnenia na retenciu vody v pôde, mikrobiálnu diverzitu a fyzikálno-chemické
+parametre pôdy.
+V rámci experimentálnej časti sa na vybraných lesných a poľnohospodárskych
+lokalitách s intenzívnou antropogénnou činnosťou sledovali penetračné charakteristiky
+pôdy. Vyššie hodnoty zhutnenia pôdy boli zaznamenané pri lesných lokalitách. V rámci
+poľných lokalít sa identifikovali problémové miesta v rôznych hĺbkach a rôznych častiach
+vybraných polí. V prípade poľnej lokality 1 a 3 sa dá usúdiť zvýšené zhutnenie vplyvom
+mechanizmov, kde pri lokalite 2 môţe byť pôvod zhutnenia podmienený práve
+prirodzeným tvarom terénu.
+Odobrané vzorky pôd sa podrobili viacerým laboratórnym analýzam, ktoré vo
+väčšine prípadov potvrdili výrazné rozdiely medzi zhutnenými a nezhutnenými vzorkami
+pôdy. V prípade lesných pôd boli všeobecne zaznamenané výraznejšie rozdiely neţ sa
+pozorovali pri poľnohospodárskych pôdach čo je pravdepodobne spojené s pravidelným
+zásahom agrotechniky.
+Jednoznačný vplyv zhutnenia pôdy na schopnosť retencie vody sa pozoroval práve
+pri lesných pôdach, kde sa zaznamenal aţ dvojnásobný rozdiel v obsahu vody medzi
+zhutnenými a nezhutnenými lokalitami. V prípade poľnohospodárskych pôd sa tento jav
+nepodarilo jednoznačne preukázať.
+Výrazné zmeny sa pri lesných pôdach zaznamenali i v prípade mikrobiálnej
+diverzity, a to poklesom od 62% do 98% pri zhutnenej pôde. Pričom na základe získaných
+údajov sa dá predpokladať ţe kvasinkové organizmy vykazujú vyššiu citlivosť na zvýšenú
+pedokompakciu pôdy.
+Sledované fyzikálno-chemické parametre výrazne záviseli od predpokladanej
+distribúcie vody v danej lokalite, ktorá bola ovplyvnená nie len zhutnením ale aj povahou
+okolitého terénu. Podobne ako pri retencií vody aj tu boli najväčšie rozdiely medzi
+fyzikálno-chemickým charakterom zhutnenej a nezhutnenej pôdy pozorovanej pri lesných
+pôdach. Trend vývoja parametrov pri zhutnených a nezhutnených pôdach sa odlišoval pri
+kaţdej lokalite čím sa dá predpokladať, ţe sledované parametre sú závislé i od iných
+
+46
+
+lokálnych a terénnych vlastností ako sú napr. sklon terénu, slnečné ţiarenie, pôdne aditíva.
+Na detailnejšie štúdium vplyvu zhutnenia na celkovú kvalitu pôdy by bolo potrebné
+realizovať
+
+detailnejší
+
+monitoring
+
+v dlhšom
+
+časovom
+
+horizonte
+
+za
+
+rôznych
+
+meteorologických podmienok. To by mohlo byť cieľom ďalšej záverečnej práce.
+
+47
+
+Zoznam pouţitej literatúry
+AZIZSOLTANI, E. - HONARJOO N. - AYOUBI Sh. 2019. How soil pore distribution
+could help in soil quality studies as an appropriate indicator. In Eurasian Soil Science.
+ISSN 1556-195X, 2019, vol. 52, no. 6, s. 654–660.
+Boďo T. and Bajl J. 2009. Vyuţitie nových trendov merania pedokompakcie. Usage of
+new trends of soil compaction measurement. [online]. Slovensko: Nitra. s. 1-6. Dostupné z:
+http://www.slpk.sk/eldo/2009/zborniky/023-09/bodo-bajla.pdf
+CREAMER, R. a kol. 2018. The Soils of Ireland. Soil Formation. Ireland: Johnstown
+Castle Environment Research Centre, 2018. 11–37 s. ISBN: 978-3-319-71189-8.
+ČURLÍK, J. and JURKOVIČ, Ľ. 2012. Pedochémia. Slovensko. s. 18-19. ISBN 978-80223-3210-1.
+DAZZI, C. - LO PAPA, G. 2021. A new definition of soil to promote soil awareness,
+sustainability, security and governance. In International Soil and Water Conservation
+Research. ISSN 2095-6339, 2021, vol. 10, no. 1, s. 99-108.
+DODOK R. and KUSÝ D. 2017. Monitoring vodného reţimu poľnohospodárskych pôd
+v oblasti vodného diela Gabčíkovo. Slovensko: Bratislava, 2017. ISBN: 978-80-8163-0231
+DUIKER, S. W. 2002. Diagnosing Soil Compaction Using a Penetrometer (Soil
+Compaction Tester) [online]. U.S.: Pennsylvania State University. s. 1-2. Dostupné
+z: https://extension.psu.edu/diagnosing-soil-compaction-using-a-penetrometer-soilcompaction-tester
+DIPANTI Ch. a kol. 2018. Microorganisms for Sustainability. Advances in Soil
+Microbiology. Microbial Diversity and Soil Health in Tropical Agroecosystems.
+Singapore, 2018. 19–35 s. ISBN: 978-981-10-7379-3
+ERKTAN A. - OR D. - SCHEU S. 2020. The physical structure of soil: Determinant and
+consequence of trophic interactions. In Soil Biology and Biochemistry. ISSN: 0038-0717,
+2020, vol. 148, pp. 107876, s. 3-6.
+FANG, Hsai-Yang, 1991. Foundation Engineering Handbook. Compacted Fill. Colorado:
+Consulting Engineer Aurora, 1991. 249–316 s. ISBN 978-0-4129-8891-2.
+48
+
+FINCH, H.J.S. – SAMUEL, A.M. – LANE, G.P.F. 2014. Lockhart & Wiseman’s Crop
+Husbandry Including Grassland. Soils and soil management. United Kingdom: Royal
+Agricultural University, 2014. 37–62 s. ISBN: 978-1-78242-371-3.
+HATTEN, J. and LILES, G., 2019. A “healthy” balance – The role of physical and
+chemical properties in maintaining forest soil function in a changing world. Developments
+in Soil Science. United States, 2019. 373–396 s. ISBN: 978-0-444-63998-1.
+HATFIELD, J. L. - SAUER T. J. - Cruse R. M. 2017. Soil: The Forgotten Piece of the
+Water, Food, Energy Nexus. United States: Iowa State University, 2017. 1–46 s. ISBN:
+978-0-12-812421-5.
+HANES, J. a kol. 1995. Pedológia (Praktikum) (skriptá). Nitra: VŠP, 153 s.
+HAO, J. a kol. 2020. The Effects of Soil Depth on the Structure of Microbial Communities
+in Agricultural Soils in Iowa. In Applied and Environmental Microbiology. ISSN: 10985336, 2020, vol.87, no. 4.
+JACKSON, R. S. 2020. Wine Science. Site selection and climate. United States, 2020.
+331–374 s. ISBN: 978-0-12-816118-0
+KALEV, S. D. – TOOR, G. S. 2018. The Composition of soils and sediments. TÖRÖK,
+Béla and Timothy DRANSFIELD, ed., Green Chemistry. Amsterdam: Elsevier, s. 339357. ISBN 978-0-12-809270-5.
+LIANG, Ch. - SCHIMEL, J. P. - JASTROW, J. D. 2017. The importance of anabolism
+in microbial control over soil carbon storage. In Nature Microbiology. ISSN: 20585276, 2017, vol. 2, no. 8, s. 485-559.
+LONGEPIERRE, M. a kol. 2021. Limited resilience of the soil microbiome to mechanical
+compaction within four growing seasons of agricultural management. [online].
+Switzerland: Zurich. 1-13 s. Dostupné z: https://www.nature.com/articles/s43705-02100046-8
+MAREDDY, A. R. 2017. Environmental Impact Assessment. Impacts on soils and land
+environment. Kidlington: Oxford, 2017. 249–296 s. ISBN 978-01-281-1238-0.
+
+49
+
+MARIOTTI, B. a kol. 2020. Vehicle-induced compaction of forest soil affects plant
+morphological
+
+and
+
+physiological
+
+attributes.
+
+In Forest
+
+Ecology
+
+and
+
+Management. ISSN: 0378-1127, 2020, č. 462, s. 2-9.
+MAYER Henry, 2021. Soil compaction, is it good or bad. [online]. Florida: University of
+Florida. [cit. 5. mája 2022]. Dostupné z:
+
+http://blogs.ifas.ufl.edu/miamidadeco/
+
+2021/04/09/soil-compaction-is-it-good-or-bad/
+Mičian, 1977. Zonálne, intrazonálne a azonálne pôdy. [online]. Slovensko. [cit. 05. mája
+2022].
+
+Dostupné
+
+z:
+
+http://pedogeografiauk.blogspot.com/2008/02/zonlne-intrazonlne-
+
+azonlne-pdy.html
+NAWAZ, M. F. – BOURRIÉ, G. – TROLARD, F. 2013. Soil compaction impact and
+modelling. A review. In Agronomy for Sustainable Development. ISSN: 1773-0155, 2013,
+vol. 33, s. 291-309.
+OSMAN, K. T. 2013. Soils. Factors and Processes of Soil Formation. Bangladesh:
+University of Chittagong, 2013. 17-30 s. ISBN 978-94-007-5662-5.
+PEARSON Prentice Hall, 2005. Soil Horizonts. [cit. 30. mája 2022]. Dostupné z:
+https://sites.google.com/site/exploresoil/soil-properties/soil-horizons
+RAI, R. K. – SINGH V. P. – UPADHYAY A. 2017. Planning and Evaluation of Irrigation
+Projects. Soil Analysis. 505-523 s. ISBN: 978-0-12-811748-4.
+RAWLS W.J. a kol. 2003. Effect of soil organic carbon on soil water retention.
+In Geoderma. ISSN: 0016-7061, 2003, vol.116, no. 1-2, s. 61-76.
+ROSSIT, D., PAIS, C., WEINTRAUB, A., BROZ, D., FRUTOS, M., & TOHMÉ, F. 2021.
+Stochastic forestry harvest planning under soil compaction conditions. In Journal of
+Environmental Management. ISSN: 0301-4797, 2021, vol. 296, pp. 113157, s. 1-2.
+SHARMA Vivek, 2018. Irrigation management: Basics of soil water. U.S: University of
+Wyoming. [cit. 30. mája 2022]. Dostupné z: https://wyoextension.org/publications/html/
+B1330/
+STACCIONE, A. a kol. 2021. Natural water retention ponds for water management in
+agriculture. A potential scenario in Northern Italy. In Journal of Environmental
+Management. ISSN: 0301-4797, 2021, vol. 292, pp. 112849, s. 292.
+50
+
+VAĽO, Štefan, 2018. Zhutnená pôda a prerušené kapiláry. [online]. Slovensko. [cit. 04.
+apríla 2021]. Dostupné z: https://www.povodne.sk/sk/priciny-povodni/zhutnena-poda-aprerusene-kapilary
+VAN DEN AKKER, J.J.H., and Soane B. 2005. Encyclopedia of Soils in the Environment.
+COMPACTION. Netherlands: Alterra Wageningen UR. 285–293 s. ISBN: 978-0-12348530-4.
+VIDAL L. a kol. 2016. Soil quality, properties, and functions in Life Cycle Assessment: an
+evaluation of models. In Journal of Cleaner Production. ISSN: 0959-6526, 2016, vol.
+140, s. 502-515.
+VLČEK, J. 2011. Potenciály a parametre kvality poľnohospodárskych pôd Slovenska.
+ISSN 2453-8787, 2011, vol. 63, no. 2, s. 133-154.
+VÚPOP, 2019. Zastúpenie pôdnych druhov [online]. Slovensko. [cit. 05. mája 2021].
+Dostupné z: http://www.podnemapy.sk/portal/reg_pod_infoservis/pd/pd.aspx
+XU, Y. a kol. 2021. Soil bacterial diversity related to soil compaction and aggregates sizes
+in potato cropping systems. In Applied Soil Ecology. ISSN: 0929-1393, 2021, vol. 168,
+pp. 104147, s. 1-3.
+YANG, Y. a kol. 2021. Negative effects of multiple global change factors on soil microbial
+diversity. In Soil Biology and Biochemistry. ISSN: 0038-0717, 2021, vol. 156,
+pp. 108229, s. 1-2.
+ZVERKOVÁ, M. 2011. Interpretácia údajov získaných pri detailnom výskume pôd
+v urbánnom priestore. In Folia geographica. ISSN: 1336-6149, 2011, vol. 11
+
+51
+
+

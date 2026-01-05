@@ -1,0 +1,2958 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+170192
+
+VPLYV MUTÁCIE FAKTORA V LEIDEN NA TEHOTENSTVO A JEHO
+DIAGNOSTIKA.
+BAKALÁRSKA PRÁCA
+
+2021
+
+ANNA HUBČÍKOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+VPLYV MUTÁCIE FAKTORA V LEIDEN NA TEHOTENSTVO A JEHO
+DIAGNOSTIKA
+
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+Laboratórne vyšetrovacie metódy v zdravotníctve
+
+Študijný odbor:
+
+5616 Laboratórne vyšetrovacie metódy v zdravotníctve
+
+Školiace pracovisko: Ústav zdravotníckych disciplín, VŠZ a SP
+sv. Alžbety v Bratislave
+Školiteľ:
+
+MUDr. Aurélia Fedorová
+
+BRATISLAVA, 2021
+
+ANNA HUBČÍKOVA
+
+ČESTNÉ VYHLÁSENIE
+Vyhlasujem, že som bakalársku prácu vypracovala samostatne, pod
+odborným vedením školiteľky MUDr. Aurélie Fedorovej a použila som literatúru, ktorú
+uvádzam v zozname.
+
+BRATISLAVA, 2021
+
+POĎAKOVANIE
+Ďakujem
+
+mojej
+
+školiteľke
+
+MUDr.
+
+Aurélii
+
+Fedorovej
+
+a odbornej
+
+konzultantke Ing. Ingrid Škorňovej PhD., ktoré mi boli prínosom pri písaní mojej
+bakalárskej práce za ich odborné konzultácie, cenné rady a pripomienky. Poďakovanie patrí
+aj mojej rodine a najbližším, ktorí ma počas môjho štúdia podporovali.
+
+ABSTRAKT
+HUBČÍKOVÁ, Anna : Vplyv mutácie faktora V Leiden na tehotenstvo a jeho diagnostika.
+[Bakalárska práca]. Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety v Bratislave.
+Ústav zdravotných disciplín; Školiteľ MUDr. Aurélia Fedorová. Stupeň odbornej
+kvalifikácie. Bakalár laboratórnych vyšetrovacích metód v zdravotníctve. Bratislava: Ústav
+zdravotníckych disciplín, 2021. Počet strán 67.
+Trombofília získala veľkú pozornosť ako rizikový faktor pre tehotenské komplikácie.
+Trombofilné stavy predstavujú zvýšené riziko tromboembolizmu. V dnešnej dobe je to
+najčastejšia tehotenská komplikácia. Cieľom našej bakalárskej práce bolo informovať o
+význame a rizikách spojených s prítomnosťou vrodených trombofílií v tehotenstve.
+Zamerali sme sa na vrodenú mutáciu faktora V Leiden (F V Leiden G1691) homozygotnú
+a heterozygotnú formu, aký vplyv majú na tehotenstvo, a ako môžu tieto mutácie ovplyvniť
+výsledok tehotenstva. Zhodnotili sme výskyt mutácie a bližšie rozoberáme diagnostiku, pri
+ktorej nie je konkrétny test, ale celá škála vyšetrení, ktorá je veľmi dôležitá pre správne
+indikovanú liečbu nositeliek tejto mutácie, aby sa zabránilo tehotenským stratám a rizikám.
+Mutácia faktora V Leiden ( F V Leiden G1691) je jedna z najrozšírenejších mutácií
+v populácii. Touto prácou sme sa snažili poukázať na celkovú problematiku mutácie faktora
+V Leiden,
+
+v porovnaní
+
+s inými
+
+vrodenými trombofíliami
+
+pomocou
+
+prípadových
+
+kontrolných štúdii, s cieľom zistiť, či pri včasnej diagnostike a liečbe je možné úspešné
+ukončenie tehotenstva u pacientky s prítomnou mutáciou FV Leiden.
+Kľúčové slová: hemostáza, trombofília, tehotenstvo, faktor V Leiden, diagnostika
+
+ABSTRACT
+HUBČÍKOVÁ, Anna: The Impact of the Factor V Leiden Mutation on Pregnancy and Its
+Diagnosis. [Bachelor thesis]. St. Elizabeth University College of Health and Social Work
+Bratislava, Slovakia. Institute of Medical Disciplines; Supervisor MUDr. Aurélia Fedorová.
+Level of professional qualification. Bachelor of Laboratory Examination Methods.
+Bratislava: Institute of Medical Disciplines, 2021. 67 p.
+Thrombophilia has received a lot of attention as a risk factor for pregnancy complications.
+Thrombophilic states represents an increased risk of thromboembolism. Nowadays, it is the
+most common pregnancy complication. The aim of our Bachelor thesis was to inform about
+the significance and risks related to the presence of congenital thrombophilia during the
+pregnancy. We have focused on the congenital mutation of factor V Leiden (F V Leiden
+G1691) homozygous and heterozygous form, how they affect pregnancy and how these
+mutations can affect the result of pregnancy. We evaluated the occurrence of the mutation
+and further discussed the diagnosis, by which is not a specific test, but a range of
+examinations that are very important for the correctly indicated treatment of the carriers of
+this mutation to avoid pregnancy losses and risks. The factor V Leiden mutation (F V Leiden
+G1691) is one of the most common mutation that is found in the population. In this thesis,
+we tried to point out the general problem of factor V Leiden mutation, compared with other
+congenital thrombophilia using case control studies, in order to determine whether early
+diagnosis and treatment enables successful termination of pregnancy in a patient with F V
+Leiden mutation.
+Key words: hemostasis, thrombophilia, pregnancy, factor V Leiden, diagnosis
+
+OBSAH
+ÚVOD........................................................................................................................................... 13
+1 KAPITOLA .................................................................................................................................. 14
+1 HEMOSTÁZA POČAS GRAVIDITY A JEJ ZMENY ........................................................................ 14
+1.1 Hemostáza počas gravidity ............................................................................................. 14
+1.2 Fyziologické zmeny hemostázy v tehotnosti .................................................................... 15
+1.3 Hemostatický a fibrinolytický systém v gravidite. ............................................................ 16
+2 KAPITOLA .................................................................................................................................. 18
+2 TROMBOFÍLIE VRODENÉ A ZÍSKANÉ V TEHOTNOSTI ............................................................... 18
+2.1 Trombofília ..................................................................................................................... 18
+2.2 Trombofílie vrodené a získané s tehotenskými komplikáciami. ....................................... 19
+2.3 Hyperkoagulačný stav rozvíjajúci sa počas tehotnosti. .................................................... 22
+3. KAPITOLA ................................................................................................................................. 23
+3 GENETICKÉ PRÍČINY TROMBOFÍLIE......................................................................................... 23
+3.1 Faktor V (FV). .................................................................................................................. 23
+3.2 Definícia Leidenskej mutácie faktoru V (FVL)................................................................... 24
+3.3 Patofyziológia a výskyt FVL ............................................................................................ 25
+4 KAPITOLA .................................................................................................................................. 26
+4 RIZIKÁ V TEHOTENSTVE PRI MUTÁCII FV LEIDEN .................................................................. 26
+4.1 Vplyv faktora V Leiden na tehotenstvo ........................................................................... 26
+4.2 FV Leiden a systémový lupus erythematosus (SLE). ......................................................... 27
+4.3 Faktor V Leiden a strata plodu ........................................................................................ 27
+4.4 Faktor V Leiden a placentárne komplikácie ..................................................................... 28
+4.5 Faktor V Leiden a preeklampsia ...................................................................................... 28
+4.6 Faktor V Leiden a obmedzenie rastu plodu ..................................................................... 29
+4.7 Faktor V Leiden a venózny tromboemboembolizmus (VTE) ............................................. 29
+4.8 Faktor V Leiden a mŕtvy pôrod ....................................................................................... 30
+5. KAPITOLA ................................................................................................................................. 33
+5 DIAGNOSTIKA TROMBOFILNÝCH STAVOV ............................................................................. 33
+5.1 Testy na vyšetrenie trombofíliných stavov ...................................................................... 33
+5.2 Testy a princípy diagnostiky: ........................................................................................... 33
+5.3 Laboratórna diagnostika trombofilných stavov. ............................................................. 40
+5.4 Klinický význam a interpretácia vyšetrenia...................................................................... 50
+
+LIEČBA ......................................................................................................................................... 55
+DISKUSIA...................................................................................................................................... 57
+ODPORÚČANIA PRE PRAX ............................................................................................................ 59
+ZÁVER .......................................................................................................................................... 60
+ZOZNAM POUŽITEJ LITERATÚRY .................................................................................................. 61
+KAZUISTIKA .................................................................................................................................. 68
+
+ZOZNAM ILUSTRÁCIÍ A ZOZNAM TABULIEK
+ZOZNAM ILUSTRÁCIÍ
+Obrázok 1 Trombogenéza ................................................................................................ 18
+Obrázok 2 Kaskáda tvorby trombov................................................................................. 26
+Obrázok 3 Príklady vyhodnotenia jednotlivých vzoriek .................................................. 39
+Obrázok 4 Klasická metóda, Modifikovaná metóda......................................................... 42
+ZOZNAM TABULIEK
+Tabuľka 1 Zmeny v hemostáze počas fyziologického tehotenstva ................................. 16
+Tabuľka 2 Prehľad vrodených a získaných trombofilných stavov .................................. 20
+Tabuľka 3 Trombofilný stav s tehotenskými komplikáciami .......................................... 21
+Tabuľka 4 Rozdelenie trombofilných stavov z hľadi ska vzniku trombózy ................... 22
+Tabuľka 5 Výskyt vrodenej trombofílie vo vzťahu ku komplikáciám v gravidite ......... 22
+Tabuľka 6 Riziko VTE pri vybraných trombofilných stavoch u žien starších ako 35 r... 30
+Tabuľka 7 Riziko preeklampsie pri trombofilných stavoch............................................ 30
+Tabuľka 8 Riziko včasnej straty plodu pri trombofilných stavoch ................................ 31
+Tabuľka 9 Riziko opakovanej straty plodu pri trombofilných stavoch............................ 31
+Tabuľka 10 Riziko straty plodu v pokročilom štádiu tehotnosti ...................................... 31
+Tabuľka 11 Riziko abrupcie placenty pri trombofilných stavoch..................................... 31
+Tabuľka 12 Riziko rozvoja IUGR pri trombofilných stavoch.......................................... 31
+Tabuľka 13 Reagencie – zloženie..................................................................................... 37
+Tabuľka 14 Indikácie vyšetrenia na prítomnosť trombofílie............................................ 41
+Tabuľka 15 Stabilita testu po otvorení.............................................................................. 44
+Tabuľka 16 Pracovný postup............................................................................................. 44
+
+Tabuľka 17 Stability Proteín C aktivátor, Substrát reagent, Pufor................................... 47
+Tabuľka 18 Stability deficientná plazma PS, proteín Ca reagent, PS štartovací reagent .. 49
+Tabuľka 19 Po rekonštrukcii LA1, LA2........................................................................... 52
+
+ZOZNAM SKRATIEK A ZNAČIEK
+APA
+
+antifosfolipidové protilátky
+
+APC
+
+aktivovaný proteín C
+
+APCR
+
+rezistencia na aktivovaný proteín C
+
+APS
+
+antifosfolipidový syndróm
+
+APTT
+
+aktivovaný parciálny tromboplastínový čas
+
+AT
+
+antitrombín
+
+DVT
+
+hlboká žilová trombóza dolných končatín
+
+EIA
+
+Elektroimunoanalýza
+
+ELISA
+
+enzýmová imunoanalýza na pevnej fáze
+
+EPCR
+
+endotelový receptor proteínu C
+
+F V Leiden
+
+faktor V Leiden
+
+FGR
+
+obmedzenie rastu plodu
+
+FI
+
+Fibrinogén
+
+FII
+
+faktor II
+
+FV
+
+faktor V
+
+FVa
+
+aktivovaný faktor V
+
+FVII
+
+faktor VII
+
+FVIII
+
+faktor VIII
+
+FVIIIa
+
+aktivovaný faktor VIII
+
+FX
+
+faktor X
+
+FXa
+
+aktivovaný faktor X
+
+FXII
+
+faktor XII
+
+Ig
+
+imunoglobulín
+
+IgA
+
+imunoglobulín triedy A
+
+IgG
+
+imunoglobulín triedy G
+
+IgM
+
+imunoglobulín triedy M
+
+IURP
+
+intrauterinná rastová retardácia plodu
+
+IVF
+
+in vitrofertilitácia
+
+KF
+
+kalibračný faktor
+
+LA
+
+lupus antikoagulans
+
+LMWH
+
+nízkomolekulový heparín ( Low Molecular Weigh Heparín)
+
+MTHFR
+
+metyléntetrahydrofolátreduktáza
+
+NR
+
+normalizovaný pomer
+
+t-PA
+
+tkanivový aktivátor plazminogénu
+
+PAI-1
+
+inhibítor aktivátora plazminogénu typ1
+
+PAI-2
+
+inhibítor aktovátora plazminogénu typ 2
+
+PC
+
+proteín C
+
+PCAT
+
+čas zrážania závislý od proteínu C vyšetrovanej vzorky
+
+PCAT/0
+
+čas zrážania závislý od proteínu C bez pridania aktivátora
+
+PCR
+
+polymerázová reťazová reakcia (polymerase chain reaction)
+
+PS
+
+proteín S
+
+PT
+
+protrombínový čas
+
+PTM
+
+protrombínová mutácia G20210A
+
+SHP
+
+štandardná humánna plazma
+
+SW
+
+index senzitivity
+
+TFPI
+
+inhibítor tkanivového faktora (Tissue Factor Pathway Inhibítor)
+
+TM
+
+trombomodulín
+
+TP
+
+tkanivový plazminogén
+
+TTP
+
+trombocytopenická purpura
+
+UFH
+
+nefrakcionovaný heparín
+
+VTE
+
+venózny tromboembolizmus
+
+vWF
+
+von Willebrandov faktor
+
+ÚVOD
+
+Trombofilia je zvýšený sklon ku vzniku trombózy a rozvoja tromboembolickej choroby ako
+závažnej komplikácie zdravotného stavu. Trombofílie sú vrodené a získané defekty
+hemostatického systému, ktoré sú charakteristické zvýšenou tendenciou ku krvným
+zrazeninám alebo vzniku trombov v cievnom riečisku. V gravidite prehlbuje fyziologickú
+hyperkoaguláciu, potencuje rozvoj gestačného tromboembolizmu a považuje sa za rizikový
+faktor neúspešnej reprodukcie a tehotenských komplikácií. Starostlivosť žien s vrodenou
+alebo získanou poruchou hemostázy si počas celého tehotenstva vyžaduje špecifické postupy
+s cieľom znížiť incidenciu a dôsledky pôrodníckeho tromboembolizmu a tehotenských
+komplikácií.
+V našej práci sa venujeme trombofílii u tehotných žien s mutáciou faktora FV Leiden, ktorá
+je najrozšírenejšia v populácii. Cieľom našej práce bolo zistiť, aký vplyv má na graviditu a
+jej riziká. Porovnali sme homozygotnú a heterozygotnú formu mutácie z prípadových
+kontrolných štúdii, pri vybraných trombofilných stavoch. Venovali sme sa diagnostike
+mutácii FV Leidenskej a celkovo aj odporučeným súborom laboratórnych vyšetrení pri
+podozrení na trombofíliu. Poukázali sme na liečbu, možnosti použitia novej generácie
+účinných a relatívne bezpečných antitrombotík, pre úspešné ukončenie tehotenstva.
+
+13
+
+1 KAPITOLA
+1 HEMOSTÁZA POČAS GRAVIDITY A JEJ ZMENY
+Hemostáza predstavuje jeden z mechanizmov, ktoré udržujú integritu vnútorného prostredia,
+kedy za fyziologických podmienok zabezpečuje fluiditu krvi v intaktnom cievnom riečisku.
+V prípade poruchy kontinuity cievnej steny vedie k krvnému zrážaniu na zastavenie
+krvácania (Češka, R., 2020).
+Na udržiavanie rovnováhy medzi sklonom ku krvácaniu a k zvýšenému zrážaniu (trombóze)
+je nevyhnutná regulácia kontrolných mechanizmov. Patrí tu normálna funkcia cievnej steny,
+ktorej výsledkom je hemostatická rovnováha, trombocyty a plazmatický koagulačný systém,
+fibrinolytický systém, ich aktivátory a inhibítory (Češka, R., 2020).
+1.1 Hemostáza počas gravidity
+Počas normálneho tehotenstva, s nárastom zrážacích faktorov a s poklesom inhibítorov
+koagulačnej kaskády vzniká stav fyziologickej hyperkoagulability. Aby bola zabezpečená
+primeraná cirkulácia v placente a správny vývoj tehotenstva, závisí to aj od faktorov
+rovnováhy hemostatických mechanizmov (Wingejyer, P., 2018). Tehotenstvo teda veľkou
+mierou ovplyvňuje hemostatický systém.
+Úlohou hemostázy v gravidite je, aby bol zabezpečený kontinuálny extravaskulárny prietok
+placentou materskej krvi, a tak bola optimálne prekrvená placenta a nebola aktivovaná
+koagulačná kaskáda. Hemostáza, v čase pôrodu, zabezpečuje rýchle a adekvátne zrážanie
+s cieľom zastavenia krvácania, čo vedie k ochrane rodičky pred vykrvácaním (Hulíková,
+M., 2016).
+Hemostáza v tehotnosti zasahuje hlavne do procesu implantácie blastocytov a placentácie.
+Bunky trofoblastu vytláčajú koagulačné komponenty, ktoré sa podieľajú na zrážaní krvi
+a na regulácii placentárnej hemostázy. Čiže majú antikoagulačné a antifibrinolytické
+účinky. V cievach placenty na lokálnu hemostázu dohliada kombinácia faktorov matky
+a plodu, ktoré kooperatívne regulujú aktivitu koagulačného systému materskej krvi
+a fetálneho trofoblastu na ich rozhraní (Hulíková, M., 2016).
+
+14
+
+Normálna implantácia placenty v mieste vniknutia trofoblastu do špirálových artérií je
+sprevádzaná tvorbou malého množstva fibrínu. Je to výsledok aktivácie koagulácie
+v uteroplacentárnych cievach. Ak je teda ukladanie fibrínu nadmerné v špirálových
+artériách, poškodí uteroplacentárnu cirkuláciu. V cievach placenty je lokálna hemostáza
+kontrolovaná kombináciou faktorov matky a plodu, kooperatívne regulujú aktivitu
+koagulačného systému na rozhraní materskej krvi a fetálneho trofoblastu (Hulíková, M.,
+2016). Z vyššie uvedeného vyplýva, že počas gravidity prebiehajú v koagulácii
+a fibrinolytickom systéme zmeny.
+1.2 Fyziologické zmeny hemostázy v tehotnosti
+Počas tehotenstva môže dôjsť k vzniku trombózy kvôli hormonálnym zmenám. Tieto zmeny
+vedú k venóznej stáze a k zmenám cievnej steny, ako sú hypotónia a poškodenie endotelu.
+Popísaný stav hemostázy, ktorý prebieha v tehotenstve sa považuje za fyziologický stav
+(Hulíková M., 2016). Zmeny nastávajú aj na úrovni koagulačných faktorov. V nasledujúcom
+texte ich bližšie popisujeme.
+Zmeny na úrovni koagulačných faktorov sú nasledujúce:
+•
+
+Vzostup koncentrácií koagulačných faktorov a to hlavne FII, FV, FVII, FVIII, FX, FXII,
+fibrinogénu a von Willebrandovho faktora (vWF), ktorý vedie k zvýšenej tvorbe
+protrombínových fragmentov a komplexov trombín-antitrombín.
+
+•
+
+Pokles koncentrácií prirodzených antikoagulačných mechanizmov, hlavne aktivity
+proteínu S (PS) a rozvoj tzv. získanej rezistencie na aktivovaný proteín C (APCR).
+
+•
+
+Zníženie fibrinolytickej kapacity, vzostup koncentrácie plazminogénu, antigénu
+plazminogénového aktivátora (PA) a tkanivového plazminogénového aktivátora (TP).
+
+•
+
+Zvýšenie koncentrácie a aktivity inhibítora plazminogénového aktivátora typu 1 (PAI1) a inhibítora placentárneho plazminogénového aktivátora typ 2 (PAI-2).
+
+•
+
+Úmerne gestačnému obdobiu stúpa koncentrácia D-dimérov.
+
+•
+
+Lokálna hemostáza, tvorená mikropartikulami z endotelu matky, trombocytmi
+a placentárnym trofoblastom, je zvýšená v dôsledku zvýšenej syntézy tkanivového
+faktora a zníženej tvorbe inhibítora systému tkanivového faktora (TFPI). Zmeny
+lokálnej hemostázy podporujú protrombotický stav (Simcox, L., 2015).
+
+Zmeny v hemostáze počas fyziologického tehotenstva dokumentuje Tabuľka 1.
+
+15
+
+Tabuľka 1. Zmeny v hemostáze počas fyziologického tehotenstva
+Hemostáza
+
+Zvýšené
+
+Znížené
+
+Bez
+zmeny
+
+Systémová
+Koagulačné faktory
+
+FII,FV,FVII,FVIII,FIX,FX,FXII FXIII,FXI
+
+Antikoagulačné faktory
+
+solubilný TM
+
+Adhezívne proteíny
+
+vWF
+
+Fibrinolytické proteíny
+
+PAI-1, PAI-2
+
+Tkanivový faktor
+
+PS
+
+PC, AT
+
+t-PA
+
+TAFI
+
+Monocyty Solubilný
+TF
+
+Mikropartikuly a APA
+
+MP
+
+Lokálna placentárna
+
+TF
+
+TF
+APA
+
+TFPI
+
+Vysvetlivky: TM-trombomodulín, PS-proteín S, PC-proteín C, AT-antitrombín, vWF- von
+Willebrandov faktor, PAI-inhibítor aktivátora plazminogénu, TAFI-trombínom aktivovaný
+inhibítor fibrinolýzy, t-PA- tkanivový aktivátor plazminogénu, TF-tkanivový faktor, TFPIinhibítor tkanivovej cesty, APA- antifosfolipidové protilátky
+(Hulíková, M., 2016)
+Zmeny sú zamerané hlavne na prevenciu krvácania v čase implantácie trofoblastu a pôrodu,
+aby bolo optimálne prekrvenie placenty a udržanie laminárneho prietoku v intervilóznom
+priestore. Taktiež tieto zmeny bránia úniku plodovej vody a zníženie straty krvi (Hulíková,
+M., 2016). Všetky tieto zmeny v hemostáze majú za úlohu udržať graviditu a zabrániť
+vykrvácaniu počas pôrodu.
+1.3 Hemostatický a fibrinolytický systém v gravidite.
+Z vyššie uvedených skutočností vieme, že funkcia hemostatického a fibrinolytického
+systému je v tehotenstve ovplyvňovaná viacerými faktormi. Ak sa naruší hemostatická
+rovnováha môže sa prejaviť dvoma stavmi:
+•
+
+Krvácaním
+
+•
+
+Trombofíliou
+
+16
+
+Krvácavý stav
+Poruchy krvácania, sú chorobné stavy, pri ktorých vznikli krvácavé prejavy buď spontánne,
+alebo sú neúmerné podnetu. Môžu sa prejavovať protrahovaným alebo ťažko zastaviteľným
+krvácaním pri poranení. Pri poruche ktoréhokoľvek z hemostatických mechanizmov môže
+vyústiť v krvácavé stavy.
+Krvácavé stavy z patofyziologického hľadiska delíme na:
+•
+
+krvácavé stavy z doštičkových príčin,
+
+•
+
+z porúch plazmatickej koagulácie- koagulopatia,
+
+•
+
+z porúch cievnych stien - vaskulopatie,
+
+•
+
+skupina
+
+konzumpčných
+
+koagulopatií,
+
+ktoré
+
+vznikajú
+
+následkom
+
+intravaskulárnej koagulácie (Češka, R., a kol.2020).
+Z týchto poznatkov o hemostáze a jej zmenách, ktoré prebiehajú v gravidite, fyziologické
+tehotenstvo predstavuje hyperkoagulačný stav. Všetky jeho tri zložky Virchowovej triády
+sú prítomné, ako stagnácia, poranenie endotelu a hyperkoagulabilita. Stáza je v dôsledku
+stlačenia žilového systému gravidnou maternicou, čo prispieva k anatomickej
+hyperkoagulabilite. Zvýšené hladiny prokoagulantov, hladiny faktora V FV, F VII, FVIII a
+F X rovnako ako von Willebrandov faktor a fibrinogén, znížený proteín S, získaná
+rezistencia na aktivovaný proteín C, narušená fibrinolýza v dôsledku zvýšeného inhibítora
+aktivátora plazminogénu (prostredníctvom placenty) a získaný nedostatok antitrombínu toto všetko vedie ku fyziologickej a biochemickej hyperkoagulácii ( Marshall,A., MD,
+2014).
+
+17
+
+2 KAPITOLA
+
+2 TROMBOFÍLIE VRODENÉ A ZÍSKANÉ V TEHOTNOSTI
+Trombofília popisuje tendenciu k rozvoju trombóz z dôvodu dedičných alebo získaných
+porúch zrážania krvi alebo fibrinolýzy, ktoré vedú k protrombotickému stavu.
+2.1 Trombofília
+Trombofília znamená situáciu konštitučných vrodených alebo získaných
+
+faktorov
+
+predisponujúcich k trombóze. Dodnes platí Virchowova triáda patogenetických príčin
+trombózy, ktorá zahŕňa poškodenie cievnej steny, spomalenie prúdenia krvi a poruchy
+v zložení krvi. Trombóza je výsledkom lokalizovanej aktivácie koagulácie, ktorá môže
+nastať v arteriálnom aj venóznom riečisku (Sakalová, A., a kol., 2011)
+V žilovom systéme je potom vlastná tvorba trombu u disponovaných jedincov vyvolaná
+niektorým zo spúšťacích podnetov, ktorými sú operácie, imobilita, gravidita, kombinovaná
+perorálna antikoncepcia, dehydratácia, nádorové bujnenia a i. U obidvoch pohlaviach sa
+ďalej sklon k trombóze zvyšuje s vekom ( > 60 rokov). Schéma trombogenézy je uvedená
+na obrázku 1. Z tohto hľadiska je teda na trombózu dnes pozerané ako na ochorenie
+multifaktoriálne. Pokiaľ je v uvedených záťažových situáciách trombofília včas rozpoznaná,
+zvyšuje sa šanca, kedy je možné zabrániť vzniku trombózy vhodnou profylaxiou (Češka, R.
+a kol., 2020).
+
+podnet
+
+trombus
+
+trombofília
+
+Obrázok 1. Trombogenéza (Češka, R., 2020)
+18
+
+2.2 Trombofílie vrodené a získané s tehotenskými komplikáciami.
+Počas tehotnosti dochádza ku fyziologickému hyperkoagulačnému stavu v priebehu ktorého
+nastáva, prevaha prokoagulačných faktorov nad fibrinolytickými, táto prevaha má
+minimalizovať krvné straty počas gravidity a pôrodu. Tento stav významne zvyšuje riziko
+VTE (venózneho tromboembolizmu) v tehotnosti a ešte výraznejšie v šestonedelí. Výskyt
+VTE v tehotenstve je pomerne nízky (1/1000), ale predstavuje závažné ohrozenie života
+tehotnej ženy (Stančiaková, L., 2017a).
+Prítomnosť trombofilného stavu podčiarkuje význam protrombotických zmien hemostázy
+počas tehotnosti. Tieto zmeny rozdeľujeme na vrodené a získané (Stančiaková, L., 2017).
+Vrodená trombofília
+Vrodené trombofílie sú spôsobené buď vyššou produkciou koagulačných faktorov, alebo
+inhibítormi fibrinolýzy. Môžu byť vyvolané aj nižšou produkciou, alebo poruchou
+niektorých koagulačných faktorov a nakoniec môžu byť spojené s niektorými
+metabolickými poruchami (Češka, 2020).
+Vrodená
+
+trombofília
+
+je
+
+definovaná
+
+ako
+
+genetická
+
+predispozícia
+
+na
+
+venózny
+
+tromboembolizmus (VTE). Zvyčajne genetická delécia alebo zmena funkčného proteínu v
+koagulačnej kaskáde. Medzi najčastejšie dedičné trombofílie patria mutácia faktora V
+Leiden (FVL G1691A), mutácia génu protrombínu (protrombín G20210A), nedostatok
+proteínu C (PCD), nedostatok proteínu S (PSD), mutácia metyltetrahydrofolát reduktázy
+(MTHFR) a nedostatok antitrombín III (AT). Každý z nich má spoločnú úlohu pri
+indukovaní hyperkoagulačného stavu priamym alebo nepriamym zvýšením protrombínu na
+trombín a jeho aktívna forma indukuje zrazeninu. Pretože hyperkoagulabilita s dedičnými
+trombofíliami je dobre zavedená, skríning tehotných žien s osobnou anamnézou VTE je v
+praxi všeobecne dobre prijatý, s cieľom poskytnúť v prípade potreby tromboembolickú
+profylaxiu (Kutteh, W., a kol.2014). Prevalencia jedincov s kombinovanou trombofíliou vo
+všeobecnej populácii presahuje 5%, títo jedinci majú ešte väčšie trombotické riziko ( Aracic,
+N., 2015).
+
+19
+
+Získané trombofílie
+Najbežnejšia získaná trombofília zahŕňa prítomnosť antifosfolipidových protilátok APL.
+Prítomnosť týchto protilátok bola spojená s úbytkom tehotenstva (aborty) v druhom a prvom
+trimestri. Preto sa odporúča skríning najbežnejších z týchto protilátok (lupusový
+antikoagulant, antikardiolipín a anti-beta2 glykoproteín), u žien s anamnézou viac ako dva,
+alebo tri strát v prvom trimestri a u žien s jednou, alebo viacerými stratami po dvadsiatich
+týždňoch bez alternatívneho vysvetlenia. Prehľad vrodených a získaných trombofilných
+stavov dokumentuje tabuľka 3.
+
+(Kutteh, W., et al., 2014).
+
+Tabuľka 2. Prehľad vrodených a získaných trombofilných stavov.
+Vrodené trombofilné stavy
+
+Získané trombofilné stavy
+
+mutácia faktor V Leiden (FV Leiden)
+
+antifosfolipidový syndróm (APS)
+trombotická
+
+variant protrombínu G20210A
+
+trombocytopenická
+
+purpura (TTP)
+
+hyperhomocysteinémia vo vzťahu k mutácii génu
+pre metylénetetrahydrofolátreduktázu (MTHFR)
+deficit faktora XII (FXII)
+syndróm lepivých doštičiek (SPS)
+Dysfibrinogenémia
+deficit antitrombínu
+deficit proteínu C (PC)
+deficit proteínu S (PS)
+deficit proteínu Z (PZ)
+zmeny vo fibrinolytických mechanizmoch
+(Stančiaková, L., 2017b)
+
+20
+
+hyperhomocysteinémia
+
+Tehotnosť predstavuje fyziologický stav predisponujúci k vzniku trombózy. Prítomnosť
+trombofilného stavu je významný pri protrombotických zmenách hemostázy počas
+tehotnosti. Predpokladá sa, že preexistencia trombofilnej poruchy stupňuje fyziologický
+hyperkoagulačný stav rozvíjajúci sa počas tehotnosti (Stančiaková, L., 2017a). Tehotné ženy
+s vrodenou
+
+trombofíliou
+
+majú
+
+tehotenské
+
+komplikácie,
+
+príčinou
+
+je
+
+porucha
+
+uteroplacentárnej cirkulácie, tehotné ženy so získanou tronbofíliou zahŕňajú tehotenské
+placentárne vaskulárne komplikácie (Hulíková, M., 2016).
+Asociácie
+
+vrodených
+
+a
+
+získaných
+
+trombofílií
+
+s tehotenskými
+
+komplikáciami
+
+dokumentuje tabuľka 2.
+Tabuľka 3. Trombofilný stav s tehotenskými komplikáciami
+Trombofília
+
+Tehotenské komplikácie
+
+Mutácia F V Leiden
+
+Strata plodu II, III. trimester, IURP, abrupcia
+placenty, preeklampsia, predčasný pôrod, VTE
+
+Mutácia FII 20210
+
+VTE, preeklampsia, IURP, abrupcia placenty
+
+Deficit antitrombínu
+
+VTE, mŕtvo narodené dieťa, potrat, preeklampsia,
+abrupcia placenty, IURP
+
+Deficit proteín C, proteín S,
+
+VTE, rekurentné potraty, preeklampsia, neskorá
+
+Proteín Z
+
+strata plodu, abrupcia placenty, IURP
+
+Hyperhomocysteinémia
+
+preeklampsia, abrupcia placenty, IURP, rekurentné
+potraty
+
+Syndróm lepivých doštičiek
+
+tromboembolizmus, rekurentná reprodukčná strata
+
+Hyperfibrinogenémia
+
+Placentárna nekróza / trombóza
+
+FXIII
+
+neúspešná reprodukcia
+
+Antifosfolipidový syndróm
+
+Arteriálna/venózna trombóza, infertilita, IVF
+zlyhanie, skorá strata plodu, rekurentné potraty
+
+Polymorfizmus TM, EPCR
+
+rekurentné potraty
+
+Polymorfizmus PAI
+
+rekurentná neúspešná reprodukcia, preeklampsia,
+inhibícia invázie a diferenciácie trotoblastu
+
+Vysvetlivky: F V Leiden-faktor V Leiden, IURP-intrauterinná rastová retardácia plodu,
+VTE-venózny tromboembolizmus, FII 20210-faktor II 20210, FXII-faktor FXII, TMtrombomodulín, EPCR-endotelový receptor
+
+proteínu C, PAI-inhibítor
+
+plazminogénu, IVF- in vitrofertilitácia (Hulíková, M., 2016).
+21
+
+aktivátora
+
+2.3 Hyperkoagulačný stav rozvíjajúci sa počas tehotnosti.
+Zmeny v hemostatickom systéme pôsobia ako fyziologická „záchranná sieť“ na obdobie
+okolo pôrodu, ale môžu predisponovať matku a plod ku komplikáciám počas tehotenstva.
+Pre matku toto riziko začína od počatia až do postnatálneho obdobia. Predpokladá sa, že
+trombofília spolu s fyziologickými zmenami hemostázy prispieva k protrombotickému
+stavu počas tehotnosti a šestonedelia. Tak sa súčasne zvyšuje riziko vzniku trombotických
+a tehotenských komplikácií (Simcox, L., 2015a). Hemostatický systém relevantným
+spôsobom zasahuje do reprodukčného procesu (Wingeyer, P., 2018).
+Medzi riziká pre plod počas tehotenstva patria riziká preeklampsie, abrupcia placenty,
+obmedzenie rastu plodu (FGR), neskorý a opakujúci sa skorý potrat, vnútromaternicová
+smrť. Riziká sú inherentne vyššie u žien so získanou alebo dedičnou trombofíliou (Simcox,
+L., 2015b).
+Rozdelenie trombofilných stavov z hľadiska rizikovosti vzniku trombózy počas tehotnosti
+dokumentuje tabuľka 4. Výskyt vrodenej trombofílie pri komplikáciách v gravidite
+dokumentuje tabuľka 5.
+Tabuľka 4. Rozdelenie trombofilných stavov z hľadiska vzniku trombózy
+Trombofilný stav v tehotnosti
+vysoko rizikové
+
+v tehotnosti - deficit AT, APS
+v šestonedelí – deficit AT, PC, PS, APS
+
+menej rizikové
+
+mutácie FV Leiden, protrombínu 20210A a MTHFR, deficit PC
+a PS
+
+Tabuľka 5. Výskyt vrodenej trombofílie vo vzťahu ku komplikáciám v gravidite
+Komplikácia – výskyt vrodenej trombofílie (%)
+preeklampsia – 50%
+
+intrauterinná retardácia rastu plodu – 50%
+
+abrupcia placenty – 60%
+
+predčasný pôrod – 40%
+
+( Kubisz, P., a kol. 2010)
+
+22
+
+3 KAPITOLA
+
+3 GENETICKÉ PRÍČINY TROMBOFÍLIE
+Najbežnejšie genetické príčiny trombofílie sú dve mutácie v génoch kódujúcich koagulačný
+faktor V (FV) a protrombín. Obe mutácie súvisia so zvýšeným množstvom trombínu a sú
+hlavné rizikové faktory pre VTE. (Kovac, M., a kol..2010). My sa budeme venovať mutácii
+FV Leiden, ako najbežnejšie sa vyskytujúcej vrodenej trombofílie.
+3.1 Faktor V (FV).
+Faktor zrážania krvi V (FV) hrá pri zrážaní krvi rozhodujúcu úlohu (Thalji, N., 2013).
+Faktor V (FV) proakcelerín je polypeptid, ktorý je kódovaný chromozómom (1q24.2)
+a primárne je syntetizovaný v obličkách, môže byť produkovaný aj z megakaryocytov.
+Aktivovaný FV pôsobí ako kofaktor pre FXa. Taktiež je cieľovou bielkovinou pre komplex
+APC- PS pri inhibícii koagulačnej kaskády. Nie je enzymaticky aktívny na rozdiel od
+väčšiny ostatných koagulačných faktorov (Škorňová, I., a kol. 2020).
+Z hľadiska patofyziológie koagulačných reakcií zohráva FV kľúčovú úlohu tak v
+prokoagulačnej, ako aj v antikoagulačnej kaskáde procesov. V aktivovanej forme slúži ako
+kofaktor FXa v protrombinázovom komplexe, ktorý takto katalyzuje premenu protrombínu
+na trombín. V neaktívnej forme slúži FV ako kofaktor APC v regulácii aktivity FVIIIa. Táto
+dvojitá úloha umožňuje FV pri genetických a získaných defektoch ovplyvňovať
+manifestáciu týchto porúch do hemoragickej alebo trombotickej formy. Pre objasnenie tejto
+manifestácie je potrebné presne poznať prokoagulačnú a antikoagulačnú formu FV (Kovac,
+M. a kol..2010).
+Neaktivovaný FV má malú prokoagulačnú aktivitu, až do doby aktivácie malým množstvom
+trombínu alebo FXa prostredníctvom štiepenia v miestach Arg709, Arg1018 a Arg1545.
+Aktiváciou vzniknutá molekula FVa je heterodimér. Na rozdiel od FV aktivovaný FVa
+zvyšuje FXa aktivovanou premenou protrombínu v protrombinázovom komplexe. Môžeme
+predpokladať, že vyštiepená alosterická B-doména alostericky inhibuje väzbu FV v
+aktívnom mieste FXa. Aktivácia faktoru V (FV) na FVa prebieha štiepením a uvoľnením
+domény B. Potom proteín už nepomáha pri aktivácii proteínu C. Proteín je rozdelený na
+ťažký reťazec, ktorý sa skladá z domén A1-A2 a ľahký reťazec, ktorý sa skladá z domén A3C1-C2 (Škorňová, I., a kol. 2020).
+23
+
+3.2 Definícia Leidenskej mutácie faktoru V (FVL)
+Leidenská mutácia FV je autozomálne dominantná vrodená choroba, ktorá sa prejavuje
+zvýšenou zrážanlivosťou krvi. Príčinou je mutácia génu pre FV, čo je bielkovina v krvi
+spôsobujúca jej zrážanie. Mutáciou sa FV stane rezistentným na štiepenie proteínom C, ktorý
+zrážanie krvi za normálnych okolností reguluje. Následkom sú trombofilné stavy spojené s
+tvorbou krvných zrazenín (trombus), hlavne v žilách dolných končatín. Najväčším rizikom
+je vznik pľúcnej embólie, ktorá môže skončiť úmrtím (Vilímovský, M., 2014).
+APC rezistenciu spôsobenú FV Leiden po prvýkrát hlásili v roku 1993 Dahlbäck (Van Cott,
+E.M., et al. 2016).
+Pozadie a molekulárne základy rezistencie na FV Leiden a aktivovaného proteínu C (APC).
+Aktivovaný proteín C (APC) štiepi FVa a FVIIIa na konzervované zvyšky arginínu (R), aby
+inhiboval koaguláciu. Vo faktore Va (FVa) sú to pozície R306, R506 aj menej dôležitá
+pozícia R679. Molekulárnym základom FV Leiden je mutácia v géne pre faktor V (FV) na
+G1691A, ktorej výsledkom je zmena R506 na glutamín (R506Q). Táto zmena spomaľuje
+inaktiváciu FV a APC (Van Cott, E.M., et al. 2016a).
+Aktivovaný faktor V (FVa) je zrážací proteín, ktorý spolupracuje s aktivovaným faktorom
+X (FXa) na priamu premenu protrombínu na trombín. Špecifická mutantná forma tohto
+proteínu, faktor V Leiden (F5 c.1691G> A a p.Arg506Gln), je rezistentná na inaktiváciu, čo
+vedie k vyššiemu množstvu aktivovaného faktora V, väčšej tvorbe trombínu, teda k
+hyperkoagulačnému stavu (Davenport, W. B., at ol. 2014).
+FVL sa vyskytuje v dvoch genotypových formách. Heterozygotná forma je prítomná
+v oboch kópiách génu. V tejto forme sa hlavne vyskytuje u bežnej kaukazskej populácie
+(5%) a je menej častý, alebo veľmi zriedkavý u iných etnických skupín.
+Homozygotná forma je prítomná v jednej kópii génu. Pri tejto forme mutácie pre FV Leiden
+jej výskyt je nižší, v populácii asi 1 z 5 000 jedincov, ale má až 80-násobne riziko venóznej
+trombózy (Van Cott, E.M., et al., 2016).
+
+24
+
+3.3 Patofyziológia a výskyt FVL
+Nedostatočná antikoagulačná odpoveď plazmy na APC (APCR) je najčastejším rizikovým
+faktorom venóznej trombózy. Môže sa vyskytovať v prítomnosti mutácie FV Leiden (85 –
+95 %), ale aj pri jej absencii. Medzi príčiny tzv. získaného APCR fenotypu patrí užívanie
+hormonálnej antikoncepcie, tehotnosť, malignita a s nimi súvisiace zmeny hemostázy.
+Z príčin izolovane zvýšená aktivita FVIII, zvýšená hladina protrombínu pri mutácii FII
+G20210A, alebo z iných ( Stančiaková, L. a kol., 2017b).
+Pri Leidenskej mutácii môže táto choroba u niektorých viesť k veľmi ťažkým komplikáciám.
+U žien je tento stav vo všeobecnosti rizikovejší, pretože sú na tvorbu krvných zrazenín
+náchylnejšie. Najmä v tehotenstve a pri užívaní hormonálnej antikoncepcie. Priebeh
+tehotenstva u väčšiny žien s Leidenskou mutáciou je úplne normálny. Avšak riziko vzniku
+trombov je o niečo zvýšené (Vilímovský, M., 2014).
+FVL sa vyskytuje v dvoch genotypových formách. Heterozygotná forma je prítomná
+v oboch kópiách génu. V tejto forme sa hlavne vyskytuje u bežnej kaukazskej populácie
+(5%) a je menej častý, alebo veľmi zriedkavý u iných etnických skupín.
+Homozygotná forma je prítomná v jednej kópii génu. Pri tejto forme mutácie pre FV Leiden
+jeho výskyt je nižší, v populácii asi 1 z 5 000 jedincov (Van Cott, E.M., et al., 2016).
+Mutácia na pozícii 506R> Q, v ťažkom reťazci faktora V (FV) (FVLeiden), je častá u bielej
+populácie a spája sa s 5 až 8-násobne vyšším rizikom hlbokej žilovej trombózy u
+heterozygotov a 50-80-násobné riziko medzi homozygotmi ( Boncz, Z., 2012). Faktor
+V Leiden je veľmi zriedkavý v africkej a ázijskej populácii. Je slabším rizikovým faktorom
+trombózy. (Björk, I., 2019).
+Ďalšie mutácie v géne pre FV.
+Mutácia FVLiverpool (I359T) bol hlásený v rodine, v ktorej samotný FVLiverpool (I359T)
+nebol asymptomatický, ale FVLiverpool (I359T) s mutáciou na druhej alele FV (predčasný
+stop kodón) bol spájaný s nízkymi hladinami faktora V, rezistenciou na APC, a zvýšené
+trombotické riziko. FVCambridge (R306T) a FVHong Kong (R306G) sú zriedkavé mutácie,
+ktoré obidve vykazujú iba miernu rezistenciu na APC (Van Cott, E.M., et al. 2016).
+
+25
+
+4 KAPITOLA
+
+4 RIZIKÁ V TEHOTENSTVE PRI MUTÁCII FV LEIDEN
+Mutácia faktora V Leiden vykazuje vysokú prevalenciu k trombóze. Priebeh tehotenstva
+môžu komplikovať patológie, ktoré súvisia s hemostatickými poruchami.
+4.1 Vplyv faktora V Leiden na tehotenstvo
+Známe je, že tehotenstvo zahŕňa dôležité zmeny v hemostatickom systéme v smere, ktorý
+podporuje zrážanie. Hodnoty fibrinogénu, protrombínu, faktory FV, FVII, FVIII, FIX, FX a
+FXII sú zvýšené, zatiaľ čo dochádza ku poklesu koncentrácie antitrombínu (Corash, 1986).
+Aj keď zmeny sú fyziologické, môžu predisponovať k tromboembolizmu. Tehotenstvo je
+potom spojené s trombofíliou a tromboembolickým rizikom, ktoré sa výrazne
+zvyšuje. Priebeh tehotenstva môžu tiež komplikovať patológie súvisiace s hemostatickými
+poruchami. Mutácia faktora V Leiden vykazuje vysokú prevalenciu k trombóze v
+tehotenstve, ale aj v bežnej bielej populácii (Bertina a kol. , 1994; Rees a kol. , 1995), čím
+priťahuje záujem výskumníkov o preskúmanie jeho úlohy pri komplikáciách v tehotenstve.
+(Marshall, A.L., 2014).
+Kaskádu vnútornej a vonkajšej cesty tvorby trombov je znázornené na obrázku 2.
+
+Obrázok 2. Kaskáda tvorby trombov (Davenport, W. B., 2014)
+26
+
+Trombotické komplikácie ako dôsledok trombofilného stavu v tehotnosti a šestonedelí pri
+mutácii FV Leiden sú: venózny tromboembolizmus (VTE), opakovaná včasná a neskorá
+strata plodu, preeklampsia, intrauterinná rastová reštrikcia (IUGR), abrupcia placenty,
+mŕtvy plod (Pabinger, I., 2009). Presná etiológia týchto stavov zostáva neistá, aj keď sa berú
+do úvahy trombotické lézie v placentárnom obehu, ktoré môžu byť spoločnými znakmi rizík
+v tehotnosti ( Said. J., 2012).
+Na spomínané komplikácie pri mutácii FV Leiden sme uviedli vybrané štúdie, ktoré nás
+informovali o rizikách v tehotnosti, porovnali sme heterozygotnú formu mutácie
+s homozygotnou formou FV Leiden pri vybraných trombofilných stavoch. Do rizík sme
+zahrnuli aj systémový lupus erythematosus s vrodenými trombofíliami.
+4.2 FV Leiden a systémový lupus erythematosus (SLE).
+Riziká tromboembólie a opakované straty tehotenstva u pacientov s SLE neboli úplne
+objasnené. Genotypizácia polymorfizmov FV Leiden, FIIG20210A a MTHFRC677T sa
+uskutočňovala analýzou polymerázovej reťazovej reakcie a reštrikcie dĺžky fragmentu
+(PCR-RFLP). Neboli s ňou zistené žiadne významné rozdiely v prevalencii polymorfizmov
+FV Leiden, FIIG20210A a MTHFRC677T medzi pacientmi a kontrolami. Pacientky s FV
+Leiden mali menšiu pravdepodobnosť straty tehotenstva (0,50 ± 0,90 oproti 2,20 ± 1,60; p
+= 0,007) ako ostatné kontrolné a neboli pozorované žiadne významné rozdiely v
+reprodukčnej anamnéze nosičov FIIG20210A (p> 0,05) (Robeva, R., 2017).
+V skupine SLE malo 41,70% žien s genotypom MTHFRC677T TT najmenej jeden potrat,
+ale iba 14,00% v porovnaní s ostatnými pacientkami (p = 0,030). Keďže prevalencia
+skúmaných trombofílií bola u pacientov so SLE a zdravých žien podobná, odhalil sa
+podstatný vplyv vrodených protrombotických faktorov na reprodukčnú históriu pacientiek.
+Vyšetrovanie polymorfizmu FV Leiden a MTHFRC677T u pacientiek so SLE by mohlo
+pomôcť identifikovať ženy s najvyšším rizikom reprodukčnosti (Robeva, R., 2017).
+4.3 Faktor V Leiden a strata plodu
+Výsledok tehotenstva je vysoko ovplyvnený vývojom a funkciou placenty, ktorá závisí od
+krvného obehu matky a plodu. Trombofilná zložka pre nedostatok inhibítorov koagulácie
+zahŕňa tvorbu mikrotrombov v cievnom riečisku a placenty, ktorý vedie k nefunkčnosti
+placenty a tým ku komplikáciám tehotenstva (Fernández, A.,2019).
+
+27
+
+Trombofília môže mať za následok poškodenia cirkulácie cievneho systému matky a plodu
+a to infarktom maternice, ktorý je v skutočnosti charakterizovaný masívnym ukladaním
+fibrínu v decidua pod placentou. Táto skutočnosť bola spájaná s významnou morbiditou a
+mortalitou plodu (Naeye, 1985; Laurini a kol. 1994). Analýza ktorú uskutočnili (Pabinger,
+I., 2009),
+
+poukazuje na výsledky s včasnou opakovanou stratou plodu (OR = 2,0),
+
+neopakujúca sa strata plodu (OR = 1,7) a strata plodu po 19 týždňoch gravidity (OR = 3,0).
+V populácií žien, u ktorých mutácia faktora V Leiden je zriedkavá, alebo dokonca sa
+nevyskytuje, nebol ani jeden prípad identifikovaný ako rizikový faktor s opakujúcimi sa
+stratami plodu (Pabinger, I., 2009). Tieto údaje z metaanalýzy týkajúce sa straty tehotenstva
+a trombofílie ukazujú na zvýšený pomer šancí (OR) o približne dva alebo viac rizík pre
+opakovanú stratu plodu v nosičoch faktora V Leiden.
+4.4 Faktor V Leiden a placentárne komplikácie
+Placentou sprostredkovaná komplikácia je častá placentárna mikrovaskulárna a
+makrovaskulárna trombóza, ktorá sa prekrýva
+
+s tromboembolizmom a tehotenstvom.
+
+Placentárne infarkty sú častými znakmi patológie, ktorá je možná aj v súvislosti s faktorom
+V Leiden. ( Ormesher, L., 2017). Tehotenstvo s placentovou komplikáciou, má zvýšené
+riziko
+
+opakujúcich
+
+sa
+
+komplikácií
+
+sprostredkované
+
+placentou
+
+a venóznym
+
+tromboembolizmom aj počas nových tehotenstiev. (Rodger, M. A., 2014)
+Hemostatický systém sa javí ako dôležitý pre placentárnu funkciu. Placentou
+sprostredkované
+
+tehotenské
+
+komplikácie
+
+(PMPC),
+
+ktoré
+
+zahŕňajú
+
+preeklampsiu,
+
+obmedzenie rastu plodu (FGR), opakovaný a neskorý potrat a placentové abrupcie, sú
+spojené s protrombotickými mechanizmami ( Ormesher, L., 2017).
+4.5 Faktor V Leiden a preeklampsia
+Preeklampsia je komplikácia gravidity pri ktorej sú patologické zmeny v cievach, ktoré
+zásobujú placentu a ktoré vedú k nedostatočnému zásobovaniu plodu. Vyskytuje sa u 2-8%
+tehotných žien. Táto komplikácia je typická pre druhý a tretí trimester a primárne sa
+manifestuje hypertenziou a proteinúriou placenty (Sakalová, A., a kol., 2011).
+
+28
+
+Medzi ukazovateľmi poškodenia endotelu, zrážania krvi a fibrinolýzy, fibronektín vykazuje
+najvýznamnejšie zmeny vo vzťahu k preeklampsii ( Philipp, C.S., 2013). V metaanalýze
+prípadových kontrolných štúdií od Lin a Augusta bol FV Leiden spojený s ťažkou
+preeklampsiou (OR 2,20; 95% CI 1,30– 3,90). Veľká švédska kohortná štúdia uviedla, že
+nosiči Leidenskej mutácie neboli vystavení zvýšenému riziku závažnej preeklampsie. Ďalšie
+systematické prieskumy a metaanalýzy perspektívnej kohortnej štúdie od Rodgera a kol. z
+roku 2010 ukázala významné spojenie medzi FV Leiden a PTM a nešpecifickou
+preeklampsiu (FV Leiden OR 1,20, 95% CI 0,90– 1,70). Preskúmanie kohortných štúdií
+však vykonal Dudding a kol. z roku 2008, ktorý uviedol, že spojenie medzi FV Leiden
+a preeklampsiou je významné (OR 1,50; 95% CI 1,10– 1,90) (Hushan, E.O., 2019).
+4.6 Faktor V Leiden a obmedzenie rastu plodu
+Obmedzenie rastu plodu, prehodnotila spoločnosť Facco et al., ktorá uskutočnila
+metaanalýzy, ktoré našli celkovú asociáciu medzi FV Leiden a obmedzením rastu plodu
+(OR 1,20, 95% CI 1,00– 1,40) v štúdiách s vyššími odhadmi. Naopak, Hiltunen a kol. v
+štúdiách Finish case-control zistili, že FV Leiden je spojený s predčasným pôrodom
+(gestačný vek [GA] 32–36 týždňov) ( Lykke, J.A., 2012). Tieto štúdie nám ukazujú, že
+nielen v celkovej asociácii medzi FV Leiden a obmedzením rastu plodu ale aj gestačný vek
+v prítomnosti FV Leiden je spojený s predčasným pôrodom.
+4.7 Faktor V Leiden a venózny tromboemboembolizmus (VTE)
+Tehotenstvo je hyperkoagulačný stav, pravdepodobne určený na ochranu matky pred
+hemostatickými problémami pôrodu. Táto hyperkoagulabilita však zvyšuje riziko venóznej
+tromboembólie (VTE), ktorá je hlavná príčina smrti matiek, čiže tehotenstvo je tak získaný
+a nezávislý rizikový faktor pre rozvoj VTE (Gerhardt , A., 2016).
+Riziko pri asymptomatickej trombofílii je spojené s VTE v tehotenstve a zvyšuje sa s
+kombinovanými defektmi, ako medzi homozygotmi a takými defektami, ktoré sú spojené s
+pozitívnou rodinnou anamnézou VTE. Toto riziko sa preukázalo signifikantne relatívne
+vyššie u všetkých trombofílií ( Ormesher, L., 2017). Najvyššie absolútne riziko VTE je pri
+homozygotnej forme FVL 3,0% (OR 34,40, 95% CI 9,90–210,10). Naproti tomu Gerhardt
+a kol. uvádzali, že toto riziko ako vysoko rizikové trombofílie, vrátane deficitu antitrombínu
+a zložených heterozygotov pre FVL a protrombín G20210A sú významné riziká gestačného
+VTE (6,0–9,0, respektíve 5,5–8,0%), ktoré sa vyskytujú nezávisle od rodinnej anamnézy
+(Ormesher, L 2017).
+29
+
+VTE spojený s tehotenstvom,
+
+predstavuje asi 10% úmrtí matiek v rozvinutom svete
+
+(Marshall A.L., 2014). Nositelia mutácie Faktora V Leiden majú nižšiu schopnosť
+inaktivácie aktivovaných koagulačných faktorov V a VIII a tento stav vedie k
+zvýšenému celoživotnému riziku venóznej trombózy (Björk, I., 2019).
+4.8 Faktor V Leiden a mŕtvy pôrod
+Mŕtvy pôrod je traumatizujúci pre tehotnú ženu a jej rodinu. Považuje sa za ukazovateľ
+kvality prenatálnej starostlivosti . Súvisiace faktory matky k zvýšenému riziku narodenia
+mŕtveho dieťaťa sú vysoký vek matky, fajčenie, nadváha, nízky sociálny ekonomický stav
+a predchádzajúci pôrod mŕtveho dieťaťa. Hlavné príčiny pre mŕtvy pôrod sú aj infekcia,
+komplikácie pupočníka, vrodené vývojové chyby a preeklampsia (Björk, I., 2019).
+Riziko preeklampsie pri trombofilných stavoch u nosičiek homozygotnej a heterozygotnej
+formy mutácie poukazuje na významný štatistický rozdiel vo včasnom a neskorom rozvoji
+preeeklampsie (p = 0,03). Heterozygotná forma mutácie FV Leiden je signifikantne častejšia
+u pacientok s HELLP syndrómom v porovnaní so zdravými ženami (Stančiaková, L., a spol.
+2017a).
+Porovnanie rizika heterozygotnej a homozygotnej mutácie faktora V Leiden sme uviedli pri
+vybraných trombofilných stavoch. Prehľad rizík pri vybraných trombofilných stavoch
+dokumentuje tabuľka 6, tabuľka 7, tabuľka 8, tabuľka 9, tabuľka 10, tabuľka 11, tabuľka
+12.
+Tabuľka 6. Riziko VTE pri vybraných trombofilných stavoch u žien starších ako 35 r.
+Trombofilný stav
+
+Riziko vzniku VTE
+
+mutácia FV Leiden- homozygotná forma
+
+3,0%
+
+mutácia FV Leiden- heterozygotná forma
+
+0,7%
+
+Tabuľka 7. Riziko preeklampsie pri trombofilných stavoch
+Trombofilý stav
+
+Riziko vzniku preeklampsie (OR (95%CI))
+
+mutácia FV Leiden- heterozygotná forma
+
+2,20 (1,50-3,30)
+
+mutácia FV Leiden- homozygotná forma
+
+1,90 (0,40-7,90)
+
+30
+
+Tabuľka 8. Riziko včasnej straty plodu pri trombofilných stavoch
+Trombofilý stav
+
+Riziko straty plodu (OR (95%CI))
+
+mutácia FV Leiden
+
+1,90 (1,00-3,60
+
+Tabuľka 9. Riziko opakovanej straty plodu pri trombofilných stavoch v prvom trimestri
+tehotnosti.
+Trombofilý stav
+
+Riziko straty plodu (OR (95%CI))
+
+mutácia FV Leiden- heterozygotná forma
+
+1,70 (1,10-2,60)
+
+mutácia FV Leiden- homozygotná forma
+
+2,70 (1,30-5,60)
+
+Tabuľka 10. Riziko straty plodu v pokročilom štádiu tehotnosti pri trombofilných stavoch.
+Trombofilý stav
+
+Riziko straty plodu v pokročilom štádiu
+tehotnosti (OR (95%CI))
+
+mutácia FV Leiden- heterozygotná forma
+
+2,10 (1,10-3,90)
+
+mutácia FV Leiden- homozygotná forma
+
+1,100 (0,40-9,70)
+
+Tabuľka 11. Riziko abrupcie placenty pri trombofilných stavoch
+Trombofilý stav
+
+Riziko abrupcie placenty (OR (95%CI))
+
+mutácia FV Leiden- heterozygotná forma
+
+4,70 (1,10-19,60)
+
+mutácia FV Leiden- homozygotná forma
+
+8,40 (0,40-171,20)
+
+Tabuľka 12. Riziko rozvoja IUGR pri trombofilných stavoch
+Trombofilý stav
+
+Riziko rozvoja IUGR (OR (95%CI))
+
+mutácia FV Leiden- heterozygotná forma
+
+2,70 (0,60-12,10)
+
+mutácia FV Leiden- homozygotná forma
+
+4,60 (0,20-115,70)
+
+(Stančiaková, L., a spol. 2017a)
+Z uvedených rizík pri trombofilných stavoch je riziko pri homozygotnej mutácii FVLeiden
+vyššie ako pri heterozygotnej mutácii FVLeiden, kde je toto riziko nižšie.
+31
+
+Zdedené trombofílie sú genetické faktory pre nepriaznivé tehotenstvo. Najväčšie riziko je
+prítomné u nositeliek homozygotnej mutácie FV Leiden a FII 20210A. Riziko neskorej straty
+plodu je pri FV Leiden vyššie, ako riziko včasných strát. U žien s preeklampsiou sa vyskytuje
+mutácia FV Leiden 17 % ( Robeva, R., et al., 2017).
+Z vyššie uvedených skutočností sme zistili že, nevysvetliteľné intrauterinné úmrtia plodu
+môže byť príčinou mutácia FV Leiden. Pacientky s homozygotnou formou mutácie majú
+zvýšené riziko ako s heterozygotným variantom, avšak celkovo je tento vzťah relatívne málo
+významný (Stančiaková, L., a spol. 2017a)
+Predpokladá sa, že prítomnosť mutácie FV Leiden u plodu by mohol súvisieť s rozvojom
+závažnej preeklampsie, IUGR a abrupcie placenty. Vymenované trombofilné stavy by mohli
+spôsobiť skorší nástup alebo aj prispieť k neskoršiemu nástupu komplikácií s vyšším
+stupňom závažnosti (Stančiaková, L., a spol. 2017a).
+
+32
+
+5 KAPITOLA
+
+5 DIAGNOSTIKA TROMBOFILNÝCH STAVOV
+V praxi nie je k dispozícii jednoduchý screeningový vyhľadávací test, ktorý identifikuje
+prítomnosť niektorého z trombofilných stavov a umožňuje potom cielené zameranie sa na
+niektorý špeciálny test. Zvyčajne sa vyšetruje celý panel laboratórnych testov, veľakrát
+pomerne nákladných (Hirmerová, J.,2019).
+5.1 Testy na vyšetrenie trombofíliných stavov
+Skríningové testy
+•
+
+APTT, PT, ProC Global.
+
+•
+
+Genetické vyšetrenie
+
+•
+
+Špeciálne fotometrické, chromogénne a koagulačné metódy PC, PS,
+APC-R, AT III .
+
+•
+
+Metódy na stanovenie hladiny antigénu EIA- ELISA.
+
+Na odhalenie trombofílie vrodenej alebo získanej sme bližšie uviedli v laboratórnej
+diagnostike testy, ProC Global, PC, PS, LA, metódy na stanovenie hladiny antigénu EIAELISA bližšie nerozvádzame.
+5.2 Testy a princípy diagnostiky:
+APTT - Aktivovaný parciálny tromboplastínový čas, komplexný a vyhľadávací test, ktorý
+informuje o všetkých plazmatických faktoroch, zúčastňujúcich sa na vnútornej (intrinsic)
+a spoločnej (common) ceste aktivácie hemokoagulácie. Test je citlivejší na faktory vnútornej
+cesty (FVIII, FIX, FXI, FXII), ako na faktory spoločnej cesty aktivácie hemokoagulácie (FI,
+FII, FV, FX).
+Princíp stanovenia: Rekalcifikácia vyšetrovanej plazmy v prítomnosti parciálneho
+tromboplastínu, tkanivový fosfolipid ako náhrada doštičkového fakora 3, a aktivátora
+kontaktu (kaolín). Čas zrážania plazmy závisí od množstva plazmatických faktorov
+vnútornej a spoločnej cesty aktivácie hemokoagulácie ( Mrišková, J., 2012).
+PT - Tromboplastínový čas, je vyhľadávací a vylučovací, komplexný test, ktorý informuje
+o faktoroch premeny protrombínu na trombín o faktoroch protrombínového komplexu (FII,
+FV, FVII, FX) a fibrinogén (Sakálová, A., 2011).
+33
+
+Princíp stanovenia: V rovnakom pomere sa zmieša vyšetrovaná plazma, tromboplastín
+a CaCl2 a meria sa čas potrebný na vytvorenie prvých fibrínových vlákien ( Mrišková, J.,
+2012).
+Proteín C (PC)
+Dôležitým inhibítorom koagulácie je proteín C. Je aktivovaný komplexom trombín a
+trombomodulín, Spolu s proteínom S inhibuje faktory VIIIa a Va tým dáva hranicu
+pôsobenia vnútornej tenázy a protrombinázy v koagulačnej reakcii. V homozygotnej forme
+deficit PC sa prejaví v novorodeneckom veku a to ťažkou fulminantnou purpurou. Riziko
+prvej trombózy u heterozygotov je vyššie 7-10 násobne, pred dosiahnutím stredného veku.
+Jedinci majú s decifitom PC súčasne aj mutáciu FV Leiden, podmieňujúcu rezistenciu na
+aktivovaný PC až 20%. (Sakalová, A., a kol., 2011). Hladina PC sa počas gravidity nemení,
+ale u žien s vrodeným deficitom PC je gravidita riziková (Stančiaková, L., 2017a).
+Princíp stanovenia: Stanovenie proteínu C využíva pre aktiváciu proteínu C špecifického
+aktivátora, ktorým je serínová proteáza izolovaná a vyčistená z jedu hada druhu Agkistrodon
+contortrix. Rýchlo aktivuje ľudský a hovädzí proteín, pravdepodobne rovnakým
+mechanizmom ako trombín, bez toho aby zasahoval do iných koagulačných faktorov.
+Vytvorený APC môžeme merať pomocou chromogénnych substrátov alebo koagulačnými
+stanoveniami (Škorňová I., a kol. 2020 ).
+Proteín S (PS)
+Proteín S neenzymatický kofaktor aktivovaného PC, má aj vlastnú antikoagulačnú aktivitu,
+ktorá je nezávislá na PC. Dedičnosť defektu PS je podobná s decifitom PC, avšak až 40%
+rodín s decifitom PS má defekt kombinovaný s Leidenskou mutáciou. Riziko trombózy sa
+zvyšuje u heterozygotov 6 -10 krát (Sakalová, A., a kol., 2011).
+Princíp stanovenia:
+
+Metódou protrombínového času (PT), kedy kofaktorová aktivita
+
+proteínu S je obmedzená na degradáciu faktora Va závisle na APC (Škorňová I., a kol.
+2020).
+Antitrombín III
+Vyšetrenie je určené pre kvantitatívne stanovenie funkčnej aktivity antitrombínu III
+v plazme s využitím automatických analyzátorov na diagnostiku redukovanej syntézy alebo
+zvýšenej spotreby.
+34
+
+Princíp: Antitrombím III vo vzorke sa pomocou heparínu mení na akcieschopný inhibítor,
+ktorý inaktivuje prítomný trombín. Obsah zvyškového trombínu sa stanoví v kinetickom
+teste zmeraním zostupu absorbancie pri 405 nm ( Mrišková, J., 2012).
+Lupus antikoagulant (LA)
+Lupus antikoagulant (LA) sú vlastne imunoglobulíny triedy IgG, IgM, IgA, autoprotilátky
+tvoria heterogénnu skupinu. Sú namierené proti fosfolipidovým zložkám, ktoré sú naviazané
+na bielkovinách protrombínového komplexu koagulačnej kaskády. Prítomnosť LA sa
+považuje za jednu z najčastejších príčin náhodne zisteného predĺženého APTT, hlavne tam,
+kde nie sú prítomné prejavy krvácania (Sakalová, A., a kol., 2011).
+Princíp: Test PTT-LA je založený na meraní rekalcifikačného času plazmy v prítomnosti
+cefalínu a aktivátora. Prítomnosť LA v testovanej plazme predlžuje čas zrážania. Vhodnou
+senzibilizáciou reagencie sa dosahuje špecifické predĺženie času zrážania, úmerne obsahu
+LA v plazme ( Mrišková, J., 2012).
+ProC Global
+Stanovenie antikoagulačnej kapacity v systéme PC sa používa celkový skríningový test
+ProC Global. Odráža funkčnosť cesty PC, ktorú bezprostredne ovplyvňuje APC rezistencia
+veľmi často spojená s Leidenskou mutáciou faktora V (FV Leiden). Test je založený na
+meraní predĺženého APTT spôsobeného aktiváciou PC vo vzorke po pridaní hadieho jedu
+Protac (Agkistrodon contortree) ( Sakalová, A., a kol., 2011). LA v plazme ( Mrišková, J.,
+2012).
+Stanovenie FV Leiden:
+Genetické vyšetrenie
+Genetickým vyšetrením testujeme DNA, ktoré zahrňuje mutáciu FVL, mutáciu protrombínu
+20210A, MTHFR C 677T. Väčšina špecializovaných molekulárnych laboratórií v súčasnosti
+používa analýzu amplifikácie PCR, po ktorej nasleduje hybridizácia a sondy špecifické pre
+cieľ, čo umožňuje vysoko automatizovanú genotypizáciu v tomto mieste (Van Cott, E.M.,
+et al. 2016).
+
+35
+
+Polymerázová reťazová reakcia PCR
+Ide o biochemickú reakciu, enzymatickú amplifikáciu deoxyribonukleovej kyseliny (DNA)
+in vitro, kde dochádza k syntéze mnoho kópii vybranej sekvencie DNA v cyklickej reakcii
+pozostávajúcej z troch teplotných fáz:
+1. denaturácia
+2. hybridizácia
+3. syntéza chýbajúceho komplementárneho úseku DNA
+PCR začína tepelnou denaturáciou vzorku DNA na dva jednoduché reťazce pri teplote
+95° C. Reakcia je založená na schopnosti dvojvláknovej DNA denaturovať pri vysokej
+teplote a opätovne renaturovať po jej znížení pri zachovaní pravidla komplementarity báz.
+Ďalšia fáza spočíva v ochladení vzorky na 30 až 65° C. Pri tejto teplote dochádza k
+nasadnutiu primerov na komplementárne 3´ konce cieľovej DNA. Primery, štartéry sú
+základom pre syntézu nových vláken. Ide o synteticky pripravené jednovláknové
+oligonukleotidy, ktoré majú sekvenciu komplementárnu k sekvenciám na 3´ konci oboch
+vlákien rozmnožovaného úseku.
+Syntézu nových vlákien katalyzuje termostabilná DNA-polymeráza. Najčastejšie sa používa
+DNA-polymeráza, ktorá je izolovaná z baktérií Thermus aquaticus žijúcich horúcich
+prameňoch. Tato DNA-polymeráza je označovaná ako Taq-polymeráza a predlžuje vlákna
+DNA smerom od oboch primerov, v smere od 5´ konce ku 3´ konci pri optimálnej teplote
+72° C, a ostáva aktívna i po zahriatí na 95° C, potrebných k denaturácii. Aby bol dostatok
+substrátu pre syntézu nových vláken, je v PCR reakcii prítomné nadbytočné množstvo
+deoxynukleotidtrifosfátov. Po skončení syntézy oboch vláken dochádza opäť k zahriatiu na
+95°C, aby došlo k denaturácii novo vytvorených DNA duplexov a celý cyklus začína znovu.
+Reakcie sa prevádzajú v zariadení nazývanom termocykler. kde sa teplota mení automaticky
+v naprogramovaných časových intervaloch. Výsledok PCR reakcie sa dá detekovať
+elektroforézou na agarózovom alebo polyakrylamidovom géle, alebo kvantitatívnym
+zmeraním množstva produktu PCR napr. meranie fluorescencie (Bendík,J., 2003).
+
+36
+
+Stanovenia FV Leiden na prístroji Realist DX, Rotor- Gene 6000/Q
+Kit pre detekciu mutácie G1691A v géne pre faktor V pomocou kvantitatívnej PCR
+Popis kitu:
+Je určený na detekciu jednonukleotidovej zámeny G1691A (RS6025) v géne kódujúceho
+faktora V (Leidenská mutácia) na prístroji Realist DX a Rotor-Gene 6000/Q. Kit obsahuje
+všetky potrebné reagencie pre špecifickú amplifikáciu a priamu detekciu fragmentu DNA
+génu pre faktor V, ktorý nesie mutovanú alebo nemutovanú alelu. Každý kit obsahuje
+kontrolnú heterozygotnú vzorku pre overenie priebehu PCR reakcie.
+Princíp metódy:
+Kit pre detekciu jednonukleotidovej zámeny G1691A v géne pre faktor V je založený na
+kvantitatívnom PCR s využitím fluorescenčne značených sond. Detekcia prebieha
+v kanáloch „Green“, ktorý sníma fluorescenčnú značku FAM (nemutovaná alela) a
+„Yellow“, ktorý sníma značku HEX (mutovaná alela).
+Tabuľka 13. Reagencie - zloženie
+Reagencie
+Master Mix
+
+Zloženie
+PCR-H2O, pufr, dATPs, dCTPs, dGTPs, dTTPs,
+MgCl2, špecifické primery a sondy, polymeráza
+
+PCR-H2O
+
+Voda pre použitie v molekulárnej biológii
+
+Kontrolná heterozygotná vzorka
+
+DNA heterozygota pre Leidenskú mutáciu
+
+Skladovanie a expirácia kitu: Všetky časti kitu sa skladujú pri teplote -15° C až -25° C.
+Chráňte pred svetlom. Stabilita je do dátumu expirácie, ktorá je vyznačená na štítku krabičky
+a skúmaviek.
+Prístrojové vybavenie a materiál:
+Potrebný materiál a pomôcky, ktoré nie sú súčasťou kitu
+•
+
+jednorazové rukavice, automatické pipety, sterilné špičky s filtrom, -číre tenkostenné
+PCR-skúmavky o objeme 0,1ml
+
+37
+
+Potrebné prístrojové vybavenie:
+•
+
+laboratórna trepačka, atolná centrifúga, prístroj Realist DX alebo Rotor-Gene
+6000/Q, chladiaci bloček na 0,1ml-skúmavky
+
+Obecné zásady pri práci:
+Pre dosiahnutie optimálnych výsledkov je nevyhnutne potrebné dodržiavať nasledujúce
+pravidlá:
+•
+
+používanie sterilných špičiek s filtrom,
+
+•
+
+uchovávanie a izolácia pozitívnych materiálov (kontrolné templáty, DNA)
+v miestnosti k tomu určené a oddelené od prípravy samotnej PCR,
+
+•
+
+plynulá a rýchla práca, umiestnenie všetkých reagencií v stojanoch,
+
+•
+
+po rozmrazení Master Mixu/kontrolnej heterozigodnej vzorky sa neodporúča jej
+opakované použitie.
+
+Pracovný postup:
+Príprava DNA
+Pre analýzu odporúčame používať DNA v koncentrácii 20/30ng/mikroliter a s čistotou
+stanovenou spektrofotometricky pomerom A250/A280 je väčšie ako 1,6. Pre izoláciu DNA
+je odporučený izolačný kit Magic DNA Blood Kit, určený pre extrakciu DNA z periférnej
+krvi.
+Príprava PCR:
+1. Presvedčíme sa, že chladiaci bloček je vychladený na teplotu +4stupne.
+2. Rozmrazíme Master Mix a PCR-H2O pri +4C krátko premiešame a centrifúgujeme.
+Necháme rozmraziť vždy len zodpovedajúce množstvo skúmaviek.
+3. Vložte určený počet PCR-skúmaviek do chladiaceho bločku.
+4. Do pripravených skúmaviek pipetujeme 10 μl Master Mixu a 5 μl vzorky DNA, ku
+každej sade analyzovaných vzoriek zaraíme vždy negatívnu kontrolu a pozitívnu
+kontrolu.
+5. Skúmavky sa uzatvoríme viečkom a vložíme sa do rotora prístroja. Neobsadené
+pozície rotora sa zaplníme prázdnymi skúmavkami a rotor uzavrieme prstencom.
+
+38
+
+Spustí sa PCR testovanie na prístroji Realist DX, Rotor- Gene 6000/Q kde prebehne
+detekcia v kanáloch „Green“, ktorý sníma fluorescenčnú značku FAM (nemutovaná alela)
+a „Yellow“, ktorý sníma značku HEX (mutovaná alela). Na obrazovke analyzátora vidíme
+vyhodnotenie vzoriek (Institute of Applied Biotechnologiens, 2019).
+
+Obrázok 3. Príklady vyhodnotenia jednotlivých vzoriek (Institute of Applied
+Biotechnologiens, 2019).
+
+EIA - ELISA sú systémy, ktoré pracujú v reagenčne
+
+uzavretom
+
+systéme, sú to
+
+predovšetkým stroje, ktoré pracujú nie s mikrotitračnými doštičkami, ale s jednotlivými
+stripmy. Výhodou metód ELISA je dostatočná citlivosť, špecifickosť a reprodukovatelnosť
+(Bartúňková, J., a kol., 2011).
+
+39
+
+5.3 Laboratórna diagnostika trombofilných stavov.
+V laboratórnej diagnostike trombofilných stavov sme uviedli skríningové testy, z nich sme
+sa venovali testom APC-R, Pro C Global, test proteínu S (PS) a LA, ktoré sa vyšetrujú
+najčastejšie pri diagnostike vrodených a získaných porúch na odhalenie trombofílie. Väčšina
+používaných koagulačných testov je založená na meraní času, ktorý je potrebný k vytvoreniu
+fibrínového vlákna po pridaní reagencií do plazmy na testovanie.
+Vyšetrenie rezistencie proteínu C (APC-R)
+Základné stanovenie APC rezistencia predstavuje aktivovaný parciálny tromboplastínový
+test (APTT) vykonaný s a bez pridania exogénneho aktivovaného proteínu C (APC).
+U zdravých jedincov APC inaktivuje FVa, FVIIIa a takto predlžuje meranie APTT času. Na
+rozdiel od pacientov s mutácou FV Leiden, kde nedochádza v dôsledku chýbajúceho
+štiepeného miesta k inaktivácii v takom rozsahu a APTT sa nepredlžuje. Výsledný pomer
+APTT času s a bez APC je u vyšetrovaných nad 2,1 a naopak nosiči Leidenskej mutácie
+majú typický pomer pod 2,1, hoci môže medzi oboma súbormi existovať určitý prekryv
+(Škorňová, I., a kol. 2020).
+Najmä je zaujímavý stav, kedy APTT pomer je pod 2,1 a nie je prítomná mutácia FV Leiden.
+Tento stav je popisovaný ako získaná APC rezistencia. Vzniká v dôsledku zvýšených hladín
+FVIII a FV, čo je typické pre tehotné ženy. Alternatívnou metódou stanovenie APC
+rezistencie je metóda na báze protrombínového aktivátora. Princíp metódy spočíva v
+inkubácii s FV aktivátorom z hadieho jedu Daboia russelli a následnej iniciácii koagulačná
+reakcia, s FV dependentným protrombínovým aktivátorom z hadieho jedu Notechis scutatus
+s a bez prítomnosti APC. Táto metóda je špecifickejšia pri jednotlivých mutačných stavoch
+FV Leiden (homozygot, heterozygot) a tiež u negatívnych vzoriek (Škorňová, I., a kol.
+2020).
+Indikácie vyšetrenia. Najčastejšie indikácie vyšetrenia u pacientov na prítomnosť
+trombofílie dokumentuje tabuľka 14.
+
+40
+
+Tabuľka 14. Indikácie vyšetrenia na prítomnosť trombofílie
+Pacient
+
+s prekonanou neprovokovanou alebo rekurentnou VTE,
+
+Pacient
+
+s prekonanou VTE v neobvyklej lokalizácii
+
+Pacient
+
+pozitívnou rodinnou anamnézou výskytu VTE do 45 rokov,
+
+Pacient
+
+s opakujúcimi sa abortami alebo tehotenskými komplikáciami,
+
+Pacient
+
+s anamnézou arteriálnej trombózy u mladšieho pacienta (<50 rokov),
+
+Pacient s anamnézou arteriálnej trombózy u pacientov bez ďalších rizikových faktorov
+(Škorňová I., a kol. 2020).
+Vyššiu špecificitu pre stanovenie mutácie FV Leiden možno dosiahnuť modifikáciou
+metódy.
+Modifikácia spočíva v predriedení vzorky pacienta s FV deficitnou plazmou v pomere 1:5.
+Prítomnosť FV deficitnej plazmy nám poskytuje štandardný obsah všetkých ostatných
+faktorov a takto minimalizuje možnosť interferencie pri meraní APTT testu vrátane vplyvu
+vysokej hladiny F VIII, ktorý APTT výrazne skracuje. Takto sa podarilo citlivosť a
+špecifickosť funkčného testu k prítomnosti Leidenskej mutácie dostať takmer až k 100%.
+Táto modifikácia umožňuje vykonávať stanovenie aj u pacientov liečených orálnymi
+antikoagulanciami (Škorňová I., a kol. 2020).
+Porovnanie pomeru APC získaných z klasického testu rezistencie na APC s pomerom APCV získanými z modifikovanej metódy.
+Obe tieto metódy sa vzájomne dopĺňajú. Pôvodná metóda detekuje jedinca náchylného
+k trombóze s rezistenciou na APC v dôsledku mutácie FV(Q 506) neznámych mutácií alebo
+získaných faktorov a naznačuje závažnosť ich hyperkoagulačného stavu. Modifikovaná
+metóda poskytuje vysokú rozlišovaciu schopnosť pre mutáciu faktora V (Q 506) a umožňuje
+analýzu plazmy od pacientov pri perorálnej antikoagulačnej alebo heparínovej terapii.
+
+41
+
+Klasická metóda a modifikovaná metóda je znázornená na obrázku 3. (Škorňová I., a kol.
+2020).
+
+Obrázok 4. Klasická metóda, Modifikovaná metóda (Škorňová, I., a kol. 2020).
+Použitie predriedenia s FV deficitnou plazmou silne znižuje vplyv preanalytických variácií,
+hoci nemožno vylúčiť, že analýza plazmy od pacientov s antifosfolipidovými protilátkami
+môže viesť k abnormálnemu výsledku APTT. V takýchto prípadoch môže zvýšenie
+koeficientu zriedenia zlepšiť výsledok stanovenia (napr. 1 + 9 alebo 1 + 19). Súčasne je
+potrebné vziať do úvahy, že riedenie vzorky eliminuje detekciu získanú APC rezistencie v
+dôsledku vysokých hladín FV a FVIII (Škorňová I., a kol. 2020).
+Test na vyšetrenie Pro C Global
+Princíp:
+Inkubáciou plazmy s aktivátorom proteínu C (jed z Agkistrodon contortrix) a aktivátorom
+kontaktu sa prejavuje endogénny proteín C (PC) a vnútorná cesta koagulácie. Po pridaní
+Ca 2+ zaznamenávame čas do vzniku fibrínového vlákna. Aktivovaný proteín C spolu so
+svojim kofaktorom Proteínom S (PS) inhibuje faktory Va a VIIIa.
+
+42
+
+Diagnostický význam:
+Test na vyhľadávanie trombofilných stavov. Test antikoagulačnej kapacity systému Proteínu
+C s použitím Pro C Global slúži na identifikáciu osôb so zníženým antikoagulačným
+potenciálom systému proteínu C, získané a vrodené stavy deficiencie proteínu C a S, Faktor
+V Leiden, autoprotilátky atď. Ak vzorky testujeme za prítomnosti plazmy deficientnej na
+koagulačný faktor V, je možné špecificky stanoviť Faktor V Leiden (ProC Global/FV.
+Reagencie:
+APTT- reagens pre Pro C Global (Behringwerke) obsahuje siliciumdioxid, rastlinné
+fosfolipidy, natriumchlorid, HEPES, natriumazid
+Aktivátor reagenz pre ProC Global (Behringwerke) obsahuje extrakt z jedu Agkistrodon
+contortrix, HEPEDES, neutralizátor heparínu hexadimethtrinbromid pH 7,4
+Pufer
+
+pre
+
+ProC
+
+Global
+
+(Behringwerke
+
+obsahuje
+
+HEPES,heparínneutralizátor-
+
+hexadimethribromid pH 7,4, konzervačné látky
+Príprava reagencií:
+Reagenciu APTT pred použitím krátko premiešame vytemperujeme na izbovú teplotu (+15
+až 25℃).
+Aktivátor rozpustíme v 2 ml destilovanej vody a inkubujeme cca 5 min. pri teplote +15 až
+25℃ za občasného premiešania.
+Pufor po dosiahnutí +15 až 25℃ je použiteľný ihneď.
+Roztok chloridu vápenatého s koncentráciou 0,025 mol/l vytemperujeme na teplotu +37℃,
+pred použitím opatrne premiešame (nie je súčasťou setu).
+Stabilita a stabilita testovacej súpravy:
+Nepoužitý set skladujeme pri +2 až +8℃, je použiteľný do expirácie vyznačenej na štítku.
+
+43
+
+Tabuľka 15. Stabilita setu po otvorení.
+Teplota
+
+Reagent aPTT
+
+Aktivátor
+
+Buffer
+
++15 - +25℃
+
+24 hodín
+
+24 hodín
+
+24 hodín
+
++15℃ 1)
+
+2 dni
+
+2 dni
+
+2 dni
+
++2 - +8℃ 2)
+
+2 týždne
+
+2 týždne
+
+2 týždne
+
+-20 ℃ 2),3)
+
+-
+
+4 týždne
+
+4 týždne
+
+1) Otvorená fľaštička 2) uzavretá fľaštička
+
+3) zmraziť len raz
+
+Pracovné pomôcky a prístroje:
+•
+
+Koagulometer XT 1500
+
+•
+
+Centrifúga Eppendorf 5416
+
+Vyšetrovaný materiál:
+Odobratá venózna krv v citráte sodnom 0,11 mol/l v pomere 1 : 10, premiešaná bez
+vytvorenia peny. Centrifugácia vzorky 10 min. pri 1500G (3000ot/min).
+Je potrebné zabezpečiť, aby vo vyšetrovanej vzorke nezostali trombocyty. Ak je potrebné
+vzorku zamraziť, tak vzorku ešte raz scentrifugujeme a rýchlo supernatant zmrazíme
+v plastovej uzavretej nádobke. Stabilita vzorky pri +15 až +25℃ je 4 hodiny. Vzorka po
+rozmrazení sa musí vyšetriť do 2 hodín.
+Tabuľka 16. Pracovný postup
+ProC Global
+
+ProC Global/FV
+
+PCAT
+
+PCAT/0
+
+PCAT
+
+PCAT/0
+
+vzorka
+
+50 μl
+
+50 μl
+
+50 μl
+
+50 μl
+
+Aktivátor reagent
+
+50 μl
+
+_
+
+50 μl
+
+_
+
+aPTT
+
+50 μl
+
+50 μl
+
+50 μl
+
+50 μl
+
+Deficientná plazma FV
+
+_
+
+_
+
+1+4
+
+1+4
+
+pufor
+
+_
+
+50 μl
+
+_
+
+50 μl
+
+inkubácia
+
+180 sekúnd
+
+180 sekúnd
+
+180 sekúnd
+
+180 sekúnd
+
+Calcium chlorid 0,025M
+
+50 μl
+
+50 μl
+
+50 μl
+
+50 μl
+
+44
+
+Výpočet:
+Výsledok udáva analyzátor v sekundách. Hodnoty dosadíme do vzorca a získame
+normalizovaný pomer – NR.
+NR =
+
+KF =
+
+𝑃𝐶𝐴𝑇 𝑣𝑧𝑜𝑟𝑘𝑦
+𝑃𝐶𝐴𝑇
+0 𝑣𝑧𝑜𝑟𝑘𝑦
+
+x KF
+
+𝑆𝑊
+𝑃𝐶𝐴𝑇 𝑆𝐻𝑃
+𝑃𝐶𝐴𝑇
+0 𝑆𝐻𝑃
+
+PCAT – je čas zrážania závislý od proteínu C vyšetrovanej vzorky
+PCAT/0 je čas zrážania závislý od proteínu C bez pridania aktivátora
+SW – index senzitivity, udáva firma pre SHP
+SHP- štandardná humánna plazma
+KF- kalibračný faktor, jeho výpočet sa robí 1x mesačne, alebo pri každej zmene šarže setu.
+Referenčné hodnoty:
+Pro C Global
+
+Pro C Global/FV
+
+PCAT
+
+85- 200 sekúnd
+
+128 – 173 sekúnd
+
+PCAT/ 0
+
+35 – 55 sekúnd
+
+68 – 91 sekúnd
+
+NR
+
+0,69 – 1,56
+
+0,86 – 1,10
+
+Zdroje chýb:
+Predčasnou aktiváciou plazmy, v dôsledku nesprávneho odberu (napr. traumatický odber),
+môžeme namerať falošné hodnoty PCAT/0.
+Ak pri zmrazených vzorkách neboli dostatočne odstránené bunkové zložky krvi, môžeme
+získať falošne nízke hodnoty NR. Pri vyhodnocovaní vyšetrovaných vzoriek pomocou NR,
+sa môžu použiť iba vzorky, ktoré majú hodnotu PCAT/0 menej ako 60 sekúnd. Predĺžené
+hodnoty PCAT/0 môžu byť spôsobené LA. Test je ovplyvnený u pacientov kumarínovými
+preparátmi, heparínovou liečbou nad 0,8 U/ml a antifibrinolytickou liečbou. Vysoké
+hodnoty FV, F VIII a fibrinogénu môžu ovplyvňovať znížené hodnoty NR.
+45
+
+Kontrola kvality hodnôt, musí sa určiť:
+Meranie Kontroll Plazma N a Pro C Kontroll Plasma (Behringwerke). Avšak v prípade, že
+meranie kontrolnej plazmy neleží v rozmedzí definovaných hodnôt, musí sa stanoviť nová
+hodnota kalibračného faktora (KF) (Siemens, Healthcare 2021).
+Test na vyšetrenie proteínu C (PC)
+Princíp:
+Proteín C sa vo vyšetrovanom materiály aktivuje špecifickým aktivátorom (hadí jed
+z Agkistrodom controtrix). Tatko aktivovaný proteín C reaguje s chromogénnym
+substrátom, čoho výsledkom je farebný komplex. Intenzita farebného komplexu je priamo
+úmerná aktivite proteínu C pri vlnovej dĺžke 405nm.
+Diagnostický význam:
+Test sa používa na vrodené a získané defekty proteínu C, pri poruchách pečene, pri orálnych
+antikoagulanciách, orálnyh kontraceptív a na diagnostiku trombofílnych stavov.
+Reagencie:
+Proteín C aktivátor-lyofilizát (Behringwerke) extrakt z jedu Agkistrodon contortrix,
+stabilizátory. HEPES-pufor (Behringwerke) HEPES, polyetylénglykol, césiumchlorid, pH
+8,25, konzervačná látka-natriumazid, Substrakt Reagenz-lyofilizát (Behringwerke) pyroglytamínová kyselina-prolin-arginínmethoxy-nitroanilid.
+Príprava reagencií:
+Proteín C aktivátor-lyofilizát rozpustíme vo 10 ml HEPES pufru a inkubácia 15 min pri
+37°C. Substrát Reagenz-lyofilizát rozpustíme v 3ml destilovanej vody a inkubácia 15 min
+pri 37°C.
+Stabilita a skladovanie:
+Zatrvorený set sa skladuje pri +2°C až +8°C a môžeme ho použiť až do doby expirácie, ktorá
+je vyznačená na etikete.
+
+46
+
+Tabuľka 17. Stability Proteín C aktivátor, Substrát reagent, Pufor
+
+Teplota
+
+Stabilita
+
+Stabilita
+
+Stabilita
+
+Proteín C aktivátor
+
+Substrát reagent
+
+Pufor
+
++37°C
+
+8 hodín
+
+1 týždeň
+
+-
+
++2°C až +8°C
+
+2 týždne
+
+6 týždňov
+
+6 mesiacov
+
+-20°C
+
+4 týždne
+
+6 mesiacov
+
+-
+
+Pracovné pomôcky a prístroje:
+•
+
+Koagulometer BCT
+
+•
+
+Centrifuga Eppendorf 5416
+
+Vyšetrovaný materiál:
+Venózna krv odobratá do 0,11 mol/l citrátu sódneho v pomere 1:10. Premiešať bez
+vytvorenie peny. Vzorku centrifugujeme 10 min pri 1500G (3000 otáčok/min)
+Stabilita vyšetrovaného materiálu
+-20C
+
+1 mesiac
+
++15C až +25C
+
+8hod
+
+Zmrazenú vzorku rozmrazovať 10 min pri + 37C a vyšetriť do 8 hodín.
+Pracovný postup:
+Vzorka
+
+15 μl
+
+Proteín C aktivátor
+
+150 μl
+
+Inkubácia
+
+300 sec
+
+Substrát Reagenz
+
+30 μl
+
+Výpočet:
+Analyzátor udáva výsledok v mOD/min a v %, ktoré vypočíta z kalibračnej krivky.
+Referenčné hodnoty:
+
+70 až 140%
+47
+
+Zdroje chýb:
+Pacienti liečený aprotinínom-môžeme získať falošné nízke hodnoty proteínu C.
+Kontrola kvality:
+Meranie kontrolnej plazmy Kontroll plasma N, Behringwerke, štandardnej plazmy Standard
+Human Plasma, Behringwerke, pre patologický rozsah kontrolu meranie s Kontrol Plasma
+P (Behringwerke). Kalibráciu si robí analizátor zo štandardnej plazmy Standard Human
+Plasma (Behringwerke) vždy pri použití novej šarže setu, pri systematickej odchýlke hodnôt
+kontrolných plaziem (Siemens, Healthcare 2010a).
+Test na vyšetrenie proteínu S (PS)
+Princíp:
+Aktivovaný
+
+proteín
+
+C
+
+(proteín
+
+Ca)
+
+proteolyticky
+
+štiepy
+
+aktívny
+
+faktor
+
+Va.
+
+Proteín S spolupôsobí ako kofaktor proteínu C a urýchľuje reakciu. Od aktivity
+a koncentrácie proteínu S závisí čas do vzniku vytvorenia koagula. Deficientnou plazmou
+S zabezpečíme dodanie všetkých faktorov v nadbytku (fibrinogén, faktor V). Koagulácia sa
+zastaví na úrovni faktora Xa, ktorý zabezpečí štiepenie nadbytku faktora V na aktívny faktor
+Va a následne premenu protrombínu na trombín.
+Diagnostický význam:
+Test sa používa na vrodené a získané defekty proteínu S, pri poruchách pečene
+a trombofílnych stavoch.
+Reagencie:
+Deficientná plazma proteínu S-lyofilizát (Behringwerke) ľudská citrátová plazma
+s nemerateľnými hodnotami voľného aj viazaného proteínu S. Proteín Ca reagenz-lyofilizát
+(Behringwerke) aktivovaný ľudský proteín C s pridaním calciumchloridu a mannit
+konzervačné látky. Proteín S-Start reagenz-lyofilizát (Behringwerke) aktivátor z jedu
+Russelovej zmije (Vipera Russeli), fosfolipidy, chromogénny peptidový substrát pre
+trombín, natriumchlorid, HEPES, mannit a natriumazid ako konzervačné činidlo.
+
+48
+
+Príprava reagencií:
+Deficientná plazma proteínu S-lyofilizát rozpustíme v 1ml destilovanej vody, inkubujeme
+15 min pri +15°C až +25°C. Proteín Ca Reagenz-lyofilizát rozpustíme v 2 ml destilovanej
+vody, necháme inkubovať 15 min pri teplote +15°C až +25°C. Proteín S Startreagenzlyofilizát rozpustíme v 5ml destilovanej vody, inkubojeme 1hod pri 37°C.
+Stabilita a skladovanie:
+Zatvorený set možno použiť do doby expirácie vyznačenej na etikete. Skladujeme pri +2°C
+až +8°C.
+Tabuľka 18. Stability deficientná plazma PS, proteín Ca reagent, PS štartovací reagent
+
+Teplota
+
+Stabilita
+
+Stabilita
+
+Stabilita
+
+Deficientná plazma PS
+
+proteín Ca reagent
+
+PS štartovací reagent
+
+-
+
+-
+
++37°C
++15°C až +25°C
+
+8 hodín
+
++2°C až +8°C
+-20°C
+
+2 mesiace
+
+4 hodiny
+
+8 hodín
+
+8 hodín
+
+2 dni
+
+2 dni
+
+2 mesiace
+
+2 mesiace
+
+Pracovné pomôcky a prístroje:
+•
+
+Koagulometer BCT
+
+•
+
+Centrifuga Eppendorf 5416
+
+Vyšetrovaný materiál:
+Venózna krv odobratá do citrátu sodného 0,11 mol/l v pomere 1:10, premiešame bez
+vytvorenie peny. Centrifugácia vzorky 15 min pri 1500G (3000 otáčok/min). Je dôležité
+nanapipetovať leukocity aj trobocity pri odpipetovávaní beztrmbocilovej plazmy. Vzorku
+uskladníme v uzatvorenej plastovej skúmavke. Stabilita vyšetrovaného materiálu pri +15 až
+25°C je 4 hod, pri -20°C 1 mesiac. Po rozmrazení (37°C/10min) je nutné vzorku vyšetriť do
+2 hod.
+49
+
+Pracovný postup:
+Vzorka
+
+30 μl
+
+Deficientná plazma PS+pufor
+
+1+5 dielov
+
+Proteín Ca Reagenz
+
+50 μl
+
+Inkubácia
+
+15sec
+
+Proteín S Startreagenz
+
+125 μl
+
+Výpočet:
+Analyzátor udáva výsledok v sekundách a v percentách, ktoré vypočíta z kalibračnej krivky.
+Refernčné hodnoty:
+
+70 – 123 %
+
+Zdroje chýb:
+Precíznosť testu spočíva predovšetkým s dostatočnou centrifugáciou. Pri zmrazení vzorky
+je potrebné vzorku opakovane scentrifugovať, aby nedošlo k uvoľneniu leukocytov
+a trombocytov do plazmy, čo by viedlo k falošne zníženým hodnotám proteínu S. Aj
+prítomnosť mutácie faktora V môže viesť k falošne nízkym hodnotám proteínu S.
+Kontrola kvality:
+Meranie kontrolnej plazmy Kontroll- Plasma N, Standatr Human Plasma(Behringwerke)
+súčasne s vyšetrovaným materiálom, patologický rozsah kontrolujeme s Kontroll- Plasma P
+(Behringwerke). Analyzátor robí kalibračnú krivku zo štandardnej plazmy Standard
+Humanum Plasma (Behringwerke). Pri zmene šarže setu pri systematických odchýlkach
+hodnôt kontrolných plaziem (Siemens, Healthcare 2014b).
+5.4 Klinický význam a interpretácia vyšetrenia
+Klinické prejavy dedičných heterozygotných proteínových defektov zahŕňajúce antitrombín,
+proteín C, proteín S a faktor V (rezistencia na APC) sú dosť podobné. Mutácie ovplyvňujúce
+kvalitatívne alebo kvantitatívne funkcie týchto proteínov často vedú k žilovému
+tromboembolizmu v mladom veku (do veku 45 rokov) a nasleduje tendencia k opakujúcim
+sa trombotickým epizódam. Najbežnejším prejavom rezistencie na APC je hlboká žilová
+trombóza (DVT) dolných končatín s pľúcnou embóliou, alebo bez nej. Čo predstavuje asi
+90% všetkých trombotických epizód (Škorňová, I., a kol. 2020e).
+
+50
+
+Tieto doporučené súbory laboratórnych vyšetrení pri podozrení na trombofilný stav , by mali
+pomôcť predísť vzniku tromboembolických komplikácií u tehotných žien.
+Testy na vyšetrenie LA1 a LA2
+Princíp:
+Hadí jed, z Vipera Russeli, v prítomnosti fosfolipidov a kalciových iónov priamo aktivuje
+faktor FX a FV. Týmto mechanizmom sa aktivuje spoločná cesta koagulácie. Prítomnosť
+lupusu antikoagulantu vo vzorke spôsobuje predĺženie času merania koagulácie v dôsledku
+blokácie fosfolipidov. V tomto prípade vzorku postupujeme na ďalšie vyšetrenie testom
+LA2, ktoré obsahuje prebytok fosfolipidov. Tento prebytok slúži k neutralizácii protilátok
+proti fosfolipidom prítomných vo vyšetrovanej vzorke.
+Diagnostický význam:
+Pri trombofilných stavoch, trombocytopéniách, opakované aborty.
+Reagencie:
+LA1 Reagenz-lyofilizát (Behringwerke), jed z Vipera Russelii, fosfolipidy, neutralizátor
+heparínu, hexadimethrinbromid, kalcium, pufer, stabilizátory, zelená farbička, natriumazid
+LA2 Reagenz- lyofilizát (Behringwerke) jed z Vipera Russeli, fosfolipidy, neutralizátor
+heparínu, hexadimethrinbromid, kalcium, pufer, stabilizátory, zelená farbička, natriumazid
+Príprava reagencií:
+LA1 Reagenz rozpustíme v 2 ml destil. vody, necháme inkubovať 5 minút pri teplote +15°C
+LA2 Reagenz rozpustíme v 1 ml destil. vody, necháme inkubovať 5 minút pri teplote +15°C
+Stabilita a skladovanie:
+Neotvorený set skladujeme pri teplote +2 až +8°C môžeme ho použiť až do doby expirácie
+vyznačenej na etikete setu.
+
+51
+
+Tabuľka 19. Po rekonštitúcii LA1, LA2
+Teplota
+
+LA1
+
+LA2
+
++37°C
+
+8 hodín
+
+8 hodín
+
++15°C
+
+2 dni
+
+2 dni
+
++2°C až +8°C
+
+7 dní
+
+7 dní
+
+-20°C
+
+4 týždne
+
+4 týždne
+
+Po rekonštrukcii reagencie sa môžu len 1 krát zamraziť.
+Pracovné pomôcky:
+•
+
+Koagulometer BCT
+
+•
+
+Centrifúga Eppendorf 5416
+
+Vyšetrovaný materiál:
+Odobratá venózna krv do citrátu sodného 0,11 mol/l v pomere 1:10. Premiešame bez
+vytvorenia peny. Centrifugácia vzorky 15 min. pri 1500G ( 3000 otáčok/min.). Vzorku
+vyšetrujeme ihneď. Trombocyty nesmú presahovať 20x109/l, vzorka sa musí ešte raz
+scentrifugovať a prefiltrovať(platí aj pre zmrazenú vzorku).
+Stabilita vyšetrovaného materiálu:
+-20 C
+
+1 mesiac
+
++2 a +8 C
+
+4 hodiny
+
++15 až +25 C
+
+4 hodiny
+
+Materiál ktorý bol zamrazený inkubácia 10 minút pri 37C a vyšetríme do 2 hodín po
+rozmrazení.
+Pracovný postup:
+Vzorka
+
+100 μl
+
+Inkubácia
+
+60 sek.
+
+LA1/ LA2
+
+100 μl
+
+52
+
+Výpočet: Analyzátor udáva výsledok testu v sekundách a v Ratio.
+Ratio =
+
+𝐿𝐴1
+𝐿𝐴2
+
+Referenčné hodnoty:
+LA1
+
+45 sekúnd
+
+LA2
+
+38 sekúnd
+
+Ratio
+
+1,3
+
+Pre LA1 ak je čas dlhší než referenčná hodnota, pristupujeme ku konfirmačnému testu LA2.
+Pre LA2 ak je čas kratší ako LA1 predpokladáme prítomné protilátky typu lupus
+antikoagulant.
+Ratio 2
+
+ťažký stupeň lupus antikoagulant
+
+Ratio 1,5 - 2
+
+stredný stupeň lupus antikoagulant
+
+Ratio 1,5 - 1,3
+
+ľahký stupeň lupus antikoagulant
+
+Zdroje chýb:
+Nedostatočným odstredením Tr z plazmy môžeme získať kratšie časy a antikoagulanciá
+(heparín, hirudin) falošne predlžujú časy, pretože bránia formácii trombínu. Sérum ikterické,
+lipemické, hemolytické môže ovplyvniť výsledok testu na fotooptických prístrojoch, zvoliť
+inú vlnovú dĺžku merania.
+Ratio môže byť vyššie ako 1,3, čo môže byť ovplyvnené nedostatkom faktorov FII,FV,FX
+alebo liečbou orálnymi antikoagulanciami. V týchto prípadoch je potrebné urobiť zmesné
+testy vyšetrovanej vzorky s kontrolnou plazmou Kontroll Plasma N v pomere 1:1. Ak
+nastane korekcia ide o deficit z faktorov (FII,FV,FX) alebo orálnu antikoagulačnú liečbu.
+V prípade extrémne veľkého deficitu niektorého z faktorov sa nemusia časy úplne
+znormalizovať.
+
+53
+
+Kontrola kvality:
+Meranie kontrolnej plazmy Kontroll Plasma N (Behringwerke) pred začiatkom merania
+vyšetrovaného materiálu. Meranie patologického rozsahu, zabezpečíme vzorkou od pacienta
+s diagnostikovaným LA (Siemens, Healthcare 2011c).
+Klinický význam:
+Lupus antikoagulant (LA) sú vlastne imunoglobulíny triedy IgG, IgM, IgA, autoprotilátky
+tvoria heterogénnu skupinu. Sú namierené proti fosfolipidovým zložkám, ktoré sú naviazané
+na bielkovinách protrombínového komplexu koagulačnej kaskády. Prítomnosť LA sa
+považuje za jednu z najčastejších príčin náhodne zisteného predĺženého APTT, hlavne tam,
+kde nie sú prítomné prejavy krvácania (Sakalová, A., a kol., 2011).
+
+54
+
+LIEČBA
+Protrombotický stav môže viesť k poruchám utero-placentárneho obehu, ktoré majú za
+následok infarkt a placentárnu nedostatočnosť. Táto skutočnosť vedie k strate plodu a ďalším
+tehotenským komplikáciám. Tieto riziká viedli k hodnoteniu trombofílie a následnému
+antikoagulačnému liečeniu, aby sa zabránilo strate plodu a iným tehotenským komplikáciám
+(Claire, S. P., 2013).
+Antikoagulanciá a aspirín sú najlepšie študovanými a najbežnejšie používanými
+terapeutickými prostriedkami na prevenciu tehotenských komplikácií u trombofilných žien.
+Bolo preukázané, že znižujú výskyt nežiaducich pôrodníckych udalostí u žien s
+predchádzajúcimi nepriaznivými výsledkami v tehotenstve, zdedenými alebo získanými
+trombofíliami. Nízkomolekulárny heparín je často hlavnou liečbou žien s trombofíliou a
+komplikáciami tehotenstva. (Fernández Arias,2019).
+Liečba žien s VTE nízkomolekulárnymi heparínmi (LMWH) sú výhodné kvôli priaznivému
+profilu účinnosti a bezpečnosti. Alternatívami sú nefrakcionovaný heparín (UFH) a
+potenciálne fondaparinux. Warfarínu
+
+je potrebné sa vyhnúť v tehotenstve
+
+z dôvodu
+
+teratogenity. Nízkomolekulové heparíny, UFH a warfarín je prijateľný v popôrodnom
+období aj dojčiacim matkám. Profylaxia (všeobecne s LMWH alebo v niektorých prípadoch
+UFH) sa odporúča ženám s najvyšším rizikom tehotenstva VTE, pacientom s dedičnými
+trombofíliami a so silnou rodinnou alebo osobnou anamnézou VTE ( Marshall A.L., 2014).
+Rýchly rozvoj poznatkov v oblasti hemostázy nám dáva do rúk novú generáciu účinných
+a relatívne bezpečných antitrombotík. V súčasnosti si najväčšiu pozornosť zaslúžia
+preparáty fodaparin, idraparinux, dabigatran a priame inhibítory faktora Xa (FXa), ktoré
+veľmi pravdepodobne v budúcnosti postupne vytlačia klasické antikoagulanciá (heparín
+a kumarínové deriváty) ako v prevencii, tak aj v liečbe venóznych a arteriálnych
+hyperkoagulácií, pre ich priaznivé vlastnosti a široké terapeutické okno a bezpečnejší profil.
+V relatívnej blízkej budúcnosti sa určite objavia ďalšie látky zasahujúce na mnohých
+molekulárnych a celulárnych úrovniach hemostázy (Novotný, J., 2018).
+
+55
+
+Dôležitá úloha hemostázy, je v pochodoch imunitnej odpovedi organizmu na rôzne podnety,
+ako aj v oblasti rastu, progresie a metastázovaniu zhubných nádorov. Možno teda zhrnúť, že
+hemostáza hrá dôležitú úlohu i mimo klasickej hranice regulácie fludikoagulačnej
+rovnováhy a preto indikácia antitrombotickej liečby sa bude ďalej rozširovať (Novotný J.,
+2018).
+Naďalej existuje naliehavá potreba metodických štúdií dostatočnej veľkosti vzorky na
+stanovenie najlepšieho spôsobu liečby, ktoré trombofilné ženy s anamnézou tehotenských
+komplikácií potrebujú (Bates, S. M., 2013).
+
+56
+
+DISKUSIA
+Dedičné a získané trombofílie sa dajú nájsť u 49% až 65% žien s tehotenskými
+komplikáciami, na rozdiel od 28% až 22% žien s normálnym tehotenstvom, čo naznačuje
+trojnásobné až osemnásobné zvýšenie rizika trombofílie u žien s komplikáciami. Podľa toho
+autori odporúčajú prenatálny skríning na vrodené a získané trombofílie u žien s
+predchádzajúcimi nepriaznivými výsledkami v tehotenstve so zámerom ponúknuť liečbu
+antikoagulanciami (Fernández, A.,2019).
+Vyskytla sa väčšia kontroverzia okolo užitočnosti skríningu dedičných trombofílií u žien,
+ktoré mali v minulosti nepriaznivý výsledok alebo stratu tehotenstva. Proti skríningu u tejto
+populácie existuje niekoľko pádnych argumentov, možno najdôležitejší je, že medzi
+hyperkoagulabilitou a výsledkami tehotenstva sa našli iba slabé asociácie a nebol zistený
+žiadny príčinný vzťah. Viac je dedičných trombofílií v bežnej populácii a väčšina z týchto
+žien má normálne výsledky tehotenstva. Pravdepodobne bude významný pri absencii
+anamnézy tromboembolických príhod, a skríning tejto populácie je podobný skríningu
+bežnej populácie, ktorý sa ukázal ako neefektívny z hľadiska nákladov ( Davenport W.B., et
+al., 2014).
+Na praktickej úrovni si skríning trombofílie vyžaduje poradenstvo a starostlivú interpretáciu
+pozitívnych aj negatívnych výsledkov. To sa často vykonáva na začiatku tehotenstva, kde
+môžu byť výsledky aj zavádzajúce. Vykonáva sa u žien so zlými pôrodníckymi výsledkami.
+Poruchy IVF a opakovaný potrat, sú emocionálne náročné v týchto situáciách. Je dôležité
+vziať do úvahy aj psychologický dopad, novú diagnostiku trombofílie u pacientiek
+začínajúcich tehotenstvo aj ich príbuzných (Ormesher, L., 2017).
+Najväčšiu štúdiu vykonali Rai a kol., ktorí vyšetrovali súvislosť medzi faktorom V Leiden
+a rekurentnou stratou tehotenstva u viac ako 1 000 po sebe nasledujúcich Kaukazských žien.
+Táto štúdia nepreukázala asociáciu opakovaného potratu s faktorom V Leiden, ale zistila
+významne vyšší počet žien so získanou rezistenciou na APC v skupine s opakovaným
+potratom v porovnaní s kontrolnými ženami (Pabinger, I., 2009).
+
+57
+
+Mutácia FV Leiden je najčastejšou vrodenou koagulačnou poruchou a tiež najčastejšou
+príčinou venóznej trombózy (20 – 60 % pacientov), tiež jedným z dôležitých rizikových
+faktorom potratov, najmä tých, ktoré vzniknú v druhom trimestri tehotnosti. Nedostatočná
+antikoagulačná odpoveď plazmy na APC (APCR) je najčastejším rizikovým faktorom
+venóznej trombózy . Môže sa vyskytovať v prítomnosti mutácie FV Leiden (85 – 95 %), aj
+pri jej absencii ( Stančiaková,L., 2017c).
+Aktivovaný faktor V (FVa) je zrážací proteín, ktorý spolupracuje s aktivovaným faktorom
+X (FXa) na priamu premenu protrombínu na trombín. Špecifická mutantná forma tohto
+proteínu, faktor V Leiden (F5 c.1691G> A a p.Arg506Gln), je rezistentná na inaktiváciu, čo
+vedie k vyššiemu množstvu aktivovaného faktora V, väčšej tvorbe trombínu, a teda k
+hyperkoagulačnému stavu. Aj keď je jeho heterozygotná forma najčastejšou dedičnou
+trombofíliou, jej prevalencia je stále nízka v bežnej populácii. Menej ako 0,3% z týchto
+heterozygotov bude mať VTE v tehotenstve. Nepriaznivé výsledky u plodu, prehľady určili,
+že nositelia FVL G1691A majú zvýšené relatívne riziko pre RPL (pomer šancí [OR] 1,50,
+95% interval spoľahlivosti [CI] 1,06–2,19 a OR 2,00, 95% CI 1,60–2,55). Fetálna medicína
+(MFM) tiež zdôraznila nízke absolútne riziko (4,0%) straty tehotenstva u žien s FVL
+G1691A. Medzi FVL G1691A a preeklampsiou alebo malým gestačným vekom neexistuje
+signifikantná súvislosť. Asociácie medzi prerušením placenty a FVL G1691A chýbajú.
+(Davenport, W.B., 2014)
+Novšia prípadová kontrolná štúdia siete MFM, aj keď potvrdzuje nedostatok spojitosti s
+prerušením placenty, zistili zvýšenie faktorov indukujúcich hypoxiu plodu v placentách
+matiek s FV. L G1691A v porovnaní s vekovo porovnateľnými kontrolami (Davenport,
+W.B., 2014). Súčasné pokyny neodporúčajú skríning, pokiaľ nie je prítomná osobná alebo
+silná rodinná anamnéza venózneho tromboembolizmu. Viac ako 90% všeobecných
+pôrodníkov, gynekológov a reprodukčných endokrinológov vhodne testuje pacientky s
+opakovanou stratou tehotenstva na prítomnosť antikardiolipínových protilátok a
+antikoagulancia na lupus, pričom drvivá väčšina používa indikovanú liečbu počas
+tehotenstva (Davenport, W.B., 2014).
+Tehotenstvo je hyperkoagulačný stav kvôli zmenám protrombotickým, anatomickým
+a fyziologickým, čo predstavuje rizikový faktor pre matku a vývoj tehotenstva. Lekári musia
+udržiavať vysoký index vedomia a pohotovo vyhodnotiť akékoľvek príznaky na podozrenie
+z venózneho tromboembolizmu (VTE) (Marshall A.L., 2014).
+58
+
+ODPORÚČANIA PRE PRAX
+Po preštudovaní danej problematiky vrodených trombofilných stavov a vplyvu faktora
+V Leiden na tehotenstvo a uvedení poznatkov sme dospeli k nasledujúcim odporúčaniam :
+•
+
+dôležité adekvátne informovanie pacientov a verejnosti
+
+•
+
+prvotný záchyt rizikových pacientov u ošetrujúcich lekárov a ich následné
+vyšetrenie v špecializovanej ambulancii
+
+•
+
+odporúča sa prenatálny skríning na vrodené a získané trombofílie u tehotných žien
+s predchádzajúcimi nepriaznivými výsledkami v tehotenstve
+
+•
+
+genetické vyšetrenie
+
+•
+
+pri vrodených trombofíliách je dôležité vylúčiť zo života ďalšie rizikové faktory
+trombózy, ako je obezita, užívanie hormonálnej antikoncepcie
+
+•
+
+odporúča sa absencia od fajčenia a alkoholu, zdravý životný štýl - vyvážené a
+zdravé stravovanie, rodinná anamnéza, dostatok fyzickej aktivity
+
+•
+
+kompresné pančuchy , ktoré podporujú žily pre návrat krvi do srdca
+
+•
+
+vyhýbanie sa dlhému sedeniu a stresu
+
+•
+
+v prípade vysokého trombofilného rizika sa odporúča antikoagulačná liečba,
+u tehotných pacientiek vhodná profylaktická liečba.
+
+59
+
+ZÁVER
+
+S dedičnými trombofíliami sa stretávame už desaťročia. Nepriaznivé výsledky rizík
+tehotenstva, ako je preeklampsia, obmedzenie rastu plodu, predčasný pôrod, odtrhnutie
+placenty a mŕtvy plod, sa komplikácie v tehotenstve s trombofíliou môžu líšiť v úrovni
+závažnosti. Sú prípady, kedy komplikácie ohrozujú ženu a potomstvo a tiež môžu mať vplyv
+na zdravie v neskoršom období pre oboch (Fernández, A.,2019).
+V našej práci sme zistili, že rezistencia na APC v ktorej môže byť zapojený faktor V Leiden
+prostredníctvom mechanizmov a interakcie s inými etiologickými faktormi je v patogenéze
+závažných pôrodníckych komplikácií ako hĺbková žilová trombóza, preeklampsia,
+placentárny infarkt, abrupcia placenty a opakujúca sa strata tehotenstva. Pri porovnaní
+homozygotnej a heterozygotnej formy faktora V Leiden sa riziká ukázali, že častejšia
+heterozygotná forma mala prevalenciu výskytu vyššiu, ale riziká sa pohybovali nie vyššie
+ako dva. Aj keď homozygotná forma má riziká vysoké, pre jej nižšiu prevalenciu sa riziká
+pohybovali menej ako dva. Skríning na Leidensku mutáciu ukázal, že je vhodný u žien s
+predchádzajúcimi tehotenskými komplikáciami. Ideálne by bolo testovanie, ktoré je
+vykonané medzi tehotenstvami, pretože koncentrácia a aktivita antikoagulačných proteínov
+počas tehotenstva sa fyziologicky mení. Liečba pomocou nízkomolekulárneho heparínu má
+vysoký priaznivý účinok u žien s preeklampsiou, stratou tehotenstva a rezistenciou na APC.
+Môže tak zlepšiť výsledky v ďalších tehotenstvách. Pri starostlivom zvážení liečby, ženy na
+terapeutickej alebo profylaktickej antikoagulácii, sú schopné mať úspešné tehotenstvo.
+Nositeľkám Leidenskej mutácie by sa malo poskytnúť poradenstvo aj ich členom rodiny pre
+tromboembolické riziko. Najmä ženy v
+
+reprodukčnom veku, by mali dostať správne
+
+informácie týkajúce sa rizík a komplikácií súvisiacich s tehotenstvom.
+Diagnostikou trombofilných stavov a adekvátátnou sekundárnou profylaxiou trombózy je
+možné účinne predchádzať rozvoju opísaných komplikácií. Veľkou pomocou je vedenie
+pacientiek s trombofíliou v Národnom registri trombofilných stavov. Vďaka evidencii je
+možné už od začiatku gravidity stanoviť riziko trombózy a čo najskôr odporučiť vhodné
+preventívne a liečebné postupy (Kubisz, P.,2010).
+
+60
+
+ZOZNAM POUŽITEJ LITERATÚRY
+Aracic N, Roje D, Hofman I, Capkun V, Stefanovic V, (2015). Low molecular weight
+heparin treatment and impact of inherited thrombophilia type in pregnancies with previous
+adverse outcome. [online]. In: J Matern Fetal Neonatal Med, 2015.vol.28,no.3, p.306-310.
+[cit. 2020 -11-14]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/24749801/
+Bartúňková, J., a kol., 2011. VYŠETŘOVACÍ METODY V IMUNOLOGII, PRAHA
+2.,přepracované a doplněné vydání. GRADA Publishing 2011, str. 47-51. ISBN 978 -80 247 -7089 - 5 ( elektronická verze ve formátu PDF).
+Bates
+
+S M, (2013). Preventing thrombophilias-related complications of pregnancy.
+
+[online]. In: Exert Rev. Hematol.2013.vol.6,no.3,p.287-300. [ cit. 2020-11-22]. Dostupné
+na internete: https://pubmed.ncbi.nlm.nih.gov/23782083/
+Bendík, J., 2003: In:Pilařova, M., Bakalárska práca. Molekulárna diagnostika
+trombofilných stavov, 2010, Hradec Králové.
+Björk, I., Pettersson, K., Lindqvist, P.G., (2019). Stillbirth and factor V Leiden - A
+regional based prospective evaluation. [online]. In: Thrombosis Research, 2019. vol.176,
+p.120-124.
+
+[cit.
+
+2020-10-30].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/30825693/
+Boncz Z, Bagoly Z, Haramura G, Mezei Z A, Muszbek L, (2012). Thrombomodulindependent effect of factor V Leiden mutation on the cross-linking of α2-plasmin inhibitor
+to fibrin and its consequences on fibrinolysis. Thrombosis Research, [online]. In:
+Thrombosis Research, 2012. vol.130, no.3, p.528–534. [ cit. 2020-11-30]. Dostupné na
+internete: https://pubmed.ncbi.nlm.nih.gov/22704462/.
+Davenport W B, Kutteh W H, (2014). Inherited Thrombophilias and Adverse Pregnancy
+Outcomes. [online]. In: Obstetrics and Gynecology Clinics of North America,2014.
+vol.41,no.1,p.133-144.
+
+[
+
+cit.
+
+2020-11-09].
+
+https://pubmed.ncbi.nlm.nih.gov/24491988/.
+
+61
+
+Dostupné
+
+na
+
+internete:
+
+Davenport, W. B., Kutteh, W. H., (2014). Inherited Thrombophilias and Adverse
+Pregnancy Outcomes. [online]. In: Obstetrics and Gynecology Clinics of North America,
+2014. vol. 41, no. 1, p. 133-144. [cit. 2020-11-09]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/24491988/.
+Fernández, A.M., et al. (2019). Genetic risk assessment of thrombophilia in patients with
+adverse obstetric outcomes. [online]. In: PLOS ONE. 2019. vol. 14, no. 2, p.0211114. [cit.
+2020-11-26]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/30811416/
+Gerhardt A, Scharf RE, Greer IA, Zotz RB, (2016). Hereditary risk factors of
+thrombophilia and probability of venous thromboembolism during pregnancy and the
+puerperium. [online]. In: Blood, 2016 vol.128, no. 2343–2349. [cit. 2020-10-04].
+Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/27613196/.
+Gumus, E.,(2018). Comparison of two groups for the apolipoprotein E polymorphisms by
+using next generation sequencing: The first group with three consecutive abortions and
+the second group with at most one abortion in three consecutive pregnancies, 2018.
+[online]. In: Gene, vol.668, p.8-11. [ cit. 2020-11-29]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/29778421/.
+Hirmerová J. (2019). Trombofilní stavy – testovat či netestovat? [online]. In: Plzeň:
+Interní Medicina. 2019. čís. 21, roč. 3, s. 187–191. [cit. 2020-09-29]. Dostupné na
+internete: https://www.internimedicina.cz/pdfs/int/2019/03/13.pdf
+Hulíková M, 2016. Hemostáza a tehotenské komplikácie. [online]. In: Vaskulárna
+Medicína. Košice: HEMO MEDIKA, Centrum hemostázy a trombózy. 2016, roč.2, č. 8,
+s.52–55.
+
+[cit.
+
+Dostupné
+
+2020-10-10].
+
+na
+
+internete:
+
+https://www.solen.sk/storage/file/article/d80967c411f86bc5458529034866f488.pdf
+Hushan, E.O, Saad AA, Yousif AA, Elamin E, Abdalhabib EK, Elzaki SG, (2019).
+Evaluation of Factor V Leiden and prothrombin G20210A mutations in Sudanese women
+with severe preeclampsia. [online]. In: Current Research in Translational Medicine 2019.
+p.
+
+2452-
+
+3186(19)30031-5.
+
+[cit.
+
+2020-10-30].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.researchgate.net/publication/335671519_Evaluation_of_Factor_V_Leiden_
+nd_prothrombin_G20210A_mutations_in_Sudanese_women_with_severe_preeclampsia
+62
+
+Institute of Applied Biotechnologies, 2019. Kit detekcie mutace G1691A v genupro faktor
+V pomocí kvantitativní PCR. Uživatelská příručka, 2019 str.1-19.
+Kovac M, et al. (2010). Type and location of venous thromboembolism in carriers of
+Factor V Leiden or prothrombin G20210A mutation versus patients with no mutation.
+[online]. In: Clin Appl Thromb Hemost. 2010, vol.16 no. 66-70. [cit. 2020-10-04].
+Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/18796457/
+Kubisz P, Bartošová L, Dobrotová M, Staško J, (2010). Trombofilné stavy a gravidita.
+[online]. In: Vaskulárna medicína. Martin, 2010, roč. 2, číslo 2,s.21-23.[cit. 2020-10-15].
+Dostupné
+
+na
+
+internete:
+
+https://www.solen.sk/storage/file/article/e03d174390c4235a3e695c7fb14e0dcb.pdf
+Lussana
+
+F,
+
+Coppens
+
+M,
+
+Cattaneo
+
+M,
+
+(2012). Pregnancy-related
+
+venous
+
+thromboembolism: Risk and the effect of thromboprophylaxis. [online]. In: Thrombosis
+Research,2012.vol.129, no.6,p. 673-680. [ cit. 2020-09-25]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/22365492/.
+Lykke, J.A., Bare, L.A., Olsen, J., ( 2012). Thrombophilias and adverse pregnancy
+outcomes. . [online]. In: results from the Danish National Birth Cohort. J Thromb
+Haemost. 2012.vol.10,no.7,p.1320-1325. [ cit. 2020-11-04]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/22578003/
+Marshall,
+
+A.L.,
+
+(2014).
+
+Diagnosis,
+
+Treatment,
+
+and
+
+Prevention
+
+of
+
+Venous
+
+Thromboembolism in Pregnancy. [online]. In: Department of Hematology and Medical
+Oncology, Boston, Issue 7, 2014. vol.126, , ISSN – 0032-5481, e-ISSN – 1941-9260 25
+Maryam Al-E-Rasul Dehkordi , Akbar Soleimani , Ali Haji-Gholami , Abdolrahim
+Kazemi Vardanjani.( 2014). Association of Deficiency of Coagulation Factors (Prs, Prc,
+ATIII) and FVL Positivity with Preeclampsia and/or Eclampsia in Pregnant Women.
+[online]. In: International Journal of Hematology – Oncology and Stem Cell Research,
+2014.
+
+vol.8,
+
+no.4,
+
+p.5-11.[
+
+cit.
+
+2020-09-04].
+
+Dostupné
+
+na
+
+internete:
+
+https://pdfs.semanticscholar.org/a3ed/0a0372430000b5e078155781b516836c6061.pdf?_
+ga=2.35742624.1249203760.1613158376-88531091.1612370735
+
+63
+
+Mrišková,J., 2012: Vyšetrenie tromboplastínového času /PT/, DIAGON,2012, str,1-2.
+Mrišková,J., 2012:Vyšetrenie aktivovaného parciálneho tromboplastínového času
+/APTT/, DIAGON,2012 str 1-2.
+Mrišková,J., 2012:Vyšetrenie Antitrombínu III, DIAGON, 2012 str.1-2.
+Mrišková, J., 2012: Vyšetrenie PTT-LA, SIEMENS, 2012 str.1-2.
+Novotný, J., Michalcová, J., Penka, M., (2018). Antikoagulační léčba ? [online]. In: Brno.
+Interv Akut Kardiol 2018. roč.17, čís. 2, s.113-122. [ cit. 2020-10 -29]. Dostupné na
+internete: https://www.solen.cz/pdfs/kar/2018/02/13.pdf.
+Ormesher, L., Simcox, L. E., Tower, C., (2017). “To test or not to test”, the arguments
+for and against thrombophilia testing in obstetrics. [online]. In: Obstetric Medicine, 2017.
+vol.
+
+10,
+
+no.
+
+2,
+
+p.
+
+61–66. [cit.
+
+2020-09-08].
+
+Dostupné
+
+na
+
+internete:https://pubmed.ncbi.nlm.nih.gov/28680464/.
+Pabinger, I., (2009). Thrombophilia and its impact on pregnancy. [online]. In: Thrombosis
+Research, 2009.vol.123,no.3,p.16-21. [ cit. 2020-09-04]. Dostupné na internete:
+https://www.thrombosisresearch.com/article/S0049-3848(09)70128-8/pdf.
+Pabinger. I.,(2009). Thrombophilia and its impact on pregnancy. [online]. In: Thrombosis
+Research, 2009
+
+vol.123, no. 16-21. [cit. 2020-10-20]. Dostupné na internete:
+
+https://pubmed.ncbi.nlm.nih.gov/19203641/
+Perés Wingeyer S, et al. (2018) . Inherited thrombophilia and pregnancy loss. Study of an
+Argentinian cohort. [online]. In: Estudio de una cohorte de Argentina. Medicina Clínica,
+2018.
+
+vol.152,
+
+no.7,
+
+p.249-254.
+
+[cit.
+
+2020-10-27].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/29523337/
+Peyvandi, F.,et al.(2012). Project on Consensus Definitions in Rare Bleeeding Disorders
+of the Factor VIII/Factor IX Scientific and Standardisation Committee of the International
+Society on Thrombosis and Haemostasis. Classification of rare bleeding disorders (RBDs)
+based on the association between coagulant factor activity and clinical bleeding severity.
+[online]. In: Thromb Haemost. 2012,vol.10, no.9, p.1938-43. [ cit. 2020-10 -30]. Dostupné
+na internete: https://pubmed.ncbi.nlm.nih.gov/22943259/
+64
+
+Philipp, C. S.,et al. (2014). Differences in Thrombotic Risk Factors in Black and White
+Women with Adverse Pregnancy Outcome. [online]. In: Thrombosis Research, vol.133,
+no.1,p.
+
+108-111.
+
+[cit.
+
+2020-09-20].
+
+Dostupné
+
+na
+
+internete:
+
+https://pubmed.ncbi.nlm.nih.gov/24246297/.
+Robeva,R.,etal.(2017). Inherited Thrombophilias Could Influence the Reproductive
+Outcome in Women with Systemic Lupus Erythematosus. [online]. In: Balkan Journal of
+Medical Genetics vol.20, no.1, p.21-26. . [cit. 2020-10-09]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/28924537/.
+Rodger M.A., et al.(2014). Antepartum dalteparin versus no antepartum dalteparin for the
+prevention of pregnancy complications in pregnant women with thrombophilia (TIPPS):
+a multinational open-label randomised trial. [online]. In: Randomized Controlled Trial
+Lancet 2014. vol.384, no.9955,p.1673–1683.[ cit. 2020-09-15]. Dostupné na internete:
+https://pubmed.ncbi.nlm.nih.gov/25066248/
+Said J, Higgins J, Moses E, Walker S, Monagle P, Brennecke S, (2012).Inherited
+thrombophilias and adverse pregnancy outcomes. [online]. In: Acta Obstetricia et
+Gynecologica Scandinavica, 2012.vol.91, no.2, p.250-255. [ cit. 2020-11-18]. Dostupné
+na internete: https://pubmed.ncbi.nlm.nih.gov/21985600/
+Sakalová A. Bátorová A. Mistrík M. Hrubiško M. 2011. KLINICKÁ HEMATOLÓGIA,
+KD OSVETA, 2011. s. 200-233. ISBN 978-80-8063-324-0.
+SIEMENS, Healhcare,2011. Lupus antikoagulant LA. Príbalový leták. Siemens
+Healhcare, Diagnostics Products GmbH Emil-von-Behring Str 76.
+SIEMENS, Healhcare, 2010a. Protein C. Príbalový leták. . Siemens Healhcare,
+Diagnostics Products GmbH Emil-von-Behring Str 76.
+SIEMENS, Healhcare, 2021. ProC Global. Príbalový leták. Siemens Healhcare,
+Diagnostics Products GmbH Emil-von-Behring Str 76.
+SIEMENS, Healhcare, 2014b. Protein S. Príbalový leták. Siemens Healhcare, Diagnostics
+Products GmbH Emil-von-Behring Str 76.
+
+65
+
+Simcox, L., Ormesher, L., Tower, C., Greer, I.: (2015). Thrombophilia and Pregnancy
+Complications. . [online]. In: International Journal of Molecular Sciences, 2015, vol. 16,
+no.
+
+12,
+
+p.28418-28428.
+
+[cit.
+
+2020-10-04].Dostupné
+
+na
+
+internete:
+
+https://www.mdpi.com/1422-0067/16/12/26104
+Stančiaková L, Dobrotová M, Hollý P, Ivanková J, Danko J, a kol. 2017a. Trombofilné
+stavy vo vzťahu ku gravidite. [online].In: Vaskulárna Medicína. Martin: 2017. roč. 2, č.
+9.
+
+s.
+
+59–65
+
+[cit.
+
+2020-10-15].
+
+Dostupné
+
+na
+
+internete:
+
+https://www.solen.sk/storage/file/article/4ce3afcfbf2098933c2c9fd1d7679345.pdf
+Stančiaková L, Dobrotová M, Hollý P, Ivanková J, Plameňová I, a kol. 2017b.
+Trombofilné stavy. [online]. In: Vaskulárna Medicína. Martin: Národné centrum
+hemostázy a trombózy. 2017, roč.2, č.9 s. 54–58 [cit.2020-10-12]. Dostupné na internete:
+https://www.solen.sk/storage/file/article/a37e4fe9c79108d40883da73f825d714.pdf
+Stančiaková, L., a kol. ( 2017c). Prierezové údaje Národného registra trombofilných
+stavov Slovenskej republiky. [online]. In: Vaskulárna medicína Martin, roč. 9, 2017 s.2227.
+
+[cit.
+
+2020-10-17].Dostupné
+
+na
+
+internete:
+
+https://www.solen.sk/storage/file/article/abcb52d454df0c65511368311ae42847.pdf
+Škorňová I, Slavík L, a kol. 2020. HEMOSTÁZA, laboratorní metody, jejich využití
+a interpretace ve vybraných klinických situácích. P+M s.r.o., Turany, 2020. s.101-141,
+ISBN 978-80-89694-78-5.
+Thalji N, Camire RM,(2013). Parahemophilia: new insights into factor v deficiency.
+Semin. [online]. In: Semin Thromb Hemost. 2013, vol. 39, no.6, p. 607-12. . [ cit. 202010 -29]. Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/23893775/.
+Van Cott, Elizabeth M, Khor, B., Zehnder J L, (2016). Factor V Leiden. [online]. In:
+American Journal of Hematology,
+
+2016. vol.91 no.1, p.46–49. [cit. 2020-10-
+
+07].Dostupné na internete: https://pubmed.ncbi.nlm.nih.gov/26492443/.
+
+66
+
+Wingejyer P, et al. (2018). Trombofilia hereditaria y pérdidas de de embarazo. [online].
+In: Estudio de una cohorte de Argentina. 2019. vol.152,no.7,p.249-254. [cit. 2020-1024]. Dostupné na internete:
+https://www.sciencedirect.com/science/article/abs/pii/S002577531830071X
+Zheng C, Zhang B,(2013). Combined deficiency of coagulation factors V and VIII: an
+update. [online]. In: Semin Thromb Hemost. 2013,vol. 39, no6, p. 613-20. [ cit. 2020-10
+-29]. Dostupné na internete:
+https://www.unboundmedicine.com/medline/citation/23852824/Combined deficiency of
+coagulation factors V and VIII: an update.
+
+67
+
+KAZUISTIKA
+
+Pacientka 26 ročná, slovenskej národnosti. Bola odoslaná z gynekologickej ambulancie na
+hematologickú ambulanciu pre jeden spontánny abort, ktorý bol v roku 2016 júny v prvom
+trimestri gravidity.
+Doporučené vyšetrenie KO, homocysteín, APTT,PT, TT, FI, genetické vyšetrenie na
+trombofilné mutácie, testy na odhalenie trombofílie.
+Základný súbor vyšetrení
+Le... 13,9.109/l
+
+Testy na odhalenie trombofílie
+
+PT...107% (NH 80- 120 %) ProCGlobal test...0,61
+(NH0,69- 1,56)
+
+Hb...131 g/l
+
+INR...0,95 (HN 0,80- 1,20)
+
+ProCGlobal test pl. def. FV...0,62
+(NH0,86- 1,10)
+
+Ery...3,81.109/l
+
+APTT...0,79“ (NH 24“-36“) PTT-LA...40“ (NH 31,1“- 46,7“)
+
+HKT...0,38
+
+Kontr...28“ (NH 24“-36“)
+
+PTT-LA/K...43“ (NH 31,1“- 46,7“)
+
+SOEry ...100,5 fl Racio...0,04 (NH 0,90-1,20) AT III ...108,6 % (NH 80 - 130%)
+Tr...282.109/l
+
+TT...18“
+
+(NH 11“- 24“)
+
+FVIII...1,27 (NH 0,80 – 1,50 IU/ml)
+
+Kontr...(NH 14“-24“ )
+
+Homocysteín...12,1 µmol/l (NH 3,7-
+
+FBG...2,62g/l
+
+13,0 µmol/l)
+DD... 7,00
+
+Laboratórna diagnostika bola vyšetrovaná na oddelení hematológie a transfuziológie.
+Rutinné
+
+a skríningové
+
+hemokoagulačné
+
+vyšetrenia
+
+boli
+
+spracované
+
+v našom
+
+hematologickom laboratóriu, na poloautomatickom koagulometri SYSMEX CA 1500,
+s použitím diagnostických setov (Dade BOEHRING). Špeciálne vyšetrenia na genetické
+mutácie sa odoslali na analýzu do Laboratória lekárskej genetiky Banská Bystrica.
+Základný skríning trombofilných testov je v medziach normy okrem ProC Global test a
+ProC Global test pl. def. FV . DNA analýza markerov potvrdila vrodenú trombofíliu Faktor
+V Leiden 1691GA heterozygot s anamnézou spontánneho včasného abortu.
+
+Diagnóza:
+Mutácia Faktora V Leiden (1691GA) -heterozygot. Kontrola na hematologickej ambulancii
+o mesiac.
+8.6.2017
+Pacientka kontrolovaná na hematologickej ambulancii. Bola v 11. týždni druhej gravidity.
+V krvnom obraze neutrofília, zvýšená aktivita v vnútornom systéme krvného zrážania,
+s výrazným vzostupom hladiny D dimérov. Vzhľadom k laboratórnym nálezom
+a gynekologickej anamnéze doporučené dávky LMWH, Fraxiparín 0,3ml, Ascorutin .
+16.6.2017
+Pacientka bola toho času 16. týždeň gravidity, stále pretrvávala neutrofília a zvýšená aktivita
+vo vnútornom systéme krvného zrážania, doporučená i naďalej liečba LMWH, Fraxiparín
+0,3ml, Ascorutin .
+Pacientka bola naďalej kontrolovaná hematológom každé dva týždne, v III. trimestri každý
+mesiac, pre monitorovanie zvýšenej aktivácie vo vnútornom systéme krvného zrážania
+(testy KO, skríning trombofilných testov ). V 36. týždni tehotenstva hematologické nálezy
+stabilizované, hemoglobín upravený. Pri nástupe pôrodnej činnosti bolo doporučené
+Fraxiparine
+
+nepichať, po pôrode po stabilizácii pokračovať Fraxiparine 0,6 ml, do
+
+hematologickej kontroly.
+Záver:
+Pacientka mala jeden abort (2016), po genetickom vyšetrení dokázaná mutácia Faktor
+V Leiden heterozygot, s anamnézou spontánneho včasného abortu. Vďaka liečbe donosila
+a porodila prvé zdravé dieťa, chlapčeka. Pri ďalšej gravidite musí byť kontrolovaná
+hematológom, aby tehotenstvo bolo bez komplikácii.
+
+

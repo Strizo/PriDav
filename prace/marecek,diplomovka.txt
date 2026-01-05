@@ -1,0 +1,2571 @@
+SLOVENSKÁ POĽNOHOSPODÁRSKA UNIVERZITA
+V NITRE
+TECHNICKÁ FAKULTA
+TF-183392-68035
+
+NÁVRH TECHNOLOGICKO-TECHNICKÉHO RIEŠENIA
+OBJEKTU NA FARME DOJNÍC V OPONICIACH
+
+Diplomová práca
+
+2023
+Miroslav Mareček
+
+SLOVENSKÁ POĽNOHOSPODÁRSKA UNIVERZITA
+V NITRE
+TECHNICKÁ FAKULTA
+
+NÁVRH TECHNOLOGICKO-TECHNICKÉHO RIEŠENIA
+OBJEKTU NA FARME DOJNÍC V OPONICIACH
+Diplomová práca
+
+Študijný program:
+
+Manažérstvo prevádzky techniky
+
+Študijný odbor:
+
+Strojárstvo
+
+Školiace pracovisko:
+
+Ústav poľnohospodárskej techniky,
+dopravy a bioenergetiky
+
+Vedúci záverečnej práce alebo školiteľ:
+
+doc. Ing. Ingrid Karandušovská PhD.
+
+Nitra 2023
+Bc. Miroslav Mareček
+
+Čestné vyhlásenie
+
+Vyhlasujem, že predloženú záverečnú prácu som vypracoval samostatne. Všetky použité
+literárne zdroje som uviedol v zozname použitej literatúry.
+
+...............................................................
+podpis študenta (autora)
+
+2
+
+Poďakovanie
+
+Týmto chcem vyjadriť poďakovanie vedúcej záverečnej práce doc. Ing. Ingrid
+Karandušovskej, PhD. za poskytnutie odborných rád a usmernenie pri písaní diplomovej
+práce. Ďalej by som chcel poďakovať farme v Oponiciach za poskytnutie priestorov na
+získavanie praktických poznatkov, ktoré som mohol využiť v tejto práci.
+3
+
+Abstrakt
+Cieľom diplomovej práce bolo zhodnotiť vplyv rôznych technologických systémov
+ustajnenia
+
+hovädzieho dobytka na mikroklimatické vlastnosti vzduchu vo vybraných
+
+objektoch. Pre jeho splnenie bolo potrebné analyzovať mikroklimatické parametre vzduchu.
+K analýze boli využité dva objekty situované vedľa seba, z ktorých jeden bol po
+rekonštrukcii technológie ustajnenia a vetrania a druhý zostal v pôvodnom stave. Počas
+reálneho chovu bolo použité kontinuálne meranie teploty vzduchu, relatívnej vlhkosti
+vzduchu a tieto merania boli doplnené ambulantnými meraniami rýchlosti prúdenia
+vzduchu. Z nameraných a vyhodnotených výsledkov vyplýva, že v starom objekte boli
+mikroklimatické podmienky horšie ako v novom objekte, relatívna vlhkosť bola vyššia a
+teplota nižšia. Príčinou bolo, že stará maštaľ mala otvorené okná a všetky vráta. V novej
+maštali počas daždivého a veterného počasia boli stiahnuté zvinovacie plachty
+s protiprievanovým tkanivom a uzatvorené všetky vstupné dvere, preto teplota vo vnútri
+maštale bola vyššia. Z týchto dôvodov boli pre starý objekt navrhnuté dve alternatívy
+rekonštrukcie ustajňovacieho a vetracieho systému. V prvej alternatíve bol riešený starý
+objekt po stránke rekonštrukcie a ventilácie zväčša podľa nového objektu. V druhej
+alternatíve bola ventilácia objektu navrhovaná podľa získaných informácii o ventilácii
+maštaľných priestorov. Na základe týchto dvoch alternatív sme vypočítali ekonomické
+vyhodnotenie, aby si vedenie farmy v Oponiciach malo z čoho vybrať.
+
+Kľúčové slová: teplota vzduchu, relatívna vlhkosť vzduchu, rýchlosť prúdenia vzduchu
+
+4
+
+Abstract
+The aim of the thesis was to evaluate the impact of various technological systems of cattle
+housing on the microclimatic properties of the air in selected objects. In order to fullfill it, it
+was necessary to analyze the microclimatic parameters of the air. Two buildings located next
+to each other were used for the analysis, one of which was after the reconstruction of the
+housing and ventilation technology and the other remined in its original state. During real
+breeding, continuous measurement of air temperature and relative air humidity was used,
+and these measurements of air flow speed. The measured and evaluated results show that the
+microclimatic conditions in the old building were worse than in the new building, the relative
+humidity was higher and the temperature was lower. The reason was that the old barn had
+all the windows and doors open. In the new barn, during rainy and windy weather, the windup sheets with anti-draft fabric were pulled down and all the entrance doors were closed, so
+the temperature inside the barn was higher. Therefore, two alternatives for the reconstruction
+of the housing and ventilation system were proposed for the old building. In the first
+alternative, the old building was dealt with in terms of reconstruction and ventilation mostly
+according to the new building. In the second alternative, the ventilation of the building was
+designed according to the information obtained about the ventilation of the stables. Based
+on these two alternatives, we calculated the economic evaluation so that the management of
+the farm in Oponice had something to choose from.
+
+Key words: air temperature, relative air humidity, air flow speed
+
+5
+
+Obsah
+Abstrakt .................................................................................................................................. 4
+Abstract .................................................................................................................................. 5
+Úvod....................................................................................................................................... 8
+1
+
+Súčasný stav riešenej problematiky................................................................................ 9
+1.1
+
+Význam tvorby prostredia chovu ............................................................................ 9
+
+1.2
+
+Welfare .................................................................................................................... 9
+
+1.3
+
+Technologický systém pre chov hovädzieho dobytka .......................................... 10
+
+1.4
+
+Systémy ustajnenia ................................................................................................ 11
+
+1.4.1
+
+Voľné ustajnenie hovädzieho dobytka ........................................................... 12
+
+1.4.2
+
+Ležiskové boxy .............................................................................................. 13
+
+1.5
+
+Hnojné chodby a spojovacie uličky v boxovom ustajnení .................................... 15
+
+1.6
+
+Klíma v maštali ..................................................................................................... 16
+
+1.6.1
+
+Vetranie maštalí ............................................................................................. 17
+
+1.6.2
+
+Tunelové vetranie .......................................................................................... 20
+
+1.6.3
+
+Tunelové vetranie pre teľatá .......................................................................... 21
+
+1.7
+
+Tepelný stres ustajnených zvierat ......................................................................... 22
+
+1.7.1
+
+Stres z chladu ................................................................................................. 22
+
+1.7.2
+
+Stres z vysokých teplôt .................................................................................. 23
+
+1.7.3
+
+Tepelný stres hovädzieho dobytka ................................................................. 24
+
+1.8
+
+Kvalita maštaľného vzduchu ................................................................................. 26
+
+1.9
+
+Vplyv rýchlosti prúdenia vzduchu na dojivosť ..................................................... 27
+
+2
+
+Cieľ práce ..................................................................................................................... 28
+
+3
+
+Metodika práce ............................................................................................................. 29
+3.1
+
+Farma Oponice ...................................................................................................... 29
+
+3.2
+
+Popis objektov ....................................................................................................... 31
+
+3.3
+
+Meracia technika a postup merania ....................................................................... 33
+
+3.3.1
+
+Prístroj na meranie teploty a relatívnej vlhkosti Comet S – 3121 ................. 33
+
+3.3.2
+
+Prístroj na meranie mikroklimatických vlastností vzduchu Almemo 2590-4S
+34
+6
+
+3.3.3
+3.4
+
+Prístroj DL – CO2 na meranie a záznam koncentrácie oxidu uhličitého........ 35
+
+Odporúčané hodnoty relatívnej vlhkosti maštaľného vzduchu pre hovädzí dobytok
+36
+
+4
+
+3.5
+
+Oblasti kritických teplôt a pásma tepelnej pohody pre hovädzí dobytok ............. 36
+
+3.6
+
+Odporúčané maximálne rýchlosti prúdenia vzduchu v zóne zvierat .................... 37
+
+Výsledky práce ............................................................................................................. 38
+4.1
+
+Výsledky kontinuálneho merania teploty a vlhkosti ............................................. 38
+
+4.2
+
+Výsledky kontinuálneho merania koncentrácii CO2 ............................................. 40
+
+4.3
+
+Meranie pomocou prístroja Almemo 2590 ........................................................... 41
+
+4.4
+
+Návrh opatrení ....................................................................................................... 45
+
+5
+
+Diskusia ........................................................................................................................ 50
+
+6
+
+Záver ............................................................................................................................. 51
+
+Zoznam použitej literatúry ................................................................................................... 53
+
+7
+
+Úvod
+Prostredie objektov živočíšnej výroby by malo byť také, aby zabezpečovalo pohodu
+ustajneným zvieratám a jeho parametre by mali tvoriť vhodné podmienky pre rast, dobrý
+zdravotný stav, vysokú úžitkovosť a produkciu. Snaha chovateľov z týchto dôvodov by sa
+mala okrem iného sústrediť aj na to, či poskytujú zvieratám vhodné podmienky a či systémy,
+ktoré môžu zlepšovať pohodu v ustajňovacích objektoch sú dostatočné. Variácie teplôt jadra
+tela dojnice, ako najpodstatnejšej teploty z častí tela, by mala byť udržiavaná v rámci veľmi
+úzkych hraníc zóny. Zviera je schopné si vystačiť s termoreguláciou a vyhnúť sa tepelnému
+stresu, alebo naopak, v zimnom období problému s chladom. U dojníc má na to veľký dopad
+prostredie, v ktorom žijú počas svojho života. Chovateľské prostredie tvorí aj množstvo
+vonkajších faktorov vytvárajúce jeden komplex ovplyvňujúci život zvierat a rozhodujú o
+dosiahnutí vytýčených cieľov chovu. Pri hospodárskych zvieratách musí byť chovateľské
+prostredie realizované tak, aby v nich dokázali manifestovať úžitkové vlastnosti v
+maximálnej miere. Jeden z rozhodujúcich faktorov je dosiahnutie správnej klímy v maštali.
+Rozhoduje nie len o produkcii zvierat, ale aj o zdravotnom stave dobytka. Ďalším faktorom
+je stres z vysokých teplôt hovädzieho dobytka. K odolnosti voči teplu napomáhajú
+termoregulačné adaptačné mechanizmy ktoré pôsobia napríklad ako zvýšená frekvencia
+dychu a podobne.
+
+8
+
+1
+
+Súčasný stav riešenej problematiky
+
+1.1 Význam tvorby prostredia chovu
+Voľne žijúce zvieratá majú geneticky upravenú reakciu na faktory prostredia,
+s ktorými sa stretávajú. Reagujú tak hovoriac automaticky bez toho, aby namáhali svoj
+nervový systém. Reakcia sa nevyvíja na základe skúseností. Hospodárske zvieratá reagujú
+na geneticky zakódovaných faktorov prostredia, ale relevantné požiadavky sú tie, ktoré im
+poskytujú ich chovatelia. V chove hospodárskych zvierat sa však objavuje rada nových
+faktorov a reakcie na tieto faktory sa vyvíjajú na základe skúseností a dajú sa prispôsobiť až
+v určitom okamžiku. Okrem toho hospodárske zvieratá, ktoré boli vyšľachtené pre potreby
+človeka, často strácajú svoju prirodzenú odolnosť voči zmenám prostredia. V dôsledku toho
+hospodárske zvieratá pociťujú záťaž vyplývajúcu z odchýlok od optimálnych podmienok.
+Prostredie chovu vytvárajú podmienky pre zaistenie fyziologických potrieb nevyhnutných
+pre život, zdravie a psychickú pohodu. Komplexné faktory chovateľského prostredia
+ovplyvňujú život zvierat a rozhodujú o dosiahnutie požadovaných cieľov chovu. Preto musí
+byť prostredie chovu vytvorené tak, aby hospodárske zvieratá mohli plne využiť svoj
+potenciál. Prostredie chovu zahrňuje spôsob kŕmenia hospodárskych zvierat, techniku,
+organizáciu a technológiu chovu, vzťah medzi ľuďmi a hospodárskymi zvieratami
+a v neposlednom rade klimatických podmienok. Prostredie chovu vytvára podnety pre
+chovanie zvierat. Zvieratá reagujú a zároveň plnia dôležité potreby v podobe pohybu,
+odpočinku, primárnej potravy a pitia, ale pokiaľ sú v chovateľskom prostredí nedostatky,
+budú tiež vykonávať zbytočné a neprirodzené chovanie. Iba také chovanie, ktoré plní účel
+zvieraťa, nevytvára psychickú záťaž. Napríklad pokiaľ sa zviera potrebuje napiť, pôjde
+k napájačke, pokiaľ cíti potrebu odpočívať nájde si miesto, kde si môže ľahnúť, a nebude pri
+ležaní a odpočinku rušené. Pokiaľ tieto potreby nie sú v chovateľskom prostredí uspokojené,
+vznikajú podmienky pre stres (Brestenský, 2006).
+
+1.2 Welfare
+Hospodárske zvieratá prinášajú ľuďom úžitok. Preto je úžitkovosť zvierat udržiavaná
+na primeranej úrovni. Súčasne však musia ľudia uspokojovať nevyhnutné potreby zvierat.
+Tieto potreby sú naplňované, pokiaľ chovatelia k chovu pristupujú eticky. Etika chovu
+zvierat súvisí s pojmom welfare. Welfare, ktorý je nahradený slovenským termínom pohoda
+alebo blaho zvierat, je stav fyzickej a psychickej harmónie medzi organizmom a prostredím.
+9
+
+Základné charakteristiky welfare boli definované v roku 1965 vo Veľkej Británii. Výborom
+pre ochranu práv zvierat, ktoré definovali tzv. 5 slobôd zvierat ako sú zavedené:
+•
+
+zvieratá nesmú byť smädné, hladné ani podvyživené,
+
+•
+
+musia teda odpočívať vo vhodnom prostredí, chránené pred vonkajšími vplyvmi,
+
+•
+
+nesmú trpieť bolesťami, nesmú byť zranené alebo choré,
+
+•
+
+musí mať možnosť chovať sa normálne v dostatočnom priestore so zvieratami svojho
+druhu,
+
+•
+
+nesmie byť stresované ani trpieť.
+Welfare je stav, kedy sa jedinec snaží alebo sa pokúša vyrovnať s podmienkami
+
+prostredia. Pokiaľ sú tieto podmienky nevyhovujúce jedinec sa ich snaží rôznymi spôsobmi
+prekonať. Jedným z troch základných faktorov welfare je chovateľ, jeho etické cítenie, jeho
+vzťah k zvieraťu. Druhým prvkom je kvalita chovu, ktorá zahrňuje pravidelnosť a úroveň
+kŕmenia a napájania, veľkosť a stabilitu skupiny zvierat, účinnosť hygieny a profylaxie,
+spoľahlivosť technického vybavenia a taktiež pripravenosť na mimoriadne situácie. Tretím
+prvkom je kvalita ustajnenia zvierat, napr. dostatočný priestor pre kŕmenie a napájanie,
+dostatočný a kvalitný priestor pre ležanie, mikroklíma, kvalita podlahy, bezpečnosť
+pohybových ciest, voľnosť pohybu a odpočinku, úroveň hluku atď. (Grohman, 1981).
+
+1.3 Technologický systém pre chov hovädzieho dobytka
+Pozostáva z:
+•
+
+ustajnenia,
+
+•
+
+kŕmenia,
+
+•
+
+napájania,
+
+•
+
+dojenia kráv,
+
+•
+
+odstraňovania exkrementov,
+
+•
+
+pohybových chodieb a priestorov,
+
+•
+
+vetrania,
+
+•
+
+doplnkových tzv. komfortných pomôcok (Bickert, 1995).
+
+10
+
+1.4 Systémy ustajnenia
+Ustajnenie je základom technologického systému. Jeho spôsob určuje voľbu aj iných
+častí technologického systému. Parametre ustajnenia by mali vytvárať také podmienky, aby
+výkonný biologický materiál pri zabezpečovaní plnohodnotnej výživy dokázal realizovať
+svoje produkčné schopnosti. Musia byť rešpektované predovšetkým priestorové požiadavky
+zvierat s ohľadom na ich prirodzené potreby. Parametre ustajnenia musia byť volené tak,
+aby bez väčšieho nároku na ručnú prácu boli zvieratá udržované v čistote. Ustajňovacie
+systémy pre jednotlivé kategórie hovädzieho dobytka sú nasledovné:
+Kravy: • voľné ustajnenie s ležiskovými boxmi
+•
+
+podstielané
+
+•
+
+nepodstielané: ploché chodby chodby s roštovou podlahou
+
+•
+
+voľné skupinové kotercové ustajnenie
+
+•
+
+s hlbokou podstielkou
+
+•
+
+s narastajúcou podstielkou
+
+•
+
+s plochým pristielaným ležoviskom
+
+•
+
+ustajnenie s priväzovaním na stredne dlhých podstielaných stojiskách
+
+Teľatá:
+• individuálne podstielané ustajnenie vo vonkajších búdach
+•
+
+skupinové kotercové ustajnenie s podstielaním a individuálnym napájaním
+
+•
+
+odchov teliat pod dojčiacimi kravami
+
+Odchov jalovíc:
+• voľné, skupinové kotercové ustajnenie
+• s hlbokou podstielkou
+• s narastajúcou podstielkou
+• s plochým pristielaným ležoviskom
+• voľné ustajnenie s ležiskovými boxmi
+• podstielané
+• nepodstielané: ploché chodby chodby s roštovou podlahou
+Výkrm dobytka:
+• voľné, skupinové kotercové ustajnenie - s hlbokou podstielkou
+• s narastajúcou podstielkou
+11
+
+• s plochým pristielaným ležov
+Teľatá odchované počas mliečnej výživy vo vonkajších individuálnych búdach je
+vhodné pred umiestnením vo väčšej skupine v odchovni alebo vo výkrmni ustajniť v
+skupinových vonkajších búdach. Sú to podstielané búdy s výbehom pre 4-6 teliat. Teľatá sa
+tu obvykle nechajú 2-4 týždne. Zvyknú si na skupinový chov a sociálne kontakty s inými
+teľatami (Hasheider and Johnson, 2011).
+
+1.4.1
+
+Voľné ustajnenie hovädzieho dobytka
+
+Chovateľské prostredie tvorí množstvo vonkajších faktorov vytvárajúcich jeden
+komplex ovplyvňujúci život zvierat a rozhodujú o dosiahnutí vytýčených cieľov chovu.
+Preto pri hospodárskych zvieratách musí byť chovateľské prostredie realizované tak, aby v
+nich dokázali manifestovať úžitkové vlastnosti v maximálnej miere. Chovateľské prostredie
+tvorí okrem výživy, techniky a organizácie chovu aj ustajňovací priestor, kde zvieratá žijú.
+Ak má ustajňovací priestor zvieratám vyhovovať, musí zabezpečovať podmienky pre
+prirodzené správanie. Takisto musí poskytnúť primerané možnosti pre welfare, aby sa v čo
+najväčšej miere zamedzilo neprirodzeným prejavom správania.
+Hovädzí dobytok je stádové zviera a potrebuje dostatočný priestor pre prirodzené
+správanie. Preto najvhodnejším ustajnením je ustajnenie voľné. Pre kravy prichádzajú do
+úvahy dva typy voľného ustajnenia a to boxové a kotercové. Vo voľnom ustajnení je
+potrebné kravám zabezpečiť dostatočný priestor, vhodné ležovisko a bezpečné pohybové
+priestory. Nemenej dôležité je dobré vetranie a prístup ku kvalitnému krmivu a pitnej vode
+(Černá, 2005).
+Tab.1 Voľné ustajnenie
+(Brestenský, 2006)
+
+S uzavretou prednou
+
+S otvorenou prednou
+
+stranou (mm)
+
+stranou (mm)
+
+Dĺžka boxu
+
+2300
+
+2100
+
+Šírka boxu
+
+1050
+
+1050
+
+12
+
+Tab.2 Plocha ložiska pre kravu (m2)
+(Brestenský, 2006)
+Skupinový koterec
+
+4,75
+
+Pôrodný koterec
+
+9
+
+Tab.3 Individuálny pôrodný koterec (mm)
+(Brestenský, 2006)
+Dĺžka strany
+
+3000
+Tab.4 Kŕmisko
+(Brestenský, 2006)
+
+Šírka kŕmiska
+
+3000 mm
+
+Šírka kŕmneho miesta
+
+700 mm
+
+Maximálne využitie kŕmneho miesta
+(pomer kŕmnych miest k počtu ustajnených
+
+1:2
+
+zvierat)
+Tab.5 Pohybové chodby – preháňacie uličky (mm)
+(Brestenský, 2006)
+Šírka jednosmernej chodby
+
+850
+
+Šírka dvojsmernej chodby
+
+1600
+
+1.4.2
+
+Ležiskové boxy
+
+Vhodnejším typom ustajnenia pre kravy s voľným pohybom je ustajnenie
+s ložiskovými boxmi. Pri tomto ustajnení tvoria ustajňovací priestor boxy, ktoré tvoria
+ležovisko, kŕmisko, pohybové a spojovacie uličky. Pri správne volených parametroch týchto
+priestorov voľné boxové ustajnenie udržuje kravy čisté a poskytuje im dostatočné pohodlie
+pre odpočinok bez vyrušovania ostatnými kravami. Boxy môžu byť riešené s podstielaním s
+produkciou maštaľného hnoja alebo bez podstielania s produkciou hnojovice. Prednosti
+
+13
+
+ležiskových boxov je možné dokonale využiť iba pri správnej voľbe ich rozmerov podľa
+telesného rámca dobytka. Musia byť riešené tak, aby zabezpečovali maximálnu pohodu pri
+ležaní a súčasne umožňovali pohodlné a prirodzené vstávanie a líhanie. V opačnom prípade,
+ak sa v boxoch neposkytne dojniciam dostatočné pohodlie, hľadajú si na ležanie iné miesto,
+napr. v priestoroch kŕmiska alebo v hnojnej chodbe. V takom prípade sa kravy nadmerne
+znečisťujú. Aby rozmery boxov vyhovovali všetkým zvieratám v stáde, je potrebné
+dimenzovať ich na telesné miery tých najväčších (Knižek, 1996).
+Ležanie je najintenzívnejší spôsob odpočinku. Kravy ležia 11-12 hodín denne, ľahnú si
+10 až 15 krát a perióda ležania trvá 60 až 80 minút, často i viac. Čas, v ktorom zvieratá
+odpočívajú, je závislý od času kŕmenia, dojenia a manipulácie s nimi. Dobu a dĺžku periódy
+ležania ovplyvňuje viacero ustajňovacích faktorov:
+•
+
+dostupnosť miesta na ležanie - ležovisko by malo byť situované tak, aby sa
+do neho zvieratá ľahko a bez námahy dostali, musí umožniť ležať všetkým
+ustajneným zvieratám v rovnakom čase,
+
+•
+
+parametre miesta na ležanie - musí umožniť zvieratám ľahnúť si a vstať
+a ležať v každej polohe,
+
+•
+
+podlaha ležoviska - zvieratá uprednostňujú mäkkú dobre formovateľnú
+podlahu, ktorá neodvádza teplo z tela pri nízkych, a na druhej strane
+odvádza pri vysokých teplotách.
+
+Boxy musia byť dostatočne dlhé, aby si kravy mohli do boxu ľahnúť a vstať bez
+ťažkostí. Ležiskový box s prednou stenou pre 650 kg kravu by mal byť dlhý 2,5 m.
+V prípade, že sú dva boxy proti sebe alebo je box umiestnený prednou časťou pri pohybovej
+chodbe a má otvorenú prednú časť, kravy môžu využívať na manipuláciu s hlavou pri líhaní
+a vstávaní priestor protiľahlého boxu alebo chodby, box môže byť kratší. Pre 650 kg kravu
+by mal byť takýto box dlhý 2,3 m.
+Boxy musia byť dostatočne široké. Zábrany boxov nesmú pri ležaní nijako kravy
+obmedzovať. Šírka musí kravám umožniť pohodlne ležať s prirodzene uloženými
+končatinami. Na druhej strane nesmie byť veľmi široký, aby kravám neumožňovali ležať
+a stáť v boxe šikmo a menším kravám sa otáčať, čo vedie k znečisťovaniu boxov. Šírka boxu
+by mala byť pre 650 kg kravu 1,2 m. Pre vysokoteľné a suchostojace kravy, ktoré sú širšie
+treba uvažovať so širším boxom (1,3 m) (Doležal, 1996).
+Šírku boxov vymedzujú bočné zábrany. Veľmi vhodným riešením je, keď sú zábrany
+kotvené v prednej časti boxu, čo okrem zlepšených priestorových podmienok pre zviera
+14
+
+predlžuje hlavne životnosť zábran. Výška bočnej zábrany boxu pre dojnice s väčším
+telesným rámcom má byť od podlahy boxu minimálne 1100 mm. Táto výška je stanovená
+kvôli umiestneniu kohútikovej zábrany. Vzdialenosť spodnej tyče od podlahy v prednej časti
+boxu má byť maximálne 300 mm. To umožňuje kravám držať hlavu nad ňou pri ležaní a
+pohyb hlavy pri vstávaní alebo líhaní vo vedľajšom boxe. Koniec zábrany (jej oblúk) má byť
+od konca boxu kratší o 250 až 300 mm.
+Aby kravy nemohli vstupovať hlboko do boxu a kaliť prípadne močiť do konca boxu
+sa na bočnú zábranu boxu montuje kohútikova zábrana, umiestňuje 1 900 mm uhlopriečne
+od zadnej hrany boxu. Do boxov bez steny v prednej časti a proti sebe umiestneným boxom
+sa inštaluje hlavová zábrana. Pre kravy 650 kg má byť umiestnená od podlahy boxu vo výške
+0,8 m.
+Podlaha ležiskového boxu býva vyvýšené oproti chodbe o 200 mm aby sa do neho
+nedostáva hnoj pri čistení chodby. V podstielanom prehĺbenom boxe tvorí podlahu
+podstielka ohraničená hrudnou doskou v prednej časti a stelivovým prahom v zadnej časti
+boxu. Pri nepostielanom boxe tvorí podlahu matrac, upevňuje sa na podlahu vyvýšeného
+boxu (Mihina, 1998).
+
+1.5 Hnojné chodby a spojovacie uličky v boxovom ustajnení
+Hnojná chodba pri boxovom ustajnení musí umožniť kravám pohodlne vchádzať a
+vychádzať z boxov a obísť sa, keď sa stretnú. Ak sa hnoj vyhŕňa radlicou nesenou traktorom,
+musí byť šírka hnojnej chodby taká, aby mechanizmus mohol cez ňu prechádzať. Čím je
+však hnojná chodba, ale i kŕmisko širšie, tým je koncentrácia výkalov na nej menšia a zdajú
+sa čistejšie. Pri mobilnom vyhŕňaní hnoja býva 2 200 mm. V dvoj a trojradových maštaliach
+s boxovým ustajnením je kŕmisko s hnojnou chodbou prepojené spojovacími uličkami. Sú
+vyvýšené oproti kŕmisku a hnojnej chodbe, majú byť na úrovni podlahy boxu, teda vo výške
+200 mm oproti pohybovým chodbám. Čistenie týchto uličiek sa robí ručne, preto ich treba
+robiť tak, aby sa na nich udržovalo čo najmenej exkrementov. Mali by mať spád 2 % zo
+stredu na kraje, aby hnojovica stekala do pohybových chodieb. V spojovacích uličkách sa
+umiestňujú napájacie žľaby tak, aby bol k nim čo najlepší prístup a aby sa pri nich mohlo
+napiť čo najviac zvierat. Obyčajne sa dávajú do stredu spojovacej uličky. Môžu byť
+priložené k boxom, vtedy je k nim prístup iba z jednej strany, alebo môžu byť umiestnené
+medzi dvomi sekciami s prístupom kráv z dvoch strán. Druhá alternatíva umožní znížiť počet
+15
+
+napájacích žľabov. Pri pití nesmie byť zabránené pohybu cez uličku nepijúcich zvierat.
+Spojovacia ulička s napájacím žľabom môže umožniť pohyb v jednom smere, alebo dvom
+zvieratám sa obísť. Zjednodušenou pomôckou pre chovateľa môže byť, že šírka spojovacej
+uličky sa rovná minimálne šírke troch boxov (3600 mm) (Loudon, 1993).
+
+1.6 Klíma v maštali
+Klíma v maštali je rozhodujúcim faktorom pre dosahovanie vysokej úžitkovosti
+zvierat. Rozhoduje nielen o produkcii, ale aj o čistote a zdravotnom stave. Je nesporné, že
+kvalite maštaľného vzduchu treba venovať primeranú pozornosť. Telesná teplota
+hovädzieho dobytka je 38,8 ± 0,5 °C. Túto teplotu si zachováva pri rôznych klimatických
+podmienkach. Je to zviera s veľkým teplotným objemom a relatívne malým povrchom tela
+na odvod tepla. Má dobre prispôsobenú kožu a srsť na prekonávanie nízkych teplôt. Pri
+vysokých teplotách využíva, okrem priameho odvodu tepla z povrchu tela cez pokožku, dva
+termoregulačné mechanizmy a to potenie a zvýšenú frekvenciu dychu. Zvieratá produkujú
+pri svojich životných pochodoch teplo, ktoré musia z organizmu dostať von, aby sa
+neprehriali a nezvyšovala sa im telesná teplota. Napríklad, krava s hmotnosťou 650 kg a s
+dojivosťou 20 l vyprodukuje v lete 1150 a v zime 1250 W. Z toho vyplýva, že takáto krava
+vyhrieva svoje okolie rovnako intenzívne ako malý elektrický ohrievač s príkonom 1200 W.
+Pri svojich fyziologických životných pochodoch vylučuje do ovzdušia vodné pary. Rovnako
+ťažká krava, s rovnakou dojivosťou vyprodukuje za hodinu v lete pri teplote 25 °C 1,25 l a
+v zime pri teplote 0 °C 0,36 l vody vo forme vodných pár. Pri teplote 10 °C vyprodukuje pri
+dýchaní 0,56 l vody. Okrem týchto vodných pár sa do maštaľného ovzdušia dostávajú vodné
+pary z exkrementov z podlahy. Pri dýchaní živočíchy vylučujú oxid uhličitý. Krava s
+hmotnosťou 650 kg vylúči za hodinu 0,23 kg CO2. Z exkrementov, ktoré zvieratá vylučujú
+sa uvoľňujú do maštaľného ovzdušia škodlivé plyny. Je to hlavne amoniak, ktorý je silne
+prchavý a nachádza sa hlavne v moči. Uvoľňujú sa z nich aj ďalšie škodlivé plyny ako sú
+sírovodík a metán. Pri vyšších koncentráciách vo vzduchu dráždia sliznice a pri dlhodobom
+pôsobení spôsobujú choroby respiračného systému. Prach je často ignorovaný ako
+znečisťovateľ maštaľného ovzdušia. Zväčša pochádza z podstielky, suchých krmív, ale aj zo
+srsti a kože zvierat. Drobné pevné častice, pohybujúce sa vo vzduchu, sú dobrým
+transportérom pre mikroorganizmy. Vo vyššej koncentrácii poškodzujú dýchací systém
+zvierat. Z predchádzajúceho vyplýva, že o kvalite maštaľného vzduchu rozhoduje:
+• teplota,
+
+16
+
+• obsah vodných pár, čiže relatívna vlhkosť,
+• obsah škodlivých plynov (CO2, NH3, H2S, CH4),
+• obsah prachových častíc, • obsah mikroorganizmov (Barnwell, 2002).
+1.6.1
+
+Vetranie maštalí
+
+Vetraním sa rozumie výmena opotrebovaného maštaľného vzduchu vonkajším
+čerstvým vzduchom. To znamená, že vetrací systém musí zabezpečiť prívod čerstvého
+vzduchu do maštale a odvod opotrebovaného vzduchu z maštale. Musí byť tak výkonný, aby
+zabezpečil pre zvieratá prijateľnú mikroklímu pre dosahovanie vysokej úžitkovosti.
+Maštaľná klíma rozhoduje nielen o produkcii zvierat, ale aj o čistote a ich zdravotnom stave.
+Prúdenie vzduchu určuje odvod tepla z tela konvekciou. Čím väčší je prietok, tým väčšie je
+množstvo odvádzaného tepla. Pri prirodzenom vetraní, kedy je v lete pri bezvetrí prúdenia
+vzduchu klesá, výmena vzduchu v stajni nedostatočná a prenos tepla zo zvieraťa do okolia
+sa spomaľuje. V takomto prípade je možné na podporu prúdenia vzduchu použiť plošné
+ventilátory inštalované v stajniach, ktoré tiež zaistia spoľahlivejší prívod čerstvého
+vonkajšieho vzduchu do stajní. Ventilátory by mali byť inštalované v miestach, kde sa
+dobytok najviac vyskytuje, tj. v miestach spania a kŕmenia. Pri inštalácii treba dbať na to
+aby neprekážali prevádzke (podstielaniu alebo vyhrňovanie hnoja). Ventilátory by mali byť
+rozmiestnené tak, aby bolo zaistené rovnomerné prúdenie v jednom smere po celej dĺžke
+stajne Obr. 1. Prúdenie v zóne pre zvieratá by však nemalo prekročiť 3m.s-1, aby nedošlo
+k poškodeniu zvierat. Medzera ventilátorov je obvykle 1 m na 10 cm priemeru ventilátora,
+tj. 9 metrov pre ventilátor o priemere 90 cm. V letných mesiacoch kedy je ochladzovanie
+zariadením obmedzené kvôli vysokým okolitým teplotám, sa zvieratá ochladzujú hlavne
+odparovaním, pretože okolitá teplota je blízka teplote tela. Chladenie výparmi je účinnejšie
+pri nízkej relatívnej vlhkosti vzduchu než pri vysokej. Ochladenie sa dosahuje ochladením
+vzduchu a priamym ochladzovaním zvieraťa. K ochladzovaniu vzduchom sa používajú
+zariadenia na rozprašovanie vzduchu. Vzduch sa dá ochladiť vďaka tomu, že sa do vzduchu
+uvoľňujú malé kvapky vody, ktoré sa pred dopadom na zem vyparia. Vhodným riešením je
+kombinácia rozprašovanie vody a plošného ventilátora Obr. č.2. V tomto systéme je voda
+rozprašovaná do prostredia prostredníctvom vysokotlakových dýz Obr. č.3. To vyžaduje
+inštaláciu vysokotlakového potrubia a čerpadiel. Zvieratá môžu vdychovať rozprašovanú
+hmlu, čo môže spôsobiť dýchacie problémy. Malé kvapky sa môžu taktiež prilepiť na srsti
+zvieraťa a vytvoria vodný film, ktorý bráni odvodu tepla z tela. Priame evaporačné chladenie
+je oveľa účinnejšie. Pri tejto metóde sa rozprašujú väčšie kvapky vody, ktoré ochladzujú srsť
+17
+
+zvieraťa tým, že ich zmáčajú až po pokožku. K ochladzovaniu dochádza pri odparovaní vody
+z kože a srsti. K tomuto ochladzovaniu sa používa tlak vody. Inštaluje sa vo výške 1 – 1,5 m
+od chrbtu zvieraťa a v miestach, kde sa podstielka nenamáča, tj. v miestach kŕmenia,
+napájania v komunikačných chodbách medzi kŕmením a podstielkou v boxovom ustajnení
+a v miestach čakania pri dojení. Je však treba vziať do úvahy, že v miestach kde sú
+umiestnené postrekovače, sa zhromažďujú kravy. Chladenie by malo prebiehať obzvlášť
+v teplých obdobiach, tj. pred popoludním a popoludní, najčastejšie sa odporúča používať
+systém pri teplote 25°C. U kráv, ktoré produkujú veľké množstvo tepla, by mala byť okolitá
+teplota znížená na 21°C. Aplikuje sa opakované zvlhčovanie v krátkych časových
+intervaloch, tak aby sa zabránilo nadmernému zvlhčovaniu miesta. Doba a frekvencia
+aplikácie závisí od rýchlosti prúdenia a teploty vzduchu. Spustenie vody na 30 sekúnd
+postačuje na namočenie chrbta a bokov kráv. Opätovná aplikácia by mala spustiť po
+vyschnutí zvierat (Arbel, 2007).
+Z ochladzovacích systémov je najúčinnejšie kropenie zvierat v kombinácii s veľkoplošnými
+pomalobežnými ventilátormi, potom kropenie srsti a kože, nasleduje samostatný
+veľkoplošný ventilátor a na koniec zhmľovač s ventilátorom.
+Pre zamedzenie tepelného stresu pri kravách môžeme niečo urobiť v troch oblastiach:
+1. Maštaľ: zamedziť prívod slnečného žiarenia,
+montáž ventilátorov,
+postrekovanie kráv.
+2. Kŕmenie a napájanie: kŕmiť v chladnejších častiach dňa,
+dostatok napájačiek s prítokom vody,
+zvýšiť obsah vody v suchej kŕmnej dávke.
+3. Výživa: obmedziť krmivá s vysoký obsahom vlákniny,
+zvýšiť koncentráciu živín v kŕmnej dávke,
+pridať pufry do kŕmnej dávky,
+zvýšiť koncentráciu K, Na, Mg v kŕmnej dávke (Agromont.usbfactory.sk)
+
+18
+
+Obrázok č. 1 Ventilátory
+(Agromont.usbfactory.sk)
+
+Obrázok č. 2 Ventilátor vybavený systémom rozprašovania vody
+(http://www.vuzv.sk/ziv/Brestensky6.pdf)
+
+Obrázok č. 3 Dýza na zmáčanie zvierat
+(https://agromontnitra.sk/)
+19
+
+1.6.2
+
+Tunelové vetranie
+
+Pri tunelovom vetraní sa jedná o úplne novú koncepciu vetrania maštalí. Spoluprácou
+skúsených veterinárov a technikov bol vytvorený ventilačný systém, ktorý je jedinečný
+svojou precíznosťou a účinnosťou. Dimenzovanie každého jednotlivého systému prebieha
+cez náročnú 3D-simuláciu maštaľnej klímy, ktorá je založená na báze značných
+veterinárnych znalostí. Táto komplexná výpočtová metóda ponúka možnosť zohľadniť
+všetky vplyvy na stabilnú maštaľnú klímu. Hlavné prúdenie vetra, umiestnenie okien a brán,
+tvar strechy, rozloženie jednotlivých zón v maštali, a ďalšie iné faktory sa zohľadňujú pri
+plánovaní a prepočtoch každého tunelového vetrania. Tento systém vetrania sa skladá z
+ventilátora, ktorý je spojený s textilným ventilačným tunelom. Dimenzovanie ventilátora,
+ktorý je zabudovaný na vonkajšej stene maštale závisí od podmienok v maštali, a aj veľkosti
+a počtu zvierat. Čerstvý vzduch sa nasáva a rovnomerne rozdeľuje cez tunelový systém.
+Výstupné otvory vzduchu zohrávajú veľkú úlohu, ich veľkosť sa vypočítava individuálne
+pre každú maštaľ. Dostatočné množstvo čerstvého vzduchu sa dostáva cielene k zvieratám.
+Rovnako je možné niektoré zóny v maštali vynechať. To robí prácu v maštali príjemnejšou
+(sk.schauer-agrotronic.com).
+
+Obrázok č. 4 Tunelové vetranie pre teľatá
+(sk.schauer-agrotronic.com)
+
+20
+
+Obrázok č. 5 Tunelové vetranie pre kravy
+(sk.schauer-agrotronic.com)
+1.6.3
+
+Tunelové vetranie pre teľatá
+
+Vzduch prúdiaci z tunela, vytláča „opotrebovaný“ vzduch z maštale. Tento systém
+výrazne zlepšuje zdravotný stav teliat. Tým vzniká možnosť zníženia používania antibiotík.
+Dôsledkom nižšieho počtu ošetrení je viditeľná aj úspora nákladov. Znižujú sa aj straty
+úmrtím teliatok. Prevzdušňovacie tunely sa montujú ponad ležoviskové zóny.
+Výhody:
+• využíva na 100% čerstvý vzduch
+• je presne individuálne plánované pre konkrétnu maštaľ
+• čerstvým vzduchom sú zásobované výlučne „dôležité“ zóny v maštali
+• hospodárne v prevádzke
+• kompletná elektrická energia sa používa na privádzanie čerstvého vzduchu k zvieratám,
+žiaden vzduch sa „nestráca“ (sk.schauer-agrotronic.com).
+
+21
+
+Obrázok č. 6 Tunelové vetranie pre teľatá
+(sk.schauer-agrotronic.com)
+
+1.7 Tepelný stres ustajnených zvierat
+Tepelný stres ustajnených zvierat vznikne, ak niektorá z kombinácií faktorov
+prostredia spôsobí, že teplota prostredia presahuje hranice termoneutrálnej zóny. V takomto
+prípade dochádza k hypo- alebo hyper-termii (Armstrong, 1994).
+1.7.1
+
+Stres z chladu
+
+Pri znížení teploty pod dolnú kritickú hranicu sa zvieratá dostávajú do zóny
+hypotermického stresu (stresu z chladu). K odolnosti proti chladu napomáhajú
+termoregulačné a adaptačné mechanizmy, ktoré pôsobia nasledovne:
+•
+
+zúženie ciev (vazokonštrikcia),
+
+•
+
+zníženie frekvencie dychu,
+
+•
+
+1.chemická termoregulácia,
+
+•
+
+zvýšená sekrécia adrenalínu a noradrenalínu,
+
+•
+
+adaptačné mechanizmy (hustota a dĺžka srsti, hrúbka kože, podkožný tuk atď.)
+
+•
+
+zmeny v správaní zvierat (tzv. termoregulačné správanie – chúlenie, kolektívna
+termoregulácia a pod.).
+
+Dôležitým faktorom pre prežitie je zásoba energetických zdrojov v tele a fyzická aktivita
+zvierat. U mláďat mnohých druhov hrá významnú úlohu pre prežitie v chlade hnedé tukové
+22
+
+tkanivo. Toto tkanivo je na rozdiel od bieleho tukového tkaniva ľahko metabolizovateľné a
+vďaka tomuto tkanivu sú mláďatá schopné tvorby tepla bez trasenia kostrových svalov.
+Pokiaľ zlyhajú všetky uvedemé mechanizmy, nastáva smrť z podchladenia.
+Negatívny vplyv nízkych teplôt na úžitkové parametre i zdravie zvierat je možné v našich
+klimatických podmienkach korigovať a minimalizovať znížením vlhkosti a reguláciou
+rýchlosti prúdenia vzduchu v maštali. Zníži sa tým aj dolná kritická teplota. K tomu sa
+využívajú stavebné a technologické riešenia zamerané na efektívnu energetickú bilanciu
+budov.
+Na druhej strane vyššie teploty, ktoré vyhovujú mláďatám hydiny a ošípaných môžu byť pre
+človeka dokonca až neznesiteľne vysoké. Z toho dôvodu musí obsluhujúci personál
+dodržiavať prevádzkovú disciplínu a voliť vhodné ochranné pomôcky aj oblečenie.
+Ak navyše chovateľ ochráni zvieratá pred vysokou vlhkosťou vzduchu a rýchlosťou
+prúdenia vzduchu, zvyšuje sa tým dolná kritická teplota. Chladový stres je možné v našich
+klimatických
+
+podmienkach
+
+dostupnými
+
+technickými
+
+prostriedkami
+
+korigovať
+
+a
+
+minimalizovať tak negatívny dopad na úžitkové parametre i zdravie zvierat (Bianca, 1962).
+1.7.2
+
+Stres z vysokých teplôt
+
+Náročnejšie na zabezpečenie kvality chovateľského prostredia je letné obdobie, resp.
+obdobie s extrémne vysokými vonkajšími teplotami. Pri zvýšení teploty maštaľného
+vzduchu nad hornú kritickú teplotu vzniká prostredie hypertermického stresu (stresu z
+vysokých teplôt), ktorý môže viesť k zníženému príjmu krmiva, a tým aj k poklesu
+produkcie. Stres z horúceho prostredia významne ovplyvňuje nielen produkciu, ale aj
+reprodukciu zvierat.
+Aj k odolnosti voči teplu napomáhajú termoregulačné a adaptačné mechanizmy, ktoré
+pôsobia nasledovne:
+•
+
+rozšírenie ciev (vasodilatácia),
+
+•
+
+zvýšená rektálna teplota,
+
+•
+
+zvýšená frekvencia dychu,
+
+•
+
+slinenie,
+
+•
+
+potenie,
+
+•
+
+2.chemická termoregulácia,
+
+•
+
+adaptačné mechanizmy (hustota a dĺžka srsti, hrúbka kože, podkožnýí tuk atď.)
+
+23
+
+•
+
+zmeny v správaní zvierat (tzv. termoregulačné správanie – vyhľadávanie tieňa,
+zamokrených miest, zníženie pohybovej aktivity, nefyziolgické ležanie, zvýšený
+príjem vody, zníženie príjmu krmiva a pod.).
+
+Ak všetky tieto mechanizmy zlyhajú, nastáva smrť z prehriatia.
+Prebytočné teplo z organizmu sa v letnom období uvoľňuje kondukciou (vedením),
+konvekciou (prúdením), radiáciou (sálaním) a evaporáciou (potením zvierat). Evaporácia je
+považovaná za najúčinnejší spôsob výdaja tepla. Konvekciou alebo kondukciou sa môže
+zviera ochladiť iba vtedy, keď je teplota vzduchu nižšia než teplota kože, alebo keď zvieratá
+ležia na ploche, ktorá je chladnejšia než je ich koža. Radiácia nastáva pri rozdielnych
+teplotách dvoch predmetov, ktoré sa vzájomne nedotýkajú. Dochádza k nej, pokiaľ je
+prostredie chladnejšie než povrch tela. Ak je v prostredí vysoká vlhkosť vzduchu,
+ochladzovanie radiáciou je obmedzené, pretože vlhký vzduch radiačné teplo sčasti pohlcuje.
+Môže nastať aj tzv. kladná radiácia, keď je teplota okolitých plôch konštrukcií vyššia než
+teplota povrchu tela. Intenzita radiácie závisí nielen od teplotného rozdielu, ale aj od
+vzdialenosti povrchov.
+Stresovým podnetom pre zvieratá je zvýšenie telesnej teploty tela nad ich možnú
+fyziologickú hodnotu. Následkom je porušenie rovnováhy medzi tvorbou tepla a
+možnosťami ochladzovania okolitým prostredím (Armstrong, 1994).
+
+1.7.3
+
+Tepelný stres hovädzieho dobytka
+
+Vznik tepelného stresu hovädzieho dobytka je obťažné vyjadriť jedným údajom,
+pretože závisí od viacerých faktorov. Prostredie teplotou presahujúcou hornú hranicu
+termoneutrálnej zóny núti organizmus zvierat zapájať do činnosti termoregulačné
+mechanizmy pre prežitie v podmienkach vysokých teplôt vzduchu. Ich správnou funkciou
+môže byť do určitej miery vyrovnávaná telesná teplota. Vždy je to však na úkor energie
+potrebnej k produkcii.
+Vstupným príznakom prehriatia dobytka je zrýchlenie dychu a zvýšená rektálna teplota.
+Zrýchleným dýchaním sa síce zvýši odparovanie vody, ale zároveň sa z krvi odstraňuje CO2.
+Toto môže po určitom čase viesť k vzostupu pH krvi a k respiračnej alkalóze. Vzniku
+respiračnej alkalózy napomáha i zvýšené slinenie, ktoré zvyšuje ochladzovací efekt. Naopak
+zvýšené slinenie môže mať za následok metabolickú acidózu, pretože sa strácajú látky, ktoré
+dojnice potrebujú k pufrácii bachora.
+
+24
+
+Ďalším príznakom tepelného stresu je vylučovanie potu, ktoré je spojené s výdajom
+tepla evaporáciou. Dôsledky tepelného stresu v chovoch dobytka sú nasledovné:
+•
+
+znížený príjem krmiva a zvýšené požiadavky na záchovnú kŕmnu dávku,
+
+•
+
+znížené využitie krmiva,
+
+•
+
+zvýšený príjem vody (až o 50 %),
+
+•
+
+zníženie mliečnej úžitkovosti a negatívne ovplyvnenie zložiek mlieka a mledziva,
+
+•
+
+zníženie reprodukčných schopností,
+
+•
+
+zníženie rastu u mladých zvierat,
+
+•
+
+zmeny v správaní zvierat,
+
+•
+
+zhoršenie zdravia a welfare.
+
+Tepelný stres najhoršie znášajú vysokoúžitkové dojnice (s dojnosťou nad 6500 litrov
+mlieka za rok), dojnice v prvej tretine laktácie a staršie dojnice (II. a vyššia laktácia).
+Ochladzovanie je obyčajne potrebné už vtedy, keď:
+•
+
+rektálna teplota dojníc sa zvýši nad 39 °C,
+
+•
+
+teplota prostredia presiahne 26, resp. 21 °C,
+
+•
+
+frekvencia dychu sa zvýši nad 60 vdychov za minútu,
+
+•
+
+nastane pokles spotreby sušiny a mliečnej produkcie nad 10 %.
+
+Medzi základné fyzikálne úpravy prostredia, ktoré obmedzujú pôsobenie tepelného
+stresu, patrí tienenie, vetranie a evaporačné ochladzovanie. Tienenie môže byť vytvorené
+prirodzene alebo pomocou zatienenej plochy (pod prístreškom). Dôležitá je orientácia
+objektu. Keď zvieratá nemajú možnosť pohybu vo výbehu, odporúča sa smer východ-západ
+pozdĺžnej osi objektu. Na druhej strane, keď majú kravy možnosť sa pohybovať, je pre ne
+lepšia orientácia sever-juh, pretože umožňuje slnečnému svitu vysušiť 35 – 50 % plochy pod
+prístreškom v ranných a odpoludňajších hodinách.
+Teplota vzduchu môže byť znižovaná prirodzeným alebo núteným vetraním. Ak
+vstupné faktory zabezpečujúce funkčnosť prirodzeného vetrania v letnom období zlyhávajú
+(bezvetrie, rozmermi nevyhovujúci objekt, atď.), je potrebné využiť niektorý zo systémov
+núteného vetrania. V najjednoduchšom prípade ide o tzv. cirkulačné ventilátory, ktoré sa
+obyčajne inštalujú za sebou v smere pozdĺžnej osi objektu a svojou činnosťou priebežne
+uvádzajú do pohybu vzduch. Týmto dochádza k zrýchleniu posunu vzduchu v dôsledku
+zvýšenia jeho rýchlosti prúdenia, a tým k možnosti lokálneho využitia ochladzovacieho
+efektu zvieratami (chill effect).
+
+Zároveň sa takto vyrieši i minimálna výmena
+25
+
+opotrebovaného vzduchu v objekte. Spôsob kombinácie prirodzeného vetrania s ventilátormi
+sa najčastejšie využíva pre zvieratá najväčšej hmotnostnej kategórie (Bohmanova, 2007).
+
+1.8 Kvalita maštaľného vzduchu
+Klíma v maštali je rozhodujúcim faktorom pre dosahovanie vysokej úžitkovosti
+zvierat. Rozhoduje nielen o produkcii, ale aj o čistote a zdravotnom stave. Je nesporné, že
+kvalite maštaľného vzduchu treba venovať primeranú pozornosť. Telesná teplota
+hovädzieho dobytka je 38,8 ± 0,5 °C. Túto teplotu si zachováva pri rôznych klimatických
+podmienkach. Je to zviera s veľkým teplotným objemom a relatívne malým povrchom tela
+na odvod tepla. Má dobre prispôsobenú kožu a srsť na prekonávanie nízkych teplôt. Pri
+vysokých teplotách využíva, okrem priameho odvodu tepla z povrchu tela cez pokožku, dva
+termoregulačné mechanizmy a to potenie a zvýšenú frekvenciu dychu. Zvieratá produkujú
+pri svojich životných pochodoch teplo, ktoré musia z organizmu dostať von, aby sa
+neprehriali a nezvyšovala sa im telesná teplota. Napríklad, krava s hmotnosťou 650 kg a s
+dojivosťou 20 l vyprodukuje v lete 1150 a v zime 1250 W. Z toho vyplýva, že takáto krava
+vyhrieva svoje okolie rovnako intenzívne ako malý elektrický ohrievač s príkonom 1200 W.
+Pri svojich fyziologických životných pochodoch vylučuje do ovzdušia vodné pary. Rovnako
+ťažká krava, s rovnakou dojivosťou vyprodukuje za hodinu v lete pri teplote 25 °C 1,25 l a
+v zime pri teplote 0 °C 0,36 l vody vo forme vodných pár. Pri teplote 10 °C vyprodukuje pri
+dýchaní 0,56 l vody. Okrem týchto vodných pár sa do maštaľného ovzdušia dostávajú vodné
+pary z exkrementov z podlahy. Pri dýchaní živočíchy vylučujú oxid uhličitý. Krava s
+hmotnosťou 650 kg vylúči za hodinu 0,23 kg CO2. Z exkrementov, ktoré zvieratá vylučujú
+sa uvoľňujú do maštaľného ovzdušia škodlivé plyny. Je to hlavne amoniak, ktorý je silne
+prchavý a nachádza sa hlavne v moči. Uvoľňujú sa z nich aj ďalšie škodlivé plyny ako sú
+sírovodík a metán. Pri vyšších koncentráciách vo vzduchu dráždia sliznice a pri dlhodobom
+pôsobení spôsobujú choroby respiračného systému. Prach je často ignorovaný ako
+znečisťovateľ maštaľného ovzdušia. Zväčša pochádza z podstielky, suchých krmív, ale aj zo
+srsti a kože zvierat. Drobné pevné častice, pohybujúce sa vo vzduchu, sú dobrým
+transportérom pre mikroorganizmy. Vo vyššej koncentrácii poškodzujú dýchací systém
+zvierat. Z predchádzajúceho vyplýva, že o kvalite maštaľného vzduchu rozhoduje: • teplota,
+• obsah vodných pár, čiže relatívna vlhkosť, • obsah škodlivých plynov (CO2, NH3, H2S,
+CH4), • obsah prachových častíc, • obsah mikroorganizmov (Botto, 2002).
+
+26
+
+1.9 Vplyv rýchlosti prúdenia vzduchu na dojivosť
+Relatívna vlhkosť vzduchu vyjadruje absorbčnú kapacitu vzduchu, pri ktorej udrží
+dané množstvo vodných pár v plynnom skupenstve. Ochladzovaním vzduchu táto kapacita
+klesá. Napríklad, keď vzduch teplý 10 °C, s relatívnou vlhkosťou 80 % ochladíme na –30
+°C, vyzráža sa z 1 kg vzduchu 5,8 g vody. Pritom, relatívna vlhkosť tohto studeného vzduchu
+bude 100 %. A naopak, keď sa zohreje, dokáže 5,8 g vodných pár absorbovať a jeho relatívna
+vlhkosť bude 80 %. Vysoká relatívna vlhkosť pri nízkych teplotách spôsobuje zvlhčenie srsti
+a stratu jej izolačných schopností. Tým sa zvýši výdaj tepla vyžarovaním. V spojení s
+vysokým prúdením vzduchu je výdaj tepla nadmerný a môže spôsobiť stres z chladu. Vysoká
+relatívna vlhkosť pri vysokých teplotách spôsobuje malý odpar potu z tela a tým aj výdaju
+tepla. Vysoká relatívna vlhkosť vzduchu v maštali je problémom pri zimnom počasí. Pri
+nízkych teplotách dokáže vzduch absorbovať menšie množstvo vodných pár, je potrebná
+nízka výmena vzduchu pre vydávanie tepla a privádzaný vonkajší vzduch má vysokú
+relatívnu vlhkosť. V nezateplených maštaliach sa relatívna vlhkosť a teplota maštale
+približuje vonkajším hodnotám, takže absorbčná kapacita maštaľného vzduchu pre vodné
+pary sa zvyšuje len veľmi málo. V každom prípade je treba zabezpečiť takú výmenu
+vzduchu, aby pri styku so studenou kovovou konštrukciou a jeho ochladení, vodné pary
+nekondenzovali. Relatívna vlhkosť by v maštali nemala prekročiť hodnotu 80 %. V
+otvorených maštaliach, kde rozdiel teploty oproti vonkajšej nie je väčší ako 3°C, by relatívna
+vlhkosť vzduchu v maštali nemala presiahnuť 85 %. Potreba výmeny vzduchu v maštali na
+zníženie teploty alebo odstránenie škodliviny sa stanovuje na základe rozdielu v teplote a
+množstve škodlivých látok v maštaľnom vzduchom a privádzanom vonkajšom vzduchu.
+Hodnoty sú vypočítané pre udržanie úrovni CO2 v maštali pod 3000 ppm, pre vlhkosť
+vzduchu v zateplenej maštali 80 %, pri vonkajšej vlhkosti 100 % a pre vlhkosť vzduchu 90
+% v otvorenej maštali aj vonku, pri rozdiele teplôt v maštali a vonku 3 °C. Pre odvod
+citeľného tepla v letnom období je stanovená vetracia kapacita, keď teplota v maštali je o 2
+°C vyššia ako vonku (Owen, 1994).
+
+27
+
+2
+
+Cieľ práce
+Cieľom práce bolo zhodnotiť vplyv rôznych technologických systémov ustajnenia
+
+hovädzieho dobytka na mikroklimatické vlastnosti vzduchu vo vybraných objektoch. Pre
+jeho splnenie bolo potrebné analyzovať mikroklimatické parametre vzduchu. K analýze boli
+využité dva objekty situované vedľa seba, z ktorých jeden bol po rekonštrukcii technológie
+ustajnenia a vetrania a druhý zostal v pôvodnom stave.
+Pre splnenie cieľa diplomovej práce bolo nevyhnutné:
+•
+
+merať teplotu a relatívnu vlhkosť vzduchu a množstvo CO2 pomocou prístrojov Comet
+S – 3121, DL – CO2 a Almemo 2590 – 4S,
+
+•
+
+vyhodnotiť namerané hodnoty a porovnať výsledky mikroklimatický vlastností
+vzduchu v starom a novom (zrekonštruovanom) objekte,
+
+•
+
+porovnať hodnoty mikroklimatických vlastností vzduchu s prípustnými hodnotami
+podľa legislatívy,
+
+•
+
+navrhnúť riešenie pre zlepšenie kvality vzduchu v starom ustajňovacom objekte.
+
+28
+
+3
+
+Metodika práce
+
+3.1 Farma Oponice
+Jediným spoločníkom a jeho vlastníkom je Slovenská poľnohospodárska univerzita
+v Nitre. Hlavným zameraním podniku, okrem podnikania na pôde je vytváranie podmienok
+a poskytovania služieb v oblasti praktickej výučby, výskumu, vývoja a realizácie odborných
+praxí študentov SPU v Nitre s cieľom komplexnej prípravy absolventov pre ich úspešné
+uplatnenie na trhu práce. V živočíšnej výrobe sa spoločnosť orientuje na chov kráv
+s produkciou mlieka, mladého dobytka, teliat, plemenný chov ošípaných, plemenný chov
+oviec a formou vzorkovníc chov koní, hydiny, drobnej pernatej zveri bažantova rýb.
+(http://vppspu.sk/index.html)
+
+Obrázok č. 7, 8, 9, 10 Oponice starý objekt
+29
+
+Obrázok č. 11 Kŕmisko v novom objekte
+
+Obrázok č. 12 Boxy v novom objekte
+
+30
+
+3.2 Popis objektov
+Objekt starý (S)
+Pre analýzu súčasného stavu a kvality vnútorného vzduchu bola vybraná staršia maštaľ s
+voľným kotercovým ustajnením jalovíc a býkov s podstielaním slamou. Jalovice boli
+ustajnené v troch radoch kotercových priestorov, pričom jeden priestor bol umiestnený pri
+obvodovom múre a ďalšie dva koterce boli v strede ustajňovacieho objektu po celej dĺžke.
+V koterci pri druhej obvodovej stene boli ustajnené býky v počte 15 ks. Počet kusov jalovíc
+bolo približne 120 s priemernou hmotnosťou 480 kg. Hnoj bol z hnojných chodieb o šírke
+2,6 m vyhŕňaný univerzálnym nakladačom na betónovú plochu pred objektom. Medzi
+kŕmnymi žľabmi sa nachádzali prejazdné kŕmne chodby šírky 2,2 m. Vstup do objektu bol
+riešený šiestimi otvormi v čelných stenách zabezpečenými zábranami. V bočných stenách
+maštale sa nachádzali z každej strany dva otvory zabezpečené zábranami pre vstup do
+výbehov. Prívod vzduchu do objektu bol zabezpečený okennými otvormi bez sklenej výplne
+s rozmermi 90 x 90 cm a odvod vzduchu pomocou vetracích hlavíc v strešnom svetlíku
+v hrebeni strechy.
+
+Obrázok č.13 Pôdorys ustajňovacieho objektu (S) s miestami merania
+Na obrázku č. 13 môžete vidieť body od 1 – 6, ktoré zobrazujú, čo sa v objekte nachádza:
+1. Ležiskové boxy
+2. Hnojná chodba
+3. Kŕmny žľab
+4. Prejazdná kŕmna chodba
+5. Výbeh
+6. Elektrorozvodňa
+31
+
+Objekt nový (N)
+Druhý objekt, v ktorom prebiehali merania bol po rekonštrukcii technológie ustajnenia
+a vetracieho systému a slúžil pre porovnanie kvality vnútorného vzduchu v starom
+objekte. V tomto objekte boli dojnice ustajnené v komfortných ležiskových boxoch
+umiestnených pri pozdĺžnych stenách v dvoch radoch a medzi nimi bola hnojná chodba
+šírky 2,2 m. Podstielanie v boxoch bolo separovaným kalom hnojovice. Produkovaná
+hnojovica a moč v hnojnej chodbe a v kŕmisku s kaliskom boli kontinuálne
+odstraňované hydraulickými šípovými lopatami do priečneho kanála a odtiaľ do
+prečerpávacej žumpy a následne do separátora. Pozdĺžne obvodové steny boli otvorené,
+zastierateľné regulovateľným protiprievanvým systémom od výšky 600 mm nad
+terénom. Systém prirodzeného vetrania bol zabezpečený otvorenou hrebeňovou
+štrbinou v dĺžke 56 m, ktorá bola krytá prístreškom proti dažďu. V čase experimentu
+bolo ustajnených 160 kusov dojníc s priemernou hmotnosťou 650 kg.
+
+Obrázok č.14 Pôdorys ustajňovacieho objektu (N) s miestami merania
+
+Na obrázku č. 14 môžete vidieť body od 1 – 5, ktoré zobrazujú čo sa v objekte nachádza:
+1. Ležiskové boxy
+2. Hnojná chodba
+3. Kŕmisko
+4. Prejazdová kŕmna chodba
+5. Výbeh
+
+32
+
+3.3 Meracia technika a postup merania
+3.3.1
+
+Prístroj na meranie teploty a relatívnej vlhkosti Comet S – 3121
+
+Prístroj meria teplotu a relatívnu vlhkosť vzduchu pomocou odnímateľnej externej
+sondy. LCD displej zobrazuje konkrétne získané hodnoty a to aj vrátane vypočítanej teploty
+rosného bodu. Pre ukladanie hodnôt je k dispozícii nastaviteľný časový interval vo vnútorne,
+energeticky nezávislej pamäti. Akékoľvek nastavovanie a ovládanie záznamníka je
+vykonávané pomocou počítača. Namerané hodnoty je možné previesť do počítača pomocou
+komunikačného kábla. Prístroj umožňuje aj trvalé napojenie k osobnému počítaču a tiež
+trvalý zber dát bez ohľadu na to, či aktuálne údaje aj archivujeme.
+Technické parametre prístroja:
+Teplota okolia:
+rozsah merania: - 30 až + 105 ˚C
+rozlíšenie: 0,1 ˚C
+presnosť: ± 0,4 ˚C pre rozsah - 30 až +80 ˚C, + - 0,5 od + 80 ˚C
+Relatívna vlhkosť:
+Rozsah merania: 0 až 100 % RV
+Rozlíšenie: 0,1 % RV
+Presnosť: ± 2,5% RV v rozsahu 5 až 95% RV pri 23 ˚C
+Rosný bod
+Rozsah: - 60 až + 105 ˚C
+
+Obrázok č. 15 COMET S – 3121
+(www.eshop.micronix.cz)
+33
+
+3.3.2
+
+Prístroj na meranie mikroklimatických vlastností vzduchu Almemo
+2590-4S
+
+Kombinovaný univerzálny ručný merací prístroj so 4 univerzálnymi vstupmi a 2
+výstupmi. K prístroju je možné sa napojiť pomocou špeciálnych programovateľných
+ALMEMO konektorov akýkoľvek snímač pre meranie fyzikálnych, elektrických
+a chemických veličín. Môžeme ho využiť pre meranie teploty, vlhkosti vzduchu,
+koncentrácie plynov a podobne. Snímané hodnoty sa zobrazujú prehľadne na displeji. Dáta
+je možné ukladať manuálne alebo automaticky v nastavenom cykle. Pomocou možnosti
+očíslovať každé z meraní alebo celé meracie sekvencie, je možné ich jednoducho
+identifikovať a vybrať z pamäte prístroja oddelene. V prístroji je možné tiež zohľadniť
+kompenzácie rôznych veličín a vyhnúť sa tak chybám merania. Je možné napríklad
+vykompenzovať tlak vzduchu alebo napríklad teplotu okolia a to priamym vložením teploty
+alebo atmosférického tlaku vzduchu.
+Technické parametre prístroja:
+-
+
+zobrazenie max., min. a priemerných hodnôt
+
+-
+
+4 univerzálne výstupy
+
+-
+
+presnosť: ± 0.03 % z nameraných hodnôt
+
+-
+
+pamäť: 59 kB
+
+Obrázok č. 16 ALMEMO 2590 – 4S
+(www.ahlborn.cz)
+
+34
+
+3.3.3
+
+Prístroj DL – CO2 na meranie a záznam koncentrácie oxidu uhličitého
+
+Obrázok č.17 DL – CO2
+(www.zefin.cz)
+Prístroj slúži na meranie a záznam aktuálnej koncentrácie oxidu uhličitého vo vzduchu,
+relatívnej vlhkosti vzduchu a teploty vnútorného a vonkajšieho vzduchu. Namerané hodnoty
+sa s prednastavenou periódou priebežne ukladajú na vstavanú pamäťovú kartu. V našom
+prípade to bolo ukladanie dát v 5 minútovom intervale, ktoré boli spracované na priemerné
+hodinové hodnoty. Zaznamenané dáta je možné pomocou príslušného programu odčítať
+a ďalej s nimi pracovať.
+Meranie koncentrácie CO2 je založené na meraní útlmu infračerveného žiarenia vo
+vzduchu v závislosti od koncentrácie CO2. Rozsah merania je 0 – 5000 ppm.
+Pre meranie vlhkosti je použitý plne kalibrovaný senzor fungujúci na základe
+polymerného citlivého prvku. Rozsah merania je 0 – 100 %.
+K meraniu teploty sa využíva polovodičový teplo – citlivý prvok. Rozsah merania je
+0 – 40 °C.
+
+35
+
+3.4 Odporúčané hodnoty relatívnej vlhkosti maštaľného vzduchu pre
+hovädzí dobytok
+Vlhkosť vzduchu je spolu s teplotou vzduchu najvýznamnejším kvalitatívnym
+ukazovateľom prostredia. Vplyv vlhkosti vzduchu na organizmus, ale i chovné prostredie
+(budovy, technologické zariadenia) je značný. Odporučené hodnoty relatívnej vlhkosti pre
+vybrané druhy zvierat sú uvedené v tabuľke (Pogran, 2011).
+
+Tab. 6 Odporučené hodnoty relatívnej vlhkosti maštaľného vzduchu pre hovädzí dobytok
+(Zdroj: Pogran, 2011)
+
+Kategória dobytka
+
+Vek
+
+Relatívna vlhkosť vzduchu, %
+
+v mesiacoch
+
+maximum
+
+optimum
+
+Teľatá - profylaktórium
+
+do 0,5
+
+751
+
+50 - 70
+
+Teľatá - mliečna výživa
+
+do 3
+
+75
+
+50 - 70
+
+Teľatá - rastlinná výživa
+
+3-6
+
+75
+
+50 - 70
+
+Odchod jalovíc
+
+5 - 22
+
+85
+
+50 - 70
+
+Výkrm dobytka
+
+6 - 18
+
+85
+
+50 - 70
+
+80
+
+50 - 70
+
+85
+
+50 - 70
+
+75
+
+50 - 70
+
+85
+
+50 - 70
+
+85
+
+50 - 70
+
+Dojnice-voľné ustajnenie
+-ustajnenie s priväzovaním
+- pôrodnica
+
+nad 18
+
+- dojáreň
+Spojovacie priestory
+
+3.5 Oblasti kritických teplôt a pásma tepelnej pohody pre hovädzí
+dobytok
+Teplota vzduchu vo vnútri ustajňovacích objektov je úzko spätá s vnútorným
+režimom budovy. Mení sa v závislosti od produkcie tepla zvieratami, obslužnými
+technologickými zariadeniami, vykurovacími telesami, tepelno-technickými vlastnosťami
+stavebných konštrukcií, od teploty vonkajšieho prostredia, insolácie a intenzity vetrania
+(Pogran, 2011).
+
+36
+
+Tab. 7 Oblasti kritických teplôt a pásma tepelnej pohody pre hovädzí dobytok
+(Zdroj: Pogran, 2011)
+Rozpätie hranice
+Kategória
+
+Termoneutrálna
+
+DKT pre vznik
+
+zóna
+
+stresu z chladu
+°C
+
+stresu z tepla
+°C
+
+8 až 26
+
+26 až 36
+
+0 až 24
+
+24 až 30
+
+-4 až 21
+
+21 až 31
+
+-14 až -4
+
+teľa vo veku 100 dní
+
+HKT pre vznik
+
+°C
+
+narodené teľa
+teľa vo veku 30 dní
+
+Rozpätie hranice
+
+jalovice
+
+-32 až -10
+
+-10 až 20
+
+20 až 27
+
+kravy s dojivosťou 22 kg
+
+-26 až -2
+
+-2 až 22
+
+22 až 28
+
+kravy s dojivosťou 40 kg
+
+-30 až -6
+
+-6 až 20
+
+22 až 26
+
+3.6 Odporúčané maximálne rýchlosti prúdenia vzduchu v zóne zvierat
+Rýchlosť prúdenia vzduchu v maštali musí zabezpečovať dostatočnú výmenu
+vzduchu. Jej maximálna hodnota je však limitovaná a závisí od druhu a kategórie zvierat.
+
+Tabuľka 8 Odporúčané maximálne rýchlosti prúdenia vzduchu v zóne pobytu zvierat
+(Zdroj: Brestenský, 2006)
+Druh a kategória zvierat
+DOBYTOK
+Teľatá
+Jalovice, výkrm
+Dojnice – kombinovaná úžitkovosť
+Dojnice – mliečny typ
+OŠÍPANÉ
+Ciciaky
+Odchov odstavčiat – I. etapa
+Odchov odstavčiat – II. etapa
+Výkrm – I. etapa
+Výkrm – II. etapa
+Výkrm – III. etapa
+Pripúšťané a prasné prasnice, kance,
+plemenné ošípané
+Prasnice dojčiace
+
+Odporučená maximálna rýchlosť prúdenia
+vzduchu, m.s-1 pri teplote
+vyššej ako
+minimálnej
+optimálnej
+optimálnej
+0,15
+0,2
+0,15 až 0,25
+0,15 až 0,25
+
+0,5
+0,5
+0,5
+0,5
+
+1,0
+1,5
+1,0*, **
+1,4*, **
+
+do 0,05
+do 0,05
+do 0,05
+do 0,1
+do 0,1
+do 0,1
+
+0,2
+0,2
+0,2
+0,3
+0,3
+0,3
+
+0,3
+0,5
+0,5
+1,0
+2,0
+2,0
+
+do 0,1
+
+0,3
+
+2,0
+
+do 0,05
+
+0,2
+
+0,5
+
+37
+
+4
+
+Výsledky práce
+
+4.1 Výsledky kontinuálneho merania teploty a vlhkosti
+Priebeh relatívnej vlhkosti a teploty vnútorného vzduchu počas sledovaného obdobia
+v objekte S a N je znázornený na obrázkoch č. 18 a 19.
+Priemerná relatívna vlhkosť vzduchu v starom objekte (S) bola 88,3 ± 11,2 % s maximálnou
+hodnotou 100 % a minimálnou 58,5 %. V novom objekte bola priemerná relatívna vlhkosť
+
+120,0
+100,0
+80,0
+60,0
+40,0
+
+20,0
+0,0
+
+12:00:00
+17:30:00
+23:00:00
+04:30:00
+10:00:00
+15:30:00
+21:00:00
+02:30:00
+08:00:00
+13:30:00
+19:00:00
+00:30:00
+06:00:00
+11:30:00
+17:00:00
+22:30:00
+04:00:00
+09:30:00
+15:00:00
+20:30:00
+02:00:00
+07:30:00
+13:00:00
+18:30:00
+00:00:00
+05:30:00
+11:00:00
+16:30:00
+22:00:00
+03:30:00
+09:00:00
+
+Relatívna vlhkosť vnútorného vzduchu, %
+
+vzduchu 71,3 ± 6,01 % s maximálnou hodnotou 83,5 % a minimálnou 46,6 %.
+
+Názov osi
+relatívna vlhkosť vzduchu (S)
+
+relatívna vlhkosť vzduchu (N)
+
+Obrázok č. 18 Priebeh relatívnej vlhkosti v starom a novom objekte
+
+Priemerná hodnota teploty vzduchu v starom objekte (S) bola 7,1 ± 3,4 °C s maximálnou
+hodnotou 13,7 °C a minimálnou 0,5 °C. V novom objekte bola priemerná teplota vzduchu
+9,5 °C s maximálnou hodnotou 16,1°C a minimálnou 1,9 °C.
+
+38
+
+12:00:00
+17:30:00
+23:00:00
+04:30:00
+10:00:00
+15:30:00
+21:00:00
+02:30:00
+08:00:00
+13:30:00
+19:00:00
+00:30:00
+06:00:00
+11:30:00
+17:00:00
+22:30:00
+04:00:00
+09:30:00
+15:00:00
+20:30:00
+02:00:00
+07:30:00
+13:00:00
+18:30:00
+00:00:00
+05:30:00
+11:00:00
+16:30:00
+22:00:00
+03:30:00
+09:00:00
+
+Teplota vnútorného vzduchu, °C
+
+18,0
+16,0
+14,0
+12,0
+10,0
+8,0
+6,0
+4,0
+2,0
+0,0
+
+Názov osi
+teplota vzduchu (S)
+
+teplota vzduchu(N)
+
+Obrázok č. 19
+
+Z výsledkov vyplýva, že v starom objekte boli mikroklimatické podmienky horšie ako
+v novom objekte, vlhkosť bola vyššia a teplota nižšia. Príčinou bolo, že stará maštaľ mala
+otvorené okná a všetky vráta. V novej maštali počas daždivého a veterného počasia boli
+stiahnuté zvinovacie plachty s protiprievanovým tkanivom a uzatvorené všetky vstupné
+dvere, preto teplota vo vnútri maštale bola vyššia. V oboch objektoch sa teplota pohybovala
+v pásme termoneutrálnej zóny. Optimálna vlhkosť vzduchu však bola prekročená v starom
+objekte, práve kvôli tomu, že objekt bol otvorený aj v daždivých dňoch.
+
+Tab. 9 Časť merania z obrázkov 18 a 19
+DATE
+
+TIME
+13.2.2023 12:00:00
+13.2.2023 12:10:00
+13.2.2023 12:20:00
+13.2.2023 12:30:00
+13.2.2023 12:40:00
+13.2.2023 12:50:00
+13.2.2023 13:00:00
+13.2.2023 13:10:00
+13.2.2023 13:20:00
+13.2.2023 13:30:00
+13.2.2023 13:40:00
+13.2.2023 13:50:00
+13.2.2023 14:00:00
+
+Teplota
+Vlhkosť
+Teplota
+Vlhkosť
+vzduchu (S) vzduchu (S)
+vzduchu (N) vzduchu (N)
+7,7
+79,8
+8,8
+66,8
+7,4
+79,5
+9,6
+64,9
+7,4
+82,2
+9,5
+65,0
+7,4
+82,8
+9,8
+66,0
+8,0
+80,5
+9,3
+68,5
+8,5
+74,2
+10,1
+66,5
+9,0
+75,0
+10,5
+66,5
+8,8
+79,5
+10,8
+66,7
+8,5
+77,1
+11,3
+65,9
+8,4
+80,1
+11,6
+64,2
+8,6
+86,1
+11,7
+63,4
+8,7
+80,6
+11,8
+62,8
+8,7
+84,9
+11,7
+62,6
+
+39
+
+4.2 Výsledky kontinuálneho merania koncentrácii CO2
+S prístrojom DL-CO2 bola meraná v starom aj v novom objekte súčasne kvalitu
+vzduchu z hľadiska produkcie oxidu uhličitého.
+Z výsledkov je zrejmé, že obsah CO2 v starej maštali bol vyšší ako v novej maštali.
+Priemerná koncentrácia CO2 v starej maštali bola na úrovni 967,28 ± 181,80 ppm a v novom
+bola 791,38 ± 140,66 ppm. Maximálna koncentrácia CO2 bola v starom objekte 1354,56
+ppm a minimálna koncentrácia CO2 bola 657,21 ppm. V novom objekte bola maximálna
+hodnota 1080,54 ppm a minimálna 555,13 ppm.
+Hladina koncentrácie oxidu uhličitého neprekročila povolenú hranicu 2 500 ppm ani
+
+oncentrácie
+
+, pp
+
+v jednom zo sledovaných objektov.
+
+S
+
+N
+
+Obrázok č. 20 Priebeh koncentrácie CO2
+
+40
+
+4.3 Meranie pomocou prístroja Almemo 2590
+S prístrojom Almemo bolo merané na presne určených miestach merania, ktoré sú
+zaznačené v pôdorysoch na obrázku č. 21 a 22. V každom objekte bolo merané v troch
+profiloch A, B, C. V každom profile boli tri miesta merania (1, 2, 3), na ktorých prebiehalo
+ambulantné meranie teploty, vlhkosti a rýchlosti prúdenia vzduchu v troch opakovaniach.
+Namerané dáta boli spracované pomocou programu Statika 10. V tabuľke 10 sú
+z nameraných dát vypočítané priemerné hodnoty teploty, vlhkosti a relatívnej rýchlosti
+vzduchu starého a nového objektu.
+
+Tab.10 Priemerné hodnoty teploty, vlhkosti a relatívnej rýchlosti vzduchu na
+jednotlivých miestach merania
+Profil
+
+Miesto
+merania
+
+Maštaľ
+
+S
+
+Teplota,
+priemer,
+°C
+8,03
+
+Teplota,
+st. odch.,
+°C
+0,18
+
+Vlhkosť,
+priemer,
+%
+63,51
+
+Vlhkosť,
+st. odch.,
+%
+0,82
+
+Rýchlosť,
+priemer,
+m.s-1
+0,21
+
+Rýchlosť,
+st. odch.,
+m.s-1
+0,01
+
+A
+
+1
+
+64
+
+A
+
+1
+
+N
+
+10,76
+
+0,08
+
+75,75
+
+0,19
+
+0,23
+
+0,01
+
+65
+
+A
+
+2
+
+S
+
+8,83
+
+0,05
+
+77,12
+
+0,30
+
+0,24
+
+0,02
+
+59
+
+A
+
+2
+
+N
+
+13,44
+
+0,05
+
+71,71
+
+0,17
+
+0,17
+
+0,00
+
+61
+
+A
+
+3
+
+S
+
+8,59
+
+0,09
+
+73,01
+
+0,79
+
+0,21
+
+0,01
+
+59
+
+A
+
+3
+
+N
+
+12,22
+
+0,16
+
+74,27
+
+0,30
+
+0,19
+
+0,00
+
+65
+
+B
+
+1
+
+S
+
+8,05
+
+0,05
+
+71,27
+
+0,18
+
+0,18
+
+0,01
+
+57
+
+B
+
+1
+
+N
+
+13,35
+
+0,09
+
+71,70
+
+0,30
+
+0,17
+
+0,01
+
+61
+
+B
+
+2
+
+S
+
+9,78
+
+0,04
+
+74,11
+
+0,24
+
+0,29
+
+0,01
+
+60
+
+B
+
+2
+
+N
+
+12,40
+
+0,08
+
+66,79
+
+0,26
+
+0,15
+
+0,01
+
+55
+
+B
+
+3
+
+S
+
+9,27
+
+0,15
+
+72,67
+
+0,33
+
+0,23
+
+0,01
+
+57
+
+B
+
+3
+
+N
+
+12,30
+
+0,04
+
+67,08
+
+0,19
+
+0,15
+
+0,01
+
+62
+
+C
+
+1
+
+S
+
+8,83
+
+0,05
+
+76,30
+
+0,13
+
+0,24
+
+0,00
+
+61
+
+C
+
+1
+
+N
+
+11,83
+
+0,15
+
+74,15
+
+0,40
+
+0,20
+
+0,01
+
+61
+
+C
+
+2
+
+S
+
+11,47
+
+0,06
+
+74,92
+
+0,37
+
+0,29
+
+0,02
+
+62
+
+C
+
+2
+
+N
+
+12,53
+
+0,06
+
+67,33
+
+0,19
+
+0,15
+
+0,01
+
+55
+
+C
+
+3
+
+S
+
+8,98
+
+0,03
+
+76,25
+
+0,14
+
+0,24
+
+0,00
+
+61
+
+C
+
+3
+
+N
+
+12,61
+
+0,05
+
+67,24
+
+0,17
+
+0,15
+
+0,01
+
+62
+
+41
+
+N
+
+Obrázok č. 21 Porovnanie priemerných hodnôt teploty vzduchu na jednotlivých miestach
+merania v objekte S a N (Anova)
+
+Z výsledkov vyplýva, že v starej maštali sa teploty na jednotlivých miestach v profile A, B,
+C významne líšili. V novom objekte sa líšili v profile A, v profile B a C sa líšili iba v mieste
+1. Tiež je zrejmé, ako pri kontinuálnom meraní, že teplota v objekte S bola nižšia ako
+v objekte N aj počas ambulantného merania. Je to dôsledkom zle zabezpečeného objektu
+proti vplyvom vonkajšej klímy.
+
+42
+
+Obrázok č. 22 Porovnanie priemerných hodnôt vlhkosti vzduchu na jednotlivých
+miestach merania v objekte S a N (Anova)
+
+Z výsledkov Anovy vyplýva, že v starej maštali sa vlhkosť vzduchu v profile A významne
+líšila. V profile B sa významne líšila priemerná vlhkosť iba v mieste merania 1 a v profile C
+sa hodnoty významne nelíšili. V novom objekte sa hodnoty priemernej vlhkosti významne
+líšili v profile A, v profile B a C sa významne líšili iba v mieste 1. Tiež je zrejmé, ako pri
+kontinuálnom meraní, že teplota v objekte S bol nižšia ako v objekte N
+
+aj počas
+
+ambulantného merania. Je to dôsledkom zle zabezpečeného objektu proti vplyvom vonkajšej
+klímy.
+
+43
+
+Obrázok č. 23 Porovnanie priemerných hodnôt rýchlosti prúdenia vzduchu na
+jednotlivých miestach merania v objekte S a N (Anova)
+
+Z výsledkov Anovy vyplýva, že v starej maštali sa rýchlosť prúdenia vlhkosť vzduchu sa
+významne líšila na jednotlivých miestach iba v profile B. V novom objekte sa hodnoty
+priemernej rýchlosti vzduchu v profile A a C významne líšili iba na mieste merania 1,
+v profile B sa priemerné hodnoty významne nelíšili na jednotlivých miestach merania. Je
+možné skonštatovať, že rýchlosti prúdenia vzduchu sa pohybovali v pásme optimálnych
+hodnôt, t. j. do 0,5 m.s-1.
+
+44
+
+4.4 Návrh opatrení
+Navrhli sme dve alternatívy opatrení, pri ktorých sme použili poznatky získané pri
+prehliadke novej maštale v Oponiciach. Pri oboch riešeniach sme starú maštaľ upravili tak,
+aby sme všetky zbytočné otvory utesnili. Premiestnili sme miestnosť, kde je uložená
+elektrika a potrebné prístroje používané v maštali na iné miesto z hľadiska ľahšieho
+používania týchto priestorov. Pre lepšiu ukážku sme vytvorili v programe AutoCAD 3D
+model, na ktorom je vidieť presné zmeny v prvom aj v druhom riešení.
+
+Alternatíva 1 - Návrh systému vetrania pomocou ventilátorov
+
+Obrázok č. 24 Alternatíva 1 - Pohľad z južnej strany
+
+45
+
+Obrázok č. 25 Alternatíva 1 – Pohľad zo severnej strany
+
+Na obrázku č. 24 a č. 25 je vidieť, že sú zrušené všetky nepotrebné otvory a sú nahradené
+garážovými bránami a sklenenými oknami. Pridané sú ventilátory, ktoré sú nasmerované na
+ventilačné mriežky, ktoré sú vyrobené na mieru. Umiestnené sú tu ventilátory od firmy
+Topcool v počte 32 kusov (obr. 26). Odporúčaná vzdialenosť medzi sebou je 7-9 metrov. Na
+obrázku č. 24 a 25 sú od seba 7 metrov podľa teoretických poznatkov pre správne prúdenie
+vzduchu v maštali. Jeden ventilátor má priemer 1000 mm. Celá stará maštaľ je upravená
+tak, aby bol pohodlný pohyb či už pre obsluhu alebo pre zvieratá a aby nebol nadbytočný
+únik tepla von z maštale. V starom objekte je vidieť na obrázku č. 7 a 8, že sú otvory pre
+okná, ale nie sú zasklené. V našom prvom návrhu je vidieť, že sme do týchto otvorov osadili
+okná, ktoré sú otvárateľné na prienik čerstvého vzduchu z vonku. Hlavné garážové dvere sú
+v počte 8 kusov a sú otvárateľné elektricky. Dvere, ktoré sú umiestnené v tejto alternatíve
+sú otvárateľné manuálne. Ďalej sú pridané ohrady vo výbehu, pretože v momentálnom stave
+tohto objektu tam chýbajú a taktiež sa pridali chýbajúce ležiskové boxy.
+
+46
+
+priemer ochranného koša 1000 mm
+inštalačný rozpon 7-9 m
+objem preneseného vzduchu 15 486 m3 /hod
+
+Obrázok č. 26 Košový ventilátor Topcool 36
+
+Ekonomické zhrnutie
+
+Tab. 11 Ekonomické zhrnutie prvého riešenia
+Názov produktu
+Garážové dvere
+Ventilátory
+Okná
+Ventilačné mriežky
+Tehla
+Drevené dvere
+Železné ohrady
+Železné brány
+Elektrika
+Práce
+Zhrnutie cena s DPH
+
+Počet kusov
+10
+32
+28
+4
+900
+2
+106
+6
+
+47
+
+Cena
+30 000,00 €
+19 200,00 €
+42 000,00 €
+1 520,00 €
+200,00 €
+3 000,00 €
+8 000,00 €
+10 000,00 €
+5 000,00 €
+15 000,00 €
+133 920,00 €
+
+Alternatíva 2 - Návrh systému tunelového vetrania
+
+Obrázok č. 27 Alternatíva 2– Pohľad z južnej strany
+
+Obrázok č.28 Alternatíva 2– Pohľad zo severnej strany
+
+48
+
+V druhom riešení sú v podstate podobné zmeny. To čo sa mení sú dve veci: Prvou je
+ventilačný systém, ktorý je viditeľný na obrázkoch č. 27 a 28. Jedná sa o tunelové vetranie.
+Je to určite zložitejší systém z hľadiska montovania. Určite je to aj finančne náročnejšie.
+Druhou vecou, ktorá sa mení sú okná. Pri tomto riešení by sa nezasklieval tento objekt,
+pretože cez tunelové vetranie ide veľký príjem čerstvého vzduchu a použitý vzduch sa musí
+vytláčať nejakou cestou von. Preto sa zvolil postup vysekania otvorov v miestach, kde sú
+teraz otvory na okná. Tieto otvory by boli podobné ako sú v novom objekte a boli by vo
+výške 80 cm od úrovne terénu. Na tieto otvory by sa osadili špeciálne siete, ktoré zabraňujú
+prieniku vtákov alebo iných zvierat dnu, ale majú aj ochrannú funkciu, aby nevznikal
+zbytočný prievan pre dobytok.
+
+Ekonomické zhrnutie
+
+Tab. 12 Ekonomické zhrnutie druhého riešenia
+Názov produktu
+Garážové dvere
+Tunelové vetranie
+Tehla
+Drevené dvere
+Železné ohrady
+Železné brány
+Elektrika
+Práce
+Búracie práce
+Protiprievanové siete
+Zhrnutie cena s DPH
+
+Počet kusov
+10
+3
+900
+2
+106
+6
+
+16
+
+49
+
+Cena
+31 500,00 €
+30 000,00 €
+200,00 €
+3 000,00 €
+8 000,00 €
+10 000,00 €
+5 000,00 €
+15 000,00 €
+5 000,00 €
+30 000,00 €
+137 700,00 €
+
+5
+
+Diskusia
+Poznatky získané na základe prieskumu použitej literatúry a informácii dostupných
+
+na webových stránkach, ako aj výsledky hodnotenia meraných ukazovateľov, môžeme
+zhodnotiť celkovú kvalitu teploty vzduchu, vlhkosti vzduchu a rýchlosti prúdenia vzduchu.
+Kvalita vzduchu, t. j. teplota, vlhkosť a rýchlosť vzduchu v maštali je jedným
+z rozhodujúcich faktorov ovplyvňujúcich úžitkovosť zvierat. Rozhoduje nielen o produkcii,
+ale aj o zdravotnom stave zvierat. Primeranú klímu v maštali zabezpečuje vetranie.
+V súčasnom období vstupuje čoraz viac do popredia potreba vytvoriť pre zvieratá vhodné
+životné prostredie, ako faktor zdravia a vysokej úžitkovosti. Prostredie v maštali vplýva na
+hovädzí dobytok, jeho vplyv sa odráža na ich úžitkovosti a zdravotnom stave. Správna voľba
+vetracieho systému, dodržanie mikroklimatických parametrov má v dôsledku významnú
+úlohu. Závisí to aj na technologicko – stavebnom riešení objektu.
+Vykonali sme merania v starom aj v novom objekte, aby sme vedeli porovnať rozdiely
+a následne sme navrhli novú ventilačnú technológiu do starého objektu. V starom objekte
+sme navrhli dve alternatívy.
+V prvej alternatíve sme navrhli ventilátory, ktoré majú byť od seba odsadené 7 metrov. Ďalej
+sme navrhli do všetkých okenných otvorov okná, ktoré by mali byť otvárateľné z hľadiska
+prívodu vzduchu. V tomto objekte sú aj otvory pre vjazd mechanizmov na zakladanie krmiva
+a vyhŕňanie hnoja, ktoré sme museli uzavrieť. Navrhli sme elektrické otvárateľné dvere so
+zvinovacou plachtou, aké sú aj na novom objekte. Tým, že by sme utesnili všetky otvory,
+vedeli by sme dobre regulovať vzduch v starom objekte.
+V druhej alternatíve sme použili tunelový vetrací systém, ktorý je oproti samostatným
+ventilátorom finančne aj technicky náročnejší, ale efektívnejší. Jestvujúce okenné otvory by
+sme vybúrali na presné otvory, na ktorých sú osadené ochranné siete, ktoré zabraňujú
+prieniku vtáctva a vysokému prúdeniu vzduchu.
+Do oboch alternatív som doplnil ležiskové boxy, ktoré v starom objekte chýbajú. Ak by sa
+konala rekonštrukcia celého objektu, tak sme navrhli aj takéto riešenie. Obe alternatívy sme
+navrhli tak, aby bol pohodlný pohyb, či už pre obsluhu alebo pre zvieratá. Podstielku by som
+nechal na výbere vedenia alebo zamestnancov, ktorí pracujú s týmito zvieratami každý deň
+a vedia čo potrebujú a čo je ekonomicky výhodnejšie, ale aj dobré pre pohodu zvierat.
+Z hľadiska ventilácie a úniku tepla je nutné tento objekt čím skôr opraviť, preto odporúčame
+včasnú konzultáciu s vedením podniku.
+
+50
+
+6
+
+Záver
+Cieľom tejto práce bolo zistiť, aké sú nedostatky v starej maštali. Naučili sme sa
+
+nové poznatky o hovädzom dobytku a o objektoch, kde je tento dobytok umiestnený. Museli
+sme si nájsť správne miesta na meranie. Presné stanoviská, ktoré sú zaznačené na obrázkoch
+boli presne konzultované, aby nám vyšli všetky merania správne. Pri všetkých meraniach
+sme postupovali správne a nevznikli žiadne chyby z merania. Všetky namerané hodnoty sme
+potom vložili do programu Excel a Statistica, kde sme si spracovali namerané dáta do
+tabuliek a grafov. Z vyhodnotenia údajov mikroklimatických parametrov v programe
+Statistica nameraných pri ambulatnom meraní bolo zistené, že v starom objekte bola teplota
+vzduchu, vlhkosť aj rýchlosť prúdenia vzduchu veľmi nerovnomerná a to hlavne z dôvodu,
+že všetky okná a vstupné vráta boli nefunkčné a teda všetko bolo otvorené. Preto boli
+navrhnuté vhodné alternatívne riešenia stavebno-technologického systému ustajnenia a
+vetrania. Ventilačné opatrenia sme navrhovali na základe už použitých rozmiestnení v novej
+maštali, ale navrhli sme aj nové riešenie, pretože nová maštaľ má tiež už zhruba 10 rokov
+a technológie sa posúvajú dopredu každým dňom.
+V práci sme pri navrhovaní novej maštale vytvorili dve riešenia. Urobili sme to pre to, aby
+sa majiteľ vedel rozhodnúť pre spôsob, ako chce mať umiestnené ventilačné systémy a líšia
+sa aj ceny. Nie je to veľký rozdiel, ale niekedy aj to zaváži na tom, aby sa niečo mohlo
+realizovať.
+
+Tab. 11 Ekonomické zhrnutie prvého riešenia
+Názov produktu
+Garážové dvere
+Ventilátory
+Okná
+Ventilačné mriežky
+Tehla
+Drevené dvere
+Železné ohrady
+Železné brány
+Elektrika
+Práce
+Zhrnutie cena s DPH
+
+Počet kusov
+10
+32
+28
+4
+900
+2
+106
+6
+
+51
+
+Cena
+30 000,00 €
+19 200,00 €
+42 000,00 €
+1 520,00 €
+200,00 €
+3 000,00 €
+8 000,00 €
+10 000,00 €
+5 000,00 €
+15 000,00 €
+133 920,00 €
+
+Tab. 12 Ekonomické zhrnutie druhého riešenia
+Názov produktu
+Garážové dvere
+Tunelové vetranie
+Tehla
+Drevené dvere
+Železné ohrady
+Železné brány
+Elektrika
+Práce
+Búracie práce
+Protiprievanové siete
+Zhrnutie cena s DPH
+
+Počet kusov
+10
+3
+900
+2
+106
+6
+
+16
+
+Cena
+31 500,00 €
+30 000,00 €
+200,00 €
+3 000,00 €
+8 000,00 €
+10 000,00 €
+5 000,00 €
+15 000,00 €
+5 000,00 €
+30 000,00 €
+137 700,00 €
+
+Medzi prvým a druhým riešením je v cene rozdiel 3 780 €. Aj keď je druhé navrhované
+riešenie vyššie, z môjho pohľadu je tunelová ventilácia efektívnejšia, pretože v letných
+mesiacoch je možné týmto systémom ochladzovať vzduch a v zimných mesiacoch zohrievať
+vzduch.
+
+52
+
+Zoznam použitej literatúry
+ARBEL, A. – BARAK, M. – SHKLYAR, A. 2007. Dairy Barns Cooling: Integrated high
+pressure fooding system with air ventilation and circulation systems. In: Annual
+international meeting ASABE Minneapolis Convention Center Minneapolis, Minnesota N:
+074123.
+ARMSTRONG, D.V. 1994. Heat stress interaction with shade and cooling. In: Journal of
+Dairy Science 77: 2044-2050.
+BARNWELL, R - ROSSI, A. 2002. Maximizing Performance During Hot Weather.
+Technical Focus. Publication of Cobb-Vantress, Inc. ONE 2002, p. 1-6.
+BIANCA, W. 1962. Relative importance of dry- and wet-bulb temperatures in causing heat
+stress in cattle. In: Nature 195: 251-252.
+BICKERT, W. G. a kol. 1995: Dairy Freesttal Housing and Equipment. MidWest Plan
+Service, Agricultural and Biosystems Engineering Department, Iowa State University,
+Ames, 123 s
+BOHMANOVA, J., I. MISZTAL, AND J. B. COLE. 2007. Temperature-humidity indices
+as indicators of milk production losses due to heat stress. In: J. Dairy Sci. 90:1947–1956.
+BOTTO, Ľ. a kol. 2002. Maštaľná klíma a vetranie. In: Sprievodca chovateľa
+hospodárskych zvierat. VÚŽV Nitra. s. 127-130. ISBN 80-88872-18-9.
+BRESTENSKÝ, V. a kol. 2002: Sprievodca chovateľa hospodárskych zvierat. VÚŽV
+Nitra, 231 s.
+BRESTENSKÝ, V. – MIHINA, Š. 2006. Organizácia a technológia chovu mliekového
+hovädzieho dobytka. SCPV Nitra, 109 s. ISBN 80-88872-53-7.
+ČERNÁ, D 2005: Ustájení telat a jalovic ze stavebne-technických aspektů. In: Využití
+rezerv při intenzívním odchovu telat a jalovic: Sbor. ze sem., VÚŽV Uhříněves. s. 27-46.
+DOLEŽAL O. – ČERNÁ D. – KNÍŽEK J. 1996: Boxové lože - netradičné podlahoviny.
+Metodické listy. VÚŽV Praha-Uhřiněves, 01/04, , 8 s.
+GROHMAN, J. S. 1981, Keeping a family cow: a complete guide to raising cows and
+producing dairy products for home use. New York: Scribner
+
+53
+
+HASHEIDER, P. – JOHNSON, D. 2011. The family cow handbook: a guide to keeping a
+milk cow. Minneapolis: Voyageur Press.
+LOUDON, T. L. a kol.: Livestock waste facilities handbook. MidWest Plan Service, Iowa
+State University, Ames, Iowa, 1993, 109 s.
+MIHINA, Š. – BRESTENSKÝ, V. – SKLENÁR, D. 1998: Alternatívy riešení
+rekonštreukcií objektov prer hovädzí dobytok. VÚŽV Nitra, 141 s.
+OWEN, J. a kol., 1994: The Desing of Dairy Cow Housing. Report of the CIGR Section II,
+Working Group No 14, Cattle Housing, 54 s.
+POGRAN, Š. a i. 2011. Kvalita vnútorného prostredia ustajňovacích objektov. Nitra : SPU,
+2011.242 s. ISBN 978-80-552-0557-1.
+Agromont Nitra. [cit. 2023-04-12]. Dostupné na:
+http://agromont.usbfactory.sk/produkty/vybavenie-mastale/ventilatory-a-rozprasovaciedyzy/ventilatory-schaefer/
+COMET-S3121
+
+záznamník
+
+teploty
+
+a vlhkosti.
+
+[cit.
+
+2023-03-10].
+
+Dostupné
+
+na:
+
+https://eshop.micronix.cz/merici-technika/neelektricke-veliciny/teplota-avlhkost/vlhkomery-s-teplomerem/se-zaznamem/s-3121.html
+Datalogger - sada ALMEMO 2590-4AS/ SET [cit. 2023-03-8]. Dostupné na:
+https://www.ahlborn.cz/pristroje/dataloggery/datalogger-sada-almemo-2590-4as-set-4univerzalni-vstupy.html
+Datalogger
+
+CO2
+
+-
+
+DL-CO2-CT-RF-V2.
+
+[cit.
+
+2023-03-8].
+
+Dostupné
+
+na:
+
+https://www.zefin.cz/produkty/snimace-co2/cidla-co2-protronix/Datalogger-CO2---DLCO2-CT-RF-V2__s1008x2159p.html
+Tunelové
+
+vetranie.
+
+[cit.
+
+2023-04-8].
+
+Dostupné
+
+na:
+
+https://sk.schauer-
+
+agrotronic.com/hovaedzi-dobytok/rinderstalllueftung/schlauchlueftung
+Vysokoškolský poľnohospodársky podnik Slovenskej poľnohospodárskej univerzity. [cit.
+2023-04-8]. Dostupné na: http://vppspu.sk/index.html
+
+54
+
+

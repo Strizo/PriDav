@@ -1,0 +1,1876 @@
+TECHNICKÁ UNIVERZITA VO ZVOLENE
+LESNÍCKA FAKULTA
+
+Zhodnotenie a návrh úprav poľovníckych chát na území
+LS Kyslinky, OZ Kriváň
+
+Jana Kľačková
+
+2021
+
+1
+
+TECHNICKÁ UNIVERZITA VO ZVOLENE
+LESNÍCKA FAKULTA
+
+Zhodnotenie a návrh úprav poľovníckych chát na území
+LS Kyslinky, OZ Kriváň
+
+BAKALÁRSKA PRÁCA
+
+Štúdijný program:
+
+Aplikovaná zoológia a poľovníctvo
+
+Pracovisko (katedra/ústav):
+
+Katedra lesnej ťažby , logistiky a meliorácií
+
+Vedúci bakalárskej práce:
+
+Ing. Vladimír Juško, PhD.
+
+Zvolen 2021
+
+Jana Kľačková
+2
+
+3
+
+4
+
+Poďakovanie
+Ďakujem môjmu vedúcemu bakalárskej práce, Ing. Vladimírovi Juškovi, PhD., za jeho
+trpezlivosť, cenné informácie a poskytnutý materiál, ktorý bol ťažko dostupný počas pandémie.
+
+5
+
+Abstrakt
+Zhodnotenie a návrh rekonštrukcií vybraných poľovníckych chát v pôsobnosti
+LS Kyslinky
+V práci sa hodnotí stav vybraných poľovníckych chát na území LS Kyslinky. Vytypované boli chaty
+Dudáš, Pod Dudáš, Bútľavka, Sihla, Zálomská, Príslopy a Dežmov kopec. Poukázalo sa na ich
+využívanie v minulosti a v súčasnosti a potenciálne možné využívanie, ktoré by mohlo byť
+realizované po niektorých rekonštrukčných zásahoch.
+V každej chate je potrebné uskutočniť do značnej miery podobné opatrenia. Najväčšie rekonštrukčné
+zásahy si vyžadujú chaty Bútľlavka, Pod Dudáš a Dežmov kopec. V prípade chaty Pod Dudáš
+a Dudáš je potrebné rekonštruovať najmä steny a podlahy. Menšie úpravy si vyžaduje chata Príslopy,
+kde nie je nutné výraznejšie zasahovať ani do interiéru. Najmenej je potrebné zasahovať do chaty
+Zálomská. Tento objekt je v stave, kedy prakticky nie je nutné uskutočniť rekonštrukčné práce.
+Poľovnícke chaty na území LS Kyslinky majú veľký význam. Túto lokalitu s obľubou navštevujú
+fotografi, poľovný hostia, ale aj široká verejnosť. Sprevádzkovaním po opravách, by sa zvýšila
+produktivita finančných odnosov OZ Kriváň.
+Kľúčové slova: poľovnícka chata, prírodné prostredie, stavebný materiál.
+
+Abstract
+Evaluation and proposal of modifications of hunting lodges in the region of forets
+administration in Kyslinky, branch of an enterprise Krivan.
+At work is evaluated the condition of selected hunting lodges withing the scope of the forest
+administration in Kyslinky. The cottages which were selected are: Dudas, Pod Dudas, Butlavka,
+Sihla, Zalomska, Prislopy and Dezmov Hill. What has been pointed out is their use in the past and
+present and also potential use of them in the future which could be realised after some reconstructional
+interventions. Largely similar measures need to be taken in each cottage. Lodges: Butlavka, Pod
+Dudas and Dezmov Hill, require largest reconstructional interventions. In a case of cottages: Pod
+Dudas and Dudas is necessary to reconstruct especially the walls and floors. Minor adjustments are
+required in the lodge Prislopy, where is not necessary intervene more significantly in the interior. The
+cottage Zalomska requires least interventions as this building is in a state where it is practically not
+necessary to carry out any reconstructional work.
+
+6
+
+The hunting lodges in the region of forest administration in Kyslinky are of a great importance. This
+location is extremely popular with photographers, hunting guests, but also with the general public.
+The operation after all its repairs done would certainly increase the productivity of financial flows of
+the branch of an enterprise Krivan.
+
+Key words: a hunting modifications, natural environment, building material.
+
+7
+
+Obsah
+Zoznam ilustrácií ..................................................................................................................... 8
+1. Úvod ............................................................................................................................ 11
+2. Prehľad problematiky ............................................................................................... 12
+2.1.1. Poľovnícka koliba ................................................................................................. 13
+2.1.2. Poľovnícka chata.................................................................................................... 14
+2.1.3. Poľovnícka vila...................................................................................................... 16
+2.1.4. Chatový posed........................................................................................................ 16
+2.2.
+
+Základné aspekty poľovníckych chát z pohľadu stavebného materiálu................. 16
+
+2.3.
+
+Stavebný materiál................................................................................................... 18
+
+2.4.
+
+Konštrukcie pozemných stavieb............................................................................. 21
+
+3. Ciele práce .................................................................................................................. 24
+4. Metodika ..................................................................................................................... 25
+4.1.
+
+Charakteristika záujmového územia....................................................................... 25
+
+4.1.1. Základné údaje........................................................................................................ 25
+4.1.2. Geológia................................................................................................................. 26
+4.1.3. Vodstvo.................................................................................................................. 27
+4.1.4. Podnebie................................................................................................................. 28
+4.1.5. Flóra a fauna........................................................................................................... 28
+4.2.
+
+Metodika práce....................................................................................................... 29
+
+5. Výsledky...................................................................................................................... 30
+5.1.
+
+Poľovnícka chata Dudáš......................................................................................... 31
+
+5.2.
+
+Poľovnícka chata Pod Dudáš.................................................................................. 36
+
+5.3.
+
+Poľovnícka koliba Sihla......................................................................................... 41
+
+5.4.
+
+Poľovnícka chata Bútľavka.................................................................................... 44
+
+5.5.
+
+Poľovnícka vila Zálomská...................................................................................... 47
+
+5.6.
+
+Poľovnícka chata Príslopy...................................................................................... 53
+
+5.7.
+
+Poľovnícka koliba Dežmov.................................................................................... 58
+
+6. Diskusia......................................................................................................................... 62
+7. Záver.............................................................................................................................. 64
+8. Literatúra...................................................................................................................... 65
+9. Príloha............................................................................................................................67
+
+8
+
+Zoznam ilustrácií
+Obr. 1 Pohľad na chatu Dudáš (autor)........................................................................................31
+Obr: 2 Altánok s prístreškom na drevo (autor)...........................................................................32
+Obr. 3 Spoločenská miestnosť na chate dudáš (autor)................................................................33
+Obr. 4 Kuchyňa na chate Dudáš (autor) ....................................................................................33
+Obr. 5 Poškodenie zrubovej časti od medveďa (autor) ..............................................................34
+Obr. 6 Čelný pohľad na chatu pod Dudášom (autor)..................................................................36
+Obr. 7 Bočný pohľad na Pod Dudáš (autor)...............................................................................37
+Obr. 8 Kuchyňa na chate Pod Dudáš (autor) .............................................................................38
+Obr. 9 Spoločenská miestnosť chata Pod Dudáš (autor) ............................................................39
+Obr. 10 Pohľad na chatu Sihla (autor) .......................................................................................41
+Obr. 11 Interiér na chate Sihla (autor)........................................................................................42
+Obr. 12 Pohľad na chatu Bútľavka (autor) ................................................................................44
+Obr. 13 Interiér na chate Bútľavka (autor) ................................................................................45
+Obr. 14 Interiér na chate Bútľavka (autor) ................................................................................46
+Obr. 15 Pohľad na chatu Zálomská (autor) ................................................................................48
+Obr. 16 Chodba na chate Zálomská (autor) ...............................................................................49
+Obr. 17 Spoločenská miestnosť chata Zálomská (autor) ...........................................................50
+Obr. 18 Kúpeľňa na chate Zálomská (autor) .............................................................................50
+Obr. 19 Kuchyňa na chate Zálomská (autor) .............................................................................51
+Obr. 20 Spálňová časť na chate Zálomská (autor) ....................................................................52
+Obr. 21 Spálňová časť chata Zálomská (autor) .........................................................................52
+Obr. 22 Pohľad na chatu Príslopy (autor) ..................................................................................54
+Obr. 23 Pohľad na chatu Príslopy (autor) ..................................................................................55
+9
+
+Obr. 24 Altánok pri chate Príslopy (autor) ................................................................................55
+Obr. 25 Predsieň na chate Príslopy (autor) ................................................................................56
+Obr. 26 Kúpeľňa na chate Príslopy (autor) ..............................................................................56
+Obr. 27 Spoločenská miestnosť na chate Príslopy (autor)........................................................57
+Obr. 28 Kuchyňa na chate Príslopy (autor) ..............................................................................57
+Obr. 29 Pohľad na chatu Dežmov (autor) ................................................................................59
+Obr. 30 Dreváreň na chate Dežmov (autor) .............................................................................60
+Obr. 31 Interiér chaty Dežmov (autor) .....................................................................................60
+
+10
+
+1. Úvod
+„ ... vysoká divá Poľana...“ takto začína Emil Rakyta z obsahu svojej knihy POĽANA klenot
+slovenského poľovníctva. Píše, že významný slovenský poet Andrej Sládkovič charakterizuje horstvo
+nad dedinou Detvou volanou. No pre mňa vysoká divá Poľana znamená: Kyslinky – kaldera Poľany.
+Miesto, ktoré sa človeku vryje do srdca. Poznávaním, pre niekoho nových zákutí, zisťujeme, že sú to
+miesta kde naši praotcovia žili a pracovali. Obyvatelia Hrochote majú vo svojich rodinných
+záznamoch, fotkách, osoby ktoré sa viezli do práce na lesnej železničke, ktorá mala trať od Vígľaša
+po Kyslinky (1907) a pre obyvateľov poskytovala nové pracovné príležitosti v ťažbe dreva
+a pestovaní lesa...
+Poľana je unikátnym územím hneď z viacerých hľadísk. Na podstatnej časti územia je vyhlásená
+Chránená krajinná oblasť Poľana (CHKO) a súčasne je tu vyhlásená Chránená poľovná oblasť Poľana
+(CHPO). Z poľovníckeho hľadiska má táto oblasť osobitné postavenie nie len na Slovensku. Poľovná
+oblasť bola vyhlásená pre ochranu a z dôvodu vytvorenia priaznivých podmienok pre chov a výskum
+jelenej zveri. K odchytu tejto zveri pre regeneráciu chovu v iných poľovných revíroch. Chov a lov
+inej zveri v tejto oblasti sa vykonáva s prihliadaním k stanovenému účelu. Okrem toho je to územie,
+kde majú svoj domov aj naše najväčšie šelmy ako je medveď hnedý, vlk dravý a rys ostrovid.
+V súčasnosti sa čoraz častejšie ukazuje mačka divá. Vo vrcholových partiách pohoria sa vzácne môže
+vyskytovať už výrazne ustupujúci tetrov hlucháň. V súčasnosti je čoraz častejšie zaznamenané
+pozorovanie orla skalného. Z vyššie uvedeného je zrejmé, že sa jedná o pomerne cenné prírodné
+územie. Je tu priestor na aktívnu turistiku, tak aj na racionálne cielený poľovnícky manažment.
+Poľovníctvo má okrem svojho spoločenského postavenia aj iný rozmer. Je tu priestor na aktívny
+oddych, spoznávanie prírody, stretávanie sa s ľuďmi a prežívanie krásnych zážitkov. Nie sú to len
+trofeje, ide hlavne o tie zážitky. Súčasťou celého takéhoto koloritu sú aj rôzne lesné stavby a
+zariadenia, kde môžeme samostatne hodnotiť poľovnícke stavby. SVOBODA, ZÁBRANSKÝ, 1962
+uvádza, že lesné stavby môžeme charakterizovať ako všetky stavebné diela a práce, ktoré slúžia
+lesnému hospodárstvu. Môže ísť o stavby z ktoréhokoľvek odboru. V rámci nich sú to práve
+poľovnícke chaty, ktoré nám spríjemňujú pobyt v prírode. V nich sa rozprávame o zážitkoch,
+vymieňame si skúsenosti a dýchame atmosféru daného okamihu.
+Záujem verejnosti so širokou škálou aktivít, či je to fotografovanie, turistika, rodinky, ktoré si
+chcú vyskúšať pobyt v prírode, často krát vyhľadávajú takéto ubikácie. Tieto poľovnícke chaty môžu
+slúžiť nie len za účelom ubytovania poľovníckych hostí v čase poľovníckej sezóny, ale sú
+vyhľadávané aj bežnými turistami. Po dohode z času na čas sú aj pre takýchto návštevníkov
+prenajímané. Ľudia sťa by vyhľadávajú lokality, ktoré im evokujú pocit ticha, pokory a pokoja.
+11
+
+V súčasnej dobe sa na Slovensku veľmi rozšíril turistický ruch. V dávnejšej minulosti ešte nie
+veľmi spoznávanej turistickej oblasti Poľany sme mohli stretnúť, kde tu človeka s turistickými
+palicami. Ubikácie, ktoré svojimi menami nie sú pre verejnosť veľmi známe, mali za úlohu slúžiť
+zamestnancom štátneho podniku. V súčasnej dobe podnik nevie v dostatočnej miere nájsť prostriedky
+na ich opravy a využiť ich pre poľovníckych hostí, turistov a návštevníkov. Ubikácie roztratené po
+kaldere tejto chránenej oblasti volajú po ľudskom dotyku. Roky bez exteriérových aj interiérových
+opráv a údržby evokujú pocit úpadku. Strácajú hodnotu, no hodnotu, ktorú by
+
+š. p. investoval do
+
+rekonštrukcií by malo v súčasnej dobe skorú návratnosť. V predkladanej práci sa charakterizuje stav
+vybraných poľovníckych chát a načrtnuté sú niektoré odporúčania na ich údržbu a využitie.
+
+12
+
+2. Prehľad problematiky
+Poľovnícke zariadenia sú z hľadiska riadneho obhospodarovania poľovníckych revírov,
+zabezpečenia chovu a ochrany zveri, ako aj jej racionálneho obhospodarovania zveri nevyhnutné.
+V revíri by mali byť vhodne rozmiestnené aby nerušili prírodné prostredie a boli ako účelné, tak aj
+estetické. Často krát sú v revíroch poľovnícke zariadenia, ktoré nezodpovedajú základným
+požiadavkám a zásadám. Sú to železné vysoké posedy, ktoré sú často postavené v rade vedľa seba na
+úplne odkrytom teréne, lokalizované neďaleko hranice revíru, nefungujúce a príliš prešpekulované
+automatické kŕmidlá na jadrové krmivo, senníky, ktoré nemajú dostatočne zastrešené rebriny apod.
+Treba si uvedomiť, že funkčnosť zariadení môže byť zabezpečená len vtedy, keď sú v revíroch
+k dispozícii v dostatočnom počte v príslušných druhoch, v dobrej lokalite a musia sa plánovite
+využívať a udržiavať (HELL, 1990).
+Významným zariadením v poľovníckych revíroch sú poľovnícke chaty. Poľovnícke chaty slúžia
+k zabezpečeniu prevádzky poľovníctva. Zväčša sú lokalizované na odľahlejších miestach. Slúžia
+k prechodnému ubytovaniu poľovníckych hostí, príp. lesných robotníkov, ktorí v blízkosti pracujú.
+Väčšinou to bývajú jednoduché stavby. Materiál býva najmä drevo. Často sa jedná o drevenú stavbu,
+ktorá má len 1 až 2 miestnosti. Vybavenie býva často krát len to najnutnejšie (2 až 4 postele, stôl,
+stoličky, šporák na varenie, skrinky na šatstvo a kuchynský riad (SVOBODA, ZÁBRANSKÝ, 1962).
+
+2.1. Rozdelenie poľovníckych chát
+
+2.1.1.Poľovnícka koliba
+Toto zariadenie bolo v minulosti neodmysliteľnou súčasťou každého horského jelenieho revíru.
+V súčasnosti sa v takomto zariadení dá pohodlne prenocovať blízko rujoviska.. Ušetrené sú zbytočné
+presuny pešo alebo autom. Dáva nám pocit bližšieho spojenia s prírodou a poskytuje nám ten
+potrebný pokoj. Veľmi pripomína lovecké ,,izbušky“ sibírskych tajgových poľovníkov. Takéto
+zariadenie je v podstate malý zrub, ktorého pôdorys nepresahuje 20 m2. Na jednej strane môže byť
+čiastočne zapustený do svahu. Zvyčajne býva bez podlahy, zem býva udupaná, ale môže mať aj
+podlahu z falcovaných dosiek. Škáry medzi brvnami sú upchaté machom, ílom alebo iným vhodným
+materiálom. Na spanie poslúži pričňa s navrstveným senom, ktoré býva napchané do slamníkov.
+Bývajú tam prikrývky, polička s potrebným kuchynským riadom, menšia skrinka na zásoby, vedrá
+na vodu, svietnik so sviečkou, príp. petrolejka, debnička na drevo, menšia železná piecka, kde sa dá
+
+13
+
+variť. Okno nebýva veľké, môže byť dvojité s drevenou okenicou, komín je murovaný a strecha
+zakrytá pieskovanou lepenkou. Pod stropom bývajú šnúry na sušenie šiat a do stien bývajú zatlčené
+klince na zavesenie osobných potrieb. V tomto nenáročnom bývaní sa dá príležitostne ukryť pred
+nečasom a čo je dôležité, zver nie je rušená naším častým pohybom v teréne. Za raňajšieho šera nám
+postačí len kratší presun na vhodnú lokalitu. V každej kolibe by mala byť zásoba suchého dreva,
+zápalky, čaj, cukor, nejaké konzervy a pod. Poľovníci môžu takúto kolibu získať napr. prestavbou
+nepoužívaného senníka, opusteného salaša, drevorobačskej koliby a pod. Vždy je potrebný súhlas jej
+majiteľa a príslušného LZ (HELL, 1990).
+2.1.2. Poľovnícka chata
+Je to už náročnejšie zariadenie. Máva 2 až 3 miestnosti. Ak je väčšia, nazýva sa poľovnícka chata.
+Je komfortnejšie vybavená a dá sa v nej ubytovať väčší počet ľudí. Je tam často krát už zriadená
+spoločenská miestnosť, ktorá slúži pre PZ ako klubovňa, príp. zasadačka. Môže tam byť už väčší
+počet spální s poschodovými posteľami, sociálne zariadenie, kuchyňa, komora na potraviny, malý
+príručný sklad apod. Nevyhnutné je tzv. zádverie (závetrie), kde sa poľovníci prezúvajú a odkladajú
+si kabáty. Osvetlenie je vhodné ak je na propán-bután (ak nie je chata napojená na elektrinu). Sporák
+je bežná súčasť vybavenia spolu s potrebným riadom. Sporák býva propán-butánový, bomba sa
+umiestňuje v prístrešku pri obvodovom múre chaty a spravený je rozvod plynu. Postelí by malo byť
+toľko, aby sa dalo medzi nimi pohodlne prechádzať. Pre jednu osobu sa počíta s priestorom min. 3 až
+4 m2. Vhodné je, ak je v chate krb. Dvere sa môžu medzi niektorými miestnosťami nahradiť závesmi.
+V poľovníckych chatách v severských krajinách bývajú pece obyčajne v strede, čím sa dosiahne
+lepšie vyhriatie celého priestoru. Časť chaty by mala byť podpivničená, mali by tu byť komory na
+uloženie a rozrábku ulovenej zveri, potravín a nápojov, ktoré by mali byť uložené v chlade, paliva
+(ak nie je pri chate dreváreň) atď. Vhodné je, ak je vybudovaná psiareň a garáž. Potrebný je rezervoár
+na vodu. V jednoduchšie riešenej chate je WC len suché vonku a voda sa nosí z neďalekej studničky.
+V chate by mala byť sušiareň na odevy, obuv a ideálne je ak je prítomný aj stojan na zbrane. Pri
+chate by mala byť nádoba na popol, ktorý môžeme použiť na políčka pre zver (HELL, 1990).
+Častá chyba pri takýchto chatách je to, že okolo chaty absentuje priestrannejšia čistina. Takto
+bývajú niektoré chaty príliš tienené stromami, vlhnú, bývajú často krát zatuchnuté a pobyt v takomto
+zariadený nie je komfortný. Na každej chate by mal byť bleskozvod. Na zabezpečenie bezpečnosti je
+vhodné, ak sú okenice a dvere zabezpečené železnými okenicami a dverami. Najvhodnejšie sú
+trojposchodové chaty (vrátane suterénu) orientované na juhovýchod. Výhodné je ak majú chaty
+terasu, loggiu a verandu, kde sa dá príjemne posedieť, ale aj, ak je v blízkosti chaty miesto na táborák
+s lavičkami alebo pňami na sedenie, trvalé výradisko ohradené živým plotom z ihličnatých stromov,
+14
+
+príp. z upraveným vstupom z briezok. Neďaleko chaty by malo byť priestranná odpadová jama.
+Odpad a kanalizácia by sa nemala odvádzať do potoka, ktorý je pri chate. Pri chate by mohol byť
+vybudovaný aj stojan na zavesenie ulovenej zveri, aby mala táto kde vychladnúť. Podľa polohy chaty
+v revíri mohli by byť pri nej sklady, všetkých druhov krmív. Vhodné je ak je vybudované parkovisko.
+Vždy by malo platiť, že okolie chaty má byť príjemné, čisté a upravené. Chata by mala byť
+umiestnená na suchom mieste, ktoré je prístupné motorovým vozidlám. Od chaty zvyknú ísť viaceré
+poľovnícke chodníky. V blízkosti chaty, by mal byť vodný zdroj. Výhodné je ak je tam rezervoár, do
+ktorého voda priteká z neďalekej studničky. Tam, kde je suchší región sa voda väčšinou musí
+donášať. Chata by mala byť citlivo zasadená do prostredia (HELL, 1990).
+Zariadenie poľovníckej chaty by malo byť jednoduché, štýlové a účelné. V minulosti bola takáto
+chata postavená majiteľom revíru, ktorú využíval so svojimi hosťami a rodinou. V súčasnosti najmä
+chaty PZ bývajú využívané väčšími kolektívmi poľovníkov, preto treba vždy takýmto spôsobom
+prispôsobovať celkové projektovanie chaty, ako aj vnútorné zariadenie. Pomerne často býva
+využívaný opravený a vynovený nábytok z rôznych ubytovacích zariadení alebo sa kúpi jednoduchší
+a lacnejší nábytok v obchode. Vnútorné zariadenie býva vyhotovené aj poľovníkmi z rôznych
+prírodných materiálov. Používajú sa rôzne tkané koberce, ktoré sú zošívané z kúskov látok, ktoré sa
+voľakedy používali
+
+na dedinách, vešiaky,
+
+lustre
+
+alebo úžitkové predmety z parožia.
+
+V reprezentačných poľovníckych kaštieľoch a vilách sa používal starožitný nábytok alebo nábytok
+vyrezávaný poľovníckymi motívmi, obrazy, rôzne sošky s poľovníckou tematikou apod.
+Je potrebné upozorniť na fakt, že chatu nemožno stavať bez stavebného povolenia. V poslednom
+období sa ochrana lesov a lesného aj poľnohospodárskeho pôdneho fondu ako aj ochrana prírody
+výrazne zintenzívnila a získať povolenie na stavbu je ťažšie. Aj z tohto dôvodu si PZ po dohode so
+ŠL renovujú a upravujú na chaty opustené hájovne, budovy pri zrušených škôlkach, ubytovne lesných
+robotníkov, príp. kupujú domy na lazoch, na okrajoch intravilánoch obcí, z ktorých si potom robia
+tzv. poľovnícke domy a všestranne ich využívajú (HELL, 1990).
+Výstavba ako aj údržba a prevádzkovanie chaty je dosť nákladné a z toho dôvodu by sa ich počet,
+veľkosť a náklady na zariaďovanie nemali predimenzovať. Chaty určené na ubytovanie zahraničných
+poľovníckych hostí je potrebné vybavovať nákladnejšie (HELL, 1990).
+
+15
+
+2.1.3. Poľovnícka vila
+Vo významnejších revíroch ŠL, kde bývajú ubytovaní zahraniční hostia, sa budujú reprezentačné
+poľovnícke vily. Tu sa už môžu nachádzať 1 až 2 posteľové izby, kde každá už môže mať kúpeľňu a
+WC. Pokiaľ absentuje elektrická prípojka, mali by mať vybudovaný vlastný elektrický zdroj. Takéto
+zariadenia nadväzujú na tradíciu voľakedajších poľovníckych zámočkov, ale majú aj iné poslanie a sú
+podstatne modernejšie. Niektoré renovované a zmodernizované bývalé šľachtické poľovnícke zámky
+plnia aj v súčasnosti svoje poslanie pri reprezentačných hosťovských spoločenských poľovačkách
+(HELL, 1990).
+2.1.4. Chatový posed
+Zaujímavou súčasťou takýchto stavieb sú aj chatové posedy. Tieto sú v poslednom čase čoraz viac
+realizované. Realizované sú z rôznych dôvodov. Pokiaľ sa stavajú na miestach na to vopred určených,
+ako sú je napr. postriežka na líšky, príp.na okraji lesa na lov diviakov, ktoré vychádzajú do polí, je to
+v poriadku. V žiadnom prípade by sa nemali realizovať v lese priamo na lov inej raticovej zveri.
+Takéto zariadenia by malo byť obmedzené len na nevyhnutnú mieru a v revíroch PZ by takáto
+realizácie týchto zariadení nemal byť povolená jednotlivým členom alebo skupinám členov podľa
+ľubovôle (HELL, 1990).
+2.2. Základné aspekty poľovníckych chát z pohľadu stavebného materiálu
+Stavebný materiál si volí príslušná poľovnícka organizácia sama podľa svojich možností
+a miestnych podmienok. Drevené chaty sú útulné a štýlové, vedia dobre zapadnúť z najmä do
+horského prostredia, ale drevo je vhodné len na menšie chaty. Chaty bývajú aj z drevotrieskových
+dosiek, ktoré sú odizolované sklenenou vatou. V revíroch v nížinných oblastiach je drevo ako
+stavebný materiál menej vhodné. Chata sa dá naprojektovať tak, aby pripomínala ľudovú
+architektúru, ale môže byť postavená aj moderne. V každom prípade by mala dobre ladiť s
+prostredím.
+
+Vhodný stavebný materiál predstavujú aj pálené tehly, kameň (sokel) alebo
+
+pórobetónové kvádre. Strecha sa zvykne prikrývať škridlou. Okolo chaty sa zvykne postaviť
+betónový chodník, prípadne ak je potrebné, aj jarčeky so spádom vody. Odkvapy by sa mali vyhotoviť
+dôkladne a svedomite a potom môžeme úžitkovú dažďovú vodu zachytávať do sudov, najmä ak nie
+je v blízkosti chaty vodný zdroj (HELL, 1990).
+Hlavné konštrukčné druhy drevených stavieb sú stavby zrubové, stĺpcovité, doskové a montované.
+Konštrukcia závisí od účelu, ktorému bude budova slúžiť, na stavebných pomeroch v mieste, na
+možnostiach dopravy apod. Niektoré stavby z dreva sa uskutočňujú priamo na mieste (zrubové,
+stĺpcové), iné sú montované (doskové, tabuľové) (SVOBODA, ZÁBRANSKÝ, 1962).
+16
+
+Stavby zrubové sa budujú zo zrubových stien tesársky viazaných. Väčšinou ide o stavby prízemné,
+pretože drevo značne pracuje. Okná a dvere sa riešia len v najnutnejšej výške, medzi
+zvislými stĺpcami okien a dverí a nad nimi sa necháva vôľa aby netrpeli pracovaním dreva. Nevýhoda
+spočíva pre vysokú spotrebu dreva a ručné práce (SVOBODA, ZÁBRANSKÝ, 1962).
+Stavby stĺpcové sa v stavali s kostrou tesársky viazanou, v súčasnosti sú väčšinou zbíjané.
+Konštrukcia stien sa skladá z horného a dolného rámu a stĺpcov. Zvláštnu pozornosť je potrebné
+venovať osadeniu dverí a okien. Tieto stavby sa môžu stavať aj ako dvojpodlažné (SVOBODA,
+ZÁBRANSKÝ, 1962).
+Stavby montované sa stavajú z väčších stavebných dielcov, ktoré sú typizované a vyrábajú sa ako
+prefabrikáty vo forme dosiek vonkajších a vnútorných stien, priečok, prahov, dielcov stropných
+konštrukcií a pod. Prefabrikácia dielcov pri montovaných stavbách je jednoduchá, osadzovanie, nie
+je ťažké a ani doprava nie je vzhľadom k váhe dreva veľmi nákladná (SVOBODA, ZÁBRANSKÝ, 1962).
+Pri všetkých drevených stavbách je veľmi dôležité, aby boli dokonale chránené proti účinkom
+vlhka a podzemnej vody. Základy sa preto riešia z kamenného, tehlového alebo betónového muriva
+a dôkladne sa odizolujú od vlastnej stavby. Prízemné prvky musia byť chránené pred zatekaním.
+Pred zatekaním je treba chrániť aj okná a dvere. Proti poveternostným vplyvom chránime chaty
+rôznymi nátermi. Drevené stavby sú ľahké, nevyžadujú masívne základy, kubatúra vlastnej
+konštrukcie je vzhľadom k celkovej kubatúre stavby malá, takže obstavaný priestor je dobre využitý.
+Vybudovanie stavby je rýchle a pomerne ľahké. Po dokončení je stavba hneď obývateľná. Poskytuje
+hygienické bývanie lebo je teplá, suchá a príjemná k obývaniu (SVOBODA, ZÁBRANSKÝ, 1962).
+Nevýhodou drevených stavieb je spáliteľnosť a skutočnosť, že v porovnaní so stavbami
+murovanými sú menej trvanlivé (trvanlivosť drevenej stavby je cca 40 až 50 rokov). Ďalšia nevýhoda
+je to, že drevo, najmä v priečnom smere pracuje dosť výrazne (SVOBODA, ZÁBRANSKÝ, 1962).
+Je všeobecne zrejmé, že každá stavba v priebehu dlhšieho časového obdobia podlieha
+poveternostným vplyvom. Tieto sú vystavené postupnému poškodzovaniu. Pokiaľ sa v určitých
+etapách nesnažíme o primeranú údržbu, hodnota každého takéhoto obydlia sa znižuje. Platí to najmä
+o drevených stavbách, kde materiál je značne náchylný na poškodenie (SVOBODA, ZÁBRANSKÝ,
+1962). Uvádza, že aj pomerne pevne stavané budovy majú obmedzené trvanie, aj keď možno dlhé.
+O trvanlivosti budovy rozhoduje najmä účel, ktorému slúži a spôsob jeho vybudovania. Tu rozhoduje
+najmä stavebný materiál a krytina. Budovy sa poškodzujú a opotrebúvajú z rôznych vplyvov.
+Z poveternostných je to dážď, sneh, vietor, mráz, voda najrôznejšieho pôvodu, ktorá sa vyskytuje ako
+vlhkosť, chemické látky z ovzdušia, vody a rôznych hmôt, organizmy ako sú plesne, riasy alebo huby,
+17
+
+sadanie na základovej pôdy a jednotlivých konštrukčných častí stavby, mechanické otrasy, náhodné
+poškodenia najrôznejšieho pôvodu, účinky, ktoré vyplývajú z funkcie budovy t.j. účelu, ktorému
+slúžia a pod. Patričná trvanlivosť budov sa dá dosiahnuť len za predpokladu stáleho a odborného
+udržovania (SVOBODA, ZÁBRANSKÝ, 1962).
+Medzi udržiavacie práce patria stavebné opravy, ktorými sa stavba bez zmien v tvare, rozsahu,
+konštrukcie, druhu stavebniny a farbe alebo vo vnútornom usporiadaní zachováva v bežnom,
+použiteľnom a inak nezávadnom stave (SVOBODA, ZÁBRANSKÝ, 1962). Autori ďalej uvádzajú, že
+podľa spôsobu prevedenia je údržba budov stála a občasná. Dôležité je akúkoľvek údržbársku prácu
+vykonávať včas. Tam, kde je možné poškodenie predpokladať, je potrebné mu zabrániť, ak aj menšie
+poškodenie vzniklo, musí sa hneď odstrániť.
+2.3. Stavebný materiál
+Problematikou stavebných materiálov a ich využitím sa zaoberalo viacero autorov ako napr.
+MAKOVNÍK, CHLÁDEK, 1971, HRČKA a kol., 1987, 1994, HÁJEK a kol., 1997, KUKLÍK, 2005,
+SVOBODA a kol., 2005, JUHÁS a kol., 2008, ŠTEVKO a kol., 2009, JOCHIM, DUDAS, 2013 a iní.
+Stavebný materiál predstavuje všetko, čo je priamou súčasťou stavebnej konštrukcie a s čím sa
+súčasne môžeme stretnúť priamo na stavenisku. Za stavebné materiály pokladáme vlastné stavebné
+materiály, ale aj suroviny používané na ich výrobu, ak sa stavebné konštrukcie vyrábajú v rámci
+stavby. Radíme sem aj pomocné látky, ktoré uľahčujú stavebné technologické operácie a za stavebné
+materiály považujeme aj kusové stavebniny, teda jednoduché stavebné výrobky, charakterizované
+materiálom, z ktorého sú zhotovené, ale aj tvarom a rozmermi (SVOBODA a kol., 2005).
+Viaceré stavebné materiály a stavebniny sú dostupné vo viacerých látkových modifikáciách
+a výrobných variantoch a rozdiely vo vlastnostiach zdanlivo podobných stavebných materiálov môžu
+byť podstatné. Naopak, na rovnaký účel možno použiť aj stavebné materiály rozličného druhu
+s celkom odlišným látkovým zložením. V súčasnosti sa používa pomerne rozsiahly sortiment
+stavebného materiálu a optimálny výber riešenia stavby je niekedy zložitá úloha. Na výber
+stavebného materiálu má vplyv najmä legislatíva, technické, ekonomické a subjektívne požiadavky.
+Na prvom mieste je legislatíva. Hneď potom nasledujú technické normy. Materiál vybraný na stavbu
+musí spĺňať určité požiadavky na technickú funkciu. Musí byť napr. dostatočne pevný, tepelne
+izolujúci, neprepúšťajúci vodu alebo musí byť odolný proti mrazu. Súčasťou výberu materiálu musí
+byť aj komplexná úvaha o úžitkovej hodnote stavebného materiálu a základe spojených s jeho
+použitím. Okrem vlastností, ktoré sú pre konkrétnu úlohu nevyhnutné, majú takéto materiály aj ďalšie
+výhodné vlastnosti. V rámci ekonomického zhodnotenia je potrebné brať do úvahy aj účel stavby
+18
+
+a zohľadniť straty, ktoré môžu byť vo výrobných alebo obchodných budovách, ak v nich musí byť
+prerušená prevádzka pre opravu alebo údržbu. Racionálne materiálové riešenie vzniká postupnou
+aplikáciou výberových faktorov v poradí, v akom sú vyššie uvedené. Navrhované materiály musia
+byť z pohľadu legislatívy priepustné a v ďalších krokoch ide do popredia technická stránka. Dôležité
+je aj hľadisko nákladov o ktorých sa dá uvažovať až pri definovaní množstva technických riešení a až
+na základe poznania výšky nákladov možno realisticky uvažovať o tom, ktoré subjektívne
+vyhovujúce riešenie bude prípadne možné preferovať z iných ako technických alebo ekonomických
+dôvodov (SVOBODA a kol., 2005).
+Správny výber stavebného materiálu si vyžaduje hlavne dobré východiskové poznanie vlastností
+všetkých materiálov, ktoré prichádzajú do úvahy. Niektoré údaje sa musia poznať už pri posúdení
+prípustnosti a technickej použiteľnosti a je evidentné, že na ekonomické zhodnotenie je potrebný rad
+ďalších údajov o vlastnostiach stavebných materiálov. Pri výbere materiálov sa orientujeme na
+základe praktických skúseností s používaním materiálu, výsledky jeho štandardných skúšok a znalosť
+jeho štruktúry. Praktické skúsenosti sú najdôležitejšie. Ďalším zdrojom poznatkov sú údaje, ktoré sme
+získali overením konkrétneho stavebného materiálu štandardnými skúšobnými postupmi
+v definovaných skúšobných podmienkach. Detailné postupy skúšania určitých materiálových
+vlastností sú v súčasnosti zjednotené do národných a nadnárodných skúšobných noriem. Tretia
+skupina poznatkov vychádza zo znalostí štruktúry materiálu a z poznatkov z fyzikálno-chemických
+vzťahov medzi štruktúrou a správaním. Náuka o stavebných materiálov sa nazýva building material
+science a je súčasťou nášho poznania hmotného sveta. Je to medziodborová vedecká disciplína
+využívajúca poznatky prakticky všetkých prírodných vied. Kľúčovú úlohu pri jej ďalšom rozvoji
+zohráva hlavne chémia a fyzika. Skupina materiálov, ktoré sú ponúkané na stavebné použitie sa
+sústavne dopĺňa o novo vyvinuté stavebné výrobky. Väčšinou nejde o výrobky s podstatne novým
+materiálovým zložením, ale jedná sa hlavne o výrobky zdokonalené alebo prispôsobené na mieru
+určitej konkrétnej aplikácie. Výraznejšiu úpravu použiteľných vlastností výrobkov môže spôsobiť
+zmenená spoločenská situácia. K bežným úlohám v oblasti súčasného vývoja stavebných materiálov
+patrí optimalizácia vlastností kompozitných materiálov. Spočíva hlavne v stanovení optimálneho
+zastúpenia jednotlivých zložiek tvoriacich príslušný kompozit (SVOBODA a kol., 2005).
+Prehľad stavebných materiálov (SVOBODA a kol., 2005)
+Podľa pôvodu:
+Prírodné:
+-
+
+anorganické (horniny),
+19
+
+organické (drevo, bambus, ovčia vlna).
+
+-
+
+Umelé, vyrobené na základe:
+-
+
+anorganických surovín (vápno, cement, keramika, sklo, kovy ai.),
+
+-
+
+organických surovín (plasty, bitúmeny, aglomerované drevo),
+
+-
+
+kombinovaných surovín (drevocement, polystyrénbetón).
+
+Takto roztriedené stavebné materiály sa klasifikujú aj z hľadiska energetickej náročnosti výroby
+alebo
+
+obnoviteľnosti
+
+východiskových
+
+zdrojov.
+
+Toto
+
+delenie
+
+má
+
+význam
+
+hlavne
+
+pre
+
+národohospodárov alebo ekológov.
+Podľa použitia sa stavebné materiály delia na:
+konštrukčné materiály – predstavujú nosnú (vodorovnú, zvislú) konštrukciu stavby a sú pre ne
+
+-
+
+dôležité najmä mechanické vlastnosti (pevnosť v ťahu, tlaku apod.),
+výplňové materiály – tvoria výplň nosných zvislých stavebných konštrukcií a môžu čiastočne
+
+-
+
+plniť aj izolačnú funkciu (akustickú, tepelnú apod.), v porovnaní s konštrukčnými materiálmi
+majú zvyčajne nižšiu objemovú hmotnosť,
+izolačné materiály – chránia stavbu proti pôsobeniu nežiadúcich vplyvov. Delia sa na materiály
+
+-
+
+– tepelnoizolačné, zvukovo izolačné, hydroizolačné (môžu plniť aj ochranu proti difúzii radónu
+alebo ochranu proti chemickým látkam),
+dekoračné materiály – predstavujú povrchové úpravy exteriérových alebo interiérových povrchov
+
+-
+
+a plnia estetickú funkciu,
+ostatné materiály.
+
+-
+
+Podľa funkcie pri tvorbe zložitejších štruktúr sa stavebné materiály delia na:
+-
+
+spojivá,
+
+-
+
+plnivá,
+
+-
+
+látky na vystužovanie,
+
+-
+
+pomocné látky,
+
+-
+
+kusové stavebniny.
+Podľa materiálovej podstaty a technológie výroby možno stavebné materiály rozdeliť na:
+-
+
+výrobky z kameňa,
+
+-
+
+keramické výrobky,
+20
+
+-
+
+výrobky zo skla,
+
+-
+
+výrobky z vápna,
+
+-
+
+výrobky z cementu,
+
+-
+
+autoklávované výrobky,
+
+-
+
+kovové výrobky,
+
+-
+
+výrobky zo živice,
+
+-
+
+plasty,
+
+-
+
+výrobky z dreva a celulózy,
+
+-
+
+ostatné.
+
+2.4. Konštrukcie pozemných stavieb
+Pod pojmom pozemné stavby lesnícke sa rozumie obytná budova pre lesných robotníkov, hájovňa,
+lesovňa, administratívna budova pre lesné hospodárstvo, prevádzková stavba ako garáž, maštaľ,
+skladištná budova, opravárska dielňa, kŕmidlo pre zver, včelín a iná menšia stavba (MAKOVNÍK,
+CHLÁDEK, 1971).
+Stavebné konštrukcie pozemných stavieb vznikajú spracovaním stavebných látok alebo skladbou
+prvkov. Musia spĺňať statické, fyzikálne, ekonomické, estetické a ďalšie požiadavky.
+Triedenie stavebných konštrukcií
+Delia sa podľa toho, ako sa vyskytujú v objektoch pozemných stavieb na stavebné diely, t.j. na
+vopred určené a vymedzené časti stavby. Typizačný zborník konštrukcií pre pozemné stavby z roku
+1961 delí pozemné stavby na 15 ucelených stavebných dielov:
+-
+
+zemné práce,
+
+-
+
+konštrukcie pri osobitnom zakladaní,
+
+-
+
+základy,
+
+-
+
+steny,
+
+-
+
+stĺpy a pilier,
+
+-
+
+povrchy,
+
+-
+
+schodištia,
+21
+
+-
+
+stropy,
+
+-
+
+zastrešenie,
+
+-
+
+otvory,
+
+-
+
+zdravotná technika,
+
+-
+
+ústredné vykurovanie,
+
+-
+
+vzduchotechnika,
+
+-
+
+elektrická inštalácia,
+
+-
+
+netechnologické strojové zariadenie budov,
+
+-
+
+rôzne vybavenie budov.
+
+Konštrukčné sústavy
+Konštrukčná sústava je celkové usporiadanie nosných konštrukcií podľa určitých konštrukčných
+princípov a podľa rozmerových a technických parametrov. Z hľadiska konštrukčnej zásady sa
+členia konštrukčné sústavy na:
+-
+
+konštrukčná sústava s pozdĺžnymi nosnými stenami, kde nosné steny tvoria súčasne priečelie
+a vnútorné nosné steny sú rovnobežné s priečelím. Poznáme jedno, dvoj a trojtaktovú sústavu
+podľa počtu pozdĺžnych nosných stien,
+
+-
+
+konštrukčná sústava s priečnymi nosnými stenami, kde nosné steny sú kolmé na priečelie, takže
+priečelie nie je vytvorené nosnou stenou,
+Kombinácia pozdĺžnych a priečnych nosných stien dáva stavbe veľkú tuhosť a používa sa pri
+väčších objektoch
+
+-
+
+konštrukčná sústava halová, kde pravidelná sieť pilierov alebo stĺpov nesie konštrukciu
+zastrešenia, čo umožňuje vytvorenie veľkých krytých priestorov. Takéto členenie
+konštrukčných sústav neprihliada na použitý materiál a technológiu,
+
+Nosné steny môžu byť z tehál, tvaroviek, kvádrov, panelových blokov, panelov z monolitického
+alebo montovaného betónu, ocele, oceľobetónu alebo predpätého betónu apod.
+Z hľadiska použitého stavebného materiálu a použitej technológie delíme konštrukčné sústavy na:
+
+22
+
+-
+
+konštrukčná sústava montovaného a monolitického skeletu, je charakterizovaná tým, že nosná
+funkcia je sústredená do stĺpov a prievlakov. Dávnejšie sa stavala táto konštrukcia
+z monolitického oceľobetónu. V súčasnosti prevažuje montovaný oceľobetónový skelet.
+Stropná konštrukcia skeletových stavieb je z prefabrikovaných stropných dosák, ktoré sú
+nesené prievlakmi. Na výplňové murivo sa používajú ľahké tvarovky, ktoré nie sú nosné, ale
+dobre tepelnoizolačné.
+
+- konštrukčná sústava panelová, kde zvislé nosné steny tvoria panely, plošné stenové dielce
+oceľobetón alebo pórovitý betón s oceľobetónovým nosným rámom.
+Základné konštrukčné prvky panelových stavieb sú:
+- obvodové nosné alebo nenosné panely,
+- vnútorné nosné alebo nenosné panely,
+- stropné panely,
+- schodišťové a doplňujúce panely.
+Pri panelových stavbách môžu byť nosné panely stenové a stropné plné alebo rámové. Rámové
+panely majú rám, ktorý je z predpätého betónu a výplň z keramzitového betónu alebo iného
+pórobetónu. Stropné panely môžu byť plné alebo s dutinami, pri väčších rozpätiach sú to dosky
+s rebrami. Zvislé nosné steny a vodorovné stropné dosky tvoria tuhú sústavu. Konštrukčné riešenie
+panelových stavieb môže mať nosné stenové panely alebo v polohe priečnej alebo v pozdĺžnej,
+alebo kombináciu obidvoch spôsobov. Priečne nosnú konštrukčnú sústavu využíva typ stavieb
+z liateho betónu (MAKOVNÍK, CHLÁDEK, 1971).
+
+23
+
+3. Ciele práce
+
+Cieľom mojej práce je charakteristika vybraných poľovníckych chát na území LS Kyslinky, ktorá
+patrí pod Odštepný závod Kriváň. Na základe zhodnotenia ich súčasného stavu, bolo cieľom
+navrhnúť tiež opatrenia, ktoré by viedli k zveľadeniu a následnému zvýšeniu využitia, či už v rámci
+rekreácie alebo poľovného turizmu. Ich súčasný stav je výzvou na začiatok ich rekonštrukcie a preto
+mapujem ich aktuálnu situáciu. Zároveň pri hodnotení navrhujem základné opatrenia, ktoré by mohli
+organizačné zložky Lesov SR, začať realizovať. Každá vybraná chata, má iný technický stav, na
+základe ktorého sa odrážajú mnou navrhované opatrenia. Zohľadňujem pri nich aj ostatné aspekty,
+ako je poloha, kapacita, vybavenosť, ktoré ich predurčujú pre konkrétne využitia.
+
+24
+
+4. Metodika
+4.1. Charakteristika záujmového územia
+4.1.1. Základné údaje
+Záujmové územie spadá do kvadrátov databanky fauny Slovenska (DFS) 7382, orografický celok
+Poľana (320). Na tomto území bola v roku 1981 za účelom ochrany prírody a tiež osobitného rázu
+krajiny vyhlásená Chránená krajinná oblasť (CHKO) Poľana. Pre svoje hodnoty bolo územie CHKO
+v roku 1990 zaradené do svetovej siete Biosférických rezervácií (BR) v rámci medzinárodného
+programu Človek a biosféra MAB koordinovaného organizáciou UNESCO. V rámci územia CHKO
+Poľana sa z území v sústave NATURA 2000 nachádza 10 území európskeho významu (Repiská,
+Koryto, Kopa, Javorinka, Močidlianska skala, Hrbatá lúčka, Poľana, Detviansky potok, Vrchslatina
+a Dolná Zálomská) a zároveň je celé územie CHKO Poľana súčasťou Chráneného vtáčieho územia
+(CHVÚ) Poľana.
+V roku 1965 bola na území Poľany vyhlásená CHPO Poľana pre chov a ochranu jelenej zveri na
+výmere 18 816 ha. Súčasná výmera CHPO Poľana je 20 659 ha poľovnej plochy. Z toho 18 309 ha
+lesa a 2 350 ha poľnohospodárska pôda.
+CHKO-BR Poľana
+Rozloha územia je 20 360 ha. Z celkovej výmery CHKO je 17 102,36 ha lesnej pôdy, 3001,41 ha
+poľnohospodárskej pôdy, 102,50 ha vodných plôch, 48,61 ha zastavaných plôch a 105,60 ha
+ostatných plôch. Najnižším bodom je Bujačie-Malá Hôrka (451 m n.m.) pri Ivinách. Najvyšším
+bodom územia je kóta Poľana (1458 m n.m.). Územie patrí medzi najmenej urbanizované chránené
+územia na Slovensku. Nachádzajú sa tu iba tri osady (Iviny, Snohy a Vrchslatina) s typickým
+lazníckym osídlením (celkovo asi 400 trvalo žijúcich obyvateľov). Kóta Hrb (1255 m n.m.), ktorá sa
+nachádza na jej severnom okraji v NPR Ľubietovský Vepor je geografickým stredom Slovenska.
+V CHKO Poľana sa vyskytuje okolo 1220 druhov vyšších rastlín, z toho 80 chránených, 390 húb,
+160 lišajníkov, 130 machorastov. Veľmi pestré je i živočíšstvo, ktoré je zastúpené 278 stavovcami,
+z toho 222 chránených. Z nich dominujú vtáky a cicavce. Bezstavovce sú zastúpené viacerými
+karpatskými endemitmi. Územie CHKO vytvára ochrannú zónu pre vyhlásené maloplošné chránené
+územia (MCHÚ), ktoré slúžia pre zachovanie rastlinných a živočíšnych druhov, typov biotopov
+a spoločenstiev a na sledovanie prírodných procesov.
+
+25
+
+V súčasnosti je v záujmovom území vyhlásených 22 maloplošných chránených území MCHÚ (3
+Národné prírodné rezervácie (NPR), 1 Národná prírodná pamiatka (NPP), 7 Prírodných rezervácií
+(PR), 7 Prírodných pamiatok (PP), 4 Chránené areály (CHA) a 2 chránené stromy (CHS).
+Pre výskyt významných častí neživej prírody, pestrosť rastlinstva a živočíšstva a s ukážkou
+zachovalých krajinných štruktúr bolo na časti územia vyhlásená Chránená krajinná oblasť (CHKO).
+S postupom času tu bola snaha o ďalší rozvoj územia, jeho racionálne využívanie pri dodržaní zásad
+ochrany vzácnych ekosystémov, čo vyústilo k prihláseniu územia do medzinárodného programu
+Človek a biosféra (Man and Biosphere programme – MaB) koordinovaného medzinárodnou
+organizáciou UNESCO (SLÁVIK a kol., 1996). Výsledkom toho bola v roku 1990 vyhlásená
+Biosférická rezervácia Poľana. Zóny biosférickej rezervácie sú rozdelené na tri časti: jadrová zóna,
+tvorená šiestimi roztrúsenými jadrami, nárazníková zóna, ktorá chráni vlastnú jadrovú zónu,
+a prechodná zóna (SLÁVIK a kol., 1996).
+Z hľadiska súčasnej krajinnej štruktúry možno povedať, že v podhorí (tranzitná zóna a susediace
+územie) BR Poľany sa jedná o oráčinovo-lúčno-kotlinovú krajinu, vyššie o lúčno-lesnú brázdovú
+krajinu až hornatinovú krajinu. Väčšia časť územia má ráz hornatinovej a vysočinovej krajiny
+zmiešaných lesov (MIDRIAK, SLÁVIKOVÁ, 1997).
+Svojím spôsobom je zaujímavé aj predhorie daného územia, najmä jeho južné, juhozápadné
+a najmä juhovýchodné časti. Prírodné podmienky tohto typicky lazníckého osídlenia v kontaktnej
+zóne teplej panónskej a chladnejšej karpatskej flóry a fauny si vďaka tradičnému obhospodarovaniu
+v komplikovaných geomorfologických pomeroch zachovali charakteristické črty po dlhé stáročia
+(KRIŠTÍN, 1997).
+Pestrý vývoj reliéfu územia BR Poľany s takmer 1000 metrovým výškovým rozpätím podmieňuje
+vertikálnu zonálnosť klímy, striedanie materských hornín a pôvodných typov, nápadne sa uplatňujúca
+expozícia a v neposlednom rade aj vysunutie horstva z hlavného karpatského oblúka na juh spôsobili
+prelínanie teplomilných a horských druhov rastlín a živočíchov. Aj napriek relatívnej floristickej
+chudobnosti vulkanitov je preto flóra Poľany pomerne pestrá (ZEMKO a kol., 1988).
+4.1.2. Geológia
+Poľana predstavuje horský celok v severovýchodnej časti Slovenského stredohoria. Z juhu
+a západu je ohraničená Zvolenskou kotlinou, na severe a východe Veporskými vrhmi. Celkový
+charakter územia je masívneho pohoria s kruhovým pôdorysom, ktorý má priemer cca 18 km.
+Rozlišujeme dve časti s odlišnou nadmorskou výškou. Patrí sem Vysoká Poľana, ktorá predstavuje
+vlastnú erozívnu kalderu Poľany a nižšie položené Detvianske predhorie. Pohorie Poľana vzniklo
+26
+
+v treťohorách vplyvom vulkanickej činnosti na starom, pomerne plochom povrchu Slovenského
+Rudohoria. Predstavuje rozrušenú formu sopky – stratovulkánu. Je budovaná, takými horninami ako
+sú andezity a ryolity a mäkšie vulkanoklastiká andezitov v tufovom a tufitivom vývoji (kolektív
+autorov, 1980). Geologickú stavbu vo východnej časti územia tvoria veporidy, centrálnu a západnú
+časť mladotreťohorné vulkanity. Vulkanická stavba sa prejavuje striedaním odolných andezitových
+príkrovov a prúdov s vrstvami menej odolných tufov a tufitov.
+Poľana patrí medzi najväčšie vyhasnuté sopky v Európe a je najvyšším sopečným pohorím na
+Slovensku (SLÁVIK a kol., 1996). Je to najzachovalejší treťohorný vulkán na Slovensku. Centrálnu
+časť predstavuje erózna kaldera, ktorá má takmer kruhovú líniu a predstavuje depresiu s priemerom
+cca 7 km. Potoky v danom území sa zbiehajú zo svahov pri Kyslinkách do jedného toku, ktorý cez
+Hrochotskú dolinu odvádza vody z pohoria. Vlastná kaldera je ohraničená horským chrbtom
+s prstencovitým pôdorysom. Najvyšší bod daného územia je kóta Poľana (1458 m n.m.). Čo do
+plošného priemetu je najrozsiahlejšia vonkajšia časť stratovulkánu. Pravidelne sa tu striedajú
+rázsochy a doliny so špecifickým lúčovitým usporiadaním. Geologické podložie, ktoré je pomerne
+pestré spôsobuje, že jednotlivé rázsochy stupňovito klesajú od hlavného hrebeňa k okraju pohoria.
+Skalné stupne sú tvorené na tvrdých andezitových lávovitých plochách. Bočný chrbát Poľany
+vybiehajúci na sever je charakteristický svojou odlišnosťou. Len tento chrbát si udržiava nadmorskú
+výšku až po chatu pod Hrbom (LACIKA & ONDREJKA, 2009).
+Výškové rozpätie Poľany podmienilo rozloženie pôd. Do 450 m n.m. sú to ilimerizované pôdy až
+pseudogleje, do 650 m n.m. až 800 m n.m. sú to hnedé pôdy nasýtené, miestami hnedé pôdy
+nenasýtené (kyslé) a nad 700 m n.m. až 800 m n.m. sú to hnedé pôdy nenasýtené. V najvrchnejších
+partiách pohoria sa nachádzajú andozeme (kolektív autorov, 1980).
+4.1.3 Vodstvo
+Vodu z CHKO Poľana odvádza rieka Hron. Poväčšine doňho ústia menšie toky. Platí to najmä pre
+toky z pravej strany. Dlhšie sú prítoky z ľavej strany Hrona sú podstatne dlhšie a svojou rozlohou
+povodí väčšie. Najdlhšia z nich je rieka Slatina. Zbiera vody z južných častí svahov Poľany. Do
+Slatiny sa z pravej strany vlieva rieka Hučava, ktorá je dlhá 28 km. Oblasť Poľany je známa výskytom
+prameňov kyslých minerálnych vôd, ktoré sú známe pod názvom Medokýš, (LACIKA & ONDREJKA,
+2009). Z hydrologického hľadiska sa územie vyznačuje dvomi zvláštnosťami. Je to horný tok rieky
+Hučava v oblasti Kysliniek vo vnútri kaldery s klasickým vývojom dostredivej (centripetálnej) siete
+tokov. Druhá zvláštnosť je odstredivý (centrifugálny) charakter tokov, ktoré z vonkajšej strany
+
+27
+
+kaldery tečú na všetky svetové strany. V oblasti Poľany je 25 vodných tokov, ktoré sa radia do
+povodia Hrona (SLÁVIK a kol., 1996).
+4.1.4. Podnebie
+Klimaticky je Poľana pomerne diferencovaná, najmä čo sa týka nadmorskej výšky, ktorá sa
+prejavuje najmä v oblasti výškovej zonality. Dané územie možno rozdeliť na dve časti. Sú to časti
+nižšie ako 1000 m n.m., patriace do mierne teplej oblasti. Priemerný ročný úhrn zrážok tu nepresahuje
+1000 mm. Pohybuje sa v rozpätí cca 600 až 900 mm. Priemerné januárové teploty sú -4 až -5°C.
+V letnom mesiaci júl sú priemerné teploty 14 až 16 °C. Najvyššie partie Poľany zasahujú do mierne
+chladnej klimatickej oblasti. Priemerné ročné úhrny zrážok tu dosahujú 1000 mm. Snehová pokrývka
+je tu 120 až 140 dní v roku. V januári sú tu priemerné teploty -6 °C. V letnom období v júli je to, 10
+až 12°C, (LACIKA & ONDREJKA, 2009). Dané územie je zaradené do chladnej klimatickej oblasti s
+klimatickou podoblasťou horská podoblasť – kaldera Poľany a mierne chladná podoblasť v nižších
+častiach pohoria (atlas krajiny Slovenskej republiky).
+4.1.5. Flóra a fauna
+V danom území výraznou mierou prevažujú lesné spoločenstvá. Na viacerých lokalitách je tu
+badateľný charakter horských lúk a poľán. V rámci lesných porastov predstavujú hospodárske lesy
+významný podiel. Pôvodné lesné porasty sa zachovali na niektorých lokalitách na pomerne
+rozsiahlych plochách. Vrcholová smrečina na Zadnej Poľane predstavuje výskyt pôvodných porastov
+smreka na andezitovom podloží Západných Karpat (LACIKA & ONDREJKA, 2009). V minulosti boli
+rozľahlé lesy badateľné na väčšine tohto územia, ale aj dnes predstavujú z dominantnú skupinu
+krajinných prvkov. Od cca 17. storočia je pôvodná druhová skladba značne pozmenená činnosťou
+človeka na mnohých miestach. Na juhozápadnom úpätí sa fragmentovite vyskytujú bukovo-dubové
+a dubovo-bukové lesy. Na tieto lesy sa napájajú plošne najrozšírenejšie bukové a jedľovo-bukové
+lesy. V najvyšších častiach pohoria sa vyskytuje pôvodná vrcholová smrečina, ktorú prstencovito
+lemuje pruh smrekovo-bukovo-jedľových lesov (SLÁVIK a kol., 1996). V území sa prelínajú
+teplomilné, horské a subalpínske druhy. z chránených druhov rastlín je potrebné spomenúť
+soldanelka uhorská (Soldanella hungarica), žltohlav európsky (Trolius europaeus), rosička
+okrúhlolistá (Drosera rotundifolia) alebo kosatec sibírsky (Iris sibirica). Občas sa nájdu aj
+vstavačovité. Z fauny je potrebné spomenúť druhy ako orol krikľavý (Aquila pomarina), výr skalný
+(Bubo bubo), kuvičok vrabčí (Glaucidium passerinum) ďateľ bielochrbtý (Dendrocopus leucotos),
+drozd kolohrivý (Turdus torquatus) bocian čierny (Ciconia nigra). Z cicavcov tu majú svoj domov
+naše veľké šelmy ako medveď hnedý (Ursus arctos), vlk dravý (Canis lupus) alebo rys ostrovid (Lynx
+
+28
+
+lynx) (LACIKA & ONDREJKA, 2009). V súčasnosti patrí medzi pravidelne sa vyskytujúce druhy aj
+orol skalný (Aquila heliaca).
+4.2. Metodika práce
+Pre danú problematiku boli vybrané všetky poľovnícke chaty na území LS Kyslinky. Sú to tieto
+objekty: Chata Dudáš, Pod Dudáš, Sihla, Bútľavka, Zálomská, Príslopy a Dežmov.
+Základom pre zhodnotenie danej problematiky a navrhnutie možných opatrení bol terénny prieskum.
+Každá chata bola fyzicky obhliadnutá priamo v teréne. Zhodnotený bol technický stav každého
+objektu. Spravená bola fotodokumentácia z viacerých aspektov. Zachytený a zmeraný bol ako
+exteriér, tak aj interiér konkrétneho objektu.
+Každý objekt bol meraný pomocou meracieho pásma, za účelom získania presných číselných údajov.
+Meraná bola každá miestnosť.
+Zhodnotila sa pozícia každej chaty. Vyhodnotila sa dostupnosť v teréne. Definovala sa príjazdová
+cesta. V stručnosti sa charakterizoval okolitý porast.
+Ďalší postup pozostával z oboznámenia sa ohľadne základných údajov konkrétneho objektu. Tieto
+boli poskytnuté z materiálov evidenčnej karty OZ Kriváň.
+K podrobnému opisu konštrukcií a použitých materiálov jednotlivých objektov som sa nedostala
+pretože, nie sú dostupné v archíve na OZ Kriváň. Fyzicky nebolo možné preskúmať detailnejšie
+použité materiály, vzhľadom na to že boli prekryté obkladovým materiálom.
+
+29
+
+5. Výsledky
+Poľovnícke chaty Dudáš, Pod Dudáš, Sihla, Zálomská, Bútľavka, Príslopy a Dežmov kopec,
+príloha 1, sa nachádzajú v oblasti CHPO Poľana, konkrétne do územia lesnej správy Kyslinky, ktorá
+patrí pod Obec Hrochoť.
+Systém starostlivosti o chaty je v réžii zamestnancov OZ, ktorý je založený na dobrovoľnej báze
+a spočíva v základných údržbách, prípadne nevyhnutnej starostlivosti, či už v exteriéri alebo
+v interiéri.
+Komerčne využívané chaty (Dudáš, Pod Dudáš, Zálomská) sú riešené dodávateľskými zmluvami
+o ich starostlivosť. Zmluva zahŕňa: upratovanie interiéru chaty pred návštevou a po návšteve,
+príprava posteľnej bielizne, odstránenie drobných porúch, kosenie v okolí chaty, príprava palivového
+dreva apod. Ďalšie dodávateľské služby riešia väčšie opravy a údržby.
+V súčasnosti ani jedna z už spomínaných chát nie je nikde publikovaná na stránkach LESOV SR,
+š.p., čím sa stráca ich finančný prínos a vlastné zárobky, ktoré by pokryli údržby a opravy. Projektová
+dokumentácia nie je dostupná vzhľadom k ich veku, takže nebolo možné zistiť napríklad presné
+konštrukčné rozmery, základov alebo zrubových a strešných častí.
+
+5.1. Poľovnícka chata Dudáš.
+Typ poľovníckeho zariadenia poľovnícka chata. V evidenčnej karte z OZ Kriváň sa uvádza:
+výstavba chaty bola dokončená v roku 1937, za účelom prevádzkovej budovy pre lesníctvo. V popise
+uvedené: Lovecká chata Dudáš. Základy - kameň, murivo – drevený zrub, drážková konštrukcia
+zrubu pre lesnícke stavby, strecha - plech. Zastavaná plocha je 42,75 m2, obstavaný priestor 136,80
+m2. Doba upotrebiteľnosti bola v roku 1937 určená na 40 rokov. Obstarávacia cena k 31.12.1973
+predstavovala 20 023 slovenských korún a na oprávky a generálne opravy bolo vyčlenených 9490
+slovenských korún.
+Nachádza sa v nadmorskej výške 1 120 m n.m v chránenom území CHKO Poľana. Je sprístupnená
+cestou kategórie 1L z lesníckej osady Kyslinky 5 km. Okolo chaty sa nachádza zmiešaný porast v 2
+stupni ochrany prírody. Zobrazenie exteriéru a interiéru chaty je na obr. 1 - 5.
+
+30
+
+Obr. 1 Pohľad na chatu Dudáš (autor)
+Exteriér
+Dispozične je chata riešená na vyvýšenom mieste, jej vchod, veranda (drevené zábradlie, schody
+a veranda kameň a betón), je situovaná na východ. Celkový vzhľad nie je v zlom technickom stave.
+Strecha je sedlová, natretá zelenou farbou na ktorej poznať korózne plochy. Náter na drážkovej
+konštrukcii zrubu je tmavohnedej farby a je v dobrom stave, až na plochy ktoré sú poškodené od
+medveďa. Na severnej strane chaty je jedno okno s okenicou a na podlaží je zrekonštruovaný drevený
+balkón. Na západnej strane sú dve okná taktiež s okenicami. Na južnej strane je jedno okno dispozične
+umiestnené v podkroví. V obstavanom exteriéry sa nachádza novo vybudovaný drevený altánok
+so sedením. Prístrešok na drevo je taktiež novo vybudovaný. Sociálne zariadenie je v zlom
+technickom stave a nie je použiteľné. Na južnej strane tesne pri stene je prístrešok na centrálu. Pitná
+voda je od chaty cca 100 m na východ. Pri chate je otvorené ohnisko.
+
+Obr. 2 Altánok s prístreškom na drevo (autor)
+
+31
+
+Interiér
+Situovaný vchod je na východnej strane cez pristavanú verandu. Vchod predstavuje malá predsieň,
+z ktorej sa dostaneme do kuchyne, spoločenskej miestnosti a do podkrovia. Predsieň má plochu 3,7
+m2 .
+Dispozične riešené dvere na severnej strane verandy nás privedú do spoločenskej miestnosti
+s plochou 20 m2. Ich úplné otvorenie nie je možné, pretože tomu bráni veľké sedenie „L-kového“
+tvaru. Pri dverách napravo je krásna kachľová pec, ktorá je na novo zrekonštruovaná a funkčná.
+Nebezpečne je riešený dymovod, ktorého vstup do komína je tesne pod stropom, vidieť poškodenie
+stropu od horúcej rúry. Pri peci je pristavaná murovaná nízka časť, ako úložný priestor na drevo. Na
+západnej a severnej strane miestnosti je okno. V rohu sú dve postele a oproti stôl a stoličky.
+Miestnosť je obložená sololitovým obkladom, ktorý nerobí pekný dojem a pôsobí chladno, miestami
+odstáva od steny. Podlaha je z linolea. Strop je obložený tatranským profilom. V krytkách po stene
+sú káble na elektrické vedenie z centrály. Luster je zánovný. Miestnosť pôsobí chladne vďaka
+použitému materiálu.
+
+Obr. 3 Spoločenská miestnosť na chate Dudáš (autor)
+Zo spomínanej predsieni sa dostaneme do kuchyne, ktorej vchod je hneď oproti hlavnému vchodu
+chaty. Plocha kuchyne je 11,5 m2, oproti dverám na západnej strane je okno. Napravo od dverí je
+sporák, ktorý je v dezolátnom stave, platne sú hrdzavé, možno už aj nefunkčné, ďalej kredenc
+s umývadlom. Oproti sa nachádzajú dva stoly. Celá miestnosť je obložená sololitovým obkladom
+a podlaha je z linolea. Strop je tatranský profil. Krytky po stene na elektrické vedenie z centrály.
+
+32
+
+Obr. 4 Kuchyňa na chate Dudáš (autor)
+Za hlavnými dverami v predsieni sa nachádzajú schody, do podkrovia. Schody sú zo smrekových
+dosiek, ktoré už nemajú dlhú trvácnosť, pretože ich hrúbka nie je dostatočná na túto funkčnosť.
+Osvetlenie na schodisku je poškodené. Schodmi sa dostaneme do podkrovnej miestnosti. Vzbudzuje
+dojem útulného priestoru, no použitý materiál to všetko vyvracia. Strop je sádrokartón, obklad
+sololitové dosky, linoleová podlaha. Podkrovie má dve miestnosti. Prvá o rozmere 7,8 m2. Tu sa
+nachádza jedna posteľ a jeden stolík, okno je situované na juh. Druhá miestnosť má plochu 10,6 m2,
+sú tu umiestnené dve postele, jedna piecka, ktorá je funkčná. Miestnosť je situovaná na východ
+s východom na novo zrekonštruovaný drevený balkón s pekným výhľadom.
+Návrh úprav poľovníckej chaty Dudáš
+Exteriér:
+-
+
+prebrúsenie strechy od starého náteru, náter základnou farbou, náter povrchovou farbou
+vhodnou do exteriérového prostredia, farba by sa ponechala zelená,
+
+-
+
+vonkajší náter chaty je pomerne v dobrom stave, bolo by vhodné pozatierať len poškodenie
+od medveďa,
+
+-
+
+okenice, ktoré sú len na prízemí, potrebujú lepšie zabezpečenie. Bolo by vhodné zaistiť ich
+z vnútra a nie z vonka ako je to v momentálnom stave, a to len zaistené drôtom. Z vonkajšej
+exteriérovej strany majú náter urobený zrejme zároveň s celou plochou chaty. Vnútorná strana
+okeníc začína chytať pleseň, pretože nie je ošetrená náterom. Takže ošetrujúci náter okeníc
+z vnútornej strany je ďalším riešením.
+
+-
+
+nové sociálne zariadenie,
+
+33
+
+-
+
+prístrešok na elektrickú centrálu,
+
+-
+
+vybudovanie zabezpečeného ohniska pri prístrešku.
+
+Obr. 5 Poškodenie zrubovej časti od medveďa (autor)
+
+Interiér:
+-
+
+kompletná výmena podláh, vhodné by boli drevené,
+
+-
+
+kompletná výmena obkladu na stenách, momentálne sololitové dosky, obklad by mohol byť
+tatranský profil,
+
+-
+
+v spoločenskej miestnosti stenu za komínom obložiť kameňom a oblasť na strope zabezpečiť
+proti ohrievaniu z komínovej rúry. Výmena poškodeného nábytku. Dispozične nájsť riešenie,
+
+-
+
+lepšie zabezpečenie schodiska, výmena nevhodných použitých dosiek, oprava osvetlenia na
+schodisku.
+
+-
+
+čo sa týka podkrovia tak platí kompletná výmena obkladov a podláh. Následne výmena
+vhodného nábytku.
+
+- kuchyňa, výmena sporáka, doplnenie jedálenského nábytku. Keďže nie je v chate voda,
+upraviť dres, kuchynskú linku celú na umývanie riadu, aj pre hygienické potreby.
+
+34
+
+Súčasné využitie
+Chata bola postavená ako lovecká chata, ktorá mala hlavný význam pri love medveďa hnedého.
+V súčasnej dobe je využitie chaty skoro nulové. Využívajú ju hostia, ktorí nie sú nároční na
+výdobytky modernej doby a ktorých neodradí zanedbané interiérové prostredie. Tržby na opravu od
+roku 2007 po rok 2018 je 0,- EUR a tržby za ubytovanie od roku 2007 po rok 2020 sú 892, 94,- EUR.
+Kapacita chaty je 5 osôb podľa počtu postelí, ak by sa využil rozkladací gauč tak 7 osôb.
+Návrh na využitie
+Výhodná poloha chaty Dudáš, ju predurčuje najmä na turistické využitie. Môže byť štartom pre
+spoznávanie vrcholových častí Poľany. V jej blízkosti sa nachádza červená turistická trasa, vedúca
+hrebeňom Poľany. Priamo popred chatu prechádza modrý turistický chodník smerujúci do sedla
+Priehybina, ktorá je turistickou križovatkou. Chata Poľana je vzdialená cca 1 hod pešou chôdzou.
+Terén je vhodný aj pre cykloturistiku. Samozrejme počas poľovníckej sezóny je vhodná pre
+ubytovanie poľovníckych hostí, ktorí tu po love nájdu kľud a odpočinok. Pri zmene dispozície
+podkrovia by stúpla kapacity chaty na 10 osôb. Postupnými tržbami za ubytovanie. by sa dalo pokryť
+jednotlivé položky za drobné, či väčšie opravy alebo nákup nábytku.
+
+5.2. Poľovnícka chata Pod Dudáš
+Typ poľovníckeho zariadenia poľovnícka chata. V evidenčnej karte z OZ Kriváň sa uvádza: výstavba
+chaty bola dokončená v roku 1940. V popise uvedené: Robotnícka ubikácia „Pod Dudášom“.
+Základy – kameň, konštrukcia – zrubová, drážková konštrukcia zrubu pre lesnícke stavby, strecha
+sedlová - škridla. Zastavaná plocha je 91 m2, obstavaný priestor 318,5 m2. Doba upotrebiteľnosti bola
+v roku 1937 určená na 40 rokov. Obstarávacia cena k 31.12.1973 predstavovala 32 217,- slovenských
+korún a na oprávky a generálne opravy bolo vyčlenených 3 352.- slovenských korún.
+Chata Pod Dudášom sa nachádza v nadmorskej výške 1020 m n.m. Od lesnej osady Kyslinky k nej
+vedie lesná cesta 3L, ktorá sa posledných 700 m mení na spevnenú zvážnicu, vysypanú štrkom, ktorá
+je zjazdná pre osobné automobily. Chata sa nachádza v zmiešanom lesnom poraste. Porast je
+s prevahou buka a ojedinele vtrúsenými majestátnymi jedľami. Stupeň ochrany prírody 2,
+zodpovedajúci územiu CHKO Poľana. Zobrazenie exteriéru a interiéru chaty je na obr. 6 - 9.
+
+35
+
+Obr. 6 Čelný pohľad na chatu Pod Dudáš (autor)
+Exteriér
+Chata Pod Dudášom má drážkovú konštrukciu zrubu a strecha je sedlová. Je umiestnená nad
+príjazdovou lesou cestou na vyvýšenom mieste. Celkový vzhľad chaty neevokuje zlý dojem, prvé čo
+nás ale upúta, sú poškodenia zrubových častí od medveďa. Strechová krytina, ktorá je v evidenčnej
+karte uvádzaná ako škridla, je škridlo plech. Stará krytina je poukladaná pri poľovníckej chate. Plech
+na streche so začínajúcou koróziou. Na dvoch komínoch na streche sa rozpadávajú tehly. Základy sú
+z kameňa preliateho betónom. V obstavanom prostredí sa pri chate nachádza dreváreň, ktorá je zjavne
+ešte v dobrom technickom stave a novovybudovaný altánok. Sociálne zariadenie je v dobrom
+technickom stave, novo vybudované. Pitná voda sa nachádza na sever od chaty asi 30 metrov. Vchod
+do verandy je situovaný na sever, celá veranda je primurovaná k zrubovej vonkajšej stene chaty. Nie
+je pôvodná. Je murovaná. Má dve okná bez poškodenia. Je situovaná zo severného pohľadu, kde sú
+umiestnené dve okná, jedno malé, dispozične v ľavom hornom okraji prízemia a druhé na podlaží.
+Východná zrubová strana má dve okná situované na prízemí. Na južnej strane je jedno okno na
+poschodí a druhé vpravo na prízemí. Táto južná zrubová strana chaty má najväčšie poškodenia.
+Všetky okná sú zabezpečené kovovými mrežami. Pri chate sa nachádza nezabezpečené ohnisko.
+
+36
+
+Obr. 7 Bočný pohľad na chatu Pod Dudáš (autor)
+Interiér
+Do interiéru sa vchádza cez verandu vchodom otočeným na sever. Veranda má plochu 6 m2. Strop
+je drevený, natretý bielou latexovou farbou ako aj zrubová stena napravo od vchodu. Podlaha je
+z betónovej štvorcovej dlažby, ktorá vyčnieva až pred dvere. Naľavo sú dve veľké okná, ktoré sú
+vyhotovené bez otvárania, nie sú poškodené. Z verandy na pravej strane je vchod do chodby,
+zabezpečený kovovými mrežami. Chodba je o rozlohe 11,4 m2. Napravo je okno situované
+z vonkajšej strany v ľavom hornom rohu severnej strany okno, ktoré pekne osvetľuje drevené
+masívne schodisko, natreté latexovou farbou, ako aj pravá stena chodby. Pod schodiskom sa
+nachádzajú dve plechové skrine. Podlaha v chodbe je z betónových kociek a strop je drevený.
+Naľavo od vchodu do chodby vojdeme do kuchyne s plochou 6,7 m2. Napravo pri dverách sa
+nachádza na novo opravený nerezový dres aj s prívodom pitnej vody do chaty. Má nový vodovodný
+kohútik aj obklad za dresom, ktorý bol pred tým poškodený. Podlaha je linoleum, strop je opracovaný
+omietkou. V kuchyni sa nachádza funkčný sporák na drevo a aj sporák na plynovú bombu, ktorá je
+umiestnená pod stolíkom pri sporáku. Na ľavej strane miestnosti je kuchynská linka. Okno situované
+na juh pekne osvetľuje celú kuchyňu.
+
+37
+
+Obr. 8 Kuchyňa na chate Pod Dudáš (autor)
+Ďalšou miestnosťou je spoločenská izba. Je výrazne viditeľné, že jej plocha 19 m2 evokuje dostatočne
+veľkú miestnosť na spoločenské účely. Rozhliadnutím po miestnosti zistíte že nábytok v miestnosti
+je z veľkej časti poškodený, vzbudzuje nie veľmi príjemný pocit. Steny sú pekne opracované
+omietkou aj strop. Od vchodových dverí do miestnosti na ľavej strane je na novo vybudovaný krb
+s krbovou vložkou, pekne vymurovaný, táto časť susedí s kuchyňou. Pred opravou prívodu vody do
+kuchyne, poškodenie vytvorilo vlhnutie steny, ktoré dosť masívne poznať. Okno v miestnosti svojou
+veľkosťou privádza dostatok svetla. Podlaha je linoleum.
+
+38
+
+Obr. 9 Spoločenská miestnosť (autor)
+Ďalšími dvermi z chodby, ktoré sú hneď vedľa dverí do spoločenskej miestnosti, sa dostaneme do
+spálňovej časti. Napravo od dverí sa nachádza plechová nová piecka, a vedľa nej sú šatníkové skrine.
+Oproti dverám je okno dostatočne osvetľujúce celú miestnosť, kde sa nachádza 6 postelí. Sú situované
+oproti sebe v miestnosti. Spálňa má plochu 19 m2. Steny sú vystierkované a vymaľované interiérovou
+farbou, podlaha je linoleum. Drevenými schodmi sa dostávame do podkrovia. Tu nás privíta malý
+priestor, sťa by len malá spoločenská izba, ktorá je osvetlená hneď napravo malým okienkom nad
+schodiskom. Z tejto časti sa dostaneme do odpočinkového priestoru v podkroví. Oproti vchodu je
+okno, pekne osvetľujúce celú miestnosť. Tu sa nachádzajú tri postele situované popri stene. Z komína
+je urobený prieduch z hlavného krbu v spoločenskej miestnosti. Celé podkrovie má drevené stropy
+natreté zelenou latexovou farbou a podlahy sú taktiež drevené natreté na hnedo. Plocha celého
+podkrovia je 38,22 m2. Chata nemá prípojku na elektrickú centrálu.
+Návrh úprav poľovnícke chaty Pod Dudáš
+Exteriér:
+-
+
+kompletný ošetrujúci náter celej zrubovej konštrukcie, hlavne južnej strany ktorá je
+najpoškodenejšia,
+
+-
+
+pretretie strechy ochrannou farbou, aby sa vyhlo korózii nie ešte poškodenej plechovej
+krytiny,
+
+-
+
+oprava komínov,
+
+-
+
+kompletný náter drevárne,
+
+39
+
+-
+
+omietnutie alebo obloženie verandy, pretože z nej opadáva farba,
+
+-
+
+odstránenie starej krytiny pri chate,
+
+-
+
+odstránenie palivového dreva okolo chaty, umiestniť ho do drevárne,
+
+-
+
+vyčistiť studničku na pitnú vodu, opraviť prístrešok studničky, vybudovať chodník ku
+studničke,
+
+-
+
+vybudovanie zabezpečeného ohniska.
+
+Interiér:
+-
+
+na prízemí v spoločenských miestnostiach a kuchyni na novo poklásť dlažbu po odstránení
+linolea, pretože pod ním sa nachádza betón,
+
+-
+
+steny riadne na novo vymaľovať, poprípade obložiť tatranským profilom, aby evokoval teplo
+dreveného zrubu,
+
+-
+
+stenu medzi spoločenskou miestnosťou a kuchyňou ošetriť,
+
+-
+
+kuchyňu vybaviť kuchynskou výbavou a linkou a dispozične uložiť všetky spotrebiče aj linku
+aby boli priestory dostatočne prístupné jeho účelu,
+
+-
+
+v spoločenskej miestnosti odstrániť poškodený nábytok a dispozične usporiadať,
+
+-
+
+spálňová časť: nové postele dispozične usporiadať, odstrániť starý nábytok,
+
+-
+
+podkrovie vybaviť novým nábytkom, ošetriť drevené obklady,
+
+-
+
+pri obhliadke podkrovných priestorov sa našiel poškodený drevený strop. Potreba zistiť
+rozsah poškodenia aj príčinu (škodcovia alebo poškodená strecha, ktorá sa zjavne nezdá byť
+príčinou).
+
+Súčasné využitie
+Chata Pod Dudášom bola postavená ako robotnícka ubikácia, čo nasvedčujú aj väčšie priestory na
+odpočinok. Využívala sa aj na poľovačky počas sezóny. No terajší technický stav zabraňuje jej
+spoločenskému využitiu. Kapacitou chaty je 10 osôb. Tržby za ubytovanie od roku 2007 do roku
+2020 predstavujú 2333,75,- EUR a náklady na opravy od roku 2007 po súčasnosť predstavujú 3,EUR.
+
+40
+
+Návrh na využitie
+Návrh na opravu a plánovanú údržbu poľovníckej chaty, by postupom času pritiahol záujem širšej
+verejnosti a tým by stúpli tržby za ubytovanie, ktoré by pokryli ďalšie opravy a údržby chaty. Svojou
+kapacitou 10 osôb patrí medzi väčšie ubytovacie zariadenia, kde môžu byť ubytované aj väčšie rodiny
+s deťmi. Prerábkou kuchyne a samozrejme aj ostatných miestností by bola vhodná aj na poľovnícke
+akcie, či firemné teambuilding. Jej poloha je vzdialenejšia od lesnej cesty 3L, no jej prístupnosť
+umožňuje nadviazať na turistické a cyklistické trasy.
+
+5.3. Poľovnícka koliba Sihla
+Typ poľovníckeho zariadenia poľovnícka koliba. V evidenčnej karte OZ Kriváň sa uvádza: názov
+a určenie: chatka Sihla, základy – kameň, konštrukcia – zrub, drážková konštrukcia zrubu pre
+lesnícke stavby, strecha sedlová – plech. Zastavanú plochu majú v karte uvedenú 52 m2, no to
+nezodpovedá skutočnému prieskumu objektu aj s obstavaným priestorom 137,80 m2. Skutočná
+zastavaná plocha chatky je 9,5 m2. Tu nemôžem s určitosťou tvrdiť či bola naozaj využívaná ako
+robotnícka ubikácia ako je zapísané v karte z OZ Kriváň, kde sa uvádza rok dokončenia 1946, doba
+upotrebiteľnosti 70 rokov.
+Koliba Sihla je situovaná uprostred Lúky Horná Sihla na chránenom území CHKO Poľana.
+Nadmorská výška je 980 m n.m.. Cesta vedie od lesníckej osady Kyslinky smerom na Brusenský
+grúň, lesnou cestou 3L, ponad spomínanú lúku. Od lesnej cesty sa ku chate dostaneme priamo cez
+lúku, peši alebo terénnym autom. Zobrazenie exteriéru a interiéru chaty je na obr.10 a 11.
+
+Obr.10. Pohľad na chatu Sihla (autor)
+41
+
+Exteriér
+Exteriér pôsobí veľmi dobrým dojmom keďže koliba nie je veľkých rozmerov a nachádza sa na veľkej
+lúke Horná Sihla. Drážkovú konštrukciu zrubu je na novo ošetrená náterom spolu s plechovou
+sedlovou strechou v roku 2019. Vchod do koliby je situovaný na južnú stranu. Na východnej strane
+koliby je pristavaný prístrešok nie v dobrom technickom stave. Veranda do koliby je vymurovaná
+z kameňa preliateho betónom, ktorí je už v rozpadnutom stave spolu s dreveným zábradlím. Nad
+verandou sa nachádza okno s okenicami podkrovia. Na východnej strane sú dve malé okná
+s okenicami. Na severnej strane je veľké okno s okenicami, nad ktorým je okno v podkroví. Pri
+zrubovej stene z tejto severnej časti je naukladané palivové drevo. Pri kolibe sa nachádza
+nezabezpečené ohnisko. Sociálne zariadenie je postavené na novo. Pitná voda sa nachádza 80 m
+severne od chaty.
+Interiér
+Interiér tvorí jedna veľká miestnosť rozmerov 9,5 m2. Od nej sa odčleňuje naľavo pri vchode
+komora na potraviny rozmerov 0,5 m x 1 m s jedným oknom na východ, kde sú potrebné riady do
+kuchyne. Na pravej strane zrubu je jedna posteľ a druhá sa nachádza pod oknom situovaným oproti
+dverám. V priestore ktorý vzniká za potravinovou miestnosťou je funkčný sporák s poličkami pre
+kuchynský riad. Uprostred je jedálenský stôl. Podlaha v chate je značne poškodená.
+Z verandy sa dá dostať do podkrovia (momentálne nie je sprístupnené), kde sú dve okná situované na
+juh a sever. V podkroví sú tri železné postele.
+
+Obr. 11 Interiér v kolibe Sihla (autor)
+42
+
+Návrh úprav koliby Sihla
+Exteriér:
+-
+
+rekonštrukcia podlahy na verande,
+
+-
+
+oprava zábradlia na verande,
+
+-
+
+sprístupniť vchod do podkrovia,
+
+-
+
+oprava prístrešku na drevo,
+
+-
+
+vybudovať vonkajší prístrešok,
+
+-
+
+vybudovať zabezpečené ohnisko.
+
+Interiér:
+-
+
+podlahy z najväčšou pravdepodobnosťou nie sú z kameňa, ako je uvedené v evidenčnej karte,
+ale z dreva a sú vo veľkej miere prepadnuté. Nie je to dobre identifikovateľné, keďže sú
+prekryté linoleom. Takže je potrebná komplexná výmena podlahy v celom interiéry chaty,
+
+-
+
+predispozícia komína na sporáku: je dva krát zalomený, čo spôsobuje zadymenie
+miestnosti pri rozkurovaní.
+
+Súčasné využitie
+Súčasné využitie koliby Sihla nie je nikde evidované. Malá koliba uprostred lúky láka oteckov
+s malými synmi počas poľovníckej sezóny. Načúvajú zvukom prírody, či ukazujú, že aký je život bez
+výdobytkov doby. Dispozícia koliby na obrovskej lúke umožňuje krásny výhľad. Lesnou cestou 3L
+sa dostaneme na turistické, ale aj cyklistické trasy, ktoré vedú do sedla Jasenová a odtiaľ až na Čierny
+Balog. S využitím poľovníckej sezóny si tu prídu na svoje najmä poľovníci počas ruje, kde si môžu
+v kľude oddýchnuť. Kapacita chaty je 5 osôb. Súčasne bola tržba evidovaná v roku 2010 a to 223,.
+EUR. Náklady na údržbu a opravu sa neuvádzajú.
+Návrh na využitie
+Využitie v momentálnej situácii by bolo ešte lákavejšie. Opravou podlahy a odstránením
+nedostatkov by bol záujem verejnosti väčší. Rodiny s deťmi alebo náhodní turisti by uvítali prístrešok
+so zabezpečeným ohniskom. Poľovní hostia by ocenili polohu priamo v centre revíru, v blízkosti
+viacerých poľovných chodníkov.
+
+43
+
+5.4. Poľovnícka chata Bútľavka
+Typ poľovníckeho zariadenia poľovnícka chata. V evidenčnej karte OZ Kriváň je zaznamenané:
+názov a určenie - robotnícky prístrešok Bútľavka, základy - betón, konštrukcia je zrubová, pri stavbe
+bol použitý rybinový rohový spoj, strecha - sedlová, krytina - škridla. Rok dokončenia 1962.
+Zastavaná plocha a obstavaná plocha sa neuvádza. Taktiež sa neuvádza doba upotrebiteľnosti.
+Obstarávacia cena v roku 1973 bola 21 396,- slovenských korún a oprávky a generálne opravy bolo
+vyčlenených 21 396,- slovenských korún.
+Chata Bútľavka sa nachádza v ťažko prístupnej doline, medzi dvoma skalnými masívmi – Kurienec
+a Havranie skaly. Prístup ku chate je možný len peši po lesnej ceste kategórie 3L. chodníkom dlhým
+2 km alebo po neupravenej zvážnici kolesovým traktorom. Nachádza sa priamo v bukovom poraste
+v druhom ochrannom stupni. Nadmorská výška je 930 m n.m. Zobrazenie exteriéru a interiéru chaty
+je na obr. 12 - 14.
+
+Obr. 12 Pohľad na poľovnícku chatu Bútľavka (autor)
+Exteriér
+Drážková konštrukcia zrubu pôsobí schátralo, náter nebol obnovovaný dlhšiu dobu a škridla na
+streche sa javí s veľkým rozsahom poškodenia. Dva komíny na streche, ktorá má sedlovú
+konštrukciu, vyzerajú byť nepoškodené, tehly sú na nich dobrom stave. Na zrubových častiach poznať
+veľmi veľké poškodenia od medveďa. Chata Bútľavka je situovaná na sever, kde je aj vchod do chaty
+so zamrežovanými dverami. Od hlavných dverí napravo je jedno rozbité okno a naľavo sú dve oknom
+44
+
+v dobrom stave. Na južnej strane chaty sú inštalované dve funkčné okná. Na východnej strane je
+jedno okno strednej veľkosti. Západná časť je len zrubová. Všetky okná majú nepoškodené mreže.
+Zo západnej strany sú dvere pod strešnú časť chaty, v minulosti využívanú na uskladnenie sena pre
+zvieratá.
+Interiér
+Vchod do chaty je zo severnej strany. Po vstupe do chaty sa nám ukáže dlhá úzka chodba,
+s betónovou podlahou a murovanými stenami, ktoré sú murované a namaľované na bielo. Na konci
+chodby sú dve plechové skrine a nefunkčná piecka na drevo. Plocha úzkej chodbičky je 8,6 m2. Za
+hlavnými dverami, ktoré sa otvárajú do vnútra je miestnosť s oknom na sever pri vchodových
+dverách. Zrejme slúžila ako kuchyňa. Naľavo pri vstupe je nefunkčný sporák na drevo. Plocha
+miestnosti 6 m2. Cez túto miestnosť vojdeme do malej úložnej miestnosti s policami. Ku tejto úložnej
+miestnosti patrí okno ľavom hornom rohu severnej strany. Plocha úložnej miestnosti je 3,4 m2.
+
+Obr. 13 Interiér na poľovníckej chate Bútľavka (autor)
+Druhá miestnosť je situovaná na východnú časť chaty má jedno väčšie okno na juh, jedno menšie
+okno západ. Podlaha v tejto miestnosti je drevená, ostatné steny sú murované, pôvodne vymaľované
+na bielo, so značným poškodením od vlhkosti v chate alebo od zatekania poškodených častí strešnej
+krytiny. Na ľavej strane za dverami sa nachádza piecka na drevo. Pohovky v miestnosti sú dve
+nefunkčné a dve postele. Plocha tejto miestnosti je 13,3 m2.
+
+45
+
+Obr. 14 Interiér na poľovníckej chate Bútľavka (autor)
+Západnú časť chaty tvoria dve miestnosti. Ako prvá je naľavo od hlavných dverí so situovaným
+oknom na sever, má rozbité. Má plochu 9,88 m2. Podlaha je drevená a steny sú murované, pôvodne
+vymaľované na bielo. No aj tu poznať veľké poškodenie od vlhkosti, alebo od zatekania strešnej
+krytiny. V miestnosti sa nachádzajú staré matrace. Druhá miestnosť situovaná na západnú časť, má
+plochu 14,06 m2. Okno je na južnej strane, podlaha je drevená, steny má vymurované, pôvodne
+vymaľované na bielo, v celej miestnosti je poškodenie zo zatekania strešnej krytiny a vlhkosti. Táto
+miestnosť má jeden funkčný sporák na drevo, rohovú lavicu a stôl, poschodovú posteľ.
+Návrh úprav poľovníckej chaty Bútľavka
+Exteriér:
+-
+
+rekonštrukcia strechy s kompletnou výmenou krytiny a poškodených nosných drevených
+časti,
+
+-
+
+kompletný náter zrubových častí a možným prebrúsením a opravou poškodených častí od
+medveďa,
+
+-
+
+výmena rozbitého skla na okne,
+
+-
+
+náter okenných rámov,
+
+-
+
+náter mreží na oknách a dverách,
+
+-
+
+vybudovanie prístrešku na drevo,
+
+-
+
+vybudovanie krytého ohniska,
+46
+
+-
+
+vybudovanie prístrešku.
+Interiér:
+
+-
+
+odstránenie poškodeného náteru v miestnostiach,
+
+-
+
+vystierkovanie a následné vymaľovanie alebo obloženie stien dreveným obkladom (tatranský
+profil),
+
+-
+
+ošetriť náterom drevené podlahy,
+
+-
+
+na betónové podlahy poklásť dlažbu,
+
+-
+
+odstrániť nefunkčné, sporáky, pohovky, matrace atď.,
+
+- upraviť kuchynku.
+Súčasné využitie
+V súčasnosti chata Bútľavka nemá žiadne využitie, o čom svedčí aj jej technický stav. Je k nej
+horšia prístupová cesta. Nevyhnutné údržby vykonávajú len pracovníci LS z vlastnej iniciatívy, aby
+zabránili úplnému schátraniu.
+Návrh na využitie
+Rekonštrukciou navrhovaných exteriérových a interiérových riešení by chata mohla byť atraktívna
+pre nenáročných hostí, ktorí hľadajú samotu a skutočnú divočinu takmer nedotknutej prírody.
+V blízkosti chaty sa nachádza len jeden poľovnícko-ochranný chodník vedúci masívmi: Kurienec,
+Havranie skaly až Jánošíkova skala. Množstvo brál a prírodných výtvorov a ako aj pripravované
+vyhlásenie rezervácie Pralesy Slovenska robia z tohto miesta jedinečnú oázu pokoja. Po navrhnutých
+úpravách by chata mala kapacitu ubytovaných 10 osôb.
+
+5.5. Poľovnícka vila Zálomská
+Typ poľovníckeho zariadenia poľovnícka vila. Vila Zálomská sa nachádza na rovnomennej lúke
+v nadmorskej výške 940 m n. m., ktorej časť je aj územím európskeho významu. Ku vile vedie lesná
+cesta kategórie 1L, od lesnej správy je vzdialená 2,50 km. V evidenčnej karte OZ Kriváň sa uvádza:
+názov a určenie: prevádzková budova pre lesníctvo, popis: robotnícky barák Zálomská, rok
+dokončenia 1937, doba upotrebiteľnosti 40 rokov. Popisné a technické údaje: základy – kameň,
+murivo – drevený zrub, strecha – škridloplech, zastavaná plocha 49,75 m2, obstavaný priestor 249,37
+m2. Obstarávacia cena k 31.12. 1973 36 500 slovenských korún, suma vyčlenená na oprávky 17 078
+
+47
+
+slovenských korún. Na Zálomskej sa v roku 2017 zaviedla elektrika (predtým bola iba centrála)
+a v roku 2018 bola rekonštrukcia vodovodu. Zobrazenie exteriéru a interiéru chaty je na obr. 15 - 21.
+
+Obr. 15 Pohľad na vilu Zálomská (autor)
+Exteriér
+Exteriér vily vďaka jej rekonštrukciám je vo veľmi dobrom technickom stave. Drážkovú
+konštrukciu zrubu a je po novom nátere, ktorý bol vykonaný v roku 2020. Obnovný náter bol
+vykonaný aj na prístrešku pri uzavretom ohnisku. Ohnisko je vybudované z kameňov a betónu ako
+chodník, ktorý spája vilu a prístup k altánku. Z toho istého materiálu je vybudovaný aj úzky dláždený
+priestor ktorý vedie po obvode chaty a je chránený strechou. Vila má sedlovú strechu pokrytú
+kanadským šindľom. Južná strana strechy má tri vikierové okná. Na streche sú dva murované komíny.
+Po obvode vily je montovaný hromozvod a na novo montované odkvapové žľaby. Hlavný vchod do
+vily je situovaný na východnú stranu a týmto smerom sú situované aj okná do hlavných miestností
+vo vile. Severozápadná strana má jedno okno na prízemí. Južná strana má dve okná na prízemí a dve
+okná v sedle strechy. Na severovýchodnej strane je v sedle strechy jedno okno a na prízemí tak isto.
+Všetky okná a dvere sú chránené železnými mrežami. Za vilou je inštalovaný elektromer. Nie
+pekným dojmom pôsobia tri sociálne zariadenia, ktoré sa nachádzajú na severozápadnej časti pri
+chate a sú v zlom technickom stave.
+
+48
+
+Interiér
+Vchod do vily je situovaný z východnej strany má vstupné drevené dvere. Na ľavej strane chodby
+je spoločenská miestnosť, na pravej je kuchyňa. Chodba má plochu 12,8 m2. Podlaha v tejto časti je
+vyložená dlažbou a stena na pravej strane je obložená tatranským profilom. Pravá stena je omietnutá
+a omaľovaná na bielo a je tu umiestnená elektrická skrinka. Po ľavej strane je vešiak s lavičkou a na
+pravej úložná komoda.
+
+Obr. 16 Chodba na vile Zálomská (autor)
+Na pravej strane chodby po ľavej strane vchodových dverí sa nachádza spoločenská miestnosť
+o rozlohe 45,44 m2. Celá miestnosť je obložená dreveným obkladom. Podlaha je keramická dlažba,
+okrem steny, kde sa nachádza na novo zrekonštruovaný krb. Celá miestnosť je v poľovníckom štýle,
+jej veľkosť nasvedčuje tomu, že sa tu konajú veľkolepé akcie alebo väčšie rodinné stretnutia. Pri krbe
+sa nachádza nová rohová pohovka. Okrem krbového vykurovania sú súčasťou vyhrievania miestnosti
+dva elektrické ohrievače. Okná v miestnosti sú dve na juhozápadnej strane a jedno na
+severovýchodnej, kde sú umiestnené dvere, sú funkčné ale sa nevyužívajú.
+
+49
+
+Obr. 17 Spoločenská miestnosť (autor)
+Súčasťou spoločenskej miestnosti je kúpeľňa s toaletou. Kúpeľňa je zrenovovaná, má sprchový kút,
+WC, dve umývadlá nad ktorými je veľké zrkadlo. Súčasťou kúpeľne je elektrický bojler na ohrev
+vody. Okno je situované na severozápad. Obklad na bočných stenách a strope je z tatranského profilu,
+podlaha je z dlažby. Za umývadlami je obklad.
+
+Obr. 18 Kúpeľňa na vile Zálomská (autor)
+Ďalšou miestnosťou je kuchyňa, ktorá má plochu 13,05 m2. Na ľavo je umiestnená drevená kuchynská
+linka s funkčným dresom a prívodom teplej aj studenej vody. Súčasťou je sporák s rúrou. Na pravej
+
+50
+
+strane kuchyne, je stolík a chladničkou spolu s mrazničkou. Kuchynka má dve okná. Steny a strop sú
+obložené tatranským profilom, podlaha je z dlažby. Na pravej strane kde je kuchynská linka je obklad.
+
+Obr. 19 Kuchyňa na vile Zálomská (autor)
+Na prízemí sa nachádza romantická spálňa s krbom, s dvojlôžkovou posteľou a nočnými stolíkmi a
+veľkým kreslom na odpočinok. Miestnosť má jedno okno, podlahu z keramickej dlažby. Tri steny
+a strop sú z tatranského profilu, stena kde sa nachádza krb, je murovaná vymaľovaná na bielo.
+Miestnosť je vybavená aj elektrickým ohrievačom. Miestnosť má plochu 14,19 m2. Dreveným
+schodiskom sa dostávame do podkrovia, kde sa nachádzajú tri spálňové miestnosti. Prvá po ľavej
+strane schodiska je o ploche 27,52 m2. Jej súčasťou sú dve dvojlôžkové postele situované oproti sebe
+pod sedlovou časťou strechy. Izba je vybavená aj krbovou vložkou vedenou z krbu zo spálňovej
+miestnosti na prízemí, ale súčasťou je aj elektrický ohrievač. Miestnosť je obložená kompletne
+tatranským profilom a podlaha je drevená.
+
+51
+
+Obr. 20 Spálňová časť na vile Zálomská (autor)
+Ďalšie dve miestnosti sú situované po pravej strane schodiska. Jedna má plochu 18 m2, a druhá má
+plochu 20,88 m2. V každej miestnosti sa nachádza okno situované južnú stranu. Strop, bočné steny aj
+podlahy sú obložené drevom. Miestnosti sú vybavené tromi posteľami, úložnými skriňami. Krbové
+vložky sú vedené z krbu v hlavnej spoločenskej miestnosti na prízemí, no každej súčasť je aj
+elektrický ohrievač.
+Vila je kompletne vybavená elektrinou a pitnou vodou. Pri každom krbe sú na stene upozornenia so
+zaobchádzaním pri vykurovaní miestnosti, ale aj iné BOZP upozornenia týkajúce sa bezpečnosti
+ubytovaných v zariadení.
+
+Obr. 21 Spálňová časť (autor)
+52
+
+Návrh úprav vily Zálomská
+Exteriér a interiér:
+Vila je vo veľmi dobrom technickom stave, v exteriéri ako aj v interiéri nie sú potrebné žiadne
+zmeny.
+Súčasné využitie
+V súčasnosti sa vila využíva na rekreačné pobyty, rodinné oslavy, firemné akcie a hlavne ako
+reprezentačná chata š.p. LESY SR. Taktiež sa využíva pre ubytovanie poľovných hostí. Kapacita vily
+je 12 lôžok. V evidencii OZ Kriváň sa uvádzajú tržby za ubytovanie od roku 2007 do roku 2021
+v hodnote 45 277,58 EURa. V blízkosti vily prechádzajú turistické chodníky smerujúce na vrchol
+Poľany, prípadne k ostatným lákadlám Poľany (vodopád Bystrô, Rudná magistrála okolo kaldery).
+Návrh na využitie
+Vila Zálomská by si zaslúžila väčšiu propagáciu reklamou a vyššie obsadenie aj mimo poľovníckej
+sezóny, keďže podľa výkazu tržieb je plne obsadená najmä počas poľovníckej sezóny.
+
+5.6 Poľovnícka chata Príslopy
+Typ poľovníckeho zariadenia poľovnícka chata. Chata sa nachádza v sedle Príslopy, obklopená
+smrekovým porastom s ojedinelým smrekovcom. Nadmorská výška je 950 m .n m.. V blízkosti chaty
+je turistická cesta ktorá vedie cez Príslopy, Drábovku, k horskému hotelu Poľana a 2 km je vzdialená
+jelenia obora Trnavy. Nad chatou sa nachádza pomník SNP.
+OZ Kriváň vo svojej evidencii uvádza: názov a určenie – chata Príslopy, rok dokončenia 1939,
+základy – kameň, konštrukcia – drevená, strecha – plech, zastavaná plocha: 71.35 m2, obstavaný
+priestor 231,56 m2. K roku 1973 bola obstarávacia cena 33 423 slovenských korún a pre obstarávky
+a generálne opravy bolo vyčlenených 12 170 slovenských korún. Zobrazenie exteriéru a interiéru
+chaty je na obr. 22 - 28.
+
+53
+
+Obr. 22 Čelný pohľad na chatu Príslopy (autor)
+Exteriér
+Poľovnícka chata Príslopy sa nachádza v tieni porastu, ktorý v lete vytvára príjemný pocit chladu,
+no v chladnejších jarných, jesenných či zimných mesiacoch je to nevýhodou. V okolí chaty sa touto
+pozíciou tvorí vlhký terén. Príjazdom od lesnej cesty kategórie 1L sa po ľavej strane sa ako prvá
+nachádza drevená stavba s plechovou sedlovou strechou slúžiaca ako úložisko pre palivové drevo.
+Prichádzame ku chate situovanej na juhovýchod, ktorá vzhľadovo vyzerá v udržiavanom stave, chata
+je zrubová. Strecha je plechová s novým náterom v sedlovom tvare. Strecha má dva vyvedené
+funkčné komíny. Okná a hlavné dvere na chate sú chránené železnými mrežami. Pristavanou
+verandou situovanou na juhovýchod sa nachádza vchod do chaty. Na východnej strane tejto verandy
+je okno a taktiež na severnej, kde susedí s oknom na hlavnej časti chaty. Na západnej strane je dno
+okno na prízemí a jedno okno pod strechou. Na severnej strane sú tri okná a na východnej strane je
+jedno malé okno. Okolo chaty je vybudovaný dláždený priestor z betónových dlaždíc. Pri chate sa
+nachádza novo vybudovaný drevený altánok, pri ktorom je otvorené ohnisko 30 m od chaty sa
+nachádza studnička s pitnou vodou.
+
+54
+
+Obr. 23 Bočný pohľad na poľovnícku chatu Príslopy (autor)
+
+Obr. 24. Altánok pri chate Príslopy (autor)
+Interiér
+Veranda o ploche 9,1 m2 tvorí vstupný priestor do chaty. Dve okná pekne osvetľujú malý priestor
+obložený tatranským profilom na každej stene vrátane stropu, podlaha je z dlažby. Vo verande sa
+nachádza drevené sedenie s lavicami, stôl a skriňa.
+
+55
+
+Obr. 25 Predsieň chaty Príslopy (autor)
+Úzka chodbička s plochou 2,48 m2 nás privádza k ostatným miestnostiam v chate, podlahu má
+z dlažby a steny sú z tatranského profilu. Po pravej strane chodbičky sa nachádza útulná funkčná
+kúpeľňa o ploche 3,41 m2 s WC, sprchovým kútom a umývadlom. V kúpeľni je bojler na tuhé palivo.
+Steny sú z glazúrovaného obkladu a podlaha z dlažby.
+
+Obr. 26 Kúpelňa na chate Príslopy (autor)
+Oproti kúpeľni je vchod do spoločenskej miestnosti, ktorá má plochu 14,4 m2. Nachádza sa tu nový
+murovaný krb, pri ktorom sa dá oddýchnuť na nepoškodenom čalúnenom nábytku. Steny sú
+z tatranského profilu a podlaha z keramickej dlažby. Po pravej strane pri spoločenskej miestnosti sa
+56
+
+nachádzajú dvere do spálňovej časti. Táto miestnosť je vykurovaná krbovým prieduchom z krbu.
+Nachádzajú sa tu poschodové postele aj váľandy, kde sa vyspí 8 osôb. Steny sú obložené tatranským
+profilom na podlahe je guma. Dve okná pekne osvetľujú celú miestnosť.
+
+Obr. 27 Spoločenská miestnosť na chate Príslopy (autor)
+Poslednou miestnosťou v chate je kuchyňa. Pôsobí pekným udržiavaným dojmom. Nachádza sa tu
+funkčný šporák na drevo, kuchynská linka s dresom a kuchynské sedenie. Tri steny sú obložené
+tatranským profilom, stena kde je kuchynská linka, je murovaná a do výšky 1,5 m je obklad, podlaha
+je z dlažby. Okno je situované na sever. V chate je zavedená elektrika na centrálu.
+
+Obr. 28 Kuchyňa na chate Príslopy (autor)
+57
+
+Návrh úprav chaty Príslopy
+Exteriér:
+-
+
+zrenovovať dláždenú časť okolo chaty,
+
+-
+
+obnova náteru na zrubovej časti.
+Interiér:
+
+-
+
+obnoviť náter okolo krbu je potečený od sviečok.
+
+Súčasné využitie
+Chatu využívajú viac zamestnanci, ako širšia verejnosť. Jej použitie na reprezentačné účely.
+V záznamoch OZ Kriváň sa tržby za chatu neuvádzajú. Takže chata v tomto aktuálnom stave ako sa
+nachádza, nezarába.
+Návrh na využitie
+Veľmi dobrou pozíciou chaty a dobrou udržateľnosťou by sa chata mala viac využívať na
+rekreácie s rodinami. Určite by ocenili to, že v chate je elektrika na centrálu a má zavedenú aj vodu
+do chaty, čiže funkčné sociálne zariadenie a kúpeľňa je plne vybavená. Chata by si takto zarobila na
+drobné, či väčšie údržby.
+
+5.7. Poľovnícka koliba Dežmov
+Typ poľovníckeho zariadenia poľovnícka koliba. Koliba sa nachádza v nadmorskej výške 1190
+m n. m. v chránenej krajinnej oblasti CHKO Poľany s ochranným stupňom č. 2. V úplnej blízkosti sa
+nachádza prírodná rezervácia. A časť prístupovej lesnej cesty kategórie 3L ku kolibe vedie týmto
+územím. Nachádza sa tu niekoľko poľovných chodníkov.
+V evidenčnej karte OZ Kriváň sa uvádzajú nasledovné údaje: názov a určenie – prevádzková budova
+– lesníctvo, popis – manipulačná chata Dežmov kopec, rok dokončenia 1937, popisné a technické
+údaje: murivo – drevený zrub, strecha – plech, zastavaná plocha 12,25 m2, obstavaný priestor 24,5
+m2. Obstarávacia cena k 31.12.1973 bola 3585 slovenských korún a na oprávky a generálne opravy
+bolo vyčlenených 1691 slovenských korún. Zobrazenie exteriéru a interiéru chaty na obr. 29 - 31.
+
+58
+
+Obr. 29 Pohľad na kolibu Dežmov (autor)
+Exteriér
+Koliba Dežmov má drážkovú konštrukciu zrubu, náter na chate je v zlom stave a jej dispozíciou
+ju obľubujú poškodzovať medvede, strecha je sedlová, z ktorej vyčnieva vystavaná konštrukcia
+posedu, keďže koliba podľa starších informácii zamestnancov, bola využívaná na poľovnícke účely.
+Táto posedová časť má okno z každej svetovej strany, a jej strieška je sedlová. Náter na streche nie
+je, je len plechová, pokrytá veľkými plochami korózie. Komín na streche je v polorozpadnutom stave.
+Základ koliby je z kameňa preliateho betónom. Koliba je situovaná pod lesnou zvážnicou medzi
+dvoma smrekovými porastami. Svetelné lúče slnka si chata veľmi neužije. Vchod do koliby je
+z východnej strany, dvere sú drevené. Zo severnej strany, je ku chate pristavaný prístrešok pre
+palivové srevo, ktorý je priamo namontovaný na zrubovú konštrukciu chaty. Južná časť koliby je
+najviac poškodená od medveďa. Z tejto strany je jedno okno s drevenou okenicou atak isto zo
+západnej strany je jedno okno s drevenou okenicou a pod strešnou časťou sa nachádza vchod pod
+strechu aj do vystavaného posedu. 50m od koliby je studnička s pitnou vodou.
+
+59
+
+Obr. 30 Dreváreň pri kolibe Dežmov (autor)
+Interiér
+Interiér koliby tvorí jedna miestnosť, nie je členená. Steny koliby sú obložené tatranským
+profilom a podlaha je drevená. Po ľavej strane od vchodových dverí sa nachádza sporák na drevo,
+ktorý je poškodený, no ešte funkčný, slúži aj na vykurovanie, stôl aj so stoličkami. V kolibe sú tri
+postele, jeden perinák, dva úložné policové regály. Podlaha za dverami je značne poškodená od
+vlhkého prostredia a hlodavcov. Myši poškodili aj iné časti nábytku, ktoré sú súčasťou chaty.
+Miestnosť má dve okná. Uprostred stropu je otvor do posedovej časti. Celý priestor vytvára
+neusporiadaný dojem.
+
+Obr. 31 Interiér koliby Dežmov (autor)
+
+Návrh úprav poľovníckej koliby Dežmov
+Exteriér:
+-
+
+oprava poškodených častí zrubu od medveďa,
+
+60
+
+-
+
+celkový náter zrubovej konštrukcie,
+
+-
+
+prebrúsenie koróznych častí strechy a následne kompletný náter na celej ploche strechy,
+
+-
+
+výstavba dreveného WC pri chate.
+Interiér:
+
+-
+
+oprava podlahy,
+
+-
+
+výmena poškodeného nábytku,
+
+-
+
+výmena poškodeného sporáku na drevo,
+
+-
+
+doplniť vedrá na vodu.
+
+Súčasné využitie
+Chata nie je využívaná verejnosťou a minimálne aj pracovníkmi lesnej správy.
+Návrh na využitie
+Svojou polohou je chata vhodná pre nenáročných hostí, či už pre tých, ktorý sa chcú poľovnícky
+vyžiť, alebo i tých ktorý chcú zažiť skutočné čaro nedotknutej prírody.
+
+61
+
+6. Diskusia
+Poľovnícke chaty plnia v revíroch významné funkcie. Sú v nich ubytovaní poľovnícki hostia v čase
+poľovníckej sezóny a pomerne často ju využívajú aj domáci poľovníci. Okrem toho sa takéto
+zariadenia môžu prenajať aj mimo hlavnej poľovníckej sezóny občanom z radov nepoľovníkov.
+Takéto chaty sú miestom aktívneho odpočinku v prírode. Všetky tieto dôvody sú dostatočné na to,
+aby sme mali o takéto zariadenia záujem. Musíme si uvedomiť, že vplyvom času takéto stavby
+postupne chátrajú a ak sa neskutoční v dostatočne krátkej dobe náprava, dostanú sa až stavu úplnej
+nefunkčnosti. Na jej zrenovovanie je potrebný určitý čas, energia
+
+a hlavne nemalé finančné
+
+prostriedky. A práve finančné prostriedky sú, tak ako to vo väčšinou býva, asi najviac limitujúcim
+faktorom pri takejto rekonštrukcii. Je potrebné si uvedomiť, že čím skôr uskutočníme potrebné
+rekonštrukcie, tým nás to bude stáť menej a aj skôr sa dané zariadenie privedie do prevádzkového
+stavu.
+V prípade hodnotených poľovníckych chát sa jednalo o zariadenia, ktoré už dlhšiu dobu sú v stave,
+kedy sa prakticky úplne vylúčilo ich prevádzkovanie ako v poľovníckej sezóne, tak aj mimo nej.
+A pritom niektoré z uvedených chát plnili v minulosti významné postavenie. Takto by sme mohli
+poukázať najmä na chaty Dudáš alebo Pod Dudáš. Podobne bola na tom aj chata Bútľavka, kde sa
+v minulosti ubytovávali lesní robotníci, ktorí tu chodili na týždňovky. Menšie postavenie mali chaty
+Dežmov kopec. Menej využívaná bola aj chata Sihla. V súčasnosti sa sporadickejšie využíva chata
+Príslopy. Najviac je využívaná chata Zálomská. Táto chata je v porovnaní s ostatnými hodnotenými
+objektami v najlepšom stave a v súčasnosti predstavuje v pôsobnosti LS Kyslinky aj miesto pre
+ubytovanie najnáročnejších poľovníckych hostí.
+V rámci danej problematiky je zrejmé, že nie v každej chate je potrebné uskutočniť rovnaké
+opatrenia. Veľké zásahy si vyžadujú najmä chaty Bútľlavka, Pod Dudáš a Dežmov kopec. Chata
+Bútľavka si vyžaduje asi najväčšie opravy. Je potrebná výmena strešnej krytiny a strechy ako takej.
+V prípade chaty Pod Dudáš a Dudáš je potrebné riešiť najmä steny a podlahy. Menšie úpravy si
+vyžaduje chata Príslopy. V tomto objekte nie je nutné výraznejšie zasahovať ani do interiéru.
+Najmenej je potrebné zasahovať do chaty Zálomská. Táto chata je v stave, kedy prakticky nie je nutné
+uskutočniť rekonštrukčné práce.
+V rámci finančných možností je zrejmé, že k rekonštrukcii sa bude môcť v dohľadnej dobe pristúpiť
+v prípade možno len jedného alebo max. dvoch objektov. Všetko bude závisieť od priorít, ktoré sa
+v rámci LS Kyslinky budú realizovať. Ak by sa aj v dohľadnej dobe nepristúpilo k úprave na niektorej
+
+62
+
+z vyššie uvedených poľovníckych chát, je tu možnosť nahliadnuť do pomerne podrobného náčrtu ich
+súčasného stavu. Možno niekedy príde aj na rekonštrukciu niektorých z uvedených objektov.
+
+63
+
+7. Záver
+Poľovnícke chaty plnia v každom poľovnom revíri viacero funkcií. V prvom rade sú miestom, kde
+bývajú ubytovaní poľovnícky hostia. Súčasne sú to objekty aktívneho oddychu v prírode.
+V práci sa hodnotí stav vybraných poľovníckych chát v pôsobnosti LS Kyslinky. Vybrané boli chaty
+Dudáš, Pod Dudáš, Bútľavka, Sihla, Zálomská, Príslopy a Dežmov kopec. Poukázalo sa na ich
+využívanie v minulosti a v súčasnosti a potenciálne možné využívanie, ktoré by mohlo byť
+realizované po niektorých rekonštrukčných zásahoch.
+Z výsledkov vyplynulo, že v každej chate je potrebné uskutočniť podobné opatrenia. Najväčšie
+rekonštrukčné zásahy si vyžadujú chaty Bútľlavka, Pod Dudáš a Dežmov kopec. V chatách
+Poddudáš a Dudáš je potrebné opraviť najmä steny a podlahy. V menšej miere je potrebné
+rekonštruovať chatu Príslopy. Tu nie je nutné výraznejšie zasahovať ani do interiéru. V najlepšom
+stave je chata Zálomská. Táto chata je v stave, kedy prakticky nie je nutné uskutočniť rekonštrukčné
+práce.
+V súčasnosti je široká škála dostupných materiálov pre potrebné opravy vybraných chát na území LS
+Kyslinky. Pomocou výberových konaní sa vieme dostať aj výhodným cenovým ponukám na základe
+vyhotovenia podrobných podkladov. Príkladom pre lepšiu dostupnosť či publicitu sú naše susedné
+štáty, ako napríklad Rakúsko, kde vďaka takýmto ubytovacím zariadeniam si ich majitelia dokážu
+zarobiť finančný obnos, postačujúci pre fungovanie chát a dobrú reklamu pre verejnosť.
+Predkladaná práca sumarizuje základné poznatky o stave vybraných chát v LS Kyslinky. V prípade
+rekonštrukcie niektorej z uvedených chát, môžu tieto údaje poslúžiť ako vhodné podklady.
+
+64
+
+8. Literatúra
+1. Kolektív autorov, 2020. Atlas krajiny Slovenskej republiky. Bratislava: Ministerstvo životného
+prostredia SR, Banská Bystrica: Slovenská agentúra životného prostredia, 344 s. ISBN 80-88833-272. Kolektív autorov, 1978. Encyklopédia Slovenska II. zväzok E-J. Veda, vydavateľstvo Slovenskej
+akadémie vied, Kníhtlačiareň Svornosť, N. P., Bratislava, 536 s.
+3. Kolektív autorov, 1980. Encyklopédia Slovenska IV. zväzok N-Q. Veda, vydavateľstvo Slovenskej
+akadémie vied, Kníhtlačiareň Svornosť, N. P., Bratislava, 600 s.
+4. HÁJEK, V., 1997. Stavíme ze dřeva. Praha: Sobotáles, 1997. 153 s. ISBN 80-85920-44-1.
+5. HELL, P., 1990. Poľovnícke zariadenia. Príroda, 252 s. ISBN 80-07-00270-7
+6. HRČKA, I. a kol. 1987. Drevostavby. Zvolen: Vysoká škola lesnícka a drevárska, 1987. 279 s.
+7. HRČKA, I. a kol. 1994. Projektovanie drevených stavieb. Prvé vydanie. Zvolen: Technická
+univerzita vo Zvolene, 1994, 342 s. ISBN 80-228-0332-4
+8. JOCHIM, S., DUDAS, J., 2013. Konštručné drevné materiály: Pre drevené stavebné konštrukcie
+a výrobky. Druhé vydanie. Zvolen: Technická univerzita vo Zvolene, 2013. 168 s. ISBN 978-80-2282588-7.
+9. JUHÁS, P. a kol., 2008. Stavebné inžinierstvo. Prvé vydanie. Košice: Technická univerzita
+v Košiciach, Stavebná fakulta, 2008, 232 s. ISBN 978-80-553-0087-05
+10. LACIKA, J., & ONDREJKA, K., 2009. Prírodné krásy Slovenska. Chránené krajinné oblasti, Dajama,
+Bratislava, ISBN 978-8089226-29-0, 128 s.
+11. KRIŠTÍN, A., 1997. Optimalizácia využívania krajiny južného Podpoľania ako kontaktnej zóny BR
+Poľana. In. MIDRIAK, R. (ed.), Racionálne využívanie a obhospodarovanie CHKO-BR Poľana.
+Zborník referátov z odborného seminára. Vydavateľstvo TU Zvolen, s. 279-280.
+12. KUKLÍK, P., 2005. Dřevěné konstrukce. Praha: Informační centrum ČKAIT, 2005. 172 s. ISBN
+80-86769-72-0
+13. MAKOVNÍK, Š., CHLÁDEK, G., 1971. Pozemné stavby lesnícke. Vydavateľstvo Príroda, 339 s.
+ISBN 64-051-71
+14. MIDRIAK, R., SLÁVIKOVÁ, D., 1997. Optimalizácia využívania krajiny BR Poľana. In. MIDRIAK,
+R. (ed.), Racionálne využívanie a obhospodarovanie CHKO-BR Poľana. Zborník referátov
+z odborného seminára. Vydavateľstvo TU Zvolen, s. 265-267.
+65
+
+9. SLÁVIK, D., 1996. Ochrana prírody, In: SLÁVIKOVÁ, D., KRAJČOVIČ, V., a kol., (IUCN 1996):
+Ochrana biodiverzity a obhospodarovanie trvalých trávnych porastov CHKO-BR Poľana, Vyd.
+Nadácia IUCN, Svetová únia ochrany prírody, Slovensko., Bratislava, v rámci projektu Regionálneho
+európskeho programu IUCN so sídlom v Cambridge, Veľká Británia a Gland, Švajčiarsko, ISBN: 28317-0358-1, 180 s.
+15. SVOBODA, S., ZÁBRANSKÝ, Z., 1962. Lesní stavby. Státní zemědelské nakladatelství, Praha, 264
+s. ISBN 07-068-62
+16. SVOBODA, L., BAŽANTOVÁ, Z., MYŠKA, M., NOVÁK, J., TOBOLKA, Z., VÁVRA, R., VIMMROVÁ, A.,
+VÝBORNÝ J., 2005. Stavebné materiály. Vydavateľstvo Jaga group, s.r.o., Bratislava, 470 s. ISBN 808076-014-4
+17. ŠTEVKO, J., REINPRECHT, L., KUKLÍK, P., 2009. Dřevené stavby: Konstrukce, ochrana a údržba.
+Druhé vydanie. Bratislava: Jaga Group, spol. s r.o., 2009, 202 s. ISBN 978-80-8076-080-9
+18. ZEMKO, J., a kol., 1988. Detva. Osveta, Martin, 344 s.
+
+66
+
+9. Príloha
+Príloha 1: Mapa
+
+67
+
+

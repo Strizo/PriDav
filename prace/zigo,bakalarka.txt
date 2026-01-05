@@ -1,0 +1,1455 @@
+UNIVERZITA KONŠTANTÍNA FILOZOFA V NITRE
+FILOZOFICKÁ FAKULTA
+
+Komentovaný preklad eseje od Rolanda Barthesa
+Bakalárska práca
+
+2022
+
+Jozef Žigo
+
+1
+
+UNIVERZITA KONŠTANTÍNA FILOZOFA V NITRE
+FILOZOFICKÁ FAKULTA
+
+Komentovaný preklad eseje od Rolanda Barthesa
+Bakalárska práca
+
+Študijný program: prekladateľstvo a tlmočníctvo
+Študijný odbor: anglický jazyk a kultúra a francúzsky jazyk a kultúra
+Školiace pracovisko: Katedra translatológie, Univerzita Konštantína Filozofa v Nitre
+Školiteľ: Mgr. Lenka Michelčíková, PhD.
+
+2022, Nitra
+
+Jozef Žigo
+2
+
+Univerzita Konštantína Filozofa v
+Nitre Filozofická fakulta
+ZADANIE ZÁVEREČNEJ
+PRÁCE
+Meno a priezvisko študenta:
+Študijný program:
+
+Jozef Žigo
+anglický jazyk a kultúra a francúzsky jazyk a kultúra
+(Jednoodborové štúdium, bakalársky I. st., denná forma)
+
+Študijný odbor:
+Typ záverečnej práce:
+Jazyk záverečnej práce:
+Sekundárny jazyk:
+
+filológia
+Bakalárska
+slovenský
+francúzsky
+
+Názov:
+
+Komentovaný preklad eseje Rolanda Barthesa
+
+Anotácia:
+
+Práca sa zameriava na preklad vybranej eseje francúzskeho teoretika
+Rolanda Barthesa z oblasti semiotiky kultúry alebo literárnej vedy. Popri
+samotnom preklade je cieľom práce taktiež poukázať a teoreticky uchopiť
+žánrovú hybridnosť Barthesovho písania, ktoré kombinuje vedecký a
+teoretický jazyks umelecko-esejistickým štýlom.
+
+Školiteľ:
+Katedra:
+
+Mgr. Lenka Michelčíková, PhD.
+KTR - Katedra translatológie
+
+Dátum zadania:
+
+30.10.2020
+
+Dátum schválenia: 31.10.2020
+
+doc. Mgr. Emília Perez, PhD., v. r.
+vedúci/a katedry
+
+3
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že bakalársku prácu som vypracoval samostatne pod odborným
+vedením Mgr. Lenky Michelčíkovej, PhD. a bol som oboznámený s predpismi na jej
+vypracovanie.
+V Nitre dňa 16.4.2021
+..........................................
+Jozef Žigo
+
+4
+
+Poďakovanie
+Touto cestou by som sa chcel pekne poďakovať školiteľke mojej bakalárskej práce
+Mgr. Lenke Michelčíkovej, PhD. za jej obetovaný čas, pomoc a ochotu.
+
+5
+
+Abstrakt
+ŽIGO, J. Komentovaný preklad eseje Rolanda Barthesa. Bakalárska práca. Univerzita
+Konštantína Filozofa v Nitre. Filozofická fakulta. Katedra translatológie. Školiteľ: Mgr.
+Lenka Michelčíková, PhD., Nitra: FF UKF,2022.
+
+Témou bakalárskej práce je komentovaný preklad vybranej eseje od Rolanda Barthesa.
+Autorov spôsob písania sa vyznačuje kombináciou vedeckého a teoretického jazyka
+s umelecko-esejistickým štýlom. Pri preklade sa teda pokúsime poukázať na žánrovú
+hybridnosť daného textu. Práca pozostáva z niekoľkých častí. Jej súčasťou je analýza
+východiskového
+
+textu
+
+s dôrazom
+
+na
+
+intratextové
+
+a extratextové
+
+faktory, anticipácia
+
+prekladateľských problémov, samotný východiskový text a jeho preklad do slovenského
+jazyka a taktiež analýza cieľového textu s uvedením prekladateľských riešení.
+
+Kľúčové slová: Preklad. Semiotika. Anticipácia prekladateľských problémov. Esej.
+
+6
+
+ABSTRACT
+ŽIGO, J. Commented translation of an essay written by Roland Barthes. Bachelor thesis.
+Constantine the Philosopher Univesity in Nitra. Faculty of Arts. Department of Translation
+studies. Supervisor: Mgr. Lenka Michelčíková, PhD., Nitra: Faculty of Arts at Constantine the
+Philosopher University, 2022.
+
+The topic of this thesis is the commented translation of a chosen essay written by
+Roland Barthes. The author's way of writing is characterized by a combination of scientific
+and theoretical language with an artistic-essay style. In the translation, we will therefore try to
+point out the genre hybridity of the given text. The thesis consists of several parts. It includes
+an analysis of the source text with emphasis on intratext and extratext factors, anticipation of
+translation problems, the source text itself and its translation into Slovak language, as well as
+analysis of the target text with translation solutions.
+
+Keywords: Translation. Semiotics. Anticipation of translation problems. Essay.
+7
+
+Obsah
+
+Úvod ........................................................................................................................................... 9
+1. Analýza východiskového textu ............................................................................................ 10
+1.1.
+
+Extratextové faktory .................................................................................................. 10
+
+1.1.2.
+
+Autor textu.......................................................................................................... 10
+
+1.1.3.
+
+Príjemca textu ..................................................................................................... 11
+
+1.1.4.
+
+Typ a funkcia textu ............................................................................................. 11
+
+1.2.
+
+Intratextové faktory ................................................................................................... 11
+
+1.2.2.
+
+Makroštruktúra ................................................................................................... 12
+
+1.2.3.
+
+Mikroštruktúra .................................................................................................... 12
+
+2.Anticipácia prekladateľských problémov ....................................................................... 18
+2.1. Obsahové problémy ....................................................................................................... 19
+2.2. Jazykové problémy ........................................................................................................ 19
+2.3. Typografické problémy ................................................................................................. 21
+2.4. Technické problémy ...................................................................................................... 21
+3.Východiskový a cieľový text................................................................................................. 22
+4. Analýza cieľového textu....................................................................................................... 41
+4.1. Zadávateľ textu .............................................................................................................. 41
+4.2. Prekladateľský zámer .................................................................................................... 41
+4.3. Makroštruktúra prejavu ................................................................................................. 41
+4.4. Mikroštruktúra prejavu .................................................................................................. 42
+4.4.1. Lexikálna rovina ..................................................................................................... 42
+4.4.2. Morfologická rovina ............................................................................................... 43
+4.4.3. Syntaktická analýza ............................................................................................ 44
+4.4.4. Štylistická rovina .................................................................................................... 45
+Záver......................................................................................................................................... 46
+Zoznam použitej literatúry ....................................................................................................... 47
+
+8
+
+Úvod
+V našej bakalárskej práci sa budeme venovať prekladu, analýze východiskového
+a cieľového textu a konečnému komentovaniu cieľového textu. Tento text o móde s jemným
+filozofickým nádychom od francúzskeho spisovateľa Rolanda Barthesa sme prekladali
+z francúzskeho do slovenského jazyka. Téma „móda“ je veľmi populárna a rozšírená aj na
+Slovensku, lenže nikto ju nerozobral tak dopodrobna ako práve Roland Barthes a to nás na
+jeho knihe zaujalo.
+Hlavným cieľom našej práce je čo najpresnejšie a najadekvátnejšie preložiť úryvok
+z knihy Système de la Mode a čo najpodrobnejšie ho rozanalyzovať a okomentovať. Na
+pomoc sme teda použili paralelné texty týkajúce sa módy a ukážky z jeho iných diel, aby sme
+sa lepšie oboznámili s jeho písaním.
+Bakalárska práca sa skladá zo štyroch častí. Najprv sme zanalyzovali východiskový
+text, kde sa budeme venovať extratextovým faktorom a intratextovým faktorom. Druhá časť
+pozostáva z anticipácie prekladateľských problém, kde sme sa zamerali na riešenie problémov
+najmä z lexiky, pretože autor ju má veľmi širokú a sofistikovanú a syntaxe, pretože text je
+písaný osobitným štýlom. Treťou časťou bude samotný preklad a nakoniec zanalyzujeme
+cieľový text.
+
+9
+
+1. Analýza východiskového textu
+Müglová tvrdí, že (2002, str. 221): „Neexistuje univerzálny návod, ako analyzovať
+východiskový text!“ Preto sme si vybrali pre nás ten najvhodnejší a celkom častý návod podľa
+C. Nordovej, ktorý sa delí na intratextové a extratextové faktory.
+
+1.1.
+
+Extratextové faktory
+Predtým, ako začneme text prekladať, musíme zistiť informácie o autorovi, jeho
+
+zámeroch, štýle písania a nesmieme zabudnúť aj na príjemcu, pre ktorého je text písaný. Čo
+sa týka filozofických textov, je potrebné zistiť viac o kontexte, téme a problémoch, ktorými sa
+zaoberá. Preto nie je dôležité tento text len preložiť, ale v prvom rade ho musíme pochopiť.
+
+1.1.2. Autor textu
+Autorom textu je francúzsky spisovateľ, filozof, esejista a semiológ Roland Barthes.
+Narodil sa v roku 1915 vo Francúzsku, kde aj celý život strávil. Je autorom sedemnástich kníh
+a mnohých článkov, v ktorých sa venoval hlavne lingvistike.
+Témou jeho diel bola povaha znaku, najmä literárneho, pričom odmietal tak
+mimetickú teóriu znaku, ako aj teóriu, podľa ktorej je literatúra autonómna v zmysle
+slobodnej subjektívnej tvorby. Barthes sa domnieval, že spisovateľ netvorí imaginatívnou
+vôľou, ale iba reaguje na spoločenské štruktúry, z ktorých odvodzuje svoje impulzy v podobe
+symbolov, ktoré možno kodifikovať a klasifikovať novou vedou zvanou sémiológia. Estetický
+text
+
+je
+
+slobodným
+
+procesom
+
+produkcie
+
+významu,
+
+hrou
+
+signifikantov.
+
+(https://sk.wikipedia.org/wiki/Roland_Barthes)
+Jeho štýl písania v jeho dielach taktiež zohráva veľkú úlohu, pretože veľmi často
+kombinoval umelecko-esejistický štýl s vedecko-teoretickým, čo miestami dokáže zmiasť
+čitateľa a s čím sme sa museli vysporiadať, pretože sme chceli zachovať jeho unikátny štýl
+písania.
+
+10
+
+1.1.3. Príjemca textu
+Keďže text je filozofický a Barthesov štýl písania miestami chaotický a nezvyčajný,
+predpokladáme, že laická verejnosť by z knihy nemala veľký pôžitok. Preto si myslíme, že
+kniha je určená viac-menej pre odbornú verejnosť alebo stálych Barthesových čitateľov, ktorí
+sú na jeho tvorbu zvyknutí a rozumejú problematike v jeho knihách.
+Autor v textoch vychádza z teórie štrukturalizmu, inšpiruje sa Ferdinandom de
+Saussurom a má v obľube používať silné metafory, takže potrebná je aj veľmi dobrá znalosť
+francúzskeho jazyka.
+
+1.1.4. Typ a funkcia textu
+Mistrík tvrdí (Mistrík, 1997): že jazykové štýly sa dajú rozdeliť do troch skupín:
+objektívne štýly (administratívny a náučný štýl), subjektívne štýly (hovorový a umelecký štýl)
+a objektívno-subjektívne štýly (publicistický, rečnícky a esejistický štýl), ale zároveň
+upozorňuje na to, že hranice medzi týmito štýlmi sú pevné a ustálené.
+Tento filozofický text sa dá zaradiť do esejistického štýlu, ktorý Mistrík definuje ako
+„literárnu formu alebo žáner, v ktorom je vtipne, duchaplne, živo napísaná úvaha s odbornou,
+najmä literárno-umeleckou alebo filozofickou tematikou.“ (Mistrík, 1997, str.490).
+Myslíme si, že filozofické texty nie sú veľmi populárne a to najmä kvôli náročnosti
+chápania a úsilia, ktoré na pochopenie musíme vynaložiť. Lenže pre zaujatú verejnosť je
+presne tento dôvod to, prečo takéto texty čítajú. Funkciou filozofického textu alebo aj
+esejistického štýlu je prinútiť čitateľa hlboko sa nad textom zamyslieť a zatúžiť po poznaní.
+
+1.2.
+
+Intratextové faktory
+V tejto časti si text rozdelíme na makroštruktúru, kde sa bližšie pozrieme na
+
+kompozíciu textu. Ďalšia na rade bude mikroštruktúra, kde text rozoberieme na menšie časti
+najmä v oblasti gramatiky a budeme rozoberať tému, lexiku, sémantiku a syntax.
+
+11
+
+1.2.2. Makroštruktúra
+Ako už bolo povedané, text je úryvkom z knihy Système de la Mode. Prekladali sme
+od prvej kapitoly po tretiu. Štruktúra textu bola jednoduchá a pozostávala iba z nadpisu
+kapitoly a podnadpisov týkajúcich sa danej témy v rámci kapitoly. Autor v texte používa veľa
+vysvetliviek, ktoré bolo z technického hľadiska ťažké naformátovať. Autor použil pár
+príkladov, ktoré napísal kurzívou, aby vynikli spomedzi textu. Tieto tri kapitoly mali dokopy
+rozsah dvanásť a pol normostrany.
+
+1.2.3. Mikroštruktúra
+Ako už bolo povedané, v tejto časti sa zameriame na tému textu, lexiku, sémantiku, a
+syntax.
+1.2.3.4. Téma textu (ďalšie témy, kľúčové slová)
+V celom texte sa autor zaoberá módou a odevmi. Odevy delí na základné tri typy,
+a ďalej ich vo svojom texte rozoberá. V prvej kapitole opisuje obrazový a napísaný odev, čo
+z týchto daných odevov robí hlavnú tému tejto kapitoly. Neskôr prechádza k tretiemu odevu,
+ktorým je reálny odev. Ten je hlavnou témou druhej časti prvej kapitoly. V druhej kapitole
+rozoberá viac-menej vzťahy medzi týmito odevmi a porovnáva ich. Neskôr prejde
+k štruktúram odevov, ktoré opisuje dopodrobna. Na záver v poslednej kapitole sa venuje
+pravidlám, výberu ústnej štruktúry a napísanému odevu. Taktiež tam skúma módu už ako takú
+a nie iba podľa týchto druhov odevov.
+V konečnom dôsledku môžeme usúdiť, že hlavnou témou celej knihy je móda, ale čo
+sa týka tohto úryvku, autor sa najviac venuje odevom a hlavne tomu napísanému.
+Čo sa týka kľúčových slov, najdôležitejšie je, pochopiť dané odevy (Vêtement-image,
+vêtement écrit, vêtement réel, vêtement réprésenté), čo reprezentujú a ako medzi sebou
+súvisia, takže kľúčovými boli slová ako structure, relation, shifter. Často spomínal aj
+časopisy, o ktoré sa opieral takže slovo journal. A keďže sa bavíme aj o jazyku tak určite
+slovo langue.
+
+12
+
+1.2.3.2. Lexikálna analýza
+Všetci vieme, že slovo lexika znamená slovná zásoba a taktiež, že slovná zásoba je
+veľmi individuálna a záleží od veku, vzdelania, skúsenostného komplexu, .... . Keďže Roland
+Barthes bol vzdelaný a skúsený človek, jeho lexika je sofistikovaná a niektorým slovám alebo
+prirovnaniam bolo ťažké porozumieť.
+Podľa Mistríka by mal autor diela písať zaujímavo a príťažlivo. Lenže príťažlivosť sa
+vylučuje so zložitosťou, a preto aj keď by mala byť esej vecná a odborná, je dobré používať aj
+umelecké prostriedky, a to epitetonickosť a variabilnosť. (Mistrík, 1997)
+Slová môžeme deliť na expresívne a neutrálne. Tento text je, ako už bolo spomenuté,
+filozofický a odborný, preto tu nenájdeme žiadne citovo zafarbené slová.
+Slovná zásoba nie je stála a ustavične sa mení, nové slová nahrádzajú tie staré. Keďže
+autor pochádza z 20. storočia, používa slová, ktoré už v našej slovnej zásobe neexistujú, buď
+ich nahradili nové termíny, alebo tieto predmety už zanikli. Nájdeme tu slová ako tussor alebo
+gardénia, ktoré sa ťažko prekladali a neskôr sa im ešte budeme venovať v anticipácii
+prekladateľských problémov.
+V texte nájdeme zopár anglicizmov (fashion-group, shifter), odborných slov
+hlavne z oblasti lingvistiky, ale aj ohľadom materiálu (calque, discours, couture,
+coupe,...) alebo pomenovaní časopisov (Elle et le Jardin des Modes, Vogue et l’Echo
+de la Mode).
+V texte niektoré slová rozdeľoval tam, kde to vôbec nebolo nutné, to je ďalší z jeho
+unikátnych spôsobov písania. Napr. sélec- tion, pro- prement, sémio- logie. Nikde som
+tento neobvyklý spôsob písania nevidel vysvetlený.
+
+1.2.3.3. Morfologická rovina
+Podľa Dvonča (Dvonč a kol. , 1966, s.21) je morfológia definovaná ako „náuka
+o gramatických tvaroch slov, ako aj o slovách, ktoré majú funkciu tvarov. Morfológia je teda
+náuka o tvarovej rovine v systéme jazyka.“ Domáce pomenovanie vzniklo kalkovaním zo
+slov gréckeho pôvodu morphé (tvar) a logos (slovo, náuka). Slovo morfológia sa dá taktiež
+v slovenskom jazyku nazvať tvaroslovie.
+
+13
+
+Základnou jednotkou morfológie je morféma. „Morféma je najmenšia časť tvaru
+(alebo slova) vydelená významom alebo funkciou.“ (Findra, 1986, s.67)
+V slovenskom jazyku máme desať slovných druhov a delíme ich na ohybné
+a neohybné slovné druhy. Medzi ohybné slovné druhy zaraďujeme podstatné mená
+(substantíva), prídavné mená (adjektíva), zámená (pronominá), číslovky (numeráliá) a slovesá
+(verbá). Medzi neohybné slovné druhy potom zaraďujeme príslovky (adverbá), predložky
+(prepozície), spojky (konjunkcie), častice (partikuly) a citoslovcia (interjenkcie).
+Slovné druhy sa dajú použiť viacerými spôsobmi a prevaha istého slovného druhy
+ovplyvňuje text, najmä jeho dynamiku. Pri dynamických slohových útvaroch ako napríklad
+rozprávanie, prevažujú slovesá. Pri statických slohových postupoch ako je opis, prevažujú
+podstatné a prídavné mená.
+My sa musíme tým pádom zamerať na tie slovné druhy, ktoré sa v tomto texte
+vyskytujú najčastejšie alebo také, ktoré sú neobvyklé a mohli by čitateľa zaujať.
+Findra hovorí (Findra, 2004, str. 492), že: esejistický štýl hraničí s publicistickým
+štýlom (najmä s fejtónom), populárno-náučným štýlom i s rečníckym a umeleckým štýlom.
+Keďže esejistický štýl hraničí s veľkým množstvom ostatných štýlov, nájdeme tu veľa
+podstatných mien, či už abstraktných, pretože text je náučný, ale aj konkrétnych, lebo Barthes
+píše umeleckým spôsobom. Abstraktné podstatné mená: realité, structure, communication,
+langue, image, lexique, syntaxe. Konkrétne podstatné mená: ceinture, tussor, journal,
+gardénia.
+Zaujímavé je písanie veľkého písmena v slove Mode (móda), pretože slovo móda
+nezaraďujeme medzi vlastné podstatné mená.
+Prídavné mená, ako je už dávno známe, delíme na akostné a vzťahové. V texte autor
+väčšinou používa vzťahové prídavné mená, hlavne na pomenovanie odevov alebo vzťahov
+medzi nimi: image, écrit, verbal, technologique. Nájdeme tu ale aj akostné prídavné mená,
+ktoré vyjadrujú postoj autora: spécifique, différent, général.
+Čo sa týka zámen, nepozorujeme tu nejaké zvláštne používanie, zámenami tu väčšinou
+nahrádza daný odev. Jediné zaujímavé zámeno v tomto texte je zámeno „on“, ktoré sa dá
+preložiť viacerými spôsobmi ako napríklad my, ľudia, niekto. V tomto prípade Barthes toto
+zámeno používa na vyjadrenie množného čísla v zmysle my ako ľudia.
+Čísloviek v texte nájdeme veľmi málo, najčastejšia číslovka je číslovka trois.
+Aj napriek tomu, že text je viac-menej opisný, slovesá tu majú pomerne vysoké
+zastúpenie. Pomocou plnovýznamových slovies sú odevom pripisované vlastnosti a taktiež
+pomáhajú opisovať vzťahy, posuny
+
+medzi určitými substantívami. Sú písané prevažne
+14
+
+v prítomnom čase, pretože autor používa fakty a informácie platné v súčasnosti, Avšak nájdu
+sa tu aj niektoré slovesá v budúcom čase. Nájdeme tu slovesá ako napríklad: présénter, voir,
+est, avoir. Nájdeme tu ale aj množstvo modálnych slovies (pourrait-on penser, peuvent
+être, peut épuiser).
+Adverbiá autor v texte veľmi nevyužíva, je ich tu niekoľko a prevažne vyjadrujú ,
+spôsob a čas. Napríklad: exactement, toujours, analytiquement, évidemment.
+
+1.2.3.4. Syntaktická rovina
+Podľa Vaňka (Vaňko, 2015 s.9) môžeme syntax definovať ako: „[...] jazykovednú
+disciplínu, ktorá formuluje pravidlá tvorenia zložených
+jednotiek (slov a slovných spojení).“
+
+jednotiek (viet) z jednoduchých
+
+Význam samotného termínu syntax má pôvod
+
+v starogréckom slove syntaxis, ktoré bolo vytvorené zložením predpony syn (spolu)
+a podstatného mena taxis (poradie, zoradenie, usporiadanie). Domácim pojmom pre túto
+náuku je termín skladba. Táto jazykovedná disciplína teda skúma a opisuje, ako sú jednotlivé
+vety vytvorené a akým spôsobom sú následne pospájané do zložitejších útvarov, a teda súvetí.
+Pre francúzsky jazyk sú typické zložené súvetia, ktoré siahajú až na niekoľko riadkov.
+Napríklad: Du moins pourrait-on penser que ces deux vêtements retrou- vent une
+identité au niveau du vêtement réel qu’ils sont censés représenter, que la robe décrite
+et la robe photographiée sont iden- tiques à travers cette robe réelle à laquelle l’une et
+l’autre ren- voient. Čo sa ale týka náučného textu a výkladu, preň sú zas typické jednoduché
+vety rozvité.
+Čo to ale veta je? Myslím, že by sme si tento pojem najprv mali definovať. Podľa
+Ružičku (Ružička a kol., 1968, s.329) ju môžeme definovať tiež ako „gramaticky
+usporiadané spojenie slov alebo jediné slovo, ktorým sa vyjadruje ucelená myšlienka.“
+Existuje viacero kategórií alebo kritérií, ako môžeme deliť vety. Čo sa týka
+komunikačnej situácie, existujú vety výzvové a nevýzvové. Medzi výzvové vety patria vety
+opytovacie, rozkazovacie a želacie. Ich cieľom je vyzvať prijímateľa k určitej činnosti.
+Nevýzvové vety sú oznamovacie vety s klesavou melódiou, ktoré prijímateľa len informujú
+o určitej skutočnosti. Z hľadiska gramatickej výstavby delíme vety na slovesné a neslovesné.
+Slovesné vety sa ďalej delia na jednočlenné, ktoré nemajú rozčlenené predikačné
+jadro, dvojčlenné, ktorých predikačné jadro obsahuje podmet a prísudok a sponové, ktorých
+vetný základ je tvorený určitým tvarom sponového slovesa a menom. Neslovesné vety nemajú
+vyjadrenú predikáciu a neobsahujú slovesá v určitom tvare (Vaňko, 2015, s.15-27).
+15
+
+Keď poskladáme dve alebo viac viet do jednej, vzniká súvetie, ktoré podľa
+vzájomných vzťahov viet v rámci súvetí, môžeme rozdeliť na priraďovacie (koordinatívne)
+a podraďovacie (subordinatívne). V priraďovacom súvetí sú si všetky vety rovnocenné, avšak
+v podraďovacom súvetí je vždy jedna veta nadradená druhej (Vaňko, 2015, s.89).
+Čo sa týka nášho textu, je špecifický tým, že autor používa bodky na konci vety len
+veľmi zriedkavo a nahradzuje ich bodkočiarkami, preto určovanie viet podľa komunikačnej
+situácie by mohlo byť náročné, ale keďže vieme, že text je náučný dokážeme predpovedať, že
+väčšina viet je oznamovacích. A naozaj tomu tak je, v texte nenájdeme žiadne zvolacie ani
+rozkazovacie vety. Nájdeme tu však rečnícke otázky, ktoré sú pre esejistický štýl bežné,
+napríklad : Quelles sont donc, singulièrement dans le vêtement écrit, les fonctions
+spécifiques du langage par rapport à l’image ? n’est-elle pas l’institution même qui
+semble convertir le réel en langage et place son être dans cette conversion, tout
+comme notre vêtement écrit ? D’ailleurs, la Mode écrite n’est-elle pas une
+littérature ?
+Keďže autorova interpunkcia je veľmi špecifická a pre čitateľa, ktorý nečíta
+Barthesove knihy je veľmi ťažké klasifikovať vety. Ako už bolo povedané, nájdeme tu veľa
+súvetí, skoro všetky podraďujúce (Du moins pourrait-on penser que ces deux vêtements
+retrou- vent une identité au niveau du vêtement réel qu’ils sont censés représenter,
+que la robe décrite et la robe photographiée sont iden- tiques à travers cette robe
+réelle à laquelle l’une et l’autre ren- voient. alebo on ne peut non plus, quoique ici la
+tentation soit grande, les situer au niveau des formes, car « voir » un vêtement réel,
+même dans des conditions privilégiées de présentation, ne peut épuiser sa réalité,
+encore moins sa structure).
+Nájdeme tu však aj jednoduché dvojčlenné vety ako napríklad: De même, la
+structure du vêtement écrit ne peut se confondre avec la structure de la phrase.
+Alebo l’ethnologie pourrait four- nir ici des modèles structuraux relativement
+simples.
+Neslovesné vety sa v tomto texte nachádzajú taktiež, ale veľmi zriedkavo a
+zväčša odpovedajú na predošlú otázku, napríklad: Nullement.
+
+16
+
+1.2.3.5. Štylistická rovina
+Mistrík tvrdí, že: „štylistika je náuka o výbere a spôsobe využívania jazykových,
+mimojazykových alebo umeleckých prostriedkov a postupov uplatňovaných v procese
+komunikácie.“ (Mistrík, 1997, s.30)
+
+Jazykový štýl podľa neho definujeme ako spôsob
+
+prejavu s cieľavedomým výberom jazykových a mimojazykových prostriedkov a ich
+usporiadanie a využitie, pričom musíme brať ohľad na funkciu, zámer autora a aj tematiku
+textu (Mistrík, 1997, s.30).
+Ako už bolo spomínané, text patrí do esejistického štýlu, ktorý úzko súvisí s náučným,
+ale môžeme tu nájsť aj umelecké prostriedky. Uvedieme aspoň jeden príklad metafory:
+photographiée à droite, devient à gauche : ceinture de cuir au-dessus de la taille,
+piquée d’une rose, sur une robe souple en shetland.
+
+17
+
+2.Anticipácia prekladateľských problémov
+V tejto časti sa budeme podrobnejšie venovať problémom, s ktorými sme sa v tomto
+texte stretli. Túto časť rozdelíme na obsahové, jazykovo-štylistické, typografické a technické
+problémy. Tento proces je veľmi dôležitý a je potrebné si ho premyslieť, kým začneme
+prekladať, aby sme predišli negatívnym posunom alebo akýmkoľvek chybám, ktoré môžu
+negatívne ovplyvniť našu výslednú prácu. Aby sme sa s týmito problémami vysporiadali,
+musíme používať paralelné texty, slovníky, prekladače (nielen internetové, prekladové alebo
+mechanické, ale aj výkladové). Čo sa týka obsahu, jedná sa o filozofický text a ako už bolo
+povedané, je potrebné si ho najprv prečítať a porozumieť mu, pretože tieto texty sú veľmi
+ťažké na pochopenie. Štýl vyjadrovania Rolanda Barthesa je veľmi špecifický a náročný na
+pochopenie, čomu zodpovedá aj slovná zásoba použitá v texte, takže tam sa vyskytlo taktiež
+zopár problémov. V časti o typologických problémoch sa budeme baviť najmä o zmenách v
+interpunkcii a nakoniec technické problémy, ktoré neboli až také výrazné a nebolo ťažké sa s
+nimi vysporiadať. Riešenia na tieto problémy úzko súvisia so skúsenostným komplexom,
+ktorý nadobúdame počas nášho života, nielen čo sa týka našej profesie, ale celkových
+skúseností, ktoré nadobúdame cestovaním, stretávaním sa s ľuďmi alebo už spomínanou
+prácou. Gromová (Gromová, 2009, s.45) kompetencie prekladateľa charakterizuje ako „[...]
+súbor
+
+vedomostí,
+
+schopností,
+
+zručností,
+
+skúseností
+
+i osobnostných
+
+daností,
+
+ktoré
+
+prekladateľovi pomáhajú vytvoriť kvalitný produkt svojej práce – translát.“
+
+18
+
+2.1. Obsahové problémy
+Ako už bolo poznamenané, najdôležitejšou časťou prekladu je pochopiť obsah a
+myšlienku východiskového textu, pretože je nutné, aby sme zachovali autorov odkaz a
+správne ho predali recipientovi, ktorý by v inom prípade mohol byť ochudobnený či už o
+informácie, ale aj o zážitok z čítania. Východiskový text sa zaoberá odevmi nielen z pohľadu
+módy, ale hľadá medzi nimi vzťahy a porovnáva ich. Tieto vzťahy opisuje veľmi do podrobna
+a zložito, preto ako riešenie by sme mali pracovať s paralelnými textami a pokúsiť sa
+vyhľadať text na podobnú tému, ktorý tento problém opisuje jednoduchšie. Lenže tu sa
+vyskystuje ďaľší problém. Na Slovensku nie je filozofia veľmi poulárna, takže musíme čerpať
+z iných jazykov a naviac text je unikátny a málokto sa touto témou zaoberá a popisuje ju.
+Preto ďaľším riešením by mohla byť konzultácia s odborníkom.
+
+2.2. Jazykové problémy
+Na úrovni jazyka môžme nájsť veľa posunov a rozdielov. Tieto rozdiely v prvom rade
+spôsobuje odlišnosť dvoch jazykov čo sa týka tvorenia slov a slovných tvarov. Svetové
+jazyky rozdelil Oravec (Oravec a kol., 1988, s.27) na aglutinačné, flektívne, introflektívne,
+analytické a polysyntetické. Každý jazyk obsahuje znaky viacerých typov, nikdy nie len
+jedného. Keďže v našej práci sa budeme venovať slovenskému a francúzskemu, stručne
+charakterizujeme ku akému morfologickému typu jednotlivé jazyky zaraďujeme.
+Podľa spomínaného autora sa slovanské jazyky, a teda aj slovenčina, zaraďujú skôr ku
+flektívnym jazykom. Tento typ charakterizuje najmä to, že pomocou gramatickej prípony sa
+dá vyjadriť viacero gramatických kategórií a slovné druhy sa výrazne rozlišujú. Pri ohybných
+druhoch nájdeme veľké rozdiely v sústave ich tvarov a veľké množstvo vzorov (Oravec a kol.,
+1988, s.27).
+Francúzsky jazyk zaraďujeme podľa jeho prevládajúcim znakom ku analytickým
+jazykom. Ich typickou črtou je nemennosť plnovýznamových slov, a teda aj veľký počet
+zložených tvarov slov. Rôzne tvary slov sa tvoria pomocou predložiek alebo pomocných
+slovies a často využívané sú opisné konštrukcie. (Oravec a kol., 1988, s.27-18).
+Jedným z najväčších problémov bolo jednotlivé výrazy preložiť a keďže na Slovensku
+neexistujú paralelné texty, pôvodné slová nemajú u nás ekvivalent, preto sme sa ich museli
+snažiť preložiť čo najpresnejšie a tak, aby zapadali do kontextu a zachytili autorovu
+19
+
+myšlienku a odkaz. Napríklad slovné spojenie: vêtement-image sme preložili ako vizuálny
+odev, pretože symbolizuje niečo, čo vidíme na fotografii alebo v umeleckých dielach
+a neexistuje pre neho žiadny slovenský ekvivalent. Vêtement écrit ako odev na
+papieri, pretože referuje na to, ako píšeme a vyjadrujeme sa. Shifter ako posúvač,
+tussor alebo gardénia sme museli generalizovať a vyhľadať vhodné ekvivalenty.
+Tussor sme preložili ako hodvábne šaty a gardénia ako pletený sveter.
+Ďalším príkladom odlišnosti týchto dvoch jazykov sú francúzske členy, ktoré do
+slovenčiny neprekladáme.
+Z hľadiska syntaxe sme mohli pozorovať problémy najmä v už spomínaných dlhých
+vetách, ktoré sú pre slovenčinu nie veľmi typické a pôsobia v nej neprirodzene a mätúco.
+Takže tieto dlhé francúzske súvetia sme sa pokúsili skrátiť. Napríklad vetu: Les deux autres
+structures (iconique et verbale) sont aussi des langues, mais si l’on en croit le
+journal, qui prétend toujours parler d’un vête- ment réel premier, ces langues sont
+des langues dérivées, « tra- duites » de la langue-mère, elles s’interposent comme
+des relais de diffusion entre cette langue-mère et ses « paroles » (les vête- ments
+portés). Sme rozdelili na dve vety, a to nasledovne: Ostatné dve štruktúry (ikonická a
+verbálna) sú tiež jazykové, ale ak máme veriť novinám, ktoré stále tvrdia, že hovoria
+o pôvodne reálnom ob- lečení. Tieto jazyky sú „preložené“ z materinského jazyka a
+sprostredkúvajú difúziu medzi týmto materinským jazykom a „slovami“ (noseným
+odevom).
+O slovoslede asi všetci dobre vieme, že v rôznych jazykov sa vždy líši, nie je tomu inak ani
+pri slovenskom jazyku a tom francúzskom. Ako sme už spomenuli, slovenčina patrí medzi
+flektívne jazyky a má rozvinutú sústavu koncoviek, vďaka čomu je jej slovosled pohyblivý.
+Takže na slovosled sme si museli dávať pozor a správne ho pretransformovať do cieľového
+jazyka.
+
+20
+
+2.3. Typografické problémy
+V tejto časti sa zameriame hlavne na interpunkciu, ktorá je v týchto dvoch jazykoch
+odlišná. Povieme si, pri akých znamienkach sú odlišnosti, kde v texte sme si museli dávať
+pozor a ako správne by sme mali interpunkciu používať. Najväčší rozdiel môžeme pozorovať
+v úvodzovkách, dvojbodkách, bodkočiarkach a pomlčkách. V texte bolo veľa bodkočiarok
+a aj dvojbodiek, preto sme si tu muselo dávať pozor na správne pretransformovanie do
+slovenského jazyka. Vo francúzskom jazyku sa používajú rozdielne úvodzovky, zvané
+guillements, ktoré sa píšu takto: « ». V slovenčine používame tieto „“. Ďalším hlavných
+rozdielom v interpunkcii sú medzery pred aj za dvojbodkou alebo bodkočiarkou. Keďže autor
+veľmi rád túto interpunkciu používa, na tento problém sme si museli dať pozor takmer
+v celom texte. Príklady písania vo francúzskom jazyku: ne peut être que discontinu : le
+vêtement réel ne peut être transformé en « représentation ». V tejto vete môžme
+pozorovať obidva fenomény. Ako ste si už mohli všimnúť, v slovenskej verzii by
+sme to takto nenapísali, preto sme museli prekladať nielen slová, ale aj interpunkciu:
+môže byť len diskontinuálny: reálny odev nie je možné transformovať na
+„reprezentáciu“.
+
+2.4. Technické problémy
+Najväčším problémom bol formát textu, úryvok sme našli na internete vo formáte pdf.
+Chceli sme, aby oba texty mali rovnaký formát, preto sme museli využiť moderné programy
+na transformovanie formátu pdf do programu Word ako text, a nie obrázok. Na koniec sa
+nám to podarilo a oba texty sú v dokumentovej podobe a napísané. Ďalej nám menší problém
+robilo formátovanie vysvetliviek pod čiarou.
+
+21
+
+3.Východiskový a cieľový text
+V tejto časti sa nachádza východiskový text a jeho preklad. Rozhodli sme sa
+pre zrkadlový preklad, kvôli prehľadnosti. Na ľavej strane sa nachádza text vo
+francúzskom jazyku a na pravej strane je preklad do slovenského jazyka.
+
+22
+
+Les trois vêtements
+
+Vêtement-image et vêtement écrit.
+J’ouvre un journal de Mode 1 : je vois qu’on traite ici de deux vêtements différents.
+Le premier est celui qu’on me présente pho- tographié ou dessiné, c’est un vêtementimage. Le second, c’est ce même vêtement, mais décrit, transformé en langage ; cette
+robe, photographiée à droite, devient à gauche : ceinture de cuir au-dessus de la
+taille, piquée d’une rose, sur une robe souple en shetland ; ce vêtement est un
+vêtement écrit. Ces deux vêtements renvoient en principe à la même réalité (cette
+robe qui a été por- tée ce jour-là par cette femme), et pourtant ils n’ont pas la même
+structure 2, parce qu’ils ne sont pas faits des mêmes matériaux, et que, par
+conséquent, ces matériaux n’ont pas entre eux les mêmes rapports : dans l’un, les
+matériaux sont des formes, des lignes, des surfaces, des couleurs, et le rapport est
+spatial ; dans l’autre, ce sont des mots, et le rapport est, sinon logique, du moins
+syntaxique ; la première structure est plastique, la seconde est verbale. Est-ce à dire
+que chacune de ces structures se confond entièrement avec le système général dont
+elle est issue, le vête- ment-image avec la photographie, et le vêtement écrit avec le
+langage ? Nullement : la photographie de Mode n’est pas n’im- porte quelle
+photographie, elle a peu de rapport avec la photo- graphie de presse ou la
+photographie d’amateur, par exemple ; elle comporte des unités et des règles
+spécifiques ; à l’intérieur
+
+On écrira Mode avec une majuscule dans le sens de fashion, de façon à pouvoir
+garder l’opposition entre la Mode et une mode (fad).
+Il vaudrait mieux n’avoir à définir que des choses, et non des mots ; mais
+puisqu’il est aujourd’hui beaucoup demandé au mot structure, on lui donnera ici le
+sens qu’il a en linguistique : « une entité autonome de dépen- dances internes » (L.
+Hjelmslev : Essais linguistiques, Copenhague, Nordisk Sprog og Kulturferlag,
+1959, p. 1).
+
+23
+
+Tri typy odevov
+
+Vizuálny odev a odev na papieri.
+Otvorím časopis o Móde 1 a vidím, že sa tu diskutuje o dvoch rôznych odevoch. Prvý
+je ten, ktorý ma prezentuje na fotografii alebo na kresbe, to jest vizuálny odev.
+Druhý je ten istý odev, ale napísaný, transformovaný do jazyka; tieto šaty,
+odfotografované vpravo, sa stávajú ľavými: kožený opasok nad pásom, prešitý ružou,
+na hebkých šatách z vlny zo shetlandských ostrovov; tento odev je napísaný na
+papieri. Obidva v zásade odkazujú na tú istú skutočnosť (šaty, ktoré mala žena v ten
+deň na sebe), a predsa nemajú rovnakú štruktúru2, pretože nie sú vyrobené z
+rovnakých materiálov, a teda tieto materiály nemajú k sebe rovnaký vzťah, v jednom
+sú materiály tvary, línie, povrchy, farby a vzťah je priestorový; v druhom sú to slová
+a vzťah je ak nie logický, tak aspoň syntaktický; prvá štruktúra je výtvarná, druhá je
+verbálna. Znamená to, že každá z týchto štruktúr úplne splýva so všeobecným
+systémom, z ktorého je odvodená? Vizuálny odev s fotografiou a odev na papieri s
+jazykom? Vôbec nie: módna fotografia nie je len tak hocijaká fotografia, má málo
+spoločného napríklad s vytlačenou alebo amatérskou fotografiou; má špecifické
+jednotky a pravidlá
+
+Slovo Móda by sme mali písať s veľkým začiatočným písmenom vo význame móda,
+aby sa zachoval protiklad medzi módou a módnym výstrelkom.
+Najlepšie je definovať len konkrétne veci, a nie slová; ale keďže slovo „štruktúra“
+je dnes veľmi žiadané, dáme mu tu význam, ktorý má v jazykovede: „autonómny
+útvar vnútorných závislostí „ (L. Hjelmslev: Essais linguistiques, Copenhagen,
+Nordisk Sprog og Kulturferlag, 1959, s. 1).
+
+24
+
+de la communication photographique, elle forme un langage par- ticulier, qui a sans
+doute son lexique et sa syntaxe, ses « tours », interdits ou recommandés 1. De même,
+la structure du vêtement écrit ne peut se confondre avec la structure de la phrase ;
+car si le vêtement coïncidait avec le discours, il suffirait de changer un terme de ce
+discours pour changer du même coup l’identité du vêtement décrit ; or, ce n’est pas le
+cas ; le journal peut écrire indifféremment : en été, portez du tussor, ou le tussor
+convient très bien à l’été, sans rien changer d’essentiel à l’information qu’il transmet
+à ses lectrices : le vêtement écrit est porté par le lan- gage, mais aussi il lui résiste, et
+c’est dans ce jeu qu’il se fait. On a donc bien affaire à deux structures originales,
+quoique déri- vées de systèmes plus communs, ici la langue, là l’image.
+
+Le vêtement réel.
+Du moins pourrait-on penser que ces deux vêtements retrou- vent une identité au
+niveau du vêtement réel qu’ils sont censés représenter, que la robe décrite et la robe
+photographiée sont iden- tiques à travers cette robe réelle à laquelle l’une et l’autre
+ren- voient. Equivalentes, sans doute, mais identiques, non ; car de même qu’entre le
+vêtement-image et le vêtement écrit il y a une différence de matériaux et de rapports,
+et donc une différence de structure, de même, de ces deux vêtements au vêtement
+réel, il y a passage à d’autres matériaux et à d’autres rapports ; le vête- ment réel
+forme donc une troisième structure, différente des deux premières, même si elle leur
+sert de modèle, ou plus exactement, même si le modèle qui guide l’information
+transmise par les deux premiers vêtements appartient à cette troisième structure. On a
+vu que les unités du vêtement-image sont situées au niveau des formes, celles du
+vêtement écrit au niveau des mots ; pour les unités du vêtement réel, elles ne
+peuvent être au niveau de la
+
+1. On touche ici au paradoxe de la communication photographique : étant par principe purement
+analogique, la photographie peut être définie comme un message sans code ; cependant, il n’y a pour
+ainsi dire pas de photographie sans signification ; on est donc obligé de postuler l’existence d’un code
+photo- graphique, qui ne fonctionne évidemment qu’à un niveau second, qu’on appellera plus tard niveau
+de connotation (cf. « Le message photographique » in Œuvres complètes,
+t. I, p. 1120-1133, Seuil, 2002, repris aussi dans L’Obvie et l’obtus ; et « La rhétorique de l’image » in
+Œuvres complètes, Seuil, 2002 t. II, p. 573-588, repris aussi dans L’Obvie et l’obtus). Pour le dessin de
+Mode, la question est plus simple, puisque le style d’un dessin renvoie à un code ouvertement culturel.
+
+25
+
+vo vnútri, fotografická komunikácia tvorí osobitný jazyk, ktorý má nepochybne svoju
+vlastnú lexiku a syntax, svoje „triky“, či už zakázané alebo odporúčané. Takisto
+štruktúru písaného odevu nemožno zamieňať so štruktúrou vety; keby sa totiž odev
+zhodoval s diskurzom, stačilo by zmeniť jeden výraz v tomto diskurze, aby sa
+zároveň zmenila identita odevu na papieri; ale v tomto prípade to tak nie je; časopisy
+môžu písať indiferentne: „V lete noste hodvábne šatky“ alebo „hodvábne šatky sú
+veľmi vhodné na leto“, bez toho, aby sa zmenilo niečo podstatné na informácii, ktorú
+sprostredkúvajú svojim čitateľom: odev na papieri sa prejavuje v diskurze, ale
+zároveň mu aj odporuje, a práve v tejto hre je vytvorený. Máme teda dočinenia s
+dvoma jedinečnými štruktúrami, aj keď sú odvodené z bežnejších systémov, v tomto
+prípade jazyka, alebo v druhom prípade obrazu.
+
+Reálny odev.
+Prinajmenšom by sme si mohli myslieť, že tieto dva odevy nachádzajú identitu v
+skutočnom odeve, ktorý majú predstavovať, že šaty na papieri a šaty na fotografii sú
+totožné prostredníctvom reálnych šiat, na ktoré obe odkazujú. Nepochybne podobné,
+ale nie rovnaké; pretože tak ako medzi vizuálnym odevom a odevom na papieri je
+rozdiel v materiáloch a vzťahoch, tým pádom aj rozdiel v štruktúre, tak od týchto
+dvoch odevov reálny odev tak isto prechádza k iným materiálom a vzťahom; reálny
+odev teda tvorí tretiu štruktúru, odlišnú od prvých dvoch, aj keď im slúži ako model,
+alebo presnejšie, aj keď tento model usmerňuje informácie prenášané prvými dvoma
+odevmi, patrí do tejto tretej štruktúry. Videli sme, že jednotky vizuálneho odevu sa
+nachádzajú na úrovni nejakej formy alebo jednotky odevu na papieri na úrovni slov; v
+prípade jednotiek reálneho odevu nemôžu byť na úrovni
+
+1. Tým sa dostávame k paradoxu komunikácie fotografiami: keďže je fotografia v princípe čisto
+analógová, možno ju definovať ako správu bez kódu; neexistuje však fotografia takpovediac bez
+významu; sme preto nútení postulovať existenciu fotografického kódu, ktorý však zjavne funguje až na
+druhej úrovni ,ktorú neskôr nazveme úrovňou konotácie (porov. „ Fotografickáspráva“ v Súbornom diele,
+t. I, str. 1120-1133, Seuil, 2002, preložené aj v L'Obvie et l'obtus ; a „La rhétorique de l'image“ v Œuvres
+complètes, Seuil, 2002 t. II, p. 573-588, zahrnuté aj v L'Obvie et l'obtus). V prípade módneho
+návrhu/kresby je táto otázka jednoduchšia, pretože štýl dizajnu sa vzťahuje na otvorený kultúrny kód.
+
+26
+
+langue, car, nous le savons, la langue n’est pas un calque du réel 1 ; on ne peut non
+plus, quoique ici la tentation soit grande, les situer au niveau des formes, car « voir »
+un vêtement réel, même dans des conditions privilégiées de présentation, ne peut
+épuiser sa réalité, encore moins sa structure : on n’en voit jamais qu’une partie, un
+usage personnel et circonstancié, un port particulier ; pour analyser le vêtement réel
+en termes systématiques, c’est-à- dire suffisamment formels pour qu’ils puissent
+rendre compte de tous les vêtements analogues, il faudrait sans doute remonter jusqu’aux actes qui ont réglé sa fabrication. Autrement dit, face à la structure plastique
+du vêtement-image et à la structure verbale du vêtement écrit, la structure du
+vêtement réel ne peut être que technologique ; les unités de cette structure ne peuvent
+être que les traces diverses des actes de fabrication, leurs fins accomplies,
+matérialisées : une couture, c’est ce qui a été cousu, une coupe, ce qui a été coupé 2
+; c’est donc là une structure qui se constitue au niveau de la matière et de ses
+transformations, non de ses représentations ou de ses significations ; l’ethnologie
+pourrait four- nir ici des modèles structuraux relativement simples 3.
+
+Shifters
+
+Translation des structures.
+Voilà donc pour un même objet (une robe, un tailleur, une ceinture) trois structures
+différentes, l’une technologique, une autre iconique, la troisième verbale. Ces trois
+structures n’ont pas le même régime de diffusion. La structure technologique
+apparaît comme une langue-mère dont les vêtements portés qui s’en inspirent ne
+seraient que les « paroles ». Les deux autres structures (iconique et verbale) sont
+aussi des langues, mais si l’on en croit le journal, qui prétend toujours parler d’un
+vête-
+
+Cf. A. Martinet, Eléments de linguistique générale, Paris, Colin, 1960, 1, 6.
+A condition, bien entendu, que ces termes soient donnés dans un contexte technologique, et qu’il
+s’agisse, par exemple, d’un programme de fabrication ; sinon, ces termes d’origine technique ont une
+autre valeur (cf. infra, 1, 5).
+A. Leroi-Gourhan distingue par exemple les vêtements droits à bords parallèles et les vêtements
+coupés-ouverts, coupés-fermés,
+
+coupés-croisés, etc. (Milieu et techniques, Paris, Albin Michel,
+
+1945, p. 208).
+
+27
+
+jazyka, pretože, ako vieme, jazyk nie je odrazom skutočnosti 1; nemôžeme ich, aj
+keď by sme veľmi chceli, umiestniť na úroveň foriem, pretože „videnie“ reálneho
+odevu nemôže vyčerpať jeho skutočnosť, a už vôbec nie jeho štruktúru, dokonca ani
+v privilegovaných podmienkach prezentácie: na systematickú analýzu reálneho
+odevu, t. j. dostatočne formálnu , aby bolo možné vysvetliť všetky podobné odevy,
+by bolo nepochybne potrebné vrátiť sa až k pravidlám, ktoré upravovali jeho výrobu.
+Inými slovami, na rozdiel od výtvarnej štruktúry vizuálneho odevu a verbálnej
+štruktúry odevu na papieri môže byť štruktúra reálneho odevu len technologická;
+jednotkami tejto štruktúry môžu byť len rôzne stopy výrobných úkonov a ich
+dokončené, zmaterializované konce: šev je to, čo bolo ušité, strih je to, čo bolo
+strihané; ide teda o štruktúru, ktorá sa konštituuje na úrovni materiálu a jeho
+transformácií, nie jeho reprezentácií alebo významov; etnológia by tu mohla
+poskytnúť pomerne jednoduché štrukturálne modely.
+Posúvače
+Preklad štruktúr.
+Takže pre ten istý predmet (šaty, oblek, opasok) existujú tri rôzne štruktúry, jedna
+technologická, druhá ikonická, tretia verbálna. Tieto tri štruktúry nemajú rovnaký
+spôsob šírenia. Technologická štruktúra sa javí ako materinský jazyk, ktorý tieto
+oblečenia nosia a ním inšpirované oblečenie je len „slovom“. Ostatné dve štruktúry
+(ikonická a verbálna) sú tiež jazykové, ale ak máme veriť novinám, ktoré stále tvrdia,
+že hovoria o pôvodne reálnom ob-
+
+Viď A. Martinet, Eléments de linguistique générale, Paris, Colin, 1960, 1, 6.
+Samozrejme, za predpokladu, že tieto termíny sú uvedené v technologickom
+kontexte, napríklad výrobný program; v opačnom prípade majú tieto termíny
+technického pôvodu inú hodnotu (porovnaj inf., 1, 5).
+A. Leroi-Gourhan napríklad rozlišuje medzi rovnými odevmi s rovnobežnými
+okrajmi a odevmi s otvoreným strihom, uzavretým strihom, priečnym strihom atď.
+(Milieu et techniques, Paris, Albin Michel, 1945, s. 208).
+
+28
+
+ment réel premier, ces langues sont des langues dérivées, « tra- duites » de la languemère, elles s’interposent comme des relais de diffusion entre cette langue-mère et ses
+« paroles » (les vête- ments portés). Dans notre société, la diffusion de la Mode
+repose donc en grande partie sur une activité de transformation : il y a passage (du
+moins selon l’ordre invoqué par le journal) de la structure technologique aux
+structures iconique et verbale. Or, s’agissant de structures, ce passage ne peut être
+que discontinu : le vêtement réel ne peut être transformé en « représentation » qu’au
+moyen de certains opérateurs, que l’on pourrait appeler des shifters, puisqu’ils
+servent à transposer une structure dans une autre, à passer, si l’on veut, d’un code à
+un autre code 1.
+
+Les trois shifters.
+Puisque l’on a affaire à trois structures, on doit disposer de trois sortes de shifters : du
+réel à l’image, du réel au langage et de l’image au langage. Pour la première
+translation, du vêtement technolo- gique au vêtement iconique, le shifter principal est
+le patron de couture, dont le dessin (schématique) reproduit analytiquement les actes
+de fabrication du vêtement ; à quoi il faudrait ajouter les procédés, graphiques ou
+photographiques, destinés à manifester le substrat technique d’une apparence ou d’un
+« effet » : accen- tuation d’un mouvement, agrandissement d’un détail, angle de prise
+de vue. Pour la seconde translation, du vêtement technolo- gique au vêtement écrit, le
+shifter de base est ce que l’on pourrait appeler la recette ou le programme de couture
+: c’est en général un texte bien séparé de la littérature de Mode ; sa fin est de dou- bler,
+non ce qui est, mais ce qui va se faire ; la recette de couture n’est d’ailleurs pas
+donnée dans la même écriture que le com- mentaire de Mode ; elle ne contient presque
+pas de substantifs ou d’adjectifs, mais surtout des verbes et des mesures 2 : comme
+shif- ter, elle constitue un langage transitoire, situé à mi-chemin entre le faire et l’être
+du vêtement, son origine et sa forme, sa technique et sa signification. On pourrait être
+tenté de joindre à ce shifter de
+
+Jakobson réserve le nom de shifter aux éléments intermédiaires entre le code et le message (Essais
+de linguistique générale, Paris, éd. de Minuit, 1963, chap. 9). On étend ici le sens du terme.
+Exemple : « Posez tous les morceaux sur la doublure que vous coupez, et bâtissez. Bâtissez de
+chaque côté un pli vertical de 3 cm de profondeur à 1 cm de l’extrémité des épaules. » Il s’agit
+d’un langage transitif.
+
+29
+
+lečení, tieto jazyky sú „preložené“ z materinského jazyka, a sprostredkúvajú difúziu
+medzi týmto materinským jazykom a „slovami“ (noseným odevom). V našej
+spoločnosti je teda šírenie módy vo veľkej miere založené na transformačnej
+činnosti: dochádza k prechodu (aspoň podľa pravidiel, na ktoré sa odvolávajú
+časopisy) od technologickej štruktúry k ikonickým a verbálnym štruktúram. Lenže
+ide o štruktúry, čiže tento prechod môže byť len diskontinuálny: reálny odev nie je
+možné transformovať na „reprezentáciu“ len pomocou určitých operátorov, ktoré by
+sme mohli nazvať posúvače, pretože slúžia na presunutie jednej štruktúry do druhej,
+alebo môžeme povedať aj z jedného kódu do druhého kódu 1.
+Tri posúvače.
+Keďže máme do činenia s tromi štruktúrami , musíme mať tri druhy posunov: od
+reálneho k obrazu, od reálneho k jazyku a od obrazu k jazyku. Pri prvom preklade, od
+technického odevu k ikonickému odevu, je hlavným posunom šijací vzor, ktorého
+(schematická) kresba analyticky reprodukuje úkony výroby odevu; k tomu treba
+pridať grafické alebo fotografické postupy, ktorých cieľom je vyjadriť technický
+podklad vzhľadu alebo „efektu“: zvýraznenie pohybu, zväčšenie detailu, uhol záberu.
+Čo sa týka druhého prekladu, od technického odevu k písanému odevu, je základným
+posúvačom to, čo by sme mohli nazvať návodom alebo programom na šitie: je to
+spravidla text celkom oddelený od módnej literatúry ; jeho účelom je zdvojiť nie to, čo
+je, ale to, čo sa má urobiť; návod na šitie navyše nie je uvedený v rovnakom písme
+ako módny komentár; neobsahuje takmer žiadne podstatné ani prídavné mená, ale
+najmä slovesá a miery 2 : podobne ako posúvač predstavuje prechodný jazyk, ktorý sa
+nachádza na polceste medzi výrobou a dokončením odevu, jeho pôvodom a formou,
+jeho technikou a významom. Mohlo by byť lákavé spojiť tento posunovač s
+
+Jakobson vyhradzuje názov shifter pre medzičlánky medzi kódom a správou (Essais
+de linguistique générale, Paris, éd. de Minuit, 1963, kap. 9). Význam tohto pojmu je
+tu rozšírený.
+Príklad: „Všetky diely položte na podšívku, ktorú striháte, a zviažte. Na každej strane
+vytvorte zvislý záhyb hlboký 3 cm, 1 cm od konca ramien Ide o prechodný jazyk.
+
+30
+
+base tous les termes de Mode dont l’origine est évidemment tech- nologique (une
+couture, une découpe), et de les considérer comme autant de translateurs du réel au
+parlé ; ce serait ignorer que la valeur d’un mot ne tient pas à son origine, mais à sa
+place dans le système de la langue ; passés dans une structure descriptive, ces
+termes sont détachés à la fois de leur origine (ce qui a été, à un certain moment,
+cousu, coupé) et de leur fin (concourir à un assemblage, se détacher d’un ensemble) ;
+en eux l’acte créateur n’est pas sensible, ils n’appartiennent plus à la structure
+techno- logique et on ne peut les considérer comme des shifters. Reste une troisième
+translation, celle qui permet de passer de la struc- ture iconique à la structure parlée,
+de la représentation du vête- ment à sa description. Comme le journal dispose de
+l’avantage de pouvoir livrer à la fois des messages issus de ces deux structures, ici une
+robe photographiée, là cette même robe décrite, il peut faire une économie notable,
+en usant de shifters elliptiques : ce ne sont plus ici les dessins du patron, ni les textes
+de la recette de couture, mais simplement les anaphoriques de la langue, donnés soit
+sous le degré plein (« ce » tailleur, « la » robe en shetland), soit sous le degré zéro
+(rose piquée dans la ceinture). Ainsi, du fait même que les trois structures disposent
+d’opérateurs de traduc- tion bien définis, elles restent parfaitement distinctes.
+
+31
+
+teóriou, že všetky termíny spojené s módou majú jasný technologický pôvod (šev,
+strih) a môžeme ich považovať za prekladače reálneho do napísaného; to by však
+znamenalo ignorovať skutočnosť, že hodnota slova nezávisí od jeho pôvodu, ale od
+jeho miesta v systéme jazyka: po prechode do deskriptívnej štruktúry sa tieto termíny
+odpútavajú od svojho pôvodu (čo bolo v istom okamihu ušité, vystrihnuté) a od
+svojho ukončenia (prispievajú k zostave, odpútavajú sa od celku); nie je v nich
+vnímateľný tvorivý akt, nepatria už do technologickej štruktúry a nemožno ich
+považovať za posúvače. Zostáva tretí preklad, ktorý nám umožňuje prejsť od
+ikonickej štruktúry k rečovej štruktúre, od reprezentácie odevu k jeho opisu. Keďže
+časopisy majú tú výhodu, že môžu prinášať správy z oboch štruktúr, tu
+vyfotografované šaty, tam tie isté šaty opísané, čiže môžu výrazne ušetriť, a to
+pomocou eliptických posunov: tu už nejde o nákresy vzoru, ani o texty návodu na
+šitie, ale jednoducho o anafory jazyka, uvedené buď pod plným stupňom („tento“
+krajčír, „tieto“ šaty zo shetlandskej vlny), alebo pod nulovým stupňom (opasok prešitý
+ružami). Preto aj napriek tomu, že tieto tri štruktúry majú presne definované
+prekladové operátory, zostávajú dokonale odlišné.
+
+32
+
+La règle terminologique
+
+Choix de la structure orale.
+Etudier le vêtement de Mode, ce serait étudier d’abord, d’une façon séparée et
+exhaustive, chacune de ces trois structures, car on ne peut définir une structure en
+dehors de l’identité substantielle des unités qui la composent : il faut étudier ou des
+actes, ou des images ou des mots, mais non toutes ces substances à la fois, même si
+les structures qu’elles forment, servent, en se mêlant, à composer un objet générique,
+appelé par commodité vêtement de Mode. Chacune de ces structures oblige à une
+analyse origi- nale et il faut choisir. Or l’étude du vêtement « représenté » (par
+l’image et la parole), c’est-à-dire du vêtement traité par le jour- nal de Mode, offre un
+avantage méthodologique immédiat par rap- port à l’analyse du vêtement réel : le
+vêtement « imprimé » livre à l’analyste ce que les langues humaines refusent au
+linguiste : une synchronie pure ; la synchronie de Mode change tout d’un coup
+chaque année, mais durant cette année elle est absolument stable ; si l’on choisit le
+vêtement du journal, il est donc possible de travailler sur un état de Mode sans avoir à
+le découper artifi- ciellement, comme le linguiste est obligé de le faire dans l’enchevêtrement des messages. Reste à choisir entre le vêtement- image et le vêtement
+écrit (ou plus exactement décrit) ; ici encore, du point de vue méthodologique, c’est la
+« pureté » structurale de l’objet qui incline le choix: le vêtement réel est embarrassé
+de finalités pratiques (protection, pudeur, parure) ; ces finalités dis- paraissent du
+vêtement « représenté », qui ne sert plus à proté- ger, à couvrir ou à parer, mais tout
+au plus à signifier la protec- tion, la pudeur ou la parure ; le vêtement-image garde
+pourtant une valeur qui risque d’embarrasser considérablement l’analyse et qui est sa
+plastique ; seul le vêtement écrit n’a aucune fonction pratique ni esthétique : il est tout
+entier constitué en vue d’une signification : si le journal décrit un certain vêtement
+par la parole, c’est uniquement pour transmettre une information dont le contenu est :
+la Mode. On peut donc dire que l’être du vête- ment écrit est tout entier dans son
+sens, c’est en lui que l’on a le plus de chance de trouver la pertinence sémantique
+dans toute sa pureté : le vêtement écrit n’est encombré par aucune fonction parasite et
+il ne comporte aucune temporalité floue : pour ces rai sons, c’est la structure verbale
+que l’on choisit ici d’explorer. Cela ne veut pas dire qu’il s’agit tout simplement
+d’analyser le langage de la Mode ; certes la nomenclature sur laquelle il faudra
+travailler est une partie spécialisée du grand territoire de la langue fran- çaise ; cette
+partie ne sera pourtant pas étudiée du point de vue de la langue, mais seulement du
+point de vue de la structure du vêtement qu’elle vise ; ce n’est pas une partie d’un
+sous-code du français qui est l’objet de l’analyse, c’est, si l’on peut dire, le sur- code
+imposé au vêtement réel par les mots, puisque les mots, comme on le verra, prennent
+ici en charge un objet, le vête- ment, qui est déjà lui-même système de signification.
+
+33
+
+Terminologické pravidlo
+Výber slovnej štruktúry.
+Skúmať módne oblečenie by znamenalo skúmať každú z týchto troch štruktúr
+osobitne a vyčerpávajúco, pretože štruktúru nemožno definovať len oddelene od
+podstatnej identity jednotiek, ktoré ju tvoria: treba skúmať buď činy, alebo obrazy,
+alebo slová, ale nie všetky tieto faktory naraz, aj keď štruktúry, ktoré vytvárajú,
+slúžia svojím spájaním sa na vytvorenie všeobecného predmetu, ktorý sa z
+pohodlnosti nazýva módne oblečenie. Každá z týchto štruktúr si vyžaduje samostatnú
+analýzu a je potrebné sa rozhodnúť. Štúdium „znázorneného“ oblečenia (v obraze a
+reči), t. j. oblečenia spracovaného módnymi novinami, ponúka bezprostrednú
+metodologickú výhodu oproti analýze reálneho oblečenia: „vytlačené“ oblečenie
+poskytuje analytikovi to, čo ľudské jazyky lingvistovi odopierajú: čistú synchróniu;
+synchrónia Módy sa každý rok náhle mení, ale počas toho roka je absolútne stabilná;
+ak si človek vyberie odev podľa časopisu, je teda možné pracovať na stave Módy bez
+toho, aby ju musel umelo strihať, ako to musí robiť jazykovedec pri kódovaní správ.
+Zostáva vybrať si medzi oblečením-obrazom a oblečením na papieri (alebo presnejšie
+opísaným) oblečením; aj tu nás z metodologického hľadiska ovplyvňuje štrukturálna
+„čistota“ objektu: reálny odev je určený na praktické účely (ochrana, zakrytie,
+ozdoba); tieto účely sa líšia od „znázorneného“ odevu, ktorý už neslúži na ochranu,
+zakrytie alebo ozdobu, ale nanajvýš na naznačenie ochrany, skromnosti alebo
+ozdoby; zobrazený odev si však zachováva hodnotu, ktorá môže pri analýze značne
+zavádzať a ktorou je jeho plastickosť; len napísaný odev nemá praktickú ani estetickú
+funkciu: je kompletne tvorený so zreteľom na význam: ak časopisy opisujú slovami
+určitý odev, ide len o prenos informácie, ktorej obsahom je: Móda; možno teda
+povedať, že existencia písaného odevu je celá v jeho význame a práve v ňom s
+najväčšou pravdepodobnosťou nájdeme sémantickú relevanciu v celej jej čistote:
+písaný odev nie je zaťažený žiadnou parazitickou funkciou a nemá nejasnú
+temporálnosť: z týchto dôvodov sme sa rozhodli skúmať práve slovesnú štruktúru. To
+neznamená, že ide len o analýzu jazyka módy; špecializovanou časťou veľkého
+územia francúzskeho jazyka, na ktorej bude potrebné pracovať je názvoslovie; túto
+časť však nebudeme skúmať z hľadiska jazyka, ale len z hľadiska štruktúry odevu, na
+ktorý je zameraná; predmetom analýzy nie je časť subkódu francúzštiny, ale
+takpovediac nadkód, ktorý slová vnucujú skutočnému odevu, pretože slová , ako
+uvidíme, preberajú zodpovednosť za objekt, odev, ktorý je sám osebe už systémom
+významov.
+
+34
+
+Sémiologie et Sociologie.
+
+Bien que le choix de la structure orale suive ici des raisons immanentes à son objet,
+il trouve un certain renfort du côté de la sociologie ; d’abord parce que la diffusion
+de la Mode par le journal (c’est-à-dire en grande partie par le texte) est devenue
+massive ; la moitié des femmes en France lisent régulièrement des publications
+consacrées au moins partiellement à la Mode ; la description du vêtement de Mode
+(et non plus sa réalisation) est donc un fait social, en sorte que même si le vêtement
+de Mode restait purement imaginaire (sans influence sur le vête- ment réel), il
+constituerait un élément incontestable
+
+de
+
+la culture de masse, tout comme les
+
+romans populaires, les comics, le cinéma ; ensuite parce que l’analyse structurale du
+vêtement écrit peut préparer efficacement l’inventaire du vêtement réel dont la
+sociologie aura besoin, le jour où elle voudra étudier les circuits et les rythmes de
+diffusion de la Mode réelle. Toutefois les objectifs de la sociologie et de la
+sémiologie sont en l’oc- currence tout à fait différents : la sociologie de la Mode
+(même si elle reste à faire) part d’un modèle, à l’origine imaginé (c’est le vêtement
+conçu par le fashion-group) et en suit (ou devra en suivre) l’accomplissement à
+travers une série de vêtements réels (c’est le problème de la diffusion des modèles) ;
+elle cherche donc à systématiser des conduites, qu’elle peut mettre en rapport avec
+des conditions sociales, des niveaux de vie et des rôles. La sémiologie ne suit pas
+du tout le même chemin ; elle décrit un vêtement qui reste de bout en bout
+imaginaire, ou si l’on préfère, purement intellectif ; elle ne conduit pas à reconnaître
+des pratiques, mais des images. La sociologie de la Mode est tout entière tournée vers
+le vêtement réel ; la sémio- logie vers un ensemble de représentations collectives.
+Le choix de la structure orale entraîne donc, non vers la sociologie, mais vers cette
+sociologique, postulée par Durkheim et Mauss ; la des- cription de Mode n’a pas
+seulement pour fonction de proposer un modèle à la copie réelle, mais aussi et
+surtout de diffuser largement la Mode comme un sens.
+
+35
+
+Semiológia a sociológia.
+Hoci voľba slovnej štruktúry tu vyplýva z vnútorných dôvodov jej predmetu,
+nachádza isté posilnenie zo strany sociológie; po prvé preto, že šírenie módy
+prostredníctvom novín (t. j. do veľkej miery prostredníctvom textu) sa stalo
+masovým; polovica žien vo Francúzsku pravidelne číta publikácie, ktoré sa aspoň
+čiastočne týkajú módy; opis módneho oblečenia (a nie jeho realizácia) je teda
+sociálnym aktom, takže aj keby módne oblečenie zostalo čisto imaginárne (bez
+vplyvu na reálne oblečenie), predstavovalo by nepopierateľný prvok masovej kultúry,
+podobne ako populárne romány, komiksy alebo filmy. Pretože štrukturálna analýza
+odevu na papieri môže účinne pripraviť inventár reálneho odevu, ktorý bude
+sociológia potrebovať, keď bude chcieť študovať okruhy a tempo šírenia sa skutočnej
+módy. Ciele sociológie a semiológie sú však v skutočnosti úplne odlišné: sociológia
+módy (aj keď sa ešte nerozvinula) vychádza zo vzoru, ktorého pôvod je vymyslený
+(je to odev navrhnutý módnou spoločnosťou) a sleduje (alebo by mal sledovať) jeho
+dokončenie prostredníctvom série reálnych odevov (to je problém difúzie modelov);
+snaží sa teda systematizovať (to je problém šírenia sa modelov); snaží sa teda
+systematizovať správanie, ktoré môže prepojiť so sociálnymi podmienkami, životnou
+úrovňou a spoločenskými rolami. Semiológia vôbec nejde tou istou cestou; opisuje
+odev, ktorý zostáva od začiatku až do konca imaginárny, alebo ak chcete, čisto
+rozumový; nevedie k rozpoznaniu použitia, ale obrazov. Sociológia módy sa
+zameriava výlučne na samotný odev; semiotika na súbor kolektívnych reprezentácií.
+Výber slovnej štruktúry teda nevedie k sociológii, ale k tomu sociologickému, čo
+postulovali Durkheim a Mauss. Úlohou opisu Módy nie je len navrhnúť model pre
+skutočnú kópiu, ale predovšetkým široko rozšíriť Módu ako význam.
+
+36
+
+Le corpus.
+La structure orale une fois choisie, sur quel corpus faut-il tra- vailler? On a parlé
+jusqu’ici uniquement des journaux de Mode ; c’est, d’une part, que les descriptions
+issues de la littérature pro- prement dite, quoique très importantes chez plusieurs
+grands écrivains (Balzac, Michelet, Proust) sont trop fragmentaires, d’époque
+historique variable, pour qu’on puisse les retenir et que, d’autre part, les descriptions
+fournies par le catalogue de grand magasin peuvent être facilement assimilées aux
+descriptions de la Mode ; les journaux de Mode constituent donc le meilleur cor- pus.
+Tous les journaux de Mode ? Nullement. Deux limitations peuvent ici intervenir,
+autorisées par la fin poursuivie, qui est de reconstituer un système formel et non de
+décrire une Mode concrète. La première sélection porte sur le temps ; visant une
+structure, il y a tout intérêt à ne travailler que sur un état de Mode, c’est-à-dire sur
+une synchronie. Or, comme on l’a dit, la synchronie de Mode est fixée par la Mode
+elle-même : c’est la mode d’une année.
+On a choisi de travailler ici sur des journaux de l’année 1958- 1959 (de juin à juin),
+mais cette date n’a évidemment aucune importance méthodique ; on aurait pu choisir
+n’importe quelle autre année, car ce qu’on cherche à décrire, ce n’est pas telle Mode,
+mais la Mode ; à peine recueilli, extrait de son année, le matériau (l’énoncé) doit
+prendre place dans un système pure- ment formel de fonctions ; on ne trouvera donc
+ici aucune indi- cation sur aucune Mode contingente, à plus forte raison aucune
+histoire de la Mode : on n’a pas voulu traiter d’une substance quelconque de la Mode,
+mais seulement de la structure de ses signes écrits. De la même façon (et ce sera la
+seconde sélec- tion imposée au corpus), il n’y aurait intérêt à dépouiller tous les
+journaux d’une année que si l’on voulait saisir des différences substantielles
+(idéologiques, esthétiques ou sociales) entre les uns et les autres ; d’un point de vue
+sociologique, ce serait là un problème capital, puisque chaque journal renvoie à la
+fois à un public défini socialement et à un corps particulier de représen- tations, mais
+cette sociologie différentielle des journaux, des publics et des idéologies n’est pas
+l’objet déclaré de ce travail qui vise seulement à retrouver la « langue » (écrite) de la
+Mode. On n’a donc dépouillé d’une façon exhaustive que deux journaux (Elle et le
+Jardin des Modes), sans s’interdire de puiser quelquefois dans d’autres publications
+(notamment Vogue et l’Echo de la Mode) et dans les pages hebdomadaires que
+certains quotidiens consacrent à la Mode. Ce qui importe en effet par rapport au
+projet sémiologique, c’est de constituer un corpus raisonnable-ment saturé de toutes
+les différences possibles de signes vesti- mentaires ; à l’inverse, il n’importe pas que
+ces différences se répètent plus ou moins, car ce qui fait le sens, ce n’est pas la
+répétition, c’est la différence ; structuralement, un trait de Mode rare a autant
+d’importance qu’un trait de Mode fréquent, un gar- dénia qu’une jupe longue ;
+l’objectif, ici est de distinguer des uni- tés, non de les compter. Enfin, dans le
+corpus ainsi réduit, on a encore éliminé toutes les notations qui peuvent impliquer
+une autre finalité que la signification : les réclames publicitaires, même si elles se
+présentent comme des comptes rendus de Mode, et les recettes techniques de
+fabrication du vêtement. On n’a retenu ni le maquillage ni la chevelure, parce que ces
+éléments comportent des variants particuliers qui auraient alourdi l’in- ventaire du
+vêtement proprement dit.
+
+37
+
+Korpus.
+Keď si vyberieme slovnú štruktúru, s ktorým korpusom by sme mali pracovať?
+Doteraz sme hovorili len o módnych časopisoch; je to preto, že na jednej strane opisy
+z tzv. literatúry v dielach viacerých veľkých spisovateľov (Balzac, Michelet, Proust)
+sú veľmi dôležité, lenže sú príliš útržkovité a pochádzajú z rôznych historických
+období, preto je ťažké ich zachovať. Na druhej strane opisy, ktoré poskytujú katalógy
+obchodných domov, možno ľahko prirovnať k opisom módy; módne časopisy preto
+predstavujú najlepší korpus. Týka sa to všetkých časopisov o Móde? Vôbec nie.
+Možno tu uviesť dve obmedzenia povolené sledovaným cieľom, ktorým je
+rekonštrukcia formálneho systému, a nie opis konkrétneho režimu. Prvá voľba sa
+týka času; zameriavajúc sa na štruktúru, je vo vašom záujme pracovať len na stave
+Módy, t. j. na synchrónii. Ako sme už povedali, synchrónnosť módy je stanovená
+samotnou módou: je to móda v danom roku.
+Rozhodli sme sa teda pracovať s časopismi z rokov 1958 - 1959 (od júna do júna),
+ale tento dátum samozrejme nemá žiadny metodický význam; mohli sme si vybrať
+ktorýkoľvek iný rok, pretože to, čo sa snažíme opísať, nie je Móda ako taká, ale
+Móda v tom roku; sotva zozbieraná, vyňatá z daného roku, musí materiál (výpoveď)
+zaujať svoje miesto v čisto formálnom systéme funkcií; nenájdeme tu teda žiadny
+údaj o nejakej konkrétnej Móde, nie to ešte o nejakých jej dejinách: naším cieľom
+nebolo zaoberať sa podstatou módy, ale len štruktúrou jej písomných znakov.
+Rovnakým spôsobom (a to bude druhá voľba, ktorá sa na korpus vzťahuje) by nebolo
+vhodné skúmať všetky časopisy v danom roku, ak by sme chceli zachytiť podstatné
+rozdiely (ideologické, estetické alebo sociálne) medzi nimi; zo sociologického
+hľadiska by to bol veľký problém, pretože každé časopisy odkazujú na sociálne
+vymedzenú verejnosť a zároveň na určitý súbor reprezentácií, ale táto diferencovaná
+sociológia novín, čitateľov a ideológií nie je deklarovaným predmetom tejto práce,
+ktorej cieľom je len nájsť (písaný) „jazyk“ Módy. Takže sme touto vyčerpávajúcou
+metódou preskúmali len dva denníky (Elle a Le Jardin des Modes), pričom sa
+niekedy nedalo vyhnúť čerpaniu z iných publikácií (najmä Vogue a L'Echo de la
+Mode) a z týždenných stránok, ktoré niektoré denníky venujú móde. Z hľadiska
+semiologického projektu je dôležité vytvoriť korpus, ktorý bude primerane nasýtený
+všetkými možnými rozdielmi odevných prvkov. Na druhej strane nezáleží na tom, či
+sa tieto rozdiely opakujú viac alebo menej, pretože to, čo má zmysel nie je
+opakovanie, ale rozdiely; zo štruktúrneho hľadiska je zriedkavý módny prvok
+rovnako dôležitý ako častý módny prvok, pletený sveter je rovnako dôležitý ako dlhá
+sukňa; čiže cieľom je jednotky rozlišovať, nie ich počítať. Napokon sme z takto
+zredukovaného korpusu vylúčili všetky zápisy, ktoré môžu zahŕňať iný účel ako
+význam: reklamné vábenie, aj keď sú prezentované ako módne správy a technické
+návody na výrobu odevov. Líčenie ani účesy sme nebrali do úvahy, pretože tieto
+prvky majú osobitné varianty, ktoré by samotný odev urobili ťažkopádnejším.
+
+38
+
+La règle terminologique.
+Il s’agira donc ici du vêtement décrit, et de lui seul. La règle préalable, qui détermine
+la constitution du corpus à analyser, est de ne retenir aucun autre matériau que la
+parole qui est donnée par le journal de Mode. C’est là sans doute restreindre considérablement les matériaux de l’analyse ; c’est d’une part supprimer tout recours aux
+documents annexes (par exemple les défini- tions d’un dictionnaire), et d’autre part
+se priver de toute la richesse des photographies ; bref, c’est ne considérer le journal
+de Mode que dans ses marges, là seulement où il semble dou- bler l’image. Mais cet
+appauvrissement du matériau, outre qu’il est méthodiquement inévitable, a peut-être
+sa récompense : réduire le vêtement à sa version orale, c’est du même coup rencontrer un problème nouveau, que l’on pourrait formuler ainsi : qu’est-ce qui se passe
+lorsqu’un objet, réel ou imaginaire, est converti en langage ? ou, pour laisser au
+circuit traducteur l’ab- sence de vecteur dont on a parlé : lorsqu’il y a rencontre d’un
+objet et d’un langage ? Si le vêtement de Mode paraît un objet bien dérisoire face à
+une interrogation aussi ample, que l’on veuille bien penser que c’est ce même rapport
+qui s’établit entre le monde et la littérature : n’est-elle pas l’institution même qui
+semble convertir le réel en langage et place son être dans cette conversion, tout
+comme notre vêtement écrit ? D’ailleurs, la Mode écrite n’est-elle pas une littérature
+?
+
+39
+
+Terminologické pravidlo.
+Toto sa týka len a len napísaného odevu. Predbežným pravidlom, ktoré určuje
+zloženie analyzovaného korpusu, je nezachovať žiadny iný materiál ako slovo
+uvedené v módnom časopise. Je to nepochybne značné obmedzenie materiálu na
+analýzu; na jednej strane to znamená zbaviť sa všetkých pomocných dokumentov
+(napríklad slovníkových definícií), na druhej strane to znamená ochudobniť sa o
+celé bohatstvo fotografií; skrátka, znamená to brať do úvahy denník Mode
+okrajovo, len tam, kde sa zdá, že zdvojuje obraz. Ale toto ochudobnenie materiálu,
+okrem toho, že je metodicky nevyhnutné, môže mať aj svoju odmenu: redukcia
+odevu na jeho ústnu verziu znamená zároveň stretnutie sa s novým problémom,
+ktorý by sa dal formulovať takto: čo sa stane, keď sa predmet, reálny alebo
+imaginárny, prevedie do jazyka? objekt a jazyk? Ak sa zdá, že vizuálny odev je
+tvárou v tvár takejto rozsiahlej otázke veľmi posmešným predmetom, spomeňme
+si, že práve tento vzťah sa vytvára medzi svetom a literatúrou: nie je to práve
+inštitúcia, ktorá akoby premieňala skutočnosť na jazyk a do tejto premeny,
+podobne ako náš odev na papieri, vkladá svoje bytie? Okrem toho, nepovažujeme
+odev na papieri za literatúru?
+
+40
+
+4. Analýza cieľového textu
+V tejto časti si sa budeme venovať cieľovému textu, čiže prekladu. Povieme si viac
+o zadávateľovi textu, prekladateľskom zámere, ako sme postupovali pri prekladaní, taktiež
+rozoberieme morfológiu, lexiku a syntax.
+Muglová tvrdí, že (Muglová, 2008, s.228): prekladateľ nemôže predsa vedieť všetko,
+ale musí vedieť, ako si poradiť! Preto si bližšie povieme, ako sme si „poradili“ a budeme sa
+opierať o anticipáciu, v ktorej sme tieto problémy riešili.
+
+4.1. Zadávateľ textu
+Text sme si vyberali sami, snažili sme sa nájsť text, ktorý ešte nebol preložený do
+slovenského jazyka. Roland Barthes je autorom sedemnástich kníh, z ktorých len pár je
+preložených do slovenského jazyka, väčšinu jeho diel nájdeme v českom jazyku. Tieto
+východiskové texty preložené do susedského jazyka sme vylúčili, aby nenastali
+nedorozumenia a aby nám to zadávateľ nevytkol. Podarilo sa nám nájsť text, ktorý ešte nebol
+preložený ani do slovenského ani do českého jazyka. Zadávateľom práce je Univerzita
+Konštantína Filozofa, presnejšie Filozofická fakulta a katedra translatológie. Táto úloha je
+zároveň konečnou prácou prvého stupňa štúdia tohto odboru.
+4.2. Prekladateľský zámer
+Ako už bolo povedané aj v úvode, alebo v analýze východiskového textu, našim
+cieľom bolo preložiť text čo najpresnejšie a zachovať autorovu myšlienku a čo najvernejšie
+text preložiť slovenskému čitateľovi. Keďže sa jedná o filozofický text a esejistický štýl,
+preklad nie je určený laickej verejnosti, ale skôr odborníkom, ktorý sa touto témou zaoberajú
+alebo rozumejú filozofii. Text sme nemohli zjednodušiť a ani nijak odľahčiť, pretože preklad
+musí zodpovedať pôvodnému textu, ktorý taktiež nebol určený laickej verejnosti. Taktiež sme
+sa snažili zachovať autorov špecifický štýl vyjadrovania a písania.
+
+4.3. Makroštruktúra prejavu
+Text je písaný súvisle s rozdelením na kapitoly a podkapitoly. Túto štruktúru sme
+zachovali a takisto sme prekladali aj vysvetlivky, ktoré sa nachádzajú pod textom na konci
+strany. Nenachádzajú sa tu žiadne obrázky, grafy ani tabuľky. Prekladali sme prvé tri kapitoly
+a preklad má rozsah dvanásť a pol normostrany.
+41
+
+4.4. Mikroštruktúra prejavu
+Takisto ako v analýze východiskového textu, v tejto časti sa budeme zaoberať
+morfologickou, lexikálnou a syntaktickou rovinou. Uvedieme si, aké slovenské ekvivalenty
+sme si zvolili, aké slovné druhy v našom preklade prevládali a ako sme pretransformovali
+a rozdelili francúzske súvetia.
+4.4.1. Lexikálna rovina
+Jeden z najväčších a ak nie najväčší problém bol preklad odborných termínov
+a termínov vymyslených autorom. Nikdy predtým sme sa nestretli s rozdelením týchto troch
+odevov, a preto sme museli pochopiť každý jeden druh odevu osobitne. Pátrali sme, čo
+symbolizuje a čo cez tento pojem chce autor vyjadriť. Prvoradé preto bolo definovať tieto
+pojmy a nájsť pre ne vhodný ekvivalent. Najťažším výrazom na preloženie bol vizuálny odev,
+pri ktorom sme sa veľmi dlho rozhodovali, ako ho pomenujeme. Vieme, že to je odev, ktorý
+nájdeme na obrazoch, fotografiách a jeho štruktúra sa vzťahuje na umeleckosť a vizuálnosť,
+keďže ho vnímame vždy len zrakom. Nakoniec sme sa rozhodli pre výraz vizuálny odev.
+Ďalším druhom odevu bol odev na papieri. Tento výraz autor opisuje ako odev, ktorý
+sa ukazuje na papieri, je to štýl, ktorým sa vyjadrujeme. Pod tento odev teda spadá naše
+vyjadrovanie, gramatika, slovná zásoba a rétorika. Pretože aj to sú isté znalosti alebo naša
+móda, ktorá nás reprezentuje.
+Posledným odevom je odev reálny. Čo sa týka tohto odevu, bolo asi najľahšie ho
+pochopiť a pomenovať, pretože tento typ odevu najviac s módou ako takou súvisí. Je to
+v podstate oblečenie, ktoré nosíme, čiže tento odev reprezentuje náš vkus.
+V texte sa vyskytovali aj rôzne názvy francúzskych časopisov (Elle et le Jardin des
+Modes, Vogue et l’Echo de la Mode), ktoré sme sa však rozhodli ponechať v pôvodnom
+jazyku. Tieto názvy sa na rozdiel od inštitúcií, úradov a podobných administratívnych názvov
+do slovenského jazyka neprekladajú. Pri niektorých by sa mohol nájsť vhodný slovenský
+ekvivalent ako napríklad Módne echo, ale keďže text je adresovaný odbornej verejnosti,
+predpokladáme, že čitateľ tieto časopisy pozná a nemá problém si ich prípadne dohľadať.
+Módne odborné názvy ako už spomínaný tussor alebo gardénia si vyžadovali rešerš na
+internete, kde sme dôkladne museli prejsť viacero paralelných textoch, dokonca aj internetové
+obchody, ktoré tieto produkty ponúkajú. Pri týchto výrazoch sme sa rozhodli prekladať na
+základe obrázkov a pomenovať, čo na nich vidíme, čiže v oboch postupoch prekladu išlo
+
+42
+
+o generalizáciu a nie o doslovný preklad. Tu sme použili internetový obchod „Zyga“
+(https://zyga.fr/cardigans-hiver/809-gilet-maille-jersey-gardenia-kid-mohair-bleu-nuit.html).
+Slovo shifter alebo shifters sme v internetovom slovníku našli ako posunovač, posúvač
+alebo menič. Tieto slová súvisia aj so stavebnými prácami čo zo začiatku bolo mätúce, preto
+prekladanie tohto slova bolo náročné. Výraz menič sme vylúčili ako prvé, pretože autor toto
+slovo používa na vyjadrenie posunu alebo prechodu štruktúr odevov a nie ich zmenu. Ďalej už
+bolo portrebné vybrať iba slovo viac zapadajúce do kontextu a my sme sa rozhodli pre
+posúvač.
+4.4.2. Morfologická rovina
+Ako sme už naznačili, v texte majú najväčšie zastúpenie podstatné mená, keďže
+úryvok má charakter výkladu. V texte sú prevažne všeobecné substantíva, ktoré nebol
+problém prekladať. Tie problémové sme už rozobrali. Časté boli slová ako structure, Mode,
+journal, sociologie, couture, coup, ktoré nebol problém preložiť alebo ich vyhľadať
+v slovníku. Preložili sme ich nasledovne: štruktúra, časopis, sociológia, strih, šev.
+Prídavné mená v texte sú väčšinou vzťahové a bližšie uvádzajú podstatné meno, mohli
+sme ich nájsť najmä pri určovaní štruktúr (la structure technique, plastique, verbal, orale,...)
+tu sme použili slovenské ekvivalenty adjektív nasledovne: technická, plastická, verbálna,
+ústna štruktúra. Vzťahov (le raport logique, syntaxique, spatial), adjektíva sme preložili ako:
+logický, syntaktický, priestorový vzťah) alebo pravidiel (le règle spécifique) čo znamená:
+špecifické pravidlo.
+Keďže sa substantíva v celom texte opakovali, so zámenami nebol výrazný
+problém. Jediné, na čo sme si museli dávať pozor je, na aké substantívum sa dané
+zámeno viaže.
+Čísloviek v texte bolo veľmi málo a najviac sa opakovala číslovka trois, čiže
+tri. Táto číslovka vždy referovala na autorove predošlé rozdelenie hlavným odevov.
+Slovesá mali v texte pomerne vysoká zastúpenie a ako už dobre vieme,
+vyjadrujú činnosť alebo stav ich nositeľa. Delíme ich na plnovýznamové
+a neplnovýznamové. V texte sa nachádzajú oba typy slovies a môžeme tu nájsť aj
+veľa sponových slovies. Čo sa týka prekladu do slovenského jazyka, problém nastal
+v slovách ako: embarrassé čo je síce adjektívum, ale je tvorené zo slovesa
+embarrasser, čo znamená obťažovať, prekážať, zatarasiť. Tu sme zvolili ekvivalent
+zaťažiť, ktorý sa nám najviac hodil do kontextu. Plnovýznamové slovesá sa tu
+nachádzajú v najväčšom zastúpení, napríklad: nosiť, nachádzať, predstavovať,...
+43
+
+Ako sme spomínali, je tu veľa viet so slovesno-menným prísudkom, prevláda
+sloveso byť, ktoré je súčasťou mnohých viet: odev je vytvorený, štruktúry sú
+odvodené, šaty sú totožné. Ďalšou zaujímavosťou je, že autor začal písať v prvej
+osobe (otvorím, vidím, reprezentuje ma), neskôr však už píše v prvej osobe
+množného čísla alebo používa neurčitky (skúmať, definovať, mohli by sme nazvať,
+musíme mať). Keďže autor píše na teoretickej úrovni, časté sú aj modálne slovesá:
+môcť, musieť, mať.
+Spomenúť by sme mali aj spojky a častice, ktoré Francúzi radi používajú.
+Spojky v každom texte hrajú veľkú rolu a členia text, poprípade ho robia
+priehľadnejším. Ako sme už spomínali, Francúzi radi používajú dlhé, zložené súvetia
+a my sme sa snažili ich skrátiť, čiže spojky aj v tomto momente hrali kľúčovú úlohu
+a niektoré sme museli vypustiť. Keďže v texte sú takmer všetko súvetia
+podraďovacie, nájdeme tu veľa spojok. Napríklad: quand, dont, que, qui, comme, ou.
+Preložili sme ich bez problémov a to nasledovne: keď, ktorý, ako, alebo.
+Častice sú v texte taktiež dôležité, lebo vyjadrujú postoj autora ku vete.
+Preklad niektorých častíc v francúzštiny môže byť náročný, pretože nie vždy je ľahké
+vybrať ten najvhodnejší ekvivalent danej častice. V texte boli použité napríklad: bien
+que, enfin, du moins,... Preložili sme ich ako hoci, napokon, pri najmenšom.
+
+4.4.3. Syntaktická analýza
+Ako sme už spomenuli, vety sa delia na jednoduché vety a súvetia. Zatiaľ čo Francúzi
+radi používajú zložene súvetia, v našej reči uprednostňujeme kratšie, dynamickejšie
+jednoduché vety.
+Ďalším rozdielom v týchto dvoch jazykoch je používanie polopredikatívnych
+konštrukcií. Inými slovami ich nazývame aj polovetné konštrukcie a sú druhotnou
+predikáciou k vzťahu podmetu a prísudku. Vyjadrené bývajú neurčitými slovesnými tvarmi
+(neurčitok, prechodník, trpné a činné príčastie), substantívom alebo adjektívom. Hovoríme
+o prechodnej syntaktickej kategórii medzi vetným členom a vetou a hlavným znakom týchto
+konštrukcií je schopnosť vytvoriť samostatnú vetu. K polovetným konštrukciám zaraďujeme
+doplnok, prístavok a prívlastkovú polopredikatívnu konštrukciu (Vaňko, 2015, s.71-76). Vo
+francúzskom jazyku je bežné používanie trpných alebo činných príčastí a najmä
+prechodníkov. V slovenskom jazyku sa tieto konštrukcie neodporúčajú používať, hoci nie sú
+
+44
+
+nespisovné. Zvyčajne ich nahrádzame činným plnovýznamovým slovesom. Autor v texte
+často používa taktiež neurčitok, ktorý môžeme zachovať a používame ho aj my v spojení
+s modálnymi alebo fázovými slovesami.
+Ďalším typom konštrukcií sú pasívne konštrukcie, v ktorých sa nekladie dôraz na
+pôvodcu deja, ale na cieľ deja alebo dokonca sa pôvodca deja ani neuvádza. V takom prípade
+hovoríme o pasívnych vetných konštrukciách. V slovenskom jazyku sa takéto konštrukcie
+nachádzajú často hlavne v odborných či administratívnych textoch. V anglickom alebo
+francúzskom jazyku je však výskyt takýchto viet pomerne frekventovaný. Trpný dej je tu
+tvorený zloženými analytickými slovesnými tvarmi slovesa être a minulého trpného príčastia
+významového slovesa (Podhájecká, 1963, s.105-108). Taktiež nie sú nespisovné, ale keď je
+ich v texte veľa, text pôsobí neprirodzene. V našom úryvku je to napríklad: nie je Móda ako
+taká, ale Móda v tom roku; sotva zozbieraná, vyňatá z daného roku.
+4.4.4. Štylistická rovina
+V tejto časti sme sa zamerali na zachovanie autorovho štýlu, takže sme sa taktiež
+snažili prekladať s prvkami úvahy, ale tak isto aj odborne, takže termíny sme prekladali čo
+najpresnejšie a najodbornejšie. V konečnom dôsledku si myslím, že sme esejistický štýl
+a taktiež ostatné štýly, s ktorými je úzko spätý zanechali a podarilo sa nám vytvoriť text
+zodpovedajúci originálu.
+
+45
+
+Záver
+Naša práca je výsledkom bakalárskeho štúdia prekladateľstvo a tlmočníctva na
+Univerzite Konštantína Filozofa v Nitre na Katedre translatológie.
+Našim
+
+cieľom
+
+bolo použiť
+
+teoretické znalosti
+
+v praxi
+
+a zhotoviť
+
+preklad
+
+z francúzskeho do slovenského jazyka na minimálne desať normostrán a následnú analýzu
+východiskového textu a cieľového textu z hľadiska lexiky, morfológie, syntaxe a štylistiky.
+Pracovali sme s knihou Système de la mode od francúzskeho autora Rolanda Barthesa,
+z ktorej sme si vybrali úryvok predstavujúci prvú až tretiu kapitolu, kde sme sa snažili
+zhotoviť čo najvernejší a najpresnejší preklad a pritom zachovať autorov špecifický štýl
+písania a hlavnú myšlienku nášho úryvku.
+Vďaka detailnej analýze, ktorej sme sa venovali v prvej časti našej bakalárskej práce
+sme sa bližšie oboznámili s autorom a jeho zámerom, s ktorým daný text písal. V ďalšej časti
+sa nachádzajú prekladateľské problémy, ktoré sme bližšie určili a navrhli, ako ich riešiť.
+Hlavnou časťou našej bakalárskej práce a zároveň aj tretej kapitoly bol samotný
+preklad, ktorý sme sa rozhodli zhotoviť zrkadlovo, čo znamená, že na ľavej strane je
+východiskový text po francúzsky a na pravej strane je cieľový text po slovensky. Rozhodli
+sme sa takto z dôvodu lepšej čitateľnosti a priehľadnosti prekladu.
+Nakoniec sme rozobrali cieľový text, kde sme rozobrali už použité riešenia
+prekladateľských problémov a objasnili sme, prečo sme sa rozhodli pre dané riešenia
+a postupy počas procesu prekladania.
+Ako sme už spomínali, našou úlohou bolo zachovať hlavnú myšlienku a štýl
+autorovho vyjadrovania sa a písanie a takisto esejistický štýl. Dúfame, že sme túto úlohu
+splnili čo najlepšie a recipient si pri čítaní prekladu neuvedomí, že číta preklad a vzbudí to
+v ňom rovnaké pocity ako originál.
+
+46
+
+Zoznam použitej literatúry
+Východiskový text
+BARTHES, R. Système de la mode. Paríž: French & European Pubns, 1990. 345 s. ISBN
+978-2020026994.
+Literatúra
+DVONČ, L. a kol. 1966. Morfológia slovenského jazyka. Bratislava: Vydavateľstvo
+Slovenskej akadémie vied, 1966. 896 s.
+FINDRA, J. Slovenský jazyk a sloh. Bratislava: Slovenské pedagogické nakladateľstvo, 1986,
+436 s.
+FINDRA, J. Štylistika slovenčiny. Martin: Osveta, 2004, 232 s. ISBN 80-8063-142-5.
+GROMOVÁ, Edita. 2009. Teória a didaktika prekladu. Nitra: Univerzita Konštantína
+Filozofa, ISBN 978-80-891-32-82-9.
+GROMOVÁ, E. 2009. Úvod do translatológie. Nitra : Univerzita Konštantína Filozofa v
+Nitre, Filozofická fakulta, 96 s. ISBN 978-80-8094-627-2.
+MISTRÍK, J. Štylistika. 3 upravené vydanie, Bratislava : Slovenské pedagogické
+nakladateľstvo, 1997, 598 s. ISBN 67-227-69.
+ORAVEC, J. – BAJZÍKOVÁ, E. – FURDÍK, J. Súčasný slovenský spisovný jazyk:
+Morfológia. 2. vyd. Bratislava: Slovenské pedagogické nakladateľstvo, 1988, 227 s.
+PODHÁJECKÁ, M. Gramatika angličtiny. Bratislava : Slovenské pedagogické
+nakladateľstvo, 1963, 254 s.
+MŰGLOVÁ, Daniela. 2009. Komunikácia, tlmočenie, preklad alebo Prečo spadla babylonská
+veža? Nitra: EnigmaPublishing, s. r. o., ISBN 978-80-89132-82-9.
+POPOVIČ, A. 1983. Originál-preklad Interpretačná terminológia. Bratislava : Tatran, 368 s.
+ISBN 61-536-83.
+RUŽIČKA, J. a kol. Slovenská gramatika. Bratislava : Slovenské pedagogické
+nakladateľstvo, 1968, 583 s.
+VAŇKO, J. Syntax Slovenského jazyka. Nitra : Univerzita Konštantína Filozofa v Nitre,
+Filozofická fakulta, 2015, 150 s. ISBN 978-80-558-0865-9.
+
+47
+
+Slovníky
+KOLEKTÍV AUTOROV. Pravidlá slovenského pravopisu. Bratislava. Veda, vydavateľstvo
+SAV, 2013, 590 s. ISBN 978-8022413312.
+
+Internetové zdroje
+Slovníkový portal Jazykovedného ústavu Ľudovíta Štúra SAV, 2022.
+Dostupný na internete: https://slovnik.juls.savba.sk/?d=sss
+Online francúzsko-slovenský praktický slovník, 2022.
+Dostupný na internete: https://slovniky.lingea.sk/francuzsko-slovensky
+
+Online slovník definícií LE ROBERT, 2022.
+Dostupný na internete: https://dictionnaire.lerobert.com/definition
+
+Online slovník LAROUSSE, 2022.
+Dostupný na internete: https://www.larousse.fr/dictionnaires/francais
+
+Online slovník GLOSBE, 2022.
+Dostupný na internete: https://sk.glosbe.com/
+
+Online slovník LINGUEE, 2022.
+Dostupný na: https://www.linguee.com/
+
+Internetový obchod ZYGA, 2022.
+Dostupný na: https://zyga.fr/cardigans-hiver/809-gilet-maille-jersey-gardenia-kid-mohairbleu-nuit.html
+
+Internetová encyklopédia WIKIPEDIA, 2022.
+Dostupná na: https://sk.wikipedia.org/wiki/Roland_Barthes
+
+48
+
+

@@ -1,0 +1,4683 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY, N. O. V BRATISLAVE
+ÚSTAV SOCIÁLNYCH VIED A ZDRAVOTNÍCTVA
+Bl. P. P. GOJDIČA A V. HOPKU SPIŠSKÁ NOVÁ VES - PREŠOV
+181440m
+
+ASSESSMENT BAZÁLNEJ STIMULÁCIE PRI OŠETROVATEĽSKEJ
+STAROSTLIVOSTI O PACIENTOV V KÓME
+DIPLOMOVÁ PRÁCA
+
+PREŠOV 2023
+
+Bc. LEA BALOGHOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY, N. O. V BRATISLAVE
+ÚSTAV SOCIÁLNYCH VIED A ZDRAVOTNÍCTVA
+Bl. P. P. GOJDIČA A V. HOPKU SPIŠSKÁ NOVÁ VES - PREŠOV
+
+ASSESSMENT BAZÁLNEJ STIMULÁCIE PRI OŠETROVATEĽSKEJ
+STAROSTLIVOSTI O PACIENTOV V KÓME
+DIPLOMOVÁ PRÁCA
+
+Študijný program:
+
+5602 7 00 Ošetrovateľstvo
+
+Študijný odbor:
+
+5602 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Prešov
+
+Školiteľ záverečnej práce:
+
+doc.PhDr. Darina Wiczmándyová,
+PhD.mim.prof.
+
+PREŠOV 2023
+
+Bc. LEA BALOGHOVÁ
+
+Poďakovanie
+Týmto by som sa chcela veľmi pekne poďakovať svojej školiteľke doc. PhDr.
+Darine Wiczmándyovej, PhD. mim. prof. za cenné rady, vedenie, pomoc, inšpirácie, čas a
+ochotu pri písaní diplomovej práce.
+Svojej rodine ďakujem za trpezlivosť a podporu.
+
+ABSTRAKT
+BALOGHOVÁ, LEA: „Assessment bazálnej stimulácie pri ošetrovateľskej starostlivosti o
+pacientov v kóme “. [ Diplomová práca ] / Lea Baloghová. - Vysoká škola zdravotníctva a sociálnej
+práce sv. Alžbety v Bratislave. Ústav sociálnych vied a zdravotníctva Bl. P. P. Gojdiča a V. Hopku
+Spišská Nová Ves - Prešov.; Katedra ošetrovateľstva. Školiteľ: doc. PhDr. Darina Wiczmándyová,
+PhD, mim. prof. Katedra ošetrovateľstva. Stupeň odbornej kvalifikácie: Magister ošetrovateľstva.
+Spišská Nová Ves - Prešov Ústav sociálnych vied a zdravotníctva Bl. P. P. Gojdiča a V. Hopku,
+2023. 79 strán.
+
+ÚVOD: Komunikácia spolu s akceptáciou vlastnej osobnosti patrí medzi výrazné
+sociálne potreby. Slúži nám k nadväzovaniu a udržiavaniu vzťahov. U klientov v
+bezvedomí sú tieto schopnosti narušené kôli intubácii, tracheostómii, poruche vedomia,
+hybnosti, vnímania…U týchto klientov sa využíva koncept bazálnej stimulácie.
+Základnými prvkami sú vnímanie, pohyb, komunikácia. Ak má človek poruchu vnímania,
+nehýbe sa. Ak sa nehýbe tak nekomunikuje. Stimulujeme a podporujeme vnímanie, čím
+docielime lepšiu hybnosť aj komunikáciu. Vnímame prostredníctvom zmyslov, ktoré
+vznikajú a vyvíjajú sa v embryonálnej fáze a majú nenahraditeľný význam.
+METÓDY: Cieľom našej diplomovej práce bolo zistiť ako sestry vnímajú koncept
+bazálnej stimulácie, v čom vidia jej prínos, aké majú skúsenosti v praxi, aké techniky sú
+najviac využívané a aký je podľa nich najvýraznejší efekt pre klienta. Tieto ciele sú
+spracované vzhľadom na vzdelanie, dĺžku praxe a typ oddelenia.
+
+VÝSLEDKY: Realizovaným výskumom metódou dotazníka u sestier pracujúcich s
+klientami s poruchou vedomia sme zistili a z výsledkov práce vyplynulo, že sestry
+považujú koncept BS za veľmi prínosný pre klientov a s názorom, že by mal byť
+využívaný aj v zariadeniach, kde sa s ním nepracuje. Potvrdila sa nám spojitosť s
+dosiahnutým vzdelaním sestier a uplatňovaním konceptu BS.
+
+ZÁVER: Výsledky nášho výskumu možno využiť ako štúdijný materiál pre odborné
+semináre a školenia. Permanentná starostlivosť sestier o pacientov/klientov, je v rukách
+sestier, využiť svoje vedomosti a zručnosti pre zlepšenie vnímania u pacientov a tým
+urýchliť zotavovanie a predchádzať komplikáciám.
+Kľúčové slová: bazálna stimulácia, vnímanie, komunikácia, hybnosť
+
+ABSTRACT
+BALOGHOVÁ, LEA: „ Assessment of basal stimulation in nursing care of patients in a coma.
+“ [ Diploma thesis ] / Lea Baloghová. - St. Elizabeth University of Health Care and Social Work.
+Institute of Social Sciences and Health of P. Gojdič and V. Hopko in Spišská Nová Ves - Prešov.;
+Department of Nursing. Supervisor: doc. PhDr. Darina Wiczmándyová, PhD, spec. prof.
+Department of Nursing. Degree of professional qualification: Master of Nursing. Spišská Nová Ves
+- Prešov Institute of Social Sciences and Health of P. Gojdič and V. Hopko, 2024. 79 pages.
+
+INTRODUCTION: Communication and acceptance of one's personality belong to
+significant social needs. It serves to establish and maintain relationships. In unconscious
+clients, these abilities are impaired due to intubation, tracheostomy, impaired
+consciousness, movement, perception... The concept of basal stimulation is used in these
+clients. Essential elements are perception, movement, communication. If one has a
+perception disorder, one does not move. If one doesn't move, one doesn't communicate. We
+stimulate and support perception, thereby achieving better momentum and communication.
+We perceive through the senses, which arise and develop in the embryonic stage and have
+an irreplaceable meaning.
+METHODS: Our diploma thesis aimed to identify how nurses perceive the concept of
+basal stimulation, what they see as its benefit, what experience they have in practice, what
+techniques are most used, and what, in their opinion, is the most significant effect for the
+client. These objectives are processed while considering the education, length of
+experience and type of department.
+
+RESULTS: Through research conducted using the questionnaire method among nurses
+working with clients with impaired consciousness, we found out and the results of the
+thesis showed that nurses consider the concept of BS to be very beneficial for clients and
+think that it should be used even in facilities where it is not used yet. We confirmed the
+connection between nurses' education and the application of the BS concept.
+
+CONCLUSION: The results of our research can be used as study material for
+professional seminars and training. The permanent care of nurses for patients/clients is
+their responsibility; they have to use their knowledge and skills to improve patients'
+perception, speed up recovery, and prevent complications.
+
+Keywords: basal stimulation, perception, communication, momentum
+
+OBSAH
+ÚVOD
+
+9
+
+1 Teoretické východiská práce
+
+10
+
+1.1 Koncept bazálnej stimulácie
+
+10
+
+1.1.1 Historický vývoj konceptu
+
+13
+
+1.1.2 Súčasná situácia
+
+14
+
+1.2 Bezvedomie
+1.2.1 Bazálna stimulácia u pacientov v bezvedomí
+
+15
+17
+
+1.3 Stimulácia vnímania
+
+19
+
+1.4 Podpora hybnosti
+
+21
+
+1.5 Podpora komunikácie
+
+22
+
+1.6 Prvky bazálnej stimulácie
+
+26
+
+2 Metodika výskumu
+
+41
+
+2.1 Vymedzenie výskumného problému
+
+41
+
+2.2 Ciele výskumu
+
+42
+
+2.3 Čiastkové ciele výskumu
+
+42
+
+2.4 Hypotézy
+
+42
+
+2.5 Realizácia výskumu
+
+43
+
+2.6 Metodológia výskumu
+
+43
+
+3 Výsledky výskumu
+
+44
+
+3.1 Analýza dotazníkových položiek
+
+44
+
+3.2 Vyhodnotenie hypotéz
+
+58
+
+4 Diskusia
+4.1 Návrhy a odporúčania pre prax
+
+68
+73
+
+Záver
+
+75
+
+Zoznam bibliografických odkazov
+
+76
+
+Prílohy
+
+ÚVOD
+Bazálna stimulácia je v súčasnosti jednou z ošetrovateľských a liečebných metód.
+Pacienti si uvedomujú vlastnú identitu, zlepšujú komunikáciu a zvládajú orientáciu v
+priestore a čase. Ak sú ľudia v kóme alebo hlbokých zmenených stavoch vedomia
+naskytnú sa nám otázky ako zaobchádzať s týmito ľuďmi. Sú to stavy pri ktorých
+prebiehajú etické, medicínske a aj právne diskusie a sú na to zároveň aj protichodné
+názory. Stretávame sa s rôznymi prístupmi: nechať ležať, usmrtiť, vyhladovať, poskytnúť
+na vedecké účely, transplantáciu, alebo začať so skorou rehabilitáciou a sociálnou
+integráciou. V dnešnej dobe vo všetkých vyspelých krajinách sveta dochádza k zvyšovaniu
+nákladov na zdravotnú a sociálnu starostlivosť a to vedie k potrebe obhájiť používané
+postupy, ktoré musia byť založené na dôkazoch. Je to vedomé a jasné využívanie dôkazov
+pri rozhodnutiach v starostlivosti o klientov. Človeka vnímame ako bio-psycho-sociálnu
+bytosť s potrebami. K dôležitej sociálnej potrebe človeka patrí komunikácia a aj akceptácia
+vlastnej osoby. Náročné je komunikovať s pacientom, ktorý nevykazuje žiadne reakcie.
+Úlohou pracovníkov je pochopiť ich potreby, porozumieť im a poskytnúť im starostlivosť,
+ktorá vychádza z ich potrieb. S takýmito pacientami je možné komunikovať cez gestá a
+symboly, pohybom rúk, mimikou, plačom, pocitmi (Křivohlavý, 2002, s.43). Ľudia pri
+týchto pacientoch cítia bezmocnosť, bezradnosť, nevedia čo prežívajú, čo vnímajú a čo sa
+dá pre nich urobiť. Pacienti v kóme bojujú s orientáciou v priestore a čase, sú zmätení
+hlukom. Pri týchto ľuďoch môžme využiť každý prejav, reč tela, pozorovať dych, pohyby
+viečok, rias, mihalníc ( Friedlová, 2018, s. 23). Dôležité pri starostlivosti o týchto ľudí je
+to, aby neostali sami vo svojom svete a aby sme im poskytli ľudský kontakt, snažili sa im
+dať pocit istoty a bezpečia, rešpektovali ich ako ľudské bytosti (Kapounová, 2007, s.64).
+Koncept bazálnej stimulácie bol vyhotovený s týmto cieľom. Bazálna stimulácia sa vytvára
+podľa vzťahu medzi príjemcom a poskytovateľom. Je individuálna a podporuje príjemcu
+podľa jeho možností vývoja.
+V našej diplomovej práci sa v teoretickej časti venujeme konceptu bazálnej stimulácie,
+jeho histórii, technikám. V praktickej časti nás zaujímalo aké prvky sú využívané v praxi,
+aký je najvýraznejší efekt jej používania, informovanosť a či má súvis s používaním
+bazálnej stimulácie dosiahnuté vzdelanie.
+9
+
+1 TEORETICKÉ VÝCHODISKÁ PRÁCE
+1.1 Koncept bazálnej stimulácie
+Bazálna stimulácia je koncept podporujúci ľudské vnímanie. Vnímanie je vlastne
+získanie vnemov pri vedomí pomocou zmyslov. Každý človek vníma zmyslami
+vyvíjajúcimi sa už v embryonálnej fáze a majú svoj nenahraditeľný výnam. Zmyslami
+vnímame samých seba a okolitý svet. Schopnosť vnímania je závislá od zmyslových
+analyzátorov. Do nervových vlákien sa dostávajú nervové vzruchy, ktoré sú reakciou
+pôsobenia vonkajších faktorov. Tieto zachytávajú receptory v zmyslových orgánoch a
+nazývajú sa stimuly. Podnetom je akákoľvek zmena vonkajšieho alebo vnútorného
+prostredia, ktorá pôsobí na neurón. Počas pôsobenia podnetu na receptor vzniká v mozgu
+prežitok, ten je základom vnímania. Schopnosť uložiť a uchovávať informácie je prejavom
+plasticity nervového systému. Plasticita zahŕňa funkčné zmeny kvantity a kvality
+synaptického prenosu, ktoré sú spojené s pamäťou a učením a to zvýšenou výživou a
+stimuláciou. (Rokyta, 2015, s.112) Pri zániku neurónov (nedostatok O2…) nie je možné
+ich obnovenie, ale centrálny nervový systém je schopný prispôsobenia sa, je plastický. Je
+to schopnosť kedy poškodené časti CNS môž byť kompenzované. Prejavom plasticity je
+schopnosť uložiť a uchovať informáciu. Tie sa pri cielenej stimulácii znova aktivizujú. Pri
+bazálnej stimulácii sa vychádza z týchto poznatkov. Tým, že máme schopnosť vnímania,
+naučili sme sa pohybovať a komunikovať. Navzájom sa ovplyvňuje ako vnímanie, tak aj
+pohyb a komunikácia. Tým, že vnímame sme schopní pohybu a komunikáciu máme zas
+umožnenú kôli pohybu a vnímaniu. (Fábiánová, 2014,s.19)
+Základom konceptu bazálnej stimulácie sú pohyb, komunikácia a vnímanie a ich
+prepojenie. Základným princípom bazálnej stimulácie je sprostredkovanie vnemov zo
+svojho tela a stimuláciou vlastného organizmu mu umožniť vnímať okolitý svet a postupne
+s ním nadviazať komunikáciu. (Otrubová, 2006, s.36) Ľuďom, u ktorých došlo k zmenám
+v týchto oblastiach to umožní podporu prostredníctvom cielenej stimulácie zmyslových
+orgánov pričom sa využívajú schopnosti ľudského mozgu uchovať svoje životné návyky v
+pamäťových dráhach. Ak pôsobí cielená stimulácia na senzomotorické systémy, aktivizuje
+sa pamäťová stopa čím dôjde k zlepšeniu výkonu a kognície. Znovu aktivovať mozgovú
+10
+
+činnosť môžeme cielenou stimuláciou uložených spomienok, čím podporíme hybnosť
+klientov, vnímanie a komunikáciu. Bazálna stimulácia je ošetrovateľská a liečebná metóda,
+umožňujúca vnímať pacientovi vlastnú idividualitu, zlepšuje sa komunikácia s okolím a
+orientáciu v čase a priestore (Dosbaba,2021,s.22). Podporuje interakciu, vývoj a
+komunikáciu. Je orientovaná na všetky oblasti ľudských potrieb a mení sa v závislosti od
+veku a stavu klienta. Pozerá sa na neho ako na rovnocenného partnera, ako na človeka s
+vlastnou históriou, s určitými schopnosťami a s individualitou, ktorú telesne a psychicky
+manifestuje. Tento koncept poskytuje profesionálnu, individuálnu, efektívnu, terapeutickú
+a humánnu ošetrrovateľskú starostlivosť, nakoľko berie do úvahy to, že každý má
+vzhľadom k svojmu momentálnemu stavu vedomia inú požiadavku na komunikáciu s
+okolím. Nepoužíva žiadne nadštandardné pomôcky ani prístroje, čím nie je finančne
+náročná pre zdravotnícke zariadenie. Vyžaduje si len teoretické vedomosti a praktické
+znalosti konceptu bazálnej stimulácie, ochotu pomôcť, pochopenie a spoluprácu všetkých
+členov tímu (Otrubová, 2006, s.36). Je vhodná ako u pacientov v bezvedomí, na umelej
+pľúcnej ventilácii tak aj u hemiplegických pacientov a chorých s Alzheimerovou chorobou.
+“Bazálna stimulácia nie je metóda ani technika, je to koncept. Koncept znamená, že sa
+nejedná o presne formulovanú terapiu alebo pedagogické opatrenia, ale témy, ktoré musia
+byť stále rozvíjané a prispôsobované. V centre záujmu je človek s jeho psychickou realitou,
+ktorá nám otvára možnosť osobného stretnutia. Bazálna stimulácia je systematický
+individuálny doprovod a starostlivosť, ktoré podporujú učenie a osobný rozvoj človeka.
+Nejde o to človeka s ťažkým postihnutím nútiť do určitých schém starostlivosti a
+štandardizovaných postupov. Človeka nie je možné vyvinúť, ale je možné prispôsobiť
+ošetrovateľské, terapeutické a pedagogické ponuky a okolité prostredie tak, aby bol
+podporovaný jeho vývoj. (Frohlich,1998,s.23)
+Koncept bazálnej stimulácie je určený pre človeka v ťažkej životnej situácii. K tejto
+situácii dochádza vtedy, ak si človek z dôvodu postihnutia, choroby, úrazu alebo staroby
+nie je schopný zabezpečiť sebestačnosť. Tento človek potrebuje iné osoby k tomu, aby mu
+pomáhali a umožnili vnímať okolitý svet, aby mu umožnili priblížiť okolitý svet na úroveň
+jeho schopnosti vnímania, aby sa mohol pohnúť alebo zmeniť polohu, aby mu bolo možné
+rozumieť bez možnosti využitia reči, aby ho kompetentne zaopatrili a doprevádzali.
+Činnosti, ktoré sú u klienta vykonávané, by mali byť súčasťou celodennej starostlivosti a
+
+11
+
+nie len obmedzené na dobu, kedy je príslušný špecialista prítomný u klienta. Pri tejto práci
+sú ošetrovateľskými intervenciami vlastne ošetrovateľské ponuky, pri ktorých potrebujeme
+rozpoznať potreby pacienta. Vychádzame zo situácie, ktorá zohľadňuje individuálne
+životné návyky pričom je nutné poskytnúť vhodné stimuly. Každú ošetrovateľskú ponuku
+vykonávame s vedomím cielenej stimulácie ako zachovaných tak isto aj oslabených
+zmyslov. Kľúčová je tímová spolupráca, kedy sa všetci zapájajú do starostlivosti spoločne,
+vzájomne nadväzujú na seba a konzultujú (Fabiánová, 2014, s.9). Výhodou je možnosť
+vybrať si len určité prvky podľa potrieb pacienta. Vhodná je spoločná dokumentácia, kde
+sú uvádzané informácie pre ostatných. Dôležitá je spolupráca s rodinou. Tá pozná potreby
+klienta čím ušetrí personál od mnohých omylov. Komplexná tímová práca je základom
+bazálne stimulujúcej starostlivosti. Pri tejto metóde si pacienti s ťažkými diagnózami začnú
+uvedomovať svoje potreby, začnú vnímať vlastné telo a aj okolie. Znižuje sa závislosť
+pacienta, vedie k zlepšeniu pohybu, komunikácii a vnímaniu. Koncept používa vlastné
+techniky a programy (Brauner, 2019,s. 87).
+Bazálna stimulácia sa vyvíja a tvorí zo vzťahu medzi ošetrujúcim a pacientom. Navrhuje
+pacientovi vnemy, kedy sa sám rozhodne či ich prijme alebo nie. Ošetrujúci majú možnosť
+a priestor aby využili vlastnú kreativitu. Pacient má možnosť vnímania a rozpoznania
+hraníc svojho tela, umožňuje mu mať zážitok, naskytuje sa mu možnosť vnímania
+okolitého sveta a prítomnosť inej osoby.
+Základom je štruktúra, telo a okolie pacienta, individualita, zmysluplnosť, vzťah sestry a
+pacienta a podporná starostlivosť. Ošetrovateľská starostlivosti je štruktúrovaná v čase.
+Činnosti sú vykonávané tak, že si pacient na ne môže zvyknúť a nájsť v nich istotu a aj
+orientáciu. Skúša dať jasné vnemy a skúsenosti, ktoré sa vzťahujú na zážitky spojené s
+vnímaním vlastného tela a okolia. Pri činnostiach sestra komunikuje s použitím
+jednoduchých slov vyjadrujúcich zmysel jej činnosti (Slezáková, 2006, s. 9). Táto
+starostlivosť je pre pacienta zmysluplná a interaktívna.
+Najčastejšou prekážkou pri tejto starostlivosti je rozdelenie práce. Pri vyhotovovaní plánov
+sa nepristupuje komplexne s ohľadom na potreby klienta. Bez vzájomnej spolupráce
+jednotlivých profesií a sociálneho okolia klienta na starostlivosti nie je možné dosiahnuť
+viditeľné pokroky vo vývoji zmeny stavu klienta.
+
+12
+
+1.1.1 Historický vývoj konceptu
+Koncept bazálnej stimulácie vytvoril prof. Andreas Frohlich, špeciálny pedagóg. V
+roku 1970 nastúpil do rehabilitačného centra Westpfalz/Landstuhl v Nemecku, kde sa
+venoval deťom, ktoré mali ťažké kombinované telesné a intelektuálne zmeny. Spracoval
+teóriu podpory a rozvoja schopností detí s ťažkými zmenami vo vnímaní, hybnosti a
+komunikácie. (Friedlová, 2007, s. 13) Počas jeho výskumnej činnosti vypracoval koncept
+bazálnej stimulácie. U detí s ťažkými zmenami v oblasti vnímania z dôvodu hlbokej
+mentálnej retardácie nebolo možné nadviazať verbálnu komunikáciu. Andreas Frohlich
+vychádzal z vedeckých štúdií v oblasti prenatálnej vývojovej psychológie a tiež sa zaoberal
+podporou senzomotorickej komunikácie. Na schopnosti ľudského tela vnímať a prijímať
+signály a tiež reagovať cez komunikačný kanál telesného, vestibulárneho a vibračného
+vnímania nadviazal veľmi úspešnú komunikáciu s týmito deťmi. Tento koncept vypracoval
+na základe svojho tvrdenia, že aj takéto deti sú vzdelávateľné, aspoň v oblasti vnímania
+vlastného tela alebo nácviku rôznych pohybových aktivít v zmysle sebaobsluhy. Koncept
+pomáha pedagógom podporiť tieto deti v ich vývoji a skvalitniť im prežívanie života.
+(Fábiánová, 2014,s. 49)
+Do ošetrovateľskej starostlivosti priniesla tento koncept v 80. rokoch 20. storočia prof.
+Christel Bienstein, zdravotná sestra. Pracovala v intenzívnej medicíne a vo Vzdelávacom
+centre nemeckého profesijného zväzu pre ošetrovatelské povolanie v Nemecku. Koncept
+využila k stimulácii pacientov v kóma vigile a dokázala úspešnosť tohto komunikačného a
+vývoj podporujúceho konceptu (Friedlová, 2014, s. 34). Pozitívne výsledky dali podnet aj
+iným odborníkom a tento koncept zaviedli do všetkých oblastí (neonatologická,
+psychiatrická, geriatrická, paliatívna…) Môže sa použiť u všetkých ľudí, ktorí majú
+obmedzenú schopnosť vnímania a pohybu. Je uznávaný v odbore ošetrovateľstva a
+pedagogiky. Od roku 1994 vedie Inštitút výskumu ošetrovateľstva na lekárskej fakulte
+súkromnej univerzity v Nemecku. V rámci svojej vedeckej činnosti vedie výskumné
+projekty v oblasti zmien ľudského vnímania.
+Spolu s prof. A.Frohlichom modifikovali koncept pre ošetrovateľskú starostlivosť a
+vypracovali systém vzdelávania lektorov, ktorí zabezpečujú zaškolenie ošetrujúcich a
+aplikáciu konceptu do praxe. Spoločne sa podieľajú na vedeckých projektoch v oblasti
+konceptu bazálnej stimulácie. Lektori musia absolvovať na vybraných vzdelávacích
+
+13
+
+inštitúciách 4-semestrálne štúdium konceptu a úspešne ukončiť záverečné skúšky.
+Aplikovať prakticky koncept do starostlivosti sa môže len na základe absolvovania
+certifikovaného kurzu bazálnej stimulácie pod vedením lektora.
+
+1.1.2 Súčasná situácia
+V krajinách Európskej únie patrí takáto stimulácia k uznávaným a aplikovaným
+konceptom, a to ako v oblasti špeciálnej pedagogiky, tak aj v ošetrovateľstve. Je dôležitou
+súčasťou života u ľudí, ktorí sú akokoľvek telesne alebo duševne postihnutí, u ľudí v kóme
+vigile, pre mentálne postihnutých, u ľudí so zmeneným vnímaním a taktiež u všetkých
+klientov v ústavoch sociálnych služieb, pacientov v nemocniciach, obyvateľov domovov
+dôchodcov. Dôležitý a podstatný význam má aj pri starostlivosti o nedonosené deti. Jeho
+prínos sa dokazoval v 70. a 80. rokoch minulého storočia (Friedlová, 2007, s.15). V
+súčasnosti sa zavádza do praxe a realizuje sa. Informácie, názory a skúsenosti, nové
+poznatky sa vymieňajú na konferenciách, seminároch, internete, v literatúrach. V zahraničí
+sú k dispozícii učebnice pre prácu s konceptom v jednotlivých odboroch ošetrovateľstva v intenzívnej, psychiatrickej, geriatrickej, neonatologickej a paliatívnej starostlivosti.
+Koncept je v zahraničí súčasťou osnov v štúdiu ošetrovateľstva na zdravotníckych školách
+a v praxi sa s ním pracuje na väčšine oddelení. Veľké zahraničné zdravotnícke zariadenia
+majú vlastných lektorov, ktorí priebežne školia zamestnancov (Fabiánová, 2014,s.8). V ČR
+bol tento pojem do 90. rokov neznámi. Zdravotnícka verejnosť bola informovaná o
+koncepte od roku 2000 prostredníctvom odborných príspevkov v časopise Sestra, na
+konferenciách, na prednáškach pre personál nemocníc a zariadení sociálnych služieb.
+Reakcie boli rôzne a veľakrát nepríjemné, lebo sa jednalo o úplne iný prístup ku klientovi a
+inú filozofiu starostlivosti, než na akú sme boli zvyknutí. Niektorí sa vyjadrovali štýlom:
+“to tu nechceme, ešte aby sa nám rodina pozerala pod ruky”, alebo “to je teda blbosť,
+dávať pacientovi osobné veci do postele a jeho okolia, taký neporiadok”. V ČR je od roku
+2004
+
+koncept integrovaný do tématických plánov pre študijný program zdravotnícky
+
+asistent na SZŠ. V roku 2005 bol založený inštitút vo Frýdku-Mýstku, Institút Bazálnej
+stimulácie (Friedlová, 2014,s.28).
+Bolo vykonaných mnoho vedeckých štúdií, ktoré dokazujú, že koncept bazálnej stimulácie
+stojí na vedeckých základoch. Výskumy boli vykonávané z dôvodu potreby poskytovať
+14
+
+ľuďom čo najlepšiu a najefektívnejšiu starostlivosť, ale za vedecky odôvodniteľných
+podmienok. Využívanie konceptu bazálnej stimulácie znamená rozšírenie kompetencií
+terapeuta v rámci ošetrovateľského procesu. Na základe analýzy klientovho mentálneho a
+somatického stavu sa terapeut rozhodne o tom, aké techniky konceptu použije pri
+starostlivosti o klienta. Následne podľa toho ako sa vyvíja stav klienta a aké má reakcie
+adekvátne upravuje stimulujúce techniky. Takáto starostlivosť je samostatná, kreatívna a
+kompetentná, čím chráni terapeutov pred syndrómom vyhorenia. Konceptom sa zvýšila
+kvalita ošetrovateľskej starostlivosti a podporila sa nutnosť ošetrovateľského výskumu
+(Friedlová, 2010,s. 18). Od roku 2006 prebiehajú v ČR a SR odborné audity preškolených
+pracovísk. V 1.fáze auditu sa zisťuje početnosť uplatňovaných prvkov konceptu v priamej
+starostlivosti na vybraných pracoviskách, reakcie klienta. Analyzuje sa početnosť techník,
+ktoré sú využívané k nadviazaniu kontaktu a ku komunikácii s klientom. Zisťuje sa, ktoré
+techniky sú využívané ku stimulácii vnímania a udržaniu koncentrácie klientov a ku
+stimulácii pohybovej aktivity klientov. Prebieha tiež analýza problémov, ktoré sa vyskytli
+behom integrácie konceptu do starostlivosti. V druhej fáze je analýza kazuistík. Kazuistiky
+sú doplnené o fotografie a videá.
+
+1.2 Bezvedomie
+Vedomie je stavom, kedy si človek plne a správne uvedomuje sám seba a aj svoje
+okolie. Reaguje správne na vonkajšie a vnútorné stimuly a je schopný jednať podľa svojej
+vôle. Bdelosť alebo vigilita a jasné vedomie čiže lucidita sú základom pre neporušený stav
+vedomia. Bezvedomie patrí medzi kvalitatívne poruchy vedomia, pri ktorej CNS nie je
+schopný reagovať na vonkajšie podnety (zvuk, bolesť), zníženie vigility (Slezáková,
+2006,s.56). Môže ísť o čiastočnú (somnolencia, sopor) alebo úplnú (kóma) stratu reakcií.
+Bezvedomie je vtedy, ak postihnutý nereaguje na hlasné oslovenie alebo na bolestivý
+podnet. Predtým ako človek upadne do bezvedomia má narušené vedomie, kedy čiastočne
+vníma, ale neadekvátne odpovedá, prípadne neurčito a nezrozumiteľne. (Bartúnek,
+2016,s.427)
+Vzniká následkom poruchy funkcie mozgu.
+15
+
+Pri ľahkej poruche vedomia, somnolencii, postihnutý pospáva, neodpovedá okamžite, ale
+pri slovnom podnete alebo pri dotyku sa prebudí, má spomalené reakcie a odpovedá s
+latenciou ale je schopný komunikovať. Ihneď naspäť zaspáva, keď ho prestaneme
+stimulovať (Gúth, 2012, s.54 ).
+Pri hlbšej poruche, sopor, postihnutého nevieme prebudiť slovom, ale až intenzívnejším až
+bolestivým stimulom, nie je schopný komunikácie a reaguje len jednoslabičným slovom
+alebo obranným pohybom, zamručaním. (Kapounová, 2007,s.196)
+Kóma je hlboké bezvedomie, najťažší stupeň poruchy vedomia, kedy postihnutý
+nereaguje, na vonkajšie podnety a kontakt s ním je nemožný. Môže byť povrchová kóma
+alebo hlboká. Pri povrchovej kóme je znížený korneálny reflex, myotatické reflexy a
+fotoreakcie. Pri bolestivých podnetoch pacient zareaguje pohybom končatín. Pulz, tlak krvi
+a dýchanie môžu byť normálne. Pri hlbokej kóme sa reflexy nevybavujú, vyhasínajú
+zornicové a korneálne reflexy, nereaguje na silnú bolesť, nastavajú poruchy dýchania,
+pulzu a tlaku krvi. Dochádza aj k zástave spontánneho dýchania. Môže vyústiť v mozgovú
+smrť.
+Apalický stav je to vegetatívny stav, alebo tiež coma vigile. Ide o taký druh poruchy
+vedomia, ktorej príčinou je poškodenie mozgovej kôry. Popisovaný je ako prechodný stav
+v dôsledku traumatického aj netraumatického poškodenia mozgu (krvácanie, otravy,
+ischémia). Môže trvať niekoľko rokov kým sa upravia funkcie mozgu a aj to s nejasným
+výsledkom (Ambler, 2011,s.64). Človek vyzerá, že je pri vedomí, je bdelý, oči má
+otvorené, pohľadom nesleduje okolie, pozerá do prázdna, nefixuje, nehovorí, reaguje iba
+reflexne, pohyby sú neusporiadané a na slabšie podnety reagujú len horné končatiny, fáza
+spánku trvá iba niekoľko minút, chýbajú emočné reakcie, svaly majú zvýšený tonus. Títo
+pacienti nepatria medzi akútne a kritické stavy medicíny (okrem prvej fazy ochorenia), ale
+z hľadiska ošetrovateľstva sú to najnáročnejšie prípady. Sú úplne závislí a odkázní vo
+všetkých oblastiach na komplexnú ošetrovateľskú starostlivosť.
+Bezvedomie patrí medzi stavy, ktoré ohrozujú život bez ohľadu na to čo je jeho príčina.
+Spôsobuje poruchy dýchania, upchatie dýchacích ciest, aspiráciu s následným vznikom
+ťažkého zápalu pľúc (Dobiáš, 2006,s.61). Ak vznikne nalačno, do dýchacích ciest zatečie
+žalúdočná kyselina, ktorá spôsobí poleptanie dýchacích ciest s opuchom a zúžením
+priesvitu, alebo poškodenie výstelky pľúc s kolapsom pľúcnych mechúrikov. Vyvinie sa
+
+16
+
+zastavenie prívodu kyslíka a zabráni sa tak prieniku kyslíka z pľúc do krvi. Hypoxia a
+vazodilatácia ktorá pri ňom vzniká môže spôsobiť poruchy funkcie dôležitých orgánov a
+všetkých systémov. Bezvedomie vyvoláva aj poruchy krvného obehu, rozširuje cievy,
+znižuje tlak krvi a spomaluje prietok krvi, najviac cez životne dôležité orgány. Týmto sa
+zhoršuje dodávka kyslíka, živín, odstraňovanie produktov látkovej výmeny a v krátkej
+dobe dochádza k zlyhaniu mozgu, srdca, pľúc, pečene, obličiek a ostatným orgánom s
+následkom smrti. (Dobiáš, 2017, s. 92)
+Medzi najčastejšie príčiny patrí: opitosť, úrazy hlavy, epilepsia, metabolické príčiny - DM,
+hepatálne alebo renálne zlyhanie, hypo alebo hypertermia, obehové príčiny - arytmie, šok,
+otravy liekmi, febrilné kŕče, cerebrovaskulárne ochorenia - ischémie, krvácania,
+vnútrolebečné nádory, abscesy, psychiatrické príčiny (Kapounová, 2007,s. 197)
+
+1.2.1 Bazálna stimulácia u pacientov v bezvedomí
+Vývoj moderných, komunikačných, medicínskych a aj terapeutických metód
+spojených s čo najefektívnejším systémom starostlivosti prináša so sebou nové poznatky aj
+čo sa týka pacientov v bezvedomí a so zmenenými stavmi vedomia. Výskumy a nové
+technické postupy a merania poukazujú na to, že aj ľudia vo vegetatívnom stave alebo
+kóme vnímajú a spracovávajú informácie z okolia aj keď nie sú schopní vyjadriť sa,
+rozlišujú aj zmysluplné vety. Štúdie dokázali, že viac ako polovica pacientov v kóme
+disponuje vnútorným správaním, ktoré nie je možné rozpoznať z vonkajších reakcií
+prípadne pre cudzích a neskúsených sú veľmi ťažko rozpoznateľné (Rokyta, 2000, s.214).
+Tieto reakcie si všimnú najskôr príbuzní alebo ošetrujúci a skúsený personál, ktorí zbadá
+vegetatívne znaky a tonické impulzy.
+Veľmi dôležitý je etický postoj, ktorý rezonuje medzi empatiou a reflexiou. Už na začiatku
+je podstatné intuitívne uchopenie skorých telesných signálov príbuznými a personálom.
+Nutné je preto zameranie sa na oblasť psychiky človeka v kóme a prostredie v ktorom sa
+pacient nachádza a bude nachádzať, pretože všetko ovplyvňuje jeho ďalší stav.
+Nezameriavame sa len na udržanie a obnovenie biologických funkcií. Kóma v sebe zahŕňa
+ako biologický tak aj psychický proces. Obsahuje časti traumy a šokovej reakcie, ktoré
+môžu mať dlhodobé a pretrvávajúce dôsledky a pacienti sú náchylný na retraumatizáciu.
+
+17
+
+Pacienti sú v situácii úplnej izolácie, sú vytrhnutí zo svojho známeho a sociálneho
+prostredia. Pridáva sa k tomu izolujúce vnútorné zranenie mozgu pacienta a aj prostredie
+ARO/JIS. Pacient môže prežiť len cez úplnú a kompletnú pomoc a nepretržitú medicínsku
+starostlivosť. Je plne závislý od personálu a prístrojov.
+Senzorická deprivácia predstavuje pre nich veľké riziko nakoľko ovplyvňuje množstvo
+fyziologických funkcií, vrátane zvýšenia stresových hormónov, kognitívnych funkcií,
+pamäť a vnímanie. Ak je človek dlhodobo vystavený senzorickému deficitu (monotónny
+zvuk…) dochádza k výrazným zmenám vo vedomí (Otrubová, 2006,s.37). Veľký problém
+je aj príliš veľa stimulov, ktorými sú pacienti vystavení na jednotkách intenzívnej
+starostlivosti. V štúdiách sa poukazuje na to, že týchto pacientov sa cca každých 5 minút
+dotkne minimálne 1 osoba. Ak sa prekročí pacientova kritická hranica a dotyky sú
+zasadené do neadekvátneho rámca pacienta, ten už nie je schopný informácie zmysluplne
+spracovať. U pacienta sa to môže prejaviť v izolácii alebo obranných reakciách (spazmy,
+udieranie, stiahnutosť…). Pridávajú sa k tomu rôzne akustické podnety (alarmy…),
+ktorých dôsledkom je pokles vnímania (Fabiánová, 2014,s. 60).
+Pacienti, ktorým je podávaných príliš málo alebo naopak príliš veľa nezmysluplných
+podnetov reagujú zmätenosťou, agresivitou, utiahnutím sa až predstieraním mŕtveho.
+Ošetrujúci personál by mal preto urobiť jasné a cielené, jenoznačné ponuky. V tomto
+prípade má veľký význam jasná reč, jednoduché vety, konkrétne pokyny, pokoj v tóne
+hlasu, popísanie toho čo sa ide s pacientom robiť alebo sa s ním robí a súčasné vnímanie
+spätnej väzby (Batuněk, 2016,s.311).
+V súčasnom a pretechnizovanom prostredí nemocníc je veľké nebezpečenstvo, že sa
+vytratí individualita pacienta čím sa stáva len objektom starostlivosti. Kým človek žije tak
+je spojený s okolím pohybmi a vnemami. Preto je veľmi rozhodujúce vybudovanie
+sociálnych vzťahov medzi ošetrujúcim a pacientom. Ľudia v kóme majú svoju životnú
+históriu, meno, osobnosť. Aj v kóme má človek zachované vyjadrovacie prostriedky svojej
+osobnosti. Vhodným prostriedkom je práve preto vzťahový koncept, ktorý pomáha
+budovať kontakt a vzťahové ponuky čím podporí a zmobilizuje samoliečbu. Touto
+metódou sa pridáva hľadisko toho, čo pokladá za dôležité a potrebné samotný pacient a nie
+len jeho okolie. Buduje sa bližší kontakt s pacientom. Štúdie poukazujú na to, že pomocou
+stimulácie, ktorá zlepšuje vnímanie seba samého a pomáha budovať kontakt s druhými sa
+
+18
+
+neskôr vybuduje komunikácia kódom napr.áno,nie stiskom ruky, pohybom očí, hlavy…,
+čím dokážeme u pacientov vytvoriť minimálne motorické odpovede.
+U pacientou v bezvedomí je hlavnou metódou rehabilitácie, rehabilitácia zameraná na
+multisenzorickú stimuláciu. Bazálna stimulácia patrí medzi koncept, ktorý sa nachádza
+medzi ošetrovateľstvom a rehabilitáciou. S rehabilitáciou sa má začať hneď ako má pacient
+stabilizované základné životné funkcie. Miera vnímania je u každého pacienta iná a aj
+odpovede sú individuálne (Gúth, 2012,s.34). Veľmi dôležité je, aby sme sa v blízkosti
+pacienta správali tak, ako keby bol pri vedomí, nakoľko sa nejedná o stav, kedy chorý
+nevníma hoci nie je schopný reagovať. Aj rôzne nevhodné poznámky môžu mať veľmi
+nepriaznivý psychický dopad na pacienta v bezvedomí. (Brauner, 2019,s.88)
+Dôležitú rolu pri liečbe týchto pacientov hrajú príbuzní a mali by sa stať súčasťou tímu.
+Stimulovať pacienta je základnou myšlienkou tohto konceptu. Pacienti stimuláciou začnú
+vnímať svoje telo, okolie a nasledne začnú komunikovať.
+Prvé známky reakcií sú skryté. Prejavujú sa vegetatívnym parametrami ako napr.kožným
+odporom, dýchaním, srdcovou aktivitou. Základom je, aby stimulácia nikdy nebola
+bolestivá, má byť pacientovi príjemná a známa z obdobia, kedy ešte nebol chorý
+(Friedlová, 2005,s.25).
+Stimulácia môže byť somatická, vibračná, vestibulárna, auditívna, orálna a taktilnehaptická.
+
+1.3 Stimulácia vnímania
+Ľudia, ktorí môžu vnímať veľmi obmedzene svoje okolie a svet ľudí okolo seba je
+redukovaný a koncentruje sa len na oblasť svojho vlastného tela. Tento stav zažili všetci
+ľudia v prenatálnom období. Tieto zážitky sú uložené v pamäťových stopách a možu byť
+aktivované s cieľom stimulovať vnímanie seba samého a použiť ich aj na naviazanie
+komunikácie s okolím. Vnímame prostredníctvom zmyslov. Vnímanie sa vyvíja postupne
+od embrya a preto rozlišujeme rôzne stupne vnímania. Začiatky vnímania boli zistené v
+7.týždni prenatálneho vývoja v poradí vibračná, somatická, vestibulárna komunikácia.
+
+19
+
+Všetko, čo človek robí sa deje na základe neustálej výmeny medzi vnímaním, pohybom a
+komunikáciou (Frohlich, 1998, s.206).
+Terapeuti pri používaní tohto konceptu skúšajú pomocou ponuky podnetov a pohybu
+nadviazať komunikáciu s ľuďmi so zmeneným vnímaním a komunikáciou. U týchto
+pacientov je snaha docieliť podporu a umožniť vnímanie tak, aby u klientov došlo k
+stimulácii vnímania vlastného tela, rozvoju identity, vnímania okolia, komunikácii s
+okolím, zvládnutiu orientácie v čase a priestore, zlepšeniu funkcií organizmu. (Friedlová,
+2005, s. 18)
+Pri cielenej a štruktúrovanej stimulácii zmyslov a hybnosti u klientov podľa konceptu
+bazálnej stimulácie vznikajú nové dendrické spojenia v mozgu. Vybavujúce sa pamäťové
+stopy, umožňujú chorému reagovať podľa jeho zvyklostí. Stimuláciou sa rozvíja vnímanie
+vlastnej osoby. Človek, ak nie je schopný vnímať sám seba nemôže vnímať ani okolie.
+Dávame mu možnosť vnímať hranice tela a okolia, podporujeme komunikáciu, bránime
+senzorickej deprivácii a zmierňujeme dezorientáciu a zmätenosť. Bazálnu stimuláciu
+využívame u osôb so zmenou v zmyslovom vnímaní, zmenou v komunikácii a hybnosti, u
+pacientov v kóme, dlhodobo ležiacich, v intenzívnej starostlivosti, u nekľudných,
+dezorientovaných ľudí pri plnom vedomí, u geriatrických pacientov a nedonosených a detí.
+K tomu, aby bola stimulácia kvalitná a úspešná je dôležité získanie kvalitnej
+autobiografickej anamnézy, formulácia reálnych cieľov, zostavenie plánu a kontinuálne
+monitorovanie reakcií pacienta na poskytovanú stimuláciu (Friedlová, 2007,s. 131).
+Autobiografická anamnéza - starostlivosť, ktorá je poskytovaná na základe anamnézy
+znamená to, že porozumieme jedincovi. Pri aplikovaní prvkov bazálnej stimulácie do
+ošetrovania klienta vychádzame zo zvykov a pamäťových stôp, ktoré sa pokúšame
+vybaviť, aby sa klienti uvolnili a zlepšili si vedomie. Pomáha nám pri tom zoznámenie sa s
+jeho rodinou, u ktorej zisťujeme zvyky pacienta ( ako zaspáva, čo pije, raňajkuje, čo má
+rád,…), životné návyky, prežívanie, vzdelanie, rodinný stav….
+Každý človek je iný a inak sa správa a reaguje v určitých situáciách. Každého formuje jeho
+sociálne okolie a prežívané situácie. Individuálna starostlivosť preto vyžaduje pochopenie
+daného človeka. Tým, že každý je jedinečný, každý má aj vlastnú autonómiu, každý sa
+riadi vlastnými vnútornými zákonmi. Pracovať s autonómiou človeka znamená
+rešpektovať ho a pochopiť.
+
+20
+
+Spísanie biografie predstavuje veľmi dôležitú súčasť ošetrovateľského procesu. Pri jej
+znalosti ošetrovateľské intervencie budú zohľadňovať individualitu klienta.
+Príbuzní sú veľmi dôležití v liečebnom a ošetrovateľskom procese. Získanie biografie
+môže byť dlhodobý proces nakoľko príbuzní nemusia poskytnúť všetky údaje hneď pri
+prvom rozhovore. Príbuzní na to, aby poskytli všetky údaje musia získať dôveru u
+terapeuta (Fabiánová, 2014,s. 50). Dôležité je, vysvetliť príbuzným prečo sa ich pýtame na
+také veci, čo od nich očakávame a prečo je to podstatné a dôležité, čo chceme dosiahnuť.
+Jednotlivé oddelenia, zariadenia by si mali vypracovať otázky, ktoré sú vhodné vzhľadom
+na skladbu klientov, ich možné potreby a štruktúru daného pracoviska. Príkladom môžu
+byť otázky napr.: profesia klienta, jeho sociálna situácia, aký je typ (kľudný, živý, či
+potrebuje ruch okolo seba, nejaké dianie…), ako počuje, vidí, jeho rytmus, štruktúra dňa,
+či je pravák, ľavák, aké má rád dotyky, ako spí, ako sa prikrýva, ako si čistí zuby, čo rád
+jedáva, čo rád pije, aké zvuky, hudbu má rád, aké má obľúbené vône, materiály, predmety,
+veci, čo robí ak má bolesti, čo robí aby sa cítil dobre, ….(Friedlová, 2007,s.134)
+Je nevyhnutné, aby personál rešpektoval príbuzných ako rovnocenných partnerov a ich
+schopnosti a kompetencie. Odmietnuť príbuzným spolupodieľať sa na starostlivosti
+znamená minimalizáciu toho, aby sme vedeli zaradiť životné návyky klienta do
+starostlivosti. Znamenalo by to vytvorenie bludného kruhu nesúhlasu, nepochopenia a
+neakceptovania medzi terapeutom a rodinou. Ak sú odborníci v rolách tých, ktorí vedia
+všetko najlepšie vytvorí sa odstup a chlad vo vzťahoch. Príbuzní, ak uvidia záujem o
+biografiu kienta znamená to pre nich pozitívny signál. Posilní sa pocit dôvery voči
+terapeutom. Dôveru posilní taktiež vzájomný rozhovor a dohoda medzi príbuznými a
+terapeutmi na spoločných cieľoch a postupoch v starostlivosti o klienta.
+
+1.4 Podpora hybnosti
+Pohyb je dôležitý na zabezpečenie chôdze, udržanie tela, k získaniu a prijatiu
+potravy, k vyprázdňovaniu, dýchaniu, rozmnožovaniu, k práci a je taktiež spojený s
+komunikáciou (reč, mimika, gestikulácia) a rôznym ďalším psychickým prejavom
+(Lippertová, 2020,s.21). Schopnosť pohybu umožní človeku ako komuikáciu s okolím tak
+
+21
+
+aj vnímanie vlastného tela a okolia. Predtým než sa vykoná pohyb je myšlienka na pohyb a
+preto nie je možné oddeliť vnímanie a pohyb.
+Najdôležitejšiu zložku telesných funkcií predstavujú cielené úmyselné pohyby, sú
+základom práce a komunikácie, cielené pohyby predstavujú cielenú motoriku (Trojan,
+2005,s.54).
+Koncept vychádza z vedeckých tvrdení, že správanie človeka má prvky vrodené, geneticky
+programované a tiež získané, čiže vytvorené v priebehu života jedinca. Prvou formou
+inteligencie u človeka je forma senzomotorickej inteligencie a trvá celý prvý rok života.
+Toto obdobie nemôže byť preskočené. Je základom myslenia. Obsahuje skúsenosti s
+pohybom a vnímaním. Sú to aktivity týkajúce sa vnímania, držania tela (svalový tonus) a
+pohybu. Senzomotorická inteligencia je schopnosť riešiť tieto aktivity ešte pred
+zvladnutím reči (Kolář, 2009, s.243). Rovnaké je to u ľudí, ktorí následkom úrazu alebo
+ochorenia zišli do nižšieho vývojového štádia a musia rovnako ako deti riešiť problémy
+senzomotorikou. Človek svoje prostredie poznáva pomocou zmyslov, činov (motoriky) a
+analýzy. K vykonaniu určitých cieľov jednania vznikajú v mozgu systémy s vlastnou
+organizáciou. Vďaka opakovaniu určitej činnosti sú spevňované a stabilizované.
+K podpore hybnosti koncept využíva techniky všetkých prvkov, základných aj
+nadstavbových. Dôležitá je však motivácia aby sa stimulovalo vnímanie a tým sa
+podporila hybnosť.
+
+1.5 Podpora komunikácie
+Ide o vedomú činnosť ľudského správania sa. Znamená byť v spojení.
+Komunikácia je stále prebiehajúci dej, pri ktorom sa prenášajú myšlienky cez predstavy,
+zakódovaním, prenosom, prijatím, dekódovaním a reakciou. Komunikáciou budujeme a
+udržiavame medziľudské vzťahy. Cez komunikáciu získavame nové vedomosti a znalosti a
+odovzdávame ich ďalej. Prebieha výmena informácií, pocitov, názorov, pozorovania. Nedá
+sa nekomunikovať, alebo môžme tiež povedať, že žiadna odpoveď je tiež odpoveď
+(Slezáková, 2006,s.25). Veľký vplyv má aj na kvalitu života. Vnemy z rôznych
+zmyslových orgánov sú spracované v mozgu, ukladané sú do pamäte a neskôr sú
+vybavované, aby sme pomocou nich hodnotili a spracovali situáciu. Vďaka vnímaniu sme
+22
+
+sa naučili pohybovať a komunikovať. Pohyb, vnímanie a aj komunikácia sa navzájom
+ovplyvňujú. Vnímanie umožňuje pohyb a komunikácia je umožnená vďaka pohybu a
+vnímaniu. Komunikácia prebieha vtedy, ak príjemca a komunikátor sú schopní informácie
+vnímať, analyzovať a reagovať na ne. Musí sa zároveň chcieť, vedieť a môcť komunikovať
+(Morales, 2006,s.25).
+Súčasťou profesionality sestry je schopnosť vedieť komunikovať s pacientom. Ochorenie,
+dlhodobé odlúčenie od rodiny, nemožnosť pracovať môže mať u pacienta za následok
+zhoršenie komunikačných schopností. Sestra ich môže podporiť. (Venglářová, Mahrová,
+2006,s. 36).
+Komunikácia môže byť verbálna a aj neverbálna. Na schopnosť verbálnej komunikácie
+vplýva úroveň vnímania, vyslovovanie, znalosť jazyka, výška a tón hlasu, schopnosť
+analyzovať slová. Neverbálna komunikácia je častejšia. Tá je tiež ovplyvnená úrovňou
+vedomia, schopnosťou urobiť pohyb a možnosťou využitia iných komunikačných kanálov
+než auditívneho. Obsahuje v sebe aj správanie jedinca, vzdialenosť, mimiku, postoj, gestá,
+zrakový kontakt…Vnímanie nie je možné bez zmyslových orgánov, ktoré sú schopné
+prijať a spracovať informácie. Komunikačnými kanálmi môžu byť všetky zmyslové
+orgány. Mimikou chápeme pohyby tvárového svalstva. To má schopnosť reagovať
+grimasou na silný podnet aj počas anestézie. Najdôležitejším prvkom v komunikácii sú oči
+a to vrátane ich smerovania počas komunikácie. Tvár nám vyjadruje vlastne to, ako
+informáciu príjmame, spracovávame a vyhodnocujeme. Vďaka mimickým svalom máme
+veľké vyjadrovacie možnosti. V tvári je možné rozlíšiť šťastie, strach, prekvapenie, zlosť,
+smútok, spokojnosť, záujem. (Křivohlavý, 1995,s.117). To isté sa ukrýva je aj v
+gestikulácii a postavení tela. Držanie tela nám vyjadruje psychický stav a prežívanie
+človeka. Ůzkosť alebo obrana sa nám ukazuje odklonom tela, odvrátením tváre, zaťatými
+päsťami a aj schúlenou polohou. Významný prvok je aj vzájomná vzdialenosť a vzájomné
+postavenie. Vzájomné vzdialenosti pri kontaktoch sú individuálne, nakoľko každý človek
+má inak nastavené hranice autonómie. Terapeuti pracujú v oblasti ich intímnej zóny, preto
+by mali dbať na to, aby komunikačné prvky neboli sprevádzané pocitom ohrozenia.
+Koncept bazálnej stimulácie vychádza z toho, že sa berie do úvahy a rešpektuje sa
+autonómia človeka. Terapeuti si preto dávajú pozor na kvalitu dotykov a iné prvky
+nonverbálnej komunikácie.
+
+23
+
+V komunikácii je dôležité takisto postavenie tela. Ak je terapeut ku klientovi otočený
+chrbtom, výrazne ovplyvňuje vôľu a ochotu klienta komunikovať. Komunikácia bez
+očného kontaktu je veľmi nepríjemná.
+Svaly v oblasti tváre vyjadrujú stav prežívania človeka. Na základe svalového napätia v
+tvári môže terapeut usúdiť aké emócie klient prežíva a aj zhodnotiť úroveň jeho vnímania.
+Niektorí ľudia, ktorí sa nachádzajú v ťažkom mentálnom alebo telesnom stave ako
+napr.kóma vigile, hlboká mentálna retardácia, seniori so sluchovým a zrkovým deficitom,
+dementní…, nie sú schopní využívať auditívnu komunikáciu a ani udržiavať očný kontakt
+(Otrubová, 2006,s.37). Pre terapeutov je ťažké s takýmito ľuďmi nadviazať kontakt, preto
+by mal profesionálne využívať všetky prvky komunikácie, prispôsobiť a vhodne vybrať to
+čo je pre klienta prospešné a prijateľné a taktiež by mal vedieť rozpoznať reakcie kienta na
+zvolený typ komunikácie a adekvátne reagovať (Friedlová, 2007,s.30).
+Komunikáciu na oboch stranách ovplyvňujú psychické procesy a javy: emócie, myšlienky,
+obavy, spomienky, očakávania, predsudky…., ktoré sa zohľadňujú terapeutmi pri aplikácii
+bazálnej stimulácie. Komunikácia by preto mala byť vedomá a zámerná a mala by sa
+sústrediť na to, aby sa získala dôvera klienta a na odovzdanie informácií.
+Komunikácia potrebuje vždy nejaké médium, ktoré má funkciu transportu. Tieto médiá
+môžu byť: vône, chute, dotyky, zmeny polohy, fyzikálne a chemické podnety.
+Komunikácia može byť práve preto: somatická, vibračná, vestibulárna, olfaktorická,
+orálna, optická, auditívna, taktilne-haptická (Lippertová, 2020, s.14).
+Komunikovať s ľuďmi, ktorí majú obmedzené vyjadrovacie schopnosti alebo vedomie je
+veľmi náročné. Klienti v kóme sú uzavretí vo svojom svete, nedokážu komunikovať
+verbálne, ale komunikujú dotykom. Sú potrebné vedomosti o problematike ale aj
+schopnosti vedieť zaznamenať reakcie klienta. Tie sú častokrát veľmi slabo viditeľné,
+nepatrné. Zvyčajne je prvou osobou, ktorá si všimne reakcie jeho príbuzný. Preto koncept
+zapája do starostlivosti aj príbuzných a ich názory a postrehy sú akceptované a zohľadňujú
+sa.
+Ťažké sú situácie, kedy klient nevykazuje žiadne reakcie. Ak sa budeme pozerať na ľudí v
+kóme, vo vegetatívnom stave, s demenciou alebo hlbokou mentálnou retardáciou ako na
+osobu, ktorá cíti, vníma a reaguje a vyberieme vhodnú metódu komunikácie môže sa nám
+podariť zistiť aké je vedomie a vnímanie (Dosbaba, 2021,s.22). Je doležité aby sa terapeut
+
+24
+
+prispôsobil úrovni klienta. Komunikovať môžme iba v prípade ak zvolíme jeho formu
+komunikácie. Ak klient pristúpi na našu formu a zareaguje na ňu tak môžme posúdiť stav
+vedomia. Znamená to, že musíme byť schopní rozpoznať aj minimálne reakcie klienta a
+dať im význam. Pozornosť venujeme napr.rytmu dýchania, mrknutiam očí, pohybom
+prstov…Tieto reakcie je potrebné zachytiť a nadviazať na ne,napr.jemným stiskom
+zápästia, keď sa pacient nadychuje.
+Bazálna stimulácia vychádza z toho, že každý človek je schopný niečo niektorým zmyslom
+vnímať. Vždy je schopný otvoriť sa a komunikovať. Stav kedy nereaguje môže byť tiež
+forma správania sa. Niektorí ľudia vedia komunikovať len prostredníctvom gest,
+symbolov. Prejavy môžu byť aj veľmi jemné ako: mrkanie, hlboký dych, stonanie,
+otváranie očí, úst, úsmev, uvoľnenie svalového tonusu, mimika, kľudné pohľady do okolia,
+zatváranie úst a očí, blednutie, nekľudné a nepravidelné dýchanie, plač, krik, stonanie,
+zvýšenie svalového tonusu, kŕčovité držanie tela, kŕčovitá mimika, odvrácanie sa,
+motorický nekľud, manipulácia na vlastnom tele, sebapoškodzovanie….(Bartuněk,
+2016,s.311)
+Na klienta pozeráme ako na osobnosť bez ohľadu na postihnutie a jeho aktuálny stav.
+Alternatívnou možnosťou komunikácie je aj popisovanie toho čo robíme, čo sa deje v
+okolí, zmysly pacienta stimulujeme aj prostredníctvom hudby, čítaním obľúbenej knihy.
+Jedným z významných súčastí neverbálnej komunikácie je dotyk. Je základnou
+ľudskou schopnosťou. Koža je najväčším percepčným orgánom ohraničujúci telo a
+predstavuje kontakt so svetom. Cez kožu je možné somatické vnímanie. Sú v nej receptory,
+ktoré reagujú na tepelné, mechanické, bolestivé podnety. Médiom dotykov sú ruky. Dotyky
+stimulujú nervovú sústavu, podporujú somatický, psychický a sociálny vývin. Pri jeho
+nedostatku dochádza k citovej deprivácii. Dotyk je základom somatickej stimulácie. Dotyk
+má byť jasný, zretelný, kľudný, priamym tlakom jednou osobou najlepšie obojručne celou
+plochou dlane, nie iba prstami (Fabiánová, 2014,s.51). Dotyk ak je urobený v strese,
+uponáhľaný podáva nejasné informácie a spôsobuje neistotu. Preto nemá byť letmý,
+krátky, rušivý, nekvalitný.
+Ruky sú médiom, ktoré pacientovi poskytuje informácie o jeho tele. Pri akejkoľvek
+činnosti, ktorú ideme s pacientom vykonávať používame iniciálny dotyk. Tento spôsobí u
+pacienta zorientovanie sa v činnostiach, ktoré sa dejú okolo neho (Friedlová, 2014,s.5).
+
+25
+
+Vďaka iniciálnemu dotyku si vytvoria pamäťovú stopu o tom, kedy sa ho činnosti týkajú a
+kedy nie. Nie je potrebné aby bol stále v strehu. Na jednotkách intenzívnej starostlivosti sú
+pacienti odelení častokrát iba s paravanom a to spôsobuje u pacientov to, že nevedia čo sa
+deje a bude diať a sú v strehu (Silva, Silveira, 2019, s.818). Ak je komunikácia s klientom
+nevhodná, objavujú sa u neho obranné reakcie ako zmeny pulzu, tlaku, dochádza k
+zvýšeniu potenia, tvorby slín, zvyšuje sa svlový tonus, zrýchľuje sa dýchanie. Je nutné
+sledovať všetky zmeny u klienta a zapisovať do dokumentácie.
+Zásadou je však to, že komunikácia s pacientom v bezvedomí je potrebná a to aj napriek
+tomu, že nepoznáme svet pacienta. Môže ísť o cestu návratu ale aj cestu smrti. Dôležité je
+vedomie, že pacient neostal sám, že sme mu zabezpečili ľudský kontakt, pocit istoty a
+bezpečia realizovaním cielenou stimuláciou oslabených a aj zachovaných zmyslov.
+
+1.6 Prvky bazálnej stimulácie
+Bazálna stimulácia akceptuje vývojové stupne schopnosti vnímania, v ktorých sa
+klient nachádza (Pugina, 2005). Koncept využíva základné a nadstavbové prvky. Základné
+prvky sa učia v 3-dňových certifikovaných základných kurzoch a nadstavbové v 2dňových certifikovaných nadstavbových kurzoch bazálnej stimulácie. Pri starostlivosti o
+klienta v kóme sa snažíme čo možno najviac obnoviť pamäťovú stopu. Využívame pri tom
+základné aj nadstavbové prvky konceptu.
+Medzi základné prvky konceptu patrí stimulácia:
+
+- Somatická
+- Vestibulárna
+- Vibračná
+Tieto prvky majú primárne za cieľ zabezpečenie základných životných funkcií, ako
+napr.príjem potravy, dýchanie, polohovanie, spánok, aktivita (Fabiánová, 2014). Ďalším
+cieľom je podporiť pohybové schopnosti, vytvoriť dôveru v seba samého, získať istotu a
+bezpečie, komunikovať. Využíva sa najmä somatický dialog (iniciálny dotyk, kúpeľ,
+dýchanie, masáž, polohovanie…)
+Medzi nadstavbové prvky konceptu patrí stimulácia:
+
+- taktilne - haptická (hmatová)
+26
+
+- Olfaktorická (čuchová)
+- Optická (zraková)
+- Auditívna (sluchová)
+- Orálna (chuťové vnemy a senzorika dutiny ústnej)
+Tieto prvky nadväzujú na základné prvky a podporujú hybnosť, vnímanie a komunikáciu v
+súvislosti s Maslowovou pyramídou potrieb (Friedlová,2007,s.24). Prostredníctvom týchto
+prvkov môžme pokryť nie len základné životné potreby, ale budujeme aj pocity istoty,
+bezpečia, orientáciu, vzťah, vlastnú autonómiu…Prvky podporujú nie len autonómiu
+človeka, ale umožňujú poskytovať dôstojnú starostlivosť.
+
+Základné prvky stimulácie:
+
+Somatická stimulácia - Somatické vnímanie nám dáva vnemy z povrchu tela
+prostredníctvom kože. Ak sa človek nemôže hýbať a trávi čas na lôžku, dostáva veľmi
+málo podnetov zo svojho tela, stráca orientáciu na svojom tele a aj okolí. Dlhodobo ležiaci
+klienti strácajú prehľad o tom, kde sa im nachádza trup, ruka, noha. Dochádza k strate
+schopnosti vnímania seba samého, nastupujú pocity neistoty a strachu. Následkom
+imobility a nečinnosti dochádza k strate spomienok na pohyb a zmenám vo vnímaní
+telesnej schémy (Buchholz, 2008,s.234). Ak nemajú žiadnu vonkajšiu stimuláciu na koži,
+telo prestáva pokladať tieto časti za dôležité, keďže sú nevyužívané a vypína ich.
+Imobilní klienti alebo klienti s nedostatočnou aktivitou môžu reagovať: zmätene,
+neschopnosťou komunikovať s okolím, strachom, úzkosťou, motorickým nekľudom
+(vytrhnutie permanentného katétra, búchaním rukami do bočníc, spustením DK z lôžka),
+veľmi silným pritlačením tela k bočnici (tlak umožňuje vnímať hranice vlastného tela),
+chybnou interpretáciou reality (Friedlová, 2007,s.82).
+Vnímanie vlastného tela je predpokladom k uvedomeniu si okolitého sveta a schopnosťou
+s ním komunikovať. Ide o predstavu o vlastnom tele ako o objekte v priestore. Človek
+ktorý vníma svoj telesný obraz si uvedomuje ako ďaleko sú vzdialené jednotlivé časti jeho
+tela, akú má polohu vo vzťahu k podlahe alebo vo vzťahu ku zvislej polohe a ako pôsobí
+pohyb tela na objekty v jeho okolí.
+
+27
+
+Klientov naučiť vnímať vlastné telo môžme iba pomocou vhodných somatických
+podnetov, stimulácií. Stimulujeme telo, jeho hranice. Do praxe integrujeme také prvky
+pamäťových pohybových schém, ktoré tým, že budú opakované podporia plasticitu mozgu.
+Stimulácia má byť vykonávaná tak, aby bola súčasne ponúkaná obom stranám tela, čím sa
+podporí symetrické vnímanie tela (Friedlová, 2018,s.74).
+Hlavným cieľom je vybudovanie stabilnej telesnej identity.
+Vhodnosť stimulácie volíme podľa stavu a potrieb klienta, berieme do úvahy jeho
+schopnosť vnímania, komunikácie, pohybu.
+Vhodné otázky pre somatickú anamnézu:
+
+- je klient pravák alebo ľavák?
+- Ako často sa umýva a akou formou? (Sprcha, vaňa)
+- Aká teplota vody je použitá?
+- Aké toaletné potreby používa
+- Ako často si čistí zuby? Má protézu? Spí s protézou?
+- Ako často si umýva vlasy?
+- Na ktorom mieste na svojom tele znesie dotyk cudzej osoby, na ktorom nie?
+- Ako spí? V akej polohe? Ako sa prikrýva? V akom prádle spí? Má obľúbenú deku?
+Vankúš? Zatemnenie?
+
+- Má problémy s vyprázdňovaním? Techniky k vyprázdňovaniu?
+- Má rád skôr teplo? Chlad?
+- Má poruchy citlivosti? Parézy? Aký ma svalový tonus? Kontraktúry?
+- Používa kompenzačné pomôcky? ……
+Kvalita somatickej stimulácie a jej účinky sú závislé na kvalite dotyku. Rozhodujúce je, či
+si ho klient uvedomí a bude ho schopný spracovať ako vnem, či mu umožní príjemné
+pocity a zlepšenie zdravotného stavu (Friedlová, 2015,s.12) . Dôležitá je kvalita, lokalita,
+intenzita dotykov.
+Koncept bazálnej stimulácie nie je dotyková terapia ale pracuje s dotykom a veľký dôraz
+kladie na jeho kvalitu (Bartuněk, 2016,s.310). Ďalším dôležitým faktorom je počet rúk na
+klientovom tele. Ak je veľký počet rúk na klientovom tele, nedokáže sa orientovať. Nie je
+možné synchronizovať tlak a pohyb rúk viacerých kolegov. Práve preto je potrebné, aby
+sme dali vždy klientovi jasne najavo, kedy začína a kedy končí naša prítomnosť a činnosť
+
+28
+
+u neho. Informáciu mu poskytneme pomocou cieleného dotyku, iniciálneho. Na základe
+anamnézy vyberieme najvhodnejšie miesto na tele - najlepšie v centrálnej časti tela a
+pevne, zreteľne ho budeme informovať o začiatku a ukončení našej prítomnosti alebo
+činnosti s jeho telom. Dotyk musí byť jasný s primeraným tlakom, bez násilného vtlačenia
+do matraca a musí byť doprevádzaný verbálne. Vhodné miesta sú rameno, paža, ruka. Na
+lokalizácii by sa mali dohodnúť všetci tí, ktorí pracujú s klientom a musia ho aj všetci
+dodržiavať (lekári, sestry, fyzioterapeuti, logopéd, rtg pracovníci, rodina…). Je nutné
+iniciálny dotyk používať vždy pred a po činnosti (Fabiánová, 2014,s.50).
+
+Somatická stimulácia môže byť:
+
+-
+
+Ukľudňujúca -
+
+zabezpečí sa celkové telesné uvoľnenie, odstraňujú sa nepokojné
+
+stavy, stimuluje sa vnímanie vlastnej telesnej schémy. Vykonávame ju mokrými
+žinkami alebo na sucho - cez oblečenie, alebo telovým mliekom, olejom naneseným na
+kožu. Podstatou je stimulácia v smere rastu chlpov, od ramien ku končekom prstov, od
+stredu hrudníka k vonkajšej strane hrudníka (Friedlová, 2007,s.77). Nezačíname s
+dotykom v tvárovej časti - intímna zóna, môže vyvolať nežiadúcu reakciu. Pri jej
+aplikácii dodržiavame určité zásady: pri každej stimulácii používame obe ruky,
+udržiavame s klientom stály kontakt, tvár a genitálie nemusíme umyť, neodchádzame a
+nemali by sme byť rušení, v miestnosti má byť príjemná a kľudná atmosféra, stimulácia
+by mala byť poskytovaná len jedným terapeutom, v intenzívnej starostlivosti môžu byť
+dvaja terapeuti kôli invazívnym vstupom, s tým že dotyky aplikuje jeden a druhý sa
+stará len o vstupy, nehovoríme s treťou osobou, ak klient vykazuje negatívne reakcie
+stimuláciu prerušíme. Používame ju u klientov s retardáciou, s telesným postihnutím, v
+kómach, nekľudných, s hyperaktivitou, s úzkosťami, s tachykardiou, s poruchami
+spánku, umierajúci, s Parkinsonom, s demenciami….(Bartuněk, 2016,s. 312).
+
+- Povzbudzujúca - podporuje sa aktivita, zvyšuje sa úroveň vedomia, zvyšuje sa
+pozornosť, svalový tonus, srdcová frekvencia a tlak krvi, vykonáva sa aj pred
+rehabilitáciou. Pohyby vykonávame proti smeru rastu chlpov čím sa zintenzívni
+vnímanie. Postupujeme od prstov smerom k telu a od strán hrudníka k stredu trupu
+(Friedlová, 2007,s.18). Môže sa vykonávať aj počas toalety, ak sa aplikuje počas
+kúpeľa, teplota vody má byť nižšia ako teplota tela. Používa sa u klientov s retardáciou,
+
+29
+
+v kómach, v situáciách so zmeneným vedomím - somnolencia, sopor, u depresívnych
+klientoch, so zníženým svalovým tonusom, s bradykardiou, apatických. Nepoužívame u
+dezorientovaných, nekľudných, s čerstvým krvácaním do mozgu a so zvýšeným
+intrakraniálnym tlakom.
+
+- Neurofyziologická - táto stimulácia umožňuje klientom s poruchami hybnosti na jednej
+strane tela znovu začať vnímať túto stranu. Klient musí najprv vnímať svoju zdravú
+časť tela, až potom si bude môcť začať uvedomovať aj postihnutú časť (Friedlová,
+2007,s.52). Veľký dôraz kladieme na zrakovú kontrolu klienta. Klient by mal po celú
+dobu kontrolovať a sledovať stimuláciu na svojom tele. Najlepšia poloha je v sede,
+používame aj zrkadlo. Na postihnutú ruku sa dá žinka a podporným umývaním
+stimulujeme tvár smerom od zdravej k postihnutej strane. Pokračujeme na trup v smere
+postihnutej časti a pohyby na chrbte a na nohách sú vedené tiež od zdravej k postihnutej
+strane (Lippertová, 2020,s.17). Používa sa u klientov s parézami, plégiami, s
+ochoreniami pohybového aparátu, po úrazoch, u detí s DMO, s retardáciou…
+
+- Diametrálna - redukuje svalové napätie a tým aj svalové kontraktúry. Najčastejšie sa
+aplikuje formou kúpeľa s teplotou vody 38-40 C. Dôležité je dodržať symetrickú
+stimuláciu, stimulácia oboch strán tela (Na jednej strane diametrálna, na druhej
+skľudňujúca).
+
+- Symetrická a rozvíjajúca sa - používame ju u klientov, ktorí majú poruchy rovnováhy,
+podporuje u nich vnímanie telesnej schémy, zafixuje telesnú symetriu (Beinstein, 2003).
+Pohyby vykonávame synchrónne na oboch poloviciach tela. To znamená, že sa
+stimulujú obidve HK a následne na to aj DK (Fábiánová, 2014, s.52). Dôležitá je
+pozícia terapeuta, aby mohol pracovať na oboch stranách tela. Pred touto stimuláciou sa
+odporúča skľudňujúca stimulácia. Rozvíjajúcu stimuláciu vykonávame u klientov, ktorí
+nemajú stabilizovanú telesnú schému alebo je nutné aby sa rozvíjala. Pri tejto kúpeľovej
+stimulácii dôjde k zvýrazneniu symetrie a stredu tela. Používa sa u detí, predčasne
+narodených, malých detí a taktiež u klientov v kóme vigile, kvadruplegikov a dlhodobo
+imobilných. Títo klienti majú vnímanie tela sústredené na stred tela, preto sa táto
+stimulácia sústreďuje práve tam. Po ukočení sa odporúča nepolohovať klienta proti jeho
+svalovému napätiu, ale tak, aby došlo k uvoľneniu. Svalový tonus stimulujú extrémne
+mäkké matrace, tie telu nekladú žiadny odpor.
+
+30
+
+Stabilizovať vnímanie telesnej schémy a s ňou súvisiacu schopnosť získania informácií o
+vlastnom tele nám umožňuje polohovanie. Už počas kľudného ležania po 30 minútach sa
+mení vnímanie vlastného tela. Klienti strácajú pocit vlastných telesných hraníc, stav sa
+umocňuje u ľudí dezorientovaných a u klientov ležiacich na veľmi mäkkých matracoch
+(antidekubitnárne). Tým, že je nedostatok podnetov pohybových aj senzorických dochádza
+k degeneratívnej habituácii - zvyk, návyk (Frohlich, 1998,s.243). Spôsobuje to narušenie
+psychiky a telesnej orientácie. Psychika a vnímanie tela sa nastavili na jednotvárnosť.
+Klienti sa vnímajú veľmi málo a nie sú telesne a psychicky orientovaní. Reakciou na túto
+situáciu môže byť pasivita až nereagovanie, alebo naopak, klient môže byť zmätený až
+autoagresivný. Zmätenosť patrí k následkom straty orientácie na svojom tele.
+Následky habituácie: poruchy vnímania tela, telesnej identity, koordinácie, komunikácie,
+dezorientácia, nekľud, agresivita, chybná interpretácia pôsobenia okolia, depresie, strata
+identity osobnosti.
+Polohovaním klienti získavajú informácie o svojom tele a stabilizujú vnímanie telesnej
+schémy (Hatz-Casparis,2020,s.46). Stimulujeme ich somaticky a aj vestibulárne, pretože
+meníme klientovi pozíciu a stimulujeme jeho vestibulárny aparát. Je ním zabezpečená aj
+senzorická stimulácia, lebo je rozdiel sledovať okolie z polohy na chrbte, z boku alebo zo
+sedu.
+Na schopnosť vnímania vplývajú aj iné faktory ako poruchy spánku, poškodenia mozgu,
+lieky, horúčky, dehydratácia, bolesť (Friedlová, 2010, s.10).
+Polohovanie pôsobí aj ako profylaxia vzniku dekubitov, pneumonie, tromboembolických
+komplikácií. Z neurologického hľadiska je cieľom polohovania stimulácia vnímania
+vlastného obrazu, podať klientovi informácie o jeho tele, o jeho telesných hraniciach,
+zorientovať ho, stimulovať pohyb, umožniť vnímať symetriu tela, zlepšiť motoriku,
+poskytnúť vizuálne a optické stimulácie.
+Nutnosťou pri polohovaní je to, aby sme brali do úvahy a zohľadnili to, ako sa klient cíti,
+jeho pohodlie a aj autobiografiu. Spolupracujeme s príbuznými a všetkými členmi tímu.
+Niektorí klienti zaspávajú so svojim obľúbeným vankúšom, dekou, s dekou zastrčenou za
+ramenami, čiže ako zvykol klient zaspávať, ležať, oddychovať (Bartúnek, 2016,s.312).
+Na zlepšenie vnímania klienta majú veľký vplyv aj minimálne zmeny telesnej pozície, ako
+napr: prepletenie prstov na ruke, položenie ruky na hrudník, ohnutie HK k telu, prekríženie
+
+31
+
+DK, polohovanie na rôzne tvrdých matracoch, malými zmenami polohy pomocou
+zrolovaných uterákov, vankúšov, perličkových vankúšov….
+Výraznú telesnú stimuláciu klientom prinášajú polohy múmia alebo hniezdo. Obe polohy
+sa dajú kombinovať s malými zmenami v polohe. Napr.: klient leží na boku ale jeho telo
+nemá s podložkou uhol 90 ale 45 (Tomová, 2016,s.88).
+Poloha hniezdo - Táto poloha poskytuje klientom pohodlie a spôsobuje im príjemné
+pocity v zmysle cítim sa dobre. Majú pocit istoty a zlepšuje sa vnímanie hraníc svojho tela.
+Používa sa u klientov vo fáze odpočinku, cez noc, po ukľudňujúcom kúpeli, po
+vyšetreniach, na stimuláciu vnímania vlastnej telesnej schémy, obrazu, u nekľudných a
+agresívnych klientov, s motorickým nekľudom, pri dezorientácii, umierajúcich, v kómach,
+detí, s hypertenziou, so spasticitou (Brauner, 2019,s.89).
+Klient sa uloží do polohy, ktorú zvolíme (chrbát, bok, brucho, sed v kresle…) a jeho telo
+obložíme dekami, vankúšmi, fixačnými perličkovými vankúšmi, môžme použiť zrolované
+deky, uteráky, obliečky, pri deťoch mäkké hračky. Klienta prikryjeme a stimulujeme ho aj
+taktilno-hapticky. Využijeme aj informácie z anamnézy, napr.ako sa rád prikrýva…
+Nutné je, aby sme kládli veľký dôraz a mysleli sme na kvalitu dotykov. Pri polohovaní
+dodržiavame všetky zásady čo sa týka podkladania častí tela a ak je klient plegický
+dodržiavame zásady polohovania pri plégiách.
+Poloha hniezdo je dôležitá pre svalový tonus, motoriku a vnímanie svojho obrazu.
+Poloha mumio - Táto poloha poskytuje veľmi intenzívnu stimuláciu vnímania vlastnej
+schémy. Používa sa najmä u klientov v koma vigile a u detí s ťažkou mentálnou retrdáciou.
+Môže sa využiť aj ako nefarmakologický postup pri nekľude a agresivite. Veľmi účinná je
+u detí ktoré sa narodili drogovo a alkoholovo závislým matkám. Kontraindikáciou je
+klaustrofóbia v anamnéze (Křivohlavý, 2002, s.107).
+Klient sa zabalí do deky alebo prestieradla tak, že začneme pri nohách klienta a končíme v
+hornej časti tela. Zafixovanie je pod telom klienta. Môže sa táto poloha aj skombinovať a
+polohou hniezdo. V tom prípade sa klient zabalí spolu s vankúšmi, dekami, alebo ho
+obložíme ešte okolo tela polohovacími vankúšmi. Ruky sa nechávajú na hrudníku, čo
+umožní klientovi vnímať vlastný dych a má možnosť dostať sa z tejto polohy. Hlava, lakte,
+kolená a päty sú podložené. Je dôležité, aby sme chvíľu sledovali klienta a jeho reakcie,
+niekedy je potrebné polohu uvoľniť. V tejto polohe by mal ostať maximálne 20 minút.
+
+32
+
+Masáž stimulujúca dýchanie a kontaktné dýchanie - ide o ďalšiu techniku somatickej
+stimulácie. Dýchanie patrí medzi základné ľudské potreby. Nedostatočné dýchanie vedie k
+zníženiu telesnej sily a nedostatok energie spôsobí to, že človek nedokáže vnímať okolie a
+dianie. Je stále viac vťahovaný do seba až úplne vymizne aktívna výmena informácií s
+okolím (Lysková, 2006,s.72).
+Táto masáž je masáž, ktorá sa prevádza v rytme a s dostatočným tlakom našich rúk na
+oblasť chrbta alebo ventrálnu časť hrudníka. Je súčasťou dychovej gymnastiky. Jej hodnota
+je aj vysoko komunikačná, vedie k ustáleniu rytmu dýchania. Pacient dýcha rovnako ako
+terapeut. Snažia sa o zladenie rytmu. Terapeut musí dýchať kľudne, prirodzene a hlboko.
+Ak je klient na ventilátore, prispôsobujeme sa ventilátoru. Týmto vzniká komunikačný
+proces, ktorý spôsobuje uvoľnenie, istotu a pre terapeuta to znamená vyjadrenie empatie
+voči klientovi. Táto technika potrebuje tréning a je dôležité, aby bola správne vykonaná,
+aby sa zaistil jej cieľ. Táto masáž taktiež zmierňuje a odstraňuje stavy nekľudu a
+zmätenosti (Škutchanová, 2014,s.52). Dochádza k vytvoreniu vzťahu medzi ošetrujúcim a
+klientom. Prehĺbené dýchanie uvoľní napätie a klienti sa telesne a duševne upokoja a
+uvoľnia. Cieľom je, aby klient nadobudol kľudné, hlboké a pravidelné dýchanie. Pomôže
+mu to aj uvedomiť si vlastné telo a zvyši sa koncentrácia tak, aby bol schopný reagovať na
+podnety z okolia. Dôjde aj k menšiemu vyplavovaniu stresových hormónov.
+Táto technika je vhodná u klientov: s povrchným dýchaním, nepravidelným dýchaním,
+zrýchleným alebo spomaleným, s bolesťou, depresiou, s poruchami spánku, so zmeneným
+vnímaním vlastného tela, so strachom, s malígnymi dg (empatia), na umelej pľúcnej
+ventilácii, po umelej pľúcnej ventilácii (odvykacia fáza), s inhalačnou alebo CPAP
+maskou, umierajúcich (Otrubová, 2006,s.36).
+Táto masáž sa vykonáva položením rúk terapeuta na hrudník klienta a sprevádza ho pri
+nádychu aj výdychu. Vibrácie pridávame na podporu vykašliavania ak je klient zahlienený.
+Použiť môžme aj jeho vlastnú ruku, ktorú položíme na hrudník, čím dôjde k tomu, že si
+začne klient uvedomovať vlastné dýchanie. Ruky majú byť zohriate, bez šperkov,
+hodiniek, poloha je na chrbte alebo na bruchu, na boku, v stoji, v sede. Behom masáže
+ruky ostávajú na tele, nedávame ich dole.
+Vestibulárna stimulácia - Rovnovážne centrá u zdravého človeka sa neustále stimulujú,
+tým že sa človek hýbe a mení polohy. Ľudia s obmedzenými aktivitami majú minimum
+
+33
+
+takýchto informácií, čo má za následok zhoršenie priestorovej orientácie a vnímanie
+pohybu. Vestibulárne vnímanie informuje o polohe, pohybe v priestore, zaznamenáva
+lineárne, rotačné a aj statické pohyby hlavy. Zmyslové rovnovážne centrá môžu taktiež ako
+somatické podľahnúť habitácii (Beinstein, 2003,s.256). Vestibulárny aparát je zodpovedný
+za koordinovanie pohybov, ich priebeh, orientáciu v priestore, rovnováhu a stabilizáciu
+obehového systému.
+Ak dochádza k zmene polohy len občas, môžu sa vyskytnúť problémy ako napr.: kolaps,
+nevoľnosť, dezorientácia v tele a priestore, cefalea, zvýšený tonus. Túto stimuláciu
+vykonávame u klientov pripútaných na lôžko dlhšie ako 3 dni, s obmedzeným pohybom, v
+kóme vigile, s ťažkou mentálnou retardáciou, u klientov s rozvíjajúcou sa spasticitou.
+Vykonáva sa u ležiacich klientov cez nepatrné pohyby jeho hlavou. Hlavou mierne
+otáčame do strán, tá je v stálom kontakte s podložkou a terapeut ju fixuje rukami tak, aby
+nezakrýval tvár klienta. Tento pohyb stačí vykonat 3-5x. Odporúča sa túto stimuláciu
+previesť pred každou zmenou polohy klienta. Pri zmene polohy tela, by sa mala najprv
+previesť zmena polohy hlavy do pozície v smere v ktorej bude klient napolohovaný.
+Vibračná stimulácia - cieľom je stimulovať kožné receptory na vnímanie vibrácií a
+receptory hlbokej citlivosti. Vibrácie sa vnímajú smerom od periférie do vnútra tela.
+Vibrácie sú orientované na vibráciu nosných častí tela a kĺbov. Stimuly sa ďalej presúvajú
+do hĺbky tela až k vnútorným orgánom. Vhodné miesta sú päta, koleno, panvová kosť,
+rameno, lakeť, dlaň (Machálková 2017,s.26). Vibrácie na hrudníku prevádzame len
+prostredníctvom rúk. Používame ju u klientov mentálne postihnutých, v kóme a pri
+klientoch, ktorí sa pripravujú na mobilizáciu a vertikalizáciu. Kontraindikáciou sú
+krvácanie, varixy, narušená integrita kože. Používajú sa k tomu rôzne technické predmety
+ako elektrický zubná kefka, vibrujúce hračky, lehátka, sedátka, ale aj hudobné nástroje a
+hlas (Friedlová, 2007, s.107-108).
+Kúpeľ - dáva veľký priestor k stimulácii. Vychádzame pri ňom z anamnézy. Zisťujeme v
+ktorú hodinu je zvyknutý sa kúpať, či počúva hudbu pri kúpeli, aké používa prípravky.
+Vhodné je, aby rodina zabezpečila jeho prípravky, šampón, sprchovací gel, holiace
+prípravky. Behom kúpeľa klienta stimulujeme sluchovo, zrakom, čuchom aj telesne.
+Môžme mu vložiť ruku do umývadla s vodou, vyžmýkame žinku aby mal sluchový podnet,
+dáme mu ovoňať k prípravkom. Hygienu nezačíname umývaním očí, ale napr. umytím rúk.
+
+34
+
+Nadstavbové prvky stimulácie, stimulácia percepcie
+
+Ide o stimuláciu chuti, čuchu, zraku a hmatu.
+Optická stimulácia - zrak spolu so sluchom sú najviac využívané zmysly pri poznávaní
+okolia a k nadviazaniu komunikácie. Zrakové vnemy umožňujú človeku poznávať okolie,
+orientáciu, poznávať ľudí a predmety, prežívať pozitívne vnemy, zvyšovať pocity istoty,
+schopnosť učiť sa, usporiadať si okolité prostredie.
+Prostredie v nemocniciach je málo vizuálne podnetné a pre ľudí, ktorí sa preberajú s
+bezvedomia je veľmi stresujúce. Tým, že predmety nie sú uložené v pamäťových stopách
+nevedia klienti adekvátne situáciu spracovať a zhodnotiť, asociovať. Neschopnosť
+orientovať sa v situácii a okolí vyvoláva u ľudí strach, úzkosť, agresivitu. Ak sa do takého
+prostredia zakomponuje niečo čo má klient vo svojej pamäťovej stope, niečo jemu známe,
+je pravdepodobnosť že sa upokojí (Puggina, 2005, s.313). Akákoľvek zmena telesnej
+polohy, hoci minimálna, je dôležitá pre optickú stimuláciu a orientáciu v priestore. Môže
+ísť aj o malú zmenu polohy hlavy, zmení sa zorné pole klienta. Zmenami polohy mu
+umožníme sledovať okolie a orientovať sa na svojom tele. Zvyšuje sa tým pocit istoty.
+Zmenami polohy docielime stimuláciu vestibulárnu aj somatickú. Všetko, čo stimuluje
+zmyslové receptory vo vestibulárnom aparáte, v kĺboch, svaloch, koži prispieva ku
+zlepšeniu zrakového vnímania.
+Pri prebúdzaní sa z kómy alebo u ľudí ktorí trpia stratou alebo poškodením optického
+vnemu dochádza k tomu, že nie sú schopní rozúoznať detaily vo videných predmetoch a
+nie sú schopní vnímať všetky odtiene farieb (Valková, 2015,s.59). Princíp zrakového
+vnímania je podobný ako u detí: vnímanie svetla/tmy, obrysy na krátku vzdialenosť(10-15
+cm), vnímanie vlastných častí tela, okolia vo väčšej vzdialenosti (1-2m), vnímanie
+zretelných okrajov predmetov, nie detaily, vývoj vnímania farieb.
+Počas starostlivosti musíme brať do úvahy tieto skutočnosti a tieto vývojové stupne
+akceptovať. Na výzdobu sú vhodné obrázky, ktoré namaľujú deti. Majú jednoduché tvary a
+základné farby a nevyvolávajú negatívne asociácie. Nebezpečné sú naopak obrazy s
+komplikovanými motívmi, ktoré vyvolávajú negativitu a úzkosť.
+
+35
+
+Zrakové vnímanie môže byť aj ovplyvnené a zmenené liekmi, môže byť na podklade
+ochorenia alebo úrazu.
+Zmeny sa môžu prejavovať rôzne: klienti nedokážu vnímať priestory v okolí - dôležité je
+stimuly umiestniť do miest, ktoré klient vníma, môžu nastať poruchy videnia predmetov,
+celistvosti, osôb, nevidí detaily, nevedia si dať do súvislostí predmety v okolí, rôzne
+videnie farieb, poruchy vizomotoriky - koordinácia medzi zrakovým vnemom a
+motorikou,…(Hensen, 2022,s.883)
+Dôležité pri tejto stimulácii je dodržiavanie určitých zásad:
+
+- Podnety majú byť zreteľne svetlé alebo tmavé
+- Umožniť klientovi poznať rozdiel medzi dňom a nocou
+- Umožniť sledovanie hodín - v zornom poli
+- Tvár aspoň na krátko vystaviť slnku ak je to technicky možné
+- Kôli kontrastu vyberať farebné oblečenie klienta a personálu, farebné posteľné prádlo
+- Jasne odlíšiť kde končí stena a začína strop
+- Obrázky majú byť dostatočne veľké, v zornom poli, majú mu byť známe
+- Ak používa okuliare - nasadiť mu ich
+- Fotografie a obrázky ktoré pozná umiestnime na okraj zorného poľa, aby sa otáčal
+- Pri TV zohľadníme jeho obľúbené programy, filmy, …a pozeráme na jeho únavu
+- Stimulácia musí byť prevádzaná cielene a dávkovane, aby nedošlo k preťaženiu
+Vždy je nutné klienta pozorovať, ako reaguje na podnety a či nie sú pre neho negatívne a
+nevyvolávajú nepríjemné emócie. Je potrebné myslieť na to, že pozorovanie stále
+rovnakých predmetov, objektov vyvoláva dezorientáciu a halucinácie (Fabiánová,
+2014,s.58-59).
+
+Auditívna stimulácia - sluch je dôležitým orgánom v komunikácii, pri rozvoji myslenia,
+reči, pri udržiavaní vzťahov, v spoločnosti. Na jeho základe sa vyvíja reč. Nepočujúci sa
+nenaučia hovoriť (Friedlová, 2007,s.114-116).
+Cieľom auditívnej stimulácie je: nadviazanie kontaktu s klientom, sprostredkovať
+informácie o jeho osobe, tele, stimulovať vnímanie klienta aktivizáciou spomienok,
+prebudiť spomienky klienta, zvyšovať u klienta pocity istoty, orientáciu, rozlišovacie
+schopnosti, naučiť klienta reči(Lippertová, 2020,s.28).
+
+36
+
+Pri tejto stimulácii používame rôzne prostriedky a veľmi doležité je aj brať do úvahy
+autobiografickú anamnézu. V anamnéze je doležité pýtať sa na otázky ako klient počuje,
+aké má poruchy sluchu, či používa kompenzačné pomôcky, aké zvuky sú mu príjemné,
+nepríjemné, akým hudobným nástrojom dáva prednosť, akú hudbu má rád, kedy zvykne
+počúvať hudbu, či sú konkrétne situácie v ktorých chce počúvať hudbu, kedy neznáša
+hudbu (Fabiánová, 2014,s.60).
+Reč - rozprávanie, zvukové záznamy (od príbuzných, kamarátov, spolupracovníkov)
+Ak je cieľom stimulácia vnímania a aktivizácia spomienok je najvhodnejšie, ak ku
+klientovi hovoria jemu citovo blízke osoby. Príbuzní veľakrát nevedia čo majú hovoriť, ak
+je ich blízky v kóme. Doporučuje sa rozprávať o tom, čo robili, čo je nové doma, čo budú
+robiť zajtra, treba hovoriť v rovnakej farbe hlasu a aby oslovovali klienta tak, ako zvykli.
+Hudba - reprodukovaná alebo hraná priamo u klienta na hudobnom nástroji. Pokiaľ ide o
+hudbu zo slúchadiel, dávame mu ich do vzdialenosti asi 20 cm od ucha. Týmto môže
+vnímať prirodzenú zvukovú kulisu okolia a odblokuje počúvané. Ak bol klient zvyknutý na
+slúchadlá, treba mu ich nasadiť.
+Spev - so spevom pracujú muzikoterapeuti, ale spievať môžu aj príbuzní klienta.
+Aby bola sluchová stimulácia efektívna je dôležité, aby sme poznali sluchové schopnosti a
+deficity, poznať jeho biografiu, redukovať rušivé zvuky, nerušiť priebeh stimulácie inými
+aktivitami, sledovať reakcie klienta, nepúšťať TV alebo rádio a popri tom sa baviť s treťou
+osobou (Friedlová, 2010,s.9).
+Nutnosťou je upozorniť príbuzných aby rozprávali tak ako zvykli.
+
+Orálna stimulácia - ide o intímnu osobnú zónu, ktorá predstavuje najcitlivejšiu a na
+vnímanie najaktívnejšiu zónu. Ústa a ruka predstavujú najaktívnejšie miesta na tele. Ústa
+plnia množstvo funkcí. Dôležité sú k príjmu potravy, k vnímaniu chuti, vône, k vnímaniu
+konzistencie, pri komunikácii, k vyjadreniu emócií, k dýchaniu, …
+Vnímanie stimulujeme chuťovou stimuláciou a aktivitou úst. Zavreté ústa chránia ústnu
+dutinu pred vysychaním. Suché ústa sú náchylné na vznik bolestivých ragád a sú
+nepríjemné. S vnímaním súvisí aj svalový tonus. Ak je človek pri vedomí má ústa
+zatvorené. Čím viac je vedomie zastreté tým menej človek hýbe jazykom, padá dolná
+čeľusť a sliny vytekajú z úst (Walper, 2016,s.42). Sliny sú stále produkované na bazálnej
+
+37
+
+úrovni a ich sekrécia sa zvyšuje nepodmieneným reflexom, alebo podmieneným, kedy
+stačí na ich vyvolanie vôňa jedla, pohľad na jedlo ….
+Pozitívne stimuly v oblasti dutiny ústnej spôsobujú intenzívnu stimuláciu vnímania.
+Cieľom orálnej stimulácie je vlastne sprostredkovať vnemy z úst a stimulovať vnímanie,
+uvedomenie si vlastného tela, aktivovať k príjmu potravy, artikulácii, mimike, úprava
+salivácie ale aj relaxácia a uvoľnenie.
+Svalový tonus v oblasti ústnej dutiny sa zvyšuje pri stimulácii vnímania u klienta.
+Vykonáva sa izolovane alebo ako príprava na prijímanie stravy (Morales, 2006,s.56).
+Klientovi umožníme ochutnať to, čo je mu príjemné, čo mu chutí, čo má rád. Nevykonáva
+sa, ak je klient unavený. Ku klientovi pristupujeme zo strany, aby sme v ňom nevyvolali
+strach a nezvýšili napätie v oblasti úst. Vhodné je začať iniciálnym dotykom. Predtým ako
+vstúpime do dutiny ústnej dáme najprv klientovi najavo somatickou stimuláciou čo ideme
+urobiť. Ak somatickou stimuláciou nedôjde k uvoľneniu a zníženiu napätia, pridáme
+orofaciálnu stimuláciu (Bendová, 2016).
+U klientov, ktorý neotvárajú ústa: iniciálny dotyk, čuchová stimulácia, dotyk klienta na
+hlave, vestibulárna stimulácia, somatická stimulácia tváre, manuálna stimulácia slinných
+žliaz, ľahká stimulácia pier, orofaciálna stimulácia.
+Počas tejto stimulácie nekombinujeme viac ako 3 rôzne chute. Nikdy nejdeme do úst
+násilne. Takým vstupom vyvoláme u klienta negatívny zážitok, čo sa bude prejavovať ako
+zvýšenie svalového tonusu a klient nedovolí vojsť do úst. Chuťové médium spolu s
+chladom stimuluje pohyblivosť jazyka (Fabiánová, 2014,s.63). Molitanové stetôčky
+namočené v klientovej obľúbenej tekutine môžeme dať schladiť. Vhodné sú cucacie vačky,
+halvne pri klientoch ktorí sú ochudobnení o zážitky z dutiny ústnej (PEG, parenterálna
+výživa). Ide o kúsok poživatiny zabalenej v mule namočenom v minerálnej vode. Ten sa
+vloží do úst klienta.
+
+Olfaktorická stimulácia - každý človek má svoje obľúbené vône. Vône a pachy
+vyvolávajú u ľudí spomienky. Niektoré asociujú ročné obdobia, niektoré sviatky ako
+Vianoce, niektoré ľudí. Orálna a olfaktorická stimulácia spolu súvisia. Aj chuť aj čuch
+rozoznávajú chemické látky a oba zmysly môžu mať rovnaký cieľ.
+
+38
+
+Je potrebné zistiť, ktoré vône klient uprednostňuje, aby sme nevyvolali negativne
+spomienky. Klient by v tom prípade neprijal žiadne stimuly a informácie, nedosiahli by
+sme u neho k naviazaniu kontaktu a to len preto, že mu boli vône nepríjemné alebo
+neznáme. Tieto stimuly neposkytujeme kontinuálne, lebo by si na ne klient zvykol rovnako
+ako na rovnako vyzerajúce okolie (Kreitzer, 2018, s.312).
+Na túto stimuláciu je najlepšie použiť vône osobných toaletných potrieb, parfémy,
+deodoranty, jedlo, vône z pracovného prostredia, z jeho záujmov a koníčkov. Nevhodné sú
+vonné sviečky.
+Čuchová stimulácia je veľmi výrazná pre stimuláciu pamäťovej stopy pri klientoch po
+úrazoch hlavy, hlavne vo vegetatívnych stavoch. Používa sa aj z dôvodu, aby sme pomohli
+klientovi orientovať sa v danej situácii a tým sa zvýši pocit istoty a bezpečia.
+
+Taktilne - haptická stimulácia - kožný systém nám umožňuje vnímať tlak, chlad, dotyk,
+napätie, teplo, vibrácie, šteklenie. Jednou z najaktívnejších častí tela sú ruky. Ľudská ruka
+behom života získava skúsenosti a tie uchováva v pamäti. Ak je nedostatok taktilnohaptických podnetov nedôjde k aktivizácii senzorickej a motorickej projekčnej oblasti
+mozgovej kôry pre ruku (Hatz-Casparis,2020,s. 98).
+Nekľudní, hyperaktívny klienti potrebujú rozpoznať predmet, ktorý nahmatali. Ich aktivita
+sa prejavuje tým, že ťahajú a ohmatávajú zavedené močové katétre, drény, invazívne
+vstupy, sťahujú deky, rolujú obliečky, klopkajú prstami po matraci…Tieto aktivity sú
+chápané v bazálnej stimulácii ako nedostatok taktilne- haptickej stimulácie. Klienti sa
+snažia tieto predmety niekam zaradiť, ale tým, že ich nepoznajú, nemajú ich v pamäťovej
+stope tak v nich vyvolávajú pocity strachu, úzkosti, neistoty (Friedlová, 2007,s.127-128).
+Pri tejto stimulácii sa používajú predmety, materiály a veci ktoré sú im známe. Sú to
+predmety z jeho života, osobného, pracovného, z koníčkov a záľub. Môže isť o talizmany,
+hračky, tenisová rakety, golfová palica, zubná kefka, pasta, hrebeň, mydlo, holiaci strojček,
+hrnček na pitie, žinky, uteráky, mobilný telefón, kľúče…Známe predmety stimulujú
+pamäťovú stopu a aktivizujú ruku k činnosti.
+Pri starostlivosti o klienta je dodržiavame zásady bazálnej stimulácie (Friedlová,
+2014,s.27):
+
+- Privítať a rozlúčiť sa s klientom vždy rovnakým spôsobom
+39
+
+- Používať vždy iniciálny dotyk
+- S klientom hovoríme jasne, zreteľne a nikdy nie rýchlo
+- Nezvyšujeme nikdy hlas
+- Tón hlasu, gestikulácia, mimika musia súvisieť so slovami, s obsahom, zámerom
+- Používame formu na ktorú je zvyknutý
+- Nepoužívame zdrobneniny, ak ich klient nepoužíval
+- Nehovoríme s viacerými osobami naraz
+- Obmedzujeme rušivé vplyvy
+- Umožňujeme klientovi reagovať na slová
+Cieľmi bazálnej stimulácie sú:
+
+- Klientovi zaistiť život a vývoj
+- Umožniť vnímanie vlastného života
+- Poskytovať istotu a bezpečie, dôveru
+- Rozvíjať vlastný rytmus (rádio, TV)
+- Umožniť spoznať okolie
+- Nadviazať vzťah
+- Umožniť zažiť zmysel a význam činností a vecí
+- Pomôcť usporiadať život
+- Poskytnúť autonómiu a zodpovednosť za svoj život
+
+40
+
+2 METODIKA VÝSKUMU
+Koncept bazálnej stimulácie sa týka všetkých oblastí ľudských potrieb. Vďaka
+nemu si ťažko chorí klienti začnú uvedomovať potreby, začnú vnímať vlastné telo a aj
+okolie. Postupne dochádza k tomu, že sa znižuje závislosť pacientov, zvyšuje sa
+lokomócia, komunikácia a vnímanie. U pacientov s nezvratnými zmenami výrazne
+podporujeme kvalitu života. Pocity, ktoré u klienta vyvoláme musia byť motivujúce a
+stimulujúce k nadviazaniu komunikácie. Mali by byť povzbudzujúce a príjemné a musia
+vyvolávať dôveru a bezpečie, odbúravať strach, bolesť a dezorientáciu. Koncept má veľký
+úspech u pacientov s poruchami vedomia, po úrazoch, operáciách, nekľudných pacientov,
+umierajúcich, s demenciou a aj u nedonosených detí…
+Tento spôsob starostlivosti bol pre nás motiváciou na napísanie záverečnej práce, kde sme
+si stanovili výskumný problém: Ako odhadujú sestry prínos konceptu bazálnej
+stimulácie u klientov v bezvedomí?
+
+2.1 Vymedzenie výskumného problému
+Sestra plní dôležitú funkciu pri starostlivosti o pacientov. Je nutné, aby disponovala
+dostatočnými vedomosťami o možnosti ako zlepšiť vnímanie a prežívanie klienta, ako
+zlepšiť komunikáciu, postarať o potreby klientov a to najmä u tých, u ktorých došlo k
+zmene vo vnímaní seba a okolia. Svojou starostlivosťou a technikami, ktoré nie sú závislé
+na špeciálnych prístrojoch ani pomôckach môže skvalitniť život klientov. Jedinou
+podmienkou je dobre vyškolený personál a motivácia humánneho prístupu a posunutia
+ošetrovateľskej starostlivosti smerom k potrebám pacienta.
+
+Pri vytvorení výskumného problému sme si položili nasledujúce otázky:
+1.
+
+Aké techniky konceptu sú najviac využívané sestrami?
+
+2.
+
+Aké majú sestry skúsenosti o prínosoch konceptu pre klientov?
+
+3.
+
+Ako sa zapája ošetrovateľský tím a rodina do aplikácie konceptu?
+
+4.
+
+Akú dôležitosť pripisujú sestry používaniu konceptu bazálnej stimulácie?
+
+5.
+
+Súvisí vzdelanie sestier s uplatňovaním konceptu v praxi?
+41
+
+2.2 Ciele výskumu
+V našej diplomovej práci sme si ako hlavný cieľ určili zistenie, ako sestry vnímajú
+koncept bazálnej stimulácie, jeho využitie v praxi, zistiť najviac používané techniky a aký
+je jeho najvýraznejší efekt z pohľadu praxe sestry na klienta. Tieto ciele sú s ohľadom na
+dosiahnuté vzdelanie, dĺžku praxe a typ oddelenia.
+
+2.3 Čiastkové ciele výskumu
+1. Zmapovať u respondentov, aké techniky konceptu sú najviac využívané v praxi.
+2. Zistiť u respondentov prínosy konceptu bazálnej stimulácie.
+3. Zistiť zapájanie ošetrovateľského tímu a rodiny do konceptu pri starostlivosti o klienta.
+4. Zmapovať dôležitosť konceptu bazálnej stimulácie z pohľadu sestier.
+5. Zistiť spojitosť s dosiahnutým vzdelaním sestier a uplatňovaním konceptu.
+
+2.4 Hypotézy výskumu
+Pre zodpovedanie vyhotovených výskumných otázok a splnenie výskumných
+cieľov uvádzame nasledujúce hypotézy:
+
+H1: Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+najčastejšie využívaných technikách konceptu ovplyvňujúcich stav klienta v súvislosti s
+dĺžkou praxe sestier.
+
+H2: Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+prínose konceptu bazálnej stimulácie v súvislosti s dĺžkou praxe sestier.
+
+H3: Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+potrebe zapájania rodiny do konceptu bazálnej stimulácie v závislosti s typom oddelenia na
+ktorom sestry pracujú.
+
+42
+
+H4: Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+efektívnosti používania konceptu bazálnej stimulácie v ošetrovateľskom procese v
+závislosti od dĺžky praxe s bazálnou stimuláciou.
+
+H5: Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+aplikácii konceptu bazálnej stimulácie v ošetrovateľskom procese v súvislosti s
+dosiahnutým vzdelaním.
+
+2.5 Realizácia výskumu
+Zber údajov sme vykonávali pomocou dotazníka určeného pre sestry. Pre tento účel
+sme použili vlastný dotazník, ktorý mal uspokojivú hodnotu pri dosahovaní vytýčených
+cieľov.
+Charakteristika výskumnej vzorky
+Respondenti boli vybratí zámerným výberom a spĺňali kritériá:
+• Sestry s rôznou dĺžkou praxe
+• Sestry s rôznym stupňom vzdelania
+• Sestry pracujúce v rôznych typoch zdravotníckej starostlivosti
+
+2.6 Metodológia výskumu
+Pre spracovanie informácií o prínosoch využívania bazálnej stimulácie u klientov
+bol vyhotovený dotazník. Prostredníctvom dotazníkového výskumu môžme ľahkým
+spôsobom prísť k informáciám od veľkého množstva ľudí za krátku dobu. Zachová sa
+anonymita respondentov. Dotazník môže byť rozposlaný a výskumník nemusí byť
+prítomný. Respondenti majú dostatok času na zodpovedanie otázok.
+Vo práci sme použili neštandardizovaný dotazník s uzavretými a polootvorenými
+otázkami. Dotazník bol anonymný s možnosťou výberu jednej alebo viacerých odpovedí.
+V úvode dotazníka sú respondenti oboznámení s cieľom výskumu a inštrukciami na jeho
+vyplnenie. Dotazníky boli rozposlané v Nemocnici Agel Košice Šaca, Kardiocenturum
+Agel, Arcus, po ich schválení riaditeľstvom spoločnosti.
+43
+
+3 VÝSLEDKY VÝSKUMU
+V tejto kapitole uvádzame interpretáciu výsledkov získaných z realizovaného
+výskumu. Pri vyjadrení výsledkov sa opierame o teoretické vedomosti z oblasti výskumu.
+Výsledky získané z dotazníka boli spracované pomocou programu Microsoft Office Excel
+formou tabuliek s uvedením slovného popisu. Znázornenie výsledkov v tabuľkách sme
+uviedli v absolútnych a relatívnych hodnotách.
+
+3.1 Analýza dotazníkových položiek
+Do výskumu bolo zaradených 124 sestier. Potrebné údaje boli získavané pomocou
+empirickej metódy – neštandardizovaným dotazníkom vlastnej konštrukcie. Online
+dotazník bol spracovaný a vypĺňaný sestrami.
+
+Tabuľka 1 Typ pracoviska
+Na akom oddelení pracujete?
+
+R (n)
+
+%
+
+ARO/JIS
+
+76
+
+61%
+
+Interné oddelenie
+
+15
+
+12%
+
+Geriatria
+
+15
+
+12%
+
+Iné
+
+18
+
+15%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Cieľom prvej dotazníkovej položky bolo zistiť typ pracoviska respondentov. Z celkového
+počtu stodvadsaťštyri respondentov pracuje sedemdesiatšesť (61%) na ARO/JIS. Na iných
+typoch oddelenia osemnásť (15%), na internom a geriatrickom oddelení pracuje pätnásť
+(12%).
+
+44
+
+Tabuľka 2 Využívanie konceptu bazálnej stimulácie na oddeleniach
+Pracujete na svojom oddelení s konceptom bazálnej
+stimulácie?
+
+R (n)
+
+%
+
+Áno
+
+122
+
+98%
+
+Nie
+
+2
+
+2%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Nasledujúcou položkou sme chceli zistiť, či sa na oddeleniach využíva koncept bazálnej
+stimulácie. Zistili sme, že stodvadsaťdva (98%) respondentov uviedlo, že na svojom
+oddelení využívajú koncept bazálnej stimulácie. Naproti tomu stojí názor dvoch (2%)
+respondentov, ktorí uviedli, že na oddelení nevyužívajú koncept bazálnej stimulácie.
+
+Tabuľka 3 Dôležitosť využívania konceptu bazálnej stimulácie
+Je podľa Vás využívanie konceptu dôležité pri poskytovaní
+kvalitnej starostlivosti?
+
+R (n)
+
+%
+
+Áno
+
+115
+
+93%
+
+Nie
+
+9
+
+7%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Na dotazníkovú položku týkajúcu sa dôležitosti využívania konceptu bazálnej stimulácie
+pri poskytovaní kvalitnej ošetrovateľskej starostlivosti odpovedalo stopätnásť (93%)
+respondentov, že koncept bazálnej stimulácie a jeho využívanie považujú za dôležité pri
+poskytovaní kvalitnej starostlivosti. Deviati (7%) respondenti sa vyjadrili, že využívanie
+konceptu bazálnej stimulácie pri poskytovaní kvalitnej starostlivosti nie je dôležité.
+
+Tabuľka 4 Využívanie konceptu bazálnej stimulácie celým tímom
+Pracuje s konceptom na Vašom oddelení celý ošetrovateľský
+tím?
+
+R (n)
+
+%
+
+Áno
+
+109
+
+88%
+
+Nie
+
+15
+
+12%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+45
+
+Stodeväť (88%) respondentov uviedlo, že na oddelení pracuje s konceptom bazálnej
+stimulácie celý ošetrovatdeľský tím. Pätnásť (12%) respondentov uviedlo, že na oddelení s
+týmto konceptom nepracuje celý tím.
+
+Tabuľka 5 Zapájanie rodiny do konceptu bazálnej stimulácie pri ošetrovaní pacienta
+Je do konceptu zapájaná rodina klienta?
+
+R (n)
+
+%
+
+Áno
+
+112
+
+90%
+
+Nie
+
+12
+
+10%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Touto dotazníkovou položkou sme chceli zistiť, či ošetrovateľský tím poskytujúci koncept
+bazálnej stimulácie zapája aj rodinných príslušníkov pri ošetrovaní ich rodinného člena,
+čím sa zyvšuje kvalita ošetrovateľskej starostlivosti. Stodvanásť (90%) respondentov
+uviedlo, že pri poskytovaní ošetrovateľskej starostlivosti na využívaní konceptu bazálnej
+stimulácie zapájajú rodinu, naproti tomu stojí názor dvanástich (10%) respondentov, ktorí
+uviedli, že do konceptu bazálnej stimulácie ktorú poskytujú v rámci ošetrovateľskej
+straostlivosti nezapájajú rodinu.
+
+Tabuľka 6 Názor respondentov o pozitívnom vplyve na klientov
+Má podľa Vašich skúseností používanie konceptu pozitívny
+vplyv na klientov?
+
+R (n)
+
+%
+
+Áno
+
+118
+
+95%
+
+Nie
+
+5
+
+4%
+
+Neviem, nemám skúsenosť
+
+1
+
+1%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+V tejto dotazníkovej položke nás zaujímal názor o pozitívnom vplyve konceptu bazálnej
+stimulácie na klientov. Stoosemnásť (95%) respondentov uviedli, že si myslia, že
+využívanie konceptu bazálnej simulácie má pozitívy vplyv na klientov. Päť (4%)
+respondentov zastáva názor, že koncept bazálnej stimulácie nemá pozitívny vplyv na
+klientov. K možnosti neviem, nemám skúsenosť sa priklonil jeden (1%) respondent.
+46
+
+Tabuľka 7 Prínos bazálnej stimulácie u klientov
+Aký je podľa Vás najväčší prínos bazálnej stimulácie u
+klientov?
+
+R (n)
+
+%
+
+Zlepšenie komunikácie, pacient reaguje na oslovenie
+
+12
+
+10%
+
+Zlepšenie vnímania
+
+25
+
+20%
+
+Zlepšenie mobility, zníženie spasticity
+
+75
+
+60%
+
+Zníženie podávania psychofarmák
+
+11
+
+9%
+
+Nevšimol/a som si žiaden prínos
+
+1
+
+1%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+Zaujímalo nás aký má prínos bazálnej stimulácie u klientov podľa respondentov.
+Sedemdesiatpäť (60%) uviedlo, že podľa ich názoru využívanie bazálnej stimulácie pôsobí
+na zlepšenie mobility a zníženie spasticity. K možnosti, že prostredníctvom využívania
+konceptu bazálnej stimulácie dochádza k zlepšeniu vnímania sa priklonilo dvadsaťpäť
+(20%) respondentov. Dvanásť (10%) zastáva názor, že využívaním konceptu bazálnej
+strimulácie sa zlepšuje komunikácia s klientom a klient reaguje na oslovenie. Jedenásť
+(9%) respondentov uviedlo, že prostredníctvom využívania bazálnej stimulácie dochádza k
+zníženiu podávania psychofarmák. K možnostiam nevšimol/a som si žiaden prínos sa
+priklonil jeden (1%) respondent.
+
+Tabuľka 8 Spolupráca s rodinou pri zisťovaní anamnézy
+Spolupracujete s rodinou klienta pri zisťovaní anamnézy?
+
+R (n)
+
+%
+
+Áno
+
+118
+
+95%
+
+Nie
+
+6
+
+5%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Dotazníkovou položkou sme chceli zistiť či respondenti spolupracujú s rodinnými
+príslušníkmi pri zisťovaní anamnézy. Stoosemnásť (95%) respondentov uviedlo, že pri
+ziťovaní anamnézy spolupracujú s rodinou klienta. Šiesti (5%) respondenti sa vyjadrili, že
+pri zisťovaní anamnézy nespolupracujú s rodinou klienta.
+47
+
+Tabuľka 9 Využívanie iniciálneho dotyku pri práci s konceptom
+Používate pri práci s konceptom u klientov iniciálny dotyk?
+
+R (n)
+
+%
+
+Áno
+
+115
+
+93%
+
+Nie
+
+9
+
+7%
+
+Nepracujem s konceptom
+
+0
+
+0%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+Stopätnásť (93%) respondentov sa vyjadrilo, že pri práci s konceptom využívajú iniciálny
+dotyk u klientov. Deväť (7%) respondentov uviedlo, že pri práci s konceptom iniciálny
+dotyk nevyužívajú. K položke nepracujem s konceptom sa nepriklonil žiaden respondent.
+
+Tabuľka 10 Používanie konceptu v praxi znamená pre respondentov
+Čo pre Vás znamená používanie tohto konceptu v praxi?
+
+R (n)
+
+%
+
+Možnosť kreativity a sebarealizácie
+
+4
+
+3%
+
+Zvýšenie empatie voči klientom a schopnosť vnímať potreby
+druhého
+
+22
+
+18%
+
+Poskytovanie kvalitnej ošetrovateľskej starostlivosti
+
+97
+
+78%
+
+Iba povinnosť
+
+1
+
+1%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+V tejto dotazníkovej položke nás zaujímalo aký postoj a teda ako vnímajú používanie tohto
+konceptu respondenti v praxi. Deväťdesiatsedem (78%) respondentov uviedlo, že
+používaním tohto konceptu v praxi sa zvyšuje poskytovanie kvalitnej ošetrovateľskej
+starostlivosti. Dvadsaťdva (18%) respondentov sa prikláňa k možnosti zvýšenie empatie
+voči klientom a schopnosť vnímať potreby druhého. Štyria (3%) respondneti zastávajú
+názor, že využívaním tohto konceptu v praxi sa môže rozvíjať kreativita a sebarealizácia. K
+možnosti vnímania využívania tohto konceptu v praxi len ako povinnosť sa prikonil jeden
+(1%) respondent.
+
+48
+
+Tabuľka 11 Najčastejšie využívané techníky u klientov v bezvedomí
+Ktoré techniky u klientov v bezvedomí využívate najčastejšie?
+
+R (n)
+
+%
+
+Muzikoterapia
+
+42
+
+34%
+
+Masáže
+
+27
+
+22%
+
+Polohovanie
+
+39
+
+32%
+
+Kúpele
+
+8
+
+6%
+
+Používanie vôní, používanie chutí
+
+8
+
+6%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+Štyridsaťdva (34%) respondnetov uviedlo, že najčastejšie pri práci s klientov v bezvedomí
+využívajú muzikoterapiu. Tridsaťdeväť (32%) respondentov využíva pri práci s klientom v
+bezvedomí poohovanie. Dvadsaťsedem (22%) masáže, osem (6%) respondnetov kúpele,
+osem (6%) používajú vône a chute.
+
+Tabuľka 12 Techniky zlepšujúce stav klientov
+Po akých technikách sa podľa Vášho názoru najčastejšie
+zlepšuje stav klientov?
+
+R (n)
+
+%
+
+Muzikoterapia
+
+29
+
+23%
+
+Masáže
+
+21
+
+17%
+
+Polohovanie
+
+38
+
+31%
+
+Kúpele
+
+13
+
+10%
+
+Vône
+
+2
+
+2%
+
+Kontaktné dýchanie
+
+21
+
+17%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+V tejto dotazníkovej položke nás zaujímalo aké techniky vedú k zlepšeniu stavu klientov
+podľa respondentov. Tridsaťosem (31%) respondnetov uviedlo, že podľa ich názoru sa stav
+klientov zlepšuje prostredníctvom polohovania. Dvadsaťdeväť (23%) respondentov
+zastáva názor, že stav klientov sa zlepšuje prostredníctvom muzikoterpaie. Dvadsaťjeden
+(17%) respondentov zastáva názor, že na zlepšení zdravotného stavu sa podieľajú masáže
+
+49
+
+klientov. Podľa trinástich (10%) respondentov sa zdravotný stav zlepšuje prostredníctvom
+kupeľov a dvaja (2%) respondenti sa priklonili k možnosti používania vôni.
+
+Tabuľka 13 Prvky bazálnej stimulácie využívajúce pri práci s klientmi v bezvedomí
+Označte s ktorými prvkami pracujete u klientov v bezvedomí
+
+R (n)
+
+%
+
+Somatická stimulácia
+
+124
+
+100%
+
+Vibračná stimulácia
+
+24
+
+19%
+
+Vestibulárna stimulácia
+
+56
+
+45%
+
+Optická stimulácia
+
+107
+
+86%
+
+Auditívna stimulácia
+
+119
+
+96%
+
+Taktilno-haptická stimulácia
+
+39
+
+31%
+
+Olfaktorická stimulácia
+
+106
+
+85%
+
+Orálna a orofaciálnu stimulácia
+
+36
+
+29%
+
+(Zdroj: vlastné spracovanie)
+V tejto dotazníkovej položke sme chceli zistiť aké prvky využívajú respondenti
+najčastejšie pri práci s klientami v bezvedomí, respondenti si mohli vybrať s viacerých
+možností. Najviac respondentov uviedlo, že pri práci s klientami v bezvedomí využívajú
+somatickú stuimuláciu, k tejto možnosti sa priklonilo až stodvadsaťštyri (100%)
+respondentov. Stodevätnásť (96%) respondentov využíva auditívnu stimuláciu, stosedem
+(86%) respondentov pri práci s klientami v bezvedomí využíva optickú stimuláciu.
+Olfaktorickú stimuláciu využíva pri svojej práci stošesť (85%) respondnetov. Vestibulárnu
+stimuláciu využíva pri práci s klientami v bezvedomí pädesiatšesť (45%) respondentov.
+Tridsaťdeväť (31%) respondentov sa priklonilo k možnosti taktilno-haptická stimulácia.
+Tridsaťšesť (29%) respondentov používa pri práci s klientom v bezvedomí Orálnu a
+orofaciálnu stimuláciu. Dvadsaťštyri (19%) respondentov sa vyjadrilo, že z prvkov
+bazálnej stimulácie pri práci s pacientom v bezvedomí využíva vibračnú stimuláciu.
+
+50
+
+Tabuľka 14 Prínos zisťovania autobiografickej anamnézy u klientov
+V čom vidíte prínos zisťovania autobiografickej anamnézy u
+klienta?
+
+R (n)
+
+%
+
+Zistenie návykov a zvykov klienta
+
+124
+
+100%
+
+Zlepšenie ošetrovateľských činností
+
+107
+
+86%
+
+Lepšie spoznanie kliena
+
+118
+
+95%
+
+Zvýšenie empatie
+
+98
+
+79%
+
+Iné
+
+0
+
+0%
+
+(Zdroj: vlastné spracovanie)
+Touto dotazníkovpu položkou sme chceli overiť, v čom vidia respondenti prínos v rámci
+zisťovania autobiografickej anamnézy u klientov. Respondent isa mohli vyjadriť k
+viacerým možnostiam. Stodvadsaťštyri (100%) respondentov zastáva názor, že
+prostredníctvom zisťovania autobiografickej anamnézy u klienta vedia zistiť návyky a
+zvyky klienta. Stoosemnásť (95%) respondentov sa priklonilo k možnosti, že
+prostredníctvom zisťovania tejto anamézy u klientov vedia lepšie spoznať klienta. K
+možnosti, že využitie autobiografickej anamnézy vedie k zpelšeniu ošetrovateľských
+činností sa vyjadrilo stosedem (86%) respondentov. Deväťdesiatosem (79%) respondentov
+zastáva názor, že pomocou zisťovania autobiografickej anamnézy u klientov sa zvyšuje
+empatia. K možnosti iné sa nevyjadril žiaden respondent.
+
+Tabuľka 15 Využitie bazálnej stimulácie v zariadeniach kde sa nepoužíva
+Mala by sa podľa Vás zaviesť bazálna stimulácia aj do
+zariadení kde sa nepoužíva?
+
+R (n)
+
+%
+
+Áno
+
+115
+
+93%
+
+Nie
+
+1
+
+1%
+
+Neviem
+
+8
+
+6%
+
+Spolu
+
+124
+
+124%
+
+(Zdroj: vlastné spracovanie)
+Zaujímal nás názor respondentov, či by sa mala bazálna stimulácia zaviesť aj do zariadení
+kde sa nepoužíva. Stopätnásť (93%) respondentov uviedlo, že sú toho názoru, aby sa
+bazálna stimulácia zaviedla aj do zariadení kde sa nevyužíva. K možnosti, že by sa nemala
+
+51
+
+zaviesť do týchto zariadení sa priklonil jeden (1%) respondent a k možnosti v ktorej sa
+nevedeli respondenti vyjadriť sa priklonili ôsmi (6%) respondenti.
+
+Tabuľka 16 Techniky bazálnej stimulácie využívajúce rodinou
+Ktoré techniky používa rodina klienta najčastejšie?
+
+R (n)
+
+%
+
+Hudba
+
+20
+
+16%
+
+Osobné veci klienta
+
+32
+
+26%
+
+Dotyk
+
+55
+
+44%
+
+Hlas nahrávky
+
+17
+
+14%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+V tejto dotazníkovej položke nás zaujímalo, ktoré techniky bazálnej stimulácie najčastejšie
+využívajú rodinní príslušníci. Päťdesiatpäť (44%) respondentov sa vyjadrilo, že rodinní
+príslušníci najčastejšie využívajú pri bazálnej stimulácii dotyk. Ďalšou možnosťou bolo
+využitie osobných vecí ku ktorej sa priklonilo tridsaťdva (26%) respondentov. Dvadsať
+(16%) respondentov vyjadrilo názor, že rodinní príslušníci v rámci bazálnej stimulácie
+využívajú hudbu ako jednu z techník. Hlas nahrávky využíva sedemnásť (14%)
+respondentov.
+
+Tabuľka 17 Použitie prvkov somatickej stimulácie v praxi
+Akú somatickú stimuláciu využívate najčastejšie vo svojej
+praxi?
+
+R (n)
+
+%
+
+Dotyk
+
+124
+
+100%
+
+Stimulácia povzbudzujúca
+
+95
+
+77%
+
+Stimulácia ukľudňujúca
+
+108
+
+87%
+
+Polohovanie - hniezdo
+
+95
+
+77%
+
+Polohovanie - mumio
+
+53
+
+43%
+
+Masáž stimulujúca dýchanie
+
+78
+
+63%
+
+Kontaktné dýchanie
+
+51
+
+41%
+
+Iné
+
+0
+
+0%
+
+(Zdroj: vlastné spracovanie)
+52
+
+Respondenti sa mali vyjadriť v nasledujúcej položke akú somatickú stimuláciu využívajú
+najčastejšie vo svojej praxi, mohli sa vyjadriť k viacerým možnostiam. Stodvadsaťštyri
+(100%) respondentov využíva v rámci somatickej stimulácie dotyk, druhým najčastejšie
+využívajúcim prvkom je stimulácia ukľudňujúca, ku ktorému sa priklonilo stoosem (87%)
+respondentov. Rovnaký počat respondentov a to deväťdesiatpäť (77%) sa vyjadrilo, že v
+rámci somatickej stimulácie využívajú najčastejšie stimuláciu povzbudzujúcu a
+polohovanie – hniezdo. Masáž stimulujúcu dýchanie využíva sedemdesiatosem (63%)
+respondentov, polohovanie – mumio päťdesiattri (43%) respondentov a kontaktné dýchanie
+päťdesiatjeden (41%) respondentov. K možnosti iné sa nevyjadril žiaden respondent.
+
+Tabuľka 18 Pomôcky využívajúce pri práci s konceptom bazálnej stimulácie
+Aké pomôcky využívate najčastejšie pri práci s konceptom?
+
+R (n)
+
+%
+
+Fotografie
+
+124
+
+100%
+
+Nahrávky
+
+122
+
+98%
+
+Vatové tyčinky
+
+33
+
+27%
+
+Vibračné pomôcky
+
+18
+
+15%
+
+Výzdoba
+
+118
+
+95%
+
+Nakreslené obrázky rodinou
+
+122
+
+98%
+
+TV, rádio
+
+117
+
+94%
+
+0
+
+0%
+
+Iné
+(Zdroj: vlastné spracovanie)
+
+Naším výskumom sme chceli zisťiť aké pomôcky využívajú respondenti pri práci s
+konceptom bazálnej stimulácie. Respondenti sa mohli vyjadriť k viacerým možnostiam
+tejto dotazníkovej položky. Stodvadsaťštyri (100%) respondentov využíva najviac
+fotografie. Rovnaký počet respondentov stodvadsaťdva (98%) respondentov sa vyjadrilo k
+možnostiam nahrávky a nakreslené obrázky rodinou. Stoosemnásť (98%) respondnetov
+využíva pri práci s konceptom bazálnej stimulácie najčastejšie výzdobu, stosedemnásť
+(94%) respondentov TV, radio. Tridsaťtri respondentov uviedlo, že najčastejšie využíva
+vatové tyčinky, osemnásť (15%) respondentov využíva vibračné pomôcky. K možnosti iné
+sa nevyjadril žiaden respondent.
+
+53
+
+Tabuľka 19 Pomôcky využívajúce pri taktilno-haptickej stimulácii
+Aké pomôcky používate ku taktilno - haptickej stimulácii?
+
+R (n)
+
+%
+
+Predmety z povolania klienta
+
+11
+
+9%
+
+Predmety používané pri záľubách
+
+75
+
+60%
+
+Uteráky
+
+119
+
+96%
+
+Predmety z bežného denného života - mobilný telefón, kľúče
+
+124
+
+100%
+
+Kozmetické veci - hrebeň, mydlo, holiaci strojček, zubná kefka
+
+115
+
+93%
+
+Iné
+
+0
+
+0%
+
+Nepoužívame taktilno - haptickú stimuláciu
+
+0
+
+0%
+
+(Zdroj: vlastné spracovanie)
+Dotazníkovou položkou sme chceli zisťiť aké pomôcky využívajú respondenti najčastejšie
+pri taktilno – haptickej stimulácii. Respondenti sa mohli v tejto dotazníkovej položke
+vyjadriť k viacerým možnostiam. Stodvadsaťštyri (100%) respondentov využíva
+najčastejšie predmety z bežného denného života – mobilný telefón, kľúče. Stodevätnásť
+(96%) respondentov využíva uteráky, stopätnásť (93%) respondentov využíva kozmetické
+veci – hrebeň, mydlo, holiaci strojček, zubná kefka. Sedemdeiatpäť (60%) respondnetov
+využíva najčastejšie predmety používané pri záľubách. K možnostiam iné a nepoužívam
+taktilo – haptickú stimuláciu sa nevyjadril žiaden respondent.
+
+Tabuľka 20 Prvky prispievajúce k zlepšeniu stavu
+Ktoré prvky podľa Vás najskôr prispievajú k zlepšeniu stavu?
+
+R (n)
+
+%
+
+Polohy
+
+123
+
+99%
+
+Masáže
+
+79
+
+64%
+
+Nahrávky
+
+72
+
+58%
+
+Osobné veci klienta - fotografie, kozmetické veci, oblečenie
+
+117
+
+94%
+
+Vibrácie
+
+18
+
+15%
+
+Chute, vône
+
+15
+
+12%
+
+Iné
+
+0
+
+0%
+
+(Zdroj: vlastné spracovanie)
+Koncept bazálnej stimulácie je postavený na prvkoch prostredníctvom ktorých sa zlepšuje
+stav klienta, v tejto položke sme chceli zistiť ktoré prvky podľa respondentov najviac v
+54
+
+pozitívnom zmysle ovplyvňujú stav klienta, repsondenti sa mohli vyjadriť k viacerým
+možnostiam. Stodvadsaťtri (99%) respondentov sa vyjadrilo, že v pozitívnom zmasle
+ovplyvňujú ako jeden z prvkov stav klienta Polohy. Stosedemnásť (94%) respondentov
+zastáva názor, že jedným z týchto prvkov sú osobné veci klienta – fotografie, kozmetické
+veci, oblečenie. Sedemdeiatdeväť ( 64%) respondentov sa vyjadrilo, že podľa ich názoru
+pozitívne ovplyvňujúce prvky stav klienta sú masáže, sedemdesiatdva (58%) respondentov
+nahrávky, osemnásť (15%) respondentov vibrácie a pätnásť (12%) respodnetov chute a
+vône. K možnosti iné sa nevyjadril žiaden respondent.
+
+Tabuľka 21 Prekážky, kvôli ktorým sa nepracuje s konceptom bazálnej stimulácie
+Čo je podľa Vás najväčšou prekážkou, v tom že sa s konceptom
+nepracuje?
+
+R (n)
+
+%
+
+Nedostatok informácií o koncepte
+
+34
+
+27%
+
+Nedostatok záujmu zo strany sestier
+
+24
+
+19%
+
+Nedostatočná podpora zo zamestnávateľov
+
+21
+
+17%
+
+Neochota spolupracovníkov
+
+12
+
+11%
+
+Nedostatok kurzov
+
+33
+
+26%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Nie je nič výnimočné ak sa pracovníci stretnú pri svojej práci s prekážkami, preto sme
+chceli zistiť s ktorými prekážkami sa respondenti najčastejšie stretávajú pri práci s
+konceptom bazálnej stimulácie, čo značne sťažuje aplikáciu konceptu v ošetrovateľskom
+procese. Tridsaťštyri (27%) respondentov považuje za prekážku pri práci s konceptom
+bazálnej stimulácie nedostatok informácií o koncepte. Tridsaťtri (26%) respondentov sa
+vyjadrilo k možnosti nedostatok kurzov, dvadsaťštyri (19%) respondentov nedostatok
+záujmu zo strany sestier. Dvadsaťjeden (17%) respondentov sa vyjadrilo, že za prekážku
+považujú nedostatočnú podporu zo strany zamestnávateľa. Dvanásť (11%) respondentov
+považuje za prekážku neochotu spolupracovníkov.
+
+55
+
+Tabuľka 22 Názor respondentov na negatívny efekt konceptu na stav klienta
+
+Máte vo svojej praxi skúsenosť, že by tento koncept nepriniesol
+efekt klientovi?
+
+R (n)
+
+%
+
+Áno
+
+8
+
+6%
+
+Nie
+
+114
+
+92%
+
+Iné
+
+2
+
+2%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Zaujímal nás názor respondentov na negatívny dopad konceptu na stav klienta. Stoštrnásť
+(92%) respondentov sa vyjadrilo, že negatívny dopad konceptu na stav klienta
+nespozorovali. Osem (6%) respondentov uviedlo, že podľa nich mala bazálna stimulácia
+negatívny dopad na stav klienta, teda mali takúto skúsenosť. K možnosti iné sa priklonili
+dvaja (2%) respondenti.
+
+Tabuľka 23 Vek respondentov
+Aký je Váš vek?
+
+R (n)
+
+%
+
+22 - 32
+
+18
+
+15%
+
+33 - 43
+
+41
+
+33%
+
+44 - 54
+
+37
+
+30%
+
+55 a viac
+
+28
+
+22%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Štyridsaťjeden (33%) respondentov, ktorí sa zúčastnili nášho výskumu mali vek v
+rozmedzí 33 – 43 rokov, stridsaťsedem (30%) respondentov bolo vo vekom rozmedzí 44 –
+54 rokov, dvasaťosem (22%) respondentov malo 55 a viac rokov a osemnásť (15%)
+respondentov malo vek v rozmedzí 22 – 32 rokov.
+
+56
+
+Tabuľka 24 Vzdelanie respondentov
+Aké máte vzdelanie?
+
+R (n)
+
+%
+
+Stredoškolské s maturitou VOV
+
+28
+
+23%
+
+Vysokoškolské vzdelanie 1. stupňa
+
+20
+
+16%
+
+Vysokoškolské vzdelanie 2. stupňa
+
+44
+
+35%
+
+Špecializácia v odbore
+
+32
+
+26%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Štyridsaťštyri (35%) respondentov dosiahlo vysokoškolské vzdelanie 2. stupňa. Tridsaťdva
+(26%) majú dosiahnuté špecializačné vzdelanie v odbore. Dvadsaťosem (23%)
+respondentov dosiahlo stredoškolské vzdelanie s maturitou VOV. Dvadsať (16%)
+respondentov dosiahlo vysokoškolské vzdelanie 1. stupňa.
+
+Tabuľka 25 Dĺžka praxe respondentov
+Aká je Vaša prax na danom oddelení?
+
+R (n)
+
+%
+
+1 - 5 rokov
+
+8
+
+6%
+
+6 - 10 rokov
+
+11
+
+9%
+
+11 - 15 rokov
+
+18
+
+15%
+
+16 - 20 rokov
+
+48
+
+39%
+
+viac ako 20 rokov
+
+39
+
+31%
+
+Spolu
+
+124
+
+100%
+
+(Zdroj: vlastné spracovanie)
+Štyridesaťosem (39%) respondentov má prax 16 – 20 rokov. Tridsaťdeväť (31%)
+respondentov viac ako 20 rokov. Osemnásť (15%) respondentov pracuje v zdravotníctve
+11 – 15 rokov, jedenásť (9%) respondentov má prax 6 – 10 rokov, osem (6%) respondentov
+pracuje 1 – 5 rokov.
+
+57
+
+Tabuľka 26 Dĺžka praxe s konceptom bazálnej stimulácie
+Ako dlho pracujete s konceptom bazálnej stimulácie?
+
+R (n)
+
+%
+
+Menej ako rok
+
+29
+
+23%
+
+1 - 3 roky
+
+73
+
+59%
+
+Viac ako 3 roky
+
+21
+
+17%
+
+Nepracujem s konceptom
+
+1
+
+1%
+
+124
+
+100%
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+Sedemdesiattri (59%) respondentov pracuje s konceptom bazálnej stimulácie 1 – 3 roky,
+dvadsaťdeväť (23%) respondentov pracuje s týmto konceptom menej ako rok.
+Dvadsaťjeden (17%) respondentov pracuje s konceptom bazálnej stimulácie viac ako 3
+roky. K možnosti nepracujem s konceptom sa nevyjadril jeden (1%) respondent.
+
+3.2 Vyhodnotenie hypotéz
+H1 Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+najčastejšie využívaných technikách konceptu ovplyvňujúcich stav klienta v súvislosti s
+dĺžkou praxe sestier.
+
+Tabuľka 27 Pozorované hodnoty vzťahu vo vyjadreniach sestier o najčastejšie
+využívaných technikách konceptu bazálnej stimulácie v závislosti od dĺžky praxe.
+pozorované hodnoty
+Techniky konceptu bazálnej
+stimulácie využívané v praxi
+
+Dĺžka praxe
+1-5
+rok
+ov
+
+6-1
+0
+rok
+ov
+
+1115
+rok
+ov
+
+1620
+rok
+ov
+
+viac
+ako
+20
+roko
+v
+
+Spol
+u
+
+11. Najčastejšie využívané techníky
+u klientov v bezvedomí
+
+df = 16
+
+Muzikoterapia
+
+4
+
+2
+
+8
+
+16
+
+12
+
+42 x2 = 34,15473
+
+Masáže
+
+0
+
+2
+
+5
+
+15
+
+5
+
+27
+
+Polohovanie
+
+1
+
+3
+
+4
+
+10
+
+21
+
+39
+
+Kúpele
+
+2
+
+1
+
+1
+
+4
+
+0
+
+8 p = 0,005178
+58
+
+Používanie vôní, používanie chutí
+
+1
+
+3
+
+0
+
+3
+
+1
+
+8
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+124
+
+12. Techniky zlepšujúce stav
+klientov
+Muzikoterapia
+
+1
+
+4
+
+5
+
+8
+
+11
+
+29 x2 = 20,12298
+
+Masáže
+
+1
+
+2
+
+3
+
+11
+
+4
+
+21
+
+Polohovanie
+
+0
+
+0
+
+3
+
+18
+
+17
+
+38
+
+Kúpele
+
+1
+
+2
+
+0
+
+5
+
+5
+
+13
+
+Vône
+
+0
+
+0
+
+1
+
+1
+
+0
+
+2
+
+Kontaktné dýchanie
+
+5
+
+3
+
+6
+
+5
+
+2
+
+21
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+124
+
+df = 20
+
+p = 0,009116
+
+(Zdroj: vlastné spracovanie)
+
+Na overenie tejto hypotézy sme premennú dĺžku praxe dali do kauzálneho vzťahu
+s položkou dotazníka, ktorá reprezentuje vyjadrenia sestier o najčastejšie využívaných
+technikách konceptu bazálnej stimulácie. Vzhľadom na to, že ide o porovnanie jednej
+premennej dĺžky praxe s viacerými premennými vyjadrujúcimi vyjadrenia sestier
+o najčastejšie využívaných technikách konceptu bazálnej stimulácie, na overenie hypotézy
+sme stanovili 2 štatistické subhypotézy. Na základe výsledkov tvrdíme, že sme v prvej
+subhypotéze zistili štatisticky významný vzťah, pretože p hodnota je p = 0,005178, ktorá
+je nižšia ako hladina významnosti 0,05 a týka sa najčastejšie využívaných techník u
+klientov v bezvedomí a p hodnoty p = 0,009116 druhej subhypotézy týkajúcej sa techník
+zlepšujúcich stav, ktorá je taktiež nižšia ako hladina významnosti 0,05 z čoho vyplýva, že
+existuje signifikantná súvislosť medzi vyjadrením sestier o najčastejšie využívaných
+technikách a ich vplyve na stav klienta a dĺžkou praxe.
+
+Záver 1. hypotézy: Medzi vyjadrením sestier o najčastejšie využívaných technikách
+ovplyvňujúcich stav klienta a dĺžkou praxe existuje signifikantný vzťah.
+
+59
+
+H2 Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+prínose konceptu bazálnej stimulácie v súvislosti s dĺžkou praxe sestier.
+
+Tabuľka 28 Pozorované hodnoty vzťahu vo vyjadreniach sestier k prínosu konceptu
+bazálnej stimulácie a dĺžkou praxe
+pozorované hodnoty
+
+Prínos konceptu bazálnej stimulácie
+
+Dĺžka praxe
+1-5
+rok
+ov
+
+6-10 11-1
+5
+roko
+roko
+v
+v
+
+1620
+rok
+ov
+
+viac
+ako
+20
+roko
+v
+
+Spol
+u
+
+2. Využívanie konceptu bazálnej
+stimulácie na oddeleniach
+
+df = 4
+
+Áno
+
+6
+
+11
+
+18
+
+48
+
+39
+
+Nie
+
+2
+
+0
+
+0
+
+0
+
+0
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+122 x2 =
+29,4754
+2 p=
+124 6,258E-6
+
+3. Dôležitosť využívania konceptu
+bazálnej stimulácie
+Áno
+
+df = 4
+
+5
+
+10
+
+18
+
+48
+
+38
+
+Nie
+
+3
+
+1
+
+0
+
+0
+
+1
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+x2 =
+119 26,87407
+5 p=
+124 2,11E-05
+
+6. Názor respondentov o pozitívnom
+vplyve konceptu na klientov
+
+df = 8
+
+Áno
+
+5
+
+8
+
+18
+
+48
+
+39
+
+Nie
+
+2
+
+3
+
+0
+
+0
+
+0
+
+Neviem, nemám skúsenosť
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+118 x2 =
+42,1909
+5
+p=
+1
+5,871E-07
+124
+
+7. Prínos bazálnej stimulácie u
+klientov
+
+df = 16
+
+Zlepšenie komunikácie, pacient
+reaguje na oslovenie
+
+1
+
+1
+
+2
+
+6
+
+2
+
+12
+
+Zlepšenie vnímania
+
+1
+
+2
+
+8
+
+12
+
+2
+
+Zlepšenie mobility, zníženie spasticity
+
+4
+
+3
+
+8
+
+27
+
+33
+
+25 x2 =
+43,1747
+75
+60
+
+Zníženie podávania psychofarmák
+
+2
+
+4
+
+0
+
+3
+
+2
+
+11
+
+Nevšimla som si žiaden prínos
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+124
+
+10. Používanie konceptu v praxi
+znamená pre respondentov
+
+p = 6E-143
+df = 12
+
+Možnosť kreativity a sebarealizácie
+
+4
+
+0
+
+0
+
+0
+
+0
+
+Zvýšenie empatie voči klientom a
+schopnosť vnímať potreby druhého
+
+4 x2 =
+100,063
+
+3
+
+8
+
+2
+
+8
+
+1
+
+22
+
+Poskytovanie kvalitnej ošetrovateľskej
+starostlivosti
+
+1
+
+3
+
+15
+
+40
+
+38
+
+97
+
+Iba povinnosť
+
+0
+
+0
+
+1
+
+0
+
+0
+
+Spolu
+
+8
+
+11
+
+18
+
+48
+
+39
+
+1 p=
+124 5,409E-16
+
+(Zdroj: vlastné spracovanie)
+
+Druhá hypotéza bola testovaná na základe piatich položiek pri zvolenej hladine
+významnosti 0,05, kde sme si podľa tabuľky stanovili kritickú hodnotu Pearsonovho Chíkvadrátu. Môžeme konštatovať, že hypotéza sa nám na základe výsledkov z tabuľky 28
+pozorovaných hodnôt potvrdila. Na základe výsledkov tvrdíme, že sme v tejto hypotéze
+zistili štatisticky významný vzťah. P hodnota p = 6,258E-6 prvej subhypotézy týkajúcej sa
+využívania konceptu bazálnej stimulácie na oddeleniach je nižšia ako hladina významnosti
+0,05. Druhá subhypotéza týkajúca sa dôležitosti využívania konceptu bazálnej stimulácie
+má p-hodnotu p = 2,11E-05 nižšiu ako hladina významnosti 0,05. Tretia subhypotéza,
+ktorá sa zameriava na názor respondentov o pozitívnom vplyve konceptu na klienta má phodnotu p = 5,871E-07 nižšiu ako hladina významnosti 0,05. Štvrtá subhypotéza sa týkala
+prínosu bazálnej stimulácie u klientov s p-hodnotou p = 6E-143 nižšou ako hladina
+významnosti 0,05. Posledná subhypotéza týkajúca sa názoru repsondneotv čo pre nich
+používanie konceptu bazálnej stimulácie znamená má p-hodnotu p = 5,409E-16 nižšiu ako
+hladina významnosti 0,05. To znamená, že existuje signifikantná súvislosť vo vyjadreniach
+sestier o prínose konceptu bazálnej stimulácie a dĺžkou praxe.
+
+Záver 2. hypotézy: Vo vyjadreniach sestier o prínose konceptu bazálnej stimulácie
+existuje štatisticky významný vzťah v závislosti od dĺžky praxe.
+
+61
+
+H3 Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+potrebe zapájania rodiny do konceptu bazálnej stimulácie v závislosti s typom oddelenia na
+ktorom pracujú.
+
+Tabuľka 29 Pozorované hodnoty vzťahu vo vyjadreniach sestier o potrebe zapájania
+rodiny do konceptu bazálnej stimulácie v závislosti od typu oddelenia na ktorom pracujú.
+pozorované hodnoty
+Zapájanie rodiny do konceptu bazálnej
+stimulácie
+
+Typ oddelenia
+A
+R
+O/
+JIS
+
+Inte
+rné Ger
+odd iatri
+ele
+a
+nie
+
+Iné
+
+Spol
+u
+
+5. Zapájanie rodiny do konceptu bazálnej
+stimulácie pri ošetrovaní pacienta
+
+df = 3
+
+75
+
+13
+
+12
+
+12
+
+x2 =
+112 19,66085
+
+Nie
+
+1
+
+2
+
+3
+
+6
+
+12
+
+Spolu
+
+76
+
+15
+
+15
+
+18
+
+124
+
+Áno
+
+8. Spolupráca s rodinou pri zisťovaní
+anamnézy
+Áno
+
+p = 0,0002
+df = 3
+
+76
+
+10
+
+15
+
+17
+
+Nie
+
+0
+
+5
+
+0
+
+1
+
+Spolu
+
+76
+
+15
+
+15
+
+18
+
+x2 =
+118 31,0973
+6 p=
+124 8,11E-07
+
+16. Techniky bazálnej stimulácie využívajúce
+rodinou
+
+df = 9
+
+10
+
+6
+
+2
+
+2
+
+x2 =
+20 29,49255
+
+Osobné veci klienta
+
+12
+
+4
+
+7
+
+9
+
+32
+
+Dotyk
+
+46
+
+2
+
+4
+
+3
+
+Hlas nahrávky
+
+8
+
+3
+
+2
+
+4
+
+55 p =
+17 0,000535
+
+Spolu
+
+76
+
+15
+
+15
+
+18
+
+124
+
+Hudba
+
+(Zdroj: vlastné spracovanie)
+
+62
+
+Na overenie tretej hypotézy sme použili taktiež výpočet chi kvadrát testu, príslušnej
+testovacej štatistiky a p-hodnoty testu. Hypotézu sme testovali taktiež na základe troch
+položiek týkajúcich sa názoru sestier o potrebe zapájania rodiny do konceptu bazálnej
+stimulácie v závislosti od typu oddelenia na ktorom pracujú. Na overenie hypotézy sme
+stanovili 3 štatistické subhypotézy. Na základe p-hodnoty p = 0,0002, ktorá je nižšia ako
+hladina významnosti 0,05 a týka sa názoru sestier o potrebe zapájania rodiny do konceptu
+bazálnej stimulácie pri ošetrovaní pacienta a phodnoty p = 8,11E-07 druhej subhypotézy
+týkajúcej sa spolupráce rodiny pri zisťovaní, ktorá je taktiež nižšia ako hladina
+významnosti 0,05 a p-hodnoty p = 0,000535 tretej subhypotézy, ktorá sa týka techník
+bazálnej stimulácie ktoré najčastejšie využíva rodiny pri ošetrovaní, ktorá je nižšia ako
+hladina významnosti 0,05 sme zistili štatisticky významný vzťah medzi názormi sestier o
+potrebe zapájania rodiny do konceptu bazálnej stimulácie pri ošetrovaní a typom oddelenia
+na ktorom pracujú.
+
+Záver 3. hypotézy: Vo vyjadreniach sestier o potrebe zapájania rodiny do konceptu
+bazálnej stimulácie pri ošetrovaní existuje štatisticky významný vzťah v závislosti od
+oddelenia na ktorom pracujú.
+
+H4 Predpokladáme, že existuje štatisticky významný vzťah vo vyjadreniach sestier o
+efektívnosti používania konceptu bazálnej stimulácie v ošetrovateľskom procese v
+závislosti od dĺžky praxe s bazálnou strimuláciou
+
+Tabuľka 30 Pozorované hodnoty vzťahu vo vyjadreniach sestier o efektívnosti konceptu
+bazálnej stimulácie v ošetrovateľskom procese a dĺžkou praxe s bazálnou stimuláciou
+pozorované hodnoty
+
+Efektívnosť používania konceptu bazálnej
+stimulácie
+
+Dĺžka praxe s bazálnou
+stimuláciou
+M
+Via
+en
+1c
+ej
+3
+ako
+ak
+o ro 3
+ro ky rok
+y
+k
+
+Nep
+racu
+jem
+s
+konc
+epto
+m
+
+Spol
+u
+
+63
+
+3. Dôležitosť využívania konceptu bazálnej
+stimulácie
+
+df =
+
+Áno
+
+2
+6
+
+7
+2
+
+17
+
+0
+
+Nie
+
+3
+
+1
+
+4
+
+1
+
+Spolu
+
+2
+9
+
+7
+3
+
+21
+
+1
+
+x2 =
+115 21,2845
+8
+9 p=
+9,19E-0
+124 5
+
+6. Názor respondentov o pozitívnom vplyve na
+klientov
+
+df =
+
+Áno
+
+2
+6
+
+7
+1
+
+21
+
+0
+
+Nie
+
+3
+
+2
+
+0
+
+0
+
+Neviem, nemám skúsenosť
+
+0 0
+
+0
+
+1
+
+Spolu
+
+2 7
+9 3
+
+21
+
+1
+
+x2 =
+118 5,18492
+4
+5
+1 p=
+3,1E-25
+124
+
+21. Prekážky, kvôli ktorým sa nepracuje s
+konceptom bazálnej stimulácie
+
+df =
+
+Nedostatok informácií o koncepte
+
+2
+3 6
+
+5
+
+0
+
+Nedostatok záujmu zo strany sestier
+
+1
+0 4
+
+x2 =
+34 40,8368
+7
+
+9
+
+1
+
+24
+
+Nedostatočná podpora zo zamestnávateľov
+
+1
+5 5
+
+1
+
+0
+
+21
+
+Neochota spolupracovníkov
+
+4 3
+
+5
+
+0
+
+Nedostatok kurzov
+
+2
+7 5
+
+p=
+12 5,21E-0
+5
+
+1
+
+0
+
+33
+
+Spolu
+
+2
+9
+
+21
+
+1
+
+124
+
+7
+3
+
+22. Názor respondentov na negatívny efekt
+konceptu na stav klienta
+
+df =
+
+Áno
+
+6 2
+
+Nie
+
+2 7
+3 0
+
+21
+
+0
+
+Iné
+
+0 1
+
+0
+
+1
+
+0
+
+0
+
+8
+x2 =
+8981,75
+114
+5
+2
+
+64
+
+2 7
+9 3
+
+Spolu
+(Zdroj: vlastné spracovanie)
+
+21
+
+1
+
+p=
+124 4,56E-1
+4
+
+Štvrtá hypotéza bola testovaná na základe štyroch položiek pri zvolenej hladine
+významnosti 0,05, kde sme si podľa tabuľky stanovili kritickú hodnotu Pearsonovho Chíkvadrátu. Môžeme konštatovať, že hypotéza sa nám na základe výsledkov z tabuľky 30
+pozorovaných hodnôt potvrdila. Na základe výsledkov tvrdíme, že sme v tejto hypotéze
+zistili štatisticky významný vzťah. p hodnota p = 9,19E-05 prvej subhypotézy týkajúcej sa
+dôležitosti využívania konceptu bazálnej stimulácie je nižšia ako hladina významnosti
+0,05. Druhá subhypotéza týkajúca sa názoru respondentov o pozitívnom vplyve konceptu
+na klientov má p-hodnotu
+
+p = 3,1E-25 nižšiu ako hladina významnosti 0,05. Tretia
+
+subhypotéza, ktorá sa zameriava na prekážky kvôli ktorým sa nepracuje s konceptom
+bazálnej stimulácie má p-hodnotu p = 5,21E-05 nižšiu ako hladina významnosti 0,05.
+Posledná subhypotéza týkajúca sa názoru respondentov na negatívny efekt koncdeptu na
+stav klienta má p-hodnotu p = 4,56E-14 nižšiu ako hladina významnosti 0,05. To znamená,
+že existuje signifikantná súvislosť vo vyjadreniach sestier o efektívnosti konceptu bazálnej
+stimulácie v ošetrovateľskom procese a dĺžkou praxe s bazálnou stimuláciou
+
+Záver 4. hypotézy: Vo vyjadreniach sestier o efektívnosti konceptu bazálnej
+stimulácie v ošetrovateľskom procese existuje štatisticky významný vzťah v závislosti
+od dĺžky praxe s bazálnou stimuláciou
+
+H5 Predpokladáme, že existuje štatisticky významný vzťah vo vyjdreniach sestier o
+aplikácii konceptu bazálnej stimulácie v ošetrovateľskom procese v súvislosti s
+dosiahnutým vzdelaním
+
+Tabuľka 31 Pozorované hodnoty vzťahu vo vyjadreniach sestier o aplikácii konceptu
+bazálnej stimulácie v ošetrovateľskom procese a vzdelaním
+pozorované hodnoty
+
+Vzdelanie
+
+65
+
+Aplikácia konceptu bazálnej stimulácie v
+ošetrovateľskom procese
+
+Str
+ed
+oš
+ko
+lsk
+és
+ma
+tur
+ito
+u
+V
+
+Vys
+oko
+ško
+lsk
+é
+vzd
+ela
+nie
+1.
+stu
+pňa
+
+Vys
+oko
+ško
+lsk
+é
+vzd
+ela
+nie
+2.
+stu
+pňa
+
+Špe
+cial
+izá
+cia
+v
+odb
+ore
+
+Spol
+u
+
+2. Využívanie konceptu bazálnej stimulácie na
+oddeleniach
+
+df = 3
+
+Áno
+
+2
+8 18 44 32
+
+Nie
+
+0
+
+Spolu
+
+2 20 44 32
+8
+
+4. Využívanie konceptu bazálnej stimulácie celým
+tímom
+
+2
+
+0
+
+0
+
+x2 =
+10,5704
+9
+2 p=
+124 0,01429
+
+122
+
+df = 3
+
+Áno
+
+2
+0 17 43 29
+
+Nie
+
+8
+
+Spolu
+
+2
+8 20 44 32
+
+3
+
+1
+
+3
+
+x2 =
+109 11,5218
+9
+15 p =
+0,00921
+124 4
+
+15. Využitie bazálnej stimulácie v zariadeniach kde
+sa nepoužíva
+
+df = 6
+
+Áno
+
+2
+0 20 44 31
+
+Nie
+
+1
+
+0
+
+0
+
+0
+
+Neviem
+
+7
+
+0
+
+0
+
+1
+
+Spolu
+
+2 20 44 32
+8
+
+x2 =
+115 24,8318
+9
+1
+p=
+8 0,00036
+9
+124
+
+21. Prekážky, kvôli ktorým sa nepracuje s
+konceptom bazálnej stimulácie
+
+df = 12
+
+Nedostatok informácií o koncepte
+
+1
+0
+
+3
+
+Nedostatok záujmu zo strany sestier
+
+1
+
+6 15
+
+2
+
+Nedostatočná podpora zo zamestnávateľov
+
+8
+
+6
+
+5
+
+2
+
+34 x2 =
+36,2221
+24
+3
+21
+
+Neochota spolupracovníkov
+
+2
+
+4
+
+5
+
+1
+
+12
+
+Nedostatok kurzov
+
+7
+
+1 10 15
+
+33
+
+9 12
+
+66
+
+Spolu
+
+2
+8 20 44 32
+
+(Zdroj: vlastné spracovanie)
+
+p=
+124 0,00029
+8
+
+Piatu hypotézu sme testovali na základe štyroch položiek týkajúcich sa vyjadrení sestier o
+aplikácii konceptu bazálnej stimulácie v ošetrovateľskom procese v závislosti od
+vzdelania. Prvá subhypotéza týkajúca sa využívania konceptu bazálnej stimulácie na
+oddeleniach, má p-hodnotu p = 0,01429, ktorá je nižšia ako hladina významnosti 0,05.
+Druhá subhypotéza týkajúca sa využívania konceptu bazálnej stimulácie celým tímom má
+phodnotu p = 0,009214 , ktorá je taktiež nižšia ako hladina významnosti 0,05. Tretia
+subhypotéza, ktorá sa týka využitia konceptu bazálnej stimulácie v zariadeniach kde sa
+nepoužíva má p-hodnotu p = 0,000369, ktorá je nižšia ako hladina významnosti 0,05.
+Štvrtá subhypotéza sa zameriavala na prekážky, ktoré bránia v aplikácii koncepu bazálnej
+stimulácie do ošetrovateľského procesu s p hodnotou p = 0,000298, ktorá je nižšia ako
+hladina významnosti 0,05. Zo všetkých skúmaných premenných sme zistili štatisticky
+významný vzťah vo vyjadreniach sestier o aplikácii konceptu bazálnej stimulácie do
+ošetrovateľského procesu v závislosti od vzdelania sestier.
+
+Záver 5. hypotézy: Vo vyjadreniach sestier o potrebe aplikácie konceptu bazálnej
+stimulácie do ošetrovateľského procesu existuje štatisticky významný vzťah
+v závislosti od vzdelania.
+
+67
+
+4 DISKUSIA
+V našej diplomovej práci sme sa venovali prínosom bazálnej stimulácie u pacientov
+v kóme. Cieľom práce bolo zistiť ako je vnímaný koncept bazálnej stimulácie sestrami,
+jeho využívanie v praxi, aké techniky sú najviac používané sestrami a ako sestry odhadujú
+prínos konceptu pre klienta. Výsledky sme porovnali s výsledkami iných prác, ktoré sa
+venovali danej problematike.
+Odpovede sme podrobili analýze z údajov, ktoré sme zistili od sestier pracujúcich s
+klientami, ktorí majú poruchu vedomia. Dotazníky boli distribuované v Nemocnici Agel
+Košice - Šaca, v Kardiocentre Agel v Košiciach a v Arcuse - Košice, po ich schválení
+spoločnosťou. Celkovo bolo rozposlaných 140 dotazníkov. Riadne vyplnených sa vrátilo
+124. Návratnosť bola 88,57 %.
+Sestry vo veku 33 - 43 rokov majú najväčšie zastúpenie v počte 41 sestier (33%),
+nasledujú sestry vo vekovej kategórii 44 - 54 rokov (30 %), vo veku 55 a viac rokov tvorí
+28 sestier (22 %) a najnižšiu kategóriu tvoria sestry vo veku 22 - 32 rokov (15 %).
+Najpočetnejšiu skupinu tvorili sestry s praxou 16 - 20 rokov, 48 sestier (39%), s praxou
+viac ako 20 rokov bolo zastúpených 39 sestier (31%), nasledujú sestry s praxou 11 - 15
+rokov (15 %) a najmenej bolo sestrier s praxou 6 - 10 rokov (9 %) a 1 - 5 rokov (6%).
+Najvyššie zastúpenie majú sestry s vysokoškolským vzdelaním 2.stupňa, 44 sestier (35%),
+nasledujú sestry so stredoškolským vzdelaním s maturitou, 28 sestier (23%), najnižšie
+zastúpenie bolo sestrami s vysokoškolským vzdelaním 1.stupňa,
+
+20 sestier (16%),
+
+špecializáciu v odbore uviedlo 32 sestier (26%).
+V empirickej časti sme sa zaujímali o to, aké techniky sú najviac využívané sestrami. K
+tejto otázke sa nám viažu dotazníkové otázky č.9,11,13,16,17. Respondenti mohli označiť
+aj viac odpovedí. Otázky boli zamerané na to, aby sme zistili, čo sestry využívajú
+najčastejšie a s čím pracujú v praxi. Iniciálny dotyk patrí medzi veľmi dôležitý prvok pri
+používaní konceptu. Dôležitý je z hľadiska toho, že ak sú dotyky nečakané a necielené
+vyvolávajú u klientov pocity strachu, neistoty, klienti sa boja. Spôsob ako sa dotýkame a
+ako dovolíme svojmu okoliu, aby sa nás dotýkalo súvisí s našimi skúsenosťami a
+zážitkami. Z tohto dôvodu je dôležité, ak dáme najavo, kedy a kde končí naša prítomnosť a
+naša činnosť u klienta. Ide o cielený dotyk. Zistili sme, že tento dotyk je sestrami
+68
+
+využívaný na 93%. Nie je využívaný v 7%. Túto odpoveď sme porovnali s prieskumom v
+diplomovej práci Hrčkovej, 2014, ktorá uvádza vo svojich výsledkoch, používanie
+iniciálneho dotyku u 9,13% respondentov, odpoveď nie uviedlo 55% a 36% sa vyjadrilo,
+že nevie čo to znamená iniciálny dotyk. Telenická (2013) uvádza vo svojom prieskume
+používanie dotyku iba v 5%. Avšak v prieskume Kazíkovej (2013) vyplynulo, že dotyk
+používa 82% sestier a považujú ho za najdôležitejšiu súčasť konceptu. Tým, že koncept
+bazálnej stimulácie nebol a stále nie je u nás veľmi využívaný a sestry nemajú absolvované
+školenia môžme predpokladať, že v minulosti práve kôli nedostatočným vedomostiam o
+koncepte nebol dotyk používaný. V súčasnosti je množstvo informácií a prebiehajú
+školenia a kurzy, predpokladáme, že sestry sa dostanú do kontaktu a stretnú sa
+
+s
+
+konceptom, sú dostatočne informované o dôležitosti jednotlivých prvkov. Postupom času
+sa zvýšilo povedomie o nutnosti zakomponovať do starostlivosti iniciálny dotyk, než v
+minulosti. Z výsledkov je zrejmé, že si tento prvok sestry osvojili a používajú ho v praxi,
+čo je pre klientov veľmi prínosné a žiadúce, aby neboli vystavení strachu a neistote.
+Ako najviac využívanú techniku sestry označili somatickú stimuláciu. Táto technika je
+najviac využívaná v praxi sestrami u klientov v bezvedomí v nemocnici vo Viedni, čo je
+prezentované v práci Martinkovej (2010, s.117). V zahraničí sa s týmto konceptom pracuje
+takmer vo všetkých zariadeniach. Túto možnosť označilo 100% sestier. So somatickej
+stimulácie sa najviac využíva dotyk (100%), stimulácia ukľudňujúca (87%),
+povzbudzujúca (77%). Sestry využívajú v praxi aj kontaktné dýchanie, 41%. Ku
+komplexnej ošetrovateľskej starostlivosti patrí hygienická starostlivosť s využívaním
+somatickej stimulácie. Dochádza pri nej k pôsobeniu na kožu a tým na receptory dotyku,
+chladu, tepla, bolesti. Ďalším najvyužívanejším prvkom so somatickej stimulácie je
+polohovanie, poloha hniezdo, ktoré označilo 77 % sestier a poloha mumio, ktorú označilo
+43%sestier. Polohovanie je dôležité z hľadiska vnímania vlastného tela. K strate vnímania
+vlastného tela dochádza, ak ležíme na mäkkej podložke, hlavne mäkké matrace. Už
+minimálne zmeny polohy prostredníctvom zrolovaných uterákov, prestieradiel,
+polohovacích pomôcok podporia vnímanie svojho tela. Tým, že človek nevníma sám seba
+a okolie dochádza k poruche orientácie na vlastnom tele a okolí a človek sa nastaví na
+jednotvárnosť. Menej sa cíti a stráca telesnú a psychickú orientáciu. Personál tak nájde
+úplne nečinného klienta, ktorý vyzerá, že nekomunikuje a nechce viac žiť. Alebo naopak,
+
+69
+
+snaží sa tento stav prerušiť a je zmätený a autoagresivný. Polohovaním umocníme
+stabilizáciu vlastného telesného vnímania po predchádzajúcej somatickej stimulácii, napr.
+po kúpeli. V praxi sa najviac využívajú polohy mumio a hniezdo. Tieto dve polohy
+predstavujú pre klientov veľmi výraznú somatickú stimuláciu. Tieto výsledky sa líšia s
+výsledkami v diplomovej práci Sikorovej (2015) , kde označilo polohu hniezdo 20 %
+sestier, polohu mumio 6%, upokojujúcu stimuláciu uviedlo 15 % sestier a povzbudzujúcu
+stimuláciu 15 % sestier. Kontaktné dýchanie označilo 9% sestier. V prieskume Telenickej
+(2013) polohovanie využíva 93% sestier, masáž stimulujúcu dýchanie uviedlo až 82%
+sestier. Kúpeľ označilo 80% sestier.
+Pri taktilne - haptickej stimulácii sestry uviedli najviac využívané predmety z denného
+bežného života, túto možnosť označilo 100% sestier. Ak sú klienti nepokojní, ťahajú
+katétre, ruky majú veľmi aktívne, klopkajú o bočnice, matrac, ťahajú podložky, posteľné
+prádlo… je to najčastejšie z dôvodu, aby identifikovali predmet, ktorí nahmatali,
+uspokojujú potrebu aktivity. Tieto situácie nastávajú z nedostatku taktilne - haptickej
+stimulácie a nedostatku vlastnej aktivity. Snažia sa tieto predmety niekam zaradiť, ale
+vyvolávajú v nich pocit neistoty. Ruka spolu s ústami je najaktívnejšou časťou tela a z
+tohto dôvodu je táto stimulácia veľmi významná. V prieskume Sikorovej z roku 2015 sa
+uvádzajú ako najviac používané, predmety z denného života (37%), predmety zo záľub
+uvádza v 20% a predmety používané pri povolaní označilo 9% sestier. Môžme vidieť, že v
+porovnaní s rokom 2015, sestry začali vo väčšej miere používať pomôcky, ktoré sú známe
+zo života klienta. Je to pre neho veľmi doležité a podstatné, aby mal vo svojej blízkosti
+predmety ktoré pozná a sú mu známe.
+Zaujímalo nás aj to, čo najčastejšie používa rodina klienta a na koľko je zapájaná do
+konceptu. Tým, že je potrebné, aby sa na starostlivosti podieľala aj rodina, je dôležité, aby
+spolupracovala spolu s ošetrovateľským tímom. Prieskumom sme zistili, že 94% sestier
+zapája rodinných príslušníkov do starostlivosti. Ako najčastejšie uviedli sestry, že
+rodinnými príslušníkmi je využívaný najviac dotyk, (44%), nasledujú osobné veci klienta
+(26%), ako najmenej používané uviedli nahrávky (14%) . Naše zistenia sa líšia od zistení
+Hrčkovej, ktorá vo svojom prieskume z roku 2014 uvádza, že do konceptu príbuzných
+zapája 38 % sestier a 62% označilo, že príbuzných do konceptu nezapájajú.
+
+70
+
+V druhej otázke nás zaujímalo aké majú sestry skúsenosti o prínosoch konceptu bazálnej
+stimulácie. K tejto otázke sa nám viažu dotazníkové otázky č. 6, 7, 14, 15.
+Sestry nám jednoznačne odpovedali, že tento koncept má pozitívny vplyv na klientov.
+Tento názor zdieľa 95% sestier. 5% uviedlo, že nemajú skúsenosti s pozitívnym vplyvom
+na klientov. Za najväčší prínos sestry pokladajú zlepšenie mobility u chorých, 60% sestier,
+20% sestier uviedlo zlepšenie vnímania. Zlepšenie komunikácie, reakcie na oslovenie
+uviedlo iba 10% sestier. Telenická (2013) vo svojej práci uviedla ako najväčší prínos
+zlepšenie mobility 28%. Vargová uvádza vo svojom prieskume z roku 2015 prospešnosť
+konceptu od 85% sestier, 15% sestier sa nevedelo vyjadriť. Kličková (2007) uvádza vo
+svojom výskume 86% ako prínos konceptu z pohľadu sestier. Podľa 97% sestier by sa mal
+tento koncept zaviesť aj do zariadení, kde sa nepoužíva. Môžme predpokladať, že v
+porovnaní z predchádzajúcimi rokmi táto metóda starostlivosti sa začína dostávať do
+popredia a vidieť aj záujem sestier o túto problematiku a jej aplikáciu v praxi. Hrčková vo
+svojej práci z roku 2014 uvádza, že je nezáujem o koncept v 9% . Ako príčinu
+nevyužívania konceptu uvádza nedostatok vedomostí v 38% a málo vyškoleného
+personálu, 34%. Kazíková (2013) uviedla vo svojej práci dôvod odmietania konceptu v
+42% nedostatok času, v 20% málo personálu a v 11% málo vedomostí. Kličková (2007)
+uvádza v 65% nedostatočne zaučený personál a v 20% málo času. V našom prieskume čo
+je prekážkou v nevyužívaní konceptu najviac sestier označilo nedostatok informácií o
+koncepte (27%), nedostatok kurzov (26%).
+K tomu, aby bol koncept prínosný pre klienta, je nutné, aby bola zozbieraná kvalitná
+autobiografická ananmnéza. Zistili sme, že 99% sestier spolupracuje s rodinou klienta pri
+zisťovaní anamnézy. Ako najväčší prínos v zisťovaní autobiografickej anamnézy vidia to,
+že zistia návyky a zvyky klienta, 100% sestier. Lepšie spoznanie klienta označilo 95%
+sestier a ako prínos zlepšenie ošetrovateľských činností vidí 86% sestier. Výsledky sa
+odlišujú od výsledkov Hrčkovej, 2014, ktorá uvádza, že 9% sestier odoberá anamnézu a
+55% anamnézu neodoberá, 35% uviedlo, že nepozná taký termín.
+Kličková (2007) uvádza taktiež ako najväčší prínos lepšiu kvalitu vnímania a taktiež
+zlepšenie vedomia klientov. Telenická (2013) vo svojom prieskume uvádza používanie
+anamnézy u 72% sestier.
+
+71
+
+Kvalitná autobiografická anamnéza je veľmi dôležitá z pohľadu klienta, aby sme vedeli
+presne zostaviť ošetrovateľský plán, aby sme vedeli ako pristupovať ku klientovi, čo má
+rád a čo mu nerobí dobre. Zabezpečí individualizovanú starostlivosť. Znamená porozumieť
+a pochopiť klienta.
+Z výsledkov nám vyplýva, že v minulosti nebola považovaná za potrebnú a nebola
+využívaná, prípadne sestry nevedeli čo to znamená. V súčasnosti vzhľadom k
+narastajúcemu záujmu a dostatočným informáciám o koncepte sa dostáva do stále sa
+zvyšujúceho povedomia.
+V ďalšej otázke sme sa snažili zistiť ako sa zapája ošetrovateľský tím a rodina do
+konceptu. K tejto otázke sa nám viažu dotazníkové otázky č. 2, 4, 5, 8, 16. Veľmi dôležité
+pri práci s konceptom je to, aby bol používaný celým ošetrovateľským tímom a aj rodinou
+klienta. Ako prvé je nutné zistiť všetko, čo sa dá o klientovi, od príbuzných. Je potrebné
+vedieť, čo má rád, ako trávi čas, aké má záľuby, aké jedlo, pitie, hudbu, filmy má rád, aby
+sme vedeli vyhotoviť kvalitný ošetrovateľský plán a využiť ho čo najlepšie a
+najefektívnejšie v prospech klienta. Dôležité je, aby sme mu vedeli vyvolať príjemné
+spomienky a vykonávali činnosti tak, aby mu boli príjemné. Využívame pomôcky a
+predmety ktoré pozná a má k nim vzťah. Prieskumom sme zistili, že do konceptu je
+zapájaný celý ošetrovateľský tím čo uviedlo 88 % sestier, a 94% sestier uviedlo, že je
+zapájaná aj rodina do konceptu. Sestry spolupracujú s rodinou v 99% pri zisťovaní
+ananmnézy. Tieto údaje sme porovnali a sú rozdielne s prieskumom od Sikorovej (2015),
+ktorá uvádza zapojenie celého tímu v 63%, a Kličková (2007) uvádza 66% všetkých
+pracovníkov. Príbuzní sa zapájajú do konceptu podľa Kličkovej (2007) v 86%. Hrčková
+(2014) uviedla zapojenie rodinných príslušníkov v 38%, 60% sestier uviedlo, že rodinu do
+procesu nezapája.
+Vo svojej práci sme sa zaoberali aj otázkou, akú dôležitosť pripisujú sestry používaniu
+konceptu bazálnej stimulácie. S touto otázkou súvisia dotazníkové otázky č. 3, 4, 6, 10, 15.
+Zistili sme, že pre sestry je dôležité používanie konceptu, aby sa dosiahla kvalitná
+starostlivosť. Tým, že s konceptom pracuje celý ošetrovateľský tím predpokladáme, že ho
+vnímajú ako dôležitú súčasť svojej práce. Podľa 95% sestier má vďaka ich skúsenostiam
+použitie konceptu pozitívny vplyv na klientov. Pre sestry tento koncept znamená najmä
+poskytovanie kvalitnej ošetrovateľskej starostlivosti, ktoré označilo 78% sestier, zvýšenie
+
+72
+
+empatie a schopnosť vnímať potreby druhého označilo 18% sestier a možnosť kreativity a
+sebarealizácie označilo iba 3% sestier. Podľa Kličkovej (2007) koncept 86% sestier
+hodnotí kladne a so zlepšením vnímania a vedomia klientov. Telenická (2013) uvádza
+vplyv bazálnej stimulácie ako pozitívny takmer v 100%, sestry uvádzajú, že v porovnaní s
+tým, kým koncept nevyužívali vidia jednoznačne zlepšenie stavu klientov.
+Aj vďaka týmto kladným odpovediam môžme predpokladať, že sestry koncept vnímajú
+ako prínos do starostlivosti o klientov.
+V našom výskume nás zaujímalo aj to, či súvisí vzdelanie sestier s uplatňovaním konceptu
+v praxi. Na to, aby sa dal koncept využiť v praxi je potrebné preškolenie personálu.
+Vykonávajú sa kurzy Asociáciou poskytovateľov sociálnych služieb alebo Institutom
+Bazální stimulace. Nie sú potrebné žiadne prístroje a ani špeciálne pomôcky. Využívajú sa
+veci každodennej potreby zo života klienta, veci, ktoré sú mu blízke, ku ktorým má vzťah,
+ktoré pozná.
+V dotazníku nám odpovedali sestry, ktoré majú ako stredoškolské vzdelanie tak aj
+vysokoškolské vzdelanie, so špecializáciou aj bez špecializácie. Položkami, ktoré sa týkali
+vyjadrení sestier o aplikovaní konceptu bazálnej stimulácie sme zistili, že je súvislosť so
+vzdelaním sestier a uplatňovaním konceptu.
+
+4.1 Návrhy a odporúčania pre prax
+Na základe zozbieraných údajov z dotazníkového výskumu môžme usúdiť, že
+postoje sestier a skúsenosti s konceptom bazálnej stimulácie sa oproti minulosti zlepšujú.
+Avšak na Slovensku sa tento koncept stále nevyužíva a nepracuje sa s ním v množstve
+zariadení. Na základe toho môžme navrhnúť odporúčania pre prax.
+Odporúčania pre sestry:
+• Zlepšiť si vedomosti a zručnosti využívaním konceptu v praxi
+• Využívať väčšinu prvkov konceptu, aby sa čím skôr zlepšilo vnímanie a mobilita
+klientov
+• Zlepšiť komunikáciu a koordináciu v kolektíve ohľadom používania techník
+• Zaviesť záznamy o používaní konceptu a podieľať sa na výskume ohľadom konceptu
+73
+
+Odporúčania pre manažment:
+• Zabezpečiť možnosť absolvovania kurzov, školení
+• Poskytnúť platené voľno na absolvovanie kurzu
+• Uhradiť výdavky ktoré sú spojené s absolvovaním kurzu
+• Zabezpečiť dostatok personálu
+• Motivovať personál, aby mal záujem vzdelávať sa a chcel uviesť do praxe tento koncept
+• Zapájať celý tím a príbuzných klienta
+• Umožniť personálu sebarealizáciu a dať možnosť uplatňovania jednotlivých prvkov
+
+Aplikáciou našich odporúčaní do praxe sa zabezpečí lepšie využívanie konceptu v
+zariadeniach. Sestry budú môcť zvýšiť, skvalitniť a zefektívniť komplexnú ošetrovateľskú
+starostlivosť. Chorým sa zabezpečí zlepšenie vnímania, mobility a rýchlejšie zotavenie z
+ochorení. Autobiografiou docielime to, aby sa k chorému pristupovalo s citom a v rámci
+toho, čo mu je príjemné a pri starostlivosti budú používané pomôcky, ktoré poznajú a majú
+k nim vzťah.
+
+74
+
+ZÁVER
+V diplomovej práci sme sa venovali problematike konceptu bazálnej stimulácie u
+pacientov v bezvedomí.
+Klienti, ktorí mjú poruchu vedomia sú plne odkázaní na starostlivosť iných ľudí. Majú
+zmenené vnímanie, nevedia čo sa s nimi deje, nemajú orientáciu a mobilitu.
+Analýzou údajov a porovnávaním s údajmi z predchádzajúcich prieskumov sme zistili, že
+koncept a jeho jednotlivé prvky sú stále viac využívané než v predchádzajúcich rokoch.
+Sestry, ktoré pracujú s konceptom ho vnímajú ako prínosný, prospešný a pozitívny pre
+chorých. Stále sú však na Slovensku zariadenia, kde sa s konceptom nepracujú, nevyužíva
+sa, prípadne málo sa s ním pracuje. Potvrdilo sa nám to, že stále viac prvkov sa používa,
+sestry tento spôsob starostlivosti vidia ako skvalitnenie starostlivosti. Vo svojej praxi
+používajú stále viac možností ako koncept aplikovať do praxe. Stále však ešte niektoré nie
+sú zaužívané a niektoré sú využívané veľmi málo. Používaním tejto techniky si chorí ľudia
+začnú uvedomovať svoje potreby. Znižuje sa závislosť pacientov, zlepšuje sa pohyblivosť,
+komunikácia a aj vnímanie. Je veľmi prínosnou a vhodnou metódou u pacientov v
+bezvedomí, na umelej pľúcnej ventilácii, u hemiplegických chorých a v akejkoľvek
+vekovej kategórii.
+Aj keď nie je isté, že sa pacienti úplne uzdravia, istotou ostáva ich zlepšenie kvality života,
+poskytneme im pocit ľudskej blízkosti a lepšie sociálne začlenenie. Dôležité je, aby sme sa
+pozerali na každého chorého v bezvedomí, s apalickým syndrómom, Alzheimerom alebo
+akýmkoľvek iným postihnutím ako na osobu, ktorá je schopná cítiť, vníma a reaguje a keď
+budeme vedieť použiť vhodnú formu komunikácie môžme zistiť ich stav vnímania a
+vedomia. Musíme sa však prispôsobiť komunikačnej úrovni pacienta. Tým, že pacienti v
+kóme sú závislí na podpore personálu a príbuzných nesmieme podceňovať ich vnímanie a
+uvedomovanie. Ak nereagujeme alebo nesprávne reagujeme, ignorujeme ich telesné
+signály a reakcie, majú títo ľudia len malú šancu na zlepšenie stavu alebo dôstojné
+umieranie. Preto je dôležité a je to len na nás, aby sme sa čo najskôr pokúsili o nadviazanie
+kontaktu aspoň cez telesné, neverbálne signály.
+
+75
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+AMBLER, Z. 2011. Základy neurologie. Praha: Galén, 2011. 351 s.
+ISBN: 978-80-7262-707-3.
+BARTUNĚK, P. - JURÁSKOVÁ, D. - HECZKOVÁ, J. - NALOS, D. 2016.
+Vybrané kapitoly z intezivní péče. Praha: Grada Publishing, a.s., 2016.
+752 s. ISBN 978-80-247-4343-1.
+BENDOVÁ, P - DOSPĚLOVÁ, L. 2016. Využitie konceptu bazálnej
+stimulácie v oblasti špeciálnej výchovnej intervencie. In 9. ročník
+Medzinárodnej konferencie vzdelávania, výskumu a inovácií, ICERI 2016
+Proceedings. Sevilla. 2016. 2189 - 2195 s. Doi:10.21125/iceri.2016.1488.
+BIENSTEIN, Ch., FROHLICH, A. 2003. Basale stimulation in der Pflege.
+Leipzig: Kallmeyersche, 2003. 250 s. ISBN 978-37-80040-01-5.
+BRAUNER, R. 2019. Možnosti rehabilitace u dětí a dospělých. Brno: NCO
+NZO, 2019. 128 s. ISBN 57-853-19.
+BUCHHOLZ, T. - SCHURENBERGER, A. - FROHLICH, A. 2008. Basale
+stimulation in der Pflege alter Menschen. Gottingen: Hogrefe, 2008. 431 s.
+ISBN 34-5685-302-5.
+CASPARIS - HATZ, M. 2020. Basale stimulation in der Akutpflege.
+Gottingen: Hogrefe. 2020. 128 s. ISBN 978-34-56960-15-9.
+DOBIÁŠ, V. 2006. Urgentná zdravotná starostlivosť. Martin: Osveta, 2006.
+160 s. ISBN 80-8063-214-6.
+DOBIÁŠ, V. 2017. 5P Prvá pomoc pre pokročilých poskytovateľov.
+Bratislava: Dixit, 2017. 302 s. ISBN 978-80-89662-24-1.
+DOSBABA, F. 2021. Rehabilitační ošetřovatelství v klinické praxi. Praha:
+Grada Publishing, a.s., 2021. 172 s. ISBN 978-80-271-4224-8.
+FÁBIANOVÁ, A. 2014. Orofaciálna a bazálna stimulácia. Havlíčkuv Brod:
+Tobiáš, 2014. 160 s. ISBN 978-80-7311-145-8.
+
+76
+
+FRIEDLOVÁ, K. 2005. Bazální stimulace pro učitele předmětu
+Ošetřovatelství 1. a 2. díl. Praha: Grada, 2005. 176 s.
+ISBN 978-80-239-6132-4.
+FRIEDLOVÁ, K. 2007. Bazální stimulace v základní ošetřovatelské péči.
+Praha: Grada Publishing, a.s., 2007. 168 s. ISBN 978-80-247-1314-4.
+FRIEDLOVÁ, K. 2010. Ošetřovatelské a terapeutické nabídky konceptu
+bazální stimulace. Sociální služby, odborný časopis APSS ČR, ročník XII,
+duben 2010, s. 18 - 19. ISSN 1803-7348.
+FRIEDLOVÁ, K. 2014. Bazální stimulace pro učitele předmětu
+ošetřovatelství. Frýdek-Mýstek: Institut Bazální stimulace s.r.o., 2014. 50 s.
+ISBN 80-239-6132-2.
+FRIEDLOVÁ, K. 2018. Bazální stimulace pro ošetřující terapeuty a logopedy
+a speciální pedagogy. Tábor: APSS ČR, 2018. 204 s.
+ISBN 978-80-907-0531-9.
+FROHLICH, A. 1998. Basale stimulation. Dusseldorf: Verlag
+Selbstbestimmtes Leben, 1998. 317 s. ISBN 978-39-100-9531-1.
+GÚTH, A. 2012. Rehabilitácia pre medicínske, pedagogické a ošetrovateľské
+odbory. Bratislava: Liečreh, 2012. 63 s. ISBN 80-88932-23-8.
+HANSEN, A. 2022. Critical care nursing perception of patient involvement in
+Care. In Nursing in critical care. s. 878-884, doi: 10.1111/nicc 12815.
+HRČKOVÁ, P. 2014. Bazálna stimulácia v intenzívnej ošetrovateľskej
+starostlivosti. Diplomová práca. Bratislava. 85 s.
+KAPOUNOVÁ, G. 2007. Ošetřovatelství v intenzivní péči. Praha: Grada
+Publishing, a.s., 2007. 352 s. ISBN 978-80-247-1830-9.
+KAZÍKOVÁ, L. 2013. Bazálna stimulácia v paliatívnej starostlivosti.
+Bakalárska práca. Nitra. 2013. 74 s.
+KLIČKOVÁ, H. 2007. Bazální stimulace v ošetřovateslé péči u nemocného
+na anesteziologicko resuscitačním oddelení. Bakalárska práca. Brno. 76 s.
+
+77
+
+KOLLÁŘ, P. 2009. Rehabilitace v klinické praxi. Praha: Galén, 2009. 713 s.
+ISBN 978-80-7262-657-1.
+KREITZER, M. - KOITHAN, M. 2018. Integrative nursing. Oxford: Oxford
+Univerzity Press, 2018. 744 s. ISBN 978-01-9085-104-0.
+KŘIVOHLAVÝ, J. 1995. Komunikace ve škole. Brno: Masarykova univerzita,
+1995. 210 s. ISBN 80-210-1070-3.
+KŘIVOHLAVÝ, J. 2002. Psychologie nemoci. Praha: Grada, 2002. 200 s.
+ISBN 80-2470-179-0.
+LIPPERTOVÁ GRUNEROVÁ, M. 2020. Multisenzorická stimulace. Praha:
+Galén, 2020. 40 s. ISBN 978-80-7492-447-7.
+LYSKOVÁ, A. Sledování významu použití techniky masáže stimulující
+dýchaní v konceptu bazální stimulace. Bakalárska práca. Ostrava:
+Ostravská univerzita, 2006. 73 s.
+MACHÁLKOVÁ, L. 2017. Kocept bazální stimulace a jeho využití v
+ošetřovatelské péči. In Interní medicína pro praxi. ISSN 1803-5256, 2017,
+19 (1): 38, s. 49 - 51.
+MORALES, R. C. 2006. Orofaciální regulační terapie. Praha: Portál, s.r.o.,
+2006. 184 s. ISBN 80-7367-105-0.
+OTRUBOVÁ, J. 2006. Bazálna stimulácia, Zborník I. Fórum onkologických
+Pacientov. Bratislava: Liga proti rakovine SR, 2006. 80 s.
+ISBN 80-89201-26-1.
+PUGGINA GEISBRECHT, A.C. 2005. The auditory perception in the patients
+In state of coma. In Acta. Doi: 10.1590/S0103-21002005000300013.
+ROKYTA, R. 2000. Fyziologie. Praha: ISV, 2000. 359 s.
+ISBN 80-85866-45-5.
+ROKYTA, R. 2015. Fyziologie a patologická fyziologie. Praha: Grada, 2015.
+712 s. ISBN 978-80-247-4867-2.
+SIKOROVÁ, L. 2015. Bazální stimulace v intenzivní péči z pohledu sestry.
+Diplomová práca. Trenčín. 127 s.
+
+78
+
+SILVA COSTA, S. - SILVEIRA MENEZES, L. 2019. Real and illusory
+perceptions of patients in induced coma. In Revista Brasileira de
+Emfermagem. Doi: 10.1590/0034-7167-2017-0906, s. 818-24.
+SLEZÁKOVÁ, Z. 2006. Neurologické ošetrovateľstvo. Martin: Osveta, 2006.
+166 s. ISBN 80-8063-218-9.
+ŠKUTCHANOVÁ, A. 2014. Súčasný pohľad na chronické poruchy vedomia.
+In Anestéziológia a intenzívna medicína. ISSN 1339-4177, 2014, s. 50-53.
+TELENICKÁ, M. 2013. Využitie bazálnej stimulácie v starostlivosti o
+geriatrických pacientov. Diplomová práca. Bratislava. 104 s.
+TOMOVÁ, Š. - KŘIVKOVÁ, J. 2016. Komunikace s pacientem v intenzivní
+péči. Praha: Grada Publishing a.s. 136 s. ISBN 978-80-271-9539-8.
+TROJAN, S. 2005. Fyziologie a léčebná rehabilitace motoriky člověka
+Praha: Grada. 240 s. ISBN 978-80-247-6618-8.
+VÁLKOVÁ, L. 2015. Rehabilitace kognitivních funkcí v ošetřovatelské praxi.
+Praha: Grada Publishing, a.s., 2015. 112 s. ISBN 978-80-247-5571-7.
+VENGLÁŘOVÁ, M. - MAHROVÁ, G. 2006. Komunikace pro zdravotní
+sestry. Praha: Grada, 2006. 144 s. ISBN 80-2471-262-8.
+WALPER, H. 2016. Basale stimulation Palliativpflege. Munchen: Ernst
+Reinhardt Verlag, 2016. 208 s. ISBN 978-34-976-0365-7.
+
+79
+
+PRÍLOHY
+
+Príloha 1
+
+Dotazník
+
+Príloha 2
+
+Žiadosť o realizáciu prieskumnej činnosti
+
+Príloha 3
+
+Súhlas s realizáciou výskumu Nemocnica Agel
+
+Príloha 4
+
+Súhlas s realizáciou výskumu Kardiocentrum
+
+Príloha 5
+
+Súhlas s realizáciou výskumu Arcus
+
+Príloha 6
+
+Polohy mumio, hniezdo
+
+Príloha 7
+
+Dotyk, umývanie so žinkami
+
+Príloha 1
+DOTAZNÍK
+
+Vážená kolegyňa/ kolega
+Volám sa Lea Baloghová a som študentkou 3. ro níka Ústavu sociálnych vied a
+zdravotníctva Bl.P. P. Gojdiča a V. Hopku Spišská Nová Ves - Prešov v odbore
+Ošetrovateľstvo.
+Chcela by som Vás požiadať o vyplnenie dotazníka so zameraním na zistenie informácií o
+používaní konceptu bazálnej stimulácie a Vašich názoroch na jeho prínos u klientov v
+bezvedomí. Dotazník je anonymný a Vami poskytnuté informácie budú použité k
+spracovaniu mojej diplomovej práce. Vybrané odpovede prosím ozna te.
+Srdečne Vám ďakujem za spoluprácu.
+Bc. Lea Baloghová
+1.) Na akom oddelení pracujete?
+a.) ARO/JIS
+
+b.) interné odd.
+
+c.) geriatria
+
+d.) iné ………………………
+
+2.) Pracujete na svojom oddelení s konceptom bazálnej stimulácie?
+a.) áno
+
+b.) nie
+
+3.) Je podľa Vás využívanie konceptu dôležité pri poskytovaní kvalitnej
+starostlivosti?
+a.) áno
+
+b.) nie
+
+4.) Pracuje s konceptom na Vašom oddelení celý ošetrovateľský tím?
+
+č
+
+b.) nie
+
+č
+
+a.) áno
+
+5.) Je do konceptu zapájaná rodina klienta?
+a.) áno
+
+b.) nie
+
+6.) Má podľa Vašich skúseností používanie konceptu pozitívny vplyv na klientov?
+a.) áno
+
+b.) nie
+
+c.) neviem, nemám skúsenosť
+
+7.) Aký je podľa Vás najväčší prínos bazálnej stimulácie u klientov?
+a.) zlepšenie komunikácie, pacient reaguje na oslovenie
+b.) zlepšenie vnímania
+c.) zlepšenie mobility, zníženie spasticity
+d.) zníženie podávania psychofarmák
+e.) nevšimla som si žiadny prínos
+8.) Spolupracujete s rodinou klienta pri zisťovaní anamnézy?
+a.) áno
+
+b.) nie
+
+9.) Používate pri práci s konceptom u pacientov iniciálny dotyk?
+a.) áno
+
+b.) nie
+
+10.) Čo pre Vás znamená používanie tohto konceptu v praxi?
+a.) možnosť kreativity a sebarealizácie
+b.) zvýšenie empatie voči klientom a schopnosť vnímať potreby druhého
+c.) poskytovanie kvalitnej ošetrovateľskej starostlivosti
+d.) iba povinnosť
+11.) Ktoré techniky u klientov v bezvedomí využívate najčastejšie?
+a.) muzikoterapia
+
+b.) masáže
+
+c.) polohovanie
+
+d.) kúpele
+
+e.) používanie vôní
+
+f.) používanie chutí
+
+12.) Po akých technikách sa podľa Vášho názoru najčastejšie zlepšuje stav pacientov?
+a.) muzikoterapia
+
+b.) masáže
+
+c.) polohovanie
+
+d.) kúpele
+
+e.) vône
+
+f.) kontaktné dýchanie
+
+13.) Označte s ktorými prvkami pracujete u pacientov v bezvedomí:
+a.) somatická stimulácia
+
+b.) vibračná stimulácia
+
+c.) vestibulárna stimulácia
+
+d.) optická stimulácia
+
+e.) auditívna stimulácia
+
+f.) taktilno-haptická stimulácia
+
+g.) olfaktorická stimulácia
+
+h.) orálna a orofaciálna stimulácia
+
+14.) V čom vidíte prínos zisťovania autobiografickej anamnézy klienta?
+a.) zistenie návykov a zvykov klienta
+
+b.) zlepšenie ošetrovateľských činností
+
+c.) lepšie spoznanie klienta
+
+d.) zvýšenie empatie
+
+e.) iné…………………………………………………………………
+15.) Mala by sa podľa Vás zaviesť bazálna stimulácia aj do zariadení kde sa
+nepoužíva?
+a.) áno
+
+b.) nie
+
+16.) Ktoré techniky používa rodina klienta najčastejšie?
+a.) hudbu
+
+b.) osobné veci klienta
+
+c.) dotyk
+
+d.) hlas, nahrávky,
+
+17.) Akú somatickú stimuláciu využívate najčastejšie vo svojej praxi?
+a.) dotyk
+
+b.) stimulácia povzbudzujúca
+
+c.) stimulácia ukľudňujúca
+
+d.) polohovanie - hniezdo
+
+e.) polohovanie - mumio
+
+f.) masáž stimulujúca dýchanie
+
+g.) kontaktné dýchanie
+18.) Aké pomôcky využívate najčastejšie pri práci s konceptom?
+a.) fotografie
+
+b.) nahrávky
+
+c.) vatové tyčinky
+
+d.) vibračné pomôcky
+
+e.) výzdobu
+
+f.) nakreslené obrázky rodinou
+
+g.) TV, radio
+
+h.) iné ………………………………………
+
+19.) Aké pomôcky používate ku taktilne - haptickej stimulácii?
+a.) predmety z povolania klienta
+b.) predmety používané pri záľubách - tenisová raketa, golfová palica…
+c.) uteráky
+d.) predmety z bežného denného života - mobilný telefón, kľúče, …..
+e.) kozmetické veci - hrebeň, mydlo, holiaci strojček, zubná kefka….
+f.) iné …………………………………………….
+g.) nepoužívame taktilno - haptickú stimuláciu
+20.) Ktoré prvky podľa Vás najskôr prispievajú k zlepšeniu stavu?
+a.) polohy
+
+b.) masáže
+
+c.) nahrávky
+
+d.) osobné veci klienta - fotografie, kozmetické prípravky, oblečenie,
+
+e.) vibrácie
+
+f.) chute, vône.
+
+g.) iné ………………………
+
+21.) Čo je podľa Vás najväčšou prekážkou v tom, že sa s konceptom nepracuje?
+a.) nedostatok informácií o koncepte
+
+b.) nedostatok záujmu zo strany sestier
+
+c.) nedostatočná podpora zo strany zamestnávateľov
+d.) neochota spolupracovníkov
+
+e.) nedostatok kurzov
+
+22.) Máte vo svojej praxi skúsenosť, že by tento koncept nepriniesol efekt klientovi?
+a.) áno
+
+b.) nie
+
+23.) Aký je Váš vek?
+a.) 22 - 32
+
+b.) 33 - 43
+
+c.) 44 - 54
+
+d.) 55 - 63
+
+24.) Aké máte vzdelanie?
+a.) stredoškolské s maturitou, VOV
+
+b.) vysokoškolské vzdelanie 1. stupňa
+
+c.) vysokoškolské vzdelanie 2. stupňa
+
+d.) špecializácia v odbore
+
+25.) Aká je Vaša prax na danom oddelení?
+a.) 1 - 5 rokov
+
+b.) 6 - 10 rokov
+
+c.) 11 - 15 rokov
+
+d.) 16 - 20 rokov
+
+e.) viac ako 20 rokov
+26.) Ako dlho pracujete s konceptom bazálnej stimulácie?
+a.) menej ako 1 rok
+b.) 1 - 3 roky
+c.) viac ako 3 roky
+
+Príloha 2
+
+Príloha 3
+
+Príloha 4
+
+Príloha 5
+
+Príloha 6
+
+Príloha 7
+
+

@@ -1,0 +1,1253 @@
+UNIVERZITA MATEJA BELA V BANSKEJ BYSTRICI
+PRAVNICKA FAKULTA
+
+REFORMA SPOLOČNÉHO EURÓPSKEHO AZYLOVÉHO
+SYSTEMU
+Bakalárska práca
+a6f964c7-1e8a-4237-bf80-ebeb5ed92576
+
+Študijný program : Právo
+Študijný odbor : Právo
+Školiace pracovisko : Katedra medzinárodného , európskeho práva a právnej
+komunikácie
+Vedúci bakalárskej práce: JUDr. Ľubica Saktorová, PhD., LL.M., M.A.
+Banská Bystrica 2022
+
+Volodymyr Prokofiiev
+
+1
+
+ČESTNE VYHLÁSENIE
+
+Čestne vyhlasujem, že som bakalársku prácu s názvom: Reforma spoločného
+európskeho azylového systému, vypracoval samostatne pod vedením svojho
+školiteľa: JUDr. Ľubica Saktorová, PhD., LL.M., M.A. a že som uviedol všetku
+použitú literatúru.
+
+V Banskej Bystrici dňa
+
+Podpis
+
+2
+
+Poďakovanie
+
+Chcel by som úprimne poďakovať JUDr. Ľubice Saktorovej, PhD., LL.M., M.A. , za
+odborne vedenie tejto bakalárskej práce, za ochotný prístup a rady, ktoré mi poskytli a
+pomohli mi k môjmu vzdelávaniu.
+
+3
+
+ABSTRAKT
+
+Volodymyr Prokofiiev: Reforma spoločného európskeho azylového systému,
+bakalárska práca, Univerzita Mateja Belá, Právnická Fakulta, Katedra medzinárodného,
+európskeho práva a právnej komunikácie, vedúci práce: JUDr. Ľubica Saktorová, PhD.,
+LL.M., M.A., stupeň odbornej kvalifikácie: bakálar (Bc.), Banská Bystrica, 2022, 37 s.
+
+Cieľom bakálarskej práce je s pomocou logicko-historickej a analytickej metód popísať
+reformu spoločného európskeho systému, sposôbená migračnou krízou v roku 2015.
+V danej práce sa venujeme pojmu azyl v medzinárodnoprávnom prostredí, jeho
+charakteristikou. Súčasťou práce je analyza príčin migračnej krízy, dôvody jej
+vypuknutia. Popíšeme samotný proces krízy a jej vplyv na transformaciu politiky EÚ vôči
+azylovej a migračnej politike. Pre podrobnejšiu analyzu uviedeme vývoj európskeho
+azylového systému od 90 – tých rokov a presunieme sa do súčasneho stavu.
+
+Kľúčové slova : Európska únia, azyl, reforma európskeho azylového systému, migračná
+kríza, utečenci.
+4
+
+ABSTRACT
+
+Volodymyr Prokofiiev: Reform of the Common European Asylum System, Bachelor's
+Thesis, Matej Belá University, Faculty of Law, Department of International Law and
+Legal Communication, supervisor: JUDr. Ľubica Saktorová, PhD., LL.M., M.A., degree
+of professional qualification: bachelor (Bc.), Banská Bystrica, 2022, 37 p.
+
+The aim of the bachelor thesis is to describe a reform of the common European system,
+caused by the migration crisis in 2015, using a logical-historical and analytical method.
+In this thesis we the manage to work at analyze of the causes of the migration crisis, the
+reasons for its outbreak. We will describe the crisis process itself and its impact on the
+transformation of EU asylum and migration policy. For a more detailed analysis, we will
+state the development of the European asylum system since the 90s and move on to the
+current situation.
+
+Key words: European union, azylym, european, azylym system, refugees, migration
+cricis
+5
+
+Obsah
+Úvod ...................................................................................................................................................... 7
+1.Pojem azyl v medzinárodnoprávnom prostredí a migračná kríza ........................................................ 9
+1.2 Právo na azyl.................................................................................................................................... 10
+1.3 Dôvody vypukutia migračnej krízy ................................................................................................... 12
+1.4 Procesy migračnej krízy.................................................................................................................... 13
+1.5 Následky migračnej krízy ................................................................................................................. 15
+2. Samotná reforma európskeho azylového systému a jej základné ciele ............................................ 18
+2.1 Vývoj spoločného európskeho azylového systému .......................................................................... 19
+2.2 Dôvody reformy ............................................................................................................................... 21
+2.3 Samotný proces reformy a jej súčasný stav ..................................................................................... 22
+3. Budúcnosť európskeho spoločného azylového systému .................................................................. 26
+Záver.................................................................................................................................................... 30
+Zoznam bibliografických odkazov ........................................................................................................ 33
+
+6
+
+Úvod
+Každá osoba, ktorá uteká pred prenasledovaním alebo vážnou ujmou, ktoré jej
+hrozia vo vlastnej krajine, má právo požiadať o medzinárodnú ochranu, respektíve o azyl.
+Azyl patrí medzi základné ľudské práva a podmienky pre jeho udelenie sú zahrnuté v
+rámci Ženevského dohovoru o právnom postavení utečencov z roku 1951. Tento dohovor
+vymedzuje základné pojmy utečenec, sociálnu, ekonomickú a politickú ochranu ľudom
+núteným odísť z domovského štátu a ich práva a povinností. Zmluvnými stranami
+dohovoru sa stalo 149 štátov, medzi ktoré zariaďujeme aj súčasne
+
+členské štáty
+
+Európskej únie. V roku 1967 bol prijatý aj opčný protokol k dohovoru.
+Európska únia je medzinárodnou inštitúciou, ktorá je postavená na princípoch
+demokracie, slobody, rovnosti a ochrany ľudských práv, z čoho vyplýva jej zapojenie do
+problematiky ochrany utečencov a práva azylu. Z tohto dôvodu sa členské štáty EÚ
+dohodli na spoločnej európskej azylovej politike, ktorá zahŕňa aj doplnkovú a dočasnú
+ochranu. Konania na udelenie azylu musia byť v rámci celej únie spravodlivé a účinné.
+Toto predstavuje hlavné princípy, na ktorých je založený spoločný európsky azylový
+systém, známy aj pod skratkou CEAS. V rámci tohto systému sa stanovujú minimálne
+normy týkajúce sa zaobchádzania so všetkými žiadateľmi o azyl a všetkými žiadosťami
+o azyl v celej EÚ. V roku 2014 príchod migračnej krízy do Európy poukázal na potrebu
+zreformovať právne normy a pravidlá EÚ v oblasti azylu. Podľa súčasných pravidiel sa
+so žiadateľmi o azyl v EÚ nezaobchádza jednotne a podiel kladných rozhodnutí o azyle
+sa v jednotlivých krajinách tiež značne líši. V dôsledku toho žiadatelia o azyl cestujú po
+Schengenskom priestore a žiadajú o azyl v krajinách, o ktorých sa domnievajú, že im
+ponúkajú väčšie šance na získanie medzinárodnej ochrany.
+Hlavným dôvodom výberu témy pre túto bakalársku prácu sa stala otázka
+migrácie, ktorá je stále aktuálna v súvislosti s prebiehajúcimi konfliktami a hrozbami,
+najmä s aktuálnou vojnou pri hraniciach EÚ. Cieľom tejto práce je pomocou analytických
+prístupov preskúmať problematiku azylu a podčiarknuť jeho dôležitosť v súčasnom svete.
+Hlavnou skúmanou oblasťou je forma spoločného európskeho azylového systému, v
+rámci ktorého sa autor snaží poukázať na jeho chyby a opísať novú spoločnú azylovú
+politiku EÚ.
+Úlohy bakalárskej práce v súvislosti so zadaným cieľom sú:
+1. výskum azylu a právo na azyl
+2. skúmanie príčin, procesu a dôsledkov európskej migračnej krízy
+7
+
+3. zameranie na reformu spoločného európskeho azylového systému.
+Štruktúru práce určuje predmet, účel a ciele štúdia. Práca pozostáva z úvodu, troch
+kapitol a záveru.
+Prvú kapitolu bakalárskej práci rozdelíme na viaceré podkapitoly. V prvej
+podkapitole sa zameriavame na definíciu práva na azyl v medzinárodnoprávnom
+prostredí. Ďalej sa presunieme k migračnej kríze, kde popíšeme dôvody jej vypuknutia.
+Takisto, spomenieme procesy migračnej krízy a zhrnieme kapitolu následkami migračnej
+krízy. Rozoberieme hlavné príčiny, samotný proces a následky, ktoré spôsobila. V druhej
+kapitole sa sústredíme na samotnú reformu spoločného európskeho azylového systému.
+Táto kapitola pozostáva z viacerých podkapitol. V prvej podkapitole podrobnejšie
+rozoberieme vývoj európskeho azylového systému. Následne sa zaoberáme dôvodmi
+reformy. Tretia podkapitola je venovaná samotnému procesu reformy a jej súčasnému
+stavu. Posledná kapitola práca sa zaoberá budúcnosťou európskeho azylového systému,
+vymedzuje konkrétne medzery v reforme a popisuje aktuálny migračný stav v Európskej
+únie. Na záver práce si zhrnieme všetko, čo bolo spomenuté, zhodnotíme súčasný
+európsky azylového systém a poskytneme možné predpoklady do budúcnosti.
+Vzhľadom na špecifickosť témy sme pri výskume pracovali najmä s primárnymi
+zdrojmi, dokumentami Európskej únie a odbornými článkami.
+V závere práce si zhrnieme dosiahnuté a vypracovane poznatky a ich analýzu
+ohľadom reformy spoločného európskeho azylového systému .
+Na rozpracovanie danej problematiky používame analytickú, historickú a
+porovnávaciu metódu, kauzálnu metódu a metódu syntézy.
+
+8
+
+1. Pojem azyl v medzinárodnoprávnom prostredí a migračná kríza
+S pojmom azyl je spätých niekoľko ďalších právnych termínov, predovšetkým
+medzinárodná ochrana, azylant, žiadateľ a doplnková ochrana. Podstatou azylu je
+poskytnutie ochrany, útočiska osobám utiekajúcim pred vojnou, hrôzam a iným
+situáciám, ohrozujúcich zdravie a život. Otázka azylu v medzinárodnom práve bola
+korigovaná prijatím ženevského dohovoru, ktorý vymedzuje podmienky pre azyl a
+zároveň povinnosti utečencov voči štátu, poskytujúcom azyl. V roku 1967 vznikol
+protokol, rozširujúci pôsobnosti dohovoru a odstraňujúci obmedzenie. Tieto právne
+ustanovenia sú piliermi pre medzinárodné spoločenstvo v oblasti azylového práva. EÚ
+ako medzinárodná inštitúcia sa zaoberala problematikou azylu. Začlenila podmienky
+oprávnenosti na medzinárodnú ochranu do vlastného súboru právnych predpisov a túto
+koncepciu rozšírila tým, že okrem
+
+utečencov vytvorila kategóriu osôb, ktorým sa
+
+poskytla medzinárodná ochrana, t. j. osôb, ktorým sa poskytla doplnková ochrana. Právo
+na azyl je zaručené v článku 18 Charty základných práv EÚ. Článkom 19 sa zakazuje
+hromadné vyhostenie a jednotlivcom sa poskytuje ochrana pred vysťahovaním,
+vyhostením alebo extradíciou do štátu, v ktorom pre nich existuje vážne riziko trestu
+smrti, mučenia alebo iného neľudského alebo ponižujúceho zaobchádzania alebo trestu .
+Členské štáty EÚ sa dohodli na spoločnej európskej azylovej politike, ktorá zahŕňa aj
+doplnkovú a dočasnú ochranu. Konanie na udelenie azylu musia byť v rámci celej Únie
+spravodlivé a účinné. Na týchto princípoch je založený spoločný európsky azylový
+systém (CEAS).1
+Azyl sa udeľuje, v prípade ak má osoba v krajine pôvodu opodstatnené obavy z
+prenasledovania z rasových, národnostných alebo náboženských dôvodov. Taktiež, z
+príčin zastávania určitých politických názorov alebo príslušnosti k určitej sociálnej
+skupine a vzhľadom na tieto obavy sa nemôže alebo nechce vrátiť do materského štátu,
+alebo je v krajine pôvodu prenasledovaná za uplatňovanie politických práv a slobôd. To
+znamená, že azyl je udeľovaný najmä z dôvodu individuálneho nebezpečenstva.
+Udelením azylu osoba získava trvalý pobyt na území členského štátu EÚ.2 Osoba s
+
+O azyle [online]. Oecd.org ,International migration outlook (2016), Dostupné na internete:
+https://www.oecd.org/els/mig/IMO-2016-chap4.pdf
+[cit.20.2.2022]
+1
+
+KOŠIČIAROVA, S.: Akrualne otazky azyloveho prava 1: zbornik z česko-slovenskej vedeckej
+konferencie. Trnava : Typi Universitatis Tyrnaviensis, 2019, s. 18-20
+2
+
+9
+
+udeleným azylom má na území udeľujúceho členského štátu trvalý pobyt. Tejto osobe sa
+vydáva doklad o pobyte, v ktorom je uvedený názov „azylant“ s platnosťou na 10 rokov.
+Veľká pravdepodobnosť udelenia azylu (napríklad zjavné prenasledovanie
+cudzinca z politických, rasových, náboženských dôvodov) , ktorá by bola zrejmá už̌ v
+okamihu rozhodovania o zaistení́ cudzinca, by tak podľa názoru ústavného súdu mohla
+predstavovať prekážku pri zaistení cudzinca na účely výkonu administratívneho
+vyhostenia. U takého cudzinca by totiž̌ možnosť administratívneho vyhostenia bola veľmi
+obmedzená.
+1.2 Právo na azyl
+Právo na azyl bolo zahrnuté ešte vo Všeobecnej deklarácii ľudských práv z roku 1948,
+avšak Medzinárodne pakty o ľudských právach z roku 1966 ho v takejto forme
+neupravujú.3 Pravna úprava de lége lata v prípade azylantov je striktne založená na
+individuálnej žiadosti a individuálnom preverovaní každého jednotlivého žiadateľa o azyl
+zo strany teritoriálneho štátu. Koncepcia práva na azyl ako kolektívneho ľudského pravá
+tretej generácie zatiaľ nemá oporu v základných prameňoch medzinárodného práva (
+medzinárodne zmluvy, medzinárodne obyčaj, všeobecne zásady), a taktiež ani v
+pomocných prameňoch medzinárodného práva ( judikatúra medzinárodných súdov,
+náuka o medzinárodnom práve). Právo na azyl sa stále chápe prevažne len ako politicky
+deklarované, individuálne a subjektívne právo patriace do prvej generácie ľudských práv.
+Právo na azyl ovplyvňuje, okrem právnych súvislostí, mnohé mimoprávne faktory
+mocenskej, politickej, vojenskej, bezpečnostnej, ekonomickej, sociálnej a kultúrnej
+povahy. 4 Medzi najdôležitejšie faktory patrí ten ekonomický, nielen z hľadiska potrieb
+osôb žiadúcich o ochranu, ale aj pre samotne vyspelé demokratické štáty. Prejavuje sa to
+v oblastí hľadaní chýbajúcej lacnej pracovnej sily v zahraničí v podmienkach
+stagnujúceho nárastu domácej populácie. V súčasných podmienkach demokratického
+vývoja a ochrany ľudských práv a základných slobôd, v modernej dobe kedy je zakázaný
+obchod s otrokmi a humanizovalo sa trestne súdnictvo, je hľadanie lacnej pracovnej sily
+oveľa zložitejšie. Medializované informácie naznačujú, že činnosť niektorých agentúr
+alebo nadháňačov lacnej pracovnej sily vo svete sa pohybuje na hranici nelegálneho
+obchodovania s ľuďmi. Takisto, sa to týka nelegálneho a nemorálneho obchodu s
+
+BALGA ,J.: Azylove pravo. Plzeň : Aleš Čeněk , 2012, s.56
+KOŠIČIAROVA, S.: Akrualne otazky azyloveho prava 1: zbornik z česko-slovenskej vedeckej
+konferencie. Trnava : Typi Universitatis Tyrnaviensis, 2019, s.17-18
+3
+4
+
+10
+
+ľudskými orgánmi. V súčasnosti je však získavanie pracovnej sily nevyhnutné pre
+zabezpečenie hospodárskeho rozvoju v rôznych častiach sveta. Práve túto problematiku
+by sa dalo vyriešiť s pomocou poskytovania azylu v procese zabezpečovania pracovných
+miest pre azylantov, ktorí sú viac ochotnejší pracovať za nižší plat ako občania štátu.
+Právo na azyl tvorí súčasť systému všeobecnej ochrany ľudských práv a základných
+slobôd. Ochrana ľudských práv sa úzko dotýka vnútorných a vonkajších záležitostí štátu
+ako tradičného subjektu medzinárodného práva. Patria sem problematiky týkajúce sa
+obyvateľstva štátu, štátneho územia, štátnych organov pre medzinárodne styky a otázky
+medzinárodného súdnictva. Najširšie pozadie v tomto procese predstavujú ciele
+medzinárodnej medzištátnej inštitúcii OSN, definujúce najmä snahu o zabezpečenie
+globálneho mieru, bezpečnosti vo svete a ochrany ľudských práv. 5
+Pojem azyl sa používa v rôznych významoch, a to v súvislosti hovoriac o práve na
+azyl ako subjektívnom práve jednotlivca, alebo o práve na azyl, ako objektívnom práve
+štátu alebo iného subjektu medzinárodného pravá, oprávneného poskytnúť azyl. Známy
+je aj ďalší obvyklý význam tohto pojmu, ktorý je spojený s pravom štátu poskytnúť
+teritoriálny azyl prenasledovanej osobe v priestore diplomatickej misie. Takýto význam
+však neprekračuje rámec regionálnej úpravy v rámci medzinárodného práva. Objasnenie
+alebo určenie významu práva na azyl sa sprostredkúva prostredníctvom argumentov
+právnej interpretácie, obsiahnutých vo všeobecnom výkladovom pravidle, v doplnkových
+pravidlách a jazykových pravidlách interpretácie medzinárodných zmlúv.
+Zmena filozofie prístupu k utečencom na úrovni európskej úrovní vyplýva z
+uvedomenia si naliehavých potrieb v globalizujúcom sa svete. V dnešnej dobe sa
+medzinárodné spoločenstvo snaží držať princípov zvrchovanej rovnosti jednotlivých
+štátov a nezasahovať do záležitostí iného štátu. Tieto zásady sa budovali postupne v
+súvislosti s rozvojom medzinárodných vzťahov.6 V 20. storočí sa tieto pravidlá stali
+jedným zo základných
+
+kameňov
+
+výstavby medzinárodného právneho systému v
+
+podmienkach mocensky rozdeleného sveta. Napriek tomu dnes čelíme globálnym
+výzvam, ako sú dôsledky
+
+migračných kríz a porušovanie kogentných pravidiel
+
+medzinárodného práva. Presun azylovej problematiky z oblasti prvej generácie ľudských
+práv do oblasti tretej generácie ľudských práv by bolo dôležitým krokom na ceste k
+
+KOŠIČIAROVA, S.: Akrualne otazky azyloveho prava 1: zbornik z česko-slovenskej vedeckej
+konferencie. Trnava : Typi Universitatis Tyrnaviensis, 2019, s. 18-20
+6
+BALGA ,J.: Azylove pravo. Plzeň : Aleš Čeněk , 2012, s.56
+5
+
+11
+
+hľadaniu lepšieho
+
+právneho usporiadania otázok súvisiacich s teóriou, tvorbou,
+
+dodržiavaním a aplikáciou azylového práva v podmienkach 21. storočia.
+1.3 Dôvody vypukutia migračnej krízy
+Európska migračná kríza z roku 2015 bola humanitárna katastrofa spôsobená
+masívnym prílevom migrantov do Európy z vojnou zničených krajín Afriky a Blízkeho
+východu. Táto kríza je považovaná za najväčšiu v Európe od druhej svetovej vojny.
+Vtedajší eurokomisár pre rozšírenie a susedskú politiku Johannes Hahn uviedol, že k
+polovici septembra roku 2015 predstavoval počet migrantov najvyššiu hodnotu v histórii
+ľudstva. Za prvých 7 mesiacov roku 2015 prišlo do Európy viac ako 300 000 migrantov,
+z toho viac ako 100 000 prišlo v júli. Nedostatok transparentných pravidiel prijímania a
+nekontrolovaný pohyb utečencov viedlo k mnohým obetiam na ceste do Európy.
+Napríklad, v Stredozemnom mori sa v prvých piatich mesiacoch roka utopilo viac ako 1
+800 migrantov, čo je 20-krát viac ako v tom istom období roku 2014. Ďalším príkladom
+hroznej nehody bolo objavenie 71 mŕtvych tiel migrantov v opustenom kamióne na
+východe Rakúska, ktorí sa s najväčšou pravdepodobnosťou udusili nedostatkom kyslíka
+pri nelegálnej preprave. 7
+Problém sa stal svetovo známym, keď dňa 3. septembra popredné svetové médiá
+zverejnili fotografiu tela malého chlapca migranta odvezeného na turecké pobrežie, ktorý
+sa utopil pri pokuse dostať sa z Turecka do Európy. Z jeho niekoľkočlennej rodiny ušiel
+iba jeho otec, všetci ostatní zomreli, rovnako ako väčšina tých, ktorí boli na lodi.
+Podľa OSN sa krajiny pôvodu väčšiny žiadateľov o azyl od roku 2014 nezmenili,
+sú to najmä utečenci zo Sýrie, Afganistanu, Somálska, Južného Sudánu, Konžskej
+demokratickej republike, Stredoafrickej republike, Mjanmarska a Eritrei. Hlavným
+faktorom, ktorý ovplyvňuje rastúci počet žiadateľov o azyl je prebiehajúca občianska
+vojna v Sýrii.8 Ak túto krajinu vylúčime z výpočtov, tak od roku 2011 bol rast len na
+úrovni 5 % (+ 500 tisíc ľudí). Od roku 2012 sa počet sýrskych utečencov zvýšil viac ako
+30-krát: 23,4 tisíc na konci roka 2012 a 799,9 tisíc na konci roka 2015. Mimo krajín EÚ
+zasiahol konflikt v Sýrii od polovice roka 2015 najviac Turecko (1,8 milióna
+registrovaných utečencov), Libanon (1,2 milióna), Jordánsko (628 800), Irak (251 300) a
+O migračnej krize v Europe [online].bbc.com, [2016-02-19].
+Dostupné na internete:
+https://www.bbc.com/russian/international/2016/02/160219_migrant_crisis_charts
+[cit.1.3.2022]
+8
+Cherevichenko,T.: Actual problems of modern international relations, Moskva : Institute of Oriental
+7
+
+12
+
+Egypt (131 900). Hlavnými prijímajúcimi krajinami utečencov v EÚ boli Nemecko,
+Švédsko, Taliansko a Francúzsko, kde bolo zaregistrovaných 91 % všetkých žiadostí.
+Medzi hlavné príčiny, ktoré zapríčinili vznik migračnej krízy v Európskej únii patrí
+predovšetkým nekontrolovaný prílev utečencov a migrantov v dôsledku vojny v Sýrii.
+Táto udalosť sa stala tzv. spúšťačom celého mechanizmu. V samotnej Sýrii sa situácia
+eskalovala po protestoch v marci roku 2011, čo následne viedlo k masovým nepokojom
+a násiliam v rôznych mestách po celej Sýrii a neskôr sa rozrástlo do rozsiahleho
+ozbrojeného konfliktu. V dôsledku vojny najviac trpí civilné obyvateľstvo, ktoré je
+nútené utekať do bezpečných krajín. Najviac príťažlivým miestom sa javí práve EÚ, do
+ktorej sa dalo dostať relatívne jednoducho a takmer bezplatne. Napríklad, donedávna
+existovala námorná doprava z Líbye až do Talianska alebo Malty. Túto trasu využívali
+skoro všetci migranti a utečenci smerujúci do Európy. Okrem Sýrčanov sa do EÚ
+sťahovali aj migranti zo severnej a rovníkovej Afriky.9 Väčšina migrantov má tendenciu
+ísť do konkrétnych krajín, kde sa ich príbuzní už usadili. Schopnosť pripojiť sa k členom
+rodiny v rôznej miere usporiadané v Európe, značne uľahčuje psychologickú aj
+ekonomickú stránku takéhoto kroku. Okrem ekonomických faktorov, ktoré prispeli k
+10
+
+zvýšeniu záujmy utečencov v prospech EÚ sú aj geopolitické (dobré rozloženia,
+
+možnosť cestovanie neobmedzené v Schengenskom priestore), náboženské ( možnosť sa
+hlásiť k akémukoľvek náboženstve bez útlakov či prenasledovaniu). Z vyššie uvedených
+dôvodov vyplýva, že Európska únia predstavuje bezpečný priestor pre utečencov, dobre
+ekonomické, životné, pracovné a sociálne podmienky priťahujúce čoraz viac ľudí,
+utekajúcich pred hrôzami vojny.11 Avšak, nepripravenosť EÚ voči obrovským prílevom
+migrantov, neschopnosť reagovať včas na vzniknuté problémy spôsobila rozkol medzi
+členskými štátmi a zapríčinila migračný krízu, ktorej dôsledkom čelí dodnes.
+1.4 Procesy migračnej krízy
+Od januára do septembra 2015 bolo v členských krajinách EÚ zaregistrovaných
+viac ako 700 000 žiadateľov o azyl. Celkovo podľa rôznych odhadov prišlo v roku 2015
+do EÚ 1 až 1,8 milióna utečencov a nelegálnych migrantov (pre porovnanie, v roku 2014
+ich bolo zaregistrovaných asi 280 000). V polovici marca 2016 sa Turecko a Európska
+
+9
+
+Cherevichenko,T.: Actual problems of modern international relations, Moskva : Institute of Oriental
+
+11
+
+Lehne S., (2016). How the Refugee Crisis Will Reshape the EU. In Carnegie Europe [online]
+Dostupné na internete: https://carnegieeurope.eu/2016/02/04/how-refugee-crisis-will-reshape-eu-pub62650 [cit.13.5.2022]
+
+13
+
+únia dohodli na spoločnom pláne boja proti migračnej kríze. Tento plán zabezpečuje
+najmä poskytovanie finančnej pomoci Ankare na prijímanie utečencov a prijímanie
+legálnych sýrskych migrantov z Turecka Európskou úniou. 12
+V roku 2018 v júni sa konal summit hláv štátov a vlád EÚ na ktorom sa rozoberal
+problém migrácie a možné spôsoby jeho riešenia a zároveň sa diskutovalo o otázke
+sankcií proti Rusku v súvislosti s anexiou Krymu a vojnou na Donbase. V tom istom
+mesiaci talianske úrady odmietli prijať loď "Lifeline", ktorá patrila mimovládnej
+organizácií, na ktorej sa viezlo približne 350 migrantov z afrických krajín. Podobný
+incident sa stal v auguste so súkromnou záchrannou loďou Aquarius, ktorá patrila
+mimovládnej organizácií SOS Mediterranee, na palube sa zdržovalo 141 migrantov.
+Podľa Eurostatu (údaje k polovici marca 2019) bolo v roku 2018 podaných na Európsky
+migračný úrad takmer 581 000 žiadostí o azyl. To je oveľa menej ako počas vrcholiacej
+migračnej krízy v roku 2015, keď takýchto žiadostí bolo viac ako 1,2 milióna.. Podľa
+odborníkov už teraz môžeme hovoriť o ukončení tejto migračnej krízy, avšak
+prebiehajúci konflikt na Ukrajine otvára otázku reformy migračného systému znovu.13
+V roku 2020 Európska únia zase čelila problémom, týkajúcich sa migrantov, len
+v tomto prípade už nelegálnych. Situácia sa vyostrila začiatkom roka 2020 v dôsledku
+prudkého zhoršenia situácie v Sýrii, v provincii Idlib. Turecký prezident Erdogan
+vyhlásil, že Turecko otvorí hranice s Európskou úniou pre sýrskych utečencov v dôsledku
+čoho do EÚ začalo smerovať vlny nelegálnych migrantov, podľa údajov cez turecké
+hranice prešlo viac ako 100-tisíc utečencov. Na hranici medzi Gréckom a Tureckom
+(najmä na ostrove Lesbos) došlo k prelomeniu hraníc nelegálnymi migrantmi a stretom s
+pohraničnou strážou a políciou. Ministri zahraničných vecí členských krajín EÚ sa zišli
+na mimoriadne zasadnutie. Na zasadnutí rozoberali krízu, ktorá vyvrcholila na gréckotureckej hraníc a bola vyvolaná Ankarou z politických dôvodov. Okrem toho sa samotné
+Turecko vyhradilo, že muselo čeliť obrovskej migračnej záťaží. Turecko bolo nútené
+prijať 3,7 milióna migrantov a utečencov. Reakciou tureckej vlády bol zákaz zo strany
+tureckej pobrežnej stráže prechádzať cez Egejské more do štátov Európskej únie. Turecké
+
+12
+
+O migračnej krize v Europe [online].bbc.com, [2016-02-19].
+Dostupné na internete: https://www.bbc.com/russian/international/2016/02/160219_migrant_crisis_charts
+[cit.1.3.2022]
+Novotny V., The Refugee Crisis in Focus: Towards better cooperation between Europe’s national
+governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/
+[cit.14.3.2022]
+13
+
+14
+
+úrady odôvodňovali uzavretie námornej cesty z dôvodu obavy o bezpečnosť utečencov.
+Európska štatistická agentúra (Eurostat) zistila, že v roku 2020 počet osôb nelegálne sa
+zdržiavajúcich v Európskej únii dosiahol 557,5 tisíc osôb, čo je o 73 % menej ako v roku
+2015. Počet nelegálnych prisťahovalcov v roku 2015 dosiahol rekordných 2,08 milióna.
+V porovnaní s rokom 2019 sa počet nelegálnych prisťahovalcov v EÚ mierne znížil o
+11 %.
+1.5 Následky migračnej krízy
+V prvom rade utečenecká kríza mala dôsledky na vnútorné politiky členských
+štátov, a istým spôsobom rozdelila Európu na dva tábory: štáty, ktoré utečencov prijali, a
+tie ktoré ich odmietli. Medzi popredné krajiny, ktoré prijali najviac utečencov patrí
+Nemecko, v ktorom sa registrovalo až 43 % všetkých žiadostí o azyl, podaných v prvom
+polroku roku 2015. V západných európskych krajinách bol počet prijatých utečencov
+oveľa výši, ako v štátoch východnej a strednej Európy. Najmä v mnohých krajinách
+východnej Európy, vystupovali vlády a niekedy samotné obyvateľstvo proti v prijímaniu
+utečencov a migrantov. Povinné prerozdeľovanie migrantov na základe kvót navrhované
+Európskou komisiou v rámci „núdzového mechanizmu“ odmietali nielen štáty východnej
+Európy, ale aj krajiny ako Spojené kráľovstvo ( do roku 2020), Írsko a Dánsko. Väčšina
+krajín EÚ sa obávala, že súčasné "núdzové" kvóty môžu byť budúcnosti zakotvené v
+novom trvalom distribučnom mechanizme. Vtedajšia nemecká kancelárka Angela
+Merkelová sa usilovala o zjednotenie EÚ v migračných otázkach a o prejavenie väčšej
+európskej solidarity , avšak tieto vyhlásenia neboli veľmi účinne.14 Z legislatívneho
+hľadiska prijímanie dôležitých rozhodnutí v EÚ funguje na princípe všeobecného
+konsenzu a je potrebný súhlas všetkých členských štátoch, aby rozhodnutie bolo prijaté a
+tým pádom je aj záväzné pre všetky krajiny.15 Napriek tomu EÚ vydala Dublinské
+nariadenie, ktoré prideľuje zodpovednosť prvému štátu schengenskému priestoru, aby
+spracoval a zaregistroval žiadosť o azyl, čo sa nakoniec ako neudržateľné. Grécko a
+Taliansko už postupom času prestali plniť svoje povinnosti a dovolili utečencom sa
+presúvať voľne po schengenskom priestore. Rozhodnutie prímorských štátov zasiahlo
+celú úniu, a neudržateľne to zaťažilo Nemecko, Švédsko, Fínsko, Rakúsko ako aj krajiny
+
+An Economic Take on the Refugee Crisis [online]. Dostupné na internete: ec.europa.eu Dostupné na
+internete: https://ec.europa.eu/info/sites/default/files/file_import/ip033_en_2.pdf [cit.13.5.2022]
+15
+Refugees in the Old World: miscalculations in resolving the migration crisis in Europe. In unicef.org
+[online]. Dostupné na internete: http://tass.ru/mezhdunarodnayapanorama/2636767[cit.7.3.2022]
+14
+
+15
+
+Beneluxu. Vzhľadom na rozdrobenosť štátov pri dosiahnúť riešenie, ako napríklad
+spravodlivú distribúciu utečencov alebo zavedenie povinných kvót je takmer nemožné.
+Z tohto dôvodu, otázka prijatia utečencov spadá pod vnútornú politiku jednotlivých
+členských štátov, preto Nemecko, ktoré od začiatku otvorilo svoje dvere čelilo
+neprimeranému počtu utečencov, zatiaľ čo iné krajiny sa naďalej vyhýbali tomuto
+morálnemu záväzku.16
+Jedným z najväčších protivníkov migračných kvót a prijímaniu utečencov je
+Maďarsko. Vtedajší maďarský minister
+
+zahraničných vecí Peter Szijjártó dokonca
+
+obvinil Grécko za masívny prílev migrantov pre nedostatok riadnych kontrol v zahraničí.
+Do Maďarska migranti ani nemajú možnosť prísť bez registrácie, tak isto ako aj do
+Slovenska. Hlava vlády Maďarska Viktor Orbán taktiež kritizoval „zlú imigračnú
+politiku“ EÚ a slabú ochranu vonkajších hraníc. 17Podľa maďarského premiéra, ochrana
+hraníc a prísnejšia kontrola sú nutnosťou pre novú politiku EÚ. Prezident Českej
+republiky Miloš Zeman sa tiež vyjadroval proti migračnej politiky, apelujúc na zlú
+integráciu utečencov do európskej spoločnosti, náklady pre štátny rozpočet na sociálnu
+podporu utečencov a hrozbu útokov. Pobaltské štáty zastávali nejednoznačný postoj,
+napríklad litovská prezidentka Dalia Grybauskaite nepodporovala prerozdelenie kvót v
+rámci EÚ, čo je podľa jej názoru „nespravodlivé a nezmyselné“. Zároveň litovská vláda
+obvinenia z nedostatku solidarity odmieta, keďže sa zaviazala prijať 325 utečencov z
+Afriky a Blízkeho východu.
+Ďalším problémom je situácia vo vnútornom prostredí množstva európskych
+krajín. Podľa prieskumov v rokoch 2015-2016 sa väčšina nemeckých občanov (81 %)
+stotožňuje s názorom, že ich úrady nezvládajú migračnú krízu. S prácou kabinetu
+ministrov nie je spokojných 61 % respondentov a hodnotenie Angely Merkelovej bolo
+najnižšie od augusta 2011. Tieto údaje potvrdzujú nespokojnosť obyvateľstva vládou
+európskej únie a len prispieva k rastu nedôvery občanov voči EÚ. Na druhej strane,
+proces prijímania a presídľovania utečencov začal vymykať kontrole. Zhoršenie
+ekonomickej situácie v krajinách, vnútorná nestabilita, veľké množstvo nepokojov sú
+
+Golovina M.,The refugee problem: the UN is sounding the alarm. In tass.ru [online]. Dostupné na
+internete: https://tass.ru/spec/refugee [cit.4.3.2022]
+17
+Schiltz C.,The EU has become a club of egoists // Die Welt. 31.08.2015. In welt.de [online]. Dostupné
+na internete:
+http://www.welt.de/debatte/kommentare/article145852230/Die-EU-ist-einKlub-von-Egoistengeworden.html
+[cit.3.3.2022]
+16
+
+16
+
+negatívnymi následkami migračnej krízy. Nasledujúcim problémom je tzv. „vydieranie“
+zo strany Turecka, ktoré si vyžaduje stále viac finančných prostriedkov na potlačenie
+neustáleho toku utečencov. Z tohto dôvodu, Európska komisia schválila vytvorenie
+špeciálneho fondu pre Turecko a utečencov vo výške 3 miliárd eur, z ktorých samotná
+EK vyčlení 500 miliónov eur, a zvyšných 2,5 miliardy vyzbierajú krajiny EÚ. 18 Najviac
+ohrozeným však stále ostáva schengenský priestor, na jeho podporu bola vytvorená
+spoločná inštitúcia Frontex. Tato inštitúcia pozostáva z policajných zložiek, poskytnutých
+členskými štátmi operujúcich na hraničnej kontrole s nečlenskými štátmi EÚ. Taktiež,
+bol zriadený Európsky podporný úrad pre azyl, ktorý by mal riadiť azylovú politiku EÚ.
+Napriek tomu, tieto inštitúcie momentálne nedokázali byť veľmi efektívne a zároveň
+zvládať v plnej miery
+
+následky migračnej krízy.19 Nedostatok financovania a
+
+splnomocnenia sú príčinami, prečo tieto úrady zohrávali len pomocné úlohy. Absencia
+pevného právneho základu neumožnila členským štátom nastoliť harmonizovanú
+migračnú a azylovú politiku nakoľko členské štáty preferovali zachovať veľkú mieru
+autonómie v takýchto otázkach.
+Celý rok 2015 EÚ venovala obrovské úsilie, aby sa vyrovnala s krízou. Prílev
+utečencov, pohyby v eurozóne sa stali záležitosťou hlavne Európskej rady, ktorá združuje
+hlavy štátov a vlád. EÚ prijala rad opatrení, aby sa zmiernila s následkami krízy. Vytvorili
+schému premiestňovania približne 160.000 utečencov, ktorí ostali zaseknutí v Taliansku
+a Grécku do iných krajín schengenského priestoru. Zriadili konkrétne strediská na svojich
+vonkajších hraniciach. S spomenutým Tureckom uzavreli dohodu, ktorá by mala
+obmedziť prúd utečencov cez západný Balkán. Takisto, sa zaviazali lepšie financovať
+programy OSN, týkajúce sa podpory utečencov z Blízkeho východu. Implementácia
+väčšiny z týchto rozhodnutí sa ukázala ako pomalý pokrok, v tom istom čase sa prílev
+nových utečencov neustále stupňoval.
+
+18
+
+Cherevichenko,T.: Actual problems of modern international relations, Moskva : Institute of Oriental
+Studies RAS,2016 s.6-7
+19
+Filatova I., What awaits the EU market in the event of the collapse of the Schengen area. In dw.com
+[online]. Dostupné na internete:https://www.dw.com/ru [cit.4.3.2022]
+
+17
+
+2. Samotná reforma európskeho azylového systému a jej základné ciele
+Vojna v Sýrii a následné masívne a nekontrolované prisťahovalectvo ľudí z Balkánu,
+severnej Afriky a Blízkeho východu sa stalo závažným problémom pre Európsku úniu.
+Napriek tomu, že spoločný európsky azylový systém bol pôvodne koncipovaný v
+zmluvách, migračná kríza odhalila nedostatky EÚ v tejto otázke a celkovú nepripravenosť
+únie čeliť podobným výzvam. Situácia zhoršila rozdiely medzi vnútroštátnymi azylovými
+systémami a následne aj ťažkosti v členských štátov EÚ pri rozvoji koordinovaného
+prístupu k riešeniu problému prisťahovalcov a utečencov. 20Nastala dosť ťažká situácia
+pre úniu, ktorá sa dlhé roky snažila vybudovať systém ochrany a kontroly svojich hraníc,
+vydávala odporúčania na reguláciu migrácie a poskytovanie azylu ostatným štátom
+mimo európskej únie, ale nedokázala sama rýchlo reagovať na vznikajúcu kritickú
+situáciu. Migračná kríza spôsobila problému vnútornému prostrediu EÚ, problém
+migrácie a utečencov rozdelil úniu vo vnútri. V tom období sa odohral aj Brexit, čo sa
+stalo prvým prípadom výstupu štátu z EÚ. Rýchly prílev osôb, ktoré hľadali
+medzinárodnú ochranu v rámci Európskej únie vyústilo do extrémneho tlaku na azylový
+systém Únie. Absencia kolektívnej politiky v oblasti azylu poukázala na rozdrobenosť
+členských štátov. Jednotlivé štáty neboli schopné zvládať situáciu sami, preto sa vyskytla
+potreba reformy azylového systému, ktorý bude viac prepracovaný a viac pripravený.
+Krajiny ležiace na vonkajších hraniciach Európskej únie už dlhšie apelujú na reformu
+azylového systému, nakoľko nie sú schopné samostatné zvládať migračné tlaky. Podľa
+súčasných pravidiel by migrantom mala zvyčajne udeliť azyl krajina, do ktorej prvýkrát
+vstúpili po príchode do únie. Niektoré krajiny uprednostňujú mechanizmus
+automatického prerozdeľovania žiadateľov o azyl, iné, vrátane Rakúska, Česka a
+Maďarska, sú však proti.21
+20
+
+Vojnikov V., European space of freedom, security and justice and the migration crisis in Europe. In
+cyberleninka.ru [online]. Dostupné na internete:https://cyberleninka.ru/article/n/evropeyskoeprostranstvo-svobody-bezopasnosti-i-pravosudiya-i-migratsionnyy-krizis-v-evrope/viewer
+[cit.5.3.2022]
+21
+Novotny V., The Refugee Crisis in Focus: Towards better cooperation between Europe’s national
+governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/
+[cit.14.3.2022]
+
+18
+
+Z tohto dôvodu Európska komisia 6. apríla predstavila oznámenie Európskemu
+parlamentu a Rade EÚ o reforme spoločného európskeho azylového systému a správu o
+rozšírení legálnych ciest do Európy. Hlavným cieľom, ktorý si stanovila Európska
+komisia bolo
+
+v prvom rade vytvoriť spravodlivý a udržateľný systém distribúcií
+
+žiadateľov o azyl medzi všetky členské štáty EÚ, ktorý bude schopný fungovať aj v
+období vysokého migračného tlaku. Druhým cieľom bolo zabezpečiť osobám
+medzinárodnú ochranu, bezpečné a legálne migračné kanály s pomocou ich rozšírenia.
+Predchádzajúce pravidlá v CEAS nezaobchádzali so žiadateľmi o azyl v Európskej únii
+rovnako a spravodlivo, takisto sa líšil podiel rozhodnutí v jednotlivých krajinách. Toto sa
+stálo príčinou, že žiadatelia o azyl cestujú po Európskej únie a žiadajú o azyl v krajinách,
+o ktorých sa domnievajú, že majú väčšie šance na získanie medzinárodnej ochrany. Nová
+reforma spoločného európskeho azylového systému vymedzuje štyri základné ciele. V
+prvom rade, vytvoriť spoločnú oblasť, ktorá stanoví komplexný prístup k riadeniu azylu
+a migrácie. Následne zlepšiť schopnosť systému rýchlo a účinne čeliť akékoľvek
+migračnému tlaku. Taktiež, kontrolovať sekundárne pohyby a eliminovať motivačné
+faktory. Posledným cieľom je poskytovanie podpory pre migráciou najviac postihnuté
+členské štáty a zároveň eliminovať zneužitia zo strany iných členských štátov. Už od
+roku 2015 Európska únia poskytuje finančnú podporu štátom, ktoré boli najviac
+zasiahnuté migračnými tokmi.22
+2.1 Vývoj spoločného európskeho azylového systému
+Európska únia je medzinárodnou organizáciou, ktorá medzi svoje základné ciele
+vymedzuje ochranu ľudských práv a slobôd, preto počas migračnej krízy v rokoch 20132016 sa práve Únia stala útočiskom pre osoby, utiekajúcimi pred vojnou. Nakoľko azyl
+a medzinárodná ochrana je základnou povinnosťou pre každý štát, Európska únia ako
+združenie viacerých štátov vytvorila svoj systém pre reguláciu migrácii a azylu. Po
+podpísaní Maastrichtskej zmluvy sa spojil tretí pilier EÚ, čo je spolupráca vo veciach
+verejných a justície. Spoločný európsky azylový systém bol založený v roku 1999.
+Predstavuje právnu a politickú štruktúru, založenú s cieľom regulovať a harmonizovať
+migračnú a azylovú politiku Európskej únie.23 Tento systém zdôrazňuje spoločnú
+
+Novotny V., The Refugee Crisis in Focus: Towards better cooperation between Europe’s national
+governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/
+[cit.14.3.2022]
+23
+Moreno-Lax V. (2021). A New Common European Approach to Search and Rescue? Entrenching
+Proactive Containment. In Eumigrationlawblog [online]. Dostupné na internete:
+22
+
+19
+
+zodpovednosť členských štátov za proces prijímania a spracovania žiadosti o azyle.
+Zakladajúcim dokumentom, z ktorého vychádza tento systém bola Deklarácia z Tempera,
+ktorá určila osnovu pre komplexný prístup k migrácii za pomocou riešenia politických
+problémov, otázky ochrany ľudských práv v krajinách a regiónoch pôvodu a tranzitu
+azylantov. Prostredníctvom tohto dokumentu boli prijaté
+
+legislatívne a politické
+
+opatrenie na ochranu utečencov a zároveň podpora členské štáty, ktoré najviac čelia
+migračnému tlaku. V roku 2003 bola Radou prijatá smernica, ktorá stanovila minimálne
+štandardy pre prijímanie žiadateľov o azyl.24
+Po prvej fáze (od roku 1999 až po rok 2005) členské štáty prijali päť ďalších právnych
+predpisov, ktoré upravili fungovanie systému. V tomto období boli prijaté hlavné
+dokumenty a smernice, akými sú kvalifikačná a procedurálna smernica, a smernica o
+dočasnej ochrane. Vytvoril sa dublinský systém, ktorý určuje zodpovedný štát. Tieto
+nariadenie prijali členské štáty spolu s Nórskom, Islandom a Švajčiarskom. Tieto
+nariadenia zahrňujú 11 kritérií a humanitárnu doložku. Nástrojom na stanovenie
+zodpovedného štátu je Eurodac. Dôležitým dokumentom v tejto fáze je kvalifikačná
+smernica, ktorá určuje kto je utečenec a čo je doplnková ochrana. Definície, ktoré
+určovala tato smernica sú potrebné pre jednotné rozhodovanie o udelenie azylu
+žiadajúcim osobám. Procedurálna smernica upravila minimálne štandardy pre konanie v
+členských štátoch. Rok 2004-2010 je druhou fázou, „Haagský program“, ktorého účel
+bol posilnť spolupráce členských krajín a vytvorenie EASO, čo bol úrad podpory pre
+azylantov. V tomto období sa posilnilo jednotné konanie a vytvorili sa jednotné
+štandardy.25 Od roku 2010-2014 EÚ prechádzala tretiou fázou migračnej a azylovej
+politiky, čo bol tzv. Štokholmský program. Tento program si stanovil za ciel zosilniť
+bezpečnosť a otvorenosť EÚ, jej občanov, zlepšiť kooperáciu azylových politík a systém
+dobrovoľného návratu. Prvým dokumentom v tejto fáze bola smernica od Európskeho
+parlamentu a Európskej rady o štandardoch kvalifikácie štátnych príslušníkov tretích
+krajín alebo osôb bez štátnej príslušnosti používajúce medzinárodnú ochranu, o
+
+https://eumigrationlawblog.eu/a-new-common-european-approach-to-search-and-rescue-entrenchingproactive-containment/ [cit.17.5.2022]
+24
+Moreno-Lax V. (2021). A New Common European Approach to Search and Rescue? Entrenching
+Proactive Containment. In Eumigrationlawblog [online]. Dostupné na internete:
+https://eumigrationlawblog.eu/a-new-common-european-approach-to-search-and-rescue-entrenchingproactive-containment/ [cit.17.5.2022]
+25
+Novotny V., The Refugee Crisis in Focus: Towards better cooperation between Europe’s national
+governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/
+[cit.14.3.2022]
+
+20
+
+jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o
+obsahu poskytnutej ochrany z roku 2011. Ďalšia smernica z roku 2013 sa týkala
+spoločných postupov o udeľovaní a odnímaní medzinárodnej ochrany. Tento dokument
+doplňuje deklaráciu z Tempera a odstraňuje nepresnosti Európskeho Paktu o migrácii a
+azylu, prijatého v roku 2008. Nasledujúcim dokumentom je smernica EP a ER, ktorá
+stanovila normy pre prijímanie žiadateľov o medzinárodnú ochranu. Následným
+dokumentom bola regulácia o zriadení systému Eurodac, ktorý slúži na porovnanie
+odtlačkov prstov pre účinne uplatňovanie Dublinských kritérií. Tento dokument pomáha
+v kontrole tretích osôb, prichádzajúcich na územie EÚ, spolupracuje s orgánmi činnými
+v trestnom konaní členských štátov a Europolom. Najdôležitejším dokumentom je
+regulácia z Dublinu, ktorá určuje mechanizmy a kritéria na stanovenie členského štátu
+zodpovedného za posúdenie žiadosti o medzinárodnú ochranu podanej v jednom z
+členských štátov štátnym príslušníkom tretej krajiny alebo osobou bez štátnej
+príslušnosti. V praxi to znamená, že po splnení uvedených kritérií je určený konkrétny
+členský štát EÚ, aby spracoval a zaoberal sa žiadosťou o azyl. Je aj možne, že žiadateľ o
+azyl bude presunutý do zodpovednej krajiny. Z cieľom určovania zodpovednej krajiny sa
+bude so žiadateľom o azyl konať rozhovor pred Migračným úradom, kde osoba uvádza
+všetky potrebné údaje, aby bolo možné určiť zodpovednú krajinu.
+Rok 2015 bol poznamenaný revíziou už existujúcich azylových predpisov, prvýkrát
+spomínaný návrh o prerozdeľovaní utečencov tzv. relokácia. Taktiež, prvá vlna
+migračných tokov zo Sýrie. Rok 2016 preniesol návrhy Európskej komisie o revíziu
+azylových predpisov, konkrétnejšie premena smerníc na nariadenie, ktoré majú vyššie
+právne postavenie a zodpovednosť členských štátov.26
+2.2 Dôvody reformy
+Nerovnomerný a zvýšený tlak, ktorému podliehali azylové a migračné štruktúry
+Európskej únie sa stali výzvou pre samotnú úniu a jej členské štáty, preto bolo potrebné
+zreformovať a zlepšiť azylový systém. Hlavným dôvodom bola migračná kríza z roku
+2015, ktorá odhalila množstvo nedostatkov azylového systému. Napriek tomu, že v
+predchádzajúcich dokumentoch bolo zakotvené rovné zaobchádzanie so všetkými
+žiadosťami, v skutočnosti situácia bola iná. Nariadenia prijaté v rokoch 1999-2013,
+Novotny V., The Refugee Crisis in Focus: Towards better cooperation between Europe’s national
+governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/
+[cit.14.3.2022]
+26
+
+21
+
+stanovili len minimálne normy, čo sa v praxi ukázalo ako nedostatočne. Okrem vysokého
+počtu utečencov do štátov únie prenikli aj nelegálni migranti, ktorých príchod bol
+nečakaný a nekontrolovaný. Migračná kríza poukázala na rad nedostatkov a medzier,
+ktoré sa stali príčinami reformy európskeho azylového systému. Jedným z dôvodom bol
+nedostatok regulačných mechanizmov, ktoré by mali zvládať migračný tlak. Z čoho
+vyplýva aj nerovnomerné prerozdelenie počtu utečencov medzi členskými štátmi. V
+skutočnosti niektoré štáty ostali veľmi postihnuté migráciou, a niektoré unikli svojej
+zodpovednosti. Taktiež, ďalším dôvodom bola masívna nelegálna migrácia v rámci
+Európskej únie, žiadatelia o azyl sa pohybovali medzi členskými štátmi hľadajúc lepšie
+podmienky.27 V dôsledku čoho bolo veľmi ťažké kontrolovať tieto masy ľudí, preto
+niektorí z nich ani nepodľahli oficiálnej procedúre o udelenie azylu. V roku 2017 začali
+počty žiadostí klesať, ale potreba reformy naďalej ostávala aktuálnou, aj napriek tomu,
+že zapôsobila politický rozkol v členských štátoch únie.
+2.3 Samotný proces reformy a jej súčasný stav
+Problémy a výzvy, ktorým čelila EÚ sa stali spúšťacím mechanizmom pre reformu
+spoločného európskeho systému. Predovšetkým, sa kládol dôraz na dôležitosť CEASu a
+spoločnej migračnej politiky, čo v praxi znamená celoeurópsky rámec riadenie migračnej
+politiky, rovnaký pre všetky členské štáty. Zahrňovalo to spoločné a efektívne riadenie
+hraníc, medzinárodnú ochranu a návrat odmietnutých žiadostí. Európska komisia v roku
+2016 zverejnila oznam, týkajúci sa zlepšenia CEASu, kde bolo definovaných päť nových
+základných princípov. Medzi tieto princípy patrí: udržateľný a spravodlivý systém na
+určovanie zodpovedného členského štátu pri spracovaní žiadostí o azyl, vyvinúť väčšie
+postupné zbližovanie v azylovom systéme EÚ, zlepšenie systému Eurodac, lepšia
+kontrola odtlačkov prstov a rozšírenie databáz, prevencia sekundárnych pohybov v rámci
+EÚ, zriadenie agentúry pre azyl.28 Neskôr, v máji a júli 2016 komisia predstavila návrhy
+dvoch balíkov reforiem, ktoré zahrňovali tieto princípy. Európskej rade a parlamentu sa
+v roku 2017 podarilo dosiahnuť politický konsenzus v piatich zo siedmich návrhov
+reformy. Konkrétnejšie išlo o vytvorenie plnohodnotnej Agentúry EÚ pre azyl, reformu
+
+Golovina M.,The refugee problem: the UN is sounding the alarm. In tass.ru [online]. Dostupné na
+internete:
+https://tass.ru/spec/refugee
+[cit.4.3.2022]
+28
+O reforme azyloveho systemu [online]. Consilium.europa.eu, Dostupné na internete:
+https://www.consilium.europa.eu/sk/policies/eu-migration-policy/eu-asylum-reform/
+[cit.15.3.2022]
+27
+
+22
+
+systému Eurodac, preverenie smernice, týkajúcej sa podmienok pre prijatie utečencov,
+kvalifikačného riadenia a rámca presídľovanie utečencov. Návrhy, ktoré boli odmietnuté
+sa týkali, reformy Dublinského systému a regulovania procedúry udeľovanie azylu.
+Taktiež, niektoré štáty únie vyjadrili svoje výhrady voči niektorým návrhom.
+Rok 2019 bol poznamenaný voľbami do Európskeho parlamentu, preto sa významný
+legislatívny pokrok v tejto oblasti nedosiahol. Európska únia sa dostala do patovej
+situácie, nakoľko sa jej nepodarilo dosiahnuť súhlasu v pokračovaní reformy. Európska
+rada pre utečencov a exulantov v roku 2019 vydala politickú poznámku, v ktorej
+vymedzila základné priority pre zdokonaľovanie fungovania CEAS. Na legislatívnej
+úrovni sa Európska rada posunula v oblasti priamo súvisiacej s azylom, čo bolo prijatie
+dvoch nariadení, týkajúcich interoperability informačných systémov EÚ v oblasti
+spravodlivosti a vnútorných vecí. Zlepšenie systému výmeny informácii zabezpečuje
+efektívnejšiu kontrolu na vonkajších hraniciach EÚ, uľahčuje odhaľovanie viacerých
+identít a pomáha zachovávať integritu v rámci azylového systému. Problematika azylu
+ostala v roku 2019 politicky naliehavou otázkou, vykonávali sa spolupráce na úrovní
+členských štátov, obe predsedníctva v Rade zahrňovali oblasť azylu a migrácie.
+Strategická agenda EÚ na roky 2019-2024, prijatá Radou v 2019 stanovila ďalšie ciele v
+otázkach azylu a migrácie. Tieto ciele sa zaoberajú stanovením bezpečnosti pre
+azylantov, záchrany ich životov, riadení vonkajších hraníc, rozširovaní kompetencií
+Frontexu, posilňovaní spolupráce medzi tranzitnými krajinami a krajinami pôvodu,
+reformovaní dublinského systému.29
+V roku 2020 Európska komisia prijala nový pakt o migrácií a prijatiu azylu, ktorý
+zahŕňa všetky prvky, nutné pre reguláciu komplexného európskeho prístupu k migrácii.
+Takýmto spôsobom sa vytvorilo 9 aktuálnych legislatívnych návrhov. Prvým princípom
+je nahradenie Dublinského systému, ktorý už je neaktuálny a nedokáže plnohodnotné
+pôsobiť v prípade migračných tokov. Nový systém by vytváral spravodlivejší prístup k
+určovaniu zodpovedného štátu bez zneužívania za účelom zmierniť záťaž pre tento štát,
+nachádzajúci sa v prvej línii.30 Druhý princíp sa týka zavedenia nových pravidiel,
+upravujúcich migračnú krízu a zmiernenia jej dôsledkov. Tento návrh je založený na
+
+O reforme azyloveho systemu [online]. Consilium.europa.eu, Dostupné na internete:
+https://www.consilium.europa.eu/sk/policies/eu-migration-policy/eu-asylum-reform/
+[cit.15.3.2022]
+30
+O postavení EU pri rokovaniach OSN o globalnom pakte o migracii [online]. Ceps.eu, Dostupné na
+internete:
+https://www.ceps.eu/ceps-publications/what-role-eu-un-negotiations-global-compact-migration/
+29
+
+23
+
+solidarite a spravodlivosti medzi členskými štátmi. Tretí návrh zahrňuje aktualizáciu
+databáz odtlačkov, ktorá slúži na pomoc pre Dublinský systém.
+V roku 2021 Európska únia čelila rozsiahlej migračnej krízy, keď bieloruský režim
+Alexandra Lukašenka začal voziť ľudí z Iraku, Sýrie a Jemenu na hranice s krajinami EÚ.
+Situácia na hranici medzi Bieloruskom a Poľskom sa vyostrila najmä vtedy, keď sa
+začiatkom novembra v blízkosti poľských hraníc utáborili stovky migrantov v nádeji, že
+sa dostanú na územie Európskej únie, ale tam ich nepustili. Z tohto dôvodu Európska únia
+sa rozhodla vytvoriť azylovú agentúru, ktorá bude zodpovedná za formovanie spoločnej
+európskej politiky v oblasti migrácie. Pokrok sa dosiahol v roku 2022, kedy Agentúra
+Európskej únie pre azyl (EUAA) nahradila Európsky podporný úrad pre azyl (EASO).
+Tento krok modernizoval fungovanie azylového systému a zlepšil spoluprácu. EUAA je
+zodpovedná za zlepšenie fungovania celoeurópskeho azylového systému poskytovaním
+rozšírenej operačnej a technickej pomoci členským štátom a zabezpečením väčšej
+konzistentnosti pri posudzovaní žiadostí o medzinárodnú ochranu. 31
+Piaty návrh sa zaoberá vytvorením nového skríningu, ktorý zabezpečí rýchly postup
+pri identifikácií osôb a nezávislý monitorovací systém. Nasledujúcimi princípmi nových
+návrhov sú spoločné konanie, azyl a jednotné pravidlá, vzťahujúce sa na žiadosti o azyl.
+Najpodstatnejším cieľom nových návrhov je zabezpečiť rovnaké zaobchádzanie zo
+žiadosťami a rovnakú zodpovednosť pre členské štáty. Ďalší návrh sa zaoberá stanovením
+lepších podmienok prijímanie. Posledný návrh stanovuje nový rámec EÚ pre
+presídľovanie, ktorý by nahradil ad hoc rámec. Dôležitou ostáva otázku návratu ľudí,
+ktorí ochranu nezískali, preto sa navrhuje dôkladná kontrola všetkých
+
+ľudí, ktorí
+
+nelegálne prekročia hranice EÚ alebo ktorí, boli zachránení na mori. Tento postup
+umožňuje rýchle rozhodnutie o tom, či môžu počítať s azylom alebo sa musia vrátiť.
+Návrh sa zameriava na systém návratu migrantov, ktorým bol zamietnutý azyl.
+Predovšetkým sa navrhuje zlepšiť legislatívu a vytvoriť post koordinátora pre návrat so
+sieťou národných zástupcov, aby sa zabezpečila koordinácia politík v rôznych členských
+štátoch. Napriek všetkým návrhom, ktoré boli predstavené a prijaté , má európsky
+azylový systém stále chyby a medzery.32 Častokrát boli štáty EÚ obvinené z porušovania
+O reforme azyloveho systemu [online]. Consilium.europa.eu, Dostupné na internete:
+https://www.consilium.europa.eu/sk/policies/eu-migration-policy/eu-asylum-reform/
+[cit.15.3.2022]
+32
+Vojnikov V., European space of freedom, security and justice and the migration crisis in Europe. In
+cyberleninka.ru [online]. Dostupné na internete:
+https://cyberleninka.ru/article/n/evropeyskoe-prostranstvo-svobody-bezopasnosti-i-pravosudiya-imigratsionnyy-krizis-v-evrope/viewer
+31
+
+24
+
+ľudských práv, svoje znepokojenie vyjadrujú aj organizácie pre ľudské práva, ktoré
+zdôrazňujú, že takéto zmeny by mohli viesť k ešte väčšej koncentrácii ľudí na hraniciach
+Európskej únie. Normálny azylový postup však kritizujú aj ľudskoprávni aktivisti,
+pretože v závislosti od členského štátu EÚ môže trvať aj niekoľko rokov. Príkladmi
+takýchto štátov sú Taliansko a Malta, ktoré boli už niekoľko krát obvinené z porušovania
+ľudských práv z dôvodu zadržania lodi s utečencami v svojom prístave.
+
+[cit.5.3.2022]
+
+25
+
+3. Budúcnosť európskeho spoločného azylového systému
+Súčasné trendy ukazujú, že Európa bude nepochybne naďalej atraktívna pre
+migrantov a žiadateľov o azyl, z čoho vyplýva, že riadenie migračných tokov bude
+naďalej predstavovať dôležitý bod programu EÚ33. Zvýšenú migráciu ovplyvňuje veľké
+množstvo rôznych faktorov, ako sú čoraz častejšie konflikty, vojny, zmena klímy a
+pretrvávajúce hospodárske rozdiely medzi členskými štátmi EÚ a inými krajinami. EÚ
+preto musí spojiť celý rad nástrojov vnútornej a vonkajšej politiky, aby zabezpečila
+účinné fungovanie migračnej politiky. Silná a spravodlivá migračná politika EÚ by sa
+mala prispôsobiť budúcim výzvam, mala poskytovať azyl tým osobám, ktoré majú právo
+na medzinárodnú ochranu, a zabezpečiť návrat tých, ktorí ho nemajú. Navyše, by mala
+predchádzať stratám na životoch, tých ktorí sa snažia dostať do EÚ nelegálnymi
+prostriedkami, hlavne v oblasti Stredozemného mora. Zároveň mala by zabezpečiť
+bezpečné cesty, aby zabránila obchodovaniu s ľuďmi a prevádzačstvu. Taktiež, by mala
+posilniť vonkajšie hranice a vytvoriť skutočnú alternatívu k nebezpečným cestám, aby
+takto mohla bojovať proti sieťam obchodovaniu s ľuďmi a prevádzačom, tým že otvorí
+legálne cesty. S pomocou aplikovania informačných technológií, by mala posilniť
+kontrolu a riadenie vonkajších hraníc.
+Jednou z najviac atraktívnych ciest pre migrantov z Blízkeho východu je centrálna
+stredomorská trasa, na ktorej sa vyskytuje najviac obetí. Z tohto dôvodu je potrebné
+aplikovať plán, ktorý zachráni životy ľudí a zabezpečí ich bezpečný prechod. Hoci od
+roku 2017 sa prílev migrantov znížil, ľudia naďalej zomierajú, snažiac sa dostať do EÚ.
+Tieto kroky odporúčajú medzinárodné mimovládne organizácie, akými sú Amnesty
+International, Human Right Watch a ECRE Európskej Komisie a Rade. Prvým krokom
+je zaistiť aktívne pátracie a záchranné operácie v Stredozemnom more. V prípade, že
+členské štáty EÚ zabezpečia pátracie a záchranné služby (SAR), tak by sa zachránili
+stovky životov. Navrhujú rozmiestniť určitý počet lodi v morskej zóne, zabezpečiť
+prístup mimovládnych organizácií, aby mohli schopné koordinovať SAR, členské štáty
+by sa mali zdržať bráneniu činnosti mimovládnych organizácií. Druhým krokom je
+O globálnom pakte o migrácii [online]. Europarl.europa.eu, Dostupné na internete:
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2017/614638/EPRS_BRI(2017)614638_EN.pdf
+[cit.16.3.2022]
+O globálnej stratégii o podpore vlád pri ukončení zadržiavania utečencov a žiadateľov o azyl [online].
+Unhcr.org, Dostupné na internete:
+https://www.unhcr.org/protection/detention/53aa929f6/beyond-detention-global-strategy-supportgovernments-end-detention-asylum.html
+[cit.17.3.2022]
+33
+
+26
+
+zaistiť spoluprácu s Líbyou v oblasti migrácie, predovšetkým s líbyjskou vládou národnej
+jednoty, ktorá odchytáva ľudí v mori a vracia ich naspäť. Tretím krokom je zavedenie
+pravidelného mechanizmu vylodenia a premiestnenia, ktorý by sa reguloval zo strany EÚ.
+Podstatným opatrením je aby, sa členské štáty zaviazali k zdieľaniu globálnej
+zodpovednosti a uľahčili pravidelné migračné cesty. Piatym opatrením je zaobstarať
+spravodlivú zodpovednosti za nehumánne konanie, pre všetkých čo porušujú ľudské
+práve. Líbyjské vládne a právne inštitúcie nie sú schopné zabezpečiť spravodlivé
+prostriedky pre obete porušovania či zneužívania ľudských práv. Takisto, problémy s
+týmto mali aj členské štáty únie, ktoré boli niekoľko krát obvinené z porušovanie
+ľudských práv a zlého zaobchádzanie s migrantami, žiadateľmi o azyl.34
+Nový pakt o migrácie a azyle, aplikovaný EÚ je veľkou ambíciou migračnej
+politiky únie, cieľom ktorého je vybudovať silný systém založený na medzinárodnom
+práve a európskych hodnotách. Napriek tomu, nový pakt obsahuje medzery, ktoré
+prekážajú vybudovať ozajstný silný a efektívny systém. Absentuje odsek o ochrane
+námorných utečencov a migrantov, ktoré naďalej volia cestu naprieč Stredozemným
+morom. Takisto nie sú eliminované štrukturálne faktory, ktoré nútia ľudí cestovať
+morom. Napriek tomu, EÚ sústredila na boj proti neregulárnym príchodom a riadeniu
+zmiešaných migračných tokov. Ďalším problém, ktorého riešenie je zahrnuté v pakte je
+nerovnomerná zodpovednosť členských štátov, ktorá sa prejavila počas migračnej krízy
+v rokoch 2015-2017. Aby sa dosiahol spoločný európsky prístup k záchrane je potrebné
+splniť päť elementov. Najprv je nutné nastoliť predvídateľný systém premiestňovanie pri
+vyloďovaní, posilniť spoluprácu medzi členskými krajinami, hlbšie začlenenie agentúry
+Frontex pomocou technickej a operačnej podpory. Taktiež, prehĺbiť spoluprácu medzi
+krajinami pôvodu a tranzitu za účelom zabrániť neopraveným prechodom a boju proti
+nelegálnemu vstupu. Zavedenie týchto prvkov môže prispieť k lepšiemu riadeniu
+migračnej politiky EÚ. Kompasom na ceste rozvoja tohto konsolidačného procesu musí
+byt základ ľudských práv a hodnôt Európskej únie. 35
+Hlavnými prioritami novej azylovej politiky ostáva zníženie počtu nelegálnej
+migrácie a záchrana životov ľudí. Na dosiahnutie prvého cieľa je nutné nastoliť efektívny
+
+34
+
+Plan of Action: Twenty Steps to Protect People on the Move Along the Central Mediterranean Route.
+(2021). In Human Rights Watch. Dostupné na internete: https://www.hrw.org/news/2021/06/16/planaction-twenty-steps-protect-people-move-along-central-mediterranean-route [cit.17.5.2022]
+35
+O globálnom pakte o migrácii [online]. Europarl.europa.eu, Dostupné na internete:
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2017/614638/EPRS_BRI(2017)614638_EN.pdf
+[cit.16.3.2022]
+
+27
+
+spojovací kanál medzi štátmi Európskej únie a štátmi pôvodu utečencov a žiadateľov o
+azyl. Druhá priorita je zameraná na vytvorenie nového prístupu k SAR, nakoľko v novom
+pakte sa kládol dôraz najmä na minimalizáciu
+
+možnosti pre záchranu a zníženie
+
+spolupráce s mimovládnymi, ktoré majú prístup k SAR. Vzhľadom na to, Komisia
+navrhla dva právne nástroje: odporúčanie o spolupráci medzi členskými štátmi týkajúce
+sa operácií vykonávaných plavidlami, ktoré vlastnia alebo prevádzkujú súkromné
+subjekty na účely pátracích a záchranných činností a usmernenie Komisie o
+implementácii pravidiel EÚ o vymedzení a prechádzaní uľahčovaniu neoprávneného
+vstupu, tranzitu a pobytu. Problémom je nedostatočná reakcia EÚ v otázke záchrany,
+preto SAR sa javí ako kľúčový prvok pri riadení hraníc, ktorý by mal spojiť riadenie
+Frontexu a vnútroštátnych orgánov. Za účelom lepšieho riadenia vonkajších hraníc je
+potrebné spraviť dlhodobý rozpočet ,ktorý sa bude zaoberať posilnením vonkajších hraníc
+EÚ prostredníctvom vytvorenia nového Fondu pre integrované riadenie hraníc s objemom
+finančných prostriedkov vyše 9,3 miliardy EUR a prostredníctvom výrazného zvýšenia
+finančných prostriedkov na 12 miliárd EUR pre decentralizované agentúry podporujúce
+členské štáty, ktoré chránia hranice EÚ, hlavne agentúry Frontex. Vo všeobecnosti
+môžeme konštatovať, že aj samotný plán, vytvorený Komisiou prenecháva priestor pre
+možné chyby. Pátranie a záchrana naďalej ostávajú problematickou oblasťou a v novom
+pakte bola navrhnutá skôr ako výnimka než legislatívna povinnosť. 36V novom pakte nie
+je hlbšie prediskutovaná otázka ochrany ľudských práv, nie je vytvorený žiadny
+legislatívny rámec pre osoby, ktoré boli zneužité alebo sa dostali do zlých situácií.
+Takisto, nie sú chránení nelegálne migranti, ktorí sú sťahovaní, zadržiavaní alebo
+diskriminovaní , čo znamená, že aj systému návratu migrantov chýba komplexná
+zodpovednosť a právny mechanizmus na ochranu osôb, ktorým bol odmietnutý azyl alebo
+ochrana. 37
+Samotná agentúra Frontex je veľmi dôležitá v oblasti ochrany vonkajších hraníc,
+nakoľko teraz únia čelí prílevu utečencov z Ukrajiny. Posilnenie hraníc EÚ je jednou z
+aktuálnych otázok, ktoré únia musí riešiť z dôvodu, že vojnový konflikt sa odohráva v
+bezprostrednej blízkosti jej hraníc. V prípade vojnového konfliktu na Ukrajine Európska
+36
+
+Plan of Action: Twenty Steps to Protect People on the Move Along the Central Mediterranean Route.
+(2021). In Human Rights Watch. Dostupné na internete: https://www.hrw.org/news/2021/06/16/planaction-twenty-steps-protect-people-move-along-central-mediterranean-route [cit.17.5.2022]
+37
+Frontex Risk Analysis for 2018. – Frontex European Border and Coast Guard Agency, February 2018
+[online]. Frontex.europa.eu. Dostupné na internete:
+https://frontex.europa.eu/assets/Publications/Risk_Analysis/Risk_Analysis/Risk_Analysis_for_2018.pdf
+[cit.25.2.2022]
+
+28
+
+Rada zaviedla systém dočasnej ochrany. Tento mechanizmus je veľmi komplexný a
+využíva sa pri hromadnom príleve ľudí, s cieľom poskytnúť okamžitú a kolektívnu
+ochranu ľudí, ktorý sa nemôžu vrátiť do krajiny pôvodu. Tento mechanizmus zmierňuje
+tlak na vnútroštátne azylové orgány a zároveň umožňuje osobám používať svoje práva v
+rámci celej EÚ. Občania Ukrajiny ako aj občania tretích krajín alebo osoby bez štátnej
+príslušnosti, ktorí sa nachádzali na území Ukrajiny v čase vypuknutia vojny majú právo
+na dočasnú ochranu na obdobie jeden rok, ktoré je možne automatický predlžiť o šesť
+mesiacov. V rámci tohto rozhodnutia bude Európska komisia koordinovať spoluprácu a
+výmenu informácií medzi členskými štátmi. Ide najmä o monitorovanie príležitostí na
+prijatie a identifikáciu potreby ďalšej podpory. Agentúry EÚ vrátane Frontexu, Agentúry
+EÚ pre azyl a Europolu môžu na žiadosť členských štátov poskytnúť ďalšiu operačnú
+podporu.
+
+29
+
+Záver
+Azyl je miesto ochrany, poskytované štátmi osôbam, ktoré boli nútené odísť zo
+svojej vlasnej krajíny z politických, rasových či náboženských dôvodov. V súčasnosti
+patrí problematika azylu medzi kategóriu základných ľudských práv. Prax v oblasti
+poskytovania azylu ľudom a chrániť ich týmto spôsobom od nebezpečenstva má pomerne
+dlhú históriu. Korene siahajú až do čias náboženských prenasledovaní, kedy sa ľudia
+mohli sa ukryť v kláštorach či kostoloch. Prvé predstavy v kontexte pojmu azyl boli preto
+spojené so svätým miestom alebo v blízkosti neho. Tato posvätosť zabezpečovala ľudom
+útočisko pred jurisdikciou a garantovala ochranu. S rozšírovaním pojmu štátnej
+suverenity sa právomoc poskytnuť azyl presunula od naboženskej do politickej roviny.
+Základným nástrojom sa stál štátny azyl. Začiatkom 20. storočia začali azyl úznavať ako
+súčasť ľudských práv, čo vyvrchilo prijatím Všeobecnej dekláracií ľudských práv. Tento
+krok znamenal uznanie azylu ako medzinárodného právneho nástroju a posun tohto
+nástroju do legislatívy štátu, ako individuálneho práva. Hrôzy prvej svetovej vojny
+donútili svetové spoločenstvo právne zakotviť pojem azyl, utečenec a ochranu. Prvým
+takým medzinárodným dokumentom bol „dohovor Spoločnosti národov z roku 1933
+o medzinárodnom postavení utečencov“, ktorý zakazoval podpísujúcim štátom zmluvy
+odmietnuť vstup utečencov zo susedných štátov a vyháňať ich zo svojho územia. Druhá
+svetová vojna priniesla aj ďalšie zmeny. Udeľovanie azylu sa začalo chápať ako
+povinnosť každého štátu, a nie ako diskrečná právomoc. Štáty už mali povinnosť
+poskytovať azyl osobám bez štátnej príslušnosti alebo osobám prenasledovaných
+vlastným štátom. Ďalšia zmena v chápani azylu prišla v roku 1948, zahrnutím 14 članku
+30
+
+Všeobecnej deklarácie ľudských práv. Udeľovanie azylu v Európskej únii má svoje
+základy v rámci dohovoru o postavení utečencov. Nasledné vytvorenie Schengenského
+priestoru v roku 1985 a prijatie Amsterdamskej zmluvy prispelo k vytvoreniu spoločnej
+azylovej politiky Európskej únie. V roku 2011 bol vytvorený spoločný azylový systém,
+ktorý však obsahoval množstvo chýb a medzier. Najtvrdšie bola azylová politika EÚ
+testovaná migračnými tokmi v roku 2015. Táto kríza priniesla viac ako milión utečencov,
+politickú a ekonomickú nestabilitu a poukázala na mnohé nedostatky systému. Už počas
+prvej migračnej vlny mohli sme vidieť ohromujúci tlak na azylové inštitúcie EÚ.
+Nedostatočná kontrola na vonkajších hraníc, absencia hlbšiej spolupráce medzi krajinami
+pôvodu a tranzitu, nerovnomerná politika prijmania utečencov predstavovali faktory,
+ktoré podnietili procesy orgánov EÚ v úsilí reformy spoločného azylového systému.
+Rozdrobenosť medzi členskými štátmi obmedzovala možnosť dospieť k jednotnému
+rozhodnutiu alebo k spravodlivej zodpovednosti členských štátov. Politika otvorených
+dverí pre utečencov nemeckej kancelárky A. Merkelovej, ktorú podporovali najmä
+západoeurópske krajiny, narazila na silný odpor v krajinách bývalého socialistického
+tábora, ktoré nechceli prijímať migrantov z iného kultúrneho prostredia.
+Od roku 2015 sa započala séria reforiem s cieľom zlepšiť azylovú politiku
+Európskej únie. Politika EÚ sa zamerala najmä na tieto oblasti: pomoc utečencom, ktorí
+už boli zaregistrovaní v členských štátoch EÚ a bol im udelený azyl; zabránenie
+migrantom, ktorým už bol odmietnutý azyl
+
+vstúpiť na územie EÚ,
+
+reformovať
+
+inštitucionálnu kapacitu EÚ a vykonávať cielené opatrenia na prekonanie príčin
+nelegálnej migrácie. Obmedzenie toku utečencov a ich návrat k nebezpečným krajinám,
+EÚ tak porušuje medzinárodné normy legislatívu, ktorá im zaručuje právo na azyl v
+ktorejkoľvek krajine na svete. Z tôhto dôvodu boli inštitúcie EÚ a niektoré jej členské
+štáty obvinené z porušovania ľudských práv najmä zo strany mimovládnych
+ľudskoprávnych organizácií. Napriek všetkým reformám, ktoré boli zavedené do roku
+2020, problematickým pre EÚ ostáva otázka záchranných a patrácich služieb, ktoré boli
+obvinené z kriminálizacie členskými štátmi. Preto mimovládne organizácie apelujú na
+poskytovanie právomoci v tejto oblasti. V roku 2020 Európska komisia navrhla balíček
+reforiem, ktoré sú komplexnejšie a prepracovanejšie. Základom sa stali tri piliere:
+efektívne azylové a návratové postupy, zintenzívnenie spolupráce s tretími krajinami,
+solidarita a spravodlivé rozdelenie. V súčasnosti európsky azylový systém zahrňuje päť
+legislatívnych návrhov a jednu agentúru: Smernica o azylovom konaní, ktorá ustanovuje
+spoločný postup medzinárodnej ochrany; Smernica o podmienkach prijímania, ktorá
+31
+
+garantuje rovnaké normy podmienok prijatia v celej EÚ; Kvalifikačná smernica, ktorá
+určuje, kto spĺňa podmienky pre medzinárodnú ochranu; Dublinské nariadenie, ktoré
+určuje zodpovednú krajinu za proces žiadosti o azyl; Nariadenie EURODAC, čo je IT
+systém vytvorený na zhromažďovanie, prenos a porovnávanie odtlačkov prstov, ktorý
+pomáha dublinskému systému a agentúra Európskej únie pre azyl.
+Napriek rozsiahlej snahe Európskej únie zdokonaliť azylový systém, existuje
+mnoho priestoru pre zavedenie ďalších efektívnych reforiem. Revíziu potrebuje
+Dublinský systém, ktorý už bol veľa krát kritízovaný ako nedostatočný pre dobré
+fungovanie azylového systému. Otázka SAR ostáva nadalej nevyriešená, preto je
+potrebné zabezpečiť legálne spôsoby prechodu do Európskej únie cez Stredozemné
+more, poskytovať bezpečný návrat osobám odmietnutým v azyle. Okrem toho, Európskej
+únie odporučajú zvyšiť financovanie pre krajiny pôvodu a tranzitu, otvoriť nové legálne
+cesty pre prisťahovalectvo. Objavujú sa aj viac radikalnejšie nápady ohlaďom vytvorenia
+plnohodnotnej migačnej únie, ktorá by spojila politiky členských štátov ešte viac.
+Európska únia v súčasnosti čelí utečeneckej kríze , ktorá je spojená s vojnou na
+Ukrajine, kedy sa stovky tísic osôb ocitli mimo svojej domovskej krajiny a priestor
+Európskej únie sa stal ich dočasným útočiskom. Môžeme konštantovať, že túto vlnu EÚ
+zvláda relatívne dobre, najmä vďaka rýchlej reakcii inštitúcií a zároveň väčšej ochote
+členských štátov prijať ukrajinských utečencov.
+
+32
+
+Zoznam bibliografických odkazov
+A ) Knižné publikácie a monografie
+BALGA ,J.: Azylove pravo. Plzeň : Aleš Čeněk , 2012, s.53-56 ISBN 978-80-7380-3841
+CHEREVICHENKO,T.: Actual problems of modern international relations, Moskva :
+Institute of Oriental Studies RAS,2016 s.6-7 ISBN 978-5-89282-674-7, 978-5-99077922-8
+KOŠIČIAROVÁ, S.: Aktuálne otázky azylového práva I ,6. november 2018 Bratislava,
+s.17-22 ISBN 978-80-568-0188-8
+B) Judikatúra
+Nález Ústavného súdu SR, sp. zn. II. ÚS 147/2013, zo dňa 9. októbra 2013. Dostupne na
+internete
+
+:
+
+https://www.ustavnysud.sk/docDownload/9d3c7f38-8a20-48bf-89fb-
+
+3f228140e04d/%C4%8D.%2048%20-%20II.%20%C3%9AS%20147_2013.pdf
+[cit.2021-12-10].
+
+D) Internet
+Azylová
+
+politika
+
+[online].
+
+Europarl.europa.eu,
+
+Dostupné
+
+na
+
+internete:
+
+https://www.europarl.europa.eu/factsheets/sk/sheet/151/asylum-policy [cit.2022-05-13].
+Dohovor o právnom postavení utečencov [online]. Unhcr.org, Dostupné na internete:
+https://www.unhcr.org/sk/215-skzdrojedohovorydohovor-o-pravnom-postaveniutecencov-html.html
+33
+
+[cit.2022-06-22].
+Frontex Risk Analysis for 2018. – Frontex European Border and Coast Guard Agency,
+2018. [online]. Frontex.europa.eu. Dostupné na internete:
+https://frontex.europa.eu/assets/Publications/Risk_Analysis/Risk_Analysis/Risk_Analys
+is_for_2018.pdf [cit.2022-02-25].
+O azyle [online]. Oecd.org ,International migration outlook (2016), Dostupné na
+internete: https://www.oecd.org/els/mig/IMO-2016-chap4.pdf
+[cit.2022-02-25].
+
+O azyle a doplnkovej ochrane [online]. Employment.gov.sk
+Dostupné na internete: https://www.employment.gov.sk/sk/informacie-cudzincov/azyldoplnkova-ochrana/ [cit.2021-12-20].
+O globalnom pakte o migracii [online]. Europarl.europa.eu, Dostupné na internete:
+https://www.europarl.europa.eu/RegData/etudes/BRIE/2017/614638/EPRS_BRI(2017)6
+14638_EN.pdf
+[cit.2022-03-16].
+O globalnej strategii o podpore vlad pri ukončeni zadržiavania utečencov a žiadatelov
+o azyl [online]. Unhcr.org, Dostupné na internete:
+https://www.unhcr.org/protection/detention/53aa929f6/beyond-detention-globalstrategy-support-governments-end-detention-asylum.html
+[cit.2022-03-17].
+
+O migracii [online]. Consilium.europa.eu, Dostupné na internete:
+https://www.consilium.europa.eu/en/meetings/european-council/2018/06/28-29/
+[cit.2022-03-16].
+O migračnej krize v Europe [online].bbc.com, [2016-02-19].
+Dostupné na internete:
+https://www.bbc.com/russian/international/2016/02/160219_migrant_crisis_charts
+34
+
+[cit.2022-03-01].
+O postavení EU pri rokovaniach OSN o globalnom pakte o migracii [online]. Ceps.eu,
+Dostupné na internete:
+https://www.ceps.eu/ceps-publications/what-role-eu-un-negotiations-global-compactmigration/
+[cit.2022-03-17]/
+O právnom postavení utečencov [online]. Unhcr.org, Dostupné na internete:
+https://www.unhcr.org/refugee-status-determination.html
+[cit.2022-06-20].
+O reforme spoločneho europskeho azyzloveho systemu [online]. Eur-lex.europa.eu,
+[2010-03-30]. Dostupné na internete:
+https://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:FULL:EN:PDF
+[cit.2022-03-09].
+O reforme azyloveho systemu [online]. Consilium.europa.eu, Dostupné na internete:
+https://www.consilium.europa.eu/sk/policies/eu-migration-policy/eu-asylum-reform/
+[cit.2022-03-15].
+O reforme azyloveho systemu [online]. Eur-lex.europa.eu, Dostupné na internete:
+https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32013R0604
+[cit.2022-03-15].
+E) Články
+An Economic Take on the Refugee Crisis [online]. Dostupné na internete: ec.europa.eu
+Dostupné
+
+na
+
+internete:
+
+https://ec.europa.eu/info/sites/default/files/file_import/ip033_en_2.pdf [cit.2022-03-15].
+
+BALANS, F.,KERE S.:Europe pushing migrants into the arms of criminals, 2016. In
+inosmi.ru [online]. Dostupné na internete:
+https://inosmi.ru/20160201/235237856.html
+[cit.2022-03-02].
+35
+
+FEVRALSKAYA. A.: 2016. The Problem of migration in contemporary Europe: causes
+and
+
+consequences,
+
+Scientific-methodical
+
+electronic
+
+journal
+
+“Concept”.
+
+In
+
+pressto.amu.edu.pl [online].Dostupné na internete:
+https://pressto.amu.edu.pl/index.php/r/article/view/25697
+[cit.2022-03-02].
+
+FILATOVA, I.: What awaits the EU market in the event of the collapse of the Schengen
+area. In dw.com [online]. Dostupné na internete:
+https://www.dw.com/ru
+[cit.2022-03-04].
+
+GOLOVINA, M.:The refugee problem: the UN is sounding the alarm. In tass.ru [online].
+Dostupné na internete:
+https://tass.ru/spec/refugee
+[cit.2022-03-04].
+
+LEHNE S., 2016. How the Refugee Crisis Will Reshape the EU. In Carnegie Europe
+[online] Dostupné na internete: https://carnegieeurope.eu/2016/02/04/how-refugeecrisis-will-reshape-eu-pub-62650 [cit.2022-05-13].
+
+LENHY S., The EU Remains Unprepared for the Next Migration Crisis. In
+carnegieeurope.eu [online]. Dostupné na internete:
+https://carnegieeurope.eu/2018/04/03/eu-remains-unprepared-for-next-migration-crisispub-75965
+[cit.2022-05-13].
+
+Medzinárodná ochrana. Aký je rozdiel medzi štatútom utečenca a doplnkovou ochranou?
+2022. In uainkrakow [online]. Dostupné na internete: https://uainkrakow.pl/ochronamiedzynarodowa-czym-sie-rozni-status-uchodzcy-i-ochrona-uzupelniajaca/
+
+[cit.2022-
+
+05-12].
+
+MORENO-LAX, V.: 2021. A New Common European Approach to Search and
+36
+
+na
+
+internete:
+
+https://eumigrationlawblog.eu/a-new-common-european-approach-to-
+
+search-and-rescue-entrenching-proactive-containment/ [cit.2022-05-17].
+
+NOVOTNY V., The Refugee Crisis in Focus: Towards better cooperation between
+Europe’s national governments. In martenscentre.eu [online]. Dostupné na internete:
+https://www.martenscentre.eu/publication/[cit.14.3.2022]
+OSTHUES, O.: 2014. The Future of the Common European Asylum System: The
+disgrace of a Regulation. Dublin II and III by comparison. In University of Twente
+student
+
+theses.
+
+[online].
+
+Dostupné
+
+na
+
+internete:
+
+https://essay.utwente.nl/66008/1/Osthues_BA_MB.pdf [cit.2022-03-15].
+
+Plan of Action: Twenty Steps to Protect People on the Move Along the Central
+Mediterranean Route. 2021. In Human Rights Watch.
+
+Dostupné na internete:
+
+https://www.hrw.org/news/2021/06/16/plan-action-twenty-steps-protect-people-movealong-central-mediterranean-route [cit.2022-05-17].
+
+SCHILTZ, C.:The EU has become a club of egoists // Die Welt. 31.08.2015. In welt.de
+[online]. Dostupné na internete:
+http://www.welt.de/debatte/kommentare/article145852230/Die-EU-ist-einKlub-vonEgoisten-geworden.html
+[cit.2022-03-19].
+
+VOJNIKOV V., European space of freedom, security and justice and the migration crisis
+in Europe. In cyberleninka.ru [online]. Dostupné na internete:
+https://cyberleninka.ru/article/n/evropeyskoe-prostranstvo-svobody-bezopasnosti-ipravosudiya-i-migratsionnyy-krizis-v-evrope/viewer
+[cit.2022-03-15].
+
+37
+
+

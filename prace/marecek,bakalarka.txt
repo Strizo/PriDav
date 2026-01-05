@@ -1,0 +1,2969 @@
+SLOVENSKÁ POĽNOHOSPODÁRSKA UNIVERZITA
+V NITRE
+TECHNICKÁ FAKULTA
+TF-102484-68035
+
+VPLYV HLUKU NA KVALITU PRACOVNÉHO
+PROSTREDIA VO VYBRANOM PODNIKU
+Bakalárska práca
+
+2021
+
+Miroslav Mareček
+
+SLOVENSKÁ POĽNOHOSPODÁRSKA UNIVERZITA
+V NITRE
+TECHNICKÁ FAKULTA
+
+VPLYV HLUKU NA KVALITU PRACOVNÉHO
+PROSTREDIA VO VYBRANOM PODNIKU
+Bakalárska práca
+
+Študijný program:
+Študijný odbor:
+
+Kvalita a bezpečnosť vo výrobných
+technológiách
+Strojárstvo
+Katedra zariadení stavieb a bezpečnosti
+
+Školiace pracovisko:
+
+techniky
+
+Vedúci záverečnej práce:
+
+prof. Ing. Miroslav Žitňák, PhD.
+
+2021
+
+Miroslav Mareček
+
+Čestné vyhlásenie
+Vyhlasujem, že predloženú záverečnú prácu som vypracoval samostatne. Všetky použité
+literárne zdroje som uviedol v zozname použitej literatúry.
+
+V Nitre dňa 19.5.2021
+...............................................................
+podpis študenta (autora)
+
+Poďakovanie
+
+Týmto chcem vyjadriť poďakovanie vedúcemu záverečnej práce pánovi prof. Ing.
+Miroslavovi Žitňákovi, PhD. za poskytnutie odborných rád a usmernenie pri písaní
+bakalárskej práce. Ďalej sa chcem poďakovať spoločnosti SC statik s.r.o. za poskytnutie
+priestorov na získavanie praktických poznatkov, ktoré som využil v tejto práci.
+
+Abstrakt
+Táto bakalárska práca je zameraná na analýzu hlučnosti ako faktora pracovného prostredia,
+ktorý ovplyvňuje bezpečnosť a zdravie zamestnancov vo vybranej spoločnosti. Hluk
+môžeme zaradiť do rizikových faktorov na pracovisku, ktorý patrí medzi faktory s najväčším
+dopadom na zamestnanca. Túto prácu sme rozdelil na dve hlavné časti. V prvej časti, ktorá
+je teoretická, opisujeme hlavné pojmy ako je zvuk, hluk, meranie hluku, ochrana sluchu.
+V druhej časti, ktorá je praktická, sme vykonali meranie hluku. Namerané hodnoty sme
+analyzovali. Výsledky sme následne porovnávali s platnou legislatívou. Na základe
+nameraných a vypočítaných údajov zaradíme pracovníkov do rizikových skupín.
+
+Kľúčové slová: zvuk, hluk, analýza hlučnosti, ochrana sluchu
+
+Abstract
+This bachelor thesis is focused on the analysis of noise as a factor of the working enviroment
+that affects the safety and health of employees in a selected company. Noise can be included
+in the risk factors in the workplace, which is one of the factors with the greatest impact on
+the employee. We devided this work into two main parts. In the first part, which is
+theoretical, we describe the main concepts such as sound, noise, noise measurement, hearing
+protection. In the second part, which is practical, we performed a noise measurement. We
+analyzed the measured values. We then compare the results with the valid legislation. Based
+on measured and calculated data, we classify employees into risk groups.
+
+Key words: sound, noise, noise analysis, hearing protection
+
+Obsah
+Úvod .................................................................................................................................... 10
+1
+
+Súčasný stav riešenej problematiky .......................................................................... 12
+1.1
+
+Zvuk a hluk ........................................................................................................ 12
+
+1.1.1
+
+Zvuk a šírenie zvuku ...................................................................................... 12
+
+1.1.2
+
+Hluk ............................................................................................................... 12
+
+1.1.3
+
+Základné akustické, decibelové pojmy a veličiny ......................................... 14
+
+1.1.4
+
+Hluk a ako sa správa ...................................................................................... 17
+
+1.1.5
+
+Decibelová stupnica ....................................................................................... 18
+
+1.1.6
+
+Vzťah medzi vystavením hluku a stratou sluchu ........................................... 20
+
+1.2
+
+Meranie hluku .................................................................................................... 21
+
+1.2.1
+
+Základný reťazec meracieho systému ............................................................ 22
+
+1.2.2
+
+Zosilňovače .................................................................................................... 22
+
+1.2.3
+
+Kalibrácia ....................................................................................................... 23
+
+1.2.4
+
+Merače hladiny zvuku .................................................................................... 23
+
+1.2.5
+
+Niektoré zložité situácie pri meraní hluku ..................................................... 24
+
+1.3
+
+Vplyv hluku na sluch ......................................................................................... 25
+
+1.3.1
+
+Poruchy sluchu ............................................................................................... 25
+
+1.3.2
+
+Vizualizácia zvukového poľa ........................................................................ 26
+
+1.3.3
+
+Priestorový zvuk v teste sluchového vnímania .............................................. 27
+
+1.4
+
+Ochrana sluchu .................................................................................................. 28
+
+1.4.1
+
+Pasívne chrániče ............................................................................................ 29
+
+1.4.2
+
+Aktívne chrániče ............................................................................................ 29
+
+1.4.3
+
+Chrániče sluchu s aktívnym potlačením hluku .............................................. 30
+
+2
+
+Cieľ práce .................................................................................................................... 32
+
+3
+
+Metodika práce ........................................................................................................... 33
+
+4
+
+3.1
+
+Kategorizácia prác podľa vyhlášky 448/2007 ................................................... 33
+
+3.2
+
+Prístroj na meranie hluku................................................................................... 34
+
+3.3
+
+Výpočet normalizovanej hladiny expozície hluku ............................................ 35
+
+Výsledky práce ............................................................................................................ 36
+
+4.1
+
+O firme SC Statik, s.r.o. .................................................................................... 36
+
+4.2
+
+Popis strojov a prístrojov použitých pri meraní hluku ...................................... 37
+
+4.3
+
+Popis práce......................................................................................................... 41
+
+4.4
+
+Namerané hodnoty............................................................................................. 42
+
+4.5
+
+Vzorový výpočet ............................................................................................... 46
+
+4.6
+
+Výsledky výpočtov pri 8 hodinovej pracovnej zmene ...................................... 48
+
+4.7
+
+Výsledky výpočtov pri 12 hodinovej pracovnej zmene .................................... 49
+
+4.8
+
+Porovnanie výsledkov s vyhláškou 448/2007 Z. z. ........................................... 50
+
+4.9
+
+Návrh opatrení ................................................................................................... 51
+
+5
+
+Záver ............................................................................................................................ 55
+
+6
+
+Zoznam použitej literatúry ........................................................................................ 57
+
+Zoznam skratiek a značiek
+SI
+
+Systéme International
+
+kP
+
+jednotka tlaku
+
+t
+
+teplota
+
+°C
+
+značka jednotky teploty stupeň celzia
+
+p0
+
+referenčná hodnota akustického tlaku
+
+m/s
+
+jednotka rýchlosti
+
+Hz
+
+jednotka frekvencie
+
+P
+
+základná jednotka tlaku
+
+dB
+
+jednotka pre meranie intenzity zvuku
+
+LP
+
+hladina akustického tlaku
+
+LW
+
+hladina akustického výkonu
+
+LI
+
+hladina akustickej intenzity
+
+log
+
+logaritmická funkcia
+
+UEZ
+
+úroveň expozície hluku
+
+m
+
+základná jednotka dĺžky
+
+min
+
+jednotka času
+
+Úvod
+Pracovné prostredie je jedným z dôležitých faktorov pri získavaní zamestnancov, pri
+zvyšovaní ich výkonu a pohody. Mnoho negatívnych faktorov môže prispieť k zníženiu
+neprimeranej pracovnej záťaže, únavy, práceneschopnosti či chorôb z povolania. Dosiahnuť
+správnu rovnováhu nie je jednoduché. Zmeny v životnom prostredí, ktoré priniesol vedeckotechnický vývoj sú príliš rýchle na to, aby mal človek dosť času sa na ne adekvátne
+adaptovať. Aktívnym pôsobením na životné prostredie môžeme nadobudnúť kvalitatívne
+nové formy. Ochrana pracovného prostredia a bezpečnosť zdravia pri práci si vyžadujú
+celistvý prístup. Životné a pracovné prostredie, kvalita a bezpečnosť práce, z hľadiska
+ochrany zdravia zamestnancov, by sa pre podniky mali stať žiadúce a podstatné.
+Pracovné prostredie pôsobí na človeka rôznymi faktormi: žiarenie, teplota vzduchu,
+vetranie, osvetlenie, hluk, otrasy a vibrácie. Vplyv týchto faktorov človek vníma, napríklad
+aj zvukovú (akustickú) reakciu, čo znamená, že je dobre počuť - reč, hudba a nepočuť žiadne
+rušivé zvuky - hluk.
+V bakalárskej práci sa zaoberáme problematikou vplyvu hluku na kvalitu pracovného
+prostredia, nakoľko významnú úlohu zohráva duševná rovnováha zamestnanca. S tým
+súvisia fyzikálne podmienky práce ako je teplota, čistota, osvetlenie a samozrejme hluk.
+Hlučnosť má nepriaznivé účinky na zamestnanca, môže ovplyvňovať jeho výkonnosť
+a zdravotný stav, ktoré môže viesť až k postupnému poškodeniu sluchových orgánov.
+Ochrana zdravia a bezpečnosť zamestnancov v súvislosti s expozíciou hluku pri práci je
+ustanovená v podmienkach SR. Podľa § 32 zákona č. 355/2007 Z. z. sú zamestnávatelia,
+ktorí používajú alebo prevádzkujú zariadenia, ktoré sú zdrojom hluku, povinní zabezpečiť
+technické, organizačné a iné opatrenia, ktoré vylúčia alebo znížia na najnižšiu možnú
+a dosiahnuteľnú mieru expozíciu zamestnancov hluku, a tým zabezpečia ochranu zdravia
+a bezpečnosti zamestnancov.
+Cieľom bakalárskej práce je poukázať na dôsledky neustálej modernizácie, ktoré
+zvyšujú požiadavky na úpravu pracovného prostredia. Pozornosť je venovaná teoretickej
+i praktickej stránke pracovného priestoru, ktorý by mal byť pohodlným, úžitkovým a
+bezpečným. Pozitívne a negatívne faktory pracovného prostredia ovplyvňujú správanie
+zamestnanca, ktoré sa odzrkadľujú na jeho práci a zdravotnom stave. Z toho dôvodu je
+dôležité, aby zamestnávatelia vytvárali vhodné pracovné prostredie pre svojich
+10
+
+zamestnancov a aby výkon ich práce bol kvalitný, hospodárny a bezpečný. Rušenie hlukom
+nie je len zdrojom obťažovania. Aby pracovníci plnili svoje každodenné úlohy je nutné, aby
+sa intenzívne sústredili. Čas potrebný na zotavenie pracovníkov spomaľuje produktivitu.
+Hluk je obrovským problémom na pracovisku už po desaťročia. Zvuku nie je venovaná
+dostatočná pozornosť napriek tomu, že vplýva na prospešnosť a kreativitu jednotlivcov,
+tímov či organizácií. Hluk v pracovnom prostredí je najrozšírenejším zdrojom nepríjemného
+pocitu a môže viesť k zvýšenému stresu zamestnancov. ,,Hladiny hluku“ sú široko
+rozšíreným a vysoko náročným problémom. Hlukom sa znižuje schopnosť sústredenia
+a môže prispievať nežiadúcim psychickým a fyzickým reakciám.
+Iba zamestnanci, ktorí sú spokojní s pracovnými a sociálnymi podmienkami na
+pracovisku, môžu podávať kvalitné výkony. Zavedenie bezpečnostných opatrení a ochrany
+zdravia na pracovisku pomáha aj zamestnávateľovi vyhnúť sa plateniu vysokých výdavkov
+spojených s úrazmi a umožňuje dosiahnuť lepšie výsledky pre vlastný podnik. Pre
+zamestnancov znamená zníženie hladiny zvuku zlepšenie schopnosti sa sústrediť, myslieť
+jasnejšie a byť menej v strese.
+
+11
+
+1 Súčasný stav riešenej problematiky
+1.1 Zvuk a hluk
+1.1.1 Zvuk a šírenie zvuku
+Mechanické vlnenie, ktoré sa šíri pružným prostredím a je vyvolávané kmitajúcim
+zdrojom, sa nazýva zvuk. Zvuky sú prirodzeným sprievodným javom prírodných dejov
+a života na Zemi. Rovnako pre človeka majú zvuky veľký význam. Sluchom človek prijíma
+najvýznamnejší podiel informácií. Zvuk je dôležitým poplašným signálom, varuje pred
+nebezpečenstvom, podceňuje aktivitu ľudského nervového systému a je základom reči. Zvuk
+môže byť upokojujúci, dráždivý, môže vyvolať radosť a vo forme hudby priniesť vrcholný
+estetický zážitok. Avšak nadbytok zvukov, ktoré sú spôsobované nespočítateľnými zdrojmi,
+môže často pôsobiť s takou intenzitou, ktorá neodpovedá ľudským schopnostiam únosnosti.
+Prílišný zvuk môže rušiť vnímanie dôležitých zvukových signálov. Zvuky, ktoré sú
+nežiadúce, obťažujú nás, alebo sú škodlivé, označujeme ako hluk. Zvuk vzniká, keď
+kolísanie tlaku vzduchu pôsobí na tlakové vlny, ktoré cestujú atmosférou. Počas cestovania
+integrujú rôznymi spôsobmi s ich okolím. (Vágnerová, 2013)
+Šírenie zvuku je spojené s prenosom energie. Priestor, ktorým sa šíri zvuk, sa nazýva
+zvukové pole. Zmena hustoty prostredia vytvorená kmitaním častíc v prostredí sa nazýva
+zvuková vlna. Plocha, kam dospeje zvuková vlna od svojho zdroja za rovnaký čas, sa nazýva
+vlnoplocha. Rýchlosť, ktorou sa šíria zvukové vlny prostredím, sa nazýva rýchlosť šírenia
+zvuku. Pri normálnej teplote t= 20 °C a normálnym atmosférickým tlakom p 0 = 101,3 kPa
+je rýchlosť zvuku zhruba 343 m/s. (Beran, 2013)
+
+1.1.2 Hluk
+Pre naše účely hluk definujeme ako zmes zvukov, tónov a šumov vznikajúcich
+neharmonickým kmitaním s nepravidelnými fyzikálnymi vlastnosťami ako je frekvencia,
+amplitúda, vlnová dĺžka a fáza. Frekvencia nižšia ako 20 Hz (infrazvuk) a vyššia ako 20 000
+Hz (ultrazvuk) patrí do nepoučiteľnej oblasti, to ale neznamená, že je neškodná. Pri vnímaní
+infrazvukových vĺn, ktoré sa nazývajú vibráciami, môže dôjsť k veľmi nepríjemným
+telesným reakciám. Podobné reakcie nastávajú aj pri ultrazvukových vlnách. Všeobecne sa
+za hluk považujú všetky zvuky, ktoré obťažujú, rušia alebo sú nepríjemné ľudskému
+organizmu. Jeho vnímanie je veľmi subjektívne a líši sa pri každom jednotlivci. Nepríjemný
+hluk však vnímame, či už je merateľný alebo nie. Menej subjektívne hodnotenie považujeme
+za taký zvuk, ktorý ma nepriaznivé účinky na ľudské zdravie. Tu sa dajú merať hodnoty
+12
+
+a určiť limity. ,,Rušivý´´ a ,,škodlivý´´ hluk spolu nemusia vôbec súvisieť, pretože nie každý
+zvuk, ktorý ruší, je škodlivý a nie všetky škodlivé zvuky sú zároveň aj zvuky rušivé. Čiže
+hluk je súbor všetkých rušivých a škodlivých zvukov. Škodlivý vplyv hluku na zdravie je
+nespochybniteľný. Ochorenia z hluku patria k najrozšírenejším ochoreniam z povolania. Už
+v začiatočnom štádiu môže mať hluk škodlivé účinky. Aj keď tieto účinky môžu byť čisto
+psychickej povahy, majú rovnaký vplyv na ľudský organizmus ako fyzické. Poruchy
+autonómnej nervovej sústavy ako sú nespavosť, znížená schopnosť sústredenia sa,
+chudokrvnosť a iné sa nie vždy považujú za dôsledky pôsobenia hluku, ale môžu vďaka jeho
+pôsobeniu vzniknúť alebo prehĺbiť sa. Hluk je slovo, ktoré sa zvyčajne aplikuje na nechcené
+zvuky a zvuk prítomný vo väčšine pracovných situácii je nežiadúci. Bežne hovoríme skôr
+o vystavení hluku na pracovisku ako o zvuku na pracovisku. Matematické opisy toho, ako
+sa zvuk správa pri interakcii s pevnou látkou ukazuje predmety ako môžu byť veľmi
+komplikované.
+Našťastie je možné pripraviť úplné opisy zvukového správania v jednoduchých
+idealizovaných
+
+situáciách
+
+a použiť
+
+ich
+
+na
+
+vybudovanie
+
+realistickejšej
+
+situácie.
+
+Najjednoduchším typom zvukovej vlny by bol čistý tón – sínusová vlna – pohyblivá
+v jednom smere bez rozloženia, keď sa vzďaľuje od zdroja. Ak by mohol urobiť snímku
+zmien tlaku v smere, v ktorom sa pohyboval. Toto je pomerne ťažké nakresliť, takže je
+ľahšie ukázať tlak variácie ako graf tlaku proti vzdialenosti ako je na (Obr. 1). Malo by sa
+pamätať na to, kedy sa deje, že zvuk je pozdĺžna vlna. Inými slovami vzduchové pohyby,
+ako vlna postupujú, idú dozadu a dopredu v rovnakom smere. Smer ako vlna sa pohybuje
+ako celok. To sa líši od priečnej vlny, ako napríklad séria vlniek na vodnej hladine. V takom
+prípade je to voda, ktorá sa pohybuje hore a dole, zatiaľ čo vlna sa pohybuje vodorovne. Ak
+by mohla stáť v jednom bode, kde by zvuková vlna smerovala k nám, tak by sme mohli
+vykresliť tlak ako funkciu času, kde by sme dostali aj sínusový tvar. To je predpoklad, že by
+sme mohli pracovať veľmi rýchlo. Tlak sa môže meniť aj niekoľko tisíc krát za sekundu!
+Skutočná zmena tlaku je aj pri dosť hlasných zvukoch veľmi malá. Pre porovnanie
+atmosférických tlakov sa môže ľahko zmeniť o 2-3% za bežného týždenného počasia. Keď
+meriame veľkosť zvukovej vlny, tak sa sústredíme na odchýlky tlaku okolitého vzduchu
+a táto odchýlka sa zvyčajne nazýva zvukový tlak. (Nový, 2000)
+
+13
+
+Obr.1 Tlak variácie ako graf tlaku proti vzdialenosti (http://meteojirkalina.com/wx24.php)
+
+1.1.3 Základné akustické, decibelové pojmy a veličiny
+Vlnová dĺžka – je vzdialenosť medzi dvoma najbližšími bodmi, ktoré sú v danom
+časovom okamihu v rovnakom akustickom stave, čiže tiež vzdialenosť, ktorú prejde za dobu
+jedného kmitu zvuková vlna. Vlnová dĺžka vo vzduchu pre nízke frekvencie vychádza až 17
+m a pre oblasť vysokých frekvencií naopak nízka v rádoch stotín metra. Určuje vzdialenosť
+dvoch po sebe idúcich maximov (minimov) kmitov vlny. Pre vlnovú dĺžku platí vzťah
+(Vaňková, 1995, Švancara, 2005):
+λ = = Tc
+
+(1)
+
+Zvuk vzniká tak že chvením a vibrovaním sa pohybujú časti strojov, rozochvievajú sa
+pružné plochy, kryty, nosníky alebo pulzujú plyny a kvapaliny. Zvuk sa od zdroja šíri
+zvukovými vlnami. Sú to periodické zmeny akustického tlaku, vyjadrované v pascaloch (Pa)
+a predstavujú
+
+rozdiel
+
+medzi
+
+okamžitým
+
+a akustickým
+
+Z hygienického hľadiska má zvuk tri najdôležitejšie vlastnosti:
+
+
+Hladina – prejavujúca sa ako hlasitosť
+
+
+
+Frekvencia – prejavujúca sa výškou zvuku
+
+
+
+Časový priebeh (Havránek, 1990)
+
+14
+
+tlakom.
+
+(Jiříček,
+
+2002)
+
+Hladina akustického tlaku p = efektívna hodnota akustického tlaku, p0 = referenčná
+hodnota akustického tlaku, hladina akustického výkonu. Hladina zvuku PA = efektívna
+hodnota akustického tlaku kmitočtu vážená filtrom A. Kmitočtová charakteristika typu A je
+v súčasnej dobe používaná pri prevažnej väčšine hygienických meraní. Kmitočet je
+frekvencia za jednu sekundu f. (Kaňák, 2008)
+Druhy hlukov:
+
+
+Ustálený hluk – je taký zvuk, ktorého hladina zvuku LAF sa nezmení v čase a kolíše
+v menšom rozsahu ako 5 dB. Pri meraní zisťujeme ustálený údaj zo zvukomeru,
+pričom sledujeme, či výška nameranej hodnoty sa nelíši o viac ako o 5 dB
+a z nameraných hodnôt vypočítame aritmetický priemer.
+
+
+
+Pomerný prerušovaný hluk – je hluk, ktorého hladina zvuku LAF sa mení skokom
+z hlučného na tichý interval a naopak. Ak sú hladiny zvuku v každom intervale
+ustálené, meriame ju ako v predošlom prípade okrem hladiny hluku A. Pre hlučný
+a tichý interval uvádzame aj časový podiel intervalov. Buď v absolútnej hodnote
+alebo v percentách času, či ako pomer.
+
+
+
+Pomerný hluk nepravidelný – sa vyznačuje meniacou sa hladinou zvuku v čase, kedy
+zmeny presahujú 5 dB a sú náhodné, alebo sa opakujú v zložitých cykloch. Meranie
+takéhoto hluku spočíva v stanovení podielu jednotlivých hlukových hladín, pričom
+doba merania musí byť zvolená tak, aby v jej priebehu boli s dostatočnou
+pravdepodobnosťou zastúpené všetky obvyklé hlukové udalosti.
+
+
+
+Pomerný hluk impulzný – je charakterizovaný hladinou hluku, ktorá rýchlo rastie
+k maximu a následne rýchlo klesá tak doba trvania jedného pulzu je menšia ako 200
+ms a interval medzi jednotlivými pulzmi je väčší než 10 ms. Podľa priebehu
+okamžitých hodnôt zvukového tlaku sa rozoznávajú dva tipy impulzov:
+
+a. Impulz sprevádzaný dozvukom v podobe tlmeného sínusového kmitu, typ A.
+b. Impulz tipu N, charakteristický pre sonický tresk a iné podobné zdroje.
+(Havránek, 1990)
+
+15
+
+Obr. 2 Druhy hluku podľa časového priebehu (Havránek, 1990)
+Akustický tlak p [Pa] je skalárna veličina určujúca rozdiel medzi okamžitým
+a statickým tlakom. Vzorec pre harmonický signál je daný vzťahom:
+
+p = p0 cos ω τ −
+
+𝑥
+
+(2)
+
+𝑐
+
+Hladina akustického tlaku Lp [dB] je jednotkou zvukovej energie vysielané zdrojom
+hluku. Jej referenčná hodnota pre vzduch je p0 = 2x10
+
+Lp = 20 log
+
+Pa. Vzťah je v tvare:
+
+(3)
+
+Hladina akustického výkonu LW [dB] je nezávislá na podmienkach, v ktorých sa
+určuje nevyhnutnou veličinou pre posudzovanie vplyvu hluku na zdravie človeka,
+ekonomiku spoločnosti a ich životnú úroveň. Referenčná hodnota akustického výkonu je P 0
+= 10
+
+W. Je definovaná vzťahom (Vágnerová, 2013):
+
+LW = 10log
+
+(4)
+16
+
+Hladina akustickej intenzity LI [dB] vzrastie o 10 decibelov pri zvýšení akustickej
+intenzity o jeden riadok (desaťnásobok) a je definovaný vzťahom (Mišun, 2005):
+
+LI = 10log
+
+(5)
+
+1.1.4 Hluk a ako sa správa
+Meria sa ako každá iná dĺžka v metroch. Za normálnych podmienok môže mať hluk
+zvukové vlnové dĺžky v rozmedzí od niekoľkých centimetrov do niekoľkých metrov.
+Napríklad pri 1 kHz vlnová dĺžka bude asi 34 cm. Pri 100 Hz je vlnová dĺžka okolo 3,4 m.
+Vlnová dĺžka a frekvencia konkrétnej vlny súvisia s jednoduchými rovnicami: v ¼ f 1 (1:1),
+kde je rýchlosť a s akou vlna cestuje (to sa mierne mení s teplotou, ale je asi 340 ms l vo
+vzduchu pri izbovej teplote); f je jeho frekvencia; a l je jeho vlnová dĺžka. Vyššie uvedenú
+rovnicu možno prepísať na f ¼ v takom prípade je ľahké vypočítať frekvenciu
+zodpovedajúcu danej vlnovej dĺžke. Prípadne, ak je potrebné vypočítať vlnovú dĺžku
+z a znalosť frekvencie, môže byť vyjadrená ako l ¼ v f. Frekvencia vlny je počet úplných
+vĺn, ktoré prechádzajú ľubovoľnými konkrétny bod v priebehu jednej sekundy. Jednotkou
+frekvencie je Hertz. Ak je frekvencia 1000 Hz t. J. 1kHz, tak to bude 1000 úplných vĺn ktoré
+dorazia za jednu sekundu. Frekvencia čistého tónu, ako je táto, je veľmi úzka. Súvisí s jeho
+zjavnou výškou tónu. Vysoký zvuk ma vysokú frekvenciu, zatiaľ čo nízky tón má nízku
+frekvenciu. Rozsah tónov ktoré sú bežné sa považuje za počuteľné pre ľudí, pohybuje sa od
+20 do 20 000 Hz alebo 20 kHZ. To v sebe skrýva veľké rozdiely v počutí schopnosti rôznych
+jednotlivcov. S pribúdajúcim vekom u ľudí je problém najmä to, že strácajú schopnosť
+počuť vysoké frekvencie. V žiadnom prípade tu neexistuje žiadny ostrý medzný bod na
+oboch koncoch frekvenčného rozsahu. Pri týchto skutočnostiach sú to iba nevyhnutné
+extrémy, aby boli hlasnejšie a aby ich bolo počuť. Zatiaľ čo sa dajú ľahko generovať čisté
+tóny, ako je ten, ktorý je popísaný vyššie, väčšina skutočných zvukov nie sú čisté tóny.
+Niektoré, napríklad noty vyrobené z muzikálii nástroja, sú zmesou relatívne malého počtu
+frekvencií, ktoré sú navzájom súvisiace môžete vidieť na (Obr.3). Napríklad nota, ktorá je
+založená na 440 Hz môže obsahovať aj komponenty pri 880, 1320, 1760 Hz. (Smetana,
+1998)
+17
+
+Akustický tlak
+
+Obr.3 Zmes relatívne malého počtu frekvencií (http://www.1sg.sk/~pkubinec/hudba.html)
+
+1.1.5 Decibelová stupnica
+Zvuk sa v podstate skladá z pohyblivej série kolísania tlaku a normálna jednotka tlaku je
+pascal (skrátene Pa). Avšak, merať zvuk v pascaloch nie je normálne, namiesto toho sa meria
+zvuk v decibeloch, skrátene používa sa stupnica. Decibelová stupnica (Obr.3) je
+logaritmická, ktorá sa komprimuje do veľkého rozsahu hodnôt a do oveľa menšieho rozsahu.
+Napríklad rozsah zvukového tlaku od 0,00002 do 2,0 Pa je v decibelovej stupnici vyjadrené
+ako rozsah od 0 až 100 dB. Spravidla sa uvádzajú dve odôvodnenia pre použitie decibelovej
+mierky:
+1. Rozsah hodnôt zahrnutých do merania amplitúdy zvuku je nepríjemne veľký
+2. Ľudské ucho nereaguje lineárne na rôzne úrovne zvuku a decibelová stupnica sa
+viaže na meranie zvuku bližšie k subjektívnym dojmom hlasitosti.
+Ani jedno z týchto vysvetlení neobstojí nad kontrolou. Vyrovnáme sa s väčšími
+rozsahmi hodnôt pri meraní iných veličín (dĺžka a peniaze sú len dva príklady). Určite je
+pravda, že naše uši nereagujú lineárne k zmenám akustického tlaku. Inými slovami
+zdvojnásobenie akustického tlaku. Inými slovami zdvojnásobenie akustického tlaku
+nezdvojnásobuje zjavnú hlasitosť zvuku, avšak nie lineárne reagujú aj na decibelovú
+18
+
+stupnicu, takže v tomto ohľade získavame málo pomocou decibelovej stupnice. Nech už sú
+pôvodné dôvody pre prijatie decibelovej stupnice rôzne, teraz sa používa univerzálna, takže
+neexistuje iná alternatíva, ako to urobiť (obr.1.4.).
+Používanie logaritmickej stupnice pochádza z čias pred elektronickými kalkulačkami, keď
+bolo veľa výpočtov vykonaných pomocou knihy logaritmov alebo ,,logovacie“ tabuľky.
+Vďaka tomu boli logaritmy každému oveľa známejšie a preto potrebovali pravidelne
+vykonávať výpočty. Oveľa menej ľudí je v dnešnej dobe s nimi oboznámený. Našťastie
+pomocou kalkulačky výpočtov decibelov je možné vykonávať bez veľkého porozumenia
+jazyka ako logaritmy fungujú. V iných oblastiach rôzne logaritmy – nazývajú sa prirodzené
+logaritmy a používajú sa prirodzené logaritmy a používajú sa skratky log alebo ln. Hluk na
+pracovisku využíva všetky logaritmy, ktoré budú známejším systémom založeným na číslo
+10. Niekedy sa im hovorí ,,logy na základňu 10“, skrátene log10, log alebo jednoducho lg.
+Pôsobenie hluku na človeka predstavuje Lehmanove rozdelenie pásiem hluku podľa rôznej
+intenzity (Jokl, 2002) :
+
+
+0 dB – bezzvukovosť, ktorá je pre človeka škodlivá, je to hodnota pod absolútnym
+prahom počuteľnosti
+
+
+
+Do 30 dB – normálne prírodné prostredie, šum dažďa, vetra, pohyby ľudí, zvierat
+a podobne.
+
+
+
+30 – 65 dB – hluk relatívny, ktorý sa za určitých okolností môže stať pre človeka
+škodlivý. Rozhodujúci je citový vzťah človeka k hluku, najmä pri dlhotrvajúcom
+pôsobení. Ide o normálny rozhovor, tichú až stredne hlučnú ulicu.
+
+
+
+65 – 95 dB – absolútny hluk, ktorý sa pre človeka stáva rýchlo škodlivý bez ohľadu
+na duševný postoj. Funkčné telesné zmeny sú závislé predovšetkým od hladiny
+hluku. Je to hluk na veľmi rušných križovatkách v továrenských halách, krik.
+
+
+
+95 – 130 dB – okrem vzniku duševných a funkčných telesných reakcií skôr alebo
+neskôr sa poškodzuje sluch. Je to hluk vo veľmi hlučných továrenských prevádzkach,
+hluk štartujúceho lietadla, veľkých motorov a strojov, silné unikanie pary a podobne.
+
+
+
+Nad 130 dB – prah bolesti. Hluk spôsobuje bolesť a poškodzuje vnútorné ucho.
+(Humanet, 2017)
+
+19
+
+Obr. 3 Decibelová stupnica (https://www.klimafil.sk/obchod/ochrana-sluchu/peltorchranice-sluchu)
+
+1.1.6 Vzťah medzi vystavením hluku a stratou sluchu
+Ak sa má zabrániť poškodeniu sluchu a obmedzením vystaveniu hluku pri práci,
+potom je potrebné mať určité kvantitatívne pochopenie vzťahov medzi hladinou akustického
+tlaku, frekvenciou, dobou pôsobenia a stupňom poškodenia spôsobilosti. Po zistení, že
+existuje riziko pre sluch, by to však bolo neetické zdržať sa prijatia všetkých primeraných
+opatrení, aby sa tomu zabránilo. Počas 60. rokov sa vo svete urobilo veľa práce ustanoviť
+vzťahy medzi vystavením hluku a sluchom vyvolaným stratou hluku. V tom čase bolo
+pomerne ľahké nájsť obyvateľstvo, ktoré pracovalo v jednej práci a niekoľko rokov boli
+20
+
+vystavený stabilnej hladine hluku. Odvtedy sociálna mobilita, meniace sa vzorce zamestnaní
+a skutočné opatrenia vlády na obmedzenie vystavenia hluku sťažili ich hľadanie veľké
+skupiny pracovníkov, ktorých vystavenie hluku je možné zaznamenať počas niekoľkých
+rokov. Informácie o presnom vzťahu medzi rôznymi ovplyvňujúcimi faktormi poškodenia
+sluchu je preto neúplné a úplné pochopenie témy sa nikdy nedosiahne. Úplné pochopenie sa
+však ani nevyžaduje. Potrebné sú dostatočné informácie na vypracovanie právnych
+predpisov a konzultačných postupov, ktoré sú možné zaviesť do praxe takým spôsobom, aby
+sa znížilo poškodenie sluchu pri práci a nakoniec vylúčiť bez toho, aby boli znemožnené
+alebo neekonomické uskutočnenie základných priemyselných procesov. Pri skúmaní vzťahu
+medzi vystavením hluku a stratou sluchu existuje rad možností kladenia otázok. Dá sa
+predpokladať že hlasnejšie zvuky budú mať za následok viacej škôd. (Kaňák, 2008)
+
+1.2 Meranie hluku
+Existuje viacej spôsobov merania hluku. Každý zo spôsobov ma odlišný postup
+a mierku. Z meraní mierok a charakteristík sa vytvorili rôzne klasifikačné hľadiská založené
+na prípustnej hodnote určujúcich veličín kmitania a ich hladín pre rôzne druhy
+mechanických sústav, technologických postupov a pri rôznych druhoch aktivít človeka.
+Tieto kritéria majú vplyv na to, či zmenšenie kmitania a hluku znižuje hrozbu poškodzovania
+organizmu človeka a zaťaženia prostredia vibro-akustikou energiou. Meranie hluku
+a kmitania zamerané na ochranu človeka má jasne definované veličiny, ktoré umožňujú
+deskripciu kvalitatívne a kvantitatívne hodnotenie kmitania a hluku. Na základe výsledkov
+merania hlukov možno vylepšovať vibroakustické vlastnosti strojov, strojových zariadení,
+mechanických sústav a prostredia (Nový, 2000). Akustické merania jasne ukazujú rozhranie
+potencionálneho nebezpečenstva vibroakustickej energie a určujú možnosti jej znižovania.
+Audiometrické merania umožňujú kontrolovať stupeň počuteľnosti sluchového orgánu
+jednotlivcov a ich dočasné, alebo trvalé poškodenie. Aj keď sa zdá, že niektoré zdroje hluku
+emitujú ustálenú hladinu hluku, v praxi sa bežne zistí, že hladina do istej miery kolíše.
+Niektoré zdroje hluku sa líšia veľmi zreteľne a za veľmi krátku dobu. Zmeny v úrovni môžu
+obsahovať dôležité informácie, ale veľmi sťažujú ich meranie z dôvodu rýchlo sa meniaceho
+zobrazenia počítadla. Boli vyvinuté dva štandardné prístupy, ktoré umožňujú čítanie
+spôsobom, ktorý umožňuje meranie konzistentné výsledky pri použití v rôznych hlukových
+21
+
+prostrediach. To znamená, že kolísanie úrovne v priebehu období by bolo vyhladený
+a v podstate stabilný zdroj hluku by bol generovaný na stále čítanie na zvukomere. Rýchla
+časová konštanta 1/8 s, na druhej strane by to umožnilo zvukomeru reagovať oveľa viac
+rýchlejšie a mohlo by to vyrovnať zmeny, aj keď by to nikdy nebolo užitočné, keby boli
+stále požadované. Pri skúmaní hluku na pracovisku bola z týchto dvoch metód užitočná
+pomalá časová konštanta. Časová konštanta impulzu bola vyvinutá neskôr ako spôsob
+odhadu účinky impulzívnych zvukov – kladivo, výbuchy atď. Tento typ hluku spôsobuje, že
+je pre človeka oveľa rušivejší ako zvukové namerané hodnoty (buď s použitím rýchlej alebo
+pomalej časovej konštanty). Impulzná časová konštanta však nedodržiava princíp rovnakej
+energie a používa sa na hodnotenie účinkov vystavenia hluku na sluch a nikdy sa nepoužíva
+v hodnotení hluku na pracovisku. Niekedy sa stále používa na iné účely. Špičková časová
+konštanta sa dosť líši od rýchlej a pomalej časovej konštanty. (Vaňková, 1995), (Hansen,
+2012)
+
+1.2.1
+
+Základný reťazec meracieho systému
+
+Zvuk, ktorý počujeme sa do sluchového orgánu prenáša vzduchom. Pri zisťovaní
+hluku je potrebné merať nielen zvuk v blízkosti zdroja, ale aj kmitanie rôznych častí tohto
+zdroja. Mikrofóny a prvky snímajúce kmitanie sú prevodníkmi, pretože menia akustickú
+energiu alebo energiu kmitania na elektrický signál, ktorý je následne spracovaný. Pre
+väčšinu meracej techniky sa mikrofóny a senzory spájajú priamo s jej vstupom, čím
+vytvárajú najjednoduchší merací reťazec. Vstupný signál zo zvukomera možno zaznamenať
+a uložiť. (Žiaran, 2006)
+
+1.2.2 Zosilňovače
+Zosilňovacie obvody neskreslene prenášajú a zosilňujú pomerne slabý elektrický signál
+zo snímacieho prvku. Do úvahy sa musí vziať najmä prenos signálu s výraznými impulzmi
+a pri meraní tohto typu hluku sa musí kontrolovať práve nakreslený stav amplitúd signálu
+v zosilňovačoch. Existujú dva typy zosilňovačov:
+1. Napäťový zosilňovač
+2. Nábojový zosilňovač (Žiaran, 2006)
+
+22
+
+1.2.3 Kalibrácia
+Dôležitosť pri akustických meraniach má aj správna kalibrácia citlivosti zvukomeru,
+kalibruje sa pred každým meraním a tak tiež po jeho skončení. Čím je meranie časovo
+náročnejšie tým častejšie treba zisťovať možné zmeny citlivosti meracieho reťazca. Ako
+zdroj normalizovaného akustického signálu slúžia rôzne kalibrátory, ktoré elektricky alebo
+mechanicky vyvolávajú akustický signál. Každý zvukomer musí byť preskúšaný
+v autorizovanej skúšobni. (Žiaran, 2006)
+
+1.2.4 Merače hladiny zvuku
+Niektoré zvukomery sa stále vyrábajú a nedosahujú špecifikácie triedy 2, niektoré sa
+vyrábali skôr a dokonca spadali pod starú triedu špecifikovanú typom 3 ktoré nie sú vhodné
+na hodnotenie hluku na pracovisku. Tieto merače môžu byť pre úvodný prieskum
+uspokojivé, čiže sú presnejšie a sú potrebné na meranie. Môžu sa vykonávať merania hluku
+na pracovisku s nástrojmi triedy 1 alebo 2, ale uprednostňuje sa trieda 1, najmä ak môžu byť
+prítomné významné nízke alebo vysokofrekvenčné zložky hluku. Limity presnosti metra
+triedy 2 v extrémoch sú omnoho širšie a majú väčší frekvenčný rozsah. Prípustné tolerancie
+merania pre dve triedy zvukomeru závisí od príslušnej frekvencie. V zmysle presnosť
+frekvenčne váženého merania sa často predpokladá, že meranie pomocou zvukomeru triedy
+1bude mať nepresnosť približne 1 dB. Meranie vykonané zvukomerom triedy 2 bude mať
+nepresnosť približne 1:5 dB. Ak je významná časť príslušnej zvukovej energie buď na veľmi
+vysokej alebo veľmi nízkej frekvencii potom môžu byť nepresnosti väčšie ako toto. Ďalej sa
+tieto neistoty týkajú iba schopností prístroja. Malo by sa pamätať na to, že existujú aj iné
+zdroje neistoty, kde hodnotenie expozície hluku na pracovisku a tieto ďalšie neistoty môžu
+byť niekedy podstatne väčšie ako tie, ktoré sú na danú presnosť prístrojového vybavenia.
+Integrujúci merač hladiny zvuku je taký, ktorý dokáže premeriavať hladinu zvuku
+v časovom období. Väčšina meraní hluku na pracovisku sa dnes vykonáva pomocou
+integrujúceho zvukomeru. Neintegrujúce merače sa stále vyrábajú a sú výrazne lacnejšie ako
+integrované modely. Ich používanie je obmedzené na situácie, v ktorých je hladina hluku
+v podstate stabilná na dlhšie obdobie. (Žiaran, 2006)
+
+23
+
+1.2.5 Niektoré zložité situácie pri meraní hluku
+Niektoré odhady hluku majú jedinečné vlastnosti, ktoré môžu spochybniť
+vynaliezavosť príslušného posudzovateľa hluku. Práce v stiesnených priestoroch, prevádzka
+vozidiel a práca so zvieratami sú príkladmi situácii, ktoré si vyžadujú rozšírenie bežnej
+techniky. Existuje množstvo pracovných situácii, v ktorých je obzvlášť ťažké vykonať
+užitočné merania hladín hluku, v ktorých je jedinec vystavený. Meranie je v takýchto
+prípadoch vysoko špecializovaná záležitosť, ktorá sa vo väčšine prípadov odošle
+k špecialistovi. Ak je dominantný zdroj hluku tak sa predpokladá, že je blízko k uchu
+zamestnanca do niekoľko centimetrov, potom normálna technika merania v blízkosti hlavy
+neprinesie uspokojivé výsledky. Toto je normálna situácia, keď má dotknutá osoba nasadené
+slúchadlá, napríklad posádky lietadiel a rastúci počet call centier pracovníkov. Tu môžu
+pomôcť dve techniky: jednou z nich je použitie simulátora hlavy a trupu ako na (Obr.4).
+Jedná sa o atrapu hlavy a ramien, ku ktorým je pripojená náhlavná súprava, ktorú možno
+namontovať. Potom musí byť napájaný rovnakým signálom, aký by počul skutočný
+zamestnanec. Druhým prístupom je použitie miniatúrneho mikrofónu vo vnútri zvukovodu.
+Oboje vyžaduje veľké množstvo vedomostí a skúseností. (Lees, 1999)
+
+Obr. 4 Simulátor hlavy a trupu (https://www.gomeasure.se/shop/audio-test/head-torsosimulators/gras-45bc-1kemar-head-torso-with-mouth-simulator-for-headset-test-2-chlemo/)
+
+24
+
+1.3 Vplyv hluku na sluch
+Zmeny spôsobené silnými zvukmi na zmyslových a nervových bunkách Cortiho orgánu
+sú spočiatku vratné. Označujú sa ako sluchová únava a prejavujú sa dočasným zvýšením
+sluchového prahu. Na druhej strane pri dlhodobom a opakovanom pôsobení alebo preťažení
+zvukovou stimuláciou sa zmeny stávajú nezvratné, pretože bunky strácajú svoju vzrušivosť
+a zanikajú. Škodlivosť pôsobenia hluku na sluch je závislá na základných fyzikálnych
+parametroch, ako sú hladina intenzity hluku, intenzita a frekvenčné zloženie zvuku, ale aj na
+jeho nábehu, opakovaní a trvaní. Okrem fyzikálnych parametrov je poškodenie sluchu
+závislé aj na zdedených vlastnostiach jedinca a na individuálnej citlivosti na hluk, celkovej
+životospráve, režimu práce, zdravotnom stave a iných. Horšie pôsobí hluk v lete ako v zime.
+Psychologický návyk na hluk sa nedá poprieť. Je podmienený osobnostnými vlastnosťami
+na ktorých závisí rýchlosť aj hĺbka návyku. Návyk je treba chápať ako účelovú reakciu,
+obmedzujúcu neúnosne vysokú úroveň reakcií, ale nie je ju možno považovať za skutočnú
+adaptáciu. Niekedy môže byť významným príspevkom k danej dávke hluku zamestnanca
+uskutočnené jednou alebo viacerými krátkymi, ale veľmi hlučnými udalosťami. Medzi také
+príklady patrí trieskanie v kameňolome, ktoré sa koná iba raz alebo dvakrát denne, hluk
+lietadla ovplyvňujúci pracovníkmi letiska. Užitočný spôsob hodnotenia dávok hluku v tomto
+prípade je potrebné merať príspevok hluku z jednej udalosti pomocou veličiny, ktorá sa
+oficiálne nazýva úroveň expozície zvuku a má skratku UEZ. To tiež spadá pod širokú škálu
+ďalších mien a skratiek ako napríklad:
+
+
+Úroveň expozície hluku
+
+
+
+Úroveň jednej udalosti
+
+UEZ možno merať priamo pomocou mnohých zvukomerov a je to úroveň, ktorá ak by
+sa udržiavala v 1 s, obsahovala by rovnaké množstvo zvukovej energie ako skutočná
+udalosť. (Lees, 1999)
+
+1.3.1 Poruchy sluchu
+Všeobecne rozoznávame dve skupiny porúch sluchu. Chyby prevodné a chyby
+percepčné. Chyby prevodné sú spôsobené patologickými zmenami v strednom a vonkajšom
+uchu. Medzi najčastejšie prevodné chyby patrí mazová zátka a upchatie vonkajšieho
+zvukovodu, perforácie bubienka alebo abnormálne tuhé upevnenie strmienku v oválnom
+okienku. Percepčné chyby sa vyznačujú poškodením vnútorného ucha, popr. sluchového
+nervu samotného. Poškodenie nervu môže byť spôsobené napr. nádorom alebo poškodením
+25
+
+antibiotikami. V starobe sa prejavuje charakteristické zhoršenie sluchu, ktoré je s najväčšou
+pravdepodobnosťou spôsobené úbytkom vláskových buniek vplyvom veku. Obe skupiny
+porúch je možné navzájom rozlíšiť pomocou ladičkových skúšok, alebo pomocou
+audiometrie. Dôležitý fakt pre rozlíšenie poruchy sluchu je, že pokiaľ je kostné vedenie
+zvuku zachované, jedná sa o prevodnú chybu. Naopak, u poruchy vnímania sú postihnuté
+oba spôsoby vedení zvuku. (Králiček, 2011)
+
+1.3.2 Vizualizácia zvukového poľa
+Základné a najefektívnejšie opatrenia, pomocou ktorého môžu byť pracovníci
+chránený pred hlukom na ich pracovných staniciach spočíva v eliminácii nebezpečenstva pri
+jeho zdroji. V prípade strojov sa konštruktéri zameriavajú hlavne na maximalizáciu
+prevádzkového potenciálu produktu, pričom oveľa menší význam sa pripisuje problémom
+súvisiacim s emisiou hluku. Z tohto dôvodu predpovedí úrovní emisií hluku strojov sa
+zriedka uskutočňujú na začiatku fázy numerických simulácií, ale skôr sa tak deje pri odložení
+do fázy výstavby prototypu alebo dokonca do fázy inštalácie už vyrobených strojov
+v pracovnom prostredí. Emisiu hluku možno charakterizovať množstvom fyzikálnych
+veličín, hodnotami, ktoré sa určujú pomocou normalizovaných metód. Základné veličiny sú
+hladina akustického výkonu vážená A a hladina akustického tlaku vážená B, merané na
+pracovných staniciach a na iných určených pozíciách. Hodnoty týchto parametrov
+charakterizujú emitovanú zvukovú energiu, ale neidentifikujú jednotlivé zdroje emisií.
+Úplne iným zdrojom informácií sú grafy a obrázky znázornené vo forme farebných máp
+hodnoty charakterizujúcich veličín zvuku vydávaný strojmi a zariadeniami v presne
+stanovených bodoch, ktoré sú nimi obklopené v priestore, známe ako vizualizácie
+parametrov zvukového poľa. Vizualizácie parametrov zvukového poľa sú metódy
+prezentácie informácií o zvukovom poli umožňujúce zobrazenia efektov, napríklad zvukový
+odraz a difrakcia vĺn v grafickom priestore zvukových parametrov. Tieto vizualizácie možno
+použiť na lokalizáciu jednotlivých zdrojov emitujúcich zvukovú energiu, ktorými možno
+určiť smerovosť zdrojov emitujúcich hluk a vyhodnotiť účinnosť protihlukového riešenia.
+Na vytvorenie vizualizácie zvukového poľa je potrebné mať súbor výsledkov merania
+parametrov zvukového poľa vykonané v presne definovaných bodoch v priestore.
+Parametre, ktoré sú predmetom vizualizácie, sú hladina akustického tlaku a úroveň intenzity
+zvuku. Merania potrebné na vypracovanie vizualizácie sú uskutočnené s použitím systémov
+pozostávajúcich z veľkého počtu meracích prevodníkov. Existujú však aj vizualizačné
+26
+
+techniky, ktorými môžu byť merania urobené pomocou jedinej sondy vedenej po dráhe
+v priestore okolo daného zdroja hluku. Záznam a konverzia signálov získaných v priebehu
+meraní do veličín charakterizujúcich zvukové pole nasleduje rozvinutie reprezentácie veličín
+v grafickej podobe na trojrozmernom alebo dvojrozmernom obrázku skúmaného objektu.
+To umožňuje identifikáciu obidvoch špecifických prvkov zvukového poľa a akustické
+vlastnosti objektu. Obrázky vytvorené pomocou vizualizačnej techniky môžu byť široko
+použité pri analýze prototypov strojov postavené ako súčasť procesu projektovania
+a v stavebníctve napríklad pre kontrolu tesnosti zvukovo izolačných obrazoviek a stien
+budov. (Rozman, 1996)
+
+1.3.3 Priestorový zvuk v teste sluchového vnímania
+Ľudské ucho je druhým najdôležitejším zmyslovým orgánom hneď po oku,
+prostredníctvom ktorých pracovníci získavajú informácie o pracovnom prostredí. Človek
+v pracovnom prostredí podlieha množstvu rôznych zvukových podnetov, z ktorých časť
+predstavuje zdroj informácií potrebných na vykonávanie práce. Medzi podnety patria okrem
+iného slovné správy vymieňané so spolupracovníkmi a zvukové signály generované strojmi,
+napríklad poplašné bzučiaky a sú doplnkom vizualizácie vnímaných informácií
+o podmienkach prevládajúcich v práci. Môže to byť v životnom prostredí, kde vznikajú
+potencionálne riziká, najmä v regiónoch mimo zorného poľa. Zvyšnou časťou zvukového
+prostredia je šum, kde je ťažké pracovať, ale v mnohých prípadoch má škodlivý účinok na
+ľudské zdravie. V dnešnej dobe je pracovné prostredie zaručujúce, že pracovníci budú
+schopní vnímať zásadné zvukové signály v diverzifikovaných podmienkach, v ktorých sa
+musia považovať za rovnako dôležité ako redukcia vystavenia hluku. Takéto signály sú
+nevyhnutné z hľadiska bezpečnosti a správnosti vykonanej práce. Verbálne správy sú
+vydané operátormi a spolupracovníkmi, komunikačné a zvukové výstražné systémy sú
+nainštalované na pracovisku. V prípade priamych správ a všeobecnej komunikácie je
+najdôležitejším parametrom rozhodujúcim pre správny príjem obsahu zrozumiteľnosť reči,
+ktorá môže byť ovplyvnená parametrami posluchovej miestnosti najmä doba dozvuku
+v závislosti od veľkosti miestnosti a vlastností miestnosti a vlastnosti absorpcie zvuku,
+úroveň akustického tlaku pozadia a parametre samotného rečového signálu. Ak sa používajú
+akustické výstražné systémy, je veľmi dôležité, aby kvalita komponentov systému ako sú
+mikrofóny a reproduktory bola primeraná. K dnešnému dňu bolo vyvinutých množstvo
+testovacích metód používaných na hodnotenie zrozumiteľnosti reči v pracovnom prostredí.
+27
+
+Štúdie o rozpoznateľnosti sluchových signálov nebezpečenstva týkajúcich sa trochu iného
+okruhu problémov. Každá osoba prítomná v oblasti príjmu signálu nebezpečenstva by mala
+byť schopná ju rozpoznať a preto signál musí byť zreteľne počuteľný. Zvyčajne sú také
+signály amplitúdovo alebo frekvenčne modulované zvuky v zásade tónovej povahy. Štúdie
+o vnímaní zvukových signálov vrátane nebezpečných signálov by mali obsahovať správnu
+identifikáciu skutočného významu signálu a správne vnímanie smeru, z ktorého vychádza.
+Tieto štúdie sa zvyčajne uskutočňujú v laboratórnych podmienkach. Testovacie signály
+a reprodukcia zvukového poľa posluchový priestor prevládajúci na skutočných pracovných
+staniciach, ktoré sú simulované s použitím systémov reprodukcie priestorového zvuku.
+Proces vytvárania takýchto simulovaných virtuálnych akustických prostredí sa bežne nazýva
+auralizácia. Pluralita auralizácie techniky je teraz k dispozícii. V každom z nich je
+dosiahnutie efektu priestorového zvuku a viacstupňový proces zahrňujúci záznam zvukovej
+scény alebo zvuku emitovaného konkrétnym zariadením, následné spracovanie
+zaznamenaných signálov a ich prehranie na laboratórne nastavenie. (Antoni and Schoukens,
+2007), (VÉR, István L. a Leo L. BERANEK, 2006)
+
+1.4 Ochrana sluchu
+Pred nadmerným zaťažovaním sluchového ústrojenstva vplyvom vysokej hladiny
+akustického tlaku bolo nutné postupom času vyvinúť rôzne ochranné prostriedky, ktoré
+obmedzujú prenos hluku vzduchom a konštrukciami. Na tieto účely sa využívajú materiály
+a konštrukčné riešenie, ktoré súrne nazývame ako zvukovú izoláciu. Jedná sa predovšetkým
+o nepriezvučné konštrukcie, tlmiče zvuku, pružné podložky a vložky, materiály s vysokým
+vnútorným tlmením a materiálov pohlcujúcich zvuk. Do osobitnej skupiny sa radia chrániče
+sluchu s dostatočným útlmom v širokom frekvenčnom pásme, ktoré zaisťujú ochranu sluchu
+a súčasne neznižujú zrozumiteľnosť reči. Tieto chrániče označujeme ako pasívne. Novšie sú
+vyvíjané chrániče sluchu s aktívnym potlačením hluku, ktoré kombinujú vlastnosti
+pasívnych chráničov sluchu a dopĺňajú ich pokročilými funkciami, medzi ktoré patria
+napríklad aktívne potlačenie hluku, komunikačné zariadenie, chrániče s plochou
+frekvenčnou charakteristikou a chrániče sluchu s hladinou závislostí. (Acton, 2005)
+
+28
+
+1.4.1 Pasívne chrániče
+Pasívne chrániče sluchu delíme do troch kategórii, podľa ich konštrukcie, od ktorých
+sa odvíja ich použiteľnosť:
+
+
+Pomôcky, ktoré sa zasúvajú do zvukovodu, použiteľné do 100 dB
+
+
+
+Pomôcky, chrániace celé vonkajšie ucho pre rozsah od 100 do 120 dB
+
+
+
+Pomôcky, chrániace celú lebku, doporučujú sa pre hladiny nad 120 dB
+
+Chrániče volíme v závislosti na frekvenčnom spektre hluku a na vykonávanej práci.
+Väčšina chráničov sluchu nemá rovnakú frekvenčnú charakteristiku, ale so zvyšujúcou
+frekvenciou narastá ich útlm.
+Do prvej skupiny ochranných pomôcok patrí mikrovata, rezonančné chrániče a plastové
+zátky.
+Do druhej skupiny patria slúchadlové chrániče, ktoré sa skladajú z dvoch mušlí, ktoré kryjú
+celé vonkajšie ucho a sú vyrobené z kovu, alebo plastu. Ďalšou súčasťou je náhlavný oblúk,
+ktorý spája obe mušle. Ten je zvyčajne vyrobený z prepnutého plechu, prípadne z plastu.
+Samotný útlm hluku je dosiahnutý výplňou, ktorá je zvyčajne zo sklenenej mikrovaty,
+polyuretánu alebo vaty. Na utesnenie mušlí, dobrému priľnutiu na hlavu a pohodlnému
+noseniu slúžia dosadacie plochy, tzv. ,,náušníky“ ktoré sú obvykle vyrobené z mäkkej gumy,
+mäkčeného PVC, polyuretánu alebo iného mäkkého nepriedušného materiálu. V zvláštnych
+prípadoch a zvlášť na letiskovej prevádzke sa používajú chrániče spadajúce do tretej
+kategórie.
+Najčastejšie sa jedná o protihlukové kukly a prilby.(Rozman, 1996)
+
+1.4.2 Aktívne chrániče
+Aktívne chrániče sluchu sa najčastejšie odvíjajú z druhej kategórie pasívnych
+chráničov sluchu. Doplňujú ich o ďalšie funkcie, ktoré zlepšujú ich parametre, poprípade
+uľahčujú ich používať a zaisťujú okrem ochrany sluchu aj väčší komfort a bezpečnosť na
+pracovisku.
+Aktívne chrániče delíme na:
+
+
+Chrániče sluchu s hladinou závislostí: Chrániče sluchu s hladinou závislostí sú
+navrhnuté pre rôzny útlm v závislosti na hladine akustického tlaku. Sú určené do
+prostredia s impulzným, alebo prerušovaným hlukom, ktorý v prípade kludových
+intervalov umožňuje komunikáciu s okolím
+29
+
+
+
+Chrániče sluchu s plochou frekvenčnou charakteristikou: Tieto chrániče vynikajú
+rovnakým útlmom v širokom frekvenčnom pásme, čiže nízkym skreslením
+okolitého zvuku a zaisťujú tak bezproblémovú komunikáciu s okolím
+
+
+
+Chrániče sluchu s aktívnym potlačením hluku: Do tejto skupiny patria chrániče
+sluchu s vstavaným systémom pre aktívne potlačenie hluku, vďaka ktorému je
+možné potlačiť aj hluk, ktorý prechádza cez samotný pasívny chránič. Tieto chrániče
+zlepšujú útlm najmä v nízkych kmitočtoch, ktoré sú konštrukčne zložité pasívnym
+chráničom potlačiť. Podrobnejšie bude tento systém napísaný v samostatnej kapitole
+
+
+
+Chrániče sluchu s komunikačným systémom: Tieto chrániče sú najčastejšie
+vyrábané v kombinácii s predchádzajúcim systémom aktívneho potlačenia hluku.
+Jedná sa o chrániče, ktoré majú zabudované komunikačné zariadenie ktoré
+sprostredkúva príjem informácii. Jedná sa o zátkové chrániče, ktoré samotné tlmia
+hluk z okolia a sprostredkovávajú spätný odposluch pre umelcov, či moderátora.
+(Rozman, 2006)
+
+1.4.3
+
+Chrániče sluchu s aktívnym potlačením hluku
+
+Chrániče sluchu s aktívnym potlačením hluku spočívajú na princípe potlačenia
+hluku, prechádzajúci cez pasívny chránič a docieliť tak čo najdokonalejšieho potlačenia
+hluku. Aktívne potlačenie hluku funguje na princípe interferencií zvukových vĺn. Hluk je
+snímaný mikrofónmi, spracovaný a následne s opačnou fázou a presnou ekvalizáciou
+a amplitúdou generovaný elektroakustickými meničmi. V ideálnom prípade nastane jav
+zápornej interferencie a zvukové vlny sa odpočítajú. Vzhľadom k základným vzťahom
+akustiky a vlastností šírenia zvuku možno dobré výsledky dosiahnuť iba v malom priestore,
+kde v ideálnom prípade nedochádza k odrazom. Ďalším dôležitým faktorom ovplyvňujúcim
+výsledok aktívneho potlačenia hluku je fakt, že intenzita zvuku klesá s kvadrátu vzdialenosti.
+Ak sa teda budeme približovať zdrojmi hluku a zároveň sa budeme odďaľovať zdrojmi
+rušenia hluku, či naopak, bude dochádzať k nameraniu medzi intenzitou hluku v protifáze
+a aktívne potlačenie hluku nebude účinné. V reáli tiež musíme zohľadniť vlastnosti
+priestoru, v ktorom chceme aktívne potlačenie hluku aplikovať. Priestory s dlhým
+dozvukom sú pre aktívne potlačenie hluku nevhodné. V súčasnej dobe sú vyvíjané systémy
+30
+
+aktívneho potlačenia hluku integrované v automobiloch, slúchadlách a serverových
+skriniach. Aktívne potlačenie hluku sa stalo súčasťou telekomunikácií, kde sa používa na
+odstránenie hluku z telefónneho hovoru. (Auris, 2013)
+
+31
+
+2
+
+Cieľ práce
+Cieľom bakalárskej práce je analýza hlučnosti ako faktora pracovného prostredia pri
+
+práci na stavenisku. Pre splnenie cieľa bakalárskej práce je nevyhnutné:
+-
+
+Zmerať hlučnosť pri jednotlivých pracovných činnostiach (práca s karbobrúskou,
+vŕtačkou, minirýpadlom)
+
+-
+
+Výpočet expozície hluku podľa NV 115/2006 Z. z.
+
+-
+
+Vypočítané hodnoty porovnať s legislatívou SR
+
+-
+
+Určenie rizikových kategórií
+
+-
+
+Návrh opatrení
+
+32
+
+3 Metodika práce
+3.1 Kategorizácia prác podľa vyhlášky 448/2007
+Táto vyhláška zo 7.septembra 2007 hovorí o podrobnostiach o faktoroch práce
+a pracovného prostredia vo vzťahu ku kategorizácii prác z hľadiska zdravotných rizík
+a o náležitostiach návrhu na zaradenie prác do kategórii. V tejto práci použijem zaradenie
+prác do kategórii podľa hluku.
+Hluk
+Kategória
+
+Charakteristika prác
+a) Práce, pri ktorých je predpoklad, že normalizovaná hladina expozície
+hluku LAEX,8h neprekročí 75 dB alebo vrcholová hladina C akustického
+tlaku LCPk neprekročí 130 dB.
+
+1.
+
+b) Práce, pri ktorých je nerovnomerne rozvrhnutý pracovný čas alebo pri
+ktorých sa expozícia hluku v priebehu týždňa mení, pričom je predpoklad,
+že týždenný priemer denných hodnôt normalizovanej hladiny hlukovej
+expozície za 40- hodinový týždeň neprekračuje 75 dB a normalizovaná
+hladina expozície hluku LAEX,8h ani za jednu pracovnú zmenu neprekročí
+dolnú akčnú hodnotu expozície hluku
+Práce, pri ktorých nie je prekročená horná akčná hodnota expozície hluku,
+ale normalizovaná hladina expozície hluku LAEX,8h je väčšia ako 75 dB
+alebo vrcholová hladina C akustického tlaku LCPk je väčšia ako 130 dB.
+
+2.
+
+3.
+
+4.
+
+b) Práce, pri ktorých je nerovnomerne rozvrhnutý pracovný čas alebo pri
+ktorých sa expozícia hluku v priebehu týždňa mení, pričom týždenný
+priemer denných hodnôt normalizovanej hladiny hlukovej expozície za 40hodinový týždeň prekračuje 75 dB, ale neprekračuje hornú akčnú hodnotu
+expozície hluku
+a) Práce, pri ktorých je prekročená horná akčná hodnota expozície hluku,
+ale prekročenie normalizovanej hladiny expozície hluku LAEX,8h je
+menšie ako 10 dB alebo prekročenie vrcholovej hladiny C akustického
+tlaku LCPk je menšie ako 3 dB.
+b) Práce, pri ktorých je nerovnomerne rozvrhnutý pracovný čas alebo pri
+ktorých sa expozícia hluku v priebehu týždňa mení a týždenný priemer
+denných hodnôt normalizovanej hladiny hlukovej expozície za 40hodinový týždeň prekračuje hornú akčnú hodnotu expozície.
+a) Práce, pri ktorých je prekročená horná akčná hodnota expozície hluku a
+prekročenie normalizovanej hladiny expozície hluku LAEX,8h je 10 dB a
+viac alebo prekročenie vrcholovej hladiny C akustického tlaku LCPk je 3
+dB a viac.
+b) Práce, pri ktorých normalizovaná hladina expozície hluku alebo
+vrcholová hladina C akustického tlaku zodpovedá kritériám kategórie 3 a
+zároveň sa u zamestnancov zisťujú zmeny sluchu vo vzťahu k pôsobeniu
+hluku.
+
+33
+
+3.2 Prístroj na meranie hluku
+1. Integračný zvukomer - Bruel & Kjaer Type 2240
+Typ 2240 je veľmi jednoduchý na používanie a je v súlade so všetkými najnovšími
+zvukovými normami pre merače hladiny. Ako integračný priemer zvukomer, meria
+ekvivalent priemer hladiny akustického tlaku Leq. Okrem toho meria okamžitú, maximálnu
+a špičkovú hodnotu hladiny akustického tlaku súčasne. Typ 2240 ktorý môžete vidieť na
+Obr. 5 je navrhnutý tak aby nám uľahčil život. Všetky parametre sa merajú súčasne , nie je
+potrebné žiadne nastavenie. Technické parametre môžete vidieť v tabuľke 1.
+
+Obr.5 Integračný zvukomer - Bruel & Kjaer Type 2240
+Tab. 1 Technické parametre Merač úrovne zvuku - Bruel & Kjaer Type 2240:
+Merajú sa súčasne štyri parametre: LAF, LAF max, LAeq, LCpeak
+Celkový rozsah merania: 30 – 140 dB
+Vrchol: 60 – 143 dB
+Rozsah frekvencie: 20Hz – 16kHz
+Referenčná frekvencia: 1000 Hz
+Dve alkalické batérie 1,5 V LR 6 / AA
+Rozmery: 230 x 78 x31 mm vrátane mikrofónu
+Hmotnosť: 245 g (8,64 oz) vrátane batérii
+34
+
+3.3 Výpočet normalizovanej hladiny expozície hluku
+1. Ekvivalentná hladina v prípade pôsobenia ustálených hladín L i počas intervalov
+Ti možno Leq určiť zo vzťahu:
+LAeq = 10log
+
+∑
+
+𝑇 . 10 , .
+
+(6)
+
+T je trvanie integrácie, T = t2 - t1
+Značka : LAeq
+Jednotka: dB
+Index v značke môže byť doplnený časovým údajom T, napríklad LAeq,8h.
+2. Normalizovaná hladina expozície hluku je hladina určená z ekvivalentnej hladiny
+A zvuku prepočtom na menovitý 8-hodinový pracovný deň podľa vzťahu:
+LAEX.8h = LAeq.T + 10log (T/To)
+
+(7)
+
+de T je trvanie ekvivalentnej hladiny A zvuku počas pracovnej zmeny,
+Tn je menovité trvanie pracovnej zmeny 8 h.
+Značka: LAEX,8h
+Jednotka: dB
+
+35
+
+4 Výsledky práce
+4.1 O firme SC Statik, s.r.o.
+Firma SC Statik, s.r.o. v Nitre je schopná zabezpečiť komplexnú projektovú
+dokumentáciu vrátane architektúry, statiky stavieb, inžinierskych sietí, ostatných
+požadovaných súčastí projektov a tiež inžiniersku činnosť. Spoznáte nás podľa loga na
+Obr.6. Má skúsenosti so všetkými tromi investičnými etapami: predpríprava, príprava
+a realizácia stavby vrátane stavebného dozoru. Táto firma má dostatočné skúsenosti,
+možnosti a tiež kontakty na inštitúcie v našom regióne, ktoré sa vyjadrujú k jednotlivým
+etapám projektovej prípravy stavieb. Je to spoločnosť, ktorá je schopná zvládnuť početnú
+tímovú spoluprácu v rámci inžinieringu, projektovania a v rámci dodávateľských činností
+a prác.
+Realizuje výstavbu a zatepľovanie rodinných domov pre individuálneho zákazníka,
+realizáciu a zatepľovanie bytových domov ako aj developerských projektov, kde sa vždy
+snažia spojiť ekonomickosť, energetickosť a funkčnosť. Vie vám poradiť aj v oblasti
+inžinieringu, prípadne mnohé úkony vybaviť za vás. Už na začiatku projektovania
+investičného zámeru je nevyhnutné vedieť, aké iné úkony je potrebné vykonať, treba ich
+správne naplánovať a pripraviť, aby sa samotný začiatok výstavby zbytočne nepredlžoval.
+Vďaka efektívne zvládnutému inžinieringu sa dá vyhnúť zbytočnému navýšeniu nákladov.
+Poskytuje spoľahlivé a stabilné služby v oblasti vypracovanie projektov statiky stavebných
+konštrukcií pozemných a inžinierskych stavieb. Statický posudok, prípadne projekt, vedia
+zabezpečiť pre rodinné domy, bytové domy, občiansku vybavenosť a pod.
+
+Obr.6 logo firmy (https://www.scstatik.sk/)
+
+36
+
+4.2 Popis strojov a prístrojov použitých pri meraní hluku
+Na obrázkoch 7-10 môžete vidieť stroj a náradie, na ktorých sme uskutočnil merania
+hlučnosti pri práci. V tabuľkách 2-5 môžete vidieť technické parametre náradí a stroja.
+
+Obr.7 Akumulátorové kombinované kladivo Makita DHR241RTJ
+Tab. 2 Technické parametre pre akumulátorové kombinované kladivo Makita DHR241RTJ:
+Voľnobežné otáčky
+0 - 1.100 min-1
+Počet úderov naprázdno
+0 – 4.000 min-1
+Max. vŕtací výkon – oceľ/betón/drevo
+13 / 20 / 26 mm
+Sila jednotlivého príklepu
+2,0 J
+Akumulátor
+18 V
+Hmotnosť
+4,0 kg
+Rozmery (D x Š x V)
+417 x 84 x 219 mm
+
+37
+
+Obr. 8 Akumulátorová uhlová brúska Makita DGA504ZJ
+Tab.3 Technické parametre pre akumulátorovú uhlovú brúsku Makita DGA504ZJ:
+Voľnobežné otáčky
+8.500 min-1
+Priemer brusného kotúča
+125 mm
+Veľkosť vretena
+M14 x 2
+Akumulátor
+18 V
+Hmotnosť
+2,5 kg
+Rozmery (D x Š x V)
+362 x 140 x 145 mm
+
+38
+
+Obr.9 Uhlová brúska GWS 750 Professional
+Tab.4 Technické parametre pre Uhlovú brúsku GWS 750 Professional:
+Menovitý príkon
+750W
+Voľnobežné otáčky
+11.000 min-1
+Ø kotúča
+125 mm
+Výkon
+380 W
+Závit brúsneho vretena
+M14
+Rozmery (D x Š x V)
+270 / 73 / 100 mm
+Hmotnosť
+1,8 kg
+Spínač
+Aretovateľný spínač
+
+39
+
+Obr.10 Minirýpadlo Kubota U 10 - 3
+Tab.5 Technické parametre pre Minirýpadlo Kubota U 10 – 3:
+Prevádzková hmotnosť
+1120 kg
+Šírka lyžice
+398 mm
+Objem lyžice
+24 l
+Max. sila kopania - rameno
+5.4 kN
+Max. sila kopania - lyžica
+10.4 kN
+Šírka gumových pásov
+180 mm
+Zarovnávacia radlica š x v
+750 / 990 x 200 mm
+Dĺžka
+2980 mm
+Výška
+1420 mm
+Šírka
+990 mm
+Motor
+Kubota E-TVCS
+Výkon
+7.4 kW
+Palivo
+Nafta
+
+40
+
+4.3 Popis práce
+V práci sme merali pomocou zariadenia na meranie úrovne zvuku hluk na stavenisku
+v Párovských Hájoch (Obr.6). Merali sme ho tak, že sme mali mikrofón na merači smerom
+k uchu zamestnanca. Ten pracoval a my sme mu prístroj držali pri uchu niekoľko minút
+v daných intervaloch. Hluk sme merali pri práci s akumulátorovou vŕtačkou,
+akumulátorovou karbobrúskou, uhlovou brúskou a na minirýpadle. Namerané hodnoty sme
+zapisovali do tabuliek. Následne sme hodnoty spracovali v programe Excel. Všetky
+namerané hodnoty možno vidieť v (Tab.6-19).
+Vypočítali sme normalizovanú hladinu expozície hluku pre 8 hodinovú smenu (Tab.28-32)
+a 12 hodinovú smenu (Tab.33-37). Z týchto výpočtov sme dostali hodnoty, ktoré sme
+porovnávali z platnou legislatívou k danej téme (Tab.38), kde sme zistili že pri práci
+s väčšinou uvedených zariadení je hodnota hlučnosti vysoká a môže spôsobiť zamestnancom
+ujmu na zdraví. Preto sme následne urobili návrh opatrení. Po opatreniach môžeme vidieť
+ako sa zmenila riziková skupina (Tab.39).
+
+Obr.11 Stavenisko v Párovských Hájoch
+
+41
+
+4.4 Namerané hodnoty
+Tab.6 Pílenie oceľovej výstuže akumulátorovou karbobrúskou meranie č.1
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+
+Laeq
+LAmax Lcpeak
+82,0
+82,7
+84,2
+97,8
+84,5
+83,9
+89,5
+104,1
+84,4
+83,9
+88,4
+102,7
+84,0
+83,6
+88,5
+105,0
+85,5
+85,1
+90,5
+103,5
+83,0
+83,4
+88,8
+102,8
+89,0
+86,4
+91,3
+103,2
+
+Tab.7 Pílenie oceľovej výstuže akumulátorovou karbobrúskou meranie č.2
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+88,6
+87,6
+88,3
+89,2
+86,9
+85,1
+86,3
+
+Laeq
+85,0
+84,5
+86,7
+87,4
+85,2
+85,8
+86,7
+
+LAmax
+90,8
+89,0
+90,0
+90,7
+91,6
+91,7
+92,2
+
+Lcpeak
+103,7
+104,9
+102,9
+103,9
+104,1
+103,8
+104,3
+
+Tab.8 Pílenie oceľovej výstuže akumulátorovou karbobrúskou meranie č.3
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+88,8
+88,2
+88,9
+87,6
+88,3
+88,2
+87,9
+
+Laeq
+88,9
+88,4
+86,8
+87,3
+87,7
+86,6
+87,5
+
+LAmax
+94,2
+91,6
+89,6
+91,0
+92,8
+89,9
+88,3
+
+Lcpeak
+106,6
+105,1
+102,4
+103,5
+103,6
+103,9
+103,9
+
+Tab.9 Pílenie betónového obrubníka uhlovou brúskou meranie č.1
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+100,5
+102,0
+102,1
+103,1
+100,1
+103,2
+100,8
+
+Laeq
+LAmax Lcpeak
+99,8
+102,1
+113,0
+99,1
+103,7
+113,0
+100,4
+104,8
+113,0
+103,2
+106,1
+113,7
+99,2
+104,4
+112,9
+101,0
+105,7
+113,8
+100,7
+105,8
+113,8
+
+42
+
+Tab.10 Pílenie betónového obrubníka uhlovou brúskou meranie č.2
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+102,5
+101,1
+103,1
+100,6
+106,1
+101,1
+104,8
+
+Laeq
+100,3
+99,4
+101,7
+99,7
+104,2
+98,7
+101,8
+
+LAmax
+105,2
+103,2
+106,0
+104,5
+106,5
+103,2
+104,9
+
+Lcpeak
+113,1
+112,9
+113,4
+113,5
+114,2
+112,9
+113,3
+
+Tab.11 Pílenie betónového obrubníka uhlovou brúskou meranie č.3
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+101,5
+102,5
+102,9
+102,0
+103,1
+104,1
+103,9
+
+Laeq
+99,4
+101,6
+101,3
+99,1
+100,0
+102,3
+102,1
+
+LAmax
+102,8
+105,9
+104,7
+103,6
+103,6
+106,4
+106,2
+
+Lcpeak
+113,3
+113,5
+113,1
+113,2
+113,2
+114,4
+114,1
+
+Tab.12 Pílenie oceľovej výstuže uhlovou brúskou meranie č.1
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+100,1
+94,5
+97,3
+95,8
+93,2
+91,5
+95,1
+
+Laeq
+LAmax Lcpeak
+98,9
+101,4
+112,7
+94,3
+98,8
+110,5
+96,3
+99,5
+112,5
+95,2
+101,3
+112,4
+93,8
+99,0
+112,2
+91,4
+96,7
+109,8
+95,8
+101,3
+112,7
+
+Tab.13 Pílenie oceľovej výstuže uhlovou brúskou meranie č.2
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+92,3
+93,2
+92,3
+93,4
+95,0
+96,0
+94,9
+
+Laeq
+92,8
+93,1
+91,3
+93,0
+95,0
+94,0
+93,1
+
+LAmax
+99,4
+96,6
+96,1
+96,9
+98,6
+100,7
+97,7
+
+43
+
+Lcpeak
+111,7
+108,7
+108,6
+108,4
+112,7
+112,3
+110
+
+Tab.14 Pílenie oceľovej výstuže uhlovou brúskou meranie č.3
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+95,9
+96,4
+95,1
+96,2
+96,7
+96,4
+95,1
+
+Laeq
+93,5
+95,1
+94,2
+93,6
+94,1
+96,0
+95,8
+
+LAmax
+96,6
+98,3
+97,7
+97,6
+98,2
+100,0
+101,3
+
+Lcpeak
+107,5
+108,8
+109,5
+108,5
+109,1
+110,4
+112,7
+
+Tab.15 Výkopové práce s rýpadlom Kubota meranie č.1
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+
+Laeq
+LAmax Lcpeak
+78,1
+77,9
+79,4
+99,1
+77,3
+77,1
+78,5
+97,8
+76,9
+76,7
+78,4
+98,3
+74,8
+76,0
+84,1
+101,2
+65,1
+66,6
+68,8
+94,7
+67,8
+68,0
+84,7
+104
+73,3
+69,5
+72,8
+96,3
+
+Tab.16 Výkopové práce s rýpadlom Kubota meranie č.2
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+72,2
+76,6
+64,1
+72,5
+76,4
+74,7
+72,1
+
+Laeq
+73,1
+74,1
+63,1
+72,4
+92,5
+73,5
+68,7
+
+LAmax
+76,2
+92,9
+68,3
+75,5
+82,2
+79,1
+82,5
+
+44
+
+Lcpeak
+96,1
+109,7
+92,1
+94,5
+109,4
+99,5
+102,8
+
+Tab.17 Vŕtanie s príklepom do tehly s akumulátorovým
+kombinovaným kladivom meranie č.1
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+90,1
+90,2
+90,5
+89,9
+90,7
+91,1
+90,6
+
+Laeq
+LAmax Lcpeak
+88,8
+91,5
+102,3
+89,0
+91,4
+102,8
+89,2
+92,0
+104,4
+89,3
+90,4
+101,8
+90,0
+92,1
+104
+91,4
+92,9
+104,3
+90,8
+91,8
+103,2
+
+Tab.18 Vŕtanie s príklepom do tehly s akumulátorovým
+kombinovaným kladivom meranie č.2
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+89,9
+91,2
+90,5
+91,4
+91,9
+91,4
+91,1
+
+Laeq
+89,5
+91,8
+91,2
+91,1
+92,1
+91,3
+91,5
+
+LAmax
+91,3
+93,2
+92,1
+92,9
+93,2
+91,8
+92,2
+
+Lcpeak
+102,5
+104,6
+103,7
+106,1
+105,8
+103,6
+104,3
+
+Tab.19 Vŕtanie s príklepom do tehly s akumulátorovým
+kombinovaným kladivom meranie č.3
+P.Č.
+1
+2
+3
+4
+5
+6
+7
+
+LA
+91,7
+91,9
+91,6
+92,1
+90,7
+91,5
+91,7
+
+Laeq
+92,2
+90,9
+91,2
+91,1
+90,1
+91,6
+92,2
+
+LAmax
+93,5
+92,6
+92,4
+93,2
+91,0
+92,5
+93,5
+
+45
+
+Lcpeak
+105,2
+105,4
+105,8
+105,6
+102,8
+104,9
+105,2
+
+4.5 Vzorový výpočet
+
+Vzorový výpočet pre 8 hodín na pracovisku :
+Tab. 20 Časový snímok pracovníka s akumulátorovou karbobrúskou:
+
+Minúty dB
+Zapnutie
+30
+Práca
+185
+Prestávka
+40
+Práca
+185
+Údržba
+40
+480
+
+82,7
+83,9
+52,5
+86,4
+59,4
+
+Tab. 21 Tabuľka hladín v dB:
+
+dB
+L1
+L2
+L3
+L4
+L5
+
+82,7
+83,9
+52,5
+86,4
+59,4
+
+Tab. 22 Tabuľka intervalov v minútach:
+
+T1
+T2
+T3
+T4
+T5
+
+Minúty
+30
+185
+40
+185
+40
+
+46
+
+Tab. 23 Tabuľka výpočtu 10log(T/To)
+T
+To
+10log(T/To)
+
+7,5
+8
+-0,28
+
+Tento vzorec na výpočet ekvivalentnej hladiny A zvuku, C zvuku alebo G infrazvuku
+(LAeq) je použitý z Nariadenia Vlády 115/2006 Z. z. [23]
+
+LAeq = 10log
+
+𝑇 . 10 , .
+
+∑
+
+LAeq = [30. 10 , .
++ [40. 10 , .
+
+, ]
+
++ [185 . 10 , .
+
+, ]
+
+, ]
+
+LAeq = 10log
+
+(1,305684025 . 10 )
+
+LAeq = 84,35 dB
+10log (T/To) = 10log (7,5/8) = -0,28
+LAEX.8h = LAeq.T + 10log (T/To)
+LAEX.8h = 84,35 – 0,28 = 84,07
+
+47
+
++ [40 . 10 , .
+
+, ]
+
++ [185 . 10 , .
+
+,
+
+] +
+
+4.6 Výsledky výpočtov pri 8 hodinovej pracovnej zmene
+Výsledky výpočtov pri 8 hodinách sú zobrazené v tabuľkách 28 – 32.
+Tab. 28 Vypočítané hodnoty pre akumulatorovú karbobrúsku pri pílení oceľovej výstuže
+LAeq
+Aku. Karb.
+Aku. Karb.
+Aku. Karb.
+
+LAEX
+84,35
+84,97
+87,23
+
+ULA
+84,07
+84,69
+86,95
+
+1,8
+
+LAEX.8h+ULA
+85,87
+86,49
+88,75
+
+Tab. 29 Vypočítané hodnoty pre karbobrúsku pri pílení obrubníkov
+LAeq
+Píl. Obr. Karb.
+Píl. Obr. Karb.
+Píl. Obr. Karb.
+
+LAEX
+101,1
+101,72
+101,03
+
+ULA
+100,82
+101,44
+100,75
+
+1,8
+
+LAEX.8h+ULA
+102,62
+103,24
+102,55
+
+Tab. 30 Vypočítané hodnoty pre karbobrúsku pri pílení oceľovej výstuže
+LAeq
+Píl. rox. Karb.
+Píl. rox. Karb
+Píl. rox. Karb.
+
+LAEX
+94,75
+93,16
+94,66
+
+ULA
+94,47
+92,88
+94,38
+
+1,8
+
+LAEX.8h+ULA
+96,27
+94,68
+96,18
+
+Tab. 31 Vypočítané hodnoty pre minirýpadlo Kubota pri výkopových prácach
+LAeq
+
+LAEX
+
+ULA
+
+LAEX.8h+ULA
+
+Minirýpadlo
+kubota
+
+74,42
+
+74,14
+
+73,85
+
+73,57
+
+Minirýpadlo
+kubota
+
+75,94
+
+1,8
+
+75,37
+
+Tab. 32 Vypočítané hodnoty pre vŕtačku na baterku pri vŕtaní s príklepom do tehly
+LAeq
+Vrtač. na bat.
+Vrtač. na bat.
+Vrtač. na bat.
+
+LAEX
+88,7
+91,06
+90,66
+
+ULA
+88,42
+90,78
+90,38
+
+48
+
+1,8
+
+LAEX.8h+ULA
+90,22
+92,58
+92,18
+
+4.7 Výsledky výpočtov pri 12 hodinovej pracovnej zmene
+Sú zobrazené v tabuľkách 33 – 37
+Tab. 33 Vypočítané hodnoty pre akumulatorovú karbobrúsku pri pílení oceľovej výstuže
+LAeq
+Aku. Karb.
+Aku. Karb.
+Aku. Karb.
+
+LAEX
+84,7
+85,3
+87,6
+
+ULA
+86,3
+86,9
+89,2
+
+1,8
+
+LAEX.12h+ULA
+88,1
+88,7
+91
+
+Tab. 34 Vypočítané hodnoty pre karbobrúsku pri pílení obrubníkov
+LAeq
+Píl. Obr. Karb.
+Píl. Obr. Karb.
+Píl. Obr. Karb.
+
+LAEX
+101,4
+102,1
+101,3
+
+ULA
+103,0
+103,7
+102,9
+
+1,8
+
+LAEX.12h+ULA
+104,8
+105,5
+104,7
+
+Tab. 35 Vypočítané hodnoty pre karbobrúsku pri pílení oceľovej výstuže
+LAeq
+Píl. rox. Karb.
+Píl. rox. Karb.
+Píl. rox. Karb.
+
+LAEX
+94,9
+93,6
+95
+
+ULA
+96,5
+95,2
+96,6
+
+1,8
+
+LAEX.12h+ULA
+98,3
+97
+98,4
+
+Tab. 36 Vypočítané hodnoty pre minirýpadlo Kubota pri výkopových prácach
+LAeq
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+
+LAEX
+
+ULA
+
+75
+
+76,6
+
+73
+
+74,6
+
+LAEX.8h+ULA
+78,4
+
+1,8
+
+76,4
+
+Tab. 37 Vypočítané hodnoty pre vŕtačku na baterku pri vŕtaní s príklepom do tehly
+LAeq
+Vrtač. na bat.
+Vrtač. na bat.
+Vrtač. na bat.
+
+LAEX
+89
+91,4
+91
+
+ULA
+90,6
+93
+92,6
+
+49
+
+1,8
+
+LAEX.8h+ULA
+92,4
+94,8
+94,4
+
+4.8 Porovnanie výsledkov s vyhláškou 448/2007 Z. z.
+Tab.38 Porovnanie výsledkov s vyhláškou a zaradenie do rizikových skupín
+LAeq
+Aku. Karb
+Aku. Karb
+Aku. Karb
+Píl. Obr. Uh.
+Karb.
+Píl. Obr. Uh.
+Karb.
+Píl. Obr. Uh.
+Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Aku. Vrtač.
+Aku. Vrtač.
+Aku. Vrtač.
+Aku. Karb
+Aku. Karb
+Aku. Karb
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Vrtač. na bat.
+Vrtač. na bat.
+Vrtač. na bat.
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+
+LAEX.8h
+
+ULA
+
+Riziková
+LAEX.8h+ULA skupina
+3
+85,87
+3
+86,49
+3
+88,75
+LAEX.8h+ULA
+4
+102,62
+4
+103,24
+4
+102,55
+LAEX.8h+ULA
+4
+96,27
+3
+94,68
+4
+96,18
+
+84,35
+84,97
+87,23
+LAeq
+
+84,07
+84,69
+86,95
+LAEX.8h
+
+101,1
+
+100,82
+
+101,72
+
+101,44
+
+101,03
+LAeq
+94,75
+93,16
+94,66
+LAeq
+88,7
+91,06
+90,66
+LAeq
+84,7
+85,3
+87,6
+LAeq
+101,4
+102,1
+101,3
+LAeq
+94,9
+93,6
+95
+LAeq
+89
+91,4
+91
+LAeq
+
+100,75
+LAEX.8h
+94,47
+92,88
+94,38
+LAEX.8h
+88,42
+90,78
+90,38
+LAEX.12h
+86,3
+86,9
+89,2
+LAEX.12h
+103,0
+103,7
+102,9
+LAEX.12h
+96,5
+95,2
+96,6
+LAEX.12h
+90,6
+93
+92,6
+LAEX.12h
+
+75
+
+76,6
+
+73
+LAeq
+
+74,6
+LAEX.8h
+
+74,42
+
+74,14
+
+75,94
+
+73,85
+
+73,57
+
+75,37
+
+1,8
+
+LAEX.8h+ULA
+90,22
+92,58
+92,18
+LAEX.12h+ULA
+88,1
+88,7
+91
+LAEX.12h+ULA
+104,8
+105,5
+104,7
+LAEX.12h+ULA
+98,3
+97
+98,4
+LAEX.12h+ULA
+92,4
+94,8
+94,4
+LAEX.12h+ULA
+
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+3
+3
+3
+2
+
+78,4
+2
+76,4
+LAEX.8h+ULA
+2
+2
+
+50
+
+4.9 Návrh opatrení
+Čísla, ktoré patria do kategórie č.4, podľa zákonu 448/2007 sú veľmi rizikové a to
+znamená, že práce, pri ktorých je prekročená normalizovaná hladina expozície hluku L AEX,8h
+je 10 dB a viac alebo prekročenie vrcholovej hladiny C akustického tlaku L CPK je 3 dB alebo
+viac.
+To znamená že musíme urobiť následné opatrenia:
+-
+
+Pri Laex.8h ktoré sú medzi 85 – 95 dB musíme predĺžiť čas na prestávku o 20 minút
+
+-
+
+Ďalej musíme pri práci po každých 30 minút robiť 30 minútovú pauzu. Ak ide o 12
+h smenu musí byť každých 20 minút pauza 40 minút
+
+-
+
+Pri Laex.8h ktoré sú medzi 95 – 105 dB musíme predĺžiť čas na prestávku o 40 minút
+
+-
+
+Pri týchto hodnotách musíme robiť prestávky častejšie takže minimálne každých 20
+minút 20 minútovú prestávku. Ak ide o 12 h smenu musí byť prestávka každých 20
+minút 25 minútová prestávka
+
+-
+
+Ďalším opatrením ktoré zamestnávateľ musí splniť je zabezpečenie ochranných
+pomôcok a to buď mušľové chrániče sluchu od značky 3M (Obr.12). Ktoré sú
+vhodné pre všetkých stavebných pracovníkov, sú vysoko výkonné, majú utlmenie
+33dB a nie je problém počúvať kolegov aj pri normálnom tóne hlasu ak by sa zdalo
+že by potrebovali mať väčší útlm dodal by som ušné zátky typu 3M E-A.R s úchytom
+a šnúrkou ktoré majú útlm 38 dB. Tieto zátky nájdete na (Obr.13).
+
+Ak sa všetky tieto body dodržia mali by sme sa dostať do rizikovej skupiny č. 3.
+Čísla, ktoré patria do kategórie č.3, podľa zákonu 448/2007, to znamená, že práce, pri
+ktorých je prekročená horná akčná hodnota expozície hluku, ale prekročenie normalizovanej
+hladiny expozície hluku LAEX,8h je menšie ako 10 dB alebo prekročenie vrcholovej hladiny
+C akustického tlaku LCPk je menšie ako 3 dB. Pri tejto skupine to stále nie je dobré a preto
+musíme urobiť nasledovné opatrenia:
+-
+
+Pri Laex.8h medzi 75 – 85 dB bude stačiť ak predĺžime prestávku o 10 minút
+
+-
+
+Ďalej musíme pri práci robiť každých 60 minút 15 minútovú prestávku
+
+-
+
+Toto platí ak berieme do úvahy 8 hodinovú smenu, ak sa bavíme o 12 hodinovej
+smene musíme mať každých 50 minút 20 minútovú prestávku
+
+-
+
+Pre ešte väčšie zlepšenie útlmu hluku použijeme ochranné slúchadlá GS 01-001
+s útlmom 25 dB, ktoré môžete vidieť na (Obr.14).
+
+Ak dodržíme všetky tieto opatrenia tak sa dostaneme na úroveň rizikovej skupiny č. 2.
+51
+
+Obr.12 Mušľové chrániče 3M X4
+(https://www.3mslovensko.sk/3M/sk_SK/p/d/v000137013/)
+
+Obr.13 Zátky s úchytom a šnúrkou
+(https://www.3mslovensko.sk/3M/sk_SK/p/d/v000094156/)
+
+52
+
+Obr.14 Ochranné slúchadlá GS 01-001 (https://www.oblecsadoroboty.sk/ochrannesluchadla-gs-01-001-p1336)
+
+53
+
+Tab.39 Riziková skupina po opatreniach
+LAeq
+Aku. Karb
+Aku. Karb
+Aku. Karb
+Píl. Obr. Uh. Karb.
+Píl. Obr. Uh. Karb.
+Píl. Obr. Uh. Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Aku. Vrtač.
+Aku. Vrtač.
+Aku. Vrtač.
+Aku. Karb
+Aku. Karb
+Aku. Karb
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Píl. výs. Uh. Karb.
+Vrtač. na bat.
+Vrtač. na bat.
+Vrtač. na bat.
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+Minirýpadlo
+kubota
+
+LAEX.8h ULA
+84,35
+84,07
+84,97
+84,69
+87,23
+86,95
+LAeq LAEX.8h
+101,1
+100,82
+101,72
+101,44
+101,03
+100,75
+LAeq LAEX.8h
+94,75
+94,47
+93,16
+92,88
+94,66
+94,38
+LAeq LAEX.8h
+88,7
+88,42
+91,06
+90,78
+90,66
+90,38
+LAeq LAEX.8h
+84,7
+86,3
+85,3
+86,9
+87,6
+89,2
+LAeq LAEX.8h
+1,8
+101,4
+103,0
+102,1
+103,7
+101,3
+102,9
+LAeq LAEX.8h
+94,9
+96,5
+93,6
+95,2
+95
+96,6
+LAeq LAEX.8h
+89
+90,6
+91,4
+93
+91
+92,6
+LAeq LAEX.8h
+
+Riziková
+LAEX.8h+ULA skupina
+3
+85,87
+3
+86,49
+3
+88,75
+LAEX.8h+ULA
+4
+102,62
+4
+103,24
+4
+102,55
+LAEX.8h+ULA
+4
+96,27
+3
+94,68
+4
+96,18
+LAEX.8h+ULA
+3
+90,22
+3
+92,58
+3
+92,18
+LAEX.12h+ULA
+3
+88,1
+3
+88,7
+3
+91
+LAEX.12h+ULA
+104,8
+105,5
+104,7
+LAEX.12h+ULA
+98,3
+97
+98,4
+LAEX.8h+ULA
+92,4
+94,8
+94,4
+LAEX.8h+ULA
+
+75
+
+76,6
+
+73
+LAeq
+
+74,6
+LAEX.8h
+
+74,42
+
+74,14
+
+75,94
+
+73,85
+
+73,57
+
+75,37
+
+Skupina po
+opatreniach
+2
+2
+2
+3
+3
+3
+3
+2
+3
+2
+2
+2
+2
+2
+2
+
+4
+4
+4
+
+3
+3
+3
+
+4
+4
+4
+
+3
+3
+3
+
+3
+3
+3
+
+2
+2
+2
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+78,4
+76,4
+LAEX.8h+ULA
+
+54
+
+5 Záver
+Cieľom tejto práce bolo zistiť ako sa hluk chová v pracovnom prostredí a či ovplyvňuje
+kvalitu pracovného prostredia jednotlivých zamestnancov pri rôznych pracovných
+činnostiach. Hluk bol počítaný a hodnotený pri rôznych pracovných činnostiach, na rôznych
+pracovných prístrojoch. Aby sme zistili či je rozdiel medzi tým, že zamestnanec robí 8 alebo
+12 hodín urobili sme výpočty a následne ich porovnali. Zamestnávateľ sa v minulosti
+nezaoberal hlukom tak podrobne, riešil iba všeobecnú bezpečnosť, ako je mať prilby pri
+práci na stavenisku alebo mať dobré pracovné rukavice.
+V práci sme pri výpočtoch zistili, že pri rôznych prístrojoch je hluk odlišný, ale aj tak
+veľmi vysoký a preto by sme mali urobiť nasledovné opatrenia. Tieto opatrenia nebudú
+z ekonomického hľadiska výhodné, pretože sa na každom prístroji vymenia minimálne traja
+pracovníci, ktorým treba zakúpiť ochranné pomôcky, ale budú výhodné z hľadiska kvality
+pracovného prostredia na pracovisku. To znamená, ak sa kúpia kvalitnejšie ochranné
+pomôcky, zlepší sa pre zamestnancov pracovné prostredie a vylepší sa efektivita práce.
+Tab.28 Výsledky výpočtov pri 8 hodinovej pracovnej zmene
+
+Aku. Karb.
+Aku. Karb.
+Aku. Karb.
+
+LAeq
+LAEX
+ULA
+84,35
+84,07
+1,8
+84,97
+84,69
+87,23
+86,95
+
+Riziková
+LAEX.8h+ULA skup.
+85,87
+86,49
+88,75
+
+Skup. Po
+opatreniach
+3
+2
+3
+2
+3
+2
+
+Pri vyhodnocovaní opatrení sme zistili že z tabuľky 28 sme sa dostali z rizikovej
+skupiny 3 do rizikovej skupiny 2. Takže naše opatrenia by mohli fungovať, ak zamestnanci
+dodržia všetky body. Pre firmu to bude určite pozitívny výsledok.
+Tab.34 Výsledky výpočtov pri 12 hodinovej pracovnej zmene
+
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+Píl. Obr. Uh. Karb
+
+LAeq
+LAEX
+ULA
+101,4
+103,0
+1,8
+102,1
+103,7
+101,3
+102,9
+
+Riziková
+LAEX.12h+ULA skup.
+104,8
+105,5
+104,7
+
+Skup. po
+opatreniach
+4
+3
+4
+3
+4
+3
+
+Ak si zoberieme Tab. 34 tak vidíme, že tu nám LAEX.8h prekračuje najvyššiu normu,
+takže tu budú opatrenia tvrdšie, to znamená, že budeme potrebovať lepšie ochranné
+55
+
+pomôcky, ktoré budú samozrejme drahšie, ale účinnejšie. Pri vyšších hodnotách budeme
+musieť mať aj častejšie prestávku, aby si zamestnanec vážne nepoškodil zmyslové orgány.
+Na základe týchto poznatkov boli zistené riziká pri ktorých zamestnanci môžu mať
+zdravotné problémy, napríklad poškodenie sluchu, zmeny krvného tlaku, podráždenosť,
+problémy so spaním, bolesť hlavy. Tým pádom sa môže stať, že sa viacerým pracovníkom
+naraz poškodí sluch a nebudú schopný pokračovať v práci na stavenisku a tým sa zastaví
+chod firmy. Preto sme navrhli tieto opatrenia, aby v práci zamestnancom nevznikli
+predpoklady na chorobu a aby sa mohlo pokračovať vo všetkých prácach bez ujmy na zdravý
+hociktorého zo zamestnancov.
+Bakalárska práca rieši ochranu pracovníkov voči pôsobeniu nadmernej hlučnosti
+v danej firme. Hlavným cieľom je chrániť každého jedného zamestnanca, pretože každý
+jeden z nich je dôležitý pre správne fungovanie firmy.
+
+56
+
+6 Zoznam použitej literatúry
+[1] ACTON, W. 2005 History and development of hearing protection devices. The Journal
+of the Acoustical Society of America [online]. [cit. 2017-05-18]. Published by:
+http://asa.scitation.org/doi/abs/10.1121/1.2024272
+[2] Antoni J. and Schoukens J. 2007 A comprehensive study of the bias and variance of
+frequency-response-function measurements: Optimal window selection and overlapping
+strategies. (https://www.sciencedirect.com/science/article/abs/pii/S0005109807001914)
+[3] AURIS. 2013 Druhy chráničů sluchu-typy špuntů do uší. Špunty do uší, ochrana sluchu
+pro DJe a muzikanty, příslušenství k naslouchadlům. [Online]. [Citace: 20. 12 2013.]
+http://www.auris-audio.cz/spunty-do-usi-typy.
+[4] BERAN, V.2010 Chvění a hluk 1. vydání. Plzeň: Západočeská univerzta v Plzni, 204 s.
+ISBN 978-80-7043-916-6
+[5] Jiříček O. 2002 Úvod do akustiky, ČVUT v Praze, ISBN: 80-01-02460-1
+[6] Jokl, Miloslav, 2002, Zdravé obytné a pracovní prostředí, Praha, Academia,
+nakladatelství Akademie věd České republiky, 264 s, ISBN 80-200-0928-0
+[7] Hansen C. 2012 Active control of noise and vibration, publisher Taylor & Francis Ltd,
+ISBN13 (EAN): 9780415590617
+[8] HAVRÁNEK, Jiří. 1990, Hluk a zdraví. 1. vyd. Praha: Avicenum, 278 s.
+ISBN 80-201-0020-2
+[9] KAŇÁK, Jiří. 2008, Akustika v praxi. 1. vydání. Ostrava: VŠB - Technická univerzita
+Ostrava, Regionální centrum celoživotního vzdělávání, 22 s. ISBN 978-80- 248-1769-9.
+[10] Králíček, P. 2011, Úvod do speciální neurofyzilogie. Plzeň : Vydavatelství Galén. 97880-7262-618-2.
+[11] Lees, T, 1999 Committee on the Problem of Noise. Noise – final report. London:
+HMSO,
+BS EN 458:1994
+[12] MIŠUN, Vojtěch. Vibrace a hluk. Akademické nakladatelství CERM, s.r.o., Brno,
+2005.
+ISBN 80-214-3060-5.
+[13] NARIADENIE VLÁDY 115/2006 Z. z. Slovenskej republiky z 15. februára 2006
+o minimálnych zdravotných a bezpečnostných požiadavkách na ochranu zamestnancov pred
+rizikami súvisiacimi s expozíciou hluku. Dostupné na: https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/2006/115/
+[14] NOVÝ, Richard. 2000, Hluk a chvění. 2.vyd. Praha: Vydavatelství ČVUT, 389 s. ISBN
+80-01-02246-3.
+57
+
+[15] Pracovné prostredie – 2.časť – Hluk na pracovisku, 2017
+https://humanet.sk/blog/pracovne-prostredie-2-cast-hluk-na-pracovsku
+[16] Rozman, J. 1996, a další, a další. Ekologické inženýrství. Ostrava : VŠB pro MŽP v
+programu PHARE. 80-7078-37.
+[17] SMETANA, Ctirad, et al. 1998 Hluk a vibrace, měření a hodnocení. Praha: Sdělovací
+technika. 188 s. ISBN 80-901936-2-5.
+[18] ŠVANCARA, P. 2005, Vibrace, hluk a bioakustika - část 1 (přednáška). Brno: Vysoké
+učení technické v Brně, Fakulta strojního inženýrství, studijní opory
+[19] VAŇKOVÁ Marie a kolektiv. 1995, Hluk, vibrace a ionizujicí zažizení v životním a
+pracovním prostredí část I. 1.vyd. Brno: PC-DIR, spol. s.r.o. 140 s. ISBN 80-214-0695-X.
+[20] VÁGNEROVÁ, Monika. 2013, ZÁKLADY AKUSTIKY Greif-akustika, s.r.o.
+[online]. [cit. 2016-05-18]. Dostupné z: www.greif.cz/download/its075-zaklady-akustikyprirucka-pro-zacatecniky.pdf
+[21] VÉR, István L. a Leo L. BERANEK. 2006, Noise and vibration control engineering:
+principles and applications. 13. New Jersey: Wiley, ISBN 978 0 471 44942 3.
+[22] VYHLÁŠKA 448/2007 Z. z. Ministerstva zdravotníctva Slovenskej republiky zo 7.
+septembra 2007 o podrobnostiach o faktoroch práce a pracovného prostredia vo vzťahu ku
+kategorizácii prác z hľadiska zdravotných rizík a o náležitostiach návrhu na zaradenie prác
+do kategórií.
+Dostupné na: (https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2007/448/20190801)
+[23] ŽIARAN, Stanislav. 2006, Znižovanie kmitania a hluku v priemysle: kmitanie a
+akustika. 1. vyd. Bratislava: Vydavateľstvo STU, 330 s. ISBN 80-227-2366-5.
+
+58
+
+

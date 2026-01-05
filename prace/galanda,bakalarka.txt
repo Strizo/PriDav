@@ -1,0 +1,2224 @@
+EKONOMICKÁ UNIVERZITA V BRATISLAVE
+NÁRODOHOSPODÁRSKA FAKULTA
+Evidenčné číslo: 101006/B/2022/36124048426273028
+
+AKTUÁLNE PROBLÉMY MSP PRI ZÍSKAVANÍ
+FINANČNÝCH ZDROJOV
+Bakalárska práca
+
+2022
+
+Patrik Tomáš Galanda
+
+EKONOMICKÁ UNIVERZITA V BRATISLAVE
+NÁRODOHOSPODÁRSKA FAKULTA
+Evidenčné číslo: 101006/B/2022/36124048426273028
+
+AKTUÁLNE PROBLÉMY MSP PRI ZÍSKAVANÍ
+FINANČNÝCH ZDROJOV
+Bakalárska práca
+
+Študijný program: Financie, bankovníctvo a investovanie
+Študijný odbor: Ekonómia a manažment
+Školiace pracovisko: Katedra financií
+Vedúci záverečnej práce: Ing. Magdaléna Červeňová, CSc.
+
+Bratislava 2022
+
+Patrik Tomáš Galanda
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že túto bakalársku prácu som vypracoval samostatne za
+pomoci pani Ing. Magdalény Červeňovej, CSc. Pri spracovaní práce som využíval
+teoretické poznatky z odbornej literatúry a publikačných zdrojov, ktoré sú uvedené
+v zozname literatúry na konci práce.
+V Bratislave, dňa 22.5.2022
+
+Abstrakt
+GALANDA, Patrik Tomáš: Aktuálne problémy MSP pri získavaní finančných zdrojov. –
+Ekonomická univerzita v Bratislave. Národohospodárska fakulta; Katedra financií. –
+Vedúci práce: Ing. Magdaléna Červeňová, CSc.. – Bratislava: NHF EU, 2022, 47 s.
+
+Záverečná práca je vypracovaná na tému Aktuálne problémy malých a stredných podnikov
+pri získavaní finančných zdrojov. Cieľom záverečnej práce bolo analyzovať problémy
+malých a stredných podnikov pri získavaní finančných zdrojov a uviesť námety pre
+zlepšenie financovania malých a stredných podnikateľov. Jednotlivé časti záverečnej práce
+boli zamerané na: teoretické vymedzenie podniku ako takého, jeho funkcií a štruktúru
+finančných zdrojov; praktickú časť kde sa bližšie popisujú problémy malých a stredných
+podnikov v rôznych oblastiach získavania finančných zdrojov. Na záver je vyhodnotenie,
+ako by sa dali problémy zlepšiť, alebo čo je kľúčom k zlepšeniu. Výsledkom riešenia danej
+problematiky sú vlastné názory, podložené faktami nachádzajúcimi sa v tejto bakalárskej
+práci, ktoré hovoria o budúcej spolupráci malých a stredných podnikov s Európskou úniou.
+
+Kľúčové slová:
+Malé a stredné podniky, MSP, Európska únia, COVID-19, problémy, zdroje financovania
+
+Abstract
+GALANDA, Patrik Tomáš: Current problems of small and medium sized enterprises in
+obtaining financial resources. – University of Economics in Bratislava. Faculty of National
+Economy; Department of Finance. – Thesis supervisor: Ing. Magdaléna Červeňová, CSc..
+– Bratislava: NHF EU, 2022, 47 pages
+The thesis is elaborated on the topic of Current problems of small and medium sized
+enterprises in obtaining financial resources. The Aim of the thesis was to analyze problems
+of SMEs in obtaining financial resources and to present ideas which could help making the
+situation in obtaining financial resources better. This thesis consists of theoretical part,
+which explains enterprises in its various forms, and also explains the financing of SMEs
+and the practical part consists of describing different problems SMEs face in obtaining
+financial resources. In the end, there is an evaluation, which suggests own ideas of the
+author based on facts written in this thesis, that the future of obtaining financial resources
+lies in cooperation with European Union.
+Key words: Small and medium sized enterprise, SME, European Union, COVID-19,
+problems, financial resources
+
+Obsah
+Úvod ........................................................................................................................... 8
+Súčasný stav riešenej problematiky doma a v zahraničí ............................................ 9
+Stručný súčasný stav na území SR ......................................................................... 9
+Stručný súčasný stav v zahraničí ........................................................................... 9
+Základné pojmy a ich vymedzenie....................................................................... 10
+Členenie podniku ............................................................................................. 10
+Funkcia Malých a stredných podnikov ................................................................ 14
+Zdroje financovania malých a stredných podnikov ............................................. 16
+Priame a nepriame financovanie ...................................................................... 16
+Štruktúra finančných zdrojov ........................................................................... 16
+Financovanie z fondov EÚ ............................................................................... 18
+Cieľ práce, metodika práce a metódy skúmania ...................................................... 21
+Výsledky práce ......................................................................................................... 21
+COVID-19 ............................................................................................................ 21
+Podpora zo strany Európskej Únie ................................................................... 24
+Opatrenia v oblasti finančných nástrojov......................................................... 28
+SBAfE – Prístup k financiám ............................................................................... 34
+Horizont Európa ................................................................................................... 38
+Excelentná veda ............................................................................................... 38
+Globálne výzvy a konkurencieschopnosť európskeho priemyslu .................... 38
+Inovatívna Európa ............................................................................................ 39
+Implementácia Horizont Európa ...................................................................... 39
+Diskusia.................................................................................................................... 40
+Záver ........................................................................................................................ 43
+Zoznam použitej literatúry ....................................................................................... 45
+Zoznam tabuľiek ...................................................................................................... 48
+
+Úvod
+Malé a stredné podniky tvoria drvivú väčšinu podnikateľských subjektov
+v Európskej únii a aj vo svete. Tieto podniky môžu čeliť rôznym problémom z hľadiska
+počtu zákazníkov, konkurencie, prístupu k financovaniu, nákladov na výrobu alebo prácu,
+dostatku pracovnej sily, atď...
+Cieľom tejto bakalárskej práce je identifikovať hlavné problémy pri získavaní
+finančných zdrojov a na základe analýzy hlavných problémov zadefinovať a navrhnúť
+spôsoby riešení pri získavaní finančných zdrojov malých a stredných podnikov.
+V prvej kapitole sa v práci venujeme základnému vymedzeniu podniku, z rôznych
+hľadísk a kritérií. Taktiež sa zaoberáme rozdelením finančných zdrojov a funkciami
+podniku.
+V praktickej časti bakalárskej práce sa bližšie pozrieme na aktuálne problémy
+malých a stredných podnikov pri získavaní finančných zdrojov. V posledných pár rokoch
+sme ako spoločnosť zažili mnoho udalostí, ktoré pohli svetom. Jedna z nich je celosvetová
+pandémia COVID-19, ktorá sa dotkla ako obyvateľov, tak aj podnikateľských subjektov zo
+sveta malých a stredných podnikateľov. V bakalárskej práci uvádzam výstupy auditu, ktorý
+vyhodnotil prístup k financovaniu na území Slovenskej republiky v roku 2020
+a poukážeme aj na význam programu Horizont Európa, ktorý môže dopomôcť k
+pretvoreniu doterajšieho spôsobu výroby na udržateľnejší, vďaka podpore inovácií.
+V záverečnej časti bakalárskej práce na základe analýzy problémov malých
+a stredných podnikov navrhujem spôsoby riešenia pri získavaní finančných prostriedkov,
+čo je kľúčom k zlepšeniu postavenia a fungovania malých a stredných podnikov.
+Výsledkom riešenia danej problematiky sú vlastné názory, podložené faktami, ktoré
+uvádzam vo svojej bakalárskej práci, s akcentom na posilňujúcu spoluprácu malých
+a stredných podnikov v rámci rôznych projektov pri získavaní finančných prostriedkov
+v súčinnosti s Európskou úniou
+Verím, že táto bakalárska práca pomôže jednotlivcom v spoločnosti, ktorí by sa
+chceli zaujímať o aktuálne problémy malých a stredných podnikov a ako by sa dali riešiť,
+poprípade ako ich krajiny vyriešili. Okrem iného sa táto bakalárska práca môže do
+budúcnosti stať míľnikom, ktorý preukazuje aká bola situácia v danom období.
+
+8
+
+Súčasný stav riešenej problematiky doma a v zahraničí
+Stručný súčasný stav na území SR
+Na základe údajov zo Správy o stave malého a stredného podnikania na Slovensku,
+malé a stredné podniky tvorili v roku 2020 na území SR 99,9 % podiel v rámci sektora
+podnikov. Rastový trend početnosti malých a stredných podnikov dosahoval úroveň iba
+0,3%, avšak za predchádzajúce obdobie to bolo 6,3%. Počet aktívnych malých a stredných
+podnikov je 597 171.V porovnaní s údajmi za predchádzajúce obdobie to je nárast o takmer
+2 tisíc subjektov. Podiel mikropodnikov na území SR tvorí až 97,2%, vďaka čomu je
+Slovenská republika krajina, ktorá má najvyšší podiel mikropodnikov v rámci krajín EÚ.
+Najvýznamnejšie zastúpenie z hľadiska odvetví v rámci MSP má na trhu sektor
+služieb, ktorý má 47,4 % podiel, konkrétne je to 282 945 subjektov. Takmer jednu pätinu
+subjektov tvoria subjekty v odvetví stavebníctva, je to 18,1% a 108 136 subjektov. Trojicu
+najpočetnejších oblastí uzatvára obchod, ktorého je na trhu 16,9% a 101 066 subjektov.
+V oblasti priemyslu a pôdohospodárstva, ktoré sú tiež celkom početné skupiny sú konkrétne
+hodnoty 13,6% a 81 149 a 4,0% a 23 875 subjektov.1
+
+Stručný súčasný stav v zahraničí
+Malé a stredné podniky zohrávajú dôležitú úlohu vo väčšine ekonomík, avšak
+najdôležitejšie sú pre rozvojové krajiny. Sú najväčším prispievateľom pre nové pracovné
+miesta a celosvetový ekonomický rozvoj. Predstavujú zhruba 90% podnikov a zastupujú
+viac ako 50% celkovej zamestnanosti vo svete. Klasické malé a stredné podniky, tak ako ich
+poznáme zadefinované, podľa právnych predpisov tvoria až 40% hrubého domáceho
+produktu v oblasti rozvojového trhu. Tieto čísla by boli znamenite vyššie, ak by sa do nich
+mohli započítavať aj malé a stredné podniky, ktoré operujú v šedej ekonomike. Podľa
+odhadov, bude potrebných viac ako 600 000 000 pracovných miest do roku 2030, aby sa
+zvládlo absorbovať rastúcu svetovú pracovnú silu, čo znamená, že rozvoj malých
+a stredných podnikov je vysokou prioritou pre vlády po celom svete. V oblasti rozvojového
+trhu je 7 z 10 pracovných pozícií tvorených práve malými a strednými podnikmi.
+Medzinárodná finančná korporácia odhaduje, že 65 miliónov podnikov, alebo 40 %
+malých a stredných podnikov v rozvojových krajinách nie je dostatočne financovaných,
+konkrétne sú v deficite 5,2 bilióna dolárov každý rok, čo je zhruba 1,4 násobok terajšieho
+Slovak Business Agency, Správa o stave malého a stredného podnikania v SR 2020, dostupné na:
+http://monitoringmsp.sk/wp-content/uploads/2021/11/Sprava-o-stave-MSP-2020_final-1.pdf
+1
+
+9
+
+financovania v oblasti malých a stredných podnikov. Východná Ázia a Tichomorie
+predstavujú 46% podiel na finančnej medzere, Latinská Amerika a Karibik 23% a Európa
+a Stredná Ázia 15%. Objem finančnej medzery sa líši v závislosti od regiónov. Regióny
+Latinskej Ameriky a Karibiku, Strednej Ázie a severnej Afriky majú najväčšiu finančnú
+medzeru v objeme 87%-88%.2
+
+Základné pojmy a ich vymedzenie
+Na pochopenie uvedenej témy si musíme najprv vymedziť základné pojmy,
+s ktorými budeme neskôr pracovať.
+Činnosť podnikania môžeme chápať podľa definície v Zbierke zákonov, ktoré
+podnikanie definujú, že to je „sústavná činnosť vykonávaná samostatne, vo vlastnom mene
+a na vlastnú zodpovednosť za účelom dosiahnutia zisku.“3 Z uvedenej definície teda
+môžeme pochopiť, že podnikateľ je daná osoba, ktorá túto činnosť vykonáva.
+Z Obchodného zákonníka chápeme podnik ako „súbor hmotných, ako aj osobných
+a nehmotných zložiek podnikania. K podniku patria veci, práva a iné majetkové hodnoty,
+ktoré patria podnikateľovi a slúžia na prevádzkovanie podniku alebo vzhľadom na svoju
+povahu majú tomuto účelu slúžiť.“4
+
+Členenie podniku
+Podnik možno rozčleniť podľa viacerých kritérií a hľadísk, ktoré si vymenujeme.
+
+Členenie podniku podľa kvalitatívnych a kvantitatívnych kritérií
+Podniky sa primárne delia na malé podniky, stredné podniky a veľké podniky. Na
+určenie veľkosti podniku sa používajú kvalitatívne a kvantitatívne kritériá:5
+- kvalitatívne kritéria sú organizačná štruktúra, postavenie na trhu, lokalizácia
+podniku a vzťah vlastníkov a manažmentu podniku
+- kvantitatívne kritériá sú počet zamestnancov, obrat podniku majetok či kapitál
+a zisk.
+
+Údaje z The World Bank, dostupné na: https://www.worldbank.org/en/topic/smefinance
+Zákon č. 513/1991 z Obchodného zákonníka
+4
+Tamtiež
+5
+Majdúchová, H. a Neumannová, A. Podnikové hospodárstvo pre manažérov, 2008, s. 27
+2
+3
+
+10
+
+Členenie podniku podľa veľkosti podniku
+Určovanie veľkosti podniku podľa počtu zamestnancov zaviedla Európska únia a to
+hlavne na:6
+- mikropodnik (veľmi malý podnik) – počet zamestnancov od 1 do 9,
+- malý podnik – zamestnanci od 1 do 49, ročný obrat maximálne 7 mil. EUR,
+výsledok hospodárenia najviac 5 mil. EUR,
+- stredný podnik – zamestnáva menej ako 250 ľudí, obrat max. 40 mil. EUR, výsledok
+hospodárenia dosahuje maximálne 27 mil. EUR,
+- veľký podnik – počet zamestnancov nad 250.
+
+Členenie podniku podľa právnej formy
+Charakterizovať typ podniku vieme aj na iných základoch ako je veľkosť podniku.
+Je to napríklad podľa odvetvia a odboru činnosti a najmä podľa právnej formy, v zmysle
+platných právnych predpisov Slovenskej republiky:7
+-
+
+Podnik jednotlivca – je vlastníctvom jedinej osoby, ktorá zodpovedá za vedenie
+podniku a sama spravuje kapitál podniku a je zodpovedná za činnosť podniku
+a za jeho záväzky, za ktoré ručí celým svojím majetkom,
+
+-
+
+Verejná obchodná spoločnosť – združuje fyzické a právnické osoby na základe
+spoločenskej zmluvy za účelom podnikania a jej spoločníci, ktorých postavenie
+a rozhodovanie vo veciach podniku je rovnocenné, ručia za záväzky spoločnosti
+celým svojím majetkom. Postavenie spoločníkov však môže byť rozdielne,
+pokiaľ sa tak dohodnú v spoločenskej zmluve,
+
+-
+
+Komanditná spoločnosť – združuje fyzické a právnické osoby, ktoré sú delené na
+komplementárov, ktorí ručia za záväzky spoločnosti do výšky svojho celého
+majetku a komanditistov, ktorí ručia len do výšky nesplatenej časti svojho
+vkladu,
+
+-
+
+Spoločnosť s ručením obmedzeným – ide o kapitálovú spoločnosť typickú pre
+malé a stredné podniky a zakladaná je jednou alebo viacerými osobami na
+základe spoločenskej zmluvy. Spoločnosť ručí za svoje záväzky celým svojím
+
+6
+7
+
+Sedlák, M a kolektív. Podnikové hospodárstvo, 2007, s. 64
+Vlachynský, K. a kol. Podnikové financie, 2006, s. 53-56
+
+11
+
+majetkom a jednotliví spoločníci do výšky svojho nesplatného vkladu do
+spoločnosti. O výplate zisku alebo úhrade straty rozhoduje valné zhromaždenie,
+-
+
+Akciová spoločnosť – právna forma typická pre veľké podniky, ktorej základné
+imanie je sústredené predajom akcií s istou menovitou hodnotou, ktoré sú
+obchodovateľným cenným papierom. Spoločnosť má istú hierarchiu v jej riadení
+a to valné zhromaždenie, predstavenstvo a dozornú radu. Spoločnosť ručí za
+svoje záväzky celým svojím majetkom a jednotliví akcionári len do výšky ich
+nesplatnej hodnoty akcií,
+
+-
+
+Družstvo – je spoločenstvo fyzických a právnických osôb, ktorej základné imanie
+tvorí súhrn členských vkladov, ktorých výška je zväčša určená v stanovách
+družstva. Orgánom družstva je predstavenstvo, členská schôdza a kontrolná
+komisia, prípadne iné, ktoré boli určené v stanovách.
+
+Členenie podniku podľa charakteru produktu
+Do tejto kategórie spadajú podniky, ktoré produkujú výrobky, ale aj podniky, ktoré
+poskytujú služby. Tie sú:8
+-
+
+Výrobné podniky – ich produktom ú už hotové výrobky, alebo výrobky určené
+na ďalšie spracovanie a k týmto podnikom patria:
+-
+
+Podniky prvovýroby, ktoré produkujú také výrobky, ktoré sú získavané
+z prírody a pri ich získavaní je za potreby vynaložiť ľudské úsilie. Sú to:
+
+-
+
+-
+
+8
+
+-
+
+Pôdohospodárske podniky,
+
+-
+
+Podniky zaoberajúce sa rybolovom,
+
+Podniky druhovýroby – tieto podniky už spracovávajú produkty. Sú to:
+-
+
+Podniky vyrábajúce výrobné prostriedky,
+
+-
+
+Podniky vyrábajúce výrobky.
+
+Nevýrobné podniky – ich produktom je teda služba. Patria medzi ne:
+-
+
+Obchodné podniky,
+
+-
+
+Sprostredkovateľské podniky,
+
+-
+
+Dopravné podniky,
+
+-
+
+Banky a podniky poskytujúce finančné služby,
+
+-
+
+Pošty a telekomunikačné podniky,
+
+-
+
+Hotely a reštaurácie,
+
+Sedlák, M a kolektív. Podnikové hospodárstvo, 2007, s. 64
+
+12
+
+-
+
+Podniky ostatných služieb.
+
+Členenie podľa príslušnosti podniku k hospodárskemu odvetviu
+Podniky taktiež vieme určiť podľa príslušnosti k hospodárskemu odvetviu a podľa
+charakteru výsledkov činností jednotlivých podnikov.9 Takýmito podnikmi sú:
+-
+
+Poľnohospodárske podniky,
+
+-
+
+Lesnícke podniky,
+
+-
+
+Priemyselné podniky
+
+-
+
+Stavebné podniky,
+
+-
+
+Dopravné podniky,
+
+-
+
+Obchodné podniky,
+
+-
+
+Peňažné podniky a Poisťovacie podniky.
+
+Členenie podniku podľa významnosti výrobného faktora
+Podľa významnosti výrobného faktora je možno rozdeliť podniky do štyroch
+základných skupín podľa náročnosti.10 Sú to:
+-
+
+Pracovne náročné – Podniky, ktoré sú orientované na ľudské zdroje, kde sa
+prejavuje vysoký podiel mzdových nákladov na celkových nákladoch
+
+-
+
+Materiálovo náročné – Podniky, ktoré sú náročné na materiál, vstupy. Tieto
+podniky majú vysokú spotrebu surovín a majú vysoký podiel materiálových
+nákladov na celkových nákladoch.
+
+-
+
+Kapitálovo/Investične náročné – Podniky, v ktorých je vysoká spotreba kapitálu,
+najmä finančných zdrojov. Vlastnia mnoho zariadení, na ktoré sú viazané vysoké
+objemy kapitálu, a v ktorých vysoký podiel na celkových nákladoch tvoria
+odpisy
+
+-
+
+Palivovo-energeticky náročné – Podniky, ktorých prevádzka vyžaduje vysoké
+množstvo energetických vstupov.
+
+Členenie podniku podľa sektorov do ktorých spadá
+Do tohto členenia zaraďuje podniky podľa toho akej časti národného hospodárstva
+sa podnik venuje.11 Tieto môžu byť:
+
+Chapčáková, A. a kol. Podnikanie v malých a stredných podnikoch, 2010
+Veber, J. a Srpová, J. a kol. Podnikání malé a střední firmy, 2008
+11
+Sedlák, M a kolektív. Podnikové hospodárstvo, 2007, s. 64
+9
+
+10
+
+13
+
+-
+
+Podniky primárneho sektora – Podnik, ktorého produkty sa získavajú z prírody
+a ľudskou prácou.
+
+-
+
+Podniky sekundárneho sektora – Podnik, ktorý produkuje tovary investičného
+a spotrebného charakteru, ku ktorým radíme podniky spracovateľského
+priemyslu a stavebné podniky.
+
+-
+
+Podniky terciárneho sektora – Podnik, ktorý svojou činnosťou produkuje služby.
+
+Členenie podniku podľa vlastníctva
+Podniky v tomto členení delíme podľa toho, kto je vlastníkom.12 Podniky z tohto
+hľadiska delíme na:
+-
+
+Súkromné podniky – Vlastník je fyzická alebo právnická osoba. Tieto podniky
+môžeme následne členiť na:
+-
+
+Domáce, tuzemské podniky,
+
+-
+
+Zahraničné podniky,
+
+-
+
+Podniky so zahraničnou účasťou.
+
+- Verejné podniky – Tieto podniky zakladajú miestne, alebo ústredné orgány štátnej
+správy ako sú napríklad mesto, obec, vyšší územný samosprávny celok, štát
+a podobne. Delíme ich na:
+
+-
+
+-
+
+Štátne podniky,
+
+-
+
+Samosprávne podniky.
+
+Zmiešané podniky – Tieto podniky majú kombináciu súkromného a verejného
+vlastníctva. Vlastníctvo a financovanie podniku sú vzájomne dopĺňajúce sa
+kritéria, a vzhľadom na to podniky možno deliť na:
+-
+
+Podniky
+
+ziskové,
+
+ktoré
+
+sú
+
+financované
+
+z príjmov
+
+z podnikateľskej činnosti
+-
+
+Podniky neziskové, ktoré sú financované z verejných alebo
+súkromných financií
+
+Funkcia Malých a stredných podnikov
+Vo všeobecnosti sú malé a stredné podniky považované za prvok, ktorý vo veľkom
+stabilizuje spoločnosť a ekonomiku, pretože zohrávajú veľkú úlohu v rozličných sektoroch
+
+12
+
+Marková, H. Daňové zákony, 2005
+
+14
+
+a týkajú sa takmer celej spoločnosti. Malé a stredné podniky spĺňajú rôzne funkcie, ktoré sa
+tvorili časom, rovnako ako malé a stredné podniky. Primárne rozdelenie týchto funkcií si
+bližšie rozoberieme13:
+-
+
+Obchodná funkcia – Táto funkcia sa začína predajom a končí sa nákupom. Súvisí
+s ňou aj funkcia reklamy a servisu.
+
+-
+
+Výrobná funkcia – Týka sa výrobných transformačných procesov, ktoré
+pretvárajú vstupy na výstupy. Výstup môže byť nejaký výrobok, alebo služba.
+Jej súčasťou sú aj výskumno-vývojová funkcia, funkcia údržby a opráv,
+investičná funkcia, funkcia prípravy výroby a iné.
+
+-
+
+Ekonomická funkcia – Primárnou úlohou tejto funkcie je tvoriť hodnotu.
+Výsledkom procesov v podniku je tovar, poprípade služba s určitou cenou, ktorá
+je prijatá trhom. Sprevádzajú ju funkcie financovania, účtovná funkcia a mzdová
+funkcia.
+
+-
+
+Právna funkcia – Vďaka tejto funkcii môže podnik vytvoriť právne funkčný
+celok. Podnikové predpisy sú výsledkom právnych vzťahov medzi podnikom
+a jeho okolím. Jej súčasťou sú pracovno-právna funkcia a hospodársko-právna
+funkcia.
+
+-
+
+Sociálna funkcia – Hlavnou úlohou sociálnej funkcie je uspokojovanie potrieb
+zamestnancov, samosprávy a tvorba infraštruktúry. Funkcie vzdelávania, bytová
+funkcia, zamestnanecká funkcia, zdravotnícka funkcia a mzdová funkcia tejto
+funkcii napomáhajú.
+
+-
+
+Ponuková funkcia – Podniky tvoria služby a tovary, neskôr ich ponúkajú na trhu,
+kde ich zákazníci nakupujú.
+
+-
+
+Zamestnanecká funkcia – Na trhu práce podniky tvoria pracovné príležitosti,
+ktoré môžu ľudia využiť.
+
+-
+
+Vzdelávacia funkcia – Podniky sú schopné poskytnúť zamestnancom
+vzdelávanie v určitom sektore. Tým pádom sú zamestnanci viac pripravení na
+prácu v ich odvetví.
+
+-
+
+Rastová funkcia – Napomáha jej stupeň odbornosti zamestnancov a technická
+vyspelosť podniku. Vďaka dostatku finančných prostriedkov pomáha
+nasledovnému rozvoju podniku.
+
+13
+
+Veber, J. a Srpová, J. a kol. Podnikání malé a střední firmy, 2008
+
+15
+
+Zdroje financovania malých a stredných podnikov
+Malé a stredné podniky na prevádzkovanie svojej činnosti potrebujú finančné zdroje.
+MSP nemajú dostatok kapitálu a preto sa snažia využiť na financovanie všetky dostupné
+zdroje. Taktiež nemajú prístup k niektorým finančným zdrojom a pre väčšinu subjektov je
+anonymný kapitálový trh neprístupný.14
+
+Priame a nepriame financovanie
+Pri priamom financovaní je priamy styk medzi subjektom, ktorý má voľné
+prostriedky a subjektom, ktorý ich chce využiť. Prvý subjekt sprístupňuje svoje voľné
+prostriedky tým, že za ne nakúpi cenné papiere ako sú napríklad akcie, obligácie alebo
+pokladničné poukážky. Druhý subjekt získa prostriedky emisiou, predajom cenných
+papierov, alebo čerpaním úveru od veriteľa. Tento spôsob financovania môže byť ohrozený,
+ak sa nenájdu vhodní partneri transakcie.
+V nepriamom
+
+financovaní
+
+medzi
+
+tieto
+
+dva
+
+subjekty
+
+vstupuje
+
+finančný
+
+sprostredkovateľ, ktorým môže byť banka, poisťovňa, atď. Finančný sprostredkovateľ
+získava na finančnom trhu prostriedky od subjektov tvoriacich si úspory tým, že si vydáva
+cenné papiere. Získané prostriedky takýmto spôsobom neskôr poskytuje záujemcom a to tak,
+že nakúpi ich cenné papiere, avšak často to býva formou úverov.15
+
+Štruktúra finančných zdrojov
+Finančné zdroje podniku je možno rozdeliť do viacerých kategórií. Tie sú
+napríklad16:
+-
+
+Podľa účelu – Posudzuje sa účel, na ktorý sú finančné zdroje určené a tým pádom
+sú zdroje delené na kapitál, alebo ako peniaze. Keď zdroje slúžia na zriadenie,
+rozšírenie alebo modernizáciu prevádzky, vtedy hovoríme o kapitále. Ak zdroje
+slúžia na zabezpečenie platobnej schopnosti a likvidity podniku, tak hovoríme
+o peniazoch.
+
+-
+
+Podľa času – Zdroje sa z tohto hľadiska delia na trvalé, dlhodobé alebo
+krátkodobé. Je to podľa toho, na aký dlhý čas sú zdroje podniku k dispozícii.
+
+-
+
+Podľa prameňa – V tomto prípade sa posudzuje prameň z ktorého zdroje
+prichádzajú. Členíme ho na externý, kedy zdroje sú v podobe úverov, pôžičky,
+
+Lisý, J. a kol. Ekonómia, 2002
+Vlachynský, K. a kol. Podnikové financie – 1. časť, 1993
+16
+Tamtiež
+14
+15
+
+16
+
+alebo dotácií a na interný, ktorý môže mať formu zisku po zdanení zníženého
+o dividendy, alebo odpisov z investičného majetku.
+-
+
+Podľa vlastníctva – Zdroje v ponímaní tohto členenie môžu byť vlastné, alebo
+cudzie. Vlastné zdroje sú interné zdroje, ktoré majú formu pôvodných
+a dodatočných vkladov vlastníkov. Vlastné zdroje má podnik neustále
+k dispozícií a tvoria vlastné imanie podniku. Cudzie zdroje majú podobu úverov,
+pôžičiek a záväzkov.
+
+Finančné zdroje vieme rozlíšiť aj na tie, ktorými sa financuje dlhodobý majetok a na
+tie, ktorými sa financuje obežný majetok. Pod dlhodobými a strednodobými zdrojmi
+chápeme obligácie, finančné úvery, lízing, forfaiting. Pod zdrojmi, ktoré financujú
+obežný majetok sú obchodné úvery, stále pasíva, preddavky od odberateľov
+a bankové úvery.17
+Podľa Fetisovovej a kol. vieme z väčšieho hľadiska rozlišovať finančné zdroje aj na
+štandardné a alternatívne.18
+
+Štandardné finančné zdroje
+Štandardné finančné zdroje sú zdroje, ktoré sa v bežnej praxi používajú a podniky sú
+s nimi oboznámené. Ich vnútorné delenie je na externé a interné.
+Externé štandardné finančné zdroje delíme na vlastné a cudzie. K vlastným patria
+vklady vlastníkov. Vklad vlastníka získava podnik pri založení podniku. Je to prvotný
+kapitál podniku. Vklad je možné zvýšiť, ak v budúcnosti bude potrebný ďalší kapitál
+a podnik by mal nedostatok zdrojov. Tieto vklady nemusia mať peňažnú formu, ale môže to
+byť aj hnuteľný a nehnuteľný majetok. Medzi cudzie zdroje zaraďujeme bankové úvery,
+obligácie, lízing, faktoring, forfaiting, dodávateľský úver, obchodný úver, zmenky
+a preddavky. 19
+Úver je jedným z najčastejších foriem externého cudzieho financovania. Je to vzťah
+medzi veriteľom, ktorý poskytuje finančný zdroj a dlžníkom, ktorý ho prijíma, avšak pri tom
+vzniká dlžníkovi dlh v prospech veriteľa. Dlžník musí splatiť svoj dlh, podľa vopred
+stanovených podmienok. Môže byť členený podľa subjektu, ktorý úver poskytuje, podľa
+
+Fetisovová, E., Vlachynský, K. a Sirotka, V. Financie malých a stredných podnikov, 2004
+Tamtiež
+19
+Tamtiež
+17
+18
+
+17
+
+objektu ktorý sa úveruje, podľa formy poskytnutia a techniky úverovania, podľa doby, na
+ktorú sa úver poskytuje, podľa spôsobu ručenia a podľa spôsobu splácania.20
+Pod interné štandardné finančné zdroje zaraďujeme odpisy, zisk, zdroje z predaja
+majetku, zdroje z využívania racionalizačných opatrení a zdroje z využívania vedeckotechnického pokroku.21
+
+Alternatívne finančné zdroje
+Medzi alternatívne finančné zdroje zaraďujeme netradičné formy financovania ako
+sú financie zo štrukturálnych fondov, pomoc zo strany štátu, alebo rizikový kapitál. V rámci
+pomoci zo strany štátu chápeme dotácie, úverové programy, príspevkové programy
+a záručné programy.22 Ohľadom alternatívnych finančných zdrojov sa názory líšia v prípade
+zaradenia faktoringu, lízingu, forfaitingu a franchisingu. V tomto prípade sa prikláňame
+názorom Belanovej, K., ktorá ich vníma ako alternatívne finančné zdroje.23
+Lízing je jedným z najvyužívanejších spôsobov financovania podniku v členských
+krajinách Európskej únie. (Tabuľka 2) Je to taká forma financovania, pri ktorej je možné si
+na isté časové obdobie prenajať majetok, a teda vlastniť kapitál. Tento kapitál sa následne
+spláca s akontáciou. Vzniká tu vzťah prenajímateľa, lízingovej spoločnosti a dlžníka.
+Lízingová platba v sebe zahŕňa časť obstarávacej ceny majetku a lízingovú maržu, z ktorej
+prenajímateľ zarába.24
+
+Financovanie z fondov EÚ
+Na financovanie podnikov je možné čerpať financie z fondov EÚ. Tieto fondy sú
+zriadené v rámci štrukturálnej a regionálnej politiky EÚ. Medzi štrukturálne fondy patria
+Európsky sociálny fond (ESF), Európsky fond regionálneho rozvoja (EFRR), Európsky
+poľnohospodársky fond pre rozvoj vidieka (EPFRV), Kohézny fond (KF) a Európsky
+námorný a rybársky fond (ENRF). Okrem týchto zmienených poznáme aj Európsky
+investičný fond (EIF) a Európsku investičnú banku (EIB)25
+
+Vlachynský, K. a kol. Podnikové financie – 1. časť, 1993
+Fetisovová, E., Vlachynský, K. a Sirotka, V. Financie malých a stredných podnikov, 2004
+22
+Tamtiež
+23
+Belanová, K. Teória a politika podnikateľských financií, 2010
+24
+Tamtiež
+25
+Európska komisia, internetová stránka dostupná na: https://ec.europa.eu/info/fundingtenders/funding-opportunities/funding-programmes/overview-funding-programmes/european-structural-andinvestment-funds_sk
+20
+21
+
+18
+
+Európsky fond regionálneho rozvoja
+Slúži na podporu vyváženého rozvoja v rôznych regiónoch EÚ.
+
+Európsky sociálny fond
+Jeho úlohou je podporovať projekty v oblasti zamestnanosti v celej Európe
+a investuje do ľudského kapitálu Európy, teda do pracovníkov, mladých ľudí a všetkých
+ľudí, ktorí si hľadajú zamestnanie.
+
+Európsky poľnohospodársky fond pre rozvoj vidieka
+Tento fond sa zameriava na riešenie výziev, ktoré sa nachádzajú vo vidieckych
+oblastiach EÚ.
+
+Kohézny fond
+Kohézny fond poskytuje fondy na dopravné a environmentálne projekty v krajinách,
+v ktorých je hrubý národný dôchodok na obyvateľa nižší ako 90% priemeru EÚ. V rokoch
+2014-2020 to boli krajiny: Bulharsko, Cyprus, Česká republika, Estónsko, Grécko,
+Chorvátsko, Litva, Lotyšsko, Maďarsko, Malta, Poľsko, Portugalsko, Rumunsko, Slovensko
+a Slovinsko.
+
+Európsky námorný a rybársky fond
+Európsky námorný a rybársky fond pomáha rybárom pri prechode na udržateľný
+spôsob rybolovu a pobrežným spoločenstvám pri diverzifikácii ich hospodárstiev, čím
+zlepšuje kvalitu života v európskych pobrežných oblastiach.
+
+Európsky investičný fond
+Je to špecializovaná finančná inštitúcia, ktorá bola založená rozhodnutím Rady
+guvernérov Európskej investičnej banky 25. mája 1994. Zakladajúcimi členmi sú Európske
+spoločenstvo, ktoré je zastúpené Európskou komisiou, Európskou investičnou bankou
+a skupinou európskych bánk a ďalších finančných inštitúcií. Európsky investičný fond sídli
+v Luxemburgu a funguje ako hlavný fond fondov na trhu s rizikovým kapitálom, ktorý
+ponúka malým a stredným podnikom úverové záruky a poskytuje pre ne finančné
+poradenstvo. Vystupujú tu finanční sprostredkovatelia, ktorí sprístupňujú financovanie cez
+EIF. Tento fond využíva vlastné zdroje, ale aj prostriedky, ktoré do fondu zverili akcionári,
+
+19
+
+alebo tretie strany.26 Na pomoc MSP je tu konkrétne iniciatíva JEREMIE (Joint European
+Resources for Micro to Medium Eneterprises; Spoločné európske zdroje pre veľmi malé až
+stredné podniky), ktorá ponúka členským štátom EÚ možnosť čerpať časť svojich
+štrukturálnych fondov Európskej únie prostredníctvom národných a regionálnych riadiacich
+orgánov na účely financovania MSP vo forme vlastného kapitálu, pôžičiek alebo záruk
+formou revolvingového holdingového fondu, ktorý pôsobí ako zastrešujúci fond. Táto
+iniciatíva je vytvorená Európskou komisiou a Európskym investičným fondom, ktorý je
+súčasťou Európskej investičnej banky. JEREMIE funguje na báze finančných
+sprostredkovateľov a teda nepracuje priamo s MSP.
+
+Tým Holdingový fond poskytuje
+
+finančné nástroje adresované pre MSP vrátane záruk a protizáruk, záruk s vlastným
+kapitálom, pôžičiek, sekuritizácie, rizikového kapitálu, fondov spájajúcich podnikateľských
+anjelov a fondov na prenos technológií. Finanční sprostredkovatelia následne poskytujú
+MSP pôžičky a majetkovú účasť. Holdingový fond vypracuje investičnú stratégiu pred
+podpísaním zmluvy o financovaní v rámci iniciatívy JEREMIE medzi EIF a ústrednou
+verejnou správou členského štátu EÚ. Toto rozhodnutie sa prijíma za účasti investičnej
+komisie.27
+
+Európska investičná banka
+Európska investičná banka je väčšinovým akcionárom EIF, konkrétne vlastní 64%
+akcií. Je to finančná inštitúcia EÚ a predstavuje flexibilný a efektívny zdroj financovania
+projektov v rámci členských štátov EÚ, alebo mimo územia EÚ. Vznikla na základe článkov
+129 a 130 Rímskej zmluvy, ktorá bola základným kameňom založenia Európskeho
+hospodárskeho spoločenstva, ktorá bola podpísaná v Ríme 25. marca 1957 a nadobudla
+platnosť 1. januára 1958. Na Slovensku sa primárne sústredí na financovanie dlhodobých
+investičných projektov a to najmä v oblasti rozvoja infraštruktúry, to znamená výstavbu
+ciest a diaľnic, financovanie telekomunikačných projektov, výstavba a modernizácia
+železničných tratí a pri tom sa berie na zreteľ racionálne využívanie energetických zdrojov.28
+
+26
+Ministerstvo Financií SR, dostupné na internete: https://www.mfsr.sk/sk/medzinarodnevztahy/medzinarodne-institucie/medzinarodne-financne-institucie/europsky-investicny-fond-eif/europskyinvesticny-fond-eif.html
+27
+Online
+brožúra
+EIF
+o iniciatíve
+JEREMIE,
+dostupné
+na
+internete:
+https://www.eif.org/news_centre/publications/Jeremie_leaflet_files/jeremie_leaflet_sk.pdf
+28
+Ministerstvo Financií SR, dostupné na internete: https://www.mfsr.sk/sk/medzinarodnevztahy/medzinarodne-institucie/medzinarodne-financne-institucie/europska-investicna-banka-eib/europskainvesticna-banka-eib.html
+
+20
+
+Cieľ práce, metodika práce a metódy skúmania
+Cieľom tejto bakalárskej práce je identifikovať, akým aktuálnym problémom čelia
+malé a stredné podniky v oblasti financovania a uviesť návrhy na zlepšenie financovania
+malých a stredných podnikov.
+Objektom skúmania v druhej časti bakalárskej práce sú malé a stredné podniky, ktoré
+už sú vymedzené v bakalárskej práci a ich aktuálne problémy v oblasti získavania
+finančných zdrojov. Základným aktuálnym problémom v súčasnosti pre činnosť malých
+a stredných podnikov od roku 2020 je celosvetová pandémia COVID-19, ktorá si vynútila
+rôzne opatrenia zo strany štátov na podchytenie krízy, ktorá hrozila aj pre malé a stredné
+podniky, zhodnotenie prístupu k financiám a program Horizont Európa.
+V časti Výsledky práce sú uvedené problémy, ktorým malé a stredné podniky čelili
+v oblastiach pandémie COVID-19, hodnotenia prístupu k financiám a program Horizont
+Európa. V oblasti pandémie COVID-19 sme si dopodrobna rozobrali opatrenia, ktoré prijali
+jednotlivé krajiny vo svete a na Slovensku. V oblasti hodnotenia prístupu k financiám
+poukazujeme na úroveň hodnôt jednotlivých ukazovateľov v rámci prístupu k financiám na
+Slovensku a v 27 členských štátoch Európskej únie. Pri programe Horizont Európa sme si
+vytýčili, čím sa zaoberá a ako podporuje malé a stredné podniky. V časti Diskusia sme
+vyhodnotili, ako by sa dali tieto problémy, ktorým čelia malé a stredné podniky zlepšiť.
+
+Výsledky práce
+V časti Výsledky práce sa bližšie pozrieme na aktuálne problémy, ktorým čelia malé
+a stredné podniky v oblasti získavania finančných zdrojov. Vybrali sme si oblasti pandémie
+COVID-19, hodnotenia prístupu k financiám Slovenskej republiky a 27 členských štátov
+Európskej únie a program Horizont Európa.
+
+COVID-19
+Na rok 2020 bol na Slovensku prvotný odhad, že nastane spomalenie ekonomického
+rastu, tak ako v roku 2019. Avšak v roku 2020 sa tieto prognózy ešte výraznejšie prehĺbili,
+keďže sa do Európy dostal nový typ koronavírusu COVID-19. Podľa Svetovej zdravotníckej
+organizácie sa tento vírus dostal z pôvodného miesta výskytu, z Číny, do zvyšku sveta
+v dôsledku globálnej migrácie obyvateľstva, a teda bolo len otázkou času, kedy sa tento typ
+vírusu objaví aj u nás. Tento vírus sa stal významným činiteľom v prognózach
+ekonomického rastu na rok 2020. Spôsobil vysokú mieru neistoty a rizika, kvôli
+21
+
+epidemiologickej situácii a s ňou súvisí aj ekonomická aktivita podnikateľských subjektov.
+Núti firmy a domácnosti adaptovať sa na nové podmienky. Pandémia primárne spôsobila
+šok v oblasti ponuky, práve kvôli obmedzeniu produkcie a sekundárne aj dopytový šok,
+pretože zákazníci sa museli rozhodnúť, čo v takej kritickej situácii naozaj potrebujú.
+Úverovanie podnikového sektora zachovalo stabilnú dynamiku počas prvého,
+druhého a tretieho štvrťroka roku 2020. Čerpanie bankových úverov zo strany podnikateľov
+podporovala aj zvýšená potreba likvidity firiem, pretože podnikatelia mali prepad tržieb.
+Dopyt po úveroch mierne rástol aj počas štvrtého štvrťroka 2020, hlavne kvôli zvýšenej
+potrebe reštrukturalizácie dlhov a zvýšeného prevádzkového financovania. Avšak banky
+začali sprísňovať úverové štandardy prostredníctvom úverových marží. Toto sprísňovanie
+bolo výrazné počas prvej vlny pandémie. Počas pandémie bolo príznačné znižovanie
+dynamiky čerpania investičných úverov a nárast využívania prevádzkových úverov, ktoré
+využívali podnikatelia pre účel financovania svojich prevádzkových potrieb v dôsledku
+výpadku tržieb. Štátom garantované úvery taktiež podporovali úverovú aktivitu podnikov.
+Najvyššie zastúpenie mali garantované úvery v druhej polovici roka. V tomto čase mali
+garantované úvery dôležitý význam hlavne pre malé a stredné podniky, pretože dosahovali
+nadpolovičné zastúpenie na nových úveroch malých a stredných podnikov.29
+
+Slovak Business Agency, Správa o stave malého a stredného podnikania v SR 2020, dostupné na:
+http://monitoringmsp.sk/wp-content/uploads/2021/11/Sprava-o-stave-MSP-2020_final-1.pdf
+29
+
+22
+
+Slovenská
+
+Problémy
+
+Merná jednotka
+
+Krajiny EÚ27
+
+Noví zákazníci
+
+%
+
+21
+
+15
+
+Konkurencia
+
+%
+
+9
+
+10
+
+%
+
+10
+
+8
+
+%
+
+12
+
+11
+
+%
+
+19
+
+24
+
+Regulácia
+
+%
+
+12
+
+12
+
+Iné
+
+%
+
+18
+
+19
+
+Prístup
+k financovaniu
+Náklady na výrobu
+a prácu
+
+republika
+
+Dostupnosť
+kvalifikovanej
+pracovnej sily,
+alebo skúsených
+manažérov
+
+Tabuľka 1 Porovnanie vnímania hlavného problému, ktorému čelia z pohľadu MSP z roku 2020
+Zdroj: vlastné spracovanie z údajov dostupných na https://ec.europa.eu/growth/access-finance/data-andsurveys-safe_en
+
+Podľa prieskumu z roku 2020 o prístupe k financovaniu podnikov (SAFE)30, ktorú
+vykonáva Európska komisia v spolupráci s Európskou centrálnou bankou, kde sa sleduje
+vývoj v oblasti prístupu malých a stredných podnikov k financovaniu, zaznamenal, že
+prístup k financovaniu je považovaný ako najzávažnejší problém len v prípade 8 percent
+malých a stredných podnikov na Slovensku, čo vo výsledku znamená, že dostupnosť
+financovania trápi najmenej podnikateľov. Na úrovni 27 členských krajín Európskej únie je
+problém prístupu k financovaniu na úrovni 10 percent oslovených podnikateľov.
+Tabuľka 2 Percentuálne vyjadrenie relevantného zdroja financovania pre MSP v krajinách EÚ27 a Slovenskej
+republike
+
+Zdroje
+financovania
+Financovanie
+z vlastných
+zdrojov predaja
+
+Merná jednotka
+
+EÚ27
+
+Slovenská
+republika
+
+%
+
+26
+
+25
+
+Granty
+
+%
+
+44
+
+18
+
+Prečerpanie
+bankového účtu
+alebo kreditnej
+karty
+
+%
+
+50
+
+50
+
+Slovak Business Agency, Správa o stave malého a stredného podnikania v SR 2020, dostupné na:
+http://monitoringmsp.sk/wp-content/uploads/2021/11/Sprava-o-stave-MSP-2020_final-1.pdf
+30
+
+23
+
+Bankové úvery
+
+%
+
+48
+
+41
+
+Obchodné úvery
+
+%
+
+28
+
+23
+
+Iné úvery
+
+%
+
+19
+
+20
+
+Dlhopisy
+
+%
+
+2
+
+1
+
+Vlastné imanie
+
+%
+
+10
+
+1
+
+Lízing
+
+%
+
+45
+
+50
+
+Faktoring
+
+%
+
+9
+
+7
+
+Iné zdroje
+
+%
+
+4
+
+3
+
+Zdroj: vlastné spracovanie z údajov dostupných na https://ec.europa.eu/growth/access-finance/data-andsurveys-safe_en
+
+Ako môžeme vidieť, malé a stredné podniky na Slovensku primárne využívajú tri
+základné zdroje k financovaniu svojho podnikania a to prečerpanie bankového účtu alebo
+kreditnej karty, konkrétne 50,49 percent, lízing so 49,7 percentami a bankové úvery vo výške
+41,1 percent. V 27 členských krajinách Európskej únie sú tieto zdroje financovania
+zastúpené vo výške konkrétne 49,7 percent, 44,9 percent a 47,6 percent.
+
+Podpora zo strany Európskej Únie
+Podpora malých a stredných podnikov je jedným z hlavných pilierov komplexného
+balíka predloženého Európskou Komisiou a skupinou Európskej investičnej banky.
+Európska Komisia z Európskeho fondu pre strategické investície uvoľnila 1 miliardu Eur vo
+forme záruky pre Európsky investičný fond s cieľom stimulovať miestne banky a iných
+veriteľov. Týmto spôsobom sa chcelo poskytnúť likviditu najmenej 100 000 európskym
+podnikom. Európska Komisia oznámila 6. apríla 2020 vyčlenenie finančných prostriedkov
+v približnej výške 8 miliárd Eur, čím chcela docieliť poskytnutie okamžitej finančnej pomoci
+pre malé a stredné podniky v celej Európskej Únii. V decembri 2020 dospela Európska
+Komisia k záveru, že založenie Celoeurópskeho záručného fondu vo výške 25 miliárd Eur,
+ktorý je v správe Európskej investičnej banky, určeného na podporu podnikov poznačených
+pandémiou COVID-19 je v súlade s pravidlami Európskej Únie o štátnej pomoci.
+Očakávania predpokladajú, že pomocou tohto fondu sa zmobilizuje až 200 miliárd Eur
+
+24
+
+navyše, ktoré sa budú môcť použiť na podporu malých a stredných podnikov postihnutých
+pandémiou COVID-19 v 27 členských štátoch Európskej Únie.31
+
+Príklady krajín
+V Bulharsku podpísali 6. októbra 2020 Európsky investičný fond s Raiffeisenbank
+dohodu o záruke vo výške 10 miliónov Eur určených na podporu malých a stredných
+podnikov, súkromných alebo verejných, pôsobiacich v kultúrnej alebo kreatívnej oblasti.
+Súčasťou tejto dohody je poskytovanie úverov s lepšími podmienkami pre malé a stredné
+podniky, ktoré boli postihnuté pandémiou COVID-19 a vďaka nim sa im darí udržať
+pracovné miesta.32
+Dánsky alternatívny poskytovateľ finančných prostriedkov REinvest Finance
+a Európsky investičný fond podpísali dohodu o záruke 1. februára 2021, čím chceli docieliť
+poskytnutie
+
+nových
+
+financií
+
+prevádzkovateľom
+
+škandinávskeho
+
+odvetvia
+
+filmu
+
+a televíznych seriálov, ktorých postihla pandémia COVID-19. Predpokladá sa, že dosiahnutá
+záruka vo výške do 26 miliónov Eur, ktorá bola odobrená Európskou Komisiou v rámci
+záručného mechanizmu pre kultúrne a kreatívne sektory a Európskeho fondu pre strategické
+investície, podporí 60 transakcií v oblastiach filmu a televíznych seriálov v Dánsku,
+Švédsku, Nórsku, Fínsku a na Islande, čím pomôže šíreniu kreatívneho obsahu. Finančné
+prostriedky určené na pomoc sú vo forme úverov preklenovacieho financovania,
+minimálnych záruk a úverov na vývoj obsahu prostredníctvom poskytovateľa financií.33
+Pre malé a stredné podniky pôsobiace v kultúrnych a kreatívnych oblastiach
+v Estónsku, Lotyšsku, Litve a Fínsku sa 14. októbra 2020 podpísala dohoda o záruke vo
+výške 6 miliónov Eur. Finančná podpora bola poskytnutá z Európskeho investičného fondu.
+Bol to prvý záručný mechanizmus pre kultúrne a kreatívne oblasti v pobaltských krajinách
+a Fínsku a bola sprostredkovaná veriteľovi Finora Capital z Estónska. Tento program
+umožňuje prístup k cenovo dostupnejším úverom. Tieto dohody boli podporené zo
+záručného mechanizmu Komisie pre kultúrne a kreatívne sektory, ale aj z Európskeho fondu
+pre strategické investície.34
+
+Oficiálna stránka EÚ, Podpora Európskych podnikov počas pandémie, dostupné online:
+https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/jobs-and-economy-during-coronaviruspandemic/supporting-european-businesses-during-pandemic_sk
+32
+Tamtiež
+33
+Tamtiež
+34
+Tamtiež
+31
+
+25
+
+Banka BNP Paribas vo Francúzsku a Európska investičná banka podpísali 7. januára
+2021 dohodu o podpore sekuritizácie, ktorá má podporiť francúzske malé a stredné podniky,
+postihnuté pandémiou COVID-19, so strednou trhovou kapitalizáciou. Táto dohoda, ktorá
+je v rámci Európskeho fondu pre strategické investície dáva banke BNP Paribas príležitosť
+poskytnutia nové úvery vo výške 515 miliónov Eur v nasledujúcich 2 rokoch. Tieto úvery
+sú určené na pokrytie potrieb príjemcov v oblasti peňažného toku a návratnosti investícií. 35
+Európsky
+
+investičný
+
+fond
+
+a Európska
+
+investičná
+
+banka
+
+spísali
+
+dohodu
+
+s Commerzbank v Nemecku 30. septembra 2020 s novým zvýhodneným systémom
+poskytovania úverov pre nemecké malé a stredné podniky vo výške 500 miliónov Eur. Touto
+dohodou chcú zmierniť vplyv pandémie COVID-19 na malé a stredné podniky. Je
+podporovaná Európskym fondom pre strategické investície, ktorý je hlavným pilierom
+Investičného plánu pre Európu a jeho strategickými partnermi sú Európska investičná banka
+a Európska Komisia. 36
+Maďarská
+
+nadácia
+
+pre
+
+rozvoj
+
+podnikania
+
+(Magyar
+
+Vállalkozásfejlesztési
+
+Alapítvány) a Európsky investičný fond dňa 10. marca 2021 podpísali dohodu o záruke,
+ktorá umožnila poskytnúť 8,2 milióna Eur na podporu malých a stredných maďarských
+podnikov v kreatívnej a kultúrnej oblasti. Európska komisia túto dohodu podporila v rámci
+záručného mechanizmu pre kultúrne a kreatívne sektory a Európskeho fondu pre strategické
+investície. Vďaka tejto dohode môže príjemca navýšiť úverovú kapacitu vo vzťahu
+k podnikom a pomáha mediálnym podnikom mať lepší prístup k financovaniu.37
+Alba Leasing, špecializovaná firma v Taliansku venujúca sa lízingu 19. októbra 2020
+spísala dohodu s Európskou investičnou bankou o poskytnutí 490 miliónov Eur v rámci
+sekuritizačnej operácie financovania. Touto operáciou sa uvoľnia finančné prostriedky pre
+malé a stredné podniky v Taliansku vo výške 1 miliardy Eur. Týmto bude umožnené
+financovanie nových investícií a projektov až do 100 percentnej výšky vo všetkých
+hospodárskych odvetviach so špeciálnym zameraním na investície do životného prostredia.
+Zhruba 8000 malých a stredných podnikov v Taliansku môže získať finančnú podporu,
+
+Oficiálna stránka EÚ, Podpora Európskych podnikov počas pandémie, dostupné online:
+https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/jobs-and-economy-during-coronaviruspandemic/supporting-european-businesses-during-pandemic_sk
+36
+Tamtiež
+37
+Tamtiež
+35
+
+26
+
+ktorej úlohou je pomôcť podnikom sa zotaviť z hospodárskej krízy spôsobenou pandémiou
+COVID-19.38
+Maltská vláda 21. decembra 2020 s Európskou investičnou bankou spísala dohodu
+o zvýšení finančných prostriedkov dostupných v rámci Maltskej iniciatívy na podporu
+malých a stredných podnikov a to využitím európskych štrukturálnych a investičných
+fondov programu Horizont 2020 spolu s finančnými prostriedkami Európskej investičnej
+banky. Táto dohoda sprístupnila ďalších 28 miliónov Eur určených na financovanie malých
+a stredných podnikov s výhodnými podmienkami pri znížených úrokových sadzbách
+a jednoduchšími podmienkami pre kolaterál. Tým sa cieľové finančné portfólio na Malte
+navýšilo na 118 miliónov Eur.39
+V Rumunsku sa dospelo k dohode o spolupráci medzi Európskou investičnou
+bankou a Deutsche Leasing Romania 1. februára 2021, čím sa uvoľnilo 370 miliónov Eur
+pre financovanie súkromného sektora. Cieľom tejto dohody je podporiť malé a stredné
+podniky postihnuté pandémiou COVID-19 s využitím výhodnejšieho lízingového
+financovania. Európsky fond pre strategické investície podporuje navýšenie investícií
+v poľnohospodárstve a ich zariadení, pomáhanie dlžníkom vo vidieckych oblastiach a málo
+rozvinutých regiónoch.40
+Španielska Banco Santander a Európska investičná banka dospeli k dohode 20.
+októbra 2020 o dodatočnom financovaní so zvýhodnenými podmienkami pre malé a stredné
+podniky, ktoré postihla pandémia COVID-19. Európsky fond pre strategické investície
+vyčlenil na podporu pretvorenia hospodárstva viac ako 900 miliónov Eur. Tento obnos je
+zameraný na investovanie do inovácií, digitalizácie, zmierňovanie zmeny klímy a následnú
+adaptáciu. Ďalšia španielska banka Banco de Sabadell spísali dohodu s Európskou
+investičnou bankou 31. marca 2021 za cieľom zvýšenia poskytovania úverov malým
+a stredným podnikom. Finančné prostriedky boli vyčlenené do výšky 300 miliónov eur
+a boli podporené zárukou z Európskeho fondu pre strategické investície. Oznámenie z 27.
+apríla 2021 Európskeho fondu pre strategické investície predstavil program vo výške 50
+miliónov Eur určený na podporu správy aktív banky Santander, ktorý poskytuje nové
+dlhodobé financovanie malým a stredným podnikom v Španielsku a Portugalsku. Jeho
+Oficiálna stránka EÚ, Podpora Európskych podnikov počas pandémie, dostupné online:
+https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/jobs-and-economy-during-coronaviruspandemic/supporting-european-businesses-during-pandemic_sk
+39
+Tamtiež
+40
+Tamtiež
+38
+
+27
+
+cieľom je poskytnúť cez lízingové nástroje alternatívne finančné riešenia, a tým podporiť
+malé a stredné podniky postihnuté pandémiou COVID-19 a pomôcť im opäť naštartovať
+hospodársku činnosť.41
+
+Opatrenia v oblasti finančných nástrojov
+Vlády v krajinách sa pokúsili v období pandémie pomôcť malým a stredným
+podnikom opatreniami v rôznych oblastiach, ktoré by mohli spomaliť, alebo zmenšiť dopad
+pandémie na malé a stredné podniky. V tejto časti si bližšie priblížime opatrenia v oblasti
+finančných nástrojov použitých vo svete a na Slovensku.42
+
+Opatrenia v oblasti finančných nástrojov vo svete
+V tejto kapitole sa zameriame na opatrenia v oblasti finančných nástrojov, ktoré boli
+použité v krajinách vo svete. Táto kapitola je rozčlenená do týchto podkapitol:
+•
+
+Záruky za úvery,
+
+•
+
+Priame pôžičky,
+
+•
+
+Granty a dotácie.
+
+Záruky za úvery
+Záruky za úver sú jedným z finančných nástrojov zavedených prevažne
+v európskych a ázijských krajinách. Prostredníctvom záruk za úvery sa vlády snažia
+umožniť ľahší prístup malých a stredných podnikov k úverovému financovaniu. Prvé
+krajiny, ktoré zintenzívnili schémy záruk boli Rakúsko, Belgicko, Dánsko, Estónsko,
+Fínsko, Francúzsko, Nemecko, Grécko, Hong Kong, Čína, Írsko, Taliansko, Izrael, Kórea,
+Japonsko, Litva, Holandsko, Poľsko, Rumunsko, Portugalsko, Saudská Arábia, Španielsko,
+Singapur, Švajčiarsko a Veľká Británia. Opatrenia vlád v rámci záruk za úvery sú zamerané
+na43:
+•
+
+Nové iniciatívy,
+
+•
+
+Dostupnosť financovania,
+
+•
+
+Verejné záruky,
+
+41
+Oficiálna stránka EÚ, Podpora Európskych podnikov počas pandémie, dostupné online:
+https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/jobs-and-economy-during-coronaviruspandemic/supporting-european-businesses-during-pandemic_sk
+42
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+43
+Tamtiež
+
+28
+
+•
+
+Rozšírenie rozsahu krytia,
+
+•
+
+Administratívne postupy.
+
+Nové iniciatívy
+Nové systémy záruk boli implementované niekoľkými krajinami v reakcii na dopad
+pandémie. Dánsko zaviedlo systém pre malé a stredné podniky, ktorý umožňuje vláde
+poskytovať záruky do 70 percent hodnoty všetkých nových bankových úverov poskytnutých
+malým a stredným podnikom, ktoré zaznamenali pokles prevádzkového zisku o viac ako 50
+percent. Izrael zaviedol špeciálny úverový rámec pre malé a stredné podniky, ktorý
+poskytuje podporu zo Štátneho záručného fondu pre malé podniky. Japonsko má osobitný
+záručný program pre podniky postihnuté pandémiou s garanciou celej výšky úveru pre
+postihnuté malé a stredné podniky.44
+
+Dostupnosť financovania
+Nemecko zdvojnásobilo objem záruk, ktoré poskytovali záručné banky na 2,5
+miliardy Eur. Rakúsko zaradilo nové záruky pre malé a stredné podniky v hodnote 10
+miliónov Eur až do 80 percentnej výšky úveru alebo 2,5 milióna Eur na dobu 5 rokov.
+Taliansko navýšilo objem záruk, ktoré poskytoval Centrálny záručný fond pre malé a stredné
+podniky o 1,5 miliardy Eur. Francúzsko umožňuje malým a stredným podnikom čerpať nové
+úvery prostredníctvom BPI France so zárukami vo výške 300 miliárd Eur. Veľká Británia
+poskytla na pomoc podnikateľom záruky vo výške 330 miliárd Eur.45
+
+Verejné záruky
+V krajinách ako Nemecko, Francúzsko a Švajčiarsko sa zvýšila verejná záruka na
+100 percent pre určité kategórie pôžičiek. Izrael navýšil štátne záruky na 85 percent výšky
+úveru a znížil kolaterál na 10 percent s dobou splatnosti až 5 rokov. Španielsko poskytuje
+prvú tranžu nových záruk s krytím 80 percent. Singapur zvýšil výšku krytia na 80 percent.46
+
+Rozšírenie rozsahu krytia
+V Holandsku sa rozšíril záručný nástroj pre malé a stredné podniky, ktoré boli
+dotknuté pandémiou a bol im poskytnutý dodatočný zaručený úver.47
+
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+45
+Tamtiež
+46
+Tamtiež
+47
+Tamtiež
+44
+
+29
+
+Administratívne postupy
+Viacero krajín sa rozhodlo zjednodušiť administratívne postupy na uľahčenie
+prístupu k zárukám na pôžičky. Rakúska rozvojová banka sa vzdala poplatkov za zmeny
+a nevyžaduje od žiadateľov podnikateľský plán. Okrem toho zaviedla zrýchlený postup,
+vďaka čomu môže záruky poskytnúť okamžite. Fínsko a jeho štátna finančná spoločnosť
+poskytovala počas obdobia pandémie úvery bezplatne. Vo Francúzsku boli vytvorené
+podporné tímy, ktoré pomáhali 1500 start-upom preklenúť cez krízové obdobie. Izrael skrátil
+čas schválenia pôžičky na 9 pracovných dní. V Poľsku a Taliansku boli zrušené poplatky za
+poskytnutie záruky.48
+
+Priame pôžičky
+Poskytovanie priamych pôžičiek pre podnikateľské subjekty je jedným z rozšírených
+nástrojov finančnej politiky. Pre malé a stredné podniky poskytujú priame pôžičky krajiny
+ako napr. Rakúsko, Austrália, Kanada, Brazília, Kolumbia, Česko, Chorvátsko, Čína, Hong
+Kong, India, Írsko, Luxembursko, Japonsko, Litva, Malajzia, Portugalsko, Saudská Arábia,
+Španielsko, Slovinsko, Švajčiarsko, Veľká Británia, Thajsko. Opatrenia v tejto oblasti sú
+primárne zamerané na49:
+•
+
+Nové úverové schémy,
+
+•
+
+Špecifický sektor,
+
+•
+
+Zvýšenie objemu financovania existujúcich úverových schém,
+
+•
+
+Uľahčenie prístupu k financovaniu a zjednodušenie podmienok.
+
+Nové úverové schémy
+Krajiny ako Rakúsko, Česko a Chorvátsko vytvorili osobitné úverové fondy určené
+na pomoc malým a stredným podnikom pri získavaní prevádzkového kapitálu. Vláda
+v Austrálii zaviedla investičný stimul na podporu obchodných investícií a hospodárskeho
+rastu na obmedzenú dobu 15 mesiacov. Írsko vytvorilo na krytie prevádzkových potrieb
+podnikov novú úverovú schému vo výške 200 miliónov Eur. Veľká Británia poskytuje pre
+malé a stredné podniky, ktoré boli nútené prerušiť prevádzku, nový úver do výšky 1,2
+milióna Eur. Spojené štáty americké pre malé a stredné podniky vytvorili úverovú schému
+
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+49
+Tamtiež
+48
+
+30
+
+v objeme 367 miliárd dolárov. Tento program zaručuje bezúročné pôžičky až do výšky 10
+miliónov dolárov na prevádzkové potreby podnikov.50
+
+Špecifický sektor
+Poniektoré krajiny svoju pozornosť zameriavajú na podporu špecifických sektorov.
+Napríklad Kolumbia podporuje svoje najviac postihnuté odvetvia, a to sú cestovný ruch
+a letectvo. Rakúsko vyčlenilo prostriedky na pôžičky pre hotely, ktoré mali viac ako 15
+percentnú stratu tržieb. Brazília vytvorila úverovú linku na prevádzkové potreby malých
+a stredných podnikov, ktoré pôsobia v oblasti cestovného ruchu a služieb a popri tom
+zjednodušila administratívny proces. Španielsko utvorilo úverový rámec vo výške 400
+miliónov Eur pre cestovný ruch a dopravu.51
+
+Zvýšenie financovania existujúcich úverových schém
+Zväčša tie krajiny, ktoré nevytvárali nové úverové schémy spravili opatrenia, ktoré
+spôsobili zvýšenie množstva finančných prostriedkov, ktoré sa dajú získať z už existujúcich
+úverových schém. Japonsko zvýšilo objem poskytovaných prostriedkov na 1,6 bilióna JPN.
+O náhradu úrokov a požičiavanie bez zaistenia môžu zažiadať len tie malé a stredné
+podniky, ktoré zaznamenali pokles tržieb o viac ako 15 percent. Luxembursko zabezpečuje
+finančnú pomoc malým a stredným podnikom, ktoré čelia finančným ťažkostiam cez
+nástroje určené na pomoc v mimoriadnej situácii. Touto pomocou sa pokrýva ušlý príjem
+a prevádzkové náklady spojené s výplatou miezd a nájomného. Tento úver sa poskytuje až
+do výšky 500 000 Eur.52
+
+Uľahčenie prístupu k financovaniu a zjednodušenie podmienok
+Niektoré krajiny OECD zjednodušili postupy a podmienky za účelom uľahčenia
+prístupu malých a stredných podnikov k financovaniu vďaka opatreniam spojeným
+s priamym poskytovaním pôžičiek. Napríklad Kanadská obchodná a rozvojová banka
+poskytuje pôžičku malým a stredným podnikom do výšky 100 000 CAD online do 48 hodín
+od schválenia.53
+
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+51
+Tamtiež
+52
+Tamtiež
+53
+Tamtiež
+50
+
+31
+
+Granty a dotácie
+Viacero krajín sa rozhodlo pomôcť malým a stredným podnikom tým, že im poskytli
+priamu finančnú podporu jednorazovou dotáciou alebo oslobodením od dane. Tak ako
+v prípade priamych pôžičiek, tak aj granty a dotácie sa poskytujú dvomi spôsobmi – či už
+prostredníctvom existujúcich finančných nástrojov, alebo zavedením nových. Čile využila
+existujúci program a od apríla 2020 poskytuje dotácie podnikom v oblasti cestovného ruchu.
+Francúzsko vytvorilo fond solidarity na podporu malých podnikov s problémami v cashflow. V Kórei vznikol núdzový fond, ktorý poskytuje priame finančné prostriedky malým
+a stredným podnikom na udržanie pracovných miest. Belgicko poskytuje malým a stredným
+podnikom v núdzi priamu podporu v rozmedzí od 1300 do 1600 Eur mesačne. V Dánsku
+malé a stredné podniky s poklesom tržieb o viac ako 30 percent, od štátu získajú až 75
+percent stratených príjmov a dostanú pomoc na pokrytie niektorých fixných nákladov.
+Nemecko na priamu podporu malých a stredných podnikov poskytuje dotáciu 10 miliárd
+Eur. V regióne Bavorska sa ponúka pre malé a stredné podniky finančná pomoc vo výške
+5000 až 30000 Eur. Veľká Británia pre malé a stredné podniky zaviedla oslobodenie od dane
+do výšky 3000 až 10000 libier. Okrem toho ponúka granty pre maloobchodné podniky,
+pohostinstvá a podniky služieb telesnej pohody, zábavných a voľnočasových aktivít so
+základom dane v rozpätí od 15000 až 51000 libier. Škótsko ponúka granty vo výške
+najmenej 3000 libier malým podnikom v oblastiach s najväčším dopadom COVID-19.54
+
+Opatrenia v oblasti finančných nástrojov na Slovensku
+V tejto časti bakalárskej práce sa zameriame na konkrétne opatrenia, ktoré prijala
+Vláda Slovenskej republiky na riešenie fungovania malých a stredných podnikov na
+Slovensku na zvládnutie dopadov pandémie COVID-19. Primárne sa týkajú bankových
+záruk a zaručených úverov na zmiernenie dopadov pandémie. Okrem toho sa poskytujú aj
+dotácie na úvery vo forme bonifikácie úroku.55
+
+Záruky za úvery
+Slovenská republika poskytuje záruky za úvery poskytnuté bankou a úhrady úrokov
+z úveru poskytnutého bankou. Poskytovateľom tejto pomoci je Ministerstvo financií
+Slovenskej republiky a jej sprostredkovateľmi sú EXIMBANKA a Slovenská záručná
+
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+55
+Tamtiež
+54
+
+32
+
+a rozvojová banka. Od apríla 2020 poskytuje Slovenská záručná a rozvojová banka
+prevádzkový úver „Podnikateľ 2020“, ktorého cieľom je zmiernenie negatívnych následkov
+pandémie na podporu udržania prevádzky malých a stredných podnikov poskytnutím
+finančnej pomoci Ministerstva financií Slovenskej republiky v podobe záruky za úver
+poskytnutý bankou a úhrady úroku z úveru poskytnutého bankou. Pre získanie bezúročného
+úveru musia podnikatelia splniť niekoľko podmienok. Po dobu minimálne jedného roka
+udržať podnikateľskú činnosť, udržať zamestnanosť a na konci obdobia nesmú mať dlhy na
+sociálnych a zdravotných odvodoch. Výška individuálnej záruky je 80 percent zostatku
+istiny úveru. Oznámená výška poskytnutých bankových záruk predstavuje 500 miliónov Eur
+mesačne. Okrem zmieneného, Ministerstvo financií Slovenskej republiky a Slovak
+Investment Holding zaradili novú schému bankových záruk a úrokových dotácií s názvom
+„antikorona záruka“. Tento program sa skladá zo záruk pre finančné inštitúcie, ktoré
+následne budú poskytovať zvýhodnené preklenovacie úvery malým a stredným podnikom,
+ktoré ak si udržia zamestnanosť, tak môžu byť kombinované aj s úrokovou dotáciou na
+zníženie úrokových sadzieb, a tá môže byť poskytnutá do výšky 4 percent. Bankoví klienti
+tak môžu využívať zvýhodnené úvery do výšky 1,2 milióna Eur. Celkovo banky poskytnú
+v tejto úverovej schéme úvery vo výške viac ako 80 miliónov Eur. Jedna z ďalších foriem
+nepriamej finančnej pomoci je preklenovací „COVID úver“, ktorý poskytuje
+EXIMBANKA, určený pre vývozcov a jeho účelom je preklenutie prechodného nedostatku
+prevádzkových zdrojov. Výška prevádzkového úveru je najviac 500000 Eur, pričom nesmie
+presiahnuť 50 percent celkového obratu malého a stredného podniku za rok 2019.56
+
+Granty a dotácie
+Dotácie pre podnikateľov poskytuje vláda Slovenskej republiky v dvoch podobách
+a to vo forme bonifikácie úroku pri úveroch pre malé a stredné podniky alebo paušálneho
+príspevku SZČO bez príjmu. Bonifikáciu v celej výške úroku je možné poskytnúť malému
+zamestnávateľovi zo štátneho rozpočtu, ak udrží zamestnanosť, ktorá je určená v zmluve
+o úvere a na konci tohto obdobia nebude mať záväzky na sociálnom poistení, na povinných
+príspevkoch na starobné dôchodkové sporenie alebo na poistnom na povinné verejné
+zdravotné poistenie po lehote splatnosti voči Sociálnej poisťovni, alebo zdravotnej poisťovni
+nad výšku určenú v zmluve o úvere.57 Ako sme sa dozvedeli, vo svete sa používajú rôzne
+Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie COVID-19 v SR a vo svete,
+Dostupné online: http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanie-opatreníprijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf
+57
+Tamtiež.
+56
+
+33
+
+iné formy grantov a dotácií. Na Slovensku bol počas pandémie COVID-19 problém
+v gastropriemysle, kedy museli byť prevádzky zatvorené, respektíve nemohli v nich
+konzumovať zákazníci. Môžeme byť toho názoru, že ak by sa zvolil lepší, konkrétnejší druh
+pomoci v oblasti grantov a dotácií, malým a stredným podnikom v tomto odvetví by sa
+určite ľahšie dýchalo.
+
+SBAfE – Prístup k financiám
+Podľa
+
+Oznámenia
+
+komisie
+
+Európskemu
+
+parlamentu,
+
+rade,
+
+európskemu
+
+hospodárskemu a sociálnemu výboru a výboru regiónov – Najskôr myslieť v malom,
+Iniciatíva Small Business Act pre Európu - z 25.6. 2008 by členské krajiny Európskej únie
+mali uľahčiť malým a stredným podnikom prístup k financiám, najmä k rizikovému
+kapitálu, mikroúverom a mezanínovému financovaniu a vytvoriť právne a podnikateľské
+prostredie, ktoré bude podporovať včasné úhrady obchodných transakcií. Ako druhý
+najzávažnejší problém po administratívnej záťaží označujú európske malé a stredné podniky
+nedostatok kapitálu. Získavanie kapitálu je problémom najmä pre začínajúce malé a stredné
+podniky, ktoré majú nedostatočný vlastný kapitál a nemajú akúkoľvek úverovú históriu.
+Cieľom iniciatívy je identifikovať možné zlyhania na trhu, ktoré sa týkajú finančných
+nástrojov pre malé a stredné podniky, rozvíjať európske trhy s rizikovým kapitálom,
+zlepšovať prístup malých a stredných podnikov k mikroúverom a mezanínovému
+financovaniu a popri tom vytvoriť nové produkty a služby určené pre malé a stredné
+podniky. Dôležitý aspekt, ktorému treba venovať pozornosť je šírenie osvety ohľadom
+výberu vhodného spôsobu financovania. Veľký problém v krajinách Európskej únie je
+oneskorenie platieb. Podľa Európskej komisie musia malé a stredné podniky čakať na
+úhrady od svojich odberateľov v priemere 20 až 100 dní. Nesúlad v dobe inkasa pohľadávok
+a dobe úhrady záväzkov môže pre malé a stredné podniky spôsobiť závažné finančné
+ťažkosti v cash-flow, ktoré môžu skončiť až platobnou neschopnosťou. Cieľom krajín
+Európskej únie v oblasti financovania teda je58:
+•
+
+Za pomoci nástrojov, ktoré kombinujú dlh a vlastný kapitál a popri
+rešpektovaní pravidiel udeľovania štátnej pomoci vyvinúť nové finančné
+programy,
+
+Slovak Business Agency, Audit hodnotenie uplatňovania princípov SBAfE na Slovensku v roku
+2020, dostupné online: http://monitoringmsp.sk/wp-content/uploads/2022/03/Audit-hodnotenia-uplatňovaniaprincípov-SBAfE-na-Slovensku-v-r.2020.pdf
+58
+
+34
+
+•
+
+Odstrániť regulačné a daňové prekážky brániace fondom rizikového kapitálu
+investovať na jednotnom trhu za rovnakých podmienok ako domáce fondy,
+
+•
+
+Zabezpečiť, že zdaňovanie ziskov spoločnosti bude podporovať investície,
+
+•
+
+Využívať v plnej miere dostupné prostriedky z programov politiky súdržnosti
+a európskeho poľnohospodárskeho fondu pre rozvoj vidieka.
+
+35
+
+Ukazovateľ
+Celkový čas potrebný na
+získanie platby
+
+Merná
+
+2018
+
+2020
+
+EÚ
+
+SR
+
+EÚ
+
+Deň
+
+23,33 33,36 19,00 35,00
+
+-
+
+-
+
+%
+
+11,12
+
+9,68
+
+3,50
+
+9,60
+
+10,22 14,84
+
+%
+
+13,36
+
+6,51
+
+11,5
+
+8,10
+
+8,84
+
+%
+
+19,21 14,90 12,50 10,90 15,62 14,05
+
+Bod
+
+2,85
+
+%
+
+16,10 32,00 15,70 30,89 17,67 44,37
+
+%
+
+3,20
+
+%
+
+79,81 50,80 80,03 51,40 80,66 50,80
+
+%
+
+5,68
+
+8,74
+
+4,54
+
+-
+
+4,60
+
+-
+
+%
+
+3,00
+
+2,85
+
+2,89
+
+2,89
+
+2,60
+
+-
+
+jednotka
+
+SR
+
+EÚ
+
+2019
+SR
+
+Ochota bánk poskytnúť úver
+(% respondentov, ktorí
+indikovali zhoršenie)
+Zamietnuté žiadosti o úver
+a neakceptovateľné ponuky
+
+7,54
+
+úveru
+Prístup k verejnej finančnej
+podpore vrátane záruk (%
+respondentov, ktorí
+indikovali zhoršenie)
+Dostupnosť finančných
+zdrojov
+
+2,86
+
+2,72
+
+2,90
+
+2,83
+
+2,84
+
+MSP, ktoré považujú granty
+a zvýhodnené úvery za
+relevantný zdroj financovania
+MSP, ktoré využili granty
+alebo zvýhodnené úvery
+v predchádzajúcich 6
+
+8,00
+
+2,58
+
+7,50
+
+5,10
+
+24,22
+
+mesiacoch
+Podiel bankových úverov
+MSP na celkovom objeme
+podnikateľských bankových
+úverov
+Zlyhané úvery MSP
+Úroková miera bankových
+úverov MSP
+
+Tabuľka 3 Porovnanie ukazovateľov princípu "prístup k financiám" v SR a EÚ v r. 2018 – 2020
+Zdroj: Vlastné spracovanie podľa SBA na základe údajov Svetovej banky (Doing Business, EK (SAFE),
+Eurostatu, GEM, ECB a OECD
+
+36
+
+Audit, skúmal dodržiavanie daných cieľov na Slovensku a porovnával ich s
+hodnotami členských štátov Európskej únie. Celkový čas potrebný na získanie platby je na
+Slovensku nižší, ako priemer členských krajín Európskej únie. Zatiaľ čo v roku 2018 sa na
+Slovensku čakalo priemerne 23,33 dňa, priemer členských štátov bol 33,36 dňa a v roku
+2019 to bolo na Slovensku ešte lepších 19,00 dňa a v členských krajinách sa výsledok zhoršil
+na 35,00 dňa. Audit teda preukázal, že na Slovensku uskutočnili kroky, ktoré sprístupňujú
+finančné zdroje pre malé a stredné podniky rýchlejšie. Ukazovateľ dostupnosti finančných
+zdrojov nám hovorí, že dostupnosť finančných zdrojov na Slovensku a v členských krajinách
+Európskej Únie je vnímaná celkom porovnateľne. V období troch rokov sa úroková miera
+bankových úverov približuje k európskemu priemeru. Problémom bola vyššia úroveň
+zamietnutých žiadostí o bankový úver, čo sa v roku 2020 v porovnaní s rokom 2018 zlepšilo,
+zrejme v dôsledku pandémie COVID-19, kedy sa začalo prihliadať na zjednodušenie
+prístupu malým a stredným podnikom k bankovým úverom. Tento istý názor môžeme
+použiť v oblasti ochoty poskytovania úverov bankami, keďže v roku 2018 indikovalo
+zhoršenie 11,12 percent respondentov, ale v roku 2019 to bolo už iba 3,50 percent, čo
+znamená výrazné zlepšenie. V porovnaní s členskými štátmi Európskej únie sme boli
+v rokoch 2019 a 2020 pod ich priemerom. V prípade prístupu k verejnej finančnej podpore
+indikovalo zhoršenie v roku 2018 skoro 20 percent respondentov, čo tvoril najväčší rozdiel
+oproti členským krajinám Európskej Únie v rozmedzí rokov 2018-2020, skoro o 5 percent.
+V rokoch 2019 a 2020 to bol skoro rovnaký rozdiel, konkrétne 1,60 a 1,55 percent..
+Slovenské malé a stredné podniky uprednostňujú tradičné zdroje financovania pred
+alternatívnymi možnosťami financovania, čo môžeme vidieť v ukazovateli Podiel
+bankových úverov malých a stredných podnikov na celkovom objeme podnikateľských
+bankových úverov, kde Slovenské malé a stredné podniky majú o 30 percent viac takýchto
+úverov ako zdroj financovania ich podnikania. Ukazovateľ malých a stredných podnikov,
+ktoré využili granty, alebo zvýhodnené úvery v posledných 6 mesiacoch vypovedá o tom, že
+na Slovensku oproti členským krajinám Európskej únie podniky veľmi nevyužívali tento
+spôsob financovania ich činnosti, na čo vieme nadviazať ukazovateľom malých a stredných
+podnikov, ktoré považujú granty a zvýhodnené úvery ako relevantný zdroj financovania, kde
+v priebehu rokov 2018-2020 bolo toto zastúpenie takmer o polovicu nižšie ako v členských
+štátov Európskej únie.
+
+37
+
+Horizont Európa
+Predchodcom programu Horizont Európa bol program Horizont 2020, ktorý fungoval
+v programovom období 2014-2020 s rozpočtom zhruba 80 miliárd Eur. Vďaka nemu sa
+financujú projekty malých a stredných podnikov v oblastiach vedy, výskumu a inovácií.
+Jeho oficiálnym nástupcom je Horizont Európa, ktorý sa uplatňuje v programovom období
+2021-2027. Jeho úlohou je zaistiť krátkodobé a dlhodobé financovanie malých a stredných
+podnikov v oblastiach výskumu a inovácií v spojitosti s aktuálnymi problémami ako sú
+zmena klímy, pandémia, alebo digitalizácia. Rozpočet programu Horizont Európa je vo
+výške 95,5 miliardy Eur a taktiež do neho spadá 5,4 miliardy Eur z plánu obnovy Európskej
+Únie pre budúce generácie a dodatočná investícia 4 miliárd Eur z Viacročného finančného
+rámca Európskej Únie. Program Horizont Európa má tri hlavné piliere:59
+•
+
+Excelentná veda,
+
+•
+
+Globálne výzvy a konkurencieschopnosť európskeho priemyslu,
+
+•
+
+Inovatívna Európa.
+
+Excelentná veda
+S pomocou Európskej rady pre výskum by sa mali podporovať projekty v oblasti
+výskumu na hraniciach poznania, ktoré určia a riadia samotní výskumní pracovníci. Do
+financovania tohto programu spadajú aj štipendiá a výmeny výskumníkov v rámci akcií
+Marie Curie-Sklodowskej, ktoré sa orientujú na podporu medzinárodnej mobility a otvára
+možnosti v oblasti výskumu.60 Investovať v rámci tohto piliera by sa malo aj do výskumnej
+infraštruktúry.61
+
+Globálne výzvy a konkurencieschopnosť európskeho priemyslu
+Primárny cieľ v rámci tohto piliera je podpora priemyselných technológií
+a transformáciu priemyslu. Skladá sa z týchto častí, teda klastrov62:
+•
+
+Zdravie,
+
+Spravodajstvo
+Európskeho
+parlamentu,
+Horizon
+Europe,
+dostupné
+online:
+https://www.europarl.europa.eu/news/sk/press-room/20210422IPR02604/parlament-schvalil-vyskumnyprogram-horizont-europa-na-roky-2021-2027
+60
+ERA Portal, Akcie Marie Curie Sklodowskej, dostupné online: https://eraportal.sk/horizont2020/excelentna-veda/akcie-marie-sklodowska-curie/
+61
+Spravodajstvo
+Európskeho
+parlamentu,
+Horizon
+Europe,
+dostupné
+online:
+https://www.europarl.europa.eu/news/sk/press-room/20210422IPR02604/parlament-schvalil-vyskumnyprogram-horizont-europa-na-roky-2021-2027
+62
+Portál európskej komisie, Brožúra Horizon Europe 2020, dostupné online: https://eraportal.sk/wpcontent/uploads/2020/12/Horizon_Europe_final.pdf
+59
+
+38
+
+•
+
+Kultúra, tvorivosť a inkluzívna spoločnosť,
+
+•
+
+Civilná bezpečnosť pre spoločnosť,
+
+•
+
+Digitalizácia, priemysel a vesmír,
+
+•
+
+Klíma, energetika a mobilita,
+
+•
+
+Potraviny, biohospodárstvo, prírodné zdroje, poľnohospodárstvo a životné
+prostredie.
+
+Inovatívna Európa
+Hlavný plán tretieho piliera je podpora prelomových riešení, ktoré majú dopomôcť
+budovaniu trhu a ekosystémov prinášajúcich inovácie. Na presadenie týchto cieľov slúžia
+Európska rada pre inovácie, opatrenia v rámci Európskych inovačných ekosystémov
+a Európskeho inovačného a technologického inštitútu.63 Očakáva sa prínos v oblasti
+trhových príležitostí, podpory integrácie podnikov, výskumu, vysokoškolského vzdelávania
+a podnikania.64
+
+Implementácia Horizont Európa
+Cieľom Horizontu Európa je zjednodušiť pravidlá na zapojenie sa do programu
+a zvýšiť transparentnosť a prepojenosť medzi jednotlivými programami. Zmenami by mali
+prejsť elektronické kroky ako sú podávanie projektového návrhu, príprava grantovej
+zmluvy, podpísanie, komunikácia s partnermi projektu a Európskou Komisiou, ktoré sú
+naďalej sprostredkované portálom Funding and Tenders, čím sa má zlepšiť ich funkcionalita.
+Tak ako v Horizonte 2020, tak aj v Horizonte Európa môžu žiadatelia žiadať o grant a podľa
+zvoleného typu sa následne odvíja výška podpory, hodnotiace kritéria a taktiež rozsah
+oprávnených aktivít.65 Tieto typy sú:
+•
+
+Inovačné aktivity,
+
+•
+
+Výskumné a inovačné aktivity,
+
+•
+
+Koordinačné a podporné aktivity.
+
+63
+Portál európskej komisie, Brožúra Horizon Europe 2020, dostupné online: https://eraportal.sk/wpcontent/uploads/2020/12/Horizon_Europe_final.pdf
+64
+Spravodajstvo
+Európskeho
+parlamentu,
+Horizon
+Europe,
+dostupné
+online:
+https://www.europarl.europa.eu/news/sk/press-room/20210422IPR02604/parlament-schvalil-vyskumnyprogram-horizont-europa-na-roky-2021-2027
+65
+Portál európskej komisie, Brožúra Horizon Europe 2020, dostupné online: https://eraportal.sk/wpcontent/uploads/2020/12/Horizon_Europe_final.pdf
+
+39
+
+Inovačné aktivity
+Projekty spadajúce do tejto kategórie sa majú zaoberať výrobnými zámermi
+a navrhovaním nového alebo lepšieho produktu, procesu alebo ponúkanej služby. Medzi ne
+patrí aj tvorba prototypu, testovanie, zavedenie na trhu, overovanie procesov v sériovej
+výrobe a podobne. Výška poskytovanej podpory je 70 percent a neziskovým organizáciám
+až do výšky 100 percent.66
+
+Výskumné a inovačné aktivity
+Žiadatelia v rámci tejto oblasti sa orientujú na overenie uskutočniteľnosti nových
+alebo vylepšených výrobkov, procesov, služieb alebo riešení v oblasti základného výskumu
+a aplikovaného výskumu, vývoja technológie, testovania až po skúšku prototypu
+v laboratórnych alebo simulovaných podmienkach. Výška poskytovanej podpory je 100
+percent.67
+
+Koordinačné a podporné aktivity
+Pod túto kategóriu spadajú projekty spojené so štandardizáciou, networkingom,
+zdieľaním a využitím výsledkov projektu a tvorbou povedomia o výrobku, procese alebo
+službe. Výška poskytovanej podpory je vo výške 100 percent.68
+
+Diskusia
+V súčasnej dobe je celý svet poznačený od roku 2020 najdrastickejšou hospodárskou
+krízou v dôsledku pandémie COVID–19. Od prvých dní pandémie COVID-19 prijímala
+EÚ opatrenia na riešenie krízy. Zaviedla okamžité opatrenia na mobilizáciu rozpočtu EÚ a
+na umožnenie maximálnej flexibility pri uplatňovaní rozpočtových pravidiel a pravidiel
+štátnej pomoci.
+
+V apríli 2020 EÚ predložila balík opatrení núdzovej podpory v hodnote
+
+540 miliárd EUR určený na podporu pracovných miest a pracovníkov, podnikov
+a členských štátov. Spoločné úsilie EÚ vyústilo do zriadenia fondu obnovy a dňa 27.5.2020
+Európska komisia predstavila Plán obnovy pre Európu s cieľom riešiť sociálno-ekonomické
+dôsledky
+
+pandémie
+
+COVID-19
+
+prostredníctvom
+
+jej
+
+hlavných
+
+politík,
+
+najmä
+
+prostredníctvom Európskej zelenej dohody, digitálnej revolúcie a odolnosti.69
+
+Portál európskej komisie, Brožúra Horizon Europe 2020, dostupné online: https://eraportal.sk/wpcontent/uploads/2020/12/Horizon_Europe_final.pdf
+67
+Tamtiež
+68
+Tamtiež
+69
+Európska komisia, Analýza plánu obnovy a odolnosti Slovenska, dostupné online: https://eurlex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021SC0161
+66
+
+40
+
+Ako vieme, dňa 3.7.202170 boli schválené prvé finančné prostriedky EÚ z fondu
+obnovy pre 12 krajín EÚ medzi nimi aj pre SR. 12 krajín EÚ, medi nimi aj Slovensko,
+dostalo zelenú na využívanie finančných prostriedkov EÚ určených na podporu obnovy a
+odolnosti, aby zmiernili dopady pandémie COVID-19 a budovali svoje hospodárstva
+a pomohli sa zotaviť z dôsledkov pandémie COVID-19.
+Plán obnovy SR obsahuje oblasti, ktorých cieľom je posilnenie postavenia MSP,
+odstránili nedostatky MSP a prijali nové reformy, ktoré prispejú k dobre fungujúcemu
+jednotnému trhu so silnými MSP.71
+V oblasti konkurencieschopnosti musí vláda SR v spolupráci s EÚ v kontexte
+pandémie napomáhať k štrukturálnym zmenám, ktoré budú potrebné na to, aby sa slovenská
+ekonomika adaptovala na novú situáciu po odznení krízy.
+Riešenie postavenia a fungovania MSP na Slovensku je zakotvené aj Programovom
+vyhlásení vlády SR na roky 2020 – 2024 ktorá sa zaviazala vytvárať priaznivé podnikateľské
+podmienky v duchu jednoduchých zákonov s nízkym administratívnym, finančným
+a regulačným zaťažením. V kontexte podnikateľského prostredia naviazaného na malé a
+stredné podniky sa v aktuálnom Programovom vyhlásení vlády SR uvádza záväzok
+vytvárania priaznivého prostredia pre rozvoj MSP a prihliadanie na uplatňovanie princípu
+„Najprv myslieť v malom“.72
+V prípade prístupu k financiám by sa mali malí a strední podnikatelia na Slovensku
+viac orientovať na verejné granty, ktoré sú im poskytované. Sú to granty, ktoré sú „šité na
+mieru“ ich požiadavkám, a tým by sa znížilo množstvo úverov, ktoré si malí a strední
+podnikatelia berú v bankách. Čím skôr malí a strední podnikatelia budú poberať granty
+z verejných zdrojov, tým skôr budú mať s nimi inštitúcie poskytujúce tieto granty
+skúsenosti, respektíve históriu poberania grantov, a ak budú spĺňať požiadavky, budú im
+tieto granty v budúcnosti jednoduchšie vyplatiteľné.
+Horizont Európa predstavuje najmodernejšie riešenie pre všetky malé a stredné
+podniky, keďže Európska Únia sa čoraz viac orientuje na udržateľnosť výroby a práve preto
+
+Európska komisia, Plán obnovy, dostupný online: https://www.consilium.europa.eu/sk/policies/eurecovery-plan/
+71
+Európska komisia, Analýza plánu obnovy a odolnosti Slovenska, dostupné online: https://eurlex.europa.eu/legal-content/SK/TXT/?uri=CELEX:52021SC0161
+72
+Slovak Business Agency, Správa o stave malého a stredného podnikania v SR 2020, dostupné na:
+http://monitoringmsp.sk/wp-content/uploads/2021/11/Sprava-o-stave-MSP-2020_final-1.pdf
+70
+
+41
+
+podporuje inovácie v oblasti výroby produktov. Na výrobu týchto produktov je možné
+využiť financovanie formou grantu, v prípade zapojenia svojho projektu do programu
+Horizont Európa. Ak sa produktu na trhu bude dariť, malí a strední podnikatelia tým získajú
+ďalšie finančné zdroje z predaja produktu, a teda rozhodnutie zapojenia sa do programu
+Horizont Európa vyznieva veľmi pozitívne. Malí a strední podnikatelia by teda mali najprv
+obrátiť svoju pozornosť na dobrý nápad na zaujímavý produkt s udržateľným spôsobom
+výroby, navrhnúť a podať projekt a zažiadať o grant, čím by sa vyriešil ich problém so
+získavaním finančných zdrojov vo výrobnom procese.
+
+42
+
+Záver
+Na záver by som chcel zdôrazniť a poukázať na význam a udržateľnosť fungovania
+malých a stredných podnikov pri riešení aktuálnych problémov malých a stredných
+podnikov pri získavaní finančných prostriedkov.
+Ako sme sa v priebehu bakalárskej práce dozvedeli malé a stredné podniky obľubujú
+tradičnú formu financovania, ako sú napríklad bankové úvery. Počas pandémie COVID-19,
+ktorá predstavovala veľký problém pre malé a stredné podniky, nakoľko vyžadovala vo
+väčšine prípadov zatvorenie prevádzok, problémy s logistikou, ale aj problémy
+s financovaním, malo veľa krajín opatrenia, ktoré sa dotýkali bankových úverov ale aj
+rôznych záruk. Na druhej strane, prijaté opatrenia počas pandémie zjednodušili
+administratívne požiadavky na podnikateľské subjekty, čo podporilo malé a stredné podniky
+v poberaní ďalších úverov. Odpoveďou pre problémy s pandémiou COVID-19 je Plán
+Obnovy Európskej Únie, ktorý cielene pomáha malým a stredným podnikom preklenúť cez
+toto obdobie, a zároveň, naštartovať nový spôsob udržateľnej výroby.
+V časti prístupu k financiám sme zistili, že na Slovensku je akási nechuť k verejným
+grantom, ktoré sú poskytované pre podnikateľské subjekty a radšej sa malí a strední
+podnikatelia sústredia na tradičné formy financovania. Toto je aj dôvodom, prečo je na
+Slovensku tak vysoký podiel bankových úverov na financovaní podniku. Čím skôr malé
+a stredné podniky začnú poberať granty, tým skôr by sme sa priblížili k európskemu
+priemeru a ľahšie by sa tvorila európska spolupráca medzi slovenskými malými a strednými
+podnikmi a európskymi inštitúciami alebo inými podnikmi.
+Nakoniec sme sa pozreli na program Horizont Európa, ktorý je pokračovateľom
+programu Horizont 2020. Prikláňam sa k názoru, že problém, ktorý predstavuje tento
+program je ten, že malé a stredné podniky o ňom veľa nevedia, a pritom im môže nadmieru
+pomôcť pri pretvorení ich výrobného procesu, keďže podporuje inovácie v odvetví výroby
+a kladie na prvé miesto udržateľnosť. Udržateľnosť je budúcnosťou Európskej únie, a teda
+ak chcú malé a stredné podniky držať krok s nárokmi od spoločnosti, mali by silno zvážiť
+zapojenie sa do tohto programu.
+Cieľom mojej práce je poukázať na to, že malé a stredné podniky sú hlavnou hnacou
+ekonomickou silou štátov v Európskej únii a aj vo svete. Nesmieme či už ako spoločnosť,
+43
+
+alebo samotné vlády dovoliť, aby sa týmto podnikateľským subjektom nedostávala
+dostatočná finančná podpora, či už v problematických obdobiach alebo v čase, kedy sa
+všetkým darí. Čím viac sa bude dariť malým a stredným podnikom, tým sa bude viac dariť
+aj obyvateľom, ktorí to pocítia na zlepšených produktoch a službách, ktoré sú im
+poskytované, v dôsledku zvýšenej konkurencie.
+
+44
+
+Zoznam použitej literatúry
+1. Agency, Slovak Business. Správa o stave malého a stredného podnikania na
+Slovensku 2020. Bratislava : Slovak Business Agency, 2020.
+2.
+
+Bank,
+
+The
+
+World.
+
+SME
+
+Finance.
+
+The
+
+World
+
+Bank.
+
+[Online]
+
+https://www.worldbank.org/en/topic/smefinance.
+3. Zákon č. 513/1991 z Obchodného zákonníka. Obchodný zákonník.
+4. Majdúchová, H. a Neumannová, A. Podnikové hospodárstvo pre manažérov.
+Bratislava : IURA EDITION, 2008. s. 27. 978-80-8078-200-9.
+5. Sedlák, M. a kolektív. Podnikové hospodárstvo. Bratislava : IURA EDITION,
+2007. s. 64. 970-80-8078-093-7.
+6. Vlachynský, K. a kol. Podnikové financie. Bratislava : IURA EDITION, 2006.
+s. 53-56. 80-8078-029-3.
+7. Chapčáková, A. a kol. Podnikanie v malých a stredných podnikoch. Prešov :
+Prešovská univerzita v Prešove, 2010. 9788055501475.
+8. Veber, J. a Srpová, J. a kol. Podnikání malé a střední firmy. Praha : Grada,
+2008. 8024824096.
+9. Marková, H. Daňové zákony. Praha : Grada, 2005. 8024710455.
+10. Veber, J. a Srpová, J. a kol. Podnikání malé a střední firmy. Praha : Grada,
+2012. 9788024745206.
+11. Lisý, J. a kol. Ekonómia. Bratislava : Iura edition, 2002. 80-89047-35-1.
+12. Vlachynský, K. a kol. Podnikové financie - 1. časť. Bratislava : ALFA, 1993.
+80-05-01137-7.
+13. Fetisovová, E., Vlachynský, K. a Sirotka, V. Financie malých a stredných
+podnikov. Bratislava : Wolters Kluwer, 2004. 8089047874.
+14. Belanová, K. Teória a politika podnikateľských financií. Bratislava :
+EKONÓM, 2010. 9788022531092.
+15. komisia, Európska. Európske štrukturálne a investičné fondy. Európska
+komisia.
+
+[Online]
+
+https://ec.europa.eu/info/funding-tenders/funding45
+
+opportunities/funding-programmes/overview-funding-programmes/europeanstructural-and-investment-funds_sk.
+16. SR, Ministerstvo Financií. Európsky investičný fond. Ministerstvo Financií
+SR - Medzinárodné finančné inštitúcie. [Online] https://www.mfsr.sk/sk/medzinarodnevztahy/medzinarodne-institucie/medzinarodne-financne-institucie/europskyinvesticny-fond-eif/europsky-investicny-fond-eif.html.
+17. Fund, European Investment. JEREMIE - brožúra. European Investment
+Fund
+
+-
+
+JEREMIE
+
+.
+
+[Online]
+
+https://www.eif.org/news_centre/publications/Jeremie_leaflet_files/jeremie_leaflet_sk.
+pdf.
+18. SR, Ministerstvo Financií. Európska investičná banka. Ministerstvo Financií
+SR - Medzinárodné finančné inštitúcie. [Online] https://www.mfsr.sk/sk/medzinarodnevztahy/medzinarodne-institucie/medzinarodne-financne-institucie/europskainvesticna-banka-eib/europska-investicna-banka-eib.html.
+19. EÚ, Oficiálna stránka. Podpora Európskych podnikov počas pandémie.
+Oficiálna
+
+stránka
+
+EÚ.
+
+[Online]
+
+https://ec.europa.eu/info/live-work-travel-
+
+eu/coronavirus-response/jobs-and-economy-during-coronaviruspandemic/supporting-european-businesses-during-pandemic_sk.
+20. Agency, Slovak Business. Audit hodnotenia uplatňovania princípov SBAfE
+na
+
+Slovensku
+
+v
+
+roku
+
+2020.
+
+Slovak
+
+Business
+
+Agency.
+
+[Online]
+
+http://monitoringmsp.sk/wp-content/uploads/2022/03/Audit-hodnoteniauplatňovania-princípov-SBAfE-na-Slovensku-v-r.2020.pdf.
+21. —. Prehľad a porovnanie opatrení prijatých pre MSP v dôsledku pandémie
+COVID-19
+
+v
+
+SR
+
+a
+
+vo
+
+svete.
+
+Slovak
+
+Business
+
+Agency.
+
+[Online]
+
+http://monitoringmsp.sk/wp-content/uploads/2020/06/Prehľad-a-porovnanieopatrení-prijatých-pre-MSP-v-dôsledku-pandémie-COVID-19-v-SR-a-vo-svete.pdf.
+22. parlamentu, Spravodajstvo Európskeho. Horizon Europe. Spravodajstvo
+Európskeho parlamentu. [Online] https://www.europarl.europa.eu/news/sk/pressroom/20210422IPR02604/parlament-schvalil-vyskumny-program-horizont-europana-roky-2021-2027.
+
+46
+
+23. ERA, Portal. Akcie Marie Curie Sklodowskej. Portal ERA. [Online]
+https://eraportal.sk/horizont-2020/excelentna-veda/akcie-marie-sklodowska-curie/.
+24. komisie, Portál európskej. Brožúra o programe Horizon Europe. Portál
+európskej
+
+komisie.
+
+[Online]
+
+https://eraportal.sk/wp-
+
+content/uploads/2020/12/Horizon_Europe_final.pdf.
+25. komisia, Európska. Analýza plánu obnovy a odolnosti Slovenska. Európska
+komisia.
+
+[Online]
+
+https://eur-lex.europa.eu/legal-
+
+content/SK/TXT/?uri=CELEX:52021SC0161.
+26.
+
+—.
+
+Plán
+
+obnovy.
+
+Európska
+
+https://www.consilium.europa.eu/sk/policies/eu-recovery-plan/.
+
+47
+
+komisia.
+
+[Online]
+
+Zoznam tabuľiek
+Tabuľka 1 Porovnanie vnímania hlavného problému, ktorému čelia z pohľadu MSP
+z roku 2020 .......................................................................................................................... 23
+Tabuľka 2 Percentuálne vyjadrenie relevantného zdroja financovania pre MSP v
+krajinách EÚ27 a Slovenskej republike ............................................................................... 23
+Tabuľka 3 Porovnanie ukazovateľov princípu "prístup k financiám" v SR a EÚ v r.
+2018 – 2020 ......................................................................................................................... 36
+
+48
+
+

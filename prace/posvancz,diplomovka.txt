@@ -1,0 +1,4672 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY BRATISLAVA
+VEREJNÉ ZDRAVOTNÍCTVO
+
+Optimalizácia radiačnej ochrany na pracovisku so zdrojmi ionizujúceho
+žiarenia
+
+DIPLOMOVÁ PRÁCA
+
+Študijný program: Verejné zdravotníctvo
+Študijný odbor: 5607 Verejné zdravotníctvo
+Školiace pracovisko: Vysoká škola zdravotníctva a sociálnej práce sv. Alžbety v Bratislave
+Vedúci práce: prof. MUDr. Soňa Balogová, PhD.
+
+BRATISLAVA 2024
+
+Bc. Patrik Posvancz
+
+Poďakovanie
+Moje poďakovanie patrí prof. MUDr. Soňa Balogovej, PhD. za odborné vedenie diplomovej
+práce, za jej trpezlivosť, podporu a čas, ktorý mi venovala pri jej príprave a spracovaní.
+
+Čestné prehlásenie
+Čestne prehlasujem, že diplomovú prácu s názvom Optimalizácia radiačnej ochrany na
+pracovisku so zdrojmi ionizujúceho žiarenia, som vypracoval samostatne s použitím
+uvedenej literatúry a ďalších informačných zdrojov.
+
+ABSTRAKT
+Bc. Patrik Posvancz: Optimalizácia radiačnej ochrany na pracovisku so zdrojmi
+ionizujúceho žiarenia. [Diplomová práca]. Vysoká škola zdravotníctva a sociálnej práce sv.
+Alžbety v Bratislave. Verejné zdravotníctvo. Školiteľ: prof. MUDr. Soňa Balogová, PhD.
+Bratislava, 2024, počet strán: 73
+Pracoviská s otvorenými a uzatvorenými žiaričmi sú povinné po priestorovej stránke a po
+stránke stavebného členenia spĺňať platné požiadavky na radiačnú ochranu, pričom
+dosiahnutie kompromisu medzi priestorovými možnosťami a splnením podmienok radiačnej
+ochrany býva neľahkou úlohou.
+Hlavným cieľom radiačnej ochrany je zníženie biologických účinkov žiarenia na najnižšiu
+možnú mieru. Je nevyhnutné zamerať sa na zníženie rizík, ktoré môžeme mať pod kontrolou.
+Vyšetrenia by sa mali uskutočniť s cieľom dosiahnuť maximálny úžitok s čo najmenšou
+ujmou pre pacientov.
+Na oddelení nukleárnej medicíny využívame na diagnostiku otvorené rádioaktívne žiariče.
+Pacientom je aplikovaná rádioaktívna látka, preto na oddelení nukleárnej medicíny je
+hlavným zdrojom ionizujúceho žiarenia pacient.
+Práca obsahuje základné charakteristiky ionizujúceho žiarenia a informuje o vplyve
+ionizujúceho žiarenia na organizmus. Optimalizácia radiačnej ochrany je veľmi dôležitá na
+pracoviskách, ktoré využívajú ionizujúce žiarenie na diagnostiku a liečbu.
+V praktickej časti práce bolo vytvorené hypotetické pracovisko nukleárnej medicíny, kde
+bol analyzovaní prienik žiarenia jednotlivými typmi stavebných materiálov a možnosti
+tienenia. Vytvorené boli 2 pracoviská: Prvé pracovisko spĺňa podmienky pre používanie
+rádiodiagnostických prístrojov, ale neráta s ďalšími zdrojmi žiarenia, ktorými sú v prípade
+nukleárnej medicíny samotní aplikovaní pacienti. Druhé pracovisko vyhovuje požiadavkám
+radiačnej ochrany na oddelení nukleárnej medicíny.
+Celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h pred dotienením
+hypotetického pracoviska nukleárnej medicíny bol v priemere 9,68 µSv/h, po dotienení 1,66
+µSv/h , čo predstavuje zníženie celkového príkonu priestorového dávkového ekvivalentu
+81,07%.
+Ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách v prítomnosti pacientov
+na pracovisku nukleárnej medicíny
+
+ročne pred dotienením hypotetického pracoviska
+
+nukleárnej medicíny bola v priemere 2,23 mSv, po dotienení 0,39 mSv, čo predstavuje
+81,07% zníženie ročnej kumulovanej efektívnej dávky.
+Tieniace materiály použité v rámci stavebného riešenia pracoviska nukleárnej medicíny
+majú zásadný dopad na optimalizáciu radiačnej ochrany na danom pracovisku a ich výber
+musí byť zohľadnený pri plánovaní takéhoto pracoviska.
+Simulácia dávkového príkonu v jednotlivých miestnostiach hypotetického pracoviska
+nukleárnej medicíny v závislosti od použitých stavebných materiálov s použitím výsledkov
+meraní získaných z reálnej praxe sa javí byť nápomocná pri plánovaní pracovísk tohto typu.
+Kľúčové slová: ionizujúce žiarenie, radiačná ochrana, nukleárna medicína, tienenie
+
+ABSTRACT
+Bc. Patrik Posvancz: Optimizing radiation protection at the workplace with source of
+ionizing radiation [Diploma thesis]. St. Elizabeth University of Health and Social Sciences
+in Bratislava. Public health. Tutor: prof. MUDr. Soňa Balogová, PhD. Bratislava, 2024,
+number of pages: 73
+Workplaces with open and closed radiators are required to meet the valid requirements for
+radiation protection in terms of space and building structure, while reaching a compromise
+between spatial options and meeting the conditions of radiation protection is often a difficult
+task.
+The main goal of radiation protection is to reduce the biological effects of barium to the
+lowest possible level. It is essential to focus on reducing risks that we can control.
+Investigations should be carried out with the aim of achieving maximum benefit with the
+least possible harm to patients.
+In the nuclear medicine department, we use open radioactive emitters for diagnosis. A
+radioactive substance is applied to the patient, therefore in the nuclear medicine department.
+the main source of ionizing radiation is the patient.
+The work contains the basic characteristics of ionizing radiation and informs about the
+impact ionizing radiation on the body. Optimizing radiation protection is very important at
+workplaces that use ionizing radiation for diagnostics and cutting.
+In the practical part of the work, a hypothetical workplace of nuclear medicine was created,
+where the penetration of radiation by individual types of building materials and the
+possibility of shielding were analyzed. 2 workplaces were created: The first workplace
+fulfills the conditions for the use of radiodiagnostic devices, but it does not count with other
+sources of radiation, in the case of nuclear medicine, the treated patients are the only ones.
+The second workplace meets the radiation protection requirements of the nuclear medicine
+department.
+In total, the input of the spatial dose equivalent H*(10) in µSv/h before shielding of the
+hypothetical workplace of nuclear medicine was on avarage 9,68 µSv/h, after shielding 1,66
+µSv/h, which means 81,07% reduction of the total input spatial dose equivalent.
+The annual cumulative effective dose of a worker at 1200hours in the presence of patients
+in a nuclear medicine workplace per year in mSv before shielding the hypothetical nuclear
+
+medicine worplace was on avarage 2,23 mSv, after shielding 0,39 mSv, which means
+81,07% reduction in annual cumulative effective dose.
+The shielding materials used in the construction solution of the workplace of nuclear
+medicine have a fundemential impact on the iptimization of radiation protection at the given
+workplace, and their selection must be taken into account when planning such a workplace.
+The simulation of dose rates in individual rooms of a hypothetical workplace of nuclear
+medicine depending on the construction materials used, using the results of measurements
+obtained from real practice, appears to be helpful in planning workplaces of this type.
+Key words: ionizing radiation, radiation protection, nuclear medicine, shielding
+
+Obsah
+Obsah ..................................................................................................................................... 9
+1
+
+Úvod ............................................................................................................................. 14
+
+2
+
+Ionizujúce žiarenie ........................................................................................................ 15
+2.1
+2.1.1
+
+Kozmické žiarenie ........................................................................................... 16
+
+2.1.2
+
+Terestriálne zdroje žiarenia .............................................................................. 16
+
+2.2
+2.2.1
+2.3
+
+3
+
+4
+
+Prírodné zdroje ionizujúceho žiarenia ................................................................. 15
+
+Umelé zdroje ionizujúceho žiarenia .................................................................... 19
+Lekárske ožiarenie ........................................................................................... 20
+Biologické účinky ionizujúceho žiarenia ............................................................. 21
+
+2.3.1
+
+Biologický účinok ionizujúceho žiarenia na DNA .......................................... 22
+
+2.3.2
+
+Chromozómové aberácie ................................................................................. 23
+
+2.3.3
+
+Stochastické účinky ionizujúceho žiarenia ...................................................... 24
+
+2.3.4
+
+Deterministické účinky .................................................................................... 25
+
+Základné princípy ochrany pred ionizujúcim žiarením ................................................ 26
+3.1
+
+Odôvodnenosť...................................................................................................... 26
+
+3.2
+
+Optimalizácia ....................................................................................................... 26
+
+3.3
+
+Limitovanie .......................................................................................................... 26
+
+Ciele radiačnej ochrany ................................................................................................ 26
+4.1
+
+Limity ožiarenia pre jednotlivé skupiny osôb podľa (zákona č. 87/2018 Z.z.
+
+o radiačnej ochrane) ......................................................................................................... 27
+4.1.1
+
+Limity ožiarenia pracovníka v kalendárnom roku sú: ..................................... 27
+
+4.1.2
+
+Limity ožiarenia obyvateľa v kalendárnom roku sú: ....................................... 27
+
+4.1.3
+
+Limity ožiarenia žiaka a študenta vo veku od 16 rokov do 18 rokov
+
+v kalendárnom roku sú: ................................................................................................ 28
+4.1.4
+5
+
+Medzná dávka sprevádzajúcej osoby je efektívna dávka: ............................... 28
+
+Princíp optimalizácie .................................................................................................... 29
+5.1
+
+Postupy optimalizácie .......................................................................................... 29
+
+6
+
+7
+
+5.1.1
+
+Optimalizácia ožiarenia pracovníka ................................................................. 30
+
+5.1.2
+
+Optimalizácia lekárskeho ožiarenia pacienta ................................................... 30
+
+5.1.3
+
+Optimalizácia lekárskeho ožiarenia zahŕňa ..................................................... 31
+
+5.1.4
+
+Optimalizácia lekárskeho ožiarenia sprevádzajúcej osoby .............................. 32
+
+Dozimetria .................................................................................................................... 32
+6.1
+
+Osobné monitorovanie pomocou termoluminiscenčných dozimetrov ................. 33
+
+6.2
+
+Systém elektronickej osobnej dozimetrie ............................................................ 35
+
+Praktická časť ............................................................................................................... 35
+7.1
+
+Ciele praktickej časti ............................................................................................ 35
+
+7.2
+
+Metóda ................................................................................................................. 36
+
+7.2.1
+
+Prenosný monitor povrchovej kontaminácie CoMo-170 NUVIATECH ........ 36
+
+7.2.2
+
+Prenosné meradlo príkonu dávkového ekvivalentu FH 40 G-L 10 ................. 36
+
+7.2.3
+
+Monte Carlo ..................................................................................................... 37
+
+7.3
+
+Charakteristika nukleárnej medicíny ................................................................... 40
+
+7.3.1
+
+Charakteristika používaných žiaričov na pracovisku nukleárnej medicíny ..... 40
+
+7.3.2
+
+Miestnosti na pracovisku nukleárnej medicíny s tieniacimi vrstvami v stenách
+41
+
+7.4
+
+Výpočet vplyvu dotienenia priestorov oddelenia nukleárnej medicíny tieniacimi
+
+vrstvami FeBetonu ........................................................................................................... 47
+7.5
+
+Výsledok praktickej časti ..................................................................................... 64
+
+7.5.1
+
+Pracovisko č. 1 a Pracovisko č.2...................................................................... 64
+
+7.5.2
+
+Meranie dávkového príkonu od pacienta po aplikácii 18F-FDG .................... 64
+
+7.5.3
+
+Vplyv dotienenia priestorov oddelenia nukleárnej medicíny tieniacimi
+
+vrstvami FeBetonu........................................................................................................ 66
+8
+
+Diskusia a záver ............................................................................................................ 69
+
+10
+
+Zoznam tabuliek
+
+Tabuľka č. 1- Priemerná efektívna dávka ožiarenia obyvateľov z prírodných zdrojov
+ionizujúceho žiarenia v krajinách Európskej únie ............................................................... 17
+Tabuľka č. 2 - Osobné termoluminiscenčné dozimetre ....................................................... 34
+Tabuľka č. 3 - Prstové termoluminiscenčné dozimetre ....................................................... 34
+Tabuľka č. 4 - Referenčné úrovne pre operatívne monitorovanie pomocou elektronických
+osobných dozimetrov ........................................................................................................... 35
+Tabuľka č. 5 -Základné technické parametre prístroja CoMo-170 NUVIATECH ............. 36
+Tabuľka č. 6 -Základné technické parametre meradla FH 40 G-L 10 ................................. 37
+Tabuľka č. 7 - Zoznam a charakteristika zdrojov ionizujúceho žiarenia na pracovisku
+nukleárnej medicíny ............................................................................................................. 40
+Tabuľka č. 8 -Možný výskyt rádionuklidov v priestoroch kontrolovaného pásma oddelenia
+nukleárnej medicíny ............................................................................................................. 50
+Tabuľka č. 9- Tieniace vrstvy .............................................................................................. 51
+Tabuľka č. 10 – Miestnosť ovládača PET/CT M6 pred dotienením ................................... 52
+Tabuľka č. 11 - Miestnosť ovládača PET/CT M6 po dotienení .......................................... 53
+Tabuľka č. 12 – Ambulancia M2 pred dotienením .............................................................. 54
+Tabuľka č. 13 – Ambulancia M2 po dotienení .................................................................... 55
+Tabuľka č. 14 – Chodba CH2 pred dotienením ................................................................... 56
+Tabuľka č. 15
+
+- Chodba CH2 po dotienení ..................................................................... 57
+
+Tabuľka č. 16 – Chodba CH1 pred čakárne pacientov PET/CT pred dotienením............... 58
+Tabuľka č. 17 - Chodba CH1 pred čakárne pacientov PET/CT po dotienení ..................... 59
+Tabuľka č. 18 – Chodba CH3 pred aplikačnými boxami PET/CT pred dotienením ........... 60
+Tabuľka č. 19 – Chodba CH3 pred aplikačnými boxami PET/CT po dotienení ................. 61
+Tabuľka č. 20 – Sklad M8 pred dotienením ........................................................................ 62
+Tabuľka č. 21 – Sklad M8 po dotienení............................................................................... 63
+Tabuľka č. 22– Dávkový príkon pacienta po aplikácii rádiofarmák ................................... 65
+Tabuľka č. 23 – celkoví príkon priestorového dávkového ekvivalentu H*(10) v µSv/h .... 67
+Tabuľka č. 24 - kumulovaná efektívna dávka pracovníka pri 1200 hodinách v prítomnosti
+pacientov na pracovisku ročne v mSv: ................................................................................ 68
+
+11
+
+Zoznam obrázkov
+Obrázok č. 1 -Vlnová dľžky neionizujúcích a ionizujúcích žiarení .................................... 15
+Obrázok č. 2 - Intenzita žiarenia s nadmorskou výškou ..................................................... 16
+Obrázok č. 3- Celková prírodná aktivita na Slovensku ....................................................... 17
+Obrázok č. 4-Mapa radónového rizika na Slovensku .......................................................... 19
+Obrázok č. 5 – Zdroje ionizujúceho žiarenia k celkovej ročnej efektívnej dávke
+jednotlivcov ......................................................................................................................... 20
+Obrázok č. 6 - Priemerná ročná efektívna dávka z lekárskeho ožiarenia obyvateľov v EU 21
+Obrázok č. 7 - Chromozómová aberácia ............................................................................. 24
+Obrázok č. 8 -Pracovisko nukleárnej medicíny. .................................................................. 42
+Obrázok č. 9- Dotienené steny na pracovisku nukleárnej medicíny .................................... 47
+Obrázok č. 10- Posudzované kritické miesta (celkom 6) na pracovisku nukleárnej
+medicíny, na ktorých boli vykonávané merania. ................................................................. 48
+Obrázok č. 11- Meranie meradlom príkonu dávkového ekvivalentu FH 40 G-L 10 .......... 66
+
+12
+
+Zoznam skratiek
+Rtg- Röntgen
+mSv- Mili Sievert
+EPA- Agentúry pre ochranu životného prostredia Spojených štátov
+EU- Európska únia
+DNA- Deoxyribonukleová kyselina
+Gy- Gray
+ICRP- International Commission on Radiological Protection
+CT- Počítačová tomografia
+keV- Kiloelektronvolt
+MeV- Megaelektronvolt
+Sv- Sievert
+TL- dozimetre- Termoluminiscenčné dozimetre
+Hp(10) – osobný dávkový ekvivalent v hĺbke 10 mm
+Hp(3) – osobný dávkový ekvivalent v hĺbke 3 mm
+Hp(0,07) – osobný dávkový ekvivalent v hĺbke 0,07 mm
+SEOD- Systém elektronickej osobnej dozimetrie
+PET/CT- Pozitrónová emisná tomografia
+SDK- Sádrokartón
+MBq- Megabecquerel
+NM- Nukleárna medicína
+µSv/h- MikroSievert/hodinu
+Bq/cm2- Bequerel/centimeter štvorcový
+
+13
+
+1
+
+Úvod
+
+Radiačná ochrana je kritickým aspektom bezpečnosti na pracoviskách nukleárnej medicíny,
+ktorej cieľom je chrániť ľudí pred škodlivými účinkami ionizujúcemu žiareniu. Vzhľadom
+na to, že niektorým zdrojom prirodzeného žiarenia sa nedá vyhnúť, je nevyhnutné zamerať
+sa na zmierňovanie rizík, ktoré máme pod kontrolou. Napríklad obmedzenie vystavenia
+ionizujúcemu žiareniu pri lekárskych postupoch by sa malo uskutočniť s cieľom dosiahnuť
+maximálny úžitok s čo najmenšou ujmou pre pacientov, to si vyžaduje bezpečné a vhodné
+používanie zdrojov ionizujúceho žiarenia pri postupoch nukleárnej medicíny vrátane
+štandardizovaných diagnostických a terapeutických postupov.
+Preto sa implementácia účinných opatrení radiačnej ochrany na pracoviskách nukleárnej
+medicíny stala kľúčovou pre minimalizáciu expozície ionizujúcemu žiareniu. Táto
+výskumná práca skúma najlepšie postupy a stratégie na optimalizáciu radiačnej ochrany na
+pracoviskách nukleárnej medicíny.
+Cieľom práce je na príklade hypotetického pracoviska nukleárnej medicíny modelovať
+možnosti tienenia ionizujúceho žiarenia v jeho jednotlivých priestoroch v závislosti od
+stavebných materiálov použitých pri ich členení. V rámci vlastného prieskumu podložiť
+uvedené zistenia praktickými meraniami pre rádiofarmaká značené fluórom-18 a pre
+jednotlivé stavebné materiály použité v stavebnom členení reálneho pracoviska nukleárnej
+medicíny.
+Vo výskumnej časti práci sa zameriavame aj na skúmanie možností optimalizácie radiačnej
+ochrany analýzou účinnosti rôznych typov stavebných materiálov pri tienení a prenikaní
+ionizujúceho žiarenia. Hodnotenie stavebných materiálov na účinné tienenie pred žiarením
+je kľúčové pre zaistenie bezpečnosti a pohody pracovníkov na pracovisku nukleárnej
+medicíny. Primárnym cieľom tejto práce je preto analyzovať možnosti prieniku a ochrany
+ionizujúceho žiarenia rôznymi druhmi stavebných materiálov. Zistenia tejto štúdie poskytnú
+cenné poznatky o optimalizácii radiačnej ochrany na pracovisku v nukleárnej medicíne.
+
+14
+
+2
+
+Ionizujúce žiarenie
+
+Ionizujúce žiarenie je žiarenie, ktoré môžu byť prezentované vo forme častíc alebo energie
+a majú pri svojej interakcii s prostredím dostatok energie na uvoľnenie elektrónu z
+elektrónového obalu atómu. Nabité aj nenabité častice alebo kvantá energie pri prechode
+hmotou odovzdávajú svoju energiu hmotnému prostrediu. Energia sa v najväčšej miere
+odovzdáva formou ionizácie atómov. Pri ionizácii neutrálneho atómu dochádza k vyrazeniu
+elektrónu z elektrónového obalu jadra, čím vznikne kladný a záporný ión.
+Ionizujúce žiarenie je žiarenie prenášajúce energiu vo forme elektromagnetických vĺn
+s vlnovou dĺžkou 100 nm alebo kratšou, alebo frekvenciou 3.1015 Hz alebo vyššou, ktoré
+má schopnosť priamo (nabité častice: alfa, beta) alebo nepriamo (neutróny, rtg, gama)
+vytvárať ióny.
+
+Obrázok č. 1 -Vlnová dľžky neionizujúcích a ionizujúcích žiarení
+Zdroje ionizujúceho žiarenia delíme na:
+•
+
+prírodné
+
+•
+
+umelé
+Prírodné zdroje ionizujúceho žiarenia
+
+2.1
+
+Prírodné zdroje ionizujúceho žiarenia sa delia na:
+•
+
+kozmické
+
+•
+
+terestriálne
+
+15
+
+2.1.1
+
+Kozmické žiarenie
+
+Vysoko energetické žiarenie, ktoré dopadá na zemský povrch z kozmického priestoru
+(galaktické žiarenie) alebo z povrchu Slnka (slnečné žiarenie). Magnetické pole zeme
+ovplyvňuje intenzitu kozmického žiarenia. Intenzita kozmického žiarenie sa výrazne mení s
+nadmorskou výškou.
+
+Obrázok č. 2 - Intenzita žiarenia s nadmorskou výškou
+2.1.2
+
+Terestriálne zdroje žiarenia
+
+Prírodné rádionuklidy sa nachádzajú: v pôde a horninách na zemskom povrchu, v atmosfére,
+v povrchových a podzemných vodách.
+Prírodné rádionuklidy sa delíme na:
+•
+
+Primárne terestriálne rádionuklidy- vznikli asi pred 4,5 mld. rokmi pri syntéze prvkov, z ktorých je zložená slnečná sústava.
+
+•
+
+Sekundárne terestriálne rádionuklidy vznikajú rozpadom pôvodných terrestriálnych
+rádionuklidov.
+
+•
+
+Kozmogénne rádionuklidy- vznikajú interakciou kozmického žiarenia so stabilnými
+16
+
+atómami (najmä v atmosfére).
+Medzi najvýznamnejšie prírodné rádionuklidy, ktoré najviac prispievajú k ožiareniu
+populácie patria 40-K, 235-U, 232-Th, 226-Ra, 222-Rn, 220-Rn, 210-Pb, 210-Po.
+Medzi najvýznamnejšie kozmogénne rádionuklidy z hľadiska aktivity patria: 14-C, 3-H, 7Be a 22-Na.
+
+Obrázok č. 3- Celková prírodná aktivita na Slovensku
+Prírodné zdroje žiarenia predstavujú určitú základnú úroveň ožiarenia jednotlivcov.
+Priemerná efektívna dávka ožiarenia obyvateľov z prírodných zdrojov ionizujúceho žiarenia
+v krajinách Európskej únie je 2,5 – 3,0 mSv za rok.
+Zdroj ožiarenia
+
+Ročná efektívna dávka
+
+Kozmické žiarenie
+
+0,40 – 0,50 mSv
+
+Externé terestriálne žiarenie
+
+0,45 – 0,70 mSv
+
+Vnútorné ožiarenie – inhaláciou 0,15 – 0,20 mSv
+rádionuklidov
+Vnútorné
+
+ožiarenie
+
+–
+
+ingesciou 0,30 – 0,40 mSv
+
+rádionuklidov
+Radón
+
+1,25 – 1,65 mSv
+
+SPOLU
+
+2,5 – 3,0 mS
+
+Tabuľka č. 1- Priemerná efektívna dávka ožiarenia obyvateľov z prírodných zdrojov
+ionizujúceho žiarenia v krajinách Európskej únie
+Radón
+Radón je chemický prvok, ktorý má symbol Rn a atómové číslo 86. Je to rádioaktívny,
+vzácny plyn a je bez farby a bez zápachu. Z troch prirodzene sa vyskytujúcich izotopov
+radónu má iba radón-222 dostatočne dlhý polčas rozpadu (3,825 dňa), aby sa uvoľnil z pôdy
+a horniny, kde vzniká. Izotopy radónu sú bezprostredné produkty rozpadu izotopov rádia.
+Najstabilnejší izotop radónu, radón-222, vďaka čomu je radón jedným z najvzácnejších
+prvkov. Radón bude na Zemi prítomný ešte niekoľko miliárd rokov, napriek tomu, že jeho
+17
+
+polčas rozpadu je len 3,8 dňa, pretože sa neustále vyrába ako krok v reťazci rozpadu uránu238 a tória-232, tieto rádioaktívne nuklidy sú mimoriadne hojné s polčasom rozpadu
+niekoľko miliárd rokov. Rozpad radónu produkuje mnoho ďalších nuklidov, známych ako
+"radónové dcéry", končiacich stabilnými izotopmi olova. Radón-222 sa vyskytuje vo
+významných množstvách pri rádioaktívneho rozpadu uránu-238, ktorá sa pomaly rozpadá
+na rôzne rádioaktívne nuklidy a nakoniec sa rozpadá na olovo-206, ktoré je stabilné.
+Radón-220 sa vyskytuje v nepatrných množstvách ako medzistupeň v rozpadovom reťazci
+tória-232, známeho tiež ako séria tórií, ktoré sa nakoniec rozpadne na olovo-208, ktoré je
+stabilné.
+Za štandardných podmienok je radón plynný a môže byť ľahko vdýchnutý, čo predstavuje
+zdravotné riziko. Primárne nebezpečenstvo však nepochádza zo samotného radónu, ale z
+produktov jeho rozpadu, známych ako dcéry radónu. Tieto produkty rozpadu, ktoré často
+existujú ako jednotlivé atómy alebo ióny. Radónové dcéry môžu spôsobiť poškodenie
+pľúcneho tkaniva. Podľa Agentúry pre ochranu životného prostredia Spojených štátov
+(EPA) je radón po fajčení cigariet druhou najčastejšou príčinou rakoviny pľúc, ktorá
+spôsobuje v Spojených štátoch 21 000 úmrtí na rakovinu pľúc ročne. Približne 2 900 z týchto
+úmrtí sa vyskytuje u ľudí, ktorí nikdy nefajčili. Zatiaľ čo radón je druhou najčastejšou
+príčinou rakoviny pľúc, podľa odhadov orientovaných na politiku EPA je hlavnou príčinou
+smrti medzi nefajčiarmi.
+Množstvo radónu sa líši od miesta k miestu. Bežným zdrojom sú minerály obsahujúce urán
+v zemi, a preto sa hromadí v podzemných oblastiach, ako sú pivnice. Radón sa môže
+vyskytovať aj v niektorých podzemných vodách, ako sú pramenité vody a horúce pramene.
+Klimatické zmeny môžu spôsobiť, že radón, ktorý bol predtým uväznený v podzemí, sa pri
+roztápaní uvoľňuje, najmä v oblastiach ako Arktída, Aljaška, Kanada, Grónsko a Rusko.
+Radónové ziziko na Slovensku:
+
+18
+
+Obrázok č. 4-Mapa radónového rizika na Slovensku
+
+Umelé zdroje ionizujúceho žiarenia
+
+2.2
+
+Najvýznamnejšie umelé zdroje ionizujúceho žiarenia:
+•
+
+-rádioaktívny spad zo stratosféry ako dôsledok výbuchov jadrových zbraní v atmosfére a na zemskom povrchu,
+
+•
+
+rádioaktívne látky uvoľňované do životného prostredia
+
+•
+
+zdroje ionizujúceho žiarenia používané v medicíne – RTG prístroje, ožarovacie zariadenia, urýchľovače elektrónov, rádiofarmaká
+
+•
+
+rôzne zdroje žiarenia používané v hospodárstve
+
+19
+
+Obrázok č. 5 – Zdroje ionizujúceho žiarenia k celkovej ročnej efektívnej dávke jednotlivcov
+2.2.1
+
+Lekárske ožiarenie
+
+Podľa štúdie Európskej komisie „Datamed 2“ z roku 2014 o ožiarení obyvateľov Európy zo
+zdrojov žiarenia používaných v zdravotníctve sa vykoná v krajinách EU približne 1,2
+miliardy rádiologických vyšetrení ročne.
+
+20
+
+Obrázok č. 6 - Priemerná ročná efektívna dávka z lekárskeho ožiarenia obyvateľov v EU
+
+Biologické účinky ionizujúceho žiarenia
+
+2.3
+
+Expozícia jednotlivcov ionizujúcim žiarením je spojená s potenciálnym rizikom
+zdravotného poškodenia, pričom pôsobenie ionizujúceho žiarenia na biologický systém sa
+riadi všeobecnými zásadami jeho interakcie s hmotou.
+Účinky ionizujúceho žiarenia na tkanivo sa delia na:
+•
+
+priamy účinok
+
+•
+
+nepriamy účinok
+
+Priamy účinok žiarenia
+Priamy účinok žiarenia je dôsledkom prenosu energie žiarenia bezprostredne na biologickú
+molekulu, pri ktorej dochádza k lokálnej absorpcii energie, ionizácii a následnej chemickej
+zmene zasiahnutej štruktúry. Pravdepodobnosť takýchto priamych zásahov je nízka. Priamy
+účinok sa môže významne prejavovať v prípade husto ionizujúceho žiarenia (alfa častice,
+neutróny).
+
+21
+
+Nepriamy účinok žiarenia
+Miesto chemickej reakcie (ionizácia, exitácia, disociácia) nie je totožné s miestom primárnej
+absorpcie ionizujúceho žiarenia, ale prichádza k prenosu energie v rámci molekuly a medzi
+molekulami. Nepriamy účinok žiarenia sa môže podieľať na celkovom poškodení až 80%.
+Dôsledkom nepriameho účinku žiarenia je množstvo zmien, ktoré nepriamo ovplyvňujú
+metabolické procesy. Nepriamy účinok je charakteristický pre žiarenie s nízkou hustotou
+ionizácie (rtg. žiarenie, gama žiarenie).
+Rádiolýza vody- Prvotné poškodenie sa prejaví v najväčšej miere na základných stavebných
+látkach živej hmoty (voda, bielkoviny, DNA, enzímy). Keďže viac ako 75% ľudského tela
+tvorí voda, prvotné procesy sú v značnej miere určované absorbciou žiarenia vodou
+nachádzajúcou sa v bunkách. V dôsledku ionizácie molekula vody disociuje, pričom
+vznikajú agresívne radikály a silné oxidanty.(Ing. Róbert Hinca PhD 2024)
+
+2.3.1
+
+Biologický účinok ionizujúceho žiarenia na DNA
+
+Ionizujúce žiarenie produkuje vo vysokej miere jednoduché a dvojité zlomy DNA. Vznikom
+týchto jednoduchých alebo dvojitých zlomov súčasne dochádza aj k radiačnému poškodeniu
+báz, priečnym väzbám vo vnútri DNA alebo medzi DNA a proteínmi. Zlomy DNA môžu
+viesť ku vzniku chromozómových aberácií. Vznik chromozómových aberácií je typické
+poškodenie pre expozíciu ionizujúcim žiarením. Nižšie dávky žiarenia nespôsobia
+bezprostredne smrť bunky a ani zastavenie bunkového delenia, ale vytvorené radikály môžu
+vyvolať chemické zmeny – mutácie v DNA. (RNDr. Helena Cabáneková, PhD. 2009)
+Podľa rozsahu sa mutácie delia na:
+•
+
+génové- narušenie génu, ktorý nesie úplnú jednotku informácie pre určitú biologickú
+funkciu
+
+•
+
+chromozómové- zmena počtu chromozómov alebo zmeny tvarov nadväzujúcich na
+zlom chromozómu
+
+Z reprodukčného hľadiska sa mutácie delia na:
+•
+
+somatické- u ožiareného jedinca
+
+•
+
+genetické- u zárodkových buniek, ktoré sa môžu prenášať na ďalšie generácie v
+22
+
+potomstve ožiarených osôb
+Rozsah a závažnosť biologického účinku ionizujúceho žiarenia na človeka závisí od
+mnohých faktorov:
+•
+
+spôsob expozície
+
+•
+
+druh žiarenia
+
+•
+
+absorbovaná dávka
+
+•
+
+veľkosť časti tela (orgánu), ktorý je ožiarený
+
+•
+
+rádiosenzitivita tkaniva
+
+•
+
+individuálna biologická variabilita ožiareného jedinca
+
+Z hľadiska ochrany zdravia pred žiarením rozdeľujeme biologické účinky ionizujúceho
+žiarenia na stochastické (náhodné) a nestochastické (deterministické).
+2.3.2
+
+Chromozómové aberácie
+
+Chromozomálne aberácie alebo abnormality sú zmeny v štruktúre alebo počte
+chromozómov. Ľudia majú zvyčajne 23 párov chromozómov, posledným párom
+chromozómov sú pohlavné chromozómy, ktoré určujú priradenie pohlavia jednotlivca. Pri
+narodení je väčšine ľudí s pohlavnými chromozómami XY priradený muž a väčšina jedincov
+s XX je priradená žena. Vo všeobecnosti platí, že každý rodič prispieva k svojmu potomstvu
+jedným párom chromozómov, ktoré spoločne tvoria 23 párov chromozómov. Zmena
+ktoréhokoľvek z chromozómov, v počte alebo štruktúre, vytvára chromozomálnu aberáciu a
+môže spôsobiť zdravotné poruchy.
+Typy chromozómových aberácií
+Chromozomálne aberácie sa delíme na:
+•
+
+numerické
+
+•
+
+štrukturálne aberácie
+
+Numerické aberácie- zmeny počtu prítomných chromozómov, sa označujú ako aneuploidie
+(genómové mutácie). Najbežnejšími typmi aneuploidie sú monozómie, keď je prítomný iba
+jeden chromozóm z páru, a trizómie, keď sú namiesto páru tri kópie chromozómu.
+Štrukturálne aberácie- Štyri hlavné typy štrukturálnych chromozomálnych aberácií:
+23
+
+•
+
+Delécia- delécie sa vyskytujú, keď je časť chromozómu vymazaná alebo
+odstránená, čo môže spôsobiť, že tento chromozóm bude menej funkčný.
+
+•
+
+Duplikácia- pri duplikácii je časť chromozómu duplikovaná, čo vedie k extra
+genetickému materiálu.
+
+•
+
+Inverzia- inverzia chromozómu nastáva, keď je genetický materiál obrátený
+alebo prevrátený opačným smerom. Inverzie často nevedú k ochoreniu a
+najčastejšie postihujú chromozóm.
+
+•
+
+Translokácia- k translokáciám dochádza, keď sa kúsok jedného chromozómu
+odlomí zo svojho pôvodného miesta a pripojí sa k inému chromozómu.
+
+Chromozomálne aberácie sú najčastejšie spôsobené chybami pri delení buniek,
+replikácie DNA, alebo pod vplyvom zmien vo vonkajšom prostredí (ionizujúce žiarenie,
+chemické mutagény, vírusy).
+
+Obrázok č. 7 - Chromozómová aberácia
+
+2.3.3
+
+Stochastické účinky ionizujúceho žiarenia
+
+Stochastické účinky ionizujúceho žiarenia sú bezprahové a so stúpajúcou dávkou stúpa
+pravdepodobnosť vzniku poškodenia a nárastu neskorých foriem poškodenia. Tieto
+poškodenia sú vyvolané zmenami v genetickej informácii bunky. Stochastické účinky sú
+náhodné, individuálne a nepredvídateľné. Pri stochastických účinkoch závažnosť postihnutia
+a priebeh vzniknutého ochorenia nezávisia od veľkosti absorbovanej dávky. Od veľkosti
+24
+
+absorbovanej dávky závisí iba pravdepodobnosť výskytu nádorového či genetického
+poškodenia. (Bo Xiao 2015)
+Príznaky stochastických účinkov:
+•
+
+zhubné nádory
+
+•
+
+genetické účinky u potomstva
+
+2.3.4
+
+Deterministické účinky
+
+Deterministické účinky ionizujúceho žiarenia sú podmienené bunkovými stratami v
+dôležitých bunkových populáciách a týkajú sa veľkého počtu buniek. Charakteristické pre
+deterministických účinkov sú klinické príznaky, ktoré sú viditeľné vonkajším pozorovaním.
+Na molekulovej a bunkovej úrovni sa však aj u týchto účinkov uplatňuje moment
+stochastických zákonitostí (náhodnosť, štatistická pravdepodobnosť). Pri malých bunkových
+stratách nedochádza k porušeniu funkcie ale s rastúcou dávkou ionizujúceho žiarenia stúpa
+počet zasiahnutých jednotiek bunkovej populácie a pri dosiahnutí určitého prahu pre dané
+poškodenie, derterministický účinok poškodenia zákonite nastáva. So zvyšovaním dávky
+teda rastie počet postihnutých buniek a s veľkosťou prekročenia prahu narastá závažnosť
+poškodenia. Prah môže byť veľmi nízky (rádovo 0,1 Gy alebo vyšší) a môže sa líšiť od osoby
+k osobe. Pri dávkach medzi 0,25 Gy a 0,5 Gy môžu byť lekárskymi vyšetreniami zistené
+mierne zmeny krvi a pri dávkach medzi 0,5 Gy a 1,5 Gy sa zaznamenajú zmeny krvi a
+objavia sa príznaky nauzey, únavy, vracania. Každé tkanivo má inú prahovú dávku (koža –
+3 Gy, pľúca - 5 Gy, spermie - 0,3 Gy, zárodok v maternici – 0,1 Gy, ...)
+Príznaky deterministických účinkov:
+•
+
+akútna choroba z ožiarenia
+
+•
+
+akútne lokálne zmeny
+
+•
+
+akútna dermatitída
+
+•
+
+poškodenie fertility
+
+•
+
+poškodenie vývoja plodu
+
+•
+
+nenádorové neskoré poškodenie
+
+•
+
+chronická rádiodermatitída
+25
+
+•
+
+3
+
+zákal očnej šošovky
+
+Základné princípy ochrany pred ionizujúcim žiarením
+
+Pri plánovaní a vykonávaní každej činnosti vedúcej k ožiareniu a rovnako v priebehu jej
+vykonávania je potrebné rešpektovať tri základné princípy radiačnej ochrany:
+Odôvodnenosť
+
+3.1
+
+Činnosť vedúcu k ožiareniu možno vykonávať len vtedy, ak je odôvodnená: za odôvodnenú
+činnosť sa považuje taká činnosť vedúca k ožiareniu, pri ktorej predpokladaný prínos pre
+osobu alebo pre spoločnosť prevažuje nad zdravotnou ujmou, ktorú môže táto činnosť
+spôsobiť.
+3.2
+
+Optimalizácia
+
+Každý, kto vykonáva činnosť vedúcu k ožiareniu, je povinný zabezpečiť, aby počet
+ožiarených osôb, úroveň a pravdepodobnosť ich ožiarenia boli trvalo udržiavané na čo
+najnižšej rozumne dosiahnuteľnej úrovni vzhľadom na súčasnú úroveň vedecko-technických
+poznatkov a na ekonomické a spoločenské faktory; týmto procesom sa zabezpečuje
+optimalizácia radiačnej ochrany.
+3.3
+
+Limitovanie
+
+Každý, kto vykonáva činnosť vedúcu k ožiareniu, je povinný obmedziť ožiarenie
+pracovníkov a obyvateľov zo všetkých vykonávaných činností tak, aby neprekročilo
+ustanovené limity ožiarenia .
+Základná bezpečnostná smernica v oblasti radiačnej ochrany Medzinárodnej Agentúry pre
+Atómovú Energiu pridala k vyššie uvedeným trom základným princípom radiačnej ochrany
+ešte explicitnú požiadavku na zaistenie bezpečnosti zdrojov ionizujúceho žiarenia.
+
+4
+
+Ciele radiačnej ochrany
+
+Základné ciele radiačnej ochrany vychádzajú z dvoch kategórií biologických účinkov
+ionizujúceho žiarenia. Základnými cieľmi radiačnej ochrany sú:
+•
+
+vylúčenie deterministických účinkov ionizujúceho žiarenia ako napr. poškodenie
+kože, oka alebo iných orgánov, znamená zabránenie vzniku týchto účinkov. Ako
+prostriedok k tomu, aby bolo možné vylúčiť deterministické účinky, slúži systém
+limitovania.
+26
+
+• zníženie pravdepodobnosti vzniku stochastických účinkov na spoločensky prijateľnú
+mieru
+Zníženie pravdepodobnosti vzniku stochastických účinkov (napr. rakoviny, leukémie,
+genetických poškodení) na spoločensky prijateľnú mieru znamená zaistenie takých
+osobných dávok, ktoré zaručia dosiahnutie spoločenských benefitov z využívania
+príslušného zdroja žiarenia pri udržaní pravdepodobnosti stochastických detrimentov na
+spoločensky prijateľnej úrovni. Prostriedkom pre splnenie cieľa radiačnej ochrany z
+hľadiska stochastických účinkov je taktiež princíp limitovania, popri ktorom sa však
+predovšetkým u profesionálnych pracovníkov so zdrojmi žiarenia musí naviac uplatniť aj
+princíp optimalizácie. (Gebeová Klára 2019)
+
+4.1 Limity ožiarenia pre jednotlivé skupiny osôb podľa (zákona č. 87/2018 Z.z.
+o radiačnej ochrane)
+Každý, kto vykonáva činnosť vedúcu k ožiareniu, je povinný obmedziť ožiarenie
+pracovníkov a obyvateľov zo všetkých vykonávaných činností tak, aby neprekročilo limity
+ožiarenia pre príslušnú skupinu osôb.
+
+4.1.1
+
+Limity ožiarenia pracovníka v kalendárnom roku sú:
+
+a) efektívna dávka 20 mSv,
+b) ekvivalentná dávka v očnej šošovke 20 mSv,
+c) ekvivalentná dávka v koži 500 mSv; vzťahuje sa na priemernú dávku na ploche
+ľubovoľného 1 cm2 bez ohľadu na veľkosť ožiarenej plochy kože,
+d) ekvivalentná dávka v končatinách 500 mSv.
+Limit efektívnej dávky alebo ekvivalentnej dávky pracovníka sa vzťahuje na súčet všetkých
+ročných efektívnych dávok alebo ekvivalentných dávok z vonkajšieho ožiarenia a úväzkov
+ročných efektívnych dávok alebo ekvivalentných dávok z príjmov rádioaktívnych látok zo
+všetkých zdrojov ionizujúceho žiarenia, ktorým bol pracovník vystavený pri pracovnej
+činnosti vedúcej k ožiareniu u jedného zamestnávateľa alebo súbežne u viacerých
+zamestnávateľov.
+
+4.1.2
+
+Limity ožiarenia obyvateľa v kalendárnom roku sú:
+27
+
+a) efektívna dávka 1mSv,
+b) ekvivalentná dávka v očnej šošovke 15 mSv,
+c) ekvivalentná dávka v koži 50 mSv vzťahuje sa na priemernú dávku na ploche
+ľubovoľného 1 cm2 bez ohľadu na veľkosť ožiarenej plochy kože.
+
+4.1.3
+
+Limity ožiarenia žiaka a študenta vo veku od 16 rokov do 18 rokov
+v kalendárnom roku sú:
+
+a) efektívna dávka 6 mSv,
+b) ekvivalentná dávka v očnej šošovke 15 mSv,
+c) ekvivalentná dávka v koži 150 mSv; vzťahuje sa na priemernú dávku na ploche
+ľubovoľného 1 cm2 bez ohľadu na veľkosť ožiarenej plochy kože,
+d) ekvivalentná dávka v končatinách 150 mSv.
+
+Limity ožiarenia žiaka a študenta staršieho ako 18 rokov sú rovnaké ako limity ožiarenia
+pracovníka.
+Limity ožiarenia sa nevzťahujú na lekárske ožiarenie:
+- pacienta a osoby bez príznakov choroby pri poskytovaní zdravotnej starostlivosti,
+- účastníka biomedicínskeho výskumu,
+- sprevádzajúcej osoby
+
+Lekárske ožiarenie sprevádzajúcej osoby musí byť optimalizované a nesmie prekročiť
+medzné dávky.
+4.1.4
+
+Medzná dávka sprevádzajúcej osoby je efektívna dávka:
+
+a) 1 mSv za kalendárny rok u osôb mladších ako 18 rokov,
+b) 5 mSv za kalendárny rok u iných osôb mladších ako 60 rokov,
+c) 15 mSv za kalendárny rok u osôb starších ako 60 rokov.
+
+28
+
+5
+
+Princíp optimalizácie
+
+Každý, kto vykonáva činnosti vedúce k ožiareniu, je povinný postupovať tak, aby riziko
+ohrozenia fyzickej osoby a životného prostredia bolo tak nízke, ako je možné rozumne
+dosiahnuť pri zohľadnení súčasnej úrovne vedy a techniky a všetkých ekonomických a
+spoločenských hľadísk.
+Optimalizácia radiačnej ochrany je neustále opakovaný proces, ktorý slúži k dosiahnutiu
+a udržaniu takej úrovne radiačnej ochrany, aby ožiarenie fyzickej osoby a životného
+prostredia bolo tak nízke, ako je možné rozumne dosiahnuť pri uvážení všetkých
+ekonomických a spoločenských hľadísk.
+Neustále cyklické opakovanie procesu optimalizácie má za cieľ postupne znižovať dávkové
+záťaže. Dôležitým prvkom optimalizačného procesu je jeho pravidelnosť. Pri vykonávaní
+optimalizácie musia byť zohľadnené všetky novovzniknuté podmienky expozičnej situácie
+a musia byť uplatnené nové možnosti a prostriedky zvýšenia úrovne radiačnej ochrany.
+Na oddelení nukleárnej medicíny sa optimalizačné postupy uplatňujú pri:
+• optimalizácii ožiarenia pracovníka
+•
+
+optimalizácii lekárskeho ožiarenia pacienta
+
+• optimalizácii lekárskeho ožiarenia sprevádzajúcej osoby
+
+5.1
+
+Postupy optimalizácie
+Optimalizácia sa vykonáva počas vykonávania činnosti vedúcej k ožiareniu
+
+pravidelným rozborom prijatých dávok vo vzťahu k vykonávanej činnosti, zohľadnením
+ďalších možných opatrení na zabezpečenie radiačnej ochrany a porovnaním vykonávanej
+činnosti s podobnou spoločensky prijateľnou vykonávanou činnosťou.
+Rôzne alternatívne opatrenia na zabezpečenie radiačnej ochrany posudzované pri
+optimalizácii radiačnej ochrany nemôžu viesť k ožiareniu osoby, ktoré by bolo vyššie ako
+limity ožiarenia, a musia byť v súlade s medznými dávkami.
+Pri optimalizácii radiačnej ochrany sa určia varianty zabezpečenia radiačnej ochrany a
+z nich sa vyberie optimálny variant zabezpečenia radiačnej ochrany v jednotlivej situácii
+ožiarenia.
+Opatrenia na zabezpečenie radiačnej ochrany osôb alebo skupín osôb sa môžu uplatniť
+
+29
+
+- pri zdroji ionizujúceho žiarenia,
+- v prostredí medzi zdrojom ionizujúceho žiarenia a osobou,
+- u osoby.
+Pri výbere optimálneho variantu zabezpečenia radiačnej ochrany sa uprednostňuje
+obmedzenie ožiarenia priamo pri zdroji ionizujúceho žiarenia.
+Pri výbere optimálneho variantu zabezpečenia radiačnej ochrany sa zvažujú:
+-úrovne ožiarenia osôb na porovnanie možností zníženia plánovaných, vykonávaných alebo
+potenciálnych dávok osôb alebo skupín osôb,
+-medzné dávky alebo referenčné úrovne, ak sú pre danú činnosť určené, technické,
+organizačné a ekonomické hľadiská
+
+Pri kvantitatívnej optimalizácii radiačnej ochrany sa spravidla porovnávajú náklady na rôzne
+opatrenia na zlepšenie radiačnej ochrany, ako je zmena zdroja ionizujúceho žiarenia,
+premiestnenie osôb, vybudovanie dodatočných bariér, použitie špeciálnych nástrojov alebo
+osobných ochranných pracovných prostriedkov a ochranných pomôcok, s finančným
+ohodnotením očakávaného prínosu daného opatrenia.
+Podľa odporúčaní ICRP č. 101 je kvantitatívne hodnotenie (cost – benefit) skôr následný
+postup, zvýrazňuje sa dôležitosť analýzy a hodnotenie dostupných možností. Pri
+vykonávaní/posúdení optimalizácie sa uprednostňuje skôr dobrá prax a najlepšie dostupné
+technológie za akceptovateľnú cenu.
+
+5.1.1
+
+Optimalizácia ožiarenia pracovníka
+
+Súčasný stav vývoja osobných ochranných pracovných pomôcok, tieniacich pomôcok a
+zariadení, automatických rozplňovacích a infúznych zariadení umožnil výrazné zníženie
+radiačnej záťaže personálu oproti minulosti.
+5.1.2
+
+Optimalizácia lekárskeho ožiarenia pacienta
+
+Lekárske ožiarenie je odôvodnené, ak sa preukáže jeho dostatočný prínos v porovnaní
+s individuálnou ujmou, ktorú ožiarenie môže spôsobiť, pričom sa zohľadňuje celkový
+možný diagnostický prínos alebo liečebný prínos lekárskeho ožiarenia pre zdravie
+30
+
+jednotlivca a prínos pre spoločnosť a prihliada sa aj na účinnosť, prínos a riziká dostupných
+alternatívnych techník, ktoré vedú k rovnakému výsledku, ale vyžadujú menšie ožiarenie
+alebo ožiarenie nevyžadujú.
+Princíp optimalizácie sa pri vykonávaní lekárskeho ožiarenia, okrem lekárskeho ožiarenia
+pri liečbe, uplatňuje udržiavaním výšky dávok na takej nízkej úrovni, ktorá je rozumne
+dosiahnuteľná pri získaní požadovaných diagnostických informácií a zohľadnení
+ekonomických a sociálnych faktorov.
+
+5.1.3
+
+Optimalizácia lekárskeho ožiarenia zahŕňa
+
+Podľa (Vyhlášky MZ SR č.101/2018 Z.z.):
+-výber vhodného zariadenia na lekárske ožiarenie na diagnostiku,
+-výber optimálneho vyšetrovacieho postupu,
+-získanie všetkých dostupných diagnostických informácií a lekárskych záznamov
+o predchádzajúcich vyšetreniach pacienta dôležitých na plánované lekárske ožiarenie a ich
+zohľadnenie pri vykonaní lekárskeho ožiarenia, aby sa predišlo zbytočnému opakovaniu
+vyšetrení pacienta,
+-použitie optimálnych expozičných parametrov pri vyšetrení počítačovou tomografiou, ktoré
+zabezpečia, aby dávka pacienta pri CT vyšetrení bola na tak nízkej úrovni, ktorá je rozumne
+dosiahnuteľná pri získaní požadovaných diagnostických informácií,
+-sledovanie dodržiavania ustanovených diagnostických referenčných úrovní (Vestník MZ
+SR 2018, čiastka 31-32),
+-použitie osobných ochranných prostriedkov pre pacienta,
+-výber vhodného rádionuklidu a chemickej formy rádioaktívnej látky aplikovanej pacientovi
+a stanovenie aktivity nevyhnutne potrebnej na vyšetrenie v nukleárnej medicíne,
+-overenie aktivity rádioaktívnej látky aplikovanej pacientovi pri vyšetrení v nukleárnej
+medicíne,
+-dodržanie štandardných postupov na vykonanie lekárskeho ožiarenia,
+-stanovenie dávky pacienta pri vyšetrení,
+-poskytovanie informácií pacientovi a sprevádzajúcej osobe o veľkosti ožiarenia a o rizikách
+ionizujúceho žiarenia vzhľadom na vykonané lekárske ožiarenie.
+31
+
+Poskytovateľ zdravotnej starostlivosti vedie o každom vykonanom lekárskom ožiarení
+záznam, ktorého súčasťou sú údaje o dávke, ktorú dostal vyšetrovaný pacient alebo údaje
+umožňujúce stanoviť veľkosť ožiarenia. Pri lekárskom ožiarení tehotnej ženy poskytovateľ
+zdravotnej starostlivosti zabezpečí aj stanovenie veľkosti dávky v plode.
+Pri
+
+vykonávaní
+
+a administratívnych
+
+lekárskeho
+
+ožiarenia
+
+požiadaviek
+
+na
+
+za
+
+plnenie
+
+zabezpečenie
+
+bezpečnostných,
+radiačnej
+
+ochrany
+
+technických
+zodpovedá
+
+zdravotnícky pracovník, ktorý vykonáva lekárske ožiarenie.
+
+5.1.4
+
+Optimalizácia lekárskeho ožiarenia sprevádzajúcej osoby
+
+Sprevádzajúca osoba je fyzická osoba, ktorá sprevádza pacienta alebo opatruje pacienta
+vystaveného lekárskemu ožiareniu a ktorá je vystavená ožiareniu tým, že mimo rámca
+svojich pracovných povinností vedome a dobrovoľne pomáha fyzickej osobe, ktorá sa
+podrobuje lekárskemu ožiareniu alebo sa stará o pacienta prepusteného po aplikácii
+rádioaktívnej látky zo zdravotníckeho zariadenia, žije s ním v spoločnej domácnosti alebo
+ho navštevuje.
+Sprevádzajúca osoba musí byť vopred informovaná o rizikách vyplývajúcich z lekárskeho
+ožiarenia a pri jej vystavení lekárskemu ožiareniu sa musia dodržať požiadavky na
+zabezpečenie radiačnej ochrany.
+Ak je sprevádzajúcou osobou žena v reprodukčnom veku je potrebné zistiť, či nie je tehotná.
+Ak je žena tehotná, je potrebné ju upozorniť, že nemôže pacienta sprevádzať ani ho
+opatrovať.
+
+6
+
+Dozimetria
+
+Dozimetre sú zariadenia na meranie dávok ionizujúceho žiarenia. Princíp dozimetrie je
+založený na skutočnosti, že pri prechode hmotou ionizujúce žiarenie odovzdáva svoju
+energiu. V tejto hmote spôsobí zmeny fyzikálnych, chemických alebo biologických
+vlastností, ktoré sú priamo úmerné veľkosti absorbovanej dávky. Tieto zmeny zaznamenáva
+detektor, ktorý je základnou súčasťou každého dozimetra. (Klener 2000)
+Dôležitou úlohou dozimetrie je stanoviť dávky žiarenia v tkanivách živého organizmu.
+Pomocou dozimetra môžeme zistiť rozsah zdroja ionizujúceho žiarenia, či predstavuje riziko
+a či je potrebné zavedenie ochranných opatrení (Darmová, 2009).
+32
+
+Dozimetrické prístroje sa delia:
+• podľa typu detektora – ionizačné detektory, scintilačná sonda, film, termoluminiscenčný
+detektor,
+• podľa spôsobu použitia – terénne, laboratórne,
+• podľa systému monitorovania – osobné dozimetre, dozimetre na meranie pracovného a
+životného prostredia
+V súčasnosti používané osobné dozimetre
+•
+
+filmová dozimetria (najstaršia metóda)- Ich činnosť je založená na schopnosti
+ionizujúceho žiarenia spôsobiť sčernenie citlivej fotografickej vrstvy, pričom stupeň
+sčernenia je úmerný dávke žiarenia.
+
+•
+
+termoluminiscencia (metóda s najširším použitím)- je založená na vlastnosti určitých
+kryštálov, ktorých atómy sa účinkom žiarenia excitujú. Množstvo emitovaných
+fotónov je úmerné dávke žiarenia.
+
+•
+6.1
+
+opticky stimulovaná luminiscencia.
+Osobné monitorovanie pomocou termoluminiscenčných dozimetrov
+
+Každý pracovník v kontrolovanom pásme musí byť vybavený osobným dozimetrom.
+Najčastejšie sú používané termoluminiscenčné osobné dozimetre.
+Energetický rozsah citlivosti TL-dozimetrov je 20 keV až 10 MeV pre fotónové žiarenie a
+170 keV až 2,7 MeV pre žiarenie beta. Výsledok merania odozvy TL-dozimetrov je
+uvádzaný v jednotkách sievert (Sv) ako osobný dávkový ekvivalent Hp(10) – osobný
+dávkový ekvivalent v hĺbke 10 mm, ekvivalentná dávka v očnej šošovke Hp(3) – osobný
+dávkový ekvivalent v hĺbke 3 mm, ekvivalentná dávka v koži a končatinách Hp(0,07) –
+osobný dávkový ekvivalent v hĺbke 0,07 mm. Z týchto hodnôt ďalej možno stanoviť
+efektívnu dávku z externých zdrojov ionizujúceho žiarenia. Bez bližšej špecifikácie
+ožarovacích podmienok možno celotelovými osobnými TL-dozimetrami merať hodnoty od
+0,05 mSv do 20 Sv s presnosťou lepšou ako ± 35 %.
+Prstový TL-dozimeter je určený pre použitie na pracoviskách so zvýšeným rizikom ožiarenia
+prstov, resp. rúk, kde sa vyskytujú zdroje fotónového žiarenia s energiou 20 keV až 10 MeV.
+Výsledok merania odozvy dozimetra sa udáva ako ekvivalentná dávka v mieste umiestnenia
+TL-dozimetra (osobný dávkový ekvivalent v hĺbke 0,07 mm). Bez bližšej špecifikácie
+ožarovacích podmienok možno prstovým TL-dozimetrom merať hodnoty od 0,1 mSv do 20
+Sv s presnosťou do ± 35 %.
+33
+
+Osobné termoluminiscenčné dozimetre:
+Miesto
+
+Úroveň [mSv]
+
+nosenia
+Vyhodnocovacie
+
+dozimetra
+
+obdobie
+
+záznamová
+
+vyšetrovacia
+
+zásahová
+
+Hp(10)
+
+1 mesiac
+
+každá
+
+2,0
+
+10
+
+Hp(0,07)
+
+1 mesiac
+
+každá
+
+10,0
+
+500
+
+Hp(3)
+
+1 mesiac
+
+každá
+
+2,0
+
+10
+
+vonkajšieho ožiarenia 1 mesiac
+
+každá
+
+2,0
+
+10
+
+každá
+
+-
+
+20
+
+záznamová
+
+vyšetrovacia
+
+zásahová
+
+vo výške hrudníka
+
+efektívna
+
+dávka
+
+z
+
+Eext
+efektívna
+
+dávka
+
+z
+
+vonkajšieho ožiarenia
+Eext
+
+niekoľko
+mesiacov
+
+Tabuľka č. 2 - Osobné termoluminiscenčné dozimetre
+
+Prstové termoluminiscenčné dozimetre:
+Miesto
+dozimetra
+najviac
+
+Úroveň [mSv]
+
+nosenia
+Vyhodnocovacie
+exponovaný obdobie
+
+prst zo strany dlane
+Hp(0,07)
+
+1 mesiac
+
+každá
+
+20
+
+250
+
+Hp(0,07)
+
+niekoľko mesiacov každá
+
+-
+
+500
+
+Tabuľka č. 3 - Prstové termoluminiscenčné dozimetre
+
+Elektronické osobné dozimetre
+
+34
+
+Osoba vstupujúca do
+Vyhodnocova
+kontrolovaného
+cie obdobie
+pásma
+
+Meraná hodnota Hp(10) [µSv]
+záznamová vyšetrovacia
+
+zásahová
+
+1 deň
+
+každá
+
+90
+
+100
+
+Návšteva,
+externý
+servisný pracovník
+
+1 deň
+
+každá
+
+9
+
+10
+
+Sprievod pacienta
+
+1 deň
+
+každá
+
+90
+
+100
+
+Pracovník
+s
+ionizujúcim žiarením
+kategórie A
+
+Tabuľka č. 4 - Referenčné úrovne pre operatívne monitorovanie pomocou elektronických
+osobných dozimetrov
+6.2
+
+Systém elektronickej osobnej dozimetrie
+
+Systém elektronickej osobnej dozimetrie (SEOD), ako súčasť systému radiačného
+monitoringu, je určený na operatívne sledovanie dennej radiačnej záťaže osôb
+prostredníctvom signálnych elektronických osobných dozimetrov.
+Funkcie systému SEOD
+informuje osobu o prijatej hodnote Hp(10) počas pobytu v KP, príp.
+•
+informuje o prekročení nastavenej signalizačnej úrovne Hp(10) alebo príkonu Hp(10),
+pre každú osobu sumarizuje čerpanie Hp(10) za obdobie 1 mesiaca a
+•
+kalendárneho roka,
+
+7
+
+•
+
+umožňuje limitovať individuálne čerpanie dávok v súlade s platnou legislatívou,
+
+•
+
+prístup do systému je riešený viacúrovňovým systémom prístupových práv.
+
+Praktická časť
+
+Praktická časť bude venovaná analýze výpočtov predpokladaného prieniku rádioaktívneho
+žiarenia jednotlivými typmi stavebných materiálov a možnosťami tienenia. Na vypracovanie
+výpočtov použijeme hypoteticky vytvorené pracovisko nukleárnej medicíny.
+7.1
+
+Ciele praktickej časti
+
+V praktickej časti sa zameriavame na skúmanie možností optimalizácie radiačnej ochrany
+analýzou účinnosti rôznych typov stavebných materiálov pri tienení a prenikaní
+ionizujúceho žiarenia. Hodnotenie stavebných materiálov na účinné tienenie pred žiarením
+je kľúčové pre zaistenie bezpečnosti a pohody pracovníkov na pracovisku nukleárnej
+medicíny. Primárnym cieľom tejto praktickej časti je preto analyzovať možnosti prieniku a
+ochrany ionizujúceho žiarenia rôznymi druhmi stavebných materiálov. Zistenia tejto štúdie
+35
+
+poskytnú cenné poznatky o optimalizácii radiačnej ochrany na pracovisku v nukleárnej
+medicíne.
+7.2
+
+Metóda
+
+Výpočty boli vypočítané pomocou prenosného monitoru CoMo-170 NUVIATECH,
+prenosného meradla príkonu dávkového ekvivalentu FH 40 G-L 10, a pomocou
+stochastických výpočtov metódy Monte Carlo.
+7.2.1
+
+Prenosný monitor povrchovej kontaminácie CoMo-170 NUVIATECH
+
+Prenosný monitor povrchovej kontaminácie CoMo-170 NUVIATECH je prenosný prístroj
+určený pre meranie povrchovej kontaminácie beta a gama.
+Základné technické parametre prístroja CoMo-170 NUVIATECH uvádza tabuľka č. 7.
+
+Minimálna
+detekovateľná
+aktivita pre 18F
+
+0,06 Bq/cm2
+
+detektor
+
+Kombinovaný ZnS + plastický scintilátor
+166 cm2
+
+Plocha detektora
+
+170 cm2
+
+rozmery
+
+280 × 125 × 135 mm
+
+hmotnosť
+
+800 g
+
+Tabuľka č. 5 -Základné technické parametre prístroja CoMo-170 NUVIATECH
+7.2.2
+
+Prenosné meradlo príkonu dávkového ekvivalentu FH 40 G-L 10
+
+FH 40 G-L 10 je prenosný prístroj určený na meranie príkonu priestorového dávkového
+ekvivalentu gama žiarenia.
+Základné technické parametre meradla FH 40 G-L 10
+
+merací rozsah
+
+1E-7 – 1 Sv/h / 1E-8 – 1 Sv/h / 1E-8 – 1E-1
+Sv/h
+
+energetický rozsah
+
+0,036 – 1,3 MeV / 0,033 – 3 MeV / 0,033 –
+3 MeV
+
+prevádzková teplota
+
+- 30 až + 55 °C
+
+36
+
+Relatívna
+
+vlhkosť
+
+10 až 95 %
+
+vzduchu
+rozmery
+
+195 × 73 × 42 mm
+
+hmotnosť
+
+410 g
+
+Tabuľka č. 6 -Základné technické parametre meradla FH 40 G-L 10
+
+7.2.3
+
+Monte Carlo
+
+Metóda Monte Carlo je trieda algoritmov na simuláciu systémov, používajúce náhodné alebo
+pseudonáhodné čísla. Monte Carlo je
+
+využívané na výpočet integrálov, najmä
+
+viacrozmerných, kde bežné metódy nie sú efektívne.
+Techniku pôvodne vyvinul Stanislaw Ulam, matematik, ktorý pracoval na projekte
+Manhattan. Svoj nápad zdieľal s Johnom Von Neumannom, kolegom z projektu Manhattan,
+a obaja spolupracovali na zdokonalovaní simulácie Monte Carlo.
+Metóda Monte Carlo má široké využitie:
+•
+
+simulácie experimentov
+
+•
+
+počítanie integrálov
+
+•
+
+riešenie diferenciálnych rovníc
+
+•
+
+simulácie finančného trhu
+
+•
+
+simulácie dopravného prúdu
+
+•
+
+environmentálne vedy
+
+•
+
+fyzika častíc
+
+•
+
+kvantová teória poľa
+
+•
+
+astrofyzika
+
+•
+
+molekulárne modelovanie
+
+37
+
+•
+
+polovodičové zariadenia
+
+•
+
+problémy s optimalizáciou
+
+Základná myšlienka metódy je veľmi jednoduchá, chceme určiť strednú hodnotu veličiny,
+ktorá je výsledkom náhodného deja. Vytvorí sa počítačový model tohto deja a po prebehnutí
+dostatočného množstva simulácií sa môžu dáta spracovať klasickými štatistickými
+metódami, napríklad určiť priemer a smerodajnú odchýlku.
+Rozlišujú sa dva varianty metódy Monte Carlo:
+•
+
+analógový
+
+•
+
+neanalógový model
+
+Analógový model
+Musíme vedieť modelovať celú situáciu na počítači, to znamená napríklad poznať všetky
+pravdepodobnostné rozloženia skúmaných javov a fyzikálne zákonitosti, ktorými sa riadia.
+Prevedením tejto simulácie získame výsledok, realizáciu akejsi náhodnej veličiny.
+Neanalógový model
+Tak sa nazýva prípad, keď pri výpočte nepoužívame model reálneho deja. Napríklad výpočet
+určitého integrálu, prípadne obsahu ohraničeného útvaru.
+Hlavnou výhodou integrácie touto metódou je jej jednoduchosť. Nevýhodou je, že presnost
+výpočtu je veľmi malá, obzvlášť ak má integrovaná funkcia úzke maximá.
+
+Stochastická simulácia
+Stochastická simulácia je simulácia, ktorá pracuje s veličinami u ktorých sa predpokladajú
+zmeny nastávajúce s určitou pravdepodobnosťou. Stochastická simulácia je nástroj, ktorý
+umožňuje Monte Carlo analýzu priestorovo rozdelených vstupných premenných.
+Stochastický znamená byť premenlivý, alebo obsahujúci náhodnú premennú.
+Tieto náhodné premenné môžu byť:
+•
+
+Diskrétne - označujúce prítomnosť alebo neprítomnosť postavy
+
+•
+
+Kontinuálne - ako sú hodnoty pórovitosti alebo priepustnosti
+
+38
+
+•
+
+Náhodné množiny, ako sú elipsy s daným rozložením veľkosti a pomeru strán alebo
+tvary nakreslené náhodne z frekvenčnej tabuľky zaznamenaných tvarov
+
+Množina náhodných premenných môže byť ľubovoľná kombinácia týchto typov. Niektoré
+náhodné premenné môžu byť funkciami geografických súradníc.
+Výsledky musia overiť ľubovoľný počet alebo všetky z nasledujúcich typických podmienok:
+•
+
+Všetky výsledky sú rovnako pravdepodobné, čo však neznamená, že sú všetky podobné. Najmä jedna realizácia môže byť podobná niektorým a predsa odlišná od
+iných. celkom
+
+•
+
+Histogram simulovaných hodnôt ktoréhokoľvek atribútu primerane reprodukuje
+funkciu hustoty pravdepodobnosti zodpovedajúceho modelu náhodných premenných.
+
+•
+
+Charakteristiky závislosti medzi akýmikoľvek dvoma náhodnými premennými sú
+reprodukované zodpovedajúcimi realizáciami. Tieto dve náhodné premenné sa môžu
+vzťahovať k rovnakému atribútu na dvoch rôznych miestach v priestore alebo k
+dvom rôznym atribútom buď na rovnakom mieste, alebo na dvoch rôznych miestach.
+
+•
+
+Všetky výsledky rešpektujú hodnoty vzorových údajov. V priestorovom kontexte,
+kde sa všetky náhodné premenné týkajú rovnakého atribútu na rôznych miestach, sa
+rovná rešpektovaniu hodnôt vzorky na ich miestach. Táto podmienka je tiež známa
+ako podmienka presnosti a zodpovedajúce realizácie sa označujú ako podmienené
+hodnotami údajov
+
+Stochastická simulácia je založená na samostatne sa opakujúcich fraktálových modeloch.
+Takéto modely zodpovedajú vzorcom priestorovej variability, ktoré sa opakujú bez ohľadu
+na použitú stupnicu vzdialenosti. Súčasná schopnosť generovať veľké množstvo veľmi
+veľkých stochastických simulácií veľmi rýchlo ďaleko prevyšuje schopnosť pozrieť sa na
+zodpovedajúce (stochastické) obrázky a schopnosť spracovať ich pomocou realistických
+simulátorov prúdenia. Prekážkou pre systematické využívanie prístupu Monte Carlo už nie
+je stochastická simulácia, ale skôr počítačová grafika a simulátory prúdenia, ktoré sú
+momentálne príliš pomalé.
+
+39
+
+7.3
+
+Charakteristika nukleárnej medicíny
+
+Nukleárna medicína je samostatný medicínsky odbor, ktorý využíva na diagnostiku a liečbu
+rádiofarmaká vo forme otvorených žiaričov emitujúcich ionizujúce žiarenie. Diagnostika v
+nukleárnej medicíne je realizovaná s využitím rádiofarmák (farmaceutické preparáty sú
+značené vhodným rádionuklidom), pričom rádiofarmakum je orgánovo aj funkčne
+špecifické. Aplikácia rádiofarmaka do organizmu je najčastejšie intravenózne, ďalej
+inhalačne, subkutánne, intradermálne, submukózne. Distribúcia rádiofarmaka v organizme
+je výsledkom jeho biologických, chemických a fyzikálnych vlastností. Diagnostickými
+metódami v nukleárnej medicíne sa posudzuje funkcia orgánu alebo orgánového systému,
+získava sa obraz patologických ložísk, vyhodnocuje sa priebeh metabolického deja na
+základe distribúcie podaného rádiofarmaka v organizme. (Ján Lepej 2018)
+
+7.3.1
+
+Charakteristika používaných žiaričov na pracovisku nukleárnej medicíny
+
+7.3.1.1 Charakteristika otvorených žiaričov
+Otvorený rádioaktívny žiarič je rádioaktívny žiarič, ktorý nespĺňá podmienky uzavretého
+rádioaktívneho žiariča. Ich hlavnou nevýhodou je, že môžu kontaminovať vonkajšie
+prostredie.
+Zoznam a charakteristika zdrojov ionizujúceho žiarenia na pracovisku nukleárnej medicíny
+uvádza tabuľka č.
+
+Rádionuklid
+
+18F
+
+Doba
+
+Využívaná energia žiarenia
+
+polpremeny
+
+(keV)
+
+110 min.
+
+511keV
+
+Fyzikálne
+vlastnosti, dodaná
+forma
+Injekčný roztok
+
+Tabuľka č. 7 - Zoznam a charakteristika zdrojov ionizujúceho žiarenia na pracovisku
+nukleárnej medicíny
+
+Fluór 18F sa rozpadá na stabilný kyslík (18O) s dobou polpremeny 110 minút emitovaním
+pozitrónov s maximálnou energiou 634 keV s následnou anihiláciou s emisiou fotónov s
+energiou 511 keV.
+
+40
+
+7.3.1.2 Uzavreté rádioaktívne žiariče
+Uzavretý rádioaktívny žiarič je rádioaktívny žiarič ktorého konštrukcia zabezpečuje tesnosť,
+ktorá pri bežnom použitý vylučuje únik rádioaktívnych látok zo zdroja ionizujúceho
+žiarenia.
+Uzavreté rádioaktívne žiariče sú na oddelení nukleárnej medicíny používané na kalibráciu
+alebo funkčnú kontrolu prístrojov.
+Obstaranie nového uzavretého rádioaktívneho žiariča musí byť vopred odsúhlasené aj
+odborným zástupcom pre radiačnú ochranu, a to aj v tom prípade, ak uzavretý rádioaktívny
+žiarič je integrálnou súčasťou obstarávaného prístroja.
+Už v procese obstarávania musí byť odborným zástupcom pre radiačnú ochranu stanovená
+osoba, ktorá bude zodpovedná za zaobchádzanie s uzavretým rádioaktívnym žiaričom v
+zmysle podmienok stanovených zákonom č. 87/2018 Z. z. o radiačnej ochrane.
+Povinnosťou osoby zodpovednej za uzavretý rádioaktívny žiarič je:
+Viesť záznamy o každom uzavretom žiariči, za ktorého prevádzku zodpovedá.
+V spolupráci s úsekom radiačnej ochrany zabezpečovať pravidelné skúšky dlhodobej
+stability a skúšky prevádzkovej stálosti uzavretého žiariča podľa § 85 a podľa prílohy č. 9
+zákona č. 87/2018 Z. z. o radiačnej ochrane.
+Overovať najmenej dvakrát ročne, či uzavretý žiarič alebo zariadenie obsahujúce uzavretý
+žiarič nie je poškodené a nachádza sa na určenom mieste.
+Dbať o bezpečnosť uzavretého žiariča, zabezpečovať ho proti odcudzeniu a neoprávnenej
+manipulácii.
+Vypracovať pracovný postup a návod na bezpečné používanie uzavretého žiariča
+a stacionárneho zariadenia alebo mobilného zariadenia, ktoré obsahuje uzavretý žiarič.
+
+7.3.2
+
+Miestnosti na pracovisku nukleárnej medicíny s tieniacimi vrstvami v stenách
+
+41
+
+Obrázok č. 8 -Pracovisko nukleárnej medicíny.
+Miestnosti na pracovisku
+M1- PET/CT čakáreň
+M2- ambulancia
+M3-Technická miestnosť PET/CT
+M4- WC
+M5- vyšetrovňa PET/CT
+M6- miestnosť ovládača PET/CT
+M7- aplikačný box
+42
+
+M8- sklad
+M9- aplikačný box
+CH1- chodba
+CH2- chodba
+CH3- chodba
+
+7.3.2.1 Pracovisko č.1- postavené s ohľadom na žiarenie z CT prístrojov
+
+PET/CT čakáreň M1stena 50SDK 1mm Pb
+
+Ambulancia M2stena 50SDK
+
+Technická miestnosť PET/CT M3stena susediaca s miestnosťou M2(ambulancia) stena 50SDK
+stena susediaca s miestnosťou M5(vyšetrovňa PET/CT) 50SDK 2.5mm Pb
+
+WC M4stena 50SDK
+Vyšetrovňa PET/CT M5stena susediaca s miestnosťou M3(Technická miestnosť PET/CT)- 50SDK 2.5mm Pb
+stena susediaca s miestnosťou CH2(chodba)- 50SDK 2mm Pb
+dvere susediace s miestnosťou CH2(chodba)- 2mm Pb
+
+43
+
+stena susediaca s miestnosťou CH3(chodba)- 50SDK 2mm Pb
+stena susediaca s miestnosťou M6(miestnosť ovládača PET/CT)- 6.7mm Pb
+dvere susediace s miestnosťou M6(miestnosť ovládača PET/CT )- 6.7mm Pb
+
+Miestnosť ovládača PET/CT M6stena susediaca s miestnosťou M5(vyšetrovňa PET/CT)- 6.7mm Pb
+dvere susediace s miestnosťou M5(vyšetrovňa PET/CT)- 6.7mm Pb
+stena susediaca s miestnosťou CH3(chodba)- 50SDK
+
+Aplikačný box M7stena susediaca s miestnosťou CH3(chodba)- 50SDK
+stena susediaca s miestnosťou M8(sklad)- 50SDK 1mm Pb
+susediaca stena s exteriérom 150beton
+
+Sklad M8stena susediaca s miestnosťou M7(aplikačný box)- 50SDK 1mm Pb
+stena smerom k miestnosti M9(aplikačný box)- 50SDK
+susediaca stena s exteriérom 150beton
+Aplikačný box M9stena 50SDK
+7.3.2.2 Pracovisko č.2- postavené s ohľadom na žiarenie z rádiofarmák (pracovisko
+po dotienení)
+
+PET/CT čakáreň M1stena 200FeBeton, 50SDK 1mm Pb
+dvere 8mm Pb
+44
+
+Ambulancia M2stena 50SDK
+
+Technická miestnosť PET/CT M3stena susediaca s miestnosťou M2(ambulancia)- 50SDK
+stena susediaca s miestnosťou M5(vyšetrovňa PET/CT)- 50SDK 2.5mm Pb
+
+WC M4stena 50SDK
+
+Vyšetrovňa PET/CT M5stena susediaca s miestnosťou M3(technická miestnosť PET/CT)- 50SDK 2.5mm Pb
+stena susediaca s miestnosťou CH2(chodba)- 50SDK 2mm Pb
+dvere susediace s miestnosťou CH2(chodba)- 2mm Pb
+stena susediaca s miestnosťou CH3(chodba)- 200FeBeton, 50SDK 2mm Pb
+stena susediaca s miestnosťou M6(miestnosť ovládača PET/CT)- 6.7mm Pb
+dvere susediace s miestnosťou M6(miestnosť ovládača PET/CT )- 6.7mm Pb
+Miestnosť ovládača PET/CT M6stena susediaca s miestnosťou M5(vyšetrovňa PET/CT)- 6.7mm Pb
+dvere susediace s miestnosťou M5(vyšetrovňa PET/CT)- 6.7mm Pb
+stena susediaca s miestnosťou CH3(chodba)- 50SDK
+
+Aplikačný box M7stena susediaca s miestnosťou CH3(chodba)- 200FeBeton
+45
+
+dvere 8mm Pb
+stena susediaca s miestnosťou M8(sklad)- 100FeBeton, 50SDK 1mm Pb
+sesediaca stena s exteriérom 150beton
+
+Sklad M8stena susediaca s miestnosťou M7(aplikačný box)- 100FeBeton, 50SDK 1mm Pb
+stena smerom k miestnosti M9(aplikačný box)- 50SDK
+susediaca stena s exteriérom 150beton
+
+Aplikačný box M9stena 200FeBeton
+dvere 8mm Pb
+
+46
+
+Obrázok č. 9- Dotienené steny na pracovisku nukleárnej medicíny
+7.4
+
+Výpočet vplyvu dotienenia priestorov oddelenia nukleárnej medicíny tieniacimi
+vrstvami FeBetonu
+
+Navrhované zmeny prispejú k zníženiu radiačnej záťaže pracovníkov oddelenia nukleárnej
+medicíny v miestach ich trvalej prítomnosti počas vyšetrovania pacientov.
+Úroveň vplyvu vykonaných zmien na zvýšenie radiačnej ochrany po ich realizácii
+dokumentujeme v tabuľkách výpočtov hodnôt príkonu priestorového dávkového
+ekvivalentu H*(10) a ročnej kumulovanej efektívnej dávky pre vybrané kritické miesta
+pracoviska oddelenia nukleárnej medicíny.
+
+47
+
+Posudzované kritické miesta (celkom 6) na pracovisku nukleárnej medicíny, na ktorých boli
+vykonávané merania:
+
+Obrázok
+č. 10- Posudzované kritické miesta (celkom 6) na pracovisku nukleárnej medicíny, na
+ktorých boli vykonávané merania.
+Posudzované kritické miesta:
+1. Miestnosť ovládača PET/CT M6
+2. Ambulancia M2
+3. Chodba CH2 pred WC M4
+4. Chodba CH1 vedľa čakárne pacientov PET/CT M1
+5. Chodba CH3 medzi aplikačnými boxami PET/CT
+48
+
+6. Sklad M8
+Pred vyšetrením na PET/CT je pacientovi aplikovaná aktivita rádiofarmaka 18F-FDG v
+množstve 3 MBq/kg telesnej hmotnosti, t.j. 80 kg pacientovi sa aplikuje 240 MBq
+rádiofarmaka 18F-FDG.
+Aktivita 240 MBq rádionuklidu F-18 je pritom vo výpočte uvažovaná ako netienený bodový
+zdroj fotónového žiarenia. Tento predpoklad je z hľadiska intenzity zdroja (pacienta po
+aplikácii) silne konzervatívny. Telo pacienta absorbuje približne 36 percent hodnoty dávky
+fotónového žiarenia 511 keV, takže aktivita 240 MBq netieneného zdroja zodpovedá asi 370
+MBq pacientovi aplikovaného rádiofarmaka. Pacient sa pritom pohybuje v priestoroch
+oddelenia nukleárnej medicíny po dobu niekoľkých hodín. Za prvé dve hodiny poklesne
+aplikovaná aktivita na polovicu v dôsledku fyzikálneho rozpadu, cca. 20 % aktivity sa vylúči
+močom. Celkovo preto 240 MBq netienený zdroj F-18 zodpovedá pacientovi na začiatku
+vyšetrenia podanej aktivite cca. 500 MBq.
+Pri výpočtoch bolo vychádzané z nasledovných predpokladov:
+•
+
+na oddelení NM je prítomných 10 pacientov s aplikovaným rádiofarmakom
+označeným rádionuklidom F-18
+
+•
+
+každému pacientovi bola aplikovaná aktivita 240 MBq
+
+•
+
+rozmiestnenie pacientov je nasledovné:
+5 pacientov sa nachádza v čakárni PET
+2 pacienti sa nachádzajú v každej z dvoch aplikačných miestností PET
+1 pacient sa nachádza na lôžku PET/CT kamery
+
+•
+
+doba prítomnosti pacientov je 5 hodín denne, 1200 hodín ročne
+
+Možný výskyt rádionuklidov v priestoroch kontrolovaného pásma oddelenia nukleárnej
+medicíny sú definované v Tabuľke č. 8
+Miestnosti
+v kontrolovanom pásme
+
+Činnosť vykonávaná v Používané
+miestnosti
+rádionuklidy
+
+chodba CH1, CH2, CH3 Pohyb
+
+pacientov
+
+18
+a F
+
+personálu
+Ambulancia M2
+
+Príjem pacienta, rozhovor a
+kanylácia
+49
+
+v kontrolovanom pásme
+
+Činnosť vykonávaná v Používané
+miestnosti
+rádionuklidy
+
+sklad M8
+
+uložený materiál
+
+čakáreň PET/CT M1
+
+Čakáreň pacientov
+
+Miestnosti
+
+WC
+
+pre
+
+pacientov Toaleta pre pacientov
+
+18F
+
+18
+
+F
+
+PET/CT M4
+vyšetrovňa PET/CT M5
+
+Prebieha
+
+vyšetrenie
+
+18
+
+F
+
+pacientov
+miestnosť
+
+Práca
+rádiologických
+ovládača technikov pri konzole
+
+PET/CT M6
+technická miestnosť M3
+
+aplikačné boxy PET/CT
+
+Aplikácia rádiofarmaka
+
+18F
+
+M7, M9
+Tabuľka č. 8 -Možný výskyt rádionuklidov v priestoroch kontrolovaného pásma oddelenia
+nukleárnej medicíny
+V mieste ovládačov predpokladáme pobytový faktor personálu 1, na chodbách a v čistiacej
+miestnosti pobytový faktor 0,1.
+Účinok tieniacich vrstiev na zoslabenie radiačných polí gama žiarenia s pôvodnou energiou
+emitovaných fotónov 511 keV bol hodnotený stochastickým výpočtom metódou Monte
+Carlo. Hmotnostné zastúpenie prvkov a merné hmotnosti posudzovaných materiálov boli
+prevzaté z údajov výrobcov, prípadne boli použité štandardné tabuľkové hodnoty (olovo).
+
+50
+
+Použité boli tieto merné hmotnosti posudzovaných materiálov:
+Olovo
+
+11,34 g/cm3
+
+Sadrokartón
+
+0,72 g/cm3
+
+Betón
+
+2,35 g/cm3
+
+Fe betón
+
+3,85 g/cm3
+
+Výsledky výpočtov zoslabovacieho účinku v závislosti od použitého stavebného materiálu
+v hodnotenej veličine priestorový dávkový ekvivalent H*(10) pre fotóny o pôvodnej energii
+511 keV sú zhrnuté v Tabuľke č. 9:
+priestorový
+
+Označenie
+Tieniacej
+
+popis tieniacej vrstvy
+
+Vrstvy
+
+dávkový
+
+ekvivalent H*(10)
+vrstvou tienenia,
+
+za zoslabovací
+pre 1 koeficient
+
+fotón 511 keV [Sv/foton]
+
+-
+
+bez tienenia
+
+2,931E-17
+
+1,00000
+
+6,7Pb
+
+6,7 mm olovo
+
+1,152E-17
+
+0,39313
+
+8Pb
+
+8 mm olovo
+
+9,854E-18
+
+0,33618
+
+50SDK
+
+50 mm sadrokartón
+
+2,637E-17
+
+0,89969
+
+2,259E-17
+
+0,77051
+
+1,952E-17
+
+0,66581
+
+50SDK_1Pb
+50SDK_2Pb
+
+50 mm sadrokartón + 1 mm
+olovo
+50 mm sadrokartón + 2 mm
+olovo
+
+100SDK_2,5P 100 mm sadrokartón + 2,5
+b
+
+mm olovo
+
+1,589E-17
+
+0,54224
+
+150beton
+
+štandardný betón, 150 mm 6,015E-18
+
+0,20520
+
+100Febeton
+200Febeton
+
+magnetitový betón HD400,
+100 mm
+magnetitový betón HD400,
+200 mm
+
+4,498E-18
+
+0,15345
+
+3,819E-19
+
+0,01303
+
+Tabuľka č. 9- Tieniace vrstvy
+
+51
+
+Tabuľka č. 10 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti ovládača PET/CT M6 pred dotienením.
+
+posudzované kritické miesto 1: miestnosť ovládača PET/CT
+M6 pred dotienením, pobytový faktor: 1
+miesto
+
+zdroja
+
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+2.
+
+3.
+
+v -nosť v tieniaca tieniaca tieniaca
+m
+
+vrstva
+
+vrstva
+
+vrstva
+
+príkon
+dávkového
+ekvivalent
+u
+
+vyšetrovňa
+PET/CT
+čakáreň pacientov
+PET
+aplikačný box M7
+posteľ 1
+aplikačný box M7
+posteľ 2
+aplikačný box M9
+posteľ 1
+aplikačný box M9
+posteľ 2
+
+240
+
+5,50
+
+1200
+
+15,7
+
+240
+
+7,50
+
+240
+
+7,20
+
+6,7Pb
+
+-
+
+50SDK_ 50SDK_
+
+H*(10)
+
+-
+
+[µSv/h]
+0,446
+
+6,7Pb
+
+0,140
+
+1Pb
+
+2Pb
+
+50SDK
+
+-
+
+-
+
+0,549
+
+50SDK
+
+-
+
+-
+
+0,596
+
+240
+
+10,3
+
+50SDK
+
+50SDK
+
+-
+
+0,262
+
+240
+
+12,3
+
+50SDK
+
+50SDK
+
+-
+
+0,184
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h: 2,177
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+prítomnosti pacientov ročne v mSv:
+
+2,612
+
+Tabuľka č. 10 – Miestnosť ovládača PET/CT M6 pred dotienením
+
+52
+
+Tabuľka č. 11 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti pacientov ročne v mSv v miestnosti ovládača PET/CT M6 po dotienení.
+
+posudzované
+
+kritické
+
+miesto
+
+miestnosť
+
+1:
+
+ovládača
+
+PET/CT
+
+M6
+
+po dotienení , pobytový faktor: 1
+príkon
+miesto
+
+zdroja
+
+žiarenia
+
+aktivita Vzdiale- 1.
+18F
+
+v nosť
+
+v tieniaca
+
+MBq
+
+m
+
+vrstva
+
+2.
+
+3.
+
+dávkového
+
+tieniaca tieniaca ekvivalent
+vrstva
+
+vrstva
+
+u
+
+H*(10)
+
+[µSv/h]
+0,446
+
+vyšetrovňa
+PET/CT
+čakáreň
+
+240
+
+5,50
+
+1200
+
+15,7
+
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+box
+M7 posteľ 2
+aplikačný
+box
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+6,7Pb
+
+200FeBet 50SDK_
+on
+
+240
+240
+
+7,50
+7,20
+
+240
+
+10,3
+
+240
+
+12,3
+
+-
+
+200FeBet
+on
+200FeBet
+on
+200FeBet
+on
+8Pb
+
+-
+
+6,7Pb
+
+0,002
+
+2Pb
+50SDK
+
+8Pb
+
+50SDK
+
+8Pb
+
+50SDK
+
+50SDK
+
+50SDK
+
+50SDK
+
+0,002
+0,003
+0,003
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+
+0,062
+0,586
+
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,704
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 11 - Miestnosť ovládača PET/CT M6 po dotienení
+
+53
+
+Tabuľka č. 12 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti ambulancia M2 pred dotienením.
+
+posudzované kritické miesto 2:
+
+ambulancia M2
+
+pred
+
+dotienením
+
+pobytový faktor: 1
+príkon
+aktivita
+1.
+miesto zdroja 18F
+Vzdialev
+tieniaca
+žiarenia
+nosť
+v
+m
+MBq
+vrstva
+
+2.
+
+3.
+
+dávkového
+
+tieniaca
+
+tieniaca
+
+ekvivalent
+
+vrstva
+
+vrstva
+
+u
+
+H*(10)
+
+[µSv/h]
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný box
+M7 posteľ 1
+aplikačný box
+M7 posteľ 2
+aplikačný box
+M9 posteľ 1
+aplikačný box
+M9 posteľ 2
+
+240
+
+1200
+
+240
+
+240
+
+240
+
+240
+
+8,00
+
+50SDK_
+2,5Pb
+
+6,00
+15,2
+
+16,0
+20,6
+
+22,6
+
+50SDK_
+1Pb
+50SDK
+
+50SDK
+
+50SDK
+
+-
+
+0,291
+
+50SDK
+
+-
+
+3,304
+
+50SDK_ 100SDK
+2Pb
+
+_2,5Pb
+
+50SDK_ 100SDK
+
+0,048
+
+0,044
+
+2Pb
+
+_2,5Pb
+
+50SDK
+
+6,7Pb
+
+50SDK
+
+0,026
+
+50SDK
+
+6,7Pb
+
+50SDK
+
+0,021
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h: 3,734
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+prítomnosti pacientov ročne v mSv:
+
+4,481
+
+Tabuľka č. 12 – Ambulancia M2 pred dotienením
+
+54
+
+Tabuľka č. 13 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti pacientov ročne v mSv v miestnosti ambulancia M2 po dotienení.
+posudzované kritické miesto 2:
+
+ambulancia M2
+
+po dotienení
+
+pobytový faktor: 1
+príkon
+miesto zdroja
+žiarenia
+
+aktivita
+18F
+
+MBq
+
+v
+
+Vzdialenosť v m
+
+1.
+
+2.
+
+3.
+
+dávkového
+
+tieniaca tieniaca
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+vrstva
+
+H*(10)
+
+vrstva
+
+[µSv/h]
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný box
+M7 posteľ 1
+aplikačný box
+M7 posteľ 2
+aplikačný box
+M9 posteľ 1
+aplikačný box
+M9 posteľ 2
+
+240
+
+1200
+
+240
+
+240
+
+240
+
+240
+
+8,00
+
+50SDK_
+2,5Pb
+
+6,00
+15,2
+
+50SDK
+
+200FeBe 50SDK_1P
+ton
+
+b
+
+-
+
+50SDK
+
+0,291
+
+0,043
+
+200FeBe 50SDK_2P 100SDK_2 0,001
+ton
+
+b
+
+200FeBe
+16,0
+
+50SDK_2P 100SDK_2 0,001
+
+ton
+
+b
+
+20,6
+
+200FeBe
+ton
+
+22,6
+
+8 Pb
+
+6,7Pb
+
+6,7Pb
+
+,5Pb
+
+,5Pb
+50SDK_2
+
+0,000
+
+Pb
+50SDK_2
+
+0,006
+
+Pb
+0,492
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,591
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 13 – Ambulancia M2 po dotienení
+
+55
+
+Tabuľka č. 14 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti chodba CH2 pred dotienením.
+posudzované kritické miesto 3: chodba CH2 pred dotienení, pobytový faktor: 0,1
+príkon
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+v -nosť v tieniaca
+m
+
+vrstva
+
+2.
+
+3.
+
+dávkového
+
+tieniaca
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+50SDK_
+
+240
+
+9,30
+
+1200
+
+3,50
+
+240
+
+16,2
+
+150beton
+
+240
+
+18,2
+
+50SDK
+
+240
+
+24,2
+
+50SDK
+
+6,7Pb
+
+240
+
+25,6
+
+50SDK
+
+6,7Pb
+
+2Pb
+50SDK_
+1Pb
+
+-
+
+-
+
+0,264
+
+-
+
+-
+
+10,79
+
+50SDK_ 50SDK_
+2Pb
+
+2Pb
+
+50SDK_ 50SDK_
+2Pb
+
+2Pb
+50SDK_
+2Pb
+50SDK_
+2Pb
+
+0,022
+
+0,041
+
+0,014
+
+0,012
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h: 11,15
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+prítomnosti pacientov ročne v mSv:
+
+1,338
+
+Tabuľka č. 14 – Chodba CH2 pred dotienením
+
+56
+
+Tabuľka č. 15 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti pacientov ročne v mSv v miestnosti chodba CH2 po dotienení.
+posudzované kritické miesto 3: chodba CH2 po dotienení
+
+pobytový
+
+faktor: 0,1
+príkon
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale- 1.
+18F
+
+v nosť
+
+MBq
+
+m
+
+2.
+
+v tieniaca tieniaca
+vrstva
+
+vrstva
+
+3.
+
+dávkového
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+PET/CT
+
+pacientov PET
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+9,30
+
+1200
+
+3,50
+
+2Pb
+
+0,264
+-
+
+-
+
+-
+
+-
+
+4,709
+
+čakáreň
+
+aplikačný
+
+240
+
+50SDK_
+
+box
+
+240
+
+240
+
+240
+
+16,2
+
+18,2
+
+24,2
+
+8Pb
+
+150beto 50SDK_
+
+50SDK_2 0,012
+
+n
+
+Pb
+
+2Pb
+
+200FeB 50SDK_
+eton
+2Pb
+
+50SDK_2 0,001
+
+200FeB
+
+50SDK_2 0,000
+
+eton
+
+6,7Pb
+
+200FeB
+240
+
+25,6
+
+eton
+
+6,7Pb
+
+Pb
+
+Pb
+50SDK_2 0,000
+Pb
+5,287
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,634
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 15 - Chodba CH2 po dotienení
+
+57
+
+Tabuľka č. 16 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti chodba CH1 pred čakárne pacientov PET/CT
+
+pred
+
+dotienením.
+
+posudzované kritické miesto 4: chodba CH1 pred čakárne pacientov PET/CT
+pred dotienením,pobytový faktor: 0,1
+príkon
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+v -nosť v tieniaca
+m
+
+vrstva
+
+2.
+
+3.
+
+dávkového
+
+tieniaca
+
+tieniaca
+
+ekvivalent
+
+vrstva
+
+vrstva
+
+u
+
+H*(10)
+
+[µSv/h]
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+50SDK_
+
+240
+
+9,8
+
+1200
+
+2,4
+
+240
+
+16,8
+
+50SDK
+
+240
+
+17,7
+
+50SDK
+
+240
+
+23,6
+
+50SDK
+
+6,7Pb
+
+240
+
+25,6
+
+50SDK
+
+6,7Pb
+
+2Pb
+50SDK_
+1Pb
+
+-
+
+-
+
+0,238
+
+-
+
+-
+
+22,96
+
+50SDK_
+
+50SDK_
+
+2Pb
+
+2Pb
+
+50SDK_
+
+50SDK_
+
+2Pb
+
+2Pb
+50SDK_
+2Pb
+50SDK_
+2Pb
+
+0,049
+
+0,044
+
+0,015
+
+0,012
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h: 23,31
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+
+2,797
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 16 – Chodba CH1 pred čakárne pacientov PET/CT pred dotienením
+
+58
+
+Tabuľka č. 17 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti chodba CH1 pred čakárne pacientov PET/CT po
+dotienení.
+
+posudzované kritické miesto 4: chodba CH1 pred čakárne pacientov PET/CT
+po dotienení
+
+pobytový faktor: 0,1
+príkon
+
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+2.
+
+v -nosť v tieniaca tieniaca
+m
+
+vrstva
+
+vrstva
+
+3.
+
+dávkového
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+240
+
+9,8
+
+1200
+
+2,4
+
+240
+
+16,8
+
+240
+
+17,7
+
+50SDK_
+2Pb
+
+0,238
+-
+
+200FeBe 50SDK_1
+
+23,6
+
+25,6
+
+0,299
+
+Pb
+
+150beto
+
+50SDK_2 50SDK_2 0,011
+
+n
+
+Pb
+
+8Pb
+
+ton
+
+ton
+
+Pb
+
+200FeBet 50SDK_2 0,000
+on
+6,7Pb
+
+200FeBe
+240
+
+-
+
+ton
+
+200FeBe
+240
+
+-
+
+6,7Pb
+
+Pb
+50SDK_2 0,000
+Pb
+50SDK_2 0,000
+Pb
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+
+1,188
+
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,143
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 17 - Chodba CH1 pred čakárne pacientov PET/CT po dotienení
+
+59
+
+Tabuľka č. 18 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnú kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti chodba CH3 pred aplikačnými boxami PET/CT pred
+dotienením.
+
+posudzované kritické miesto 5: chodba CH3 pred aplikačnými boxami PET/CT
+pred dotienením, pobytový faktor: 0,1
+príkon
+miesto
+
+zdroja
+
+žiarenia
+
+aktivita
+18F
+
+MBq
+
+v
+
+Vzdialenosť v m
+
+1.
+
+2.
+
+3.
+
+dávkového
+
+tieniaca
+
+tieniaca
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+vrstva
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+240
+
+11,8
+
+1200
+
+24,1
+
+240
+
+50SDK_
+2Pb
+
+-
+
+-
+
+50SDK_ 50SDK_ 50SDK_
+
+0,164
+
+0,101
+
+1Pb
+
+2Pb
+
+2Pb
+
+6,8
+
+50SDK
+
+50SDK
+
+-
+
+0,601
+
+240
+
+4,9
+
+50SDK
+
+-
+
+-
+
+1,286
+
+240
+
+4,4
+
+50SDK
+
+-
+
+-
+
+1,595
+
+240
+
+4,4
+
+50SDK
+
+-
+
+-
+
+1,595
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h: 3,747
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+prítomnosti pacientov ročne v mSv:
+
+0,450
+
+Tabuľka č. 18 – Chodba CH3 pred aplikačnými boxami PET/CT pred dotienením
+
+60
+
+Tabuľka č. 19 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti chodba CH3 pred aplikačnými boxami PET/CT
+po dotienení.
+posudzované kritické miesto 5: chodba CH3 pred aplikačnými boxami PET/CT
+po dotienení
+
+pobytový faktor: 0,1
+príkon
+
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+v -nosť v tieniaca
+m
+
+vrstva
+
+2.
+
+3.
+
+dávkového
+
+tieniaca
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+
+240
+
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+1200
+
+11,8
+24,1
+
+200FeBet 50SDK_
+on
+2Pb
+200FeBet 50SDK_
+on
+
+2Pb
+
+-
+
+0,001
+6,7Pb
+
+200FeBet
+240
+
+6,8
+
+240
+
+4,9
+
+240
+
+4,4
+
+on
+
+0,009
+50SDK
+
+-
+
+50SDK
+
+-
+
+50SDK
+
+-
+
+200FeBet
+on
+
+0,017
+
+200FeBet
+on
+
+0,021
+
+200FeBet
+240
+
+4,4
+
+on
+
+0,002
+
+0,021
+50SDK
+
+-
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+
+0,207
+
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,025
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 19 – Chodba CH3 pred aplikačnými boxami PET/CT po dotienení
+
+61
+
+Tabuľka č. 20 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti Sklad M8 pred dotienením.
+
+posudzované kritické miesto 6: Sklad M8 pred dotienením ,pobytový faktor: 0,1
+príkon
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+2.
+
+v -nosť v tieniaca tieniaca
+m
+
+vrstva
+
+vrstva
+
+3.
+
+dávkového
+
+tieniaca
+
+ekvivalentu
+
+vrstva
+
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+PET/CT
+čakáreň
+pacientov PET
+aplikačný box
+M7 posteľ 1
+aplikačný box
+M7 posteľ 2
+aplikačný box
+M9 posteľ 1
+aplikačný box
+M9 posteľ 2
+
+240
+
+9,8
+
+1200
+
+21,7
+
+240
+
+2,0
+
+240
+
+2,0
+
+240
+
+10,0
+
+240
+
+9,4
+
+50SDK
+_2Pb
+
+50SDK
+
+50SDK
+
+50SDK_
+
+_2Pb
+
+2Pb
+
+50SDK
+
+50SDK_1
+Pb
+
+0,165
+
+150beton 0,007
+
+-
+
+-
+
+6,611
+
+-
+
+-
+
+6,611
+
+50SDK
+
+-
+
+-
+
+0,278
+
+50SDK
+
+-
+
+-
+
+0,314
+
+_1Pb
+50SDK
+_1Pb
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v
+µSv/h:
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách
+prítomnosti pacientov ročne v mSv:
+
+13,98
+1,678
+
+Tabuľka č. 20 – Sklad M8 pred dotienením
+
+62
+
+Tabuľka č. 21 uvádza výsledky merania priestorového dávkového ekvivalentu H*(10)
+
+v
+
+µSv/h a ročnu kumulovaná efektívna dávka pracovníka pri 1200 hodinách prítomnosti
+pacientov ročne v mSv v miestnosti Sklad M8 po dotienení.
+
+posudzované kritické miesto 6:
+
+Sklad M8
+
+po dotienení
+
+pobytový faktor: 0,1
+príkon
+
+miesto zdroja
+žiarenia
+
+aktivita Vzdiale 1.
+18F
+
+MBq
+
+2.
+
+3.
+
+v -nosť v tieniaca tieniaca tieniaca
+m
+
+vrstva
+
+vrstva
+
+vrstva
+
+dávkového
+ekvivalentu
+H*(10)
+[µSv/h]
+
+vyšetrovňa
+
+240
+
+PET/CT
+čakáreň
+pacientov PET
+aplikačný
+
+box
+
+M7 posteľ 1
+aplikačný
+
+box
+
+M7 posteľ 2
+aplikačný
+
+box
+
+M9 posteľ 1
+aplikačný
+M9 posteľ 2
+
+box
+
+9,8
+
+50SDK_ 200FeBe 200FeBet 0,000
+2Pb
+
+ton
+50SDK_
+
+on
+0,017
+
+1200
+
+21,7
+
+8Pb
+
+2,0
+
+100FeB 50SDK_
+eton
+1Pb
+
+1,014
+
+240
+
+2,0
+
+100FeB 50SDK_
+eton
+1Pb
+
+1,014
+
+240
+
+200FeB
+
+0,004
+
+240
+
+10,0
+
+eton
+
+2Pb
+
+50SDK
+
+150beton
+
+-
+
+200FeB
+240
+
+9,4
+
+eton
+
+0,005
+50SDK
+
+2,207
+
+celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h:
+ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách 0,265
+prítomnosti pacientov ročne v mSv:
+Tabuľka č. 21 – Sklad M8 po dotienení
+
+63
+
+7.5
+
+Výsledok praktickej časti
+
+V praktickej časti práce boli vytvorené dve identické hypotetické pracoviská nukleárnej
+medicíny, ktoré sa líšili iba použitými tieniacimi materiálmi v stenách.
+7.5.1
+
+Pracovisko č. 1 a Pracovisko č.2
+
+Pracovisko č.1 bolo postavené s ohľadom na žiarenie z CT prístroja. Na pracovisku boli
+steny
+
+postavené zo sadrokartónu, iba steny miestnosti M5 (vyšetrovňa PET/CT) a
+
+M1(PET/CT čakáreň) obsahovali olovené tienenie, kvôli ochrane pacientov a
+zdravotníckych pracovníkov. Pracovisko č.1 nebralo do úvahy skutočnosť, že na pracovisku
+nukleárny medicíny je zdrojom žiarenia aj pacient.
+Pracovisko č.2 bolo postavené s ohľadom na žiarenie z rádiofarmák, ktoré bolo aplikované
+pacientom. V tomto modely boli v miestnostiach M1(PET/CT čakáreň), M5(vyšetrovňa
+PET/CT, M7(aplikačný box) a M9(aplikačný box) upravenené steny. Tieto steny boli
+vyhotovené zo tehál so špeciálnym magnetitovým betónom(FeBeton), ktoré majú veľmi
+dobré vlastnosti na tienenie ionizujúceho žiarenia.
+7.5.2
+
+Meranie dávkového príkonu od pacienta po aplikácii 18F-FDG
+
+Hodnoty dávkového príkonu od pacienta použité pre obe hypotetické pracoviská pochádzajú
+z vlastných meraní.
+Miera vylučovania rádiofarmák je u každého pacienta individuálna, čomu nasvedčujú aj
+údaje v tabuľke č.22.
+
+64
+
+Čas
+odchodu
+z oddelenia
+od
+aplikácie
+102 min.
+
+Dávkový
+príkon
+pacienta pri
+odchode v
+µSv/h
+5.2
+
+Zníženie
+dávkového
+príkonu od
+pacienta
+v%
+36.6%
+
+Pacient 1
+
+63
+
+167
+
+Dávkový
+príkon
+od
+pacienta po
+60 minútach
+v µSv/h
+8.2
+
+Pacient 2
+
+87
+
+233
+
+10
+
+113 min.
+
+7
+
+30%
+
+Pacient 3
+
+75
+
+178
+
+9.5
+
+112 min.
+
+5
+
+47.4%
+
+Pacient 4
+
+90
+
+222
+
+9.6
+
+110 min.
+
+6.2
+
+35.5%
+
+Pacient 5
+
+84
+
+202
+
+9.2
+
+95 min.
+
+6.5
+
+29.4%
+
+Pacient 6
+
+115
+
+235
+
+11.3
+
+102 min.
+
+7.1
+
+37.2%
+
+Pacient 7
+
+52
+
+127
+
+7.1
+
+104 min.
+
+4.2
+
+40.9%
+
+Pacient 8
+
+100
+
+230
+
+12.2
+
+104 min.
+
+7.7
+
+36.9%
+
+Pacient 9
+
+60
+
+135
+
+6.8
+
+108 min.
+
+3.9
+
+42.7%
+
+Pacient 10
+
+85
+
+208
+
+10.8
+
+84 min.
+
+6.8
+
+37.1%
+
+Pacient 11
+
+46
+
+106
+
+6.3
+
+88 min.
+
+3.8
+
+39.7%
+
+Pacient 12
+
+49
+
+132
+
+7.3
+
+112 min.
+
+4.2
+
+42.5%
+
+Pacient 13
+
+93
+
+231
+
+11.6
+
+120 min.
+
+6.9
+
+40.6%
+
+Pacient 14
+
+86
+
+211
+
+11.2
+
+87 min.
+
+6.8
+
+39.3%
+
+Pacient 15
+
+92
+
+243
+
+13.5
+
+72 min.
+
+9.1
+
+32.6%
+
+Pacient 16
+
+64
+
+130
+
+7.1
+
+98 min.
+
+4.8
+
+32.4%
+
+Pacient 17
+
+100
+
+203
+
+11.2
+
+137 min.
+
+5.1
+
+54.5%
+
+Pacient 18
+
+85
+
+220
+
+10.3
+
+90 min.
+
+6.1
+
+40.8%
+
+Pacient 19
+
+76
+
+151
+
+8.5
+
+89 min.
+
+5.4
+
+36.5%
+
+Pacient 20
+
+58
+
+124
+
+9.5
+
+94 min.
+
+5.2
+
+45.3%
+
+Pacient 21
+
+79
+
+160
+
+9.2
+
+113 min.
+
+4.8
+
+47.9%
+
+Priemer
+
+78
+
+183.2
+
+9.5
+
+101.,6
+
+5.8
+
+40.18
+
+Medián
+
+84
+
+202
+
+9.5
+
+102
+
+5.4
+
+39.7
+
+Smerodajná
+
+18.5
+
+44.98
+
+1.94
+
+14.46
+
+1.38
+
+7.52
+
+Hmotnosť
+
+Aktivita
+F18-FDG
+v MBq
+
+odchýlka
+
+Tabuľka č. 22– Dávkový príkon pacienta po aplikácii rádiofarmák
+
+Merania boli uskutočnené pomocou prenosného meradla príkonu dávkového ekvivalentu FH
+40 G-L 10. Každého pacienta sme merali z 1 metra vzdialenosti, 60 minút po aplikácii
+65
+
+rádiofarmaka, a pred odchodom z oddelenia. Všetkým pacientom bolo aplikované
+rádiofarmakum F18 - FDG, ktorý má dobu pol premeny 110minút. Pacienti po aplikácií
+čakali hodinu v aplikačných boxoch, a pred vyšetrením boli všetci poslaní na záchod. F18FDG sa z fyziologických okolností vylučuje hlavne močom, preto v rámci zníženia
+radiačného zaťaženia pacienta ako aj prevencia pred vznikom artefaktov pri snímaní, je
+potrebné aby bol močový mechúr vyprázdnený.
+Z nameraných hodnôt je zjavné, že aplikovaná aktivita bola v priemere 183,2 MBq F18FDG. Dávkový príkon od pacienta po 60 minútach aplikácie bol v priemere 9,5 µSv/h a
+dávkový príkon od pacienta opúšťajúceho pracovisko nukleárnej medicíny 101,6 min. Čo
+predstavuje priemerné zníženie dávkového príkonu od pacienta pri odchode z oddelenia o
+40.18 % než pri meraní po 60 minútach po aplikácií.
+Obrázok č.11 uvádza spôsob merania dávkového príkonu od pacienta po aplikácii 18FFDG. Merajúci nepoužíva tieniacu vestu z dôvodu energie použitého rádionuklidu.
+
+Obrázok č. 11- Meranie meradlom príkonu dávkového ekvivalentu FH 40 G-L 10
+7.5.3
+
+Vplyv dotienenia priestorov oddelenia nukleárnej medicíny tieniacimi vrstvami
+FeBetonu
+66
+
+Porovnanie celkového príkonu priestorového dávkového ekvivalentu H*(10) v µSv/h pred a
+po dotienení hypotetického pracoviska nukleárnej medicíny ako uvádza Tabuľka č. 23:
+Posudzované
+
+Pred dotienením
+
+Po dotienení
+
+Zníženie v %
+
+0,586
+
+73,1%
+
+kritické miesto
+miestnosť
+
+ovládača 2,177
+
+PET/CT M6
+ambulancia M2
+
+3,734
+
+0,492
+
+86,9%
+
+chodba CH2
+
+11,15
+
+5,287
+
+52.6%
+
+pred 23,31
+
+1,188
+
+95%
+
+0,207
+
+94,5%
+
+chodba
+
+CH1
+
+čakárne
+
+pacientov
+
+PET/CT
+chodba
+
+CH3
+
+aplikačnými
+
+pred 3,747
+
+boxami
+
+PET/CT
+sklad M8
+
+13,98
+
+2,207
+
+84,3%
+
+Priemer
+
+9,68
+
+1,66
+
+81,07
+
+Median
+
+7,44
+
+0,88
+
+85,6
+
+Smerodajná
+
+8,16
+
+1,91
+
+16,08
+
+odchýlka
+Tabuľka č. 23 – celkoví príkon priestorového dávkového ekvivalentu H*(10) v µSv/h
+
+67
+
+Porovnanie ročnej kumulovanej efektívnej dávky pracovníka pri 1200 hodinách v
+prítomnosti pacientov na pracovisku ročne v mSv pred a po dotienení hypotetického
+pracoviska nukleárnej medicín ako uvádza Tabuľka č.:24:
+
+Posudzované
+
+Pred dotienením
+
+Po dotienení
+
+Zníženie v %
+
+0,704
+
+73,1%
+
+kritické miesto
+miestnosť ovládača 2,612
+PET/CT M6
+ambulancia M2
+
+4,481
+
+0,591
+
+86,9%
+
+chodba CH2
+
+1,338
+
+0,634
+
+52,7%
+
+chodba CH1 pred 2,797
+
+0,143
+
+94,9%
+
+0,025
+
+94,5%
+
+čakárne
+
+pacientov
+
+PET/CT
+chodba CH3 pred 0,450
+aplikačnými boxami
+PET/CT
+sklad M8
+
+1,678
+
+0,265
+
+84,3%
+
+Priemer
+
+2,23
+
+0,39
+
+81,07
+
+Median
+
+2,145
+
+0,428
+
+85,6
+
+Smerodajná
+
+1,4
+
+0,285
+
+16,02
+
+odchýlka
+Tabuľka č. 24 - kumulovaná efektívna dávka pracovníka pri 1200 hodinách v prítomnosti
+pacientov na pracovisku ročne v mSv:
+
+68
+
+8
+
+Diskusia a záver
+
+Ionizujúce žiarenie je súčasťou každodenného života ľudí na svete aj keď si to ani
+neuvedomujeme. Ionizujúce žiarenie delíme na dve hlavné zdroje: prírodný a umelý. K
+prírodným zdrojom patrí kozmické žiarenie, terestriálne a radón. Najvýznamnejšie umelé
+zdroje sú: rádioaktívny spád zo stratosféry, rádioaktívne látky uvoľňované do životného
+prostredia, rôzne zdroje žiarenia v hospodárstve a žiarenie používané v medicíne.
+Využívanie lekárskeho ožiarenia stúpa každým rokom, kvôli rozširovaniu využitia žiarenia
+na diagnostické a terapeutické účely. Optimalizácia radiačnej ochrany je veľmi dôležitá na
+pracovisku so zdrojmi ionizujúceho žiarenia. Je potrebné chrániť zdravotnícky personál a aj
+pacienta od zbytočnej radiačnej záťaže.
+Pracovisko nukleárnej medicíny je špecifické tým, že zdrojom žiarenia nie je iba
+diagnostický prístroj ale aj samotný pacient. Na pracovisku nukleárnej medicíny sú
+využívané aj otvorené žiariče. Otvorené žiariče sú rádioaktívne látky, ktoré sú aplikované
+pacientom.
+Na porovnanie sme vytvorili v praktickej časti dve pracoviská, ktoré sa líšia tieniacimi
+materiálmi. Prvé pracovisko bolo vytvorené s ohľadom na žiarenie z diagnostických
+prístrojov. Druhé pracovisko bolo vytvorené aj s ohľadom na žiarenia z pacienta.
+Na konci praktickej časti sme tieto dve pracoviská porovnali s ohľadom na tieniacich
+schopnosti rôznych použitých materiálov a vyhodnotili ich účinnosť. Výsledkom výpočtov
+bolo, že prvé pracovisko berúce do úvahy len žiarenie z diagnostických prístrojov,
+nevyhovuje podmienkam radiačnej ochrany na pracovisku nukleárnej medicíny.
+Celkový príkon priestorového dávkového ekvivalentu H*(10) v µSv/h pred dotienením
+hypotetického pracoviska nukleárnej medicíny bol v priemere 9,68 µSv/h, po dotienení 1,66
+µSv/h , čo predstavuje zníženie celkového príkonu priestorového dávkového ekvivalentu
+81,07%.
+Ročná kumulovaná efektívna dávka pracovníka pri 1200 hodinách v prítomnosti pacientov
+na pracovisku nukleárnej medicíny
+
+ročne pred dotienením hypotetického pracoviska
+
+nukleárnej medicíny bola v priemere 2,23 mSv, po dotienení 0,39 mSv, čo predstavuje
+81,07% zníženie ročnej kumulovanej efektívnej dávky.
+
+69
+
+Záver
+V našej práci sme chceli poukázať na dôležitosť radiačnej ochrany, lebo nie je jedno v akých
+podmienkach pracujú zdravotnícki pracovníci a v akých podmienkach sa nachádzajú
+vyšetrovaní pacienti. Zdravie je to najdôležitejšie čo máme a preto ho treba chrániť.
+Tieniace materiály použité v rámci stavebného riešenia pracoviska nukleárnej medicíny
+majú zásadný dopad na optimalizáciu radiačnej ochrany na danom pracovisku a ich výber
+musí byť zohľadnený pri plánovaní takéhoto pracoviska.
+Simulácia dávkového príkonu v jednotlivých miestnostiach hypotetického pracoviska
+nukleárnej medicíny v závislosti od použitých stavebných materiálov s použitím výsledkov
+meraní získaných z reálnej praxe sa javí byť nápomocná pri plánovaní pracovísk tohto typu.
+
+.
+
+70
+
+Zoznam použitej literatúry
+doc. MUDr. Ján Lepej, CSc., prof. MUDr.Anton Lacko, CSc. vydanie: Košice 2018
+Nukleárna medicína I. ISBN 978-80-8143-222-4
+Gebeová Klára, Burganová Andrea, vydanie: Bratislava 2019, Radiačná ochrana a
+rádiobiológia pre nelekárske zdravotnícke odbory, ISBN 978-80-89702-69-5, EAN
+9788089702695
+DARMOVÁ, Vilibalda. Ionizujúce a neionizujúce ţiarenie. Brno: Tribun EU, 2009. ISBN
+9788073998141
+KLENER, V. 2000. Princípy a praxe radiační ochrany. Azin CZ, Praha, 2000. ISBN 80-2383703-6.
+Mirjana Ćujić , Ljiljana Janković Mandić , Jelena Petrović , Ranko Dragović , Milan
+Đorđević , Mrđan Đokić , Snežana Dragović, 2021, Radon-222: environmental behavior and
+impact to (human and non-human) biota, PMID: 31955264 , DOI: 10.1007/s00484-02001860-w
+C Bowie , S H Bowie, 1991 Radon and health, PMID: 1671435 , DOI: 10.1016/01406736(91)91177-v
+Roald S Schnerr , Anouk N de Jong , Guillaume Landry , Cécile R L P N Jeukens , Roel
+Wierts, 2017, Monte Carlo simulations of ceiling scatter in nuclear medicine: 99m Tc, 131 I
+and 18 F, PMID: 28097674 , DOI: 10.1002/mp.12113
+Muhammad Syahir Sarkawi, Muhammad Rawi Mohamed Zain, Mohamad Hairie
+Rabir, Faridah Mohamad Idris and Jasman Zainal 2018, Radiation shielding properties of
+ferro-boron concrete, DOI 10.1088/1757-899X/298/1/012037
+Muhd
+
+Afiq
+
+Hizami
+
+Abdullah, Raizal
+
+Saifulnaz
+
+Muhammad
+
+Rashid, Mugahed
+
+Amran, Farzad Hejazii, N. M. Azreen, Roman Fediuk, Yen Lei Voo, Nikolai Ivanovich
+Vatin, and Mohd Idzat Idris, 2022, Recent Trends in Advanced Radiation Shielding Concrete
+for Construction of Facilities: Materials and Properties doi: 10.3390/polym14142830 ,
+PMCID: PMC9316934 , PMID: 35890605
+
+Muh. Syahrial Gharissah, Ardiansyah Ardiansyah, Sitti Rahmah Pauziah, Nurul Awaliyah
+Muhammad, Roni Rahmat, Heryanto Heryanto, Dahlang Tahir, 2022, Composites
+71
+
+cement/BaSO4/Fe3O4/CuO for improving X-ray absorption characteristics and structural
+properties, https://doi.org/10.1038/s41598-022-23908-0
+A.M. Johansen, in International Encyclopedia of Education (Third Edition), 2010, Monte
+Carlo Methods, https://www.sciencedirect.com/topics/neuroscience/monte-carlo-method
+Iwan
+
+Kawrakow,
+
+The
+
+Monte
+
+Carlo
+
+Simulation
+
+of
+
+Radiation
+
+Transport,
+
+https://www.aapm.org/meetings/06ss/documents/kawrakow_MonteCarlo_color.pdf
+E Vano 2011, Global view on radiation protection in medicine, PMID: 21725079
+DOI: 10.1093/rpd/ncr265
+Andrew L. Fielding, 2023, Monte-Carlo techniques for radiotherapy applications I:
+introduction
+
+and
+
+overview
+
+of
+
+the
+
+different
+
+Monte-Carlo
+
+codes,
+
+DOI: https://doi.org/10.1017/S1460396923000079
+RNDr. Helena Cabáneková, PhD. , Doc. RNDr. Denisa Nikodemová, PhD. , 2009,
+Biologické
+
+účinky
+
+ionizujúceho
+
+žiarenia
+
+a ich
+
+zdravotné
+
+prejavy,
+
+https://www.nuclear.sk/wp-content/uploads/2021/06/Cabanekova-biologicke-ucinky.pdf
+RNDr. Helena Cabáneková, PhD. , 2019, IONIZUJÚCE ŽIARENIE A ZDRAVOTNÉ
+RIZIKO, https://inis.iaea.org/collection/NCLCollectionStore/_Public/41/122/41122251.pdf
+Charles Land, 2023, Ionizing radiation, https://www.britannica.com/science/ionizingradiation
+Bo Xiao , Li-Qiang Cui , Tian-Ming Chen , Bin Lian, 2015, Stochastic effects in adaptive
+reconstruction of body damage: implied the creativity of natural selection PMID: 26153081 ,
+PMCID: PMC4627558, DOI: 10.1111/jcmm.12647
+Renata Havránková, 2020, Biological effects of ionizing radiation, PMID: 33445930
+Assessing Dose of the Representative Person for the Purpose of the Radiation Protection of
+the Public, 2006, ICRP
+Daniel A. Queremel Milani; Prasanna Tadi, 2023, Genetics, Chromosome Abnormalities,
+Genetics, Chromosome Abnormalities - StatPearls - NCBI Bookshelf (nih.gov)
+Raymond Chieng, 2023, Deterministic effects, https://doi.org/10.53347/rID-5100
+Internetové zdroje:
+
+72
+
+Limity ožiarenia (§ 15, Zákon č. 87/2018 Z. z. o radiačnej ochrane) : Limity ožiarenia (§ 15,
+Zákon č. 87/2018 Z. z. o radiačnej ochrane) | Lewik
+Chromosomal Aberration - an overview | ScienceDirect Topics
+Chromosomal Aberration: Definition, Types and Examples|READBIOLOGY
+Chromosomal Aberrations: What Are They, Causes, and More | Osmosis
+https://www.epa.gov/radon/what-epas-action-level-radon-and-what-does-it-mean
+https://en.wikipedia.org/wiki/Radon
+https://www.investopedia.com/terms/m/montecarlosimulation.asp
+https://www.ujd.gov.sk/jadrovy-program/zakladne-udaje-o-radioaktivite/
+https://www.wikiskripta.eu/w/%C3%9A%C4%8Dinky_ionizuj%C3%ADc%C3%ADho_z
+%C3%A1%C5%99en%C3%ADhttp://www.sukupova.cz/deterministicke-a-stochastickeucinky-ozareni/
+https://biologydictionary.net/ionizing-radiation/
+https://sk.wikipedia.org/wiki/Ionizuj%C3%BAce_%C5%BEiarenie
+https://www.ujd.gov.sk/jadrovy-program/zakladne-udaje-o-radioaktivite/
+https://energy.ec.europa.eu/system/files/2015-01/RP180_0.pdf
+010 Biologické hladiska RO.pps (live.com)
+Deterministické a stochastické účinky ozáření - Lucie Súkupová (sukupova.cz)
+Limity ožiarenia (§ 15, Zákon č. 87/2018 Z. z. o radiačnej ochrane) | Lewik
+Limity ožiarenia - Portál úradov - Liferay (uvzsr.sk)
+101/2018 Z.z. - Vyhláška Ministerstva zdravotníctva... - SLOV-LEX
+Monte Carlo and stochastic simulation methods - AAPG Wiki
+
+73
+
+

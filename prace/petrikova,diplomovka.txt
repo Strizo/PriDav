@@ -1,0 +1,6120 @@
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE
+FAKULTA SOCIÁLNO-EKONOMICKÝCH VZŤAHOV
+Evidenčné číslo: 9a63e040-3795-4d1a-9c12-b60cd32eb6bc
+
+MINIMÁLNA MZDA V KRAJINÁCH V4 A JEJ VPLYV
+NA ZAMESTNANOSŤ
+Diplomová práca
+
+2024
+Bc. Radka Petríková
+
+TRENČIANSKA UNIVERZITA ALEXANDRA DUBČEKA
+V TRENČÍNE
+FAKULTA SOCIÁLNO-EKONOMICKÝCH VZŤAHOV
+
+MINIMÁLNA MZDA V KRAJINÁCH V4 A JEJ VPLYV
+NA ZAMESTNANOSŤ
+Diplomová práca
+
+Študijný program:
+
+Ľudské zdroje a personálny manažment
+
+Študijný odbor:
+
+8. ekonómia a manažment
+
+Školiace pracovisko:
+
+Katedra manažmentu a rozvoja ľudských zdrojov
+
+Vedúci záverečnej práce:
+
+PhDr. Jana Španková, PhD.
+
+Trenčín, 2024
+Bc. Radka Petríková
+
+Poďakovanie
+
+Moja veľká vďaka patrí PhDr. Jane Špankovej, PhD. za hodnotné a prínosné rady
+a za profesionálny, ochotný a trpezlivý prístup, ktorý mala počas celého vypracovania
+diplomovej práce.
+
+Čestné vyhlásenie
+
+Čestne vyhlasujem, že túto diplomovú prácu som vypracovala celkom samostatne,
+pričom som uviedla kompletný zoznam použitej literatúry.
+
+Abstrakt
+
+PETRÍKOVÁ, Radka: Minimálna mzda v krajinách V4 a jej vplyv na zamestnanosť.
+[Diplomová práca]. – Trenčianska univerzita Alexandra Dubčeka v Trenčíne. Fakulta
+sociálno-ekonomických vzťahov; Katedra manažmentu a rozvoja ľudských zdrojov. –
+Vedúci práce: PhDr. Jana Španková, PhD. – Trenčín: FSEV TnUAD, 2024. – 92 s.
+
+Témou diplomovej práce je Minimálna mzda v krajinách V4 a jej vplyv na zamestnanosť,
+v ktorej hlavným cieľom je na základe štúdií, analýz a výpočtov skúmať vplyv
+minimálnej
+
+mzdy
+
+na
+
+zamestnanosť,
+
+a to
+
+v4
+
+kapitolách.
+
+V prvej
+
+kapitole
+
+charakterizujeme minimálnu mzdu, odporcov a zástancov minimálnej mzdy a štúdie,
+v ktorých autori skúmali vplyv minimálnej mzdy na zamestnanosť a iné ukazovatele.
+V druhej kapitole popisujeme hlavný cieľ, čiastkové ciele a metodológiu skúmania.
+V tretej kapitole sa venujeme analýze minimálnej mzdy a skúmaniu vplyvu minimálnej
+mzdy na zamestnanosť a vybrané ukazovatele. Vo štvrtej kapitole diskutujeme
+o dosiahnutých výsledkoch a vyjadrujeme vlastný názor na skúmanú problematiku.
+
+Kľúčové slová:
+Minimálna mzda, zamestnanosť, produktivita práce, inflácia, HDP, nezamestnanosť, cena
+práce.
+
+Abstract
+
+PETRÍKOVÁ, Radka: Minimum wage in the V4 countries and its impact on employment.
+[Master thesis]. – Trenčín University of Alexander Dubček in Trenčín. Faculty of Socioeconomic Relations; Department of Management and Human Resources Development. –
+Thesis supervisor: PhDr. Jana Španková, PhD. – Trenčín: FSEV TnUAD, 2024. – 92 p.
+
+The topic of the thesis is Minimum wage in the V4 countries and its impact
+on employment, in which the main objective is to examine the impact of the minimum
+wage on employment on the basis of studies, analyses and calculations in 4 chapters.
+In the first chapter, we characterise the minimum wage, the opponents and proponents
+of the minimum wage and the studies in which the authors have examined the impact
+of the minimum wage on employment and other indicators. In the second chapter, we
+describe the main objective, sub-objectives, and research methodology. In the third
+chapter, we analyze the minimum wage and examine the impact of the minimum wage
+on employment and selected indicators. In the fourth chapter, we discuss the results
+obtained and express our own opinion on the issue under study.
+
+Keywords:
+Minimum wage, employment, labour productivity, inflation, GDP, unemployment, labour
+cost.
+
+Obsah
+
+Zoznam tabuliek a grafov
+Zoznam skratiek a značiek
+Úvod................................................................................................................................13
+1 Súčasný stav riešenej problematiky...........................................................................14
+1.1 Minimálna mzda.........................................................................................................14
+1.2 Odporcovia a zástancovia minimálnej mzdy..............................................................17
+1.3 Vplyv minimálnej mzdy na vybrané ukazovatele.......................................................19
+2 Cieľ a metodológia skúmania.....................................................................................29
+2.1 Hlavný cieľ a čiastkové ciele......................................................................................29
+2.2 Metodológia skúmania...............................................................................................30
+3 Analýzy a skúmania....................................................................................................31
+3.1 Vývoj minimálnej mzdy v krajinách V4.....................................................................31
+3.2 Vývoj minimálnej mzdy v krajinách EÚ....................................................................37
+3.3 Vyjadrenie minimálnej mzdy na mediánových a priemerných mzdách krajín V4......42
+3.4 Výpočet vplyvu minimálnej mzdy na zamestnanosť..................................................44
+3.5 Výpočet vplyvu minimálnej mzdy na produktivitu práce...........................................50
+3.6 Výpočet vplyvu minimálnej mzdy na infláciu............................................................57
+3.7 Výpočet vplyvu minimálnej mzdy HDP.....................................................................63
+3.8 Výpočet vplyvu minimálnej mzda na nezamestnanosť...............................................69
+3.9 Cena práce na Slovensku a jej vplyv na zamestnanosť...............................................77
+4 Diskusia........................................................................................................................82
+Záver...............................................................................................................................85
+Zoznam použitej literatúry............................................................................................86
+
+Zoznam tabuliek a grafov
+
+Tabuľka 1 Vývoj hodinovej a mesačnej minimálnej mzdy na Slovensku v rokoch 2017
+až 2024 (v €).....................................................................................................................15
+Tabuľka 2 Stupne náročnosti práce.................................................................................16
+Tabuľka 3 Vývoj minimálnej mzdy na Slovensku v rokoch 2017 až 2024......................31
+Tabuľka 4 Vývoj minimálnej mzdy v Česku v rokoch 2017 až 2024..............................32
+Tabuľka 5 Vývoj minimálnej mzdy v Maďarsku v rokoch 2017 až 2024.......................33
+Tabuľka 6 Vývoj minimálnej mzdy v Poľsku v rokoch 2017 až 2024.............................34
+Tabuľka 7 Vývoj minimálnej mzdy v EÚ v rokoch 2022 až 2023...................................38
+Tabuľka 8 Vývoj minimálnej mzdy v EÚ v rokoch 2023 až 2024...................................40
+Tabuľka 9 Vyjadrenie minimálnej mzdy na mediánových mzdách v krajinách V4
+v rokoch 2017 až 2022 – zamestnanci na plný úväzok (v %)............................................43
+Tabuľka 10 Vyjadrenie minimálnej mzdy na priemerných mzdách v krajinách V4
+v rokoch 2017 až 2022 – zamestnanci na plný úväzok (v %)............................................44
+Tabuľka 11 Vývoj miery zamestnanosti v krajinách V4 v rokoch 2017 až 2023 (v %)...45
+Tabuľka 12 Vývoj produktivity práce v krajinách V4 v rokoch 2017 až 2023 (v %).......51
+Tabuľka 13 Vývoj miery inflácie v krajinách V4 v rokoch 2017 až 2023 (v %)..............58
+Tabuľka 14 Vývoj HDP v bežných trhových cenách v krajinách V4 v rokoch 2017 až
+2023 (v mld. €).................................................................................................................64
+Tabuľka 15 Vývoj miery nezamestnanosti v krajinách V4 v rokoch 2017 až 2023 (v %)
+.........................................................................................................................................70
+Tabuľka 16 Vyjadrenie koeficientu korelácie v krajinách V4 v rokoch 2017 až 2023.....76
+Tabuľka 17 Vývoj odvodov na Slovensku v rokoch 2022 až 2024..................................77
+Tabuľka 18 Vývoj ceny práce na Slovensku v rokoch 2022 až 2024...............................78
+Tabuľka 19 Vývoj čistej minimálnej mzdy na Slovensku v rokoch 2022 až 2024...........79
+Tabuľka 20 Vývoj ceny práce a miery zamestnanosti na Slovensku v rokoch 2017 až
+2024.................................................................................................................................80
+
+Graf 1 Medziročný vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024
+(v €)..................................................................................................................................35
+Graf 2 Medziročný vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024
+(v %)................................................................................................................................36
+Graf 3 Vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024 (v €)..................37
+Graf 4 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti na Slovensku
+v rokoch 2017 až 2023.....................................................................................................46
+Graf 5 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Česku
+v rokoch 2017 až 2023.....................................................................................................47
+Graf 6 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Maďarsku
+v rokoch 2017 až 2023.....................................................................................................48
+Graf 7 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Poľsku
+v rokoch 2017 až 2023.....................................................................................................49
+Graf 8 Graf lineárnej závislosti minimálnej mzdy a produktivity práce na Slovensku
+v rokoch 2017 až 2023.....................................................................................................52
+Graf 9 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Česku v rokoch
+2017 až 2023....................................................................................................................53
+Graf 10 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Maďarsku
+v rokoch 2017 až 2023.....................................................................................................54
+Graf 11 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Poľsku
+v rokoch 2017 až 2023.....................................................................................................56
+Graf 12 Graf lineárnej závislosti minimálnej mzdy a miery inflácie na Slovensku
+v rokoch 2017 až 2023.....................................................................................................59
+Graf 13 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Česku v rokoch
+2017 až 2023....................................................................................................................60
+Graf 14 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Maďarsku v rokoch
+2017 až 2023....................................................................................................................61
+Graf 15 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Poľsku v rokoch
+2017 až 2023....................................................................................................................62
+Graf 16 Graf lineárnej závislosti minimálnej mzdy a HDP na Slovensku v rokoch 2017
+až 2023.............................................................................................................................65
+Graf 17 Graf lineárnej závislosti minimálnej mzdy a HDP v Česku v rokoch 2017 až
+2023.................................................................................................................................66
+
+Graf 18 Graf lineárnej závislosti minimálnej mzdy a HDP v Maďarsku v rokoch 2017 až
+2023.................................................................................................................................67
+Graf 19 Graf lineárnej závislosti minimálnej mzdy a HDP v Poľsku v rokoch 2017 až
+2023.................................................................................................................................68
+Graf 20 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti
+na Slovensku v rokoch 2017 až 2023...............................................................................71
+Graf 21 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Česku
+v rokoch 2017 až 2023.....................................................................................................72
+Graf 22 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Maďarsku
+v rokoch 2017 až 2023.....................................................................................................73
+Graf 23 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Poľsku
+v rokoch 2017 až 2023.....................................................................................................74
+Graf 24 Graf lineárnej závislosti ceny práce a miery zamestnanosti na Slovensku
+v rokoch 2017 až 2024.....................................................................................................80
+
+Zoznam skratiek a značiek
+
+a pod. – a podobne
+ACS – American Community Survey – Americký komunitný prieskum
+ASEA – Asociácia sociálno-ekonomických analytikov
+AZZZ SR– Asociácia zamestnávateľských zväzov a združení Slovenskej republiky
+EÚ – Európska únia
+Eurostat – Statistical Office of the European Communities – Štatistický úrad Európskej
+komisie
+HDP – Hrubý domáci produkt
+HICP – Harmonised Index of Consumer Prices – Harmonizovaný index spotrebiteľských
+cien
+IFP – Inštitút finančnej politiky
+ILO – International Labour Organization – Medzinárodná organizácia práce
+INESS – Inštitút ekonomických a spoločenských analýz
+MF SR – Ministerstvo financií Slovenskej republiky
+napr. – napríklad
+OECD – Organisation for Economic Co-Operation and Development – Organizácia
+pre hospodársku spoluprácu a rozvoj
+OECD.Stat – OECD Statistics – Štatistika OECD
+resp. – respektíve
+RÚZ – Republiková únia zamestnávateľov
+SP – Sociálna poisťovňa
+SR – Slovenská republika
+ŠÚ SR – Štatistický úrad Slovenskej republiky
+USA – Spojené štáty americké
+V4 – Vyšehradská štvorka
+VŠZP – Všeobecná zdravotná poisťovňa
+WoS – Web of Science
+
+Úvod
+
+Téma minimálnej mzdy je vždy citlivou, no veľmi diskutovanou po celom svete
+z ekonomického aj politického hľadiska. Je to samozrejme kvôli určeniu jej ideálnej
+výšky, ktorá by vyhovovala tak zamestnancom, ako aj zamestnávateľom. Dovolíme si
+tvrdiť, že takýto stav je nemožné dosiahnuť, keďže zamestnanci by chceli mať minimálnu
+mzdu na čo najvyššej úrovni, teda zarábať čo najviac, zatiaľ čo u zamestnávateľov je to
+opačne, keďže to má nepriaznivé dopady na ich náklady.
+Pomerne diskutovanou témou je aj z dôvodu, či je vôbec nutné mať nejakú
+minimálnu mzdu stanovenú. Viacerí odborníci sa zhodujú v tom, že by sa krajiny zaobišli
+bez problémov aj bez stanovenia minimálnej mzdy. Dôkazom sú krajiny, v ktorých
+minimálna mzda neexistuje.
+Naša diplomová práca, ktorej témou je Minimálna mzda v krajinách V4 a jej
+vplyv na zamestnanosť, sa skladá zo 4 kapitol. V prvej kapitole skúmame súčasný stav
+riešenej problematiky, charakterizujeme minimálnu mzdu, zástancov a odporcov
+minimálnej mzdy, keďže existuje veľké množstvo štúdií, ktoré ale majú na vplyv
+minimálnej mzdy rozdielne názory. Ďalej sa venujeme vplyvu na zamestnanosť, ako aj
+na iné ukazovatele, na ktoré môže mať minimálna mzda pozitívny, ale aj negatívny dopad.
+V druhej kapitole sa sústredíme na identifikovanie cieľa práce a na metodológiu
+skúmania. Najskôr identifikujeme hlavný cieľ a zároveň aj čiastkové ciele, ktorými sa
+dopracujeme k hlavnému cieľu. Následne popisujeme všetky metódy skúmania, ktoré
+použijeme pri vypracovaní empirickej časti.
+V tretej kapitole približujeme analýzy a skúmania. Venujeme sa vývoju
+a porovnaniu minimálnej mzdy v jednotlivých krajinách V4, ktorú ďalej porovnáme
+s minimálnou mzdou ostatných krajín EÚ. Vyjadríme minimálnu mzdu na mediánových
+a priemerných mzdách krajín V4. Ďalej prostredníctvom výpočtov posúdime vplyv
+zvyšovania minimálnej mzdy na zamestnanosť a ostatné ukazovatele. Na konci kapitoly
+analyzujeme odvody, cenu práce a čistú minimálnu mzdu na Slovensku a vplyv ceny
+práce na zamestnanosť.
+V poslednej kapitole sa venujeme diskusii v rámci danej problematiky
+a zhodnotíme zistené skutočnosti.
+13
+
+1 Súčasný stav riešenej problematiky
+
+V tejto kapitole sa venujeme minimálnej mzde, zástancom a odporcom
+minimálnej mzdy a štúdiám, v ktorých sú preukázané rôzne vplyvy zvyšovania
+minimálnej mzdy na zamestnanosť a ďalšie vybrané ukazovatele.
+
+1.1 Minimálna mzda
+Povinnosťou každého zamestnávateľa je poskytnúť za uskutočnenú prácu svojmu
+zamestnancovi peňažné plnenie, čiže mzdu. Ako mzdu nemožno za žiadnych okolností
+pokladať náhradu za pracovnú pohotovosť, náhradu mzdy, cestovné náhrady, odchodné,
+odstupné, príspevky zo sociálneho fondu, výnosy z kapitálových podielov alebo obligácií
+a ďalšie plnenie poskytnuté zamestnancovi zo zisku po zdanení. Naopak ako mzdu možno
+pokladať plnenie poskytované za prácu zamestnancovi pri príležitosti jeho životného
+alebo pracovného výročia, ak toto plnenie nie je poskytované zo sociálneho fondu alebo
+zo zisku po zdanení. Mzda nesmie byť nikdy na nižšej úrovni ako je úroveň minimálnej
+mzdy v príslušnej krajine a zamestnávateľ ju a všetky podmienky s ňou súvisiace vždy
+dohodne v kolektívnej zmluve s príslušným odborovým orgánom. Mzdové podmienky
+musia byť za rovnako vykonanú prácu vždy rovnaké pre mužov aj ženy. (§ 118, § 119
+Zákona č. 311/2001 Z. z. Zákonník práce)
+V krátkosti si priblížime aj pojem priemerná mzda a zanalyzujeme jej vývoj.
+Priemernú mzdu chápeme ako aritmetický priemer všetkých miezd na Slovensku.
+V poslednom kvartáli roku 2023, takisto aj v priemere za celý rok 2023 rástla priemerná
+mesačná mzda na Slovensku najrýchlejším tempom za ostatných 19 rokov. Prepad reálnej
+mzdy za posledné 2 roky sa tak vďaka klesajúcej inflácii a dynamickému rastu podarilo
+zastaviť. Aj napriek tomu, že sa koncom roka zvýšila o skoro 4 %, nedokázala celkom
+vyrovnať poklesy v prvých 3 kvartáloch roka, čo malo za následok, že za celý rok 2023
+tak klesla reálna mzda o necelé percento. Počas posledného kvartálu roku 2023 vzrástla
+priemerná nominálna mesačná mzda medziročne o 10,6 %, čo predstavuje sumu 1 569 €.
+Ak to porovnáme s koncom roka 2022, zamestnanci tak dostávali v hrubom v priemere
+o 151 € viac. Nominálna mzda zamestnanca predstavuje mzdu, ktorá je vyjadrená
+v peniazoch. Reálna mzda v poslednom kvartáli roku 2023 medziročne vzrástla o 3,9 %.
+14
+
+Reálna mzda zamestnanca predstavuje množstvo tovarov, ktoré si môže za svoju mzdu
+zamestnanec reálne kúpiť. (www.slovak.statistics.sk)
+Spočiatku sa minimálna mzda vzťahovala na pomerne málo kategórií pracovníkov
+a jej cieľom bolo chrániť tých, ktorí boli považovaní za obzvlášť zraniteľných. Ako prvý
+zaviedol minimálnu mzdu Nový Zéland v roku 1894, po ňom nasledoval austrálsky štát
+Viktória v roku 1896 a Spojené kráľovstvo v roku 1909. Minimálna mzda sa často
+považovala za prechodné opatrenie, ktoré sa malo postupom času zrušiť, a to, keď sa
+zavedie vyjednávanie o mzdách medzi sociálnymi partnermi. Prvé formy minimálnej
+mzdy boli niekedy orientované na ochranu žien alebo domácich pracovníkov. (ILO)
+Minimálna mzda predstavuje najnižšiu možnú mzdu, ktorá musí byť vyplatená
+zamestnancovi za plný pracovný úväzok a na Slovensku sa týka približne 4 % občanov.
+Aktuálna úroveň minimálnej mzdy je vo výške 750 €, čo po prerátaní na odpracovanú
+hodinu predstavuje výšku 4,31 €. Minimálnu mzdu môžu mať občania aj vyššiu, a to buď
+prostredníctvom nočného príplatku za prácu v noci, alebo prostredníctvom vyššieho
+koeficienta, ktorý prislúcha náročnejším prácam. (www.minimalnamzda.sk)
+
+Tabuľka 1 Vývoj hodinovej a mesačnej minimálnej mzdy na Slovensku v rokoch 2017
+až 2024 (v €)
+Rok
+
+Hodinová minimálna mzda
+
+Mesačná minimálna mzda
+
+2017
+
+2,50
+
+435
+
+2018
+
+2,76
+
+480
+
+2019
+
+2,99
+
+520
+
+2020
+
+3,33
+
+580
+
+2021
+
+3,58
+
+623
+
+2022
+
+3,71
+
+646
+
+2023
+
+4,02
+
+700
+
+2024
+
+4,31
+
+750
+
+Zdroj: Vlastné spracovanie na základe dát z www.minimalnamzda.sk
+
+15
+
+Tabuľka 2 Stupne náročnosti práce
+Stupeň náročnosti
+práce
+
+Koeficient
+
+Hodinová minimálna
+
+Mesačná minimálna
+
+mzda (v €)
+
+mzda (v €)
+
+1.
+
+1,0
+
+4,31
+
+750
+
+2.
+
+1,2
+
+4,97
+
+866
+
+3.
+
+1,4
+
+5,64
+
+982
+
+4.
+
+1,6
+
+6,31
+
+1 098
+
+5.
+
+1,8
+
+6,97
+
+1 214
+
+6.
+
+2,0
+
+7,64
+
+1 330
+
+Zdroj: Vlastné spracovanie na základe dát z www.minimalnamzda.sk
+
+Do 1. stupňa náročnosti práce zaraďujeme primárne prípravné a manipulačné
+práce, ktoré zamestnanci vykonávajú podľa istých postupov a inštrukcií nadriadeného.
+Veľká časť zamestnaní, kde zamestnanci dostávajú minimálnu mzdu, patrí práve do tohto
+stupňa náročnosti práce, napr. operátor výroby, upratovačka. Do 2. stupňa náročnosti
+práce zaraďujeme rutinné odborné práce, jednoduché remeselné práce a práce, kde je
+stanovená hmotná zodpovednosť, ako napr. predavačka alebo administratívny pracovník.
+Do 3. stupňa náročnosti práce spadajú jednoduchšie agendy, práce s vyššou fyzickou
+námahou, rozličné druhy kreatívnych remeselných prác a práce, v ktorých ide
+o zodpovednosť za zdravie iných, napr. účtovníčka, zdravotná sestra. Do 4. stupňa
+náročnosti práce patria rozličné odborné agendy a druhy prác, ktoré si nevyžadujú vyššiu
+fyzickú námahu, ale prevažne psychickú námahu. Do tohto stupňa spadajú riadiace
+a manažérske funkcie, tiež práce, v ktorých je poskytovaná zdravotná starostlivosť, napr.
+hlavný účtovník, regionálny manažér. 5. stupeň náročnosti práce tvoria metodické
+a tvorivé druhy prác, ktoré od zamestnancov vyžadujú vyššiu psychickú odolnosť,
+zvládanie náročných procesov a zložitých postupov, napr. všeobecný lekár alebo manažér
+vo výrobe. Do 6. stupňa náročnosti práce spadajú kreatívne práce, kde je nutné riešiť
+úlohy neobyčajným spôsobom a ktoré môžu mať pre spoločnosť značný vplyv. Vyžaduje
+sa tu vysoká miera zodpovednosti, napr. generálny riaditeľ, výkonný riaditeľ.
+(www.minimalnamzda.sk)
+
+16
+
+1.2 Odporcovia a zástancovia minimálnej mzdy
+Trh práce funguje v podstate ako každý iný trh a riadi sa vo všeobecnosti
+rovnakými zákonitosťami ako ostatné trhy. Aj trh práce ovplyvňuje ponuka a dopyt.
+Ponuku práce predstavujú zamestnanci, ktorí ponúkajú na trhu svoju prácu, dopyt na trhu
+zas predstavujú zamestnávatelia. Podľa štandardnej ekonomickej teórie pri diferencii
+medzi ponukou a dopytom vzniká buď prebytok alebo nedostatok pracovnej sily. V bode,
+kde sa pretína ponuka a dopyt vzniká rovnovážna mzda, pri ktorej sa ponuka práce rovná
+dopytu po nej. Ak nastane situácia, že minimálna mzda sa nachádza nad úrovňou
+rovnovážnej mzdy, nastáva na trhu prebytok ponuky práce. Tento prebytok automaticky
+vedie k nezamestnanosti niektorých skupín zamestnancov. Nezamestnanosť a minimálna
+mzda sa môže týkať najmä málo vzdelaných ľudí, zatiaľ čo na vyššie vzdelaných ľudí
+nemá minimálna mzda žiaden dopad. Všeobecne sa dá povedať, že existuje veľká zhoda
+v tom, že zvyšovanie minimálnej mzdy môže spôsobovať vyššiu nezamestnanosť
+a nepriaznivo vplývať na tvorbu nových pracovných miest. (Autorský kol. RÚZ, 2021)
+Neumark (2018) vo svojej štúdii pojednáva o tom, že minimálna mzda je
+ekonomický, ale aj politický nástroj, ktorý slúži politikom ako prostriedok na splnenie
+požiadavky verejnosti na riešenie a boj proti rastúcej nerovnosti. Síce je nepochybné, že
+zvyšovanie úrovne minimálnej mzdy má efekt na niektoré skupiny zamestnancov, ktorí
+pracujú za minimálnu mzdu, zároveň však existujú podľa Neumarka nespochybniteľné
+dôkazy a štúdie o tom, že zvyšovanie minimálnej mzdy prináša so sebou znižovanie počtu
+pracovných miest. Cielené daňové úľavy podľa neho prinášajú pozitívnejšie výsledky ako
+minimálna mzda. Takisto účinnejšia je podľa neho politika zameraná na motiváciu členov
+nízko príjmových rodín pracovať.
+Negatívny pohľad na minimálnu mzdu má aj Zavodny (2000), ktorý na základe
+údajov z amerického trhu dospel k záveru, že minimálna mzda nemá na brigádnické
+hodiny študentov významný vplyv, ale čo sa týka zamestnanosti, na tú čiastočný vplyv
+má.
+Autorky Fialová a Mysíková (2021) poukazujú na skutočnosť, že napriek
+podobnosti Slovenska a Česka, je vyšší počet zamestnancov pracujúcich za minimálnu
+mzdu na Slovensku. Zistili, že je to zapríčinené hlavne vyššou minimálnou mzdou
+Slovákov oproti Čechom. V štúdií došli k záverom, že za minimálnu mzdu pracujú
+
+17
+
+prevažne mladí ľudia, z toho väčšina sú ženy s nižším vzdelaním. Títo ľudia majú tiež
+okrem toho sklon žiť v domácnostiach, kde je zvýšené riziko chudoby.
+Spomenieme ešte jednu štúdiu od spomínaných autoriek Fialovej a Mysíkovej
+(2009), kde dospeli k záveru, že exitujú závažné dopady zvyšovania úrovne minimálnej
+mzdy na zamestnanosť. V roku 1995 malo zvýšenie minimálnej mzdy v niektorých
+krajoch Česka badateľný vplyv na rast nezamestnanosti. Nárast podielu minimálnej mzdy
+na priemernej mzde v kraji o 1 % spôsobil nárast nezamestnanosti o 0,3 % až 0,7 %.
+Christl a kol. (2019) svojim výskumom došli k záveru, že pokiaľ má minimálna
+mzda nižšiu úroveň, má skôr kladné účinky, naopak pri vyššej úrovni minimálnej mzdy
+dochádza k nepriaznivým účinkom na zamestnanosť a tvorbu nových pracovných miest.
+Vo svojej štúdii ďalej poukázal aj na to, že súvis minimálnej mzdy a zamestnanosti je
+podmienený vo veľkej miere produktivitou práce zamestnancov a reguláciami na trhu
+práce. Negatívny dopad vyššej úrovne minimálnej mzdy na zamestnanosť je ešte
+intenzívnejší, ak sa k tomu pripojí nízka produktivita práce alebo dosť nekompromisné
+zásahy na pracovnom trhu.
+Napriek zhode mnohých autorov o negatívnych dopadoch minimálnej mzdy sa
+objavili aj štúdie ekonómov, ktoré hovoria o tom, že neexistujú dostačujúce dôkazy
+o negatívnom vplyve minimálnej mzdy na zamestnanosť. Aj keď zástancovia minimálnej
+mzdy na túto skutočnosť radi poukazujú, faktom ostáva, že štúdií o pozitívnych vplyvoch
+minimálnej mzdy na zamestnanosť je menšina. Až 2 tretiny výskumov poukazujú na to,
+že zvyšovanie minimálnej mzdy má negatívny dopad na zamestnanosť. (Autorský kol.
+RÚZ, 2021)
+Hlavnou ekonomickou štúdiou zástancov minimálnej mzdy je štúdia dvojice
+ekonómov Carda a Kruegera (1994). Títo autori urobili analýzu v 410 fast-foodových
+reštauráciách v 2 amerických štátoch, a to v New Jersey a v Pennsylvánii. Zatiaľ čo
+v Pennsylvánii ostala úroveň minimálnej mzdy nezmenená, v New Jersey sa v tom istom
+čase úroveň minimálnej mzdy zvýšila z 4,25 $ na 5,05 $ za hodinu. Autori zistili, že toto
+zvýšenie minimálnej mzdy v štáte New Jersey nemalo na zamestnanosť žiaden negatívny
+vplyv, práve naopak, zamestnanosť sa dokonca zvýšila. Skonštatovali tiež, že zvýšenie
+minimálnej mzdy nespôsobilo zvyšovanie cien v pozorovaných reštauráciách ani ich
+zatváranie. Tieto zistené závery spôsobili v ekonomickej obci veľký záujem, keďže
+
+18
+
+v podstatnej miere popierali dovtedy známe tvrdenia o negatívnom vplyve zvyšovania
+minimálnej mzdy na zamestnanosť.
+Ako sme spomínali, štúdia Carda a Kruegera vyvolala u ekonómov veľký záujem
+a hneď o rok neskôr prišla reakcia od autorov Neumarka a Waschera (1995). Tí štúdiu
+Carda a Kruegera skritizovali predovšetkým pre chybné dáta, ktoré použili pri svojej
+štúdii a prišli s opačným záverom, a to, že zvyšovanie úrovne minimálnej mzdy má
+negatívny vplyv na zamestnanosť.
+Ani táto štúdia neostala bez odozvy. Card a Krueger (1998) reagovali na zistenia
+Neumarka a Waschera opätovne ďalšou štúdiou. V tejto štúdii dvojica dospela k záveru,
+že ak sa použijú presnejšie údaje, je dopad na zamestnanosť len nepatrný. Okrem toho
+autori tvrdia, že ak dôjde k nízkemu nárastu úrovne minimálnej mzdy, môže to síce
+v niektorých reštauráciách spôsobiť pokles zamestnanosti, no tento pokles je nahradený
+nárastom zamestnanosti v inej reštaurácii. Ďalšie tvrdenie, ku ktorému autori dospeli je,
+že na základe jednej sady dát je takisto možné spozorovať malý, no štatisticky
+nevýznamný vplyv na pokles zamestnanosti v New Jersey, ktorý je spôsobený zvýšením
+minimálnej mzdy.
+Neumark a Wascher (2000) reagovali aj na túto štúdiu, opakovane napadli použité
+dáta a znova prišli k iným záverom. Ak je minimálna mzda na vysokej úrovni, nastáva
+nadbytok ponuky práce, čo vedie k zvýšenej nezamestnanosti určitých skupín občanov.
+Podľa autorov, ak nastane takáto situácia, zamestnávatelia kompenzujú prácu kapitálom
+(napr. strojmi) a niektoré pracovné pozície tak môžu zaniknúť alebo nevzniknú vôbec.
+V štúdiách, ktoré obhajujú minimálnu mzdu, stále jednoznačne prevláda
+presvedčenie, že práve dvojica ekonómov Card a Krueger preukázali, že malé zvýšenie
+minimálnej mzdy má pozitívny dopad na zamestnanosť. Toto výsledné tvrdenie je nielen
+smelé, ale po viacerých výpočtoch aj pomerne skresľujúce. (Autorský kol. RÚZ, 2021)
+
+1.3 Vplyv minimálnej mzdy na vybrané ukazovatele
+Veľmi nás zaujala práca Kuruca (2019), zakladateľa občianskeho združenia
+Pracujúca chudoba, ktorý komplexne poukazuje na dopady minimálnej mzdy. Rodí sa
+menej detí, každý rok nám odchádzajú desaťtisíce rodákov za prácou do zahraničia a ak
+k tomu prirátame ešte aj nízke mzdy, nastáva situácia, že je reálny problém nájsť
+19
+
+upratovačku. Je to možno paradox, ale práve toto nízko kvalifikované pracovné miesto
+patrí medzi pracovné pozície, ktoré je naozaj problematické obsadiť. V tejto práci sa
+komplexným, jednoduchým a jasným spôsobom vysvetľuje akým problémom je
+minimálna mzda a celkovo nízka mzda pre Slovensko. Zaujímavé je to, že tento problém
+by vôbec nemusel existovať, pretože v našej krajine nie sú ekonomické dôvody na tak
+nízke mzdy, ako máme. Pozrime sa len na niekoľko jednoduchých dopadov minimálnych
+miezd. Zamestnanec, ktorý zarobí málo nie je motivovaný podávať v práci dobré výkony,
+časom nemá dôvod ani ostať v zamestnaní. Nízka mzda tak často robí zo zamestnanca
+zlého zamestnanca a budúceho fluktuanta. Ak sa na to pozrieme z hľadiska daní, tak málo
+zaplatený zamestnanec odvádza nízke dane, je teda zlým daňovým poplatníkom. Kto
+málo zarába, ten aj málo míňa na nákup tovarov a služieb od miestnych podnikov, a tie
+tak stagnujú vo svojom rozvoji. Veľmi veľkým problémom dnešnej doby je neskoršie
+zakladanie rodín, na ktoré majú tiež dosah nízke príjmy. A ak už aj má zle zarábajúci
+človek deti, nedokáže im poskytnúť maximum na rozvoj ich talentov. Takto zle platený
+zamestnanec je frustrovaný, pesimistický, nemá chuť, energiu a ani čas zaoberať sa
+svojim okolím a vonkajším svetom. Toto všetko je zapríčinené minimálnymi, resp.
+nízkymi mzdami a často je k tomu pridružené ešte aj zlé pracovné prostredie.
+
+Vplyv minimálnej mzdy na zamestnanosť
+Broček a kol. (2022) zistili, že v rokoch 2010 až 2018 malo zvyšovanie
+minimálnej mzdy za následok nepriaznivý dopad na zamestnanosť. Ak to premietneme
+do čísel, tak v priemere nárast minimálnej mzdy o 5 % spôsobil pokles zamestnanosti
+o 0,8 %. Tento pokles zamestnanosti tak predstavuje takmer 14 000 pracovných
+miest. S postupom rokov tento efekt klesal. Ak sa pozrieme na vplyv zvyšovania
+minimálnej mzdy na zamestnanosť v regiónoch, tak v ekonomicky vyspelejších
+regiónoch bol tento vplyv pomerne chabý, zatiaľ čo v ekonomicky slabších regiónoch bol
+vplyv výrazne silnejší. Vplyv zvyšovania minimálnej mzdy na zamestnanosť je závislý
+na hospodárskom cykle, citlivosť tohto efektu je nižšia vo fázach, keď ekonomika
+napreduje. Ak sa pozrieme na to, ako tento vplyv pôsobil na zamestnancov z hľadiska
+veku, tak najviac zasiahnuté boli najmladšie a najstaršie ročníky. Po strate zamestnania
+sa do 1 roka na trh práce dokázala vrátiť vyše polovica ľudí, pričom ich mzdy po znovu
+zamestnaní boli v priemere vyššie ako pred stratou predošlého zamestnania. Zníženie
+20
+
+nepriaznivého vplyvu na zamestnanosť prišlo v roku 2015, keď došlo k zníženiu daňovoodvodového zaťaženia práce.
+Paur (2016) vo svojej štúdii uvádza, že daňové zaťaženie priemerne zarábajúceho
+Slováka sa roku v 2015 takmer vôbec nezmenilo, zatiaľ čo daňové zaťaženie nízko
+príjmových občanov sa významne znížilo, a to prostredníctvom zavedenia odvodovo
+odpočítateľnej položky. Nárok na uplatnenie tejto položky vznikol ľuďom, ktorí zarobili
+maximálne 570 € a jej výška je 380 € mesačne. Odvody zamestnanca na Slovensku
+predstavujú 13,4 %, tým patria medzi jedny z najnižších odvodov zamestnanca v rámci
+V4 a OECD. Odvody zamestnávateľa predstavujú 35,2 %, a to je príčinou dosť vysokého
+zaťaženia práce na Slovensku. Odvody, ktoré platí zamestnávateľ podstatne zvyšujú
+celkové náklady práce na zamestnanca, a to nepriaznivo ovplyvňuje zamestnávanie
+najmä nízko kvalifikovaných zamestnancov. Vláda SR v roku 2015 zaviedla odvodovo
+odpočítateľnú položku, aby tento nepriaznivý vplyv vysokých odvodov zamestnávateľa
+stlmila a prispela tak k zlepšeniu situácie ohľadom zamestnávania nízko kvalifikovaných
+zamestnancov.
+Ako už bolo spomínané, autori z IFP v roku 2022 dospeli k záveru, že v rokoch
+2010 až 2018 malo zvyšovanie minimálnej mzdy na zamestnanosť negatívny dopad.
+Kačalka (2024) vo svojom článku pojednáva o tom, že analytici k týmto záverom
+dodávajú, že tento efekt v čase klesal a medzi jednotlivými regiónmi sa odlišoval.
+Nepriaznivo sa ukázal predovšetkým v Nitrianskom, Banskobystrickom a Prešovskom
+kraji, vo vyspelejších krajoch je minimálny. V aktuálnom roku dosiahla minimálna mzda
+hodnotu 750 € v hrubom, čo je o 50 € viac ako v predošlom roku. Nasledujúce roky
+prinesú ešte citeľnejšie zvyšovanie úrovne minimálnej mzdy, keďže do tohto zvyšovania
+sa oneskorene premietne vysoká inflácia a avizovaná úprava mechanizmu výpočtu
+minimálnej mzdy. Vyššia minimálna mzda síce môže signalizovať lepšiu životnú úroveň,
+no to platí len za predpokladu, že zamestnanci na najnižších pozíciách neprídu o prácu
+v dôsledku zvýšených nákladov zamestnávateľa. Minimálna mzda má v tomto roku
+vyššiu hodnotu, ako predpokladá zákonný mechanizmus, čo je dôsledkom dohody, ktorá
+je už 2. rok v platnosti medzi zamestnávateľmi a odbormi a vznikla v reakcii na vysokú
+infláciu. Zároveň však AZZZ deklaruje, že je podstatné, aby úroveň minimálnej mzdy
+bola akceptovateľná aj pre zamestnávateľov v slabších regiónoch Slovenska.
+
+21
+
+Na negatíva a pozitíva zvyšovania minimálnej mzdy na zamestnanosť poukazuje
+aj AZZZ SR (2024) vo svojom článku, kde uvádza názory rôznych slovenských
+analytikov. Minimálna mzda má na Slovensku najbližšie roky znova stúpať a predpokladá
+sa, že od roku 2026 by mala dosahovať úroveň minimálnej mzdy minimálne 60 %
+priemernej mzdy v hospodárstve spred 2 rokov, aktuálne je to 57 %. Tu nastáva rozpor
+v názoroch o vplyve zvyšovania minimálnej mzdy na zamestnanosť, kde vláda sa
+zmenami chváli a teší sa z nich, zatiaľ čo zamestnávatelia a analytici majú presne opačný
+názor a vidia riziká vo zvyšovaní minimálnej mzdy. Aktuálna výška minimálnej mzdy je
+vo výške 750 €, odhad v roku 2025 je vo výške 816 €, v roku 2026, kde sa už predpokladá
+zavedenie nových pravidiel je odhadovaná úroveň 920 €, v roku 2027 by mala byť jej
+úroveň vo výške 969 €. S minimálnou mzdou sú spojené víkendové aj nočné príplatky,
+ktoré by sa mali zvyšovať tým istým tempom. Členské štáty nemajú európskymi
+smernicami stanovenú presnú hodnotu minimálnej mzdy, ide len o odporúčania, ktoré
+poukazujú na úroveň 50 % priemernej mzdy v aktuálnom roku, čo teda znamená, že štáty
+si môžu upraviť úroveň minimálnej mzdy podľa seba. To, akým tempom by sa mala
+zvyšovať minimálna mzda je ale terčom veľkej kritiky. Hošták z RÚZ patrí medzi kritikov
+spomínaného návrhu. Zamestnávateľom by stúpli náklady a keďže nevedia nafúknuť
+mzdové balíky, výsledkom v mnohých firmách by bolo, že zamestnanci by to nemilo
+pocítili na benefitoch či odmenách. Ďalším negatívnym javom by bolo podľa Hoštáka
+premietnutie vyšších nákladov do cien tovarov a služieb. Podobne nepriaznivo to vidí aj
+AZZZ. Tiež je presvedčená o tom, že to spôsobí nárast nákladov a je zástancom názoru,
+že zvyšovanie minimálnej mzdy negatívnym spôsobom ovplyvní zamestnanosť. Pokiaľ
+je úprava mechanizmu zameraná na rast úrovne minimálnej mzdy zamestnancov, tak je
+podľa asociácie potrebné baviť sa aj o úprave daňovo-odvodového zaťaženia a ceny
+práce, aby tým pádom zvyšovanie minimálnej mzdy a jej príplatkov neprinášalo
+zamestnávateľom rast nákladov a zamestnanci aby dostávali reálne v čistom viac peňazí.
+Chovanculiak z INESS vidí zvyšovanie minimálnej mzdy vo vzťahu k zamestnanosti
+taktiež negatívne, pričom poukázal na to, že toto zvyšovanie priťaží najmä ekonomicky
+slabším okresom. Pri tomto tvrdení sa opieral o výskum MF SR, ktorý potvrdil, že
+zvyšovanie úrovne minimálnej mzdy privodilo najviac problémov práve v ekonomicky
+slabších okresoch. Upozornil na fakt, že zatiaľ čo v Česku majú v pláne zvýšenie
+minimálnej mzdy do roku 2029 na úroveň 47 % priemernej mzdy, slovenskej vláde sa
+zdá úroveň 49 % priemernej mzdy z roku 2023 nedostačujúca. Podľa Chovanculiaka tak
+zamýšľaný zrýchlený rast minimálnej mzdy predstavuje veľké riziko pre slabšie regióny.
+22
+
+Ak teda vyjde plán zväčšiť podiel úrovne minimálnej mzdy o ďalšie 3 %, tak odhady sú,
+že v roku 2028 bude podiel minimálnej mzdy na priemernej mzde činiť 55 %, a tým sa
+Slovensko dostane v rámci EÚ medzi krajiny, ktoré budú mať vzhľadom na svoju mzdovú
+úroveň najvyššiu minimálnu mzdu. Nájdu sa však aj takí, ktorí nevidia vplyv zvyšovania
+úrovne minimálnej mzdy na zamestnanosť až tak negatívne. Košč z ASEA tvrdí, že
+neustále zvyšovanie minimálnej mzdy môže mať pozitívny vplyv na kúpyschopnosť
+a viesť teda k jej zvyšovaniu. Kúpyschopnosť obyvateľstva je podstatou našej domácej
+ekonomiky a prostredníctvom tohto kúpyschopného dopytu dochádza k vytváraniu
+nových pracovných miest. Košč uvádza, že ak niekto tvrdí, že v ekonomicky slabších
+a chudobnejších okresoch by klesanie minimálnej mzdy malo pozitívny dopad, tak
+v podstate tvrdí, že v týchto okresoch treba znížiť kúpyschopnosť obyvateľstva, a teda
+tým aj zamestnanosť. Podľa Košča sa vplyv zvyšovania úrovne minimálnej mzdy dosť
+preceňuje a adekvátne zvýšenie minimálnej mzdy ekonomike vo veľkej miere neškodí
+a menšie nepriaznivé vplyvy, ktoré sa môžu objaviť, je možné korigovať aktívnymi
+politikami na trhu práce. Tvrdí tiež, že tempo zvyšovania úrovne minimálnej mzdy
+v Česku nie je možné a správne jednoducho porovnávať s tempom zvyšovania úrovne
+minimálnej mzdy na Slovensku, nakoľko v Čechách majú pre stanovenie úrovne
+minimálnej mzdy inú stratégiu a metódu. Navyše, ak tempo zvyšovania úrovne
+minimálnej mzdy na Slovensku porovnáme so Slovinskom, kde bol v roku 2021 podiel
+minimálnej mzdy na priemernej mzde na úrovni 61 %, tak sa naše tempo zdá stále
+primerané.
+Bodnár a kol. (2018) vo svojej štúdii pojednávajú o tom, že debaty o vplyvoch
+zvyšovania minimálnej mzdy sa vedú desaťročia, no doteraz sú dôkazy o dopadoch tohto
+zvyšovania nejednoznačné. Rokmi boli vyvinuté rozličné teoretické modely, ktoré
+popisujú potenciálne vplyvy zvyšovania minimálnej mzdy. Jedným z nich je
+konkurenčný model, ktorý hovorí o nepriaznivých dopadoch na zamestnanosť, pretože
+podniky nahrádzajú nižšie kvalifikovaných zamestnancov zamestnancami s vyššou
+kvalifikáciou. Ďalším sú monopsónové modely, ktoré poukazujú na kladné vplyvy
+zvýšeného využívania zamestnancov s nižšou kvalifikáciou na zamestnanosť. Efektívne
+mzdové modely zas konštatujú, že zvýšená efektívnosť je dosahovaná prostredníctvom
+zamestnancov, ktorí, keďže dostávajú vyššiu mzdu, tak vynakladajú aj vyššiu snahu.
+Rozličné vplyvy zvyšovania minimálnej mzdy zároveň analyzuje iba nepatrná časť
+literatúry a veľmi málo štúdií je zameraných rovno na odpovede zamestnávateľov
+23
+
+o taktikách prispôsobenia, ktoré preferujú. Vo svete existuje iba niekoľko štúdií
+zaoberajúcich sa výskumom, ktorý kombinuje tieto spomínané 2 hľadiská. Čo sa týka
+Európy, tak podľa zistení autorov tejto štúdie je táto jediná, ktorá sa upriamila na viaceré
+možné kanály prispôsobenia. Bol vypracovaný jedinečný dotazník, ktorý sa pýta
+podnikov v 8 európskych krajinách na ich stratégie prispôsobenia sa po poslednom
+zvyšovaní minimálnej mzdy, a to konkrétne v Bulharsku, Estónsku, Maďarsku, Lotyšsku,
+Litve, Poľsku, Rumunsku a Slovinsku. Tieto spomínané krajiny majú oproti ostatným
+štátom EÚ väčší podiel zamestnancov s nízkymi mzdami a za posledné roky bol v týchto
+krajinách evidovaný vysoký rast minimálnej mzdy, ako aj rast pomeru minimálnej mzdy
+k priemernej mzde. Všetko spomínané tak predstavuje ideálny stav pre analyzovanie
+prenosových kanálov pre zvyšovanie minimálnej mzdy. Dotazník bol tvorený z 2 otázok
+o minimálnej mzde. Prvá otázka sa týkala podielu zamestnancov, ktorí dostávajú
+minimálnu mzdu, druhá otázka sa pýtala na to, ako sa prispôsobili podniky po poslednom
+zvyšovaní minimálnej mzdy. Čo sa týka zamestnancov, ktorí zarábajú minimálnu mzdu,
+tu sa poukázalo na viditeľné medzištátne a sektorové diferencie. Čo bolo ale v rámci tejto
+skupiny zamestnancov podobné je, že väčšia časť zamestnancov, ktorí zarábajú
+minimálnu mzdu sú zamestnaní v malých podnikoch, ktoré nič nevyvážajú a ani nie sú
+v domácom vlastníctve a v podnikoch, ktoré zamestnávajú väčší podiel nízko
+kvalifikovaných zamestnancov. Výsledky tejto štúdie poukazujú na to, že zvyšovanie
+minimálnych miezd sa zvyčajne odrazí vo vyšších cenách, firmy sa tiež snažia zvyšovať
+produktivitu a znižovať nepracovné náklady. Záver štúdie tiež poukazuje na to, že
+zvyšovanie minimálnej mzdy nespôsobuje priamo znižovanie zamestnanosti, ale
+dochádza skôr k znižovaniu náboru ako k priamemu prepúšťaniu zamestnancov.
+
+Minimálna mzda a migrácia
+V tejto časti práce chceme poukázať na vplyv minimálnej mzdy na migráciu.
+Keďže sme ale nenašli štúdie, ktoré by sa týkali Európy a V4, priblížime si tento vplyv
+v USA, kde prebiehalo hneď niekoľko výskumov.
+Štúdia autorov Martina a Termosa (2015) skúma zmeny v migrácii v USA
+dôsledkom štátnych a miestnych rozdielov v minimálnych mzdách. Ak sa vyššia úroveň
+minimálnej mzdy spája so stratou zamestnania a rušením pracovných miest, potom by
+štáty, ktoré zvyšujú úroveň minimálnej mzdy, mali automaticky evidovať vyššiu úroveň
+24
+
+migrácie. Na základe dát z prieskumov ACS autori zistili, že diferencia v podobe 1 dolára
+medzi minimálnou mzdou v 2 oblastiach je spätá s o 3,1 % vyššou migráciou nízko
+kvalifikovaných zamestnancov práve do oblasti, kde je nižšia minimálna mzda. Čo sa
+týka migrácie vysoko kvalifikovaných zamestnancov, tam nebol zistený vplyv
+minimálnej mzdy. V štúdii predostreli dôkazy, že zvyšovanie minimálnej mzdy je
+dôležitým činiteľom migrácie nízko kvalifikovaných zamestnancov. Na trhu práce vyššia
+minimálna mzda vedie k zníženiu dopytu po nízko kvalifikovaných zamestnancoch, preto
+sa títo sťahujú do štátov, kde je zvýšený dopyt po ich práci.
+Profesor a ekonóm Boffy-Ramirez (2013) vypracoval štúdiu, v ktorej skúma, či
+vplýva zvyšovanie minimálnej mzdy v štáte na migráciu do tohto štátu. Chcel teda
+dospieť k odpovedi na otázku, či nárast minimálnej mzdy priťahuje zamestnancov
+s nízkym vzdelaním. K vypracovaniu tejto štúdie ho viedol fakt, že v literatúre sa často
+uvádza, že migrácia je dôsledkom rozdielov v sociálnych dávkach v jednotlivých štátoch,
+ale je len málo štúdií, ktoré skúmali minimálnu mzdu ako dôvod migrácie. Boffy-Ramirez
+sa zameral na nízko kvalifikovaných prisťahovalcov a empiricky skúmal vplyv
+minimálnej mzdy na ich rozhodovanie o tom, v ktorom štáte USA ostanú žiť a pracovať.
+V tomto výskume dokazuje, že voľba cieľového miesta je senzibilná na zmeny úrovne
+minimálnej mzdy, ale veľmi záleží aj od rokov strávených v USA. Výraznejšie vplýva
+zvyšovanie minimálnej mzdy na nového migranta alebo migranta, ktorý je v krajine pár
+rokov a menej výrazne na migranta, ktorý sa už usadil. Jeho výsledky poukazujú na to,
+že najväčší vplyv má zvyšovanie minimálnej mzdy na migrantov, ktorí sú v USA 2 až 4
+roky. Zvýšenie minimálnej mzdy o 1 dolár je sprevádzané 26 % nárastom počtu
+migrantov. Ďalej prišiel k poznatkom, že zvyšovanie minimálnej mzdy výrazne
+neoslabuje zamestnanosť migrantov.
+Z empirických faktov Monrasa (2019) je zrejmé, že zvyšovanie minimálnej mzdy
+spôsobuje zvyšovanie miezd a pokles zamestnanosti nízko kvalifikovaných občanov. Títo
+sú potom naklonení myšlienke odchádzať z regiónov, ktoré zvyšujú minimálnu mzdu.
+
+Minimálna mzda a produktivita práce
+Nasledovnými štúdiami poukážeme na vplyv minimálnej mzdy na produktivitu
+práce.
+
+25
+
+Štúdia od autoriek Riley a Bondibene (2017) poukazuje na zavedenie národnej
+minimálnej mzdy vo Veľkej Británii a jej následné zvyšovanie, čo využili na zistenie
+účinkov minimálnej mzdy na produktivitu práce. Prišli na to, že minimálna mzda zvýšila
+priemerné náklady práce v podnikoch, ktoré majú sklon zamestnávať nízko
+kvalifikovaných a platených zamestnancov. Objavili dôkazy, ktoré napovedajú, že firmy
+zareagovali na toto zvýšenie nákladov práce zvýšením produktivity práce. Zdá sa, že tieto
+zmeny produktivity práce sa neuskutočnili prostredníctvom zníženia počtu pracovníkov
+v podnikoch alebo prostredníctvom substitúcie kapitálu a práce.
+So zvýšením minimálnej mzdy vo väčšine štátov juhovýchodnej Európy súčasne
+dochádza k zvýšeniu základného zdroja príjmu a zaistenie vyššej úrovne sociálneho
+zabezpečenia a blahobytu zamestnancov. V niektorých štátoch bolo aj napriek
+nepriaznivým hospodárskym ukazovateľom a pomalému spamätávaniu sa z hospodárskej
+krízy zaznamenané rapídne zvýšenie minimálnej mzdy. Zvýšenie minimálnej mzdy
+v týchto štátoch takto prispelo k tomu, že narastá tá časť zamestnancov, ktorí zarábajú
+minimálnu mzdu, čo dodatočne zaťažuje hospodársky systém. Zvýšenie minimálnej
+mzdy by okrem toho nemalo byť kompenzáciou za zlepšovanie situácie na trhu práce,
+ako aj za pomalý rast produktivity práce, ktorý je ustavične za rýchlejším tempom rastu
+produktivity práce v štátoch západnej Európy. V uplynulom období došlo v Albánsku,
+Bulharsku, Chorvátsku, Rumunsku, Severnom Macedónsku a Srbsku k viditeľnému
+zvýšeniu minimálnej mzdy. Spomínané štáty, v ktorých bolo zaregistrované najvyššie
+tempo nárastu úrovne minimálnej mzdy, sú objektom výskumu v štúdii Trenovskeho
+a kol. (2021). Táto štúdia skúma prostredníctvom panelového regresného modelu vzťah
+medzi úrovňou minimálnej mzdy a produktivitou práce. Analyzované štáty sú rozčlenené
+do 2 skupín, a to na členské štáty EÚ (Bulharsko, Chorvátsko, Rumunsko) a nečlenské
+štáty EÚ (Albánsko, Severné Macedónsko, Srbsko). Tieto 2 skupiny štátov sú zložené
+podľa špecifických ekonomických kritérií, a to mobilita pracovnej sily a úroveň HDP
+a neekonomických kritérií, čo je členstvo v EÚ. Zámerom výskumu je zistiť koreláciu
+a príčinný súvis medzi zvýšením úrovne minimálnej mzdy a produktivitou práce, pričom
+dosiahnuté výsledky poukazujú na to, ako jednotlivé vlády štátov určujú výšku
+minimálnej mzdy, do akej miery ju zvyšujú a či zvyšovanie úrovne minimálnej mzdy má
+súvis so zvyšovaním produktivity práce. Závery poukazujú na to, že v skupine
+nečlenských krajín je medzi minimálnou mzdou a produktivitou práce skúmaný vzťah
+silný a pozitívny, v skupine členských krajín je tento vzťah naopak slabý a negatívny.
+26
+
+Autori Qi a Wang (2022) prišli s výskumom, ako zvyšovanie minimálnej mzdy
+pôsobí na rast produktivity podnikov na reprezentatívnych údajoch z čínskej výroby
+a zistili, že pri zvýšení minimálnej mzdy o 1 % sa miera rastu produktivity v priemere
+zníži o 0,299 % a že zmeny v minimálnej mzde majú veľmi heterogénny účinok na rast
+produktivity práce v rôznych regiónoch, časoch a vlastníctvach. Aby sa podniky
+vyrovnali s ustavičným zvyšovaním minimálnej mzdy, budú na nahradenie práce
+používať viac kapitálu a medzivstupov.
+
+Minimálna mzda a inflácia
+Štúdia od Majchrowskej (2022) skúma súvis medzi zvyšovaním minimálnej mzdy
+a mierou inflácie. Na analýzu použila dáta zo 16 poľských oblastných trhov práce
+v rokoch 2003 až 2020. Záverom štúdie je, že účinok minimálnej mzdy na infláciu je
+štatisticky významný a pozitívny a je vyšší, ak závislú premennú predstavuje inflácia
+potravín. Vplyvy minimálnej mzdy sú odlišné z časového hľadiska a v jednotlivých
+regiónoch. Zvýšenie minimálnej mzdy je badateľnejšie v období vysokej inflácie ako
+v období nízkej inflácie. Pokiaľ ide o regionálne odlišnosti, inflačný tlak je vyšší
+v regiónoch so silnými trhmi práce a pomerne vysokými mzdami, čiže v tých regiónoch,
+kde môžu podniky pokojne presunúť dosť značnú časť svojich zvýšených nákladov práce
+na spotrebiteľov. Tieto konštatovania sú podstatné tak pre trh práce, ako aj pre regionálnu
+politiku, predovšetkým vzhľadom na vysokú úroveň inflácie, ktorá bola v Poľsku
+prednedávnom zaevidovaná a očakávaný rast minimálnej mzdy v najbližších rokoch.
+Štúdia poukazuje tiež na to, že aj keď zvýšenie minimálnej mzdy nemá vplyv na zníženie
+zamestnanosti, môže tvoriť dodatočné inflačné tlaky, hlavne v čase hospodárskeho
+rozvoja a v regiónoch s nižšou mierou nezamestnanosti.
+
+Minimálna mzda a HDP
+Štúdia od Sabiu (2015) ako prvá zisťuje súvis medzi zvyšovaním minimálnej
+mzdy a HDP štátu. Na základe dát získaných v rokoch 1979 až 2012 nezistil žiadne
+dôkazy o tom, že by zvyšovanie úrovne minimálnej mzdy malo súvis so zmenou
+celkového HDP štátu. Toto nulové zistenie ale zakrýva nemalú heterogenitu vo vplyvoch
+zvyšovania minimálnej mzdy na produktivitu v jednotlivých odvetviach a v priebehu
+27
+
+hospodárskeho cyklu. Odhady napovedajú, že zvýšenie minimálnej mzdy o 10 % je
+spojené s krátkodobým úbytkom HDP štátu o 1 % až 2 %, ktorý vytvárajú odvetvia
+s nižšou kvalifikáciou v porovnaní s odvetviami, kde je vyššia kvalifikácia. Tento rozdiel
+sa zdá byť väčší počas obdobia poklesu hospodárskeho cyklu v porovnaní s rozdielom
+v období rozmachu hospodárskeho cyklu štátu.
+
+Minimálna mzda a nezamestnanosť
+Štúdia od Tkáčovej a kol. (2022) skúma vplyv minimálnej mzdy na mieru
+nezamestnanosti na Slovensku v rokoch 1993 až 2020. Skúmaním došli k záveru, že
+pokles miery nezamestnanosti môže nastať, ak je nárast minimálnej mzdy menej
+intenzívny ako nárast priemernej mzdy a rozdiel medzi minimálnou mzdou a životným
+minimom sa ustavične zväčšuje. K poklesu miery nezamestnanosti na Slovensku takisto
+prispieva rast HDP a pokles počtu ľudí, ktorí majú len základné vzdelanie.
+
+28
+
+2 Cieľ a metodológia skúmania
+
+V tejto kapitole si najskôr priblížime hlavný cieľ diplomovej práce a parciálne
+ciele, vďaka ktorým sa dopracujeme k hlavnému cieľu. Potom si popíšeme jednotlivé
+metódy skúmania použité v práci.
+
+2.1 Hlavný cieľ a čiastkové ciele
+Hlavným cieľom práce je analýza vplyvu minimálnej mzdy na zamestnanosť
+v krajinách V4. Aby sme ho dosiahli, je potrebné ho skúmať v 2 rovinách, a to
+v teoretickej a následne empirickej. V obidvoch častiach si stanovíme čiastkové ciele,
+ktorými sa dopracujeme k hlavnému cieľu.
+V teoretickej časti ako logicky vyplýva, skúmame túto problematiku
+z teoretického hľadiska, a to štúdiom literatúry. Hlavný cieľ si tu rozdelíme na niekoľko
+čiastkových cieľov. Najskôr charakterizujeme minimálnu mzdu, potom zástancov
+a odporcov minimálnej mzdy a nakoniec prostredníctvom štúdia názorov rôznych
+autorov opisujeme a porovnávame vplyv minimálnej mzdy na zamestnanosť, migráciu,
+produktivitu práce, infláciu, HDP a nezamestnanosť.
+V empirickej časti je hlavným cieľom prostredníctvom výpočtov a analýz posúdiť
+vplyv minimálnej mzdy na zamestnanosť. Aj tu si hlavný cieľ rozdelíme do niekoľkých
+čiastkových cieľov. Najskôr analyzujeme vývoj minimálnej mzdy v jednotlivých
+krajinách V4, potom analyzujeme medziročný vývoj minimálnej mzdy v eurách
+a percentuálny medziročný vývoj minimálnej mzdy. Ďalším čiastkovým cieľom je
+porovnanie minimálnej mzdy krajín V4 s minimálnou mzdou ostatných krajín EÚ. V tejto
+podkapitole porovnáme tiež medziročné prírastky minimálnej mzdy krajín EÚ s rastom
+cien tovarov a služieb a vypočítame mediánovú a priemernú mzdu za jednotlivé roky.
+Medzi parciálne ciele zaraďujeme aj percentuálne vyjadrenie úrovne minimálnej mzdy
+na mediánových a priemerných mzdách v krajinách V4. Ďalším čiastkovým cieľom je
+výpočet a analýza vplyvu minimálnej mzdy na zamestnanosť, produktivitu práce,
+infláciu, HDP a nezamestnanosť. Posledným čiastkovým cieľom empirickej časti je
+výpočet a analýza odvodov, ceny práce a čistej minimálnej mzdy na Slovensku a výpočet
+a analýza vplyvu ceny práce na zamestnanosť. Hľadáme teda odpoveď na nasledujúce
+29
+
+výskumné otázky: Ovplyvňuje minimálna mzda zamestnanosť? Ovplyvňuje minimálna
+mzda produktivitu práce? Ovplyvňuje minimálna mzda infláciu? Ovplyvňuje minimálna
+mzda HDP? Ovplyvňuje minimálna mzda nezamestnanosť? Ovplyvňuje cena práce
+zamestnanosť?
+
+2.2 Metodológia skúmania
+Primárnou fázou pri spracovaní teoretickej časti diplomovej práce je štúdium
+domácej i zahraničnej literatúry, z malej časti aj štúdium aktuálne platnej legislatívy
+a informácií zo ŠÚ SR. Veľkú časť teoretických poznatkov sa snažíme čerpať z rôznych
+zahraničných výskumov, štúdií, vedeckých článkov a prác, ktoré hľadáme hlavne
+v internetovej databáze WoS, niektoré aj na iných webových stránkach. V prvom rade sa
+zameriavame na zber materiálov a informácií, potom získané údaje triedime podľa toho,
+či sú pre našu prácu prínosné alebo nie. Snažíme sa používať čo najnovšie štúdie, no
+v niekoľkých prípadoch čerpáme aj zo starších štúdií, a to z dôvodu, že tieto výskumy, aj
+keď sú staršieho dáta, významne ovplyvňujú pohľad na vplyv minimálnej mzdy.
+Pri spracovaní empirickej časti čerpáme informácie z inštitúcií Eurostat
+a OECD.Stat, ďalej zo SP a VŠZP. Údaje spracujeme do tabuliek, grafov, percentuálnych
+vyjadrení a ku všetkému pridáme textové popisy, porovnania a analýzy. Používame tiež
+niekoľko štatistických analýz. Na analýzu vývoja hodnôt používame reťazový index,
+ktorý vyjadruje zmenu, ktorá nastala oproti bezprostredne predchádzajúcemu roku.
+Používame aj medián, ktorý predstavuje strednú hodnotu v skupine čísel, ktoré sú
+zoradené podľa veľkosti a priemer, ktorý je súčtom hodnôt skupiny čísel a následným
+vydelením počtom čísel v tejto skupine. Ako poslednú používame regresnú a korelačnú
+analýzu, kde regresná analýza identifikuje a kvantifikuje vzťah závislej a nezávislej
+premennej a korelačná analýza skúma silu závislosti týchto 2 premenných. Pomocou nej
+vieme zistiť, ako silno sa mení jedna premenná v závislosti od druhej premennej alebo či
+to druhú premennú vôbec ovplyvňuje. Ak rastie jedna premenná a v závislosti od nej
+rastie aj druhá, tak potom hovoríme o priamej korelačnej závislosti, ak jedna premenná
+rastie a druhá klesá, tak potom zas hovoríme o nepriamej korelačnej závislosti. Koeficient
+korelácie je výsledkom korelačnej analýzy a môže nadobúdať hodnoty v intervale od -1
+do +1, kde hodnota -1 predstavuje najvyššiu negatívnu koreláciu, hodnota +1 znamená
+najvyššiu pozitívnu koreláciu, hodnota 0 znamená žiadnu koreláciu.
+30
+
+3 Analýzy a skúmania
+
+V tejto kapitole sa venujeme empirickej časti diplomovej práce. Najskôr
+analyzujeme vývoj úrovne minimálnej mzdy v krajinách V4. Analyzujeme tiež vývoj
+úrovne minimálnej mzdy v krajinách EÚ, aby sme úroveň minimálnej mzdy v krajinách
+V4 porovnali s úrovňou minimálnej mzdy v EÚ. Vyjadríme tiež úroveň minimálnej mzdy
+na mediánových a priemerných mzdách krajín V4. Ďalej sa venujeme výpočtu a analýze
+vplyvu minimálnej mzdy na zamestnanosť, produktivitu práce, infláciu, HDP
+a nezamestnanosť. Na záver vypočítame a analyzujeme odvody, vývoj čistej minimálnej
+mzdy a cenu práce a jej vplyv na zamestnanosť.
+
+3.1 Vývoj minimálnej mzdy v krajinách V4
+V tejto časti práce analyzujeme vývoj úrovne minimálnej mzdy v jednotlivých
+krajinách V4 a zanalyzujeme taktiež prírastok minimálnej mzdy, a to v eurách aj
+v percentách. Analyzujeme roky 2017 až 2024.
+
+Tabuľka 3 Vývoj minimálnej mzdy na Slovensku v rokoch 2017 až 2024
+Rok
+
+Hodnota (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2017
+
+435
+
+30
+
+7,41
+
+2018
+
+480
+
+45
+
+10,34
+
+2019
+
+520
+
+40
+
+8,33
+
+2020
+
+580
+
+60
+
+11,54
+
+2021
+
+623
+
+43
+
+7,41
+
+2022
+
+646
+
+23
+
+3,69
+
+2023
+
+700
+
+54
+
+8,36
+
+2024
+
+750
+
+50
+
+7,14
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+31
+
+Ak sa pozrieme na vývoj úrovne minimálnej mzdy na Slovensku, vidíme, že jej
+výška od roku 2017, kedy mala hodnotu 435 €, každým rokom rástla až po súčasnosť,
+kedy má aktuálne hodnotu 750 €. Najviac vzrástla v roku 2020, a to o 60 €, čo predstavuje
+nárast o 11,54 %. Najmenej naopak vzrástla v roku 2022, a to len o 23 €, čiže o 3,69 %.
+Celkovo tak za 8 rokov úroveň minimálnej mzdy vzrástla o 315 €, čo znamená nárast
+o 72,41 %. Aj napriek pandémii minimálna mzda na Slovensku rástla.
+
+Tabuľka 4 Vývoj minimálnej mzdy v Česku v rokoch 2017 až 2024
+Rok
+
+Hodnota (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2017
+
+408
+
+41
+
+11,17
+
+2018
+
+478
+
+70
+
+17,16
+
+2019
+
+519
+
+41
+
+8,58
+
+2020
+
+575
+
+56
+
+10,79
+
+2021
+
+580
+
+5
+
+0,87
+
+2022
+
+652
+
+72
+
+12,41
+
+2023
+
+718
+
+66
+
+10,12
+
+2024
+
+765
+
+47
+
+6,55
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Vývoj minimálnej mzdy v Česku mal taktiež len rastúcu tendenciu. Minimálna
+mzda rástla, a to od roku 2017, kedy mala hodnotu 408 € až po aktuálny rok 2024, kedy
+má hodnotu 765 €. Ak sa pozrieme na najvyšší prírastok, tak v eurách sme zaznamenali
+najvyšší nárast v roku 2022, a to 72 €, ak sa ale pozrieme na najvyšší percentuálny nárast,
+tak ten bol zaznamenaný v roku 2018, a to 17,16 %. Najnižší prírastok bol v roku 2021,
+a to bol nárast o 5 €, čiže o 0,87 %. Za celé sledované obdobie minimálna mzda vzrástla
+o 357 €, čo predstavuje nárast o 87,50 %. Aj napriek pandémii úroveň minimálnej mzdy
+v Česku rástla, aj keď v roku 2021 len o 5 €.
+
+32
+
+Tabuľka 5 Vývoj minimálnej mzdy v Maďarsku v rokoch 2017 až 2024
+Rok
+
+Hodnota (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2017
+
+412
+
+60
+
+17,05
+
+2018
+
+445
+
+33
+
+8,01
+
+2019
+
+465
+
+20
+
+4,49
+
+2020
+
+488
+
+23
+
+4,95
+
+2021
+
+443
+
+- 45
+
+- 9,22
+
+2022
+
+542
+
+99
+
+22,35
+
+2023
+
+579
+
+37
+
+6,83
+
+2024
+
+697
+
+118
+
+20,38
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Vývoj úrovne minimálnej mzdy v Maďarsku mal kolísavý charakter. Od roku
+2017 do roku 2020 minimálna mzda stúpala, a to zo 412 € až po hodnotu 488 €. V roku
+2021 jej hodnota klesla na úroveň 443 €. Ďalšie 3 roky hodnota stúpala až na aktuálnych
+697 €. Najviac vzrástla minimálna mzda v roku 2024, a to o 118 €. Čo sa týka najvyššieho
+percentuálneho nárastu, tak ten bol najvyšší v roku 2022, a to nárast až o 22,35 %.
+Naopak najmenej rástla, resp. klesla v roku 2021. Pokles predstavoval 45 €, čiže 9,22 %.
+Celkovo tak za 8 rokov vzrástla minimálna mzda o 285 €, čo predstavuje 69,17 %.
+V Maďarsku minimálna mzda pandémii neodolala, s jej poklesom však môže súvisieť aj
+pokles výmenného kurzu forintu.
+
+33
+
+Tabuľka 6 Vývoj minimálnej mzdy v Poľsku v rokoch 2017 až 2024
+Rok
+
+Hodnota (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2017
+
+454
+
+20
+
+4,61
+
+2018
+
+503
+
+49
+
+10,79
+
+2019
+
+524
+
+21
+
+4,17
+
+2020
+
+611
+
+87
+
+16,60
+
+2021
+
+615
+
+4
+
+0,65
+
+2022
+
+655
+
+40
+
+6,50
+
+2023
+
+746
+
+91
+
+13,89
+
+2024
+
+978
+
+232
+
+31,10
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Poslednou analyzovanou minimálnou mzdou je minimálna mzda v Poľsku.
+Rovnako ako na Slovensku a v Česku, tak aj tu pozorujeme len rastúci charakter. Úplne
+najviac jej vývoj vieme porovnať s Českom, kde v roku 2021 došlo len k minimálnemu
+nárastu, a to o 5 €, v Poľsku to bolo v rovnakom roku len o 4 €. Celkovo úroveň
+minimálnej mzdy vzrástla zo 454 € v roku 2017 na súčasných 978 €. Najviac vzrástla
+minimálna mzda v roku 2024, a to o 232 €, čo predstavuje aj najvyšší percentuálny nárast,
+a to o 31,10 %. Najmenej to bolo v roku 2021, a to nárast len o 4 €, čo predstavuje len
+0,65 %. Za 8 rokov vzrástla minimálna mzda o 524 €, čo predstavuje nárast o 115,42 %.
+Aj tu teda môžeme konštatovať, že minimálna mzda v Poľsku odolala nepriaznivým
+dopadom pandémie.
+
+34
+
+Graf 1 Medziročný vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024 (v €)
+250
+200
+150
+
+€
+
+100
+50
+0
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+-50
+-100
+
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Najvyšší nárast za celé sledované obdobie bol v Poľsku, a to nárast o 232 € v roku
+2024. Najnižší nárast, resp. pokles bol v Maďarsku, a to -45 € v roku 2021. V roku 2017
+vidíme najvyšší nárast v Maďarsku, a to nárast o 60 €, najmenší nárast vidíme v Poľsku,
+a to nárast o 20 €. V roku 2018 bol najvyšší nárast v Česku, a to nárast o 70 €, najmenší
+nárast bol v Maďarku, a to nárast len o 33 €. V roku 2019 poklesli prírastky minimálnych
+miezd vo všetkých krajinách V4. Najviac vzrástla minimálna mzda v Česku, a to o 41 €,
+najmenej v Maďarsku, a to o 20 €. V roku 2020 oproti roku 2019 prírastky minimálnych
+miezd v každej krajine V4 vzrástli. Najviac vzrástla tentokrát v Poľsku, a to o 87 €,
+najmenej vzrástla opäť v Maďarsku, a to len o 23 €. V roku 2021 nastal opäť pokles
+prírastkov vo všetkých krajinách, dokonca spomedzi všetkých rokov bol toto najhorší
+rok, čo sa týka medziročného nárastu minimálnych miezd. Najlepšie sa v roku 2021 darilo
+Slovensku, nárast bol o 43 €, naopak Maďarsko zaznamenalo pokles úrovne minimálnej
+mzdy, čo predstavovalo -45 €. V roku 2022 nastal najvyšší nárast v Maďarsku, a to nárast
+o 99 €, najmenej vzrástla úroveň minimálnej mzdy na Slovensku, a to o 23 €. V roku
+2023 zaznamenalo najvyšší medziročný nárast Poľsko, a to 91 €, najnižší nárast bol
+v Maďarsku, a to 37 €. V roku 2024 je najvyšší medziročný prírastok v Poľsku, ktorý
+predstavuje 232 €, najmenší je v Česku, a to 47 €.
+
+35
+
+Graf 2 Medziročný vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024 (v %)
+35
+30
+25
+20
+
+%
+
+15
+10
+5
+0
+-5
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+-10
+-15
+
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Ak sa pozrieme na vývoj minimálnych miezd v krajinách V4 v globále, tak
+najvyšší percentuálny nárast zaznamenalo Poľsko, a to nárast o 31,10 % v roku 2024,
+najnižší nárast, resp. pokles z pohľadu percent zaznamenalo Maďarsko, a to -9,22 %
+v roku 2021. V roku 2017 bol najvyšší nárast v Maďarsku, a to nárast o 17,05 %, najnižší
+naopak v Poľsku, a to 4,61 %. V roku 2018 zaznamenalo najvyšší nárast Česko, a to
+17,16 %, najmenší nárast bol v Maďarku, a to 8,01 %. V roku 2019 poklesli prírastky
+minimálnych miezd vo všetkých krajinách V4. Najviac vzrástla minimálna mzda
+v Česku, a to o 8,58 %, najmenej v Poľsku, a to o 4,17 %. V roku 2020 prírastky
+minimálnych miezd v každej krajine V4 znova rástli. Najväčší nárast bol v Poľsku, a to
+nárast o 16,60 %, najmenší bol v Maďarsku, a to 4,95 %. Rok 2021 bol opäť rokom
+poklesu, a to znova vo všetkých krajinách. Spomedzi všetkých rokov bol toto najhorší
+rok, čo sa týka rastu úrovne minimálnych miezd v krajinách V4. Najlepšie sa v roku 2021
+darilo Slovensku, nárast bol o 7,41 %, naopak Maďarsko zaznamenalo pokles úrovne
+minimálnej mzdy, čo predstavovalo -9,22 %. V roku 2022 Maďarsko prekvapilo
+nárastom minimálnej mzdy o 22,35 %, naopak najmenej vzrástla úroveň minimálnej
+mzdy na Slovensku, a to len o 3,69 %. V roku 2023 zaznamenalo najvyšší medziročný
+nárast Poľsko, a to 13,89 %, najnižší naopak Maďarsko, a to 6,83 %. V roku 2024 je
+najvyšší prírastok v Poľsku, a to nárast až o 31,10 %, najnižší je v Česku, a to 6,55 %.
+36
+
+Graf 3 Vývoj minimálnej mzdy v krajinách V4 v rokoch 2017 až 2024 (v €)
+1200
+1000
+
+€
+
+800
+600
+400
+200
+0
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat a www.countryeconomy.com
+
+Najvyššiu úroveň minimálnej mzdy dosiahlo Poľsko, a to 978 € v roku 2024,
+najnižšiu naopak Česko, a to 408 € v roku 2017. V roku 2017 malo najvyššiu minimálnu
+mzdu Poľsko, a to 454 €, najnižšia bola v Česku, a to 408 €. V najbližších 3 rokoch si
+Poľsko udržalo prvenstvo. V roku 2018 mala minimálna mzda výšku 503 €, v roku 2019
+bola 524 €, v roku 2020 bola 611 €. V týchto spomínaných rokoch bolo na chvoste
+Maďarsko. V roku 2018 mala v Maďarsku minimálna mzda výšku 445 €, v roku 2019
+bola na úrovni 465 € a v roku 2020 bola 488 €. V roku 2021 bola najvyššia minimálna
+mzda na Slovensku, a to vo výške 623 €, najnižšia bola opäť v Maďarsku, a to 443 €, čo
+je pokles oproti minulému roku. Posledné roky prvenstvo opäť patrilo Poľsku. V roku
+2022 bola minimálna mzda 655 €, v roku 2023 bola jej výška 746 € a v roku 2024 je jej
+výška na úrovni 978 €. V týchto rokoch bola opäť najnižšia minimálna mzda v Maďarsku.
+V roku 2022 bola na úrovni 542 €, v roku 2023 bola 579 € a v roku 2024 je to 697 €.
+
+3.2 Vývoj minimálnej mzdy v krajinách EÚ
+Minimálnu mzdu krajín V4 porovnáme v tejto podkapitole s minimálnou mzdou
+ostatných krajín EÚ. Ďalej porovnáme rast minimálnej mzdy s rastom spotrebiteľských
+
+37
+
+cien. Vyrátame tiež mediánovú a priemernú mzdy za jednotlivé roky. Analyzujeme roky
+2022 až 2024.
+
+Tabuľka 7 Vývoj minimálnej mzdy v EÚ v rokoch 2022 až 2023
+Hodnota (v €)
+
+Hodnota (v €)
+
+Prírastok
+
+Prírastok
+
+Prírastok
+
+v roku 2022
+
+v roku 2023
+
+(v €)
+
+(v %)
+
+HICP (v %)
+
+Belgicko
+
+1 659
+
+1 956
+
+297
+
+17,90
+
+8,67
+
+Bulharsko
+
+333
+
+399
+
+66
+
+19,82
+
+16,40
+
+Cyprus
+
+-
+
+941
+
+-
+
+-
+
+7,00
+
+Česko
+
+652
+
+718
+
+66
+
+10,12
+
+23,40
+
+Estónsko
+
+654
+
+725
+
+71
+
+10,86
+
+22,77
+
+Francúzsko
+
+1 604
+
+1 710
+
+106
+
+6,61
+
+7,71
+
+Grécko
+
+774
+
+832
+
+58
+
+7,49
+
+7,64
+
+Holandsko
+
+1 725
+
+1 935
+
+210
+
+12,17
+
+9,62
+
+Chorvátsko
+
+624
+
+700
+
+76
+
+12,18
+
+13,58
+
+Írsko
+
+1 775
+
+1 910
+
+135
+
+7,61
+
+8,00
+
+Litva
+
+730
+
+840
+
+110
+
+15,07
+
+23,07
+
+Lotyšsko
+
+500
+
+620
+
+120
+
+24
+
+24,86
+
+Luxembursko
+
+2 257
+
+2 388
+
+131
+
+5,80
+
+6,48
+
+Maďarsko
+
+542
+
+579
+
+37
+
+6,83
+
+32,55
+
+Malta
+
+793
+
+836
+
+43
+
+5,42
+
+7,22
+
+Nemecko
+
+1 634
+
+1 997
+
+363
+
+22,22
+
+10,30
+
+Poľsko
+
+655
+
+746
+
+91
+
+13,89
+
+19,10
+
+Portugalsko
+
+823
+
+887
+
+64
+
+7,78
+
+9,19
+
+Rumunsko
+
+516
+
+607
+
+91
+
+17,64
+
+16,19
+
+Slovensko
+
+646
+
+700
+
+54
+
+8,36
+
+17,68
+
+Slovinsko
+
+1 075
+
+1 204
+
+129
+
+12,00
+
+10,99
+
+Španielsko
+
+1 126
+
+1 167
+
+41
+
+3,64
+
+6,46
+
+Štát
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+38
+
+Najvyššiu úroveň minimálnej mzdy dosiahlo v roku 2022 aj v roku 2023
+Luxembursko. V roku 2022 tam bola minimálna mzda vo výške 2 257 €, v roku 2023 to
+bolo 2 388 €. Ako jediná krajina presiahla hranicu 2 000 €. Najnižšiu minimálnu mzdu
+vidíme v obidvoch rokoch v Bulharsku, a to v roku 2022 vo výške 333 € a v roku 2023
+vo výške 399 €. Najvyšší prírastok minimálnej mzdy bol v Nemecku, a to 363 €, tiež
+najvyšší percentuálny prírastok bol v Nemecku, a to 22,22 %. Najnižší prírastok vidíme
+v Maďarsku, a to 37 €, najnižší percentuálny prírastok je v Španielsku, a to 3,64 %.
+Minimálna mzda stúpla vo všetkých krajinách, na Cypre bola minimálna mzda zavedená
+v roku 2023 prvýkrát. V Dánsku, Fínsku, Rakúsku, Švédsku a Taliansku minimálna
+mzda neexistuje.
+Ak porovnáme nárast minimálnych miezd s nárastom HICP, tak pozorujeme, že
+rast cien bol vo viacerých krajinách rýchlejší ako rast minimálnych miezd. HICP je
+harmonizovaný index spotrebiteľských cien a prostredníctvom tohto indexu sa
+v eurozóne meria vývoj cien tovarov a služieb, ktoré nakupujú domácnosti, inak
+povedané, pomocou neho sa meria inflácia spotrebiteľských cien. Prudší nárast cien
+v roku 2022 bol spôsobený predovšetkým vojnovým konfliktom medzi Ukrajinou
+a Ruskom. Rast cien a rast životných nákladov bol vo veľa krajinách EÚ vyšší ako rast
+minimálnych miezd. Najväčší takýto rozdiel vidíme v Maďarsku, kde tento rozdiel
+predstavuje 25,72 %. V tejto krajine sa životná úroveň nízko zarábajúcich pracovníkov
+znížila najviac. Opačný prípad nastal v Nemecku, kde úroveň minimálnej mzdy porástla
+oproti HICP najviac, rozdiel predstavoval 11,92 %. V Nemecku teda životná úroveň nízko
+platených zamestnancov vzrástla najviac. Ak sa pozrieme na V4, tak vo všetkých
+krajinách rástla minimálna mzda pomalšie ako rástli ceny. Najväčší rozdiel bol v už
+spomínanom Maďarsku, najmenší bol v Poľsku, a to 5,21 %.
+Mediánová mzda predstavovala za rok 2022 hodnotu 774 €, za rok 2023 to bola
+hodnota 838 €. Medziročne stúpla o 64 €, čo predstavuje 8,27 %. Minimálne mzdy
+všetkých krajín V4 sa v obidvoch rokoch nachádzali v polovici s nižšími hodnotami
+minimálnych miezd.
+Priemerná mzda za rok 2022 bola na úrovni 1 004,62 €, čo je o 230,62 € viac ako
+je mediánová mzda v tomto roku, priemerná mzda za rok 2023 bola vo výške 1 108,95 €,
+čo je o 270,95 € viac ako je mediánová mzda v tomto roku. Priemerná mzda krajín EÚ
+tak medziročne stúpla o 104,33 €, čo predstavuje 10,39 %. Úroveň minimálnej mzdy
+39
+
+všetkých krajín V4 sa v obidvoch rokoch nachádzala pod priemerom minimálnej mzdy
+krajín EÚ.
+
+Tabuľka 8 Vývoj minimálnej mzdy v EÚ v rokoch 2023 až 2024
+Hodnota (v €)
+
+Hodnota (v €)
+
+Prírastok
+
+Prírastok
+
+Prírastok
+
+v roku 2023
+
+v roku 2024
+
+(v €)
+
+(v %)
+
+HICP (v %)
+
+Belgicko
+
+1 956
+
+1 995
+
+39
+
+1,99
+
+1,85
+
+Bulharsko
+
+399
+
+478
+
+79
+
+19,80
+
+5,09
+
+Cyprus
+
+941
+
+1 000
+
+59
+
+6,27
+
+2,34
+
+Česko
+
+718
+
+765
+
+47
+
+6,55
+
+3,90
+
+Estónsko
+
+725
+
+820
+
+95
+
+13,10
+
+7,19
+
+Francúzsko
+
+1 710
+
+1 767
+
+57
+
+3,33
+
+3,98
+
+Grécko
+
+832
+
+910
+
+78
+
+9,38
+
+3,60
+
+Holandsko
+
+1 935
+
+2 071
+
+136
+
+7,03
+
+3,85
+
+Chorvátsko
+
+700
+
+840
+
+140
+
+20,00
+
+5,85
+
+Írsko
+
+1 910
+
+2 147
+
+237
+
+12,41
+
+3,10
+
+Litva
+
+840
+
+924
+
+84
+
+10,00
+
+1,59
+
+Lotyšsko
+
+620
+
+700
+
+80
+
+12,90
+
+1,57
+
+Luxembursko
+
+2 388
+
+2 571
+
+183
+
+7,66
+
+3,53
+
+Maďarsko
+
+579
+
+697
+
+118
+
+20,38
+
+5,81
+
+Malta
+
+836
+
+926
+
+90
+
+10,77
+
+4,19
+
+Nemecko
+
+1 997
+
+2 054
+
+57
+
+2,85
+
+3,80
+
+Poľsko
+
+746
+
+978
+
+232
+
+31,10
+
+6,30
+
+Portugalsko
+
+887
+
+957
+
+70
+
+7,89
+
+2,92
+
+Rumunsko
+
+607
+
+664
+
+57
+
+9,39
+
+10,03
+
+Slovensko
+
+700
+
+750
+
+50
+
+7,14
+
+5,97
+
+Slovinsko
+
+1 204
+
+1 254
+
+50
+
+4,15
+
+4,10
+
+Španielsko
+
+1 167
+
+1 323
+
+156
+
+13,37
+
+4,10
+
+Štát
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+40
+
+Najvyššiu minimálnu mzdu dosiahlo v roku 2024 Luxembursko, a to 2 571 €.
+Najnižšiu úroveň minimálnej mzdy pozorujeme v roku 2024 v Bulharsku, a to 478 €.
+Najvyšší prírastok je vidno v Írsku, a to prírastok až o 237 €, najvyšší percentuálny
+prírastok je v Poľsku, a to 31,10 %. Najnižší prírastok pozorujeme v Belgicku, a to
+prírastok len 39 €, najnižší percentuálny prírastok je tiež v Belgicku, a to nárast o 1,99 %.
+Vo všetkých krajinách minimálna mzda stúpla.
+Ak porovnáme nárast minimálnych miezd s nárastom HICP, tak dochádzame
+k záveru, že okrem Nemecka, Francúzska a Rumunska rástli minimálne mzdy rýchlejším
+tempom ako HICP. Rast cien, s čím je spojený aj rast životných nákladov, je teda v týchto
+spomínaných 3 krajinách vyšší ako rast minimálnych miezd, aj keď ide len
+o zanedbateľné rozdiely. V Nemecku tento rozdiel predstavuje 0,95 %, vo Francúzsku je
+to 0,65 %, v Rumunsku je to 0,64 %. Najväčší rozdiel medzi úrovňou minimálnej mzdy
+a HICP vidíme v Poľsku, Bulharsku, Maďarsku a Chorvátsku. V Poľsku tento rozdiel
+predstavuje 24,80 %, v Bulharsku 14,71%, v Maďarsku je to 14,57 % a v Chorvátsku
+14,15 %. V týchto krajinách sa teda životná úroveň nízko zarábajúcich pracovníkov
+zvýšila najviac, kde ich príjmy rástli rýchlejším tempom ako životné náklady. Ak sa
+pozrieme na zvyšok V4, tak v Česku predstavuje rozdiel medzi rastom úrovne minimálnej
+mzdy a HICP 2,65 %, na Slovensku je to 1,17 %. V týchto krajinách V4 sa teda životná
+úroveň nízko príjmových zamestnancov zvýšila len zanedbateľne.
+Usporiadaním hodnôt minimálnych miezd všetkých krajín sme sa dopracovali
+k hodnote mediánovej mzdy za rok 2024, ktorá je vo výške 941,50 €. Mediánová mzda
+medziročne stúpla o 103,50 €, čo predstavuje 12,35 %. Ako je z tabuľky vidno,
+minimálne mzdy krajín V4 sa v roku 2024 okrem Poľska nachádzajú v polovici s nižšími
+hodnotami minimálnych miezd. Poľsko ako jediné sa v roku 2024 nachádza v polovici
+s vyššími hodnotami minimálnych miezd.
+Priemerná mzda za rok 2024 je 1 208,68 €, čo je o 267,18 € viac ako je mediánová
+mzda v roku 2024. Priemerná mzda krajín EÚ tak medziročne stúpla o 99,73 €, čo
+predstavuje 8,99 %. Úroveň minimálnych miezd všetkých krajín V4 sa nachádza v tomto
+roku pod priemerom minimálnych miezd krajín EÚ.
+
+41
+
+3.3 Vyjadrenie minimálnej mzdy na mediánových a priemerných mzdách krajín V4
+Okrem priemernej mzdy slúži ako ukazovateľ úrovne mzdy aj mediánová mzda.
+Môžeme ju vysvetliť ako strednú hodnotu všetkých porovnávaných miezd. Podstatou je
+rozdelenie miezd zamestnancov na 2 identické polovice, a teda na 50 % tých
+zamestnancov, ktorí dostávajú vyššiu mzdu ako je medián a 50 % tých zamestnancov,
+ktorí dostávajú nižšiu mzdu ako je medián. Ak sa pozrieme na to, ktorý z ukazovateľov
+je viac vyhovujúci, tak z určitého pohľadu oba, záleží od toho, aký zámer so zistenými
+údajmi máme. Priemerná mzda hovorí, že ak by mali mať všetci zamestnanci totožnú
+mzdu na rovnakom pracovnom mieste, aká by bola. Mediánová mzda hovorí o tom, aká
+je mzda zamestnanca, ktorý zarába menej ako 50 % a viac ako 50 % všetkých
+zamestnancov pracujúcich na rovnakom pracovnom mieste. Môže sa na prvý pohľad
+zdať, že v prípade obidvoch druhov miezd ide o to isté, no nie je to tak. Mediánová mzda
+dokáže dať oveľa spoľahlivejšiu odpoveď vzhľadom na mzdu bežných zamestnancov ako
+priemerná mzda. Je to z nasledujúceho dôvodu. Priemernú mzdu počítame zo všetkých,
+teda aj extrémnych premenných, tu potom nastáva situácia, že mzda nadpriemerne
+zarábajúcich zamestnancov dokáže viditeľným spôsobom ovplyvniť výsledok. Skrátka sa
+len spočítajú hodnoty všetkých miezd, potom sa výsledná hodnota len vydelí počtom
+miezd, preto tento výsledok môžu skresľovať nereálne odchýlky. Ak však počítame
+mediánovú mzdu, tak všetky hodnoty miezd jednoducho len usporiadame vedľa seba
+podľa výšky mzdy a následne sa z nich vyberie presný stred. Výsledok teda neovplyvňujú
+extrémne premenné, a tak prezentuje reálnejšiu hodnotu. Väčšinou je medzi mediánovou
+a priemernou mzdou malá diferencia, no dokáže poodhaliť, na akých pracovných
+miestach sú extrémy v mzdách viditeľnejšie. Aj napriek všetkému však priemer stále
+ostáva z matematického a štatistického hľadiska jednou z najdôležitejších hodnôt.
+Priemerná mzda poskytuje komplexný poznatok o mzdách v danom segmente.
+Mediánová mzda poskytuje informáciu o tom, či zamestnanec patrí k horšie alebo
+k lepšie zarábajúcej polovici zamestnancov na konkrétnom pracovnom mieste.
+(www.platy.sk)
+V tejto časti práce analyzujeme úroveň minimálnej mzdy vo vzťahu
+k mediánovým mzdám a priemerným mzdám v krajinách V4. Percentuálne vyjadríme
+úroveň minimálnej mzdy na mediánových mzdách a priemerných mzdách krajín V4.
+Analyzujeme roky 2017 až 2022.
+
+42
+
+Tabuľka 9 Vyjadrenie minimálnej mzdy na mediánových mzdách v krajinách V4
+v rokoch 2017 až 2022 – zamestnanci na plný úväzok (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+48,00
+
+41,00
+
+52,10
+
+54,00
+
+2018
+
+49,30
+
+41,80
+
+50,60
+
+51,30
+
+2019
+
+49,40
+
+42,90
+
+49,40
+
+51,30
+
+2020
+
+51,80
+
+44,00
+
+48,40
+
+55,60
+
+2021
+
+52,40
+
+43,20
+
+45,50
+
+55,10
+
+2022
+
+50,80
+
+43,30
+
+48,00
+
+52,10
+
+Zdroj: Vlastné spracovanie na základe dát z OECD.Stat
+
+Na Slovensku bolo percentuálne vyjadrenie minimálnej mzdy na mediánovej
+mzde od roku 2017 do roku 2019 pod úrovňou 50 %, nad úrovňou 50 % bolo od roku
+2020 až do konca sledovaného obdobia, teda do roku 2022. Percentuálne vyjadrenie malo
+do roku 2021 rastúcu tendenciu, v roku 2022 mierne pokleslo. Ak sa pozrieme na Česko,
+tak tu bolo toto percentuálne vyjadrenie vo všetkých rokoch pod úrovňou 50 %. Do roku
+2020 malo rastúcu tendenciu, v roku 2021 mierne pokleslo, v roku 2022 znova o trochu
+stúplo. V Maďarsku nastala opačná situácia ako na Slovensku. Percentuálne vyjadrenie
+malo každým rokom klesajúcu tendenciu, stúplo až v roku 2022. V roku 2017 a 2018 bolo
+toto vyjadrenie nad úrovňou 50 %, ostatné roky bolo pod úrovňou 50 %. V Poľsku malo
+toto spomínané percentuálne vyjadrenie kolísavý charakter a počas sledovaných rokov sa
+držalo nad úrovňou 50 %.
+
+43
+
+Tabuľka 10 Vyjadrenie minimálnej mzdy na priemerných mzdách v krajinách V4
+v rokoch 2017 až 2022 – zamestnanci na plný úväzok (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+38,20
+
+35,40
+
+40,10
+
+43,60
+
+2018
+
+39,40
+
+36,20
+
+40,10
+
+42,00
+
+2019
+
+39,80
+
+37,10
+
+37,90
+
+42,00
+
+2020
+
+42,00
+
+37,80
+
+37,30
+
+45,50
+
+2021
+
+44,00
+
+37,30
+
+35,10
+
+45,10
+
+2022
+
+42,70
+
+37,30
+
+36,30
+
+42,60
+
+Zdroj: Vlastné spracovanie na základe dát z OECD.Stat
+
+Na Slovensku bolo percentuálne vyjadrenie minimálnej mzdy na priemernej mzde
+od roku 2017 do roku 2019 pod úrovňou 40 %, od roku 2020 do roku 2022 sa už držalo
+nad úrovňou 40 %. Do roku 2021 malo toto vyjadrenie stúpajúcu tendenciu, v roku 2022
+došlo k poklesu. V Česku bolo percentuálne vyjadrenie pod úrovňou 40 %, počas
+všetkých rokov. Do roku 2020 malo rastúcu tendenciu, v roku 2021 pokleslo a rovnakú
+úroveň si držalo aj v roku 2022. V Maďarsku vidíme klesajúcu tendenciu až do roku
+2021, v roku 2022 nastal mierny nárast. V roku 2017 aj 2018 bolo percentuálne
+vyjadrenie nad úrovňou 40 %, ostatné roky pod úrovňou 40 %. V Poľsku vidíme kolísavý
+charakter, kde vyjadrenie minimálnej mzdy na priemernej mzde nekleslo pod 40 %.
+
+3.4 Výpočet vplyvu minimálnej mzdy na zamestnanosť
+V tejto časti práce skúmame vplyv minimálnej mzdy na zamestnanosť
+v jednotlivých krajinách V4. Hľadáme teda odpoveď na výskumnú otázku: Ovplyvňuje
+minimálna mzda zamestnanosť? Pri skúmaní vplyvu minimálnej mzdy na zamestnanosť
+v krajinách V4 používame regresnú a korelačnú analýzu a interpretujeme výsledky
+z programu Microsoft Excel. Skúmame, ako vplýva na zmenu miery zamestnanosti
+zmena minimálnej mzdy. Je nutné konštatovať, že pri výpočtoch a tvrdeniach daná
+regresia a korelácia interpretuje závislosť iba na jednej premennej, preto pri všetkých
+krajinách V4 nemôžeme hovoriť o vplyve iba minimálnej mzdy na zamestnanosť.
+44
+
+Tabuľka 11 Vývoj miery zamestnanosti v krajinách V4 v rokoch 2017 až 2023 (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+73,20
+
+78,50
+
+75,40
+
+70,00
+
+2018
+
+74,50
+
+79,90
+
+76,70
+
+71,40
+
+2019
+
+75,60
+
+80,30
+
+77,60
+
+70,50
+
+2020
+
+74,60
+
+79,70
+
+77,50
+
+70,50
+
+2021
+
+74,60
+
+80,00
+
+78,80
+
+75,50
+
+2022
+
+76,70
+
+81,30
+
+80,20
+
+76,70
+
+2023
+
+77,50
+
+81,70
+
+80,70
+
+77,90
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+Miera zamestnanosti na Slovensku mala do roku 2019 len stúpajúcu tendenciu,
+potom na 2 roky klesla a znova začala stúpať od roku 2022. Nad úrovňou 80 % však
+nebola ani v jednom zo sledovaných rokov, dokonca posledné 3 roky bola spomedzi
+krajín V4 najnižšia. Najvyššia miera zamestnanosti bola v roku 2023, a to 77,50 %,
+najnižšia bola v roku 2017, a to 73,20 %. V Česku mala miera zamestnanosti do roku
+2019 stúpajúcu tendenciu, kde v roku 2019 sa dostala nad úroveň 80 %. V roku 2020
+mierne klesla a od roku 2021 znova stúpala. Celé sledované obdobie bola miera
+zamestnanosti v Česku najvyššia spomedzi krajín V4. Najvyššia úroveň v Česku bola
+v roku 2023, a to 81,70 %, čo bola najvyššia dosiahnutá zamestnanosť spomedzi krajín
+V4. Najnižšia bola v roku 2017, a to 78,50 %. V Maďarsku podobne ako v Česku miera
+zamestnanosti stúpala po celé sledované obdobie okrem roka 2020, kde klesla len
+o zanedbateľné 0,1 %. Od roku 2022 sa miera zamestnanosti drží nad úrovňou 80 %. Aj
+v Maďarsku mala miera zamestnanosti najvyššiu úroveň v roku 2023, a to 80,70 %
+a najnižšiu v roku 2017, a to 75,40 %. V Poľsku zamestnanosť do roku 2021 raz stúpala,
+raz klesala a úroveň zamestnanosti bola najnižšia spomedzi krajín V4. Od roku 2021 mala
+už len stúpajúcu tendenciu, dokonca bola vyššia ako na Slovensku. Hranicu 80 % však
+podobne ako na Slovensku nedosiahla ani raz. Najvyššia miera zamestnanosti bola v roku
+2023, a to 77,90 %, najnižšia bola v roku 2017, a to 70,00 %, čo bola najnižšia miera
+zamestnanosti v krajinách V4 za sledované obdobie.
+
+45
+
+Graf 4 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti na Slovensku
+
+Zamestnanosť (v %)
+
+v rokoch 2017 až 2023
+78
+77,5
+77
+76,5
+76
+75,5
+75
+74,5
+74
+73,5
+73
+72,5
+
+y = 0,0127x + 68,041
+R² = 0,6755
+
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,821885499
+
+Koeficient determinácie
+
+0,675495773
+
+Upravený koeficient determinácie
+
+0,610594928
+
+Štandardná chyba
+
+0,914896428
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+8,711965483
+
+8,711965483
+
+10,40811978
+
+0,023305167
+
+Rezíduá
+
+5
+
+4,185177374
+
+0,837035475
+
+Celkom
+
+6
+
+12,89714286
+
+Koeficient korelácie má hodnotu 0,821885499, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie úrovne minimálnej mzdy teda na Slovensku vedie k zvýšeniu miery
+zamestnanosti. Koeficient determinácie má hodnotu 0,675495773, čo znamená, že
+zvýšenie miery zamestnanosti je zapríčinené zo 67,55 % zvýšením minimálnej mzdy
+a z 32,45 % závisí zvýšenie miery zamestnanosti od iných faktorov. Model je štatisticky
+významný, pretože vypočítaná p-hodnota 0,023305167 je menšia ako hladina
+46
+
+významnosti 0,05. Potvrdzujeme teda, že minimálna mzda na Slovensku ovplyvňuje
+zamestnanosť.
+
+Graf 5 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Česku
+v rokoch 2017 až 2023
+82
+y = 0,0092x + 75,013
+R² = 0,8301
+
+Zamestnanosť (v %)
+
+81,5
+81
+80,5
+80
+79,5
+79
+78,5
+78
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,911123278
+
+Koeficient determinácie
+
+0,830145627
+
+Upravený koeficient determinácie
+
+0,796174752
+
+Štandardná chyba
+
+0,47850151
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+5,595181525
+
+5,595181525
+
+24,43698127
+
+0,004309494
+
+Rezíduá
+
+5
+
+1,144818475
+
+0,228963695
+
+Celkom
+
+6
+
+6,74
+
+Koeficient korelácie má hodnotu 0,911123278, čo aj v tomto prípade znamená
+silnú priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda aj v Česku vedie
+47
+
+k zvýšeniu miery zamestnanosti. Koeficient determinácie má hodnotu 0,830145627, čo
+znamená, že zvýšenie miery zamestnanosti je zapríčinené z 83,01 % zvýšením
+minimálnej mzdy a len zo 16,99 % závisí zvýšenie miery zamestnanosti od iných
+faktorov. Model je taktiež štatisticky významný, pretože p-hodnota 0,004309494 je
+menšia ako hladina významnosti 0,05. Potvrdzujeme teda, že minimálna mzda v Česku
+ovplyvňuje zamestnanosť.
+
+Graf 6 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Maďarsku
+v rokoch 2017 až 2023
+82
+
+y = 0,0282x + 64,516
+R² = 0,7832
+
+Zamestnanosť (v %)
+
+81
+80
+79
+78
+77
+76
+75
+
+0
+
+100
+
+200
+
+300
+400
+Minimálna mzda (v €)
+
+500
+
+600
+
+700
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,884976429
+
+Koeficient determinácie
+
+0,78318328
+
+Upravený koeficient determinácie
+
+0,739819936
+
+Štandardná chyba
+
+0,965883726
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+16,84962886
+
+16,84962886
+
+18,06095215
+
+0,008093216
+
+Rezíduá
+
+5
+
+4,664656856
+
+0,932931371
+
+Celkom
+
+6
+
+21,51428571
+
+48
+
+Koeficient korelácie má hodnotu 0,884976429, čo opäť znamená silnú priamu
+lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie k zvýšeniu miery
+zamestnanosti aj v Maďarsku. Koeficient determinácie má hodnotu 0,78318328, čo
+znamená, že zvýšenie miery zamestnanosti je zapríčinené zo 78,32 % zvýšením
+minimálnej mzdy a z 21,68 % závisí zvýšenie miery zamestnanosti od iných faktorov.
+Model je znova štatisticky významný, pretože p-hodnota 0,008093216 je menšia ako
+hladina významnosti 0,05. Potvrdzujeme teda, že minimálna mzda v Maďarsku
+ovplyvňuje zamestnanosť.
+
+Graf 7 Graf lineárnej závislosti minimálnej mzdy a miery zamestnanosti v Poľsku
+
+Zamestnanosť (v %)
+
+v rokoch 2017 až 2023
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+
+y = 0,0289x + 56,27
+R² = 0,7387
+
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+49
+
+600
+
+700
+
+800
+
+Regresná štatistika
+Koeficient korelácie
+
+0,859497367
+
+Koeficient determinácie
+
+0,738735723
+
+Upravený koeficient determinácie
+
+0,686482868
+
+Štandardná chyba
+
+1,880670394
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+50,00396578
+
+50,00396578
+
+14,13771016
+
+0,013157326
+
+Rezíduá
+
+5
+
+17,68460565
+
+3,536921129
+
+Celkom
+
+6
+
+67,68857143
+
+Koeficient korelácie má hodnotu 0,859497367, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie k zvýšeniu miery zamestnanosti
+aj v Poľsku. Koeficient determinácie má hodnotu 0,738735723, čo znamená, že zvýšenie
+miery zamestnanosti je zapríčinené zo 73,87 % zvýšením minimálnej mzdy a z 26,13 %
+závisí zvýšenie miery zamestnanosti od iných faktorov. Model je aj tu štatisticky
+významný, pretože p-hodnota 0,013157326 je menšia ako hladina významnosti 0,05.
+Potvrdzujeme teda, že minimálna mzda v Poľsku ovplyvňuje zamestnanosť.
+Ak si zhrnieme výsledky za všetky krajiny V4, tak vo všetkých krajinách platí
+silná priama lineárna závislosť medzi zvyšovaním úrovne minimálnej mzdy
+a zvyšovaním miery zamestnanosti. Zvyšovanie minimálnej mzdy teda vedie
+k zvyšovaniu miery zamestnanosti. Taktiež vo všetkých krajinách V4 podľa koeficienta
+determinácie závisí zvyšovanie miery zamestnanosti z väčšej časti od zvyšovania
+minimálnej mzdy a z menšej časti od iných faktorov. Model je vo všetkých prípadoch
+štatisticky významný. Znamená to, že potvrdzujeme výskumnú otázku, že minimálna
+mzda ovplyvňuje zamestnanosť, a to v celej V4.
+
+3.5 Výpočet vplyvu minimálnej mzdy na produktivitu práce
+V tejto časti práce skúmame vplyv minimálnej mzdy na produktivitu práce
+v krajinách V4. Hľadáme teda odpoveď na výskumnú otázku: Ovplyvňuje minimálna
+mzda produktivitu práce? Pri skúmaní vplyvu minimálnej mzdy na produktivitu práce
+v krajinách V4 používame opäť regresnú a korelačnú analýzu a interpretujeme výsledky
+50
+
+z programu Microsoft Excel. Skúmame, ako vplýva na zmenu produktivity práce zmena
+úrovne minimálnej mzdy. Je nutné aj tu konštatovať, že aj pri týchto nasledujúcich
+výpočtoch a tvrdeniach daná regresia a korelácia interpretuje závislosť iba na jednej
+premennej, preto pri všetkých krajinách V4 nemôžeme hovoriť o vplyve iba minimálnej
+mzdy na produktivitu práce.
+
+Tabuľka 12 Vývoj produktivity práce v krajinách V4 v rokoch 2017 až 2023 (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+74,10
+
+82,50
+
+67,90
+
+74,80
+
+2018
+
+73,30
+
+83,80
+
+69,40
+
+76,90
+
+2019
+
+73,50
+
+85,60
+
+70,80
+
+79,80
+
+2020
+
+78,00
+
+86,30
+
+71,90
+
+82,20
+
+2021
+
+77,90
+
+85,70
+
+71,90
+
+82,00
+
+2022
+
+76,60
+
+84,60
+
+73,20
+
+82,10
+
+2023
+
+79,50
+
+85,20
+
+73,30
+
+82,70
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+Na Slovensku mala produktivita práce kolísavý charakter. Ani v jednom roku
+produktivita práce na Slovensku neprekročila hranicu 80 %. Najvyššia bola v roku 2023,
+a to 79,50 %, najnižšia bola v roku 2018, a to 73,30 %. V Česku mala produktivita práce
+taktiež kolísavý charakter. Celé obdobie bola produktivita v Česku nad hranicou 80 %
+a spomedzi krajín V4 bola na najvyššej úrovni. Najvyššia produktivita práce bola v roku
+2020, a to 86,30 %, čo bola zároveň najvyššia dosiahnutá produktivita práce za celé
+obdobie v krajinách V4. Najnižšia bola v roku 2017, a to 82,50 %. V Maďarsku
+produktivita práce počas rokov len rástla. Ani v jednom zo sledovaných rokov ale
+neprekročila hranicu 80 %, v rokoch 2017 a 2018 bola dokonca pod hranicou 70 %.
+Spomedzi krajín V4 bola produktivita práce v Maďarsku na najnižšej úrovni. Najvyššia
+bola teda v roku 2023, a to 73,30 %, najnižšia v roku 2017, a to 67,90 %, čo bola najnižšia
+dosiahnutá úroveň produktivity práce v krajinách V4 v sledovanom období. V Poľsku
+hovoríme o rastúcom trende produktivity práce až na rok 2021, kde produktivita práce
+51
+
+klesla o zanedbateľných 0,2 %. Od roku 2020 sa produktivita v Poľsku drží nad úrovňou
+80 %. Najvyššia bola v roku 2023, a to 82,70 %, najnižšia v roku 2017, a to 74,80 %.
+
+Graf 8 Graf lineárnej závislosti minimálnej mzdy a produktivity práce na Slovensku
+v rokoch 2017 až 2023
+80
+y = 0,0229x + 63,088
+R² = 0,7667
+
+Produktivita práce (v %)
+
+79
+78
+77
+76
+75
+74
+73
+72
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,875608988
+
+Koeficient determinácie
+
+0,7666911
+
+Upravený koeficient determinácie
+
+0,72002932
+
+Štandardná chyba
+
+1,318465503
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+28,56252931
+
+28,56252931
+
+16,43081557
+
+0,009791619
+
+Rezíduá
+
+5
+
+8,691756408
+
+1,738351282
+
+Celkom
+
+6
+
+37,25428571
+
+Koeficient korelácie má hodnotu 0,875608988, takže hovoríme o silnej priamej
+lineárnej závislosti. Zvýšenie úrovne minimálnej mzdy teda na Slovensku vedie
+52
+
+k zvýšeniu produktivity práce. Koeficient determinácie má hodnotu 0,7666911, zvýšenie
+produktivity práce je teda zapríčinené zo 76,67 % zvýšením úrovne minimálnej mzdy
+a z 23,33 % závisí zvýšenie produktivity práce od iných faktorov. Model je štatisticky
+významný, pretože p-hodnota 0,009791619 je menšia ako hladina významnosti 0,05.
+Potvrdzujeme teda, že minimálna mzda na Slovensku ovplyvňuje produktivitu práce.
+
+Graf 9 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Česku v rokoch
+2017 až 2023
+86,5
+y = 0,0074x + 80,669
+R² = 0,3507
+
+Produktivita práce (v %)
+
+86
+85,5
+85
+84,5
+84
+83,5
+83
+82,5
+82
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,592204197
+
+Koeficient determinácie
+
+0,350705811
+
+Upravený koeficient determinácie
+
+0,220846973
+
+Štandardná chyba
+
+1,150250427
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+3,573191204
+
+3,573191204
+
+2,700669563
+
+0,161227491
+
+Rezíduá
+
+5
+
+6,615380225
+
+1,323076045
+
+Celkom
+
+6
+
+10,18857143
+
+53
+
+Koeficient korelácie má hodnotu 0,592204197, čo v tomto prípade znamená
+miernu priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda aj v Česku
+vedie k zvýšeniu produktivity práce. Koeficient determinácie má hodnotu 0,350705811,
+čo znamená, že zvýšenie produktivity práce je zapríčinené len z 35,07 % zvýšením
+minimálnej mzdy a zo 64,93 % závisí zvýšenie produktivity práce od iných faktorov.
+Model tentokrát nie je štatisticky významný, pretože p-hodnota 0,161227491 je väčšia
+ako hladina významnosti 0,05. Zamietame teda, že minimálna mzda v Česku ovplyvňuje
+produktivitu práce.
+
+Graf 10 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Maďarsku
+v rokoch 2017 až 2023
+75
+y = 0,0286x + 57,395
+R² = 0,7317
+
+Produktivita práce (v %)
+
+74
+73
+72
+71
+70
+69
+
+68
+67
+0
+
+100
+
+200
+
+300
+400
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+54
+
+500
+
+600
+
+700
+
+Regresná štatistika
+Koeficient korelácie
+
+0,855414182
+
+Koeficient determinácie
+
+0,731733423
+
+Upravený koeficient determinácie
+
+0,678080107
+
+Štandardná chyba
+
+1,127169246
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+17,32744745
+
+17,32744745
+
+13,63817719
+
+0,014101726
+
+Rezíduá
+
+5
+
+6,352552547
+
+1,270510509
+
+Celkom
+
+6
+
+23,68
+
+Koeficient korelácie má hodnotu 0,855414182, čo opäť znamená silnú priamu
+lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie k zvýšeniu produktivity
+práce aj v Maďarsku. Koeficient determinácie má hodnotu 0,731733423, čo znamená, že
+zvýšenie produktivity práce je zapríčinené zo 73,17 % zvýšením úrovne minimálnej mzdy
+a z 26,83 % závisí zvýšenie produktivity práce od iných faktorov. Model je opäť
+štatisticky významný, pretože vypočítaná p-hodnota 0,014101726 je menšia ako hladina
+významnosti 0,05. Potvrdzujeme teda, že minimálna mzda v Maďarsku ovplyvňuje
+produktivitu práce.
+
+55
+
+Graf 11 Graf lineárnej závislosti minimálnej mzdy a produktivity práce v Poľsku
+v rokoch 2017 až 2023
+
+Produktivita práce (v %)
+
+86
+y = 0,0274x + 63,97
+R² = 0,7894
+
+84
+82
+80
+78
+76
+74
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,888467048
+
+Koeficient determinácie
+
+0,789373695
+
+Upravený koeficient determinácie
+
+0,747248433
+
+Štandardná chyba
+
+1,5521998
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+45,14766462
+
+45,14766462
+
+18,73872527
+
+0,007507697
+
+Rezíduá
+
+5
+
+12,0466211
+
+2,409324219
+
+Celkom
+
+6
+
+57,19428571
+
+Koeficient korelácie má hodnotu 0,888467048, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie úrovne minimálnej mzdy opäť vedie k zvýšeniu produktivity práce
+aj v Poľsku. Koeficient determinácie má hodnotu 0,789373695, čo znamená, že zvýšenie
+produktivity práce je zapríčinené zo 78,94 % zvýšením minimálnej mzdy a z 21,06 %
+závisí zvýšenie produktivity práce od iných faktorov. Model je taktiež štatisticky
+
+56
+
+významný, pretože p-hodnota 0,007507697 je menšia ako hladina významnosti 0,05.
+Potvrdzujeme teda, že minimálna mzda v Poľsku ovplyvňuje produktivitu práce.
+Ak si zhrnieme výsledky za všetky krajiny V4, tak vidíme, že vo všetkých
+krajinách okrem Česka platí silná priama lineárna závislosť medzi zvyšovaním úrovne
+minimálnej mzdy a zvyšovaním produktivity práce, v Česku hovoríme o miernej priamej
+lineárnej závislosti. Zvyšovanie minimálnej mzdy teda vedie k zvyšovaniu produktivity
+práce. Taktiež vo všetkých krajinách V4 okrem Česka podľa koeficienta determinácie
+závisí zvyšovanie produktivity práce z väčšej časti od zvyšovania úrovne minimálnej
+mzdy a z menšej časti od iných faktorov. Len v spomínanom Česku je to opačne. Model
+je vo všetkých prípadoch okrem Česka štatisticky významný. Znamená to, že
+potvrdzujeme výskumnú otázku, že minimálna mzda ovplyvňuje produktivitu práce, čo
+sa týka Slovenska, Poľska a Maďarska. Čo sa týka Česka, zamietame výskumnú otázku,
+že minimálna mzda ovplyvňuje produktivitu práce.
+
+3.6 Výpočet vplyvu minimálnej mzdy na infláciu
+V tejto časti práce skúmame vplyv minimálnej mzdy na infláciu v krajinách V4.
+Hľadáme teda odpoveď na výskumnú otázku: Ovplyvňuje minimálna mzda infláciu? Aj
+tu opäť pri skúmaní vplyvu minimálnej mzdy na infláciu v krajinách V4 používame
+regresnú a korelačnú analýzu a interpretujeme výsledky z programu Microsoft Excel.
+Skúmame, ako vplýva na zmenu miery inflácie zmena úrovne minimálnej mzdy. Je nutné
+znova konštatovať, že pri nasledujúcich výpočtoch a tvrdeniach daná regresia a korelácia
+interpretuje závislosť iba na jednej premennej, preto pri všetkých krajinách V4 nemôžeme
+hovoriť o vplyve iba minimálnej mzdy na infláciu.
+
+57
+
+Tabuľka 13 Vývoj miery inflácie v krajinách V4 v rokoch 2017 až 2023 (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+1,40
+
+2,40
+
+2,40
+
+1,60
+
+2018
+
+2,50
+
+2,00
+
+2,90
+
+1,20
+
+2019
+
+2,80
+
+2,60
+
+3,40
+
+2,10
+
+2020
+
+2,00
+
+3,30
+
+3,40
+
+3,70
+
+2021
+
+2,80
+
+3,30
+
+5,20
+
+5,20
+
+2022
+
+12,10
+
+14,80
+
+15,30
+
+13,20
+
+2023
+
+11,00
+
+12,00
+
+17,00
+
+10,90
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+Miera inflácie na Slovensku do roku 2019 rástla miernym tempom, v roku 2020
+klesla a znova začala stúpať od roku 2021. V roku 2022 sa dostala na dvojcifernú úroveň,
+v roku 2023 trochu klesla, no stále sa držala na dvojcifernej úrovni. V roku 2022 sa takto
+rapídne zvýšila inflácia vo všetkých štátoch V4 a bolo to spôsobené predovšetkým
+vojnovým konfliktom, ktorý je medzi Ukrajinou a Ruskom. Za sledované obdobie bola
+najvyššia úroveň inflácie na Slovensku v roku 2022, a to 12,10 %, najnižšia v roku 2017,
+a to 1,40 %. Ak sa pozrieme na vývoj inflácie v Česku, tak v roku 2018 mierne klesla,
+ďalej od roku 2019 už len stúpala. V roku 2022 takisto prudko narástla, v roku 2023
+klesla. Najvyššia úroveň inflácie v Česku bola v roku 2022, a to 14,80 %, najnižšia v roku
+2018, a to 2,00 %. V Maďarsku mala miera inflácie len rastúci charakter a za celé
+sledované obdobie bola najvyššia spomedzi krajín V4. Najvyššia bola v roku 2023, a to
+17,00 %, čo bola mimochodom najvyššia dosiahnutá inflácia zo všetkých štátov V4
+v sledovanom období. Najnižšia bola v roku 2017, a to 2,40 %. V Poľsku miera inflácie
+v roku 2018 mierne klesla, od roku 2019 stúpala, v roku 2022 bol takisto zaznamenaný
+prudký nárast a v roku 2023 mierny pokles. Najvyššia miera inflácie bola v roku 2022,
+a to 13,20 %. Najnižšia miera inflácie bola v roku 2018, a to 1,20 %, čo je najnižšia miera
+inflácie zo všetkých krajín V4 za sledované obdobie.
+
+58
+
+Graf 12 Graf lineárnej závislosti minimálnej mzdy a miery inflácie na Slovensku
+v rokoch 2017 až 2023
+14
+y = 0,0366x - 15,913
+R² = 0,5879
+
+12
+
+Inflácia (v %)
+
+10
+8
+6
+4
+2
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,766718612
+
+Koeficient determinácie
+
+0,58785743
+
+Upravený koeficient determinácie
+
+0,505428916
+
+Štandardná chyba
+
+3,200621848
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+73,0572418
+
+73,0572418
+
+7,131724221
+
+0,044320392
+
+Rezíduá
+
+5
+
+51,21990106
+
+10,24398021
+
+Celkom
+
+6
+
+124,2771429
+
+Koeficient korelácie má hodnotu 0,766718612, čo predstavuje miernu priamu
+lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda na Slovensku vedie
+k zvýšeniu miery inflácie. Koeficient determinácie má hodnotu 0,58785743, čo znamená,
+že zvýšenie miery inflácie je zapríčinené z 58,79 % zvýšením minimálnej mzdy
+a zo 41,21 % závisí zvýšenie miery inflácie od iných faktorov. Model je štatisticky
+
+59
+
+významný, pretože p-hodnota 0,044320392 je menšia ako hladina významnosti 0,05.
+Potvrdzujeme teda, že minimálna mzda na Slovensku ovplyvňuje infláciu.
+
+Graf 13 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Česku v rokoch
+2017 až 2023
+16
+y = 0,0409x - 17,183
+R² = 0,6516
+
+14
+
+Inflácia (v %)
+
+12
+
+10
+8
+6
+4
+2
+0
+-2
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,807186532
+
+Koeficient determinácie
+
+0,651550098
+
+Upravený koeficient determinácie
+
+0,581860117
+
+Štandardná chyba
+
+3,423457709
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+109,5739723
+
+109,5739723
+
+9,349265037
+
+0,028177167
+
+Rezíduá
+
+5
+
+58,60031342
+
+11,72006268
+
+Celkom
+
+6
+
+168,1742857
+
+Koeficient korelácie má hodnotu 0,807186532, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie úrovne minimálnej mzdy teda aj v Česku vedie k zvýšeniu miery
+60
+
+inflácie. Koeficient determinácie má hodnotu 0,651550098, čo znamená, že zvýšenie
+miery inflácie je zapríčinené zo 65,16 % zvýšením minimálnej mzdy a z 34,84 % závisí
+zvýšenie miery inflácie od iných faktorov. Model je taktiež štatisticky významný, pretože
+p-hodnota 0,028177167 je menšia ako hladina významnosti 0,05. Potvrdzujeme teda, že
+minimálna mzda v Česku ovplyvňuje infláciu.
+
+Graf 14 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Maďarsku v rokoch
+2017 až 2023
+18
+y = 0,0971x - 39,725
+R² = 0,8443
+
+16
+
+Inflácia (v %)
+
+14
+12
+10
+8
+6
+4
+2
+0
+0
+
+100
+
+200
+
+300
+400
+Minimálna mzda (v €)
+
+500
+
+600
+
+700
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,91887484
+
+Koeficient determinácie
+
+0,844330972
+
+Upravený koeficient determinácie
+
+0,813197166
+
+Štandardná chyba
+
+2,710461147
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+199,2355733
+
+199,2355733
+
+27,11942713
+
+0,003445105
+
+Rezíduá
+
+5
+
+36,73299815
+
+7,346599629
+
+Celkom
+
+6
+
+235,9685714
+
+61
+
+Koeficient korelácie má hodnotu 0,91887484, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie k zvýšeniu miery inflácie aj
+v Maďarsku. Koeficient determinácie má hodnotu 0,844330972, čo znamená, že zvýšenie
+miery inflácie je zapríčinené z 84,43 % zvýšením úrovne minimálnej mzdy a z 15,57 %
+závisí zvýšenie miery inflácie od iných faktorov. Model je štatisticky významný, pretože
+p-hodnota 0,003445105 je menšia ako hladina významnosti 0,05. Potvrdzujeme teda, že
+minimálna mzda v Maďarsku ovplyvňuje infláciu.
+
+Graf 15 Graf lineárnej závislosti minimálnej mzdy a miery inflácie v Poľsku v rokoch
+2017 až 2023
+14
+y = 0,0404x - 18,309
+R² = 0,7155
+
+12
+
+Inflácia (v %)
+
+10
+8
+6
+4
+2
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+62
+
+600
+
+700
+
+800
+
+Regresná štatistika
+Koeficient korelácie
+
+0,845865668
+
+Koeficient determinácie
+
+0,715488728
+
+Upravený koeficient determinácie
+
+0,658586474
+
+Štandardná chyba
+
+2,791945295
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+98,01377876
+
+98,01377876
+
+12,57399617
+
+0,01645758
+
+Rezíduá
+
+5
+
+38,97479267
+
+7,794958533
+
+Celkom
+
+6
+
+136,9885714
+
+Koeficient korelácie má hodnotu 0,845865668, čo aj v tomto prípade rovnako
+znamená silnú priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie
+k zvýšeniu miery inflácie aj v Poľsku. Koeficient determinácie má hodnotu 0,715488728,
+čo znamená, že zvýšenie miery inflácie je zapríčinené zo 71,55 % zvýšením minimálnej
+mzdy a z 28,45 % závisí zvýšenie miery inflácie od iných faktorov. Model je aj tu
+štatisticky významný, pretože p-hodnota 0,01645758 je menšia ako hladina významnosti
+0,05. Potvrdzujeme teda, že minimálna mzda v Poľsku ovplyvňuje infláciu.
+Ak si zhrnieme výsledky za celú V4, tak vo všetkých krajinách okrem Slovenska
+platí silná priama lineárna závislosť medzi zvyšovaním úrovne minimálnej mzdy
+a zvyšovaním miery inflácie, na Slovensku hovoríme o miernej priamej lineárnej
+závislosti. Zvyšovanie úrovne minimálnej mzdy teda vedie k zvyšovaniu miery inflácie.
+Podľa koeficienta determinácie závisí zvyšovanie inflácie z väčšej časti od zvyšovania
+minimálnej mzdy a z menšej časti od iných faktorov vo všetkých krajinách V4. Aj tu je
+model vo všetkých prípadoch štatisticky významný. Znamená to, že potvrdzujeme
+výskumnú otázku, že minimálna mzda ovplyvňuje infláciu, a to vo všetkých krajinách
+V4.
+
+3.7 Výpočet vplyvu minimálnej mzdy na HDP
+V tejto časti práce skúmame vplyv minimálnej mzdy na HDP v krajinách V4.
+Hľadáme teda odpoveď na výskumnú otázku: Ovplyvňuje minimálna mzda HDP? Aj tu
+opäť pri skúmaní vplyvu minimálnej mzdy tentokrát na HDP v krajinách V4 používame
+63
+
+regresnú a korelačnú analýzu a interpretujeme výsledky z programu Microsoft Excel.
+Skúmame, ako vplýva zmena úrovne minimálnej mzdy na zmenu HDP. Aj tu opäť
+konštatujeme, že regresia a korelácia interpretuje pri nasledujúcich výpočtoch
+a tvrdeniach závislosť iba na jednej premennej, preto pri všetkých krajinách V4
+nemôžeme hovoriť o vplyve iba minimálnej mzdy na HDP.
+
+Tabuľka 14 Vývoj HDP v bežných trhových cenách v krajinách V4 v rokoch 2017 až
+2023 (v mld. €)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+84,67
+
+194,13
+
+127,02
+
+465,77
+
+2018
+
+89,87
+
+210,97
+
+136,06
+
+499,00
+
+2019
+
+94,43
+
+225,61
+
+146,55
+
+532,50
+
+2020
+
+93,45
+
+215,81
+
+137,92
+
+526,15
+
+2021
+
+100,24
+
+238,25
+
+153,98
+
+576,38
+
+2022
+
+109,76
+
+276,27
+
+168,55
+
+656,15
+
+2023
+
+122,81
+
+305,97
+
+196,39
+
+750,80
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+HDP na Slovensku do roku 2019 stúpalo, v roku 2020 mierne kleslo a od roku
+2021 znova stúpalo. Od roku 2021 je nad úrovňou 100 mld. €. Spomedzi všetkých krajín
+V4 je HDP na Slovensku najnižšie. Najvyššie HDP bolo na Slovensku v roku 2023, a to
+na úrovni 122,81 mld. €. Najnižšia úroveň HDP na Slovensku bola v roku 2017, čo bola
+taktiež najnižšia dosiahnutá úroveň HDP spomedzi všetkých krajín V4, a to 84,67 mld. €.
+V Česku malo HDP do roku 2019 stúpajúcu tendenciu, v roku 2020 kleslo a od roku 2021
+znova stúpalo. Najvyššie HDP bolo v roku 2023, a to 305,97 mld. €, kde prvýkrát
+prekročilo hranicu 300 mld. €. .Najnižšia úroveň HDP bola v roku 2017, a to vo výške
+194,13 mld. €. Rovnako aj v Maďarsku kleslo HDP len v roku 2020, ostatné roky rástlo.
+Najvyššie HDP bolo v roku 2023, a to 196,39 mld. €, najnižšie bolo v roku 2017, a to
+127,02 mld. €. Takisto aj v Poľsku bol pokles HDP len v roku 2020. Spomedzi všetkých
+krajín V4 bolo HDP v Poľsku v celom sledovanom období najvyššie. Najvyššie HDP bolo
+64
+
+v roku 2023, a to 750,80 mld. €, čo bolo najvyššie dosiahnuté HDP spomedzi všetkých
+krajín V4. Najnižšia úroveň HDP bola v Poľsku v roku 2017, a to 465,77 mld. €. Prepad
+HDP v roku 2020 vo všetkých krajinách V4 bol spôsobený pandémiou COVID-19.
+
+Graf 16 Graf lineárnej závislosti minimálnej mzdy a HDP na Slovensku v rokoch 2017
+až 2023
+140
+y = 0,127x + 27,032
+R² = 0,8571
+
+HDP (v mld. €)
+
+120
+100
+80
+60
+40
+20
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,925814056
+
+Koeficient determinácie
+
+0,857131667
+
+Upravený koeficient determinácie
+
+0,828558
+
+Štandardná chyba
+
+5,408972151
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+877,6291871
+
+877,6291871
+
+29,99725861
+
+0,002765514
+
+Rezíduá
+
+5
+
+146,2848987
+
+29,25697973
+
+Celkom
+
+6
+
+1023,914086
+
+65
+
+Koeficient korelácie má hodnotu 0,925814056, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie minimálnej mzdy teda na Slovensku vedie k zvýšeniu HDP.
+Koeficient determinácie má hodnotu 0,857131667, čo znamená, že zvýšenie HDP je
+z 85,71 % zapríčinené zvýšením minimálnej mzdy a zo 14,29 % závisí toto zvýšenie HDP
+od iných faktorov. Model je štatisticky významný, pretože vypočítaná p-hodnota
+0,002765514 je menšia ako hladina významnosti 0,05. Potvrdzujeme, že minimálna mzda
+na Slovensku ovplyvňuje HDP.
+
+Graf 17 Graf lineárnej závislosti minimálnej mzdy a HDP v Česku v rokoch 2017 až
+2023
+350
+y = 0,3558x + 38,374
+R² = 0,8842
+
+HDP (v mld. €)
+
+300
+250
+200
+150
+100
+50
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+66
+
+600
+
+700
+
+800
+
+Regresná štatistika
+Koeficient korelácie
+
+0,940340931
+
+Koeficient determinácie
+
+0,884241066
+
+Upravený koeficient determinácie
+
+0,861089279
+
+Štandardná chyba
+
+14,74082569
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+8299,076862
+
+8299,076862
+
+38,19321043
+
+0,001616671
+
+Rezíduá
+
+5
+
+1086,45971
+
+217,2919419
+
+Celkom
+
+6
+
+9385,536571
+
+Koeficient korelácie má hodnotu 0,940340931, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie minimálnej mzdy teda aj v Česku vedie k zvýšeniu HDP. Koeficient
+determinácie má hodnotu 0,884241066, čo znamená, že z 88,42 % je zvýšenie HDP
+zapríčinené zvýšením minimálnej mzdy a z 11,58 % závisí zvýšenie HDP od iných
+faktorov. Model je štatisticky významný, pretože p-hodnota 0,001616671 je menšia ako
+hladina významnosti 0,05. Potvrdzujeme, že minimálna mzda v Česku ovplyvňuje HDP.
+
+Graf 18 Graf lineárnej závislosti minimálnej mzdy a HDP v Maďarsku v rokoch 2017 až
+2023
+250
+y = 0,3583x - 20,335
+R² = 0,8086
+
+HDP (v mld. €)
+
+200
+150
+100
+50
+0
+0
+
+100
+
+200
+
+300
+400
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+67
+
+500
+
+600
+
+700
+
+Regresná štatistika
+Koeficient korelácie
+
+0,89919917
+
+Koeficient determinácie
+
+0,808559147
+
+Upravený koeficient determinácie
+
+0,770270976
+
+Štandardná chyba
+
+11,33127128
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+2711,467799
+
+2711,467799
+
+21,11772729
+
+0,005864752
+
+Rezíduá
+
+5
+
+641,9885439
+
+128,3977088
+
+Celkom
+
+6
+
+3353,456343
+
+Koeficient korelácie má hodnotu 0,89919917, čo znamená silnú priamu lineárnu
+závislosť. Zvýšenie minimálnej mzdy teda vedie v Maďarsku k zvýšeniu HDP. Koeficient
+determinácie 0,808559147 znamená, že zvýšenie HDP je zapríčinené z 80,86 % zvýšením
+minimálnej mzdy a z 19,14 % závisí zvýšenie HDP od iných faktorov. Model je znova
+štatisticky významný, pretože p-hodnota 0,005864752 je menšia ako hladina
+významnosti 0,05. Potvrdzujeme teda, že minimálna mzda v Maďarsku ovplyvňuje HDP.
+
+Graf 19 Graf lineárnej závislosti minimálnej mzdy a HDP v Poľsku v rokoch 2017 až
+2023
+800
+y = 0,9324x + 25,219
+R² = 0,8786
+
+700
+
+HDP (v mld. €)
+
+600
+
+500
+400
+300
+200
+100
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+68
+
+600
+
+700
+
+800
+
+Regresná štatistika
+Koeficient korelácie
+
+0,93734629
+
+Koeficient determinácie
+
+0,878618068
+
+Upravený koeficient determinácie
+
+0,854341682
+
+Štandardná chyba
+
+37,95633559
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+52141,63489
+
+52141,63489
+
+36,19229213
+
+0,001824257
+
+Rezíduá
+
+5
+
+7203,417056
+
+1440,683411
+
+Celkom
+
+6
+
+59345,05194
+
+Koeficient korelácie má hodnotu 0,93734629, čo rovnako znamená silnú priamu
+lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda vedie k zvýšeniu HDP aj
+v Poľsku. Koeficient determinácie má hodnotu 0,878618068, čo znamená, že zvýšenie
+HDP je zapríčinené z 87,86 % zvýšením úrovne minimálnej mzdy a z 12,14 % závisí
+zvýšenie HDP od iných faktorov. Model je aj tu štatisticky významný, pretože p-hodnota
+0,001824257 je menšia ako hladina významnosti 0,05. Potvrdzujeme teda, že minimálna
+mzda v Poľsku ovplyvňuje HDP.
+Ak si zhrnieme výsledky za všetky krajiny V4, tak vo všetkých krajinách platí
+silná priama lineárna závislosť medzi zvyšovaním úrovne minimálnej mzdy
+a zvyšovaním HDP. Zvyšovanie úrovne minimálnej mzdy teda vedie k zvyšovaniu HDP.
+Vo všetkých krajinách V4 podľa koeficienta determinácie závisí zvyšovanie HDP
+z veľkej časti od zvyšovania minimálnej mzdy a z malej časti od iných faktorov. Model
+je vo všetkých prípadoch štatisticky významný. Znamená to, že potvrdzujeme výskumnú
+otázku, že minimálna mzda ovplyvňuje HDP, a to znova vo všetkých krajinách V4.
+
+3.8 Výpočet vplyvu minimálnej mzdy na nezamestnanosť
+V tejto časti práce skúmame vplyv minimálnej mzdy na nezamestnanosť
+v krajinách V4. Hľadáme teda odpoveď na výskumnú otázku: Ovplyvňuje minimálna
+mzda nezamestnanosť? Aj tu pri skúmaní vplyvu minimálnej mzdy na nezamestnanosť
+v krajinách V4 používame regresnú a korelačnú analýzu a interpretujeme výsledky
+z programu Microsoft Excel. Skúmame, ako vplýva na zmenu miery nezamestnanosti
+69
+
+zmena úrovne minimálnej mzdy. Je nutné znova konštatovať, že pri nasledujúcich
+výpočtoch a tvrdeniach daná regresia a korelácia interpretuje závislosť iba na jednej
+premennej, preto pri všetkých krajinách V4 nemôžeme hovoriť o vplyve iba minimálnej
+mzdy na nezamestnanosť.
+
+Tabuľka 15 Vývoj miery nezamestnanosti v krajinách V4 v rokoch 2017 až 2023 (v %)
+Rok
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+2017
+
+8,10
+
+2,90
+
+4,00
+
+5,00
+
+2018
+
+6,50
+
+2,20
+
+3,60
+
+3,90
+
+2019
+
+5,70
+
+2,00
+
+3,30
+
+3,30
+
+2020
+
+6,70
+
+2,60
+
+4,10
+
+3,20
+
+2021
+
+6,80
+
+2,80
+
+4,10
+
+3,40
+
+2022
+
+6,10
+
+2,20
+
+3,60
+
+2,90
+
+2023
+
+5,80
+
+2,60
+
+4,10
+
+2,80
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat
+
+Na Slovensku mala miera nezamestnanosti kolísavý charakter. Spomedzi
+všetkých krajín V4 mala najvyššiu úroveň v celom sledovanom období. Najvyššia miera
+nezamestnanosti bola v roku 2017, a to 8,10 %, čo bola aj najvyššia miera
+nezamestnanosti dosiahnutá spomedzi krajín V4 v sledovanom období. Najnižšia miera
+nezamestnanosti bola na Slovensku v roku 2019, a to 5,70 %. Takisto v Česku mala miera
+nezamestnanosti kolísavý vývoj, kde medziročné odchýlky boli ale veľmi malé.
+Spomedzi krajín V4 mala naopak najnižšiu úroveň vo všetkých sledovaných rokoch.
+Najvyššia miera nezamestnanosti bola v Česku v roku 2017, a to 2,90 %, najnižšia bola
+v roku 2019, a to 2,00 %. To bola najnižšia dosiahnutá miera nezamestnanosti spomedzi
+všetkých krajín V4. Rovnako kolísavý vývoj vidíme aj v Maďarsku, kde najvyššia miera
+nezamestnanosti bola na úrovni 4,10 %, a to v rokoch 2020, 2021 a 2023. Najnižšia miera
+nezamestnanosti bola v roku 2019, a to 3,30 %. V Poľsku môžeme okrem roku 2021
+hovoriť o klesajúcej miere nezamestnanosti. V roku 2021 stúpla o 0,2 %. Najvyššia bola
+v roku 2017, a to 5,00 %, najnižšia v roku 2023, a to 2,80 %.
+70
+
+Graf 20 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti
+na Slovensku v rokoch 2017 až 2023
+9
+
+y = -0,0051x + 9,4507
+R² = 0,3609
+
+Nezamestnanosť (v %)
+
+8
+
+7
+6
+5
+4
+3
+
+2
+1
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,60071293
+
+Koeficient determinácie
+
+0,360856025
+
+Upravený koeficient determinácie
+
+0,23302723
+
+Štandardná chyba
+
+0,712760937
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+1,434144944
+
+1,434144944
+
+2,822963517
+
+0,153758194
+
+Rezíduá
+
+5
+
+2,54014077
+
+0,508028154
+
+Celkom
+
+6
+
+3,974285714
+
+Koeficient korelácie má hodnotu 0,60071293, čo znamená miernu priamu
+lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda na Slovensku vedie
+k zvýšeniu miery nezamestnanosti. Koeficient determinácie má hodnotu 0,360856025, čo
+znamená, že zvýšenie miery nezamestnanosti je zapríčinené len z 36,09 % zvýšením
+minimálnej mzdy a zo 63,91 % závisí zvýšenie miery nezamestnanosti od iných faktorov.
+Model nie je štatisticky významný, pretože vypočítaná p-hodnota 0,153758194 je väčšia
+71
+
+ako hladina významnosti 0,05. Zamietame teda, že minimálna mzda na Slovensku
+ovplyvňuje nezamestnanosť.
+
+Graf 21 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Česku
+v rokoch 2017 až 2023
+3,5
+y = -0,0003x + 2,6403
+R² = 0,0085
+
+Nezamestnanosť (v %)
+
+3
+2,5
+2
+1,5
+1
+0,5
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+600
+
+700
+
+800
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,092413018
+
+Koeficient determinácie
+
+0,008540166
+
+Upravený koeficient determinácie
+
+-0,189751801
+
+Štandardná chyba
+
+0,371040806
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+0,005929315
+
+0,005929315
+
+0,043068643
+
+0,843783841
+
+Rezíduá
+
+5
+
+0,688356399
+
+0,13767128
+
+Celkom
+
+6
+
+0,694285714
+
+Koeficient korelácie má hodnotu 0,092413018, čo v tomto prípade znamená malú
+priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda aj v Česku vedie
+72
+
+k zvýšeniu miery nezamestnanosti, aj keď len nepatrne. Koeficient determinácie má
+hodnotu 0,008540166, čo znamená, že zvýšenie miery nezamestnanosti je zapríčinené
+z 0,85 % zvýšením minimálnej mzdy a z 99,15 % závisí zvýšenie miery nezamestnanosti
+od iných faktorov. Model taktiež nie je štatisticky významný, pretože p-hodnota
+0,843783841je väčšia ako hladina významnosti 0,05. Zamietame teda, že minimálna
+mzda v Česku ovplyvňuje nezamestnanosť.
+
+Graf 22 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Maďarsku
+v rokoch 2017 až 2023
+4,5
+y = 0,0004x + 3,6209
+R² = 0,0062
+
+Nezamestnanosť (v %)
+
+4
+3,5
+3
+2,5
+2
+1,5
+1
+0,5
+0
+
+0
+
+100
+
+200
+
+300
+400
+Minimálna mzda (v €)
+
+500
+
+600
+
+700
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Regresná štatistika
+Koeficient korelácie
+
+0,078615983
+
+Koeficient determinácie
+
+0,006180473
+
+Upravený koeficient determinácie
+
+-0,192583433
+
+Štandardná chyba
+
+0,355067748
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+0,00392
+
+0,00392
+
+0,031095
+
+0,866949411
+
+Rezíduá
+
+5
+
+0,630366
+
+0,126073
+
+Celkom
+
+6
+
+0,634286
+
+73
+
+Koeficient korelácie má hodnotu 0,078615983, čo v tomto prípade opäť znamená
+malú priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda aj v Maďarsku
+vedie k zvýšeniu miery nezamestnanosti len nepatrne. Koeficient determinácie má
+hodnotu 0,006180473, čo znamená, že zvýšenie miery nezamestnanosti je zapríčinené
+z 0,62 % zvýšením minimálnej mzdy a z 99,38 % závisí zvýšenie miery nezamestnanosti
+od iných faktorov. Model taktiež nie je štatisticky významný, pretože p-hodnota
+0,866949411je väčšia ako hladina významnosti 0,05. Zamietame teda, že minimálna
+mzda v Maďarsku ovplyvňuje nezamestnanosť.
+
+Graf 23 Graf lineárnej závislosti minimálnej mzdy a miery nezamestnanosti v Poľsku
+v rokoch 2017 až 2023
+6
+y = -0,0064x + 7,2435
+R² = 0,7178
+
+Nezamestnanosť (v %)
+
+5
+4
+3
+2
+1
+0
+0
+
+100
+
+200
+
+300
+400
+500
+Minimálna mzda (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+74
+
+600
+
+700
+
+800
+
+Regresná štatistika
+Koeficient korelácie
+
+0,847239927
+
+Koeficient determinácie
+
+0,717815494
+
+Upravený koeficient determinácie
+
+0,661378592
+
+Štandardná chyba
+
+0,438047331
+
+Počet pozorovaní
+
+7
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+2,440572678
+
+2,440572678
+
+12,71890336
+
+0,016105696
+
+Rezíduá
+
+5
+
+0,959427322
+
+0,191885464
+
+Celkom
+
+6
+
+3,4
+
+Koeficient korelácie má hodnotu 0,847239927, čo v tomto prípade znamená silnú
+priamu lineárnu závislosť. Zvýšenie úrovne minimálnej mzdy teda v Poľsku vedie
+k zvýšeniu miery nezamestnanosti. Koeficient determinácie má hodnotu 0,717815494, čo
+znamená, že zvýšenie miery nezamestnanosti je zapríčinené zo 71,78 % zvýšením
+minimálnej mzdy a z 28,22 % závisí zvýšenie miery nezamestnanosti od iných faktorov.
+Model je štatisticky významný, pretože p-hodnota 0,016105696 je menšia ako hladina
+významnosti 0,05. Potvrdzujeme teda, že minimálna mzda v Poľsku ovplyvňuje
+nezamestnanosť.
+Ak zhrnieme výsledky, tak vidíme, že na Slovensku je medzi zvyšovaním úrovne
+minimálnej mzdy a zvyšovaním miery nezamestnanosti mierna priama lineárna závislosť,
+v Česku a v Maďarsku platí malá priama lineárna závislosť a v Poľsku hovoríme o silnej
+priamej lineárnej závislosti. Zvyšovanie minimálnej mzdy teda vedie k zvyšovaniu miery
+nezamestnanosti. Vo všetkých krajinách V4 okrem Poľska podľa koeficienta determinácie
+závisí zvyšovanie miery nezamestnanosti z menšej časti od zvyšovania minimálnej mzdy
+a z väčšej časti od iných faktorov. Len v spomínanom Poľsku je to opačne. Vo všetkých
+krajinách V4 okrem Poľska nie je model štatisticky významný. Znamená to, že
+potvrdzujeme výskumnú otázku, že minimálna mzda ovplyvňuje nezamestnanosť, čo sa
+týka Poľska. Čo sa týka Slovenska, Česka a Maďarska, zamietame výskumnú otázku, že
+minimálna mzda ovplyvňuje nezamestnanosť.
+
+75
+
+Tabuľka 16 Vyjadrenie koeficientu korelácie v krajinách V4 v rokoch 2017 až 2023
+Koeficient
+
+Slovensko
+
+Česko
+
+Maďarsko
+
+Poľsko
+
+Zamestnanosť
+
+0,821885499
+
+0,911123278
+
+0,884976429
+
+0,859497367
+
+Produktivita práce
+
+0,875608988
+
+0,592204197
+
+0,855414182
+
+0,888467048
+
+Inflácia
+
+0,766718612
+
+0,807186532
+
+0,91887484
+
+0,845865668
+
+HDP
+
+0,925814056
+
+0,940340931
+
+0,89919917
+
+0,93734629
+
+Nezamestnanosť
+
+0,60071293
+
+0,092413018
+
+0,078615983
+
+0,847239927
+
+korelácie
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+Zhrnieme si korelačný koeficient za všetky štáty V4, nakoľko skúmanie vplyvu
+minimálnej mzdy na zamestnanosť a na ďalšie vybrané ukazovatele je hlavnou témou
+diplomovej práce. Ak sa pozrieme na zamestnanosť, tak vo všetkých krajinách V4 platí
+silná priama lineárna závislosť medzi zvyšovaním úrovne minimálnej mzdy
+a zvyšovaním miery zamestnanosti. Zvyšovanie minimálnej mzdy teda vedie
+k zvyšovaniu miery zamestnanosti. Ak sa pozrieme na produktivitu práce, tak vo všetkých
+krajinách okrem Česka platí silná priama lineárna závislosť medzi zvyšovaním
+minimálnej mzdy a zvyšovaním produktivity práce, v Česku hovoríme o miernej priamej
+lineárnej závislosti. Zvyšovanie minimálnej mzdy teda vedie k zvyšovaniu produktivity
+práce. Pri inflácii vidíme, že vo všetkých krajinách okrem Slovenska platí silná priama
+lineárna závislosť medzi zvyšovaním úrovne minimálnej mzdy a zvyšovaním miery
+inflácie, na Slovensku hovoríme o miernej priamej lineárnej závislosti. Zvyšovanie
+úrovne minimálnej mzdy teda vedie k zvyšovaniu miery inflácie. Pri HDP pozorujeme,
+že vo všetkých krajinách platí silná priama lineárna závislosť medzi zvyšovaním úrovne
+minimálnej mzdy a zvyšovaním HDP. Zvyšovanie úrovne minimálnej mzdy teda vedie
+k zvyšovaniu HDP. Pri nezamestnanosti je vidno rozličné závislosti. Na Slovensku je
+medzi zvyšovaním úrovne minimálnej mzdy a zvyšovaním miery nezamestnanosti
+mierna priama lineárna závislosť, v Česku a v Maďarsku platí malá priama lineárna
+závislosť a v Poľsku hovoríme o silnej priamej lineárnej závislosti. Zvyšovanie
+minimálnej mzdy teda vedie k zvyšovaniu miery nezamestnanosti. Dodávame tiež, že
+prostredníctvom výpočtov sme došli k záveru, že zamietame, že minimálna mzda v Česku
+76
+
+ovplyvňuje produktivitu práce a zamietame výskumnú otázku, že minimálna mzda
+ovplyvňuje nezamestnanosť, čo sa týka Slovenska, Česka a Maďarska.
+
+3.9 Cena práce na Slovensku a jej vplyv na zamestnanosť
+V tejto časti práce analyzujeme odvody a cenu práce pri minimálnej mzde a čistú
+minimálnu mzdu na Slovensku za roky 2022 až 2024. Skúmame tiež vplyv zvyšovania
+ceny práce na zamestnanosť, a to za roky 2017 až 2024
+
+Tabuľka 17 Vývoj odvodov na Slovensku v rokoch 2022 až 2024
+Zamestnanec
+
+Zamestnávateľ
+
+Odvody v roku 2022
+(v %)
+
+(v €)
+
+(v %)
+
+(v €)
+
+Sociálne poistenie
+
+9,40
+
+60,72
+
+25,20
+
+162,77
+
+Zdravotné poistenie
+
+4,00
+
+25,84
+
+10,00
+
+64,60
+
+Spolu
+
+13,40
+
+86,56
+
+35,20
+
+227,37
+
+Zamestnanec
+
+Zamestnávateľ
+
+Odvody v roku 2023
+(v %)
+
+(v €)
+
+(v %)
+
+(v €)
+
+Sociálne poistenie
+
+9,40
+
+65,80
+
+25,20
+
+176,40
+
+Zdravotné poistenie
+
+4,00
+
+28,00
+
+10,00
+
+70,00
+
+Spolu
+
+13,40
+
+93,80
+
+35,20
+
+246,40
+
+Zamestnanec
+
+Zamestnávateľ
+
+Odvody v roku 2024
+(v %)
+
+(v €)
+
+(v %)
+
+(v €)
+
+Sociálne poistenie
+
+9,40
+
+70,50
+
+25,20
+
+188,99
+
+Zdravotné poistenie
+
+4,00
+
+30,00
+
+11,00
+
+82,50
+
+Spolu
+
+13,40
+
+100,50
+
+36,20
+
+271,49
+
+Prírastok v roku 2023
+
+-
+
+7,24
+
+-
+
+19,03
+
+Prírastok v roku 2024
+
+-
+
+6,70
+
+1,00
+
+25,09
+
+Zdroj: Vlastné spracovanie na základe dát zo SP a VŠZP
+
+77
+
+S rastom minimálnej mzdy rastú aj odvody zamestnanca a zamestnávateľa.
+Odvody zamestnanca predstavujú 13,4 %. V roku 2022 boli odvody vo výške 86,56 €,
+v roku 2023 boli 93,80 € a v roku 2024 je aktuálna výška odvodov 100,50 €. V roku 2023
+teda narástli o 7,24 €, v roku 2024 o 6,70 €. Odvody zamestnávateľa boli do roku 2023
+na úrovni 35,2 %, od roku 2024 je to 36,2 %, kde konkrétne stúpla výška odvodov
+zdravotného poistenia, a to z 10,00 % na 11,00 %. V roku 2022 boli odvody vo výške
+227,37 €, v roku 2023 boli odvody vo výške 246,40 €, v roku 2024 je to 271,49 €. V roku
+2023 narástli o 19,03 €, v roku 2024 o 25,09 €.
+
+Tabuľka 18 Vývoj ceny práce na Slovensku v rokoch 2022 až 2024
+Rok
+
+Cena práce (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2022
+
+873,37
+
+31,09
+
+3,69
+
+2023
+
+946,40
+
+73,03
+
+8,36
+
+2024
+
+1021,49
+
+75,09
+
+7,93
+
+Zdroj: Vlastné spracovanie na základe dát zo SP a VŠZP
+
+Cenu práce zjednodušene vyrátame, ak k hrubej minimálnej mzde prirátame
+odvody zamestnávateľa. V roku 2022 bola cena práce na úrovni 873,37 €, v roku 2023
+bola na úrovni 946,40 €, v roku 2024 je na úrovni 1 021,49 €. V roku 2022 jej výška
+stúpla o 31,09 €, čo je 3,69 %, v roku 2023 stúpla o 73,03 €, čo predstavuje 8,36 %, v roku
+2024 o 75,09 €, čo predstavuje 7,93 %. Práve stúpajúce odvody zamestnávateľa, a tým aj
+stúpajúcu cenu práce považuje veľa odporcov minimálnej mzdy za problém, ktorý vplýva
+na mieru zamestnanosti, a to hlavne v chudobnejších regiónoch Slovenska.
+
+78
+
+Tabuľka 19 Vývoj čistej minimálnej mzdy na Slovensku v rokoch 2022 až 2024
+
+Rok
+
+Čistá minimálna
+mzda (v €)
+
+Prírastok (v €)
+
+Prírastok (v %)
+
+2022
+
+525,65
+
+17,21
+
+3,38
+
+2023
+
+568,97
+
+43,32
+
+8,24
+
+2024
+
+615,50
+
+46,53
+
+8,18
+
+Zdroj: Vlastné spracovanie na základe dát zo SP a VŠZP
+
+Čistú minimálnu mzdu zjednodušene vyrátame tak, že od hrubej minimálnej mzdy
+odrátame odvody zamestnanca a preddavok na daň z príjmov, kde predpokladáme
+uplatnenie nezdaniteľnej časti základu dane. Čistá minimálna mzda dosiahla v roku 2022
+úroveň 525,65 €, v roku 2023 úroveň 568,97 € a v roku 2024 je aktuálna úroveň čistej
+minimálnej mzdy 615,50 €. V roku 2022 narástla čistá minimálna mzda o 17,21 €, čo je
+nárast o 3,38 %, v roku 2023 narástla táto mzda o 43,32 €, čo je nárast o 8,24 %, v roku
+2024 o 46,53 €, čo je 8,18 %.
+Ako sme už spomínali, v tejto časti práce skúmame tiež vplyv zvyšovania ceny
+práce na zamestnanosť. Hľadáme odpoveď na výskumnú otázku: Ovplyvňuje cena práce
+zamestnanosť? Pri skúmaní vplyvu ceny práce na zamestnanosť na Slovensku používame
+regresnú a korelačnú analýzu a interpretujeme výsledky z programu Microsoft Excel.
+Skúmame, ako vplýva zmena úrovne ceny práce na mieru zamestnanosti. Je nutné
+konštatovať, že pri nasledujúcich výpočtoch a tvrdeniach daná regresia a korelácia
+interpretuje závislosť iba na jednej premennej, preto nemôžeme hovoriť o vplyve iba ceny
+práce na zamestnanosť. Analyzujeme roky 2017 až 2024.
+
+79
+
+Tabuľka 20 Vývoj ceny práce a miery zamestnanosti na Slovensku v rokoch 2017 až
+2024
+Rok
+
+Cena práce (v €)
+
+Miera zamestnanosti (v %)
+
+2017
+
+561,11
+
+73,20
+
+2018
+
+648,96
+
+74,50
+
+2019
+
+703,04
+
+75,60
+
+2020
+
+784,16
+
+74,60
+
+2021
+
+842,28
+
+74,60
+
+2022
+
+873,37
+
+76,70
+
+2023
+
+946,40
+
+77,50
+
+2024
+
+1021,49
+
+77,60
+
+Zdroj: Vlastné spracovanie na základe dát z Eurostat, ŠÚ SR, SP a VŠZP
+
+Graf 24 Graf lineárnej závislosti ceny práce a miery zamestnanosti na Slovensku
+
+Zamestnanosť (v %)
+
+v rokoch 2017 až 2024
+78
+77,5
+77
+76,5
+76
+75,5
+75
+74,5
+74
+73,5
+73
+72,5
+
+y = 0,0091x + 68,314
+R² = 0,7719
+
+0
+
+200
+
+400
+
+600
+800
+Cena práce (v €)
+
+Zdroj: Vlastné spracovanie na základe dát z programu Excel
+
+80
+
+1000
+
+1200
+
+Regresná štatistika
+Koeficient korelácie
+
+0,878573215
+
+Koeficient determinácie
+
+0,771890894
+
+Upravený koeficient determinácie
+
+0,73387271
+
+Štandardná chyba
+
+0,821678422
+
+Počet pozorovaní
+
+8
+
+Rozdiel
+
+SS
+
+MS
+
+F
+
+Významnosť F
+
+Regresia
+
+1
+
+13,70781742
+
+13,70781742
+
+20,30320251
+
+0,004078208
+
+Rezíduá
+
+6
+
+4,050932579
+
+0,67515543
+
+Celkom
+
+7
+
+17,75875
+
+Koeficient korelácie má hodnotu 0,878573215, čo v tomto prípade znamená silnú
+priamu lineárnu závislosť. Zvýšenie úrovne ceny práce teda na Slovensku vedie
+k zvýšeniu miery zamestnanosti. Koeficient determinácie má hodnotu 0,771890894, čo
+znamená, že zvýšenie miery zamestnanosti je zapríčinené zo 77,19 % zvýšením ceny
+práce a z 22,81 % závisí zvýšenie miery zamestnanosti od iných faktorov. Model je
+štatisticky významný, pretože vypočítaná p-hodnota 0,004078208 je menšia ako hladina
+významnosti 0,05. Potvrdzujeme teda výskumnú otázku, že cena práce na Slovensku
+ovplyvňuje zamestnanosť.
+
+81
+
+4 Diskusia
+
+V tejto kapitole vyjadríme vlastný názor na vplyv zvyšovania úrovne minimálnej
+mzdy na zamestnanosť. K nemu sme dospeli predovšetkým na základe preskúmaných
+štúdií a článkov v teoretickej časti a na základe výpočtov a analýz v empirickej časti.
+Prostredníctvom našich výpočtov sme došli k záveru, že vo všetkých krajinách V4
+platí silná priama lineárna závislosť medzi zvyšovaním minimálnej mzdy a zvyšovaním
+miery zamestnanosti čo znamená, že zvyšovanie minimálnej mzdy vedie k zvyšovaniu
+miery zamestnanosti. Taktiež, že vo všetkých krajinách závisí zvyšovanie miery
+zamestnanosti z väčšej časti od zvyšovania minimálnej mzdy a z menšej časti od iných
+faktorov. Model je vo všetkých prípadoch štatisticky významný. Znamená to, že sme
+potvrdili výskumnú otázku, že minimálna mzda ovplyvňuje zamestnanosť, a to v celej
+V4. Rovnaký vzťah sme prostredníctvom výpočtov potvrdili medzi cenou práce a mierou
+zamestnanosti na Slovensku. K týmto záverom sme došli prostredníctvom jednoduchej
+lineárnej regresie a korelácie a bolo by veľmi odvážne tvrdiť, že tieto výpočty
+jednoznačne potvrdzujú pozitívny vplyv zvyšovania minimálnej mzdy. Musíme si
+uvedomiť, že na zvyšovanie miery zamestnanosti vplýva celý rad ďalších faktorov, ako
+je napr. ekonomický rast, politická stabilita, s čím je úzko spojený prílev zahraničných
+investícií, využitie fondov EÚ a pod. Načrtá sa teda námet a priestor na ďalší výskum,
+výskumné otázky a štúdium tejto problematiky.
+Ako to teda naozaj je? Ovplyvňuje minimálna mzda zamestnanosť alebo nie? Ak
+ju ovplyvňuje, je to pozitívny alebo negatívny vplyv? To sú otázky, na ktoré sa snaží
+odpovedať už niekoľko dekád veľké množstvo autorov. Napriek takémuto množstvu
+vypracovaných
+
+štúdií
+
+doteraz
+
+nie
+
+je
+
+ani
+
+v jednej
+
+preukázaný
+
+jednoznačný
+
+a nevyvrátiteľný vplyv minimálnej mzdy na zamestnanosť, aj keď väčšia časť štúdií sa
+prikláňa k negatívnemu vplyvu. V niektorých štúdiách je na základe skúmaného obdobia
+dokonca presne vyčíslené to, ako a o koľko zvyšovanie minimálnej mzdy vedie
+k znižovaniu pracovných miest, teda k znižovaniu zamestnanosti, resp. zvyšovaniu
+nezamestnanosti. Tu sa nám ale znova natíska ďalšia otázka. Je toto znižovanie
+pracovných miest ovplyvnené naozaj len zvyšovaním minimálnej mzdy?
+Na základe štúdia tejto problematiky sa takisto prikláňame skôr k negatívnemu
+ako pozitívnemu vplyvu, aj keď nie úplne jednoznačne. Naša pozornosť sa asi najviac
+82
+
+upriamuje na to, že daňovo-odvodové zaťaženie na Slovensku patrí medzi jedno
+z najvyšších v Európe. To znamená vysoké mzdové náklady pri zamestnávaní každého
+jedného zamestnanca pre zamestnávateľa. Ak sa pozrieme na výplatnej páske na cenu
+práce a na čistú mzdu, tak rozdiel v týchto 2 sumách je dosť veľký. Logicky, čím je mzda
+vyššia, tým vyššie sú mzdové náklady zamestnávateľa. Ak k tomu ešte prirátame stupne
+náročnosti práce, príplatky, stravné lístky a pod., zamestnávateľom rastú mzdové náklady
+celkom slušným tempom. Je preto pochopiteľné, že zamestnávateľom nie je po chuti, ak
+sa minimálna mzda zvyšuje. To môže u nich viesť k otázke, či potrebujú zamestnávať
+toľko zamestnancov, koľko zamestnávajú, čo môže viesť k prepúšťaniu. Ak aj
+neprichádza k prepúšťaniu, minimálne dochádza k zastaveniu prijímania nových
+zamestnancov a zamestnávateľ radšej pridelí viac práce svojim zamestnancom, ako by
+mal prijať ďalších. Takže človek možno zarobí viac, ale za viac vykonanej práce.
+Zastávame názor, že k takýmto riešeniam sa uchyľujú skôr menšie a slabšie podniky
+v ekonomicky zaostalejších regiónoch ako veľké stabilné firme v ekonomicky silných
+regiónoch. Podľa nášho názoru je teda hlavným problémom vysoké daňovo-odvodové
+zaťaženie a namiesto toho, aby sa pristúpilo k jeho znižovaniu, tak v roku 2024 sa
+daňovo-odvodové zaťaženie ešte zvýšilo, a to z 35,2 % na 36,2 %. Konkrétne hovoríme
+o zvýšení zdravotného poistenia z 10 % na 11 %. Je pochopiteľné, že vláda sa snaží nájsť
+cesty, ako naplniť štátny rozpočet, no podľa nás toto nie je správny krok, ktorý pomôže
+zamestnávateľom a zamestnancom. Zvýšiť už aj tak vysoké daňové odvody je podľa nás
+krok vedľa. Ak by zamestnávatelia nemali tak vysoké mzdové náklady, skôr by boli
+prístupní, čo sa týka zvyšovania miezd, a tak by zamestnanci dostávali v čistom viac.
+Jednak by k tomu prispeli vyššie mzdy, takisto aj nižšie daňové odvody a znížil by sa
+počet zamestnancov poberajúcich minimálnu mzdu. Takisto by s väčšou ochotou
+zamestnávali nových zamestnancov.
+Ďalší problém, ktorý s týmto súvisí sú ceny tovarov a služieb. Čo urobí
+zamestnávateľ, ak mu stúpnu náklady? No logicky tieto náklady musí niekde zohľadniť
+a premietnuť. Často to býva práve premietnutie do cien tovarov a služieb. Takže nízko
+príjmoví zamestnanci síce zarobia viac, ale v konečnom dôsledku aj minú viac pri nákupe
+týchto tovarov a služieb. Zvýšené náklady môže zamestnávateľ premietnuť aj do nižších
+odmien či benefitov.
+A čo taká šedá ekonomika? Nie je to takisto výsledkom vysokých odvodov?
+Myslíme, že áno. Je všeobecne a verejne známe, že na trhu je stále dosť zamestnancov,
+83
+
+ktorí sú ochotní pristúpiť na to, že na výplatnej páske majú priznanú minimálnu mzdu,
+z ktorej idú odvody a zvyšok dostávajú ľudovo povedané na ruku. Nemyslia pri tom často
+na to, ako negatívne im to v budúcnosti ovplyvní výšku dôchodku. Zamestnávatelia sú
+zas ochotní znášať riziko daňových podvodov a priznávať zamestnancom oveľa menšie
+zárobky, aby sa tak vyhli týmto vysokým odvodom.
+Na druhej strane minimálna mzda musí byť stanovená, aby pracujúci boli chránení
+pred zamestnávateľmi, ktorí by boli schopní platiť neadekvátne nízke mzdy za ich
+odvedenú prácu. K zvyšovaniu minimálnej mzdy v rozumnej miere však musí vzhľadom
+k inflácii dochádzať.
+
+84
+
+Záver
+
+V diplomovej práci sme sa venovali téme Minimálna mzda v krajinách V4
+a jej vplyv na zamestnanosť.
+Cieľom diplomovej práce bolo najskôr charakterizovať minimálnu mzdu, potom
+analyzovať jej vplyv na zamestnanosť. Tento cieľ sme plnili postupne v 4 kapitolách.
+V prvej kapitole sme v teoretickej rovine charakterizovali minimálnu mzdu, odporcov
+a zástancov minimálnej mzdy a vplyv minimálnej mzdy na zamestnanosť a ďalšie
+ukazovatele, a to všetko prostredníctvom odborných článkov a štúdií. V druhej kapitole
+sme podrobnejšie opísali hlavný cieľ, ktorý sme rozdelili na čiastkové ciele a opísali
+sme metodológiu skúmania. V tretej kapitole, ktorá bola najrozsiahlejšia, sme postupne
+analyzovali vývoj úrovne minimálnej mzdy v krajinách V4 a v krajinách EÚ. Vyjadrili
+sme tiež úroveň minimálnej mzdy na mediánových a priemerných mzdách krajín V4.
+Ďalej sme prostredníctvom výpočtov analyzovali vplyv zvyšovania úrovne minimálnej
+mzdy na zamestnanosť a ďalšie ukazovatele. Na konci kapitoly sme analyzovali cenu
+práce na Slovensku a vplyv zvyšovania ceny práce na zamestnanosť. V poslednej kapitole
+sme vyjadrili vlastný názor na skúmanú problematiku, ku ktorému sme dospeli vďaka
+všetkým poznatkoch získaným pri vypracovaní diplomovej práce.
+Cieľ našej diplomovej práce sa nám podľa nášho názoru podarilo dosiahnuť,
+pretože sme charakterizovali a analyzovali minimálnu mzdu v krajinách V4 a jej vplyv
+na zamestnanosť.
+Prostredníctvom diplomovej práce sme spoznali negatívne aj pozitívne vplyvy
+zvyšovania minimálnej mzdy na zamestnanosť a na záver môžeme povedať, že
+minimálna mzda môže byť na jednej strane nástrojom, ktorý pomáha v boji s chudobou
+a chráni chudobných, no na druhej strane, ak sa nepoužíva správne a rastie rýchlym
+tempom, môže byť nástrojom, ktorý urobí z chudobných ešte chudobnejších.
+
+85
+
+Zoznam použitej literatúry
+
+Aký je rozdiel medzi priemerom a mediánom platu a prečo by ste ho mali poznať? 2019.
+[online]. [cit. 2024-05-09]. Dostupné na: https://www.platy.sk/analyzy/aky-je-rozdielmedzi-priemerom-a-medianom-platu-a-preco-by-ste-ho-mali-poznat/50543
+Asociácia zamestnávateľských zväzov a združení SR. 2024. Zvyšovanie minimálnej
+mzdy sa môže negatívne odzrkadliť na zamestnanosti. [online]. [cit. 2024-04-16].
+Dostupné na: https://www.azzz.sk/zvysovanie-minimalnej-mzdy-sa-moze-negativneodzrkadlit-na-zamestnanosti-p1123.htm
+Autorský kolektív Republikovej únie zamestnávateľov. 2021. Minimálna mzda, výhody
+a nevýhody, dopady na zamestnávateľov, súčasné a budúce politické trendy. [online]. [cit.
+2024-03-10]. Dostupné na: https://www.ruzsr.sk/media/42e2899a-abd0-420e-a4c7001aaa8818a3.pdf
+BODNÁR, K., FADEJEVA, L., IORDACHE, S., MALK, L., PASKALEVA, D.,
+PESLIAKAITÈ, J., TODOROVIĆ JEMEC, N., TÓTH, P., WYSZYŃSKI, R. 2018. How
+do Firms Adjust to Rises in the Minimum Wage? Survey Evidence from Central
+and Eastern Europe. In: IZA Journal of Labor Policy [online]. Vol. 7, no. 11 [cit. 202404-17]. p. 1-30. ISSN 2193-9004. DOI:10.1186/s40173-018-0104-x. Dostupné na:
+https://link.springer.com/article/10.1186/s40173-018-0104-x
+BOFFY-RAMIREZ, E. 2013. Minimum Wages, Earnings, and Migration. In: IZA Journal
+of Migration [online]. Vol. 2, no. 17 [cit. 2024-04-20]. ISSN 2193-9039. DOI:
+10.1186/2193-9039-2-17. Dostupné na: https://link.springer.com/article/10.1186/21939039-2-17
+BROČEK, F., HORVÁTHOVÁ, V., ŽÚDEL, B. 2022. Aký vplyv má zvyšovanie
+minimálnej mzdy na zamestnanosť? [online]. [cit. 2024-04-14]. Dostupné na:
+https://www.mfsr.sk/files/archiv/45/Aky-vplyv-ma-zvysovanie-minimalnej-mzdy-nazamestnanost.pdf
+CARD, D., KRUEGER, A. 1994. Minimum Wages and Employment: A Case Study
+of the Fast-Food Industry in New Jersey and Pennsylvania. In: American Economic
+Review [online]. Vol. 84, iss. 4 [cit. 2024-04-09]. p. 772-793. ISSN 0002-8282. Dostupné
+na: https://fairmodel.econ.yale.edu/ec438/card1.pdf
+86
+
+CARD, D., KRUEGER, A. 1998. A Reanalysis of the Effect of the New Jersey Minimum
+Wage Increase on the Fast-Food Industry with Representative Payroll Data. In: NBER
+Working Paper Series [online]. No. 6386 [cit. 2024-04-11]. DOI 10.3386/w6386.
+Dostupné na: https://davidcard.berkeley.edu/papers/reanal-ff-nj.pdf
+Czech Republic National Minimum Wage – NMW. The Minimum Wage Goes Up
+in
+
+Czechia.
+
+2024.
+
+[online].
+
+[cit.
+
+2024-05-03].
+
+Dostupné
+
+na:
+
+https://countryeconomy.com/national-minimum-wage/czech-republic
+FIALOVÁ, K., MYSÍKOVÁ, M. 2009. The Minimum Wage: Labor Market
+Consequences in the Czech Republic. In: Czech Journal of Economics and Finance
+[online]. Vol. 59, iss. 3 [cit. 2024-04-07]. p. 255-274. ISSN 0015-1920. Dostupné na:
+https://www.econstor.eu/bitstream/10419/83311/1/597736146.pdf
+FIALOVÁ, K., MYSÍKOVÁ, M. 2021. Do Low Minimum Wages Disserve Workers?
+A Case Study of the Czech and Slovak Republics. In: Baltic Journal of Economics
+[online]. Vol. 21, iss. 1 [cit. 2024-04-07]. p. 43-59. ISSN 1406-099X. DOI:
+10.1080/1406099X.2021.1917844.
+
+Dostupné
+
+na:
+
+https://www.tandfonline.com/doi/full/10.1080/1406099X.2021.1917844
+GRMANOVÁ, E. 2006. Základy zo štatistiky. Praktikum. Trenčín: Trenčianska univerzita
+Alexandra Dubčeka. 150 s. ISBN: 80-8075-156-0.
+Hungary National Minimum Wage – NMW. Hungary Rises the National Minimum Wage.
+2024. [online]. [cit. 2024-05-03]. Dostupné na: https://countryeconomy.com/nationalminimum-wage/hungary
+CHRISTL, M., KÖPPL-TURYNA, M., KUCSERA, D. 2019. Employment Effects
+of Minimum Wages. In: ifo DICE Report [online]. Vol. 16, iss. 4 [cit. 2024-04-08]. p. 18.
+
+ISSN
+
+2511-7823.
+
+Dostupné
+
+na:
+
+https://www.econstor.eu/bitstream/10419/199040/1/dice-report-2018-450000000004800.pdf
+International Labour Organization. 2015. What Is a Minimum Wage – A Short History.
+[online]. [cit. 2024-03-08]. Dostupné na: https://www.ilo.org/resource/13-short-history
+
+87
+
+KAČALKA, Ľ. 2024. Rast minimálnej mzdy ohrozuje najmä jednu skupinu pracovníkov.
+[online]. [cit. 2024-04-15]. Dostupné na: https://www.trend.sk/trend-archiv/rastminimalnej-mzdy-ohrozuje-najma-jednu-skupinu-pracovnikov
+KURUC, M. 2019. Koniec nízkym mzdám! [online]. [cit. 2024-04-13]. Dostupné na:
+https://www.pracujucachudoba.sk/storage/app/media/na_stiahnutie/Koniecn%C3%ADzkym-mzd%C3%A1m-2019.pdf
+MAJCHROWSKA, A. 2022. Does the Minimum Wage Affect Inflation? In: Ekonomista
+[online].
+
+Iss.
+
+4
+
+[cit.
+
+2024-04-29].
+
+p.
+
+417-436.
+
+ISSN
+
+0013-3205.
+
+DOI:
+
+10.52335/ekon/156331. Dostupné na: https://ekonomista.pte.pl/Does-minimum-wageaffect-inflation-,156331,0,2.html
+MARTIN, D., TERMOS, A. 2015. Does a High Minimum Wage Spur Low-Skilled
+Emigration? In: Economics Letters [online]. Vol. 137 [cit. 2024-04-19]. p. 200-202. ISSN
+0165-1765.
+
+DOI:
+
+10.1016/j.econlet.2015.10.027.
+
+Dostupné
+
+na:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0165176515004292?via%3Dihu
+b
+Minimálna
+
+mzda.
+
+2024.
+
+[online].
+
+[cit.
+
+2024-03-08].
+
+Dostupné
+
+na:
+
+https://www.minimalnamzda.sk/
+MONRAS, J. 2019. Minimum Wages and Spatial Equilibrium: Theory and Evidence.
+In: Journal of Labor Economics [online]. Vol. 37, iss. 3 [cit. 2024-04-22]. p. 853-904.
+ISSN
+
+0734-306X.
+
+DOI:
+
+10.1086/702650.
+
+Dostupné
+
+na:
+
+https://www.journals.uchicago.edu/doi/10.1086/702650
+NEUMARK, D. 2018. Employment Effects of Minimum Wages. In: IZA World of Labor
+[online]. [cit. 2024-04-05]. ISSN: 2054-9571. DOI: 10.15185/izawol.6.v2. Dostupné na:
+https://wol.iza.org/articles/employment-effects-of-minimum-wages/long
+NEUMARK, D., WASCHER, W. 1995. The Effect of New Jersey's Minimum Wage Increase
+on Fast-Food Employment: A Re-Evaluation Using Payroll Records. In: NBER Working Paper
+Series [online]. No. 5224 [cit. 2024-04-10]. DOI 10.3386/w5224. Dostupné na:
+https://www.nber.org/system/files/working_papers/w5224/w5224.pdf
+NEUMARK, D., WASCHER, W. 2000. Minimum Wages and Employment: A Case Study
+of the Fast-Food Industry in New Jersey and Pennsylvania: Comment. In: American
+88
+
+Economic Review [online]. Vol. 90, iss. 5 [cit. 2024-04-12]. p. 1362-1396. ISSN 00028282.
+
+DOI:
+
+10.1257/aer.90.5.1362.
+
+Dostupné
+
+na:
+
+https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.90.5.1362
+Organisation for Economic Co-Operation and Development Statistics. 2024. Minimum
+Relative to Average Wages of Full-Time Workers: Table R2. Minimum Wage Relative
+to Mean and Median Earnings. [online]. [cit. 2024-05-12]. Dostupné na:
+https://stats.oecd.org/Index.aspx?QueryId=120152
+PAUR, D. 2016. Keď viac je niekedy menej. [online]. [cit. 2024-04-14]. Dostupné na:
+https://www.mfsr.sk/files/archiv/priloha-stranky/20284/59/Komentar_TW.pdf
+Poland National Minimum Wage – NMW. Poland Rises the National Minimum Wage.
+2024. [online]. [cit. 2024-05-03]. Dostupné na: https://countryeconomy.com/nationalminimum-wage/poland
+QI, P., WANG, Z. F. 2022. Minimum Wage and Productivity Growth: Evidence
+from the Chinese Manufacturing Sector. In: Singapore Economic Review [online]. [cit.
+2024-04-28]. ISSN 0217-5908. DOI: 10.1142/S0217590822500503. Dostupné na:
+https://www.worldscientific.com/doi/10.1142/S0217590822500503
+RILEY, R., BONDIBENE, CH. R. 2017. Raising the Standard: Minimum Wages
+and Firm Productivity. In: Labour Economics [online]. Vol. 44 [cit. 2024-04-24]. p. 2750.
+
+ISSN
+
+0927-5371.
+
+DOI:
+
+10.1016/j.labeco.2016.11.010.
+
+Dostupné
+
+na:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0927537116303487?via%3Dihu
+b
+RÓZSA, Z., KOIŠOVÁ E., MASÁROVÁ, T. 2024. Organizačná smernica. [online].
+Trenčín:
+
+Trenčianska
+
+univerzita
+
+Alexandra
+
+Dubčeka.
+
+27
+
+s.
+
+Dostupné
+
+na:
+
+https://fsev.tnuni.sk/fileadmin/studenti/zaverecne_prace/3-FSEV001_Smernica_zaverecne_prace_BP_DP_rev10.pdf
+SABIA, J. J. 2015. Minimum Wages and Gross Domestic Product. In: Contemporary
+Economic Policy [online]. Vol. 33, iss. 4 [cit. 2024-04-30]. p. 587-605. ISSN 1074-3529.
+DOI:
+
+10.1111/coep.12099.
+
+Dostupné
+
+https://onlinelibrary.wiley.com/doi/10.1111/coep.12099
+
+89
+
+na:
+
+Slovakia National Minimum Wage – NMW. The Minimum Wage Goes Up in Slovakia.
+2024. [online]. [cit. 2024-05-03]. Dostupné na: https://countryeconomy.com/nationalminimum-wage/slovakia
+Sociálna poisťovňa. 2024. Tabuľky platenia poistného od 1. januára 2024. [online]. [cit.
+2024-06-10].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/tesem010/default/table?lang=en
+Statistical Office of the European Communities. 2024. Employment Rate by Sex.
+[online].
+
+[cit.
+
+2024-05-15].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/tesem010/default/table?lang=en
+Statistical Office of the European Communities. 2024. HICP - All Items. [online]. [cit.
+2024-05-05].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/teicp000/default/table?lang=en
+Statistical Office of the European Communities. 2024. HICP - Inflation Rate. [online].
+[cit.
+
+2024-05-25].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/tec00118/default/table?lang=en
+Statistical Office of the European Communities. 2024. HICP - Monthly Data (Index).
+[online].
+
+[cit.
+
+2024-05-05].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_MIDX__custom_5411278/d
+efault/table
+Statistical Office of the European Communities. 2024. Labour Productivity per Person
+Employed and Hour Worked (EU27_2020=100). [online]. [cit. 2024-05-17]. Dostupné
+na: https://ec.europa.eu/eurostat/databrowser/view/tesem160/default/table?lang=en
+Statistical Office of the European Communities. 2024. Monthly Minimum Wages - BiAnnual
+
+Data.
+
+[online].
+
+[cit.
+
+2024-05-03].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table?lang=en
+Statistical Office of the European Communities. 2024. Total Unemployment Rate.
+[online].
+
+[cit.
+
+2024-05-27].
+
+Dostupné
+
+na:
+
+https://ec.europa.eu/eurostat/databrowser/view/tps00203/default/table
+Stupne
+
+náročnosti
+
+práce.
+
+2024.
+
+[online].
+
+https://www.minimalnamzda.sk/narocnosti.php
+90
+
+[cit.
+
+2024-03-08].
+
+Dostupné
+
+na:
+
+Štatistický úrad SR. 2024. Priemerná mesačná mzda v hospodárstve SR vo 4. štvrťroku
+2023.
+
+[online].
+
+[cit.
+
+2024-03-06].
+
+Dostupné
+
+na:
+
+https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_deta
+il/2d762708-6430-471f-80fef8b30183363a/!ut/p/z1/tVJLU8IwGPwtHnpM87UpTfQWGOQhMAoikIvTQkpr6YM2t
+uKvN3W8MCMPD-aSZGZ3v91ssMBLLFKviraeirLU2n7SrivT3TA2m2LA7RHBAbDh9mk37m3e_MWXhwD2GTahcEzfxNh44FTguL8_wXLLBYpypXIV5lfumFqIxRlAbIi5UBpAViXZTpRKVeeFVBwOqUqpY7_aGujYFhlyHAHKoFSAGgUQB8wlYjBCXeI18vo
+42eHUVenEpbxMHTiwOmi--IZ0e7zt0BMBGvRYMeH8vX0iBDj5AZzRWGkP9KQHiJFFckaz9PmZXZ49seIfcDDS63o2qO3_V5w3U2WKvmh8PI_ytFz7GLcGW91AkFjXSGl1dRdYbIT8x6nZhgUkaBUMoc27l1W4Q0wjz1CdPChQxkIQvzvdDfOVQqL8MMKCua3ObZdudNMvYgN8YYVbq3EdAnCfzhJEDioNxlzjCP5DPkVzwmybIpYG/dz/d5/L2dBISEvZ0FBIS9nQSEh/
+Štatistický úrad SR. 2024. Zamestnanosť v 1. štvrťroku 2024. [online]. [cit. 2024-06-05].
+Dostupné
+
+na:
+
+https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_deta
+il/8159c395-457a-4b55-8989d38a2ff2e6bd/!ut/p/z1/rZPNkqIwFIWfxmXIhRATZgd0CfjXgmWrbKZAQBkFbMho_YTptzI2LZdNdlAinNuOLnfxSFe4bCMTvk2EnlVRge5X4f9nz7zuGWpJoA1JuANR_
+Opaw80Z0HxsiOYjGzwiOf6lhmoYFIcys_wyTKh6-fTFws8NmY9yzyaml__W_j2bU8G1HwZ1bAqTWAmcuu_geCG7_Dhi_QN6fBwhwE_tBSu_5_Be
+Hj_G84xOGmFEexwsqbqIdavYoLzMU7UUP5EtVF_I2T2WKmmMdnS49ODWp2MsnV6mxIQZFOmUR0
+mNKETe4gRLCIy3LtLQfJ2354yZP8Pop9fKrfn3Rjnmzx0Mc5nGhnDeFAgrjDAhjXNd
+0o08JaYnIf72_h6aMXZUi_RB49c3cKSSZpiUJkmlUpMsNijOSoCTWwTBUDVIK7Tl
+aPbEnW5k_Eru2dIVXz1rNMiZcWus0S-u0Vn7XkuWdEMfmRw96cD6flW1VbQp0ux7dx27qpHJboTydsMOD7e4e_pVYDumq7MxAB87FDzTXQSGTwiY5Cp40ILOE
+a-uA3IihnM94EwDQ-sK7ozMQgJw2tJCfuUElVO1SlPz3hRtj084Pk3IXShZegxh_8Bo6f5T5GT1mPxUKugpMLcpZc0PhCIPfyWWHHfCLo-g3KC5d/dz/d5/L2dBISEvZ0FBIS9nQSEh/
+91
+
+TKÁČOVÁ, A., GAVUROVA, B., MELASOVÁ, K., SNOPKO, P. 2022. Unemployment
+in the Context of Minimum Wage
+
+Concept in Slovakia. In: Entrepreneurship
+
+and Sustainability Issues [online]. Vol. 10, iss. 1 [cit. 2024-05-01]. p. 395-407. ISSN
+2345-0282.
+
+DOI:
+
+10.9770/jesi.2022.10.1(21).
+
+Dostupné
+
+na:
+
+https://jssidoi.org/jesi/article/1002
+TRENOVSKI, B., KOZHESKI, K., TASHEVSKA, B., PEOBSKI, F. 2021.
+The Minimum Wage Impact on Labour Productivity: the Case of Selected SEE Countries.
+In: Management Research and Practice [online]. Vol. 13, iss. 3 [cit. 2024-04-26]. p. 3242.
+
+ISSN
+
+2067-2462.
+
+Dostupné
+
+na:
+
+https://www.ceeol.com/search/article-
+
+detail?id=976292
+Všeobecná zdravotná poisťovňa. 2024. Zmena sadzby poistného a výšky preddavkov
+od
+
+01.01.2024
+
+do
+
+31.12.2027.
+
+[online].
+
+[cit.
+
+2024-06-10].
+
+Dostupné
+
+na:
+
+https://www.vszp.sk/platitelia/platenie-poistneho/oznamenia-zmeny/zmeny-od-0101.2024/
+ZAVODNY, M. 2000. The Effect of the Minimum Wage on Employment and Hours.
+In: Labour Economics [online]. Vol. 7, iss. 6 [cit. 2024-04-06]. p. 729-750. ISSN 09275371.
+
+DOI:
+
+10.1016/S0927-5371(00)00021-X.
+
+Dostupné
+
+na:
+
+https://www.sciencedirect.com/science/article/abs/pii/S092753710000021X?via%3Dihu
+b
+.Zákon č. 311/2001 Z. z. Zákonník práce. 2001. [online]. [cit. 2024-01-03]. Dostupné na:
+https://www.slov-lex.sk/pravnepredpisy/SK/ZZ/2001/311/vyhlasene_znenie.html#predpis.cast-stvrta
+
+92
+
+

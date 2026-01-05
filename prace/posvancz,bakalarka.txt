@@ -1,0 +1,2852 @@
+Slovenská zdravotnícka univerzita v Bratislave
+FAKULTA OŠETROVATEĽSTVA A ZDRAVOTNÍCKYCH
+ODBORNÝCH ŠTÚDIÍ
+
+DIAGNOSTICKÉ A TERAPEUTICKÉ METÓDY PRI
+OCHORENIACH ÚSTNEJ DUTINY A PAŽERÁKA
+Bakalárska práca
+
+Študijný program: Rádiologická technika
+Študijný odbor: Zdravotnícke vedy
+Vedúci záverečnej práce: PhDr. Bc. Klára Gebeová, PhD.
+
+Bratislava 2022
+
+Patrik Posvancz
+
+ABSTRAKT
+
+POSVANCZ, Patrik. Diagnostické a terapeutické metódy pri ochoreniach ústnej dutiny
+a pažeráka [Bakalárska práca]. Slovenská zdravotnícka univerzita v Bratislave. Fakulta
+ošetrovateľstva a zdravotníckych odborných štúdií. Vedúci záverečnej práce: PhDr. Bc.
+Klára Gebeová, PhD. Stupeň odbornej kvalifikácie: Bakalár. Bratislava: FOaZOŠ SZU,
+2022. Počet strán: 72
+
+Kľúčové slová: nádorové ochorenia, diagnostika, rádioterapia
+
+ABSTRACT
+
+POSVANCZ, Patrik. Diagnostic and therapeutic methods in diseases of the oral cavity
+and esophagus [Bachelor thesis]. Slovak Medical University in Bratislava, Faculty of
+Nursing and Professional Health Studies. Supervisor: PhDr. Bc. Klára Gebeová, PhD.
+Qualification level: Bachelor. Bratislava: FOaZOŠ SZU, 2022. Number of pages: 72
+
+Key words: cancers, diagnostics, radiotherapy
+
+ZOZNAM SKRATIEK
+AP
+
+Predozadná projekcia
+
+CBCT
+
+Cone beam CT
+
+CECT
+
+CT s kontrastom
+
+CT
+
+Počítačová tomografia
+
+DM
+
+Diabetes mellitus
+
+HPV
+
+Ľudský papilomavírus
+
+CHT
+
+Chemoterapia
+
+IMRT
+
+Intenzitou modulovaná rádioterapia
+
+KL
+
+Kontrastná látka
+
+MRI
+
+Magnetická rezonancia
+
+M0
+
+Bez vzdialených metastáz
+
+NCECT
+
+CT bez kontrastu
+
+N0
+
+Regionálne lymfatické uzliny bez metastáz
+
+N1
+
+Metastáza v 1-2 regionálnych lymfatických uzlín
+
+N2
+
+Metastáza v 3-6 regionálnych lymfatických uzlín
+
+N3
+
+Metastáza v 7 a viac regionálnych lymfatických uzlín
+
+PAD
+
+Peroralné antidiabetiká
+
+PET/CT
+
+Pozitrónová emisná tomografia
+
+RO
+
+Úplná resekcia
+
+T1a
+
+Nádor postihuje lamina propria mucosae
+
+T1b
+
+Nádor postihuje submukózu
+
+T2
+
+Nádor postihuje muscularis propria
+
+T3
+
+Nádor postihuje adventicii
+
+T4
+
+Nádor postihuje okolité štruktúry
+
+Tis
+
+Carcinoma in situ
+
+USG
+
+Ultrasonografia
+
+VMAT
+
+Objemovo modulovaná rádioterapia kyvom
+
+ZOZNAM OBRÁZKOV A TABULIEK
+
+Obr. 1
+
+Anatómia zuba
+
+Obr. 2
+
+Intraorálna záhryzová snímka
+
+Obr. 3
+
+Intraorálna periapikalná snímka
+
+Obr. 4
+
+OPG snímka
+
+Obr. 5
+
+OPG prístroj
+
+Obr. 6
+
+CT koronálna rovina
+
+Obr. 7
+
+Ukážka rezov prevedených pomocou CBCT
+
+Obr. 8
+
+CT obraz na ktorom sú artefakty pochádzajúce z kovových zubných
+
+výplní
+Obr. 9
+
+NCECT v axiálnej a koronálnej rovine, demonštruje planocelurálny
+
+karcinóm ľavej príušnej žľazy
+Obr. 10
+
+Zápal mandlí, CECT obraz
+
+Obr. 11
+
+CT esophagographia, iatrogénna perforácia pažeráka s esophagealno-
+
+pleurálnou fistulou
+Obr. 12
+
+Koronálny T1 spin-echo MRI obraz, ukazuje dobre ohraničený nádor
+
+v príušnej žľaze.
+Obr. 13
+
+V ľavej príušnej žľaze bola na koronálnej T1 spin-echo (pred
+
+kontrastom) pozorovaná nádorová masa
+Obr. 14
+
+Planocelulárny karcinóm v ľavej príušnej žlaze
+
+Obr. 15
+
+MRI hlavy a krku, T1 a T2 vážené obrazy
+
+Obr. 16
+
+MRI obraz - esophagealná achalázia
+
+Obr. 17
+žľaza
+
+A) Normálna príušná slinná žľaza a B) normálna podsánková slinná
+
+Obr. 18
+
+Obrázok zobrazujúci 2 kamienky v príušnej slinnej žľaze
+
+Obr. 19
+
+Obraz pomocou endoskopu – Barrettov pažerák
+
+Obr. 20
+
+Dynamická scintigrafia slinných žliaz- normálny nález, šípka označuje
+
+prvý obrázok po podaní salivačného podnetu, vpravo akumulačná krivka
+Obr. 21
+
+Sjögrenov syndróm
+
+Obr. 22
+
+Pasáž esophagom.
+
+Obr. 23
+
+PET/CT pažeráka
+
+Obr. 24
+
+Nevaskularné intervencie esophagu
+
+Obr. 25
+
+Skiaskopický obraz ezofagografie, po aplikácii stentu
+
+Obr. 26
+
+Skiaskopia s balónkovou dilatáciou stenózy
+
+Obr. 27
+
+Ožarovanie pažeráka, technikou VMAT, izodózový plán
+
+Obr. 28
+
+Spinocelulárny karcinóm spodiny dutiny ústnej, izodózový plán
+
+Obr. 29
+
+Nádor orofaryngu, izodózový plán
+
+Obr. 30
+
+Nádor laryngu, izodózový plán, IMRT technika
+
+Tab. 1
+
+Vyšetrenia pri ochoreniach slinných žliaz
+
+OBSAH
+
+ZOZNAM SKRATIEK
+ZOZNAM OBRÁZKOV A TABULIEK
+ÚVOD ..............................................................................................................................9
+1 Anatómia, fyziológia ústnej dutiny a pažeráka .......................................................10
+2 Choroby a ochorenia ústnej dutiny a pažeráka .....................................................13
+2.1 Ochorenia zubov .......................................................................................................13
+2.2 Cysty v dutine ústnej ................................................................................................14
+2.3 Benígne nádory v dutine ústnej .................................................................................16
+2.4 Malígne nádory .........................................................................................................18
+2.5 Ochorenia jazyka ......................................................................................................20
+2.6 Ochorenia slinných žliaz ...........................................................................................21
+2.7 Ochorenia mandlí .....................................................................................................23
+2.8 Ochorenia hlasiviek ..................................................................................................24
+2.9 Ochorenia pažeráka ..................................................................................................24
+3 Zobrazovacie diagnostické metódy .........................................................................31
+3.1 Rádiodiagnostika v stomatológii..............................................................................31
+3.2 Počítačová tomografia – CT ....................................................................................34
+3.3 Magnetická rezonancia – MRI ................................................................................41
+3.4 Ultrasonografické vyšetrenie ...................................................................................44
+3.5 Endoskopické vyšetrenie .........................................................................................46
+3.6 Nukleárna medicína .................................................................................................47
+4 Intervenčné a terapeutické metódy .........................................................................54
+4.1 Nevaskulárne intervencie v oblasti pažeráka ...........................................................54
+4.2 Rádioterapia karcinómu pažeráka ...........................................................................57
+4.3 Rádioterapia slinných žliaz ......................................................................................61
+
+4.4 Rádioterapia orofaryngu ...........................................................................................62
+4.5 Rádioterapia hypofaryngu ........................................................................................65
+4.6 Rádioterapia laryngu .................................................................................................64
+Záver...............................................................................................................................67
+Zoznam použitej literatúry...........................................................................................69
+Internetové zdroje.........................................................................................................72
+
+ÚVOD
+Choroba je porucha zdravia, telesných, kognitívnych, sociálnych alebo psychických
+funkcií, ktoré negatívne ovplyvňujú výkonnosť a zdravie organizmu. Poznáme veľmi
+veľa druhov ochorení napríklad nádorové, zápalové, dedičné, infekčné. Pri niektorých
+ochoreniach nie sú známe príčiny , iba rizikové faktory. Každá choroba má svoje
+príznaky. Tieto príznaky sa prejavujú u každého človeka v inej miere a často zasiahnu
+nielen fyzickú ale aj psychickú stránku človeka. Prijatie ťažkej choroby či už rodinou
+alebo samotným pacientom si vyžaduje obrovskú silu, preto je dôležité správať sa
+k pacientovi ohľaduplne. Veľa ľudí momentálne trpí nejakou chorobou, na ktorú možno
+neexistuje liek, preto pokrok zdravotníctva je nevyhnutný. Zdravotníctvo sa počas
+rokov vyvinulo už tak, že dnešné moderné prístroje na liečenie poskytujú špičkovú
+starostlivosť. Vďaka nim liečba prebieha oveľa rýchlejšie a efektívnejšie.
+História röntgenu sa začala v 19. storočí, kedy nemecký fyzik Wilhelm Conrad
+Röentgen pri skúmaní vlastností katódových lúčov objavil nový typ žiarenia, ktoré
+nazval röntgenové lúče. Predpokladám, že väčšina ľudí už podstúpila röntgenové
+vyšetrenie, či už z dôvodu zlomenej končatiny, panvy alebo kvôli iným zdravotným
+ťažkostiam. Röntgenové vyšetrenie spolu s rádioterapiou a nukleárnou medicínou sú
+neoddeliteľnou súčasťou medicíny. Skoro každý chirurgický zákrok potrebuje
+diagnostické informácie, ktoré sa nachádzajú na röntgenovom snímku. Moderné
+prístroje vyvinuté v 21. storočí zaručili kvalitnejší röntgenový snímok, ktorý sa bude
+čoraz viac zdokonaľovať.
+V mojej bakalárskej práci som sa zameral na diagnostické a terapeutické metódy pri
+ochoreniach ústnej dutiny a pažeráka. Na úvod som predstavil najčastejšie ochorenia
+v oblasti ústnej dutiny a pažeráka. Ďalej som sa zaoberal zobrazovacími metódami
+s ktorými sa dajú diagnostikovať tieto ochorenia. V súčasnosti sa na diagnostiku
+ochorení najčastejšie používajú klasický röntgen, CT, MRI a ultrasonograf. Avšak
+netreba zabudnúť ani na nukleárnu medicínu, ktorá sa využíva najmä na diagnostiku
+nádorových ochorení. V záverečnej časti mojej práce som sa venoval terapeutickým
+a intervenčným metódam, hlavne na liečbu nádorových ochorení.
+Cieľom mojej práce bolo poukázať na rôzne ochorenia ústnej dutiny a pažeráka,
+a zistiť, aké diagnostické a liečebné metódy sú využívané pri týchto ochoreniach.
+9
+
+1 ANATÓMIA, FYZIOLÓGIA ÚSTNEJ DUTINY A PAŽERÁKA
+Ústna dutina
+Ústna dutina je tvorená dvoma priestormi – ústnou predsieňou a vlastnou ústnou dutinou.
+1. Ústna predsieň
+Ústna predsieň je tvorená hornou a dolnou perou, lícami, hornou a dolnou predsieňovou
+klenbou a horným a dolným zuboradím. Nachádzajú sa tu slizničné riasy, napnuté od pier
+po zubný výbežok čeľuste a sánky.
+2.Vlastná ústna dutina
+Ústnu dutinu tvoria líca zuby, jazyk, tvrdé a mäkké podnebie.
+Zuby
+Máme dva druhy zubov:
+-Mliečne zuby 20 zubov.
+-Trvalé zuby 32 zubov.
+
+Anatómia zuba na rtg snímke:
+S- sklovina
+D- dentín
+P- pulpa
+LD- lamina dura
+Pš- parodontálna štrbina
+
+Obr. 1
+Jazyk
+Jazyk(lingua) je svalový orgán pokrytý sliznicov. Nachádza sa na spodine úst. Má rôzne
+úlohy v dutine ústnej:
+
+10
+
+Jazyk sa skladá:
+•
+
+koreň (radix linguae)
+
+•
+
+telo (corpus linguae)
+
+•
+
+hrot (apex linguae)
+
+•
+
+chrbát (dorsum linguae)
+
+Svaly jazyka sú z priečne pruhovanej svaloviny, poznáme dva druhy:
+a) mimojazykové (extraglosealné) – hýbu celím jazykom
+b )vnútrojazykové (intraglosealné) – menia tvar jazyka
+Slinné žlazy
+Produkujú sekret (slinu a salicu), delíme na malé a veľké.
+a)malé- perné žľazy, lícne žľazy, stoličkové žľazy, podnebné žľazy, jazykové žľazy,
+ďasnové žľazy a rezákové žľazy.
+b)veľké-máme ich tri sú párové: príušné, podsánkové, podjazykové
+Mandle
+Mandle sú párové orgány, patria do lymfatického systému. Mandle sú súčasťou
+imunitného systému človeka. Sú prvým miestom, kde sa zachytávajú antigény, ktoré
+prichádzajú ústnou a nosovou dutinou, často sú preto prvým orgánom v organizme, kde
+dochádza k replikácii vírusu či pomnožení baktérie.
+Hlasivky
+Hlasivky sú párové orgány, ktorý umožňujú vznik hlasu a sú uložene v hrtane. Skladá sa
+z hlasivkového svalu, hlasového väzu a sliznice. Úlohou hlasiviek je tvorba hlasu.
+Tón vzniká v hrtane rozkmitaním hlasiviek prúdom vzduchu z pľúc, zosilňuje sa
+sústavou rezonančných dutín v hrudníku a hlave. Tón hlasu záleží na rezonančnej
+frekvencii kmitajúcich hlasiviek. U dospelého muža sa táto frekvencia pohybuje okolo
+125 Hz, u dospelých žien okolo 210 Hz, u detí cez 300 Hz.
+Pažerák
+Je trubicový orgán spájajúci hltan a žalúdok, nachádza sa za priedušnicou, jeho horný
+koniec je napojený na hltan. Väčšia časť pokračuje ďalej v hrudníku medzi oboma
+11
+
+pľúcami, a najkratší úsek sa nachádza v dutine brušnej pod bránicou. Dĺžka je 25-28cm,
+priemer 1,5cm. Horné dve tretiny pažeráka majú priečne pruhované svalstvo, dolná
+tretina má hladké svalstvo.
+Sliznica pažeráka obsahuje exokrinné žliazky, tie zvlhčujú potravu. Hlt sa posúva cez
+pažerák, pomocou peristaltického pohybu, čo je rytmické sťahovanie stien, vytvárajúce
+vlnu posúvajúcu sústo smerom k žalúdku.
+
+12
+
+2 CHOROBY A OCHORENIA ÚSTNEJ DUTINY A PAŽERÁKA
+• 2.1 Ochorenia zubov
+1.Zubný kaz- caries dentis
+2.hyperémia- zvýšené prekrvenie zubnej drene – hyperémia pulpae dentis
+3.zápal zubnej drene – pulpitis dentis
+4.odumretie zubnej drene – necrosa pulpae dentis
+5.infikovaná odumretá zubná dreň- gangrena pulpae dentis
+6.zápal ozubnice – periodontitis dentis
+1. Zubný kaz
+Príčiny zubného kazu:
+a) baktérie - najmä streptokoky a laktobacili, ktoré sú schopné rozkladať cukry pričom
+vznikajú kyseliny a Ph klesá. Normálne PH v dutine ústnej je 5,5. Tieto kyseliny
+spôsobujú odvápnenie skloviny a to sa nazýva- demineralizácia.
+b) cukry- nachádzajú sa v potravinách(ovocný ,mliečny, hroznový) alebo cukor, ktorý
+neobsahuje žiadne stavebné látky(bielkoviny, minerály, vitamíny). Práve tieto cukry
+dokážu baktérie skvasovať na kyseline.
+c) zuby - majú tzv. predilekčné miesta, kde najčastejšie vzniká zubný kaz (napr. richy,
+aproximalné miesta - bočné, gingivalné miesta).
+d) čas – aby došlo k odvápneniu skloviny musia kyseliny, ktoré vznikajú pri skvasovaní
+cukrov baktériami spôsobiť na sklovinu určitý čas.
+Zvýšené prekrvenie zubnej drene vzniká pôsobením termických a chemických vplyvov,
+ktoré spôsobujú bolesť, ktorá po odstránení vplyvov vymizne. Liečba: lekár odstráni
+kazivý dentín a potom ošetrí hyperémiu.
+Zápal zubnej drene je to zápalové ochorenie, ktoré môže postihovať korunku, kŕčok
+a koreň zuba.
+
+13
+
+Delíme na:
+a) seroznú – je charakteristická vznikom tekutiny v mieste dreňovej dutiny, ktorá tlačí na
+zapálenú zubnú dreň a tým spôsobuje bolesť. Bolesť je vystreľujúca zo zuba do okolitého
+priestoru, pri horných zuboch je to smer do nosa, do kĺbu, d oka a do ucha. U dolných
+zuboch bolesť vystreľuje do krku, do kĺbu a do ucha. Vystreľujúce bolesti majú interval
+kľudu, bolesti sa dajú ovplyvňovať analgetikami.
+b) purulentá - v dreňovej dutine pulpa a tekutina sa premieňa na hnis. Hnis tlačí na živú
+zubnú dreň. Prejavujú sa pulzujúcou bolesťou. Pulzujúca bolesť nemá interval kľudu,
+nedá sa ovplyvniť analgetikami.
+Odumretie zubnej drene nebolí, zub je mŕtvy. Odumretie zubnej drene nastáva po traume
+poškodením cievneho zásobenia alebo pôsobením chemických škodlivín.
+Infikovaná zubná dreň je bolestivé, môže spôsobiť infekciu iných zubov.
+Zubná dreň reaguje akútnym zápalom prejavujúcim sa silnou bolesťou na studené a teplé
+podnety, pulzujúcou bolesťou, spontánnou bolesťou.
+Vznik zápalu má dve možné príčiny:
+a) infekcia prichádza z gangrenozného zuba, spôsobuje zápal za apexom
+b) infekcia sa dostáva do periodontu cez gingivalný sulcus(vačok) a neskôr parodontalný
+Priebeh perodontitídy:
+a) akútny – prejavuje bolestivosťou, bolesť je intenzívna, lokalizovaná, zub bolí na poklep
+z hora, zub je mŕtvy, nereaguje na analgetiky. Pacient môže mať zvýšenú teplotu, môže
+byť opuchnutý. Na rtg. snímke môžeme vidieť rozšírenie periodontálnej štrbiny.
+b) chronický- prebieha pomaly, zub je citlivý na poklep, zub je mŕtvy, bolesť je
+znesiteľná, môže prechádzať do zápalu kostného tkaniva.
+
+• 2.2 Cysty v dutine ústnej
+Cysty sú patologické útvary, ktoré sú ohraničené a majú výplň, ktorý môže byť:
+•
+
+tekutý
+
+•
+
+kašovitý
+
+•
+
+plynový
+14
+
+•
+
+tuhý
+
+Cysty v orofaciálnej oblasti:
+•
+
+kostné cysty – radikulárne cysty , folikulárne cysty, parodontálne cysty
+
+•
+
+cysty mäkkých tkanív – ranuly, retenčné, traumatické, mukokély
+
+Radikulárne cysty – nachádzajú sa za koreňom mŕtvych zubov, vznikajú zo zápalového
+periapikalného ložiska. Cysta je jedným z prejavom periapikalných nálezov. Cysta môže
+byť za jedným alebo za viacerými zubami, vždy je opúzdrená epitelov
+Folykulárne cysty – sú to zárodočné cysty, ktoré sa vytvárajú najčastejšie počas vývoja
+trvalého hrupu a ich obsahom môže byť: korunka trvalého zuba a celý trvalý zub.
+Najčastejšie sa vytvorí okolo celého zuba ak je nesprávne uložení v kosti.
+Parodontálne cysty – vznikajú množením epitelu, nesúvisia s vitalitou alebo devitalitou
+zuba.
+Delíme ich na:
+a) ranuly – vznikajú po zápaloch, sú v podjazykovej oblasti, obsahom cysty nebýva iba
+slina ale aj zápaloví sekrét.
+b) retenčné cysty – vznikajú uzatvorením vývodov slinnej žľazy a vznikom zápalovej
+tekutiny. Vývod slinnej žľazy môže byť upchatý: kamienkom, cudzím telesom,
+zmnožením epitelu.
+Mukokély
+Malé cysty, ktoré sa nachádzajú na perných slinných žľazách, má pologuľovitý tvar a je
+priesvitná. Obsahuje len slinný sekrét.
+Cysta ductus nasopalatini
+Nachádza sa v stredovej čiare processus alveolaris maxilae nad hrotmi koreňov veľkých
+zubov – rezákov. Cysta je presne ohraničené, okrúhle, oválne alebo hruškovité. Ak je
+cysta veľká roztláča korene zubov.
+
+15
+
+Fisúrové cysty
+Delíme ich na:
+•
+
+mediálna fisúrová cysta- vzniká z epiteli z čias vývinu čeľuste. Oválny útvarktorí
+sa nachádza medzi veľkými rezákmi. Táto cysta sa odlíši od cysty ductus
+nasopalatini tým, že fisúrové cysty roztláčajú samotné zuby a nie korene zubov,
+
+•
+
+laterálna fisúrová cysta- nachádza sa medzi laterálnou časťou processus medialis
+nasalis a processus maxillaris. Na RTG snímku sa prejavuje ako prejasnenie
+medzi bočným rezákom a očným zubom. Cysta môže zuby roztláčať.
+
+Traumatické cysty
+Patria medzi nepravé cysty, ktoré vznikajú po traume. Na rtg. snímke sa javia ako okrúhle,
+oválne alebo nepravidelné prejasnenia, ktoré nie sú ohraničené.
+
+• 2.3 Benígne nádory v dutine ústnej
+Enostóza
+Je ohraničený útvar ktorý vyrastá z vnútornej kortikálnej plochy kosti. Vyskytuje sa
+v oblasti premolárov a molárov v sánke.
+Osteóm
+Skladá sa z kostného tkaniva. Na rtg. snímke môžeme rozlíšiť dva rôzne typy:
+•
+
+osteoma eburneum – javí sa ako sýty tieň rozličnej veľkosti a tvaru. Vyskytuje sa
+v maxille v oblasti molárov a premolárov, alebo v mandibule pri jej dolnom
+okraji,
+
+•
+
+osteoma spongiosum – vyskytuje sa v mandibule, javí sa ako ohraničený tieň.
+
+Osifikujúci fibróm
+Na rtg. snímke sa javí ako cystické, ohraničené prejasnenie. V centre prejasnenia bývajú
+viditeľné tiene spôsobené kalcifikáciou alebo novovytvorenou kosťou. Fibróm môže
+odtláčať okolité štruktúry.
+Veľko-bunkový nádor (osteoklastóm)
+Je najčastejší benígny kostný nádor. Delíme ich na 2 typy: periférny osteoklastóm
+(vyrastá z periostu alveolarného výbežku) a centrálny osteoklastóm (patologické ložisko
+16
+
+je tvorené fibróznym väzivom). Na rtg. snímke sa javí ako osteolytické ložisko, ktoré
+môže rozrušovať kortikálnu vrstvu.
+Neurofibróm
+Na rtg. sa javí ako podlhovasté a dobre ohraničené prejasnenie, nachádza sa v oblasti
+canalis mandibulae. Ak je uložený pod apexmi zubov tak sa nachádza v oblasti
+premolárov a molárov. V tomto prípade je prejasnenie oválne, môže sa podobať na
+radikálnu cystu.
+Myxóm
+Materským tkanivom nádora je hlienovitý mezenchým. Na RTG sa javí ako cystické
+prejasnenie, ktoré je ohraničené. Diagnózu sa dá stanoviť iba histopatologickým
+vyšetrením.
+Cementóm
+Podľa rastu môžeme pozorovať pri cementóme 3 štádia:
+1) na rtg. snímke je viditeľné prejasnenie v periapikálnej oblasti (osteolýza). Prejasnenie
+v oblasti apexu vitalného zuba je znakom pre cementóm.
+2) prejasnenie sa zatieňuje (tvorba cementu). Po niekoľkých rokoch sa prejasnenie zmení
+na tieň.
+3) cementóm sa javí ako presne ohraničený tieň v oblasti apexu zuba, od kosti je oddelený
+úzkou líniou (väzivová štrbina, ktorá oddeľuje cementóm od kosti).
+Odontóm
+Má niekoľko typov:
+1) zdvojený odontóm- Je spojenie dvoch alebo niekoľkých diferencovaných zubov, zuby
+sú často malformované.
+2) zložený odontóm – je zložený z dvoch alebo viacerých rudimentárnych zubov. Na rtg.
+je viditeľný tieň, ktorý je oddelený od okolia tmavou líniou.
+3) komplexný odontóm – skladá sa z nepravidelnej masy skloviny, cementu a kompaktnej
+kosti. Nemá také ostré ohraničenia od okolia, zriedkavo sa vyskytujú aj mnohopočetné
+odontómy.
+17
+
+4) cystický odontóm – je ohraničený fibróznou kapsulou, vo vnútri je tekutina. Na rtg.
+snímke sa javí ako cysta, je ohraničený a vo vnútri sú tiene útvarov rôzneho tvaru.
+Ameloblastóm
+Vzniká z buniek sklovinovéhu orgánu, ale nenachádzajú sa v ňom tvrdé tkanivá ako v
+sklovine a dentíne. Rastie pomaly, ale často recidivuje a môže sa zmeniť na malígny
+nádor. Na rtg.snímke rozlišujeme 2 typy:
+1) monocystický – menej častý typ, javí sa ako ohraničené prejasnenie s tenkou líniou
+kompaktnej kosti. Zuby nie sú odtlačené (na rozdiel od cysty), ale sú v tumoru.
+2) polycystický – na snímke sa javí ako cystické prejasnenie, tvar a veľkosť prejasnenia
+môže byť rôzny. Tento typ môže odtláčať zuby, resorbovať korene, deštruuje okolitú
+kosť. Kvôli deštrukcií kosti môže vznikať aj patologická zlomenina.
+
+• 2.4 Malígne nádory
+Charakteristickým znakom malígnych nádorov je, že sú menej ohraničené, invazívne
+a majú deštrukčný rast. Pri malígnych nádoroch vidíme na RTG snímku od obyčajných
+prejasnení spôsobených deštrukciou kosti, až po prejasnenie s novotvorbou kosti.
+Deštrukcie kosti môže byť rôzne veľká, zuby sa môžu uvoľniť z lôžka. Nádor môže byť
+rozsiahlejší ako viditeľné prejasnenie na snímku. S rtg. vyšetrením dokážeme, či ide
+o metastázu alebo primárny nádor, samozrejme konečnú diagnózu stanoví histológia.
+Karcinóm ústnej dutiny
+Najčastejšie postihuje jazyk a ústnu spodinu. V 90% prípadoch ide o skvamocelulárny
+karcinóm. Rizikové faktory sú nasledovné:
+•
+
+vek (priemer výskytu 60 rokov)
+
+•
+
+fajčenie
+
+•
+
+alkohol
+
+•
+
+nedostatočná ústna hygiena
+
+•
+
+dlhodobé dráždenie ústnej dutiny
+
+Príznaky:
+•
+
+opakované krvácanie
+
+•
+
+opuch alebo hrčka na perách, ďasnách alebo iných častiach v ústnej dutine
+18
+
+•
+
+bolesť, strata citlivosti
+
+•
+
+sťažená reč
+
+•
+
+ťažkosti pri prehĺtaní
+
+•
+
+zväčšené lymfatické uzliny na krku
+
+•
+
+sú viditeľné voľným okom
+
+Liečba:
+•
+•
+
+chirurgická
+rádioterapeutická
+
+Nádory orofaryngu
+Orofarynx predstavuje bázu jazyka, tonzily, mäkké poschodie a zadnú stenu faryngu.
+Príznaky:
+•
+
+pocit cudzieho telesa v krku
+
+•
+
+bolesť ucha
+
+•
+
+chudnutie
+
+•
+
+zhoršená artikulácia
+
+Najčastejšie ide o skvamocelulárny karcinóm, menej často sarkómy, lymfómy,
+melanómy.
+Liečba:
+•
+
+chirurgická (vo včasných štádiách)
+
+•
+
+rádioterapia
+
+•
+
+chemoradioterapia (v pokročilých štádiách)
+
+Nádory hypofaryngu
+Hypofarynx sa tiahne od rozhrania s orofaryngom, ktoré je na úrovni epiglotis a
+prechádza do pažeráku.
+Príznaky:
+•
+
+bolesť v krku
+
+•
+
+bolesť v uchu
+
+•
+
+trvalý pocit zaneseného hrdla
+
+•
+
+dysfágia, odynofágia
+19
+
+Liečba:
+•
+
+chirurgická
+
+•
+
+rádioterapia
+
+•
+
+chemoterapii
+
+Nádory laryngu
+Pozostáva z dvoch hlasiviek. Rozlišujeme tri oblasti: supraglotickú (nad hlasivkami),
+glotickú (samotné hlasivky), subglotickú (medzi hlasivkami).
+Príznaky:
+•
+
+zmena hlasu
+
+•
+
+dysfágia
+
+•
+
+bolesť v krku, uchu
+
+•
+
+tumor na krku
+
+Najčastejšie ide o skvamocelularný karcinóm, menej často sarkómy a adenokarcinóm.
+Liečba:
+•
+
+chirurgická
+
+•
+
+rádioterapia
+
+•
+
+rádiochemoterapia
+
+• 2.5 Ochorenia jazyka
+Veľmi častou formou chorôb jazyka sú rôzne zápaly. Môže ísť o rôzne povrchové aj
+hlbšie zápaly, niektoré dokonca aj s vytváraním hnisajúcich ložísk. Medzi takého zápaly
+patria glositídy, ale aj abscesové zápaly jazyka alebo traumatické ulcerácie jazyka.
+Nádorové ochorenie jazyka
+Rizikové faktory:
+•
+
+fajčenie
+
+•
+
+alkohol
+
+•
+
+genetika
+20
+
+•
+
+nedostatočná ústna hygiena
+
+•
+
+zlá výživa a časté vracanie
+
+Rakovina jazyka sa delí na:
+1) nádory prednej časti jazyka-Tento typ rakoviny jazyka má tendenciu byť
+diagnostikovaný, keď je rakovina malá a ľahšie odstránená chirurgickým zákrokom.
+2) nádory koreňa jazyka- Rakovina koreňa jazyka je zvyčajne diagnostikovaná v
+pokročilom štádiu, keď je nádor väčší a rakovina sa rozšírila do lymfatických uzlín v
+krku.
+Príznaky:
+•
+
+pretrvávajúci bielý povlak na jazyku
+
+•
+
+vredy na jazyku
+
+•
+
+krvácanie z jazyka
+
+•
+
+bolesť v ústach a krku
+
+•
+
+zvetšenie uzlín
+
+•
+
+obmedzení pohyb jazyka
+
+•
+
+problémy s rozprávaním
+
+•
+
+zmena hlasu
+
+•
+
+zápach z úst
+
+Rakovina jazyka ako ostatné druhy rakoviny sa môžu metastazovať do orgánoch alebo
+do krčných uzlín.
+
+• 2.6 Ochorenia slinných žliaz
+Ochorenia slinných žliaz môžu byť nádorového alebo nenádorového charakteru. Medzi
+najčastejšie poruchy patria problémy so sekréciou zo slinných žliaz. (hypoptyalizmus,
+ptyalizmus, xerostómia a sialóza) Kedy dochádza buď k zníženému alebo naopak
+k zvýšenému slineniu.
+Ptyalizmus
+Zvýšené vylučovanie slín. Príčiny: neurologické príčiny, polievkové stavy, intoxikácia
+ťažkými kovmi alebo poruchy centrálnej nervove sústavy.
+Hypoptyalizmus
+21
+
+Nedostatočná produkcia slín. Príčiny: znížená funkcia tráviacej sústavy- zápaly v ústnej
+dutine, horúčkovité ochorenia.
+Xerostómia
+Nedostatočná produkcia slín. Môže byť spojená so zmenou zloženia slín. Môže byť aj
+samostatným funkčným ochorením Pri problémoch hornej tráviacej trubici.
+Sialóza
+Porucha sekrécie. Príčiny: cukrovka, alergia, užívanie liekov. Väčšinou sa prejavuje
+zdurením žliaz.
+Atrofia
+Nezápalové ochorenie slinných žliaz. Dochádza k zmenšeniu slinných žliaz a poruchám
+epitelu.
+Hypertrofia
+Nezápalové ochorenie slinných žliaz. Prichádza k jej zväčšeniu a bujneniu výstelky
+žľazy, čo je sprevádzané aj zdurením.
+Sialoadentída
+Zápalové ochorenie, ktoré môže mať akútny alebo chronický priebeh. Príčinou akútnych
+zápal sú vírusové a bakteriálne infekcie. Najčastejším akútnym zápalom je mumps
+(príušnice). Najčastejšie postihuje detí. Postihuje jednu z veľkých slinných žliaz. Pri
+chronických zápaloch príčinou môže byť fibroproduktívny, postaktinický a imunitný
+dôvod. Medzi chronické zápaly patrí parotitída (problém vývodu slinnej žľazy).
+Parotitída znižuje produkciu slín.
+Sialolitáza
+Zmenené zloženie slín, po zápaloch, alebo pri zmenách viskozity slín. Pri sialolitáze
+dochádza k stenóze s ukladaním anorganického materiálu. Postihuje podčeľustnú žľazu.
+Je to bolestivé ochorenie, bolesť sa zvyšuje pri zvýšení produkcie slín.
+Sjögrenov syndróm
+Je chronické autoimunitné ochorenie postihujúce prevažne ženy nad 40 rokov. Je
+charakterizovaná intenzívnou infiltráciou lymfocytov a plazmatických buniek a
+22
+
+deštrukciou slinných a slzných žliaz. Medzi hlavné klinické príznaky patrí sucho v ústach
+a očiach. Pokročilé štádiá Sjögrenovho syndrómu možno rozpoznať pri USG vyšetrení
+príušných a submandibulárnych žliaz, ochorenie môže postihnúť všetky slinné žľazy.
+Nádorové ochorenia slinných žliaz
+Pri nezhubných nádoroch obvykle nie je priebeh taký vážny, rastú väčšinou pomaly
+a nebolestivo. Patria sem: pleomorfný adenóm, Warthinov tumor, bazocelulárny adenóm,
+myoepitelióm, onkocytóm, kanalikulárny adenóm, sebaceózny adenóm a duktálny
+papilóm. Najčastejšie je z nich pleomorfný adenóm. Epitelový nádor, ktorý sa vyskytuje
+vo vyššom alebo strednom veku, rastie pomaly, vyskytuje sa na veľkých slinných
+žľazách. V niektorých prípadoch hrozí, že sa zmení na zhubný nádor. Zhubné nádory sú
+oveľa nebezpečnejší ako nezhubné, často metastázujú. Delia sa na epitelové
+a mezenchýmové, podľa toho odkiaľ nádor vyrastá a z čoho vzniká. Epitelové zhubné
+nádory slinných žliaz sú častejším ochorením ako mezenchýmové. Medzi nimi patria:
+acinocelulárny karcinóm, mukoepidermoidný karcinóm, adenoidne cystický karcinóm
+alebo karcinóm v pleomorfovom adenómu.
+Tab. 1 Vyšetrenia pri ochoreniach slinných žliaz.
+Scintigrafia
+
+MRI
+
+USG
+
+CT
+
+Funkcia
+
++++
+
+-
+
+-
+
+-
+
+Kameň
+
+-
+
++
+
+++
+
++
+
+Nádor
+
+-
+
++++
+
++
+
+++
+
+Infekcia
+
++
+
+++
+
++
+
+++
+
+Sjögren
+
++++
+
++
+
++
+
++
+
+• 2.7 Ochorenia mandlí
+Najčastejšími ochoreniami mandlí sú akútne a chronické zápaly. Medzi akútne patria
+streptokokový zápal mandlí, folikulárny, gangrenózny, infekčný a ulcerózny zápal
+mandlí. Na zápalovom podklade môže vzniknúť aj peritonzilárny absces, kedy sa
+vytvárajú hnisavé kapsy na mandliach a to veľmi akútne. Obvykle v dôsledku takéhoto
+abscesu je potrebné vykonať vybratie mandlí. Pomerne často sa vyskytujú na mandliach
+23
+
+rôzne cysty alebo nádory. Cysty na mandliach sa tvoria najčastejšie na povrchu
+a vychádzajú zo zápalového tkaniva, Taktiež môžu vzniknúť v dôsledku hyperplázie, čiže
+zväčšenia, lokálneho postihnutého tkaniva.
+Najčastejším typom je retenčná cysta mandlí, liečba spočíva v narezaní a vyprázdnení
+objemu cysty a neskôr v odstránení cysty lokálnym zákrokom. Mandle postihujú tiež
+rôzne nádory. Najčastejšie sa jedná o spinocelulárne karcinómy, čiže ide o nádory
+vznikajúce najčastejšie pri kontakte s karcinogénmi ako alkohol alebo tabak. Riešením sú
+chirurgické odstránenie a následné ožarovanie.
+
+• 2.8 Ochorenia hlasiviek
+Zápalové choroby
+Ide napríklad o akútny zápal hrtana a hlasiviek, ktorý môže mať viaceré formy a to
+edematóznu, subglotickú, hnisavú alebo ulceróznu. Najčastejšími zápalmi pôsobiacimi
+na hrtan a hlasivky sú laryngitídy, ktoré môžu byť:
+•
+
+akútne (epiglotitída, akútna subglotická laryngitída, akútna katatálna laryngitída)
+
+•
+
+chronické (atrofické a hypertrofické), podľa toho či dochádza k zmenšeniu alebo
+zväčšeniu postihnutých štruktúr
+
+•
+
+špecifické (tuberkulóza, syfilis hrtana)
+
+Bežné laryngitídy vznikajú najčastejšie na podklade mikrobiotickej vírusovej alebo
+bakteriálnej infekcii.
+Nádory hlasiviek
+Najčastejšie sa nádory hlasiviek vyskytujú u mužov vo veku nad 60 rokov, pričom je
+veľká súvislosť medzi vznikom rakovinových nádorov a nadmerným a dlhodobým
+požívaním alkoholických nápojov a fajčením.
+
+• 2.9 Ochorenia pažeráka
+Pálenie záhy
+Pálenie záhy je veľmi bolestivé, bolesť je v oblasti nadbruška a táto bolesť postupne
+preniká cez pažerák až hore smerom k hrudnej kosti. Súvisí s návratom žalúdočných štiav
+do oblasti pažeráka, kde tieto šťavy dráždia vnútornú výstelku a sliznicu pažeráka.
+Príčinou je porucha zvierača medzi pažerákom a žalúdkom, a poruchou normálnych
+24
+
+pohybov v tráviacej sústave. Medzi príčinami patrí aj dráždivé jedlo, lieky, nadváha,
+alkohol a fajčenie.
+
+Príznaky:
+•
+
+Pocit pálenia v oblasti nadbruška
+
+•
+
+Kyslosť v ústach a zápach v úst
+
+•
+
+Nadmerná tvorba plynov a plynatosť
+
+•
+
+bolesť nad bruchom, ktorý potom stúpa smerom za hrudnú kosť
+
+Reflux esophagitis
+Refluxná ezofagitída je považovaná za multifaktoriálny proces súvisiaci s frekvenciou a
+trvaním plynného troesofageálneho refluxu, objemom a silou refluxovaného materiálu a
+vnútornou odolnosťou pažerákovej sliznice. Gastroezofageálny reflux sa vyskytuje vtedy,
+keď je dolný pažerákový zvierač, hlavná bariéra refluxu, nekompetentný. Neschopný
+dolný pažerákový zvierač môže byť dôsledkom buď trvalého zníženia pokojového tlaku
+zvierača, alebo viacnásobných relaxácií zvierača. V oboch prípadoch závažnosť
+ezofagitídy nezávisí iba od frekvencie epizód refluxu, ale aj od ich trvania.
+Závažnosť refluxnej ezofagitídy závisí aj od účinnosti alebo kyslosti refluxovaného
+materiálu. Zvýšená prevalencia refluxnej ezofagitídy u pacientov s dvanástnikovými
+vredmi pravdepodobne súvisí s poškodzujúcim účinkom prekyslených žalúdočných štiav
+na pažerák. U pacientov so Zollinger-Ellisonovým syndrómom sa môže vyvinúť závažná
+ezofagitída alebo zúženie v dôsledku spätného toku silne kyslého peptického obsahu do
+pažeráka.
+U pacientov so zníženou sekréciou kyseliny alebo dokonca achlorhydrie sa však môže
+občas vyskytnúť refluxná ezofagitída. Achlorhydria je absencia kyseliny chlorovodíkovej
+v žalúdočných šťavách produkovaných v žalúdku. Nakoniec, závažnosť refluxnej
+ezofagitídy závisí od vnútornej rezistencie pažerákovej sliznice. Pretože slizničná
+rezistencia a motorická funkcia pažeráka sa s vekom zhoršuje. Starší, oslabení pacienti sú
+v najväčšom riziku vzniku refluxnej ezofagitídy v dôsledku dlhodobého vystavenia
+citlivej sliznice refluxovanej kyseline v pažeráku.
+
+25
+
+Barrettov pažerák
+Abnormálna zmena buniek prítomných v dolnej časti pažeráka. Výskumníci majú
+podozrenie, že reflux kyseliny alebo gastroezofageálna refluxná choroba súvisí s
+Barrettovým pažerákom. Barrettov pažerák zvyšuje riziko vzniku rakoviny pažeráka.
+Barrettov pažerák nespôsobuje príznaky. Pálenie záhy, ktoré sa vyskytuje aspoň dvakrát
+týždenne, je najväčšou červenou vlajkou. Príznaky pálenia záhy zahŕňajú pocit pálenia v
+hrudníku a zvracanie v zadnej časti hrdla (regurgitácia kyseliny). Medzi ďalšie príznaky,
+ktoré je potrebné sledovať, patria:
+•
+
+Pálenie záhy, ktoré zhoršuje spánok alebo vás prebúdza zo spánku.
+
+•
+
+Bolestivé alebo sťažené prehĺtanie.
+
+•
+
+Pocit uviaznutia jedla v pažeráku.
+
+•
+
+Neustála bolesť hrdla, kyslá chuť v ústach alebo zápach z úst.
+
+•
+
+Neúmyselná strata hmotnosti.
+
+•
+
+Krv v stolici.
+
+•
+
+Vracanie.
+
+Jediným spôsobom, ako diagnostikovať Barrettovho pažeráka je endoskopické
+vyšetrenie. To zahŕňa vloženie malej osvetlenej trubice (endoskopu) cez hrdlo a do
+pažeráka, aby sa zistila zmena vo výstelke pažeráka. Zatiaľ čo vzhľad pažeráka môže
+naznačovať Barrettov pažerák, diagnózu možno potvrdiť iba malými vzorkami tkaniva
+(biopsiami) získanými cez endoskop.
+
+Nádorové ochorenie pažeráka
+Nezhubné nádory
+Benígne nádory pažeráka sú neobvyklé lézie, ktoré predstavujú asi 20% všetkých
+novotvarov pažeráka. Drvivá väčšina sú malé a asymptomatické a okrem adenómov
+pažeráka len zriedka podliehajú malígnej degenerácii. Výsledkom je, že sú zvyčajne
+odhalené náhodne počas rádiologických alebo endoskopických vyšetrení. Občas však
+tieto lézie môžu spôsobiť dysfágiu, krvácanie alebo iné klinicky významné nálezy. V
+takýchto prípadoch môže byť potrebné endoskopické alebo chirurgické odstránenie. V
+závislosti od miesta pôvodu môžu byť benígne nádory klasifikované ako mukózne alebo
+submukózne lézie.
+
+26
+
+Papilómy
+Papilómy sú benígne nádory, ktoré sa na sliznici javia ako koralové alebo bradavičnaté
+exkrementy. Skladajú sa histologicky z centrálneho fibrovaskulárneho jadra s
+viacnásobnými výbežkami prstov pokrytými hyperplastickým skvamóznym epitelom.
+Papilómy sa všeobecne považujú za zriedkavé lézie pažeráka, ktoré predstavujú menej
+ako 5% všetkých benígnych nádorov pažeráka. Mnoho papilómov však nikdy nie je
+diagnostikovaných kvôli ich malým rozmerom a nedostatku symptómov. Ezofageálne
+papilómy sa zvyčajne nachádzajú ako solitárne lézie v distálnom pažeráku s veľkosťou
+od 0,5 do 1,5 cm. Väčšinou sa vyskytujú u starších mužov. Väčšina pacientov so
+solitárnymi papilómami je asymptomatická, ale u niektorých sa môže vyvinúť dysfágia.
+Esophagogastrický polyp
+Zápalový esophagogastrický polyp predstavuje cibuľovitý hrot zhrubnutého žalúdočného
+záhybu siahajúci do distálneho pažeráka zo žalúdočného fundusu. Lézia sa skladá zo
+zápalových buniek matrice a granulačného tkaniva a považuje sa za prejav chronickej
+refluxnej esophagitídy. V dôsledku toho môžu mať títo pacienti súvisiace príznaky
+refluxu. Polyp žalúdka pažeráka však nemá malígny potenciál, takže endoskopická
+resekcia je neopodstatnená. Keď sú na základe rtg. diagnostiky nálezy nejednoznačné,
+mala by sa vykonať endoskopia a biopsia, aby sa vylúčila malígna lézia.
+Leiomyóm
+Viac ako 50% benígnych nádorov pažeráka je leiomyómy. Tieto nádory sú histologicky
+zložené z pretínajúcich sa pásov hladkého svalstva a vláknitého tkaniva v dobre
+definovanej kapsule. Môžu vznikať buď z kruhového alebo pozdĺžneho hladkého svalstva
+v stene pažeráka, zo svalu sliznice alebo z hladkého svalu v cievach obsiahnutých v stene.
+Asi 60% týchto lézií sa nachádza v distálnej tretine pažeráka, 30% v strednej tretine a
+10% v proximálnej tretine. Prevažná väčšina týchto nádorov sa javí ako diskrétna
+submukózna masa s veľkosťou od 2 do 8 cm.
+Granulárny nádor
+Nádory sú pokryté hyperplastickou, ale inak normálnou skvamóznou sliznicou. Asi 7 %
+nádorov z granulárnych buniek vzniká v gastrointestinálnom trakte a jedna tretina týchto
+lézií sa nachádza v pažeráku. Väčšina nádorov z granulárnych buniek v pažeráku sú lézie
+s veľkosťou od 0,5 do 2,0 cm. Kým lézie s veľkosťou menšou ako 1 cm sa zvyčajne
+27
+
+objavia ako náhodný nález pri pitve, väčšie nádory môžu spôsobiť dysfágiu alebo iné
+príznaky, ako je bolesť na hrudníku, vracanie a strata hmotnosti. Liečbou voľby pre
+symptomatické granulárne bunkové tumory je lokálna excízia, keďže tieto lézie sa po
+endoskopickom alebo chirurgickom odstránení prakticky nikdy neopakujú.
+Naproti tomu asymptomatické nádory z granulárnych buniek dokumentované
+endoskopickou biopsiou možno pravdepodobne ponechať v pažeráku pre zanedbateľné
+riziko malígnej degenerácie.
+
+Cysty
+Vrodená cysta
+Väčšina
+
+esophageálnych
+
+cýst
+
+sú
+
+vrodené
+
+cysty
+
+spôsobené
+
+abnormálnym
+
+embryologickým vývojom. Väčšina vrodených cýst je asymptomatická, hoci symptómy
+môžu príležitostne vyplynúť z obštrukcie, krvácania alebo infekcie cysty. Vrodené cysty
+sa zvyčajne javia ako submukózne masy nerozoznateľné rádiograficky od solídnych
+mezenchýmových tumorov. Avšak endoskopické nálezy hladkej, mäkkej, stlačiteľnej
+submukóznej hmoty by mal cystu odlíšiť od iných submukóznych nádorov.
+Získaná cysta
+Získané cysty pažeráka sú oveľa menej časté ako cysty vrodené. Zjavne sú výsledkom
+abnormálnej dilatácie slizničných žliaz s cylindrickou výstelkou v submukóze, a preto sa
+nazývajú retenčné cysty pažeráka alebo mukokély. Retenčné cysty pažeráka možno
+rozpoznať rádiograficky ako solitárne alebo častejšie ako mnohopočetné submukózne
+masy v distálnom pažeráku. Výsledkom je, že lézie nemožno odlíšiť od iných
+submukóznych nádorov pažeráku na esophagográfií. Títo pacienti sú však zvyčajne
+asymptomatickí a lézie sú najčastejšie objavené ako náhodný nález pri pitve
+
+Karcinóm pažeráka
+Vývoj karcinómu pažeráka je spojený s rôznymi rizikovými faktormi. Medzi hlavné
+rizikové faktory patrí vek, pohlavie, konzumácia tabaku a alkoholu, iné environmentálne
+karcinogény, nutričné nedostatky a geografická poloha. Na rozdiel od rizikových
+faktorov, ktoré identifikujú iba vybrané skupiny alebo populácie so zvýšeným rizikom
+vzniku rakoviny, predisponujúce stavy sú patologické procesy, ktoré zvyšujú riziko, že
+sa u postihnutých jedincov vyvinie rakovina. Predisponujúce stavy pre karcinóm
+28
+
+pažeráka zahŕňajú achaláziu, nádory hlavy a krku, Plummer Vinsonov syndróm a
+ožarovanie. Kvôli zvýšenému riziku vzniku rakoviny pažeráka sa u pacientov s týmito
+stavmi často odporúča pravidelné sledovanie. Dysfágia patrí medzi najčastejšie sa
+vyskytujúce ťažkosti, zvyčajne chýba, kým nádor nie je veľký a neresekovateľný.
+Niektorí pacienti však pociťujú dysfágiu, krvácanie z horného gastrointestinálneho traktu
+alebo iné symptómy pažeráka, kým je nádor ešte v počiatočnom štádiu. Včasné
+karcinómy pažeráka sa klasicky javia rádiograficky ako malé, vyčnievajúce lézie s
+priemerom menším ako 3,5 cm. Môžu to byť ložiskové lézie (často s centrálnou
+ulceráciou) alebo malé, sediace polypy s hladkým alebo mierne laločnatým obrysom. Iné
+včasné rakoviny môžu byť povrchové lézie, ktoré spôsobujú fokálnu nepravidelnosť,
+nodularitu a/alebo ulceráciu sliznice. Povrchovo sa šíriace karcinómy sa röntgenologicky
+prejavujú drobnými uzlinami alebo povlakmi, ktoré spôsobujú rozsiahlu nodularitu alebo
+granularitu sliznice. Zatiaľ čo skoré karcinómy pažeráka sa vo všeobecnosti považujú za
+malé lézie, niektoré včasné karcinómy sa môžu rádiograficky javiť ako relatívne veľké
+lézie s priemerom väčším ako 3,5 cm.
+Pokročilý karcinóm
+Takmer 50% pacientov s pokročilým karcinómom pažeráka má abnormálne röntgenové
+snímky hrudníka. Medzi najčastejšie nálezy na snímke patrí mediastinálne rozšírenie,
+retrohilárna alebo retrokardiálna masa, odchýlka priedušnice, rozšírený retrotracheálny
+pruh a hladina vzduchu a tekutiny v pažeráku. Predné vyklenutie zadnej tracheálnej steny
+alebo zhrubnutie retrotracheálneho pruhu o šírke viac ako 3 mm môže byť výsledkom
+lymfatickej infiltrácie alebo priamej invázie retrotracheálnej oblasti nádorom. Iní pacienti
+s distálnymi obštrukčnými léziami môžu mať hladinu vzduchu a tekutiny v pažeráku.
+Malo by sa však uznať, že významná obštrukcia pažeráka achaláziou alebo benígnymi
+štruktúrami môže súvisieť aj s predným tracheálnym úklonom alebo s hladinou
+pažerákovej tekutiny.
+Adenokarcinóma
+Primárny adenokarcinóm pažeráka sa tradične považuje za zriedkavú léziu, ktorá
+predstavuje len 1 až 4 % všetkých rakovín pažeráka. Boli klasifikované ako primárne
+karcinómy žalúdka sekundárne napádajúce dolný koniec pažeráka. Niekoľko štúdií však
+ukázalo, že adenokarcinómy pažeráka sa často šíria distálne a postihujú kardiu žalúdka
+alebo fundus. Vývoj adenokarcinómu pažeráka v štruktúre normálne lemovanej
+29
+
+dlaždicovým
+
+epitelom
+
+môže
+
+nastať
+
+niekoľkými
+
+spôsobmi.
+
+Zriedkavo
+
+môže
+
+adenokarcinóm vzniknúť priamo zo submukóznych alebo hlbokých slizničných žliaz
+v pažeráku, alebo z vrodených zvyškov ektopickej sliznice žalúdka.
+Značná pozornosť sa však sústredila na vzťah medzi adenokarcinómom pažeráka a
+cylindrickým alebo Barrettovým pažerákom. V niekoľkých štúdiách sa zistilo, že 90 až
+100 % všetkých primárnych adenokarcinómov pažeráka vzniká na pozadí Barrettovej
+sliznice. Adenokarcinóm pažeráka je teda nielen bežnejší, ako sa predtým zistilo, ale zdá
+sa, že veľká väčšina týchto nádorov je výsledkom malígnej degenerácie Barrettovho
+pažeráka.
+Skorý adenokarcinóm
+Skoré adenokarcinómy v Barrettovom pažeráku sa môžu na rtg. obraze javiť ako
+povlakové lézie alebo ako ploché, sediace polypy. Prítomnosť včasného karcinómu
+možno rozpoznať len miernym sploštením alebo stuhnutím jednej steny. Iní pacienti
+môžu mať povrchovo sa šíriace nádory podobné skorým popísaným spinocelulárnym
+karcinómom ale bez ložiskovej lézie. Zatiaľ čo skoré karcinómy pažeráka sú klasicky
+malé lézie, niektorí pacienti môžu mať relatívne veľké polypoidné útvary (3,0 až 4,5 cm
+veľké), rtg. zobrazenie nerozoznateľné od pokročilých karcinómov pažeráka.
+Pokročilý adenokarcinóm
+Väčšina pokročilých esophageálnych adenokarcinómov sa javia ako lézie s
+nepravidelným zúžením lumina, mukóznou nodularitou, ulceráciou alebo deštrukciou
+a náhlymi asymetrickými hranicami. Tieto lézie vo všeobecnosti nemôžu byť na snímke
+odlíšené od spinocelulárnych karcinómov. V jednej štúdii sa však zistilo, že
+adenokarcinómy
+
+pažeráka
+
+zahŕňajú
+
+dlhší
+
+vertikálny
+
+segment
+
+pažeráka
+
+ako
+
+skvamocelulárne karcinómy s priemernou dĺžkou 7,5 cm. Neobvykle dlhá infiltrujúca
+lézia by teda mala naznačovať možnosť adenokarcinómu. Menej často sa tieto nádory
+môžu javiť ako polypoidné alebo ulcerujúce masy. Niektorí pacienti môžu mať objemné
+intraluminálne lézie. Adenokarcinómy pažeráka môžu mať neúmerný stupeň postihnutia
+pažeráka v porovnaní so žalúdkom, zatiaľ čo karcinómy žalúdka alebo srdca môžu mať
+väčší stupeň postihnutia fundu. Pre správnu diagnózu by mala napovedať aj významná
+anamnéza refluxnej choroby.
+
+30
+
+3 ZOBRAZOVACIE DIAGNOSTICKÉ METÓDY
+3.1 Rádiodiagnostika v stomatológii
+Rádiológia je multidisciplinárny odbor, neoddeliteľnou súčasťou stomatologickej
+diagnostiky je využívanie zobrazovacích modalít, ktoré sa delia na:
+a) preventívne – robia sa pravidelne, dospelí 1x a deti 2x do roka,
+b) diagnostické – robia sa vtedy, ak pacient má nejaký problém( bolesť zuba, krvácanie
+ďasien, úraz),
+c) terapeutické – robia sa počas ošetrenia zuba (pri endodoncií, počas úrazu, pri
+extrakciách)
+Možnosti rádiologických vyšetrení:
+•
+
+intraorálne
+
+•
+
+extraorálne
+
+Intraorálne snímky
+Indikácia: pri vstupnom vyšetrení, v recalloch k diagnostike kazu, parodontitídy, pri
+endodontickom ošetrovaní, pri traume zuba.
+Delíme ich na záhryzové a periapikalné snímky.
+Záhryzové snímky (Bite-Wing) sú indikované pri vysokom riziku kazu. Sú vhodné na
+stanovenie diagnózy kazu vo fisúrach na zadných zuboch. Tieto snímky sú veľmi presné,
+rtg lúč prebieha kolmo na medzizubné septá, aproximálne plochy sú paralelné.
+Záhryzovými snímkami je možné zistiť včasné zmeny na parodonte presnejšie ako
+klinickým vyšetrením.
+
+Obr. 2
+31
+
+Periapikálne snímky sú indikované pri vyšetrení v oblasti apexu zuba, u detí pre
+stanovenie stupňa rezorpcie koreňa, pri endodontickom ošetrení.
+
+Obr. 3
+Extraorálne snímky
+Tieto snímky sú určené prevažne pre stomatochirurgiu. Extraoralné snímky delíme na
+Ortopantomogram a teleröntgen.
+Ortopantomografické snímky (OPG) zobrazia obe zuboradia, nosovú a čeľustné
+dutiny, temporomandibulárne kĺby. Nevýhodou je že na OPG snímkach stavce robia tieň.
+Indikácie: v období prerezávania trvalých a mliečných zubov, na zistenie počtu zubov,
+uloženia zubov, zápaly, úrazy, cysty, nádory.
+Teleröntgen je doplnkom čeľustno-ortopedickej diagnózy. Umožňuje pohľad do stavby
+lebky.
+
+Obr. 4
+
+32
+
+Ortopantomografia
+Indikácie:
+•
+
+vyšetrenie čeľuste a sánky
+
+•
+
+strata zubov
+
+•
+
+diagnostika parodontálnych a apikálnych nálezov
+
+•
+
+opuchy a asymetrie tváre (dentitio difficilis-ôsmičky, sialodocholythiasiskamene)
+
+•
+
+diagnostika dentogénnych ochorení maxilárnych prínosových dutín
+
+•
+
+v rámci onkologického skríningu
+
+•
+
+cudzie telesá v oblasti tváre
+
+•
+
+cysty v dutine ústnej
+
+•
+
+v dentálnej implantológii
+
+•
+
+zlomeniny
+
+•
+
+kazy
+
+•
+
+u detí pri zmiešanom chrupe (neprerezávané zuby)
+
+Výhody OPG
+•
+
+malá dávka žiarenia
+
+•
+
+ľahké porovnanie stranových rozdielov a ľahká diagnostika väčšie patologické
+ložiská
+
+•
+•
+
+využíva sa ako vstupné vyšetrenie pacienta pred rekonštrukcií chrupu
+je súčasťou vyšetrenia pacienta v zubnom lekárstve
+
+Nevýhody OPG
+•
+
+všetky štruktúry sú zväčšené (1.25-1.35x)
+
+•
+
+vyššia cena zariadenia
+
+Snímkovacia technika
+•
+
+Rozmery – 15cm x 30cm, 30cm x 12cm
+
+•
+
+Expozícía- 15 sekúnd
+
+•
+
+Napätie- 55-85kV
+
+•
+
+Prúd- 2-30 mA
+
+33
+
+Zachytená horná aj dolná čeľusť, zobrazené sú nosové a PND, temporomandibulárny kĺb,
+všetky zuby aj neprerezané. Technika vychádza z kombinácie rotačného a translačného
+pohybu röntgenky, kde súbežne sa otáča zdroj žiarenia a detektor. Pri zhotovení snímky
+musíme dbať na presné nastavenie a fixáciu hlavy, pomáha svetelný navigačný systém,
+pacient stojí, rukami sa drží držiakov.
+
+Obr. 5
+
+3. 2 Počítačová tomografia – CT
+Využívame ju ako pri diagnostike, tak aj pri niektorých terapeutických výkonoch.
+Vyšetrenie pomocou CT nám umožňuje zhotovenie 3D obrazu, kedy sa vyšetrovaná
+oblasť rozdelí na tenké vrstvy, ktoré snímkujeme zvlášť pod rôznymi uhlami. Využíva
+rtg. žiarenie na tvorbu obrazov.
+
+34
+
+CT vyšetrenie v zubnom lekárstve
+Indikácie:
+•
+
+Parodontológia – umožňuje získať priestorový obraz alveolárnej kosti a mieru jej
+resorbcie, slúži ako k diagnostike tak k plánovaniu liečby
+
+•
+
+Dentálna chirurgia – napríklad pri extrakciách zubov múdrosti, na presnejšie
+zobrazenie oblasti a na zníženie rizika komplikácií
+
+•
+
+Implantológia – umožňuje presné zmeranie prítomnosti kosti
+
+•
+
+Ortodoncia – detailný 3D snímok tvárového skeletu je neodmysliteľnou súčasťou
+pri plánovaní ortodontickej liečby
+
+•
+
+Endodoncia – je veľmi dôležitý pre presné zobrazenie počtu a priebehu
+jednotlivých
+
+koreňových kanálikov, zobrazenie prípadnej resorbcie a veľmi
+
+presná diagnostika
+
+periapikálnych nálezov.
+
+•
+
+TMK – pomáha pri vyšetrení temporomandibulárneho kĺbu.
+
+•
+
+Onkologické ochorenie
+
+•
+
+Cysty
+
+Kontraindikáciou k zhotoveniu CT vyšetrenia sú:
+•
+
+výskyt zubných náhrad z ťažkého kovu, ako je amalgám, zlato vo vyšetrovanej
+oblasti;
+
+•
+
+relatívnou kontraindikáciou je tehotenstvo;
+
+•
+
+vážna psychomotorická porucha – neschopnosť spolupráce s pacientom.
+
+Príprava pacienta
+Odstráňte všetky nepripevnené kovové protézy alebo šperky, ktoré by mohli zasahovať
+do oblasti, ktorá sa má skenovať.
+Počas skenovania sa môžu nosiť nekovové zubné protézy. Urobíme pacientovi pohodlie
+a poučíme ho, aby sa počas procedúry nehýbal. Normálne dýchanie je prijateľné, ale
+akýkoľvek iný pohyb, ako je nakláňanie a/alebo otáčanie hlavy, môže spôsobiť pohybové
+artefakty, ktoré ohrozia rekonštruované obrázky a vyžadujú opätovné skenovanie
+pacienta.
+Polohovanie pacienta
+
+35
+
+Položte pacienta na chrbát na stôl skenera a pohnite sa pacienta do portálu hlavou napred.
+Minimalizujte artefakty spôsobené kovovými zubnými náhradami dávky alebo
+ortodontické držiaky tak, že sa okluzálna rovina pacienta čo najviac zarovná s axiálnymi
+rezmi. Nedeformujte mäkké tkanivo.
+V závislosti od požadovaného produktu alebo služby by zorné pole malo zahŕňať: nos
+a brada, ďalšie oblasti záujmu, ak sú potrebné (napr. lebka), pre prípady rekonštrukcie
+kompletný nádor/defekt.
+Parametre CT vyšetrenia
+•
+
+Sklon portálu/šikmý uhol 0°
+
+•
+
+Matrix 512x512
+
+•
+
+Hrúbka rezu -Maximum 1,0 mm
+
+•
+
+Posuv na otáčku -Maximum 1,0 mm
+
+•
+
+Rekonštruovaný prírastok rezu -Maximum 1,0 mm
+
+•
+
+Algoritmus rekonštrukcie - Kosť alebo vysoké rozlíšenie
+
+Obr. 6
+
+Cone-Beam CT (CBCT)
+- pracuje na rovnakom princípe, ako CT
+- rozdiel je v tvare zväzku lúčov, v počte otáčok systému
+- dá nastaviť rozlíšenie snímky, zvolíme ho tak, aby bolo čo najvhodnejším pri danej
+diagnóze a zároveň, aby malo čo najnižšiu dávku žiarenia.
+- podľa typu prístroja sa volí poloha pacienta pri vyšetrení: v ľahu(dobrá stabilita), v sede
+alebo v stoji(stabilita pomocou viacbodovej fixácií).
+36
+
+- na CBCT prístrojoch je možné zhotoviť aj ortopantomogram, avšak použitie CBCT iba
+kvôli vytvoreniu OPG snímky, je nevhodné z dôvodu väčšej radiačnej dávky.
+
+Obr. 7
+
+Polohovanie pacienta
+Pacient sedí, hlavu má v prírodzenej polohe. Nedeformujte mäkké tkanivo. Zorné pole by
+malo zahŕňať: nos a brada, ľavý a pravý TMK. Oblasť záujmu by mala byť aspoň 10 mm
+od okraja poľa, aby sa predišlo možnému efektu skreslenia okraja.
+Parametre skenovania CBCT
+•
+
+Matrix 768 x 768, 512 x 512
+
+•
+
+Zorné pole najväčšie dostupné
+
+•
+
+Čas skenovania najdlhšie k dispozícii
+
+•
+
+Veľkosť voxelu 0,3 mm
+
+•
+
+Rekonštruovaný prírastok rezu max 0,3 mm
+
+CT slinných žliaz
+CT slinných žliaz je v porovnaní s MRI jednoduché, rýchle a lacné, ale pacient je
+vystavený ionizujúcemu žiareniu.
+Kontraindikácie:
+•
+
+Porucha funkcie obličiek, alergia na kontrastnú látku
+37
+
+•
+
+Kovové zubné výplne (amalgám)
+
+•
+
+Relatívnou kontraindikáciou je tehotenstvo
+
+Obr. 8
+CT bez aplikácie kontrastnej látky (NCECT) môže demonštrovať sialolitiázu,
+kalcifikáciu tkaniva, tvorbu plynu v mäkkom tkanive, a kostnú eróziu spôsobenú
+malígnymi léziami alebo infekciou. Zvyčajne je útlm príušnej žľazy o niečo nižší ako
+podčeľustnej žľazy z dôvodu vyššieho obsahu tuku. Zníženie hustoty v dôsledku tukovej
+degenerácie možno pozorovať pri starnutí a tiež po terapii rádiojódom a rádioterapii.
+Cone-beam CT poskytuje relatívne vysoké priestorové rozlíšenie štruktúr s vysokou
+hustotou, ako sú kosti, sialolitiáza a kontrastná látka v sialografii s nižšou dávkou žiarenia
+ako konvenčné CT. CT s kontrastom (CECT) je užitočná v akútnych prípadoch, keď je
+MRI kontraindikovaná, alebo v prípadoch, keď je prístup k MRI obmedzený. Zápal v
+žľazách sa prejaví ako zväčšené žľazy s abnormálnym útlmom alebo intenzitou a jasným
+zosilnením. Tvorba abscesov je ľahko viditeľná na CECT aj MRI. Abscesy možno
+dokonca vidieť v príušnej žľaze na NCECT kvôli vyššiemu obsahu tuku. Zápalové nálezy
+sú nešpecifické a musia sa porovnávať s klinickými nálezmi, USG nálezmi, biopsiami a
+MRI.
+CECT dokáže detegovať metastázy v regionálnych lymfatických uzlinách a systémové
+postihnutie. Optimálne CT slinných žliaz vyžaduje kontrastné skenovanie na vizualizáciu
+cýst, abscesov, novotvarov a traumatických lézií.
+
+38
+
+Obr. 9
+CT hlavy a krku
+Interpretácia nálezov na CT krku môže byť náročná, predovšetkým kvôli viacerým
+orgánovým systémom v krku. Pretože v krku sú zložky dýchacieho, tráviaceho, cievneho,
+endokrinného, kostrového a neurologického systému.
+Oblasti hodnotenia kontrolného zoznamu CT analýzy hlavy a krku:
+•
+
+Kožné a podkožné mäkké tkanivá
+
+•
+
+Zuby a periodontalné tkaniva
+
+•
+
+Štítna žľaza
+
+•
+
+Slinné žľazy
+
+•
+
+Lymfatické uzliny
+
+•
+
+Cievne štruktúry
+
+•
+
+Kosti
+
+•
+
+Krčná chrbtica
+
+•
+
+Orbity a obraz mozgu
+
+•
+
+Pľúcne vrcholy
+
+•
+
+Horné mediastinum
+
+Protokol
+•
+
+Štratégia vyšetrenia: natívne alebo s KL
+
+•
+
+Príprava pacienta: natív bez prípravy, s KL nalačno
+
+•
+
+Uloženie pacienta: pacient leží na chrbte, hlava je fixovaná
+39
+
+•
+
+Inštrukcie: nechýbať sa
+
+•
+
+Rozsah vyšetrenia: apex pľúc až po vrchol kalvy
+
+•
+
+Topogram: AP
+
+•
+
+kV: 100-120
+
+•
+
+mAs: 12-20 mGy
+
+•
+
+objem KL látky: 60-80 ml
+
+•
+
+Rýchlosť aplikácie KL: 2-2,5ml/s
+
+•
+
+Oneskorenie: 40-50s
+
+Obr. 10
+CT ezofagografia
+CT štúdia určená predovšetkým na hodnotenie pažeráka, najmä v situácii traumy
+pažeráka a potenciálnej perforácie. Bol vyvinutý čiastočne ako alternatíva k
+fluoroskopickému hodnoteniu prehltnutia bária.
+Typ ústneho kontrastu diatrizoát meglumín (Gastrografin) alebo roztok jódovanej CT
+kontrastnej látky (napr. Omnipaque), ak je pacient v riziku aspirácie, treba sa vyhnúť
+Gastrografinu. Protokoly nezahŕňajú použitie bária.
+Indikácie: potenciálna perforácia pažeráka, vyhodnotenie potenciálneho úniku
+pažerákovej anastomózy. Kontraindikácie: alergia na perorálnu kontrastnú látku.
+40
+
+Obr. 11
+
+3.3 Magnetická rezonancia-MRI
+Magnetická rezonancia slinných žliaz
+MRI je dôležitá pri hodnotení závažných ochorení slinných žliaz, najmä neoplastických
+ochorení. Ak je nádor veľký (> 3 cm) alebo sa nachádza v hlbokého laloku príušnej žľazy,
+USG má obmedzenia v dostatočnej demonštrácii a ohraničení lézií a mala by sa vykonať
+MRI (alebo CT, ak existujú kontraindikácie pre MRI). MRI poskytuje veľké množstvo
+rozdielov v signáloch mäkkých tkanív a multiplanárne zariadenia sú užitočné pri určovaní
+rozsahu nádoru, či už sa nachádza v podsánkovej, podjazykovej alebo príušnej žľaze.
+MR
+
+sialografia
+
+definuje
+
+duktálny
+
+systém
+
+sledovanej
+
+žľazy
+
+bez
+
+injekcie
+
+duktálneho/intravenózneho kontrastného činidla, kde sa ako kontrastná látka používajú
+vlastné sliny pacienta. Podávanie salivačného podnetu môže zlepšiť duktálnu vizualizáciu
+v MR sialografii zvýšením sekrécie slín. MR sialografia vyžaduje dostatočnú produkciu
+slín. Protokol MRI by mal pozostávať z axiálnych a koronálnych T1 spin-echo (SE) a T2
+SE vážených obrazov (TIWI a T2WI), axiálnych, koronálnych a sagitálnych obrazov CE
+TIWI nasýtených tukom. Hrúbka rezu by nemala presiahnuť 3 mm.
+Všetky lézie príušnej žľazy sú dobre vizualizované na TIWI z dôvodu hyperintenzívneho
+(tukového) pozadia žľazy. Sekvencia TIWI poskytuje jasné hodnotenie okraja nádoru,
+jeho rozsahu hĺbky a vzoru infiltrácie, zatiaľ čo na určenie hĺbky invázie sa uprednostňuje
+CE TIWI nasýtený tukom.
+
+41
+
+Obr. 12
+
+Obr. 13
+
+Obr. 14
+42
+
+Magnetická rezonancia hlavy a krku
+Indikácie:
+•
+
+Problémy s krvnými cievami
+
+•
+
+Nádorové ochorenia hlavy a krku
+
+•
+
+Infekcie
+
+•
+
+Mŕtvica alebo poškodenie mozgu
+
+•
+
+Demencia
+
+•
+
+Epilepsia
+
+Obr. 15
+
+MRI vyšetrenie pažeráka
+Zobrazovanie pažeráka je náročné z dôvodu umiestnenia obklopeného mnohými životne
+dôležitými orgánmi a slabej rozťažnosti pažeráka. Zobrazovanie pomocou MRI pre
+zobrazovanie pažeráka bolo technicky náročné kvôli hlbokej polohe pažeráka a stupňu
+pohybu súvisiaceho so srdcovým pohybom, peristaltikou, dýchaním v kombinácii s
+relatívne pomalým časom získavania MRI, čo ovplyvňuje kvalitu obrazu. nedávna
+technológia MRI zlepšila dosiahnuteľný pomer signálu k šumu a poskytuje podrobné
+informácie o pažeráku a zadnom mediastíne s vysokým priestorovým rozlíšením.
+Technika rýchleho spinového echa s vysokým rozlíšením T2 s fázovanou povrchovou
+cievkou dokáže vizualizovať jednotlivé zložky steny pažeráka. Technika Cine MRI, ktorá
+dokáže vizualizovať peristaltiku pažeráka, môže pomôcť pri stanovení štádia rakoviny
+
+43
+
+pažeráka, pretože prerušenie peristaltiky odráža poškodené svaly funkcie spôsobené
+rakovinou pažeráka v štádiu T3 alebo T4.
+
+Obr. 16
+
+3.4 Ultrasonografické vyšetrenie
+Podstatou ultrazvuku je schopnosť ultrazvukových vĺn prenikať tkanivami a odrážať sa
+od ich štruktúr, pričom sa výsledok tejto interakcie je spracované do podoby, ktorú
+môžeme vnímať zmyslovými orgánmi. Získame tak informáciu o prostredí, ktorým
+ultrazvuk prešiel a o rozhraní, na ktorom sa odrazil. Ultrazvukový prístroj sa skladá z 4
+časti:
+1) Vyšetrovacia sonda- mení elektrickú energiu na mechanickú. Pred vyšetrením na kožu
+vyšetrovanej oblasti nanášame gél, ktorý zabraňuje tomu, aby sa medzi hlavicou sondy
+a kožu nedostal vzduch. Gél zaručuje vysokokvalitný a neskreslený obraz.
+2) Elektronická časť- má obvody, ktoré zabezpečujú a riadia generovanie UZ vlnenia
+vysielaného zo sondy a obvody, v ktorých sa prijímaný odrazený akustický signál
+zosilňuje a ďalej upravuje do diagnosticky použiteľnej podoby.
+3) Monitor- tvorí zobrazovaciu časť, je založený na princípe TV obrazovky.
+4) Dokumentačná jednotka – slúži na zhotovenie obrazov a ich porovnávanie s obrazmi
+neskorších vyšetrení.
+Výhody USG
+•
+
+prístroje sú prenosné
+
+•
+
+nízke náklady na vyšetrenie
+
+•
+
+vyšetrenie je bez radiačnej záťaže
+
+44
+
+Nevýhody USG
+•
+
+vzdialenosťou od sondy klesá kvalita obrazu, napr. pri obéznych pacientov
+
+Ultrasonografické vyšetrenie s vysokým rozlíšením je v mnohých prípadoch počiatočnou
+zobrazovacou modalitou na hodnotenie slinných žliaz. Použitím vysokofrekvenčných (715 MHz) sond má US vysoké priestorové a časové rozlíšenie a vysokú presnosť na
+diagnostiku benígnych a malígnych lézií. USG má obmedzenia pri hodnotení štruktúr za
+kosťou, teda za čeľusťou a hlbokými časťami príušnej žľazy. Pri akútnom zápale sa USG
+používa na hľadanie sialolitiázy alebo abscesov. Je všeobecne známe, že má vysokú
+citlivosť na detekciu sialolitiázy.
+
+Obr. 17
+
+45
+
+Obr. 18
+
+3.5 Endoskopické vyšetrenie
+Indikácie:
+•
+
+kyslí reflux a pálenie záhy
+
+•
+
+onkologické ochorenia
+
+•
+
+zápal (esophagitída, gastritída, duodenitída)
+
+•
+
+žalúdočné vredy
+
+•
+
+poruchy prehľtania
+
+Príprava pacienta:
+•
+
+nalačno (6-8 hodín)
+
+•
+
+neužívať si lieky, ktoré riedia krv alebo ovplyvňujú zrážanlivosť krvi vrátane
+aspirínu
+
+Pacient dostane intravenózne sedatívum alebo inú formu anestézie. Vyšetrenie trvá 30
+minút. Pacient leží na ľavom boku, lekár aplikuje necitlivejúci sprej do hrdla a vloží
+chránič do úst na ochranu zubov. Vedie endoskop cez ústa dole do pažeráka, žalúdka
+a dvanástnika. V prípade potreby odoberie malé kúsky na biopsiu alebo vykonáva
+ošetrenie.
+Komplikácie vyšetrenia:
+•
+
+alergická reakcia na sedatívum
+
+•
+
+krvácanie alebo infekcia tráviaceho traktu
+46
+
+•
+
+trhlina (perforácia) vo výstelke tráviaceho traktu
+
+Obr. 19
+
+3.6 Nukleárna medicína
+Scintigrafia slinných žliaz
+Cieľom vyšetrenia je posúdiť maximálnu funkčnú sekrečnú kapacitu slinných žliaz.
+Aktivita, ktorá sa pri vyšetrení stáva viditeľnou v ústnej dutine, je spôsobená
+rádioaktívnymi slinami vylučovanými slinnými žľazami. Počas vyšetrenia sa orálne
+podáva kyselina citrónová 20 minút po intravenóznom podaní Tc-99m- pertechnetate.
+Indikácie
+•
+
+Zápaly (chronické a akútne)
+
+•
+
+Sjögrenov syndróm
+
+•
+
+Nádory slinných žliaz
+
+Príprava pacienta
+Správna hydratácia pred vyšetrením. Vyšetrenie by sa nemalo robiť ráno. Po dostatočnom
+zavodnení pacient nesmie jesť, piť kávu, fajčiť, žuvať žuvačku minimálne 2 hodín.
+Potrebné je vysadiť lieky, ktoré ovplyvňujú tvorbu slín. Dobrá anamnéza je nevyhnutná,
+získanie informácií o inej patológii v slinných žľazách, chirurgických zákrokoch
+a o aktuálnej liečbe.
+Rádiofarmakum
+47
+
+•
+
+Tc-99m- pertechnetate
+
+•
+
+Aktivita 100 MBq
+
+•
+
+Podáva sa intravenózne
+
+Postup vyšetrenia
+Pacientovi vysvetľujeme celý postup vyšetrenia. Pacient leží na chrbte, pacienta treba
+upozorniť, že musí ostať v rovnakej polohe bez pohybu počas vyšetrenia.
+1.fáza (sekrečná) – v zornom poli gamakamery je hlava a krk. Intravenózne sa podáva
+rádiofarmakum, vyšetrenie trvá približne 40 minút. Na monitore sledujeme vychytávanie
+radiofarmaka v žľaze. Počas vyšetrenia nastavíme kameru tak aby sme pozorovali krivku
+z jednej príušnej a jednej podsánkovej žľazy.
+2.fáza (exkrečná) – keď krivky prestanú rásť, začneme s prípravou salivačného podnetu.
+Pracovník pripraví 2 poháre, v jednom bude citrónová šťava a v druhom voda. Pacientovi
+vložíme hadičku do úst aby vypil citrónovú šťavu, potom vymení hadičku do poháriku
+s vodou a pacient sliny a šťavu zapije, aby rádioaktívne sliny nezostali v ústnej dutine.
+Záznam pokračuje 5-10 minút, po podaní salivačného podnetu. Cieľom tejto fázy
+otestovať rýchlosť vyprázdnenia slín zo žliaz.
+Technické parametre snímania
+•
+
+Kolimátor LEHR
+
+•
+
+140keV
+
+•
+
+Matrica dynamika 128x128, statika 256x256
+
+•
+
+Dynamika (60 obrázok) 1 obrázok 20senkúnd
+
+•
+
+Zorné pole (hlava a krk)
+
+•
+
+Cca po 20 minútach podať salivačný podnet
+
+•
+
+Statika (150 tisíc impulzov, AP projekcia)
+
+48
+
+Obr. 20
+
+Obr. 21
+Rádionuklidové vyšetrenie kinetiky horného GITu
+Môžeme použiť nasledovné metódy:
+•
+
+Scintigrafické vyšetrenie pasáže pažerákom a gastroesophageálneho refluxu
+
+•
+
+Scintigrafické vyšetrenie vyprázdňovania žalúdka
+
+•
+
+Scintigrafická detekcia duodenogastrického refluxu
+
+49
+
+Indikácie:
+•
+
+Achalázia pažeráka
+
+•
+
+Ezofagitída
+
+•
+
+Posúdenie dôsledkov poruchy priechodnosti pažeráka (nádory)
+
+•
+
+Stavy po operačných výkonoch na pažeráku
+
+•
+
+Gastroparéza
+
+Príprava pacienta
+Vyšetrenie sa vykonáva ráno nalačno. Ráno môžu piť čistú vodu ale nesmú piť kávu.
+Pacienti nemôžu fajčiť pred vyšetrením. Diabetici si so sebou prinesú inzulín, po podaní
+radiofarmák si aplikujú polovicu dávky inzulínu. Pacienti vysadia 2 dni pred vyšetrením
+lieky: prokinetiká, opioidné analgetiká a anticholinergiká- spazmolytiká. U diabetikov
+pred vyšetrením by glykémia nemala presiahnuť 15mmol/l, ak je vyššia, hodnota sa
+upravuje podaním inzulínu.
+Rádiofarmaká
+•
+
+99m TC-koloid
+
+•
+
+99m TC-DTPA
+
+Značené nápoje: Do vody (20ml, deti 10ml) sa pridá aktivita 20-40 MBq rádiofarmaka.
+Pacient si to musí prehltnúť na jeden krát. Pacientovi vysvetlíme, aby nápoj vzal do úst a
+na pokyn naraz prehltol. Jednotlivé sústa majú byť v objeme 5-10ml a aktivita 15 MBq.
+Medzi sústami je pauza 30 sekúnd. Záznam štartujeme pred začiatkom prehľtania. Po
+aplikácií prvého sústa sledujeme ako preteká do žalúdka, až ked sa vyprázdni môžeme
+dať vypiť dalšie sústo.
+Značená tuhá strava: 2 vaječné bielky, 2 hrianky bieleho toastového chleba, na ktoré je
+natretá vrstva masla, aktivita 30-50 MBq. Vaječné bielka sú miešané sa rádiofarmakom
+a upečené bez tuku na nelepivej panvici(3-5 minút). Chleby sa upečú v toastovači a natrú
+sa 1mm vrstvou masla. Omeleta sa vloží medzi kúsky chleba. Pacient pri jedení drží jedlo
+v jednej pozícii vo výške ústnej dutiny a s jedlom nemôže chýbať. Pacient počas jedenia
+drží lakte od seba aby snímanú oblasť nezakryl. Je dôležité aby poriadne prežul a prehltal
+s istým časovým odstupom jedlo (30-40 sekúnd). Pacient zapije jedlo 120ml vody.
+Pacient by mal zjesť tieto raňajky do 8 minút.
+
+50
+
+Postup vyšetrenia
+Používame matricu 64x64, maximálne 128x128. Pacienta vyšetrujeme v ležiacej polohy,
+alebo v sede (vyšetrenie tuhej stravy).
+1.fáza: vyšetrenie pasáže esophagom
+V zornom poli je zachytená ústna dutina, horná polovica abdomenu a žalúdok.
+Gamakamera je čo najbližšie k telu. Pacient počas vyšetrenie pomocou rádioaktívneho
+nápoja leží. Záznam sa zahajuje súčasne s prehltnutím sústa označeného rádiofarmakom.
+Pri dynamike sa sleduje priebeh 2-3 prehltacích aktov (snímky po 0,2-0,5 senkúnd, trvá
+2 minúty. Niekedy je výhodnejšie vykonať 2-3 samostatné nahrávky pre každé pitie
+(každa nahrávka 1 minúta).
+Pacient počas vyšetrenia tuhou stravou sedí. Záznam štartujeme po odhryznutí prvého
+sústa pacientom. Dynamická záznam trvá 8 minút (jedna snímka 0,5 sekúnd).
+2.fáza: vyšetrenie gastroesophageálneho refluxu
+Po skončení 1.fázy sa vykoná AP projekcia (stav naplnenia žalúdka). Vykonávame
+dynamický záznam, ktorý trvá 20 minút (jedna snímka 20 sekúnd).
+3.fáza: vyšetrenie evakuačnej schopnosti žalúdka
+Vykonáva sa pomocou sekvenčnej scintigrafie. Pacient pri záznamoch leži na lôžku
+gamakamery. Prvá snímka po zajedení, začiatok 2.fázy, po skončení 2.fázy, v 30., 60.,
+90., 120., 180., 240. minúte. Predná a zadná projekcia. Pacienti počas vyšetrenia medzi
+jednotlivými sekvenčnými snímkami sa môžu prechádzať a ísť na WC, nesmú vykonať
+veľkú telesnú záťaž a nemôžu opustiť pracovisko.
+
+Obr. 22
+
+51
+
+PET/CT
+V posledných rokoch si vydobyla svoje nezastupiteľné miesto v diagnostike karcinómov
+pažeráka PET/CT. Poskytuje súčasne informácie morfologické a informácie o aktivite
+ochorenia. Veľkostný limit cca 5 mm bráni zobrazeniu karcinómov in situ a T1a,
+obmedzuje detegovateľnosť nádorov T1b a T2. Naopak vysokú senzitivitu má PET pri
+detekcii nádoru T3 a T4. Pri hodnotení T štádia platia limitácie vyplývajúce z
+diagnostických možností CT s podaním kontrastnej látky intravenózne, prispieva hlavne
+v zobrazení invázie do okolitých štruktúr pri hodnotení resekability.
+Vyšetrenie PET Spresňuje hodnotenie N štádia, umožňuje detegovať metastázy v
+lymfatických uzlinách, ktoré by boli považované za nezväčšené. Hlavnou doménou
+PET/CT pri stagingu je detekcia vzdialených metastáz (pľúca, pečeň a skelet).
+Príprava pacienta
+•
+
+Pacient príde nalačno, pred vyšetrením 4-6 hodín nemôže jesť
+
+•
+
+Navodenie euglykémie a euinzulinémie
+
+•
+
+Dobrá hydratácia
+
+•
+
+Po podaní rádiofarmaká (18FDG) pacient čaká 1 hodinu v kľude, v teplej
+miestnosti
+
+•
+
+Vyprázdnenie močového mechúra pred vyšetrením
+
+•
+
+Aj po vyšetrení je odporúčané vyprázdnenie močového mechúra (zníženie
+radiačnej záťaže)
+
+Príprava pacienta s DM
+•
+
+Nalačno iba 4 hodiny
+
+•
+
+Navodenie euglykémie a euinzulinémie
+
+•
+
+Pri užívaní PAD- nepodávať kontrastnú látku, alebo neužívať pred vyšetrením
+PAD
+
+•
+
+Objednať pacienta na neskorší termín
+
+Diazepam podávame pacientom do 40 rokov (5mg večer a ráno pred vyšetrením). Ak je
+pacient veľmi tenzný alebo mal pri minulom vyšetrení aktivovaný hnedí tuk tak 3 dni
+pred vyšetrením 5mg večer. Deťom do 5 rokov 3mg( večer a ráno pred vyšetrením).
+
+52
+
+Obr. 23
+
+53
+
+4 INTERVENČNÉ A TERAPEUTICKÉ METÓDY
+4.1 Nevaskulárne intervencie v oblasti pažeráka
+Esophagialný stent je malá kovová alebo plastová trubica, vložená do potravinovej
+trubice (pažeráka). Udržuje potravinové potrubie otvorené. Rakovina v potravinovom
+potrubí ho môže čiastočne alebo úplne zablokovať a sťažiť prehĺtanie. Vložením stentu
+do zablokovanej oblasti sa potravinová trubica opäť otvorí. To vám umožní ľahšie
+prehĺtať jedlo a piť.
+
+Obr. 24
+Stenting malígnych stenóz
+Indikácie :
+• primárne malígne tumory esophagu, kardie, žalúdka a duodena
+• Recidívy po resekcii tumoru esophagu, kardie, žalúdka a duodena
+• Esophago – respiračné fistuly
+• Rekanalizácia tumoru pred rádioterapiou a prípadnou extirpáciou tumoru
+Stenting malígnych stenóz je vykonaný pod skiaskopickou kontrolou. Pacientovi je
+podaná lokálna anestéza, dilatácia stenózy minimálne na 7-10 mm, stent je implantovaný
+do oblasti stenózy. Skiaskopická kontrola hneď po implantácii stentu, po 24 a 48 hod.
+
+54
+
+Možné komplikácie:
+•
+
+migrácia stentu
+
+•
+
+nepresné umiestnenie stentu
+
+•
+
+bolesť a tlak v mieste implantácií
+
+•
+
+úmrtie pacienta
+
+•
+
+obturácia stentu tumorom alebo potravou
+
+Obr. 25
+Stenting benígnych stenóz
+Indikácie:
+•
+
+zápaly esophagu
+
+•
+
+achalázia(porušená inervácia svaloviny pažeráka) a poleptanie
+
+55
+
+Kontraindikácie:
+•
+
+stenózy v oblasti Killianovho ústia(nemožnosť rozdilatovania stenózy na 710mm)
+
+Stenting esophagu pri akútnom krvácaní z esophageálnych varixov
+Indikáciou je zastavenie krvácania z esophageálnych varixov.
+Kontraindikácie:
+•
+
+Malígny tumor esophagu
+
+• Stenóza esophagu
+• fistula
+• Krvácanie spôsobené cudzím telesom
+
+Obr. 26
+
+Okamžité zastavenie krvácania a to bez nutnosti ďalšieho sedenia. Pacient hneď po
+implantácii môže prijímať tekutiny.
+
+56
+
+4.2 Rádioterapia karcinómu pažeráka
+Základom liečby karcinómu pažeráka je chirurgický výkon. Po histologickej verifikácii
+karcinómu a vykonaní stagingu je na určenie liečebnej stratégie zásadný
+multidisciplinárny prístup.
+Hlavné faktory ovplyvňujúce výber primárnej terapie konkrétneho pacienta sú:
+•
+
+štádium choroby
+
+•
+
+umiestnenie nádoru
+
+•
+
+histologický typ
+
+•
+
+výkonnostný stav pacienta
+
+Ako veľmi dôležitý faktor sa javí nutričný stav chorého, a to aj pri paliatívnom zámere
+liečby. V čase diagnózy je úbytok hmotnosti > 10% takmer u polovice chorých.
+Štádiá Tis-T2, NO
+Ako primárny prístup k liečbe nádoru pažeráka T1-2 NO by sa mal odporučiť chirurgický
+zákrok (esophagektómia), a to aj s vedomím, že cez 50 % chorých má v čase
+chirurgického zákroku postihnuté lymfatické uzliny. U pacientov, ktorí nie sú schopní
+alebo nechcú podstúpiť chirurgický zákrok, má kombinovaná chemorádioterapia lepšie
+výsledky ako rádioterapia samotná. Štandardne sa odporúča podanie štyroch cyklov
+cisplatiny/5 fluóruracilu v kombinácii s ožiarením dávkou 50,4 Gy. Alternatívne možno
+na žiarenie podať šesť cyklov chemoterapie FOLFOX (oxaliplatina/5-Fu/leukovorín).
+Nové ožarovacie techniky (IMRT, VMAT) umožňujú navýšenie dávky žiarenia priamo
+do oblasti nádoru formou simultánneho integrovaného boostu.
+Pokročilé štádiá T3-T4, N1, N2, N3, MO
+Pri pokročilom ochorení nie je samotný chirurgický výkon štandardne odporúčaný,
+pretože úplnú (RO) resekciu nádoru pažeráka väčšinou nemožno dosiahnuť. Okrem toho
+aj po úplnej resekcii nádoru dlhodobé prežitie zriedka presahuje 20%. Za zmienku stojí,
+že predoperačná liečba (chemoterapia alebo chemoradioterapia) zvyšuje počet RO
+resekcií a zlepšuje celkové prežitie. Preto je u pacientov s lokálne pokročilým, ale
+resekabilným karcinómom pažeráka indikovaná predoperačná liečba. Podľa súčasných
+doporučení je možné využiť neoadjuvantné podanie chemoterapie alebo neoadjuvantné
+chemoradioterapiu.
+57
+
+Neoadjuvantná chemoradioterapia nasledovaná chirurgickou resekciou predstavuje
+súčasný zlatý štandard liečby pokročilého nádoru hrudného pažeráka. V prípade, že
+operačné riešenie nie je možné, je indikovaná radikálna chemoradioterapia. V
+konkomitantnom
+
+podaní
+
+sa
+
+uplatňuje
+
+tak
+
+podanie
+
+cisplatiny/5-Fu,
+
+ako
+
+aj
+
+karboplatiny/paklitaxelu. V prípade operabilného nálezu je tendencia aplikovať
+kombináciu karboplatina/paklitaxel v týždennom podaní, a to aj s ohľadom na dobrú
+znášanlivosť tohto režimu. Dávka pri chemoradioterapii (50 Gy, frakcionácia po 2 Gy, a
+chemoterapia cisplatina s 5-Fu), dávka pri samostatnej rádioterapii (64 Gy, frakcionácie
+po 2 Gy). S Kombinovanou liečbou dosiahneme lepšie výsledky.
+Frakcionácia a dávka žiarenia
+•
+
+Neoadjuvantná chemoradioterapia: dávky v rozmedzí 41,4-50,4 Gy, frakcionácia
+1.8-2.0 Gy denne.
+
+•
+
+Adjuvantná chemoradioterapia: dávky v rozmedzí 45,0-50,4 Gy, frakcionácia 1,82,0 Gy denne.
+
+•
+
+Radikálna chemoradioterapia: dávky v rozmedzí 50,4-54,0 Gy, frakcionácia 1,82,0 Gy denne.
+
+•
+
+Radikálne ožiarenie: dávky v rozmedzí 60-66 Gy.
+
+Technika ožarovania
+V súčasnej dobe nahradila technika IMRT ožarovanie klasickými statickými poľami cieľom dosiahnutia lepšej konformity dávkovej distribúcie v cieľovom objeme a zároveň
+zníženie dávok na rizikové orgány. V poslednej dobe sa najčastejšie využíva technika
+VMAT, kedy k modulácii zväzku dochádza počas kyvu ramena lineárneho urýchľovača.
+Relatívnou nevýhodou tejto metódy je ožiarenie väčšieho objemu pľúcneho tkaniva
+nízkymi dávkami, ktorých vzťah k možným pooperačným komplikáciám zostáva neistý.
+Výhodou je menšie zaťaženie srdca, miechy a pľúc v oblasti vyšších dávok.
+
+58
+
+Obr. 27
+Brachyterapia
+Okrem vonkajšej rádioterapie je možné v liečbe nádorov pažeráka použiť intrakavitárnu
+brachyradioterapiu. Priestor by mohla nájsť v rámci paliatívneho zámeru s cieľom
+zmierniť problémy u pacientov v zlom stave.
+Kontraindikácie: tracheálne alebo bronchiálne postihnutie, fistulácia, hlboká ulcerácia,
+lokalizácia v krčnom pažeráku, nízky výkonnostný stav.
+Celková dávka žiarenia je určovaná individuálne, zvyčajne sa aplikuje dávka 15-20 Gy v
+2-4 frakciách v týždenných intervaloch. Pokiaľ bol pacient už v minulosti ožarovaný na
+oblasť pažeráka vonkajšou rádioterapiou, je aplikovaná maximálna dávka 10-14 Gy v 1
+alebo 2 frakciách v týždennom intervale.
+
+59
+
+Paliatívna rádioterapia
+Pacienti s diseminovaným alebo neresekabilnym karcinómom pažeráka s prejavmi
+krvácania alebo dysfágiou môžu podstúpiť liečbu paliatívnej a to chemoterapiou,
+žiarením alebo ich kombináciou. Po aplikácii paliatívnej systémovej liečby je veľmi často
+pozorované zlepšenie prehĺtacích problémov. Paliatívna samostatná rádioterapia je
+obvykle indikovaná v pokročilých štádiách, u chorých v celkovo zlom stave. Ďalej je
+indikovaná po zavedení stentu a po rekanalizačných zákrokoch laserom. Ďalším
+variantom môže byť využitie brachyterapie. Používajú sa akcelerované frakcionačné
+režimy 10x 3 Gy/5x týždenne, 14-16x 2,5 Gy/5x týždenne, 5x4 Gy/5x týždenne, 8-10 Gy
+jednorazovo na malý objem.
+Nádory dutiny ústnej
+V prípade karcinómov ústnej dutiny sa rozlišujú lokalizácie:
+•
+
+bukálna sliznica
+
+•
+
+spodina ústnej dutiny
+
+•
+
+predné dve tretiny jazyka
+
+•
+
+horný a dolný alveolárny výbežok
+
+•
+
+retromolárny trigonum
+
+•
+
+tvrdé podnebie
+
+Táto oblasť má bohaté lymfatické zásobenie, tumory spodiny ústnej dutiny, jazyka a
+tvrdého podnebia metastazujú do bilaterálnych krčných uzlín. Postihnutie regionálnych
+uzlín je evidentné asi u 30% pacientov. U skorých štádií je preferovaný chirurgický
+výkon, alternatívou je kuratívna rádioterapia. Pri operácii, ktorá býva preferovaná, je
+okrem odstránenia primárneho tumoru často pripojená unilaterálna alebo bilaterálna
+krčná disekcia. V prítomnosti pozitívneho okraja by sa mala zvážiť reexcízia na
+dosiahnutie negatívnych okrajov. Pooperačná rádioterapia je indikovaná pri prítomnosti
+rizikových faktorov, ktorými sú pozitívne resekčné okraje, extrakapsulárne šírenie (v
+týchto prípadoch je doporučená konkomitantná rádioterapia s chemoterapiou). Pri
+menších tumoroch, v prípade jednej pozitívnej uzliny bez ďalších rizikových faktorov, je
+možné v prípade kvalitnej operácie najlepšie po diskusii s operatérom v niektorých
+prípadoch adjuvantnú rádioterapiu vynechať, väčšinou však rádioterapia býva
+
+60
+
+indikovaná. Primárna rádioterapia je liečebnou alternatívou pri štádiu T1-2, NO.
+Väčšinou ide o vonkajšie ožiarenie s brachyterapiou alebo bez nej.
+Adjuvantná liečba :
+•
+
+nízke riziko 50-54 Gy, frakcionácia 2 Gy denne
+
+•
+
+stredné riziko 60 Gy, frakcionácia 2 Gy denne
+
+•
+
+vysoké riziko 66Gy, frakcionácia 2 Gy denne
+
+Radikálna liečba: 70 Gy
+Technika terapie:
+•
+
+IMRT
+
+•
+
+VMAT
+
+Obr. 28
+4.3 Rádioterapia slinných žliaz
+Podľa rozsahu ochorenia. histologického typu vrátane gradingu, radikality chirurgického
+výkonu a prítomnosti rizikových faktorov je indikovaná pooperačná rádioterapia.
+Retrospektívne práce potvrdzujú zníženie lokálnych recidív po adjuvantnej rádioterapii
+bez vplyvu na celkové prežitie. Pri benígnych nádoroch, nádoroch s nízkym malignym
+potenciálom, pri negatívnom resekčnom okraji, bez známok prerastania mimo slinnej
+žľazy, bez perineurálneho šírenia je chirurgický výkon dostačujúci.
+
+61
+
+Nádory s vysokým a stredným stupňom malignity vyžadujú pooperačnú rádioterapiu.
+Adenoidne cystický karcinóm často recidivuje lokálne a je charakteristický
+perineurálnym šírením, čo je nutné vziať do úvahy pri plánovaní rádioterapie.
+Pre neresekabilné nádory sa používa rádioterapia ako definitívna terapia alebo
+chemorádioterapia (cisplatina, taxany).
+Kuratívna rádioterapia
+•
+
+primárny tumor a patologické uzliny 66-74 Gy (1,8-2,0 Gy/fr.)
+
+•
+
+nepostihnuté uzlinové oblasti 44-56,0 Gy
+
+Adjuvantná rádioterapia
+•
+
+low-grade tumory: lôžko, s negatívnymi okrajmi 50-54 Gy
+
+•
+
+high-grade, N+ bez rizikových faktorov - lôžko nádoru 60,0 Gy
+
+•
+
+pri inkompletnej resekcii a pozitívnych okrajoch 66-70 Gy
+
+•
+
+nepostihnuté uzlinové oblasti 44-56,0 Gy
+
+Technika terapie:
+•
+
+IMRT
+
+•
+
+VMAT
+
+4.4 Rádioterapia orofaryngu
+Orofarynx je extrémne bohatý na lymfatické tkanivo, 15-75% pacientov má v čase
+stanovenia diagnózy postihnuté lymfatické uzliny. V dnešnej dobe je testovanie na
+prítomnosť infekcie HPV už štandardom. Pacienti s HPV pozitívnym nádorom
+orofaryngu majú podľa prospektívnych aj retrospektívnych štúdií lepšiu prognózu, lepšie
+odpovedajú na liečbu, dosahujú dlhšie prežitie, majú nižší výskyt lokálnych a
+regionálnych recidív.
+V prípade štádia T1-2, N1 je možné použitie kuratívnej rádioterapie v konkomitancii so
+systémovou liečbou. Systémovú liečbu je možné vynechať u T1, N1 HPV asociovaných
+tumorov. Ďalšou možnosťou je operačné riešenie - excízia primárneho nádoru (často
+transorálna) a jednostranná alebo bilaterálna krčná disekcia. Ďalší postup potom závisí
+od rizikových faktorov. Pri ich neprítomnosti nasleduje sledovanie.
+
+62
+
+V prípade ich prítomnosti nasleduje adjuvantná rádioterapia alebo konkomitantná
+chemoradioterapia. Rizikovými faktormi sú:
+•
+
+jedna patologická uzlina nad 3 cm, alebo viac pozitívnych uzlín
+
+•
+
+perineurálne šírenie
+
+•
+
+lymfangioinvázia
+
+•
+
+vaskulárna invázia/embolizácia
+
+•
+
+pozitívne lymfatické uzliny a pozitívny okraj a extrakapsulárne šírenie
+
+V prípade extrakapsulárneho šírenia je indikovaná konkomitantná chemoradioterapia bez
+ohľadu na HPV status. Pri pozitívnom okraji sa zvažuje reexcízia alebo rádioterapia, s
+navýšením dávky na pozitívny okraj, alebo rádioterapia kombinovaná so systémovou
+liečbou. Pri vyšších štádiách choroby T3/4 N+ je preferovaná kuratívna rádioterapia so
+systémovou liečbou na báze cisplatiny (trojtýždňové alebo týždenné podanie). V prípade
+reziduálnej
+
+choroby
+
+nasleduje
+
+operácia.
+
+Zhodnotenie
+
+liečebného
+
+efektu
+
+je
+
+najoptimálnejšie po 12 týždňoch od ukončenia chemoradioterapie Pooperačná
+rádioterapia alebo chemoradioterapia nasleduje v závislosti od prítomnosti rizikových
+faktorov po primárnom operačnom riešení - podľa odporúčaní. Najrizikovejšie z nich sú
+extrakapsulárne extenzie a/alebo pozitívne tu má nasledovať konkomitantná
+chemorádioterapia. Tá je indikovaná aj pri náleze ďalších rizikových faktorov, pri
+rozsiahlom uzlinovom postihnutí alebo pri kombinácii menších rizikových faktorov.
+Aplikované dávky:
+•
+
+externá rádioterapia 50 Gy + intersticiálna brachyterapia 20-30 Gy
+
+•
+
+IMRT, VMAT – 70-72 Gy á 1,8 Gy/fr , s CHT
+
+•
+
+Simultánni boost na primárny tumor, tzv. akcelerovaná rádioterapia (PTV1 1,8
+Gy/fr, PTV2 2 Gy/fr, PTV3 2,2 Gy/fr)
+
+•
+
+Hyperfrakcionácia – 81,6 Gy, 2xdenne, 1,2 Gy
+
+63
+
+Obr. 29
+4.5 Rádioterapia hypofaryngu
+Pre potreby stagingu je hypofarynx rozdelený na tri oblasti:
+•
+
+pyriformný sinus (najčastejšie miesto karcinómu hypofaryngu)
+
+•
+
+laterálna a zadná stena laryngu
+
+•
+
+poskrikoidná oblasť
+
+Voľba konkrétnej liečebnej modality je závislá na lokalizácii a rozsahu nádoru, jeho
+šírení, stave regionálnych uzlín či vzdialených metastáz, potenciálnej resekabilite, na
+riziku mutilácie a kvalite života po chirurgickom výkone, celkového stavu pacienta,
+vrátane nutričného stavu a veku. U skorých štádií (T1 a vybraných T2 léziu bez
+postihnutých uzlín), ktoré nevyžadujú totálnu laryngektómiu, je možnosti voľby
+kuratívnej rádioterapie. Ak sú prítomné negatívne prognostické faktory (extrakapsulárne
+šírenie a/alebo pozitívny okraj) operáciu nasleduje adjuvantná chemoradioterapia. V
+prípade iba pozitívnych okrajov je možné zvážiť reexcíziu.
+Pri štádiu T2-4. ktoré vyžadujú totálnu laryngektómiu alebo u nádorov T1 s postihnutím
+lymfatických uzlín, je liečebnou možnosťou konkomitantná chemoradioterapia na báze
+cisplatiny s možnosťou voľby indukčnej chemoterapie (3 cykly TPF) s následnou
+rádioterapiou. Pokiaľ je dosiahnutá kompletná, alebo aspoň parciálna remisia primárneho
+tumoru, volí sa larynx záchovný postup s kuratívnou rádioterapiou alebo v prípade
+parciálnej odpovede primárneho tumoru chemoradioterapiou. Ak je dosiahnutá po
+aplikácii indukčná chemoterapia regresia menej ako parciálna, potom sa volí chirurgická
+resekcia s krčnou disekciou a adjuvantnou rádioterapiou (pokiaľ nie sú prítomné rizikové
+64
+
+faktory) alebo chemoradioterapiou (pri pozitívnych okrajoch alebo extrakapsulárnom
+šírení). Pri inoperabilte je indikovaná konkomitantná chemorádioterapia.
+Aplikované dávky:
+•
+•
+
+Radikalná rádioterapia 70 Gy.
+adjuvantná rádioterapia: nízke riziko 54 Gy ,stredné riziko 60 Gy ,vysoké riziko
+66 Gy
+
+Technika terapie:
+•
+•
+
+IMRT
+VMAT
+
+4.6 Rádioterapia laryngu
+Larynx sa delí na tri lokality, ktoré sa odlišujú lymfatickým zásobením, správaním nádoru
+a spôsobom liečby.
+•
+
+Supraglottis
+
+Včasné supraglotické nádory sú liečené primárnou rádioterapiou alebo chirurgiou.
+•
+
+Glottis
+
+Karcinómy hlasiviek zahŕňajú až dve tretiny všetkých nádorov laryngu. Lymfatická
+drenáž v tejto oblasti je menšia a nádory včasnom štádiu len zriedka metastazujú do
+regionálnych uzlín. Pre invazívni karcinóm chirurgia (parciálna larygek tomia) a
+rádioterapia sú rovnako účinné pre skoré štádiá nádorov v oblasti glotis alebo supraglotis.
+•
+
+Subglottis
+
+Tradičným liečebným postupom je chirurgický výkon – totálna laryngektómia s
+bilaterálnou krčnou disekciou a obyčajne aj pooperačná rádioterapia. Do cieľového
+objemu sa odporúča zahrnúť aj horné mediastinálne uzliny.
+Pokročilé nádory – konzervatívna liečba s cieľom zachovať hrtan – rádiochemoterapia.
+Aplikované dávky:
+•
+
+Primárny nádor 70 Gy.
+
+•
+
+Adjuvantná rádioterapia: nízke riziko 54Gy, stredné riziko 60Gy, vysoké riziko
+66 Gy
+
+•
+
+Konvenčná rádioterapia 66 Gy.
+65
+
+•
+
+Hypofrakcionovaná rádioterapia 55 Gy/16 fr
+
+Technika terapie:
+•
+
+IMRT
+
+•
+
+VMAT
+
+Obr. 30
+
+66
+
+ZÁVER
+
+Môžeme byť radi, že v tomto období existujú rôzne diagnostické a liečebné metódy,
+vďaka ktorým sa podarilo vyliečiť už nejedného pacienta. Tieto technológie sa vďaka
+úžasným odborníkom čoraz viac zlepšujú a rozvíjajú, aby zlepšili kvalitu nášho života.
+Na začiatok mojej práce som sa zameral na anatómiu jednotlivých častí ústnej dutiny
+a pažeráka. V druhej kapitole som opísal najčastejšie ochorenia ústnej dutiny
+a pažeráka. V tejto oblasti sú veľmi časté cysty, nádorové a zápalové ochorenia. Pri
+každom ochorení som sa snažil uviesť stručnú charakteristiku, príznaky a rizikové
+faktory, ktoré môžu byť príčinami týchto ochorení. Každé ochorenie by malo byť
+diagnostikované a následne vyliečené. Na diagnostiku sú využívané rôzne zobrazovacie
+metódy.
+V tretej kapitole som začínal rádiodiagnostickými metódami v stomatológii. V tomto
+odbore využívajú intraoralné a extraoralné snímky. V dnešnej dobe skoro každá zubná
+ambulancia má svoj röntgenový prístroj. Röntgenové vyšetrenie v zubnom lekárstve je
+indikované vtedy, keď klinickým vyšetrením nevieme pacienta dostatočne vyšetriť.
+Najčastejšie sú indikované záhryzové (Bite-Wing) a OPG snímky. Tieto snímky sú
+využívané na prevenciu, diagnostiku, liečbu a na kontrolu. Ďalej som pokračoval
+opisom CT a MRI vyšetrenia. CT a MRI vyšetrenia majú veľké využitie v tejto oblasti,
+indikované môžu byť v zubnom lekárstve, pri ochoreniach slinných žliaz, pažeráka a pri
+zápalových a nádorových ochoreniach hlavy a krku. Rozdielom je v tom, že MRI
+zobrazuje oveľa lepšie mäkké tkanivá ako CT vyšetrenie, ale finančne je menej
+výhodné. Do tejto kapitoly som zaradil aj ultrasonografické vyšetrenie, ktoré je často
+prvou voľbou lekára. Endoskopické vyšetrenie je indikované pri ochoreniach pažeráka.
+Ak je to potrebné, tak počas endoskopického vyšetrenia odoberajú malé kúsky na
+biopsiu. Endoskopické vyšetrenie je nepríjemné pre pacienta, ale pomocou neho
+dokážeme diagnostikovať veľkou presnosťou dané ochorenia. Posledná podkapitola je
+venovaná nukleárnej medicíny. Spomenul som 3 druhy vyšetrenia, scintigrafia slinných
+žliaz, PET/CT a rádionuklidové vyšetrenie kinetiky horného GITu. V nukleárnej
+medicíne je do pacienta aplikované rádiofarmakum. Pri týchto vyšetreniach som sa
+zameral hlavne na prípravu pacienta a postup vyšetrenia.
+
+67
+
+V poslednej kapitole som sa zameral na terapeutické a intervenčné metódy. Začal som
+s nevaskulárnou intervenciou v oblasti pažeráka, kde som poukázal na možné
+komplikácie, indikácie a kontraindikácie. V tejto kapitole zohráva hlavnú rolu
+rádioterapia. Rádioterapia je liečebná metóda, ktorá sa používa na liečenie
+onkologických ochorení. Po prvé som charakterizoval rádioterapiu pažeráka, uviedol
+som možné kombinácie s chemoterapiou. Podľa štádia ochorenia som pridal možné
+druhy výberu terapie, denné a celkové dávky podľa druhu terapie a techniky žiarenia.
+Rádioterapia ústnej dutiny, orofaryngu, hypofaryngu, laryngu a slinných žliaz patria tiež
+do tejto oblasti. V týchto podkapitolách som začal stručnou charakteristikou, výberom
+druhu terapie podľa štádia ochorenia. K jednotlivým druhom terapii som priradil denné
+a celkové dávky žiarenia a techniky žiarenia.
+Písaním mojej bakalárskej práce som sa dozvedel mnoho zaujímavých informácii,
+ktoré mi rozšírili moje vedomosti v tomto odbore.
+
+68
+
+ZOZNAM POUŽITEJ LITERATÚRY
+Knižné zdroje a články z časopisov:
+
+1. Alain Cunqueiro, William A. Gomes, Peter Lee, R. Joshua Dym, Meir H. Scheinfeld.
+2019. CT of the Neck: Image Analysis and Reporting in the Emergency Setting.
+Dostupné na internete: <https://doi.org/10.1148/rg.2019190012>
+2. A Larnaudie , P-Y Marcy, N Delaby, V Costes Martineau , I Troussier , R-J
+Bensadoun, S Vergez , S Servagi Vernat , J Thariat. 2021. Radiotherapy of salivary
+gland tumours. PMID: 34953702. DOI: 10.1016/j.canrad.2021.08.012.
+3. Daniel E Bujanda, Christine Hachem. 2018. Barrett's Esophagus. PMID: 30228724.
+PMCID: PMC6140158.
+4. Daniela Alterio, Giulia Marvaso, Annamaria Ferrari, Stefania Volpe, Roberto
+Orecchia, Barbara Alicja Jereczek-Fossa. 2019. PMID: 31378376.
+DOI: 10.1053/j.seminoncol.2019.07.002.
+5. Divi Cornec, Sandrine Jousse-Joulin, Jacques-Olivier Pers, Thierry
+Marhadour, Béatrice Cochener, Sylvie Boisramé-Gastrin, Emmanuel Nowak, Pierre
+Youinou, Alain Saraux, Valérie Devauchelle-Pensec. 2013. Contribution of salivary
+gland ultrasonography to the diagnosis of Sjögren's syndrome: toward new diagnostic
+criteria?. PMID: 23108632. DOI: 10.1002/art.37698.
+6. Dr Mohamed Saber. 2021. CT esophagography. DOI: https://doi.org/10.53347/rID87236.
+7. DYLEVSKÝ, I. 2009. Funkční anatomie. Vydala: Grada Publishing, a.s., v Prahe.
+ISBN 978-80-247-3240-4.
+8. ĎUROVIČ, E. 1992. Atlas stomatologickej rádiodiagnostiky. VYDAVATEĽSTVO
+OSVETA, š. p., v Martine. ISBN 80-217-0496-9.
+9. Elena Bolješíková, Ľudmila Ševčíková, Peter Šiška. 2010. Rádioterapia karcinómu
+pažeráka. Dostupné na internete: <7) Rádioterapia karcinómu pažeráka –
+Gastrointestinálna onkológia (infoma.sk)>
+69
+
+10. Ewa J. Bialek, Wieslaw Jakubowski, Piotr Zajkowski, Kazimierz T.
+Szopinski, Antoni Osmolski. 2006. US of the Major Salivary Glands: Anatomy and
+Spatial Relationships, Pathologic Conditions, and Pitfalls. Dostupné na internete:
+<https://doi.org/10.1148/rg.263055024>
+11. GAZDÍKOVÁ, K. 2019 Vnútorné lekárstvo pre zdravotnícke odbory.
+Vydavateľstvo Osveta, spol. s. r. o., v Martine. ISBN 978-80-8063-479-7.
+12. Ivan M. Buzurovic, Borbala Daroczi, Desmond A. O’Farrell, Mandar S. Bhagwat
+and Phillip M. Devlin. 2016. Radiation Therapy for Esophageal Cancer. Dostupné na
+internete: <Radiation Therapy for Esophageal Cancer | IntechOpen>
+13. KOVAĽOVÁ, E.- BIROŠ, P.- DŘÍHAL, I.- ABELOVSKÝ, P. 2005. Dentálna
+rádiografia v praxi. Vydavateľ: Pavol Šidelský – Akcent print. ISBN 80-969274-7-7.
+14. Kristen A Echanique, Lauran K Evans , Albert Y Han, Dinesh K Chhetri, Maie A St
+John. 2021. Cancer of the Larynx and Hypopharynx. PMID: 34272102.
+DOI: 10.1016/j.hoc.2021.05.005.
+15. Laura Q M Chow. 2020. Head and Neck Cancer. PMID: 31893516.
+DOI: 10.1056/NEJMra1715715.
+16. LEPEJ, J.- LACKO, A. 2018. Nukleárna medicína III. Vydavateľ: EQUILIBRIA,
+s.r.o., Košice. ISBN 978-80-8143-232-3.
+17. Matthew W Short, Kristina G Burgers, Vincent T Fry. 2017. Esophageal Cancer.
+PMID: 28075104. Dostupné na internete: <Esophageal Cancer - PubMed (nih.gov)>
+18. Pia Afzelius, Ming-Yuan Nielsen, Caroline Ewertsen, Klaus Poulsen Bloch. 2014.
+Imaging of the major salivary glands. PMID: 25319072. DOI: 10.1111/cpf.12199
+Dostupné na internete: <Sci-Hub | Imaging of the major salivary glands |
+10.1111/cpf.12199 (hkvisa.net)>
+19. Ravi Shridhar, Khaldoun Almhanna, Kenneth L Meredith, Matthew C
+Biagioli, Michael D Chuong, Alex Cruz, Sarah E Hoffe. 2013. Radiation therapy and
+esophageal cancer. PMID: 23571700. DOI: 10.1177/107327481302000203.
+
+70
+
+20. Rosa Fonti, Manuel Conson, Silvana Del Vecchio. 2019. PET/CT in radiation
+oncology. PMID: 31378377. DOI: 10.1053/j.seminoncol.2019.07.001.
+21. Sharon D'souza, Veeranjaneyulu Addepalli. 2018. Preventive measures in oral
+cancer: An overview. PMID: 30081204 .DOI: 10.1016/j.biopha.2018.07.114.
+22. ŠLAMPA, P. 2021. Radiační onkologia. Vydal: Maxdorf s.r.o., v Prahe.
+ISBN 978-80-7345-674-0.
+23. Tiziana Rancati, Marco Schwarz, Aaron M. Allen, Felix Feng, Aron
+Popovtzer, Bharat Mittal, Avraham Eisbruch. 2010. Radiation Dose Volume Effects in
+the Larynx and Pharynx. PMID: 20171520. doi: 10.1016/j.ijrobp.2009.03.079.
+24. Toufic Kachaamy, Rahul Pannala. 2016 Esophageal stents: when and how.
+PMID: 26824424. Dostupné na internete: <Esophageal stents: when and how - PubMed
+(nih.gov)>
+25. Yijun Luo, Qingfeng Mao, Xiaoli Wang, Jinming Yu, Minghuan Li. 2017.
+Radiotherapy for esophageal carcinoma: dose, response and survival. PMID: 29343986.
+doi: 10.2147/CMAR.S144687.
+26. Zeid Nesheiwat, Hina Akbar, Arslan Kahloon, Kunal Mahajan. 2021. Radiation
+Esophagitis. Dostupné na internete: <Radiation Esophagitis - StatPearls - NCBI
+Bookshelf (nih.gov)>
+
+71
+
+Internetové zdroje:
+
+Barrett’s Esophagus: What is it, Symptoms, Treatment & Tests (clevelandclinic.org)
+Upper Endoscopy: What Is It, Who Needs It, Risks & Benefits (clevelandclinic.org)
+Rakovina pažeráka: príčiny, príznaky, diagnostika a liečba (medlicker.com)
+Scanning_Protocol_US_DSUS-CMF-0817-0707.indd (llnwd.net)
+Magnetic Resonance Imaging (MRI) (nih.gov)
+Magnetic Resonance Imaging of the Head and Neck - What You Need to Know
+(drugs.com)
+Esophageal Imaging | Radiology Key
+Salivary Gland Scintigraphy (nuclearmed.site)
+Rakovina ústní dutiny: příznaky, léčba (karcinom ústní dutiny) - Vitalion.cz
+Esophageal Stent Procedure | Johns Hopkins Medicine
+Ochorenia pažeráka | Zdravotéka (zdravoteka.sk)
+Rakovina pažeráka: Prečo vzniká, ako sa prejavuje a lieči? | Zdravotéka (zdravoteka.sk)
+Ortopantomografie – WikiSkripta
+RTG v zubním lékařství – WikiSkripta
+protocol_SUB_En.pdf (pantheraimplant.com)
+Rakovina jazyka | Medicína, nemoci, studium na 1. LF UK (stefajir.cz)Cysty v ústní
+dutině (diente.cz)
+
+72
+
+

@@ -1,0 +1,2172 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE SV. ALŽBETY
+BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+170223
+
+KOMUNITNÁ PNEUMÓNIA AKO PROBLÉM VEREJNÉHO ZDRAVOTNÍCTVA
+
+BAKALÁRSKA PRÁCA
+
+2021
+
+VIVIEN STEFANKOVICSOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE SV. ALŽBETY
+BRATISLAVA
+ÚSTAV ZDRAVOTNÍCKYCH DISCIPLÍN
+
+KOMUNITNÁ PNEUMÓNIA AKO PROBLÉM VEREJNÉHO ZDRAVOTNÍCTVA
+
+BAKALÁRSKA PRÁCA
+
+Študijný program: Verejné zdravotníctvo
+Študijný odbor:
+
+5607 Verejné zdravotníctvo
+
+Školiteľ:
+
+doc. RNDr. Gertrúda Mikolášová, PhD.
+
+BRATISLAVA 2021
+
+VIVIEN STEFANKOVICSOVÁ
+
+Čestné vyhlásenie
+Čestne vyhlasujem, že som bakalársku prácu vypracovala samostatne za použitia uvedenej
+literatúry a rád vedúceho práce.
+V Gabčíkove, dňa
+--------------------------------
+
+ABSTRAKT
+STEFANKOVICSOVÁ,
+
+Vivien:
+
+Komunitná
+
+pneumónia
+
+ako
+
+problém
+
+verejného
+
+zdravotníctva. [Bakalárska práca] / Vivien Stefankovicsová – Vysoká škola zdravotníctva
+a sociálnej práce sv. Alžbety Bratislava. Ústav zdravotníckych disciplín. – Školiteľ: doc.
+RNDr. Gertrúda Mikolášová, PhD. Stupeň odbornej kvalifikácie: Bakalár verejného
+zdravotníctva. – Bratislava : Ústav zdravotníckych disciplín, 2021, 52 str.
+Bakalárska práca sa zaoberá komunitnou pneumóniou, čo je druh zápalu pľúc vzniknutý
+mimo
+
+nemocničných
+
+priestorov
+
+alebo
+
+získaný
+
+krátko
+
+po
+
+hospitalizácií.
+
+Popisuje jeho druhy, šírenie a epidemiológiu ochorenia u nás aj v zahraničí. Zaoberá sa
+spôsobmi diagnostikovania tohto ochorenia a charakterizovaním pôvodcov, ktoré
+pneumóniu spôsobujú. Tretia kapitola je zameraná na liečbu, jej spôsoby a kritériá nutnosti
+hospitalizácie. Nasledujúca kapitola objasňuje rizikové faktory ochorenia, ktoré môžu
+spôsobiť
+
+komplikácie,
+
+priebeh
+
+ochorenia
+
+u imunokompromitovaných
+
+pacientov
+
+a pacientov trpiacich okrem pneumónie aj na iné ochorenia. Posledná časť práce popisuje
+vakcináciu ako najúčinnejší spôsob predchádzania pneumónie a vymenováva ďalšie
+preventívne opatrenia. Komunitná pneumónia je najčastejšie sa vyskytujúci druh zápalu
+pľúc a často spôsobuje smrť pacienta, preto je dôležité venovať tomuto ochoreniu
+dostatočnú pozornosť.
+Kľúčové slová: komunitná pneumónia, imunitná nedostatočnosť, patogény
+
+ABSTRACT
+STEFANKOVICSOVÁ, Vivien: Community-acquired pneumonia as a problem of public
+health.[Bachelor thesis]/ Vivien Stefankovicsová. – University of Health and Social Work
+st. Elisabeth in Bratislava. Institute of Healthcare Disciplines. – Consultant: doc. RNDr.
+Gertrúda Mikolášová, PhD. Degree qualifications: Bachelor of Public Health. – Bratislava:
+Institute of Medical disciplines, 2021, 52 pp.
+The bachelor thesis deals with community-acquired pneumonia, which is a type of
+pneumonia arising outside hospital premises or acquired shortly after hospitalization.
+It describes its types, spread and epidemiology of the disease in our country and abroad. It
+deals with ways of diagnosing this disease and characterizing the pathogens that cause
+pneumonia. The third chapter focuses on treatment, its methods and criteria for the need
+for hospitalization. The following chapter explains the risk factors for the disease, which
+can cause complications, the course of the disease in immunocompromised patients and
+patients suffering from other diseases in addition to pneumonia. The last part of the work
+describes vaccination as the most effective way to prevent pneumonia and lists other
+preventive measures. Community-acquired pneumonia is the most common type of
+pneumonia and often causes the death of the patient, so it is important to pay sufficient
+attention to this disease.
+
+Key words: community aquired pneumonia, immune deficiency, pathogens
+
+Obsah
+ZOZNAM TABULIEK ..................................................................................................................8
+ZOZNAM SKRATIEK ..................................................................................................................9
+ÚVOD ......................................................................................................................................... 10
+1. PNEUMÓNIA AKO DRUH RESPIRAČNÉHO OCHORENIA .............................................. 11
+1.1 Popis ochorenia ..................................................................................................................... 11
+1.2 História pneumónie ............................................................................................................... 11
+1.3 Epidemiológia ochorenia ....................................................................................................... 13
+1.4 Druhy pneumónie .................................................................................................................. 14
+2. DIAGNOSTIKA PNEUMÓNIE.............................................................................................. 16
+2.1 Spôsoby diagnostikovania ..................................................................................................... 16
+2.2 Pravdepodobné patogény komunitných pneumónií ................................................................ 17
+2.3 Špecifické mikrobiálne agensy pneumónií ............................................................................. 19
+3. LIEČBA PNEUMÓNIE .......................................................................................................... 24
+3.1 Ambulantná liečba ................................................................................................................ 24
+3.2 Komunitná pneumónia vyžadujúca hospitalizáciu .................................................................. 24
+3.3 Antibiotická liečba ................................................................................................................ 29
+3.4 Iné spôsoby liečby ................................................................................................................. 30
+4. RIZIKOVÉ FAKTORY OCHORENIA ................................................................................... 32
+4.1 Rizikové faktory u imunokompromitovaných pacientov ........................................................ 34
+4.2 Komplikácie pneumónie ........................................................................................................ 36
+5. PREVENCIA ........................................................................................................................... 39
+5.1 Každodenná prevencia .......................................................................................................... 39
+5.2 Vakcinácia ............................................................................................................................ 40
+5.3 Očkovacie látky ..................................................................................................................... 43
+DISKUSIA .................................................................................................................................. 45
+ODPORÚČANIA PRE PRAX ..................................................................................................... 47
+ZÁVER ....................................................................................................................................... 48
+ZDROJE ...................................................................................................................................... 49
+
+ZOZNAM TABULIEK
+
+Tabuľka č. 1 Najčastejší pôvodcovia komunitnej pneumónie
+
+18
+
+Tabuľka č. 2 Etiológia komunitnej pneumónie
+
+19
+
+Tabuľka č. 3 Kritériá na tachypnoe u detí podľa WHO
+
+27
+
+Tabuľka č. 4 Klasifikácia pacientov s komunitnou pneumóniou
+podľa systému PSI
+
+28
+
+Tabuľka č. 5 Riziko úmrtnosti podľa systému PSI
+
+29
+
+Tabuľka č. 6 Klasifikácia pacientov s komunitnou pneumóniou
+podľa systému CURB – 65
+
+29
+
+Tabuľka č. 7 Odporúčané antibiotiká na cielenú liečbu komunitnej pneumónie 31
+Tabuľka č. 8 Faktory spojené so zvýšeným rizikom pneumokokových ochorení
+u dospelých
+
+34
+
+Tabuľka č. 9 Možné imunodeficity u imunokompromitovaných pacientov,
+ich druhy a príslušné patogény
+
+36
+
+Tabuľka č. 10 Rizikové skupiny, pre ktoré je odporúčané očkovanie
+pneumokokovými vakcínami
+
+43
+
+ZOZNAM SKRATIEK
+
+BMI – Body mass index (Index telesnej hmotnosti)
+CHOCHP – Chronická obštrukčná choroba pľúc
+CRP – C-reaktívny proteín
+CT – Computer tomography (Počítačová tomografia)
+EÚ – Európska únia
+HIV – Human immunodeficiency virus (Ľudský vírus imunitnej nedostatočnosti)
+JIS – Jednotka intenzívnej starostlivosti
+PCT – Prokalcitonín
+RSV – Respiračný syncytiálny vírus
+RTG – Röntgenové vyšetrenie
+USA – United States of America (Spojené štáty americké)
+WHO – World Health Organization (Svetová zdravotnícka organizácia)
+
+9
+
+ÚVOD
+Pneumónia je známe ochorenie respiračného systému vyžadujúce si neustálu pozornosť.
+Vyskytuje sa po celom svete vo všetkých vekových kategóriách a bolo známe už v histórii
+ľudstva. Zápal pľúc považujeme za jedno z najzávažnejších chorôb, pretože aj napriek
+postupne sa rozvíjajúcemu zdravotníctvu, spôsobov diagnostiky a vývoju nových liekov je
+úmrtnosť pacientov trpiacich na túto chorobu vysoká. Mortalita je najvyššia v menej
+vyspelých krajinách s nedostatočnou zdravotnou starostlivosťou.
+Cieľom práce je priblížiť samotné ochorenie a jeho konkrétny druh – komunitnú
+pneumóniu. Porovnať epidemiologickú situáciu na Slovensku a v okolitých krajinách.
+Dôležité je poznať prvé príznaky pneumónie práve z dôvodu, aby sa predišlo neskorej
+liečbe, vzniku komplikácií alebo aj smrti pacienta. V bakalárskej práci sme uviedli druhy
+diagnostických metód, ktoré sa v zdravotníctve využívajú na čo najpresnejšie určenie
+prítomnosti a príčiny vzniku infekcií u človeka. Zamerali sme sa taktiež na liečbu, ktorá je
+pri voľnejšom priebehu ochorenia ambulantná, pri komplikáciách a ťažšom priebehu je
+však potrebná hospitalizácia, o ktorej rozhoduje lekár. Avšak skoro nikdy sa nezaobíde bez
+užívania antibiotík, ktoré sme tiež podrobnejšie popísali v práci. Komplikácie počas liečby
+ochorenia spôsobuje prítomnosť inej choroby, ktorá môže ovplyvniť priebeh a taktiež
+liečbu.
+Popísali sme možnosť vývinu komunitnej pneumónie aj u imunokompromitovaných
+pacientov, u ktorých je priebeh pneumónie ako aj iného ochorenia komplikovanejší
+vzhľadom na prítomnosť imunitnej nedostatočnosti. Medzi hlavné úlohy verejného
+zdravotníctva patrí ochrana zdravia človeka a prevencia chorôb, medzi nimi aj pneumónie.
+V práci sme charakterizovali každodenné preventívne opatrenia a vakcináciu ako hlavný
+a najúčinnejší spôsob prevencie. Popísali sme jednotlivé druhy vakcín dostupné na
+Slovensku, spôsob podania, dĺžku ich účinku, aj niektoré možné vedľajšie účinky.
+
+10
+
+1. PNEUMÓNIA AKO DRUH RESPIRAČNÉHO OCHORENIA
+
+1.1 Popis ochorenia
+Pneumónia je zápalové ochorenie pľúcneho tkaniva postihujúce respiračné bronchioly,
+pľúcne alveoly a pľúcne interstícium. Hovoríme o zápaloch infekčného typu. Neinfekčná
+pneumónia je pomenovaná ako pneumonitída. Z klinického hľadiska definujeme
+pneumóniu ako kombináciu nového alebo už existujúceho infiltrátu v pľúcach zisteného
+pomocou zobrazovacích diagnostických metód (CT, RTG hrudníka) a minimálne dvoch
+príznakov infekcie dýchacích ciest (kašeľ, dýchavičnosť, bolesť na hrudníku, teplota...).
+(Jakubec & Kolek, 2018)
+Komunitná pneumónia je druh zápalu pľúc, ktorý je získaný mimo hospitalizácie
+v nemocnici a poskytovania zdravotníckej starostlivosti v akomkoľvek zdravotníckom
+zariadení. Pacient takisto nebol v kontakte s infikovanou osobou, neužíval antibiotiká,
+chemoterapeutiká, nepodstúpil hemodialyzačnú alebo infúznu liečbu za posledných 30 dní.
+Za komunitnú pneumóniu považujeme aj zápal, ktorý sa prejaví do 48 hodín odo dňa
+hospitalizácie. (Kajtár, 2015)
+
+1.2 História pneumónie
+Pneumónia bola v histórií ľudstva bežným ochorením. Názov pochádza z gréckeho slova
+πνεύμων (pneúmōn), čo je pomenovanie pre „pľúca“. Hippokrates bol prvý, kto popísal
+príznaky pneumónie. O zápale pľúc sa hovorilo v prípade, keď bola prítomná akútna
+horúčka, bolesť hrudníka, vykašliavanie spúta žltkastej až bledej farby
+
+riedkej
+
+konzistencie, v určitých prípadoch penivého alebo akéhokoľvek iného charakteru
+odlišného od bežného. Ak pneumónia vyústila do štádia, že boli prítomné dyspnoe, riedky
+moč a pálenie pri močení, bolo spozorované zvýšené potenie pacienta v oblasti krku
+a hlavy, znamenalo to nevyliečiteľný stav a vo väčšine prípadov toto štádium ochorenia
+končilo smrťou. Hippokrates označoval pneumóniu ako „chorobu seniorov“. Taktiež
+oboznámil s dôsledkami chirurgického odstraňovania hnisu.
+Maimonides spozoroval, že základné príznaky pneumónie, ktoré pri tomto ochorení nikdy
+nechýbajú sú akútna horúčka, bolesť či pichanie v boku, krátke nádychy a dýchavičnosť,
+zrýchlený pulz a kašeľ. Tento popis je dosť podobný dnešnej charakteristike pneumónie,
+keďže aj dnešné literárne zdroje v podobe kníh alebo učebníc sa odvíjali od lekárskych
+poznatkov, ktoré boli známe už v 19. Storočí. Edwin Klebs ako prvý spozoroval baktérie
+11
+
+v dýchacích cestách ľudí, ktorí zomreli na pneumóniu roku 1875. Popísali sa prvé dve
+baktérie Streptococcus pneumoniase a Klebsiella pneumoniae. Predstaviteľmi boli Carl
+Friedländer
+
+a Albert Fraenkel v rokoch 1882 až 1884. Friedländer predstavil aj
+
+laboratórnu vyšetrovaciu metódu Farbenie podľa Grama, ktorá sa dodnes využíva na
+identifikáciu a kategorizáciu baktérií. Dokument Christiana Grama uvádzajúci postup v
+roku 1884 pomohol odlíšiť tieto dve baktérie a ukázal, že zápal pľúc môže byť spôsobený
+viac ako jedným mikroorganizmom.
+William Osler, známy ako „otec modernej medicíny“ uznal smrť a zdravotné postihnutie
+spôsobené pneumóniou a vyhlásil tuberkulózu za jednu z hlavných príčin smrti v tom
+období. Pneumóniu nazýval aj ako „priateľ starších“, pretože smrť bola často rýchla
+a bezbolestná oproti iným ochoreniam, kvôli ktorým ľudia zomierali pomalšie a často
+s veľkými bolesťami.
+Vírusovú pneumóniu ako prvý popísal Hobart Reimann v roku 1938. Ako predseda
+lekárskeho oddelenia na Jeffersonovej lekárskej fakulte zaviedol prax rutinnej typizácie
+pneumokokového organizmu pre prípad, keď sa zjavili prvé príznaky pneumónie
+u človeka. Podľa tohto sa potom stanovoval rozdiel medzi vírusovými a bakteriálnymi
+kmeňmi. Niektoré vývojové trendy toho obdobia viditeľne zlepšili priebeh pneumónie
+a priaznivo ovplyvnili aj liečbu ochorenia. Príchodom penicilínu a iných antibiotík,
+moderných chirurgických technológií a intenzívnej starostlivosti v 20. storočí prudko
+klesla aj úmrtnosť pacientov so zápalom pľúc, ktorá predtým predstavovala približne 30%.
+Očkovanie detí proti Haemophilus influenzae typu b sa začalo v roku 1988, čo viedlo
+k náhlemu poklesu prípadov nákazy. Vakcinácia dospelých proti Streptococcus
+pneumoniae sa začalo v roku 1977 a u detí v roku 2000, čo malo za následok podobný
+pokles počtu chorých. (Wikipedia, 2020)
+
+12
+
+1.3 Epidemiológia ochorenia
+Pneumónia je ochorenie väčšinou infekčného pôvodu a prenáša sa kvapôčkovou cestou. Aj
+napriek širokému spektru dostupných antibiotík a spôsobov liečby je pneumónia jednou
+z najčastejších infekčných ochorení, ktoré sú príčinou smrti či už u nás alebo v iných
+Európskych krajinách. Celosvetovo je pneumónia treťou najčastejšou príčinou všetkých
+úmrtí. Ročne na túto chorobu umiera od 3 do 5 milióna pacientov. Výrazné zvýšenie
+výskytu ochorenia môžeme spozorovať najmä v období chrípkovej epidémie. (Pauk, 2010)
+Výskyt komunitnej pneumónie predstavuje od 5 do 11 prípadov na 1000 obyvateľov.
+Komunitná pneumónia tvorí približne 90% všetkých druhov pneumónií. Najčastejšie sa
+vyskytuje u detí vo veku do 5 rokov alebo u starších osôb, u ľudí fajčiarov a u chronicky
+chorých pacientov alebo pacientov s imunitnou nedostatočnosťou. (Jakubec & Kolek,
+2018)
+Podľa štatistík za rok 2014 sme zistili, že z celkového počtu nahlásených úmrtí v rámci
+Európskej únie, čo predstavuje 4,9 milióna ľudí, zomrelo 118 300 osôb práve na zápal
+pľúc. Počet žien bol 59 900, mužov bolo o niečo menej, 58 400. Až 90 % zo všetkých
+úmrtí boli pacienti starší ako 65 rokov, čiže predstavovali rizikovú skupinu. Mnohí
+z pacientov, ktorí majú pneumóniu, sa musia hospitalizovať. Z hospitalizovaných seniorov
+zomiera až 14% a vyše polovica z nich má komplikovaný priebeh ochorenia kedy sa
+pridružuje aj septický šok. Počet celkovo hospitalizovaných pacientov v Európe sa
+pohybuje okolo 2,9 z 1000 jedincov. Zo všetkých členských štátov Európskej únie sme
+zaznamenali najviac úmrtí na pneumóniu v Spojenom kráľovstve, a to 28 200 osôb, čo je
+približne 24% všetkých prípadov smrti na zápal pľúc v Európskej únií. Potom nasleduje
+Nemecko so 16 700 obyvateľmi, t.j. 14%, v Poľsku to bolo 12 300 ľudí, čo je 10%,
+Francúzsko s 9% malo 11 100 úmrtí, Taliansko 8% s 9 100 a Španielsko s 8 400 prípadmi
+smrti, čo predstavuje len 7% z celkového počtu úmrtí na zápal pľúc v rámci Európskej
+únie. Naopak, Fínsko je krajinou, kde bola úmrtnosť pacientov trpiacich pneumóniou
+najnižšia. Potom nasledovali Grécko, Rakúsko, Maďarsko a Chorvátsko, kde zomrelo
+najmenej pacientov infikovaných patogénmi spôsobujúcich zápal pľúc. Pre správne a čo
+najpresnejšie výsledky ale treba brať do úvahy počet obyvateľov tej ktorej - krajiny,
+polohu a rozloženie a prispôsobiť štatistiku týmto údajom. Celkovo z týchto údajov
+vyplýva, že v priebehu roka 2014 bolo v rámci Európskej únie spolu 25 úmrtí na
+pneumóniu na 100 000 obyvateľov. (Eurostat, 2017)
+
+13
+
+Zo všetkých vyzdvihujeme rok 2012, kedy bolo na Slovensku nadpriemerne veľa prípadov
+smrti na zápal pľúc. V tomto roku však zaznamenali zhodou okolností aj významné
+zníženie očkovaní aj napriek tomu, že pre ľudí nad 59 rokov a pre chronicky chorých
+pacientov bez ohľadu na vek je očkovanie plne hradené zdravotnou poisťovňou. Kým
+celkový európsky priemer bol 19% zo všetkých úmrtí na pľúcne ochorenia, Slovensko
+evidovalo 31,5% a predbehlo ho len Portugalsko.
+Vo všeobecnosti patrí Slovensku druhá priečka v úmrtnosti na zápal pľúc v rámci celej
+Európskej únie. Celkovo ochorenia dýchacích ciest predstavovali v tomto roku 671 900
+prípadov v rámci Európskej únie, čo je 13% všetkých ochorení. Zo štatistík tiež vyplýva,
+že väčšiu časť populácie trpiacu na pľúcne choroby tvorili muži. Zo všetkých infikovaných
+pacientov zomrelo na pneumóniu 19%. (Mediweb, 2019)
+Ako sme už spomínali, komunitná pneumónia sa často vyskytuje aj u detí. Zdroje
+uvádzajú, že do jedného roka veku je to približne od 15 do 20 detských pacientov, od 1 do
+5 rokov okolo 30 až 40 prípadov a vo veku od 6 do 14 rokov 10 až 20 prípadov. Tieto
+údaje sú vyrátané na 1000 detí za obdobie jedného roka.
+Tak ako u dospelých pacientov aj u detí spôsobuje komunitná pneumónia v istých
+prípadoch smrť. Pri priebehu ochorenia bez komplikácií je mortalita pod 0,5%, avšak za
+prítomnosti rizikových faktorov až 30%. V rozvojových krajinách EÚ zomiera od 2 do 4
+miliónov detí vo veku do 5 rokov za rok. (Vančíková, 2008)
+Podľa Svetovej zdravotníckej organizácie je komunitná pneumónia najčastejšou príčinou
+úmrtia detí zo všetkých infekčných ochorení v rámci Európy. Aj keď výskyt ochorenia
+vďaka očkovaniu postupne klesá, stále sú ohrozené predčasne narodené deti, u ktorých
+hrozí rozvoj závažnejšej formy ochorenia. Preukázal sa aj fakt, že incidencia ochorenia je
+vyššia u chlapcov a to u všetkých vekových skupín. (Kuková & Duchoňová, 2013)
+
+1.4 Druhy pneumónie
+Klasifikácia pneumónie je možná z viacerých hľadísk. Podľa etiológie delíme pneumónie
+na infekčné - vírusové, bakteriálne, mykotické, protozoálne a neinfekčné (pneumonitídy) –
+aspiračné, inhalačné, postradiačné, intersticiálne, granulomatózne, hypersenzitívne
+a poliekové. Z klinicko – epidemiologického hľadiska rozdeľujeme pneumónie na
+14
+
+komunitné,
+
+nozokomiálne,
+
+pneumónie
+
+u imunokompromitovaných
+
+pacientov,
+
+ventilátorové a pneumónie v ústavoch sociálnej starostlivosti.
+Komunitná pneumónia je pneumónia získaná mimo nemocnice či iného zdravotníckeho
+zariadenia alebo pneumónia vyvinutá do 48 hodín od hospitalizácie. Predstavuje až 90%
+všetkých pneumónií. Celosvetovo sa pohybuje v rozmedzí od 5 do 11 prípadov na 1000
+obyvateľov. Vážnejší priebeh si vyžaduje hospitalizáciu, takýchto je okolo 20% zo
+všetkých prípadov.
+Nozokomiálna pneumónia je infekcia získaná v nemocničnom zariadení. Prejavy ochorenia
+sa objavujú od 48 hodín od hospitalizácie až 14 dní po prepustení. Najčastejším
+vyvolávateľom je Staphylococcus aureus, ale aj iné anaeróbne baktérie.
+Pneumónia u imunokompromitovaných pacientov – tento druh postihuje pacientov
+s oslabenou imunitou, s rôznymi imunitnými deficitmi, onkologicky chorých pacientov,
+pacientov, ktorý sú liečení chemoterapiou, rádioterapiou alebo podstúpili transplantácie
+kostnej drene, pľúc. Vyvolávateľmi sú vo väčšine prípadov Klebsiella pneumoniae,
+Legionella pneumophila, Pseudomonas aeruginosa, cytomegalovírus, RS vírus, Aspergillus
+fumigatus, Pneumocystis jirovecii, mikrobaktérie, Candida spp.
+V prípade aspirácie nozokomiálnych patogénov, ktoré sa nachádzajú v oblasti orofaryngu
+a žalúdka alebo anaeróbov (Peptostreptococcus spp., Bacteroides spp.) hovoríme
+o ventilátorovej pneumónií.
+Pneumónia v ústavoch sociálnej starostlivosti – pri tomto druhu pneumónie prevažujú
+gram-negatívne baktérie, Staphylococcus aureus, Klebsiella pneumoniae. Je tu riziko
+vzniku závažnejších infekcií. (Unilabs, 2017)
+Pneumonitída, neinfekčná pneumónia, sa vyskytuje zriedkavejšie ako pneumónia, má však
+široké spektrum príčiny vzniku. Aj keď je klinický obraz ochorenia mierny, niekedy
+spôsobuje toto ochorenie život ohrozujúci stav. Priebeh môže byť akútny, subakútny alebo
+chronický. Z etiologického hľadiska delíme pneumonitídu na aspiračnú, inhalačnú,
+iatrogénnu (polieková, postradiačná) a imunoaberačnú (alergická, autoimunitná). (Jakubec
+& Kolek, 2018)
+Vírusové, bakteriálne, mykotické pneumónie a pneumónie zapríčinené parazitmi tvoria
+špecifickú skupinu a ich podrobnejší popis nájdeme v nasledujúcej kapitole.
+15
+
+2. DIAGNOSTIKA PNEUMÓNIE
+
+Správna diagnostika akéhokoľvek ochorenia je veľmi dôležitým krokom pred začatím
+liečby. Podľa toho určujeme spôsob liečby a dávame pokyny k predchádzaniu komplikácií
+či vývinu ďalších chorôb. Prvým krokom pri diagnostike je vylúčenie iného ochorenia,
+ktoré môže ovplyvniť klinický obraz pneumónie. Ďalej je dôležitým faktorom prítomnosť
+chronického ochorenia dýchacích ciest, prekonaný zápal pľúc a iné komorbidity pacienta.
+Taktiež aktuálne ochorenia v rodine a cestovateľská anamnéza, pobyt v zdravotníckom
+zariadení za posledné dva týždne a čas objavenia sa prvých príznakov. Vykonáva sa
+mnoho fyzikálnych vyšetrení, rôzne laboratórne a zobrazovacie metódy, avšak aj bežné
+prejavy ochorenia dýchacích ciest môžu byť prvými príznakmi pneumónie. Patria sem
+kašeľ (takmer 100%), dýchavičnosť (od 60 do 70%), produkcia spúta (v 50% prípadov,
+môže ale chýbať pri vírusových a mykoplazmových pneumóniách), pleulárna bolesť (od
+50 do 60%), hemoptýza (50%). Prvé príznaky pneumónie nemusia mať iba respiračný
+charakter, prejavujú sa aj horúčkou, ospalosťou, bolesťou svalov a kĺbov a dokonca môže
+byť prítomný aj herpes simplex. (Dzúrik & Trnovec, 1997)
+
+2.1 Spôsoby diagnostikovania
+V prípade prítomných príznakov typických pre pneumóniu sú potrebné vyšetrenia
+a diagnostické metódy na potvrdenie ochorenia.
+Pri fyzikálnom vyšetrení sa zameriavame najmä na sluchové vyšetrenie hrudníka.
+Prítomnosť pneumónie potvrdí piskľavý zvuk pri dýchaní, celkovo sťažené dýchanie
+a vieme zistiť aj hlien v dýchacích cestách.
+Z laboratórnych vyšetrení sledujeme známky zápalu – je to predovšetkým hladina CRP
+v krvi. Pri zápale je jeho hladina zvýšená. Z pohľadu biochémie sa zápal podpisuje aj pod
+zvýšenú hladinu leukocytov a erytrocytov, zvýšenú hodnotu pečeňových testov, mierne
+príznaky dehydratácie organizmu a zhoršenú funkciu obličiek. Vyšetrenie krvných plynov
+by sme mali požadovať pri podozrení na respiračnú insuficienciu. O nej hovoríme vtedy,
+keď je saturácia kyslíka nameraná prstovým oxymetrom pod 92%.
+Skiagram hrudníka je ďalší možný spôsob diagnostikovania komunitnej pneumónie.
+Vyhotovujeme zadopredný a bočný obraz. O zápalovom procese svedčí čerstvý infiltrát
+a prítomnosť minimálne dvoch príznakov zápalu dýchacích ciest. Skiagram hrudníka môže
+16
+
+taktiež upozorniť na možný rozpadový proces, pleurálny výpotok či pleuropneumóniu.
+Falošný negatívny obraz môže vzniknúť v prípade dehydratácie, vykonania vyšetrenia
+v priebehu prvých 24 hodín od objavenia prvých príznakov komunitnej pneumónie alebo
+pri pneumónií spôsobenou Pneumocystis carinii, čiže vyvolávateľom zápalu pľúc
+u imunokompromitovaných pacientov alebo pri ťažkej neutropénií.
+Pri produktívnom kašli by sme mali vykašliavané spútum poslať na mikrobiologické
+vyšetrenie ešte pred nasadením empirickej antibiotickej liečby aj napriek tomu, že až
+u 50% všetkých prípadov sa z výsledkov vyšetrenia nedozvieme presného pôvodcu
+ochorenia. Rozbor odobraného exsudátu by sa mal urobiť do dvoch hodín od vykonania
+odberu. (Fibigr & Pauk, 2017)
+
+2.2 Pravdepodobné patogény komunitných pneumónií
+Zaradenie
+Gram – pozitívne
+
+Druh patogénu
+Streptococcus pneumoniae, Streptococcus
+pyogenes, Staphylococcus aureus
+
+Gram – negatívne
+
+Haemophilus influenzae, Moraxella
+catarrhalis, Enterobacteriaceae spp,
+Pseudomonas aeruginosa
+
+Atypické
+
+Mycoplasma pneumoniae, Legionella
+pneumophila, vírusy chrípky A a B,
+adenovírus
+
+Tabuľka č. 1 Najčastejší pôvodcovia komunitnej pneumónie (Sarbacker et al., 2018)
+Rezistentné pneumokoky sa najčastejšie vyskytujú u pacientov nad 65 rokov, u pacientov,
+ktorí boli v posledných týždňoch (presnejšie 90 dní) liečení betalaktámovými
+antibiotikami, u alkoholikov alebo u imunokompromitovaných pacientov či pacientov
+s viacerými
+
+ochoreniami
+
+so
+
+závažnejším
+
+priebehom.
+
+Haemophilus
+
+influenzae,
+
+Staphylococcus aureus, Legionella pneumophila či Enterobacteriaceae sa taktiež často
+vyskytujú u starších pacientov, dlhodobo chorých pacientov v rôznych domovoch
+a liečebniach a u pacientov s chronickou pľúcnou chorobou. Systémové užívanie antibiotík
+a kortikosteroidov
+
+môže
+
+tiež
+
+spôsobiť
+
+prítomnosť
+
+týchto
+
+patogénov.
+
+Pacienti
+
+s komorbiditou tvoria rovnako ohrozenú skupinu a môžu sa u nich jednotlivé patogény
+vyskytovať častejšie ako u zdravých jedincov. Pravdepodobná alebo dokázaná prítomnosť
+
+17
+
+aspirácie pri poruchách vedomia alebo zlá dentálna hygiena niekedy zapríčiňuje
+prítomnosť anaeróbnej flóry.
+Pseudomonas aeruginosa spôsobuje komunitnú pneumóniu najmä v prípade, keď sú
+prítomné iné ochorenia (CHOCHP, cystická fibróza) alebo pacient užíva alebo v nedávnej
+minulosti užíval širokospektrálne antibiotiká alebo kortikosteroidy. Malnutrícia je tiež
+rizikovým faktorom prítomnosti tohto patogénu. (Ľuboš Drgoňa a kol., 2007)
+Vyvolávateľ
+
+Percentuálne zastúpenie
+
+Streptococcus pneumoniae
+
+19,3%
+
+Klebsiella pneumoniae
+
+8,2%
+
+Mycoplasma pneumoniae
+
+11,3%
+
+Legionella pneumophila
+
+1,9%
+
+Haemophilus influenzae
+
+3,3%
+
+Chlamydophila pneumoniae
+
+8,0%
+
+Staphylococcus aureus
+
+0,2%
+
+Tabuľka č. 2 Etiológia komunitnej pneumónie (Tomášová, 2014)
+Z tabuľky vyplýva, že najčastejším pôvodcom komunitnej pneumónie je patogén
+Streptococcus pneumoniae. Spôsobuje pneumóniu najmä u veľmi mladých, alebo naopak
+u starších pacientov. Je vyvolávateľom aj mnohých iných ochorení. Je najčastejšou
+príčinou bakteriálnych meningitíd a druhým najčastejším pôvodcom zápalu stredného
+ucha. Paradoxne je zložkou fyziologickej mikroflóry horných dýchacích ciest a patogénom
+sa stáva len za určitých podmienok ako napr. oslabenie imunity.
+Mycoplasma pneumoniae je taktiež známy vyvolávateľ komunitnej pneumónie. Je
+pôvodcom mykoplazmových pneumónií. Žije ako parazit a nie je schopný samostatného
+života. Je rezistentný na penicilín a ostatné β – laktámové antibiotiká. (Juhaňák, 2012)
+Pneumóniu spôsobuje najmä u detí a mladých ľudí. Pneumónia, ktorej pôvodcom je práve
+Mycoplasma pneumoniae, si vyžaduje hospitalizáciu len málokedy, od 2 do 30% prípadov.
+Výskyt tejto baktérie je častejší v zime a medzi prvé príznaky ňou spôsobeného ochorenia
+sú
+
+tracheobronchitíd, hemolytické anémia, zvracanie a neurologické prejavy. (Kolek,
+
+2002)
+
+18
+
+Klebsiella pneumoniae je percentuálne treťou najčastejšou baktériou spôsobujúcou
+pneumóniu. Napáda najmä ľudí s oslabenou imunitou, nesprávnym životným štýlom alebo
+pacientov nútených dodržiavať prísnu diétu.
+Chlamydophila pneumoniae (Chlamydia pneumoniae) je atypický pôvodca komunitnej
+pneumónie. Príznaky ochorenia sú podobné ako pri obyčajnom zápale pľúc, táto infekcia
+však vyvoláva okrem typických prejavov aj faryngitídu, laryngitídu a sinusitídu. Priebeh
+ochorenia si vyžaduje hospitalizáciu väčšinou len u starších pacientov. Priebeh ochorenia
+je ľahkého charakteru a bez následkov po vyliečení. (Juhaňák, 2012)
+Haemophilus influenzae vyvoláva komunitnú pneumóniu zväčša u fajčiaroch a ľudí
+s CHOCHP obzvlášť po vírusovom ochorení. Musíme počítať aj s meningitídou.
+Legionella pneumophilla spôsobuje pneumóniu predovšetkým v letných mesiacoch,
+vyskytuje sa ale počas celého roka. Priebeh ochorenia je ťažký, sprevádzaný vysokými
+horúčkami a môže postihnúť aj centrálny nervový systém.
+Staphylococcus aureus predstavuje nebezpečenstvo v prvom rade pre starších pacientov,
+pre jedincov zdržiavajúcich sa v sociálnych zariadeniach a po virózach. Priebeh ochorenia
+býva vážny. (Kolek, 2002)
+
+2.3 Špecifické mikrobiálne agensy pneumónií
+Medzi špecifické mikrobiálne agens zaraďujeme takých pôvodcov pneumónie, ktoré sú
+svojrázneho charakteru a odlišujú sa od bežných, najčastejšie sa vyskytujúcich pôvodcov
+ochorenia. Patria sem vírusy, baktérie, plesne a rôzne parazity.
+Zápaly pľúc spôsobené vírusmi sú po pneumónií spôsobenej Streptococcus pneumoniae
+druhou najčastejšou skupinou, čo predstavuje od 13 do 50% monopatogénových
+komunitných pneumónií a od 8 do 27% zmiešaných vírusovo-bakteriálnych komunitných
+pneumónií. Najčastejšie sa vyskytujú u detí, mladistvých a neskôr riziko stúpa aj v staršom
+veku. Priebeh ochorenia môže byť od bezpríznakového stavu až po život ohrozujúci stav
+pacienta. Typickými pôvodcami vírusovej komunitnej pneumónie sú vírusy chrípky,
+respiračne syncyntiálny vírus (od 1 do 4%), vírus parainfluenzy (od 2 do 3%), adenovírus
+(od 1 do 4%), koronavírus (od 1 do 14%), humánny metapneumovírus (od 0 do 4%),
+rinovírus či humánny bocavirus. Odlišnú skupinu tvoria herpetické vírusy, ktoré sú
+zodpovedné za pneumónie u imunokompromitovaných pacientov.
+19
+
+Prenos týchto infekcií sa deje najčastejšie inhalačnou cestou, priamym kontaktom
+s infikovanými predmetmi, transplantáciou infikovaných orgánov, krvnou cestou, slinami
+či šírením cez zdravotnícky personál. Diagnostika týchto vírusov predstavuje izoláciu
+a identifikáciu vírusu, cytologické vyšetrenia, prítomnosť protilátok a dokazovanie
+patogénov v odobratom biologickom materiály. Medzi komplikácie vírusovej pneumónie
+patria
+
+superinfekcia,
+
+respiračné
+
+zlyhanie,
+
+hemoptýza,
+
+atelektáza,
+
+pneumothorax,
+
+hyperinflácia pľúc, rejekcia transplantovaného orgánu (pľúc). Neskoré a niekedy zároveň
+aj nezvratné komplikácie sú bronchiektázie a bronchiálna astma. Liečba v sebe zahŕňa
+podávanie analgetík, antipyretík, infúznu terapiu, oxygenoterapiu, ventilačnú podporu,
+neustále monitorovanie pacienta a zabezpečenie pokoja na lôžku. Ak ide o ťažkú infekciu,
+podávame systémové kortikoidy. Špeciálna antivírusová liečba je indikovaná len
+v niektorých prípadoch infekcie.
+Bakteriálne pneumónie sú najčastejším druhom infekčných pneumónií. Patogény
+vyvolávajúce toto ochorenie delíme na typické a atypické. Typické sú grampozitívne
+baktérie ako Streptococcus pneumoniae (celosvetovo najčastejší pôvodca komunitnej
+pneumónie),
+
+Staphylococcus
+
+aureus,
+
+Enterococcus
+
+a gramnegatívne
+
+baktérie
+
+–
+
+Haemophilus influenzae, Moraxella catarrhalis, Klebsiella pneumoniae, Escherichia coli,
+taktiež typické nozokomiálne patogény ako sú Pseudomonas aeruginosa a Acinetobacter
+baumannii.
+
+Mycoplasma
+
+pneumoniae,
+
+Chlamydophila
+
+pneumoniae,
+
+Legionella
+
+pneumophila či Coxiella burnetii predstavujú skupinu atypických patogénov.
+Mykotické postihnutie pľúc delíme na oportúnne a endemické. Oportúnne sú spôsobované
+oportúnnymi saprofyticky rastúcimi hubami a postihujú väčšinou imunosuprimované
+osoby. Endemické mykózy postihujú zdravých jedincov. Príkladom mykotického patogénu
+je Aspergillus sp., a Candida sp., ktoré spolu tvoria až 80% prípadov tejto infekcie.
+Oneskorená či zanedbaná liečba mykotickej pneumónie zvyšuje úmrtnosť pacientov.
+Poznáme viacero rizikových faktorov vzniku mykotickej infekcie pľúc. Patria sem najmä
+dlhodobé užívanie antibiotík, dlhodobo zavedený žilový katéter, močový katéter, liečba
+imunosupresívami vrátane kortikoidov, diabetes mellitus, dlhodobá hospitalizácia pacienta
+(viac ako 20 dní), akútne zlyhanie obličiek, hemodialýza, porucha imunity buniek,
+transplantácia orgánov a kostnej drene, hemoblastózy, prítomnosť nádorového ochorenia
+a následná liečba chemoterapiou alebo rádioterapiou, bakteriálne infekcie a rôzne
+chirurgické zákroky, ťažká trauma alebo popáleniny.
+
+20
+
+Postihnutie pľúc parazitmi vyvoláva rôzne ochorenia pľúc. Príčinou sú rozličné druhy
+parazitov, prvokov, hlíst alebo bičíkovcov. (Jakubec & Kolek, 2018)
+Toxoplazmóza je vyvolaná prvokom, ktorý nazývame Toxoplasma gondii. Vo väčšine
+prípadov sa prenáša od darcu. Priebeh ochorenia je mierny, niekedy aj bezpríznakový.
+Komplikácie vznikajú predovšetkým u pacientov s oslabenou imunitou, kedy môže priebeh
+nadobudnúť až život ohrozujúci stav. Ochorenie je obzvlášť hrozbou pre tehotné ženy,
+pretože môže byť ohrozený aj plod. Najhoršou formou je infekcia spojená so septickým
+šokom. Až 80% pacientov umiera na tento druh nákazy. Diagnostika spočíva vo vykonaní
+RTG snímky a liečba trvá najmenej 6 týždňov. Proti toxoplazmóze neexistuje očkovanie,
+môžeme sa ňou nakaziť ale iba raz za život. (Lekár.sk, 2019)
+Malý červ Strongyloides stercoralis patriaci medzi hlísty spôsobuje strongyloidózu. Je to
+ochorenie typické skôr pre tropické a subtropické oblasti, zriedkakedy sa vyskytuje aj
+v miernom pásme. Prejavy ochorenia sú kašeľ, dýchavičnosť, piskľavý hlas pri dýchaní,
+hemoptýza, bolesť hrdla, Loefflerov syndróm. Môže byť postihnutý aj gastrointestinálny
+trakt, kedy sa objavuje bolesť brucha, hnačky a krv v stolici. Vážnou komplikáciou je
+hyperinfekčný syndróm spojený s uvoľnením lariev z GIT cez črevá do krvného obehu,
+kedy môže dôjsť k poškodeniu pľúc, pečene, srdca, centrálneho nervového systému,
+endokrinných žliaz či dokonca k zlyhaniu viacerých orgánov naraz až k septickému šoku.
+V takomto prípade je úmrtnosť 10 až 80%. V rámci diagnostiky sa vyšetruje stolica,
+dvanástnikova šťava, mikroskopicky sa vyšetruje spútum a pleurálna tekutina. Liečba
+v sebe zahŕňa podávanie thiobendazolu, ivermektínu, albendazolu alebo ich kombináciu.
+Pľúcna toxokaróza je zapríčinená pôvodcami Toxocara canis alebo Toxocara cati.
+Z vajíčok sa v črevách vyvíjajú larvy, ktoré sa neskôr dostávajú do systémového obehu.
+Toxokaróza môže prebiehať ako akútna bronchitída, bronchiálna astma alebo klasický
+zápal pľúc. Prejavuje sa kašľom, horúčkami a sťaženým dýchaním. V diagnostike sa
+využíva detekcia špecifických IgE protilátok a identifikovaním antigénov Toxocary.
+Mierny priebeh ochorenia si nevyžaduje liečbu, keďže môže dôjsť k spontánnej zmene
+stavu a priebehu ochorenia. Pri ťažšom priebehu sa podáva albendazol alebo mebendazol,
+diethylkarbamazin, pri závažnejších stavoch sa pridávajú k liečbe aj kortikoidy. (Jakubec
+& Kolek, 2018)
+Parazit nazývaný Echinococcus granulosus vyvoláva ochorenie nazývané pľúcna
+echinokokóza. Je to závažné ochorenie, ktoré sa prenáša zo zvierat na ľudí. Z vajíčok sa
+21
+
+v čreve vyvíjajú larvy, ktoré črevnou stenou prechádzajú do ďalších orgánov a vytvárajú
+cysty. Príznakmi ochorenia sú zvýšená teplota, suchý kašeľ, dýchavičnosť a bolesť
+hrudníka. (Poláček et al., 2011) Pretrhnutie cysty a prienik do bronchov spôsobuje
+hemoptýzu, astmatické prejavy, dokonca anafylaktický šok či sepsu. Prasknutie cysty do
+pleurálnej dutiny môže vyvolať pleurálny výpotok, empyém či pneumothorax. Pri
+diagnostike sa väčšinou robí CT hrudníka, kde je jasne vidieť cystu s menšími dcérskymi
+cystami vo svojom vnútri. Diagnostika je založená na hľadaní špecifických protilátok.
+Liečba echinokokózy pozostáva z chirurgického zákroku a podávania albendazolu.
+Pľúcna askarióza je ochorenie spôsobené hlístami, konkrétne škrkavkou detskou (Ascaris
+lumbricoides). Priebeh ochorenia je rovnaký ako pri pľúcnej echinokokóze. Symptómy
+postihnutia pľúc môžu byť od mierneho kašľa až po Loefflerov syndróm. Ďalšími
+príznakmi sú kašeľ, bolesť na hrudníku, hemoptýza a dýchavičnosť. Niekedy je prítomná
+aj horúčka, nechutenstvo a bolesť hlavy či svalová bolesť. Pri dýchaní počuť piskot. Pri
+ochorení ukazuje skiagram hrudníka infiltráty, v krvi sú prítomné eozinofílie, celkové aj
+špecifické IgE. Diagnostika spočíva v detekcií lariev v respiračných sekrétoch alebo
+v žalúdočnej šťave. Ako liečbu podávame mebendazol, albendazol, prípadne ivermektín.
+Pri bronchospazme podávame bronchodilatanciá a v ťažších prípadoch sú indikované
+kortikoidy.
+Príčinou pľúcnej amebiázy je améba zvaná Entamoeba histolyticum. K infikovaniu
+dochádza skonzumovaním kontaminovaných jedál, vodou alebo rukami. V čreve sa z cýst
+vytvárajú trofozoity, ktoré cez stenu čreva prejdú do krvného obehu. Tie sú neskôr
+viditeľné aj vo vykašlanom spúte. Ako príznaky bývajú prítomné horúčka, hrudníková
+bolesť, suchý alebo produktívny kašeľ, hemoptýza až príznaky šoku. Najbežnejší spôsob
+diagnostikovania je sérologické vyšetrenie alebo nepriamy hemoglutinačný test. Liekom
+prvej voľby je metronidazol.
+Pľúcna leishmanióza postihuje najmä osoby s HIV alebo pacientov po pľúcnej
+transplantácií. Pôvodcom ochorenia je Leishmania donovani alebo chagasi, ktoré
+spôsobujú
+
+pneumóniu,
+
+pleurálny
+
+výpotok
+
+či
+
+lymfadenopatiu.
+
+Choroba
+
+býva
+
+diagnostikovaná mikroskopickým preukázaním leishmánií v biologických materiáloch
+alebo sérologicky. Ako liečba sa používa päť - valentná antimonová zlúčenina, pentamidín.
+(Jakubec & Kolek, 2018)
+
+22
+
+Trypanosomiáza je parazitárne ochorenie, ktoré sa vyskytuje v Afrike a prenášačom hmyz
+– mucha. Pôvodcom ochorenia môžu byť dva druhy parazitov - Trypanosoma brucei
+rhodesiense alebo Trypanosoma brucei gambiense. (Husarčeková, 2006)
+Pôvodcom babeziózy je prvok rodu Babesia, ktorý napáda červené krvinky. Prenášačmi
+ochorenia sú kliešte. Je to infekčné ochorenie prevádzané únavou, bolesťami hlavy,
+horúčka, zimnica alebo nadmerné potenie. V prípade, že sa napadnuté červené krvinky
+nebudú vedieť znovu vytvárať, môže sa vyvinúť aj anémia. (Zdraví - Babezióza, 2020)
+Menej časté sú ochorenia, ktoré nazývame filarióza, dirofilariáza, ankylostomóza,
+paragonimiáza, trichinelóza a pľúcna schistosomóza. Všetky sú spôsobené určitými druhmi
+parazitov a spôsobujú infekčný zápal pľúc. (Jakubec & Kolek, 2018)
+
+23
+
+3. LIEČBA PNEUMÓNIE
+
+3.1 Ambulantná liečba
+Ambulantná liečba pneumónie v sebe zahŕňa protiinfekčnú a doplnkovú liečbu.
+Protiinfekčná liečba pozostáva z podávania antibiotík empiricky a to tak, že interval medzi
+kontaktom s lekárom a začatím liečby by nemal trvať viac ako 8 hodín. Ak je možné, aj
+napriek nasadenej liečbe treba vykonať základné laboratórne vyšetrenia a odber spúta na
+kultiváciu a podľa výsledkov liečbu spresniť. Môžeme taktiež vykonať sérologické
+vyšetrenie na chlamýdie, mykoplazmy, antigény pneumokokov a legionel v moči. Ak sa
+stav pacienta nezlepšuje v priebehu nasledujúcich 2-4 dní, treba opakovane vykonať
+mikroskopické testy, zistiť prítomnosť zápalu krvným obrazom alebo CRP testom
+a v prípade potreby liečbu zmeniť alebo doplniť. Antibiotická liečba trvá väčšinou 7 až 10
+dní, pri podozrení, že je vyvolávateľom ochorenia atypické agens 14 až 21 dní a pri
+legionelovej pneumónií 21 dní. Po troch dňoch sa kontroluje stav pacienta a pri zistení
+neefektívnosti liečby nasadíme iné antibiotiká alebo lekár rozhoduje o hospitalizácií.
+Doplnkovú liečbu tvoria antitusiká podávané pri suchom a dráždivom kašli a analgetiká
+pôsobiace proti bolesti. Veľmi dôležitý je dostatočný príjem tekutín, kalórií a vitamínov.
+Podávanie mukolytík treba prehodnotiť a používať iba pri vlhkom, prieduškovom kašli. Za
+6 týždňov je možné vykonať opakovane aj laboratórne vyšetrenia, tie sú však potrebné len
+v prípade neúčinnosti liečby, zhoršenia stavu pacienta alebo ak ochorenie malo
+mimoriadny, závažnejší priebeh. (Kolek et al., 2011)
+
+3.2 Komunitná pneumónia vyžadujúca hospitalizáciu
+V prípade závažnejšieho priebehu pneumónie či prítomností iných ochorení alebo
+komplikácií je niekedy ambulantná liečba nepostačujúca. Vtedy je potrebná hospitalizácia
+pacienta. To, či je hospitalizácia potrebná určuje lekár podľa určitých kritérií. Častým
+dôvodom je zlyhanie ambulantnej liečby alebo prítomnosť rizikových faktorov zvyšujúcich
+úmrtnosť pacientov. Ohrozenou skupinou sú pacienti vo vyššom veku (nad 65 rokov), deti
+(hlavne novorodenci), pacienti s pneumóniou a zároveň s prítomnosťou aj iného ochorenia
+(chronická obštrukčná choroba pľúc, diabetes mellitus, chronické renálne zlyhanie,
+srdcová insuficiencia, chronická hepatopatia,
+
+hospitalizácia pacienta s pneumóniou
+
+v priebehu 1 roka, podozrenie na aspiráciu, prítomnosť nádorového ochorenia, chronický
+abúzus alkoholu, malnutrícia), pacienti, ktorí majú závažnejšie klinické prejavy ochorenia
+24
+
+(hypoxémia, dyspnoe, tachypnoe, hypotermia, znížený krvný tlak, dehydratácia,
+oligúria/anúria, prejavy sepsy aj iné extrapulmonálne prejavy), pacienti so zlými
+laboratórnymi výsledkami (leukocytóza, vysoké hodnoty CRP, acidóza, hyponatrémia,
+hyperglykémia, urémia) alebo s RTG nálezom dokazujúcim prítomnosť zápalu a výpotku.
+V prípade poruchy vedomia, šoku, respiračnej nedostatočnosti napriek kyslíkovej liečbe
+alebo pri potrebe pľúcnej ventilácie je indikovaná hospitalizácia pacienta na jednotku
+intenzívnej starostlivosti.
+Hospitalizácia je často potrebná aj u detských pacientov. Riziká vzniku komunitnej
+pneumónie u detí sú najmä nízky vek (menej ako 5 rokov), prematurita, malnutrícia,
+komorbidita, nízka sociálna úroveň rodiny, v ktorej dieťa vyrastá, zdržiavanie sa
+v kolektíve. Pre nasadenie vhodnej antibiotickej liečby je dôležité včasné diagnostikovanie
+pravdepodobného ochorenia.
+O hospitalizovaní detského pacienta rozhoduje taktiež lekár zohľadnením viacerých
+faktorov. Všeobecné faktory hospitalizácie sú hypoxémia, známky dehydratácie a vek
+dieťaťa nižší ako 3 mesiace. Malé deti majú totižto sklon k náhlemu zhoršeniu stavu.
+V prípade vracania je potrebná infúzna liečba, čo je ďalší dôvod hospitalizácie. RTG nález
+pacienta, u ktorého je nutná hospitalizácia zobrazuje prítomnosť pleumolárneho výpotoku.
+Ďalším príznakom, ktorý predstavuje závažnejší stav ochorenia a poukazuje na nutnosť
+hospitalizácie je zvýšená teplota (> 38,5°C) či anorexia. Vysoké riziko komplikácií
+pneumónie je komorbidita a prítomnosť iných ochorení napr. pľúc, srdca, obličiek,
+vrodená alebo získaná imunodeficiencia, onkologické choroby či cukrovka. Veľkú rolu
+zohráva aj sociálne založenie rodiny, v ktorej dieťa vyrastá a možnosť rodičov realizovať
+a akceptovať liečbu. (Dluholucký, 2009)
+V určitom stupni ochorenia je niekedy potrebné umiestnenie pacienta na oddelenie
+intenzívnej starostlivosti. Faktory, ktoré o tejto hospitalizácií rozhodujú sú vek pacienta
+(menej ako 6 mesiacov), bakteriémia, diagnostikovaná extrapulmonálna infekcia, prejavy
+sepsy, alterácia mentálneho stavu, kŕčové stavy, celkový rozvrat metabolizmu. Prítomnosť
+iného ochorenia, napr. srdca, obličiek, iné pľúcne ochorenie, imunitná nedostatočnosť,
+nádorové ochorenie, diabetes mellitus môže spôsobiť ďalšie komplikácie, kvôli ktorým
+bude nutná hospitalizácia na oddelení JIS. RTG nález takéhoto pacienta má rýchlu
+progresiu a je prítomný výpotok, vykazuje podozrenie na rozpadový proces a poukazuje na
+viac ako 1 lalok postihnutý zápalom. Pneumónia u detí môže viesť k poruche vedomia,
+25
+
+šoku, respiračnej insuficiencii aj napriek kyslíkovej terapií aj k metabolickým rozvratom.
+V prípade týchto stavov sa indikuje hospitalizácia na anesteziologicko – resuscitačné
+oddelenie. (Ľuboš Drgoňa a kol., 2007)
+Vek
+
+Počet dychov
+
+<2 mesiace
+
+>60 – 70/ min.
+
+2 – 12 mesiacov
+
+>50/ min.
+
+1 – 5 rokov
+
+>40/ min.
+
+5 rokov
+
+>30/min.
+
+Tabuľka č. 3: Kritériá na tachypnoe u detí podľa WHO (Ľuboš Drgoňa a kol., 2007)
+Na posúdenie závažnosti komunitnej pneumónie je známych niekoľko hodnotiacich
+systémov. Skórovacie systémy PSI, CURB – 65 a CRB – 65 sú najznámejšie a sú primárne
+určené ako pomôcka pri rozhodovaní o hospitalizácií pacienta. Poznáme aj iné, menej
+používané skórovacie systémy. Patria sem ATS/IDSA, CURXO – 80, SMART – COP
+a SMART – CO. Samozrejme musíme brať do úvahy zdravotný stav, výsledky vyšetrení
+a odborníci odporúčajú aj sledovanie saturácie kyslíka v krvi pulzným oxymetrom.
+PSI (Pneumonia severity index) je hodnotiaci systém, ktorý bol vyvinutý v Amerike pod
+vedením profesora Fineho. Podkladom vývinu bola retrospektívna analýza 14 199
+prípadov pneumónie u dospelých. Kritériom pre hodnotenie závažnosti ochorenia bolo
+prežitie resp. neprežitie po mesiaci od začiatku choroby.
+Princípom hodnotenia je triedenie pneumónie do piatich skupín podľa počtu rizikových
+bodov, ktoré prideľujeme podľa veku, pohlavia, sociálneho postavenia, prítomnosti iného
+ochorenia a na základe vyšetrení pacienta. Podľa týchto kritérií určujeme závažnosť
+ochorenia a ďalej stanovujeme spôsob liečby.
+Do prvej skupiny patria nerizikoví pacienti. V ich prípade je liečba ambulantná
+a podávame antibiotiká na základe vyšetrení. Do druhej a tretej skupiny zaraďujeme
+pacientov s vážnejšími príznakmi a komorbiditou. Patria sem najmä starší ľudia. Liečba je
+tiež antibiotická, je však doporučené opakovať vyšetrenia v priebehu nasledujúcich 48
+hodín. Štvrtú a piatu skupinu tvoria vysoko rizikoví pacienti, u ktorých je nutná
+hospitalizácia. (Beneš et al., 2012)
+
+26
+
+Rizikové kritériá
+
+Body
+
+Muži
+
+Vek
+
+Ženy
+
+Vek – 10
+
+Ústav sociálnej starostlivosti
+
+₊ 10
+
+Pridružené ochorenia
+Malígny nádor
+
+₊ 30
+
+Choroby pečene
+
+₊ 20
+
+Srdcové zlyhanie
+
+₊ 10
+
+Cerebrovaskulárna choroba
+
+₊ 10
+
+Choroba obličiek
+
+₊ 10
+
+Fyzikálne vyšetrenia
+Porucha vedomia
+
+₊ 20
+
+Dychová frekvencia ≥ 30/min
+
+₊ 20
+
+Systolický tlak krvi < 90 mm Hg
+
+₊ 20
+
+Teplota < 35°C alebo ≥ 40 °C
+
+₊ 15
+
+Tepová frekvencia ≥ 125/min
+
+₊ 10
+
+Laboratórne a RTG nálezy
+pH arteriálnej / kapilárnej krvi < 7,35
+
+₊ 30
+
+urea v sére ≥ 10,7 mmol/l
+
+₊ 20
+
+sodík v sére < 130 mmol/l
+
+₊ 20
+
+glykémia ≥ 13,9 mmol/l
+
+₊ 10
+
+hematokrit < 30%
+
+₊ 10
+
+saturácia kyslíka v krvi < 90% podľa pulzného
+oxymetra
+
+₊ 10
+
+pleurálny výpotok
+
+₊ 10
+
+Tabuľka č. 4 Klasifikácia pacientov s komunitnou pneumóniou podľa systému PSI
+(Beneš et al., 2012)
+Pacienti do 50 rokov bez príznakov uvedených v tabuľke č. 4 a v stabilizovanom stave
+zaraďujeme do prvej skupiny. U ostatných vypočítavame skóre podľa tabuľky č. 4.
+
+27
+
+Počet bodov
+
+Skupina
+
+Úmrtnosť
+
+Doporučený
+spôsob liečby
+
+I
+
+0,1%
+
+Ambulantne
+
+II
+
+≤ 70
+
+0,6 %
+
+Ambulantne
+
+III
+
+71 – 90
+
+2,8 %
+
+Krátka
+hospitalizácia
+
+IV
+
+91 – 130
+
+8,2 %
+
+hospitalizácia
+
+V
+
+Viac ako 130
+
+29,2 %
+
+Hosp. na JIS
+
+Tabuľka č. 5 Riziko úmrtnosti podľa systému PSI (Beneš et al., 2012)
+Skórovací systém CURB bol vyvinutý vo Veľkej Británii. Názov pochádza zo štyroch
+parametrov, a to C – confusion (zmätenosť), U – urea (hladina urei v sére), R – respiratory
+rate (dychová frekvencia) a B – blood pressure (tlak krvi). Neskôr sa pridružil aj ďalší
+parameter – vek pacienta, a tak vznikol CURB – 65. Nemeckí lekári vypustili meranie urei
+v sére a tak vznikla variácia CRB – 65. Pri využívaní tohto hodnotiaceho systému nie sú
+potrebné žiadne odbery a laboratórne vyšetrenia. Táto metóda je preto vhodná na využitie
+v ambulantnej praxi. Princíp hodnotenia spočíva v pridelení jedného bodu za tzv. splnený
+parameter. Celkový počet bodov určuje závažnosť ochorenia a spôsob liečby. Parametre
+sú: vzniknutá zmätenosť, urea v sére vyššia ako 7 mmol/l, frekvencia dýchania viac ako
+30/min., systolický tlak menej ako 90 mm Hg alebo diastolický menej 60 mm Hg a vek
+vyšší ako 65 rokov. (Beneš et al., 2012)
+Skupina
+
+Počet bodov
+
+Úmrtnosť
+
+Doporučený
+spôsob liečby
+
+CURB – 65
+
+CRB - 65
+
+1
+
+0–1
+
+1,5%
+
+Ambulantná
+
+2
+
+2
+
+9,2 %
+
+Hospitalizácia
+
+3
+
+3–5
+
+22 %
+
+Hosp. na JIS
+
+1
+
+0
+
+1,2 %
+
+Ambulantná
+
+2
+
+1–2
+
+8,15%
+
+Hospitalizácia
+
+3
+
+3-4
+
+31%
+
+Hosp. na JIS
+
+Tabuľka č. 6 Klasifikácia pacientov s komunitnou pneumóniou podľa systému CURB –
+65. (Beneš et al., 2012)
+
+28
+
+3.3 Antibiotická liečba
+Liečba antibiotikami je potrebná ako u hospitalizovaných pacientov, tak aj počas
+ambulantnej liečby. Pri ambulantnej liečbe volíme najmä aminopenicilíny, aminopenicilíny
+s inhibítormi β - laktamáz
+
+alebo cefalosporíny II. Generácie (cefuroxim, cefaclor,
+
+cefprozil). Širokospektrálne využitie majú cefalosporíny III. Generácie. Najúčinnejší na
+liečbu je cefixim. Pri podozrení na atypického vyvolávateľa ochorenia sa podávajú
+makrolidové antibiotiká ako sú azitromycín, klaritromycín, roxitromycín. Taktiež sú
+vhodné tetracyklíny alebo respiračné fluorochinolóny. Pri ambulatnej liečbe by sa mali
+antibiotiká nasadiť najneskôr do 8 hodín.
+Pneumónia s ťažkým alebo stredne ťažkým priebehom si vyžaduje hospitalizáciu.
+U hospitalizovaného pacienta by sa mali antibiotiká nasadiť najneskôr do 4 hodín od
+diagnostikovania ochorenia. Antibiotiká sa vtedy podávajú intravenózne a v kombinácií.
+Pri stredne ťažkom priebehu je možné po niekoľkých dňoch (cca po 2 až 5 dňoch) prejsť
+na perorálnu liečbu v závislosti od stavu pacienta. Antibiotiká, ktoré pacientovi podávame
+by mali pokrývať typické aj netypické agens. Pri pneumónií s ťažkým priebehom
+podávame aminopenicilíny kombinované s inhibítormi β-laktamáz alebo cefalosporíny III.
+generácie s makrolidmi, či trojkombináciu doplnenú o aminoglykozidy (gentamicín,
+amikacín, tobramycín). U pacientov nakazených infekciou Pseudomonas aeruginosa je
+indikovaná kombinácia antipseudomonádových β-laktámových antibiotík s klasickým
+fluorochinolónom alebo s aminoglykozidmi. Po výsledkoch kultivácie treba prejsť na
+cielenú liečbu, ktorej trvanie je individuálne u každého pacienta. Pri normálnom priebehu
+stačí podávanie počas 7 až 10 dní, ak je prítomné atypické agens, liečba antibiotikami si
+vyžaduje 14 až 21 dní. (Unilabs, 2017)
+Dĺžka antibiotickej liečby u detských pacientov nie je presne určená, závisí od klinickej
+odpovede, mikrobiologických a laboratórnych vyšetrení. Pri bakteriálnej pneumónií by
+však užívanie antibiotík nemalo trvať dlhšie ako 14 dní ak to nie je nutné, aby nedošlo
+k rezistencií na ne. (Ľuboš Drgoňa a kol., 2007)
+Rezistencia totiž predstavuje jednu z najväčších hrozieb pre verejné zdravie obyvateľstva,
+pretože okrem toho, že si ochorenie v prípade rezistencie na antibiotiká vyžaduje dlhšiu
+dobu hospitalizácie a vyššie náklady na liečbu pacienta, je práve jedným z dôvodov
+vysokej úmrtnosti či už na pneumóniu alebo na iné ochorenia. (ŠÚKL, 2020)
+
+29
+
+Patogén
+Streptococcus pneumoniae
+Chlamydophila pneumoniae
+Mycoplazma pneumoniae
+Haemophilus influenzae
+Moraxella catarrhalis
+Klebsiella pneumoniae
+
+Pseudomonas aeruginosa
+
+Staphylococcus aureus
+citlivý na betalaktamázy MSSA
+Staphylococcus aureus
+rezistentný na
+meticilín/oxacilín - MRSA
+Legionella spp.
+
+Antimikrobiálna liečba
+(1.voľba)
+Penicilín, aminopenicilín
+Makrolid, respiračný
+fluorochinolón, doxycyklín
+Aminopenicilín (s
+inhibítorom betalaktamáz),
+cefalosporíny II. gen.
+Cefalosporíny II. gen.
+Aminopenicilín
+s inhibítorom betalaktamáz
+Piperacilín/tazobaktam,
+ciprofloxacín, ceftazidím,
+cefoperazón
+Oxacilín, cefalosporín
+II.gen., príp. I. gen
+Aminopenicilín s
+betalaktamázou
+Linezolid, glykopeptid –
+vankomycín, teikoplanín
+
+Antimikrobiálna liečba
+(2.voľba)
+Makrolid, respiračný
+fluorochinolón
+Fluorochinolón
+Makrolid, fluorochinolón,
+respiračný fluorochinolón
+Fluorochinolón,
+cefalosporín III. gen.
+Aminoglykozid,
+karbapeném
+Vankomycín, klindamycín,
+linezolid, cefalosporín
+III.gen.
+Tigecyklín, daptomycín
+
+Makrolid, respiračný
+Rifampicín, ale iba
+fluorochinolón,
+v kombinácií
+fluorochinolón
+Vírus chrípky
+Oseltamivir, zanamivir
+Tabuľka č. 7 Odporúčané antibiotiká na cielenú liečbu komunitnej pneumónie (Kajtár,
+2015)
+
+3.4 Iné spôsoby liečby
+Medzi ďalšie spôsoby liečby okrem antibiotickej patrí imunomodulačná a profylaktická
+liečba. Imunomodulačná liečba znamená ovplyvnenie imunitného systému úpravou jeho
+funkcií. Odporúča sa ako súčasť prevencie predovšetkým u pacientov s chronickou
+chorobou, s oslabenou imunitou a aj ako doplnková liečba napr. pri užívaní antibiotík.
+(Zdravie.sk, 2017) Profylaktická liečba znamená zamedzenie vzniku nákazy. Je to istý
+spôsob ochrany pred ochorením. Predstavuje cielenú prevenciu ochorenia. (Wikipédia,
+2020)
+Pri syndróme systémovej zápalovej odpovede organizmu a septickom šoku podávame
+kortikoidy s predpokladom imunosupresívneho efektu. Väčšinou je to metylprednisolon
+0,5mg/kg hmotnosti pacienta na deň. Prípadne je možné liečbu doplniť o makrolidy
+v bežnej dávke. Najmä u imobilných pacientov je odporúčané podávanie heparínu ako
+
+30
+
+prevencia vzniku trombov. Treba si všímať komorbidity pacienta pľúcneho aj
+mimopľúcneho typu a dbať na prítomnosť iných ochorení. K terapii pacienta patrí aj
+sledovanie nutričných parametrov. Podľa klinického stavu pacienta môžeme nutríciu
+realizovať formou parenterálneho podania stravy alebo sippingu.
+Na potlačenie symptómov podávame analgetiká na tlmenie bolesti, zväčša tramadol alebo
+pethidin. Niekedy sú potrebné kombinácie analgetík a antiflogistík, pri horúčke podávame
+aj antipyretiká. Expektoranciá a mukolytiká sú potrebné na rozpúštanie hlienov a následne
+ich uvoľnenie z dýchacích ciest. V niektorých prípadoch sú indikované bronchodilatanciá,
+snažíme sa voliť najmä tie s krátkodobým účinkom. Pri suchom, dráždivom kašli tlmíme
+nepríjemnosť antitusikami.
+Nefarmakologická liečba v sebe zahŕňa oxygenoteriu, ktorá je indikovaná pri hypoxémií,
+kedy saturácia kyslíka klesá pod 90 %. Prietok kyslíka je ovplyvnení inými prítomnými
+chorobami (napr. CHOCHP) a závažnosťou hypoxémie. Dodržanie režimových opatrení
+vo veľkej miere prispieva k pozitívnemu priebehu ochorenia a k správnej a dostatočnej
+liečbe. Rehabilitácia zahŕňa dychové a pohybové cvičenia chorého, včasnú mobilizáciu
+a to všetko individuálne alebo pod dohľadom odborníka.
+Chirurgické zákroky sú indikované v prípade vzniku komplikácií. Patria sem terapeutická
+bronchoskopia s lokálnou aplikáciou mukolytík a odsatím usadeného spúta v dýchacích
+cestách. Ako prevencia pred usadením mykotickej infekcie v dýchacích cestách sa využíva
+pleurálna punkcia parapneumonického výpotku, hrudná drenáž empyému, ojedinele aj
+resekcia pľúc. (Kajtár, 2015)
+
+31
+
+4. RIZIKOVÉ FAKTORY OCHORENIA
+
+Rizikové faktory komunitnej pneumónie môžeme rozdeliť z rôznych hľadísk do viacerých
+skupín. Najčastejšie sú to chronické ochorenia dýchacieho systému vrátane chronickej
+obštrukčnej choroby pľúc, chronickej bronchitídy aj bronchiálnej astmy. Spomínané
+ochorenia sú obzvlášť nebezpečné počas hospitalizácie pacienta. Riziko predstavuje aj
+ochorenia ústnej dutiny (periodontitída). Vyšším rizikovým faktorom pneumónie je terapia
+inhalačnými a celkovými kortikoidmi, diagnostikované ochorenia v nosovej oblasti, ústnej
+dutiny, hltanu a iných horných častí tráviaceho traktu. Komplikácie pneumónie môže
+spôsobiť zlyhanie srdca, a to tak, že tekutina v alveolách podporuje množenie baktérií.
+Riziko predstavujú aj neurologické ochorenia, keďže môžu poškodiť reflex kašľu.
+Nebezpečenstvo a komplikácie zdravotného stavu spôsobuje aj zvýšená hladina cukru
+(diabetes mellitus), ochorenie pečene či gastroezofageálny reflux. Pri refluxe komplikácie
+nespôsobuje samotné ochorenie, ale lieky znižujúce sekréciu žalúdočnej kyseliny
+(antacidá). Ohrozenou skupinou sú aj pacienti s primárnymi alebo sekundárnymi
+imunodeficitmi, pacienti s nádorovými ochoreniami či osoby s vyšším BMI (body mass
+index). Medzi demografické a socioekonomické faktory patrí vyšší vek, nižšia úroveň
+vzdelávania a nižšia ekonomická úroveň, sociálna izolovanosť.
+Životný štýl vo veľkej miere ovplyvňuje priebeh choroby. Fajčenie a nadmerný príjem
+alkoholu predstavujú veľké riziko nielen u pacientov trpiacich pneumóniou. Z faktorov
+životného prostredia najviac vplýva na zdravie respiračného systému prach, dym, rôzne
+výpary, náhle zmeny teplôt, zamestnanie, bydlisko, bývanie s deťmi a domácimi
+zvieratami. (Jakubec & Kolek, 2018)
+
+32
+
+Faktory hostiteľa
+
+Vek
+
+Imunokompetentný
+
+>
+5
+0
+r
+o
+k
+o
+v
+
+kardiovaskulá
+rne
+a cerebrovask
+ulárne
+ochorenia
+
+
+Vonkajšie faktory
+
+Imunokompromit
+ovaný
+ HIV
+
+chronické
+respiračné
+ochorenia
+
+
+
+chronické
+ochorenie
+obličiek
+
+chronické
+hepatálne
+ochorenia
+ diabetes
+
+
+
+malignita
+
+
+
+
+
+Behavioráln
+e faktory
+
+Socioekonomické
+
+
+
+
+zvyšujúce
+riziko
+vírusovej
+respiračnej
+infekcie
+inštitucional
+izácia
+(domov
+sociálny
+služieb,
+atd.)
+
+
+
+vyso
+ká
+konz
+umác
+ia
+alkoh
+olu
+ fajče
+nie
+
+transplantá
+cia orgánu
+alebo
+kostnej
+drene
+ funkčná/anat
+ autoimunit
+omická
+né
+asplénia
+ochorenie
+ alkoholizmus
+ imunosupr
+esíva
+kortikoidy
+ cerebrospinál
+ primárna
+ny leak
+imunodefi
+ciencia
+Tabuľka č. 8 Faktory spojené so zvýšeným rizikom pneumokokových ochorení
+u dospelých (Solovič, 2011)
+
+33
+
+4.1 Rizikové faktory u imunokompromitovaných pacientov
+Imunokompromitovaní
+
+pacienti
+
+tvoria
+
+skupinu
+
+pacientov
+
+s určitou
+
+imunitnou
+
+nedostatočnosťou. Patria sem onkologickí pacienti, pacienti po transplantáciách
+krvotvorných buniek a orgánov, pacienti podstupujúci liečbu imunosupresívami, HIV
+pozitívni pacienti, pacienti s ochorením diabetes mellitus, pacienti, ktorí majú závažné
+metabolické poruchy, predčasne narodení novorodenci, seniori, narkomani, pacienti po
+komplikovaných operáciách, pacienti s vrodenými poruchami imunitného systému. (Ľuboš
+Drgoňa a kol., 2007). Títo pacienti sú často ohrození závažnými, niekedy až život
+ohrozujúcimi infekciami. Neprítomnosť alebo zmena imunitnej odpovede môže zmeniť
+klinický obraz infekcie a poskytnúť tak falošný výsledok vyšetrenia. Preto je nutná čo
+najrýchlejšia diagnostika a následne liečba, aby infekcia nenabrala agresívny a v mnohých
+prípadoch aj fatálny priebeh. Aj u pacienta s imunodeficitom môže byť pneumónia
+vyvolaná takým patogénom, ktorý spôsobuje zápal aj u zdravého jedinca, avšak priebeh je
+o dosť komplikovanejší a stav pacienta závažnejší. Bežné sú u nich oportúnne patogény.
+Sú to mikroorganizmy, ktoré nedokážu vyvolať ochorenie u imunokompetentných ľudí.
+(Jakubec & Kolek, 2018)
+
+34
+
+Imunodeficit
+Deficit B protilátkovej
+imunity
+
+Druhy imunodeficitov
+Typické patogény
+1. Vrodené
+Streptococcus pneumoniae,
+protilátkové –
+Staphyllococcus aureus,
+genetické defekty
+Haemophilus,
+2. Sekundárne
+enterobaktérie
+protilátkové – strata
+imunoglobulínov,
+glomerulonefritída,
+exsudatívna
+enteropatia,
+nedostatočná tvorba
+imunoglobulínov,
+nádory buniek
+produkujúcich
+imunoglobulíny
+Deficity T bunkovej imunity
+1. Vrodené bunkové
+Intracelulárne patogény
+imunodeficity
+(mykobaktérie, vírusy,
+2. Získané bunkové
+huby, prvoky)
+imunodeficity
+Deficit prirodzenej imunity
+1. Neutropénia
+1. častá fáza –
+2. Porucha funkcie
+grampozitívne koky
+granulocytov –
+2. neskorá fáza –
+myeloproliferáciou,
+gramnegatívne infekcie,
+transplantáciou
+mykotické infekcie,
+kostnej drene,
+cytomegalovírus,
+iatrogénne,
+herpesvírus
+-k infekciám dochádza
+pri znížení počtu
+neutrofilov
+Poruchy fagocytózy
+1. Vnútorná porucha –
+Bakteriálne infekcie
+porucha
+bakteriocídnych
+enzýmov
+2. Poruchy fagocytózy
+pri metabolických
+poruchách – diabetes
+mellitus, urémia pri
+poruchách obličiek
+alebo pečene
+Deficity komplementov
+1. Vrodené
+2. Získané
+Tabuľka č. 9 Možné imunodeficity u imunokompromitovaných pacientov, ich druhy
+a príslušné patogény (Jakubec & Kolek, 2018)
+
+35
+
+4.2 Komplikácie pneumónie
+Komplikácie pri pneumónií zasahujú do liečby, predlžujú ju a niekedy aj znižujú účinnosť.
+Komplikácie spôsobujú vo väčšine prípadov iné ochorenia, ktoré sú prítomné u pacientov
+liečených na pneumóniu. Patria sem respiračné zlyhanie a septický stav. Ostatné
+komplikácie delíme na lokálne, ktoré sú charakteristické tým, že postihujú respiračný
+systém rovnako ako pneumónia a vzdialené, ktoré sú infekčné alebo neinfekčné. Medzi
+lokálne komplikácie patria atelektáza, hemoptýza, bronchiektázie.
+Atelektáza je spôsobená hlienmi, ktoré upchávaním dýchacích ciest komplikujú priebeh
+ochorenia. Lieči sa bronchoskopicky. Hemoptýza a bronchiektázia sú menej častou
+komplikáciou pneumónie, vyskytujú sa skôr pri nekrotizujúcej forme infekcie.
+Pľúcny absces a pľúcna gangréna predstavujú lokálnu komplikáciu pneumónie. Ide
+o hnisavý proces s nekrózou pľúcneho tkaniva. Prítomná je teplota a silný kašeľ
+s hnisavým, niekedy až zapáchajúcim exsudátom. Ak vplyvom silného dráždivého kašľa sa
+porušia pľúcne cievy, dochádza k vykašliavaniu krvi z dýchacích ciest (hemoptýza), čo
+spôsobuje niekedy silné bolesti hrudníka a napínanie na vracanie až kolaps. Diagnostika je
+založená na RTG vyšetrení a laboratórnom vyšetrení spúta. V niektorých prípadoch je
+potrebné CT vyšetrenie na rozlíšenie abscesu a ohraničeného empyému. Liečba spočíva
+v podávaní silných antibiotík najprv empiricky, neskôr podľa prítomnosti zisteného
+patogénu. Bez poznania pôvodcu ochorenia podávame väčšinou antibiotiká s účinnou
+látkou klindamycín alebo
+
+vysoké dávky penicilínu s metronidazolom prípadne
+
+cefalosporíny druhej a tretej generácie. Antibiotická liečba je dlhotrvajúca, približne 6-8
+týždňov. Pri podávaní antibiotík sú niekedy odporúčané aj lokálne liečivá s antiseptickým
+účinkom (Betadine, Persteril). Ak zlyháva účinok kombinácie antibiotík a lokálnej liečby,
+môže byť indikované aj chirurgické odstránenie abscesu.
+Jednou z najťažších, ale našťastie zriedkavých komplikácií je nekrotické pľúcne ochorenie
+nazývané nekrotická gangréna. Je to úplný rozpad pľúcneho parenchýmu s nasledujúcim
+hnilobným rozpadom vznikajúcim pôsobením anaeróbnych baktérií. Prejavuje sa
+celkovými ťažkosťami u pacienta, triaškou, potením, vysokými teplotami, septickým
+záchvatom, a preto je často potrebná pľúcna ventilácia a intubácia dýchacích ciest. V rámci
+liečby podávame vysoké dávky antibiotík a chirurgicky odstraňujeme postihnuté pľúcne
+tkanivo.
+
+36
+
+Pleulárny výpotok sa vyskytuje až u 57% pacientov s pneumóniou, empyém sa vyskytuje
+len u 6% zo všetkých prípadov. Hnisavý proces je však mnohokrát príčinou smrti pacienta,
+v súčasnosti až v 30% prípadov.
+Syndróm akútnej dychovej tiesne je ďalšou lokálnou komplikáciou pneumónie. Je to
+difúzna bunková dysfunkcia pľúcneho parenchýmu charakterizovaná ako syndróm zápalu
+organizmu a zvýšenej priepustnosti spojená s klinickými, radiologickými a fyziologickými
+abnormalitami. Príčinou môže byť priame alebo nepriame poškodenie pľúc. Diagnostika je
+založená na prítomnosti príznakov ako sú dyspnoe, tachypnoe, cyanóza, nález
+bilaterálneho infiltrátu na RTG snímku pľúc, Liečba je rovnaká ako pri klasickej
+pneumónií, nezaobíde sa však bez intubácie dýchacích ciest a pľúcnej ventilácie. Odporúča
+sa taktiež inhalačná liečba, podávajú sa kortikoidy v nižších dávkach, ako podporná liečba
+je dôležité primerané stravovanie, úprava vnútorného prostredia a acidobázickej
+rovnováhy. Úmrtnosť dosahuje od 30 do 70%, avšak málokedy ju spôsobuje samotné
+ochorenie, väčšinou sa pridružujú aj iné komplikácie a dochádza k zlyhaniu viacerých
+telesných funkcií.
+Medzi vzdialené komplikácie zaraďujeme infekčné ochorenia postihujúce iné orgány,
+ktoré vznikajú väčšinou hematogénnym prenosom infekcie. Patria sem endokarditída,
+perikarditída, meningitída, encefalitída, otitída, nefritída, hepatitída, peritonitída a artritída.
+Najnebezpečnejšou formou je sepsa sprevádzaná zlyhávaním viacerých orgánov.
+Neinfekčné komplikácie postihujú najmä srdcovo-cievny systém a zodpovedajú za 20%
+všetkých
+
+prípadov
+
+smrti
+
+spôsobených
+
+pneumóniou.
+
+Pacienti
+
+s komorbiditami
+
+kardiovaskulárneho systému sú vystavení vysokému zdravotnému riziku. Nebezpečné sú
+srdcové arytmie, akútny koronárny syndróm, zlyhanie srdcového svalu, mozgová porážka
+a tromboembolické ochorenie spojené s pľúcnou embóliou. Pôvodom týchto komplikácií je
+zápal, ktorý pôsobí celkovo na celý organizmus človeka. Ďalším ochorením, ktoré môže
+skomplikovať priebeh pneumónie je dysfunkcia obličiek. Vyskytuje sa u 18 až 34%
+pacientov s komunitnou pneumóniou a zvyšuje riziko potreby pľúcnej ventilácie, niekedy
+spôsobuje
+
+až smrť pacienta. Postihnutie centrálneho nervového systému a prítomnosť
+
+neurologických ochorení je spozorované skôr u pacientov vo vyššom veku. Hospitalizácia
+indikovaná pri pneumónií zvyšuje riziko demencie, zhoršuje mentálny stav pacienta,
+negatívne zasahuje do liečby a zvyšuje mortalitu. Hematologické komplikácie ako sú
+leukopénia, trombocytopénia či trombocytóza sa vyskytujú prevažne pri ťažkých
+komunitných pneumóniách. Iné vyskytujúce sa komplikácie pri pneumónií sú spojené
+37
+
+s endokrinným systémom a sú to hypoglykémia, laktátová acidóza a adrenokortikálna
+insuficiencia. Pneumónia, ktorá je sprevádzaná týmito komplikáciami si vyžaduje osobitnú
+liečbu, nestačí postupovať ako pri liečbe samotného zápalu pľúc. (Jakubec & Kolek, 2018)
+
+38
+
+5. PREVENCIA
+Pneumónia je celosvetovo veľmi časté a závažné pľúcne ochorenie. Podceňovanie
+príznakov, neskorá diagnostika alebo zlý či nedostatočný liečebný postup môže viesť až
+k smrti pacienta napriek dnes už širokému spektru dostupných antibiotík, voľno
+predajných liekov a známych liečebných postupov. Najlepší spôsob ako predchádzať
+nástupu akýchkoľvek príznakov a výskytu ochorenia je prevencia. Veľmi významne sa
+podieľa na zachovaní zdravia človeka.
+
+5.1 Každodenná prevencia
+Medzi bežné preventívne opatrenia patrí dodržanie hygienických zásad, napr. pravidelné
+umývanie rúk, zakrývanie si úst pri vykašliavaní a prekrytie horných dýchacích ciest najmä
+v mieste zvýšeného rizika nákazy. Fajčenie predstavuje najväčšie riziko vzniku
+akýchkoľvek respiračných ochorení vrátane pneumokokovej pneumónie aj u inak zdravých
+jedincov. Ďalším spôsobom zachovania zdravých dýchacích ciest je neznečisťovať
+ovzdušie, nezdržiavať sa na miestach, kde je nadmerný výskyt dymu a smogu, dostatočne
+vetrať vnútorné priestory. Vhodná liečba ostatných prítomných ochorení pomáha tiež
+predchádzať vzniku pneumónie ako sekundárneho ochorenia a nespôsobuje tak iné
+závažnejšie komplikácie. U detí znižuje riziko vzniku komunitnej pneumónie dojčenie,
+keďže priaznivo vplýva na imunitu novorodenca a posilňuje ju. Dodržiavaním hygieny
+nosnej a ústnej dutiny taktiež vieme predchádzať respiračným ochoreniam vrátane
+pneumónie. Slúžia na to lokálne pôsobiace nosné spreje s morskou vodou a ústne vody
+vyvinuté špeciálne na hygienu. Celkovým posilnením imunity predchádzame riziku vzniku
+pneumónie. Dôležitý je príjem vitamínu C, D a zinku. Je dôležité zvlhčovanie vzduchu
+a udržiavať správnu vlhkosť priestorov. U hospitalizovaných pacientov, najmä ľudí vo
+vyššom veku treba myslieť na to, že aj dlhodobé ležanie na chrbte môže spôsobiť zápal
+pľúc. (Wikipedia, 2020)
+
+39
+
+5.2 Vakcinácia
+Komunitná pneumónia je vo väčšine prípadov spôsobená pneumokokovým patogénom
+(Streptococcus pneumoniae), ktorý je aj najčastejšou príčinou smrti. Napriek širokému
+spektru dostupných antibiotík pôsobiacich proti tomuto druhu patogénov liečba často
+zlyháva z dôvodu rezistencie, ktorú spôsobuje ich nesprávne podávanie a užívanie. Preto je
+pneumónii lepšie predísť, ako ju liečiť. Doposiaľ sa za najúčinnejšiu prevenciu považuje
+očkovanie.
+Na Slovensku máme registrovanú pneumokokovú vakcínu, ktorá pôsobí až proti 23
+najčastejším kmeňom pneumokokov. Táto očkovacia látka je indikovaná pre pacientov
+starších ako 2 roky. U menších detí nie je účinný tento typ vakcíny z dôvodu doposiaľ
+nedostatočne vyvinutého imunitného systému. Efektívnosť tejto vakcíny je od 50% do
+80% v závislosti od veku pacienta a prítomnosti iných ochorení. Podáva sa jedna dávka
+tejto vakcíny, jej účinok nastupuje po 14 až 21 dňoch a pôsobí počas doby 3 až 5 rokov.
+Očkovanie sa môže vykonať kedykoľvek v priebehu roka, odporúča sa podávať spolu
+s vakcínou proti chrípke. Vakcína je bezpečná, má len málo vedľajších účinkov, medzi
+ktoré
+
+patrí
+
+zvýšená
+
+telesná
+
+teplota,
+
+opuch
+
+v mieste
+
+vpichu,
+
+mierna
+
+bolesť
+
+a začervenanie pretrvávajúce iba krátko, do 48 hodín od aplikácie. Očkovacia látka je
+dostupná v lekárni, je viazaná na lekársky predpis a pre niektoré skupiny pacientov je plne
+hradená zdravotnými poisťovňami. Do vybranej skupiny pacientov patria osoby staršie ako
+65 rokov, pacienti od 2 rokov s chronickými ochoreniami dýchacích ciest, srdcovo –
+cievneho systému, s poruchami metabolizmu, obličiek a imunity a pacienti, ktorí majú zo
+zdravotných dôvodov odstránenú slezinu. Pri záujme o vakcínu sa pacient musí hlásiť
+u svojho obvodného lekára. (RÚVZ, 2010)
+Od roku 2009 sa na Slovensku očkuje okrem 23 – valentnej polysacharidovej vakcíny aj 10
+– valentnou konjugovanou vakcínou a 13 – valentnou konjugovanou vakcínou. 13 –
+valentná je od 1.7.2019 plne hradená zdravotnou poisťovňou. Hlavnou výhodou 13 –
+valentnej konjugovanej vakcíny je vyšší očakávaný ochranný efekt. (Laššán & Laššánová,
+2008)
+Účinok oboch očkovacích látok je priamy (u zaočkovaného jedinca) a nepriamy (u
+neočkovaných osôb žijúcich v komunite so zaočkovanými deťmi) a bezpečný. Zárukou
+účinnosti je samozrejme správna aplikácia, a to 3 - dávkový (2 + 1 alebo 3 + 0) alebo 4 –
+
+40
+
+dávkový režim (3 + 1). Aj keď sa látková odpoveď organizmu pri jednotlivých vakcínach
+odlišovala, obe vykazovali všeobecne porovnateľnú imunogenicitu. (Sataloff et al., n.d.)
+7 – valentná konjugovaná vakcína sa zaviedla do praxe prvýkrát v USA v roku 2000,
+následne potom v roku 2001 aj v štátoch Európskej únie. Je indikovaná u detí do 2 rokov,
+pri zvýšenom riziku vzniku infekcie až do 5 rokov veku. Vo viacerých štátoch je zaradená
+do štandardnej očkovacej schémy. Na Slovensku je jej súčasťou od 1.1.2009. Očkovanie sa
+podáva deťom v 4 – dávkovom režime a to tak, že sa podajú tri úvodné dávky a jedna
+posilňujúca. Úvodné sa podávajú v 2., 4. a 6. mesiaci alebo v 2., 3. a 4. mesiaci
+a posilňujúca dávka do začiatku 2. roku. V prípade zvýšeného rizika nákazy až do 5. roku
+života. Na Slovensku sa riadime schémou podania vakcíny 2 + 1. Dôležitým faktorom
+účinnosti je čas podania posilňujúcej dávky vakcíny. U osôb nad 65 rokov je zatiaľ
+odporúčaná 23 – valentná nekonjugovaná vakcína, avšak zvažuje sa použitie konjugovanej
+vakcíny vďaka preukázateľne vyššej imunogenicite.
+Zavedenie očkovania u detí malo jednoznačne priaznivý vplyv na zníženie počtu ochorení.
+Vo viacerých štátoch bol zachytený pokles nakazených ľudí. Očkovanie detí viedlo aj
+k ochrane dospelých. Tento skupinový efekt, kedy očkovanie istej rizikovej skupiny ľudí
+vedie k ochrane neočkovaných jedincov spôsobuje aj pokles počtu možných zdrojov
+nákazy.
+Aj napriek tomu, že sa vakcinácia považuje za najúčinnejší spôsob ako predchádzať
+pneumónií, má taktiež svoje riziko, a to možnosť nahradenia doterajších sérotypov
+novými, ktoré nie sú vo vakcíne obsiahnuté. Takýmto je napríklad sérotyp 19A, ktorý je
+rezistentný na antibiotiká a bolo zaznamenané jeho mierne zvýšenie v určitých krajinách.
+Uvedené vakcíny majú aj svoje nevýhody. Poskytujú ochranu len voči sérotypom, ktoré sú
+obsiahnuté v samotnej vakcíne. 23 – valentná polysacharidová vakcína nezabezpečuje
+ochranu u detí a imunokompromitoaných pacientov. Riešením týchto nevýhod by bolo
+identifikovanie proteínov, ktoré by boli spoločné aspoň pre väčšinu kmeňov. Vývoj
+nového liečiva je však finančne aj časovo náročný a trvá preto až niekoľko rokov. (Čižnár,
+2009)
+Jednou z možností ako účinne predchádzať pneumónií je aj očkovanie proti chrípke.
+Účinnosť vakcíny závisí od zhody reťazcov cirkulujúceho vírusu v populácií a reťazcov
+vakcíny. Pri dobrej zhode je účinnosť 70 až 90%. Očkovanie sa odporúča každoročne pred
+začatím chrípkovej sezóny. U starších ľudí je síce účinok vakcíny nižší, ale po jej podaní je
+41
+
+aj priaznivejší priebeh ochorenia, nepostihuje dolné dýchacie cesty, nespôsobuje tak ďalšie
+komplikácie čím sa znižuje aj mortalita pacientov. Z toho vyplýva, že je odporúčané
+očkovať pacientov aj nad 65 rokov, pacientov s chronickými chorobami aj osoby, ktoré sú
+vystavené vyššiemu riziku prenosu chrípky. (Joppa et al., 2018)
+Dispenzárna skupina
+Chronické ochorenie dýchacích ciest
+
+Ochorenia
+ Astma
+ Bronchiektázie
+ Vrodené chyby priedušnice a pľúc
+ Perinatálne vzniknuté respiračné
+poruchy
+ Vrodené chyby srdca
+ Diabetes mellitus 1. Typu
+ Poruchy metabolizmu aminokyselín,
+lipidov, purínu a pyrimidínu
+ Cystická fibróza
+ Nefrotický syndróm
+ Zlyhanie obličiek
+ Stav po prekonanej purulentnej
+meningitíde alebo septikémií
+ Choroba vyvolaná vírusom HIV
+ Všetky zhubné nádory
+ Hemolytické anémie
+ Agranulocytóza
+ Funkčné poruchy
+polymorfonukleárnych leukocytov
+ Choroby sleziny
+ Imunitná nedostatočnosť s prevahou
+poruchy tvorby protilátok
+ Iné imunodeficiencie
+ Hnisavý a nešpecifikovaný zápal
+stredného ucha
+ Nízka pôrodná hmotnosť
+ Prematurita
+ Vrodené chyby sleziny
+ Downov, Edwardov, Patauov
+syndróm
+
+Ochorenie srdcovo – cievneho aparátu
+Metabolické poruchy
+
+Renálne ochorenie
+Poruchy imunity
+
+Stavy pred splenektómiou s funkčnou alebo
+anatomickou aspléniou
+Tabuľka č. 10 Rizikové skupiny, pre ktoré je odporúčané očkovanie pneumokokovými
+vakcínami (Čižnár, 2009)
+Tak, ako všetky lieky s rôznymi formami aplikácie, tak aj injekčne podávané očkovacie
+látky môžu mať svoje vedľajšie nežiaduce účinky. Delíme ich na lokálne alebo celkové,
+42
+
+prípadne sa môže objaviť aj alergická reakcia, zriedkavejšie neurologická reakcia alebo
+hyperreakcia organizmu na podanú látku, čo znamená prehnanú, nezvyčajnú reakciu
+organizmu.
+Ľahká lokálna reakcia ako sú bolesť, začervenanie miesta vpichu, infiltrát, opuch či
+krátkodobé obmedzenie funkčnosti môžu prejsť v ťažšie formy, kedy je prítomná
+bakteriálna infekcia v mieste podania vakcíny alebo sa tvoria abscesy.
+Celková reakcia organizmu sa prejavuje bolesťou hlavy, zvýšenou telesnou teplotou do
+39°C, únavou, nauzeou, zvracaním, hnačkou či nechutenstvom. Tieto príznaky sa objavia
+do 48 hodín od podania očkovacej látky a pretrvávajú len krátko.
+Približne do pol hodiny od podania vakcíny sa môže objaviť anafylaktická reakcia, čo
+predstavuje život ohrozujúci stav pacienta. Je to typ alergickej reakcie, ktorá zapríčiňuje
+edém,
+
+vazodilatáciu s hypotenziou a tachykardiou,
+
+bronchokonstrikciu a aktiváciu
+
+parasympatika. Je sprostredkovaná protilátkami typu IgE.
+Imunokomplexová alergická reakcia alebo bunkami spôsobená sa prejavuje lokálnym
+opuchom, väčším exantémom.
+Hyperreakcia je spôsobená individuálnou dispozíciou. Pri očkovaní proti pneumónií sa
+nevyskytuje.
+Neurologické reakcie po očkovaní sú zriedkavé, ale nebezpečné. Patria sem febrilné kŕče,
+encefalopatie, encefalititídy, encefalomyelitídy a polyradikulopatie. (Masár, 2015)
+
+5.3 Očkovacie látky
+
+Prevenar 13
+Je to 13 – valentná konjugovaná polysacharidová injekčná suspenzia patriaca do skupiny
+imunopreparátov. Poskytuje ochranu proti 13 typom baktérie Streptococcus pneumoniae
+tým, že pomáha telu vytvárať protilátky na ochranu pred ochorením. Využíva sa u detí aj
+dospelých ako prevencia meningitídy, bakterémie, sepsy či pneumónie. Podáva sa
+intramuskulárne. Podanie očkovacej látky sa neodporúča v čase, keď má pacient akútne
+horúčkovité ochorenie. Výdaj lieku je viazaný na lekársky predpis. (“Prevenar 13®,”
+2010)
+43
+
+Pneumovax 23
+Táto pneumokoková polysacharidová očkovacia látka zo skupiny imunopreparátov sa
+používa na imunizáciu proti pneumokokovému ochoreniu detí a dospelých. Je to injekčný
+roztok naplnený v injekčnej striekačke a aplikácia lieku je intramuskulárna alebo
+subkutánna. Podobne ako Prevenar, aj Pneumovax je indikovaný ako prevencia
+meningitídy, pneumónie, sepsy aj bakterémie. Liek je viazaný na lekársky predpis.
+(PNEUMOVAX® 23 - MSD.Nl, n.d.)
+Influvac
+Influvac je vakcína proti chrípke. Funguje na rovnakom princípe ako ostatné vakcíny, t.j.
+pomáha organizmu vytvárať protilátky proti vírusom, a to približne po 2 až 3 týždňoch od
+podania. Je určená dospelým a deťom od 6 mesiacov. Nechráni pred bežným
+nachladnutím, aj keď príznaky môžu byť podobné ako sú príznaky chrípky. Vakcína sa
+podáva intramuskulárne alebo subkutánne, v žiadnom prípade ju nesmieme podať
+intravaskulárne. Patrí tiež medzi imunopreparáty a môže sa aplikovať aj počas tehotenstva.
+(Influvac - ADC.Sk, n.d.)
+Vaxigrip
+Táto vakcína proti chrípke je podobná Influvac – u, chráni proti štyrom vírusovým
+kmeňom, ktoré sú obsiahnuté vo vakcíne a nástup účinku je taktiež po 2 až 3 týždňoch od
+podania. Je určená pre dospelých a deti od 6 mesiacov. Vakcínu podávame
+intramuskulárne alebo subkutánne. Tak ako všetky vymenované vakcíny, aj Vaxigrip patrí
+medzi imunopreparáty. (Vaxigrip Tetra - ADC.Sk, n.d.)
+
+44
+
+DISKUSIA
+Pneumónia vo všeobecnosti predstavuje celosvetový problém. Komunitná pneumónia je
+jednou z najčastejšie sa vyskytujúcich druhov pneumónie a je častou príčinou smrti najmä
+u rizikových skupín pacientov.
+Istá Fínska štúdia potvrdila dramaticky stúpajúcu úmrtnosť pacientov žijúcich v EÚ na
+komunitnú pneumóniu práve vo vyššom veku. Úmrtnosť je podľa tejto štúdie až 6 –
+násobne vyššia u pacientov nad 75 rokov ako vo vekovej skupine od 30 do 44 rokov.
+Celková pozorovaná úmrtnosť v priebehu prvých 30 dní ochorenia u pacientov nad 65
+rokov bola o 7,6% vyššia ako podľa istej španielskej štúdie, ale zároveň nižšia oproti iným
+štúdiám, podľa ktorých sa úmrtnosť na komunitnú pneumóniu u ľudí vo vyššom veku
+pohybuje od 12,5% do 15,5%. (Torner et al., 2017)
+Príznaky a prejavy zápalu pľúc sú často zanedbávané a návštevu lekára si pacienti volia
+ako poslednú alternatívu. Týmto však môže dôjsť k zhoršeniu zdravotného stavu a aj keď
+nakoniec nie je potrebná hospitalizácia, určite si liečba vyžaduje podávanie antibiotík. Ich
+nesprávne, nepravidelné, nadmerné či práve naopak, krátkodobé užívanie spôsobuje
+rezistenciu a tá je práve jedným z dôvodov vysokej úmrtnosti obyvateľstva.
+Slovensko v porovnaní s ďalšími tromi krajinami (Maďarsko, Poľsko a Česko) vykazuje
+najvyššiu mieru rezistencie. Na Slovensku je rezistencia až o 60% vyššia ako v Maďarsku.
+Priemer týchto štyroch krajín spolu je vyšší ako celkový priemer Európskej únie.
+Oproti priemeru Európskej únie, ktorý predstavoval v roku 2014 19,8% je však spotreba
+antibiotík v Maďarsku dnes už výrazne nižšia a klesá v posledných rokoch aj na
+Slovensku. Tieto fakty sú pozitívnymi ukazovateľmi a v nasledujúcich rokoch môžu
+pomôcť znížiť aj rezistenciu. (Safrany & Monnet, 2012)
+Vakcinácia je jediný účinný spôsob prevencie proti pneumónií. Účinnosť a bezpečnosť
+bola potvrdená aj klinickými štúdiami. V USA a v Európskej únii bolo vykonaných päť
+štúdií hodnotiacich imunitnú odpoveď organizmu na 13 – valentnú polysacharidovú
+konjugovanú vakcínu. Hodnotené osoby boli vo veku od 18 do 95 rokov a boli predtým už
+očkovaní
+
+jednou
+
+alebo
+
+viacerými
+
+polysacharidovej
+
+vakcíny.
+
+Štúdie
+
+dávkami
+sa
+
+23
+
+–
+
+valentnej
+
+pneumokokovej
+
+vykonávali
+
+na
+
+zdravých
+
+jedincoch,
+
+na
+
+imunokompromitovaných pacientoch aj na osobách patriacich do iných rizikových skupín
+
+45
+
+(alkoholizmus, fajčenie). Bezpečnosť očkovacej látky bola schválená a európska komisia
+tak schválila jej indikáciu pre dospelých. (Musher & Rodriguez-Barradas, 2014)
+Účinnosť proti komunitnej pneumónií sa stanovila na základe rozsiahlej randomizovanej,
+dvojito zaslepenej, placebom kontrolovanej štúdie, ktorá bola vykonaná v Holandsku. Až
+84 496 dobrovoľníkov nad 65 rokov dostalo jednorázovú dávku 13 – valentnej
+polysacharidovej konjugovanej vakcíny alebo placeba s randomizáciou 1:1. Výsledok
+potvrdil účinnosť aj bezpečnosť vakcíny. (Bonten et al., 2015)
+
+46
+
+ODPORÚČANIA PRE PRAX
+
+
+Vyhýbať sa miestam s vysokým rizikom nákazy infekciou spôsobujúcou
+komunitnú pneumóniu
+
+
+
+V rámci prevencie dbať na hygienické opatrenia a dodržiavať ich, keďže patogény,
+ktoré zapríčiňujú vznik zápalu pľúc, sa šíria jednoduchým a bežným spôsobom kvapôčkovou infekciou
+
+
+
+Prítomné príznaky ochorenia nezanedbávať, aby liečba nebola neskorá a nevznikli
+ďalšie komplikácie
+
+
+
+Najmä pri ambulantnej liečbe dodržiavať pokyny lekára a dbať na správne užívanie
+antibiotík, aby nevznikla rezistencia na ne
+
+
+
+Uvedomiť si riziko a komplikácie ochorenia a v rámci možnosti prijať najbežnejší
+a najúčinnejší spôsob prevencie, ktorou je vakcinácia
+
+
+
+Byť
+
+viac
+
+oboznamovaní
+
+s rizikami
+
+tohto
+
+ochorenie
+
+v rámci
+
+prevencie,
+
+preventívnych prehliadok lekármi a inými zdravotníckymi pracovníkmi, lebo
+mnohokrát sú vznik a šírenie ochorenia podceňované
+
+
+Za prítomnosti pneumónie je dôležitá informovanosť pacienta o terapií, o tom, že
+perorálna liečba nie je dostatočná, treba dodržiavať oddych na lôžku a iné
+nefarmakologické liečebné postupy
+
+47
+
+ZÁVER
+V bakalárskej práci sme popísali pneumóniu ako druh ochorenia dýchacích ciest a zamerali
+sme sa konkrétne na jeden z jej druhov – komunitnú pneumóniu. V práci nájdeme spôsob
+vzniku a šírenia choroby. Popísali sme jej príznaky, ktoré je dôležité poznať z dôvodu
+včasnej diagnostiky a nasadenia liečby. Diagnostické metódy v práci poslúžia čitateľovi
+ako vzácna informácia pri výskyte ochorenia. Uviedli sme moderné spôsoby zisťovania
+patogénov spôsobujúcich komunitnú pneumóniu a infikovanie pacienta. Kapitola o liečbe
+delí spôsob liečby pneumónie na ambulantnú liečbu a liečbu vyžadujúcu si hospitalizáciu.
+Nájdeme tu stručné informácie o antibiotickej liečbe, o ich správnom užívaní a druhoch,
+keďže podávanie antibiotík je takmer nevyhnutné pri infikovaní niektorým patogénom
+spôsobujúcim zápal pľúc. Popísali sme iné spôsoby liečby, nefarmakologické postupy
+a bežné, potrebné opatrenia, ktoré je nutné dodržiavať pre účinnú liečbu.
+Hlavným cieľom bakalárskej práce je poukázať na imunokompromitovaných a chronicky
+chorých pacientov. V práci sme vymenovali rizikové faktory, ktoré vplývajú na ľudí
+s rôznymi imunitnými deficitmi a vyplývajú z komunitnej pneumónie. Uviedli sme ďalšie
+komplikácie ako sekundárne ochorenie pneumónie.
+Základom odboru je prevencia chorôb. V práci sme uviedli niekoľko preventívnych
+opatrení a popísali sme aj najúčinnejší a najbežnejší spôsob prevencie, ktorou je očkovanie.
+Charakterizovali sme dostupné druhy očkovacích látok na Slovensku, spôsob podania
+jednotlivých druhov, indikácie a dĺžku ochrany pacienta. V epidemiologickej časti práce
+sme porovnali výskyt a mortalitu ochorenia na Slovensku a v iných krajinách Európskej
+únie a tiež počet hospitalizovaných pacientov.
+
+48
+
+ZDROJE
+Beneš, J., Džupová, O., Blechová, Z., & Kolek, V. (2012). Skórovací systémy hodnotící
+prognózu
+
+komunitních
+
+pneumónií.
+
+https://www.casopisvnitrnilekarstvi.cz/pdfs/vnl/2012/05/05.pdf
+Bonten, M. J. M., Huijts, S. M., Bolkenbaas, M., Webber, C., Patterson, S., Gault, S., van
+Werkhoven, C. H., van Deursen, A. M. M., Sanders, E. A. M., Verheij, T. J. M.,
+Patton, M., McDonough, A., Moradoghli-Haftvani, A., Smith, H., Mellelieu, T.,
+Pride, M. W., Crowther, G., Schmoele-Thoma, B., Scott, D. A., … Grobbee, D. E.
+(2015). Polysaccharide Conjugate Vaccine against Pneumococcal Pneumonia in
+Adults.
+
+New
+
+England
+
+Journal
+
+of
+
+Medicine,
+
+372(12),
+
+1114–1125.
+
+a
+
+prevencia.
+
+https://doi.org/10.1056/nejmoa1408544
+Čižnár,
+
+P.
+
+(2009).
+
+Pneumokokové
+
+infekcie
+
+u
+
+detí
+
+ich
+
+https://www.solen.sk/storage/file/article/74cd29d269c45ed7c0d9433b9e8b58e6.pdf
+Dluholucký,
+
+S.
+
+(2009).
+
+Pneumónia
+
+v
+
+ambulantnej
+
+praxi
+
+pediatra.
+
+8–13.
+
+https://www.solen.sk/storage/file/article/fa127b46677b80a072955c7091e2f383.pdf
+Dzúrik, R., & Trnovec, T. (1997). Štandardné terapeutické postupy (Osveta).
+Eurostat. (2017). Almost 120 000 deaths from pneumonia in the EU - Products Eurostat
+News - Eurostat. https://ec.europa.eu/eurostat/en/web/products-eurostat-news/-/edn20171110-1
+Fibigr, O., & Pauk, N. (2017). Pneumonie v praxi všeobecného lékaŕe a její léčba.
+https://medicinapropraxi.cz/pdfs/med/2017/03/04.pdf
+Husarčeková,
+
+J.
+
+(2006).
+
+Trypanosomiáza
+
+-
+
+spavá
+
+choroba
+
+-
+
+ZDRAVIE.sk.
+
+https://www.zdravie.sk/choroba/27340/trypanosomiaza-spava-choroba
+Influvac
+
+-
+
+ADC.sk.
+
+(n.d.).
+
+Retrieved
+
+April
+
+1,
+
+2021,
+
+from
+
+https://www.adc.sk/databazy/produkty/detail/influvac-869190.html
+Jakubec, P., & Kolek, V. (2018). Pneumonie pro klinickou praxi (Maxdorf s.).
+Joppa, P., Pobeha, P., Solovič, I., & Tkáčová, R. (2018). Vybrané kapitoly z pneumológie a
+ftizeológie (Univerzita). https://unibook.upjs.sk/img/cms/2018/lf/vybrane-kapitoly-zpneumologie-ftizeologie-web-final.pdf
+49
+
+Juhaňák, S. (2012). Klinicky významné baktérie.
+Kajtár, P. (2015). Súčasné odporúčania na diagnostiku a liečbu komunitných pneumónií.
+https://www.solen.sk/storage/file/article/c926ed97cb5adf0b43a28ca6c48f067d.pdf
+Kolek, V. (2002). Komunitní pneumonie dospělých. Doporučené postupy.
+Kolek, V., Kolář, M., Kašák, V., Beneš, J., & Dindoš, J. (2011). Diagnostika a léčba
+komunitní pneumonie dospělých. In Vnitrni Lekarstvi (Vol. 57, Issue 10, pp. 858–
+866). https://www.infekce.cz/Legislativa/Pneumonie DP170311.pdf
+Kuková, Z., & Duchoňová, J. (2013). Pneumónie získané v komunite u detí.
+https://www.solen.sk/storage/file/article/43951c6919a831fa9cc90fa65567194b.pdf
+Laššán, Š., & Laššánová, M. (2008). Vakcinácia a prevencia pneumokokovej komunitnej
+pneumónie. https://www.klinickafarmakologie.cz/pdfs/far/2014/04/04.pdf
+Lekár.sk, R. portálu. (2019). Toxoplazmóza | Lekar.sk.
+https://lekar.sk/clanok/toxoplazmoza
+Ľuboš Drgoňa a kol. (2007). Diagnostika a liečba pneumónií u hospitalizovaných
+pacientov (GDA VISUAL).
+Masár, O. (2015). Kompendium všeobecného praktického lekára pre medikov (Univerzita).
+https://www.fmed.uniba.sk/fileadmin/lf/sluzby/akademicka_kniznica/PDF/Elektronic
+ke_knihy_LF_UK/Kompendium_vseobecnehopraktickeho_lekara.pdf
+Mediweb. (2019). Slovensku patrí druhá priečka v úmrtnosti na zápaly pľúc v rámci EÚ.
+https://mediweb.hnonline.sk/spravy/2222110-slovensku-patri-druha-priecka-vumrtnosti-na-zapaly-pluc-v-ramci-eu
+Musher, D. M., & Rodriguez-Barradas, M. C. (2014). The CAPITA study of proteinconjugate pneumococcal vaccine and its implications for use in adults in developed
+countries. In Human Vaccines and Immunotherapeutics (Vol. 10, Issue 5, pp. 1331–
+1333). Landes Bioscience. https://doi.org/10.4161/hv.29031
+Pauk, N. (2010). Pneumonie v rukou praktického lékaře. Medicína pro Praxi, 7(10), 380–
+383. https://www.medicinapropraxi.cz/pdfs/med/2010/08/08.pdf
+
+50
+
+PNEUMOVAX® 23 - MSD.nl. (n.d.). Retrieved April 1, 2021, from
+https://www.adc.sk/databazy/produkty/detail/pneumovax-23-270014.html
+Poláček, H., Szilágyiová, M., Mištuna, D., Zeleňák, K., & Ševík, M. (2011). Echinokokóza
+v CT obraze | Slovenská rádiológia. http://www.slovakradiologyjournal.com/1-20111/echinokokoza-v-ct-obraze/
+Prevenar 13®. (2010). Pädiatrie & Pädologie, 45(1), 43–47.
+https://doi.org/10.1007/s00608-010-0191-4
+RÚVZ. (2010). RUVZ-Regionalny urad verejneho zdravotnictva.
+https://www.vzbb.sk/sk/aktuality/spravy/2010/pneumokokove_infekcie.php
+Safrany, N., & Monnet, D. L. (2012). Antibiotics obtained without a prescription in
+Europe. In The Lancet Infectious Diseases (Vol. 12, Issue 3, pp. 182–183).
+https://doi.org/10.1016/S1473-3099(12)70017-8
+Sarbacker, B., Threatt, T., & Gordon, M. (2018). Preventing and Treating CommunityAcquired Pneumonia: A Focus on Men. 17.8.2018.
+https://www.uspharmacist.com/article/preventing-and-treating-communityacquiredpneumonia-a-focus-on-men
+Sataloff, R. T., Johns, M. M., & Kost, K. M. (n.d.). Plne hradená pneumokoková
+polysacharidová konjugovaná vakcína (13-valentná, adsorbovaná) na Slovensku.
+Retrieved March 16, 2021, from
+https://www.eduprofipharm.sk/userfiles/periodicals/15/PlneMedicusI-10.pdf
+Solovič, I. (2011). Pneumokokové ochorenia u dospelých - možnosti prevencie.
+http://www.vpl.sk/files/file/XXXIII prezentacie pdf/sala 2/1
+stvrtok/pneumokoky/Solovic_VPL Smokovec.pdf
+ŠÚKL. (2020). Antibiotická rezistencia: Čo môžem urobiť? | ŠÚKL.
+https://www.sukl.sk/hlavna-stranka/slovenska-verzia/media/tlacovespravy/antibioticka-rezistencia-co-mozem-urobit?page_id=5466
+Tomášová, M. (2014). Postavenie antibiotík v liečbe respiračných infekcií.
+https://www.edukafarm.sk/data/soubory/casopisy/mediNEWS/01-2014/03
+POSTAVENIE ANTIBIOTIK V LIECBE RESPIRACNYCH INFEKCII.pdf
+51
+
+Torner, N., Izquierdo, C., Soldevila, N., Toledo, D., Chamorro, J., Espejo, E., FernándezSierra, A., & Domínguez, A. (2017). Factors associated with 30-day mortality in
+elderly inpatients with community acquired pneumonia during 2 influenza seasons.
+Human Vaccines & Immunotherapeutics, 13(2), 450–455.
+https://doi.org/10.1080/21645515.2017.1264782
+Unilabs. (2017). Infekčné pneumónie | Unilabs. https://www.unilabs.sk/casopisinvitro/infekcne-pneumonie
+Vančíková, Z. (2008). Komunitní pneumonie u dětí - Zdraví.Euro.cz.
+https://zdravi.euro.cz/denni-zpravy/profesni-aktuality/komunitni-pneumonie-u-deti363783
+Vaxigrip Tetra - ADC.sk. (n.d.). Retrieved April 1, 2021, from
+https://www.adc.sk/databazy/produkty/detail/vaxigrip-tetra-800825.html
+Wikipedia. (2020). Pneumonia - Wikipedia. 06.05.2020.
+https://en.wikipedia.org/wiki/Pneumonia#Other
+Wikipédia. (2020). Profylaxe – Wikipedie. https://cs.wikipedia.org/wiki/Profylaxe
+Zdraví - Babezióza. (2020). Babezióza: původce, příznaky, diagnostika a léčba Zdraví.Euro.cz. https://zdravi.euro.cz/leky/babezioza-puvodce-priznaky-lecba/
+Zdravie.sk. (2017). Viete, čo je to imunomodulačná liečba?
+https://zdravie.pluska.sk/zdravy-zivot/viete-co-je-to-imunomodulacna-liecba
+
+52
+
+

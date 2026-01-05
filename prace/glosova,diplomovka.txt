@@ -1,0 +1,2939 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA SOCIÁLNYCH A EKONOMICKÝCH VIED
+
+SOCIÁLNE REPREZENTÁCIE POLYAMORIE
+U PSYCHOTERAPEUTOV A PSYCHOTERAPEUTIEK
+NA SLOVENSKU
+Diplomová práca
+
+Bratislava, 2024
+Bc. Martina Glosová
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FAKULTA SOCIÁLNYCH A EKONOMICKÝCH VIED
+
+SOCIÁLNE REPREZENTÁCIE POLYAMORIE
+U PSYCHOTERAPEUTOV A PSYCHOTERAPEUTIEK
+NA SLOVENSKU
+Diplomová práca
+
+Študijný program: Sociálna a pracovná psychológia
+Študijný odbor: 7701 Psychológia
+Školiace pracovisko: Ústav aplikovanej psychológie
+Školiteľ: doc. PhDr. Gabriel Bianchi, PhD.
+
+Bratislava, 2024
+Bc. Martina Glosová
+
+Čestné prehlásenie
+Prehlasujem, že záverečnú prácu som vypracovala samostatne s použitím literatúry
+uvedenej v zozname použitej literatúry.
+V Bratislave dňa 21. 6. 2024
+
+Martina Glosová ..........................
+
+Týmto by som sa chcela poďakovať školiteľovi tejto práce, doc. PhDr. Gabrielovi
+Bianchimu, PhD., za jeho čas, trpezlivosť a ochotu byť k dispozícii pri písaní tejto diplomovej
+práce. Taktiež by som rada poďakovala všetkým zapojeným psychoterapeutom a
+psychoterapeutkám za ich zapojenie, dôveru a zdieľanie. V neposlednom rade patrí vďaka
+mojej rodine a blízkym za ich podporu, bez ktorej by som to nezvládla
+
+ABSTRAKT
+GLOSOVÁ,
+
+Martina:
+
+Sociálne
+
+reprezentácie
+
+polyamorie
+
+u
+
+psychoterapeutov
+
+a
+
+psychoterapeutiek na slovensku [Diplomová práca]. Univerzita Komenského v Bratislave.
+Fakulta sociálnych a ekonomických vied. Vedúca práce: doc. PhDr. Gabriel Bianchi, PhD.
+Stupeň odbornej kvalifikácie: Magister. Bratislava: FSEV UK, 2024, 88 strán
+Polyamoria sa vzťahuje na prax alebo túžbu po intímnych vzťahoch s viacerými partnermi so
+znalosťou a súhlasom všetkých zúčastnených strán. Vzhľadom na rastúcu popularitu a
+viditeľnosť polyamorie globálne, tento výskum skúma, ako je tento fenomén vnímaný a
+integrovaný do profesionálneho diskurzu slovenských psychoterapeutov a psychoterapeutiek.
+Tento výskum sa zameral na zistenie ukotvovania a objektifikácie polyamorie u slovenských
+psychoterapeutov a psychoterapeutiek. Výskumu sa zúčastnilo 13 participantov a
+participantiek, s ktorými boli vedené hĺbkové pološtrukturované rozhovory. Na základe
+tematickej analýzy sme identifikovali päť hlavných tém a 19 podtém, ktorými si
+psychoterapeuti a psychoterapeutky ukotvovali polyamoriu. Boli to Charakteristika a
+kategorizácia polyamorie, Hodnotové ukotvenia, Motivácie pre polyamoriu, Kontextuálne
+ukotvenia a Výzvy a problémy polyamorie. Polyamoria bola objektifikovaná prostredníctvom
+4 identifikovaných tém a to: Metafory a vizuálne objektifikácie, Prípadové štúdie a osobné
+príbehy, Imaginárne príbehy a hypotetické príbehy a Príklady z iných kultúr. Výskum odhalil
+silné mononormatívne nastavenie a sklon k patologizácii polyamorie, čo poukazuje na potrebu
+vzdelávania o nemonogamných vzťahoch v terapeutickej praxi. Tento výskum prispieva k
+pochopeniu komplexnej dynamiky sociálnych reprezentácií v psychoterapii a zdôrazňuje
+potrebu väčšej inkluzívnosti a povedomia v terapeutických prostrediach.
+
+Kľúčové slová: polyamoria, sociálne reprezentácie, psychoterapeuti, Slovensko, ukotvovanie,
+objektifikácia
+
+ABSTRACT
+GLOSOVÁ, Martina: Social Representations of Polyamory Among Psychotherapists in
+Slovakia [Master thesis]. Comenius University in Bratislava. Faculty of Social and Economic
+Sciences. Supervisor:: doc. PhDr. Gabriel Bianchi, PhD. Qualification Degree: Master’s
+degree. Bratislava: FSEV UK, 2024, 88 pages
+
+Polyamory refers to the practice or desire for intimate relationships with multiple partners with
+the knowledge and consent of all parties involved. Given the growing popularity and visibility
+of polyamory globally, this research explores how this phenomenon is perceived and integrated
+into the professional discourse of Slovak psychotherapists. The research focused on identifying
+the anchoring and objectification of polyamory among Slovak psychotherapists. The study
+involved 13 participants who were interviewed in-depth using semi-structured interviews.
+Based on thematic analysis, we identified five main themes and 19 sub-themes through which
+psychotherapists anchored polyamory: Characterization and categorization of polyamory,
+Value anchoring, Motivations for polyamory, Contextual anchoring, and Challenges and
+problems of polyamory. Polyamory was objectified through four identified themes: Metaphors
+and visual objectifications, Case studies and personal stories, Imaginary stories and
+hypothetical stories, and Examples from other cultures. The research revealed a strong
+mononormative orientation and a tendency to pathologize polyamory, highlighting the need for
+education about non-monogamous relationships in therapeutic practice. This research
+contributes to understanding the complex dynamics of social representations in psychotherapy
+and emphasizes the need for greater inclusivity and awareness in therapeutic environments.
+
+Key words: Polyamory, social representations, psychotherapists, Slovakia, anchoring,
+objectification
+
+Obsah
+
+Úvod................................................................................................................................ 9
+1 Teoretické východiská ............................................................................................. 10
+1.1 Polyamoria .............................................................................................................. 10
+1.2 Sociálne reprezentácie ........................................................................................ 15
+1.3 Motivácie vstupu do polyamorie...................................................................... 18
+2 Metódy ....................................................................................................................... 24
+2.1 Participanti/ky ..................................................................................................... 24
+2.2 Dizajn a procedúra .............................................................................................. 26
+2.3 Metóda analýzy dát ............................................................................................. 29
+2.4 Reflexia metodologickej pozície......................................................................... 31
+3 Prezentácia výsledkov ................................................................................................ 33
+3.1 Ukotvenia polyamorie......................................................................................... 33
+3.2 Objektifikácie polyamorie .................................................................................. 65
+4 Diskusia...................................................................................................................... 73
+Záver ............................................................................................................................. 81
+Literatúra ....................................................................................................................... 83
+
+Úvod
+Polyamoria, forma konsenzuálnej nemonogamie, ktorá zahŕňa udržiavanie viacerých
+milujúcich a intímnych vzťahov s vedomím a súhlasom všetkých zúčastnených, získava
+globálne čoraz väčšiu viditeľnosť a prijatie. Napriek tomuto rastúcemu povedomiu je
+polyamoria na Slovensku stále pomerne nový a málo preskúmaný fenomén, najmä v oblasti
+psychoterapie. Táto diplomová práca sa zameriava na skúmanie sociálnych reprezentácií
+polyamorie medzi slovenskými psychoterapeutmi a psychoterapeutkami, s cieľom pochopiť,
+ako títo odborníci vnímajú a integrujú tento koncept do svojej terapeutickej praxe.
+Vzhľadom na novotu polyamorie v slovenskom odbornom a verejnom diskurze tento
+výskum skúma, ako psychoterapeuti, ako kľúčové postavy v oblasti duševného zdravia a
+sociálneho poradenstva, konštruujú a sprostredkúvajú sociálne reprezentácie polyamorie.
+Pochopenie týchto reprezentácií je kľúčové, pretože môžu výrazne ovplyvniť terapeutický
+vzťah a kvalitu starostlivosti poskytovanej klientom, ktorí praktizujú alebo majú záujem o
+polyamoriu.
+Táto práca využíva kvalitatívny exploračný výskum, vrátane pološtrukturovaných
+rozhovorov s 13 slovenskými psychoterapeutmi, aby odhalila ich postoje, predsudky a znalosti
+o polyamorii. Získané poznatky majú za cieľ prispieť k inkluzívnejšiemu a informovanejšiemu
+prístupu k psychoterapii, čo bude prospešné pre odborníkov aj klientov.
+V prvej kapitole poskytujeme podrobnú diskusiu o polyamorii, vrátane jej definícií,
+charakteristík a stigmatizácie. Taktiež skúma teóriu sociálnych reprezentácií, so zameraním na
+procesy ukotvovania a objektivizácie. Taktéž diskutujeme existujúcu literatúru o motiváciách
+za polyamoriou, čerpajúc z rôznych psychoterapeutických perspektív a predchádzajúcich
+výskumných zistení.
+Druhá kapitola popisuje výskumný dizajn, vrátane výberu participantov, postupov
+zberu dát a metód použité na analýzu dát.
+V části tri sú prezentované výsledky pološtrukturovaných rozhovorov, zdôrazňujúc
+hlavné témy a vzory identifikované v sociálnych reprezentáciách polyamorie medzi
+psychoterapeutmi.
+
+9
+
+Posledná část je diskusia - kapitola interpretuje výsledky v kontexte existujúcej
+literatúry, diskutuje implikácie zistení pre psychoterapeutickú prax a budúci výskum. V záveru
+sumarizujeme hlavné zistenia, reflektujeme na limity štúdie a ponúka odporúčania pre prax a
+ďalší výskum.
+
+1 Teoretické východiská
+1.1 Polyamoria
+1.1.1 Vymedzenie monogamie, nemonogamie a KNM
+Nakoľko sa nemonogamia definuje ako opak monogamie, vymedzíme si najprv tento
+pojem. Monogamia, odvodená z gréckych výrazov znamenajúcich "jediné manželstvo",
+typicky odkazuje na exkluzívny vzťah medzi dvoma partnermi, ktorý môže byť buď klasický
+alebo sériový. Nemonogamia, opak monogamie, zahŕňa rôzne formy, vrátane polygamie,
+skupinového manželstva, swingerov, otvorených vzťahov a anarchie vzťahov.
+Brandon (2016) uvádza, že koncept monogamie je najlepšie pochopený rozlíšením
+medzi sexuálnou monogamiou a sociálnou monogamiou. Sexuálna monogamia označuje
+exkluzívny sexuálny vzťah medzi dvoma jednotlivcami, zatiaľ čo sociálna monogamia
+predstavuje spoločensky uznávané párové spojenie. Tieto dve formy monogamie môžu
+existovať spoločne alebo nezávisle od seba. Sociálna monogamia bez sexuálnej monogamie je
+bežná, čo sa odráža v miere never a konsenzuálnych nemonogamných záväzných vzťahov. Na
+druhej strane, sexuálna monogamia bez sociálnej monogamie je menej bežná, napríklad keď
+má slobodná žena exkluzívny sexuálny vzťah so ženatým mužom. V industrializovaných
+spoločnostiach je sériová sexuálna a sociálna monogamia normou, čo je konzistentné naprieč
+časom a kultúrami.
+Conley (2012) zdôrazňuje, že v súčasných západných kultúrach monogamia nemusí
+nevyhnutne znamenať, že partner je a vždy bude jediným sexuálnym partnerom. Navyše,
+monogamia je nekonzistentne definovaná v akademickej literatúre a výskumníci často
+
+10
+
+nerozlišujú medzi tým, čo ľudia skutočne praktizujú (napr. sériová monogamia, zdanlivá
+monogamia s neverou) a tým, čo je implikované termínom monogamia, teda dlhodobý vzťah s
+jediným sexuálnym partnerom.
+Monogamia sa ďalej delí na klasickú a sériovú. Pri klasickej monogamii ľudia uzavrú
+manželstvo a zostávajú sexuálne verní počas celého života. Po smrti partnera vstúpia do
+celibátu. Sériová monogamia, ktorá je oveľa bežnejšia, zahŕňa cyklus, v ktorom ľudia vytvoria
+sexuálne exkluzívny vzťah, a po prípadnom rozchode začnú nový exkluzívny vzťah s inou
+osobou. (Gray, 2013)
+V industrializovaných spoločnostiach je bežnou praxou sériová monogamia, ktorá
+zahŕňa vytváranie exkluzívnych párových väzieb, ktoré sa môžu rozpustiť a znovu vytvoriť s
+rôznymi partnermi v priebehu času. Existuje pretrvávajúca diskusia o tom, či je monogamia pre
+ľudí prirodzená. Hoci je dlhodobá monogamia často idealizovaná, ľudská história a biologické
+vlastnosti naznačujú flexibilitu v stratégiách párenia, vrátane dlhodobých aj krátkodobých
+párových väzieb. (Brandon, 2016)
+Nemonogamné vzťahy sú zjednodušene tie, ktoré nie sú monogamné, to znamená tie,
+v ktorých figuruje iné množstvo osôb, než len dve vzájomne si exkluzívne.
+Súhlas a uvedomenie si partnera sú kľúčové pri rozlišovaní typov nemonogamie.
+Nekonsenzuálna nemonogamia zahŕňa sexuálne interakcie mimo primárneho vzťahu bez
+súhlasu partnera, často označované ako nevera.
+Conley (2017) definuje konsenzuálnu nemonogamiu (KNM) ako vzťahové
+usporiadanie, v ktorom partneri súhlasia, že je prijateľné mať viac ako jeden sexuálny alebo
+romantický vzťah súčasne. KNM môže mať mnoho rôznych foriem, vrátane swinging (kde pár
+môže mať iných sexuálnych partnerov, zvyčajne na spoločenských udalostiach určených na
+tento účel), polyamorie (kde ľudia môžu udržiavať viacero milujúcich alebo záväzných
+vzťahov) a otvorených vzťahov (kde primárny pár sleduje vonkajšie vzťahy, ktoré sú zvyčajne
+zamerané iba na sex).
+V predindustriálnych spoločnostiach boli manželstvá často sociálne monogamné, ale
+nie nevyhnutne sexuálne monogamné. Polygamné štruktúry boli bežné, ale väčšina mužov bola
+11
+
+sociálne monogamná kvôli obmedzenému prístupu k viacerým ženám. Dnes niektoré páry
+praktizujú konsenzuálnu nemonogamiu, pričom približne 5% párov sa identifikuje s nejakou
+formou nemonogamného usporiadania. Tieto páry uvádzajú podobné úrovne spokojnosti a
+stability vo vzťahoch ako monogamné páry. (Conley, 2017)
+1.1.2 Polyamoria - charakteristika, hlavné koncepty
+Polyamoria je špecifická forma konsenzuálnej nemonogamie. Slovo polyamorie je
+kombinácia gréckeho poly (mnoho) a latinského amory (láska), teda ide o "mnoho lásku". Slovo
+prvýkrát použili manželia Zellovi na konci 80. rokov, ktorí polyamoriu vnímali ako jednu zo
+zásad svojej náboženskej organizácie Cirkev všetkých svetov (Anapol 2010). Polyamoria tak,
+ako je používaná dnes, nemá jednotnú definíciu, my na účely tejto práce a pri vedení
+rozhovorov používame definujeme polyamoriu ako „prax viac ako jedného emocionálne
+intímneho a/alebo sexuálneho vzťahu s plným vedomím a súhlasom všetkých zúčastnených
+osôb“, ale iní popisujú polyamoriu ako životný spôsob, status vzťahu alebo dokonca vieru
+(Rubel, 2020; Cardoso, 2021).
+Lano a Parry (1995) definujú polyamoriu ako zodpovednú nemonogamiu, ktorá
+existuje, ak všetci partneri vedia o tom, že ich vzťah je nemonogamný. Fafejta (2016) zase
+hovorí, že polyamoria je túžba a schopnosť milovať a mať emocionálne a/alebo erotické vzťahy
+s viacerými jedincami. Z toho všetkého teda plynie, že nie je nevyhnutné, aby človek mal
+súčasne väčšie množstvo vzťahov len preto, aby sa mohol považovať za polyamorného.
+Polyamoriu síce možno zaradiť medzi formy konsenzuálnej nemonogamie, ale podľa
+Klesseho (2011) a ďalších (Anapol, 2010) je zásadný rozdiel medzi nemonogamiou a
+polyamoria existencia alebo absencia nejakého záväzku. Pri vstupovaní do nového vzťahu je
+určujúce, či máte záujem o dlhodobý zväzok. Polyamoria zdôrazňuje záväzok a lásku, kým v
+nemonogamii je kladený dôraz na životný štýl.
+Kľúčové rozdelenie typov vzťahov v polyamorii je otázka prítomnosti hierarchickej
+štruktúry vo vzťahu. Niektorí polyamorní ľudia svoje vzťahy definujú pomocou terminológie,
+kde o svojich partneroch hovoria ako o primárnych (hlavných) a sekundárnych (vedľajších).
+Každý človek si takéto vzťahy definuje inak, ale typicky sa odrážajú v miere spoločných
+záväzkov, ako sú financie, spoločné bývanie, výchova detí, množstvo spoločne stráveného
+času. Primárnemu partnerovi je potom v každodennom aj inom rozhodovaní dávaná prednosť.
+12
+
+Primárny vzťah je teda taký, ktorý partneri v mnohých ohľadoch uprednostňujú pred ďalšími
+vzťahmi. Sekundárny partner môže byť pre polyamorného človeka dôležitý, ale z hľadiska
+životných rozhodnutí bude vždy na vedľajšej koľaji (Deri, 2011).
+Na druhej strane existujú ľudia, ktorí svoje vzťahy hierarchicky hodnotiť nechcú.
+Mnohí polyamorní ľudia sa snažia k partnerom pristupovať rovnocenne. Ako extrémny prípad
+sú prívrženci takzvanej vzťahovej anarchie (relationship anarchy), pre ktorých je každý vzťah
+jedinečný a jediní, kto o ňom môže rozhodovať, sú ľudia v ňom; teda nie tí, ktorí majú s
+niektorým z partnerov vo vzťahu svoj vlastný vzťah. Vzťahoví anarchisti zdôrazňujú, že všetky
+vzťahy sú si vo svojej podstate rovné, a nemožno prioritizovať niektoré len kvôli ich charakteru
+- teda len preto, že taký vzťah obsahuje sexuálny styk, výchovu detí alebo lásku. (Easton, 2017)
+V polyamorných vzťahoch existujú typické štruktúry, ktoré sa často opakujú, a ktoré
+teda stojí za to spomenúť. Pre vzájomne prepojených ľudí sa zaužíval pojem polykula, čo je
+teda skupina ľudí, ktorí sú navzájom romanticky či sexuálne prepojení. Medzi najrozšírenejšie
+polykuly patrí takzvané V, V-vzťah alebo véčko. Je to typicky situácia, kde jeden človek má
+dvoch partnerov, ktorí spolu ale vzťah nemajú. Taký vzťah môže napríklad vzniknúť vtedy,
+keď sa vzťah dvoch ľudí otvorí a jeden z nich si nájde ďalšieho partnera. Tí dvaja, ktorí spolu
+vzťah nemajú, sú si navzájom takzvaní metamours, alebo metamilenci, čo je pojem pre dvoch
+ľudí, ktorí majú toho istého partnera, bez toho aby mali vzťah spolu. Ak majú spolu vzťah traja
+ľudia, jedná sa o triádu, alebo trojuholník. Jedná sa teda o vzájomné vzťahy troch ľudí, kde
+každá dvojica má spolu nejakú formu vzťahu. Ten istý princíp existuje pre štyroch ľudí, kde sa
+takej polykule hovorí štvorec (Anapol, 2010).
+1.1.3 Polyamória a stigma
+Podľa záverov Antalffyho (2011) je väčšina článkov, ktoré sa týkajú polyamorie,
+negatívna - zameriavajú sa na neveru, podvádzanie a polyamoriu kritizujú. Polyamoria sa tak v
+posledných rokoch dostáva viac do pozornosti, a to aj tej negatívnej. Spolu s tým, ako téma
+polyamorie postupuje, naráža opäť a znovu na konvencie a tradície, ktoré považujú monogamiu
+za jediný správny a normálny typ vzťahu. Taký postoj, ktorý vyvyšuje monogamiu na prvé
+miesto a voči nej považuje ostatné typy vzťahov za podradné, sa nazýva mononormatívnosť
+(Barker, 2010).
+
+13
+
+Polyamoria je v rozpore s normou monogamie, ale tiež sú ľudia v polyamorných
+vzťahoch často vo vzťahu s osobami rovnakého pohlavia, čo vedie k dvojnásobnej stigmatizácii
+kvôli norme heterosexuálnych vzťahov - heteronormatívnosti (Rubel, 2015).
+Conley sa vo svojej štúdii zameranej na stigmatizáciu nemonogamných vzťahov
+(2013) zameral na spôsob, akým sú tieto vzťahy zobrazované v médiách. Mediálne obrazy boli
+polarizované, a to do dvoch smerov. Z negatívneho pohľadu boli nemonogamní ľudia
+považovaní za nedospelých a sebeckých. Z vyjadrení niektorých terapeutov by človek dospel k
+záveru, že ak má človek sexuálny styk s osobou mimo svojho výhradného partnerského vzťahu,
+tak to vždy značí problém v primárnom vzťahu. Monogamia bola teda prezentovaná ako ideál.
+Na druhej strane vyzneli aj nejaké pozitívne charakteristiky polyamorných vzťahov, ktoré
+zdôrazňovali vysoký stupeň dôvery a komunikácie a nízky pocit žiarlivosti. Dá sa teda povedať,
+že aj napriek stigme voči polyamorii a nemonogamným vzťahom všeobecne existujú pozitívne
+pohľady na vec.
+Kvôli stigmatizácii niektorí ľudia žijúci v polyamorných vzťahoch tento fakt pred
+okolím skrývajú. Toto správanie je motivované snahou predísť diskriminácii zo strany
+ostatných ľudí, ale aj snahou chrániť partnerov (Balzarini, 2017).
+1.1.4 Polyamoria - súčasnosť
+Aj keď záujem o konsenzuálnu nemonogamiu (KNM) rastie, stále je málo informácií
+o jej rozšírení. Dve samostatné štúdie s dospelými participantmi z USA ukázali, že viac ako
+jeden z piatich účastníkov (približne 21 %) uviedol, že mal počas svojho života skúsenosť s
+KNM. Tento podiel bol konzistentný naprieč rôznymi vekovými skupinami, úrovňami
+vzdelania, príjmami, náboženstvami, regiónmi, politickými presvedčeniami a rasami, ale líšil
+sa podľa pohlavia a sexuálnej orientácie. Muži častejšie než ženy a osoby identifikujúce sa ako
+gay, lesba alebo bisexuál častejšie než heterosexuáli uvádzali skúsenosti s KNM. Tieto
+výsledky poukazujú na to, že značná a rôznorodá časť dospelých v USA má skúsenosti s KNM
+(Haupert a kol., 2017).
+Na ilustráciu rastúcej popularity polyamorie v Spojených štátoch, štúdia Amy Moors
+(2017) použila Google Trends na hodnotenie záujmu Američanov o polyamoriu
+prostredníctvom internetového vyhľadávania počas 10-ročného obdobia. Zistila, že
+vyhľadávania súvisiace s polyamoriou výrazne narástli a že tento nárast záujmu bol výraznejší
+
+14
+
+než pri iných populárnych témach počas toho istého obdobia, čo naznačuje jedinečný trend
+rastúceho záujmu o polyamoriu a otvorené vzťahy. To poukazuje na to, že čoraz viac ľudí
+prejavuje aspoň zvedavosť o nemonogamné vzťahy.
+Rubel a Burleigh (2018) skúmali výskyt polyamorných ľudí v USA. Napriek
+rastúcemu záujmu o polyamoriu nie je známe, koľko polyamorných ľudí je v celkovej
+populácii. Vzhľadom na rôzne interpretácie termínu ,,polyamoria", odhadovali jej rozšírenie
+podľa štyroch kritérií: identita, vzťahové presvedčenia/preferencie, vzťahový status a vzťahové
+dohody. Výskumu sa zúčastnilo 972 participantov prostredníctvom Amazon’s Mechanical
+Turk. Na základe výsledkov odhadujú, že v USA je aspoň 1,44 milióna dospelých, ktorí sa
+považujú za polyamorných.
+
+1.2 Sociálne reprezentácie
+Termín "sociálne reprezentácie" zaviedol v päťdesiatych rokoch povojnového obdobia
+Serge Moscovici, priekopník v skúmaní myslenia v spoločenskom kontexte, počas skúmania
+vnímania psychoanalýzy vo Francúzsku. Teória sociálnych reprezentácií má za cieľ poskytnúť
+ucelený výklad toho, ako sa formuje a štrukturuje obsah individuálneho myslenia
+prostredníctvom priamej a sprostredkovanej komunikácie. Definuje sa ako teória, ktorá sa
+zaoberá vznikom a predávaním presvedčení zdieľaných spoločenskou skupinou alebo celou
+spoločnosťou. Tieto zdieľané presvedčenia majú dôležitú funkciu pri vysvetľovaní reality a
+spoločenských fenoménov. Robia realitu zrozumiteľnou, bezpečnou a umožňujú jej zdieľanie
+s ostatnými (Moscovici, 1984; Plichtová, 2020).
+Moscovici (1984) definoval sociálne reprezentácie ako:
+„systém hodnôt, myšlienok a praktík s dvojitou funkciou: po prvé vytvoriť poriadok,
+ktorý jednotlivcom umožní orientovať sa vo svojom materiálnom a spoločenskom svete, a tieto
+svety zvládať. A po druhé, umožniť komunikáciu medzi členmi a členkami komunity tým, že im
+poskytnú kód pre jednoznačné pomenovávanie a klasifikovanie rôznych aspektov ich sociálneho
+sveta, a ich individuálnej a skupinovej histórie.“
+Podľa Plichtovej (2002) koncept sociálnych reprezentácií nahradil pojem "postoj",
+ktorý na začiatku histórie sociálnej psychológie dominoval. Keď sa "postoj" stal prevažne
+individuálnym kognitívnym konštruktom, chýbal termín na systematické opisovanie vzťahov
+medzi jednotlivcom a spoločnosťou v spoločenskom diskurze. Sociálne reprezentácie zaplnili
+15
+
+túto medzeru tým, že umožnili analyzovať interakciu jednotlivcov so spoločenskými normami
+a hodnotami.
+Moscovici na začiatku štúdia sociálnych reprezentácií rozlíšil dve formy poznania:
+vedecké a všeobecné. Vedecké poznanie je obvykle produkované jednotlivcami alebo malými
+skupinami, ako sú vedci, zatiaľ čo všeobecné poznanie (common sense) sa formuje v dialógu
+jedinca so spoločnosťou a je podriadené vedeckému poznaniu (Marková, 2007). Pojmy z
+vedeckého poznania postupne prenikajú do všeobecného poznania a stávajú sa bežnými.
+Moscovici skúmal, či tieto preniknuté pojmy zostávajú totožné s pôvodnými a akým spôsobom
+sa tento prenos uskutočňuje, pričom vykonal rozsiahly empirický výskum prenikania
+psychoanalýzy do laického povedomia (Plichtová, 2002).
+Moscovici identifikoval dva kľúčové procesy formovania sociálnych reprezentácií:
+ukotvenie a objektivizáciu. Tieto mechanizmy vysvetľujú, ako sa nové informácie integrujú do
+existujúcich znalostných rámcov a ako sa abstraktné koncepty stávajú hmatateľnými a
+pochopiteľnými (Plichtová, 2002).
+Ukotvenie zahŕňa integráciu nových a neznámych informácií do známych
+kognitívnych a kultúrnych rámcov. Tento proces pomáha jednotlivcom klasifikovať a
+interpretovať nové javy tým, že ich vzťahuje k známym kategóriám, skúsenostiam a
+spoločenským normám (Höijer, 2010).
+Mechanizmy ukotvenia zahŕňajú (Höijer, 2010; Moscovici, 1984):
+1.
+
+Kategorizáciu: Nové informácie sa klasifikujú do už existujúcich kategórií,
+
+čo umožňuje ich porozumenie v známom kontexte.
+2.
+
+Pomenovanie: Priraďovanie názvov novým fenoménom umiestňuje neznáme
+
+koncepty do sféry známych entít, čím sa stávajú pochopiteľnejšími
+3.
+
+Metaforické Ukotvenie: Používanie metafor na porovnanie nových
+
+fenoménov so známymi konceptmi umožňuje ľahšie pochopenie zložitých ideí.
+4.
+
+Tematické Ukotvenie: Spojenie nových informácií so širšími kultúrne
+
+významnými témami alebo dichotómiami.
+
+16
+
+Objektivizácia transformuje abstraktné koncepty do konkrétnych, hmatateľných
+foriem, ktoré sú ľahko pochopiteľné a komunikovateľné. Tento proces zahŕňa premenu ideí na
+obrazy, symboly alebo fyzické objekty, ktoré môžu byť vnímané a skúsené zmyslami (Höijer,
+2010).
+Mechanizmy objektivizácie zahŕňajú (Höijer, 2010; Moscovici, 1984):
+1.
+
+Figuratívne Jadro: Vytvorenie obrazov alebo symbolov z abstraktných ideí,
+
+čo umožňuje ich rozpoznanie a porozumenie.
+2.
+
+Materializácia: Abstraktné idey sú reprezentované ako konkrétne javy
+
+existujúce vo fyzickom svete, napríklad priradením konkrétnych udalostí ku klimatickým
+zmenám.
+Procesy ukotvenia a objektivizácie sú evidentné v mnohých aspektoch spoločenského
+života. Napríklad pri reprezentácii duševných zdravotných problémov, kde sa termíny ako
+„depresia“ alebo „úzkosť“ zaraďujú do kategórie zdravotných ochorení, čo z nich robí
+pochopiteľné a legitímne stavy. Objektivizácia sa prejavuje, keď sú tieto stavy reprezentované
+prostredníctvom symptómov, diagnostických kritérií alebo vizuálnych obrazov (Höijer, 2010).
+1.2.1 Reprezentácie polyamorie u psychológov a psychologičiek
+Reprezentáciám polyamorie v našej geografickej oblasti
+
+u psychológov a
+
+psychologičiek sa vo svojom výskume zaoberali Katarzyna Grunt‑Mejerová a Weronika
+Chańska (2020). Vykonali tematickú analýzu mediálnych vyjadrení poľských odborníkov a
+odborníčok na psychológiu a sexuológiu od roku 2012 do 2018. Hlavnými identifikovanými
+témami boli Obraz lásky, Profil polyamornej osoby a Dôsledky polyamorných vzťahov. Obraz
+lásky sa zaoberal tým ako by mali vyzerať úspešné vzťahy a akým spôsobom polyamoria napĺňa
+tento potenciál. Väčšina odborníkov a odborníčok v prvej identifikovanej téme tvrdila, že: ľudia
+sú prirodzene monogamní; monogamné vzťahy sú ideálnymi vzťahmi; skutočná láska je
+jedinečné celoživotné spojenie s jednou osobou; exkluzivita posilňuje sebavedomie; dobré
+vzťahy sa vyznačujú nesebeckosťou a rešpektom, ktoré vraj polyamorným vzťahom chýbajú;
+monogamné vzťahy vyžadujú nepretržité úsilie a sebadisciplínu, čo sa považuje za nezlučiteľné
+s polyamoriou; záväzok a vernosť v monogamných vzťahoch sa považujú za morálne cnosti;
+jasné pravidlá a hranice v monogamných vzťahoch poskytujú bezpečnosť a predvídateľnosť a
+17
+
+že polyamoria môže byť pre mladých ľudí dobrá ako forma tréningu vzťahov. Profil
+polyamornej osoby sa vyznačoval strachom z intimity a oddanosti, sebestrednosťou,
+narcizmom a vyhýbaním sa nepohodliu, emocionálnou zrelosťou či naopak nezrelosťou a
+problematickými sexuálnymi normami. Polyamorných ľudí tiež vnímali ako bohatých,
+vzdelaných a sociálne privilegovaných. Polyamorní jedinci boli často patologizovaní a
+prezentovaní ako osoby s hlbokými psychologickými problémami, ktoré majú svoje korene v
+problematických detských skúsenostiach alebo neistých vzťahových štýloch. Odborníci tvrdili,
+že polyamoria odráža strach z intimity a oddanosti a navrhovali terapiu ako prostriedok na
+nápravu týchto vnímaných nedostatkov a návrat k monogamii. Poľskí odborníci a odborníčky
+uvádzali ako motivácie k polyamorii vyhorenie a nespokojnosť s monogamiou, zvedavosť a
+túžbu po neustálom emocionálnom vzrušení, napĺňanie potrieb a dôsledok vplyvu
+spoločenských tlakov a masovej kultúry. Niektorí ale považovali partnerov/ky polyamorných
+ľudí za zmanipulovaných či prinútených do takejto formy vzťahu. Polyamorné vzťahy boli
+danými odborníkmi a odborníčkami vnímané ako inherentne nestabilné, náchylné ku
+konfliktom, žiarlivosti a emocionálne vyčerpávajúce. Polyamoriu tiež považovali za vedúcu k
+emocionálnemu vyhoreniu a existenčnej prázdnote, oslabujúcu individuálnu zodpovednosť,
+vyžadujúcu značné úsilie a emocionálny manažment a negatívne ovplyvňujúcu vývin detí.
+Výsledky ukázali, že väčšina poľských expertov vnímala polyamoriu podozrievavo až
+negatívne, ako dôkaz psychologických defektov alebo predpovedala jej nepriaznivé dôsledky.
+
+1.3 Motivácie vstupu do polyamorie
+Nakoľko sme skúmali sociálne reprezentácie u psychoterapeutiek a psychoterapeutov
+cez ich názory na motivácie vstupu do polyamorných vzťahov. Uvádzame v tejto časti
+motivácie k romantickým vzťahom podľa hlavných psychoterapeutických prúdov a predošlé
+výskumné zistenia motivácií ku KNM a polyamorii.
+1.3.1 Motivácie k romantickým vzťahom podľa hlavných psychoterapeutických prúdov
+Medzi
+
+hlavné
+
+prúdy
+
+v
+
+súčasnej
+
+psychoterapii
+
+patria:
+
+psychoanalyticko-
+
+psychodynamický, humanisticko-skúsenostný, kognitívne behaviorálny, systemický a
+integratívny.
+
+Medzi
+
+psychoanalyticko-psychodynamický
+
+prúd
+
+sa
+
+u
+
+nás
+
+zaraďuje
+
+Psychoanalytická a Psychodynamická psychoterapia. A pod humanisticko-skúsenostný Geštalt
+
+18
+
+terapia a Človekom centrovaná terapia podľa Rogersa (PCA) (Vybíral & Roubal, 2010). V tejto
+časti zhrnieme rozdielne motivácie k romantickým vzťahom podľa týchto hlavných prúdov a
+psychoterapií, ktoré môžu byť relevantné pri sociálnych reprezentáciách polyamorie u
+slovenských psychoterapeutiek a psychoterapeutov.
+Psychodynamická psychoterapia kladie dôraz na pochopenie nevedomých procesov a
+skúseností z raného detstva s cieľom preskúmať motiváciu k nadväzovaniu romantických
+vzťahov. Medzi kľúčové motivácie patria nevedomé túžby a konflikty, spôsob pripútania,
+prenos a protiprenos, obranné mechanizmy a sebauvedomenie a vhľad. Nevedomé túžby majú
+podľa psychodynamickej teórie často korene v rannom detstve a zohrávajú významnú úlohu
+pri formovaní romantických vzťahov v dospelosti. Tieto nevedomé faktory ovplyvňujú výber
+partnerov a dynamiku vzťahov, keďže jednotlivci sa prostredníctvom romantických interakcií
+snažia vyriešiť konflikty z minulosti. Včasné skúsenosti s pripútaním k primárnym
+opatrovateľom tvoria základ budúcich vzťahových vzorcov. Bezpečné pripútanie vedie k
+zdravším romantickým vzťahom, zatiaľ čo neisté pripútanie môže viesť k závislosti alebo
+vyhýbavému správaniu vo vzťahoch. K prenosu dochádza, keď osoba premieta pocity a
+očakávania z minulých vzťahov na svojho súčasného partnera. Jednotlivci často používajú
+rôzne obranné mechanizmy, ako je popieranie alebo projekcia, aby sa ochránili pred
+emocionálnou bolesťou a tým sa vyhýbali intimite a spojeniu v romantických vzťahoch
+(Gabbard & Rachal, 2012).
+Psychoanalýza a psychoanalytická psychoterapia
+
+sa od psychodynamickej
+
+psychoterapie odlišuje najmä vo väčšej orientácii na neurotické problémy a chronické
+poruchy osobnosti (Vybíral & Roubal, 2010). Motivácie k romantickým vzťahom ale
+pramenia z rovnakých nevedomých túžob a konfliktov ako sme popísali pri
+psychodynamickej psychoterapii. Tieto nevedomé motívy môžu ešte zahŕňať nevyriešené
+oidipovské konflikty, túžby po overení a pokusy obnoviť skorú dynamiku pripútania
+(Gabbard & Westen, 2003).
+Terapia centrovaná na človeka (PCA) vyvinutá Carlom Rogersom, zdôrazňuje
+dôležitosť subjektívnej skúsenosti jednotlivca a sebariadeného rastu. Pokiaľ ide o romantické
+vzťahy, PCA identifikuje niekoľko základných motivácií zakorenených v princípoch
+humanistickej psychológie a to sebaaktualizáciu a napĺňanie základných potrieb. Ústredným
+19
+
+bodom PCA je koncept sebaaktualizácie, kde sa jednotlivci snažia realizovať svoj plný
+potenciál. V romantických vzťahoch sa táto motivácia prejavuje ako snaha o hlboké,
+zmysluplné spojenia, ktoré uľahčujú osobný rast a realizáciu vlastných schopností. Medzi
+základné potreby patria: potreba sebarealizácie, potreba rešpektu, potreba empatie a
+porozumenia, potreba zhody, potreba kompetencie a potreba vzťahu (Rogers, 1961).
+Geštalt terapia, ktorú vyvinul Fritz Perls, kladie dôraz na holistické vnímanie a
+integráciu všetkých aspektov individuálnej skúsenosti. Zameriava sa na prítomný okamih a
+osobnú zodpovednosť s cieľom zvýšiť sebauvedomenie a vyriešiť nedokončené záležitosti. V
+kontexte romantických vzťahov Gestalt terapia identifikuje niekoľko motivácií: hlbšie a
+autentickejšie spojenie; integrácia myšlienok, pocitov a činov; osobný rast a sebaaktualzácia;
+autentický kontakt a spojenie a riešenie nedokončených záležitostí. Jednotlivci tak môžu byť
+motivovaní vstúpiť a udržiavať romantické vzťahy, aby vyriešili nedokončené záležitosti z
+minulých skúseností (Levin, 2010).
+Kognitívno-behaviorálna terapia (KBT) zdôrazňuje úlohu kognitívnych procesov pri
+formovaní správania a emócií. V kontexte motivácií k romantických vzťahom by sa tak
+zamerala najmä na osobné presvedčenia a myšlienkové vzorce spojené s túžbou po
+romantických vzťahoch (Vybíral & Roubal, 2010).
+Systemická terapia nepozerá na jednotlivcov izolovane, ale ako na súčasť vzájomne
+prepojených systémov, akými sú rodiny a páry. Predpokladá, že jednotlivci sú motivovaní
+vzájomným prepojením ich emocionálneho fungovania vo vzťahoch, túžbou po stabilite a
+bezpečí, riešením rodinných vzorcov a adaptáciou a flexibilitou. Systemická terapia vníma
+jednotlivca aj v širšom spoločenskom systéme a rozlišuje tak motivácie, ktoré môžu prameniť
+aj zo spoločenských tlakov a očakávaní (Schlippe & Schweitzer, 2006).
+Integratívna psychoterapia čerpá z viacerých psychoterapeutických smerov a
+zameriava sa na účinné a overené faktory. Zdôrazňuje tiež jedinečnosť prístupu vzhľadom na
+klienta. Jej súčasná podoba vychádza z analyticko-psychodynamického, humanistickoskúsenostného, kognitívne behaviorálneho a systemického myslenia. Motivácie vstupu do
+romantických vzťahov by tak bola prepojením vyššie zmienených prístupov (Vybíral &
+Roubal, 2010).
+20
+
+1.3.2 Predošlé zistenia motivácií ku KNM a polyamorii
+Téme motivácií k polyamorii či konsenzuálnej nemonogamii sa zatiaľ venovali štyri
+výskumy. Nižšie uvádzame prehľad daných štúdií a ich zistení.
+Wood a kol. (2021) skúmali motivácie ľudí pre vstup do KNM vzťahov. Ich výskumu
+sa zúčastnilo 540 participantov, ktorí boli v tom čase v KNM vzťahu, pričom väčšina z nich
+bola v polyamornom vzťahu. Väčšina participantov žila v Kanade alebo USA a boli vo veku
+od 19 do 82 rokov. Dáta boli analyzované pomocou tématickej analýzy. Motivácie pre vstup
+do KNM vzťahov boli rozdelené do šiestich vzájomne prepojených tém a ich podtém:
+Autonómia (Autenticita; Prirodzenosť KNM), Systémy viery (Obmedzenia monogamie verzus
+možnosti KNM; Potreba naplnenia), Vzťahovosť (Vytváranie komunity; Vzťahová pohoda;
+Vzťahová integrita), Sexualita (Sexuálne identity a prejavy; Rozmanitosť, novosť a vzrušenie;
+Sexuálne nezrovnalosti), Rast a rozvoj (Osobný rast a rozvoj; Vzťahový rast a rozvoj),
+Pragmatizmus. Participanti uvádzali rôzne dôvody pre vstup do KNM vzťahov - dôvody sa
+týkali individuálnych aj vzťahových potrieb a osobnej pohody. Výsledky výskumu sú v
+kontraste so stereotypnými názormi na KNM vzťahy ako na nestabilné či nenaplnené alebo na
+to, že ľudia vstupujú do KNM vzťahov kvôli vzťahovým problémom.
+Codrington a du Plooy (2023) pri skúmaní motivácií ľudí vstúpiť do KNM vzťahu
+použili taktiež tematickú analýzu. Počet participantov vo výskume bol osem a jednalo sa o
+dospelých ľudí, ktorí mali skúsenosť s KNM vzťahom, ktorý trval aspoň tri mesiace a
+uskutočnil sa v posledných piatich rokoch. Výsledky analýzy dát ukázali tri témy ohľadom
+KNM a ich subtémy ohľadom motivácie: Kultúrne normy a mononormativita (Autentickosť,
+Spochybňovanie spoločenských noriem), Rast a zodpovednosť (Sloboda a radosť),
+Rozmanitosť a komplexnosť (Diverzifikované plnenie potrieb). Z výsledkov vyplýva, že KNM
+vzťahy ponúkajú príležitosti na naplnenie rôznorodých potrieb, zvýšenú komunitnú
+angažovanosť a osobný rast.
+Hnatkovičová (2022) vo svojej dizertačnej práci skúmala na vzorke 22 polyamorne
+identifikovaných jedincoch motivácie vstupovania do polyamorie. Identifikovala 8 rôznych
+kategórií motivácií, medzi ktoré patria: Napĺňanie potrieb, ktoré nie sú uspokojené v
+monogamnom vzťahu, Rast a autonómia, Explorácia menšinových identít (sexuálna fluidita
+a bisexualita), Potreba patriť do komunity, Psychodynamické dôvody, Túžba po sexuálnej
+rôznorodosti, Vývin identity (návrat do monogamie) a Vyjadrenie politických hodnôt. Tie
+21
+
+následne overovala u svojej vzorky, kde sa jej podarilo zistiť 7 z týchto identifikovaných
+kategórií. Motivácia vyjadrenia politických hodnôt sa u jej vzorky nevyskytla. Väčšina
+participantov a participantiek uviedla naraz viaceré typy motivácií a ako najčastejšie Napĺňanie potrieb, ktoré nie sú uspokojené v monogamnom vzťahu a Rast a autonómiu.
+Tatum a kol. (2024) zisťovali počiatočné motivácie ľudí, ktorí majú skúsenosť s aspoň
+jedným polyamorným vzťahom. Výskumu sa zúčastnilo 63 dospelých participantov z USA.
+Dáta boli spracované pomocou tematickej analýzy, pomocou ktorej boli identifikované štyri
+témy motivácií (a ich subtémy): Usporiadanie hodnôt - Filozofické (autentické stotožnenie sa),
+Nezáujem o prispôsobenie sa spoločenským nariadeniam (autonómia), Prechod z inej formy
+KNM (zmena vzťahových potrieb); Vzťahové faktory - Všeobecná nespokojnosť, Motivované
+partnerom; Externé stimuly - Vzniknuté pocity k osobe mimo už existujúcej dyády, Vystavenie
+sa (modeling); Sexualita. Participanti udali dosiahnutie významného osobného a vzťahového
+rastu prostredníctvom polyamorie.
+1.4 Postoje terapeutov/tiek a iných odborníkov k polyamorii
+Lambert (2013) uvádza, že najspoľahlivejším prediktorom úspechu v psychoterapii je
+kvalita vzťahu medzi klientom a terapeutom. Hoci kompetencia terapeuta a faktory ako
+motivácia klienta sú dôležité pre terapiu, vzťah medzi klientom a terapeutom je považovaný za
+jeden z najzásadnejších vo väčšine terapií (Norcross & Lambert, 2011). Aj nepatrné prejavy
+predsudkov alebo zaujatosti zo strany psychoterapeuta môžu narušiť alebo znemožniť
+vytvorenie účinného terapeutického vzťahu a spôsobiť klientovi psychologický stres, čo môže
+viesť k tomu, že namiesto pomoci dochádza k ublíženiu (Sue & Capodilupo, 2008). Tradičný
+pohľad na psychoterapeuta ako úprimného, empatického a neodsudzujúceho človeka môže
+viesť k očakávaniu, že bude klientom prejavovať rešpekt vo svojich myšlienkach, slovách a
+činoch. Avšak výskumy opakovane ukazujú, že psychoterapeuti často prejavujú podráždenie
+voči klientom a používajú jazyk, ktorý zahŕňa zosmiešňovanie, nálepkovanie a zaujaté výrazy
+(Dorre & Kinnier, 2006). To môže byť spôsobené nedostatočným vzdelaním. Postoj a vzdelanie
+terapeutov sú veľmi dôležitými faktormi toho ako efektívne dokážu pracovať s ľuďmi, ktorí sa
+rozhodli pre alternatívne typy vzťahov (Elbaum, 1981).
+Ľudia v netradičných vzťahových usporiadaniach často čelia veľkým ťažkostiam pri
+hľadaní terapeutov, ktorí by pristupovali k ich problémom bez predsudkov (Johnson, 2013).
+Knapp (1975) zistila, že 33% terapeutov v jej štúdii verilo, že ľudia praktizujúci polyamorický
+
+22
+
+životný štýl trpia poruchami osobnosti a neurotickými sklonmi, a 20% sa domnievalo, že títo
+ľudia môžu mať antisociálne osobnosti. Ďalej uviedla, že 9-17% terapeutov by sa snažilo využiť
+svoje odborné schopnosti na presvedčenie klientov, aby upustili od sexuálne otvorených
+manželstiev. Johnson a kol. (2015) vytvorili 7-položkový nástroj na meranie postojov k
+polyamorii. Pri overovaní jeho platnosti zistili, že v troch vzorkách (430 participantov)
+prevládali negatívne názory na polyamorných ľudí, nielen v celkových postojoch, ale aj s
+ohľadom na ich osobné vlastnosti (napr. že sú nemorálni a nedôveryhodní) a sexuálne správanie
+(napr. že praktizujú nechránený sex). Polyamorní ľudia boli považovaní za menej žiarlivých a
+menej spokojnejších vo svojich vzťahoch v porovnaní s monogamnými jednotlivcami. Na
+druhej strane, pozitívne vnímanie zahŕňalo presvedčenie, že polyamorní jednotlivci majú lepšie
+komunikačné schopnosti a bývajú fyzicky atraktívnejší ako monogamní ľudia. V štúdii od
+Schechingera a kol. (2018) boli zhromaždené údaje od 249 polyamoriných ľudí o ich
+skúsenostiach s terapiou. Zistilo sa, že približne tretina účastníkov považovala svojich
+terapeutov za nedostatočne informovaných o polyamorii, čo ovplyvňovalo ich efektivitu. Len
+27% terapeutov bolo hodnotených ako znalí v tejto oblasti. Okolo 15% účastníkov považovalo
+svojich terapeutov za „vôbec nepomáhajúcich“ a 11% ich označilo za „ničivých.“ Ďalších 11%
+účastníkov predčasne ukončilo terapiu kvôli negatívnym skúsenostiam s terapeutmi, ktoré
+súviseli s ich identitou a životným štýlom.
+1.5 Výskumný cieľ a výskumné otázky
+V posledných rokoch sa popularita polyamorie, ako formy konsenzuálnej
+nemonogamie, značne zvýšila a postupne preniká aj do slovenského prostredia
+prostredníctvom rôznych médií a verejných diskusií. Nakoľko je polyamoria u nás stále nový
+fenomén, zaujíma nás akým spôsobom preniká aj do odborných kruhov psychoterapeutov a
+psychoterapeutiek a aké sociálne reprezentácie tohto pojmu sa u nich vytvárajú. Tieto
+sociálne reprezentácie polyamorie chceme preskúmať najmä cez procesy ukotvovania a
+objektifikácie.
+Na základe výskumného cieľu sme si definovali nasledujúcu výskumnú otázku a jej podotázku:
+“Aké sú sociálne reprezentácie polyamorie u psychoterapeutov a psychoterapeutiek na
+Slovensku?" „Ako tieto osoby ukotvujú a objektifikujú polyamoriu?
+23
+
+2 Metódy
+2.1 Participanti/ky
+Nakoľko sme chceli zistiť, aké sociálne reprezentácie sa budú nachádzať u odborníkov a
+odborníčok na duševné zdravie, ktorí by mohli s polyamornou klientelou prísť v svojej práci do
+styku, kritériom výberu bolo, aby mali za sebou alebo momentálne navštevovali akreditovaný
+psychoterapeutický výcvik a aby mali už vlastnú klientelu. Ďalším kritériom bolo, aby mali
+psychoterapeutickú prax na Slovensku. Jednalo sa tak o zámerný výber.
+Výber participantov a participantiek prebiehal viacerými spôsobmi. Najprv sme vytvorili
+inzerát na sociálne siete, ktorý sme zdieľali vo Facebookových skupinách “Polyamory v Česku
+a na Slovensku”, “Polyamoria Slovensko (skupina)”, “Psychoterapia a psychoporadenstvo”,
+“Psychológia - ponuky práce a ďalšieho vzdelávania” a “LGBT+ psychologie CZ+SK”. Na
+dané inzeráty bolo niekoľko komentárov, cez ktoré sme sa dostali k prvému participantovi. S
+daným participantom prebehol pilotný rozhovor, kedy sme si skonkretizovali otázky a časovú
+náročnosť interview. Vďaka tomuto participantovi sme sa metódou snehovej gule dostali k
+ďalším 4 participantom a participantkám. Následne sa nám na základe inzerátov ozval ďalší
+participant. Štyroch ďalších participantov sa nám podarilo získať metódou snehovej gule cez
+známych (a ich známych) a posledných 5 participantov a participantiek sme získali priamym
+oslovovaním cez e-maily, ku ktorým sme sa dostali najmä cez zoznamy rôznych
+psychoterapeutických výcvikov. Oslovovanie psychoterapeutiek a psychoterapeutov cez emaily bolo poslednou fázou výberu výskumnej vzorky a snažili sme sa pri ňom stratifikovať
+náš výber tak, aby sa v nej nachádzal približne rovnaký pomer participantov a participantiek a
+aby sme v nej obsiahli ľudí s čo najrôznorodejšími psychoterapeutickými výcvikmi. Prvý
+rozhovor sme vyradili, nakoľko sa nám medzitým trochu zmenila téma a otázky interview a
+taktiež sme vyradili jeden rozhovor s psychoterapeutom majúcim klientelu mimo Slovenskú
+republiku. Dokopy tak výskumnú vzorku tvorilo 13 ľudí, z toho 7 mužov a 5 žien. Odporúčaný
+počet participantov/iek pri metóde interview a reflexívnej tématickej analýze v diplomovej
+práci je podľa Terry a kol. (2017) v rozmedzí od 7 do 15 osôb. Výsledný počet býva v
+kvalitatívnych štúdiách často ovplyvnený saturáciou vzorky. Braunová a Clarková (2022)
+odporúčajú sa namiesto saturácie vzorky zamerať na jej „informačnú silu“. Koncept
+informačnej sily v kvalitatívnom výskume je princípom, ktorý sa používa na určenie
+24
+
+primeranosti veľkosti vzorky na základe kvality a relevantnosti informácií získaných od
+účastníkov/čok. Presúva pozornosť od samotného počítania účastníkov/čok k hodnoteniu hĺbky
+a rozsahu informácií, ktoré poskytujú vo vzťahu k cieľom výskumu. Informačnú silu vzorky
+rozhovorov určujú položky ako cieľ štúdie, špecifickosť vzorky, použitá teória, kvalita dialógu
+a stratégia analýzy (Malterud a kol., 2016). Cieľ nášho výskumu, teoretický rámec a metóda
+analýzy predpokladajú vyšší počet participantov/tiek. Informačnú silu v našom prípade ale
+určovala najmä špecifickosť vzorky (rôznorodosť psychoterapeutických výcvikov a skúseností)
+a hĺbka informácií získaných v interview.
+Vek participantov a participantiek sa pohyboval od 28 do 74 rokov, pričom priemerný
+vek bol 47,8 rokov. Psychoterapeutické certifikované výcviky participantov a participantiek
+boli: PCA (človekom-centrovaný) výcvik, systemický výcvik, psychodynamický výcvik,
+Geštalt výcvik, výcvik v procesorientovanej psychológii (POP), psychoanalytický výcvik,
+KBT výcvik, analytický (Jungovský) výcvik a výcvik v psychotraumatológii (EMDR). Dĺžka
+praxe s klientelou sa líšila od 2 po 47 rokov v priemere bola 19,2 roka. Participanti a
+participantky pracovali prevažne individuálne, no niektorí aj skupinovo či s pármi. Nižšie
+uvádzame prehľadnú tabuľku (Tabuľka 1) s identifikáciou teoretického psychoterapeutického
+pozadia, pohlavím, vekom a rokmi praxe. Participant 9 bol z analýzy vynechaný, nakoľko mal
+svoju prax mimo Slovenskej republiky. Participanti a participantky pracovali prevažne
+individuálne, no niektorí aj skupinovo či s pármi. Skúsenosti s polyamornou klientelou mali
+dvaja psychoterapeuti (Participant 1 a Participant 6) a jedna psychoterapeutka (Participantka
+11), ostatní sa až na jedného participanta s pojmom polyamorie už niekde stretli. Hĺbka
+poznania polyamorie sa líšila, no väčšinou bola na povrchnejšej úrovni.
+
+25
+
+Výcvik/y, teoretické pozadie
+
+Pohlavie
+
+Vek
+
+Roky praxe
+
+Participant 1
+
+PCA
+
+muž
+
+74
+
+45
+
+Participantka 2
+
+PCA
+
+žena
+
+51
+
+21
+
+Participant 3
+
+PCA
+
+muž
+
+43
+
+11
+
+Participant 4
+
+Systemická p.
+
+muž
+
+38
+
+18
+
+Participantka 5
+
+PCA
+
+žena
+
+44
+
+7
+
+Participant 6
+
+Psychoanalýza
+
+muž
+
+28
+
+4
+
+Participant 7
+
+KBT
+
+muž
+
+29
+
+2
+
+Participant 8
+
+Geštalt, psychodynamická p.
+
+muž
+
+70
+
+47
+
+Participant 10
+
+Geštalt
+
+muž
+
+50
+
+25
+
+Participantka 11
+
+EMDR, Jungiánska p.
+
+žena
+
+53
+
+17
+
+Participantka 12
+
+Psychodynamická p.
+
+žena
+
+42
+
+5
+
+Participantka 13
+
+Psychodynamická p., POP,
+
+žena
+
+68
+
+43
+
+žena
+
+32
+
+7
+
+Poradie
+participantov/tok
+
+systemická p.
+Participantka 14
+
+Systemická p.
+
+Tabuľka 1 - porovnanie participantov/tok podľa rôznych parametrov
+
+2.2 Dizajn a procedúra
+Vzhľadom na to, že téma polyamorie je na Slovensku ešte relatívne nová a málo
+preskúmaná, použili sme v našej práci kvalitatívny exploračný výskum. Ten je podľa Hendla
+(2005) orientovaný na explorovanie a používa sa v situáciách, kedy chceme spoznať
+subjektívne skúseností ľudí a taktiež pri skúmaní ešte veľmi neprebádaných fenoménov.
+Kvalitatívna výskumná stratégia nám umožňuje dôkladnejšie preskúmať problematiku a
+zamerať sa na detaily, ktoré by pri kvantitatívnom prístupe mohli byť prehliadnuté. Hĺbkovejšie
+poznávanie a analýza problému z rôznych uhlov pohľadu, zohľadňovanie rôznych perspektív a
+skúseností účastníkov výskumu, sú totiž základnými a najvýznamnejšími charakteristikami
+kvalitatívneho výskumu. Tento prístup nám umožňuje získať komplexnejšie a ucelenejšie
+pochopenie skúmaného javu, čím prispieva k vypracovaniu dôkladnejších a relevantnejších
+záverov (Hendl, 2005).
+
+26
+
+Babbieho (2013) definícia kvalitatívneho výskumu sa taktiež zhoduje s hĺbkovým
+poznávaním. Podľa neho je kvalitatívny výskum metóda, ktorá kladie dôraz na pochopenie
+komplexných detailov a významov javov v skutočných, reálnych situáciách. Kvalitatívny
+výskum má významnú výhodu v jeho jedinečnosti a neopakovateľnosti. Silverman (2020)
+zdôrazňuje, že úspech kvalitatívneho výskumu spočíva v schopnosti výskumníka aktívne
+počúvať, interpretovať a chápať údaje z pohľadu respondentov. To poukazuje na skutočnosť,
+že kvalitatívny výskum nie je len o zbere údajov, ale zahŕňa aj proces interpretácie, analýzy a
+vyvodzovania záverov z týchto údajov.
+V kvalitatívnom výskume je bežnou praxou pracovať s malým počtom jednotlivcov,
+niekedy len s niekoľkými, avšak môže to zahŕňať aj desiatky participantov. Počet účastníkov
+závisí od konkrétnych potrieb a cieľov výskumu. Dôležitým aspektom je, že veľkosť
+výskumnej vzorky musí byť dostatočne veľká na to, aby výskumník získal komplexné a bohaté
+údaje, ktoré umožnia dôkladnú analýzu a hlboké pochopenie skúmaného javu (Gavora, 2007).
+Pre náš výskum sme sa rozhodli využiť pološtruktúrované rozhovory, ktoré patria medzi
+najrozšírenejšie a najčastejšie používané formy rozhovorov v kvalitatívnom výskume.
+Pološtruktúrované rozhovory poskytujú významné výhody v porovnaní so štruktúrovanými
+rozhovormi, najmä pokiaľ ide o flexibilitu a možnosť prispôsobiť sa priebehu rozhovoru. Tento
+typ rozhovoru umožňuje klásť doplňujúce otázky na základe odpovedí respondentov, čo vedie
+k získaniu detailnejších a hlbších údajov. Táto flexibilita dáva možnosť ísť viac do hĺbky a
+preskúmať témy, ktoré by pri striktne štruktúrovanom rozhovore mohli zostať nedotknuté alebo
+len povrchne preskúmané. Použitím pološtruktúrovaných rozhovorov je tak možné lepšie
+pochopiť aspekty skúmaného problému, pretože výskumník nie je obmedzený pevne
+stanovenými otázkami a je možné sa viac prispôsobiť odpovediam a potrebám respondentov
+(Miovský, 2006). Na rozdiel od neštruktúrovaných rozhovorov, pološtruktúrované rozhovory
+umožňujú pracovať s vopred pripravenými okruhmi otázok, ako aj s konkrétnymi otázkami,
+ktoré je možné podľa potreby klásť respondentom. Tento prístup poskytuje rovnováhu medzi
+riadenou štruktúrou a flexibilitou, ktorá je charakteristická pre neštruktúrované rozhovory.
+Pološtruktúrované rozhovory sa nachádzajú na rozmedzí štruktúrovaného a neštruktúrovaného
+rozhovoru, čo znamená, že kombinujú výhody oboch prístupov. Na jednej strane umožňujú
+zachovať určitú mieru konzistentnosti a zamerania prostredníctvom pripravených otázok, čo
+zabezpečuje, že sa všetci respondenti vyjadrujú k rovnakým kľúčovým témam. Na druhej strane
+
+27
+
+však poskytujú aj flexibilitu, ktorá umožňuje prispôsobiť sa priebehu rozhovoru a klásť
+doplňujúce otázky na základe odpovedí respondentov (Gavora, 2007).
+Zber dát prebiehal v dvoch fázach – prvá fáza od februára do marca 2023 a druhá fáza od
+apríla do júna 2024. Pri oslovovaní formou inzerátu aj e-mailu sme predstavili nás a náš
+výskum, podmienky účasti, formu a približný čas rozhovorov, princíp anonymity a dali sme na
+výber buď formu online alebo naživo v Bratislave. Dva rozhovory prebehli naživo v Bratislave
+a ostatné online cez platformy Zoom a MS Teams. Pred začiatkom interview boli participanti a
+participantky požiadaní o vyplnenie informovaného súhlasu a socio-demografických údajov
+ako je vek, pracovné zameranie a dĺžka praxe pomocou dotazníka Google Forms. Pokiaľ
+rozhovor prebiehal naživo a nestihli informovaný súhlas vyplniť online, podpísali jeho
+papierovú verziu tesne pred rozhovorom. V informovanom súhlase boli oboznámení s názvom
+a cieľom diplomovej práce, formou rozhovoru a jeho nahrávaním a základnými etickými
+pravidlami výskumu ako je dobrovoľnosť a anonymita. Dĺžka rozhovorov sa pohybovala od 22
+minút po hodinu a 29 minút, pričom priemerne jeden rozhovor trval 50 minút.
+Samotné interview malo pološtrukturovanú formu a pozostávalo zo siedmych hlavných
+okruhov otázok. Na základe odporúčaní Miovského (2006) sme počas rozhovorov používali
+vhodné komentáre, otázky, doplnky a narážky, aby sme podporili rozhovor o javoch, ktoré nás
+zaujímali. Interview bolo flexibilné, snažili sme sa do neho zbytočne nezasahovať a vytvoriť
+dôvernú nehodnotiacu atmosféru. Otázky a vlastné vedenie rozhovoru sme si najprv upresnili
+a zreflektovali počas prvého pilotného interview. Nakoľko prišlo k úprave témy práce počas
+zberu dát, vynechali sme pri následnej analýze dát pilotné interview a časti iných interview,
+týkajúcich sa názoru participantov a participantiek na spokojnosť v polyamornych vzťahoch.
+Na začiatok sme sa participantov a participantiek pýtali na ich psychoterapeutické
+výcviky a zameranie a následne na ich motiváciu účasti vo výskume. Zaujímalo nás tiež kde a
+ako sa stretli s pojmom polyamoria, či poznajú niekoho polyamorného a či majú skúsenosť s
+polyamornou klientelou. Ďalej nás zaujímalo odkiaľ načerpali dané poznatky a ako by nám
+vedeli definovať pojem polyamoria. Následne sme im dali vlastnú definíciu, aby sme
+zabezpečili približne rovnaké porozumenie pojmu. Ďalšie otázky sa už priamo týkali ich
+názorov na motivácie ľudí k inklinácii k polyamorným vzťahom. Otázky na upresnenie
+motivácií sa pohybovali okolo typizácie polyamorných ľudí; hodnotových presvedčení
+takýchto ľudí; životných okolností, ktoré môžu ovplyvniť rozhodnutie vyskúšať polyamoriu a
+
+28
+
+kultúrnych a spoločenských kontextov. Pokiaľ mali participanti a participantky polyamornú
+klientelu, či poznali polyamorné osoby vo svojom okolí, pýtali sme sa na ich konkrétne príbehy
+a dôvody.
+Po realizácii rozhovorov boli dáta doslovne prepísané a následne v transkriptoch osobné
+údaje ako mená a konkrétne miesta anonymizované. Úprava bola vykonaná tak, aby sa
+zachovala pôvodná myšlienka a význam vyjadrení. Participanti a participantky boli v texte
+označení/é číslami podľa poradia rozhovorov ako napríklad Participant 1 či Participantka 14.
+Kvôli zachovaniu anonymity sme tiež transkripty nezahrnuli do príloh práce.
+
+2.3 Metóda analýzy dát
+Ako metódu pre analýzu dát sme použili tématickú analýzu (TA) a to konkrétne
+reflexívnu tématickú analýzu (RTA), ktorú definovali ako samostatnú metódu s jasne
+definovanými postupmi pre sociálne vedy Braunová a Clarková v roku 2006. Tematická
+analýza sa vďaka svojej flexibilite stala jednou z najpoužívanejších metód v kvalitatívnom
+výskume a najmä v psychológii (Braun & Clarke, 2019). TA sa medzi kvalitatívnymi metódami
+odlišuje tým, že poskytuje len rámec pre analýzu údajov bez toho, aby predpisovala metódy
+zberu údajov, teoretické pozície alebo epistemologické či ontologické rámce. Táto variabilita
+je jednou z jej hlavných predností, ktorá umožňuje riešiť takmer akúkoľvek výskumnú otázku
+a analyzovať takmer akýkoľvek typ údajov. Témy v TA možno identifikovať buď spôsobom
+založeným na údajoch „zdola nahor“, alebo prístupom založeným na teórii, „zhora nadol“,
+pričom sa často kombinujú oba spôsoby. TA sa môže použiť na deskriptívnu alebo kritickú,
+konštruktivistickú analýzu, vďaka čomu je univerzálna pre rôzne výskumné ciele. Je vhodná
+najmä pre začiatočníkov a študentské projekty vďaka svojmu priamočiaremu prístupu k
+spracovaniu údajov a kódovaniu, ktoré môže byť základom pre iné analytické metódy (Braun
+& Clarke, 2013). V našej práci sme témy identifikovali hybridným spôsobom, kedy sme
+induktívne hľadali nové témy, no riadili sme sa pritom deduktívne teóriou sociálnych
+reprezentácií a jej fázami ukotvovania a objektifikácie. Zamerali sme sa na latentné (skryté)
+významy v rámci perspektív a názorov psychoterapeutov a psychoterapeutiek a použili
+relativistickú, konštruktivistickú teoretickú perspektívu.
+Reflexívna tématická analýza kladie dôraz na subjektivitu a reflexivitu výskumníka/čky.
+Pre RTA je dôležitá "kvalitatívna citlivosť", ktorá zahŕňa hodnoty, predpoklady, orientáciu a
+29
+
+zručnosti potrebné na plne kvalitatívny výskum (paradigma „Veľké Q“). Táto citlivosť
+uprednostňuje proces a význam pred príčinou a dôsledkom, udržiava kritický prístup, reflektuje
+kultúrne predpoklady, aktívne a analyticky sa zaoberá údajmi, hľadá komplexné a
+diferencované porozumenie, uznáva subjektívnosť poznania a toleruje neistotu. Reflexívna
+tematická analýza sa riadi desiatimi základnými princípami (Braun & Clarke, 2022):
+1. Subjektívnosť výskumníka je nevyhnutná a mala by sa považovať za cenný prínos, a
+nie za zaujatosť, ktorú treba odstrániť.
+2. Interpretácia údajov je vo svojej podstate subjektívna a môže sa pohybovať od slabej
+po silnú, pokiaľ ide o presvedčivosť a hĺbku.
+3. Efektívne kódovanie sa môže vykonávať samostatne alebo v spolupráci, pričom
+cieľom je skôr posilniť porozumenie a reflexivitu než dosiahnuť konsenzus.
+4. Kvalitné kódy a témy vychádzajú z hlbokého ponorenia sa do údajov a zároveň z
+prestávok na získanie perspektívy.
+5. Témy sú vzorce, ktoré zachytávajú spoločné významy alebo koncepty a nie sú len
+zhrnutím.
+6. Témy sú analytické výstupy, ktoré vznikajú z kódov počas analytického procesu.
+7. Témy sú aktívne vytvárané výskumníkom prostredníctvom systematickej práce s
+údajmi.
+8. Analýza údajov sa vždy riadi teoretickými predpokladmi, ktoré je potrebné rozpoznať
+a reflektovať.
+9. Pre vytvorenie kvalitnej analýzy je rozhodujúca reflexivita, ktorá si vyžaduje, aby
+výskumníci pochopili a uznali svoje vlastné perspektívy.
+10. Analýza údajov sa považuje za tvorivý proces, ktorý spája kreativitu s vedeckou
+prísnosťou.
+Reflexívna tematická analýza poskytuje usmernenia namiesto pevne daných pravidiel
+a používa termín „fáza“ namiesto „krok“ kvôli jeho nelineárnej povahe. Fázy nie sú striktne
+oddelené a proces často zahŕňa pohyb do strán alebo dozadu, čo nie je chybou, ale súčasťou
+progresívneho a rekurzívneho postupu od dát k analýze (Braun & Clarke, 2022). Pri analýze
+sme sa riadili odporúčaným procesom RTA pozostávajúcim z týchto šiestich fáz (Braun &
+Clarke, 2022):
+
+30
+
+1. Zoznámenie sa s dátami: V tejto fáze sa výskumník/čka ponorí do súboru údajov
+prostredníctvom čítania a opakovaného čítania. Počas tohto procesu sa zapisujú
+prvotné poznámky a myšlienky, ktoré neskôr pomôžu pri kódovaní.
+2. Kódovanie: Systematicky sa označujú segmenty údajov, ktoré sú relevantné pre
+výskumnú otázku. Zachytávajú sa špecifické významy alebo pojmy a vytvárajú
+analyticky významné popisy.
+3. Vytváranie počiatočných tém: Súvisiace kódy sa zoskupujú a vytvárajú počiatočné
+témy, ktoré odrážajú spoločné významy alebo pojmy. Tento proces je aktívny a
+konštruktívny, nie pasívny.
+4. Rozvíjanie a preskúmanie tém: Počiatočné témy sa posudzujú a spresňujú kontrolou
+ich súdržnosti s celým súborom dát. Vykonávajú sa potrebné úpravy, aby sa
+zabezpečilo, že témy rozprávajú presvedčivý príbeh.
+5. Spresnenie, definovanie a pomenovanie tém: Témy sa doladia a jasne definujú,
+pričom sa zabezpečí ich zreteľnosť a dobrá ohraničenosť. Vytvoria sa stručné a
+informatívne názvy pre každú tému.
+6.
+
+Spísanie správy: V tejto fáze sa integrujú témy a výňatky údajov do uceleného
+
+príbehu. Vytvára sa presvedčivá a dobre upravená výskumná správa, ktorá zahrňuje
+názorné úryvky z dát a odpovedá na výskumné otázky, čím preukazuje kvalitu a
+validitu analýzy.
+
+2.4 Reflexia metodologickej pozície
+Reflexia metodologickej pozície je integrálnou súčasťou reflexívnej tématickej analýzy,
+nakoľko subjektivita výskumníka/čky je jej kľúčovým nástrojom. Reflexia zaisťuje, že hodnoty
+a životné skúsenosti, ktoré nevyhnutne ovplyvňujú výskum, sú priznané a transparentné. Tento
+proces pomáha pochopiť, ako subjektivita výskumníka/čky formuje interpretáciu dát a
+generovanie poznatkov, nakoľko nie je neutrálnym sprostredkovateľom, ale aktívnym tvorcom
+analýzy a všetkých aspektov výskumného procesu. Reflexia obsahuje tri zložky - osobnú (ako
+hodnoty formujú výskum), funkčnú (ako metódy a dizajn ovplyvňujú výskum) a disciplinárnu
+(ako akademická pozícia a výskumné skúsenosti formujú produkciu poznatkov) (Braun &
+Clarke, 2006).
+
+31
+
+Patrím ku generácii, ktorá sa už narodila do slobodnejšieho sveta po rozpade Sovietskeho
+zväzu a taktiež som vyrastala v hlavnom meste a liberálnej ateistickej rodine strednej triedy.
+Bola som tak sčasti privilegovaná a nebola som ovplyvnená tradičným kresťanským
+ponímaním vzťahov, ako to mohlo byť u iných obyvateľov a obyvateliek Slovenska. Nakoľko
+sa sama nachádzam na aromantickom a asexuálnom spektre, moje vnímanie romantických
+vzťahov tým bolo ovplyvnené od mojej puberty. Silno som vnímala mononormativitu a
+amatonormativitu (normu romantických vzťahov) v spoločnosti a pocitovo aj praxou
+vybočovala z týchto zabehnutých spoločenských noriem. Počas môjho života som sa stretla s
+viacerými formami nemonogamie u svojho okolia, no k pojmu polyamorie som sa dostala až
+niekedy v posledných desiatich rokoch. V začiatkoch mojich romantických vzťahov som taktiež
+sama zažila rôzne formy konsenzuálnej nemonogamie. S polyamoriou som sa postupne
+zoznamovala aj na teoretickej úrovni a to najmä so vzťahovou anarchiou. Polyamoria a
+konsenzuálna nemonogamia bola žitou a diskutovanou aj v mojich kamarátskych kruhoch.
+Tieto kruhy sa nachádzajú na ľavicovom politickom spektre a moje vnímanie konsenzuálnej
+nemonogamie je tak silno ovplyvnené politickými a filozofickými názormi týchto ľudí. Veľa
+poznatkov som získavala z diskusných skupín na sociálnych sieťach a po prvých článkoch v
+slovenskom a českom prostredí ma zarazili negatívne komentáre a nahliadanie širšej
+spoločnosti. K realizácii tohto výskumu ma priviedla túžba zistiť ako danú tému vnímajú
+psychoterapeuti a psychoterapeutky na Slovensku a či sa u nich budú prejavovať predsudky
+rovnako ako u širšej spoločnosti. Nakoľko som sa rozhodla skúmať vnímanie polyamorie u
+odborníkov a odborníčok na duševné zdravie kvalitatívnym spôsobom, sociálne reprezentácie
+boli na to vhodným teoretickým rámcom. Keďže sama nemám ešte skúsenosti s kvalitatívnym
+výskumom, uvedomujem si, že to taktiež môže ovplyvniť jeho výslednú podobu a kvalitu. Ako
+výskumníčka zaujímam pozície privilegovanosti aj marginality. Ako insider k téme polyamorie
+prinášam hlbšie pochopenie, zatiaľ čo ako outsider vo vzťahu k účastníkom a účastníčkam
+musím dbať na vyváženie svojho pohľadu a ich profesionálnych perspektív. Pre tento výskum
+som zvolila metódu hĺbkových rozhovorov, pretože umožňujú hlbšie porozumenie osobných
+skúseností, no zároveň si uvedomujem, že hĺbka zdieľania závisí od rozsahu porozumenia
+druhej strane a navodenia atmosféry dôvery.
+Uvedomenie si svojej pozície nie je len metodologickou nevyhnutnosťou, ale aj etickým
+záväzkom k transparentnosti a reflexivite. Reflexivita v našom výskume je neustály proces,
+
+32
+
+ktorý vyžaduje pravidelnú sebareflexiu a priznávanie predpokladov a zaujatostí. V rámci
+priebehu výskumu sa budeme snažiť o neustálu reflexivitu a integritu aby sme zabezpečili, že
+interpretácia dát bude čo najviac transparentná a autentická.
+
+3 Prezentácia výsledkov
+V tejto časti diplomovej práce budú prezentované výsledky tématickej analýzy
+sociálnych reprezentácií polyamorie u psychoterapeutov a psychoterapeutiek a to v procesoch
+ukotvovania a objektifikácie.
+
+3.1 Ukotvenia polyamorie
+Pri analýze rozhovorov sa nám podarilo definovať päť hlavných spôsobov (tém) ako
+si participanti a participantky ukotvovali pojem polyamorie.
+Témy, ich podtémy a ich vzájomná prepojenosť sú znázornené na Obrázku č.1.
+
+Obrázok č.1 - Tematická mapa
+
+33
+
+3.1.1 Charakteristika a kategorizácia polyamorie
+Participanti a participantky si ukotvovali pojem polyamorie cez charakteristiku
+vzťahov v nej a jej foriem. Pri ukotvovaní týchto vzťahov niekedy dochádzalo aj k ich
+prirovnaniu k iným typom vzťahov. Niektorí tiež pri ukotvovaní uvažovali aj o hierarchii a
+hĺbke takýchto vzťahov. Ukotvenia charakteristiky a kategorizácie polyamorie boli často
+spojené aj s ich objektifikáciou.
+3.1.1.1 Charakteristika vzťahov
+S pojmom polyamorie sa nestretol jeden participant, ostatní si ju charakterizovali
+rôznymi spôsobmi. Niektorí participanti a participantky pri opise polyamorických vzťahov
+používali prívlastky ako „alternatívne“, „neobvyklé“, „výnimočné“, čím tieto vzťahy
+ukotvovali do ojedinelosti v našej spoločnosti.
+Ďalej si participanti a participantky polyamoriu ukotvovali v láske či zaľúbení, počte
+zainteresovaných ľudí a forme vzťahu medzi nimi. Niekto spomínal iba jednostrannú lásku a
+iní zdôrazňovali aj vzájomnosť tejto lásky. Forma vzťahu sa líšila od jednoduchého prívlastku
+partnerský vzťah až po jeho komplexnejší popis kedy spomínali intimitu, sexuálnu stránku či
+bežné fungovanie. Počet ľudí bol definovaný buď nejasnejšie ako viacerí ľudia, inokedy
+konkrétnejšie ako traja a viac. Príklady týchto definícií:
+Participant 7 (KBT): „Milovanie viacerých osôb súčasne. Akoby že tou formou intímneho
+vzťahu a blízkeho.“
+Participant 1 (PCA): „A ak som to dobre pochopil, tak ide o to, že jeden človek miluje naraz
+viacero iných ľudí.“
+Participant 10 (Geštalt): „Tak jak je vzťah dvoch ľudí, tak sú tam viacerí ľudia a sú zamilovaní
+jeden do druhého.“
+Participantka 5 (PCA): „Ja tomu rozumiem tak, že ľudia sa otvorene rozhodnú žiť vo vzťahu,
+ktorý nie je... ktorý netvorí... netvoria dvaja ľudia, ale viacerí.“
+
+34
+
+Participantka 2 (PCA): „Viem, že je to prechovávanie, uchovávanie alebo respektíve rozvíjanie
+vzťahov súbežne… viacerých vzťahov, kde sa nejedná len primárne o tú sexuálnu… sexualitu,
+ale o nejaké uh naplnenie sa vo viacerých vzťahoch súbežne.“
+Participant 6: „To je dobrá otázka, lebo… Prvé čo mi napadlo je také slovné spojenie, že systém
+vzťahov“
+Konsenzus v takýchto vzťahoch explicitne spomínali alebo sa ho pri definovaní dotýkali
+štyri participantky:
+Participantka 2 (PCA): „Teda, že človek žije súbežne s viacerými partnermi, má viacero
+partnerov, s viacerými má sexuálny vzťah a nejak je to na báze dobrovoľnosti, dohody a nejakej
+otvorenosti. Že nie je tam nič, žiadny prvok, ktorý by bol rušivý pre tých ľudí.“
+Participantka 5 (Psychoanalýza): „Hm čo si ja o tom myslím? Ja tomu rozumiem tak, že ľudia
+sa otvorene rozhodnú žiť vo vzťahu, ktorý nie je… ktorý netvorí… netvoria dvaja ľudia, ale
+viacerí.“
+Participantka 12 (Psychodynamická p.): „V podstate otvorený vzťah medzi viacerými ľuďmi,
+kde teda všetci vlastne o tých partneroch vedia a sú vlastne informovaní o tom, že teda ten
+partner/ partnerka proste môže mať nejaké ďalšie vzťahy. Aké teda sú, tak všetci vlastne ako
+keby sú o tom upovedomení a prípadne môžu žiť nejak spolu. Ale možno že ani nemusia, toto
+neviem.“
+Participantka 14 (Systemická p.): „Tak viem, že ide... ide ako keby o vzťah, o partnerský vzťah
+medzi viacerými ľuďmi, za podmienky, že o tom vzájomne vedia a súhlasia.“
+Participantka 11 (EMDR, Jungiánska p.) spomenula konsenzualitu iba pri diskutovaní
+„niektorých“ klientov. „Niektorí to aj nazývajú, niektorí to majú uložené, že chcú takýto vzťah
+a že majú taký všeobecný konsenzus a úzus vo všetkých stranách, že sú navzájom informovaní.“
+Participant 3 (PCA) sa dotýkal konceptu konsenzuality až pri diskutovaní o hodnotách.
+„Hm, máme nejaké by som povedal, že jasne dohodnuté naše fungovanie, naše hranice... to sa
+mi k tomu ťahá, tak nazval by som to nejakou férovosťou? Partnerskosťou?“
+3.1.1.2 Hierarchia a hĺbka vzťahov
+Pri rozmýšľaní nad polyamornými vzťahmi sa viacerí participanti zamýšľali nad tým,
+nakoľko môžu byť viaceré partnerské vzťahy rovnocenné a nakoľko medzi nimi bude vždy
+nejaká hierarchia. Niektorí ukotvovali vnímanie hierarchie v týchto vzťahoch na základe ich
+
+35
+
+foriem. Hierarchické vnímanie polyamorných vzťahov tak zvyčajne implicitne vyplývalo z toho
+ako si vizuálne objektifikovali formy týchto vzťahov.
+Participant 3 (PCA) síce na začiatku definoval polyamorné vzťahy ako: „sú to obidva
+nejaké rovnocenné vzťahy alebo približne rovnocenné vzťahy“ , no následne vo svojich úvahách
+prichádzal k nevyhnutnosti preferencií a hierarchie v romantických vzťahoch:
+„Viem, že toto je niekto koho mám rád, ale nemám tak rád ako to tu mám čo si budujem
+inde. Čiže tam je, tam je ako keby jasná hierarchia alebo ako to nazvať, vy ste použila také
+slovo… že tam to mám jasné, že tu je ten, ten človek tu a ostatní sú dole.“
+„Ehm, takéto čosi, že… že prirodzene potom by to muselo byť tak, že fakt že prvá… a
+podľa mňa to tak asi aj je, že… prevažná väčšina, ten svet je o tom hlavnom partnerovi a potom
+tie ostatné vzťahy sú by som povedal, že… možno trepnem somarinu, ale že o level nižšie alebo
+jak to nazvať.“
+Participantka 5 (PCA) uvažovala nad jedinečnosťou vzťahov v polyamorii a tým aj
+nevyhnutnosti hierarchie medzi nimi:
+„Ja si myslím, že to môže byť aj aj. Že... že vlastne to je to, že ako som hovorila, že s
+každým tým človekom máš jedinečný vzťah. Myslím si, že... ale keď povedzme by som mala
+dvoch partnerov, že tak aj medzi nimi mám rozdiel... že viem, ktorého by som v prípade Sofiinej
+voľby zachránila skôr. Uh, som zrozumiteľná?“
+„Proste také zložité... ale že vtedy je ten smutný, že potom tak, že keď ho miluje, že
+prečo to neunáša... prečo on to potrebuje vedieť, vieš že... a v tomto ja mám tú hierarchiu. Že
+napriek tomu, že sú vo viacerých vzťahoch, tak vlastne vždycky nastane situácia, kedy sa pre
+niekoho rozhodneš skôr.“
+Participant 6 (Psychoanalýza) rozlišoval dva druhy polyamorných vzťahov na základe
+svojich skúseností s klientami a to nehierarchickú polyamornú sieť vzťahov a hierarchické
+Včka:
+„A vlastne on ako keby propagoval alebo do tých rôznych vzťahov, ktoré mal
+investoval. Potreboval rovno... rovnomerne s nimi narábať, čiže v tomto prípade by som to
+videl skôr ako taký... Systém vzťahov, v zmysle, že je tam viacej vzťahov, kde je potrebné
+rovnomerne
+
+nejako
+
+venovať
+
+pozornosť,
+
+energiu,
+
+záujem,
+
+čokoľvek.“
+
+36
+
+„Áno, presne tak. Že manželka je vždy primárna a potom je tam ako keby ďalšia
+partnerka, tá sekundárna, presne hej.“
+Tak ako sa viacerí participanti a participantky zamýšľali nad implicitnou hierarchiou
+polyamorie, tak často spomínali aj implicitnosť plytších či povrchnejších vzťahov pri
+viacerých ľuďoch. Participantka 11 (EMDR, Jungiánska p.) vyjadrila toto svoje už pri svojej
+definícii polyamorie:
+„Moja, moja taká krátka charakteristika: Myslím si, že je to nový spôsob, ako sa
+vyhnúť hlbším vzťahom.“
+Ďalej toto svoje ukotvovanie vysvetľovala nasledovne:
+Participantka 11 (EMDR, Jungiánska p.): „Že vzťahy majú vrstvy a všetci začíname na takej
+tej otvorenej vrstve... Kde sa navzájom všetcia chválime a hladíme a v podstate si netrúfame
+na nejaké hlbšie zažívanie vzťahové, lebo tušíme, že pod povrchom je to komplikovanejšie. A
+ísť ešte ďalej do hĺbky a chcieť, uh, s nejakým človekom aj trpieť, to už súvisí aj s tým, čo som
+predtým hovorila, že... Idem do hĺbky a tam už aj ja viem, že to bude stáť veľa energie, tak sa
+tomu určitým spôsobom aj vyhýbam a niekto... niekto zostáva len na tom povrchu, aby sa tak
+nemíňal vo vzťahoch, čiže uh... toto môže byť samozrejme ďalší zo spôsobov, že... a otázka je,
+že prečo ľudia majú radšej hm, tie radostnejšie vzťahy.“
+Martina Glosová: „Takže si myslíte, že väčšinou tie polyamorné vzťahy ostanú skôr na
+povrchu? Že nejdú až tak do hĺbky?“
+Participantka 11: „Áno, myslím si to. Hoci oni majú pocit, že idú do hĺbky, že si veľmi dobre
+rozumejú, že si dobre znejú, ale neskôr zistia, že áno, ale vyhľadávali len tie krajšie situácie.“
+Participant 6 (Psychoanalýza) uvažoval nad hĺbkou vzťahov v polyamorii podobne.
+„Lebo prirodzene vlastne neviete venovať takú hĺbku, ako keby neviete ísť do hĺbky s
+toľkými ľuďmi naraz, respektíve že… Že je to dosť zaťažujúce...“
+Neskôr ale rozlíšil hĺbku týchto vzťahov podľa jej jednotlivých foriem.
+Participant 6 (Psychoanalýza): „Čiže áno, inak teraz keď nad tým rozmýšľam, takto rozlišujem
+na také ako keby možno... na tie viac tie pavučinové a také kde sa to dá hlbšie, no. V tej... mne
+to v tej polykule príde také aj uzavretejšie, že tam oni vlastne štvrtého človeka nehľadajú už.
+
+37
+
+Čiže tým, že oni sú traja... tak majú asi aj nejaké rámcovanie toho a tým pádom vlastne dokážu,
+uh... mať aj nejaký svoj model toho ako ísť hlbšie.“
+
+3.1.1.3 Porovnania s inými typmi vzťahov
+Ďalším spôsobom ukotvovania polyamorných vzťahov bolo ich porovnávanie s inými
+typmi či formami vzťahov. Najčastejšie boli porovnávané s dyadickými či monogamnými
+vzťahmi. Niektorí tieto vzťahy pripodobňovali, a iní rozlišovali či v nich dokonca videli opak.
+Participant 4 (Systemická p.): „Uh, je to teda vzťah hm troch a viac ľudí, ktorý funguje na hm
+viacerých úrovniach tak ako klasický nejaký duálny vzťah alebo teda vzťah dvoch ľudí. Uh, to
+znamená, že na stránke nejakej emocionálnej na stránke sociálnej, na stránke sexuálnej, na
+stránke nejakej… nejakého každodenného života.“
+Participant 7 (KBT): „Ale zároveň podľa mňa akoby že tie vzťahy akože jednotlivo stále fungujú
+asi zhruba podobne ako keď uh je to človek uh… jak to povedať monoamorný teda … áno áno
+dobre som to asi nejak povedal, lebo neviem aký výraz takže… Hm takže práveže si myslím, že
+tie vzťahy ako také sa až tak asi neodlišujú.“
+Participant 10 (Geštalt): „Podľa mňa monogamia a polyamoria je niečo iné. Hej, že to neviem
+či je to opak...?“
+Participantka 12 (Psychodynamická p.): „Áno, je to opak monogamie by som povedala. V
+rôznych podobách.“
+Ďalšími vzťahmi, s ktorými boli tie polyamorné porovnávané, boli rôzne iné druhy
+konsenzuálne nemonogamných vzťahov ako napríklad swingers a so sexuálnymi vzťahmi ako
+BDSM.
+Participant 10: „A za druhé som sa rozprával tiež s BDSM komunitou. To mňa sa netýka, ale
+ma zaujímali tí ľudia. A to bolo všetko na priateľskej úrovni, že... Oni mi rozprávali krásne
+filozofie, ktoré mali tiež okolo toho... že ako tam cítiť slobodu a dôveru a také veci. A že to cíti
+človek cez tú bolesť. A reálna moja skúsenosť bola, že si po prvé strašne ubližovali reálne a po
+druhé sa väčšinou porozchádzali, hej. Že nebolo... neboli schopní držať tie vzťahy tak, jak... ale
+to mám len moju skúsenosť s tou komunitou, ktorá s tým prišla navonok, hej... tak som sa s pár
+rozprával, s pár spoznal, parkrát som bol na tých stretkách a také. Podobné to bolo s tými
+
+38
+
+swingermi, hej... tými, ktorí pestovali... No že mám pocit, že sa tam dialo veľa patológií, hej. A
+to mám strach a tak by som bol zvedavý, že nakoľko by sa dialo aj tu, hej.“
+Participant 8: „To máte ako keď sa v sexe stretne sadista z masochistkou, nie? Tak keď sa na to
+pozeráte z vonku, tak kosti sa lámu, preženiem trošku… krv tam strieka a obidvaja ryčia od
+šťastia. No a z vonku to vyzerá totálna patológia. No, on ju mláti alebo ona jeho a zláme jej
+kostí a vytrhne jej ucho a neviem čo. Ale proste to je pre nich dobré. Ale to je taký trošku
+prehnaný príklad… Ale to je presne ten príklad, nie? Že keď s tým obidvaja súhlasia tak… Neni
+tam... no nič.“
+Dve participantky si vzťahy v polyamorii prirovnávali k tým s deťmi či v rodine.
+Participantka 11 (EMDR, Jungiánska p.): „Že keď mám jedno dieťa, takže tú lásku ktorú k nemu
+dám, že v podstate som toho nesmierne schopný... že keď budem mať dve deti, že to budem
+rozdeľovať a že jednému bude menej a druhému bude viac. Tak takto to nefunguje. Ale funguje
+to smerom ku mne. Čiže ja musím mať dvakrát toľko zdrojov, aby som bol schopný do toho
+vzťahu investovať, do jednoho aj do druhého dieťaťa. Takže budem sa báť dvakrát viac ako za
+jedno dieťa. Nie že sa budem báť menej, ako si ľudia často myslia. Takže keď mám 4 deti, tak
+sa bojím za každé dieťa a každý... každý tento strach je mojou súčasťou. A otázka je, že koľko
+toho som schopný zvládnuť a kde si odčerpáva energiu?“
+Participantka 5 (PCA): „Ako ja mám jedinečný vzťah so svojím synom, tak má jedinečný vzťah
+môj muž s naším synom... Vieš že... že je sme síce rodina, ale aj tak tá intencia... že aký my
+máme vzťah ovplyvňujeme vždycky iba my dvaja a myslím si, že napríklad... že sa hovorí, že...
+že vlastne uh, máme polyamorný vzťah... tak vždycky tá interakcia je jeden na jedného... že oni
+majú vždycky ten jedinečný vzťah.“
+Dvaja participanti rozmýšľali nad podobnosťami vzťahov v terapiách a polyamorii.
+Participant 10 (Geštalt): „Tak môj obraz približný je, že jak je individuálna terapia a skupinová
+terapia… Tak také čosi, hej.“
+Participant 6 (Psychoanalýza): „Ja keby som si to predstavil… premietam si to cez seba v
+práci... že vlastne ja mám takú polyamoriu s mojimi klientmi, ale mám to na 50 minút vlastne
+týždenne… Neviem si predstaviť, že vlastne by som to mal ako keby s každým ísť do takej hĺbky,
+tak mi to príde také nemožné až.“
+
+39
+
+3.1.1.4 Hodnotiace perspektívy
+V ukotvovaní polyamorných vzťahov sa objavovali aj rôzne hodnotiace perspektívy.
+Tieto hodnotenia sa týkali najmä zrelosti alebo nezrelosti takýchto vzťahov.
+Participantka 11 (EMDR, Jungiánska p.): „Je to túžba... čo za vzťahy? No každopádne je to
+zaujímavá vzťahová, vzťahová väzba medzi ľuďmi, ktorí by mali byť dospelí a mali by byť zrelí.“
+Participant 8 (Geštalt, psychodynamická p.): „No taký detský...to je tiež blbé slovo. To je takisto
+blbé v tomto jak hovoríme nezrelý. No ale to čo jak my so ženou hovoríme to čo robia deti...
+Keď to robí dieťa, je to väčšinou milé vo všeobecnosti aj iné veci. Keď to robí dospelý, tak už
+je to od istého veku hnusné. A teraz nemyslím, len to som povedal vo všeobecnosti, nie... deti...
+dieťa si môže dovoliť všetko. To ja s ním súhlasím... skoro všetko. Ale dospelý by sa mal niekde
+tak trošku niekde inde zase posunúť no.“
+Participant 10 (Geštalt): „Ale vždy keď sa na to pozriem filozoficky, tak mi príde, že to je… Že
+vyššia forma vzťahu, hej, že… Môj obraz zatiaľ.“
+„V dobrom. Možno už toho veku mi ide skôr o dobrom. Také rozumného, že a možno… keď si
+budem fandiť, tak tak to nazvem, že zrelého.“
+U ostatných participantov a participantiek sa hodnotiaca perspektíva explicitne
+nevyskytovala. Aj keď Participantka 2 (PCA) vyzdvihovala osobnú preferenciu a hodnoty
+monogamného vzťahu, uvedomuje si, že hodnotnosť polyamorie a hodnotné žitie v nej záleží
+na mnohých faktoroch.
+„No to isté si myslím o polyamorii verzus monogamii... že netrúfam si povedať, že čo je
+hodnotnejšie... Že naozaj je to komplex rôznych faktorov, ktoré... na základe ktorých sa človek
+rozhoduje nejako a to... to by sa dalo podľa mňa len v osobnom rozhovore zisťovať, že či to je
+hodnotné žitie. Či to človeka zušľachťuje alebo nezušľachťuje.“
+
+3.1.2 Hodnotové ukotvenia
+Hodnotové ukotvenia sa dotýkali konsenzu, ktorý bol ale väčšinou spomenutý už pri
+charakteristike polyamorných vzťahov. Najčastejšie ďalej spomínané hodnoty súvisiace s
+
+40
+
+polyamoriou boli hodnoty otvorenosti a slobody a hodnota lásky. Ostatné hodnoty, do ktorých
+participanti a participantky ukotvovali polyamoriu, sú spomenuté v podtéme “Iné hodnoty”.
+Participantky 5 a 13 považovali pri polyamorných vzťahoch za dôležité nielen
+samotné hodnoty, ale aj odvahu ich žiť.
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Určite to súvisí aj s hodnotami
+tých ľudí. Ale aj s takou odvahou tie svoje vlastné hodnoty skutočne žiť hej.“
+Participantka 5 (PCA): „Akože môžu mať také isté hodnoty ako ľudia čo nie sú v takýchto
+vzťahoch, vieš že...myslím ja sa takto pozerám na ľudí, že myslím si, že tie hodnoty nás všetkých
+nejakým spôsobom zbližujú, že... Myslím si, že keby som sa s tebou bavila, že o čestnosti, o
+otvorenosti, o slobode, by ti to prišlo veľmi sympatické a že by sme sa v tom zhodovali... Takže
+v tomto... uh skôr je rozhodujúci strach, že čo ja vlastne nepoviem tomu druhému človeku, kde
+sa zväzujem, že... že podľa mňa skorej strach zohráva úlohu, že ja uhnem od nejakých hodnôt,
+že… Alebo keď niekto preferuje neslobodu, tak opäť je za tým skôr strach, že uh... Že čo mi
+hrozí, keď by som bol slobodný, že? Že mi mne sa zdá, že je prirodzené pre ľudí žiť čestne a že
+byť slobodný, nezviazaný, otvorený... lebo vlastne to v konečnom dôsledku, že menšia záťaž pre
+život.“
+3.1.2.1 Otvorenosť a sloboda
+Hodnota otvorenosti ako čestnosti, pravdovravnosti či korektnosti bola spomínaná u 2
+participantov a 2 participantok. Otvorenosť v zmysle liberálnych hodnôt je spomenutá v
+podtéme Iné hodnoty.
+Participant 1 (PCA): „A áno, je tam to, to som ja ani nepovedal, ale obaja tí muži v tom boli
+celkom otvorení a hlásali tú otvorenosť, hej.“
+Participant 3 (PCA): „Vyberáme si niečo čo ladí s nami nejakým spôsobom... A neviem, viem
+tam vidieť napríklad také… také pozitíva v tomto zmysle, že... že myslím, že nejakú otvorenosť...
+Hm... nejakú slobodu, nejakú korektnosť...“
+Participantka 5 (PCA): „Aj čestnosť mi napadá, že... vlastne, uh... to že mám túžbu v podstate
+stráviť noc nie len s jednou ženou alebo mužom... uh, nechcem to pred tebou skrývať... že to tak
+je, ja to tak mám... možno to znamená čokoľvek, vieš, že prečo to ja tak mám, ale takto tu a teraz
+to tak je, vieš? Že môže v tom byť ten človek otvorený, v tej komunikácii o sebe.“
+
+41
+
+Participantka 12 (Psychodynamická p.): „Potom určitá ako keby tá... aj tá pravdovravnosť. Že
+vlastne s tou pravdou to môže súvisieť. Že nebudem klamať, ale proste prinášam to otvorene.“
+
+Do hodnoty slobody si polyamoriu ukotvovali 3 participanti.
+Participant 1 (PCA): „Láska, sloboda určite hej, lebo o to ide pravda, aby sme sa neviazali v
+jednom výlučnom vzťahu, aby sme mali slobodu pre všetky možné vzťahy.“
+Participant 7 (KBT): „Hodnôt... slobody, voľnosti.“
+Participant 4 (Systemická p.): „Hmm...Podľa mňa určite tam je hodnota sloboda.“
+3.1.2.2 Láska a vzťahy
+Hodnotu lásky spomínali traja participanti, pričom participant 7 vo svojej odpovedi aj
+rozviedol ako špecificky táto hodnota môže byť ponímaná u polyamornych ľudí.
+Martina Glosová: „Mhm, takže tými hodnotami môžu byť hm...nejaká...“
+Participant 1 (PCA): „Láska.“
+Participant 4 (Systemická p.): „Hm je tam hodnota nejaký liberalizmus a hodnota láska,
+hodnota vzťahy.“
+Participant 7 (KBT): „A keby som si mal tipnúť, tak by som asi rozmýšľal nad takými nejakými
+hodnotami. Proste, že... že tá láska, že by to vnímali ako proste hodnotu, ktorá... Neni akoby že
+exkluzívna voči jednému človeku.“
+„Že by to možno, že vnímali viac tú akože lásku ako spektrum? Žeby to... že nebolo tak,
+že kamaráti a potom ľudia ktorých milujem, ale že vlastne… že ten človek akoby, že miluje
+všetkých zároveň... alebo teraz že sa snaží akoby že mať akože celé to... že hodnota, že milovať
+všetkých tých... tých ľudí. Akože nejaké bratstvo alebo sesterstvo alebo niečo takéto... a tým
+pádom, že z toho usudzujú, že potom prečo akobyže nemať aj tú intímnejšiu lásku aj s
+viacerými... že vlastne, že aký je rozdiel?“
+„Si neviem, že... či by som to potom nazval, že nejaká že univerzálnosť lásky alebo niečo
+také alebo neviem...“
+Participantka 11 (EMDR, Jungiánska p.) spomínala akým spôsobom môže byť hodnota
+vzťahov ukotvená u polyamorných ľudí.
+„To je asi... asi jedna z tých hodnôt no... a vzťahy. Máme buď podhodnotené alebo
+prehodnotené alebo nadhodnocované, tak.“
+
+42
+
+3.1.2.3 Iné hodnoty
+Medzi ďalšie hodnoty patrila hodnota liberalizmu, ktorá bola často vyjadrená aj
+implicitne ako protipól konzervativizmu.
+Participant 6 (Psychoanalýza): „Pri tých ľuďoch som vnímal väčšinou… Uh, taký liberálnejší
+samozrejme pohľad.“
+Participantka 12 (Psychodynamická p.): „Hm je tam hodnota nejaký liberalizmus a hodnota
+láska, hodnota vzťahy.“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Predstavujem si, že nie sú
+konzervatívni. Že nie sú zviazaní nejakými náboženskými normami.“
+Participantka 12 (Psychodynamická p.) spomínala hodnotu tolerancie.
+„Mhm. Možno tá tolerancia, ešte. Hej, že tá schopnosť ako keby tolerancie nejakej.“
+Martina Glosová: „Že tolerancie iných partnerov... tak?“
+Participantka 12: „Alebo vôbec toho, že niekto to môže mať inak a že to nemusíme mať všetci
+rovnako. Tá tolerancia k názoru toho druhého.“
+Participant 7 (KBT) spomínal ukotvenie v hodnote naturálnosti na základe jeho
+objektifikácie polyamorie u „hipisákov“.
+„Nejakej akože naturálnosti v tom, že proste akobyže že príroda v tomto nevidí, akoby
+že… že príroda nie je veľmi monogamná dajme tomu, že… že nejaké takéto presvedčenie. Teraz
+troška akoby, že čerpám, uh, inšpiráciu z hipisákov, pretože vlastne… U nich by som si tipol,
+že že bol väčší počet uh polyamorných ľudí ako v bežnej populácii a zároveň že oni mali takéto
+presvedčenia, takže z toho to usudzujem.“
+Participantka 11 (EMDR, Jungiánska p.) sa pri svojom uvažovaní nad hodnotami
+polyamorných ľudí zameriavala najmä na hodnotu osobnej zodpovednosti, no spomínala aj
+hodnoty sebarealizácie a seba-ocenenia či duchovné a materiálne hodnoty.
+„Jednoznačne si myslím, že je to o hodnotách človeka, ako má uložené hodnoty. Myslím
+si, že máme krízu v oblasti hodnoty osobná zodpovednosť. Takže táto hodnota sa mi, sa mi
+ukazuje ako veľmi kľúčová. Ale sú to aj hodnoty nášho výkonu aj našeho.... našej sebarealizácie,
+
+43
+
+nášho seba-ocenenia. Ako požadujeme uznanie od druhých. Ale aj celkovo samozrejme
+nastavenie materiálne a duchovné.“
+„Ja si myslím, že máme vôbec problém celkovo s osobnou zodpovednosťou v
+spoločnosti. A možno, že „polymorfní“ majú... majú určité percento tej osobnej zodpovednosti
+pocítenej ako keby v daný moment viac. A tá hodnota je pre nich určitým spôsobom kľúčová. A
+možno že dávajú aj viac ako by si zaslúžila... alebo menej.“
+
+3.1.3 Motivácie pre polyamoriu
+Významnou témou ukotvovania polyamorie bolo ukotvovanie motivácií pre
+polyamoriu. V rámci tejto témy sme identifikovali podtémy: Napĺňanie potrieb; Túžba po
+rozmanitosti a experimentovanie; Osobné naplnenie, identita a rast; Psychodynamické faktory;
+Túžba po slobode a autonómii a Interpersonálne a sociálne faktory.
+3.1.3.1 Napĺňanie potrieb
+Motivácie napĺňania potrieb často participanti a participantky vysvetľovali cez
+nedostatočnosť monogamie, kedy si polyamorní ľudia nevedia alebo z nejakého dôvodu im
+nejde si naplniť všetky potreby dostatočne v jednom vzťahu.
+Participantka 14 (Systemická p.): „Hm. Keď uvažujem o tej polyamorii, tak... rozumiem tým
+to, že uh, keď sme v dyadickom vzťahu, tak sme predpokladám, uh... niekedy nútení robiť
+kompromisy a ustupovať tomu partnerovi. A možno niektoré svoje ako keby potreby alebo túžby
+sú potlačené a preto tým ľuďom dáva väčší zmysel mať polyamorné vzťahy. Hej, že v tomto
+zmysle ako keby tú slobodu tam vidím väčšiu.“
+Participantka 2 (PCA): „A keď človek nemá naplnený ten svoj potenciál... teraz myslím na
+nejaké potreby osobné... uh potreby, hm vyššie potreby - teda potreba lásky, úcty a takého
+uznania, prestíže, osobného... osobné niečo, čo je veľmi výsostne osobné... Keď to ten vzťah
+nenapĺňa, tak človek uh, si to chce naplniť. Ak je nejaká prekážka vo vzťahu alebo prekážkou,
+môže byť aj to, že tí dvaja si nedokážu tú intimitu prehĺbiť. Tak dokážem si takto predstavovať,
+alebo myslím si, vyslovujem iba názor čistý... že potom človek hľadá uh, viacero párov, viacero
+partnerov... Hľadá príležitosti na to osobné... pre to osobné naplnenie, pre to osobné blaho.
+Teda niekde ten jeden vzťah, ten primárny, sa zasekne alebo... niečo je neprechodné... alebo
+
+44
+
+človek má dojem, že toto je plané alebo niečo nedostáva, tak samozrejme tá túžba, tá potreba
+ho bude poháňať ďalej a... A takto si to nejako predstavujem… že naplní si potrebu.“
+Participantka 12 (Psychodynamická p.): „Že vlastne mať ako keby... mať nejaký vzťah proste s
+viacerými než jednou partnerkou alebo partnerom. A môže byť aj to, že vlastne ten človek ako
+keby nedokáže ako keby napĺňať proste nejaké všetky tie potreby u jedného človeka, že... alebo
+teda človeka, že... hm, s niekým sa možno môžem lepšie porozprávať, s niekým možno, hm, zase
+tá fyzická časť môže byť ako keby... že je to možno že nejaká taká potreba, že hm, viacej ako
+keby mať... Byť, byť proste s nejakým človekom, aj možno z nejakej časti mi nevyhovuje, ale z
+nejakej časti mi veľmi vyhovuje a zase keď si to tak proste človek nakombinuje, že môže byť
+uspokojený ako keby na viacerých nejakých svojich... uspokojenie viacerých potrieb. Hej, že s
+jedným človekom je to možno niekedy veľmi komplikované, alebo teda niekedy až nemožné,
+alebo... v podstate to nemožné nemať ako keby uspokojené všetky svoje potreby.“
+Participant 6 (Psychoanalýza): „Uh… Vnímam, že to je ako keby strata… uh, niečoho… ako
+keby strata dôvery, že sa môže naplniť niečo v monogamnom vzťahu, čo ľudí privedie do takého
+nastavenia.“
+Dve participantky hovorili o napĺňaní konkrétnych potrieb bez toho, aby bolo toto
+uspokojovanie potrieb spojené s nedostatočnosťou monogamie.
+Participantka 12 (Psychodynamická p.): „Ale môže byť naozaj ten... tá potreba tej blízkosti. Že
+tam vlastne možno že niekomu možno, že nejde o nič ani iné, no o tú blízkosť a o tú otvorenosť.“
+Participantka 5 (PCA): „Viem si predstaviť, že niekto rieši bezpečie, niekto rieši potrebu
+vzájomnosti, niekto rieši potrebu ocenenia, že ono to môže byť každá tá nedostatková potreba
+a iná. Hm a musím pripustiť, že tam môže byť aj možnosť rastu. Že keď človek zažije takú tu....
+že je... ale to si nemyslím, že je nejaký permanentný stav alebo určité okamihy, kedy má svoje
+potreby naplnené a vie tam byť pre toho druhého človeka.“
+„Vzájomnosť a možno aj ocenenie, že uh... uh, ale myslím, že ako by sa to dalo k tým vzťahom,
+v podstate, že nemôžme to vylúčiť, že aj to bezpečia aj toho ocenenie, ale najviac mi tam
+rezonuje, že keby som mala vypichnúť jednu potrebu, tak vlastne potreba vzájomnosti, že...“
+
+3.1.3.2 Túžba po rozmanitosti a experimentovanie
+
+45
+
+Ďalšími častými motiváciami spomínanými participantkami a participantami bola
+túžba po sexuálnej či romantickej rozmanitosti, chuť experimentovať a nezastavovanie týchto
+túžob.
+Participant 7 (KBT): „A druhá vec to môže byť proste aj nejaká tá sexuálna potreba. To už
+cítim na základe toho, že ľudia sú… Pomerne akoby že neverný druh. To znamená, že vlastne
+to môže byť sčasti aj uh, riešenie toho. Že teda to nebude, akoby že nevera, ale sa to…
+Nepovedal by som, že sa normalizuje nevera, ale že proste sa normalizuje to, že chceme robiť
+aj iné veci s ľuďmi, ktoré sú intímne ako len s jedným človekom súčasne.“
+Participant 1 (PCA): „Sme hm, poháňaný nejakým pudom. Či už sexuálnym alebo erotickým,
+alebo jednoducho hladom po láske a...“
+Participantka 5 (PCA): „Neviem takéto čosi mi napadá. Že nemať v tom také obmedzenia... že
+proste keď pocítim túžbu, tak nezastavím ju preto, lebo proste to je zvonku dané, ale odovzdám
+sa tomu...“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Môže to byť aj zvedavosť. Môže
+to byť také skutočné emočné zaujatie tými ľuďmi.“
+Participantka 11 (EMDR, Jungiánska p.): „Ďalší model môže byť taká tá vzrušivosť a chuť
+experimentovať a vyskúšať v živote úplne všetko, lebo mi beží vlak alebo proste je to taká naozaj
+ako dráždivosť v tej výbave človeka, že také taká chuť po vzrušeniach a po nejakých extáznych
+zážitkoch a po všeličo možnom...“
+Participant 4 (Systemická p.): „môžu byť dôvody to, že proste človek len to chce vyskúšať, hej...
+že je to niečo nové, je to niečo také neobvyklé a chce si ten človek overiť, dokázať, zažiť nejakú
+takúto skúsenosť s takýmto vzťahom.“
+Participant 6 (Psychoanalýza): „Alebo potom túžba objavovať. Že niekto vlastne ako keby iba
+je v nejakej samote a je mu prirodzená a má chuť proste možno vyskúšať niečo takéto… že ako
+keby takéto nastavenie, že by mal… No čiže myslím si, že aj taká túžba objavovať tie vzťahové
+možnosti.“
+3.1.3.3 Osobné naplnenie, identita a rast
+Participanti a participantky ukotvovali motivácie k polyamorii aj do osobného
+naplnenia, príjemných pocitov a napĺňania svojej prirodzenej inklinácie k polyamorným
+vzťahom.
+
+46
+
+Participantka 14 (Systemická p.): „Možno... keď sa nad tým tak zamyslím, tak možno nejaký
+spôsob ako že.... Že si užiť ten život naplno alebo neobmedzovať sa? Asi to.“
+Participant 8 (Geštalt, psychodynamická p.): „V zásade to je dobrý pocit. No tak určite to je
+dobrý pocit.“
+Participantka 2 (PCA): „Hľadá príležitosti na to osobné... pre to osobné naplnenie, pre to
+osobné blaho.“
+Participant 6 (Psychoanalýza): „Čiže… čiže myslím si, že to existuje aj z takého nejakého… Hm
+ako keby prirodzeného ladenia … s takým nastavením, že niekomu to jednoducho viac vyhovuje
+v takom… takom uh, viacrozmernom emocionálnom, sexuálnom intímnom angažovaní… že to
+pôjde na viacej strán. Takže myslím, že prečo by sa teda vtedy ľudia rozhodovali…? Hm…
+Neviem, mne to tak príde, že to je niečo prirodzené, vlastne ako keby.“
+„Myslím si, že iba prirodzene človek nejako cíti, že toto je to jeho nastavenie, v ktorom
+sa on sám cíti bezpečnejšie, cíti sa príjemnejšie.“
+Participantka 12 (Psychodynamická p.): „Že proste, jednoducho tomu človeku je to takto
+prirodzenejšie a je mu tak lepšie a je mu tak dobre.“
+Niektorí uvažovali aj nad tým, že skúšanie polyamorie môže byť spôsobom
+formovania identity, hľadania sa.
+Participant 6 (Psychoanalýza): „A no a potom úprimne niekde, možno aj taká z môjho uhla
+pohľadu otázka identity. Myslím si, že dnešná doba má neuveriteľné narcistické požiadavky na
+ľudí a prirodzene to v ľuďoch vytvára veľké otázky ohľadom toho, či identita je dosť dobre
+poskladaná a môžu mať pocit, že zastávajú nejakým uvažovaním, keď vlastne sa neotvárajú
+nejakým novým veciam. Alebo práve naopak, majú pocit, že práve sú akokeby sú súčasťou tej
+spoločnosti, keď sa otvárajú novým veciam. Čiže, čiže aj takéto niečo tam vnímam, že že ako
+keby ľudia skúšajú… také hranice ich možno identity, alebo sa snažia možno prispôsobiť tomu,
+čo dneska je niečím hm reklamovanejšie ako… ako lepšie alebo niečo… neviem, nechcem znieť
+ako moji rodičia.“
+Participantka 14 (Systemická p.): „Lebo predsa tie uh, keď si vezmeme obdobie... Tých takých
+ranných tínedžerov. Tí, ktorí ešte nemali vzťahy, tak oni si utvárajú vlastne tú svoju identitu.
+Hej a...
+A tie sociálne siete alebo médiá všeobecne im tú identitu pomáhajú tvoriť. Ale to pomáhanie
+nemusí byť ako keby okej.“
+
+47
+
+Martina Glosová: „Mhm. Takže vlastne, keď sa možno ešte v tom tínedžerskom veku ešte
+hľadajú a zachytia takéto informácie, tak sa možno tak môžu aj identifikovať ako polyamorní?“
+Participant 14 (Systemická p.): „Mhm. Áno.“
+Participant 3 (PCA): „Definoval by som to... aj tak, že človek sa môže... alebo ocitá sa v
+nejakom, dá sa povedať nejakom svojom stave napadlo mi, že ani nie zmätenosti, ale nejakej by
+som povedal, že aj nerozhodnosti... možno na nejakom... na nejakej križovatke rozhodovania sa
+čo ďalej alebo hľadania sa, hm spoznávania sa... a toto môže byť podľa mňa pre neho dobrý
+model... alebo ako by som to povedal, že... dobrá možnosť ako si niekde... si myslím, že sa niekde
+aj spoznávať alebo si vyberať alebo uvažovať o sebe alebo akým smerom sa možnože vyberať...“
+3.1.3.4 Psychodynamické faktory
+Ďalšou podkategóriou motivácií boli ukotvenia v hlbokých psychických procesoch u
+polyamorných ľudí. Tie sa týkali najmä reakcie na nespracovanú traumu, strach, nespokojnosť,
+sklamanie či stratu. Niektoré terapeutky a terapeuti používali na ilustrovanie týchto
+podvedomých motivácií aj objektifikácie imaginárnych príbehov či príbehov klientov.
+Participantka 11 (EMDR, Jungiánska p.): „A pretože aj sa stretávam v poslednej dobe, naozaj
+je to trend podľa mňa možno od roku tak 2022, že sa stretávam u dospelých, traumatizovaných
+dospelých, práve s tým, že majú svoje vzťahy rozprestreté širokospektrálne a potýkajú sa s
+rôznymi problémami. V rámci vyrovnávania sa nejakých traumatických rámcov svojich aj v
+tejto oblasti.“
+„Hm, a môžu byť... môžu byť tam aj sekundárne... Naozaj si myslím, že tam môžu byť
+sekundárne záležitosti, alebo možno až terciálne v tom zmysle, že sú neni uložené, sú neni
+spracované traumatické veci. A tie tam tiež môžu takto byť ako keby mechanizmom, ktorý má
+pomôcť.“
+„Myslím si, že sú to situácie, ktoré človek zažíva počas svojho zrenia, počas svojho
+vývoja a ako veľmi sa sklame alebo ako veľmi je spokojný, tak ho to potom nejakým spôsobom
+smeruje. Niekedy je to možno aj vec náhody, že objaví aj toto a myslí si, že to bude riešenie na
+jeho problém. A vyskúša to.“
+Participantka 2 (PCA): „Takže toto by som povedala, že môže do toho vstupovať, že taká zrada
+alebo takéto niečo sa stane v tom citlivom veku, citlivej fáze zrenia, sexuálneho zrenia a
+
+48
+
+dievčatá zanevrú na mužov alebo... Alebo teda boja sa prehĺbiť intimitu s mužmi, lebo je tam to
+zranenie tak silné, že častokrát sa potom ťažko otvoria jednému... a otvárajú sa viacerým... čo
+teda hraničí s promiskuitou. Ale viem si kľudne toto dosadiť aj do polyamorie...“
+„Takže ono to môže mať na tej škále od 1 do 100 sa to hýbať hociktorým... že hocikde
+by som to vedela lokalizovať. Že buď teda tá promiskuita a principiálna nedôvera, ktorá
+pramení zo zrady - to je verzia A.“
+Motiváciou podľa niektorých participantov mohlo byť aj sklamanie či trauma v
+dyadickom vzťahu či vzťahoch či úplná strata dôvery v monogamné vzťahy.
+Participant 6 (Psychoanalýza): „Hm ja si myslím, že áno. Myslím si, že áno... Myslím si, že
+áno... uh, ako som spomínal napríklad trauma. Ale to je strata. Ja by som povedal, že to je
+strata do veľkej miery. Lebo hm, tá strata takej… takej dôvery v to, že v tej dvojke to ide, alebo
+že sa to dá...“
+„A ale… ale veľakrát dôjdu do toho, že práve v tom nastavení sa im stalo niečo, čo
+ich presvedčilo o tom, že už tak ako keby stratili tú dôveru v to, že by to mohlo fungovať… a
+preto to ako keby tak nejako rozložia. Stratiť jedného človeka, keď ich máte štyroch, je
+jednoduchšie ako stratiť jednoho… čiže asi asi v tomto to tiež vnímam, že to… že to môže nejako
+asi uisťovať.“
+Participant 7 (KBT): „Keď trebárs niekto… hm… možnože, akože manželstvo, ktoré
+stroskotalo… alebo teda dlhý intímny vzťah, ktorý stroskotal tým, že pre toho jedného človeka
+proste nebol akobyže uspokojujúci a… a kvôli tomu mal nejako, že konflikty a potom trebárs
+mu to nejako akobyže…tak ako možnože zranilo alebo ublížilo, že si povedal, že… že už si to
+nevie predstaviť mať znovu.“
+Bolo spomínané aj ukotvenie motivácie v strachu, no z rôznych perspektív.
+Participantka 5 (PCA): „Áno áno, že že nie je motív radosť, ale je motív nejaký strach. Že nejak
+nerozpoznaný strach, že potrebujem viac sa dávať...“
+Participant 6 (Psychoanalýza): „Ja úprimne z toho cítim skôr možno strach zo záväzku k
+jednému človeku.“
+
+49
+
+Dvaja participanti pri svojom uvažovaní nad motiváciami vychádzali aj z
+psychoanalytických teórií a možnosti riešenia primárnych vzťahov s rodičmi takýmto
+spôsobom.
+Participant 6 (Psychoanalýza): „To je taká zaujímavá situácia, lebo vychádza z oidipovského
+komplexu... a vlastne to je taká prvá troj-situácia, do ktorej sa človek dostane. A je to zaujímavé,
+že ono to väčšinou končí teda tým, že to dieťa ako keby... tých rodičov ako keby nejako nechá
+na pokoji a ide, ide si riešiť tie svoje veci... ale že v tomto prípade vlastne vidím, že ostávajú
+ako keby všetci traja doma a to je tam možná aj tá hĺbka.“
+Participant 10 (Geštalt): „Naozaj nie som podkutý v tých psychoanalytických teóriách, ale
+myslím fakt, že veľa z tých vzťahov je dobiehanie nejakých tých primárnych vzťahov s rodičmi
+a tak.“
+Martina Glosová: „Tých dyadických?“
+Participant 10 (Geštalt): „Dyadických, hej. To môže byť zaujímavá tá polyamoria… doháňanie
+rodiny. Ale však tá rodina je v pohode, aj tlupa je v pohode.“
+Niekoľkí participanti si motivácie k polyamorii ukotvovali aj do vzťahovej teórie a
+hlavne neistých vzťahových väzieb ako vyhýbavá a dezorganizovaná.
+Participantka 11 (EMDR, Jungiánska p.): „Vzťahy. Jednoznačne sú to vzťahy a miera strachu
+a vyhýbania. Úzkosť a vyhýbanie sú jednoducho báza, základ ako spracovávame informácie zo
+vzťahov a ako sa vzťahujeme. Myslím si, že naozaj tam stále platí to rozdelenie vlastne... či je
+to Bowlby alebo aj Ainsworthová, 4 základné väzby. A bezpečná väzba si myslím, že takmer
+neexistuje... že to je túžba, ku ktorej by sme mali smerovať. A väčšina, väčšina tých väzieb je
+naozaj dezorganizovaných a ťažkých.“
+Participant 3 (PCA): „Možno by som si vedel predstaviť hm... osoby a to keby som... zasa keď
+uvažujem, tak skôr by som povedal, že osoby môžu byť nejako v niečom možno neisté... možno
+skôr v niečom vyhýbavé... potrebujú mať teda možno nejaký odstup vo vzťahoch alebo uh...
+Chcú mať možnože viacej veci pod kontrolou... nechcú sa upínať na jeden vzťah... možno je to
+pre nich nejako ohrozujúce... Skôr sa na to takto pozerám.“
+Participant 6 (Psychoanalýza): „Mhm, možno by som aj išiel do niečoho takého. Hej, že… že to
+môže byť, môže byť taká vyhýbavejšia vzťahová väzba. Lebo prirodzene vlastne neviete venovať
+
+50
+
+takú hĺbku, ako keby neviete ísť do hĺbky s toľkými ľuďmi naraz, respektíve že… Že je to dosť
+zaťažujúce...“
+Participant 8 (Geštalt, psychodynamická p.): „Takže to môže byť také alebo to môže byť o
+neistote. To je to čo sme hovorili, že sa vyhýba vlastne, nie... Ten vzťah medzi dvomi je náročný.
+No a vlastne každé zlyhanie musím niečo s tým robiť. A keď ich mám tam 20, no tak...“
+3.1.3.5 Túžba po slobode a autonómii
+V rámci možných motivácií participanti a participantky uvažovali nad túžbou slobody
+a autonómie. Tieto túžby mohli byť reakciou na rigidnú výchovu, kresťanskú morálku či rôzne
+normy v spoločnosti.
+Participantka 11 (EMDR, Jungiánska p.): „A to si myslím, že môže popostrčiť a aj také... taká
+veľká rigidita, hm, ktorá sa tam môže v rámci morálky a v rámci presvedčení zo strany rodičov
+aj spoločnosti do tých vzťahov dostávať. Tak čím väčšia rigidnosť, tak tým viac to môže
+samozrejme narobiť problémy. A môže to ale aj popostrčiť k tej „polymorfii“.“
+Participantka 5 (PCA): „Vieš čo možno niekoho kto, uh...Uh povedzme niekoho, kto bol rigidne
+vychovávaný povedzme v nejakej kresťanskej dogme a s ktorou... ktorú možno popiera... Aj toto
+mi napadlo... že vieš, že ... prečo by to malo byť tak, že žijeme uh v monogamných vzťahoch...
+že prečo by to malo byť proste nejako dané zvonku, že prečo by sme to nemohli skúsiť aj ináč
+možno a aj toto mi napadlo.“
+Participant 6 (Psychoanalýza): „Ale a potom si tiež myslím, že je to aj… uh, nejaká miera toho
+ako v dnešnej dobe vlastne… Sa otvára také uvažovanie nad tým, že ako vlastne by ten vzťah
+naozaj mal vyzerať a čo je to tá monogamia a postupne sa rozbíjajú nejaké nároky alebo nejaké
+stereotypné obrazy o tom… čo mladým ľuďom môže… umožňuje rozmýšľať za hranicami a
+vtedy vlastne, uh... No a myslím si, že aj toto tak nejako nejako vplýva na to, že sú viac otvorení
+skúšať takému niečomu“
+„Čiže, čiže… v niečom mám pocit, že je to aj taká úľava ako keby, otvárať sa niečomu
+takémuto v dnešnej dobe, že… Aj neísť podľa tých tradičných stereotypov a tak ďalej, že
+vyskúšať už niečo nové, otvoriť sa. Že mal som raz jednu klientku, ktorá mala vzťah s manželom
+a vlastne ona sa chcela otvoriť, on nechcel a ona vlastne bola už nahnevaná, že on furt si rieši
+tie svoje tradičné veci a že ja už sa chcem niekam posunúť, že ak chce niečo nové… čiže, čiže
+myslím si, že aj tá doba a aj taká väčšia miera otvorenosti a túžby spoznávať.“
+
+51
+
+Participantka 14 (Systemická p.): „Hm, byť... Byť iný ako väčšina. Nezapadať do normy.“
+Autonómia a sloboda sa ale mohla prejavovať aj v neobmedzovaní sa a žití vzťahov
+podľa svojich túžob a predstáv.
+Participantka 14 (Systemická p.): „Hmm.... Možno... keď sa nad tým tak zamyslím, tak možno
+nejaký spôsob ako že.... Že si užiť ten život naplno alebo neobmedzovať sa? Asi to.“
+Participantka 5 (PCA): „Uh, možno aj predstava, že tu chcem byť pre viacerých ľudí, že... Ten
+Vojtek hovoril o neobmedzovaní sa.“
+„Že môže si v tom aj rozumieť, že kto má... v podstate kto je preňho prvý, ale zároveň
+povedzme chce žiť, uh, pravdivo v tom, že... ja neviem s tým druhým, tretím, štvrtým..., ja neviem
+kolkatým... chce žiť v podstate aj sexuálne.. všetko čo k tomu patrí proste. Že nechce sa v tomto
+obmedzovať doslova tak že... Že nechce mať zadané nejaké kategórie toho vzťahu, že nejak
+zvonka, ale si to chce vedieť dizajnovať tak ako ho vystihuje.“
+„Určite to nie je, že nemám rád toho druhého...že, že to že s ním prežije noc, že
+neznamená, že vlastne toho druhého by som si nevybral ako prvého. Neviem takéto čosi mi
+napadá. Že nemať v tom také obmedzenia... že proste keď pocítim túžbu, tak nezastavím ju preto,
+lebo proste to je zvonku dané, ale odovzdám sa tomu...“
+3.1.3.6 Interpersonálne a sociálne faktory
+Niektorí motivácie k polyamorii ukotvovali ako spôsob riešenia vzťahových problémov
+v dyadickom usporiadaní.
+Participant 11 (EMDR, Jungiánska p.): „A potom tam vstupuje dosť taká osobná nespokojnosť,
+neuplatnenie sa alebo... alebo také nejaké pozdržanie sa zastavenie sa vo vzťahu, ktoré vnímajú
+rôzne, hej. Ako svoju neschopnosť, ako nudu... čiže tých dôvodov je tam viacero.“
+Participantka 14 (Systemická p.): „Ale neviem si... ako neviem, nenapadá mi nič, žiadna taká
+situácia, pri ktorej... Ktorá by mohla spustiť ako keby... no neviem, asi... asi je to nejaký ten
+rozhovor medzi tým párom... v rámci toho páru, že... Že im to v niečo nefunguje, napriek tomu
+chcú byť spolu tak... Možno si to idú vyskúšať, aby ten vzťah udržali. Neviem.“
+Participant 6 (Psychoanalýza): „a potom u starších, ktorí majú krízy vo vzťahoch“
+„čiže viem si predstaviť, že to môžu byť aj spôsob ako sýtiť ten primárny vzťah a vlastne
+prehĺbiť ho do nejakej takejto troj-dynamiky alebo takéhoto trianglu…“
+
+52
+
+Participant 8 (Geštalt, psychodynamická p.): „No napríklad, no tak medzitým korčuľujem a furt
+si nájdem niečo… a keď mám doma len jednu ženu, tak čo? Tak sa pohádame a som naštvatý a
+pôjdem za nejakou, ja neviem… si nájdem nejakú… Ale keď mám 2 vzťahy alebo 3 alebo koľko,
+ja neviem koľko to môže byť...“
+Participantka 12 (Psychodynamická p.) rozmýšľala nad motiváciou k polyamorii ako
+riešením zmeny sexuality v dlhoročnom partnerskom vzťahu a pri tomto ukotvovaní použila aj
+imaginatívnu objektifikáciu.
+„Myslím si, že to môže byť niekedy... ja som teraz nad tým nedávno tak rozmýšľala, že
+môže to možno súvisieť aj s nejakou zmenou sexuality ako keby v dlhoročnom partnerskom
+vzťahu. Že vlastne ten vzťah mám dojem, že býva potom taký ako keby viacej sa tak otvára, že
+už nie je taký ako keby striktne proste, hm.. hm exkluzívny a že vlastne je tam ako keby vtedy
+taká tá možnosť, že sa to môže zmeniť aj do niečoho takéhoto. Tak ako keby tým, že deti už sú
+veľké. Už ten človek možno nemá ako keby tú zodpovednosť, hm, za tie deti, hej, za nejaké malé
+deti. Takže vlastne ako keby si tak viacej môže žiť ten svoj život podľa seba, podľa svojich
+predstáv a nie podľa nejakých noriem alebo hm očakávaní, hej.“
+Niektoré participantky ukotvovali motiváciu k polyamorným vzťahom v iniciácii
+jedného človeka z páru a dve ju ilustrovali aj príkladmi svojich klientov a klientok, ktorí sa
+takto dostali k nejakej forme konsenzuálnej (alebo na hranici konsenzuality) nemonogamie.
+Participantka 5 (PCA): „Toto hovorím. Že viem si predstaviť, že... že niekto sa prispôsobí
+pretože toho človeka nechce stratiť... že môže v podstate vstúpiť do takéhoto vzťahu lebo, že...
+Ak by to neurobil, že môže mať na seba takúto podmienku, ktorá nemusí byť daná zvonku... Ale
+on to tak môže čítať... že vlastne by to znamenalo, že s tým človekom nebude... a je ochotný
+unášať túto ťažobu napriek tomu, že s ňou nesúhlasí, že... Aj mimo tej definície... že napriek
+tomu, že sa to povie oficiálne, tak môže takýto kompromis človek so sebou spraviť.“
+Participantka 11 (EMDR, Jungiánska p.): „Motivácia väčšinou z jednej strany. A ten druhý
+partner sa na to nechá presvedčiť. A nechá sa presvedčiť aj preto, že už ten vzťah je taký
+vychladnutý. Aspoň tak to... takto mi udávajú dôvody. Takže nie je to nasilu akokeby alebo že...
+lebo inak by sa rozišli alebo by odišli z toho vzťahu, alebo by to inak dopadlo. Ale je to tak, že
+vyhodnotia to akože... nejaká racionálna možnosť.“
+Participantka 2 (PCA): „Chcela to... vtedy to chcela... ale motív nemala taký, že ona túžila po
+sexe s inou ženou alebo s iným mužom, ale chcela to kvôli svojmu mužovi, lebo jemu sa to
+
+53
+
+páčilo. Takže ona sebou pohŕdala v podstate celý čas, ale tak bola hladná po ocenení svojho
+muža, manžela, že dokázala toto so sebou spraviť. Až v neskoršej fáze jej to celé došlo a bolo
+jej zo seba veľmi zle. A nemohla... neobviňovala svojho muža, pretože ona do toho išla
+dobrovoľne. Lebo to... aj tá dobrovoľnosť je niekedy taká otázna lebo hm... Dokážeme so sebou
+robiť veci, ktoré nechceme, len... len kvôli tomu, že je tam prísľub lásky alebo
+ocenenia...niečoho čo... čo nám chýba. Tak urobíme kompromis sami so sebou a potom, keď už
+veľmi strádame v tom vzťahu, tak vtedy to postupne sa to akoby nazbieralo a sprítomní sa to vo
+vedomí, že čo to so sebou robím...“
+Medzi interpersonálnymi ukotveniami motivácií sa vyskytli aj úvahy nad motiváciami
+ohľadom ľahšej starostlivosti o deti.
+Participant 10 (Geštalt): „A minimálne je ten človek sériovo monogamným. A to robí veľké
+komplikácie mi príde, z hľadiska výchovy detí a takých… a tak by tá polyamoria pre mňa bola
+že lepšia odpoveď.“
+Participantka 12 (Psychodynamická p.): „Hm, možno ešte také tam bolo, tá starostlivosť
+možnože aj pri deťoch. Že vlastne je to jednoduchšie ako keby keď je viacero tých dospelých
+ľudí. Takže vlastne ako keby sa tak aj logisticky a proste celkovo, že... sa to dá lepšie ako keby
+zorganizovať, že hm... Hej. To tam asi, asi bolo, ale viac nespomínam. Je to už trošku dávnejšie,
+neviem presne už. Len áno, tá logistika.“
+Do tejto podtémy sme zaradili aj situačné ukotvenia spojené so zaľúbením sa do/
+ľúbením viacerých ľudí paralelne.
+Participantka 12 (Psychodynamická p.): „Človek žije v monogamnom vzťahu a možno stretne
+niekoho, s kým si je veľmi blízky a proste nejak ako keby sa z toho nevie nejak inak vysporiadať
+než... Že teda nechce byť trebárs neverný tomu svojmu partnerovi, ale zároveň ho nechce
+akokeby... hm, nejakú takú spriaznenú dušu alebo proste niekoho koho stretne, akokeby stratiť
+alebo nemať na nejakej úrovni akokeby blízko. Takže vlastne môže byť práve toto, že stret
+akokeby s niekým veľmi príjemným alebo niekým, kto nás proste osloví. Takže to môže byť ako
+keby len taká nejaká náhoda.“
+Participant 7 (KBT): „Jedna je proste, že vyslovene taká tá intímna citová väzba. Že proste
+uh… Že ten človek pozná trebárs viacerých ľudí, ktorých vníma akoby že veľmi blízko. A mal
+by buď problém alebo bolo by mu blbé akože, že si vybrať keď vie, že uh, k obom alebo teda k
+viacerým ľuďom cíti niečo hlboké.“
+
+54
+
+Ďalším spomínanými interpersonálnym a sociálnym faktorom je vplyv prostredia,
+médií, vzdelávania, či iného kritického zhodnotenia informácií.
+Participant 6 (Psychoanalýza): „Že ten dojem, to vo mne trochu vytvára. Že tam je nejaký taký
+ako keby trend, ktorého sa dá chytiť a zažiť niečo nové… čo dobre rozbíja stereotyp alebo niečo
+zaužívané, alebo zase mladým ľuďom dá proste podnet taký aký potrebujú, že skúšajú niečo
+nové. Niečo za hranicami poznaného.“
+Participantka 14 (Systemická p.): „Hm... Keď sa nad tým zamyslím, tak nemám nejakú takú
+jasnú odpoveď. Len možno takú úvahu nahlas, že... možno čím nižší vek, tak tým je to pre tých
+ľudí... pokiaľ za predpokladu tých médií... tak to môže byť pre nich atraktívne, pre tie mladšie
+generácie.“
+Participantka 12 (Psychodynamická p.): „Hm rozmýšľam ešte nad nejakými ďalšími
+okolnosťami. Možno že sa to stane niekomu blízkemu, že nepriamo tomu človeku, že má tú
+skúsenosť cez nejakých známych alebo podobne.“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Skôr si predstavujem také
+zhodnotenie toho, že... Že keď človek, hm, chce byť dôsledný a nejako porozumieť tomu
+konceptu tej nevery, tak nejakým spôsobom sa pravdepodobne veľmi ľahko môže dopracovať k
+polyamorii.“
+Participantka 11 (EMDR, Jungiánska p.): „Nie, myslím si, že kľúčové je vzdelávanie. Takúto
+debatu, ktorú vedieme my dve. Keby nás počúvalo viacero ľudí a mohlo sa zapojiť... A dokonca
+aj mladých ľudí. Myslím si, že kľudne tí adolescenti a pubescenti by mali čo povedať a mali by
+sa čo dozvedieť.
+A myslím si, že to je potrebné. Lebo to je presne ten istý mechanizmus ako keby som sa vás
+opýtala, že: Keby bola spoločnosť nastavená na marihuanu alebo na iné drogy, tak budú všetci
+viacej drogovať? Nie.
+Možno bude pravý opak, ale vyberú si to všetci tí, ktorí to takto chcú a budú o tom správne
+informovaní. A aj cez to všetko samozrejme ich budú čakať prekvapivé veci a zážitky.
+Ale to čo… to čo si myslím, že je dôležité je vzdelávať ľudí, rozprávať sa a vôbec nevynechávať
+aj deti.
+Takou primeranejšou formou. Ale ukazovať, že... Život nie je čierno-biely, ale je to pestré, je to
+farebné... aby vedeli, čo majú čakať. Množstvo mladých ľudí má problémy so sexuálnou
+
+55
+
+orientáciu, pretože oni ani netušia, že čo a nikto sa s nimi o tom nebaví. Keby sa s nimi o tom
+bavili, tak by si to lepšie uložili a by zistili, že aha, tak toto je nejaké chvíľkové bláznenie, alebo
+toto som si tam dal preto, že som bol nešťastný, alebo že sa niečoho bojím a nie som v podstate
+gej, hej.“
+Jeden z participantov spomenul motiváciu ako vyjadrenie politických hodnôt najmä v
+prípade mladších klientov.
+Participant 6 (Psychoanalýza): „Uh, taký liberálnejší samozrejme pohľad. Potom asi u každého
+bol pohľad, ktorý išiel zásadne proti monogamii. Že svojím spôsobom vlastne ako keby… uh
+niečím… aj v tej terapii ma potrebovali presvedčiť o tom, že tá monogamia nie je dobrá ako
+keby…Uh, s takým vymedzením.“
+„alebo v zmysle, že... lebo tá monogamia vlastne prečo by mala byť dobrá a uh že je to
+nejaký konštrukt, ktorý nám je vlastne podsúvaný spoločnosťou a že by sme ho mali nejakým
+spôsobom rozbíjať... Uh, že… že to súvisí aj s patriarchátom...“
+
+3.1.4 Kontextuálne ukotvenia
+Participanti a participantky často ukotvovali polyamoriu v kontexte dilemy
+biologickej podstaty a sociálnej konštrukcie, ďalej v rôznych kultúrnych a historických
+kontextoch, v rode a sexualite, v životných fázach a vývinových obdobiach a v kontexte
+súčasných trendov.
+3.1.4.1 Biologické a sociálne faktory
+Participanti a participantky sa často zamýšľali nad biologickou a/alebo sociálnou
+podstatou polyamorie a monogamie. Niektorí považovali tieto vzťahy za jasne sociálne
+konštruované, iní tam videli zmes oboch faktorov. Často pri tejto dileme používali prirovnania
+k prirodzenosti sexuálnych orientácií.
+Participant 1 (PCA): „Viete, ja si myslím, že v našej kultúre takej tej bielej, európskej alebo
+európsko-americkej sa hlása monogamia a neviem či... sú ženy tak biologicky nastavené alebo
+je to spoločenský faktor? Pretože keď vezmeme do úvahy polygamiu v arabských krajinách, tak
+zdá sa, že tam to tým ženám tak nevadí, že tie sú s tým nejak uzrozumené. Ale teda tu na
+
+56
+
+Slovensku som ja nestretol jedinú ženu v poradni a teda to už som sa s nimi rozprával s
+mnohými, ktoré by s takým niečím súhlasili.“
+„Nemyslím si, že polyamoria je daná geneticky ako... homosexualita pravdepodobne je.
+Takže to percento by sa mohlo teda hodne... Ja si myslím, že by to mohlo rozšíriť na celú
+spoločnosť.“
+Participant 10 (Geštalt): „No určite si nemyslím, že človek je monogamný. A v inej spoločnosti
+by to vyzeralo úplne inak si myslím, že... A minimálne je ten človek sériovo monogamným.“
+Participant 3 (PCA): „Hej že či je vôbec 1 človek schopný naplniť alebo môže byť naplnený v
+dyáde alebo vo vzťahu s 1 človekom? Či je to vôbec možné? Uh teda, alebo teda to neni možné
+a potom je prirodzené mať viacej vzťahov?“
+„Otázka je zase, že či to je, že či je toto to ozaj niekde prirodzené, normálne pre nás...
+Alebo sme tak len naučení.“
+Participant 7 (KBT): „Že trebárs by to nejakých ľudí akoby že oslovilo, ktorí by ako keby sa s
+tým treba ešte nestretli, tak by to proste nemali nejako dôvod akoby že skúmať. Ale to je potom
+otázka na to, že koľko je to že dané a koľko sa to dá akoby že objaviť že v sebe?“
+„Hej tak otázka je... to je isté, že to asi bude aj aj, teda ja si tak domnievam, ale otázka
+je aký je ten pomer. Takže to by sa asi líšilo trocha od tej sexuality, ale to je tiež vlastne že
+otázka. Že… že či teda je to naozaj, že buď teda fakt, že dané podobne ako tá sexualita alebo je
+to proste, že iné v tomto. Takže ja by som asi povedal, že trochu iné ale neviem.“
+Participantka 13 (Psychodynamická p., POP, systemická p.) túto dilemu prirodzenosti vzťahov
+u ľudí ukotvila v ich rozmanitosti.
+„No tak ako je to... sme súčasťou živočíšnej ríše biologicky, hej. Tak ako sú rôzne
+usporiadania v rôznych druhoch a nie je to tak, že by všetky tvory boli monogamné. Má to rôzne
+praktické dôvody v živote tých druhov, že prečo sú polygamné, monogamné alebo prečo sa
+dvaja starajú o dieťa, prečo len ten jeden. Tak si myslím, že ľudia to tiež ako druh nemajú tak
+jednoznačne osvojené, dané. Že žijú v tak rôznych podmienkach, že úplne prirodzene môžu mať
+rôzne usporiadania, keby ich... Keby ich a teraz neviem, civilizácia alebo kultúra alebo... Etika
+alebo neviem čo všetko nenútili k nejakej takej akoby jednoznačnej forme vzťahov. Ale myslím
+si, že prirodzene sú veľmi rozmanití. A biologicky sú svojím vybavením naozaj.... Ako môžu byť
+a žiť svoje vzťahy veľmi rôznym spôsobom.“
+
+57
+
+Pokračovala v tomto rozmýšľaní aj pri konceptoch, ktoré sa jej s monogamiou a polyamoriou
+spájajú a to neverou a vernosťou.
+„Že je to... tá nevera, vernosť, to sú také koncepty, ktoré... hm, nie sú príliš prirodzené
+pre každého. Pre niekoho hej. Ale väčšinou nie.“
+Participant 7 (KBT) zasa premýšľal o prepojenosti sociálnej konštrukcie monogamie a
+žiarlivosti.
+„Nehovorím, že sú monogamní kvôli žiarlivosti. Skôr by som povedal, že to akoby že
+také fenomény, ktoré ťahá byť to proste súčasne. Ale skôr by som povedal, že sú monogamní a
+žiarliví. Ale nie že by boli monogamní, pretože by boli žiarliví. Obe sú nejaké historické
+spoločenské, uh, konštrukty spoločnosti.“
+3.1.4.2 Kultúrne a historické
+Kultúrne a historické ukotvenia boli participantmi a participantkami v prvom rade
+využívané k porovnávaniu akceptácie polyamorie či iných nemonogamných vzťahov a ich
+rozšíreniu v spoločnosti. K tomuto porovnávaniu často dochádzalo za pomoci objektifikácií
+konkrétnych príkladov z týchto kultúrnych či historických kontextov.
+Participant 7 (KBT) takto premýšľal prostredníctvom niekoľkých takýchto objektifikácií.
+„Hm… tak počas rôznych historických období, uh vieme nájsť tie určité kultúry, kde
+proste tieto intímne a sexuálne vzťahy proste boli inak.
+Teraz ak prvé napadá mi, že… že Grécko staroveké, kde to proste že bolo bolo aj také
+akoby homoerotika medzi tými akoby že školiteľmi staršími a synmi nejakých ich priateľov. A
+ale zároveň trebárs v podstate aj vo feudálnej Európe a tak ďalej, keď boli všelijaké akože uh...
+veľmoži, tak trebárs mali aj viaceré akoby, že ženy a to sa akoby, že nejako tolerovalo tým
+mužom v moci, pretože si to proste akoby že mohli uh, dovoliť aj keď sa to akože zároveň
+odsudzovalo a zároveň oni akoby že mali to privilégium. A bolo to také že... no. Takže... a to sú
+len také dva príklady, ale viem, že asi by sa našli aj kopu iných...
+Či už možno, že tých kmeňových usporiadaní, ale ja verím, že aj v neskorších obdobiach by sa
+niečo také našlo.
+
+58
+
+A vlastne uh… Uh, veď celý blízky východ je uh poly, takže… ale oni to majú to tak,
+že muži môžu mať viacej žien, takže je to nevyvážené, ale je to stále v podstate forma
+polyamorie.“
+Participant 1 (PCA) podobným spôsobom prirovnával nazeranie na vzťahy a rodinu v
+západnej spoločnosti v porovnaní s kultúrou domorodých kmeňov v Amazonskom pralese.
+„Čítal som raz niekde článok o nejakom takom uh... Výskume nejakých domorodých
+kmeňov kdesi v Amazonskom pralese. A opísal to tam ten autor, že sa pokúšal zistiť, že ktoré
+deti majú ktorých rodičov, že ktorí ľudia tam majú ktoré deti... Pretože oni žili všetci pokope a
+spávali v jednom veľkom dome uprostred dediny. A nebolo celkom jasné, že ktoré dieťa je čie.
+A keď sa na to pýtal, tak tí ľudia sa k tomu stavali celkom vlažne, že koľko razy ani vlastní
+rodičia to nemali úplne jasné. A nevadilo im že takto to bolo hej... to sú naše deti, my sme tu
+všetci spolu.
+Keby sme niekedy hádam dospeli myslím naša európska spoločnosť alebo takáto
+americko-európska západná spoločnosť dospeli k takémuto nazeraniu na svet tak
+pravdepodobne... by to existovalo bežne a nerobilo by to ľuďom, uh, problémy toho typu, že
+nežiarlili by sme.“
+Dve participantky porovnávali otvorenosť českej kultúry voči polyamorii s tou
+slovenskou.
+Participantka 12 (Psychodynamická p.): „To si myslím že hej. Že či je aj tá spoločnosť otvorená,
+či je tolerantná a podobne. Viem si to predstaviť, že napríklad v Čechách je to trošku niekde
+inde ako napríklad na Slovensku. A aj na Slovensku je to niekde inde ako to bolo na Slovensku
+pred 15 rokmi. Že myslím si, že je to ako keby v tomto trošku voľnejšie zase, ale stále nie tak
+otvorené ako inde na západ.“
+Participantka 5 (PCA): „A myslím si, že dokonca mám taký názor, že v Čechách je táto téma
+otvorenejšia. Možno že práve ten Vojtek tomu prispieva. Že myslím si, že u nás, aj keď to možno
+existuje, tak ľudia majú strach sa k tomu prihlásiť. Že toto… nemyslím si, že by to u nás nejako
+nebolo. Že to sú také moje rozmýšlania o tom. Nemám nejakú štatistiku, že by som sa vedela o
+to oprieť, ale tým, že vlastne tá téma je tam viacej otvorená.“
+3.1.4.4 Sexuálne menšiny
+
+59
+
+Ďalším spôsobom ako si participanti ukotvovali prevalenciu a akceptáciu polyamorie
+bolo jej porovnávanie s prevalenciou a akceptáciou sexuálnych menšín.
+Participant 4 (Systemická p.): „A potom napríklad, že muži hlavne, ale aj niektoré ženy…
+vlastne popierajú, že by mali nejakú skúsenosť sexuálnu s rovnakým pohlavím. Hej, ale vieme
+že sa to deje, hej. A teraz že, že rozmýšľam, že do akej miery je aj tá polyamoria zastúpená.
+Hejže, že do akej miery ľudia túžia mať takýto vzťah? A do akej miery reálne majú ten vzťah?
+Lebo… Z toho čo viem, že keď sa tej téme človek nevenuje, tak vlastne to k nim neprichádza.
+Hej, že to sú tí ľudia, že nepoznám žiadneho homosexuála, ale pritom poznajú piatich, len o
+tom nevedia. Tak rozmýšľam, že či ja náhodou nepoznám nejakých ľudí, ktorí sú akože
+normálne v polyamornom vzťahu, že im to funguje, fičí a ja o tom neviem, lebo sa proste na to
+nepýtam.“
+Participant 1 (PCA): „Hej hej, to by sa to mohlo zmeniť. Ako príklad by som mohol uviesť
+homosexualitu. Homosexualita pred 200 rokmi bola zakázaná, bol to trestný čin... ešte za mojej
+mojej mladosti to bol trestný čin. A ako sa to zmenilo za ten čas?“
+„Takže je to presne naopak. A homosexualita bola... bola prísne zakázaná, potieraná a
+dehonestovaná v spoločnosti nielen zákonmi, ale aj bežnými zvyklosťami... A dneska teda na
+Slovensku to ešte nie je úplne otvorené... Ale smerujeme k tomu a možno to zanedlho bude.“
+3.1.4.5 Životné fázy a vývinové obdobia
+Participanti a participantky používali na ukotvenie polyamorie aj rozdielnosť či
+výhodnosť rôznych vekových období. Polyamoria bola často vnímaná ako vhodnejšia pre
+mladšiu generáciu alebo ľudí do 40 rokov. U tínedžerov niektorí spájali polyamoriu s vývinom
+identity a trendom.
+Participantka 14 (Systemická p.): „Lebo predsa tie uh, keď si vezmeme obdobie... Tých takých
+ranných tínedžerov. Tí, ktorí ešte nemali vzťahy, tak oni si utvárajú vlastne tú svoju identitu.
+Hej a...
+A tie sociálne siete alebo médiá všeobecne im tú identitu pomáhajú tvoriť.“
+Participantka 12 (Psychodynamická p.): „Neviem, neviem, na toto neviem odpovedať. Myslím
+si, že sa môže objaviť v každom veku toto, ale neviem si to... Teraz moja taká fantázia, že neviem
+si to predstaviť možno u nejakých starých rodičov a podobne. Hej, že to sa mi zdá také, že...
+Moja predstava, hej, že... Asi nie a skôr by som to možno že tým tak do 40, neviem.“
+
+60
+
+„Ja by som povedala, že dnešní dajme tomu nejakí tridsiatnici, že by k tomu mohli mať
+nejakým spôsobom akože od 20, 20+ hej, že možno bližšie. A je to nejakou otvorenosťou, ktorá
+tu teraz je ktorá tu trebárs pred 20 rokmi nebola, ale nebolo možné vlastne hej, že...“
+Participantka 11 (EMDR, Jungiánska p.) hovorila aj o svojej skúsenosti s polyamoriou najmä u
+vekovej kategórie do 35 rokov. Vyjadrila tiež svoj názor na to, kedy by bolo podľa nej výhodné
+polyamoriu skúšať.
+„Nie, nie... toto v podstate je skúsenosť moja u tých mladších u tých skoro 30, medzi 30
+- 35 ročných, možno od toho roku 2022.“
+„Môj názor? Ja si osobne myslím, že asi každý človek počas života by si mal prejsť
+takouto skúsenosťou. A v podstate by si mal asi zistiť, aby si mohol sám uložiť, že či sa... či je
+to pre neho alebo to pre neho nie je.“
+„Čo nikomu neprospieva a im samotným už vôbec nie. Takže ja si osobne myslím, že
+možno lepšie mať takéto „polymorfné“ vzťahy medzi 20 – 30 ešte bez záväzkov. Bez toho aby
+som tam mal viacero vzťahových zodpovedností.
+A určite, určite lepšie ako to potom trebárs ešte skúšať... Že si to dosycujem niekedy v
+neskoršom veku. Myslím ako naozaj že na starobu. Lebo. Nie som v tom štádiu ešte, alebo teda
+už sa blížim k tej starobe, ale... ale osobne si myslím, že to musí byť veľmi vyčerpávajúce
+potom.“
+Participantka 12 (Psychodynamická p.) tiež pri tomto uvažovaní nad vhodným vekom
+pre polyamoriu myslela na vplyv rodiny a veku detí.
+„Myslím si, že nejaký môže nastať nejaký prienik presne v tomto, že ako keby tie deti a
+malé deti môžu byť niekedy to, čo človeka ako keby odrádza od toho. Alebo proste na to ani
+nepomyslí alebo to nechce riešiť popri deťoch. Nehovorím že to tak má každý, ale že môžete byť
+ako keby jeden z takých nejakých... hm, nejakých vplyvov ako keby, že ten človek nejde do toho
+vtedy. Možno že má také túžby, ale proste možno prakticky si to neviem predstaviť. Alebo
+celkovo proste, že pri tej zodpovednosti za dieťa, tak o tom nechce vystavovať, lebo sám si
+možno nie je istý, tak vlastne to nebude riešiť. Ale možno keď tie deti sú už dospelé alebo veľké,
+tak ako keby skôr rozmýšľať ten človek nad sebou než nad tými deťmi, ako keď sú malé.“
+Aj keď ostatní participanti a participantky spájali polyamoriu skôr s nižším vekom,
+Participantka 13 (Psychodynamická p., POP, systemická p.) uvažovala nad možnou
+výhodnosťou aj pre ľudí vo vyššom veku.
+
+61
+
+„Viete, ale rozmýšľam, že či je to len záležitosť ľudí v tom mladšom veku alebo aj v
+staršom. Existujú predsa tie... také tie spoločné bývanie dôchodcov hej, alebo? No a potom
+myslím hej, že aj v tom vyššom veku, teda staršom, že môžu vzniknúť podobné usporiadania...
+Že nemusia, ale môžu, mi to príde.“
+
+3.1.5 Výzvy a problémy polyamorie
+Niektorí participanti a participantky ukotvovali polyamoriu aj do výziev a problémov
+s ňou spojenými. Medzi najčastejšie patrila úroveň spoločenského prijatia a stigmatizácia
+polyamorie, emocionálne a psychologické ťažkosti a praktické problémy.
+3.1.5.1 Spoločenské prijatie a stigmatizácia
+Pri rozprávaní o polyamorii participanti a participantky často spomínali to, ako sú tieto
+vzťahy v našej spoločnosti málo prijímané, či tabu a ako môže tento tlak spoločnosti a jej normy
+vplývať na ľudí, ktorí sú v polyamorných vzťahoch.
+Participant 7 (KBT): „Ale tak už som to niekedy počul a je to akoby že je to vo svojej podstate
+zaujímavé tým, že je to niečo stále také zriedkavé, najmä tabu ešte navyše.“
+Participant 6 (Psychoanalýza): „A jediné čo mi napadlo je, že keď sa tak človek rozhodne, tak
+uh, oceňujem alebo obdivujem tú odvahu vlastne ísť aj cez ten stereotyp, hlavne na Slovensku.
+Myslím si, že… že to ako keby nie je úplne chápané. Určite. Alebo nejako… nejako porozumené,
+že vlastne odkiaľ to alebo že čo to je… A ako to funguje.“
+Participantka 11 (EMDR, Jungiánska p.): „Môžu mať problém s hodnotením v spoločnosti...
+ako ich spoločnosť bude za tento... za tento ich spôsob oceňovať alebo ohodnocovať. Oni si
+podľa mňa dosť uvedomujú, že je tu spoločnosťou odmietané a že to nie je preferované... hm
+alebo, alebo teda oslavované takéto žitie. Pretože si to uvedomujú z názorov zo svojej... zo
+svojho okolia, zo situácií odmalička, kde vyrastali. Takže si myslím, že toto nie je... nie je norma
+a preto je tam určitým spôsobom aj obava, že budú v očiach druhých menejcenní... alebo že
+budú mať určité... určité záležitosti ich budú limitovať ako keby. Takže tam môžu byť takéto
+základné bazálne... bazálne morálne problémy.“
+
+62
+
+„Skôr si myslím tie ostatné, že... že ocenenie spoločnosti by bolo katastrofálne za takéto,
+takže sú nútení byť v izolácii a v podstate skryte.
+Aj keď by tam bol teda ten úzus tých... tých dospelých. Ale už preto, že sú tam deti a že
+sú tam aj ďalší príbuzní, tak uh, tí tiež v podstate... Tie vzťahy nie sú jednoduché. My nemáme
+že 1, 2-ja, 3-ja... ale proste máme množstvo príbuzných - bratrancov, sesternice, babky,
+známych, kamarátov a tí všetci nám určitým spôsobom určujú ako ten náš spôsob bude tajný
+alebo... alebo verejný.
+No oni... Oni buď to nevedia na začiatku, alebo si to potom počas praktizovania takéhoto
+vzťahovania sa... si to začnú uvedomovať, že toto nečakali, že budú musieť v podstate byť v
+utajení alebo byť určitým spôsobom limitovaní. Že si nemôžu tieto veci dovoliť úplne všade.
+Alebo že to... že vedú tajný život. A sú z toho zaskočení.“
+3.1.5.2 Emocionálne a psychologické ťažkosti
+Niekoľkí participanti a participantky spájali polyamoriu s problémami spojenými so
+žiarlivosťou.
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Hej, noo má to svoje čaro žiť s
+viacerými ľuďmi v blízkom vzťahu. Ale zase ani to nie je tak jednoduché, že… Viac ohrozenia,
+a teda myslím hlavne na žiarlivosť alebo...“
+Participantka 11 (EMDR, Jungiánska p.) spomína častý nesúlad medzi predstavami jej
+klientov a klientok o polyamorii a realitou takýchto vzťahov. Hovorí o náročnosti takýchto
+vzťahov, o prekvapení z vlastnej sexuality, či nesúlade v hĺbke angažovania sa. Podľa jej
+skúseností s klientmi a klientkami môžu takéto vzťahy spôsobovať tlak, stres, výčitky až
+retraumatizáciu.
+„Alebo niekedy to môže byť aj o tom, že... O tých našich predstavách, že... Ja do toho
+idem s týmto, ale cez to všetko som potom zaskočený realitou, že ako ma to reálne dostalo alebo
+ako som s tým reálne sa zaťažil. Že máme, máme vo výbave takú ako... romantičnosť detstva
+asi, že idealizovať si to, že však to zvládneme, že veď aj o tomto, o tomto všetkom som uvažoval.
+Ale mám skúsenosť, že aj tak sme zaskočení tým, že sme nečakali, že to bude až také. Čiže tá
+hĺbka tej zodpovednosti, ktorá ich potom trafí vzhľadom... vzhľadom na to, čo žijú, tak je pre
+nich neúnosná. Často.“
+
+63
+
+„Hm, tak to sa míňať v toľkých vzťahoch. Lebo vzťahy nie sú o tom, že aha, tu som a
+zostanem nedotknutý. Ale vzťahy, hm, ak majú byť uveriteľné, tak nás v podstate zaväzujú a
+berú nám určité, určité energie a určitým spôsobom ich potrebujeme zvládať a kompenzovať.
+Takže niekedy musí človek aj oddychovať aj zo vzťahov vlastne. Takže toto je, toto je niekedy
+problém, že si ľudia trúfajú mať veľmi veľa a viac než kapacitne na to majú možno v danom
+momente a možno aj celkovo.“
+„Myslím, že sú veľmi, veľmi prekvapení z vlastnej sexuality a z toho, že nedokázali tú
+sexuálnu zdržanlivosť mať na uzde, že jednoducho hm... Prepadli takému silnému emočnému
+vzrušeniu a nabudeniu až, až boli z toho ako šokovaní. Zo začiatku ich to ich to naozaj vydesilo
+a ohrozovalo a potom určitým spôsobom to spracovávali. Ale asi... asi takto. Skôr to vnímam
+aj ja podľa toho ako mi rozprávajú, že sú vydesení zo svojej sexuality, sexuálnosti, o ktorej ani
+netušili, že ju majú, hej. Alebo, že takto to funguje. Tak sú veľmi prekvapení, že... že tá vzrušivosť
+a tá...to nabudenie, to štartovanie takého očarenia... Predpokladali, že oni tomu odolajú, že sú
+vyzbrojení, že to zvládnu. Čiže skôr také ako keby tej telesnej stránky prežívania... z toho, z toho
+sú vydesení. Z toho sú ako keby prekvapení, že to takto si mysleli, že to nemajú. Že sú schopní
+racionálne ovládať svoju telesnú stránku trebárs.“
+„To ja neviem, ťažko to povedať. Myslím si, že niektorí môžu ísť do toho aj s tým, čo
+som ja povedala, že sú ochotní ísť do tých horších situácií. A dokonca si myslím, že niektorí to
+aj deklarujú, aj to hovoria. Môže byť problém na druhej strane, že druhá strana to tak až nemá,
+alebo všetci zúčastnení to až tak nemajú. A potom... potom zisťujú, že sú na hojdačke, že tento
+sa vezie a tento maká... Hej a začnú cítiť nesúlad.“
+„Áno, väčšinou je problém s tým, s tým, že oni v podstate sú už ukotvení v nejakom
+vzťahu, kde sú aj deti. A začnú si takéto záležitosti. A na druhej strane to trebárs tiež tak je.
+Alebo to tam aj nie je. Takže smerom k tomu vlastnému majú výčitky. Keď je to na obidvoch
+stranách, tak sa tie výčitky násobia, lebo tie ohrozenia sa znásobujú a cítia ešte väčší tlak a
+stres. Že nechcú to... nechcú pokaziť životy všetkým zúčastneným.“
+„Áno majú, majú za tým pozadie... majú väčšinou traumy, ktoré si nesú celý život a sú
+prekryté rôznymi vrstvami, sú nespracované a oni si v podstate mysleli, že to majú vyriešené a
+až hm, tie budúce nejaké zlyhania ich... ich alebo určité prekvapenia vzťahové ich znovu ako
+keby retraumatizovali a znovu, a znovu sa im povyťahovali aj staré záležitosti, o ktorých si
+mysleli, že teda už sú pre nich v poriadku.“
+
+64
+
+Dvaja participanti si spájali polyamoriu so záťažou pre deti.
+Participantka 12 (Psychodynamická p.): „ale, hej môj názor je taký, že pre tie deti by to mohlo
+byť akože mätúce a nejakým proste spôsobom zaťažujúce.“
+Participant 8 (Geštalt, psychodynamická p.): „Z hľadiska detí to nie je podľa mňa dobré. Lebo
+ja si, ja si myslím, že deti... deti by mali mať ten, podľa mňa taký ten model ten... No tak dieťa
+má, ja si myslím, tam ten... tam ten… biologický trojuholník - otec, mama dieťa má fungovať,
+no... hej, čím viac sa to rozloží na viacej tých rodičovských osôb... Z hľadiska dieťaťa podľa
+mňa
+
+to
+
+neni
+
+dobre.“
+
+„No zmätok a ho to ochudobňuje o to, že sa učiť fungovať v takých tých intenzívnejších,
+hlbších vzťahoch. No.“
+
+3.2 Objektifikácie polyamorie
+Participanti a participantky používali pri rozmýšľaní nad polyamoriou rôzne druhy
+objektifikácií. Rozdelili sme ich na Metaforické a vizuálne, Prípadové štúdie a osobné príbehy,
+Imaginárne príbehy a Príklady z iných kultúr a historických období.
+
+3.2.1 Metaforické a vizuálne objektifikácie
+Medzi metafory a vizuálne objektifikácie sme zaradili aké vzťahové usporiadania si
+participanti a participantky pri polyamorii predstavovali.
+Najčastejšou predstavou vzťahového usporiadania bolo usporiadanie tvorené troma ľuďmi a to
+hlavne V-vzťah alebo triáda. Často bola predstava tohto usporiadania hierarchická, kedy bola
+hlavná dyáda a sekundárny človek, ktorý sa do nej pridal.
+Participantka 14 (Systemická p.): „Hm, asi... asi prvé čo mi, čo mi napadlo, tak... hm, som
+videla obraz troch ľudí, ktorí sú spolu.“
+Participant 3 (PCA): „Keď vychádzam z takej… by som povedal, že v našej, hm takej tej klasiky,
+hm že žijeme v nejakej tej vzťahovej dyáde… tak by som povedal, že do toho sa teda pridruží
+ďalšia osoba a teda takto niekde ja počúvam… tak jak tomu nejako zatiaľ rozumiem čo tí ľudia
+hovoria, ktorí v tom nejako žijú alebo ktorí to nejako opisujú, tak… čo sú to obidva nejaké
+
+65
+
+rovnocenné vzťahy alebo približne rovnocenné vzťahy, v ktorých žijú a v ktorých si nejako by
+som povedal, že čerpajú niečo čo potrebujú…“
+„Vtedy boli tam traja v tom a všetci vedeli o sebe. To bolo, že áno... to, to nebolo tak
+prepojené ako si asi myslíte... bolo to vlastne prepojené cez tú jednu osobu a len o sebe vedeli,
+že existujú tie dve osoby, teda tí dvaja muži a tá jedna žena teda vlastne o tom hovorila
+otvorene... a teda oni sa... oni dvaja spolu nemali vzťah.“
+Participant 4 (Systemická p.): „je tam nejaký vzťah medzi dvoma a ten tretí vyslovene ako keby,
+že neprotestuje, dokonca, že je ako keby naklonený...“
+„Uh, druhý, podľa mňa akože menej častý dôvod je, že naozaj že... hm, človek môže byť
+naraz zamilovaný aj do viacerých ľudí naraz a zhodou okolností tí viacerí ľudia už tvoria nejaký
+vzťah. Takže uh, takže... vlastne ten tretí sa ako keby pridá do toho vzťahu...“
+Participantka 11 (EMDR, Jungiánska p.) spomínala prípad triády, kde jeden partner má ešte
+ďalšiu partnerku, ktorá ale nie je zapojená do tejto triády či iných vzťahov.
+„Lebo oni tak ako, ako to... ako dávajú informácie... tak oni síce hovoria, že oni sú
+trebárs ako manželia - jeden pár a oni sa dohodnú, že takto že budú mať taký voľnejší vzťah a
+že si to navzájom v podstate takto budú riešiť. A potom sú tam zase ďalší teda dvaja. Ale vlastne
+tento je spoločný... Hej a ja sa dozvedám o tomto a o tomto. A od toho jedného sa dozvedám,
+že teda on má samozrejme partnerku, hej, a tá je ale nezaangažovaná.“
+Participant 10 (Geštalt) zasa rozmýšľal nad usporiadaním, kde by boli zaangažované
+dva páry.
+„Čo ja viem, najjednoduchšiu, že 2 páry - 2 muži a 2 ženy.“
+Participanti a participantky si polyamoriu objektifikovali ako zložitejšie vzťahy menej
+často. Participant 1 (PCA) použil objektifikáciu „poprepletaných vzťahov“ a Participant 6
+(Psychodynamická p.) využil na popísanie takýchto vzťahov metaforu pavúka a pavučiny.
+„Lebo mal som klientov, ktorí mali polyamorný vzťah, ktorý mi pripomínal obraz skôr ako keby
+pavučiny. Že tam boli ľudia, ktorí boli vlastne nejako poprepájaní ako keby medzi sebou a v
+strede bol ten pavúk, čo bol môj klient, keď to takto nazvem. A vlastne on ako keby propagoval
+alebo do tých rôznych vzťahov, ktoré mal investoval. Potreboval rovno… rovnomerne s nimi
+narábať, čiže v tomto prípade by som to videl skôr ako taký… Systém vzťahov, v zmysle, že je
+tam viacej vzťahov, kde je potrebné rovnomerne nejako venovať pozornosť, energiu, záujem,
+čokoľvek.“
+
+66
+
+3.2.2 Prípadové štúdie a osobné príbehy
+Medzi objektifikácie tejto podtémy sme zaradili osobné príbehy participantov a
+participantiek, príklady známych osobností, príbehy z médií a prípadové štúdie klientov a
+klientok. Medzi príklady známych osobností, ktoré boli spomínané patria dve osobnosti z
+českého prostredia.
+Participant 4 (Systemická p.): „A bola jedna tá predstaviteľka toho filmu, ktorá hrala tú takú
+tú mladú slečnu čo zachytávala tých pedofilov… tá vlastne v svojom súkromnom živote o tom,
+ako rozprávala, uh, asi do všetkých médií vtedy, takže som si to vypočúvaval. Potom ako keby
+začalo to byť celkom repetitívne, tak už som to potom prestal počúvať. Ale odtiaľto teda to je tá
+posledná… ako aj kontakt s nejakým polyamorným svetom.“
+Participant 8 (Geštalt, psychodynamická p.): „No to ten bývalý český poslanec, ten minister
+David Rath, to sa aj medializovalo… Ja často chodím do Čiech učiť… ten mal manželku a cez
+ulicu… cez ulicu bývala jeho frajerka a on jednu noc spal tam a jednu tam… a to by asi
+zodpovedalo tomu.“
+Ostatné príbehy sme zoradili podľa typu trajektórií prechodu z monogamie do
+polyamorie, ktoré identifikovala v svojej práci Hnatkovičová (2022).
+Prvou takouto trajektóriou bola “Túžba polyamoriu realizovať”, kedy sa daným osobám
+nepodarilo tieto túžby dostať aj do reality.
+Participant 1: „A v druhom prípade… Sme sa asi po 3 sedeniach dostali k tomu, že manželka
+povedala mužovi, že keď chce byť polyamorný, kľudne môže byť, ale ona sa v tom prípade s ním
+rozvádza. Tak si ten pán našiel iného terapeuta. A na 4. sedenie už neprišli, respektíve prišla
+iba manželka. Keď mi volala, tak som ju primal k tomu, aby prišla aj osobne. Rozobrali sme to
+a porozprávala mi, že boli u nejakého iného muža terapeuta kdesi a že ona mala zlý pocit, lebo
+mala dojem, že ten terapeut ju nahovára k tomu, aby akceptovala manželove návrhy.“
+Druhou trajektóriou bol “Návrat do stavu monogamie/ bytie v stave single”, kedy sa po
+vyskúšaní polyamorie osoby vracajú buď do monogamných vzťahov alebo do stavu single,
+kedy už polyamoriu viac netúžia realizovať.
+
+67
+
+Participant 10 (Geštalt): A keď… neviem už presne aký bol ten príbeh. Že keď na to prišla, tak
+mu dala šancu, ale tak nevydržal a tak ďalej… Tak potom ho opustila aj s deťmi. A on sa začal
+s tým trápiť a začal skúmať rôzne formy spolužitia. Hovoril, že čo sa mi to deje… že sa nevie
+uspokojiť s tou jednou ženou. A začal skúmať tieto formy. A bolo to tak veľmi… Je to tak
+bestsellerovo napísané… že tak povrchne. Ale boli to fakt, že pekné veci aj o tom, že si skúsil
+založiť hárem lebo bol populárny. Že skúsil si vydržiavať viacero vzťahov. A že skúsil tieto
+polyamorné komunity. A že skúsil swingers party, hej… a vlastne, že hľadal. A cez to všetko, že
+vlastne všade narazil. Tak sa vrátil potom k tej žene. Že vlastne to malo taký akože pekný koniec.
+Povedal, že si chce vybrať byť monogamný“
+Participantka 11 (EMDR, Jungiánska p.): „A sú takí ktorí sa vrátili. Hm, že toto bol nejaký výlet
+a ich to tak vydesilo, že už to nechcú, nechcú skúšať.“
+Treťou trajektóriou bolo “Vybudovanie udržateľnej siete polyamorie”.
+Participantka 11 (EMDR, Jungiánska p.): „Potom sú takí, ktorí s tým nechcú prestať, ale majú
+s tým nejaké problémy ako to uchopiť. Takže v podstate potrebujú, ako keby... niektorí prídu,
+že si chcú len overiť, či konajú správne. Tak hľadajú, hľadajú ako keby takú podporu a
+odsúhlasenie zo strany terapeuta. A je to rôzne.“
+„Zdá sa, že sú spokojní. Oni to aj referujú. Alebo informujú ma o tom, že nebyť ich
+vlastných nejakých morálnych limitov alebo toho, že sú v tých vzťahoch zaangažovaní na jednej
+aj na druhej strane ďalší ľudia, ktorým nechcú ubližovať a sú tam deti väčšinou vo všetkých
+tých vzťahových väzbách tak... Toto keby toto keby ich neťažilo, tak by v tom pravdepodobne
+veselo pokračovali alebo tak hovorím veselo - akože spokojnejšie by s tým pokračovali.“
+Poslednou identifikovanou trajektóriou je “Zostávanie v hraničnom priestore (ohnisku
+hraničnosti) medzi”. V danom prípade klienti ostali hľadať, ktorý typ vzťahu je pre nich ten
+lepší.
+Participantka 11 (EMDR, Jungiánska p.): „Je to rôzne a musím povedať, že hm, u niektorých
+sa to vyvinulo tak, že tie vzťahy ukončili, ale rozpadlo sa im v podstate úplne všetko. Aj tie
+minulé, aj, aj tie aktuálne. A pokračujú ďalej v takom hľadaní. Nemajú to vôbec ešte nejak
+ukončené a dozreté.“
+
+68
+
+3.2.3 Imaginárne a hypotetické príbehy
+Participanti a participantky si často objektifikovali polyamoriu či iné nemonogamné
+vzťahy cez imaginárne príbehy. Tie pochádzali buď zo seriálov a filmov alebo sa jednalo o
+hypotetické príbehy.
+Medzi príkladmi z filmov a seriálov, ktoré pripomínali participantom polyamorné vzťahy bol
+jeden československý film a seriál a film z amerického prostredia.
+Participant 1 (PCA): „Tak tam tá turkova manželka mala zároveň vzťah ešte s nejakým iným
+mužom.“
+Participant 10 (Geštalt): „Taký seriál bol sci-fi, že Sense8. No mali taký obraz tam, že... že to
+bolo také ako keby ten vzťah medzi nimi. Oni to boli vlastne... ten obraz je, že to je jedna
+osobnosť vlastne rozdelená do 8-ich ľudí. Je to nový živočíšny druh akože... A že dvaja sa tam
+dali dokopy z nich, čo hovorili, že je to ale problém. Že to nejako prekračuje hranice medzi
+nimi... a nejak to… presne už si to nepamätám... skomplikovalo. Ale, že to bol taký obraz, že oni
+keď sa milovali, tak vlastne sa milovali všetci, hej? To bol taký silný obraz.“
+Participant 4 (Systemická p.): „Teraz som si vieš čo spomenul a mňa ten film veľmi ovplyvnil a
+to bolo v mojom mladom veku, je film uh… S Colinom Farrellom. Poznáš ho? Tak ten si
+počúvaj, ten si určite pozri. Neviem, či sa nevolal že Traja do páru.“
+Nakoľko veľká väčšina participantiek a participantov nemala skúsenosť s
+polyamornou klientelou, používali tak pri svojich ukotvovaniach polyamorie hypotetické
+príbehy. Niektorí si takýmto spôsobom ilustrovali možnú motiváciu k polyamorii.
+Participantka 12 (Psychodynamická p.): „Potom... Môžu byť aj nejaké veci, že napríklad ja
+neviem, že nezafunguje ten monogamný vzťah, že sa stane niečo, že trebárs ja neviem nevera
+partnera alebo dačo. Tiež to potom vlastne vtedy človek začne ako keby... alebo môže začať sa
+pýtať, hej, že či mu to takto vyhovuje... žil možno nejako a vlastne sa mu to ako keby otrasie ten
+systém a vtedy vlastne začne spochybňovať a možno hľadať nejaký iný spôsob.“
+Participantka 5 (PCA): „A potom by sme mohli počuť človeka, ktorý rozpráva, že vieš, že
+proste... Ja som rád trávil čas... Hotovo... vieš, že proste chcem byť s ním.“
+Participant 3 (PCA) takto hypoteticky premýšľal nad kvalitou a hĺbkou polyamorných
+vzťahov na svojom príklade.
+
+69
+
+„Ale ja… tak som sa dostal po tomto rozmýšľaní na túto hranicu, že… Že ak je to takto,
+že našiel som si a otvorím si ten svoj svet s tým jedným partnerom… lebo to neni len, dá sa
+povedať, to neviem, nejaké milovanie alebo tá romantika alebo to niečo a že už si tvoríme
+vlastný svet… Neviem si predstaviť, že som tvoril nejaký iný svet s niekým v takejto podobe teda
+aspoň.“
+Viacerí participanti a participantky takýmto spôsobom objektifikovali osobnostné črty
+polyamorných ľudí. Síce niektorí hovorili o rovnakej osobnostnej diverzite polyamorných ako
+aj monogamných ľudí, iní si predstavili konkrétne charakteristiky, ktoré by mohli polyamorní
+ľudia zdieľať. Polyamorných ľudí si predstavovali ako otvorenejších, dynamickejších,
+zvedavejších, aktívnejších, ochotnejších riskovať, vzrušivejších, ale aj ako neistejších,
+nezrelých, lenivých, či narcisticky alebo schizoidnejšie štrukturovaných.
+Participant 7 (KBT): „Že podľa mňa polyamorní ľudia sú rovnako osobnostne diverzitní ako
+monogamní ľudia.“
+Participantka 12 (Psychodynamická p.): „Hm, myslím si tá otvorenosť, tá otvorenosť asi... a
+hm. Lebo neviem si úplne... hej, skôr sa mi spája monogamia v podstate s tým, že nejaký...
+nejaké konzervatívne zmýšľanie, kde vlastne to ako keby... Ako sa to povie? Že to nespytujem.
+Proste že to, že to... nespochybňujem alebo že vlastne sa tomu už ani nevenujem, lebo takto to
+je dané a takto sme sa to učili a takto to majú všetci, takto to majú naši rodičia... Tak vlastne
+vôbec to ako keby neriešim, ale je to správne lebo to tak majú všetci. A ani to vlastne ako keby
+nespochybním. Ale potom určitá otvorenosť v tom, že môže to byť aj inak a môžem prijať aj iný
+spôsob alebo minimálne prijať, že niekto iný to môže mať inak ako ja. Že tam si myslím, že tam
+musí byť nejaká otvorenosť k tomuto.“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Hej, mohli by to byť ľudia, ktorí
+sú zvedaví, nie sú zviazaní nejakými normami, alebo... alebo tradíciami. Ktorí sú ochotní, byť
+otvorení a trochu riskovať.“
+Participant 3 (PCA): „Možno by som si vedel predstaviť hm... osoby a to keby som... zasa keď
+uvažujem, tak skôr by som povedal, že osoby môžu byť nejako v niečom možno neisté... možno
+skôr v niečom vyhýbavé... potrebujú mať teda možno nejaký odstup vo vzťahoch alebo uh...
+Chcú mať možnože viacej veci pod kontrolou... nechcú sa upínať na jeden vzťah... možno je to
+pre nich nejako ohrozujúce...“
+
+70
+
+Participantka 2 (PCA): „Že niekomu stačí sedieť polhodinu a rozmýšľať a iný koná a robí chyby,
+ale... ale podstata jeho je, že stále, že hýbe sa, že koná... naháňa dievčatá a naháňa ženy. Alebo
+ja neviem, že... že proste jeho život je tak dynamický, že... že potom asi aj sa to prejaví v jeho
+konaní... že bude to... nejako ľahšie sa dostane do takýchto… do takéhoto uvažovania. Lebo, že
+ho hýbe dynamika.“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „Asi poviem, že tá nervová sústava
+je taká viacej dráždivejšia u ľudí, ktorí... ktorí majú takéto starosti. Takže nezvládajú možno
+takú tú svoju, hm, schopnosť… Smerovať sa k takým... takým nejakým vzrušivejším a
+extrémnejším veciam. Čiže nejaké také... túžba po extrémnejších zážitkoch. A možno, možno by
+som povedala aj menej disciplinovanosti. A menej takého...Hm, neochota, neochota sa narobiť
+asi tak poviem. Že nemajú až takú pracovitosť vo výbave a skôr majú takú ľahkú výkonovosť...
+že ľahko, ľahko, ľahko im... Ľahko dosahovali úspechy a nenaučili sa k tomu mať primerané,
+ako keby k tomu úspechu, primeranú mieru procesu.“
+Participantka 2 (PCA): „Tá miera do toho ako... do akej miery sa človek pozná, miera
+osobnostnej zrelosti. A keď to tak ľudovo poviem, že keď je človek hlúpy, že nepozná svoje
+pohnútky, svoje motívy a nemá náhľad na seba samého. Plus teda tie hodnoty má pokrivené z
+rodiny, z výchovy... Tak to môže byť kombinácia, ktorá ho oprávňuje... teraz to s plnou
+vážnosťou hovorím... oprávňuje nejako konať. A nie, že by bol horší. On to proste... on má
+bazál, iné východisko na to, aby takto konal.“
+Participant 8 (Geštalt, psychodynamická p.): „ale no, nezrelosť… taká nedospelosť alebo také
+proste no… neviem jak to povedať. Ale zas ten človek to… to zas nesúvisí s nejakým… ten človek
+môže byť v iných mnohých oblastiach…. Ja neviem čo... úspešný, činný, akčný a tak ďalej, no…
+to s rozumom nesúhlasí, nie… teda nesúvisí. Neviem, asi…“
+Participantka 11 (EMDR, Jungiánska p.): „Že tá pracovitosť alebo to... nie sú takí ochotní.
+Možno, možno to teraz vyznie zvláštne, ale badám tam určitú lenivosť vo výbave, neochotu sa
+narobiť. Majú radi ľahšie riešenia. Alebo v podstate niečo čo im rýchlo bude fungovať.“
+Participant 6 (Psychoanalýza): „Viete, že keď si predstavíte viac narcistickí alebo nejak
+schizoidnejšie štruktúrovaní ľudia, ktorí sú odtiahnutí možno od tej blízkosti od ľudí, tak im
+vyhovuje, keď sú v takom nejakom svojom uzavretom, ale vedia byť zároveň aj v spojení. No a
+možno, aby to bolo plnšie nasycujúce, tak bude lepšie, ak bude mať viacej takýchto ľudí a im je
+to takto prirodzenejšie.“
+
+71
+
+3.2.4 Príklady z iných kultúr a historických období
+Príklady z iných kultúr a historických období boli často využívané pri rozmýšľaní nad
+prirodzenosťou či kultúrnou podmienenosťou a prevalenciou polyamorie a nemonogamie,
+spájali sa tak s Kultúrnym a historickým a Biologickým a sociálnym ukotvovaním. Ako
+príklady participanti a participantky uviedli vzťahy v pravekých tlupách, v starovekom Grécku,
+u veľmožov vo feudálnej Európe, u hippies v 60. a 70. rokoch, u domorodých kmeňov v
+Amazonskom pralese, u Mormonov, či v škandinávskych komunitách.
+Participant 10 (Geštalt): „Podľa mňa tie tlupy majú rovnaké, čo teraz sme tu pár tisíc rokov
+možno v tom. Ale, že tie tlupy boli… čo ja viem, možno že aj lepšie. Možno to bolo bližšie k
+polyamorii.“
+Participant 7 (KBT): „Teraz ako prvé napadá mi, že… že Grécko staroveké, kde to proste, že
+bolo... bolo aj také akoby homoerotika medzi tými akoby že školiteľmi staršími a synmi nejakých
+ich priateľov. A ale zároveň trebárs v podstate aj vo feudálnej Európe a tak ďalej, keď boli
+všelijakí akože uh… veľmoži, tak trebárs mali aj viaceré akoby, že ženy a to sa akoby, že nejako
+tolerovalo tým mužom v moci, pretože si to proste akoby že mohli uh, dovoliť aj keď sa to akože
+zároveň odsudzovalo a zároveň oni akoby, že mali to privilégium.“
+Participant 1 (PCA): „Boli 70., koniec 60.- tych rokov, keď už tam v tej Amerike si takýmto
+niečím experimentovali. Hipisáci s tým začali.“
+„Čítal som raz niekde článok o nejakom takom uh... Výskume nejakých domorodých
+kmeňov kdesi v Amazonskom pralese. A opísal to tam ten autor, že sa to pokúšal zistiť, že ktoré
+deti majú ktorých rodičov, že ktorí ľudia tam majú ktoré deti... Pretože oni žili všetci pokope a
+spávali v jednom veľkom dome uprostred dediny. A nebolo celkom jasné, že ktoré dieťa je čie.“
+Participant 8 (Geštalt, psychodynamická p.): „Mormoni majú viacej žien... a niekde žijú asi také
+komunity... Tak je to o inom. Ja neviem.“
+„No, to niekedy sa hovorilo, že tieto severské krajiny škandinávske, že tam bol taký ten voľný...
+Alebo neviem, či je to to isté, ale tam bol taký voľnejší prístup k tomu no… ale pre deti to nie je
+dobré. No teda 4 mamičky tam behajú a 5 tatíčkov a to neni podľa mňa dobré.“
+Častým príkladom boli polygamné vzťahy v arabských krajinách, či niekedy konkrétnejšie
+háremy u sultánov.
+
+72
+
+Participant 8 (Geštalt, psychodynamická p.): „to je jak háremy boli, nie, kedysi… alebo sú
+tam… V tých arabských krajinách je to normálne, že ten chlap má veľa žien, takže to je potom
+také niečo, nie?“
+„To je jak ten arabský ten sultán tam niekde, nie? Že tam to po tom háreme sa prechádza
+a vidí tie všetky kočky tam. To môže byť… čo ja viem… že to môže byť také, nie? Že ja som ten,
+uh kráľ, ktorý tu má celý hárem.“
+Participantka 13 (Psychodynamická p., POP, systemická p.): „ale keď som bola v arabských...
+v arabskej krajine, tak mi pripadalo veľmi zaujímavé a zvláštne, keď som navštívila ženskú časť
+domu a videla som tam hŕbu detí a niekoľko žien, ktoré fungovali spoločne. Čo teda nebola
+polyamoria, ale bola to polygamia.“
+
+4 Diskusia
+Táto časť má za cieľ zhrnúť zistenia, definovať vzťahy medzi témami, podtémami a
+cieľmi výskumu a poskytnúť interpretačný rámec na pochopenie širších dôsledkov štúdie.
+Diskusia výsledkov
+Cieľom našej práce bolo preskúmať sociálne reprezentácie polyamorie v procese
+ukotvovania a objektifikácie u psychoterapeutov a psychoterapeutiek na Slovensku. Výskum
+sme uskutočnili pomocou kvalitatívneho prístupu, pričom sme vykonali pološtruktúrované
+rozhovory s 13 účastníkmi a účastníčkami. Prepisy týchto rozhovorov sme následne analyzovali
+tematickou analýzou, ktorá nám umožnila identifikovať hlavné témy a podtémy poskytujúce
+odpovede na našu výskumnú otázku.
+V rámci skúmania ukotvenia polyamorie sa nám podarilo identifikovať 5 hlavných tém
+a 19 podtém. Participanti a participantky si najčastejšie ukotvovali polyamoriu cez
+Charakteristiku a kategorizáciu polyamorie, Hodnotové ukotvenia, Motivácie pre polyamoriu,
+Kontextuálne ukotvenia a Výzvy a problémy polyamorie. Tým sme tiež overili nosnosť
+teoretického uchopenia nového fenoménu konsenzuálnej nemonogamie v podobe polyamorie
+kľúčovými nástrojmi vytvárania sociálnych reprezentácií – ukotvovaním nového fenoménu do
+
+73
+
+existujúceho systému poznania a identifikovaním rôznych figuratívnych podôb nového
+fenoménu – jeho objektifikácií v reálnom svete.
+Pri objektifikáciách sme identifikovali 4 hlavné témy a to Metaforické a vizuálne,
+Prípadové štúdie a osobné príbehy, Imaginárne príbehy a Príklady z iných kultúr a historických
+období.
+Ukotvenia a objektifikácie boli často navzájom prepojené, kedy participanti a
+participantky ilustrovali svoje ukotvenia konkrétnymi príkladmi alebo si na základe im
+známych príbehov polyamorných ľudí ukotvovali polyamoriu.
+Psychoterapeuti a psychoterapeutky polyamoriu charakterizovali buď cez emóciu lásky
+či zaľúbenia alebo cez prax vzťahu k viacerým osobám. Počet osôb bol definovaný viac ako
+dvoma ľuďmi. Polyamorný vzťah bol tak najčastejšie objektifikovaný ako V-vzťah alebo triáda,
+čo niekedy ilustrovali aj cez imaginatívne alebo reálne príbehy. Často si predstavovali, že
+polyamoria vznikne otvorením sa dyády alebo vstupom jednej osoby do už existujúcej dyády.
+To naznačuje ich silné mononormatívne zmýšľanie. Participanti, ktorí polyamoriu
+objektifikovali ako komplikovanejší vzťah, mali väčšinou takéto skúsenosti od svojich
+polyamorných klientov a klientok. Konsenzualita
+
+týchto vzťahov bola pri definovaní
+
+spomenutá iba málokedy, čo hovorí iba o základnom porozumení polyamorie (Rubel &
+Burleigh, 2018). Pri hlbšej snahe porozumieť vzťahom v polyamorii sa často dostávali k
+premýšľaniu nad nevyhnutnosťou hierarchie a vyššej povrchnosti vzťahov pri viacerých
+ľuďoch. Významným spôsobom, ktorý pomáhal participantom a participantkám uchopiť
+koncept polyamorie, bolo jej porovnávanie s inými im dobre známymi typmi vzťahov.
+Najčastejšie to boli monogamné vzťahy, ktoré vnímali voči polyamorii buď kontrastne alebo
+podobne. Prirovnanie k vzťahom v rodine, k deťom či ku klientom/kám na terapii im pomáhalo
+uchopiť možnosť viacerých hlbokých vzťahov. Niekedy si participanti a participantky
+ukotvovali polyamoriu aj na základe hodnotiacich rámcov. Tie boli pri viacerých participantoch
+a participantkách negatívne a prejavovali sa cez hodnotenie nezrelosti týchto vzťahov. Len
+jeden terapeut vnímal polyamorné vzťahy ako zrelšie či vyššie formy vzťahov. Väčšina
+vyjadrovala neutrálne hodnotenie, kedy považovala polyamorné vzťahy za rovnako hodnotné
+ako tie monogamné.
+
+74
+
+Polyamoria bola najčastejšie ukotvovaná do hodnôt konsenzu, otvorenosti a slobody,
+lásky a vzťahov a iných hodnôt ako naturálnosť, liberalizmus, tolerancia, sebarealizácia a sebaocenenie. Pri zamýšľaní sa nad hodnotami často používali objektifikácie osobností
+polyamorných ľudí. Dve terapeutky považovali pri polyamorných ľuďoch za významné aj to,
+že musia mať podľa nich aj odvahu žiť tieto hodnoty. To naznačuje spojenie hodnotových
+rámcov s motiváciami pre polyamoriu.
+Veľmi často spomínanou motiváciou medzi psychoterapeutmi a psychoterapeutkami
+bolo napĺňanie inak neuspokojených potrieb. To bolo chápané najmä v súvislosti s
+nedostatočnosťou monogamie pre ich naplnenie. Toto ukotvovanie sa vyskytlo u všetkých
+terapeutov a terapeutiek nezávisle na ich psychoterapeutických výcvikoch. Aj keď si väčšina
+participantov a participantiek myslela, že je možné si dostatočne naplniť potreby v monogamii,
+uvažovala tak nad prípadmi, kedy by to možné nebolo a rozšírenie monogamie na polyamoriu
+by bolo vnímané ako jediné možné riešenie. Pár terapeutov vyjadrilo pochybnosti nad
+možnosťou dostatočného naplnenia potrieb v monogamii a polyamoriu tak vnímali ako logické
+riešenie. Toto uvažovanie sa často dotýkalo jej biologického a sociálneho kontextuálneho
+ukotvenia. Dve terapeutky identifikovali ako najvýznamnejšie potreby, ktoré by si mohli
+polyamorní ľudia uspokojovať, potrebu blízkosti, vzájomnosti a ocenenia. Druhou veľmi často
+spomínanou motiváciou boli psychodynamické faktory. Medzi ne patrili najmä negatívne
+psychické procesy ako reakcia na nespracovanú traumu, strach, nespokojnosť, sklamanie či
+stratu. Niektorí psychoterapeuti a psychoterapeutky považovali za možný psychodynamický
+faktor neistú vzťahovú väzbu a to najmä vyhýbavú a dezorganizovanú. Častejšiu tendenciu
+ukotvovania motivácií v psychodynamických faktoroch sme zaznamenali u psychoterapeutov
+a psychoterapeutiek s psychodynamickým, psychoanalytický a EMDR psychoterapeutickým
+výcvikom. Táto tendencia sa nám javila aj v súvislosti s vyšším vekom participantov a
+participantiek. Treťou najčastejšie spomínanou motiváciou bola túžba po rozmanitosti a
+experimentovanie. Sem sa zaraďovali najmä sexuálne a romantické túžby a túžba objavovať.
+Niektorí terapeuti hovorili o tom, ako tieto túžby nie sú v polyamorii
+
+zastavované a
+
+obmedzované. Ďalším častým ukotvovaním motivácií pre polyamoriu boli interpersonálne a
+sociálne faktory. Polyamoria tu bola vnímaná najmä ako spôsob riešenia vzťahových
+problémov, ktorý bol podľa niektorých iniciovaný iba jedným z partnerov. Patrili sem aj vplyv
+prostredia, médií, vzdelávania, či politických hodnôt. Dvaja participanti uvažovali aj nad
+
+75
+
+výhodou z hľadiska výchovy detí. Pomerne menšia časť participantov a participantiek
+spomínala ako motiváciu osobné naplnenie, rast a formovanie identity. Sem patrili pozitívne
+pocity, ale aj prirodzene polyamorné nastavenie človeka. Tri terapeutky a jeden terapeut
+spomenuli aj túžbu po slobode a autonómii, ktorá bola vnímaná najmä v reakcii na rigidnú
+výchovu či rôzne normy v spoločnosti. Keď porovnáme naše identifikované podtémy motivácií
+a ich obsahy, vidíme podobnosť piatimi motiváciami bodľa Hnatkovičovej a Bianchiho (2022),
+pričom u nás sa nevyskytovali: Potreba patriť do komunity, Explorácia menšinových identít a
+vývin identity v zmysle návratu do monogamie. Pri porovnaní s Wood a kol. (2021) vidíme
+zhodu v štyroch motiváciách, pričom u nás sa nevyskytla Vzťahovosť a Pragmatizmus. A
+nakoniec, porovnaním našich motivácií s tými od Tatum a kol. (2024), vidíme, že u nás sa
+nevyskytol Prechod z inej formy KNM. To ukazuje vcelku komplexné pochopenie motivácií
+pre polyamoriu u psychoterapeutov a psychoterapeutiek, aj napriek ich často chýbajúcim
+skúsenostiam s polyamornou klientelou. Participanti a participantky kládli ale najväčší dôraz
+na napĺňanie potrieb a psychodynamické faktory a menej uvádzali podľa výskumov významné
+motivácie naplnenia, rastu, vývinu identity a túžby po slobode a autonómii. To môže byť
+ovplyvnené ich psychoterapeutickými výcvikmi ale aj silnejšou tendenciou k patologizácii.
+Pri rozmýšľaní nad biologickou podstatou monogamie verzus jej sociálnou
+konštrukciou sa viacerí participanti prikláňali k jej sociálnej podmienenosti. Toto kontextuálne
+ukotvenie veľmi úzko súviselo s kultúrnym a historickým ukotvením, nakoľko si pri rozmýšľaní
+nad akceptáciou a prevalenciou nemonogamných vzťahov v iných kultúrach a historických
+obdobiach uvedomili sociálnu podmienenosť monogamie a polyamorie. Pri tomto premýšľaní
+participanti a participantky často používali konkrétne príklady ako polygamia v arabských
+moslimských krajinách či vzťahy u hippies. Niektoré participantky vyjadrovali presvedčenie o
+väčšej otvorenosti iných európskych krajín, ako napriklad Česka, voči polyamorii. Vplyv na
+nižšiu akceptáciu polyamorie na Slovensku podľa viacerých má aj katolícka viera. Spôsobom
+rozmýšľania nad prirodzenosťou, akceptáciou a prevalenciou polyamorie v spoločnosti bolo aj
+jej porovnávanie so sexuálnymi menšinami a to najmä s homosexualitou. Participanti a
+participantky si polyamoriu ukotvovali aj v životných fázach a vývinových obdobiach.
+Najčastejšie sa podľa nich vyskytuje u mladšej generácie do 40 rokov, na čo môže mať vplyv
+väčšia otvorenosť spoločnosti a aj prichádzajúci trend. Dvaja participanti so skúsenosťou s
+
+76
+
+polyamornou klientelou uviedli, že zaznamenali tento trend od pandémie kovidu. U tínedžerov
+si polyamoriu spájali skôr s hľadaním sa a vývinom ich identity.
+Posledným spôsobom, akým si participanti a participantky ukotvovali polyamoriu, bolo
+do výziev a problémov s ňou spojenými. Tu si uvedomovali najmä problémy so spoločenským
+prijatím a s tým spojenou stigmatizáciou na Slovensku. Hovorili o tlaku, aký naša
+mononormatívna spoločnosť na nich vyvíja, kvôli čomu musia často ostať tieto vzťahy skryté.
+Nakoľko väčšina psychoterapeutov a psychoterapeutiek nemala skúsenosť s polyamornými
+ľuďmi, nedostávali sa tak často k úvahám o problémoch v týchto vzťahoch. Niektorí spomenuli
+žiarlivosť a polyamorné vzťahy ako záťaž pre deti. Jedna terapeutka na základe kazuistík
+svojich klientov a klientok spomínala problémy prameniace z nesúladu predstáv o polyamorii
+a jej realite. Tvrdila, že polyamorné vzťahy môžu byť príliš vyčerpávajúce a môžu spôsobovať
+tlak, stres až retraumatizáciu. To si vysvetľujeme jej zameraním na psychotraumatológiu, ale aj
+pravdepodobne väčším sklonom k patologizácii polyamorie.
+Okrem už spomínaných metaforických a vizuálnych objektifikácií vzťahových
+usporiadaní si participanti a participantky objektifikovali polyamoriu buď cez skutočné alebo
+imaginárne príbehy. Nakoľko väčšina terapeutov a terapeutiek nemala skúsenosť s
+polyamornými ľuďmi, častejšie boli imaginárne a hypotetické objektifikácie. Ilustrovali nimi
+najmä svoje premýšľania nad charakteristikou polyamorie a motiváciami ľudí k polyamorii.
+Niektorí si objektifikovali polyamorných ľudí cez ich osobnostné črty. Videli ich ako
+otvorenejších, dynamickejších, zvedavejších, aktívnejších či ochotnejších riskovať. Viacerí si
+ich ale predstavovali ako nezrelé či narcistické osobnosti.
+Príbehy prípadových štúdií a osobných príbehov z reálneho života sme boli schopní
+kategorizovať podľa trajektórií prechodu z monogamie do polyamorie podľa Hnatkovičovej
+(2022), čím sme overili ich relevantnosť aj pre náš výskum. Tieto trajektórie boli Túžba
+polyamoriu realizovať, Návrat do stavu monogamie/ bytie v stave single, Vybudovanie
+udržateľnej siete polyamorie a Zostávanie v hraničnom priestore (ohnisku hraničnosti) medzi,
+pričom prvá trajektória bola najčastejšia.
+Vo všetkých druhoch objektifikácií sa vyskytli aj objektifikácie iných typov, či už
+konsenzuálnej alebo nekonsenzuálnej nemonogamie, z čoho usudzujeme nejednoznačné
+pochopenie polyamorie aj napriek našej dodanej definícii. To sa ukazovalo pri niekorých
+participantoch a participantkách aj so zamieňaním s pojmami “polymorfné” či “polyamorfné”
+
+77
+
+vzťahy. Na základe väčšiemu sklonu k ukotvovaniu motivácií pre polyamoriu do
+psychodynamických faktorov, obsahu týchto faktorov a osobnostných charakteristík
+polyamorných ľudí predpokladáme sklon k patologizácii polyamorie u psychoterapeutiek a
+psychoterapeutov.
+Pri porovnaní našich reprezentácií s tými, ktoré vyskúmali Katarzyna Grunt‑Mejerová
+a Weronika Chańska (2020) vidíme viaceré zhody. Nimi identifikovaný Profil polyamornej
+osoby sa zhoduje s niekoľkými osobnostnými črtami polyamorných ľudí v imaginatívnych
+objektifikáciách a časťou psychodynamických faktorov ako sebastrednosť, narcizmus a
+vyhýbanie sa nepohodliu, emocionálna zrelosťou či naopak nezrelosťou. Motivácie
+nespokojnosti s monogamiou a Napĺňanie potrieb sa zhodujú s nami identifikovanou podtémou
+Napĺňanie potrieb. Zvedavosť a túžba po neustálom vzrušení sa podobá nami identifikovanej
+podtéme Túžba po rozmanitosti a experimentovanie. A motivácia Dôsledok vplyvu
+spoločenských tlakov a masovej kultúry by sa mohla zaradiť pod nami identifikované
+Interpersonálne a sociálne faktory. Niektorí naši participanti a participantky tiež uvádzali
+korene problémov polyamorných ľudí v problematických detských skúsenostiach alebo
+neistých vzťahových štýloch, či strachu z intimity, no nikto nenavrhoval monogamiu ako
+riešenie. Viacerí terapeuti a terapeutky tiež videli monogamiu ako ideál vzťahu, no napriek
+tomu sa snažili o pochopenie polyamorie, polyamorných ľudí a ich motivácií. Prirodzenosť
+monogamie zastávalo iba zopár ľudí a väčšina o nej minimálne polemizovala. Síce sa u našich
+participantov vyskytli negatívne hodnotenia polyamorie, väčšina ju vnímala skôr neutrálne. Z
+tohto porovnania môžeme vidieť veľké podobnosti v tom, ako je vnímaná polyamoria u
+odborníkov a odborníčok na psychológiu v Poľsku a na Slovensku, no neutrálnejšie hodnotenia
+naznačujú o niečo väčšiu otvorenosť slovenského prostredia.
+Prínos výskumu
+Náš výskum objasňuje, ako je polyamoria ako nový sociálny fenomén ukotvovaná a
+objektifikovaná psychoterapeutmi a psychoterapeutkami na Slovensku. Identifikované témy a
+podtémy poskytujú cenný rámec pre ďalšie štúdium a diskusiu o reprezentáciách polyamorie v
+našom geografickom a kultúrnom kontexte.
+
+78
+
+Výsledky tiež prispievajú k hlbšiemu porozumeniu toho, ako terapeuti vnímajú a
+interpretujú polyamoriu, čo môže zlepšiť terapeutický prístup a podporu pre polyamorných
+klientov na Slovensku. Naše zistenia môžu zvýšiť povedomie a citlivosť psychoterapeutov k
+rôznym formám vzťahov, čo môže viesť k lepšej kvalite poskytovaných služieb a väčšej empatii
+voči polyamornej klientele. Viacerí participanti a participantky prejavili záujem o účasť v
+našom výskume kvôli nedostatku odborných informácií o polyamorii v slovenskom prostredí.
+Predpokladáme teda, že vzdelávanie o polyamorii a iných netradičných formách vzťahov by
+boli vítaním obohatením psychologických a psychoterapeutických kurzov a výcvikov.
+Výskum odhalil aj silné mononormatívne nastavenie medzi terapeutmi, čo poukazuje na
+potrebu vzdelávania a zvyšovania povedomia o nemonogamných vzťahoch v terapeutickej
+praxi a príprave. Zároveň väčšina terapeutov hodnotila polyamoriu neutrálne, čo naznačuje
+otvorenosť a potenciál pre inkluzívnejší prístup v terapii.
+Naše zistenia prispievajú k zvyšovaniu spoločenskej akceptácie polyamorie tým, že túto
+formu vzťahov normalizujú a destigmatizujú. Širšie porozumenie a akceptácia v odborných
+kruhoch môžu pozitívne ovplyvniť celkové vnímanie polyamorie v spoločnosti.
+Výskum poskytuje konkrétne empirické údaje, ktoré môžu slúžiť ako základ pre
+odborné diskusie a ďalšie akademické štúdie o polyamorii. Podporuje tvorbu nových teórií a
+hypotéz v oblasti psychoterapie a sociálnej psychológie, čím prispieva k rozvoju týchto
+disciplín.
+Limity výskumu
+Naša práca mala niekoľko obmedzení, ktoré je potrebné zohľadniť pri interpretácii
+výsledkov.
+Vo vzorke neboli rovnomerne zastúpené všetky psychoterapeutické školy, nakoľko sme
+mali viacerých psychoterapeutov a psychoterapeutky s PCA výcvikom a tiež s
+psychodynamickým výcvikom, no z psychoanalytickej školy a KBT školy sme mali iba po
+jednom participantovi. Taktiež nám chýbalo zastúpenie terapeutov a terapeutiek s
+procesorientovaným výcvikom, výcvikom v existenciálnej analýze a logoterapii a katatýmnoimaginatívnej psychoterapii. Tento nerovnomerný rozptyl a nedostatočne saturovaná vzorka
+mohla ovplyvniť rozmanitosť perspektív a zistenia, ktoré sme získali. Aj kvôli tomuto
+
+79
+
+nerovnomernému rozptylu sa nám nepodarilo realizovať komplexnejšiu analýzu rozdielov v
+ukotveniach a objektifikáciách na základe rôznych psychoterapeutických výcvikov.
+Rozhovory mali rôznu dĺžku, pričom niekedy sa líšili až o hodinu, čo mohlo ovplyvniť
+hĺbku získaných informácií. V niektorých prípadoch sa nám kvôli časovým možnostiam a
+nedostatočne vytvorenej dôvernej atmosfére, nepodarilo ísť do dostatočnej hĺbky, čo mohlo
+mať vplyv na detailnosť a komplexnosť získaných dát.
+Ako výskumníci sme mohli byť ovplyvnení vlastnými predpokladmi a interpretáciami,
+čo mohlo viesť k subjektivite pri analýze dát.
+Nakoľko je téma polyamorie na Slovensku málo známa, pravdepodobne sa do výskumu
+prihlásili najmä tí psychoterapeuti a psychoterapeutky, ktorí mali väčší záujem o tému
+polyamorie alebo už mali o nej nejaké vedomosti. To mohlo viesť k výberovej predpojatosti,
+ktorá ovplyvňuje reprezentatívnosť výsledkov.
+Súčasne tieto limity ponúkajú príležitosti pre ďalší výskum, ktorý by mohol rozšíriť a
+prehĺbiť naše poznatky o sociálnych reprezentáciách polyamorie.
+Odporúčania pre budúci výskum
+Na základe nášho výskumu odporúčame ďalší výskum, ktorý by obsahoval
+rôznorodejšie a rovnomernejšie zastúpenie psychoterapeutov a psychoterapeutiek z rôznych
+psychoterapeutických škôl. V tom prípade by sme navrhovali aj komplexnejšiu analýzu
+rozdielov
+
+v
+
+ukotveniach
+
+a
+
+objektifikáciách
+
+polyamorie
+
+podľa
+
+jednotlivých
+
+psychoterapeutických pozadí. Tento prístup by umožnil identifikovať, ktoré terapeutické školy
+vykazujú podobné profily a pochopiť dôvody týchto podobností alebo rozdielov.
+Konzistentnosť názorov a profesionálnych perspektív by sa zisťovala aj podľa korešpondencií
+ukotvení a objektifikácií. Pokiaľ by sa táto zhoda u nejakých participantov a participantok
+nezistila, identifikovali by sa faktory ovplyvňujúce tieto rozdiely. Zaujímavá by bola tiež
+analýza porovnania jednotlivých profilov (zastúpení ukotvení a objektifikácií) participantov a
+participantiek a tak zistenie nezávislých premenných vplývajúcich na rozdielnosť v sociálnych
+reprezentáciách.
+Okrem toho by bolo prínosné skúmať sociálne reprezentácie polyamorie u bežných ľudí,
+aby sa zistilo, ako sa vnímanie polyamorie medzi bežnou populáciou líši od toho medzi
+
+80
+
+odborníkmi a odborníčkami. Takýto výskum by mohol odhaliť demografické a sociokultúrne
+faktory, ktoré ovplyvňujú tieto reprezentácie, a poskytnúť širší kontext pre porozumenie
+polyamorie v spoločnosti.
+
+Záver
+Naša práca sa zamerala na preskúmanie sociálnych reprezentácií polyamorie v
+procesoch ukotvovania a objektifikácie medzi psychoterapeutmi a psychoterapeutkami na
+Slovensku, využívajúc kvalitatívny prístup a tematickú analýzu pološtruktúrovaných
+rozhovorov s 13 participantmi a participantkami. Výskum identifikoval kľúčové témy a
+podtémy ukotvení a objektifikácií, ktoré poskytujú rámec pre ďalšie štúdium a diskusiu o
+polyamorii v slovenskom kontexte.
+V rámci ukotvovania polyamorie sme identifikovali päť hlavných tém a ich 19
+podtém, ktoré boli vzájomne rôzne prepojené. Hlavnými témami ukotvení boli:
+Charakteristika a kategorizácia polyamorie, Hodnotové ukotvenia, Motivácie pre polyamoriu,
+Kontextuálne ukotvenia a Výzvy a problémy polyamorie. Polyamoria bola charakterizovaná
+a kategorizovaná cez podtémy Charakteristika vzťahov, Hierarchia a hĺbka vzťahov,
+Porovnania s inými typmi vzťahov s Hodnotiace perspektívy. Podtémami hodnotových
+ukotvení boli Otvorenosť a sloboda, Láska a vzťahy a Iné hodnoty. Motivácie pre polyamoriu
+boli ukotvované cez podtémy Napĺňanie potrieb; Túžba po rozmanitosti a experimentovanie;
+Osobné naplnenie, identita a rast; Psychodynamické faktory; Túžba po slobode a autonómii a
+Interpersonálne a sociálne faktory. Kontextuálne ukotvenia obsahovali 4 podtémy a to
+Biologické a sociálne ukotvenia prepojené s Kultúrnymi a historickými ukotveniami,
+Sexuálne menšiny a Životné fázy a vývinové obdobia. Výzvy a problémy polyamorie
+obsahovali ukotvenia v Spoločenskom prijatí a stigmatizácii a Emocionálnych a
+psychologických ťažkostiach. Pri objektifikáciách polyamorie boli identifikované štyri hlavné
+témy: Metaforické a vizuálne objektifikácie, Prípadové štúdie a osobné príbehy, Imaginárne
+príbehy a Príklady z iných kultúr a historických období. Výsledky ukazujú, že ukotvenia a
+objektifikácie boli často prepojené, kedy buď ukotvenia polyamorie boli ilustrované
+konkrétnymi objektifikáciami alebo kedy participanti a participantky vytvárali svoje
+ukotvenia na základe konkrétnych príbehových objektifikácií.
+81
+
+Psychoterapeuti a psychoterapeutky charakterizovali polyamoriu hlavne cez emóciu
+lásky a prax vzťahov k viacerým osobám. Väčšina z nich vnímala polyamoriu neutrálne, no
+objavili sa aj názory ohľadom zrelosti alebo nezrelosti takýchto vzťahov. Medzi
+najdôležitejšie hodnoty polyamorie boli považované otvorenosť a sloboda. Participanti a
+participantky najčastejšie ukotvovali motivácie k polyamorii do napĺňania inak
+neuspokojených potrieb,
+
+skôr negatívnych psychodynamických faktorov a túžby po
+
+rozmanitosti, charakterizovanej najmä sexuálnymi a romantickými pudmi. Väčšina
+polemizovala nad sociálnym konštruovaním romantických vzťahov a uvedomovala si
+kultúrne a historické rozdiely v akceptácii nemonogamných vzťahov v spoločnosti. S tým
+súviselo aj vnímanie
+
+problematického prijatia polyamorie v našej spoločnosti a jej
+
+stigmatizácie. Polyamoriu si najčastejšie objektifikovali ako vzťah trochu ľudí polyamorných
+ľudí vnímali ako otvorenejších a aktívnejších, ale aj ako nezrelých či narcistických. Nakoľko
+väčšina terapeutov a terapeutiek nemala skúsenosti s polyamornou klientelou, používala na
+objektifikáciu príbehov polyamorných ľudí hypotetické príbehy. Prípadové štúdie a osobné
+príbehy sme kategorizovali podľa Hnatkovičovej trajektórií prechodu z monogamie do
+polyamorie, pričom najčastejšia bola túžba polyamoriu realizovať. Vyskytli sa aj
+objektifikácie iných typov nemonogamie, čo naznačuje nejednoznačné pochopenie
+polyamorie. Ukotvovanie motivácií do psychodynamických faktorov naznačuje tendenciu
+terapeutov patologizovať polyamoriu.
+Výskum odhalil aj silné mononormatívne nastavenie a sklon k patologizácii
+polyamorie a plytšie poznatky o polyamorii, čo poukazuje na potrebu vzdelávania o
+nemonogamných vzťahoch v terapeutickej praxi. Väčšina terapeutov a terapeutiek hodnotila
+polyamoriu neutrálne, čo naznačuje otvorenosť a potenciál pre inkluzívnejší prístup v terapii.
+Identifikované témy a podtémy prispievajú k hlbšiemu porozumeniu vnímania
+polyamorie a poskytujú empirické údaje, ktoré môžu slúžiť ako základ pre odborné diskusie
+a ďalšie akademické štúdie o polyamorii. Naša práca prispieva k zvyšovaniu spoločenskej
+akceptácie polyamorie tým, že normalizuje a destigmatizuje túto formu vzťahov. Taktiež
+môže prispieť k zlepšeniu terapeutického prístupu a podpore pre polyamornú klientelu na
+Slovensku.
+
+82
+
+Literatúra
+Anapol, D. (2010). Polyamory in the 21st century: love and intimacy with multiple partners.
+Rowman & Littlefield.
+
+Babbie, E. R. (2013). The practice of social Research (13. vyd.). Wadsworth Cengage
+Learning.
+
+Balzarini, R. N., Campbell, L., Kohut, T., Holmes, B. M., Lehmiller, J. J., Harman, J. J., &
+Atkins, N. (2017). Perceptions of primary and secondary relationships in polyamory. Plos One,
+12(5), 1-20.
+
+Barker, M., & Langdridge, D. (2010). Whatever happened to non-monogamies? Critical
+reflections on recent research and theory. Sexualities, 13(6), 748–772.
+
+Brandon, Marianne(2016). Monogamy and Nonmonogamy: Evolutionary Considerations and
+Treatment Challenges. Sexual Medicine Reviews, 4(4), 343-352.
+
+Braun, V., & Clarke, V. (2022). Thematic analysis: A practical guide. SAGE.
+
+Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. Qualitative Research
+in
+
+Sport,
+
+Exercise
+
+and
+
+Health,
+
+11(4),
+
+589–597.
+
+https://doi.org/10.1080/2159676x.2019.1628806
+
+Braun, V., & Clarke, V. (2013). Successful qualitative research: A Practical Guide for
+Beginners. SAGE.
+
+Cardoso, D., Pascoal, P.M. & Maiochi, F.H. Defining Polyamory: A Thematic Analysis of Lay People’s Definitions. Arch Sex Behav, 50(6), 1239–1252 (2021)
+
+83
+
+Conley, T. D., Moors, A. C., Matsick, J. L., & Ziegler, A. (2013). The fewer the merrier?:
+Assessing stigma surrounding consensually non‐monogamous romantic relationships. Analyses
+of Social Issues and Public Policy, 13(1), 1-30.
+
+Conley, T. D., Matsick, J. L., Moors, A. C., & Ziegler, A. (2017). Investigation of Consensually
+Nonmonogamous Relationships. Perspectives on Psychological Science, 12(2), 205–232
+
+Conley, T. D., Ziegler, A., Moors, A. C., Matsick, J. L., & Valentine, B. (2012). A Critical
+Examination of Popular Assumptions About the Benefits and Outcomes of Monogamous
+Relationships. Personality and Social Psychology Review, 17(2), 124–141
+Codrington, R. & du Plooy, D.R. (2023) ‘It's a magnifying glass for your relationship’: a
+thematic analysis of motivations, benefits, and challenges in consensually non-monogamous
+relationships. Australian and New Zealand Journal of Family Therapy, 00, 1–18.
+https://doi.org/10.1002/anzf.1568
+Deri, J. H. (2011). Polyamory or polyagony? Jealousy in open relationships. Simon Fraser
+University
+
+Dorre, A., & Kinnier, R. T. (2006). The ethics of bias in counselor terminology. Counseling
+and Values, 51(1), 66–80. https://doi.org/10.1002/j.2161–007x.2006.tb00066.x
+Easton, D. & Hardy, J. W. (2017). Etická coura: Praktický průvodce polyamorií, otevřenými
+vztahy a dalšími svobodnými projevy sexu a lásky. Synergie Publishing SE.
+
+Elbaum, P. L. (1981). The dynamics, implications and treatment of extramarital sexual
+relationships for the family therapist. Journal of Marital and Family Therapy, 7(4), 489–495.
+https://doi.org/10.1111/j.1752–0606.1981.tb01404.x
+Fafejta, M. (2016). Sexualita a sexuální identita. Portál.
+Gabbard, G. O., & Rachal, F. (2012). Psychodynamic Psychotherapy: Theory and Practice.
+Encyclopedia of Human Behavior. Cambridge Core.
+84
+
+Gabbard, G. O., & Westen, D. (2003). Psychodynamic Psychiatry in Clinical Practice. American
+Psychiatric Publishing.
+
+Gavora, P. (2007). Sprievodca metodológiou kvalitatívneho výskumu. Univerzita Komenského
+Bratislava.
+
+Gray, P. B. (2013). Evolution and human sexual behavior. Harvard University Press.
+Grunt-Mejer, K., & Chańska, W. (2020). “How do they even know they love?” The image of
+polyamory in Polish expert discourse. Archives of Sexual Behavior, 49(8), 2829–2847.
+https://doi.org/10.1007/s10508-020-01787-8
+
+Haupert, M., Gesselman, A., Moors, A., Fisher, H., & Garcia, J. (2017). Prevalence of
+experiences with consensual nonmonogamous relationships: Findings from two national
+samples of single Americans. Journal of Sex and Marital Therapy, 43(5), 424–440.
+doi:10.1080/0092623X.2016.1178675
+Hendl, J. (2005). Kvalitativní výzkum: základní metody a aplikace (1. vyd.). Portál.
+Hnatkovičová, D., & Bianchi, G. (2022). Model of motivations for engaging in polyamorous
+relationships. Sexologies, 31(3), 184–194. https://doi.org/10.1016/j.sexol.2022.03.003
+Hnatkovičová, D. (2022). Identifikácia motívov a kontextov pôsobiacich pri vstupe do
+polyamorie [Dizertačná práca]. Univerzita Komenského.
+Höijer, B. (2010). Emotional anchoring and objectification in the media reporting on climate
+change.
+
+Public
+
+Understanding
+
+of
+
+Science,
+
+19(6),
+
+717–731.
+
+https://doi.org/10.1177/0963662509348863
+
+Johnson, A. L. (2013). Counseling the polyamorous client: Implications for competent practice.
+VISTAS Online, 50, 1–10.
+
+85
+
+Johnson, S. M., Giuliano, T. A., Herselman, J. R., & Hutzler, K. T. (2015). Development of a
+brief measure of attitudes towards polyamory. Psychology & Sexuality, 6(4), 325–339.
+https://doi.org/10.1080/19419899.2014.1001774
+
+Knapp, J. J. (1975). Some non–monogamous marriage styles and related attitudes and practices
+of
+
+marriage
+
+counselors.
+
+The
+
+Family
+
+Coordinator,
+
+24(4),
+
+505–514.
+
+https://doi.org/10.2307/583034
+
+Klesse, C. (2011). Notions of Love in Polyamory—Elements in a Discourse on Multiple
+Loving. Laboratorium: Russian Review of Social Research, 3(2), 4–25.
+
+Klesse, C. (2015). Polyamory. In P. Whelehan & A. Bolin (Eds.), The International
+Encyclopedia of Human Sexuality (1. vyd., s. 1–3). John Wiley & Sons.
+
+Lambert, M. J. (2013). The efficacy and effectiveness of psychotherapy. In M. J. Lambert (Ed.),
+Bergin and Garfield's handbook of psychotherapy and behavior change (6. vyd., s. 169–218).
+John Wiley & Sons.
+Levin, J. (2010). Gestalt therapy: Now and for Tomorrow. Gestalt Review, 14(2), 147–170.
+https://doi.org/10.5325/gestaltreview.14.2.0147
+Malterud, K., Siersma, V. D., & Guassora, A. D. (2016). Sample size in qualitative interview
+studies.
+
+Qualitative
+
+Health
+
+Research,
+
+26(13),
+
+1753–1760.
+
+https://doi.org/10.1177/1049732315617444
+Marková, I. (2007). Dialogičnost a sociální reprezentace: Dynamika Mysli. Academia.
+Miovský, M. (2006). Kvalitativní přístup a metody v psychologickém výzkumu. Grada
+Publishing.
+
+86
+
+Moors, A. C. (2017). Has the American public’s interest in information related to relationships
+beyond “The couple” increased over time? The Journal of Sex Research, 54(6), 677–684.
+doi:10.1080/00224499.2016.1178208
+
+Moscovici, S. (1984). The phenomenon of social representation. In R. Farr & S. Moscovici
+(Eds.), Social representations. Cambridge: Cambridge University Press.
+
+Norcross, J. C., & Lambert, M. J. (2011). Evidence–based therapy relationships. In J.C.
+Norcross (Ed.), Psychotherapy relationships that work: Evidence–based responsiveness (2.
+vyd., s. 3–21). Oxford University Press.
+Plichtová, J. (2002). Metódy sociálnej psychológie zblízka: kvalitatívne a kvantitatívne
+skúmanie sociálnych reprezentácií.
+Punch, K. F. (2008). Úspěšný návrh výzkumu. Praha: Portál.
+Rogers, C. R. (2020). On becoming a person: A therapist’s view of psychotherapy. Robinson.
+Rubel, A. N., & Bogaert, A. F. (2015). Consensual Nonmonogamy: Psychological Well-Being
+and Relationship Quality Correlate
+Rubel, A. N., & Burleigh, T. J. (2018). Counting polyamorists who count: Prevalence and
+definitions of an under-researched form of consensual nonmonogamy. Sexualities, 23(1–2), 3–
+27. https://doi.org/10.1177/1363460718779781
+Ryan, Ch., & Jetha, C. (2014). Na počátku byl sex: Kořeny moderní sexuality. Jak se dáváme
+dohromady a proč se rozcházíme. Argo.
+
+Silverman, D. (2020). Interpreting qualitative data (6. vyd.). Los Angeles: Sage.
+
+87
+
+Schechinger, H. A., Sakaluk, J. K., & Moors, A. C. (2018). Harmful and helpful therapy
+practices with consensually non–monogamous clients: Toward an inclusive framework.
+Journal
+
+of
+
+Consulting
+
+and
+
+Clinical
+
+Psychology,
+
+86(11),
+
+879–891.
+
+https://doi.org/10.1037/ccp0000349
+Schlippe, A. von, & Schweitzer, J. (2006). Systemická terapie a poradenství. Cesta.
+Sue, D. W., & Capodilupo, C. M. (2008). Racial, gender, and sexual orientation
+microaggressions: Implications for counseling and psychotherapy. Counseling the culturally
+diverse: Theory and practice, 5, 105–130.
+
+Tatum, A. K., Flicker, S. M., Peralta, I., & Kubicki, R. J. (2024). Initial motivations for
+engaging in polyamorous relationships. Archives of Sexual Behavior, 53(6), 629–644.
+https://doi.org/10.1007/s10508-023-02750-z
+
+Terry, G., Hayfield, N., Clarke, V., & Braun, V. (2017). Thematic Analysis. In Willig, C., &
+Rogers, W. S. (Eds.), The SAGE Handbook of Qualitative research in Psychology (2nd ed., pp.
+17–37). SAGE Publications Ltd.
+Vybíral, Z., & Roubal, J. (2010). Současná psychoterapie. Pórtal.
+Wood, J., De Santis, C., Desmarais, S., & Milhausen, R. (2021). Motivations for engaging in
+consensually non-monogamous relationships. Archives of Sexual Behavior, 50(5), 1253-1272.
+
+88
+
+

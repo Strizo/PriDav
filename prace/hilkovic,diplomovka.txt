@@ -1,0 +1,4149 @@
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FILOZOFICKÁ FAKULTA
+
+INDIVIDUÁLNA KONCEPCIA VYUČOVANIA
+UČITEĽOV DEJEPISU
+Diplomová práca
+
+2024
+Bc. Tomáš Hilkovič
+
+UNIVERZITA KOMENSKÉHO V BRATISLAVE
+FILOZOFICKÁ FAKULTA
+
+INDIVIDUÁLNA KONCEPCIA VYUČOVANIA
+UČITEĽOV DEJEPISU
+Diplomová práca
+
+Študijný program:
+
+Učiteľstvo geografie a histórie (Učiteľské štúdium, magisterský II. st.,
+
+denná
+Študijný odbor:
+
+forma)
+učiteľstvo
+
+a
+
+Školiace pracovisko: Katedra
+Školiteľ:
+
+PaedDr. Darina DVORSKÁ, PhD.
+
+Bratislava 2024
+Bc. Tomáš Hilkovič
+
+pedagogické
+
+vedy
+pedagogiky
+
+Zadanie
+
+ČESTNÉ VYHLÁSENIE
+Čestne vyhlasujem, že prácu na ŠVOK s názvom Individuálna koncepcia
+vyučovania učiteľov dejepisu som vypracoval samostatne, za pomoci uvedenej literatúry
+a poznatkov, ktoré mi boli poskytnuté v rámci konzultácií.
+V Sebedraží, dňa
+
+24. 6. 2024
+
+Bc. Tomáš Hilkovič
+
+POĎAKOVANIE
+Na tomto mieste vyslovujem úprimné poďakovanie v prvom rade môjmu
+Spasiteľovi Pánovi Ježišovi Kristovi, ktorý zomrel a vstal z mŕtvych, ktorému verím a
+ktorému vďačím za odpustenie všetkých hriechov, vedenie, múdrosť a každú pomoc.
+Okrem Neho moja vďačnosť patrí mojej školiteľke PaedDr. Darine Dvorskej, PhD. za jej
+ochotu a trpezlivú pomoc. V neposlednom rade moja vďaka patrí všetkým, ktorí mi
+pomohli jednorazovo, alebo viacnásobne, konkrétne Mgr. Daniela Hrnčiarová, PhD.,
+Mgr. Diana Demkaninová, PhD., Mgr. Marián Možucha, PhD., Doc. PaedDr. Viliam
+Kratochvíl, PhD., Prof. Ronald W. Evans Ed.D., prof. PhDr. Peter Gavora, CSc.
+
+ABSTRAKT
+HILKOVIČ, Tomáš. Individuálna koncepcia vyučovania učiteľov dejepisu
+[diplomová práca]. Univerzita Komenského v Bratislave. Filozofická fakulta. Katedra
+pedagogiky. Školiteľ: PaedDr. Darina DVORSKÁ, PhD.
+Cieľom tejto práce je identifikovať učiteľovu individuálnu koncepciu vyučovania
+vo všeobecnosti, aj so zameraním na učiteľov dejepisu a zhodnotiť vplyv didaktiky
+dejepisu a pedagogickej praxe počas vysokoškolského štúdia na budúcich učiteľov. Práca
+má teoreticko-empirický charakter. Práca je rozdelená na teoretickú časť a empirickú
+časť. Teoretická
+
+časť obsahuje dve kapitoly. Prvá kapitola vysvetľuje učiteľovu
+
+individuálnu koncepciu vyučovania, pričom definuje daný pojem, podrobne ho
+charakterizuje a formuluje novú definíciu. Druhá kapitola sumarizuje výskumy, ktoré
+priniesli dôležité pozorovania učiteľovej individuálnej koncepcie vyučovania. Empirická
+časť obsahuje dve kapitoly. Tretia kapitola opisuje metodológiu výskumu. Štvrtá kapitola
+prezentuje výsledky výskumu budúcich učiteľov dejepisu.
+Kľúčové slová: individuálna koncepcia vyučovania; učitelia dejepisu; epistemologické
+presvedčenia; budúci učitelia; postmodernistická koncepcia dejepisu.
+
+4
+
+ABSTRACT
+HILKOVIČ, Tomáš. Teacher’s individual concept of teaching history instruction
+[final thesis]. Comenius University in Bratislava. Faculty of Arts. Department of
+Pedagogical Science. Supervisor: PaedDr. Darina DVORSKÁ, PhD.
+The aim of this study is to identify the teacher's individual concept of teaching in
+general, also with a focus on history teachers, and to evaluate the impact of history
+didactics and pedagogical practice during university studies on prospective history
+teachers. The work has a theoretical-empirical character. The work is divided into
+a theoretical part and an empirical part. The theoretical part contains two chapters. The
+first chapter explains the teacher's individual concept of teaching, while defining the term,
+characterizing it in detail and formulating a new definition. The second chapter
+summarizes the research that brought important observations of the teacher's individual
+concept of teaching. The empirical part contains two chapters. The third chapter describes
+the research methodology. The fourth chapter presents the results of the research of
+prospective history teachers.
+Key words: individual concepcion of teaching; history techers; epistemological beliefs;
+prospective teachers; postmodern concept of history.
+
+5
+
+PREDHOVOR
+K písaniu tejto práce som sa nedostal plynule. Ako kresťan som sa rozhodol, že
+vo svojej diplomovej práci budem skúmať veriacich učiteľov. S týmto cieľom som
+oslovil moju školiteľku, s ktorou som vymodeloval základný rámec témy. Následne
+poučený zámerom zacieliť tému na jednu z mojich predmetových aprobácií (dejepis –
+geografia), som spolu s garantom štúdia tému zúžil a zacielil do jej súčasnej podoby.
+Počas písania teoretickej časti sa mi zapáčil zvolený pedagogický rámec, ktorým
+je učiteľova individuálna koncepcia vyučovania. Keď som spracúval výskumy
+o učiteľoch dejepisu, zapáčili sa mi tie. A keď som pracoval na metodológii, zapáčil sa
+mi zase zmiešaný výskum. Hoci som zažil etapy nadšenia, aj úplnej straty motivácie
+dostal som sa až sem a s potešením musím povedať, že ma zvolený výskum veľmi bavil
+a obohatil. Ale to nie je jediný dôvod, prečo ho predkladám.
+Hoci v priestore slovenského a českého pedagogického výskumu sa už dlho
+výskumníci venujú skúmaniu učiteľovej individuálnej koncepcie vyučovania, nenašiel
+som ani jednu štúdiu, ktorá by sa venovala individuálnej koncepcii vyučovania učiteľov
+dejepisu ani budúcich učiteľov dejepisu. Kvôli ich absencii som načrel do zahraničných
+výskumov, najmä tých publikovaných v anglickom jazyku. Ich štúdie mi dovolili
+oboznámiť sa s trendom v skúmaní koncepcie dejín so zameraním na prechod od
+modernistickej koncepcie k postmodernistickej. Táto problematika ma zaujala a preto
+som sa rozhodol vo svojej práci skúmať práve vnímanie onej epistemologickej
+perspektívy u našich budúcich učiteľov dejepisu. Zvolenou metódou zberu výskumných
+dát bol pološtruktúrovaný rozhovor tvorený neukončenými vetami rotterovského typu.
+
+6
+
+Obsah
+Úvod.................................................................................................................................. 9
+TEORETICKÁ ČASŤ .................................................................................................... 11
+1
+
+UČITEĽOVA INDIVIDUÁLNA KONCEPCIA VYUČOVANIA ....................... 11
+
+1.1
+
+Vymedzenie pojmu učiteľova individuálna koncepcia vyučovania ...................... 11
+
+1.2
+
+Utváranie učiteľovej individuálnej koncepcie vyučovania ................................... 14
+
+1.3
+
+Charakteristiky individuálnej koncepcie vyučovania ........................................... 16
+
+1.3.1 Vlastnosti individuálnej koncepcie vyučovania.................................................... 16
+1.3.2 Funkcie individuálnej koncepcie vyučovania ....................................................... 17
+1.3.3 Ďalšie charakteristiky individuálnej koncepcie vyučovania ................................. 18
+2
+
+SKÚMANIE UČITEĽOVEJ INDIVIDUÁLNEJ KONCEPCIE
+
+VYUČOVANIA
+
+........................................................................................................................................ 21
+2.1
+
+Výskumy individuálnej koncepcie vyučovania .................................................... 21
+
+2.2
+
+Metódy skúmania individuálnej koncepcie vyučovania učiteľa ........................... 24
+
+2.3
+
+Výskumy o IKV učiteľov dejepisu ....................................................................... 26
+
+2.3.1 Začiatky skúmania IKV učiteľov dejepisu ........................................................... 27
+2.3.2 Výskumy prvkov postmodernistickej koncepcie .................................................. 31
+2.3.3 Budúci učitelia a vplyv prípravy ........................................................................... 36
+2.3.4 Výskumy úspešnosti implementácie postmodernistickej koncepcie .................... 38
+2.4
+
+Epistemologické presvedčenia a postmodernistická koncepcia histórie .............. 40
+
+EMPIRICKÁ ČASŤ ....................................................................................................... 45
+3
+
+ZMIEŠANÝ DIZAJN REALIZOVANÉHO VÝSKUMU ................................... 45
+
+3.1
+
+Výskumný problém............................................................................................... 45
+
+3.2
+
+Ciele výskumu ...................................................................................................... 48
+
+3.3
+
+Výskumný postup ................................................................................................. 49
+
+3.4
+
+Výskumná vzorka ................................................................................................. 50
+
+3.4.1 Opis participantov ................................................................................................. 51
+7
+
+3.5
+
+Výskumná metóda ................................................................................................ 51
+
+3.6
+
+Vstup do terénu ..................................................................................................... 53
+
+3.7
+
+Postup pri analýze získaných dát .......................................................................... 54
+
+4
+
+INDIVIDUÁLNA KONCEPCIA VYUČOVANIA BUDÚCICH UČITEĽOV
+
+DEJEPISU: VÝSKUMNÉ ZISTENIA ........................................................................... 55
+4.1
+
+Individuálna koncepcia vyučovania budúcich učiteľov dejepisu ......................... 55
+
+4.1.1 Artuš ...................................................................................................................... 55
+4.1.2 Ludit ...................................................................................................................... 56
+4.1.3 Aténa ..................................................................................................................... 57
+4.1.4 Stela ...................................................................................................................... 58
+4.2
+
+Výskumné zistenia ................................................................................................ 59
+
+4.3
+
+Limity výskumu .................................................................................................... 65
+
+4.4
+
+Závery výskumu a odporúčania pre prax .............................................................. 66
+
+Záver ............................................................................................................................... 68
+Zoznam bibliografických odkazov ................................................................................. 71
+Zoznam ilustrácií a tabuliek ............................................................................................ 78
+Prílohy ............................................................................................................................. 79
+
+8
+
+ÚVOD
+Aby ľudstvo lepšie preniklo do vyučovacieho procesu a celistvejšie chápalo
+príčiny učiteľovho konania, začali sa v druhej polovici minulého storočia skúmať
+implicitné
+
+teórie
+
+učiteľov.
+
+Toto
+
+skúmanie
+
+prerástlo
+
+v dominantný
+
+výhonok
+
+pedagogického, bližšie pedeutologického výskumu, ktorý nie je neznámy ani našim
+domácim výskumníkom. Hoci učiteľova individuálna koncepcia vyučovania nie je
+neznáma vo všeobecnosti, absentujú výskumné zistenia učiteľov jednotlivých odborov,
+medzi nimi aj učiteliek a učiteľov dejepisu. Preto sme sa rozhodli podrobne preskúmať
+individuálnu koncepciu vyučovania učiteľov dejepisu, konkrétne budúcich učiteliek
+a učiteľov a to, ako na vývoj ich individuálnej koncepcie, respektíve prekoncepcie vplýva
+kurz didaktika dejepisu a súvislá hospitačná pedagogická prax.
+Vo svojej práci sa opierame o zahraničnú literatúru, ktorá prináša výskumy
+individuálnej koncepcie vyučovania učiteľov aktívnych, aj budúcich. Prvým v tomto
+snažení bol americký výskumník Evans (1989; 1990), ktorý vytvoril typológiu, deliacu
+učiteľov dejepisu do piatich kategórií. Nasledovali viaceré výskumy, v ktorých autori
+priniesli epistemologickú otázku histórie a dejepisu a skúmali príklon k modernistickej,
+respektíve
+
+postmodernistickej
+
+koncepcii
+
+dejepisu,
+
+napríklad
+
+Virtaová
+
+(2001)
+
+a McCrumová (2013). Neskôr sa do popredia dostalo skúmanie kľúčových kompetencií,
+súvisiacich s postmodernistickou koncepciou dejepisu, zastúpené autormi ako Voet a De
+Wever (2016), Gestsdóttirová s kolegyňami (2021), Patricio s kolegyňami (2022),
+Wilkeová s kolegami (2022). Okrem toho sa začalo skúmanie budúcich učiteľov dejepisu,
+ich individuálnych koncepcií a zmien, vďaka výskumníkom VanSledright a Reddyová
+(2014), Mamourová (2016), Nitsche a Waldisová (2022). Tieto a ďalšie výskumy
+predstavujú základ, na ktorom budujeme. Pri tvorení výskumného nástroja sme sa opierali
+najmä o Virtaovú (2001), ktorú sme však nemohli použiť bezo zbytku, pretože zvolila
+mierne odlišný formát a následne nepriniesla očakávanú hĺbkovú analýzu.
+Diplomová práca je rozdelená na teoretickú a empirickú časť, ktoré obsahujú
+zhodne po dve kapitoly.
+Prvá kapitola vo všeobecnosti opisuje učiteľovu individuálnu koncepciu
+vyučovania. V troch podkapitolách najprv vymedzuje zvolený pojem, následne opisuje
+jej postupné utváranie v živote učiteľa a nakoniec uvádza najdôležitejšie charakteristiky.
+
+9
+
+Druhá kapitola vo štyroch podkapitolách sumarizuje výskumy učiteľovej
+individuálnej koncepcie vyučovania, najprv vo všeobecnosti, ďalej ukazuje metódy,
+ktorými je možné učiteľovu individuálnu koncepciu vyučovania skúmať, potom opisuje
+výskumy zamerané na individuálnu koncepciu vyučovania aktívnych aj budúcich
+učiteľov dejepisu a nakoniec objasňuje epistemologickú otázku, modernistickú
+a postmodernistickú koncepciu histórie a dejepisu.
+Tretia kapitola približuje metodológiu nášho výskumu. V siedmich podkapitolách
+postupne definuje tému výskumu, objasňuje súčasný stav a vymedzenie skúmanej
+problematiky, definuje teoretickú orientáciu výskumu, sústavu použitých pojmov,
+formuluje výskumný problém a opisuje predpokladaný prínos celého výskumu. Ďalšie
+podkapitoly vymedzujú ciele výskumu, charakterizujú dizajn výskumu, identifikujú
+výskumnú vzorku, vysvetľujú zvolenú výskumnú metódu, opisujú vstup do terénu
+a objasňujú postup pri analyzovaní získaných výskumných dát.
+Posledná kapitola prezentuje výskumné zistenia a závery. Kapitola má štyri
+podkapitoly. Prvá podkapitola uvádza hrubé údaje, získané o participantoch výskumu.
+Druhá podkapitola zovšeobecňuje výskumné zistenia o budúcich učiteľoch dejepisu a
+uvádza ich do súvisu inými dostupnými výskumami, uvedenými v tejto práci. Tretia
+podkapitola uvádza najvýznamnejšie limity výskumu. Štvrtá podkapitola sumarizuje
+hlavné závery výskumu IKV budúcich učiteľov dejepisu a navrhuje odporúčania pre
+budúcu prax.
+
+10
+
+TEORETICKÁ ČASŤ
+
+1 UČITEĽOVA INDIVIDUÁLNA KONCEPCIA VYUČOVANIA
+Táto kapitola má za cieľ identifikovať pojem učiteľova1 individuálna koncepcia
+vyučovania (ďalej skrátene učiteľova IKV, alebo uIKV). Kapitola je rozdelená do troch
+podkapitol. Prvá podkapitola širšie definuje pojem učiteľova IKV. Druhá podkapitola
+vysvetľuje vznik a utváranie uIKV počas života toho-ktorého učiteľa. Tretia podkapitola
+charakterizuje uIKV a vysvetľuje jej dôležité vlastnosti a funkcie.
+
+1.1 Vymedzenie pojmu učiteľova individuálna koncepcia vyučovania
+Táto podkapitola definuje pojem uIKV. Jeho význam objasňuje najprv
+gramaticky,
+
+potom
+
+na
+
+základe
+
+pedagogicko-psychologickej
+
+teórie
+
+a nakoniec
+
+v porovnaní s príbuznými pojmami, skloňovanými v domácej i zahraničnej odbornej
+literatúre, ležiacimi na pomedzí psychológie a pedagogiky, skúmanými aj pedeutológiou
+a pedagogickou psychológiou. Ďalej podkapitola sumarizuje najčastejšie termíny
+a definície, používané doma i v zahraničí pre uIKV. Nakoniec z vyššie uvedených
+definícií abstrahuje terminologický rámec novej definície učiteľovej IKV.
+Koncepcia vo všeobecnosti je podľa akademického Slovníka cudzích slov (2005)
+„spôsob poňatia, chápania výkladu určitého javu“ (Slovníkový portál, [neznámy rok]).2
+Tým javom, ktorý je predmetom vytvárania koncepcií je v prípade uIKV vyučovanie.
+Prívlastok individuálna označuje jedinečnosť koncepcie každého jednotlivého učiteľa.
+Mareš (2013, s. 455) uvádza, že pojem uIKV predstavuje „komplex pedagogických názorov, pedagogických postojov a učiteľových argumentov, ktoré ho zdôvodňujú“.
+Podľa Dayana s kolegami je uIKV „súborom vytvorených a hlboko zakorenených
+predstáv (...), ktorý riadi vyučovacie počínanie učiteľa“ (Dayan et al., 2022, s. 150, cit. z:
+Khader, 2012). Učiteľova IKV tvorí integrálny aspekt učiteľovej osobnosti (Hamilton,
+2006). Gavora (1990, s. 215) uvádza, že „učiteľovu koncepciu vyučovania tvorí súbor
+
+V práci používam jazykový ekvivalent učiteľ (mužský rod) ako zaužívané súhrné pomenovanie mužov
+učiteľov a žien učiteliek.
+2
+Podľa Synonymického slovníka slovenčiny z roku 2004 sú synonymami slova koncepcia okrem iných:
+chápanie, poňatie a ponímanie (Slovníkový portál, [neznámy rok]).
+1
+
+11
+
+vedomostí, názorov, presvedčení a predstáv“. Na ich základe si „učiteľ pre seba
+interpretuje vyučovacie ciele, upravuje učivo, aplikuje metódy a pristupuje k žiakovi
+a ostatným osobám v pedagogickom procese“ (Gavora, 1990, s. 209).
+U učiteľa sa IKV podvedome vzťahuje na spôsob vnímania vlastného, aj žiackeho
+výkonu v oblastiach ako je inteligencia, osobnosť a úspech, a to aj napriek tomu, že
+jednotlivci o nej často nevedia (May et al., 2020). Učitelia si svoju IKV zväčša
+intencionálne neanalyzujú. Aj napriek tomu učiteľova IKV môže priamo ovplyvniť
+výsledky žiakov (Sabarwal et al., 2022), napríklad tým, ako je učiteľova koncepcia
+inteligencie spojená s druhom chvál, či iných výchovno-vzdelávacích prostriedkov, ktoré
+žiakom poskytuje (Jonsson a Beach, 2012).
+Aj napriek tomu, že poznáme zásadnú dôležitosť uIKV v pedagogickom procese,
+je pre výskumníkov náročné individuálne koncepcie učiteľov „presne zachytiť
+a podrobne preskúmať“ (Hamilton, 2006, s. 201). Je to spôsobené tým, že uIKV
+predstavuje
+
+myšlienkové
+
+konštrukty
+
+a popri
+
+znalostnom
+
+východisku
+
+zahŕňa
+
+nezanedbateľnú afektívnu a behaviorálnu (konatívnu) zložku. Učiteľova IKV je
+„neverbalizovaná a napriek svojej odolnosti voči premenám v čase sa situačne premieňa
+a býva ovplyvnená aktuálnym kontextom, či sociálnymi interakciami“ (Koubek, 2021, s.
+13).
+Učiteľova IKV nadobúda v prácach rôznych autorov (píšucich v rôznych
+jazykoch) rôzne termíny, ktoré sú si navzájom synonymami – termíny vykazujú
+zanedbateľné rozdiely – a teda reprezentujú jeden jediný pojem. Zoznam týchto termínov
+aj s autormi, ktorí ho používajú a ich vlastnými výkladmi (definíciami) obsahuje Tabuľka
+1. Nadradeným (obsahovo širším) termínom je učiteľovo (pedagogické) myslenie a
+uvažovanie (angl.: teacher thinking), poprípade učiteľove myšlienkové procesy (angl.:
+teachers' thought processes) (Chválová, 2018).
+Pre túto prácu sme z diapazónu spomenutých termínov zvolili práve uIKV preto,
+lebo v slovenskej odbornej literatúre má najdlhšie a najbohatšie zastúpenie. Okrem toho
+svojou gramatickou stavbou podľa nás najlepšie vystihuje danú problematiku – už
+samotným názvom prepája jedincovu individualitu, vnútorné uvažovanie a oblasť
+vyučovania.
+
+12
+
+Tabuľka 1: Tabuľka príbuzných termínov IKV, podľa: Gavoru (1990); Mareša (1996); Gavoru (2001);
+Yılmaza (2008); Mareša (2013); Chválovej (2018); Ostradického a Kostruba (2023)
+
+13
+
+Podľa vyššie uvedeného definujeme uIKV ako subjektívny implicitný faktor,
+ovplyvňujúci učiteľovo uvažovanie a konanie a tým celý vyučovací proces.
+Táto podkapitola definovala pojem učiteľova IKV. Prvou perspektívou bola
+gramatická, ďalšou pedagogicko-psychologická teória, ktorá poukázala na prítomnosť
+vnútorných, často podvedomých koncepcii učiteľov, ktoré majú zásadnú dôležitosť v ich
+pedagogickej činnosti. Potom sumarizovala najfrekventovanejšie termíny, ktorými rôzni
+autori nazývajú uIKV a uviedla dôvod, prečo z množiny termínov v tejto práci používame
+práve uIKV. Nakoniec sme z vyššie uvedených definícií vyabstrahovali terminologický
+rámec novej definície učiteľovej IKV.
+
+1.2 Utváranie učiteľovej individuálnej koncepcie vyučovania
+Táto podkapitola identifikuje výskumne podložený pravdepodobný postup, akým
+bežne vzniká a vyvíja sa učiteľova IKV. Stručne sme hľadali nejaký psychologický
+pohľad na individuálne koncepcie ľudí vo všeobecnosti, pretože na základe poznatkov
+o IKV učiteľov predpokladáme, že každý človek má svoju vlastnú bežne neuvedomovanú
+vnútornú koncepciu, hrajúcu kľúčovú úlohu pri jeho uvažovaní, rozhodovaní a konaní,
+no v hľadaní sme neboli úspešní a z toho dôvodu spomíname iba samotnú učiteľovu IKV.
+Vznik (utváranie sa) IKV toho-ktorého učiteľa je dlhodobým a veľmi
+komplexným procesom, pretože uIKV je previazaná s osobným životom učiteľa a je
+formovaná všetkými skúsenosťami a vplyvnými osobami v jeho živote a praxi (Gavora,
+2001).
+Z chronologickej perspektívy je možné utváranie uIKV rozdeliť do štyroch
+hlavných fáz: skúsenosti z roly žiaka, teoretické vedomosti nadobudnuté počas
+pregraduálnej prípravy, skúsenosti z vysokoškolskej pedagogickej praxe a skúsenosti
+z pôsobenia v role učiteľa (Mareš, 2013; Chválová, 2018).
+Prvým formatívnym vplyvom, sú skúsenosti budúceho učiteľa z vlastného
+pôsobenia v role žiaka. V tejto fáze jedinec aktívne, alebo pasívne pozoruje konanie
+svojich učiteľov (a iných vyučujúcich) a formuje si obraz pozostávajúci väčšinou
+z názorov (predsudkov) ako neučiť, ide teda prevažne o „negatívnu koncepciu“ (Mareš,
+1996, s. 14; 2013), ktorá ešte nie je hotovou koncepciou, ale iba prekoncepciou (Dayan
+et al., 2022; VanSledright a Reddy, 2014).
+Neskôr začína pregraduálnu prípravu a jedinec sa stretáva s množstvom
+pedagogickej teórie. S jeho pôvodnou prekoncepciou sa začína spájať na jednej strane
+14
+
+táto teória, hoci nie bezo zbytku – študent vykonáva selekciu a prijíma a do svojej
+podvedomej koncepcie inkorporuje to, čo sa mu hodí a dáva mu logický zmysel. Na
+druhej
+
+strane
+
+prijíma
+
+pedagogické
+
+názory
+
+a
+
+akcenty
+
+svojich
+
+vyučujúcich
+
+a prednášajúcich. Výskumy ukazujú, že kvalitné vzdelávanie má schopnosť zmeniť
+nefunkčnú prekoncepciu, vzniknutú v žiackych časoch (Gürsoy, 2013; Romanowski,
+1998; Seebauerová, 2007).
+Pozoruhodným bodom, v ktorom dochádza k výrazným zmenám jedincovej
+výrazne teoretickej prekoncepcie je pedagogická prax v priebehu vysokoškolského
+štúdia. Študent sa vtedy stretáva s IKV svojho cvičného učiteľa, ktorá je väčšinou
+jednoduchšia a praktickejšia, ako majú didaktici odborných predmetov a ako je preberané
+vysokoškolské učivo. Okrem toho sa prvýkrát zapája do vyučovacieho procesu
+a teoretickú stránku svojej prekoncepcie obohacuje o praktické skúsenosti. Aby jedinec
+dokázal efektívne meniť svoju prekoncepciu, je z jeho strany nutná reflexia
+a s pedagógom zodpovedným za prax musí viesť kritický dialóg (Mamoura, 2016).
+Nakoniec sa študent dostáva do praxe a stáva sa skutočným učiteľom. Vtedy je
+jeho prekoncepcia najintenzívnejšie konfrontovaná s pedagogickou realitou a pod
+vplyvom okolností a postupne naberaných skúseností sa mení na skutočnú koncepciu.
+Podľa výskumov sú kľúčovými prvé roky praxe, keď učiteľ hľadá ideálny spôsob vlastnej
+práce, vtedy jeho koncepcia vyučovania prechádza najrazantnejšími zmenami. Zároveň
+vtedy potrebuje najväčšiu podporu a pomoc. Postupom času sa jeho koncepcia ustáli a vo
+väčšine prípadov zostáva pri svojej IKV, ktorá sa mu zdá byť najlepšia, lebo je na ňu
+zvyknutý, zjednodušuje mu prácu, pretože mu umožňuje mechanicky vykonávať činnosti
+a tým šetriť pozornosť a vynaložené úsilie (Huang et al., 2021; Voet a De Wever, 2016).
+Táto podkapitola identifikovala bežný postup vzniku a utvárania sa uIKV počas
+života učiteľa. Čím ďalej, tým je IKV učiteľov pevnejšia a ťažšie zmeniteľná. Okrem
+iného z uvedeného postupu vyplýva, že každý učiteľ má – chtiac, či nechtiac – svoju IKV.
+Z toho, čo bolo načrtnuté, dokážeme na základe vlastných, ešte stále čerstvých skúseností
+potvrdiť najmä skutočnosť, že pedagogická prax počas štúdia je veľkým zlomom pre
+budúcich učiteľov a ich uvažovanie o vlastnej profesii, ktoré je neoddeliteľnou súčasťou
+uIKV.
+
+15
+
+1.3 Charakteristiky individuálnej koncepcie vyučovania
+Táto podkapitola pre lepšie porozumenie sumarizuje základné charakteristiky
+uIKV. Podkapitola má tri časti. Prvá časť stručne opisuje vlastnosti, ktoré uIKV
+nadobúda, druhá funkcie, ktoré uIKV plní a tretia dopĺňa ďalšie dosiaľ nespomenuté
+nezanedbateľné charakteristiky uIKV.
+
+1.3.1 Vlastnosti individuálnej koncepcie vyučovania
+V tejto podkapitole vymenúvame a vysvetľujeme všeobecné vlastnosti, alebo inak
+povedané podstatné znaky, ktoré uIKV nadobúda. Tieto vlastnosti súvisia už zo
+samotným názvom a teda so skutočnosťou, že IKV je individuálna a ťažko pozorovateľná.
+Vlastnosti učiteľovej IKV podľa Mareša (2013) sú:
+-
+
+Implicitná a skrytá – uIKV väčšinou nie je konkrétnym učiteľom do
+detailov sformulovaná a explicitne vyjadrená, namiesto toho jestvuje len
+ako podvedome prítomná, nie všetci učitelia o nej uvažujú, alebo vedia
+o jej existencii,
+
+-
+
+subjektívna – nakoľko sa uIKV viaže na učiteľovu individualitu a je
+formovaná jeho skúsenosťami, je pri každom učiteľovi odlišná, nenašli by
+sme dvoch učiteľov s rovnakou uIKV a práve uIKV odlišuje učiteľov,
+ktorí majú rovnaké, alebo veľmi podobné vedomosti (Bryan, 2011),
+
+-
+
+spontánna – uIKV sa nevyvíja v nejakom kontrolovanom rámci, ale
+vzniká mimovoľne počas celého života a profesionálnej kariéry učiteľa,
+(aj keď sa zdá, že tempo vývinu uIKV sa so stúpajúcim vekom spomaľuje)
+a výskumy dokazujú, že teoretické vzdelávania učiteľov ju neštiepia
+dostatočne, nemenia ju, iba ju dopĺňajú a kryštalizujú (Huang et al., 2021),
+
+-
+
+pomerne neuvedomená – konkrétny učiteľ svoju IKV používa
+mechanicky a zväčša ju nepodrobuje kritike s cieľom objaviť v nej
+nedostatky a napraviť ich,
+
+-
+
+orientovaná – uIKV zásadne obsahuje hodnotiacu zložku, vyhraňuje sa
+väčšinou kladne, neutrálne, alebo záporne, v konečnom dôsledku
+rozhoduje, či učiteľ niečo príjme, alebo odmietne (slúži ako sito, viď
+Obrázok 2),
+
+16
+
+-
+
+stereotypná – uIKV sa vyznačuje zaužívaným a málo sa meniacim
+systémom, ktorý „má malú pružnosť“ (Mareš, 2013, s. 456) a ktorý
+poskytuje učiteľovi výhodu v tom, že nemusí nad každým detailom svojej
+učiteľskej činnosti zdĺhavo premýšľať (pracuje mechanicky), konkrétny
+učiteľ má svoju koncepciu ako ideálnu,
+
+-
+
+pomerne stabilná – vonkajšie vplyvy uIKV interferujú iba málo a tým
+pádom sa v čase mení len pomaly, dokonca sa zdá, že úplná zmena nie je
+možná.
+
+Obrázok 1: Individuálna koncepcia vyučovania učiteľa ilustrovaná ako sito (námet: Mareš, 1996; 2013)
+
+Táto časť opisovala vlastnosti uIKV. Učiteľova IKV veľmi úzko súvisí
+s individualitou učiteľa a preto je ťažko pozorovateľná, aj meniteľná, samotnému
+učiteľovi vyhovuje, aj keď ju nemusí poznať a jej implicitnosť mu umožňuje podvedome
+(mechanicky) konať. Keby neexistovala takáto vnútorná koncepcia, o ktorú by sa mohol
+učiteľ mimovoľne opierať, jeho práca by bola výrazne náročnejšia, pretože by musel
+každý detail svojej činnosti úmyselne zvažovať a plánovať.
+
+1.3.2 Funkcie individuálnej koncepcie vyučovania
+Táto podkapitola opisuje funkcie, ktoré uIKV plní. Pod pojmom funkcia myslíme
+zameranie na nejaký konkrétny účel. Funkcie uIKV teda vysvetľujú, v ktorých
+činnostiach a akým spôsobom je zapojená učiteľova IKV.
+Funkcie učiteľovej IKV podľa Mareša (2013) sú:
+17
+
+-
+
+projektívna funkcia – uIKV určuje vnútorný obsah aj vonkajšiu formu
+učiteľovej práce,
+
+-
+
+selektívna funkcia – uIKV rozdeľuje jednotlivé zložky na podstatné
+(kardinálne) a okrajové (marginálne),
+
+-
+
+motivačná funkcia – uIKV určuje učiteľovu motiváciu, ako aj to, čo
+učiteľa neovplyvňuje, neprijme k výkonu,
+
+-
+
+regulačná funkcia – uIKV určuje spôsob učiteľovho rozhodovania sa
+a uprednostňované postupy riadenia vyučovania (Jonsson a Beach, 2012),
+
+-
+
+konatívna (behaviorálna) funkcia – uIKV indikuje ciele úsilia učiteľa
+a jeho jednanie v konkrétnych situáciách,
+
+-
+
+hodnotiaca funkcia – uIKV určuje kritériá hodnotenia celého
+pedagogického procesu, ako aj jeho jednotlivých zložiek a aktérov a seba
+samého,
+
+-
+
+rezultatívna (výsledková) funkcia – uIKV určuje výsledky, ktoré je učiteľ
+vo svojej práci schopný dosiahnuť, respektíve tie, ktoré nie je schopný
+dosiahnuť (Sabarwal et al., 2022).
+Táto časť opisovala základné funkcie, ktoré učiteľovi plní jeho IKV. Z uvedeného
+
+vyplýva, že učiteľ používa svoju IKV v celej plejáde pedagogických aj nepedagogických
+situácií, od plánovania, cez realizáciu, až po hodnotenie všetkých svojich činností (čo
+identifikujeme v nasledujúcej časti). Aj to zdôrazňuje význam IKV a dôležitosť jej
+skúmania.
+
+1.3.3 Ďalšie charakteristiky individuálnej koncepcie vyučovania
+V tejto časti opisujeme ďalšie dôležité charakteristiky uIKV. Tieto sú: všeobecná
+prítomnosť medzi učiteľmi, dielčie koncepcie, ktoré v sebe spája, aplikovanie uIKV
+v rôznych fázach pracovnej činnosti, zložky uIKV a dva hlavné vplyvy neustále
+ovplyvňujúce učiteľovu IKV.
+Učiteľova IKV je ťažko sledovateľná a na prvý pohľad neviditeľná, preto sa zdá,
+že neexistuje, alebo prinajmenšom, že nie je prítomná u všetkých učiteľov. Vyššie sme
+spomenuli zjednodušený postup utvárania uIKV, čo naznačuje všeobecnú prítomnosť,
+nakoľko každý učiteľ raz prešiel fázou žiaka a študenta a pre každého je stret
+s pedagogickou realitou (praxou) odlišný od prijímania pedagogickej teórie (Mareš,
+2013).
+18
+
+Obrázok 2: Vnútorná štrukturácia individuálnej koncepcie vyučovania, podľa Mareša (2013)
+
+Zo svojej individuálnej koncepcie učiteľ čerpá vo všetkých fázach vyučovania:
+predrealizačnej (pri príprave podkladov na vyučovanie), realizačnej (počas vykonávania
+pedagogických činností na vyučovacej hodine) a porealizačnej (reflexia, hodnotenie
+vyučovacej hodiny, hľadanie zlepšení). Cez prizmu svojej individuálnej koncepcie učiteľ
+sleduje pedagogickú realitu vôkol seba, odbornú pedagogickú literatúru a tiež vyučovanie
+druhých učiteľov (Gavora, 1990).
+Vďaka tomu, že učiteľ má (implicitne) svoju individuálnu koncepciu učiteľskej
+práce, teoretické kurzy zamerané na vzdelávanie aktívnych učiteľov na neho nemajú taký
+vplyv, ako je požadované a ako by sa dalo očakávať. V tomto prípade by mali byť
+užitočné praktické úlohy, nahrádzajúce samotné teoretické vedomosti (Mareš, 2013;
+Gavora, 1990).
+
+Obrázok 3: Zložky individuálnej koncepcie vyučovania, podľa: Gavoru (1990) a Šeben Zaťkovej (2015)
+
+V priebehu vykonávania učiteľskej profesie na učiteľovu individuálnu koncepciu
+pôsobia dva hlavné vplyvy (viď Obrázok 4):
+
+19
+
+1. teória – predkladá vedecké poznatky, ktoré prechádzajú učiteľovou
+selekciou a následným prijatím vyselektovaného (akoby toho, čo učiteľovi
+„zapadá do skladačky“),
+2. prax – učiteľ naberá vykonávaním praxe skúsenosti, ktoré spätne analyzuje
+a hodnotí a tým upravuje svoju individuálnu koncepciu. Následne jeho
+pozmenená koncepcia štiepi prax a tá opäť prináša zmeny do koncepcie
+vyučovania. Týmto všetkým sa individuálna koncepcia stáva ešte
+individuálnejšou.
+
+Obrázok 4: Previazanosť individuálnej koncepcie vyučovania s pedagogickou teóriou a praxou,
+podľa Gavoru (1990)
+
+Táto časť opísala ďalšie nezanedbateľné charakteristiky, dotvárajúce obraz uIKV.
+Tieto charakteristiky sú: prítomnosť u každého učiteľa, jednotlivé koncepcie, ktoré v sebe
+zahŕňa, prítomnosť uIKV vo všetkých fázach pracovnej činnosti učiteľa, dielčie uIKV a
+dva hlavné vplyvy neustále pôsobiace na učiteľovu IKV.
+Táto podkapitola sumarizovala základné charakteristiky, typické pre uIKV. Jej
+jednotlivé časti opisovali vlastnosti IKV, funkcie IKV a ostatné dielčie charakteristiky.
+Učiteľovu IKV výstižne ilustruje metafora sita, ktoré triedi, čo si učiteľ pre seba zoberie
+a aplikuje v praxi a čo vynechá. Z tohto opisu sú zrejmé najmä tri skutočnosti: a) uIKV
+je veľmi zložitý a ťažko pozorovateľný komplex, b) uIKV sa týka celého pedagogického,
+aj nepedagogického pôsobenia učiteľa a výrazným spôsobom ho podmieňuje, c) nakoľko
+je uIKV vnútorná a kľúčová, je potrebné ju skúmať a učiteľom vysvetľovať, čo
+rozvedieme v ďalšej časti.
+Prvá kapitola definovala učiteľovu IKV, identifikovala bežný postup utvárania
+uIKV a sumarizovala základné charakteristiky uIKV.
+20
+
+2 SKÚMANIE UČITEĽOVEJ INDIVIDUÁLNEJ KONCEPCIE
+VYUČOVANIA
+Táto kapitola sumarizuje domáce a zahraničné výskumy učiteľovej IKV
+a identifikuje a definuje najdôležitejšie pojmy. Kapitola je rozdelená do štyroch
+podkapitol. Prvá podkapitola identifikuje vývoj skúmania problematiky uIKV a dôležité
+zistenia, ktoré výskumy priniesli. Druhá podkapitola sumarizuje rôzne metódy, používané
+pri skúmaní učiteľovej IKV. Tretia podkapitola vyberá a triedi výskumy o IKV, zamerané
+na aktívnych aj budúcich učiteľov dejepisu. Posledná podkapitola na základe
+spomenutých výskumov definuje v súvislosti s IKV učiteľov dejepisu často skloňovanú
+epistemologickú otázku s kľúčovými pojmami modernistická a postmodernistická
+koncepcia histórie (a dejepisu).
+
+2.1 Výskumy individuálnej koncepcie vyučovania
+Táto podkapitola identifikuje, kedy, ako a prečo sa výskumníci začali zaoberať
+učiteľovým uvažovaním, ako aj to, ako sa skúmanie danej problematiky postupne
+vyvíjalo, až sa sformovalo do dominantného prúdu pedagogického výskumu. K tomu
+pripájame
+
+argumenty,
+
+dokladajúce
+
+dôležitosť
+
+skúmania
+
+niečoho
+
+tak
+
+ťažko
+
+identifikovateľného, ako je uIKV a niektoré z novších záverov oných výskumov.
+Do šesťdesiatych a sedemdesiatych rokov dvadsiateho storočia prevládal
+deskriptívny (opisný) výskum vonkajšieho pôsobenia učiteľa, ktorý kategorizoval
+a triedil jeho pedagogickú činnosť do škatuliek, ale nehľadel dovnútra, na učiteľove
+názory a do jeho uvažovania o vyučovaní. Až uprostred sedemdesiatych rokov
+dvadsiateho storočia nastal v tomto smere posun, do popredia sa dostali otázky ako:
+„Prečo učiteľ robí to, čo robí?“ a začalo sa skúmanie učiteľových myšlienkových
+procesov, presvedčení, poňatia vyučovania, každodennej filozofie, pedagogického
+myslenia, a iného, čo radíme k učiteľovej IKV (Gavora, 1990; Mareš, 2013; Yılmaz,
+2008; Chválová, 2018).
+Z týchto výskumov vyplynulo, že musí existovať premenná, ktorá je za viditeľnou
+činnosťou učiteľa a determinuje celý vyučovací proces. Prišlo sa s tézou, že kľúčové sú
+myšlienkové procesy aktérov, teda učiteľa na jednej strane a žiaka na druhej. Povrchný
+deskriptívny výskum bol odsunutý a nahradený skúmaním vnútornej mentálnej
+21
+
+reprezentácie viditeľných pedagogických skutočností. Najvýraznejšie sa na tejto zmene
+podpísali spolutvorcovia kognitívnej psychológie, Švajčiar Jean Piaget a Rus Lev
+Semjonovič Vygotskij (Gavora, 1990; Tóthová, 2014).
+V októbri roku 1983 bola na Sympóziu pre výskum myslenia učiteľov na Tilburg
+University v Holandsku založená Spoločnosť na výskum myšlienkových procesov učiteľa
+(The International Study Association on Teacher Thinking, skrátene: ISATT), ktorej
+cieľom je rozšíriť pohľad na prácu učiteľov a vyučovací proces, zvýšiť kvalitu výučby a
+pôsobiť ako fórum na šírenie výsledkov výskumu, prispievajúcich k formovaniu teórie v
+tejto oblasti (International study association, 2021).
+O rok neskôr C. M. Clark a P. L. Petersonová (1984) publikovali svoju dodnes
+citovanú prelomovú štúdiu Teacher’s Thought Processes, ktorou sumarizujú výskum na
+poli IKV v sedemdesiatych a na začiatku osemdesiatych rokov dvadsiateho storočia.
+Do vtedajšieho Československa (a neskoršieho Česko-Slovenska) sa tieto
+myšlienky dostali najprv v prvej polovici osemdesiatych rokov dvadsiateho storočia.
+Gavora (1990) sumarizuje autorov (s ich základnými staršími prácami):
+-
+
+Z. Helus (Pojeti žáka a perspektivy osobnosti, 1982),
+
+-
+
+E. Vyskočilová (Dovednostní model učitelovy profese, 1986),
+
+-
+
+J. Průcha (Determinanty reálné výuky, 1987),
+
+-
+
+Vl. Hrabal ml. (Výskum učitelova pojetí úspěšného žáka v oblasti píle
+a nadání a možnosti jeho autodiagnostiky, 1988),
+
+-
+
+P. Gavora (slovenský priekopník s príspevkom Učiteľova individuálna
+koncepcia vyučovania, 1990),
+
+-
+
+J. Mareš (najaktívnejší autor s dielami Učitelovo individuální pojetí výuky,
+1986; Učitelovo pojetí výuky, 1987; spolu s J. Slavíkom, T. Svatošom a V.
+Švecom dielo Učitelovo pojetí výuky, 1996).
+
+V tejto oblasti bolo v zahraničí v posledných dekádach vykonaných množstvo
+výskumov, zameraných na vplyv učiteľovej IKV na rôzne aspekty vyučovania. Podľa
+nášho prieskumu boli najčastejšími témami: inteligencia (často v spojení s motiváciou)
+(napr. Jones et al., 2012), rôzne zručnosti (napr. Hamilton, 2006; Rechsteiner et al., 2021)
+a tvorivosť (napr. Gralewski a Karwowski, 2016).3
+Ďalšími skúmanými témami v rámci IKV sú: klíma, inteligencia, učenie sa, zlepšovanie škôl, kladenie
+otázok, vplyv učiteľov v ranom detstve, morálka, stres, úspechy žiakov, normy, tvorivosť, nadaní študenti,
+učenie sa písať, kritické myslenie, hodnotenie, zručnosti, sociálne porovnávanie, prijímanie stereotypov,
+motivácia, spätná väzba, cudzie jazyky, multikultúrne triedy, disciplína, technológie, osobnosti,
+emocionálne skúsenosti, akcia, inteligencia a Downov syndróm, a na iné.
+3
+
+22
+
+V našom priestore po roku 2000 nastúpila nová generácia výskumníkov
+a skúmania učiteľovej IKV. Niektorí skúmali uIKV všeobecnejšie, napríklad Švec (2003)
+a Šíp a Švec (2013), Koubek a Janík priniesli prehľadovú štúdiu (2015). Časť
+výskumníkov sa zamerala na IKV v konkrétnych vyučovacích predmetoch, napríklad
+Kropáč v oblasti technických predmetov (2004), Vávra v geografii (2006), Žoldošová
+dvakrát v oblasti prvostupňovej prírodovedy (2007 a 2008), Tomkuliaková rovnako
+v prírodovede (2012) a tiež vo všeobecnosti na prvom stupni (Tomkuliaková, 2015),
+doteraz nikto nevenoval pozornosť učiteľom dejepisu. Časť výskumníkov sa zamerala na
+prípadové štúdie, skúmajúce IKV jedného učiteľa, napríklad Gavora (2001), Porubský
+(2007), Nehyba a Svojanovský (2016) a Koubek (2016). Ďalšie výskumy sa venovali
+budúcim učiteľom, napríklad Švec (2012) a Kasíková s Valentom (2019). V neposlednom
+rade boli vytvorené výskumy v univerzitnom prostredí, skúmajúce premeny uIKV
+budúcich učiteľov počas štúdia (Seebauerová, 2007) a tiež začínajúcich vysokoškolských
+učiteľov (Šeďová et al., 2016).
+Výsledky výskumov zameraných na individuálnu koncepciu učiteľov je práve
+kvôli vlastnostiam uIKV náročné zjednodušovať. Uvažovanie učiteľov je mimoriadne
+komplexné a nedokážeme vytvoriť profil „priemerného učiteľa“, lebo každý jednotlivec
+má zložitý súbor poznania a jeho uplatňovania v praxi. Nesporné je, že učiteľova IKV
+môže priamo ovplyvniť výsledky žiakov (Sabarwal et al., 2022). Je preto veľmi dôležité,
+aby učiteľ poznal svoju IKV a rozumel základným mechanizmom jej fungovania
+(Gavora, 1990).
+Ďalej prikladáme závery niekoľkých výskumov, poukazujúcich na túto
+skutočnosť.
+Učiteľova individuálna koncepcia schopností a potenciálu žiakov dokázateľne
+ovplyvňuje ich výsledky a budúce úspechy (Hamilton, 2006). Koncepcia schopností
+ovplyvňuje to, ako bude jednotlivec „reagovať na neúspechy a zlyhania a rozvíjať postoje
+k vzdelávacím cieľom“ (May et al., 2020, s. 56).
+Učiteľova koncepcia inteligencie sa odráža v spôsobe chválenia žiakov. Tí
+učitelia, ktorí veria, že inteligenciu je možné rozvíjať, dávajú procesuálnu chválu, ktorá
+má priaznivé dôsledky, na rozdiel od osobnej chvály učiteľov, operujúcich s modelom
+nemennej (fixnej) inteligencie, ktorá prináša skôr negatívne dôsledky (Jonsson a Beach,
+2012; Jones et al., 2012). Dôležitou skutočnosťou je, že učiteľova koncepcia inteligencie
+ovplyvňuje žiakov, ktorí si budujú vlastné koncepcie inteligencie, ktoré ich neskôr môžu
+výrazne motivovať k sebarozvoju (alebo naopak demotivovať) (Jones et al., 2012).
+23
+
+Učiteľova IKV ovplyvňuje výkonnosť žiakov, pričom platí model tzv.
+„Sebanaplňujúceho proroctva“ (žiak sa zlepší – Pygmalionov efekt, alebo zhorší
+– Golemov efekt na základe učiteľovho prístupu, odvodeného z predpokladu žiakovej
+úspešnosti/neúspešnosti). Najvýraznejšie sa IKV učiteľov vo vzťahu k výkonnosti žiakov
+prejavuje pri znevýhodnených – sociálne menej zapojených žiakoch (Sabarwal et al.,
+2022).
+Keďže uIKV nezanedbateľne ovplyvňuje pedagogickú prácu učiteľa a tým aj
+žiakov, je dôležité, aby súčasťou prípravy budúcich učiteľov bol reflexívny proces
+sebahodnotenia vo vzťahu k vlastným presvedčeniam a hodnotám, a ich významu pre
+prax a žiakov (Hamilton, 2006).
+Táto podkapitola sumarizovala vývoj skúmania problematiky uIKV od jej
+začiatku v sedemdesiatych a osemdesiatych rokoch dvadsiateho storočia, cez jej príchod
+do nášho geografického priestoru, až do súčasnosti. Najnovšie zahraničné výskumy
+jednohlasne zdôrazňujú potrebu lepšieho porozumenia uIKV, nielen vo vedeckej oblasti,
+ale najmä samotnými učiteľmi, pretože uIKV priamo ovplyvňuje – pozitívne, alebo
+negatívne – žiakov a tým ďalšie generácie našej spoločnosti.
+
+2.2 Metódy skúmania individuálnej koncepcie vyučovania učiteľa
+Táto podkapitola sumarizuje základné výskumné metódy, používané pri skúmaní
+učiteľovej IKV. Ku niektorým uvádzame príklad štúdie s ktorou sme pracovali, v ktorej
+autori použili danú metódu ako hlavnú, alebo jednu z viacerých použitých.
+Nakoľko je uIKV implicitná a pre väčšinu učiteľov neuvedomelá, nie je možné
+pracovať s klasickými dotazníkmi. Skrytú individuálnu koncepciu je potrebné
+rekonštruovať, urobiť explicitnou. Používame pri tom najmä tieto metódy: (Mareš, 1996;
+2013; Gavora, 1990; 2001)
+-
+
+pozorovanie – výskumník pozoruje a podrobne poznámkuje konanie
+učiteľa v spektre pedagogických situácií, z jeho konania je možné
+nepriamo odvodiť jeho IKV. Používajú sa rôzne formy ako: zúčastnené
+pozorovanie, stimulované vybavovanie spamäti učiteľa (angl.: stimulated
+recall, to je reflexia vyučovacej hodiny, napríklad pomocou nahrávky),
+uvažovanie nahlas a ďalšie (napr. Romanowski, 1998; Gestsdóttir et al.,
+2021),
+
+24
+
+-
+
+dotazníky/škály – učiteľ odpovedá na sadu premyslených otázok,
+z ktorých sa dá do istej miery spoznať jeho individuálna koncepcia.
+Poznáme rôzne formy dotazníkov: dotazníky s otvorenými položkami,
+dotazníky s uzavretými položkami, projektívne techniky – medzi nimi
+najmä dotazník UPV (Mareš, 1990) (Učitelovo pojetí výuky, viď vyššie)
+(napr. VanSledright a Reddy, 2014; Namamba, 2016; Rechsteiner et al.,
+2021; Dayan et al., 2022),
+
+-
+
+rozhovor – témou sú názory učiteľa na vyučovanie, rozhovor môže mať
+rôznu štruktúru a mieru voľnosti, môže ísť napríklad aj o rozhovor so
+samým sebou (o chystanej, alebo už odučenej vyučovacej hodine) (napr.
+Martínez-Rodríguez et al., 2019; Bartelds et al., 2020, Nitsche a Waldis,
+2022),
+
+-
+
+kvalitatívny výskum – zameriava sa na kognitívne hľadisko, skúma
+vnímanie kľúčových pojmov a môže niesť rôzne označenie: mapovanie
+pojmov (v angličtine: concept mapping), konceptuálna schematizácia,
+(conceptual
+
+schematization),
+
+heuristická
+
+schematizácia
+
+(heuristic
+
+schematization), zachytenie učiteľovej pedagogickej ‚filozofie‘ (policy
+capturing), analýza profesijného denníka učiteľa a iné. Okrem toho je
+možné skúmať učiteľove pedagogické zásady, napríklad praktické
+argumenty – výroky o žiakoch, učení, vyučovacích metódach, učive,
+organizácii vyučovania (napr. Mamoura, 2016; May et al., 2020),
+-
+
+riešenie modelových situácií – induktívny prístup, odvíjajúci sa od
+učiteľovho
+
+konania
+
+vo
+
+vybraných (modelových)
+
+pedagogických
+
+situáciách, záverom je diskusia, napríklad kritická reflexia učiteľov vo
+forme: opis – vysvetlenie – konfrontovanie – rekonštrukcia (napr. Wilke et
+al., 2022),
+-
+
+taxonómia učiteľovej sebareflexie – zložitý hierarchicky usporiadaný
+systém hľadísk (ohľadov).
+
+Z výskumov predložených v tejto kapitole vyplýva, že najčastejšou metódou
+kvantitatívneho skúmania uIKV je dotazník (napr. VanSledright a Reddy, 2014;
+Namamba, 2016; Rechsteiner et al., 2021; Dayan et al., 2022) a najčastejšou metódou
+kvalitatívneho výskumu je pološtruktúrovaný rozhovor (napr. Martínez-Rodríguez et al.,
+2019; Bartelds et al., 2020, Nitsche a Waldis, 2022).
+
+25
+
+Výhodou kvalitatívneho prístupu je podľa Mareša (2013, s. 460) možnosť „viesť
+učiteľov k tomu, aby podrobnejšie vysvetlili, čo si pod týmto pojmom [uIKV]
+predstavujú“, čím sa dá predísť nepochopeniu.
+V súčasnosti je ideálom výskum s použitím zmiešaných metód (mixed methods
+research), teda výskum, v ktorom sa kvalitatívny a kvantitatívny prístup vhodne dopĺňajú
+(Bernhard, 2019). So zmiešanými metódami pracovali napríklad výskumníci: Jones s
+kolegami (2012), Namamba a Rao, (2016), Gestsdóttirová et al. (2021), Elmersjö
+a Zanazanian (2022).
+Táto podkapitola sumarizovala základné metódy, používané v skúmaní učiteľovej
+IKV. Tieto metódy sa líšia mierou náročnosti, ako aj mierou zapojenia výskumníka
+a samotného učiteľa. Ku jednotlivým metódam sme pridali výskumy, v ktorých autori
+určené metódy použili. Z nich vyplýva trend kvantitatívneho skúmania učiteľovej IKV
+prostredníctvom dotazníkov a kvalitatívneho skúmania formou pološtruktúrovaného
+rozhovoru. Zaujímavým moderným prístupom je zmiešaný výskum, používajúci
+kombináciu kvantitatívnej a kvalitatívnej metódy.
+
+2.3 Výskumy o IKV učiteľov dejepisu
+Táto podkapitola sumarizuje poznatky o IKV učiteľov dejepisu, nadobudnuté
+analýzou 18 empirických výskumov. Keďže téma IKV učiteľov dejepisu nie je v našom
+priestore aktívne skúmaná, takmer všetky sú zahraničné, väčšinou pochádzajú od
+výskumníkov z rôznych európskych štátov, niekoľko z amerických Spojených štátov
+a jeden z africkej Tanzánie.
+Považujeme za dôležité spomenúť ešte niekoľko terminologických otázok.
+V texte rozlišujeme históriu (vednú disciplínu; a zároveň interpretáciu minulosti,
+synonymum výrazu ‚dejiny‘) a dejepis (pedagogickú disciplínu), i keď miestami je to
+náročné, pretože práce v anglickom jazyku používajú pre oba pojmy jeden výraz
+(history). Hoci stredoškolskí žiaci sú v zahraničných výskumoch nazývaní ‚študenti‘
+(students), používame pre nich naše pomenovanie – žiaci. Pri jednotlivých výskumoch
+v prípade učiteľov nešpecifikujeme, že ide o učiteľov dejepisu, výnimkou sú prípady, keď
+nejde priamo o učiteľov dejepisu.
+Podkapitola je rozdelená na 4 časti. Na začiatku identifikujeme úvod skúmania
+IKV učiteľov dejepisu, vrátane typológií a faktorov, ktoré IKV učiteľov dejepisu
+ovplyvňujú. V tejto časti sa začína rozvíjať pojem epistemologické presvedčenie
+26
+
+učiteľov, súvisiace s dvomi perspektívami histórie, poťažmo dejepisu. V druhej časti sa
+zameriavame
+
+na
+
+prvky
+
+postmodernisticky koncipovaného
+
+dejepisu. Následne
+
+približujeme výskumy konkrétne budúcich učiteľov a vplyvu ich odbornej prípravy. Na
+záver uvádzame výskumy, poukazujúce na rôznu mieru úspešnosti implementácie
+postmodernistickej koncepcie do vyučovania dejepisu.
+
+2.3.1 Začiatky skúmania IKV učiteľov dejepisu
+Táto časť sumarizuje začiatky skúmania IKV učiteľov dejepisu, spolu s faktormi,
+ktoré uIKV ovplyvňujú a typológiami, ktoré výskumníci navrhli. Už 10 rokov po začiatku
+tohto skúmania sa vyprofilovala kľúčová epistemologická otázka, deliaca koncepcie
+histórie a dejepisu na modernistickú a postmodernistickú.
+Priekopníkom štúdia IKV učiteľov dejepisu sa na prelome 80‘ a 90‘ rokov 20.
+storočia stal americký výskumník R. W. Evans, ktorého dve štúdie sú pre túto prácu zvlášť
+relevantné (Namamba a Rao, 2016; Bernhard, 2019; Martínez-Rodríguez et al., 2019).
+V prvom
+
+z dvoch spomenutých príspevkov Evans (1989)
+
+skúmal
+
+71
+
+stredoškolských učiteľov v Spojených štátoch. Cieľom bolo spoznať koncepcie významu
+histórie a faktory, ktoré ich formujú. Autor najprv vytvoril „dotazník o učiteľských
+predstavách o histórii a osobnom zázemí“ (Evans, 1989, s. 214), ktorým od 71
+stredoškolských učiteľov získal podklady ku následným rozhovorom. Po vytvorení
+predbežnej typológie 30 z respondentov absolvovalo 50 minútové rozhovory skúmajúce
+„predstavy učiteľov o význame dejín (...), opise vlastného vyučovacieho štýlu a pohľade
+učiteľa na pôvod svojej koncepcie“ (Evans, 1989, s. 214). Evans (1989) s použitím
+pedagogického a epistemologického prístupu zistil, že učitelia majú odlišné pohľady na
+históriu (poťažmo dejepis) a jej význam, pričom jednotlivé pohľady majú súvis
+s konkrétnymi filozofiami.
+Okrem toho Evans (1989, s. 214) vytvoril často citovanú typológiu, ktorá učiteľov
+dejepisu
+
+delí
+
+do
+
+5
+
+kategórií:
+
+a)
+
+„rozprávač“,
+
+b)
+
+„vedecký
+
+historik“,
+
+c)
+
+„relativista/reformátor“, d) „kozmický filozof“ a e) „eklektik“. Pri skúmaní faktorov,
+ktoré ovplyvňujú učiteľovu IKV dejepisu zhrnul nasledovné: rodina a osobné zázemie,
+predchádzajúci učitelia a vysokoškolskí profesori, politické a náboženské pozadie,
+literatúra a životné skúsenosti. Poukázal na to, že učiteľova teoretická koncepcia histórie
+v praktickej rovine ovplyvňuje spôsob vyučovania dejepisu.
+
+27
+
+Vzápätí po prvej práci Evans (1990) vytvoril kvalitatívny výskum, v ktorom
+skúmal „účinky koncepcií histórie každého učiteľa na odovzdávané učivo a na názory
+žiakov“ (Evans, 1990, s. 101). Podľa vyššie spomenutej typológie (Evans, 1989), vybral
+5 najreprezentatívnejších učiteľov a po 6 žiakov z ich tried (podľa výsledkov z minulého
+roka – 2 z najlepších, 2 z priemerných a 2 z najhorších). Zber údajov zahŕňal rozhovory
+s každým učiteľom, hĺbkové pozorovania najmenej ôsmich vyučovacích hodín
+a rozhovory s vybranými žiakmi. „Rozhovory so žiakmi zisťovali vedomosti žiakov
+o vyučovacom štýle ich učiteľov, žiacke postoje, žiacke predstavy o účeloch štúdia
+histórie, žiacke znalosti o politickom presvedčení ich učiteľa a presvedčeniach žiakov“
+(Evans, 1990, s. 104). Výsledkom je zistenie, že „miera vplyvu koncepcií učiteľov na
+vyučovanie a žiakov sa rôzni“ (Evans, 1990, s. 125). Hoci mnohí učitelia zdôraznili
+relevantnosť dejepisu pre život žiakov, často to podporili iba povrchnými zdôvodneniami.
+Dejepis v rukách takých učiteľov neplní svoju funkciu a je spojený s „nudou a rutinou“,
+ktoré vedú žiakov k pocitu, že „dejepis nemá veľa spoločného s našimi životmi
+a rozhodnutiami“ (Evans, 1990, s. 127). Napriek tomu jestvujú aj učitelia s hlbším
+vplyvom na žiakov. Týmto výskumom Evans (1990) potvrdil, že teoretické skúmanie
+IKV učiteľov bez pozorovania ich aplikácie vo vyučovaní môže viesť ku skresľujúcim
+záverom.
+Elmersjö a Zanazanian (2022) skúmali vzťah medzi minulosťou a históriou v IKV
+učiteľov pomocou modelu zmiešaných metód. Autori výskumu si položili otázky: „Vidia
+učitelia vo vyučovaní samých seba ako politický akt? Ako to súvisí s ich pohľadom na
+vzťah medzi minulosťou a históriou?“ (Elmersjö a Zanazanian, 2022, s. 185). Najprv
+administrovali dotazník, pomocou štvorbodovej Likertovej škály skúmajúci pohľady
+učiteľov na minulosť a históriu. Respondentmi boli učitelia vyšších strených škôl, 375 zo
+Švédska a 106 z kanadského Québecu (vyučujúci dejepis vo francúzskom alebo
+anglickom jazyku) (tamtiež, s. 185). Z dotazníka vyplynulo, že väčšia časť švédskych
+učiteľov vnímala rozdiel medzi históriou a minulosťou, na rozdiel od menšej časti
+québeckých (tamtiež, s. 187). Potom bolo vybratých 5 québeckých učiteľov, ktorí
+absolvovali pološtruktúrované rozhovory. Tie sa „sústredili na sériu otázok a krátkych
+aktivít, ktoré sa snažili preskúmať chápanie účastníkov vzťahu medzi minulosťou
+a históriou, čo korelovalo s podobne tematickými otázkami a tvrdeniami v dotazníku, no
+presahovalo ich rámec“ (tamtiež, s. 186). Podľa postmodernistického pohľadu učitelia
+dejepisu potrebujú poznať politický aspekt histórie, aby voči nej dokázali zaujať kritický
+postoj. S tým súvisí vyučovanie multiperspektivity – procesu vytvárania významu, ktorý
+28
+
+rozlišuje medzi minulosťou a históriou ako verziou tejto minulosti. Z výskumu vyplynuli
+2 zjednodušené profily typických učiteľov, súvisiace s Evansovou (1989) typológiou.
+Jeden je mladý, inšpirovaný postmodernistickým myslením, chápajúci vyučovanie
+dejepisu ako politický akt a schopný sebareflexie (Evansov relativista/reformátor). Druhý
+je starší, inklinujúci k modernizmu (pozitivistický), neoddeľujúci históriu od minulosti,
+učenie histórie nepovažuje za politický akt a je menej náchylný k sebareflexii (Evansov
+rozprávač). Elmersjö a Zanazanian (2022) predpokladajú, že existuje spektrum učiteľov,
+ktorí majú bližšie ku jednému z týchto profilov.
+V Evansovom (1989) skúmaní faktorov, ovplyvňujúcich IKV učiteľov dejepisu
+pokračoval aj Romanowski (1998). Vo svojej práci nadviazal na vlastný predchádzajúci
+výskum, ku ktorému pridal rozhovory, pozorovania hodín 6 stredoškolských učiteľov
+a následné reflexie. Rozhovory trvali 50-75 minút a boli zamerané na „koncepcie učiva
+[história Spojených štátov], aktuálne vyučované kurzy, žiakov v triede a ich individuálny
+prístup k transformácii vedomostí o obsahu. Účastníci boli tiež požiadaní, aby poskytli
+príklady zo svojho vyučovania“ (Romanowski, 1998, s. 4). Z výskumu vyplynulo, že
+existuje viacero faktorov, hrajúcich významnú úlohu pri určovaní verzie histórie, ktorú
+učitelia prinášajú žiakom. Tromi hlavnými faktormi na IKV dejepisu sú: a) „individuálne
+koncepcie náboženstva a morálky“; b) „vysokoškolskí vyučujúci histórie“; c) „sociálna
+trieda a rodinné zázemie“ (tamtiež, s. 5-6).
+
+Obrázok 5: Vplyvy na učiteľovu individuálnu koncepciu vyučovania a jej vplyv na vyučovanie histórie,
+podľa: Romanowského (1998, s. 4)
+
+Virtaová (2001) vo svojej kvalitatívnej štúdii skúmala IKV 92 budúcich učiteľov
+základných škôl. Cieľom bolo preskúmať epistemologické otázky o povahe dejepisu,
+histórie, vzťahu k spoločnosti a vlastnej pozícii. Participanti odpovedali na 5 otvorených
+otázok: „Prečo sa v škole učíme históriu? Aký je význam histórie v spoločnosti? Ako
+29
+
+chápem koncept histórie? Čo história znamená pre mňa? Aké je moje miesto v histórii?“
+(s. 3) Získané odpovede boli posudzované kvalitatívnou fenomenografickou metódou,
+kategorizované a spočítané. Virtaová (2001) touto štúdiou ako jedna z prvých priniesla
+epistemologické členenie vyučovania histórie na modernistické a postmodernistické.
+Z výsledkov vyplynulo, že „pre väčšinu participantov je význam histórie najmä
+kognitívny, ako vysvetlenie súčasných spoločenských a politických pomerov a v menšej
+miere ako otázka skúsenostného alebo empatického vzťahu k histórii“ (Vita, 2001, s. 6).
+Tento rozšírený pohľad má jasný súvis s modernistickým spôsobom vyučovania dejepisu.
+Malá časť participantov „kritickou, analytickou a vedeckou interpretáciou“ (tamtiež, s. 9)
+zaujala postmodernistický postoj. Niektorí participanti spomenuli „krehkosť a relativitu
+historických informácií“ (tamtiež, s. 9). Väčšina participantov zjavne nebola zvyknutá
+uvažovať o osobnom význame histórie, no vyjadrili ochotu „aplikovať históriu ako
+nástroj organizácie okolitého sveta“ (tamtiež, s. 10). Záujem o históriu „môže byť na
+jednej strane intelektuálny (odovzdávanie tradície a vysvetlenie súčasných problémov)
+a na druhej emocionálny (zdroj fantázie, prežívanie krásy, náhrada dobrodružstva)“
+(tamtiež, s. 9).
+Yılmaz (2008) v Spojených štátoch skúmal koncepcie histórie učiteľov
+spoločenských vied. Participanti boli vyberaní podľa skúseností, aby pokryli rôzne fázy
+učiteľskej kariéry, vybraných bolo 12 učiteľov základných a stredných škôl. Kvalitatívny
+výskum pozostával z hĺbkových pološtruktúrovaných rozhovorov, trvajúcich 60-150
+minút. Všetkým účastníkom boli položené rovnaké otázky, ktoré boli individuálne
+dopĺňané rôznymi sondami (Yılmaz, 2008, s. 162). Zistené koncepcie dejín zúčastnených
+učiteľov boli rozdelené do dvoch zastrešujúcich kategórií, „história ako minulosť“
+(naivné chápanie histórie) a „história ako interpretácia minulosti“ (disciplinárne chápanie
+histórie) (tamtiež, s. 171). Toto členenie súvisí s delením Virtaovej (2001) na
+modernistickú a postmodernistickú koncepciu predmetu dejepis. Veľká časť učiteľov
+patrila do prvej kategórie, s čím súvisia: realistický pohľad na svet a naivný
+epistemologický pohľad na históriu, problém pozerať sa na históriu ako na vedeckú
+disciplínu z hľadiska jej základných epistemologických a koncepčných základov,
+sústredenie sa na výsledok historického bádania, prehliadanie interpretačného charakteru
+historického poznania, absencia disciplinárneho chápania histórie. Väčšina učiteľov
+nevnímala relevantnosť intelektuálnych a koncepčných základov histórie ako disciplíny
+pre ich profesiu a profesionálny rozvoj. Z týchto poznatkov vyplýva, že učitelia dejepisu
+musia rozumieť histórii, vrátane jej teoretických a koncepčných základov a poznať
+30
+
+proces vytvárania historických vedomostí a sily, ktoré formujú historické písanie, čo
+ukazuje nutnosť kurzu historiografie (Yılmaz, 2008).
+McCrumová (2013) robila v Anglicku kvalitatívny výskum medzi 11
+začínajúcimi stredoškolskými učiteľmi, tesne po získaní postgraduálneho certifikátu.
+Výskum pozostával z hĺbkových individuálnych rozhovorov, členených na tri časti.
+V prvej časti participanti hovorili o svojom „uvažovaní o povahe dejepisu a faktoroch,
+ktoré podľa nich formovali a ovplyvnili ich predstavy o ňom“ (McCrum, 2013, s. 74).
+Druhá časť bola zameraná na zdôvodnenia „účelu dejepisu v kurikule.“ Posledná časť „sa
+zaoberala spôsobmi, akými koncepcie učiteľov o povahe a účeloch dejepisu ovplyvňujú
+to, čo a ako vyučujú vo svojich triedach,“ okrem toho ešte „zisťovala, ako učitelia vnímali
+svoje vlastné vyučovanie“ (tamtiež, s. 75-76). V dejepise podľa zamerania vyučovania
+existujú dva možné prístupy: prístup zameraný na učiteľa (modernistický), založený na
+prenose vedomostí a prístup zameraný na žiaka (postmodernistický), zameraný na vlastné
+uvažovanie žiakov. Výskum ukázal, že názory učiteľov na povahu histórie sú vo
+všeobecnosti empirické,
+
+s malým vplyvom postmodernistickej koncepcie. Ich
+
+zdôvodnenia predmetu zdôrazňujú širšie vzdelávacie účely.
+
+Učitelia nemajú
+
+s postmodernistickým
+
+preto
+
+pohľadom
+
+na
+
+dejiny
+
+skúsenosti,
+
+neaplikujú
+
+postmodernistické kurikulum. V posledných dekádach bol zaznamenaný nárast žiackeho
+amatérskeho záujmu o históriu, učiteľ by mal žiakom poskytnúť priestor k uvažovaniu
+o epistemologických otázkach. Začínajúcim učiteľom je potrebné poskytnúť priestor na
+vedomú reflexiu a vyjadrenie vlastného zamerania k dejepisu (McCrum, 2013).
+Táto časť sumarizovala začiatky skúmania IKV učiteľov dejepisu, spolu
+s faktormi, ktoré učiteľovu IKV ovplyvňujú a typológiami, ktoré uvedení výskumníci
+navrhli. Medzi hlavné otázky sa dostali epistemologické presvedčenie učiteľov a s tým
+súvisiace členenie koncepcií dejepisu na modernistickú a postmodernistickú, pričom
+výskumy zistili prevládanie modernistickej koncepcie.
+
+2.3.2 Výskumy prvkov postmodernistickej koncepcie
+Táto časť sumarizuje výskumy prvkov postmodernistickej koncepcie dejepisu. Ku
+skúmaniu učiteľov vo vzťahu k naznačenému členeniu na modernistickú / postmodernistickú koncepciu dejepisu sa za posledných 10 rokov pridalo skúmanie prvkov
+postmodernistického vyučovania, ako je bádateľské vyučovanie a historické myslenie,
+a kľúčových kompetencií, ako napríklad naratívna kompetencia a historická empatia.
+31
+
+Voet a De Wever (2016) sa pri skúmaní uIKV zamerali na bádateľské vyučovanie
+(inquiry-based learning). Položili si nasledovné výskumné otázky: „Aké sú názory
+učiteľov na povahu histórie? Aké sú ciele a názory učiteľov na vyučovanie dejepisu
+a najmä na bádateľské vyučovanie? Ako spolu súvisia oba typy presvedčení učiteľov?
+Ako súvisí presvedčenie učiteľov o bádateľskom vyučovaní s kontextom, v ktorom
+pracujú?“ (Voet a De Wever, 2016, s. 59). Autori pomocou pološtruktúrovaného
+rozhovoru (trvajúceho v priemere 90 minút) zhromaždili výpovede 22 belgických
+(flámskych) stredoškolských učiteľov. Cieľom
+
+bolo spoznať epistemologické
+
+presvedčenia, názory na bádateľské vyučovanie, ich vzájomné pôsobenie a kontextové
+vplyvy. Konkrétne otázky na povahu dejín, kladené počas rozhovoru, boli použité
+„z diskusií v rámci historiografie“ (tamtiež, s. 60). Kvalitatívny výskum priniesol viacero
+dôležitých pozorovaní. IKV bádateľským spôsobom je ovplyvnená absolvovanými
+študijnými programami a epistemologickými presvedčeniami a výrazne prepojená
+„s kontextom, v ktorom daný učiteľ pracoval“ (tamtiež, s. 65). Týmto kontextom sú
+napríklad: skúsenosti počas vlastného štúdia, pozorovania (náčuvy) počas dejepisnej
+praxe, týždenný počet hodín dejepisu, požiadavky kurikula, kolegiálne interakcie,
+schopnosti študentov a dostupnosť materiálov. Väčšina učiteľov zdôrazňovala
+interpretačnú povahu histórie. Vo všeobecnosti sú učitelia náchylní zamerať sa skôr na
+obsah (súbor vedomostí) než na spôsob, akým je konštruovaný. Aj keď koncepcie
+o povahe histórie väčšiny učiteľov viedli k vyučovaniu historického argumentovania, ich
+koncepcie bádateľského vyučovania často zostali obmedzené na „kritické hodnotenie
+informácií namiesto využívania dostupných informácií na organizovanie bádania po
+minulosti“ (tamtiež, s. 65). Epistemologické presvedčenia sa často odchyľovali od
+súčasných akademických predpokladov, čo naznačuje, že učitelia nie sú oboznámení
+s vedeckou prácou. Spomenuté zistenia Voeta a De Wevera (2016) sú dôležité, pretože
+učitelia môžu žiakom približovať disciplinárne myslenie len v prípade, že sami dobre
+rozumejú povahe histórie.
+Patricio s kolegyňami (2022) v Španielsku skúmal prekážky, s ktorými sa učitelia
+stretávajú pri porozumení a implementácii kurikula zameraného na historické
+argumentovanie (historical reasoning). Ich hlavná výskumná otázka znela: „‚Pokrytie
+obsahu učebnice, alebo učebných osnov je to, o čom si mnohí ľudia myslia, že je cieľom
+vyučovania histórie.‘ Je toto tvrdenie pravdivé pre našich budúcich učiteľov?“ (Patricio
+et al., 2022, s. 3). Na základe IKV, ktorá má priamy vplyv na konanie učiteľov, autori
+poskytujú kvalitatívnu analýzu epistemologických a vyučovacích koncepcií, na ktorých
+32
+
+budúci učitelia zakladajú svoje úvahy a rozhodnutia pri tvorbe učebného plánu. Do
+kvalitatívneho fenomenografického výskumu sa zapojilo 72 budúcich stredoškolských
+učiteľov (všetci mali špecializáciu geografia a dejepis). Participanti najprv odpovedali na
+dve otvorené otázky „o účele dejepisu v stredoškolskom vzdelávaní a ich osobnej
+skúsenosti s ním“, následne riešili cvičenia na prípravu vyučovacej jednotky na tému prvá
+svetová vojna, potom uvažovali o význame učebných osnov k danej téme a analyzovali
+učebné texty, a nakoniec diskutovali o svojich koncepciách (tamtiež, s. 4). Výskum
+ukázal, že „sofistikované epistemologické predstavy o povahe histórie“ nevedú
+„k prijatiu interpretačného kurikula“, spojeného s bádateľským prístupom (tamtiež, s.
+12). Existujúce modely nedokázali dostatočne objasniť systém epistemologických
+presvedčení, ktoré budúci učitelia používajú na prijímanie rozhodnutí o kurikule.
+Hlavným prínosom je objavenie „dvojitého prahu“, ktorý musia budúci učitelia prekročiť,
+aby dokázali „porozumieť a implementovať výkladové učebné osnovy dejepisu“: a)
+musia spoznať rozdiel medzi minulosťou a históriou („prekonať implicitný naivný
+realizmus“) a spoznať interpretačnú povahu histórie a b) musia prestať vnímať učenie ako
+internalizáciu a reprodukciu encyklopedických vedomostí a namiesto toho prijať
+koncepciu vyučovania ako bádania a argumentovania (tamtiež, s. 12).
+Gestsdóttirová s kolegyňami (2021) na Islande skúmala IKV v spojení
+historickým
+
+myslením
+
+a argumentovaním
+
+(iné
+
+pomenovanie
+
+pre
+
+historické
+
+argumentovanie napr. u Patricia et al., 2022), čo je kompetencia, ktorá kladie dôraz na
+aktívne budovanie historického poznania konštruktivistickým spôsobom a v zahraničí sa
+dlhodobo považuje za dôležitú zložku dejepisu. Položili si otázku: „Ktoré koncepcie
+cieľov a stratégií vyučovania dejepisu zohrávajú úlohu v inklinácii učiteľov k vyučovaniu
+historického myslenia a argumentovania?“ (Gestsdóttir et al., 2021, s. 47) Výskumníčky
+predpokladali, že k historickému mysleniu a argumentovaniu budú mať sklony učitelia,
+ktorí „(1) majú nuansové presvedčenia o povahe histórie, (2) pri vyučovaní dejepisu vo
+svojich cieľoch zdôrazňujú kritické alebo akademické myslenie a (3) ich presvedčenie
+o efektívnej pedagogike ich vedie k záveru, že študenti sa najlepšie učia prostredníctvom
+riadeného bádania.“ (tamtiež, s. 50) Výskum bol vykonaný na 8 stredoškolských
+učiteľoch, ktorí participovali na vypĺňaní krátkeho dotazníka, zisťujúceho dôvod, prečo
+sa stali učiteľmi, následne na empirickom pozorovaní vyučovacích hodín a nakoniec na
+rozhovoroch (trvajúcich 40-53 minút), s epistemologickými otázkami, otázkami na ciele
+vyučovania, plánovanie vyučovacích aktivít a problémy žiakov. Po vyhodnotení
+získaných údajov boli skúmaní učitelia rozdelení podľa dôrazu kladeného na historické
+33
+
+myslenie a argumentovanie do 3 kategórií: učitelia s veľkým, stredným a malým
+dôrazom. Ukázalo sa, že IKV učiteľov s veľkým dôrazom na historické myslenie
+a argumentovanie zahŕňa prvky postmodernistického uvažovania, pohľad na históriu ako
+interpretáciu minulosti a aplikovanie bádateľského prístupu. Na opačnej strane učitelia
+s malým
+
+dôrazom
+
+na
+
+historické
+
+myslenie
+
+a argumentovanie
+
+inklinovali
+
+k modernistickému dejepisu, dbali na chronológiu a faktografiu a v menšej miere
+pracovali s prameňmi. Výskum Gestsdóttirovej s kolegyňami (2021) ukazuje, že
+vyučovanie historického myslenia a argumentovania je na islandských gymnáziách slabé,
+a to najmä preto, lebo učitelia na historické myslenie a argumentovanie nie sú
+systematicky pripravovaní a v práci dostatočne kontrolovaní.
+Wilkeová s kolegami (2022) rozdelila epistemologické predstavy učiteľov na
+formálne a praktické. Formálne označujú „všeobecné predstavy o charaktere vedomostí“
+a praktické o „epistemologických praktikách“, aktivovaných „napríklad prostredníctvom
+bádateľských aktivít“ (Wilke, 2022, s. 199). Vo svojom kvalitatívnom výskume
+pozorovali vzťah medzi nimi, teda vzťah medzi „chápaním historického myslenia
+[učiteľmi] a ich vyučovacou praxou“ (tamtiež, s. 196). Výskumné otázky zneli: „Ako
+vyzerajú formálne a praktické epistemológie učiteľov a ako súvisia s ich chápaním
+historického myslenia?“ „Ako sa epistemologické presvedčenie učiteľov a chápanie
+historického myslenia odrážajú v ich vyučovacej praxi?“ (tamtiež, s. 201) Rozsiahly
+výskum bol realizovaný na 21 belgických (flámskych) stredoškolských učiteľoch. Tí
+najprv vypĺňali online dotazník s dvomi otvorenými otázkami, zameranými na oblasť
+historického myslenia. Potom absolvovali rozhovor v ktorom upresňovali svoje
+odpovede, merané boli ich praktické epistemológie. Následne im bol „predložený model,
+ktorý definoval historické myslenie ako vyžadujúce pochopenie minulosti aj historickej
+praxe“ a účastníci ho mali porovnať s vlastným chápaním. Učitelia poskytli svoje vlastné
+učebné materiály, ktoré používali na podporu (zručnosti) historického myslenia svojich
+študentov. Nakoniec učitelia absolvovali druhý rozhovor, v ktorom prezentovali
+a zdôvodňovali vybrané materiály. Výskum odhalil nuansované epistemologické
+presvedčenia iba u polovice učiteľov, druhá polovica ich mala povrchne, v kombinácii
+s naivnými. Učitelia, u ktorých koexistovali naivné a nuansované presvedčenia,
+prikladali veľký význam modernistickým disciplinárnym postupom ako prostriedku na
+získanie absolútnych vedomostí o minulosti. Ukázalo sa, že medzi epistemologickými
+presvedčeniami a vyučovacou praxou existuje vzťah, učitelia venujúci pozornosť
+interpretačnému
+
+a konštruovanému
+
+charakteru
+
+dejín
+
+zastávajú
+
+nuansované
+34
+
+epistemologické presvedčenia, no nie naopak, nuansované epistemologické presvedčenia
+sa nie vždy odrazili vo vyučovacej praxi. To znamená, že do toho vzťahu vstupujú ďalšie
+aspekty uIKV. Hoci väčšina učiteľov uznala interpretačnú a konštruovanú povahu dejín,
+vo všeobecnosti to nezahrnuli do svojich vlastných opisov historického myslenia.
+Analýza učebných materiálov ukázala, že viacerí učitelia sa pokúšali oboznámiť
+študentov s metódami historikov, no nie vždy sa im podarilo vypracovať materiály,
+ktorými by to náležite dosiahli, čo naznačuje absenciu príslušnej kompetencie. Wilkeová
+s kolektívom (2022) zdôrazňuje, že je dôležité, aby príprava budúcich učiteľov zahŕňala
+vytváranie učebných materiálov zameraných na podporu epistemologickej reflexie.
+Nitsche s Waldisovou (2022) skúmali vzťah epistemologických presvedčení
+s naratívnou kompetenciou. Výskumníci si položili nasledovné otázky: „Do akej miery
+sú trénované naratívne schopnosti budúcich (nem.) švajčiarskych učiteľov dejepisu?
+S akým postojom k epistemologickým presvedčeniam účastníci súhlasia? Ovplyvňuje
+epistemologické presvedčenie účastníkov ich naratívnu kompetenciu bez a po úprave
+o premenné? Majú epistemologické presvedčenia účastníkov väčší vplyv v porovnaní s
+kontextovými premennými?“ (Nitsche a Waldis, 2022, s. 121). Výskum bol realizovaný
+na vzorke 175 budúcich (nemecky hovoriacich) švajčiarskych učiteľov. Participanti
+vypĺňali dotazník s úlohami, zameranými na písanie argumentov, cieľom bolo zistiť ich
+epistemologické presvedčenia a rôzne kontextové charakteristiky, ktoré môžu
+ovplyvňovať naratívnu kompetenciu. Výsledky ukázali, že „situačný záujem
+respondentov a kontextové aspekty (najmä množstvo kurzov histórie navštevovaných
+v škole a na univerzite) predpovedajú ich naratívnu kompetenciu čiastočne silnejšie ako
+vlastné epistemologické presvedčenia“ (tamtiež, s. 121). Potvrdilo sa, že súčasné metódy
+hodnotenia epistemologických presvedčení nie sú dostatočné. Budúci učitelia dejepisu
+majú problémy dekonštruovať a rekonštruovať dejiny, preto by ich príprava mala
+budovať naratívnu kompetenciu. Jedným zo spôsobov môže byť príprava kurzov podľa
+ich situačného záujmu.
+Kolektív holandských výskumníčok (Bartelds et al., 2020) skúmal koncepciu
+„historickej empatie, ciele a vyučovacie stratégie“ (Bartelds et al., 2020, s. 529).
+Historická empatia je jedným z prvkov postmodernistickej koncepcie dejepisu
+a v zahraničí patrí k základným občianskym kompetenciám, definuje sa ako „chápanie
+konania historických osobností štúdiom ich perspektívy“ a súvisí s kontextualizáciou
+histórie“ (tamtiež, s. 530). Hlavná výskumná otázka znela: „Aké presvedčenia majú
+učitelia a študenti dejepisu o historickej empatii a o cieľoch a stratégiách vyučovania
+35
+
+historickej empatie?“ (tamtiež, s. 534). Výskumníčky robili v Holandsku rozhovory s 10
+skúsenými stredoškolskými učiteľmi dejepisu a ich 17 žiakmi. Rozhovory pozostávali
+z otvorených otázok a hodnotiacich úloh, v ktorých participanti podľa vhodnosti ukladali
+karty s odpoveďami. Výskum priniesol zistenia, že učitelia aj žiaci vnímajú historickú
+empatiu prevažne ako zručnosť, ktorú je možné naučiť sa. Historická empatia má
+kognitívne aj afektívne aspekty. Ako hlavné prvky historickej empatie pomenovali
+kontextualizáciu, uvedomenie si vlastnej polohy, osobné spojenie a historickú
+predstavivosť. Väčšina učiteľov a študentov dokázala prepojiť historickú empatiu
+s každodennou empatiou.
+Táto časť sumarizovala výskumy, zamerané na prvky postmodernistickej
+koncepcie dejepisu, ako bádateľské vyučovanie, historické myslenie a argumentovanie
+a kľúčové kompetencie, ktoré by mal dejepis formovať a rozvíjať. Výskumy zhodne
+poukazujú na dôležitosť kvalitnej prípravy budúcich učiteľov.
+
+2.3.3 Budúci učitelia a vplyv prípravy
+Táto časť sumarizuje výskumy týkajúce sa uIKV a prípravy budúcich učiteľov
+dejepisu. Popri vyššie spomenutých výskumníkoch: Virtaová, McCrumová, Patricio
+s kolegyňami a Nitsche s Waldisovou boli ešte ďalší, ktorí sa rôznym spôsobom zamerali
+na epistemologické presvedčenia budúcich učiteľov dejepisu, s dôrazom na ich
+pregraduálnu prípravu, respektíve pedagogickú prax. V tejto časti opíšeme dva takéto
+výskumy.
+VanSledright a Reddyová (2014) v Spojených štátoch skúmali meniace sa
+epistemologické presvedčenia o histórii. Pod ich vedením absolvovalo 18 budúcich
+učiteľov špeciálny celosemestrový kurz, ktorý mal 3 hlavné ciele: a) „pomôcť účastníkom
+preskúmať druhy epistemologických presvedčení, ktoré zastávali, b) pomôcť im lepšie
+pochopiť spôsoby, akými niektoré z týchto presvedčení vytvorili slepé uličky v ich
+poznaní minulosti a c) ponúknuť im niektoré nové spôsoby myslenia o historických
+vedomostiach a zdôvodneniach historických tvrdení, ktoré by im mohli pomôcť prekonať
+tieto slepé uličky“ (VanSledright a Reddy, 2014, s. 38). Participanti na začiatku a na konci
+kurzu vypĺňali dotazník o epistemologických presvedčeniach, ktorý mal odhaliť zmeny,
+spôsobené kurzom. Nakoniec sa 4 z nich zúčastnili na podrobnom rozhovore. Keďže
+podľa výskumníkov nejestvoval nástroj na hodnotenie epistemologických presvedčení,
+zamerali sa na výpovede samotných študentov. Výsledky medzi budúcimi učiteľmi boli
+36
+
+zmiešané, ukázalo sa, že „epistemologické presvedčenia niektorých študentov zostali
+kurzom nedotknuté, zatiaľ čo iné sa zmenili, niektoré dramaticky“ (tamtiež, s. 54).
+
+Obrázok 6: Model kognitívnej náročnosti pojmu minulosť, podľa VanSledrighta a Reddyovej (2014, s. 36)
+
+Mamourová (2016) vytvorila kvalitatívnu prípadovú štúdiu, v ktorej počas kurzov
+postgraduálneho vzdelávania a pedagogickej praxe pozorovala zmenu IKV dvoch
+gréckych budúcich učiteľov. Zhromažďovanie údajov zahŕňalo pozorovania a reflexívne
+diskusie (Mamoura, 2016, s. 41-42). Na základe teórie transformatívneho učenia (sa)
+budúci učitelia spochybňovali svoje predchádzajúce koncepcie (resp. prekoncepcie)
+vyučovania dejepisu a ideálnych vlastností efektívneho učiteľa. Uvedomili si, že ich
+neskoršie pôsobenie v role učiteľa súvisí s ich IKV dejepisu a ich samých a vytvorili si
+nové spôsoby definovania svojho sveta a povinností. Bolo to umožnené príležitosťami
+a podporou, poskytovanými didaktikom. „Reflexívne orientované vyučovanie dejepisu
+a pedagogická prax by mohli viesť študentov k možnej transformácii ich prekoncepcií“
+(tamtiež, s. 45).
+Táto časť sumarizovala poznatky z výskumov uIKV a prípravy budúcich učiteľov
+dejepisu. Obe štúdie zdôrazňujú, aká náročná je príprava budúcich učiteľov, ak má
+zahŕňať vedenie k uvažovaniu o epistemologických presvedčeniach a jej cieľom je
+aplikovať postmodernistické kompetencie so všetkým, čo k nim patrí. Kľúčovým prvkom
+prípravy budúcich učiteľov je priestor na reflexiu, podnety na spochybňovanie
+predchádzajúcich koncepcií a predstavovanie alternatív. Ani to však nemusí ovplyvniť
+všetkých študentov.
+
+37
+
+2.3.4 Výskumy úspešnosti implementácie postmodernistickej koncepcie
+Táto časť sumarizuje rozmanité výskumy z rôznych krajín, ktoré informujú
+o úspešnosti/neúspešnosti implementácie postmodernistického kurikula do vyučovania
+dejepisu.
+Martínez-Rodríguez s kolegami (2019) kvalitatívne skúmal IKV učiteľov vo
+vzťahu ku kontroverznému obdobiu v moderných dejinách Španielska, prechodu
+k demokracii. Výskumníci si položili otázky: „Aké vedomosti a presvedčenia majú
+učitelia dejepisu v súvislosti s prechodom od diktatúry k demokracii v Španielsku? Ako
+interpretujú toto kontroverzné historické obdobie? Aké ciele a zámery majú učitelia
+dejepisu pri vyučovaní tohto konkrétneho kontroverzného historického obdobia? Ako
+ovplyvňujú vedomosti, presvedčenia a interpretácie učiteľov o tejto historickej udalosti
+ich koncepciu cieľov a účelov vyučovania?“ (Martínez-Rodríguez et al., 2019, s. 14).
+Participantmi bolo 39 stredoškolských učiteľov, zámerne vybratých z rôznych častí
+Španielska. Údaje boli získané prostredníctvom pološtruktúrovaných rozhovorov,
+umožňujúcich participantom rozvinúť odpovede. Rozhovory trvali 50-70 minút a mali
+dve časti, rozdelené podľa vedomostí a presvedčení učiteľov na: a) obsah, vedomosti,
+presvedčenia a interpretácie, a b) ciele a účely vyučovania. Kombinovaná analýza
+odpovedí a všeobecných interpretácií rozdelila koncepcie učiteľov do troch skupín:
+pozitívne-mýtické, pozitívne-kritické a negatívne-kritické. Väčšina učiteľov vyjadrila
+nejaký druh kritickej interpretácie, ktorá obsahuje „argumenty a historickú analýzu“.
+Štrnásť učiteľov (pozitívne-mýtickí) ukázalo len „uzavretý historický výklad bez
+interpretačného argumentu“ (tamtiež, s. 29), ich cieľom je odovzdávanie vzorovej
+histórie, kde samotný príbeh ponúka pozitívne hodnoty a poučenie. Iba malá časť učiteľov
+sa vo svojich cieľoch zameriava na interpretáciu a spochybňovanie minulosti
+postmodernistickým spôsobom. Tieto prípady boli častejšie vo vzťahu k negatívnekritickým koncepciám, teda sa zdá, že „ich vnímanie minulosti ovplyvňuje ciele ich
+učenia“ (tamtiež, s. 30). Negatívne-kritické názory prevládali v regiónoch so silnými
+regionalistickými hnutiami alebo hnutiami za nezávislosť, čo ukazuje, že veľký vplyv na
+koncepcie a historické interpretácie učiteľov majú médiá.
+Gracová a Labischová (2012) realizovali rozsiahly výskumný projekt, v ktorom
+skúmali vybrané aspekty historického vedomia a ich prepojenie s realitou dejepisného
+vyučovania na českých základných a stredných školách. Okrem iného zistili, že v českom
+
+38
+
+vyučovaní prevládajú tendencie súvisiace s modernistickou koncepciou pred
+postmodernistickou.
+Namamba a Rao (2016) v kontexte reforiem vzdelávania v Tanzánii hodnotili
+učiteľov vo vzťahu k histórii a vyučovacím prístupom. Epistemologické výskumné
+otázky zahŕňali okrem iného pohľad na históriu, vyučovacie prístupy, ich vzťah
+a prediktívnu schopnosť uIKV. Výskumnou vzorkou bolo 132 stredoškolských učiteľov.
+Kvantitatívny prieskum bol realizovaný prostredníctvom dotazníka, vytvoreného
+adaptáciou dvoch starších dotazníkov na skúmanie uIKV. Postmodernistická koncepcia
+zameraná na študenta sa vyskytovala častejšie, ako modernistická koncepcia zameraná na
+učiteľa. „Názory učiteľov na históriu pozitívne korelovali s vyučovacími prístupmi, s
+výnimkou subjektivistických presvedčení“ (Namamba a Rao, 2016, s. 215). „Typ školy a
+úroveň vzdelania mali významný vplyv na presvedčenie učiteľov o histórii“ (tamtiež, s.
+216). Táto štúdia odporúča, aby programy vzdelávania učiteľov „podporovali rozvoj
+vecných aj syntaktických vedomostí o histórii s cieľom zlepšiť vyučovacie postupy
+učiteľov, ako to presadzujú nedávne reformy vzdelávania“ (tamtiež, s. 203).
+Táto časť sumarizovala skúmanie úspešnosti prechodu od modernistickej
+koncepcie dejepisu k postmodernistickej. Pre Slovenskú republiku sme nenašli
+spoľahlivý prameň, najbližšie nám je Česká republika, ktorej dejepis nesie prevažne
+modernistické črty, čo môže byť u nás veľmi podobné.
+Táto podkapitola analyzovala štúdie skúmajúce IKV učiteľov dejepisu
+a sumarizovala v nich obsiahnuté poznatky. Jedným zo základných záverov je pohľad na
+modernistickú a postmodernistickú koncepciu. Ukázalo sa, že aj napriek snahám
+o presadenie postmodernistickej koncepcie vo vyučovaní prevládajú modernistické
+tendencie, konkrétne v štátoch ako: Fínsko (zhruba 20 ročná štúdia), Spojené štáty
+(zhruba 15 ročná štúdia), Anglicko, Island, Španielsko, Quebec (Kanada) a Česká
+republika (za posledných zhruba 10 rokov); na opačnej strane spektra ležia menšinové
+štáty Švédsko a Tanzánia, ktoré vo veľkom prešli k postmodernistickej koncepcii
+dejepisu. Pre Slovenskú republiku sme nenašli spoľahlivý výskum, naše skúsenosti však
+potvrdzujú zaužívaný modernistický prístup.
+Závery viacerých štúdii poukazovali na nedostatočnú prípravu budúcich učiteľov
+v duchu postmodernizmu, čo je problémom preto, lebo učitelia patriaci k modernizmu
+nedokážu rozvíjať historické myslenie a argumentovanie a kompetencie ako historická
+empatia. Zároveň zdôrazňovali potrebu skvalitnenia učiteľskej prípravy so zameraním na
+historiografiu, vyučovania lepšej prípravy učebných materiálov (kompetencia), priestor
+39
+
+na reflexiu a kvalitnú spätnú väzbu počas pedagogickej praxe. No ani kvalitnejšia
+príprava učiteľov nedokáže pozitívne ovplyvniť všetkých študentov. Pozoruhodným
+zistením je aj potvrdenie implicitného predpokladu, že na učiteľov dejepisu majú veľký
+vplyv médiá.
+
+2.4 Epistemologické presvedčenia a postmodernistická koncepcia histórie
+Táto podkapitola definuje najčastejšie skloňované pojmy vo vyššie uvedených
+štúdiách a síce epistemologické presvedčenia a postmodernistická koncepcia histórie
+(alebo dejepisu). Pochopenie tohto pojmu je kľúčové pre pochopenie súčasných diskusií
+o IKV učiteľov dejepisu.
+Od šesťdesiatych a sedemdesiatych rokov dvadsiateho storočia filozofi a historici
+otvárajú epistemologickú
+
+otázku
+
+a diskutujú
+
+o povahe
+
+historických
+
+naratívov
+
+(rozprávaní) (Šuch, 2015). Tým položili základ pre vznik novej filozofie histórie,
+zameranej na rozbor historických naratívov, ktorá býva nazývaná nová historiografia,
+niekedy naratívny konštruktivizmus. Táto narativistická filozofia histórie sa zaujíma
+o historický text, proces jeho vzniku a jeho vlastnosti. Takýto pohľad umožňuje chápanie
+histórie ako disciplíny (Zeleňák, 2007).
+Zeleňák (2007, s. 66) pre túto filozofiu stanovuje 6 základných premís:
+1. „V historickom diele je prítomná i fikcia (fiktívna dimenzia).
+2. Naratívna forma má zásadný vplyv na obsah historického diela.
+3. Historik má zásadný vplyv na obsah historického diela.
+4. Pravdivé zobrazenie minulosti je v istom zmysle nemožné.
+5. V histórii sa minulosť interpretuje.
+6. História je teda bližšia literatúre, resp. umeniu než vedám.“
+Táto nová filozofia (respektíve koncepcia) sa vo svojej podstate vyhranila voči
+bežne uznávanej modernistickej a preto dostala pomenovanie postmodernistická. Zatiaľ
+čo modernistická koncepcia tvrdí poznateľnosť minulej reality a to, že môže byť
+zastúpená v textoch historika (McCrum, 2013), oproti nej stojí postmodernistická
+koncepcia s tvrdením, že história nie je dokonalým odrazom minulosti, ale tvorivým
+dielom historikov, ich interpretáciou minulosti (Zeleňák, 2007; Elmersjö a Zanazanian,
+2022).
+
+40
+
+Za postmodernistickú koncepciu histórie sa postavil aj Európsky parlament (2024,
+písmeno G) s vyhlásením, že „historická pamäť (historical consciousness) zahŕňa jasný
+stupeň subjektivity, pretože to, čo si pamätáme a ako minulosť interpretujeme, si
+nevyhnutne vyberáme na základe svojich hodnotových úsudkov.“
+Samotný rozdiel medzi spomínanými filozofiami dejín je otázkou epistemológie.
+Epistemológia je charakterizovaná ako „teória vedeckého poznania“, epistemologické
+poznanie sa dá chápať ako „kognitívny proces umožňujúci jednotlivcovi zvážiť kritériá,
+limity a istotu poznania“ (Slovníkový portál, [neznámy rok]). Epistemologické
+presvedčenie jednotlivca definuje, čo považuje za vedomosti a ako ich možno získať
+a používať (VanSledright a Reddy, 2014). Epistemologické presvedčenia sú vo
+všeobecnosti „súdržný postoj týkajúci sa historického poznania, poznávania a s tým
+súvisiacich dôsledkov pre vyučovanie v škole“ (Maggioni et al., 2009, s. 191-196, cit. z:
+Ripka a Sýkorová, 2023, s. 56).
+V súčasnosti sú epistemologické presvedčenia učiteľov dejepisu považované za
+„veľmi vplyvné na ich vyučovaciu prax a za nevyhnutnú požiadavku na podporu
+zručností ich žiakov v oblasti historického myslenia“ (Wilke et al., 2022, s. 196).
+Ako sme naznačili vyššie, rozdielne perspektívy zahŕňajú protichodné tvrdenia
+a zamerania vyučovania (viď. Tabuľka 2).
+Modernistická perspektíva
+
+Postmodernistická perspektíva
+
+História = minulosť
+(naivné chápanie histórie)
+Prístup zameraný na učiteľa
+
+História = interpretácia minulosti
+(disciplinárne chápanie histórie)
+Prístup zameraný na žiaka
+
+Transmisívno-reproduktívna koncepcia
+organizačných foriem a prostriedkov
+
+Konštruktivistická koncepcia
+organizačných foriem a prostriedkov
+
+Tabuľka 2: Protichodné perspektívy, s nimi spojené tvrdenia a zamerania vyučovania
+
+Kým modernistický pohľad uprednostňuje prístup zameraný na učiteľa, ktorý je
+založený
+
+na
+
+prenose
+
+vedomostí
+
+(historických
+
+faktov,
+
+často
+
+podstatných),
+
+postmodernistický pohľad je spojený s prístupom zameraným na žiaka, v ktorom
+dominuje podpora uvažovania žiakov (Martínez-Rodríguez et al., 2016; Namamba a Rao,
+2016; Voet a De Wever, 2016). Učiteľ v ňom plní úlohu facilitátora navrhujúceho
+vzdelávacie aktivity, prostredníctvom ktorých žiaci vlastnou prácou nadobúdajú
+vedomosti
+
+a zručnosti
+
+(McCrum,
+
+2013).
+
+Vyučovacie
+
+metódy,
+
+uplatňované
+41
+
+v postmodernistickom dejepise, napríklad „bádateľské vyučovanie a historické myslenie
+sú založené na konštruktivistických prístupoch k vyučovaniu a učeniu sa, ktoré
+zdôrazňujú aktívnu úlohu žiakov pri vytváraní vedomostí“ (Namamba a Rao, 2016, s.
+208; Patricio et al., 2022). V protiklade ku konštruktivistickej koncepcii stojí
+transmisívno-reproduktívna (Patricio et al., 2022).
+V posledných rokoch patrí teória epistemologických presvedčení medzi horúce
+didaktické témy. Diskutovaná je povaha teórie, spôsob merania a súvislosť medzi
+epistemologickými presvedčeniami a ostatnými kľúčovými konceptmi súčasnej
+didaktiky, najmä historickým myslením, historickou gramotnosťou a bádateľsky
+orientovaným vyučovaním (Ripka a Sýkorová, 2023).
+Epistemologické presvedčenia sú stále pomerne neznáme, preto existuje viacero
+typológií. Podľa Ripku a Sýkorovej (2023) dve najvýznamnejšie typológie delia
+epistemologické presvedčenia na:
+a) tri kategórie: objektivizmus, subjektivizmus a kriterializmus (napr. Voet a De
+Wever, 2016; Martínez-Rodríguez et al., 2019). (Nitsche s Waldisovou (2022) delia
+učiteľov na pozitivistov, skeptikov a naratívnych konštruktivistov);
+b) jednu škálu od naivných presvedčení po nuansované (sofistikované) (napr. Patricio
+et al., 2022; Elmersjö a Zanazanian, 2022).
+Vo vyššie spomenutých výskumoch boli rôznymi autormi použité obe tieto
+typológie, čo dokazuje nejednotnosť odborného diskurzu (Ripka a Sýkorová, 2023).
+V našom výskume sa z dôvodu jednoduchosti a lepšieho podloženia odbornou literatúrou
+budeme pridŕžať druhej možnosti, ktorú sme načrtli v Tabuľke 2.
+Z vyššie
+
+analyzovaných
+
+štúdií
+
+vyplynuli
+
+nasledovné
+
+poznatky
+
+o epistemologických presvedčeniach:
+-
+
+Medzi epistemologickými presvedčeniami a vyučovacou praxou existuje
+vzťah, učitelia venujúci pozornosť „interpretačnému a konštruovanému
+charakteru dejín zastávajú nuansované epistemologické presvedčenia“, no nie
+naopak, nuansované epistemologické presvedčenia sa nie vždy odrazili vo
+vyučovacej praxi (Wilke et al., 2022, s. 211).
+
+-
+
+Sofistikované epistemologické predstavy o povahe histórie nevedú nutne
+k prijatiu interpretačného kurikula, spojeného s bádateľským prístupom
+(Patricio et al., 2022).
+
+-
+
+Epistemologické presvedčenia sú podmienkou rozvoja historického myslenia,
+no nie jedinou a dostačujúcou. Rozvoj epistemologických presvedčení
+42
+
+a historického myslenia prebieha prostredníctvom bádateľského vyučovania
+(Gruber a Gruber, 2013; Voet a De Wever, 2016; Wilke et al., 2022; Ripka
+a Sýkorová, 2023).
+Táto podkapitola definovala pojmy postmodernistická koncepcia histórie,
+respektíve dejepisu a epistemologické presvedčenia. Urobili sme tak prostredníctvom
+poukázania na výrazný filozofický (a historiografický) zlom v minulom storočí, ktorý
+priniesol alternatívu ku dovtedy zaužívanému modernistickému pohľadu na históriu.
+Príklon k postmodernistickej perspektíve priniesol najmä v posledných dvoch
+desaťročiach do popredia otázku epistemologických presvedčení v dejepise, ktoré
+zdôrazňujú skúmanie podstaty historického poznania a poznávania, a potrebu zmeny
+v školskom dejepise.
+Táto kapitola sumarizovala rôzne výskumy učiteľovej IKV a identifikovala
+a definovala najdôležitejšie pojmy. Prvá podkapitola sumarizovala vývoj skúmania
+problematiky uIKV od jej začiatku v sedemdesiatych a osemdesiatych rokoch
+dvadsiateho storočia, cez jej príchod do nášho geografického priestoru, až do súčasnosti,
+ako v našom prostredí, tak v zahraničí. Druhá podkapitola sumarizovala základné
+metódy, používané v skúmaní učiteľovej IKV. Tieto metódy sa líšia mierou náročnosti,
+ako aj mierou zapojenia výskumníka a samotného učiteľa. Tretia podkapitola analyzovala
+štúdie skúmajúce IKV učiteľov dejepisu a sumarizovala v nich obsiahnuté poznatky.
+Posledná podkapitola definovala pojmy postmodernistická koncepcia histórie/dejepisu
+a epistemologické presvedčenia.
+Teoretická časť stanovila teoretický rámec práce a základ pre výskum. Teoretická
+časť má dve kapitoly. Prvá kapitola mala za cieľ identifikovať pojem učiteľova
+individuálna koncepcia vyučovania. Kapitola je rozdelená do troch podkapitol. Prvá
+podkapitola definovala pojem učiteľova IKV, sumarizovala najfrekventovanejšie termíny,
+ktorými rôzni autori nazývajú uIKV a uviedla dôvod, prečo z množiny termínov v tejto
+práci používame práve uIKV. Nakoniec z vyššie uvedených definícii vyabstrahovala
+terminologický rámec novej definície učiteľovej IKV. Druhá podkapitola identifikovala
+bežný postup vzniku a utvárania sa uIKV počas života učiteľa. Tretia podkapitola
+sumarizovala základné charakteristiky uIKV. Jej jednotlivé časti opisovali vlastnosti IKV,
+funkcie IKV a ostatné dielčie charakteristiky. Učiteľovu IKV výstižne ilustruje metafora
+sita, ktoré triedi, čo si učiteľ pre seba zoberie a aplikuje v praxi a čo vynechá.
+Druhá kapitola sumarizovala domáce a zahraničné výskumy učiteľovej IKV
+a identifikovala a definovala najdôležitejšie pojmy. Kapitola je rozdelená do štyroch
+43
+
+podkapitol. Prvá podkapitola sumarizovala vývoj skúmania problematiky uIKV od jej
+začiatku v sedemdesiatych a osemdesiatych rokoch dvadsiateho storočia, cez jej príchod
+do nášho geografického priestoru, až do súčasnosti. Druhá podkapitola sumarizovala
+základné metódy, používané v skúmaní učiteľovej IKV. Tieto metódy sa líšia mierou
+náročnosti, ako aj mierou zapojenia výskumníka a samotného učiteľa. Tretia podkapitola
+analyzovala štúdie skúmajúce IKV učiteľov dejepisu a sumarizovala v nich obsiahnuté
+poznatky. Podkapitola má štyri časti. Prvá časť sumarizovala začiatky skúmania IKV
+učiteľov dejepisu, spolu s faktormi, ktoré učiteľovu IKV ovplyvňujú a typológiami, ktoré
+uvedení výskumníci navrhli. Druhá časť sumarizovala výskumy, zamerané na prvky
+postmodernistického dejepisu, ako bádateľské vyučovanie, historické myslenie
+a argumentovanie a kľúčové kompetencie. Tretia časť sumarizovala poznatky
+z výskumov uIKV a prípravy budúcich učiteľov dejepisu. Štvrtá časť sumarizovala
+skúmanie úspešnosti prechodu od modernistického dejepisu k postmodernistickému.
+Posledná podkapitola definovala pojmy postmodernistická koncepcia histórie,
+respektíve dejepisu a epistemologické presvedčenia.
+
+44
+
+EMPIRICKÁ ČASŤ
+
+3 ZMIEŠANÝ DIZAJN REALIZOVANÉHO VÝSKUMU
+V tejto kapitole vysvetľujeme stratégie a metódy, ktoré sme si zvolili pre výskum
+IKV učiteľov dejepisu. Kapitola je rozdelená do siedmich podkapitol, v ktorých
+opisujeme výskumný problém, ciele, postup, výskumnú vzorku, metódu, plánovaný vstup
+do terénu a postup pri analýze získaných dát.
+
+3.1 Výskumný problém
+V tejto podkapitole v celej šírke približujeme výskumný problém, ktorý je
+predmetom nášho skúmania. Podkapitola postupne vysvetľuje tému výskumu, súčasný
+stav a vymedzenie skúmanej problematiky, teoretickú orientáciu a syntézu výskumu
+v danej oblasti, sústavu použitých pojmov, formulovanie výskumného problému
+a predpokladaný prínos celého výskumu.
+Užšie zvolenou témou je charakteristika IKV budúcich učiteľov v rámci predmetu
+dejepis. Aby sme zdôvodnili výber danej témy, rozmeníme ju na drobné. IKV sme si
+zvolili, pretože neskúma iba vonkajšie prejavy učiteľa, ale preniká hlbšie, do jeho
+implicitného sveta (Dayan et al., 2022). Táto skutočnosť vychádza z charakteristík IKV,
+ktoré sme opísali v podkapitole 1.3. Vďaka tomu môžeme pozorovať smerovanie a širší
+rámec učiteľových úvah (Hamilton, 2006). Ako aprobačný predmet sme si zvolili dejepis,
+pretože nám je blízky a zároveň z pohľadu IKV v našich končinách nepreskúmaný.
+Nakoniec sme si zvolili budúcich učiteľov, čiastočne kvôli dostupnosti výberu výskumnej
+vzorky a zároveň, pretože sme predpokladali, že skúmaním ich myslenia a úvah v podobe
+poznania ich individuálnej koncepcie vyučovania možno predikovať budúcnosť
+vyučovania dejepisu, to, ako sa budú dejepis učiť nasledujúce generácie. Skúmanie IKV
+budúcich učiteľov dejepisu nám umožňuje pozorovať, ako sa bude dejepis učiť
+v budúcnosti, či chce byť nastupujúca generácia učiteľov a učiteliek dejepisu nositeľmi
+zmeny, alebo naopak sú skôr zástancami „tradičného“ poňatia predmetu a jeho
+vyučovania. Hoci v našom priestore problematika IKV nie je nová (okolo 40 rokov, viď
+podkapitola 2.1) a doteraz bolo realizovaných viacero štúdií, skúmajúcich IKV učiteľov
+konkrétneho vyučovacieho predmetu (Žoldošová, 2007; Tomkuliaková, 2012), IKV so
+45
+
+zameraním na učiteľov dejepisu podľa nám dostupných zdrojov ešte nebola skúmaná.
+Naproti tomu v zahraničnej odbornej literatúre sme našli viacero výskumníkov,
+skúmajúcich IKV tak aktívnych, ako aj budúcich učiteľov dejepisu so zameraním na
+rôzne elementy, napríklad prácu s kľúčovými kompetenciami (napr. Gestsdóttir et al.,
+2021), vplyv odbornej prípravy (napr. VanSledright a Reddy, 2014), alebo mieru
+implementácie postmodernistickej perspektívy (napr. Namamba a Rao, 2016; MartínezRodríguez et al., 2019). (Viď podkapitola 2.3.)
+O IKV učiteľov dejepisu vieme, že môže byť orientované (inklinovať)
+modernisticky, alebo postmodernisticky. Skôr ako o polaritu ide o spektrum medzi dvomi
+krajnými polohami (VanSledright a Reddy, 2014; Elmersjö a Zanazanian, 2022).
+Modernistická orientácia znamená, že učiteľ dejepisu nepozná rozdiel medzi minulosťou
+a históriou, preferuje transmisívny vyučovací štýl zameraný na učiteľa. Na opačnej strane
+spektra postmodernisticky orientovaný učiteľ dejepisu vníma rozdiel medzi minulosťou
+a históriou a jeho vyučovanie je konštruktivistické, zamerané na žiaka. (Viď Tabuľka 1
+v podkapitole 2.4.) Zaradenie v rámci tohto základného členenia je možné pozorovať už
+pri budúcich učiteľoch dejepisu (Virta, 2001; VanSledright a Reddy, 2014; Nitsche
+a Waldis, 2022).
+V minulej kapitole (podkapitola 2.3) sme spomenuli šesť výskumov, zvlášť
+zameraných na IKV budúcich učiteľov dejepisu. Vo Fínsku boli skúmané IKV budúcich
+učiteľov z pohľadu základného rámca histórie (Virta, 2001). V Anglicku bolo IKV
+budúcich učiteľov skúmané podľa prístupu/zamerania vo vyučovaní (McCrum, 2013).
+V Španielsku tím výskumníkov odhalil dve prekážky, ktoré musia budúci učitelia
+dejepisu prekonať, kým porozumejú a implementujú postmodernistický model dejepisu
+(Patricio et al., 2022). V nemecky hovoriacej časti Švajčiarska výskumníci skúmali
+faktory ovplyvňujúce postmodernistickú naratívnu kompetenciu budúcich učiteľov
+(Nitsche a Waldis, 2022). V Spojených štátoch boli skúmané zmeny IKV spôsobené
+špeciálnym kurzom na univerzite (VanSledright a Reddy, 2014). V Grécku boli počas
+vysokoškolskej praxe (reflexívne orientované vyučovanie ako cesta k práci s IKV)
+pozorovaní dvaja budúci učitelia (Mamoura, 2016).
+Spomenuté výskumy zhodne naznačujú kľúčový význam prípravy budúcich
+učiteľov. V rámci nej sú dôležité najmä špeciálne kurzy na vysokej škole (McCrum, 2013;
+VanSledright a Reddy, 2014; Patricio et al., 2022) a pedagogická prax (Mamoura, 2016).
+Problematika IKV (budúcich) učiteľov dejepisu v našom priestore dosiaľ nebola
+skúmaná, preto je zaujímavé zistiť, ako sú na tom slovenskí učitelia dejepisu, či inklinujú
+46
+
+k modernistickému, alebo postmodernistickému dejepisu, ako aj to, čo spôsobuje danú
+inklináciu.
+Pre lepšie pochopenie uvádzame základné pojmy, s ktorými pracujeme
+v empirickej časti práce. Patria medzi ne: IKV, modernistický/postmodernistický dejepis,
+didaktika dejepisu, pedagogická prax a budúci učitelia. Viaceré zo spomenutých pojmov
+sú širšie opísané v teoretickej časti.
+IKV je základný pedagogický rámec, ktorý podrobne definujeme v prvej kapitole
+tejto práce (viď kapitola 1).
+Modernistický/postmodernistický dejepis je spôsob poňatia dejepisu, súvisiaci
+s epistemologickými otázkami o povahe histórie (podrobne je opísaný v podkapitole 2.4).
+V súčasnosti je ideálom postmodernistický dejepis (Zeleňák, 2007; Elmersjö
+a Zanazanian, 2022; Európsky parlament, 2024).
+Didaktika dejepisu je na FiF UK povinný seminár, vyučovaný v dvoch semestroch
+(ako Didaktika dejepisu 1 a Didaktika dejepisu 2)4. Cieľom seminára je, aby študenti
+učiteľských kombinácií s aprobačným predmetom dejepis nadobudli „kľúčové
+kompetencie, ktoré spolu vytvárajú hlavné predpoklady k ich výučbe dejepisu na
+jednotlivých typoch škôl.“ (Informačný list predmetu: Didaktika dejepisu 1, 2022, s. 1)
+Pedagogická prax z dejepisu je na FiF UK povinná prax, rozdelená do troch
+semestrov (ako Pedagogická prax 1-3 (história)5). Táto prax má za cieľ rozvíjať
+„profesijné kompetencie nevyhnutné pre samostatné plánovanie, projektovanie, riadenie
+a organizáciu výchovno-vzdelávacieho procesu“, „spôsobilosti aplikovať pedagogickopsychologické a odborovo-didaktické poznanie vo výchovno-vzdelávacom procese“
+a iné kompetencie a spôsobilosti budúcich učiteľov, obohacovať študentov o „praktické
+skúsenosti“ a prehlbovať ich „teoretické poznatky“ (Informačný list predmetu:
+Pedagogická prax 2 (história), 2022, s. 1-2)
+Pedagogická teória, v našom prípade reprezentovaná didaktikou dejepisu
+a pedagogická prax sú „dve polárne stránky uvedomelej ľudskej činnosti, ako dialektické
+protiklady navzájom neoddeliteľné, vzájomne sa doplňujúce a podmieňujúce, avšak nie
+totožné“. (Štepitová, 1967, s. 111)
+Budúci učitelia sú v našom ponímaní študenti a študentky učiteľských
+kombinácií, ktorí sa na Filozofickej fakulte Univerzity Komenského v Bratislave
+
+Obe sa odohrávajú počas magisterského stupňa štúdia.
+Prebieha v letnom semestri tretieho ročníka bakalárskeho stupňa štúdia a v letnom semestri prvého
+ročníka a v zimnom semestri druhého ročníka magisterského stupňa štúdia.
+4
+5
+
+47
+
+pripravujú na svoju budúcu prácu učiteľov a učiteliek na druhom stupni základnej školy,
+alebo na strednej škole.
+Výskumným problémom, na ktorý sa zameriavame v tejto práci je vplyv didaktiky
+dejepisu a pedagogickej praxe počas vysokoškolského štúdia na individuálnu koncepciu
+vyučovania budúcich učiteľov dejepisu. V súvislosti so zvolenou výskumnou vzorkou
+chceme zistiť, či existuje rozdiel, medzi koncepciou študenta učiteľstva dejepisu pred
+absolvovaním didaktiky dejepisu a pedagogickej praxe a koncepciou študenta učiteľstva
+dejepisu po absolvovaní didaktiky dejepisu a pedagogickej praxe. Predpokladáme, že ak
+majú študenti v rôznych ročníkoch rovnakú, alebo veľmi podobnú IKV (respektíve
+prekoncepciu, viď podkapitolu 1.2), pregraduálna príprava je neúčinná. Taktiež nás
+zaujíma, či existuje rozdiel v koncepciách mužov a žien. A tiež to, v čom spočívajú tieto
+rozdiely.
+Nakoľko doteraz v našom prostredí nebola skúmaná IKV učiteľov dejepisu
+aktívnych, ani budúcich, touto prácou by sme chceli vyplniť prázdne miesto a spoznať,
+ako o dejepise a jeho učení uvažujú budúci učitelia. Zároveň by sme chceli zistiť, aký
+vplyv na IKV budúcich učiteľov dejepisu má didaktika dejepisu a pedagogická prax
+počas vysokoškolského štúdia. Tým by sme nadviazali na výskumy, spomenuté
+v podkapitole o utváraní IKV (podkapitola 1.2).
+V tejto časti sme opísali predpokladaný prínos nášho výskumu. Nielen že by bol
+nový na neprebádanom poli, ale mohol by pomôcť v porozumení utvárania IKV,
+respektíve prekoncepcie budúcich učiteľov počas vysokoškolského štúdia.
+V prvej metodologickej podkapitole sme opisovali výskumný problém, ktorému
+sa venujeme v tejto práci. Postupovali sme od témy výskumu, cez súčasný stav skúmania
+problematiky IKV budúcich učiteľov dejepisu, teoretickú orientáciu, definovanie
+základných pojmov a konkrétne formulovanie výskumného problému, až po
+predpokladaný prínos výskumu. Skúmanie problematiky IKV budúcich učiteľov dejepisu
+je v našom prostredí úplne nová téma, ktorá môže byť prínosná pre porozumenie
+utvárania učiteľovej IKV počas vysokoškolského štúdia.
+
+3.2 Ciele výskumu
+V tejto podkapitole zo širšie definovanej témy vyberáme ciele výskumu, teda
+zameranie v rámci témy. K opisu cieľov výskumu uvádzame hlavnú otázku a špecifické
+otázky, ktorými je možné zvolené ciele formulovať.
+48
+
+Naším cieľom je preskúmať a porozumieť IKV budúcich učiteľov dejepisu
+v štádiu jej utvárania počas vysokoškolského štúdia. Chceme skúmať vplyv didaktiky
+dejepisu
+
+a pedagogickej
+
+praxe,
+
+a tiež
+
+orientáciu
+
+voči
+
+modernistickej,
+
+alebo
+
+postmodernistickej koncepcii dejepisu.
+Hlavná výskumná otázka
+-
+
+Akú IKV majú budúci učitelia dejepisu?
+
+Špecifické výskumné otázky
+-
+
+Existuje rozdiel, medzi koncepciou študenta učiteľstva dejepisu pred
+absolvovaním didaktiky dejepisu a pedagogickej praxe a koncepciou
+študenta učiteľstva dejepisu po absolvovaní didaktiky dejepisu
+a pedagogickej praxe?
+
+-
+
+Existuje rozdiel v koncepciách mužov a žien?
+
+-
+
+V čom spočívajú tieto rozdiely?
+
+-
+
+Prikláňajú sa budúci učitelia dejepisu vo svojich IKV skôr k
+modernistickému modelu dejepisu, alebo k postmodernistickému?
+
+-
+
+Aký vplyv na túto orientáciu zohráva absolvovanie didaktiky dejepisu
+a pedagogickej praxe?
+
+V tejto podkapitole sme definovali výskumné ciele. Okrem opisu cieľov sme
+pridali hlavnú výskumnú otázku a špecifické výskumné otázky, ktoré sú zamerané na
+koncepcie budúcich učiteľov dejepisu, epistemologickú otázku, didaktiku dejepisu
+a povinnú pedagogickú prax.
+
+3.3 Výskumný postup
+Táto podkapitola približuje dizajn výskumu, teda celkovú výskumnú stratégiu
+a postup. Inak povedané, ide o súhru medzi voľbou skúmaných osôb, výskumnou
+metódou, analýzou údajov a tvorbou teórie.
+Keďže chceme skúmať IKV budúcich učiteľov dejepisu, našu výskumnú vzorku
+budú tvoriť študenti učiteľstva dejepisu v kombinácii s iným (ľubovoľným) aprobačným
+predmetom. Výskum bude prebiehať s uzavretou vzorkou participantov. Empirické údaje
+získame tak, že participantov podrobíme hĺbkovému pološtruktúrovanému rozhovoru,
+ktorý je zameraný na zisťovanie IKV a opiera sa o rotterovskú metódu neukončených
+výpovedí/viet. Zhromaždenými údajmi (záznamami) budú najmä prepis nahrávok
+rozhovorov a výskumný denník. Vo fáze spracovania záznamov budeme výroky
+49
+
+participantov kódovať, usporadúvať, analyzovať – pri analyzovaní použijeme metódu
+tematickej analýzy – a interpretovať.
+V tejto podkapitole sme naznačili vybraný výskumný postup od voľby skúmaných
+osôb – budúcich učiteľov dejepisu, cez použitú metódu – pološtruktúrovaný rozhovor, až
+po analýzu a vyhodnotenie.
+
+3.4 Výskumná vzorka
+V tejto podkapitole charakterizujeme výskumnú vzorku, s ktorou budeme
+pracovať, aby sme získali čo najlepšie údaje a pochopili skúmaný jav. Najprv uvádzame
+kritériá, ktorými sme sa riadili pri výbere výskumnej vzorky, následne charakterizujeme
+výskumný súbor participantov.
+V súlade s výskumným cieľom, ktorým je spoznať rozdiely v IKV budúcich
+učiteľov dejepisu sme sa rozhodli výskumný súbor zložiť zo študentov učiteľstva dejepisu
+v kombinácii. Aby sme rozšírili základný súbor, z ktorého môžeme čerpať participantov,
+rozhodli sme sa nešpecifikovať druhý aprobačný predmet, takže môže byť ktorýkoľvek.
+Náš výber je teda kritériový. Okrem toho je náš výber dostupný, rozhodli sme sa pracovať
+so študentami Filozofickej fakulty Univerzity Komenského v Bratislave.
+Konkrétne kritériá sú:
+1. Budúci učitelia dejepisu, študenti učiteľstva histórie v ľubovoľnej
+kombinácii, študujúci históriu na FiF UK v Bratislave.
+2. Študenti z 2. ročníka bakalárskeho stupňa štúdia a z 2. ročníka
+magisterského stupňa štúdia6 v akademickom roku 2023/2024.
+3. Z každého ročníka jeden študent a jedna študentka.
+Výskumná vzorka teda bude pozostávať zo štyroch participantov. Budú ju tvoriť
+druhák a druháčka a piatak a piatačka.
+Piataci boli oslovení osobne, cez autorovu sieť kontaktov, nakoľko sú jeho
+spolužiakmi. Participanti z druhého ročníka boli najprv oslovení hromadným mailom, na
+ktorý nikto z nich nereagoval a následne osobnými správami. Rozhovory boli urobené
+s prvými ochotnými, ktorí spĺňali vyššie uvedené kritériá. Keďže výskumná vzorka
+nebola vyberaná náhodne, v zhode s Voetom a De Weverom (2016) predpokladáme, že
+
+Ďalej v práci tieto pomenovania z praktických dôvodov zjednodušíme na druhákov (2. ročník
+bakalárskeho stupňa) a piatakov (2. magisterského stupňa).
+6
+
+50
+
+prví, ktorí reagovali na ponuku participovať na výskume, môžu byť tými najaktívnejšími
+budúcimi učiteľmi a tým pádom nie dokonalými reprezentantmi širšej skupiny budúcich
+učiteľov dejepisu, no nemusí to tak byť.
+Pri výskume budú dodržané etické normy univerzity, participantom bude zaručená
+anonymita, vrátane zamenenia mien (použitia pseudonymov) a budú mať možnosť
+kedykoľvek opustiť výskum.
+
+3.4.1 Opis participantov
+V tejto časti poskytujeme základný opis participantov. Participanti sú zoradení
+podľa poradia, v akom sa zúčastnili výskumného rozhovoru. Použité mená sú v súlade
+s etickými zásadami pseudonymami, chrániacimi identitu participantov. Z každého
+z dvoch vybraných ročníkov participovali 1 študent a 1 študentka, teda spolu dvaja
+študenti a dve študentky. Spomenuté údaje sa vzťahujú k letnému semestru
+akademického roka 2023/2024.
+Artuš je študentom piateho ročníka učiteľstva histórie v kombinácii s angličtinou.
+Pochádza z Nitrianskeho kraja. Popri štúdiu učí angličtinu na základnej škole.
+Ludit je študentom druhého ročníka učiteľstva histórie v kombinácii
+s angličtinou. Pochádza z Bratislavského kraja. Popri štúdiu doučuje, no nie dejepis.
+Aténa je študentkou piateho ročníka učiteľstva histórie v kombinácii so
+slovenským jazykom a literatúrou. Pochádza z Prešovského kraja.
+Stela je študentkou druhého ročníka učiteľstva histórie v kombinácii so
+slovenským jazykom a literatúrou. Pochádza z Trenčianskeho kraja.
+V tejto časti sme opísali participantov nášho výskumu. Ide o študenta a študentku
+piateho ročníka a študenta a študentku druhého ročníka. Zhodou okolností je druhým
+aprobačným predmetov študentov (Artuš a Ludit) anglický jazyk a literatúra a študentiek
+(Aténa a Stela) slovenský jazyk a literatúra.
+V tejto podkapitole sme charakterizovali výskumnú vzorku, na ktorej budeme
+realizovať výskum. Uviedli sme kritériá a opísali participantov, ktorí nám poskytovali
+údaje, potrebné na naplnenie výskumného cieľa.
+
+3.5 Výskumná metóda
+
+51
+
+V tejto podkapitole vysvetľujeme použité metódy zberu výskumných dát aj so
+zdôvodnením ich výberu. Ďalej opisujeme použitý výskumný nástroj.
+Ako hlavnú metódu zberu dát sme zvolili hĺbkový pološtruktúrovaný rozhovor
+formou nedokončených viet. Táto metóda je založená na podnetových výrokoch
+rotterovského typu. Na základe zvolenej metódy sme vytvorili vlastný výskumný nástroj.
+Upravili sme a spojili Dotazník UPV (Mareš, 1987) a Dotazník študentského poňatia
+vyučovania (Švec, 1995), ku ktorým sme pridali 5 epistemologických otázok o povahe
+histórie (Virta, 2001), ktoré sme adaptovali na rotterovské nedokončené výpovede.
+Výroky všeobecného nástroja IKV boli prispôsobené najskôr budúcim učiteľom
+a následne učiteľom dejepisu. Nepodarilo sa nám zachovať všetky výroky, no zostali sme
+pri pôvodných 6 celkoch (témach). Na záver sme pridali ešte jeden záverečný výrok,
+týkajúci sa všetkých predchádzajúcich celkov (tém). Tým vznikol substrát 48 otázok,
+tvoriacich spomínaný pološtruktúrovaný rozhovor. Všetky otázky cielia na vyššie
+kognitívne procesy.
+Témy
+
+Počet položiek
+
+Proporcia [%]
+
+(1.) Ciele
+
+10
+
+20,8
+
+(2.) Učivo
+
+5
+
+10,4
+
+(3.) Žiak a trieda
+
+14
+
+29,2
+
+(4.) Vyučovacie metódy
+
+8
+
+16,7
+
+(5.) Učiteľ
+
+6
+
+12,5
+
+(6.) Okolie
+
+4
+
+8,3
+
+Záver
+
+1
+
+2,1
+
+spolu
+
+48
+
+100
+
+Tabuľka 3 Špecifikačná tabuľka výskumného nástroja.
+
+Spomenutú metódu považujeme z hľadiska očakávaných výsledkov za silnú,
+pretože spája overené nástroje s otázkami priamo zameranými na skúmanú problematiku
+IKV učiteľov dejepisu. Vybraná výskumná metóda je založená na overených postupoch
+a metódach, zároveň vhodne upravená, aby dokázala splniť ciele výskumu. Na použitie
+zvolenej výskumnej metódy sme pripravení aj vďaka technickým pomôckam, ako sú
+diktafón a prezentácia s vypísanými neukončenými výpoveďami/vetami.
+V tejto podkapitole sme opísali zvolenú metódu zberu výskumných dát. Tou
+metódou je pološtruktúrovaný rozhovor vo forme rotterovských neukončených
+
+52
+
+výpovedí/viet, vytvorený spojením overeného nástroja a špeciálnych otázok, zameraných
+na IKV učiteľov dejepisu.
+
+3.6 Vstup do terénu
+V tejto podkapitole opisujeme vstup do terénu, spôsoby nadviazania pracovných
+vzťahov s participantmi výskumu, časový rozvrh práce v teréne a následnej analýzy.
+Pološtruktúrovaný rozhovor s participantmi sme realizovali od konca februára
+2024 do začiatku apríla 2024. Najprv sme sa oboznámili s nám dostupnou odbornou
+literatúrou o učiteľovej IKV a zvlášť IKV aktívnych aj budúcich učiteľov dejepisu (viď
+podkapitola 2.3). Štúdium literatúry poslúžilo ako teoretický podklad pre realizáciu
+pološtruktúrovaného rozhovoru. Následne sme vytvorili výskumný nástroj –
+pološtruktúrovaný rozhovor (viď podkapitola 3.5). Potom sme pracovali na získaní
+participantov, piatakov sme oslovili osobne, cez vlastnú sieť spolužiackych kontaktov.
+Potenciálni participanti z druhého ročníka boli najprv oslovení hromadným mailom, na
+ktorý nikto neodpovedal a následne osobnými správami v aplikácii MS Teams. Keďže
+sme si vopred kriteriálne určili počty participantov (viď podkapitola 3.4), na
+pološtruktúrovaný rozhovor sme pozvali prvých, ktorí spĺňali uvedené kritériá a boli
+ochotní participovať.
+Zber dát prebiehal priamou účasťou výskumníka so štyrmi vybranými
+participantmi. Na prvom rozhovore bola prítomná aj naša pani školiteľka. Miesto a čas
+realizácie pološtruktúrovaného rozhovoru boli vždy dopredu dohodnuté. Všetky sa
+odohrali v budove Filozofickej fakulty UK na Gondovej ulici v Bratislave. Dbali sme,
+aby miesto realizácie bolo tiché a bez výraznejších rušivých elementov. Zber dát
+prebiehal nasledovne: najprv sme sa snažili s každým participantom nadviazať priateľskú
+atmosféru (tzv. raport, Gavora, 2006), následne sme participanta oboznámili s naším
+výskumom a absolvovali pološtruktúrovaný rozhovor. Nakoniec sme každému
+participantovi ešte raz poďakovali, spýtali sa ho na niektoré doplňujúce informácie
+a ponúkli sme možnosť vymyslieť si pseudonym, ktorým bude v práci utajená jeho/jej
+identita. Po rozlúčení s participantom sme dojmy z rozhovoru zaznamenali do
+výskumného denníka a pristúpili sme k prepisu dát s podporou online nástroja od BEE
+TECHNOLOGIES.
+Po získaní prepisu výskumných dát sme prepisy spracovali a jednotlivé výroky
+participantov okódovali, predpokladáme, následne sme ich analyzovali, pričom sme
+53
+
+použili tematickú analýzu (Gavora, 2006; viď podkapitola 3.3), ktorú budeme realizovať
+v prvej polovici apríla 2024 a vyhodnocovať od druhej polovice apríla, do júna 2024.
+V tejto podkapitole sme opísali vstup do terénu, organizáciu a priebeh získavania
+výskumných dát a celkový časový plán nášho výskumu.
+
+3.7 Postup pri analýze získaných dát
+V tejto podkapitole v nadväznosti na predchádzajúcu podkapitolu vysvetľujeme
+spôsob záznamu údajov a ich archivácie, postup spracovania a predpokladaný spôsob
+analýzy a interpretácie výskumných dát.
+Záznam výskumných dát bude vykonaný pomocou diktafónu (nahrávacieho
+zariadenia) a uložený na externom úložisku. Spracovanie dát bude prebiehať formou
+tematickej analýzy textu (viď podkapitola 3.3). Z dôvodu rozsahu tejto práce sme
+nevykonávali spätnú verifikáciu zistení.
+V plánovanom postupe sme sa inšpirovali metodológiou, predloženou Gavorom
+(2006), ktorý analýzu rozdelil do šiestich častí. Najprv sme získané záznamy prepísali
+a logicky usporiadali. Celý proces prebiehal digitálne, pomocou dostupných
+počítačových programov (Bee Technologies, MS Word, Canva, ...). Následne sme
+opakovaným čítaním záznamov získali prehľad o zhromaždenom materiáli. Týmto
+čítaním sme identifikovali významové kategórie a označili ich, čím sme získali tzv. kódy.
+V ďalšom kroku sme vytvorili zoznam kódov, z ktorého usporiadaním vzišla hierarchia
+pojmov, so vzájomnými vzťahmi. Napokon sme naše zistenia interpretovali.
+V tejto podkapitole sme objasnili postup pri analyzovaní získaných výskumných
+dát v rámci metódy tematickej analýzy.
+V tejto metodologickej kapitole sme zhrnuli stratégie a metódy, zvolené pre
+výskum IKV budúcich učiteľov dejepisu. Najprv sme formulovali výskumný problém
+s podrobným opisom témy výskumu a definovaním základných pojmov, ďalej sme
+vysvetlili ciele výskumu, výskumný postup, výskumnú vzorku, výskumnú metódu
+a nakoniec sme opísali vstup do terénu, predbežný harmonogram a postup pri analýze
+získaných výskumných dát.
+
+54
+
+4 INDIVIDUÁLNA KONCEPCIA VYUČOVANIA BUDÚCICH
+UČITEĽOV DEJEPISU: VÝSKUMNÉ ZISTENIA
+V tejto kapitole prezentujeme závery nášho výskumu. Kapitola je rozdelená na
+štyri podkapitoly. Prvá podkapitola sumarizuje výskumné zistenia o jednotlivých
+participantoch. Druhá podkapitola zovšeobecňuje zistenia o IKV budúcich učiteľov
+dejepisu. Tretia podkapitola hodnotí limity nášho výskumu. Posledná podkapitola stručne
+prezentuje hlavné závery nášho výskumu.
+
+4.1 Individuálna koncepcia vyučovania budúcich učiteľov dejepisu
+V tejto podkapitole sprístupňujeme hrubé údaje, ktoré sme získali a ktoré
+považujeme za užitočný vstup do zvolenej problematiky. Výskumné zistenia
+prezentujeme jednotlivo po participantoch, pričom opis sústredíme okolo štyroch bodov:
+1) osobnosť, vrátane najvýznamnejších vplyvov, formujúcich individuálnu koncepciu,
+respektíve prekoncepciu, 2) ciele pri vyučovaní dejepisu, 3) metódy a prostriedky, ktoré
+považuje za dôležité pri vyučovaní dejepisu, 4) epistemologickú otázku, teda inklináciu
+skôr k modernistickému, alebo postmodernistickému vyučovaniu dejepisu. Nakoľko je to
+možné, pokúšame sa prepojiť každého participanta s jedným z profilov Evansovej (1989)
+typológie učiteľov dejepisu. Poradie participantov koreluje s poradím, v akom sa
+zúčastnili výskumného rozhovoru.
+
+4.1.1 Artuš
+Participant Artuš kladie veľký dôraz na komunikáciu, ktorá sa zdá byť jeho silnou
+stránkou, a na dobré otázky. Z pohľadu dejinných období sa zameriava na stredovek,
+v príkladoch, ktoré použil, sa zľahka dotkol novoveku a najnovších dejín. Zdá sa, že jeho
+koncepciu najvýraznejšie formovala didaktika dejepisu a v menšej miere skúsenosti
+z praxe. Veľmi rád zapája humor. Neporozumel názornosti a nepozná dejepisné
+kurikulum. Hoci prejavuje hlavne intelektuálny záujem o históriu, vďaka stredoveku
+a historickému šermu je zmiešaný s emocionálnym (Virta, 2001).
+
+55
+
+Vo vyučovaní sú jeho cieľmi prepájanie minulosti s prítomnosťou, objasňovanie
+historických súvislostí, pričom zdôrazňuje pochopenie minulosti, na úkor memorovania7.
+Za dôležitý považuje syntetický prehľad dejín a dejiny ideí a každodennosti. Žiaci by
+z jeho dejepisu mali mať poučenie do svojich životov.
+Čo do vyučovacích metód a prostriedkov, Artuš uprednostňuje menej monológu
+a viac inovatívnych prvkov, medzi ktoré radí mapy, videá, interaktívne materiály
+a prístupy, pojmové mapy, skupinové aktivity, prácu s prameňom a doplnkovými
+materiálmi. Opakovane zdôrazňuje komunikáciu. Vo vzťahu k digitálnym technológiám
+vystupuje skôr obozretne. Preferuje úlohy s vyššou kognitívnou náročnosťou.
+Hoci nerozlišuje históriu od minulosti, javí náznaky konštruktivistickej
+organizácie foriem a prostriedkov, jeho učiteľský prístup je zameraný na žiaka
+a neopomína prácu s prameňom. Tieto ukazovatele ho podľa členenia radia ku učiteľom
+s postmodernistickou koncepciou. Podľa Evansovej (1989, s. 214) typológie učiteľov
+dejepisu je Artuš pravdepodobne „relativistom/reformátorom“.
+
+4.1.2 Ludit
+Participant
+
+Ludit
+
+má
+
+príjemný
+
+prístup
+
+a záujem
+
+ísť
+
+učiť,
+
+spojený
+
+s uvedomovaným idealizmom a obavami z pedagogickej reality. Rád používa humor.
+Nepozná kurikulum, ani učebnice. Formovali ho negatívne skúsenosti s učiteľmi na
+základnej a strednej škole a ešte výraznejšie pozitívne skúsenosti s nadšenou
+dejepisárkou a interaktívne vyučovaný dejepis. Navyše spomína teoretické vedomosti
+z vysokej školy, najmä z predmetov všeobecná didaktika a pedagogická komunikácia.
+Medzi jeho hlavné ciele patrí nadchnúť, zaujať žiakov, je zásadne proti
+memorovaniu sa rokov, dôraz kladie na pochopenie historických súvislostí a prítomnosti,
+čo súvisí s jeho intelektuálnym záujmom o históriu (Virta, 2001). Zdôrazňuje prínos dejín
+každodennosti, hoci neuviedol žiaden konkrétny príklad (viď Tabuľka B v prílohe).
+Rozvíjaním schopnosti kriticky hodnotiť historické udalosti cieli na vysokú kognitívnu
+hladinu (Šutovcová, 2020).
+Vo vyučovaní plánuje výklad striedať rôznymi aktivitami, pričom zdôrazňuje
+inovatívnosť a interaktívnosť. Niektorými z ním preferovaných prvkov vyučovania sú:
+
+Pod memorovaním participanti rozumejú učenie sa naspamäť veľké množstvo dátumov, alebo suchých
+faktov.
+7
+
+56
+
+modulové sedenie, tzv. ‚miniprojektíky‘, interaktívne prezentácie cez edupage,
+multimediálny prístup. Spomenul aj pramene a náročnosť práce s nimi, ale ďalej ich
+nerozvíjal. V oblasti digitálnych technológií prejavuje ochotu experimentovať, cieľom
+má byť zaujatie žiakov. Opakovane zdôrazňoval diagnostikovanie a spätnú väzbu, čo
+môže súvisieť s neistotou.
+Ako jediný jasne poukázal na rozdiel medzi históriou a minulosťou (história je
+rekonštrukciou
+
+minulosti),
+
+vyjadril
+
+prístup
+
+zameraný
+
+na
+
+žiaka
+
+a naznačil
+
+konštruktivistickú koncepciu organizačných foriem a prostriedkov. Na druhej strane však
+nie je jasne vyprofilovaný, jeho IKV je skôr prekoncepciou so známkami
+postmodernistického prístupu. Z Evansovej (1989, s. 214) typológie učiteľov dejepisu sa
+na Ludita najviac hodí pravdepodobne „vedecký historik“.
+
+4.1.3 Aténa
+Participantka Aténa je priateľskou, komunikatívnou osobou, ktorá nechce byť
+autoritatívnou učiteľkou. Za vysokú hodnotu považuje tvorivosť, ktorú opakovane
+spomína aj v súvislosti s komunikáciou. Nemá prehľad o učebniciach, nepozná
+kurikulum, nemá naštudované nové metódy, mala problém s pochopením názornosti.
+Ohľadom pedagogického pôsobenia cíti neistotu kvôli nedostatku odborných
+historických vedomostí. Cíti potrebu nabratia skúseností. Formovali ju hlavne didaktika
+dejepisu a prax, z ktorej uvádza mnohé praktické príklady. Popri tom spomenula vplyv
+slovenského jazyka a literatúry a tvorivého písania.
+Pri cieľoch zdôrazňuje zvládnutie základného učiva, spojeného s čulou
+komunikáciou a záujmom o dejepis. Metaforicky opisuje aktuálny úžitok z dejepisu,
+výstrahy, poučenie a mravoučnú hodnotu, okrem toho vo veľkej miere aj nadchnutie sa
+históriou, snenie, fantazírovanie, teda emocionálne dôvody záujmu o históriu (Virta,
+2001). Má záujem rozvíjať tvorivosť a komunikačné zručnosti žiakov. Neschvaľuje holú
+chronológiu a memorovanie, zdôrazňuje potrebu poznať význam a dôsledky. Spomenula,
+že vedomosti sú menej dôležité ako vyjadrenie názoru.
+Medzi
+
+jej
+
+obľúbené
+
+metódy
+
+diskutovanie,
+
+filozofovanie,
+
+uvažovanie,
+
+polemizovanie, špekulovanie, otvorené otázky, aj otázky bez jasnej odpovede, schopnosť
+obhájiť argument, pričom považuje za dôležité rozumieť, ktorú metódu kedy použiť.
+Preferuje kognitívne náročnejšie, názorné, abstraktnejšie úlohy. Chce žiakov zaujať
+a tvorivo s nimi diskutovať. Niektoré z jej vyučovacích prostriedkov sú: projektové
+57
+
+vyučovanie, hranie scénok, videá, ‚oral history‘, práca s odbornou literatúrou, podcasty,
+dokumentárne filmy, filmy a seriály, komiks, tvorivé písanie, brainstorming. Vníma
+veľký potenciál digitálnych technológií v pritiahnutí žiakov, zároveň vníma ich negatíva,
+to, že ich žiaci zneužívajú.
+Nerozlišuje históriu a minulosť, na druhej strane sa jasne zameriava na žiakov,
+hovorí o prispôsobovaní sa im, chce plniť úlohu sprievodcu, čo, zdá sa, nutne
+nekorešponduje s rolou facilitátora, naznačuje prvky postmodernistického vyučovania
+ako bádateľské vyučovanie (Voet a De Wever, 2016) a rozvíjanie kompetencie historickej
+empatie (Bartelds et al., 2020). V Evansovej (1989, s. 214) typológii učiteľov dejepisu
+Aténe zodpovedá asi „kozmický filozof“.
+
+4.1.4 Stela
+Participantka Stela je prívetivá, trpezlivá a komunikatívna, ešte nikdy neučila,
+nepozná kurikulum, tematické celky v učebnici, ani inovatívne metódy, javí neistotu do
+budúcnosti
+
+a opakuje
+
+potrebu
+
+nabratia
+
+praxe
+
+a skúseností. Jej
+
+prekoncepciu
+
+najvýraznejšie formovali skúsenosti počas školovania na základnej, strednej, aj vysokej
+škole, pričom spomenula priveľkú teoretickosť prednášok z predmetov spoločného
+pedagogického základu.
+Jej cieľom je čo najviac zapojiť žiakov, motivovať ich, vysvetliť im prínos,
+aktivizovať ich, spomenula, že dejepis nemajú vnímať ako voľno. Aby žiaci nemali
+monotónne hodiny, plánuje zapájanie nových metód. Brojí proti memorovaniu a suchej
+faktografii a zameriava sa na prínos, úžitok pre žiakov, aj na pikošky. Prínos histórie
+vníma najmä intelektuálny (Virta, 2001) v podobe utvárania svetonázoru, uchovávania
+pamäte a tradícií a v predchádzaní opakovaniu minulých chýb
+V závislosti od triedy a žiakov plánuje používať rôzne metódy: diktovanie
+poznámok, prezentácie, pracovné listy, aktivizovanie žiakov, multimediálne vyučovanie,
+krátke domáce úlohy, videá, spoločnú skupinovú prácu, spolužiacke vysvetľovanie,
+plagátové vyučovanie (‚postery‘), exkurzie, interaktívny dejepis, dobové artefakty
+a pramene spojené s ich analýzou. Veľký dôraz kladie na diskusie, otvorené otázky, ktoré
+sú pre ňu dôležitejšie ako dobré známky, uvažovanie, vyššiu kognitívnu náročnosť úloh
+a otázok, zapájanie, aktivizovanie žiakov, otázky zamerané na zisťovanie názorov. Cez
+prizmu vlastných skúseností vníma digitálne technológie ako dobrého sluhu, ale zlého
+pána.
+58
+
+Neuvažovala o koncepte histórie a minulosti, no uvedomuje si interpretačnú
+povahu histórie (Patricio et al., 2022) a potrebu pozerať sa aj ‚z druhej strany‘ a rozvíjať
+osobnosti žiakov vedením k vlastnému interpretovaniu. Popri tom naznačila kompetenciu
+historickej empatie (Bartelds et al., 2020) a prístup zameraný na žiaka. Podľa Evansovej
+(1989, s. 214) typológie učiteľov dejepisu je Stela „relativista/reformátor“, alebo
+„eklektik“.
+V tejto podkapitole sme sprístupnili hrubé údaje, získané o participantoch nášho
+výskumu. Údaje sme roztriedili do štyroch bodov: osobnosť, ciele, metódy
+a epistemológia. Aj napriek tomu, že viacerí participanti kládli dôraz na diskusiu, nikto
+z nich sa nedostal ku kompetencii historického argumentovania (Gestsdóttir et al., 2021;
+Patricio et al., 2022). Všetci spomenuli dejiny každodennosti (hoci k nim uviedli menej
+príkladov), rovnako sa všetci postavili zásadne proti memorovaniu a akcentovali učebné
+úlohy s vyššou kognitívnou náročnosťou. Úžitok do života ako jeden z cieľov vyučovania
+dejepisu (Martínez-Rodríguez et al., 2019) priamo spomenuli všetci okrem Ludita.
+Zvláštnym javom je, že tak druháci, ako aj piataci spomínali porovnateľne málo
+odborných
+
+pedagogických
+
+pojmov,
+
+s najvyššou
+
+frekvenciou
+
+sa
+
+vyskytovali
+
+v odpovediach Ludita (okrem iných: lešenie, modulové vyučovanie). Z pohľadu
+základnej
+
+epistemologickej
+
+orientácie
+
+všetci
+
+štyria
+
+participanti
+
+inklinujú
+
+k postmodernistickému dejepisu.
+
+4.2 Výskumné zistenia
+V tejto podkapitole zovšeobecňujeme výskumné zistenia o IKV budúcich
+učiteľov dejepisu vo vzťahu k vyučovaniu didaktiky dejepisu a k pedagogickej praxi
+a dávame ich do súvisu inými, nám dostupnými výskumami. S pomocou špecifických
+výskumných otázok odpovedáme na hlavnú výskumnú otázku: Akú IKV majú budúci
+učitelia dejepisu? (viď podkapitola 3.2). Postupne hodnotíme epistemologické odlišnosti
+participantov, rozdiely medzi druhákmi a piatakmi a rozdiely medzi mužmi a ženami.
+Jednotlivé výpovede participantov citujeme z prepisu, ktorého časť uvádzame medzi
+prílohami.
+Pri základnom rozdelení perspektív histórie a dejepisu na modernistickú
+a postmodernistickú sme pozorovali rozdiely vo: 1) vnímaní vzťahu medzi históriou
+a minulosťou, 2) prístupe učiteľa, 3) koncepcii organizačných foriem a prostriedkov (viď
+Tabuľka 2, v podkapitole 2.4). Zatiaľ čo pri otázke vzťahu histórie a minulosti (naivné
+59
+
+alebo disciplinárne chápanie histórie8) participanti neboli jednotní, druháci vyjadrili
+interpretačnú povahu histórie, kým piataci medzi nimi nevideli rozdiel, všetci participanti
+sa v prístupe zameriavajú na žiaka a uprednostňujú prvky konštruktivistickej koncepcie
+organizačných foriem a prostriedkov.
+Ludit a Stela vystihli interpretačnú povahu histórie (Patricio et al., 2022), zatiaľ
+čo Artuš s Aténou neodlíšili históriu od minulosti. Ludit koncept histórie chápe ako snahu
+o rekonštrukciu minulosti, povedal: „možno to tak poučkovo poviem, ale myslím si, že
+to mi dáva najviac zmysel, že taká tá rekonštrukcia, snaha o rekonštrukciu minulosti“ (s.
+2, r. 41-42). Stela spomenula interpretovanie minulosti až 14 krát, hoci ani raz
+nespomenula priamo interpretačnú povahu histórie, z povedaného je cítiť, že jej aspoň do
+istej miery rozumie. Artuš povedal: „koncept histórie chápem ako... no hovorím, tá
+minulosť, no ale minulosť je veľmi všeobecný pojem, preto hovorím viac tie skutky,
+udalosti, názorové prúdy a také veci. Čo sa jednoducho, čo ľudia robili, čo mysleli ako
+žili, to je tak. Všetko, čo bolo akože by predtým alebo že všetko, čo ľudia si zažili, je
+akoby história, takže ako keby to, ako keby je to ako nejaký sled nejakých zážitkov a
+zážitok môže byť všetko“ (s. 3, r. 15-18), čím postavil históriu a minulosť na rovnakú
+úroveň. Aténa si počínala podobne, keď metaforicky opísala históriu ako minulosť
+slovami: „koncept histórie chápem aj ako takú knihu, encyklopédiu, keď sme ako deti si
+pozerali nejaké tie obrázky, že čím sme si preš.., čo sme, čo sme prežili, čo sme videli,
+čiže ako taká zaujímavá kniha“ (s. 3, r. 20-22).
+Je to zvláštne, pretože druhí menovaní sa na didaktike dejepisu s niečím
+podobným, aspoň naznačeným, pravdepodobne stretli. Predpokladáme, že na tento
+rozdiel nemá vplyv didaktika dejepisu, ani pedagogická prax, ale nejaký iný, nám
+neznámy faktor.
+Prístup učiteľa zameraný na žiaka participanti vyjadrovali podchvíľou, ilustrujú
+to napríklad výpovede Artuša: „... tie osnovy dejepisu sa, zaujímajú o toho žiaka,
+zaujímajú sa o jeho názor a chcú mu povedať tie pojmy ...“ (s. 34, r. 12-13) a Stely: „...
+sa budem snažiť ich aktivizovať, že aby to nebolo len také, že to bude môj výklad a oni
+tam budú počúvať alebo teda inými slovami spať na tej hodine, ale naozaj ich zapájať,
+takže aby bol každý ten žiak zapojený a nebolo to len môj výklad“ (s. 15, r. 32-34).
+Vyjadrenia o zapájaní žiakov sa opakovane vyskytovali u všetkých participantov.
+
+Lepšie vyjadrenie tu komplikuje vyššie spomenutá nemožnosť ekvivalentného prekladu z angličtiny, kde
+‚history‘ predstavuje dejiny aj vednú disciplínu.
+8
+
+60
+
+Konštruktivistická koncepcia je zjavná napríklad s práce s prameňom, ktorú
+podtrhujú slová Ludita: „... viacej fotografií, viacej videí, viacej zvuku, kľudne, viac to
+robiť, také multimediálne, doniesť aj nejaké veci, ak máme doma nejaký portrét niekoho
+...“ (s. 4, r. 7-8), Stely: „... niekedy je fajn, že si ešte v rámci tých predmetov prečítať
+nejaké dobové, že ako to presne, že tí ľudia vtedy vnímali, len na to asi ani nie je čas. Ale
+možno napr. takéto 19., 20. storočie, ktoré by už vedeli pochopiť tak nejaké kópie novín
+...“ (s. 14, r. 13-15) a Artuš: „... dať im kľudne nejakú... ilumináciu zo stredoveku
+vytlačenú, dať to medzi nich, aby som to tak vykladal, že dobre, že by som teraz im bol,
+že dobre, teraz povedzte mi o tom, čo vidíte ...“ (s. 30, r. 4-6).
+Z uvedeného vyplýva, že hoci naši participanti nie sú rovnakí, zhodne inklinujú
+viac k postmodernistickému prístupu. V prípade, že by sme chceli participantov priradiť
+ku deleniu, ktoré použili Elmersjö so Zanazanianom (2022), všetci by patrili do rovnakej
+kategórie,
+
+predstavujúcej
+
+mladého
+
+učiteľa,
+
+inšpirovaného
+
+postmodernistickým
+
+myslením.
+Príčiny inklinácie k postmodernistickému spôsobu môžu byť rôzne. Pri Stele
+pravdepodobne
+
+prevládajú
+
+negatívne
+
+skúsenosti
+
+počas
+
+školovania,
+
+s učiteľmi
+
+zameranými na memorovanie. Povedala: „... ja som mala takú dejepisárku, že nudne, že
+ona nám to kázala, že sa to fakt ako básničku, že ona nám vytlačila papier a tam bolo
+presne a ona nás to skúšala iba tak ...“ (s. 3, r. 31-34). U Ludita jasne prevládajú pozitívne
+skúsenosti počas školovania, ktoré vyjadril slovami: „... ja som zažil interaktívny dejepis,
+ja som mal to šťastie, že sme mali tie aspoň prezentácie interaktívne (...) Nie je to bežná
+vec.“ (s. 34, r. 36-37) a: „... ja som bol nadchnutý dejepisom, mojou dejepisárkou ...“ (s.
+39, r. 21). Ludit aj Stela spomenuli vysokoškolské vyučovanie, konkrétne všeobecnú
+didaktiku (Ludit: s. 26, r. 11 a Stela: s. 6, r. 5), Ludit pridal aj pedagogickú komunikáciu
+(s. 29, r. 11). V prípade piatakov boli opakovane vyjadrené skúsenosti z praxe (niektoré
+príklady budú spomenuté ďalej), okrem nich jasne poukazovali vedomosti nadobudnuté
+na didaktike dejepisu. Artuš sa vyjadril: „... často opakujem slová pána Kratochvíla, čo
+ma učil na hodinách didaktiky, že som veľa, veľa jeho slov zopakoval. Nehovorím, že
+všetko, čo som povedal, hovoril aj on, ale že by som vedel niekedy povedať, že citát sa
+jednoducho, pán Kratochvíl, alebo pán Machaj“ (s. 44, r. 29-31). Aténa spomenula aj
+skúsenosť, ktorá bola súčasťou didaktiky dejepisu: „... keď sme chodili do toho Edulabu
+a ten učiteľ tam proste ukázal, tie všetky metódy ...“ (s. 37, r. 21).
+Tieto zistenia podporujú aj vyššie spomenuté výskumy (v podkapitole 2.3).
+Učiteľa ovplyvňuje kontext, ktorý ho obklopuje, do ktorého patria skúsenosti z vlastného
+61
+
+školovania (Voet a De Wever, 2016). Medzi ne môžu patriť pozitívne, ale aj negatívne
+skúsenosti s učiteľmi typickými pre modernistický rámec, tie predstavujú tzv. „negatívnu
+koncepciu“ (Mareš, 1996, s. 14; 2013).
+Najvypuklejší rozdiel, ktorý sme pozorovali medzi budúcimi učiteľmi pred
+absolvovaním didaktiky dejepisu a pedagogickej praxe a budúcimi učiteľmi po ich
+absolvovaní spočíva v miere rozvoja IKV a konkrétnosti výpovedí participantov.
+Dokážeme to demonštrovať na príkladoch, ktoré spomenuli v rozhovore.
+Ludit a Stela používali príklady metód a prostriedkov, ktoré si pamätali zo svojho
+školovania, teda to, čo fungovalo ich učiteľom. Ludit je napríklad zástancom
+interaktívneho poňatia dejepisu a interaktívnych prezentácií, ktoré videl u svojho učiteľa.
+Povedal: „Asi viac interaktívne robiť, lebo ja som zažil interaktívny dejepis...“ (s. 34, r.
+36). Okrem toho vypichol: „Myslím si, že nejaká taká gejmifikácia určite by fungovala
+na žiakov. Čo som zažil v mojej triede: kahoot, kahoot, každý rád hrá kahoot ...“ (s. 22, r.
+9-10). Stela v jednej odpovedi opisovala svoje skúsenosti s dejepisom a následne uviedla
+príklad: „... takže možno aj je dôležité tá forma, ako bude to vyučovanie, aby tí žiaci sa
+vedeli sústrediť na tú prezentáciu a možno im potom neskôr poslať tie poznámky ...“ (s.
+7, r. 7-9). Dokopy spomenula najmenej príkladov vo vyučovaní.
+Na rozdiel od nich Artuš a Aténa ľahšie generovali príklady, nielen z vyučovania
+počas školovania, ale najmä praktické príklady z vlastnej praxe a myšlienky overené
+skúsenosťami. Medzi najlepšie príklady patria Artušova zemnica: „... učebné ciele v tých
+osnovách sú moderné, (...) sú tam písané interaktívne veci, neviem, že postav si zemnicu
+z ranného stredoveku“ (s. 34, r. 15-17) a neskôr pridal: „A tie zemnice sú dobrý nápad, to
+som mal aj v svojom pláne“ (s. 34, r. 32-33), ďalej Aténina otvorená otázka bez jasnej
+odpovede: „Minule som učila pravek a bavili sme sa o tom, že ako vlastne domestifikovali
+psa a bolo to normálne, bol to rozhovor asi na 20 minút, všetci sme sa zaujímali, ako
+vlastne, z čoho ten pes vznikol a ako vlastne bol domestifikovaný, že ako vyzeral predtým
+ten pes“ (s. 15, r. 28-30) a: „... otázka, ako sa domestifikoval pes, no ako my na to nemáme
+nejakú správnu odpoveď ...“ (s. 29, r. 19-20) a Artušovo kreslenie, odpozorované na
+pedagogickej praxi: „... keď som praxoval u učiteľa dejepisu, tak hovorím, dával aj kresliť
+veci, že doslova, že nakresli mi mušketu, alebo nakresli mi meč, alebo nakresli mi, ako
+vyzerala helma. Čiže úplne tam, že ono to neni až také dôležité, alebo že nakresli mi, ako
+vyzeral parník, akože možno to neni až taká, nedával za to toľko bodov na testoch,
+normálne to na test dal, že nakresli mi parník. A dal za to vlastne jeden bod. Akože, ako
+je to také, že to dieťa sa možno aj trošku možno odstresuje na tom teste, že keď si tam
+62
+
+začne kresliť, ako všetci vieme, že keď sme my robili, keď bude mladší písali, sme testy,
+tak sme si tam chceli kresliť, keď sme boli hotoví“ (s. 13, r. 23-29).
+Prakticky všetci participanti, nezávisle od absolvovania didaktiky dejepisu
+a pedagogickej praxe, vyjadrili potrebu nabrať viac skúseností, spojenú aj s pocitom
+neúplnej pripravenosti na učiteľovanie. Artuš povedal: „... budem zrejme musieť... si to
+asi vyskúšať tipujem, že, jednoducho aby som vedel individuálne pracovať, no tak odučiť
+si s nimi, aby som nejak individuálne, tak musím si odučiť niečo s tými žiakmi, musím si
+s nimi niečo zažiť ...“ (s. 23, r. 10-12) a: „... povedal by som, že ešte som neskúsený učiteľ
+a musím jednoducho ešte vyskúšať, čo funguje, čo nefunguje a zistiť, že akí, akí sú tí
+žiaci ...“ (s. 38, r. 14-15), Stela povedala: „Musela by som fakt vidieť, že ako to je, lebo
+ja som ešte nemala teraz skúsenosť, akože by som ani jednak neučím, nemám teda až
+budúci rok máme nejakú prax, takže som nevidela...“ (s. 13, r. 13-14), Aténa okrem iného
+povedala: „Neviem, ešte nemám skúsenosti“ (s. 23, r. 2) a: „Budem musieť nabrať prax,
+ešte veľa praxe, aby, že to časom zistím, že čo zaberá na tých žiakov a čo nie“ (s. 40, r.
+37-38). Aténa sa okrem toho opakovane vyjadrila, že sa necíti byť pripravená po odbornej
+(historickej) stránke: „Som ešte nevzdelaná“ (s. 38, r. 5) a: „Necítim sa fakt na výučbu
+histórie. Musím si toho ešte veľa naštudovať“ (s. 43, r. 12-13). Jedine Ludit nedostatok
+skúseností nevyjadril explicitne, hoci na niektorých miestach to bolo implicitne prítomné.
+Aj keď absolvovanie didaktiky dejepisu a pedagogickej praxe neovplyvnilo
+epistemologickú orientáciu budúcich učiteľov, malo vplyv na mieru rozvoja ich IKV, čo
+sme pozorovali na konkrétnosti výpovedí našich participantov. Vplyv didaktiky dejepisu
+a pedagogickej praxe potvrdzuje zahraničné výskumy, poukazujúce na vplyv špeciálnych
+kurzov na vysokej škole (McCrum, 2013; VanSledright a Reddy, 2014; Patricio et al.,
+2022) a pedagogickej praxe (Mamoura, 2016). Potvrdenie pedagogickej praxe, ako
+významného faktora pri utváraní IKV budúcich učiteľov koreluje s pravdepodobným
+postupom utvárania uIKV budúceho učiteľa uvedeného v teoretickej časti tejto práce (viď
+podkapitola 1.2).
+Z niektorých zmienok participantov sa dá odvodiť, že uIKV (prekocepciu)
+ovplyvňuje aj druhý aprobačný predmet budúcich učiteľov, čo tiež patrí do spomenutého
+kontextu. Ako príklad môže poslúžiť Aténou (ktorá má slovenský jazyk a literatúru)
+spomenutá učebná metóda naštudovania si literatúry a následnej inscenácie historických
+postáv: „... zahrať nejakú scénku, to inak je strašne zaujímavé, že ako on, napr. nejaký
+žiak videl na základe naštudovanej literatúry Tiberia ...“ (s. 27, r. 17-18), alebo použitie
+zahraničných učebníc a iných materiálov Luditom (ktorý má anglický jazyk a literatúru),
+63
+
+ktorý povedal: „... keď sme na didaktike prebrali kurikulum a kurikulárnu reformu, tak sa
+mi dostala taká (americká) učebnica dejepisu ...“ (s. 26, r. 11-12).
+Pozoruhodné je tiež to, že skúsenejší Artuš a Aténa zaváhali pri didaktickej zásade
+názornosti, zatiaľ čo Ludit a Stela si ju okamžite zaradili. Artuš sa spýtal: „Ako myslíš
+názornosti ...“ (s. 32, r. 45) a: „... Názornosti, ale tu sa myslí názor toho žiaka, alebo sa
+myslíš ...“ (s. 33, r. 3). Aténa povedala: „Počkaj, normálne to nespracovávam teraz tú
+informáciu, hlavným zmyslom názornosti v modernej škole“ (s. 33, r. 20). Na rozdiel od
+nich Ludit a Stela reagovali pružne a poskytol hneď odpoveď (s. 33, r. 17, respektíve 32).
+Zdá sa, že rozdiel spočíva vo vyučovaní všeobecnej didaktiky. Možnú príčinu poskytla
+Aténa, ktorá v súvislosti s vlastnou odbornou nepripravenosťou uviedla „covid“ (s. 40, r.
+19), teda že jej vyučovanie bolo poznačené pandémiou. Inou možnosťou je ešte stále
+čerstvá spomienka, vďaka bezprostrednejšej skúsenosti Ludita a Stely, ako sme naznačili
+vyššie, obaja všeobecnú didaktiku konkrétne spomenuli (Ludit: s. 26, r. 11 a Stela: s. 6, r.
+5), čo môže potvrdiť tento dohad.
+Vysokoškolské štúdium pravdepodobne nedostatočne akcentuje dôležitosť
+poznania kurikula, pretože všetci participanti vyjadrili, že nevedia, čo je v osnovách. Na
+podnetový výrok o osnovách Artuš reagoval: „... teraz som si, spomenúť tie osnovy, čo
+tam bolo... Hmmm, hmm hmm, no... No, neviem, neviem to na to úplne presne povedať“
+(s. 10, r. 4-5), Ludit sa vyjadril: „... neviem, či je to v osnovách ...“ (s. 10, r. 15), Aténa
+povedala: „tieto veci budem riešiť asi až keď budem učiť“ (s. 10, r. 18-19) a Stela
+odpovedala: „No neviem, aké sú teraz úprimne osnovy ...“ (s. 10, r. 26). Zatiaľ čo
+u druhákov táto situácia nie je akútna, je prekvapivé, že študenti, ktorí absolvovali
+didaktiku dejepisu a pedagogickú prax nepoznajú dejepisné kurikulum.9
+Počas skúmania IKV budúcich učiteľov dejepisu sme neobjavili prvky, ktoré by
+po zovšeobecnení oddeľovali kategóriu mužov participantov od kategórie žien
+participantiek. Objavili sme však jeden pozoruhodný rozdiel, ktorý nesúvisí priamo
+s IKV participantov. Ten sa zakladá na použitých príkladoch z dejín (viď Tabuľka A,
+v prílohe). Zatiaľ čo muži jasne vybrali svoje najobľúbenejšie obdobie a tému – v prípade
+Artuša stredoveké Anglicko, v prípade Ludita novoveká priemyselná revolúcia – ženy
+neuviedli svoje obľúbené obdobie alebo tému. Navyše, ak rozdelíme príklady z dejín do
+5 základných období (pravek, starovek, stredovek, novovek, najnovšie dejiny), množstvo
+použitých príkladov z dejín pomerne presne kopíruje túto diferenciáciu. Artuš spomenul
+Pre porovnanie je na základe našich vlastných skúseností potrebné uviesť, že na Prírodovedeckej fakulte
+UK sa na poznanie kurikula v rámci predmetových didaktík kladie výrazne väčší dôraz.
+9
+
+64
+
+najviac príkladov zo stredoveku, nejaké z neskorších dejín, ale žiadne zo starších. Ludit
+vypichol najviac príkladov z obdobia novoveku, nejaké z najnovších dejín a zo
+stredoveku, ale (rovnako ako Artuš), žiadne staršie. Na rozdiel od nich Aténa a Stela
+pomerne rovnomerne uvádzali príklady zo všetkých spomenutých dejinných období, obe
+zhodne najviac z najnovších dejín.10
+V tejto podkapitole sme s použitím metódy tematickej analýzy zovšeobecnili IKV
+budúcich učiteľov dejepisu. Všetci štyria participanti, aj napriek existujúcim rozdielom,
+prejavujú inklináciu k postmodernistickej koncepcii dejepisu. Domnievame sa, že je to
+spôsobené rôznymi faktormi, od skúseností zo školovania, na rôznych úrovniach škôl,
+ktoré prevládajú pri druhákoch, až po vedomosti z didaktiky dejepisu a skúsenosti
+z pedagogickej praxe, ktoré dominujú pri piatakoch. Zásadným rozdielom medzi
+druhákmi a piatakmi je miera praktickosti IKV, čo jasne súvisí s absolvovaním
+pedagogickej praxe. Všetci participanti vyjadrili pocit nepripravenosti. Medzi mužmi
+a ženami sme nenašli zásadnejší rozdiel.
+
+4.3 Limity výskumu
+V tejto podkapitole uvádzame najvýznamnejšie obmedzenia nášho výskumu.
+Limity sa týkajú výberu vzorky, metódy zberu dát a zvoleného teoretického modelu.
+Obdobne ako Barteldsová s kolegyňami (2020) vidíme obmedzenie v tom, že sme
+do výskumu zapojili prvých záujemcov, ktorí mohli a chceli participovať na výskume. Je
+možné, že sa prihlásili tí najlepší. Ďalším obmedzením môže byť, že všetci participanti
+študujú na Filozofickej fakulte Univerzity Komenského v Bratislave, preto nie je možné
+niektoré konkrétne odporúčania (uvádzané v nasledujúcej podkapitole) zovšeobecniť na
+pregraduálnu prípravu budúcich učiteľov dejepisu na celom Slovensku. Participantov
+sme nefiltrovali podľa toho, aké majú reálne skúsenosti s vyučovaním – Ludit doučuje
+a Artuš aktívne učí (hoci ani jeden dejepis) – takže kategórie pred praxou a po praxi sú
+len orientačné, čo, ako ukazujú výsedky, neznamená, že nemajú význam. Že sa
+participanti podľa svojich vyjadrení radia medzi postmodernistických učiteľov dejepisu
+neznamená automaticky, že by vykazovali všetky prvky (Evans, 1990; Nitsche a Waldis,
+
+Aténa nám po skončení výskumného rozhovoru povedala, že nemá obľúbené obdobie, ale zaujímajú ju
+dejiny ako celok. Od Stely sme túto informáciu nezískali.
+10
+
+65
+
+2022). Aj medzi nimi môžu byť hlbšie rozdiely, ktorých zachytenie a pochopenie je nad
+rámec tejto práce.
+Pološtruktúrovaný rozhovor s rotterovskými nedokončenými vetami sa ukázal
+ako kvalitný a vhodný nástroj, po realizácii výskumu by sme však niektoré nedokončené
+vety vynechali, alebo nahradili vhodnejšími, pretože sme zistili, že máme veľké množstvo
+nerelevantných údajov.
+Ako sme uviedli v podkapitole 2.4, epistemologické presvedčenia sú stále
+pomerne nepreskúmaný pojem, pričom odborná literatúra prináša dve hlavné typológie –
+typológiu s tromi kategóriami, respektíve jednou škálou s dvomi krajnými polohami –
+modernistickou perspektívou a postmodernistickou perspektívou. Pri skúmaní budúcich
+učiteľov sme z dôvodu jednoduchosti a lepšieho podloženia odbornou literatúrou
+pracovali s druhou typológiou.
+V tejto podkapitole sme prezentovali limity nášho výskumu. Patria medzi ne
+metodologické obmedzenia, týkajúce sa výber výskumnej vzorky, metódy zberu dát,
+týkajúce sa použitého modelu pološtruktúrovaného rozhovoru s rotterovskými
+nedokončenými vetami a konceptuálne obmedzenia, týkajúce sa teoretického modelu.
+
+4.4 Závery výskumu a odporúčania pre prax
+Táto podkapitola prezentuje hlavné závery nášho výskumu IKV budúcich
+učiteľov dejepisu. Odpovedá tak na hlavnú výskumnú otázku a špecifické výskumné
+otázky, ktoré sú zamerané na koncepcie budúcich učiteľov dejepisu, epistemologickú
+otázku, didaktiku dejepisu a povinnú pedagogickú prax. Ku niektorým záverom navrhuje
+odporúčania súvisiace s odbornou a praktickou prípravou budúcich učiteľov dejepisu.
+Budúci učitelia dejepisu inklinujú vo vyučovaní dejepisu k postmodernistickej
+perspektíve, zdá sa teda, že budúci učitelia sú nositeľmi zmeny, nie zástancami tradičného
+(modernistického) vyučovania. Táto skutočnosť nie je ovplyvnená didaktikou dejepisu
+a pedagogickou praxou.
+Jedinú významnú odchýlku v rámci postmodernistickej perspektívy sme
+pozorovali na koncepcii povahy histórie, ktorá je v skutočnosti len interpretáciou
+minulosti, nie totožnou s minulosťou. V súčinnosti so zahraničnými výskumami
+odporúčame zamerať sa na didaktike dejepisu na konštruovanú povahu histórie.
+Príčiny inklinácie k postmodernistickej koncepcii sú rôzne. Pri začínajúcich
+študentoch prevládajú skúsenosti zo školovania, ktoré môžu mať pozitívny, aj negatívny
+66
+
+charakter. Koncepciu končiacich študentov najvýraznejšie ovplyvnila didaktika dejepisu
+a pedagogická prax.
+IKV
+
+budúcich
+
+učiteľov
+
+dejepisu
+
+po
+
+absolvovaní
+
+didaktiky
+
+dejepisu
+
+a pedagogickej praxe je rozvinutejšia, ako pred tým, čo sme pozorovali na konkrétnosti
+výpovedí participantov, na čo má väčší vplyv pedagogická prax.
+Ani pedagogická prax nezaručuje pripravenosť na pôsobenie v roly učiteľa. Všetci
+budúci učitelia dejepisu pociťujú nepripravenosť a potrebu nabrať viac skúseností.
+Zaujímavým pozorovaním bolo, že IKV budúcich učiteľov dejepisu je
+ovplyvnená aj druhým aprobačným predmetom. Toto pozorovanie je skôr empirického
+charakteru, podrobná analýza je nad rámec tejto práce.
+Detail, ktorým bola didaktická metóda názornosti, môže poukazovať na slabšiu
+kvalitu vyučovania všeobecnej didaktiky. Na druhej strane môže ísť o singularitu,
+spôsobenú pandemickou situáciou. Detailná analýza tohto problému bola nad rámec našej
+práce. Navyše náš výskum ukazuje, že na IKV budúcich učiteľov dejepisu nemajú
+najvýraznejší vplyv teoretické vysokoškolské predmety všeobecného základu, ale
+didaktika dejepisu a pedagogická prax. Odporúčame sústrediť viac pozornosti práve
+didaktike dejepisu a pedagogickej praxi, na úkor teoretických predmetov spoločného
+pedagogického základu.
+Budúci učitelia dejepisu nepoznajú kurikulum. Odporúčame, aby sa dejepisnému
+kurikulu venovala na didaktike dejepisu náležitá pozornosť.
+Medzi IKV mužov-budúcich učiteľov dejepisu a IKV žien-budúcich učiteliek
+dejepisu sme nezistili zásadné rozdiely.
+V tejto podkapitole sme zosumarizovali najvýznamnejšie zistenia o IKV budúcich
+učiteľov dejepisu. Do ich pregraduálnej prípravy navrhujeme tri odporúčania, ktoré
+smerujú primárne na didaktiku dejepisu. Odporúčame sústrediť viac pozornosti didaktike
+dejepisu
+
+a pedagogickej
+
+praxi
+
+na
+
+úkor
+
+teoretických
+
+predmetov
+
+spoločného
+
+pedagogického základu. Na didaktike dejepisu odporúčame sústrediť viac pozornosti
+dejepisnému kurikulu a konštruovanej povahe histórie.
+V tejto kapitole sme zosumarizovali zistenia o IKV budúcich učiteľov dejepisu.
+Kapitola je rozdelená na štyri podkapitoly. Prvá podkapitola sumarizuje výskumné
+zistenia o jednotlivých participantoch. Druhá podkapitola zovšeobecňuje výskumné
+zistenia. Tretia podkapitola hodnotí limity nášho výskumu. Posledná podkapitola stručne
+prezentuje hlavné závery nášho výskumu a navrhuje tri odporúčania pre pregraduálnu
+prípravu budúcich učiteľov dejepisu.
+67
+
+ZÁVER
+V tejto práci bolo naším cieľom preskúmať IKV budúcich učiteľov dejepisu. Boli
+sme prvými, ktorí sa na Slovensku venovali zvolenej problematike. Domnievame sa, že
+cieľ sa nám podarilo naplniť. Ďalej prinášame prehľad obsahu práce, vrátane
+najdôležitejších zistení a záverov.
+Prvá kapitola práce a zároveň prvá kapitola teoretickej časti mala za cieľ
+identifikovať pojem učiteľova individuálna koncepcia vyučovania. Kapitola je rozdelená
+do troch podkapitol. Prvá podkapitola definovala pojem učiteľova IKV, sumarizovala
+najfrekventovanejšie termíny, ktorými rôzni autori nazývajú uIKV a uviedla dôvod, prečo
+z množiny termínov v tejto práci používame práve uIKV. Nakoniec z vyššie uvedených
+definícii vyabstrahovala terminologický rámec novej definície učiteľovej IKV. Druhá
+podkapitola identifikovala bežný postup vzniku a utvárania sa uIKV počas života učiteľa.
+Tretia podkapitola sumarizovala základné charakteristiky uIKV. Jej jednotlivé časti
+opisovali vlastnosti IKV, funkcie IKV a ostatné dielčie charakteristiky. Učiteľovu IKV
+výstižne ilustruje metafora sita, ktoré triedi, čo si učiteľ pre seba zoberie a aplikuje v praxi
+a čo vynechá.
+Druhá kapitola sumarizovala domáce a zahraničné výskumy učiteľovej IKV
+a identifikovala a definovala najdôležitejšie pojmy. Kapitola je rozdelená do štyroch
+podkapitol. Prvá podkapitola sumarizovala vývoj skúmania problematiky uIKV od jej
+začiatku v sedemdesiatych a osemdesiatych rokoch dvadsiateho storočia, cez jej príchod
+do nášho geografického priestoru, až do súčasnosti. Druhá podkapitola sumarizovala
+základné metódy, používané v skúmaní učiteľovej IKV. Tieto metódy sa líšia mierou
+náročnosti, ako aj mierou zapojenia výskumníka a samotného učiteľa. Tretia podkapitola
+analyzovala štúdie skúmajúce IKV učiteľov dejepisu a sumarizovala v nich obsiahnuté
+poznatky. Podkapitola má štyri časti. Prvá časť sumarizovala začiatky skúmania IKV
+učiteľov dejepisu, spolu s faktormi, ktoré učiteľovu IKV ovplyvňujú a typológiami, ktoré
+uvedení výskumníci navrhli. Druhá časť sumarizovala výskumy, zamerané na prvky
+postmodernistického dejepisu, ako bádateľské vyučovanie, historické myslenie
+a argumentovanie a kľúčové kompetencie. Tretia časť sumarizovala poznatky
+z výskumov uIKV a prípravy budúcich učiteľov dejepisu. Štvrtá časť sumarizovala
+skúmanie úspešnosti prechodu od modernistického dejepisu k postmodernistickému.
+
+68
+
+Posledná podkapitola definovala pojmy postmodernistická koncepcia histórie,
+respektíve dejepisu a epistemologické presvedčenia.
+Tretia kapitola práce a zároveň prvá kapitola empirickej časti mala za cieľ
+vysvetliť stratégie a metódy, zvolené pre výskum IKV budúcich učiteľov dejepisu.
+Metodologická kapitola je rozdelená do siedmich podkapitol. Prvá podkapitola priblížila
+výskumný problém. Postupne vysvetlila tému výskumu, súčasný stav a vymedzenie
+skúmanej problematiky, teoretickú orientáciu výskumu, sústavu použitých pojmov,
+formulovala výskumný problém a opísala predpokladaný prínos celého výskumu. Druhá
+podkapitola zo širšie definovanej témy vymedzila ciele výskumu. Naším cieľom bolo
+zistiť epistemologickú orientáciu budúcich učiteľov dejepisu a vplyvy, ktoré ju formovali.
+Tretia podkapitola charakterizovala dizajn výskumu. Štvrtá podkapitola identifikovala
+výskumnú vzorku. Postupne uviedla kritériá výberu a opísala participantov, ktorí nám
+majú poskytnúť údaje, potrebné na naplnenie výskumného cieľa. Piata podkapitola
+vysvetlila zvolenú výskumnú metódu, ktorou bol je pološtruktúrovaný rozhovor vo forme
+rotterovských neukončených výpovedí/viet, vytvorený spojením overeného nástroja a
+špeciálnych otázok, zameraných na IKV učiteľov dejepisu. Šiesta podkapitola opísala
+vstup do terénu, spôsoby nadviazania pracovných vzťahov s participantmi výskumu a
+časový rozvrh práce v teréne a následnej analýzy. Siedma podkapitola objasnili postup
+pri analyzovaní získaných výskumných dát v rámci metódy tematickej analýzy.
+Štvrtá kapitola priniesla výskumné zistenia a závery. Kapitola má štyri
+podkapitoly. Prvá podkapitola uviedla hrubé údaje, prezentované pre každého
+participanta zvlášť. Druhá podkapitola zovšeobecnila výskumné zistenia o budúcich
+učiteľoch dejepisu a dala ich do súvisu inými výskumami, uvedenými v tejto práci.
+Postupne odpovedaním na hlavnú a špecifické výskumné otázky uviedla, že budúci
+učitelia dejepisu aj napriek istým rozdielnostiam inklinujú k postmodernistickej
+koncepcii dejepisu. Je to spôsobené rôznymi faktormi, od skúseností zo školovania, na
+rôznych úrovniach škôl, ktoré prevládajú pri druhákoch, až po vedomosti z didaktiky
+dejepisu a skúsenosti z pedagogickej praxe, ktoré dominujú pri piatakoch. Tretia
+podkapitola uviedla najvýznamnejšie limity výskumu, ktoré sa týkali výberu vzorky,
+metódy zberu dát a zvoleného teoretického modelu. Štvrtá podkapitola odprezentovala
+hlavné závery výskumu IKV budúcich učiteľov dejepisu a navrhla tri odporúčania
+súvisiace s odbornou a praktickou prípravou budúcich učiteľov dejepisu.
+V ďalšom výskume je možné zamerať sa na overenie záverov tejto práce,
+napríklad, či budúci učitelia dejepisu naozaj inklinujú k postmodernistickému dejepisu.
+69
+
+Je možné rozšíriť výskumnú vzorku za hranice fakulty a univerzity a získať tak
+komplexnejší pohľad na IKV budúcich slovenských učiteľov dejepisu. Nakoniec je
+možné preskúmať prepojenosť IKV budúcich učiteľov dejepisu s rôznymi aprobačnými
+predmetmi, aby sa zistilo, ako IKV druhého aprobačného predmetu ovplyvňuje dejepisnú
+IKV.
+
+70
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+BARTELDS, H. et al., 2020. Students’ and teachers’ beliefs about historical empathy in
+secondary history education. In: Theory & Research in Social Education. Vol. 48, iss. 4,
+s. 529-551.
+BERNHARD, R., 2019. Using mixed methods to capture complexity in an empirical
+project about teachers’ beliefs and history education in Austria. In: History Education
+Research Journal. Vol. 16, iss. 1, s. 63–73.
+BRYAN, L. A., 2011. Research on Science Teacher Beliefs. In: Second International
+Handbook of Science Education. Dordrecht: Springer. Vol. 24, s. 477-495. ISBN 978-14020-9040-0.
+CLARK, C. M. a P. L. PETERSON, 1984. Teacher’s Thought Processes, In: Occasional
+Paper. No. 72. The Institute for Research of Teaching.
+DAYAN, U. et al., 2022. Transformation of prospective teachers’ pedagogical beliefs
+during a pre-service B.Ed. programme in Pakistan. In: International Journal of Education
+and Practice. Vol. 10, iss. 2, s. 150-159. ISSN 2311-6897.
+ELMERSJÖ, H. Å. a P. ZANAZANIAN, 2022. History teachers and historical
+knowledge in Quebec and Sweden: Epistemic beliefs in distinguishing the past from
+history and its teaching. In: Historical Encounters. Vol. 9, iss. 1, s. 181-195. ISSN 22037543.
+Európsky parlament, 2024. Uznesenie Európskeho parlamentu zo 17. januára 2024 o
+európskom historickom vedomí. [online]. Strasbourg: European parliament, ©2024 [cit.
+12. februára 2024]. Dostupné na: https://www.europarl.europa.eu/doceo/document/TA-92024-0030_SK.html
+EVANS, R. W., 1989. Teacher conceptions of history. In: Theory & Research in Social
+Education. Vol. 17, iss. 3, s. 210-240.
+EVANS, R. W., 1990. Teacher conceptions of history revisited: ideology, curriculum, and
+student belief. In: Theory & Research in Social Education. Vol. 18, iss. 2, s. 101-138.
+FUSSANGEL, K., 2008. Subjektive Theorien von Lehrkräften zur Kooperation
+[Dizertačná práca]. Wuppertal: Universität Wuppertal.
+GAVORA, P., 1990. Učiteľova individuálna koncepcia vyučovania. In: Pedagogická
+revue. Roč. 42, č. 3, s. 209-222. ISSN 1335-1982.
+
+71
+
+GAVORA, P., 1997. Výskumné metódy v pedagogike. Bratislava: Univerzita
+Komenského. ISBN 80-223-1173-1.
+GAVORA, P., 2001. Výskum životného príbehu: učiteľka Adamová. In: Pedagogika.
+Roč. 51, č. 3, s. 352-368.
+GAVORA, P., 2006. Sprievodca metodológiou kvalitatívneho výskumu. Bratislava:
+Regent. ISBN 80-88904-46-3.
+GAVORA, P. a J. MAREŠ, 1998. Anglicko-slovenský pedagogický slovník. 2. vyd.
+Bratislava: IRIS. ISBN 80-88778-84-3.
+GESTSDÓTTIR, S. M. et al., 2021. Teaching historical thinking and reasoning: Teacher
+beliefs. In: History Education Research Journal. Vol. 18, iss. 1, s. 46–63.
+GRACOVÁ, B. a D. LABISCHOVÁ, 2012. Současná teorie a praxe dějepisného
+vzdělávání na školách. In: Pedagogická Orientace. Roč. 22, č. 4, s. 516-543.
+GRALEWSKI, J. a M. KARWOWSKI, 2016. Are Teachers’ Implicit Theories of
+Creativity Related tothe Recognition of Their Students’ Creativity? In: The Journal of
+Creative Behavior. Buffalo: Creative Education Foundation, Vol. 52, iss. 2, s. 156–167.
+GRUBER, G. a C. GRUBER, 2013. Past and Present in Teaching History: Theory and
+Practice. In: The International Journal of Pedagogy and Curriculum. Vol. 19, iss. 3, s.
+229-239. ISSN 2327-7963.
+GÜRSOY, E., 2013. What is effective in forming our beliefs: experience or education?
+In: Procedia – Social and behavioral sciences. Vol. 70, s. 763-770. ISSN 1877-0428.
+HAMILTON, L., 2006. Implicit theories of ability. In: Scottish Educational Review. Vol.
+38, iss. 2, s. 201-212. ISSN 2773-0840.
+HELUS, Z., 1982. Pojetí žáka a perspektivy osobnosti. Praha: SPN.
+HOLLICK, D., 2013. Informelles Lernen von Lehrerinnen und Lehrern im Kontext Schule
+und Migration: Eine explorative Studie über Subjektive Theorien von Lehrerinnen und
+Lehrern. Kassel: Universität Kassel. ISBN 978-3-86219-601-2.
+HRABAL, V. ml., 1988. Výskum učitelova pojetí úspěšného žáka v oblasti pile a nadání
+a možnosti jeho autodiagnostiky. In: Pedagogický výzkum, 1988.
+HUANG, J. et al., 2021. Understanding changes in teacher beliefs and identity formation:
+A case study of three novice teachers in Hong Kong. In: Teaching Education. Vol. 32, iss.
+2, s. 193-207, ISSN 1047-621.
+CHVÁLOVÁ, M., 2018. Příležitosti k rozvíjení autonomie žáka v hodinách anglického
+jazyka, Brno: Masarykova Univerzita. ISBN 978-80-210-9274-7.
+
+72
+
+Informačný list predmetu: Didaktika dejepisu 1., 2022. Bratislava: Filozofická fakulta
+UK.
+Informačný list predmetu: Pedagogická prax 2 (história), 2022. Bratislava: Filozofická
+fakulta UK.
+International study association on teachers and teaching, ©2021. [online]. Tilburg:
+Tilburg University, [cit. 8. novembra 2023]. Dostupné na: https://www.isatt.net/
+JONES, B. D. et al., 2012. Preservice and Inservice Teachers’ Implicit Theories of
+Intelligence, In: Teacher Education Quarterly. Vol. 39, iss. 2, s. 87-101. ISSN 0737-5328.
+JONSSON, A.-C. a D. BEACH, 2012. Predicting the use of praise among pre-service
+teachers: The influence of implicit theories of intelligence, social comparison and
+stereotype acceptance. In: Education Inquiry. Umeå School of Education. Vol. 3, iss. 2,
+s. 259-281.
+KASÍKOVÁ, H. a J. VALENTA, 2019. Učitelé budoucích učitelů a jejich pojetí výuky.
+In: Lifelong learning – celoživotní vzdělávání. Brno: Mendelova univerzita. Roč. 9, č. 3,
+s. 43-65.
+KHADER, F. R., 2012. Teachers’ pedagogical beliefs and actual classroom practices in
+social studies instruction. In: American International Journal of Contemporary Research.
+Vol. 2, iss. 1, s. 73-92.
+KOUBEK, P. a T. JANÍK, 2015. Výzkumy subjektivních teorií učitelů v kontextu
+profesního rozvoje: přehledová studie In: Studia paedagogica. Roč. 20, č. 3, s. 47-67.
+KOUBEK, P., 2016. Být sama sebou: případová studie subjektivních teorií učitelky v
+kontextu profesního rozvoje. In: Pedagogická orientace. Roč. 26, č. 1, s. 95–116.
+KOUBEK, P., 2021. Subjektivní teorie a jednání učitelů: vícečetná případová studie v
+kontextu profesního rozvoje učitelů. Brno: Masarykova Univerzita. Pedagogický výzkum
+v teorii a praxi, sv. 47. ISBN 978-80-210-9810-7.
+KROPÁČ, J., 2004. K problému uceleného pojetí výuky obecně technických předmětů.
+In: e-Pedagogium. Roč. 4, č. 1, s. 60-71.
+LEVY, S. A., 2016. Parents', students', and teachers' beliefs about teaching heritage
+histories in public school history classrooms. In: The Journal of Social Studies Research.
+Vol. 40, iss. 1, s. 5-20.
+MAGGIONI, L. et al., 2009. Walking on the borders: A measure of epistemic cognition
+in history. In: The Journal of Experimental Education. Vol. 77, iss. 3, s. 187–214. ISSN
+00220973.
+
+73
+
+MAMOURA, M., 2016. Postgraduate Greek Student-Teachers’ Beliefs about History
+Teaching, Before and After Their Practicum: An Opportunity for Their Professional
+Development. In: The International Journal of Learning in Higher Education. Vol. 23,
+iss. 3, s. 37-50. ISSN 2327-7963.
+MAREŠ, J., 1986. Učitelovo pojetí výuky – teze výzkumného projektu. Hradec Králové:
+Lékařská fakulta UK.
+MAREŠ, J., 1990. Dotazník UPV (učitelovo pojetí výuky). Hradec Králové: Lékařská
+fakulta UK. (Nezávislá revue pro výchovu a vzdělávání, 1 , 1990-91, č. 2, s. 31-33 + č. 3,
+s. 51-54.)
+MAREŠ, J., 2013. Pedagogická psychologie. Praha: Portál. ISBN 978-80-262-0174-8.
+MAREŠ, J. et al., 1996. Učitelovo pojetí výuky. Brno: Masarykova Univerzita. ISBN 80210-1444-X.
+MARTÍNEZ-RODRÍGUEZ, R. et al., 2019. Teacher knowledge and beliefs and their
+relationship with the purpose of teaching recent history. The transition to democracy in
+Spain as a controversial case. In: Revista de Educación. Nº 383, iss. 1, s. 11-35. ISSN
+0034-8082.
+MAY, L. et al., 2020. Implicit Theories of Learning as Reflected in One Upper Elementary
+Teacher's Talk. In: Australian Journal of Teacher Education. Vol. 45, iss. 11, s. 56-72.
+ISSN 1835-517X.
+McCRUM, E., 2013. History teachers’ thinking about the nature of their subject. In:
+Teaching and Teacher Education. Vol. 35, s. 73-80. ISSN 0742-051X.
+NAMAMBA, A. a C. RAO, 2016. Teachers’ Beliefs about History and Instructional
+Approaches: A Survey of Secondary School Teachers in Kigoma Municipality, Tanzania.
+In: International Journal of Education and Research. Vol. 4, iss. 8, s. 203-220. ISSN
+2411-5681.
+NEHYBA, J. a P. SVOJANOVSKÝ, 2016. Tacitní znalosti v metaforách studentky
+učitelství. In: Studia paedagogica. Roč. 21, č. 1, s. 57-85.
+NITSCHE, M. a M. WALDIS, 2022. Narrative competence and epistemological beliefs
+of German Swiss prospective history teachers: A situated relationship. In: Historical
+Encounters. Vol. 9, iss. 1, s. 116-140. ISSN 2203-7543.
+OSTRADICKÝ, P. a D. KOSTRUB, 2023. Odkrývanie didaktickej reality učiteľom:
+nedeliteľnosť didaktickej teórie a praxe. In: Edukácia: Vedecko-odborný časopis. Roč. 6,
+č. 1, s. 63-71. ISSN 1339-8725.
+
+74
+
+PATRICIO, J. et al., 2022. Epistemic Beliefs and Pre-service Teachers’ Conceptions of
+History Instruction. In: Frontiers in education. Vol. 7, art. 865222, s. 1-14.
+PORUBSKÝ, Š., 2007. Skúmanie subjektívnej teórie učiteľky. In: Učiteľ – diskurz – žiak.
+Osobnostno-sociálny model primárnej edukácie. Banská Bystrica: Univerzita Mateja
+Bela. s. 100–134.
+PRŮCHA, J., 1987. Determinanty reálné výuky. In: Pedagogika. Roč. 37, č. 4, s. 395415.
+RECHSTEINER, B. et al., 2021. Teachers’ Implicit Theories of Professional Abilities in
+the Domain of School Improvement. In: Frontiers in Education. Zürich: University of
+Zürich. Vol. 6, čl. 635473, s. 1-14.
+RIPKA, V. a P. SÝKOROVÁ, 2023. Epistemická přesvědčení v dějepise. In: Historie –
+otázky – problémy. Roč. 15, č. 2, s. 55-72. ISSN 2336-6672.
+ROMANOWSKI, M. H., 1998. Teacher's Lives and Beliefs: Influences That Shape the
+Teaching of U. S. History, In: Mid-Western Educational Researcher. Vol. 11, iss. 2, art. 2,
+s. 2-8.
+SABARWAL, S. et al., 2022. Teacher Beliefs: Why They Matter and What They Are. In:
+The World Bank Research Observer. Vol. 37, iss. 1, s. 73-106.
+SEEBAUEROVÁ, R., 2007. Proměny subjektivních teorií u studentů učitelství od
+začátku studia do konce čtvrtého semestru. In: Pedagogická orientace. Č. 3, s. 53–65.
+ISSN 1211-4669.
+Slovníkový portál Jazykovedného ústavu Ľ. Štúra SAV, [neznámy rok]. [online],
+Bratislava: Slovenská Akadémia Vied [cit. 13. novembra 2023 a 7. februára 2024].
+Dostupné na: https://slovnik.juls.savba.sk/
+ŠEBEN ZAŤKOVÁ, T. et al., 2015. Vybrané kapitoly z vysokoškolskej pedagogiky
+[online učebnica]. Nitra: SPU Nitra. ISBN 978-80-552-1437-5.
+ŠEĎOVÁ, K. et al., 2016. Pojetí výuky a profesní identita začínajících vysokoškolských
+učitelů. In: Studia paedagogica. Roč. 21, č. 1, s. 9-31.
+ŠÍP, R. a V. ŠVEC, 2013. Pojetí tacitních znalostí v paradigmatu sjednoceného pole. In:
+Pedagogická orientace. Roč. 23, č. 5, s. 664–689.
+ŠTECH, S., 2007. Profesionalita učitele v neo-liberální době. In: Pedagogika. Roč. 57, s.
+326-337.
+ŠTEPITOVÁ, A., 1967. Pedagogická prax ako výukový predmet na univerzitách. In:
+Paedagogica. Roč. 1, s. 109-142.
+
+75
+
+ŠUCH, J., 2015. O dvoch pohľadoch na historické narácie a pluralitu ich obrazov
+minulosti. In: Filozofia. Roč. 70, č. 8, s. 659-669.
+ŠUTOVCOVÁ, L., 2020. Rozvíjanie vyšších kognitívnych procesov ako predpoklad
+zvyšovania úrovne tvorivého a kritického myslenia žiakov. In: GRANT journal. Vol. 11,
+iss. 2, s. 64-68. ISSN 1805-062X.
+ŠVEC, V., 1995. Význam diagnostiky učitelova pojetí výuky v jeho pregraduální
+přípravě. In: Pedagogika. Roč. 45, č. 2, s. 164-170.
+ŠVEC, V., 2003. Implicitní pedagogické znalosti: východiska a možnosti jejich
+zkoumání. In: Sociální a kulturní souvislosti výchovy a vzdělávání: 11. výroční
+mezinárodní konference ČAPV (zborník). Brno: Masarykova Univerzita. Vol. 11, s. 1-9.
+ŠVEC, V., 2005. Ohlédnutí za desetiletým vývojem pedagogické přípravy budoucích
+učitelů. In: Pedagogická orientace. Č. 4, s. 31–43. ISSN 1211-4669.
+ŠVEC, V., 2012. Tacitní znalosti jako most mezi teorií a praxí v pedagogické přípravě
+budoucích učitelů. In: Pedagogická orientace. Roč. 22, č. 3, s. 387–402.
+TOMKULIAKOVÁ, R., 2012. Individuálna koncepcia výučby ako jedna zo zložiek
+stratégií výučby prírodovedy. In: Podmiotowość w edukacji wobec odmienności
+kulturowych oraz społecznych zróżnicowań. Poznań: Wydawnictwo Wyższej Szkoły
+Bezpieczeństwa. ISBN 978-83-61304-52-4. s. 113-146.
+TOMKULIAKOVÁ, R., 2015. Učiteľova individuálna koncepcia výučby a jej vplyv na
+vzdelávací proces na primárnom stupni školy. In: Zagadnienia społeczne. Roč. 4, č. 2, s.
+45-57.
+TÓTHOVÁ, R., 2014. Konštruktivistický prístup vo výučbe ako možnosť rozvoja myslenia žiakov. Bratislava: Metodicko-pedagogické centrum. ISBN 978-80-565-0004-0.
+VANSLEDRIGHT, B. a K. REDDY, 2014. Changing Epistemic Beliefs? An Exploratory
+Study of Cognition Among Prospective History Teachers. In: Revista Tempo e Argumento,
+Florianópolis. Vol. 6, iss.11, s. 28-68.
+VÁVRA, J., 2006. Pojetí výuky zeměpisu (geografie) v britském kurikulu. [online]. [cit.
+17. januára 2024]. Dostupné na: https://clanky.rvp.cz/clanek/c/z/853/POJETI-VYUKYZEMEPISU-GEOGRAFIE-V-BRITSKEM-KURIKULU.html
+VIRTA, A., 2001. Student Teachers' Conceptions of History. In: History Education
+Research Journal. Vol. 2, iss. 1, s. 1-11.
+VOET, M. a B. DE WEVER, 2016. History teachers' conceptions of inquiry-based
+learning, beliefs about the nature of history, and their relation to the classroom context.
+In: Teaching and Teacher Education. Vol. 55, s. 57-67.
+76
+
+VYSKOČILOVÁ, E., 1986. Dovednostní model učitelovy profese. Praha: Pedagogická
+fakulta.
+WILKE, M. et al., 2022. The interplay between historical thinking and epistemological
+beliefs: A case study with history teachers in Flanders. In: Historical encounters. Vol. 9,
+iss. 1, s. 196-219. ISSN 2203-7543.
+WLADIS, C. et al., 2017. A review of research on teacher beliefs and practices. In: Tenth
+Congress of the European Society for Research in Mathematics Education CERME 10
+(zborník). Dublin. Vol. 10, s. 47 – 65.
+YILMAZ, K., 2008. Social Studies Teachers’ Conceptions of History: Calling on
+Historiography. In: The Journal of Educational Research. Vol. 101, iss. 3, s. 158-175.
+ZELEŇÁK, E., 2007. Narativistický pohľad na históriu. In: Forum historiae. Roč. 1, č.
+1, s. 63-72.
+ŽOLDOŠOVÁ, K., 2007. Postoje učiteľov prvého stupňa základných škôl k rôznym
+koncepciám primárneho prírodovedného vzdelávania. In: Svět výchovy a vzdělávaní
+v reflexi současného pedagogického výskumu. České Budějovice: Pedgogická fakulta JU.
+ISBN 978-80-7040-991-6.
+ŽOLDOŠOVÁ, K., 2008. Modifikácia individuálnej koncepcie učiteľa na základe
+skúseností z realizácie projektu „Vyhrňme si rukávy“. In: Acta Facultatis Paedagogica
+Universitatis Tyrnaviensis, D. Roč. 12, suppl. 1.
+
+77
+
+ZOZNAM ILUSTRÁCIÍ A TABULIEK
+Obrázky
+Obrázok 1: Individuálna koncepcia vyučovania učiteľa ilustrovaná ako sito .............. 17
+Obrázok 2: Vnútorná štrukturácia individuálnej koncepcie vyučovania....................... 19
+Obrázok 3: Zložky individuálnej koncepcie vyučovania ............................................. 19
+Obrázok 4: Previazanosť individuálnej koncepcie vyučovania s pedagogickou
+teóriou a praxou ......................................................................................... 20
+Obrázok 5: Vplyvy na učiteľovu individuálnu koncepciu vyučovania a jej vplyv na vyučovanie histórie ........................................................................................ 29
+Obrázok 6: Model kognitívnej náročnosti pojmu minulosť ......................................... 37
+Tabuľky
+Tabuľka 1: Tabuľka príbuzných termínov IKV ............................................................ 13
+Tabuľka 2: Protichodné perspektívy, s nimi spojené tvrdenia a zamerania vyučovania ...
+..................................................................................................................... 41
+Tabuľka 3: Špecifikačná tabuľka výskumného nástroja ................................................ 52
+
+78
+
+PRÍLOHY
+Položky pološtruktúrovaného rozhovoru
+Otázky sú rozdelené podľa tém, viď špecifikačná tabuľka – Tabuľka 3, témy
+nasledujú v poradí, uvedenom v špecifikačnej tabuľke.
+1)
+
+Históriu sa v škole učíme, pretože ...
+
+A ešte?
+
+2)
+
+Význam histórie v spoločnosti je ...
+
+Ešte nejaký?
+
+3)
+
+Koncept histórie chápem ako ...
+
+4)
+
+Pre mňa osobne história znamená ...
+
+5)
+
+Moje vlastné miesto v histórii je ... Je tam ešte niečo?
+
+6)
+
+Na dejepise je najdôležitejšie, aby žiak ... A čo ešte?
+
+7)
+
+Nebudem trvať (ako niektorí iní učitelia) na tom, aby všetci žiaci na dejepise ...
+
+A ešte ako?
+A čo ešte?
+
+Je tam
+
+ešte niečo?
+8)
+
+Pre život je najdôležitejšie, aby si z dejepisu žiaci odniesli ...
+
+9)
+
+Aby žiak prešiel do ďalšieho ročníka, musí z dejepisu bezpodmienečne zvládnuť ... A ešte?
+
+10) Vo vyučovacom procese by malo ísť predovšetkým o to, aby ...
+11) Je dobré, že autori osnov zaradili do dejepisu ...
+
+Ešte niečo?
+A ešte o čo?
+
+A čo ešte?
+
+12) Myslím, že väčšina žiakov by na dejepise nezvládala ...
+
+Ešte niečo?
+
+13) Nezdá sa mi, ako sú v učebnici spracované tieto tematické celky:
+
+A ešte ktoré?
+
+14) Učiteľ si nevystačí s tým, čo je uvedené v učebnici. Preto ...
+
+A ešte?
+
+15) Vzbudiť záujem žiakov o učivo bude vyžadovať, aby som ako učiteľ/ka dejepisu ... A ešte
+čo?
+16) Budem asi trvať na tom, aby každý môj žiak ...
+17) Nevadilo by mi, ak žiak napríklad ...
+
+Ešte niečo?
+
+Je tam ešte niečo?
+
+18) Domnievam sa, že najčastejšou príčinou neúspechu na dejepise je ...
+19) Myslím, že by som dokázal/a odhadnúť žiaka, ktorý ...
+
+A ešte čo?
+
+Je tam ešte niečo?
+
+20) S talentovanými žiakmi to na dejepise nie je jednoduché, pretože ... A prečo ešte?
+21) S talentovanými žiakmi by som to riešil/a tak, že ... A ešte ako?
+22) So slabými žiakmi to na dejepise nie je jednoduché, pretože ...
+
+A prečo ešte?
+
+23) V každej triede bývajú žiaci, ktorí by mohli mať lepšie výsledky, ale nesnažia sa. Myslím,
+že by na nich platilo:
+
+Ešte čo?
+
+24) Aby som mohol/la individuálne pracovať so svojimi žiakmi (napríklad rozvíjať ich
+schopnosti a učebné možnosti), budem zrejme musieť ...
+
+Ešte niečo?
+
+79
+
+25) Dobre by sa mi učilo v triedach, ktoré ...
+
+A ešte čo?
+
+26) Vadilo by mi, keby niektorá trieda ...
+
+A čo ešte?
+
+27) Aktivitu svojich žiakov by som sa snažil/a podnecovať a rozvíjať tým, že ...
+
+A
+
+čím
+
+ešte?
+28) Samostatnosť svojich žiakov by som sa snažil/a podnecovať a rozvíjať tým, že ...
+
+A ešte
+
+čím?
+29) To, aby sa moji žiaci naučili tvorivo riešiť problémy, si odo mňa bude zrejme vyžadovať ...
+A ešte čo?
+30) Pod tvorivou pedagogickou komunikáciou (učiteľa a žiakov) si predstavujem ...
+
+Ešte
+
+niečo?
+31) Učivo by som vykladal/a tak, že ... A ešte?
+32) Pri hodnotení svojich žiakov by som asi kládol/la dôraz na ...
+
+A na čo ešte?
+
+33) Keby časť žiakov stále nerozumela tomu, čo sme prebrali, riešil/a by som to nasledovne:
+Ako ešte?
+34) Hlavným zmyslom názornosti v modernej škole by malo byť ...
+
+Ešte niečo?
+
+35) Domnievam sa, že učebné úlohy, ktoré na dejepise dnešní učitelia predkladajú svojim
+žiakom, by mali byť viac ...
+
+A aké ešte?
+
+36) Učiteľom stále odporúčajú nejaké nové metódy, napríklad:
+
+Ešte nejaké?
+
+Moje
+
+stanovisko by bolo, že ... A čo ešte?
+37) Moderné technológie (internet, video, umelá inteligencia, ...) môžu vo vyučovacom procese
+... Ešte čo?
+38) Myslím si o sebe, že ...
+
+Ešte niečo?
+
+39) Žiaci by si o mne mysleli, že ...
+
+A ešte čo?
+
+40) Domnievam sa, že pri učení dejepisu by sa mi najviac darilo ...
+
+A ešte?
+
+41) Domnievam sa, že pri učení dejepisu by mi najviac problémov spôsobovalo ...
+
+Je tam
+
+ešte niečo?
+42) Cítim, že k tomu, aby som sa stal/a dobrým učiteľom/d.u., budem musieť ...
+
+Čo
+
+ešte?
+43) Tvorivý učiteľ by sa mal podľa mňa prejavovať tým, že ... A čím ešte?
+44) Je veľa rodičov, ktorí si myslia, že dejepis ...
+45) Málokedy sa stane, že rodičia ...
+
+A ešte čo?
+
+Ešte niečo?
+
+46) S kolegami v učiteľskom zbore by som vychádzal/a ...
+
+Je tam ešte niečo?
+
+47) Domnievam sa, že riaditeľ školy by si mal na učiteľoch všímať predovšetkým ...
+
+A ešte
+
+čo?
+
+80
+
+48) Pri dopĺňaní týchto viet som si uvedomil/a, že ...
+
+A ešte čo?
+
+Časť prepisov rozhovorov
+Kvôli technickým problémom pridávam iba snímky obrazovky štyroch strán.
+
+81
+
+Obrázok A
+Obrázok slovenských samosprávnych krajov, z ktorých pochádzajú participanti.
+
+Tabuľka A
+Tabuľka referencií na historické obdobia a témy (participantmi použité príklady).
+Epochy dejín korešpondujú s najbežnejším členením (najnovšie dejiny od 1918).
+Podfarbené políčko znamená participantov dôraz, potenciálne najobľúbenejšie obdobie.
+Meno
+
+PRAVEK
+
+STAROVEK
+
+STREDOVEK
+
+NOVOVEK
+
+N. DEJINY
+
+Artuš
+
+----
+
+----
+
+Anglicko
+
+Henrich VIII.
+
+Mečiar
+
+(14. a 15. stor.)
+
+raný novovek
+
+F.C. Liverpool
+
+reformácia
+
+2. S. V.
+
+kolonizácia NS
+
+Holokaust
+
+priemyselná
+
+moderné dejiny
+
+Francúzsko
+bitka pri Crécy
+bit. pri Poitiers
+zbroj
+zemnica (raný)
+Ludit
+
+----
+
+----
+
+Uhorsko
+
+revolúcia
+Newton
+zjednotenia T,N
+1. S. V.
+
+82
+
+Aténa
+
+domestifikácia psa
+
+Rímska ríša
+
+obyčajný roľník
+
+vynález auta
+
+Gulagy
+
+Tiberius
+
+renes. Florencia
+
+vynález motora
+
+konc. tábory
+
+prenasledovanie
+
+Waterloo
+
+Hitler
+
+kresťanov
+
+bit. na Somme
+
+Hlinka
+Barbarossa
+
+Stela
+
+prav. nástroje
+
+starov. nástroje
+
+bit. pri Moháči
+
+Rakúsko-Uhorsko
+
+Holokaust
+
+antika
+
+život v stredov.
+
+noviny
+
+Slovenský štát
+vojna na Ukr.
+SNP
+vznik Slovenska
+
+Tabuľka B
+Roztriedené participantmi použité pojmy do kategórií epochy, geografické pojmy,
+osobnosti, pojmy politických dejín a pojmy každodennosti. V práci nepoužité, slúži ako
+zaujímavá ilustrácia, dokresľujúca uvažovanie participantov.
+Artuš
+
+epochy
+
+geo
+
+osobnosti
+
+politické dejiny
+
+každodennosť
+
+Σ
+
+stredovek
+
+Anglicko
+
+Henrich
+
+b.p. Crécy
+
+zbroj
+
+12
+
+raný novovek
+
+Francúzsko
+
+VIII.
+
+b.p. Poitiers
+
+zemnica
+
+najnovšie dej.
+Ludit
+
+moderné dej.
+
+Mečiar
+Uhorsko
+
+Newton
+
+F.C. Liverpool
+reformácia
+
+----
+
+10
+
+17
+
+kolonizácia
+zjednotenie Tal.
+zjednotenie Ne.
+1. S. V.
+2. S. V.
+Holokaust
+Aténa
+
+stredovek
+
+Rímska ríša
+
+Tiberius
+
+pren. kresť.
+
+domestifik. psa
+
+(renesancia)
+
+Florencia
+
+Hitler
+
+b.p. Waterloo
+
+život roľníka
+
+Hlinka
+
+b.n. Somme
+
+vynález auta
+
+gulagy
+
+vynález motora
+
+konc. tábory
+Barbarossa
+Stela
+
+pravek
+
+Rakúsko-
+
+antika
+starovek
+
+----
+
+b.p. Moháči
+
+praveké nástr.
+
+Uhorsko
+
+Holokaust
+
+staroveké nástr.
+
+Slovenský št.
+
+vojna na Ukr.
+
+život v stredov.
+
+SNP
+
+noviny
+
+súčasné dej.
+
+15
+
+vznik Slovenska
+Σ
+
+10
+
+7
+
+6
+
+20
+
+11
+
+54
+
+83
+
+Výskumný denník
+Spolu 267 min. nahrávok
+45 stranový prepis rozhovorov, 1 147 kódov
+3 tabuľky
+Artuš
+Dĺžka rozhovoru – 75 min., okolo 9 500 slov, 291 kódov.
+26.2.2024
+Veľmi kooperatívny, ochotný, rozvláčne sa vyjadrujúci
+Na základe fínskych otázok je zjavné, že nerozlišuje históriu a minulosť
+Vo veľkom sa odvoláva na didaktiku dejepisu, či už priamo, alebo nepriamo
+Ako končiaci študent má skúsenosti z praxe školskej, aj vlastnej, z druhého
+aprobačného predmetu
+Väčšinou v prvej výpovedi povedal viac, no takmer vždy pridal niečo v druhej,
+občas aj dôležitejšie
+Na začiatku bolo cítiť neistotu (aj z mojej strany), neskôr sa rozbehol, vrátane
+vtipkovania, nakoniec to pre neho bolo trošku zdĺhavé a občas mu vypadla myšlienka
+(podľa jeho slov)
+Niekedy spomenul jasné príklady z praxe, inokedy hovoril vo veľmi všeobecnej
+rovine, teoreticky
+3.3.2024
+Veľmi frekventovaná premena žiakov (pl.) v otázke na žiaka (sg.) v odpovedi
+Výrazný vplyv didaktiky dejepisu a vlastnej učiteľskej praxe
+4.3.2024
+Slovosled išiel bokom
+Viacero odpovedí na 1 otázku
+Postupne sa zapojil, ožil
+17.6.2024
+Opiera sa o skúsenosti z praxe, no nie sú dostatočné, cíti potrebu ďalších
+Občas sa zakecal, namiesto odpovedania na otázku, pokračoval vo svojom
+rozprávaní
+Nerozlišuje históriu/minulosť, no je veľmi konštruktívny a zameraný na žiaka,
+komunikatívny
+18.6.2024
+84
+
+Niektoré odpovede príliš pedagogicky všeobecné, chýbalo zameranie na dejepis
+19.6.2024
+ANALÝZA:
+OSOBNOSŤ
+-
+
+empatický, priateľský, komunikatívny (silná stránka?), urozprávaný, motivujúci,
+zaujímajúci sa o žiakov, zameraný na žiakov
+
+-
+
+dôraz na klímu a bezpečné prostredie
+
+-
+
+každý má svoje obdobie – on stredovek
+
+-
+
+zdôrazňuje potrebu nabrať viac skúseností
+
+-
+
+predstavuje si katastrofické scenáre, problém s disciplínou a pozornosťou
+
+-
+
+neporozumenie názornosti, nevyjadril sa ku učebniciam, nepozná kurikulum
+
+-
+
+náročný, ochotný skúšať nové veci
+
+-
+
+formovali ho: didaktika dejepisu (vo veľkom), spomína prax (aj skúsenosti
+z učenia angličtiny), spomína veľa príkladov vo vyučovaní
+
+CIELE
+-
+
+prepájanie minulosti s prítomnosťou, práca s informáciami z minulosti, do života,
+súvislosti pred memorovaním, nie roky, nie faktografia kvôli maturite
+
+-
+
+dôležité sú pojmy a ich spájanie
+
+-
+
+pochopenie života v minulosti
+
+-
+
+schopnosť obhájiť si argument
+
+-
+
+prehľad – pravek až súčasnosť, základná orientácia, poznať obdobia, syntéza
+
+-
+
+dejiny ideí, dejiny každodennosti, návod na život, aplikovanie do života, poučenie
+
+METÓDY
+-
+
+nie dlhý monológ, ale striedanie činností, aktivít a tém, veľa inovatívnych metód
+a prostriedkov (potreba nových metód), hodiny by sa mali líšiť, doplnkové
+materiály (pomôcky): mapy, videá, interaktívne, moderné materiály a prístupy,
+pojmové mapy, skupinové aktivity, práca s prameňom a doplnkovým materiálom,
+skúšanie rôznych prístupov – čo funguje
+
+-
+
+dôraz na komunikáciu – otázky a dobré otázky, dialóg, veľa otázok, diskusný
+kanál a zodpovedanie žiackych otázok, čulá komunikácia, rozprávanie, rozhovor,
+spätná väzba žiakom, 1 vlna komunikácie – nie dlhý monológ (strata nite)
+
+-
+
+používanie technológií, žiacke prezentácie, projekty, referáty, interaktivita,
+historické filmy, filmy, videá, zapájanie rôznych vnemov, pri nových
+
+85
+
+technológiách neistota a opatrnosť, katastrofické scenáre, proti smartfónom, AI
+nepreskúmaná
+-
+
+v učebniciach zastarané úlohy, nízka kognitívna úroveň, zapojiť kreatívne úlohy,
+otvorené otázky, pýtanie sa na názory
+
+EPISTEMOLÓGIA
+-
+
+história = minulosť (trošku pretriedená), neuvažuje o pojme história, minulosť
+
+-
+
+charakteristiky moderného dejepisu: vizuálny, hmotný, názorný, viditeľný, menej
+o sekundárnom texte, práca s prameňom a odborným materiálom – náznak
+konštruktivizmu
+
+-
+
+žiakocentrické učivo, osnovy sú dobré – zamerané na žiaka
+
+-
+
+práca s pojmami (kompetencia?), budovanie komunikačných zručností
+
+Ludit
+Dĺžka rozhovoru – 60 min., okolo 6 000 slov, 269 kódov.
+14.2.2024
+Veľmi dobre spolupracujúci
+Šikovný v dejepise, absolvoval bratislavské gymnázium s dobrým vyučovaním
+dejepisu
+Občas hovoril veľmi teoreticky, poučkovito, idealisticky
+Jeho skúsenosti tvorí vlastné vyučovanie a občasné 1-1 doučovanie (ale nie
+dejepisu)
+Prvé otázky boli najťažšie a aj to na ňom bolo cítiť
+Postupne sa uvoľnil
+Občas dopovedal aj rozšírené
+Väčšinou hovoril po jednej myšlienke na prvýkrát aj na doplnenie
+Má rád dejepis a chystá sa ísť učiť
+15.2.2024
+Bolo pri ňom cítiť isté penzum vysokoškolských vedomostí, občas to aj priamo
+spomenul
+Nesústredil sa až tak na slovosled
+Používal veľa ‚slovných barličiek‘ – zbytočných slov
+Väčšinou 1 odpoveď na 1 otázku
+18.3.2024
+
+86
+
+Z minulosti spomínal iba udalosti od priemyselnej revolúcie + raz spomenul
+stredoveké Uhorsko
+Často povedal podstatu prvým slovným spojením a ďalej ju upresnil, alebo doplnil
+Vidí protiklad v biflení a logickom učení sa (?) – ako keby nebolo nič medzi
+Keď sa hovorí o tvorivosti, berie ju veľmi široko – akoby to bolo synonymum
+dobrého učiteľa (nevenuje sa priamo tvorivosti)
+Živá prekoncepcia, plný ideálov
+11.4.2024
+Častý je u neho optimisticko-idealistický pohľad, ktorý si sám uvedomuje
+18.6.2024
+Cítiť z neho neistotu a to, že jeho koncepcia je zatiaľ len neúplnou prekoncepciou
+– nespomína všetko, vracia sa ku bifleniu, interaktívnym prezentáciám, diagnostikovaniu
+Hoci spomína aktivizujúce metódy, zamerané na žiaka, dôraz kladie na výklad,
+inde naopak – z rozpoltenosti vyplýva, že ide iba o prekoncepciu, hoci postmodernisticky
+našliapnutú
+19.6.2024
+ANALÝZA:
+OSOBNOSŤ
+-
+
+milý prístup, záujem o žiakov a vcítenie sa, priateľskosť, humor, schopnosť
+jednoducho vysvetľovať zložité
+
+-
+
+chce ísť učiť, uvedomuje si, že je plný ideálov, má neistotu a obavy (vytriezvenie
+v praxi), teoreticky rozumie, že učiteľovanie je náročné, sociálna práca,
+uvedomuje si veľa práce, nedostatok času, potrebu byť expertom, uvedomuje si
+vlastné slabiny
+
+-
+
+nepozná kurikulum a učebnice
+
+-
+
+formovali ho: aj ukričaní učitelia, nadšená dejepisárka, interaktívny dejepis
+v škole, inšpiratívni učitelia, vysokoškolské vyučovanie – všeobecná didaktika,
+pedagogická komunikácia
+
+CIELE
+-
+
+nadchnúť, zaujať, nie suchý výklad
+
+-
+
+základné historické vedomosti, zaradenie historickej udalosti, súvislosti
+
+-
+
+uvedomenie si dejín, minulosť – prítomnosť, pochopenie príčin dnešných
+problémov, prítomnosť = dôsledok minulosti
+
+-
+
+každodennosť
+87
+
+-
+
+historická pamäť, nezabúdať na dobré aj zlé (neoficiálne dejiny)
+
+-
+
+proti bifleniu sa, memorovaniu dátumov, ale pochopenie
+
+-
+
+cielenie na vysokú kognitívnu hladinu – (kritické) hodnotenie historických
+udalostí, žiaci by mali mať na udalosti vlastný názor
+
+METÓDY
+-
+
+výklad, striedaný aktivitami, prijatie nových metód, aj tak dôraz na výklad,
+doplnkové úlohy, vyššia kognitívna náročnosť, ťažké otázky – lešenie, vlastný
+názor
+
+-
+
+dejepis je učený nekvalitne, obľúbená každodennosť, medzipredmetová
+spolupráca
+
+-
+
+opakované diagnostikovanie a feedback (asi súvisí s neistotou), pýtanie si
+feedbacku
+
+-
+
+moderné (digitálne) technológie majú výhody aj nevýhody – realistický pohľad
+
+-
+
+snaha o osobný prístup – triedy, žiaci sa líšia
+
+-
+
+inovatívnosť a interaktívnosť – modulové sedenie, miniprojektíky, interaktívne
+prezentácie a úlohy, multimediálny prístup, spomenul aj pramene a náročnosť
+práce s nimi, ale ďalej ich nerozvíjal, naznačená ochota experimentovať,
+gamefikácia, kahoot na zaujatie žiakov, hodnotenie aj za inovatívnosť a aktivitu
+
+EPISTEMOLÓGIA
+-
+
+história = rekonštrukcia minulosti, zbieranie pamäte ľudí, naznačený prístup
+zameraný na žiaka, no nie je vyprofilovaný jedným smerom, prekoncepcia so
+známkami postmodernistického uvažovania
+
+Aténa
+Dĺžka rozhovoru – 70 min., okolo 7 500 slov, 317 kódov.
+19.3.2024
+Dobre sa vyjadrujúca, dobre spolupracujúca
+Viac teoreticky, ako keby nepochopila, že môže častejšie hovoriť skúsenosti
+Cíti sa byť neskúsená a bojí sa vyhorenia
+Nerozlišuje históriu a minulosť
+Nespomína prácu s prameňmi, aspoň nie s písomnými
+Pýta sa veľa doplňujúcich otázok, asi aby neodpovedala zle
+Častokrát vynechala možnosť na doplnenie odpovede
+Viacmenej rovnomerný výkon
+88
+
+Spomínala dosť praktických skúseností
+Prezentuje sa ako komunikatívna tvorivá učiteľka
+Väčšinou vyjadrovala jednu myšlienku a prešla ku ďalšej
+20.3.2024
+Častokrát na konci zhrnula hlavnú myšlienku
+Väčšinou hovorí o študentoch
+Tvrdí, že je nepripravená a má obavy z vyhorenia
+Reflexiou/tvorivým písaním je zjavný druhý aprobačný predmet
+25.3.2024
+Často formát: tvrdenie – rozvinutie (odôvodnenie) – záver (zopakovanie hlavnej
+myšlienky)
+Komplexnejšie/kognitívne
+
+náročnejšie/abstraktnejšie
+
+otázky
+
+zodpovedala
+
+metaforicky
+Častokrát spomínaná kniha (možný prienik so SJL)
+Spomínala málo vedomostí, ale veľa o tvorivosti a fantázii, dokonca aj nesprávnu
+otázku (čo by bolo keby...?)
+19.6.2024
+Patrí do skupiny ľudí, ktorých k histórii priťahuje prevažne jej emocionálny
+rozmer (Virta, 2001) – inklinuje k fantázii a vyjadruje sa v metaforách
+20.6.2024
+ANALÝZA:
+OSOBNOSŤ
+-
+
+priateľská, komunikatívna osoba, vie si získať žiakov, má zmysel pre
+spravodlivosť, nechce byť autoritatívnou učiteľkou
+
+-
+
+za vysokú hodnotu považuje tvorivosť, originálnosť, inovatívnosť, pútavosť,
+novosť
+
+-
+
+nemá prehľad o učebniciach, nepozná kurikulum, nemá naštudované nové
+metódy, problém s pochopením názornosti
+
+-
+
+má obavy o prax, je nerozhodná, obáva sa o odbornú stránku, v ktorej vidí
+najväčšie medzery, nepripravenosť z odbornej histórie, dôvodom aj pandémia
+
+-
+
+má skúsenosti z praxe, rozprávanie prepletala príkladmi
+
+-
+
+cíti potrebu nabratia skúseností, praxe, cíti nedostatok času
+
+-
+
+formovali ju: didaktika dejepisu a edulab – odvoláva sa na to, okrem toho vplyv
+sjl a tvorivého písania, skúsenosti z praxe, implicitná didaktika dejepisu
+89
+
+CIELE
+-
+
+zvládnuť gro, každodennosť – nielen politické dejiny, časť histórie pre každého
+
+-
+
+metaforicky hovorí o histórii, dejepis pre prítomný úžitok, radenie, výstrahy,
+poučenie, mravoučná hodnota, pochopenie hist., zaujatie, nadchnutie sa, snenie,
+fantazírovanie
+
+-
+
+rozvíjanie tvorivosti žiakov a komunikačných schopností a zručností
+
+-
+
+nie holá chronológia, memorovanie ako problém, poznať význam a dôsledky, nie
+presné dátumy, vedomosti menej dôležité ako vyjadrenie názoru
+
+METÓDY
+-
+
+kľúč – ktorú metódu kedy použiť
+
+-
+
+diskutovanie, filozofovanie, uvažovanie, polemizovanie, otvorené otázky, aj bez
+jasnej odpovede, schopnosť obhájiť argument, obavy – veľa diskusie málo
+vedomostí, hovorí veľmi všeobecne – nie odborne
+
+-
+
+úlohy by mali byť názornejšie, abstraktnejšie, kognitívne náročnejšie, fantázia,
+prínos
+
+-
+
+pútavosť, zaujatie, tvorivá komunikácia, diskutovanie, menej výkladu, viac
+rozhovoru
+
+-
+
+projektové vyučovanie, hranie scénok, videá (youtube), oral history, odborná
+literatúra, podcasty, dokumentárny film, film, seriál, komiks, tvorivé písanie,
+brainstorming
+
+-
+
+technológie – pomôžu pritiahnuť žiakov, zároveň majú negatíva, žiaci zneužívajú
+
+EPISTEMOLÓGIA
+-
+
+v podstate história = minulosť, nerozlišuje
+
+-
+
+prispôsobenie sa žiakom (až ako jeden zo žiakov?), sprievodca, moderátor hodiny,
+asi nie v zmysle facilitátora
+
+-
+
+učiteľ bádateľ – vedenie k bádaniu (kompetencia?), rozvíjanie hodnôt
+(kompetencia empatia?)
+
+Stela
+Dĺžka rozhovoru – 82 min., okolo 9 700 slov, 270 kódov.
+4.4.2024
+Rozprávajúca, v mnohom dobre
+Zo začiatku veľmi rozvité odpovede, neskôr pomenej, menej pridávala, nakoniec
+akoby sa ponáhľala
+90
+
+5.4.2024
+Vo veľkom odkazovala na slovenské dejiny (všetci spomenuli aspoň raz, ona s
+prevahou)
+8.4.2024
+Neodlišuje históriu a minulosť terminologicky, ale fakticky rozdielu aspoň sčasti
+rozumie, pretože hovorí o rôznych interpretáciách
+Použité príklady sú často abstraktné, naznačujúce
+Používa veľa zaujímavých odborných termínov
+19.6.2024
+Odvoláva sa na skúsenosti zo základnej školy, gymnázia, aj vysokej školy
+Mnohé pohľady sú výrazne teoretické, nie pevne sformulované
+20.6.2024
+Podľa Virta-ovej (2001) javí prevažne intelektuálny záujem o históriu
+ANALÝZA:
+OSOBNOSŤ
+-
+
+chápavá, dobrák, možno príliš mäkká – žiaci by si dovoľovali, trpezlivá, ukecaná,
+schopná čítať žiakov
+
+-
+
+neistota do budúcnosti, opakuje potrebu praxe, nabratia skúseností, ešte nikdy
+neučila, nepozná kurikulum, nepozná tematické celky v učebnici, nepozná nové
+metódy
+
+-
+
+Chce naberať skúsenosti, aj od skúsených učiteľov, webináre, diskusné fóra
+
+-
+
+formovali ju: zš, sš, vš, negatívne skúsenosti – starí učitelia, teoretickosť vš
+
+CIELE
+-
+
+zapojiť žiakov, vysvetliť prínos, motivovanie, presviedčanie, aktivizovanie,
+upútanie, dejepis nemajú vnímať ako voľno, prekvapenia – nie stereotyp, nie
+monotónne hodiny, zapájanie nových metód
+
+-
+
+pochopenie, nie memorovanie, suchá faktografia – silne proti memorovaniu,
+učeniu sa naspamäť, zameranie na prínos, úžitok, žiakov nebavia suché fakty, ale
+pikošky
+
+-
+
+uchovávanie pamäte, tradícií, neopakovanie minulých chýb (cyklický kruh),
+utváranie svetonázoru
+
+METÓDY
+-
+
+rôzne metódy – podľa triedy: diktovanie, prezentácie, pracovné listy, nielen
+výklad – aktivizovanie žiakov, multimediálne vyučovanie, krátke domáce úlohy,
+91
+
+videá (youtube), spoločná skupinová práca, spolužiacke vysvetľovanie, postery,
+exkurzie, interaktívny dejepis, dobové artefakty, pramene – analýza
+-
+
+diskusie, otvorené otázky (dôležitejšie ako dobré známky), uvažovanie, vyššia
+kognitívna náročnosť, zapájanie žiakov, aktivizovanie, názorové otázky
+
+-
+
+moderné vybavenie – mod. vyučovanie, internet, dobrý sluha – zlý pán
+(skúsenosti)
+
+EPISTEMOLÓGIA
+-
+
+empatia, rozvíjanie osobnosti – kompetencia historickej empatie (Bartelds et al.,
+2020)
+
+-
+
+snaha o zapájanie žiakov – prístup zameraný na žiaka
+
+-
+
+neuvažovala o koncepte histórie a minulosti, no uvedomuje si interpretačnú
+povahu histórie a potrebu učiť o nej, pozerať sa z druhej strany, viesť žiakov
+k vlastnému interpretovaniu
+
+Všeobecne
+9.4.2024
+Muži sú si podobní, ženy sú si podobné, ale vzájomne sa líšia
+Menší rozdiel zatiaľ vnímam medzi ročníkmi – tam hlavne malý rozdiel
+v skúsenostiach
+Ženy širšie obdobie – všetky epochy, muži majú svoje špecifické (okrem toho
+ženy spomínajú život v stredoveku ako niečo dávne, temné, pusté, ..? – ale nie
+v staroveku, alebo praveku...)
+11.4.2024
+Okódované významové kategórie som sa rozhodol roztriediť do excelovskej
+tabuľky (zoznam významových kategórií), v ktorej sú kódy rozdelené podľa participanta
+v stĺpcoch a podľa tém a príslušných podnetových výrokov v riadkoch
+Muži, ktorí vyjadrili vzťah ku konkrétnej historickej téme zároveň zdôraznili, že
+tá téma je dôležitá, významná, potrebná. Artuš dokonca spomína, že každý dejepisár „má
+svoju vlastnú tému“ (s. 12, r. 26)
+19.6.2024
+Spomínali málo odborných pojmov
+Participanti sú vo svojej koncepcii (prekoncepcii) ovplyvnení aj druhým
+aprobačným predmetom – napríklad práca s anglickými materiálmi (angl), alebo písomná
+tvorivá komunikácia (sjl)
+92
+
+Skutočnosť, že participanti hovoria o žiakoch a prispôsobenie sa im, môže svedčiť
+o zameranosti na žiakov, čo je prvkom postmodernistického vyučovania dejepisu
+20.6.2024
+Všetci participanti, aj tí pred praxou, si uvedomujú nelichotivú situáciu učiteľa
+Možno porovnávať mieru sformovanosti koncepcie
+Budúci učitelia pred praxou majú prekoncepciu, odvolávajú sa najčastejšie na
+skúsenosti zo zš, sš, vš, učitelia po praxi sa odvolávajú skôr na vlastné skúsenosti z praxe
+Príčiny inklinácie k postmodernistickému spôsobu môžu byť viaceré, z našej
+práce vyplývajú napríklad: negatívne skúsenosti s učiteľmi zameranými na memorovanie
+(Stela), pozitívne skúsenosti s interaktívnym vyučovaním dejepisu a nadšená učiteľka
+dejepisu (Ludit), a tiež skúsenosti z praxe, kde bolo treba žiakov zaujať a vedomosti
+nadobudnuté na didaktike dejepisu (Artuš, Aténa)
+Všetci spomenuli každodennosť (hoci menej príkladov), všetci zásadne proti
+memorovaniu, všetci zameraní na žiaka, všetci rôzne pomôcky
+21.6.2024
+Úžitok do života: Artuš, Aténa, Stela (Martínez-Rodríguez et al., 2019)
+Vyššia kognitívna náročnosť: Artuš, Aténa, Ludit, Stela
+
+93
+
+

@@ -1,0 +1,2237 @@
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE
+SV. ALŽBETY V BRATISLAVE
+ÚSTAV BL. Z. G. MALLU KOŠICE
+
+KVALITATÍVNA PORUCHA VEDOMIA PACIENTOV NA
+JEDNOTKÁCH INTENZÍVNEJ STAROSTLIVOSTI
+BAKALÁRSKA PRÁCA
+
+KOŠICE 2021
+
+LEA BALOGHOVÁ
+
+VYSOKÁ ŠKOLA ZDRAVOTNÍCTVA A SOCIÁLNEJ PRÁCE SV.
+ALŽBETY, N.O. BRATISLAVA
+DETAŠOVANÉ PRACOVISKO BL. Z. G. MALLU, KOŠICE
+
+KVALITATÍVNA PORUCHA VEDOMIA PACIENTOV
+NA JEDNOTKÁCH INTENZÍVNEJ STAROSTLIVOSTI
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+5602 7 00 Ošetrovateľstvo
+
+Študijný odbor:
+
+5602 Ošetrovateľstvo
+
+Školiace pracovisko:
+
+Košice
+
+Školiteľ záverečnej práce:
+
+doc.PhDr. Darina Wiczmándyová,
+PhD.mim.prof.
+
+KOŠICE 2021
+
+LEA BALOGHOVÁ
+
+2
+
+3
+
+Poďakovanie
+Týmto by som sa chcela veľmi pekne poďakovať svojej školiteľke doc. PhDr.
+Darine Wiczmándyovej, PhD. mim. prof. za odborné vedenie, pomoc, inšpirácie, rady a za
+ochotu pri písaní bakalárskej práce.
+Svojej rodine ďakujem za trpezlivosť a podporu.
+
+4
+
+ABSTRAKT
+BALOGHOVÁ, LEA: „Kvalitatívna porucha vedomia pacientov na jednotkách intenzívnej
+starostlivosti! ". [ Bakalárska práca ] / Lea Baloghová. - Vysoká škola zdravotníctva a sociálnej
+práce sv. Alžbety v Bratislave. Ústav Bl. Z. G. Mallu, Košice.; Katedra ošetrovateľstva. Školiteľ:
+doc. PhDr. Darina Wiczmándyová, PhD, mim. prof. Katedra ošetrovateľstva. Stupeň odbornej
+kvalifikácie: Bakalár ošetrovateľstva. Košice Ústav Bl. Z. G. Mallu, 2021. 63 strán.
+
+ÚVOD: Vedomím nazývame stav, kedy človek správne reaguje na vonkajšie aj vnútorné podnety,
+uvedomuje si seba samého a aj svoje okolie. Je to vlastne schopnosť uvedomiť si seba samého ako
+individualitu. Jednotná definícia delíria zatiaľ nie je. Jedná sa o veľmi vážny psychický stav, ktorý
+je súčasťou iných vážnych telesných ochorení
+
+a intoxikácií. Je spojené s vyššou mortalitou a
+
+morbiditou, dlhšou hospitalizáciou, vyššími nákladmi na starostlivosť, zhoršuje prognózy iných
+porúch, ohrozuje pacientov úbytkom kognitívnych funkcií. Delíriá výrazne zhoršujú kvalitu života
+pacientov a ich príbuzných a preto si zaslúžia viac pozornosti, sú často nediagnostikované,
+postihujú najmä seniorov, ale môžu sa vyskytnúť v akomkoľvek veku.
+
+METÓDY: Cieľom našej bakalárskej práce bolo zistiť, aké majú sestry vedomosti o pacientoch v
+delíriu na JIS, ako sa tieto stavy prejavujú, čo ich môže spôsobiť, aká je prevencia a aké opatrenia
+sú používané v praxi pri rozvinutom delirujúcom stave. Teoretickou analýzou sme sa venovali
+príčinám, prejavom, možnostiam testov používaných na OAIM/JIS, preventívnym opatreniam u
+ventilovaných pacientov a aj liečbe delírií.
+
+VÝSLEDKY: Realizovaným prieskumom metódou dotazníkov u sestier pracujúcich na OAIM/
+JIS sme zistili a z výsledkov práce vyplynulo, že sestry považujú prevenciu pred vznikom delírií za
+dôležitú, testovacie škály na včasné rozpoznanie delírií sa síce používajú málo, ale sestry majú
+vedomosti aj keď len čiastočné o vyvolávajúcich faktoroch delírií, následkoch ale aj preventívnych
+opatreniach pred jeho vznikom.
+
+ZÁVER: Bakalárska práca by práve pre to, mohla byť prínosom a vhodným materiálom pre
+usporiadanie odborných podujatí a seminárov s takouto témou práve pre to, lebo sestra je s
+pacientom v dlhšom a takmer neustálom kontakte a môže svojimi vedomosťami prispieť k
+včasnému rozpoznaniu počínajúceho delíria vykonať preventívne opatrenia a intervencie a predísť
+tak množstvu komplikácií.
+
+Kľúčové slová: Delírium. Preventívne opatrenia. Intervencie. Kognitívne funkcie.
+5
+
+ABSTRACT
+BALOGHOVÁ, LEA: „Qualitative standstill of patient at the units of intensive care”.[Bachelor
+thesis]/ Lea Baloghová - St. Elisabeth´s University of Health Care and Social Works, Bratislava.
+Institute of the Blessed Z. G. Malla, Košice; Department of Attendance. Trainer: doc. PhDr. Darina
+Wiczmándyová, PhD, mim. Prof. Of Department of Attandance. Degree of special qualification:
+Bachelor of attandance. Košice Institute of the Blessed Z. G. Malla 2021. 63 pages.
+
+INTRODUCTION: Consciousness is the state when a person reacts correctly to external and
+internal impulses, he/she is conscious of himself/herself and his/her surrounding. I tis the ability to
+be consious of himself/herself as an individuality. Definition of delirium still does not exist. I tis
+a very serious psychical state which is a part of very serious physical diseases and intoxications. I
+tis connected with higher mortality and morbidity, longer hospitalization, higher expenses for care,
+it makes worse the prognoses of other standstills, it endangers patients by lowering their cognitive
+functions. The states of delirium make much worse the quality of patientś and their relativeś
+lives, and that is why, their deserve more attention. They are not diagnostized, they befall mainly
+the seniors, but they can occur in any age.
+
+METHODS: The aim of our bachelor thesis was to find out the knowledge of nurses in delirium
+at the units of intensive care, what are the symtoms of these states, what can cause them, what is
+the prevention and what kind of steps can be used at the developed delirious state. We devoted our
+theoretical analysis to reasons, efects, oportunities of test sused at the units of intensive medicine,
+preventive steps in case of ventilated patients as well as the cure of delirious patients.
+
+RESULTS: By realization of research among the nurses working at the units of intensive
+medicine we found out what is also obvious from the results of our thesis, that nurses consider the
+prevention of delirium to be very important, although the testing scales for finding out delirium are
+not very often used, the nurses are informed (often just partially) about factors that cause delirium,
+econsequences and preventive steps against its rise.
+
+CONCLUSION: That is why, our bachelor thesis could be a contribution and a suitable material
+for organizing professional events and seminars on this topic because the nurse is in longer and
+almost unceasing contact and according to her knowledge she can contribute to early recognition of
+beginning delirium, make preventive steps and interventions and so she can precede possible
+complications.
+
+Key words: Delirium. Preventive steps. Interventions. Cognitive functions.
+6
+
+OBSAH
+
+ÚVOD
+
+8
+
+1 Teoretické východiská práce
+
+10
+
+1.1 Vedomie
+
+10
+
+1.2 Poruchy vedomia
+
+11
+
+1.3 Kvalitatívna porucha vedomia
+
+11
+
+1.4 Delírium
+
+14
+
+1.5 Etiológia
+
+17
+
+1.6 Klinický obraz delírií
+
+23
+
+1.7 Diagnostika delírií
+
+25
+
+1.8 Preventívne opatrenia pred vznikom delíria
+
+29
+
+1.9 Liečba delíria
+
+34
+
+2 Metodika výskumu
+
+36
+
+2.1 Vymedzenie výskumného problému
+
+36
+
+2.2 Ciele výskumu
+
+36
+
+2.3 Realizácia výskumu
+
+37
+
+2.4 Metodológia výskumu
+
+37
+
+3 Výsledky výskumu
+
+38
+
+3.1 Vedomostné otázky
+
+38
+
+3.2 Demografické údaje
+
+51
+
+4 DISKUSIA
+
+53
+
+4.1 Odpovede na prieskumné otázky
+
+53
+
+4.2 Návrhy a odporúčania pre prax
+
+57
+
+ZÁVER
+
+59
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+
+61
+
+PRÍLOHY
+7
+
+ÚVOD
+Pojem ako bezvedomie či zmenené vedomie vyjadrujú pojmy, ktoré sa získali pri lôžku
+pacienta. Vznikli nezávisle na teoretických poznatkoch o podstate vedomia. Bezvedomím
+označujeme stav, keď telesný život pokračuje bez toho, aby boli prítomné nejaké známky
+psychického života. Výraz zmenené vedomie nám udáva stav, kedy správanie, reč,
+myslenie a emocionálne prejavy človeka náhle nechápeme a nedokážeme sa do nich vcítiť.
+Takýto človek bol ako my, no zrazu má chaotické prejavy a predstavy, je dezorientovaný.
+Medzi stavy zmeneného vedomia radíme delírium, ktorému je v súčasnosti pripisovaná
+nízka dôležitosť a je spojené len so stavmi opitosti a abstinenčných príznakov.
+Delírium sa môže týkať každého z nás. Môže ním trpieť každý človek. Jedine
+vnímavosť na škodlivinu je u každého rozdielna. Odhaduje sa, že asi 1/3 všetkých ľudí
+prekoná jednu delirantnú fázu. Nie je dokázaná ani dedičnosť ani premorbídne rysy
+osobnosti. Najčastejšou príčinou, prečo je k naliehavým prípadom volaný psychiater, je
+náhla zmena správania, nekľud, zmätenosť. Správna diagnostika a terapia sú dôležité pre
+ďalší priebeh ochorenia. Pochybenia môžu byť príčinou komplikácií, ale aj rýchlej smrti.
+Delíriá patria k vážnym problémom súčasnej psychosomatickej medicíny, nakoľko jeho
+výskum bol dlhodobo zanedbaný psychiatriou, ale aj všeobecnou medicínou. Týka sa
+najmä starších ľudí, ktorí sa nedokážu zorientovať v cudzom prostredí, do ktorého sa náhle
+dostali. Do takéhoto stavu sa vlastne dostanú nenápadne a určite sa s podobným stavom
+stretol každý zdravotnícky pracovník. Starý pacient, pripútaný na lôžko, ako prvé sa pýta
+na "zbytočné” otázky. Nevie, kde je a čo sa deje. Ráno sa mu horšie dýchalo, ale už je mu
+lepšie. Vie, že má horšiu pamäť, hanbí sa za to a preto sa najprv nenápadne pýta. Alebo aj
+vie, kde je, ale sa bojí a má starosti, nevie kde má oblečenie, svoje veci, kde sú všetci
+príbuzní? Kde mám okuliare, topánky, kedy príde Janka, Danka, Hanka? Otázky personál
+berie ako obťažujúce a zbytočné. Personál nemá čas, je zaneprázdnený a tak odpovedá
+podráždene, alebo len veľmi jednoducho a stroho. Neviem, šaty sú v skrini, okuliare tu
+nemáte, neviem kedy príde Janka, Danka, Hanka a nemáme čas to teraz zisťovať. Neskôr:
+chcem ísť na záchod, personál- netreba, máte katéter, máte plienku, netreba nikam chodiť,
+teraz sa nedá, musíte ležať. Večer, zhasnú sa svetlá, všade je tma, nikto nikde, alebo je
+8
+
+prílišný hluk (podľa oddelenia a stavov). Pacient sa chce napiť, tlačí ho posteľ, nikoho a
+nič nevidí, nemá koho požiadať o pomoc. Personál nemá čas a nič si vlastne nevšimol,
+alebo nevníma takúto situáciu ako nebezpečenstvo vzniku dezorientácie a delíria. Pacient
+zabudol, kde a ako má zavolať sestru a tak kričí. Nasleduje okríknutie: “Veď rušíte
+ostatných, sú tu aj iní pacienti. Už je noc, tak spite”. Posteľ tlačí, tak starký vstáva z
+postele, nevládze chodiť, zatočí sa mu hlava a padá. Nemusí byť vážne zranený, ale krváca
+zo vzniknutých odrenín. Personál ho uloží do postele a podá injekciu na upokojenie. Z nej
+je ešte viac dezorientovaný a tak sa podajú ďalšie, účinok sa naakumuluje a pacient
+konečne zaspal, ale nepije a neje, čím vzniká dehydratácia. Týmto vzniknú komplikácie,
+ktoré môžu viesť k smrti pacienta. Tieto komplikácie však nie sú z choroby, pre ktorú
+prišiel do nemocnice.
+Takto podobne to prežíva mnoho pacientov nad 65 rokov, ktorí sa ocitnú v nemocnici.
+Ide o veľmi veľký a nákladný zdravotný problém, na ktorý pacienti nevedia upozorniť a
+príbuzným nie je vysvetlený a nechápu ho. "Veď doma bol v poriadku”.
+Medzi najviac prospešné preventívne a liečebné opatrenia patria tie najjednoduchšie.
+Vedia zabrániť až polovici stavov dezorientácie a delíria. Na to, aby takéto opatrenia mohli
+fungovať, musí byť dostatočný počet vyškoleného personálu, ktorý dokáže zistiť príznaky
+začínajúcej dezorientácie. K realizácii opatrení je dôležitý manažment, ktorý však často
+nemá potrebné vedomosti a situáciu odbije tým, že sa o pacientov stará najlepšie, ako sa
+dá. V tejto oblasti veľmi môžu pomôcť aj príbuzní, ktorých prítomnosť veľmi pozitívne
+vplýva na chorých.
+V bakalárskej práci som si práve preto určila ciele, ktoré majú za úlohu zmapovať
+vedomosti o nefarmakologickej liečbe delírií, o intervenciách, používaných k
+predchádzaniu delírií, zistiť vedomosti sestier v problematike delírií a výskumom zistiť, či
+sestry využívajú vo svojej praxi nefarmakologické intervencie v prevencii delirantných
+stavov a taktiež zistiť spojitosť s dosiahnutým vzdelaním a starostlivosťou o delirujúcich
+pacientov.
+
+9
+
+1 TEORETICKÉ VÝCHODISKÁ PRÁCE
+1.1 Vedomie
+Znalosti o podstate vedomia sú dôležitou otázkou vo filozofii, psychológii, biológii a aj
+medicíne. Je to komplexný pojem zo všetkých oblastí existencie človeka. Vedomie je stav
+bdelosti, v ktorom si uvedomujeme seba samých a svoje duševné pochody, ale aj svoje
+okolie. Vytvára podmienky pre spojenie s realitou (Churchland, P. 1983).
+Z lekárskeho hľadiska sa ľudské vedomie určuje ako schopnosť jednotlivca
+uvedomovať si svoje okolie a aj seba samého. Je to schopnosť primerane reagovať,
+odpovedať na vonkajšie a vnútorné podnety a konať zo svojej vôle, je to vzťah osoby k
+vonkajšiemu prostrediu, kedy je osoba bdelá a je schopná vnímať a interpretovať podnety
+vonkajšieho prostredia a primerane na ne reagovať. Ide o súbor predstáv-pocitov,
+myšlienok, citov, vôle, ktoré daná osoba v danom momente o sebe má. Je rozdiel medzi
+stavom vedomia a obsahom vedomia. Stav vedomia vystihuje kondícia, obsah zase
+myšlienky, pocity, city, emócie. Chápeme ho ako vlastnú, osobnú, individuálnu zážitkovú
+kvalitu endogénnych procesov. Veľa psychických procesov môže prebiehať nielen vedome
+ale aj nevedome (Kafka, J. 2017).
+Poruchy vedomia sú vtedy, ak za dominujúcimi prejavmi a aktivitami pacienta
+neočakávame žiadny rozumný zmysel ani úmysel, žiadne pochopenie zmyslu konania
+alebo nekonania. Najcitlivejším indikátorom stavu CNS je bdelosť a sebauvedomovanie,
+čiže orientácia v čase, priestore a vo vlastnej osobe. Uvedomovanie si seba samého.
+Nazývame ho vedomím lucidným, čiže čistým a jasným. Je to vedomie fyziologické. U
+zdravých ľudí môže byť vedomie zmenené v spánku, počas hypnózy a aj pri nadmernej
+únave. Vedomie u chorého človeka je iné. Chorobou sa ovplyvní stav vedomia, ktorým sa
+zmení obsah vedomia. Stav vedomia nám môžu zmeniť rozličné fyziologické zmeny, ktoré
+majú dopad na centrum vedomia v mozgu.
+Vedomie sa vyznačuje svojimi vlastnosťami:
+• bdelosť-vigilita, klesá behom dňa a aj fyziologicky - stúpa po prebudení, klesá po jedle
+• jasnosť -lucidita, schopnosť zlučovať všetky psychické funkcie
+10
+
+• rozsah - kapacita, umožňuje vnímať to, čo sa deje okolo nás
+• idiognózia - schopnosť priradiť obsah vedomia k vlastnému Ja
+• sebauvedomovanie - schopnosť hodnotiť vlastné správanie, zaujať k nemu postoj,
+hodnotenie vlastnej osoby (Orel, M. 2020)
+
+1.2 Poruchy vedomia
+Pri posudzovaní stavu vedomia hodnotíme jeho dve zložky a to: vigilitu a luciditu.
+Vigilita (bdelosť) - hovoríme o schopnosti reagovať na okolie. Vigilita závisí najmä na
+aktivite ARAS - ascendentný retikulárny aktivačný systém a funkcie oboch hemisfér
+mozgu. Tento systém je časťou retikulárnej formácie v mozgovom kmeni. Má ascendentné
+aj descendentné dráhy a obsahuje aj pripojenia na mnohé štruktúry CNS. Svoj význam má
+napr. v stresových situáciách, nocicepcii, a antinocicepcii. Bdelosť cez deň a v noci kolíše
+medzi dvoma stavmi - bdenie a spánok. Bdelosť predstavuje kvantitatívnu zložku vedomia.
+Pri obojstranných mozgových léziách a léziách v oblasti ARAS vznikajú kvantitatívne
+poruchy vedomia ako somnolencia, sopor, kóma (Bartuněk, P. 2016).
+Lucidita (jasnosť) - je to obsahová zložka vedomia. Predstavuje schopnosť jedinca
+správne si uvedomovať seba a svoje okolie, jednať z vlastnej vôle a aj plánovane
+odpovedať na vnútorné aj vonkajšie podnety. V tomto prípade sa zameriavame na kvalitu,
+čiže obsah vedomia. Ak nastane narušenie lucidity, hovoríme o kvalitatívnej poruche
+vedomia, ako napr.: zmätenosť, delírium a obnubilácia. Základným prejavom tejto poruchy
+je dezorientácia miestom, časom, situáciou, osobou.
+
+1.3 Kvalitatívna porucha vedomia
+Ak máme hovoriť o správnom obsahu vedomia, podmienkou je úplné, neskreslené
+vnímanie a spracovávanie vnemov cez neporušené kognitívne funkcie. Medzi poruchy
+vnímania zaraďujeme ilúzie (skreslené vnemy) a halucinácie (neexistujúce vnemy). Takéto
+funkcie zabezpečujú jedincovi spoznávať, spracovávať a plánovane odpovedať na
+11
+
+vonkajšie a vnútorné podnety. Patrí sem: pozornosť, myslenie, učenie, reč, pamäť,
+predstavivosť, orientácia.
+Pri závažnejších difúznych poškodeniach mozgu, avšak nie až tak vážnych, aby
+spôsobovali kvantitatívnu poruchu vedomia, dochádza k poškodeniu viacerých
+kognitívnych funkcií. Vzniká amencia, delírium alebo demencia. Takéto poruchy vnímania
+a kognitívnych funkcií sprevádzajú zmeny emočných stavov a behaviorálne poruchy zmeny správania.
+Napríklad pacient môže byť nekľudný v stave delíria so zrakovými halucináciami, vidí
+prepadávanie podlahy, padá do veľkej diery…Alebo pacienti môžu byť podozrievaví,
+paranoidní. Medzi zmeny emocionality a správania patrí apatia, nerozhodnosť, strach,
+nepokoj, agresivita, eufória, úzkosť, strata zábran…(Novotný, V. 2010). Sú to nešpecifické
+prejavy rozličného stupňa poruchy vedomia. Pri týchto poruchách je narušená lucidita
+vedomia. Tieto poruchy sa týkajú poruchy obsahu a rozsahu vedomia.
+Dochádza pri nich k nevhodnému vnímaniu podnetov z vonkajšieho prostredia,
+nesprávnemu mysleniu a taktiež k neprimeraným reakciám pacienta. Je to vlastne porucha
+vedomia, týkajúca sa jeho kvality. Pacienti sú akoby v sne, ktorý ale snom nie je. Tieto
+poruchy sú časté a sú aj často nerozpoznané. Pri nerozoznaní môže dôjsť k pádom alebo
+zraneniam.
+Stretávame sa s nimi na intenzívnych jednotkách (asi 62%), u pacientov na umelej
+pľúcnej ventilácii (82%), na chirurgických oddeleniach (10 - 15%). Najviac sa objavujú u
+pacientov, starších ako 60 rokov (Mainerová, B. 2014).
+Odrážajú skôr narušené schopnosti uvedomovania si seba samého, svojho okolia a
+reality. Patria sem stavy dezorientácie, zmätenosti, delírium, mrákotné stavy…Dochádza k
+narušenému vnímaniu okolia, vlastnej osoby, chybnej alebo domyslenej interpretácie
+reality s ilúziami alebo halucináciami. Nemusí sa jednať o útlmové prejavy, skôr naopak,
+pacienti sú často lucidní až excitovaní. Je to vlastne zmenené vedomie.
+Príčiny zmeneného vedomia môžu byť:
+•
+
+cerebrálne - trauma, expanzívne procesy, zápaly, hypertenzia, ischemické príhody,
+epileptický paroxyzmus…
+
+• primárne extracerebrálne - metabolické, toxické, endokrinné, zápalové
+12
+
+V neskoršom veku je častou príčinou dehydratácia. Tento stav môžu vyvolať aj niektoré
+lieky, ako anticholínergiká, anestetiká, kortikoidy v úvodnej dávke, dopamínergické
+antiparkinsoniká, intoxikácia liekmi, alkohol, drogy. Veľký vplyv má aj nedostatok
+senzorických podnetov. Predpokladá sa, že dochádza k narušeniu integrovanej aktivity
+kôrových aj podkôrových štruktúr, ktoré nám udržujú bdelosť, pozornosť, spánok,
+informačné procesy (Káňová, M. 2015).
+Kvalitatívna porucha vedomia vzniká pri poruche lucidity, pričom je zachovaná vigilita.
+To znamená, že je narušená jasnosť vedomia pri nezmenenej bdelosti centrálneho
+nervového systému. Psychické funkcie sú narušené a schopnosť vnímania vonkajšieho
+sveta sa stráca. Nastáva porucha orientácie, pozornosti, pamäti a správania.
+Delíme ich na:
+
+•
+
+AMENCIA - zmätenosť - narušené vnímanie. Je podobná delíriu. Má miernejší
+priebeh, môže ale trvať dlhšie, až niekoľko týždňov. Prítomné sú halucinácie - zrakové,
+sluchové, ilúzie, zastreté vedomie a zmätenosť. Pacienti sa vyznačujú zníženou
+jasnosťou, dochádza k zníženému uvedomovaniu si okolia, zníženej schopnosti
+zamerať, udržať a presunúť pozornosť. Vštepovanie, udržanie a vybavovanie si
+informácií je znížené dôsledkom čoho je dezorientácia. Poruchy orientácie v mieste a v
+čase, orientácia vlastnou osobou je prítomná, nekľud, excitovanosť až agresivita. Reč je
+nesúvislá. Postihnutý nepoznajú osoby a ani príbuzných. Pacienti sú bezradní, pasívny,
+môžu prekladať veci, pokynom nerozumejú, neužívajú lieky, alebo užijú všetky naraz.
+Dochádza k únikovým reakciám, útekom, blúdeniu a túlaniu sa, pacienti prehadzujú
+veci, stále niečo hľadajú, môžu celkom odísť z oddelenia, z domova. Tento stav môže
+byť krátkodobý, ale aj dlhodobý. Zhoršuje sa večer, alebo v noci. Po ústupe nastupuje
+amnézia, nič si napamätajú, nevedia, čo sa stalo. Tieto stavy sa často vyskytujú pri
+demenciách, ale príčinami môže byť aj hypoglykémia, ateroskleróza mozgu,
+postresuscitačné stavy - hypoxia, ischémia, bezvedomie, horúčky, pooperačné stavy
+(Kučerová, H. 2013)
+
+•
+•
+
+DELÍRIUM - podrobnejšie opísané v podkapitole 1.3
+OBNUBILÁCIA - mrákotný stav, dochádza k nemu náhle, a nečakane. Zakrátko aj
+ustupuje. Po odznení je plná amnézia. Dochádza k výpadkom vnímania vlastnej osoby
+13
+
+(meno, odkiaľ som…), skreslenému vnímaniu reality, nepokoju, stratám zábran,
+poruchám orientácie v mieste a čase. Môže dôjsť k útlmu aj k afektívnym stavom, až
+extáze a nepríčetnosti a agresivite. Útoky sú chaotické, správanie je automatické.
+Najčastejšou príčinou je epilepsia, úrazy hlavy, úpal, pooperačné stavy, stavy po
+mozgových príhodách, po drogovom opojení a aj počas hladovania.
+
+1.4 Delírium
+Slovo delírium je odvodené od slova delirare, pochádza z latinčiny a znamená bláznivý,
+choromyseľný či vyvedený z miery.
+Patrí medzi klinicky najdôležitejšiu poruchu vedomia. Ako príznak mozgovej
+dysfunkcie je častou komplikáciou u kriticky chorých pacientov. Pre delírium je
+charakteristická kvalitatívna porucha vedomia s poruchou kognitívnych funkcií.
+Základným rysom je aj porucha pozornosti a neorganizované myslenie rôzneho stupňa.
+Americká psychiatrická asociácia (APA) v Diagnostic and Statistical manual of Mental
+Disorders (DSM-IV-TR) opisuje delírium ako poruchu vedomia a kognitívnych funkcií,
+ktorá sa rozvíja v krátkom čase, niekoľko hodín až dní. (Králová, M. 2017). Kritické
+ochorenia predstavujú rizikový faktor pre výskyt delirantných stavov a prevalencia delíria
+u takýchto chorých sa pohybuje medzi 11 - 87%. V praxi je dosť podhodnotené a
+poddiagnostikované, aj keď tento stav výrazne zhoršuje prognózu. Prisudzuje sa mu dlhšia
+hospitalizácia, ale aj 2,5x navyšuje krátkodobú a 3,5x dlhodobú mortalitu. Taktiež je
+spojené s možným dlhodobým kognitívnym postihnutím. Delírium na JIS má vysokú
+prevalenciu so zvýšenou morbiditou a mortalitou, vedie k zhoršeniu klinických výsledkov
+u pacientov a zvýšenej spotrebe financií zdravotnej a sociálnej starostlivosti.
+Je to organická duševná porucha, patriaca medzi akútne organické psychózy. Vzniká na
+základe poruchy mozgových funkcií. Ide o najčastejšiu formu zmeneného vedomia.
+Predstavuje akútny stav, ktorý môže byť až taký prudký a vážny, že môže spôsobiť smrť
+pacienta. Negatívne ohrozuje aj priebeh základného ochorenia pacienta. Spúšťačom môžu
+byť aj rôzne psychosociálne stresory. Ide o prechodný stav, ktorý trvá aj niekoľko dní.
+Základným znakom je kvalitatívna porucha vedomia so zníženou schopnosťou sústredenia,
+14
+
+udržania a prenesenia pozornosti. Dochádza pri nej k porušeniu mnohých psychických
+funkcií - pozornosti, vnímania, myslenia, pamäte, psychomotoriky, emócií-depresie, strach,
+apatie, eufórie, úzkosť, cyklu bdenie-spánok, nespavosť, nočné zhoršovanie príznakov,
+nočné mory. Dôsledkom týchto prejavov je porucha správania. Pri delíriách sú pacienti až
+extrémne nekľudní, s množstvom halucinácií. Dochádza k zastretému vnímaniu s
+narušeným obsahom vnímania reality, seba samého, ilúziám, bizarným vnemom,
+halucináciám sluchovým aj vizuálnym, paranoidným stavom. Pacienti sú presvedčení o
+tom, že sú v ohrození. Po odznení je prítomná amnézia. Prejavuje sa aj telesnými
+príznakmi: tremorom, poruchami reči, tachykardiou, hypertenziou, potením,
+inkontinenciou. Príčinou je intoxikácia, infekčné ochorenia, sepsa, pooperačné stavy v
+celkovej anestézii. Na delírium môže byť čiastočná amnézia, pacient si môže pamätať
+rôzne útržky z halucinácií.
+Delírium predstavuje jednu z najčastejších komplikácií telesných porúch. Vyskytuje sa
+až u 10 - 15% hospitalizovaných somatických chorých a u 30 - 50% chorých na jednotkách
+intenzívnej starostlivosti a gerontopsychiatrických oddeleniach. Patrí k najčastejším
+príčinám psychiatrického konzília na nepsychiatrických oddeleniach. Je to náhla
+psychiatrická situácia, pri ktorej majú pacienti výrazne vyššiu morbiditu a mortalitu.
+Príčina delirantného stavu je často iatrogénna (Krombholz, R. 2015). Je prejavom akútnej
+globálnej nešpecifickej dysfunkcie mozgu, ktorá vzniká ako reakcia mozgu na rozličné
+škodliviny.
+Ide o komplexnú krátkotrvajúcu psychickú poruchu, väčšinou recidivujúcu. Vyvíja sa
+ako nešpecifická reakcia na rôzne príčinné škodliviny somatického aj intoxikačného
+charakteru. Vyskytuje sa najčastejšie u oslabených ľudí vyššieho veku. V priebehu
+hospitalizácie postihuje väčšinou geriatrických pacientov, v mladšom veku sa rozvíja u
+ťažko chorých a oslabených osôb, vrátane umierajúcich. Často sa objavuje pri organických
+mozgových zmenách, najčastejšie tých, ktoré sú spojené s poruchou kognitívnych funkcií,
+hlavne s demenciou. Môže sa rozvinúť u každého chorého pri vážnejšom stave alebo pri
+intoxikácii. Riziko zvyšuje organické poškodenie CNS, vyšší vek, polymorbidita, veľmi
+časté je na jednotkách intenzívnej starostlivosti u pooperačných pacientov. Dôležitá je
+osobnosť pacienta a jeho odolnosť voči stresom.
+15
+
+Veľká pozornosť sa mu venuje v prípade psychomotorického nekľudu, čiže pri
+hyperaktívnej forme. Pri hypoaktívnej forme je často prehliadané a pacienti sú označovaní
+za roztržitých alebo dementných. U starších jedincov je častou zistiteľnou príčinou len
+zmena prostredia - hospitalizácia.
+Delírium výrazne zhoršuje kvalitu života chorých, ale aj ošetrujúceho personálu.
+Pri týchto stavoch je zlá prognóza v zmysle straty sebestačnosti a mortality. Delírujúci
+pacienti sú ohrození úrazmi, pádmi, samovoľnou extubáciou, vytrhávaním katétrov,
+hadičiek, drénov a farmakologickým útlmom s rozvojom imobilizačného syndrómu.
+Radíme ho k závažným syndrómom. (Firment, J. 2009)
+
+Definícia delíria
+Delírium je nešpecifická patologická reakcia mozgu na rôzne činitele a procesy, ktoré sú
+lokalizované v CNS, alebo iných orgánových a funkčných systémoch.
+Podľa MKCH sa ako delírium, nezavinené alkoholom alebo inými psychoaktívnymi
+látkami, označuje delírium ako etiologicky nešpecifikovaný organický mozgový syndróm,
+charakterizovaný súbežnými poruchami vedomia a pozornosti, vnímania, myslenia,
+pamäte, psychomotoriky, emócií a spánkového rytmu. Trvá rozlične dlho a závažnosť sa
+pohybuje od miernej, až po veľmi ťažkú.
+MKCH - 10
+
+• F 05
+
+Delírium, nezavinené alkoholom alebo inými psychoaktívnymi látkami
+
+• F 05.0 Delírium, opísané ako nenadsadené na demenciu
+• F 05.1 Delírium nadsadené na demenciu
+• F 05.8 Iné delírium ( delírium zmiešanej etiológie, pooperačné delírium)
+• F 05.9 Nešpecifikované delírium - iné psychické poruchy a poruchy správania
+Patria sem: akútne alebo subakútne stavy
+
+• Exogénny reaktívny typ
+• Organický syndróm
+• Psychoorganický syndróm
+• Psychóza pri infekčnej chorobe
+• Stav zmätenosti
+16
+
+Delírium tremens v súvislosti s užívaním alkoholu, alebo bližšie neurčené, patrí pod
+označenie F 10.4 (poruchy psychiky a správania, zapríčinené užívaním alkoholu:
+abstinenčný syndróm s delíriom).
+Delírium je kvalitatívna porucha vedomia, vyskytujúca sa z mnohých príčin. Môže mať
+psychický podklad, alkoholizmus, akútna otrava alkoholom, alebo inou drogou. Môže
+vzniknúť aj na základe iného telesného ochorenia.
+Uvádza sa, že postihujú až 10 - 30% hospitalizovaných pacientov nad 65 rokov. U
+mladších súvisí s požívaním alkoholu, alebo iných návykových látok. Početnosť v
+populácii je 1 - 2%. Na jednotkách intenzívnej starostlivosti sa popisuje výskyt medzi 16 90%, po kardiochirurgických operáciách je to 10 - 73%. Tento rozptyl je daný najmä
+rôznou populáciou chorých, variabilitou sledovania a rozdielnymi screeningovými
+metódami. V intenzívnej starostlivosti sa vyskytuje najmä u starších chorých s maximom
+výskytu do prvých 48 hodín od prijatia (Pařízková, R. 2019).
+Delírium má podstatný význam z hľadiska krátkodobej aj dlhodobej prognózy
+pacientov. Výskyt a dĺžka trvania delíria je nezávislým prediktorom krátkodobej aj
+dlhodobej mortality, doby hospitalizácie v intenzívnej starostlivosti, UPV. Je taktiež
+spojené s vyšším výskytom neplánovaných extubácií, reintubácií, pádov, vytrhnutia
+katétrov, drénov, aspirácií, nozokomiálnych pneumónií a vyššími nákladmi. Delírium u
+ventilovaných pacientov je spojené so sťaženým odpájaním od ventilátora, neskorším
+vývojom posttraumatickej stresovej poruchy, dlhodobej kognitívnej poruchy a s
+úmrtnosťou po 6 mesiacoch od hospitalizácie. (Trenkler, Š. 2014)
+
+1.5 Etiológia
+Príčiny delírií sú rôzne. Dochádza k poruche niektorej z mozgových štruktúr. Potom sú
+to neurotransmitery, nastupuje nerovnováha medzi nimi, čiže medzi dopamínom a
+cholínergínom. Väčšina delirantných stavov má viacero príčin. Uplatňuje sa predispozícia
+pacienta, rizikové faktory, spúšťače delíria a iatrogénne faktory. Najčastejšie je to
+farmakologická terapia, najmä jej kombinácie (opioidy, sedatíva, anticholinergiká). Z
+iatrogénnych faktorov treba spomenúť fyzické obmedzenia, nadbytok alebo nedostatok
+17
+
+podnetov, nedostatočný spánok a rôzne katétre, drény, sondy, hadičky, káble. (Trenkler, Š.
+2014). Často je to kombinácia viacerých ochorení, vplyv nevhodnej liečby alebo
+zneužívané látky vrátane ich rýchleho vysadenia, vplyv organických mozgových faktorov.
+Delírium by sme mali posudzovať skôr ako charakteristický súbor symptómov než
+ochorenie. Pooperačné delírium sa vyvinie až u 15 - 53% pacientov starších ako 65 rokov,
+a u starších pacientov prijatých na jednotku intenzívnej starostlivosti je to až 70 - 87%
+(Pisani a kol., 2003). Bilge et al. pozorovali 250 pacientov prvých 24 hodín po operácii a
+hodnotili delírium pomocou CAM. V tejto metóde boli zahrnutí pacienti s celkovou aj
+lokálnou anestézou. Delírium sa vyvinulo u 18,4% z nich. Priemerný vek pacientov s
+delíriom bol 68,8 roka, vek bez delíria bol 57,6 roka. Incidencia delírií u pacientov s
+lokálnou anestézou bola 34,6% a u pacientov s celkovou anestézou 16,5 %. (Hayhurst, Ch.
+2016). Pooperačné delírium sa vyskytuje aj po malých operáciách, po veľkých výkonoch je
+to až 10 - 60%. Diabetes mellitus a chronická obštrukčná choroba pľúc patria medzi
+rizikové faktory. Po operáciách sa častokrát vyskytuje pooperačná kognitívna dysfunkcia,
+ktorá je pripisovaná anestéze. Veľkú úlohu zohráva vek, bolesť, zápal, pooperačná
+anemizácia, operačný stres, imobilita, poruchy spánku, dehydratácia, lieky (opiáty,
+benzodiazepíny). Na jednotkách intenzívnej starostlivosti sa delíriá vyskytujú príliš často,
+čo môže byť spôsobené stavmi, pre ktoré sú pacienti prijatí na JIS. Taktiež k vzniku delíria
+prispieva použitie katétrov, izolácia, znížená mobilita. Práve na týchto oddeleniach by sa
+malo čo najskôr pristupovať k okamžitej liečbe delíria, nakoľko odklad liečby výrazne
+zvyšuje mortalitu. Kóma patrí medzi rizikové faktory iba ak je iatrogénna.
+Početnosť delírií sa výrazne zvyšuje s vekom. Vek patrí medzi veľmi výrazný rizikový
+faktor. Dôvody výskytu delírií u starších jedincov:
+• Polymorbidita
+• Nahromadenie mozgových organických porúch
+• Zvýšená somatická morbidita
+• Znížená celková adaptabilita
+• Časté zápalové prejavy
+• Vyššia úroveň psychosociálneho stresu než u mladších
+• Znižuje sa obsah vody na úkor tuku
+18
+
+• Polypragmázia
+• Dehydratácia a nedostatočný príjem jedla
+Veľmi závažné sú následky delírií u seniorov:
+• Zvýšená mortalita, zlá prognóza ochorenia
+• Riziko aspirácie, pľúcnej embolizácie, dekubitov, malnutrície
+• Znížená úroveň kognitívnych funkcií
+• Progresia demencie
+Tento syndróm je častokrát nerozpoznaný a nediagnostikovaný aj zdravotníkmi, preto tieto
+čísla budú ešte vyššie. Najčastejším a najrizikovejším faktorom vzniku delíria je demencia.
+Rizikové faktory pre vznik delírií:
+
+• Polymorbidita
+• Demencia (Králová, M. 2017)
+• Vek nad 65 rokov
+• Mužské pohlavie
+• Lieky: sedatíva, opiáty, narkotiká, analgetiká, ATB, anticholínergiká, kortikosteroidy,
+digitális, antimykotiká, antivirotiká, antiparkinsoniká, myorelaxanciá, stimulanciá, ,
+interakcie (Trenkler, Š. 2014)
+
+• Hospitalizácia - chirurgické zákroky, následok anestézie, pooperačné stavy, prostredie
+• Neurologické ochorenia - CMP, mozgové vaskulitídy, tumor, epilepsie, migrény
+• Hypoglykémia
+• Srdcovo - cievne ochorenia - IM, arytmie, kardiálna dekompenzácia, dekopenzácia
+hypertenzie,
+
+• Chronické obličkové ochorenia
+• Ochorenia pečene
+• Akútna pankreatitída
+• Respiračná insuficiencia
+• Anémie, straty krvi
+• Úrazy hlavy, poranenia hlavy, popáleniny
+• Infekčné ochorenia - meningitídy, encefalitídy
+• Onkologické ochorenia
+19
+
+• Bolesť
+• Rozvrat vnútorného prostredia
+• Imobilizácia, mechanické obmedzenia
+• Nedostatok spánku, stres, poruchy adaptácie
+• Dehydratácia
+• Malnutrícia, nedostatok vit. B1, B3, B9
+• Intoxikácie liekové, CO, ťažkými kovmi, rozpúšťadlami, hubami
+• Abúzus alkoholu, liekov, abstinencia od návykových látok, náhle vysadenie látok alkohol, benzodiazepíny, hypnotiká a iné látky vyvolávajúce závislosti
+
+• Poruchy zraku, sluchu
+Medzi dôvody delírií u mladých ľudí patria úrazy hlavy, ale najčastejšie sú to však
+infekcie. K najčastejším príčinám delírií patria napr.: organické poškodenia mozgu - zmeny
+prekrvenia, nádory, infekcie, demencie, krvácania, ochorenia srdca, ciev, pľúc, pečene,
+obličiek, dehydratácia, metabolický rozvrat, pooperačné stavy, infekcie sprevádzané
+vysokou teplotou, senzorický deficit - operácie očí, choroby očí (Jirák, R. 2020)
+Etiológia mimoalkoholových delírií:
+A. Somatogénne - špecifikovaná je:
+
+• V súvislosti s organickým postihnutím CNS - demencia, trauma, infekcie, abscesy,
+zápaly, hydrocefalus, encefalopatie
+
+• Systémové postihnutie vedúce k hypoxii CNS - ICHS, arterioskleróza, anémie,
+pľúcne zápaly, emfyzém, hypoglykémia, dehydratácia, malnutrícia
+
+• Infekčné - z kožných fokusov, uroinfekcie, fokusy z dýchacích ciest
+U pacientov na ARO/JIS je najčastejšia kombinácia senzorickej hyperstimulácie (prístroje,
+personál, vyšetrenia, výkony), nedostatku spánku, úzkosti a strachu zo smrti a taktiež
+účinkov podávaných liekov. U pooperačných delírií sú naviac následky celkových
+anestetík.
+B. Farmakogénne - sú závislé na centrálnych účinkov liekov. Centrálne pôsobiace lieky
+môžu spôsobiť kvalitatívnu poruchu vedomia aj pri toxických dávkach tak aj pri
+terapeutických dávkach. Závisí to od vnímavosti pacienta.
+
+20
+
+C.
+
+Psychogénne - majú časovú väzbu na psychosociálny stresor. Môže ísť o stres na
+
+zmenu prostredia.
+D.
+
+Pseudodelírium - toto označenie sa používa pri úvodnej fáze manickej alebo
+
+depresívnej epizódy, schizofrénie, schizoafektívnej poruchy alebo stav intenzívneho
+psychického stresu (Bleuler, E. 2015). Tento stav má príznaky pacienta s touto poruchou a
+je pre ňu typické zhoršenie príznakov ak pacienta pozorujeme. Pri prvom delíriu tento stav
+nieje.
+
+Spúšťače delíria:
+
+• Dehydratácia a metabolické zmeny - hypoglykémia, hyperglykémia, hypernatrémia,
+hyponatrémia, hyperkalcémia, urémia, pečeňové zlyhanie
+
+• Hypoperfúzia a hypoxia mozgu - srdcové zlyhanie, dysrytmie, bronchopulmonálne
+ochorenia, ťažké anémie
+
+• Horúčkovité a zápalové ochorenia - uroinfekcie, systémové zápalové reakcie
+• Alkohol a iné návykové látky - ako abstinenčný syndróm
+• Nežiadúce účinky liekov - benzodiazepíny, náhle vysadenie návykových liekov
+• Hnačky a zvracanie - kombinácia dehydratácie a iónových zmien
+• Operácie a celková anestézia - kombinácia faktorov - stres, bolesť, imobilizácia, vplyv
+anestetík, zápal, krvné straty, zmeny vnútorného prostredia, hypoventilácia
+
+• Imobilizácia - pobyty na ARO/JIS s monitoringom, kurtovanie
+• Senzorické deficity - zmyslové postihnutie, tma
+• Psychosociálny stres - neznáme prostredie, odlúčenie od blízkej osoby, jazyková
+bariéra, pohybové obmedzenia
+
+• Bolesť
+Delíriá často nasadajú na demenciu, ale sami o sebe nie sú súčasťou syndrómu
+demencie (Králová, M. 2017). V mnohých prípadoch sa vyskytuje v terminálnom štádiu
+ochorenia, v poslednom týždni života sa objaví až u 85% chorých. Najčastejšie sa jedná o
+hypoaktívne delírium. Prehlbuje distres pacientov, rodinných príslušníkov aj personálu.
+
+21
+
+Komplikuje rozpoznanie iných telesných a psychických príznakov, môže maskovať bolesť.
+Práve preto je veľmi dôležité delírium v tomto štádiu správne diagnostikovať a liečiť.
+Rizikové faktory s rozvojom delíria na jednotkách intenzívnej starostlivosti môžme
+rozdeliť na skupinu predisponujúcich faktorov, ktorá je v akútnej fáze liečebne
+neovlyvniteľná, ale tieto faktory možno využiť na predikciu rozvinutia delíria a na
+precipitujúce faktory, ktoré sú potencionálne ovplyvniteľné.
+Predisponujúce faktory:
+• Charakteristika pacienta: vek, pohlavie, abúzus alkoholu, fajčenie, genetická
+predispozícia, žije sám doma
+• Chronické ochorenia: srdcové ochorenia, imobilita, respiračné ochorenia, kognitívne
+dysfunkcie, senzorické dysfunkcie, kardiovaskulárne ochorenia, poškodenia pečene
+Precipitujúce faktory:
+• Akútne ochorenia: sepsa, febrility, hypoperfúzia, UPV, analgosedácia, dĺžka
+hospitalizácie, katétre a rôzny cudzí materiál, imobilita, závažnosť ochorenia,
+psychoaktívne látky
+• Vonkajšie vplyvy: svetlo, hluk, chýbanie hodín pri posteli, nedostatok spánku, poruchy
+spánku, osamelosť
+V intenzívnej starostlivosti rozdeľujeme delírium na tri fázy:
+• V prvých 3 dňoch po prijatí na OAIM/JIS je častou príčinou samotné ochorenie alebo
+predchádzajúce operácie.
+• Po prvej fáze dostávajú delírium tí pacienti, ktorí sú dlhodobo ventilovaní, ale nemajú
+dostatočnú analgosedáciu. Túto príčinu možno zredukovať použitím nových štandardov
+pre analgosedáciu.
+• V tretej fáze sú to pacienti vo weaningu, pri ktorom pacienti sú čiastočne analgosedovaní
+a majú pocit straty sebakontroly, nevedia dať najavo strach či bolesť, ich mobilita je
+obmedzená fixáciou, trpia zámenou dňa a noci. Vo fáze prebúdzania dlhodobo
+sedovaných pacientov treba brať do úvahy abstinenčný syndróm z odňatia
+benzodiazepínov. Potrebné je postupné znižovanie dávky a nie náhle vysadenie
+(Šefránek, M. 2012).
+
+22
+
+Abstinenčný syndróm z odňatia benzodiazepínov sa prejavuje: potením, tremorom,
+dráždivosťou, hypertermiou, strachom, poruchou spánku, nevoľnosťou, zvracaním,
+kŕčmi,slzením, hnačkami, mydriázou, tachykardiou, hypertenziou, zrýchleným dýchaním,
+nekľudom. Tieto symptómy nastupujú asi do 12 hodín po vysadení, alebo znížení dávky
+opioidov, ale môžu byť aj pri podaní liekov s antagonistickým účinkom ako naloxon.
+Pooperačné delíriá sa vyskytujú v rôznom časovom období po operačnom výkone.
+Vznikajú často bezprostredne po ukončení operácie a vyvedení z anestézie. V niektorých
+prípadoch k plnému rozvoju dochádza aj s odstupom niekoľko hodín po operácii. Za
+rizikový faktor v tomto prípade sa považuje nedostatočná analgézia akútnej bolesti. U
+pacientov po operačnom výkone sa vyskytuje kombinácia možných príčin vzniku delírií
+ako hypovolémia, nedostatočná analgézia, imobilizácia, hypoperfúzia, zápalové reakcie.
+
+1.6 Klinický obraz delírií
+Klinický obraz je rôzny. Väčšinou vzniká náhle, pred jeho vznikom pozorujeme určité
+prodromálne príznaky: úzkosť, motorický nepokoj, poruchu pozornosti, poruchu spánku,
+živé sny. Pri rozhovore s pacientom je nutné opakovať otázky, lebo je nesústredený,
+rozptyľujú ho nepodstatné podnety. Odpovedá nepresne, s latenciou, alebo rýchlo a
+neadekvátne. Za 1-2 dni dôjde k rozvinutiu delíria. (Pařízková, R. 2019)
+Dochádza ku kvalitatívnej poruche vedomia rôzneho stupňa s poruchou pozornosti a
+poruchám kognitívnych funkcií - krátkodobej pamäte. Jeho prvý prejav je dezorientácia,
+najskôr časová a postupne aj miestom a osobou. Pacienti nepoznávajú lekára, sestry a
+niekedy ani svojich príbuzných. Pacienti nie sú schopní naplánovať si a vykonať
+jednoduché aktivity. Objavujú sa poruchy vnímania ako halucinácie, najčastejšie zrakové vidia cudzie osoby, zvieratá, chrobáky, ilúzie, počujú rôzne hlasy a zamieňajú si osoby,
+pacienti trpia bludmi, majú rôzne pocity a vidiny dymu, vidia rôzne nite a povrazy ktoré si
+chcú dať zo seba dole, nahmatávajú ich rukou. Skreslene vnímajú okolie, dvere, podlahy,
+zárubne sú krivé, podlaha je deravá, prepadáva sa. Prevláda úzkosť, depresia. agresivita,
+ničenie predmetov, trhanie vecí. V noci na oddeleniach blúdia, berú cudzie veci, vytrhávajú
+si kanyly, močové katétre, rozväzujú si obväzy, strhávajú si krytie z rán, opakovane
+23
+
+vstávajú z postele, dochádza k poruchám chôdze - nebezpečenstvo pádov. Znižuje sa
+jasnosť vedomia, chorý nedokáže rozpoznať a uvedomiť si skutočnosť. Chorý nevie kde je,
+neorientuje sa v čase a priestore, v niektorých prípadoch nedokáže povedať základné
+informácie o svojej osobe. Reč je chudobná, nesúvislá, nezrozumiteľná. Poruchy
+sebauvedomovania. Správanie je zmenené, snažia sa vyznať v situácii, sú dezorientovaní,
+veľmi často nekľudní alebo naopak apatickí. Chorý nevie čo sa s ním deje, cíti sa
+ohrozený, chce zo situácie uniknúť. Ak mu v tom bránime hrozí útokom a aj skutočne
+útočí na okolie, predmety, na ľudí, vykrikuje, nadáva. Zvyšuje sa TK, P, dýchanie, tras rúk.
+Nie je schopný zaspať pre chorobnú bdelosť. Svojim stálym nepokojom sa unavuje,
+vyčerpáva. Problémy s čítaním, písaním.
+Pri hypoaktívnom delíriu pacienti počas dňa pospávajú, sú pomalí, skleslí, vyžadujú
+pozornosť. Často sedia celý deň v kresle, s viditeľným drobným nepokojom rúk - akokeby
+ručné pranie, chytanie niečoho, odpratávanie omrviniek…Pri tomto type hrozí rozvoj
+imobilizačného syndrómu, dehydratácie a malnutrície. Mylne sa môže personál
+domnievať, že ide o depresiu. (Pečeňák, J. 2011)
+Typické je striedanie príznakov počas dňa. Zhoršujú sa postupne a najvýraznejšie sú v
+noci. Tma patrí medzi významný faktor, ktorý provokuje výskyt psychotických prejavov
+delíria. Delírium sa rozvíja zároveň s preexistujúcimi faktormi, ktoré určujú zraniteľnosť
+CNS pacienta (predchádzajúce kognitívne funkcie, vek, komorbidita) a novovzniknutými
+faktormi, ktoré zahŕňajú terajšie ochorenie. Patria sem aj faktory prostredia (trauma, sepsa,
+zápal, liečba, liekové interakcie, izolácia, obmedzovacie prostriedky). Niektoré faktory nie
+je možné ovplyvniť - vek, demencia, predchádzajúce ochorenie, komorbidity, ale niektoré
+sa dajú aspoň čiastočne zmierniť, ak nie úplne odstrániť ako napr. bolesť, dehydratácia,
+oxygenácia, liekové interakcie, trvanie a typ anestézie, malnutrícia, krvné straty…Delíriá
+sú často stanovené rozdielne, majú však spoločné základné rysy:
+• Porucha vedomia - kvalitatívna
+• Zmena kognitívnych funkcií - pamäť, halucinácie, ilúzie
+• Náhly začiatok v priebehu niekoľko minút až hodín
+• Pomalé a zmätené myslenie
+• Správanie je buď hyper alebo hypoaktívne
+24
+
+1.7 Diagnostika delírií
+Podľa klinického obrazu môžme delíriá rozdeliť do 3 skupín:
+A. Hyperaktívna forma delíria: prítomné je zrýchlené psychosomatické tempo a
+zvýšená aktivita. Často sú príznaky, ako poruchy vnímania, halucinácie, bludy,
+agresivita, autoagresivita. Na tomto type sa podieľajú toxické faktory ako
+alkoholizmus, drogy, medikácie vrátane náhleho vysadenia.
+B. Hypoaktívna forma delíria: býva častá u starších jedincov, je nenápadná a často
+dôjde k prehliadnutiu. Pacienti sú dezorientovaní miestom a časom. Niekedy sú
+letargický. Príčinami tohto typu sú metabolické faktory napr.: urémia, iónový rozvrat.
+C. Zmiešaná forma: striedanie hyper a hypoaktívnych prejavov. Príčinami sú
+polymorbidita a kombinácie rôzneho množstva liekov. (Jirák, 2020)
+Diagnostika sa zameriava na anamnézu pacienta, jeho pozorovanie a vyšetrenie
+kognitívnych funkcií. V anamnéze je potrebné sa sústrediť na akútny začiatok, kolísanie v
+čase a prítomnosť inej choroby. Údaje je potrebné zistiť od spoľahlivého zdroja ako je
+rodina, personál, osoba, ktorá doviezla pacienta do nemocnice. Medikáciu, vysadenie
+alkoholu alebo iných psychotropných látok, zmeny prostredia. Na orientačné posúdenie
+kognitívnych funkcií sú vhodné rôzne testy a škály, ktoré sú zamerané na pozornosť a
+krátkodobú pamäť. Delírium sa často mení, preto je dôležité pacienta vyšetrovať
+opakovane. V diagnostike je nutné rozlíšiť, či sa jedná o delírium s demenciou alebo bez
+demencie. Delíriá, ktoré sú nasadajúce na demenciu sú neproduktívne, stereotypné. Pamäť
+je postihnutá vo všetkých zložkách. Osobnosť je degradovaná. Delírium nenasadajúce na
+demenciu je s výraznou dezorientáciou, konfabuláciou, chorí sa snažia vyznať v situácii,
+prejavujú sa viac inteligentnejšie než dementní. Narušená je krátkodobá pamäť a
+vštiepivosť. K diferenciálnej diagnostike patria tiež akútne prechodné psychotické
+poruchy, zmeny nálady s prítomnou zmätenosťou, schizofrénie.
+So zreteľom na vysoký výskyt, podhodnotenie, klinický negatívny dopad a súčasnú
+možnú preventabilitu delíria u chorých v intenzívnej starostlivosti je doporučené aktívne
+rutinné vyhľadávanie delirantných stavov, ktorého cieľom je včasné rozpoznanie a liečba
+delíria.
+25
+
+V súčasnosti sa používa niekoľko metód na hodnotenie sedácie a výskytu delírií na JIS,
+najčastejšie však CAM-ICU a ICDSC. Testovacie metódy v intenzívnej starostlivosti
+musia spĺňať určité kritériá. Musia byť validované, spoľahlivé, rýchle, jednoduché bez
+nutnosti prítomnosti psychiatrického personálu a testy sa musia dať urobiť aj u sedovaných
+a intubovaných pacientov. (Trenkler, Š. 2014)
+
+1. DSM-IV: Štandardná diagnostická klasifikácia delíria
+- porucha vedomia s prejavom nepozornosti
+- akútna kognitívna porucha - porucha pamäte, dezorientácia, poruchy reči
+- rýchly nástup s kolísaním v čase
+- porucha je dôsledkom zmeny fyziologických funkcií pri základnom ochorení
+Touto metódou možno identifikovať viac prípadov delíria, hlavne u akútnych ochorení. Je
+ale časovo náročná a jej používanie si vyžaduje skúsenosti.
+2. CTD: Cognitive test for delirium
+Je tvorený doménami:
+- orientácia
+- rozsah pozornosti
+- pamäť
+- chápanie
+- bdelosť
+Každá doména má max. 6 bodov, celkový počet 30. Autormi bola upravená na skrátenú
+verziu, pri ktorej sa hodnotia len 2 oblasti: rozsah vizuálnej pozornosti a vizuálna pamäť
+(obrázkový test). Tento test je veľmi spoľahlivý a umožňuje nám odlíšiť stav delíria od
+iných stavov ako sú demencia a schizofrénia. Trvá 10 - 15 minút.
+3. ICDSC: Intensive Care Delirium Screening Check List (Bergeron, 2001)
+Pri tomto teste sa hodnotí najprv kvalita vedomia (A-E) s vylúčením nehodnotiteľných
+pacientov v kóme, a ďalej potom ďalších 7 symptómov (0-1). Celkovo je 8 kategórií. Ako
+delírium sa označuje ICDSC ≥ 4. Test sa označuje ako user-friendly.
+Zisťuje sa:
+- zmena úrovne vedomia - pri reagovaní len na bolestivé podnety sa test nepoužíva
+26
+
+- nepozornosť
+- dezorientácia
+- halucinácie a bludy
+- zrýchlená alebo spomalená psychomotorika
+- neprimeraná reč alebo nálada
+- poruchy spánku
+- premenlivosť príznakov v čase.
+4. CAM - ICU: Confusion Assessment Method for the Intensive Care Unit (Ely, 2001)
+Patrí medzi najpoužívanejšie systémy. Hodnotenie je dvojstupňové. Najprv sa hodnotí
+stupeň vigility (bdelosti) a agitovanosti pomocou validovanej škály The Richmond
+Agitation and Sedation Scale (RASS), druhým krokom je hodnotenie prítomnosti delíria
+podľa kritérií Americkej psychiatrickej asociácie. Pri tomto teste sa v jednotlivých krokoch
+hodnotia postupne 4 hlavné rysy delíria:
+- prítomnosť náhlej zmeny stavu vedomia alebo jeho kolísanie (pomocou RASS/GCS) možné je hodnotiť pacientov s hodnotou RASS od -3 do +4.
+Je duševný stav pacienta iný ako obyčajne? Alebo:Kolísal duševný stav pacienta za po
+sledných 24hod.? (Podľa RASS, GCS)
+- porucha pozornosti - zrakový a sluchový test.
+Vizuálny test: v 3 sekundových intervaloch sa pacientovi ukáže 5 jednoduchých obráz
+kov, ktoré si musí zapamätať. Následne sa mu ukáže 10 obrázkov, z ktorých je 5 nových.
+Pohybom hlavy pacient ukáže či už obrázok videl.
+Sluchový test: pacientovi hovoríme hlásky ( S-A-V-E-H-A-A-R-T), reagovať má
+stisnutím ruky, ak počuje samohlásku A.
+- prejavy poruchy myslenia - hodnotí sa odpoveď na 4 otázky: Pláva kameň na vode? Sú
+ryby v mori? Je 1 kg ťažšie než 2 kg? Môžme kladivom zabiť klinec?
+Splnenie jednoduchej úlohy: pacient je schopný ukázať rovnaký počet prstov, ktoré mu
+ukazuje testujúci, to isté vie zopakovať na druhej ruke.
+Pri extubovaných pacientoch sa hodnotí prítomnosť slovného prejavu, sled myšlienok.
+- porucha vedomia (kvantitatívne pomocou RASS, delírium: od RASS -3 do +4,
+pacientov s RASS pod -4 nemožno zaradiť)
+27
+
+Test je vytvorený a validovaný ako pre použitie lekárom tak aj sestrou a aj u pacientov na
+UPV. Nutné je znížiť sedáciu 2 hodiny pred testovaním. Je to spoľahlivý, jednoduchý a
+rýchly test ktorý sa môže vykonávať pri posteli chorého na akomkoľvek oddelení.
+Prítomnosť delíria je v prípade výskytu 1. + 2. a 3. alebo 4.
+5. NuDESC tool: Nursing Delirium Screening Scale
+Hodnotí kategorie (0-2 body) po 6 - 12 h. Súčet ≥ 2 svedčí o delíriu.
+6. DDS: Delirium Detection Score
+Vznikol upravením alkoholického abstinenčného testu. Tras a potenie, čo sú typické
+abstinenčné príznaky, niesú príznaky delíria.
+Domény 1 - 5 sú na použitie na zobúdzacej izbe, delírium = súčet ≥ 8 .
+7. NEECHAM: Neelon and Champaign Confusion Scale (Neelon, 1996)
+V 9 doménach sa hodnotia 3 rôzne kategórie.
+- schopnosť spracovať informácie (pozornosť, plnenie pokynov, orientácia)
+- správanie (celkový dojem, pohyb a slovný prejav)
+- fyziologické parametre (vitálne funkcie, saturácia, inkontinencia)
+Delírium: ≥ 19 z 30 bodov. Časová náročnosť je asi 3,5 minúty.
+8. MMSE: Mini Mental State Examination
+Test zahŕňa celkovo 10 subtestov (30 otázok), ktoré hodnotia orientáciu pacienta,
+krátkodobú pamäť pri zapamätaní a vybavení si 3 slov, riadiace, výkonostné funkcie a
+schopnosť pri sériovom odčítaní. Patrí sem aj rečový prejav pri pomenovávaní bežných
+predmetov, schopnosť bezchybného zopakovania vety, čítanie, písanie, praktické zručnosti.
+Za každú úlohu pacient môže získať 1 bod. Maximálne teda 30 bodov. Na test je potrebná
+len ceruzka, hodinky a formulár s testom. Trvá asi 5 - 15 minút. Môže ho dať vykonať aj
+sestra. Dosiahnuté body sa zapisujú do príslušných polí v teste. Patologické hodnoty
+vychádzajú vždy pri preddelirantných stavoch a určite pri rozvinutom delíriu. Týmto
+testom sa hodnotí aktuálny stav kognitívnych funkcií. Je vhodné mať MMSE ešte pred
+nástupom delíria, teda príjmový test. Patologická hodnota sa u delíria vždy zhorší, ale s
+odstupom pri odznievaní delíria sa približuje k výsledkom z prvého testu. Patologické
+hodnoty pretrvávajú pri demenciách. Na jeden formulár je možné zaznamenávať niekoľko
+opakovaní, čiže sa ľahko dajú porovnať. V rámci prevencie delíria by tento test mal byť
+28
+
+vykonaný u každého seniora bez polymorbidity nad 75 rokov, s polymorbiditou nad 65
+rokov a taktiež u každého seniora hospitalizovaného nad 65 rokov, vždy na začiatku
+hospitalizácie a počas jej trvania v pravidelných intervaloch. Priebežné znalosti
+kognitívnych funkcií uľahčia ošetrujúcemu personálu blížiace sa delírium a môžu tak
+urýchliť nefarmakologickú a farmakologickú liečbu.
+Tento test nedokáže spoľahlivo identifikovať osoby s ľahkou kognitívnou poruchou a sú tu
+aj určité obmedzenia. Týkajú sa ľudí so sluchovým a zrakovým postihnutím, u ľudí s
+nedokončenou povinnou školskou dochádzkou a s poruchou komunikácie.
+9. Clock drawing test - test kreslenia hodín
+Ide o rýchly test kognitívnych funkcií. Pacienta vyzveme, aby nakreslil ciferník hodín.
+Akékoľvek pripomienky pacienta odmietame s tým, že zopakujeme to čo chceme. Čas je
+neobmedzený. Je viacero variant tohto testu. Môžme dať už namaľovaný kruh s tým, aby
+pacient vyznačil nejaký konkrétny čas.
+
+1.8 Preventívne opatrenia pred vznikom delíria
+V intenzívnej starostlivosti je dôležité nielen včasné rozpoznanie a liečba delíria, ale
+najmä využitie preventívnych opatrení a postupov so zameraním sa na precipitujúce
+faktory, ktorých cieľom má byť zníženie incidencie, dĺžky trvania a stupňa závažnosti
+delíria. Odhaduje sa, že prevenciou sa dá predchádzať až 40% stavov spojených s delíriami
+(Pečeňák, J. 2011). Takéto poruchy vedomia sa majú diagnostikovať a liečiť čo najskôr.
+Preventívne a podporné opatrenia tvoria základ, aby sme predišli rozvinutiu delíria.
+Dôležitá je kontrola príjmu a výdaja tekutín, stravy, sledujeme močenie a stolicu. Nutné je
+upraviť režim tak, aby bola v noci tma a cez deň svetlo, pomáhame tak pacientom navodiť
+prirodzené striedanie dňa a noci a tým ho udržiavame v realite. Svoju úlohu zohrávajú aj
+primerané senzorické stimuly, ak má pacient deficit je potrebná jeho korekcia.
+Samozrejmosťou sú pomôcky na zlepšenie orientácie ako hodiny, kalendár, fotografie,
+rôzne označenia, okuliare, načúvacie prístroje, noviny, časopisy, štuple do uší, masky na
+oči na noc, redukcia hluku, šumu, ak je to možné znížovanie hlasitosti prístrojov a
+nutnosťou je čo najvčasnejšia mobilizácia pacienta. K farmakoterapii pristupujeme až
+29
+
+následne, farmakoterapia nerieši vyvolávajúcu príčinu, ale ovplyvňuje len príznaky.
+Používajú sa najmä antipsychotiká, ktoré ale ordinuje lekár a nie sestra.
+Dôležitá je úprava prostredia, vetranie, odstránime zbytočné predmety z okolia postele,
+minimalizujeme rušivé senzorické podnety, redukujeme hluk (prístroje, rádiá, návštevy).
+Zabezpečíme dostatočné osvetlenie, tlmené svetlo cez noc. Korigujeme zmyslové chyby:
+okuliare, načúvacie prístroje, lupu…Komunikácia má veľký význam v prevencii, ale aj v
+liečbe chorých. Snažíme sa o zlepšenie orientácie, pacientovi vysvetľujeme kde je, čo sa
+robí, čo sa bude robiť, informujeme ho o čase (hodiny, kalendár…), mieste, situácii,
+komunikujeme s ním o všetkom, čo robíme a čo robiť budeme, kto príde, kde ideme.
+Pacientovi dáme noviny, rádio, zabezpečíme návštevu, ukazujeme mu známe predmety.
+Hovoríme pomaly, jasne, zrozumiteľne. Halucinácie nevyvraciame. (Papežová, H. 2014).
+V rámci prevencie podporujeme pacientovu starostlivosť o seba samého, pacienta
+nekŕmime, neplienkujeme, redukujeme katétre, ak to stav dovoľuje, aby sa mohol
+pohybovať. Zabezpečíme mu čo najvčasnejšiu rehabilitáciu, začíname už s pasívnou
+rehabilitáciou. Používame pomôcky k pohybu, k polohovaniu a na cvičenie.
+Ďalším dôležitým a preventívnym opatrením je dostatočná hydratácia pacientov.
+Rehydratácia častokrát vedie k zlepšeniu stavu pacienta. Pri jej nedostatku je zvýšená
+závažnosť iných rizikových faktorov vrátane nežiadúcich účinkov liekov. Tekutinová časť
+liečby je v súčasnosti veľmi podceňovaná a podávaniu tekutín sa nevenuje dostatočná
+pozornosť. Prístupy sú od prelievania až po vyrovnanú alebo až negatívnu bilanciu.
+Rozdiely sú dané zvyklosťami pracoviska, vekovým profilom aj typom pacientov.
+Determinujúcim parametrom tekutinovej liečby bola častokrát hodnota CVT. Ukázalo sa,
+že hodnoty CVT neprinášajú očakávanú úpravu prekrvania tkanív a preto je tento spôsob
+nevhodný. Súvisí s mnohými faktormi, ktoré ovplyvňujú hodnoty CVT ako napr.:
+zlyhávanie srdca, arytmie, chlopňové chyby, vnútrobrušný tlak, astma, ventilácia
+pozitívnym tlakom, vysoká hodnota PEEPu, pneumotorax…Toto platí aj pre ďalšie
+parametre ako tlak v pravej predsieni a tlak v zaklinení pľúcnice, ale aj pre neinvazívne
+statické parametre ako TK, P, hodinová diuréza, mentálny stav. Všetky tieto parametre sú
+málo špecifické pri zisťovaní deficitu intravaskulárneho objemu, nesúhlasia so srdcovým
+výdajom a vedú buď k nadmernému alebo nedostatočnému použitiu infúzií, ale aj
+30
+
+transfúzií. V súčasnosti sú vhodnou metódou pre vyšetrenie vhodnosti objemovej liečby a
+zlepšenie cirkulácie dynamické testy. Medzi dynamické testy okrem invazívnych metód
+patrí tekutinový test a test pasívnym zdvihnutím DK.
+V roku 2000 Kress a kol. zistili, že počas trvania umelej pľúcnej ventilácie dochádza u
+pacientov k problémom kôli nepretržitej sedácii, ako napr. dlhšietrvajúca pľúcna ventilácia,
+dlhší pobyt na jednotkách intenzívnej starostlivosti a tým aj v nemocnici, ale aj obmedzené
+vyšetrenia. Navrhli preto denné prerušenia podávania sedatív, aby sa pacient mohol
+prebudiť. Dospeli k záveru, že táto stratégia vedie k zníženiu ventilácie o 2 dni a dĺžka
+pobytu na OAIM/JIS sa skracuje o 3,5 dňa bez zvýšenia dlhodobých posttraumatických
+stresových prejavov.
+V súčasnosti sa používa ABCDEF balíček (Ely at al., 2017) - doporučenia pre umelo
+ventilovaných pacientov. Zlepšuje ich odpojenie od ventilátora s čo najmenším vznikom
+delíria. Názov pozostáva zo začiatočných písmen preventívnych krokov.
+A - Asses, Prevent and manage pain - posúdenie, prevencia a liečba bolesti
+B - Both spontaneous awakening trials and spontaneous breathing trials - SAT a SBT
+pravidelný test pebudenia sedovaného a ventilovaného pacienta a test spontánnej ventilácie
+C - choice of analgesia and sedation - výber analgosedácie podľa potrieb pacienta
+D - Delirium: asses, prevent and manage - skríning, prevencia a manažment delíria
+E - Early mobilization and exercise - včasná mobilizácia a rehabilitácia
+F - Family engagement and empowerment - zahrnutie členov rodiny do starostlivosti
+U ventilovaných pacientov má významnú úlohu denný test SAT a SBT. Považuje sa za
+jednu z odporúčaných metód v liečbe PADIS (pain, agitation, delirium, immobility,
+disruption). Tento test patrí do základného balíka ABCDEF. Sú to pokyny pre liečbu
+sedatívami u kriticky chorých pacientov a dosiahnutie ľahkej sedácie. Vykonáva sa denne,
+kedy sa zastavuje užívanie omamných látok a sedatív a ak je to potrebné, opätovne sa
+začne s podaním polovičnej predchádzajúcej dávky podľa potreby. Štúdia ABC, štúdia
+Wake up and Breathe ukázala, že denný SAT a denné skúšky spontánneho dýchania SBT v
+protokole vedú k zlepšeniu výsledkov pacientov, k skráteniu doby umelej ventilácie, dĺžke
+pobytu v nemocnici, delíria a k zlepšeniu ročného prežívania. Pri tomto programe je nutná
+spolupráca lekárov, sestier, fyzioterapeutov. SAT a SBT je dvojstupňovitý proces. Tieto
+31
+
+protokoly obsahujú bezpečnostné obrazovky a kritériá zlyhania. Bezpečnostná obrazovka
+obsahuje absencie záchvatov, odvykanie, paralýzu a zvýšený intrakraniálny tlak. Kritériá
+zlyhania SAT sú zamerané na príznaky bolesti, rozrušenia a delíria (PAD) spolu so
+známkami, ktoré sú bežné pre respiračné ťažkosti u rozrušených pacientov. Bezpečnostná
+obrazovka SBT obsahuje vyhodnotenie potreby podpory ventilátora, to napomáha uľahčiť
+odstavenie ventilácie a znižuje opätovnosť reintubácie.
+Nefarmakologické ovplyvňovanie precipitujúcich faktorov je ťažkou ale účinnou
+metódou, ktorá vedie k zníženiu výskytu a trvania delíria. Preukázateľný efekt na zníženie
+delirantného stavu má jednoznačne včasná mobilizácia pacientov, ktorá je spojená s nižším
+výskytom hyperaktívneho delíria. Veľký dôraz sa kladie na nefarmakologický prístup s
+cieľom minimalizácie sedácie a dostatočnou analgéziou.
+Bolesť patrí medzi jeden z najvýznamnejších faktorov vzniku delíria. Je preto
+nevyhnutné bolesť zavčasu riešiť, monitorovať a liečiť. V súčasnosti máme k dispozícii
+rôzne numerické (NRS) a aj vizuálne (VAS) a behaviorálne škály (BPS, CPOT) na
+hodnotenie bolesti v intenzívnej starostlivosti. (Herold, I. 2013).
+Ďalším veľmi významným preventabilným a ovplyvniteľným faktorom je zabezpečenie
+dostatočného a kvalitného spánku u pacientov na JIS. Zabezpečenie kvalitného spánku
+predstavuje úpravu prostredia, zníženie hlučnosti, osvetlenia, minimalizáciu prerušovaného
+spánku (eliminovať procedúry a ošetrovateľské aktivity počas spánku), používanie ochrany
+očí a uší. Väčšina sedatív vrátane benzodiazepínov zhoršuje samotný spánok a nevedie k
+dostatočnému odpočinku chorého.
+Pod reorientáciou pacienta rozumieme aj komunikáciu s ošetrujúcim personálom, ale aj
+s príbuznými pacienta. Súčasťou manažmentu u takýchto pacientov by mala byť čo
+najčastejšia stimulácia rodinou. Na reorientáciu možno použiť aj pomôcky ako okuliare,
+slúchadlá, televíziu, počítač, rádio…
+Čo by sme mali robiť?
+• Pozorovať pacienta - veľké riziko pádu
+• Rozprávať s pacientom mierne a kľudne
+• Vysvetliť pacientovi načo sú prístroje, prečo vydávajú zvuky, čo robia ostatné osoby
+• Pacientovi vystaviť fotografie rodiny a blízkych
+32
+
+• Snažiť sa upraviť senzorické deficity - okuliare, načúvací aparát, mierne osvetlenie
+• Hydratovať pacienta
+• Zabezpečiť výživu
+• Mobilizovať
+• Umožniť návštevy
+• Do miestnosti umiestniť hodiny, kalendár, osvetlenie, správna teplota miestnosti
+• Brať na vedomie pocity pacienta a venovať im pozornosť (Kučerová, H. 2013)
+• Často usmerňovať pacientovu orientáciu - kde je, kto sú všetci ľudia, aká je situácia
+• Dôležitá je aj správna a dostatočná dokumentácia
+• Riešiť hypoxiu a hypotenziu
+• Starať sa o pravidelnosť vyprázdňovania
+• Umožniť pacientovi počúvať radio, pozerať TV, ak je to možné
+• Udržať rytmus spánku a bdenia
+• Eliminovať hluk
+• Nemeniť miesto pobytu pacienta
+Čo by sme nemali robiť?
+• Vyhýbať sa príkazom
+• Netrvať na úkonoch, ktoré môžu počkať - prezliekanie postele, holenie
+• Nestriedať často personál
+• Nenarušovať spánok, nerušiť hlukom a svetlom pacienta
+• Neobmedzovať ich fyzicky, umožniť pacientom pohyb
+• Nezavádzať katétre a kanyly pokiaľ to stav dovoľuje
+Je dôležité pacienta vždy ukľudniť slovom, ak sa to nedá podávame psychofarmaká.
+Pokiaľ ani podanie liekov nemá požadovaný efekt je možné pristúpiť k fixovaniu pacienta.
+Používanie obmedzovacích prostriedkov môže zhoršiť priebeh delirantného stavu. Patria
+medzi poslednú možnosť, kým dôjde k účinkovaniu psychofarmák a len na použitie počas
+nevyhnutnej a čo najkratšej doby. Pacient nerozumie čo sa deje, nemôže sa pohybovať,
+snaží sa uvoľniť, čo môže prispieť k ešte väčšej agresivite. Fixovaný pacient zostáva
+deprimovaný, izolovaný, čo zhoršuje jeho orientáciu. Pri fixovaní hrozí pacientovi
+dehydratácia, bronchopneumónia, vznik dekubitov (Káňová, M. 2015).
+33
+
+Je nutné myslieť na dôstojnosť pacienta a rešpektovať jeho súkromie. Ide o krajné
+riešenie, v prípade že je potrebné dosiahnuť ukľudnenie pacienta, ktorý svojim správaním
+ohrozuje na živote seba alebo iných. Do úvahy pripadá:
+• držanie pacienta inými zdravotníckymi pracovníkmi alebo osobami k tomu určenými so
+súhlasom riaditeľa spoločnosti
+• použitie zábran
+• použitie ochraných pásov alebo popruhov
+• izolačná miestnosť, sieťovaná posteľ
+Je nutná pravidelná kontrola o nevyhnutnosti použitia obmedzovacích prostriedkov. O
+použití takýchto prostriedkov rozhoduje lekár, ktorý je prítomný v danej situácii. Nutná je
+dokumentácia takého rozhodnutia, v ktorej má byť zaznamenané: kto rozhodol o použití
+obmedzovacieho prostriedku (meno a podpis zodpovedného lekára), meno a podpis
+pracovníka zodpovedného za aplikovanie, dátum a čas použitia, druh, dôvod použitia,
+zápisy o kontrolách zdravotníckym pracovníkom, telesný a duševný stav chorého, záznam
+merania VF, zápis o zmenách stavu pacienta, účinnosť resp. neúčinnosť daného
+prostriedku, zranenia pacienta alebo personálu, dátum a čas ukončenia obmedzenia.
+
+1.9. Liečba delírií
+Nadmerná a hlboká sedácia je spojená zo zhoršením mortality, kognitívnych funkcií a
+psychických komplikácií. V bežnej praxi sa využívajú skôr hlboké a neadekvátne
+analgosedácie. Ideálne by chorý mal byť v pohodlí, kľudný a spolupracujúci so
+zdravotníckym personálom a rodinou počas celého pobytu. Tento proces je postavený na
+účinnej analgézii, riadenej, cielenej a titrovanej sedácii a maximálne cielenej starostlivosti
+so spoluprácou celého tímu a rodiny.
+Prioritou starostlivosti je dostatočná analgézia, ktorá sa často nezaobíde bez opioidov.
+Liečba musí byť prísne individualizovaná s rozlíšením typu bolesti. Bolesť akútna - po
+chirurgickom výkone alebo po rozličných invazívnych úkonoch a bolesť chronická. Preto
+je dôležitou súčasťou starostlivosti monitoring bolesti.
+
+34
+
+Sedácia by mala byť minimalizovaná s tým, že pacient by mal byť kľudný a
+spolupracujúci, má tolerovať zavedené katétre, kanyly, drény, UPV. Určité diagnózy si
+vyžadujú u pacienta hlbokú sedáciu, ide hlavne o chorých s ťažkým respiračným
+ochorením, poranením hlavy s intrakraniálnou hypertenziou, pacienti so status epilepticus
+či ventilačnou dysynchronicitou. Nadmerná aj nedostatočná sedácia môže byť príčinou
+stresu a diskomfortu s následným rozvojom delíria.
+Pri farmakoterapii sa vychádza najmä z typu delíria, príčin, celkového stavu, telesnej a
+psychickej morbidity a typu používanej farmakoterapie. Absolútnou nevyhnutnosťou je
+zvážiť medikáciu pacienta, nakoľko užívanie nevhodných liekov, alebo ich interakcií môže
+priamo vyvolať delirantný stav. K farmakoterapii pristupujeme pokiaľ pretrváva nekľud,
+ktorý vyčerpáva pacienta zlyhaním základných životných funkcií, zranením, alebo ak je
+pacient agresívny. Používajú sa tri skupiny látok: antipsychotiká, benzodiazepíny a
+výnimočne clomethiazol - pri delíriu tremens (Pečeňák, J.2011) Terapia by mala byť
+podaná zavčasu a nie až keď sú príznaky výrazné. Podávať by sa mali najmenšie dávky
+každú hodinu, dve až kým sa nedosiahne požadovaná sedácia. Doporučené je užívanie
+krátkodobých a lepšie kontrolovateľných látok ako propofol a dexmedetomidin pred
+užívaním benzodiazepínov. Benzodiazepíny by mali byť podávané v špecifických
+situáciách ako sú kŕčové stavy, syndróm z odňatia benzodiazepínov alebo alkoholu,
+poranenie mozgu, Parkinsonova choroba a paliatívna starostlivosť. Nemali by sa použiť
+tam, kde hrozí respiračná insuficiencia. Benzodiazepíny sami o sebe môžu spustiť
+delirantný stav. Sú viac rizikové ako iné sedatíva (McGrane, S et al. 2012). Z
+benzodiazepínov sa najčastejšie používa Diazepam, jemnejší je Oxazepam, parenterálne
+Midazolam. Z antipsychotík je najpoužívanejší Haloperidol, ktorý dobre tlmí akútny
+nekľud. Haloperidolom sedovaní pacienti by mali byť kontinuálne sledovaní, TK, P, TT,
+oxygenácia. Ďalšou voľbou zo skupiny antipsychotík je Tiapridal - veľmi dobre znášaný.
+
+35
+
+2 METODIKA PRIESKUMU
+Úspešnosť prevencie delirantných stavov závisí aj od informovanosti zdravotníckych
+pracovníkov v ich problematike a včasnej intervencie sestier. Pri nerozpoznanej
+diagnostike a neskorých intervenciách môže dôjsť k rýchlej mortalite chorých, alebo k
+vzniku rôznych komplikácií súvisiacich s delíriom. Tento problém bol motiváciou na
+napísanie záverečnej práce, kde sme určili tento prieskumný problém: Disponujú sestry
+dostatočnými informáciami a vedomosťami o prevencii, intervencii a spôsobe
+zvládania delirantných stavov nefarmakologickými prostriedkami?
+
+2.1 Vymedzenie prieskumného problému
+Sestra plní dôležitú úlohu pri starostlivosti o pacientov v delíriu, musí disponovať
+dostatočnými vedomosťami ohľadom predchádzania delírií, pri ich diagnostike a liečbe.
+Vedomosti sú nutné kôli neustále sa zvyšujúcemu počtu delirujúcich pacientov najmä
+seniorov, aby sa skvalitnila úroveň starostlivosti a znížila sa mortalita týchto pacientov.
+Pri vytvorení prieskumného problému sme si položili nasledujúce otázky:
+1.
+
+Disponujú sestry dostatočnými informáciami o nefarmakologickom prístupe k
+delirantným stavom?
+
+2.
+
+Majú sestry dostatočné informácie o problematike ošetrovateľskej starostlivosti o
+pacienta v delíriu?
+
+3.
+
+Vykonávajú sestry intervencie, aby predišli vzniku delírií?
+
+4.
+
+Poznajú sestry diagnostické metódy na zistenie delírií?
+
+5.
+
+Súvisí dĺžka praxe s poskytovaním včasných intervencií proti vzniku delirií?
+
+2.2 Ciele prieskumu
+1. Zmapovať u respondentov vedomosti o nefarmakologickej liečbe delírií
+2. Zistiť u respondentov znalosti o problematike delírií
+3. Zmapovať aké intervencie respondenti používajú k predchádzaniu vzniku delírií
+4. Zistiť vedomosti respondentov v diagnostike vzniku delírií
+5. Zistiť spojitosť s dosiahnutým vzdelaním a starostlivosťou o delirujúcich pacientov
+36
+
+2.3 Realizácia prieskumu
+Zber údajov sme realizovali pomocou dotazníka určeného pre sestry pracujúce na
+oddelení intenzívnej starostlivosti. Dotazníky boli distribuované v Nemocnici Agel Košice
+Šaca, po predchádzajúcom súhlase v počte 30 ks riaditeľom spoločnosti a námestníčky pre
+ošetrovateľstvo a prostredníctvom Komory sestier taktiež po jej predchádzajúcom
+odsúhlasení. Pre tento účel sme použili vlastný dotazník, ktorý mal uspokojivú hodnotu pri
+dosahovaní vytýčených cieľov.
+
+Charakteristika prieskumnej vzorky
+Respondenti, boli vybratí zámerným výberom a spĺňali nasledujúce kritériá:
+
+• Začínajúce sestry po skončení štúdia
+• Sestry pracujúce na oddelení intenzívnej medicíny so špecializáciou
+• Sestry s dlhodobou praxou
+2.4 Metodológia prieskumu
+Pre získanie informácií o problematike bol vyhotovený dotazník. Jeho výhodou je, že
+jeho prostredníctvom môžme ľahko získať informácie od veľkého množstva ľudí v
+krátkom čase. Dodržujeme anonymitu respondenta. Dotazník môžme posielať a
+prieskumník nemusí byť prítomný. Respondenti majú čas na odpovede. Použili sme
+neštandardizovaný dotazník s polootvorenými a uzatvorenými otázkami. Respondenti boli
+vybratí podľa znakov, ktoré sme si predtým určili. Išlo teda o ich zámerný výber. Dotazník
+obsahoval 28 otázok. V úvode dotazníka sme respondentov oboznámili s cieľom
+prieskumu a inštrukciami pre jeho vyplnenie. Získané odpovede sme spracovali v
+programe Numbers. Zistené hodnoty sme znázornili grafickou úpravou.
+
+37
+
+3 VÝSLEDKY VÝSKUMU
+3.1 Vedomostné otázky
+V dotazníku sa nachádza 25 otázok zameraných na vedomosti sestier o kvalitatívnej
+poruche vedomia so zameraním na delírium na jednotkách intenzívnej starostlivosti.
+Otázky boli zamerané na jeho príznaky, typy, hodnotiace škály, diagnostiku, rizikové
+faktory, vyvolávajúce faktory a následky delíria. Súčasťou vedomostných otázok bolo aj,
+akým spôsobom posudzujú sestry hydratáciu pacienta na svojom oddelení, aké sú
+preventívne opatrenia pred vznikom delíria, nefarmakologické postupy používané v praxi,
+včasné intervencie, ale aj intervencie sestier pri už rozvinutom delíriu. Pýtali sme sa na
+lieky, ktoré môžu byť spúšťačom, na príčiny agresivity a na používanie obmedzujúcich
+prostriedkov. Poslednou otázkou vo vedomostných otázkach bola otázka týkajúca sa toho,
+čo sestry pokladajú za najťažšie pri starostlivosti o týchto pacientov.
+
+Otázka 1: Čo patrí ku kvalitatívnym poruchám vedomia?
+V otázke sme zisťovali, aké majú sestry vedomosti o tom, čo patrí ku kvalitatívnym
+poruchám vedomia. Z celkového počtu 79 sestier odpovedalo 80% t.j. 63 sestier delírium,
+58% t.j. 46 sestier odpovedalo amencia, 28% t.j. 22 sestier kóma, 25% t.j. 20 sestier
+odpovedalo sopor a 18% t.j. 14 sestier odpovedalo synkopa.
+
+Amencia
+Kóma
+Sopor
+Synkopa
+Delírium
+
+Graf 1 Kvalitatívna porucha vedomia
+38
+
+Otázka 2: Aké sú príznaky delíria?
+V otázke 2 sme zisťovali, vedomosti sestier o tom, aké sú príznaky delíria. Zo 79 sestier
+uviedlo 46 sestier (58%) zmenené vedomie, 78 sestier (99%) dezorientáciu, 60 sestier
+(76%) zmeny osobnosti, 36 sestier (46%) postupný nástup a 6 sestier (8%) uviedlo
+nevýrazné fyzické zmeny .
+
+Dezorientácia
+Zmenené vedomie
+Zmeny osobnosti
+Postupný nástup
+Nevýrazné fyzické zmeny
+
+Graf 2: Príznaky delíria
+
+Otázka 3: Aké sú typy delírií?
+V otázke 3 sme sa pýtali sestier aké sú typy delírií. Zo 79 sestier uviedlo 64 sestier
+(81%) hyperaktívne delírium, 66 sestier (84%) zmiešané delírium, 54 sestier (68%)
+hypoaktívne delírium, 5 sestier (6%) maximálne a 4 sestry (5%) minimálne.
+
+Hyperaktívne
+Zmiešané
+Hypoaktívne
+Maximálne
+Minimálne
+
+Graf 3: Typy delírií
+39
+
+Otázka 4: Ako hodnotíte psychický stav chorých?
+V otázke 4 sme sa pýtali ako sestry hodnotia psychický stav pacientov. Zo 79 sestier
+uviedlo 60 sestier (76%) odpovedalo nehodnotíme a 19 sestier (24%) testami.
+
+Nehodnotíme
+Testami
+
+Graf 4: Hodnotenie psychického stavu chorých
+
+Otázka 5: Ak hodnotíte, aké testy používate?
+V otázke 5 sme sa pýtali sestier, aké testy používajú vo svojej praxi, ak hodnotia
+psychický stav chorých. Zo 79 sestier nikto nepoužíva test CAM-ICU a RASS, 2 sestry
+(11%) používa test kreslenia hodín, 14 sestier (74%) používa MMSE a 3 sestry (16%)
+ICDSC test.
+
+CAM-ICU
+RASS
+Test kreslenia hodín
+MMSE
+ICDSC
+
+Graf 5: Testy na hodnotenie psychického stavu
+40
+
+Otázka 6: Je prevencia delíria?
+V otázke 6 sme sa pýtali sestier, či je podľa ich názoru prevencia delíria dôležitá.
+Zo 79 sestier 76 (96%) odpovedalo, že je dôležitá a 3 sestry (4%) nevedeli odpovedať.
+
+Dôležitá
+Nie je dôležitá
+neviem
+
+Graf 6: Je prevencia delíria?
+
+Otázka 7: Dg kritéria na splnenie delíria?
+V otázke 7 sme sa pýtali sestier, čím sa vyznačuje stav, kedy možno hovoriť o delíriu.
+Zo 79 sestier, 27 (34%) odpovedalo pomalý začiatok, 66 sestier (84%) poruchy kognície,
+16 sestier (20%) znížená vnímavosť, kóma, 57 sestier (72%) prevrátený spánkový rytmus a
+20 sestier (25%) poruchy dlhodobej pamäte.
+
+Pomalý začiatok
+Poruchy kognitívnych funkcií
+Znížená vnímavosť až kóma
+Prevrátený spánkový rytmus
+Poruchy dlhodobej pamäte
+
+Graf 7: Dg kritériá na splnenie delíria
+
+41
+
+Otázka 8: Aké sú rizikové faktory vzniku delíria?
+V otázke č. 8 sme chceli vedieť, či sestry poznajú rizikové faktory vzniku delírií.
+Zo 79 sestier 14 setier (18%) odpovedalo invazívne vstupy, 54 sestier(68%) uviedlo vek
+nad 65 rokov, 73 sestier (92%) odpovedalo dehydratácia, 15 sestier (19%) fajčenie a 58
+sestier (73%) demencia.
+
+Demencia
+Fajčenie
+Dehydratacia
+Vek nad 65 rokov
+Invazívne vstupy
+
+Graf 8: Aké sú rizikové faktory vzniku delíria?
+
+Otázka 9: Aké sú vyvolávajúce faktory vzniku delíria?
+V otázke 9 sme sa pýtali sestier, aké sú vyvolávajúce faktory vzniku delíria. Zo 79
+sestier, 19 (24%) odpovedalo ticho, 52 sestier (66%) imobilita, 18 sestier (23%)
+nesynchrónna UPV, 55 sestier (70%) infekcia a 27 sestier (34%) svetlo.
+
+Ticho
+Imobilita
+Nesynchronna UPV
+Infekcia
+Svetlo
+
+Graf 9: Aké sú vyvolávajúce faktory vzniku delíria?
+42
+
+Otázka 10: Aké sú následky delíria?
+V otázke 10 sme zisťovali, aké môžu mať pacienti následky. Zo 79 sestier nám 24
+sestier (30%) odpovedalo depresie, 40 sestier (51%) pooperačné komplikácie, 70 sestier
+(89%) zranenia a pády, 68 sestier (86%) dlhšia hospitalizácia a odpoveď iné 3 sestry (4%)
+
+Depresie
+Pooperačné komplikácie
+Zranenia a pády
+Dlhšia hospitalizácia
+Iné, agresivita, smrť
+
+Graf 10: Aké sú následky delíria?
+
+Otázka 11: Aká sú preventívne opatrenia pred vznikom delíria?
+V otázke 11 sme sa pýtali, aké preventívne opatrenia používajú sestry. Zo 79 sestier 28
+(35%) odpovedalo imobilizácia pacienta, 7 sestier (9%) označilo balíček ABCDEF, 34
+sestier (43%) alimentácia, 59 sestier (75%) analgézia a 6 sestier (8%) odpovedalo iné.
+
+Imobilizácia pacienta
+Balíček ABCDE
+Alimentácia
+Analgézia
+Iné
+
+Graf 11: Aké sú preventívne opatrenia pred vznikom delíria na Vašom
+pracovisku?
+43
+
+Otázka 12: Ako posudzujete stav hydratácie pacientov?
+V otázke 12 sme zisťovali, ako sa posudzuje stav hydratácie. Zo 79 sestier 2 sestry (3%)
+odpovedali zdvihnutím DK, 51 sestier (65%) hodnotami TK a P, 57 (72%) meraním CVT,
+13 (16%) monitoringom hemodynamiky, 75 (95%) bilanciou tekutín, 5 sestier (6%)
+tekutinový test, a 1 sestra (1%) odpovedala iné.
+
+Test pasívnym zdvihnutím DK
+Hodnotami TK a P
+Meraním CVT
+Monitoringom hemodynamiky
+Bilanciou tekutín
+Tekutinový test
+Iné
+
+Graf 12: Ako posudzujete stav hydratácie pacientov?
+
+Otázka 13: Akými opatreniami znižujete dobu trvania UPV?
+V otázke 13 sme zisťovali, ako sa znižuje doba trvania UPV. Zo 79 sestier 38 (48%)
+odpovedalo odsávaním z HDC, 18 sestier (23%) denným testom SAT a SBT, 43 sestier
+(54%) vysadením sedácie, 12 sestier (15%) neviem a 7 sestier (9%) odpovedalo iné.
+
+Opakovaným odsávaním z HDC
+Denným testom SAT a SBT
+Vysadením sedácie a analgéziou
+Neviem
+Iné
+
+Graf 13: Akými opatreniami znižujete dobu trvania UPV?
+44
+
+Otázka 14: V akej frekvencii vykonávate test SAT a SBT?
+V otázke 14 sme sa pýtali sestier ako vykonávajú test SAT a SBT. Zo 79 sestier
+odpovedalo 27 (34%) dľa ordinácie, 43 (54%) nevykonáva, 4 (5%) 1x denne, 2 (3%) pred
+odpojením pacienta, 1 (1%) po stabilizácii stavu a 2 (3%) odpovedali, iné
+
+Podla ordinácie lekára
+Nevykonáváme
+1xdenne
+Tesne pred odpojením od UPV
+Hned po stabilizácii stavu
+Iné
+
+Graf 14: V akej frekvencii vykonávate test SAT a SBT?
+
+Otázka 15: Aké nefarmakologické postupy používate v praxi?
+V otázke 15 sme sa pýtali, aké postupy sa používajú pri delirujúcich pacientoch. Zo 79
+sestier 50 sestier (63%) uviedlo obmedzovacie prostriedky, 57(72%) minimalizovanie
+senzorických podnetov, 20 (25%) osvetlenie, 30 (38%) korekcia zmyslových porúch.
+
+Obmedzovacie prostriedky
+Minimalizovanie podnetov
+Osvetlenie
+Korekcia zmyslových porúch
+Iné
+
+Graf 15: Nefarmakologické postupy
+45
+
+Otázka 16: Aké sú včasné intervencie pri delirantných pacientoch?
+V otázke 16 sme sa pýtali, aké sú včasné intervencie sestry pri delirujúcich pacientoch.
+Zo 79 sestier 35 (44%) uviedlo mobilizácia pacientov, 67 sestier (85%) komunikácia, 45
+sestier (57%) farmakoterapia, 27 sestier (34%) fixácia pacientov.
+
+Mobilizacia pacientovi
+Komunikacia
+Farmakoterapia
+Fixacia pacientovi
+Iné
+
+Graf č. 16: Včasné intervencie sestry
+
+Otázka 17: Môžu byť niektoré lieky rizikové pre vznik delíria?
+V otázke 17 sme sa pýtali, či sú niektoré lieky rizikové pre vznik delíria. Zo 79 sestier
+uviedlo 61 sestier (77%) uviedlo áno, 1 sestra (1%) uviedla nie a 17 sestier (22 %) neviem.
+
+Áno
+Nie
+Neviem
+
+Graf 17: Môžu byť niektoré lieky rizikové?
+46
+
+Otázka 18: Ak áno, ktoré lieky môžu byť spúšťačom delíria?
+V otázke 18 sme sa pýtali sestier, ktoré uviedli v predchádzajúcej otázke áno, ktoré
+lieky môžu byť spúšťačom delíria. Zo 79 sestier 64 (81%) uviedlo opiáty, 3 sestry (4%)
+antihypertenzíva, 1 sestra (1%) ATB, 11 sestier (14%) myorelaxanciá a 11 setier (14%)
+diuretiká.
+
+Opiáty
+Antihypertenzíva
+ATB
+Myorelaxanciá
+Diuretiká
+
+Graf 18: Ktoré lieky môžu byť spúšťačom delíria
+
+Otázka 19: Čo je najčastejšou príčinou agresivity?
+V otázke 19 sme sa pýtali, čo je príčinou agresivity. 31 sestier (39%) uviedlo základné
+ochorenie, 59 sestier (75%) fixácia pacientov, 66 sestier (84%) neznáme prostredie, 31
+sestier (39%) uviedlo silné senzorické podnety a 3 sestry (4%) uviedli iné.
+
+Základné ochorenie
+Fixácia pacientov
+Neznáme prostredie
+Silné senzorické podnety
+Iné
+
+Graf 19: Príčina agresivity
+47
+
+Otázka 20: Aký prístup volíte ako prvý k pacientom s rozvinutým
+delíriom?
+V otázke 20 sme sa pýtali, aký prístup je ako prvý u delirujúcich. Zo 79 sestier 57
+sestier (72%) používa psychofarmaká a fixáciu, 20 sestier (25%) dohľad pri lôžku, 1 sestra
+(1%) uviedla len psychormaká a 1 sestra (1%) uviedla iné.
+
+Psychofarmaká a fixácia
+Dohľad pri lôžku
+Len psychofarmaká
+Len fixácia
+Iné
+
+Graf 20: Prístup k delirujúcim pacientom
+
+Otázka 21: V akých prípadoch používate obmedzujúce prostriedky?
+V otázke 21 sme sa pýtali sestier, kedy používajú obmedzovacie prostriedky. Zo 79
+sestier 63 sestier (80%) uviedlo pri agresivite, 5 sestier (6%) pri ľahkom nepokoji, 11
+sestier (14%) pri dezorientácii.
+
+Agresivita
+Ľahký nepokoj
+Dezorientácia
+Nepoužívame
+Iné
+
+Graf 21: Obmedzujúce prostriedky
+48
+
+Otázka 22: Po akej dobe od hospitalizácie začínate s mobilizáciou?
+V otázke 22 sme sa pýtali, kedy sa začína s mobilizáciou. Zo 79 sestier 70 sestier (89%)
+uviedlo pasívnu rehabilitácia, 5 sestier (6%) uviedlo, ak je pacient odpojený od UPV a pri
+vedomí, a 4 sestry (5%) uviedli, ak je pacient schopný aktívnej spolupráce.
+
+Ihneď ako je to možné
+Nemobilizujeme
+Ak je odpojený od UPV
+Schopný aktívnej spolupráce
+Iné
+
+Graf 22: Mobilizácia pacienta
+
+Otázka 23: Majú Vaši pacienti k dispozícii ľahko viditeľné hodiny?
+V otázke 23 sme sa pýtali, či pacienti majú k dispozícii hodiny. Zo 79 sestier 54 sestier
+(68%) uviedlo áno a 25 sestier (32%) nie.
+
+Áno
+Nie
+
+Graf 23: Majú pacienti k dispozícii hodiny?
+
+49
+
+Otázka 24: Upravujete hlasitosť prístrojov na Vašom oddelení?
+V otázke 24 sme chceli vedieť, či sa upravuje hlasitosť prístrojov na oddelní. Zo 79
+sestier 68 (86%) odpovedalo áno a 11 sestier (14%) nie.
+
+Áno
+Nie
+
+Graf 24: Upravujete hlasitosť prístrojov?
+
+Otázka 25: Čo je pre Vás najťažšie pri ošetrovaní takýchto pacientov?
+V otázke 25 sme chceli vedieť, čo je pre sestry najťažšie pri ošetrovaní delirujúcich
+pacientov. Zo 79 sestier 29 sestier (37%) odpovedalo komunikácia, 63 sestier (80%)
+agresivita, 24 sestier (30%) dezorientácia, 33 sestier (42%) nároky na zvýšenú pozornosť.
+
+Komunikácia
+Agresivita
+Dezorientácia
+Nároky na zvýšenú pozornosť
+Iné
+
+Graf 25: Čo je najťažšie pri ošetrovaní
+50
+
+3.2 Demografické údaje
+S demografickými údajmi súvisia 3 otázky, v ktorých sme chceli vedieť, do ktorej
+vekovej kategórie patria respondenti, odbornú prax a najvyššie dosiahnuté vzdelanie.
+
+Otázka 26: Aký je Váš vek?
+V otázke č. 26 sme chceli vedieť vekovú kategóriu sestier. Zo 79 sestier 6 z nich (8%) je
+vo veku 20 - 25 rokov, 18 sestier (23%) je vo veku 26 - 35 rokov, 29 sestier (37%) je vo
+veku 36 - 45 rokov a 26 sestier (33%) uviedlo vek 46 a viac rokov.
+
+20 - 25 rokov
+26 - 35 rokov
+36 - 45 rokov
+46 a viac rokov
+
+Graf 26: Vek
+
+Otázka 27: Aká je Vaša odborná prax v danom odbore?
+V otázke 27 sme chceli vedieť, akú majú sestry odbornú prax v danom odbore. Zo 79
+sestier 10 z nich (13%) má prax 1 - 5 rokov, 12 sestier (15%) 6 - 10 rokov, 10 sestier
+(13%) 11 - 15 rokov, 16 sestier (20%) uviedlo 16 - 20 rokov a možnosť 21 a viac uviedlo
+31 sestier (39%).
+
+51
+
+1 - 5 rokov
+6 - 10 rokov
+11 - 15 rokov
+16 - 20 rokov
+21 a viac
+
+Graf 27: Odborná prax
+
+Otázka 28: Aké je Vaše najvyššie dosiahnuté vzdelanie?
+V otázke 28 sme chceli vedieť, aké je najvyššie dosiahnuté vzdelanie sestier, ktoré sa
+zúčastnili na tomto prieskume. Zo 79 sestier 9 sestier t.j. 11% má ukončenú SZŠ do roku
+2004, 38 sestier t.j. 48% uviedlo VŠ, 2 sestry t.j. 3% VOV a 30 sestier t.j. 38% má SZŠ +
+špecializáciu
+
+SZŠ do roku 2004
+VŠ
+VOV
+SZŠ + špecializácia
+
+Graf 28: Vzdelanie
+
+52
+
+4 DISKUSIA
+V našej bakalárskej práci sme sa venovali kvalitatívnej poruche vedomia pacientov na
+jednotkách intenzívnej starostlivosti. Cieľom práce bolo zistiť vedomosti sestier v oblasti
+delírií. Uplatňovanie nefarmakologických prístupov k jeho zabráneniu, jeho prejavy a
+spúšťače. Zisťovali sme, kedy sa začína s mobilizáciou pacientov a ako sa dá znižovať
+doba trvania umelej pľúcnej ventilácie. Poskytnuté odpovede sme anylyzovali z údajov,
+ktoré sme zmapovali od sestier v praxi pracujúcich na oddeleniach s intenzívnou
+starostlivosťou. Dotazníky boli po schválení riaditeľom spoločnosti Nemocnica Agel
+Košice Šaca a námestníčkou pre ošetrovateľstvo distribuované na oddelenie OAIM a POP
+JIS. Po schválení Komorou sestier a pôrodných asistentiek bol rozoslaný link na vyplnenie
+dotazníka prostredníctvom spoločnosti Survio sestrám, ktoré sú členkami komory sestier.
+V nemocnici bolo schválených 30 dotazníkov. Návratnosť bola 100%, dotazníky boli
+riadne vyplnené. Z komory sestier sa vrátilo 49 riadne vyplnených dotazníkov. Prieskumný
+súbor bol vytvorený v počte 79 respondentov.
+Najväčšie zastúpenie majú sestry vo veku 36 - 45 rokov v počte 29 sestier (37%),
+nasledujú sestry vo vekovej kategórii 46 a viac v počte 26 sestier (33%), kategóriu 26 - 35
+rokov tvorí 18 sestier (23%), a 6 sestier (8%) je z kategórie 20 - 25 rokov.
+Sestier s najdlhšou praxou 21 a viac rokov tvorilo 31 sestier (39%), nasledujú sestry s
+praxou 16 - 20 rokov, ktorú tvorí 16 sestier (20%), nasleduje 12 sestier s dĺžkou praxe 6 10 rokov (15%) a najnižšiu kategóriu tvorí 10 sestier (13%) s praxou 1-5 rokov a 10 sestier
+(13%) 11-15 rokov.
+Najvyšší počet respondentov má vysokoškolské vzdelanie, 38 sestier (48%), nasledujú
+sestry so stredoškolským vzdelaním a špecializáciou v počte 30 sestier (38%), sestier so
+stredoškolským vzdelaním je 9 (11%) a 2 sestry s vyšším odborným vzdelaním (3%).
+
+4.1 Odpovede na prieskumné otázky
+Prieskumná otázka 1: Disponujú sestry dostatočnými informáciami o
+nefarmakologickom prístupe k delirantným stavom? K tejto otázke sa nám viažu
+53
+
+dotazníkové otázky č. 11, 12, 13, 14, 15, 16, 22, 23, 24. Respondenti mohli označiť aj viac
+odpovedí okrem otázok č. 22, 23, 24.
+Jednotlivé otázky boli zamerané na preventívne opatrenia a včasné intervencie
+používané sestrami v praxi. Nefarmakologická liečba delírií pozostáva z veľmi dôležitej
+prevencie vzniku delíria. Medzi nefarmakologické opatrenia patrí starostlivosť o celkový
+telesný aj duševný stav pacientov. Veľmi dôležitým opatrením je zabezpečenie dostatočnej
+hydratácie a výživy pacientov. Najviac je využívaná bilancia tekutín, ktorú označili takmer
+všetky sestry, čo je spôsobené pravdepodobne tým, že bilancia tekutín na jednotkách
+intenzívnej starostlivosti je nutnosťou a povinnosťou vedenia a zaznamenávania u každého
+pacienta spolu s meraním CVT a hodnotami TK a P. Monitoring TK a P a taktiež meranie
+CVT patria medzi štandardné monitorovacie techniky v intenzívnej starostlivosti. Práve
+tieto hodnoty nepatria však medzi optimálne ukazovatele optimálnej hydratácie pacienta.
+Je pravdepodobné, že iné metódy sa v praxi nepoužívajú resp. veľmi málo. Spôsob
+monitoringu stavu hydratácie súvisí so zvyklosťami daného pracoviska, s manažmentom, s
+nárokmi a požiadavkami službukonajúceho lekára. Samozrejmos ou je, ak si lekár
+vyžaduje k tekutinovej lie be hodnotu CVT, príp. sta ia hodnoty TK a P a bilancia tekutín
+nebudú sa vykonáva iné testy. Analgéziu a alimentáciu si zvolilo najvä šie množstvo
+sestier ako preventívne opatrenie. Boles patrí medzi významný rizikový faktor vzniku
+delíria. Je ve mi pravdepodobné, že na oddeleniach intenzívnej starostlivosti sú sestry v
+neustálom kontakte s pacientmi a preto ich majú pod neustálym doh adom a ahko si môžu
+všimnú , i už z verbálnych alebo neverbálnych prejavov vznikajúcu boles a tým aj
+zmenu v správaní a chovaní pacientov.
+Z uvedených odpovedí nám vyplýva, že sestry disponujú čiastočnými vedomosťami o
+nefarmakologickom prístupe k delirujúcim pacientom. V odpovediach sa kombinovali
+rôzne typy možností. Vyhodnotením dotazníkov môžme potvrdiť, že sestry sú čiastočne
+informované o nefarmakologickom prístupe. Avšak ako najväčšie preventívne opatrenie sa
+radí balíček ABCDEF, ktorého súčasťou je aj denný test SAT a SBT. Tieto opatrenia sestry
+nepoznajú a nie sú využívané. Predpokladáme, že je to spôsobené manažmentom v
+nemocniciach a zvykosťami na jednotlivých oddeleniach, nedostatočnými až chýbajúcimi
+vedomosťami o tomto preventívnom opatrení a nedostatočným pripisovaním významu
+
+ť
+
+č
+
+ľ
+
+ť
+
+ľ
+
+č
+
+ť
+
+č
+
+ť
+
+ľ
+
+č
+
+ť
+
+54
+
+delírií v praxi. Môžme potvrdiť, že sestry sú dostatočne informované o nutnosti analgézie,
+minimalizácii rušivých vplyvov, komunikácii, reorientácii a taktiež včasnej rehabilitácii
+pacientov.
+
+Prieskumná otázka 2: Majú sestry dostatočné informácie o problematike
+ošetrovateľskej starostlivosti o pacienta v delíriu? K tejto prieskumnej otázke sa nám
+viažu dotazníkové otázky č.: 1, 3, 6, 8, 9, 10.
+Chceli sme vedieť, čo patrí ku kvalitatívnym poruchám vedomia, typy delírií,
+hodnotenie psychického stavu pacientov a ak hodnotia tak ako. Rizikové a vyvolávajúce
+faktory delírií a následky delírií. Delírium patrí medzi ve mi závažný a život ohrozujúci
+stav, ktorý negatívne ovplyv uje priebeh základného ochorenia. Predstavuje ohrozenie
+najmä pre seniorov. Delíriá sú vlastne reakciou na rôzne noxy, vä šinou sú dôsledkom
+interakcie rizikových faktorov. Medzi rizikové faktory môžme pod a otázky 8 radi :
+invazívne vstupy, vek nad 65 rokov, dehydratácia a demencia. Dôležité je znížovanie
+hlasitosti a svetla najmä v no ných hodinách. Prílišný hluk a svetlo môže taktiež prispie k
+rozvoju delíria. V no ných hodinách udržiavame no ný k ud, ak je to možné, vyšetrenia,
+odbery, rôzne výkony, ktoré sa dajú a môžu urobi cez de odložíme. Medzi vyvolávajúce
+faktory môžme zaradi jednozna ne zníženú mobilitu až imobilitu, nesynchrónnu UPV a
+infekciu.
+Vznikom delíria sa predlžuje hospitalizácia pacientov, dochádza k zraneniam a pádom a
+poopera ným komplikáciám.
+Z vyhodnotenia jednotlivých otázok nám vyplýva, že sestry poznajú čo patrí ku
+kvalitatívnym poruchám vedomia, typy delírií a takmer všetky sestry označili aj odpoveď,
+že prevencia delíria je dôležitá. Poznajú rizikové faktory, aj keď viac sestier si myslí, že
+invazívne vstupy tam nepatria. Všetky vstupy, rôzne káble a hadi ky, katétre môžu by
+rizikovým faktorom, ktorý môže vyvola delirantný stav. Ak je to možné, treba o najskôr,
+ak sa dá obmedzi , alebo celkom zruši
+
+používanie rôznych vstupov u rizikových
+
+pacientov. Podľa výsledkov môžme potvrdiť, že sestry majú čiastočné vedomosti o
+ošetrovaní delirujúcich pacientov, nakoľko sa vyskytujú aj nesprávne alebo neúplné
+odpovede.
+
+ť
+
+ť
+
+ť
+
+č
+
+ľ
+
+č
+
+č
+
+ľ
+
+ľ
+
+ň
+
+č
+
+ť
+
+ť
+
+ť
+
+č
+
+ň
+
+č
+
+ť
+
+č
+
+ť
+
+č
+
+55
+
+Prieskumná otázka 3: Vykonávajú sestry intervencie, aby predišli vzniku delírií?
+K prieskumnej otázke sa viažu dotazníkové otázky č.: 11, 15,16, 22, 23, 24.
+V prevencii delíria u geriatrických pacientov je najdôležitejšia hydratácia, alimentácia,
+mobilizácia, reorientácia. Medzi základné a všeobecné pravidlá platí zabezpečenie
+dýchania, príjem potravy, tekutín, vyprázdňovanie, spánok a analgézia. Medzi jedno z
+najdôležitejších preventívnych opatrení je mobilizácia pacientov s ohľadom na ich
+možnosti. Dôležité je vystavenie primeraným senzorickým stimulom, nie je vhodný ani
+nadbytok ani nedostatok stimulov. Zrakový a sluchový deficit korigujeme. Ďalším
+dôležitým činiteľom je reorientácia. Tlmené osvetlenie, zníženie hlučnosti, prítomnosť
+príbuzných, komunikácia, hodiny, kalendár….
+Vyhodnotením dotazníkov môžme potvrdiť, že sestry vykonávajú len čiastočné
+intervencie, aby predišli vzniku delíria. Sestry využívajú úpravu hlasitosti, senzorické
+podnety, dostupnosť hodín a takmer všetky využívajú komunikáciu a pasívnu rehabilitáciu.
+V praxi, žiaľ dochádza k častému používaniu fixácie pacientov a imobilizácia sa mylne
+používa ako prevencia pred vznikom delíria. Fixovanie zhoršuje delírium. V tejto oblasti
+sú nedostatky vo vedomostiach sestier, čo môže byť spôsobené nesprávnym manažmentom
+pri predchádzaní delírií.
+
+Prieskumná otázka 4: Poznajú sestry diagnostické metódy na zistenie delírií? K tejto
+otázke sa viažu dotazníkové otázky č.: 2, 4, 5, 7.
+Takmer polovica delírií nie je diagnostikovaná a liečená. Sestra je vo veľmi úzkom
+kontakte s pacientom, takže by mohla zodpovedne poznať, keď dochádza k poruchám
+kognitívnych funkcií. V takom prípade treba myslieť na rozvoj delíria. Prítomnosť delíria
+môžme zisťovať aj pomocou rôznych testov. Najčastejším a prispôsobeným pre jednotky
+intenzívnej starostlivosti je test CAM - ICU. Delírium sa prejavuje zmeneným vedomím,
+dezorientáciou a zmenami osobnoti. Nastupuje rýchlo s výraznými fyzickými zmenami.
+Pacienti zle spolupracujú, odpovedajú v latenciách, sú podráždení, ustrašení dochádza k
+poruchám orientácie. Podozrenie na delírium musí vzniknúť pri akejkoľvek náhlej zmene
+pozornosti, bdelosti, myslenia, nálady a správania.
+
+56
+
+Z výsledkov nám vyplýva, že sestry poznajú prejavy delíria aspoň čiastočne, nakoľko
+boli aj nesprávne odpovede, ale nepoznajú testovacie škály na zistenie delírií a nepoužívajú
+sa, resp. veľmi málo. Používanie tejto diagnostickej metódy má veľmi dobrú a výpovednú
+hodnotu, aby sme predišli vzniku alebo rozvinutiu delíria.
+
+Prieskumná otázka 5: Súvisí dĺžka praxe s poskytovaním včasných intervencií proti
+vzniku delírií? K tejto otázke sa viažu dotazníková otázka č.: 27.
+Najväčšie zastúpenie majú respondenti s dĺžkou praxe 21 a viac rokov. Respondenti s
+dĺžkou praxe 1 - 5 rokov a 6 - 10 rokov takmer chýbajú najmä v kategórii špecializácia.
+Dĺžka praxe 11 - 15 rokov je len u 4 z nich. Z tohto dôvodu sa nedala urobiť súvislosť s
+poskytovaním včasných intervencií a dĺžkou praxe u týchto respondentov.
+Takmer všetky sestry bez ohľadu na vek, dĺžku praxe a dosiahnuté vzdelanie používajú
+všetky spomínané metódy v rôznych kombináciách. Prieskumu sa zúčastnilo 38
+respondentov s vysokoškolským vzdelaním a 30 respondentov so špecializáciou.
+Vyhodnotením sme zistili, že sa nepotvrdila žiadna významná súvislosť s dĺžkou praxe,
+alebo dosiahnutým vzdelaním a poskytovaním včasných intervencií. Poskytovanie
+včasných intervencií teda nesúvisí s dĺžkou praxe ani dosiahnutým vzdelaním. Správne ale
+aj nesprávne odpovede mali sestry vo všetkých kategóriách. V praxi sa vo veľkej miere
+používajú obmedzovacie prostriedky bez ohľadu na dosiahnuté vzdelanie a prax sestier.
+Tieto prostriedky môžu nielen zhoršiť priebeh delírií, ale môžu viesť aj k ich vzniku.
+Taktiež medzi včasnými intervenciami je nesprávne zaradená farmakoterapia.
+
+4.2 Návrhy a odporúčania pre prax
+Na základe výsledkov dotazníkového prieskumu a teoretických vedomostí môžme
+navrhnúť odporúčania, ktoré by mohli byť prínosom a zlepšiť prevenciu vzniku delírií u
+pacientov.
+Odporúčania pre sestry:
+• Znížiť používanie obmedzujúcich prostriedkov
+• Zlepšiť korekciu zmyslových porúch
+57
+
+• Zvýšiť verbálnu komunikáciu s pacientmi s opakovanou reorientáciou
+• Znížiť hlučnosť na oddelení
+• Dodržiavať režim deň a noc, zvýšiť nefarmakologickú podporu spánku
+• Zabezpečiť u rizikových pacientov napr. fotografie rodiny, rádio, noviny, hodiny
+• Znižovať pôsobenie rizikových a vyvolávajúcich faktorov
+• Zapájať pacienta do aktivít, mobilizovať pacientov
+• Aplikovať kogníciu stimulujúce aktivity
+• V nočných hodinách používať len jemné, tlmené osvetlenie
+Odporúčania pre manažment:
+• Monitoring hydratácie pacientov zlepšiť dynamickými metódami
+• Opatrnosť a šetrnosť pri podávaní sedácií
+• Uviesť do praxe používanie hodnotiacich škál na posudzovanie delírií
+• Zaviesť do praxe použitie preventívneho balíčka ABCDEF
+• Znížiť použitie psychofarmák a obmedzovacích prostriedkov
+• Prijať preventívne opatrenia pred vznikom delírií
+• Zabezpečiť čo najmenšie presuny pacientov medzi oddeleniami
+• Zabezpečiť dostatok personálu a tým zlepšiť zdravotnú starostlivosť
+• Využiť dobrovoľníkov a spoluprácu s rodinou pacienta
+• Motivovať sestry k vzdelávaniu
+• Zabezpečiť dostatok informácií a postupov k delirujúcim pacientom
+• Vyhotoviť štandardy na oddeleniach pri deliriách
+• Organizovať semináre so zameraním na kvalitatívne poruchy vedomia a oboznamovať
+sestry s postupmi
+
+Sme presvedčení, že naše odporúčania si nájdu svoje uplatnenie v praxi a pomôžu tak
+zlepšovať výskyt delirantných stavov u rizikových pacientov a tým zlepšovať, skvalitňovať
+a znižovať dĺžku hospitalizácie a následkov.
+
+58
+
+ZÁVER
+Bakalárska práca bola venovaná problematike delirantných stavov u seniorov na
+jednotkách intenzívnej starostlivosti.
+U kriticky chorých pacientov je veľké riziko vzniku delíria. Ide o formu poruchy
+funkcie mozgu, ktorá je podceňovaná, nediagnostikovaná a častokrát aj neriešená. Nemusí
+ísť o prechodnú poruchu a minimálne následky, ale väčšinou dochádza k predĺženiu pobytu
+a k dlhotrvajúcemu kognitívnemu deficitu aj po prepustení z jednotky intenzívnej
+starostlivosti. Je to multifaktorálny problém, ktorého cieľom je skrátenie trvania a
+znižovanie závažnosti prostredníctvom nefarmakologických postupov u rizikových
+pacientov.
+V bakalárskej práci je stanovených päť cieľov.
+Prvým cieľom bolo zistiť vedomosti sestier o nefarmakologickej liečbe delírií. Z
+výsledkov prieskumu vyplýva, že sestry majú nedostatky v oblasti používania
+obmedzovacích prostriedkov a fixácie. Jedno z najvýznamnejších preventívnych opatrení
+balíček ABCDEF, do ktorého patrí aj denný test SAT a SBT označilo len minimálny počet
+respondentov, čo je spôsobené pravdepodobne neznalosťou a nepoužívaním daného
+opatrenia v praxi. Využívajú sa len niektoré možnosti nefarmakologického prístupu k
+pacientom. Z výsledkov sa dá zistiť, že sestry majú len čiastočné vedomosti o
+nefarmakologickej liečbe.
+Druhým cieľom bolo zistiť znalosti o problematike delírií. Podľa výsledkov je zrejmé,
+že sestry majú dostatočné vedomosti o tom, aké typy delírií poznáme. Nedostatky sme
+zistili, v tom, že len málo sestier uviedlo ako rizikový faktor invazívne vstupy a
+vyvolávajúci faktor nesynchrónnu UPV. Vedomosti o vyvolávajúcich faktoroch majú sestry
+na čiastočnej úrovni. Vyskytujú sa tu rôzne kombinácie odpovedí, ale minimum všetkých
+možných v jednej odpovedi.
+Tretím cieľom bolo zmapovanie intervencií k predchádzaniu delírií. Na to, aby sme
+predišli delirantným stavom je dôležitá hydratácia pacientov, alimentácia, mobilizácia a
+reorientácia. Vo výsledkoch sa nám ukázalo, že množstvo sestier uviedlo niektoré z týchto
+
+59
+
+opatrení, ale boli aj nesprávne ako fixácia, obmedzovacie prostriedky, imobilizácia.
+Mobilizácia patrí k jednému z najvčasnejších a najprínosnejších opatrení.
+Štvrtým cieľom bolo zistenie vedomostí respondentov v diagnostike delírií. Sestrám
+chýbajú vedomosti o diagnostických metódach. Psychický stav chorých sa v praxi
+nehodnotí a žiaľ chýbajú aj testovacie škály. Sestry nemajú vedomosti o testoch a
+testovanie sa nepraktizuje. Vedia však ako sa delírium prejavuje. Takmer všetci respondenti
+uviedli ako prejav dezorientáciu, o niečo menej uviedlo poruchy kognitívnych funkcií,
+zmeny osobnosti a poruchy spánkového rytmu.
+Piatym cieľom bolo zistiť spojitosť so vzdelaním a starostlivosťou o delirujúcich
+pacientov. V našich výsledkoch z prieskumnej činnosti nám nevyšla žiadna významná
+súvislosť s dosiahnutým vzdelaním a starostlivosťou o takýchto pacientov. Vedomosti o
+tejto problematike sú čiastočné ako v skupine s vysokoškolským vzdelaním tak aj so
+špecializáciou. Tohto prieskumu sa zúčastnilo minimum respondentov s vyšším odborným
+vzdelaním a stredoškolským bez špecializácie a málo respondentov vo vekovej kategórii
+20 - 25 rokov a s dĺžkou praxe 1 - 5 rokov a 11 - 15 rokov, preto sa výsledky nedajú
+porovnať.
+Vo výsledkoch sme zisťovali ešte, čo považujú sestry za najťažšie pri ošetrovaní
+delirujúcich pacientov. Z výsledkov vyplýva, že najťažšia je pre nich agresivita a
+dezorientácia týchto pacientov.
+V budúcnosti by sa v nemocniciach nemuselo vyskytovať toľko zmätených a
+zúbožených pacientov, ktorí nepoznávajú ani svojich najbližších, ak by sa nové poznatky
+premietli do každodennej praxe. Aj napriek tomu, že naše znalosti o kvalitatívnej poruche
+vedomia sú neúplné, v praxi môžme vykonávať množstvo opatrení, ktoré môžu pacientom
+pomôcť. Je však nutné na takúto komplikáciu myslieť a zavčasu ju diagnostikovať.
+Dôležitá je motivácia, ale nejde len o povinné úsmevy a zdvorilosť, ale je nutné a potrebné
+pomáhať pacientom k návratu do hodnotného života. K tomuto ich má viesť a zaškolovať
+práve manažment. Manažment delíria pozostáva z predchádzania jeho vzniku, včasného
+odhaľovania a adekvátnej ošetrovateľskej a lekárskej starostlivosti. Tieto opatrenia môžu
+veľmi výrazne zredukovať následky delírií. Intenzívne oddelenie taktiež môže byť veľkým
+prínosom v ich predchádzaní.
+60
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+ARUMUGAM, S. - EL-MENYAR, A. - AL-HASSANI, A. 2017. Delirium in
+intensive care unit. In Journal of Emergencies, Trauma and Shock.
+PMCDI: PMC 5316795, doi: 10.4103/0974-2700.199520. 10 (1), s. 37-46.
+BARTUNĚK, P. - JURÁSKOVÁ, D. - HECZKOVÁ, J. - NALOS, D. 2016.
+Vybrané kapitoly z intenzivní péče. Praha: Grada Publishing, a.s., 2016.
+752 s. ISBN 978-80-247-4343-1.
+BEDNAŘÍK, J. 2010. Standardizace české verze The confusion assessment
+method for the intensive care unit. In Česká a slovenská neurológia a
+neurochirurgia.ISSN 1802 - 4041, 2010, 73/106 (3), s. 258-266.
+BLEULER, E. 1998. Učebnica psychiatrie. 15. vydanie, dotlač. Trenčín:
+Vydavateľstvo F, 2015. 332 s. ISBN 80-967277-6-1.
+ČEŠKOVÁ, E. - PŘIKRYL, R. 2013. Praktická psychiatrie. Praha: Maxdorf,
+2013. 144 s. ISBN 978-80-7345-316-9.
+DOSTÁL, P. a kol. 2018. Základy umělé plicní ventilace. 4. rozšířené vydání.
+Praha: Maxdorf, 2018. 437 s. ISBN 978-80-7345-562-0.
+ELY, E. at al. 2017. The ABCDEF Bundle in critical care. In NCBI. PMID:
+28284292, doi:10.1016/j.ccc.2016.12.005 33 (2), s. 225 - 243.
+FIRMENT, J. a kol. 2019. Anestéziológia a intenzívna medicína pre študentov
+Lekárskej fakulty. Košice: ŠafárikPress, 2019. 226 s. ISBN
+978-80-8152-719-7.
+HAYHURST, CH. - PANDHARIPANDE, P. - HUGHES, CH. 2016. Intensive
+care unit delirium. In Anesthesiology. Doi: 10.1097ALN.000000000000
+1378, Vol. 125, 1229 - 1241.
+HENDL, J. 2016. Kvalitativní výzkum. Praha: Portál, 2016. 440 s. ISBN
+978-80-2620-982-9.
+HEROLD, I. 2013. Hodnocení bolesti a kvality analgezie u kriticky
+61
+
+nemocných na JIP. In Anesteziologie a intenzivní medicína. ISSN
+1214-2158, 2013, č. 6, s. 430 - 433.
+HLAVATÝ, T. 2016. Základy klinického výskumu. Praha: Grada, 2016. 240 s.
+ISBN 978-80-2475-713-1.
+JIRÁK, R. 2020. Deliria z pohledu psychiatra. Praha: Galén, 2020. 109 s.
+ISBN 978-80-7492-461-3.
+KAFKA, J. 2017. Dve úrovne vedomia. Košice: UPJŠ, 2017. 136 s. ISBN
+978-80-8152-481-3.
+KALVACH, Z. - ZADÁK, Z. - JIRÁK, R. - ZAVÁZALOVÁ, H. HOLMEROVÁ, I. - WEBER, P. a kolektív. 2008. Geriatrické syndrómy
+a geriatrický pacient. Praha: Grada Publishing, a.s., 2008. 336 s. ISBN
+978-80-247-2490-4.
+KÁŇOVÁ, M. - BURDA, M. - POVOVÁ, J. - NEISER, J. 2015. Delirium u
+kriticky nemocných - prospektivní studie. In Česká a slovenská neurologie
+a neurochirurgie. ISSN 1802-4041, 2015, 78/111(6), s. 662 - 667.
+KRÁLOVÁ, M. 2017. Demencie. Bratislava: Univerzita Komenského
+Bratislava, Lekárska fakulta, 2017. 88 s. ISBN 978-80-223-4307-7.
+KROMBHOLZ, R. 2015. Farmakologicky navozená deliria. In Praktické
+lékarenství. ISSN 1803-5329, 2015, 11(6), s. 198 - 202.
+KUČEROVÁ, H. 2013. Psychiatrické minimum. Praha: Grada Publishing,a.s.,
+2013. 168 s. ISBN 978-80-247-4733-0.
+KUŠÍKOVÁ, E. 2017. Starostlivosť o pacienta s polytraumou. In Novinky v
+anesteziológii, algeziológii a intenzívnej medicíne. Prešov: Pavol Šidelský
+Akcent print, 2017. ISBN 978-8089295-81-4, s. 77 - 86.
+LUŽNÝ, J. 2012. Gerontopsychiatrie. Praha: Triton, 2012. 160 s.
+ISBN 978-80-73875-73-2.
+MAINEROVÁ, B. - PRAŠKO, J. - LÁTALOVÁ, L. - ŠMOLDASOVÁ,
+J. - HORÁČEK, R. 2014. Delírium tremens na klinice psychiatrie
+62
+
+v Olomouci v letech 2005 - 2011. In Česká a slovenská psychiatrie.
+ISSN 1212-0383, 2014, 110 (3), s. 127-132.
+MALÁSEK, J. - STAŠEK, J. - KRATOCHVÍL, M. 2020. Intenzivní medicína
+v praxi. Praha: Maxdorf, 2020. 712 s. ISBN 978-80-734-5675-7.
+McGRANE, S. 2012. Sedation in the intensive care unit. In Minerva
+anestesiologica. 2012 Mar, 78(3): 369-80. PMID: 22240616.
+NOVOTNÝ, V. 2010. Špeciálna psychiatria. Bratislava: Univerzita
+Komenského v Bratislave, 2010. 248 s. ISBN 978-80-223-2624-7.
+OREL, M. a kol. 2020. Psychopatologie. Praha: Grada Publishing, a.s., 2020.
+432 s. ISBN 978-80-271-2529-6.
+PEČEŇÁK, J. 2011, Liečba delíria. In Neurologie pro praxi. ISSN
+1803-5280, 2011, 12 (5), s. 307 - 310.
+PAPEŽOVÁ, H. a kol. 2014. Naléhavé stavy v psychiatrii. Praha: Maxdorf,
+2014. 495 s. ISBN 978-80-7345-425-8.
+PAŘÍZKOVÁ ČERNÁ, R. 2019. Delirium v intenzivní péči. In Vnitřní
+lékařství. ISSN 1801-7592, 2019, 65 (6), 433 - 439.
+SLEZÁKOVÁ, Z. 2006. Neurologické ošetrovateľstvo. Martin: Osveta, 2006.
+165 s. ISBN 808-06-3218-9.
+STREITOVÁ, D. - ZOUBKOVÁ, R. a kol. 2015. Septické stavy v intenzivní
+péči. Praha: Grada publishing, a.s., 2015. 160 s. ISBN 978-80-247-5215-0.
+ŠEFRÁNEK, M. 2012. Delirantné syndrómy pacientov na OIS. In Vaskulárna
+medicína. ISSN 1339-4266, 2012, 4 (1-2), s. 17 - 20.
+TRENKLER, Š. 2014. Delírium u pacientov v anesteziologickej a intenzívnej
+starostlivosti. CEEA: Košice, 2014. Dostupné na internete: http://
+www.lf.upjs.sk/ceea/doc1/
+
+VESTNÍK MZ SR 2009. Odborné úsmernenie MZ SR k používaniu
+obmedzovacích prostriedkov. Č.: 13 787/2009-OZS.
+www.nczisk.sk >MKCH-10.
+63
+
+PRÍLOHY
+
+ZOZNAM PRÍLOH
+
+PRÍLOHA 1
+
+Dotazník
+
+PRÍLOHA 2
+
+Žiadosť o realizáciu prieskumnej činnosti
+
+PRÍLOHA 3
+
+Súhlas s realizáciou výskumu Nemocnica Agel Košice - Šaca
+
+PRÍLOHA 4
+
+Súhlas s realizáciou výskumu SKSaPA
+
+PRÍLOHA 5
+
+CAM - ICU
+
+PRÍLOHA 6
+
+Protokol SAT a SBT
+
+PRÍLOHA 7
+
+Delirium protocol
+
+Príloha č.1
+DOTAZNÍK
+Vážená kolegyňa/Vážený kolega
+Volám sa Lea Baloghová a som študentkou 3. ročníka Vysokej školy zdravotníctva
+a sociálnej práce sv. Alžbety na detašovanom pracovisku Bl. Z. Mallu v Košiciach v
+odbore Ošetrovateľstvo.
+Dovoľujem si požiadať Vás o vyplnenie dotazníka, ktorý je zameraný na zistenie úrovne
+vedomostí zdravotníckych pracovníkov v oblasti kvalitatívnej poruchy vedomia týkajúce
+sa prevencie a nefarmakologického prístupu k týmto pacientom.
+
+Určený je sestrám
+
+pracujúcim na OAIM/JIS.
+Dotazník je anonymný a získané informácie budú súčasťou mojej záverečnej práce.
+Vybrané odpovede prosím označte.
+Ďakujem Vám za spoluprácu.
+Lea Baloghová
+
+1.) Čo patrí ku kvalitatívnym poruchám vedomia?
+a.) amencia
+b.) kóma
+c.) sopor
+d.) synkopa
+e.) delírium
+2.) Aké sú príznaky delíria?
+a.) zmenené vedomie
+b.) dezorientácia
+c.) zmeny osobnosti
+d.) postupný nástup
+e.) nevýrazné fyzické zmeny
+
+3.) Aké sú typy delírií?
+a.) hyperaktívne
+b.) zmiešané
+c.) hypoaktívne
+d.) maximálne
+e.) minimálne
+4.) Ako hodnotíte psychický stav chorých?
+a.) nehodnotíme
+b.) testami
+5.) Ak hodnotíte, aké testy používate?
+a.) CAM-ICU
+b.) RASS
+c.) test kreslenia hodín
+d.) MMSE
+e.) ICDSC
+6.) Je prevencia delíria
+a.) dôležitá
+b.) nie je dôležitá
+c.) neviem
+7.) Aké diagnostické kritéria musia byť splnené, aby sa zistilo, že ide o delírium?
+a.) pomalý začiatok
+b.) poruchy kognitívnych funkcií
+c.) znížená vnímavosť až kóma
+d.) prevrátený spánkový cyklus
+e.) poruchy dlhodobej pamäte
+8.) Aké sú rizikové faktory vzniku delíria?
+a.) invazívne vstupy
+b.) vek nad 65 rokov
+c.) dehydratácia
+d.) fajčenie
+
+e.) demencia
+9.) Aké sú vyvolávajúce faktory vzniku delíria?
+a.) ticho
+b.) imobilita
+c.) nesynchrónna UPV
+d.) infekcia
+e.) svetlo
+10.) Aké sú následky delíria?
+a.) depresie
+b.) pooperačné komplikácie
+c.) zranenia a pády
+d.) dlhšia hospitalizácia
+e.) iné, uveďte……………………………………….
+11.) Aké sú preventívne opatrenia pred vznikom delíria na Vašom pracovisku?
+a.) imobilizácia pacienta
+b.) balíček ABCDEF
+c.) alimentácia
+d.) analgézia
+e.) iné,uveďte……………………………………….
+12.) Ako posudzujete stav hydratácie pacientov?
+a.) test pasívnym zdvihnutím dolných končatín
+b.) hodnotami TK a P
+c.) meraním CVT
+d.) neinvazívnym monitoringom hemodynamiky
+e.) bilanciou tekutín
+f.) dynamickým vyšetrením cirkulácie, tekutinový test
+g.) iné……………………………………………….
+
+13.) Akými opatreniami znižujete dobu trvania UPV?
+a.) opakovaným odsávaním z HDC a lavážami
+b.) denným testom SAT a SBT
+c.) rýchlym vysadením sedácie a primeranou analgéziou
+d.) neviem
+e.) iné………………………………………………….
+14.) V akej frekvencii vykonávate test SAT a SBT?
+a.) podľa ordinácie lekára
+b.) nevykonávame
+c.) jeden krát denne
+d.) tesne pred odpojením pacienta od UPV
+e.) hneď po stabilizácii stavu
+f.) iné………………………………………………….
+15.) Aké nefarmakologické postupy používate v praxi pri delirujúcich pacientoch?
+a.) obmedzovacie prostriedky
+b.) minimalizovanie rušivých senzorických podnetov
+c.) osvetlenie
+d.) korekcia zmyslových porúch
+e.) iné, uveďte…………………………………………………………………….
+16.) Aké sú včasné intervencie sestry pri delirantných pacientoch?
+a.) mobilizácia pacientov
+b.) komunikácia
+c.) farmakoterapia
+d.) fixácia pacientov
+e.) iné, uveďte………………………………………………………………….
+17.) Môžu byť niektoré lieky rizikové pre vznik delíria?
+a.) áno
+b.) nie
+c.) neviem
+
+18.) Ak áno, ktoré lieky môžu byť spúšťačom delíria?
+a.) opiáty
+b.) antihypertenzíva
+c.) ATB
+d.) myorelaxanciá
+e.) diuretiká
+19.) Čo je najčastejšou príčinou agresivity u delirujúcich pacientov?
+a.) základné ochorenie
+b.) fixácia pacientov
+c.) neznáme prostredie
+d.) silné senzorické podnety
+e.) iné, uveďte…………………………………………………………………
+20.) Aký prítup volíte ako prvý k pacientom s rozvinutým delíriom?
+a.) psychofarmaká a fixáciu
+b.) neustály dohľad pri lôžku pacienta
+c.) len psychofarmaká
+d.) len fixácia
+e.) iné, uveďte……………………………………………………………
+21.) V akých prípadoch používate obmedzujúce prostriedky?
+a.) pri agresivite
+b.) na uľahčenie strostlivosti, už pri ľahkom nepokoji
+c.) pri dezorientácii
+d.) nepoužívame
+e.) iné, uveďte……………………………………………………………
+22.) Po akej dobe od hospitalizácie začínate s mobilizáciou pacienta?
+a.) ihneď ako je to možné, začíname už s pasívnou rehabilitáciou
+b.) pacienta nemobilizujeme
+c.) až keď je pacient odpojený od UPV a je plne pri vedomí
+d.) ak je schopný aktívnej spolupráce
+e.) iné……………………………………………………………………
+
+23.) Majú Vaši pacienti k dispozícii ľahko viditeľné hodiny?
+a.) áno
+b.) nie
+24.) Upravujete hlasitosť prístrojov na Vašom oddelení?
+a.) áno
+b.) nie
+25.) Čo je pre Vás najťažšie pri ošetrovaní takýchto pacientov?
+a.) komunikácia s takýmito pacientami
+b.) agresivita týchto pacientov
+c.) dezorientácia pacientov
+d.) nároky na zvýšenú pozornosť u týchto stavov
+e.) iné, uveďte………………………………………………………
+26.) Aký je Váš vek?
+a.) 20 - 25 rokov
+b.) 26 - 35 rokov
+c.) 36 - 45 rokov
+d.) 46 a viac rokov
+27.) Aká je Vaša odborná prax v danom odbore?
+a.) 1 - 5 rokov
+b.) 6 - 10 rokov
+c.) 11 - 15 rokov
+d.) 16 - 20 rokov
+e.) 21 a viac rokov
+28.) Aké je Vaše najvyššie dosiahnuté vzdelanie
+a.) SZŠ - ukončená do roku 2004
+b.) VŠ
+c.) VOV
+d.) SZŠ + špecializácia
+
+Príloha č. 2
+
+Príloha č. 3
+
+Príloha č. 4
+
+Príloha č. 5
+
+Príloha č. 6
+
+Príloha 7
+
+

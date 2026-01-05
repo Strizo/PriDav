@@ -1,0 +1,2741 @@
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA MASMEDIÁLNEJ KOMUNIKÁCIE
+
+OPTIMALIZÁCIA NÁKUPNÉHO PROCESU VYBRANÉHO
+E-SHOPU
+Diplomová práca
+
+2024
+
+Bc. Samuel Reščák
+
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA MASMEDIÁLNEJ KOMUNIKÁCIE
+
+OPTIMALIZÁCIA NÁKUPNÉHO PROCESU VYBRANÉHO
+E-SHOPU
+
+Diplomová práca
+
+Študijný program:
+
+marketingová komunikácia
+
+Študijný odbor:
+
+mediálne a komunikačné štúdiá
+
+Školiace pracovisko:
+
+Katedra marketingovej komunikácie
+
+Školiteľ:
+
+PhDr. Peter Murár, PhD.
+
+2024
+
+Bc. Samuel Reščák
+
+Čestné vyhlásenie
+Vyhlasujem, že som predkladanú diplomovú prácu Optimalizácia nákupného
+procesu vybraného e-shopu spracoval samostatne a pod odborným vedením školiteľa
+diplomovej práce. Použitú literatúru uvádzam v zozname bibliografických referencií
+a zároveň osvedčujem použité citáty.
+
+V Trnave dňa 3.12.2024
+
+..............................................................
+vlastnoručný podpis
+
+ABSTRAKT
+REŠČÁK, Samuel: Optimalizácia nákupného procesu vybraného e-shopu. [Diplomová
+práca] / Samuel Reščák – Univerzita sv. Cyrila a Metoda v Trnave. Fakulta masmediálnej
+komunikácie; Katedra marketingovej komunikácie. – Školiteľ: PhDr. Peter Murár PhD. –
+Stupeň odbornej kvalifikácie: Magister. – Trnava : FMK UCM, 2024. 74 s.
+V našej diplomovej práci sa zameriavame na používateľský zážitok a jeho dopad
+na zákazníkov webovej stránky. Naším hlavným cieľom je dôkladne pochopiť potreby
+používateľov, identifikovať prekážky, s ktorými sa stretávajú počas interakcie so stránkou
+a navrhnúť konkrétne kroky na zlepšenie UX v rámci nákupného procesu. Týmto spôsobom
+chceme minimalizovať riziko predčasného opustenia webu zo strany zákazníkov. V prvej
+kapitole sa opierame o teoretické východiská zahŕňajúce marketingovú komunikáciu
+v spojení s UX, princípy UX dizajnu a optimalizáciu UX pre e-shopy. Druhá kapitola
+definuje hlavné a vedľajšie ciele, ktoré chceme dosiahnuť. Tretia kapitola predstavuje
+charakteristiku skúmaného subjektu, opis používaných metód a zdrojov informácií. Štvrtá
+kapitola sa venuje podrobnému popisu procesu testovania použiteľnosti realizovaného
+s piatimi respondentmi a analýze získaných dát. V piatej kapitole formulujeme konkrétne
+návrhy na zlepšenie UX pre webovú stránku mobilmarket.sk, vychádzajúc z výsledkov
+testovania. Hlavným výstupom práce je wireframe, ktorý prezentuje navrhované zmeny
+a zlepšenia, ktoré by mali byť na stránke implementované.
+
+Kľúčové slová: Používateľská skúsenosť. Test použiteľnosti. UX. E-shop. Wireframe.
+
+ABSTRACT
+REŠČÁK, Samuel: Optimization of the shopping process of the selected e-shop. Master’s
+Thesis] / Samuel Reščák. – University of Ss. Cyril and Methodius in Trnava. Faculty of
+Mass Media Communication; Department Marketing Communication – Supervisor: PhDr.
+Peter Murár PhD. Degree of professional qualification: Master. – Trnava : FMK UCM, 2024.
+74 p.
+
+In our thesis we focus on user experience and its impact on website customers. Our main
+goal is to thoroughly understand users' needs, identify the barriers they encounter while
+interacting with the site, and propose concrete steps to improve the UX within the shopping
+process. In this way, we want to minimize the risk of customers leaving the site prematurely.
+In the first chapter, we rely on theoretical background covering marketing communication
+in conjunction with UX, UX design principles and UX optimization for e-shops. The second
+chapter defines the main and secondary goals we want to achieve. The third chapter presents
+the characteristics of the research subject, a description of the methods used and the sources
+of information. The fourth chapter is devoted to a detailed description of the usability testing
+process carried out with five respondents and the analysis of the collected data. In the fifth
+chapter we formulate specific suggestions for improving the UX for the mobilmarket.sk
+website, based on the results of the testing. The main output of the thesis is a wireframe that
+presents the proposed changes and improvements that should be implemented on the
+website.
+
+Key words: User experience. Usability test. UX. E-shop. Wireframe.
+
+PREDHOVOR
+Túto tému som si zvolil, pretože počas štúdia ma téma používateľskej skúsenosti
+zaujala vďaka inšpiratívnym prednáškam a odborným príspevkom PhDr. Petra Murára,
+PhD., ktorý nám pútavo a detailne sprostredkoval základy UX dizajnu a jeho aplikácie.
+Táto oblasť ma fascinovala natoľko, že som chcel svoje poznatky rozšíriť a overiť ich
+praktickým spôsobom.
+Mojím cieľom bolo pochopiť, aké nástroje využívajú odborníci UX na identifikáciu
+potrieb používateľov a navrhovanie efektívnych riešení pre webové rozhrania.
+Prostredníctvom výskumu v rámci diplomovej práce som pochopil, že testovanie
+použiteľnosti je najdôležitejším zdrojom údajov pre optimalizáciu webovej stránky,
+pretože priamo vidíme ako zákazník interaguje s webom.
+Proces písania tejto práce a tvorby návrhov, konkrétne wireframov, ma ešte viac
+presvedčil o tom, že oblasť UX je zaujímavá a perspektívna. Preto by som chcel aj naďalej
+rozvíjať svoje znalosti a zručnosti v tejto oblasti, keďže ma jej praktická časť veľmi baví
+a motivuje.
+Na záver by som chcel úprimne poďakovať môjmu školiteľovi, PhDr. Petrovi
+Murárovi, PhD., za jeho odborný prístup, cenné rady a usmernenia, ktoré mi poskytol počas
+celého procesu. Jeho podpora a know-how, najmä v oblasti testovania používateľov,
+významne prispeli k úspešnému spracovaniu tejto práce.
+
+Diplomová práca má 126 886 znakov vrátane medzier, poznámok pod čiarou a textových
+polí.
+
+OBSAH
+ZOZNAM ILUSTRÁCIÍ A TABULIEK........................................................................... 4
+SLOVNÍK ............................................................................................................................. 5
+ÚVOD .................................................................................................................................... 6
+1
+
+Teoretické východiská .................................................................................................. 8
+1.1
+
+Používateľská skúsenosť a marketingová komunikácia .......................................... 8
+
+1.1.1
+
+Kľúčové faktory úspechu UX v marketingových stratégiách ........................ 8
+
+1.1.2
+
+Významné aspekty UX pri marketingovej komunikácií .............................. 10
+
+1.2
+
+Význam užívateľskej skúsenosti v e-commerce .................................................... 11
+
+1.2.1
+
+Definícia UX ................................................................................................ 11
+
+1.2.2
+
+Hlavné faktory ovplyvňujúce UX v online nakupovaní............................... 12
+
+1.2.3
+
+Rozdiely v UX pre weby a e-shopy ............................................................. 14
+
+1.3
+
+Význam UI a UX pre e-shopy ............................................................................... 15
+
+1.3.1
+
+Dôležitosť používateľského rozhrania (UI) pre úspech e-shopu ................. 15
+
+1.3.2
+
+Dôležitosť užívateľskej skúsenosti pre úspech e-shopu ............................... 17
+
+1.4
+
+Vplyv UX na zákaznícke správanie ....................................................................... 18
+
+1.4.1
+
+Užívateľská skúsenosť a jej vplyv na nákupné správanie zákazníkov......... 18
+
+1.4.2
+
+Vplyv jednoduchosti platobného procesu na úspešné dokončenie nákupov 19
+
+1.4.3
+
+Vplyv nevhodnej UX na stratu zákazníkov a pokles lojality ....................... 20
+
+1.5
+
+Metódy hodnotenia UX v e-commerce.................................................................. 21
+
+1.5.1
+
+Najpoužívanejšie metódy a nástroje na meranie a hodnotenie UX v e-shopoch
+22
+
+1.5.2
+
+Kľúčové metriky na hodnotenie úspešnosti UX v e-commerce................... 27
+
+1.5.3
+
+Špecifické prístupy v mobilnom UX dizajne pre e-commerce .................... 30
+
+1.6
+
+Optimalizácia UX v e-shope.................................................................................. 31
+
+1.6.1
+
+Vplyv personalizácie na výkonnosť e-shopu ............................................... 31
+
+1.6.2
+
+Význam analýzy používateľských ciest pre optimalizáciu UX v e-shope ... 32
+
+2
+
+CIEĽ PRÁCE.............................................................................................................. 34
+
+3
+
+METODIKA PRÁCE ................................................................................................. 36
+3.1
+
+Charakteristika objektu skúmania.......................................................................... 36
+
+3.2
+
+Výskumné metódy a pracovné postupy ................................................................ 37
+
+3.3
+
+Spôsob získavania údajov a ich zdroje .................................................................. 39
+2
+
+4
+
+5
+
+VÝSLEDKY PRÁCE ................................................................................................. 40
+4.1
+
+Analýza a určenie téz ............................................................................................. 40
+
+4.2
+
+Testovanie subjektov ............................................................................................. 47
+
+4.2.1
+
+Testovanie použiteľnosti .............................................................................. 49
+
+4.2.2
+
+Závery z testovania....................................................................................... 53
+
+NÁVRHY..................................................................................................................... 57
+5.1
+
+Optimalizácia domovskej strany............................................................................ 57
+
+5.2
+
+Optimalizácia stránky kategórií ............................................................................. 58
+
+5.3
+
+Optimalizácia produktovej stránky ........................................................................ 59
+
+5.4
+
+Optimalizácia upozorňovacieho okna.................................................................... 60
+
+5.5
+
+Optimalizácia náhľadu košíka ............................................................................... 61
+
+5.6
+
+Optimalizácia nákupného košíka ........................................................................... 62
+
+5.7
+
+Optimalizácia pokladne (dodacích informácii) ..................................................... 64
+
+5.8
+
+Optimalizácia pokladne (informácie o platbe a doprave) ...................................... 65
+
+ZÁVER ............................................................................................................................... 66
+ZOZNAM BIBLIOGRAFICKÝCH REFERENCIÍ ...................................................... 67
+
+3
+
+ZOZNAM ILUSTRÁCIÍ A TABULIEK
+Obrázok 1 Hlavné negatívne faktory UX ............................................................................ 13
+Obrázok 2 Fittsov zákon – Diagram .................................................................................... 16
+Obrázok 3 Index obtiažnosti ................................................................................................ 16
+Obrázok 4 Bežné metódy hodnotenia UX ........................................................................... 22
+Obrázok 5 Cyklus merania UX ............................................................................................ 24
+Obrázok 6 výhody a nevýhody aplikovania nástrojov......................................................... 26
+Obrázok 7 Domovská stránka .............................................................................................. 41
+Obrázok 8 Stránka kategórií ................................................................................................ 42
+Obrázok 9 Produktová stránka ............................................................................................. 43
+Obrázok 10 Náhľad košíka .................................................................................................. 44
+Obrázok 11 Stránka košíka .................................................................................................. 45
+Obrázok 12 Registračný formulár........................................................................................ 45
+Obrázok 13 Objednávací formulár ...................................................................................... 46
+Obrázok 14 Možnosti dopravy ............................................................................................ 47
+Obrázok 15 súčet hodnotenia náročnosti úloh. .................................................................... 55
+Obrázok 16 Wireframe domovskej strany ........................................................................... 58
+Obrázok 17 Wireframe stránky kategórií ............................................................................ 59
+Obrázok 18 Wireframe produktovej stránky ....................................................................... 60
+Obrázok 19 Wireframe Popup okna .................................................................................... 61
+Obrázok 20 Wireframe náhľadu košíka ............................................................................... 62
+Obrázok 21 Wireframe nákupného košíka .......................................................................... 63
+Obrázok 22 Wireframe pokladne, kolónka dodacie údaje. .................................................. 64
+Obrázok 23 Wireframe spôsobu platby a dopravy. ............................................................. 65
+
+Tabuľka 1 Hodnotenie náročnosti úloh podľa testovaných subjektov...................................54
+
+4
+
+SLOVNÍK
+UX – User experience – používateľská skúsenosť
+UI – User interface – používateľské rozhranie
+UCD - User-Centered Design - dizajn zameraný na používateľa
+AI - Artificial intelligence – Umelá inteligencia
+AR - Augmented reality – rozšírená realita
+VR – Virtual reality – virtuálna realita
+
+5
+
+ÚVOD
+Elektronické obchodovanie sa stalo neoddeliteľnou súčasťou moderného života a pre
+e-shopy predstavuje používateľská skúsenosť kľúčový faktor, ktorý výrazne ovplyvňuje
+rozhodovanie zákazníkov. Efektívne navrhnutý nákupný proces dokáže znížiť mieru
+predčasného opustenia košíka a prispieť k vyššej spokojnosti zákazníkov, čo má priamy
+vplyv na obchodný úspech. Naša diplomová práca sa zaoberá analýzou používateľskej
+skúsenosti v prostredí e-shopu a identifikáciou bariér, ktoré vedú k predčasnému ukončeniu
+nákupného procesu. Cieľom je nielen pochopiť, prečo zákazníci opúšťajú košík,
+ale navrhnúť konkrétne riešenia na odstránenie týchto prekážok.
+V práci sa opierame o kombináciu teoretických poznatkov a praktických metód,
+pričom kladieme dôraz na používateľské testovanie a analýzou získaných dát. Analýzu
+plánujeme realizovať prostredníctvom testu použiteľnosti, na ktorom sa zúčastní päť
+respondentov. Na základe ich spätnej väzby a pozorovania ich správania počas interakcie
+s webom navrhneme opatrenia na zlepšenie. Tieto opatrenia budú zahŕňať grafické koncepty
+v podobe wireframov pre kľúčové časti webovej stránky: hlavnú stránku, stránku kategórií,
+produktovú stránku, stránku košíka a objednávací formulár. Primárnym cieľom týchto
+návrhov je optimalizácia používateľského zážitku pri online nakupovaní, pričom návrhy
+budú vychádzať zo získaných dát a postrehov od respondentov.
+V úvode prvej kapitoly sa sústredíme na vysvetlenie základných teoretických
+konceptov v oblasti používateľskej skúsenosti, ktoré nám umožnia hlbšie pochopiť aktuálny
+stav a význam tejto problematiky. Detailne sa zameriame na definície a kľúčové princípy,
+aby sme objasnili podstatu používateľskej skúsenosti a zdôvodnili potrebu jej výskumu
+a aplikácie v praktickom prostredí. Tieto teoretické poznatky vytvoria pevný základ pre
+ďalšiu analýzu a návrh zlepšení, ktoré budú rozpracované v nasledujúcich kapitolách.
+V druhej kapitole sa zameriame na vymedzenie hlavných a vedľajších cieľov,
+ktoré sú nevyhnutné pre úspešné dokončenie diplomovej práce.
+V tretej kapitole sa zameriame na podrobnú charakteristiku skúmaného objektu,
+ktorým je webová stránka mobilmarket.sk. Popíšeme metodologické postupy, ktoré sme
+zvolili na dosiahnutie stanovených primárnych a sekundárnych cieľov a objasníme zdroje
+informácií, ktoré sme využili pri spracovaní práce a tvorbe návrhov na zlepšenie
+používateľskej skúsenosti.
+6
+
+V štvrtej kapitole sa budeme venovať podrobnému rozboru a interpretácii údajov,
+ktoré získame prostredníctvom testovania použiteľnosti s piatimi respondentmi.
+Tieto zistenia nám umožnia analyzovať správanie používateľov a identifikovať kľúčové
+oblasti na zlepšenie používateľskej skúsenosti na webovej stránke.
+V záverečnej, piatej kapitole sa zameriame na predstavenie konkrétnych riešení,
+ktoré prispejú k optimalizácii webovej stránky z hľadiska používateľskej skúsenosti. Tieto
+návrhy budú orientované na zlepšenie nákupného procesu, pričom výsledkom našich
+odporúčaní budú vizuálne návrhy v podobe grafických wireframov, ktoré budú slúžiť ako
+základ pre implementáciu navrhovaných zmien.
+Veríme, že naše zistenia prispejú k zlepšeniu používateľského zážitku na stránke
+mobilmarket.sk,
+
+čo
+
+povedie
+
+k
+
+väčšej
+
+spokojnosti
+
+zákazníkov
+
+a
+
+ich
+
+lojalite.
+
+Implementovaním našich návrhov by stránka mohla zlepšiť navigáciu, zjednodušiť nákupný
+proces a celkovo poskytnúť príjemnejší a efektívnejší zážitok pre návštevníkov, čím by
+získala viac verných zákazníkov.
+Vzhľadom na komplexný charakter našej diplomovej práce dochádza k miernemu
+prekročeniu maximálne stanoveného rozsahu.
+
+7
+
+1
+
+TEORETICKÉ VÝCHODISKÁ
+Teoretické východiská sa zameriavajú na dôležitosť používateľskej skúsenosti
+
+v kontexte marketingovej komunikácie a e-commerce. V tejto časti sa budeme venovať
+kľúčovým faktorom, ktoré ovplyvňujú úspech UX a ich významu pri tvorbe marketingových
+stratégií. Následne sa zameriame na definíciu UX a faktory, ktoré ho ovplyvňujú, najmä
+v online nakupovaní. V tejto súvislosti sa budú skúmať rozdiely v prístupe k UX pre webové
+stránky a e-shopy. Okrem toho sa pozrieme na to, aký vplyv má správne nastavenie
+používateľského rozhrania (UI) a samotného UX na úspech e-shopu, najmä v oblasti
+zákazníckeho správania. Taktiež sa budeme zaoberať metódami hodnotenia a optimalizácie
+UX v e-commerce prostredí, vrátane prístupov a nástrojov na meranie používateľských
+skúseností, ako aj špecifickými prístupmi v mobilnom UX dizajne. Cieľom tejto kapitoly je
+vytvoriť pevný teoretický základ, ktorý nám umožní lepšie pochopiť význam UX pre úspech
+e-shopov a rozpoznať kľúčové faktory, ktoré je potrebné zlepšiť pre zvýšenie spokojnosti
+zákazníkov.
+
+1.1
+
+Používateľská skúsenosť a marketingová komunikácia
+Marketingová komunikácia a jej nastavenie je úzko späté s danou stratégiou,
+
+ktorú si podnik stanoví. Úspech týchto marketingových stratégií, ktoré sú založené na UX
+závisí od niekoľkých kľúčových faktorov, ktoré zvyšujú angažovanosť a spokojnosť
+používateľov. Patrí sem napr. aj dizajn, ktorý sa primárne sústredí na zákazníkove potreby
+a očakávania. Dôležitá je aj samotná spolupráca medzi marketingovými, dizajnérskymi
+a vývojovými tímami, ktorá zabezpečuje konzistentnosť a koordináciu obchodných a UX
+cieľov. Integrácia metrík UX do týchto vopred konzultovaných obchodných stratégií
+umožňuje neustále monitorovanie a optimalizáciu výsledkov, čo vedie k lepšiemu
+porozumeniu používateľského správania a efektívnejšiemu dosahovaniu obchodných
+cieľov.
+1.1.1 Kľúčové faktory úspechu UX v marketingových stratégiách
+Nudelman
+
+tvrdí,
+
+že
+
+implementácia
+
+dizajnového
+
+prístupu
+
+zameraného
+
+na používateľa, teda UCD, t.j. User-Centered Design umožňuje, aby bol vývoj produktov,
+čo najpresnejšie prispôsobený potrebám a očakávaniam zákazníkov. Tento prístup stavia
+8
+
+používateľa do centra celého procesu tvorby, čo vedie k vytváraniu produktov,
+ktoré sú nielen funkčné, ale aj intuitívne a príjemné na používanie. Ak sú tieto produkty
+podnikov navrhnuté tak, kde preferencie používateľov sa spájajú na základe reálnych
+skúseností, zvyšuje sa tak ich spokojnosť. Spokojnosť následne vedie a prispieva k väčšej
+lojalite zákazníkov, zlepšeniu reputácie značky a rozšíreniu jej podielu na trhu. Spoločnosti,
+ktoré implementujú UCD, sú často viac konkurencií schopné, pretože ich produkty
+presnejšie zodpovedajú potrebám trhu. (Nudelman, 2018). Nudelman, ako bolo spomínané,
+kladie veľký dôraz na UCD, pretože dopomáha firmám vyvíjať produkty, ktoré sú lepšie
+prispôsobené potrebám zákazníkov. Možno povedať, že sa s týmto názorom stotožňujeme,
+pretože ak sú produkty vytvorené s ohľadom na používateľov, sú omnoho príjemnejšie
+na používanie, čo vedie k väčšej spokojnosti zákazníkov. To nakoniec pomáha budovať ich
+lojalitu a zlepšuje postavenie firmy na trhu. Podľa Saada je dôležitou stránkou pre úspešnosť
+stratégií zameranou na UX hlavne v efektívnej spolupráci medzi UX výskumníkmi,
+dizajnérmi a obchodnými tímami. Táto spolupráca zabezpečuje, že všetky strany majú
+znalosť toho, ako pracujú na vytváraní produktov, ktoré reflektujú skutočné potreby
+a skúsenosti používateľov. Kľúčová stránka tkvie v pravidelnosti a otvorenosti komunikácie.
+Vďaka nej môžu byť pripomienky a spätná väzba od používateľov neustále zapracovávané
+do procesu vývoja. Spomínaný
+
+postup umožňuje priebežné zlepšovanie produktov
+
+a zabezpečuje, že konečné riešenia poskytujú optimálny užívateľský zážitok, čo vedie
+k vyššej spokojnosti používateľov a úspešnejším obchodným výsledkom. (Saad et al., 2023).
+Tak isto môžeme potvrdiť, že kľúčom k úspešným UX stratégiám je efektívna spolupráca
+medzi UX výskumníkmi, dizajnérmi a obchodnými tímami. Dôležitosť pravidelnej
+a otvorenej komunikácie medzi týmito stranami je nesmierne dôležitá z dôvodu poznania
+každého detailu, aby nedošlo k nedorozumeniam, ktoré môžu značne ovplyvniť procesy.
+Komunikácia tak umožňuje neustále zapracovávať spätnú väzbu od používateľov do vývoja
+produktov, čím sa zabezpečuje lepší užívateľský zážitok a vyššia spokojnosť zákazníkov.
+Zhukova opisuje, že využívanie UX metrík na sledovanie interakcií používateľov a ich
+spokojnosti poskytujú cenné údaje, ktoré môžu firmy využiť na zlepšenie svojich
+marketingových stratégií a produktových ponúk. Tieto metriky umožňujú podnikom lepšie
+porozumieť tomu, ako zákazníci interagujú s ich produktami alebo službami,
+čo im umožňuje identifikovať samozrejme príležitosti, ale aj slabé miesta, kde sa vyskytne
+priestor na zlepšenie. Vďaka týmto dátam môžu efektívnejšie prispôsobovať svoje
+marketingové kampane a produktové inovácie tak, aby lepšie spĺňali potreby používateľov.
+(Zhukova et al., 2023).
+9
+
+1.1.2 Významné aspekty UX pri marketingovej komunikácií
+V marketingovej komunikácií je dôležité zameranie na tzv. cestu zákazníka.
+Tá závisí od viacerých kľúčových faktorov, ktoré kombinujú využitie moderných
+technológií a pochopenie spotrebiteľského správania. Máme na mysli technológie,
+ako sú umelá inteligencia, big data a analytické nástroje. Tie umožňujú firmám presne
+sledovať a analyzovať každú fázu zákazníckej cesty, od prvého kontaktu až po konečnú
+transakciu. Tieto poznatky o preferenciách a návykoch spotrebiteľov potom slúžia
+na personalizáciu marketingových kampaní, čo vedie k lepšiemu zameraniu na konkrétne
+potreby zákazníkov. Habib zastáva názor, že online platformy v dnešnej dobe umožňujú
+firmám nadviazať kontakt so zákazníkmi prostredníctvom rôznych digitálnych kanálov.
+Tým prekonávajú súčasne geografické obmedzenia a výrazne rozširujú dosah svojej značky.
+Prostredníctvom napr. sociálnych médií, e-mailového marketingu, webových stránok,
+mobilných aplikácií, či využívanie AI, AR/VR a analýzy údajov na zlepšenie zákazníckych
+skúseností a prispôsobenie interakcií môžu spoločnosti komunikovať so svojimi zákazníkmi
+kdekoľvek sa nachádzajú. Táto flexibilita im dáva možnosť oslovovať širšie publikum,
+vstupovať na nové trhy a udržiavať pevnejšie vzťahy s existujúcimi zákazníkmi. (Habib et
+al., 2023). V súčasnosti to patrí medzi plnohodnotnú výhodu firiem, ktoré týmto spôsobom
+môžu prosperovať a napredovať. Ďalej Kusnadi tvrdí, že prístup, ktorý je zameraný
+na zákazníka, prispôsobuje marketingové ponuky na základe zhromaždených údajov.
+Ide o ich preferencie, záujmy, správanie pri nákupe či história interakcií. Slúžia na to,
+aby vytvárali marketingové kampane, ktoré presne odpovedajú individuálnym potrebám
+a očakávaniam zákazníkov. Týmto spôsobom sa zlepšuje relevantnosť ponúk,
+čím sa zákazníci cítia viac oslovovaní priamo. (Kusnadi, 2024). Tento personalizovaný
+prístup vedie nielen k lepšiemu zákazníckemu zážitku, ale aj k zvýšeniu konverzií, pretože
+používateľom sú ponúkané produkty alebo služby, ktoré sú pre nich skutočne relevantné.
+Výsledkom je vyššia spokojnosť zákazníkov a lojalita voči značke.
+Podľa Kobetsa je dôležitá nepretržitá adaptácia. Vraví, že je kľúčovým faktorom pre
+úspech v rýchlo sa meniacom digitálnom prostredí. Firmy musia pravidelne aktualizovať
+svoje stratégie, aby držali krok s technologickým pokrokom a meniacimi sa preferenciami
+spotrebiteľov. To znamená, že marketingové prístupy, komunikačné kanály a produkty
+musia byť neustále prispôsobované novým trendom a inováciám, ako sú napríklad nové
+digitálne platformy, umelá inteligencia alebo automatizácia. Zároveň sa firmy musia
+zameriavať na analýzu vyvíjajúceho sa správania spotrebiteľov – od zmien v nákupných
+10
+
+zvyklostiach po nové spôsoby interakcie s obsahom. (Kobets, 2024). Takéto flexibilné
+prispôsobovanie môže dopomôcť firmám udržať si konkurencieschopnosť a relevantnosť
+na trhu, pričom umožňuje rýchle reagovať na príležitosti aj výzvy, ktoré prinášajú
+technologické inovácie a vývoj spotrebiteľských očakávaní.
+
+1.2
+
+Význam užívateľskej skúsenosti v e-commerce
+UX sa radí za jeden z najdôležitejších faktorov pre úspech v e-commerce podnikaní.
+
+Hlavne preto, že priamo ovplyvňuje spokojnosť zákazníkov a ich nákupné správanie. UX
+v e-shope zahŕňa celú cestu používateľa, teda od prvého kontaktu s webovou stránkou až po
+dokončenie objednávky. Je nevyhnutné zabezpečiť, aby tieto webové stránky boli vizuálne
+príťažlivé a ľahko použiteľné, pretože kvalitná UX nielen zvyšuje pravdepodobnosť nákupu,
+ale tiež podporuje lojalitu zákazníkov a znižuje mieru opustenia košíka.
+1.2.1 Definícia UX
+Užívateľská skúsenosť v elektronickom obchode, teda známy pod pojmom e-shop
+zahŕňa celkovú spokojnosť a pohodlie používateľov pri interakcii s online platformou,
+pričom jej cieľom je zabezpečiť, aby boli všetky procesy nákupu, vyhľadávania produktov
+a navigácie, čo najlepším možným variantom pre najjednoduchšie a najefektívnejšie
+fungovanie. UX v e-shope hrá rozhodujúcu úlohu v tom, ako sa zákazník cíti počas celého
+nákupného procesu. A to od momentu otvorenia webovej stránky či aplikácií, až po samotné
+dokončenie nákupu a následnú (ak je to potrebné) komunikáciu so zákazníckou podporou.
+Čo sa týka definície a významu UX Kurniawan a kol. hovoria, že užívateľská skúsenosť,
+teda UX predstavuje skúmanie toho, akým spôsobom dizajn ovplyvňuje emocionálne
+reakcie, vnímanie a správanie používateľov pri interakcii s produktom alebo službou. Zahŕňa
+hodnotenie toho, ako rôzne prvky dizajnu prispievajú k celkovému dojmu používateľa a ako
+tieto faktory formujú jeho názory, pocity a rozhodnutia pri používaní daného produktu alebo
+služby. Cieľom je zlepšiť používateľský zážitok tak, aby bol čo najpozitívnejší
+a najefektívnejší, čím sa zvyšuje spokojnosť a angažovanosť používateľov. (Kurniawan et
+al., 2024). Diesperova upozorňuje, že pozitívna UX zohráva zásadnú úlohu pri zvyšovaní
+návštevnosti webových stránok, pretože keď je webová stránka ľahko použiteľná a príjemná,
+láka viac návštevníkov. Zároveň zlepšuje spokojnosť zákazníkov, ktorí sa pravdepodobne
+vrátia a uskutočnia ďalšie nákupy. Tieto dva aspekty (vyššia návštevnosť a spokojní
+zákazníci) sú kľúčové pre udržateľný rast elektronického obchodu, pretože priamo
+11
+
+ovplyvňujú úspech a dlhodobú výkonnosť e-shopu. (Diesperova, 2024). Shahikanth hovorí,
+že v rámci technologických inovácií ide hlavne o zavedenie technológií, ako sú rozšírená
+realita (AR) a virtuálna realita (VR). Tie významne zlepšujú úroveň interakcie používateľov
+a zároveň zvyšujú mieru konverzie. Tieto technológie súbežne umožňujú používateľom
+zažiť produkt alebo službu, ktorý pre nich vytvorí určitý realistickejší a atraktívnejší zážitok.
+AR a VR umožňujú zákazníkom zobrazovať produkty v reálnom prostredí alebo ich
+simulovať. Tento prístup nielenže zvyšuje angažovanosť zákazníkov, ale aj podporuje lepšie
+rozhodovanie pri nákupe, čo následne vedie k väčšiemu úspechu obchodných transakcií.
+(Shahikanth et al., 2024). Diesperova ďalej spomína, že moderné technológie, ako (Big
+Data), teda v preklade „veľké dáta“ a strojové učenie, môžu riešiť problémy elektronického
+obchodu, ako sú napríklad nedostatok sociálnej interakcie a obmedzené hodnotenie
+produktov. Veľké dáta umožňujú lepšie personalizovať nákupné skúsenosti, a to na základe
+analýzy zákazníckych údajov. Strojové učenie zase zlepšuje hodnotenie produktov tým,
+že poskytuje presnejšie odporúčania na základe recenzií a spätnej väzby od zákazníkov.
+(Diesperova, 2024). Možno povedať, že tieto technologické inovácie pomáhajú zlepšiť
+transparentnosť a kvalitu informácií pri rozhodovaní o nákupe.
+V poslednom rade ide o dizajn, ktorý podľa Alja priamo vplýva na zákazníka,
+resp. používateľa. Samotná aplikácia dizajnu zameraného na používateľa (UCD)
+zabezpečuje, že platformy elektronického obchodu sú navrhnuté tak, aby efektívne
+vyhovovali potrebám ich používateľov. Tento prístup kladie dôraz na to, aby všetky aspekty
+platformy boli prispôsobené preferenciám a očakávaniam používateľov, čím sa zvyšuje jej
+funkčnosť a zlepšuje celkový zážitok z používania. (Alja et al., 2024). Aj keď sú zamerania
+na UX pre úspech elektronického obchodu kľúčové, je rovnako dôležité brať do úvahy
+faktory, ktoré predstavujú technologické obmedzenia a úroveň akceptácie používateľov.
+Tieto faktory môžu ovplyvniť schopnosť plne realizovať plánované vylepšenia a zlepšiť
+celkovú funkčnosť a atraktivitu platformy.
+1.2.2 Hlavné faktory ovplyvňujúce UX v online nakupovaní
+UX v oblasti online nakupovania je výsledkom viacerých dôležitých faktorov.
+Tie priamo ovplyvňujú spokojnosť zákazníkov a ich správanie pri nákupe. Ďalej spomínané
+faktory zahŕňajú jednoduchosť navigácie, rýchlosť načítania stránky, kvalitu vizuálneho
+dizajnu a intuitívnosť rozhrania, ako aj dostupnosť informácií o produktoch či zákaznícku
+podporu. Pre platformy elektronického obchodu je kľúčové porozumieť týmto aspektom,
+12
+
+pretože ich optimalizácia môže výrazne zlepšiť celkovú spokojnosť používateľov
+a motivovať ich k častejším nákupom. Vďaka dôrazu na tieto prvky môžu e-shopy
+prispôsobiť svoje služby tak, aby lepšie vyhovovali potrebám zákazníkov, čím podporia ich
+lojálnosť a zlepšia svoje obchodné výsledky. Podľa Hasanovej hlavné faktory,
+ktoré negatívne ovplyvňujú používateľskú skúsenosť pri online nakupovaní zahŕňajú:
+
+Obrázok 1 Hlavné negatívne faktory UX (Hasan, 2023; vlastná úprava, 2024).
+
+Tieto problémy, spolu s nepríjemnými skúsenosťami a nenaplnenými očakávaniami
+zákazníkov, majú výrazný dopad na kvalitu UX. (Hasan, 2023). Cheng zas hovorí, že faktory
+dizajnu z interaktívneho hľadiska, ako je použiteľnosť, kde patrí spätná väzba a Fitsov
+zákon, ktorého stručná definícia znie, že čím bližší a väčší je cieľ (napr. tlačidlo), tým
+jednoduchšie a rýchlejšie ho používateľ dokáže kliknúť alebo zasiahnuť, a ďalej efektívnosť,
+kde patrí napr. navigácia a čas, majú zásadný vplyv na používateľskú skúsenosť v online
+nákupných rozhraniach. Optimalizáciou týchto prvkov môže dizajn webových stránok
+výrazne zlepšiť UX. (Cheng, 2019). Podľa výskumu autora Salleh, ktorý sa zameral
+na faktory ovplyvňujúce webovú skúsenosť majú kľúčový vplyv práve na používateľské
+zážitky pri online nakupovaní predovšetkým:
+•
+
+použiteľnosť,
+
+•
+
+interaktivita,
+
+•
+
+dôvera.
+
+Tieto prvky zabezpečujú, že zákazníci sa cítia pohodlne, stránka je pre nich ľahko
+ovládateľná a majú dôveru v bezpečnosť a spoľahlivosť platformy. Naopak, estetika stránky,
+hoci môže zlepšiť vizuálny dojem, má v porovnaní s praktickými aspektmi menší vplyv
+na celkovú spokojnosť používateľov. (Salleh et al., 2019).
+13
+
+Medzi ďalšie kľúčové faktory, ktoré ovplyvňujú používateľskú skúsenosť sa Hasan
+a Kumar dopĺňajú, že pri online nakupovaní radia kľúčové faktory ako: jednoduchú
+navigáciu, zrozumiteľnosť informácií o produktoch, kvalitný vizuálny dizajn, rýchle
+načítavanie stránok, personalizáciu, možnosti prispôsobenia a optimalizáciu pre mobilné
+zariadenia. (Kumar et al., 2023). Tieto faktory zvyšujú spokojnosť zákazníkov tým,
+že zlepšujú celkový zážitok z nakupovania. Jednoduchá navigácia uľahčuje hľadanie
+produktov, jasné informácie podporujú lepšie rozhodovanie a vizuálny dizajn zvyšuje
+dôveru. Rýchle načítanie stránky zabraňuje frustrácií, personalizácia zas ponúka produkty
+na mieru a mobilná optimalizácia zaručuje plynulý nákupný proces na rôznych zariadeniach.
+Spoločne tieto prvky posilňujú pozitívny vzťah so zákazníkmi, čo vedie k ich lojalite
+a opakovaným nákupom. Semerádovej a Weinlichovi sa to podarilo definovať ako vnímané
+faktory, ktoré formujú používateľské skúsenosti v online nakupovaní, zahŕňajú kontext,
+obsah, komunitu, personalizáciu, komunikáciu a obchod. Tieto aspekty majú vplyv na to,
+ako zákazníci vnímajú a spracovávajú informácie na e-commerce stránkach. (Semerádová
+& Weinlich, 2020). Hoci sú tieto faktory kľúčové pre zlepšenie používateľskej skúsenosti,
+je dôležité mať na pamäti, že prílišné sústredenie na estetiku na úkor použiteľnosti môže
+viesť k negatívnym zážitkom. To poukazuje na potrebu vyváženého prístupu pri navrhovaní
+elektronického obchodu.
+1.2.3 Rozdiely v UX pre weby a e-shopy
+Používateľská skúsenosť pre bežné webové stránky a e-shopy sa hlavne líši
+v spôsobe, akým sú navrhnuté a v cieľoch, ktoré sledujú. Podľa Varosiana sa klasické
+webové stránky navrhujú predovšetkým s cieľom poskytovať informácie, pričom ich
+hlavným zameraním je zapojenie používateľov a zabezpečenie jednoduchej dostupnosti
+obsahu. Tieto stránky sa snažia ponúknuť prehľadné a ľahko prístupné informácie,
+ktoré používateľom umožňujú rýchlo nájsť to, čo potrebujú, čím podporujú ich
+angažovanosť a pozitívny zážitok. Dôraz sa kladie na čitateľnosť, logickú štruktúru
+a intuitívnu navigáciu, aby bol obsah čo najľahšie dostupný širokému spektru návštevníkov.
+(Varosian, 2023). Aultová definuje, že e-shopy sú navrhnuté s cieľom uľahčiť nákupný
+proces, pričom kľúčovým zameraním je zvýšiť mieru konverzií. Aby to dosiahli, kladú
+veľký dôraz na intuitívnu a jednoduchú navigáciu, ktorá používateľom umožňuje rýchlo
+nájsť požadované produkty. Viditeľnosť produktov je optimalizovaná pomocou jasných
+kategórií, kvalitných obrázkov a detailných popisov, čo uľahčuje rozhodovanie. Proces
+14
+
+pokladne je navrhnutý tak, aby bol čo najjednoduchší a najrýchlejší, čím sa znižuje
+pravdepodobnosť, že zákazníci opustia svoje nákupné košíky pred dokončením transakcie.
+Cieľom je vytvoriť hladkú a bezproblémovú skúsenosť, ktorá podporuje opakované nákupy.
+(Ault, 2022).
+Na základe definovaných rozdielov možno povedať, že UX pre klasické webové
+stránky a e-shopy sa líši prevažne v ich zameraní a prístupe k dizajnu. Zatiaľ čo klasické,
+teda bežné weby kladú dôraz na poskytovanie informácií a príjemnú interakciu, e-shopy
+sa primárne sústreďujú na zvyšovanie konverzií a udržanie zákazníkov prostredníctvom
+prispôsobených skúseností, jednoduchého nákupného procesu a personalizovaných
+odporúčaní.
+
+1.3
+
+Význam UI a UX pre e-shopy
+Používateľská skúsenosť a používateľské rozhranie zohrávajú zásadnú úlohu pre
+
+úspech e-shopov, pretože priamo ovplyvňujú spokojnosť zákazníkov, ich lojalitu a následne
+aj zisky. Vhodné navrhnuté a aplikované UI a UX môže zlepšiť používateľské interakcie
+a spríjemniť aj celý nákupný proces.
+1.3.1 Dôležitosť používateľského rozhrania (UI) pre úspech e-shopu
+Yen a Davis definujú používateľské rozhranie, teda UI predstavuje ako všetky
+konkrétne vizuálne a interaktívne prvky, s ktorými sa používateľ môže a aj stretáva pri
+interakcií v digitálnom prostredí. Tieto prvky majú podobu ako: tlačidlá, ikony, formuláre,
+či samotné rozloženie obsahu na obrazovke. Tieto prvky sú navrhované tak, aby umožnili
+používateľom intuitívnu a hlavne jednoduchú interakciu so systémom. Dôležitou súčasťou
+UI je nielen estetická funkcia, ale aj funkčnosť, ktorá zabezpečuje, že používateľ dokáže
+rýchlo pochopiť, ako jednotlivé prvky fungujú a aký majú účel. Efektívne navrhnuté
+používateľské rozhranie zlepšuje plynulosť interakcie a celkový zážitok. (Yen & Davis,
+2019). Podľa Siviji efektívny dizajn UI zahŕňa princípy použiteľnosti, ktoré zabezpečujú
+jednoduché a intuitívne ovládanie obzvlášť pre používateľov. Opiera sa o tzv. zákony ako
+Fitts a Gestalt. Tieto princípy zohrávajú kľúčovú úlohu pri vytváraní úspešného rozhrania.
+Zákon Fitts, ktorý sa zameriava na to, ako rýchlo môžu používatelia vykonávať akcie podľa
+veľkosti a vzdialenosti daného prvku, pomáha dizajnérom efektívne umiestňovať
+interaktívne prvky, ako sú tlačidlá. Gestalt princípy zas pomáhajú používateľom rozpoznať
+vzory a vzťahy medzi prvkami, čím uľahčujú pochopenie vizuálnej hierarchie. Ak je však
+15
+
+použiteľnosť slabá, používatelia môžu mať problémy s navigáciou, čo môže viesť
+k frustrácii, zníženiu spokojnosti a zvýšeniu miery opustenia stránky alebo aplikácie. Preto
+je kritické nielen esteticky navrhnúť UI, ale aj zaistiť jeho funkčnosť a použiteľnosť. (Sivaji
+et al., 2011). Yablonski zdôrazňuje, že Fitts's Law, teda Fittsov zákon patrí medzí dôležitý
+koncept v oblasti UX a interakčného dizajnu. Tento zákon pochádza z roku 1954 a jeho
+autorom je psychológ Paul Fitts. Popisuje vzťah medzi vzdialenosťou a veľkosťou cieľa,
+v našom prípade tlačidla a časom potrebným na jeho presné dosiahnutie. V kontexte UX to
+znamená, že čím bližšie a väčšie je interaktívny prvok (napr. tlačidlo, ikona), tým rýchlejšie
+a presnejšie ho môže používateľ vybrať. (Yablonski, 2020).
+
+Obrázok 2 Fittsov zákon – Diagram (Yablonski, 2020; vlastná úprava, 2024)
+
+Yablonski ďalej spomína, že Fitts zaviedol aj metriku nazývanú index obtiažnosti,
+ktorá slúži na meranie náročnosti úlohy pri výbere cieľa. V tomto modeli je vzdialenosť
+k stredu cieľa (D) považovaná za signál a veľkosť alebo šírka cieľa (W) predstavuje šum.
+Tento index umožňuje kvantifikovať, aká zložitá je interakcia pri dosahovaní cieľa na
+základe týchto dvoch faktorov. (Yablonski, 2020).
+
+Obrázok 3 Index obtiažnosti (Yablonski, 2020).
+16
+
+V praxi tzn., že ak máme tlačidlo „Kúpiť teraz“ alebo „Vložiť do košíka“ na e-shope,
+malo by byť dostatočne veľké a umiestnené na viditeľnom mieste, aby ho používateľ ľahko
+našiel a klikol. Ak je tlačidlo malé a ďaleko od kurzora myši (napríklad na pravej dolnej
+časti stránky), môže byť interakcia s ním pomalšia a frustrujúcejšia. Možno povedať,
+že Fittsov zákon tak slúži ako návod pre návrh efektívnejších a intuitívnejších rozhraní, ktoré
+používateľom umožňujú rýchlejšie a presnejšie vykonávať úlohy. Ďalší zaujímavý zákon
+podľa Badzia je Jacob's Law, teda Jakobov zákon vychádza z predpokladu, že ľudia si pri
+používaní webových stránok a aplikácií vytvárajú určité vzory správania a očakávania.
+Ak je používateľ zvyknutý na určité rozhranie alebo spôsob, akým fungujú iné stránky,
+bude očakávať, že aj nová stránka sa bude správať podobne.(Badzio et al., 2022). Teda
+možno povedať, že čím viac sa webová stránka alebo aplikácia prispôsobuje bežným,
+alebo používanejším vzorom, tým rýchlejšie a jednoduchšie ju používateľ pochopí a bude
+schopný správne použiť. To v príklade znamená, že ak väčšina e-shopov má košík v pravom
+hornom rohu stránky, používatelia budú intuitívne hľadať košík na tom istom mieste. Ak je
+jeho umiestnenie na inom mieste, môže to byť pre používateľov mätúce a menej efektívne.
+Jakobov zákon tak podporuje prístup, ktorý kladie dôraz na konzistentnosť a rešpektovanie
+užívateľských očakávaní. Tento prístup zlepšuje použiteľnosť, znižuje frustráciu a vytvára
+lepší užívateľský zážitok.
+1.3.2 Dôležitosť užívateľskej skúsenosti pre úspech e-shopu
+Suadamara medzi hlavný význam zaraďuje, že kvalitné UX zvyšuje spokojnosť
+zákazníkov, motivuje ich k opakovaným nákupom a podnecuje k odporúčaniu ostatným.
+(Suadamara, 2024). Podľa Pallavi je používateľská skúsenosť kľúčová pre úspech e-shopu,
+pretože UI/UX dizajn priamo prispieva k rastu príjmov daného e-shopu, čo vlastne patrí
+medzi hlavné ciele podnikateľského subjektu. Tak isto zlepšuje interakcie zákazníkov,
+ich spokojnosť a lojalitu, a zároveň podporuje opakované nákupy vďaka intuitívnym
+a vizuálne atraktívnym rozhraniam. (Pallavi, 2023). Medzi ďalšie hedonické problémy
+Hasan zaraďuje napríklad nepríjemnú interakciu. Používatelia často poukazujú na to,
+že niektoré e-shopy neposkytujú dostatočne zaujímavý a pútavý zážitok, čo negatívne
+ovplyvňuje ich spokojnosť. Nepríťažlivý dizajn, zložité ovládanie alebo nedostatok
+interaktivity môžu odradiť zákazníkov, čím sa znižuje ich záujem stránku opakovane
+navštevovať a nakupovať. (Hasan, 2023). Tieto nedostatky možno zaradiť medzi dôležité,
+teda primárne pre vytváranie pozitívnych nákupných skúseností. Hlavným rozdielom medzi
+17
+
+UI a UX vnímame v oblasti dizajnu, pretože plnia odlišné, ale vzájomne súvisiace funkcie.
+UI sa zaoberá vizuálnym vzhľadom a interaktívnymi prvkami produktu. To sú tlačidlá, ikony
+či rozloženie stránky. Na druhej strane, UX zahŕňa celkový dojem a zážitok používateľa pri
+interakcii s produktom, vrátane jeho jednoduchej použiteľnosti, intuitívnosti a splnenia
+očakávaní. Oba tieto aspekty spolupracujú na vytvorení pozitívnej interakcie s digitálnym
+prostredím.
+
+1.4
+
+Vplyv UX na zákaznícke správanie
+V e-shopoch, kde konkurencia neustále rastie, má UX priamy vplyv na to,
+
+ako zákazníci vnímajú značku a jej produkty. Zákazníci sa rozhodujú na základe informácií
+a skúseností z webových stránok. Rozhodnutie vyplýva z kvality a prehľadnosti rozhrania.
+Kľúčovým ukazovateľom sú hlavne pre to, aby si zákazníci vedeli vybrať konkrétny model
+alebo značku. Možno povedať, že dobrá UX zvyšuje pravdepodobnosť, že zákazníci
+uskutočnia nákup a budú sa k značke vracať.
+1.4.1 Užívateľská skúsenosť a jej vplyv na nákupné správanie zákazníkov
+Užívateľská skúsenosť má zásadný vplyv na správanie zákazníkov v online prostredí,
+ovplyvňuje napríklad dĺžku času stráveného na stránke a mieru nedokončených nákupov.
+Kvalitne navrhnuté UX môže výrazne zvýšiť spokojnosť zákazníkov, čo vedie k väčšej
+interakcii a znižuje počet opustených košíkov. Kumar vníma, že vplyv na čas strávený
+na webe má v dostatočnej miere práve dizajn užívateľskej skúsenosti (UXD). Ten má
+za dôsledok zlepšovanie spokojnosti zákazníkov na e-commerce stránkach a ovplyvňuje
+najdôležitejšie faktory, ako je práve dĺžka návštevy a miera opustených košíkov. Súvisí to
+hlavne vďaka ľahkej navigácii a prispôsobeným funkciám. (Kumar et al., 2023). Yang tvrdí,
+že zavedenie paralaxného posúvania v internetových obchodoch môže výrazne zlepšiť UX
+tým, že poskytuje pútavejší a dynamickejší spôsob, ako zákazníci interagujú so stránkou.
+Paralaxné efekty, ktoré vytvárajú ilúziu hĺbky a pohybu, zaujmú návštevníkov a udržia ich
+pozornosť, čo vedie k dlhšiemu času strávenému na stránke. Tento vizuálne atraktívny prvok
+tiež umožňuje efektívnejšie rozprávať príbeh značky alebo produktu, čo môže zákazníkov
+hlbšie vtiahnuť do nákupného procesu. Okrem toho interaktívne prvky dizajnu zlepšujú
+celkovú angažovanosť a znižujú mieru opustenia košíka, pretože zákazníci sa cítia viac
+18
+
+prepojení s obsahom a produktmi, ktoré si prezerajú. Týmto spôsobom paralaxné posúvanie
+nielen zlepšuje vizuálny zážitok, ale aj podporuje efektívnejšie nákupné rozhodnutia. (Yang,
+2023).
+Sohanda považuje prvky gamifikácie v UX za zaujímavý prostriedok k tomu,
+ako zlepšiť celkové vnímanie. Presnejšie sú to indikátory sociálnej aktivity a reálneho času,
+ktoré prispievajú k zníženiu opustenia košíka. Tým, že zlepšujú celkovú používateľskú
+skúsenosť, zvyšujú čas strávený na stránke a napomáhajú zvyšovaniu konverzií pri online
+nákupoch. (Sohanda et al., 2024). Kým kvalitná užívateľská skúsenosť zohráva kľúčovú
+úlohu pri zlepšovaní nákupného správania zákazníkov, je dôležité mať na pamäti,
+že nie všetci používatelia reagujú rovnako na identické dizajnové prvky. To poukazuje
+na potrebu prispôsobených prístupov v dizajne UX, ktoré zohľadňujú rôzne preferencie,
+potreby a správanie rôznych skupín užívateľov. Napríklad, niektorí zákazníci môžu
+preferovať jednoduché a prehľadné rozhrania, zatiaľ čo iní môžu viac uprednostňovať tie
+s interaktívnymi alebo vizuálne atraktívnymi prvkami. Preto je nevyhnutné, aby dizajnéri
+a vývojári elektronických obchodov zohľadnili tieto rozdiely a vytvorili personalizované
+užívateľské skúsenosti, ktoré oslovia široké spektrum používateľov.
+1.4.2 Vplyv jednoduchosti platobného procesu na úspešné dokončenie nákupov
+Jednoduchý platobný proces vie výrazne zvýšiť šancu, že zákazníci úspešne
+dokončia svoj nákup v e-shope. Keď sú platby prehľadné a ľahko pochopiteľné, zákazníci
+sa menej často zaseknú alebo odídu z nákupného košíka predčasne. Rýchle platby, známe
+aj ako platby jedným kliknutím, či automatické dopĺňanie údajov, alebo možnosť platiť
+prostredníctvom známych platobných brán návštevníkom webu umožňujú dokončiť nákup
+bez zbytočných komplikácií. Navyše, ak je platobný proces bezpečný a spoľahlivý, ľudia
+majú väčšiu dôveru a sú ochotnejší nakupovať opakovane. Ak ide o efektívnosť spracovania
+platieb, Myoung a Mi hovoria, že e-shopy disponujú jednoduchými platobnými systémami,
+ktoré používajú pred registrované údaje zákazníkov, výrazne skracujú čas potrebný
+na dokončenie transakcie, čo je obzvlášť dôležité pri online nákupoch z pohodlia domova.
+Tým, že tieto systémy eliminujú potrebu opakovaného zadávania platobných a doručovacích
+informácií, robia celý proces oveľa rýchlejším a efektívnejším. Pre zákazníkov, ktorí často
+nakupujú online, je táto rýchlosť a jednoduchosť obrovskou výhodou, pretože im umožňuje
+pohodlne a bez zbytočných komplikácií dokončiť nákup. Tento typ platobného procesu tiež
+znižuje pravdepodobnosť, že zákazníci nákup nedokončia kvôli zložitým alebo časovo
+19
+
+náročným krokom, čo môže mať pozitívny vplyv na celkovú spokojnosť a lojalitu. (Myoung
+& Mi, 2018).
+Yun a Mi tvrdia, že využívanie virtuálnych platobných kariet umožňuje zákazníkom
+vykonávať transakcie online bez toho, aby museli zdieľať svoje skutočné údaje o kreditnej
+karte. Tento prístup výrazne zvyšuje pocit bezpečnosti, pretože znižuje riziko zneužitia
+citlivých údajov pri platbách na internete. Virtuálne karty generujú jednorazové
+alebo dočasné čísla, ktoré sú určené len pre konkrétnu transakciu, čo znamená,
+že ak by sa tieto údaje dostali do nesprávnych rúk, nemôžu byť znovu použité. Pre
+zákazníkov je tento proces nielen bezpečnejší, ale aj spoľahlivejší, čo podporuje ich dôveru
+v online nakupovanie a znižuje obavy spojené s možným podvodom. Tento zvýšený pocit
+bezpečia môže tiež viesť k väčšej ochote uskutočniť opakované nákupy na daných
+platformách. (Yun & Mi, 2015). Flomin a Flomin tvrdia, že znížením počtu citlivých údajov,
+ktoré sú uložené na obchodných stránkach, sa u používateľov výrazne zvyšuje pocit
+bezpečia. Keď vedia, že ich osobné a finančné informácie nie sú v prípade narušenia
+bezpečnosti ohrozené, sú ochotnejší uskutočniť nákupy. Tento pocit bezpečia môže viesť
+k vyššej miere konverzií, pretože zákazníci sú viac motivovaní dokončiť svoje transakcie
+bez obáv z možného úniku údajov. Obchody, ktoré implementujú tieto bezpečnostné
+opatrenia, môžu získať väčšiu dôveru zákazníkov, čo môže pozitívne ovplyvniť nielen
+jednotlivé nákupy, ale aj ich dlhodobú lojalitu. Bezpečné spracovanie dát je kľúčovým
+faktorom pri vytváraní pozitívneho nákupného zážitku a zvyšovaní spokojnosti zákazníkov.
+(Flomin & Flomin, 2014).
+1.4.3 Vplyv nevhodnej UX na stratu zákazníkov a pokles lojality
+Salleh považuje použiteľnosť, ako jeden z najdôležitejších faktorov, ktorý priamo
+ovplyvňuje užívateľskú skúsenosť. Ak je webová stránka alebo aplikácia intuitívna
+a jednoduchá na používanie, zákazníci sa cítia pohodlne a môžu sa sústrediť na to, čo je pre
+nich dôležité, teda nájdenie a zakúpenie produktov. Na druhej strane, ak je používanie
+stránky zložitým alebo frustrujúcim zážitkom, môže to viesť k negatívnym emóciám,
+ktoré taktiež priamo ovplyvňujú rozhodovanie o nákupe. Zákazníci sú tak menej ochotní
+dokončiť transakciu na stránke, ktorá im spôsobuje ťažkosti, čo môže viesť k opusteniu
+košíka a zníženiu celkových predajov. Preto je optimalizácia použiteľnosti kľúčová pre
+zabezpečenie pozitívnej interakcie, ktorá podporuje nákupné rozhodnutia a zvyšuje šance
+na opakované nákupy. (Salleh et al., 2019). Podľa Achmad a Zulkifli majú efektívne procesy
+20
+
+v aplikáciách výrazný pozitívny vplyv na spokojnosť používateľov. Keď sú nákupné procesy
+prehľadné a bezproblémové, zákazníci sa cítia pohodlne a bezpečne, čo ich motivuje
+k dokončeniu nákupu. Ak sú jednotlivé kroky, ako pridávanie produktov do košíka, výber
+spôsobu platby a dodania, intuitívne a rýchle, znižuje sa pravdepodobnosť, že zákazníci
+narazia na prekážky, ktoré by mohli spôsobiť, že od nákupu odstúpia. Navyše,
+keď sú procesy optimalizované, zákazníci majú pocit, že ich čas a úsilie sú cenené,
+čo zvyšuje ich lojalitu voči značke a pravdepodobnosť, že sa k nej vrátia pri ďalších
+nákupoch. Takže investícia do efektívnych aplikačných procesov nie len že zlepšuje celkovú
+skúsenosť zákazníkov, ale tiež priamo prispieva k zvyšovaniu predaja a dlhodobej
+spokojnosti zákazníkov. (Achmad & Zulkifli, 2023).
+Gunarso tvrdí, že poskytovanie vysoko kvalitných informácií na platformách
+elektronického obchodu výrazne zlepšuje celkovú používateľskú skúsenosť, čo následne
+pozitívne ovplyvňuje nákupné zámery zákazníkov. Keď e-shop poskytuje detailné a presné
+informácie o produktoch, ako sú podrobné popisy, kvalitné fotografie, videá alebo recenzie,
+zákazníci získavajú lepší prehľad o tom, čo kupujú. (Gunarso, 2022). Sokkar a Musa
+považujú zrozumiteľné informácie za dôležité, pretože pomáhajú eliminovať pochybnosti
+a neistoty, ktoré by mohli zákazníkov odradiť od nákupu. Ak je obsah pre zákazníkov
+relevantný a odpovedá na ich otázky, zvyšuje to ich dôveru a uľahčuje rozhodovanie.
+Tým sa minimalizuje riziko, že budú hľadať ďalšie informácie inde, a zvyšuje
+sa pravdepodobnosť, že dokončia nákup priamo na stránke. Napríklad využitie vizuálnych
+avatarov s animovanými výrazmi tváre a gestami môžu pozitívne ovplyvniť rozhodovanie
+zákazníkov o kúpe tým, že zlepšujú prístupnosť, zvyšujú zámer nakupovať a zvyšujú
+spokojnosť na B2C e-commerce stránkach. (Sokkar & Musa, 2014). Hoci sú tieto faktory
+zásadné, je potrebné si uvedomiť, že estetika, hoci je dôležitá, nemusí mať taký vplyv
+na nákupné zámery ako použiteľnosť a dôvera. To naznačuje, že hoci je vizuálna
+príťažlivosť významná, funkčné prvky UX by mali byť v dizajnových stratégiách prioritou.
+
+1.5
+
+Metódy hodnotenia UX v e-commerce
+V digitálnom svete, kde je konkurencia v elektronickom obchode silná, zohráva UX
+
+kľúčovú úlohu v úspechu online platforiem. Metódy hodnotenia UX sú zásadné
+pre odhaľovanie silných a slabých stránok webových stránok, čo umožňuje dizajnérom
+21
+
+vytvárať intuitívne rozhrania. Tieto metódy, vrátane A/B testovania, analýzy
+používateľských
+
+ciest
+
+a
+
+prieskumov
+
+spokojnosti,
+
+poskytujú
+
+cenné
+
+informácie
+
+o preferenciách a potrebách zákazníkov.
+
+1.5.1 Najpoužívanejšie metódy a nástroje na meranie a hodnotenie UX v e-shopoch
+Meranie a hodnotenie UX v e-shopoch zahŕňa rôzne metódy a nástroje zamerané
+na rôzne prvky použiteľnosti a spokojnosti zákazníkov. Bežne využívané techniky zahŕňajú
+sledovanie výkonnosti webu, testovanie použiteľnosti a heuristické analýzy. Každá z týchto
+metód poskytuje jedinečný pohľad na to, ako užívatelia interagujú s webom a ako sa dá ich
+skúsenosť vylepšiť.
+
+Obrázok 4 Bežné metódy hodnotenia UX (Candiasa et al., 2023; vlastná úprava, 2024).
+
+Candiasa tvrdí, že bežne používané metódy na hodnotenie používateľskej skúsenosti
+v e-shopoch zahŕňajú meranie výkonnosti, testovanie použiteľnosti pri prvom kliknutí,
+analýzu reálneho času (RTA) a dotazník SUS (Systém Usability Scale). Meranie výkonnosti
+sleduje, ako rýchlo a efektívne funguje web, čo má priamy vplyv na spokojnosť zákazníkov.
+Testovanie prvého kliknutia zisťuje, či používatelia nájdu správnu cestu po prvom kliknutí
+na stránke, čo je dôležité pre intuitívnu navigáciu. RTA analyzuje správanie zákazníkov
+v reálnom čase, čo pomáha odhaliť okamžité problémy v interakcii. Dotazník SUS je
+jednoduchý spôsob, ako získať spätnú väzbu od používateľov a zhodnotiť celkovú
+použiteľnosť stránky. Tieto nástroje spoločne poskytujú komplexný prehľad o UX
+22
+
+a umožňujú vylepšiť webové rozhrania podľa potrieb používateľov. (Candiasa et al., 2023).
+Táto metóda hodnotí účinnosť e-shopov tým, že sa zameriava na analýzu chybovosti a času
+potrebného na dokončenie úloh používateľmi. Ide o prístup, ktorý je vyššie uvedený autorom
+Candiasa, kde sa ukázalo, že výkonnostné metriky, ako rýchlosť vykonávania úloh a miera
+chýb, sú kľúčovými ukazovateľmi použiteľnosti webových stránok. Tieto metriky umožňujú
+odhaliť, ako efektívne dokážu používatelia navigovať stránkou a splniť svoje ciele,
+čo následne ovplyvňuje ich spokojnosť a pravdepodobnosť opakovaného nákupu.
+Analyzovaním týchto faktorov môžu obchodníci získať cenné informácie o tom,
+kde dochádza k problémom v používateľskej skúsenosti, a cielene zlepšiť funkčnosť a dizajn
+webu. Wahyuningrum zdôrazňuje, že heuristické hodnotenie a dotazník System Usability
+Scale (SUS) patria medzi najpoužívanejšie metódy na meranie a hodnotenie UX v eshopoch. Heuristické hodnotenie sa zameriava na odborné posúdenie používateľského
+rozhrania na základe preddefinovaných pravidiel a zásad použiteľnosti. Odborníci analyzujú
+rôzne prvky webovej stránky, ako sú navigácia, konzistentnosť dizajnu či prístupnosť,
+a identifikujú možné problémy, ktoré by mohli spôsobiť frustráciu používateľov. Tento
+prístup ponúka rýchly spôsob, ako odhaliť nedostatky v UX bez potreby priameho testovania
+s používateľmi. Na druhej strane, dotazník System Usability Scale (SUS) poskytuje
+kvantitatívny náhľad na používateľskú skúsenosť z pohľadu reálnych používateľov.
+Ide o jednoduchý, no veľmi efektívny nástroj na meranie použiteľnosti webu, ktorý zahŕňa
+desať otázok o interakcii používateľov so stránkou. SUS umožňuje obchodníkom lepšie
+porozumieť tomu, ako spokojní sú zákazníci so stránkou, a na základe toho zlepšiť ich
+skúsenosti. Kombinácia týchto dvoch metód, teda odborného hodnotenia prostredníctvom
+heuristík a spätnej väzby od používateľov cez SUS poskytuje komplexný obraz o silných
+a slabých stránkach UX na platformách elektronického obchodu. To umožňuje
+optimalizovať stránky tak, aby boli funkčné, prehľadné a zaujímavé pre používateľov.
+(Wahyuningrum et al., 2020).
+Štúdia spomínaného autora hodnotila použiteľnosť známej webovej stránky Shopee
+pomocou heuristického hodnotenia a dotazníka SUS. Používatelia stránku ohodnotili
+pozitívne. V konečnom výsledku známkou B-, čo týmto naznačuje značnú spokojnosť.
+Odborníci tiež hodnotili stránku vysoko, pričom 9 z 10 kritérií boli ohodnotené nad 72 %.
+Napriek tomu štúdia identifikovala problémy, najmä s vyhľadávačom, ktoré je potrebné
+zlepšiť. Možno povedať, že kombinácia odborných a používateľských hodnotení umožnila
+získať detailný a vyvážený pohľad na použiteľnosť, v tomto konkrétnom príklade, webovej
+stránky Shopee. Zatiaľ, čo používatelia ponúkli cennú spätnú väzbu založenú na reálnej
+23
+
+skúsenosti
+
+s
+
+rozhraním,
+
+odborníci
+
+priniesli
+
+profesionálne
+
+posúdenie
+
+založené
+
+na heuristických princípoch. Tento dvojitý prístup odhalil nielen celkovú spokojnosť
+s dizajnom, ale aj konkrétne oblasti, ktoré potrebujú zlepšenie, ako je napríklad funkčnosť
+vyhľadávača. Takto komplexný prístup poskytuje jasnejší obraz o tom, kde je možné
+vykonať zmeny na zvýšenie celkovej spokojnosti a efektívnosti.
+V oblasti elektronického obchodu a webového dizajnu sa meranie UX stáva
+kľúčovým nástrojom pre optimalizáciu interakcie používateľov s platformami. Cyklus
+merania UX, ktorý zahŕňa kroky ako zbieranie údajov, analýzu a implementáciu zmien,
+pomáha firmám prispôsobiť svoje webové stránky tak, aby boli používateľsky prívetivejšie
+a efektívnejšie.
+
+Obrázok 5 Cyklus merania UX (Law et al., 2014; vlastná úprava, 2024).
+
+Law vysvetľuje, že cyklus merania UX zahŕňa niekoľko fáz, ktoré sa zvyčajne
+vykonávajú v pravidelných intervaloch na zabezpečenie neustáleho zlepšovania
+používateľskej skúsenosti:
+
+24
+
+•
+
+Zbieranie údajov: Získavanie kvantitatívnych aj kvalitatívnych údajov
+z rôznych zdrojov (napr. dotazníky, testovanie používateľov, analytika
+správania).
+
+•
+
+Analýza údajov: Detailné vyhodnotenie zozbieraných údajov s cieľom
+identifikovať problémy, trendy a príležitosti na zlepšenie.
+
+•
+
+Generovanie poznatkov: Na základe analýzy sú vytvorené odporúčania
+alebo návrhy na zlepšenie používateľskej skúsenosti.
+
+•
+
+Implementácia zmien: Realizácia navrhnutých úprav do dizajnu a rozhrania
+webovej stránky alebo aplikácie.
+
+•
+
+Monitorovanie výsledkov: Po implementácii sa sleduje, ako sa zmeny
+prejavujú na správaní používateľov a ich spokojnosti.
+
+•
+
+Zlepšenie UX: Celý cyklus vedie k postupnému zlepšovaniu UX, ktoré
+zvyšuje spokojnosť používateľov a celkovú efektivitu platformy. (Law et al.,
+2014).
+
+Medzi ďalšie nástroje na základe tvrdení Wanga patrí UX kalkulačka. Tento webový
+nástroj slúži na zjednodušenie procesu štatistickej analýzy v oblasti hodnotenia UX.
+Umožňuje získať hodnotné a významné závery bez potreby hlbokých znalostí štatistiky. UX
+kalkulačka je navrhnutá tak, aby bola zrozumiteľná aj pre tých, ktorí nemajú rozsiahle
+skúsenosti v oblasti štatistických metód. S jeho pomocou je možné efektívne analyzovať
+dáta, identifikovať trendy a posúdiť výkon svojich produktov či služieb. Týmto spôsobom
+tento nástroj umožňuje sústrediť sa na interpretáciu výsledkov a prijímanie informovaných
+rozhodnutí, čo prispieva k zlepšeniu celkového používateľského zážitku. (Wang et al.,
+2023). UX kalkulačka tak predstavuje cenný prínos pre každého, kto sa zaoberá UX
+výskumom, bez ohľadu na jeho úroveň odbornosti.
+
+25
+
+Perrig uvádza, že metriky UX disponujú rozmanitými atribútmi, ktoré sú nevyhnutné
+pre komplexné hodnotenie efektívnosti interakcií v elektronickom obchode. Tieto atribúty
+zahŕňajú výhody, ako sú schopnosť presne zmerať spokojnosť zákazníkov a poskytnúť
+cenné informácie o ich správaní, ako aj nevýhody, ako sú náklady na implementáciu
+a zložitosť analýzy získaných dát.
+
+Obrázok 6 výhody a nevýhody aplikovania nástrojov (Perrig et al., 2024; vlastná úprava, 2024).
+
+Výhody
+•
+
+Detailné údaje: Dátovo riadený prístup umožňuje zhromaždiť rozsiahle
+a podrobné informácie o správaní používateľov, čo poskytuje lepšie
+pochopenie ich potrieb.
+
+•
+
+Zlepšenie UX: Pravidelné testovanie a analýza dát vedie k neustálemu
+zlepšovaniu
+
+používateľskej
+
+skúsenosti.
+
+Odborníci
+
+môžu
+
+efektívne
+
+optimalizovať rozhrania na základe skutočných údajov.
+•
+
+Identifikácia
+
+problémov:
+
+Pomocou
+
+reálnych
+
+používateľských
+
+dát
+
+sa rýchlejšie identifikujú problémy a slabé miesta, čo umožňuje ich skoré
+riešenie.
+26
+
+•
+
+Efektívne rozhodovanie: Využitie presných dát podporuje rýchle a presné
+rozhodovanie, čo znižuje chyby spôsobené intuitívnym prístupom.
+
+•
+
+Zvýšenie konverzií: Optimalizácia dizajnu na základe používateľských dát
+vedie k zvýšeniu používateľskej spokojnosti a následne aj k vyššiemu počtu
+konverzií.
+
+Nevýhody
+•
+
+Náklady: Implementácia dátovo riadeného prístupu môže byť finančne
+náročná, najmä kvôli potrebe špecializovaných nástrojov a odborníkov.
+
+•
+
+Zložitosť implementácie: Integrácia rôznych zdrojov dát a ich efektívne
+spracovanie môže byť zložitá, najmä v prípade veľkých organizácií.
+
+•
+
+Potreba odborných znalostí: Efektívne spracovanie a analýza dát si vyžaduje
+odborníkov s hlbokými znalosťami, čo môže zvýšiť náklady a zložitosť
+implementácie.
+
+•
+
+Možné chyby v údajoch: Ak sú dáta nekvalitné alebo nesprávne, môžu viesť
+k nesprávnym rozhodnutiam a negatívne ovplyvniť výsledky.
+
+•
+
+Časová náročnosť: Zhromažďovanie a analýza dát vyžaduje značný čas,
+čo môže predĺžiť celý proces vývoja produktu. (Perrig et al., 2024).
+
+1.5.2 Kľúčové metriky na hodnotenie úspešnosti UX v e-commerce
+Meranie úspešnosti UX v e-commerce predstavuje zásadný krok k zlepšeniu
+spokojnosti zákazníkov a dosahovaniu obchodných cieľov. Pri hodnotení UX sa používajú
+rôzne metriky, ktoré poskytujú cenné dáta o tom, ako efektívne webová stránka alebo
+aplikácia spĺňa potreby používateľov. Tieto metriky slúžia nielen na monitorovanie
+použiteľnosti, ale aj na meranie celkového výkonu obchodného modelu. Patria sem
+napríklad: konverzný pomer, net promoter score (NPS), miera opustenia stránky,
+čas strávený na stránke, úspešnosť dokončenia úlohy, koeficient opustenia košíka.
+Miera konverzie, ako zdôrazňuje Lee, je kľúčovým ukazovateľom výkonnosti
+webových stránok elektronického obchodu, pretože poskytuje presný obraz o tom,
+aké efektívne je rozhranie pri vedení návštevníkov k splneniu špecifických cieľov. Tieto
+ciele môžu zahŕňať uskutočnenie nákupu, registráciu na odber noviniek alebo dokončenie
+objednávky. Vyjadruje sa ako percento návštevníkov, ktorí úspešne vykonali požadovanú
+27
+
+akciu v porovnaní s celkovým počtom návštevníkov. Je možné ich vypočítať pre jednotlivé
+produkty alebo kategórie, čím sa prepája výkonnosť so schopnosťou marketingu dosahovať
+výsledky. (Lee et al., 2002). Ak má webová stránka vysokú mieru konverzie, znamená to,
+že je pre používateľov jednoduchá a prehľadná, čo zvyšuje šancu, že dokončia požadovanú
+akciu, napríklad nákup. Naopak, ak je konverzia nízka, môže to signalizovať problémy
+s dizajnom, navigáciou alebo obsahom, ktoré odrádzajú návštevníkov od dokončenia
+procesov. Preto je dôležité sledovať túto metriku a na základe nej optimalizovať web,
+aby lepšie plnil svoje ciele.
+Net Promoter Score, teda (NPS) na základe tvrdení Tullisa a Alberta hodnotí lojalitu
+a spokojnosť zákazníkov. Napríklad prostredníctvom priamej otázky: „Aká je
+pravdepodobnosť, že odporučíte túto stránku svojim známym?“ Zákazníci odpovedajú na
+škále od 0 do 10, pričom výsledky poskytujú prehľad o tom, ako pozitívne či negatívne
+vnímajú svoju skúsenosť. Výsledná hodnota NPS je dôležitým indikátorom zákazníckych
+pocitov a spokojnosti. Tí, ktorí uvádzajú vysoké skóre (9-10), sú považovaní za lojálnych
+promotérov, zatiaľ čo nízke hodnoty (0-6) naznačujú potenciálne nespokojnosť a riziko
+straty zákazníka. Tento prístup umožňuje spoločnostiam priamo získať pohľad na emócie
+a motivácie svojich zákazníkov, a tým lepšie pochopiť ich potreby. (Tullis & Albert, 2008).
+Miera opustenia stránky (Bounce Rate) uvádza Nicholas, že vyjadruje podiel
+návštevníkov, ktorí opustia stránku bez akejkoľvek interakcie, ako je napríklad kliknutie
+na ďalší odkaz alebo vykonanie určitej akcie. Ide o situáciu, keď používateľ navštívi úvodnú
+stránku a následne ju opustí bez toho, aby pokračoval v prehliadaní ďalšieho obsahu. Vysoká
+miera opustenia webu môže naznačovať niekoľko možných problémov. Možno hovoriť
+o dizajne stránky, obsahu, dobe načítania stránky, či o zlej optimalizácií pre mobilné
+zariadenia. (Nicholas et al., 2007). Saucken zas tvrdí, že vysoký bounce rate nemusí vždy
+naznačovať problém, najmä ak weby poskytujú informatívnu funkciu, ako sú napr. blogy.
+V prípade e-commerce je však vysoký bounce rate znakom, že stránka možno neplní svoju
+úlohu efektívne, pretože cieľom je, aby zákazníci pokračovali v prehliadaní produktov
+alebo dokončili nákup. Preto je dôležité analyzovať túto metriku, aby sa zlepšila
+používateľská skúsenosť a zvýšila sa miera udržania návštevníkov na stránke. (Saucken et
+al., 2013).
+
+28
+
+Čas strávený na stránke
+Halfaker vysvetľuje, že vyšší čas strávený na stránke často indikuje aktívne zapojenie
+používateľov, ako je prezeranie rôznych sekcií alebo produktov. Naopak, nízky čas môže
+poukazovať na problémy s dizajnom alebo navigáciou, ktoré návštevníkov odrádzajú
+od ďalšieho skúmania. Analýza tejto metriky je kľúčová pre optimalizáciu webu, pretože
+pomáha identifikovať oblasti vyžadujúce zlepšenie, čo môže viesť k lepšej používateľskej
+skúsenosti a vyššej miere konverzie. Týmto spôsobom čas strávený na stránke slúži ako
+dôležitý ukazovateľ angažovanosti a efektívnosti obsahu. (Halfaker et al., 2015). Možno
+poznamenať, že je to metrika, ktorá udáva priemernú dobu, ktorú návštevníci trávia
+na webovej stránke počas jednej relácie. Dlhší čas na stránke naznačuje, že obsah
+je relevantný a zaujímavý pre používateľov, zatiaľ čo kratší čas môže signalizovať, že obsah
+nesplnil ich očakávania.
+Úspešnosť dokončenia úlohy (Task Success Rate) je podľa Trisminingsih
+a Nurliaputri dôležitá metrika. Tá vyjadruje percento používateľov, ktorí úspešne splnili
+predpísané úlohy na webovej stránke, ako napríklad vyhľadanie produktu alebo dokončenie
+objednávky. Táto miera je priamo spojená s použiteľnosťou stránky a ovplyvňuje celkovú
+spokojnosť používateľov. Vysoká úspešnosť dokončenia úlohy naznačuje, že webová
+stránka je intuitívna a efektívna, čo uľahčuje používateľom dosiahnuť ich ciele. To vedie
+k zvýšenej lojalite zákazníkov a častejším návštevám. Naopak, nízka úspešnosť môže
+signalizovať
+
+problémy
+
+s
+
+dizajnom,
+
+navigáciou
+
+alebo
+
+obsahom
+
+stránky,
+
+čo môže frustrovaných používateľov viesť k opusteniu stránky a nižšiemu počtu konverzií.
+(Trisminingsih & Nurliaputri, 2019.) Analýza tejto metriky je dôležitým krokom na
+identifikáciu slabých miest v návrhu a funkčnosti stránky. Spolu s inými ukazovateľmi, ako
+je miera opustenia stránky a čas strávený na stránke, poskytuje komplexný obraz
+o používateľskej skúsenosti a efektívnosti webového rozhrania.
+Vysoký koeficient opustenia košíka môže, ako tvrdí Sundjaja, naznačovať
+problémy v užívateľskom rozhraní alebo v samotnom procese platby. Napr. ak je navigácia
+na stránke zložitá alebo ak je rozhranie pre pridávanie produktov do košíka nepríjemné,
+zákazníci môžu byť odradení a rozhodnúť sa nákup odložiť, resp. nedokončiť. Rovnakou
+nepríjemnosťou môže byť aj nejasný alebo dlhý proces platby, ktorý môže spôsobiť
+frustráciu a následné opustenie košíka. Mnohé faktory môžu prispieť k vysokému
+koeficientu opustenia košíka. Môže to byť spôsobené nepredvídateľnými nákladmi
+na dopravu, technickými problémami s platobnými bránami alebo nedostatočnou
+29
+
+informáciou o produktoch. K tomu sa môže pridať aj nedostatok dôvery v webovú stránku,
+ak zákazníci majú pocit, že ich osobné údaje nie sú dostatočne chránené. (Sundjaja et al.,
+2024). Analyzovanie koeficientu opustenia košíka je kľúčové pre zlepšovanie nákupného
+procesu. Ak sa podniky zamerajú na zjednodušenie platobného procesu, poskytnutie jasných
+a transparentných informácií o nákladoch, a zabezpečenie bezpečných platobných možností,
+môžu významne znížiť túto mieru. Udržiavanie nízkeho koeficientu opustenia košíka je teda
+zásadné pre úspech v online obchodovaní.
+1.5.3 Špecifické prístupy v mobilnom UX dizajne pre e-commerce
+Dizajn mobilného UX pre elektronický obchod, konkrétne na mobilných
+zariadeniach vyžaduje špecifické prístupy, ktoré zvyšujú použiteľnosť a spokojnosť
+používateľov. Medzi kľúčové stratégie patrí optimalizácia zobrazovania informácií,
+zabezpečenie užívateľských rozhraní a riešenie bezpečnostných problémov. Mavinkurve
+prehlasuje, že účinné mobilné používateľské rozhrania by mali využiť techniky,
+ako sú rozšíriteľné sekcie, aby čo najlepšie spravovali obmedzený priestor na obrazovke.
+Týmto spôsobom umožňujú používateľom jednoducho prechádzať vyhľadávacími
+výsledkami a zároveň minimalizujú pocit vizuálnej presýtenosti. Tento prístup zabezpečuje,
+že používatelia môžu rýchlo nájsť potrebné informácie bez zbytočného rolovania
+alebo strácania sa v množstve údajov. (Mavinkurve et al., 2006). Volodin však zastáva názor,
+že zahrnutie funkcií na priblíženie a úpravu, ktoré sú priamo prepojené s vizuálnymi prvkami
+na stránke, môže výrazne zjednodušiť proces personalizácie produktov. Používatelia tak
+môžu jednoduchšie manipulovať s detailmi, napríklad pri navrhovaní alebo prispôsobovaní
+položiek, ako sú oblečenie alebo nábytok. Táto intuitívna interakcia zlepšuje používateľskú
+skúsenosť tým, že poskytuje väčšiu kontrolu a presnosť pri úpravách, čo môže viesť k vyššej
+spokojnosti zákazníkov a zvýšeniu pravdepodobnosti dokončenia nákupu. Navyše, keď sú
+tieto funkcie ľahko dostupné a plynulé, zvyšuje sa celková prehľadnosť a efektivita celého
+procesu. (Volodin et al., 2014). Ako spomína Ayob prijatie osvedčených usmernení,
+ako sú Shneidermanove zlaté pravidlá alebo najlepšie postupy stanovené W3C pre mobilný
+web, je kľúčové pre vytváranie intuitívnych a používateľsky prívetivých rozhraní.
+Tieto zásady pomáhajú návrhárom vytvárať systémy, ktoré zjednodušujú navigáciu,
+minimalizujú chyby a uľahčujú používateľom dosahovať ich ciele bez zbytočných prekážok.
+Shneidermanove pravidlá napríklad kladú dôraz na konzistenciu v dizajne, okamžitú spätnú
+väzbu a minimalizáciu kognitívnej záťaže, čo zlepšuje celkovú spokojnosť používateľov.
+30
+
+Rovnako,
+
+dodržiavanie
+
+W3C
+
+štandardov
+
+pre
+
+mobilný
+
+web
+
+zabezpečuje,
+
+že rozhrania sú prístupné a efektívne na rôznych zariadeniach. Tieto prístupy prispievajú
+k vytváraniu pozitívnej skúsenosti, ktorá podporuje opakované používanie a lojalitu
+používateľov, pretože im poskytujú hladký a predvídateľný zážitok pri každom použití
+aplikácie alebo webu. (Ayob et al., 2009). Podľa Halperta návrh a následná implementácia
+bezpečnostných autentifikačných rozhraní je kľúčovým aspektom elektronického obchodu,
+pretože
+
+sa
+
+priamo
+
+týka
+
+ochrany
+
+citlivých
+
+osobných
+
+údajov
+
+používateľov,
+
+ako sú prihlasovacie údaje alebo platobné informácie. V kontexte mobilných platforiem
+je nevyhnutné vytvárať systémy, ktoré vedia poskytnúť bezpečnosť bez toho,
+aby komplikovali používateľský zážitok. Používateľské hodnotenia často zdôrazňujú,
+že pri autentifikácii je potrebná rovnováha medzi bezpečnosťou a jednoduchosťou použitia,
+pretože príliš zložitý proces môže viesť k frustrácii používateľov a opusteniu stránky.
+(Halpert, 2005).
+Aj keď sa tieto prístupy zameriavajú na zlepšenie používateľskej skúsenosti, je tiež
+dôležité zvážiť potenciálne kompromisy medzi použiteľnosťou a bezpečnosťou, pretože
+príliš zložité bezpečnostné opatrenia môžu odradiť používateľov od dokončenia transakcií.
+
+1.6
+
+Optimalizácia UX v e-shope
+Optimalizácia UX patrí medzi jeden zo zásadných krokov pre úspech akéhokoľvek
+
+e-shopu. V tomto online prostredí je dôležité nielen zaujať návštevníka, ale aj zabezpečiť,
+aby jeho cesta webovou stránkou bola, čo najplynulejšia. Každý aspekt webu, od dizajnu
+až po samotný nákupný proces ovplyvňuje rozhodnutie zákazníka zostať na stránke
+a dokončiť nákup.
+1.6.1 Vplyv personalizácie na výkonnosť e-shopu
+Ak ide o vplyv využívania tzv. personalizácii v e-shope možno povedať, že zohráva
+kľúčovú úlohu pri zlepšovaní používateľského zážitku tým, že umožňuje prispôsobenie
+interakcií a odporúčaní podľa preferencií jednotlivých zákazníkov. Personalizácia e-shopu,
+ako definuje Desai, zlepšuje jeho výkonnosť tým, že poskytuje kupujúcim prispôsobené
+informácie zodpovedajúce ich preferenciám. Tým zvyšuje angažovanosť zákazníkov,
+zlepšuje ich celkovú spokojnosť a minimalizuje vystavenie nerelevantným ponukám
+31
+
+alebo reklame, čo vedie k efektívnejšiemu nákupnému procesu a vyššej pravdepodobnosti
+opakovaných nákupov. (Desai, 2019). Kazeminia vníma, že vo všeobecnosti e-shopy,
+ktoré využívajú odporúčania na základe používateľských profilov, dokážu lepšie prispôsobiť
+produkty konkrétnemu vkusu a preferenciám zákazníkov.
+
+Odporúčania vychádzajú
+
+z databázy informácií o zákazníkoch. Konkrétne ide o informácie z predchádzajúcich
+nákupov, vyhľadávaných produktov alebo iných interakcií s webom. Vďaka tomu
+sa zákazníkom zobrazujú relevantnejšie ponuky, čo vedie aj k vyššiemu záujmu a zlepšeniu
+celkovej užívateľskej skúsenosti. Tento prístup tak vie prispieť k zvýšeniu miery konverzií,
+pretože zákazníci sú motivovanejší k nákupu, keď im sú ponúkané také produkty,
+ktoré presne zodpovedajú ich potrebám a preferenciám. Personalizácia teda nielen zlepšuje
+spokojnosť zákazníkov, ale zároveň zvyšuje efektivitu predajného procesu. (Kazeminia et
+al., 2019). Tento prístup nielenže vytvára individuálnejší a relevantnejší nákupný proces,
+ale zároveň posilňuje vzťah medzi zákazníkom a obchodom. Vďaka týmto odporúčaniam
+a ponukám môžu zákazníci jednoduchšie nájsť produkty, ktoré zodpovedajú ich potrebám,
+čo vedie k vyššej spokojnosti, väčšej lojalite a zvýšeniu predaja.
+
+1.6.2 Význam analýzy používateľských ciest pre optimalizáciu UX v e-shope
+Analýza používateľských ciest sa dá považovať za kľúčovú a to hlavne, čo sa týka
+práve optimalizácií UX v e-shopoch, pretože poskytuje cenné informácie o tom,
+ako sa zákazníci pohybujú a správajú na stránke. Ďalej odhaľuje problematické miesta
+a následne umožňuje zlepšiť ich celkový zážitok. Pomocou týchto poznatkov je umožnené
+prevádzkovateľom e-shopov prispôsobiť svoje rozhranie a vylepšiť marketingové prístupy,
+aby lepšie zodpovedali očakávaniam a potrebám zákazníkov, čím zvyšujú efektivitu
+aj spokojnosť. Na základe tvrdení Heinricha & Flockea analýza používateľských ciest
+pomáha odhaliť navigačné vzorce správania, ktoré nie sú na prvý pohľad známe.
+Avšak môžu výrazne ovplyvniť želaný efekt, kde je možné zaradiť práve úspešné
+dokončenie nákupov. Prvým krokom a teda identifikáciou týchto vzorcov môžu webové
+stránky elektronického obchodu prispôsobiť a následne optimalizovať cesty používateľov
+tak, aby ich čo najlepšie viedli k želaným akciám.
+
+32
+
+Ide o:
+•
+
+prezeranie produktov,
+
+•
+
+pridanie tovaru do košíka,
+
+•
+
+či dokončenie objednávky. (Heinrich & Flocke, 2014).
+
+Heinrich & Flocke ďalej spomínajú, že sledovanie správania návštevníkov odhaľuje
+dôležité interakcie a miesta, kde zákazníci narazia na problémy, ktoré nemusia byť
+majiteľom stránok ihneď zjavné. Vizualizácia týchto interakcií poskytuje jasnejší pohľad
+na to, kde je potrebné vykonať zlepšenia v dizajne, navigácii alebo v samotnom nákupnom
+procese. Táto analýza umožňuje platformám e-commerce prispôsobiť rozhrania tak,
+aby bolo jednoduchšie a intuitívnejšie, čo vedie k lepšiemu zážitku pre používateľov
+a vyšším konverziám. (Heinrich & Flocke, 2014). Ďalšou dôležitou metrikou spomína
+Giroux-Huppé, že je
+
+identifikácia psycho-fyziologických bodov bolesti, teda takých
+
+momentov, kedy používatelia prežívajú intenzívne emocionálne vzrušenie alebo práve
+naopak negatívne pocity, môže výrazne prispieť k zlepšeniu používateľskej skúsenosti.
+Tieto body, často súvisiace s frustráciou či nepochopením, nemusia používatelia vždy
+priamo vyjadriť prostredníctvom tradičných foriem spätnej väzby, ako sú dotazníky
+alebo rozhovory. Analýza týchto emocionálnych momentov, napríklad pomocou techník
+merania psycho-fyziologických reakcií (srdcová frekvencia, galvanická reakcia kože,
+mimika tváre), poskytuje hlbšie a spoľahlivejšie informácie o tom, kde presne dochádza
+k problémom, či nedostatkom. Používaním tejto metódy je možné identifikovať skryté
+frustrácie a vylepšiť tak kľúčové prvky, ktoré spôsobujú užívateľom problémy. Na rozdiel
+od
+
+tradičných
+
+spätných
+
+väzieb,
+
+ktoré
+
+môžu
+
+byť
+
+ovplyvnené
+
+subjektivitou
+
+alebo neschopnosťou používateľov vyjadriť konkrétne problémy, táto technika poskytuje
+objektívnejší pohľad na emocionálne reakcie používateľov počas interakcie s rozhraním.
+Vďaka tomu je možné efektívnejšie riešiť prekážky a zvyšovať spokojnosť a komfort
+pri používaní produktu či služby. (Giroux-Huppé et al., 2019). Callum popisuje, že analýza
+používateľských ciest je kľúčová pre optimalizáciu UX, pretože pomáha odhaliť problémy,
+ktoré používateľov frustrujú, a meria ich úroveň spokojnosti. Tento prístup umožňuje,
+hlavne teda dizajnérom, lepšie pochopiť konkrétne prekážky, či problémy, s ktorými
+sa používatelia stretávajú, a vytvoriť tak celistvejšie a príjemnejšie skúsenosti,
+ktoré zohľadňujú potreby širokej škály zákazníkov. (Callum et al., 2021).
+33
+
+2
+
+CIEĽ PRÁCE
+Používateľská skúsenosť je kľúčovým faktorom v rámci marketingovej komunikácie
+
+a tvorby úspešných webových stránok. Správne pochopenie potrieb používateľov,
+ako aj identifikovanie problémov, s ktorými sa stretávajú pri používaní webovej stránky,
+nám poskytuje neoceniteľné informácie pre jej vylepšenie. Cieľom tejto práce je analyzovať
+a identifikovať nedostatky na e-shope mobilmarket.sk a navrhnúť opatrenia na zlepšenie
+používateľskej skúsenosti počas nákupného procesu, čím sa predíde predčasnému opusteniu
+nákupného procesu. K dosiahnutiu tohto cieľa bude využitý teoretický základ z oblasti
+marketingovej komunikácie prepojenej s UX, UX dizajnu, či optimalizácie UX v e-shope
+ako aj praktické testovanie reálnych používateľov.
+Primárny cieľ tejto práce je zameraný na zlepšenie používateľského zážitku e-shopu
+a odstránenie prekážok, ktoré vedú k nedokončeným nákupom. Na jeho dosiahnutie však
+bude potrebné splniť niekoľko sekundárnych cieľov. Tieto sekundárne ciele sú nasledovné:
+1. Preskúmanie teoretických východísk v oblasti používateľskej skúsenosti
+a nákupného správania na internete: Tento krok sa zameria na zozbieranie
+relevantných teórií a konceptov, ktoré nám umožnia pochopiť princípy
+používateľskej skúsenosti. Teoretické východiská sa stanú základom pre ďalšiu
+analýzu a interpretáciu používateľských interakcií s webom.
+2. Podrobná analýza skúmaného e-shopu mobilmarket.sk: Tento cieľ sa bude
+venovať hodnoteniu aktuálneho stavu webovej stránky, jej funkcionality, dizajnu
+a celkovej navigácie. Uskutočníme analýzu silných a slabých stránok z hľadiska
+používateľskej skúsenosti, čo nám umožní určiť oblasti, ktoré potrebujú zlepšenie.
+3. Výber vhodných respondentov pre testovanie: Dôležitým krokom je definovať,
+koho môžeme považovať za návštevníka e-shopu a ktorí z nich spĺňajú požiadavky
+pre účasť v užívateľskom teste.
+4. Realizácia užívateľského testovania: V tomto kroku budeme testovať interakciu
+používateľov s nákupným procesom na webe. Testovaním získame konkrétne
+
+34
+
+informácie o tom, aké problémy a prekážky používateľom bránia v dokončení
+nákupu. Tieto dáta nám umožnia identifikovať kritické oblasti pre zlepšenie.
+5. Analýza získaných dát z užívateľských testov: Po uskutočnení testovania bude
+nasledovať podrobná analýza zozbieraných dát. Na základe tejto analýzy
+identifikujeme konkrétne problémy, ktoré ovplyvňujú UX, a navrhneme konkrétne
+riešenia, ako tieto problémy odstrániť a vylepšiť celkový proces.
+6. Návrh vylepšenej verzie webovej stránky pomocou wireframu: Na základe
+výsledkov analýzy vytvoríme wireframe , ktorý bude obsahovať návrh vylepšenej
+verzie webovej stránky. Tento návrh bude reflektovať potreby používateľov
+a odporúčania na zlepšenie používateľského zážitku s cieľom
+
+znížiť počet
+
+opustených nákupov.
+
+35
+
+3
+
+METODIKA PRÁCE
+V kapitole metodiky práce predstavíme objekt skúmania, ktorý sme si zvolili
+
+pre našu diplomovú prácu. Následne popíšeme výskumné metódy a postupy,
+ktoré použijeme na dosiahnutie stanovených cieľov a uvedieme zdroje, z ktorých sme čerpali
+kľúčové teoretické poznatky v oblasti používateľskej skúsenosti.
+
+3.1
+
+Charakteristika objektu skúmania
+V rámci diplomovej práce skúmame internetový obchod NOVA Mobil. Presnejšie
+
+URL e-shopu znie mobilmarket.sk. Ide o internetový obchod špecializujúci sa na predaj
+mobilných telefónov a príslušenstva. V ponuke nájdeme výber produktov od troch
+renomovaných značiek: Xiaomi, Samsung a Apple. Okrem internetového predaja
+prevádzkuje firma aj kamenné predajne v Turzovke a v Čadci. Spoločnosť poskytuje
+aj servisné služby.
+Medzi doplnkové služby
+
+patrí možnosť zakúpiť darčekové poukážky,
+
+ktoré si zákazníci môžu individuálne prispôsobiť. Fungujú formou formulára, kde je možné
+zvoliť ľubovoľnú hodnotu poukazu. Obchod taktiež ponúka partnerský program pre tých,
+ktorí majú záujem o spoluprácu. V kategórii „akciový tovar“ však momentálne žiadne
+zľavnené produkty nenájdeme, aj keď kategória je na webe dostupná.
+Ponuka e-shopu obsahuje, podľa nás, obmedzený sortiment mobilných telefónov
+a základného príslušenstva, kde sa vyskytujú aj isté nedostatky. Ako napr. kategória „smart
+watch“ obsahuje len jeden produkt, čo značne limituje výber, a v kategórii „PlayStation“ nie
+je, v čase skúmania, dostupný žiadny tovar, čo môže pôsobiť nedôverne.
+Skúmaný objekt má za sebou viac ako šesťročné skúsenosti v oblasti predaja
+mobilných zariadení a príslušenstva. Väčšinu tovaru, až 99 %, má skladom, čím zabezpečuje
+rýchle doručenie, ako uvádza web, väčšinou už do 24 hodín od objednávky. V prípade
+akýchkoľvek otázok alebo požiadaviek je zákazníkom k dispozícii infolinka, ktorá ponúka
+potrebnú podporu a poradenstvo.
+
+36
+
+3.2
+
+Výskumné metódy a pracovné postupy
+Na dosiahnutie primárneho cieľa, teda zlepšenie používateľského zážitku e-shopu
+
+mobilmarket.sk a odstránenie prekážok, ktoré bránia k úspešnému ukončeniu nákupu
+na zabezpečenie požadovaných výsledkov budeme pracovať s viacerými vedeckými
+metódami, a to najmä:
+Analýza nami vybraného objektu skúmania, teda e-shopu mobilmarket.sk,
+kde budeme skúmať a vyhľadávať jeho nedostatky, ktoré nám pomôžu pri vytváraní úloh
+pre testované subjekty. Respondenti nám následne potvrdia, resp. vyvrátia naše
+presvedčenia. Krupa zdôrazňuje, že zlé vyhľadávanie vedie k frustrácii a opusteniu košíka.
+Webové texty by mali byť stručné a výstižné, pretože používatelia ich často len preletia.
+Kvalitné texty môžu ovplyvniť nákup, odlíšiť sa od konkurencie a zlepšiť výsledky
+vo vyhľadávačoch. Košík by mal zobrazovať produkty, umožňovať zmenu množstva,
+odstránenie tovaru a plynulú navigáciu do objednávky. Formuláre, ako kľúčová časť
+objednávkového procesu, musia byť jednoduché, prehľadné a nevyžadovať zbytočné údaje.
+(Krupa, 2018). Preto sme sa rozhodli testovať domovskú stranu, kde sa väčšinou
+vyhľadávanie nachádza. Ďalším dôvodom je aj to, že ide o prvú interakciu, teda prvý dojem
+zo strany zákazníka. Následne budeme skúmať aj produktovú a stránku kategórií.
+V poslednom procese nakupovania ide o objednávací proces, preto sme sa rozhodli ho
+taktiež preskúmať.
+Definovanie cieľovej skupiny a výskumnej vzorky je nevyhnutné na pochopenie,
+kto je potenciálnym zákazníkom navštevujúci danú webovú stránku. Na základe týchto
+poznatkov určíme, na ktorých jednotlivcoch bude potrebné realizovať užívateľské
+testovanie. Výber respondentov prebieha zámerným spôsobom, aby boli na testovanie
+zvolené osoby, ktoré najlepšie reprezentujú cieľovú skupinu. Na tento účel vyberieme 5
+respondentov, pričom testovanie sa zameria na identifikáciu nedostatkov vo fungovaní
+stránky z pohľadu používateľskej skúsenosti. Murár vo svojej publikácii uvádza,
+že optimálny, resp. maximálny počet respondentov na testovanie použiteľnosti je 5.
+Podľa neho tento počet postačuje a nie je nevyhnutné zapojiť väčšie množstvo, pretože tento
+počet je dostačujúci na identifikáciu väčšiny chýb a nedostatkov. (Murár, 2021).
+Demografické údaje sú dôležitým aspektom pri definovaní cieľovej skupiny.
+Článok uvádza, že nakupuje online až 88 % populácie vo veku 15 - 25 rokov. Tento vysoký
+podiel ukazuje, že nakupovanie cez internet sa stalo bežnou aktivitou pre širokú časť
+37
+
+dospelej populácie. Zaujímavé je, že sa očakávalo, že online nákupy budú preferované
+predovšetkým mladšími ľuďmi, avšak tieto údaje naznačujú, že nakupovanie cez e-shopy
+je rozšírené naprieč rôznymi vekovými skupinami, nielen medzi mladými. Týmto
+sa potvrdzuje rastúca dostupnosť a komfort, ktorý internetové obchody ponúkajú všetkým
+vekovým kategóriám. (Varga, 2022). Keďže ide o e-shop s elektronikou, ktorý nemá striktne
+určenú cieľovú skupinu možno tieto dáta aplikovať.
+Testovanie použiteľnosti patrí medzi najdôležitejšiu súčasť celého výskumu.
+Jeho dôležitosť pozostáva z pochopenia správania používateľov a jeho výsledky nám
+otvárajú príležitosti ako tento proces zlepšiť, aby bol, čo najintuitívnejší a bezbariérový.
+Toto testovanie použiteľnosti sa sústreďuje na pozorovanie správania výskumnej
+vzorky pri plnení predom určených úloh. Cieľom je sledovať, ako respondenti pristupujú
+k úlohám, s akými problémami sa stretnú a akú náročnosť im úlohy predstavujú. Testovanie
+sa zameriava na identifikáciu prekážok, ktoré môžu zákazníci zažiť pri nakupovaní na tejto
+stránke. Po dokončení úloh sa budeme pýtať respondentov, ako hodnotia náročnosť úloh
+na škále od 1 do 5 a zameriame sa na to, ktoré aspekty im robili najväčšie ťažkosti.
+Respondentov vyberieme pomocou osobných odporúčaní od známych a priateľov
+a aplikujeme zámerný výber, aby vyhovovali našim kritériám. Testovanie prebehne osobne,
+ale aj prostredníctvom video hovorov na platforme MS Teams. Testy budú moderované
+a nahrávané pomocou programu OBS, čo nám umožní sa k nahrávkam vrátiť a následne
+získané dáta analyzovať. Medzi sledované metriky patria:
+
+•
+
+Nedostatky alebo prekážky, s ktorými sa testujúci subjekt stretol pri plnení
+úloh.
+
+•
+
+Postup, akým testovaný subjekt dosiahol splnenie úlohy.
+
+•
+
+Hodnotenie náročnosti úlohy na stupnici od 1 do 5, kde 1 znamená
+jednoduchú úlohu a 5 predstavuje veľmi náročnú alebo ťažko splniteľnú
+úlohu.
+
+38
+
+Vytvorenie wireframe
+Po analýze získaných údajov navrhneme wireframe, ktorý bude zobrazovať
+vylepšenú verziu internetového obchodu mobilmarket.sk. Tento wireframe bude zahŕňať
+kľúčové nedostatky identifikované počas používateľského výskumu. Jeho hlavným cieľom
+je poskytnúť vizuálnu predstavu, ktorá bude reflektovať upravenú podobu webovej stránky
+s implementovanými zlepšeniami vyplývajúcimi z analýzy používateľskej skúsenosti.
+Wireframe bude vytvorený pomocou nástroja Figma.
+
+3.3
+
+Spôsob získavania údajov a ich zdroje
+Knižné publikácie zohrávali kľúčovú úlohu pri spracovaní časti metodiky práce,
+
+kde sme interpretovali zásadné poznatky potrebné pre analýzu a spracovanie výsledkov.
+Najvýznamnejšie zdroje, o ktoré sme sa opierali, sú knihy E-shop od nápadu po úspech:
+Kompletný sprievodca pre návrh, vývoj, rozbeh, rast a export úspešného internetového
+obchodu a Methods of Planning, Researching and Evaluating Websites. Tieto publikácie
+poskytli teoretický rámec aj praktické odporúčania na realizáciu výskumu a následné
+spracovanie jeho výstupov.
+Z elektronických zdrojov sme čerpali hlavne od zahraničných autorov. Tieto zdroje
+predstavovali významný prínos vďaka ich úrovni odbornosti, aktuálnosti a dôveryhodnosti.
+Zabezpečili prístup k detailným poznatkom, čím prispeli k obohateniu teoretického rámca.
+Vedecké články zohrali významnú úlohu pri rozširovaní a prehlbovaní teoretického
+základu našej práce, najmä v oblasti UX a tém s ňou súvisiacich. Tieto zdroje nám umožnili
+detailnejšie pochopiť princípy a metodológie UX a UX dizajnu, ako aj trendy a výzvy v tejto
+oblasti. Prevažná časť čerpaných poznatkov pochádzala zo zahraničných publikácií,
+ktoré poskytli kvalitný a aktuálny pohľad na problematiku.
+Užívateľský test predstavuje kľúčový nástroj na získanie najrelevantnejších
+a najhodnotnejších údajov, ktoré budú slúžiť ako základ pre tvorbu wireframu vylepšenej
+verzie webovej stránky. Testovanie bude zamerané na interakcie potenciálnych zákazníkov
+s webom, pričom sa zameriame na identifikáciu problémových oblastí a prekážok,
+ktoré respondenti na stránke zažijú. Získané dáta budú následne využité na odstránenie
+zistených nedostatkov a optimalizáciu používateľského zážitku, čo prispeje k zlepšeniu
+celkovej funkčnosti a prístupnosti stránky pre budúcich používateľov.
+39
+
+4
+
+VÝSLEDKY PRÁCE
+Táto kapitola sa sústredí na analýzu a vyhodnotenie údajov získaných
+
+od respondentov počas realizácie testovania použiteľnosti. Na základe týchto výsledkov
+pripravíme návrhy na optimalizáciu používateľskej skúsenosti na webovej stránke
+mobilmarket.sk, pričom sa zameriame na identifikáciu kľúčových problémov a možností ich
+odstránenia.
+
+4.1
+
+Analýza a určenie téz
+Domovská stránka e-shopu nedisponuje konzistentným a profesionálnym dizajnom,
+
+ktorý by korešpondoval so zvyškom webu. Ikony sú rozmazané a zle rozlíšené, čo vytvára
+dojem nedostatočnej kvality a narúša celkový estetický vzhľad stránky. Navigačná lišta
+navyše neumožňuje prekliknutie, napríklad na kontaktné informácie. Taktiež v hornej časti
+stránky je dostupná možnosť zobraziť obľúbené produkty, avšak systém nepripúšťa
+pridávanie produktov do tejto sekcie žiadnym spôsobom, čo môže obmedzovať
+používateľský komfort. E-shop aktuálne zobrazuje všetky dostupné značky priamo
+na hlavnej stránke bez predchádzajúcej kategorizácie, teda chýba kategória „Mobily,“
+ktorá by zjednodušila navigáciu pre používateľov hľadajúcich mobilné zariadenia. Úvodný
+slideshow je navrhnutý tak, aby lákal na interakciu, avšak jeho funkčnosť je obmedzená len
+na manuálne posúvanie medzi fotografiami. Tento prvok tak neplní očakávaný cieľ
+navigácie a motivácie k akcii. Z hľadiska vizuálnych detailov sú medzi obrázkami medzery
+a nevhodný tieňový efekt, ktorý nezodpovedá grafickým štandardom profesionálneho
+e-shopu a pôsobí neesteticky. Súčasťou rozhrania je aj okno cookies umiestnené v ľavom
+dolnom rohu, ktoré farebne a dizajnovo nekorešponduje s ostatnými prvkami stránky,
+čo ešte viac narúša vizuálnu konzistenciu. (viď. obr. č.7).
+
+40
+
+Obrázok 7 Domovská stránka (mobilmarket.sk, 2024).
+
+Filtračné možnosti produktovej stránky e-shopu sú aktuálne navrhnuté neefektívne
+a používateľsky neprívetivo. Rovnaký filtračný panel je prítomný na hlavnej
+aj na produktovej stránke, čo vedie k zbytočnej duplicite a nepomáha používateľom
+efektívne zužovať výber produktov podľa ich špecifických požiadaviek. Napríklad chýba
+detailnejšia filtračná možnosť, ktorá by umožňovala užívateľom určiť konkrétne modely
+alebo verzie, napríklad rôzne modely mobilných telefónov, čo by zvýšilo presnosť
+vyhľadávania. Ďalšou prekážkou pre rýchly a pohodlný nákup je absencia tlačidla „Pridať
+do košíka“ priamo pri produkte. Namiesto toho musí užívateľ najskôr kliknúť na tlačidlo
+„Viac,“ ktoré ho presmeruje na detail produktu, kde sa až následne zobrazí možnosť vloženia
+do košíka. Tento krok navyše komplikuje nákupný proces a môže viesť k frustrácii
+užívateľov, ktorí očakávajú okamžitú možnosť pridania produktov do košíka bez ďalšieho
+klikania. (viď. obr. č.8).
+
+41
+
+Obrázok 8 Stránka kategórií (mobilmarket.sk, 2024).
+
+Na stránke náhľadu produktu sú odporúčané produkty umiestnené priamo pod
+hlavným produktom, zatiaľ čo stručný popis sa nachádza až nižšie na stránke a podrobnejší
+popis je umiestnený úplne na konci stránky. Toto rozloženie spôsobuje, že základné
+informácie o produkte sú pre používateľov menej dostupné, čo môže znížiť ich komfort
+pri prehliadaní a rozhodovaní. Navyše, odporúčané produkty používajú odlišný grafický
+štýl, ktorý nie je v súlade so zvyškom stránky. Tlačidlo „Do košíka“ je napríklad zaoblené,
+zatiaľ čo rámček produktu je hranatý, čo narúša vizuálnu konzistenciu a môže pôsobiť
+neprofesionálne. Tento nesúlad medzi prvkami môže návštevníkov vizuálne dezorientovať
+a narušiť celkový estetický dojem stránky. Fotografie produktov sú tiež limitované
+z hľadiska interaktivity, pretože neumožňujú prekliknúť sa na náhľad produktu. Používateľ
+sa na detail produktu dostane len prostredníctvom názvu produktu alebo tlačidla
+„Do košíka.“ Táto absencia funkcie kliknutia na obrázok môže znížiť intuitívnosť ovládania,
+keďže mnohí používatelia očakávajú možnosť prekliknúť sa na detailnú stránku práve
+prostredníctvom obrázka. (viď. obr. č.9).
+
+42
+
+Obrázok 9 Produktová stránka (mobilmarket.sk, 2024).
+
+Po pridaní produktu do košíka sa náhľad jeho obsahu automaticky nezobrazí,
+čo znamená, že používateľ musí manuálne kliknúť na lištu, aby videl svoj výber. Tento
+proces nákup spomaľuje, pretože namiesto plynulého prehľadu vyžaduje zbytočné kroky
+navyše. Navyše, samotná ikona košíka na stránke nereaguje priamo a pri pokuse
+o jej využitie musí používateľ kliknúť na nápis „Zobraziť košík“ v náhľade, čo môže byť
+pre niektorých zákazníkov mätúce a neintuitívne. Ďalší nedostatok sa týka úpravy počtu
+položiek. Množstvo jednotlivých produktov nie je možné meniť priamo v náhľade košíka.
+Používateľ sa musí prekliknúť do plného zobrazenia košíka, aby mohol upraviť množstvo
+produktov, čo pridáva ďalší krok a môže viesť k frustrácii. Absencia priamej možnosti
+upravovať množstvo už pri zobrazení náhľadu predlžuje nákupný proces, čo môže mať
+negatívny vplyv na celkový užívateľský zážitok. (viď. obr. č.10).
+
+43
+
+Obrázok 10 Náhľad košíka (mobilmarket.sk, 2024).
+
+Na stránke košíka musí používateľ manuálne prepísať množstvo produktov
+v textovom poli a následne kliknúť na tlačidlo „Aktualizovať košík,“ aby sa zmena prejavila.
+Táto funkčnosť by mohla byť nastavená automaticky, čím by používateľ nemusel vykonávať
+ďalší krok, ktorý spomaľuje proces úprav a zbytočne odčerpáva jeho čas. Dizajn košíka
+pôsobí pomerne prázdne, a preto by priestor na tejto stránke mohol byť lepšie využitý
+na prezentovanie ďalších informácií či odporúčaných produktov. Minimalistický vzhľad síce
+môže byť zámerný, no nadmerné prázdne plochy vytvárajú dojem nevyužitého potenciálu
+stránky. Pri odstránení produktu z košíka chýba upozornenie, ktoré by používateľa vyzvalo
+na potvrdenie akcie. Produkt sa jednoducho odstráni bez akéhokoľvek potvrdenia, čo môže
+viesť k nechcenému vymazaniu položky. Táto absencia potvrdzovacieho kroku zvyšuje
+riziko chybných úkonov a môže negatívne ovplyvniť nákupný proces a spokojnosť
+zákazníka. (viď. obr. č.11).
+
+44
+
+Obrázok 11 Stránka košíka (mobilmarket.sk, 2024).
+
+Registračný formulár na stránke umožňuje používateľom zadať údaje s chybami bez
+toho, aby ich systém upozornil na prípadné nedostatky. Pri zadávaní telefónneho čísla
+napríklad chýba validácia, ktorá by používateľa upozornila na nesprávny formát alebo
+neúplné číslo. Podobne, pri zadávaní e-mailovej adresy nie sú používateľom poskytované
+upozornenia na chyby v zápise, čo môže viesť k neplatným údajom a neskorším problémom
+s komunikáciou. Pri vytváraní hesla nie sú v registračnom formulári uvedené žiadne
+požiadavky na minimálnu silu hesla – používateľ tak nie je informovaný, aké kritériá musí
+heslo spĺňať, aby bolo dostatočne bezpečné. Absencia týchto informácií zvyšuje riziko
+zadania slabo zabezpečeného hesla, čo môže ohroziť bezpečnosť účtu a celého systému.
+Tento nedostatok v registrácii môže znížiť používateľskú spokojnosť a tiež prispieť k nižšej
+bezpečnosti používateľských účtov. (viď. obr. č.12).
+
+Obrázok 12 Registračný formulár (mobilmarket.sk, 2024).
+
+V záverečnej fáze nákupného procesu, konkrétne pri vypĺňaní objednávkového
+formulára, sa opakujú problémy podobné tým, ktoré sa vyskytujú v registračnom procese.
+Formulár umožňuje používateľom zadávať údaje s chybami, čo môže viesť k neúplným
+45
+
+alebo nesprávnym informáciám. Napríklad, systém nevaliduje polia pre meno a priezvisko,
+takže používateľ ich môže ľahko zameniť. Formulár tiež akceptuje neexistujúce alebo
+nesprávne adresy, čo zvyšuje riziko doručovacích komplikácií. Ďalším nedostatkom
+je neobmedzená dĺžka poštového smerovacieho čísla, ktoré nie je nastavené na maximálne
+5 znakov, Táto absencia validačných pravidiel umožňuje zadať napr. neplatné PSČ, čo môže
+negatívne ovplyvniť presnosť doručenia a znižuje profesionalitu celého nákupného procesu.
+(viď. obr. č.13).
+
+Obrázok 13 Objednávací formulár (mobilmarket.sk, 2024).
+
+V ďalšom kroku nákupného procesu, kde si používateľ vyberá spôsob doručenia,
+je možnosť „Packeta“ zvýraznená a odlíšená od ostatných možností. Tento spôsob
+je vizuálne zvýraznený ikonou, čo môže vytvárať dojem preferovanej alebo prednastavenej
+voľby. Tento prístup však môže byť mätúci, pretože Packeta by mala byť súčasťou širšej
+kategórie „Doručenie“ a nie samostatne vyčlenená ako samostatná kategória. Týmto
+spôsobom dochádza k narušeniu konzistentnosti kategorizácie a môže to spôsobiť zbytočné
+zmätky pre používateľov, ktorí očakávajú jednotné zobrazenie možností doručenia bez
+nejasných vizuálnych rozdielov medzi nimi. (viď. obr. č.14).
+
+46
+
+Obrázok 14 Možnosti dopravy (mobilmarket.sk, 2024).
+
+Na základe našich zistení a identifikovaných nedostatkov stránky sme v nasledujúcej
+podkapitole vypracovali otázky a úlohy, ktoré preveria jednoduchosť a efektívnosť
+navigácie z perspektívy potenciálnych zákazníkov. Cieľom týchto úloh je preveriť,
+do akej miery je navigácia používateľsky prístupná a či umožňuje plynulý a intuitívny pohyb
+v rámci nákupného procesu.
+
+4.2
+
+Testovanie subjektov
+V rámci výskumu sme sa rozhodli pre kvalitatívnu metódu, pričom sme stanovili
+
+vzorku pozostávajúcu z piatich respondentov. Prvým krokom bol tzv. pilotný test, ktorého
+cieľom bolo overiť pripravené úlohy a identifikovať možné nedostatky v ich formulácii.
+Keďže pilotné testovanie prebehlo úspešne a nenaznačilo potrebu úprav, rozhodli
+sme sa zahrnúť pilotného respondenta do celkovej vzorky. Úlohy pre testovanie boli
+navrhnuté tak, aby simulovali reálne situácie, s ktorými sa používatelia pri nákupe môžu
+stretnúť. Súčasťou testovania boli aj pre-testové a post-testové otázky, ktoré umožnili hlbšiu
+analýzu používateľskej skúsenosti. Scenár testu obsahoval konkrétne nákupné úlohy, pričom
+cieľom bolo preskúmať, ako účastníci tieto úlohy vykonávajú, s akými problémami
+
+47
+
+sa stretávajú a ako hodnotia celkový proces. Nižšie sa nachádzajú otázky a úlohy,
+ktoré sme spomínali:
+Pre-test otázky:
+Skôr než začneme nás zaujíma ako funguje vaše elektronické nakupovanie.:
+1. Nakupujete skôr prostredníctvom mobilu alebo desktop verzie, teda PC?
+2. Popíšem Vám situáciu, v ktorej sa nachádzate:
+Blížia sa Vianoce, a vy ste sa rozhodli, že chcete kúpiť nový mobilný telefón
+pre vašu mamu, pretože jej terajší mobil je už starý a nie v dostačujúcej kondícií.
+Berte preto ohľad, že chcete mobil strednej cenovej kategórií, teda nič pre náročných
+používateľov.
+3. Navštívte webovú stránku,
+teda e-shop, ktorý máte uvedený na papieriku, ktorý je pripravený pred vami
+pri klávesnici.
+4. Aký je váš prvotný pocit z domovskej strany?
+Hl. úlohy:
+1. Vytipujte si 3 mobily, ktoré môžu spĺňať vaše požiadavky
+(Prezrite a porovnajte si technické parametre, teda podrobnosti vybraných mobilov,
+vrátane recenzií a hodnotení od zákazníkov).
+2. Vyberte si jeden, ktorý vás zaujal najviac
+Vložte vybraný mobil do košíka a skontrolujte ho, či bol produkt úspešné pridaný.
+3. Nájdite k mobilu vhodné ochranne puzdro a pridajte ho k objednávke.
+4. Nájdite k mobilu aj ochranné sklo. Ak sú tieto možnosti dostupné, zistite,
+či sa dané sklo dá aj rovno namontovať.
+5. V košíku zmeňte počet ochranných skiel na 2 alebo 3 ks.
+(Podľa uváženia, povedzme, že ich chcete mať do zálohy).
+6. Odstráňte vami vybrané puzdro a vyberte iné.
+(Povedzme, že ste sa rozmysleli a nechcete nové, ale to, ktoré ste už mali v košíku.)
+7. Prejdite do ďalšieho nákupného procesu,
+Dokončite svoju objednávku.
+
+48
+
+Post-test otázky:
+1. Akú obťažnosť, pre Vás predstavovali úlohy?
+Kde použite stupnicu od 1-5, kde 1 je najjednoduchšia a 5 najťažšia.
+2. Ako hodnotíte samotný proces pridávania produktov do košíka a pokračovania
+v nákupe?
+3. Cítili ste, že vám tento e-shop poskytol všetko, čo ste potrebovali, aby ste sa
+mohli rozhodnúť a dokončiť nákup?
+
+4.2.1 Testovanie použiteľnosti
+V rámci testovania použiteľnosti sme analyzovali správanie a skúsenosti piatich
+subjektov pri interakcii s testovaným e-shopom. Na základe pre-testových otázok,
+vykonaných úloh a post-testových otázok sme identifikovali kľúčové problémy a rozdiely
+v ich vnímaní. Výsledky sumarizujú spoločné nedostatky, na ktoré subjekty poukazovali,
+ako aj individuálne odlišnosti v hodnotení jednotlivých aspektov nákupného procesu.
+Tieto poznatky poskytujú ucelený pohľad na použiteľnosť a identifikujú oblasti na zlepšenie.
+
+Pre-test otázky
+Testovaní používatelia pri online nakupovaní často kombinujú mobilné zariadenia
+a počítače. Mobil využívajú na vyhľadávanie a porovnávanie produktov, pretože ho majú
+vždy pri sebe, pričom ocenia aj rýchle platby cez Apple Pay alebo Google Pay.
+Pre náročnejšie a drahšie nákupy však preferujú počítače, ktoré poskytujú lepšiu
+prehľadnosť a umožňujú detailnejšie porovnanie produktov. Niektorí respondenti
+kombinujú zariadenia, teda produkty si vyhľadajú na počítači a nákup dokončia cez mobil.
+Prvotné pocity zo stránky testované subjekty mali takmer identické. Samotný e-shop na nich
+pôsobil jednoducho, resp. začiatočnícky. Veľkým problémom bol tzv. slideshow,
+ktorý zaberal väčšiu časť webu. Konkrétna chyba spočívala v absencií interakcie tohto okna.
+Za ďalší problém považovali informácie, ktoré sú súčasne umiestnené pod spomínaným
+slideshow. Pôsobili ako reklama, ako banner, ktorý priamo nepatrí k stránke.
+
+49
+
+Úloha č.1
+Prvá úloha poukázala na viaceré nedostatky e-shopu, ktoré ovplyvňovali výber
+a porovnávanie produktov. Väčšina používateľov (4) očakávala prehľadnejšiu kategorizáciu,
+napríklad samostatnú sekciu „Mobilné telefóny,“ pričom by následne mohli filtrovať
+produkty podľa značiek, cenového rozpätia či technických parametrov. Súčasný systém,
+ktorý rozdeľuje produkty priamo podľa značiek, pôsobil na testovaných netypicky. Chýbali
+pokročilé filtre, ako možnosť výberu konkrétnych parametrov, napríklad RAM, kapacita
+úložiska či veľkosť displeja. Testovaní používatelia (5) považovali absenciu nástroja
+na porovnávanie produktov za veľký nedostatok. Tento problém ich nútil manuálne otvárať
+produkty v rôznych kartách a porovnávať ich vlastným spôsobom, čo znižovalo efektivitu
+nákupu. Technické parametre boli ťažšie na dohľadanie. Chýbali stručné, ale dôležité
+informácie pri produktoch, ako napríklad rozmery, kapacita batérie či kvalita fotoaparátu.
+Sekcia, ktorá sa nachádzala pod produktom, teda „Odporúčané produkty“ navyše často
+odvádzala pozornosť od samotných parametrov a pôsobila rušivo.
+
+Úloha č.2
+Druhá úloha poukázala na komplikácie pri procese pridávania a kontroly produktu
+v košíku. Hlavným problémom bola ikona košíka, ktorá po kliknutí nepresmerovala
+používateľov priamo do košíka, ale zobrazila iba jeho náhľad. Tento systém bol viacerými
+subjektmi (4) vnímaný ako zavádzajúci, čo spôsobilo frustráciu, najmä keď očakávali
+jednoduchší prístup. Niektorí používatelia (2) potrebovali viaceré kroky na to, aby sa dostali
+k podrobnostiam, čo hodnotili ako nepraktické. Jediný používateľ, ktorý vnímal aktuálny
+systém náhľadu košíka ako pozitívny, ocenil jeho prehľadnosť a považoval dodatočný krok
+za prirodzený.
+
+Úloha č.3
+V tretej úlohe narazili používatelia na viaceré problémy. Hlavným nedostatkom bola
+absencia podkategórií v sekcii príslušenstva, ktoré by umožnili filtrovať produkty podľa
+modelu telefónu. Všetci testovaní používatelia museli produkty manuálne prehľadávať,
+čo bolo časovo náročné a neprehľadné. Niektorí (2) použili vyhľadávanie na hornej lište,
+no zvyšní (3) si jej prítomnosť ani nevšimli, pravdepodobne kvôli jej nenápadnosti.
+Ďalším problémom bolo zobrazenie farebných variant krytov ako samostatných produktov
+50
+
+namiesto možnosti výberu farby na produktovej stránke. Viacerých používateľov (3) tiež
+sklamal obmedzený výber krytov, ktorý nezodpovedal ponuke mobilov. Celkovo výber
+a pridávanie puzdra nebol intuitívnym procesom.
+
+Úloha č.4
+V štvrtej úlohe sa používatelia stretli s niekoľkými problémami. Väčšina
+používateľov (3) intuitívne hľadala sklo v sekcii odporúčaných produktov alebo v kategórii
+príslušenstva, no informácie o možnosti montáže chýbali. Niektorí používatelia (2) sa snažili
+získať tieto informácie pri prezeraní produktov alebo cez sekciu „Servis mobilov“, žiaľ bez
+úspechu. Subjekt 1 a subjekt 2, sa pokúšali nájsť informácie o montáži priamo pri produkte,
+ale neúspešne. Subjekt 3 videl problém pri ilustračných fotografiách. Tie neboli adekvátne,
+pretože neposkytovali dostatočné informácie.
+
+Úloha č.5
+V piatej úlohe používatelia narazili na niekoľko nedostatkov v používateľskom
+rozhraní. Väčšina subjektov (4) kritizovala absenciu tlačidiel „+“ a „–“ na jednoduché
+pridávanie alebo odoberanie množstva, čo by proces spríjemnilo a urýchlilo. Namiesto toho
+boli nútení zadávať počet manuálne, čo považovali za nepraktické. Používatelia tiež
+poukazovali na potrebu potvrdiť zmeny prostredníctvom kliknutia na tlačidlo „Aktualizovať
+košík“. Tento dodatočný krok mnohým spomaľoval proces a niektorí (2) si zmenu nevšimli,
+až kým neoverili cenu. Subjekt 2 napríklad omylom opustil košík bez aktualizácie,
+čo ho donútilo úpravu zopakovať. Subjekt 5 očakával, že cena sa automaticky upraví
+po zmene množstva, čo sa však nestalo. Hoci pre subjekt 3 bol proces bezproblémový,
+aj on poznamenal, že pridanie tlačidiel na úpravu počtu by bolo intuitívnejšie. Všeobecne
+používatelia vnímali manuálne zadávanie počtu ako zastarané a menej komfortné,
+pričom preferovali riešenia, ktoré sú dnes považované za štandard.
+
+Úloha č.6
+V šiestej úlohe mali používatelia rôznorodé skúsenosti. Subjekt 1 narazil na problém
+pri opätovnom nájdení odstráneného produktu, keďže stránka neposkytovala možnosť
+zobraziť históriu odstránených alebo prezeraných produktov. Musel sa preto vracať na kartu
+51
+
+mobilu a puzdro vyhľadať medzi odporúčanými produktmi. Subjekt 2 ocenil funkčnosť
+tlačidla „X“ na odstránenie produktu, no navrhol alternatívu v podobe nastavenia počtu
+na nulu, čo by bolo pre neho intuitívnejšie. Skúšal tiež zmenu vrátiť pomocou klávesovej
+skratky CTRL + Z, tá však nefungovala. Pre subjekt 3 a subjekt 4 bol proces odstránenia
+a opätovného pridania produktu jednoduchý, keďže si pamätali kroky potrebné na jeho
+opätovné vyhľadanie. Subjekt 5, ktorý namiesto puzdra pracoval s ochranným sklom,
+nepociťoval
+
+potrebu histórie odstránených
+
+produktov.
+
+Navrhol však zlepšenie.
+
+A to zobrazovanie odporúčaných produktov priamo v košíku, čo by uľahčilo pridávanie
+ďalších položiek.
+
+Úloha č.7
+V siedmej úlohe sa objavili rôzne skúsenosti a pripomienky. Subjekt 1 poukázal
+na neintuitívnu navigáciu pri zadávaní údajov, teda očakával postupné kroky namiesto
+rozloženia vedľa seba. Chýbalo mu automatické dopĺňanie PSČ na základe zadaného mesta
+a vizuálne potvrdenie správnosti údajov (napr. zelená ikona potvrdenia). Pri výbere
+doručenia sa nepozdávalo oddelenie Packety ako samostatnej kategórie, či obmedzené
+možnosti platby. Subjekt 2 vyplnil fakturačné údaje bez väčších problémov, no zdržal
+sa pri výbere platby, kde očakával známe ikony bánk a platobných metód. Subjekt 3 proces
+hodnotil ako hladký a intuitívny, bez rušivých elementov. Subjekt 4 tiež prešiel nákupným
+procesom bez problémov, avšak zaujalo ho, že Packeta mala ako jediná ikonu a bola
+oddelená od ostatných spôsobov doručenia, čo považoval za neštandardné. Subjekt 5
+si nevšimol tlačidlo priameho prechodu do pokladne vedľa náhľadu košíka. Uvítal
+by oddelenie sekcie pre firemné údaje a automatické dopĺňanie PSČ na základe mesta.
+Pri platbe kartou očakával známe možnosti ako Visa alebo TatraPay. Názov „GP webpay“
+mu pripadal neznámy a podozrivý, čo v ňom vyvolalo pochybnosti, aby vôbec pokračoval
+v nákupe. Spoločnými nedostatkami boli nejasnosti pri zadávaní údajov, obmedzené
+možnosti platby, absencia automatizácie pri vypisovaní fakturačných údajov a mätúce
+označenie možností dopravy a platby. Používateľov by potešila väčšia prehľadnosť,
+automatické funkcie a vizuálne prvky potvrdzujúce správnosť údajov.
+
+52
+
+Post-test otázky
+Po testovaní jednotlivé subjekty hodnotili úlohy na škále od 1 (najjednoduchšia)
+po 5 (najťažšia). Subjekt 1 označil prvú úlohu za najťažšiu kvôli zdĺhavému porovnávaniu
+produktov, hľadaniu recenzií a neprehľadnému odporúčaniu. Siedma úloha bola tiež
+problematická pre komplikácie so zadávaním adresy, PSČ a výberom spôsobu platby. Celý
+proces pridávania do košíka a nákupu vnímal ako zdĺhavý, neprehľadný a chýbali
+mu funkcie ako recenzie či porovnávanie produktov. Subjekt 2 mal najväčší problém s treťou
+úlohou, kde mu chýbali podkategórie a prehľadnosť pri hľadaní produktov. Kritizoval
+aj málo intuitívny proces kontroly košíka a neprehľadnú hlavnú stránku. Subjekt 3 považoval
+úlohy väčšinou za jednoduché, no pri tretej úlohe absentovali podrobné kategórie a mal
+problémy s nejasnými informáciami. Celkovo hodnotil proces neutrálne, no upozornil
+na neprehľadnosť produktov a chýbajúce filtre. Subjekt 4 kritizoval prvé dve úlohy
+pre náročnosť orientácie a nedostatok filtrov, zatiaľ čo ďalšie úlohy považoval
+za jednoduché. Celkový dojem bol negatívny, aj vďaka slabej dôveryhodnosti stránky.
+Subjekt 5 mal najviac problémov s obmedzenou ponukou produktov, komplikovanými
+filtrami a manuálnym nastavovaním množstva. Stránku vnímal ako zanedbanú
+a neintuitívnu, pričom celý proces označil za chaotický a neuspokojivý.
+
+4.2.2 Závery z testovania
+Na základe získaných dát môžeme usúdiť, že webová stránka mobilmarket.sk
+dosahuje podpriemernú úroveň z hľadiska používateľského zážitku, keďže všetci
+respondenti (okrem jedného) vyjadrili značnú nespokojnosť, čo možno podložiť týmito
+výsledkami. V nasledujúcej tabuľke uvádzame hodnotenie úloh, ktoré testovaní účastníci
+plnili.
+
+53
+
+Tabuľka 1
+
+Hodnotenie náročnosti úloh podľa testovaných subjektov
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+Úloha 1
+
+5
+
+4
+
+1
+
+4
+
+4
+
+Úloha 2
+
+2
+
+2
+
+1
+
+4
+
+1
+
+Úloha 3
+
+2
+
+5
+
+5
+
+2
+
+5
+
+Úloha 4
+
+2
+
+1
+
+5
+
+1
+
+2
+
+Úloha 5
+
+3
+
+3
+
+3
+
+2
+
+5
+
+Úloha 6
+
+2
+
+1
+
+2
+
+1
+
+1
+
+Úloha 7
+
+4
+
+2
+
+2
+
+2
+
+5
+
+zdroj: (vlastné spracovanie, 2024).
+
+Prvá úloha dosiahla priemerné hodnotenie 3,6. Napriek tomu ju až 80 %
+respondentov označilo za nadpriemerne náročnú, čo naznačuje, že pre väčšinu predstavovala
+výraznú výzvu. Len jeden z testujúcich respondentov ju hodnotil ako jednoduchú, čo znížilo
+celkový priemer. Avšak náročnosť úlohy to neznižuje. Priemerné hodnotenie druhej úlohy
+bolo 2, čo svedčí o jej nízkej náročnosti. Iba jeden respondent ju vnímal ako náročnú,
+čo poukazuje na jej prevažne jednoduchý charakter. Tretia úloha dosiahla priemerné
+hodnotenie 3,8, čo naznačuje, že väčšina testovaných ju považovala za náročnejšiu. Štvrtá
+úloha dosiahla priemerné hodnotenie 2,2, čo naznačuje jej pomerne jednoduchý charakter.
+Závažnejší problém s ňou mal iba jeden respondent. Piata úloha dosiahla priemerné
+hodnotenie 3,2, čo poukazuje na mierne nadpriemernú náročnosť. Šiesta úloha dosiahla
+priemerné hodnotenie 1,4, čo naznačuje, že išlo o mimoriadne jednoduchú úlohu,
+ktorú úspešne zvládli všetci respondenti. Posledná, siedma úloha dosiahla priemerné
+hodnotenie 3, čo predstavuje takmer presný stred hodnotiacej škály. Tento výsledok
+naznačuje, že nie všetci respondenti mali s úlohou problém, takže ju nemožno považovať
+za výrazne náročnú. Napriek tomu existuje priestor na zlepšenie. Graf uvedený na
+nasledujúcej stránke slúži na predstavu o náročnosti úloh. Podľa súčtu bodov jednotlivých
+
+54
+
+úloh vidíme, ktoré úlohy boli najľahšie, resp. najintuitívnejšie (najnižšie skóre), a ktoré
+najťažšie (najvyššie skóre).
+
+Obrázok 15 súčet hodnotenia náročnosti úloh. (vlastné spracovanie, 2024).
+
+Všetci účastníci testu sa zhodli na tom, že hlavnými problémami sú neprehľadná
+navigácia, neefektívne filtrovanie produktov a nedostatok možností pre porovnávanie
+produktov. Subjekty poukazovali na to, že absencia funkcie na porovnávanie viacerých
+modelov, neschopnosť filtrovať produkty podľa špecifických parametrov (napríklad modelu
+telefónu alebo podkategórie) a nejasná štruktúra kategórií zbytočne komplikovali nákupný
+proces a spôsobovali frustráciu. To malo za následok to, že hľadanie konkrétnych produktov
+alebo príslušenstva sa stávalo časovo náročným a neefektívnym. Ďalším spoločným
+problémom bol chaotický dizajn stránky, ktorý ovplyvnil celkovú orientáciu a znížil
+intuitívnosť rozhrania.
+55
+
+Testované subjekty sa tiež zhodli v tom, že problémy sa vyskytli aj v oblasti košíka
+a objednávkového procesu. Viacerí účastníci testu sa sťažovali na neintuitívne rozhranie
+košíka, keď museli manuálne zadávať množstvo produktov a následne ho aktualizovať.
+Niektorí tiež poukázali na nefunkčné ikony, ktoré zhoršili užívateľskú skúsenosť napríklad
+aj pri výbere spôsobu platby a doručenia. Subjekt 2 navyše spomenul nefunkčnosť chatbota,
+ktorý by mohol pomôcť pri riešení problémov počas nákupu, čo ešte viac umocnilo jeho
+frustráciu.
+V oblasti informácií o produktoch existovali medzi subjektmi určité rozdiely v tom,
+ktoré detaily považovali za kľúčové. Subjekt 3 si napríklad sťažoval na nejasné fotografie a
+nedostatok informácií o produktoch. Podobne subjekt 5 spomenul, že chýbajúce podrobnosti
+o montáži ochranného skla spôsobovali zmätok pri rozhodovaní. Naopak, subjekt 4
+nezdôraznil tieto konkrétne problémy, ale skôr vyjadril nespokojnosť s absenciou recenzií,
+ktoré by mu pomohli pri rozhodovaní.
+Celkový dojem zo stránky bol u všetkých subjektov negatívny, pričom najviac im
+prekážali problémy s navigáciou, dizajnom a nedostatočnými informáciami o produktoch.
+Všetci sa zhodli, že e-shop neponúka dostatočne príjemný a efektívny zážitok, čo by ich aj
+napokon odradilo od uskutočnenia nákupu. Navyše, nákupný proces považovali za zbytočne
+zložitý a časovo náročný.
+
+56
+
+5
+
+NÁVRHY
+Táto kapitola obsahuje návrhy na optimalizáciu webovej stránky mobilmarket.sk,
+
+ktoré vychádzajú z dát získaných prostredníctvom testovania použiteľnosti realizovaného
+s piatimi respondentmi. Navrhované úpravy sú zamerané na zlepšenie používateľského
+zážitku a zahŕňajú takmer kompletný redizajn väčšej časti webu, keďže na základe analýzy
+sme dospeli k záveru, že aktuálny stav stránky nedosahuje požadovanú úroveň kvality.
+Vytvorený wireframe bude určený primárne pre stolné počítače a notebooky, pretože
+testovanie prebiehalo na týchto zariadeniach. Avšak navrhnuté riešenia sú prispôsobiteľné
+aj pre mobilné telefóny.
+
+5.1
+
+Optimalizácia domovskej strany
+V predchádzajúcej kapitole sme na základe vykonanej analýzy zistili, že domovská
+
+stránka má množstvo nedostatkov, ktoré boli identifikované nielen naším hodnotením,
+ale aj počas používateľského testovania. Tieto nedostatky sme následne zohľadnili v našich
+návrhoch. Keďže domovská stránka je prvým vizuálnym kontaktom zákazníka s webom,
+je mimoriadne dôležité, aby pôsobila atraktívne a funkčne. Jednou z prvých zmien bolo
+odstránenie hornej lišty, ktorá bola zbytočná, keďže si ju respondenti vôbec nevšimli. Okrem
+toho sme rozšírili vyhľadávacie pole tak, aby bolo vizuálne dominantnejšie a ľahšie
+identifikovateľné. Minimalisticky sme upravili ikonu nákupného košíka a možnosti profilu,
+ktoré teraz lepšie reflektujú požiadavky registrovaných používateľov. Ďalšia výrazná úprava
+sa týkala kategorizácie produktov. Pôvodne boli na domovskej stránke uvedené značky
+produktov, čo sa ukázalo ako menej prehľadné. V našom návrhu sme pred značkami
+uprednostnili širšie kategórie, ako sú „mobily“ alebo „herné konzoly“. Konkrétnu značku si
+zákazník vyberie až po prekliknutí do danej kategórie alebo pomocou filtra. Slideshow, ktorý
+testovaným subjektom spôsoboval problémy, prešiel drobnými úpravami. Hoci prezentácia
+nových produktov alebo ponúk prostredníctvom slideshow je dobrým nápadom, jeho
+aktuálna rýchlosť bola nevyhovujúca. Navrhujeme ju preto spomaliť a doplniť o interaktívne
+prvky, ako sú ikony zobrazujúce sa pri pohybe myšou, ktoré umožnia používateľovi
+manuálne ovládať prechod medzi obrázkami. Celý slideshow by mal byť interaktívny, nielen
+jeho tlačidlá ako „kúpiť teraz“. Dôležité informácie, ktoré zasahujú do slideshow, sme na
+základe spätnej väzby presunuli nižšie. Týmto krokom sa zníži ich rušivý efekt
+a minimalizuje sa dojem, že ide o nežiadaný obsah alebo reklamu. Ilustračné obrázky v tejto
+57
+
+sekcii navrhujeme nahradiť jednoduchými a intuitívnymi ikonami, ktoré budú vizuálne
+príjemné a ľahko pochopiteľné.
+
+Obrázok 16 Wireframe domovskej strany (vlastné spracovanie, 2024).
+
+5.2
+
+Optimalizácia stránky kategórií
+Pri stránke kategórií sme na ľavej strane nahradili zastaraný a duplicitný filter
+
+pokročilejšou verziou. Tento nový filter umožňuje zákazníkom presne špecifikovať svoje
+požiadavky, ako napríklad veľkosť displeja, kapacitu úložiska, operačnú pamäť, farebné
+prevedenie, a čo je najdôležitejšie pridali sme možnosť filtrovať produkty podľa cenového
+rozmedzia. Zároveň sme zaviedli funkciu porovnávania viacerých mobilných zariadení,
+ktorá je umiestnená v blízkosti filtra pre jednoduché a rýchle nájdenie. Rozloženie produktov
+je navrhnuté v minimalistickom štýle, čím sa zabezpečuje prehľadnosť. Pridali sme aj
+funkciu rýchleho vloženia produktu do nákupného košíka priamo z prehľadu produktov, bez
+nutnosti preklikávať sa na podrobnejší popis.
+
+58
+
+Obrázok 17 Wireframe stránky kategórií (vlastné spracovanie, 2024).
+
+5.3
+
+Optimalizácia produktovej stránky
+Pri návrhoch na zlepšenie produktovej stránky sme sa zamerali na identifikované
+
+nedostatky a pripomienky testovaných subjektov. Odstránili sme sekciu „odporúčané
+produkty“, ktorá bola vnímaná negatívne a pôsobila rušivo. Nahradili sme ju prehľadnou
+sekciou technických parametrov produktu, ktorá poskytuje relevantné a praktické
+informácie. Zároveň sme reagovali na spätnú väzbu ohľadom umiestnenia krátkeho popisu
+produktu, ktorý bol pre používateľov ťažko dostupný a neintuitívny. Navrhujeme preto jeho
+umiestnenie priamo vedľa ilustratívnych fotografií produktu, čím sa zabezpečí jeho
+okamžitá viditeľnosť a zlepší celková orientácia zákazníka na stránke. Ďalší problém sme
+identifikovali v kategóriách, kde boli varianty rovnakého modelu (napr. rôzne farby
+a kapacity úložiska) roztrúsené, čo spôsobovalo neprehľadnosť. Na jeho riešenie
+odporúčame implementovať možnosť výberu farby a úložiska priamo na produktovej
+
+59
+
+stránke pred pridaním do košíka. Tým sa proces nákupu výrazne zjednoduší a zákazníci
+sa vyhnú zdĺhavému vyhľadávaniu požadovaných parametrov.
+
+Obrázok 18 Wireframe produktovej stránky (vlastné spracovanie, 2024).
+
+5.4
+
+Optimalizácia upozorňovacieho okna
+Súčasný e-shop obsahuje oznámenie o úspešnom pridaní produktu do košíka, avšak
+
+jeho realizácia je príliš minimalistická a často si ju zákazníci ani nevšimnú.
+Preto navrhujeme implementáciu okna (popup), ktoré sa zobrazí okamžite po pridaní
+produktu do košíka. Toto okno by obsahovalo prehľadné možnosti ako „prejsť do košíka“
+alebo „pokračovať v nákupe“. Zvyšný priestor v popup okne navrhujeme využiť
+na zobrazenie odporúčaných produktov. Táto funkcia by mohla efektívne podporiť ďalší
+predaj a nahradiť súčasné riešenie, kde sú odporúčané produkty umiestnené priamo pod
+60
+
+produktom na stránke. Takéto zmeny by nielen zlepšili vizuálnu prehľadnosť,
+ale aj zefektívnili interakciu zákazníkov s webovou stránkou.
+
+Obrázok 19 Wireframe Popup okna (vlastné spracovanie, 2024).
+
+5.5
+
+Optimalizácia náhľadu košíka
+Pri optimalizácii zobrazenia náhľadu košíka sme vychádzali z vlastných analýz a
+
+spätnej väzby od testovaných subjektov. Zákazníci spravidla očakávali, že po kliknutí na
+ikonu košíka sa automaticky zobrazí stránka s obsahom nákupného košíka, no aktuálny
+systém poskytuje iba stručný náhľad. Navrhujeme zachovať funkciu náhľadu, avšak s
+upravenou interakciou. Náhľad by sa mal aktivovať automaticky pri prechode kurzorom
+myši nad ikonou košíka, bez nutnosti klikania. Ak by zákazník chcel vstúpiť na detailnú
+61
+
+stránku košíka, mohol by to urobiť kliknutím na samotnú ikonu. V rámci náhľadu košíka
+odporúčame pridať funkciu úpravy množstva priamo v tomto priestore, čo by zvýšilo jeho
+praktickosť. Súčasťou úprav je aj zavedenie vizuálneho indikátora na ikone košíka, ktorý by
+zobrazoval aktuálny počet položiek v košíku. Napríklad po pridaní jedného produktu,
+zobrazilo by sa číslo 1, ktoré by sa dynamicky aktualizovalo pri zmene obsahu košíka.
+
+Obrázok 20 Wireframe náhľadu košíka (vlastné spracovanie, 2024).
+
+5.6
+
+Optimalizácia nákupného košíka
+Pri optimalizácii stránky nákupného košíka sme sa zamerali na elimináciu prekážok,
+
+ktoré boli identifikované prostredníctvom používateľského testovania, pričom sme sa riadili
+princípmi minimalizmu. Aktuálny rozsiahly a detailný zoznam produktov v košíku sme
+zjednodušili na prehľadnejší formát, aby bolo používateľské rozhranie intuitívnejšie a menej
+62
+
+zaťažujúce. Ako kľúčovú úpravu sme pridali možnosť priamej zmeny množstva položiek
+priamo v košíku, čo reaguje na jeden z hlavných problémov, ktoré testovaní respondenti
+identifikovali. Voľný priestor sme efektívne využili na zobrazenie súhrnu objednávky,
+kde sme zároveň integrovali odporúčané produkty, ktoré sú dynamicky prispôsobené obsahu
+košíka, čím zvyšujeme pravdepodobnosť ďalšieho nákupu. V neposlednom rade
+sme implementovali výrazné a ľahko dostupné tlačidlo, ktoré zákazníka presmeruje
+na finálny krok a to objednávací proces.
+
+Obrázok 21 Wireframe nákupného košíka (vlastné spracovanie, 2024).
+
+63
+
+5.7
+
+Optimalizácia pokladne (dodacích informácii)
+Pri optimalizácii objednávacieho procesu sme sa zamerali na elimináciu
+
+nepríjemností, na ktoré testovaní používatelia upozornili. Prvým krokom bolo odstránenie
+hornej navigačnej lišty, ktorá v tejto fáze ponúkala možnosť výberu ďalších produktov.
+Túto funkciu sme vyhodnotili ako nadbytočnú a rušivú. Nahradili sme ju jednoduchou
+a prehľadnou navigáciou, ktorá zákazníkom zobrazuje, v ktorom kroku objednávacieho
+procesu sa práve nachádzajú. Ďalšia významná zmena sa týkala formulára na vyplňovanie
+údajov. Testovaní používatelia označili pole s názvom firmy za rušivé. Navrhujeme preto,
+aby zákazníci mohli už na začiatku procesu jasne špecifikovať, či nakupujú ako fyzická
+osoba alebo ako firma. Tento krok umožní zobraziť iba relevantné polia, čím sa predíde
+zbytočnému zmätku. Reagovali sme aj na podnet týkajúci sa nedostatočnej spätnej väzby
+pri chybách vo vyplňovaní údajov. Súčasná stránka nedokázala zákazníka efektívne
+upozorniť na nesprávne alebo neúplne vyplnené údaje. Navrhujeme zavedenie systému
+validácie polí v reálnom čase, ktorý bude zákazníka okamžite informovať o chybách.
+
+Obrázok 22 Wireframe pokladne, kolónka dodacie údaje (vlastné spracovanie, 2024).
+64
+
+5.8
+
+Optimalizácia pokladne (informácie o platbe a doprave)
+V rámci optimalizácie sekcie zadávania dopravy a platby sme rozšírili možnosti
+
+výberu, aby sme zákazníkom ponúkli širšie spektrum preferovaných alternatív. Každý
+variant dopravy a platby bol doplnený o logo konkrétneho poskytovateľa služby, čím sme
+zvýšili vizuálnu atraktívnosť a posilnili dôveryhodnosť jednotlivých možností. Použitie log
+poskytovateľov nielenže podporuje rýchlu identifikáciu jednotlivých služieb, ale zároveň
+vytvára pocit bezpečia a transparentnosti pri rozhodovaní zákazníkov. Táto vizualizácia
+môže eliminovať akékoľvek pochybnosti a uľahčuje orientáciu v ponúkaných alternatívach.
+Okrem estetických a praktických vylepšení navrhujeme aj jasné a prehľadné zobrazenie
+nákladov spojených s každou možnosťou. Tým sa znižuje pravdepodobnosť zmätku alebo
+nejasností a zákazník má k dispozícii všetky potrebné informácie pre informované
+rozhodovanie.
+
+Obrázok 23 Wireframe spôsobu platby a dopravy (vlastné spracovanie, 2024).
+
+65
+
+ZÁVER
+Naša diplomová práca sa zameriavala na analýzu používateľskej skúsenosti
+na webovej stránke mobilmarket.sk, so zameraním na identifikáciu bariér, ktoré vedú
+k predčasnému opusteniu nákupného procesu.
+V prvej kapitole sme sa venovali teoretickým východiskám, kde sme vysvetlili
+základné pojmy týkajúce sa používateľskej skúsenosti a jej významu v oblasti marketingu
+a online nakupovania. Podrobne sme sa zamerali na kľúčové faktory, ktoré ovplyvňujú
+úspešnosť UX v e-commerce a vysvetlili, ako tieto faktory súvisia s optimalizáciou
+používateľskej skúsenosti.
+V druhej kapitole sme sa zamerali na stanovenie hlavných a vedľajších cieľov
+diplomovej práce.
+Tretia kapitola sa venovala podrobnej charakteristike skúmaného objektu,
+teda webovej stránky mobilmarket.sk. V tejto časti sme opísali metodologické postupy,
+ktoré sme zvolili pre dosiahnutie stanovených cieľov. Zamerali sme sa na výber metód,
+ako aj na analýzu a zdroje informácií, ktoré sme použili pri spracovaní našich návrhov.
+V štvrtej kapitole sme sa venovali analýze a interpretácii údajov získaných
+prostredníctvom testovania použiteľnosti s piatimi respondentmi. Tieto údaje nám umožnili
+detailne pochopiť správanie používateľov a identifikovať oblasti, ktoré si vyžadovali
+zlepšenie.
+V záverečnej, piatej kapitole sme predstavili konkrétne riešenia a návrhy
+na optimalizáciu webovej stránky. Tieto návrhy zahŕňali vizuálne wireframy,
+ktoré predstavovali grafické koncepty zlepšení pre kľúčové časti stránky, ako sú hlavná
+stránka, produktová stránka, nákupný košík a objednávací formulár.
+Na záver môžeme potvrdiť, že naše testovanie použiteľnosti na webovej stránke
+mobilmarket.sk bolo úspešné a odhalili sme niekoľko oblastí, ktoré si vyžadovali zlepšenie.
+
+66
+
+ZOZNAM BIBLIOGRAFICKÝCH REFERENCIÍ
+
+1. Andreas, Kurniawan., Ezrifal, Sany., Merti, Megawaty. (2024). Penerapan ui/ux
+pada e-commerce batik jambi duo serangkai berbasis web (studi kasus gerai batik
+jambi
+
+duo
+
+serangkai).
+
+Jurnal
+
+manajemen
+
+informatika
+
+Jayakarta,
+
+doi:
+
+10.52362/jmijayakarta.v4i1.1313
+
+2. Arta, Moro, Sundjaja., Ariel, Velasco, Tatuil., Dionisius, Vincent, Scholus.,
+Yolanda, Dwi, Restiani. (2024). 1. The Determinant Factors of Shopping Cart
+Abandonment Among E-commerce Customers in Indonesia. Teaching anthropology,
+doi: 10.21512/commit.v18i1.9308
+
+3. Ashok, Sivaji., Alan, G., Downe., Muhammad, Fahmi, Mazlan., Shi-Tzuaan, Soo.,
+Azween, Abdullah. (2011). Importance of incorporating fundamental usability with
+social
+
+&
+
+trust
+
+elements
+
+for
+
+E-Commerce
+
+website.
+
+doi:
+
+10.1109/ICBEIA.2011.5994248
+
+4. Badzio, B., Bodziak, A., Brodawka, B., Buchajczuk, K., Skublewska-Paszkowska,
+M., Dzieńkowski, M., & Powroźnik, P. (2022). Analysis of the usability and
+accessibility of websites in view of their universal design principles. Applied
+Computer Science, 18(3), 63–85. https://doi.org/10.35784/acs-2022-22
+
+5. Bradley, C., Oliveira, L., Birrell, S., & Cain, R. (2021). A new perspective on
+personas and customer journey maps: Proposing systemic UX. International
+Journal of Human-Computer Studies, 148, 102583.
+https://doi.org/10.1016/j.ijhcs.2021.102583
+
+6. Byun, Kwang, Yun., Yoon, Hye, Mi. (2015). 4. Simple payment system in electronic
+commerce using communication network and method therefor.
+
+67
+
+7. Candiasa, I. M., Gunadi, I. G. A., & Putra, I. N. W. S. (2023). Ux evaluation using
+firstclick, performance measurement, rta, and questionnaire on e-commerce
+website. Sinkron, 8(1), 451–460. https://doi.org/10.33395/sinkron.v8i1.12037
+
+8. Darshana, Desai. (2019). 6. An Empirical Study of Website Personalization Effect
+on Users Intention to Revisit E-commerce Website Through Cognitive and Hedonic
+Experience. doi: 10.1007/978-981-13-1274-8_1
+
+9. David, Nicholas., Paul, Huntington., Hamid, R., Jamali., Tom, Dobrowolski. (2007).
+2. Characterising and evaluating information seeking behaviour in a digital
+environment: Spotlight on the 'bouncer'. Information Processing and Management,
+doi: 10.1016/J.IPM.2006.08.007
+
+10. Dehua, Yang. (2023). 2. Designing for User and Brand Experience: Implementing
+Parallax Scrolling in Online Shops to Explicitly and Implicitly Affect UX, Brand
+Sustainability and Behavioral Intentions: An Abstract. doi: 10.1007/978-3-03124687-6_103
+
+11. Farhan, Maulana, Alja., Erna, Daniati., Aidina, Ristyawan. (2024). 5. Perancangan
+ui/ux e-commerce menggunakan metode user centered design (ucd). Journal of
+Information System Management, doi: 10.24076/joism.2024v6i1.1669
+12. Giroux-Huppé, C., Sénécal, S., Fredette, M., Chen, S. L., Demolin, B., & Léger, P.M. (2019). Identifying psychophysiological pain points in the online user journey:
+The case of online grocery. V A. Marcus & W. Wang (Ed.), Design, User
+Experience, and Usability. Practice and Case Studies (Roč. 11586, s. 459–473).
+Springer International Publishing. https://doi.org/10.1007/978-3-030-23535-2_34
+
+13. Gunarso, L. A., & Setiawan, A. (2022). User experience sebagai variabel intervening
+dalam purchase decision making model pengguna sistem informasi penjualan ecommerce grup go-to selama pandemi covid-19. Business Management Analysis
+Journal (BMAJ), 5(2), 189–209. https://doi.org/10.24176/bmaj.v5i2.7905
+
+68
+
+14. Habib, I., Novansyah, D., Arianto, R. D., Darmawan, H. N., & Radianto, D. O.
+(2023). Marketing development strategy in the digital age. Jurnal Ekonomi,
+Manajemen, Akuntansi dan Keuangan, 4(3).
+https://doi.org/10.53697/emak.v4i3.1347
+
+15. Haibo, Cheng. (2019). How does interaction design affect user experience
+throughonline shopping interfaces. doi: 10.1088/1757-899X/573/1/012076
+
+16. Halfaker, A., Keyes, O., Kluver, D., Thebault-Spieker, J., Nguyen, T., GrandpreyShores, K., Uduwage, A., & Warncke-Wang, M. (2015). User session identification
+based on strong regularities in inter-activity time. Proceedings of the 24th
+International
+
+Conference
+
+on
+
+World
+
+Wide
+
+Web,
+
+410–418.
+
+https://doi.org/10.1145/2736277.2741117
+
+17. Halpert, B. J. (2005). Authentication interface evaluation and design for mobile
+devices. Proceedings of the 2nd Annual Conference on Information Security
+Curriculum Development, 112–117. https://doi.org/10.1145/1107622.1107649
+
+18. Heinrich, H., & Flocke, L. (2014). Customer-journey-analyse-ein neuer ansatz zur
+optimierung des (Online-) marketing-mix. V H. Holland (Ed.), Digitales
+Dialogmarketing (s.
+
+825–855).
+
+Springer
+
+Fachmedien
+
+Wiesbaden.
+
+https://doi.org/10.1007/978-3-658-02541-0_34
+
+19. Igor, Flomin., Alex, Flomin. (2014). 5. E-commerce shopping and payment process.
+
+20. Ilya, Volodin., Laban, D., Eilers., Staci, Dubovik., Aaron, Richmond, Shimoff.,
+Mansim, Connie, Cheng., Matthew, Aaron, Gittlitz. (2014). System, method and user
+interface for designing customizable products from a mobile device.
+
+21. Juhnyoung, Lee., Leora, Morgenstern., Mark, Podlaseck., Edith, Schonberg., David,
+Wood. (2002). Aggregating and analyzing information about content requested in an
+e-commerce web environment to determine conversion rates.
+22. Julia, E., Ault. (2022). 4. UI/UX Designing for an E-commerce Store. doi:
+10.31219/osf.io/nvfwj
+69
+
+23. K N, Mrs. P. (2023). Unravelling the impact of ui/ux design on e-commerce business
+growth. International Journal for Research in Applied Science and Engineering
+Technology, 11(12), 2245–2253. https://doi.org/10.22214/ijraset.2023.57814
+
+24. Kazeminia, A., Kaedi, M., & Ganji, B. (2019). Personality-based personalization of
+online store features using genetic programming: Analysis and experiment. Journal
+of Theoretical and Applied Electronic Commerce Research, 14(1), 17–18.
+https://doi.org/10.4067/S0718-18762019000100103
+
+25. Kobets, D. (2024). Digitalization and its impact on the development of contemporary
+marketing
+
+strategies. Economic
+
+Affairs, 69(2).
+
+https://doi.org/10.46852/0424-
+
+2513.3.2024.26
+26. Krupa, M. (2018). E-shop od nápadu po úspech: Kompletný sprievodca pre návrh,
+vývoj, rozbeh, rast a export úspešného internetového obchodu. Bratislava: Wolters
+Kluwer SK.
+
+27. Kusnadi. (2024). Digital marketing strategy to increase msme sales in the digital
+age. Interkoneksi: Journal of Computer Science and Digital Business, 2(1), 45–56.
+https://doi.org/10.61166/interkoneksi.v2i1.17
+
+28. Law, E. L.-C., Van Schaik, P., & Roto, V. (2014). Attitudes towards user experience
+(Ux) measurement. International Journal of Human-Computer Studies, 72(6), 526–
+541. https://doi.org/10.1016/j.ijhcs.2013.09.006
+
+29. Layla, Hasan. (2023). Major and minor issues affecting the user experience on ecommerce websites. International Journal of Advances in Applied Sciences, doi:
+10.21833/ijaas.2023.10.023
+30. Murár, P. (2021). Methods of planning, researching and evaluating websites (130 s.).
+Wolters Kluwer.
+
+70
+
+31. Natal'ya, Diesperova. (2024). Improvement of user experience as a growth factor of
+e-commerce. Russian Journal of Management, doi: 10.29039/2409-6024-2024-12-1256-268
+
+32. Noor, Akma, Mohd, Salleh., Norbani, Binti, Che, Ha., Philip, J., Kitchen., Amrul,
+Asraf, Mohd-Any. (2019). Online purchasing: the role of web experience factors.
+International
+
+Journal
+
+of
+
+Electronic
+
+Marketing
+
+and
+
+Retailing,
+
+doi:
+
+10.1504/IJEMR.2019.10021474
+
+33. Nudelman, G. (2018). Lean UX communication strategies for success in large
+organizations. Interactions, 25(5), 80–82. https://doi.org/10.1145/3236683
+
+34. Nurul, Zakiah, binti, Ayob., Ab, Razak, Che, Hussin., Halina, Mohamed, Dahlan.
+(2009).
+
+Three
+
+Layers
+
+Design
+
+Guideline
+
+for
+
+Mobile
+
+Application.
+
+doi:
+
+10.1109/ICIME.2009.99
+
+35. Oh, Bo, Myoung., Kim, Sang, Mi. (2018). Method and system for providing simple
+payment.
+
+36. Panneru Shahikanth, Bollineni Vishnu, Vardan Naidu, Kondeti Sai Teja, Kamani
+Vinay, Chowdary, Prof. Nidhi Shah. (2024). Enhancing User Experience in Ecommerce through Augmented Reality and Virtual Reality. International Research
+Journal of Modernization in Engineering Technology and Science, doi:
+10.56726/irjmets51444
+
+37. Perrig, S. A. C., Aeschbach, L. F., Scharowski, N., Von Felten, N., Opwis, K., &
+Brühlmann, F. (2024). Measurement practices in user experience (Ux) research: A
+systematic quantitative literature review. Frontiers in Computer Science, 6,
+1368860. https://doi.org/10.3389/fcomp.2024.1368860
+38. Prayoga, A. K., Achmad, G. N., & Zulkifli, Z. (2023). Influence of ui, ux and eservice quality on tokopedia purchase via perceived risk. Journal of Social
+Research, 2(5), 1606–1625. https://doi.org/10.55324/josr.v2i5.827
+
+71
+
+39. Saad, J., Choma, J., Alvaro, A., & Zaina, L. (2023). The impact of UX work on
+communication and collaboration in software startups. Anais do VIII Workshop
+sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES 2023), 41–
+50. https://doi.org/10.5753/washes.2023.229730
+
+40. Salleh, N. A. M., Ha, N. C., Kitchen, P. J., & Any, A. A. M. (2019). Online
+purchasing: The role of web experience factors. International Journal of Electronic
+Marketing and Retailing, 10(3), 260. https://doi.org/10.1504/IJEMR.2019.100701
+
+41. Sanjay, Mavinkurve., Shumeet, Baluja., Maryam, Kamvar. (2006). 1. User interface
+for mobile devices.
+42. Semerádová, T., & Weinlich, P. (2020). Factors influencing user experience. V T.
+Semerádová & P. Weinlich, Website Quality and Shopping Behavior (s. 29–62).
+Springer International Publishing. https://doi.org/10.1007/978-3-030-44440-2_3
+
+43. Sohanda, M. K., Gupta, M., & Kalpana, A. V. (2024). Interactive e-commerce:
+Addressing
+
+cart
+
+abandonment
+
+through
+
+gamified
+
+user
+
+engagement. 2024
+
+International Conference on Communication, Computing and Internet of Things
+(IC3IoT), 1–5. https://doi.org/10.1109/IC3IoT60841.2024.10550373
+
+44. Suadamara, R. (2024). Opportunity and challenges in ux design for e-commerce
+website. Engineering, MAthematics and Computer Science Journal (EMACS), 6(2),
+157–162. https://doi.org/10.21512/emacsjournal.v6i2.11555
+
+45. Sundjaja, A. M., Tatuil, A. V., Scholus, D. V., & Restiani, Y. D. (2024). The
+determinant factors of shopping cart abandonment among e-commerce customers in
+indonesia. CommIT (Communication and Information Technology) Journal, 18(1),
+29–38. https://doi.org/10.21512/commit.v18i1.9308
+46. Thomas, S., Tullis., William, Albert. (2008). 1. Measuring the User Experience:
+Collecting, Analyzing, and Presenting Usability Metrics.
+
+72
+
+47. Trisminingsih, R., & Nurliaputri, D. (2019). User experience design of taskmanagement application for plantation supervisor using lean ux. 2019 5th
+International
+
+Conference
+
+on
+
+Science
+
+and
+
+Technology
+
+(ICST),
+
+1–4.
+
+https://doi.org/10.1109/ICST47872.2019.9166579
+48. Varga, P. (2022, apríl 16). PRIESKUM. Vývoj online nákupov na Slovensku.
+https://www.marketvision.sk/blog/prieskum-vyvoj-online-nakupov-na-slovensku
+
+49. Varosian, K. K. (2023). Strategy to attract customers and increase conversions in
+internet trading through UX/UI design development. Entrepreneur’s Guide, 16(4),
+77–86. https://doi.org/10.24182/2073-9885-2023-16-4-77-86
+
+50. Vipin, Kumar., Shivam, Raj, Singh., N., Muhindro, Singh. (2023). The Impact of
+User Experience Design on Customer Satisfaction in E-commerce Websites.
+International
+
+Journal
+
+For
+
+Science
+
+Technology
+
+And
+
+Engineering,
+
+doi:
+
+10.22214/ijraset.2023.52580
+
+51. Von Saucken, C., Michailidou, I., & Lindemann, U. (2013). How to design
+experiences: Macro ux versus micro ux approach. V A. Marcus (Ed.), Design, User
+Experience, and Usability. Web, Mobile, and Product Design (Roč. 8015, s. 130–
+139). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-39253-5_15
+
+52. Wahyuningrum, T., Kartiko, C., & Wardhana, A. C. (2020). Exploring e-commerce
+usability by heuristic evaluation as a compelement of system usability scale. 2020
+International Conference on Advancement in Data Science, E-learning and
+Information Systems (ICADEIS), 1–5.
+https://doi.org/10.1109/ICADEIS49811.2020.9277343
+53. Wang, R., Chen, S.-L., Labbé, C., Fredette, M., Abdessemed, A., Courtemanche, F.,
+Coursaris, C. K., Sénécal, S., & Léger, P.-M. (2023). Ux calculator: An online tool
+to support user testing. V A. Marcus, E. Rosenzweig, & M. M. Soares (Ed.), Design,
+User Experience, and Usability (Roč. 14032, s. 101–111). Springer Nature
+Switzerland. https://doi.org/10.1007/978-3-031-35702-2_7
+73
+
+54. Yablonski, J. (2020). Laws of UX: Using psychology to design better products &
+services (First edition). O’Reilly Media, Inc., 13-15. doi: 9781492055310
+
+55. Yen, D. C., & Davis, W. S. (2019). User interface design. V W. S. Davis & D. C.
+Yen (Ed.), The Information System Consultant’s Handbook (1st vyd., s. 375–385).
+CRC Press. https://doi.org/10.1201/9781420049107-48
+
+56.Zhukova, A., von Sperl, L., Matt, C. E., & Gipp, B. (2023). Generative userexperience research for developing domain-specific natural language processing
+applications. arXiv. https://doi.org/10.48550/ARXIV.
+
+74
+
+

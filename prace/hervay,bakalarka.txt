@@ -1,0 +1,1972 @@
+SLOVENSKÁ TECHNICKÁ UNIVERZITA V BRATISLAVE
+Materiálovo technologická fakulta so sídlom v Trnave
+
+Evidenčné číslo: MTF-104213-96638
+
+MOŽNOSTI VYUŽITIA VEDĽAJŠÍCH PRODUKTOV
+Z POĽNOHOSPODÁRSKEJ VÝROBY
+Bakalárska práca
+
+2022
+
+MIKLÓS HERVAY
+
+SLOVENSKÁ TECHNICKÁ UNIVERZITA V BRATISLAVE
+Materiálovo technologická fakulta so sídlom v Trnave
+Evidenčné číslo: MTF-104213-96638
+
+MOŽNOSTI VYUŽITIA VEDĽAJŠÍCH PRODUKTOV
+Z POĽNOHOSPODÁRSKEJ VÝROBY
+BAKALÁRSKA PRÁCA
+
+Študijný program:
+
+3965R02 B-IBE Integrovaná bezpečnosť
+
+Študijný odbor:
+
+bezpečnostné vedy
+
+Pracovisko:
+
+Ústav integrovanej bezpečnosti - MTF
+
+Vedúci záverečnej práce:
+
+Ing. Kristína Šefčovičová
+
+TRNAVA 2022
+
+MIKLÓS HERVAY
+
+ČESTNÉ VYHLÁSENIE
+
+Čestne prehlasujem, že som bakalársku prácu vypracoval samostatne pod odborným
+vedením svojho školiteľa a použitú literatúru uvádzam v zozname použitých zdrojov.
+
+Trnava 15.04.2022
+
+.........................................
+podpis autora práce
+
+POĎAKOVANIE
+Touto cestou sa chcem poďakovať školiteľke mojej bakalárskej práce Ing. Kristíne
+Šefčovičovej
+vypracovávaní.
+
+za jej odborné vedenie a metodickú pomoc, ktorú mi poskytla pri jej
+
+ABSTRAKT
+HERVAY, Miklós: Možnosti využitia vedľajších produktov z poľnohospodárskej výroby.
+[Bakalárska práca]- Slovenská technická univerzita v Bratislave. Materiálovotechnologická
+fakulta so sídlom v Trnave; Ústav integrovanej bezpečnosti.- Školiteľ: Ing. Kristína
+Šefčovičová.- Trnava: MTF STU, 2022. 35 s.
+Cieľom práce je prostredníctvom metódy kvantitatívneho výskumu zistiť, akým spôsobom
+nakladajú participanti výskumu s vedľajšími produktmi poľnohospodárskej výroby. Práca
+pozostáva z dvoch kapitol – teoretickej a praktickej. V teoretickej časti práca systematizuje
+a analyzuje teoretické poznatky z výskumu biomasy, jej klasifikácie a spôsobov jej
+spracovania. V praktickej časti
+
+pomocou kvantitatívneho výskumu prináša konkrétne
+
+poznatky z praxe ohľadov nakladania s vedľajšími produktmi poľnohospodárskej výroby
+a odpadmi u konkrétnych poľnohospodárskych subjektov.
+Kľúčové slová : biomasa, vedľajšie produkty poľnohospodárskej výroby, odpad
+
+ABSTRACT
+Miklós HERVAY: Possibilities of using subsidiary products within the agricultural
+production ( Bachelor’s thesis ) – Slovak Technical University Bratislava , Faculty of
+Material Technologies with residence in Trnava , Institute of Integrated Safety. – Tutor :
+Ing. Kristína Šefćovičová .- Trnava, 2022, 35 p.
+The main objective of this Master’s thesis is to find out by the method of quantitative
+survey the way how do the participants of the survey load with the subsidiary products of
+the agricultural production. The thesis contains 2 chapters, a theoretical and a practical one.
+The theoretical chapter systematizes and analyses the theoretical knowledge of the survey
+of the biomass, it’s classification and ways of its processing. The practical chapter shows the
+results of the quantitative survey of the practice within the way of loading of subsidiary
+products of agricultural production and of the waste at specific agricultural subjects.
+
+Key words: biomass, subsidiary products of agricultural production, waste
+
+Obsah
+ZOZNAM OBRÁZKOV ..................................................................................................... 10
+ZOZNAM TABULIEK ....................................................................................................... 11
+ZOZNAM SKRATIEK........................................................................................................ 12
+ÚVOD .................................................................................................................................... 3
+1 TEORETICKÉ VÝCHODISKÁ SKÚMANEJ PROBLEMATIKY .................................. 3
+1.1 Biomasa, jej klasifikácia a využitie .............................................................................. 3
+1.1.1 Živočíšna biomasa - zoomasa ................................................................................ 6
+1.1.2 Rastlinná biomasa – fytomasa ............................................................................... 8
+1.2 Vybrané spôsoby spracovania biomasy ....................................................................... 9
+2 PRAKTICKÁ ČASŤ ........................................................................................................ 21
+2.1 Ciele práce .................................................................................................................. 21
+2.2 Výskumné metódy a metodológia spracovania empirickej časti ............................... 21
+2.3 Výskumný súbor a spôsob jeho výberu ..................................................................... 22
+2.4 Výsledky .................................................................................................................... 24
+2.4.1 Spracovanie a interpretácia výsledkov výskumu ................................................ 24
+2.4.2 Diskusia ............................................................................................................... 35
+ZÁVER ................................................................................................................................ 38
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ............................................................... 39
+PRÍLOHY ............................................................................................................................ 42
+
+ZOZNAM OBRÁZKOV
+Obrázok 1Schéma využitia rôznych druhov biomasy ........................................................... 6
+Obrázok 2 Zdroje a spôsoby využitia biomasy ...................................................................... 9
+Obrázok 3 Priebeh fáz anaeróbneho rozkladu a vzniku bioplynu v bioplynovej stanici ..... 14
+Obrázok 4 Bioplynová stanica ............................................................................................. 15
+Obrázok 5 Schéma kogeneračnej jednotky .......................................................................... 17
+Obrázok 6 Spaľovňa v Rostocku ......................................................................................... 18
+Obrázok 7 Typická poľnohospodárska kompostáreň s otvoreným kompostovaním na
+asfaltovej vyhnívacej ploche ................................................................................................ 20
+
+ZOZNAM TABULIEK
+Tabuľka 1 Komplexné delenie biomasy podľa envirovid: .................................................... 5
+Tabuľka 2Podiel bioplynu vo výhrevniach v porovnaní s ostatnými zdrojmi energie za rok
+2020 ....................................................................................................................................... 7
+Tabuľka 3Podiel bioplynu v teplárňach v porovnaní s ostatnými zdrojmi energie za rok
+2020 ....................................................................................................................................... 7
+Tabuľka 4 Požiadavky na prostredie v priebehu anaeróbnej fermentácie ........................... 12
+Tabuľka 5 Vybrané skupiny extracelulárnych enzýmov a ich funkcie ............................... 12
+Tabuľka 6 Materiály vhodné na kompostovanie ................................................................. 19
+Tabuľka 7 Vývoj nákladov na likvidáciu odpadov a vedľajších produktov rastlinnej a
+živočíšnej výroby za od r. 2018 – 2021 ............................................................................... 31
+
+ZOZNAM SKRATIEK
+OSN – Organizácia spojených národov
+
+ÚVOD
+Problematika bezpečnosti a ochrany životného prostredia vrátane spôsobov
+využívania vedľajších produktov zo živočíšnej výroby sa stáva v dnešnej dobe oveľa viac
+aktuálnou, až akútnou, než ako tomu bolo v minulosti. Klimatický summit OSN (COP26),
+ktorý sa konal v Glasgowe od 31. októbra 2021 do 12. novembra 2021 poukázal na
+nevyhnutnosť jednotného postupu všetkých krajín pri riešení klimatickej krízy a niektorí
+politici aj viacero odborníkov na danú problematiku sa vyjadrili, že už teraz je riešenie
+problémov klímy a životného prostredia päť minút po dvanástej. Aktuálnosť témy
+bakalárskej práce pod názvom Možnosti využitia vedľajších produktov z poľnohospodárskej
+výroby prispieva k téme bezpečnosti a ochrany životného prostredia.
+Práca je rozdelená do dvoch kapitol. Prvá kapitola je teoretická, analyzuje
+a systematizuje teoretické poznatky o biomase, jej klasifikácii a využívaní a podrobnejšie sa
+zameriava na zoomasu a fytomasu. Taktiež podrobne analyzuje vybrané spôsoby
+spracovania
+
+biomasy,
+
+ako
+
+esterifikáciu,
+
+anaeróbnu
+
+fermentáciu,
+
+spaľovanie
+
+či
+
+kompostovanie.
+Druhá kapitola je praktická. Cieľom tejto kapitoly je prostredníctvom metódy
+kvantitatívneho výskumu zistiť, akým spôsobom nakladajú participanti výskumu
+s vedľajšími produktmi poľnohospodárskej výroby. Pre potreby bakalárskej práce sa
+podarilo získať 17 participantov výskumu a sú nimi právnické osoby z poľnohospodárskej
+výroby. Výskumným nástrojom je dotazník, ktorého položky sú zamerané na rôzne aspekty
+poľnohospodárskej výroby, no prevládajú v ňom také položky, prostredníctvom ktorých je
+možné zistiť, akým spôsobom nakladajú participanti výskumu s vedľajšími produktmi
+poľnohospodárskej výroby (v rastlinnej aj živočíšnej výrobe) a ktoré vedľajšie produkty
+a odpady pri ich činnosti vznikajú.
+V záverečnej podkapitole praktickej časti sa nachádzajú výsledky výskumu
+a diskusia, v rámci ktorej je prestavených niekoľko odporúčaní pre prax a reflexia na
+očakávania výskumu. Bariéry a problémy spojené s výskumom sa nachádzajú v závere
+práce. Celá práca je bohato ilustrovaná obrázkami, grafmi a tabuľkami, ktoré slúžia na
+systematizáciu a lepší prehľad spracúvanej problematiky.
+
+3
+
+1 TEORETICKÉ VÝCHODISKÁ SKÚMANEJ
+PROBLEMATIKY
+V prvej kapitole bakalárskej práce sa budeme zaoberať teoretickými východiskami
+skúmanej problematiky. Zosumarizujeme aktuálne poznatky z oblasti biomasy, jej
+charakteristík a rozdelenia.
+
+1.1 Biomasa, jej klasifikácia a využitie
+Biomasu možno charakterizovať ako „takmer akúkoľvek hmotu organického pôvodu,
+či už rastlinného alebo živočíšneho“ [1]. Podľa Huštákovej a kol. [2] predstavuje biomasa
+„surovinu, ktorá má vysoký potenciál pre priemysel a hospodárstvo“. Biomasa predstavuje
+trvalý a obnoviteľný zdroj energie a má potenciál zníženia závislosti priemyselnej výroby
+od fosílnych palív [3]. Fosílne palivá sú pre nás nebezpečné z toho dôvodu, že ich intenzívne
+využívanie (najmä počas posledných dvoch storočí) vedie k zvyšovaniu koncentrácie oxidu
+uhličitého v atmosfére, čím sa zvyšuje skleníkový efekt [4]. Za hlavnú výhodu využitia
+biomasy v energetike je považovaná jej obnoviteľnosť ako zdroja energie, čo predstavuje
+výhodu napr. v porovnaní s fosílnymi palivami, ktoré sú vyčerpateľné, teda neobnovujú sa.
+Ďalšou výhodou využívania biomasy je jej „priateľskosť“ k životnému prostrediu – biomasa
+je považovaná za neutrálne palivo a hoci uvoľňuje pri spaľovaní oxid uhličitý, približne
+rovnaké jeho množstvo je spotrebované fotosyntézou pri raste biomasy z atmosféry [4].
+Z pohľadu energetického využitia môžeme teda biomasu klasifikovať na:
+✓ výrobu tepla priamym spaľovaním,
+✓ spracovanie / zušľachtenie na kvalitnejšie palivá,
+✓ výrobu elektriny [4].
+Biomasa sa spolu so slnkom, vetrom, vodou a geotermálnymi prameňmi považuje za
+obnoviteľný zdroj energie. Obnoviteľné zdroje energie sú také zdroje energie, ktoré
+považujeme za nevyčerpateľné a sú dané „pôvodnými procesmi vzniku našej slnečnej
+sústavy alebo prírodnými danosťami krajiny a ľudskou činnosťou“ [15].
+Rybár a kol. [5] definujú biomasu ako „látku biologického, čiže rastlinného alebo
+živočíšneho pôvodu“. V súvislosti s využívaním biomasy na energetické účely možno za ňu
+považovať:
+✓ drevo,
+3
+
+✓ obilnú a repkovú slamu,
+✓ rýchlorastúce rastliny a dreviny cielene pestované pre energetické využitie,
+✓ bioplyn (z odpadov živočíšnej a rastlinnej výroby). [5]
+Podrobnejšie rozdelenie biomasy:
+•
+
+poľnohospodárska biomasa (fytomasa, ktorá sa pestuje na poľnohospodárskej pôde):
+✓ cielene pestovaná biomasa,
+✓ biomasa obilovín, olejnín a pradných rastlín,
+✓ trvalé trávnaté porasty,
+✓ rýchlorastúce dreviny pestované na poľnohospodárskej pôde,
+✓ rastlinné zvyšky z poľnohospodárskej výroby a údržby krajiny,
+
+•
+
+lesná biomasa (dendromasa):
+✓ palivové drevo,
+✓ zvyšky z hospodárenia v lese,
+
+•
+
+zvyšková biomasa (vedľajšie produkty poľnohospodárskeho a spracovateľského
+priemyslu):
+✓ vedľajšie produkty a zvyšky z papierenského priemyslu,
+✓ vedľajšie produkty a zvyšky z potravinárskeho priemyslu,
+✓ vedľajšie produkty a zvyšky z priemyslu na spracovanie dreva,
+✓ vedľajšie produkty a zvyšky zo živočíšneho priemyslu,
+✓ vedľajšie produkty a zvyšky z iných druhov priemyslu,
+✓ biologicky rozložiteľný odpad,
+✓ liehovarnícke výpalky [1].
+
+Podľa Ochodeka a kol. je biomasa substanciou biologického pôvodu a zahŕňa:
+✓ rastlinnú biomasu pestovanú vo vode a v pôde,
+✓ živočíšnu biomasu,
+✓ produkciu organického pôvodu,
+✓ organické odpady [4].
+Komplexné delenie biomasy, ako ho uvádza tabuľka 1 prináša projekt envirovid. Tento
+projekt sa zameriava na získavanie energie pre malé obce prostredníctvom pyrolýzy – teda
+zo zmesí z poľnohospodárskych vedľajších produktov a odpadov.
+
+4
+
+Tabuľka 1 Komplexné delenie biomasy podľa envirovid6]:
+Kritérium
+Biomasa
+z hľadiska pôvodu
+
+rastlinná (drevná – dendromasa a rastlinná –
+fytomasa)
+živočíšna - zoomasa
+komunálne a priemyselné odpady
+
+z hľadiska energetického využitia
+
+biomasa
+
+zámerne
+
+pestovaná na tento
+účel
+odpadová
+
+drevo a drevný odpad
+z lesného hospodárstva
+a drevospracujúceho
+priemyslu,
+rastlinné odpady z
+poľnohospodárskej
+prvovýroby a údržby
+krajiny, odpady zo
+živočíšnej výroby,
+komunálne organické
+odpady, organické
+odpady z
+potravinárskych výrob
+
+podľa zdroja vzniku
+
+lesná (drevo, konáre, pne, korene atď.)
+poľnohospodárska
+
+(fytomasa
+
+a živočíšna
+
+biomasa)
+priemyselné a komunálne odpady
+z hľadiska konzistencie
+
+pevná – zvyšky zo zberu , ťažby a spracovania
+dreva a trávy (čerstvo vyťažené drevo má podiel
+vlhkosti 60% a uschnuté drevo 20%)
+mokrá – hnoj, organický odpad (podiel vlhkosti
+v závislosti od druhu odpadu je 60 - 90%)
+
+Využitie biomasy ako energie sa spája s ľudstvom od objavenia ohňa [5]. Na obrázku 1
+predstavujeme schému využitia rôznych druhov biomasy:
+5
+
+Obrázok 1Schéma využitia rôznych druhov biomasy[5]
+
+1.1.1 Živočíšna biomasa - zoomasa
+Definícia živočíšnej biomasy je odvodená od pojmu biomasa ako takého. Horbaj a kol.
+[7] radí zoomasu medzi jednu skupinu poľnohospodárskej biomasy - biomasa vhodná na
+výrobu bioplynu (z exkrementov hospodárskych zvierat, zo zelenej hmoty). Okrem tejto
+zaraďuje k poľnohospodárskej biomase biomasu vhodnú na spaľovanie a biomasu vhodnú
+na výrobu kvapalných biopalív. Z vyššie uvedených charakteristík usudzujeme, že zoomasa
+je všetok biologický odpad pochádzajúci zo zvierat alebo súvisiaci s ich chovom.
+Dey et al. [8] za odpady z hospodárskych zvierat považuje podstieľky zvierat, telá
+zvierat, poškodené napájadlá a kŕmičky, organické materiály z bitúnkov, odpadové tekutiny
+zo zvierat, napr. ich moč, odpadovú vodu po čistení klietok zvierat alebo z och umývania
+a sanitácie na bitúnkoch a látky, ktoré vznikajú na bitúnkoch a znečisťujú ovzdušie, ako
+sírovodík a metán. Tieto materiály sú považované za odpad, v našej domácej literatúre
+nachádzame však v rámci živočíšnej biomasy, ktorá sa spracúva a využíva na ďalšie použitie
+najmä exkrementy hospodárskych zvierat a močovku, ktoré sa využívajú najmä na výrobu
+bioplynu, ktorého výroba zo živočíšneho, rastlinného a domáceho bioodpadu je lacnou
+6
+
+a čistou technológiou získavania energie, ktorá navyše produkuje digestát využívaný ako
+hnojivo.
+Výkaly hospodárskych zvierat sú tradične využívané ako hnojivo, čo poznáme už
+z minulosti, kedy hnojom z chovu domácich zvierat hnojili polia naši predkovia.
+V súčasnosti sa tento spôsob hnojenia považuje za prirodzený a mal by byť preferovaným.
+Hnoj však možno využívať aj inak, nakoľko obsahuje dôležité mikroorganizmy, ktoré sú
+vhodné pre začiatok anaeróbnej fermentácie, preto býva využívaný na kofermentáciu
+s inými materiálmi, napr. s kukuričnou silážou, senážou a pod. Pomocou hydrotermickej
+úpravy však môžeme docieliť zvýšenú produkciu bioplynu [10].
+V roku 2020 bioplyn predstavoval relatívne malý podiel vo výhrevniach a teplárňach
+(tabuľka 2, tabuľka 3):
+Tabuľka 2Podiel bioplynu vo výhrevniach v porovnaní s ostatnými zdrojmi energie za
+rok 2020[11]
+
+Tabuľka 3Podiel bioplynu v teplárňach v porovnaní s ostatnými zdrojmi energie za rok
+2020[11]
+
+Pred vedou stoja do budúcnosti ďalšie veľké výzvy ohľadom skúmania ďalších
+možností využitia biomasy na jej ďalšiu spotrebu. Dokumenty EÚ prichádzajúce v súvislosti
+s prepracovaním smernice o podpore využívania energie z obnoviteľných zdrojov pre
+7
+
+obdobie od roku 2020 do roku 2030 menia rámec najmä pre obnoviteľné zdroje v doprave.
+Cieľom novej smernice je zaistiť najmenej 14% podiel obnoviteľných zdrojov do roku 2030
+na konečnej spotrebe energie v doprave a podiel biopalív vyrobených z potravinárskych
+a kŕmnych
+
+plodín
+
+nesmie
+
+presiahnuť
+
+7%.
+
+Palivá,
+
+ktoré
+
+nie
+
+sú
+
+vyrábané
+
+z poľnohospodárskych plodín (bioodpad z domácností, piliny, čistiarenské kaly či hnoj)
+majú byť zastúpené do roku 2030 v pomere 3,5% [9].
+Cieľom vedy má byť v ďalších rokoch hľadanie nových foriem obehového
+hospodárstva, cyklického modelu, ktorý predstavujú vstupy, výstupy interakcie s prostredím
+a spôsobom obnoviteľnosti istých materiálov a energií naspäť do výrobného procesu.
+Lineárna ekonomika by sa tak mala zmeniť na ekonomiku kruhovú [8].
+
+1.1.2 Rastlinná biomasa – fytomasa
+Ako sme uviedli v predošlej podkapitole pri klasifikácii biomasy, aj rastlinná biomasa,
+podobne ako živočíšna tvorí poľnohospodársku biomasu.
+Do kategórie fytomasy sa zaraďujú reziduá – poľnohospodárske zvyšky, za ktoré sú
+považované vedľajšie produkty na poli, ktoré vznikajú pri výrobe potravín alebo krmív.
+Patria sem: slama z obilnín a ryže, zvyšky z kukurice, stonky a listy z olejnatých plodín [13].
+Taktiež to môžu byť aj zvyšky z úrody, ako sú odpad z prerezávania, listy, stonky, struky so
+semenami, semená, slama, šupky, škrupiny, dužiny, strnisko, korene, hnojovice, odpad z
+údržby lesov, odpad z ovocia a zeleniny atď. [8]. Zväčša sa využívajú ako tuhé palivá alebo
+na výrobu tepla či elektrickej energie.
+Poľnohospodársko – priemyselné zvyšky (vedľajšie výrobky alebo reziduá zo
+spracovateľského priemyslu prevažne z potravinárskeho sektora, zvyšky), ktoré vykazujú
+dobré spaľovacie vlastnosti a zvyknú sa využívať ako palivá pre potreby priemyslu je taktiež
+možné zaradiť k rastlinnej biomase, ale niektoré z týchto surovín možno označiť ako ovocnú
+biomasu [13].
+Takéto odpady z pestovania zelených poľnohospodárskych produktov boli donedávna
+nepredajné. Ak by sa nenašli alternatívy produktívneho opätovného použitia tohto
+agroodpadu, musela by byť táto biomasa zlikvidovaná ako špeciálny odpad, čo by pre
+pestovateľov vytváralo dodatočné náklady na likvidáciu odpadu. Ak by likvidácia prebiehala
+samosušením a samorozkladom v areáloch podnikov, malo by to zase enviromentálne
+dopady a taktiež by boli potrebné náklady na likvidáciu odpadu. Z uvedených dôvodov je
+
+8
+
+cieľom
+
+znižovanie
+
+týchto
+
+jednorazových
+
+odpadov
+
+prostredníctvom
+
+obehového
+
+hospodárstva, ktoré sa javí trvalo udržateľným modelom [14].
+
+1.2 Vybrané spôsoby spracovania biomasy
+Z hľadiska energetického využitia možno biomasu rozdeliť do 3 základných skupín:
+a) biomasa vhodná na výrobu tepla spaľovaním – je to najmä slama (obilná, repková,
+kukuričná, slnečnicová), drevený odpad (pochádzajúci z vinohradov, sadov, trvalých
+trávnych porastov);
+b) biomasa vhodná na výrobu bioplynu – zdrojom sú najmä exkrementy hospodárskych
+zvierat, zelená hmota a siláž, odpad z potravinárskych prevádzok;
+c) biomasa vhodná na výrobu tekutých biopalív – na výrobu metylesteru repkového
+oleja a bioetanolu z kukurice, obielia a cukrovej repy [15].
+Spôsob získavania energie je podmienený fyzikálnymi a chemickými vlastnosťami biomasy,
+napr. množstvo vody a sušiny má vplyv na spracovanie biomasy, teda aj na spôsob
+získavania energie – hodnota 50 % sušiny je približnou hranicou medzi mokrými a suchými
+procesmi [4].
+Podrobnejšie zdroje a spôsoby spracovania biomasy sa nachádzajú na obrázku 2:
+Obrázok 2 Zdroje a spôsoby využitia biomasy[16]
+
+Možnosti využitia biomasy určujú najmä jej fyzikálne a chemické vlastnosti. Podľa princípu
+konverzie energie možno vymedziť nasledovné spôsoby získavania energie z biomasy:
+9
+
+a) termochemická premena biomasy (suché procesy):
+• spaľovanie,
+• splyňovanie,
+• pyrolýza,
+b) biochemická premena biomasy (mokré procesy):
+• alkoholové kvasenie,
+• metánové kvasenie,
+c) fyzikálna a chemická premena biomasy:
+• mechanická (štiepenie, drtenie, lisovanie, briketovanie, peletovanie, mletie, atď.),
+• chemická (esterifikácia surových rastlinných olejov, hydrolýza, získavanie
+odpadového tepla pri spracovaní biomasy, anaeróbna fermentácia pevných
+organických odpadov, výroba etylalkoholu, výroba olejov a metylesterov,
+kompostovanie) [18].
+Postupy uvedené v bode c) sa využívajú najmä ako predúprava na intenzifikáciu pred
+ďalšími procesmi – termochemickými, biochemickými. Vyššie sme podrobne popísali
+členenie biomasy, ďalej sa budeme venovať technológii jej spracovania a využitiu.
+Esterifikácia
+Je proces, ktorý sa používa najmä pri výrobe bionafty. Je jedným z 3 krokov – výroba
+oleja, rafinácia surového oleja a až následne esterifikácia. Výroba surového rastlinného
+oleja zo semien olejnín je dvojstupňový proces a technologickým postupom, ktorým sa olej
+získava je lisovanie a extrakcia organickým rozpúšťadlom. V procese pri extrakcii
+organickým rozpúšťadlom sa používa hexán, ktorý sa regeneruje a vracia naspäť do procesu.
+Technologickými postupmi, ktoré sa používajú pri rafinácii surového oleja sú odslizenie
+(odstránenie slizu a fosforlipidov), neutralizácia voľných kyselín hydroxidom soľným,
+sušenie, filtrácia, bielenie a dezodorizácia. Sušením a filtráciou zbavujeme oleje zbytkovej
+vody a veľmi jemných tuhých častíc. Olej najprv prechádza hrubým filtrom a potom
+vstupuje do ohrievacej pece, kde sa ohrieva na teplotu 70 až 80 °C. Po ohriatí je v sušiacej
+komore rozstrekovaný na destilačnú výplň, cez ktorú v opačnom smere prúdi suchý
+filtrovaný vzduch – tu dochádza k intenzívnemu sušeniu oleja a vzniknuté pary sa cez filter
+odvádzajú zo sušiacej komory. Následne je olej čerpadlom dopravený do filtračného
+zariadenia, kde je dvojstupňovo filtrovaný. Samotná esterifikácia je proces potrebný na to,
+aby sa mohli rastlinné oleje používať priamo v bežných motoroch. Znižuje sa ním viskozita
+olejov zo semien olejnín pomocou jednoduchých alkoholov. Napr. pri esterifikácii
+10
+
+repkového oleja sa mieša etanol s hydroxidom sodným a až následne s olejom vylisovaným
+zo semien repky olejnej. Esterifikáciou sa z olejov získavajú metylestery za súčasného
+uvoľňovania glycerolu. Na výrobu metylesterov sa používajú aj také rastlinné oleje a tuky,
+ktoré vznikajú pri rôznych operáciách v potravinárskom priemysle, najmä z procesov
+smaženia či vyprážania – tzv. filtrovacie oleje [10].
+Anaeróbna fermentácia
+Bioplyn je v prírode rozšírený najmä na takých miestach, kde sa materiál rozkladá
+bez prístupu kyslíka (rašeliniská, morské dná, nádrže na hnojovicu, skládky komunálneho
+odpadu). K tvorbe bioplynu dochádza aj v žalúdkoch prežúvavcov, kde sa organická masa
+mení na bioplyn, kvasné zvyšky biomasy a teplo. Anaeróbna fermentácia prebieha
+v prostredí bez prístupu vzduchu za prítomnosti baktérií v teplom a vlhkom prostredí a pri
+tom sa tvorí bioplyn. V priebehu fermentácie
+
+ako procesu sa cukry pôsobením
+
+mikroorganizmov menia na etanol alebo metanol [17].
+Anaeróbna fermentácia organických látok v bioplynových staniciach, ktorá je
+spojená s produkciou a následným využitím bioplynu na výrobu elektrickej energie a tepla
+je stabilne rastúcim segmentom obnoviteľných zdrojov energie a jej výhodou je možnosť
+spracovania organických látok aj s relatívne nízkym obsahom sušiny, nezávislosť výroby
+energie na počasí a možnosť regulácie výkonu v priebehu dňa a roka [18].
+Z hľadiska postupov je v praxi najviac zaužívané mokré kvasenie a menej suché
+kvasenie a čo sa týka biomasy, pri získavaní bioplynu v bioplynových zariadeniach
+využívajú sa rôzne druhy odpadovej a zámerne pestovanej biomasy na výrobu zelenej
+energie. Úspešnosť anaeróbneho postupu závisí od životaschopnosti mikroorganizmov,
+ktorým je potrebné zabezpečiť priaznivé životné podmienky [17]. Celý proces anaeróbnej
+fermentácie ovplyvňuje viacero faktorov, medzi ktoré patrí potenciál produkcie bioplynu
+vstupného materiálu, veľkosť častíc vstupného materiálu, konštrukcia fermentora, použité
+inokulum, pôvod vstupných materiálov, pH, teplota, látkové zaťaženie fermentora,
+hydraulická doba zdržania materiálu vo fermentore, pomer C:N, sušina vstupného fermetora,
+koncentrácia nižších mastných kyselín, spôsob miešania fermentora, obsah inhibítorov
+anaeróbneho procesu vo vstupnom materiáli a obsah stopových prvkov [10].
+
+11
+
+Tabuľka 4 Požiadavky na prostredie v priebehu anaeróbnej fermentácie[10]
+
+Parameter
+
+hydrolýza/acidogenéza
+
+Teplota [°C]
+
+25 – 35
+
+acetogenéza/metanogenéza
+mezofilná 30 - 45
+termofilná 50 - 60
+
+pH [-]
+
+5,2 – 6,3
+
+6,7 - 7,5
+
+C:N [-]
+
+10 – 45
+
+20 – 30
+
+Redox potenciál [mV]
+
++400 až -300
+
+< -250
+
+Požadovaný C:N:P:S [-]
+
+500:15:5:3
+
+600:15:5:3
+
+Stopové prvky
+
+nevyžadujú sa
+
+Ni, Co, Mo, Se
+
+Prvou fázou v procese výroby bioplynu je hydrolýza. Hydrolýza je proces, ktorý zahŕňa
+viacero postupných krokov – produkcia enzýmov, difúzia, absorpcia. Pri hydrolýze sú
+polymérové látky, tuky a bielkoviny štiepené extracelulárnymi enzýmami (tabuľka 5) na
+monomérne látky – aminikyseliny, monosacharidy, mastné kyseliny a niektoré alkoholy.
+Tabuľka 5 Vybrané skupiny extracelulárnych enzýmov a ich funkcie[10]
+
+Enzým
+
+Substrát
+
+Produkt
+
+proteáza
+
+Bielkoviny
+
+Aminokyseliny
+
+celuláza
+
+Celulóza
+
+celobióza a glukóza
+
+hemiceluláza
+
+Hemicelulóza
+
+cukry – xylóza, manóza,
+arabinóza
+
+Amyláza
+
+Škrob
+
+Glukóza
+
+Lipáza
+
+Tuky
+
+mastné kyseliny a glycerol
+
+Pektináza
+
+Pektín
+
+cukry
+
+–
+
+galaktóza,
+
+arabinóza
+Rozklad materiálu, ktorý obsahuje polysacharidy je pomalší ako rozklad materiálov, ktoré
+obsahujú bielkoviny a tuky. V závislosti od vstupných materiálov sú pri hydrolýza prítomné
+aj niektoré rody mikroorganizmov, ako
+Peptostreptococcus a Bifidobacterium [10].
+12
+
+Bacteriodes, Clostridium, Acetovibrio,
+
+Druhou fázou v procese výroby bioplynu je acidogenéza, v priebehu ktorej sa využívajú
+produkty hydrolýzy ako substrát pre acidogénne mikroorganizmy. Ide teda o proces
+transformácie produktov hydrolýzy na nižšie mastné kyseliny (octovú, propiónovú,
+maslovú, valérovú), alkoholy, amoniak,
+
+oxid uhličitý a vodík. Asi 70 % produktov
+
+hydrolýzy predstavuje acetát a plynný vodík a 30 %predstavujú redukované medziprodukty
+– vyššie mastné kyseliny, alkoholy alebo laktáty. Acidogénne mikroorganizmy
+nespotrebúvajú vo svojom metabolizme mastné kyseliny a tie môžu byť pri acetogenéze
+substrátom.
+Treťou fázou v procese výroby bioplynu je acetogenéza - tvorba kyseliny octovej, vodíka
+a CO₂ z produktov acidogenézy [22]. Nie všetky jej produkty môžu byť využité
+v metanogenéze. Za najdôležitejší parameter pri tomto procese je považovaná koncentrácia
+plynného vodíka pri acetogenéze. Plynný vodík môže byť tvorený rôznymi spôsobmi,
+pričom nie všetky mikroorganizmy, ktoré vodík produkujú, sú závislé na symbióze s inými
+mikroorganizmami
+
+a medzidruhovom transfere vodíka. Substráty pre acetogenézu sú
+
+tvorené
+
+mastnými
+
+rôznymi
+
+kyselinami,
+
+alkoholmi,
+
+niektorými
+
+aminokyselinami
+
+a aromatickými látkami (zlúčeniny cyklickej štruktúry, napr. kyselina benzoová, fenoly).
+Reakcie, ktoré pri acetogenéze prebiehajú, sú endotermické. Produktami hydrolýzy
+a acidogenézy sú mastné kyseliny a alkoholy, okrem vodíka sú tieto zlúčeniny tvorené pri
+acetogenéze acetátom a oxidom uhličitým [10].
+Metanogenéza je posledná, štvrtá fáza tvorby bioplynu. Prebieha v anaeróbnych
+podmienkach a a všetky reakcie sú exotermné. Substrátmi sú vodík, oxid uhličitý a acetát –
+tie vznikli v tretej fáze (acetogenéze). V tejto fáze prevláda skupina mikroorganizmov,
+acetotrofných metanogénov, ktoré využívajú acetát ako substrát pri svojom metabolizme
+a štiepia ho na dve časti – jeden z atómov uhlíka je využitý na tvorbu metánu a druhý na
+tvorbu oxidu uhličitého. Acetát je zdrojom asi 70 %bioplynu vyrobeného vo fermentore.
+Ďalšou
+
+významnou
+
+skupinou
+
+mikroorganizmov
+
+sú
+
+hydrgéntrofné
+
+metanogénne
+
+archebaktérie, ktoré sú primárnym substrátom na tvorbu metánu a ony spotrebúvajú plynný
+vodík a oxid uhličitý [10].
+
+13
+
+Obrázok 3 Priebeh fáz anaeróbneho rozkladu a vzniku bioplynu v bioplynovej
+stanici[23]
+
+Pri vstupnom materiáli je dôležitý obsah tukov, proteínov, polysacharidov,
+monosacharidov a pomer jednotlivých komponentov. Čo sa týka veľkosti častíc, ak sú pri
+vstupnom materiáli väčšie ako 20 mm, tak sú pre mikroorganizmy ťažšie spracovateľné.
+Predúprava veľkosti častíc vstupného materiálu ovplyvňuje produkciu bioplynu, resp.
+metánu. Optimálna teplota je taká teplota, pri ktorej mikroorganizmus rastie najrýchlejšie
+a energeticky najefektívnejšie. Nie je daná konštantná teplota prospešná pre všetky
+mikroorganizmy, ale môžeme ich rozdeliť do 3 skupín na základe teplotných režimov, ktoré
+sú pre ne prospešné:
+a) psychrofilné – od 5° C do 25 °C,
+b) mezofilné - od 30 °C do 45 ° C a
+c) termofilné - od 50 °C do 60 °C
+Dnešné bioplynové stanice pracujú zvyčajne s teplotami 30 – 45 °C alebo 50 – 60 °C.
+
+14
+
+Obrázok 4 Bioplynová stanica Gut Hülsenberg [23]
+
+Hodnota pH spracúvaného materiálu je najlepším indikátorom stability procesu.
+Bolo dokázané, že optimálne rozpätie pH sa pohybuje v rozmedzí od 6,5 do 7,5. Optimálna
+hodnota pH vždy závisí na spracovávanom materiáli a použitej technológii. Zaťaženie
+fermentora organickými látkami sa pohybuje od 0,5 do 3 kg organickej sušiny vstupného
+materiálu na kg/m3/deň objemu fermentora a deň. Maximálna hranica zaťaženosti je 5
+kg/m3/deň. Ak má fermentor vysoké zaťaženie, organickými látkami, zvyšuje sa
+koncentrácia mastných kyselín, čo je neželaným javom. Doba zdržania nám udáva čas, počas
+ktorého je elementárna častica spracúvaného materiálu v kontakte so substrátom vo
+fermentore. Miešanie obsahu fermetora proces anaeróbnej fermentácie významne
+ovplyvňuje, a to najmä vďaka rovnomernému miešaniu živín a mikroorganizmov
+v spracúvanom materiáli a vďaka teplotnej homogenite v celom objeme fermentora. Za
+výhody miešania sa považuje eliminácia tvorby sedimentov, teplotnej stratifikácie,
+udržiavanie
+
+chemickej
+
+a fyzikálnej
+
+jednoty,
+
+rýchle
+
+rozptýlenie
+
+metabolických
+
+medziproduktov, ktoré vznikajú pri rozklade vstupných materiálov a rýchle rozptýlenie
+všetkých toxických látok.
+Pomer uhlíka a dusíka by sa mal v bioplynovej stanici pohybovať v pomere 25 - 30
+: 1. Je to dôležité, lebo tento pomer významne ovplyvňuje rast a činnosť mikroorganizmov.
+Pre proces anaeróbnej fermentácie je dôležitý aj obsah stopových prvkov - železa (Fe), niklu
+(Ni), kobaltu (Co), molybdénu (Mo), selénu (Se) a wolframu (W). Inhibítormi anaeróbnej
+15
+
+fermentácie sú čpavok, mastné kyseliny, sulfidy, ióny alkalických kovov (Na, K, Mg, Ca a
+Al), ťažké kovy, organické látky, dezinfekčné prípravky, antibiotiká, insekticídy a herbicídy
+[10].
+Spaľovanie
+Spaľovanie je najstaršou termochemickou premenou biomasy a je zároveň
+najrozšírenejšou a najjednoduchšou metódou využitia biomasy na energetické účely.
+Najrozšírenejšou surovinou na spaľovanie je drevo, no využíva sa aj biomasa z rýchlo
+rastúcich drevín, energetických rastlín, ale aj bežne pestovaných plodín, napr. slama
+z obilnín.
+Na produkciu tepelnej energie sa využíva priame spaľovanie bioplynu v kotloch.
+Buď sa spaľuje na mieste jeho vzniku alebo býva prepravovaný potrubím ku konečným
+užívateľom. Pre účely výroby tepelnej energie už nie je potrebné bioplyn nijako upravovať.
+Pri kombinovanej výrobe tepelnej a elektrickej energie sa využíva bioplyn vyprodukovaný
+v bioplynových staniciach. Pred konverziou je potrebné bioplyn v kogeneračnej jednotke
+zbaviť tuhých častíc a vlhkosti, nakoľko kogeneračné jednotky majú stanovené limity pre
+obsah sírovodíka, halogenovaných uhľovodíkov a ďalších prímesí v použitom bioplyne.
+Spaľovacie motory sú štvordobé a pracujú Ottovým cyklom a Dieselovým cyklom bez
+pomocného paliva. Spaľovacie motory s pomocným palivom sú mikroplynové turbíny,
+Stirlingov motor a palivové články. Získaná elektrická energia môže byť použitá ako
+procesná pre elektrické zariadenia inštalované na bioplynovej stanici (čerpadlá, riadiace
+systémy, miešacie zariadenia). Čo sa týka tepelnej energie, časť tepla je spotrebovaná na
+ohrev fermentora a dve tretiny vyrobenej tepelnej energie bývajú využívané na externé
+potreby [10].
+
+16
+
+Obrázok 5 Schéma kogeneračnej jednotky[10]
+
+Plynové spaľovacie motory pracujú na princípe Ottovho cyklu, majú zapaľovacie
+sviečky a sú prevádzkované s prebytkom vzduchu kvôli znižovaniu emisií oxidu
+uhoľnatého. Motory sú schopné spaľovať bioplyn s minimálnym obsahom metánu. Možno
+ich prevádzkovať na bioplyn alebo zemný plyn, elektrická účinnosť týchto motorov sa
+pohybuje v rozmedzí 40 – 45 % a tepelná účinnosť v rozmedzí 35 – 38 % [10].
+Trigenerácia je taká forma výroby elektrickej a tepelnej energie, pri ktorej sa vyrába
+tepelná energie nielen pre kúrenie, ale aj pre chladenie. Tento systém produkuje súčasne
+tepelnú aj elektrickú energiu podľa potreby.
+Produkcia biometánu – bioplyn môže byť využitý na elektrické a tepelné účely, ale môže
+byť komprimovaný a použitý ako palivo do vozidiel. Pred použitím ako paliva do vozidiel
+musí byť zbavený prímesí, najmä vodnej pary, oxidu uhličitého, sírovodíka, kyslíka, vyšších
+uhľovodíkov, halogenderivátov uhľovodíkov a kremíka alebo organokremičitých zlúčenín.
+Obsah metánu v bioplyne je možné zvýšiť z obvyklých 50 – 75 % až na viac ako 95 %.
+Takýto plyn sa volá biometán [10].
+
+17
+
+Obrázok 6 Spaľovňa v Rostocku[25]
+
+Produkcia
+
+oxidu uhličitého a metánu - výroba čistého metánu (CH₄) a oxidu
+
+uhličitého (CO2) z bioplynu môže byť alternatívou k produkcii metánu a oxidu uhličitého z
+fosílnych zdrojov. Tieto látky sú dôležité pre chemický priemysel. Čistý CO₂ sa používa na
+výrobu polykarbonátov, suchého ľadu alebo pre povrchovú úpravu. Čistý metán sa používa
+na výrobu sadzí používaných ako plnidlo a farbivo v gumárenskom priemysle [10].
+Kompostovanie
+„Kompostovanie je procesom aeróbnej exotermickej mikrobiologickej premeny biologicky
+rozložiteľných materiálov na látky bohaté na obsah humózneho materiálu, živín a humusu“
+[20]. Produktom tohto procesu je kompost, teda organické hnojivo. Jeho vlastnosti a kvalita
+závisia, podobne ako pri vyššie spomenutých procesoch, od kvality vstupného materiálu.
+Vhodný vstupný materiál sa nachádza v tabuľke 6:
+
+18
+
+Tabuľka 6 Materiály vhodné na kompostovanie[21]
+
+Kompostovací proces je prirodzenou premenou biologicky rozložiteľného materiálu,
+jeho výsledkom je zdroj živín pre rastliny a tento zdroj je prirodzený. Kompostovať možno
+väčšinu biologicky rozložiteľných materiálov, ktoré produkuje poľnohospodársky podnik
+(čerstvá tráva, stará tráva, seno, slama, lístie, drevná štiepka, piliny, zvyšky rastlín, hnojivo
+vyprodukované hospodárskymi zvieratami apod.). Kompost má špecifické vlastnosti so
+širokým pomerom C:N. Pomaly pôsobiace hnojivo z pohľadu účinku dusíka umožňuje
+využívať organické hnojivá na hnojenie rastlín podľa špecifických potrieb agrotechniky
+v podnikoch. Kompostovaním sa znižujú náklady na skladovanie prebytočnej biomasy,
+ktorá sa nevyužíva na výrobu krmív. Jeho nevýhodou je časová náročnosť oproti manipulácii
+s hnojivami pochádzajúcimi z hospodárskych zvierat. Pomer uhlíka a dusíka pri vstupných
+materiáloch zohráva veľmi dôležitú úlohu pre celý proces kompostovania. Tento pomer je
+základným garantom nutričných pomerov a vitálnej prosperity mikroogranizmov. Napr.
+pomer C:N pri kompostovaní prebytočnej trávnatej biomasy je 30 – 35:1. Druhým
+základným parametrom je vlhkosť kompostovanej zmesi, ktorá je existenčnou podmienkou
+pre reprodukciu kmeňov mikrooragnizmov. Nedostatočná vlhkosť obmedzuje účinnosť
+mikroorganizmami produkovaných fermentov, narušuje a brzdí biochemické deje. Vysoká
+vlhkosť zase môže tlmiť optimálny teplotný režim vo vnútri biomasy a spomaľovať
+fyziologické aktivity spolupracujúcich mikroorganizmov a vytváraním kyselín meniť pH
+prostredia. Ideálna vlhkosť je 40 – 65 %. Pre správne fungovanie mikrobiálnych
+dekompozitorov je prítomnosť materiálov ako drevná štiepka, piliny, slama, seno apod., teda
+materiálov, ktoré vytvoria podmienky na obohacovanie kompostu vzduchom, čím sa doň
+dostane kyslík potrebný na zachovanie základnej životnej funkcie – dýchaniu
+19
+
+mikroorganizmov. Taktiež je dôležitá teplota, optimálna teplota je 30 - 40 °C. Samotný
+kompostovací proces prebieha v 2 fázach:
+a) primárna fáza: prebieha v úvodnej fáze mikrobiotechnologickej premeny zo zmesi
+biologicky rozložiteľných materiálov, optimalizuje sa C:N, prebieha tu proces
+hygienizácie. Za ukončenú sa táto fáza považuje vtedy, ak vnútorná teplota dlhodobo
+nevystúpi nad 40 °C;
+b) sekundárna fáza: nadväzuje na primárnu, stabilizujú a humifikujú sa vložené hmoty
+a paralelne vzniká zrelý kompost pripravený na spotrebu. Požiadavky na kyslík
+a uvoľňovanie energie sa významne znižujú, teplota samovoľne klesá pod 30 °C.
+V tejto fáze sa docieli odbúranie a premena horšie degradovateľných typov celulózy
+a lignínu, stabilizácia kompostu intenzívnym odbúravaním prítomnej biomasy,
+pripravenosť spracovanej hmoty na produkciu neutrálneho kvalitného kompostu,
+ktorý dozrel na účelné použitie [20].
+Obrázok 7 Typická poľnohospodárska kompostáreň s otvoreným kompostovaním na
+asfaltovej vyhnívacej ploche[24]
+
+20
+
+2 PRAKTICKÁ ČASŤ
+2.1 Ciele práce
+Primárnym cieľom práce je prostredníctvom metódy kvantitatívneho výskumu zistiť,
+akým spôsobom nakladajú participanti výskumu s vedľajšími produktmi poľnohospodárskej
+výroby.
+Sekundárne ciele sú:
+✓ zabezpečiť čo najviac participantov výskumu,
+✓ zostaviť dotazník,
+✓ u participantov zistiť podiel rastlinnej a živočíšnej výroby,
+✓ zistiť, aké konkrétne plodiny participanti pestujú a aké konkrétne hospodárske
+zvieratá chovajú,
+✓ aké vedľajšie produkty rastlinnej a živočíšnej výroby participantom vznikajú a ako
+s nimi nakladajú, či ich spracúvajú interne alebo externými dodávateľmi služieb,
+✓ či majú v prípade externých dodávateľov služieb vedomosť o spôsobe nakladania
+s vedľajšími produktmi rastlinnej a živočíšnej výroby,
+✓ výšku nákladov na spracovanie vedľajších produktov poľnohospodárskej výroby,
+✓ zdroje
+
+informácií
+
+o spôsoboch
+
+nakladania
+
+s vedľajšími
+
+produktmi
+
+poľnohospodárskej výroby,
+✓ strednodobé a dlhodobé plány participantov v oblasti nakladania s vedľajšími
+produktmi poľnohospodárskej výroby.
+
+2.2 Výskumné metódy a metodológia spracovania empirickej časti
+Výskumnou metódou empirickej časti práce je kvantitatívna metóda. Oproti
+kvalitatívnej metóde sa líši v tom, že „sa snaží realitu zjednodušiť, kategorizovať, zvyčajne
+narába s číselným vyjadrením javov“ [26]. Pri tejto metóde sa využívajú štatistické postupy.
+V práci štatisticky spracúvame dáta získané prostredníctvom výskumného nástroja –
+neštandardizovaného dotazníka. Dáta spracúvame do grafov a tabuliek a následne ich pod
+nimi komentujeme.
+
+21
+
+2.3 Výskumný súbor a spôsob jeho výberu
+V prvom kroku výberu výskumného súboru sme si stanovili parametre, ktoré by mali
+participanti spĺňať:
+•
+
+ide o poľnohospodárske družstvo,
+
+•
+
+prevádzkuje rastlinnú, živočíšnu výrobu alebo oba varianty,
+
+•
+
+na družstve sa nachádzajú vedľajšie produkty rastlinnej alebo živočíšnej výroby,
+alebo oboch,
+
+•
+
+dotazovaná osoba z družstva má informácie o tom ako sa na družstve narába
+s odpadmi.
+
+V druhom kroku sme si stanovili spôsob výberu, vybrali sme si zámerný výber. Stanovili
+sme si kritériá, ktoré museli participanti spĺňať a oslovili sme len tých, ktorí títo kritériá
+splnili. Vzorka participantov nie je reprezentatívna, nakoľko sa podarilo získať k spolupráci
+na výskume relatívne malé množstvo subjektov – 17. Oslovované boli organizačno – právne
+subjekty, ktoré následne vyplnenie dotazníkov delegovali na určené osoby.
+Graf 1 Organizačno – právna forma participantov
+
+Organizačno - právna forma
+
+19%
+
+družstvo
+50%
+31%
+
+s.r.o.
+a.s.
+
+Najčastejšou organizačno – formou subjektu bolo družstvo (50 % participantov),
+nasledovali spoločnosti s ručením obmedzeným (31 %) a najmenej bolo akciových
+22
+
+spoločností (19 %). V číslach to je 8 družstiev, 5 s. r. o. a 3 akciové spoločnosti. Pri družstve
+Agro – bio Hubice sme pri 1 zriaďovateľovi zaznamenali 2 subjekty, v ktorých sme výskum
+realizovali: Adro-bio Hubice s organizačno – právnou formou akciová spoločnosť a Agro –
+bio Hubice – špeciálna výroba, družstvo. Do dát prezentovaných v grafe je zaradený tento
+subjekt medzi akciové spoločnosti.
+Zoznam participantov:
+Poľnohospodárske družstvo Veľké Kosihy
+Mayerranch, s.r.o. Michal na Ostrove
+Tim Is, s.r.o. Dunajská Streda
+Poľnohospodárske družstvo v Ohradoch
+Agro-bio Hubice
+Poľnohospodárske družstvo v Hornej Potôni
+Varia spol. s.r.o. Mierovo
+Agro – bio Hubice – špeciálna výroba
+Poľnohospodárska spoločnosť Dolné Saliby
+Poľnohospodárske družstvo Dolný Štál
+Poľnohospodárske družstvo vo Veľkom Blahove
+Poľnohospodárske družstvo v Orechovej Potôni
+Poľnohospodárske družstvo v Jurovej
+Corn s.r.o. Holice
+VINAGRO, a.s. Macov
+POLISCHO s.r.o. Gabčíkovo
+Poľnohospodárske družstvo Holice
+Uvádzame názvy, ktoré participanti uviedli na dotazníkoch.
+Participanti pochádzali z 2 samosprávnych krajov a 3 okresov. 16 participantov
+pochádzalo z Trnavského samosprávneho kraja a 1 participant – Poľnohospodárske družstvo
+23
+
+Veľké Kosihy – z Nitrianskeho samosprávneho kraja. 15 participantov pochádzalo z okresu
+Dunajská Streda , 1 z okresu Galanta (Poľnohospodárska spoločnosť Dolné Saliby) a 1
+z okresu Komárno (Poľnohospodárske družstvo Veľké Kosihy). Participanti obdržali
+dotazníky osobne alebo prostredníctvom elektronickej pošty (emailu), po vyplnení boli
+osobne zozbierané a skontrolované (či boli správne vyplnené), nasledovali rozhovory
+s osobami, ktoré dotazníky vypĺňali. V osobných rozhovoroch sa vyjadrovali participanti
+kriticky k rozsahu dotazníka a zahlteniu vlastnou prácou.
+
+2.4 Výsledky
+2.4.1 Spracovanie a interpretácia výsledkov výskumu
+V prvej položke dotazníka sme sa pýtali na identifikačné údaje participanta, ako sú
+názov podniku, kraj, organizačno – právna forma podniku, a na výmeru. Identifikačné údaje
+sme uviedli v predchádzajúcej podkapitole. Výmera podnikov sa pohybovala v rozpätí od
+149, 81 ha do 2917, 78 ha.
+Graf 2 Výmera poľnohospodárskych podnikov
+
+Výmera poľnohospodárskych podnikov
+
+24%
+
+17%
+
+do 400 ha
+od 401 ha do 800 ha
+24%
+
+35%
+
+od 801 ha do 1200 ha
+nad 1201 ha
+
+Najviac participantov (6) malo výmeru poľnohospodárskeho podniku od 401 ha do
+800 ha (35 %). Od 801 ha do 1200 ha a nad 1201 ha mal rovnaký počet participantov – 4
+(po 24 %) a najmenej (3) bolo podnikov do 400 ha (17 %).
+
+24
+
+V druhej položke dotazníka sme sa pýtali, či podnik prevádzkuje rastlinnú výrobu,
+živočíšnu výrobu alebo oba typy výroby.
+Graf 3 Typy prevádzkovanej výroby
+
+Typy výroby
+
+41%
+
+rastlinná
+59%
+0%
+
+živočísna
+oba typy
+
+17 podnikov uviedlo, že prevádzkuje len rastlinnú výrobu (59 %). Samostatne len
+živočíšnu výrobu neprevádzkuje ani jeden podnik. Oba typy výroby prevádzkuje 7 podnikov
+(41 %).
+V tretej položke dotazníka sme zisťovali, aké poľnohospodárske plodiny pestoval
+podnik v roku 2021 (v zátvorkách za plodinami uvádzame počet participantov, ktorí plodinu
+pestovali) : pšenica tvrdá (6), slnečnica (7), kukurica na siláž (14), pšenica ozimná (9),
+jačmeň jarný (5), kukurica na zrno (10), repka ozimná (5), lucerna siata (1), cirok (3),
+pohánka (1), jačmeň ozimný (3), ovos siaty (1), raž (2), repa cukrová (6), zemiaky (1),
+lucerna senáž (2), sója (2),facélia (2), pšenica jarná (3), hrach siaty (1), kukurica cukrová
+(1), mak siaty (1), ovos nahý (3), kapusta repková ozimná (3), slnečnica pásikavá (1), bio –
+pšenica jarná (1), bio – tritikale (1). Uvádzame názvy, ktoré participanti uviedli na
+dotazníkoch.
+V štvrtej položke dotazníka nás zaujímalo, aké vedľajšie produkty a odpady vznikajú
+podnikom z rastlinnej výroby. Odpovede na túto otázku uvádzali všetci participanti
+výskumu, nakoľko rastlinnú výroby prevádzkujú všetci.
+25
+
+Graf 4 Vedľajšie produkty a odpad z rastlinnej výroby
+
+Vedľajšie produkty a odpad - rastlinná
+výroba
+
+14%
+
+4%
+46%
+
+36%
+
+slama obilovín
+pozberové zvyšky
+slama repky
+zemiakové vňate
+
+V riadku „iné“, ktorý mali participanti k dispozícii v poslednom riadku položky
+dotazníka sa vyskytli nasledovné odpovede: rezky cukrovej repy (1) a kôrovie slnečnice (1).
+Najväčšie množstvo (13) participantov uviedlo, že ako vedľajší produkt u nich vzniká slama
+obilovín (46 %), nasledovali pozberové zvyšky u 10 participantov (36 %), štyria participanti
+produkujú slamu repky (14 %) a len 1 participant zemiakové vňate (4 %). Samozrejme,
+predpokladali sme oveľa širšie a pestrejšie zastúpenie vedľajších produktov alebo odpadu,
+preto sme uviedli v tejto položke toľko možností výberu.
+V piatej položke dotazníka sme sa pýtali na hospodárske zvieratá, ktoré chovajú
+participanti v rámci živočíšnej výroby. Na túto položku odpovedalo len 7 participantov, ktorí
+živočíšnu výrobu prevádzkujú spolu s rastlinnou, samostatnú živočíšnu výrobu
+neprevádzkuje ani jeden participant. Pri tejto otázke sme nezadávali možnosti, ale len
+tabuľku, ktorú mali vyplniť participanti. Najviac participantov chová dojnice (6)
+a vysokoteľné jalovice (6), nasledujú teľatá do 3 mesiacov (5), jalovice do 12 mesiacov (3),
+jalovice do 24 mesiacov (3), kravy (2), teľatá do 6 mesiacov (2), brojlery (1), ciciaky (1),
+odstavčatá (1), predvýkrm (1), chovné prasničky (1), výkrm ošípaných (1), prasnice (1),
+kance. Názvy zvierat uvádzame presne v takom znení, ako ich uvádzali participanti.
+V zátvorkách uvádzame počet participantov, u ktorých sa dané zviera chová.
+
+26
+
+V šiestej položke dotazníka sme sa pýtali na vedľajšie produkty a odpad zo
+živočíšnej výroby.
+Graf 5 Vedľajšie produkty a odpad zo živočíšnej výroby
+
+Vedľajšie produkty a odpad - živočíšna
+výroba
+6% 6%
+
+28%
+
+kravský hnoj
+hovädzia hnojovica
+
+32%
+
+telá uhynutých zvierat
+hydinový trus
+
+28%
+
+hovädzí hnoj
+
+Najviac participantov (6) uviedlo telá uhynutých zvierat (32 %), v rovnakom
+zastúpení (5) bol kravský hnoj a hovädzia hnojovica (po 28 %), a v rovnakom pomere (1)
+nasledovali hydinový trus a hovädzí hnoj (po 6 %). V položke „iné“ jeden participant
+uviedol ako vedľajší produkt maštaľný hnoj z hlbokej podstieľky.
+V šiestej položke dotazníka sme sa pýtali, či likvidujú participanti odpady a vedľajšie
+produkty z rastlinnej výroby vo svojej pôsobnosti alebo zabezpečujú túto službu z externého
+prostredia.
+
+27
+
+Graf 6 Likvidácia odpadov a vedľajších produktov z rastlinnej výroby
+
+Likvidácia odpadov - rastlinná výroba
+6% 6%
+
+vlastná pôsobnosť
+externé zabezpečenie
+oba spôsoby
+
+88%
+
+Väčšina participantov (15) si zabezpečuje likvidáciu odpadov a vedľajších produktov
+z rastlinnej výroby vo vlastnej réžii, teda interne (88 %). Jeden participant uviedol, že
+využíva služby externých subjektov (6 %) a jeden participant uviedol, že využíva oba
+spôsoby (6 %).
+V ôsmej položke sme sa pýtali na to isté, ale pri živočíšnej výrobe. Tu opäť
+odpovedali na otázku len tí participanti, ktorí prevádzkujú živočíšnu výrobu.
+Graf 7 Likvidácia odpadov a vedľajších produktov zo živočíšnej výroby
+
+Likvidácia odpadov - živočíšna výroba
+
+25%
+
+vo svojej pôsobnosti
+63%
+
+12%
+
+externé zabezpečenie
+oba spôsoby
+
+28
+
+Päť participantov si zabezpečuje likvidáciu vedľajších produktov a odpadov
+kombináciou interného spracovania aj externých dodávateľov (63 %). Dvaja participanti si
+likvidáciu zabezpečujú sami (25 %) a 1 využíva výlučne externé zabezpečenie (12 %).
+V deviatej položke dotazníka sme sa pýtali na spôsoby likvidácie alebo využitia
+vedľajších produktov rastlinnej výroby v prípade, že si ich participant spracúva sám.
+V odpovediach sa nachádzali nasledovné spôsoby využitia alebo likvidácie:
+a) kŕmenie (5)
+b) podstieľanie (9)
+c) zaorávanie (16)
+d) predaj (1)
+Graf 8 Spôsoby likvidácie alebo využitia vedľajších produktov a odpadov rastlinnej
+výroby
+
+Spôsoby likvidácie - rastlinná výroba
+
+3%
+
+16%
+
+kŕmenie zvierat
+52%
+
+29%
+
+podstieľanie zvierat
+zaorávanie do pôdy
+predaj
+
+Na podstieľanie a kŕmenie je využívaná slama obilovín, slama repky, zaorávajú sa
+pozberové zvyšky, slama obilovín, kôrovie slnečnice, slama repky, zemiakové vňate, tráva
+a na predaj je využívaná slama obilovín (1). Najviac participantov v rámci nakladania
+s vedľajšími produktmi a odpadmi z rastlinnej výroby tieto zaoráva (16), nasleduje
+podstieľanie pod hospodárske zvieratá (9), kŕmenie hospodárskych zvierat (5) a jeden
+participant využíva slamu obilovín na predaj.
+29
+
+V desiatej položke nás zaujímalo to isté ako v deviatej, ale v živočíšnej výrobe.
+V odpovediach sa nachádzali nasledovné spôsoby likvidácie:
+a) zaoranie do pôdy (6)
+b) injektáž do pôdy (4)
+c) odvoz do kafilérie (1)
+Graf 9 Spôsoby likvidácie alebo využitia vedľajších produktov a odpadov živočíšnej
+výroby
+
+Spôsoby likvidácie - živočíšna výroba
+
+9%
+
+36%
+
+55%
+
+zaorávanie do pôdy
+injektáž do pôdy
+odvoz do kafilérie
+
+Participanti zaorávajú do pôdy hovädzí hnoj, kravský hnoj, ovčí hnoj, hydinový trus,
+injektážou do pôdy nakladajú s hovädzou hnojovicou a do kafilérie odváža jeden participant
+telá uhynutých zvierat.
+V jedenástej položke dotazníka sme žiadali participantov uviesť zdroj externej
+likvidácie vedľajších produktov a odpadov rastlinnej výroby, ak ho majú. U všetkých
+participantov bolo buď políčko na odpoveď preškrtnuté, alebo v ňom bolo uvedené slovo
+„nemáme“. U jedného participanta sme zaznamenali odpoveď: „vedľajšie produkty sú
+predané pre výrobu bioplynu“.
+Na dvanástu položku odpovedali len participanti prevádzkujúci živočíšnu výrobu.
+Šesť participantov uviedlo tú istú firmu ktorou je spoločnosť s ručením obmedzeným
+
+30
+
+Asanácia, s.r.o. v Žiline a jeden participant uviedol, že odvážajú telá uhynutých zvierat do
+kafilérie.
+V trinástej položke dotazníka sme sa pýtali, či participanti využívajú niektoré druhy
+odpadov a vedľajších produktov rastlinnej alebo živočíšnej výroby pre ďalšie spracovanie,
+potreby a pod. v ich podniku a žiadali sme ich, aby uviedli konkrétne príklady. Na túto
+otázku odpovedalo 11 participantov slovom „nie“ a 6 participantov uviedlo nasledovné
+konkrétne príklady:
+a) slama z obilovín – spôsob využitia: krmivo pre zvieratá, podstieľka pre zvieratá (5),
+b) maštaľný hnoj – spôsob využitia: hospodárske hnojivo (5)
+c) hnojovica – spôsob využitia: hospodárske hnojivo (3)
+d) telá uhynutých hospodárskych zvierat – spôsob likvidácie: spálenie (1).
+V štrnástej položke dotazníka sme sa pýtali na náklady na likvidáciu odpadov
+a vedľajších produktov rastlinnej a živočíšnej výroby za roky 2018, 2019, 2020 a 2021.
+Tabuľka 7 Vývoj nákladov na likvidáciu odpadov a vedľajších produktov rastlinnej a
+živočíšnej výroby za od r. 2018 – 2021
+Výška nákladov (rozpätie od – do)
+
+Rok
+2018
+
+320 Eur – 12700 Eur
+
+2019
+
+540 Eur – 13800 Eur
+
+2020
+
+750 Eur – 15200 Eur
+
+2021
+
+966 Eur – 17500 Eur
+
+Výška nákladov v daných rokoch sa pohybovala v rozpätí tak, ako to je uvedené
+v tabuľke 7. Preštudovali sme si všetky dáta a spomedzi nich sme vybrali najnižšiu a
+najvyššiu položku zo všetkých odpovedí v daných rokoch. Túto otázku sme kládli
+participantom preto, aby sme si dokázali utvoriť predstavu o výške ročných nákladov na
+likvidáciu odpadu a vedľajších produktov poľnohospodárskej výroby a ich vývoji za
+posledné 4 roky.
+V pätnástej položke dotazníka sme sa pýtali na zdroje informácií o možnostiach
+nakladania s odpadmi a vedľajšími produktmi poľnohospodárskej výroby, ktoré participanti
+využívajú. Participanti mali možnosť vyjadriť sa k možnostiam: internet, televízia, obchodní
+
+31
+
+zástupcovia, sprostredkovatelia a mali k dispozícii aj riadok „iné“, do ktorého mohli zapísať
+inú možnosť, ktorá sa nenachádzala medzi ponúknutými.
+Graf 10 Zdroje informácii o možnostiach nakladania s odpadmi a vedľajšími
+produktami poľnohospodárskej výroby
+
+Zdroje informácií
+
+4%
+30%
+
+30%
+
+internet
+televízia
+obchodní zástupcovia
+
+4%
+
+sprostredkovatelia
+
+32%
+
+iné
+
+Najviac participantov (16) využíva ako zdroj informácií obchodných zástupcov (37 %).
+Druhým najfrekventovanejším zdrojom informácií je internet a sprostredkovatelia (po 15) ,
+ktorými sú väčšinou kolegovia z odvetvia (po 30 %). Najmenej participantov (2) hľadá
+informácie v televízii (4 %) a dvaja participanti uviedli v možnosti „iné“ odborné semináre
+(4 %).
+V šestnástej položke sme sa pýtali, či participanti vedia, ako sa nakladá s odpadmi
+a vedľajšími produktmi poľnohospodárskej výroby v prípade, ak ich zabezpečuje externá
+firma. Z odpovedí na 12. položku sme vedeli, že 6 participantov využíva služby externej
+firmy v Žiline a 1 služby kafilérie. Predpokladali sme, že niektorí participanti môžu vedieť
+o spôsoboch nakladania, no niektorí nie. Všetkých 7 participantov uviedlo, že vie o tom, že
+sa telá uhynutých zvierat spaľujú, 1 participant uviedol. Že z rezky cukrovej repy sa vyrába
+bioplyn a 1 participant uviedol, že externá firma od nich odoberá prázdne obaly, ale nevie,
+akým spôsobom s nimi nakladajú.
+
+32
+
+V sedemnástej položke nás zaujímali plány participantov do budúcnosti ohľadom
+využívania a likvidácie odpadov a vedľajších produktov poľnohospodárskej výroby. Ich
+odpovede prepisujeme v pôvodnom znení:
+a) „Likvidáciu odpadov a vedľajších produktov poľnohospodárskej výroby chceme
+spracúvať podobným spôsobom, ako doteraz.“
+b) „Nemáme v tomto smere žiadnu stratégiu.“
+c) „Plánujeme iné oblasti, tejto sa nevenujeme.“
+d) „Budeme pokračovať v začatých metódach.“
+e) „Zavedené metódy sa nám osvedčili.“
+f) „Neplánujeme zmenu.“
+g) „Budeme to robiť tak, ako doteraz.“
+h) „Naďalej plánujeme likvidovať vedľajšie produkty rastlinnej výroby zaorávaním do
+pôdy.“
+i) „Nemienime nič meniť.“
+j) „Budeme pokračovať ako doteraz.“
+k) „Myslíme si, že zmeny nie sú potrebné.“
+l) „Pokračujeme v doterajšej metóde.“
+m) „Zavedené metódy nám vyhovujú.“
+n) „Neplánujeme zmenu.“
+o) „Budeme to robiť tak isto, ako doteraz.“
+p) „Chceme znižovať množstvo odpadu.“
+q) „Náš plán je pokračovať v doteraz zavedených metódach.“
+V osemnástej položke dotazníka sme sa pýtali na zdroje informácií participantov o
+inováciách a nových technológiách v oblastiach nakladania s odpadmi a vedľajšími
+produktmi poľnohospodárskej výroby.
+
+33
+
+Graf 11 Zdroje informácií o inováciách a nových technológiách v oblastiach
+nakladania s odpadmi a vedľajšími produktmi poľnohospodárskej výroby
+
+Zdroje informácií - inovácie
+
+15%
+
+20%
+
+internet
+odborná literatúra
+
+13%
+15%
+
+legislatívne pramene
+školenia/semináre
+
+18%
+19%
+
+konferencie
+obchodní zástupcovia
+
+Najviac participantov (16) hľadá informácie o inováciách a nových technológiách
+v oblasti nakladania s odpadmi a vedľajšími produktmi poľnohospodárskej výroby na
+internete
+
+(20
+
+%),
+
+nasledujú
+
+zdroje
+
+informácií
+
+legislatívne
+
+pramene
+
+(19
+
+%),
+
+školenia/semináre (18 %), po 15 % z odbornej literatúry a od obchodných zástupcov
+a najmenej – 13 % z konferencií.
+V devätnástej položke dotazníka sme sa participantov pýtali, či a v akých
+vnútropodnikových dokumentoch majú zapracované podmienky ohľadom nakladania
+s odpadmi a vedľajšími produktami poľnohospodárskej výroby. 11 participantov zo 17
+uviedlo, že nemajú takýto typ dokumentu. 6 participantov uviedlo, že majú, no každý
+uvádzal iné názvy dokumentov:
+a) Evidenčné listy odpadov (1)
+b) Ohlásenie o vzniku odpadu a nakladaní s ním – na okresný úrad, odbor životného
+prostredia raz ročne (1)
+c) Sprievodný list (1)
+d) Plán hnojenia (4)
+
+34
+
+V zátvorkách uvádzame počet participantov, ktorí danú odpoveď uviedli. Odpovede
+uvádzame v pôvodnom znení tak, ako boli zapísané v dotazníkoch.
+V poslednej, dvadsiatej položke dotazníka sme sa pýtali na to, či majú participanti
+zamestnanca povereného agendou nakladania s odpadmi a vedľajšími produktami
+poľnohospodárskej výroby. V prípade kladnej odpovede sme žiadali uviesť jeho pracovnú
+pozíciu v podniku. Takéhoto zamestnanca majú len 2 participanti a 15 nie. Ohľadom
+pracovnej pozície jeden participant uviedol pracovnú pozíciu agronóm a druhý participant
+namiesto pracovnej pozície uviedol meno, priezvisko a titul konkrétneho zamestnanca bez
+pracovnej pozície.
+
+2.4.2 Diskusia
+Pri koncipovaní výskumného nástroja, ktorým bol neštandardizovaný dotazník sme mali
+isté predstavy, ako by asi mali participanti približne odpovedať a mali sme od výskumu isté
+očakávania, ktoré sa týkali najmä množstva a rôznorodosti vedľajších produktov
+poľnohospodárskej výroby.
+Predpokladali sme, že jednotlivé subjekty poľnohospodárskej výroby budú
+prevádzkovať výlučne oba typy výroby – rastlinnú aj živočíšnu, no výsledky výskumu
+ukázali, že všetci participanti prevádzkovali rastlinnú výrobu, no živočíšnu len 7 subjektov,
+aj to spolu s rastlinnou. Samostatne živočíšnu výrobu neprevádzkuje ani jeden participant.
+Pri otázkach ohľadom vedľajších produktov poľnohospodárskej výroby a odpadov sme
+čakali od odpovedí participantov oveľa väčšiu pestrosť týchto produktov a odpadov. Na
+základe štúdia odborných prameňov pri spracúvaní teoretickej časti bakalárskej práce sme
+sa domnievali, že poľnohospodárske podniky vedľajšie produkty svojej poľnohospodárskej
+výroby zhodnocujú vo vlastných zariadeniach, napr. splyňovaním alebo kompostovaním, no
+výsledky výskumu boli nasledovné: vedľajšie produkty poľnohospodárskej výroby a odpady
+participanti väčšinou zapracúvajú bez kompostovania do pôdy, používajú ako krmivo alebo
+podstieľku pre hospodárske zvieratá alebo telá uhynutých zvierat odvážajú do kafilérií.
+Externých spracovateľov odpadu a vedľajších produktov má len zopár participantov
+a ostatní nakladajú s odpadmi ako uvádzame vyššie. Samozrejme, ich finančné náklady na
+likvidáciu vedľajších produktov a odpadov majú v sledovanom období posledných 4 rokov
+vzostupný trend. Rozpätie nákladov sa odvíjalo od veľkosti poľnohospodárskeho subjektu –
+35
+
+zaznamenali sme, že menšie podniky mali vyššie náklady a menšie podniky mali náklady
+nižšie. Rozpätie sme uvádzali ako najnižší a najvyšší uvádzaný náklad v danom roku
+spomedzi sledovaných subjektov. Logické by teda bolo, aby začali poľnohospodárske
+subjekty uvažovať nad vlastným ekologickým zúročovaním týchto produktov, no ich
+krátkodobé ani dlhodobé plány takémuto postupu nenasvedčujú, nakoľko takmer všetci
+participanti plánujú pokračovať v zaužívaných trendoch. Jeden participant uviedol, že
+v horizonte krátkodobých a dlhodobých cieľov plánuje znižovať množstvá odpadu, avšak
+ako konkrétne neuviedol. Myslíme si, že vhodným riešením by bolo zriadenie spaľovne
+alebo aspoň kompostárne, prípadne predaj biomasy za účelom jej ďalšieho spracovania.
+Predpokladáme, že problém je v neznalosti nových trendov v oblasti spracovania biomasy
+a relatívne malý domáci trh so subjektmi, ktoré biomasu spracúvajú. Taktiež si myslíme, že
+by bolo vhodné legislatívne zakotviť aj pre malé poľnohospodárske subjekty prevádzkovať
+aspoň niektoré formy spracúvania biomasy, napr. kompostovanie.
+Zo 17 participantov majú len 2 osobu poverenú agendou spracúvania vedľajších
+produktov poľnohospodárskej výroby a odpadov. Ideálnym riešením by bolo, aby mal každý
+poľnohospodársky subjekt zamestnanca povereného výlučne problematikou nakladania
+s vedľajšími produktmi poľnohospodárskej výroby a odpadov. Takýto zamestnanec by mal
+mať v opise pracovných činností sledovanie a aplikovanie nových trendov a inovácií
+v oblasti spracúvania biomasy. S touto problematikou súvisí aj otázka legislatívnych
+dokumentov (vyhlášok, nariadení, smerníc a pod.), na základe ktorých by v jednotlivých
+poľnohospodárskych v podnikoch dochádzalo k cielenému nakladaniu s vedľajšími
+produktmi poľnohospodárskej výroby a odpadmi podľa vopred stanovených pravidiel
+a postupov. Takýmto spôsobom by pri riadnej evidencii všetkých produktov a odpadov bolo
+možné v každom poľnohospodárskom podniku skúmať presné množstvá vzniknutých
+odpadov a biomasy.
+Zamýšľali sme sa aj nad tým, akým spôsobom by bolo možné zvýšiť povedomie
+poľnohospodárskych subjektov o nových trendoch nakladania s biomasou a aplikovať
+najnovšie európske trendy do praxe na Slovensku. Myslíme si, že dobrým riešením by bol
+vznik implementačných agentúr, ktoré by boli nápomocné pri zavádzaní týchto trendov do
+poľnohospodárskej výroby, pričom subjekty, ktoré by sa zapojili, by z toho mohli mať isté
+benefity, napr. vyššie dotácie na pestované plodiny a chované hospodárske zvieratá.
+V súčasnosti na trhu pôsobí Slovenská inovačná a energetická agentúra, ktorá však pôsobí
+ako implementačná agentúra pre štrukturálne fondy EÚ. Myslíme si, že sieť
+36
+
+implementačných agentúr na úrovni samosprávnych krajov by mohla byť efektívna pre
+akékoľvek zavádzanie nových trendov a inovácií v oblasti spracúvania biomasy aj
+z vlastných zdrojov poľnohospodárskych subjektov či zo štátnej podpory, nielen zo
+štrukturálnych fondov.
+
+37
+
+ZÁVER
+Cieľom práce bolo prostredníctvom metódy kvantitatívneho výskumu zistiť, akým
+spôsobom nakladajú participanti výskumu s vedľajšími produktmi poľnohospodárskej
+výroby. Cieľ bol vytýčený pred začatím písania práce a vzťahoval sa najmä na jej praktickú
+časť.
+Pri spracúvaní praktickej časti bakalárskej práce sme sa stretli s problémami
+spočívajúcimi vo výbere pomerne širokej vzorky participantov výskumu. U participantov
+prevládala neochota, zaneprázdnenosť a jasne dávali najavo, že dotazník je príliš rozsiahly
+a jeho vyplnenie im zaberá veľa času.
+Napriek vyššie uvedeným problémom sa nám podarilo spracovať dáta zo 17 riadne
+vyplnených dotazníkov a výsledky nás prekvapili. Očakávali sme, že v každom
+poľnohospodárskom podniku bude poverená osoba, ktorá bude mať na starosti agendu
+nakladania s vedľajšími produktmi poľnohospodárskej výroby a odpadmi a ktorá bude
+sledovať najnovšie trendy a inovácie v oblasti spracovania biomasy za účelom jej
+efektívneho využitia. Zozbierané dáta však ukázali, že len dva zo 17 participantov takúto
+osobu v podniku majú, a tá má svoju pracovnú pozíciu v podniku a agenda spracúvania
+biomasy jej je len čiastočne pridelená.
+Za nedostatok považujeme aj skutočnosť, že žiaden z participantov výskumu nespracúva
+biomasu vo svojej vlastnej réžii takým spôsobom, že by z nej produkoval energiu, ktorú by
+následne využíval pre vlastnú potrebu – ani spaľovaním a následným využívaním tepelnej
+energie, ani anaeróbnou fermentáciou s následným využívaním elektrickej energie.
+V prípade možnosti spracovania biomasy vo vlastnej réžii by poľnohospodárskym
+podnikom vznikla úspora nákladov za spracovanie biomasy a zároveň by sa im znížili
+náklady na tepelnú a elektrickú energiu, nakoľko by si ich produkovali samy.
+Ak sa chceme priblížiť súčasným európskym a svetovým trendom v oblasti spracovania
+biomasy a v oblasti nakladania s vedľajšími produktmi poľnohospodárskej výroby, bude
+v budúcnosti potrebné prijať viaceré opatrenia, ktoré by poľnohospodárske podniky
+motivovali vedľajšie produkty poľnohospodárskej výroby zhodnocovať a spracúvať vo
+vlastnej réžii.
+
+38
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+[1] ZÁRYBNICKÁ, M. Biomasa – obnovitelný zdroj energie. Výukový materiál. Plzeň:
+Západočeská univerzita, Fakulta strojní, Katedra energetických zdrojů a zařízení. [cit.
+2022.01.09]
+
+Dostupné
+
+na
+
+internete:
+
+<https://kke.zcu.cz/export/sites/kke/old_web/_files/projekty/enazp/13/IUT/063_Biomasa__Obnovitelny_zdroj_energie_-_Zarybnicka_-_P1.pdf>.
+[2] HUŠTÁKOVÁ, B. a kol. 2015. Oxidácia celulózy v prítomnosti vanádových
+katalyzátorov. In: BAKOŠOVÁ, M. a kol. 2015. 17. celoslovenská študentská vedecká
+konferencia Chémia a technológie pre život s medzinárodnou účasťou. Bratislava: Slovenská
+technická univerzita v Bratislave, Fakulta chemickej a potravinárskej technológie, 2015.
+346s. ISBN 978-80-227-4480-5.
+[3] ZÁCHENSKÁ, P. a kol. 2015. Katalytické reformovanie celulózy. In: BAKOŠOVÁ, M.
+a kol. 2015. 17. celoslovenská študentská vedecká konferencia Chémia a technológie pre
+život s medzinárodnou účasťou. Bratislava: Slovenská technická univerzita v Bratislave,
+Fakulta chemickej a potravinárskej technológie, 2015. 346s. ISBN 978-80-227-4480-5.
+[4] OCHODEK, T. a kol. 2007. Potenciál biomasy, druhy, bilance a vlastnosti paliv
+z biomasy. Metodická příručka ke studii. Ostrava: Technická univerzita, 2007. [cit.
+2022.01.09] Dostupné na internete: <http://www.biomasa-info.cz/cs/doc/prirucka1.pdf>.
+[5] RYBÁR, R. a kol. 2011. Technológie alternatívnych zdrojov. Vodná energia a biomasa.
+Košice: Technická univerzita v Košiciach, 2011. 93s. ISBN 978-80-553-0693-3.
+[6] ENVIROVID.EU. 2015. Energetické využívanie rastlinnej biomasy – termické procesy.
+[cit.
+
+2022.01.09]
+
+Dostupné
+
+na
+
+internete:
+
+<http://www.envirovid.eu/wp-
+
+content/uploads/2015/07/Biomasa-na-energetick%C3%A9-%C3%BA%C4%8Dely.pdf>.
+[7] HORBAJ, P. a kol. 2011. Niekoľko poznámok k biomase (1). Košice: Technická
+univerzita v Košiciach. In: IDB Journal 6/2011. pp. 36-37. ISSN 1338-3379. [cit.
+2022.01.19]
+
+Dostupné
+
+na
+
+internete:
+
+https://www.atpjournal.sk/buxus/docs/idb%20journal%206%202011%20str%2036-37.pdf.
+[8] DEY, T. et al. 2021. Valorization of agro-waste into value added products for sustainable
+development. In: Bioresource Technology Reports 16 (2021). pp. 1-15. ISSN 2589014X.
+[9] DOLEŽAL, J. 2018. Rámec pro rozvoj biopaliv po roce 2020 do roku 2030. In: BIOM
+- Časopis o energii, co roste. Č. 2 roč. 2018, pp. 2-3. ISSN 1801-2655.
+
+39
+
+[10] TRÁVNÍČEK, P. a kol. 2015. Technologie zpracování biomasy za účelem
+energetického využití. Brno: Mendelova univerzita v Brne, Agronomická fakulta, 2015.
+210s. ISBN 978-80-7509-206-9.
+[11] ŠTATISTICKÝ ÚRAD SLOVENSKEJ REPUBLIKY. Energetika 2020. Bratislava:
+ŠÚSR, 2020. 166s. ISBN 978-80-8121-834-7, s. 103.
+[12] KONZULTAČNÉ CENTRUM BIOMASA. 2007. Podpora lokálneho vykurovania
+biomasou. Zvolen: Žilinská univerzita v Žiline, Strojnícka fakulta, Katedra energetickej
+techniky, 2007. [cit. 2022.02.06] Dostupné na internete: https://docplayer.cz/37556425Katedra-energetickej-techniky-strojnicka-fakulta-zilinska-univerzita-v-ziline.html.
+[13] NOSEK, R. 2021. Vplyv prídavných látok na teplotu taviteľnosti popola a emisií tuhých
+častíc pri spaľovaní fytomasy. Tézy inauguračnej prednášky. Žilina: Žilinská univerzita,
+2021. 73s. ISBN 978-80-554-1807-0.
+[14] DE CORATO, U. 2020. Agricultural waste recycling in horticultural intensive farming
+systems by on-farm composting and compost-based tea application improves soil quality
+and plant health: A review under the perspective of a circular economy.In: Science of the
+Total Environment. An International Journal for Scientific Research into the Environment
+and its Relationship with Humankind 738 (2020). pp. 1-21. ISSN: 0048-9697.
+[15] ZACHARDA, F. a kol. 2009. Poľnohospodárska biomasa – technologické linky na jej
+energetické využitie. Bratislava : GaRT, 2009. 146s. ISBN 978-80-968507-6-1.
+[16] ZAMKOVSKÝ, J. – PROKOVÁ, A. a kol. 2011. Účelné a efektívne využívanie
+biomasy. Pozičný dokument. Ponická Huta: Priatelia Zeme- CEPA, 2011. 41s. [cit.
+2022.02.09]
+
+Dostupné
+
+na
+
+internete:
+
+<http://cepa.priateliazeme.sk/images/collector/collection/publikacie/biomasa_pozicny_dok
+dokum.pdf>.
+[17] ŠOOŠ, Ľ. A kol. 2012. Biomasa – obnoviteľný zdroj energie. Bratislava: Slovenská
+technická univerzita v Bratislave, Strojnícka fakulta, 2012. 398s. ISBN 978-80-970957-3-4.
+[18] LHOTSKÝ, R. – KAJAN, M. 2011. Anaerobní digesce fytomasy z trvalých trávních
+porostů jako alternativa k energetickým plodinám. In: BENETKA, V. a kol. 2011. Acta
+Pruhoniciana 97/2011, pp. 69-75. Průhonice: Výzkumný ústav Silva Taroucy pro krajinu a
+okrasné zahradnictví, 2011. 98s. ISSN 0374-5651.
+[18] KUBICA, J. 2013. Parametrický model bioplynovej stanice. Autoreferát dizertačnej
+práce. Bratislava: Slovenská technická univerzita v Bratislave, Fakulta elektrotechniky
+40
+
+a informatiky, 2013. [cit. 2022.02.09] Dostupné na internete: <Microsoft Word - Autoreferat
+dizertacnej prace - 20 str - Milan Uhrik (stuba.sk)>.
+[19] ŠTĚRBA, Z. a kol. 2011. Produkční, energetické a ekonomické aspekty pěstování
+fytomasy tritikale pro spalování. In: BENETKA, V. a kol. 2011. Acta Pruhoniciana 97/2011,
+pp. 61-67. Průhonice: Výzkumný ústav Silva Taroucy pro krajinu a okrasné zahradnictví,
+2011. 98s. ISSN 0374-5651.
+[20] HEJÁTKOVÁ, K. a kol. 2007. Kompostováni přebytečné travní biomasy. Metodická
+pomůcka. Náměšť nad Oslavou: Zemědělská a ekologická regionální agentura, o.s., 2007.
+76s. ISBN 80-903548-6-6.
+[21] MOŇOK, B. 2010. Nakladanie s biologicky rozložiteľnými odpadmi. Príručka pre
+samosprávy. Košice: Priatelia Zeme – SPZ, 2010. 58s. ISBN 978-80-967972-8-8.
+[22] PLEKANCOVÁ, M. a kol. 2016. Využitie vybraných organických odpadov na výrobu
+bioplynu. In: BAKOŠOVÁ, M. a kol. 2016. Chémia a technológie pre život. 18.
+celoslovenská študentská vedecká konferencia s medzinárodnou účasťou. Bratislava: :
+Nakladateľstvo STU, 2016. 484s. ISBN 978-80-227-4628-1.
+[23] FEČKE GYÖNGYOVÁ, E. 2021. Bioplynové stanice. Kvalita ovzdušia. Bratislava:
+Ministerstvo životného prostredia Slovenskej republiky, Slovenská agentúra životného
+prostredia, 2021. 26s. ISBN 978-80-8213-043-3.
+[24] RICCI, M. a kol. Príručka pre nakladanie s biologicky rozložiteľným odpadom.
+Príručka pre obce a pre miestne regionálne úrady v Slovenskej republike. Palárikovo: Obec
+Palárikovo.
+
+[cit.
+
+2022.03.09]
+
+Dostupné
+
+na
+
+internete:
+
+<
+
+https://www.minzp.sk/files/oblasti/odpady-a-obaly/bioodpad/dokumenty/1-priruckask1.pdf>.
+[25] JENČOVÁ, I. 2020. Spaľovne alebo obehové hospodárstvo? Slovensko chce oboje. [cit.
+2022.03.09] Dostupné na internete: < Spaľovne alebo obehové hospodárstvo? Slovensko
+chce oboje – euractiv.sk>.
+[26] ŠKODOVÁ, Z. 2013. Praktický úvod do metodológie výskumnej práce. Martin:
+Univerzita Komenského v Bratislave, Jesseniova lekárska fakulta v Martine, 2013. 65s.
+ISBN 978-80-89544-43-1
+
+41
+
+PRÍLOHY
+Príloha A Dotazník
+Dobrý deň,
+v rámci písania bakalárskej práce na Slovenskej technickej univerzite v Bratislave sa
+venujem analýze využívania vedľajších produktov z poľnohospodárskej výroby. Obraciam
+sa na Vás s prosbou o vyplnenie nasledujúceho dotazníka, ktorý Vám zaberie maximálne 15
+minút. Chcem Vás poprosiť, aby ste ho vyplnili pravdivo. Získané informácie budú pre mňa
+veľkým prínosom a budú použité výlučne pre potreby mojej práce.
+Za Váš čas a vyplnenie dotazníku vopred ďakujem
+Miklós Hervay
+
+1. Identifikácia podniku
+Uveďte prosím:
+Kraj:
+Právna forma:
+Výmera poľnohospodárskeho podniku
+
+2. Váš poľnohospodársky podnik prevádzkuje
+a) Rastlinnú výrobu
+b) Živočíšnu výrobu
+c) Oba typy výroby
+3. Rastlinná výroba
+Uveďte prosím, aké poľnohospodárske plodiny ste pestovali v roku 2021
+Poľnohospodárska plodina
+
+Poľnohospodárska plodina
+
+42
+
+4. Vedľajšie produkty a odpady z poľnohospodárskych plodín
+Uveďte prosím, aký odpad z poľnohospodárskych plodín u Vás vzniká
+Vedľajší produkt a odpad
+
+áno/nie
+
+tráva (krátka seč)
+zemiakové vňate
+kôra zo stromov
+piliny, hobliny
+hrabanka z lístia
+hrabanka z ihličia
+slama obilovín
+starina z lúk
+tráva z extenzívnych plôch
+zelená štiepka
+štiepka z prierezov
+štiepka z kmeňov
+pozberové zvyšky
+odpad zo zeleniny
+slama repky
+výlisky z ovocia
+popol z dreva
+Plodové obaly
+Stonky z ovocia
+Jadierka z ovocia
+Iné (uveďte)
+
+43
+
+5. Živočíšna výroba
+Uveďte prosím, aké hospodárske zvieratá ste chovali v roku 2021
+Hospodárske zviera
+
+Hospodárske zviera
+
+6. Vedľajšie produkty a odpady zo živočíšnej výroby
+Uveďte prosím, aký odpad zo živočíšnej výroby u Vás vzniká
+Vedľajší produkt a odpad
+
+áno/nie
+
+Kravský hnoj
+Ovčí hnoj
+Hovädzí hnoj
+Hydinový trus
+Hnojovica ošípaných
+Hnojovica hydiny
+Hovädzia hnojovica
+Močovka
+Perie
+Vlna
+Chlpy
+Pazúre/odrezky paznechtov
+Telá uhynutých zvierat
+Vyvrátený
+
+obsah
+
+tráviaceho
+
+traktu
+
+zvieraťa
+Kože zo zvierat
+Kosti zo zvierat
+44
+
+Kal z odstrediviek
+Zajačí trus
+Krv zvierat
+Kal zo separátorov mlieka
+Krmivo pre zvieratá, resp. jeho zvyšky
+Hydina uhynutá v škrupine
+oocyty, embryá a spermy
+Štetiny ošípaných
+Rohy zvierat
+Kopytá
+Tukové tkanivo
+Iné (uveďte)
+
+7. Likvidácia odpadov a vedľajších produktov z rastlinnej výroby
+a) Vo svojej pôsobnosti
+b) Externým zabezpečením
+8. Likvidácia odpadov a vedľajších produktov zo živočíšnej výroby
+a) Vo svojej pôsobnosti
+b) Externým zabezpečením
+9. V prípade, že zabezpečujete vo svojej pôsobnosti likvidáciu odpadov
+a vedľajších produktov rastlinnej výroby, uveďte prosím, akým spôsobom ho
+likvidujete:
+Vedľajší produkt a odpad
+
+Spôsob likvidácie
+
+tráva (krátka seč)
+zemiakové vňate
+kôra zo stromov
+piliny, hobliny
+hrabanka z lístia
+hrabanka z ihličia
+slama obilovín
+45
+
+starina z lúk
+tráva z extenzívnych plôch
+zelená štiepka
+štiepka z prierezov
+štiepka z kmeňov
+pozberové zvyšky
+odpad zo zeleniny
+slama repky
+výlisky z ovocia
+popol z dreva
+Plodové obaly
+Stonky z ovocia
+Jadierka z ovocia
+Iné (uveďte)
+
+10. V prípade, že zabezpečujete vo svojej pôsobnosti likvidáciu odpadov
+a vedľajších produktov živočíšnej výroby, uveďte prosím, akým spôsobom ho
+likvidujete:
+Vedľajší produkt a odpad
+
+spôsob likvidácie
+
+Kravský hnoj
+Ovčí hnoj
+Hovädzí hnoj
+Hydinový trus
+Hnojovica ošípaných
+Hnojovica hydiny
+Hovädzia hnojovica
+Močovka
+Perie
+Vlna
+Chlpy
+Pazúre/odrezky paznechtov
+Telá uhynutých zvierat
+46
+
+Vyvrátený
+
+obsah
+
+tráviaceho
+
+traktu
+
+zvieraťa
+Kože zo zvierat
+Kosti zo zvierat
+Kal z odstrediviek
+Zajačí trus
+Krv zvierat
+Kal zo separátorov mlieka
+Krmivo pre zvieratá, resp. jeho zvyšky
+Hydina uhynutá v škrupine
+oocyty, embryá a spermy
+Štetiny ošípaných
+Rohy zvierat
+Kopytá
+Tukové tkanivo
+Iné (uveďte)
+
+11. V prípade, že máte zabezpečený externý zdroj na likvidáciu rastlinného odpadu
+a vedľajších produktov, uveďte prosím tento zdroj:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+______
+12. V prípade, že máte zabezpečený externý zdroj na likvidáciu rastlinného odpadu
+a vedľajších produktov, uveďte prosím tento zdroj:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+______
+
+47
+
+13. Využívate niektoré druhy odpadov a vedľajších produktov rastlinnej alebo
+živočíšnej výroby pre ďalšie spracovanie, potreby a pod. vo Vašom podniku?
+Uveďte konkrétne príklady:
+Druh odpadu/vedľajšieho produktu
+
+Spôsob využitia
+
+14. Aké sú Vaše náklady na likvidáciu odpadu a vedľajších produktov rastlinnej
+a živočíšnej výroby?
+Výška nákladov
+
+Rok
+2021
+2020
+2019
+2018
+
+15. Aké sú Vaše zdroje informácií o možnostiach nakladania s odpadmi
+a vedľajšími produktami poľnohospodárskej výroby?
+Zdroj informácií
+
+áno/nie
+
+Internet
+Televízia
+Obchodní zástupcovia
+Sprostredkovatelia
+
+(napr.
+
+kolegovia
+
+z iných podnikov a pod.)
+Iné (uveďte)
+
+48
+
+16. V prípade,
+
+že
+
+Vám
+
+likvidáciu
+
+odpadov
+
+a vedľajších
+
+produktov
+
+poľnohospodárskej výroby sprostredkúva externý subjekt, viete o spôsoboch
+ich spracovania?
+Odpady vedľajšie produkty (druh)
+
+Spôsob
+
+spracovania
+
+externým
+
+subjektom
+
+17. Aké sú Vaše plány do budúcnosti ohľadom využívania a likvidácie odpadov
+a vedľajších
+
+produktov
+
+poľnohospodárskej
+
+výroby?
+
+Napíšte
+
+prosím
+
+krátkodobé aj dlhodobé ciele:
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+49
+
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+______________________________________
+18. Odkiaľ čerpáte informácie o inováciách a nových technológiách v oblastiach
+nakladania s odpadmi a vedľajšími produktmi poľnohospodárskej výroby?
+Zdroj informácií
+
+áno/nie
+
+internet
+odborná literatúra
+legislatívne pramene
+školenia, semináre
+konferencie
+obchodní zástupcovia
+Iné (uveďte)
+
+19. Máte
+
+vypracované
+
+vnútropodnikové
+
+dokumenty
+
+ohľadom
+
+nakladania
+
+s odpadmi a vedľajšími produktami poľnohospodárskej výroby? Ak áno,
+uveďte aké:
+a) Áno, názov dokumentu _____________________________________________
+b) Nie
+20. Máte zamestnanca povereného agendou nakladania s odpadmi a vedľajšími
+produktami poľnohospodárskej výroby? Ak áno, uveďte jeho pracovnú pozíciu
+v podniku.
+a) Áno, pracovná pozícia______________________________________________
+b) Nie
+
+Veľmi pekne Vám ďakujem za Váš čas strávený vyplnením tohto dotazníka
+a želám Vám veľa úspechov v ďalšej činnosti Vášho podniku.
+50
+
+

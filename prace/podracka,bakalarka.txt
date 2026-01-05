@@ -1,0 +1,1585 @@
+KATOLÍCKA UNIVERZITA V RUŽOMBERKU
+PEDAGOGICKÁ FAKULTA
+
+DISTRIBUČNÉ SYSTÉMY V UBYTOVACÍCH
+ZARIADENIACH
+Bakalárska práca
+
+2022
+Miroslava Podracká
+
+KATOLÍCKA UNIVERZITA V RUŽOMBERKU
+PEDAGOGICKÁ FAKULTA
+
+DISTRIBUČNÉ SYSTÉMY V UBYTOVACÍCH
+ZARIADENIACH
+Bakalárska práca
+
+Študijný program: Manažment
+Študijný odbor: Ekonómia a manažment
+Školiace pracovisko: Katedra manažmentu
+Školiteľ: Ing. Zuzana Gončárová, PhD.
+
+Ružomberok 2022
+Miroslava Podracká
+
+ZADANIE ZÁVEREČNEJ PRÁCE
+
+Vyhlásenie o počte znakov
+
+Meno a priezvisko: Miroslava Podracká
+
+Záverečná práca obsahuje 65 612 znakov zarátavaných do rozsahu práce.
+
+Podpis:
+
+Poďakovanie
+Týmto sa chcem poďakovať mojej školiteľke bakalárskej prace Ing. Zuzane
+Gončárovej hlavne za jej pomoc, trpezlivosť a podporu pri písaní.
+
+ABSTRACT
+Podracká, Miroslava : Distribučné systémy v ubytovacích zariadeniach. [Bakalárska práca].
+Miroslava Podracká – Katolícka univerzita v Ružomberku. Pedagogická fakulta, Katedra
+manažmentu. – Školiteľ : Ing. Zuzana Gončárová, PhD – Stupeň odbornej kvalifikácie :
+Bakalár. – Ružomberok : PF, 2022. 52 s.
+
+Kľúčové slová: distribučné systémy, ubytovanie, distribúcia, ubytovacie zariadenie
+
+Bakalárska práca sa zaoberá problematikou distribučných systémov v ubytovacom
+zariadení. Hlavným cieľom práce bolo analyzovať distribučné systémy v konkrétom
+ubytovacom zariadení. Bakalárska práca ma štyri kapitoly. V prvej kapitole sa zameriavame
+na teoretické východiska problematiky. Boli hľadané z rôznej literatúry. Druhá kapitola
+obsahuje cieľ práce, metódy a materiál použitý pri práci. V tretej kapitole analyzujeme
+distribúciu a distribučné systémy v konkrétnom ubytovacom zariadení. Posledná kapitola
+hovorí o získaných poznatkov a návrhov, ktoré sme ubytovaciemu zariadeniu odporučili.
+Hlavný cieľ bol splnený.
+
+ABSTRACT
+Podracká, Miroslava : Distribution systems in accommodation facilities. [Bachelor thesis].
+Miroslava Podracká – Catholic University in Ružomberok. Faculty of Education,
+Department of managment – Consultant : Ing. Zuzana Gončárová, Phd – Degree of
+qualification : Bachelor. – PF, 2022. 52 p.
+
+Kaywords: distribution systems, accommodation, distribution, accommodation facilities
+
+Bachelor thesis deals with issues of distribution systems in accommodation facility. The
+main goal was analyze distribution system in concrete accommodation facility. Bachelor
+thesis has four chapter. In first chapter specialize on the theoretical basis of the issue. Were
+searched of different literature. Second chapter contains goal of the work, methods and
+marerial used in the work. In third chapter analyze distribution and distribution system in
+concrete accommodiation faciliy. The last chapter talks about summary knowladge and
+suggestion which we reccommended accommodiation facility. The main goal of the work
+was met.
+
+OBSAH
+
+ÚVOD .......................................................................................................................... 11
+1 TEORETICKÉ VÝCHODISKÁ RIEŠENEJ PROBLEMATIKY ............................ 12
+3.1
+
+Cestovný ruch a služby cestovného ruchu ............................................................ 12
+
+1.2 Ubytovacie služby a ubytovacie zariadenia ............................................................... 13
+1.2.1
+
+Klasifikácia ubytovacích zariadení ................................................................ 15
+
+1.2.2
+
+Segmentácia trhu a cieľovej skupiny ............................................................. 16
+
+1.3
+
+Distribúcia a distribučné kanály v cestovnom ruchu ............................................ 17
+
+1.3.1
+
+Priama distribúcia .......................................................................................... 21
+
+1.3.2
+
+Nepriama distribúcia ...................................................................................... 22
+
+1.4
+
+Globálne distribučné systémy ............................................................................... 22
+
+1.4.1
+
+Internetové systémy rezervácie ...................................................................... 23
+
+2
+
+CIEĽ, METÓDY A MATERIÁL POUŽITÝ PRI PRÁCI .................................... 25
+
+3
+
+ANALÝZA
+
+DISTRIBUČNÝCH
+
+SYSTÉMOV
+
+KONKRETNÉHO
+
+UBYTOVACIEHO ZARIADENIA ................................................................................. 27
+3.1 Charakteristika ubytovacieho zariadenia ................................................................... 27
+3.2
+
+Používané spôsoby distribúcie v ubytovacom zariadení ....................................... 32
+
+3.2.1
+
+Distribučné systémy využívané v ubytovacom zariadení .............................. 32
+
+3.2.2
+
+Najvyužívanejšie spôsoby distribúcie a spôsob rezervácie v ubytovacom
+
+zariadení ....................................................................................................................... 37
+3.2.3
+3.3
+4
+
+Náklady a príjmy na distribučné systémy ...................................................... 39
+
+Cieľová skupina .................................................................................................... 40
+
+ZHRNUTIE ZÍSKANÝCH POZNATKOV A ODPORÚČANÉ NÁVRHY ........ 44
+4.1
+
+SWOT analýza hotela Trigan ................................................................................ 44
+
+4.2
+
+Odporúčané návrhy pre hotel Trigan .................................................................... 47
+
+ZÁVER ............................................................................................................................... 49
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV ........................................................... 50
+
+ZOZNAM TABULIEK, OBRÁZKOV A GRAFOV
+
+Obr. 1 – Príklad distribučných kanálov .............................................................................. 20
+Obr. 2 – Hotel Sorea Trigan pred rekonštrukciou ............................................................... 28
+Obr. 3 – Hotel Sorea Trigan po rekonštrukcií..................................................................... 28
+Obr. 4 – Izba hoela Sorea Trigan ........................................................................................ 29
+Obr. 5 – Certifikát pre zariadenie priateľské k deťom a rodinám ....................................... 30
+Obr. 6 – Kongresová miestnosť .......................................................................................... 31
+Obr. 7 – Wellness centrum.................................................................................................. 31
+Obr. 8 – Webová stránka .................................................................................................... 33
+Obr. 9 – Rezervácia ubytovania prostredníctvom webovej stránky ................................... 33
+Obr. 10 – Ponuka ubytovania prostredníctvom cestovnej kancelárie Satur ....................... 35
+Obr. 11 – Zobrazenie ponuky hotela Trigan na webovej stránke Vysoké Tatry travel ...... 36
+Obr. 12 – Hotel Trigan zobrazení na bookingu .................................................................. 38
+
+Graf 1 – Využitie distribučných systémov v ubytovacom zariadení .................................. 38
+Graf 2 – Približné príjmy hotela ......................................................................................... 39
+Graf 3 – Cieľová skupina hotela Trigan ............................................................................. 41
+Graf 4 – Účel návštevnosti hotela ....................................................................................... 42
+Graf 5 – Národnosť návštevníkov ....................................................................................... 43
+
+Tab. 1 – SWOT analýza ...................................................................................................... 44
+
+ZOZNAM SKRATIEK A ZNAČIEK
+
+UNWTO – svetová organizácia cestovného ruchu
+Atď. – a tak ďalej
+GDS – Globálne distribučné systémy
+Napr. – Napríklad
+t.j. – to jest
+Tzv. – takzvaný
+IKT – informačné a komunikačné technológie
+
+ÚVOD
+Cieľom bakalárskej práce je analýza distribučných systémov vo vybranom
+ubytovacom zariadení. Využívať budeme teoretické a praktické poznatky pre naplnenie
+nášho cieľa práce.
+Na začiatok si budeme definovať rôzne teoretické pojmy, ktoré súvisia s našou
+témou. Pri tejto časti budeme hľadať a vyberať vhodné literárne zdroje či už z našej alebo
+zahraničnej literatúry.
+V nasledujúcej časti si stanovíme cieľ, metódy a materiál, ktorý pri práci budeme
+používať.
+Hlavným zámerom praktickej časti bude analýza distribučných systémov v nami
+vybranom ubytovacom zariadení. Budeme si bližšie približovať spôsoby distribúcie
+v konkrétnom ubytovacom zariadení, ktoré používajú na poskytovanie svojich služieb
+klientom. Niečo si budeme hovoriť aj o cieľovej skupine, ktorá navštevuje vybrané
+ubytovacie zariadenie.
+Na konci v poslednej kapitole budeme zameriavať našu pozornosť na vytvorenie
+vhodných odporučení pre využívanie distribúcie v danom ubytovacom zariadení. Čerpať
+budeme zo získaných poznatkov z praktickej časti.
+Na záver chceme ešte povedať, že pojem distribúcia sa pre cestovný ruch stáva stále
+viac populárnejšou. Veľké masy ľudí chcú cestovať a využívať služby cestovného ruchu.
+Pre niektorých sa cestovanie stalo druhom relaxácie, v iných prípadoch je to hobby. Pre
+ubytovacie zariadenia všetkého druhu je v dnešnej dobe veľmi veľa prostriedkov ako dať
+o sebe vedieť a distribuovať poskytované služby. Tí, ktorí to vedia efektívne využiť
+prostredníctvom distribučných systémov môžu dosahovať pravidelné zisky a dlhodobo
+profitovať na trhu.
+
+11
+
+1 TEORETICKÉ VÝCHODISKÁ RIEŠENEJ
+PROBLEMATIKY
+
+V prvej kapitole si teoreticky charakterizujeme základné pojmy, ktoré súvisia
+s distribúciou v cestovnom ruchu, ale zadefinujeme si aj pojmy ako cestovný ruch,
+ubytovacie služby a podobne.
+
+3.1 Cestovný ruch a služby cestovného ruchu
+
+„Cestovný ruch je súbor činností zameraných na uspokojovanie potrieb súvisiacich
+s cestovaným a pobytom osôb mimo trvalého bydliska a zvyčajne vo voľnom čase. Ich
+cieľom je odpočinok, poznávanie, zdravie, rozptýlenie a zábava, kultúrna a športové vyžitie,
+služobné cesty, t. j. získanie komplexného zážitku“ (M. Gúčik, 2006).
+Všeobecne sa cestovný ruch definuje ako krátkodobý presun ľudí na iné miesta, ako sú
+miesta ich obvyklého pobytu za účelom, ktorý je pre nich príjemný. Mnohí ľudia nepovažujú
+cestovný ruch za samostatné odvetvie, ale ako výsledok služieb iných odvetví, ako
+ubytovanie, stravovanie alebo doprava (S. Horner, J. Swarbrooke, 2003).
+Podľa M. Gúčika (2006) ide o formu spotreby, pre ktorú je charakteristické
+uspokojovanie špecifických potrieb počas cestovania a pobytu mimo trvalého bydliska vo
+voľnom čase s výnimkou služobných ciest. Návštevník vystupuje len ako spotrebiteľ statkov
+cestovného ruchu. Ak návštevník uspokojuje svoje potreby vo vlastnom štáte, hovoríme
+o domácom cestovnom ruchu, ale ak prekročí hranice štátu, hovoríme už o zahraničnom
+cestovnom ruchu. Cestovný ruch je otvorený a dynamický vyvíjajúci sa systém, ktorý tvoria
+dva podsystémy – subjekt (návštevník), ktorý je nositeľom dopytu a objekt cestovného
+ruchu, ktorý je nositeľom ponuky.
+Služby cestovného ruchu chápeme ako heterogénny súbor užitočných efektov, ktoré
+uspokojujú potreby návštevníkov. Majú prierezový charakter, produkujú ich nielen podniky
+cestovného ruchu, ale aj ďalšie subjekty súkromného a verejného sektora. Sú pre nich
+charakteristické špeciálne znaky, ako je časová a miestna viazanosť na primárnu ponuku,
+komplexnosť a komplementarita, mnohoodborovosť a nevyhnutnosť ich sprostredkovania,
+12
+
+dynamika služieb a sezónnosť dopytu po nich, nevyhnutnosť informácií o službách a ich
+kvalite (M. Gúčik,2006).
+Služby členíme podľa viacerých kritérií podľa (M. Gúčik, 2006) to sú:
+•
+
+z hľadiska producentov na vlastné a cudzie služby,
+
+•
+
+podľa druhov na informačné, prepravné, ubytovacie, stravovacie, športovorekreačné,
+
+kultúrno-spoločenské,
+
+kúpeľné
+
+a zdravotné,
+
+kongresové,
+
+sprostredkovateľské, sprievodcovské a animačné,
+•
+
+podľa stupňa naliehavosti uspokojovania potrieb na základné a doplnkové
+
+•
+
+z ekonomického hľadiska na platené a neplatené.
+
+1.2 Ubytovacie služby a ubytovacie zariadenia
+
+M. Gúčik (2006, s. 192) charakterizoval ubytovacie služby ako súbor na seba
+nadväzujúcich činností, súvisiacich s poskytnutím prechodného ubytovania obvykle
+väčšiemu počtu hostí mimo miesta trvalého bydliska. Tieto činnosti v sebe zahŕňajú
+rezervovanie ubytovania, príchod hosťa a jeho registráciu, pobyt hosťa spojený
+s poskytovaním služieb, zaúčtovanie a odchod hosťa. Na ich poskytovaní sa podieľa
+prevádzkovateľ ubytovacieho zariadenia i hosť. Poskytujú za úhradu rôzne kategórie
+a triedy ubytovacích zariadení. Ubytovacie zariadenie definoval ako budovu, priestor alebo
+plochu , kde sa verejnosti za úhradu poskytuje prechodné ubytovanie a s ním spojené služby.
+Podľa druhu sa ubytovacie zariadenia členia na kategórie. Podľa kvality a rozsahu služieb
+sa kategórie zariadení zaraďujú do tried, ktoré sa označujú hviezdičkami od najnižšej triedy
+po najvyššiu triedu. Trieda zároveň vyjadruje minimálne požiadavky na vybavenosť
+ubytovacích zariadení. Ubytovacie zariadenie, ktoré poskytuje ubytovacie služby najviac
+deväť mesiacov v roku má sezónny charakter.
+L. Hrubalová (2015) začlenila ubytovacie zariadenia do daných kategórií:
+a) z hľadiska sezónnosti na
+•
+
+Celoročné (napr. hotely, motely, botely) sú v prevádzke celoročne,
+
+•
+
+Sezónne uspokojujú dopyt v sezónach a sú v prevádzke najviac 9 mesiacov,
+
+13
+
+b) z hľadiska druhu na
+•
+
+Hotelové ( napr. hotel, botel, penzión, motel),
+
+•
+
+Nehotelové (napr. kemping, chatová osada, táborisko, ubytovanie v súkromí),
+
+c) podľa veľkosti
+•
+
+Malé (do 100 lôžok),
+
+•
+
+Stredné (101-250 lôžok),
+
+•
+
+Veľké (vyše 250 lôžok),
+
+d) podľa spôsobu výstavby
+•
+
+Pevné (napr. hotel, motel penzión),
+
+•
+
+Čiastočne pevné (montované chaty),
+
+•
+
+Prenosné (napr. stan),
+
+•
+
+Pohyblivé (botel).
+
+Pri poskytovaní služieb je potrebné rešpektovať kategóriu a triedu ubytovacieho
+zariadenia. Iný rozsah a kvalita služieb bude v hoteli a iný v penzióne. Štandard služieb
+okrem toho ovplyvňuje charakter zariadenia, osobné a vecné predpoklady, hostia, sezónne
+výkyvy a úroveň využitia lôžkovej kapacity. Čím je ubytovacie zariadenie jednoduchšie,
+tým poskytuje menší rozsah služieb a naopak. S náročnejšou kategóriou a vyššou triedou
+vzrastá štandard poskytovaných služieb a zároveň viaceré služby prechádzajú do
+neplatených služieb (Hladká, 1997).
+M. Gúčik (2010) hovorí, že každá poskytnutá služby ovplyvňuje komplexný zážitok
+hosťa z pobytu a určuje jeho spokojnosť. Dôležité je si uvedomiť, že reťaz služieb je taká
+silná, aké silné je jej najslabšie ohnivko. Spokojnosť hosťa ovplyvňuje najhoršia služba.
+Keďže nedostatky v službách vyvolávajú nespokojnosť hosťa, je v procese
+poskytovania služieb nevyhnutná kontrola. Je dobrým nástrojom na sledovanie
+nepriaznivých udalostí v procese poskytovania služieb (Hrubalová, 2015).
+
+14
+
+1.2.1 Klasifikácia ubytovacích zariadení
+Rozvoj ubytovacích zariadení vo svete si vynútil zavedenie minimálnych
+požiadaviek na klasifikáciu. Na podnet Svetovej organizácie cestovného ruchu sa vo väčšine
+krajín zaviedlo označovanie hviezdičkami. U nás na Slovensku je zatriedenie do kategórie
+a triedy povinné pre všetky ubytovacie zariadenia. Prevádzkovateľ zaraďuje ubytovacie
+zariadenie sám do príslušnej kategórie a triedy pod dohľadom Slovenskej obchodnej
+inšpekcie (Hrubalová, 2015).
+Pojem klasifikácia, ktorému sa budeme ďalej venovať, znamená vymedzenie
+minimálnych požiadaviek, ktoré musia spĺňať jednotlivé triedy ubytovacích zariadení. Pri
+splnení týchto požiadaviek je ubytovaciemu zariadeniu vytvorený certifikát a klasifikačný
+znak (najčastejšie samolepka s počtom hviezdičiek) podľa oficiálnej jednotnej klasifikácií
+ubytovacích
+
+zariadení.
+
+Klasifikačný
+
+systém
+
+súži
+
+predovšetkým
+
+hosťom
+
+a sprostredkovateľom ako záruka kvality a istota, že úroveň vybavenia a poskytovaný servis
+budú zodpovedať očakávanému štandardu. Problémom je, že klasifikačný systém je
+v jednotlivých štátoch odlišný. Rolu v tom hrajú predovšetkým kultúrne a geografické
+rozdiely, ďalej spôsob, akým bol systém vyvinutý. Pre účastníka cestovného ruchu je potom
+zložitejšie orientovať sa na trhu ubytovacích služieb, pretože nie v každom
+trojhviezdičkovom zariadení sa mu dostane taká úroveň kvality služieb na akú je zvyknutý.
+V poslednej dobe však vďaka vplyvu globalizácie, internetu a modernému spôsobu života
+dochádza k znižovaniu týchto rozdielov a aj jednotlivé štáty prejavujú snahu o postupnú
+harmonizáciu a vytvorenie jednotného klasifikačného systému hromadných ubytovacích
+zariadení s rovnakými kritériami (Beránek a kol., 2013).
+J. Baránek a kol. (2013) podľa počtu hviezdičiek vymedzujú nasledujúce triedy
+ubytovania:
+•
+
+* Tourist,
+
+•
+
+** Economy,
+
+•
+
+*** Standard
+
+•
+
+**** First class,
+
+•
+
+***** Luxury.
+
+15
+
+1.2.2 Segmentácia trhu a cieľovej skupiny
+Segmentácia trhu je proces cieľových trhov a skupín na základe zvolených kritérií.
+Skladá sa z definovania trhu, potrieb a želaní a rozdeľuje trh na jednotlivé skupiny. Cieľom
+je ponúknuť vhodný produkt vybranej cieľovej skupine. Na tieto skupiny sa orientuje
+marketingová stratégia.
+
+Na základe segmentačných kritérií sa posudzuje odlišnosť
+
+v spotrebe, príjmy, výdavková štruktúra domácností, vek, sociálna skupina, veľkosť trvalého
+bydliska, krajina pôvodu a podobne (Gúčik, 2006).
+J. Kitta a kol. (2005) charakterizovali segment ako časť trhu, ktorú tvoria
+spotrebitelia s podobnými vlastnosťami, správaným a nákupným rozhodovaním na danom
+trhu. Segmentácia je súčasťou cieleného marketingu, pri ktorom podnik sa zameriava na
+jeden alebo niekoľko cieľových trhov, pre ktoré vyrába špeciálne produkty a vyvíja
+marketingový mix.
+Princípy pre definovanie segmentov sa javia ako jednoduché, no zložitejšie je
+zvládnutie procesu segmentácie. Popri jednoduchých tradičných princípoch založených na
+demografických, psychografických alebo geografických kritériách, rastie aj v tejto oblasti
+význam exaktných metód. Výsledkom nie je len lepšie uspokojenie potrieb zákazníkov, ale
+aj vyššia špecializácia podniku ale aj postavenie na trhu. Lepšie poznanie potrieb zákazníkov
+umožní lepšie vyvinúť lepšiu stratégiu a ponúknuť lepšiu službu ako konkurencia. Základná
+klasifikácia zákazníkov predstavuje ich rozdelenie na konečných spotrebiteľov a na
+organizácie. Segmenty možno definovať len v rámci jednotlivých druhov služieb.
+Segmentácia trhu umožní podniku služieb klasifikovať cieľový trh (J. Ďaďo, J. Petrovičová,
+M. Kostková, 2006).
+Podľa J. Baránka a kol. (2013) základom segmentácie trhu je výskum správania
+spotrebiteľa. Marketingový špecialisti by mali pochopiť procesy, ktoré podstupujú hostia pri
+nákupe, mali by poznať potreby, priania a správanie svojej cieľovej skupiny. Mali by zistiť,
+čo daný segment od produktu očakáva a aký spôsob komunikácie vyžaduje. Prvým krokom
+pri segmentácií je výber trhu. V cestovnom ruchu rozlišujeme trhy:
+•
+
+Primárne trhy – je taký, že prichádza najväčší počet hostí. Na ten sa musia
+koncentrovať, ale nemalo by sa zabudnúť ani na ostatné.,
+
+•
+
+Sekundárne trhy – zaisťujú dostatočný počet hostí, ktorí avšak navštevujú aj
+konkurenciu. Tieto trhy je treba dôkladne analyzovať a zistiť dôvody prečo hostia
+vyhľadávajú alternatívy ubytovania.,
+16
+
+•
+
+Terciálne trhy – predstavujú potencionálny dopyt a zahŕňajú do teraz neuspokojené
+segmenty hostí.
+
+Ďalej J. Beránek a kol. (2013) hovoria o najčastejších kritériách pri segmentácií trhu ako sú:
+•
+
+Geografické faktory – potreby a preferencie hostí, sa líši vzhľadom na miesto kde
+žijú (klíma, politická a populačná hranica, veľkosť miesta trvalého bydliska).,
+
+•
+
+Demografické faktory – vek, pohlavie, náboženstvo, rasa, počet členov a životný
+cyklus rodiny (deti a študenti, ženaté alebo vdovy).,
+
+•
+
+Sociálné- ekonomické faktory – (vzdelanie, zamestnanie, výška príjmu, príslušnosť
+k sociálnej skupine).,
+
+•
+
+Psychografické faktory – (životný štýl, záujmy, názory, preferované spôsoby
+komunikácie, motív a spôsob cestovania, lojalita k značke).
+
+M. Gúčik (2006) zadefinoval cieľovú skupinu ako súhrn všetkých osôb, ktoré sú
+potencionálnymi zákazníkmi alebo záujemcami o službu alebo tovar, ktorí ich priamo
+spotrebúvajú alebo za určitých špecifických dôvodov vyjadrujú po nich dopyt. Každé
+odvetvie cestovného ruchu má svoju cieľovú skupinu. Tvoria ju osoby, podniky a inštitúcie.
+Cieľová skupina je skupina ľudí na cieľovom trhu, ktorej chceme prostredníctvom
+reklamy doručiť kľúčové marketingové posolstvo. Zadefinovanie cieľovej skupiny je
+jedným z prvých krokov pri tvorbe marketingovej stratégie. Čím viac o cieľovej skupine
+vieme, tým efektívnejšie ju dokážeme osloviť. Typický predstaviteľ cieľovej skupiny je
+ideálny zákazník, ktorý si môže a chce kupovať náš produkt. Definovanie a hĺbkové
+pochopenie cieľovej skupiny je relatívne zložité a používajú sa na to rôzne metódy od
+prieskumov, cez SWOT analýzy až po napríklad fokusové skupiny (Jankovičová, 2011).
+
+1.3 Distribúcia a distribučné kanály v cestovnom ruchu
+
+Distribúcia je časťou marketingových nástrojov v organizácií. Marketing sú jednoducho
+všetky tie činnosti, ktoré sa dejú v organizácií, aby výrobky a služby sa preniesli
+z organizácie ku spotrebiteľom. Tieto činnosti by mali byť riadené takým spôsobom, že
+spotrebiteľom sú poskytnuté výrobky a služby, ktoré zodpovedajú ich potrebám. Manažéri
+17
+
+organizácií rozvíjajú marketingové stratégie, ktoré zabezpečia uspokojenie potrieb zo stany
+spotrebiteľov (Lubbe, 2000).
+Distribúciu chápeme ako spôsob dopravenia služby k zákazníkovi alebo ako distribučné
+kanále, prostredníctvom ktorých prechádza služba k zákazníkovi. V službách bývajú
+distribučné kanále kratšie ako pri distribúcií výrobkov. V prevažnej miere je distribúcia
+zúžená na priamy kontakt, charakter niektorých služieb umožňuje, že službu možno
+distribuovať prostredníctvom technických zariadení. Súčasťou distribučného mixu je aj
+určenie miesta poskytovania služieb (Mateides, Ďaďo, 2002).
+J. Ďado a A. Mateides (2002) nám hovoria, že výber miesta závisí od nasledovných
+prístupov:
+•
+
+zákazník ide k poskytovateľovi,
+
+•
+
+poskytovateľ ide k zákazníkovi,
+
+•
+
+transakcia prebieha na diaľku.
+
+Výber miesta je veľmi dôležitý tam, kde zákazník navštívi poskytovateľa pre nákup
+a spotrebu služby. Miesta niektorých služieb musí poskytovateľ v rámci distribučného mixu
+riešiť rozmiestnenie prevádzok a území. Osobitne vo sfére služieb do systému distribúcie
+zasahuje franchising. Ten predstavuje majiteľom právo inej osobe využívať jeho duševné
+vlastníctvo, postupy, značku, obchodné meno, služby a distribučné systémy majiteľa práva.
+Táto forma zaručuje vysokú mieru štandardizácie a kvality poskytovaných služieb.
+Podľa S. Horner a J. Swarbrooke (2003) distribúcia produktu cestovného ruchu má
+uvedené dve formy:
+•
+
+priamo od producenta k zákazníkovi
+
+•
+
+nepriamo
+
+od
+
+producenta
+
+k zákazníkovi
+
+cez
+
+jedného
+
+alebo
+
+viacerých
+
+sprostredkovateľov začlenených do príslušného distribučného kanála.
+Organizácia môže používať jednu z dvoch možností alebo ich kombináciu. Ovplyvňujú
+ich vlastnosti trhu. V cestovnom ruchu mnoho malých tuzemských producentov predáva
+svoje výrobky už priamo zákazníkom. Produkty smerujúce do zahraničia sa predávajú
+výhradne
+
+prostredníctvom cestovných agentúr. Agentúra pracuje ako maloobchodný
+
+predajca pre cestovné kancelárie, ktoré zostavujú balíčky.
+Vo sfére služieb Ďaďo J, Petrovičová M. a Kostková M. (2006) distribúciu predstavujú
+ako proces predaja služby. Treba poznamenať, že aj samotná distribúcia je služba, ktorá
+18
+
+umožňuje predaj hmotných produktov. Objednáva si ju výrobca alebo sprostredkovateľ.
+Keďže distribúcia prebieha v priestore a čase, spotrebiteľ určuje čas, kedy, ako rýchlo
+a v akej frekvencií má byť služba poskytnutá. Inovácia služieb umožňuje distribúciu rozšíriť
+a modifikovať. Jedným zo silných trendov v distribúcií služieb je poskytovanie
+komplexných služieb v danom obore. Toto si vyžaduje ponuku vo väčšom rozsahu na jenom
+mieste. Výhodou je šetrenie času zákazníkov, ktorí si všetko nakúpia pod jednou strechou.
+Významnou zložkou distribúcie služieb je aj internet a iné informačné a komunikačné
+technológie.
+M. Gúčik (2006) opísal distribúciu ako činnosť podniku cestovného ruchu, v ktorej sa
+uskutočňuje výmena medzi účastníkmi trhu. Zahŕňa činnosti spojené s prekonávaním
+priestorových, časových, kvantitatívnych a kvantitatívnych rozdielov medzi ponukou
+a dobytom.
+Distribúcia je jedným z najdôležitejších faktorov konkurencieschopnosti destinácií
+a turistických organizácií. Distribučné kanály cestovného ruchu sú organizačne prepojené
+cez ktoré výrobcovia produkt cestovného ruchu opisujú, predávajú alebo potvrdzujú
+cestovné podmienky spotrebiteľom. Tieto kanály sú viac pohodlnejšie na rozdiel od toho, že
+každý dodávateľ má svojho predajcu na trhu. Primárnymi distribučnými funkciami pre
+cestovný ruch sú informácie, kombinovanie a zabezpečenie cestovania (Buhalis, 2003).
+Distribučné kanály spájajú zákazníkov s podnikmi. Podniky cestovného ruchu môžu mať
+distribúciu ich produktov a služieb prostredníctvom sprostredkovateľov. Avšak technický
+pokrok priniesol výrazné zmeny v tomto ohľade. Rozvoj mobilných zariadení a ich aplikácie
+poskytujú široké spektrum možností v cestovnom ruchu. Zákazníci používajú telefóny
+a tablety na kúpu produktu cestovného ruch. Tieto záležitosti nevyhnutne zmenili štruktúru
+cestovného ruchu v podmienkach kontroly, ceny a kvality pre sprostredkovateľov. Zvyšuje
+sa povedomie o potenciály nových distribučných technológií (Camilleri, 2017).
+„Distribučný kanál súbor všetkých inštitúcií jednotlivcov, korí sa stanú vlastníkmi alebo
+sú nápomocní pri prevode vlastníctva produktov. V cestovnom ruchu sa rozlišujú priame
+a nepriame distribučné kanály. Pri priamej distribúcií predáva produkt priamo producent
+konečnému spotrebiteľovi a používa pri tom priamy marketing. To mu umožňuje
+bezprostredne reagovať na dopyt, robiť výskum trhu, nadväzovať kontakty, šíriť informácie
+o svojom produkte a financovať túto činnosť. Pri nepriamej distribúcií sa medzi producenta
+a konečného spotrebiteľ dostávajú sprostredkovatelia. Sprostredkovateľ na seba preberá
+19
+
+časť marketingových povinností za províziu. Na výber vhodného distribučného kanála majú
+veľký vplyv ekonomické kritéria, kritéria správania, ako veľkosť a osobitosti cieľových
+trhov, cieľových skupín, produktov, náklady na distribúciu, imidž producentov
+a sprostredkovateľov, skúsenosti z doterajšej spolupráce s účastníkmi distribučného kanála“
+(Gučík, 2006).
+Distribučné kanály sú tvorené prostriedkami a operáciami, prostredníctvom ktorých sú
+výrobky, služby a hodnota odovzdávané od producenta k zákazníkovi, od predávajúcich ku
+kupujúcim. Distribučný kanál z hľadiska rôznych subjektov pozostáva z organizácií
+(producentov, veľkoobchodníkov, maloobchodníkov), ktorý by mali medzi sebou
+spolupracovať za účelom sprostredkovania výrobkov a služieb zákazníkom (Christopher,
+2005).
+S. Horner a J. Swarbrooke (2003) definovali veľkoobchodníka ako fyzickú alebo
+právnickú osobu, ktorá od producentov nakupuje výrobky alebo služby vo veľkom množstve
+a predáva maloobchodníkom. Maloobchodníka definovali ako fyzickú alebo právnickú
+osobu, ktorá predáva výrobky a služby už konečným sprostredkovateľom. Maloobchodník
+je väčšinou posledným článkom v distribučnom kanály pred zákazníkom. Jednoduchý
+distribučný kanál sa skladá z producenta, ktorý predáva priamo spotrebiteľovi alebo používa
+sprostredkovateľa.
+
+PRODUCENT
+
+MALOOBCHODNÍCI
+
+SPROSTREDKOVATEĽIA
+(napr. veľkoobchodníci)
+(
+
+MALOOBCHODNÍCI
+ZÁKAZNÍK
+
+Obr. 1 – Príklad distribučných kanálov
+Zdroj: S. Horner, J. Swarbrooke: Cestovní ruch, ubytovaní a stravovaní, využití volného
+času
+
+20
+
+1.3.1 Priama distribúcia
+Priama distribúcia predstavuje priamy predaj produktu návštevníkovi bez zapojenia
+sprostredkovateľov. Pri priamej distribúcií si predaj zabezpečuje sám producent (Gúčik,
+2011).
+L. Hrubalová (2015) opísala, že pri priamej distribúcií hotel ponúka svoje služby hosťom
+priamo bez zapojenia sprostredkovateľov. Ide o predaj služieb:
+•
+
+cez vlastnú webovú stránku hotela,
+
+•
+
+cez centrálny systém rezervovania,
+
+•
+
+telefonicky,
+
+•
+
+emailom,
+
+•
+
+osobne na recepcií,
+
+•
+
+cez sieť vlastných predajcov.
+
+Vplyvom rozvoja technológií popularita priamej distribúcií v ubytovacích zariadenia
+raste. Výhodou je priamy kontakt s hosťom, čo umožňuje citlivo a rýchlo reagovať na jeho
+požiadavky, rýchla spätná väzba, lepšia kontrola a je to cenovo výhodnejšie, pretože nie je
+potrebné platiť sprostredkovanie.
+J. Baránek (2013) hovorí, že existuje množstvo spôsobov, akými sa dajú dopraviť
+informácie priamo ku konečnému spotrebiteľovi. Medzi najznámejšie cesty patrí predaj
+môže sa jednať o písomný telefonický alebo osobný.
+Písomný predaj – je zisťovaný prostredníctvom hotelovej korešpondencie. Stálym
+hosťom sú zasielané prospekty a ponuky hotela. Dôležité je aby hotelovú korešpondenciu
+robila jedna zodpovedná osoba.
+Telefonický predaj – je prevádzaný formou pasívneho telemarketingu. Iniciátorom
+rozhovoru je sám zákazník. Pri nadviazaní telefónneho hovoru sa zákazníkom by mal
+zamestnanec priateľsky pozdraviť a na papier zapísať jeho meno, aby celý rozhovor ho
+oslovoval menom. Reč zamestnanca by mala byť stručná a spisovná, nemal by rozprávať
+rýchlo a na konci hovoru krátko zhrnúť fakty, na ktorých sa dohodli.
+Osobný predaj – je prevádzaný prostredníctvom kompetentného hotelového personálu.
+Zamestnanec musí mať perfektné znalosti v ponúkaných produktov, musí byť odborník vo
+svojom odbore a musí mať prístup k informáciám o cenách produktov.
+
+21
+
+K nevýhodám priamej distribúcie môžeme zaradiť nutnosť nadväzovať kontakty
+s veľkým počtom partnerov a problémy pri prezentácií produktu (Gúčik, 2011).
+
+1.3.2 Nepriama distribúcia
+Podľa M. Gúčika (2011) nepriama distribúcia predstavuje sprostredkovaný predaj
+konečnému spotrebiteľovi. K najčastejším sprostredkovateľom patria cestovné kancelárie,
+cestovné agentúry, turistické informačné centrá a turistické systémy rezervovania. Nakupujú
+služby cestovného ruchu od producentov a ďalej ich sprostredkúvajú zákazníkovi.
+Cestovné kancelárie nakupujú služby od producentov, vytvárajú balíky produktov,
+ktoré následne publikujú v katalógoch a predávajú cestovným agentúram alebo priamo
+jednotlivým zákazníkom. Cestovné kancelárie nakupujú množstvo služieb cestovného ruchu
+za výhodné ceny. Ich cieľom je maximalizácia predaja a zisku, zvyšovanie kvality služieb,
+rast ponuky a zlepšujúce sa meno. Návštevník vyžaduje určité stimuly na základe, ktorých
+sa rozhodne pre návštevu (Kiraľová, 2003).
+Cestovné agentúry predávajú zájazdy a pobyty vytvorené cestovnou kanceláriou.
+K nevýhodám nepriamej distribúcie patrí strata kontroly producenta nad svojím produktom.
+Producent je závislý od marketingovej stratégie medzičlánkov (Gučík,2011).
+K ich výhodám podľa M. Forenta a kol. (2001) patrí, že producent prenecháva časť
+predajných úloh sprostredkovateľovi a to pre neho predstavuje pokles nákladov spojených
+s distribúciou.
+
+1.4 Globálne distribučné systémy
+
+„Centrálne systémy rezervovania a globálne distribučné systémy sa využívajú
+v mnohých krajinách sveta, Slovensko nevynímajúc, a výrazne ovplyvňujú technologický
+rozvoj a rast sektora cestovného ruchu v minulosti. Ako prvé umožnili automatizované
+spravovanie a distribúciu veľkého množstva produktov cestovného ruchu“ (Gajdošík,
+Gajdošíková, Marčeková, 2017, s. 51).
+Globálne distribučné systémy (GDS) definoval J. Beránek a kol. (2013) ako najstaršie
+z elektronických distribučných systémov. Vznikali už v 50. rokoch 20. storočia ako odozva
+22
+
+na rastúci tlak efektivitu predaja leteniek cestovným agentúram. Vďaka nim získavali
+okamžitý prehľad o voľných kapacitách a okamžite oznámiť možné spoje a ceny. GDS bol
+spočiatku v podstate len letenkový rezervačný systém. GDS už pred érou internetu
+umožňovali nájsť vhodný let, hotel alebo ich kombináciu. Previesť hneď rezerváciu
+a obdržať jej potvrdenie. Tieto systémy sú prístupné len pre cestovné kancelárie a agentúry.
+Hotel rezerváciu príjme vo svojom centrálnom rezervačnom systéme a prostredníkovi
+zaplatí províziu. Hotelieri majú svoju ponuku na GDS stále pod kontrolou, môžu
+kedykoľvek do nej zasiahnuť a meniť. GDS sa dnes javia ako zastaralé najmä po vizuálnej
+stránke. Je možné, že v oblasti cestovného ruchu budú naďalej hrať veľmi dôležitú úlohu.
+„Globálne distribučné systémy (GDS) sa používajú ako katalóg produktov pre
+sprostredkovateľov cestovného ruchu. Pôvodne ich využívali letecké spoločnosti na predaj
+leteniek. Následne GDS začali využívať aj cestovné agentúry. V súčasnosti sa globálne
+distribučné systémy využívajú na rezervovanie, predaj, storno leteniek, hotelových izieb
+alebo na prenájom áut. K výhodám globálnych distribučných systémov patrí možnosť
+spotrebiteľa využívať služby systému bez pomoci sprostredkovateľa“ (Gúčik, 2011, s.113).
+Podľa M. Gúčika k najvýznamnejším GDS používaným v cestovnom ruchu patria:
+•
+
+Amadeus/SystemOne,
+
+•
+
+Apollo/Galileo,
+
+•
+
+SABRE,
+
+•
+
+World-span/Abacus.
+
+Až 96% všetkých cestovných kancelárií a agentúr v USA využíva minimálne jeden
+systém rezervovania. Zapojenie cieľového miesta do GDS má mnohé výhody. Zákazníci
+oceňujú možnosť porovnávať ceny a objednať služby v hotelových spoločnostiach,
+požičovniach áut, leteckých, lodných a železničných spoločnostiach.
+GDS financujú svoju činnosť z poplatkov od poskytovateľov služieb za pripojenie do
+systému a z provízií za rezervovanie, ktoré sa platia aj pri vzájomnom zúčtovaní medzi
+rôznymi systémami (Hrubálová, 2015).
+
+1.4.1 Internetové systémy rezervácie
+V posledných rokoch sa internetové systémy rezervovania a online cestovné
+kancelárie stali súčasťou distribučnej stratégie v cestovnom ruch. Rozvoj internetu a jeho
+23
+
+využívanie v domácnostiach umožnilo zmenu v rezervovaní. Namiesto toho, aby zákazníci
+museli volať alebo osobne navštíviť cestovnú kanceláriu alebo agentúru, proces
+rezervovania môžu uskutočniť z pohodlia domova. V odbornej literatúre často zamieňajú
+pojmy internetový systém rezervovania a online cestovná kancelária, existuje medzi nimi
+rozdiel. Zatiaľ čo online cestovné kancelárie sú horizontálne prepojené a ponúkajú možnosť
+rezervovania ubytovania, dopravných a iných služieb, internetové systémy rezervovania sa
+zameriavajú len na ubytovanie. Oba sú nepriame distribučné kanály, ktoré sa vyvinuli
+z GDS. Pracujú na princípe provízie a zmluvne dohodnutých podmienok s poskytovateľmi.
+V súčasnosti pozorujeme výrazný rast internetových systémov rezervovania a online
+cestovných kancelárií. Na trhu dominujú štyri veľké spoločnosti. V Európe je to spoločnosť
+Pricrline Group so 63% podielom na trhu, Expedia Incorporation so 16,8% a HRS Group
+s 11,9%. Rast spôsobuje nižšiu konkurenciu na trhu, zvyšovanie trhového podielu veľkých
+spoločností, ktoré si tak zabezpečujú silu pri vyjednávaní (Gajdošík, Gajdošíková,
+Marčeková, 2017).
+Podľa J. Beránka a kol. (2013) sú internetové systémy rezervovania internetové
+aplikácie umožňujúce priame rezervovanie. Zákazníkom umožňujú prístup k výberu hotela
+na GDS prostredníctvom webových stránok cestovných kancelárií a agentúr, kde si
+ubytovanie rezervujú sami.
+Na Slovensku sú pomerne rozšírene ubytovacie portály, ktoré umožňujú vyhľadať
+ubytovanie v cieľovom mieste a na rezervovanie využívajú webový formulár napr.
+travelguide.sk, skonline.sk, limba.sk, viaslovakia.sk, enjoyslovakia.sk, hotelnet.sk,
+ubytujsa.sk, ubytko123.sk atď. (Hrubalová, 2015).
+Internetové systémy rezervovania a online cestovné kancelárie umožňujú hotelu, aby
+mal pod kontrolou proces rezervovania. Ponúkajú prehľadné štatistiky o počte návštevníkov
+na stránke hotela v systéme, počet rezervovaní, zrušených rezervovaní a podiel
+návštevníkov stránky (Gajdošík, Gajdošíková, Marčeková, 2017).
+Podľa L. Hrubalovej (2015) je výhodou nepriamej distribúcie špecializácia, kontakty
+a skúsenosti sprostredkovateľov, úspora času a nákladov, prístup na trh a cieľové skupiny
+hostí, na ktoré by hotel nemal dosah.
+
+24
+
+CIEĽ, METÓDY A MATERIÁL POUŽITÝ PRI PRÁCI
+
+2
+
+Hlavný cieľ bakalárskej práce je analyzovať distribučné systémy v konkrétnom
+podniku ubytovacích služieb, nájsť najefektívnejšie formy distribúcie a navrhnúť spôsob ich
+efektívneho využitia v záujme zabezpečenia dostupnosti produktu, čo najväčšiemu počtu
+potencionálnych klientov.
+Aby sme mohli naplniť hlavný cieľ bakalárskej práce musíme si ho rozdeliť na niekoľko
+čiastkových cieľov:
+•
+
+Vhodný výber domácej alebo zahraničnej odbornej literatúry,
+
+•
+
+Výber konkrétneho ubytovacieho zariadenia pre aplikáciu riešenej problematiky,
+
+•
+
+Získanie informácií
+
+z podniku
+
+ubytovacích služieb pomocou rozhovorov
+
+s kompetentnými zamestnancami,
+•
+
+Zhrnutie získaných poznatkov prípadne návrh odporúčania pri zistených
+nedostatkoch.
+
+V bakalárskej práci boli použité metódy ako pozorovanie, analýza, abstrakcia, syntéza,
+dedukcia, indukcia a reprezentatívny výber.
+Abstrakciu a analýzu sme využívali v prvej kapitole bakalárskej prace. Kde sme
+z vybranej vhodnej odbornej literatúry vyberali a analyzovali teoretický základ pre našu
+prácu.
+Metódu dedukcie sme použili pri kladení otázok kompetentným zamestnancom pri
+našom rozhovore. Využili sme aj možnosť riadeného rozhovoru, ktorého cieľom bolo zistiť
+aký distribučný systém ubytovacie zariadenie preferuje pri rezervácií ubytovania.
+Metódu syntézy sme využívali pri zostavení rizík distribučného systému v konkrétnom
+ubytovacom zariadení.
+Metóda indukcie nám slúžila pri odvodení záveru z daných získaných informácií.
+Pri zisťovaní informácií pomocou rozhovoru sme využívali metódy pozorovania
+a reprezentatívneho výberu.
+
+25
+
+Pri písaní našej bakalárskej práci sme použili rôzne materiály či už z knižných aj
+internetových publikácií v našom ale aj v cudzom jazyku s cieľom preskúmať danú
+problematiku distribučných systémov v ubytovacích zariadeniach. Ďalej sme použili získané
+informácie z interného prostredia konkrétneho ubytovacieho zariadenia.
+
+26
+
+3
+
+ANALÝZA DISTRIBUČNÝCH SYSTÉMOV
+KONKRETNÉHO UBYTOVACIEHO ZARIADENIA
+
+V tretej časti bakalárskej práce budeme analyzovať distribučné systémy v konkrétnom
+ubytovacom zariadení. Skúmať budeme aké distribučné systémy dané zariadenie využíva,
+ktorý zo systémov je najviac využívaný a ktoré distribučné systémy dané zariadenie
+preferuje. Taktiež si niečo povieme o spôsobe rezervácie prostredníctvom distribučného
+systému a povieme si niečo aj o cieľových skupinách ubytovacieho zariadenia.
+
+3.1 Charakteristika ubytovacieho zariadenia
+
+Na analýzu distribučných systémov sme si vybrali ubytovacie zariadenie Hotel Sorea
+Trigan, ktorý sa nachádza v atraktívnom prostredí Vysokých Tatier. Konkrétne na Štrbskom
+Plese pri Novom Štrbskom Plese resp. pri malom jazere. Štrbské Pleso je významné
+turistické centrum a najvyššie položené liečebné miesto. Hotel má moderný hranatý vzhľad
+a ružovú fasádu, ktorú môžu návštevníci vidieť už z električky alebo zubačky. Jeho
+výstrednú farbu môžeme registrovať aj cestou autom či už zo strany Vysokých Tatier alebo
+obci Štrba. V minulosti sa toto ubytovacie zariadenie nazývalo Hotel Baník. Vzhľadom na
+rozsiahlu rekonštrukciu v roku 2012 sa názov zmenil na Hotel Sorea Trigan. Rekonštrukcia
+prebehla úspešne a hotel sa rozšíril o wellness centrum, pribudol panoramatický výťah s
+výhľadom na okolitú prírodu a taktiež sa rekonštrukcia dotkla vstupnej haly, recepcie
+a lobby baru.
+
+27
+
+Obr. 2 – Hotel Sorea Trigan pred rekonštrukciou
+Zdroj: https://www.penzion-hotel.cz/sk/detail-ubytovani/horsky-hotel/hotel-sorea-triganbanik-strbske-pleso/864.html
+
+Obr. 3 – Hotel Sorea Trigan po rekonštrukcií
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+Momentálny názov nesie po časti hrebeňa klesajúceho z Hrebeňa Bášt, ktorý je
+posledný vrchol Patrie v nadmorskej výške 1481 metrov.
+Pre hotelových hostí sú k dispozícií:
+•
+
+jednolôžkové a dvojlôžkové izby s možnosťou prístelky,
+
+•
+
+rodinné izby,
+
+•
+
+apartmány,
+28
+
+•
+
+bezbariérové izby pre handicapovaných hostí.
+
+Hotelové izby sú vybavené toaletou, telefónom, televízorom, internetovým pripojeným
+a pre rodiny s deťmi je možné si vypožičať detskú postieľku. Do hotela sa je možné ubytovať
+sa aj s domácim miláčikom. Pre potencionálnych klientov je na internetovej stránke možnosť
+virtuálnej izby, kde pomocou google mapy si klienti môžu prezrieť ako vyzerajú izby, lobby
+bar a aj kongresová miestnosť.
+
+Obr. 4 – Izba hoela Sorea Trigan
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/
+
+Hotel je ocenený certifikátom „Zariadenie priateľské k deťom a rodinám“ na základe
+projektu vstúpte s dieťaťom. Platnosť certifikátu je kontrolovaná Úniou materských centier.
+Pre deti je hotel vybavený detskou sekciou vo wellness centre, detským menu, stoličkami,
+postieľkami, detským kútikom, kozmetikou, plienkami a mnohým ďalším.
+
+29
+
+Obr. 5 – Certifikát pre zariadenie priateľské k deťom a rodinám
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/
+
+Hotel ďalej disponuje ponukou gastronomických služieb prostredníctvom hotelovej
+reštaurácie, kongresovým vybavením pre organizáciu rôznych seminárov, školení
+a konferencií. K jeho doplnkovým službám patrí centrum Wellness svet regenerácie
+a oddychu.
+Na základe ponúkaných služieb hotela môžeme povedať, že hotel je vhodný pre:
+•
+
+rodinnú rekreáciu,
+
+•
+
+organizáciu školení, seminárov a kongresov,
+
+•
+
+relaxačno-ozdravovacie a regeneračné pohyby,
+
+•
+
+športové sústredenia.
+
+Hotel ponúka pobyty s polpenziou, možnosťou parkovania a internetovým pripojením
+v celom objekte.
+
+30
+
+Obr. 6 – Kongresová miestnosť
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+Obr. 7 – Wellness centrum
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/galeria/
+
+Hotel Sorea Trigan patrí do hotelovej spoločnosti SOREA, ktorá vznikla v roku 1993
+u nás na Slovensku. Patrí k najvýznamnejším subjektom cestovného ruchu. Disponuje 11
+hotelmi, ktorých kapacita je približne 3500 lôžok. Svoje hotely má umiestnené na
+najatraktívnejších miestach na Slovensku.
+Sú to napríklad:
+•
+
+Vysoké Tatry,
+
+•
+
+Nízke Tatry,
+
+•
+
+Ľubovianske kúpele,
+31
+
+•
+
+Bratislava.
+
+Spoločnosť Sorea získala aj množstvo prestížnych ocenení, akými sú napríklad Slovak
+Business Superbrands, dôveryhodná firma alebo NAJ ZAMESTNÁVATEĽ.
+
+3.2 Používané spôsoby distribúcie v ubytovacom zariadení
+
+V nasledujúcej časti bakalárskej práce sa pozrieme na spôsoby distribúcie, ktoré
+využíva nami vybrané ubytovacie zariadenie pre rezerváciu ubytovania svojich hostí. Bližšie
+si rozoberieme našu problematiku a povieme si ako otázka distribúcie prakticky vyzerá
+v zvolenom ubytovacom zariadení.
+Hotel Sorea Trigan využíva obidva typy distribúcie:
+•
+
+priamu,
+
+•
+
+nepriamu.
+
+Pod priamou distribúciou chápeme vlastnú webovú stránku, email a telefón.
+Pomocou webovej stránky si môžu potencionálni zákazníci vytvoriť online rezerváciu.
+Nepriamou distribúciou v tomto ubytovacom zariadení chápeme distribúciu
+prostredníctvom cestovných kancelárií alebo prostredníctvom rezervačného portálu
+booking.com.
+
+3.2.1 Distribučné systémy využívané v ubytovacom zariadení
+Ako sme sa v predchádzajúcej časti dozvedeli hotel sa zameriava na oba typy distribúcie.
+Má zavedenú svoju vlastnú webovú stránku, o ktorej môžeme povedať, že:
+•
+
+je prehľadná a zákazník sa v nej môže rýchlo orientovať,
+
+•
+
+obsahuje potrebné informácie pre potenciálneho zákazníka,
+
+•
+
+obsahuje recenzie, ktoré si zákazník môže prečítať a rozhodnúť sa či sa v hoteli chce
+ubytovať,
+
+•
+
+má možnosť virtuálnej prehliadky izieb, lobby baru a podobne,
+32
+
+•
+
+disponuje bohatou galériou.
+
+Obr. 8 – Webová stránka
+Zdroj: https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/
+
+Ako si môžeme všimnúť na obrázku číslo 8 je hneď pod menu stránky online
+rezervácia, kde si môžu potencionálni zákazníci vytvoriť rezerváciu. Zadajú dátum svojho
+príchodu, odchodu, počet a zloženie požadovaných izieb. Po kliknutí na hľadaj ubytovanie
+sa nám zobrazí ďalšia karta s rezerváciou a ponúkne nám aj dostupné izby ktoré si môžeme
+objednať.
+
+Obr. 9 – Rezervácia ubytovania prostredníctvom webovej stránky
+Zdroj: https://sorean.rezo.sk/sk/sorea-trigan/2022-04-20/2022-04-23
+
+33
+
+Ďalším spôsobom pri priamej distribúcie je rezervácia prostredníctvom telefonátu
+alebo emailu. Webová stránka hotela veľmi prehľadne zobrazuje kontakty. Je len na
+zákazníkovi aký spôsob mu viac vyhovuje či už prostredníctvom telefonického hovoru alebo
+emailu.
+Webová stránka umožňuje zákazníkom stať sa členom klubu SOREA po vyplnení
+formuláru priamo na webovej stránke. Zákazník má potom možnosť využívať zľavy
+v zariadeniach, ktoré patria do hotelovej spoločnosti SOREA. Zľavy sa nedajú uplatniť pri
+rezerváciách tretej strany čiže sa nevzťahuje na firemné akcie, kongresy, internetové portály
+a ani predaj v cestovných kanceláriách. Zľava sa uplatňuje priamo pri rezervácii, neskôr ju
+nie je možné doplniť.
+Keďže hotelová spoločnosť SOREA disponuje viacerými ubytovacími zariadeniami
+uvádzame len zľavy, ktoré sa vzťahujú na hotel Sorea Trigan.
+K zľavám patrí:
+•
+
+5% z pultového cenníka ubytovania,
+
+•
+
+5% z pobytového cenníka,
+
+•
+
+5% z cien produktových balíkov SOREA,
+
+•
+
+5% z akciových pobytov (pokiaľ nie je stanovené inak),
+
+•
+
+30% na vstup do centra WELLNESS SVET REGENERÁCIE A ODDYCHU.
+
+Hotel Sorea Trigan svoje služby tiež distribuuje prostredníctvom cestovných kancelárií
+a bookingu.
+Hotel ma uzavreté zmluvy s viacerými cestovnými kanceláriami akými sú napríklad:
+•
+
+Sorger
+
+•
+
+Satur
+
+•
+
+Liptour
+
+•
+
+Vysoké Tatry Travel
+
+•
+
+Čedok
+
+•
+
+CD travel
+
+34
+
+Obr. 10 – Ponuka ubytovania prostredníctvom cestovnej kancelárie Satur
+Zdroj: https://www.satur.sk/produkt/sorea-trigan/?tab=info
+
+Pre príklad zverejnenia hotela na webových stránkach cestovných kancelárií sme si
+vybrali cestovnú kanceláriu Satur, pretože môžeme pekne vidieť ponuku hotela. Taktiež
+môžeme vidieť pohyb cien pobytov v nasledujúcich mesiacoch tohto roku. Vidíme, že cena
+sa navyšuje príchodom letnej sezóny v júli a auguste a následne cena opäť klesá.
+Pri rozhovore s kompetentnými zamestnancami sme sa dozvedeli, že ceny sa
+odvíjajú od sezóny kedy cena za pobyty stúpa vyššie ako v mimosezóne. Taktiež sme sa
+dozvedeli, že ceny sa menia aj v závislosti od vekovej skupiny, počtu ľudí, rôznych
+benefitov, animácií a podobne.
+Na webovej stránke cestovnej kancelárie Satur sa môžeme dozvedieť viac
+informácií o animáciách pre deti, lokalite, atrakciách v blízkosti Štrbského Plesa, môžeme
+si prečítať recenzie alebo si vybrať pripravované balíčky pobytov.
+Pre porovnanie sme si vybrali ešte jednu cestovnú kanceláriu a tou je Vysoké Tatry
+travel. Ich webová stránka poskytuje lepšiu prehľadnosť čo sa týka cien pobytov hotela
+Trigan. Môžeme tam vidieť, čo všetko pobyt zahŕňa, cenu pre osobu, vstup do wellness
+centra a ďalšie príplatky. Tak tiež ma k dispozícií prehľad recenzií, ktoré na rozdiel od
+vlastnej webovej stránky hotela Trigan sú aktuálne. Webová stránka nám umožňuje aj
+virtuálnu prehliadku hotela, ktorú si zákazník pred vytvorením rezervácie môže pozrieť.
+Rezerváciu si zákazník vytvára prostredníctvom kliknutia na mám záujem kde sa mu
+
+35
+
+požadované ubytovanie a kontaktné údaje. Po odoslaní rezervácie cestovná kancelária
+preverí voľnosť izieb a zasiela zákazníkovi nezáväznú cenovú ponuku.
+Keďže momentálne sa nám blíži Veľká noc cestovná kancelária ponúka akciovú
+ponuku, ktorá je veľmi dobre graficky zobrazená. Môžeme vidieť cenovú ponuku
+tabuľkovo zobrazenú. Tabuľka nás oboznamuje s cenou pre dospelú osobu na 4 noci
+v sume 315 €. Pre dieťa od 3-15 rokov za cenu 220€. Pre jedno dieťa do 8 rokov je lôžko
+zdarma a pre druhé dieťa vo veku od 3-15 rokov je prístelka za cenu 155€.
+Na základe takého to grafického spracovania je zákazník už schopný sa rozhodnúť
+či si pobyt rezervuje alebo strávi Veľkú noc niekde inde.
+
+Obr. 11 – Zobrazenie ponuky hotela Trigan na webovej stránke Vysoké Tatry travel
+Zdroj: https://www.vysoke-tatry.travel/ubytovanie/popis-zajazdu/6835/#info
+
+Môžeme to zhodnotiť tak, že potencionálny zákazník má na výber dosť možností,
+prostredníctvom ktorých si môže pobyt v hoteli Trigan rezervovať, je len na ňom aký
+spôsob si zvolí.
+Podľa nás ak by sme my boli potencionálnymi zákazníkmi hotela Trigan a chceli by
+sme si vytvoriť rezerváciu využili by sme spôsob priamej distribúcie čiže telefonickým
+36
+
+hovorom. V prípade nepriamej distribúcie by sme zvolili rezerváciu cez cestovnú
+kanceláriu Vysoké Tatry travel, ktorej grafické spracovanie webovej stránky sa nám páčilo
+najviac a prišlo nám veľmi jednoduché.
+
+3.2.2 Najvyužívanejšie spôsoby distribúcie a spôsob rezervácie
+v ubytovacom zariadení
+Na základe riadeného rozhovoru s riaditeľom a kompetentnými zamestnancami
+hotela sme sa dozvedeli, že najviac využívajú priamu distribúciu prostredníctvom
+telefonátov alebo emailov. Tento spôsob priamej distribúcie je pre hotel najlepšou
+možnosťou. Ubytovacie zariadenie preferuje rezervácie vykonávané priamo cez hotel.
+Telefonicky alebo emailom dokážu potencionálnym zákazníkom predať svoje služby oveľa
+lepšie, vedia ponúknuť rôzne zľavy a benefity, prediskutovať požiadavky zákazníkov
+a podobne. Priama komunikácia medzi zákazníkom a hotelom prostredníctvom telefónu je
+tak dôveryhodnejšia. U zákazníkov to vzbudzuje dôveru voči ubytovaciemu zariadeniu a sú
+ochotní ho opätovne navštíviť pri bezproblémovej rezervácii a príjemnom prístupe
+personálu hotela.
+Hotel má uzavretú zmluvu aj s bookingom lenže jeho využitie pri vytváraní
+rezervácií je minimálne. Minimálne využívanie bookingu je pre hotel menším plusom,
+keďže rezervačný systém pracuje na princípe, že za každé sprostredkované ubytovanie si
+berie províziu 12%. Províziu platí ubytovacie zariadenie až za reálne ubytovaných hostí.
+Booking v nasledujúcom mesiaci zasiela faktúru za uskutočnené pobyty, ktorú musí
+ubytovacie zariadenie zaplatiť.
+
+37
+
+Obr. 12 – Hotel Trigan zobrazení na bookingu
+Zdroj: https://www.booking.com/hotel/sk/sorea-banak.sk.html
+
+Graf 1 – Využitie distribučných systémov v ubytovacom zariadení
+Zdroj: vlastné spracovanie
+
+Z grafu môžeme vidieť v akých percentách hotel využíva distribučné systémy na
+rezerváciu ubytovania. Najviac rezervácií sa vykonáva prostredníctvom telefonických
+hovorov, email komunikáciou, vlastnou webovou stránkou alebo prostredníctvom
+cestovných kancelárií. Hotel najmenej využíva na rezerváciu booking.
+38
+
+Na spôsob rezervácie si zostavíme modelovú situáciu, kedy si potencionálny
+zákazník nájde hotel na internete. Následne kontaktuje prevádzku hotela. Prvou otázkou zo
+strany personálu je veková kategória zákazníka, aby sa správne stanovila začiatočná cena.
+Cena sa nevyvíja len od sezóny ale taktiež od veku potencionálnych zákazníkov. Ďalej je
+potrebné uviesť počet ľudí, aby sa správne vybrali izby a počty lôžok. Keď sa určia
+základné parametre zákazník si ďalej pridáva doplnkové služby, ktoré nie sú v cene.
+Vyčísli sa mu celková suma za poskytované služby. Personál vykonáva rezervácie do
+rezervačného systému Horec, ktorý prehľadne poskytuje evidenciu hostí, účtov pre hostí,
+denné prehľady, uzávierky, evidenciu objednávok, tovarových zásob a podobne.
+K dispozícii je 24-hodinová telefonická služba.
+
+3.2.3 Náklady a príjmy na distribučné systémy
+Z riadeného rozhovoru sme sa od kompetentných dozvedeli, že náklady na
+distribučné systémy a IKT má na starosti centrála spoločnosti SOREA v Bratislave. Hotel
+v rámci recepcie disponuje prevádzkovými nákladmi, ktoré využívajú na kúpu
+kancelárskych potrieb. Keďže všetky sumy či už nákladov alebo príjmov súvisia s centrálou
+spoločnosti SOREA hotel nám ich nemohol poskytnúť.
+Preto na základe prístupných cien za ubytovanie sme dedukovali príjmy nasledovne:
+
+Graf 2 – Približné príjmy hotela
+Zdroj: vlastné spracovanie
+39
+
+Z grafu môžeme vidieť, že 60% príjmov hotela tvorí sezóna, keďže ceny za
+ubytovanie sú vyššie a tak tiež aj dopyt počas sezóny je vyšší. 40% príjmov tvorí
+mimosezóna pretože ceny začínajú klesať oproti sezóne a tiež klesá aj dopyt po ubytovaní.
+Pre lokalitu hotela je táto dedukcia primeraná, pretože hoteli a celkovo cestovný ruch vo
+Vysokých Tatrách najviac žije v sezónach leto a zima. Mimosezóny sú v tejto lokalite pre
+cestovný ruch slabšie. V momentálnej situácii tomuto pomohla aj pandémia covidu-19.
+
+3.3 Cieľová skupina
+
+V tejto časti bakalárskej prace si rozoberieme cieľovú skupinu hotela Trigan.
+Zameriame sa na to kto tvorí cieľovú skupinu, za akým účelom prichádzajú a odkiaľ
+príchádzajú.
+O cieľovej skupine by sme mohli povedať len toľko, že sú to rôzne skupiny zákazníkov.
+Majú záujem o poskytovanie služieb zo strany podnikov, ktoré uspokojujú ich potreby.
+Medzi ich potreby v rámci cestovného ruchu zaraďujeme:
+•
+
+potrebu ubytovania,
+
+•
+
+stravovania,
+
+•
+
+relaxácie a oddychu,
+
+•
+
+spoznávanie nových miest ...
+
+Každé ubytovacie zariadenie je zamerané na inú kategóriu cieľovej skupiny.
+Väčšinou si svoju cieľovú skupinu vyberajú samotné ubytovacie zariadenia na základe praxi
+napr. štatistikou návštevnosti alebo na základe trhu.
+Počas riadeného rozhovoru sme sa kompetentných zamestnancov pýtali
+
+aj na
+
+cieľovú skupinu hotela Trigan. Dozvedeli sme sa, že cieľová skupina hotela je nasledovná:
+•
+
+seniori a dôchodcovia 60+,
+
+•
+
+rodiny s deťmi,
+
+•
+
+kongresy.
+
+40
+
+Graf 3 – Cieľová skupina hotela Trigan
+Zdroj: vlastné spracovanie
+
+Z grafu môžeme vidieť, že hotel najviac navštevujú seniori a dôchodcovia 60+,
+ktorí prichádzajú celoročne či už v sezóne alebo mimosezóne. Hotel je na nich najviac
+zameraný a sú najväčšou kategóriou pre návštevnosť. Z pozorovania sme zistili, že zájazdy
+čisto len s dôchodcami a seniormi prichádzajú do lokality Štrbské Pleso hlavne
+v mesiacoch September a Október. Rodiny s deťmi navštevujú hotel hlavne v sezónach
+počas prázdnin alebo sviatkov kedy deti majú v školách alebo škôlkach voľno. Patria do
+druhej najväčšej kategórie, ktorá hotel navštevuje. Práve na túto kategóriu hotel získal aj
+certifikát, ktorý je zobrazený v charakteristike podniku. No a treťou kategóriou s o dosť
+menšou návštevnosťou, ktorá navštevuje hotel sú kongresy. Tie prichádzajú hlavne
+v mimosezóne kedy je hotel menej obsadený, pretože kongresy sú veľké skupiny
+zákazníkov. Počas návštevy v mimosezńe už sami vedia, že hotel bude mať menej klientov
+a tým pádom sa im personál bude viac venovať. Mladí ľudia či už s deťmi alebo bez tento
+hotel navštevujú minimálne.
+Pri účele návštevnosti sme pomocou analýzy zistili to, že za príchodom hostí stoja
+účele ako sú:
+-
+
+turistika,
+
+- lyžovanie (hlavne zimná sezóna),
+
+-
+
+relaxácia a oddych,
+
+- kongresy.
+
+41
+
+Graf 4 – Účel návštevnosti hotela
+Zdroje: vlastné spracovanie
+
+Na grafickom zobrazení vidíme, že najviac zákazníkov chodí na Štrbské Pleso
+z dôvodu turistiky, ktorá je nie je vymedzená sezónou a praktizuje sa nie len v lete ale aj
+v zime. Tu ale musíme podotknúť, že niektoré turistické chodníky sa na zimnú sezónu
+uzatvárajú. Pre zimnú sezónu ostávajú sprístupnené turistiky napr. na Zamkovského chatu,
+Téryho chatu, Sliezsky dom, Zbojnícku chatu, Chatu pod Soliskom a mnoho ďalších.
+Preto tvorí 30% nášho grafu. Lyžovačka tvorí hlavný účel návštevnosti v zimnej sezóne,
+kedy väčšina zákazníkov prichádza len kvôli tomu si zalyžovať na Štrbskom Plese prípade
+v iných lyžiarskych strediskách Vysokých Tatier. Skúsenejší lyžiari využívajú aj možnosť
+voľného lyžovania. Preto má v našom grafe 25%. V grafe si také isté percento zaslúžila
+relaxácia a oddych, ktorá je účelom návštevností celoročne. Zákazníci ju preferujú ako
+v sezónach tak aj v mimosezónach. Návštevnosť kongresov si v našom grafe zaslúžila
+najmenšie percento pretože zákazníci s týmto účelom cestovného ruchu prichádzajú
+v mimosezónach.
+Pozorovaním sme zistili, že z geografického hľadiska podľa krajín a národností
+hotel Trigan navštevujú nie len Slováci ale tiež Česi, Poliaci, Maďari a v malom zoskupení
+aj iné krajiny a národnosti. Keďže hotel sa nachádza na Štrbskom Plese návštevnosť týchto
+národností nie je prekvapujúca. Hlavne sezóny ako zima a leto je lákadlom pre tieto
+národnosti.
+42
+
+Graf 5 – Národnosť návštevníkov
+Zdroj: Vlastné spracovanie
+Z našej analýzy grafu sme zistili, že najviac hotel Trigan navštevujú Slováci. Po nás
+nasledujú Česi, Poliaci a Maďari. No a najmenej navštevujú hotel iné národnosti. Mohli by
+sme k tomu povedať, že pre zamestnancov hotela a je jedno na akej pozícií sa nachádzajú
+je jazyková komunikácia jednoduchá a tým pádom by nemal nastať problém pri žiadnej
+poskytovanej službe či už vo wellness centre, v reštauračných priestoroch alebo pri
+detských animáciach.
+
+43
+
+4
+
+ZHRNUTIE ZÍSKANÝCH POZNATKOV
+A ODPORÚČANÉ NÁVRHY
+
+V poslednej kapitole našej bakalárskej práce je našim cieľom urobiť zhrnutie toho čo
+sme zistili v tretej kapitole a navrhnúť odporúčania pre hotel Trigan na zlepšenie
+a skvalitnenie ich distribučných systémov.
+Kapitolu začneme SWOT analýzou hotela, v ktorej si popíšeme silné a slabé stránky
+a tiež príležitosti a hrozby aby sme vedeli navrhnúť odporučenie.
+
+4.1
+
+SWOT analýza hotela Trigan
+
+Pre navrhnutie odporúčaní a návrhov sme si zostavili SWOT analýzu hotela Trigan,
+aby sme podnik lepšie poznali.
+
+SILNÉ STRÁNKY
+Lokalita
+Personál
+Priama komunikácia s hosťom
+Fajčiarská miestnosť
+Dlhoročné pôsobenie na trhu
+
+SLABÉ STRÁNKY
+Horší prístup do hotela bez auta/
+autobusu
+Zlá cesta v zimnej sezóne pred hotelom
+Propagácia
+
+PRÍLEŽITOSTI
+Zvžšenie dopytu po cestovaní
+Lokalita
+Rozšírenie klientely hotela
+
+HROZBY
+Pandémia Covid - 19
+Konkurencia
+Finančné riziko
+
+Tab. 1 – SWOT analýza
+Zdroj: Vlastné spracovanie
+
+44
+
+Každá zostavená SWOT analýza by sa mala začínať rozoberať od silných stránok.
+Na základe nami zostavenej SWOT analýzy sme zistili, že k silným stránkam hotela Trigan
+patria:
+1. Lokalita. Ako sme už vyššie spomínali hotel sa nachádza na Štrbskom Plese, ktoré
+je najvyhľadávanejšou destináciou Vysokých Tatier. Hotel je situovaný pri umelo
+vytvorenom Novom Štrbskom Plese čiže návštevníci sa pohľadom z hotela môžu
+kochať krásou jazera a panoramovu štítov Tatier. Najlepší výhľad je na štíty Ostrva,
+Patria, Solisko, Kriváň a Štrbský Štít.
+2. Personál. Hotelový personál je milí a veľmi ochotní. Vždy sa snaží zákazníkom
+poskytovať tie najlepšie služby. Recenzie na personál sú na webových portáloch sú
+pozitívne.
+3. Priama komunikácia s hosťami. Hotel preferuje priamu komunikáciu, ktorá je
+dlhodobo osvedčená. V dnešnej dobe je priama komunikácia veľmi vzácna keďže
+väčšina veci prebieha už v online priestore.
+4. Fajčiarska miestnosť. V budove hotela sa nachádza fajčiarska miestnosť, ktorú
+najviac privítajú hostia fajčiari. Je to pre nich výhodou pretože si nemusia ísť dať
+cigaretu vonku hlavne v zimnom počasí. Pre hotel je to z jednej časti ekologické,
+keďže väčšina fajčiarov by vyhadzovala ohorky od cigariet v okolí hotela viac ako
+do popolníkov alebo koša.
+5. Dlhoročné pôsobenie na trhu. Hotel pôsobí na trhu už dlhé roky čiže disponuje ako
+veľkým množstvom skúseností tak aj stálou klientelou, ktorá sa pravidelne vracia.
+Môžeme povedať aj to, že niektorí starší zamestnanci pôsobia na hoteli od jeho
+začiatkov.
+Ďalšou časťou, ktorú si rozoberieme zo SWOT analýzy budú slabé stránky. Na nami
+vybranom hoteli sme spozorovali tieto:
+1. Horší prístup do hotela bez auta alebo autobusu. Do hotela vedie príjazdová cesta
+od penziónu Štrbské Pleso pre autá alebo autobusy. Táto cesta je bezproblémová
+pri príchode hostí. Na rozdiel od cesty pre hostí, ktorí prídu iným dopravným
+prostriedkom napr. vlakom. Vlakmi väčšinou prichádzajú dôchodcovia. Od
+železničnej stanici do hotela Trigan momentálne vedie lesná cesta pretože vedľa
+stavajú nové apartmánové byty. Pre domácich a zamestnancov hotela je táto cesta
+môžeme povedať zvyk ale keď prídu hostia ešte aj s batožinou je bieda a podľa
+nás aj mínus pre hotel.
+45
+
+2. Zlá prístupová cesta v zimnej sezóne. Vieme, že už v predchádzajúcom bode sme
+sa venovali cestám a teraz to bude znovu ale musíme to zarátať hotelu ako mínus.
+V zimnej sezóne pri väčších snehových zrážkach sú cesty neodhrnuté robí to
+problém nie len hosťom, ktorí sa prídu ubytovať ale aj zamestnancom
+a dodávateľom. V iných častiach zimy je cesta zas zľadovatela čo je opäť
+problém. Takto neupravené cesty sú z nášho pohľadu veľmi zlou vizitkou pre
+hotel preto to zaraďujeme do kategórie slabých stránok.
+3. Propagácia. Podľa nás má hotel slabšiu propagáciu a preto sa im nerozširuje
+potencionálna klientela. Keby o sebe dali trošku viac vedieť či už v okolí alebo
+cez internet začalo by im prichádzať viac zákazníkov a rozšírili by klientelu.
+SWOT analýza sa zaoberá aj príležitosťami, ktoré patria ku pozitívnym faktorom
+v analýze. Pre hotel Trigan sme navrhli nasledujúce príležitosti:
+1. Lokalita. Ku príležitostiam pre hotel sme zaradili opäť lokalitu. Podľa nášho
+hľadiska je v danom prípade lokalita ako silnou stránkou tak aj príležitosťou, na
+ktorej hotel môže stavať a zabezpečiť si tak dlhšie pôsobenie na trhu. Vysoké Tatry
+sú stále viac navštevované a lákajú návštevníkov svojou krásou prírody z celého
+sveta.
+2. Zvýšenie dopytu po cestovaní. Momentálne keďže pandémia covidu- 19 ustupuje
+zvyšuje sa tak dopyt po cestovaní. Ľudia sú odvážnejší a začínajú opäť viac
+cestovať. Cestovanie začína byť stále viac populárnejšie v spoločnosti.
+3. Rozšírenie klientely. Dobrou príležitosťou pre hotel je rozšíriť klientelu hostí. Ak by
+tak hotel urobil mal by viac hostí a mohol dosahovať väčších ziskov. Väčšou
+propagáciou, vytvorením rôznych akcií alebo pobytových balíčkov by sa mu to
+podľa nás mohlo podariť.
+K poslednej časti SWOT analýzy patria hrozby sú negatívnym faktorom, ktorý hotel
+ovplyvňujú z externého prostredia. Hotel Trigan čelí nasledujúcim hrozbám:
+1. Pandémia covid-19. Momentálne je pandémia na ústupe a cestovný ruch sa
+začína znovu vracať do starých koľají aj keď rozbeh začína pomaly.
+Neznamená to však, že sa pandémia nemôže vrátiť naspäť hlavne na jeseň
+a začiatok zimy. Pravé preto sme ju zaradili medzi hrozbu pre hotel.
+2. Konkurencia. Tá je hrozbou pre všetky podniky pretože vždy pribúda niečo
+nové a tým rastie konkurencia. Na Štrbskom Plese ma hotel veľmi veľkú
+46
+
+konkurenciu pretože sa tu nachádza veľké množstvo ubytovacích zariadení,
+ktoré poskytujú rovnaké služby ako hotel Trigan a sú aj cenovo podobné.
+3. Finančné riziko. Financie sme zaradili medzi hrozbu pretože momentálne
+narastajú ceny či už potravín alebo energií čím aj hotel bude mať väčšie
+náklady na prevádzkovanie. Čo môže značiť hrozbu pri nízkych príjmov hotela.
+
+4.2
+
+Odporúčané návrhy pre hotel Trigan
+
+Pre hotel Trigan navrhujeme aj naďalej využívať na rezerváciu priamu distribúciu
+a zlepšovať sa v nej. Pri vlastnej webovej stránke odporúčame menšiu modernizáciu
+a aktualizáciu informácií. Prezeraním sme zistili, že stránka nemá uvedené aktuálne
+recenzie. Preto navrhujeme aktualizáciu, keďže už v predchádzajúcej časti sme hovorili, že
+hotel najviac využíva priamu distribúciu a rezervácia prostredníctvom vlastnej webovej
+stránky tam patrí tiež. Hotel slabo propaguje akciové pobytové balíčky na svojej stránke.
+Odporúčame sa mu zamerať na túto možnosť. Viac propagovať balíčky už na úvodnej strane
+aby ich zákazníci už po kliknutí na webovú stránku videli a nemuseli nič hľadať, čo by
+ušetrilo ich čas a tak by si ihneď vedeli pobyt zarezervovať. Podľa nás by sa mal hotel viac
+venovať robeniu rôznych akcií alebo pobytov aj pre iné kategórie ako sú dôchodcovia.
+Zamerať by sa mal na mladých ľudí čím by sa zvýšila nie len návštevnosť hotela ale aj
+ziskovosť.
+Čo sa týka nepriamej distribúcie odporúčame hotelu sa viac zamerať na rezervačný
+systém booking, ktorý využíva stále viac ľudí a jeho popularita stúpa. Pritiahol by tak viac
+zákazníkov čo by znamenalo ďalší zisk pre hotel.
+Z iných populárnych rezervačných systémov by hotel mohol vyskúšať airbnb. Tento
+rezervačný systém je viac populárnejší v zahraničí, no ale u nás sa už tiež pomaly dostáva
+do popredia. Airbnb je konkurenciou pre booking. Ak by mal hotel problém s využívaním
+tohto systému pretože by mal strach či to bude prospešné a či bude prinášať zisk. Môže na
+začiatok dať do ponuky len zopár izieb. Zo štatistík si tak môže urobiť obraz o príjmoch
+z tohto distribučného systému. Tiež si môže pozrieť aké náklady do neho vložil a či mu to
+vynáša alebo nie a na základe týchto štatistík by sa podnik rozhodol či ho bude využívať
+ďalej. Nevýhodou v tomto rezervačnom systéme je cena provízií za sprostredkovanie
+ubytovania, ktorá sa pohybuje od 14% do 16%. Výhodou je, že tzv. hostiteľ čiže
+prenajímateľ si vyberá akým spôsobom bude uhrádzať poplatok.
+47
+
+Na porovnanie musíme povedať, že rezervačný systém airbnb je pre hotel drahší ako
+booking. Keďže hotel využíva služby bookingu veľmi málo na začiatku by sme mu
+odporúčali sa zamerať na tento rezervačný systém a až neskôr na iný.
+V tejto kapitole sa venujeme návrhom a odporučeniam preto by sme chceli
+podotknúť, že na základe SWOT analýzy v časti slabé stránky sme našli návrh na ich
+odstránenie. Tento návrh sa bude týkať hlavne zimnej sezóny. Hotelu navrhujeme sa v tomto
+ročnom období zaujímať aj o pravidelné odhŕňanie príjazdových ciest. Z nášho pohľadu
+hovoríme, že takto neupravené cesty nerobia hotelu dobú vizitku. Každí zákazník, ktorí príde
+nie je odkázaní na doslovné borenie sa v snehu ale pekný bezproblémový príchod. V hoteli
+sú zamestnaný zamestnanci, ktorých úlohou je sa starať ako o údržbu hotela z vnútra tak aj
+zvonku len ich podľa nás treba viac motivovať. Vieme, že zima je pre Štrbské Pleso náročné
+obdobie čo sa týka sneženia ale pre dobré meno hotela je dôležité sa o cesty starať
+a pravidelne odhŕňať, pretože čiastočne vytvárajú prvý dojem pred ubytovaním.
+
+48
+
+ZÁVER
+
+Hlavným cieľom našej bakalárskej prace bolo rozoberať problematiku distribučných
+systémov v konkrétnom ubytovacom zariadení. My sme si vybrali hotel Trigan a našou
+úlohou bolo navrhnúť metódy na ich používanie. Tento cieľ sme splnili.
+V teoretickej časti bakalárskej práce sme definovali pojmy, ktoré sa úzko týkali témy
+práce. Definovali sme hlavé pojmy ako napr. cestovný ruch, distribúcia, distribučné systémy,
+distribučné kanály, cieľová skupina, ubytovanie, ubytovacie zariadenia a iné ďalšie pojmy.
+Ďalej sme si v teoretickej časti rozdelili distribúciu na priamu a nepriamu. Hovorili
+sme aj o globálnych distribučných systémoch (GDS) a rezervačných systémoch.
+Ďalšou kapitolou bolo určiť si cieľ, metódy a materiál použitý pri práci.
+Našou treťou kapitolou bola praktická časť bakalárskej práce. V tejto kapitole sme si
+charakterizovali vybrané ubytovacie zariadenie. Zaoberali sme sa distribúciou konkrétne
+spôsobom aký ubytovacie zariadenie využívalo na vykonávanie distribúcie. Niečo málo sme
+hovorili aj o cenách za ubytovanie v sezónach a načrtli sme približný graf príjmov hotela.
+V poslednej časti našej bakalárskej práce sme sa venovali zhrnutiu získaných
+poznatkov a predstavovali sme naše návrhy a odporučenia pre vybraný hotel. Urobili sme
+v tejto kapitole SWOT analýzu hotela, na základe ktorej sme postupovali pri návrhoch
+a odporučeniach. SWOT analýza pozostávala zo silných a slabých stánok, ktoré ma hotel
+a z príležitosti a hrozieb.
+Na záver môžeme povedať, že cieľ našej bakalárskej práce sme úspešne splnili.
+
+49
+
+ZOZNAM BIBLIOGRAFICKÝCH ODKAZOV
+
+1. Beránek, J. a kol. 2013. Moderní řízení hotelového provozu. 5. vyd. Praha : Mag
+consulting, 2013. 336 s. ISBN 987-80-86724-45-4
+2. Beránek, J. a kol. 2013. Moderní řízení hotelového provozu. Praha : MagConsulting
+s.r.o., 2013. 135 s. ISBN: 978-80-86724-45-4
+3.
+
+Buhalis, D. 2003. eTourism:information technologies for strategic tourism
+managment. 1. vyd. Harlow : Pearson education limited, 2003. 408 s. ISBN: 0-58235740-3
+
+4.
+
+Camilleri, M. A. 2017. Tourism distribution channels [oniline]. Ling.springer.com.
+[cit.30.09.2017]. Dostupné na internete:
+https://link.springer.com/chapter/10.1007/978-3-319-49849-2_6
+
+5. Ďaďo, J. – Petrovičová, J. – Kostková, M. 2006. Marketing služieb. Bratislava : Epos,
+2006. 304 s. ISBN 80-8057-662-9
+6. Foret, M. a kol . 2001. Marketing základy a postupy. Brno : COMPUTER PRESS,
+2001. 162 s. ISBN: 80-7226-558-X
+7.
+
+Gajdošík, T. – Gajdošíková, Z. – Marčeková, R. 2017. Informačné technológie
+v cestovnom ruchu. Bratislava : Wolters Kulwer, 2017. 208 s. ISBN: 978-80-8168587-3
+
+8. Gúčik, M. 2010. Cestovný ruch. Úvod do štúdia. Banská Bystrica : Dali-BB, 2010.
+307 s. ISBN 978-80-89090-85-3
+9. Gúčik, M. 2011. Marketing cestovného ruchu. Banská Bystrica : DALI-BB, 2011.
+110 s. ISBN: 978-80-89090-85-3
+10. Gúčik, M. a kol. 2006. Cestovný ruch, hotelierstvo, pohostinstvo. Výkladový slovník.
+1. vyd. Bratislava : Slovenské pedagogické nakladateľstvo – Mladé letá, 2006. 216 s.
+ISBN 80-10-00360-3
+11. Hladká, J. 1997. Technika cestového ruchu. Praha : Grada Publishing, 1997. 161 s.
+ISBN 80-7169-476-2
+12. Hrubalová, L. 2015. Základy hotelierstva. 1. vyd. Nitra : Univerzita Konštantína
+Fylozofa v Nitre, Fakulta stredoeurópskych štúdií, 2015. 110 s. ISBN 978-80-5580750-8
+13. Christopher, M. 2005. Logistics & supply chain managment: Creating value-adding
+networks. 3. vyd. New Jersey : FT Press, 2005. 320 s. ISBN: 978-0-273-68176-2
+50
+
+14. Jankovičová, P. 2011. Čo je cieľová skupina? [online]. Blog.triad.sk. [cit.30.10.2011].
+Dostupné na internete: https://blog.triad.sk/marketingovy-slovnik/co-je-cielovaskupina/
+15. Kiraľová, A. 2003. Marketing destinácie cestového ruchu. 1. vyd. Praha : Ekopress,
+2003. 173 s. ISBN: 80-86119-56-4
+16. Kita, J. a kol. 2005. Marketing. 3. vyd. Bratislava : Iura Edition, 2005. 431 s. ISBN
+80-8078-049-8
+17. Lubbe, B. 2000. Tourism Distribution: Marketing the travel intermediary. Kenwyn
+: Juta & co, 2000. 386 s. ISBN: 0702154180
+18. MATEIDES, A. – ĎAĎO, J. 2002. Služby. 5. vyd. Bratislava : Epos, 2002. 750 s.
+ISBN 80-8057-452-9
+19. Swarbrooke, J.- Horner, S. 2003. Cestovní ruch, ubytování a stravování, využítí
+volného času. Praha; Grada Publishing, 2003. 486 s. ISBN 80-247-0202-9
+
+Ďalšie zdroje:
+Informácie z hotela
+Webová stránka hotela (https://www.sorea.sk/vysoke-tatry/hotel-sorea-trigan/)
+
+51
+
+

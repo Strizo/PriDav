@@ -1,0 +1,3049 @@
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA EKONÓMIE A PODNIKANIA
+FEP-11144-16445
+
+LOKALIZÁCIA AKO DÔLEŽITÝ PREDPOKLAD
+ZNIŽOVANIA BUDÚCICH NÁKLADOV PODNIKU
+Diplomová práca
+
+2024
+Bc. Andrej Adamov
+
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA EKONÓMIE A PODNIKANIA
+
+LOKALIZÁCIA AKO DÔLEŽITÝ PREDPOKLAD
+ZNIŽOVANIA BUDÚCICH NÁKLADOV PODNIKU
+Diplomová práca
+Bc. Andrej Adamov
+
+Študijný program:
+
+Ekonomika a manažment medzinárodného podnikania
+
+Študijný odbor:
+
+Ekonómia a manažment
+
+Ústav:
+
+Ústav ekonomiky
+
+Vedúci diplomovej práce:
+
+Ing. Ivan Brezina, PhD.
+
+2024
+Bc. Andrej Adamov
+
+ČESTNÉ VYHLÁSENIE
+
+Čestne vyhlasujem, že diplomovú prácu som vypracoval samostatne, neporušil som
+autorský zákon a použitú literatúru som uviedol na príslušnom mieste.
+
+V Bratislave dňa 08. 05. 2024
+
+Andrej Adamov
+
+POĎAKOVANIE
+
+Poďakovanie patrí školiteľovi diplomovej práce Ing. Ivanovi Brezinovi, PhD.
+za jeho odborné vedenie a metodickú pomoc, ktoré mi poskytol pri jej vypracovaní.
+
+Abstrakt
+Adamov Andrej: Lokalizácia ako dôležitý predpoklad znižovania budúcich nákladov
+podniku, Diplomová práca. Paneurópska vysoká škola. Fakulta ekonómie a podnikania.
+Školiteľ: Ing. Ivan Brezina, PhD. Stupeň odbornej kvalifikácie: Inžinier. Bratislava: PEVŠ,
+2024. 66 s.
+Diplomová práca sa zaoberá lokalizáciou podniku, ktorá je považovaná za kľúčový
+predpoklad v záujme znižovania jeho budúcich nákladov. Práca má teoreticko-praktický
+charakter, pretože v prvej teoretickej časti uvádzame východiskový stav riešenej
+problematiky a v druhej praktickej časti realizujeme skúmanie vhodných konkrétnych
+lokalít. Cieľom diplomovej práce je dostupnými metódami vyhodnotiť viaceré možnosti
+lokality pre nový podnikateľský subjekt. Na základe výsledkov dosiahnutých využitými
+metódami následne rozhodnúť o výbere optimálnej lokality, pričom do úvahy budú brané
+kvantitatívne ukazovatele, ktoré zabezpečujú nestrannosť pri výbere lokality podniku.
+Analýzou a komparáciou dostupných dát v kontexte lokalizačných faktorov viacerých
+navrhnutých lokalít získame potrebné výsledky, ktoré prispejú k záverečnému rozhodnutiu
+a odporučeniu optimálnej polohy novovzniknutého podnikateľského subjektu.
+Kľúčové slová
+Lokalizačný faktor.
+
+Lokalizačné rozhodnutie. Teritoriálny marketing. Priestorový
+
+potenciál. Minimalizácia nákladov.
+
+Abstract
+Adamov Andrej: Localization as an important prerequisite for reducing future company
+costs, Diploma thesis thesis. Pan European University. Faculty of Economics and
+Business. Advisor: Ing. Ivan Brezina, PhD. Degree of professional qualification: Engineer.
+Bratislava: PEVŠ, 2024. 66 p.
+
+The diploma thesis deals with the localization of the company, which is considered a key
+prerequisite in order to reduce its future costs. The work has a theoretical-practical
+character, because in the first theoretical part we present the initial state of the solved
+problem and in the second practical part we carry out the investigation of suitable specific
+locations. The aim of the diploma thesis is to use the available methods to evaluate several
+possibilities of the location for a new business entity. Based on the results achieved by the
+methods used, then decide on the selection of the optimal location, taking into account
+quantitative indicators that ensure impartiality in the selection of the location of the
+company. By analyzing and comparing the available data in the context of the location
+factors of several proposed locations, we will obtain the necessary results that will
+contribute to the final decision and recommendation of the optimal location of the newly
+established business entity.
+
+Keywords
+Location factor. Location decision. Territorial marketing. Spatial potential. Cost
+minimization.
+
+ZOZNAM ILUSTRÁCIÍ
+
+Obrázok 1 Miesto podniku v kontexte kolobehu hospodárskeho trhu .............................. 13
+Obrázok 2 Podnik ako komplex činností a procesov umiestnený v priestore ................... 14
+Obrázok 3 Launhardtov lokalizačný trojuholník ............................................................... 17
+Obrázok 4 Aglomeračné efekty ......................................................................................... 18
+Obrázok 5 Hooverove dopravné náklady .......................................................................... 18
+Obrázok 6 Postupy a metódy územného marketingu ........................................................ 20
+Obrázok 7 Región ako otvorený systém ............................................................................ 21
+Obrázok 8 Matica: atraktivita/kvalita podnikateľského prostredia.................................... 22
+Obrázok 9 Definovanie hodnotiacich kritérií a zber dát .................................................... 23
+Obrázok 10 Marketingové rozhodnutia veľkoobchodníkov – veľkoobchodný mix ......... 26
+Obrázok 11 Systematizácia aglomeračných efektov ......................................................... 27
+Obrázok 12 Porovnanie počtu obyvateľov v jednotlivých lokalitách ............................... 45
+Obrázok 13 Pravdepodobnosť ceny prenájmu v Bratislave v € ........................................ 47
+Obrázok 14 Pravdepodobnosť ceny prenájmu v Banskej Štiavnici v €............................. 47
+Obrázok 15 Pravdepodobnosť priemerného platu pekára/rky v Bratislave v € ................. 48
+Obrázok 16 Pravdepodobnosť priemerného platu predavača/čky v Bratislave v € ........... 48
+Obrázok 17 Pravdepodobnosť priemerného platu vodiča/čky v Bratislave v € ................ 49
+Obrázok 18 Pravdepodobnosť priemerného platu pekára/rky v Banskej Štiavnici v € ..... 50
+Obrázok 19 Pravdepodobnosť priemerného platu predavača/čky v Banskej Štiavnici v €
+............................................................................................................................................. 51
+Obrázok 20 Pravdepodobnosť priemerného platu vodiča/čky v Banskej Štiavnici v € .... 51
+Obrázok 21 Pomer jednotlivých nákladov na energiu prevádzky pekárne ....................... 53
+
+ZOZNAM TABULIEK
+
+Tabuľka 1 Indikátory a oblasti záujmu podnikania podľa zainteresovaných subjektov ... 15
+Tabuľka 2 Lokalizačné rozhodnutia na rôznych priestorových úrovniach........................ 25
+Tabuľka 3 Inštitucionálne bariéry v rámci lokalizačných rozhodnutí ............................... 30
+Tabuľka 4 Rozhodovacia tabuľka pre výber lokality maloobchodnej prevádzky ............. 33
+Tabuľka 5 Členenie záujmovej oblasti na čiastkové oblasti podľa zamerania predajne ... 34
+Tabuľka 6 Štruktúra predpokladov a faktorov pre hodnotenie v cestovnom ruchu .......... 35
+Tabuľka 7 Členenie lokalizačných faktorov v cestovnom ruchu a kultúrnom odvetví ..... 36
+Tabuľka 8 Subsystémy a zložky prostredia ....................................................................... 37
+Tabuľka 9 Kategorizácia podniku z hľadiska počtu zamestnancov .................................. 39
+Tabuľka 10 Výber lokality pre maloobchod pomocou testovacej tabuľky ....................... 43
+Tabuľka 11 Počet obyvateľov v jednotlivých obciach v okrese Banská Štiavnica ........... 44
+Tabuľka 12 Prepočet hrubej a superhrubej mzdy .............................................................. 49
+Tabuľka 13 Prepočet celkových nákladov na zamestnancov v Bratislave ........................ 50
+Tabuľka 14 Prepočet celkových nákladov na zamestnancov v Banskej Štiavnici ............ 52
+Tabuľka 15 Tabuľka nákladov na prevádzku motorového vozidla ................................... 54
+Tabuľka 16 Porovnanie celkových nákladov v jednotlivých lokalitách ............................ 55
+Tabuľka 17 Počet zamestnancov v jednotlivých lokalitách v pomere 1:3:5 ..................... 57
+Tabuľka 18
+
+Porovnanie celkových nákladov v jednotlivých lokalitách v upravenom
+
+pomere ................................................................................................................................. 57
+
+Obsah
+ÚVOD .................................................................................................................................. 10
+1
+
+SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY .................................................... 12
+1.1
+
+1.1.1
+
+Podnik a podnikateľské prostredie v regionálnom kontexte .......................... 12
+
+1.1.2
+
+Lokalizačné teórie .......................................................................................... 16
+
+1.1.3
+
+Marketing územia .......................................................................................... 19
+
+1.1.4
+
+Región ako priestorový potenciál .................................................................. 21
+
+1.2
+
+2
+
+3
+
+Teoretické východiská .......................................................................................... 12
+
+Lokalizačné rozhodnutia, stratégie a príležitosti ................................................... 24
+
+1.2.1
+
+Lokalizačné faktory a ich charakteristika ...................................................... 29
+
+1.2.2
+
+Rozdiely v lokalizácii podniku v odlišných odvetviach ................................ 31
+
+CIEĽ PRÁCE A METODIKA PRÁCE....................................................................... 38
+2.1
+
+Hlavný cieľ a špecifické ciele práce...................................................................... 38
+
+2.2
+
+Metodika práce a metódy skúmania ...................................................................... 38
+
+PRAKTICKÁ ČASŤ ................................................................................................... 41
+3.1
+
+Analýza ................................................................................................................. 43
+
+3.1.1
+
+Trhové faktory ............................................................................................... 44
+
+3.1.2
+
+Podnikovo-hospodárske faktory .................................................................... 46
+
+3.1.3
+
+Lokalizačno-právne faktory ........................................................................... 52
+
+3.1.4
+
+Infraštruktúra ................................................................................................. 53
+
+3.2
+
+Komparácia jednotlivých lokalít ........................................................................... 55
+
+3.2.1
+
+Porovnávanie rovnakých prevádzok .............................................................. 55
+
+3.2.2
+
+Porovnávanie pomerovo prispôsobených prevádzok .................................... 56
+
+3.3
+
+Vyhodnotenie výsledkov komparácií lokalít ........................................................ 58
+
+3.4
+
+Diskusia a odporúčania pre prax ........................................................................... 59
+
+ZÁVER ................................................................................................................................ 60
+POUŽITÉ ZDROJE ............................................................................................................. 61
+
+ÚVOD
+Diplomová práca sa zaoberá lokalizáciou podniku, ktorá je považovaná za kľúčový
+predpoklad v záujme znižovania jeho budúcich nákladov. Práca má teoreticko-praktický
+charakter, nakoľko v prvej teoretickej časti uvádzame východiskový stav riešenej
+problematiky a v druhej praktickej časti realizujeme skúmanie vhodných konkrétnych
+lokalít. Cieľom diplomovej práce je dostupnými metódami vyhodnotiť viaceré možnosti
+lokality pre nový podnikateľský subjekt a na základe výsledkov dosiahnutých využitými
+metódami následne rozhodnúť o výbere optimálnej lokality. Do úvahy pritom budú brané
+kvantitatívne ukazovatele, ktoré zabezpečujú nestrannosť pri výbere lokality podniku.
+Analýzou a komparáciou dostupných dát v kontexte lokalizačných faktorov viacerých
+navrhnutých lokalít získame potrebné výsledky, ktoré prispejú k záverečnému rozhodnutiu
+a odporučeniu optimálnej polohy novovzniknutého podnikateľského subjektu.
+Vysoká aktuálnosť a ekonomický význam problematiky nás priviedli k spracovaniu
+predkladanej témy. Ide o zaujímavú a dôležitú oblasť, pretože zisťovanie predpokladov
+a podmienok v regióne, hľadanie jeho výhod a pridaných efektov má v záujme budúcich
+úspor z nákladov pre novovzniknutý podnik veľký význam. Lokalizačné rozhodnutie
+má definitívny charakter a nie je v záujme podniku ho po alokácii dodatočne meniť,
+pretože by to znegovalo všetky doposiaľ vynaložené vstupné náklady. Je preto potrebné
+ho zvážiť dôkladne a zodpovedne, aby prinieslo želaný efekt pre prevádzku ekonomickej
+jednotky a to s minimalizáciou nákladov a maximalizáciou zisku.
+Prvá kapitola je teoretická a uvádzame v nej súčasný stav riešenej problematiky,
+definuje a ozrejmuje pojmy, ktoré sa ako kľúčové vyskytujú v práci a je v záujme
+komplexného pochopenia problematiky ich vysvetliť. Sú to hlavne pojmy ako podnik
+a podnikateľské prostredie v regionálnom kontexte, kapitola tiež obsahuje charakteristiku
+vybraných lokalizačných teórií. Ďalej je práca orientovaná na objasnenie pojmov
+marketing územia, priestorový potenciál, lokalizačné rozhodnutia a faktory, ktoré ich
+ovplyvňujú.
+Druhá kapitola obsahuje ciele a metodiku práce, v ktorej objasňujeme predmet
+a zámer skúmania, metódy spracovania, spôsob a stručne opíšeme postup.
+
+V tretej kapitole (praktickej časti) analyzujeme zvolené lokality, porovnáme údaje
+a prezentujeme výsledky analýz. Z troch navrhnutých lokalít v závere vyberieme jednu,
+ktorú považujeme za optimálnu z hľadiska kvantifikovateľných ukazovateľov.
+Zdrojmi pre spracovanie diplomovej práce sú odborné materiály od erudovaných
+autorov, monografie, články a príspevky z vedeckých konferencií z ekonomickej oblasti,
+ktoré sa zaoberajú problematikou lokalizačných rozhodnutí pre optimálne umiestnenie
+podnikov do regiónu. Ide o literárne pramene slovenských a českých odborníkov, ktoré
+obsahujú teoreticky zovšeobecnené poznatky v danej oblasti a pre analytickú časť, ktorá
+je spracovaná formou sekundárneho prieskumu, sú zdrojmi internetové stránky a oficiálne
+online portály obsahujúce aktuálne štatistické dáta v predmetnej oblasti skúmanej
+problematiky (mzdové ukazovatele, suroviny, režijné náklady).
+Podľa Vojtecha, Mižičkovej a Levického (2019) podnikanie predstavuje sústavnú
+činnosť, teda majú na mysli opakované a cieľavedomé aktivity podnikateľa s cieľom
+generovať zisky s čo najnižšími vstupmi. Je v kompetencii samotného podnikateľa,
+aby si zvolil priestor a predmet podnikania, pretože sám nesie zodpovednosť za všetky
+rozhodnutia, spojené s podnikateľskou činnosťou a samozrejme aj následky v prípade
+nesprávneho úsudku.
+Práve koncept zodpovedného prístupu k výberu pri zvažovaní viacerých možností
+sme aplikovali pri spracovaní praktickej časti. Do úvahy sme brali všetky dostupné
+determinanty, ktoré predstavujú pre novovzniknutý podnik potenciál v podobe možných
+úspor budúcich nákladov a na ich základe je možné kalkulovať určité komparačné výhody.
+Výber správnej lokality totiž dokáže v značnej miere prispieť k efektivite prevádzky
+a je preto dôležité venovať lokalizačnému rozhodnutiu stopercentnú pozornosť.
+
+11
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY
+So zámerom komplexného porozumenia problematiky vymedzíme teoretické
+východiská a základnú terminológiu, použitú v diplomovej práci, definujeme jednotlivé
+pojmy a charakterizujeme ich významy.
+
+1.1 Teoretické východiská
+V nasledujúcej kapitole uvádzame dôležité pojmy, ktoré považujeme za vhodné
+objasniť, ide napríklad o lokalizačné teórie, marketing územia a iné, ktoré vysvetľujú
+východiskovú situáciu pre dôležité lokalizačné rozhodnutia k výberu vhodnej polohy
+k podnikateľskej činnosti.
+Kita a kol. (2016) rozlišuje dva druhy lokalizačných analýz. Ide o analýzu
+rozmiestnenia a analýzu rozmiestňovania. Ich názvy sú takmer rovnaké, líšia sa iba
+gramatickou kategóriou, avšak význam je odlišný v priebehu deja. Analýza rozmiestnenia
+(lokalizácie) j. popisuje už existujúcu situáciu, teda výsledok lokalizácie fungujúcich
+podnikov, pričom môže brať do úvahy rôzne hľadiská a kritériá (napr. odvetvie, v ktorom
+podnik pôsobí a pod.) Druhou formou je analýza budúceho rozmiestňovania –
+lokalizovania, ktorej zámerom je skúmať rôzne činitele a predpoklady, na základe ktorých
+je možné predikovať optimálnu polohu novovzniknutého podniku. Práve tento druhý
+koncept je predmetom nášho záujmu v predkladanej diplomovej práci.
+
+1.1.1 Podnik a podnikateľské prostredie v regionálnom kontexte
+Adamička, Divékyová a Pobijak (2020) definujú podnik ako komplex hmotných,
+nehmotných, ako aj osobných zložiek podnikania, slúžiacich v prospech podnikateľskej
+činnosti. Podnikaním rozumejú výkon aktivít so zámerom dosahovania zisku. Prosperita
+podniku je podmienená fungovaním podniku umiestneného do určitého regiónu, ktoré
+je tvorené okolím podniku. Ide o súbor aspektov, ktorého spojitosť s podnikom sú na báze
+spätnej väzby, pretože ich vzťah je interaktívny a navzájom sa ovplyvňujú. Všeobecný
+charakter okolia podniku určujú jeho makroekonomické, politické, normatívne,
+technologické a sociálno-kultúrne aspekty a podstatu špecifického charakteru okolia
+podniku tvoria jeho pozícia, odvetvie, dodávateľsko-odberateľské vzťahy, finančný sektor,
+12
+
+konkurencia a iné). Podľa Kováča, Sabadku a Kováčovej (2013) je vhodné umiestnenie
+firmy (resp. jej prevádzok) v disponibilnom priestore prvoradou podmienkou
+pre jej úspešnosť na trhu. Nasledujúci obrázok 1 ilustruje pozíciu podniku osadenú
+do cyklickej schémy hospodárskeho trhu.
+
+Zdroj: Kováč, Sabadka, Kováčová, 2013, s. 9
+
+Obrázok 1 Miesto podniku v kontexte kolobehu hospodárskeho trhu
+
+Podľa Holej a Hromádku (2013) patrí k možnostiam podniku existencia jedného
+sídla alebo rozdelenie do viacerých prevádzok, závodov a práve voľbu ich umiestnenia
+považujú za kľúčové rozhodnutie podnikateľskej jednotky. Samotný výber miesta svojej
+budúcej činnosti totiž ovplyvňuje, či sa bude podnik uberať správnym smerom
+k efektívnemu rozvoju. Poloha a celková priestorová štruktúra podniku je východiskom
+a v značnej miere sa podieľa na následnej odbytovej resp. predajnej stratégii, skladovej
+siete, okruhu získavania pracovnej sily a mzdovej politiky.
+Organizácie a podnikateľské subjekty sú podľa Borovského (2020) charakteristické
+svojimi princípmi a pravidlami, ktoré sú ovplyvnené:
+-
+
+ich poslaním a zameraním;
+
+-
+
+ich vzťahom k okolitému prostrediu a trhu (vrátane zákazníkov a technológií);
+
+13
+
+-
+
+zásadnými
+
+kompetenciami
+
+k plneniu
+
+svojho
+
+zámeru
+
+-
+
+z hľadiska
+
+konkurencieschopnosti.
+Tieto vzťahy prepojenia podniku s priestorom sú zobrazené na nasledujúcej schéme
+(obrázok 2):
+
+Zdroj: Borovský, 2020, s. 176
+Obrázok 2 Podnik ako komplex činností a procesov umiestnený v priestore
+
+Hudec a kol. (2009) taktiež poukazujú na fakt, že podnik v zmysle otvoreného
+systému existuje v interakcii s okolitým prostredím a k jeho činnosti využíva vzťahy
+s ostatnými subjektami na trhu, za kľúčové považujú tie vzťahy, ktoré sú v súvislosti
+so zásobovaním a odbytom. Autori uvádzajú, že existujú dve skupiny vzťahov a faktorov,
+pričom niektoré ovplyvňujú lokalizačné rozhodovanie podnikov o umiestnení výroby alebo
+polohy pre prevádzku poskytovania služieb a niektoré nie sú rozhodujúce. K dôležitým
+v rozhodovacom procese zaraďujú dva predpoklady, a to že dané kritérium musí
+ovplyvňovať náklady a výnosy podniku (ako finančné, tak aj časové) a zároveň kvalita
+resp. cena daného faktora je priestorovo divergentná. Vplyv takéhoto faktora, ktorý spĺňa
+obe podmienky súčasne, je potrebné brať do úvahy pri lokalizačnom rozhodovaní.
+Bussard a kol. (2019) zdôrazňujú, že primárnym a zároveň legitímnym zámerom
+podniku je efektívne generovanie zisku, aby vlastníci a akcionári mali z podnikateľskej
+činnosti očakávaný úžitok. Kľúčovým bodom je v tomto smere je zabezpečenie stabilného
+regiónu, v ktorom sa podniku podarí ukotvenie v lokálnom prostredí. V rámci neho
+sú v záujme dosiahnutia cieľov potrebné kvalitné vzťahy všetkých zainteresovaných
+14
+
+subjektov, ktoré spoločne zdieľajú dané územie. V tabuľke 1 sú uvedené vybrané príklady
+indikátorov v súvislosti so zainteresovanými subjektami.
+Tabuľka 1
+subjektov
+
+Indikátory a oblasti záujmu podnikania podľa zainteresovaných
+
+Zdroj: Bussard a kol., 2019, s. 9
+Na doplnenie ďalších zainteresovaných subjektov v regionálnom kontexte autori uvádzajú
+napríklad vládu s jej podpornými nástrojmi v podobe grantov, dotácií, príspevkov alebo
+mimovládne organizácie, ktoré prostredníctvom investícií, sociálneho dialógu, rozvojom
+ľudského kapitálu a infraštruktúry dokážu prispieť k rozvoju podniku umiestneného
+15
+
+v danej lokalite. Práve prítomnosť vhodných zainteresovaných subjektov a pozitívnych
+činiteľov je považovaná za ďalší kľúčový lokalizačný faktor v rozhodovacom procese
+podniku pri svojom umiestnení v regióne.
+Tento fakt podporuje aj tvrdenie Hudeca a kol. (2009), ktorí poukazujú na rôzne
+disparity regiónov v rámci Slovenskej republiky, pričom za rozhodujúce považujú:
+rámcové podmienky (inštitucionálnu štruktúru, makroekonomický vplyv); kultúrne
+špecifiká (postoje voči podnikaniu, mentalitu) a správne nastavené vládne programy
+k podpore podnikania (legislatívu, poradenské a informačné služby, podnikateľské
+inkubátory). V rámci spomínaných regionálnych rozdielov na Slovensku sú zahrnuté
+aj odlišnosti v počte novovzniknutých podnikateľských subjektov, ktorých výskyt je vyšší
+v ekonomicky vyspelejších oblastiach.
+Slávik a kol. (2014, s. 9) pod stratégiou podnikateľského systému rozumejú „súbor
+činností, ktorý ovláda nasadenie zdrojov a priebežne ich prispôsobuje, aby boli v súlade
+s potrebami zákazníkov a dodávateľov, z ktorých jedni generujú výnosy a druhí generujú
+náklady“. K prvotným krokom stratégie zaraďujú aj identifikáciu vhodných lokalizačných
+podmienok, trendov a modelov, ktoré principiálne dokážu zabezpečiť výhodu pre budúce
+podnikanie.
+Dislokácia obchodných prevádzok je predpokladom maloobchodu, ktorý Kotulič
+a Marchevská (2014) charakterizujú ako decentralizovaný predaj spotrebného tovaru
+vo väčšom počte maloobchodných predajní. Ich umiestnenie je ovplyvnené rovnováhou
+kúpyschopnosti obyvateľstva k priestorovému usporiadaniu a koncentrácii obchodných
+činností.
+
+1.1.2 Lokalizačné teórie
+Kita a kol. (2016) pokladajú lokalizačné teórie v záujme riešenia optimálneho
+umiestnenia podnikov za základné koncepčné stratégie s teoreticko-metodologickými
+prvkami. Tvrdia, že nejde iba o súčasnú problematiku ale jej história siaha k najstarším
+geografickým koncepciám. Ideálna lokalizácia ekonomických činností dokáže ovplyvniť
+budúcu prosperitu, môže zabrániť stagnácii alebo zrušeniu ekonomických aktivít.
+Aplikáciu lokalizačných faktorov je možné uviesť na príkladoch v súkromnom sektore
+(napr. obchodné reťazce a distribučné sklady) alebo aj vo verejnom sektore (umiestnenie
+nemocníc, škôl a pod.) tak, aby ich poloha vyhovovala čo najväčšiemu počtu obyvateľov.
+
+16
+
+Lokalizačné analýzy majú svoje opodstatnenie v územnom plánovaní, priestorovej
+ekonomike, v politickom kontexte.
+Jednou zo skupín lokalizačných teórií sú podľa Popjakovej a Mintálovej (2020)
+tzv. špeciálne teórie lokalizácie, ktoré obsahujú analýzy za účelom umiestnenia
+individuálneho výrobného subjektu. Tieto analýzy využívajú mikroekonomický prístup
+a ich základným princípom je optimalizácia umiestnenia podnikateľského subjektu
+pri maximalizácii ziskov a minimalizácii nákladov. Hľadanie takéhoto riešenia výstižne
+zobrazuje tzv. Launhardtov lokalizačný trojuholník na obrázku 3.
+
+Zdroj: Popjaková, Mintálová, 2020, s. 34
+Obrázok 3 Launhardtov lokalizačný trojuholník
+
+K reprezentantom druhej skupiny lokalizačných teórií tzv. všeobecných teórii
+lokalizácie patril Alfred Weber. Ide o teórie, ktoré sa neorientujú iba na hospodárske
+odvetvie, v ktorom pôsobí podnik, ale berie do úvahy prináležiace všeobecné
+mikroekonomické podmienky priestoru, kde sa podnik má nachádzať (zdroj surovín, ceny,
+pracovné sily a pod..) a to konkrétne v troch fázach: prvou je doprava, druhou je pracovná
+sila a tretím ukazovateľom sú aglomeračné výhody. Ďalším typom rozloženia
+ekonomického priestoru sa vo svojej teórii zaoberal
+
+Edgar Malon Hoover, ktorý
+
+sa orientoval na prepravné náklady, tie totiž považoval za rozhodujúci kvantifikovateľný
+ukazovateľ
+
+spolu
+
+s výhodami,
+
+ktoré
+
+prinášajú
+
+aglomeračné
+
+efekty
+
+súvisiace
+
+s koncentráciami priemyselných podnikov na danom území. Medzi aglomeračné efekty
+patria lokalizačné, urbanizačné a vnútorné (tzv. úspory z rozsahu) efekty (Popjaková,
+
+17
+
+Mintálová, 2020).
+
+Ich prehľadnú štruktúru a charakteristiku uvádzame v nasledujúcej
+
+schéme (obrázok 4).
+
+Zdroj: Popjaková, Mintálová, 2020, s. 37
+Obrázok 4 Aglomeračné efekty
+
+Obrázok 5 názorne zobrazuje výber optimálnej polohy podniku prostredníctvom
+analýzy Hooverových dopravných nákladov.
+
+Zdroj: Popjaková, Mintálová, 2020, s. 37
+Obrázok 5 Hooverove dopravné náklady
+18
+
+Rusnák a Korec (2020) kladú do popredia spájanie rôznych teoretických prístupov,
+ktorých podstatou je rekonceptualizácia priestoru. Ide o nahradenie primárneho
+geometrického a homogénneho pohľadu na priestor, a to aspektom relatívnosti priestoru
+v kontexte ekonomickej geografii. Zástancovia regionálnej ekonómie zastávajú názor,
+že fenomén
+
+produktívnych
+
+aktivít,
+
+poznatkov
+
+a tvorivosti
+
+vplývajú
+
+na
+
+lokálnu
+
+konkurencieschopnosť, majú nehmotný rámec a ovplyvňujú aj tempo ekonomického
+rozvoja. V lokalizačných teóriách je priestor považovaný za územie s ekonomickou
+realitou, ovplyvňovanou komplexom prírodných a kultúrnych zákonitostí a čŕt, ktorých
+jedinečnosť prináša rozdielne efekty pre podnikateľské prostredie. Walrasova teória
+všeobecnej rovnováhy sa opiera o trh, ktorý považuje za najefektívnejší aparát, disponujúci
+hodnotnými zdrojmi a tovarmi v kontexte interakcie ponuky a dopytu. Táto teória neberie
+do úvahy oddelenie priestorov (jednotlivých trhov) ale je zameraná na pôsobenie v rámci
+jedného lokálneho trhu s homogénnym charakterom. Aj keď majú rôzne lokalizačné teórie
+odlišné podstaty, v niekoľkých znakov sa stotožňujú: ide o teórie normatívne; stoja
+na pilieroch
+
+mikroekonómie;
+
+sú
+
+výsledkom
+
+deduktívnych
+
+logických
+
+postupov;
+
+za ich výstup je považovaná priestorová rovnováha, ktorá je dosahovaná ustálením
+produkčných faktorov.
+Podľa Kitu a kol. (2016) lokalizačné teórie prinášajú riešenia dvoch problémov,
+a to kde sa ekonomické aktivity sústreďujú a prečo sa tam situujú, pričom hlavný dôraz
+je kladený na priestorový kontext (kde?). Rôzne lokalizačné teórie na seba nadväzujú,
+nepopierajú sa navzájom, dopĺňajú a rozvíjajú ich myšlienky a tvoria tak podstatu
+teoreticko-metodologického nástroja s cieľom definovať základné piliere lokalizačnej
+vedy.
+
+1.1.3 Marketing územia
+Jedným z determinantov správnych lokalizačných rozhodnutí je aj vhodnosť územia,
+ktoré je tvorené, regulované a zveľaďované prostredníctvom efektívneho teritoriálneho
+marketingu. Marketing územia je súhrn činností vykonávaných so zámerom vzniku,
+udržateľnosti a zmeny postojov a správania sa aktérov, pôsobiacich na konkrétnom mieste
+prostredníctvom efektívneho využívania existujúcich, ako aj vytvárania nových výhod
+na prilákanie ekonomických subjektov na územie v prospech zlepšovania blahobytu jeho
+obyvateľov a verejného záujmu. Tendenciou vonkajších aktérov, ktorí majú záujem o danú
+lokalitu, je fakt, že chcú prosperovať z existujúceho blahobytu, napríklad čerpať fyzické
+zdroje, využiť ľudský potenciál a know-how, atď. (Newmagazineroom, 2020).
+19
+
+K dosiahnutiu efektívneho územného marketingu sú využívané rôzne postupy, ktoré
+sú prehľadne zobrazené a charakterizované na obrázku 6.
+
+Zdroj: Holá, Hromádka 2013, s. 2
+Obrázok 6 Postupy a metódy územného marketingu
+
+Horváthová (2010) bližšie charakterizuje marketing územia (mesta či obce)
+ako spôsob zosúlaďovania
+
+želaní a očakávaní obyvateľov územia s ekonomickými
+
+a politickými
+
+predstaviteľov
+
+zámermi
+
+samosprávneho
+
+územia.
+
+Realizovaný
+
+je prostredníctvom nástrojov hospodárenia a rôznych prostriedkov k podpore dosahovania
+regionálnych cieľov.
+
+20
+
+1.1.4 Región ako priestorový potenciál
+Hudec a kol. (2009)sa zaoberajú regiónom, ktorý považujú za určitý priestorový
+systém. Ide o pomenovanie rozlohovo menšej územnej jednotky, ktorá tvorí súčasť
+väčšieho územného celku (napríklad vo vnútri štátu). Základnou sídelnou a správnou
+jednotkou regiónu je obec. Ide o otvorenú a dynamickú štruktúru, ktorá je súhrnom
+množstva rôznych kvalitatívne odlišných prvkov a charakteristický je hustými väzbami
+a rôznorodosťou.
+
+Princíp
+
+otvorenosti
+
+vychádza
+
+z interakcie
+
+vstupov
+
+a výstupov
+
+a z vnútornej diferenciácii na báze stanovenej hierarchie. Princíp prietokového charakteru
+spočíva v tom, že aktivitami vo vnútri regiónu dokáže vstupy
+
+transformovať na výstupy
+
+s vytváraním určitej pridanej hodnoty, čím dosahuje stanovené ciele. V podstate tak región
+vykazuje určitý stupeň
+
+hospodárskej organizácie, ktorá disponuje vnútornými
+
+a vonkajšími prvkami v rámci svojej štruktúry. Ide zároveň o organický systém, nakoľko
+reaguje pôsobením zámernej ľudskej činnosti na zmenu vstupov a výstupov a zároveň
+interaktívne spôsobuje aj zmenu okolia. Využíva k tomu rôzne stratégie a taktiky v záujme
+sebaregulácie, obnovy a zdokonaľovania sa. Status otvoreného systému regiónu je zrejmý
+z nasledujúcej schémy uvedenej na obrázku 7.
+
+Zdroj: Hudec a kol., 2009, s. 22
+Obrázok 7 Región ako otvorený systém
+V teoretickom kontexte regiónu a jeho konkurencieschopnosti vymedzujú Hudec a kol.
+(2009) tri základné línie, ktoré región vnímajú ako:
+-
+
+miesto exportnej špecializácie – s využitím vlastných výhod (zdroje, prístup
+na trh a iné) sa región orientuje na určité špecifiká, ktoré zabezpečujú
+konkurencieschopnosť;
+
+21
+
+-
+
+zdroj rastúcich výnosov – s využitím konceptu kumulatívnej príčinnosti,
+spôsobujúceho endogénny rast podnikov a následne aj regiónu;
+
+-
+
+centrum
+
+znalostí
+
+–
+
+efektívnym
+
+využitím
+
+inovačného
+
+prostredia
+
+(napr. kvalifikovanosť a špecializácia ľudského potenciálu regionálnych aktérov).
+Priestorový potenciál definujú Fáziková, Hrivnák a Varecha (2023, s. 60)
+ako „bohato diverzifikovanú sústavu prvkov rôzneho pôvodu a rôzneho funkčného
+určenia“. Bližšie ho autori špecifikujú ako:
+-
+
+ekonomicko–technický potenciál, ktorý je typický sektorovou a odvetvovou
+ekonomikou, štrukturalizáciou regionálnych subjektov, diverzifikáciou výroby,
+poskytovaných služieb a obchodu a iné;
+
+-
+
+sociálno–demografický a kultúrny potenciál, ktorý je vymedzený počtom
+obyvateľstva, vekovou štruktúrou, migráciou, vzdelaním a pod.;
+
+-
+
+prírodno–geografický potenciál, ktorý je limitovaný surovinovými a vodnými
+zdrojmi, pôdnym fondom, environmentálnymi podmienkami, lokalitou a iné;
+
+-
+
+urbanistický potenciál - stanovuje ho pomer miest v sídelnej štruktúre regiónu,
+veľkosť sídelnej štruktúry a podobne.
+
+Bobovnický (2006) skúma atraktivitu regiónu a jeho trhu v kontexte výberu vhodnej
+alokácie podniku. Pod týmto pojmom chápe komplexný súbor faktorov, ktoré majú
+strategický význam v rozhodovacom procese. Na obrázku 8 je zobrazená matica, ktorá
+kvantifikuje ukazovateľ atraktivity a kvality podnikateľského prostredia.
+
+Zdroj: Bobovnický, 2006, s. 14
+Obrázok 8 Matica: atraktivita/kvalita podnikateľského prostredia
+
+22
+
+Bobovnický (2006) píše o niekdajšom intuitívnom výbere trhov prostredníctvom
+„pokusov a omylov“, ktorý je nahradený využitím všetkých dostupných informačných
+tokov, ktoré sú podporným mechanizmom pri hľadaní priestorového potenciálu
+a vhodného riešenia k výberu regiónu, čím sa eliminujú resp. minimalizujú riziká
+podnikateľského subjektu. Na obrázku 9 je zachytený súčasný efektívnejší model
+vyhodnocovania kritérií pre optimálny výber regiónu k alokácii novovzniknutého podniku.
+
+Zdroj: Bobovnický, 2006, s. 14
+
+Obrázok 9 Definovanie hodnotiacich kritérií a zber dát
+
+Kasala (2010) sa zaoberá problematikou, akou formou sa ekonomická transformácia
+lokality podieľa na celkovej transformácii v kontexte viacerých úrovní. Podľa neho
+ekonomická oblasť silne pôsobí aj na rast v sociálnom kontexte regiónu (životná úroveň,
+sociálne disparity a iné) a zároveň vplýva takmer na všetky spoločenské aspekty, čím
+územie mení ako celok. Teda rozdielnou mierou ekonomického vplyvu vznikajú rôznorodé
+podmienky pre zakladanie podnikateľskej činnosti. Čím je ekonomika v regióne silnejšia,
+tým sa zvyšuje jeho potenciál a to priťahuje nových investorov a zároveň zvyšuje
+atraktivitu pre alokáciu nových podnikov.
+
+23
+
+Podľa Olsavského (2019) podnikateľské subjekty z partnerskej pozície voči územnej
+samospráve poskytujú spätnú väzbu, tým že interaktívne prinášajú územiu určitú
+ekonomickú silu (napr. prostredníctvom daní a poplatkov do územného rozpočtu,
+zamestnávaním obyvateľov regiónu a pod.). Profit z podnikateľskej činnosti má teda
+aj samospráva, čo zvyšuje jej záujem o prilákanie a následnú alokáciu novovzniknutých
+podnikov. Tento proces dokážu predstavitelia samosprávy pozitívne ovplyvňovať
+vlastnými kompetenciami a vzniká tak interaktívny partnerský cyklus, prospešný
+pre všetkých zúčastnených.
+Horváthová (2010) v rámci priestorového potenciálu regiónu definuje pojem
+„produkt“ mesta (obce, regiónu). Zahŕňa tam všetko, čo územie dokáže poskytnúť
+občanom, investorom, podnikom v záujme uspokojenia ich potrieb (nehnuteľnosti
+k prenájmu, akcie usporiadané samosprávou, šport, kultúra.
+
+Ďalším termín, ktorý
+
+je rozhodujúci v kontexte potenciálu regiónu je cena ako peňažité ohodnotenie produktu.
+Cenotvorba určitých vstupov a výstupov (infraštruktúry, dopravného spojenia, nájomného
+a pod.) je v kompetencii samosprávy a práve jej prispôsobovanie podnikateľským
+subjektom je efektívnym nástrojom pre zvyšovanie atraktivity regiónu. Okrem
+materiálneho prostredia je dôležitý aj ľudský činiteľ, a to prostredníctvom zapájania
+sa do vecí
+
+verejných,
+
+zamestnanosťou,
+
+vzdelávaním,
+
+poradenstvom,
+
+bezpečným
+
+prostredím a zvyšovaním kvality života. V neposlednej rade je to aj vytváranie partnerstiev
+v rámci súčinnosti občianskeho sektora a verejnej správy.
+
+1.2 Lokalizačné rozhodnutia, stratégie a príležitosti
+Uskutočneniu lokalizačného rozhodnutia je prikladaná vysoká dôležitosť, pretože
+definitívny výber polohy pre podnikateľskú činnosť je v podstate ireverzibilný,
+teda nezvratný proces. Pokiaľ by bolo potrebné lokalizačné rozhodnutie následne
+po alokácii podniku z akýchkoľvek príčin korigovať, teda premiestniť prevádzku inam,
+znamenalo by to zbytočné vynaloženie vstupných investícií do pôvodného umiestnenia
+a vyžadovalo by to ďalšie náklady a čas. Z týchto dôvodov je nutné dobre zvážiť všetky
+faktory, aby rozhodnutie bolo správne a definitívne. Chandrashekar (2023) v tomto
+kontexte odporúča dôkladný proces zhromažďovania informácií o trhu a jeho potenciáli,
+teda podrobný prieskum prostredia a identifikáciu nových príležitostí daného územia,
+do ktorého máme záujem umiestniť podnik a jeho výsledkom prispôsobiť rozhodovací
+mechanizmus.
+24
+
+Dubravská (2013) špecifikuje lokalizačné rozhodnutia na rôznych priestorových
+úrovniach (krajina, región, mesto - komunita a pozemok) a priraďuje k nim zodpovedajúce
+faktory. Uvádzame ich v tabuľke č. 2.
+Tabuľka 2 Lokalizačné rozhodnutia na rôznych priestorových úrovniach
+
+Zdroj: Dubravská 2013, s. 29
+Podľa Drábeka a Halaja (2010) je v záujme poznania podnikateľského priestoru
+potrebné reálne zhodnotiť interné a externé možnosti, zdroje a prispôsobiť tak tomuto
+prostrediu ciele podniku. Makroprostredie podniku je kreované súborom faktorov, ktoré
+podnik
+
+nie
+
+je
+
+schopný
+
+ovplyvňovať
+
+(makroekonomické
+
+ukazovatele,
+
+politické
+
+usporiadanie, legislatívne normy, sociálne a sociologické, technologické, infraštruktúrne
+činitele a pod.), preto sú potrebné dôkladné a podrobné vstupné prognózy a odhady,
+či daná lokalita bude pre podnik vyhovujúca. Podrobné skúmanie podnikateľského
+prostredia, trhu a ich možností je nutné postaviť na dostatočnom množstve relevantných
+informácií a ich kvalifikovaných vyhodnoteniach za účelom správneho lokalizačného
+rozhodovacieho procesu. Do tohto procesu je vhodné zapojiť manažérov, výskumníkov,
+prípadne externých odborníkov.
+Lokalizačné rozhodnutia a stratégie v podstate korešpondujú s niektorými nástrojmi
+marketingového mixu a využívajú tieto techniky k dosiahnutiu cieľa, v tomto prípade
+ide o snahu vhodne umiestniť prevádzku do priestoru. Ako príklad uvádzame
+marketingové rozhodnutia veľkoobchodníkov podľa
+25
+
+Boďa (2006), ktorí zohľadňujú
+
+cieľový trh, ceny, lokalizáciu prevádzky a podobne. Tieto faktory sú prehľadne zobrazené
+v nasledujúcej schéme na obrázku 10.
+
+Zdroj: Boďo 2006, s. 165
+Obrázok 10 Marketingové rozhodnutia veľkoobchodníkov – veľkoobchodný mix
+
+-
+
+Rozhodnutia o cieľovom trhu – získanie informácií o cieľovom trhu je kľúčové
+pre predajné
+
+prevádzky,
+
+pretože
+
+identifikácia
+
+potenciálnych
+
+zákazníkov
+
+ako cieľových skupín (ich početnosti, kúpyschopnosti a ďalších vzťahov) zohráva
+dôležitú úlohu v zabezpečovaní odbytu;
+-
+
+rozhodnutia o umiestnení predajne – podnikatelia sa rozhodujú napr. na základe
+výšky nákladov v súvislosti s nájmom priestorov (predajných a skladových), podľa
+technickej infraštruktúry (napr. železnice, cestné komunikácie a iné) (Boďo, 2006).
+
+Cibáková, Cibák a Rózsa (2014) definujú marketing lokality ako komplex aktivít
+realizovaných s cieľom tvorby, udržateľnosti a zmien stanovísk a správania sa v kontexte
+daných lokalít. Práve táto oblasť priestorovej analýzy z hľadiska marketingu lokality
+je aktuálne považovaná za významnú, pretože vzhľadom k vysokej úrovne ekonomickej
+zaťaženosti prostredia je nutné efektívne využívať všetky dostupné prostriedky, ktoré
+územie poskytuje.
+
+26
+
+Cibáková, Cibák a Rózsa (2014, s. 72) poukazujú na využitie nástrojov marketingového
+mixu v realizácii výskumu prostredia v procese poskytovania služieb:
+-
+
+„výskum lokalizácie podnikov služieb - významný najmä pre také podniky služieb,
+ako sú banky, pošty, obchod, pri týchto službách má pre zákazníka mimoriadny
+význam rýchla dosiahnuteľnosť;
+
+-
+
+vnímanie interiéru budovy, priestorového riešenia;
+
+-
+
+orientačný systém pre zákazníkov;
+
+-
+
+hodnotenie priestorov na čakanie, diskrétnych zón, sociálnych zariadení a pod.“
+Podľa Rusnáka a Koreca (2020), ktorí v kontexte teórie firmy píšu o hraničnej
+
+produktivite, ktorá zabezpečuje maximálnu efektivitu výroby za podmienok garancie
+minimálnych vstupných nákladov. Medzi vstupy sú zaraďované tie produkčné aspekty
+(napr. práca), ktoré sú vzájomne nahraditeľné a musia vykazovať úsporu voči iným
+porovnateľným faktorom, kedy je zaručené rovnaké množstvo vyprodukovaných
+výrobkov.
+
+Na tomto pilieri je postavená teória firmy, za racionálneho predpokladu
+
+a snahy dosiahnutia maximalizácie zisku pri minimalizácii vstupov. K jej platnosti je však
+nutné dodržanie určitých podmienok, napr. štruktúra ekonomického systému je súborom
+množstva malých jednotiek (tzv. homogenizovaný trh); trh musí byť nezávislí na okolí;
+zabezpečená musí byť mobilita a deliteľnosť výrobných faktorov, znalosť a inovácia trhu
+so zámerom dosahovania čo najvyšších interných (vnútropodnikových) a externých
+(prostredníctvom zdieľaného priestoru) úspor. Ide o súbor aglomeračných výhod, ktorý
+je zobrazený na nasledujúcom obrázku 11.
+
+Zdroj: Rusnák, Korec 2020, s. 61
+Obrázok 11 Systematizácia aglomeračných efektov
+
+27
+
+Zdieľanie rovnakého priestoru pre viacero podnikov a malých firiem v rovnakom
+odvetví prináša výhody, ktoré sú nazývané lokalizačné úspory.
+Za ich zdroje sú považované:
+-
+
+lokálny fond pracovnej sily, ktorý disponuje dostatkom kvalifikovaných
+pracovníkov;
+
+-
+
+špecializácia služieb zabezpečovaná od dodávateľov, ktorí sa nachádzajú priamo
+v danej lokalite;
+
+-
+
+dostatočný prílev informácií a poznatkov v danom odvetví, ktoré je nosné
+pre daný podnik.
+
+O urbanizačných efektoch hovoríme vtedy, ak tieto pochádzajú zo zdrojov súvisiacich
+s bezprostredným susedstvom viacerých podnikov a firiem, a to bez zreteľa na odvetvie,
+v ktorom pôsobia. V tomto kontexte mestá zohrávajú rolu pomyselného „inkubátora“
+inovatívnych a kreatívnych tendencií v oblasti výroby a potreby (Rusnák, Korec, 2020).
+Šuteková (2022) zdôrazňuje individuálnosť v rozhodovaniach, ktoré sú podmienené
+odlišnými premennými, resp. ich efektívnou kombináciou. Zaraďuje k nim:
+-
+
+geografické aspekty – vyznačujú sa rozčlenením trhu na jednotlivé geografické
+útvary (napr. na krajskej, regionálnej, mestskej úrovni, alebo môže ísť
+o konkrétnu štvrť (obecnú časť), ktoré tvoria pre podnik zázemie;
+
+-
+
+demografické aspekty – aktérov špecifikuje na základe pohlavia, veku,
+kvalifikácie, príjmových kritérií atď. (tento typ demografických premenných
+má pre rozhodovanie vysoký stupeň dôležitosti);
+
+-
+
+geodemografia – orientovaná je na zisťovanie vzájomných vzťahov a závislostí
+geografických
+
+a demografických
+
+premenných
+
+–
+
+ide
+
+o kategorizáciu
+
+prostredníctvom klasifikácie obytných štvrtí.
+K ďalším pojmom, ktoré súvisia s lokalizačnými rozhodnutiami patria targeting,
+ktorého efektom je, že podnik na trhu objaví segment (alebo frakciu zákazníkov) s určitými
+požiadavkami, ktorým je schopný vyhovieť lepšie, resp. vo väčšom rozsahu ako jeho
+konkurenčné podniky. Teda targeting možno z tohto hľadiska tiež považovať za aspekt,
+ktorý má dôležitý význam pre lokalizačné rozhodovanie firiem. Podobný pojem
+je pozicioning, ktorého podstata spočíva v tom, že pre jednotlivé trhové segmenty podnik
+využíva rozdielne výhody trhovej ponuky firmy so zámerom získania najefektívnejších
+prínosov ako pre podnik, tak pre jeho odberateľov, zákazníkov a partnerov (EuroEkonóm,
+2019)
+
+28
+
+1.2.1 Lokalizačné faktory a ich charakteristika
+Podľa Chmielovej a Turečkovej (2019) existujú lokalizačné faktory na národnej
+a regionálnej úrovni. Národnú rovinu tvoria makroekonomická a politická ustálenosť
+územia, stabilná cenová politika a dostatočná kapacita trhu. Regionálna úroveň
+lokalizačných faktorov je charakterizovaná dostatočným množstvom pracovnej sily,
+prístupom k infraštruktúre, dopravnými možnosťami a ďalšími ukazovateľmi. Lokalizačné
+faktory sú zdrojom vstupných údajov, ktoré sprostredkujú poznanie prostredia, kde firma
+(účtovná jednotka) plánuje realizovať podnikateľské aktivity.
+Olsavsky (2019); Klamár a Rosič (2010); Stopka a Šulgan 2(011) členia lokalizačné
+faktory na dve primárne skupiny:
+-
+
+tvrdé faktory (ide o merateľné ukazovatele, s explicitne porovnateľnou mierou
+určitého javu, sú teda kalkulovateľné) – obvykle ich tvoria nevyhnutné danosti
+regiónu – sú determinačného charakteru (disponibilita a cena surovín, práce,
+kapitálu, priestoru; konkurencia; spotrebiteľský trh, dopravné uzly - hustota
+a kvalita dopravnej infraštruktúry, rozvinutosť telekomunikačnej a informačnej
+infraštruktúry, hustota osídlenia, atď. - ide o dispozície, ktoré bezprostredne
+vplývajú na chod a výnosy podniku (sú vymedzené trhovými silami alebo
+dopadmi trhu)
+
+-
+
+mäkké faktory (sú nemateriálneho rázu, nedajú sa jednoznačne kvantifikovať
+a ich vplyv nie je primárne zjavný) - patria k nim pomoc a dotácie podnikateľom,
+legislatívna regulácia, demografický vývoj obyvateľstva, sociálna infraštruktúra,
+miera vzdelávania, bývania, stupeň kriminality, úroveň kvality života, imidž
+územia, environmentálne aspekty, kontakt s ekonomickým centrom a iné –
+prevažne majú subjektívny hodnotiaci charakter v závislosti od firemných
+preferencií.
+
+Pojem kvalita života nemá podľa Murgaša (2010) úplne jednoznačný význam.
+Vyskytuje sa v dvoch rovinách. Jednou je osobná, ktorú skúmajú odborníci
+z psychologického, lekárskeho, sociologického odboru , resp. z duchovného aspektu.
+Druhá dimenzia, ktorá je v centre nášho záujmu v kontexte riešenej témy, je priestorová
+dimenzia kvality života. Touto sa zaoberajú environmentalisti, geografi a ďalší odborníci
+v územného hľadiska. Obidve dimenzie sú založené na súhrne viacerých parciálnych
+
+29
+
+ukazovateľoch. V tomto kontexte geografických analýz je kľúčová orientácia záujmu
+o vzájomné prepojenie ľudí s ich bežným prostredím.
+Hudec a kol. (2009) sa zaoberajú inštitucionálnymi lokalizačnými faktormi
+podnikov a v tejto súvislosti charakterizujú určité prekážky - inštitucionálne bariéry
+v rámci lokalizačných rozhodnutí. Tieto bariéry sú podstate lokalizačné faktory
+so zápornou hodnotou, ktoré môžu mať negatívny dopad na alokáciu prevádzky do regiónu
+a
+
+v rámci rozhodovacieho procesu je potrebné ich taktiež zohľadniť s rovnakou
+
+dôležitosťou, ako tie pozitívne. Uvádzame ich v tabuľke 3.
+Tabuľka 3 Inštitucionálne bariéry v rámci lokalizačných rozhodnutí
+
+Zdroj: Hudec a kol., 2009, s. 74
+
+30
+
+1.2.2 Rozdiely v lokalizácii podniku v odlišných odvetviach
+V nasledujúcej podkapitole uvedieme príklady odlišností medzi lokalizáciou
+výrobných podnikov, maloobchodných prevádzok, služieb
+
+v kultúrnom odvetví
+
+a podobne, pretože ich jednotlivé špecifiká spôsobujú aj odlišné prístupy v oblasti
+rozhodovacích procesov. Znamená to, že sú do úvahy brané rôzne lokalizačné faktory,
+resp. im je prikladaná rôzna hodnota významu.
+Gubáňová a Hanáčková (2014) skúmali lokalizačné faktory v kontexte rôznych
+sektorov (primárny sektor - kľúčový sektor pre oblasť ekonomiky, ktorého výrobné
+odvetvia sú surovinovými a materiálnymi základňami; sekundárny sektor – zaoberá
+sa následným spracovávaním už získaných zdrojov, kľúčovými sú napr. priemysel
+a stavebníctvo; terciárny sektor – zahrňuje všetky formy poskytovania služieb,
+a to nekomerčného aj komerčného charakteru – napr. obchodné, predajné, tranzitné a iné).
+Autorky zisťovali špecifický význam jednotlivých ukazovateľov, ktoré roztriedili
+do kategórií: práca, trh, pôda a suroviny, životné prostredie, infraštruktúra, právne,
+sociálne a ekonomické podmienky. Z ich výsledkov vyplývajú rozhodujúce lokalizačné
+faktory:
+-
+
+pre podniky primárneho sektora sú to (zoradené zostupne podľa významu) podnebie a klimatické pomery - hlavne u poľnohospodársky zameraných
+podnikov, zrážkové a poveternostné podmienky, teplota vzduchu; hodnota pôdy
+(trhová cena poľnohospodárskej pôdy v slovenských podmienkach je nejednotná
+a reálne je stanovená v rozpätí cca od jedentisíc až štyritisíc Eur na základe
+bonitovaných
+
+pôdno-ekologických
+
+jednotiek,
+
+čiže
+
+tu
+
+vzniká
+
+priestor
+
+na porovnávanie a adekvátnu voľbu k možnostiam podniku); akosť (úrodnosť),
+dostupnosť a rozloha pôdy a pozemkov, u ktorých je vysporiadané vlastníctvo;
+-
+
+pre podniky v sekundárnom sektore sú rozhodujúcimi: dostupnosť pracovnej
+sily, ktorá je adekvátne kvalifikovaná vrátane dostatočnej praxe; kvalita,
+rozvetvenosť a nákladovosť
+
+prepravy; výška mzdových nákladov a miera
+
+konkurencieschopnosti;
+-
+
+terciárny sektor sa vyznačuje tým, že medzi hlavné predpoklady, ktoré podniky
+zohľadňujú pri výbere lokality, zaraďujú: dostatočný zdroj pracovnej sily,
+u ktorej
+
+očakávajú
+
+vysoký
+
+stupeň
+
+profesionality
+
+a flexibility;
+
+dopad
+
+konkurencie; kúpyschopnosť občanov v danej lokalite a znalosť lokálnych
+pomerov na trhu.
+31
+
+Korec a Tolmáči (2019) píšu o rôznych nárokoch priemyselných podnikov,
+a to v závislosti od druhu výroby. Odlišujú sa v požiadavkách a kritériách, ktoré autori
+špecifikujú do dvoch kategórií – tradičné a nové lokalizačné činitele. K tradičným
+činiteľom zaraďujú:
+-
+
+suroviny (pri
+
+tejto
+
+komodite býva lokalizácia podniku
+
+vzdialenosťou
+
+nepriamoúmerná v závislosti od obťažnosti prepravy, teda čím vyššia
+je jej obťažnosť, tým bližšie k surovinovému zdroju je podnik umiestňovaný);
+-
+
+energiu (energetický nápor je u priemyselných podnikov vysoký, teda dostupnosť
+zdrojov energie v závislosti od jej ceny je vysoko rozhodujúcim faktorom);
+
+-
+
+vodu (pri vysokej spotrebe vody je nevyhnutné v blízkom okolí podniku
+vybudovanie vodnej nádrže, prípadne čističku vody a iné zariadenia k riešeniu
+prívodu vody);
+
+-
+
+ľudský potenciál (zamestnanci – rozhodujúca je ich kvantita a kvalifikácia);
+
+-
+
+dopravná infraštruktúra;
+
+-
+
+trh – odbytové možnosti (hlavne v potravinárskej výrobe, u komodít s krátkou
+dobou spotreby);
+
+-
+
+aglomerácia.
+
+K novým lokalizačným faktorom patria:
+-
+
+finančný kapitál;
+
+-
+
+cena práce;
+
+-
+
+inštitucionálne podmienky (výška daní, vládna stimulačná politika, investičné
+nástroje a iné);
+
+-
+
+environmentálne činitele;
+
+-
+
+vzdelávanie, veda a výskum (výskyt univerzít a odborných škôl).
+
+Špecifikami lokalizácie výrobných podnikov a prevádzok sa zaoberajú aj Kita
+a kol. (2016) a poukazujú na kľúčové diferencie podľa Weberovho aplikačného rámca
+lokalizačnej teórie hlavne pre ťažký priemysel. Je však možné ju použiť pri splnení
+predpokladov izolovanosti regiónu, izotropie (nezávislosti) oblasti a limitovaného počtu
+dostupných trhov. Táto teória je orientovaná na dva základné ukazovatele, a to na cenu
+dopravy a hodnotu práce. Cena dopravy je závislá od hmotnosti surovín a vzdialenosti,
+ktorú je potrebnú suroviny prepraviť. Podľa tejto teórie je optimálne umiestniť
+priemyselný podnik do regiónu, v ktorom je cena pracovnej sily najnižšia, pretože mzdové
+náklady patria ku kľúčovým ukazovateľom. Pri skutočnosti, akým spôsobom bude
+prebiehať voľba medzi týmito dvoma faktormi (blízkosť k pracovnej sile či blízkosť
+32
+
+k surovinovým zdrojom) môže byť smerodajný index ceny práce, ktorý je určený podielom
+ceny práce ku váhe konečného produktu).
+Kotulič a Marchevská (2014) uvádzajú, že umiestnenie maloobchodnej prevádzky
+je v záujme predchádzania nesprávnej alokácie, ktorá by mohla viesť ku komplikáciám
+s odbytom a v krajnom prípade by mohla spodobiť aj krach obchodnej prevádzky,
+podstatným rozhodnutím. Kľúčovými podmienkami využitia daného priestoru podľa
+autorov sú:
+-
+
+dostatočný lokálny tržný potenciál;
+
+-
+
+rozvetvenosť logistických vzťahov;
+
+-
+
+dostupnosť dopravného potenciálu;
+
+-
+
+prítomnosť konkurencie;
+
+-
+
+mobilita ľudského potenciálu (dostatok pracovných síl);
+
+-
+
+avizované dynamické zmeny (napr. výstavba resp. nového sídliska a pod.).
+
+Boďo (2006) špecifikuje lokalizačné rozhodnutia pre maloobchodné prevádzky,
+pri ktorých považuje systematickosť voľby a zváženie všetkých dostupných ukazovateľov
+za dôležité. Zakomponoval ich do prehľadného spracovania, ktoré uvádzame
+v nasledujúcej tabuľke 4.
+Tabuľka 4 Rozhodovacia tabuľka pre výber lokality maloobchodnej prevádzky
+
+Zdroj: Boďo 2006, s. 169
+
+33
+
+Kita a kol. (2016) v záujme vhodnej lokalizácie maloobchodnej prevádzky
+vyzdvihujú vplyv jej atraktivity, ktorá sa môže diferencovať v závislosti od výberu
+jej polohy. Za kľúčový lokalizačný faktor považujú tzv. mix nájomcov, dostupnosť
+predajne a veľkosť predajnej plochy. Mixom nájomcov označujú koncept vhodného
+zoskupenia v rámci prenájmu priestorov v okolí predajne, ktorý vytvára podmienky
+pre cielené nákupné správanie s potenciálom prilákať čo najväčší počet zákazníkov.
+K dostupnosti stanovišťa prevádzky zaraďujú napríklad blízkosť dopravných uzlov,
+jednoduchý vjazd a výjazd z frekventovaných komunikácií, dostatočnú parkovaciu
+kapacitu a podobne. Autori definujú pojem záujmová oblasť, v ktorej je generovaných
+až vyše 80 percent tržieb a ide o oblasť vymedzenú maximálnou dochádzkovou
+vzdialenosťou, ktorú je spotrebiteľ ochotný prejsť s cieľom nákupu v primeranom čase.
+Tento čas je stanovený ako čas pre zákazníka prijateľný a akceptovateľný v závislostí
+od jeho
+
+zvyklostí,
+
+dopravných
+
+a
+
+ekonomických
+
+možností.
+
+Záujmová
+
+oblasť
+
+je diferencovaná v troch zónach: primárnej (koncentruje až 55 – 70 % potenciálnych
+spotrebiteľov), sekundárnej (nachádza sa v nej 15 – 25 % zákazníkov predajne a terciárnej
+(ktorá je okrajová a zahŕňa zvyšných oblastne rozptýlených spotrebiteľov. V tabuľke
+č. 5 uvádzame príklady obvyklých záujmových oblastí podľa druhu maloobchodnej
+jednotky.
+Tabuľka 5
+predajne
+
+Členenie záujmovej oblasti na čiastkové oblasti podľa zamerania
+
+Zdroj: Kita a kol. 2016, s. 92
+„Všeobecne platí, že prijateľnosť dostupnosti ponuky a úroveň ponuky sú vo vzájomnom
+vzťahu – s rastúcou úrovňou ponuky sa zvyšuje prijateľnosť dostupnosti (dosiahnuteľnosť).
+Pod úrovňou ponuky sa má na mysli predovšetkým šírka a hĺbka sortimentu, cena tovaru,
+kvalita a pod. a možnosť voľby z konkurenčnej ponuky“ (Kita a kol. 2016, s. 93).
+34
+
+Cestovný ruch znamená podľa SOŠD (2004) spôsob napĺňania individuálnych potrieb
+vo sfére turistiky, rekreácie, kultúry, a to mimo miesta trvalého pobytu a vo voľnom čase.
+Zahrňuje presun na iné miesto, čo je spojené s cestovaním. Geografia cestovného ruchu
+je odvetvie socioekonomickej geografie, ktoré sa zaoberá špecifikami a zákonitosťami
+rozmiestnenia cestovného ruchu. Sústreďuje sa na štúdium regionálnych rozdielových
+faktorov a štruktúr v cestovnom ruchu.
+Ruda (2009) vníma
+
+potenciál krajiny v cestovnom ruchu ako jeho kompetencie
+
+či schopnosti komplexných krajinných podmienok pre cestovný ruch. Štruktúru faktorov
+pre jeho hodnotenie uvádzame v tabuľke 6.
+Tabuľka 6 Štruktúra predpokladov a faktorov pre hodnotenie v cestovnom ruchu
+
+Zdroj: Ruda, 2009, s. 74
+
+35
+
+Melichová, Varecha a Strnál (2018) zhrnuli lokalizačné faktory na úseku
+cestovného ruchu a kultúrneho odvetvia, ktoré uvádzame v tabuľke 7 ako príklad
+ukazovateľov ovplyvňujúcich riešenia lokalizačných rozhodnutí pre danú sféru.
+Tabuľka 7 Členenie lokalizačných faktorov v cestovnom ruchu a kultúrnom odvetví
+
+Zdroj: Melichová, Varecha, Strnál, 2018, s. 10
+Krajinný potenciál a environmentálne lokalizačné faktory - Územno-priestorové
+rozhodovanie pre plánovanie je väčšinou založené na všestranných multiparametrických
+36
+
+hodnoteniach krajiny založených na identifikácii krajinného potenciálu a rôznych
+úrovniach vhodnosti územných celkov pre monitorovanú ľudskú činnosť a potreby.
+Pokročilejšie výstupy vychádzajú z rešpektovania všetkých krajinných štruktúr
+(prírodných, ekonomických, ľudských aj duchovných) a významne špecifikujú optimálne
+rozloženie aktivít v krajine (Svatoňová, Kolejka, 2009).
+Kolejka a Kirchner (2010) uvádzajú, že cena pozemku závisí od mnohých faktorov,
+vrátane veľkosti a polohy, ale aj ďalších aspektov, ako je napríklad jeho potenciálne
+využitie, prístup k infraštruktúre a urbanistické obmedzenia. Krajinný potenciál je tiež
+kľúčovým hľadiskom, keďže určuje, aké druhy činností sú vhodné pre danú lokalitu.
+Pri stanovení ceny je dôležité zohľadniť aj dlhodobé faktory, ktoré by mohli ovplyvniť
+hodnotu pozemku v budúcnosti. Faktor ceny pôdy, pozemkov pri jeho kúpe
+(ako aj nákladov za prenájom) patria k rozhodujúcim ukazovateľom a sú považované
+za tvrdé lokalizačné faktory. Začlenenie a vzájomné vzťahy existujúcich krajinných
+štruktúr tvarujú súčasný stav ľudského prostredia. Hmotné životné prostredie sa v danom
+regióne prejavuje prostredníctvom miestnej krajiny. Jej prirodzená podstata, či už ide
+o geografické rozdiely, zloženie prvkov alebo cyklické a výnimočné prírodné procesy,
+je ovplyvnená ľudskou činnosťou a zároveň ovplyvňuje ľudí prostredníctvom rôznych
+faktorov. Ekonomická štruktúra regiónu, vyjadrená v rozmiestnení rôznych využívaných
+plôch alebo zložením a využitím krajiny, je činorodým a zároveň pasívnym aktérom
+environmentálnych tokov. V tabuľke 8 uvádzame subsystémy a zložky prostredia.
+Tabuľka 8 Subsystémy a zložky prostredia
+
+Zdroj: Kolejka, Kirchner, 2010, s. 114
+37
+
+2 CIEĽ PRÁCE A METODIKA PRÁCE
+Na základe témy diplomovej práce sme vytýčili ciele práce. Ide o hlavný cieľ pre danú
+problematiku a parciálne špecifické ciele, ktoré prispejú k jeho úspešnému
+
+naplneniu
+
+a zároveň pomôžu k efektívnej realizácii praktickej časti záverečnej práce.
+
+2.1 Hlavný cieľ a špecifické ciele práce
+Hlavným cieľom diplomovej práce je dostupnými metódami vyhodnotiť viaceré
+možnosti lokality pre nový podnikateľský subjekt. Na základe výsledkov dosiahnutých
+využitými metódami následne rozhodnúť o výbere optimálnej lokality, pričom do úvahy
+budú brané kvantitatívne ukazovatele, ktoré zabezpečujú nestrannosť pri výbere lokality
+podniku.
+Ako podporné kroky k dosiahnutiu hlavného cieľa sme si určili čiastkové ciele.
+Ide o nasledovné:
+1. Návrh fiktívnej podnikateľskej prevádzky a konfigurácia jej vhodných parametrov
+2. Návrh možností konkrétnych lokalít, ktoré považujeme za vhodné k vytvoreniu
+nového podnikateľského subjektu
+3. Komparácia kvantifikovateľných ukazovateľov zvolených lokalít
+4. Analýzou jednotlivých zistení vybrať výslednú optimálnu možnosť
+
+2.2 Metodika práce a metódy skúmania
+V záujme dosiahnutia stanovených cieľov vymedzíme vhodné pracovné postupy
+a metódy, ktoré patria do súboru charakterizujúceho metodiku práce (určenie výskumného
+problému, charakteristika základného skúmaného súboru a výber skúmanej vzorky,
+organizácia a postup realizácie skúmania, voľba empirických metód)
+Výskumný problém (objekt skúmania)
+Vyplývajúc zo zadania práce skúmame kvantitatívne ukazovatele, ktoré patria
+k rozhodujúcim lokalizačným faktorom pri umiestnení navrhovanej podnikateľskej
+prevádzky do regiónu.
+
+38
+
+Základný súbor a skúmaná vzorka
+Zadanie témy a ciele záverečnej práce zároveň vymedzujú základný výskumný súbor,
+ktorý tvoria rôzne lokality v jednotlivých regiónoch Slovenska. Zámerným výberom, ktorý
+je determinovaný obdobnými podmienkami z hľadiska ekonomického, demografického,
+geografického charakteru zvolených lokalít (čo umožňuje ich vzájomné porovnávanie),
+sme zúžili ich počet na tri konkrétne lokality, ktoré tvoria skúmanú vzorku pre praktickú
+časť. Ide o lokality Bratislava – mestská časť Rača; Bratislava – mestská časť Ružinov
+a Banská Štiavnica – mesto.
+Zámerný výber bol ovplyvnený aj faktom, že bratislavský kraj, predovšetkým kvôli
+Bratislave, sa radí medzi ekonomicky rýchlo sa rozvíjajúce regióny. Pretransformoval
+svoju územnú štruktúru a funkcie, svoje postavenie ako domáci trh s prílivom
+zahraničného kapitálu. Svojim strategickým prihraničným situovaním, vysokou hustotou
+obyvateľstva a výraznou urbanizáciou patrí k dôležitým regiónom. Aj keď má len malú
+rozlohu v porovnaní s celkovou plochou krajiny, v ňom žije viac ako 11 % slovenskej
+populácie. Jeho atraktivita pre hospodársku činnosť je založená na veľkosti hlavného mesta
+a počte jeho obyvateľov (Bačík, 2010).
+(Poznámka: pri výbere navrhovaných oblastí zavážila aj skutočnosť, že ide o stred
+vlastných záujmov a bezprostredná znalosť oblastí, nakoľko Bratislava je našim
+profesijným pôsobiskom a miestom štúdia a Banská Štiavnica je miestom bydliska).
+Za
+
+adekvátnu
+
+podnikateľskú
+
+činnosť
+
+pre
+
+zámer
+
+skúmania
+
+považujeme
+
+prevádzkovanie výroby pekárenských výrobkov. Pri konfigurácii parametrov pekárenskej
+prevádzky sme zvolili vyhovujúcu kategóriu podniku, ktorá spadá do skupiny
+„malý podnik“, pretože toto kritérium v rozmedzí 10 – 49 zamestnancov je optimálne
+pre následné výpočty v realizovaných analýzach (konkrétne sme odhadli počet potrebných
+zamestnancov na 22 pracovníkov). Požadovaná rozloha je odhadovaná na cca 300 m2.
+Tabuľka 9 Kategorizácia podniku z hľadiska počtu zamestnancov
+
+Zdroj: Šrenkel, 2016
+39
+
+Metódy práce
+Výber použitých metód, ktoré považujeme pri riešení daného riešeného problému
+za vhodné, bol ovplyvnený charakterom skúmania. Ide o kvantitatívny dizajn skúmania
+a za kľúčové metódy sme zvolili analýzu, sekundárny prieskum a komparáciu:
+-
+
+analýze sme podrobili jednotlivé aspekty podnikateľského prostredia a lokalizačné
+faktory, čo nám umožnilo ich podrobné skúmanie, spracovanie a kvantifikáciu
+v záujme hlbšieho poznania problematiky;
+
+-
+
+komparáciou dosiahneme vzájomnú konfrontáciu určitých javov, určíme spoločné
+znaky respektíve odlišnosti – v tomto prípade ide o porovnávanie konkrétnych
+vybraných lokalizačných faktorov so zámerom konečného výberu jednej
+optimálnej polohy pre novovzniknutý podnik;
+
+-
+
+sekundárne prieskumy - „využívajú doterajšie dostupné poznatky, podklady,
+štatistické údaje, prieskumy a odborné publikácie na súhrnné rozbory a formuláciu
+záverov pre účely rozhodovania firiem“. (Bobovnický, 2006, s. 17)
+
+40
+
+3 PRAKTICKÁ ČASŤ
+Praktická časť diplomovej práce je orientovaná na analýzu kvantitatívnych
+ukazovateľov a údajov, zhromaždených na základe rôznych indikátorov a meraní stavu
+a potenciálu podnikateľského prostredia na Slovensku v rôznych regiónoch. Konkrétne
+v predkladanej práci porovnávame podmienky pre identický podnik v troch rôznych
+lokalitách. Pre účely našej komparácie sme navrhli fiktívnu firmu, ktorou bude prevádzka
+pekárne. Tento typ podniku sme zvolili pre jeho rôznorodé náklady, či variabilné trhové
+možnosti, na ktorých poukážeme, ako je lokácia podniku dôležitá. Pekáreň je výrobný
+podnik, ktorého pracovný čas obsahuje ako dennú, tak aj nočnú prácu. Ide je typ podniku,
+ktorej finálne produkty sú relatívne lacné a marža na nich nie je vysoká, preto je nutné
+zabezpečiť adekvátny objem produkcie. Existujú rôzne typy pekární, od malých rodinných
+podnikov, skrz stredne veľké lokálne pekárne, či pekárne ktoré zásobujú supermarkety
+baleným pečivom.
+Pre našu fiktívnu firmu sme zvolili stredne veľkú lokálnu pekáreň. Jej parametre sme
+sa snažili nakonfigurovať tak, aby zodpovedali priemerným (obvyklým) prevádzkovým
+procesom, na ktorých je možné demonštrovať kalkulácie a prezentovať vzájomné
+komparácie. Predpokladaný počet zamestnancov je 22, z čoho 16 zamestnancov
+zabezpečujúcich výrobu, 4 zamestnanci zabezpečujúci predaj v podnikovej predajni
+a 2 šoféri pre rozvoz do lokálnych potravín. Zámerom je mať 2 pracovné smeny striedajúce
+sa rozdelením na krátky a dlhý týždeň. To znamená, že polovica zamestnancov bude robiť
+denné smeny, zatiaľ čo druhá polovica nočné smeny. Takto vieme ukázať variabilitu
+nákladov spojenú s príplatkami za nočnú prácu. Za rovnakých podmienok budeme
+simulovať priebeh aktuálnych a budúcich nákladov v troch lokalitách, ktorými
+sú Bratislava Ružinov, Bratislava Rača a Banská Štiavnica - mesto. Veríme, že tieto
+lokality dokážu poukázať ako sa jednotlivé náklady na prevádzku môžu líšiť vo variácii
+lokácie centrálneho veľkomesta, periférnej oblasti veľkomesta a rozdielu od menšieho
+mesta na strednom Slovensku.
+Ako prvé sa zameriame na jednu z dvoch bratislavských oblastí. Lokáciu pekárne sme
+zvolili v mestskej časti Ružinov, ktorá je priamo v širšom centre Bratislavy. Pre túto
+lokalitu sme sa rozhodli z viacerých dôvodov, ako je napríklad rýchlo sa rozrastajúca časť
+mesta, zvýšený pohyb ľudí z dôvodu výskytu autobusovej stanice, dobrá občianska
+41
+
+vybavenosť, rôzne podnikateľské subjekty, rovnako ako značná časť obyvateľstva, ktorá
+v tejto lokalite žije. Našim zámerom je umiestniť pekáreň v tejto lokalite, ktorá bude
+samostatne piecť vlastné výrobky, ktorá bude mať vlastnú podnikovú predajňu a zároveň
+bude distribuovať svoje produkty do lokálnych potravín. V Ružinove sa nachádza veľká
+škála objektov, v ktorých je možné pekáreň umiestniť, ako napríklad už vyššie spomenutá
+autobusová stanica, resp. Obchodné centrum Nivy, lokálna pekáreň umiestnená v jednom
+z kancelárskych objektov ako Apollo Business Centrum či Skypark Offices, Eurovea,
+alebo samostatne nezávisle situovaná pekáreň napr. v rodinnom dome. Výhodou tejto
+lokality je vysoká škála potencionálnych zákazníkov, pravdepodobne možný pravidelný
+odbyt, dobrá infraštruktúra a dopravné spojenia. Nevýhodou môže byť veľká konkurencia,
+keďže v lokalite sa už niekoľko pekární nachádza, množstvo veľkých obchodných
+reťazcov, ktoré vedia ponúknuť podobný tovar za nižšie ceny, problém s parkovaním
+(v prípade umiestnenia mimo jedného z obchodných centier), či výška nájmu v širšom
+centre mesta.
+Ďalšou z lokalít, pre ktorú sme sa rozhodli, je Bratislava mestská časť Rača, ktorá
+je disponovaná v periférnejšej oblasti Bratislavy. Túto lokalitu sme si vybrali, aby sme
+vedeli porovnať jednotlivé podniky v rámci jedného mesta, kde niektoré náklady sa budú
+líšiť, zatiaľ čo ostatné náklady ostanú rovnaké. Výhodou tejto lokality je nižšia
+konkurencia, čím sa potencionálne môže novovytvorenej pekárni dariť. Nevýhodou môže
+byť poloha na okraji mesta, kde žije a pohybuje sa menej obyvateľstva.
+Treťou nami vybranou lokalitou je Banská Štiavnica. Jej poloha je situovaná medzi
+Zvolenom a Levicami a je približne 170km vzdialená od Bratislavy. Toto mesto
+je zaujímavé svojou kultúrou, pričom bolo zapísané do Svetového kultúrneho dedičstva
+UNESCO v roku 1993 (BanskaStiavnica.sk, 2024). Pri výbere lokality sme zvažovali
+turistický potenciál mesta, ktorý môže zvýšiť odbyt vďaka prichádzajúcim návštevníkom.
+Banská Štiavnica je okresným mestom, čo evokuje, že škála zákazníkov sa rozširuje
+aj s okolitými spádovými dedinami a lokálnymi potravinami pre sekundárny predaj.
+Za polohu navrhovanej pekárne sme zvolili centrum mesta s dobrým prístupom
+aj pre automobily, aby sme maximalizovali potenciál nášho podniku. Výhodou zvolenej
+lokality je potencionálne nízka konkurencia, možnosť dodávky produktov do lokálnych
+potravín, vysoký potenciál nových zákazníkov, či nižšie režijné náklady. Nevýhodou
+môže byť nižší počet obyvateľov, teda potencionálnych zákazníkov a horšia infraštruktúra
+pri nakupovaní surovín.
+
+42
+
+3.1 Analýza
+V nasledujúcej časti práce skúmame jednotlivé faktory, ktoré zohrávajú rolu
+pri rozhodovaní o výbere viacerých možností lokácie podniku. Berieme do úvahy
+4 skupiny
+
+faktorov:
+
+trhové;
+
+podnikovo-hospodárske;
+
+lokalizačno-právne
+
+faktory
+
+a infraštruktúrne. Medzi trhové faktory patria zákazníci, zásobovací trh a konkurencia.
+Podnikovo-hospodárske faktory tvoria nákladové položky, ako sú náklady na priestory,
+náklady na zamestnancov a náklady na réžiu. Spomedzi lokalizačno-právnych faktorov
+sledujeme úradné obmedzenia, ekologické aspekty a štátnu podporu. Pri infraštruktúre
+venujeme pozornosť dopravným spojeniam, dodávke vody a energie, či parkovacie
+možnosti. Pri výbere lokácie sme sa riadili nasledujúcou tabuľkou 10.
+Tabuľka 10 Výber lokality pre maloobchod pomocou testovacej tabuľky
+Typ lokality
+Váha
+
+sídlisko
+
+centrum
+
+vidiek
+
+B
+
+H
+
+B
+
+H
+
+B
+
+3
+
+2
+
+6
+
+3
+
+9
+
+1
+
+3
+
+zásobovací trh
+
+3
+
+2
+
+6
+
+2
+
+6
+
+2
+
+6
+
+konkurencia
+
+3
+
+2
+
+6
+
+2
+
+6
+
+1
+
+3
+
+náklady na priestory
+
+2
+
+2
+
+4
+
+3
+
+6
+
+1
+
+2
+
+náklady na
+zamestnancov
+
+2
+
+1
+
+2
+
+2
+
+4
+
+2
+
+4
+
+náklady na opravy
+
+2
+
+2
+
+4
+
+1
+
+2
+
+2
+
+4
+
+úradné obmedzenia
+
+2
+
+2
+
+4
+
+3
+
+6
+
+1
+
+2
+
+ekologické aspekty
+
+1
+
+2
+
+2
+
+2
+
+2
+
+3
+
+3
+
+štátna podpora
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+dopravné spojenie
+
+3
+
+2
+
+6
+
+3
+
+9
+
+2
+
+6
+
+dodávky vody
+
+3
+
+3
+
+9
+
+3
+
+9
+
+2
+
+6
+
+dodávka energie
+
+3
+
+3
+
+9
+
+3
+
+9
+
+2
+
+6
+
+parkovacie možnosti
+
+3
+
+3
+
+9
+
+3
+
+9
+
+2
+
+6
+
+-
+
+-
+
+68
+
+-
+
+78
+
+-
+
+53
+
+Infraštruktúra
+
+Trhové
+
+zákazníci
+
+Podnikovohospodárske
+
+H
+
+Lokalizačnoprávne
+
+Faktory lokality
+
+Spolu
+
+Zdroj: podľa: Boďo, 2006, s. 170 – 171 - vlastné spracovanie, 2024
+Zobrazená tabuľka je vyplnená nasledovne: váha v škále od 1-3 je podľa významu
+v danom konkrétnom prípade (1 – najmenšia váha, 3 – najväčšia váha), pre každý
+z faktorov sa určí hodnota v danej lokalite (H) v rozpätí 1- slabá, 2 – priemerná, 3 –
+výborná a počet bodov (B) pre daný faktor a danú lokalitu určíme súčinom hodnoty a váhy
+43
+
+(B = V * H). Ako môžeme vidieť z tabuľky, najlepšou lokalitou pre lokáciu podniku
+je centrum mesta. Preto sme si pri našej analýze vybrali práve širšie centrum mesta
+v Bratislave a centrum mesta v Banskej Štiavnici. Druhou najlepšou možnosťou
+je umiestnenie podniku na sídlisku. Z tohto dôvodu sme do našej analýzy zahrnuli
+aj okrajovú časť Bratislavy, mestskú časť Rača. Jednou z našich úloh je poukázať
+na jednotlivé rozdiely centra mesta na základe polohy a veľkosti, zatiaľ čo druhým
+zámerom bude porovnať centrum hlavného mesta a jeho okrajovú časť. Analýzu
+vykonávame dvoma spôsobmi. Prvým spôsobom poukážeme na náklady pre rovnaké
+vstupné údaje, ako sú počet zamestnancov a veľkosť priestorov. Druhým spôsobom
+berieme do úvahy demografiu jednotlivého miesta a upravíme jednotlivé položky
+v závislosti od pomeru počtu potenciálnych zákazníkov Bratislavy a Banskej Štiavnice.
+
+3.1.1 Trhové faktory
+Prvému faktoru, ktorému sa venujeme sú potenciálni zákazníci. Ako môžeme vidieť
+vo vyššie uvedenej tabuľke 10, jej dôležitosť sa interpretuje váhou 3, čo znamená, že je to
+jeden z najdôležitejších faktorov. Bratislava a Banská Štiavnica sa demograficky značne
+líšia, keďže počet obyvateľov v Bratislave je výrazne vyšší, ako v Banskej Štiavnici.
+Tabuľka 11 Počet obyvateľov v jednotlivých obciach v okrese Banská Štiavnica
+Obec / rok
+Svätý Anton
+Baďan
+
+2023
+1284
+149
+
+2022
+1273
+153
+
+2021
+1250
+168
+
+2020
+1225
+171
+
+Banská Belá
+Banská Štiavnica
+
+1159
+9339
+
+1163
+9426
+
+1170
+9478
+
+1194 1172 1178 1171 1162
+9922 10004 10035 10097 10193
+
+Banský Studenec
+Beluj
+
+461
+143
+
+464
+143
+
+459
+140
+
+475
+137
+
+467
+135
+
+468
+126
+
+472
+119
+
+472
+120
+
+Dekýš
+Ilija
+
+186
+358
+
+190
+358
+
+192
+351
+
+195
+349
+
+192
+358
+
+191
+364
+
+192
+361
+
+193
+345
+
+Kozelník
+Močiar
+
+167
+161
+
+169
+162
+
+168
+165
+
+160
+161
+
+164
+160
+
+162
+156
+
+166
+159
+
+167
+161
+
+Podhorie
+Počúvadlo
+
+334
+84
+
+339
+87
+
+332
+86
+
+326
+94
+
+325
+96
+
+327
+93
+
+326
+95
+
+322
+95
+
+Prenčov
+Štiavnické Bane
+
+625
+832
+
+634
+816
+
+649
+816
+
+643
+811
+
+661
+820
+
+665
+829
+
+659
+828
+
+659
+839
+
+Vysoká
+Spolu
+
+2019
+1199
+172
+
+2018
+1184
+174
+
+2017
+1192
+183
+
+2016
+1200
+188
+
+125
+127
+127
+140
+144
+151
+145
+144
+15407 15504 15551 16003 16069 16103 16165 16260
+
+Zdroj: podľa BanskaStiavnica.sk, 2024 - vlastné spracovanie, 2024
+44
+
+Berieme do úvahy, že výrobky navrhovanej pekárne budú distribuované do lokálnych
+reťazcov, za potenciálnu škálu zákazníkov považujeme celý Bansko-Štiavnický okres.
+V tabuľke 11 môžeme vidieť všetky obce a ich počet obyvateľov v tomto okrese
+za obdobie 8 rokov. Ako môžeme v tabuľke vidieť, počet obyvateľov, ktorých budeme
+brať ako potenciálnych zákazníkov je vyše 15 000. Už sme uviedli, že v Banskej Štiavnici
+je značne rozvinutý turizmus. Z informácií od Kuhnu (2018) sme zistili, že návštevnosť
+Banskej Štiavnice je veľmi populárna a že medziročne rastie o 10 – 15 percent. V roku
+2017 prespalo v Banskej Štiavnici viac ako 64 000
+
+ľudí. Keďže od vtedy uplynulo
+
+už niekoľko rokov, môžeme predpokladať, že aktuálna návštevnosť sa pohybuje okolo
+100 000 ročne.
+Za druhú lokalitu pre našu prevádzku sme zvolili hlavné mesto, Bratislavu. Keďže
+toto mesto sa diametrálne líši od malebnej a turistami navštevovanej Banskej Štiavnice,
+za potenciálnu klientelu budeme považovať len obyvateľov žijúcich v mestskej časti
+Ružinov a mestskej časti Rača. Jej rozrastajúci potenciál sa podpísal aj na prírastku
+obyvateľov. Kým v roku 2016 žilo v tejto mestskej časti Ružinov niečo vyše 72 000,
+v súčasnosti toto číslo narástlo o 10 000. V roku 2023 žilo v Ružinove 82 483 obyvateľov.
+V mestskej časti Rača tiež pozorujeme nárast obyvateľov. V roku 2016 mala Rača vyše
+21 000 obyvateľov, čo v súčasnosti narástlo na aktuálnych 26 214 trvalo žijúcich občanov.
+
+Zdroj: podľa DATAcube, 2024 - vlastné spracovanie, 2024
+Obrázok 12 Porovnanie počtu obyvateľov v jednotlivých lokalitách
+
+45
+
+Z grafu 12 môžeme vidieť, že počet obyvateľov v Bratislave medziročne stúpa, zatiaľ
+čo v okrese Banská Štiavnica pozorujeme jemný úpadok. Rovnako môžeme vidieť výrazný
+rozdiel v demografii, keďže Ružinov má viac než 5 násobok obyvateľov než Banská
+Štiavnica a 3. násobok obyvateľov než Rača. Tieto rozdiely zahrnieme do úvahy
+pri viacerých faktoroch. V menšom meste predpokladáme menšiu produkciu a tým pádom
+pravdepodobne budú stačiť menšie prevádzkové priestory, prípadne menej zamestnancov.
+Ďalším z trhových faktorov je konkurencia. V pekárenskom odvetví je konkurencia
+veľmi dôležitá, keďže väčšie obchody ako Billa, Tesco, Kaufland a pod. majú vlastné pece
+a pečú čerstvé pečivo. Značná časť ľudí nakupuje pečivo priamo s ostatným nákupom
+a nenavštevujú špecializované predajne. Dôležité je nielen umiestnenie predajne
+ale aj originalita
+
+a autenticita
+
+výrobkov.
+
+Tieto
+
+faktory
+
+sú
+
+dôležité
+
+pri konkurencieschopnosti lokálnym pekárňam. V Banskej Štiavnici sme boli schopní
+dohľadať 2 pekárne a ak ku tomu pridáme aj pekárne v supermarketoch, celkovo máme
+4 potenciálnych konkurentov. V prípade Bratislavy sme našli 8 špecializovaných pekární
+v mestskej časti Ružinov. V nákupných centrách ako sú Nivy, Central, Avion a samostatne
+stojacich obchodov sme napočítali ďalších 10 konkurentov. V mestskej časti Rača
+sme našli 3 lokálne pekárne a 4 pekárne v supermarketoch. Ak predpokladáme, že Ružinov
+má 5-krát väčší trh než Banská Štiavnica s potencionálnymi zákazníkmi a konkurencia
+je v pomere 4:18 a Ružinov je v porovnaní s Račou v pomere 7:18, tak môžeme povedať,
+že trh je relatívne vyvážený. Nová pekáreň by mala približne rovnakú šancu uživiť sa ako
+v oboch častiach Bratislavy, tak aj v centre Banskej Štiavnice.
+
+3.1.2 Podnikovo-hospodárske faktory
+Spomedzi podnikovo-hospodárskych faktorov sa zameriame hlavne na náklady
+vynaložené za priestory a náklady na mzdy. Pri návrhu prevádzky uvažujeme o prenájme
+priestoru a nie jeho kúpe. Na základe informácií z portálov
+
+nehnuteľnosti.sk,
+
+zoznamrealit.sk a bazos.sk sme urobili prieskum, v ktorom sme zisťovali cenu nájmu
+za výrobné, obchodné a skladové priestory. Našim zámerom bolo nájsť priestory o veľkosti
+cca 300 m2, teda dostatok miesta na výrobu, skladovanie surovín a podnikovú predajňu.
+
+46
+
+Zdroj: podľa Nehnuteľnosti.sk, 2024 - vlastné spracovanie, 2024
+Obrázok 13 Pravdepodobnosť ceny prenájmu v Bratislave v €
+
+Zdroj: podľa Nehnuteľnosti.sk, 2024 - vlastné spracovanie, 2024
+Obrázok 14 Pravdepodobnosť ceny prenájmu v Banskej Štiavnici v €
+
+Pri špecifikácii parametrov sme zistili, že výška nájmu sa v Bratislave pohybuje
+v rozmedzí od 2000€ - 5000€, zatiaľ čo za podobné priestory v Banskej Štiavnici
+by sme platili 800€ - 1000€. V Bratislave je rozmedzie vyššie, pretože sme hľadali viacero
+variácii. Zisťovali sme prenájom samostatne stojacej nehnuteľnosti rovnako ako prenájom
+v obchodnom dome. Došli sme k záveru, že ak chceme porovnávať na základe rovnakých
+parametrov, musíme zvoliť samostatne stojaci priestor. Môžeme tvrdiť, že výška nájmu
+v Bratislave je približne 5 násobne väčšia, ako v Banskej Štiavnici.
+Ďalším faktorom spomedzi tejto skupiny sú náklady na zamestnancov. Ako sme
+už vyššie pri špecifikácii našej predajne uviedli, v pláne je mať 22 zamestnancov,
+čo by pravdepodobne tvorilo najvyššiu položku spomedzi nákladov. Do podniku
+47
+
+je potrebných 8 pekárov, 2 predavačky a jedného šoféra v dvoch smenách. V pláne máme
+výrobu v nočných hodinách, aby bolo ráno pečivo v reťazcoch, s ktorými by boli uzavreté
+zmluvy. Počas dňa by sme piekli čerstvé pečivo a zásobovali tým našu podnikovú
+predajňu.
+Naprieč Slovenskom existujú platové rozdiely. V grafoch nižšie je zobrazené,
+aká je pravdepodobnosť priemerného platu jednotlivých pracovných pozícii v Bratislave.
+Na Bratislavu sa v tomto prípade pozeráme ako celok a tieto údaje nerozdeľujeme
+po mestských častiach. Údaje sme získali zo stránky profesia.sk a pracuj.sk. Našli
+sme adekvátne pozície a spočítali platovú škálu, na základe ktorej vieme vyčísliť celkové
+náklady na zamestnancov.
+
+Zdroj: podľa Profesia.sk, 2024 - vlastné spracovanie, 2024
+Obrázok 15 Pravdepodobnosť priemerného platu pekára/rky v Bratislave v €
+
+Zdroj: podľa Profesia.sk, 2024 - vlastné spracovanie, 2024
+Obrázok 16 Pravdepodobnosť priemerného platu predavača/čky v Bratislave v €
+48
+
+Zdroj: podľa Profesia.sk, 2024 - vlastné spracovanie, 2024
+Obrázok 17 Pravdepodobnosť priemerného platu vodiča/čky v Bratislave v €
+
+Z grafov 15 - 17 dokážeme vyčítať, že priemerný plat pekára v Bratislave
+sa pohybuje v rozmedzí od 1300€ - 1800€, priemerná plat predavača je v škále od 1300€ 1500€ a pozícia vodiča je najmenej platená a to vo výške od 1000€ - 1400€. Jednotlivé
+sumy sú uvedené ako hrubá mzda. Dôležité ale pre zamestnávateľa nie je hrubá mzda,
+ale celková cena práce, tzv. superhrubá mzda. V nej sú započítané odvody zamestnávateľa
+do zdravotnej a sociálnej poisťovne.
+Tabuľka 12 Prepočet hrubej a superhrubej mzdy
+Hrubá mzda
+
+Superhrubá mzda
+
+900 €
+
+1,225.80 €
+
+1,000 €
+
+1,362.00 €
+
+1,100 €
+
+1,498.20 €
+
+1,200 €
+
+1,634.40 €
+
+1,300 €
+
+1,770.60 €
+
+1,400 €
+
+1,906.80 €
+
+1,500 €
+
+2,043.00 €
+
+1,600 €
+
+2,179.20 €
+
+1,700 €
+
+2,315.40 €
+
+Zdroj: podľa FinRepor, 2024 - vlastné spracovanie, 2024
+
+49
+
+V priloženej tabuľke 12 sme prepočítali priemernú hrubú mzdu na cenu práce,
+čo predstavuje reálny náklad zamestnávateľa na jedného zamestnanca. Budeme počítať
+s najčastejšie sa vyskytujúcou hodnotou u každé odvetvia a teda pri pekárovi budeme rátať
+s platom 1500€, pri predavačovi 1400€ a pri vodičovi 1200€.
+Pri počte 22 zamestnancov sú celkové personálne náklady nasledovné:
+Tabuľka 13 Prepočet celkových mesačných nákladov na zamestnancov v Bratislave
+Pracovná pozícia
+
+Cena práce
+
+Počet zamestnancov
+
+Celkové náklady
+
+Pekár
+
+2 043,00 €
+
+16
+
+32 688,00 €
+
+Predavač
+
+1 906,80 €
+
+4
+
+7 627,20 €
+
+Vodič
+
+1 634,40 €
+
+2
+
+3 268,80 €
+
+Spolu
+
+5 584,20 €
+
+22
+
+43 584,00 €
+
+Zdroj: vlastné spracovanie, 2024
+Z tabuľky 13 môžeme vyčítať, že celkové mesačné náklady na zamestnancov
+v Bratislave sú vo výške 43 584€ pri nami zvolenom počte zamestnancov.
+Rovnako ako pri lokalite Bratislava sme zisťovali výšku platu pekára, predavača
+a vodiča v Banskej Štiavnici. Keďže v tejto lokalite je trh práce menší ako v Bratislave,
+rozšírili sme lokalitu na širšie okolie, aby sme vedeli lepšie oceniť každú z pozícií.
+Spomedzi všetkých nájdených pozícii sme vypracovali grafy pravdepodobnosti výšky
+v jednotlivých platových kategóriách, čo nám pomôže pri kalkulácii nákladov
+za zamestnancov v Banskej Štiavnici. Predpokladali sme, že jednotlivé pozície budú nižšie
+ohodnotené v tomto regióne, než v Bratislave, keďže životná úroveň a náklady
+na živobytie sú v menšom meste nižšie, než v hlavnom meste Slovenska.
+
+Obrázok 18 Pravdepodobnosť priemerného platu pekára/rky v Banskej Štiavnici v €
+
+50
+
+Obrázok 19 Pravdepodobnosť priemerného platu predavača/čky v Banskej Štiavnici v €
+
+Obrázok 20 Pravdepodobnosť priemerného platu vodiča/čky v Banskej Štiavnici v €
+
+Z grafov 18 - 20 môžeme vyčítať, že pri pozícii pekára sa budeme rozhodovať v škále
+od 1000 € - 1200 €, pri pozícii predavača je rozpätie od 800 € - 1000 € a pri plate vodiča
+budeme stanovovať plat v rozmedzí od 1200 € - 1400 €. Rovnako ako pri sumarizácii
+nákladov na zamestnancov pre Bratislavu sme vytvorili tabuľku 14, v ktorej sú uvedené
+reálne náklady zamestnávateľa na pracovnú silu.
+
+51
+
+Tabuľka 14 Prepočet celkových nákladov na zamestnancov v Banskej Štiavnici
+Pracovná pozícia
+
+Cena práce
+
+Počet zamestnancov
+
+Celkové náklady
+
+Pekár
+
+1 498,20 €
+
+16
+
+23 971,20 €
+
+Predavač
+
+1 225,80 €
+
+4
+
+4 903,20 €
+
+Vodič
+
+1 770,60 €
+
+2
+
+3 541,20 €
+
+Spolu
+
+5 584,20 €
+
+22
+
+32 415,60 €
+
+Zdroj: vlastné spracovanie, 2024
+Celkové náklady na zamestnancov v Banskej Štiavnici nám tvoria sumu 32 415,60 €.
+Môžeme si všimnúť, že pozícia pre pekára a predavača je menej ohodnotená
+ako v Bratislave, no pozícia vodiča je ohodnotená vyššou triedou. Predpokladáme,
+že vodiči v okrese Banská Štiavnica musia jazdiť dlhšie trasy, po komplikovanejších
+cestách a robiť väčšie zachádzky, čo sa odráža aj na výške platu.
+
+3.1.3 Lokalizačno-právne faktory
+Pri založení podniku so zámerom o výrobu pekárskych a cukrárskych výrobkov
+je podľa ministerstva vnútra Slovenskej Republiky potrebné živnostenské oprávnenie
+pre remeselnú živnosť, ktoré vydáva miestny živnostenský úrad. Pred podaním žiadosti
+je potrebné splniť všeobecné podmienky, ako je dosiahnutie 18 rokov, spôsobilosť
+na prácne úkony a bezúhonnosť. Okrem toho, je potrebné preukázať odbornú spôsobilosť,
+ktorú je možné získať vyučením v odbore. Splnenie týchto podmienok je potrebné
+preukázať výpisom z registra trestov a dokladom o odbornej spôsobilosti. Po splnení
+všetkých podmienok je možné začať podnikať už v deň ohlásenia živnosti. Pekáreň môže
+byť zriadená neskôr ako je deň ohlásenia živnosti, avšak v prípade zriadenia
+prevádzkových priestorov je povinné ich označiť a oznámiť ich zriadenie príslušnému
+úradu. Správny poplatok za vydanie osvedčenia o živnostenskom oprávnení je 22€
+(11€ pri elektronickom ohlásení). Jednotlivé podmienky nie je komplikované splniť,
+ich vybavenie ale môže zabrať určitý čas, na čo pri založení podniku musíme brať ohľad
+(MV SR, 2024).
+Spomedzi lokalizačno-právnych faktorov je určite dobré spomenúť štátnu podporu. Nami
+zvolená lokalita, okres Banská Štiavnica, sa vyznačuje vysokou mierou nezamestnanosti
+vo výške 17,48 percent. Podľa riaditeľa Úradu práce, sociálnych vecí a rodiny
+sa nezamestnanosť v regióne oproti minulému roku znížila. V Bratislave, mestskej časti
+Ružinov, je aktuálna nezamestnanosť vo výške 2,6 percent. Môžeme predpokladať,
+že v menšom okrese dokážeme jednoduchšie nájsť pracovnú silu, no jej kvalitu nevieme
+52
+
+ohodnotiť. Tým, že v menších okresoch Slovenska jej miera vyššia, štát sa snaží vymýšľať
+rôzne projekty na podporu nájsť si zamestnanie. Aktuálne MPSVaR SR spúšťa projekt
+Národné stimuly pre zamestnanosť, ktorý by ma dokázať pomôcť dlhodobo
+nezamestnaným ľudom pre uplatnenie na trhu práce. Pri splnení všetkých potrebných
+podmienok je možné ako zamestnávateľ dostať príspevok na pomoc so mzdami
+zamestnancov. Momentálne ministerstvo podporuje zamestnanosť
+
+mladých ľudí
+
+do 30 rokov s nižším vzdelaním až do výšky 269 € po dobu troch až šiestich mesiacov
+(MPSVaR SR, 2024; Inštitút zamestnanosti, 2024). Pri založení podnikania je znižovanie
+nákladov dôležitým faktorom a máme za to, že práve v okrese Banská Štiavnica
+by sa takáto pomoc dokázala uplatniť.
+
+3.1.4 Infraštruktúra
+V tejto kategórii sú hlavnými faktormi ceny energie. V minulých rokoch sa ceny
+energií vďaka pandémii rapídne zvýšili, čo všetkým podnikateľom sťažilo situáciu.
+Aktuálne sa pohybujú ceny energií nasledovne: Elektrina vo výške 159 € / MWh, dodávka
+vody je vo výške 1,2162 € / m3 a plyn sa podľa odberu pohybuje vo výške od 0,054 € 0,064 € / kWh. Máme za predpoklad, že budeme potrebovať rovnaké množstvo energií
+ako v Bratislave, tak v Banskej Štiavnici. Odhadujeme, že Elektrinu budeme potrebovať
+v množstve od 2-3 MWh, vodu na umývanie strojov a ako prísadu do cesta máme
+za predpoklad okolo 60 m3 a v prípade plynových pecí očakávame výšku okolo 1000 kWh.
+
+Zdroj: podľa ELGAS, 2024; SPP, 2024; VodaPortal, 2024 - vlastné spracovanie, 2024
+Obrázok 21 Pomer jednotlivých nákladov na energiu prevádzky pekárne
+Do tejto kategórie zahrnieme aj náklady na dopravu. Ako sme v popise našej pekárne
+písali, máme záujem o jedno vozidlo, ktoré bude rozvádzať naše výrobky do lokálnych
+podnikov. Pri plánovaní otvorenia prevádzky musíme počítať aj s počiatočnou investíciou.
+53
+
+Aj keď hlavným zámerom pre nás je zistiť, ktorý z podnikov by bol pre umiestnenie lepší,
+do našej počiatočnej investície zaradíme ako kúpu interiérového vybavenia, tak aj kúpu
+auta. Na distribúciu do lokálnych obchodov máme v pláne kúpiť dodávku do 3,5t. Máme
+na výber 2 možnosti, kúpu nového vozidla alebo kúpu už použitého. V oboch prípadoch
+si vieme zvoliť možnosť, či kúpiť dodávku v hotovosti alebo na splátky, prípadne leasing.
+Keďže naším zámerom je porovnávať režijné náklady, budeme počítať s alternatívou kúpy
+vozidla na splátky. Spomedzi možných áut, ktoré by nám vyhovovali sme vybrali model
+Citroën Jumper. Podľa portálu Citroën SK (2024) sa mesačná splátka začína od 399 €.
+Významnejšou položkou pri používaní auta je jeho prevádzka. Tankovanie
+a servisovanie vozidla sa bude odvíjať od jeho využívania. Počítame, že vozidlo budeme
+prevádzkovať v oboch lokalitách. V Bratislave je predpoklad, že ak budeme mať sieť
+obchodov v Ružinove, ktoré budeme zásobovať našimi produktami, tak celková priemerná
+denná vzdialenosť by sa mala pohybovať do 50 km. Na druhú stranu, v Banskej Štiavnici
+predpokladáme rozvoz do lokálnych obchodov po celom regióne. Odhadujeme,
+že priemerná denná prejdená vzdialenosť na vozidle bude okolo 200 km za deň.
+Tabuľka 15 Tabuľka nákladov na prevádzku motorového vozidla
+Vzdialenosť
+
+Spotreba
+
+Cena PH
+
+Spolu
+
+Bratislava Ružinov
+
+50 km
+
+6,4 l/ 100 km
+
+1,55 € / l
+
+148,80 €
+
+Bratislava Rača
+
+30 km
+
+6,4 l/ 100 km
+
+1,55 € / l
+
+89,28 €
+
+Banská Štiavnica
+
+200 km
+
+6,1 l/ 100 km
+
+1.55 € / l
+
+567,30 €
+
+Lokalita
+
+Zdroj: vlastné spracovanie, 2024
+V tabuľke 15 prehľadne uvádzame údaje o reálnych nákladov na prevádzku
+motorového vozidla. Berieme do úvahy, že v Bratislave budeme jazdiť kratšie vzdialenosti
+z väčšou spotrebou, zatiaľ čo v Banskej Štiavnici budeme chodiť po okolitých dedinách
+vo väčších vzdialenostiach a spotrebou mimo mesta, ako uvádza predajca. Finálna suma
+je vynásobená 30 dňami, aby sme boli schopní porovnávať budúce mesačné režijné
+náklady.
+Jednou z položiek faktorov infraštruktúry je aj možnosť parkovania. V oboch
+lokalitách sme si určili, že si chceme prenajať viacúčelový pozemok. Počítame,
+že parkovacie miesto bude prináležať tomuto pozemku minimálne pre firemné vozidlo.
+Čo sa týka parkovania pre zákazníkov, v Bratislave je zavedená parkovacia politika PAAS,
+pričom v Ružinove sa cena státia na hodinu pohybuje medzi 1,50€ - 2,00€, podľa
+jednotlivých lokalít (PAAS, 2024). V mestskej časti Rača je parkovanie bezplatné.
+54
+
+V Banskej Bystrici je jednorazové parkovanie počas celého týždňa, vrátane víkendov,
+vyčíslené na sumu 1,50 € za hodinu. Môžeme povedať, že v oboch prípadoch
+sú parkovacie podmienky podobné a nebudú hrať významnú rolu pre našu prevádzku.
+
+3.2 Komparácia jednotlivých lokalít
+V analýze sme opísali všetky faktory spojené s budúcimi nákladmi prevádzkovaním
+podniku. V tejto časti zhrnieme jednotlivé faktory pre každú prevádzku, porovnáme
+ich a stanovíme záver, ktorá z možností sa javí ako najlepšia voľba. Vyššie sme uviedli,
+že porovnávanie výsledkov budeme robiť dvoma spôsobmi. Prvý spôsob, ktorý
+rozoberieme je, že nevezmeme do úvahy demografické faktory a budeme predpokladať,
+že vo všetkých lokalitách otvoríme úplne identickú prevádzku. Druhý spôsob, ktorý
+budeme riešiť, je že berieme do úvahy demografické faktory, vďaka čomu prispôsobíme
+počet zamestnancov a veľkosť priestorov. V našej práci je hlavnou úlohou zistiť skutočnú
+mieru budúcich nákladov vzhľadom na lokáciu podniku. Pri vyhotovovaní analýzy sme sa
+sústredili na reálne budúce náklady, zatiaľ čo sme nebrali do úvahy počiatočnú investíciu.
+Z tohto dôvodu sme sa rozhodli robiť práve spomínané 2 analýzy, pretože ak prispôsobíme
+veľkosť prevádzky demografii, spôsobí to vychýlenia pri počiatočnej investícii.
+
+3.2.1 Porovnávanie rovnakých prevádzok
+Na začiatku praktickej časti uvádzame, že naša pekáreň bude mať priestory o výmere
+300 m2 a celkovo bude zamestnávať 22 ľudí. V tejto časti pre nás je dôležité porovnať
+náklady spojené s prenájmom priestorov, náklady na energie, náklady na pokrývanie miezd
+zamestnancom a náklady vynaložené na prevádzku motorového vozidla.
+Tabuľka 16 Porovnanie celkových nákladov v jednotlivých lokalitách
+Spoločné znaky
+Jednotlivé náklady
+Mzdy zamestnancom
+Prenájom priestorov
+Energie
+Motorové vozidlo
+Spolu
+
+Bratislava
+Rača
+43 584,00 €
+3 000,00 €
+525,50 €
+89,28 €
+47 198,78 €
+
+Centrum mesta
+Ružinov
+Banská Štiavnica
+43 584,00 €
+32 415,60 €
+4 000,00 €
+900,00 €
+525,50 €
+525,50 €
+148,80 €
+567,30 €
+48 258,30 €
+34 408,40 €
+
+Zdroj: podľa vlastné spracovanie, 2024
+
+55
+
+Z tabuľky 16 môžeme vidieť, že najväčšou položkou spomedzi všetkých nákladov
+vo všetkých predajniach je vyplácanie miezd zamestnancom. Táto položka tvorí viac
+ako 90 percent zo všetkých nákladov. Toto porovnanie nám hovorí, že ak by sme chceli
+otvoriť rovnakú prevádzku v Banskej Štiavnici, v Bratislave Ružinov a Bratislave Rača,
+tak z pohľadu znižovania budúcich očakávaných nákladov je najlepšou možnosťou zvoliť
+si prevádzku v Banskej Štiavnici. Na druhú stranu, ak by sme chceli mať rovnaké podniky
+vo všetkých lokalitách, znamenalo by to, že očakávame aj rovnakú návštevnosť naprieč
+jednotlivými pekárňami. Koľko by sme teda museli vyrobiť pekárenských výrobkov,
+aby sme neboli stratoví? Jednoduchou matematikou sa vieme dostať ku konkrétnemu číslu.
+Uvažujme, že pekárenské výrobky majú priemernú maržu 200 percent. To znamená, že ak
+chlieb upečieme za 1 € celkových nákladov (režijné náklady spojené s nákladmi
+na suroviny), predáme ho za 3 €, a marža na výrobku je 2 €. Takto dosiahneme,
+že ak chceme pokryť celkové náklady na prevádzku priestorov v Banskej Štiavnici,
+musíme predať tovar v minimálnej hodnote 17 204,20 €. Na túto sumu dáme maržu
+200 percent a tá nám pokryje prevádzkové náklady vo výške 34 408,40 €. Budeme
+predpokladať, že voda do cesta už je započítaná
+
+v režijných nákladoch a väčšinu
+
+z nákladov na pekárenské výrobky tvorí múka (80 percent zo sumy za tovar). Pri aktuálnej
+priemernej cene múky 0,83 € za kilogram to znamená, že aby prevádzka bola rentabilná,
+bolo by hypoteticky potrebné mesačne upiecť pekárenské výrobky z vyše 16-tich ton
+múky.
+
+3.2.2 Porovnávanie pomerovo prispôsobených prevádzok
+V predchádzajúcej sekcii sme vytvorili ukážkový príklad, prečo je nepravdepodobné,
+že na všetky 3 lokality potrebujeme práve rovnaké parametre, aby náš podnik dokázal
+prežiť. Zakončili sme ho otázkou, či je možné predať 16 000 chlebov mesačne v okrese
+Banská Štiavnica. Samozrejme príklad bol len ilustratívny, jeho podstatou bolo vyzdvihnúť
+hlavnú časť tejto práce, ktorou je komparácia lokalít prispôsobená trhu a zákazníkom.
+V tejto sekcii upravíme každú z predajní na základe viacerých faktorov. V analytickej
+časti práce sme predstavili veľkosť obyvateľstva v jednotlivých lokalitách. Po porovnaní
+údajov obyvateľstva sme zisťovali aj veľkosť konkurencie. Dospeli sme k záveru,
+že pomer veľkostí predajní Banská Štiavnica : Rača : Ružinov by v ideálnom stave mal byť
+1:3:5. Ako sme spomenuli v predchádzajúcej časti, najväčšou položkou boli mzdy
+zamestnancom. Na základe demografie a potenciálneho trhu sme sa rozhodli upraviť počet
+zamestnancov nasledovne:
+56
+
+Tabuľka 17 Počet zamestnancov v jednotlivých lokalitách v pomere 1:3:5
+Ružinov
+
+Rača
+
+Banská Štiavnica
+
+Pekár
+
+16
+
+10
+
+4
+
+Predavač
+
+4
+
+4
+
+3
+
+Vodič
+
+2
+
+2
+
+1
+
+Zamestnanie
+
+Zdroj: vlastné spracovanie, 2024
+V Bratislavskej predajni sme nič nezmenili a jej veľkosť a náklady ostávajú rovnaké.
+Pri pobočke v Rači sme „okresali“ počet pekárov a počet predavačov a vodičov
+sme nechali nezmenený. Je to tak z dôvodu, že pekáreň bude stále prevádzkovaná na nočné
+smeny 7 krát do týždňa. Z toho dôvodu je nemožné zmeniť ich počet.
+Pri pekárni v Banskej Štiavnici sme sa rozhodli upraviť aj pomer predavačov
+a vodičov, no nie úplne presne v pomere. Od výroby produktov sú pekári a keďže
+predpokladáme 5 krát menší trh ako v Bratislave, počet pekárov sme znížili najviac.
+Nechali sme ich stále v párnom počte, aby bolo možné vykonávať prácu na 2 smeny.
+Pri predavačovi sme znížili tiež o jedného z dôvodu, že napr. v nedeľu môže
+byť podniková predajňa zatvorená, ako to v menších mestách v centre mesta je zaužívané.
+Aj keď najväčšou nákladovou položkou boli zamestnanci, upravíme aj ostatné náklady
+na základe špecifikácií. Bolo by napr. zbytočné, aby v Banskej Štiavnici mali priestory
+300 m2, keď v pekárni budú pracovať len dve osoby súčasne. Rovnako tak, keď budeme
+vyrábať menej produktov v lokalitách, aj náklady na energie sa nám rapídne zmenšia.
+Tabuľka 18 Porovnanie celkových nákladov v jednotlivých lokalitách v upravenom
+pomere
+Bratislava
+
+Spoločné znaky
+
+Centrum mesta
+
+Jednotlivé náklady
+
+Rača
+
+Ružinov
+
+Banská Štiavnica
+
+Mzdy zamestnancom
+
+31 325,60 €
+
+43 584,00 €
+
+11 440,80 €
+
+Prenájom priestorov
+
+2 000,00 €
+
+4 000,00 €
+
+700,00 €
+
+Energie
+
+315,30 €
+
+525,50 €
+
+105,10 €
+
+Motorové vozidlo
+
+89,28 €
+
+148,80 €
+
+567,30 €
+
+33 730,18 €
+
+48 258,30 €
+
+12 813, 20 €
+
+Spolu
+
+Zdroj: vlastné spracovanie, 2024
+
+57
+
+Druhý typ analýzy nám dáva iný pohľad na skutočnosti. Týmto náhľadom sme
+sa snažili zistiť, aké sú reálne porovnateľné náklady na jednotlivé prevádzky pri myšlienke,
+že jednotlivé prevádzky bude navštevovať rovnaký pomer zákazníkov. Z tabuľky 18
+môžeme vidieť, že najnižšie náklady sú v Banskej Štiavnici a najvyššie v Ružinove.
+
+3.3 Vyhodnotenie výsledkov komparácií lokalít
+Hlavným cieľom predkladanej práce bolo zistiť, v ktorej z vytipovaných lokalít
+sú reálne očakávané budúce náklady na prevádzku podniku najnižšie. V jednotlivých
+sekciách praktickej časti práce sme analyzovali a porovnávali rôzne nami zvolené lokality.
+Zvolili sme 3 špecifické lokality s rovnakým podnikateľským zámerom. V snahe
+minimalizovania nákladov sme dospeli k záveru, že položkou najviac ovplyvňujúcou
+celkové budúce náklady sú mzdy zamestnancom. Táto časť tvorí vyše 90 percent
+celkových režijných mesačných nákladov. Po vytvorení analýzy jednotlivých lokalít sme
+zistili možné očakávané platové ohodnotenie naprieč jednotlivými pozíciami. V Banskej
+Štiavnici je priemerná mzda na nami hľadané pozície menšia, ako v Bratislave,
+čo má za dôsledok, že v menšom meste bude mať zamestnávateľ menšie náklady.
+Pri porovnávaní jednotlivých lokalít sme zvolili dva prístupy. Prvý prístup sa zameriaval
+na porovnanie identických podnikov, zatiaľ čo druhý prístup sme prispôsobili na základe
+analýzy trhu.
+
+Zdroj: vlastné spracovanie, 2024
+V oboch prípadoch môžeme povedať, že ak chceme minimalizovať budúce náklady
+navrhovanej prevádzky, optimálnou možnosťou je zvoliť lokalitu v Banskej Štiavnici.
+58
+
+3.4 Diskusia a odporúčania pre prax
+Na základe získaných poznatkov zo spracovania dostupných relevantných materiálov
+a realizovaných analýz sme zhrnuli závery a odporúčania v oblasti skúmanej problematiky.
+Výsledky analýz a komparácií jednotlivých navrhovaných lokalít potvrdzujú názory
+Hudeca a kol. (2009), ktorí poukazujú na rôzne disparity regiónov v rámci Slovenskej
+republiky. Preukazujú to hlavne odlišné výsledky v porovnaní nákladov na pracovnú silu
+v Bratislave oproti zamestnancom v Banskej Štiavnici. Taktiež sú to demografické
+ukazovatele (hlavne počty obyvateľov a miera nezamestnanosti), z ktorých sme tiež
+vychádzali pri vyhodnocovaní vhodnosti lokality a brali sme do úvahy aj náklady na nájmy
+priestorov, ktoré sú v Bratislave rádovo vyššie ako v Banskej Štiavnici.
+Naše zistenia korešpondujú s tvrdením Bussarda a kol. (2019), ktorí pozitívne
+vyzdvihujú prítomnosť vhodných zainteresovaných subjektov v regionálnom kontexte,
+napríklad vládnych inštitúcií s ich podpornými nástrojmi v podobe grantov, dotácií,
+príspevkov alebo mimovládnych organizácií, ktoré prostredníctvom investícií, sociálneho
+dialógu, rozvoja ľudského kapitálu a infraštruktúry dokážu prispieť k rozvoju podniku
+umiestneného
+
+v danej
+
+lokalite.
+
+kompetentných, iniciatívnych a
+
+V zhode
+
+s týmto
+
+názorom
+
+práve
+
+prítomnosť
+
+ústretových (v prospech podpory podnikateľského
+
+prostredia) zainteresovaných subjektov a s tým spojenú existenciu pozitívnych činiteľov,
+považujeme za ďalší kľúčový lokalizačný faktor v rozhodovacom procese podniku
+pri svojom umiestnení v regióne a odporúčame preveriť tieto možnosti v časovom
+predstihu pred lokalizačným rozhodnutím. Ak sú v niektorom regióne tieto ukazovatele
+v podobe rôznych stimulov intenzívnejšie, ich efekty a výhody môžu značne prispieť
+k prosperite podniku a môžu závažne ovplyvniť fakt, či sa podnik v regióne stabilne udrží.
+Súhlasíme aj názorom Gubáňovej a Hanáčková (2014), ktoré zdôrazňujú fakt, že pre
+strategické plánovanie podnikateľského subjektu v kontexte jeho alokácie patrí lokalizačné
+rozhodnutie k najdôležitejším krokom, ktoré sa nepraktizuje často, preto je potrebné ho
+dôsledne a zodpovedne zvážiť na základe vlastných preferencií.
+Vychádzajúc
+
+z
+
+výsledkov
+
+skúmania
+
+môžeme
+
+vyvodiť
+
+záverečné
+
+kľúčové
+
+odporúčanie, ktorým je nevyhnutnosť dôkladného vyhodnocovania disparít z hľadiska
+lokalizačných faktorov, pretože tieto môžu znamenať pre podnik veľké úspory z budúcich
+nákladov. Nakoľko lokalizačné rozhodnutie má ireverzibilný charakter (po definitívnom
+umiestnení podniku je už nezvratné bez následných negatívnych dôsledkov), jeho zváženie
+je nutné podrobiť dôkladnej analýze.
+59
+
+ZÁVER
+Téma diplomovej práce s názvom Lokalizácia ako dôležitý predpoklad znižovania
+budúcich nákladov podniku vytvára priestor pre zaujímavé spracovanie aktuálnej
+problematiky. Pretože v súčasnosti musia podnikatelia hľadať všetky možné výhody,
+aby bolo schopní uplatniť sa a byť konkurencieschopní na trhu, je potrebné zvážiť
+už v počiatkoch samotnej podnikateľskej činnosti všetky pozitíva, ktoré vyplývajú
+aj z alokácie novovytvorenej prevádzky.
+Cieľom práce bolo vyhodnotiť viaceré možnosti lokality pre novovzniknutý
+podnikateľský subjekt, k čomu boli využité dostupné metódy kvantitatívneho dizajnu
+skúmania (analýza, komparácia, sekundárne prieskumy).
+Práca v teoretickej rovine poskytuje súhrn poznatkov v záujme všeobecného
+objasnenia problematiky a v praktickej časti je aplikovaný mechanizmus výberu lokality
+na základe analýz a komparácií viacerých alternatív.
+Napriek tomu, že sme realizované skúmanie spracovávali na hypotetickej úrovni
+(teda sme uvažovali o alokácii fiktívneho podniku – prevádzky vykonštruovanej pekárne),
+k analýzam sme pristupovali zodpovedne a využili sme k nim reálne a aktuálne
+ekonomické a štatistické ukazovatele. Práve tento fakt považujeme za limitujúci aspekt
+skúmania, pretože absencia konkrétneho podnikateľského zámeru (napr. jeho rozpočtových
+možností, konkrétnych preferencií a pod.) čiastočne zúžila pohľad na riešenie daného
+problému.
+
+V danom spracovaní sme zvolili pomerové ukazovatele vzhľadom
+
+k obyvateľstvu a polohe. Ak by sme mali zistiť napríklad konkrétny počet zamestnancov,
+potrebných na reálnu prevádzku pekárne, bolo by potrebné rozhodovať aj na základe
+ostatných faktorov, ktoré už nie sú kvantifikovateľné, avšak môžu mať rozhodujúci vplyv.
+Máme však za to, že ciele stanovené pre spracovanie diplomovej práce sme naplnili
+v adekvátnom rozsahu, nakoľko sme vytipovali niekoľko možných lokalít s ohľadom
+na porovnateľné podmienky v kontexte zadania, dôkladne sme ich jednotlivo analyzovali
+v rôznych
+
+kvantifikovateľných
+
+aspektoch
+
+(trhových,
+
+podnikovo-hospodárskych,
+
+lokalizačno-právnych a infraštruktúrnych) a získané dáta sme vzájomne porovnali
+za účelom
+
+nájdenia
+
+vhodnej
+
+polohy
+
+pre
+
+umiestnenie
+
+prevádzky.
+
+Sumarizáciou
+
+a vyhodnotením všetkých aspektov sme dospeli k optimálnemu riešeniu a vybrali sme
+jednu konkrétnu lokalitu - v Banskej Štiavnici. Toto riešenie považujeme za nestranné
+a najvýhodnejšie lokalizačné rozhodnutie z troch východiskových alternatív.
+60
+
+POUŽITÉ ZDROJE
+ADAMIČKA, M. – DIVÉKYOVÁ, K. – POBIJAK, T. 2020. Konanie podnikateľa.
+Bratislava: Wolters Kluwer - Vydavateľstvo právnickej a ekonomickej literatúry. 120
+s. ISBN 978-80-7598-975-8.
+BAČÍK, M. 2010. Demografické disparity regiónov Slovenska na úrovni NUTS II. In:
+Geografické informácie č. 14/2010, Edícia: Prírodovedec. Nitra: Univerzita
+Konštantína Filozofa v Nitre - Fakulta prírodných vied, 2010. ISSN 1337-9453, s. 7
+– 19.
+BANSKASTIAVNICA.SK. 2024. Parkovanie – Banská Štiavnica. [online]. [cit. 2024-0226].
+
+Dostupné z: < https://www.banskastiavnica.sk/obcan/verejny-poriadok-a-
+
+doprava/parkovanie/˃.
+BOBOVNICKÝ, A. 2006. Marketing pre medzinárodné trhy - Učebný text pre predmet
+Globálny marketing. [online]. Bratislava: Univerzita Sv. Cyrila a Metoda Trnava Fakulta masmediálnej komunikácie - Katedra marketingovej komunikácie, 2006.
+72 s.
+
+[cit.
+
+Dostupné
+
+2024-02-26].
+
+z:
+
+<https://school.valdner.com/data/FMK%20UCM%20TT/4roc%20%20Globalny%20marketing/marketing%20pre%20medzinarodne%20trhy.pdf˃.
+BOĎO, D. 2006. Marketing pre stredné školy, I. časť. Bratislava: Metodicko-pedagogické
+centrum Bratislavského kraja v spolupráci s Učiteľským neinvestičným fondom,
+2006. ISBN 80 – 7164 – 402 – 1.
+BOROVSKÝ, J. 2020. Podnikanie – prednáška. Bratislava: Univerzita Komenského,
+Fakulta managementu - Katedra stratégie a podnikania. [online]. [cit. 2024-02-26].
+Dostupné
+
+z:
+
+<https://school.valdner.com/data/FM%20UK%20BA/3roc%20-
+
+%20Podnikanie/podnikanie_prednasky.ppt˃.
+BUSSARD, A. a kol. 2019. Spoločensky zodpovedné podnikanie - Prehľad základných
+princípov a príkladov. Bratislava: Nadácia Integra, Nadácia Pontis, PANET, 2019.
+[online]. [cit. 2024-03-03].
+
+Dostupné z: <https://www.nadaciapontis.sk/wp-
+
+content/uploads/2019/01/text_zodpovedne_podnikanie.pdf˃.
+CIBÁKOVÁ, V. – CIBÁK, Ľ. – RÓZSA, Z. 2014. Marketing služieb.: Trenčín: Inštitút
+aplikovaného manažmentu, VŠEM Bratislava, 2014. 269 s. 978-80-89600-22-9.
+CITROËN SK. 2024. Citroën Jumper a ë-Jumper Furgon. [online]. Bratislava: C
+Automobil
+
+Import,
+
+s.
+
+r.
+
+o.
+
+[cit.
+
+https://www.citroen.sk/modely/jumper.html˃.
+61
+
+2024-02-26].
+
+Dostupné
+
+z:
+
+<
+
+DATACUBE. 2024. Náklady práce. [online]. [cit. 2024-02-26].
+
+Dostupné z:
+
+<https://datacube.statistics.sk/˃.
+DRÁBEK, J. – HALAJ, D. 2010. Marketingové a investičné rozhodovanie podniku Vedecká monografia. Zvolen: Technická univerzita vo Zvolene, 2010. 105 s. ISBN
+978-80-228-2197-1.
+DUBRAVSKÁ, M. 2013. Lokalizačné faktory umiestňovania priamych zahraničných
+investícií. In Zborník vedeckých prác katedry ekonómie a ekonomiky ANNO 2013.
+Prešov: Prešovská univerzita v Prešove, 2013. s. ISBN 978-80-555-0848-1, 27 – 34.
+ELGAS. 2024. Cenník dodávky elektriny pre neregulovaných zákazníkov. [online].
+Považská Bystrica: ELGAS, s. r. o., 2024. [cit. 2024-04-03].
+
+Dostupné z: <
+
+https://www.elgas.sk/wpcontent/uploads/2024/02/Cennik_EE_nereg_od1_4_24.pdf˃.
+EUROEKONÓM. 2019. Pozicioning. Košice: Falcon Air s.r.o. - EuroEkonóm.sk otvorená internetová ekonomická encyklopédia. [online]. [cit. 2024-04-15].
+Dostupné z: <https://www.euroekonom.sk/pozicioning/˃.
+FÁZIKOVÁ, M. - HRIVNÁK, M. – VARECHA, L. 2023. Regionálna ekonomika. Nitra:
+Slovenská poľnohospodárska univerzita v Nitre vo Vydavateľstve SPU - Fakulta
+európskych štúdií a regionálneho rozvoja, Ústav regionalistiky a rozvoja vidieka,
+2023. 179 s. ISBN 978-80-552-2586-9.
+FINREPOR. 2024. Mzdová kalkulačka In: Financial Report - odborný ekonomický a
+nezávislý finančný magazín. [online]. Bratislava: Financial Report s.r.o., 2024. [cit.
+Dostupné
+
+2024-02-26].
+
+z:
+
+<https://www.finreport.sk/kalkulacky/mzdova-
+
+kalkulacka-basic/˃.
+GUBÁŇOVÁ, M. – HANÁČKOVÁ, D. 2014. Dôležitosť lokalizačných faktorov pre
+alokáciu podnikov v priestore. In Ekonomika – Management – Inovace, nezávislý
+odborný open access časopis. Roč. 6, č. 3/2014. Olomouc: Moravská vysoká škola
+Olomouc, 2014. ISSN 1804-1299, s. 14 – 22.
+HOLÁ, M. – HROMÁDKA, V. 2013. Marketing území. In: Construction Maeconomics
+Conference 2013. Praha: České vysoké učení technické v Prahe - Stavebná fakulta.
+ISBN 978-80-01-05641-7.
+HORVÁTHOVÁ, M. 2010. Marketingový mix územia. In: Zborník z vedeckých prác
+katedry ekonómie a ekonomiky ANNO 2010. Prešov: Prešovská univerzita v Prešove,
+2010. ISBN
+
+978-80-555-0226-7, s. 72 – 88.
+
+62
+
+HUDEC, O. a kol. 2009. Podoby regionálneho a miestneho rozvoja. Košice: Technická
+univerzita Košice - Ekonomická fakulta, 2009. 345 s. ISBN 978-80-553-0117-4.
+CHANDRASHEKAR, D. 2023. Aké povinnosti majú výskumníci trhu? [online]. [cit. 202402-26]. Dostupné z: <https://www.marketinginasia.com/sk/ak%C3%A9-povinnostim%C3%A1-prieskumn%C3%ADk-trhu/˃.
+CHMIELOVÁ, P. – TUREČKOVÁ, K. 2019. Vývoj počtu podnikatelských subjektů v
+jednotlivých krajích České republiky. In
+
+XXII. mezinárodní kolokvium o
+
+regionálních vědách - Sborník příspěvků Velké Bílovice 12.–14. 6. 2019. Brno:
+Masarykova univerzita Ekonomicko-správní fakulta, Katedra regionální ekonomie
+a správy, 2019. ISBN 978-80-210-9268-6, s. s. 100 – 109.
+INŠTITÚT ZAMESTNANOSTI. 2024. Región Bratislava a jej spádové okresy. [online].
+[cit.
+
+2024-03-21].
+
+Dostupné
+
+z:
+
+<
+
+https://www.iz.sk/sk/projekty/regiony-
+
+slovenska/bratislava˃.
+KASALA, K. 2010. Metodologické aspekty výskumu ekonomickej transformácie lokalít.
+In 50 let geografie na Přírodovědecké fakultě Univerzity Palackého v Olomouci:
+sborník příspěvků z konference. Olomouc: Univerzita Palackého v Olomouci, 2010.
+ISBN 978-80-244-2493-4, s. 367 – 371.
+KITA, P. a kol. 2016. Obchodná prevádzka – vybrané problémy. Bratislava: Ekonomická
+univerzita v Bratislave - Vydavateľstvo Ekonóm, 2016. 95 s. ISBN 978-80-2254349-1.
+KLAMÁR, R. - ROSIČ, M. 2010. Image regiónu ako mäkký faktor percepcie rozvoja. In
+50 let geografie na Přírodovědecké fakultě Univerzity Palackého v Olomouci:
+sborník příspěvků z konference. Olomouc: Univerzita Palackého v Olomouci, 2010.
+ISBN 978-80-244-2493-4, s. 376 – 380.
+KOLEJKA, J. – KIRCHNER, K. 2010. Zamyšlení: Fyzická geografie – vize české vědy
+pro 21. století. In 50 let geografie na Přírodovědecké fakultě Univerzity Palackého v
+Olomouci: sborník příspěvků z konference. Olomouc: Univerzita Palackého v
+Olomouci, 2010. ISBN 978-80-244-2493-4, s. 105 – 115.
+KOREC, P. – TOLMÁČI, L. 2019. Všeobecná geografia 2. Bratislava: Univerzita
+Komenského v Bratislave – Prírodovedecká fakulta, 2019. 48 s. [online]. [cit. 202401-11]. Dostupné z: <https://slideplayer.com/slide/14357322/˃.
+KOTULIČ, R. – MARCHEVSKÁ, M. 2014. Lokalizácia maloobchodnej siete a jej
+koncentrácia v regiónoch Slovenskej republiky. In: Acta academica karviniensia:
+
+63
+
+vědecký recenzovaný časopis, č. 3/2014. Karviná: Slezská univerzita v Opavě,
+Obchodně podnikatelská fakulta, 2014. ISSN 1212-415X, s. 112 – 123.
+KOVÁČ, M. – SABADKA, D. – KOVÁČOVÁ, Ľ. 2013. Malé podnikanie – publikácia.
+Košice: Technická univerzita v Košiciach, Strojnícka fakulta - Ústav technológií
+a manažmentu, Inovačné centrum AV, 2013. [online]. [cit. 2023-10-13]. Dostupné z:
+<https://www.sjf.tuke.sk/kav/images/skript_stud_mat/podnikanie.pdf˃.
+KUHNA, I. 2018. Banskú Štiavnicu ročne navštívi pol milióna ľudí, má to však aj
+odvrátené stránky: Turistov preklínajú aj vítajú. [online]. Bratislava: News and
+Media Holding a.s., 2018. [cit. 2024-02-26]. Dostupné z: <Banskú Štiavnicu ročne
+navštívi pol milióna ľudí, má to však aj odvrátené stránky: Turistov preklínajú aj
+vítajú | Nový Čas (cas.sk)˃.
+MELICHOVÁ, K. – VARECHA, L. – STRNÁL, M. 2018. Lokalizačné tendencie a
+faktory kultúrnych a kreatívnych odvetví vo vidieckych a periférnych regiónoch
+Slovenska – prípadová štúdia. In Kontexty kultúry a turizmu. Číslo 1, rok 2018. ISSN
+1337-7760, s. 7 – 27.
+MPSVaR SR. 2024. Ministerstvo práce spúšťa projekt na pomoc nezamestnaným za tristo
+miliónov eur. Bratislava: Ministerstvo práce, sociálnych vecí a rodiny SR, 2024.
+[online].
+
+[cit.
+
+2024-02-26].
+
+Dostupné
+
+z:
+
+<https://index.sme.sk/c/23295868/ministerstvo-prace-spusta-projekt-na-pomocnezamestnanym-za-tristo-milionov-eur.html˃.
+MURGAŠ, F. 2010. Priestorová diferenciácia kvality života v krajoch Slovenska. In 50 let
+geografie na Přírodovědecké fakultě Univerzity Palackého v Olomouci: sborník
+příspěvků z konference. Olomouc: Univerzita Palackého v Olomouci, 2010. ISBN
+978-80-244-2493-4, s. 465.
+MV SR, 2024. Výroba pekárskych a cukrárskych výrobkov. Bratislava: Ministerstvo vnútra
+SR, 2024. [online]. [cit. 2024-02-26]. Dostupné z: < https://www.minv.sk/?vyrobapekarskych-a-cukrarskych-vyrobkov˃.
+NEHNUTEĽNOSTI SK. 2024. Reality, špecialisti na realitnú inzerciu. [online]. [cit.
+2024-02-26]. Dostupné z: < https://www.nehnutelnosti.sk/˃.
+NEWMAGAZINEROOM. 2020. Územný marketing je všeobecný pojem podstaty
+rozmanitosti - teritoriálny marketing. [online]. [cit. 2024-04-15].
+
+Dostupné z:
+
+<https://newmagazineroom.ru/sk/income-tax/territorialnyi-marketing-obshcheeponyatie-sushchnost-raznovidnosti-territorialnyi-marketing-etapy-evo/˃.
+
+64
+
+OLSAVSKY, F. 2019. Marketing územnej jednotky ako jednotky životného priestoru. In:
+Marketingová veda a inšpirácie/Marketing Science & Inspirations, č. 14/2019, roč.
+4. Bratislava: Univerzita Komenského v Bratislave - Fakulta managementu, Katedra
+marketingu, 2019. ISSN 1338-7944, s. 25–41.
+PAAS. 2024.
+
+Parkovací asistent PAAS Bratislava. [online]. Bratislava: Magistrát
+
+hlavného mesta SR Bratislavy, 2024. [cit. 2024-02-26].
+
+Dostupné z: <
+
+https://paas.sk/en/home/˃.
+POPJAKOVÁ, D. – MINTÁLOVÁ, T. 2020. Teoreticko-metodologické kapitoly z
+geografie priemyslu: vývoj objektu výskumu geografie priemyslu. In Geografická
+revue - roč. 16, č. 2/2020 - recenzovaný vedecký časopis. Banská Bystrica:
+Vydavateľstvo Univerzity Mateja Bela – Belianum, Katedra geografie a geológie
+Fakulty prírodných vied UMB v Banskej Bystrici, 2020. ISSN 2585-8947, s. 26 – 50.
+PROFESIA.SK. 2024. Práca, zamestnanie, ponuka práce, brigády, voľné pracovné miesta.
+[online]. [cit. 2024-02-26]. Dostupné z: <https://www.profesia.sk/˃.
+RUDA, A. 2009. Hodnocení a vizualizace potenciálu cestovního ruchu nástroji GIS na
+příkladu malého území. In Geografické aspekty středoevropského prostoru - 1. díl.
+Brno: Masarykova univerzita, 2009. ISBN 978-80-210-4947-5, s. 71 – 83.
+RUSNÁK, J. – KOREC, P. 2020. Teórie regionálneho rozvoja a výskum regiónov.
+Bratislava: Prírodovedecká fakulta Univerzity Komenského v Bratislave - Katedra
+ekonomickej a sociálnej geografie, demografie a územného rozvoja, 2020. 219 s.
+ISBN 978-80-223-5059-4.
+SLÁVIK, Š. a kol. 2014. Podnikateľské modely. Bratislava: Vydavateľstvo Ekonóm Ekonomická univerzita v Bratislave - Fakulta podnikového manažmentu, 2014. 245
+s. ISBN 978-80-275-3986-9.
+SOŠD. 2004. Dopravná geografia. Prešov: Stredná odborná škola dopravná. [online]. [cit.
+Dostupné
+
+2024-01-11].
+
+z:
+
+<http://www.soudpo.edu.sk/Predmety/Dopravna%20geografia.pdf˃.
+SPP. 2024. Ceny plynu - SPP | Váš dodávateľ energií [online]. Bratislava: Slovenský
+plynárenský
+
+priemysel
+
+a.s.,
+
+2024.
+
+[cit.
+
+2024-02-26].
+
+Dostupné
+
+z:
+
+<https://www.spp.sk/domacnosti/plyn/tarify-a-cenniky-plynu/˃.
+ŠRENKEL, Ľ. 2016. Malý, stredný alebo mikro podnik – veľkostné kritériá. Podnikajte.sk.
+[online]. [cit. 2024-04-15].
+
+Dostupné z: < https://www.podnikajte.sk/podpora-
+
+podnikania/maly-stredny-mikro-podnik˃.
+
+65
+
+SVATOŇOVÁ, H. – KOLEJKA, J. 2009. Užitečná geografie – vize použitelnosti fyzické
+geografie. In Geografické aspekty středoevropského prostoru - 2. díl. Brno:
+Masarykova univerzita, 2009. ISBN 978-80-210-5101-0, s. 25 – 34.
+STOPKA, O. – ŠULGAN, M. 2011. Výsledky SWOT analýzy súvisiacej s lokalizáciou
+nových skladových hál na území Slovenska. In: Perner's Contacts - Ročník 6., Číslo
+I., apríl 2011 - elektronický recenzovaný časopis. Pardubice: Dopravní fakulta Jana
+Pernera, Univerzity Pardubice, 2011. ISSN 1801-674X, s. 342 – 348.
+ŠUTEKOVÁ, H. 2022. Marketing v kocke – základy tradičného marketingu.
+Vysokoškolská učebnica. Žilina: Žilinská univerzita v Žiline - Katedra mediamatiky a
+kultúrneho dedičstva - Fakulta humanitných vied, 2022. ISBN 978-80-89832-29-3.
+VODAPORTAL. 2024. Ceny vodného a stočného. [online]. Bratislava: PROPERTY &
+ENVIRONMENT s. r. o., 2024. [cit. 2024-02-26]. Dostupné z: < https://www.vodaportal.sk/Dokument/ceny-vodneho-a-stocneho-v-roku-2022-101417.aspx˃.
+VOJTECH, F. – MIŽIČKOVÁ, J. – LEVICKÝ, M. 2019. Vplyv faktorov právneho
+prostredia na rodinné podniky v regiónoch slovenskej republiky. In
+
+XXII.
+
+mezinárodní kolokvium o regionálních vědách - Sborník příspěvků Velké Bílovice
+12.–14. 6. 2019. Brno: Masarykova univerzita Ekonomicko-správní fakulta, Katedra
+regionální ekonomie a správy, 2019. ISBN 978-80-210-9268-6, s. 117 – 124.
+
+66
+
+

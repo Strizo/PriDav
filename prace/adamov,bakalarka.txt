@@ -1,0 +1,2575 @@
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA EKONÓMIE A PODNIKANIA
+FEP-11144-16445
+
+PODNIKATEĽSKÉ PROSTREDIE V KRAJINÁCH
+EURÓPSKEJ ÚNIE
+Bakalárska práca
+
+2022
+Andrej Adamov
+
+PANEURÓPSKA VYSOKÁ ŠKOLA
+FAKULTA EKONÓMIE A PODNIKANIA
+
+PODNIKATEĽSKÉ PROSTREDIE V KRAJINÁCH
+EURÓPSKEJ ÚNIE
+Bakalárska práca
+Andrej Adamov
+
+Študijný program:
+
+Ekonomika a manažment podnikania
+
+Študijný odbor:
+
+Ekonómia a manažment
+
+Ústav:
+
+Ústav ekonomiky
+
+Vedúci bakalárskej práce:
+
+Ing. Ivan Brezina, PhD.
+
+2022
+Andrej Adamov
+
+ČESTNÉ VYHLÁSENIE
+
+Čestne vyhlasujem, že bakalársku prácu som vypracoval samostatne, neporušil som
+autorský zákon a použitú literatúru som uviedol na príslušnom mieste.
+
+V Bratislave dňa ......................................
+
+...................................................................
+Andrej Adamov
+
+POĎAKOVANIE
+
+Poďakovanie patrí školiteľovi bakalárskej práce Ing. Ivanovi Brezinovi, PhD.
+za jeho odborné vedenie a metodickú pomoc, ktoré mi poskytol pri jej vypracovaní.
+
+Abstrakt
+Adamov Andrej: Podnikateľské prostredie v krajinách Európskej únie, Bakalárska práca.
+Paneurópska vysoká škola. Fakulta ekonómie a podnikania. Školiteľ: Ing. Ivan Brezina,
+PhD. Stupeň odbornej kvalifikácie: Bakalár. Bratislava: PEVŠ, 2022. 57 s.
+
+Bakalárska práca sa zaoberá podnikateľským prostredím v krajinách Európskej únie.
+Jej cieľom je porovnať podnikateľské prostredie v krajinách Európskej únie na základe
+kvantitatívnych ukazovateľov. Vysoká aktuálnosť a spoločenská závažnosť problematiky
+nás priviedla k spracovaniu predkladanej témy. Práca má teoreticko-analytický charakter
+a zaoberá sa analýzou situácie v rámci vybraných krajín EÚ. V teoretickej časti uvedieme
+východiská riešenej problematiky, definujeme základnú terminológiu a charakterizujeme
+aspekty podnikateľského prostredia v Slovenskej republike a vo vybraných európskych
+krajinách. V empirickej časti porovnáme analytické údaje a prezentujeme výsledky analýz
+podnikateľského prostredia Slovenska a jednotlivých krajín. Prameňmi pre spracovanie
+bakalárskej práce sú odborné materiály od fundovaných autorov, monografie a príspevky
+z vedeckých konferencií z ekonomickej oblasti, ktoré sa zaoberajú problematikou
+podnikateľského prostredia.
+Kľúčové slová
+Podnikanie.
+
+Podnikateľské
+
+Vyšehradská skupina.
+
+prostredie.
+
+Ekonomické
+
+ukazovatele.
+
+Európska
+
+únia.
+
+Abstract
+Adamov Andrej: Business environment in European Union countries, Bachelor thesis. Pan
+European University. Faculty of Economics and Business. Advisor: Ing. Ivan Brezina, PhD.
+Degree of professional qualification: Bachelor. Bratislava: PEVŠ, 2022. 57 p.
+
+The bachelor thesis deals with the business environment in the countries of the European
+Union. Its goal is to compare the business environment in the countries of the European
+Union based on quantitative indicators. The high topicality and social importance of the
+issue led us to work on the presented topic. The work has a theoretical-analytical character
+and deals with the analysis of the situation within selected EU countries. In the theoretical
+part, we present the starting points of the solved problem, define the basic terminology and
+characterize aspects of the business environment in the Slovak Republic and in selected
+European countries. In the empirical part, we will compare analytical data and present the
+results of analyzes of the business environment of Slovakia and individual countries. The
+sources for processing the bachelor's thesis are professional materials from established
+authors, monographs and contributions from scientific conferences in the economic field,
+which deal with issues of the business environment.
+
+Keywords
+Business. Business environment. Economic indicators. European Union. Visegrád Group.
+
+ZOZNAM ILUSTRÁCIÍ
+
+Obrázok 1
+
+Mikro a makroprostredie podniku
+
+Obrázok 2
+
+Prostredie pre ekonomiky a podniky
+
+Obrázok 3
+
+Štruktúra podnikateľského prostredia
+
+Obrázok 4
+
+Schéma nástrojov podpory podnikania
+
+Obrázok 5
+
+Vývoj početnosti MSP v období 2016-2020
+
+Obrázok 6
+
+Odvetvová štruktúra MSP v r. 2020
+
+Obrázok 7
+
+Vznik, zánik a čistý prírastok podnikateľských subjektov v r. 2020
+
+Obrázok 8
+
+Početnosť novelizácií kľúčových zákonov ovplyvňujúcich podnikateľské
+prostredie
+
+Obrázok 9
+
+Vývoj celkového skóre GCI indexu krajín V4 (2009 – 2017)
+
+Obrázok 10
+
+Vývoj celkového skóre WCI indexu krajín V4 (2009 – 2018)
+
+Obrázok 11
+
+Sieťový diagram rakúskeho podnikateľského prostredia
+
+ZOZNAM TABULIEK
+
+Tabuľka 1
+
+Prehľad obchodných spoločností, ktoré boli založené v rokoch 2017 – 2021
+
+Tabuľka 2
+
+Počet aktívnych podnikateľských subjektov podľa veľkostných kategórií
+(2019 a 2020)
+
+Tabuľka 3
+
+Schválené reformy na zlepšenie podnikateľského prostredia na Slovensku
+
+Tabuľka 4
+
+Počet
+
+aktívnych
+
+podnikateľských
+
+subjektov
+
+na
+
+Slovensku
+
+podľa
+
+veľkostných kategórií podnikov, 2019-2020
+Tabuľka 5
+
+Stav a medziročný vývoj MSP na Slovensku podľa právnych foriem,
+2019- 2020
+
+Tabuľka 6
+
+Počet zmien najdôležitejších zákonov pre podnikateľov v rokoch 2015
+až 2020
+
+Tabuľka 7
+
+Dopady COVID-19 na funkčnosť prevádzky podnikov jednotlivých
+krajín V4
+
+Tabuľka 8
+
+Medzinárodné porovnanie s krajinami Európy a krajinami s vysokým
+príjmom
+
+Tabuľka 9
+
+Umiestnenie Slovenska v rebríčkoch WCI indexu (2009 – 2019)
+
+Tabuľka 10
+
+Umiestnenie krajín V4 vo vybraných ekonomických indexoch
+
+Obsah
+ÚVOD .................................................................................................................................. 11
+1
+
+SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY DOMA A V ZAHRANIČÍ ........ 12
+1.1
+
+Teoretické východiská .......................................................................................... 12
+
+1.1.1
+
+Podnik ............................................................................................................ 12
+
+1.1.2
+
+Podnikanie ..................................................................................................... 14
+
+1.1.3
+
+Podnikateľ ...................................................................................................... 16
+
+1.1.4
+
+Podnikateľské prostredie ............................................................................... 17
+
+1.2
+
+Faktory ovplyvňujúce podnikateľské prostredie ................................................... 21
+
+1.3
+
+Všeobecná charakteristika podnikateľského prostredia na Slovensku a v okolitých
+
+krajinách........................................................................................................................... 24
+
+2
+
+3
+
+1.3.1
+
+Slovenská republika ....................................................................................... 24
+
+1.3.2
+
+Európska únia ................................................................................................ 28
+
+1.3.3
+
+Vyšehradská skupina ..................................................................................... 29
+
+1.3.4
+
+Rakúsko ......................................................................................................... 32
+
+1.3.5
+
+Ukrajina ......................................................................................................... 33
+
+CIEĽ PRÁCE ............................................................................................................... 35
+2.1
+
+Hlavný cieľ práce .................................................................................................. 35
+
+2.2
+
+Špecifické ciele práce ............................................................................................ 35
+
+2.2.1
+
+Zber relevantných údajov o podnikateľskom prostredí vybraných krajín ..... 35
+
+2.2.2
+
+Analýza jednotlivých zhromaždených dát ..................................................... 35
+
+2.2.3
+
+Vzájomná komparácia ................................................................................... 35
+
+METODIKA PRÁCE A METÓDY SKÚMANIA ...................................................... 36
+3.1
+
+Výskumný problém (objekt skúmania) ................................................................. 36
+
+3.2
+
+Základný súbor a skúmaná vzorka ........................................................................ 36
+
+3.3
+
+Organizácia skúmania ........................................................................................... 36
+
+3.4
+
+Metódy práce ......................................................................................................... 37
+
+4
+
+VÝSLEDKY PRÁCE .................................................................................................. 38
+4.1
+
+Analýza podnikateľského prostredia SR ............................................................... 38
+
+4.2
+
+Komparácia podnikateľských prostredí SR s okolitými krajinami ....................... 43
+
+4.3
+
+Diskusia a odporúčania pre prax ........................................................................... 47
+
+ZÁVER ................................................................................................................................ 50
+POUŽITÉ ZDROJE ............................................................................................................. 51
+
+ÚVOD
+„Kedykoľvek
+
+vidíte
+
+úspešné
+
+podnikanie,
+
+tak ktosi niekedy urobil odvážne rozhodnutie“
+Peter Drucker - rakúsky ekonóm a spisovateľ
+(1909 – 2005)
+Bakalárska práca sa zaoberá podnikateľským prostredím v krajinách Európskej únie.
+Jej cieľom je porovnať podnikateľské prostredie v krajinách Európskej únie na základe
+kvantitatívnych ukazovateľov.
+Vysoká aktuálnosť a spoločenská závažnosť problematiky nás priviedla k spracovaniu
+predkladanej témy. Ako píšu Horvátová, Gregová a Hrašková (2020, s. 49 - 50),
+„nevyhnutným predpokladom dlhodobého a stabilného napredovania krajín je priaznivé
+podnikateľské prostredie a poskytovanie vhodných foriem podpory pre vznik a rozvoj
+malých a stredných podnikov, ktoré sú unikátnym zdrojom nových myšlienok,
+podnikateľských nápadov, ekonomického rastu a kľúčovým poskytovateľom pracovných
+príležitostí, čím sa stávajú oporou ekonomiky a základom konkurencieschopnosti krajiny.
+Problematika ich efektívnej podpory je vysoko aktuálna zvlášť v súčasnosti, kedy je celkový
+význam malých a stredných podnikov pre udržanie hospodárskeho rastu a rezistencie
+krajiny voči externým šokom rozhodujúci“.
+Práca má teoreticko-analytický charakter a zaoberá sa analýzou situácie v rámci
+vybraných krajín EÚ. V teoretickej časti uvedieme východiská riešenej problematiky,
+za účelom uvedenia do problematiky stručne opíšeme
+charakterizujú
+
+podnikateľské
+
+a charakterizujeme
+
+aspekty
+
+vývoj a podmienky, ktoré
+
+prostredie,
+
+definujeme
+
+podnikateľského
+
+prostredia
+
+základnú
+
+terminológiu
+
+v Slovenskej
+
+republike
+
+a vo vybraných európskych krajinách.
+V empirickej časti porovnáme analytické údaje a prezentujeme výsledky analýz
+podnikateľského prostredia Slovenska a jednotlivých krajín.
+Prameňmi pre spracovanie bakalárskej práce sú odborné materiály od fundovaných
+autorov, monografie a príspevky z vedeckých konferencií z ekonomickej oblasti, ktoré
+sa zaoberajú problematikou podnikateľského prostredia.
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY DOMA
+A V ZAHRANIČÍ
+Za
+
+účelom
+
+komplexného
+
+porozumenia
+
+problematiky
+
+uvádzame
+
+základnú
+
+terminológiu, použitú v bakalárskej práci, definujeme jednotlivé pojmy a charakterizujeme
+ich významy.
+
+1.1 Teoretické východiská
+Podľa Maceka (2019) je kľúčovou podmienkou pre udržateľný ekonomický rast,
+rozvoj podnikania a konkurencieschopnosti krajiny v globálnom rozsahu kvalita
+podnikateľského prostredia. Z tohto dôvodu je hlavne v kompetencii vládnych organizácií
+prostredníctvom stimulácie kapitálu, tvorby pracovných miest a zefektívňovania pracovnej
+produktivity vytvárať vhodné podmienky pre podnikateľské prostredie.
+
+1.1.1 Podnik
+Základnou jednotkou podnikania, v ktorej sa uskutočňuje výroba alebo poskytujú služby
+je podnik (ekonomický subjekt, hospodárska jednotka). Môže ním byť právnická osoba
+(zapísaná v Obchodnom registri) alebo fyzická osoba (zapísaná v Živnostenskom registri).
+Podnik považujeme za určitý systém ako základný článok ekonomiky a základnú
+hospodársku jednotku vyrábajúcu statky, meniacu vstupy na výstupy, ako celok skladajúci
+sa z viacerých častí alebo prvkov, ktoré sú prepojené usporiadanými vzťahmi.
+Ide o účelovo organizovanú hospodársku jednotku, na produkovanie a predaj vecných
+statkov a služieb. So zámerom uspokojovania rozličných ľudské potreby. Jeho kľúčovou
+funkciou je podnikateľská činnosť – ide teda o podnikateľský subjekt s primárnym cieľom
+dosahovania zisku (Ižová, 2017).
+Čiernik (2021) tvrdí, že pod pojmom podnikanie rozumieme činnosť, aktivitu, ktorá
+je založená na využití poznatkov a skúseností každého pracovníka.
+Kľúčoví aktéri podniku:
+-
+
+Vlastníci do podniku vkladajú hmotný, nehmotný a finančný kapitál. Robia
+tak preto, že očakávajú maximalizáciu zúročenia vloženého kapitálu.
+
+12
+
+-
+
+Zamestnanci do podniku vkladajú svoju prácu, teda svoju kvalifikáciu, čas
+a fyzické či duševné úsilie.
+
+-
+
+Odberatelia podniku poskytujú finančné prostriedky z titulu úhrady za podnikom
+poskytnuté výrobky či služby. Oproti tomu očakávajú, že podnik bude ústretovým
+a spoľahlivým partnerom, ktorý za primeranú cenu poskytuje kvalitné výrobky
+či služby. Vo vzťahu podnik - odberatelia je prevaha moci obvykle na strane
+odberateľov. To súvisí so všeobecne prevládajúcim previsom ponuky nad dopytom.
+
+-
+
+Dodávatelia podniku poskytujú svoje výrobky a služby. Pritom očakávajú,
+že podnik bude stabilným a solventným zákazníkom, s ktorým je možné
+sa dohodnúť na dobrej cene a ktorý spoľahlivo hradí svoje záväzky. Vo vzťahu
+podnik - dodávatelia je prevaha moci obvykle na strane podniku. To súvisí,
+rovnako ako v predchádzajúcom prípade, s previsom ponuky nad dopytom.
+
+-
+
+Veritelia podniku požičiavam finančné prostriedky. Očakávajú maximalizáciu
+zúročenia úverov a ich návratnosť. Veľa veriteľov vyplýva z ich schopnosti
+poskytnúť úver, poprípade jeho poskytnutie odmietnuť.
+
+-
+
+Štát podniku poskytuje verejné statky, právo, infraštruktúru, prípadne rôzne formy
+podpory. Očakáva pritom riadne odvádzanie daní a plnenie ďalších povinností
+daných právnymi predpismi, zabezpečovanie zamestnanosti, pomoc pri rozvoji
+infraštruktúry, sponzorovanie verejnoprospešnej činnosti a pod. Moc štátu vyplýva
+z jeho právomoci vydávať právne predpisy a zo schopnosti prinútiť podnik
+k ich rešpektovaniu (Blažek, 2016).
+
+Mikropodniky a malé a stredné podniky (MSP) sú podľa
+
+Európskej komisie (2020)
+
+hybnou silou európskeho hospodárstva, pretože tvorbou pracovných miest vytvárajú
+sociálnu stabilitu a hospodársky rast krajiny. Z tohto dôvodu patrí k prioritám EÚ
+podporovať potenciál podnikania a zlepšovať podnikateľské prostredie pre MSP.
+„Podnik predstavuje základnú jednotku ekonomického systému, ako živý mechanizmus
+nachádzajúci sa v zložitých väzbách s rôznymi záujmovými skupinami. Podniky sa odlišujú
+tak spôsobom vzniku, spôsobom hospodárenia, ručením záväzkov a pod., avšak spoločným
+znakom všetkých podnikov je skutočnosť, že sa nachádzajú a pôsobia v istom
+podnikateľskom prostredí“ (Grman, Švikruhová, Kataníková, 2019, s. 51).
+Nasledujúci obrázok č. 1 ilustruje mikro a makroprostredie podniku so všetkými jeho
+atribútmi, z ktorého je zrejmá vnútorná a vonkajšie štruktúra podniku.
+
+13
+
+Zdroj: Ižová, 2017, s. 20
+Obrázok 1
+
+Mikro a makroprostredie podniku
+
+MSP predstavujú podľa Bukovovej (2016, s. 158) „veľmi dynamický segment podnikov,
+pretože ich charakteristickým rysom je flexibilita, čiže schopnosť adaptácie na neustále
+sa meniace podmienky podnikateľského prostredia. Typickou črtou MSP je aj ich
+regionálnosť – ich efekty popri celonárodných pôsobia a zostávajú v danom regióne –
+poskytujú danému regiónu zamestnanosť a ekonomické prínosy, často sponzorujú
+i charitatívnu činnosť“
+
+1.1.2 Podnikanie
+Ižová, 2017 zaraďuje podnikanie v podstate k samostatným činnostiam, ide podľa
+nej o profesiu s vlastným spoločenským statusom (napríklad živnostník, stredný
+podnikateľ a podobne) a jej podmienky sú vymedzené určitými legislatívnymi normami.
+Nositeľom (vykonávateľom) tejto profesie je podnikateľ. Podnikanie je považované
+za dôležitú
+
+dynamickú silu trhovej ekonomiky. Má určité výhody (nezávislosť,
+
+autonómiu, možnosť vyššieho zárobku a iné) ale zároveň je náročné. Ižová (2017, s. 10)
+definuje podnikanie ako „ako nepretržitú, samostatnú, pod vlastným menom a na vlastnú
+zodpovednosť pravidelne sa opakujúcu činnosť podnikateľa, ktorej cieľom je zisk.“
+14
+
+Všeobecná tendencia posilňovania vplyvu faktorov vonkajšieho prostredia
+na prosperitu podniku, súvisiaca s neustále sa prehlbujúcou deľbou práce a rastom
+kooperácie, sa stále významnejšie premieta do vývoja teoretických konceptov nazerania na
+podnik (Blažek, 2016).
+Európska komisia vo svojom dokumente The Commission's Green paper: Entrepreneurship
+in Europe (in Čiernik, 2021, s. 23) uvádza: „že podnikanie je stav mysle a proces
+vytvárania a rozvíjania ekonomickej činnosti spojením kreativity, inovácie a ochoty niesť
+riziko s kvalitným manažmentom v rámci novej alebo existujúcej organizácie“.
+Podľa Papulu a kol. (2015) podnikanie potrebuje šikovné ruky, ale aj otvorenú myseľ,
+ktorá je vedená smädom po poznaní a sú
+
+doň kladené
+
+vysoké
+
+očakávania.
+
+Je posudzované viac ako praktická a pragmatická činnosť s technickými, prírodnými,
+ekonomickými, právnymi a manažérskymi aspektami.
+Ižová (2017) špecifikuje klasické podnikanie ako tradičné, konzervatívne podnikanie,
+ktorého podstata je maximálna výnosnosť zdrojov, riadenie výrobného procesu, vrátane
+vonkajších (pôžičky, protekcionizmus) a vnútorných faktorov (zvýšenie rentability
+a obnova sortimentu výrobkov). Naopak Inovatívne podnikanie spočíva vo vytvorení
+noviniek - statkov (tovarov a služieb), technológii, nových metód organizácie výroby
+a riadenia.
+Priebeh sprostredkovania kontinuity podniku je ovplyvňovaný rôznymi faktormi
+vonkajšieho prostredia podniku, ako aj internými činiteľmi v rámci podniku. Podnik musí
+flexibilne odpovedať na podmienky trhu a musí byť tiež zdatný reagovať na akékoľvek,
+či už kladné alebo záporné zmeny trhu. (Mošková, Buganová, 2021)
+Podnikanie na Slovensku podľa Čiernika (2021) nie je realizované iba na základe
+Obchodného zákonníka, ale aj na základe zákona č.455 /1991 Zb. živnostenského zákona
+v znení neskorších predpisov. Daná právna úprava ustanovuje vzťahy týkajúce podnikania
+na základe živnostenského oprávnenia a
+
+podmienky vykonávania na základe
+
+živnostenského oprávnenia.
+Dnešná generácia je typická nástupom znalostnej ekonomiky a informačného veku,
+čo vyvoláva eskalovanie počtu začínajúcich podnikov a napomáha tak vytvoreniu
+pozitívneho ekosystému pre inovatívnu formu podnikania (Svetozarovová, Nastišin, 2020).
+Pretože pre MSP je typický fenomén samozamestnania alebo samostatnej zárobkovej
+činnosti, čiže ide o podnikanie fyzickej osoby, ktoré sa môže stať podstatou
+ich ekonomickej sebestačnosti (Bukovová, 2016).
+
+15
+
+Podnik je v priamych interakciách vo svojom vnútri (interné prostredie podniku,
+resp. mikroekonomické), ktoré má bezprostredný vplyv na vlastný vývoj, súčasne na jeho
+priebeh vplýva vonkajšie okolie (externé prostredie podniku, resp. makroekonomické)
+v mnohých oblastiach, hlavne medziľudských vzťahoch, finančných, informačných,
+materiálnych a podobne (Dobrovič, 2016).
+Táncošová (2019, s. 169) píše, že „úloha malých a stredných podnikov je v každej
+ekonomike významná a ako bolo v stati uvedené, ovplyvňujú svojou činnosťou veľkosť
+HDP, regionálneho HDP, podieľajú sa na tvorbe pridanej hodnoty významnou mierou,
+sú najväčším zamestnávateľom, sú schopné dynamicky reagovať na voľný priestor na trhu
+a pod. MSP na Slovensku tvoria viac ako 99 % podiel z celkového počtu podnikateľských
+subjektov, sú najvýznamnejším zamestnávateľom, poskytujú okolo 73 % pracovných
+príležitostí a na tvorbe pridanej hodnoty sa podieľajú cca 55 %, čo naznačuje ich veľký
+význam“.
+Podnikanie patrí podľa Vojtecha a Levického (2019b) k príťažlivej aktivite, pretože
+umožňuje svojich činností zapájať aj ostatných členov rodiny. Význam a prínos malých
+a stredných podnikov v ekonomike krajín je už dlhodobou reálnou záležitosťou.
+
+1.1.3 Podnikateľ
+Podnikateľom sa podľa Vojtecha a Levického (2019b) môže človek stať ekonomicky
+nezávislý, môže nadobudnúť spoločenské postavenie, získať pocit voľnosti a slobody
+a rozhodovať o vlastnej činnosti slobodne a samostatne.
+Lorko (in Ižová, 2017, s. 17) charakterizuje podnikateľa nasledovne: „podnikateľ je človek
+schopný rozpoznávať a využívať perspektívne podnikateľské príležitosti na trhu, má
+k dispozícií kapitál na investovanie a je priamo zainteresovaný na zisku. Úspech
+podnikateľa a podnikavého človeka závisí od jeho motivácie, vonkajšieho prostredia,
+ale tiež od toho ako vie podnikať a ako vie uplatňovať podnikavý prístup. V tomto prípade
+hovoríme o osobných dispozíciách a predpokladoch človeka na podnikanie. Pri odbornej
+spôsobilosti existuje všeobecná spôsobilosť, jej súčasťou je podnikavosť, čiže schopnosť
+aplikovať podnikavý prístup“.
+Združenie podnikateľov Slovenska - ZPS je najstaršie slovenské podnikateľské združenie,
+ktoré háji prospech podnikateľov už od roku 1989. Snaží sa o dôrazné zníženie regulácie
+a prehľadné zákony. Rieši legislatívne problémy podnikateľov. Buduje priaznivý obraz
+podnikania a zlepšuje imidž podnikania u nepodnikateľskej verejnosti.
+
+16
+
+Medzi ďalšie
+
+aktivity združenia patrí vyhlasovanie rôznych podnikateľských súťaží a vedenie diskusií
+o dôležitých celospoločenských problémoch (ZPS, 2020).
+
+1.1.4 Podnikateľské prostredie
+Podnikanie prebieha v konkrétnom a reálnom prostredí, ktorého komplexný rámec
+predstavuje trhová ekonomika - trhový mechanizmus. Efektívne podnikateľské prostredie
+tvorí podmienky pre dlhodobo udržateľný ekonomický rast a tým je základným
+predpokladom prosperity podnikania a zvyšovania konkurencieschopnosti Slovenskej
+republiky v medzinárodných kritériách (Ižová, 2017).
+Stabilné a prosperujúce podnikateľské prostredie podľa Úradu vlády SR (2022) patrí medzi
+kľúčové úlohy vlády, pretože tvorí podmienky pre ekonomický a hospodársky rast.
+V rámci štátnej politiky je nutné pôsobiť na podnikateľské prostredie prostredníctvom
+skvalitňovania organizátorskej funkcie štátu ako rozvojom jednotlivých politík, tak ich
+účelnejšou a účinnejšou koordináciou.
+Vo vývoji znalostnej a podnikavej ekonomiky môže verejný sektor správnym nastavením
+nástrojov regionálnej politiky a legislatívneho rámca zohrať veľmi dôležitú úlohu. Táto
+úloha môže okrem spomínaného byť daná aj participáciou verejného sektora pri kultivácii
+podnikateľského prostredia, ktorého stav je pre rozvoj podnikavej a znalostnej ekonomiky
+tiež veľmi podstatný (Červinka, Tykva, 2010).
+Podnikateľské prostredie prechádza dynamickým vývojom, kedy kvantitatívne aspekty
+spojené najmä s rastom spotreby dopĺňajú aj aspekty kvalitatívneho charakteru, ktoré
+vychádzajú z premeny samotného myslenia na úrovni jedincov i podnikateľských
+subjektov. Tradičné shareholderské poňatie podniku v jednoznačnom cieli maximalizácie
+zisku tak postupne nahrádza stakeholderské poňatie, ktoré viac zodpovedá zložitej
+štruktúrovanosti ekonomických systémov a previazanej zmene hodnôt. Uplatňuje sa nový
+prístup k poňatiu konkurencie v podnikateľskom prostredí. Ide o zásadný prvok pre
+vytvorenie systematickej metódy strategickej analýzy podniku ako nevyhnutného
+východiska pre validné strategické riadenie, ktoré je schopné reflektovať smerodajné
+trendy v rámci podnikateľského prostredia a využívať tieto poznatky pre úspech podniku.
+Posúdenie stavu a trendov podnikateľského prostredia predvída nevyhnutnosť najprv prijať
+určitý náhľad na problematiku. Záujmovú veličinu v kontexte podnikového hospodárstva
+tvorí podnikateľský subjekt. Ten vykonáva činnosť uspokojovania potrieb vo vytváraní
+určitej hodnoty. Nedeje sa tak však v zameniteľných podmienkach všeobecného
+podnikateľského prostredia, ale v kontexte určitej trhovej štruktúry, determinovanej
+17
+
+konkurenciou. Konkurencia je tak významným činiteľom podnikateľského prostredia,
+predznamenávajúcim do istej miery jeho ďalší vývoj a pôsobenie aktuálnych trendov.
+Rovnako sa v dôsledku rozvoja hospodárskych podmienok mení aj uchopenie konkurencie
+z hľadiska strategického riadenia (Cenek, 2016).
+V reálnych otázkach regionálneho rozvoja je úroveň podnikateľského prostredia závislá na
+komunikácii a stupni dôvery medzi všetkými prítomnými aktérmi (kúpyschopnosť
+miestnych obyvateľov, zastúpenie samosprávy, vízie podnikateľov, občianskych
+aktivistov) (Rusnák, Korec, 2020).
+Globálne prostredie vytvára komplikovaný súbor vzťahov a väzieb. Obrázok 2 ilustruje
+okruh prostredia pre ekonomiky a podnik. (Kuzmišinová, 2013).
+
+Zdroj: Kuzmišinová, 2013, s. 19
+Obrázok 2
+
+Prostredie pre ekonomiky a podniky
+
+Podnikateľské prostredie je komplex politických, právnych, inštitucionálnych a právnych
+podmienok, ktoré ovplyvňujú podnikanie. Poňatie podnikateľského prostredia z hľadiska
+jeho komponentov je zobrazené znázornené na obrázku č. 3.
+18
+
+Zdroj: Kuzmišin, Kuzmišinová, 2015, s. 39
+Obrázok 3
+
+Štruktúra podnikateľského prostredia
+
+„Aby podniky mohli naplno rozvinúť svoje funkcie, dosahovať primerané podnikové ciele
+a udržateľný rozvoj, potrebujú bezpečné podnikateľské prostredie s minimálnou úrovňou
+podnikateľských rizík. Preto je podrobná analýza bezpečného prostredia podnikateľských
+subjektov základným krokom uplatňovania stratégie plošného riešenia diferenciácie
+podnikov v špecifickom prostredí“ (Gozora, 2019 b, s. 46).
+Podnikateľské prostredie sa vyznačuje všetkým, čo daný podnik obklopuje. Zahŕňame
+doň aj všetky inštitucionálne, právne, hospodárske, politické, etické, technologické
+a kultúrne podmienky, v ktorých sa uskutočňuje. Za kvalitné prostredie je posudzovaná
+situácia, kedy štát zodpovedajúcimi prostriedkami pomáha rozvoju podnikania a vytvára
+okolnosti pre jeho dlhodobý progres (Čabinová, Fedorčíková, Molčanová, 2020).
+Krošláková (in Baráthová, 2015, s. 14) zaraďuje medzi základné parametre
+podnikateľského prostredia nasledovné: „súkromné vlastníctvo a jeho ochrana - ochrana
+práv vlastníkov nakladať s majetkom podľa svojho uváženia vrátane práva na výnosy, resp.
+zodpovednosti za straty plynúce z vlastníctva alebo z podnikateľskej činnosti - ochrana
+slobody podnikania vrátane slobody vstupovať do zmluvných vzťahov s iným
+19
+
+bez obmedzujúcich zásahov štátu - rýchla a účinná vymožiteľnosť dodržiavania zmluvných
+záväzkov pri ich neplnení.
+V podstate možno podnikateľské prostredie
+
+vymedziť
+
+ako výsledok hospodárskych
+
+politík implementovaných národnými vládami za účelom regulácie obchodu a interného
+vzostupu hospodárstva. Efektívne podmienky tak priamoúmerne pôsobia na množstvo
+zahraničných investícií vstupujúcich do krajiny, ako aj na množstvo novovzniknutých
+domácich podnikov Karelová, 2016b).
+Okolnosti podnikania majú vplyv aj na vnímanie podnikania ako takého, chápanie úrovne
+náročnosti vzniku a najmä realizácie podnikateľskej aktivity, ponímanie dostupnosti
+financovania, erudovanej pomoci a doplnkových služieb, nutnej infraštruktúry a iné
+(Pilková a kol., 2016).
+Kľúčovou črtou podnikateľského prostredia je dynamickosť, čiže postupom času sa vyvíja
+a formuje. Jeho vývoj je závislý od stupňa rozvoja hospodárstva konkrétneho štátu,
+domácej aj zahraničnej politiky a od napĺňania politickej, ekonomickej stratégie a tvorby
+sociálneho rozvoja spoločnosti ako aj jednotlivcov (Bruothová, 2017).
+„Súčasne podnikateľské prostredie spôsobuje, že efektívnosť a výkonnosť sa dostávajú
+do pozornosti každého podniku, ktorý má záujem o rozvoj a zvyšovanie svojej
+konkurencieschopnosti. Výkonnosť podniku je meraná jednak objemom výkonov a od toho
+odvodenou produktivitou práce, ale aj objemom pridanej hodnoty a od toho odvodenou
+produktivitou prace z pridanej hodnoty. Zvýšenie výkonnosti podniku je možné dosiahnuť
+dôslednou orientáciou na tri základne atribúty fungovania prevádzkovej základne:
+náklady, kvalitu a čas. Slovenské začínajúce malé a stredné podniky patria podľa
+prieskumu medzi najzraniteľnejšie a v najväčšej miere deklarujú nedostatok kapitálu, ako
+zásadnú prekážku v ich podnikaní“ (Jacková, Chodasová, 2017, s. 5).
+Podľa Brtkovej (2019) je etické správanie predpokladom sily, úspešnosti a dlhodobého
+prežitia firmy v podnikateľskom prostredí. Je to danosť, tvoriaca prestíž a imidž a tiež
+formuje status firmy na trhu i vo verejnom povedomí.
+Podľa Gozoru (2019a, s. 42) „v snahe eliminovať krízové javy v hospodárskom prostredí
+manažmenty podnikov prijímajú úsporné opatrenia v investičnej činnosti, znižujú výrobné,
+organizačné a personálne štruktúry, ako aj opatrenia na eliminovanie odbytových
+problémov pri finalizácii poľnohospodárskych komodít. Vrcholové manažmenty podnikov
+prispôsobujú svoje rozhodnutia hrozbám bezpečnostných rizík v podnikateľskom
+prostredí“.
+
+20
+
+V širšej súvislosti sa o podnikateľskom prostredí dá povedať, že hovoriť, ide o súbor
+podmienok pre voľnú realizáciu
+
+hospodárskej činnosti. Často je s tým
+
+prepojený
+
+aj sústava poskytovania štátnej pomoci (Nováček, 2021).
+
+1.2 Faktory ovplyvňujúce podnikateľské prostredie
+Úspešnosť podnikania závisí v čoraz väčšej miere od vývoja podnikateľského
+prostredia. Analýza tohto prostredia je preto neoddeliteľnou súčasťou strategického
+manažmentu, ktorý má pre konkurencieschopnosť a dlhodobú perspektívu podniku úplne
+zásadný význam. Pri strategickej analýze podniku a samotnej realizácii stratégie
+je potrebné systematicky zohľadňovať stále väčší počet faktorov, pričom podiel faktorov,
+ktoré sú obsiahnuté vo vonkajšom prostredí podniku, trvale rastie (Blažek, 2016).
+Podľa Bruothovej (2017) tvoria podnikateľské prostredie v komplexe interné a externé
+faktory. Interné majú konkrétne podniky pod vlastnou kontrolou, externé (politické,
+technologické sociálnokultúrne, ale hlavne
+
+ekonomické faktory, existujú nezávisle
+
+na vlastnej kontrole podnikateľských subjektov.
+Mäkké podnikateľské faktory majú podľa Rusnáka a Koreca (2020) priamy vplyv
+na aktivitu podnikov a podnikateľov, ale nie sú exaktne merateľné, nakoľko sú predmetom
+subjektívneho hodnotenia konkrétneho podniku či podnikateľa.
+Podľa
+
+Kovaleva
+
+(2017)
+
+ale aj o negatívnych
+
+sa
+
+faktoroch,
+
+v dnešnej
+
+dobe
+
+opatreniach,
+
+často
+
+o
+
+pozitívnych,
+
+ktoré
+
+ovplyvňujú
+
+diskutuje
+
+rozhodnutiach,
+
+podnikateľské prostredie v jednotlivých krajinách.
+Faktory, ktoré negatívne ovplyvňujú podnikateľské prostredie na Slovensku je možné
+podľa Klučku a kol. (2022, s. 48 – 49) rozdeliť do dvoch kategórií:
+Uvádzame činitele negatívne vplývajúce na podnikateľské prostredie v SR a k nim
+sú priradené náležité opatrenia na zlepšenie podmienok.
+„Externé činitele:
+-
+
+Daňové zaťaženie podnikania
+✓ zníženie dane z príjmu právnických osôb,
+✓ znížiť odvody zamestnávateľov za zamestnancov.
+
+-
+
+Registrácia, podávanie správ a ďalšie administratívne prekážky
+✓ skrátiť čas registrácie nového podniku,
+✓ znížiť administratívnu záťaž zjednodušením obchodných zákonov,
+21
+
+✓ dobudovať národný elektronický komunikačný systém medzi
+podnikmi.
+-
+
+Zákonnosť legislatívy a frekvencia zmien zákonov
+✓ prijímať komplexné zmeny v rámci obchodných zákonov,
+✓ neopravovať jednotlivé časti.
+
+-
+
+Transparentnosť a prístupnosť verejných súťaží a zákaziek
+✓ prijímať zákony, ktoré aktívne zvyšujú transparentnosť verejného
+obstarávania,
+
+-
+
+Dostupnosť kvalifikovanej pracovnej sily
+✓ prijať opatrenia v oblasti vzdelávania zvyšujúce praktické zručnosti
+absolventov.
+
+-
+
+Flexibilita pracovného práva, pracovné povinnosti
+✓ zrevidovať
+
+zákonník
+
+práce
+
+a odstrániť
+
+prekážky
+
+flexibility
+
+zamestnania.
+-
+
+Cena kvalifikovanej práce
+✓ vziať do úvahy príspevok národnej minimálnej mzdy.
+
+-
+
+Slabá dostupnosť rizikového kapitálu (investori)
+✓ umožniť zahraničnému rizikovému kapitálu prístup na domáci trh,
+✓ umožniť
+
+domácim
+
+obyvateľom
+
+investovať
+
+do
+
+podnikov
+
+prostredníctvom rizikového kapitálu.
+-
+
+Slabá dostupnosť kvalifikovaných mentorov
+✓ rozšíriť sieť konzultačných aktivít pre začínajúcich podnikateľov.
+
+-
+
+Slabá dostupnosť klasického financovania
+✓ zvýhodniť
+
+finančné
+
+inštitúcie,
+
+ktoré
+
+požičiavajú
+
+kapitál
+
+podnikateľom podľa ročného objemu.
+-
+
+Konkurenčné podnikateľské prostredie
+✓ zvýhodňovať tie spoločnosti, ktoré investujú do výskumu a vývoja.
+
+-
+
+Kúpna sila slovenských zákazníkov
+✓ tlačiť na zvyšovanie miezd zamestnancov zvyšovaním pridanej
+hodnoty ich práce.
+
+-
+
+Platobná disciplína zákazníka
+✓ aktívne monitorovať a sankcionovať tých, ktorí neplatia faktúry
+včas.
+
+22
+
+Interné faktory:
+-
+
+Fluktuácia zamestnancov
+✓ implementácia vernostných programov pre zamestnancov.
+
+-
+
+Nižšie investície do rozvoja dopravcov a zamestnancov
+✓ vyvinúť komplexné programy školenia zamestnancov.
+
+-
+
+Investovanie mladých podnikateľov do vlastného rozvoja
+✓ pozvať externe zabezpečených odborníkov na školenie riadiacich
+pracovníkov“
+
+Konkurencieschopnosť ako faktor hodnotenia podnikateľského prostredia
+Konkurencieschopnosťou chápeme dispozíciu ekonomického subjektu presadiť
+sa v hospodárskej súťaži s obdobnými ekonomickými subjektmi.
+
+Dá sa skúmať
+
+na rôznych stupňoch a na základe toho diferencujeme konkurencieschopnosť krajín,
+regiónov,
+
+odvetví,
+
+podnikov,
+
+alebo
+
+produktov.
+
+ide konkurencieschopnosť národnú (ako kľúčový
+
+Na
+
+makroekonomickej
+
+úrovni
+
+činiteľ, ovplyvňujúci zahraničných
+
+investorov) (Fabová, 2015).
+Podľa Čabinovej, Fedorčíkovej a Molčanovej (2020) konkurencieschopnosť definuje
+Svetové ekonomické fórum ako súbor inštitúcií, politík a faktorov rozhodujúcich o stupni
+produktívnosti štátu.
+Vplyv pandémie Covid-19 na podnikateľské prostredie
+Podnikanie je podmieňované rozličnými faktormi. Pandémia COVID-19 vo vysokej
+miere ovplyvnila podnikateľskú činnosť subjektov na Slovensku. Zásadná zmena sa dotkla
+hlavne
+
+daňovej
+
+oblasti
+
+a účtovníctva.
+
+Ochorenie
+
+COVID-19
+
+bolo
+
+Organizáciou
+
+pre hospodársku spoluprácu a rozvoj v roku 2020 označené za najzávažnejšiu aktuálnu
+krízu verejného zdravia a ekonomických kríz. Vážne narušila stabilitu svetového systému,
+hlavne podnikateľského prostredia. Prejavila sa rapídnym poklesom dopytu a enormným
+nárastom nákladov. Dôvodom tohoto kolapsu je aj snaha jednotlivých krajín zamedziť
+rozširovaniu vírusu prostredníctvom opatrení. Väčšina podnikateľských subjektov nebola
+pripravená a prispôsobená takýmto
+
+prudkým zmenám prostredia a tak sa ocitli
+
+v zraniteľnom postavení. Negatívne dopady sa prejavili aj na pracovno-právnych
+vzťahoch, nakoľko mnohí zamestnanci v dôsledku koronakrízy ukončili museli ukončiť
+pracovný pomer Čiernik, 2021).
+
+23
+
+Medzi ďalšie faktory, ovplyvňujúce podnikateľské prostredie podľa SBA (2021)
+patria :
+-
+
+Početnosť MSP - početnosť malých a stredných podnikov patrí medzi základné
+kvantitatívne ukazovatele charakterizujúce stav sektora MSP
+
+-
+
+Vznik a zánik podnikateľských subjektov
+
+-
+
+Rodová a veková štruktúra FO - podnikateľov
+
+-
+
+Zamestnanosť MSP
+
+-
+
+Ekonomické ukazovatele MSP
+
+-
+
+Legislatívne prostredie – kvalita zákonov a noriem, ktoré upravujú podnikanie
+
+-
+
+Zahraničný obchod MSP
+
+1.3 Všeobecná
+
+charakteristika
+
+podnikateľského
+
+prostredia
+
+na Slovensku a v okolitých krajinách
+Za účelom uvedenia do problematiky stručne opíšeme vývoj a podmienky, ktoré
+charakterizujú súčasné podnikateľské prostredie Slovenskej republiky a Európskej únie.
+
+1.3.1 Slovenská republika
+Rok 2020 bol podľa materiálu Správa o stave podnikateľského prostredia v Slovenskej
+republike zo dňa 14. apríla 2021 z mnohých aspektov bezprecedentný. Kľúčovými
+medzinárodnými témami, ktoré vplývali aj na podnikateľské prostredie SR boli Brexit
+a prezidentské voľby v USA, avšak najfrekventovanejšou témou bola pandémia COVID19 a v domácom prostredí to boli parlamentné voľby 2020 (MH SR, 2021a).
+Podľa Nováčeka (2021) sa
+
+podnikateľské prostredie na Slovensku často mení
+
+a to z dôvodu prijímania právnych predpisov, čo enormne narúša stabilitu podnikateľského
+prostredia, ktorá je jedeným z kľúčových faktorov investorov so záujmom realizovať
+investičný zámer na Slovensku.
+V zmysle právnej úpravy na Slovensku od roku 1991 (Obchodný zákonník a živnostenský
+zákon) vymedzujú podnikanie
+
+tri základné organizačno-právne formy: podnikanie
+
+na základe živnostenského oprávnenia, obchodné spoločnosti a družstvo. Čo sa týka
+štruktúry hospodárskej činnosti, ide o 642 veľkých podnikov (s počtom 250 a viac
+zamestnancov), 2 740 stredných podnikov (s počtom 50 -249 zamestnancov),
+13 941 malých podnikov (s počtom 10-49 zamestnancov),
+(s počtom 0-9 zamestnancov) Čiernik, 2021).
+24
+
+580 940 mikropodnikov
+
+Vláda SR sa podieľa kľúčovým podielom vplyvu na úroveň podnikateľského prostredia.
+Od 1.1.2017 je v platnosti zákon o podpore MSP č. 290/2016 Z. z., ktorý vymedzuje
+legislatívny rámec pre podporu MSP. Upravuje podmienky týkajúce sa obchodného
+registra,
+
+znižovania
+
+administratívnej záťaže podnikateľov a súdov pri registrácii
+
+obchodných spoločností a iné, rieši stratégiu hospodárskej politiky sa zameriava
+na kľúčovú oblasť, t.j. rozvoj podnikateľskej činnosti (Vojtech, Mižičková, Levický,
+2019).
+V nasledujúcej tabuľke č. 1 uvádzame prehľad vzniknutých obchodných spoločností
+v období 2017 až 2021.
+Tabuľka 1
+
+Prehľad obchodných spoločností, ktoré boli založené v rokoch 2017 –
+2021
+
+Zdroj: Čiernik, 2021, s. 34 – 35
+Pre podrobnejšie priblíženie situácie uvádzame v ďalšej tabuľke č. 2 aj medziročný rozdiel
+početnosti podnikateľských subjektov na Slovensku
+Tabuľka 2
+
+Počet aktívnych podnikateľských subjektov podľa veľkostných
+
+kategórií (2019 a 2020)
+
+Zdroj: Mošková, Buganová, 2021, s. 6
+25
+
+Horvátová, Gregová, Hrašková (2020) hodnotia systém podpory MSP zo strany štátnych
+inštitúcií ako relatívne komplexný, ale zároveň komplikovaný, pretože je realizovaný
+prostredníctvom vysokého počtu inštitúcií, a medzi ktorými sú vytvorené zložité väzby.
+Na upresnenie špecifikujeme na nasledovnom obrázku č. 4 základné členenie foriem
+podpory podnikania na Slovensku.
+
+Zdroj: Horvátová, Gregová, Hrašková, 2020, s. 52
+Obrázok 4
+
+Schéma nástrojov podpory podnikania
+
+Podľa prieskumov sa slovenskí podnikatelia zhodujú na fakte, že kvalita podnikateľského
+prostredia na Slovensku v ostatnom období rokov 2014 až 2018 minimálne stagnovala,
+uvádzajú Klučka a kol. (2022). Hodnotia to ako pozitívum v porovnaní s doposiaľ
+existujúcim negatívnym trendom značného zhoršovania podnikateľského prostredia
+v rokoch 2008 až 2013.
+Kritický je aj postoj slovenských zamestnávateľov, čo sa týka kvality vzdelávania, nakoľko
+súčasný systém nezodpovedá potrebám trhu práce. Ako problematické hodnotia
+podnikatelia
+
+prostredie
+
+právnych
+
+predpisov,
+
+čo
+
+negatívne
+
+vplýva
+
+na konkurencieschopnosť. Ku kľúčovým problémov patria tiež vysoké ceny energie,
+značná miera korupcie, preťaženie súdov, nedostačujúcu infraštruktúru, hlavne dopravnú
+ale aj iné. Nasledujúca tabuľka č. 3 zahŕňa schválené reformy na zlepšenie
+podnikateľského prostredia na Slovensku priebežne v období od roku 2009 do roku 2019.
+26
+
+Tabuľka 3
+
+Schválené
+
+reformy
+
+na
+
+zlepšenie
+
+podnikateľského
+
+prostredia
+
+na Slovensku
+Kategória
+
+Vymáhanie
+zmlúv
+
+Platenie daní
+
+Začatie
+podnikania
+
+Získanie
+kreditu
+
+Získavanie
+zamestnancov
+
+Riešenie
+insolvencie
+Cezhraničný
+obchod .
+
+Charakteristika reformy
+Uľahčenie vymáhania zmlúv implementáciou elektronického procesu.
+Uľahčenie vymáhania zmlúv prijatím nového kódexu občianskeho súdneho konania
+ako súčasti postupov riadenia prípadov používaných na súde. Vymáhanie zmlúv
+sa uľahčilo aj znížením poplatkov za výkon rozsudku.
+Uľahčenie vymožiteľnosti zmlúv prijatím niekoľkých dodatkov k občianskemu
+súdnemu poriadku, ktorých cieľom je zjednodušiť a urýchliť konanie a obmedziť
+prekážky strán vo veci.
+Zníženie nákladov na daň z motorových vozidiel a platenie dane z nehnuteľností bolo
+menej nákladné a uľahčené
+Zjednodušenie platenia daní spoločností zavedením systému elektronických platieb
+DPH - znížilo náklady na platenie daní znížením sadzby dane z príjmu právnických
+osôb a oslobodením odvodov za zdravotné poistenie.
+Zvýšenie daní pre firmy zvýšením sadzby dane z príjmu právnických osôb a úpravou
+hodnôt ocenenia pôdy.
+Uľahčenie platenia daní spoločnostiam zavedením elektronického podania
+a platenia príspevkov na sociálne zabezpečenie a zdravotné poistenie
+Zjednodušenie procesu začatia podnikania zavedením súdnej registrácie v obchode.
+Začatie podnikania bolo sťažené zavedením nového postupu založenia spoločnosti
+s ručením obmedzeným.
+Uľahčenie začatia podnikania zrýchlením spracovania žiadostí na jednotnom
+kontaktnom mieste pre obchodné licencie, registráciu dane z príjmu a registrácie
+zdravotného poistenia.
+Uľahčenie začatia podnikania prostredníctvom jednotného kontaktného miesta, ktoré
+zlúčilo 4 postupy do 1 a znížilo náklady.
+Vylepšený prístup k informáciám o kredite vykazovaním údajov o platbách kreditu
+od maloobchodných predajcov automobilov
+Zdokonalenie informačného systému o úveroch implementáciou nového zákona
+o ochrane osobných údajov.
+Vylepšenie úverového informačného systému tým, že zákon zaručuje právo dlžníkov
+nahliadnuť do vlastných údajov.
+Zníženie maximálnej kumulatívnej doby trvania zmlúv na dobu určitú, opätovne sa
+zaviedla požiadavka pri ukončení pracovného pomeru, opätovne sa zaviedla povinná
+mzda pre pracovníkov, ktorí sú v spoločnosti viac ako 2
+roky a zvýšila sa minimálna mzda.
+Predĺženie maximálnej doby platnosti zmlúv na dobu určitú, vylúčili sa požiadavky
+na oznamovanie tretím stranám v prípade prepúšťania z dôvodu nadbytočnosti
+a znížili sa náklady na nadbytočnosť.
+Znížila sa maximálna doba platnosti zmlúv na dobu určitú.
+Vylepšenie insolvenčného procesu predefinovaním úloh alebo právomocí veriteľov
+a správcov, posilnením práv zabezpečených veriteľov a predefinovaním pravidiel
+pre konkurzné konanie
+Skrátenie času cezhraničného obchodovania zavedením viacerých elektronických
+systémov pre colnú správu
+
+Zdroj: Klučka a kol., 2022, s. 43 - 45
+Od 1. 1. 2019 platí na Slovensku novela zákona o verejnom obstarávaní, ktorá v tejto
+oblasti priniesla značné pozitívne zmeny (Pohorelá, 2019).
+
+27
+
+Situácia v oblasti podnikateľského prostredia si podľa MH SR (2021b) vyžaduje
+pokračovanie v konvergenčnom procese slovenskej ekonomiky za účelom jeho zlepšenia.
+Zefektívňovanie
+
+je
+
+potrebné
+
+hlavne
+
+v oblastiach
+
+administratívneho,
+
+finančného
+
+a regulačného charakteru. Aktuálna zložitosť právnych predpisov, kedy je na Slovensku
+účinných viac ako 750 zákonov, si vyžaduje aktívne a systematické iniciatívy smerujúce
+k zmene. Čiastočný prelom v postupnom zlepšovaní zaznamenali podnikatelia zavedením
+Antibyrokratických balíčkov (prvý v júni 2017 s 35 opatreniami, druhý v máji 2018
+s 23 opatreniami a 5 analýzami a tretí vo februári 2019 s 37 opatreniami, spolu
+94 opatrení) definovali ročnú úsporu takmer 95 mil. eur. Z balíčkov I. až III. bolo
+ku koncu roka 2020 celkovo splnených 70 opatrení, sedem opatrení je v plnení
+a 17 opatrení je nesplnených. Od 21. 07. 2020 vstúpil do platnosti zákon č. 198/2020 Z. z.,
+upravujúci určité zákony v súvislosti so zlepšovaním podnikateľského prostredia,
+v súvislosti s pandémiou COVID-19 (ide o 115 opatrení v kompetencii rezortu
+hospodárstva, pod názvom „Lex Korona“). Určité nástroje na zlepšenie boli schválené
+uznesením vlády SR č. 400/2020, na ktorom sa podieľalo až 10 ministerstiev a viacero
+ústredných orgánov štátnej správy, čo svedčí o vysokej priorite týchto opatrení. Ich prínos
+predpokladá úsporu cca 100 miliónov eur ročne pre slovenských podnikateľov. Koncom
+roka 2020 MH SR predstavilo ďalší balík so 469 návrhmi opatrení na zlepšenie
+podnikania. Zatiaľ čo v minulosti bolo priemerne prijatých približne 100 opatrení
+za 3 roky, ambíciou MH SR do budúcnosti je každoročne predkladať minimálne
+100 opatrení na zníženie administratívnej záťaže podnikateľov (MH SR, 2021b).
+Predpokladaný vývoj reforiem ovplyvňujúcich ekonomickú výkonnosť Slovenska v Pláne
+obnovy podľa Ministerstva financií SR v dlhodobom horizonte je, že do roku 2040
+dosiahne vplyv minimálne 5,3 % HDP. Najvyšší progres reforiem je očakávaný v oblasti
+vzdelávania a zmeny vo vede, výskume a inováciách. Cca tri štvrtiny ekonomických
+prínosov majú pochádzať z oblasti ľudského kapitálu a asi štvrtinu pripisujú v budúcnosti
+ostatným opatreniam, ktoré sú orientované hlavne na nekorupčné a konkurencieschopné
+podnikateľské prostredie, na podporu stabilného rastu investícií v sektore MSP (MF SR,
+2021).
+
+1.3.2 Európska únia
+Podnikateľské prostredie je v súčasnej dobe tvorené z legislatívy Európskej Únie (EÚ)
+a 27 členských krajín EÚ. Pre podnikateľov je kľúčové, aby legislatíva, tvoriaca rámec pre
+podnikateľské prostredie v celej EÚ, rešpektovala základnú podmienku o odstraňovaní
+28
+
+bariér v pohybe 4 základných ekonomických slobôd – slobody pohybu, pracovných síl,
+tovaru a kapitálu služieb (Čabinová, Fedorčíková, Molčanová, 2020).
+Podľa Valdisa Dombrovskisa (in EurópskeNoviny.sk, 2018), ktorý je podpredsedom
+Európskej komisie pre finančnú oblasť, sa investori z EÚ nemôžu spoliehať na bilaterálne
+investičné zmluvy v rámci EÚ, pretože sú nezákonné a často sa prekrývajú s pravidlami
+EÚ v kontexte jednotného trhu, čím spôsobujú diskrimináciu investorov z EÚ.
+Najdôležitejšie zmeny, ktorými EÚ ovplyvnila
+
+v ostatnom období podnikanie
+
+prostredníctvom nariadení a smerníc, podľa Pohorelej (2019) priniesli:
+-
+
+Smernica o boji proti oneskoreným platbám (2011/7/EÚ z 16. 2. 2011) –
+obmedzenie zmluvných lehôt splatnosti na 60 kalendárnych dní;
+
+-
+
+Smernica o verejnom obstarávaní (2014/24/EÚ z 26. 2. 2014) - otvorenie trhu
+verejného obstarávania pre všetky hospodárske subjekty, nový postup verejného
+obstarávania, a to tzv. inovatívne partnerstvá;
+
+-
+
+GDPR - Nariadenie o ochrane osobných údajov (2016/679 - s účinnosťou od 25. 5.
+2018 pre všetky členské štáty EU – obsahuje
+
+jednotné pravidlá ochrany
+
+a bezpečnosti;
+-
+
+Smernica o spoločnom systéme DPH (2006/112/ES z 28. 11. 2006) – zmena
+od marca 2019 - konkrétne opatrenia potrebné na zjednodušenie pravidiel
+týkajúcich sa DPH pri elektronickom (online) predaji tovarov;
+
+-
+
+Jednotný digitálny trh - Stratégia digitálneho jednotného trhu, ktorej cieľom
+je vytvoriť úplne prepojenú Európu – napr. zrušenie poplatkov za roaming
+(od 15. júna 2017 pri používaní mobilu v rámci EÚ platia rovnaké ceny za hovory
+či SMS ako doma).
+
+1.3.3 Vyšehradská skupina
+V4 - je neformálne zoskupenie 4 stredoeurópskych krajín – Slovenskej republiky, Českej
+republiky, Maďarska a Poľskej republiky, teda krajín s rovnakými socioekonomickými,
+hospodárskymi a kultúrno-historickými hodnotami. Toto zoskupenie poskytuje priestor
+pre posilňovanie koordinačného a konzultačného mechanizmu so zámerom zdieľať
+spoločné pomery, pozície a stanoviská v prioritných otázkach zahraničnej a európskej
+politiky, regionálneho rozvoja, ekonomickej a kultúrnej kooperácie.
+V nadväznosti na zmeny po roku 1989 sa tri stredoeurópske krajiny (ČSFR, Poľsko,
+Maďarsko) dohodli na úzkej spolupráci ktoré deklarovali „obnovenie štátnej suverenity,
+elimináciu pozostatkov totalitného systému, vybudovanie parlamentnej demokracie,
+29
+
+vytvorenie moderného trhového hospodárstva, plné zapojenie sa do európskeho
+politického, bezpečnostného, hospodárskeho a právneho systému“. Po vzniku samostatnej
+Slovenskej republiky a Českej republiky v roku 1993 došlo k transformácii zoskupenia
+na štvorstrannú V4. Regionálna spolupráca V4 zjednocuje hlavne sektorové (rezortné)
+politiky (energetiku, infraštruktúru, hospodárstvo, digitalizáciu a inovácie, kultúrnu oblasť,
+cezhraničnú
+
+spoluprácu). Každoročnú spoluprácu zoskupenia na základe programov
+
+predsedníckej krajiny koordinujú ministerstvá zahraničných vecí a národní vyšehradskí
+koordinátori (MZVEZ SR, 2022). Cieľom V4 je spolupráca na mnohých úsekoch
+spoločného záujmu v rámci celoeurópskej integrácie a taktiež prispievať k vybudovaniu
+európskej
+
+bezpečnostnej
+
+architektúry
+
+založenej
+
+na
+
+efektívnej,
+
+komplementárnej
+
+a vzájomne posilňujúcej spolupráci a koordinácii v rámci existujúcich európskych
+a transatlantických inštitúcií, za účelom stabilizácie v stredoeurópskom regióne (MIRRI
+SR, 2020).
+Na základe prieskumu OECD, ktorý bol orientovaný hlavne na dopady pandémie
+COVID-19 na oblasť malých stredných podnikov a bol realizovaný v 60 rôznych
+krajinách, boli výsledky nasledovné:
+V Českej republike bol zaznamenaný výrazný pokles hlavne v oblasti dopravy, konkrétne
+ide o prepravu osôb, čo bolo spôsobené opatreniami v obmedzení mobility za účelom
+zabránenia ďalšiemu šíreniu pandémie. Najväčší pokles sa týkal prepravy v železničnej
+doprave kedy v roku 2020 v prvom kvartály klesol medziročne počet prepravených osôb
+o 8116 osôb v porovnaní s rokom 2019 a v druhom kvartály o 24026, čo tvorí až 48%
+pokles v Českej republike (Mošková, Buganová, 2021).
+Ekonomický rozvoj krajín V4 je od jej vzniku charakteristický dynamickou integráciou
+do svetového hospodárstva. Pred jej vznikom boli obchodné kontakty v rámci
+hospodárstva obmedzené a súkromné podnikanie bolo zriedkavé. Podnikateľské prostredie
+V4 výrazne zmenilo podmienky a kvalitu podnikateľskej činnosti na prosperujúce,
+stabilizovalo sa a vykazovalo dynamický nárast. Pre obdobie 90. rokov bola typická
+privatizácia, liberalizácia a deregulácia. Obdobný vývin prevládal vo V4 aj na prelome
+tisícročí, najmä opätovná privatizácia a opätovná deregulácia. Status podnikateľa nebol
+stále priaznivý. Prvé pozitívne zmeny kvalitnejšieho podnikateľského prostredia
+a konkurencieschopnosti štátov V4 nastali začiatkom 21. storočia, a to hlavne zásluhou
+zjednocujúcej daňovej reformy. Pred vstupom do Európskej únie mali krajiny V4
+konkurenčnú výhodu oproti ostatným členom v podobe pomerne nízkej podnikovej dane
+z príjmu. V Maďarsku to bolo 17,7 %, na Slovensku a Poľsku 19 % a v Českej republike
+30
+
+28 %.4 Spoločným cieľom V4 bola v tom čase snaha zabrániť harmonizácii tejto dane
+medzi všetkými členmi EÚ. Problematické však boli oblasti vysokej nezamestnanosti,
+regionálnych rozdielov, slabá infraštruktúra a politická i právna nestabilita, vysoké
+administratívne, vymožiteľnosť práva, nestabilita zákonov, nefunkčný súdny systém
+a korupciu. Svetová banka označila v roku 2009 Slovenskú republiku za krajinu
+s najvyššou úrovňou konkurencieschopnosti s najlepším podnikateľským prostredím z V4.
+V období rokov 2006 – 2016 sa pozícia Slovenska prepadla o 31 priečok a pozícia
+Maďarska o 25. Taktiež sa oslabila pozícia Českej republiky, jediné Poľsko zaznamenalo
+zlepšenie (Karelová, 2016b).
+Česko je relatívne prosperujúca krajina, avšak jej trhová ekonomika je závislá
+od vývozu (s cca 80%-ným podielom – ide prevažne o vývoz automobilov). Rok 2017 bol
+pre ČR priaznivý, nakoľko miera rastu jej HDP dosiahla najvyššiu úroveň 4,5 % a zároveň
+dospela k najnižšej nezamestnanosti v EÚ - 2,8%. Od roku 2004 je členským štátom EÚ,
+ale bez vstupu do eurozóny. K hlavným systémovým ekonomickým problémom patria
+rýchlo starnúca populácia, nedostatočná kvalifikovanosť zamestnancov, nepostačujúci
+vzdelávací systém, financovanie dôchodkového a zdravotného systému a iné (Hudáková,
+Masár, Brezina, 2019).
+V Maďarsku od roku 2010 zaviedla vláda viaceré hospodárske politiky
+na udržanie fiškálnej rovnováhy, ako aj šesťročný plán zvýšenia miezd na zvýšenie
+spotreby domácností. Ekonomický progres je závislý na vývoze, čo predstavuje riziko
+v situáciách s náporom na vonkajšie trhy. Maďarský verejný dlh
+
+je stále vysoký
+
+v porovnaní s ostatnými krajinami EÚ v strednej Európe. Zaviedli zníženie daní z potravín
+a služieb, zníženie dane z príjmov fyzických osôb zo 16% na 15% a zavedenie jednotnej
+9% podnikateľskej dane pre malé a stredné podniky a veľké spoločnosti, čo podporilo
+dočasne rast HDP. Najzávažnejšími hospodárskymi problémami sú korupcia, nedostatok
+pracovných síl v dôsledku demografického poklesu a migrácie, chudoba vo okrajových
+regiónoch a hlavne veľká závislosť na dovoze ruských energetických surovín.
+Poľská republika zastáva šiestu pozíciu v ekonomickom rebríčku EÚ a už relatívne
+dlhé obdobie je považovaná za krajinu s priaznivým podnikateľským prostredím. Politika
+krajiny má makroekonomický charakter a ako najväčší príjemca rozvojových fondov EÚ
+s cyklickou alokáciou tak podlieha výrazným vplyvom na hospodársky rastu krajiny.
+Ekonomike sa v rokoch 2014 – 2017 darilo relatívne dobre (3%-ný nárast HDP) vďaka
+prospotrebiteľskej orientácii. V roku 2015 spôsobili určité obchodné obmedzenia
+v zahraničí (poisťovníctvo, bankovníctvo, energetika a i.) útlm a zníženie atraktivity
+31
+
+pre zahraničných investorov. Poľsko čelí systémovým hospodárskym problémom v podobe
+nedostatočnej cestnej a železničnej infraštruktúry, nepriaznivého podnikateľského
+prostredia, vládnej byrokracie a zaťažujúcej daňovej sústavy pre podnikateľov (Hudáková,
+Masár, Brezina, 2019).
+V súčasnosti sú všetky krajiny V4 zaradené medzi priemerne hodnotené podnikateľské
+prostredia.
+
+1.3.4 Rakúsko
+Pozícia Rakúska je v socio-ekonomickej oblasti z medzinárodného pohľadu relatívne
+silná,
+
+s dobrou
+
+hospodárskou
+
+výkonnosťou
+
+a vysokou
+
+konkurencieschopnosťou,
+
+s efektívnym a flexibilným sociálnym systémom, stabilnými štandardmi
+
+a relatívne
+
+spravodlivým prerozdeľovaním príjmov. Efektivita rakúskych inštitúcií a prispôsobivosť
+meniacim sa podmienkam prispieva k nadpriemernému rastu hospodárstva z dlhodobého
+hľadiska. Rakúsko je región dynamický s pozitívnym obrazom pre investorov. Ekonomiku
+charakterizujú silné sociálne partnerstvá, kvalitné pracovno-právne vzťahy a kolektívne
+zmluvy. K závažným problémom však patrí už dlhodobí trend nízkej aktivity starších ľudí
+a nutnosť reformy vzdelávacieho systému. Výška daní už dosahuje strop, čiže možnosti
+ďalšieho daňového zaťažovania by už znamenali zníženie atraktivity pre investorov
+s negatívnym dopadom na hospodársku výkonnosť. Rakúsko z finančného pohľadu vyvíja
+snahy o lepší prístup k alternatívnym zdrojom financovania (Klučka a kol., 2022).
+Portál
+
+Advantage
+
+Austria
+
+ako najglobalizovanejšiu
+
+(2022a)
+
+krajinu
+
+uvádza
+
+zaraďujú
+
+5
+
+dôvodov,
+
+k atraktívnym
+
+ktoré
+
+Rakúsko
+
+štátov
+
+z hľadiska
+
+podnikateľského prostredia:
+-
+
+„Atraktívny trh, pretože patrí k najbohatším krajinám EÚ, spotrebitelia sa vyznačujú
+veľmi vysokou kúpnou silou a spoločnosti sú tiež dobrými odberateľmi a obchodnými
+partnermi, Rakúsko je zaujímavým trhom pre medzinárodné spoločnosti.
+
+-
+
+Ideálna poloha - centrálna poloha Rakúska na rozhraní dôležitých dopravných trás
+umožňuje optimálny prístup na trh. Rakúsko predstavuje východiskový bod pre vysoko
+kúpyschopné trhy DACH regiónu (DACH = Nemecko, Rakúsko a Švajčiarsko) alebo
+môže byť bránou pre celú oblasť EÚ.
+
+-
+
+Stabilita a bezpečnosť - nadnárodné spoločnosti profitujú z veľmi vysokej úrovne
+politickej stability, právnej bezpečnosti a osobnej bezpečnosti. Transparentnosť
+a predvídateľnosť politiky sú ďalšie dôležité kvalitatívne faktory.
+
+32
+
+-
+
+Kvalifikovaní odborníci - v Rakúsku je vynikajúci duálny vzdelávací systém,
+kombinujúci teóriu a prax, čiže školské ako i učňovské vzdelanie, ktoré je dôležitým
+faktorom pre vysokú produktivitu a prakticky orientované vzdelávanie.
+
+-
+
+Najlepšia infraštruktúra a dynamická startupová scéna - Rakúsko ponúka vynikajúcu
+telekomunikačnú infraštruktúru ako i veľa coworking priestorov so širokou ponukou
+rôznych podujatí, ktoré sú pre množstvo spoločností optimálnou networkingovou
+platformou ako i miestom pre dialóg v oblasti inovácií“ (Advantage Austria. 2022b).
+
+Rakúske obchodné právo ponúka viaceré možnosti – právne formy podnikateľského
+subjektu:
+-
+
+Organizačná zložka (Niederlassung)
+
+-
+
+Spoločnosť s ručením obmedzeným (GmbH – Geselschaft mit beschränkter
+Haftung)
+
+-
+
+Akciová spoločnosť (Aktiengeselschaft)
+
+-
+
+Verejná obchodná spoločnosť (Offene Handelsgeselschaft)
+
+-
+
+Komanditná spoločnosť (Kommanditgeselschaft, KG)
+
+-
+
+Tichá spoločnosť (Stille Geselschaft)
+
+-
+
+Registrovaná zárobková spoločnosť (Eingetragene Erwerbsgeselschaft, EEG)
+
+-
+
+Združenie (Geselschaft nach bürgerlichem Recht, GesbR)
+
+-
+
+Družstvo –spoločenstvo (Genossenschaft)
+
+Štrba (2021) upozorňuje, že podľa predbežných údajov štatistického úradu Statistik Austria
+v roku 2020 v Rakúsku ohlásilo bankrot 3155 podnikov, v roku 2019 ich bolo viac
+než 5000. Podľa zaužívaných kritérií je spoločnosť platobne neschopná, ak je 90 dní
+v omeškaní, alebo s vysokou pravdepodobnosťou nebude schopná plniť svoje platobné
+povinnosti. Hlavným problémom je z nemožnosť presne špecifikovať potenciálne bankroty
+z príčin spôsobených koronakrízou, čo by spôsobili neobjektívnosť posudzovania.
+
+1.3.5 Ukrajina
+Ukrajina je považovaná za dôležitého ekonomického partnera (z dôvodu tranzitu
+energonosičov a dodávky komodít z oblasti surovinovej základne, s veľkým prírodným
+bohatstvom a pod.). S blízkou kultúrnou príbuznosťou a vzájomnou geografickou
+previazanosťou znamená Ukrajina pre SR hodnotný potenciál k spolupráci. Slovensko
+môže znamenať dôležitú funkciu pri premostení Ukrajiny do európskeho prostredia. Podľa
+portálu organizácie Družba Slovensko – Ukrajina (2017) je „stratégia podpory
+cezhraničných obchodných a podnikateľských aktivít postavená na podpore servisnými
+33
+
+službami, ktoré eliminujú náročnosť vstupu na trhy mimo európskeho prostredia.
+Pre slovenských podnikateľov predstavuje Ukrajina blízky trh, veľkosťou možného dopytu
+mnohonásobne prevyšujúci možnosti domáceho trhu. Pre Ukrajinu môže Slovensko
+predstavovať bránu do Európskeho priestoru“.
+Vplyvom vojenského konfliktu na Ukrajine a prijímaním ekonomických sankcií proti
+Rusku, ako aj celkovým globálnym stavom, ktorý je stále ovplyvnený dôsledkami
+koronakrízy a mnohými inými činiteľmi, zaznamenávame v uplynulých mesiacoch
+nevídaný rast cien energií, ktoré sú v prípade podnikateľov ešte významnejšie (SBA,
+2022).
+Od 1. septembra 2017 zbližuje Ukrajinu s Európskou úniou Dohoda o pridružení medzi
+EÚ a Ukrajinou, ktorá deklaruje podporu spriaznených politických väzieb, stabilnejších
+hospodárskych prepojení a rešpektovanie spoločných hodnôt. Vznikol tak základ pre
+výkon priebojného reformného programu orientovaného na lepšie podnikateľské
+prostredie, prostredníctvom boja s korupciou, nezávislého súdnictva a právneho štátu.
+EÚ v rokoch 2014 až 2021 podporila Ukrajinu piatimi úkonmi makrofinančnej pomoci
+(MFA), poskytnutím úverov v celkovej výške 5 miliárd EUR (Európska rada, 2022).
+Ruský vojenský konflikt voči Ukrajine a následné medzinárodné sankcie proti Rusku
+spôsobujú enormné hospodárske následky pre všetky krajiny EÚ. Od začatia invázie
+utieklo z Ukrajiny na Slovensko viac ako 500 000 ľudí. Podľa AHK Slowakei (2022)
+„slovenská vláda oficiálne klasifikuje migrantov z Ukrajiny ako "status odídenca". Tento
+štatút umožňuje rýchly a neobmedzený prístup k zdravotnej starostlivosti a na trh práce,
+osoby s nárokom na azyl a "odídenci" dostávajú mesačný integračný príspevok vo výške
+1,5-násobku životného minima (približne 327 eur) a jednorazový príspevok vo výške
+trojnásobku životného minima (približne 654 eur) na obdobie 6 mesiacov, deti utečencov
+sú prijímané do škôlok a škôl“ (AHK Slowakei, 2022).
+Takmer každý druhý slovenský podnikateľ registruje nepriaznivé následky vojenského
+konfliktu na Ukrajine na vlastnú podnikateľskú činnosť. Najviac sú postihnuté firmy
+pôsobiace v priemysle (71 %) a v obchode (65 %). Výrazne negatívne dopady v prieskume
+situácie (realizovaného v období od 4. do 15. marca 2022 formou online dotazníka)
+potvrdilo
+
+15
+
+%
+
+podnikateľov.
+
+Čiastočne
+
+negatívne
+
+vníma
+
+následky
+
+34
+
+%
+
+podnikateľov. Podnikatelia zaznamenali pokles dopytu a problémy so zásobovaním,
+služieb v logistike, prerušenie dodávateľských vzťahov, pozastavenie nových investičných
+aktivít, prerušenie už dohodnutých kontraktov, problémy s platobným stykom (Solík,
+2022).
+34
+
+2 CIEĽ PRÁCE
+Na základe zadania bakalárskej práce a vyplývajúc z témy sme si v úvode vytýčili
+ciele práce. Ide o hlavný cieľ pre danú problematiku a k jeho úspešnému naplneniu nám
+pomôžu čiastkové špecifické ciele.
+
+2.1 Hlavný cieľ práce
+Za hlavný cieľ bakalárskej práce sme si stanovili
+
+porovnať podnikateľské
+
+prostredie v krajinách Európskej únie na základe kvantitatívnych ukazovateľov.
+
+2.2 Špecifické ciele práce
+Ako podporné kroky k dosiahnutiu hlavného cieľa sme si určili čiastkové ciele.
+Ide o nasledovné:
+
+2.2.1 Zber relevantných údajov o podnikateľskom prostredí vybraných krajín
+Na základe štatistických ukazovateľov, hodnotiacich správ a dostupných informácií
+zoskupíme a zaznamenáme rozhodujúce dáta o podnikateľskom prostredí pre následné
+zisťovanie aktuálnej situácie.
+
+2.2.2 Analýza jednotlivých zhromaždených dát
+Triedením
+
+a logickým
+
+usporiadaním
+
+vyhodnotíme
+
+a kvantifikujeme
+
+ukazovatele
+
+pre vybrané krajiny EÚ.
+
+2.2.3 Vzájomná komparácia
+Prostredníctvom porovnávania dát, početnosti výskytu určitých javov a indikátorov určíme
+spoločné respektíve odlišné znaky a vlastnosti, ktoré sú charakteristické pre podnikateľské
+prostredie na Slovensku voči ostatným vybraným krajinám EÚ.
+
+35
+
+3 METODIKA PRÁCE A METÓDY SKÚMANIA
+Metodika práce obsahuje súbor použitých pracovných postupov a metód, ktoré
+sú potrebné k dosiahnutiu stanoveného cieľa (vymedzenie výskumného problému,
+charakteristika základného skúmaného súboru a výber skúmanej vzorky, organizácia
+a postup realizácie skúmania, voľba empirických metód)
+Metóda skúmania
+
+je konkrétny spôsob smerujúci k zisťovaniu určitých javov,
+
+ich charakterizovaniu, opisu,
+
+3.1 Výskumný problém (objekt skúmania)
+Vyplývajúc zo zadania práce skúmame podnikateľské prostredie, teda náš záujem
+je orientovaný na zisťovanie jeho kvality, znakov, vlastností, vplyvov a faktorov.
+Skúmaným objektom je preto podnikateľské prostredie.
+
+3.2 Základný súbor a skúmaná vzorka
+Názov témy bakalárskej práce zároveň vymedzuje základný súbor, pretože
+je zameraná na krajiny Európskej únie. Nakoľko rozsah bakalárskej práce neumožňuje
+skúmať podnikateľské prostredia všetkých členských štátov, zámerným výberom sme
+zvolili niekoľko vybraných krajín, ktoré tvoria skúmanú vzorku. Kľúčovou riešenou
+krajinou je Slovenská republika, ktorej sa venujeme najpodrobnejšie a následne vyberáme
+okolité krajiny Vyšehradskej skupiny (Poľsko, Česko a Maďarsko) + Rakúsko
+a Ukrajinu. Zámerný výber týchto krajín je determinovaný obdobnými podmienkami
+z hľadiska ekonomického, geografického, kultúrneho charakteru zvolených krajín,
+čo umožňuje.
+
+3.3 Organizácia skúmania
+Postup realizácie skúmania korešponduje s vytýčenými krokmi, smerujúcimi
+k dosiahnutiu hlavného cieľa bakalárskej práce, teda s určenými čiastkovými cieľmi.
+36
+
+V prvom ide o zber a spracovanie relevantných údajov o podnikateľských prostrediach
+vybraných krajín, ktoré analyzujeme a následne porovnávame. V závere praktickej časti
+vyhodnotíme a prezentujeme výsledky.
+
+3.4 Metódy práce
+Voľba vhodných metód použitých pri riešení skúmaného problému vyplýva
+z charakteru
+
+skúmania. Ide o kvantitatívne skúmanie a preto sú kľúčovými metódami
+
+analýza a komparácia.
+-
+
+analýzou sme sa zamerali na jednotlivé rôzne aspekty podnikateľského prostredia,
+čo poskytuje podrobné skúmanie a spracovanie v záujme hlbšieho
+
+poznania
+
+problematiky;
+-
+
+komparácia umožňuje vzájomné porovnanie určitých javov, hľadá spoločné znaky
+respektíve odlišnosti – v tomto prípade ide o porovnávanie podnikateľských
+prostredí Slovenskej republiky, Česka, Maďarska, Poľska, Rakúska a Ukrajiny.
+
+37
+
+4 VÝSLEDKY PRÁCE
+Praktická časť bakalárskej práce je orientovaná na analýzu kvantitatívnych
+ukazovateľov a údajov, zhromaždených na základe rôznych indikátorov a meraní kvality
+a stavu podnikateľského prostredia na Slovensku a v krajinách EÚ.
+
+4.1 Analýza podnikateľského prostredia SR
+Analýzou a hodnotením podnikateľského prostredia krajín z pohľadu ich domácej
+atraktivity ako aj cieľovej destinácie pre zahraničné investície sa zaoberajú viaceré
+medzinárodné inštitúcie a agentúry so zameraním na hodnotenie rôznych oblastí
+(Šofranková, Kiseľáková, 2019).
+Podnikateľské prostredie na Slovensku je podľa Korenkovej (2019) súčasťou
+spoločného trhu Európskej únie s voľným pohybom osôb, tovaru, služieb i kapitálu, a teda
+aj voľným miestom slobodného podnikania. Členské štáty majú svoje špecifiká vo vzťahu
+k úrovni vyspelosti a kvalite podnikateľského prostredia aj na základe podpory štátu.
+Úroveň kvality podnikateľského prostredia vypovedá o vyspelosti ekonomiky krajiny.
+Sumárny inovačný́ index v rebríčku European Innovation Scoreboard 2019
+dosiahol hodnotu 66,6 % priemeru EÚ, čím sa SR v medzinárodnom porovnaní umiestnila
+na 21. mieste v rámci 27 krajín EÚ. V dlhodobom vývoji index dosiahol najvyššiu
+relatívnu hodnotu k začiatku sledovaného obdobia v roku 2012, a to 72 %. Tento
+ukazovateľ od roku 2017 kontinuálne rástol. Najväčší negatívny rozdiel vykazuje
+v indikátoroch TOP podnikov, ktoré investujú do výskumu a vývoja, HDP na obyvateľa
+a sofistikovanosti kupujúcich. Slovensko zaostávalo aj pri dosahovaní cieľov pre rok 2020
+v oblasti podielu výdavkov na výskum a vývoj na HDP vo výške 1,20 % HDP. V roku
+2019 tento ukazovateľ dosiahol na Slovensku 0,84 % HDP (MH SR, 2021b).
+Analýza podnikateľského prostredia SR na základe indikátora Štruktúra
+podnikateľského prostredia
+V roku 2020 predstavovali malé a stredné podniky 99,89 % z celkového počtu aktívnych
+podnikateľských subjektov na Slovensku. Nasledujúca tabuľka č. 4 upresňuje ich počty
+s medziročným rozdielom.
+
+38
+
+Tabuľka 4
+
+Počet aktívnych podnikateľských subjektov na Slovensku podľa
+veľkostných kategórií podnikov, 2019-2020
+
+Zdroj: MH SR, 2021b, s. 6
+Trend postupného znižovania podielu fyzických osôb – podnikateľov na celkovom počte
+aktívnych MSP na Slovensku pokračoval aj v roku 2020. Údaje v nasledovnej tabuľke č. 5
+kopírujú tento trend.
+Tabuľka 5
+
+Stav a medziročný vývoj MSP na Slovensku podľa právnych foriem,
+2019-2020
+
+Zdroj: MH SR, 2021b, s. 6
+Podľa SBA (2021) negatívne dopady koronakrízy na ekonomiku SR pocítili aj MSP, ktoré
+obzvlášť reagujú na zmeny podmienok podnikania. Podľa údajov Štatistického úradu SR
+došlo v roku 2020 k pozastaveniu rastového trendu početnosti aktívnych malých
+a stredných podnikov. Dokumentujú to údaje z nasledujúcich obrázkov:
+
+39
+
+Zdroj: SBA, 2021, s. 60
+Obrázok 5
+
+Vývoj početnosti MSP v období 2016-2020
+
+Zdroj: SBA, 2021, s. 60
+Obrázok 6
+
+Odvetvová štruktúra MSP v r. 2020
+
+40
+
+Vznik a zánik podnikateľských subjektov
+
+Zdroj: SBA, 2021, s. 61
+Obrázok 7
+
+Vznik, zánik a čistý prírastok podnikateľských subjektov v r. 2020
+
+Fabová (2015, s. 94) charakterizuje vývoj z hľadiska konkurencieschopnosti
+nasledovne:
+
+„SR pokračuje v pozitívnom trende, ktorý nastúpila v roku 2014, kedy
+
+sa po siedmich rokoch zhoršovania začala zlepšovať. V roku 2015 sa umiestnila
+na 67. mieste rebríčka, čím si oproti roku 2014 polepšila o osem priečok a po dvoch
+rokoch sa opäť dostala do prvej polovice rebríčka. Napriek tejto pozitívnej zmene
+je Slovensko z hľadiska konkurencieschopnosti treťou najhoršie hodnotenou krajinou
+Európskej únie. Z členských krajín EÚ sa umiestnili horšie len Chorvátsko (77. miesto)
+a Grécko (81. miesto), ale napríklad Česká republika sa umiestnila na 31. mieste.
+Za najproblematickejšie faktory, ovplyvňujúce podnikateľské prostredie na Slovensku
+označili respondenti prieskumu korupciu, štátnu byrokraciu, výšku daní a obmedzenia
+pracovného trhu.“
+Tento fakt korigujú neskôr slová analytika Úseku pre menu, štatistiku a výskum
+Národnej banky Slovenska (NBS) Lalinského (in TASR, 2018), že „Slovensko začalo
+z pohľadu kľúčových rebríčkov konkurencieschopnosti po viacročnej stagnácii strácať
+svoju pozíciu. V niektorých ukazovateľoch patrí dokonca medzi najhoršie krajiny
+Európskej únie (EÚ) a z dlhodobého hľadiska to môže mať negatívny vplyv na hospodársky
+vývoj na Slovensku“.
+V roku 2019 boli zákony ovplyvňujúce podnikateľské prostredie upravené 34-krát,
+v roku 2020 prešli až 42-mi zmenami. Išlo tak o medziročný nárast 23,5 %. V priemere
+41
+
+sa tak zmenou niektorého z uvedených zákonov museli podnikatelia zaoberať približne
+každých 9 dní, teda takmer 4-krát mesačne. Celkový počet zmien je však ešte vyšší.
+V našom výpočte totiž nezarátavame novely ostatných zákonov, ktoré v menšej miere,
+no predsa ovplyvňujú podnikateľské prostredie (Removčíková, 2020).
+Tabuľka 6
+
+Počet zmien najdôležitejších zákonov pre podnikateľov v rokoch 2015
+až 2020
+
+Zdroj: Removčíková, 2020
+
+Zdroj: Removčíková, 2020
+Obrázok 8
+
+Početnosť novelizácií kľúčových zákonov ovplyvňujúcich
+podnikateľské prostredie
+42
+
+4.2 Komparácia
+
+podnikateľských
+
+prostredí
+
+SR
+
+s okolitými
+
+krajinami
+Podľa GEM bolo podnikateľské prostredie SR v roku 2019 v porovnaní
+s európskymi krajinami a krajinami s vysokým príjmom dlhodobo podpriemerné. V rámci
+medzinárodného porovnania European Innovation Scoreboard patrí Slovensko dlhodobo
+medzi štáty, ktoré́ v inovačnej výkonnosti zaostávajú́ za priemerom EÚ a spolu s ďalšími
+12 členskými štátmi patrí do kategórie miernych inovátorov. V Superindexe dosiahla SR
+hodnotu 82,1 a umiestnilo sa na 38. mieste v 100 miestnom rebríčku krajín. Oproti
+minulému roku si SR pohoršilo o dve miesta napriek tomu, že v dvoch rebríčkoch dostalo
+lepšie hodnotenie ako v predošlom roku (MH SR, 2021b).
+Mošková a
+
+Buganová (2022) porovnávajú predpokladanú mieru ukončenia
+
+prevádzkovania podnikov voči skutočne potvrdeným uzatvoreniam vplyvom Covid-u 19
+v jednotlivých krajinách V4.
+Tabuľka 7
+
+Dopady COVID-19 na funkčnosť prevádzky podnikov jednotlivých
+krajín V4
+
+Krajina
+
+Predpokladaná
+miera uzatvorenia
+prevádzky
+
+Potvrdená miera
+uzatvorenie
+prevádzky
+
+Rozdiel
+
+Slovenská republika
+
+3,7 %
+
+13,6 %
+
+9,9 %
+
+Česká republika
+
+1,7 %
+
+4,7 %
+
+3%
+
+Maďarsko
+
+1,9 %
+
+4%
+
+2,1 %
+
+Poľsko
+
+2,6 %
+
+8,3 %
+
+5,7 %
+
+Zdroj: Mošková , Buganová, 2022, s. 462
+Podľa Pilkovej a kol. (2019) pokiaľ ide o vnímanie príležitostí je populácia v SR
+je dlhodobo pod priemerom. Tento trend sa premieta do inovatívnosti, kde nás naše
+inovačné skóre zaraďuje na 33. miesto zo 49 hodnotených krajín.
+Najkomplexnejšiu svetovú štúdiu o podnikaní predstavuje Globálny monitoring
+podnikania (GEM). V ročníku 2019 – 2020 doň bolo zapojených 50 krajín sveta, z toho
+22 európskych, pričom SR je podľa ukazovateľa úrovne HDP zaradená do skupiny
+33- tzv. krajín s vysokým príjmom (MH SR, 2021b).
+
+43
+
+Tabuľka 8
+
+Medzinárodné porovnanie s krajinami Európy a krajinami s vysokým
+príjmom
+
+Zdroj: MH SR, 2021b, s. 9
+
+Tabuľka 9
+
+Umiestnenie Slovenska v rebríčkoch WCI indexu (2009 – 2019)
+
+Zdroj: Čabinová, Fedorčíková, Molčanová, 2020, s. 327
+
+44
+
+Tabuľka 10 Umiestnenie krajín V4 vo vybraných ekonomických indexoch
+
+Zdroj: Karelová, 2016b), s. 73
+Vysvetlivky:
+žltá farba – najlepšie umiestnenie spomedzi krajín V4
+zelená farba – umiestnenie krajiny nad priemerom V4
+
+Zdroj: Čabinová, Fedorčíková, Molčanová, 2020, s. 326
+Obrázok 9 Vývoj celkového skóre GCI indexu krajín V4 (2009 – 2017)
+
+45
+
+Zdroj: Čabinová, Fedorčíková, Molčanová, 2020, s. 328
+Obrázok 10 Vývoj celkového skóre WCI indexu krajín V4 (2009 – 2018)
+Rakúska ekonomika má silnú pozíciu v rámci globálnych ekonomík. Je to
+spôsobené najmä dlhoročnou tradíciou podnikania v trhovej ekonomike. Vzhľadom na
+sociálno-ekonomické ukazovatele však možno identifikovať veľkú disproporciu. Celkový
+objem slovenského ročného HDP je stanovený na úrovni 41,5 % rakúskeho ročného
+agregovaného produktu, ale slovenský HDP na obyvateľa je na úrovni 67,4 % rakúskeho
+(Klučka a kol., 2022).
+
+Zdroj: Klučka a kol., 2022, s. 38
+Obrázok 11 Sieťový diagram rakúskeho podnikateľského prostredia
+
+46
+
+Portál Aktuality.sk (2019) uvádza, že Poľsko Poľsko dosiahlo obrovský pokrok
+a je najlepšou krajinou na podnikanie v regióne východnej Európy a centrálnej Ázie,
+vďaka rastúcemu spotrebiteľskému trhu a zlepšujúcej sa infraštruktúre. Vyplýva
+to z najnovšieho prieskumu, ktorý vypracovala agentúra Bloomberg a zverejnila dnes
+na svojej internetovej stránke. Slovensko v prieskume dopadlo najhoršie spomedzi
+sledovaných krajín Európskej únie. Slovensko skončilo na 14. priečke, lepšie sú na tom
+aj Bulhari.
+Krajiny V4 sú dlhodobo postihnuté vysokou mierou nezamestnanosti, alarmujúcim
+je vysoký podiel nezamestnaných mladých ľudí (Vargová, Krajčík, 2015).
+Vládna politika Slovenskej republiky je rovnako priaznivá k podnikateľskej sfére ako
+v Poľsku a Česku a poskytuje priaznivé podmienky pre podnikanie. Z pozitívnych faktorov
+podnikateľského prostredia Slovenska možno spomenúť najvyššiu otvorenosť ekonomiky
+spomedzi krajín V4, strategickú geografickú polohu a dopravnú sieť, vládne stimuly
+pre investorov, pozitívny prístup k priamym zahraničným investíciám, monetárna stabilita
+a európska mena (Karelová, 2016a).
+Aj keď je u hľadiska rozlohy Ukrajina našou najväčšou susednou krajinou, napriek
+tomu je objem recipročného obchodu 4-krát menší než s ostatnými krajinami V4 a až 10 –
+násobne menší ako obchodná činnosť Slovenska s Českom (Družba Slovensko - Ukrajina,
+2017).
+Aktuálne geopolitické rusko-ukrajinské konflikty vytvárajú napätie, ktoré má nepriaznivý
+vplyv na hospodársku a finančnú stabilitu Ukrajiny. Podľa Európskej rada (2022)
+„pretrvávajúce bezpečnostné hrozby už vyvolali značný odliv kapitálu. V dôsledku zvýšenej
+geopolitickej neistoty a jej vplyvu na hospodársku situáciu Ukrajina stráca prístup
+na medzinárodné
+
+kapitálové
+
+trhy.
+
+Členské
+
+štáty
+
+EU
+
+sú
+
+pripravené
+
+poskytnúť
+
+makrofinančnú pomoc vo výške 1,2 miliardy EUR.“.
+
+4.3 Diskusia a odporúčania pre prax
+Na základe poznatkov zo spracovania dostupných existujúcich materiálov
+a predchádzajúcich analýz sme zhrnuli návrhy na odporúčania pre prax v záujme zlepšenia
+podnikateľského prostredia na Slovensku v rôznych oblastiach, hlavne
+Ministerstvo financií SR sa systémovo zaoberá udržateľným rastom hospodárstva
+aj kvality podnikateľského prostredia na Slovensku a uplatňuje rôzne podporné opatrenia.
+47
+
+Ako dôležité odporúčania pre prax na národnej úrovni vnímame dôsledné dodržiavanie
+krokov v Pláne obnovy:
+-
+
+Inovatívna ekonomika – v záujme rastu produktivity práce poskytuje dostatočné
+zručnosti a know-how, s cieľom efektívne
+
+reagovať na súčasné zmeny na trhu
+
+(automatizácia a digitalizácia);
+-
+
+Moderný štát – ochrana práva a záujmov občanov, potláčanie korupcie a trestnej
+činnosti, kvalitné verejné služby, inovatívne podnikateľské prostredie.
+
+-
+
+Zdravá krajina - vytvára predpoklady na plnohodnotné využívanie ľudského
+a prírodného potenciálu - zdravie ľudí, verejného priestoru a životného prostredia (MF
+SR, 2021).
+
+Pri zhrnutí záverečných odporúčaní sme sa inšpirovali aj
+Friedmannovou
+
+opatreniami uvádzaných
+
+a kol. (2020) pre oblasť zvyšovania kvality podnikateľského prostredia
+
+a konkurencieschopnosti ekonomiky Slovenska, na ktoré je potrebné zamerať pozornosť:
+-
+
+Stabilita a predvídateľnosť legislatívneho rámca podnikania
+
+-
+
+Zrozumiteľnosť legislatívnych noriem
+
+-
+
+Posilnenie vplyvu podnikateľov na legislatívne prostredie
+
+-
+
+Zjednodušenie zakladania spoločností a začatia podnikania
+
+-
+
+Zintenzívnenie podpory začínajúcich podnikateľov a spoločností
+
+-
+
+Znižovanie administratívneho zaťaženia - výrazne zníženie, a to predovšetkým
+v oblasti odvodov a daní.
+
+-
+
+Zníženie daňového zaťaženia a zjednodušenie platenia daní
+
+-
+
+Jednoduchšie zamestnávanie a cena práce
+
+-
+
+Zlepšenie v oblasti vymožiteľnosti práva - implementovať opatrenia, ktoré umožnia
+podnikateľom rýchlejší a efektívnejší prístup k vymožiteľnosti svojich práv
+pomocou súdneho systému.
+
+-
+
+Podnecovanie záujmu študentov o podnikanie v školskom systéme Slovenska.
+
+Návrhy odporúčaní podľa Horvátovej, Gregovej a Hraškovej (2020):
+-
+
+výchova k podnikateľskému mysleniu a rozvoju podnikateľských zručností
+na všetkých stupňoch škôl
+
+-
+
+systematické prepojenie podnikateľského sektora s vedecko-výskumnou základňou
+
+-
+
+elektronizácia verejnej správy - štátnych inštitúcií, s ktorými podnikateľ prichádza
+do kontaktu - systém elektronického verejného obstarávania
+
+48
+
+-
+
+zákonné vymedzenie doby splatnosti faktúr na 30 dní - zjednodušenie a urýchlenie
+súdnych procesov pri vymáhaní neuhradených pohľadávok
+
+-
+
+uzákoniť, aby zákony boli prijímané dostatočne včas pred nadobudnutím účinnosti
+
+-
+
+zlepšenie informovanosti o poskytovanej štátnej pomoci – transparentnosť
+
+-
+
+zjednodušenie prístupu k financiám – Mikropôžičký program
+
+-
+
+efektívne nastavenie systému regionálnej podpory MSP - regionálne rozvojové
+agentúry, regionálne poradenské a informačné centrá
+
+-
+
+spolupráca Slovenskej agentúry pre rozvoj investícií a obchodu a siete Enterprise
+Europe Network .
+
+Z výsledkov prieskumov podnikateľského prostredia na Slovensku na základe dát
+Globálneho monitoru podnikania v roku 2018 podľa Pilkovej a kol. (2019) vyplýva,
+že sú potrebné mnohé opatrenia, vedúce k zlepšeniu situácie:
+-
+
+podpora
+
+podnikania
+
+orientovaná
+
+na
+
+riešenie
+
+kritických
+
+problémov
+
+v podnikateľskom prostredí
+-
+
+znižovanie administratívnej a byrokratickej záťaže spojenej s podnikaním
+
+-
+
+znižovanie daňového a odvodového zaťaženia podnikania
+
+-
+
+stabilizácia a zvýšenia predvídateľnosti podnikateľskej legislatívy
+
+-
+
+zefektívňovať všetky formy podpory prístupu nových a rastúcich firiem
+k profesionálnej infraštruktúre, k expertným a poradenským službám
+
+-
+
+Dobudovanie potrebnej dopravnej infraštruktúry v regiónoch.
+
+Vzhľadom k rôznym súčasným ohrozeniam súhlasíme s názormi Gundovej a Vyletelovej
+(2018), ktoré poukazujú na potrebu schopnosti predikovania rizík a z toho je taktiež možné
+odvodiť odporúčanie v podobe orientácie na konštrukciu, vyvíjanie a aplikovanie
+prepracovaných modifikovaných metód predikovania podnikateľského prostredia.
+Zistené výsledky podľa Hudákovej, Masára, Brezinu (2019, s. 63) zdôrazňujú nutnosť
+„zaoberať sa posudzovaním podnikateľských rizík v MSP na Slovensku a potreba zvýšiť
+mieru znalostí o možných príčinách a následkoch pôsobenia rizika, ako aj aplikáciu
+adekvátnych opatrení na ich zníženie za účelom zlepšenie úrovne manažmentu rizík“.
+
+49
+
+ZÁVER
+„Podnikanie je ako strom, ktorého základ tvoria pevné korene, zakotvené v pôde
+s dostatkom živín. Jeho korunu formuje pestovateľ, ale úroda závisí i od usilovnosti včiel
+robotníc, dostatku slnka, dažďa, prívetivosti vánku a zhovievavosti vetrov. Na jeho úrodu
+pritom čaká množstvo iných v okolí.“ (Papula a kol., 2015).
+Aj keď uvedený citát nie je exaktnou definíciou podnikania, napriek tomu nás toto
+podobenstvo k stromu oslovilo a evokuje v nás myšlienky a pocity, v závere témy trochu
+odľahčujúce problematiku, ktorá sa v textoch práce orientuje na reálne problémy, spojené
+s podnikaním a podnikateľským prostredím.
+Spoločensky vysoko aktuálna a závažná problematika podnikateľského prostredia
+bola dôvodom k spracovaniu zadania záverečnej práce
+
+Podnikateľské prostredie
+
+v krajinách Európskej únie.
+Práca má teoreticko-praktický charakter, nakoľko v prvej kapitole riešime teoretický rámec
+a východiská danej problematiky, definujeme kľúčovú terminológiu a charakterizujem
+dôležité aspekty a faktory podnikateľského prostredia. V praktickej kapitole skúmame,
+teda analyzujeme a komparujeme konkrétne vybrané európske krajiny (Slovensko, Česko,
+Poľsko, Maďarsko, Rakúska a Ukrajinu) v kontexte podnikateľského prostredia.
+Máme za to, že sme naplnili vopred stanovené ciele bakalárskej práce, pretože sme
+v danom rozsahu uviedli všetky fakty a poznatky, ktoré sú predmetom cieľov
+vymedzených v druhej kapitole, a to hlavný cieľ (obsiahnutý komparáciou vybraných
+podnikateľských prostredí Slovenska a okolitých krajín), tak aj čiastkové špecifické ciele.
+Bibliografické pramene sme čerpali z dostupných relevantných zdrojov, hlavne
+z monografií a vedeckých príspevkov odborníkov a erudovaných autorov uvedených
+v zborníkoch z vedeckých konferencií, taktiež na aktuálnych oficiálnych odborných
+webových portáloch. Čerpané zdroje sme náležite uviedli v zozname použitej literatúry.
+Úplne v závere práce citujeme slová predsedu Európskej komisie Junckera:
+„Zamestnanosť, rast a investície sa v Európe obnovia len v prípade vytvorenia priaznivého
+regulačného prostredia a podpory atmosféry podnikania a vytvárania pracovných miest.
+Nesmieme brzdiť inováciu a konkurencieschopnosť príliš reštriktívnymi a podrobnými
+predpismi, najmä keď ide o malé a stredné podniky, ktoré tvoria základ nášho
+hospodárstva, pričom vytvárajú viac než 85 % nových pracovných miest v Európe.“
+(Európska komisia, 2020).
+50
+
+POUŽITÉ ZDROJE
+ADVANTAGE AUSTRIA. 2022a. Založenie spoločnosti v Rakúsku – most medzi východom
+a západom. Bratislava: Rakúske veľvyslanectvo, 2022. [online]. [cit. 2022.05.21]
+Dostupné
+
+na
+
+internete:
+
+<https://investinaustria.at/en/sk-zalozenie-spolocnosti-v-
+
+rakusku.php>.
+ADVANTAGE AUSTRIA. 2022b. Čísla a fakty - Rakúsko je ziskovou lokalitou - a to aj pre
+medzinárodných investorov.
+
+Bratislava: Rakúske veľvyslanectvo, 2022. [online].
+
+[cit. 2022.05.21]
+
+Dostupné
+
+na
+
+internete:
+
+<https://www.advantageaustria.org/sk/zentral/business-guide/investieren-inoesterreich/standort-oesterreich/zahlen-und-fakten/zahlen_fakten.sk.html>.
+AHK SLOWAKEI, 2022. Vojna na Ukrajine - informácie pre podnikateľov. Bratislava: AHK
+Slovensko-nemecká obchodná a priemyselná komora, 2022. [online]. [cit. 2022.05.21]
+Dostupné na internete: <https://slowakei.ahk.de/sk/vojna-na-ukrajine>.
+AKTUALITY.SK. 2019. Ďalšia rana pre Slovensko. Podnikateľské prostredie je u nás najhoršie
+spomedzi východných štátov EÚ. [online]. [cit. 2022.05.21] Dostupné na internete:
+<https://www.aktuality.sk/clanok/244297/polsko-je-top-krajinou-na-podnikanie-vovychodnej-europe-a-centralnej-azii-slovensko-skoncilo-az-14/>.
+BARÁTHOVÁ, K. 2015. Podpora malých a stredných podnikov vo vybranom regióne. In Zborník
+príspevkov z konferencie ŠVOČ 2015 s medzinárodnou účasťou. Nitra: Fakulta
+ekonomiky a manažmentu Slovenská poľnohospodárska univerzita v Nitre, 2015. ISBN
+978-80-552-1350-7, s. 14 – 23.
+BLAŽEK, L. 2016. Nový přístup k analýze podnikatelského prostředí. In: Aktuálne problémy
+podnikovej sféry 2016 - Zborník vedeckých prác. Bratislava: Vydavateľstvo Ekonóm,
+2016. 1119 s. ISBN 978-80-225-4245-6, s. 50 – 55.
+BRTKOVÁ, J. 2019. Vybrané nástroje implementácie etiky v organizácii. In Verejná správa a
+regionálny rozvoj - Scientific Journal Public administration and Regional Development
+No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a manažmentu verejnej správy
+v Bratislave, 2019. ISSN 1337-2955, s. 22 – 26.
+BRUOTHOVÁ, M. 2017. Vývoj podnikateľského prostredia v krajinách V4. In: Journal of
+innovations and applied statistics - Vedecký internetový časopis. Ročník 7, 2017, Číslo:
+2.
+
+Košice: Ekonomická univerzita v Bratislave - Podnikovohospodárska fakulta so
+
+sídlom v Košiciach, 2017. ISSN 1338-5224, s. 50 – 59.
+BUKOVOVÁ, S. 2016. Malé a stredné podniky a zamestnanosť na Slovensku. In: MANažment a
+EKOnomika (Journal of MANagement and ECOnomics) MANEKO: 2016.02. Číslo
+2/2016, ročník VIII. Bratislava: Ústav manažmentu slovenskej technickej univerzity
+
+51
+
+v Bratislave - Oddelenie manažmentu chemických a potravinárskych technológií, 2016.
+ISSN 1338-5127. s. 156 – 166.
+CENEK, M.
+
+2016. Konkurence ve strategické analýze podnikatelského prostředí dle
+
+stakeholderského pojetí. In: Aktuálne problémy podnikovej sféry 2016 - Zborník
+vedeckých prác. Bratislava: Vydavateľstvo Ekonóm, 2016. 1119 s. ISBN 978-80-2254245-6, s. 108 – 116.
+ČABINOVÁ, V. - FEDORČÍKOVÁ, R. – MOLČANOVÁ, S. 2020. Podnikateľské prostredie
+Slovenska v kontexte globálnej konkurencieschopnosti. In Mladá veda - medzinárodný
+vedecký časopis mladá veda , číslo 2, ročník 8., vydané v decembri 2020. Prešov:
+Vydavateľstvo UNIVERSUM, spol. s r. o., 2020. ISSN 1339-3189, s. 316 – 322.
+ČERVINKA, M. – TYKVA, T.
+
+2010. Vliv regionální politiky a jejích nástrojů na rozvoj
+
+podnikatelského klimatu a znalostní ekonomiky. In: Ekonomika Management Inovace –
+Vědecko-odborný časopis Moravské vysoké školy Olomouc. Olomouc: Moravská vysoká
+škola Olomouc, o.p.s., 2020. ISSN 1804-1299, s. 63 – 70.
+ČIERNIK, P. 2021. Dopady pandémie covid -19 na podnikateľské prostredie na Slovensku. In
+Manažment podnikania a vecí verejných Ročník XVI. Číslo 2/2021. Bratislava: Slovenská
+akadémia manažmentu o.z. - Ekonomická univerzita v Bratislave, 2021. ISSN 1337-0510,
+s. 27 – 39.
+DOBROVIČ, J. 2016. Manažérske koučovanie vo vzdelávaní malých a stredných podnikoch. In
+Identifikácia a rozvoj sociálneho a psychického potenciálu - Zborník recenzovaných
+štúdií z vedeckého seminára. Prešov: Bookman s.r.o., pre Fakultu manažmentu
+Prešovskej univerzity v Prešove, 2016. ISBN 978-80-8165-169-4, s. 66 – 76.
+DRUŽBA SLOVENSKO – UKRAJINA. 2017. Slovensko - Ukrajina: spolupráca naprieč
+hranicou. Košice: Družba Slovensko - Ukrajina, n. o, 2017. [online]. [cit. 2022.05.21]
+Dostupné na internete: <http://sk-ua.org/sk/>.
+EURÓPSKA KOMISIA. 2020. Príručka pre používateľov k definícii MSP. Luxemburg: Úrad pre
+vydávanie publikácií Európskej únie, 2020. 60 s. ISBN 978-92-79-69884-2.
+EURÓPSKA RADA, 2022. Rada podporila pomoc Ukrajine vo výške 1,2 miliardy EUR – tlačová
+správa. Brussel: Rada Európskej únie, 2022. [online]. [cit. 2022.05.21] Dostupné na
+internete: <https://www.consilium.europa.eu/sk/press/press-releases/2022/02/11/councilsupports-1-2-billion-assistance-to-ukraine/>.
+FABOVÁ, Ľ. 2015. Vplyv inovácií na konkurencieschopnosť ekonomík. In: Časopis znalostní
+společnosti - mezinárodní vědecký časopis. Číslo 1/2015, Roč. 3. ISSN 2336-2561. s. 91
+– 97.
+FRIEDMANNOVÁ, D. a kol. 2020. SMART podnikateľské prostredie v podmienkach SR, ako
+podporná infraštruktúra pre podniky počas jednotlivých fáz ich životného cyklu.
+
+52
+
+Bratislava: Asociácia zamestnávateľských zväzov a združení SR, 2020. 225 s. ISBN 97880-8273-013-8.
+GOZORA, V. 2019 a. Bezpečnostné riziká a krízové javy v hospodárskej sfére. In Verejná správa
+a regionálny rozvoj - Scientific Journal Public administration and Regional Development
+No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a manažmentu verejnej správy
+v Bratislave, 2019. ISSN 1337-2955, s. 39 – 44.
+GOZORA, V. 2019 b. Riešenie krízových javov v agropotravinárskych podnikoch. In Verejná
+správa a regionálny rozvoj - Scientific Journal Public administration and Regional
+Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a manažmentu
+verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 45 – 49.
+GRMAN, P. – ŠVIKRUHOVÁ, P. – KATANÍKOVÁ, R. 2019. Spoločensky zodpovedné
+správanie občanov Slovenskej republiky vzhľadom na ekonomickú sebestačnosť. In
+Verejná správa a regionálny rozvoj - Scientific Journal Public administration and
+Regional Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a
+manažmentu verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 50 – 56.
+GUNDOVÁ, P. -
+
+VYLETELOVÁ, E. 2018. Komparácia predikčnej schopnosti metód
+
+viacrozmernej diskriminačnej analýzy a logit a probit modelov. In Ekonomika a
+spoločnosť, roč. XIX, 2018, č. 2 – recenzovaný vedecký časopis Ekonomickej fakulty
+Univerzity Mateja Bela v Banskej Bystrici. Banská bystrica: Vydavateľstvo Belianum,
+2018. ISSN 1335-7069, s. 119 – 127.
+HORVÁTOVÁ, L. - GREGOVÁ, E. – HRAŠKOVÁ, D. 2020. Aspekty efektívnej podpory
+malých a stredných podnikov. In: Ekonomika Management Inovace – Vědecko-odborný
+časopis Moravské vysoké školy Olomouc. Olomouc: Moravská vysoká škola Olomouc,
+o.p.s., 2020. ISSN 1804-1299, s. 49 – 59.
+HUDÁKOVÁ, M. – MASÁR, M. – BREZINA, D. 2019. Postoj malých a stredných podnikoch k
+vzdelávaniu v oblasti manažmentu rizík v krajinách Vyšehradskej štvorky. In Verejná
+správa a regionálny rozvoj - Scientific Journal Public administration and Regional
+Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a manažmentu
+verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 57 – 64.
+IŽOVÁ, K. 2017. Vybraná problematika podnikania malých a stredných podnikov – vysokoškolská
+učebnica. Dubnica nad Váhom: VŠ Dubnický technologický inštitút, E-knihy jedou
+Praha, 2017. 85 s. ISBN 978-80-7512-778-5.
+JACKOVÁ, A. - CHODASOVÁ, z. 2017. Možnosti zvyšovania konkurencieschopnosti podniku.
+In Časopis znalostní společnosti /mezinárodní vědecký časopis/ Číslo 1/2017, roč. 5.
+Brno: Knowler - Evropský institut pro výzkum, inovace a vzdělávání, z. s., 2017. ISSN
+2336-2561, s. 1 – 11.
+
+53
+
+KARELOVÁ, K. 2016a. Porovnanie podnikateľského prostredia krajín V4 na základe vybraných
+indexov. In Forum Statisticum Slovacum, Vol 12 (2016) No 2 - vedecký časopis
+Slovenskej štatistickej a demografickej spoločnosti. Bratislava: Slovenská štatistická a
+demografická spoločnosť, 2016. ISSN 1336-7420, s. 24 ‐39.
+KARELOVÁ, K. 2016b. Komparácia kvality podnikateľského prostredia krajín V4. In Almanach:
+Aktuálne Otázky Svetovej Ekonomiky a Politiky; Bratislava Vol. 11, Iss. 2/2016.
+Bratislava: Vydavateľstvo Ekonóm, Ekonomická univerzita v Bratislave, Fakulta
+medzinárodných vzťahov, 2016. ISSN 1339-3502, s. 67-75.
+KLUČKA, J. a kol. 2022. Hodnotenie výkonnosti malých a stredných podnikov (na Slovensku a v
+Rakúsku). Žilina: Žilinská univerzita v Žiline Fakulta bezpečnostného inžinierstva, 2022.
+100 s. ISBN 978-80-554-1840-7.
+KOVALEV, A. 2017. Oceňovanie vplyvu informačno-regulačného prostredia na podnikovú sféru.
+In Ekonomika, financie a manažment podniku – 2017 -
+
+Zborník vedeckých prác.
+
+Bratislava: Ekonomická univerzita v Bratislave - Fakulta podnikového manažmentu Vydavateľstvo Ekonóm, 2017. ISBN 978-80-225-4435-1, s. 325 – 336.
+KUZMIŠIN, P. – KUZMIŠINOVÁ, V. 2015.
+
+Medzinárodné podnikateľské prostredie a
+
+nadnárodné podniky – vývojové tendencie v kontexte globalizácie. In Perspektívy Časopis o ekonomických otázkach, č. 2/2015. Prešov: Vysoká škola medzinárodného
+podnikania ISM Slovakia v Prešove. ISSN 1339-8245, s. 36 – 57.
+KUZMIŠINOVÁ,
+
+V.
+
+2013.Podnikateľské
+
+prostredie
+
+Slovenska
+
+v kontexte
+
+hodnotenia
+
+medzinárodných inštitúcií a indexov. In Ekonomika Management Inovace, Vol. 5, Issue
+2/2013. Olomouc: Moravská vysoká škola Olomouc, o.p.s., 2013. ISSN 1804-1299, s. 17
+– 25.
+MACEK, R. 2019. Fiškálna politika a hospodársky rast: komplexný prehľad. In: Nálepová, V.,
+(ed.). Proceedings of the International Scientific Conference - Economic and Social
+Policy: Economic and Social Challenges for European Economy. Ostrava: Vysoká škola
+Prigo, 2019. ISBN 978-80-87291-25-2, s. 347 – 358.
+MF SR. 2021. Inovatívna ekonomika, moderný štát, zdravá krajina - sumár Plánu obnovy a
+odolnosti
+
+SR.
+
+Bratislava:
+
+Ministerstvo
+
+financií
+
+SR,
+
+2021.
+
+11
+
+s.
+
+[online].
+
+[cit. 2022.01.21.] Dostupné na internete: <https://www.mfsr.sk/files/sk/financie/hodnotaza-peniaze/blogy-uhp/2021/inovativna-ekonomika-moderny-stat-zdravakrajina/rrp_komunikacia_marec.pdf>.
+MH SR. 2021a. Správy o stave podnikateľského prostredia v SR – komentár. Bratislava:
+Ministerstvo hospodárstva SR, 2021. [online]. [cit. 2022.01.21.] Dostupné na internete:
+<https://www.mhsr.sk/podnikatelske-prostredie/lepsia-regulacia/opatrenia/spravy-ostave-podnikatelskeho-prostredia-v-sr>.
+
+54
+
+MH SR. 2021b. Správa o stave podnikateľského prostredia v Slovenskej republike. Bratislava:
+Ministerstvo hospodárstva SR, 2021. [online]. [cit. 2022.01.21.] Dostupné na internete:
+<https://rokovania.gov.sk/RVL/Material/25864/1>.
+MIRRI SR. 2020. Vyšehradská skupina (V4). Bratislava: Ministerstvo investícií, regionálneho
+rozvoja a informatizácie Slovenskej republiky. [online]. [cit. 2022.05.21] Dostupné na
+internete:
+
+<https://www.mirri.gov.sk/sekcie/informatizacia/medzinarodna-
+
+agenda/medzinarodna-spolupraca/vysehradska-skupina-v4/index.html>.
+MOŠKOVÁ, E. – BUGANOVÁ, K. 2021. Aktuálne problémy podnikateľského prostredia so
+zameraním na manažment rizík. In Medzinárodná vedecká konferencia rozvoj
+euroregiónu Beskydy XV - Diagnostika spoločensko-ekonomických podmienok „súčasné
+zmeny spoločensko-ekonomickej situácie a výhľad do budúcnosti“. Žilina: Žilinská
+univerzita v Žiline, 2021. ISBN 9788055412917.
+MOŠKOVÁ, E. - BUGANOVÁ, K. 2022. Manažment rizík ako nástroj na zabezpečenie
+prevádzkyschopnosti podniku v súvislosti s pandémiou covid-19. In Riešenie krízových
+situácií v špecifickom prostredí - 25. medzinárodná vedecká konferencia. Žilina: Fakulta
+bezpečnostného inžinierstva UNIZA, 2022. s. 459 – 467.
+MZVEZ SR. 2022. Vyšehradská skupina. Bratislava: Ministerstvo zahraničných vecí a európskych
+záležitostí Slovenskej republiky, 2022. [online]. [cit. 2022.05.21] Dostupné na internete:
+<https://www.mzv.sk/zahranicna_politika/slovensko _a_v4-vysehradska_skupina>.
+NOVÁČEK, P. 2021. Poskytovanie štátnej pomoci v súvislosti s ochorením Covid- 19 na
+Slovensku. In Manažment podnikania a vecí verejných Ročník XVI. Číslo 1/2021.
+Bratislava: Slovenská akadémia manažmentu o.z. - Ekonomická univerzita v Bratislave,
+2021. ISSN ISSN 1337-0510, s. 17 – 34.
+PAPULA, J. a kol. 2015. Podnikanie a podnikateľské myslenie I. : Kto a prečo podniká. Praha:
+Vydavateľstvo Wolters Kluwer, a. s., 2015. 240 s. ISBN 978-80-7478-950-2.
+PILKOVÁ, A. a kol. 2016. Komerčné, sociálne a inkluzívne podnikanie na Slovensku. Bratislava:
+Univerzita
+
+Komenského
+
+v
+
+Bratislave,
+
+Fakulta
+
+managementu
+
+v
+
+spolupráci
+
+s
+
+vydavateľstvom Kartprint, 2016. 261 s. ISBN 978-80-223-4230-8.
+PILKOVÁ, A. a kol. 2019. Podnikanie na Slovensku: aktivita, prostredie a vybrané druhy
+podnikania. Bratislava: Univerzita Komenského v Bratislave, Vydavateľstvo Kartprint,
+2019. 131 s. ISBN 978-80-223-4746-4 2019.
+POHORELÁ, P. 2019. Eurovoľby 2019: Ako EÚ zasahuje do podnikania? Toto je 5 top regulácií.
+[online]. [cit. 2022.01.21.] Dostupné na internete: <https://www.podnikajte.sk/zakonnepovinnosti-podnikatela/eurovolby-2019-eu-podnikanie-regulacie>.
+REMOVČÍKOVÁ, L. 2020. Ako často sa menili top zákony ovplyvňujúce podnikanie? Považská
+Bystrica: On-line magazín o podnikaní Podnikajte.sk.
+
+55
+
+[online]. [cit. 2022.05.21]
+
+Dostupné na internete: <https://www.podnikajte.sk/obchodne-pravo/ako-casto-sa-meniazakony-ovplyvnujuce-podnikanie>. ISSN 1338-2187.
+RUSNÁK, J. - KOREC, P. 2020. Teórie regionálneho rozvoja a výskum regiónov. Bratislava:
+Prírodovedecká fakulta Univerzity Komenského v Bratislave, 2020. 219 s. ISBN 978-80223-5059-4.
+SBA. 2021. Správa o stave malého a stredného podnikania v SR v roku 2020. Bratislava: Slovak
+Business Agency, 2021. 145 s. [online]. [cit. 2022.05.21] Dostupné na internete:
+<http://www.sbagency.sk/stav-maleho-a-stredneho-podnikania>.
+SBA. 2022. Dopady konfliktu na Ukrajine na podnikateľov - Výsledky prieskumu. Bratislava:
+Slovak Business Agency, 2022. [online]. [cit. 2022.05.21] Dostupné na internete:
+<http://monitoringmsp.sk/wp-content/uploads/2022/03/Vysledky-prieskumu_dopadykonfliktu-na-Ukrajine-na-podnikatellov-1.pdf>.
+SVETOZAROVOVÁ, N. - NASTIŠIN, Ľ. 2020. Ranking výkonnosti startupových ekosystémov v
+krajinách V4. In Journal of Global Science, 2020. [online]. [cit. 2022.05.21] Dostupné na
+internete: <http://jogsc.com/pdf/2020/special/ranking.pdf>. ISSN 2453-756X, s. 1 – 7.
+SOLÍK, J. 2022. Ako vplýva konflikt na Ukrajine na našich podnikateľov?. Prešov: Podnikateľské
+centrum,
+
+2022.
+
+[online].
+
+[cit. 2022.05.21]
+
+Dostupné
+
+na
+
+internete:
+
+<https://podnikatelskecentrum.sk/ako-vplyva-konflikt-na-ukrajine-na-nasichpodnikatelov/>.
+ŠOFRANKOVÁ, B. – KISEĽÁKOVÁ, D. 2019. Analýza hodnotenia podnikateľského prostredia
+krajín eú (28) pomocou doing business indexu. In: Medzinárodný vedecký časopis Mladá
+veda / Young Science. Číslo 2, ročník 7. Prešov: Vydavateľstvo Universum, spol. s r. o.,
+2019. ISSN 1339-3189, s. 1 – 11.
+ŠTRBA, M. 2021. Rakúsko: Štátna pomoc možno zachránila až 60 % firiem pred bankrotom,
+ukazuje štúdia. Bratislava: Podnikateľské centrum, 2021. [online]. [cit. 2022.05.21]
+Dostupné na internete: <https://podnikatelskecentrum.sk/rakusko-statna-pomoc-moznozachranila-az-60-firiem-pred-bankrotom-ukazuje-studia/>.
+TASR. 2018. V konkurencieschopnosti sme medzi najhoršími v EÚ - Slovensko sa vzdialilo od
+špičky v oblasti podnikateľského prostredia. Bratislava: Tlačová agentúra SR. 2018.
+[online].
+
+[cit. 2022.01.21.]
+
+Dostupné
+
+na
+
+internete:
+
+<https://finweb.hnonline.sk/ekonomika/1716506-konkurencieschopnost-na-slovensku-vniektorych-ukazovateloch-sme-medzi-najhorsimi-v-eu>.
+TÁNCOŠOVÁ, J. 2019. Priame zahraničné investície a postavenie malých a stredných podnikov
+v SR. In Verejná správa a regionálny rozvoj - Scientific Journal Public administration
+and Regional Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a
+manažmentu verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 161 – 170.
+
+56
+
+ÚRAD VLÁDY SR. 2022. Trvalo udržateľný hospodársky rozvoj. Bratislava: Úrad vlády SR,
+2022.
+
+[online].
+
+[cit. 2022.05.21]
+
+Dostupné
+
+na
+
+internete:
+
+<https://www.vlada.gov.sk/trvalo-udrzatelny-hospodarsky-rozvoj/>.
+VARGOVÁ, A.
+
+– KRAJČÍK, D. 2015. Porovnanie vybraných indikátorov podnikateľského
+
+prostredia v rámci krajín V4 so zameraním na trh práce, vzdelávanie a inovácie. In Studia
+commercialia Bratislavensia – recenzovaný vedecký časopis, č./No.: 29 (1/2015);
+roč./Vol.: 8. Bratislava: Obchodná fakulta Ekonomickej univerzity v Bratislave, 2015.
+ISSN 1339-3081 (Online), s. 112 – 122.
+VOJTECH, F. – LEVICKÝ, M. 2019a. Stratégia – inovácie – kvalita, vyspelá spoločnosť. In
+Verejná správa a regionálny rozvoj - Scientific Journal Public administration and
+Regional Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola ekonómie a
+manažmentu verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 179 – 185.
+VOJTECH, F. – LEVICKÝ, M. 2019b. Malé a stredné podniky v odvetví pôdohospodárstva na
+Slovensku. In Verejná správa a regionálny rozvoj - Scientific Journal Public
+administration and Regional Development No.2, 2019, Vol. XV. Bratislava: Vysoká škola
+ekonómie a manažmentu verejnej správy v Bratislave, 2019. ISSN 1337-2955, s. 186 –
+192.
+VOJTECH, F. – MIŽIČKOVÁ, J. – LEVICKÝ, M. 2019. Vplyv faktorov právneho prostredia na
+rodinné podniky v regiónoch Slovenskej republiky. In XXII. mezinárodní kolokvium
+o regionálních vědách - Sborník příspěvků. Brno: Masarykova univerzita, 2019. ISBN
+978-80-210-9268-6, s. 117 – 124.
+ZPS. 2020. Vnímanie podnikania. Bratislava: Združenie podnikateľov Slovenska, 2020. [online].
+[cit. 2022.05.21] Dostupné na internete: <https://www.zps.sk/vnimanie-podnikania>.
+
+57
+
+

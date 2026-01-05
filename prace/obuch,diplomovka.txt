@@ -1,0 +1,3501 @@
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA PRÍRODNÝCH VIED
+
+VYUŽITIE RETENČNÝCH VLASTNOSTÍ
+SUPERABSORPČNÝCH POLYMÉROV AKO
+ADAPTAČNÉHO OPATRENIA PRE OCHRANU PÔDY VOČI
+KLIMATICKEJ ZMENE
+Diplomová práca
+
+2024
+
+Bc. Juraj Obuch
+
+UNIVERZITA SV. CYRILA A METODA V TRNAVE
+FAKULTA PRÍRODNÝCH VIED
+Ústav chémie a environmentálnych vied
+
+VYUŽITIE RETENČNÝCH VLASTNOSTÍ
+SUPERABSORPČNÝCH POLYMÉROV AKO
+ADAPTAČNÉHO OPATRENIA PRE OCHRANU PÔDY VOČI
+KLIMATICKEJ ZMENE
+Diplomová práca
+
+Študijný program: Inžinierstvo životného prostredia
+Študijný odbor:
+
+7. - Ekologické a environmentálne vedy
+
+Školiace pracovisko:Ústav chémie a environmentálnych vied FPV UCM v Trnave
+Školiteľ:
+
+Mgr. Martin Valica, PhD.
+
+Konzultant:
+
+doc. RNDr. Miroslav Horník, PhD.
+
+2024
+
+Bc. Juraj Obuch
+
+Čestné prehlásenie
+Prehlasujem, že som svoju diplomovú prácu na tému: Využitie retenčných vlastností
+superabsorpčných polymérov ako adaptačného opatrenia pre ochranu pôdy voči klimatickej
+zmene vypracoval samostatne pod odborným vedením svojho školiteľa s použitím literatúry
+uvedenej v zozname.
+
+....................................................
+Podpis študenta
+
+Poďakovanie
+Touto cestou by som sa chcel poďakovať môjmu školiteľovi Mgr. Martinovi Valicovi, PhD.
+za jeho ochotu a odborné vedenie diplomovej práce. Takisto by som sa chcel poďakovať doc.
+RNDr. Miroslavovi Horníkovi, PhD. a RNDr. Vande Adamcovej, PhD. za ich odborné rady.
+Ďalej by som sa chcel poďakovať Mgr. Lenke Vavrincovej za pomoc pri realizovaní
+experimentov. V neposlednom rade patrí poďakovanie pracovníkom VÚRV rastlinnej výroby
+Ing. Rastislavovi Bušovi, PhD., Ing. Romanovi Hašanovi, PhD. a technickým pracovníkom
+výskumného pracoviska Borovce za odborné rady, asistencie pri odberoch vzoriek pôd a za
+poskytnutie vzoriek hnojív a odberových zariadení.
+
+Abstrakt
+Obuch Juraj, Bc: Využitie retenčných vlastností superabsorpčných polymérov ako
+adaptačného opatrenia pre ochranu pôdy voči klimatickej zmene [Diplomová práca] Univerzita sv. Cyrila a Metoda v Trnave, Fakulta prírodných vied, Ústav chémie
+a environmentálnych vied – Školiteľ: Mgr. Martin Valica, PhD. – Stupeň odbornej
+kvalifikácie: Inžinier – Trnava 2024, 92 s.
+Aktuálne prebiehajúce klimatické zmeny majú negatívny vplyv na životné prostredie
+a distribúciu vody v pôde. V dôsledku čoho tradičné používané poľnohospodárske techniky
+nemusia byť dostatočným opatrením voči týmto negatívnym klimatickým dopadom.
+Superabsorpčné polyméry (SAP) predstavujú modernú alternatívu u bežne zaužívaných
+prístupov na zvýšenie zadržania vody v pôde. Veľké riziko v minulosti používaných SAP
+spočívalo vo vysokom obsahu toxických látok, ktoré dlhodobo zotrvávali v pôde bez
+výrazného rozkladu. Súčasný trend je v použití biologicky odbúrateľných polymérov, ktoré
+boli hodnotené v rámci experimentálnej časti práce.
+Experimentálna
+
+časť
+
+sa
+
+realizovala
+
+v areáli
+
+vedecko-výskumného
+
+ústavu
+
+v Borovciach, kde sa SAP dlhodobo používajú. V rámci práce sa realizovala chemická
+a fyzikálno-chemická charakterizácia pôdy na danej lokalite s odberom vzoriek pôd pre
+realizovanie laboratórnych experimentov, ktorých cieľom bolo hodnotenie vodozádržnej
+schopnosti pôdy pred a po aplikácií SAP. V rámci experimentov boli realizované modelové
+testovania SAP za účelom sledovania vplyvu rôznych faktorov (agrotechnický prístup,
+aplikácia hnojív, zvýšená teplota). Súčasťou laboratórnych experimentov bolo hodnotenie
+absorpčných a retenčných charakteristík SAP (AGRO, SEED, STARCH) v modelových
+podmienkach (deionizovaná voda, NPK hnojivo s nízkou koncentráciou, NPK hnojivo
+s vysokou koncentráciou a pôdny výluh), kde bol zaznamenaný výrazný pokles funkčnosti
+SAP STARCH v prítomnosti zdrojov dusíka, fosforu a draslíka (48 h - 81 %). Súčasťou
+laboratórnych experimentov bolo aj overenie aplikácie SAP do pôdnych vzoriek, kde sa nám
+podarilo zaznamenať v prípade konvenčnej a bezorbovej technológie zvýšenie retenčnej
+kapacity. Prostredníctvom realizovaných kolónových experimentov sa dokázal vplyv nielen
+chemických, ale aj fyzikálno-mechanických vlastností pôdneho substrátu na funkčnosť SAP,
+čo je nutné zohľadňovať pri jeho aplikácii v reálnych podmienkach.
+Kľúčové slová: klimatická zmena, retencia vody, superabsorpčné polyméry, ochrana pôdy
+
+Abstract
+Obuch Juraj, Bc: Utilization of retention properties of superabsorbent polymers as an
+adaptation measure for soil protection against climate change [Master's Thesis] - University
+of Ss. Cyril and Methodius in Trnava, Faculty of Natural Sciences, Department of Chemistry
+and Environmental Sciences - Supervisor: Mgr. Mgr. Martin Valica, PhD. - Degree of
+Professional qualification: Engineer - Trnava 2024, 92 p.
+The current climate change is having a negative impact on the environment and the
+distribution of water in the soil. As a result, the traditional agricultural techniques used may
+not be a sufficient measure against these negative climatic impacts. Superabsorbent polymers
+(SAPs) represent a modern alternative to conventional approaches to increase soil water
+retention. A major risk of the SAPs used in the past was the high content of toxic substances
+that persisted in the soil for long periods of time without significant degradation. The current
+trend is to use biodegradable polymers, which were evaluated in the experimental part of the
+thesis.
+The experimental part was carried out on the premises of the scientific research
+institute in Borovce, where SAPs have been used for a long time. The work included chemical
+and physicochemical characterization of the soil at the site with soil sampling for the
+implementation of laboratory experiments aimed at evaluating the water retention capacity of
+the soil before and after the application of SAPs. In the experiments, model tests of SAP were
+carried out to observe the influence of different factors (agrotechnical approach, fertilizer
+application, elevated temperature). The laboratory experiments included the evaluation of
+absorption and retention characteristics of SAPs (AGRO, SEED, STARCH) under model
+conditions (deionized water, NPK fertilizer with low concentration, NPK fertilizer with high
+concentration and soil leachate), where a significant decrease in the functionality of SAP
+STARCH in the presence of sources of nitrogen, phosphorus and potassium was observed (48
+h - 81%). The laboratory experiments also included validation of SAP application to soil
+samples, where we were able to record an increase in retention capacity in the case of
+conventional and no-till technology. Through the realized column experiments, the influence
+of not only chemical but also physical-mechanical properties of the soil substrate on the
+functionality of SAP was proved, which must be taken into account in its application in real
+conditions.
+Keywords: climate change, water retention, superabsorbent polymers, soil conservation
+
+Obsah
+
+1
+
+Úvod.................................................................................................................................12
+
+2
+
+Pôdne technológie............................................................................................................13
+2.1
+
+Konvenčné pôdne technológie...................................................................................13
+
+2.1.1
+
+3
+
+Vplyv konvenčných technológií na kvalitu pôdy a životné prostredie...............15
+
+2.2
+
+Minimalizačná technológie........................................................................................17
+
+2.3
+
+Mulčovacie technológie.............................................................................................19
+
+Bez orbové pôdne technológie........................................................................................20
+3.1.1 Vplyv bezorbovej poľnohospodárskej technológie na pôdu a životné prostredie...22
+
+4
+
+Poľnohospodárske techniky na zlepšenie retencie vody v pôde.................................25
+4.1
+
+Superabsorčné polyméry............................................................................................28
+
+4.1.1
+
+Zloženie a klasifikácia SAP................................................................................29
+
+4.1.2
+
+SAP na báze polysacharidov...............................................................................32
+
+4.1.3
+
+Retenčné vlastnosti SAP.....................................................................................32
+
+4.1.4
+
+Parametre vplývajúce na retenčné charakteristiky SAP (pH).............................33
+
+4.1.5
+
+Využitie SAP v poľnohospodárstve....................................................................34
+
+4.1.6
+
+Vplyv SAP na pôdne vlastnosti..........................................................................38
+
+4.1.7
+
+Vplyv používania superabsorpčného polyméru na životné prostredie...............40
+
+5
+
+Ciele..................................................................................................................................42
+
+6
+
+Materiál a metódy...........................................................................................................43
+6.1
+
+Prístroje a zariadenia..................................................................................................43
+
+6.2
+
+Materiál......................................................................................................................43
+
+6.2.1
+
+Hnojivá................................................................................................................43
+
+6.2.2
+
+Superabsorpčné polyméry...................................................................................43
+
+6.3
+
+Monitorovacia a odberová lokalita.............................................................................44
+
+6.4
+
+7
+
+Meranie fyzikálno-chemických parametrov pôdy......................................................46
+
+6.4.1
+
+Stanovenie salinity a vlhkosti pôdy....................................................................46
+
+6.4.2
+
+Stanovenie pH a vodivosti..................................................................................47
+
+6.4.3
+
+Laboratórne stanovenie vlhkosti pôdy................................................................47
+
+6.4.4
+
+Odber a úprava pôdnych vzoriek pre laboratórne experimenty..........................48
+
+6.4.5
+
+Chemická analýza vzoriek pôd...........................................................................49
+
+6.4.6
+
+Kolónové experimenty........................................................................................49
+
+6.4.7
+
+Stanovenie retenčnej schopnosti SAP v modelových roztokoch........................56
+
+Výsledky a diskusia.........................................................................................................59
+7.1
+
+SEM–EDX analýza vzoriek SAP...............................................................................59
+
+7.1.1
+
+SEM-EDX analýza vzorky SAP STARCH........................................................59
+
+7.1.2
+
+SEM-EDX analýza vzorky SAP AGRO.............................................................60
+
+7.1.3
+
+SEM-EDX analýza vzorky SAP SEED..............................................................61
+
+7.2
+
+Lokalizačné údaje.....................................................................................................64
+
+7.2.1
+
+Chemický rozbor vzoriek pôdy...........................................................................64
+
+7.2.2
+
+Fyzikálno-chemický rozbor vzoriek pôd............................................................65
+
+7.2.3
+
+Vyhodnotenie vodozádržných vlastností pôdy...................................................67
+
+7.2.4
+
+Vyhodnotenie modelových kolónových experminetov......................................70
+
+7.2.5
+
+Stanovenie
+
+absorpčných
+
+a
+
+retenčných
+
+charakteristík
+
+superabsorpčných
+
+polymérov.........................................................................................................................73
+
+8
+
+7.2.6
+
+Vyhodnotenie retenčných vlastností rôznych SAP v modelovej vzorke pôdy...75
+
+7.2.7
+
+Vyhodnotenie retenčných vlastností rôznych SAP v modelovej vzorke piesku.77
+
+Záver................................................................................................................................81
+
+Zoznam ilustrácií a tabuliek
+Obr. 1 Hlboká orba uplatňovaná pri konvenčnej technológií. .................................................15
+Obr. 2 Skleníkové plyny v poľnohospodárstve za posledných 30 rokov.................................17
+Obr. 3 Kultivácia pôdy uplatňovaná pri minimalizačnom poľnohospodárstve........................19
+Obr. 4 Špeciálna technológia na podrezávanie pôdy uplatňovaná pri mulčovacom
+poľnohospodárstve....................................................................................................................21
+Obr. 5 Uplatňovanie bez orbovej technológie na poľnohospodárskych pôdach......................23
+Obr. 6 Priemerný obsah pôdnej vody v rokoch (2006-2008) pri konvenčnej a bez orbovej
+technológií v rôznych hĺbkach..................................................................................................23
+Obr. 7 Poľnohospodárska technológia pásového pestovania plodín........................................27
+Obr. 8 Využitie stromov ako nástroja k zabráneniu erózií poľnohospodárskych pôdach........27
+Obr. 9 Uplatňovanie biopásov uprostred parcely ornej pôdy...................................................28
+Obr. 10 Vytvorené stupňové terasovanie v strmom svahu.......................................................28
+Obr. 11 Využitie agrolesníctva s poľnohospodárstvom pri pestovaní plodín...........................29
+Obr. 12 Schematické zobrazenie štruktúry superabsorpčného polyméru.................................31
+Obr. 13 Prírodný SAP...............................................................................................................31
+Obr. 14 Syntetický SAP............................................................................................................32
+Obr. 15 Využitie SAP v oblasti poľnohospodárstva a záhradníctva.........................................37
+Obr. 16 Rozloženie experimentálnych políčok na lokalite Výskumného pracoviska
+v Borovciach.............................................................................................................................46
+Obr. 17 Znázornenie odberových miest na políčku každej agrotechnológie............................47
+Obr. 18 Multiparametrický prístroj COMBI 5000 (B) s odmernou nádobou na prípravu
+pôdneho roztoku (A).................................................................................................................48
+Obr. 19 Hĺbkový pôdny vzorkovač...........................................................................................49
+Obr. 20 Nástroj na drvenie veľkých pôdnych agregátov..........................................................50
+Obr. 21 Zhotovené stĺpcové kolóny s výškou 60 cm................................................................51
+Obr. 22 Fotometer PF-12Plus s kolorimetrickými setmi..........................................................54
+Obr. 23 Modelové pôdne kolóny s rôznymi SAP v procese zalievania....................................56
+Obr. 24 Porovnávací test SAP-ov STARCH (A) a AGRO (B) v chemicky čistom piesku......57
+Obr. 25 Test retenčnej schopnosti SAP v čajových vrecúčkach...............................................59
+Obr. 26 Mikroskopický vzhľad častíc superabsorpčného polyméru STARCH získaný
+pomocou skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B),
+500x (C) a 1 000x (D)...............................................................................................................61
+
+Obr. 27 Mikroskopický vzhľad častíc superabsorpčného polyméru AGRO získaný pomocou
+skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B), 500x (C)
+a 1 000x (D)..............................................................................................................................62
+Obr. 28 Mikroskopický vzhľad častíc superabsorpčného polyméru SEED získaný pomocou
+skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B), 500x (C)
+a 1 000x (D)..............................................................................................................................63
+Obr. 29 Spektrum hodnotiace zastúpenie významných prvkov vo vzorkách superabsorpčných
+polymérov AGRO (A), STARCH (B), SEED (C) získané z EDX analýzy.............................64
+Obr. 30 Grafické znázornenie priemerných hodnôt pH a vodivosti pôdy na monitorovanej
+lokalite.......................................................................................................................................67
+Obr. 31 Grafické znázornenie nameraných hodnôt salinity a vlhkosti pôdy na monitorovanej
+lokalite.......................................................................................................................................68
+Obr. 32
+
+Retenčná schopnosť pôdy v odlišných pôdnych vrstváach (10, 20, 30, 40 cm)
+
+obhospodarovanej rôznou agrotechnológiou............................................................................68
+Obr. 33 Priemerný obsah vody v pôde pri rôznych agrotechnológiách....................................70
+Obr. 34 Množstvá zadržanej vody v modelových pôdnych kolónach......................................72
+Obr. 35 Zostatok množstva vody v pôdnych kolónach rôznych agrotechnických typov (A) –
+konv. (B) – mini. (C) – mulč. (D) – bez. počas 13 dní sušenia................................................73
+Obr. 36 Absorpčné a retenčné schopnosti testovaných SAP (AGRO, SEED, STARCH)
+v modelových roztokoch: A – destilovaná voda; B – roztok hnojiva s nízkou koncentráciou; C
+– roztok hnojiva s vysokou koncentráciou; D – roztok pôdnych výluhov...............................75
+Obr. 37 Absorpčná schopnosť SAP (STARCH a AGRO) v modelovej pôde..........................77
+Obr. 38 Retenčná schopnosť SAP (AGRO a STARCH ) pri simulácií kolónových testov
+v chemicky čistom piesku.........................................................................................................79
+Obr. 39 Vytvorenie súdržnej vrstvy vysušenej vzorky piesku so SAP STARCH....................80
+Tab. 1 Vzorové dávkovanie zložiek (pôda, SAP, NPK hnojivo) do modelových pôdnych
+kolón.........................................................................................................................................52
+Tab. 2 Vzorové dávkovanie zložiek (pôda, SAP, NPK hnojivo) do modelových pôdnych
+kolón s rôznym SAP.................................................................................................................55
+Tab. 3 Množstvá prídavkov hnojív používaných v experimentoch..........................................58
+Tab. 4 Obsah kovových iónov v pôde......................................................................................65
+Tab. 5 Obsah makro-zložiek v pôde.........................................................................................65
+Tab. 6 Množstvo stanovených zdrojov dusíka, fosforu a draslíka v pôdnych výluhoch..........66
+
+Zoznam skratiek a značiek
+SAP – superabsorpčný polymér
+bez. – bezorbová technológia
+konv. – konvenčná technológia
+mini. – minimalizačná technológia
+mulč. – mulčovacia technológia
+tech. - technológia
+ŽP – životné prostredie
+AGRO – superabsorpčný polymér s granulovým usporiadaním
+SEED – superabsorpčný polymér v práškovej úprave
+STARCH - superabsorpčný polymér na báze škrobu
+LAD – liadok amónny s dolomitom
+SF – superfosfát
+SD - síran draselný
+SAP AGROBF – superabsorpčný polymér aplikovaný v modelových kolónových testoch bez
+použitia zadržiavacej fólie.
+SAP AGROF - superabsorpčný polymér aplikovaný v modelových kolónových testoch s
+použitím zadržiavacej fólie.
+TOC – celkový organický uhlík
+VÚPOP – výskumný ústav pôdoznalectva a ochrany pôdy
+
+1 Úvod
+Kvalita pôdy je primárnym ukazovateľov kvality plodín. V aktuálnej klimatickej
+situácii je nutné uplatňovať rôzne technické, agrotechnické, biologické alebo iné moderné
+postupy, ktoré napomôžu adaptácii poľnohospodárskej krajiny klimatickej zmene. Existujú
+opatrenia, ktoré dokážu spĺňať viaceré postupy naraz, teda majú polyfunkčný charakter, napr.
+zamedzenie vodnej erózii spolu s nadmernou disperziou hnojív v pôde. Pri navrhnutých
+opatreniach je najskôr nutné sa zamerať na ich primárnu funkciu a následne zohľadniť všetky
+potrebné funkčné a priestorové parametre. Takisto je nevyhnutným cieľom rešpektovať
+ekologické, dopravné a estetické funkcie.
+Klimatické sucho predstavuje jednu z najhorších prírodných zmien, ktoré aktuálne
+výrazne ovplyvňujú hospodársky, sociálny a environmentálny stav a vývoj každej krajiny. V
+súčasnosti sa významne rozširuje vplyvom prebiehajúcej klimatickej zmeny. Sucho sa dá
+kategorizovať z pohľadu jeho merania na 3 základné typy: meteorologické, hydrologické
+a poľnohospodárske sucho.
+Meteorologické sucho je definované na základe stupňa sucha a trvania suchého
+obdobia. Je nutné poznamenať, že meteorologické sucho je v jednotlivých regiónoch
+premenlivé a musí sa považovať za regionálne špecifické.
+Dhotrvájúce obdobie s nízkym množstvo zrážok vytvára hydrologické sucho. Trvá
+dlhšie časové obdobie, kým sa prejaví nedostatok zrážok v zložkách hydrologických
+systémov ako sú hladiny podzemných vôd, nádrží alebo prietokoch vo vodných tokoch.
+Hydrologické sucho je mimo fázy výskytu meteorologického a poľnohospodárskeho sucha.
+Obdobie, kedy úroveň pôdnej vlhkosti neuspokojuje potreby plodín a vegetácie sa
+nazýva poľnohospodárske sucho. Vrchná vrstva pôdy, ktorá nemá dostatočnú vlhkosť môže
+obmedziť klíčivosť plodín, a tak znížiť množstvo a konečnú výnosnosť plodín. Potreba vody
+rastlín závisí od biologických vlastností plodiny, rastového štádia a poveternostných
+podmienok (UNL Water, 2015).
+Deficit dostupnosti vody v pôde je jedným z kľúčových faktorov ovplyvňujúci
+poľnohospodársku produkciu. Voda využívaná na zavlažovanie je čoraz vzácnejšia
+a v súčasnosti
+
+sa hľadajú
+
+riešenia,
+
+ktoré
+
+podporia
+
+efektívnosť
+
+jej
+
+využívania.
+
+Poľnohospodársky sektor má najvyššie zastúpenie pri spotrebe pitnej vody. V celosvetovom
+meradle viac ako 70 % sladkej vody smeruje do poľnohospodárstva (Oladosu a kol., 2022).
+
+Približne iba 40 % vody získanej z jazier, riek a iných vodných plôch podporuje
+produkciu poľnohospodárskych plodín. Zvyšných 60 % sa stráca vplyvom výparu a hlbokou
+infiltráciou. Odhaduje sa, že aktuálne celosvetové odbery vody na zavlažovacie procesy
+predstavujú približne 2 000 až 2 500 km3/rok (Water treatment solutions, 2024).
+Nakoľko je hlavným cieľom poľnohospodárstva v čo najväčšom množstve získať
+potenciálny výnos určitých plodín, tak za týmto účelom sa realizuje niekoľko rôznych
+prístupov a techník, ktorých cieľom je čo najviac zvýšiť úrodnosť pôdy. Medzi základné
+opatrenia na udržanie kvality pôd môžeme zaradiť technológie obrábania.
+
+2 Pôdne technológie
+Obrábanie
+
+pôdy
+
+sa
+
+najčastejšie
+
+vykonáva
+
+štyrmi
+
+rôznymi
+
+poľnohospodárskymi
+
+technológiami. Delia sa na 2 skupiny: orbové a bez orbové. Medzi orbové zaraďujeme
+konvenčnú, minimalizačnú a mulčovaciu agrotechnológiu.
+
+2.1 Konvenčné pôdne technológie
+Obrábanie pôdy konvenčným spôsobom je najvýznamnejšou operáciou založenou na
+prevracaním vrchného profilu pôdy. Takto obrábaná pôda sa konvenčným radlicovým
+pluhom, prevracia v rámci vrchnej vrstvy (približne 20-25 cm), aby sa uvoľnila štruktúra
+pôdy a vytvorilo sa vhodné osivové lôžko. Pôda sa tak procesom orby obracia, kyprí a
+premiešava. Je to tradičný postup, ktorý používa časové rozstupy medzi nasledovnými
+operáciami:
+Letná strnisková orba sa môže vykonávať po plytkej orbe strniska alebo po zbere
+predplodín. Rozpätie hĺbok letnej orby je od 0,12-0,15 m. Je to veľmi plytká orba, kde jej
+cieľom je narušiť kapiláry a pripraviť pôdu na založenie nového porastu. Oráčina sa musí
+ošetrovať valcovaním alebo bránením, keďže sa orba vykonáva v teplých mesiacoch a mohlo
+by dôjsť k veľkým stratám pôdnej vlahy.
+Stredná predsejbová orba najčastejšie sa vykonáva s časovým odstupom 3 až 5
+týždňov pred sejbou. Z dôvodu aby mala pôda čas na zregenerovanie a obnovenie pôdnych
+kapilár, ktoré sú dôležitou súčasťou pri vývoji osiva. Hĺbka orby sa pohybuje medzi 0,18 –
+0,24 m. Horná hĺbková hranica sa uplatňuje pre ľahšie pôdy a spodná pre ťažšie. Pri
+vhodných vlhkostných podmienkach sa vykonáva urovnávanie (bránenie) pôdy. Môže sa
+vykonávať kombináciou bránenie so smykovaním. Pri nižšej pôdnej vlhkosti sa vykonáva
+valcovanie, ktoré rozdrví hrudy a zabráni výparu vody. Pri orbe sa používajú rôzne
+
+priemyselné hnojivá, a to najčastejšie draselné, fosforečné alebo dusíkaté. Zdravšou
+alternatívou je zapracovanie maštaľného hnojiva.
+Hlboká jesenná orba sa vykonáva do prvého zamrznutia pôdy. Je to posledná orba
+v poľnohospodárskom roku. Orba a jej hĺbka sa určuje podľa pôdnych podmienok a druhu
+plodiny, ktorá bude na parcele vysiata. Štandardom je rozpätie od 0,24 – 0,30 m a viac závisí
+od podmienok. Rastliny, ktoré sú hlboko zakoreňujúce je hĺbka orby stanovená od 0,30 – 0,35
+m. Sem patria plodiny ako lucerna siata, cukrová repa. Špeciálnu hlbokú orbu do istej miery
+limituje i pôdny druh. Musí tu dochádzať k ošetrovaniu pôdy a to hneď po orbe v jeseni
+procesom smykovania. Smykovanie zabezpečí v celom pôdnom profile vyrovnanú pôdnu
+vlahu. Pri procese hlbokej orby sa vytvára veľká hrebeňovitosť povrchu, čím sa zachytáva
+väčšie množstvo zimných zrážok. Pri jarných strukovinách a obilninách sa uplatňuje hĺbka
+orby 0,24 m.
+
+Obr. 1 Hlboká orba uplatňovaná pri konvenčnej technológií. Prevzaté z: (Jedlicka, 2021)
+
+Jarná orba je uplatňovaná len v prípade, keď sa počas jesenných mrazov nestihla
+poorať celá hospodárska plocha. Vykonáva sa pri primeranom obschnutí a rozmrznutí pôdy.
+Orba v tomto ročnom období nie je efektívna a radí sa medzi nežiaducu orbu. Pôda stratí
+veľké množstvo vlahy, ktorá sa v nej kumulovala počas zimných mesiacov. Pri vykonanií
+orby pri vysokej vlhkosti dochádza k veľkému zhutneniu a tvorbe tvrdých hrúd, ktoré sú
+prekážkou pri ďalšej príprave pôdy (Ďurian, 2011).
+
+2.1.1
+
+Vplyv konvenčných technológií na kvalitu pôdy a životné prostredie
+Pri konvenčnom obrábaní sa tvrdý pôdny povrch, tzv. zhutnená vrstva rozrušuje.
+
+Cieľom je tvorba spôsobilej kyprej ornice s ideálnymi fyzikálnymi vlastnosťami (Ďurian,
+2011).
+Tento proces umožňuje vyšší stupeň oxidácie a mineralizácie organickej hmoty, čo je
+prospešné pre rast rastlín. Viac živín je premieňaných na formy dostupné pre rastliny. To ale
+so sebou prináša z dlhodobého hľadiska riziko, kedy zvýšená chemická aktivita môže
+poškodiť pôdu, pretože pôdna organická hmota je mineralizovaná oveľa vyššou rýchlosťou
+ako v systémoch s nízkym narušením. Organická hmota je nevyhnutná pre štruktúru pôdy a je
+kľúčová pre dôležité funkcie pôdy. Okrem toho oraný povrch pôdy bez ochranných zvyškov
+plodín alebo iného rastlinného krytu spôsobuje, že pôda je náchylná na eróziu, a preto je
+pravdepodobným zdrojom rozptýleného poľnohospodárskeho znečistenia.
+Podpora maximálneho výnosu sa pri konvenčnej metóde dosahuje zapracovávaním
+priemyselných, hospodárskych hnojív alebo organických zvyškov počas orby. Veľký
+príspevok má aj aplikácia syntetických chemikálií, použitie geneticky modifikovaných
+organizmov (GMO) a množstva iných priemyselných produktov. Častokrát aplikovanie týchto
+chemikálií a toxických postrekov môže
+
+ohrozovať pôdu, vodu, okolitú biodiverzitu
+
+a ekosystém.
+Konvenčný systém hospodárenia i cez svoju vysokú produktivitu je z veľkej časti
+neudržateľný. Dochádza k spotrebovaniu veľkého množstva investícii a energie, ktoré nie sú
+prijateľné pre okolité ekosystémy. Hlavnú energetickú úlohu zohrávajú fosílne palivá.
+Využívajú sa pri výrobe pesticídov, hnojív, výrobe balení alebo pri mechanizácií
+poľnohospodárskych procesov (Cristache a kol., 2018).
+Poľnohospodárstvo, ktoré využíva konvenčné spôsoby sa nepriamo podieľa na
+činnosti produkcie emisií do atmosféry. Počas 30 ročného obdobia () bol nárast skleníkových
+plynov nasledovný: CO2 – 26 %, N2O – 6,7 % a CH4 - 12,7 % (Skinner a kol., 2019).
+
+Obr. 2 Skleníkové plyny v poľnohospodárstve za posledných 30 rokov. Prevzaté
+z: https://www.rff.org/publications/explainers/agricultural-greenhouse-gasemissions-101/
+Existujú štúdie, ktoré odhadujú, že emisie skleníkových plynov z výroby hnojív tvoria 10 %
+celkových emisií, ktoré vytvorí poľnohospodárstvo (Cristache et al., 2018).
+Pri pôdnej vlhkosti pod 10 % je orba bezvýznamná. Vzniknuté neorané hrudy sa
+nedajú spracovať bežným náradím. Pôdy, ktoré majú vysoký obsah štrkov a kameňov sa
+vplyvom orby dostávajú a koncentrujú vo vrchných vrstvách profilu. Dochádza k redukovaniu
+obsahu vody v ornici a primárne sú zasiahnuté suché oblasti. V suchých letných mesiacoch
+dochádza každými 10 mm hĺbky orby k spotrebe 1 litra nafty na 1 ha. Konvenčné obrábanie
+pôdy spotrebuje asi 35 – 40 % celkového objemu pohonných hmôt v poľnohospodárstve. So
+zvyšujúcim sa obsahom ílovitých častíc v pôde sa zvyšuje energetická náročnosť. Pri
+parcelách, ktoré majú svahovitý terén sa zvyšuje riziko vodnej erózie (Ďurian, 2011).
+Všetky
+
+procesy
+
+prispievajú
+
+k znečisťovaniu
+
+životného
+
+prostredia
+
+a k vyššej zraniteľnosti ekosystému.
+Je známe, že poľnohospodárske postupy ovplyvňujú rozloženie a množstvo mikróbov
+a spoločenstvá dážďoviek. Po obrábaní pôdy klesá populácia dážďoviek v dôsledku
+mechanického narušenia ich prirodzeného biotopu a zdrojov potravy. Postupy obrábania
+taktiež vplývajú negatívnym spôsobom na mikrobiálnu aktivitu. Dochádza k rozrušeniu
+pôdnych agregátov a kapilár čím sa menia vlastnosti pôdy ako je pôdna vlhkosť, teplota alebo
+množstvo pôdnej organickej hmoty (Denier et al., 2022).
+Hospodárenie konvenčným spôsobom sa využíva na zrýchlenie osevných postupov
+a to zväčša pri úzkom spektre plodín. Tým sa zvyšuje energetická náročnosť pestovania
+plodín aplikovaním agrochemikálií – herbicídov. Po dlhšom čase aplikovania práve
+
+agrochemikálií
+
+sa
+
+vytvoria
+
+rezistentné
+
+druhy
+
+čo
+
+vytvára
+
+ďalší
+
+problém
+
+pre
+
+poľnohospodárstvo.
+Problémom sú i prírodné činitele ako je nerovnomerné rozloženie zrážok na
+obrábaných plochách, čo spolu so zhutnením a nesprávnou použitou technikou obrábania
+vytvára prekážky pre rovnomerný vývoj plodín. Akýkoľvek zásah do pôdy, ktorá má vysokú
+vlhkosť dochádza k jej výraznému zhutneniu a orba stráca svoj účinok. Významný problém
+pri konvenčnej orbe je prejazd mechanizmu s kolesami po brázdach. Predchádzať vysokému
+zhutneniu je možné vykonať i so zmenou samotnej orby. Pôdy, ktoré sú citlivé na orbu je
+nutné používať „on-land“ orby. Pri nej sa používajú špeciálne upravené pluhy, ktoré
+umožňujú pohyb mechanizmu na nezoranej časti pôdy. Výhodou je že mechanizmus
+neprechádza kolesami po brázde čo sa vykonáva pri klasickej orbe. Merania dokazujú, že 45
+% hmotnosti zadnej časti mechanizmu vyvíja tlak na zadné koleso, ktoré sa nachádza v brázde
+čo je hlavnou príčinou zhutnenia (Závodský, 2020).
+
+2.2 Minimalizačná technológie
+Minimalizačné poľnohospodárstvo je systém obrábania pôdy, ktorý má potenciál
+chrániť pôdu a vodu znížením ich strát. Technológia je založená na kombinácií obrábania
+pôdy alebo obrábania pôdy a výsadby. Pri obrábaní sa na povrchu pôdy zachováva 30 % a
+viac zvyškov plodín.
+Minimalizačné obrábanie má rad pozitívnych vlastností. Zlepšujú sa pôdne podmienky
+čomu pomáhajú primárne rastlinné zvyšky. Lepšia štruktúra pôdy a vyššia infiltrácia vody do
+pôdy spôsobené vegetáciou na povrchu pôdy a zachované pôdne póry a kapiláry. Redukovaný
+pohyb ťažkých strojov má pozitívny vplyv na menšie zhutnenie pôdy v porovnaním
+s konvenčnou technológiou. Pozitívne zmeny sa objavujú po 2 až 3 rokoch pravidelného
+praktikovania minimalizačnej technológie (TNAU, 2016).
+Náročnejšia forma minimalizácie pôdy je jej vertikálne spracovanie. Uplatňuje sa tu
+okrem kultivácie vrchnej vrstvy pôdy aj hĺbkové kyprenie čo predstavuje ekonomicky
+a energeticky vyššiu náročnosť. Hĺbkové kyprenie sa nemusí uplatňovať každý rok napr. len
+každý 3-4 rok. Týmto spôsobom sa náklady rozložia na viac rokov a medzi rokmi sa môže
+využiť plytšia forma kyprenia. Striedaním hĺbkového kyprenia sa zamedzuje vytvoreniu
+zhutnenej vrstvy (Kováč, 2015).
+Minimalizačná technológia ponúka 2 spôsoby hospodárenia s pôdou:
+
+Potreby zóny výsadby (riadková zóna) v tejto zóne je potrebné zabezpečiť jemnú ornicu pre
+optimálnu sejbu a následne rýchle a úplné vzídenie sadeníc. Zóna hospodáriaca s vodou
+(medziradová zóna) v zóne sa nevykonáva sekundárne obrábanie pôdy. Pôda by mala byť
+hrudkovitá a jej štruktúra hrubá čo zabráni rastu invazívnych rastlín (burín) a do pôdy sa
+infiltruje väčšie množstvo vody (TNAU, 2016).
+Zdroje VÚPOP uvádzajú, že na Slovensku je možné minimalizačnú technológiu
+v repárskych oblastiach využívať na 76 % ornej pôdy a pri kukuričných oblastiach na 56 %
+ornej pôdy. Technológiu minimalizácie nie je vhodné uplatňovať na horských a zemiakových
+oblastiach. Najvhodnejšie lokality na Slovensku pre minimalizačné technológie sú
+v Nitrianskom kraji vyše 300-tisíc hektárov a v Trnavskom kraji takmer 185-tisíc hektárov.
+V Košickom a Banskobystrickom kraji na výmere takmer 65-tisíc hektárov a v Trenčianskom
+na 34 500 hektároch. Prešovský kraj predstavuje ideálne podmienky len na pôde s výmerou
+približne 5000 hektárov (Kováč, 2015).
+
+Obr. 3 Kultivácia pôdy uplatňovaná pri minimalizačnom poľnohospodárstve. Prevzaté z:
+(England, 2024)
+
+2.3 Mulčovacie technológie
+Mulčovanie je proces kde sa najčastejšie zmes mokrej slamy, sypkej zeminy alebo
+lístia rozloží rovnomerne na povrch pôdy s cieľom minimalizovať straty vlhkosti, burín
+a zvýšiť úrodu plodín (Iqbal a kol., 2020).
+Systém mulčovania je založený na nastielaní povrchu pôdy organickou hmotou. Pôda
+sa obrába podrezaním (Obr. 4). Strnisko je nadvihnuté, ale nie úplne prevrátené, týmto
+procesom zostávajú všetky pozberové zvyšky na povrchu pôdy. Menším narušením pôdnej
+štruktúry sa zmenšuje aj biologická oxidácia tzv. strata organickej hmoty. Po počiatočnej
+sejbe je pokrytých až 30-75 % pôdy rastlinnými zvyškami (Pospišil, 2020).
+Technológia mulčovania a jej proces sa líši od geografickej polohy a podnebia
+v ktorom sa obrábaná pôda nachádza. V suchých oblastiach sa mulč v maximálnom možnom
+množstve ponecháva na povrchu pôdneho profilu. Pri obrábaní sa využíva stredový podmietač
+na vytvorenie hrebienkov pre zadržanie vody. Pri vlhkých a premočených miestach sa mulč
+zakopáva. Sejba sa realizuje pomocou diskových otváračov, ktoré prechádzajú niekoľko
+centimetrov cez mulč. Medziplodiny využívané pri mulčovacej technológií sú zvyčajne
+obilniny alebo trávnaté plodiny konkrétne ďatelina alebo lucerna, ktoré dosiahnu svoj
+konečný vývoj krátko po založení poľnej plodiny čim poskytujú mulčovací kryt na dlhý čas.
+Ak rast medziplodiny konkuruje hlavnej plodine v boji o vlahu a živiny, môže sa tento rast
+zničiť v čase sejby alebo krátko po nej podrezaním pomocou zametania (Steward, 2023).
+Základné druhy mulčovania:
+Organický mulč je vyrábaný zo živých materiálov. Môže obsahovať lístie, trávu, slamy,
+sypkej zeminy, drvenej kôry, kompostu alebo ihličia. Organický mulč je prospešný pri
+upravovaní pôdy. Prírodný mulč núti dážďovky častejšie prevzdušňovať povrch pôdy čo
+prospieva k znižovaniu zhutnenia pôdy. Organický mulč sa po určitom čase rozkladá a tým
+dodáva pôde živiny ako je fosfor, dusík a stopové prvky (El-Beltagi a kol., 2022).
+Anorganický mulč sa skladá zo syntetických materiálov ako plast, textília (geotextília),
+kamene a skaly. Materiály, ktoré sa používajú ako anorganický mulč sa nerozkladajú alebo
+rozkladajú po veľmi dlhom čase. Týmto spôsobom sa znižujú celkové náklady. Organický
+mulč je medzi poľnohospodármi viac preferovaný (Barrera, 2018)
+
+Obr. 4 Špeciálna technológia na podrezávanie pôdy uplatňovaná pri mulčovacom
+poľnohospodárstve. Prevzaté z: (Barrera, 2018)
+
+3 Bez orbové pôdne technológie
+Bez orbová agrotechnológia je poľnohospodársky postup, pri ktorom sa uplatňuje
+postup pestovania plodín bez narušenia pôdy obrábaním. Procesom je priama sejba osiva do
+pôdy a jej povrch je chránený zvyškami plodín. Bez orbové technológie využívané v praxi
+umožňujú veľmi efektívne za nízke náklady a krátky čas zasiať osivo do pôdy. Pri
+konvenčných postupoch obrábania pôdy je potrebné násobne viac prechodov mechanizmov
+cez plochu poľa aby bolo možné vykonať počiatočnú sejbu. Bez orbová technológia
+nevyžaduje proces obrábania pôdy. Pre poľnohospodárov to predstavuje ušetrené palivo,
+hnojivá, finančné prostriedky a čas. Z ekologického hľadiska je pôdna štruktúra spolu
+s pôdnou mikrobiotou zachovaná. Technológia bez orby je podľa publikovanej štúdie
+Scientific America výhodná pre znižovanie nákladov paliva o 50 až 80 % a prácu o 30 až 50
+% (Chen a kol., 2023).
+Ekologické poľnohospodárstvo bez orby využíva ekologické varianty na ničenie,
+zníženie a elimináciu burín. Nevyužíva chemické postreky a herbicídy. Využíva striedanie
+plodín, voľný chov dobytka či krycie plodiny (Spears, 2018). Ak sa plodiny správne striedajú,
+môžu narušiť cykly hmyzu, chorôb a zamorenie burinou. Zmena plodín znamená aj zmenu
+typu a načasovania postupov hospodárenia. Tým sa ešte viac narušia škodcovia plodín, napr.
+kukurica nie je hostiteľom cystotvorného háďatka sójového.
+
+Striedanie plodín poskytuje príležitosť na vytváranie zdrojov a ochranu. Zaradenie
+krmovín do striedania môže zlepšiť štruktúru osivového lôžka, pridať organickú hmotu a
+dusík - zatiaľ čo ich pokryv chráni pôdu a vodné zdroje. Každá plodina má osobitný vplyv na
+prostredie, v ktorom rastie, napr. zvyšky sóje umožňujú rýchle zahriatie osivového lôžka;
+strukoviny môžu mať husté koruny, ale zároveň pridávajú do pôdy dusík. Na dosiahnutie
+maximálneho prínosu striedajte trávnaté plodiny s listnatými plodinami, t. j. kukuricou a sójou
+(Cherlinka, 2023).
+Obilniny sa vysádzajú po jesenných zberoch (zimné krycie plodiny). Krycie plodiny
+majú za účel tvoriť prirodzenú ochranu pôdneho povrchu a to do prvého jarného výsevu. Pre
+ich rast je potrebná dostatočná vlhkosť a teplejšie podmienky na jeseň pri výseve. Výhodou sú
+ich ochranné vlastnosti, zabraňujú erózií pôdy, udržujú vlhkosť a nedávajú priestor rastu
+burinatým rastlinám. Plodiny by mali byť odolné proti silným mrazom.
+Jarné alebo letné krycie plodiny primárne slúžia ako krmivo pre poľnohospodárske
+zvieratá. Používajú sa tak isto ako pri zimných plodinách, zabráneniu erózií pôdy,
+znemožnenie rastu burín a pre ďalšiu úpravu pôdy. Pri silných horúčavách krycie plodiny
+zabraňujú rýchlemu pôdnemu vysychaniu. Negatívom je že semená môžu vyvolať nedostatok
+dusíka čo sa môže prejaviť pri koncovej úrode (Cherlinka, 2023).
+Bez orbová technológia poľnohospodárstva poskytuje vďaka zlepšenej štruktúre pôdy
+a pokryvom rastlinných zvyškov na povrchu dostatočnú pôdnu vlhkosť, čo vedie k zvýšeniu
+objemu pôdnej vody, ktorá je nevyhnutná pre rast plodín. Cieľom bez orbového systému je
+poskytnutie ideálnych podmienok a prostredia pre klíčenie semien a vývoj koreňových
+systémov plodín.
+
+Obr. 5 Uplatňovanie bez orbovej technológie na poľnohospodárskych pôdach. Prevzaté z:
+(https://www.croptracker.com/blog/tillage-and-growing-the-value-of-no-till-farming.html)
+3.1.1
+
+Vplyv bezorbovej poľnohospodárskej technológie na pôdu a životné prostredie
+V porovnávacích testoch retenčnej schopnosti pôdy medzi konvenčnou a bezorobovou
+
+technológiou bol zaznamenaný rozdiel v zásobe pôdnej vody v rôznych časových obdobiach.
+2,7 – 30,3 % vyšší obsah pôdnej vody bol dosiahnutý pri bez orbovej technológií. Priemerný
+obsah vody v daných obdobiach pri bez orbovej technológií bol o 3,4 % (2006) vyšší ako pri
+konvenčnom obrábaní 10 % (2007), 12 % (2008). Najväčší nárast pôdnej vody sa zistil vo
+vrstve pôdy 10 cm pri BT a to o 15,3 % oproti KT.
+
+Obr. 6 Priemerný obsah pôdnej vody v rokoch (2006-2008) pri konvenčnej a bez orbovej
+technológií v rôznych hĺbkach. Upravené podľa: (Yu a kol., 2011)
+Ďalším pozitívom je zlepšenie infiltrácie a zníženie výparu vody z povrchu pôdy. Bez
+orbová technológia dopomáha znižovať eróziu pôdy a jej odtok po povrchu a tým aj
+zabránenie znečistenia blízkych vodných zdrojov. Znížený výpar zlepšuje absorpciu dažďovej
+
+vody, s čím súvisí zvýšená účinnosť zavlažovania. V konečnom dôsledku môžeme pozorovať
+pozitívny dopad na výnos plodín i v suchých a horúcich letných obdobiach (Jasa, 2015).
+Infiltrácia vody je z hľadiska štúdií efektívnejšia pri konvenčnom poľnohospodárstve.
+Pozorovala sa a porovnávala infiltrácia a makroporéznosť na dvoch odlišných spôsoboch
+obrábania pôdy. Konvenčné poľnohospodárstvo poskytuje vyššiu mieru infiltrácie na hlinitohlinitej pôde. Dôsledok vyššej infiltrácie pri konvenčnom spôsobe môže byť spôsobený
+rozrušením vrchnej pôdnej vrstvy, čo predstavuje približne 20-25 cm, kde má voda väčší
+priestor pre pohyb. Boli pozorované i zhoršené infiltračné vlastnosti pod 30 cm až do 1,2 m.
+Rozrušenie po 25 cm zapríčiňuje, že pod 30 cm je pôda v zhutnenom stave čo vytvára
+nepriepustnú vrstvu. Rýchlosť a efektivita infiltrácie sa značne líši obsahom pôdneho profilu
+v danej lokalite (Mubvumba, 2023).
+Mikroorganizmy, huby a baktérie pri praktikách bez orbového poľnohospodárstva
+profitujú z minimálneho narušenia pôdnej štruktúry. Organizmy si v nenarušenej štruktúre
+pôdy môžu založiť spoločenstvá. Ich hlavným zdrojom živín môže byť organická hmota,
+ktorá sa pri bez orbovom poľnohospodárstve vyskytuje vo veľkých množstvách hlavne vo
+vrchných vrstvách pôdneho profilu. S vyšším obsahom organickej hmoty sa zlepšuje vnútorná
+štruktúra pôdy, ktorá zvyšuje pôdnu schopnosť rastu kvalitných plodín s vyšším obsahom
+živín. Poľnohospodárske techniky bez orbového hospodárstva pomáhajú zachovať úrodnosť
+pôdy. Obrábanie pôdy zasahuje veľkou časťou do rovnováhy fauny a flóry následkom čoho je
+zmena rozloženia mikrokomunít. Pozitívom obrábania je kontrolovanie pôdnych škodcov
+a lariev.
+V štúdií vplyvu bezorbových a konvenčných systémov obrábania pôdy na mikrobiálne
+spoločenstvá pôdy sa zistilo, že v pôde bez obrábania dochádza v dôsledku akumulácie
+zvyškov plodín na povrchu pôdy k obohateniu pôdnej organickej hmoty v povrchovej vrstve a
+následne k zvýšenému výskytu mikroorganizmov. Táto štúdia preukázala konzistentné
+zvýšenie početnosti húb, baktérií, arbuskulárnych mykoríznych húb a aktinobaktérií v
+povrchovej vrstve pôdy bez obrábania. Miesto štúdie sa nachádzalo v Tennessee Valley
+Research and Extension Center v Belle Mina, Alabama, USA. Pôdnym typom bola sprašová
+hlina Decatur (jemný, kaolinitický, termický rodový paleudult). Poľný pokus bol usporiadaný
+v randomizovanom kompletnom blokovom faktorovom usporiadaní so štyrmi opakovaniami,
+pričom hlavným faktorom bolo obrábanie pôdy (Mathew a kol., 2012).
+Pôdy pri bezorbovom obrábaní majú väčšie množstvo rastlinných zvyškov a vyšší
+obsah pôdnej organickej hmoty v povrchovej vrstve, čo má za následok zvýšenú infiltráciu a
+
+vyššiu schopnosť zadržiavať vodu ako pôdy pri konvenčnom obrábaní. Pôdy bez obrábania
+majú teda nielen vysoký obsah dostupného substrátu, ale sú aj vlhšie, chladnejšie a menej
+kolíšu vo vlhkosti a teplote. Tieto podmienky stimulujú rast a aktivitu pôdnych
+mikroorganizmov. Okrem toho existujú aj dôkazy, ktoré naznačujú, že chemické zloženie a
+štruktúra pôdnej organickej hmoty sú pri konvenčnom a konzervačnom systéme obrábania
+pôdy odlišné.
+Jedným z najbežnejších ukazovateľov kvality pôdy sa považuje organický uhlík. Pôda
+je najväčším úložiskom uhlíka. Uchováva ho približne 2 500 miliárd ton, čo predstavuje viac
+uhlíka ako atmosféra (780 miliárd ton) a rastliny (560 miliárd ton) dohromady (Soane a kol.,
+2012). Vďaka uhlíku vieme zistiť zdravie a úrodnosť pôdy. Zmenu koncentrácie CO2
+v atmosfére môže spôsobiť malá percentuálna zmena C v pôde (Yang a kol., 2022).
+Sekvestrácia pôdneho uhlíka je pri bez orbovom poľnohospodárstve z časti
+nenarušená. Obrábaním pôdy sa sekvestrovaný pôdny uhlík uvoľňuje do atmosféry.
+V atmosfére reaguje s atmosférickým kyslíkom, ktorý sa viaže na CO2 čo spôsobuje
+skleníkový efekt (Cherlinka, 2023). Smith a kol. (1998) výpočtami zistili ročný odhad
+sekvestrácie uhlíka v bez orbovej oblasti na približne 0,4 ton.C.ha-1 za rok. Sekvestračný
+prínos má okrem iného i udržiavanie 2 až 10 t slamy na povrchu pôdy čo približne pridáva 0,2
+až 0,7 ton.C.ha-1.
+Zmeny koncentrácií C v pôde sú zaznamenané pri agronomických postupoch
+obrábania pôdy. Ukladanie a koncentrovanie organického uhlíka bez orbovej technológií sa
+zvyšuje pri pôde s nenarušenou vrchnou štruktúrou pôdneho profilu. Uhlík sa tak stabilizuje
+a uloží. Opakom boli pozorované vyššie emisie CO 2 pri bez orbovej technike. V severnom
+Francúzku boli počas 331 dňového pozorovania zistené vyššie rozdiely emisií pri neobrábanej
+pôde 4064 kg CO2 C/ha-1 ako pri obrábanej 3160 kg CO2 C/ha-1. Spojenie vyšších emisií pri
+neobrábanej pôde sa pripisuje k povrchovému rozkladu starých zvetraných zvyškov a to pri
+veľmi teplom počasí počas monitorovacieho obdobia
+Pri intenzívnom obrábaní pôdy sa uložené časti uhlíka uvoľňujú z pôdnych agregátov,
+čo vedie k znižovaniu sekvestrácie uhlíka a zvýšeným emisiám CO2 v atmosfére. Pôdne
+obrábanie má počas celého vegetačného obdobia kumulatívny efekt vďaka zvýšenému
+mikrobiálnemu rozkladu, čo zapríčinuje 20 % navýšenie emisií CO 2. Tento efekt spôsobuje
+väčšie dýchanie koreňových systémov pri procese orby a to hlavne pri teplých ročných
+obdobiach (Soane a kol., 2012).
+Existujú faktory, ktoré môžu ovplyvňovať množstvo sekvestrácie C pri bez orbovom
+hospodárstve. Zaraďujeme sem teplotu, topografiu, zrážky, typ plodín alebo charakteristiku
+
+plodín čo úzko súvisí s množstvami rastlinných zvyškov a ich koreňovou distribúciou.
+Nezvyčajným faktorom je sklon. Na šikmých hospodárskych plochách je zvýšené množstvo
+organického uhlíka ako v oblastiach s rovnou krajinnou štruktúrou. Porovanie je i v korelácií
+s indexom suchosti. Priemerný ročný nárast pôdneho uhlíka v BT v porovnaní s KT bol 0,32
+Mg ha−1y−1 a 0,21 Mg ha−1y−1 (Novara a kol., 2021). West a Post (2002) odhadom zistili
+potenciálnu sekvestráciou uhlíka pri bez orbovom poľnohospodárstve na 0,57 Mg C ha −1 y−1
+(hodnota celosvetovo) (Chellappa a kol., 2021).
+Hospodárstvo nesie veľkú zodpovednosť za zadržiavanie pôdnej vody. Nesprávne spôsoby
+obrábania zapríčiňujú eróziu pôdy, odtok organickej hmoty čo môže zapríčiniť v nížinách
+povodne s čím úzko súvisí zanášanie vodných zdrojov a ich kontaminácia. Pri výdatných
+nárazových dažďoch nestíha pôda infiltrovať dažďovú vodu čo zapríčiňuje extrémny
+povrchový odtok na poľnohospodárskych pôdach.
+Existujú metódy, ktoré využívajú ochranný účinok vegetačného krytu. Ich
+aplikovaním dochádza k zníženiu povrchového odtoku. Pri meraní odtoku po povrchovom
+horizonte sa musí dbať pozornosť na geografické rozloženie meranej oblasti. Ďalej na pôdne
+vlastnosti, klimatické podmienky a topografiu. Jednou z najvyužívanejších metód na získanie
+dát o infiltrácií, odtoku, erózií a retencií pôdnej vody je simulátor zrážok. Simulátor zrážok sa
+veľmi často používa pri terénnych a laboratórnych experimentoch a to na posúdenie
+vegetačného krytu či obrábania pôdy (Hlavčová a kol., 2019).
+
+4 Poľnohospodárske techniky na zlepšenie retencie vody v pôde.
+V rámci poľnohospodárstva sa na zlepšenie kvality pôd využívajú rôzne poľnohospodárske
+technológie:
+Pásové pestovanie plodín: agrotechnický prístup v ktorom sa uplatňuje výsadba do pásov po
+vrstevnici. V jednom páse sú plodiny náchylné na erózne podmienky a v druhom sú plodiny
+odolné voči erózií. Šírka pásov má interval 20 až 40 m. Týmto prístupom sa kontroluje
+povrchový odtok čo umožňuje zachytávať väčšie množstvo zrážok.
+
+Obr. 7 Poľnohospodárska technológia pásového pestovania plodín. Prevzaté z: (Earthhow,
+2024)
+Vetrolamy (výsadba stromov a kríkov): Na alebo pri hranici ornej pôdy sa vysádza rad
+stromov alebo kríkov s výškou nad 3 metre. Vetrolamy majú väčšinou rovnaký rozostup. Do
+šírky 4 metre a ich minimálna dĺžka je 30 metrov. Slúžia ako bariéry na spomalenie vetra,
+zachytávanie pôdnych častíc a chránia pôdu pred pôdnou eróziou. Tvoria mikroklímu
+(zníženie výparu), zvyšujú vlhkosť a udržujú v oblasti aktívnu biotu.
+
+Obr. 8 Využitie stromov ako nástroja k zabráneniu erózií poľnohospodárskych pôdach.
+Prevzaté z: (Sottosanti, 2023)
+Multifunkčné okraje polí: multifunkčné biopásy vytvorené na okraji alebo vnútri parcely
+ornej pôdy. Pásy by mali byť rozmerovo minimálne 5 metrov široké a 200 metrov dlhé (1000
+m2). Biopásy sú zväčša tvorené kombináciou osiva a kvitnúcich rastlín. Tak môžu plniť
+kŕmnu alebo nektárodarnú funkciu.
+
+Obr. 9 Uplatňovanie biopásov uprostred parcely ornej pôdy. Prevzaté z: (Talukdar et al.,
+2023)
+Terasovanie: zmena terénnych vlastností v poľnohospodárskej oblasti. Technológia, ktorá sa
+využíva v strmých svahoch so sklonom min. 15 %. Budujú sa ako široký plochý priestor 5 –
+20 m po prípadne ako stupňovitá terasa s výškou od 1-3 m. Priečny sklon vytvorenej terasy
+býva zvyčajne 3 – 5 %. Výsledkom terasovania je zabránenie erózie pôdy, odtoku vody a
+zachovanie dostatočnej vlhkosti pôdy.
+
+Obr. 10 Vytvorené stupňové terasovanie v strmom svahu. Prevzaté z: (Talukdar a kol., 2023)
+Agrolesníctvo:
+
+kombinuje
+
+poľnohospodárske
+
+plodiny
+
+so
+
+stromami,
+
+kríkmi
+
+alebo
+
+hospodárskymi zvieratami. Tento typ technológie sa využíva primárne na neúrodných pôdach
+alebo tam kde pôda podlieha erózií. Zvýšenie odolnosti voči erózií zabezpečujú korene, ktoré
+udržujú pôdne agregáty pokope vďaka ich širokému rozmiestneniu v pôde. Ďalej pomáhajú
+zvyšovať infiltráciu, znižovať povrchový odtok. Výhodou je organická hmota, ktorá je
+dodávaná do pôdy vo forme listov (Muchová, 2024).
+
+Obr. 11 Využitie agrolesníctva s poľnohospodárstvom pri pestovaní plodín. Prevzaté z:
+(https://www.quora.com/What-are-the-examples-of-agroforestry)
+Minimalizačná, bez orbová, mulčovacia/nastielacia technológia alebo vrstevnicové obrábanie
+pôdy sú opatrenia využívané v poľnohospodárstve a preukázateľne účinné na dosiahnutie
+trvalo udržateľnej kvality pôd. Ďalej sem môžeme zaradiť jamkovanie povrchu pôdy,
+zdrsňovanie povrchu pôdy či využitie ochranných medziplodín (Talukdar a kol., 2023).
+Pre zvyšovanie kvality pôdy a pestovaných plodín sa aktuálne využíva inovačný nástroj
+superabsorpčný polymér (SAP) (Muchová, 2024).
+
+4.1 Superabsorčné polyméry
+Superabsorpčné polyméry (SAP) alebo hydrogély sú polymérne materiály schopné
+absorbovať a zadržiavať mimoriadne veľké množstvo vody, a to 100 až 1000-násobok svojej
+hmotnosti čo predstavuje 1 000 - 100 000 % (10 - 1 000 g/g) k suchej hmotnosti. Pri bežných
+hydrogéloch adsorpčná schopnosť nepredstavuje ani 100 % (1 g/g) k suchej hmotnosti
+(Zohuriaan, 2008)
+Prvá generácia hydrogélov bola vytvorená koncom 50. rokov 20. Storočia. Ich
+napučiavacia účinnosť bola okolo 40 – 50 %. Hydrogély prvej generácie sa využívali počas
+vývoja kontaktných šošoviek. V roku 1966 za dokázalo získať superabsorpčný produkt
+v regionálnom výskumnom laboratóriu Ministerstva poľnohospodárstva USA. Výrobu
+realizovali technológiou štiepenia akrylonitrilu na pšeničný škrob čím sa získal materiál, ktorý
+dokázal absorbovať vodu 300 až 1 000-násobkom vlastnej hmotnosti. Neúspechom tohto
+produktu boli primárne vysoké náklady a nedostatočná pevnosť gélu (Qureshi a kol., 2020).
+
+V roku 1970 bol vyrobený prvý SAP na komerčné účely, a to alkalickou hydrolýzou
+škrobového graft-polyakrylonitrilu. Spoločnosť Professional Medical Products v roku 1978
+po prvý krát použila SAP v hygienických vložkách (Yang a kol., 2021).
+SAP sa začal priemyselne vyrábať začiatkom 80. rokov v Japonsku a Spojených
+štátoch. Bol viac dostupný a začal sa používať v širšom rozsahu aj v poľnohospodárstve. K
+dispozícii bol prvý komerčne dostupný SAP pre poľnohospodárstvo na báze polyakrylátu
+draselného, ktorý bol schopný spĺňať retenčné požiadavky (Zohuriaan, 2008).
+Od roku 2000 sa vývojári zamerali na vplyv SAPu k ŽP. Integrácia s udržateľnými
+agrotechnologickými prístupmi ich prinútila k vývoju biologicky odbúrateľného SAPu, ktorý
+by po rozklade nekontaminoval ŽP, a tak by sa eliminovali negatívne účinky na pôdu.
+Počiatočný
+
+vývoj
+
+biologicky
+
+odbúrateľných
+
+a ekologických
+
+hydrogélov
+
+na
+
+báze prírodných materiálov začal od roku 2010 a trend vývoja pokračuje, kde v roku 2020 sa
+výskum primárne zameriava na odolnosť plodín voči klimatickej zmene za pomoci aplikácie
+SAP (Matushek, 2019).
+4.1.1
+
+Zloženie a klasifikácia SAP
+SAP sú tvorené z trojrozmerných polymérnych sietí, ktoré nie sú rozpustné vo vode
+
+a nesú disociované iónové funkčné skupiny. Vo vodnom prostredí výrazne zväčšujú svoj
+objem vďaka hydrofilným skupinám pripojeným k ich polymérnej kostre. Medzi hydrofilné
+skupiny (zosieťované polyelektrolyty) sa riadia karboxylové, hydroxylové a aminoskupiny
+(Behera, 2020).
+Vďaka iónovej povahe polymérov a ich prepojenej štruktúre dokážu absorbovať veľké
+množstvá vody a roztokov bez ich rozpúšťania solvatáciou molekúl vody. Absorpčná
+schopnosť SAP je podmienená najmä medzi osmotickým tlakom napučaného gélu a
+vonkajším roztokom. Osmotický tlak je založený na pohyblivých protiiontoch a afinite medzi
+elektrolytom a vodou (Kiatkamjornwong, 2007).
+
+Obr. 12 Schematické zobrazenie štruktúry superabsorpčného polyméru. Prevzaté z:
+(Miyajima a kol., 2020)
+Delenie SAP na dve hlavné triedy podľa materiálu:
+Prírodné SAP sú tvorené na báze polysacharidov (napr. škrob, celulóza, agaróza a alginát) a
+ostatné na báze polypeptidov (napr. kolagén alebo želatína). Výhodou je ich prirodzená
+rozložiteľnosť, biokompatibilita, obnoviteľnosť a šetrnosť k ŽP. Zvyčajne sa pripravujú
+pridávaním syntetických častí na prírodné substráty. Pre zložitý proces extrakcie sú
+nákladnejšie ako niektoré syntetické polyméry. Vysoké výrobné náklady a nízka účinnosť
+prírodných SAP často obmedzuje ich využitie v praxi.
+
+Obr. 13 Prírodný SAP. Prevzaté z: (https://www.ecoviarenewables.com/azuragel)
+Syntetické SAP na petrochemickej báze (napr. kyselina polyakrylová, kyselina metakrylová,
+vinylacetát, polyetylénglykol). Majú vo všeobecnosti vyššiu hydrofóbnosť a mechanickú
+pevnosť ako prírodné polyméry. Mechanická pevnosť SAP zvyšuje ich trvanlivosť
+a skladovateľnosť. Nevýhodou syntetických SAP je, že i po niekoľkých rokoch sa v pôde
+
+nerozložia, čím sa vytvára veľká záťaž na ŽP. Kombinácia syntetických SAP s prírodnými by
+mohla vyvážiť vlastnosti a schopnosť biologickej odbúrateľnosti (Chang a kol., 2021).
+
+Obr. 14 Syntetický SAP. Prevzaté z: (https://www.hnsecco.com/Super-Absorbent-PolymerSAP.html)
+Klasifikácia SAP na základe prítomnosti alebo neprítomnosti elektrického náboja v
+zosieťovaných reťazcoch:
+a) neiónové – schopné absorbovať kvapalinu bez iónového náboja, čo ovplyvňuje ich
+interakciu s inými látkami,
+b) iónové (vrátane katiónových a aniónových) – ich molekulovú štruktúru tvorí kladný
+(katiónový) alebo záporný (aniónový) náboj,
+c) amfoterné elektrolytické (amfolytické) - obsahujú kyslé (aniónové) a zásadité
+(katiónové) skupiny, čo umožňuje prispôsobovanie sa podmienkam a integrácie so
+širokou skupinou látok.
+d) zwitteriónové (polybetaíny) – tvoria ho kladné a záporné náboje obsiahnuté v jednej
+molekule, ktorá je elektricky neutrálna. Pre špeciálnu štruktúru je schopný absorbovať
+vysoké množstvo vody.
+Klasifikácia podľa typu monomérnej jednotky použitej v ich chemickej štruktúre:
+a) zosieťované polyakryláty a polyakrylamidy
+b) hydrolyzované kopolyméry celulózy a polyakrylonitrilu (PAN) alebo štepené
+kopolyméry škrobu a PAN
+c) zosieťované kopolyméry maleinanhydridu (Behera, 2020).
+
+4.1.2
+
+SAP na báze polysacharidov
+
+Polysacharidy ako prírodné polyméry (biopolyméry) sa môžu využívať na syntézu SAP.
+Môžu byť zložené z jedného homopolysacharidu alebo viacerých heteropolysacharidov.
+Medzi homopolysacharidy sa zaraďuje celulóza, škrob, alginát alebo karagenan a v prípade
+heteropolysacharidov sa jedná o agarózu a chitosan. Najviac využívané polysacharidy v praxi
+sú celulóza, alginát, karagenan, chitosan, škrob, agaróza a pektín.
+Medzi aniónové sa zaraďuje alginát a karagenan, katioónové reprezentuje chitosan a neiónové
+– guarová guma. Väčšia časť polysacharidov je netoxická, biologicky odbúrateľná
+a obnoviteľná (Llanes a kol., 2020).
+Polyméry z polysacharidov sa zaraďujú medzi najrozšírenejšie, najlacnejšie a najdostupnejšie
+materiály. Obsiahnuté hydroxylové skupiny im vytvárajú silnú vlastnosť viazania molekúl
+vody.
+Pri príprave SAP na báze polysacharidov sa delia reakcie do dvoch hlavných skupín:
+a) štepová kopolymerizácia vhodného vinylového monoméru (monomérov) na
+polysacharid v prítomnosti zosieťovacieho činidla
+b) priame zosieťovanie polysacharidu (Zohuriaan, 2008).
+Veľká časť polysacharidov nedokáže vytvárať stabilné formy hydrogélov čo je pre
+aplikácie v praxi nevyhnutné. Preto sa z dvoch alebo viacerých polymérnych reťazcov, ktoré
+sú na prírodnej alebo syntetickej báze vytvára viacvrstvovú sieťovú štruktúru. Vykonané
+chemické zosieťovanie vytvára stabilnejšiu sieť odolnú voči vonkajším podmienkam.
+Primárnou nevýhodou chemického zosieťovania je toxicita zvyškových vinylových
+sieťovadiel, čo môže vytvárať problém pri syntéze netoxických SAP (Pérez-Álvarez a kol.,
+2019).
+4.1.3
+
+Retenčné vlastnosti SAP
+Dôležitými vlastnosťami SAP je ich schopnosť napučiavania a absorpcie vody. SAP sa
+
+skladá z polymérovej kostry, ktorá obsahuje skupiny karboxylových kyselín (-COOH).
+Karboxylové kyseliny veľmi ochotne viažu molekuly vody. Schopnosť zadržiavania vody
+závisí od hustoty zosieťovania a počtu hydrofilných skupín. Po zmiešaní SAP s vodou
+dochádza k tvorbe vodíkových mostíkov a hydratácií. Ióny ako COO-, K+ alebo Na+ priťahujú
+polárne molekuly vody. Molekula vody je schopná so svojimi vibráciami rozštiepiť iba
+vodíkové väzby. Samotný SAP voda nedokáže rozpustiť z dôvodu jeho silného kovalentného
+zosieťovania (Oladosu a kol., 2022).
+
+Prevažná väčšina SAP obsahuje iónové skupiny, ktoré disociujú vo vodnom prostredí
+a vytvárajú celkovú hustotu náboja. Iónové skupiny prispievajú k zvýšeniu koncentrácie
+pohyblivých iónov a osmotickému tlaku v SAP. Schopnosť nadmernej absorpcie vody sa
+pripisuje rozdielu medzi osmotickým tlakom SAP a vonkajším roztokom (Behera, 2020).
+Retenčné vlastnosti sa primárne stanovujú gravimetrickou metódou.
+
+4.1.4
+
+Parametre vplývajúce na retenčné charakteristiky SAP (pH)
+
+Polyakrylát sodný je jeden z mnohých typov SAP schopného absorpcie vody. Keď sa polymér
+dostane do kontaktu s vodným prostredím, sodík sa začne rovnomerne rozkladať medzi
+polymérovú sieť a vodu. Časť atómov sodíka opúšťa polymérnu sieť a presúvajú sa
+k molekulám vody. Prázdne miesta po sodíku nahradia molekuly vody, ktoré sa snažia
+vyrovnať koncentráciu sodíka medzi polymérom a vodou. Rozdiel absorpcie vody pri
+polyakryláte sodnom je práve absorpcia pri laboratórnych (destilovaná voda) a v reálnych
+podmienkach. Jeho schopnosť absorpcie destilovanej vody je 800-násobok jeho hmotnosti,
+kde absorpcia vodovodnej vody je iba 300-násobok jeho hmotnosti. Voda z vodovodu
+obsahuje už určité množstvá sodíka, vápnika a iných minerálov (University, C.M, 2022).
+Schopnosť absorpcie SAP je značne ovplyvnená pH a koncentráciou iónov v roztoku.
+Vysoká koncentrácia iónov v roztoku má výrazný vplyv na zníženie absorpčnej kapacity
+vody. Zníženú absorpciu môže spôsobovať chelatačný účinok viacvalentných katiónov
+s funkčnými skupinami polyméru. Tým vznikne z voľne zabalenej siete polyméru pevne
+zabalená sieť, do ktorej je vstup vody veľmi obmedzený.
+Silne kyslé prostredie spôsobuje nahrádzanie H+ iónov katiónmi v molekulovom reťazci, čo
+má za následok znižovania rozdielu osmotického tlaku. Ďalej dochádza k zvýšeniu tvorby
+vodíkových väzieb, a tým sa stáva sieťová štruktúra kompaktnejšia, obmedzuje sa relaxácia
+a pohyb molekulového reťazca, a to vedie k menšej absorpcií vody.
+Silne alkalické prostredie - stúpajúce pH zvyšuje ionizáciu. Vyššia ionizácia spôsobuje rozpad
+vodíkových väzieb a elektrostatické odpudzovanie medzi polymérnymi reťazcami. Tým sa
+zväčšuje štruktúra polyméru a množstvo vody, ktoré je schopný naviazať. Osmotický tlak sa
+znižuje so zvyšujúcou sa absorpciou vody, ktorá spôsobuje zvýšený ťah medzi polymérnymi
+sieťami. Ďalším zvyšovaním pH dôjde k štrukturálnemu rozpadu polymérnych sietí a tým
+zníženiu absorpcie vody (Yang a kol., 2024).
+Rattan a kol., (2022) skúmali dva rôzne druhy SAP (Com-SAP a FA-SAP) a tri rôzne
+hnojivá (organické, močovina a fosforečnan amónny). Z nich sa následne vytvorili rôzne
+
+koncentrácie roztokov hnojív (5 g/l, 10 g/l, 25 g/l, 50 g/l a 100 g/l) a pridali do 500 ml
+destilovanej vody. Metóda sa vykonávala pri laboratórnych podmienkach. SAP sa aplikoval
+do nylónového čajového vrecka a ponoril do roztoku hnojív s rôznymi koncentráciami.
+Zníženie nasiakavosti SAP sa prejavil po aplikácií oboch druhov hnojív. Pokles nasiakavosti
+bol úmerný koncentrácií hnojív. Poradie aplikácie SAPu alebo hnojív nezohrávalo významnú
+úlohu pri rovnovážnej hodnote nasiakavosti. Významný pokles nasiakavosti SAP (Com-SAP
+a FA-SAP) sa zaznamenal pri aplikácií fosforečnanu amónneho s koncentráciou hnojiva 5
+g/l. Pri ďalších zvyšujúcich sa koncentráciách hnojiva fosforečnanu amónneho testované
+polyméry nevykazovali pokles nasiakavosti (p-hodnota >0,05). Pokles nasiakavosti pri
+aplikácií fosforečnanu amónneho sa pripisuje rozdielom osmotických tlakov medzi sieťou
+SAP a roztokmi fosforečnanu amónneho.
+Hnojivá
+
+organického
+
+pôvodu
+
+obsahujú
+
+iónové
+
+a neiónové
+
+prímesi,
+
+ktoré
+
+pravdepodobne interagujú so SAP čo má v dôsledku negatívny účinok na samotnú
+nasiakavosť ako má močovina (Rattan a kol., 2022).
+4.1.5
+
+Využitie SAP v poľnohospodárstve
+Pre poľnohospodárske účely boli polyméry vyvinuté primárne na zlepšenie
+
+fyzikálnych vlastností pôdy:
+(a) zlepšenie vodozádržnej kapacity pôdy,
+(b) efektívne a účinné využívanie vody,
+(c) zvýšená miera infiltrácie,
+(d) zníženie frekvencie zavlažovania,
+(e) zamedziť zhutneniu pôdy,
+(f) zastavenie erózie a odtoku vody,
+(g) zvýšenie úrodnosti rastlín (oblasti vystavené suchu) (Chang a kol., 2021).
+Poľnohospodársky SAP musí mať vysokú mieru absorpcie vody, nízky obsah
+degradovaných zvyškov, netoxickosť a vysokú stabilitu v prostredí. Je zrejmé, že nie je
+možné aby SAP spĺňal všetky uvedené požiadavky ale je potrebné aby spĺňal aspoň časť
+z nich (Zohuriaan, 2008):
+- Vysoká absorpčná kapacita (maximálna nasiakavosť v rovnovážnom stave)
+- Požadovaná rýchlosť absorpcie preferovaná veľkosť častíc a pórovitosť
+- Nízky obsah rozpustných látok a zvyškového monoméru
+- Vysoká biologická odbúrateľnosť bez tvorby toxických látok po degradácii
+- Vysoká stabilita v prostredí aplikácie a počas skladovania (mechanická stabilita)
+
+- pH-neutralne po napučaní vo vode
+- Bezfarebnosť, bez zápachu a absolútna netoxickosť
+- Fotostabilita (odolné voči slnečnému, viditeľnému, UV svetlu)
+- Nízka cena.
+SAP sa aktuálne využívajú a testujú v oblasti poľnohospodárstva a záhradníctva a to
+aplikovaním do pôdy. V pôde zohrávajú dôležitú úlohu vo vytváraní priaznivých
+klimatických podmienok a zlepšení fyzikálnych vlastností pôdy (Obr. 15).
+Polymér môže v poľnohospodárstve plniť viaceré funkcie ako napr. (Ekebafe a kol., 2011)
+- zásobáreň vody
+- nosič živín (podpora klíčenia)
+- obal na osivo alebo koreňových dipov
+- regulátor riadeného uvoľňovania látok
+- regulátor rastu rastlín.
+Aktuálne sa v poľnohospodárstve využívajú 3 hlavé typy polymérov:
+1) škrobové štepené kopolyméry získané štepením polyakrylonitrilu na škrob s následnou
+zmydelnením akrylonitrilových jednotiek
+2) zosieťované polyakryláty
+3) zosieťované polyakrylamidy a zosieťované akrylamid-akrylátové kopolyméry obsahujúce
+väčší podiel akrylamidových jednotiek. Pre svoju schopnosť odolnosti a dlhej výdrže sú
+najviac využívané v poľnohospodárskom sektore (Ekebafe et al., 2011)
+
+Obr. 15 Využitie SAP v oblasti poľnohospodárstva a záhradníctva. Upravené podľa: (Braun
+et al., 2021)
+
+4.1.5.1
+
+Obalovanie semien (priama technológia)
+
+Priame obalovanie semien je jednou z možností využitia SAP. Semená fazule mungo sa
+priamo obalili rôznymi druhmi SAP: polyakrylamidom (PA), polyakrylátom sodným (SPA)
+a SAPom na báze kokosového vlákna. Koncentrácia SAPu bola stanovená rôzne: PA (2 g/kg
+semien), SPA (7 g/kg semien), SAP kokosové vlákno (8 g/kg semien) spolu s MnSO 4 100
+ppm. Ako kontrola slúžili neobalené semená. Pokus sa vykonával na náhodných poľných
+blokoch, celkovo so štyrmi opakovaniami.
+Pri vyhodnocovaní bola pozorovaná najvyššia klíčivosť pri aplikovaní SAPu na báze
+kokosovej drviny 8 g/kg semien s 87% účinnosťou. Polyméry na báze (PA) a (SPA)
+významne zvýšili klíčivosť semien ale nepresiahli úroveň klíčivosti SAPu na báze kokosovej
+drviny. Kokosové vlákno ako zložka SAP najefektívnejšie absorboval okolitú pôdnu vodu
+a zadržiaval absorbovanú vodu na povrchu semien. Neobalené semená (kontrola) boli
+najmenej významné a dosiahli najnižšiu klíčivosť. V experimente sa zaznamenala aj
+maximálna výška rastlín a to pri aplikácií SAP na báze kokosového vlákna. Výška rastlín je
+genetická vlastnosť, ktorá sa môže pripísať okolitým podmienkam a nemusí byť umelo
+ovplyvnená (Suganya a kol., 2020).
+Alves a Teixeira (2012) skúmali vplyv rôznych koncentrácií hydrofilného gélu na
+klíčivosť semien tingui a uhorky a zistili, že stredná dávka gélu zvýšila percento klíčivosti,
+zatiaľ čo vyššia dávka ho znížila. Tí istí autori konštatovali, že gél môže absorbovať časť
+vody určenej pre embryo. preto je potrebné upraviť dávku SAP, aby sa zabezpečila vysoká
+účinnosť klíčenia semien.
+Porovnanie spôsobu aplikácie SAP prostredníctvom obaľovania osiva s aplikáciou do
+výsadbovej ryhy a kontrolou, ako sa hodnotilo v experimente 2 ukázalo, že druhý spôsob
+aplikácie viedol k zvýšeniu výšky rastlín, sušiny listov a sušiny výhonkov, pričom prvý
+spôsob aplikácie tieto premenné v porovnaní s kontrolným ošetrením znížil. Na zlepšenie
+procesu klíčenia môže byť prospešné vyvinúť polymér špecifický pre osivo, a to vzhľadom na
+to, že interakcia SAP so semenom by mohli mať vplyv na rozdiely v granulometrii polyméru,
+ako aj v spôsobe jeho aplikácie (napr. spojivo alebo vrstva) (Barros a kol., 2017).
+4.1.5.2 Aplikácia SAP do pôdy
+Autori Yu a kol. (2017) sledovali absorpciu a následné zadržiavanie vody počas 10
+hodín sušenia piatich pôd líšiacimi sa textúrou a prítomnosťou štyroch rôznych SAP
+(zmesami pôdy a SAP) s rôznou koncentráciou. Absorpcia vody samotnými pôdami sa
+
+zvyšovala so zvyšujúcim sa obsahom ílu. Absorpcia vody SAP-mi klesala s ich zvyšujúcim sa
+množstvom, ale počas 10 h sušenia malo množstvo vody zadržanej SAP-mi tendenciu stúpať
+s ich zvyšujúcim sa množstvom. Absorpcia vody zmesami pôdy a SAP sa zvyšovala so
+zvyšovaním koncentrácie SAP bez ohľadu na štruktúru pôdy. SAP zmiešané s pôdou výrazne
+zlepšili schopnosť zadržiavať vodu, najmä v pôdach s nízkymi percentami ílu. Okrem toho
+SAP v zmesiach pôdy naďalej absorboval vodu z pôdy počas prvých 5 hodín sušenia.
+Najmenšie straty vody vykazoval SAP s veľkorozmernými guľôčkami (BJ-2101M).
+(Yu a kol., 2017).
+Podobné zistenia z pohľadu zloženia pôdy bolo zistené autormi Malik a kol. (2022),
+ktorí na základe týchto zistení odporúčajú nasledovné dávkovanie SAP:
+- ílovitý typ pôdy (2,5 kg/ha) aplikovanie do hĺbky 6 až 8 cm
+- piesočnatý typ pôdy (5,0 kg/ha) aplikovanie do hĺbky 4 cm (Malik a kol., 2022).
+V odbornej štúdií Albalasmeh a kol. (2022) použili komerčný polyakrylát draselný,
+ktorý sa aplikovali do dvoch rôznych typov pôd (piesočnatej a ílovito-hlinitej). Zmeny
+rastových parametrov sa sledovali na plodine kukurice siatej. Pre odlišné fyzikálne
+a hydraulické vlastnosti pôd ako je dostupnosť vzduchu, vody a živín sa pôda s hydrogélom
+miešala v množstve (0 až 1% použité len pri piesočnatom type pôdy).
+Pri oboch pôdach mala výška rastlín rastúci trend pri zvyšovaní koncentrácie
+hydrogélu. Pri ílovito-hlinitej pôde bola najväčšia výška kukurice 155,2 cm pri množstve
+hydrogélu 0,5 % (mSAP/mpôda). Oproti kontrole to predstavovalo 26,3-percentný nárast.
+Kukurica pestovaná v piesočnatej pôde mala najvyššiu výšku 93,37 cm pri 1 % množstve
+hydrogélu. V porovnaní s kontrolou 44,30 cm to predstavovalo viac ako dvojnásobný nárast
+kukurice. Takisto sa pri oboch typoch pôd zvyšovala živá a suchá hmotnosť a priemer stonky.
+Potvrdilo sa, že aplikáciou SAP do piesočnatej a ílovito-hlinitej pôdy zvýšilo rast kukurice
+(Albalasmeh a kol., 2022).
+4.1.6
+
+Vplyv SAP na pôdne vlastnosti
+Konkrétne typy SAP zlepšujú rýchlosť prenikania vody, štruktúru a textúru pôdy -
+
+zadržiavanie vody, infiltráciu a prevzdušňovanie pôdy, veľkosť a počet agregátov, napätie
+vody, dostupnú vodu, krehkosť pôdy a uľahčujú postupy hospodárenia s vodou v pôde.
+Schopnosti ako uvoľňovanie živín a nitrifikácia pôdy, zvýšenie absorpcie živín, osmotická
+vlhkosť pôdy a zníženie stresu pri presádzaní spôsobujú zlepšenie rastovej reakcie rastlín,
+zvýšenie úrody a zníženie rastových a produkčných nákladov rastlín. Tým, že SAP absorbuje
+
+sto až päťstonásobok svojej pôvodnej hmotnosti sa môže použiť ako samotné kultivačné
+médium alebo ako samostatne zakoreňovacie médium. Okrem toho znižuje nárazový tlak v
+trávnikoch, používanie pesticídov (herbicídov a fungicídov), absorbuje rozpustné hnojivá a
+včas ich uvoľňuje. Okrem toho zlepšuje drenáž, keď je použitý ako pôdna úprava. V
+niektorých prípadoch môže nadmerné používanie hydrogélu spôsobiť opačný efekt, z dôvodu
+znižovania vzdušnosti pôdy, po ktorej nasleduje vyplnenie voľných priestorov a napučanie
+gélu.
+Aplikáciou SAP do pôdy môže dôjsť k ovplyvneniu jej chemických vlastností, ako je
+pH, elektrická vodivosť (EV), katiónová výmenná kapacita (KVK) a retencia živín. Práve
+zmeny uvedených vlastností pôdy môžu výrazne ovplyvniť rast plodín. Štúdie skúmali zmeny
+chemických vlastností pôdy, pričom ich výskum bol zameraný na retenciu živín. Zistili, že
+polymér vyvolal reakcie rôzneho typu, ktoré zmenili chemické vlastnosti pôdy. Práce
+zaoberajúce sa zadržiavaním živín zaznamenali pozitívnu reakciu na aplikáciu SAP. V
+piesočnato-hlinitej pôde s aplikáciou 0,5 % práškového SAP, ktorá počas dvojtýždňového
+obdobia prešla dvoma intervalmi zavlažovania sa pH po ošetrení SAP znížilo zo 6,04 na 5,75,8. Pokles pH sa spájal a bol pravdepodobne ovplyvnený karboxylátovým iónom prítomným
+v SAP. Zmena pH mohla byť spôsobená aj práškovou formou v ktorej bol SAP aplikovaný do
+pôdy. Väčší povrch mohol znásobiť účinok pH. Primárny rozdiel pH pôdy sa pripisuje
+chemickému zloženiu SAP (Dehkordi, 2016; Ostrand a kol., 2020; Zohuriaan, 2008)
+Ďalšia práca skúmajúca SAP a jeho vlastnosti zaznamenala rovnako zníženie pH zo 4,8 na
+4,5. Zdôvodnenie poklesu pH bolo spôsobené prítomnosťou karboxylátových iónov v SAP,
+ktoré okysľujú pôdu a následne znižujú pH (Ostrand et al., 2020).
+Zmena elektrickej vodivosti (EV) sa vyskytla v dvoch štúdiách. Skúmali zmenu EV v
+piesočnato-hlinitej pôde. V počiatočnom meraní mala vzorka pôdy EC 1,5 dS m -1. Po 13
+týždňovom kontrolnom meraní sa EV zvýšila na 2,95 dS m -1. Po aplikácií 0,5 % SAP sa EV
+zvýšila na 5,3 dS m-1. Elektrická vodivosť a jeho zmena bola pravdepodobne spôsobená
+kyselinami a iónmi prítomnými v SAP. V ďalšej štúdií sa skúmali 2 typy polymérov pri
+meniacich sa vodných stavoch. V počiatočných fázach aplikácie sa EV zvýšila ale po 12 a 21
+dňoch výrazne klesla a to o 51,7 - 65,5 % resp. 42,5 - 51,3 %. Obe štúdie sa zaoberali zmenou
+EV po aplikácií SAP. Priebežné merania preukázali rôzne reakcie, čo mohlo byť spôsobené
+zložením SAP (Zohuriaan, 2008).
+Aplikáciou SAP do pôdy sa môže výrazne zmeniť množstvo mikrobiálnej diverzity.
+Počas suchej aplikácie SAP 200 kg/ha-1 0,009 % (mSAP/mpôda) pri klíčení pšenice sa početnosť
+baktérií výrazne zvýšila. Pri experimentálnom aplikovaní SAP 0,5 % (m SAP/mpôda) do pôdy sa
+
+početnosť baktérií zvýšila z 16 % na 18% v porovnaní s pôdou bez aplikovaného SAP
+(Ostrand a kol., 2020).
+Počet húb, baktérií a aktinomycét sa v pôde ošetrenej SAPom výrazne zvýšil i po kontrolnom
+meraní. Vďaka zlepšeniu biologických vlastností pôdy, dostatočnej vlhkosti a rozkladu
+pôvodných organických materiálov bol možný ideálny nárast mikroorganizmov. SAP na báze
+akrylamidu dokáže výrazne zvýšiť počet húb, baktérií a aktinomycét v pôde (Parvathy a kol.,
+2014).
+Yang a kol. (2022) realizovali aplikáciu SAP do poľnohospodárskej pôdy od roku
+2011 po 2019. Počas 9 rokov aplikácie zistili, že SAP môže zlepšiť štruktúru pôdy, jej
+fyzikálne vlastnosti a vlastnosti pôdnych pórov. Počas pôsobenia SAP zvyšoval početnosť
+pôdnych agregátov > 0,25 mm a znižoval počet < 0,25 mm už za 1 rok aplikácie. Od roku
+2011 po rok 2019 sa podiel pôdnych agregátov s hrúbkou >2,0, 1,0-2,0 a 0,5-1,0 mm výrazne
+zvýšil. Znižovanie početnosti pôdnych agregátov s hrúbkou <0,25 mm mohlo byť spôsobené
+silnou priľnavosťou SAPu na pôdne častice, čim je znemožnené ich ďalšiemu rozptylu.
+Znižovaním počtu agregátov s hrúbkou <0,25 mm uľahčuje mikrobiálny rast, pretože medzi
+aktivitou pôdnych enzýmov a agregátmi s hrúbkou >1,0 vzniká pozitívna korelácia (Yang a
+kol., 2022).
+SAP majú potenciálne využitie aj ako nosič a regulátor uvoľňovania živín (hnojív)
+v poľnohospodárstve a záhradníctve. Aplikáciou SAP ako hnojiva je možné znížiť výrobné
+náklady na hnojivá, docieliť efektívnejšiu aplikáciu a takisto zmierniť environmentálne
+problémy spojené s nekontrolovateľným uvoľňovaním pesticídov, herbicídov a živín do
+životného prostredia (Zheng a kol., 2023).
+Polyméry využívané na poľnohospodárske účely dokážu zadržať a uchovať hnojivá až na päť
+rokov. Hnojivo sa aplikuje do SAP v ktorom sa rozpustí pomocou už absorbovanej vody (Ali
+a kol., 2023).
+Napučaný SAP má obštrukčný účinok na difúziu obaleného hnojiva. Zlepšuje sa tak rýchlosť
+využitia hnojiva a živiny môžu pomaly difundovať z hydrogélu cez sieťový systém do
+prostredia pôdy (Xi, 2021).
+Účinnosť uvoľňovania močoviny uloženej v SAP sa zvyšuje a synchronizuje podľa
+živín potrebných v rastlinách. SAP zložený z kompozitu celulózy zabezpečuje jej viazanie na
+hnojivo, čím sa vie nastaviť hrúbka povlaku, vďaka čomu sa reguluje uvoľňovanie hnojiva.
+Bol vyvinutý SAP s dvojitým povlakom, ktorého základný materiál je močovina, vnútorný
+povlak je zložený z etylcelulózy a vonkajší povlak z (celulóza-SAP). Celulózový
+dvojvrstvový SAP v praxi vykazoval zvýšenú zadržiavaciu kapacitu vody a odolnosť voči
+
+nitrifikácií (Dingley a kol., 2024). Kombináciou SAP a hnojív vieme zvýšiť príjem živín
+koreňov plodín, znížiť straty hnojív vplyvom erózie alebo odparovania a využiť maximálnu
+výnosnosť plodín aj v oblastiach postihnutých nedostatkom vody (Jamal a kol., 2022).
+4.1.7
+
+Vplyv používania superabsorpčného polyméru na životné prostredie
+Medzi časté riziká pri aplikácií SAP v praxi patrí jeho bezpečnosť, toxicita a osud
+
+v ŽP. SAP majú ireverzibilnú vlastnosť čo znamená, že sa po ich použití nemôžu vrátiť do
+pôvodného stavu. Polčas rozpadu SAP aplikovaného do pôdy je najčastejšie 5 – 7 rokov.
+Životnosť SAP závisí primárne od pH pôdy. Produkty, ktoré najčastejšie vznikajú pri
+degradácií sú voda, CO2, amoniak, Na a ďalšie zložky. Vznik produktov pri rozklade závisí
+hlavne od zloženia SAP. Ťažká rozložiteľnosť SAP môže predstavovať zvýšené riziko
+a potenciálnu kontamináciu podzemných vôd. Ich mobilita je primárne ovplyvnená
+štruktúrou pôdy a množstvom organickej hmoty. Ílovité pôdy s vyšším obsahom organických
+hmôt môžu značne obmedziť mobilitu SAP (Ostrand a kol., 2020).
+Štúdie skúmajúce SAP na báze akrylátov preukázali, že sú vo všeobecnosti biologicky
+kompatibilné ale v dôsledku ich vysoko stabilnej uhlíkovej kostry, nízkej rozpustnosti vo
+vode a extrémne vysokej molekulovej hmotnosti vplyvom zosieťovania nie sú rozložiteľné
+a degradovateľné mikroorganizmami (Chen a kol., 2022).
+Komerčne dostupné SAP sú prevažne produkty zložené z biologicky nerozložiteľných
+materiálov ako je akrylát a akrylamid. SAP zložený z polyakrylamidu je vo všeobecnosti
+netoxický ale jeho degradáciou môžu vzniknúť akrylamidové zvyšky, ktoré sa považujú za
+nebezpečné pre človeka a podzemné vodné zdroje. Podľa Svetovej zdravotníckej organizácie
+sa zaraďujú akrylamidové zvyšky medzi karcinogénne zlúčeniny (2. úroveň).
+Akrylamidy sú schopné rýchlej degradácie vo vlhkom pôdnom prostredí a ich
+konečnými rozkladovými produktmi sú kyselina akrylová a amoniak. Rýchlosť degradácie
+akrylamidu môže byť ovplyvnená aj mikrobiálnou aktivitou.
+Skúmal sa model mikrobiálnej degradácie akrylamidu v pôdnom stĺpci s tromi
+rôznymi typmi pôd. Výsledky ukázali, že akrylamid sa rýchlo degradoval a rozpad
+akrylamidu bol kratší ako 3 hodiny. Biologická odbúrateľnosť SAP na báze akrylátu v
+rôznych typoch pôd pri rôznych teplotách bola študovaná v predchádzajúcej literatúre
+pomocou izotopov uhlíka. Zistilo sa, že polyakrylátový reťazec sa v pôde degradoval veľmi
+pomalou rýchlosťou 0,12–0,24 % za 6 mesiacov a rýchlosť degradácie sa významne nelíšila
+so zvýšením teploty (Saha a kol., 2020).
+
+Polyakrylátové SAP môžu do budúcna predstavovať dlhodobé environmentálne problémy a
+aktuálnym zavádzaním
+
+prísnych
+
+celosvetových
+
+opatrení,
+
+ktoré
+
+zamedzujú
+
+vyrábať
+
+nerozložiteľné výrobky môže obmedziť ich ďalšie používanie (Chen et al., 2022).
+Preto je nevyhnutné pokračovať s vývojom biologicky degradovateľných SAP, ktoré môžu
+predstavovať riešením environmentálnych negatív bežne využívaných SAP. V rámci
+praktickej časti práce sa budeme venovať jednému z typov biologicky degradovateľných SAP
+na báze škrobu.
+
+5 Ciele
+Ciele teoretickej časti diplomovej práce:
+- vypracovanie súčastného stavu poznatkov o problematike tradičných agrotechnických
+postupov.
+- prehľad tradičných a moderných postupov používaných na zadržiavanie vody v pôde so
+zameraním na problematiku SAP.
+Experimentálna časť pozostávala z častí:
+- Monitoring chemických a fyzikálnych parametrov z následným odberom pôd v rámci
+výskumného pracoviska Borovce.
+- Charakterizácia retenčných vlastností SAP
+- Modelové experimenty zahŕňajúce sledovanie vplyvu vodozádržnej kapacity v modelových
+pôdach s aplikovaným SAP.
+- Uskutočnenie modelových laboratórnych experimentov so vzorkami pôd, za účelom
+sledovania vplyvu použitia nového typu SAP so zvýšeným obsahom biodegradovateľnej
+škrobovej zložky na zadržiavanie vody v pôde. Získané výsledky budú podrobené
+vzájomnému porovnaniua diskusii.
+
+6 Materiál a metódy
+6.1 Prístroje a zariadenia
+- Váhy OHAUS Defender 5000 – max. 100kg
+- Fotometer PF-12Plus - 345 nm / 436 nm / 470 nm / 540 nm / 585 nm / 620 nm / 690 nm
+- Systém COMBI 5000 - multiparametrický prístroj pre meranie pH (0-14), konduktivitu
+(mS/cm), teploty (°C) a obsahu vody v pôde.
+- Pôdny vzorkovač (Puerckhauer - Nemecko) – celková dĺžka a šírka (81x2cm), odberová
+dĺžka (60x1,3cm), odberová šírka 20 mm,
+- Sušička Tuttnauer VENTI Line (Germany) – S/N: 15-01047
+- Analytické váhy KERN, ALT I60-4NM – max. 160 g, presnosť merania ± 0,0001 g
+- Predvážky VWR – max. 200 g, presnosť merania ± 0,1 g
+- Magnetická miešačka MM 2A
+- Zariadenie PURELAB® 4 Flex na prípravu deionizovanej vody - vodivosť 0,054 μS/cm
+- Zariadenie DIWA 5rica WATEK – príprava destilovanej vody
+Pomôcky na odber pôdnych vzoriek, mikroténové uzatvárateľné vrecká, sklenené a plastové
+nádoby
+
+6.2 Materiál
+6.2.1
+
+Hnojivá
+
+Komerčne dostupné hnojivá poskytnuté od pracovníkov VURV Piešťany:
+Liadok amónny s dolomitom (LAD 27 % N – obsahuje 27 % N)
+Superfosfát (SF – obsahuje 8,17 % čistého P)
+Síranu draselného (SD – obsahuje 41,5 % čistého K)
+6.2.2
+
+Superabsorpčné polyméry
+
+STARCH (Aqua vantage AV200): Superabsorpčný polymér (SAP) typu STARCH zložený
+zmesou 60 % (hmot.) na báze škrobu a 40 % (hmot.) zmesi kyseliny akrylovej a akrylamidu
+(v pomere 10:1). Prášok bielej farby a jemnej štruktúry s veľkosťou zŕn 200 mesh.
+
+AGRO (Aquaholder agro) - Superabsorpčný polymér (SAP) typu AGRO zložený zmesou
+kyseliny akrylovej a akrylamidu (v hmotnostnom pomere 10:1). Granulové usporiadanie
+bielej farby v hrubozrnnej zmesi.
+SEED (Aquaholder seed) - Superabsorpčný polymér (SAP) typu SEED zložený zmesou
+kyseliny akrylovej a akrylamidu (v hmotnostnom pomere 10:1). V práškovej úprave.
+Dodanie SAP-ov na experimentálne účely zabezpečila spoločnosť PEWAS, s.r.o. sídliaca
+v Bratislave.
+6.2.2.1 SEM-EDX analýza
+Pre účely charakterizácie študovaných vzoriek superabsorpčných polymérov pomocou
+skenovacej elektrónovej mikroskopie spolu s energo-disperznou spektrometriou (SEM-EDX)
+sa daná vzorka superabsorpčného polyméru najprv zafixovala na hliníkovú podložku
+prostredníctvom adhezíva na báze striebra, a následne sa u nej uskutočnilo pokovovanie
+pomocou Au a evaporátora BP 343,7 (TESLA ELMI a.s., ČR). Samotná SEM-EDX analýza
+sa zrealizovala pomocou mikroskopu VEGA 2 SEM (TESCAN s.r.o., ČR) vybaveného
+mikrosondu EDX QUANTAX QX2 (RONTEC, DE). Mikroskopické snímky sa získali
+pri 100x, 300x, 500x a 1 000x zväčšení, tlaku 3,6×10-3 Pa a pri napätí 30 kV.
+
+6.3 Monitorovacia a odberová lokalita
+Vzorky poľnohospodárskej pôdy sa odobrali vo februári 2024 z lokality experimentálnych
+políčok Výskumného pracoviska (VÚRV Piešťany) sídliaceho v Borovciach (nadmorská
+výška 160 metrov, severná zemepisná šírka 48°34´, východná zemepisná šírka 17°44´).
+Na lokalite výskumného pracoviska Borovce (CVRV – VÚRV Piešťany) sa dlhodobo
+realizujú poľné pokusy so štyrmi základnými technikami obrábania pôdy (konvenčný,
+minimalizačný, muľčovací a bez mechanického obracania) s pestovaním vybraných
+modelových plodín. V rámci celého poľného pracoviska sa nachádza celkovo 12 poľných
+segmentov, z ktorých každý je tvorený štvormi samostatnými poľnými pod jednotkami,
+ktorých usporiadanie je na (Error: Reference source not found).
+
+Obr. 16 Rozloženie experimentálnych políčok na lokalite Výskumného pracoviska
+v Borovciach.
+Na lokalite výskumného pracoviska Borovce (CVRV – VÚRV Piešťany) sa dlhodobo
+realizujú poľné pokusy so štyrmi základnými technikami obrábania pôdy (konvenčný,
+minimalizačný, muľčovací a bez mechanického obracania) s pestovaním vybraných
+modelových plodín. V rámci celého poľného pracoviska sa nachádza celkovo 12 poľných
+segmentov, z ktorých každý je tvorený štvormi samostatnými poľnými pod jednotkami,
+ktorých usporiadanie je na (Error: Reference source not found).
+
+V našej práci sme sa zamerali na 3 poľné segmenty (Obr. 16) na ktorých sa v roku 2024
+realizuje pestovanie kukurice siatej. V rámci každého testovacieho políčka boli zvolené
+nasledovné monitorovacie resp. odberové body pre (Obr. 17):
+
+
+In-situ povrchové meranie pôdnej salinity a vlhkosti pôdy,
+
+
+
+Odber vzoriek pôdy pre laboratórne stanovenie pH a vodivosti v pôdnom roztoku,
+
+
+
+Odber vzoriek pôdy z rôznych hĺbok pre laboratórne stanovenie vlhkosti pôdy,
+
+
+
+Odber pôdy pre chemický rozbor a modelové kolónové experimenty.
+
+Obr. 17 Znázornenie odberových miest na políčku každej agrotechnológie. Zdroj: mapy.cz
+
+6.4 Meranie fyzikálno-chemických parametrov pôdy
+6.4.1
+
+Stanovenie salinity a vlhkosti pôdy
+
+In-situ meranie sa realizovalo s kalibrovaným multiparametrickým prístrojom COMBI 5000
+(Obr. 18) na vybraných monitorovacích bodoch A,C,E,F,G,I,K (Obr. 17). Sledované boli
+nasledovné pôdne parametre:
+
+
+Salinita - určená koncentráciou celkových rozpustených solí priamo v pôde, pričom sa
+berú do úvahy príslušné vlastnosti ako je vlhkosť pôdy, teplota a zhutnenie pôdy.
+Tieto faktory určujú množstvo solí, ktoré sú „aktívne“ a dostupné pre rastliny.
+
+
+
+Vlhkosť pôdy - princíp merania je založený na meracej technológii FDR a nie je
+ovplyvnený pH a obsahom solí v pôde a substrátoch. Údaje o obsahu vody sú
+vyjadrené v % obj.
+
+In-situ meranie prebiehalo s použitím multiparametrickej sondy, ktorá bola kolmo zavedená
+do vopred vytvoreného otvoru v pôde (dodávaným pôdnym dierovačom) s hĺbkou min. 70
+mm. Odčítanie údajov sa realizovalo po ustálení zobrazovaných hodnôt.
+
+Obr. 18 Multiparametrický prístroj COMBI 5000 (B) s odmernou nádobou na prípravu
+pôdneho roztoku (A).
+6.4.2
+
+Stanovenie pH a vodivosti
+
+Pre stanovenie pôdnych parametrov pH a vodivosti bol realizovaný odber vzoriek pomocou
+pôdneho vzorkovača na vybraných odberových miestach (A,C,F,I,K) v rámci monitorovaných
+políčok (Obr. 17). Pôdne vzorky boli zozbierané do plastových mikroténových vrecúšok
+a následne transportované do laboratória. Zo vzoriek pôd bol pripravený pôdny roztok, na
+ktorý bola použitá výrobcom multiparametrického prístroja (COMBI 5000) dodávaná
+odmerná nádoba (Obr. 18 A). Pomocou nej sa pripravil pôdny roztok v objemovom pomere
+(pomer voda : pôda 5:1). Voda s pôdou sa krúživým pohybom premiešajú a následne sa
+nechajú stáť po dobu 2 minút, aby došlo k dostatočnému rozpusteniu prítomných zložiek.
+Meranie pH a vodivosti prebieha ponorením príslušných sond do tohto roztoku a hodnota sa
+odčíta od ustálenia hodnôt.
+6.4.3
+
+Laboratórne stanovenie vlhkosti pôdy
+Odber vzoriek pre laboratórne stanovenie obsahu vody v pôde bol realizovaný s
+
+použitím hĺbkového pôdneho vzorkovača (Puerckhauer - Nemecko) ().
+Vzorky pôd boli odobrané v rámci každého políčka na dvoch vopred určených
+odberových miestach (D a H) (Obr. 17). Vzorky pôdy sa odobrali po vrstvách vo vertikálnom
+smere: 1. vrstva 0 – 10 cm; 2. vrstva 10 – 20 cm; 3. vrstva 20 – 30 cm a 4. vrstva 30 – 40 cm
+do uzatvárateľných plastových skúmaviek.
+
+Odobrané vzorky pôd sa v laboratóriu opätovne prevážili a otvorené boli vložené do
+sušiarne. Tu prebiehalo sušenie pri teplote 45°C po dobu 3 dní do konštantnej hmotnosti. Po
+vysušení sa vzorky znova prevážili a obsah vody v pôde sa pre príslušnú vrstvu pôdy stanovil
+podľa vzorca (1):
+Obsah pôdnej vody ( % )=
+
+Hmotnosť odparenej vody
+∗100
+Hmotnosť vlhkej pôdy
+
+(1)
+
+Obr. 19 Hĺbkový pôdny vzorkovač.
+6.4.4
+
+Odber a úprava pôdnych vzoriek pre laboratórne experimenty
+
+Odber vzoriek sa realizoval za asistencie pracovníkov VÚRV Piešťany. Jednotlivé vzorky
+pôdy sa odobrali po vrstvách vo vertikálnom smere: 1. vrstva 0 – 10 cm; 2. vrstva 10 – 20 cm;
+3. vrstva 20 – 30 cm a 4. vrstva 30 – 40 cm v množstve pre každú vrstvu 9 kg pôdy a pre celý
+segment sa odobralo cca 100 kg. Vzorky boli odobrané pomocou pôdneho vrtáku. Odber
+vzoriek sa realizoval na všetkých troch segmentoch. Pre krátky časový harmonogram sme na
+laboratórne experimenty spracovávali vzorky pôd iba zo segmentu 1 (Obr. 16). Vzorky sa
+odoberali do označených polyethylénových vriec. Tieto vzorky pôdy boli použité na
+laboratórne kolónové experimenty a na chemický rozbor pôd. Pôdne vzorky sa po transporte
+do laboratória umiestnili do sušiarne. Sušenie prebiehalo 1 týždeň pri teplote 45°C do
+konštantnej hmotnosti.
+Vysušené vzorky sa ďalej spracovali rozdrvením veľkých agregátov na čo najmenšiu
+frakciu (Obr. 20). Týmto spôsobom sa spracovalo približne 4 kg vzorky pôdy pre každú
+jednu vrstvu pôdy a agrotechnickú metódu. Upravené vzorky pôd sa sitovali cez sito (veľkosť
+otvorov sita 2 mm) do zásobných nádob. Tieto vzorky pôdy boli použité na laboratórne
+kolónové experimenty a na chemický rozbor.
+
+Obr. 20 Nástroj na drvenie veľkých pôdnych agregátov.
+6.4.5
+
+Chemická analýza vzoriek pôd
+
+Zastúpenie prvkov Ca, K, Fe, K2O, Mg, Mn, P, P2O5, Scelk., Co, Zn, Cu a TOC (celk. organický
+uhlík) sa uskutočnilo v akreditovaných Geoanalytických laboratóriách Štátneho geologického
+ústavu Dionýza Štúra v Spišskej Novej Vsi, a to za využitia nasledovných analytických metód
+a prístupov: atómovej emisnej spektrometrie s indukčne viazanou plazmou (AES-ICP),
+hmotnostnej spektrometrie s indukčne viazanou plazmou (ICP-MS), vysokoteplotnej oxidácie
+(VTO) a elementárnej analýzy s tepelno vodivostným detektorom (EA).
+6.4.6
+
+Kolónové experimenty
+
+Pre sledovanie vodozádržnej kapacity pôdy a do nej aplikovaných SAP resp. vplyvu faktorov
+pridaných živín vo forme zmesi NPK hnojia boli realizované viaceré typy kolónových
+experimentov.
+6.4.6.1 Modelové kolónové experimenty s rôznymi pôdnymi vzorkami
+Cieľom kolónových experimentov bolo preveriť možnosť aplikovania nového typu SAP
+STARCH do modelových vzoriek pôdy obhospodarovaných rôznymi agrotechnologickými
+prístupmi.
+
+Obr. 21 Zhotovené stĺpcové kolóny s výškou 60 cm.
+Za týmto účelom bolo zhotovených 16 stĺpcových kolón (Obr. 21). Každá kolóna bola
+vyrobená z polyvinylchloridových rúrok (PVC) s vnútorným priemer 7,5 cm a výškou 60 cm.
+Spodný koniec kolón bol utesnený pomocou plastovej ochrannej sieťky a vrstvy gázy, ktorých
+cieľom je zamädzenie úniku pôdy pri záchyte pôdneho výluhu do zberných nádob. Prázdna
+pôdna kolóna bola následne umiestnená na laboratórny stojan a celá aparatúra bola odvážená.
+Takto pripravená kolóna bola plnená vopred odváženými frakciami pôdy (0 až 40 cm)
+odobranej z rôznych vrstiev na testovanom políčku obhospodarovaného odpovedajúcou
+agrotechnickou metódou (4 agrotechnické metódy). Pre každý agrotechnický prístup
+realizovaný v areáli výskumného pracoviska Borovce boli pripravené 4 rôzne kolónové
+experimenty v nasledovnom zostavení:
+
+
+Prvé zostavenie - kolóna plnená s čistými frakciami pôdy príslušnej agrotechnickej
+metódy (4 kolóny).
+
+
+
+Druhé zostavenie - kolóna plnená pôdou z príslušnej agrotechnickej metódy s
+prídavkom zmesi NPK hnojív (Tab. 1) zapracovaných do prvých 20 cm pôdy (4
+kolóny).
+
+
+
+Tretie zostavenie - kolóna plnená pôdou z príslušnej agrotechnickej metódy s
+prídavkom SAP STARCH (Tab. 1) zapracovaného do prvých 20 cm pôdy (4 kolóny).
+
+
+
+Štvrté zostavenie - kolóna plnená pôdou z príslušnej agrotechnickej metódy s
+prídavkom SAP STARCH a NPK hnojív (Tab. 1) zapracovaného do prvých 20 cm
+pôdy (4 kolóny).
+
+Presné dávkovanie kolón je uvedené v prehľadovej tabuľke a bolo zvolené na základe
+odporúčania vyskumných pracovníkov VÚRV podľa množstiev aplikovaných v reálnych
+podmienkach na príslušných testovacích políčkach.
+Tab. 1 Vzorové dávkovanie zložiek (pôda, SAP, NPK hnojivo) do modelových pôdnych
+kolón.
+Pôdna
+kolóna
+Pôda
+Pôda +
+SAP
+Pôda +
+NPK
+
+NPK
+
+10-20
+
+20-30
+
+30-40
+
+cm
+
+cm
+
+cm
+
+cm
+
+Pôda
+
+NPK
+
+SAP
+
+Pôda
+
+NPK
+
+SAP
+
+Pôda
+
+Pôda
+
+[g]
+
+[g]
+
+[g]
+
+[g]
+
+[g]
+
+[g]
+
+[g]
+
+[g]
+
+460
+
+-
+
+-
+
+460
+
+-
+
+-
+
+460
+
+460
+
+460
+
+-
+
+0,5
+
+460
+
+-
+
+0,5
+
+460
+
+460
+
+-
+
+460
+
+460
+
+0,5
+
+460
+
+460
+
+LAD – 0,097
+460
+
+Pôda +
+SAP +
+
+0-10
+
+460
+
+SF – 0,243
+
+LAD – 0,097
+-
+
+460
+
+SF – 0,243
+
+SD – 0,0595
+
+SD – 0,0595
+
+LAD – 0,097
+
+LAD – 0,097
+
+SF – 0,243
+SD – 0,0595
+
+0,5
+
+460
+
+SF – 0,243
+SD – 0,0595
+
+Do každej pripravenej kolóny sa postupne pridalo 800 ml destilovanej vody
+a zachytával sa pôdny výluh. Výluhy získané zo vzoriek čistých pôd boli analyzované pre
+stanovenie obsahov prítomnosti nasledovných iónov: NO3, NO2, PO43-, NH4+ a K+. Experiment
+prebiehal po dobu 18 dní počas, ktorých boli pôdne kolóny pravidelne vážené, za účelom
+stanovenia obsahu vody v pôde resp. vody zachytenej v SAP a výparu vody z pôdy.
+6.4.6.2 Stanovenie obsahu dusičnanov v pôdnom výluhu
+Stanovenie dusičnanov bolo realizované s použitím návodu a reagencií od spoločnosti
+Macherey-Nagel, ktoré sú súčasťou kolorimetrického kitu Visocolor ® ECO Nitrat (Obr. 22).
+Princíp stanovenia spočíva v redukcii dusičnanových iónov v kyslom prostredí na ióny
+dusitanov. V kombinácii s vhodným aromatickým amínom tvoria oranžovo-žlté azofarbivo.
+Prítomná zmena sfarbenia analyzovanej vzorky sa meria pomocou prístroja PF12 plus pri
+
+vlnovej dĺžke 436 nm. Rozsah stanovenia týmto testom je na úrovni 4.0–60.0 mg/L NO₃⁻,
+v prípade vyšších koncentrácií je potrebné vzorku vhodne riediť.
+6.4.6.3 Stanovenie obsahu dusitanov v pôdnom výluhu
+Stanovenie dusitanov bolo realizované s použitím návodu a reagencií od spoločnosti
+Macherey-Nagel, ktoré sú súčasťou kolorimetrického kitu Visocolor ® ECO Nitrit (Obr. 22).
+Princíp stanovenia spočíva v diazotácií sulfanilamidu v kyslom prostredí prostredníctvom
+dusitanov. Vznikutá diazóniová soľ sa spája s naftylamínom za vzniku červenofialového
+azofarbiva. Prítomná zmena sfarbenia analyzovanej vzorky sa meria pomocou prístroja PF12
+plus pri vlnovej dĺžke 540 nm. Rozsah stanovenia týmto testom je na úrovni 0.02–0.50 mg/L
+NO2⁻, v prípade vyšších koncentrácií je potrebné vzorku vhodne riediť.
+6.4.6.4 Stanovenie obsahu amóniových iónov v pôdnom výluhu
+Stanovenie amínov bolo realizované s použitím návodu a reagencií od spoločnosti MachereyNagel, ktoré sú súčasťou kolorimetrického kitu Visocolor ® ECO Amonium 3 (Obr. 22).
+Princíp stanovenia spočíva v reakcií chlóru v alkalickom prostredí s amóniovými iónmi za
+vzniku
+
+monochloramínov.
+
+Tie
+
+v prítomnosti
+
+tymolu
+
+spôsobuje
+
+vznik
+
+modrého
+
+indofenolového farbiva. Prítomná zmena sfarbenia analyzovanej vzorky sa meria pomocou
+prístroja PF12 plus pri vlnovej dĺžke 600 nm. Rozsah stanovenia týmto testom je na úrovni
+0.1–2.0 mg/L NH3, v prípade vyšších koncentrácií je potrebné vzorku vhodne riediť.
+6.4.6.5 Stanovenie obsahu fosfátových iónov v pôdnom výluhu
+Stanovenie fosfátov bolo realizované s použitím návodu a reagencií od spoločnosti MachereyNagel, ktoré sú súčasťou kolorimetrického kitu Visocolor ® ECO Phosphat (Obr. 22).
+Princíp stanovenia spočíva v reakcií molybdénu amónneho s fosforečnanovými iónmi
+v prítomnosti kyseliny fosfomolybdénovej, ktorá sa redukuje na fosfomolybdénovú modrú.
+Prítomná zmena sfarbenia analyzovanej vzorky sa meria pomocou prístroja PF12 plus pri
+vlnovej dĺžke 690 nm. Rozsah stanovenia týmto testom je na úrovni 0.6–15.0 mg/L PO 43⁻,
+v prípade vyšších koncentrácií je potrebné vzorku vhodne riediť.
+6.4.6.6 Stanovenie a obsah draselných iónov v pôdnom výluhu
+Stanovenie draslíka bolo realizované s použitím návodu a reagencií od spoločnosti MachereyNagel, ktoré sú súčasťou kolorimetrického kitu Visocolor ® ECO Phosphat (Obr. 22).
+Princíp stanovenia spočíva v reakcií draselných iónov s prítomným tetrafenylboritanom
+sodným za súčastného vzniku zákalu. Prítomná zmena sfarbenia analyzovanej vzorky sa
+
+meria pomocou prístroja PF12 plus pri vlnovej dĺžke 690 nm. Rozsah stanovenia týmto
+testom je na úrovni 2–25 mg/L K+, v prípade vyšších koncentrácií je potrebné vzorku vhodne
+riediť.
+
+Obr. 22 Fotometer PF-12Plus s kolorimetrickými setmi.
+
+6.4.6.7 Modelové kolónové experimenty s rôznymi SAP
+Cieľom týchto kolónových experimentov bolo porovnanie funkčnosti SAP AGRO
+s funkčnosťou SAP STARCH z pohľadu zadržiavania vody v modelovej pôde.
+Celkovo bolo zhotovených 10 malých stĺpcových kolón (Obr. 23). Každá kolóna bola
+vyrobená z polyvinylchloridových rúrok (PVC) s vnútorným priemer 7,5 cm a výškou
+približne 30 cm. Spodný koniec kolón bol utesnený pomocou plastovej ochrannej sieťky
+a vrstvy gázy, ktorých cieľom je zamädzenie úniku pôdy pri záchyte pôdneho výluhu do
+zberných nádob. Do takto pripravenej kolóny boli plnené vopred odvážené homogénne
+zmiešané frakcie pôdy (0-10 cm a 10-20 cm) odobranej z rôznych vrstiev agrotechnických
+prístupov. Kolóny boli pripravené v nasledovnom zostavení:
+
+
+Prvé zostavenie – kolóna plnená s homogénne premiešanými čistými frakciami pôdy
+(2 kolóny).
+
+
+
+Druhé zostavenie – kolóna plnená homogénne premiešanou pôdou s prídavkom SAP
+STARCH alebo SAP AGRO (Tab. 2) zapracovaného do celej pôdy (4 kolóny).
+
+
+
+Tretie zostavenie – kolóna plnená homogénne premiešanou pôdou s prídavkom NPK
+hnojiva a SAP STARCH resp. SAP AGRO (Tab. 2) zapracovaného do celej pôdy (4
+kolóny).
+
+Presné dávkovanie kolón je uvedené v prehľadovej tabuľke.
+Tab. 2 Vzorové dávkovanie zložiek (pôda, SAP, NPK hnojivo) do modelových pôdnych
+kolón s rôznym SAP.
+Pôdna
+kolóna
+
+Pôda
+
+0-10
+
+10-20
+
+cm
+
+cm
+STARCH
+
+Agro
+
+SAP
+
+SAP
+
+[g]
+
+[g]
+
+-
+
+-
+
+460
+
+-
+
+460
+
+-
+
+Pôda
+
+NPK
+
+[g]
+
+[g]
+
+460
+
+STARCH
+
+Agro
+
+SAP
+
+SAP
+
+[g]
+
+[g]
+
+-
+
+-
+
+-
+
+460
+
+-
+
+-
+
+0,5
+
+460
+
+-
+
+0,5
+
+-
+
+-
+
+0,5
+
+0,5
+
+-
+
+Pôda
+
+NPK
+
+[g]
+
+[g]
+
+-
+
+460
+
+-
+
+0,5
+
+0,5
+
+-
+
+Pôda +
+SAP
+AGRO
+Pôda +
+SAP
+STARCH
+Pôda +
+SAP
+AGRO +
+
+LAD – 0,097
+460
+
+NPK
+Pôda +
+SAP
+STARCH
++ NPK
+
+460
+
+SF – 0,243
+
+LAD – 0,097
+-
+
+0,5
+
+460
+
+SF – 0,243
+
+SD – 0,0595
+
+SD – 0,0595
+
+LAD – 0,097
+
+LAD – 0,097
+
+SF – 0,243
+SD – 0,0595
+
+0,5
+
+-
+
+460
+
+SF – 0,243
+SD – 0,0595
+
+Do každej z pripravených kolón sa postupne pridalo 800 ml destilovanej vody
+a zachytával sa pôdny výluh.
+
+Obr. 23 Modelové pôdne kolóny s rôznymi SAP v procese zalievania.
+6.4.6.8 Modelové kolónové experimenty s chemicky čistým pieskom
+Cieľom týchto kolónových experimentov bolo porovnanie funkčnosti SAP (AGRO
+a STARCH) v chemicky čistej pieskovej matrici, ktorá simuluje štruktúrovitosť pôdnych
+agregátov bez chemických súčastí pôdy.
+Celkovo boli použité 4 PVC kolóny s vnútorným priemer 7,5 cm a výškou 30 cm. Spodný
+koniec kolón bol utesnený pomocou plastovej ochrannej sieťky a vrstvou gázy resp. v prípade
+časti experimentov so SAP bola použitá potravinárska fólia na zadržanie rýchleho odtoku
+vody z kolóny.
+Do takto pripravených kolón bol plnený vopred odvážený chemicky čistý piesok
+v množstve 920 g čo predstavuje výšku pieskového stĺpca 20 cm. Do jednotlivých kolón sa
+postupne pridalo 800 ml destilovanej vody a zachytával sa výluh s cieľom stanoviť prirodzenú
+vodozádržnú kapacitu piesku. Následne sa piesok z kolón umiestnil do sušiarne a sušil do
+konštantnej hmotnosti pri teplote 45°C po dobu 24 h. Takto vysušený piesok bol opätovne
+použitý pre nasledujúcu sadu experimentov.
+Vysušený piesok bol premiešaný s 1g SAP (STARCH alebo AGRO). V rámci 2
+pripravených kolón bolo použité utesnenie pomocou fólie s cieľom zadržať vodu v kolóne po
+dobu 2 h. Po uplynutí tohto času bola fólia odstránená a bol zachytávaný výluh do zbernej
+nádoby. Vo zvyšných 2 kolónach nebola použitá fólia a výluh bol zachytávaný okamžite. Po
+stanovení hmotností výluhov sa piesok obsahujúci SAP vysypal z kolón a sušil do konštantnej
+hmotnosti (45°C po dobu 24 h). Takto vysušený piesok so SAP bol opätovne použitý na tretiu
+sadu experimentov.
+
+Vysušený piesok so SAP bol umiestnený do kolón a boli pripravené celkovo 4 kolóny,
+ktoré sa odlišovali ako v prípade 2 sady experimentov v použití resp. nepoužití zádržnej fólie.
+Do pripravených kolón sa postupne pridalo 800 ml destilovanej vody s rozpustenou zmesou
+NPK hnojív (LAD – 0,194g, SF – 0,486g, SD – 0,119g) a opätovne sa zachytával výluh
+s cieľom stanoviť vodozádržnú kapacitu piesku s príslušným SAP. Po ukončení experimentu
+sa tento piesok sušil do konštantnej hmotnosti a bol použitý v rámci štvrtej sady
+experimentov.
+Boli pripravené štyri modelové kolóny obsahujúce piesok z predošlého experimentu,
+ktoré sa odlišovali v použití resp. nepoužití zádržnej fólie. Do takto pripravených kolón sa
+postupne pridalo 800 ml pôdneho výluhu zozbieraného v predošlých pôdnych experimentoch.
+Opätovne sa stanovovalo množstvo výluhu zachyteného z pieskových kolón. Získané dáta sa
+použili pre stanovenie retenčných charakteristík SAP.
+
+Obr. 24 Porovnávací test SAP-ov STARCH (A) a AGRO (B) v chemicky čistom piesku.
+6.4.7
+
+Stanovenie retenčnej schopnosti SAP v modelových roztokoch
+
+Experimenty na zistenie absorpčnej kapacity SAP boli založené na gravimetrickom stanovení
+množstva vody zachytenej 3 testovanými hydrogélmi (AGRO, SEED, STARCH). Stanovenie
+nasiakavosti hydrogélov bolo realizované vo vopred odvážených celulózových vrecúškach.
+Následne sa do celulózových vrecúšok navážilo vopred definované množstvo príslušného
+typu SAPu cca 0,625 g a vrecúško so SAPom bolo ponorené do príslušného roztoku:
+
+
+Roztok č. 1 – deionizovaná voda,
+
+
+
+Roztok č. 2 – roztok obsahujúci deionizovanú vodu s nízkou koncentráciou NPK
+hnojiva (Error: Reference source not found). Koncentrácia roztoku NPK hnojiva bola
+zvolená za účelom simulovania ideálnej homogénnej distribúcie hnojiva v pôde resp. v
+pôdnom roztoku,
+
+
+
+Roztok č. 3 – roztok obsahujúci deionizovanú vodu s vysokou koncentráciou NPK
+hnojiva. Koncentrácia roztoku NPK hnojiva (Error: Reference source not found)
+bola zvolená za účelom simulovania bodovej aplikácie hnojiva do pôdy, pri ktorej
+môže nastať riziko zvýšenej koncentrácie NPK hnojiva v blízkosti SAP,
+
+
+
+Roztok č. 4 – pôdne výluhy,
+Tab. 3 Množstvá prídavkov hnojív používaných v experimentoch.
+Roztok (nekoncentrovaný)
+
+Roztok
+
+(koncentrovaný
+
+16x)
+Hnojivo
+návažok
+
+LAD
+[g]
+
+0,194
+
+SF [g]
+
+SD [g]
+
+0,486
+
+0,119
+
+LAD
+[g]
+
+3,104
+
+SF [g]
+
+SD [g]
+
+3,888
+
+1,904
+
+Objem uvedených roztokov bol v prípade každého testu nasiakavosti 100 ml. Test
+nasiakavosti trval po dobu 2 h a bol realizovaný pre všetky 3 typy SAP (Obr. 25). Každý test
+nasiakavosti bol vykonaný v 3 paralelných stanoveniach (celkovo 36 testov nasiakavosti). Po
+2 h sa stanovila hmotnosť SAP v celulózovom vrecúšku a realizovalo sa vyhodnotenie podľa
+príslušného vzorca:
+Absorpčná kapacita polyméru bola vypočítaná podľa rovnice (2):
+Q = m1-m0/m0
+
+(2)
+
+Q – kapacita napučiavania hydrogélu (g/g)
+m0 – hmotnosť SAP v celulózovom vrecúšku pred napučiavaním (g)
+m1 – hmotnosť napučaného hydrogélu (g)
+Množstvo zadržanej vody v SAP sa sledovalo počas 3 až 5 dní na stanovenie
+evaporačný charakteristík.
+
+Obr. 25 Test retenčnej schopnosti SAP v čajových vrecúčkach.
+
+7 Výsledky a diskusia
+7.1 SEM–EDX analýza vzoriek SAP
+S cieľom detailnejšej charakterizácie študovaných vzoriek superabsorpčných polymérov
+(SAP) STARCH, AGRO a SEED sme uskutočnili ich analýzu pomocou skenovacej
+elektrónovej mikroskopie (SEM) spolu s energo-disperznou (EDX) analýzou. Tie nám okrem
+charakterizácie tvaru, štruktúry a veľkosti častíc a celkovo homogenity študovaných vzoriek
+hydrogélov umožnili zistiť aj kvalitatívne, resp. semikvantitatívne zastúpenie významných
+prvkov tvoriacich tieto SAP zmesi. Pri všetkých troch vzorkách SAP sme mikroskopicky
+hodnotili vzhľad častíc pri rôznych zväčšeniach od 100-násobného až po 1 000-násobné.
+7.1.1
+
+SEM-EDX analýza vzorky SAP STARCH
+
+Na (Obr. 26) sú znázornené získané mikroskopické snímky povrchu častíc superabsorpčného
+polyméru STARCH, ktorý reprezentuje dvojzložkovú zmes škrobu (60 % hmot.) a zmesi (40
+% hmot.) kyseliny akrylovej a polyakrylamidu vo vzájomnom hmotnostnom pomere 10 : 1.
+Mikroskopická analýza nám ukázala, že hodnotenú vzorku SAPu STARCH tvoria najmä
+častice zhruba rovnakých veľkostí 20 – 40 μm a s občasným výskytom väčších aglomerátov
+v rozmedzí veľkostí 50 – 100 μm. S najväčšou pravdepodobnosťou častice sférického tvaru
+reprezentujú zrná škrobu, ktoré sú vo vzorke hydrogélu dobre rozptýlené. Celkovo môžeme
+povedať, že vzorka hydrogélu reprezentuje relatívne homogénnu zmes uvedených častíc
+a látok, ktoré ju tvoria. S podobnými charakteristikami superabsorpčného polyméru na báze
+škrobu sa môžeme stretnúť aj v práci autorov Dispat a kol. (2020), ktorí obdobne hodnotili
+hydrogél
+
+pripravený
+
+polymérom.
+
+na
+
+báze
+
+ZnO/SiO2-modifikovaného
+
+škrobovo-polyakrylátovým
+
+Obr. 26 Mikroskopický vzhľad častíc superabsorpčného polyméru STARCH získaný
+pomocou skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B),
+500x (C) a 1 000x (D).
+7.1.2
+
+SEM-EDX analýza vzorky SAP AGRO
+
+V prípade vzorky superabsorpčného polyméru AGRO nám elektrónmikroskopická analýza
+ukázala, že táto vzorka, chemicky pozostávajúca z kyseliny akrylovej a polyakrylamidu
+vo vzájomnom hmotnostnom pomere 10 : 1, bola reprezentovaná časticami rôznych tvarov
+a veľkostí od desiatok mikrometrov až po stovky mikrometrov (Obr. 27). Teda v porovnaní
+s predchádzajúcou vzorkou hydrogélu STARCH ide o časticovo hrubšiu a heterogénnejšiu
+zmes. Jej forma pravdepodobne súvisí s jej aplikačným využitím, kedy producent hydrogélu
+
+zmesi (PEWAS, s.r.o.) odporúča aplikovať tento prípravok (pod komerčným názvom Aqua
+holder) priamo do pôdy s cieľom zadržiavania vody a živín.
+
+Obr. 27 Mikroskopický vzhľad častíc superabsorpčného polyméru AGRO získaný pomocou
+skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B), 500x (C)
+a 1 000x (D).
+
+7.1.3
+
+SEM-EDX analýza vzorky SAP SEED
+
+Vzorku superabsorpčného polyméru SEED reprezentovali skôr menšie častice tejto zmesi,
+ktorá chemicky pozostávala najmä z kyseliny akrylovej a polyakrylamidu vo vzájomnom
+hmotnostnom pomere 10 : 1. Teda išlo o chemicky totožnú zmes, ako to bolo v prípade SAPu
+
+AGRO, s tým rozdielom, že zmes SEED bola reprezentovaná časticami o veľkosti desiatok
+mikrometrov. Na základe mikrosnímok získaných z elektrónového mikroskopu (Obr. 28)
+môžeme povedať, že išlo o relatívne homogénnu zmes, ktorá vykazovala jemnejšiu frakciu,
+čo sa týka veľkosti častíc, ktoré ju tvorili. Aj v tomto prípade hrá dôležitú úlohu jej aplikačné
+využitie, kedy producent tejto SAP zmesi SEED (PEWAS, s.r.o.) ju aplikuje v podobe
+jemných
+
+filmov
+
+nanesených
+
+špeciálnou
+
+technológiou
+
+na
+
+zrná
+
+širokej
+
+palety
+
+poľnohospodárskych plodín (prakticky od maku až po kukuricu).
+
+Obr. 28 Mikroskopický vzhľad častíc superabsorpčného polyméru SEED získaný pomocou
+skenovacej elektrónovej mikroskopie pri rôznom zväčšení: 100x (A), 300x (B), 500x (C)
+a 1 000x (D).
+
+B
+
+A
+
+C
+
+Obr. 29 Spektrum hodnotiace zastúpenie významných prvkov vo vzorkách superabsorpčných
+polymérov AGRO (A), STARCH (B), SEED (C) získané z EDX analýzy.
+Na (Obr. 29) sú znázornené EDX spektrá získané pre všetky tri študované vzorky
+superabsorpčných polymérov STARCH, AGRO a SEED, ktoré charakterizujú tieto zmesi
+z pohľadu kvalitatívneho, ale aj semikvantitatívneho zastúpenia prvkov tvoriacich tieto
+polyméry. Ako môžeme vidieť, v prípade zmesi SAP STARCH zastúpenie jednotlivých
+prvkov klesalo z pohľadu ich percentuálneho hmotnostného podielu vo vzorke v nasledovnom
+poradí: C (49,6 %) > O (27,4 %) > K (16,7 %) > N (5,1 %) > Al (0,8 %) > Na (0,4 %).
+Je nutné uviesť, že signál pri Al pravdepodobne pochádzal z podložky na uchytenie vzorky.
+Pri vzorke SAP AGRO elementárne zastúpenie klesalo v poradí: C (49,3 %) > O (29,3 %) >
+K (13,0 %) > N (8,0 %) > Na (0,4 %). Totožný polymér SEED, ale v jemnejšej frakcii
+v porovnaní so SAPom AGRO, pozostával z nasledovných prvkov, ktorých hmotnostné
+zastúpenie klesalo v nasledovnom poradí: C (50,2 %) > O (31,2 %) > K (12,0 %) > N (6,6 %).
+Na základe týchto výsledkov môžeme povedať, že všetky tri študované vzorky
+superabsorpčných polymérov obsahovali významné podiely K ako dôležitého mikroelementu
+
+vo výžive rastlín, pričom jeho podiel klesal v poradí: SAP STARCH (16,7 % hmot.) > SAP
+AGRO (13,0 % hmot.) > SAP SEED (12,0 % hmot.).
+
+7.2 Lokalizačné údaje
+Záujmové územie je kontinentálneho charakteru podnebia a nachádza sa v nadmorskej výške
+167 m n. m. Testovacia lokalita je typu degradovanej černozeme s hĺbkou humusového
+horizontu 400 – 500 mm. Ornica a podorničné horizonty sa vyznačujú miernym zhutnením.
+Priemerný ročný úhrn zrážok na záujmovej lokalite predstavuje 593 mm.
+7.2.1
+
+Chemický rozbor vzoriek pôdy
+
+V rámci záujmovej lokality boli stanovené vybrané ióny kovov (Error: Reference source
+not found). Najviac zastúpené ióny boli Fe (3,03-3,26 hm.%), Mg (0,65-0,71 hm.%) a Mn
+(0,092-0,099 hm.%). Najmenej zastúpené ióny predstavovali Zn (0,0078-0,0087 hm.%), Cu
+(0,0022-0,0029 hm.%) a Co (0,0011-0,0012 hm.%). Z uvedených malých rozdielov v rámci
+stanovenáých intervalov je možné konštatovať, že rôzne agrotechnické prístupy nemajú
+významný vplyv na zastúpenie uvedených prvkov v pôde.
+Tab. 4 Obsah kovových iónov v pôde.
+Technológia
+
+Fe (%)
+
+Mg (%)
+
+Mn (%)
+
+Co (%)
+
+Cu (%)
+
+Zn (%)
+
+Bez.
+
+3,11
+
+0,68
+
+0,095
+
+0,0012
+
+0,0028
+
+0,0082
+
+Konv.
+
+3,04
+
+0,65
+
+0,092
+
+0,0012
+
+0,0022
+
+0,0078
+
+Mini.
+
+3,03
+
+0,66
+
+0,092
+
+0,0012
+
+0,0029
+
+0,008
+
+Mulč.
+
+3,26
+
+0,71
+
+0,099
+
+0,0011
+
+0,0024
+
+0,0087
+
+V rámci záujmovej lokality boli stanovené makro-zložky uvedené v (Error: Reference
+source not found). Najviac zastúpené prvky boli K 2O (2,38-2,56 hm.%), K (1,98-2,13 hm.
+%), Ca (0,57-0,62 hm.%) a P2O5 (0,202-0,233 hm.%). Medzi najmenej zastúpené patrili P
+(0,088-0,102 hm.%), Scelk. (0,03 hm.%) a TOC (1,77-2,03 hm.%). Hodnoty makroprvkov sa
+medzi agrotechnologickými prístupmi líšili v minimálnom rozsahu. Z uvedených intervalov je
+možné konštatovať, že rôzne agrotechnické prístupy nemajú významnú úlohu v zastúpení
+makro-zložiek v pôde.
+Tab. 5 Obsah makro-zložiek v pôde.
+Technológia
+
+Ca (%)
+
+K (%)
+
+K2O (%)
+
+P (%)
+
+P2O5 (%)
+
+Scelk. (%)
+
+TOC (%)
+
+Bez.
+
+0,61
+
+2,01
+
+2,42
+
+0,097
+
+0,223
+
+0,03
+
+1,78
+
+Konv.
+
+0,57
+
+1,98
+
+2,38
+
+0,088
+
+0,202
+
+0,03
+
+1,77
+
+Mini.
+
+0,57
+
+1,98
+
+2,39
+
+0,091
+
+0,209
+
+0,03
+
+2,02
+
+Mulč.
+
+0,62
+
+2,13
+
+2,56
+
+0,102
+
+0,233
+
+0,03
+
+2,03
+
+Za účelom stanovenia mobility vybraných pôdnych prvkov (živín) bolo realizované
+stanovenie obsahu NO3, NO2, PO4, NH3 a K v pôdnych výluhoch získaných z jednotlivých
+vzoriek čistých pôd. Cieľom tohto stanovenia je určiť celkový obsah zdrojov dusíka, fosforu
+a draslíka v pôde. Pred aplikovaním hnojív.
+Tab. 6 Množstvo stanovených zdrojov dusíka, fosforu a draslíka v pôdnych výluhoch.
+Vzorka
+NO3 [mg/l] NO2 [mg/l] PO4 [mg/l]
+NH3 [mg/l] K [mg/l]
+mini č. pôda
+784
+31
+6,5
+1,1
+7
+bez č. pôda
+554
+28
+8,5
+0,7
+8
+konv č. pôda
+368
+17
+6,5
+0,3
+9
+mulč č. pôda
+368
+28
+10,5
+0,1
+5
+V jednotlivých vzorkách pôd sa stanovil celkový obsah dusíka, kde sa zaznamenali hodnoty
+pre dusičnany v rozsahoch od 368 do 784 mg/l. Ich najväčšie množstvo sa uvoľnilo pri
+minimalizačnej technológií 784 mg/l (Tab. 6). Ďalej boli stanovené hodnoty pre dusitany
+v rozsahu od 17 do 31 mg/l a ich najväčšie množstvo sa uvoľnilo rovnako pri minimalizačnej
+technológií 31 mg/l. Najnižšie zastúpenie v rámci celkového obsahu dusíka sa zaznamenalo
+pri NH3 iónoch. V rozmedzí od 0,1 do 1,1mg/l a jeho najväčšie množstvo bolo uvoľnené pri
+minimalizačnej technológií 1,1 mg/l. Celkovo vykazovala minimalizačná technológia
+najvyššie straty dusíka z pôdy.
+Obsah fosforečnanov sa pohyboval v rozsahoch od 6,5 do 10,5 mg/l a najväčšie množstvo sa
+uvoľnilo z pôdy odobranej na políčku obrábanou mulčovacou technológiou 10,5 mg/l. Draslík
+a jeho celkové množstvo v pôdnych výluhoch sa pohybovalo v rozsahu od 5 do 9 mg/l. Výluh
+z konvenčnej technológie zaznamenal najvyššie množstvá uvoľneného draslíka 9 mg/l.
+7.2.2
+
+Fyzikálno-chemický rozbor vzoriek pôd
+
+V rámci odberových miest sa vykonali merania pH pri rôznych agrotechnických prístupoch.
+Priemerné hodnoty pH sa pohybovali v rozmedzí od 7,10 do 7,20 pH (Obr. 30), čo je
+charakteristické najmä pre neutrálne pôdy na poľnohospodárske účely. Rozdiely v hodnotách
+pH v záujmovej lokalite sú minimálne až zanedbateľné čím môžeme konštatovať, že vplyv
+rôznych agrotechnológií nemá významný vplyv na zmenu pH na danej lokalite
+V rámci meraní vodivosti sa zaznamenali celkovo nízke hodnoty, ktoré sa nachádzali
+v intervale od 0,067 do 0,096 mS/cm . Mierny nárast hodnôt vodivosti pôdneho roztoku sa
+
+zaznamenal pri testovacích políčkach v rámci segmentu 3, ktoré sú v blízkosti stromoradí
+tvoriacich hranicu pozemku. Tu sa môže vyskytovať zvýšená miera opadavky, ktorá môže
+lokálne zvýšiť hodnoty parametra vodivosti.
+
+Obr. 30 Grafické znázornenie priemerných hodnôt pH a vodivosti pôdy na monitorovanej
+lokalite.
+Salinita pôdy na odberových segmentoch rôznych agrotechnologických prístupov
+nepredstavovala zvýšené hodnoty. Meracie rozmedzie salinity pôdy bolo na úrovni od 0,09 –
+0,13 g/l (Obr. 31) čo sú nízke hodnoty obsahu solí v pôde, ktoré nepredstavujú negatívny
+vplyv na kvalitu pôdy a jej úrodnosť. Z toho sa dá predpokladať, že rôzne poľnohospodárske
+technológie nemajú významný vplyv na slanosť pôdy. Záujmová lokalita Borovce bola
+podrobená meraniam vlhkosti pôdy (Obr. 31). Merania preukázali možný vplyv
+agrotechnologického prístupu na množstvo pôdnej vody. Výrazný rozdiel sme zaznamenali
+medzi technológiami (bez. 37,24 % a konv. 30,67 %). Pravdepodobne hlavným dôvodom
+nižších hodnôt pri konvenčnej technológií je narušenie vrchných častí pôdnych horizontov
+rozrušením pôdnych pórov a kapilár. Následne dochádza k narušeniu vodozádržnej schopnosti
+pôdy a rýchlejšej evaporácií. Vyššie hodnoty vlhkosti pri bezorbovej technológií sú znakom
+nerozrušenej pôdnej štruktúry.
+
+Obr. 31 Grafické znázornenie nameraných hodnôt salinity a vlhkosti pôdy na monitorovanej
+lokalite.
+7.2.3
+
+Vyhodnotenie vodozádržných vlastností pôdy
+
+Retenčná schopnosť pôdy 24 h po zrážkach preukázala najvyššie hodnoty v (20 cm pôdneho
+horizontu), a to pri každej z technológií. Najväčšia retenčná schopnosť bola zaznamenaná pri
+(konv. technológií 18,7 hmot.%) > (bez. 17,8 hmot. %) > (mulč. 17,4 hmot. %) > (mini. 16,8
+
+Retentnčná schopnosť pôdy [hmot. %]
+
+hmot. %), kde sa zadržalo najmenšie množstvo vody (Obr. 32).
+
+Obr. 32 Retenčná schopnosť pôdy v odlišných pôdnych vrstváach (10, 20, 30, 40 cm)
+obhospodarovanej rôznou agrotechnológiou.
+
+V 20 cm pôdnej vrstve vystriedala v najväčšej retenčnej schopnosti bez. technológiu
+konvenčná technológia. Pri konvenčnej technológií dochádza k výraznému narušeniu
+
+vrchných častí pôdneho horizontu. Pre veľkú nerovnosť povrchu konvenčnej technológie
+a zvýšenej pórovitosti pôdy môže spôsobiť vyššiu kumulácia vody v
+
+nižších vrstvách
+
+pôdneho horizontu.
+Najväčšia retenčná schopnosť pôdy v 10 cm vrstve 24 h po zrážkach bola
+zaznamenaná pri (bez. tech. kde dosahovala – 17,3 hmot.% a ďalej klesala pri zvyšných
+technológiách v poradí: (mulč. – 17 hmot. %) > (konv. 16,9 hmot. %) > (mini. 16,4 hmot. %).
+Bez orbová technológia má najväčšiu retenčnú schopnosť v povrchovej vrstve (10 cm 17,3
+hmot.%), čo môže byť spôsobené nenarušenými pôdnymi kapilárami a tým je schopná viazať
+a zadržať väčšie množstvo vody v povrchovej vrstve. Minimalizačná technológia preukázala
+najmenšiu retenčnú schopnosť v (10 cm 16,4 hmot. %).
+Najnižšiu retenčnú schopnosť vykazovala pôda pri mini. tech., a to v oboch prípadoch
+(10 cm - 16,4 hmot. % a 20 cm - 16,8 hmot. %). Na základe tejto nízkej retenčnej schopnosti
+sa dá usúdiť, že na danej lokalite predstavuje tento typ agrotechnického prístupu vhodného
+kandidáta na aplikáciu SAP.
+7 dní po dažďových zrážkach sa zaznamenala najvyššia retenčná schopnosť v 30 cm
+vrstve pôdy, a to pri každej z agrotechnológií. Najvyššia retenčná schopnosť bola
+zaznamenaná pri (bez. tech. 15,82 hmot.%) a ďalej klesala pri zvyšných tech. nasledovne
+(mulč. 15,5 hmot.%) > (mini. 15,4 hmot.%) > a (konv. 14,7 hmot.%).
+Z pohľadu poľnohospodárstva sú najdôležitejšími pôdnymi horizontmi 10 a 20 cm
+vrstvy, ktoré sú kľúčové a udávajú množstvo a kvalitu poľnohospodárskych plodín.
+Najväčšia retenčná schopnosť pôdy v 10 cm vrstve 7 dní po dažďových zrážkach
+predstavovala (konv. tech. – 12,5 % hmot.%) a pokles pri ďalších tech. bol nasledovný (bez. –
+12,4 hmot. %) > (mulč. 12 hmot. %) > (mini. 10 hmot. %). Konvenčná technológia spolu
+s bez orbovou vykazovali najväčšie množstva pôdnej vody v 10 cm. Pri konvenčnej
+technológií je retenčná schopnosť pôdy pravdepodobne spôsobená tvorbou mohuntných
+zhlukov (agregátov) pôdy, ktoré znemožňujú výpar, podobný jav sme zaznamenali aj
+v sušiarni pri sušení tejto nespracovanej vzorky. Pri bez orbovej technológií nedochádza
+k narušeniu pôdnych horizontov čím sa zachováva štruktúra pôdy, pôdne póry a kapiláry,
+ktoré sú následne schopné zadržať väčšie množstvo vody aj pri suchších obdobiach.
+Najväčšia retenčná schopnosť pôdy v 20 cm vrstve 7 dní po dažďových zrážkach
+predstavovala (bez. – 14,2 hmot. %) a pokles pri ďalších tech. bol nasledovný (mulč. – 14
+hmot. %) > (mini. 13,6 hmot. %) > (konv. 13,3 hmot.%). Bez orbová technológia pre svoju
+neporušenú pôdnu štruktúru zadržala najväčšie množstvo vody (14,2 hmot.%). Zvýšené
+
+množstvá pôdnej vody pri mulčovacej technológií sú pravdepodobne spôsobené rozloženými
+pozberovými zvyškami na povrchu pôdy, čím sa minimalizuje výparná schopnosť pôdy
+a maximalizuje zadržiavacia schopnosť.
+Najviac náchylné pôdy na stratu vody sú pri 10 cm minimalizačné (10 hmot. %) a pri
+20 cm konvenčná (13,3 hmot.%) a je odporúčaním do týchto pôd aplikovať SAP aby sa
+tomuto efektu zamedzilo.
+Najväčší priemerný obsah vody v celom pôdnom stĺpci 24 h po zrážkach bol zaznamenaný pri
+(konvenčnej technológií 17,4 ± 0,91 hmot.%), kde klesal pri ostatných tech. nasledovne (bez.
+16,8 ± 0,96 hmot.%) > (mulč. 16,7 ± 0,6 hmot.%) > (mini. 16,3 ± 0,52 hmot.%).
+
+Obr. 33 Priemerný obsah vody v pôde pri rôznych agrotechnológiách.
+7 dní po dažďových zrážkach sa zaznamenal najväčší obsah pôdnej vody pri (bez orbovej
+technológií 14,3 ± 1,42 hmot.%) a pokles pri ďalších tech. bol nasledovný (mulč. 14 ± 1,5
+hmot.%) > (konv. 13,8 ± 1 hmot.%) > (mini. 13,3 ± 2,5 hmot.%).
+Najväčší priemerný rozdiel v obsahu pôdnej vody 3,6 hmot.% bol zaznamenaný pri
+konvenčných vzorkách pôd. Vysoký pokles obsahu pôdnej vody môže byť spôsobený
+narušením povrchovej vrstvy pôdy, čím dochádza k zvýšenej evaporácií a prieniku pôdnej
+vody do nižších vrstiev pôdneho horizontu
+
+Najmenší rozdiel v obsahu pôdnej vody 2,48 hmot. % bol zaznamenaný pri bez
+orbových vzorkách. Nízky rozdiel poklesu pôdnej vody v celom pôdnom horizonte môže byť
+spôsobený nenarušením vrchných častí pôdnych vrstiev. Nenarušená pôdna struktúra (póry
+a kapiláry) tak dokážu zadržať väčšie množstvo vody.
+7.2.4
+
+Vyhodnotenie modelových kolónových experminetov
+
+V rámci prvých kolónových pôdnych experimentov sa hodnotila možnosť použitia nového
+typu SAP STARCH s aplikáciou do vzoriek pôd, ktoré boli odobrané na jednotlivých
+testovacích políčkach v rámci lokality Borovce. Pre každý agrotechnický prístup boli
+realizované celkovo 4 rôzne experimenty (Tab. 1Tab. 2) pri ktorých sme stanovovali
+množstvo vody zadržanej v pôde resp. množstvo výluhu prejdeného do zberných nádob.
+Množstvo vody zachytenej v pôdnej kolóne obsahujúcej SAP resp. SAP s NPK hnojivom sme
+porovnávali s množstvom vody zadržanej tzv. kontrolnej vzorke. Priemerná hodnota
+zadržanej vody stanovená pre vzorku čistej pôdy a pôdy s NPK hnojivom.
+
+S touto
+
+priemernou hnodnotou prirodzenej vodozádržnej kapacity pôdy sme pracovali pri
+porovnávaní ďalších výsledkov.
+Nakoľko nepredpokladáme, že prídavok NPK hnojiva do pôdy by spôsobil výraznú
+zmenu vo vodozádržnej kapacite pôdy, tak sme pre stanovenie prirodzenej retenčnej
+schopnosti pôdy použili priemernú hodnotu, pre experimenty pri ktorých bola testovacia
+kolóna plnená vzorkou pôdy resp. vzorkou pôdy s NPK hnojivom.
+V prípade kolón plnených pôdnymi frakciami odobraných v rámci testovacích políčok
+obhospodarovaných konvenčnou technológiou sa zaznamenala pre kontrolnú vzorku pôdy
+vodozádržná kapacita na úrovni 662 g vody čo predstavuje 0,36 gvoda/gpôda. Vo vzorke pôdy
+s aplikovaným SAP sme zaznamenali mierny nárast obsahu vody v pôde, a to o 48 g (710 g)
+(Obr. 34). V pôdnej kolóne obsahujúcej vzorku SAP a hnojiva sa pozoroval mierny pokles
+v retencií vody oproti vzorke č. pôdy (4 g).
+
+Množstvo zadržanej vody v kolóne [g]
+
+800
+700
+600
+500
+400
+300
+200
+100
+0
+
+Obr. 34 Množstvá zadržanej vody v modelových pôdnych kolónach.
+Veľmi
+
+podobný
+
+tred
+
+vykazovala
+
+vzorka
+
+pôd
+
+odobraných
+
+z políčok
+
+obhospodarovaných bez orbovou technológiou s obsahom SAP a SAP + hnojivo, kde sa
+rovnako zaznamenalo zvýšenie retenčnej kapacity pôdy v prípade SAP (715 g) (Obr. 34) čo
+predstavovalo o 34 g vyššiu hodnotu ako pri kontrolnej vzorke (681 g), s následným miernym
+poklesom v prítomnosti NPK hnojiva, kde kapacita klesa o 37 g oproti kolóne so SAP.
+V prípade
+
+pôdnych
+
+kolón
+
+plnených
+
+vzorkami
+
+odobranými
+
+z políčok
+
+obhospodarovanými minimalizačnou technológiou sa zaznamenala zvýšená vodozádržná
+kapacita pre kontrolnú vzorku pôdy (716 g) v porovnaní s konvenčnou vzorkou (662 g). Vo
+vzorke pôdy s aplikovaným SAP sme ale zaznamenali pokles množstva vody zadržiavanej
+v pôdnej kolóne oproti kontrolnej vzorke a to o 38g (679g). Pôdna kolóna obsahujúca vzorku
+pôdy so SAP a NPK hnojivom vykazovala porovnatelnú vodozádržnú kapacitu ako kontrola
+(720 g vody v pôdnej kolóne).
+V prípade
+
+pôdnych
+
+kolón
+
+plnenými
+
+frakciami
+
+odobraných
+
+z testovacích
+
+políčok
+
+obhospodarovanými mulčovacou technológiou sa zaznamenala znížená retenčná schopnosť
+pri kontrolnej vzorke pôdy (689 g) v porovnaní s minimalizačnou vzorkou (716 g). Pokles
+retenčnej schopnosti v porovnaní s kontrolou sme zaznamenali pri kolónach s obsahom SAP,
+a to o 23 g (665 g) a SAP + hnojivo o 32g (656 g) (Obr. 34).
+Z uvedených kolónových testov sa preukázalo, že SAP aplikovaný do pôdy mal
+tendenciu zvýšiť vodozádržnú kapacitu pôdy oproti kontrolnej vzorke, ak sa v pôde nachádzal
+prídavok NPK hnojiva. To znamena, že zvýšenie retenčnej schopnosti nastalo pri konvenčnej
+
+a bezorbovej technológií v prípade, ak nebolo do pôdy aplikované NPK hnojivo. Po jeho
+aplikácií nastal výrazný pokles vo vodozádržnej kapacite pôdy.
+Pri zvyšných dvoch agrotechnicky obhospodarovaných vzorkách pôd (mulč. a mini.)
+sa nepodarilo stanoviť pozitívny vplyv SAP v zmysle zlepšenia retenčných vlastností pôdy.
+Ako možné príčiny tohto rozdielu môžu byť prirodzená nehomogenita vo vzorách pôdy, teda
+odlišná štruktúrovitosť pôdy, ale s veľkou pravdepodobnosťou pôjde o chybu, ktorá by bola
+odstránitelná pri parálélnych kolónových experimentoch. Z dôvodou časových náročností
+experimentu nemohli uskutočniť.
+Za účelom stanovenia možnosti použitia SAP v pôde ako ochranného prostriedku voči
+zvýšenej
+
+strate
+
+vody
+
+spôsobenej
+
+výparom
+
+boli
+
+realizované
+
+následovné
+
+experimenty.Vodozádržná schopnosť pôdy bola ďalej posudzovaná na základe pravidelného
+gravimetrického stanovenia, ktorým sa vyhodnocovalo množstvo odparenej vody.
+Odparovanie prebiehalo v dvoch režimoch prvých 7 dní bolo realizované sušenie za
+štandardných laboratórnych podmienok a po 7 dňoch následne v sušiarni pri teplote 45°C po
+dobu 6 dní. Výsledky sú prezentované v podobe grafov (Obr. 35).
+
+Obr. 35 Zostatok množstva vody v pôdnych kolónach rôznych agrotechnických typov (A) –
+konv. (B) – mini. (C) – mulč. (D) – bez. počas 13 dní sušenia.
+Pri kolónových vzorkách pôd konvenčnej technológie sa zaznamenala vyššia retenčná
+schopnosť pri testovacej kolóne s obsahom SAP. Zvýšená odolnosť tejto kolóny voči strate
+vody bola zaznamenaná počas 10 dní sušenia, kedy v nej bolo stanovené vyššie množstvo
+
+vody v porovnaní s kolónou obsahujúcu č. pôdu resp. vzorka s obsahom SAP s prídavkom
+NPK hnojiva. Po 11 dňoch sušenia nastala zmena
+
+v tomto trende a až do ukončenia
+
+experimentu bolo najvyššie množstvo zadržiavanej vody zaznamenané pri kontrolnej vzorke.
+Podobné správanie sa pozorovalo pri kolóne so vzorkou pôdy z bez orbovej
+technológie, ktorá taktiež vykazovala zvýšený obsah vody v pôde pre pôdnu kolónu
+s aplikovaným SAP. Zvýšený trend retenčnej schopnosti pretrvával 7 dní. Po 7 dňoch sa
+rozdiely v obsahu vody medzi jednotlivými pôdny kolónami takmer vyrovnali.
+V prípade zvyšných kolón so vzorkami pôdy z minimalizačnej a mulčovacej
+technológie prevažoval zvýšený obsah vody v rámci kontrolných pôd po celú dobu procesu
+sušenia. Nepodarilo sa tu preukázať zvýšenú zádržnú schopnosť SAP v procese výparu.
+7.2.5
+
+Stanovenie
+
+absorpčných
+
+a
+
+retenčných
+
+charakteristík
+
+superabsorpčných
+
+polymérov
+Z výsledkov predošlých kolónových experimentov, v ktorých sa nepodarilo jednoznačne
+zhodnotiť retenčné charakteristiky aplikovaného SAP boli realizované nasledovné absorpčné
+modelové experimenty. Testovala sa absorpčná schopnosť nového SAP-ov ale aj starších
+typov SAP (AGRO a SEED) v deionizovanej vode, roztokoch NPK hnojív a v pôdnom
+výluhu, čo nám poskytlo informáciu o vplyve pridávaných hnojív resp. prirodzených
+chemický vlastností pôdy.
+
+Obr. 36 Absorpčné a retenčné schopnosti testovaných SAP (AGRO, SEED, STARCH)
+v modelových roztokoch: A – destilovaná voda; B – roztok hnojiva s nízkou koncentráciou; C
+– roztok hnojiva s vysokou koncentráciou; D – roztok pôdnych výluhov.
+Experiment s deionizovanou vodou (Obr. 36) (A) vykazoval najväčšiu napučiavaciu
+schopnosť pri všetkých troch hydrogéloch. Po 2 hodinách vykazoval najväčšiu absorpčnú
+schopnosť SAP STARCH, ktorý absorboval celkovo 21,1 g množstva deionizovanej vody.
+Medzi jednotlivými SAP sa nezaznamenali výrazné absorpčné rozdiely (AGRO - 20,4 g
+a SEED - 20,2 g deionizovanej vody). Na hydrogéloch boli ďalej vykonané niekoľko dňové
+testy retenčných vlastností a zadržiavania vody v procese prirodzenej evaporácie. Najlepšie
+charakteristiky vykazoval SAP SEED, ktorý po 24 h sušenia uvoľnilo najmenšie množstvo
+deionizovanej vody (5,6 g) a tento trend si zachoval po celú dobu trvania experimentu..
+Experiment bol po 4 dňoch ukončený, kde sa u ostatných SAP-ov nezaznamenalo žiadne
+množstvo zadržanej deionizovanej vody. Napriek tomu, že SAP STARCH vykazoval
+najväčšiu absorpciu vody po 2 h (21,07 g), tak v nasledujúcich dňoch vykazoval najväčšiu
+stratu množstva zadržanej vody (24 h bol úbytok o 47,91 %; 48 h 71,29 %; 72 h 93,46 %
+oproti počiatočnému zachyteniu vody). Po 72 h sa v ňom gravimetricky nepodarilo
+zaznamenať prítomnosť zadržanej vody.
+V druhom experimente (Obr. 36 B) bola nahradená deionizovaná voda roztokom
+s nízkym obsahom NPK hnojiva (Tab. 3). SAP-y vykazovali nižšiu účinnosť absorpcie
+roztoku ako pri prvom experimente s deionizovanou vodou (Obr. 36 A). V prípade SAP
+AGRO sa zachytilo o 12,08 g menej vody ako pri deionizovanej vode, čo zodpovedá poklesu
+o (59,15 %), pri SAP SEED kleslo množstvo zadržiavanej vody o 16,16 g (pokles o 80,09 %)
+a pri novom SAP STARCH o 16,3 g (pokles o 77,37 %). Napriek tomu, že SAP AGRO
+vykazoval najväčšiu absorpciu po 2 h (8,34 g) množstva roztoku hnojiva, tak v nasledujúcich
+dňoch vykazoval najväčšiu hmotnostný úbytok (24 h - 51,11 %; 48 h - 81 % oproti
+počiatočnému zachyteniu vody). Po 48 h sa nepodarilo zaznamenať prítomnosť množstva
+zadržanej vody. Mierny nárast hmotnosti v prípade SEED a STARCH po 24 h bol
+pravdepodobne spôsobený naviazaním vzdušnej vlhkosti.
+V tretej skupine experimentov (Obr. 36 C) sa sledoval vplyv vysoko koncentrovaného
+roztoku NPK hnojiva na funkčnosť SAP. V prípade SAP AGRO sa zachytilo o 15,28 g menej
+roztoku ako pri deionizovanej vode, čo zodpovedá rozdiel 74,83 %, SAP SEED o 15,26 g čo
+zodpovedá rozdielu 75,65 % a SAP STARCH o 15,68 g čo zodpovedá rozdielu 74,42 %.
+Absorpčná schopnosť SAP-ov pri nízkej a vysokej koncentrácií roztokov NPK hnojiva
+
+nepredstavovala signifikantné rozdiely v počiatočnej fáze absorpcie roztoku po 2 h. Výrazné
+rozdiely z pohľadu zadržania vysoko koncentrovaného roztoku NPK hnojiva boli pozorované
+už po 24 h, kedy sa u všetkých 3 typov SAP-ov nezaznamenala prítomnosť zadržaného
+roztoku.
+Pri poslednom experimente (Obr. 36 D) boli nahradené modelové roztoky NPK
+hnojív pôdnym výluhom. V prípade SAP AGRO sa zachytilo o 9,33 g menej roztoku ako pri
+deionizovanej vode čo zodpovedá rozdielu 45,67 %, SAP SEED o 8,83 g čo zodpovedá
+rozdielu 43,77 %, SAP STARCH o 9,7 g čo zodpovedá rozdielu 46,04 %. Po 2 h nasiakavosti
+sa dosiahli takmer identické množstvá naviazaného pôdneho výluhu (AGRO – 11,09 g, SEED
+– 11,34 g, STARCH – 11,37 g). Po 48 h sušenia SAP AGRO stále vykazoval zvýšené
+hodnoty o 0,68 g ako po 2 h nasiakavosti. Po 72 h mal najvyššiu retenčnú schopnosť SAP
+AGRO 3,88 g. Najmenšiu retenčnú kapacitu počas sušenia mal SAP STARCH 0,69 g. Nárast
+hmotností po 24 h mohol pravdepodobne byť spôsobený naviazaním vzdušnej vlhkosti
+z okolitého prostredia. Nakoľko sa podobný ja zvýšenia obsahu vody v SAP-och zaznamenal
+aj pri testovaní nasiakavosti nízko koncentrovaného roztoku NPK hnojiva dá sa predpokladať,
+že ak nebol SAP opätovne vystavený vonkajšiemu pôsobeniu zvýšeného obsahu NPK nastala
+čiastočná obnova jeho absorpčných vlastností, čím došlo k naviazaniu vzdušnej vlhkosti do
+týchto SAP-ov. V prípade deionizovanej vody nebol tento efekt pozorovaný nakoľko sa jedná
+o chemicky čisté prostredie od začiatku experimentu. A v prípade roztoku hnojiva s vysokou
+koncentráciou sa taktiež nepozoroval, nakoľko tu predpokladáme trvalé poškodenie
+funkčných vlastností SAP. Tieto zistenia môžu poukazovať na dôležitosť správneho spôsobu
+aplikácie týchto SAP-ov do pôdy, kde je potrebné zabezpečiť homogénnu distribúciu
+jednotlivých polymérov v rámci pôdy a zamädziť bodovej aplikácií SAP-u s hnojivom.
+Zistené absorpčné vlastnosti jednotlivých SAP-ov boli po prepočítaní na množstvo 1 g
+(množstvo aplikované SAP-u do pôdy resp. piesku v nasledovných experimentoch) použité
+pre vzájomné porovnanie s nižšie popísanými kolónovými testami.
+7.2.6
+
+Vyhodnotenie retenčných vlastností rôznych SAP v modelovej vzorke pôdy
+
+Na základe výsledkov predošlých nasiakavacích testov v prítomnosti rôznych modelových
+roztokov boli navrhnuté experimenty s aplikovaním SAP (AGRO a STARCH) do pripravenej
+modelovej pôdy s cieľom vzájomne porovnať ich retenčné vlastnosti v pôdnych
+podmienkach.
+
+V prípade týchto kolónových experimentov sme sa rozhodli použiť menšiu vrstvu
+pôdy (20 cm oproti 40 cm) s cieľom urýchlenia doby trvania experimentu. Množstvo
+aplikovaného SAP a prípadne hnojív bolo totožné ako pri prvých kolónových experimentoch
+a vzorové dávkovanie jednej sady kolón je uvedené v (Tab. 2). Celkovo boli pôdne kolóny
+Hmotnosť vody zadržanej v SA P [g]
+
+premývané 800 ml destilovanej vody.
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+(STARCH)
+(AGRO) SAP
+SAP čistý bez
+čistý bez
+hnojiva
+hnojiva
+
+(STARCH)
+SAP +
+hnojivo
+
+(AGRO) SAP
++ hnojivo
+
+Obr. 37 Absorpčná schopnosť SAP (STARCH a AGRO) v modelovej pôde.
+V rámci modelových kolón kde bola čistá vzorka pôdy (920 g) sa celkovo zadržalo
+314,4 ± 9,1 g vody, čo predstavuje 0,34 gvoda/gpôda. Následne bol tento údaj použitý pre výpočet
+množstva vody v SAP-e pri ďalších kolónových experimentoch podľa rovnice (3):
+mSAP= mV – mS - mprirodz.
+
+(3)
+
+mSAP – hmotnosť prirodzenej vodozádržnej kapacity SAP
+mV – hmotnosť vlhkej pôdy
+mS – hmotnosť suchej pôdy
+mprirodz. – hmotnosť prirodzenej vodozádržnej kapacity pôdy
+V experimente sme porovnávali retenčnú schopnsoť SAP-ov (AGRO a STARCH)
+aplikovaných v celom pôdnom stĺpci (20 cm). SAP STARCH bol schopný absorbovať 34,85
+± 1,5 g vody. Oproti modelovým podmienkam pri testovaní absorpčných vlastností SAP-u
+v deionizovanej vode to je 9,6-násobný pokles absorpčnej kapacity SAPU STARCH, resp.
+5,3-násobný pokles v pôdnom výluhu.
+SAP AGRO v pôdnom stĺpci zadržal 22,8 ± 0,89 g vody. Oproti experimentom, ktoré
+sme realizovali pri modelových podmienkach v deionizovanej vode to je 14,3-násobný pokles
+absorpčnej kapacity SAP-u AGRO. V porovnaní s modelovými podmienkami realizovanými
+v pôdnom výluhu to predstavovalo 7,8-násobný pokles .
+
+V prípade testu s pridaným NPK hnojivom SAP STARCH naviazal 16,12 ± 17,5 g
+vody. Z dôvodu vysokej hodnoty štandardnej odchýlky nie je možné spoľahlivo vyhodnotiť
+tento konkrétny experiment. Veľké rozdiely v prípade paralélnych stanovení môžu
+naznačovať výrazné kolísanie absorpčných vlastností a celkovej stability SAP v dôsledku
+zvýšeného množstva hnojiva aplikovaného do pôdy. Podobný pokles funkčnosti sa
+zaznamenal pri modelových testoch hodnotenia absorpčných vlastností SAP v roztokoch NPK
+hnojív (Obr. 36 B a C).
+SAP AGRO bol schopný v testovanej pôde s prídavkom NPK hnojiva zadržať 32,65 ±
+0,26 g vody. V porovnaní s modelovými absorpčnými testami v celulózových vrecúškach v
+prítomnosti deionizovanej
+
+vody
+
+vykazoval
+
+10-násobný
+
+pokles
+
+účinnosti.
+
+V prípade
+
+modelových podmienok v nízko koncentrovanom roztoku hnojiva sa zaznamenal 4,08násobný pokles a 2,5-násobný pokles v porovnaní s modelovými podmienkami v roztoku
+hnojiva s vysokou koncentráciou.
+V prípade všetkých pôdnych kolón sa zaznamenalo výrazne nižšie množstva zadržanej vody
+v SAP v porovnaní s modelovými testami nasiakavosti. Napriek tomuto výraznému poklesu
+absorpčných vlastností bolo množstvo zadržanej vody výrazne vyššie ako je prirodzená
+vodozádržná schopnosť pôdy v rozmedzí (47 až 101-krát vyššie).
+Nakoľko sa v rámci experimentov zaznamenali odlišné hodnoty v rámci testov
+v deionizovanej vode a v pôdnom výluhu, ktorý bol získaný z rovnakej vzorky pôdy sa dá
+predpokladať ich veľmi totožné chemické zloženie. Preto je možné usudzovať vplyv samotnej
+štruktúrovitosti pôdy na funkčnosť SAP. Za účelom preverenia možného vplyvu štruktúrnosti
+a mechanických vlastností pôdnych agregátov boli realizované analogické kolónové
+experimenty, kde bola pôdna vzorka nahradená chemicky čistým pieskom.
+7.2.7
+
+Vyhodnotenie retenčných vlastností rôznych SAP v modelovej vzorke piesku
+
+Na základe výsledkov predošlých modelových testov vo vzorke pôdy boli navrhnuté
+experimenty s aplikovaním SAP (AGRO a STARCH) do modelových pieskových kolón
+s cieľom vzájomne porovnať ich retenčné vlastnosti v chemicky čistých podmienkach pri
+zachovaní mechanických a štruktúrnych vlastností vonkajšieho prostredia. V prípade týchto
+kolónových experimentov bola použitá 20 cm vrstva piesku (2 x 460 g). Pri experimentoch
+s aplikáciou SAP-u, kde bol do pieskovej kolóny zavedený príslušný SAP (AGRO alebo
+STARCH) v množstve totožnom ako pri predošlých kolónových experimentoch. Podľa
+zostavenia experimentu boli pieskové kolóny premývané 800 ml príslušného roztoku
+(destilovaná voda, roztok hnojiva, pôdny výluh).
+
+STARCH (piesok)
+
+SAP+hno...
+
+27,12
+
+SAP+hno...
+
+50,82
+30,55
+
+SAP+hno...
+SAP+hn...
+SAP
+
+106,36
+nestanovené
+
+SAP
+
+AGRO (piesok)
+
+SAP+hno...
+
+42,27
+
+SAP+hno...
+
+67,25
+36,77
+
+SAP+hno...
+SAP+hn...
+
+89,63
+
+SAP
+
+191,65
+133,18
+
+SAP
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+Hmotnosť vody zadržanej v SAP [g]
+
+Obr. 38 Retenčná schopnosť SAP (AGRO a STARCH ) pri simulácií kolónových testov
+v chemicky čistom piesku.
+V rámci modelových kolón, kde bola čistá vzorka piesku (920 g) sa celkovo zadržalo
+250 ± 6,8 g vody, čo predstavuje 0,27 gvoda/gpiesok. Následne bol tento údaj použitý pre výpočet
+množstva vody absorbovaného v SAP-e, ktorý vychádza z rovnice (3).
+V experimente sme testovali retenčnú schopnosť SAP (AGRO a STARCH) pridaných
+rovnomerne a zamiešaných v celej vzorke piesku (20 cm).
+V prvom teste, pri ktorom nebola použitá zadržiavacia fólia bol SAP AGRO schopný
+zachytiť 133,18 g vody. Oproti modelovým nasiakavacím experimentom v celulózových
+vrecúškach v deionizovanej vode to predstavovalo 2,4-násobný pokles účinnosti, resp. 1,33násobný pokles kapacity v porovnaní s modelovými podmienkami v pôdnom výluhu.
+Pri rovnakom teste, ale s použitím fólie zamedzujúcej okamžitý únik vody z pieskovej
+kolóny sa zaznamenala vyššia retenčná schopnosť, SAP-u AGRO ktorý v tomto prípade
+zachytil až 191,65 g vody. Oproti paralélnemu zostaveniu bez použitia zadržiavacej fólie to
+predstavovalo množstvo vyššie o 58,47 g. čo predstavuje menší pokles (1,7-krát) ako ako
+v prípade zadržania vody v modelových vrecúškových testoch s deionizovanou vodou, resp.
+0,92-násobný pokles oproti modelovým podmienkami v pôdnom výluhu.
+
+Pri aplikovaní SAP STARCH do modelových pieskových kolón a následnom premývaní
+destilovanou vodou sa nepodarilo stanoviť vodozádržnú kapacitu SAP. Po aplikovaní prvého
+prídavku destilovanej vody sa vytvorila nepriepustná zmes SAP-u s pieskom v povrchovej
+vrstve kolóny. Pri aplikovaní zvyšného objemu destilovanej vody nedochádzalo k jej ďalšej
+infiltrácií do piesku ani po 24 h a prídavok vody bol zadržiavaný stále na povrchu pieskovej
+kolóny. Tento efekt sa pozoroval v prípade oboch paralélnych stanovení. Test sme sa snažili
+realizovať aj mimo testovacej kolóny, ale nepodarilo sa nám spoľahlivo stanoviť množstvo
+zadržanej vody v SAP STARCH. Dokonca aj po sušení tejto vzorky piesku bola stále
+prítomná výrazná súdržnosť celej zmesi (Obr. 39). Vytvorenie tejto súdržnej vrstvy
+pripisujeme k práškovej povahe SAP-u.
+Druhý test bol zameraný na hodnotenie retenčnej účinnosti SAP AGRO BF po prídavku
+roztoku NPK hnojiva. Pri modelovom teste bola zaznamenaná jeho retenčná schopnosť na
+úrovni 89,63 g vody. V porovnaní s modelovými absorpčnými testami realizovanými
+v celulózových vreckách s deionizovanou vodou to predstavuje 3,6-násobný pokles účinnosti
+resp. 1,4-násobný pokles v porovnaní s modelovými absorpčnými testami v roztoku hnojiva
+s nízkou koncentráciou.
+Pri použití zadržiavacej fólie so SAP AGRO aplikovaného do pieskovej kolóny došlo
+k absorbovaniu celkovo 36,77 g vody. Táto hodnota predstavuje celkovo 8,8-násobný pokles
+účinnosti oproti modelovým absorpčným testom realizovaných v celulózových vreckách
+v deionizovanej vode resp. 3,6-násobný pokles v porovnaní s modelovými podmienkami
+v roztoku hnojiva s nízkou koncentráciou.
+
+Obr. 39 Vytvorenie súdržnej vrstvy vysušenej vzorky piesku so SAP STARCH.
+
+V paralélnom teste bez použitia zadržiavacej fólie (SAP AGRO s deionizovanou
+vodou a SAP AGRO s roztokom hnojiva) sa zaznamenal
+Pozoroval sa pokles o 154,88 g vody v zachytenej v pieskovej kolóne so SAP AGROF
+a prídavkom hnojiva oproti hodnotám stanoveným pri kolóne s čistou vzorkou SAP AGROF
+(191,65 g). Tento pokles bol výraznejší než pri experimentoch pri zadržaní vody v pieskovej
+kolóne bez fólie, kde sa zaznamenal rozdiel na úrovni 43,55 g.
+Na základe tohto výrazného poklesu sa dá predpokladať, že dlhodobé vystavenie SAPu v rozotoku hnojiva má výrazne negatívny vplyv na vodozádržnú schopnosť, ktorý je
+výrazne väčší ako pri prietokových podmienkach. Podobný jav sa pozoroval aj pri pieskových
+kolónach v ktorých bol aplikovaný SAP STARCH, kde nastalo takisto výrazné zníženie
+celkového množstva zadržiavanej vody v SAP-e po jeho dlhodobom vystavení (2 h) roztoku
+hnojiva, kde v prietokovom zostavení tohto experimentu sa zachytilo o 248 % viacej vody.
+Podobné správanie vykazovali aj experimenty pri oboch SAP-och aplikovaných do
+pieskových kolón a pri ich vystavení roztoku pôdneho výluhu, kde pri dlhodobom zadržiavaní
+pôdneho výluhu v piesku sa výrazne znížili absorpčné vlastnosti SAP-u v porovnaní
+s prietokovým usporiadaním tohto experimentu (SAP STARCH – 46,11 % pokles) (SAP
+AGRO – 37,15 % pokles). Tento pokles sa dá opätovne pripísať negatívnemu vplyvu
+dlhodobého pôsobenia (2 h) pôdneho výluhu obsahujúceho zvýšený obsah NPK iónov (Tab.
+6) na absorpčné charakteristiky uvedených SAP-ov.
+Celkovo nižšie stanovené hodnoty vrámci všetkých experimentov v porovnaní
+s modelovými absorpčnými experimentami, ktoré sa realizovali v modelovo pripravených
+roztokoch sa dá preukázať vplyv nie len chemických faktorov, ale aj mechanických
+parametrov vonkajšieho prostredia na absorpčné a retenčné vlastnosti SAP-ov.
+
+8 Záver
+V rámci teoretickej časti sme sa zamerali na popis rôznych agrotechnologických prístupov,
+kde boli uvedené pozitívne a negatívne vplyvy na kvalitu pôdy. V rámci prehľadu sú ďalej
+spomenuté tradičné spôsoby, ktorými sa zadržiava voda v pôde so zameraním na využitie
+SAP ako modernej technológie ako vhodného adaptačného mechanizmu v boji proti
+klimatickej zmene. V rámci prehľadu sú uvedené rôzne klasifikácie týchto polymérnych
+materiálov a je tu detailne rozobraný možný vplyv chemických a fyzikálnych faktorov na ich
+funkčnosť (pH, prítomnosť ťažkých kovov, vodivosť)
+V rámci experimentálnej časti diplomovej práce sa vykonávali testy na pôdach z rôznych
+agrotechnických prístupov. Pri chemických rozboroch týchto pôd sa nezaznamenali výrazné
+vzájomné rozdiely v obsahu výskytu kovov (Fe, Mg, Mn, Co, Cu a Zn) a makro-zložiek (Ca,
+K, K2O, P, P2O5, Scelk. a TOC). Pôdna reakcia sledovaná v rámci celej sledovanej lokality sa
+pohybovala v neutrálnom rozsahu pH v rozmedzí (od 7,10 do 7,20). Celkové hodnoty salinity
+(0,09 – 0,13 g/l) a vodivosti (0,067 – 0,096 mS/cm) pôdy boli na nízkej úrovni s miernym
+nárastom v rámci 3 segmentu.
+V rámci jednotlivých pôdnych výluhov sa zaznamenali najvyššie hodnoty obsahu
+dusíka NO3 (784 mg/l), NO2 (31 mg/l) a NH3 (1,1 mg/l) v prípade minimalizačného spôsobu
+obrábania. Zvýšené množstvo uvoľňovania K (9 mg/l) z pôdy bolo zaznamenané pri
+konvenčnej pôde a najvyššie hodnoty PO4 (10,5 mg/l) boli zaznamenané pri mulčovacej
+technológií obrábania.
+Na základe sledovania vlhkosti pôdy na jednotlivých testovacích políčkach sme zistili,
+že najvyšší priemerný obsah vody bezprostredne 24 h po dažďových zrážkach vykazovala
+pôda obhospodarovaná konvenčnou technológiou 17,4 ± 0,91 hmot.%, pričom obsah vody
+klesal v nasledovnom poradí (bez. 16,8 ± 0,96 hmot.%) > (mulč. 16,7 ± 0,6 hmot.%) > (mini.
+16,3 ± 0,52 hmot.%) pre jednotlivé technológie. Najlepšie vlastnosti zadržiavania vody
+vykazovala po 7 dňoch bez zrážkového obdobia pôda obhospodarovaná bez orbovou
+technológiou 14,3 ± 1,42 hmot.%. Pričom obsah vody pri nasledovných technológiách klesal
+v nasledovnom poradí (mulč. 14 ± 1,5 hmot.%) > (konv. 13,8 ± 1 hmot.%) > (mini. 13,3 ± 2,5
+hmot.%). Najnižšie dlhodobé retenčné vlastnosti vykazovala pôda obhospodarovaná
+minimalizačnou technológiou v rámci celého pôdneho stĺpca a v rámci povrchových
+horizontov sa jednalo o pôdnu obhospodarovanou konvenčnou technológiou. Na základe tejto
+skutočnosti je možné realizovať odporúčanie aplikácie SAP primárne na tejto lokalite.
+
+Jednotlivé SAP boli podrobené SEM-EDX analýze, ktorou sa stanovilo ich chemické
+zloženie a pomer zastúpenia jednotlivých prvkov. Na základe toho sa dajú predpokladať ich
+rôzne vlastnosti z pohľadu zadržiavania vody a možných externých vplyvov na tieto
+charakteristiky.
+V rámci hodnotenia nového typu SAP STARCH v jednotlivých vzorkách rôzne
+agrotechnicky obhospodarovaných pôd sa nám podarilo preukázať pozitívny vplyv z pohľadu
+zadržiavania vody v pôde pri vzorkách konvenčnej (710 g) a bez orbovej (715 g) technológie,
+kde došlo k nárastu o (48 g) resp. (34 g) voči kontrolným vzorkám čistých pôd. Pri týchto
+pôdach sa zároveň pozoroval pokles retenčných vlastností aplikovaného SAP-u za súčasného
+aplikovania NPK hnojív do pôdy kedy došlo k poklesu množstve zadržiavanej vody SAP-om
+o 52 g (konvenčnej) resp. 38 g (bez orbovej) technológií voči vzorkám pôd so SAP-om. Pri
+ostatných agrotechnických prístupoch sa nepotvrdil pozitívny vplyv SAP. Z pohľadu
+dlhodobého zadržiavania vody v pôde sa pozorovalo mierne zvýšené množstva jej obsahu vo
+vzorkách pôd konvenčnej a bez orbovej technológie počas prvých 7 dní resp. 10 dní a po
+tomto období došlo k poklesu množstva zadržanej vody v týchto pôdach so SAP v porovnaní
+s kontrolnými vzorkami čistých pôd. Pri vzorkách pôd z minimalizačnej a mulčovacej
+technológie sa nezaznamenal zvýšený obsah vody v pôdach s aplikovaným SAP-om.
+Z pohľadu hodnotenia absorpčných vlastností nového SAP STARCH v porovnaní so
+staršími komerčne dostupnými SAP od rovnakého výrobcu boli realizované modelové
+experimenty v modelových roztokoch, napriek malým rozdielom absorpčnej schopnosti.
+Absorpčná schopnosť jednotlivých SAP v deionizovanej vode vykazovala minimálne
+rozdiely (rozsah od 20,1 g do 21 g). V prítomnosti roztokov hnojív resp. pôdneho výluhu tieto
+vlastností výrazne klesli od rozsahu (4 g) do (11,4 g). V následných dňoch bola sledovaná aj
+retenčná schopnosť SAP pričom sa zaznamenali výrazné rozdiely v ich
+
+retenčných
+
+vlastnostiach. Pri SAP umiestnených v roztoku NPK s nízkou koncentráciou, pôdnom výluhu
+resp. v deionizovanej vode bol zaznamenaný postupný niekoľko dňových pokles zadržiavanej
+vody oproti vzorke SAP-ov s vysoko-koncentrovaného roztoku hnojiva, kde sa už po 24 h
+absorpčnom teste nepodarilo stanoviť zadržané množstvo vody. Pravdepodobnou príčinou
+bola strata retenčných charakteristík v dôsledku pôsobenia vysokých koncentrácií NPK
+hnojiva prítomných v roztoku.
+Pre porovnanie použitia nového typu SAP STARCH so starším komerčne dostupným
+SAP AGRO boli realizované experimenty s ich aplikáciou do modelovej vzorky pôdy.
+V prípade všetkých pôdnych kolón sa zaznamenalo výrazne nižšie množstva zadržanej vody
+v SAP v porovnaní s modelovými testami nasiakavosti, kde sa zaznamenal pokles 9,6-krát
+
+a viac. Napriek tomuto výraznému poklesu absorpčných vlastností bolo množstvo zadržanej
+vody výrazne vyššie ako je prirodzená vodozádržná schopnosť rovnakého množstva pôdy v
+rozmedzí (47 až 101-krát vyššie).
+Porovnaním výsledkov získaných z pôdnych kolón a pieskových modelových kolón sa
+nám podarilo jasne poukázať výrazný vplyv nie len prítomných chemických súčastí pôdy
+resp. pridaných chemických hnojív, ale rozhodujúcu úlohu pri vodozádržnej schopnosti SAPov majú aj mechanické a štruktúrne vlastnosti substrátu do ktorého je aplikovaný.
+V rámci experimentálnej časti diplomovej práce sme naznačili ktoré chemické
+a fyzikálne vlastnosti môžu vplývať na absorpčné a retenčné charakteristiky nového typu SAP
+STARCH ale aj pôvodných typov SAP. Pre detailnejšie štúdium vplyvu týchto parametrov na
+retenčné charakteristiky resp. ich použite ako ochranného prostriedku voči negatívnym
+dopadom klimatickej zmeny sa odporúča realizovať ďalší výskum v tejto oblasti.
+
+Zoznam použitej literatúry
+ALBALASMEH, A.A., MOHAWESH, O., GHARAIBEH, M.A., ALGHAMDI, A.G.,
+ALAJLOUNI, M.A., ALQUDAH, A.M., 2022. Effect of hydrogel on corn growth, water use
+efficiency, and soil properties in a semi-arid region. Journal of the Saudi Society of
+Agricultural Sciences 21, 518–524. https://doi.org/10.1016/j.jssas.2022.03.001
+ALI, M.A., FARAG, S.G., SILLANPÄÄ, M., AL-FARRAJ, S., EL-SAYED, M.E.A., 2023.
+Efficiency of Using Superabsorbent Polymers in Reducing Mineral Fertilizer Rates Applied in
+Autumn Royal Vineyards. Horticulturae 9, 451. https://doi.org/10.3390/horticulturae9040451
+AzuragelTM. [online] Ecovia Renewables. Dostupné z:
+https://www.ecoviarenewables.com/azuragel
+BARROS, A.F.D., PIMENTEL, L.D., ARAUJO, E.F., MACEDO, L.R.D., MARTINEZ,
+H.E.P., BATISTA, V.A.P., PAIXÃO, M.Q.D., 2017. Super absorbent polymer application in
+seeds and planting furrow: it will be a new opportunity for rainfed agriculture. SCA 38, 1703.
+https://doi.org/10.5433/1679-0359.2017v38n4p1703
+BEHERA, S., MAHANWAR, P.A., 2020. Superabsorbent polymers in agriculture and other
+applications: a review. Polymer-Plastics Technology and Materials 59, 341–356.
+https://doi.org/10.1080/25740881.2019.1647239
+BRAUN, O., COQUERY, C., KIEFFER, J., BLONDEL, F., FAVERO, C., BESSET, C.,
+MESNAGER, J., VOELKER, F., DELORME, C., MATIOSZEK, D., 2021. Spotlight on the
+Life Cycle of Acrylamide-Based Polymers Supporting Reductions in Environmental
+Footprint:
+
+Review
+
+and
+
+Recent
+
+Advances.
+
+Molecules
+
+27,
+
+42.
+
+https://doi.org/10.3390/molecules27010042
+DISPAT, N. a kol. 2020. Synthesis of ZnO/SiO2-modified starch-graft-polyacrylate
+superabsorbent polymer for agricultural application. In Carbohydrate Polymers. ISSN 01448617, 2020, roč. 249, 116862.
+ĎURIAN, J. 2011. Systém obrábania pôdy (Bakalárska práca). Slovenská poľnohospodárska
+univerzita v Nitre fakulta agrobiológie a potravinových zdrojov. [online]. Slovensko: Nitra,
+2011.Dostupné z:
+http://crzp.uniag.sk/Prace/2011/D/D5CB64203EB648498B91C83F52C8150E.pdf
+
+CHANG, L., XU, L., LIU, Y., QIU, D., 2021. Superabsorbent polymers used for agricultural
+water
+
+retention.
+
+Polymer
+
+Testing
+
+94,
+
+107021.
+
+https://doi.org/10.1016/j.polymertesting.2020.107021
+CHELLAPPA, J., SAGAR, K.L., SEKARAN, U., KUMAR, S., SHARMA, P., 2021. Soil
+organic carbon, aggregate stability and biochemical activity under tilled and no-tilled
+agroecosystems.
+
+Journal
+
+of
+
+Agriculture
+
+and
+
+Food
+
+Research
+
+4,
+
+100139.
+
+https://doi.org/10.1016/j.jafr.2021.100139
+CHEN, J., WU, J., RAFFA, P., PICCHIONI, F., KONING, C.E., 2022. Superabsorbent
+Polymers: From long-established, microplastics generating systems, to sustainable,
+biodegradable and future proof alternatives. Progress in Polymer Science 125, 101475.
+https://doi.org/10.1016/j.progpolymsci.2021.101475
+CHEN, L., REJESUS, R.M., AGLASAN, S., HAGEN, S., SALAS, W., 2023. The impact of
+no‐till on agricultural land values in the UNITED STATES MIDWEST. American J Agri
+Economics 105, 760–783. https://doi.org/10.1111/ajae.12338
+CHERLINKA, V., 2023. No-Till Farming: Benefits, Challenges, And Sustainable Effects
+[online]. Dostupné z: https://eos.com/blog/no-till-farming/
+CRISTACHE, S.-E., VUȚĂ, M., MARIN, E., CIOACĂ, S.-I., VUŢĂ, M., 2018. Organic
+versus Conventional Farming—A Paradigm for the Sustainable Development of the European
+Countries. Sustainability 10, 4279. https://doi.org/10.3390/su10114279
+DEHKORDI, D.K., 2016. The Effects of Superabsorbent Polymers on Soils and Plants.
+DENIER, J., FAUCON, M.-P., DULAURENT, A.-M., GUIDET, J., KERVROËDAN, L.,
+LAMERRE, J., HOUBEN, D., 2022. Earthworm communities and microbial metabolic
+activity and diversity under conventional, feed and biogas cropping systems as affected by
+tillage
+
+practices.
+
+Applied
+
+Soil
+
+Ecology
+
+169,
+
+104232.
+
+https://doi.org/10.1016/j.apsoil.2021.104232
+DINGLEY, C., CASS, P., ADHIKARI, B., DAVER, F., 2024. Application of superabsorbent
+natural polymers in agriculture. Polymers from Renewable Resources 15, 210–255.
+https://doi.org/10.1177/20412479231226166
+
+EARTHHOW. (2024). [online] Strip cropping: The benefits of green stripes, Earth How.
+Dostupné z: https://earthhow.com/strip-cropping/ [cit.: 03 July 2024].
+EKEBAFE, L.O., OGBEIFUN, D.E., OKIEIMEN, F.E., 2011. Polymer Applications in
+Agriculture 23.
+EL-BELTAGI, H.S., BASIT, A., MOHAMED, H.I., ALI, I., ULLAH, S., KAMEL, E.A.R.,
+SHALABY, T.A., RAMADAN, K.M.A., ALKHATEEB, A.A., GHAZZAWY, H.S., 2022.
+England, N. (2024). [online] Minimum tillage soil cultivation, Flickr. Dostupné z:
+https://www.flickr.com/photos/naturalengland/6764890449
+Mulching as a Sustainable Water and Soil Saving Practice in Agriculture: A Review.
+Agronomy 12, 1881. https://doi.org/10.3390/agronomy12081881
+HLAVČOVÁ, K., DANÁČOVÁ, M., KOHNOVÁ, S., SZOLGAY, J., VALENT, P.,
+VÝLETA, R., 2019. Estimating the effectiveness of crop management on reducing flood risk
+and sediment transport on hilly agricultural land – A Myjava case study, Slovakia. CATENA
+172, 678–690. https://doi.org/10.1016/j.catena.2018.09.027
+IQBAL, R., RAZA, M.A.S., VALIPOUR, M., SALEEM, M.F., ZAHEER, M.S., AHMAD,
+S., TOLEIKIENE, M., HAIDER, I., ASLAM, M.U., NAZAR, M.A., 2020. Potential
+agricultural and environmental benefits of mulches—a review. Bull Natl Res Cent 44, 75.
+https://doi.org/10.1186/s42269-020-00290-3
+JAMAL, A., HUSSAIN, SADAM, HUSSAIN, SADDAM, MATLOOB, A., AWAN, T.H.,
+IRSHAD, F., ALI, B., WARAICH, E., 2022. Super absorbent polymer application under
+suboptimal environments: implications and challenges for marginal lands and abiotic stresses.
+Turkish Journal of Agriculture and Forestry 46, 662–676. https://doi.org/10.55730/1300011X.3034
+JASA, P., 2015. Tillage and No-Till Systems [online]. CropWatch. Dostupné z:
+https://cropwatch.unl.edu/tillage.
+JEDLICKA, M. (2021). [online] Kvalitní Orba Díky promyšlené konstrukci: Pluh Lemken
+Diamant 16 Jako úspěšný Pokračovatel Značky, www.agroportal24h.cz. Dostupné z:
+https://www.agroportal24h.cz/clanky/kvalitni-orba-diky-promyslene-konstrukci-pluh-lemkendiamant-16-jako-uspesny-pokracovatel-znacky
+
+KIATKAMJORNWONG, S., 2007. Superabsorbent Polymers and Superabsorbent Polymer
+Composites.
+
+ScienceAsia
+
+33(s1),
+
+039.
+
+https://doi.org/10.2306/scienceasia1513-
+
+1874.2007.33(s1).039
+KOVÁČ L. and JAKUBOVÁ J. (2015). Možnosti využívania minimalizácie v podmienkach
+Slovenska.
+
+Výskumný
+
+ústav
+
+agroekológie
+
+Michalovce.
+
+[online].
+
+Dostupné
+
+z:
+
+https://www.agroporadenstvo.sk/nove-poznatky-poda?article=614
+LLANES, L., DUBESSAY, P., PIERRE, G., DELATTRE, C., MICHAUD, P., 2020.
+Biosourced Polysaccharide-Based Superabsorbents. Polysaccharides 1, 51–79.
+https://doi.org/10.3390/polysaccharides1010005
+MALIK, S., CHAUDHARY, K., MALIK, A., PUNIA, H., SEWHAG, M., BERKESIA, N.,
+NAGORA, M., KALIA, S., MALIK, K., KUMAR, D., KUMAR, P., KAMBOJ, E.,
+AHLAWAT, V., KUMAR, A., BOORA, K., 2022. Superabsorbent Polymers as a Soil
+Amendment for Increasing Agriculture Production with Reducing Water Losses under Water
+Stress Condition. Polymers 15, 161. https://doi.org/10.3390/polym15010161
+MATHEW, R.P., FENG, Y., GITHINJI, L., ANKUMAH, R., BALKCOM, K.S., 2012.
+Impact of No-Tillage and Conventional Tillage Systems on Soil Microbial Communities.
+Applied and Environmental Soil Science 2012, 1–10. https://doi.org/10.1155/2012/548620
+MATUSHEK, C., 2019. History of Super Absorbent Polymer Chemistry [online]. | M 2
+Polymer Technologies Inc. Dostupné z: https://m2polymer.com/2019/02/history-of-superabsorbent-polymer-chemistry.
+MIYAJIMA, T., MATSUBARA, Y., KOMATSU, H., MIYAMOTO, M., SUZUKI, K., 2020.
+Development of a superabsorbent polymer using iodine transfer polymerization. Polym J 52,
+365–373. https://doi.org/10.1038/s41428-019-0292-2
+MUBVUMBA, P., DELAUNE, P.B., 2023. Water quality effects of cover crop, grazing and
+tillage implementation in a long-term no-till wheat system. Soil and Tillage Research 225,
+105547. https://doi.org/10.1016/j.still.2022.105547
+MUCHOVÁ, Z. (2024). Prehľad spoločných zariadení a opatrení a súvisiacej
+terminológie. Ústav krajinného inžinierstva, Fakulta záhradníctva a krajinného
+inžinierstva SPU v Nitre.
+
+NOVARA, A., SARNO, M., GRISTINA, L., 2021. No till soil organic carbon sequestration
+could be overestimated when slope effect is not considered. Science of The Total
+Environment 757, 143758. https://doi.org/10.1016/j.scitotenv.2020.143758
+OLADOSU, Y., RAFII, M.Y., AROLU, F., CHUKWU, S.C., SALISU, M.A., FAGBOHUN,
+I.K., MUFTAUDEEN, T.K., SWARAY, S., HALIRU, B.S., 2022. Superabsorbent Polymer
+Hydrogels
+
+for
+
+Sustainable
+
+Agriculture:
+
+A
+
+Review.
+
+Horticulturae
+
+8,
+
+605.
+
+https://doi.org/10.3390/horticulturae8070605
+OSTRAND, M.S., DESUTTER, T.M., DAIGH, A.L.M., LIMB, R.F., STEELE, D.D., 2020.
+Superabsorbent polymer characteristics, properties, and applications. Agrosystems Geosci &
+Env 3, e20074. https://doi.org/10.1002/agg2.20074
+PARVATHY, P.C., JYOTHI, A.N., JOHN, K.S., SREEKUMAR, J., 2014. Cassava Starch
+Based Superabsorbent Polymer as Soil Conditioner: Impact on Soil Physico‐Chemical and
+Biological Properties and Plant Growth. CLEAN Soil Air Water 42, 1610–1617.
+https://doi.org/10.1002/clen.201300143
+PÉREZ-ÁLVAREZ, L., RUIZ-RUBIO, L., LIZUNDIA, E., VILAS-VILELA, J.L., 2019.
+Polysaccharide-Based Superabsorbents: Synthesis, Properties, and Applications, in: Mondal,
+Md.I.H. (Ed.), Cellulose-Based Superabsorbent Hydrogels, Polymers and Polymeric
+Composites: A Reference Series. Springer International Publishing, Cham, pp. 1393–1431.
+https://doi.org/10.1007/978-3-319-77830-3_46
+Tillage and Growing: The Value of No-Till Farming. [online] Croptracker. Dostupné z:
+https://www.croptracker.com/blog/tillage-and-growing-the-value-of-no-till-farming.html
+POSPIŠIL, R. (2020). Pôdoochranné technológie obrábania pôdy. Životné prostredie.
+[online]. 54, 2, p. 83– 89. Dostupné z:
+http://publikacie.uke.sav.sk/sites/default/files/ZP_2020_02_83_89_pospisil.pdf.
+QURESHI, M.A., NISHAT, N., JADOUN, S., ANSARI, M.Z., 2020. Polysaccharide based
+superabsorbent hydrogels and their methods of synthesis: A review. Carbohydrate Polymer
+Technologies and Applications 1, 100014. https://doi.org/10.1016/j.carpta.2020.100014
+RATTAN, B., DHOBALE, K.V., SAHA, A., GARG, A., SAHOO, L., SREEDEEP, S., 2022.
+Influence of inorganic and organic fertilizers on the performance of water-absorbing polymer
+
+amended soils from the perspective of sustainable water use efficiency. Soil and Tillage
+Research 223, 105449. https://doi.org/10.1016/j.still.2022.105449
+SAHA, A., SEKHARAN, S., MANNA, U., 2020. Superabsorbent hydrogel (SAH) as a soil
+amendment for drought management: A review. Soil and Tillage Research 204, 104736.
+https://doi.org/10.1016/j.still.2020.104736
+SKINNER, C., GATTINGER, A., KRAUSS, M., KRAUSE, H.-M., MAYER, J., VAN DER
+HEIJDEN, M.G.A., MÄDER, P., 2019. The impact of long-term organic farming on soilderived greenhouse gas emissions. Sci Rep 9, 1702. https://doi.org/10.1038/s41598-01838207-w
+SOANE, B.D., BALL, B.C., ARVIDSSON, J., BASCH, G., MORENO, F., ROGERESTRADE, J., 2012. No-till in northern, western and south-western Europe: A review of
+problems and opportunities for crop production and the environment. Soil and Tillage
+Research 118, 66–87. https://doi.org/10.1016/j.still.2011.10.015
+SOTTOSANTI, K., n.d. Windbreak | Definition, Types, Uses, Benefits, & Facts | Britannica
+[online]. Dostupné z: https://www.britannica.com/topic/windbreak.
+SPEARS, S., 2018. What is No-Till Farming? Regeneration International. URL
+https://regenerationinternational.org/2018/06/24/no-till-farming/.
+STEWARD, R.E. (2023). Agricultural technology - Secondary tillage. [online] Encyclopedia
+Britannica.
+
+Dostupné
+
+z:
+
+https://www.britannica.com/technology/agricultural-technology/Secondary-tillage.
+SUGANYA, K., JERLIN, R. and RAJA, K. (2020). Effect of Super Absorbent
+Polymercoating on Seed Yield and Quality of Green Gram (Vigna radiata L.) Under Field
+Condition OPEN ACCESS. (2020). SF Plant Science and Seed Research, [online] 1.
+Dostupné z: https://scienceforecastoa.com/Articles/PSSR-V1-E1-1002.pdf.
+Super Absorbent Polymer. [online] Super Absorbent Polymer (SAP)-Henan SECCO
+Environmental Protection Technology Co., Ltd. Dostupné z: https://www.hnsecco.com/SuperAbsorbent-Polymer-SAP.html
+TALUKDAR, N., PAUL, A., SARMA, H.H., KAKOTI, M., 2023. Agronomic Practices for
+Soil Conservation. pp. 157–172.
+
+TYPES
+
+OF
+
+DROUGHT.
+
+(2015).
+
+[online]
+
+UNL
+
+Water.
+
+Dostupné
+
+z:
+
+https://water.unl.edu/drought/typesofdrought
+Undercutting: Kills Resistant Weeds Without Disturbing Soil Residue [online]. Dostupné z:
+https://www.no-tillfarmer.com/articles/7720-undercutting-kills-resistant-weeds-withoutdisturbing-soil-residue.
+University, C.M. [online]. Super-absorbing polymer powder - gelfand center - carnegie
+Mellon University, Super-Absorbing Polymer Powder - Gelfand Center - Carnegie Mellon
+University. Dostupné z:
+https://www.cmu.edu/gelfand/lgc-educational-media/polymers/polymer-and-absorption/
+super-absorb-powder.html
+Water treatment solutions. [online] Lenntech Water treatment & purification. Dostupné z:
+https://www.lenntech.com/water-food-agriculture
+What
+
+are
+
+the
+
+examples
+
+of
+
+agroforestry?
+
+[online]
+
+Quora.
+
+Dostupné
+
+z:
+
+https://www.quora.com/What-are-the-examples-of-agroforestry
+XI, J., ZHANG, P., 2021. Application of Super Absorbent Polymer in the Research of Waterretaining and Slow-release Fertilizer. IOP Conf. Ser.: Earth Environ. Sci. 651, 042066.
+https://doi.org/10.1088/1755-1315/651/4/042066
+YANG, M., WU, J., GRAHAM, G.M., LIN, J., HUANG, M., 2021. Hotspots, Frontiers, and
+Emerging Trends of Superabsorbent Polymer Research: A Comprehensive Review. Front.
+Chem. 9, 688127. https://doi.org/10.3389/fchem.2021.688127
+YANG, S., DONG, Y., SONG, X., WU, H., ZHAO, X., YANG, J., CHEN, S., SMITH, J.,
+ZHANG, G.-L., 2022. Vertical distribution and influencing factors of deep soil organic
+carbon in a typical subtropical agricultural watershed. Agriculture, Ecosystems &
+Environment 339, 108141. https://doi.org/10.1016/j.agee.2022.108141
+YANG, Y., LIANG, Z., ZHANG, R., ZHOU, S., YANG, H., CHEN, Y., ZHANG, J., YIN,
+H., YU, D., 2024. Research Advances in Superabsorbent Polymers. Polymers 16, 501.
+https://doi.org/10.3390/polym16040501
+YANG, Y., ZHANG, S., WU, J., GAO, C., LU, D., TANG, D.W.S., 2022. Effect of long term
+application of super absorbent polymer on soil structure, soil enzyme activity, photosynthetic
+
+characteristics, water and nitrogen use of winter wheat. Front. Plant Sci. 13, 998494.
+https://doi.org/10.3389/fpls.2022.998494
+YU, H.-Y., PENG, W.-Y., MA, X., ZHANG, K.-L., 2011. [Effects of no-tillage on soil water
+content and physical properties of spring corn fields in semiarid region of northern China].
+Ying Yong Sheng Tai Xue Bao 22, 99–104.
+YU, J., SHI, J.G., MA, X., DANG, P.F., YAN, Y.L., MAMEDOV, A.I., SHAINBERG, I.,
+LEVY, G.J., 2017. Superabsorbent Polymer Properties and Concentration Effects on Water
+Retention under Drying Conditions. Soil Science Society of America Journal 81, 889–901.
+https://doi.org/10.2136/sssaj2016.07.0231
+ZÁVODSKÝ, L. (2020). Orba a hĺbkové kyprenie pôd. Roľnícke noviny – Internetový
+poľnohospodársky portál. [online] https://rno.sk/. Dostupné z: https://rno.sk/orba-a-hlbkovekyprenie-pod/
+ZHENG, H., MEI, P., WANG, W., YIN, Y., LI, H., ZHENG, M., OU, X., CUI, Z., 2023.
+Effects of super absorbent polymer on crop yield, water productivity and soil properties: A
+global
+
+meta-analysis.
+
+Agricultural
+
+Water
+
+Management
+
+282,
+
+108290.
+
+https://doi.org/10.1016/j.agwat.2023.108290
+ZOHURIAAN, J., KABIRI, K., 2008. Superabsorbent Polymer Materials: A Review. Iranian
+Polymer Journal (English Edition) 17.
+
+
