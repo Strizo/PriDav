@@ -50,9 +50,5 @@ for bc_path in glob.glob("prace/*,bakalarka.txt"):
 print(results)
 df = pd.DataFrame(results).dropna()
 
-df[["bc_entropy", "dip_entropy"]].info()
-diff = df["bc_entropy"] - df["dip_entropy"]
-print(diff.describe())
-
 stat, p = wilcoxon(df["bc_entropy"], df["dip_entropy"], alternative="greater")
 print(stat, p)
