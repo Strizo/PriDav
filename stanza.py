@@ -1,3 +1,10 @@
+import sys
+
+path = sys.argv[1]
+
+with open(path, "r") as f:
+    text = f.read()
+
 stanza.download("sk")
 nlp = stanza.Pipeline("sk", processors="tokenize,pos,lemma")
 
@@ -9,3 +16,5 @@ def lemmatize(text: str) -> str:
             lemma = (w.lemma or "").lower()
             lemmas.append(lemma)
     return " ".join(lemmas)
+
+print(lemmatize(text))
