@@ -1,12 +1,12 @@
 import numpy as np
-from scipy.stats import entropy
+from scipy.stats import entropy, wilcoxon
+import pandas as pd
 import stanza
 import glob
 import os
 
 # stanza.download("sk")
 nlp = stanza.Pipeline("sk", processors="tokenize", tokenize_no_ssplit=False)
-print("Running my file")
 
 def sentence_lengths(text):
     doc = nlp(text)
@@ -44,5 +44,11 @@ for bc_path in glob.glob("prace/*,bakalarka.txt"):
     results.append({
         "student": os.path.basename(bc_path).split(",")[0],
         "bc_entropy": sentence_length_entropy(bc_lengths),
-        "mgr_entropy": sentence_length_entropy(dip_lengths),
+        "dip_entropy": sentence_length_entropy(dip_lengths),
     })
+
+print(results)
+df = pd.DataFrame(results).dropna()
+
+stat, p = wilcoxon(df["bc_entropy"], df["dip_entropy"], alternative="greater")
+print(stat, p)
