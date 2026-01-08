@@ -10,3 +10,4 @@ Dobre hopefully vsetci viete ako tak s gitom narabat lebo ked nie tak sa nezaruc
 - práce po 2022 budú mať výrazne väčšiu entropiu slov ako práce predtým, keďže AI má lepšiu slovnú zásobu. Samozrejme študentovi sa mohla zvýšiť slovná zásoba, preto nás zaujíma výrazný (až podozrivý) rozdiel
 - rozdelenie dĺžok viet má v diplomových prácach nižšiu entropiu ako v bakalárskych (kvôli zásahu LLM)
 - diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
+- v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
