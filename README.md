@@ -280,9 +280,10 @@ Tiež je možné, že autori už majú skúsenosti s písaním prác v dobe pred
 V oboch hypotézach boli entropie vyššie u diplomových prác, avšak málo signifikantne.
 Možno by pomohol väčší dataset, ktorý by pomohol priradiť štatistickú signifikanciu aj pre namerané minimálne rozdiely.
 
+---
+
 Na otestovanie hypotéz 4., 5. a 6. sme použili Wilcoxonov test. Základný dôvod na to je, že dáta sú párové (bakalárske a diplomové práce) a pozorovania nie sú úplne nezávislé. Preto by nebolo správne použiť napr. t-test alebo z-test. Taktiež metriky, s ktorými sme pracovali, majú aj veľa extrémnych hodnôt, šikmé rozdelenie a výhodou Wilcoxonovho testu je, že nepredpokladá normalitu dát.
 
----
 ### Hypotéza 4: entropia dĺžok viet
 
 Najprv sme sa zamerali na počty slov vo vetách. Domnievame sa, že počty slov vo vetách v textoch generovaných pomocou LLM majú menšiu entropiu, ako počty slov vo vetách v textoch napísaných len človekom. Jazykové modely majú totiž tendenciu písať podobne dlhé vety a veľmi nepoužívajú príliš krátke alebo príliš dlhé vety. To sa môže líšiť od ľudského spôsobu vyjadrovania. Pomocou Wilcoxonovho testu sme zistili, či je tento rozdiel entropií nejako štatisticky významný. V prípade, že by bola p hodnota menšia ako 0.05 by išlo o štatistickú významnosť. Výsledky však ukázali presný opak. P-hodnota vyšla približne 0.978 a ukázalo sa, že skôr pri bakalárskych prácach mali dĺžky viet väčšiu entropiu ako pri diplomových. Môže to byť spôsobené práve tým, že pri diplomových prácach sa vyžaduje presnejšie vyjadrovanie, prípadne študenti už mali väčšie skúsenosti s písaním práce. Kód testujúci túto hypotézu sa nachádza v súbore `sentence_lengths.py`.
