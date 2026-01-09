@@ -154,6 +154,7 @@ Testované boli nasledujúce modely:
 4. Naivný Bayesovský klasifikátor (Gaussian Naive Bayes).
 
 Ako hlavná hodnotiaca metrika bola použitá **balanced accuracy**, ktorá je vhodná pri nevyvážených triedach, keďže zohľadňuje úspešnosť klasifikácie oboch tried samostatne.
+
 ---
 #### Výsledky Leave-One-Out Cross-Validation
 
