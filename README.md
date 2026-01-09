@@ -16,13 +16,12 @@ písania (napríklad frekvencie k-tic písmen v nejakom úseku textu) skúste od
 
 ## Hypotézy
 
-1.  pozrieme sa na vyskyt n-gramov v danych pracach postupom rokov (bolo by za potreba velmi vela dat aby davalo aspon trochu zmysel typujem) a hypoteza bude ze sa samozrejme budu menit postupom rokov ako sa meni jazyk ale po roku 2022 nastanu vyraznejsie zmeny zmena nieco take
-2.  Ai-cka si casto vymyslavala linky takze vedeli by sme predpokladat ze prace po 2022 budu mat vacsi vyskyt neexistujucich linkov (aj ked problemom moze byt ze pri tych starsich aj ked vtedy existovali uz nemusia)
-3. práce po 2022 budú mať výrazne väčšiu entropiu slov ako práce predtým, keďže AI má lepšiu slovnú zásobu. Samozrejme študentovi sa mohla zvýšiť slovná zásoba, preto nás zaujíma výrazný rozdiel
-4. podobne by práce po 2022 mali mať vyššiu entropiu druhov viet podľa štruktúry, keďže čerpá zo štylistyky viac autorov. Tiež nás zaujíma iba štatisticky významný rozdiel 
-5. rozdelenie dĺžok viet má v diplomových prácach nižšiu entropiu ako v bakalárskych (kvôli zásahu LLM)
-6. diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
-7. v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
+1.  Ai-cka si casto vymyslavala linky takze vedeli by sme predpokladat ze prace po 2022 budu mat vacsi vyskyt neexistujucich linkov (aj ked problemom moze byt ze pri tych starsich aj ked vtedy existovali uz nemusia)
+2. práce po 2022 budú mať výrazne väčšiu entropiu slov ako práce predtým, keďže AI má lepšiu slovnú zásobu. Samozrejme študentovi sa mohla zvýšiť slovná zásoba, preto nás zaujíma výrazný rozdiel
+3. podobne by práce po 2022 mali mať vyššiu entropiu druhov viet podľa štruktúry, keďže čerpá zo štylistyky viac autorov. Tiež nás zaujíma iba štatisticky významný rozdiel 
+4. rozdelenie dĺžok viet má v diplomových prácach nižšiu entropiu ako v bakalárskych (kvôli zásahu LLM)
+5. diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
+6. v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
 
 
 ## Dáta
@@ -126,7 +125,88 @@ Na to nám pomohol program `pdftotext` z knižnice `Poppler`.
 
 ## Metodológia a výsledky
 
-### Hypotéza 3: entropia slovnej zásoby
+### Hypotéza 1: predikovateľnosť obdobia vzniku práce podľa validity internetových zdrojov
+
+Táto hypotéza sa zameriava na predpoklad, že používanie generatívnych jazykových modelov (LLM) pri písaní záverečných prác sa môže prejaviť zvýšeným výskytom neexistujúcich alebo nefunkčných internetových zdrojov. Tento jav je známy najmä z počiatočných verzií LLM, ktoré mali tendenciu generovať vierohodne vyzerajúce, avšak fiktívne referencie.
+
+Premisou tejto hypotézy je tvrdenie, že práce vytvorené v období rozšíreného používania generatívnej AI (rok 2023 a neskôr) sa dajú odlíšiť od starších prác na základe štatistických charakteristík internetových odkazov, najmä:
+- počtu všetkých URL,
+- počtu nefunkčných URL,
+- podielu nefunkčných URL,
+- zastúpenia jednotlivých typov chýb (napr. HTTP 404, timeout, SSL).
+
+Formálne testujeme hypotézu, či na základe týchto znakov vieme predikovať, či práca vznikla:
+- **pred rokom 2023**,  
+- alebo **v roku 2023 a neskôr**.
+---
+### Postup overenia hypotézy
+
+Každá práca bola reprezentovaná jedným riadkom agregovaných dát, pričom výsledný dataset obsahoval 38 prác. Cieľová premenná bola binárna:
+- 0 – práca vznikla pred rokom 2023,  
+- 1 – práca vznikla v roku 2023 alebo neskôr.
+
+Vzhľadom na obmedzený počet dát bolo zvolené hodnotenie pomocou **Leave-One-Out Cross-Validation (LOOCV)**, kde sa postupne trénuje na \(n-1\) vzorkách a jedna vzorka slúži ako validačná.
+
+Testované boli nasledujúce modely:
+1. Logistická regresia (lineárna),
+2. Logistická regresia s polynomiálnymi znakmi 2. stupňa,
+3. Logistická regresia s polynomiálnymi znakmi 3. stupňa,
+4. Naivný Bayesovský klasifikátor (Gaussian Naive Bayes).
+
+Ako hlavná hodnotiaca metrika bola použitá **balanced accuracy**, ktorá je vhodná pri nevyvážených triedach, keďže zohľadňuje úspešnosť klasifikácie oboch tried samostatne.
+---
+### Výsledky Leave-One-Out Cross-Validation
+
+Výsledky LOOCV boli nasledovné:
+
+- **Logistická regresia s polynomiálnymi znakmi 3. stupňa**  
+  - accuracy: 0.763  
+  - balanced accuracy: **0.767**  
+  - precision (≥ 2023): 0.824  
+  - recall (≥ 2023): 0.700  
+
+- Logistická regresia s polynomiálnymi znakmi 2. stupňa  
+  - balanced accuracy: 0.711  
+
+- Naivný Bayesovský klasifikátor  
+  - balanced accuracy: 0.717  
+
+- Logistická regresia (lineárna)  
+  - balanced accuracy: 0.658  
+
+Najlepší výsledok dosiahla logistická regresia s polynomiálnymi znakmi 3. stupňa, ktorá bola preto zvolená ako finálny model.
+---
+### Overenie na testovacej množine
+
+Zvolený model bol následne natrénovaný na spojení **tréningovej a validačnej množiny** a vyhodnotený na samostatnej testovacej množine.
+
+Testovacia množina obsahovala iba 4 práce, čo výrazne obmedzuje štatistickú výpovednú hodnotu výsledkov. Napriek tomu boli dosiahnuté nasledovné metriky:
+
+- accuracy: 0.500  
+- balanced accuracy: **0.667**  
+- precision (≥ 2023): 1.000  
+- recall (≥ 2023): 0.333  
+
+Model v tomto prípade správne identifikoval všetky práce klasifikované ako novšie, avšak s nízkou citlivosťou (recall), čo je dôsledkom veľmi malého počtu vzoriek v testovacej množine.
+---
+### Diskusia výsledkov
+
+Výsledky naznačujú, že charakteristiky nefunkčných internetových odkazov nesú určitú informáciu o období vzniku práce, keďže model dosiahol výrazne lepšie výsledky než náhodná klasifikácia, najmä v rámci LOOCV.
+
+Zároveň je však potrebné zdôrazniť:
+- malý počet vzoriek,
+- veľmi malú testovaciu množinu,
+- a potenciálnu heterogenitu správania autorov pri používaní AI nástrojov.
+
+Výsledky preto nemožno interpretovať ako dôkaz systematického používania AI, ale skôr ako náznak existencie slabého signálu, ktorý by pri väčšom datasete mohol viesť k štatisticky robustnejším záverom.
+---
+### Záver hypotézy
+
+Na základe vykonaných experimentov možno konštatovať, že:
+- hypotézu o možnosti rozlíšenia obdobia vzniku práce na základe validity internetových zdrojov **nie je možné jednoznačne potvrdiť ani vyvrátiť**,  
+- avšak získané výsledky naznačujú, že daný prístup je **potenciálne informatívny** a zasluhuje si ďalší výskum na väčšej dátovej množine.
+
+### Hypotéza 2: entropia slovnej zásoby
 
 Táto hypotéza sa zameriava na globálnu tendenciu používať viac generatívne AI na písanie prác. 
 Premisou tejto hypotézy je fakt, že AI bolo natrénované na veľkom množstve autorov, preto bude niesť zjednotenie množstva slovných zásob.
@@ -162,7 +242,7 @@ Tu je vrchol distribúcie veľmi tesne pri sebe, pričom skôr vyšší pri dipl
 
 Rozdiel distribúcií $dip - bak$, vidíme, že stred distribúcie leží na nule a jemne doprava. 
 
-### Hypotéza 4: entropia druhov viet
+### Hypotéza 3: entropia druhov viet
 
 Táto hypotéza vychádza z rovnakej premisy ako hypotéza 3, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
 Preto skúmame, či by sa to malo preukázať v zvýšenej entropii druhov viet v diplomovvých prácach oproti bakalárskym.
