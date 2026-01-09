@@ -7,7 +7,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import (
     accuracy_score, balanced_accuracy_score,
     precision_score, recall_score, f1_score,
-    confusion_matrix, classification_report
+    confusion_matrix
 )
 
 def featury(df: pd.DataFrame) -> pd.DataFrame:
