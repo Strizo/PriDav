@@ -14,7 +14,6 @@ from sklearn.metrics import (
     recall_score,
     f1_score,
     confusion_matrix,
-    classification_report,
 )
 
 
@@ -115,7 +114,7 @@ def main():
     f1 = f1_score(y_test, y_pred, zero_division=0)
     cm = confusion_matrix(y_test, y_pred)
 
-    print("=== Výsledok na TEST sete ===")
+    print("=== TEST ===")
     print("Trieda 1 = rok >= 2023")
     print(f"accuracy          : {acc:.3f}")
     print(f"balanced_accuracy : {bacc:.3f}")
@@ -124,8 +123,6 @@ def main():
     print(f"f1 (class1)       : {f1:.3f}")
     print("confusion matrix [ [TN FP], [FN TP] ]:")
     print(cm)
-
-    print("\n--- classification report ---")
 
 if __name__ == "__main__":
     main()

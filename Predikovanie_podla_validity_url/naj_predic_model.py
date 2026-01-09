@@ -137,10 +137,5 @@ def main():
         print("  confusion matrix [ [TN FP], [FN TP] ]:")
         print(f"  {r['cm']}")
 
-    best = vysledky_sorted[0]
-    print("\n👉 Najlepší podľa balanced_accuracy:")
-    print(f"  {best['model']}  (balanced_accuracy={best['balanced_accuracy']:.3f})")
-
-
 if __name__ == "__main__":
     main()

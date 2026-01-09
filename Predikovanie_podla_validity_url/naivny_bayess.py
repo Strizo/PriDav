@@ -92,7 +92,7 @@ def main():
     print(f"f1   : {f1:.3f}")
     print("cm   : [[TN FP],[FN TP]]")
     print(cm)
-    print("\nreport:")
+
 
 if __name__ == "__main__":
     main()

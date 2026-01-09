@@ -25,10 +25,6 @@ def extract_urls(text: str) -> list[str]:
     return urls
 
 def find_year_in_text(text: str):
-    """
-    Prejde text po "slovách" a vráti prvé číslo v intervale (2000, 2027),
-    t.j. 2001..2026. Ak nenájde, vráti NaN.
-    """
 
     for tok in re.findall(r"\d+", text):
         try:
@@ -40,11 +36,6 @@ def find_year_in_text(text: str):
     return float("nan")
 
 def degree_from_filename(file_path: Path):
-    """
-    Očakávaný názov: 'nieco,bakalarka.txt' alebo 'nieco,diplomovka.txt'
-    (časť 'nieco' neobsahuje čiarky).
-    Vráti 'bakalarka' / 'diplomovka' alebo NaN.
-    """
     stem = file_path.stem 
     if "," not in stem:
         return float("nan")
@@ -64,7 +55,9 @@ def check_url(url: str, timeout: float) -> tuple[bool, str]:
     try:
         r = requests.head(url, allow_redirects=True, timeout=timeout, headers=headers)
         if r.status_code in (405, 403) or r.status_code >= 500:
+#            print("wtf")
             r = requests.get(url, allow_redirects=True, timeout=timeout, headers=headers, stream=True)
+
         code = r.status_code
         return (code < 400), f"HTTP {code}"
     except requests.exceptions.SSLError:
@@ -179,15 +172,12 @@ def main():
         else:
             bad_count += 1
 
-    print("\n=== SUMÁR ===")
-    print(f"Spolu URL:        {len(found)}")
-    print(f"Dostupné (OK):    {ok_count}")
-    print(f"Nedostupné (BAD): {bad_count}")
 
+#    print('lol')
     if args.csv:
         out = Path(args.csv)
         write_csv(out, results_csv)
-        print(f"\nCSV uložené do: {out.resolve()}")
+        print('Funguje')
 
 if __name__ == "__main__":
     main()

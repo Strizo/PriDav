@@ -33,7 +33,6 @@ def main():
         .rename("pocet_prac")
     )
 
-    # --- čiara: priemer bad_rate na prácu v danom roku ---
     mean_bad_rate = (
         df.groupby("year", as_index=True)["bad_rate"]
         .mean()
@@ -41,8 +40,6 @@ def main():
         .rename("mean_bad_rate")
     )
 
-    # --- kĺzavý priemer (vyhladenie) ---
-    # center=True -> hodnota je "v strede okna" (vizuálne najčistejšie)
     ma_window = max(1, int(args.ma))
     mean_bad_rate_ma = (
         mean_bad_rate.rolling(window=ma_window, center=True, min_periods=1).mean()
