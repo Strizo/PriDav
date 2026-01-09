@@ -122,16 +122,32 @@ Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prá
 | Ekonómia a manažment                                                                                                                                                      | Alena        | Mižíková        | Analýza využívania metodík projektového riadenia v závislosti od typu projektu a prostredia jeho realizácie | Digitálna transformácia práce - výzvy a riziká                                                                                          |
 
 
-## Výsledky
+## Metodológia a výsledky
 
 ### Hypotéza 3: entropia slovnej zásoby
 
 Táto hypotéza sa zameriava na globálnu tendenciu používať viac generatívne AI na písanie prác. 
 Premisou tejto hypotézy je fakt, že AI bolo natrénované na veľkom množstve autorov, preto bude niesť zjednotenie množstva slovných zásob.
 Tým pádom slovná zásoba akéhokoľvek jednotlivca by mala byť podmnožinou tej AI.
+To by sa malo preukázať v zvýšenej entropii v diplomovvých prácach oproti tým bakalárskym.
 
 Na overenie tejto hypotézy potrebujeme uskutočniť:
 1. Všetky slová z každej práce transformovať do gramaticky neutrálnej podoby
 2. Pre každú prácu vypočítať entropiu z počtov rovnakých slov vrámci práce
 3. Štatisticky overiť signifikantnosť výsledkov
 
+Prvý krok vykonáva program `lemmatization.py`, ktorý načíta knižnicu `stanza` v slovenskom jazyku a vypíše výsledný text.
+Knižnica používa na túto úlohu neurónovú sieť, ktorá avšak neuvádza 100% presné výsledky.
+To nám však neprekáža, pretože chyby robí pomerne konzistentne, inak vysloňované slovo s rovnakým základom stále uvedie do rovnakého tvaru.
+
+Druhý krok vykonáva program `word_entropy.py`, ktorý si slová ukladá do `dictionary` a z nich vypočíta pravdepodobnosti pre funkciu `scipy.stats.entropy`.
+Výsledné entropie vypíše vo formáte `.csv`.
+
+Tretí krok vykonáva `statistics.py`, ten najprv overí normalitu dát pomocou Shapiro-Wilk testu.
+Ak dáta výjdu normálne v oboch distribúciach pre bakalárske aj diplomové práce, použije párový T-test.
+Ak aspoň jedna nevýjde, použije radšej neparametrický párový Wilcoxonov test.
+Tiež vykreslí histogramy pre porovnanie distribúcií.
+
+Dáta pre diplomové práce nevyšli normálne, čiže bol použitý Wilcoxonov test. Ten ukázal $p-value \approx 0.9$, 
+čiže hypotézu H_0 : distribúcie sú identické zamietnuť nemôžme.
+To potvrdzuje aj očný test na grafoch:
