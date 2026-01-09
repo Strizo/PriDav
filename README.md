@@ -139,7 +139,7 @@ Formálne testujeme hypotézu, či na základe týchto znakov vieme predikovať,
 - **pred rokom 2023**,  
 - alebo **v roku 2023 a neskôr**.
 ---
-### Postup overenia hypotézy
+#### Postup overenia hypotézy
 Samozrejme začneme s tým že si to vykreslíme do grafou a či sa z toho nedá niečo spraviť metódou pozriem a až potom nakódim. Týmto som došiel k nasledujúcim obrázkom ktoré možno ešte prerobím tak aby tam aj boli legendy (update: spravne poposuvane).
 
 Následne sme si dáta rozdelil na 5 skupín:
@@ -165,7 +165,7 @@ Testované boli nasledujúce modely:
 
 Ako hlavná hodnotiaca metrika bola použitá **balanced accuracy**, ktorá je vhodná pri nevyvážených triedach, keďže zohľadňuje úspešnosť klasifikácie oboch tried samostatne.
 ---
-### Výsledky Leave-One-Out Cross-Validation
+#### Výsledky Leave-One-Out Cross-Validation
 
 Výsledky LOOCV boli nasledovné:
 
@@ -186,7 +186,7 @@ Výsledky LOOCV boli nasledovné:
 
 Najlepší výsledok dosiahla logistická regresia s polynomiálnymi znakmi 3. stupňa, ktorá bola preto zvolená ako finálny model.
 ---
-### Overenie na testovacej množine
+#### Overenie na testovacej množine
 
 Zvolený model bol následne natrénovaný na spojení **tréningovej a validačnej množiny** a vyhodnotený na samostatnej testovacej množine.
 
@@ -208,7 +208,7 @@ Ako porovnávací baseline bol otestovaný aj naivný Bayesovský model (Gaussia
 
 Z uvedených výsledkov je zrejmé, že pri veľmi malej testovacej množine môžu byť metriky výrazne nestabilné a citlivo závislé od jednotlivých príkladov.
 ---
-### Diskusia výsledkov
+#### Diskusia výsledkov
 
 Výsledky naznačujú, že charakteristiky nefunkčných internetových odkazov nesú určitú informáciu o období vzniku práce, keďže model dosiahol výrazne lepšie výsledky než náhodná klasifikácia, najmä v rámci LOOCV.
 
@@ -219,7 +219,7 @@ Zároveň je však potrebné zdôrazniť:
 
 Výsledky preto nemožno interpretovať ako dôkaz systematického používania AI, ale skôr ako náznak existencie slabého signálu, ktorý by pri väčšom datasete mohol viesť k štatisticky robustnejším záverom.
 ---
-### Záver hypotézy
+#### Záver hypotézy
 
 Na základe vykonaných experimentov možno konštatovať, že:
 - hypotézu o možnosti rozlíšenia obdobia vzniku práce na základe validity internetových zdrojov **nie je možné jednoznačne potvrdiť ani vyvrátiť**,  
