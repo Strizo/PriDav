@@ -139,7 +139,7 @@ Formálne testujeme hypotézu, či na základe týchto znakov vieme predikovať,
 - **pred rokom 2023**,  
 - alebo **v roku 2023 a neskôr**.
 ---
-### Postup overenia hypotézy
+#### Postup overenia hypotézy
 
 Každá práca bola reprezentovaná jedným riadkom agregovaných dát, pričom výsledný dataset obsahoval 38 prác. Cieľová premenná bola binárna:
 - 0 – práca vznikla pred rokom 2023,  
@@ -155,7 +155,7 @@ Testované boli nasledujúce modely:
 
 Ako hlavná hodnotiaca metrika bola použitá **balanced accuracy**, ktorá je vhodná pri nevyvážených triedach, keďže zohľadňuje úspešnosť klasifikácie oboch tried samostatne.
 ---
-### Výsledky Leave-One-Out Cross-Validation
+#### Výsledky Leave-One-Out Cross-Validation
 
 Výsledky LOOCV boli nasledovné:
 
@@ -176,7 +176,7 @@ Výsledky LOOCV boli nasledovné:
 
 Najlepší výsledok dosiahla logistická regresia s polynomiálnymi znakmi 3. stupňa, ktorá bola preto zvolená ako finálny model.
 ---
-### Overenie na testovacej množine
+#### Overenie na testovacej množine
 
 Zvolený model bol následne natrénovaný na spojení **tréningovej a validačnej množiny** a vyhodnotený na samostatnej testovacej množine.
 
@@ -189,7 +189,7 @@ Testovacia množina obsahovala iba 4 práce, čo výrazne obmedzuje štatistick�
 
 Model v tomto prípade správne identifikoval všetky práce klasifikované ako novšie, avšak s nízkou citlivosťou (recall), čo je dôsledkom veľmi malého počtu vzoriek v testovacej množine.
 ---
-### Diskusia výsledkov
+#### Diskusia výsledkov
 
 Výsledky naznačujú, že charakteristiky nefunkčných internetových odkazov nesú určitú informáciu o období vzniku práce, keďže model dosiahol výrazne lepšie výsledky než náhodná klasifikácia, najmä v rámci LOOCV.
 
@@ -200,7 +200,7 @@ Zároveň je však potrebné zdôrazniť:
 
 Výsledky preto nemožno interpretovať ako dôkaz systematického používania AI, ale skôr ako náznak existencie slabého signálu, ktorý by pri väčšom datasete mohol viesť k štatisticky robustnejším záverom.
 ---
-### Záver hypotézy
+#### Záver hypotézy
 
 Na základe vykonaných experimentov možno konštatovať, že:
 - hypotézu o možnosti rozlíšenia obdobia vzniku práce na základe validity internetových zdrojov **nie je možné jednoznačne potvrdiť ani vyvrátiť**,  
@@ -244,7 +244,7 @@ Rozdiel distribúcií $dip - bak$, vidíme, že stred distribúcie leží na nul
 
 ### Hypotéza 3: entropia druhov viet
 
-Táto hypotéza vychádza z rovnakej premisy ako hypotéza 3, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
+Táto hypotéza vychádza z rovnakej premisy ako hypotéza 2, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
 Preto skúmame, či by sa to malo preukázať v zvýšenej entropii druhov viet v diplomovvých prácach oproti bakalárskym.
 Druh vety identifikujeme stavbou vety podľa vetných členov.
 To nám vie umožniť opäť knižnica `stanza`.
@@ -257,9 +257,9 @@ Na overenie tejto hypotézy potrebujeme uskutočniť:
 Prvé dva kroky robí program `sent_entropy.py`, ktorý priamo vezme celý text, prevedie slová. 
 Takto zložené vety v stringoch používa ako kľúč v `dictionary`, ktorý ráta počet výskytov.
 Entropiu následne počíta identicky ako hypotéza 3.
-Rovnako ako hypotéza 3 prebieha aj 3. krok, čiže overenie štatistickej signifikantnosti výsledkov.
+Rovnako ako hypotéza 2 prebieha aj 3. krok, čiže overenie štatistickej signifikantnosti výsledkov.
 
-Tentokrát vyšiel Shapiro-Wilk test normálny pre obe distribúcia, čiže sme použili párový T-test.
+Tentokrát vyšiel Shapiro-Wilk test normálny pre obe distribúcie, čiže sme použili párový T-test.
 Tomu vyšla $p-value \approx 0.833$, čiže hypotézu $H_0 : \theta_{bak} = \theta_{dip}$ opäť zamietnuť nemôžme. 
 
 ![alt text](sent_both.png)
