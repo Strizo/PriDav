@@ -1,5 +1,6 @@
 from scipy.stats import shapiro, ttest_rel, wilcoxon
 import sys
+import matplotlib.pyplot as plt
 import pandas as pd
 
 path = sys.argv[1]
@@ -8,6 +9,7 @@ pairs = sys.argv[3]
 value = sys.argv[4]
 before = sys.argv[5]
 after = sys.argv[6]
+fig = sys.argv[7]
 
 df = pd.read_csv(path)
 
@@ -32,3 +34,13 @@ if normal:
     print(ttest_rel(data_b, data_a))
 else:
     print(wilcoxon(data_b, data_a))
+    
+plt.hist(data_a, alpha=0.5, label='Dip.') 
+plt.hist(data_b, alpha=0.5, label='Bak.') 
+plt.legend() 
+plt.savefig(fig+"_both.png")
+
+plt.figure()
+plt.hist(data_a.to_numpy() - data_b.to_numpy(), alpha=1, label='Difference') 
+plt.legend() 
+plt.savefig(fig+"_diff.png")

@@ -149,5 +149,11 @@ Ak aspoň jedna nevýjde, použije radšej neparametrický párový Wilcoxonov t
 Tiež vykreslí histogramy pre porovnanie distribúcií.
 
 Dáta pre diplomové práce nevyšli normálne, čiže bol použitý Wilcoxonov test. Ten ukázal $p-value \approx 0.9$, 
-čiže hypotézu $H_0 : \theta_bak = \theta_dip$ zamietnuť nemôžme.
+čiže hypotézu $H_0 : \theta_{bak} = \theta_{dip}$ zamietnuť nemôžme.
 To potvrdzuje aj očný test na grafoch:
+
+![alt text](word_both.png)
+Tu je vrchol distribúcie veľmi tesne pri sebe, pričom skôr vyšší pri diplomových prácach. 
+
+![alt text](word_diff.png)
+Rozdiel distribúcií $dip - bak$, vidíme, že stred distribúcie leží na nule a jemne doprava. 
