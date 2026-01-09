@@ -12,3 +12,14 @@ Dobre hopefully vsetci viete ako tak s gitom narabat lebo ked nie tak sa nezaruc
 5. rozdelenie dĺžok viet má v diplomových prácach nižšiu entropiu ako v bakalárskych (kvôli zásahu LLM)
 6. diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
 7. v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
+
+
+
+## Dáta
+
+Použitý dataset sa nachádza v priečinku `./prace`.
+Obsahuje 30 párov záverečných prác - diplomová práca a bakalárska práca od jedného autora.
+Práce zároveň spĺňajú pravidlo, že bakalárske práce boli napísané v rokoch 2022 a pred, pričom diplomové práce po roku 2022
+(vzhľadom na to že prvý generatívny AI model ChatGPT vznikol v novembri 2022).
+
+Dáta boli zozbierané zo stránky `https://opac.crzp.sk`. Stránka je nevhodná na web-scraping. Síce každá práca má vlastný link na stránke, hľadanie prác prebieha cez JavaScript app, čiže vyhľadávanie sa nedá určiť v URL a následne výsledky zobrazuje len 20 až 100 výsledkov naraz. 
