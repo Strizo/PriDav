@@ -176,6 +176,7 @@ Výsledky LOOCV boli nasledovné:
   - balanced accuracy: 0.658  
 
 Najlepší výsledok dosiahla logistická regresia s polynomiálnymi znakmi 3. stupňa, ktorá bola preto zvolená ako finálny model.
+
 ---
 #### Overenie na testovacej množine
 
@@ -189,6 +190,7 @@ Testovacia množina obsahovala iba 4 práce, čo výrazne obmedzuje štatistick�
 - recall (≥ 2023): 0.333  
 
 Model v tomto prípade správne identifikoval všetky práce klasifikované ako novšie, avšak s nízkou citlivosťou (recall), čo je dôsledkom veľmi malého počtu vzoriek v testovacej množine.
+
 ---
 #### Diskusia výsledkov
 
@@ -200,6 +202,7 @@ Zároveň je však potrebné zdôrazniť:
 - a potenciálnu heterogenitu správania autorov pri používaní AI nástrojov.
 
 Výsledky preto nemožno interpretovať ako dôkaz systematického používania AI, ale skôr ako náznak existencie slabého signálu, ktorý by pri väčšom datasete mohol viesť k štatisticky robustnejším záverom.
+
 ---
 #### Záver hypotézy
 
