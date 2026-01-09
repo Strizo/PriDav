@@ -83,7 +83,7 @@ def main():
     f1   = f1_score(y_tst, y_hat, zero_division=0)
     cm   = confusion_matrix(y_tst, y_hat)
 
-    print("=== TEST (GaussianNB) ===")
+    print("=== TEST ===")
     print("1 = rok >= 2023")
     print(f"acc  : {acc:.3f}")
     print(f"bacc : {bacc:.3f}")
