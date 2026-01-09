@@ -63,7 +63,7 @@ def year_to_bin(year_str: str) -> str:
         return "year_nan"
     if 2021 <= y <= 2022:
         return "2021-2022"
-    if 20023 <= y <= 2024:
+    if 2023 <= y <= 2024:
         return "2023-2024"
     return "year_other"
 
