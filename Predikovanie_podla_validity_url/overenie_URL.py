@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import csv
+import math
 import re
 import sys
 from pathlib import Path
@@ -11,14 +12,49 @@ import requests
 URL_RE = re.compile(r"""(?xi)\b(https?://[^\s<>"'(){}\[\]]+)""")
 TRAILING_PUNCT = ".,;:!?)]]}>'\""
 
+YEAR_MIN = 2000
+YEAR_MAX_EXCL = 2027  # < 2027
+
 def extract_urls(text: str) -> list[str]:
-    urls = []
+    urls: list[str] = []
     for m in URL_RE.finditer(text):
         u = m.group(1).strip().rstrip(TRAILING_PUNCT)
         p = urlparse(u)
         if p.scheme in ("http", "https") and p.netloc:
             urls.append(u)
     return urls
+
+def find_year_in_text(text: str):
+    """
+    Prejde text po "slovách" a vráti prvé číslo v intervale (2000, 2027),
+    t.j. 2001..2026. Ak nenájde, vráti NaN.
+    """
+    # tokenizácia: zoberieme sekvencie číslic (napr. aj z "2021," vyberie 2021)
+    for tok in re.findall(r"\d+", text):
+        try:
+            n = int(tok)
+        except ValueError:
+            continue
+        if YEAR_MIN < n < YEAR_MAX_EXCL:
+            return n
+    return float("nan")
+
+def degree_from_filename(file_path: Path):
+    """
+    Očakávaný názov: 'nieco,bakalarka.txt' alebo 'nieco,diplomovka.txt'
+    (časť 'nieco' neobsahuje čiarky).
+    Vráti 'bakalarka' / 'diplomovka' alebo NaN.
+    """
+    stem = file_path.stem  # bez prípony
+    if "," not in stem:
+        return float("nan")
+    left, right = stem.split(",", 1)
+    kind = right.strip().lower()
+    if "bakalarka" in kind:
+        return "bakalarka"
+    if "diplomovka" in kind:
+        return "diplomovka"
+    return float("nan")
 
 def iter_text_files(root: Path, exts: set[str]) -> list[Path]:
     return [p for p in root.rglob("*") if p.is_file() and p.suffix.lower() in exts]
@@ -40,25 +76,29 @@ def check_url(url: str, timeout: float) -> tuple[bool, str]:
     except Exception as e:
         return False, f"Error: {type(e).__name__}"
 
+def nan_to_str(x):
+    if isinstance(x, float) and math.isnan(x):
+        return "NaN"
+    return str(x)
+
 def write_csv(path: Path, rows: list[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = ["url", "ok", "info", "source_file"]
+    fieldnames = ["url", "ok", "info", "year", "typ_prace", "source_file"]
     with path.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
         w.writeheader()
         w.writerows(rows)
 
 def main():
-    ap = argparse.ArgumentParser(description="Extract URLs from text files and check connectivity.")
+    ap = argparse.ArgumentParser(description="Vytiahne URL z textov a skontroluje dostupnosť + export do CSV.")
     ap.add_argument("path", help="Priečinok alebo súbor")
     ap.add_argument("--ext", default=".txt,.md,.log",
                     help="Čiarkou oddelené prípony (default: .txt,.md,.log)")
     ap.add_argument("--timeout", type=float, default=8.0, help="Timeout v sekundách (default: 8)")
     ap.add_argument("--unique", action="store_true",
-                    help="Skontrolovať len unikátne URL (naprieč všetkými súbormi)")
+                    help="Skontrolovať len unikátne URL (naprieč všetkými súbormi) – berie prvý výskyt")
     ap.add_argument("--csv", default=None,
                     help="Cesta k CSV výstupu, napr. out.csv")
-
     args = ap.parse_args()
 
     target = Path(args.path)
@@ -69,48 +109,69 @@ def main():
         print(f"Neexistuje: {target}", file=sys.stderr)
         sys.exit(2)
 
-    if target.is_file():
-        files = [target]
-    else:
-        files = iter_text_files(target, exts)
+    files = [target] if target.is_file() else iter_text_files(target, exts)
 
-    # nazbierame URL + zdrojový súbor
-    found: list[tuple[str, str]] = []  # (url, source_file)
+    # Nazbierame URL + metadata zo súboru
+    found: list[dict] = []  # each: url, source_file, year, typ_prace
     for f in files:
         try:
             text = f.read_text(encoding="utf-8", errors="ignore")
-            for u in extract_urls(text):
-                found.append((u, str(f)))
         except Exception:
             continue
+
+        year = find_year_in_text(text)
+        typ = degree_from_filename(f)
+
+        urls = extract_urls(text)
+        if not urls:
+            continue
+
+        for u in urls:
+            found.append({
+                "url": u,
+                "source_file": str(f),
+                "year": year,
+                "typ_prace": typ
+            })
 
     if not found:
         print("Nenašli sa žiadne URL.")
         return
 
-    # unique naprieč všetkými súbormi (ponechá prvý výskyt a jeho source_file)
     if args.unique:
         seen = set()
         uniq = []
-        for u, src in found:
+        for row in found:
+            u = row["url"]
             if u not in seen:
                 seen.add(u)
-                uniq.append((u, src))
+                uniq.append(row)
         found = uniq
 
     results_csv: list[dict] = []
     ok_count = 0
     bad_count = 0
 
-    for i, (url, src) in enumerate(found, 1):
+    for i, row in enumerate(found, 1):
+        url = row["url"]
+        src = row["source_file"]
+        year = row["year"]
+        typ = row["typ_prace"]
+
         ok, info = check_url(url, args.timeout)
         status = "OK" if ok else "BAD"
-        print(f"[{i}/{len(found)}] {status:3} {url} ({info})  <- {src}")
+
+        print(
+            f"[{i}/{len(found)}] {status:3} {url} ({info})  "
+            f"<- {src} | rok={nan_to_str(year)} | typ={nan_to_str(typ)}"
+        )
 
         results_csv.append({
             "url": url,
             "ok": "1" if ok else "0",
             "info": info,
+            "year": nan_to_str(year),
+            "typ_prace": nan_to_str(typ),
             "source_file": src
         })
 
