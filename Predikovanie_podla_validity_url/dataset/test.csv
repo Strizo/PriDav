@@ -3,15 +3,3 @@ source_file,year,typ_prace,total_urls,bad_urls,bad_rate,bad_by_type_json,bad_by_
 "/Users/basic/PriDav/prace/kurillova,diplomovka.txt",2023,diplomovka,38,16,0.421053,"{""http_404"": 15, ""connection"": 1}","{""HTTP 404"": 15, ""Connection error"": 1}",2023-2024
 "/Users/basic/PriDav/prace/moravska,bakalarka.txt",2022,bakalarka,35,12,0.342857,"{""connection"": 2, ""http_404"": 6, ""ssl"": 1, ""http_410"": 1, ""http_403"": 1, ""http_5xx"": 1}","{""Connection error"": 2, ""HTTP 404"": 6, ""SSL error"": 1, ""HTTP 410"": 1, ""HTTP 403"": 1, ""HTTP 500"": 1}",2021-2022
 "/Users/basic/PriDav/prace/posvancz,diplomovka.txt",2024,diplomovka,16,6,0.375000,"{""http_403"": 2, ""ssl"": 1, ""http_404"": 2, ""http_406"": 1}","{""HTTP 403"": 2, ""SSL error"": 1, ""HTTP 404"": 2, ""HTTP 406"": 1}",2023-2024
-"/Users/basic/PriDav/prace/zigo,bakalarka.txt",2022,bakalarka,9,2,0.222222,"{""ssl"": 2}","{""SSL error"": 2}",2021-2022
-"/Users/basic/PriDav/prace/kissova,bakalarka.txt",2018,bakalarka,7,6,0.857143,"{""http_404"": 5, ""connection"": 1}","{""HTTP 404"": 5, ""Connection error"": 1}",year_other
-"/Users/basic/PriDav/prace/obuch,bakalarka.txt",2022,bakalarka,9,4,0.444444,"{""http_404"": 3, ""http_403"": 1}","{""HTTP 404"": 3, ""HTTP 403"": 1}",2021-2022
-"/Users/basic/PriDav/prace/mrazik,diplomovka.txt",2024,diplomovka,31,19,0.612903,"{""ssl"": 9, ""http_404"": 7, ""connection"": 3}","{""SSL error"": 9, ""HTTP 404"": 7, ""Connection error"": 3}",2023-2024
-"/Users/basic/PriDav/prace/hervay,bakalarka.txt",2022,bakalarka,7,3,0.428571,"{""http_404"": 2, ""connection"": 1}","{""HTTP 404"": 2, ""Connection error"": 1}",2021-2022
-"/Users/basic/PriDav/prace/marecek,bakalarka.txt",2021,bakalarka,14,7,0.500000,"{""connection"": 1, ""http_404"": 3, ""http_5xx"": 1, ""http_403"": 2}","{""Connection error"": 1, ""HTTP 404"": 3, ""HTTP 500"": 1, ""HTTP 403"": 2}",2021-2022
-"/Users/basic/PriDav/prace/mizikova,bakalarka.txt",2022,bakalarka,28,13,0.464286,"{""http_404"": 11, ""connection"": 2}","{""HTTP 404"": 11, ""Connection error"": 2}",2021-2022
-"/Users/basic/PriDav/prace/moravska,diplomovka.txt",2024,diplomovka,43,16,0.372093,"{""http_403"": 2, ""http_404"": 12, ""timeout"": 2}","{""HTTP 403"": 2, ""HTTP 404"": 12, ""Timeout"": 2}",2023-2024
-"/Users/basic/PriDav/prace/chladna,diplomovka.txt",2023,diplomovka,5,4,0.800000,"{""connection"": 1, ""http_404"": 3}","{""Connection error"": 1, ""HTTP 404"": 3}",2023-2024
-"/Users/basic/PriDav/prace/hervay,diplomovka.txt",2024,diplomovka,38,21,0.552632,"{""http_404"": 17, ""connection"": 1, ""http_403"": 1, ""ssl"": 2}","{""HTTP 404"": 17, ""Connection error"": 1, ""HTTP 403"": 1, ""SSL error"": 2}",2023-2024
-"/Users/basic/PriDav/prace/podracka,bakalarka.txt",2022,bakalarka,9,1,0.111111,"{""http_404"": 1}","{""HTTP 404"": 1}",2021-2022
-"/Users/basic/PriDav/prace/sismicova,diplomovka.txt",2024,diplomovka,8,7,0.875000,"{""http_404"": 4, ""connection"": 2, ""http_400"": 1}","{""HTTP 404"": 4, ""Connection error"": 2, ""HTTP 400"": 1}",2023-2024
