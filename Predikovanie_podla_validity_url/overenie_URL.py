@@ -13,7 +13,7 @@ URL_RE = re.compile(r"""(?xi)\b(https?://[^\s<>"'(){}\[\]]+)""")
 TRAILING_PUNCT = ".,;:!?)]]}>'\""
 
 YEAR_MIN = 2000
-YEAR_MAX_EXCL = 2027  # < 2027
+YEAR_MAX_EXCL = 2027 
 
 def extract_urls(text: str) -> list[str]:
     urls: list[str] = []
@@ -29,7 +29,7 @@ def find_year_in_text(text: str):
     Prejde text po "slovách" a vráti prvé číslo v intervale (2000, 2027),
     t.j. 2001..2026. Ak nenájde, vráti NaN.
     """
-    # tokenizácia: zoberieme sekvencie číslic (napr. aj z "2021," vyberie 2021)
+
     for tok in re.findall(r"\d+", text):
         try:
             n = int(tok)
@@ -45,7 +45,7 @@ def degree_from_filename(file_path: Path):
     (časť 'nieco' neobsahuje čiarky).
     Vráti 'bakalarka' / 'diplomovka' alebo NaN.
     """
-    stem = file_path.stem  # bez prípony
+    stem = file_path.stem 
     if "," not in stem:
         return float("nan")
     left, right = stem.split(",", 1)
@@ -111,8 +111,7 @@ def main():
 
     files = [target] if target.is_file() else iter_text_files(target, exts)
 
-    # Nazbierame URL + metadata zo súboru
-    found: list[dict] = []  # each: url, source_file, year, typ_prace
+    found: list[dict] = [] 
     for f in files:
         try:
             text = f.read_text(encoding="utf-8", errors="ignore")
