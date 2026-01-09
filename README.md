@@ -141,6 +141,11 @@ Formálne testujeme hypotézu, či na základe týchto znakov vieme predikovať,
 ---
 #### Postup overenia hypotézy
 Samozrejme začneme s tým že si to vykreslíme do grafou a či sa z toho nedá niečo spraviť metódou pozriem a až potom nakódim. Týmto som došiel k nasledujúcim obrázkom ktoré možno ešte prerobím tak aby tam aj boli legendy (update: spravne poposuvane).
+![alt text](/Predikovanie_podla_validity_url/obrazky/graf.png)
+
+![alt text](/Predikovanie_podla_validity_url/obrazky/graf2.png)
+
+Z tychto grafov sa nič nevyčítať moc nedalo a teda sme museli použiť iný spôsob ako nájsť vhodný predikčný model
 
 Následne sme si dáta rozdelil na 5 skupín:
 - train.csv (60% dát)
