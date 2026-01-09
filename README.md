@@ -125,3 +125,13 @@ Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prá
 ## Výsledky
 
 ### Hypotéza 3: entropia slovnej zásoby
+
+Táto hypotéza sa zameriava na globálnu tendenciu používať viac generatívne AI na písanie prác. 
+Premisou tejto hypotézy je fakt, že AI bolo natrénované na veľkom množstve autorov, preto bude niesť zjednotenie množstva slovných zásob.
+Tým pádom slovná zásoba akéhokoľvek jednotlivca by mala byť podmnožinou tej AI.
+
+Na overenie tejto hypotézy potrebujeme uskutočniť:
+1. Všetky slová z každej práce transformovať do gramaticky neutrálnej podoby
+2. Pre každú prácu vypočítať entropiu z počtov rovnakých slov vrámci práce
+3. Štatisticky overiť signifikantnosť výsledkov
+
