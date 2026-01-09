@@ -13,7 +13,7 @@ písania (napríklad frekvencie k-tic písmen v nejakom úseku textu) skúste od
 
 **prečo slovenčina?**
 
-
+---
 ## Hypotézy
 
 1.  Ai-cka si casto vymyslavala linky takze vedeli by sme predpokladat ze prace po 2022 budu mat vacsi vyskyt neexistujucich linkov (aj ked problemom moze byt ze pri tych starsich aj ked vtedy existovali uz nemusia)
@@ -23,7 +23,7 @@ písania (napríklad frekvencie k-tic písmen v nejakom úseku textu) skúste od
 5. diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
 6. v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
 
-
+---
 ## Dáta
 
 Použitý dataset sa nachádza v priečinku `./prace`.
@@ -123,6 +123,7 @@ Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prá
 Stiahnuté súbory vo formáte `.pdf` boli prevedené na formát `.txt`, aby sa dalo s nimi lepšie pracovať. 
 Na to nám pomohol program `pdftotext` z knižnice `Poppler`.
 
+---
 ## Metodológia a výsledky
 
 ### Hypotéza 1: predikovateľnosť obdobia vzniku práce podľa validity internetových zdrojov
@@ -138,8 +139,9 @@ Premisou tejto hypotézy je tvrdenie, že práce vytvorené v období rozšíren
 Formálne testujeme hypotézu, či na základe týchto znakov vieme predikovať, či práca vznikla:
 - **pred rokom 2023**,  
 - alebo **v roku 2023 a neskôr**.
+
 ---
-### Postup overenia hypotézy
+#### Postup overenia hypotézy
 
 Každá práca bola reprezentovaná jedným riadkom agregovaných dát, pričom výsledný dataset obsahoval 38 prác. Cieľová premenná bola binárna:
 - 0 – práca vznikla pred rokom 2023,  
@@ -154,8 +156,9 @@ Testované boli nasledujúce modely:
 4. Naivný Bayesovský klasifikátor (Gaussian Naive Bayes).
 
 Ako hlavná hodnotiaca metrika bola použitá **balanced accuracy**, ktorá je vhodná pri nevyvážených triedach, keďže zohľadňuje úspešnosť klasifikácie oboch tried samostatne.
+
 ---
-### Výsledky Leave-One-Out Cross-Validation
+#### Výsledky Leave-One-Out Cross-Validation
 
 Výsledky LOOCV boli nasledovné:
 
@@ -175,8 +178,9 @@ Výsledky LOOCV boli nasledovné:
   - balanced accuracy: 0.658  
 
 Najlepší výsledok dosiahla logistická regresia s polynomiálnymi znakmi 3. stupňa, ktorá bola preto zvolená ako finálny model.
+
 ---
-### Overenie na testovacej množine
+#### Overenie na testovacej množine
 
 Zvolený model bol následne natrénovaný na spojení **tréningovej a validačnej množiny** a vyhodnotený na samostatnej testovacej množine.
 
@@ -188,8 +192,9 @@ Testovacia množina obsahovala iba 4 práce, čo výrazne obmedzuje štatistick�
 - recall (≥ 2023): 0.333  
 
 Model v tomto prípade správne identifikoval všetky práce klasifikované ako novšie, avšak s nízkou citlivosťou (recall), čo je dôsledkom veľmi malého počtu vzoriek v testovacej množine.
+
 ---
-### Diskusia výsledkov
+#### Diskusia výsledkov
 
 Výsledky naznačujú, že charakteristiky nefunkčných internetových odkazov nesú určitú informáciu o období vzniku práce, keďže model dosiahol výrazne lepšie výsledky než náhodná klasifikácia, najmä v rámci LOOCV.
 
@@ -199,13 +204,15 @@ Zároveň je však potrebné zdôrazniť:
 - a potenciálnu heterogenitu správania autorov pri používaní AI nástrojov.
 
 Výsledky preto nemožno interpretovať ako dôkaz systematického používania AI, ale skôr ako náznak existencie slabého signálu, ktorý by pri väčšom datasete mohol viesť k štatisticky robustnejším záverom.
+
 ---
-### Záver hypotézy
+#### Záver hypotézy
 
 Na základe vykonaných experimentov možno konštatovať, že:
 - hypotézu o možnosti rozlíšenia obdobia vzniku práce na základe validity internetových zdrojov **nie je možné jednoznačne potvrdiť ani vyvrátiť**,  
 - avšak získané výsledky naznačujú, že daný prístup je **potenciálne informatívny** a zasluhuje si ďalší výskum na väčšej dátovej množine.
 
+---
 ### Hypotéza 2: entropia slovnej zásoby
 
 Táto hypotéza sa zameriava na globálnu tendenciu používať viac generatívne AI na písanie prác. 
@@ -242,9 +249,10 @@ Tu je vrchol distribúcie veľmi tesne pri sebe, pričom skôr vyšší pri dipl
 
 Rozdiel distribúcií $dip - bak$, vidíme, že stred distribúcie leží na nule a jemne doprava. 
 
+---
 ### Hypotéza 3: entropia druhov viet
 
-Táto hypotéza vychádza z rovnakej premisy ako hypotéza 3, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
+Táto hypotéza vychádza z rovnakej premisy ako hypotéza 2, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
 Preto skúmame, či by sa to malo preukázať v zvýšenej entropii druhov viet v diplomovvých prácach oproti bakalárskym.
 Druh vety identifikujeme stavbou vety podľa vetných členov.
 To nám vie umožniť opäť knižnica `stanza`.
@@ -257,9 +265,9 @@ Na overenie tejto hypotézy potrebujeme uskutočniť:
 Prvé dva kroky robí program `sent_entropy.py`, ktorý priamo vezme celý text, prevedie slová. 
 Takto zložené vety v stringoch používa ako kľúč v `dictionary`, ktorý ráta počet výskytov.
 Entropiu následne počíta identicky ako hypotéza 3.
-Rovnako ako hypotéza 3 prebieha aj 3. krok, čiže overenie štatistickej signifikantnosti výsledkov.
+Rovnako ako hypotéza 2 prebieha aj 3. krok, čiže overenie štatistickej signifikantnosti výsledkov.
 
-Tentokrát vyšiel Shapiro-Wilk test normálny pre obe distribúcia, čiže sme použili párový T-test.
+Tentokrát vyšiel Shapiro-Wilk test normálny pre obe distribúcie, čiže sme použili párový T-test.
 Tomu vyšla $p-value \approx 0.833$, čiže hypotézu $H_0 : \theta_{bak} = \theta_{dip}$ opäť zamietnuť nemôžme. 
 
 ![alt text](sent_both.png)
@@ -272,16 +280,20 @@ Tiež je možné, že autori už majú skúsenosti s písaním prác v dobe pred
 V oboch hypotézach boli entropie vyššie u diplomových prác, avšak málo signifikantne.
 Možno by pomohol väčší dataset, ktorý by pomohol priradiť štatistickú signifikanciu aj pre namerané minimálne rozdiely.
 
+---
+
 Na otestovanie hypotéz 4., 5. a 6. sme použili Wilcoxonov test. Základný dôvod na to je, že dáta sú párové (bakalárske a diplomové práce) a pozorovania nie sú úplne nezávislé. Preto by nebolo správne použiť napr. t-test alebo z-test. Taktiež metriky, s ktorými sme pracovali, majú aj veľa extrémnych hodnôt, šikmé rozdelenie a výhodou Wilcoxonovho testu je, že nepredpokladá normalitu dát.
 
 ### Hypotéza 4: entropia dĺžok viet
 
-Najprv sme sa zamerali na počty slov vo vetách. Domnievame sa, že počty slov vo vetách v textoch generovaných pomocou LLM majú menšiu entropiu, ako počty slov vo vetách v textoch napísaných len človekom. Jazykové modely majú totiž tendenciu písať podobne dlhé vety a veľmi nepoužívajú príliš krátke alebo príliš dlhé vety. To sa môže líšiť od ľudského spôsobu vyjadrovania. Pomocou Wilcoxonovho testu sme zistili, či je tento rozdiel entropií nejako štatisticky významný. V prípade, že by bola p hodnota menšia ako 0.05 by išlo o štatistickú významnosť. Výsledky však ukázali presný opak. P-hodnota vyšla približne 0.978 a ukázalo sa, že skôr pri bakalárskych prácach mali dĺžky viet väčšiu entropiu ako pri diplomových. Môže to byť spôsobené práve tým, že pri diplomových prácach sa vyžaduje presnejšie vyjadrovanie, prípadne študenti už mali väčšie skúsenosti s písaním práce. Kód testujúci túto hypotézu sa nachádza v súbore sentence_lengths.py.
+Najprv sme sa zamerali na počty slov vo vetách. Domnievame sa, že počty slov vo vetách v textoch generovaných pomocou LLM majú menšiu entropiu, ako počty slov vo vetách v textoch napísaných len človekom. Jazykové modely majú totiž tendenciu písať podobne dlhé vety a veľmi nepoužívajú príliš krátke alebo príliš dlhé vety. To sa môže líšiť od ľudského spôsobu vyjadrovania. Pomocou Wilcoxonovho testu sme zistili, či je tento rozdiel entropií nejako štatisticky významný. V prípade, že by bola p hodnota menšia ako 0.05 by išlo o štatistickú významnosť. Výsledky však ukázali presný opak. P-hodnota vyšla približne 0.978 a ukázalo sa, že skôr pri bakalárskych prácach mali dĺžky viet väčšiu entropiu ako pri diplomových. Môže to byť spôsobené práve tým, že pri diplomových prácach sa vyžaduje presnejšie vyjadrovanie, prípadne študenti už mali väčšie skúsenosti s písaním práce. Kód testujúci túto hypotézu sa nachádza v súbore `sentence_lengths.py`.
 
+---
 ### Hypotéza 5: presnosť citácií
 
-Overovali sme taktiež presnosť citácií. Jazykové modely si často vymyslia zdroj, z ktorého by mala pochádzať údajná citácia. Kód v súbore citations_check.py zachytáva citácie typu (Novák, 2020) alebo (Novák et al., 2020). Následne je text celej práce rozdelený na hlavný text a zoznam literatúry. Kód počíta citácie bez zodpovedajúceho zdroja (missing_refs) a výskyt neplatných DOI (doi_errors). Následne vypočíta skóre pre každú prácu ((missing_refs + doi_errors) / len(citations)), a teda čím vyššie je toto skóre, tým horšia je kvalita citácií v texte práce. Očakávame teda, že bakalárske práce by mohli mať toto skóre vyššie. Wilcoxonov test tu zisťoval, či je rozdiel skóre medzi bakalárskymi a diplomovými prácami jedného študenta štatisticky významný. Opäť sa nepotvrdila štatistická významnosť, keďže p-hodnota dosiahla hodnotu okolo 0.353. Pravdepodobne bola chybovosť citácií kontrolovaná zhruba rovnako kvalitne pri oboch typoch prác, keďže zhruba v 79% prípadoch sa tieto skóre medzi typmi prác zhodovali.
+Overovali sme taktiež presnosť citácií. Jazykové modely si často vymyslia zdroj, z ktorého by mala pochádzať údajná citácia. Kód v súbore `citations_check.py` zachytáva citácie typu (Novák, 2020) alebo (Novák et al., 2020). Následne je text celej práce rozdelený na hlavný text a zoznam literatúry. Kód počíta citácie bez zodpovedajúceho zdroja (missing_refs) a výskyt neplatných DOI (doi_errors). Následne vypočíta skóre pre každú prácu ((missing_refs + doi_errors) / len(citations)), a teda čím vyššie je toto skóre, tým horšia je kvalita citácií v texte práce. Očakávame teda, že bakalárske práce by mohli mať toto skóre vyššie. Wilcoxonov test tu zisťoval, či je rozdiel skóre medzi bakalárskymi a diplomovými prácami jedného študenta štatisticky významný. Opäť sa nepotvrdila štatistická významnosť, keďže p-hodnota dosiahla hodnotu okolo 0.353. Pravdepodobne bola chybovosť citácií kontrolovaná zhruba rovnako kvalitne pri oboch typoch prác, keďže zhruba v 79% prípadoch sa tieto skóre medzi typmi prác zhodovali.
 
+---
 ### Hypotéza 6: generické frázy
 
-LLM často používajú určité generické frázy na vyplnenie textu, ako napríklad "na základe uvedeného", "v neposlednom rade" a pod. Je teda zmysluplné predpokladať, že výskyt takýchto fráz bude väčší v diplomových prácach, ak boli napísané s asistenciou LLM a text nebol nejako zvlášť upravovaný pred odovzdaním. Človek má skôr tendenciu viac rozvíjať svoj jazyk počas písania a menej používa takéto generické frázy. Výskyt fráz sme počítali na 1000 slov, keďže na 1 slovo je táto hodnota príliš malá. Kód v súbore typical_phrases.py má k dispozícii určitú množinu týchto generických fráz. Následne zisťuje frekvencie ich výskytu v textoch prác. Wilcoxonov test tu zisťuje, či je štatisticky významný rozdiel výskytov týchto fráz medzi bakalárskymi a diplomovými prácami. S p-hodnotou 0.846 opäť nemôžeme hovoriť o štatistickej významnosti. Ukazuje sa naopak, že takéto frázy sa častejšie vyskytovali v bakalárskych prácach. Pravdepodobne preto, lebo študenti mali menšie vyjadrovacie schopnosti pri písaní bakalárok, alebo preto, že v diplomových prácach je menej priestoru na takéto frázy z dôvodu väčších nárokov na odbornosť textu.
+LLM často používajú určité generické frázy na vyplnenie textu, ako napríklad "na základe uvedeného", "v neposlednom rade" a pod. Je teda zmysluplné predpokladať, že výskyt takýchto fráz bude väčší v diplomových prácach, ak boli napísané s asistenciou LLM a text nebol nejako zvlášť upravovaný pred odovzdaním. Človek má skôr tendenciu viac rozvíjať svoj jazyk počas písania a menej používa takéto generické frázy. Výskyt fráz sme počítali na 1000 slov, keďže na 1 slovo je táto hodnota príliš malá. Kód v súbore `typical_phrases.py` má k dispozícii určitú množinu týchto generických fráz. Následne zisťuje frekvencie ich výskytu v textoch prác. Wilcoxonov test tu zisťuje, či je štatisticky významný rozdiel výskytov týchto fráz medzi bakalárskymi a diplomovými prácami. S p-hodnotou 0.846 opäť nemôžeme hovoriť o štatistickej významnosti. Ukazuje sa naopak, že takéto frázy sa častejšie vyskytovali v bakalárskych prácach. Pravdepodobne preto, lebo študenti mali menšie vyjadrovacie schopnosti pri písaní bakalárok, alebo preto, že v diplomových prácach je menej priestoru na takéto frázy z dôvodu väčších nárokov na odbornosť textu.
