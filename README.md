@@ -1,6 +1,17 @@
 # PriDav
 
-Dobre hopefully vsetci viete ako tak s gitom narabat lebo ked nie tak sa nezarucujem ze to budem vediet fixnut xddd prinajmensom si davajte pozor na force veci a take tie zaklady no
+Tím: `bez názvu` \
+Autori: ``Martin Kostolník, Filip Prutkay, Jakub Skaloš, Martin Striženec`` \
+Zadanie: ``LLM začali byť populárne začiatkom roku 2023. Preto je teraz ideálna doba pozrieť sa na to,
+ako ho používajú študenti pri písaní záverečných prác: veľa študentov, ktorí odovzdávali
+svoju bakalársku prácu v roku 2022 (pred nástupom LLM) následne v roku 2024 (v čase už
+hojného používania LLM) odovzdávali diplomovku na podobnú tému. Pomocou analýzy štýlu
+písania (napríklad frekvencie k-tic písmen v nejakom úseku textu) skúste odhadnúť, za akú
+časť diplomových prác študentov sú zodpovedné LLM``
+
+**úvod**
+
+**prečo slovenčina?**
 
 
 ## Hypotezy
@@ -12,7 +23,6 @@ Dobre hopefully vsetci viete ako tak s gitom narabat lebo ked nie tak sa nezaruc
 5. rozdelenie dĺžok viet má v diplomových prácach nižšiu entropiu ako v bakalárskych (kvôli zásahu LLM)
 6. diplomové práce častejšie obsahujú nepresné alebo neoveriteľné citácie než bakalárske práce rovnakých autorov
 7. v diplomových prácach bude viac tzv. generických fráz, ktoré sú typické pre LLM (napr. frázy ako "je možné konštatovať" alebo "vo všeobecnosti platí")
-
 
 
 ## Dáta
@@ -76,7 +86,7 @@ Na to najprv poslúžili získané počty diplomových prác podľa odboru (* oz
 |  9610 | Obrana a vojenstvo                              |      14 |
 
 
-Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prác, boli spojené do jednej query a z nej bol vytiahnutý pseudo-náhodný (s ohľadom na školu a pohlavie). V tabuľke nižšie je prehľad všetkých prác, pričom medzi odbormi sú všetky z query, použitý je označený boldom:
+Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prác, boli spojené do jednej query a z nej bol vytiahnutý pseudo-náhodný (s ohľadom na školu a pohlavie). V tabuľke nižšie je prehľad všetkých prác, pričom medzi odbormi sú všetky z query, výsledne vybraný je označený boldom:
 
 | ODBORY                                                                                                                                                                    | MENO         | PRIEZVISKO      | NAZOV_BAK                                                                                                   | NAZOV_DIP                                                                                                                               |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:----------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
@@ -100,13 +110,18 @@ Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prá
 | Učiteľstvo a pedagogické vedy                                                                                                                                             | Nikola       | Špaková         | Možnosti využitia kruhových cvičení v školskom klube detí                                                   | Poruchy pozornosti u učiteliek a učiteľov pre primárne vzdelávanie                                                                      |
 | Učiteľstvo a pedagogické vedy                                                                                                                                             | Dominika     | Kiššová         | Využitie audiovizuálnej didaktickej techniky v hudobnom vzdelávaní                                          | Vplyv pamäte a pozornosti na čítanie s porozumením u detí v prvom ročníku ZŠ                                                            |
 | Učiteľstvo a pedagogické vedy                                                                                                                                             | Tomáš        | Hilkovič        | Prvá cesta okolo sveta a staré mapy s ňou súvisiace                                                         | Individuálna koncepcia vyučovania učiteľov dejepisu                                                                                     |
-| Ošetrovateľstvo                                                                                                                                                           | František    | Pelikán         | Komplexná ošetrovateľská starostlivosť o pacienta s náhlou cievnou mozgovou príhodou                        | Informovanosť laickej verejnosti o postupoch prvej pomoci pri akútnom infarkte myokardu                                                 |
+| Ošetrovateľstvo                                                                                                                                                            | František    | Pelikán         | Komplexná ošetrovateľská starostlivosť o pacienta s náhlou cievnou mozgovou príhodou                        | Informovanosť laickej verejnosti o postupoch prvej pomoci pri akútnom infarkte myokardu                                                 |
 | Ošetrovateľstvo                                                                                                                                                           | Dominika     | Chladná         | Ošetrovateľský proces u pacienta s posttraumatickou stresovou poruchou                                      | Posttraumatická stresová porucha u zdravotníckych pracovníkov v zariadeniach pre seniorov v pandémii COVID-19                           |
 | Ošetrovateľstvo                                                                                                                                                           | Lucia        | Šišmičová       | Komplexná ošetrovateľská starostlivosť o pacienta s Polyetiologickou demenciou                              | KVALITA ŽIVOTA U KLIENTOV V ZARIADENÍ SOCIÁLNYCH SLUŽIEB S AMYOTROFICKOU LATERÁLNOU SKLERÓZOU                                           |
 | Ošetrovateľstvo                                                                                                                                                           | Lea          | Baloghová       | Kvalitatívna porucha vedomia pacientov na jednotkách intenzívnej starostlivosti                             | Assessment bazálnej stimulácie pri ošetrovateľskej starostlivosti o pacientov v kóme                                                    |
-| Ekonómia a manažment                                                                                                                                                      | Simona       | Moravská        | VYUŽITIE PSYCHOLÓGIE V MARKETINGU A V REKLAMÁCH                                                             | SYCHOLOGICKÉ FAKTORY VPLÝVAJÚCE NA SPOTREBITEĽSKÉ SPRÁVANIE                                                                             |
+| Ekonómia a manažment                                                                                                                                                      | Simona       | Moravská        | VYUŽITIE PSYCHOLÓGIE V MARKETINGU A V REKLAMÁCH                                                             | PSYCHOLOGICKÉ FAKTORY VPLÝVAJÚCE NA SPOTREBITEĽSKÉ SPRÁVANIE                                                                             |
 | Ekonómia a manažment                                                                                                                                                      | Miroslava    | Podracká        | Distribučné systémy v ubytovacích zariadeniach                                                              | Kognitívna mapa a jej adaptácia v rozhodovaní manažérov                                                                                 |
 | Ekonómia a manažment                                                                                                                                                      | Radka        | Petríková       | Náklady a výnosy a ich vplyv na hospodársky výsledok podniku                                                | Minimálna mzda v krajinách V4 a jej vplyv na zamestnanosť                                                                               |
 | Ekonómia a manažment                                                                                                                                                      | Patrik Tomáš | Galanda         | Aktuálne problémy MSP pri získavaní finančných zdrojov                                                      | Podpora univerzít zo zdrojov politiky súdržnosti                                                                                        |
 | Ekonómia a manažment                                                                                                                                                      | Andrej       | Adamov          | Podnikateľské prostredie v krajinách Európskej únie                                                         | Lokalizácia ako dôležitý predpoklad znižovania budúcich nákladov podniku                                                                |
 | Ekonómia a manažment                                                                                                                                                      | Alena        | Mižíková        | Analýza využívania metodík projektového riadenia v závislosti od typu projektu a prostredia jeho realizácie | Digitálna transformácia práce - výzvy a riziká                                                                                          |
+
+
+## Výsledky
+
+### Hypotéza 3: entropia slovnej zásoby
