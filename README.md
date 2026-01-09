@@ -121,6 +121,8 @@ Následne prebiehal výber. Príbuzné odbory, kde bolo k dispozícii málo prá
 | Ekonómia a manažment                                                                                                                                                      | Andrej       | Adamov          | Podnikateľské prostredie v krajinách Európskej únie                                                         | Lokalizácia ako dôležitý predpoklad znižovania budúcich nákladov podniku                                                                |
 | Ekonómia a manažment                                                                                                                                                      | Alena        | Mižíková        | Analýza využívania metodík projektového riadenia v závislosti od typu projektu a prostredia jeho realizácie | Digitálna transformácia práce - výzvy a riziká                                                                                          |
 
+Stiahnuté súbory vo formáte `.pdf` boli prevedené na formát `.txt`, aby sa dalo s nimi lepšie pracovať. 
+Na to nám pomohol program `pdftotext` z knižnice `Poppler`.
 
 ## Metodológia a výsledky
 
@@ -153,7 +155,33 @@ Dáta pre diplomové práce nevyšli normálne, čiže bol použitý Wilcoxonov 
 To potvrdzuje aj očný test na grafoch:
 
 ![alt text](word_both.png)
+
 Tu je vrchol distribúcie veľmi tesne pri sebe, pričom skôr vyšší pri diplomových prácach. 
 
 ![alt text](word_diff.png)
+
 Rozdiel distribúcií $dip - bak$, vidíme, že stred distribúcie leží na nule a jemne doprava. 
+
+### Hypotéza 4: entropia druhov viet
+
+Táto hypotéza vychádza z rovnakej premisy ako hypotéza 3, že by štylistika písania AI mala byť rozmanitejšia ako pri človekom napísanom texte.
+Preto skúmame, či by sa to malo preukázať v zvýšenej entropii druhov viet v diplomovvých prácach oproti bakalárskym.
+Druh vety identifikujeme stavbou vety podľa vetných členov.
+To nám vie umožniť opäť knižnica `stanza`.
+
+Na overenie tejto hypotézy potrebujeme uskutočniť:
+1. Všetky slová z každej vety každej práce transformovať na príslušný charakterizátor vetného člena
+2. Pre každú prácu vypočítať entropiu z počtov rovnako stavaných viet
+3. Štatisticky overiť signifikantnosť výsledkov
+
+Prvé dva kroky robí program `sent_entropy.py`, ktorý priamo vezme celý text, prevedie slová. 
+Takto zložené vety v stringoch používa ako kľúč v `dictionary`, ktorý ráta počet výskytov.
+Entropiu následne počíta identicky ako hypotéza 3.
+Rovnako ako hypotéza 3 prebieha aj 3. krok, čiže overenie štatistickej signifikantnosti výsledkov.
+
+Tentokrát vyšiel Shapiro-Wilk test normálny pre obe distribúcia, čiže sme použili párový T-test.
+Tomu vyšla $p-value \approx 0.833$, čiže hypotézu $H_0 : \theta_{bak} = \theta_{dip}$ opäť zamietnuť nemôžme. 
+
+![alt text](sent_both.png)
+
+![alt text](sent_diff.png)
