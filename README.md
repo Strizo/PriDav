@@ -185,3 +185,9 @@ Tomu vyšla $p-value \approx 0.833$, čiže hypotézu $H_0 : \theta_{bak} = \the
 ![alt text](sent_both.png)
 
 ![alt text](sent_diff.png)
+
+Výsledky hypotézy 3 a 4 nenesú zistenie o používaní AI.
+To môže byť zapríčinené výberom jazyka - slovenčiny, kde generatívne AI je známe tým, že píše pomerne nepresne oproti napríklad angličtine, preto môžu mať autori tendenciu skôr nepoužiť.
+Tiež je možné, že autori už majú skúsenosti s písaním prác v dobe pred AI, čiže majú skúsenosti s písaním a tiež nemajú potrebu ho používať.
+V oboch hypotézach boli entropie vyššie u diplomových prác, avšak málo signifikantne.
+Možno by pomohol väčší dataset, ktorý by pomohol priradiť štatistickú signifikanciu aj pre namerané minimálne rozdiely.
