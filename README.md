@@ -11,7 +11,8 @@ písania (napríklad frekvencie k-tic písmen v nejakom úseku textu) skúste od
 
 **úvod**
 
-**prečo slovenčina?**
+**Prečo slovenčina?**
+
 Slovenčinu sme si vybrali preto, že ide o rodný jazyk autorov analyzovaných prác. Písanie odborných textov v rodnom jazyku je pre autorov prirodzenejšie, a preto možno očakávať, že jazykový štýl, slovná zásoba a skladba viet budú v priebehu rokov stabilnejšie, než v prípade prác písaných v naučenom cudzom jazyku.
 
 Zároveň sa slovenčina používa na väčšine slovenských univerzít, čo nám umožnilo získať reprezentatívnejšiu vzorku bakalárskych a diplomových prác. Vďaka tomu je možné analyzovať autorský štýl naprieč rôznymi odbormi bez toho, aby bol výsledok výrazne ovplyvnený rozdielnymi jazykovými zručnosťami autorov.
