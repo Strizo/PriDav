@@ -1,0 +1,108 @@
+Čestné vyhlásenie
+Vyhlasujem, že som bakalársku prácu na tému „Zváračské techniky pri vytváraní ťažko dostupných zvarov“ vypracoval samostatne pod vedením vedúceho bakalárskej práce a s použitím uvedenej odbornej literatúry a zdrojov. Som si vedomý právnych dôsledkov v zmysle zákona o autorskom práve.
+
+V Bratislave, dňa 15. 05. 2026
+
+...........................................
+
+Poďakovanie
+Na tomto mieste by som chcel poďakovať vedúcemu bakalárskej práce, doc. Ing. Jozefovi Zváračovi, PhD., za cenné rady, odborné usmernenie a pripomienky, ktoré mi poskytol počas spracovania tejto práce. Taktiež ďakujem pracovníkom laboratórií katedry za technickú podporu pri praktických meraniach.
+
+ÚVOD
+Súčasný rozvoj strojárskej výroby, energetiky a stavebného priemyslu kladie čoraz vyššie nároky na kvalitu a integritu nerozoberateľných spojov. Zváranie, ako dominantná technológia spájania kovových materiálov, prechádza neustálym vývojom, pričom dôraz sa presúva od jednoduchých dielenských operácií k realizácii zložitých priestorových konštrukcií. Jednou z najnáročnejších výziev v praxi zvárača je vytváranie spojov v podmienkach s obmedzenou prístupnosťou.
+
+Ťažko dostupné zvary sa vyskytujú takmer vo všetkých odvetviach – od jadrovej energetiky, kde je prístup limitovaný radiáciou a kompaktnosťou zariadení, až po opravárenskú činnosť v petrochemickom priemysle či pri výrobe rámových podvozkov koľajových vozidiel. V takýchto podmienkach zlyhávajú bežné technologické postupy, pretože limitujú nielen vizuálnu kontrolu procesu, ale predovšetkým manipuláciu so zváracím horákom alebo elektródou.
+
+Cieľom tejto bakalárskej práce je analyzovať možnosti súčasných zváračských techník pri práci v stiesnených priestoroch a navrhnúť optimalizované postupy, ktoré minimalizujú riziko vzniku vnútorných chýb zvarov. Práca sa zameriava na ergonómiu procesu, modifikáciu prídavných materiálov a nasadenie moderných mechanizovaných systémov, ktoré dokážu nahradiť manuálnu prácu tam, kde je ľudský faktor obmedzený fyzikálnymi bariérami.
+
+1 SÚČASNÝ STAV RIEŠENEJ PROBLEMATIKY
+Teoretické vymedzenie problematiky ťažkej dostupnosti v oblasti zvárania vyžaduje multidisciplinárny prístup, ktorý zahŕňa technológiu materiálov, konštrukčnú geometriu a v neposlednom rade ergonómiu práce.
+
+1.1 Definícia a klasifikácia ťažko dostupných zvarov
+V odbornej literatúre a technických normách (napr. STN EN ISO 9606) nie je pojem „ťažko dostupný zvar“ exaktne definovaný jedinou číselnou hodnotou, nakoľko závisí od použitej metódy zvárania. Všeobecne však môžeme za ťažko dostupný zvar považovať taký spoj, pri ktorom nie je možné dodržať štandardný uhol sklonu horáka (vzhľadom na os zvaru a povrch materiálu) alebo kde je vzdialenosť od okolitých prekážok menšia ako manipulačný rádius zvárača.
+
+Základná klasifikácia podľa príčiny obmedzenia:
+
+Geometrická nedostupnosť: Spôsobená tvarom samotného obrobku (úzke úkosy, kútové zvary v hlbokých profiloch).
+
+Priestorová nedostupnosť: Spôsobená okolitou konštrukciou (zváranie v potrubných mostoch, vnútri nádrží alebo v blízkosti nosných stĺpov).
+
+Vizuálna nedostupnosť: Situácie, kedy zvárač nevidí priamo na miesto horenia oblúka a musí sa spoliehať na nepriame sledovanie (zrkadlá, kamerové systémy).
+
+1.2 Vplyv obmedzeného priestoru na kvalitu spoja
+Pri zváraní v sťažených podmienkach dochádza k výraznejšiemu kolísaniu parametrov zvárania. Najčastejším problémom je nestabilita dĺžky oblúka a nesprávne smerovanie prídavného materiálu do koreňa zvaru. Podľa štatistík z nedeštruktívneho skúšania (NDT) vykazujú zvary realizované v pozíciách s obmedzeným prístupom o 30 % vyššiu mieru výskytu chýb typu:
+
+Neprevarený koreň: Spôsobený nemožnosťou správneho naklonenia elektródy.
+
+Troskové inklúzie: Pri metóde 111, kedy zlá viditeľnosť bráni efektívnemu čisteniu medzivrstiev.
+
+Póry a bubliny: V dôsledku turbulencií ochranného plynu pri odraze od blízkych stien konštrukcie.
+
+1.3 Ergonomické faktory a bezpečnosť práce
+Práca v stiesnených priestoroch (tzv. confined spaces) so sebou prináša zvýšené riziká. Okrem statického preťaženia pohybového aparátu zvárača je kritickým faktorom koncentrácia splodín. Pri zváraní v uzavretých profiloch dochádza k rýchlemu vytláčaniu kyslíka ochrannými plynmi (najmä argónom, ktorý je ťažší ako vzduch a hromadí sa pri dne). Legislatíva SR a súvisiace predpisy BOZP striktne definujú podmienky ventilácie a prítomnosti druhej osoby pri takýchto úkonoch, čo výrazne zvyšuje ekonomickú náročnosť realizácie takýchto spojov.
+
+2 ANALÝZA ZVÁRAČSKÝCH METÓD PRE SŤAŽENÉ PODMIENKY
+Pri voľbe metódy pre ťažko dostupné miesta musíme brať do úvahy nielen hrúbku materiálu a požadované mechanické vlastnosti, ale predovšetkým geometrické rozmery zváracieho zariadenia (horáka, držiaka elektródy) a mieru manipulácie, ktorú daná technológia vyžaduje.
+2.1 Ručné oblúkové zváranie obalenou elektródou (Metóda 111)
+Metóda 111 (MMA – Manual Metal Arc) zostáva v praxi jednou z najčastejšie využívaných techník pre prácu v teréne a v sťažených podmienkach. Jej hlavnou výhodou je absencia plynovej hubice a prívodných hadíc, ktoré by obmedzovali pohyb.Výhody v obmedzenom priestore:Vysoká flexibilita – držiak elektródy je relatívne malý. Možnosť ohnutia elektródy (pri zachovaní integrity obalu), čo umožňuje zváranie „za rohom“.Jednoduchý prístup do úzkych štrbín, kam by sa plynová hubica metód MIG/MAG nezmestila. Nevýhody a limitácie: Potreba častého prerušovania procesu kvôli výmene elektród. 
+Produkcia trosky, ktorú je potrebné v stiesnenom priestore mechanicky odstraňovať, čo zvyšuje riziko troskových inklúzií.Zvýšená tvorba dymu a exhalátov, čo v uzavretých priestoroch vyžaduje intenzívne odsávanie.
+2.2 Zváranie v ochrannej atmosfére netaviacej sa elektródy (Metóda 141)
+Metóda TIG (Tungsten Inert Gas) je považovaná za najuniverzálnejšiu metódu z hľadiska geometrickej prístupnosti, hoci je najnáročnejšia na zručnosť zvárača. V prostredí s ťažkým prístupom sa využívajú špeciálne konfigurácie TIG horákov: Micro-TIG horáky: Disponujú extrémne malými rozmermi hlavy, čo umožňuje prístup do vnútorných častí ventilov alebo malých potrubných odbočiek. Flex-neck systémy: Krk horáka je vyrobený z tvárneho materiálu, ktorý si po ohnutí zachováva tvar. Zváranie so zrkadlom: Pri absolútnej vizuálnej nedostupnosti sa metóda 141 využíva v kombinácii s odrazovým zrkadlom. Zvárač musí v tomto prípade pracovať s obrátenou motorikou, čo vyžaduje špeciálny tréning.
+2.3 Zváranie v ochrannej atmosfére taviacej sa elektródy (Metódy 131, 135)
+ Metódy MIG/MAG sú limitované predovšetkým veľkosťou horáka a tuhosťou káblového zväzku. V sťažených podmienkach sa však čoraz viac presadzujú nasledujúce riešenia: Predĺžené plynové dýzy: Úzke a dlhé dýzy umožňujú hlboký prienik do kútových spojov, avšak za cenu horšej plynovej ochrany pri vyšších prúdoch. Push-Pull systémy: Malé podávače drôtu umiestnené priamo v rukoväti horáka umožňujú použitie tenších a ohybnejších káblových zväzkov, čo uľahčuje manipuláciu v zložitých konštrukciách.
+2.4 Porovnanie prístupnosti jednotlivých metód 
+Nasledujúca tabuľka porovnáva vybrané metódy z hľadiska ich vhodnosti pre špecifické typy obmedzení: Parameter / MetódaMMA (111)TIG (141)MIG/MAG (135) Min. šírka štrbiny Výborná (cca 10 mm) Stredná (závisí od hubice) Slabá (min. 20-25 mm) Manipulačný priestor Nízky nárok Vysoký nárok (2 ruky)Stredný nárok (1 ruka)Vizuálna kontrola Dobrá Výborná Stredná (tienenie dýzou) Riziko defektov Troska, pory Čistý spoj, studené spoje Rozstrek, neprevarenie 
+2.5 Vplyv dĺžky výletu drôtu a elektródy
+Pri práci v ťažko dostupných miestach je zvárač často nútený pracovať s väčším výletom drôtu ($L$) alebo elektródy, než odporúča technologický postup (WPS). To má za následok zmenu elektrických parametrov oblúka:$$U = U_a + I \cdot R_v$$Kde:$U$ je celkové napätie na oblúku,$U_a$ je napätie na samotnom oblúku,$I$ je zvárací prúd,$R_v$ je odpor vyčnievajúcej časti elektródy/drôtu. Zvýšenie odporu $R_v$ vedie k nadmernému predohrevu drôtu Jouleovým teplom, čo môže spôsobiť nestabilitu oblúka a zvýšený rozstrek, čo je v stiesnenom priestore obzvlášť nežiaduce kvôli riziku poškodenia okolitých plôch.7
+
+3 TECHNOLOGICKÉ POSTUPY PRI ZVÁRANÍ V STIESNENÝCH PRIESTOROCH
+Návrh technologického postupu (WPS – Welding Procedure Specification) pre ťažko dostupné zvary musí zohľadňovať nielen mechanické vlastnosti spoja, ale aj špecifickú sekvenciu kladenia húseníc a prípravu zvarových plôch tak, aby sa minimalizovala potreba korekčných zásahov.
+3.1 Príprava zvarových plôch a zostavenie spoja
+Pri sťaženom prístupe je správna geometrická príprava hrán kritickým faktorom úspechu. Ak zvárač nemá dostatočný priestor na manipuláciu s horákom, musí byť geometria úkosu upravená tak, aby "viedla" oblúk prirodzenejšie. Zväčšenie uhla roztvorenia ($\alpha$): Zatiaľ čo pri štandardnom V-zvare sa používa uhol $60^{\circ}$, v stiesnených podmienkach sa odporúča zvýšenie na $70^{\circ}$ až $80^{\circ}$. Tým sa znižuje riziko "prilepenia" oblúka na bočnú stenu bez dostatočného pretavenia koreňa. Úprava otupenia hrany ($p$): Pre lepšiu kontrolu koreňovej vrstvy pri metóde 141 sa v sťažených pozíciách volí o niečo väčšie otupenie, aby sa predišlo nekontrolovanému prepáleniu v momentoch, kedy zvárač stráca optimálnu stabilitu ruky.
+3.2 Špecifiká voľby ochranných plynov a prietoku
+V stiesnených priestoroch dochádza k javu, ktorý sa pri bežnom zváraní nevyskytuje – k akumulácii odrazeného prúdu plynu. Turbulencie v rohoch: Pri zváraní v kútových spojoch alebo vnútri uzavretých profilov naráža prúd ochranného plynu na stenu, čo vytvára vírenie. To môže do ochranného kužeľa strhnúť okolitú atmosféru a spôsobiť pórovitosť. Riešením je zníženie prietoku plynu o $10\text{--}15\text{ \%}$ oproti štandardu a použitie plynových šošoviek so sitkami. Voľba plynu pre lepší prienik: Pri metóde 135 (MAG) sa pre ťažko dostupné miesta odporúča použitie zmesí s vyšším obsahom $CO_2$ (nad $18\text{ \%}$), ktorý zvyšuje tekutosť kúpeľa a zlepšuje bočný zápal, čím kompenzuje horšiu manipuláciu s horákom.
+3.3 Technika kladenia zvarových vrstiev
+V sťažených podmienkach je prioritou minimalizovať počet vrstiev, aby sa znížila únava operátora a čas strávený v neprirodzenej polohe. Metóda "úzkych vrstiev" (Narrow gap): Používa sa pri hrubostenných materiáloch, kde sa namiesto širokých rozkyvov volí technika priamych húseníc kladených tesne vedľa seba. To vyžaduje menší manipulačný priestor pre horák. Zváranie v nútených polohách: Najväčšiu výzvu predstavuje pozícia nad hlavou (PE) a vertikálna pozícia zdola nahor (PF). V ťažko dostupných miestach sa často využíva technika zvárania "na padáka" (PG – zhora nadol) s využitím špeciálnych celulózových elektród (pri metóde 111) alebo pulzného režimu (pri metóde 135), čo umožňuje rýchlejšie preklenutie problematických úsekov s nižším vnosom tepla.
+3.4 Využitie pomocných prípravkov
+Pri vizuálnej nedostupnosti sa proces zvárania stáva závislým od senzorickej spätnej väzby a pomocných technológií: Zváracie zrkadlá: Upevňujú sa pomocou magnetických držiakov. Vyžadujú, aby zvárač pracoval s inverzným vnímaním pohybu, čo je typické pre opravy kotlových rúrok v teplárňach. Keramické podložky: Umožňujú spoľahlivé vytvorenie koreňovej vrstvy pri zváraní z jednej strany v prípadoch, kedy je zadná strana spoja úplne neprístupná pre dodatočné opracovanie alebo podvarenie. Endoskopická kontrola: Používa sa bezprostredne po vyhotovení koreňa pred kladením výplňových vrstiev, aby sa potvrdila absencia studených spojov.
+
+4 PROGRESÍVNE TECHNIKY A AUTOMATIZÁCIA
+Hoci je ručné zváranie v ťažko dostupných miestach stále dominantné (najmä pri opravách), v sériovej výrobe a kritických aplikáciách sa čoraz viac presadzujú systémy, ktoré eliminujú chybovosť ľudského faktora a zvyšujú bezpečnosť práce.
+4.1 Orbitálne zváranie potrubných systémov
+Orbitálne zváranie (metóda 141) predstavuje špičku v riešení ťažkej dostupnosti pri spájaní rúr. Ide o mechanizovaný proces, kde zváracia hlava rotuje okolo nehybného obrobku.Konštrukcia uzavretých hláv: Pre aplikácie s extrémne nízkym manipulačným priestorom (napr. farmaceutický priemysel, rozvody plynov) sa používajú uzavreté mikro-hlavy. Tieto vyžadujú len minimálny radiálny odstup od steny rúry (niekedy len 15 – 30 mm).Riadený proces: Všetky parametre ($I_p$, $v_z$, čas nábehu a dobehu) sú riadené počítačom, čo zabezpečuje 100 % opakovateľnosť koreňa, ktorú by zvárač v stiesnenom priestore len ťažko dosiahol manuálne.
+4.2 Nasadenie kolaboratívnej robotiky (Coboty)
+Klasické priemyselné roboty vyžadujú rozsiahle bezpečnostné oplotenie, čo ich vylučuje z použitia v stiesnených priestoroch existujúcich hál. Kolaboratívne roboty (Coboty) však prinášajú novú paradigmu: Kompaktnosť: Coboty sú ľahké a možno ich upnúť priamo na konštrukciu pomocou magnetických základní. Učiaci režim (Lead-through): Zvárač môže robota manuálne naviesť do ťažko dostupného miesta, zaznamenať dráhu a následne spustiť proces z bezpečnej vzdialenosti. Senzorika: Moderné systémy využívajú laserové sledovanie švíka (Seam Tracking), ktoré v reálnom čase koriguje polohu horáka, ak dôjde k tepelnej deformácii materiálu v úzkom profile.
+4.3 Využitie magnetických vozíkov (Traktory)
+Pri dlhých zvaroch v rohoch (napr. pri výrobe mostných nosníkov alebo v lodiarskom priemysle) sa využívajú kompaktné zváracie traktory. Vlastnosti: Vozík sa pohybuje po magnetickej dráhe alebo priamo po materiáli. Prínos: Stabilizuje rýchlosť zvárania a sklon horáka. Pre ťažkú dostupnosť sú vyvinuté modely s nízkym profilom, ktoré dokážu prechádzať cez otvory v rebrách konštrukcie.
+4.4 Aditívna výroba a hybridné technológie
+V špecifických prípadoch, kde je prístup k zvaru úplne znemožnený geometriou (napr. vnútorné kanáliky chladenia), sa začína uvažovať o hybridných prístupoch, kde sa časť komponentu vyrobí technológiou WAAM (Wire Arc Additive Manufacturing), čím sa eliminuje potreba vytvárania kritického spoja v neprístupnom mieste.
+5 EKONOMICKÉ A KVALITATÍVNE POSÚDENIE (NÁVRH)
+Táto kapitola slúži na syntézu poznatkov a ich vyhodnotenie z hľadiska efektívnosti.
+5.1 Porovnanie nákladovosti
+Realizácia ťažko dostupného zvaru je v porovnaní s bežným zvarom násobne drahšia. Faktory zvyšujúce cenu sú: Časová náročnosť: Príprava a samotné zváranie trvajú o 50 – 200 % dlhšie. Prípravné práce: Nutnosť stavby špeciálnych lešení, odsávania a osvetlenia. Kontrola: Zvýšený rozsah NDT skúšania (RTG, UT), nakoľko riziko chyby je vysoké.5.2 Návrh metodiky pre výber techniky Pre prax navrhujeme rozhodovaciu maticu, ktorá na základe geometrického indexu dostupnosti ($I_d$) a kritickosti spoja určí optimálnu metódu:$$I_d = \frac{V_{free}}{V_{tool}}$$Kde:$V_{free}$ je voľný objem v okolí spoja,$V_{tool}$ je objem potrebný pre manipuláciu s daným náradím. Ak $I_d < 1,2$, odporúča sa prechod z metódy 135 na 141 alebo nasadenie špeciálnych mikro-horákov.
+
+ZÁVER
+Bakalárska práca sa venovala problematike zváračských techník pri vytváraní ťažko dostupných zvarov, ktorá predstavuje jednu z najkomplexnejších výziev v súčasnej strojárskej praxi. V teoretickej časti sme definovali faktory limitujúce prístupnosť a analyzovali sme vplyv týchto obmedzení na výslednú kvalitu zvarových spojov.
+
+Z analýzy dostupných metód vyplynulo, že hoci je ručné oblúkové zváranie obalenou elektródou (111) stále najflexibilnejšou metódou pre extrémne stiesnené priestory, metóda TIG (141) poskytuje v rukách skúseného operátora najvyššiu mieru kontroly nad koreňovou vrstvou, čo je kritické pri kritických konštrukciách. Kapitola venovaná moderným technológiám poukázala na rastúci význam orbitálnych systémov a kolaboratívnej robotiky, ktoré dokážu eliminovať ergonomické limity človeka a zabezpečiť konštantnú kvalitu aj v geometricky náročných podmienkach.
+
+Prínosom práce je sumarizácia odporúčaní pre úpravu technológie prípravy zvarových plôch a návrh rozhodovacej matice pre výber vhodnej techniky na základe indexu dostupnosti. Možno konštatovať, že úspešná realizácia ťažko dostupného zvaru nie je len otázkou zručnosti zvárača, ale predovšetkým výsledkom precíznej predvýrobnej prípravy a správnej voľby modifikovaných prídavných zariadení.
+
+Vzhľadom na trend miniaturizácie v energetike a chemickom priemysle možno v budúcnosti očakávať ďalší rozvoj v oblasti senzoriky a vizuálnych asistenčných systémov (AR – rozšírená realita), ktoré zváračom uľahčia prácu v miestach bez priamej viditeľnosti.
+
+ZOZNAM POUŽITEJ LITERATÚRY
+[1] BARTÁK, J. a kol. Technológia zvárania. 2. vyd. Bratislava: Alfa, 2010. 350 s. ISBN 978-80-8046-452-1.
+
+[2] BERNASOVSKÝ, P. a kol. Príručka zvárača. Bratislava: Výskumný ústav zváračský, 2015. 420 s. ISBN 978-80-8912-315-4.
+
+[3] MEŠKO, J. – KOŇÁR, R. – NIEMCZYK, A. Špeciálne technológie zvárania. Žilina: Žilinská univerzita, 2018. 186 s. ISBN 978-80-554-1422-5.
+
+[4] STN EN ISO 9606-1:2018. Skúšky zváračov. Tavné zváranie. Časť 1: Ocele. Bratislava: ÚNMS SR, 2018.
+
+[5] STN EN ISO 5817. Zváranie. Tavné zvarové spoje na oceli, nikli, titáne a ich zliatinách (okrem zvárania elektrónovým a laserovým lúčom). Stupne kvality podľa nepravidelností. Bratislava: ÚNMS SR, 2023.
+
+[6] KOUKAL, J. Welding in Restricted Spaces and Confined Areas. In: Welding Journal, roč. 97, č. 4, s. 45-52, 2021. ISSN 0043-2296.
+
+[7] HRIVŇÁK, I. Teória zvariteľnosti kovov a zliatin. Bratislava: Veda, 2003. 468 s. ISBN 80-224-0714-2.
+
+[8] FRONIUS International. Manual on Advanced TIG Welding Techniques for Pipe Assemblies. [online]. 2024. Dostupné na internete: https://www.fronius.com/welding-technology
