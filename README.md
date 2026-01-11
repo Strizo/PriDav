@@ -312,3 +312,7 @@ Overovali sme taktiež presnosť citácií. Jazykové modely si často vymyslia 
 ### Hypotéza 6: generické frázy
 
 LLM často používajú určité generické frázy na vyplnenie textu, ako napríklad "na základe uvedeného", "v neposlednom rade" a pod. Je teda zmysluplné predpokladať, že výskyt takýchto fráz bude väčší v diplomových prácach, ak boli napísané s asistenciou LLM a text nebol nejako zvlášť upravovaný pred odovzdaním. Človek má skôr tendenciu viac rozvíjať svoj jazyk počas písania a menej používa takéto generické frázy. Výskyt fráz sme počítali na 1000 slov, keďže na 1 slovo je táto hodnota príliš malá. Kód v súbore typical_phrases.py má k dispozícii určitú množinu týchto generických fráz. Následne zisťuje frekvencie ich výskytu v textoch prác. Wilcoxonov test tu zisťuje, či je štatisticky významný rozdiel výskytov týchto fráz medzi bakalárskymi a diplomovými prácami. S p-hodnotou 0.846 opäť nemôžeme hovoriť o štatistickej významnosti. Ukazuje sa naopak, že takéto frázy sa častejšie vyskytovali v bakalárskych prácach. Pravdepodobne preto, lebo študenti mali menšie vyjadrovacie schopnosti pri písaní bakalárok, alebo preto, že v diplomových prácach je menej priestoru na takéto frázy z dôvodu väčších nárokov na odbornosť textu.
+
+### Model na rozlišovanie AI prác
+
+Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. 
