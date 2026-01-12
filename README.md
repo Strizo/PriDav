@@ -315,7 +315,9 @@ LLM často používajú určité generické frázy na vyplnenie textu, ako napr�
 
 ### Model na rozlišovanie AI prác
 
-### Model na rozlišovanie AI prác Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. Tento prístup sme ale po pár prvých pokusoch o vytvorenie modelu ukončili, lebo jedna bakalárka bola príliš krátka na dostatočné natrénovanie modelu a prvotné pokusy dokázali určiť správne autora len v 2 prípadoch z 30. 
+### Model na rozlišovanie AI prác
+
+Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. Tento prístup sme ale po pár prvých pokusoch o vytvorenie modelu ukončili, lebo jedna bakalárka bola príliš krátka na dostatočné natrénovanie modelu a prvotné pokusy dokázali určiť správne autora len v 2 prípadoch z 30. 
 
 Po neúspechu identifikácie autora sme zmenili perspektívu problému. Namiesto otázky „kto je autorom textu?“ sme sa začali pýtať: „Je tento text napísaný človekom alebo generovaný umelou inteligenciou?“ Ide o binárnu klasifikačnú úlohu, ktorá je výrazne jednoduchšia a realistickejšia než rozlišovanie konkrétnych autorov. Cieľom už nie je identifikovať individuálny štýl, ale rozpoznať systematické rozdiely medzi ľudským a AI písaním. 
 
