@@ -315,4 +315,22 @@ LLM často používajú určité generické frázy na vyplnenie textu, ako napr�
 
 ### Model na rozlišovanie AI prác
 
-Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. 
+### Model na rozlišovanie AI prác Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. Tento prístup sme ale po pár prvých pokusoch o vytvorenie modelu ukončili, lebo jedna bakalárka bola príliš krátka na dostatočné natrénovanie modelu a prvotné pokusy dokázali určiť správne autora len v 2 prípadoch z 30. 
+
+Po neúspechu identifikácie autora sme zmenili perspektívu problému. Namiesto otázky „kto je autorom textu?“ sme sa začali pýtať: „Je tento text napísaný človekom alebo generovaný umelou inteligenciou?“ Ide o binárnu klasifikačnú úlohu, ktorá je výrazne jednoduchšia a realistickejšia než rozlišovanie konkrétnych autorov. Cieľom už nie je identifikovať individuálny štýl, ale rozpoznať systematické rozdiely medzi ľudským a AI písaním. 
+
+**Generovanie tréningových dát pomocou AI** 
+
+Keďže reálne AI-generované bakalárske práce neboli k dispozícii, bolo potrebné si ich explicitne vytvoriť. Rozhodli sme sa preto vygenerovať bakalárske práce pomocou viacerých dostupných AI, aby sme získali čo najrozmanitejší tréningový súbor. 
+Použité nástroje a skúsenosti s nimi: 
+- Perplexity spoluprácu úplne odmietlo s explicitným odôvodnením, že by mohlo ísť o akademický podvod.
+- Claude, ChatGPT a Le Chat mali problémy s generovaním takéhoto typu textu ale nebolo veľmi náročné ich presvedčiť.
+- DeepAI, Grok, Copilot a Gemini umožnili generovanie bakalárskych prác bez zásadných problémov, väčšinou postupne po častiach z dôvodu maximálnej veľmkosti odpovede.
+
+Výsledkom bolo 7 súborov s AI-generovanými bakalárskymi prácami na rôzne témy, ktoré sa snažili mať podobnú formu a štruktúru ako reálne práce. 
+
+AI-generované práce boli následne spracované rovnakým spôsobom ako originálne bakalárske práce, aby medzi triedami nevznikol technický rozdiel spôsobený predspracovaním. 
+
+Na takto pripravených dátach sme natrénovali jednoduchý klasifikačný model, ktorý sa učí rozlišovať ľudské bakalárske práce a AI-generované bakalárske práce. Model sa pritom neučí obsah textu, ale jeho štýlové vlastnosti, reprezentované pomocou n-gramov (či už znakov alebo slov/tokenov v prípade funkčných slov a POS). Výsledkom modelu nie je binárne rozhodnutie, ale pravdepodobnosť, s akou daná veta pôsobí ako AI-generovaná.
+Následne sme tento model použili na testovaciu vzorku viet z bakalárskych prác a potom na diplomové práce aby sme vedeli porovnať ako veľmi ako AI pôsobia vety z bakalárskych prác, ktoré vôbec nemôžu byť napísané AI a ako veľmi vety z diplomových prác a či sa tento podiel zmenil.
+
