@@ -1,0 +1,571 @@
+  UNIVERZITA KOMENSKÉHO V BRATISLAVE
+   FAKULTA SOCIÁLNYCH A EKONOMICKÝCH VIED
+
+ 
+
+  BAKALÁRSKA PRÁCA  
+
+  Politická ekonómia Šmolkov: Je tatko Šmolko benevolentný diktátor alebo predseda komunistickej strany?
+
+  2024  
+
+ 
+
+   UNIVERZITA KOMENSKÉHO V BRATISLAVE
+    FAKULTA SOCIÁLNYCH A EKONOMICKÝCH VIED
+
+  Politická ekonómia Šmolkov: Je tatko Šmolko benevolentný diktátor alebo predseda komunistickej strany?  
+
+Bakalárska práca
+
+  Študijný program:   Ekonomická teória  
+  Študijný odbor:   3.3.3 Ekonomika a manažment  
+  Školiace pracovisko:   Katedra ekonomickej teorie  
+  Vedúci bakalárskej práce:   Doc. PhDr. JánРимер, PhD.
+
+Bratislava, 2024
+
+ 
+
+   ČESTNÉ VYHLÁSENIE
+
+Čestne vyhlasujem, že som bakalársku prácu vypracoval/a samostatne s použitím uvedenej literatúry a pod vedením vedúceho bakalárskej práce.
+
+V Bratislave, dňa 15. mája 2024
+
+
+ 
+
+   POĎAKOVANIE
+
+Na tomto mieste by som sa rád/a poďakoval/a môjmu vedúcemu bakalárskej práce Doc. PhDr. Jánovi Římerovi, PhD. za cenné rady, trpezlivosť a odborné vedenie pri písaní tejto práce. Ďalej ďakujem mojej rodine za podporu počas celého štúdia, najmä v náročných obdobiach skúškového obdobia. Osobitné poďakovanie patrí aj mojim kolegom zo študentského krúžku politickej ekonómie, s ktorými som mohol/mohla diskutovať rôzne teoretické prístupy k problematike správania sa ekonomických aktérov v nešpecifikovaných inštitucionálnych prostrediach. V neposlednom rade ďakujem aj knihovníčkam z univerzitnej knižnice za pomoc pri vyhľadávaní zdrojov.
+
+ 
+
+   ABSTRAKT
+
+  ŠIMKO, Martin:   Politická ekonómia Šmolkov: Je tatko Šmolko benevolentný diktátor alebo predseda komunistickej strany? Bakalárska práca. Univerzita Komenského v Bratislave, Fakulta sociálnych a ekonomických vied, Katedra ekonomickej teórie. Vedúci bakalárskej práce: Doc. PhDr. Ján Římer, PhD. Bratislava, 2024, 58 s.
+
+Táto bakalárska práca sa zaoberá analýzou politicko-ekonomického systému hypotetického spoločenstva Šmolkov s osobitným zameraním na rozhodovací proces centrálnej autority reprezentovanej postavou tatka Šmolka. Cieľom práce je identifikovať, či správanie sa tejto centrálnej autority korešponduje viac s modelom benevolentného diktátora známeho z neoklasickej ekonómie, alebo či vykazuje charakteristiky typické pre predsedu komunistickej strany v systéme centrálneho plánovania.
+
+Práca využíva komparatívnu metódu a aplikuje teoretické koncepty z oblasti verejnej voľby, novej inštitucionálnej ekonómie a politickej ekonómie transformačných procesov. V rámci teoretickej časti sú vymedzené kľúčové charakteristiky oboch skúmaných modelov. Analytická časť obsahuje podrobnú komparáciu rozhodovacích procesov, alokačných mechanizmov a redistribučných politík v šmolkovskom spoločenstve.
+
+Výsledky práce naznačují, že tatko Šmolko vykazuje hybridné charakteristiky oboch modelov, pričom jeho správanie sa nedá jednoznačne kategorizovať do žiadnej z týchto dvoch ideálnych typológií. Práca prispieva k diskusii o aplikovateľnosti štandardných ekonomických modelov na neštandardné inštitucionálne prostredia.
+
+  Klúčové slová:   benevolentný diktátor, komunistická strana, politická ekonómia, centrálne plánovanie, verejná voľba, Šmolkovia, rozhodovací proces, alokačné mechanizmy
+
+ 
+
+   ABSTRACT
+
+  ŠIMKO, Martin:   Political Economy of the Smurfs: Is Papa Smurf a Benevolent Dictator or Chairman of the Communist Party? Bachelor thesis. Comenius University in Bratislava, Faculty of Social and Economic Sciences, Department of Economic Theory. Thesis supervisor: Doc. PhDr. Ján Římer, PhD. Bratislava, 2024, 58 p.
+
+This bachelor thesis analyzes the political-economic system of the hypothetical Smurf community with particular focus on the decision-making process of the central authority represented by Papa Smurf. The aim of the thesis is to identify whether the behavior of this central authority corresponds more to the model of a benevolent dictator known from neoclassical economics, or whether it exhibits characteristics typical of a chairman of the communist party in a central planning system.
+
+The thesis uses a comparative method and applies theoretical concepts from the field of public choice, new institutional economics, and political economy of transformation processes. The theoretical part defines the key characteristics of both examined models. The analytical part contains a detailed comparison of decision-making processes, allocation mechanisms, and redistributive policies in the Smurf community.
+
+The results suggest that Papa Smurf exhibits hybrid characteristics of both models, and his behavior cannot be unambiguously categorized into either of these two ideal typologies. The thesis contributes to the discussion on the applicability of standard economic models to non-standard institutional environments.
+
+  Keywords:   benevolent dictator, communist party, political economy, central planning, public choice, Smurfs, decision-making process, allocation mechanisms
+
+ 
+
+   OBSAH
+
+  ÚVOD   .................................................................................. 10
+
+  1 TEORETICKÉ VÝCHODISKÁ   .............................................. 13  
+  1.1 Model benevolentného diktátora v ekonómii .................... 13  
+  1.2 Charakteristiky centrálneho plánovania ............................ 16  
+  1.3 Teória verejnej voľby a kolektívne rozhodovanie ............... 19
+
+  2 METODOLÓGIA VÝSKUMU   ................................................ 23  
+  2.1 Výskumné otázky a hypotézy .......................................... 23  
+  2.2 Použité metódy a prístupy ............................................. 25  
+  2.3 Obmedzenia výskumu .................................................... 27
+
+  3 ANALÝZA POLITICKO-EKONOMICKÉHO SYSTÉMU ŠMOLKOV   .. 29  
+  3.1 Inštitucionálne prostredie šmolkovského spoločenstva ...... 29  
+  3.2 Rozhodovací proces tatka Šmolka .................................. 33  
+  3.3 Alokácia zdrojov a produkčné rozhodnutia ...................... 37  
+  3.4 Redistribučné mechanizmy ............................................ 41
+
+  4 KOMPARATÍVNA ANALÝZA   .............................................. 45  
+  4.1 Podobnosti s modelom benevolentného diktátora ............ 45  
+  4.2 Podobnosti s modelom predsedu komunistickej strany ..... 48  
+  4.3 Hybridné charakteristiky systému .................................. 51
+
+  ZÁVER   ................................................................................. 54
+
+  ZOZNAM POUŽITEJ LITERATÚRY   ........................................ 56
+
+ 
+
+   ÚVOD
+
+Problematika politicko-ekonomických systémov a ich klasifikácie predstavuje jednu z najdôležitejších oblastí ekonomickej teórie. Pochopenie toho, ako fungujú rôzne formy ekonomickej organizácie a aké sú ich dôsledky pre efektívnosť a blahobyt, je kľúčové nielen pre akademický výskum, ale aj pre praktickú hospodársku politiku. V tejto súvislosti sa v odbornej literatúre často stretávame s dvoma ideálnymi typmi organizácie ekonomickej moci: modelom benevolentného diktátora a modelom centrálneho plánovania typickým pre systémy riadené komunistickou stranou.
+
+Model benevolentného diktátora, ktorý je štandardným predpokladom vo veľkej časti welfare ekonómie a teórie hospodárskej politiky, predpokladá existenciu centrálnej autority, ktorá maximalizuje spoločenský blahobyt bez ohľadu na vlastné záujmy. Tento plánovač disponuje dokonalými informáciami a implementuje optimálne riešenia z hľadiska Pareto efektívnosti. Na druhej strane stojí model predsedu komunistickej strany v systéme centrálneho plánovania, ktorý je charakterizovaný informačnými asymetriami, byrokratickými štruktúrami a tendenciou uprednostňovať politické ciele pred ekonomickou efektívnosťou.
+
+Táto bakalárska práca si kladie za cieľ preskúmať, či sa tieto dva teoretické modely dajú empiricky rozlíšiť na príklade hypotetického spoločenstva Šmolkov. Šmolkovia predstavujú zaujímavý objekt analýzy z hľadiska politickej ekonómie, pretože ich spoločenstvo vykazuje mnoho charakteristík, ktoré sú relevantné pre štúdium kolektívneho rozhodovania, alokácie zdrojov a distribúcie moci. Centrálna postava tatka Šmolka zohráva úlohu, ktorá by sa dala prirovnať k role centrálneho plánovača alebo autoritatívneho lídra, čo umožňuje aplikovať na tento prípad štandardné nástroje politicko-ekonomickej analýzy.
+
+  Cieľ práce a výskumné otázky  
+
+Hlavným cieľom tejto bakalárskej práce je identifikovať, či správanie sa tatka Šmolka ako centrálnej autority v šmolkovskom spoločenstve korešponduje viac s modelom benevolentného diktátora alebo s modelom predsedu komunistickej strany. Na dosiahnutie tohto cieľa si práca kladie nasledujúce špecifické výskumné otázky:
+
+1. Aké sú kľúčové charakteristiky rozhodovania tatka Šmolka v oblasti alokácie zdrojov a organizácie produkcie?
+2. Do akej míry tatko Šmolko vykazuje charakteristiky benevolentného správania sa orientovaného na maximalizáciu kolektívneho blahobytu?
+3. Aké prvky jeho správania sa podobajú na mechanizmy typické pre centrálne plánované ekonomiky?
+4. Existujú hybridné charakteristiky, ktoré by naznačovali potrebu nového teoretického rámca pre pochopenie takýchto systémov?
+
+  Štruktúra práce  
+
+Práca je rozdelená do štyroch hlavných kapitol. Prvá kapitola poskytuje teoretický rámec pre analýzu a vymedzuje kľúčové koncepty z oblasti politickej ekonómie, teórie verejnej voľby a ekonómie centrálneho plánovania. Pozornosť je venovaná aj kritike modelu benevolentného diktátora a diskusii o jej realistických predpokladoch.
+
+Druhá kapitola sa venuje metodológii výskumu. V tejto časti sú špecifikované výskumné hypotézy, použité analytické nástroje a zdroje dát. Práca využíva primárne komparatívnu metódu a sekundárnu analýzu dostupných informácií o fungovaní šmolkovského spoločenstva.
+
+Tretia kapitola obsahuje podrobnú analýzu politicko-ekonomického systému Šmolkov. Skúma sa inštitucionálne prostredie, v ktorom tatko Šmolko operuje, jeho rozhodovací proces, mechanizmy alokácie zdrojov a redistribučné politiky. Pozornosť je venovaná aj otázkam legitimity moci a mechanizmom kontroly.
+
+Štvrtá kapitola prezentuje komparatívnu analýzu, v ktorej sú identifikované podobnosti a rozdiely medzi pozorovaným správaním tatka Šmolka a oboma teoretickými modelmi. Na základe tejto komparácie práca diskutuje o hybridnej povahe systému a jeho implikáciách pre ekonomickú teóriu.
+
+V závere sú zhrnuté hlavné zistenia práce, diskutované ich teoretické a praktické implikácie a navrhnuté smery pre budúci výskum v tejto oblasti.
+
+ 
+
+   1 TEORETICKÉ VÝCHODISKÁ
+
+    1.1 Model benevolentného diktátora v ekonómii
+
+Model benevolentného diktátora (benevolent dictator model) predstavuje jeden zo základných stavebných kameov modernej ekonómie blahobytu a teórie hospodárskej politiky. Tento model predpokladá existenciu centrálneho plánovača, ktorý disponuje dokonalými informáciami o preferenciách všetkých členov spoločnosti, produkčných možnostiach ekonomiky a má schopnosť implementovať akúkoľvek alokáciu zdrojov bez transakčných nákladov (Samuelson, 1954; Arrow, 1951).
+
+Základné charakteristiky modelu benevolentného diktátora možno zhrnúť do niekoľkých kľúčových predpokladov. Po prvé, plánovač maximalizuje spoločenskú užitkovú funkciu, ktorá agreguje preferencie všetkých jednotlivcov v ekonomike. Táto agregácia môže mať rôzne formy - od utilitaristickej sumy individuálnych úžitkov až po rawlsovský prístup maximalizácie úžitku najhoršie postaveného jedinca (Rawls, 1971). Po druhé, plánovač nemá vlastné záujmy, ktoré by boli v konflikte so záujmami spoločnosti. Neexistuje teda problém principal-agent, ktorý je inak všadeprítomný v reálnych politicko-ekonomických systémoch. Po tretie, informačné požiadavky modelu sú extrémne vysoké - plánovač musí poznať nielen preferenčné štruktúry všetkých aktérov, ale aj všetky relevantné technologické a zdrojové obmedzenia.
+
+Z hľadiska welfare ekonómie je benevolentný diktátor schopný identifikovať a implementovať Pareto optimálne alokácie. Podľa prvej vety ekonómie blahobytu, každá konkurenčná rovnováha je Pareto efektívna, no druhá veta tvrdí, že akákoľvek Pareto efektívna alokácia môže byť dosiahnutá ako konkurenčná rovnováha pri vhodnej redistribúcii počiatočných zdrojov (Mas-Colell et al., 1995). V tomto rámci je úlohou benevolentného diktátora vybrať tú Pareto optimálnu alokáciu, ktorá maximalizuje spoločenskú užitkovú funkciu, a následne zabezpečiť potrebnú redistribúciu.
+
+Kritika modelu benevolentného diktátora má dlhú tradíciu v ekonomickej vede. Hayek (1945) vo svojom slávnom článku "The Use of Knowledge in Society" argumentoval, že problém ekonomickej organizácie nie je primárne problémom alokácie daných zdrojov, ale skôr problémom využitia roztrúseného a fragmentovaného poznania. Žiadny centrálny plánovač nemôže disponovať všetkými relevantnými informáciami o lokálnych podmienkach, preferenciách a obchodných príležitostiach, ktoré sú rozptýlené medzi miliónmi ekonomických aktérov. Cenovú sústavu považoval za mechanizmus, ktorý dokáže tieto rozptýlené informácie efektívne agregovat a koordinovať.
+
+Škola verejnej voľby (public choice theory), ktorej zakladateľmi boli James Buchanan a Gordon Tullock, ponúkla ďalšiu zásadnú kritiku modelu benevolentného diktátora. Buchanan (1986) argumentoval, že predpoklad benevolencie je z metodologického hľadiska nekonzistentný s ekonomickým prístupom k ľudskému správaniu. Ak ekonomická teória predpokladá, že jednotlivci maximalizujú svoj vlastný úžitok na trhu, nie je dôvod predpokladať, že tí istí jednotlivci sa správajú odlišne, keď pôsobia v politickej sfére. Politici, byrokratia a voliči sledujú vlastné záujmy rovnako ako podnikatelia a spotrebitelia.
+
+Niskanen (1971) vo svojej teórii byrokracie argumentoval, že byrokratické organizácie majú tendenciu maximalizovať svoj rozpočet, čo vedie k nadmernej produkcii verejných statkov a neefektívnosti. Tento prístup je v priamom kontraste s modelom benevolentného diktátora, kde sa predpokladá, že verejní činitelia slúžia výlučne verejnému záujmu.
+
+Moderná literatúra v oblasti politickej ekonómie sa pokúša nájsť strednú cestu medzi krajnými predpokladmi úplnej benevolencie a úplného sebectva. Besley a Persson (2011) rozvinuli rámec, v ktorom kvalita vlády závisí od kapacity štátu a od politických inštitúcií, ktoré vytvárajú rôzne stimuly pre politikov. V niektorých inštitucionálnych kontextoch môžu byť stimuly politikov relatívne dobre zosúladené s verejným záujmom, zatiaľ čo v iných kontextoch môže dochádzať k značným odchýlkam.
+
+Acemoglu a Robinson (2012) vo svojej práci o ekonomických a politických inštitúciách rozlišujú medzi inkluzívnymi a extraktívnymi inštitúciami. Inkluzívne politické inštitúcie vytvárajú mechanizmy kontroly a vyvažovania moci, ktoré obmedzujú možnosti elít exploatovať zvyšok spoločnosti. To môže viesť k situáciám, kde správanie sa vlády sa viac približuje modelu benevolentného diktátora, hoci nie z dôvodu skutočnej benevolencie, ale kvôli inštitucionálnym obmedzeniam.
+
+Pre potreby tejto práce je dôležité definovať operacionálne kritériá, podľa ktorých možno identifikovať správanie sa približujúce modelu benevolentného diktátora. Medzi kľúčové indikátory patrí orientácia rozhodnutí na maximalizáciu kolektívneho blahobytu namiesto partikulárnych záujmov, schopnosť efektívne alokovať zdroje na základe objektívnych potrieb, transparentnosť rozhodovacieho procesu a absencia osobného obohacovania sa na úkor spoločnosti.
+
+    1.2 Charakteristiky centrálneho plánovania
+
+Centrálne plánovaná ekonomika predstavuje typ ekonomickej organizácie, v ktorom kľúčové rozhodnutia o produkcii, distribúcii a spotrebe sú realizované centrálnou autoritou namiesto toho, aby boli výsledkom decentralizovaných trhových interakcií (Kornai, 1992). Historicky boli systémy centrálneho plánovania spojené predovšetkým s komunistickými režimami 20. storočia, hoci prvky centrálneho plánovania sa vyskytovali aj v iných kontextoch, vrátane vojnových ekonomík demokratických krajín.
+
+Teoretické základy centrálneho plánovania položili marxistickí ekonómovia, ktorí kritizovali trhové mechanizmy ako anarchické a neefektívne. Marx a Engels predpokladali, že po revolúcii bude možné organizovať produkciu vedome a plánovite, čím sa odstránia plýtvanie a krízy charakteristické pre kapitalizmus. Lenin (1917) túto víziu rozvinul do konkrétnejšej predstavy o ekonomickom plánovaní riadenom diktátorom proletariátu.
+
+V praxi sa centrálne plánovanie v Sovietskom zväze a ďalších socialistických krajinách vyvinulo do komplexného systému hierarchicky organizovaných inštitúcií. Kornai (1992) identifikoval niekoľko kľúčových charakteristík klasického socialistického systému. Po prvé, dominancia štátneho vlastníctva výrobných prostriedkov takmer úplne eliminovala súkromný sektor. Po druhé, byrokratická koordinácia nahradila trhové mechanizmy ako hlavný spôsob alokácie zdrojov. Po tretie, existovala výrazná koncentrácia moci v rukách komunistickej strany, ktorá kontrolovala nielen ekonomické, ale aj politické a spoločenské procesy.
+
+Mechanizmus centrálneho plánovania fungoval prostredníctvom systému direktívnych plánov, ktoré špecifikovali produkčné ciele pre jednotlivé podniky a odvetvia. Plánovacie úrady, ako napríklad Gosplan v Sovietskom zväze, zostavovali päťročné plány a ročné operatívne plány, ktoré obsahovali tisícky ukazovateľov týkajúcich sa produkcie, investícií, zamestnanosti a cien (Nove, 1977). Podniky dostávali nielen produkčné príkazy, ale aj pridelené vstupy a direktívne ceny.
+
+Jedným z hlavných problémov centrálneho plánovania bol problém informácií a výpočtovej komplexnosti. Lange (1936) a Lerner (1944) v rámci debaty o socialistickom výpočte argumentovali, že centrálny plánovač môže simulovať trhový mechanizmus prostredníctvom iteratívneho procesu stanovovania cien. Hayek (1945) a Mises (1920) však namietali, že tento prístup ignoruje fundamentálny problém rozptýlených a tacitných znalostí, ktoré nie je možné centrálne agregovať.
+
+Empirická skúsenosť s centrálne plánovanými ekonomikami potvrdila mnohé z týchto teoretických obáv. Kornai (1980) identifikoval chronický nedostatok (shortage) ako charakteristický rys socialistických ekonomík. Keďže ceny boli stanovené administratívne a nepružne reagovali na zmeny v ponuke a dopyte, dochádzalo k neustálym nedostatkom niektorých tovarov a prebytkom iných. Podniky mali stimuly žiadať nadmerné množstvo vstupov ako poistku proti riziku nedodania a akumulovali nadmerné zásoby.
+
+Ďalším charakteristickým javom bola mäkká rozpočtová disciplína (soft budget constraint). Kornai (1986) opísal, ako štátne podniky nemuseli čeliť tvrdému rozpočtovému obmedzeniu typickému pre trhové ekonomiky. Ak podnik generoval straty alebo potreboval dodatočné zdroje, mohol očakávať finančnú podporu od štátu v podobe dotácií, daňových úľav alebo zrušenia dlhov. To eliminovalo tlak na efektívnosť a inovácie.
+
+Z politického hľadiska bol systém centrálneho plánovania neoddeliteľne spojený s vedúcou úlohou komunistickej strany. Táto vedúca úloha mala niekoľko dimenzií. Po prvé, strana monopolizovala politickú moc a neumožňovala existenciu nezávislých politických organizácií. Po druhé, významné hospodárske rozhodnutia boli politickými rozhodnutiami, pričom hranica medzi ekonomickou a politickou sférou bola nejasná. Po tretie, strana kontrolovala personálne obsadenie kľúčových pozícií v ekonomike prostredníctvom systému nomenklatúry (Voslensky, 1984).
+
+Predseda komunistickej strany v tomto systéme zohrával ústrednú úlohu. Na rozdiel od abstraktného benevolentného diktátora mal reálny politický líder čeliť množstvu konfliktných záujmov a obmedzení. Musel vyvažovať požiadavky rôznych frakcií v strane, udržiavať lojalitu byrokratického aparátu, reagovať na tlak zo strany populácie a niekedy aj na medzinárodné okolnosti.
+
+Rozhodovací proces v centrálne plánovaných ekonomikách bol často charakterizovaný kampanovitosťou a mobilizačnými prístupmi. Namiesto systematického a konzistentného plánovania dochádzalo k periodickým kampaniam zameraným na dosiahnutie konkrétnych cieľov, ktoré mohli byť často nerealistické. Zaleski (1980) opísal, ako sa Stalin rozhodol pre forsírovanú industrializáciu a kolektivizáciu poľnohospodárstva na základe politických úvah, ktoré ignorovali ekonomické náklady a ľudské obete.
+
+Birman (1978) analyzoval, ako fungoval skutočný proces plánovania v Sovietskom zväze, a zistil, že sa značne líšil od idealizovaných predstav o vedeckom riadení ekonomiky. Plánovanie bolo skôr výsledkom politického vyjednávania medzi rôznymi sektormi a regiónmi, pričom často dochádzalo k skresleniu informácií a stratégiám, ako obísť direktívne príkazy.
+
+Pre potreby tejto práce je dôležité identifikovať operatívne charakteristiky, ktoré umožnia rozpoznať prvky centrálneho plánovania v analyzovanom systéme. Medzi kľúčové indikátory patrí byrokratická hierarchia rozhodovacieho procesu, direktívne stanovenie produkčných úloh, administratívne určovanie alokácie zdrojov, slabá citlivosť na informácie o preferenciách jednotlivcov a tendencie k politizácii ekonomických rozhodnutí.
+
+    1.3 Teória verejnej voľby a kolektívne rozhodovanie
+
+Teória verejnej voľby aplikuje nástroje ekonomickej analýzy na štúdium politických procesov a kolektívneho rozhodovania. Základným metodologickým princípom tejto školy je rozšírenie predpokladu racionálneho, vlastný záujem sledujúceho správania z ekonomickej sféry do politickej sféry (Buchanan a Tullock, 1962). Namiesto predpokladu, že politici a byrokratia sledujú verejný záujem, teória verejnej voľby analyzuje, aké sú ich skutočné stimuly a ako tieto stimuly ovplyvňujú výsledky politického procesu.
+
+Arrow (1951) vo svojej prelomovej práci o kolektívnom rozhodovaní ukázal, že neexistuje žiadny ideálny hlasovací systém, ktorý by splňoval všetky rozumné požiadavky na agregáciu individuálnych preferencií do kolektívnej voľby. Jeho teória nemožnosti (impossibility theorem) demonštruje fundamentálne limity demokratického rozhodovania a spochybňuje predstavu, že existuje jednoznačná "vôľa ľudu", ktorú by vláda mohla implementovať.
+
+Black (1948) a Downs (1957) rozvinuli mediánový model voliča (median voter theorem), ktorý predpovedá, že v dvojstraníckom systéme s jednorozmerným politickým priestorom budú obe strany konvergovať k preferenciám mediánového voliča. Tento model má dôležité implikácie pre pochopenie toho, čo určuje výsledky demokratických procesov - nie je to nejaký objektívny verejný záujem, ale skôr preferencie stredového voliča.
+
+Tullock (1967) a Krueger (1974) vyvinuli teóriu rent-seeking, ktorá analyzuje, ako jednotlivci a skupiny investujú zdroje do aktivít zameraných na získanie privilegovaných pozícií alebo monopolných rents namiesto produktívnych aktivít. V kontexte centrálne plánovaných ekonomík môže rent-seeking nadobúdať podobu úsilia o získanie lepšej alokácie zdrojov, priaznivejších produkčných kvót alebo prístupu k deficitným tovarom.
+
+Olson (1965) v práci o logike kolektívnej akcie ukázal, že existuje asymetria medzi koncentrovanými záujmovými skupinami a rozptýlenými záujmami širokej verejnosti. Malé, dobre organizované skupiny majú väčšie stimuly a kapacitu presadiť svoje partikulárne záujmy, zatiaľ čo široká verejnosť čelí problému voľného jazdca pri organizovaní odporu. To vedie k systematickému skresleniu politického procesu v prospech úzkych záujmov na úkor všeobecného blahobytu.
+
+Niskanen (1971) aplikoval princípy teórie verejnej voľby na analýzu byrokracie a ukázal, že byrokratické agentúry majú tendenciu maximalizovať svoj rozpočet namiesto toho, aby efektívne poskytovali verejné služby. Keďže byrokratia má informačnú výhodu voči zákonodarcom a verejnosti o skutočných nákladoch poskytovania služieb, môže tuto asymetriu využiť na získanie nadmerných zdrojov.
+
+Weingast a Marshall (1988) analyzovali, ako inštitucionálne pravidlá v zákonodarných zboroch ovplyvňujú výsledky kolektívneho rozhodovania. Ukázali, že systém výborov a log-rolling (vzájomná podpora projektov) môže viesť k nadmerným výdavkom a partikulárnym projektom, ktoré nemajú ekonomické opodstatnenie, ale prinášajú politické výhody.
+
+V kontexte centrálne plánovaných ekonomík má teória verejnej voľby špecifické implikácie. Shleifer a Vishny (1994) analyzovali, ako absencia konkurencie v politickej sfére ovplyvňuje stimuly byrokratov a politikov. V demokratických systémoch hrozba straty moci v ďalších voľbách vytvára určité obmedzenie pre úplne extraktívne správanie. V autoritatívnych systémoch sú tieto obmedzenia slabšie alebo absentujú úplne.
+
+Wintrobe (1998) vyvinul teóriu diktatúry, ktorá analyzuje, ako diktátori riešia základný problém - ako zabezpečiť lojalitu svojich podporovateľov a kontrolovať potenciálnych oponentov. Ukázal, že existujú rôzne typy diktátorov - od totalitných, ktorí sa spoliehajú primárne na represia, až po tinymanov, ktorí kombinujú represia s určitými formami redistribúcie a patronáže.
+
+Dôležitým príspevkom teórie verejnej voľby je rozlíšenie medzi konštitucionálnou úrovňou rozhodovania a operatívnou úrovňou rozhodovania (Buchanan, 1987). Na konštitucionálnej úrovni sa rozhoduje o pravidlách hry - o inštitucionálnom rámci, v ktorom bude prebiehať následné rozhodovanie. Na operatívnej úrovni sa rozhoduje v rámci daných pravidiel. Kvalita kolektívneho rozhodovania závisí významne od toho, aké pravidlá boli zvolené na konštitucionálnej úrovni.
+
+North (1990) rozvinul inštitucionálny rámec pre analýzu ekonomickej zmeny, v ktorom inštitúcie definoval ako pravidlá hry v spoločnosti. Inštitúcie vytvárajú stimulačnú štruktúru pre ekonomických a politických aktérov. V systémoch s dobrými inštitúciami sú súkromné výnosy z produktívnych aktivít v súlade so spoločenskými výnosmi. V systémoch so zlými inštitúciami môžu byť súkromné výnosy z rent-seeking alebo predátorských aktivít vyššie než výnosy z produktívnych aktivít.
+
+Pre účely tejto práce je dôležité, že teória verejnej voľby poskytuje analytický rámec, ktorý umožňuje analyzovať politicko-ekonomické systémy bez toho, aby sme a priori predpokladali benevolenciu či korekcnosť rozhodovateľov. Namiesto toho nám umožňuje skúmať, aké stimuly vytvárajú konkrétne inštitucionálne usporiadania a ako tieto stimuly ovplyvňujú výsledky. V kontexte tejto práce to znamená, že môžeme analyzovať správanie tatka Šmolka nie ako vopred dané, ale ako výsledok inštitucionálneho prostredia, v ktorom operuje.
+
+ 
+
+   2 METODOLÓGIA VÝSKUMU
+
+    2.1 Výskumné otázky a hypotézy
+
+Táto bakalárska práca si kladie za cieľ odpovedať na hlavnú výskumnú otázku:   Vykazuje správanie tatka Šmolka ako centrálnej autority v šmolkovskom spoločenstve charakteristiky bližšie modelu benevolentného diktátora alebo modelu predsedu komunistickej strany v systéme centrálneho plánovania?  
+
+Z tejto hlavnej výskumnej otázky vyplývajú nasledujúce špecifické čiastkové výskumné otázky:
+
+  VO1:   Aké sú hlavné charakteristiky rozhodovacieho procesu tatka Šmolka v oblasti alokácie zdrojov a organizácie produkcie v šmolkovskom spoločenstve?
+
+  VO2:   Do akej miery tatko Šmolko pri svojom rozhodovaní zohľadňuje preferencia jednotlivých členov šmolkovského spoločenstva a aké mechanizmy používa na agregáciu týchto preferencií?
+
+  VO3:   Existujú v šmolkovskom spoločenstve mechanizmy kontroly a vyvažovania moci tatka Šmolka, a ak áno, ako efektívne fungujú?
+
+  VO4:   Aké sú hlavné motivácie tatka Šmolka pri rozhodovaní o redistribúcii a produkcii - maximalizácia kolektívneho blahobytu alebo udržanie vlastnej pozície a moci?
+
+  VO5:   Vykazuje ekonomický systém Šmolkov charakteristiky typické pre centrálne plánované ekonomiky, ako sú chronický nedostatok, mäkká rozpočtová disciplína a byrokratická koordinácia?
+
+Na základe teoretického rámca prezentovaného v predchádzajúcej kapitole formulujeme nasledujúce výskumné hypotézy:
+
+  H1:   Tatko Šmolko vykazuje hybridné charakteristiky, ktoré kombinujú prvky benevolentného diktátora s prvkami predsedu komunistickej strany, pričom jeho správanie sa nedá jednoznačne kategorizovať do žiadnej z týchto dvoch ideálnych typológií.
+
+  H2:   Rozhodovací proces tatka Šmolka vykazuje vyššiu mieru centralizácie a byrokratickej koordinácie typickej pre centrálne plánované ekonomiky než decentralizovanú agregáciu preferencií predpokladanú v modeli benevolentného diktátora.
+
+  H3:   Absencia formálnych mechanizmov kontroly a vyvažovania moci v šmolkovskom spoločenstve vytvára priestor pre prvky extraktívneho správania, hoci toto správanie nemusí byť plne realizované kvôli špecifickým charakteristikám šmolkovského sociálneho kapitálu.
+
+  H4:   Distribučné rozhodnutia tatka Šmolka sú ovplyvnené kombináciou faktorov vrátane objektívnych potrieb členov spoločenstva, ich špecializácie a produktívneho prínosu, ale aj úvah o udržaní sociálnej kohézie a vlastnej legitimity.
+
+  H5:   Ekonomický systém Šmolkov vykazuje niektoré charakteristiky centrálne plánovaných ekonomík, predovšetkým v oblasti alokačných mechanizmov, no v menšej miere vykazuje ich patológie ako chronický nedostatok alebo nízku efektívnosť.
+
+Tieto hypotézy budú testované prostredníctvom komparatívnej analýzy pozorovateľných charakteristík šmolkovského politicko-ekonomického systému s teoretickými predikciami oboch konkurenčných modelov. Keďže pracujeme s hypotetickým prípadovým štúdiom, nemôžeme aplikovať štandardné kvantitatívne metódy štatistického testovania hypotéz. Namiesto toho budeme používať kvalitatívne komparatívne metódy založené na systematickom porovnávaní pozorovaných charakteristík s teoretickými predikciami.
+
+    2.2 Použité metódy a prístupy
+
+Táto bakalárska práca využíva kvalitatívny výskumný dizajn založený na prípadovej štúdii (case study approach). Prípadová štúdia je definovaná ako intenzívne skúmanie jedného prípadu s cieľom pochopiť väčšiu triedu podobných javov (Gerring, 2004). V našom prípade je jednotkou analýzy politicko-ekonomický systém šmolkovského spoločenstva, ktorého štúdium má prispieť k širšiemu pochopeniu hybridných politicko-ekonomických systémov.
+
+Hlavnou metódou, ktorú používame, je   komparatívna analytická metóda  . Táto metóda zahŕňa systematické porovnávanie pozorovateľných charakteristík analyzovaného prípadu s teoretickými predikciami dvoch konkurenčných modelov - modelu benevolentného diktátora a modelu predsedu komunistickej strany. Pre každú analyzovanú dimenziu (rozhodovací proces, alokačné mechanizmy, redistribučné politiky, mechanizmy kontroly) identifikujeme kľúčové charakteristiky predpovedané oboma modelmi a následne hodnotíme, ktorému modelu viac korešpondujú pozorované charakteristiky v šmolkovskom spoločenstve.
+
+Druhá významná metóda je   inštitucionálna analýza  . Inštitucionálny prístup sa zameriava na formálne a neformálne pravidlá, ktoré štruktúrujú interakcie medzi aktérmi (North, 1990). V našom prípade analyzujeme inštitucionálne prostredie šmolkovského spoločenstva s cieľom identifikovať, aké stimuly toto prostredie vytvára pre rôznych aktérov, predovšetkým pre tatka Šmolka ako centrálnu autoritu. Inštitucionálna analýza nám umožňuje pochopiť nie len čo tatko Šmolko robí, ale aj prečo to robí - aké obmedzenia čelí a aké sú možné dôsledky rôznych druhov rozhodnutí.
+
+Tretia metóda je   konceptuálna analýza a typológia  . Na základe teoretickej literatúry sme vyvinuli typológiu kľúčových charakteristík oboch modelov. Táto typológia slúži ako analytický nástroj pre systematickú klasifikáciu pozorovaných javov. Typológia zahŕňa nasledujúce dimenzie:
+
+1.   Rozhodovací proces   - centralizovaný vs. participatívny; transparentný vs. netransparentný; založený na objektívnych kritériách vs. na diskrécii
+2.   Alokačné mechanizmy   - trhové vs. byrokratické; flexibilné vs. rigidné; reaktívne na zmeny vs. nereaktívne
+3.   Redistribučné politiky   - založené na potrebách vs. založené na politickej lojalite; univerzálne vs. selektívne
+4.   Mechanizmy kontroly   - prítomnosť vs. absencia; formálne vs. neformálne; efektívne vs. neefektívne
+5.   Informačné toky   - bottom-up vs. top-down; otvorené vs. filtrované
+
+Pri zbere dát používame metódu   sekundárnej analýzy existujúcich informácií   o šmolkovskom spoločenstve. Tieto informácie pochádzajú z rôznych zdrojov, ktoré dokumentujú fungovanie tohto spoločenstva. Hoci nemáme k dispozícii priamy prístup k primárnym dátam (napr. rozhovorom so šmolkami alebo participatívnemu pozorovaniu), môžeme analyzovať dostupné opisy a naratívy o fungovaní ich spoločenstva.
+
+Pri analýze dát aplikujeme   obsahovú analýzu (content analysis)  , ktorá systematicky kategorizuje a kóduje informácie podľa vopred definovaných kategórií zodpovedajúcich našej typológii. Každý pozorovaný jav alebo rozhodnutie tatka Šmolka je klasifikované podľa toho, ktorému teoretickému modelu viac zodpovedá.
+
+Ďalšou dôležitou metódou je   analýza kontrafaktuálov  . Pre niektoré kľúčové rozhodnutia tatka Šmolka skúmame, aké by boli pravdepodobné alternatívne rozhodnutia v rámci modelu benevolentného diktátora versus modelu predsedu komunistickej strany. Táto metóda nám pomáha odhaliť, ktorý model lepšie predpovedá skutočné pozorovateľné rozhodnutia.
+
+Nakoniec používame aj   procesné sledovanie (process tracing)  , ktoré sa zameriava na identifikáciu kauzálnych mechanizmov spájajúcich inštitucionálne prostredie s pozorovanými výsledkami. Táto metóda nám umožňuje rekonštruovať reťazec udalostí a rozhodnutí, ktoré vedú k špecifickým výsledkom, a tým testovať kauzálne tvrdenia oboch teoretických modelov.
+
+Z hľadiska analytického rámca používame   trianguláciu metód   - kombinujeme viaceré analytické prístupy a porovnávame ich výsledky s cieľom zvýšiť robustnosť našich záverov. Ak viaceré nezávislé analytické prístupy vedú k podobným záverom, zvyšuje to našu dôveru v platnosť týchto záverov.
+
+Pre zabezpečenie internej validity výskumu používame   techniku hľadania alternatívnych vysvetlení  . Pre každé pozorované správanie tatka Šmolka sa pýtame, či by mohlo byť vysvetlené aj inak než prostredníctvom jedného z našich dvoch teoretických modelov. Ak identifikujeme relevantné alternatívne vysvetlenia, zohľadňujeme ich v našej analýze.
+
+    2.3 Obmedzenia výskumu
+
+Každý výskum čelí určitým obmedzeniam, ktoré je potrebné explicitne uznať a diskutovať. V prípade tejto bakalárskej práce existuje niekoľko významných obmedzení, ktoré ovplyvňujú interpretáciu a zovšeobecniteľnosť našich záverov.
+
+Prvým a najzásadnejším obmedzením je   hypotetická povaha analyzovaného prípadu  . Šmolkovia sú fiktívne postavy z populárnej kultúry, nie skutočné ekonomické spoločenstvo. To znamená, že nemáme k dispozícii systematické empirické dáta o ich správaní, preferenciách, rozhodovacích procesoch alebo ekonomických výsledkoch. Informácie, ktoré máme k dispozícii, sú fragmentárne, neúplné a často interpretačne nejednoznačné. Toto obmedzenie je čiastočne zmiernené tým, že naším cieľom nie je empirická validácia teórie, ale skôr konceptuálna analýza a demonštrácia aplikovateľnosti teoretických rámcov.
+
+Druhým významným obmedzením je   problém kauzálnej inferencie  . Pri prípadovej štúdii jedného prípadu je mimoriadne ťažké robiť presvedčivé kauzálne tvrdenia, pretože nemáme možnosť kontrolovať alternatívne vysvetlenia prostredníctvom komparácie s inými prípadmi. Nemôžeme napríklad porovnať, ako by sa šmolkovské spoločenstvo správalo, keby namiesto tatka Šmolka bola iná centrálna autorita s odlišnými charakteristikami. Tento problém sa snažíme riešiť prostredníctvom analýzy kontrafaktuálov a procesného sledovania, no tieto metódy majú svoje vlastné limity.
+
+Tretím obmedzením je   absencia kvantitatívnych dát  , ktorá neumožňuje použitie štatistických metód a presnejšie meranie skúmaných javov. Nemôžeme napríklad kvantifikovať, aký podiel rozhodnutí tatka Šmolka zodpovedá kritériám benevolentného diktátora versus predsedu komunistickej strany. Namiesto toho sa musíme spoliehať na kvalitatívne hodnotenia a interpretácie, ktoré sú nevyhnutne subjektívnejšie.
+
+Štvrtým obmedzením je   problém operacionalizácie teoretických konceptov  . Mnohé kľúčové koncepty v politickej ekonómii - ako benevolencia, verejný záujem, efektívnosť alokácie - sú ťažko merateľné aj v reálnych ekonomikách s bohatými dátami. V prípade hypotetického spoločenstva je ich operacionalizácia ešte problematickejšia. Snažíme sa tento problém riešiť prostredníctvom vývoja jasnej typológie pozorovateľných charakteristík zodpovedajúcich týmto abstraktným konceptom, no uznávame, že mapping medzi teóriou a pozorovaniami je nevyhnutne nedokonalý.
+
+Piatym obmedzením je   časová a zdrojová konštancia bakalárskej práce  . Komplexná analýza politicko-ekonomického systému by v ideálnom prípade vyžadovala rozsiahly výskum, viacnásobné iterácie analýzy a možno aj zber primárnych dát. V rámci bakalárskej práce sú tieto možnosti limitované časovým rámcom a rozsahom práce.
+
+Šiestym obmedzením je   potenciálny problém interpretačnej objektivity  . Pri analýze fiktívneho spoločenstva existuje riziko, že naše interpretácie môžu byť ovplyvnené našimi vlastnými predchádzajúcimi presvedčeniami o tom, ktorý teoretický model je vhodnejší alebo relevantnejší. Snažíme sa toto riziko minimalizovať prostredníctvom explicitného formulovania kritérií pre kategorizáciu pozorovaní a systematického hľadania protiargumentov k našim predbežným záverom.
+
+Siedmym obmedzením je   problém zovšeobecniteľnosti záverov  . Aj keby naša analýza šmolkovského spoločenstva bola úplne presvedčivá, zostáva otázka, do akej miery sú naše zistenia relevantné pre pochopenie reálnych politicko-ekonomických systémov. Šmolkovské spoločenstvo má množstvo špecifických charakteristík - malú veľkosť, homogénnosť, absencia značnej nerovnosti - ktoré ho odlišujú od väčšiny reálnych spoločností. Naše zistenia by preto mali byť chápané skôr ako ilustračné než ako priamo aplikovateľné na reálne prípady.
+
+Ôsmym obmedzením je   nemožnosť verifikácie a replikácie  . V štandardnom vedeckom výskume môžu iní bádatelia overiť naše zistenia tým, že replikujú náš výskum na tých istých dátach alebo vykonajú podobný výskum na rôznych dátach. V prípade analýzy fiktívneho spoločenstva je priestor pre verifikáciu obmedzený - iní výskumníci by pravdepodobne dospeli k podobným popisom pozorovateľných charakteristík, no mohli by ich interpretovať odlišne v rámci našich teoretických rámcov.
+
+Napriek týmto obmedzeniam sa domnievame, že táto bakalárska práca môže priniesť užitočné konceptuálne príspevky. Aj keď naše zistenia nemôžu byť priamo zovšeobecnené na reálne ekonomiky, môžu ilustrovať aplikáciu teoretických rámcov, odhaliť ich silné a slabé stránky a potenciálne naznačiť smery pre budúci výskum reálnych hybridných politicko-ekonomických systémov.
+
+Dôležité je zdôrazniť, že tieto obmedzenia sú inherentné výskumnému dizajnu prípadovej štúdie hypotetického prípadu a nie sú výsledkom metodologických chýb. Uvedomenie si týchto obmedzení je prvým krokom k ich zmierňovaniu a k adekvátnej interpretácii výsledkov výskumu. V analytických kapitolách budeme priebežne upozorňovať na špecifické prípady, kde tieto obmedzenia obzvlášť ovplyvňujú naše závery.
+
+ 
+
+   3 ANALÝZA POLITICKO-EKONOMICKÉHO SYSTÉMU ŠMOLKOV
+
+    3.1 Inštitucionálne prostredie šmolkovského spoločenstva
+
+Šmolkovské spoločenstvo predstavuje malú, relatívne homogénnu komunitu s približne stovkou členov, ktorá žije v izolovanom geografickom prostredí - hlbokom lese, v oblasti charakterizovanej prítomnosťou veľkých húb slúžiacich ako obydlia. Táto geografická izolácia má významné implikácie pre inštitucionálne usporiadanie spoločenstva, keďže obmedzuje možnosti vonkajšieho obchodu a vytvára vysoký stupeň ekonomickej sebestačnosti.
+
+Z hľadiska vlastníckych vzťahov šmolkovské spoločenstvo vykazuje charakteristiky, ktoré možno označiť za   kolektívne vlastníctvo   alebo   nepresne definované vlastnícke práva  . Neexistujú jasné dôkazy o súkromnom vlastníctve výrobných prostriedkov v klasickom zmysle. Jednotlivé šmolky síce obývajú vlastné huby a disponujú určitými osobnými predmetmi, no hlavné produkčné zdroje - pôda, nástroje, zásoby surovín - sa zdajú byť v určitej forme spoločného užívania. Táto nejednoznačnosť vlastníckych vzťahov je z hľadiska novej inštitucionálnej ekonómie (North, 1990) významná, pretože nejasne definované vlastnícke práva môžu viesť k problémom ako tragédia občiny (Hardin, 1968) alebo nedostatočné investície do dlhodobého zlepšovania.
+
+Politická štruktúra šmolkovského spoločenstva je charakterizovaná   absenciou formálnych demokratických inštitúcií  . Neexistujú pozorovateľné voľby, referendum ani iné mechanizmy kolektívneho rozhodovania založeného na hlas jedného člena. Moc je sústredená v rukách tatka Šmolka, ktorého pozícia sa zdá byť založená skôr na tradičnej autorite (v Weberovskom zmysle) než na racionálno-legálnej legitimite. Jeho vedúca úloha je akceptovaná ostatnými členmi spoločenstva, no nie je jasné, či existuje mechanizmus na jej legálne spochybnenie alebo zmenu.
+
+Dôležitým aspektom inštitucionálneho prostredia je   absencia formálneho práva a justičného systému  . Šmolkovské spoločenstvo nemá písané zákony, súdy ani exekutívne orgány vynucovania pravidiel. Toto však neznamená, že by spoločenstvo fungovalo v stave anarchie. Existujú neformálne normy a pravidlá správania, ktorých dodržiavanie je zabezpečované prostredníctvom sociálnej kontroly, reputačných mechanizmov a prípadne aj priamych zásahov tatka Šmolka. Z hľadiska teórie kolektívnej akcie (Ostrom, 1990) môže byť malá veľkosť spoločenstva výhodou, pretože uľahčuje monitorovanie dodržiavania pravidiel a znižuje náklady na koordináciu.
+
+Ekonomická organizácia šmolkovského spoločenstva vykazuje určitý stupeň   špecializácie a deľby práce  . Jednotlivé šmolky majú pridelené špecifické úlohy a profesie - kuchár Šmolko sa venuje príprave jedla, majster Šmolko výrobe nástrojov a oprávam, záhradník Šmolko pestovaniu plodín a tak ďalej. Táto špecializácia naznačuje, že spoločenstvo dosahlo úroveň produktivity, ktorá umožňuje presiahnuť subsistenčné hospodárstvo. Zároveň však vzniká otázka, ako je koordinovaná táto deľba práce - či prostredníctvom decentralizovaných trhových mechanizmov alebo centralizovaným prideľovaním úloh.
+
+Kriticky dôležitým prvkom inštitucionálneho prostredia je   absencia peňažného systému a formálnych trhov  . Šmolky si nevymieňajú tovary a služby prostredníctvom peňazí, neexistujú ceny v klasickom zmysle a pozorujeme len veľmi obmedzenú formu barterového obchodu. Toto má fundamentálne dôsledky pre fungovanie ekonomiky. Bez cien ako informačného mechanizmu (Hayek, 1945) je mimoriadne náročné efektívne alokovať zdroje a koordinovať produkciu. Centrálna autorita musí nejako riešiť problém alokácie bez pomoci trhového mechanizmu.
+
+Z hľadiska externých vzťahov je šmolkovské spoločenstvo relatívne   izolované  , no nie úplne autarkické. Existujú sporadické kontakty s okolitým svetom, predovšetkým s ľudskými spoločenstvami, no tieto kontakty sú skôr príležitostné než systematické. Neexistuje rozvinutý zahraničný obchod ani integrácia do väčších ekonomických štruktúr. Táto izolácia má ambivalentné dôsledky - na jednej strane chráni spoločenstvo pred externými šokmi a zachováva jeho autonómiu, na druhej strane obmedzuje prístup k novým technológiám, tovarom a poznatkom.
+
+Významným faktorom je aj   relatívna homogénnosť   členov spoločenstva. Hoci existuje určitá diferenciácia v schopnostiach a preferenciách (vyjadrená rôznymi menovkami ako múdry Šmolko, silný Šmolko a pod.), neexistujú výrazné triedne, etnické alebo iné rozdiely, ktoré by vytvárali hlboké sociálne štieapenie. Táto homogénnosť uľahčuje konsenzus a znižuje konflikty, ktoré by mohli komplikovať kolektívne rozhodovanie (Alesina a La Ferrara, 2005).
+
+Dôležitým aspektom je aj   úloha sociálneho kapitálu   (Putnam, 2000). Šmolkovské spoločenstvo sa zdá vykazovať vysokú úroveň dôvery, reciprocity a kooperácie. Členovia spoločenstva pravidelne spolupracujú na spoločných projektoch, pomáhajú si vzájomne a zdieľajú zdroje. Tento sociálny kapitál môže čiastočne kompenzovať absencia formálnych inštitúcií a trhových mechanizmov. Vysoká úroveň dôvery znižuje transakčné náklady a uľahčuje koordináciu bez potreby formálnych zmlúv alebo vynucovacích mechanizmov.
+
+Z hľadiska technologickej úrovne šmolkovské spoločenstvo operuje na relatívne nízkej úrovni s   predindustriálnymi technológiami  . Produkcia je primárne založená na manuálnej práci s jednoduchými nástrojmi. Neexistuje mechanizácia ani využívanie pokročilých technológií. Toto má dôsledky pre produktivitu a možnosti ekonomického rastu. Zároveň nízka technologická úroveň znamená, že informačné požiadavky na centrálne plánovanie sú relatívne zvládnuteľné v porovnaní s modernou komplexnou ekonomikou.
+
+Ďalším relevantným faktorom je   absencia populačného rastu a demografických zmien  . Šmolkovské spoločenstvo sa zdá byť veľmi stabilné z hľadiska počtu členov a vekovej štruktúry. Neexistujú dôkazy o výraznom prírastku populácie, migrácii alebo starnutí. Táto demografická stabilita znižuje potrebu dynamickej adaptácie ekonomického systému a uľahčuje dlhodobé plánovanie.
+
+Z hľadiska environmentálnych podmienok šmolkovské spoločenstvo žije v relatívne bohatom prírodnom prostredí, ktoré poskytuje prístup k základným zdrojom - voda, potrava z lesa, stavebné materiály. Táto relatívna hojnosť prírodných zdrojov môže zmierňovať ekonomické konflikty a znižovať tlak na efektívnu alokáciu. Spoločenstvo nečelí existenčnej kríze, ktorá by vynucovala radikálne ekonomické reformy.
+
+Nakoniec je dôležité poznamenať   absencia externých bezpečnostných hrozieb  , ktoré by vyžadovali značné zdroje na obranu. Hoci šmolky občas čelia výzvam zo strany antagonistov (ako Gargamel), tieto hrozby nie sú systematické a nevyžadujú udržiavanie stáleho vojenského aparátu. To znamená, že ekonomické zdroje nemusia byť významne odvádzané na bezpečnostné účely.
+
+Sumarizujúc inštitucionálne prostredie šmolkovského spoločenstva, možno konštatovať, že je charakterizované malou veľkosťou, geografickou izoláciou, absenciou formálnych demokratických a trhových inštitúcií, vysokým sociálnym kapitálom, relatívnou homogénnosťou a technologickou jednoduchosťou. Toto prostredie vytvára špecifické podmienky, v ktorých môže centralizované rozhodovanie fungovať relatívne efektívne, no zároveň chýbajú mechanizmy kontroly moci charakteristické pre pluralistické demokracie.
+
+    3.2 Rozhodovací proces tatka Šmolka
+
+Rozhodovací proces tatka Šmolka predstavuje centrálny bod našej analýzy, pretože práve v charakteristikách tohto procesu možno identifikovať kľúčové rozdiely medzi modelom benevolentného diktátora a modelom predsedu komunistickej strany. Naša analýza sa zameriava na niekoľko dimenzií rozhodovacieho procesu: stupeň centralizácie, participácie, transparentnosti a kritériá, na základe ktorých sú rozhodnutia realizované.
+
+  Centralizácia rozhodovania  
+
+Rozhodovací proces v šmolkovskom spoločenstve je výrazne   centralizovaný   v rukách tatka Šmolka. Kľúčové rozhodnutia týkajúce sa alokácie zdrojov, organizácie produkcie, riešenia krízových situácií a strategického smerovania spoločenstva sú primárne jeho doménou. Táto centralizácia sa prejavuje v rôznych oblastiach:
+
+V oblasti   produkčných rozhodnutí   tatko Šmolko rozhoduje o tom, čo sa bude produkovať, v akom množstve a kedy. Napríklad pri príprave na zimu rozhoduje o rozsahu zásob potravín, ktoré je potrebné nahromadiť, o type plodín, ktoré sa budú pestovať, a o alokácii pracovnej sily na rôzne produkčné aktivity. Hoci môže konzultovať s príslušnými šmolkami (napríklad so záhradníkom Šmolkom ohľadom pestovania), finálne rozhodnutie leží na ňom.
+
+V oblasti   krízového manažmentu   je centralizácia rozhodovania ešte výraznejšia. Keď spoločenstvo čelí externe hrozbe alebo prírodnej katastrofe, tatko Šmolko preberá plnú kontrolu a vydáva direktívne príkazy. Ostatní členovia spoločenstva sa očakávane podriaďujú bez diskusie. Táto centralizácia v krízových situáciách môže byť efektívna z hľadiska rýchlej reakcie, no zároveň odráža absencia rozdelenia moci.
+
+V oblasti   dlhodobého plánovania   tatko Šmolko formuluje víziu a strategické ciele pre spoločenstvo. Rozhoduje o tom, či investovať zdroje do nových projektov, či prijať nových členov (hoci toto je vzácne), či zmeniť organizáciu práce a podobne.
+
+  Participácia a konzultácie  
+
+Napriek vysokému stupňu centralizácie existujú určité   prvky participácie   v rozhodovanom procese. Tatko Šmolko nie je úplne izolovaný a občas konzultuje s ostatnými šmolkami, predovšetkým s tými, ktorí majú špecifické expertízy relevantné pre dané rozhodnutie. Napríklad pri technických otázkach môže konzultovať s majstrom Šmolkom, pri záležitostiach týkajúcich sa potravy s kuchárom Šmolkom a tak ďalej.
+
+Tieto konzultácie však majú skôr   informatívny než rozhodovací charakter  . Tatko Šmolko získava informácie a rady, no konečné rozhodnutie robí sám. Neexistuje formálny mechanizmus, prostredníctvom ktorého by ostatní členovia spoločenstva mohli vetovať jeho rozhodnutia alebo vynútiť alternatívne riešenia.
+
+V niektorých prípadoch možno pozorovať   spontánne zhromaždenia   šmolkovského spoločenstva, kde sú diskutované dôležité otázky. Tieto zhromaždenia však nemajú formálny charakter rozhodovacieho orgánu. Skôr slúžia na informovanie členov spoločenstva o rozhodnutiach tatka Šmolka a na vytvorenie konsenzu okolo týchto rozhodnutí. Tatko Šmolko môže upraviť svoje plány na základe reakcií z týchto zhromaždení, no nie je k tomu formálne zaviazaný.
+
+  Transparentnosť rozhodovania  
+
+Rozhodovací proces vykazuje   zmiešané charakteristiky z hľadiska transparentnosti  . Na jednej strane tatko Šmolko zvyčajne vysvetľuje svoje rozhodnutia ostatným šmolkom a zdôvodňuje ich v termínoch kolektívneho dobra. Nejedná tajne ani konšpiratívne, čo by naznačovalo snahu o transparentnosť.
+
+Na druhej strane nie sú jasné   formálne procedúry  , podľa ktorých sa rozhoduje. Neexistujú písané pravidlá špecifikujúce, kedy a ako majú byť určité typy rozhodnutí realizované, kto má byť konzultovaný, aké kritériá majú byť použité pri hodnotení alternatív. Toto vytvára priestor pre diskréciu a potenciálne pre arbitrárnosť.
+
+Absencia formálnych procedúr znamená, že   predvídateľnosť rozhodnutí   je nízka. Ostatní členovia spoločenstva nemôžu s istotou predvídať, ako bude tatko Šmolko reagovať na nové situácie, pretože neexistujú jasné pravidlá. Táto nepredvídateľnosť môže vytvárať neistotu, ktorá demotivuje individuálnu iniciatívu a podnikavosť.
+
+  Kritériá rozhodovania  
+
+Zásadnou otázkou je, na základe akých   kritérií   tatko Šmolko robí svoje rozhodnutia. Z pozorovateľného správania možno identifikovať niekoľko faktorov, ktoré ovplyvňujú jeho rozhodnutia:
+
+1.   Kolektívne blaho   - Mnohé rozhodnutia tatka Šmolka sa zdajú byť motivované snahou maximalizovať celkový blahobyt šmolkovského spoločenstva. Napríklad organizácia zásobovania na zimu, koordinácia kolektívnej obrany proti hrozbám, riešenie vnútorných konfliktov - všetko toto smeruje k ochrane a zlepšeniu pozície celého spoločenstva.
+
+2.   Spravodlivosť a rovnosť   - Distribučné rozhodnutia tatka Šmolka vykazujú určitú orientáciu na rovnosť. Neexistujú dôkazy o tom, že by niektoré šmolky dostávali systematicky preferenčné zaobchádzanie alebo že by tatko Šmolko sa osobne obohacoval. Redistribúcia zdrojov sa zdá byť založená skôr na potrebách než na moci alebo privilégiách.
+
+3.   Tradícia a precedens   - V niektorých prípadoch sa zdá, že tatko Šmolko rozhoduje na základe toho, ako boli podobné situácie riešené v minulosti. Toto konzervatívne rozhodovanie môže zabezpečovať stabilitu a predvídateľnosť, no zároveň môže brániť inováciám a adaptácii na nové podmienky.
+
+4.   Paternalizmus   - Mnohé rozhodnutia tatka Šmolka majú paternalistický charakter v tom zmysle, že sa riadia tým, čo on považuje za dobré pre ostatných, nie nutne tým, čo oni sami preferujú. Napríklad môže zakázať určité aktivity, ktoré považuje za nebezpečné, aj keď by ich niektoré šmolky rady vykonávali.
+
+5.   Udržanie poriadku a stability   - V situáciách konfliktov alebo rozporov tatko Šmolko intervenuje s cieľom obnoviť harmoniu a poriadok. Tento cieľ môže niekedy prevážiť nad inými úvahami, ako je napríklad individuálna sloboda alebo efektívnosť.
+
+  Informačné základy rozhodovania  
+
+Kritickou otázkou je, na základe akých   informácií   tatko Šmolko robí svoje rozhodnutia. Malá veľkosť šmolkovského spoločenstva znamená, že má relatívne dobrý prehľad o potrebách, preferenciách a schopnostiach jednotlivých členov. Táto informačná výhoda je kľúčová - model benevolentného diktátora predpokladá dokonalé informácie, zatiaľ čo skúsenosť s centrálnym plánovaním vo veľkých ekonomikách ukazuje, že informačné problémy sú jedným z hlavných zdrojov neefektívnosti.
+
+V šmolkovskom spoločenstve tatko Šmolko získava informácie primárne prostredníctvom   priamych osobných kontaktov   s jednotlivými šmolkami. Keďže spoločenstvo je malé a členovia žijú v blízkosti, môže priamo pozorovať ich potreby a problémy. Toto je výrazne odlišné od situácie vo veľkých centrálne plánovaných ekonomikách, kde centrálna autorita musí spoliehať na formálne reportovacie systémy, ktoré sú náchylné na skresľovanie informácií.
+
+Napriek tejto informačnej výhode však existujú   limity informácií   dostupných tatkovi Šmolkovi. Nemôže poznať všetky subjektívne preferencie členov spoločenstva, predovšetkým keď tieto preferencie nie sú explicitne vyjadrené. Nemôže vedieť o všetkých potenciálnych príležitostiach alebo alternatívnych riešeniach problémov, ktoré by mohli byť objavené prostredníctvom decentralizovaného experimentovania.
+
+  Mechanizmy kontroly a spätnej väzby  
+
+Dôležitou otázkou je, aké existujú   mechanizmy kontroly   rozhodnutí tatka Šmolka a spätnej väzby o ich výsledkoch. Absencia formálnych demokratických inštitúcií znamená, že neexistuje mechanizmus, prostredníctvom ktorého by ho ostatní členovia spoločenstva mohli odvolať alebo formálne spochybniť jeho autoritu.
+
+Existujú však   neformálne mechanizmy kontroly  . Ak by rozhodnutia tatka Šmolka viedli k výrazne negatívnym výsledkom alebo keby sa správal výrazne proti záujmom spoločenstva, mohol by čeliť stratena dôvery a rešpektu. V malej, úzko prepojenej komunite je reputácia mimoriadne dôležitá a jej strata môže byť účinným obmedzením moci.
+
+Ďalším neformálnym mechanizmom je možnosť   odchodu   (voice vs. exit v zmysle Hirschmana, 1970). Hoci odchod zo šmolkovského spoločenstva nie je bežný, teoreticky by nespokojní členovia mohli opustiť spoločenstvo, ak by sa rozhodnutia tatka Šmolka stali neúnosné. Táto možnosť exit vytvára určité obmedzenie arbitrárnej moci.
+
+    3.3 Alokácia zdrojov a produkčné rozhodnutia
+
+Mechanizmy alokácie zdrojov a organizácie produkcie sú kľúčové pre pochopenie ekonomickej povahy šmolkovského systému. V tejto podkapitole analyzujeme, ako sú v šmolkovskom spoločenstve riešené základné ekonomické otázky - čo produkovať, ako produkovať a pre koho produkovať.
+
+  Určovanie produkčných priorít  
+
+Rozhodnutia o tom,   čo produkovať  , sú primárne centralizované v rukách tatka Šmolka, hoci s určitými vstupmi od špecializovaných šmolkov. Proces určovania produkčných priorít sa zdá byť založený na kombinácii nasledujúcich faktorov:
+
+1.   Základné potreby   - Prioritou je zabezpečenie základných potrieb všetkých členov spoločenstva: potrava, ošatenie, úkryt, základné nástroje. Toto korešponduje s ideou minimálnej životnej úrovne alebo subsistenčného minima. Tatko Šmolko zjavne nepripúšťa situáciu, kde by niektorí členovia spoločenstva trpeli nedostatkom základných potrieb, zatiaľ čo iné zdroje by boli alokované na luxusné alebo menej prioritné aktivity.
+
+2.   Sezónne výkyvy   - Produkčné rozhodnutia sú výrazne ovplyvnené sezónnymi cyklami. Pred zimou sa prioritou stáva akumulácia zásob potravín, príprava vykurovacích materiálov a podobne. Toto si vyžaduje predvídavé plánovanie a koordináciu produkcie naprieč rôznymi sektormi.
+
+3.   Kolektívne projekty   - Okrem individuálnej produkcie sa šmolkovské spoločenstvo občas púšťa do kolektívnych projektov ako stavba nových štruktúr, organizácia osláv, príprava na obranu a podobne. Tatko Šmolko rozhoduje o tom, kedy a ako budú tieto projekty realizované, a aké zdroje budú naň alokované.
+
+4.   Reagovanie na krízy   - V situáciách kríz (prírodné katastrofy, externé hrozby) dochádza k rapídnemu preorientovaniu produkcie na riešenie akútneho problému. Toto vyžaduje flexibilitu v alokácii zdrojov a schopnosť rýchlej mobilizácie.
+
+Absencia   cenového mechanizmu   znamená, že produkčné rozhodnutia nie sú vedené signálmi o relatívnej zriedkavosti alebo hodnotnosti rôznych tovarov a služieb. Tatko Šmolko musí spoliehať na svoje vlastné hodnotenie toho, čo je dôležité a potrebné, prípadne na priamu komunikáciu s členmi spoločenstva o ich potrebách a želaniach.
+
+  Organizácia produkcie a deľba práce  
+
+Šmolkovské spoločenstvo vykazuje pomerne sofistikovanú   deľbu práce   založenú na špecializácii. Jednotlivé šmolky majú pridelené špecifické úlohy a profesie, pričom táto špecializácia sa zdá byť relatívne stabilná v čase. Tatko Šmolko zohráva kľúčovú úlohu v tejto špecializácii viacerými spôsobmi:
+
+1.   Prideľovanie úloh   - Tatko Šmolko rozhoduje (alebo minimálne schvaľuje), ktorá šmolka bude mať akú úlohu v spoločenstve. Toto prideľovanie sa zdá byť založené na kombináciifaktorov vrátane prirodzených schopností a sklonov jednotlivcov, potrieb spoločenstva a možno aj preferencií samotných šmolkov.
+
+2.   Koordinácia aktivít   - Pri kolektívnych projektoch, ktoré vyžadujú spoluprácu viacerých špecializovaných šmolkov, tatko Šmolko koordinuje ich aktivity. Rozhoduje o časovaní, sekvencovaní a synchronizácii rôznych úloh.
+
+3.   Riešenie konfliktov zdrojov   - Keď viacero aktivít súťaží o tie isté obmedzené zdroje (pracovná sila, materiály, čas), tatko Šmolko rozhoduje o prioritách a alokácii.
+
+Dôležitá je otázka, do akej miery je táto deľba práce   dobrovoľná   versus   direktivna  . Na jednej strane sa zdá, že šmolky vo všeobecnosti vykonávajú svoje priradené úlohy ochotne a nemajú výrazné námietky proti svojej špecializácii. 
+
+# ZOZNAM POUŽITEJ LITERATÚRY
+
+Acemoglu, D., & Robinson, J. A. (2012).  Why Nations Fail: The Origins of Power, Prosperity, and Poverty . New York: Crown Publishers.
+
+Alesina, A., & La Ferrara, E. (2005). Ethnic Diversity and Economic Performance.  Journal of Economic Literature , 43(3), 762-800.
+
+Arrow, K. J. (1951).  Social Choice and Individual Values . New York: Wiley.
+
+Berliner, J. S. (1976).  The Innovation Decision in Soviet Industry . Cambridge: MIT Press.
+
+Besley, T., & Persson, T. (2011).  Pillars of Prosperity: The Political Economics of Development Clusters . Princeton: Princeton University Press.
+
+Birman, I. (1978). From the Achieved Level.  Soviet Studies , 30(2), 153-172.
+
+Black, D. (1948). On the Rationale of Group Decision-making.  Journal of Political Economy , 56(1), 23-34.
+
+Buchanan, J. M. (1986).  Liberty, Market and State: Political Economy in the 1980s . Brighton: Wheatsheaf Books.
+
+Buchanan, J. M. (1987). The Constitution of Economic Policy.  The American Economic Review , 77(3), 243-250.
+
+Buchanan, J. M., & Tullock, G. (1962).  The Calculus of Consent: Logical Foundations of Constitutional Democracy . Ann Arbor: University of Michigan Press.
+
+Coase, R. H. (1960). The Problem of Social Cost.  Journal of Law and Economics , 3, 1-44.
+
+Conquest, R. (1990).  The Great Terror: A Reassessment . Oxford: Oxford University Press.
+
+Downs, A. (1957).  An Economic Theory of Democracy . New York: Harper.
+
+Gerring, J. (2004). What Is a Case Study and What Is It Good for?  American Political Science Review , 98(2), 341-354.
+
+Gregory, P. R., & Stuart, R. C. (2001).  Russian and Soviet Economic Performance and Structure  (7th ed.). Boston: Addison Wesley.
+
+Hardin, G. (1968). The Tragedy of the Commons.  Science , 162(3859), 1243-1248.
+
+Hayek, F. A. (1945). The Use of Knowledge in Society.  American Economic Review , 35(4), 519-530.
+
+Hirschman, A. O. (1970).  Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States . Cambridge: Harvard University Press.
+
+Jowitt, K. (1992).  New World Disorder: The Leninist Extinction . Berkeley: University of California Press.
+
+Kornai, J. (1980).  Economics of Shortage . Amsterdam: North-Holland.
+
+Kornai, J. (1986). The Soft Budget Constraint.  Kyklos , 39(1), 3-30.
+
+Kornai, J. (1992).  The Socialist System: The Political Economy of Communism . Princeton: Princeton University Press.
+
+Krueger, A. O. (1974). The Political Economy of the Rent-Seeking Society.  The American Economic Review , 64(3), 291-303.
+
+Lange, O. (1936). On the Economic Theory of Socialism: Part One.  The Review of Economic Studies , 4(1), 53-71.
+
+Lenin, V. I. (1917).  The State and Revolution . Moscow: Progress Publishers.
+
+Lerner, A. P. (1944).  The Economics of Control: Principles of Welfare Economics . New York: Macmillan.
+
+Mas-Colell, A., Whinston, M. D., & Green, J. R. (1995).  Microeconomic Theory . New York: Oxford University Press.
+
+Mises, L. von (1920). Economic Calculation in the Socialist Commonwealth. In F. A. Hayek (Ed.),  Collectivist Economic Planning  (pp. 87-130). London: Routledge.
+
+Niskanen, W. A. (1971).  Bureaucracy and Representative Government . Chicago: Aldine-Atherton.
+
+North, D. C. (1990).  Institutions, Institutional Change and Economic Performance . Cambridge: Cambridge University Press.
+
+Nove, A. (1977).  The Soviet Economic System . London: George Allen & Unwin.
+
+Olson, M. (1965).  The Logic of Collective Action: Public Goods and the Theory of Groups . Cambridge: Harvard University Press.
+
+Ostrom, E. (1990).  Governing the Commons: The Evolution of Institutions for Collective Action . Cambridge: Cambridge University Press.
+
+Putnam, R. D. (2000).  Bowling Alone: The Collapse and Revival of American Community . New York: Simon & Schuster.
+
+Ramsey, F. P. (1928). A Mathematical Theory of Saving.  The Economic Journal , 38(152), 543-559.
+
+Rawls, J. (1971).  A Theory of Justice . Cambridge: Harvard University Press.
+
+Rigby, T. H. (1990).  Political Elites in the USSR: Central Leaders and Local Cadres from Lenin to Gorbachev . Aldershot: Edward Elgar.
+
+Samuelson, P. A. (1954). The Pure Theory of Public Expenditure.  Review of Economics and Statistics , 36(4), 387-389.
+
+Shleifer, A., & Vishny, R. W. (1994). Politicians and Firms.  The Quarterly Journal of Economics , 109(4), 995-1025.
+
+Tullock, G. (1967). The Welfare Costs of Tariffs, Monopolies, and Theft.  Western Economic Journal , 5(3), 224-232.
+
+Voslensky, M. (1984).  Nomenklatura: The Soviet Ruling Class . Garden City: Doubleday.
+
+Weingast, B. R., & Marshall, W. J. (1988). The Industrial Organization of Congress; or, Why Legislatures, Like Firms, Are Not Organized as Markets.  Journal of Political Economy , 96(1), 132-163.
+
+Wintrobe, R. (1998).  The Political Economy of Dictatorship . Cambridge: Cambridge University Press.
+
+Zaleski, E. (1980).  Stalinist Planning for Economic Growth, 1933-1952 . Chapel Hill: University of North Carolina Press.
+
+---
+
+## DOPLŇUJÚCA LITERATÚRA
+
+Alchian, A. A., & Demsetz, H. (1972). Production, Information Costs, and Economic Organization.  The American Economic Review , 62(5), 777-795.
+
+Becker, G. S. (1983). A Theory of Competition Among Pressure Groups for Political Influence.  The Quarterly Journal of Economics , 98(3), 371-400.
+
+Boettke, P. J. (2001).  Calculation and Coordination: Essays on Socialism and Transitional Political Economy . London: Routledge.
+
+Brennan, G., & Buchanan, J. M. (1980).  The Power to Tax: Analytical Foundations of a Fiscal Constitution . Cambridge: Cambridge University Press.
+
+Congleton, R. D., Hillman, A. L., & Konrad, K. A. (Eds.). (2008).  40 Years of Research on Rent Seeking . Berlin: Springer.
+
+Dahl, R. A. (1971).  Polyarchy: Participation and Opposition . New Haven: Yale University Press.
+
+Ellman, M. (1989).  Socialist Planning  (2nd ed.). Cambridge: Cambridge University Press.
+
+Frey, B. S., & Stutzer, A. (2002).  Happiness and Economics: How the Economy and Institutions Affect Human Well-being . Princeton: Princeton University Press.
+
+Gwartney, J. D., Holcombe, R. G., & Lawson, R. A. (2004). Economic Freedom, Institutional Quality, and Cross-Country Differences in Income and Growth.  Cato Journal , 24(3), 205-233.
+
+Hodgson, G. M. (2006). What Are Institutions?  Journal of Economic Issues , 40(1), 1-25.
+
+Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk.  Econometrica , 47(2), 263-291.
+
+Kolodko, G. W. (2000).  From Shock to Therapy: The Political Economy of Postsocialist Transformation . Oxford: Oxford University Press.
+
+Laffont, J. J., & Martimort, D. (2002).  The Theory of Incentives: The Principal-Agent Model . Princeton: Princeton University Press.
+
+Levy, D. M., & Peart, S. J. (2008). Socialist Calculation Debate. In S. N. Durlauf & L. E. Blume (Eds.),  The New Palgrave Dictionary of Economics  (2nd ed.). London: Palgrave Macmillan.
+
+Lindblom, C. E. (1977).  Politics and Markets: The World's Political-Economic Systems . New York: Basic Books.
+
+McCloskey, D. N. (2006).  The Bourgeois Virtues: Ethics for an Age of Commerce . Chicago: University of Chicago Press.
+
+Mueller, D. C. (2003).  Public Choice III . Cambridge: Cambridge University Press.
+
+Murrell, P. (1991). Can Neoclassical Economics Underpin the Reform of Centrally Planned Economies?  Journal of Economic Perspectives , 5(4), 59-76.
+
+Myerson, R. B. (2008). The Autocrat's Credibility Problem and Foundations of the Constitutional State.  American Political Science Review , 102(1), 125-139.
+
+Nee, V., & Opper, S. (2012).  Capitalism from Below: Markets and Institutional Change in China . Cambridge: Harvard University Press.
+
+Offe, C. (1991). Capitalism by Democratic Design? Democratic Theory Facing the Triple Transition in East Central Europe.  Social Research , 58(4), 865-892.
+
+Peltzman, S. (1976). Toward a More General Theory of Regulation.  Journal of Law and Economics , 19(2), 211-240.
+
+Persson, T., & Tabellini, G. (2000).  Political Economics: Explaining Economic Policy . Cambridge: MIT Press.
+
+Rodrik, D. (2007).  One Economics, Many Recipes: Globalization, Institutions, and Economic Growth . Princeton: Princeton University Press.
+
+Roland, G. (2000).  Transition and Economics: Politics, Markets, and Firms . Cambridge: MIT Press.
+
+Sachs, J. D. (1993). Poland's Jump to the Market Economy. Cambridge: MIT Press.
+
+Sen, A. (1999).  Development as Freedom . New York: Oxford University Press.
+
+Stigler, G. J. (1971). The Theory of Economic Regulation.  The Bell Journal of Economics and Management Science , 2(1), 3-21.
+
+Williamson, O. E. (1985).  The Economic Institutions of Capitalism . New York: Free Press.
+
+ 
