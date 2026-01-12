@@ -359,3 +359,14 @@ Ak by sa ukázalo, že len malé množstvo prác má výrazne vyššie skóre, n
 
 Výsledky tohto projektu zároveň poukazujú na etické otázky spojené s používaním generatívnych AI nástrojov v akademickom prostredí. Videli sme že len pri 1 z 8 nástrojov sa nám nepodarilo vytvoriť prácu v štýle bakalárskej práce a pri 4 z nich by ani nebolo náročné vyrobiť práce aj s relevantným obsahom.
 
+**Program**
+
+Najprv sme pomocou programu `make_representations.py` vytvoríme 3 reprezentácie textov:
+
+- Lemma reprezentácia obsahuje vety, v ktorých sú všetky slová nahradené ich základným tvarom
+- Func reprezentácia je zameraná na funkčné slová (napr. spojky, predložky, zámená) a ich použitie v kontexte. V tejto reprezentácii sú všetky obsahové slová (podstatné mená, slovesá, prídavné mená atď.) nahradené jednotnou značkou CONTENT
+- POS reprezentácia nahrádza každé slovo jeho gramatickou kategóriou (napr. NOUN, VERB)
+
+Následne pomocou skriptu `model.py` vytvoríme model a vyhodnotíme ho. Tento skript načítava súbor `representations.txt` , rozdeľuje dáta na tréningovú a testovaciu časť a následne realizuje samotné modelovanie a štatistické testovanie. Tento model využíva TF–IDF vektorizáciu a logistickú regresiu ako binárny klasifikátor. S výberom hyperparametrov nám pomohol CHatGPT.
+
+Výsledky tohto modelu sú uložené v `model_vysledky.txt`
