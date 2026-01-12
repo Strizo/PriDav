@@ -323,6 +323,7 @@ Po neúspechu identifikácie autora sme zmenili perspektívu problému. Namiesto
 
 Keďže reálne AI-generované bakalárske práce neboli k dispozícii, bolo potrebné si ich explicitne vytvoriť. Rozhodli sme sa preto vygenerovať bakalárske práce pomocou viacerých dostupných AI, aby sme získali čo najrozmanitejší tréningový súbor. 
 Použité nástroje a skúsenosti s nimi: 
+
 - Perplexity spoluprácu úplne odmietlo s explicitným odôvodnením, že by mohlo ísť o akademický podvod.
 - Claude, ChatGPT a Le Chat mali problémy s generovaním takéhoto typu textu ale nebolo veľmi náročné ich presvedčiť.
 - DeepAI, Grok, Copilot a Gemini umožnili generovanie bakalárskych prác bez zásadných problémov, väčšinou postupne po častiach z dôvodu maximálnej veľmkosti odpovede.
@@ -337,6 +338,7 @@ Následne sme tento model použili na testovaciu vzorku viet z bakalárskych pr�
 Po natrénovaní klasifikačného modelu nás zaujímalo, či sú výsledky pre testovacie bakalárske práce rozdielne od výsledkov diplomových prác a hlavne či sa podobnosť s AI zvýšila pri diplomových prácach. 
 
 Testovaná hypotéza bola formulovaná nasledovne:
+
 - Nulová hypotéza (H0): Rozdelenie pravdepodobností AI pre vety z diplomových prác nie je posunuté k vyšším hodnotám v porovnaní s testovacou sadou viet z bakalárskych prác.
 - Alternatívna hypotéza (H1): Rozdelenie pravdepodobností AI pre vety z diplomových prác je posunuté k vyšším hodnotám v porovnaní s testovacou sadou viet z bakalárskych prác.
 
@@ -352,4 +354,8 @@ Vo všetkých analyzovaných reprezentáciách bol Mann–Whitney U test štatis
 Takže z výsledkov vidíme, že diplomové práce boli podobnejšie štýlu AI ako bakalárske práce, ale tento posun môže byť spôsobený rôznymi príčinami, napr. všeobecný štýl písania diplomových prác je viac podobný štýlu AI ako štýl bakalárskych prác. Vidíme aj že najväčší rozdiel je pri lemmatizovanom texte, kde sa pozeráme na všetky slová aj obsahové nielen funkčné, takže táto zmena môže súvisieť aj so samotnými témami.
 
 Zaujímavým pokračovaním tejto práce by bolo analyzovať výsledky na úrovni jednotlivých diplomových prác, nie len agregovane na úrovni viet. Takýmto prístupom by sme mohli zistiť, či ide o globálnu zmenu štýlu akademického písania alebo či existujú konkrétne práce, ktoré sa výrazne odlišujú od ostatných a vykazujú podstatne vyššiu mieru podobnosti s AI-generovaným textom.
+
+Ak by sa ukázalo, že len malé množstvo prác má výrazne vyššie skóre, naznačovalo by to individuálne správanie autorov. Naopak, rovnomerný posun by podporoval hypotézu všeobecnej zmeny jazykového štýlu v akademickom prostredí.
+
+Výsledky tohto projektu zároveň poukazujú na etické otázky spojené s používaním generatívnych AI nástrojov v akademickom prostredí. Videli sme že len pri 1 z 8 nástrojov sa nám nepodarilo vytvoriť prácu v štýle bakalárskej práce a pri 4 z nich by ani nebolo náročné vyrobiť práce aj s relevantným obsahom.
 
