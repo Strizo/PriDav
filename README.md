@@ -336,3 +336,4 @@ AI-generované práce boli následne spracované rovnakým spôsobom ako origin�
 Na takto pripravených dátach sme natrénovali jednoduchý klasifikačný model, ktorý sa učí rozlišovať ľudské bakalárske práce a AI-generované bakalárske práce. Model sa pritom neučí obsah textu, ale jeho štýlové vlastnosti, reprezentované pomocou n-gramov (či už znakov alebo slov/tokenov v prípade funkčných slov a POS). Výsledkom modelu nie je binárne rozhodnutie, ale pravdepodobnosť, s akou daná veta pôsobí ako AI-generovaná.
 Následne sme tento model použili na testovaciu vzorku viet z bakalárskych prác a potom na diplomové práce aby sme vedeli porovnať ako veľmi ako AI pôsobia vety z bakalárskych prác, ktoré vôbec nemôžu byť napísané AI a ako veľmi vety z diplomových prác a či sa tento podiel zmenil.
 
+
