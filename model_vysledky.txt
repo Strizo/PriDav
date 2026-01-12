@@ -1,0 +1,29 @@
+LEMMA
+U: 112844280.5
+p: 6.105349351967795e-280
+
+pocet viet s P(AI) > 0.5 v testovacej sade: 176
+priemerna P(AI): 0.17447081389477417
+
+pocet viet s P(AI) > 0.5 v diplomovkach: 3796
+priemerna P(AI): 0.25730808705497527
+
+FUNC
+U: 68619515.5
+p: 1.5507868792422924e-19
+
+pocet viet s P(AI) > 0.5 v testovacej sade: 736
+priemerna P(AI): 0.30994441724605337
+
+pocet viet s P(AI) > 0.5 v diplomovkach: 6455
+priemerna P(AI): 0.33981392587560555
+
+POS
+U: 81589580.0
+p: 2.725899149378131e-11
+
+pocet viet s P(AI) > 0.5 v testovacej sade: 1482
+priemerna P(AI): 0.39649301456764674
+
+pocet viet s P(AI) > 0.5 v diplomovkach: 11471
+priemerna P(AI): 0.4176675358468537
