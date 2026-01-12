@@ -315,8 +315,6 @@ LLM často používajú určité generické frázy na vyplnenie textu, ako napr�
 
 ### Model na rozlišovanie AI prác
 
-### Model na rozlišovanie AI prác
-
 Nakoniec sme sa pozreli na to, či vieme na základe bakalárskych prác natrénovať model ktorý rozozná autora danej práce. Tento prístup sme ale po pár prvých pokusoch o vytvorenie modelu ukončili, lebo jedna bakalárka bola príliš krátka na dostatočné natrénovanie modelu a prvotné pokusy dokázali určiť správne autora len v 2 prípadoch z 30. 
 
 Po neúspechu identifikácie autora sme zmenili perspektívu problému. Namiesto otázky „kto je autorom textu?“ sme sa začali pýtať: „Je tento text napísaný človekom alebo generovaný umelou inteligenciou?“ Ide o binárnu klasifikačnú úlohu, ktorá je výrazne jednoduchšia a realistickejšia než rozlišovanie konkrétnych autorov. Cieľom už nie je identifikovať individuálny štýl, ale rozpoznať systematické rozdiely medzi ľudským a AI písaním. 
@@ -336,4 +334,22 @@ AI-generované práce boli následne spracované rovnakým spôsobom ako origin�
 Na takto pripravených dátach sme natrénovali jednoduchý klasifikačný model, ktorý sa učí rozlišovať ľudské bakalárske práce a AI-generované bakalárske práce. Model sa pritom neučí obsah textu, ale jeho štýlové vlastnosti, reprezentované pomocou n-gramov (či už znakov alebo slov/tokenov v prípade funkčných slov a POS). Výsledkom modelu nie je binárne rozhodnutie, ale pravdepodobnosť, s akou daná veta pôsobí ako AI-generovaná.
 Následne sme tento model použili na testovaciu vzorku viet z bakalárskych prác a potom na diplomové práce aby sme vedeli porovnať ako veľmi ako AI pôsobia vety z bakalárskych prác, ktoré vôbec nemôžu byť napísané AI a ako veľmi vety z diplomových prác a či sa tento podiel zmenil.
 
+Po natrénovaní klasifikačného modelu nás zaujímalo, či sú výsledky pre testovacie bakalárske práce rozdielne od výsledkov diplomových prác a hlavne či sa podobnosť s AI zvýšila pri diplomových prácach. 
+
+Testovaná hypotéza bola formulovaná nasledovne:
+- Nulová hypotéza (H0): Rozdelenie pravdepodobností AI pre vety z diplomových prác nie je posunuté k vyšším hodnotám v porovnaní s testovacou sadou viet z bakalárskych prác.
+- Alternatívna hypotéza (H1): Rozdelenie pravdepodobností AI pre vety z diplomových prác je posunuté k vyšším hodnotám v porovnaní s testovacou sadou viet z bakalárskych prác.
+
+Takže, testujeme, či diplomové práce z hľadiska jazykového štýlu pôsobia viac ako AI-generované texty než bakalárske práce.
+
+Na porovnanie rozdelení pravdepodobností AI sme použili Mann–Whitney U test ktorý testuje posun celého rozdelenia, nie iba rozdiel priemerov.
+Tento test bol aplikovaný samostatne pre jednotlivé typy jazykovej reprezentácie (lemma, funkčné slová, POS), pričom alternatívna hypotéza bola vždy formulovaná v smere vyšších hodnôt pre diplomové práce.
+
+**Výsledky**
+
+Vo všetkých analyzovaných reprezentáciách bol Mann–Whitney U test štatisticky významný (p < 0.05 - [6.1e-280; 1.5e-19 a 2.7e-11), čo znamená, že nulovú hypotézu rovnosti rozdelení bolo možné jednoznačne zamietnuť. Rozdelenia pravdepodobností AI pre diplomové práce boli konzistentne posunuté k vyšším hodnotám v porovnaní s testovacou sadou bakalárskych prác. Zároveň priemerné hodnoty pravdepodobnosti P sa zmenili nasledovne [0.17 -> 0.26; 0.31 -> 0.34; 0.4 -> 0.42].
+
+Takže z výsledkov vidíme, že diplomové práce boli podobnejšie štýlu AI ako bakalárske práce, ale tento posun môže byť spôsobený rôznymi príčinami, napr. všeobecný štýl písania diplomových prác je viac podobný štýlu AI ako štýl bakalárskych prác. Vidíme aj že najväčší rozdiel je pri lemmatizovanom texte, kde sa pozeráme na všetky slová aj obsahové nielen funkčné, takže táto zmena môže súvisieť aj so samotnými témami.
+
+Zaujímavým pokračovaním tejto práce by bolo analyzovať výsledky na úrovni jednotlivých diplomových prác, nie len agregovane na úrovni viet. Takýmto prístupom by sme mohli zistiť, či ide o globálnu zmenu štýlu akademického písania alebo či existujú konkrétne práce, ktoré sa výrazne odlišujú od ostatných a vykazujú podstatne vyššiu mieru podobnosti s AI-generovaným textom.
 
